@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionexport.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014010426id_/http%3A//www.auctionexport.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionexport.com privacy policy that was archived on 2013-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130417105707id_/http%3A//www.auctionexport.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -35,6 +35,8 @@ pageTracker._trackPageview();
 </script>
 
 
+
+
 <script type="text/javascript" language="JavaScript">
      function Toggle_Visible(div)
      {
@@ -52,379 +54,262 @@ pageTracker._trackPageview();
 	   ptr.style.display="none";
      }
 
+
+     function menuItemActive(_this) {
+         _this.style.color = "blue";
+     }
+
+     function menuItemInactive(_this, variant) {
+         if (variant == 2) {
+             _this.style.color = "red";
+         }
+         else {
+             _this.style.color = "#69686a";
+         }
+     }
+
 </script>
 
-            <table border="0" style="border-collapse: collapse;" width="100%">
+
+<style>
+    #id_GoogleSearch_input{
+        margin:0 !important;
+    }
+</style>
+
+<table border="0" style="border-collapse: collapse;" width="100%">
+    <tbody><tr>
+        <td>
+            <img src="/images/Logo_Alt.png" border="0" onclick="location.href='/inventory/'" style="cursor: hand; cursor: pointer;"></td>
+        <td align="right" valign="bottom" style="vertical-align: bottom;">
+            <table style="width: 100%">
                 <tbody><tr>
-                    <td><img src="/images/Logo_Alt.png" border="0" onclick="location.href='/inventory/'" style="cursor: hand; cursor: pointer;"></td>
-                    <td align="right" valign="bottom" style="vertical-align: bottom;">
-                    <table>
-                    <tbody><tr>
-                    <td>Language:</td>
-                    <td align="left" style="width: 180px;">
-                    <table border="0">
-                    <tbody><tr>
-                    <td>
-                    <select name="lang" id="lang" onchange="changeLanguage()">
-                            <option value="1" selected="">English</option>
-                            <option value="2">French</option>
-                            <option value="3">German</option>
-                            <option value="4">Spanish</option>
-                            <option value="5">Russian</option>
-                            <option value="6">Polish</option>
-                            <option value="7">Arabic</option>
-                            <option value="8">Chinese</option>
-                        </select>
+                    <td rowspan="2">
+                        <div style="width: 350px;">&nbsp;</div>
                     </td>
                     <td>
-                    
-                <img src="/images/usa.gif" border="0" align="left">
-                
-                    </td>
-                    </tr>
-                    </tbody></table>
-                    </td>
-                    <td align="left" style="width: 150px;"><a target="_blank" href="http://www.facebook.com/auctionexport"><img border="0" src="/images/fb2.png"></a>
-                    </td>
-                    <td style="vertical-align: top;">
-                    <br><form action="http://www.auctionexport.com/search_results.html" id="cse-search-box">
-                      <div>
-                        <input type="hidden" name="cx" value="partner-pub-0325800554253834:3u0fg27ux77">
-                        <input type="hidden" name="cof" value="FORID:11">
-                        <input type="hidden" name="ie" value="UTF-8">
-                        <input type="text" name="q" value="" size="25">
-                        <input type="submit" name="sa" value="Search">
-                        <div style="font-family: arial; color: black;"><small>Google Us "Auction Export"</small></div>
-                      </div>
-                    </form>
-                <script type="text/javascript" src="http://www.google.ca/cse/brand?form=cse-search-box&amp;lang=en"></script>
-                    </td>
-                    </tr>
-                    </tbody></table>
+                        <table>
+                            <tbody><tr>
+                                <td style="vertical-align:top;">
+                                    <a target="_blank" href="https://www.facebook.com/auctionexport" style="text-decoration: none;">
+                                        <img border="0" src="/images/FindUsOnFacebook.png">
+                                    </a>
+                                </td>
+                                <td style="vertical-align:top;">
+                                    <form action="http://www.auctionexport.com/search_results.html" id="cse-search-box">
+                                        <div>
+                                            <input type="hidden" name="cx" value="partner-pub-0325800554253834:3u0fg27ux77">
+                                            <input type="hidden" name="cof" value="FORID:11">
+                                            <input type="hidden" name="ie" value="UTF-8">
+                                            <input type="text" name="q" value="" size="25" id="id_GoogleSearch_input">
+                                            <div style="font-family: arial; color: black; text-align: left;">
+                                                <small>Google Us "Auction Export"</small>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <script type="text/javascript" src="http://www.google.ca/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                                </td>
+                                <td style="vertical-align:top;">
+                                    <img src="/images/SearchMiniButton.png" onclick="document.getElementById('cse-search-box').submit();" style="cursor:pointer;">
+                                </td>
+                            </tr>
+                        </tbody></table>
                     </td>
                 </tr>
                 <tr>
-			<td valign="top" colspan="2">
-            
+                    <td style="text-align: right;">
+                        <span>Language:</span>
+                        <span>
+                            <select name="lang" id="lang" onchange="changeLanguage()">
+                                <option value="1" selected="">English</option>
+                                <option value="2">French</option>
+                                <option value="3">German</option>
+                                <option value="4">Spanish</option>
+                                <option value="5">Russian</option>
+                                <option value="6">Polish</option>
+                                <option value="7">Arabic</option>
+                                <option value="8">Chinese</option>
+                            </select>
+                        </span>
+                        <span>
+                            
+                            <img src="/images/usa.gif" border="0">
+                            
+                        </span>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
 
-                <div align="right">
+    <tr>
+        <td valign="top" colspan="2">
+            <div align="right" style="padding-bottom: 3px;">
+
                 <table cellspacing="0">
                     <tbody><tr>
                         <td>
-                        <a href="/" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center" style="border-right: solid 2px #d5d5d5; ">
-                                    <a href="/" style="text-decoration: none;"><span style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">HOME</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                            <a href="/" style="text-decoration: none;">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/CurrentMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/CurrentMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/CurrentMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center" style="border-right: solid 2px #d5d5d5;">
+                                            <a href="/" style="text-decoration: none;">
+                                                <span style="font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px; color: blue;">
+                                                    HOME
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                </td>
-                            </tr>
-                            </tbody></table>
-                          </a>
+                                </tbody></table>
+                            </a>
                         </td>
 
-                        <td onmouseover="Toggle_Visible('inventory_act'); Toggle_Invisible('inventory_inact');" onmouseout="Toggle_Visible('inventory_inact'); Toggle_Invisible('inventory_act');">
-
+                        <td>
                             <a href="/inventory/" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center" style="border-right: solid 2px #d5d5d5; ">
-                                    <a href="/inventory/" style="text-decoration: none;"><span style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">SEARCH</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="inventory_inact" name="inventory_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="inventory_act" name="inventory_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center" style="border-right: solid 2px #d5d5d5;">
+                                            <a href="/inventory/" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this)" style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    SEARCH
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
 
-                        <td onmouseover="Toggle_Visible('shipping_act'); Toggle_Invisible('shipping_inact');" onmouseout="Toggle_Visible('shipping_inact'); Toggle_Invisible('shipping_act');">
-
+                        <td>
                             <a href="/shipping.asp" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center" style="border-right: solid 2px #d5d5d5; ">
-                                    <a href="/shipping.asp" style="text-decoration: none;"><span style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">SHIPPING</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="shipping_inact" name="shipping_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="shipping_act" name="shipping_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td width="100%" style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center" style="border-right: solid 2px #d5d5d5;">
+                                            <a href="/shipping.asp" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this)" style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    SHIPPING
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
 
-                        <td onmouseover="Toggle_Visible('how_2_buy_act'); Toggle_Invisible('how_2_buy_inact');" onmouseout="Toggle_Visible('how_2_buy_inact'); Toggle_Invisible('how_2_buy_act');">
-
+                        <td>
                             <a href="/how_to_buy.asp" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center" style="border-right: solid 2px #d5d5d5; ">
-                                    <a href="/how_to_buy.asp" style="text-decoration: none;"><span style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">HOW TO BUY</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="how_2_buy_inact" name="how_2_buy_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="how_2_buy_act" name="how_2_buy_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center" style="border-right: solid 2px #d5d5d5;">
+                                            <a href="/how_to_buy.asp" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this)" style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    HOW TO BUY
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
 
-                        <td onmouseover="Toggle_Visible('about_us_act'); Toggle_Invisible('about_us_inact');" onmouseout="Toggle_Visible('about_us_inact'); Toggle_Invisible('about_us_act');">
-
+                        <td>
                             <a href="/about_us.asp" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center" style="border-right: solid 2px #d5d5d5; ">
-                                    <a href="/about_us.asp" style="text-decoration: none;"><span style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">ABOUT US</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="about_us_inact" name="about_us_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="about_us_act" name="about_us_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center" style="border-right: solid 2px #d5d5d5;">
+                                            <a href="/about_us.asp" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this)" style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    ABOUT US
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
 
                         <!-- F.A.Q. -->
-                        <td onmouseover="Toggle_Visible('faq_act'); Toggle_Invisible('faq_inact');" onmouseout="Toggle_Visible('faq_inact'); Toggle_Invisible('faq_act');">
-
+                        <td>
                             <a href="javascript: any_pop('/content/faq.asp', '800', '660')" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center" style="border-right: solid 2px #d5d5d5; ">
-                                    <a href="javascript: any_pop('/content/faq.asp', '800', '660')" style="text-decoration: none;"><span style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">F.A.Q.</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="faq_inact" name="faq_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="faq_act" name="faq_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center" style="border-right: solid 2px #d5d5d5;">
+                                            <a href="javascript: any_pop('/content/faq.asp', '800', '660')" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this)" style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    F.A.Q.
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
 
-                        <td onmouseover="Toggle_Visible('contact_us_act'); Toggle_Invisible('contact_us_inact');" onmouseout="Toggle_Visible('contact_us_inact'); Toggle_Invisible('contact_us_act');">
-
+                        <td>
                             <a href="/contact_us.asp" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center">
-                                    <a href="/contact_us.asp" style="text-decoration: none;"><span style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">CONTACT US</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="contact_us_inact" name="contact_us_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="contact_us_act" name="contact_us_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center">
+                                            <a href="/contact_us.asp" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this)" style="color: #69686a; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    CONTACT US
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
-                        <td>
-                            <img src="/images/New_Register_Separately.png" border="0" style="position: relative; top: -6px;">
-                        </td>
-                        <td onmouseover="Toggle_Visible('register_act'); Toggle_Invisible('register_inact');" onmouseout="Toggle_Visible('register_inact'); Toggle_Invisible('register_act');">
 
+                        
+
+                        <td>
+                            <img src="/images/New_Register_Separately.png" border="0" style="position: relative;">
+                        </td>
+
+                        <td>
                             <a href="/seller" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center">
-                                    <a href="/seller" style="text-decoration: none;"><span style="color: #da1515; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">REGISTER</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="register_inact" name="register_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="register_act" name="register_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center">
+                                            <a href="/seller" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this, 2)" style="color: #da1515; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    REGISTER
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
 
                         <td>
-                            <img src="/images/Top_Menu_Arrows_Separately.png" border="0" style="position: relative; top: -6px;">
+                            <img src="/images/Top_Menu_Arrows_Separately.png" border="0" style="position: relative;">
                         </td>
-                        <td onmouseover="Toggle_Visible('login_act'); Toggle_Invisible('login_inact');" onmouseout="Toggle_Visible('login_inact'); Toggle_Invisible('login_act');">
 
+                        <td>
                             <a href="/login.asp" style="text-decoration: none;">
-                            <table>
-                            <tbody><tr>
-                                <td align="center">
-                                    <a href="/login.asp" style="text-decoration: none;"><span style="color: #da1515; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">LOG IN</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div id="login_inact" name="login_inact">
-                                        <div style="width: 23px; height: 7px;"></div>
-                                    </div>
-                                    <div id="login_act" name="login_act" style="display: none;">
-                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                <table>
                                     <tbody><tr>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuLeft.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px; height: 7px;"></div>
-                                        </td>
-                                        <td width="100%" style="height: 7px; background-image: url(/images/ActiveMenuMiddle.png); background-repeat:repeat-x;">
-                                        </td>
-                                        <td style="width: 23px; height: 7px; background-image: url(/images/ActiveMenuRight.png); background-repeat:no-repeat;">
-                                            <div style="width: 23px;"></div>
+                                        <td align="center">
+                                            <a href="/login.asp" style="text-decoration: none;">
+                                                <span onmouseover="menuItemActive(this)" onmouseout="menuItemInactive(this, 2)" style="color: #da1515; font-weight: bold; font-family: arial; font-size: 12px; padding-left: 5px; padding-right: 9px;">
+                                                    LOG IN
+                                                </span>
+                                            </a>
                                         </td>
                                     </tr>
-                                    </tbody></table>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody></table>
+                                </tbody></table>
                             </a>
                         </td>
+                        
                     </tr>
                 </tbody></table>
 
-                </div>
-
-            
-            </td>
-                </tr>
-            </tbody></table>
+            </div>
+        </td>
+    </tr>
+</tbody></table>
 
 
 
@@ -536,54 +421,146 @@ If you have any concerns or questions about our privacy policy or the manner in 
             <td bgcolor="#ccd1d9"></td>
             <td bgcolor="#ccd1d9" height="40px">
                 <style type="text/css">
-<!--
-.style4 {font-size:9px; color: #505050; font-weight: normal;}
-.style6 {font-size:9px; color: #505050; font-weight: bold;}
-.a1 {font-size:9px; color:#505050; font-weight: normal;}
+    <!--
+    .style4 {
+        font-size: 9px;
+        color: #505050;
+        font-weight: normal;
+    }
 
--->
+    .style6 {
+        font-size: 9px;
+        color: #505050;
+        font-weight: bold;
+    }
+
+    .a1 {
+        font-size: 9px;
+        color: #505050;
+        font-weight: normal;
+    }
+
+    -->
 </style>
 
-                <div style="width:898px;">
-	            <div style="text-decoration:none;">
-					<a style="text-decoration:none; font-weight:bold; color:black;" href="/privacy_policy.asp">Privacy policy</a>&nbsp;|
-					<a style="text-decoration:none; font-weight:bold; color:black;" href="/terms_of_use.asp">Terms Of Use</a>&nbsp;|
-					<a style="text-decoration:none; font-weight:bold; color:black;" target="_blank" href="/register/terms.asp">Terms And Conditions</a> &nbsp;|
-					<a style="text-decoration:none; font-weight:bold; color:black;" href="/links/">Links</a>&nbsp;|
-   					<a style="text-decoration:none; font-weight:bold; color:black;" href="/sitemap.html">Sitemap</a>
-                    &nbsp; © Copyright 2012 Auction Export.com All Rights Reserved &nbsp;
+
+
+<style type="text/css">
+    .processPanel {
+        position: fixed;
+        z-index: 1000;
+        text-align: center;
+    }
+
+    .processFor_panel {
+        z-index: 1000;
+        background-position: center center;
+        text-align: center;
+        margin: 0 auto;
+    }
+</style>
+
+<div class="processPanel" style="top: 295px; right: 0px;" id="id_LiveChat_Container">
+    <div class="processFor_panel">
+        <img id="id_LiveChat_Btn" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1.0;" src="/images/live_chat.png" style="cursor: hand; cursor: pointer;" onclick="javascript: any_pop(&quot;http://support.auctionexport.com/Chat/frmClientPreChat.aspx?InfoGuid=727e74ca70004051b621a574ddbb830d&amp;config=1&quot;,&quot;600&quot;,&quot;458&quot;)">
+    </div>
+</div>
+
+
+
+<div style="width: 898px;">
+    <div style="text-decoration: none;">
+        <a style="text-decoration: none; font-weight: bold; color: black;" href="/privacy_policy.asp">Privacy policy</a>&nbsp;|
+					<a style="text-decoration: none; font-weight: bold; color: black;" href="/terms_of_use.asp">Terms Of Use</a>&nbsp;|
+					<a style="text-decoration: none; font-weight: bold; color: black;" target="_blank" href="/register/terms.asp">Terms And Conditions</a> &nbsp;|
+					<a style="text-decoration: none; font-weight: bold; color: black;" href="/links/">Links</a>&nbsp;|
+   					<a style="text-decoration: none; font-weight: bold; color: black;" href="/sitemap.html">Sitemap</a>
+        &nbsp; © Copyright 2013 Auction Export.com All Rights Reserved &nbsp;
                <div align="right">
-                               <!-- AddThis Button BEGIN -->
-                                <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-                                <a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=auctionexport"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0; position: relative; top: +3px;"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=auctionexport"></script>
-                                <!-- AddThis Button END -->
+                   <!-- AddThis Button BEGIN -->
+                   <script type="text/javascript">var addthis_config = { "data_track_clickback": true };</script>
+                   <a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=auctionexport">
+                       <img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border: 0; position: relative; top: +3px;"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=auctionexport"></script>
+                   <!-- AddThis Button END -->
                </div>
-                     <br>
-                    <table width="100%" border="0">
-                      <tbody><tr>
-                        <td align="center"><span class="style6">Recent Articles:</span><br><span class="a1"><a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Car-Shipping-From-USA.html">Car shipping from usa</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/New-Car-USA.html">New car usa</a> |
+        <br>
+        <table width="100%" border="0">
+            <tbody><tr>
+                <td align="center"><span class="style6">Recent Articles:</span><br>
+                    <span class="a1"><a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Car-Shipping-From-USA.html">Car shipping from USA</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/New-Car-USA.html">New car USA</a> |
 	            Dealer auto auction |
-	             <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Public-Auto-Auctions.html">Public auto auctions</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Cars-From-USA.html">Cars from USA</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Buying-Used-Vehicle.html"> Export vehicle</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Dealer-Used-Cars-Auction.html">Dealer used cars</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Auto-Import-Export.html">Auto import export</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/inventory/">Motorcycle export</a>  <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Salvage-Auto-Car-Auction-USA.html">Salvage auto auction</a> |
-	            Clean Car auction |                <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Used-Car-Auction.html">Used car auction</a> |
-	             <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Online-Car-Sales.html">online car sales</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Car-From-Canada.html">Car from Canada</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Insurance-Auction.html">Insurance Auction</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Auto-Shipping.html">Auto Shipping</a>
-                  | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Car-From-Canada.html">Car from Canada</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Insurance-Auction.html">Insurance Auction</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Auto-Shipping.html">Auto Shipping</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Car-From-Canada.html">Car from Canada</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/Ghana">Ghana</a> | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/russia">Russia</a>
-                  | <a style="text-decoration:none; color:#505050; font-weight:normal;" href="http://www.auctionexport.com/paraguay/">Paraguay</a>
-                  </span></td>
-                      </tr>
-                    </tbody></table>
-	            </div>
-                 </div>
-                <!-- Start Quantcast tag -->
+	             <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Public-Auto-Auctions.html">Public auto auctions</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Cars-From-USA.html">Cars from USA</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Buying-Used-Vehicle.html">Export vehicle</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Dealer-Used-Cars-Auction.html">Dealer used cars</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Auto-Import-Export.html">Auto import export</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/inventory/">Motorcycle export</a>  <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Salvage-Auto-Car-Auction-USA.html">Salvage auto auction</a> |
+	            Clean Car auction |                <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Used-Car-Auction.html">Used car auction</a> |
+	             <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Online-Car-Sales.html">online car sales</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Car-From-Canada.html">Car from Canada</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Insurance-Auction.html">Insurance Auction</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Auto-Shipping.html">Auto Shipping</a>
+                        | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Car-From-Canada.html">Car from Canada</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Insurance-Auction.html">Insurance Auction</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Auto-Shipping.html">Auto Shipping</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Car-From-Canada.html">Car from Canada</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/Ghana">Ghana</a> | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/russia">Russia</a>
+                        | <a style="text-decoration: none; color: #505050; font-weight: normal;" href="http://www.auctionexport.com/paraguay/">Paraguay</a>
+                    </span></td>
+            </tr>
+        </tbody></table>
+    </div>
+</div>
+
+<!-- Start Quantcast tag -->
 <script type="text/javascript">
-_qoptions={
-qacct:"p-6dDMFV4yx6dOA"
-};
+    _qoptions = {
+        qacct: "p-6dDMFV4yx6dOA"
+    };
 </script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
-<img src="http://pixel.quantserve.com/pixel/p-6dDMFV4yx6dOA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    <img src="http://pixel.quantserve.com/pixel/p-6dDMFV4yx6dOA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
 </noscript>
 <!-- End Quantcast tag -->
+
+
+
+<script type="text/javascript" language="JavaScript" src="/js/main.js"></script>
+<script type="text/javascript" charset="utf-8">
+    function init_mini_menu() {
+        if (navigator.appVersion.indexOf("MSIE") == -1) {
+            set_LiveChat_position();
+            var dt = new Date();
+            if (4 != 1 && 4 != 7) { //vbSunday 1 ... vbSaturday 7
+                var varIsLiveChatActive = false;
+                if((6 >= 4) && (6 < 18))
+                {
+                  document.getElementById("id_LiveChat_Container").style["display"] = "";
+                  varIsLiveChatActive = true;
+                }
+                if(6 == 3 && 55 > 30)
+                {
+                  document.getElementById("id_LiveChat_Container").style["display"] = "";
+                  varIsLiveChatActive = true;
+                }
+                if(varIsLiveChatActive == false)
+                {
+                  document.getElementById('id_LiveChat_Btn').src="/images/live_chat_inactive.png";
+                  document.getElementById('id_LiveChat_Btn').onclick = function(){ alert('Live chat is currently offline');}
+                  document.getElementById("id_LiveChat_Container").style["display"] = "";
+                }
+            }
+        }
+        else {
+            document.getElementById("id_LiveChat_Container").style["display"] = "none";
+        }
+    }
+
+    function set_LiveChat_position() {
+        document.getElementById("id_LiveChat_Container").style.right = 0;
+        document.getElementById("id_LiveChat_Container").style.top = ((window.innerHeight / 2) - 89);
+    }
+
+    if (window.addEventListener) // W3C standard
+    {
+      window.addEventListener('load', init_mini_menu, false);
+      window.addEventListener('resize', set_LiveChat_position, false);
+    }
+    else if (window.attachEvent) // Microsoft
+    {
+      window.attachEvent('onload', init_mini_menu);
+      window.attachEvent('onresize', set_LiveChat_position);
+    }
+</script>
 
 
 			</td>
