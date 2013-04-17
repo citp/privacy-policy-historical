@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the avon.ca privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216011307id_/http%3A//www.ca.avon.com/PRSuite/privacy_security.page%3FLANG_CD%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.ca privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417171903id_/http%3A//www.ca.avon.com/PRSuite/privacy_security.page%3FLANG_CD%3Den_CA) for the most accurate reproduction.*
 
 # Avon cosmetics, beauty, make-up, skincare, fragrance, jobs, work from home
+
+LAST UPDATED: March 1, 2013
 
 AVON CANADA INC. PRIVACY STATEMENT NEW
 
@@ -8,9 +10,9 @@ TABLE OF CONTENTS
 
 INTRODUCTION; SCOPE
 
-Avon Canada Inc. (“Avon,” “us,” or “we”) has created this Privacy Statement to inform you about how we collect, use and disclose information.
+Avon Canada Inc. (“Avon,” “us,” or “we”) has created this Privacy Statement to inform you about how we collect, use and disclose your personal information as defined below.
 
-This Privacy Statement applies to information collected through this website and any mobile sites, applications, widgets, and other interactive features that link to this Privacy Statement (the “Site“). Except as specifically provided below, this Privacy Statement does not apply to information collected by Avon by or through any other means, such as information collected offline.
+This Privacy Statement applies to information collected through this website and any mobile sites, applications, widgets, and other interactive features that link to or refer to this Privacy Statement (the “Site“). Except as specifically provided below, this Privacy Statement does not apply to information collected by Avon by or through any other means, such as information collected offline.
 
 Avon grants independent contractors selling rights to its products (hereinafter referred to as Independent Sales Representatives or Avon Representatives). Independent Sales Representatives are not employed by Avon. Therefore, Avon does not control, and is not responsible or liable for the collection, use or disclosure of Personal Information by Independent Sales Representatives, including for their marketing purposes. If you provide information to an Independent Sales Representative through the Site, Avon will have access to it and shall treat it in accordance with this Privacy Statement. Independent Sales Representatives may provide Avon with information regarding their customers, in which case Avon will treat such information, once in its possession, in accordance with this Statement.
 
@@ -24,7 +26,7 @@ PERSONAL INFORMATION
 
  **Use of Personal Information.** We may use Personal Information:
 
-  * for the purposes for which you specifically provided it including, without limitation, to enable us to respond to your inquiries and process and fulfill your requests;
+  * for the purposes for which you specifically provided it including, without limitation, to enable us to contact you, to respond to your inquiries and process and fulfill your requests;
 
 
 
@@ -184,6 +186,7 @@ If you would like to review, correct, or delete Personal Information that has be
 
 
 
+
   * the time required to undertake any consultations necessary to respond to the request would make the initial 30-day deadline impracticable to meet;
 
 
@@ -201,7 +204,7 @@ We also may extend the initial 30-days for a period of time necessary for us to 
 
 RETENTION
 
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or allowed by law.
+We will retain your Personal Information for the period resonably necessary to fulfill the purposes outlined in this Privacy Statement and for as long required by applicable.
 
 USE OF SITE BY CHILDREN
 
@@ -227,7 +230,7 @@ This Privacy Statement applies to the Personal Information of Independent Sales 
 
 If you seek to become an Avon Representative we may collect and use your Personal Information including credit-related information to determine your eligibility.
 
-In order to be appointed an Avon Representative, you may be required to enter into a separate agreement with Avon (“Representative Agreement”). If you have entered into a Representative Agreement, we may collect, use and disclose your Personal Information in accordance with this Privacy Statement and the terms of your “Representative Agreement.” We also may collect, use and disclose your Personal Information as necessary to fulfill our obligations under the Representative Agreement. In the event of a conflict between this Privacy Statement and the Representative Agreement, the terms of the Representative Agreement shall apply.
+In order to be appointed an Avon Representative, you may be required to enter into a separate Independent Sales Representative agreement with Avon (“Representative Agreement”). If you have entered into a Representative Agreement, we may collect, use and disclose your Personal Information in accordance with this Privacy Statement and the terms of your “Representative Agreement.” We also may collect, use and disclose your Personal Information as necessary to fulfill our obligations under the Representative Agreement including your social insurance number (SIN) for tax reporting and your credit card or bank information for payment of your account by credit card or direct debit. Your payment information may be collected by telephone or other voice telecommunications service offered by Avon. In the event of a conflict between this Privacy Statement and the Representative Agreement, the terms of the Representative Agreement shall apply.
 
 Once you are an Avon Representative (including a sales leader), we may disclose your Personal Information:
 
