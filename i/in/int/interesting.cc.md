@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interesting.cc privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216020558id_/http%3A//interesting.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting.cc privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417025327id_/http%3A//interesting.cc/privacy) for the most accurate reproduction.*
 
 # interesting - Privacy Policy
 
