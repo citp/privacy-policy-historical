@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationtimes.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204135807id_/http%3A//ms1.timesofindia.com/ads/privacypolicy/edutimes.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationtimes.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417112620id_/http%3A//ms.mumbaimirror.com/ads/privacypolicy/edutimes.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
