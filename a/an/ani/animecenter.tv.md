@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animecenter.tv privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217173556id_/http%3A//animecenter.tv/legal-disclaimer-private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecenter.tv privacy policy that was archived on 2013-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130418230111id_/http%3A//www.animecenter.tv/legal-disclaimer-private-policy) for the most accurate reproduction.*
 
 # Legal Disclaimer & Private Policy | Watch Anime Online for Free | Watch Anime Online for free
 
@@ -49,3 +49,7 @@ AnimeCenter.TV Network we collect the following information from you:
 when you provide us with this information you can be assured that it will only be used in accordance with 
 
 this privacy statement. If you have any questions regarding our Privacy Policy please feel free to contact us [here](https://web.archive.org/contact)
+
+  * 989
+
+
