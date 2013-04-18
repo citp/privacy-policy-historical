@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the markologo.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217025734id_/http%3A//www.markologo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markologo.com privacy policy that was archived on 2013-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130418221350id_/http%3A//markologo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome To Markologo
 
 |   |  |  |  |  |   
 ---|---|---|---  
-[](https://web.archive.org/web/20121217025734id_/http%3A//www.markologo.com/index.html) |  |   
+[](https://web.archive.org/web/20130418221350id_/http%3A//markologo.com/index.html) |  |   
 |   
 ---  
 |  |   |  |   
