@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the definebabes.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614063222id_/http%3A//www.definebabe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definebabes.com privacy policy that was archived on 2013-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130418172826id_/http%3A//www.definebabe.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: DefineBabe
+# Privacy Policy
 
 This is the web site of Rich Media SoIutions Inc.
 
