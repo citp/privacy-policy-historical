@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gogroopie.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193616id_/http%3A//www.gogroopie.com/privacy_overlay.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogroopie.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419011620id_/http%3A//www.gogroopie.com/privacy_overlay.php) for the most accurate reproduction.*
 
 # 
 
 **GO GROOPIE PRIVACY POLICY**
 
-The Go Groopie website [www.gogroopie.com](http://www.gogroopie.com/) (the “Website”) is owned and operated by Go Groopie Limited, a company incorporated in England & Wales with company number 07363687 and having its registered office at 81 Oxford Street, London W1D 2EU (“we”, “us”, “our”).
+The Go Groopie website [www.gogroopie.com](http://www.gogroopie.com/) (the “Website”) is owned and operated by Go Groopie Limited, a company incorporated in England & Wales with company number 07363687 and having its registered office at 330 High Holborn, London WC1V 7QT (“we”, “us”, “our”).
 
 **Protecting You**
 
