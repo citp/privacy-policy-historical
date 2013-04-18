@@ -1,29 +1,32 @@
-<!--The following is the downloaded HTML source of the stitcher.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225030619id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stitcher.com privacy policy that was archived on 2013-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130418233551id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Stitcher Smart Radio | Privacy Statement</title>
+<title>Stitcher Radio | Privacy Statement</title>
 <link rel="shortcut icon" href="/favicon.png">
 
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.4.1/build/cssbase/cssbase-min.css">
     <link rel="stylesheet" type="text/css" href="/css/stitcher-min.css,privacy-terms-min.css">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://yui.yahooapis.com/3.4.1/build/yui/yui-min.js"></script>
-
-	<!-- Typekit -->
-	<script type="text/javascript" src="http://use.typekit.com/ccs1fhb.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<!-- <script src="http://yui.yahooapis.com/3.4.1/build/yui/yui-min.js"></script> -->
 </head>
 
 <body class="yui-skin-sam">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2210254-2']);
   
   if(0 && 1) {
     _gaq.push(['_setCustomVar', 1, 'refid', '']);    
+  }
+
+  // For the show pages, we pass the refid as www.stitcher.com/providerkey/showkey/refid/some_ref_id
+  // Look for that, and include it if found  
+  if (location.pathname.indexOf("refid") != -1) {
+	var refid = location.pathname.match(/\/refid\/(.*)/)[1];
+    _gaq.push(['_setCustomVar', 1, 'refid', refid]);    
   }
   
   _gaq.push(['_trackPageview']);
@@ -38,7 +41,11 @@
 <!-- Header -->
 <div id="header">
 	<div class="wrapper">
-		<h1><a id="LogoAnchor" href="/">Stitcher</a></h1>
+		<!-- Typekit -->
+<script type="text/javascript" src="http://use.typekit.com/ccs1fhb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<h1><a id="LogoAnchor" href="/">Stitcher</a></h1>
 
 <div id="login-details" style="display: none">
 	<div id="login-name">
@@ -50,19 +57,22 @@
 
 <div id="topnav">
     <div id="download-tab" class="">
-        <a id="DownloadNav" class="topnav" href="/dl/">Download</a>
+        <a id="DownloadNav" class="topnav" href="/dl" onclick="_gaq.push(['_trackEvent','PageRequest','Click','download-global_header']);">Download</a>
     </div>
     <div id="learnmore-tab" class="">    
-        <a id="LearnMoreNav" class="topnav" href="/LearnMore.php">Learn More</a>
+        <a id="LearnMoreNav" class="topnav" href="/learn-more">Learn More</a>
     </div>
     <div id="stitcherlist-tab" class="">
         <a id="StitcherListNav" class="topnav" href="/stitcher-list/">Top Shows</a>
     </div>
 </div>
 
+<a id="ListenNav" class="topnav" href="http://www.stitcher.com/webapp" onclick="_gaq.push(['_trackEvent','WebAppRequest','Click','header_bar']);">
 <div id="listen-tab" class="">
-<a id="ListenNav" class="topnav" href="http://app.stitcher.com" target="_new">Listen</a>
-</div>	</div>
+Listen
+</div>
+</a>
+	</div>
 </div>
 <!-- Header -->
 
@@ -203,73 +213,72 @@ You may also contact us by mail: Stitcher, Inc., 121 2nd St., Suite 600, San Fra
 <div id="footer">
 	<div class="wrapper">
 		
-<div id="WhoWeAre">
-<h3>Who We Are</h3>
-<p>
-Stitcher is the leader in Internet Radio for the world beyond music.  We deliver the latest news, politics, sports, business and entertainment on-demand to listeners on their mobile phones.  The Stitcher app has been downloaded over 8 million times and offers the best programming from thousands of content providers including NPR, Fox and CNN.   Stitcher is available for iPhone, Android and iPad and is being integrated directly into new Ford and GM vehicles.
-</p>
+<div id="footer-who-we-are">
+  <h3>Stitcher</h3>
+  <p>
+    Stream the latest in news, sports, talk, and entertainment radio anywhere, on demand. Stitcher is the easiest way to discover the best of over 15,000+ radio shows, live radio stations and podcasts.
+  </p>
 
-<h3>Follow Us</h3>
-<div id="FollowUsLinks">
-<div id="TwitterTinycon"></div>
-<div id="TwitterText">@stitcher</div>
-<div><a id="TwitterAnchor" href="http://twitter.com/stitcherradio"></a></div>
-<div id="FacebookTinycon"></div>
-<div id="FacebookText">/stitcherradio</div>
-<div><a id="FacebookAnchor" href="http://facebook.com/stitcherradio"></a></div>
-<div id="BlogTinycon"></div>
-<div id="BlogText">Stitcher Blog</div>
-<div><a id="BlogAnchor" href="http://blog.stitcher.com"></a></div>
-</div>
+  <h3>Get the <strong>Free</strong> App</h3>
+  <p>
+    Now available for iPhone, iPad, Android, Kindle Fire
+  </p>
 
-<h3>Awards</h3>
-<div id="AwardsBugs"></div>
-<div id="copyright">Copyright Stitcher 2012 All content is copyright of its owners. </div>
-</div>
+  <a class="footer-dl-button footer-button-app-store" title="Stitcher for iOS" id="AppStore" href="http://itunes.apple.com/us/app/stitcher-radio/id288087905?mt=8" onclick="_gaq.push(['_trackEvent','Download','Click','download-generic_footer']);">Available on the App Store</a>
 
-<div id="FooterDivider"></div>
+  <a class="footer-dl-button footer-button-google-play" title="Stitcher for Android" id="GooglePlay" href="https://play.google.com/store/apps/details?id=com.stitcher.app" onclick="_gaq.push(['_trackEvent','Download','Click','download-generic_footer']);">Google Play</a>  
 
-<div id="FooterLinks">
-<div id="LinksColumn1">
-<h5>Links</h5>
-<ul class="footerlinks">
-  <li class="footerlinks"><a href="/dl/" onclick="_gaq.push(['_trackEvent','PageRequest','Click','download-generic_footer']);">Download</a></li>
-  <li class="footerlinks"><a href="/advertisers.php">For Advertisers</a></li>
-  <li class="footerlinks"><a href="/press.php">Press</a></li>
-  <li class="footerlinks"><a href="http://blog.stitcher.com">Stitcher Blog</a></li>
-  <li class="footerlinks"><a href="/faqs.php">Stitcher FAQs</a></li>
-  <li class="footerlinks"><a href="/jobs.php">Jobs</a></li>
-  <li class="footerlinks"><a href="/leadership.php">Leadership</a></li>
-  <li class="footerlinks"><a href="/contact_us.php">Contact Us</a></li>
-  <li class="footerlinks"><a href="/privacy.php">Privacy Policy</a></li>
-  <li class="footerlinks"><a href="/terms.php">Terms of Use</a></li>
-</ul>
-</div>
-<div id="LinksColumn2">
-<h5>Content Providers</h5>
-<ul class="footerlinks">
-  <li class="footerlinks"><a href="/contentProviders.php">Sign Up</a></li>
-  <li class="footerlinks"><a href="/contentFAQ.php">Provider FAQ</a></li>
-  <!--
-  <li class="footerlinks"><a href="/promo_assets.php">Promo Assets</a></li>
-  -->
-  <li class="footerlinks"><a href="http://partners.stitcher.com">Partner Portal Login</a></li>
-</ul>
-</div>
-<div id="LinksColumn3">
-<h5>Popular</h5>
-<ul class="footerlinks">
-	<li class="footerlinks"><a href="/stitcher-list/">The Stitcher List</a></li>
-	<li class="footerlinks"><a href="http://app.stitcher.com/browse/23/1117909">Current Events</a></li>
-	<li class="footerlinks"><a href="http://app.stitcher.com/browse/16/890548">Comedy Top 20</a></li>
-	<li class="footerlinks"><a href="http://app.stitcher.com/browse/15/890547">Business News</a></li>
-	<li class="footerlinks"><a href="http://app.stitcher.com/browse/30/890259">Storytelling</a></li>
-	<li class="footerlinks"><a href="http://app.stitcher.com/browse/28/890506">Tech News</a></li>
-	<li class="footerlinks"><a href="http://app.stitcher.com/browse/1/888450">Stitcher's Picks</a></li>
-	<li class="footerlinks"><a href="http://app.stitcher.com/browse/27/890560">Sports Top 20</a></li>
-</ul>
-</div>
-</div>	</div>
+  <p id="copyright">© Stitcher 2013 All content is copyright of its owners. </p>
+</div><!-- /footer-who-we-are -->
+
+
+<div id="footer-follow-us">
+  <h3>Follow Us</h3>
+  <a class="social-badge badge-twitter" href="http://twitter.com/stitcherradio" title="Stitcher on Twitter">Stitcher on Twitter</a>
+  <a class="social-badge badge-facebook" href="http://facebook.com/stitcherradio" title="Stitcher on Facebook">Stitcher on Facebook</a>
+  <a class="social-badge badge-linkedin" href="http://www.linkedin.com/company/stitcher" title="Stitcher on LinkedIn">Stitcher on LinkedIn</a>
+  <a class="social-badge badge-google-plus" href="http://plus.google.com/114373773514611132848" title="Stitcher on Google+">Stitcher on Google+</a>
+</div><!-- /footer-follow-us -->  
+
+
+<div id="footer-about">
+  <h3>About</h3>
+  <ul>
+    <li><a href="/dl/" onclick="_gaq.push(['_trackEvent','PageRequest','Click','download-generic_footer']);">Download</a></li>      
+    <li><a href="/press">Newsroom</a></li>
+    <li><a href="http://www.stitcher.com/blog">Stitcher Blog</a></li>
+    <li><a href="/jobs">Careers</a></li>
+    <li><a href="/faqs">FAQs</a></li>
+    <li><a href="/contact-us">Contact</a></li>
+    <li><a href="/privacy">Privacy</a></li>
+    <li><a href="/terms">Terms of Use</a></li>
+    <li><a href="/leadership">Leadership</a></li>
+    <li><a href="/sitemap">Sitemap</a></li>
+  </ul>
+</div><!-- /footer-about -->
+
+<div id="footer-partners">
+  <h3>Partners</h3>
+  <ul>
+    <li><a href="/content-providers">Partner Signup</a></li>
+    <li><a href="http://partners.stitcher.com">Partner Portal</a></li>
+     <li><a href="/content-faq">Partner FAQ</a></li>
+     <li><a href="/advertisers">Advertisers</a></li>
+   </ul>
+ </div><!-- /footer-partners -->
+
+ <div id="footer-podcasts">
+  <h3>Radio &amp; Podcasts</h3>
+  <ul>
+   <li><a href="/stitcher-list/all-podcasts-top-shows">The Stitcher List</a></li>
+   <li><a href="http://app.stitcher.com/browse/23/1117909">News Radio</a></li>
+   <li><a href="http://app.stitcher.com/browse/28/890562">Technology Podcasts</a></li>
+   <li><a href="http://app.stitcher.com/browse/15/890241">Business News</a></li>
+   <li><a href="http://app.stitcher.com/browse/27/890560">Sports Radio</a></li>
+   <li><a href="http://app.stitcher.com/browse/30/890259">Storytelling Podcasts</a></li>
+ </ul>
+</div><!-- /footer-podcasts -->
+	</div>
 </div>
 <!-- Footer -->
 
