@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030619id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2013-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130418233551id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.*
 
-# Stitcher Smart Radio | Privacy Statement
+# Stitcher Radio | Privacy Statement
 
 Stitcher knows that you care about how your personal information is used and shared and we take your privacy seriously. This Privacy Policy discloses our privacy practices and the possible uses of the information that Stitcher, Inc. (“Stiticher”) gathers via our website at [http://www.stitcher.com](http://www.stitcher.com/), the Stitcher mobile application, and any other submissions by you to Stitcher (together, the “Services”). This Privacy Policy is supplementary to our [Terms of Use](http://www.stitcher.com/terms.php). 
 
