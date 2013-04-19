@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inorganicventures.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217064529id_/http%3A//inorganicventures.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inorganicventures.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420013652id_/http%3A//inorganicventures.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy : Inorganic Ventures
 
