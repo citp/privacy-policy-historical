@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinbenedict.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116033746id_/http%3A//www.robinbenedict.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinbenedict.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419032213id_/http%3A//www.robinbenedict.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Robin Benedict
 
