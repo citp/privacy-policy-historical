@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tntexpress.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524121130id_/https%3A//www.tntexpress.com.au/interaction/asps/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tntexpress.com.au privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419235606id_/https%3A//tntexpress.com.au/interaction/asps/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
