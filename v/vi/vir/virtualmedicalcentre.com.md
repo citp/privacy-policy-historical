@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011140554id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420012535id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,18 +45,16 @@ Where and what personal information is collected and how it is used:
 
  _General Patient Membership_
 
-  * What personal information is collected: If you sign-up as a patient member of the site, the following information is collected: title, name, username, password, gender, year of birth, your interest in receiving our patient email publications and your interest in receiving marketing materials from Telstra.
+  * What personal information is collected: If you sign-up as a patient member of the site, the following information is collected: title, name, username, password, gender, year of birth and your interest in receiving our patient email publications.
   * How this personal information is used: This information is used to identify you, so you can log into the site, for correspondence with you (if you opt to receive VMC publications) and for VMC internal statistics purposes.
-  * If you opt in to receive marketing materials from Telstra, this personal information will be passed onto them and they will deal with it in accordance with their privacy policy located at <http://www.telstra.com.au/privacy/privacy_statement.html>.
 
 
 
   
  _Health Professional Membership_
 
-  * What personal information is collected: If you are signing up as a health professional, the following information is collected: title, name, username, password, gender, year of birth, professional area, professional body provider number, areas of interest, if you are interested in receiving VMC professional email and print publications and your interest in receiving marketing materials from Telstra.
+  * What personal information is collected: If you are signing up as a health professional, the following information is collected: title, name, username, password, gender, year of birth, professional area, professional body provider number, areas of interest and if you are interested in receiving VMC professional email and print publications.
   * How this personal information is used: For health professionals, professional body numbers are collected to ensure that you are in fact a health professional, in order to view the password-secure professional level of information.
-  * If you opt in to receive marketing materials from Telstra, this personal information will be passed onto them and they will deal with it in accordance with their privacy policy located at <http://www.telstra.com.au/privacy/privacy_statement.html>.
 
 
 
@@ -72,8 +70,8 @@ Surveys are conducted on both the website and enewsletters. They are optional.
 
 
 
-[  
- **Continuing Medical Education (CME) (Health Professionals only)**](https://web.archive.org/featuredpages.asp?artid=59&title=CME-Continuing-Medical-Education)
+  
+ **Continuing Medical Education (CME) (Health Professionals only)**
 
   * What personal information is collected: The CME program collects the following information from health professionals who choose to participate in the education program: title, name, email, username, password, college, college identification number.
   * The health professional also submits educational materials (including edited disease information, research on relevant clinical trials, case study and clinical audit).
@@ -87,7 +85,7 @@ Surveys are conducted on both the website and enewsletters. They are optional.
 
   * What personal information is collected: Tools collect your responses to the questions in the tool. Some tools are for health promotion purposes, some for symptom management, some for investigation analysis and some for drug dose conversions.
   * Some tools give the option for you to enter your name so you can print the tool and results and take it to the doctor with you. However, we do not save your name.
-  * How this personal information is used: We may look at responses to the tools for statistical purposes only. 
+  * How this personal information is used: We may look at responses to the tools for statistical purposes only.
 
 
 
@@ -114,8 +112,7 @@ Your personal information and third parties
 
 Contracts with all service providers⁄consultants whose service involves access to personal information comply with the VMC Privacy Policy.
 
-Third parties are required to sign an undertaking that the information will only be used for the purpose for which the information was provided. This includes mailing houses which receive personal information in order to provide a service for VMC. If you opt-in to receive direct marketing from Telstra when you sign up as a member, Telstra will treat your personal information in accordance with its privacy policy located at   
-<http://www.telstra.com.au/privacy/privacy_statement.html>.
+Third parties are required to sign an undertaking that the information will only be used for the purpose for which the information was provided. This includes mailing houses which receive personal information in order to provide a service for VMC.
 
 ###   
 Cookies
