@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storedj.com.au privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016221100id_/https%3A//www.storedj.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storedj.com.au privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419081135id_/https%3A//www.storedj.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Store DJ
 
