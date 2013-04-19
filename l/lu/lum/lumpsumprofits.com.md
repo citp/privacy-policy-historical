@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumpsumprofits.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222231952id_/http%3A//lumpsumprofits.com/members/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumpsumprofits.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420014223id_/http%3A//lumpsumprofits.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Lump Sum Profits
 
