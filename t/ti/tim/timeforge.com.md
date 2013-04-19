@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforge.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620045347id_/http%3A//www.timeforge.com/site/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforge.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419200233id_/http%3A//www.timeforge.com/site/company/privacy-policy) for the most accurate reproduction.*
 
 # » TimeForge Privacy Policy
 
