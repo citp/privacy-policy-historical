@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the video-to-flash.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217152434id_/http%3A//www.video-to-flash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video-to-flash.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419105908id_/http%3A//www.video-to-flash.com/privacy.html) for the most accurate reproduction.*
 
 # Moyea video-to-flash Privacy
 
