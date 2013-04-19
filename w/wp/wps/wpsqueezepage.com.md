@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsqueezepage.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217015520id_/http%3A//www.wpsqueezepage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsqueezepage.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419071228id_/http%3A//www.wpsqueezepage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,9 +40,9 @@ While we are staunch privacy advocates at WpSqueezePage.com, there are times whe
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, may use cookies to serve ads on this WpSqueezePage.com website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at <http://ww.networkadvertising.org/managing/opt_out.asp>
 
 **Links to Third Party Websites**  
 We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
