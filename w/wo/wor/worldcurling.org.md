@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217233758id_/http%3A//www.worldcurling.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419232021id_/http%3A//www.worldcurling.org/privacy-policy) for the most accurate reproduction.*
 
 # World Curling Federation - Privacy Policy
 
