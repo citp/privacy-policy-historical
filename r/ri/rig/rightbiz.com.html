@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rightbiz.com privacy policy that was archived on 2012-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217091629id_/http%3A//www.rightbiz.com/%3Flang%3Den%26action%3Dterms%26section%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rightbiz.com privacy policy that was archived on 2013-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130419062229id_/http%3A//www.rightbiz.com/%3Flang%3Den%26action%3Dterms%26section%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Register your Domain Name and Web Hosting with us</title>
@@ -17,16 +17,16 @@
 <meta name="language" content="en-us">
 <meta name="distribution" content="Global">
 <meta name="rating" content="General">
-<base href="http://www.rightbiz.com/templates/19/">
+<meta name="robots" content="noindex"><base href="http://www.rightbiz.com/templates/19/">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="http://www.rightbiz.com/templates/19/tabs.css">
-<link rel="stylesheet" href="http://www.rightbiz.com/templates/19/MenuMatic.css" type="text/css" media="screen" charset="utf-8">
-<link rel="stylesheet" href="http://www.rightbiz.com/templates/19/styles.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="tabs.css">
+<link rel="stylesheet" href="MenuMatic.css" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="styles.css" type="text/css">
 <!--[if lt IE 7]>
-    <link rel="stylesheet" href="http://www.rightbiz.com/templates/19/MenuMatic-ie6.css" type="text/css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="MenuMatic-ie6.css" type="text/css" media="screen" charset="utf-8" />
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/libs/jquery/jquery.tools.1.2.6.min.js"></script>
-<script language="javascript" src="http://www.rightbiz.com/templates/19/overlib.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.tools.1.2.6.min.js"></script>
+<script language="javascript" src="overlib.js"></script>
 <style type="text/css">
 a { color:#0C2AAE; }
 a:link { color:#0C2AAE; }
@@ -63,180 +63,79 @@ a:hover { color:#0C2AAE; }
 .plan_title{ color:#FFFFFF; }
 </style>
 
-<script language="javascript">
-	function getEl (id) {
-		var obj = null;
-		if (!document.getElementById) return false;
-		if (!(obj =document.getElementById(id))) return false;
-		return obj;
-	}
-	
-	function change_font(param)
-	{
-		  var oLinks = document.getElementsByTagName('link');
-		  for( var x = 0, oLnk; oLnk = oLinks[x]; x++ ) {
-			if( oLnk.getAttribute('href').match(/\/styles/) ) {
-			  oLnk.setAttribute('href','http://www.rightbiz.com/templates/19/styles'+param+'.css');
-			  document.cookie = "cssatt=" + escape(param) + "; path=/";
-			  break;
-			}
-		  }
-	} 
-	
-	function open_popup(adr, width, height, name){
-		var clWin = null;
-		if(!name) name = Math.round(Math.random()*1000);
-		clWin = window.open(adr, name, "height="+height+", width="+width+", top=30, left=30, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes, directories=no");
-		clWin.focus();
-	}
-	
-	function print_page(url, width, height)
-	{
-		open_popup(url+'&print=1', width, height);
-	}
-	
-	var currentTab = 1;
-	function selTab(num)
-	{
-		getEl('tab_'+currentTab).className = '';
-		getEl('tab_'+num).className = 'current';
-		getEl('content_'+currentTab).style.display = 'none';
-		getEl('content_'+num).style.display = 'inline';
-		
-		currentTab = num;
-		return;
-	}
-	
-	function MM_preloadImages() { //v3.0
-	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-	}
-	
-	function getElementsByClassName( strClassName, obj )
-	{
-		var ar = arguments[2] || new Array();
-		var re = new RegExp("\\b" + strClassName + "\\b", "g");
-	
-		if ( re.test(obj.className) ) {
-			ar.push( obj );
-		}
-		for ( var i = 0; i < obj.childNodes.length; i++ )
-			getElementsByClassName( strClassName, obj.childNodes[i], ar );
-		
-		return ar;
-	}
-	function show_hide(id)
-	{
-		var tmp;
-		eval("tmp = document.getElementById('"+id+"').style.display");
-		if(tmp == 'none')
-		{
-			eval("document.getElementById('"+id+"').style.display = 'block'");
-			eval("document.getElementById('"+id+"_link').innerHTML = ''");
-			eval("document.getElementById('"+id+"_link').innerHTML = 'Hide<img src=\"images/ico_plan_hide_icon.gif\" alt=\"-\" width=\"19\" height=\"18\" hspace=\"4\" align=\"absmiddle\" />'");
-	//		document.cookie = id + "=" + escape('block') + "; path=/";
-		}else{
-			eval("document.getElementById('"+id+"').style.display = 'none'");
-			eval("document.getElementById('"+id+"_link').innerHTML = ''");
-			eval("document.getElementById('"+id+"_link').innerHTML = 'More Features<img src=\"images/ico_plan_show_icon.gif\" alt=\"-\" width=\"19\" height=\"18\" hspace=\"4\" align=\"absmiddle\" />'");
-	//		document.cookie = id + "=" + escape('none') + "; path=/";
-		}
-	}
-	function show_all()
-	{
-		var arr = getElementsByClassName('show_hide_div', document.body);
-		for(i=0;i < arr.length; i++)
-		{
-			arr[i].style.display = 'block';
-			eval("document.getElementById('"+arr[i].id+"_link').innerHTML = 'Hide<img src=\"images/ico_plan_hide_icon.gif\" alt=\"-\" width=\"19\" height=\"18\" hspace=\"4\" align=\"absmiddle\" />'");
-		}
-	}
-	function hide_all()
-	{
-		var arr = getElementsByClassName('show_hide_div', document.body);
-		for(i=0;i < arr.length; i++)
-		{
-			arr[i].style.display = 'none';
-			eval("document.getElementById('"+arr[i].id+"_link').innerHTML = 'More Features<img src=\"images/ico_plan_show_icon.gif\" alt=\"-\" width=\"19\" height=\"18\" hspace=\"4\" align=\"absmiddle\" />'");
-		}
-	}
-</script>
+<script language="javascript" src="top.js"></script>
 </head>
 <body>
 <div align="center">
 <div align="justify" style="width:945px">
 <div id="header">
-    <div align="center"><img src="http://www.rightbiz.com.au/RightBiz_Website_Hosting_Header.jpg" border="0" height="175" width="950" alt="RightBiz Website Hosting and Domain Name Registration Services"></div>
+    <div align="center"><img src="http://www.rightbiz.com.au/RightBiz_Website_Hosting_Header2.jpg" border="0" height="175" width="950" alt="RightBiz Website Hosting and Domain Name Registration Services"></div>
     <br>
     <div class="upnav">
-    <a href="http://www.rightbiz.com/?lang=en&amp;action=members"><img src="images/key.jpg" width="18" height="9">&nbsp;login</a> &nbsp;   
-    	        <!-- BEGIN Live Chat -->
-        <div id="scgmZv" style="display:inline"></div>Live Chat&nbsp;<img src="images/separator.jpg" align="absbottom"> &nbsp;
-        <div id="cigmZv" style="z-index:100;position:absolute"></div><div id="sdgmZv" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/propersupport/safe-standard.js?ps_h=gmZv&amp;ps_t=1580416812754&amp;online-image=http%3A%2F%2Fwww.rightbiz.com%2Ftemplates%2F19%2Fimages%2Fstatus_on.gif&amp;offline-image=http%3A%2F%2Fwww.rightbiz.com%2Ftemplates%2F19%2Fimages%2Fstatus_off.gif&amp;ID=142161"></script></div><script type="text/javascript">var segmZv=document.createElement("script");segmZv.type="text/javascript";var segmZvs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/propersupport/safe-standard.js?ps_h=gmZv&ps_t="+new Date().getTime()+"&online-image=http%3A%2F%2Fwww.rightbiz.com%2Ftemplates%2F19%2Fimages%2Fstatus_on.gif&offline-image=http%3A%2F%2Fwww.rightbiz.com%2Ftemplates%2F19%2Fimages%2Fstatus_off.gif&ID=142161";setTimeout("segmZv.src=segmZvs;document.getElementById('sdgmZv').appendChild(segmZv)",1)</script>
-        <!-- END Live Chat -->
-            <a onmouseout="return nd();" onmouseover="return overlib('Monday to Friday:<br>10.00 AM - 12.00 AM GMT/UK<br>05.00 AM -  07.00 PM EST/USA<br>06.00 PM - 08.00 AM EST/AU', CAPTION, 'Sales Lines Working Hours:', 'CENTER');" href="javascript:void(0);"><img style="vertical-align:middle;" src="images/working-hours.gif" width="14" height="14"></a>&nbsp;&nbsp;
+    <a href="http://www.rightbiz.com/login/"><img src="images/key.jpg" width="18" height="9">&nbsp;login</a> &nbsp;   
+    	<img src="images/status_off.gif">Live Chat&nbsp;<img src="images/separator.jpg" align="absbottom"> &nbsp;
+		    <a onmouseout="return nd();" onmouseover="return overlib('Monday to Friday:<br>10.00 AM - 12.00 AM GMT/UK<br>05.00 AM -  07.00 PM EST/USA<br>06.00 PM - 08.00 AM EST/AU', CAPTION, 'Sales Lines Working Hours:', 'CENTER');" href="javascript:void(0);"><img style="vertical-align:middle;" src="images/working-hours.gif" width="14" height="14"></a>&nbsp;&nbsp;
     +1-866-841-6141    &nbsp; 
     +44-12-2580-8659    (ID: 142161)    </div>
     <div id="nav_tr">
       <ul id="nav">
-          <li><a href="http://www.rightbiz.com/?lang=en&amp;action=home"><div id="home">:: Home</div></a>
+          <li><a href="http://www.rightbiz.com/index.html"><div id="home">:: Home</div></a>
               <ul>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=why_a_website">Why a website?</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=news">News</a></li>
+                  <li><a href="http://www.rightbiz.com/get_a_website.html">Why a website?</a></li>
+                  <li><a href="http://www.rightbiz.com/news/">News</a></li>
               </ul>
           </li>
-          <li><a href="http://www.rightbiz.com/?lang=en&amp;action=products"><div id="products">:: Products</div></a>
+          <li><a href="http://www.rightbiz.com/offers.html"><div id="products">:: Products</div></a>
               <ul>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=products">Products Overview</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=domains">Domain Names</a>
+                  <li><a href="http://www.rightbiz.com/offers.html">Products Overview</a></li>
+                  <li><a href="http://www.rightbiz.com/domain_name_registration_deals/">Domain Names</a>
                     <ul>
-                      <li><a href="http://www.rightbiz.com/?lang=en&amp;action=domains">Domain/TLD Pricing</a></li>
-                      <li><a href="http://www.rightbiz.com/?lang=en&amp;action=domains&amp;submenu=complete_domain_list">Domain/TLD Info</a></li>
+                      <li><a href="http://www.rightbiz.com/domain_name_registration_deals/">Domain/TLD Pricing</a></li>
+                      <li><a href="http://www.rightbiz.com/domain_name_registration_deals/top_level_domains_list.html">Domain/TLD Info</a></li>
                     </ul>
                   </li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=webhosting">Shared Web Hosting</a>
+                  <li><a href="http://www.rightbiz.com/linux_website_hosting_deals/">Shared Web Hosting</a>
                     <ul>
-                      <li><a href="http://www.rightbiz.com/?lang=en&amp;action=webhosting">Compare Our Plans</a></li>
-					                        <li><a href="http://www.rightbiz.com/?lang=en&amp;action=webhosting&amp;submenu=1">Business Plan</a></li>
-					                        <li><a href="http://www.rightbiz.com/?lang=en&amp;action=webhosting&amp;submenu=2">Corporate Plan</a></li>
-					                        <li><a href="http://www.rightbiz.com/?lang=en&amp;action=webhosting&amp;submenu=44">Enterprise Plan</a></li>
+                      <li><a href="http://www.rightbiz.com/linux_website_hosting_deals/">Compare Our Plans</a></li>
+					                        <li><a href="http://www.rightbiz.com/linux_website_hosting_deals/business.html">Business Plan</a></li>
+					                        <li><a href="http://www.rightbiz.com/linux_website_hosting_deals/corporate.html">Corporate Plan</a></li>
+					                        <li><a href="http://www.rightbiz.com/linux_website_hosting_deals/enterprise.html">Enterprise Plan</a></li>
 					                      </ul>
                   </li>
-                                                      <li><a href="http://www.rightbiz.com/?lang=en&amp;action=vps-hosting">Virtuozzo VPS Hosting</a></li>
-                                                      <li><a href="http://www.rightbiz.com/?lang=en&amp;action=semi-dedicated-hosting">Semi-dedicated Hosting</a></li>
-                                                      <li><a href="http://www.rightbiz.com/?lang=en&amp;action=dedicated-servers">Dedicated Servers</a></li>
-                                    <li><a href="http://www.rightbiz.com/?lang=en&amp;action=cp_demo">Control Panel Demo</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=domains&amp;submenu=switch2us">Switch to Us</a></li>
+                                                      <li><a href="http://www.rightbiz.com/linux_virtuozzo_vps_hosting_deals/">Virtuozzo VPS Hosting</a></li>
+                                                      <li><a href="http://www.rightbiz.com/linux_semi_dedicated_hosting_deals/">Semi-dedicated Hosting</a></li>
+                                                      <li><a href="http://www.rightbiz.com/linux_dedicated_hosting_deals.html">Dedicated Servers</a></li>
+                                    <li><a href="http://www.rightbiz.com/web_hosting_control_panel_demo.html">Control Panel Demo</a></li>
+                  <li><a href="http://www.rightbiz.com/transfer_to_us.html">Switch to Us</a></li>
               </ul>
           </li>
-          <li><a href="http://www.rightbiz.com/?lang=en&amp;action=free_bonuses"><div id="free_bonuses">:: Free Extras</div></a>
+          <li><a href="http://www.rightbiz.com/free_tools/"><div id="free_bonuses">:: Free Extras</div></a>
               <ul>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=free_bonuses">Free Extras Overview</a></li>
-                                    <li><a href="http://www.rightbiz.com/?lang=en&amp;action=free_bonuses&amp;submenu=sitestudio">Website Builder</a></li>
-                                    <li><a href="http://www.rightbiz.com/?lang=en&amp;action=free_bonuses&amp;submenu=elefante">Free PHP Scripts Installer</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=free_bonuses&amp;submenu=1-click-installs">1-click Installs</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=free_bonuses&amp;submenu=marketing_tools">Marketing Tools</a></li>
+                  <li><a href="http://www.rightbiz.com/free_tools/">Free Extras Overview</a></li>
+                                    <li><a href="http://www.rightbiz.com/free_tools/free_website_building_tool/">Website Builder</a></li>
+                                    <li><a href="http://www.rightbiz.com/free_tools/best_web_apps/">Free PHP Scripts Installer</a></li>
+                  <li><a href="http://www.rightbiz.com/free_tools/1_click_php_script_installations.html">1-click Installs</a></li>
+                  <li><a href="http://www.rightbiz.com/free_tools/advanced_tools.html">Marketing Tools</a></li>
                                 </ul>
           </li>
           <li><a href="https://secure.duoservers.com?lang=en&amp;s_id=142161&amp;rdomain=rightbiz.com&amp;action=order"><div id="order">:: Order</div></a></li>
-          <li><a href="http://www.rightbiz.com/?lang=en&amp;action=support"><div id="support">:: Support</div></a>
+          <li><a href="http://www.rightbiz.com/support/"><div id="support">:: Support</div></a>
               <ul>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=support">Support Overview</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=support&amp;submenu=context_help">Context Help Areas</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=support&amp;submenu=video_tutorials">Video Tutorials</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=support&amp;submenu=help_center">F.A.Q.</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=support&amp;submenu=ticketing_system">Ticketing System</a></li>
+                  <li><a href="http://www.rightbiz.com/support/">Support Overview</a></li>
+                  <li><a href="http://www.rightbiz.com/support/context_help.html">Context Help Areas</a></li>
+                  <li><a href="http://www.rightbiz.com/support/video_tutorials.html">Video Tutorials</a></li>
+                  <li><a href="http://www.rightbiz.com/support/faq.html">F.A.Q.</a></li>
+                  <li><a href="http://www.rightbiz.com/support/ticketing_system.html">Ticketing System</a></li>
               </ul>
           </li>
-          <li><a href="http://www.rightbiz.com/?lang=en&amp;action=aboutus"><div id="aboutus">:: Company</div></a>
+          <li><a href="http://www.rightbiz.com/about_us/"><div id="aboutus">:: Company</div></a>
               <ul>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=aboutus">About Us</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=aboutus&amp;submenu=why_us">Why Us?</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=aboutus&amp;submenu=technology_partners">Technology Partners</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=aboutus&amp;submenu=data_center">Data Centers</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=aboutus&amp;submenu=servers_hardware">Servers Hardware</a></li>
-                  <li><a href="http://www.rightbiz.com/?lang=en&amp;action=contactus">Contact Us</a></li>
+                  <li><a href="http://www.rightbiz.com/about_us/">About Us</a></li>
+                  <li><a href="http://www.rightbiz.com/about_us/why_us.html">Why Us?</a></li>
+                  <li><a href="http://www.rightbiz.com/about_us/technology_partners.html">Technology Partners</a></li>
+                  <li><a href="http://www.rightbiz.com/about_us/data_centers/">Data Centers</a></li>
+                  <li><a href="http://www.rightbiz.com/about_us/server_hardware.html">Servers Hardware</a></li>
+                  <li><a href="http://www.rightbiz.com/contact_us.html">Contact Us</a></li>
               </ul>
           </li>
         </ul>
@@ -247,29 +146,29 @@ a:hover { color:#0C2AAE; }
     <!--include-->
     <div id="tabs">
   <ul>
-    <li id="tab_1"><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;"><span style="font-size:12px">Web Hosting Terms</span></a></li>
-    <li id="tab_2"><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=vps_terms"><span style="font-size:12px">VPS Terms</span></a></li>
-    <li id="tab_3"><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=semi_dedicated_server_terms"><span style="font-size:12px">Semi-dedicated Server Terms</span></a></li>
-    <li id="tab_3"><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=dedicated_server_terms"><span style="font-size:12px">Dedicated Server Terms</span></a></li>
-    <li class="current" id="tab_3"><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=order_verification"><span style="font-size:12px">General Terms</span></a></li>
+    <li id="tab_1"><a href="http://www.rightbiz.com/legal/"><span style="font-size:12px">Web Hosting Terms</span></a></li>
+    <li id="tab_2"><a href="http://www.rightbiz.com/legal/vps/"><span style="font-size:12px">VPS Terms</span></a></li>
+    <li id="tab_3"><a href="http://www.rightbiz.com/legal/semi_dedicated_servers/"><span style="font-size:12px">Semi-dedicated Server Terms</span></a></li>
+    <li id="tab_3"><a href="http://www.rightbiz.com/legal/dedicated_servers/"><span style="font-size:12px">Dedicated Server Terms</span></a></li>
+    <li class="current" id="tab_3"><a href="http://www.rightbiz.com/legal/order_verification.html"><span style="font-size:12px">General Terms</span></a></li>
   </ul>
 </div>
 <br clear="all"><br>
 <table style="width: 100%; border-bottom: 1px solid gray;">
  <tbody><tr>
-  <td><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=order_verification" class="links">Order verification</a></td>
+  <td><a href="http://www.rightbiz.com/legal/order_verification.html" class="links">Order verification</a></td>
  </tr>
  <tr>
   <td><strong><u>Privacy Policy</u></strong></td>
  </tr>
  <tr>
-  <td><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=domain_name_registration_agreement" class="links">Domain Name Registration Agreement</a></td>
+  <td><a href="http://www.rightbiz.com/legal/domain_name_registration_agreement.html" class="links">Domain Name Registration Agreement</a></td>
  </tr>
  <tr>
-  <td><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=domain_name_dispute_resolution_policy" class="links">Domain Name Dispute Resolution Policy</a></td>
+  <td><a href="http://www.rightbiz.com/legal/domain_name_dispute_policy.html" class="links">Domain Name Dispute Resolution Policy</a></td>
  </tr>
  <tr>
-  <td><a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=id_protection_service_agreement" class="links">ID Protection Agreement</a></td>
+  <td><a href="http://www.rightbiz.com/legal/id_protection_service_agreement.html" class="links">ID Protection Agreement</a></td>
  </tr>
 </tbody></table>
 
@@ -376,24 +275,24 @@ To process payments online, we require the billing address for the credit card u
 <div id="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td align="center">
-    	:: <a href="http://www.rightbiz.com/?lang=en&amp;action=home">Home</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=domains">Domain Names</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=webhosting">Web Hosting</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=free_bonuses">Free Extras</a>
+    	:: <a href="http://www.rightbiz.com/index.html">Home</a>
+        :: <a href="http://www.rightbiz.com/domain_name_registration_deals/">Domain Names</a>
+        :: <a href="http://www.rightbiz.com/linux_website_hosting_deals/">Web Hosting</a>
+        :: <a href="http://www.rightbiz.com/free_tools/">Free Extras</a>
         :: <a href="https://secure.duoservers.com?lang=en&amp;s_id=142161&amp;rdomain=rightbiz.com&amp;action=order">Order</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=support">Support</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=aboutus">About us</a> 
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=contactus">Contact Us</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=members">Log in</a>
+        :: <a href="http://www.rightbiz.com/support/">Support</a>
+        :: <a href="http://www.rightbiz.com/about_us/">About us</a> 
+        :: <a href="http://www.rightbiz.com/contact_us.html">Contact Us</a>
+        :: <a href="http://www.rightbiz.com/login/">Log in</a>
         <br>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=privacy_policy">Privacy Policy</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=terms&amp;section=domain_name_dispute_resolution_policy">Domain Resolution Policy</a>
-        :: <a href="http://www.rightbiz.com/?lang=en&amp;action=terms">Terms &amp; Conditions</a>
+        :: <a href="http://www.rightbiz.com/legal/privacy_policy.html">Privacy Policy</a>
+        :: <a href="http://www.rightbiz.com/legal/domain_name_dispute_policy.html">Domain Resolution Policy</a>
+        :: <a href="http://www.rightbiz.com/legal/">Terms &amp; Conditions</a>
         <div style="margin-top:5px; margin-bottom:5px;" align="center">
         <!-- PayPal Logo --><a href="https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside" onclick="javascript:window.open('https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');return false;"><img src="images/PayPal_mark_37x23.gif" alt="Acceptance Mark" width="37" height="23" border="0" style="vertical-align:middle;"></a><!-- PayPal Logo -->
         <img src="images/credit_cards.gif" alt="Supported Credit Cards" hspace="5" style="vertical-align:middle;">
       </div>
-        <span class="copyright">Copyright © RightBiz.com 2009 - 2012. All Rights Reserved!</span></td>
+        <span class="copyright">Copyright © RightBiz.com 2009 - 2013. All Rights Reserved!</span></td>
     <td align="right"><img src="images/footer_guarantees.jpg"></td>
   </tr>
 </tbody></table></div>
@@ -419,38 +318,17 @@ Quality web hosting, domain name registration and transfer, plus top customer su
 
 <div style="text-align:center;">
 <script type="text/javascript"> ch_client = "rightbiz"; ch_width = 728; ch_height = 90; ch_type = "mpu"; ch_sid = "Chitika Default"; ch_color_site_link = "0000CC"; ch_color_title = "0000CC"; ch_color_border = "FFFFFF"; ch_color_text = "000000"; ch_color_bg = "FFFFFF"; </script> <script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript"> </script><br></div><br></div></div>
+
+<!-- Load the Mootools Framework -->
+<script src="https://www.google.com/jsapi"></script><script>google.load("mootools", "1.2.1");</script>	
+
+<!-- Load the MenuMatic Class -->
+<script src="/js/MenuMatic_0.68.3.js" type="text/javascript" charset="utf-8"></script>
 	
-	<!-- Load the Mootools Framework -->
-	<script src="https://www.google.com/jsapi"></script><script>google.load("mootools", "1.2.1");</script>	
-	
-	<!-- Load the MenuMatic Class -->
-	<script src="/js/MenuMatic_0.68.3.js" type="text/javascript" charset="utf-8"></script>
-	
-	<!-- Create a MenuMatic Instance -->
-	<script type="text/javascript">
-		window.addEvent('domready', function() {			
-			var myMenu = new MenuMatic();
-		});		
-	</script>
 <div class="demo_overlay" id="cpdemo">
        <div class="contentWrap"></div>
 </div>
-<script type="text/javascript" language="javascript">
-jQuery(function() {
-	jQuery("a[rel='#cpdemo']").overlay({
-		mask: 'black',
-		effect: 'apple',
-
-		onBeforeLoad: function() {
-			// grab wrapper element inside content
-			var wrap = this.getOverlay().find(".contentWrap");
-			
-			// load the page specified in the trigger
-			wrap.load(this.getTrigger().attr("href"));			
-		}
-	});
-});
-</script>
+<script type="text/javascript" language="javascript" src="bottom.js"></script>
 
 
 </body></html>
