@@ -1,37 +1,40 @@
-> *The following text is extracted and transformed from the cloudload.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017081748id_/http%3A//www.cloudload.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudload.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420052319id_/http%3A//www.cloudload.com/privacy-policy) for the most accurate reproduction.*
 
-# CloudLoad - Privacy Policy
+# CloudLoad.com - From the web to the cloud. Stream video, view photos, store documents.
 
-### 1\. Overview
+## Privacy Policy
+
+  
+
+
+#### 1\. Overview
 
 It is the policy of CloudLoad.com to protect your private, personal information while you are either visiting or using the services (Services, further described in this policy) of CloudLoad.com. When you visit or use the Site or Services of CloudLoad.com, to include without limitation information that you provide to us, you acknowledge consent to the policies and practices herein described. You specifically agree and consent to the use and admission of your provided information, and also consent to accept emails, as described further in this policy. Certain information is required to utilize the Services of CloudLoad.com. You agree that accurate personal information such as your email address, financial information (PayPal email address), your computer's exclusive IP address, and certain demographic information such as your zip or postal code, hometown, sex, information regarding your purchase history, and non-unique IP computer addresses must be given to CloudLoad.com in order that your account may be set up. We will not knowingly gather contact data or financial data from children who are under the age of 13. You should review this policy from time to time to familiarize yourself with its contents as it may be updated without prior notice. The last revision to this policy is dated May 17th, 2012.
 
-### 2\. How We Use Your Information
+#### 2\. How We Use Your Information
 
 Contact information such as your email address is used to allow us to smoothly perform certain tasks on your account such as changing or retrieving passwords, to perform sales or business break downs, to provide requested services, to facilitate quality assurance, and to contact you regarding any orders you may have placed with CloudLoad.com. None of your financial information will be released except as legally required by laws, regulations, governmental requests, or judicial orders. Placing an order through the Site or registering with the same requires a valid email address so that we, or other service providers, may communicate with you for the purposes outlined in this section. Demographic information may be utilized by CloudLoad.com to conduct business analyses or to attune the Site and communications to be relevant to you. Anonymous, composite data may be shared with third parties such as advertisers so that their promotions and correspondence may be adapted and appropriately directed to their intended clients. Where this policy allows CloudLoad.com to disclose contact or financial information, it also allows us to disclose your demographic data as well. As perquisite for use of CloudLoad.com's Services, you agree that we may utilize your personal information to send certain data such as marketing and/or promotional materials or promotions of products made available by third parties. Such materials could include, without limitation, informational Service newsletters or communications regarding CloudLoad.com's or a third party's goods and/or services. CloudLoad.com will never sell or otherwise make available to any third party your personal information.
 
-### 3\. Use of Cookies and Other Site Tracking Data
+#### 3\. Use of Cookies and Other Site Tracking Data
 
 Cookies - Small files called cookies are placed on your computer's hard drive to assist us in, among other things, providing quicker access to previously visited Service pages or optimizing your Site use. A cookie is also utilized to allow page personalization. Cookies do not contain spyware or malware. Cookies are routinely used to allow CloudLoad.com to ascertain the number of site visitors, which of our web pages are most popular, and length of stay per page. An analysis of this information helps CloudLoad.com to determine which of our Services or features are the most outstanding as well as those which might require revamping. Users may disable cookies by checking or unchecking various preferences or options in their browser. The default position of most browsers is to automatically accept cookies. If you choose to disable cookies, you may be unable to properly utilize the Site or Services. Session IDs are unique numbers assigned by a server that allow user identification while the user is traversing multiple web pages. The Session ID may be stored as a cookie, form field, or a Uniform Resource Locator (URL). Session IDs are helpful in that you arent required to continually re-enter your account name and/or password for each web page that you request. This allows you to surf the pages of CloudLoad's Site more smoothly and quickly. When your internet browser is closed, the Session ID expires. CloudLoad.com sometimes embeds special electronic images (gifs) into our web pages that allow gathering of anonymous traffic statistics and/or other combined site visitor information. We, either ourselves or via third party, use gifs to gather information so that we may examine the experience of site visitors and users. We analyze this information to customize future visits and upgrade our Site. To illustrate, we may collect information on browser type (i.e., Windows or Firefox), cookie settings (turned off or on), and words that are used to search for results (what words resulted in the visitor arriving on our Site). We may also collect data on the number of visits, the paths through which a visitor travels the Site, and specific times spent on various pages or sites within CloudLoad.com's purview. All of the information collected by a gif is not person-specific and is only distributed to internal CloudLoad.com staff and our partners if a confidentiality agreement is signed and on file. Information shared with partners is aggregate, not individual, and demonstrates general web site or Internet user interests. Your computer's IP address and the web page from which you traveled to our site are recorded every time you enter the Site. In order to properly administer the Site and/or to reveal any Site problems, we utilize your IP address so that you may be identified and your general demographic information be collected.
 
-### 4\. Storage of Information
+#### 4\. Storage of Information
 
 You acknowledge that any computer that stores or processes information by CloudLoad.com is based in Canada. When you provide data to CloudLoad.com, you give permission to transfer said information to Canada.
 
-### 5\. Information from Other Sites
+#### 5\. Information from Other Sites
 
 Promotional emails or the websites of CloudLoad.com may contain links to other web sites. These sites may be operated by third parties or other parties. The links may direct the user to web sites that may or may not contain the brand name, trademark, or other intellectual property of CloudLoad.com. When you access other websites via a link provided on CloudLoad.com, even if they do not contain the brand name, trademark, or other intellectual property of CloudLoad.com, be advised that such website content and practices are beyond our control and this privacy policy has no application therein. Therefore, those websites are not governed by this privacy policy and may collect varied personal information that may be disclosed in a manner that is inconsistent with the policy stated herein. For this reason, you should view the privacy policy of the linked website. We are not responsible for the actions of another website not owned by CloudLoad.com.
 
-### 6\. Disclosure to Governmental Bodies
+#### 6\. Disclosure to Governmental Bodies
 
 If compliance is determined to be legally necessary, CloudLoad.com may reveal your contact information. We may also do so to cooperate with or seek aid from law enforcement or to safeguard the interests or safety of CloudLoad.com and its visitors and other users. Should CloudLoad.com merge, consolidate, or divest or be involved with an acquisition or bankruptcy, your contact information may be given to a third party.
 
-### 7\. Privacy Policy Changes
+#### 7\. Privacy Policy Changes
 
 As features are amended or added to the Site or as other suggestions are incorporated, this policy may require revision. Should this revision substantially differ from that which is stated herein, you will be able to choose whether or not you agree with our new use or disclosure policy. CloudLoad.com will prominently post a notification of the modified Privacy Policy on the website so that users may view the types of information we collect, how it may be used, and the conditions under which we may disclose it.
 
-### 8\. How to Contact CloudLoad.com
+#### 8\. How to Contact CloudLoad.com
 
 Should any questions arise regarding this Privacy Policy or information that you have given to CloudLoad.com, you may contact us at support-at-CloudLoad.com
-
-##### © 2012 CloudLoad.com. Privacy Policy
