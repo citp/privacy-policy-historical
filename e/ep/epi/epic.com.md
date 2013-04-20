@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the epic.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226191159id_/http%3A//www.epic.com/euprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420190303id_/http%3A//www.epic.com/euprivacy.php) for the most accurate reproduction.*
 
 # Epic: Privacy
 
 ## EU Safe Harbor Privacy Policy
 
-Effective Date: January 1, 2008
+Effective Date: January 1, 2008  
+Last Modified: March 18, 2013 
 
 ### General
 
 Epic Systems Corporation and its controlled affiliates provide Healthcare Information Software to the healthcare industry. While helping our customers to install and use our software, Epic employees sometimes need to access personal information (including sensitive health information) that is stored in our customers' healthcare information software systems. Epic employees only access this information with explicit permission from our customers.
 
-We take very seriously our obligation to protect the confidentiality of, and to limit uses and disclosure of, such personal information. This policy documents our adherence to the seven European Union Safe Harbor Principles, and is intended to inform people in the EU about the safeguards we have in place for protecting this personal information.
+We take very seriously our obligation to protect the confidentiality of, and to limit uses and disclosure of, such personal information. 
+
+Epic complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Epic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Epic's certification, please visit <http://www.export.gov/safeharbor/>.
+
+This policy is intended to inform people in the EU about the safeguards we have in place for protecting this personal information.
 
 ### Notice and Choice
 
