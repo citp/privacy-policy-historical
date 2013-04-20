@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourcescripts.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030214539id_/http%3A//www.opensourcescripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcescripts.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420195521id_/http%3A//www.opensourcescripts.com/privacy.html) for the most accurate reproduction.*
 
 # Find Open Source Software Scripts CMS PHP ASP NET PERL CGI JAVA JAVASCRIPT
 
