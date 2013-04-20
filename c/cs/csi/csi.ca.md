@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2012-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120821080551id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421000311id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
 
 # CSI's Privacy Policy - CSI Global Education
 
