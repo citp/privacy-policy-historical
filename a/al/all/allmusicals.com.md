@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmusicals.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101052926id_/http%3A//www.allmusicals.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusicals.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420063218id_/http%3A//www.allmusicals.com/privacy.htm) for the most accurate reproduction.*
 
 # Lyrics for All Musicals and Broadway Casts
 
@@ -29,6 +29,6 @@ This web site may contain copyrighted material whose use has not been
 specifically authorized by the copyright owner. This page is operated under the assumption that this not-for-profit use on the Web constitutes a "fair use" of the copyrighted material as provided for in Title 17, Chapter 1 , section 107 of the US Copyright Law. If you wish to use this copyrighted material for purposes of your own that go beyond "fair use", you must obtain permission from the copyright owner. 
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20121101052926id_/http%3A//www.allmusicals.com/contact.htm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20130420063218id_/http%3A//www.allmusicals.com/contact.htm).
 
 ©2012 allmusicals.com. Lyrics are property & copyright of their owners & provided for educational purposes only
