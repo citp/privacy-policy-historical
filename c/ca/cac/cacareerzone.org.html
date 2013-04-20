@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cacareerzone.org privacy policy that was archived on 2012-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120814092529id_/http%3A//www.cacareerzone.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cacareerzone.org privacy policy that was archived on 2013-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130421011425id_/http%3A//www.cacareerzone.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title> Privacy Policy</title>
@@ -19,21 +19,22 @@
   	</script>
 <link href="/images/common/favicon.ico" type="image/x-icon" rel="shortcut icon">
 <link type="text/css" rel="stylesheet" href="/css/jquery-ui-common/jquery-ui-1.8.10.custom.css">
-<link type="text/css" rel="stylesheet" href="/css/structure.css?F1328332835346ZAVJQM=_">
-<link type="text/css" rel="stylesheet" href="/css/common.css?F1328332835346ZAVJQM=_">
-<link id="site-css-file" href="/css/california.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="/css/structure.css?F1062465969350C3DVWO=_">
+<link type="text/css" rel="stylesheet" href="/css/common.css?F1062465969350C3DVWO=_">
+<link rel="stylesheet" href="/css/california.css" id="site-css-file">
 <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
 <script src="/js/jquery-ui-1.8.10.min.js" type="text/javascript"></script>
 <script src="/js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
 <script src="/js/jquery.touchswipe.1.2.4.js" type="text/javascript"></script>
-<script type="text/javascript" src="/js/h2.js?F1328332835346ZAVJQM=_"></script>
+<script type="text/javascript" src="/js/h2.js?F1062465969350C3DVWO=_"></script>
 <script src="/js/autocolumn.min.js" type="text/javascript"></script>
 <script src="/js/jquery.tipTip.minified.js" type="text/javascript"></script>
+<link rel="alternate" title="Announcements RSS Feed" href="/announcements.rss" type="application/rss+xml">
 <meta content="61646ecbf21beea9-bc06a9adba4c781a-g33cda4b76fd904a1-f" name="google-translate-customization">
 
 	
 </head>
-<body id="privacy" class="privacy">
+<body id="privacy" class="privacy language_en">
 	
 	<div id="page">
 		
@@ -57,17 +58,18 @@
 							<p>Learn about yourself, the employment options available to you and the training that will prepare you for them.</p>
 							<ul style="width: 225px;">
 								<li><h2>
-										Assess Yourself
+										<span>Assess Yourself</span>
 									</h2>
 								</li>
-								<li class="quick"><a href="/quick">Quick Assessment</a>
+								<li class="quick"><a href="/quick"><span>Quick Assessment</span></a>
 								</li>
-								<li class="ip-questions"><a href="/ip/">Interest Profiler</a>
+								<li class="ip-questions"><a href="/ip/"><span>Interest Profiler</span></a>
 								</li>
-								<li class="skill-profiler"><a href="/skills/">Skills Profiler</a>
+								<li class="skill-profiler"><a href="/skills/"><span>Skills Profiler</span></a>
 								</li>
-								<li class="wip-questions"><a href="/wip/">Work Importance Profiler</a>
+								<li class="wip-questions"><a href="/wip/"><span>Work Importance Profiler</span></a>
 								</li>
+								
 								<li><h2 class="notfirst">
 										Occupations
 									</h2>
@@ -83,6 +85,7 @@
 									</h2>
 								</li>						
 								<li><a href="/colleges/location">Find a College in Your Area</a></li>	
+								<li class="training"><a href="/training/list">Find Training</a></li>	
 
 								<li><h2 class="notfirst">
 										Fields of Study
@@ -131,7 +134,12 @@
 								</li>	
 								<li><a href="/reports/users/custom">Portfolio Summary Report</a></li>
 								<li><a href="/reports/users/cluster">Exploration by Cluster Report</a></li>
-								<li><h2 class="notfirst">Job Application Tools</h2></li>
+								
+								
+								<li><h2 class="notfirst">
+										Job Application Tools
+									</h2>
+								</li>
 								<li><a href="/jobtools/resume/">Resume Builder</a></li>
 								<li><a href="/jobtools/coverletter/">Letter Builder</a></li>
 								<li><a href="/jobtools/references/">Reference List Builder</a></li>
@@ -145,13 +153,15 @@
 								</li>
 								<li class="flagged-items"><a href="/journal/flaggeditems">Bookmarks and Ratings</a>
 								</li>
+								<li class="future-plans"><a href="/plans/">Planning</a>
+								</li>
 								
 																	
 							</ul>
 						</div></li>
 					
 					<li class="search">
-						<form onsubmit="window.location = '/search/' + escape($('#search-form input').val().replace(/ /g,'_')).toLowerCase(); return false;" id="search-form">
+						<form onsubmit="h2.handleSearchForm('', $('#search-form input').val()); return false;" id="search-form">
 							<input onblur="if(this.value=='') this.value='Search'" onfocus="if(this.value=='Search') this.value=''" value="Search" name="search" type="text">
 							<input src="/images/common/search-icon.png" id="searchsubmit" type="image">
 						</form>
@@ -167,7 +177,8 @@
 			</h2>
 			<div id="pageaction">
 				
-			</div>			
+			</div>
+            <div id="announcement-memo"></div>
 			<div id="messages">
 				<div id="lift__noticesContainer__"></div>
 			</div>
@@ -208,15 +219,15 @@
 	
 	
 	<div id="footer">
-		<form id="F1328343261874HRM5AE" action="javascript://" onsubmit="liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F1328343261874HRM5AE&quot;).serialize(), null, null, &quot;javascript&quot;);return false;">
+		<form id="F10624682748230FIGBN" action="javascript://" onsubmit="liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F10624682748230FIGBN&quot;).serialize(), null, null, &quot;javascript&quot;);return false;">
 		<ul id="footerlist">
-			<li class="about"><a href="/about">About</a>
+			<li class="about"><a href="/about"><span>About</span></a>
 			</li>
-			<li class="privacy"><a href="/privacy">Privacy Policy</a>
+			<li class="privacy"><a href="/privacy"><span>Privacy Policy</span></a>
 			</li>
-			<li class="latest"><a href="/latest">Latest News</a>
+			<li class="latest"><a href="/latest"><span>Latest News</span></a>
 			</li>
-			<li class="faq"><a href="/help">Help</a>
+			<li class="faq"><a href="/help"><span>Help / Contact</span></a>
 			</li>
 		</ul>
 		</form>
@@ -238,68 +249,112 @@
 			</ul>
 			</div>
 			<div id="auth-sign-in">
-				<form id="F1328343261878MDVPOK" action="javascript://" onsubmit="$(this).clearNotices()
-h2.showLoadingImage($(this).find(':submit'));liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F1328343261878MDVPOK&quot;).serialize(), null, null, &quot;javascript&quot;);return false;">
+				<form id="F1062468274827O3XL4H" action="javascript://" onsubmit="$(this).clearNotices()
+h2.showLoadingImage($(this).find(':submit'));liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F1062468274827O3XL4H&quot;).serialize(), null, null, &quot;javascript&quot;);return false;">
       
       <fieldset>
         <div class="item item-0">
           <div class="notice_container"><span class="notices" id="signin_name_notices"></span></div>
           <label for="signin_name">Username</label>
-          <div class="itemValue"><input value="" class="text-input" type="text" name="F132834326187514PB1S" id="signin_name" title=""></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input title="" id="signin_name" name="F1062468274824SLPDHG" type="text" class="text-input" value="" required="true"></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-1">
           <div class="notice_container"><span class="notices" id="signin_pass_notices"></span></div>
           <label for="signin_pass">Password</label>
-          <div class="itemValue"><input title="" id="signin_pass" name="F1328343261876GCGJJ3" type="password" class="text-input" value=""></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="password" name="F1062468274825K21R5L" id="signin_pass" title="" required="true"></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div>
       </fieldset>
       <div class="nav">
-        <input onclick="liftAjax.lift_uriSuffix = 'zF1328343261877SQTOEF=_'; return true;" class="submit small" name="zF1328343261877SQTOEF" type="submit" value="Sign In">
+        <input onclick="liftAjax.lift_uriSuffix = 'zF1062468274826MCSWXI=_'; return true;" class="submit small" name="zF1062468274826MCSWXI" type="submit" value="Sign In">
     	
       </div>
     </form>
 				<br> <a href="/resetpassword">Forgot Password</a>&nbsp;&nbsp;&nbsp; <a href="/lookupuser">Forgot Username</a>
 			</div>
 			<div id="auth-register">
-				<form id="F13283432618880KVQYJ" action="javascript://" onsubmit="$(this).clearNotices()
-h2.showLoadingImage($(this).find(':submit'));liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F13283432618880KVQYJ&quot;).serialize(), null, null, &quot;javascript&quot;);return false;">
+				<form id="F1062468274839DZZTET" action="javascript://" onsubmit="$(this).clearNotices()
+h2.showLoadingImage($(this).find(':submit'));liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F1062468274839DZZTET&quot;).serialize(), null, null, &quot;javascript&quot;);return false;">
       
       <fieldset>
         <div class="item item-0">
           <div class="notice_container"><span class="notices" id="username_notices"></span></div>
           <label for="username">Username</label>
-          <div class="itemValue"><input value="" class="text-input" type="text" name="F1328343261879ECADYB" id="username" title="Your username must consist of at least 4 characters and can be any combination of letters, numbers and the characters @, +, -, . and _. If you forget your username it can be recovered as long as you provide your e-mail address."></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input title="Your username must consist of at least 4 characters and can be any combination of letters, numbers and the characters @, +, -, . and _. If you forget your username it can be recovered as long as you provide your e-mail address." id="username" name="F1062468274828ISOZHF" type="text" class="text-input" value="" required="true"></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-1">
           <div class="notice_container"><span class="notices" id="password_notices"></span></div>
           <label for="password">Password</label>
-          <div class="itemValue"><input title="Choose a password to protect your account. It must consist of at least 6 characters and should not be something a person who knows you can easily guess. Don't worry, if you forget your password you can reset it as long as you provide your e-mail address." id="password" name="F1328343261880H0C2AE" type="password" class="text-input" value=""></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="password" name="F1062468274829VGV4P2" id="password" title="Choose a password to protect your account. It must consist of at least 6 characters and should not be something a person who knows you can easily guess. Don't worry, if you forget your password you can reset it as long as you provide your e-mail address." required="true"></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-2">
-          <div class="notice_container"><span class="notices" id="repeat_password_notices"></span></div>
-          <label for="repeat_password">Repeat Password</label>
-          <div class="itemValue"><input title="Please re-type your password to verify." id="repeat_password" name="F1328343261881RM2KRQ" type="password" class="text-input" value=""></div>
+          <div class="notice_container"><span class="notices" id="verify_password_notices"></span></div>
+          <label for="verify_password">Verify Password</label>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="password" name="F1062468274830ENWESJ" id="verify_password" title="Please re-type your password to verify." required="true"></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-3">
           <div class="notice_container"><span class="notices" id="zip_code_notices"></span></div>
           <label for="zip_code">Zip Code</label>
-          <div class="itemValue"><input value="" class="text-input" type="text" name="F1328343261882BFKJM1" id="zip_code" title=""></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input title="" id="zip_code" name="F1062468274831V2LH2T" type="text" class="text-input" value="" required="true"></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-4">
           <div class="notice_container"><span class="notices" id="first_name_notices"></span></div>
           <label for="first_name">First Name</label>
-          <div class="itemValue"><input value="" class="text-input" type="text" name="F1328343261883DBFIEZ" id="first_name" title=""></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="text" name="F1062468274832R3T0E4" id="first_name" title=""></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-5">
           <div class="notice_container"><span class="notices" id="last_name_notices"></span></div>
           <label for="last_name">Last Name</label>
-          <div class="itemValue"><input value="" class="text-input" type="text" name="F1328343261884IWO515" id="last_name" title=""></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="text" name="F1062468274833FY0J5O" id="last_name" title=""></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-6">
-          <div class="notice_container"><span class="notices" id="email_address_notices"></span></div>
-          <label for="email_address">Email Address</label>
-          <div class="itemValue"><input value="" class="text-input" type="text" name="F1328343261885XS313D" id="email_address" title="This field is optional, however, if you choose not to provide it you will not be able to recover your username or password if you forget them."></div>
+          <div class="notice_container"><span class="notices" id="email_notices"></span></div>
+          <label for="email">E-Mail</label>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="text" name="F1062468274834PCOOKQ" id="email" title="This field is optional, however, if you choose not to provide it you will not be able to recover your username or password if you forget them."></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div><div class="item item-7">
+          <div class="notice_container"><span class="notices" id="which_describes_you_best_notices"></span></div>
+          <label for="which_describes_you_best">Which describes you best?</label>
+          <div class="itemValContainer">
+    		<div class="itemValue"><select name="F1062468274835ETKJCF" id="which_describes_you_best"><option value="1">Student</option><option value="2">Teacher</option><option value="3">Job Seeker</option><option value="4">Other</option></select></div>
+    		<div class="itemValAux"></div>
+          </div>
+        </div><div class="item item-8">
           <div class="notice_container"><span class="notices" id="school_name_notices"></span></div>
           <label for="school_name">School Name</label>
-          <div class="itemValue"><input value="" class="text-input" type="text" name="F1328343261886DBNZ0N" id="school_name" title="If you are currently in school please enter the name of the school that you attend."></div>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="text" name="F1062468274836O3PTSZ" id="school_name" title="If you are currently in school please enter the name of the school that you attend."></div>
+    		<div class="itemValAux"></div>
+          </div>
+        </div><div class="item item-9">
+          <div class="notice_container"><span class="notices" id="graduation_year_notices"></span></div>
+          <label for="graduation_year">Graduation Year</label>
+          <div class="itemValContainer">
+    		<div class="itemValue"><input value="" class="text-input" type="text" name="F10624682748373053QV" id="graduation_year" title="What year are you scheduled to graduate from the institution where you are currently enrolled. This information is optional, however providing it can help us to tailor the system to your needs."></div>
+    		<div class="itemValAux"></div>
+          </div>
         </div>
       </fieldset>
       <div class="nav">
-        <input onclick="liftAjax.lift_uriSuffix = 'zF13283432618873XS52S=_'; return true;" class="submit small" name="zF13283432618873XS52S" type="submit" value="Create Account">
+        <input onclick="liftAjax.lift_uriSuffix = 'zF1062468274838M3MH2C=_'; return true;" class="submit small" name="zF1062468274838M3MH2C" type="submit" value="Create Account">
     	
       </div>
     </form>
@@ -321,7 +376,7 @@ h2.showLoadingImage($(this).find(':submit'));liftAjax.lift_ajaxHandler(jQuery('#
 <script type="text/javascript">
 // <![CDATA[
 jQuery(document).ready(function() {liftAjax.lift_successRegisterGC();});
-var lift_page = "F1328343261870SY1ZHN";
+var lift_page = "F1062468274818TPVNAO";
 // ]]>
 </script>
   
