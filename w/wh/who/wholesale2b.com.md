@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wholesale2b.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/wholesale2b-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesale2b.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420053530id_/http%3A//wholesale2b.com/wholesale2b-privacy-policy.html) for the most accurate reproduction.*
 
 # Wholesale2b Testomonials
 
-[Contact Us](http://www.wholesale2b.com/members.php/visitor/login) | [Member Login](http://www.wholesale2b.com/members.php) [](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/index.html)
+[Contact Us](http://www.wholesale2b.com/members.php/visitor/login) | [Member Login](http://www.wholesale2b.com/members.php) [](https://web.archive.org/web/20130420053530id_/http%3A//wholesale2b.com/index.html)
 
   * [Dropship eBay Plan  
- _Push products to eBay_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-ebay-plan.html)
+ _Push products to eBay_](https://web.archive.org/web/20130420053530id_/http%3A//wholesale2b.com/dropship-ebay-plan.html)
   * [Dropship Website Plan  
- _Get your own turnkey website_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-website-plan.html)
+ _Get your own turnkey website_](https://web.archive.org/web/20130420053530id_/http%3A//wholesale2b.com/dropship-website-plan.html)
   * [Dropship Datafeed Plan  
- _CSV, Excel, Images, Amazon, Google_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-datafeed-plan.html)
+ _CSV, Excel, Images, Amazon, Google_](https://web.archive.org/web/20130420053530id_/http%3A//wholesale2b.com/dropship-datafeed-plan.html)
   * [Dropship Products  
- _Sample Dropship Products_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-products.html)
+ _Sample Dropship Products_](https://web.archive.org/web/20130420053530id_/http%3A//wholesale2b.com/dropship-products.html)
 
 
 
