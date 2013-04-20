@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bestsearching.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120181940id_/http%3A//www.bestsearching.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsearching.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420050514id_/http%3A//bestsearching.com/en/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Best Searching Privacy Policy
 
 ****   
- **Privacy Policy**
+ **BestNews.com, BestSearching.com and BestSearching.TV Privacy Policy**
 
-Best Space Corporation, (Best Searching) owns and operates a number of different sites on the Web (each, an "Best Searching Site"). Best Searching is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information Best Searching may gather about individuals who visit the Best Searching Sites, how that information is used, and Best Searching's disclosure practices. Please note that this policy applies only to the Best Searching Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the Best Searching Sites. 
+Best Searching owns and operates a number of different sites on the Web (each, an "Best Searching Site"). Best Searching is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information Best Searching may gather about individuals who visit the Best Searching Sites, how that information is used, and Best Searching's disclosure practices. Please note that this policy applies only to the Best Searching Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the Best Searching Sites. 
 
 **Anonymous User Information**
 
@@ -94,13 +94,4 @@ It is possible that by fraud or deception we may receive information given to us
 
 Questions regarding children's privacy should be directed to: 
 
-Best Space Corporation  
-274 Main Street, Suite 307  
-Reading, MA 01867  
-\+ (1) 781.942.0200 phone  
-\+ (1) 781.942.7707 fax   
-E-mail: 
-
-_[kidsprivacy@bestsearching.com](mailto:kidsprivacy@bestsearching.com)_
-
-Policy effective January 1, 2008 
+Email: Support@BestNews.com
