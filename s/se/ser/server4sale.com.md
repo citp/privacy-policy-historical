@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the server4sale.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915031424id_/http%3A//server4sale.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the server4sale.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420055142id_/http%3A//server4sale.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Server4sale - Privacy Policy
 
 Server4Sale offers a range of complete server hosting solutions under the best data center in the world...   
-[Click here for more...](https://web.archive.org/web/20120915031424id_/http%3A//server4sale.com/dedicated-server.html)
+[Click here for more...](https://web.archive.org/web/20130420055142id_/http%3A//server4sale.com/dedicated-server.html)
 
-Our dedicated server means 'All in One'. Our dedicated server is not only an extra feature to your hosting plan, it is the whole solution.... [Click here for more...](https://web.archive.org/web/20120915031424id_/http%3A//server4sale.com/server-upgrade.html)
+Our dedicated server means 'All in One'. Our dedicated server is not only an extra feature to your hosting plan, it is the whole solution.... [Click here for more...](https://web.archive.org/web/20130420055142id_/http%3A//server4sale.com/server-upgrade.html)
 
 Server4Sale offers 24/7 Technical Support with many other ways to contact us through emails and direct phone calls...  
-[Click here for more...](https://web.archive.org/web/20120915031424id_/http%3A//server4sale.com/services.html)
+[Click here for more...](https://web.archive.org/web/20130420055142id_/http%3A//server4sale.com/services.html)
 
 Customer will be legally bound to the our TOS
 
