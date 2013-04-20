@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixrealestateguy.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030000454id_/http%3A//www.phoenixrealestateguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixrealestateguy.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420112819id_/http%3A//www.phoenixrealestateguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Phoenix Real Estate Guy
 
