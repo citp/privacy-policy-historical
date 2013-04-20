@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015114408id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420155928id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Caspio Privacy Statement
 
-[](http://www.truste.org/ivalidate.php?url=caspio.com&sealid=102)
+[](http://www.truste.org/ivalidate.php?url=caspio.com&sealid=102 "TRUSTe European Safe Harbor certification")
 
 ## For Website Users and Clients
 
-Last modified March 7, 2012.
+Last modified February 11, 2013.
 
 ### OVERVIEW
 
@@ -14,9 +14,7 @@ Caspio, Inc. is committed to respecting your privacy and the privacy of the info
 
 We want you to know that we are not in the business of selling or renting individuals' personal data to other companies for any purpose.
 
-This Privacy Statement contains Caspio's handling of personally identifiable information that is gathered when you are on Caspio's site, and when you use Caspio's services. This Privacy Statement applies exclusively to the sites [www.caspio.com](https://web.archive.org/) and [caspio.net](https://web.archive.org/). This policy does not cover or apply to the practices of organizations that use our services on their websites, that Caspio does not own or control, information collected offline, or to non-Caspio employees.
-
-Caspio, Inc. is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust in the internet by promoting the use of fair information practices. We have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe as a testament of our commitment to your privacy. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
+Caspio, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html "TRUSTe Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover downloadable software and only covers the sites [www.caspio.com](https://web.archive.org/) and  [caspio.net](https://web.archive.org/).  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
 
 Caspio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Caspio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Caspio's certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -70,6 +68,10 @@ We may encourage our customers and website visitors to email pages of our websit
 ### LINKS TO OTHER WEBSITES
 
 Our website contains links to information on other websites. We do not have any control over these other websites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Statement, and if you have questions about how a site uses your information, consult that site's privacy statement.
+
+### SOCIAL MEDIA FEATURES AND WIDGETS
+
+Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 ### CHANGING OR DELETING YOUR PERSONAL INFORMATION
 
