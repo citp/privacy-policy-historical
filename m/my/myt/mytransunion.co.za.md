@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytransunion.co.za privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003034350id_/https%3A//mytransunion.co.za/Contents/PrivacyPolicy.htm%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D450%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytransunion.co.za privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420053454id_/https%3A//mytransunion.co.za/Contents/PrivacyPolicy.htm%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D450%26width%3D800) for the most accurate reproduction.*
 
 # Terms and Conditions
 
