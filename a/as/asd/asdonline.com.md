@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asdonline.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126220909id_/http%3A//www.asdonline.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdonline.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420081330id_/http%3A//asdonline.com/info/privacy-policy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 **Effective Date: January 2011**
 
@@ -29,7 +29,7 @@ Nielsen may use your contact information for any of the following reasons:
 
 If you do not wish to receive ASD marketing information from Nielsen or wish to opt out of future ASD email promotions from Nielsen, please email [nielsenexpositionsprivacy@nielsen.com](mailto:%20nielsenexpositionsprivacy@nielsen.com) with ASD in the subject line. Please note that all promotional and research email messages you receive from Nielsen will include an option to opt out of future email communications. 
 
-From time to time Nielsen may also share your contact information with other organizations, such as trade show exhibitors and vendors, for marketing purposes. If you do not wish to receive such offers, please [click here](http://nielsencomm.net/o/ext/?CID=nbm). 
+From time to time Nielsen may also share your contact information with other organizations, such as trade show exhibitors and vendors, for marketing purposes. If you do not wish to receive such offers, please [click here](http://o.nielsen-info.com/no.aspx). 
 
 We contract with third party companies that we have employed to provide us with specialized services, including customer service, registration, subscription fulfillment, housing, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, and other information services. These companies or individuals may be provided with access to personally identifiable information, but only as needed to perform their functions. These companies are required by contract to maintain the confidentiality, security and integrity of such information. 
 
