@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicliaison.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227222349id_/http%3A//www.organicliaison.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicliaison.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420084440id_/http%3A//www.organicliaison.com/about/privacy) for the most accurate reproduction.*
 
 # Organic Liaison
 
@@ -118,8 +118,8 @@ If you have any questions about our Privacy Policy, please contact our Privacy C
   * by email at: legal@organicliaison.com or
   * by normal mail at: Organic Liaison  
 Attention: Privacy Statement Personnel  
-639 Cleveland St. Suite 345  
-Clearwater, FL 33755
+1465 S. Ft. Harrison Ave #206  
+Clearwater, FL 33765
   * by telephone at: 1 (800) 513-5201
 
 
