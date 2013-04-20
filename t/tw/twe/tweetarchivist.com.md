@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetarchivist.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111195623id_/http%3A//www.tweetarchivist.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetarchivist.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420064159id_/http%3A//www.tweetarchivist.com/about/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
