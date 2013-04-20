@@ -1,47 +1,111 @@
-> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101075144id_/http%3A//www.bluesombrero.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420071230id_/http%3A//www.bluesombrero.com/privacy) for the most accurate reproduction.*
 
-# Online Registration & Club Management for Youth Soccer
+# Free Online Registration & Club Management for Youth Sports
 
-Blue Sombrero is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Blue Sombrero Web site and governs data collection and usage. By using the Blue Sombrero website, you consent to the data practices described in this statement.
+Updated As of January 16, 2013
 
-Collection of your Personal Information
+## Introduction
 
-Blue Sombrero collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Blue Sombrero also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+DICK'S Sporting Goods, Inc. and its [Family of Businesses](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses), including [Blue Sombrero, LLC](http://www.bluesombrero.com/), (collectively, "DICK'S") provide this privacy policy (this "Policy") to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and protect such information. This Policy applies to customer information obtained in connection with DICK'S operations at or through our websites, our mobile sites, our social media presence, our mobile applications, and our stores. For purposes of this Policy, our websites, our mobile sites, our social media presence and our mobile applications are referred to collectively as, our "Websites." Emails, social media, online marketing campaigns and online internet-based advertising are collectively referred to as, our "Internet Marketing Channels." 
 
-There is also information about your computer hardware and software that is automatically collected by Blue Sombrero. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Blue Sombrero for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Blue Sombrero Web site.
+DICK'S is committed to maintaining your privacy, providing you with information and choices, and permitting you opportunities to correct inaccuracies. If, after reading this Policy, you have questions, comments or concerns, please use the “Contact Customer Service” link below. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Blue Sombrero public message boards, this information may be collected and used by others. Note: Blue Sombrero does not read any of your private online communications.
+## Information We Collect
 
-Blue Sombrero encourages you to review the privacy statements of Web sites you choose to link to from Blue Sombrero so that you can understand how those Web sites collect, use and share your information. Blue Sombrero is not responsible for the privacy statements or other content on Web sites outside of the Blue Sombrero and Blue Sombrero family of Web sites.
+With the goal and intention of providing you products and services, and of improving your overall experience, we receive, collect and store information in a variety of ways, including when you visit our Websites or provide information to us. We may also collect information when you: (1) open an account with us; (2) utilize our services; (3) apply for a credit card; (4) make a purchase; (5) apply for a license ( _e.g._ , hunting, fishing, etc.) or conduct a similar transaction; (6) contact us via any customer service method; (7) submit any user-generated content (via our Websites or otherwise); (8) participate in customer research, surveys, sweepstakes or promotions; or (9) otherwise communicate information to us. 
 
-Use of your Personal Information
+Some of the information we collect is considered " _Personal Information_." Personal Information includes your name, mailing address, e-mail address, driver's license number, social security number, credit/debit card information (and related payment information) and/or telephone number. We also may collect other information such as permit number(s), credit application information and demographic/lifestyle information (including date of birth, personal interests and product/buying preferences). 
 
-Blue Sombrero collects and uses your personal information to operate the Blue Sombrero Web site and deliver the services you have requested. Blue Sombrero also uses your personally identifiable information to inform you of other products or services available from Blue Sombrero and its affiliates. Blue Sombrero may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+The collection of certain types of Personal Information may be necessary and/or required for governmental compliance ( _e.g._ , hunting, fishing or firearms licensing or purchasing). 
 
-Blue Sombrero does not sell, rent or lease its customer lists to third parties. Blue Sombrero may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Blue Sombrero may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Blue Sombrero, and they are required to maintain the confidentiality of your information.
+Additionally, we may receive, collect and or store Personal Information and other information you provide on behalf of third parties, or third parties provide behalf of you, relating to gift recipients, online registrations, in-store pick-up or registries. We may also receive, collect and store Personal Information and other customer information from sources assisting us with updating, improving and/or analyzing our record or detecting fraud or theft. Additionally, we may receive, collect and store information from various consumer reporting agencies and related service providers. 
 
-Blue Sombrero does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+We may also receive, collect and store " _Automated Information_ " through Cookies (as defined below), Web Beacons (as defined below) and other related automated means. " _Cookies_ " are small text files sent to your device as you visit our Websites or utilize our Internet Marketing Channels and saved on your device via your browser or hard drive. We then use Information Technologies (as defined below) to recognize you and your preferences as you return to our Websites or utilize our Internet Marketing Channels. " _Web Beacons_ " (also known as pixel tags) are a form of tracking technology placed within our Websites and our Internet Marketing Channels to monitor and track your visits to certain pages within our Websites, and your interaction with (and the effectiveness of) our Internet Marketing Channels. 
 
-Blue Sombrero keeps track of the Web sites and pages our customers visit within Blue Sombrero, in order to determine what Blue Sombrero services are the most popular. This data is used to deliver customized content and advertising within Blue Sombrero to customers whose behavior indicates that they are interested in a particular subject area.
+Automated Information we collect via Cookies, Web Beacons and other related methods (collectively, " _Information Technologies_ ") includes information such as internet protocol address(es), operating system(s) and browser specifics of your device, device characteristics, geographic information, user id(s), and specifics regarding your interactions with ( _i.e._ , the path your device takes through) our Websites and our Internet Marketing Channels. 
 
-Blue Sombrero Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Blue Sombrero or the site; (b) protect and defend the rights or property of Blue Sombrero; and, (c) act under exigent circumstances to protect the personal safety of users of Blue Sombrero, or the public.
+Automated Information enables the tailoring of advertisements and offers specifically for you. In addition to such tailoring, we are interested in Automated Information to ensure that our mobile and/or online presence operates properly and efficiently for you and for your individual customer experience, to evaluate the use and benefit of such presence, and to support our Websites and our Internet Marketing Channels. 
 
-Use of Cookies
+## Your Choices
 
-The Blue Sombrero Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We use, collect and disclose your information consistent with this Policy, as updated from time to time, and you consent to such use, collection and disclosure by your use of our: (1) Websites; (2) Internet Marketing Channels; (3) marketing campaigns; and (4) marketing programs ( _e.g._ , loyalty programs). 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Blue Sombrero pages, or register with Blue Sombrero site or services, a cookie helps Blue Sombrero to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Blue Sombrero Web site, the information you previously provided can be retrieved, so you can easily use the Blue Sombrero features that you customized.
+You may unsubscribe to future e-mail communications by clicking on the unsubscribe link in our e-mail communications. In addition, you may use the methods set forth in the "Contact Customer Service" link below to opt-out or update certain preferences. Regardless of your decision to opt-out of future e-mail communications, we may still contact you regarding transactions and for transactional purposes ( _e.g._ , recalls, product information and service/reminder notices). 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Blue Sombrero services or Web sites you visit.
+Based upon your browsing history with us and with other online sites, we may personalize your experience via our Websites and via our Internet Marketing Channels. However, you have choices relating to how your device interacts with our Websites and our Internet Marketing Channels. You can choose to access our Websites without accepting Information Technologies to your device(s), and you can opt-out or modify certain elements of our Websites ( _e.g._ , location services) and our Internet Marketing Channels (that are tailored specifically to you and served to you based upon your browsing history). If you choose to so restrict, you may access our Websites, but you will NOT be able to take full advantage of certain Website features. Please note, even if you opt-out of certain online, internet-based advertising, you may still see or receive DICK'S advertisements on our Websites and other sites, but such advertisements will not be based upon your browsing history. 
 
-Security of your Personal Information
+Additionally, we belong to various advertising networks that utilize your browsing history across various and participating sites to serve you DICK'S advertisements on such sites. We do not permit such networks to provide your browsing history (including your shopping behavior) on any of our Websites to any other site. To learn more about your options relating to this matter, including how to opt-out of this category of advertising, please [click here](http://www.aboutads.info/). 
 
-Blue Sombrero secures your personal information from unauthorized access, use or disclosure. Blue Sombrero secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+## How We Use
 
-Changes to this Statement
+We do not sell, rent or trade your Personal Information to third parties. We use your information in numerous ways, including: 
 
-Blue Sombrero will occasionally update this Statement of Privacy to reflect company and customer feedback. Blue Sombrero encourages you to periodically review this Statement to be informed of how Blue Sombrero is protecting your information.
+  1. Fulfilling, delivering and communicating regarding your orders for products and/or services;
+  2. Maintaining our loyalty programs, including the ScoreCard and the Advantage Club;
+  3. Processing credit card applications and payments; 
+  4. Administering surveys, sweepstakes, contests or promotions; 
+  5. Registering and servicing your account(s); 
+  6. Providing customer service; 
+  7. Conducting research and analysis; 
+  8. Alerting you to product, service and promotional information, including product recalls; 
+  9. Helping us to improve, customize and advance our products and services, Websites, Internet Marketing Channels, mailing or marketing campaigns; and 
+  10. Protecting the security and integrity of our stores, Websites, Internet Marketing Channels and overall business practices. 
 
-Contact Information
 
-Blue Sombrero welcomes your comments regarding this Statement of Privacy. If you believe that Blue Sombrero has not adhered to this Statement, please contact Blue Sombrero at [info@bluesombrero.com](mailto:info@bluesombrero.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+In doing so, we:
+
+  1. May combine certain Personal Information, customer information and Automated Information collected online and offline, including information collected from third parties; 
+  2. May transfer or disclose such information within our [Family of Businesses](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses), including affiliates and subsidiaries; and
+  3. Will retain such information as needed to provide you products/services, comply with our legal obligations, resolve disputes, and enforce our agreements as we deem reasonably necessary.
+
+
+
+## How We Share
+
+We may share information:
+
+  1. With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity. We do require that such providers keep your Personal Information safe, secure and private, and we require that they not use or disclose your Personal Information for any purpose other than providing the applicable services to us, to you or on our behalf; 
+  2. As we deem necessary, in the event (or partial event) of a corporate sale (asset or stock), merger, reorganization, change in corporate control, acquisition, insolvency, bankruptcy or similar event; 
+  3. Specifically, certain Personal Information, in connection with various co-branded, warranty, delivery/assembly and/or financial products or services, including our private label credit card(s); 
+  4. To comply with applicable law or reasonable request based upon governmental regulation, court order, subpoena or similar related action; and 
+  5. As we deem necessary to protect the rights, property or safety of DICK'S, our customers, our associates or others, and to prevent harm or loss or in connection with an investigation or suspected or actual unlawful activity. 
+
+
+
+## How We Update
+
+For certain types of information, we may offer you a variety of ways to access or update such information:
+
+  1. If you have a DICK'S account, log-in to such account via one of our Websites. After securely entering your account, you can easily update your name, e-mail address, password, loyalty card information, billing/shipping address, etc. by entering or revising the information as reflected therein, or you may close your account(s) and request that we no longer use your information to provide you services or products; and
+  2. Additionally, utilize the "Contact Customer Service" link at the bottom of any of our Websites. This link will provide you the opportunity to contact DICK'S via phone, e-mail or U.S. postal mail. Please provide your current and complete contact information with these requests. 
+
+
+
+Please note:
+
+  1. We may refuse requests that are unreasonably repetitive, require disproportionate technical efforts, risk the privacy of others or are extremely impractical; 
+  2. After closing your account(s), or updating or revising any information within your account(s) or any Information Technologies associated with your device(s), we may not delete residual copies from our servers and may not remove information from our back-up system(s); and 
+  3. Closing or updating information relating to one DICK'S account (e.g., a DICK'S online shopping account) does not guarantee the closing or updating of a separate and different DICK'S account (e.g., a Golf Galaxy shopping account or a DICK'S loyalty card account). If you desire to close or update multiple DICK'S accounts, please log-in to each specific account to do so, or please contact the correct and applicable Customer Service department associated with each such account. 
+
+
+
+In our efforts to provide accurate and complete information, we do utilize third party entities to assist us with updating and maintaining current contact information (e.g., National Change of Address or NCOA). 
+
+## How We Protect
+
+Regardless of whether you are shopping or utilizing our services online, via a mobile device or in our stores, we make securing your information a priority, take reasonable measures to protect the confidentiality of your information and appropriately limit third party access to such information. 
+
+We use a variety of security measures to protect your online transactions with us. Our Websites utilize encryption technology, including Secure Sockets Layer, to protect your information that we transport across the internet. Your personal online and mobile account(s) with us are protected via password protection and accessed online via such password. We comply with industry standards relating to safeguards for handling and securing customer payment information provided during payment card transactions.
+
+Additionally, we use a variety of security measures to protect your information that we maintain at our facilities. Such information is subject to physical, administrative and technical controls.
+
+Our Websites are "general audience" websites and not geared toward children. In order to protect the privacy of children, our Websites do not knowingly collect Personal Information from children under the age of 13 without express parental consent. If you are a parent or guardian and think we have unauthorized information about your child who is under the age of 13, please use the "Contact Customer Service” link below.
+
+## Miscellaneous
+
+_Third Party Links_. Our Websites and our Internet Marketing Channels may link to other sites, many of which have their own privacy policies that we do not control. Be sure to review these privacy policies when visiting such sites. We are not responsible for such third parties' sites. 
+
+_Privacy Policy Updates_. As we grow, develop and change, we may, from time to time, need to update and revise this Policy. Please periodically check this Policy for any updates or revisions. 
+
+[California Privacy Policy](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=12720030&ab=PrivacyPolicy_California)
