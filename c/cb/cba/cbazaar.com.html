@@ -1,856 +1,1278 @@
-<!--The following is the downloaded HTML source of the cbazaar.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015032915id_/http%3A//www.cbazaar.com/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbazaar.com privacy policy that was archived on 2013-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420051932id_/http%3A//www.cbazaar.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy
-</title><link id="EsCss" rel="stylesheet" type="text/css" href="/EStoreCss/EsCBGray.css"><link id="EsFavicon" rel="shortcut icon" type="image/x-icon" href="image/EsFavicon/7.ico">
+<!DOCTYPE html><html lang="en"><head><title>
 
-    <script async="" charset="utf-8" src="//cdn.zopim.com/?hNYCW8ZTs1TPyGl1S0R6xwFfb3AELCtD" type="text/javascript"></script><script type="text/javascript" async="" src="https://insight.torbit.com/v1/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="JavaScripts/EsImageProtect.js"></script>
+</title><link rel="stylesheet" type="text/css" href="/Resources/Styles/MinifiedStyles/7combined_D1648FAC415B9F71F6213D83BA2B714B.css"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9639.js?438993" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://tracking.sokrati.com/javascripts/tracker.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/Resources/JavaScripts/Minifiedjs/7combined_10B45D1BE6DACACA3F1C5877A5AA9B8F.js"></script>
+    
+    <!--[if IE 7]>
+    <link href="/Resources/Styles/ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+    <script type="text/javascript">
+        //Start of Unbxd Search        
+        function checkKey(el, dummy, e) {
+            //gDomain
+            var keynum;
+            if (window.event) { // IE		
+                keynum = e.keyCode;
+            } else if (e.which) { // Netscape/Firefox/Opera		
+                keynum = e.which;
+            }
+            if (keynum == 13) {
+                var vSearchText;
+                //if ($("#genericSrch").is(":checked") == true) 
+                var regExp = /([{!#$%^&*\'"<>`~}])/;
 
-    <script language="javascript" type="text/javascript" src="JavaScripts/ValidFunctions.js"></script>
+                vSearchText = $.trim($("#expTextInput1").val().toLowerCase());
+                if (vSearchText != "start typing here" && vSearchText.replace(/ /g, '') != "" && regExp.test(vSearchText) != true && vSearchText.length > 0) {
 
-    <!--script language="javascript" type="text/javascript" src="JavaScripts/LivechatTracker.js"></script-->
-<script type="text/javascript"> var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-238952-1']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><script type="text/javascript" src="/JavaScripts/Social_Tracker.js"></script><script type="text/javascript">var TBRUM=TBRUM||{};TBRUM.q=TBRUM.q||[];TBRUM.q.push(['mark','firstbyte',(new Date).getTime()]);(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src=document.location.protocol+'//insight.torbit.com/v1/insight.min.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b)})();</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+                    window.location.href = "http://" + window.location.host + "/smart-search.aspx?fmode=Search&q=" + vSearchText;
+                }
+                else {
+                    $("#dvGenSearch").addClass("exploreBarerror");
+                    return false;
+                }
+
+
+
+            } else {
+
+                if (gDomain.indexOf(".nz") < 0 && gDomain.indexOf(".au") < 0)
+                    ajax_showOptions(el, '', e);
+
+            }
+            return false;
+        }
+
+        //$(function () {
+        //    var $scroller = $("#scroller");
+        //    $scroller.vTicker('init', { height: 14, showItems: 1 });
+        //});
+
+        //End of Unbxd Search
+        $(document).ready(function () {
+            UserDetails.LogOutEvents();
+            UserDetails.NewsLetter();
+
+            $(".feedbackform").click(function () {
+                $(".surveyMonkeyweblink").empty();
+                $('<iframe src="https://www.surveymonkey.com/s/VSTDY2Z" frameborder="0" scrolling="yes" height="100%" width="100%" id="surveyMonkeyFrame"></iframe>').appendTo('.surveyMonkeyweblink');
+            });
+
+            $(".livechat").click(function () {
+                _gaq.push(['_trackEvent', 'Liveperson', 'click', 'LivePersonCustIni']);
+                var liveperson = 'https://server.iad.liveperson.net/hc/82357780/?cmd=file&file=visitorWantsToChat&site=82357780&LEAppKey=f907f2d9acd64b7f8c00b83bed3c2822&referrer=';
+                var httpurl = document.location.href.split('//');
+                var wwwurl = "";
+                if (httpurl.length > 1)
+                    wwwurl = httpurl[1].split('/')[0];
+                else
+                    wwwurl = httpurl[0].split('/')[0];
+                var liverpersonurl = liveperson + 'http://' + wwwurl + '/&referrer=' + escape(document.location);
+
+                liverpersonurl = (typeof (lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(liverpersonurl) : liverpersonurl);
+                liverpersonurl = ((typeof (lpMTag) != 'undefined' && typeof (lpMTag.addFirstPartyCookies) != 'undefined') ? lpMTag.addFirstPartyCookies(liverpersonurl) : liverpersonurl);
+                window.open(liverpersonurl, 'chat82357780', 'width=475,height=400,resizable=yes');
+                return false;
+            });
+            $(".livechat2").click(function () {
+                _gaq.push(['_trackEvent', 'Liveperson', 'click', 'LivePersonCustIni']);
+            });
+
+            (function ($) {
+                $.extend(jQuery.tmpl.tag, {
+                    "for": {
+                        _default: { $2: "var i=1;i<=1;i++" },
+                        open: 'for ($2){',
+                        close: '};'
+                    }
+                });
+            })(jQuery);
+            var data = {};
+        });
+    </script>
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
+    <script type="text/javascript">
+        var _vwo_code = (function () {
+            var account_id = 35876,
+        settings_tolerance = 2000,
+        library_tolerance = 1500,
+        use_existing_jquery = false,
+            // DO NOT EDIT BELOW THIS LINE
+        f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
+        } ()); _vwo_settings_timer = _vwo_code.init();
+    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=35876&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130420051932id_%2Fhttp%253A%2F%2Fwww.cbazaar.com%2Fprivacy-policy.aspx&amp;r=0.016684795272593478" type="text/javascript"></script>
+    <!-- End Visual Website Optimizer Asynchronous Code -->
+    <link id="EsFavicon" rel="shortcut icon" type="image/x-icon" href="/Resources/PL_Images/10.ico">
+    <link rel="stylesheet" type="text/css" href="/Resources/Styles/MinifiedStyles/7combined_6E56C9E9AF8182FD73BF1E44FFC332DC.css">
+    
+<script type="text/javascript"> var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-238952-1']);_gaq.push(['_setDomainName','none']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_setAllowHash',false]);_gaq.push(['_setSiteSpeedSampleRate', 15]);_gaq.push(['_trackPageview']);(function () {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><script type="text/javascript" src="/Resources/JavaScripts/Social_Tracker.js"></script><script type="text/javascript">var s = document.createElement('script');s.src = 'http://analytics.unbxdapi.com/json.js';s.type = 'text/javascript';s.async = true;document.getElementsByTagName('head').item(0).appendChild(s);</script><script src="http://analytics.unbxdapi.com/json.js" type="text/javascript" async=""></script><script type="text/javascript">var UnbxdKey = 'u773651887-cbazaar-com-aa9cbc5f95c3cae41dc27e994492023a';var UnbxdCustName = 'cbazaar';var s = document.createElement('script');s.src = 'http://analytics.unbxdapi.com/unbxdAnalytics.js';s.type = 'text/javascript';s.async = true;document.getElementsByTagName('head').item(0).appendChild(s);</script><script src="http://analytics.unbxdapi.com/unbxdAnalytics.js" type="text/javascript" async=""></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=82357780"></script></head>
 <body>
-    <form name="form1" method="post" action="privacyPolicy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzcwNDMxMjM1D2QWBAIBD2QWBAIBDxYCHgRocmVmBRcvRVN0b3JlQ3NzL0VzQ0JHcmF5LmNzc2QCAg8WAh8ABRd+L2ltYWdlL0VzRmF2aWNvbi83Lmljb2QCAw9kFgYCAQ9kFgJmD2QWCGYPFgQfAAUWaHR0cDovL3d3dy5jYmF6YWFyLmNvbR4FdGl0bGUFHkNiYXphYXIsVGhlIEZhc2hpb24gRXhwZXJpZW5jZRYCAgEPFgQeA3NyYwUYL2ltYWdlL0VTdG9yZUxvZ29zLzcucG5nHgNhbHQFHkNiYXphYXIsVGhlIEZhc2hpb24gRXhwZXJpZW5jZWQCAg8WAh4HVmlzaWJsZWhkAgMPFgQeBXN0eWxlBQ1kaXNwbGF5OmJsb2NrHglpbm5lcmh0bWwFowQgICAgICAgICAgICAgICAgDQogICAgICA8aW1nIGNsYXNzPSJ0b3BibnIiIHNyYz0iL2ltYWdlL1N0cmlwSW1hZ2VzL2ZyZWUtc2hpcHBpbmctdXMuanBnIiAgdGl0bGU9IlZhbGlkIG9ubHkgZm9yIFVOSVRFRCBTVEFURVMsIFVOSVRFRCBLSU5HRE9NLCBGUkFOQ0UsIEdFUk1BTlksIElUQUxZLCBORVRIRVJMQU5EUywgU1dJVFpFUkxBTkRTLCBTUklMQU5LQSwgQkFOR0xBREVTSCwgS1VXQUlULCBVLkEuRSwgREVOTUFSSywgSE9ORyBLT05HLCBNQUxBWVNJQSwgU0FVREkgQVJBQklBLCBRQVRBUiwgT01BTiwgQkVMR0lVTSIvPgkgICAgDQoJICA8YSBocmVmPSJodHRwOi8vbmV3LmNiYXphYXIuY29tIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9IkZlZWwgVGhlIENoYW5nZS1FeHBsb3JlIE91ciBOZXcgQ2JhemFhciIgY2xhc3M9InRvcGJuciI+DQogICAgICAgIDxpbWcgc3JjPSIvaW1hZ2UvU3RyaXBJbWFnZXMvRmVlbC10aGUtY2hhbmdlLmdpZiIgIGFsdD0iRmVlbCBUaGUgQ2hhbmdlLUV4cGxvcmUgT3VyIE5ldyBDYmF6YWFyIi8+DQogICAgICA8L2E+DQogICAgZAIFD2QWAmYPFgIfBgW2bjx1bCBjbGFzcz0ibmF2Ij4NCiAgICAgICAgPGxpIGNsYXNzPSJuYXZQb3MiPjxhIGhyZWY9Ii9zYXJlZS9wdC1zYS5odG1sIj5TYXJlZTwvYT4NCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZseURvd24iIGlkPSJmbHlzYXJlZSI+DQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9zYXJlZS9jLXNiLmh0bWwiPlNhcmVlPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zYXJlZS9wYXJ0eV93ZWFyLW9jY2FzaW9uL2Mtc2IuaHRtbCI+UGFydHkgV2VhciBTYXJlZXM8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zYXJlZS9raXR0eV9wYXJ0eS1vY2Nhc2lvbi9jLXNiLmh0bWwiPktpdHR5IFdlYXIgU2FyZWVzPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2FyZWUvc2FuZ2VldC1vY2Nhc2lvbi9jLXNiLmh0bWwiPlNhbmdlZXQgV2VhciBTYXJlZXM8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zYXJlZS9jYXN1YWwtc3R5bGUvYy1zYi5odG1sIj5DYXN1YWwgU2FyZWVzPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2FyZWUvd2VkZGluZy1vY2Nhc2lvbi9jLXNiLmh0bWwiPldlZGRpbmcgU2FyZWVzPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2FyZWUvbGF0ZXN0LWFycml2YWwuaHRtbCI+TGF0ZXN0IFNhcmVlczwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2FyZWUvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgICAgIDx1bD4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxoND48YSBocmVmPSIvaGFsZi1zYXJlZS9jLXNiLmh0bWwiPkhhbGYgU2FyZWU8L2E+PC9oND48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2hhbGYtc2FyZWUvYy1zYi5odG1sIj5QYXZhZGEgRGF2YW5pIEhhbGYgU2FyZWU8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgICAgIDx1bD4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxoND48YSBocmVmPSIvc2FyZWUtYmxvdXNlL2Mtc2IuaHRtbCI+U2FyZWUgQmxvdXNlPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zYXJlZS1ibG91c2UvYy1zYi5odG1sIj5CbG91c2UgKCBDdXN0b20gU3RpdGNoZWQgKTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1zYXJlZS1ibG91c2UvYy1zYi5odG1sIj5CbG91c2UgKCBSZWFkeW1hZGUgKTwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgPC9saT4gICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJuYXZQb3MiPjxhIGhyZWY9Ii9yZWFkeW1hZGUtc2Fsd2FyL3B0LXNsLmh0bWwiPlNhbHdhciBrYW1lZXo8L2E+DQogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbHlEb3duIiBpZD0iZmx5c2Fsd2FyIj4NCiAgICAgICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL3NhbHdhci1rYW1lZXovYy1zYi5odG1sIj5TYWx3YXIga2FtZWV6KEN1c3RvbSBNYWRlKTwvYT48L2g0PjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2Fsd2FyLWthbWVlei9hbmFya2FsaV9zdWl0LXNwZWNpYWx0eS9jLXNiLmh0bWwiPkFuYXJrYWxpIFNhbHdhciBLYW1lZXo8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zYWx3YXIta2FtZWV6L2ZhdXhfY3JlcGUtZmFicmljL2Mtc2IuaHRtbCI+RmF1eCBDcmVwZSBTYWx3YXIgS2FtZWV6PC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2Fsd2FyLWthbWVlei93ZWRkaW5nLW9jY2FzaW9uL2Mtc2IuaHRtbCI+V2VkZGluZyBTYWx3YXIgS2FtZWV6PC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2Fsd2FyLWthbWVlei9jaHVyaWRhcl9zdWl0LXNwZWNpYWx0eS9jLXNiLmh0bWwiPkNodXJpZGFyIFNhbHdhciBLYW1lZXo8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zYWx3YXIta2FtZWV6L2xhdGVzdC1hcnJpdmFsLmh0bWwiPkxhdGVzdCBTYWx3YXIgS2FtZWV6PC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2Fsd2FyLWthbWVlei9jLXNiLmh0bWwiIGNsYXNzPSJ2aWV3YWxsIj5WaWV3IEFsbDwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL3JlYWR5bWFkZS1zYWx3YXIvYy1zYi5odG1sIj5TYWx3YXIgS2FtZWV6KFJlYWR5bWFkZSk8L2E+PC9oND48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1zYWx3YXIvZGVzaWduZXItc3R5bGUvYy1zYi5odG1sIj5EZXNpZ25lciBSZWFkeW1hZGUgU2Fsd2FyczwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1zYWx3YXIvYW5hcmthbGlfc3VpdC1zcGVjaWFsdHkvYy1zYi5odG1sIj5BbmFya2FsaSBSZWFkeW1hZGUgU2Fsd2FyPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvcmVhZHltYWRlLXNhbHdhci9wYXJ0eV93ZWFyLW9jY2FzaW9uL2Mtc2IuaHRtbCI+UGFydHkgV2VhciBSZWFkeW1hZGUgU2Fsd2FyPC9hPjwvbGk+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1zYWx3YXIvd2VkZGluZy1vY2Nhc2lvbi9jLXNiLmh0bWwiPldlZGRpbmcgUmVhZHltYWRlIFNhbHdhcjwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1zYWx3YXIvbGF0ZXN0LWFycml2YWwuaHRtbCI+TGF0ZXN0IFJlYWR5bWFkZSBTYWx3YXI8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUtc2Fsd2FyL3Bha2lzdGFuaV9zdWl0LXNwZWNpYWx0eS9jLXNiLmh0bWwiPlBha2lzdGFuaSBTYWx3YXIgU3VpdDwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1zYWx3YXIvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgPC9kaXY+DQogICAgICAgIDwvbGk+DQogICAgICAgIDxsaSBjbGFzcz0ibmF2UG9zIj48YSBocmVmPSIvcmVhZHltYWRlLWt1cnRpL3B0LWtyci5odG1sIj5LdXJ0aTwvYT4NCiAgICAgICAgIDxkaXYgY2xhc3M9ImZseURvd24iIGlkPSJmbHlrdXJ0aSI+DQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGkvYy1zYi5odG1sIj5SZWFkeW1hZGUgS3VydGlzPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGkva2l0dHlfcGFydHktb2NjYXNpb24vYy1zYi5odG1sIj5LaXR0eSBXZWFyIFJlYWR5bWFkZSBLdXJ0aTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1rdXJ0aS9jYXN1YWwtc3R5bGUvYy1zYi5odG1sIj5DYXN1YWwgV2VhciBSZWFkeW1hZGUgS3VydGk8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGkvZmF1eF9nZW9yZ2V0dGUtZmFicmljL2Mtc2IuaHRtbCI+RmF1eCBHZW9yZ2V0dGUgUmVhZHltYWRlIEt1cnRpPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvcmVhZHltYWRlLWt1cnRpL2JsZW5kZWRfY290dG9uLWZhYnJpYy9jLXNiLmh0bWwiPkJsZW5kZWQgQ290dG9uIFJlYWR5bWFkZSBLdXJ0aTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1rdXJ0aS9jb3R0b24tZmFicmljL2Mtc2IuaHRtbCI+Q290dG9uIFJlYWR5bWFkZSBLdXJ0aTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1rdXJ0aS9sYXRlc3QtYXJyaXZhbC5odG1sIj5MYXRlc3QgUmVhZHltYWRlIEt1cnRpPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvcmVhZHltYWRlLWt1cnRpL2Mtc2IuaHRtbCIgY2xhc3M9InZpZXdhbGwiPlZpZXcgQWxsPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL2Zhc2hpb24tYWNjZXNzb3JpZXMvZHVwYXR0YXMtYW5kLXN0b2xlcy9jLTItNTk3LTY0MS5odG1sIj5EdXBhdHRhcyAmIFN0b2xlczwvYT48L2g0PjwvbGk+DQogICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL3dvbWVucy1ib3R0b21zL2Mtc2IuaHRtbCI+V29tZW5zIEJvdHRvbTwvYT48L2g0PjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvYm90dG9tcy9sZWdnaW5ncy9jLTItOTI1LTYzOC5odG1sIj5MZWdnaW5nczwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvd29tZW5zLWJvdHRvbXMvYy1zYi5odG1sIj5WaWV3IEFsbDwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgPC9kaXY+DQogICAgICAgIDwvbGk+ICAgICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJuYXZQb3MiPjxhIGhyZWY9Ii9sZWhlbmdhL3B0LWdoLmh0bWwiPkxlaGVuZ2E8L2E+DQogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbHlEb3duIiBpZD0iZmx5aW5kb3dlc3Rlcm5zIj4NCiAgICAgICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL2xlaGVuZ2EvYy1zYi5odG1sIj5MZWhlbmdhPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9sZWhlbmdhL3NhbmdlZXQtb2NjYXNpb24vYy1zYi5odG1sIj5TYW5nZWV0IExlaGVuZ2E8L2E+PC9saT4gICAgICAgICAgICAgICAgICAgIA0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2xlaGVuZ2EvYnJpZGFsLW9jY2FzaW9uL2Mtc2IuaHRtbCI+QnJpZGFsIExlaGVuZ2E8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9sZWhlbmdhL2Zpc2hfY3V0X2xlaGVuZ2Etc3BlY2lhbHR5L2Mtc2IuaHRtbCI+RmlzaCBDdXQgTGVoZW5nYTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2xlaGVuZ2Evd2VkZGluZy1vY2Nhc2lvbi9jLXNiLmh0bWwiPldlZGRpbmcgTGVoZW5nYTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2xlaGVuZ2EvbWVoZW5kaS1vY2Nhc2lvbi9jLXNiLmh0bWwiPk1laGVuZGkgTGVoZW5nYTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2xlaGVuZ2EvbGF0ZXN0LWFycml2YWwuaHRtbCI+TGF0ZXN0IExlaGVuZ2E8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9icmlkZXNtYWlkLWFuZC1mYW1pbHkvbGVoZW5nYS1jaG9saS9jLTg3OC0xMTkyLTExOTMuaHRtbCI+QnJpZGVtYWlkIExlaGVuZ2E8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9sZWhlbmdhL2Mtc2IuaHRtbCIgY2xhc3M9InZpZXdhbGwiPlZpZXcgQWxsPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL3JlYWR5bWFkZS1sZWhlbmdhL2Mtc2IuaHRtbCI+UmVhZHltYWRlIExlaGVuZ2E8L2E+PC9oND48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1sZWhlbmdhL2Zpc2hfY3V0X2xlaGVuZ2Etc3BlY2lhbHR5L2Mtc2IuaHRtbCI+RmlzaCBDdXQgUmVhZHltYWRlIExlaGVuZ2E8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUtbGVoZW5nYS9sYXRlc3QtYXJyaXZhbC5odG1sIj5MYXRlc3QgQXJyaXZhbHM8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUtbGVoZW5nYS9jLXNiLmh0bWwiIGNsYXNzPSJ2aWV3YWxsIj5WaWV3IEFsbDwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9nb3ducy9yZWFkeW1hZGUtZ293bnMvYy04NzgtMTA5LTk2OC5odG1sIj5SZWFkeW1hZGUgR293bnM8L2E+PC9oND48L2xpPg0KICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgICA8L2Rpdj4gDQogICAgICAgIDwvbGk+DQogICAgICAgIDwhLS08bGkgY2xhc3M9Im5hdlBvcyI+PGEgaHJlZj0iL3JlYWR5bWFkZS1pbmRvd2VzdGVybi9wdC1pd3IuaHRtbCI+SW5kb3dlc3Rlcm5zPC9hPg0KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmx5RG93biIgaWQ9ImZseWxlaGVuZ2EtY29tIj4NCiAgICAgICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL3JlYWR5bWFkZS1pbmRvd2VzdGVybi9jLXNiLmh0bWwiPkZ1c2lvbiBXZWFyPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUtaW5kb3dlc3Rlcm4vYy1zYi5odG1sIj5SZWFkeW1hZGUgSW5kb3dlc3Rlcm5zPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgPC91bD4gICAgICAgICAgICAgICAgDQogICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgPC9saT4tLT4NCiAgICAgICAgPGxpIGNsYXNzPSJuYXZQb3MiPjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGEtcGFqYW1hL3B0LWtwci5odG1sIj5NZW5zIEV0aG5pYzwvYT4NCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZseURvd24iIGlkPSJmbHltZW5zLWNvbSI+DQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9zaGVyd2FuaS9jLXNiLmh0bWwiPlNoZXJ3YW5pPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zaGVyd2FuaS9kZXNpZ25lci1zdHlsZS9jLXNiLmh0bWwiPkRlc2lnbmVyIFNoZXJ3YW5pPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2hlcndhbmkvd2VkZGluZy1vY2Nhc2lvbi9jLXNiLmh0bWwiPldlZGRpbmcgU2hlcndhbmk8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9zaGVyd2FuaS9icmlkYWwtb2NjYXNpb24vYy1zYi5odG1sIj5CcmlkZWdyb29tIFNoZXJ3YW5pPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvc2hlcndhbmkvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxoND48YSBocmVmPSIvZGhvdGkvYy1zYi5odG1sIj5EaG90aXM8L2E+PC9oND48L2xpPg0KICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9tZW5zLXN1aXRzL2Mtc2IuaHRtbCI+SW5kaWFuIE1lbnMgU3VpdDwvYT48L2g0PjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvYnJpZGVncm9vbXMvaW5kb3dlc3Rlcm4tc3VpdHMvYy04NzgtMTE4My0xMDkwLmh0bWwiPkluZG93ZXN0ZXJuIFN1aXRzPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvbWVucy1zdWl0cy9kZXNpZ25lci1zdHlsZS9jLXNiLmh0bWwiPkRlc2lnbmVyIE1lbnMgU3VpdDwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL21lbnMtc3VpdHMvd2VkZGluZy1vY2Nhc2lvbi9jLXNiLmh0bWwiPldlZGRpbmcgU3VpdDwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL21lbnMtc3VpdHMvYmxhY2stY29sb3IvYy1zYi5odG1sIj5CbGFjayBTdWl0PC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZXRobmljLXdlYXIvbGFrbWUtZmFzaGlvbi13ZWVrLTIwMTAvYy0xLTY1My02MzQuaHRtbCI+TGFrbWUgRmFzaGlvbiBXZWVrPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvbWVucy1zdWl0cy9jLXNiLmh0bWwiIGNsYXNzPSJ2aWV3YWxsIj5WaWV3IEFsbDwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGEtcGFqYW1hL2Mtc2IuaHRtbCI+S3VydGEgUHlqYW1hIChSZWFkeW1hZGUpPC9hPjwvaDQ+PC9saT4gICAgICAgICAgICAgICAgICANCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGEtcGFqYW1hL2xhdGVzdC1hcnJpdmFsLmh0bWwiPkxhdGVzdCBBcnJpdmFsczwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1rdXJ0YS9jLXNiLmh0bWwiPlJlYWR5bWFkZSBLdXJ0YXM8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGEtcGFqYW1hL3dlZGRpbmctb2NjYXNpb24vYy1zYi5odG1sIj5XZWRkaW5nIEt1cnRhIFB5amFtYTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3JlYWR5bWFkZS1rdXJ0YS1wYWphbWEvZGVzaWduZXItc3R5bGUvYy1zYi5odG1sIj5EZXNpZ25lciBLdXJ0YSBQeWphbWE8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9yZWFkeW1hZGUta3VydGEtcGFqYW1hL2Mtc2IuaHRtbCIgY2xhc3M9InZpZXdhbGwiPlZpZXcgQWxsPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICA8L2xpPg0KICAgICAgICA8bGkgY2xhc3M9Im5hdlBvcyI+PGEgaHJlZj0iL2tpZHMtd2Vhci1naXJscy9wdC1rZGcuaHRtbCI+S2lkcyBXZWFyPC9hPg0KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmx5RG93biIgaWQ9ImZseWtpZHMtY29tIj4NCiAgICAgICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgICAgICAgIDxsaT48aDQ+PGEgaHJlZj0iL2tpZHMtd2Vhci1naXJscy9jLXNiLmh0bWwiPktpZHMgV2VhciBmb3IgR2lybHM8L2E+PC9oND48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2tpZHMtd2Vhci1naXJscy9hbmFya2FsaV9zdWl0LXNwZWNpYWx0eS9jLXNiLmh0bWwiPkFuYXJrYWxpIFN1aXQ8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9raWRzLXdlYXItZ2lybHMvY2h1cmlkYXJfc3VpdC1zcGVjaWFsdHkvYy1zYi5odG1sIj5DaHVyaWRhciBTdWl0PC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIva2lkcy13ZWFyLWdpcmxzL2FfbGluZV9sZWhlbmdhLXNwZWNpYWx0eS9jLXNiLmh0bWwiPkEgTGluZSBMZWhlbmdhPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIva2lkcy13ZWFyLWdpcmxzL3VtYnJlbGxhX2N1dC1zcGVjaWFsdHkvYy1zYi5odG1sIj5VbWJyZWxsYSBDdXQ8L2E+PC9saT4NCgkJCQkJPGxpPjxhIGhyZWY9Ii9raWRzLWNsb3RoaW5nL2dvd25zLWZvci1naXJscy9jLTQtNTI4LTE0Ni5odG1sIj5Hb3ducyBGb3IgR2lybHM8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9raWRzLXdlYXItZ2lybHMvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgICAgIDx1bD4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxoND48YSBocmVmPSIva2lkcy13ZWFyLWJveXMvYy1zYi5odG1sIj5LaWRzIFdlYXIgZm9yIEJveXM8L2E+PC9oND48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2tpZHMtd2Vhci1ib3lzL2t1cnRhX3B5amFtYS1zcGVjaWFsdHkvYy1zYi5odG1sIj5LdXJ0YSBQeWphbWE8L2E+PC9saT4gICAgICAgICAgICAgICAgICAgIA0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2tpZHMtd2Vhci1ib3lzL2Mtc2IuaHRtbCIgY2xhc3M9InZpZXdhbGwiPlZpZXcgQWxsPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICA8L2xpPg0KICAgICAgICA8bGkgY2xhc3M9Im5hdlBvcyI+PGEgaHJlZj0iL25lY2tsYWNlL3B0LWp5Lmh0bWwiPkpld2VscnkgJiBBY2Nlc3NvcmllczwvYT4NCiAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbHlEb3duIiBpZD0iZmx5SndyeUFjYyI+DQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9uZWNrbGFjZS9jLXNiLmh0bWwiPk5lY2tsYWNlPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9uZWNrbGFjZS9kZXNpZ25lci1zdHlsZS9jLXNiLmh0bWwiPkRlc2lnbmVyIFN0eWxlIE5lY2tsYWNlPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvbmVja2xhY2UvY29udGVtcG9yYXJ5LXN0eWxlL2Mtc2IuaHRtbCI+Q29udGVtcG9yYXJ5IFN0eWxlIE5lY2tsYWNlPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvbmVja2xhY2UvcG9sa2ktc3BlY2lhbHR5L2Mtc2IuaHRtbCI+UG9sa2kgTmVja2xhY2UgU2V0czwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL25lY2tsYWNlL21vdGktc3BlY2lhbHR5L2Mtc2IuaHRtbCI+TW90aSBOZWNrbGFjZSBTZXQ8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9uZWNrbGFjZS9rdW5kYW4tc3BlY2lhbHR5L2Mtc2IuaHRtbCI+S3VuZGFuIE5lY2tsYWNlIFNldHM8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9uZWNrbGFjZS9zdG9uZV9zdHVkZGVkLXNwZWNpYWx0eS9jLXNiLmh0bWwiPlN0b25lIFN0dWRkZWQgTmVja2xhY2UgU2V0czwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvbmVja2xhY2UvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgICAgIDx1bD4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxoND48YSBocmVmPSIvcGVuZGFudC9jLXNiLmh0bWwiPlBlbmRhbnQgU2V0czwvYT48L2g0PjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvcGVuZGFudC9zdG9uZV9zdHVkZGVkLXNwZWNpYWx0eS9jLXNiLmh0bWwiPlN0b25lIFN0dWRkZWQgU3R5bGU8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9wZW5kYW50L2NvbnRlbXBvcmFyeS1zdHlsZS9jLXNiLmh0bWwiPkNvbnRlbXBvcmFyeSBTdHlsZTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3BlbmRhbnQvdHJlbmR5LXN0eWxlL2Mtc2IuaHRtbCI+VHJlbmR5IFN0eWxlPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvcGVuZGFudC9wb2xraS1zcGVjaWFsdHkvYy1zYi5odG1sIj5Qb2xraSBzdHlsZTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3BlbmRhbnQvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4gICAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgPC91bD4gICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9lYXJyaW5ncy9jLXNiLmh0bWwiPkVhcnJpbmdzPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9lYXJyaW5ncy9jLXNiLmh0bWwiPlRyZW5keSBTdHlsZSBFYXJyaW5nczwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZWFycmluZ3Mvamh1bWthLXNwZWNpYWx0eS9jLXNiLmh0bWwiPkpodW1rYSBTdHlsZSBFYXJyaW5nczwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZWFycmluZ3MvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgICAgIDx1bD4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxoND48YSBocmVmPSIvYmFuZ2xlcy1hbmQtYnJhY2VsZXQvYy1zYi5odG1sIj5CYW5nbGVzICYgS2FkYTwvYT48L2g0PjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvYmFuZ2xlcy1hbmQtYnJhY2VsZXQvc3RvbmVfc3R1ZGRlZC1zcGVjaWFsdHkvYy1zYi5odG1sIj5TdG9uZSBTdHVkZGVkIEJhbmdsZXMgJiBLYWRhPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvYmFuZ2xlcy1hbmQtYnJhY2VsZXQva3VuZGFuLXNwZWNpYWx0eS9jLXNiLmh0bWwiPiBLdW5kYW4gU3R5bGUgQmFuZ2xlcyAmIEthZGE8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9iYW5nbGVzLWFuZC1icmFjZWxldC9wb2xraS1zcGVjaWFsdHkvYy1zYi5odG1sIj5Qb2xraSBTdHlsZSBCYW5nbGVzICYgS2FkYTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2JhbmdsZXMtYW5kLWJyYWNlbGV0L21vdGktc3BlY2lhbHR5L2Mtc2IuaHRtbCI+TW90aSBTdHlsZSBCYW5nbGVzICYgS2FkYTwvYT48L2xpPiAgICAgICAgICAgICAgICAgICANCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9iYW5nbGVzLWFuZC1icmFjZWxldC9jLXNiLmh0bWwiIGNsYXNzPSJ2aWV3YWxsIj5WaWV3IEFsbDwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGg0PjxhIGhyZWY9Ii9oYW5kLWJhZy9jLXNiLmh0bWwiPkhhbmRiYWdzL0NsdXRjaGVzPC9hPjwvaDQ+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9oYW5kLWJhZy9jbHV0Y2hlcy1zcGVjaWFsdHkvYy1zYi5odG1sIj5DbHV0Y2hlczwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2hhbmQtYmFnL2hhbmRfYmFncy1zcGVjaWFsdHkvYy1zYi5odG1sIj5IYW5kIEJhZzwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2hhbmQtYmFnL2NhbmUtc3BlY2lhbHR5L2Mtc2IuaHRtbCI+Q2FuZTwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvaGFuZC1iYWcvYy1zYi5odG1sIiBjbGFzcz0idmlld2FsbCI+VmlldyBBbGw8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgPC9kaXY+DQogICAgICAgIDwvbGk+DQogICAgICAgIDwhLS08bGkgY2xhc3M9Im5hdlBvcyI+PGEgaHJlZj0iL2RlYWxzLmFzcHgiPkRlYWxzPC9hPjwvbGk+LS0+DQogICAgPC91bD5kAgMPZBYCZg8WAh8EZxYEZg8WAh8GBd8PPHNlbGVjdCBpZD0nZGRsUHJkVHlwZScgc3R5bGU9J3dpZHRoOiAxOTBweDsnPjxvcHRpb24gdmFsdWU9Jy0tIFNlbGVjdCBQcm9kdWN0IFR5cGUgLS0nPi0tIFNlbGVjdCBQcm9kdWN0IFR5cGUgLS08L29wdGlvbj48b3B0aW9uIHZhbHVlPSdzYXJlZS1ibG91c2UnPlNhcmVlIEJsb3VzZTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J3JlYWR5bWFkZS1zYXJlZS1ibG91c2UnPlJlYWR5bWFkZSBTYXJlZSBCbG91c2U8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdiYW5nbGVzLWFuZC1icmFjZWxldCc+QmFuZ2xlcyBhbmQgQnJhY2VsZXQ8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdkaG90aSc+RGhvdGk8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdkdXBhdHRhcyc+RHVwYXR0YXM8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdlYXJyaW5ncyc+RWFycmluZ3M8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdsZWhlbmdhJz5MZWhlbmdhPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0ncmVhZHltYWRlLWxlaGVuZ2EnPlJlYWR5bWFkZSBMZWhlbmdhPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nZ293bnMnPkdvd25zPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0naGFuZC1iYWcnPkhhbmQgQmFnPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0naGFsZi1zYXJlZSc+SGFsZiBTYXJlZTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J25lY2tsYWNlJz5OZWNrbGFjZTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J2tpZHMtd2Vhci1ib3lzJz5LaWRzIFdlYXIgQm95czwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J2tpZHMtd2Vhci1naXJscyc+S2lkcyBXZWFyIEdpcmxzPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0na3VydGEtcHlqYW1hJz5LdXJ0YSBQeWphbWE8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdyZWFkeW1hZGUta3VydGEtcGFqYW1hJz5SZWFkeW1hZGUgS3VydGEgUGFqYW1hPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0ndHVuaWMnPlR1bmljPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0ncmVhZHltYWRlLWt1cnRpJz5SZWFkeW1hZGUgS3VydGk8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdyZWFkeW1hZGUta3VydGEnPlJlYWR5bWFkZSBLdXJ0YTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J21lbnMtYm90dG9tcyc+TWVucyBCb3R0b21zPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0ncGVuZGFudCc+UGVuZGFudDwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J3BsdXMtc2l6ZS1ibG91c2UnPlBsdXMgU2l6ZSBCbG91c2U8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdyZWFkeW1hZGUtcGx1cy1zaXplLWJsb3VzZSc+UmVhZHltYWRlIFBsdXMgU2l6ZSBCbG91c2U8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdwbHVzLXNpemUta3VydGknPlBsdXMgU2l6ZSBLdXJ0aTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J3JlYWR5bWFkZS1wbHVzLXNpemUta3VydGknPlJlYWR5bWFkZSBQbHVzIFNpemUgS3VydGk8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdwbHVzLXNpemUtc2Fsd2FyLWthbWVleic+UGx1cyBTaXplIFNhbHdhciBLYW1lZXo8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdzYXJlZSc+U2FyZWU8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdzYXJlZS13aXRoLXN0aXRjaGVkLWJsb3VzZSc+U2FyZWUgd2l0aCBzdGl0Y2hlZCBibG91c2U8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdzaGVyd2FuaSc+U2hlcndhbmk8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdyZWFkeW1hZGUtc2hlcndhbmknPlJlYWR5bWFkZSBTaGVyd2FuaTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J3NraXJ0cyc+U2tpcnRzPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nc2Fsd2FyLWthbWVleic+U2Fsd2FyIEthbWVlejwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J3JlYWR5bWFkZS1zYWx3YXInPlJlYWR5bWFkZSBTYWx3YXI8L29wdGlvbj48b3B0aW9uIHZhbHVlPSdzdG9sZXMnPlN0b2xlczwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J21lbnMtc3VpdHMnPk1lbnMgU3VpdHM8L29wdGlvbj48b3B0aW9uIHZhbHVlPSd3b21lbnMtYm90dG9tcyc+V29tZW5zIEJvdHRvbXM8L29wdGlvbj48L3NlbGVjdD5kAgEPFgQfAAUaL3JlYWR5bWFkZS1rdXJ0aS9jLXNiLmh0bWwfAQUQUmVhZHltYWRlIEt1cnRpcxYCAgEPFgQfAgUkL2ltYWdlL0VzSG9tZVBhZ2VJbWFnZXMvN18yX3JzYjQuanBnHwMFEFJlYWR5bWFkZSBLdXJ0aXNkAgUPZBYCAgMPDxYCHgRUZXh0BRfCqSAyMDEyIHd3dy5jYmF6YWFyLmNvbWRkZPtroCE1YcVjcSF1fk+zVzTr3buD">
+    <form method="post" action="privacy-policy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4NjM3Mzg3MDJkZDQuiE2xU3AgqGqssYtDurjZhkcI71Ll9o84boDywbEY">
 
-
-<script src="/ScriptResource.axd?d=EfJ2iNrUijQvGZwP2C3p9iiU-68J8F5TQXjA-Yd8QMPp06lg0keJyWKbNZoS2dKnSwsMt33-ghcUvusAg1Z78PRpCB99QidlQQxe-_y2XzLalZqSjwp-9aIMnljsVlY8nnY7h6NuiITaRPBeRXLR67PV2r01&amp;t=634741426450664937" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKB0NaVCgLh3N7oAr9puBvpKEgwvQ/iZ/mueuYd5fz+">
-        <div class="bg-tile">
-            <div class="container">
-                
-                
-
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.5.min.js"></script>
-
-<script type="text/javascript" language="javascript">
-    jQuery.noConflict();
-    var $j = jQuery;
-</script>
-
-<!--Start of GCS Script-->
-
-
-<script type="text/javascript" language="javascript" src="http://www.google.com/jsapi"></script>
-
-<script type="text/javascript" language="javascript">
-    google.load('search', '1');
-    function onLoad() {
-        $j("<form>").attr({ id: "frmGCS", method: "POST", action: "javascript:formGCSSubmit();", target: "_parent" }).appendTo("body");
-        var cse_id = '006402942903749984215:jxbtjg4ea7w';
-        google.search.CustomSearchControl.attachAutoCompletion(cse_id, document.getElementById('txtProductSearch'), 'frmGCS');
-    }
-    google.setOnLoadCallback(onLoad);   
-</script>
-
-
-
-<script type="text/javascript" language="javascript">
-    function formGCSSubmit(order, id) {
-        window.location.href = $F('hdnAppPath') + "smart-search.aspx?q=" + $F('txtProductSearch').trim();
-    };  
-</script>
-
-<!--End of GCS Script-->
-<div class="cbzheader">
-    <div class="top">
-        <div class="logo">
-            <a href="http://www.cbazaar.com" id="ctl02_hrefLogo" title="Cbazaar,The Fashion Experience">
-                <img src="/image/EStoreLogos/7.png" id="ctl02_imgLogo" alt="Cbazaar,The Fashion Experience">
-            </a>
-        </div>
-        
-        <div class="loginnav-outer">
-            
-            <div class="region">
-                <span>Shipping Destination: </span>
-                <select id="ddlRegion">
-                    <option value="www.cbazaar.com">USA &amp; Rest of World</option>
-                    <option value="www.cbazaar.in">India</option>
-                    <option value="www.cbazaarsarees.co.uk">UK &amp; Europe</option>
-                    <option value="www.cbazaar.com.au">Australia</option>
-                    <option value="www.cbazaar.co.nz">New Zealand</option>
-                </select>
-            </div>
-            
-            <div id="MenuBar1" class="bazaar-lnk">
-                <a href="http://wholesale.cbazaar.com/" title="Wholesale - Bulk Purchase">Wholesale</a><span>›</span>
-            </div>
-            <div id="ctl02_tblLogin" class="before-login">
-                <a title="Login for existing user" href="/UsrLogin.aspx">Login</a> <span>›</span>
-                <a href="/Registration.aspx?op=Add" rel="nofollow" title="New Users Click Here">Register
-                    Here</a><span>›</span><a href="/ViewCart.aspx" rel="nofollow" title="Your Shopping Bag">
-                        Shopping Bag</a>
-            </div>
-            
-        </div>
-        <div id="ctl02_dvBannerImg" style="display:block">                
-      <img class="topbnr" src="/image/StripImages/free-shipping-us.jpg" title="Valid only for UNITED STATES, UNITED KINGDOM, FRANCE, GERMANY, ITALY, NETHERLANDS, SWITZERLANDS, SRILANKA, BANGLADESH, KUWAIT, U.A.E, DENMARK, HONG KONG, MALAYSIA, SAUDI ARABIA, QATAR, OMAN, BELGIUM">	    
-	  <a href="http://new.cbazaar.com" target="_blank" title="Feel The Change-Explore Our New Cbazaar" class="topbnr">
-        <img src="/image/StripImages/Feel-the-change.gif" alt="Feel The Change-Explore Our New Cbazaar">
-      </a>
-    </div>
-        <div id="ctl02_dvRGVBnr" style="display: none">
-        </div>
-    </div>
-    <div class="menu">
-        <div class="float-right" style="position: relative">
-            <a class="callus" title="Questions" onclick="$j('#callus_popup').toggle();"></a>
-            <div style="display: none" id="callus_popup" onmouseout="document.getElementById('callus_popup').style.display='none';" onmouseover="document.getElementById('callus_popup').style.display='block';">
-                <div>
-                    <p>
-                        Have A Doubt? Ask Us Now!</p>
-                    <ul class="li01">
-                        <li>
-                            <label>
-                                Email</label>
-                            <span><a href="/Contactus.aspx">Drop Us A Mail</a></span></li>
-                        <li>
-                            <label>
-                                FAQ</label><span><a href="/Faq.aspx?mode=FAQ">Read through our FAQs</a></span></li>
-                    </ul>
-                    <div class="num">
-                        <ul class="li02">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLkweHtAwL06vPVCqwQovFWUYoOdJa1+ocayr7cbZ4WvN8dSU33o/eOLFfm">
+        <header>
+            <div class="headerWrapper">
+                <div class="header">
+                    <div class="logo">
+                        <a title="Cbazaar" href="http://www.cbazaar.com">
+                            <img src="/Resources/PL_Images/logo_cbazaar.png" alt="Cbazaar" width="273" height="61"></a>
+                    </div>
+                    
+                    <div class="shipCountry">
+                        <a class="shippingDest" title="change shipping destination">
                             
-                            <li><span class="ico-usa"></span>US +1-732-993-5522</li>
-                            <li><span class="ico-uk"></span>UK +44(0)208-1234-795</li>
-                            <li><span class="ico-aus"></span>AUS +61(0)28-011-4844</li>
-                            <li><span class="ico-dk"></span>DK +45-6574-2226</li>
-                            <li><span class="ico-nz"></span>NZ +64-98-894444</li>
+                        If you want to ship to India, please select India as the shipping destination <span id="spnShipCountry" class="country">United States</span></a>
+                        <div id="Div1" class="fsordermsg">
+                            <ul>
+                                <li>Free shipping on orders &gt; USD 200</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <ul class="topLinks">
+                        
+                        <li class="user">
+                            <h2>Welcome
+                            </h2>
+                        </li>
+                        
+                        <li class="logIn"><a id="alogin" oncontextmenu="return false;" title="Login/Sign up">Login/Sign up</a></li>
+                        <li class="calNw last"><a id="hrefquickcall" oncontextmenu="return false;" title="Call now">Call now</a></li>
+                        
+                        <li class="cart">
+                            <div class="shoppingcarto">
+                                <div class="spl">
+                                    <div class="shCont">
+                                        <div class="lnks shLnk" id="divPopCart">
+                                            <div class="medDarkGrey2" title="Cart Items">
+                                                <p id="spnUsrCartCnt">
+                                                    Items
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="lnkDet3 shDet" id="divCart" style="display: none">
+                                            <em></em><a class="close" title="Close">close</a>
+                                            <div class="shoppingscroll">
+                                                <ul id="divCartPopUp">
+                                                </ul>
+                                                <ul id="divOutOfStock">
+                                                </ul>
+                                                <ul id="divCartCashBack" class="CartCashBack">
+                                                    <li><span class="total" id="dvCashAmt"></span><span>Total Cashback value</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="shoppingcartoPopUp" id="divPurchase">
+                                                <a id="aBtnBuyNow" href="/singlecheckout.aspx" class="qbuynow2" style="display: none;" onclick="_gaq.push(['_trackPageview', '/vp-buynow.aspx']);"><span><i>Pay now</i><sub></sub><b></b></span></a>
+                                            </div>
+                                            <div id="NoCartPopUp" style="display: none">
+                                                <p>
+                                                    No - More Items found in your cart
+                                                </p>
+                                            </div>
+                                            <div id="dvLoading" class="loadingbar" style="display: none">
+                                                &nbsp;<br>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="exploreBarWrapper">
+                        <div class="exploreBar guide">
+                            <input type="text" class="exploreTextInput" id="expTextInput" value="Start typing here">
+                            <input type="button" value="explore now" class="exploreBtn" id="btnGuideSearch">
+                        </div>
+                        <div id="dvGenSearch" class="exploreBar generic">
+                            <input type="text" class="exploreTextInput" id="expTextInput1" value="Start typing here" unbxdattr="sq" onkeyup="checkKey(this,'',event)">
+                            <input type="button" value="explore now" unbxdattr="sq_bt" class="exploreBtn" id="btnGenericSearch">
+                        </div>
+                        <ul class="searchOpt">
+                            <li class="dnone">
+                                <input id="genericSrch" type="radio" name="search" checked="checked"><label for="genericSrch">Generic
+                                search</label>
+                            </li>
+                            
                             
                         </ul>
                     </div>
+                    <a class="fsmsg hidden" id="freeshipmsg">Avail Free Shipping </a>
                 </div>
             </div>
-        </div>
-        <div id="ctl02_CbMenu_dvMenuData"><ul class="nav">
-        <li class="navPos"><a href="/saree/pt-sa.html">Saree</a>
-            <div class="flyDown" id="flysaree">
-                <ul>
-                    <li><h4><a href="/saree/c-sb.html">Saree</a></h4></li>
-                    <li><a href="/saree/party_wear-occasion/c-sb.html">Party Wear Sarees</a></li>
-                    <li><a href="/saree/kitty_party-occasion/c-sb.html">Kitty Wear Sarees</a></li>
-                    <li><a href="/saree/sangeet-occasion/c-sb.html">Sangeet Wear Sarees</a></li>
-                    <li><a href="/saree/casual-style/c-sb.html">Casual Sarees</a></li>
-                    <li><a href="/saree/wedding-occasion/c-sb.html">Wedding Sarees</a></li>
-                    <li><a href="/saree/latest-arrival.html">Latest Sarees</a></li>                    
-                    <li><a href="/saree/c-sb.html" class="viewall">View All</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/half-saree/c-sb.html">Half Saree</a></h4></li>
-                    <li><a href="/half-saree/c-sb.html">Pavada Davani Half Saree</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/saree-blouse/c-sb.html">Saree Blouse</a></h4></li>
-                    <li><a href="/saree-blouse/c-sb.html">Blouse ( Custom Stitched )</a></li>
-                    <li><a href="/readymade-saree-blouse/c-sb.html">Blouse ( Readymade )</a></li>
-                </ul>
+            <nav>
+                <div id="navMenu" class="navWrapper"><div class="nav">
+  <ul class="rootMenu">
+    <li><a>Women</a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a href="/saree/pt-sa.html">Saree</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/saree/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                <li class="shwCselstItem"><a href="/saree/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/saree/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/saree/classic-style/c-sb.html" title="Traditional">Traditional</a></li>
+                <li class="shwCselstItem"><a href="/saree/ready_pleated_saree-specialty/c-sb.html" title="One minute Sarees">One minute Sarees</a></li>
+                <li class="shwCselstItem"><a href="/saree/lehenga_saree-specialty/c-sb.html" title="Lehenga saree">Lehenga saree</a></li>
+                <li class="shwCselstItem"><a href="/saree-blouse/c-sb.html" title="Custom Blouse">Custom Blouse</a></li>
+                <li class="shwCselstItem"><a href="/readymade-saree-blouse/c-sb.html" title="Readymade Blouse">Readymade Blouse</a></li>
+                <li class="shwCselstItem"><a href="/saree/net-fabric/c-sb.html" title="Net Sarees">Net Sarees</a></li>
+                <li class="shwCselstItem"><a href="/saree/beads-art_style/c-sb.html" title="Beads Work">Beads Work</a></li>
+                <li class="shwCselstItem"><a href="/saree/crystals-art_style/c-sb.html" title="Crystal Work ">Crystal Work </a></li>
+                <li class="shwCselstItem"><a href="/saree/embroidered-art_style/c-sb.html" title="Embroidered Wedding">Embroidered Wedding</a></li>
+                <li class="shwCselstItem"><a href="/saree/handloom-art_style/c-sb.html" title="Handloom sarees">Handloom sarees</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/saree/rair-brand/c-sb.html" title="RaiR" class="btnlatest"><span>RaiR</span></a><a href="/saree/bollywood_vogue-brand/c-sb.html" title="Bollywood vogue" class="btnlatest"><span>Bollywood vogue</span></a><a href="/saree/modni-brand/c-sb.html" title="Modni" class="btnlatest"><span>Modni</span></a><a href="/saree/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/saree/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Banish the vibrant look with modern twist end to end
+      </h2>
+              </div>
             </div>
-        </li>      
-        <li class="navPos"><a href="/readymade-salwar/pt-sl.html">Salwar kameez</a>
-            <div class="flyDown" id="flysalwar">
-                <ul>
-                    <li><h4><a href="/salwar-kameez/c-sb.html">Salwar kameez(Custom Made)</a></h4></li>
-                    <li><a href="/salwar-kameez/anarkali_suit-specialty/c-sb.html">Anarkali Salwar Kameez</a></li>
-                    <li><a href="/salwar-kameez/faux_crepe-fabric/c-sb.html">Faux Crepe Salwar Kameez</a></li>
-                    <li><a href="/salwar-kameez/wedding-occasion/c-sb.html">Wedding Salwar Kameez</a></li>
-                    <li><a href="/salwar-kameez/churidar_suit-specialty/c-sb.html">Churidar Salwar Kameez</a></li>
-                    <li><a href="/salwar-kameez/latest-arrival.html">Latest Salwar Kameez</a></li>
-                    <li><a href="/salwar-kameez/c-sb.html" class="viewall">View All</a></li>                    
-                </ul>
-                <ul>
-                    <li><h4><a href="/readymade-salwar/c-sb.html">Salwar Kameez(Readymade)</a></h4></li>
-                    <li><a href="/readymade-salwar/designer-style/c-sb.html">Designer Readymade Salwars</a></li>
-                    <li><a href="/readymade-salwar/anarkali_suit-specialty/c-sb.html">Anarkali Readymade Salwar</a></li>
-                    <li><a href="/readymade-salwar/party_wear-occasion/c-sb.html">Party Wear Readymade Salwar</a></li>                                        
-                    <li><a href="/readymade-salwar/wedding-occasion/c-sb.html">Wedding Readymade Salwar</a></li>
-                    <li><a href="/readymade-salwar/latest-arrival.html">Latest Readymade Salwar</a></li>
-                    <li><a href="/readymade-salwar/pakistani_suit-specialty/c-sb.html">Pakistani Salwar Suit</a></li>
-                    <li><a href="/readymade-salwar/c-sb.html" class="viewall">View All</a></li>
-                </ul>
+          </li>
+          <li class="shwCselstItem"><a href="/salwar-kameez/pt-sl.html">Salwar Kameez</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/salwar-kameez/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/casual-style/c-sb.html" title="Casual">Casual</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/churidar_suit-specialty/c-sb.html" title="Churidar">Churidar</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/anarkali_suit-specialty/c-sb.html" title="Anarkali">Anarkali</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/pakistani_suit-specialty/c-sb.html" title="Pakistani">Pakistani</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/formal_wear-occasion/c-sb.html" title="Office Wear">Office Wear</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/salwar-kameez/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/salwar-kameez/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Fantabulous Bollywood style, the hottest trend to fall in love!
+      </h2>
+              </div>
             </div>
-        </li>
-        <li class="navPos"><a href="/readymade-kurti/pt-krr.html">Kurti</a>
-         <div class="flyDown" id="flykurti">
-                <ul>
-                    <li><h4><a href="/readymade-kurti/c-sb.html">Readymade Kurtis</a></h4></li>
-                    <li><a href="/readymade-kurti/kitty_party-occasion/c-sb.html">Kitty Wear Readymade Kurti</a></li>
-                    <li><a href="/readymade-kurti/casual-style/c-sb.html">Casual Wear Readymade Kurti</a></li>
-                    <li><a href="/readymade-kurti/faux_georgette-fabric/c-sb.html">Faux Georgette Readymade Kurti</a></li>
-                    <li><a href="/readymade-kurti/blended_cotton-fabric/c-sb.html">Blended Cotton Readymade Kurti</a></li>
-                    <li><a href="/readymade-kurti/cotton-fabric/c-sb.html">Cotton Readymade Kurti</a></li>
-                    <li><a href="/readymade-kurti/latest-arrival.html">Latest Readymade Kurti</a></li>
-                    <li><a href="/readymade-kurti/c-sb.html" class="viewall">View All</a></li>
-                    <li><h4><a href="/fashion-accessories/dupattas-and-stoles/c-2-597-641.html">Dupattas &amp; Stoles</a></h4></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/womens-bottoms/c-sb.html">Womens Bottom</a></h4></li>
-                    <li><a href="/bottoms/leggings/c-2-925-638.html">Leggings</a></li>                    
-                    <li><a href="/womens-bottoms/c-sb.html">View All</a></li>
-                </ul>
-          </div>
-        </li>        
-        <li class="navPos"><a href="/lehenga/pt-gh.html">Lehenga</a>
-            <div class="flyDown" id="flyindowesterns">
-                <ul>
-                    <li><h4><a href="/lehenga/c-sb.html">Lehenga</a></h4></li>
-                    <li><a href="/lehenga/sangeet-occasion/c-sb.html">Sangeet Lehenga</a></li>                    
-                    <li><a href="/lehenga/bridal-occasion/c-sb.html">Bridal Lehenga</a></li>
-                    <li><a href="/lehenga/fish_cut_lehenga-specialty/c-sb.html">Fish Cut Lehenga</a></li>
-                    <li><a href="/lehenga/wedding-occasion/c-sb.html">Wedding Lehenga</a></li>
-                    <li><a href="/lehenga/mehendi-occasion/c-sb.html">Mehendi Lehenga</a></li>
-                    <li><a href="/lehenga/latest-arrival.html">Latest Lehenga</a></li>
-                    <li><a href="/bridesmaid-and-family/lehenga-choli/c-878-1192-1193.html">Bridemaid Lehenga</a></li>
-                    <li><a href="/lehenga/c-sb.html" class="viewall">View All</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/readymade-lehenga/c-sb.html">Readymade Lehenga</a></h4></li>
-                    <li><a href="/readymade-lehenga/fish_cut_lehenga-specialty/c-sb.html">Fish Cut Readymade Lehenga</a></li>
-                    <li><a href="/readymade-lehenga/latest-arrival.html">Latest Arrivals</a></li>
-                    <li><a href="/readymade-lehenga/c-sb.html" class="viewall">View All</a></li>
-                    <li><h4><a href="/gowns/readymade-gowns/c-878-109-968.html">Readymade Gowns</a></h4></li>
-                </ul>
-            </div> 
-        </li>
-        <!--<li class="navPos"><a href="/readymade-indowestern/pt-iwr.html">Indowesterns</a>
-            <div class="flyDown" id="flylehenga-com">
-                <ul>
-                    <li><h4><a href="/readymade-indowestern/c-sb.html">Fusion Wear</a></h4></li>
-                    <li><a href="/readymade-indowestern/c-sb.html">Readymade Indowesterns</a></li>
-                </ul>                
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-salwar/pt-slr.html">Readymade Salwar</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-salwar/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/casual-style/c-sb.html" title="Casual">Casual</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/churidar_suit-specialty/c-sb.html" title="Churidar">Churidar</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/anarkali_suit-specialty/c-sb.html" title="Anarkali">Anarkali</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/pakistani_suit-specialty/c-sb.html" title="Pakistani">Pakistani</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/formal_wear-occasion/c-sb.html" title="Office Wear">Office Wear</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/bollywood_vogue-brand/c-sb.html" title="Bollywood Inspired">Bollywood Inspired</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/patiala_suit-specialty/c-sb.html" title="Patiala">Patiala</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/readymade-salwar/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-salwar/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Magnanimous variety of colors make your choice!
+      </h2>
+              </div>
             </div>
-        </li>-->
-        <li class="navPos"><a href="/readymade-kurta-pajama/pt-kpr.html">Mens Ethnic</a>
-            <div class="flyDown" id="flymens-com">
-                <ul>
-                    <li><h4><a href="/sherwani/c-sb.html">Sherwani</a></h4></li>
-                    <li><a href="/sherwani/designer-style/c-sb.html">Designer Sherwani</a></li>
-                    <li><a href="/sherwani/wedding-occasion/c-sb.html">Wedding Sherwani</a></li>
-                    <li><a href="/sherwani/bridal-occasion/c-sb.html">Bridegroom Sherwani</a></li>
-                    <li><a href="/sherwani/c-sb.html" class="viewall">View All</a></li>
-                    <li><h4><a href="/dhoti/c-sb.html">Dhotis</a></h4></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/mens-suits/c-sb.html">Indian Mens Suit</a></h4></li>
-                    <li><a href="/bridegrooms/indowestern-suits/c-878-1183-1090.html">Indowestern Suits</a></li>
-                    <li><a href="/mens-suits/designer-style/c-sb.html">Designer Mens Suit</a></li>
-                    <li><a href="/mens-suits/wedding-occasion/c-sb.html">Wedding Suit</a></li>
-                    <li><a href="/mens-suits/black-color/c-sb.html">Black Suit</a></li>
-                    <li><a href="/ethnic-wear/lakme-fashion-week-2010/c-1-653-634.html">Lakme Fashion Week</a></li>
-                    <li><a href="/mens-suits/c-sb.html" class="viewall">View All</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/readymade-kurta-pajama/c-sb.html">Kurta Pyjama (Readymade)</a></h4></li>                  
-                    <li><a href="/readymade-kurta-pajama/latest-arrival.html">Latest Arrivals</a></li>
-                    <li><a href="/readymade-kurta/c-sb.html">Readymade Kurtas</a></li>
-                    <li><a href="/readymade-kurta-pajama/wedding-occasion/c-sb.html">Wedding Kurta Pyjama</a></li>
-                    <li><a href="/readymade-kurta-pajama/designer-style/c-sb.html">Designer Kurta Pyjama</a></li>
-                    <li><a href="/readymade-kurta-pajama/c-sb.html" class="viewall">View All</a></li>
-                </ul>
+          </li>
+          <li class="shwCselstItem"><a href="/lehenga/pt-gh.html">Lehenga</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/lehenga/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                <li class="shwCselstItem"><a href="/lehenga/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/lehenga/sangeet-occasion/c-sb.html" title="Sangeet">Sangeet</a></li>
+                <li class="shwCselstItem"><a href="/lehenga/mehendi-occasion/c-sb.html" title="Mehendi">Mehendi</a></li>
+                <li class="shwCselstItem"><a href="/lehenga/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/bridesmaid-and-family/lehenga-choli/c-878-1192-1193.html" title="Bridesmaid">Bridesmaid</a></li>
+                <li class="shwCselstItem"><a href="/lehenga/classic-style/c-sb.html" title="Classic Lehenga">Classic Lehenga</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/lehenga/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/lehenga/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Light up your special day with royal outfit!
+      </h2>
+              </div>
             </div>
-        </li>
-        <li class="navPos"><a href="/kids-wear-girls/pt-kdg.html">Kids Wear</a>
-            <div class="flyDown" id="flykids-com">
-                <ul>
-                    <li><h4><a href="/kids-wear-girls/c-sb.html">Kids Wear for Girls</a></h4></li>
-                    <li><a href="/kids-wear-girls/anarkali_suit-specialty/c-sb.html">Anarkali Suit</a></li>
-                    <li><a href="/kids-wear-girls/churidar_suit-specialty/c-sb.html">Churidar Suit</a></li>
-                    <li><a href="/kids-wear-girls/a_line_lehenga-specialty/c-sb.html">A Line Lehenga</a></li>
-                    <li><a href="/kids-wear-girls/umbrella_cut-specialty/c-sb.html">Umbrella Cut</a></li>
-					<li><a href="/kids-clothing/gowns-for-girls/c-4-528-146.html">Gowns For Girls</a></li>
-                    <li><a href="/kids-wear-girls/c-sb.html" class="viewall">View All</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/kids-wear-boys/c-sb.html">Kids Wear for Boys</a></h4></li>
-                    <li><a href="/kids-wear-boys/kurta_pyjama-specialty/c-sb.html">Kurta Pyjama</a></li>                    
-                    <li><a href="/kids-wear-boys/c-sb.html" class="viewall">View All</a></li>
-                </ul>
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-lehenga/pt-ghr.html">Readymade Lehenga</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-lehenga/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                <li class="shwCselstItem"><a href="/readymade-lehenga/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/readymade-lehenga/sangeet-occasion/c-sb.html" title="Sangeet">Sangeet</a></li>
+                <li class="shwCselstItem"><a href="/readymade-lehenga/mehendi-occasion/c-sb.html" title="Mehendi">Mehendi</a></li>
+                <li class="shwCselstItem"><a href="/readymade-lehenga/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/readymade-lehenga/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-lehenga/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Aristocratic collections inspired by filmy style!
+      </h2>
+              </div>
             </div>
-        </li>
-        <li class="navPos"><a href="/necklace/pt-jy.html">Jewelry &amp; Accessories</a>
-             <div class="flyDown" id="flyJwryAcc">
-                <ul>
-                    <li><h4><a href="/necklace/c-sb.html">Necklace</a></h4></li>
-                    <li><a href="/necklace/designer-style/c-sb.html">Designer Style Necklace</a></li>
-                    <li><a href="/necklace/contemporary-style/c-sb.html">Contemporary Style Necklace</a></li>
-                    <li><a href="/necklace/polki-specialty/c-sb.html">Polki Necklace Sets</a></li>
-                    <li><a href="/necklace/moti-specialty/c-sb.html">Moti Necklace Set</a></li>
-                    <li><a href="/necklace/kundan-specialty/c-sb.html">Kundan Necklace Sets</a></li>
-                    <li><a href="/necklace/stone_studded-specialty/c-sb.html">Stone Studded Necklace Sets</a></li>                    
-                    <li><a href="/necklace/c-sb.html" class="viewall">View All</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/pendant/c-sb.html">Pendant Sets</a></h4></li>
-                    <li><a href="/pendant/stone_studded-specialty/c-sb.html">Stone Studded Style</a></li>
-                    <li><a href="/pendant/contemporary-style/c-sb.html">Contemporary Style</a></li>
-                    <li><a href="/pendant/trendy-style/c-sb.html">Trendy Style</a></li>
-                    <li><a href="/pendant/polki-specialty/c-sb.html">Polki style</a></li>
-                    <li><a href="/pendant/c-sb.html" class="viewall">View All</a></li>                      
-                </ul>                
-                <ul>
-                    <li><h4><a href="/earrings/c-sb.html">Earrings</a></h4></li>
-                    <li><a href="/earrings/c-sb.html">Trendy Style Earrings</a></li>                    
-                    <li><a href="/earrings/jhumka-specialty/c-sb.html">Jhumka Style Earrings</a></li>                    
-                    <li><a href="/earrings/c-sb.html" class="viewall">View All</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/bangles-and-bracelet/c-sb.html">Bangles &amp; Kada</a></h4></li>
-                    <li><a href="/bangles-and-bracelet/stone_studded-specialty/c-sb.html">Stone Studded Bangles &amp; Kada</a></li>
-                    <li><a href="/bangles-and-bracelet/kundan-specialty/c-sb.html"> Kundan Style Bangles &amp; Kada</a></li>
-                    <li><a href="/bangles-and-bracelet/polki-specialty/c-sb.html">Polki Style Bangles &amp; Kada</a></li>
-                    <li><a href="/bangles-and-bracelet/moti-specialty/c-sb.html">Moti Style Bangles &amp; Kada</a></li>                   
-                    <li><a href="/bangles-and-bracelet/c-sb.html" class="viewall">View All</a></li>
-                </ul>
-                <ul>
-                    <li><h4><a href="/hand-bag/c-sb.html">Handbags/Clutches</a></h4></li>
-                    <li><a href="/hand-bag/clutches-specialty/c-sb.html">Clutches</a></li>
-                    <li><a href="/hand-bag/hand_bags-specialty/c-sb.html">Hand Bag</a></li>
-                    <li><a href="/hand-bag/cane-specialty/c-sb.html">Cane</a></li>                    
-                    <li><a href="/hand-bag/c-sb.html" class="viewall">View All</a></li>
-                </ul>
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-kurti/pt-krr.html">Tunic</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-kurti/casual-style/c-sb.html" title="Casual">Casual</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurti/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurti/college_wear-occasion/c-sb.html" title="College Wear">College Wear</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurti/faux_chiffon-fabric/c-sb.html" title="Chiffon">Chiffon</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurti/cotton-fabric/c-sb.html" title="Cotton">Cotton</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurti/formal_wear-occasion/c-sb.html" title="Formal Look">Formal Look</a></li>
+                <li class="shwCselstItem"><a href="/kurti/partywear-kurtis/c-2-618-1087.html" title="Party Wear">Party Wear</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/readymade-kurti/bollywood_vogue-brand/c-sb.html" title="Bollywood vogue" class="btnlatest"><span>Bollywood vogue</span></a><a href="/readymade-kurti/modni-brand/c-sb.html" title="Modni" class="btnlatest"><span>Modni</span></a><a href="/readymade-kurti/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-kurti/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Get a glamorous uptown twirl for this party season
+      </h2>
+              </div>
             </div>
-        </li>
-        <!--<li class="navPos"><a href="/deals.aspx">Deals</a></li>-->
-    </ul></div>
-<script language="javascript" type="text/javascript" src="/JavaScripts/Whatsnew.js"></script>
-
-    </div>
-    <div class="search-part">
-        <div class="search">
-            <span class="label">Search</span>
-            <input onkeydown="return funDefaultSearch(event)" id="txtProductSearch" onfocus="funClrSearch();" type="text" value="Product Search" class="input">
-            <input type="button" id="btnGo" onclick="funGo();" class="btn-search">
-        </div>
-        <div class="social-media">
+          </li>
+          <li class="shwCselstItem"><a href="/womens-bottoms/pt-wb.html">Womens Bottoms</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/womens-bottoms/leggings-specialty/c-sb.html" title="Leggings">Leggings</a></li>
+                <li class="shwCselstItem"><a href="/womens-bottoms/dhoti_style-specialty/c-sb.html" title="Dhoti style">Dhoti style</a></li>
+                <li class="shwCselstItem"><a href="/womens-bottoms/patiala-specialty/c-sb.html" title="Patiala">Patiala</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/womens-bottoms/latest-arrival/c-sb.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/womens-bottoms/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Good-looking and perfect matching for every occasion!
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Men</a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a href="/sherwani/pt-sh.html">Sherwani</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/sherwani/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/sherwani/indowestern-specialty/c-sb.html" title="Indo Western">Indo Western</a></li>
+                <li class="shwCselstItem"><a href="/sherwani/dhoti_style-specialty/c-sb.html" title="Dhoti Style">Dhoti Style</a></li>
+                <li class="shwCselstItem"><a href="/sherwani/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                <li class="shwCselstItem"><a href="/readymade-sherwani/c-sb.html" title="Readymade Sherwani">Readymade Sherwani</a></li>
+                <li class="shwCselstItem"><a href="/sherwani/sangeet-occasion/c-sb.html" title="Sangeet Mens Shewani">Sangeet Mens Shewani</a></li>
+                <li class="shwCselstItem"><a href="/sherwani/breeches_style-specialty/c-sb.html" title="Breaches Style">Breaches Style</a></li>
+                <li class="shwCselstItem"><a href="/sherwani/collar_style-specialty/c-sb.html" title="Standing Collar Style">Standing Collar Style</a></li>
+                <li class="shwCselstItem"><a href="/sherwani/bridal-occasion/c-sb.html" title="Grooms Sherwani">Grooms Sherwani</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/sherwani/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/sherwani/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Let Mesmerizing collection make the crowd enthralled by your charm!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/mens-suits/pt-su.html">Mens Suit</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/mens-suits/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/mens-suits/trendy-style/c-sb.html" title="Trendy Styles">Trendy Styles</a></li>
+                <li class="shwCselstItem"><a href="/mens-suits/sangeet-occasion/c-sb.html" title="Sangeet">Sangeet</a></li>
+                <li class="shwCselstItem"><a href="/mens-suits/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/mens-suits/contemporary-style/c-sb.html" title="Contemporary Designs">Contemporary Designs</a></li>
+                <li class="shwCselstItem"><a href="/mens-suits/collar_style-specialty/c-sb.html" title="Collar Style">Collar Style</a></li>
+                <li class="shwCselstItem"><a href="/mens-suits/lapel-specialty/c-sb.html" title="Lapel Style">Lapel Style</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/mens-suits/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/mens-suits/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Immaculately exclusive variety for special person on a very special day!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-kurta-pajama/pt-kpr.html">Kurta Pyjama</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/pathani_suits-specialty/c-sb.html" title="Pathani Suits">Pathani Suits</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta/c-sb.html" title="Short Kurta">Short Kurta</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/sangeet-occasion/c-sb.html" title="Sangeet Mens Kurta pajama">Sangeet Mens Kurta pajama</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/mehendi-occasion/c-sb.html" title="Mehendi Kurta Pajama">Mehendi Kurta Pajama</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/readymade-kurta-pajama/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-kurta-pajama/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Fascinating colors make you look more colorful and charming!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/mens-bottoms/pt-mb.html">Mens Bottom</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/mens-bottoms/dhoti-specialty/c-sb.html" title="Dhoti">Dhoti</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/mens-bottoms/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/mens-bottoms/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Men in their Ethnic attire!
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Kids</a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a href="/kids-wear-girls/pt-kdg.html">Kids - Girls</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/kids-wear-girls/indowestern-specialty/c-sb.html" title="Indo-western">Indo-western</a></li>
+                <li class="shwCselstItem"><a href="/kids-wear-girls/anarkali_suit-specialty/c-sb.html" title="Anarkali Salwars">Anarkali Salwars</a></li>
+                <li class="shwCselstItem"><a href="/kids-wear-girls/indowestern-specialty/c-sb.html" title="Churidar Suits">Churidar Suits</a></li>
+                <li class="shwCselstItem"><a href="/kids-wear-girls/kids_lehenga-specialty/c-sb.html" title="Lehenga">Lehenga</a></li>
+                <li class="shwCselstItem"><a href="/kids-wear-girls/kids_lehenga-specialty/c-sb.html" title="Lehenga">Lehenga</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/kids-wear-girls/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/kids-wear-girls/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        May your little angle look more beatiful  in the alluring styles!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/kids-wear-boys/pt-kdb.html">Kids - Boys</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/kids-wear-boys/breeches_style-specialty/c-sb.html" title="Breaches Style Kurta Pyjama">Breaches Style Kurta Pyjama</a></li>
+                <li class="shwCselstItem"><a href="/kids-wear-boys/kurta_pyjama-specialty/c-sb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
+                <li class="shwCselstItem"><a href="/kids-wear-boys/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/kids-wear-boys/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/kids-wear-boys/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Simple and new styles on for every little prince!
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Accessories</a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a href="/necklace/pt-jy.html">Necklace</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/necklace/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                <li class="shwCselstItem"><a href="/necklace/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                <li class="shwCselstItem"><a href="/necklace/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/necklace/silver-specialty/c-sb.html" title="Silver">Silver</a></li>
+                <li class="shwCselstItem"><a href="/smart-search.aspx?q=mangalsutra" title="Mangalsutra">Mangalsutra</a></li>
+                <li class="shwCselstItem"><a href="/necklace/kundan-specialty/c-sb.html" title="Kundan">Kundan</a></li>
+                <li class="shwCselstItem"><a href="/necklace/polki-specialty/c-sb.html" title="Polki">Polki</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/necklace/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/necklace/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        sparkling and wide-eyed seasonal brands
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/pendant/c-sb.html">Pendant Sets</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/pendant/silver-specialty/c-sb.html" title="Silver">Silver</a></li>
+                <li class="shwCselstItem"><a href="/pendant/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                <li class="shwCselstItem"><a href="/pendant/moti-specialty/c-sb.html" title="Moti">Moti</a></li>
+                <li class="shwCselstItem"><a href="/pendant/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/pendant/stone_studded-specialty/c-sb.html" title="Stone Studded">Stone Studded</a></li>
+                <li class="shwCselstItem"><a href="/pendant/mehendi-occasion/c-sb.html" title="Mehendi">Mehendi</a></li>
+                <li class="shwCselstItem"><a href="/pendant/kitty_party-occasion/c-sb.html" title="Kitty Party">Kitty Party</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/pendant/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/pendant/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Pick all the classic and ethnic Pendant sets at cheap price!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/earrings/c-sb.html">Earrings</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/earrings/classic-style/c-sb.html" title="Traditional">Traditional</a></li>
+                <li class="shwCselstItem"><a href="/earrings/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                <li class="shwCselstItem"><a href="/earrings/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/earrings/stone_studded-specialty/c-sb.html" title="Stone Studded">Stone Studded</a></li>
+                <li class="shwCselstItem"><a href="/earrings/jhumka-specialty/c-sb.html" title="Jhumka">Jhumka</a></li>
+                <li class="shwCselstItem"><a href="/earrings/silver-specialty/c-sb.html" title="Silver">Silver</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/earrings/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/earrings/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Emblazon choice of earrings available only here!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/bangles-and-bracelet/pt-br.html">Bangles and Kada</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/bangles-and-bracelet/trendy-style/c-sb.html" title="Trendy Designs">Trendy Designs</a></li>
+                <li class="shwCselstItem"><a href="/bangles-and-bracelet/stone_studded-specialty/c-sb.html" title="Stone Studded">Stone Studded</a></li>
+                <li class="shwCselstItem"><a href="/bangles-and-bracelet/trendy-style/c-sb.html" title="Wedding Bangles">Wedding Bangles</a></li>
+                <li class="shwCselstItem"><a href="/bangles-and-bracelet/classic-style/c-sb.html" title="Traditional Designs">Traditional Designs</a></li>
+                <li class="shwCselstItem"><a href="/bangles-and-bracelet/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/bangles-and-bracelet/polki-specialty/c-sb.html" title="Polki">Polki</a></li>
+                <li class="shwCselstItem"><a href="/bangles-and-bracelet/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/bangles-and-bracelet/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/bangles-and-bracelet/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Homley gleaming collections of Bangles
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/hand-bag/pt-hb.html">Hand Bags and Clutches</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/hand-bag/clutches-specialty/c-sb.html" title="Clutches">Clutches</a></li>
+                <li class="shwCselstItem"><a href="/hand-bag/hand_bags-specialty/c-sb.html" title="Armcandy">Armcandy</a></li>
+                <li class="shwCselstItem"><a href="/hand-bag/cane-specialty/c-sb.html" title="Cane">Cane</a></li>
+                <li class="shwCselstItem"><a href="/hand-bag/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                <li class="shwCselstItem"><a href="/hand-bag/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/hand-bag/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/hand-bag/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Royal filmy look with authentic touch!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/dupattas/pt-dp.html">Dupatta and Stoles</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/dupattas/c-sb.html" title="Dupatta">Dupatta</a></li>
+                <li class="shwCselstItem"><a href="/stoles/c-sb.html" title="Stoles">Stoles</a></li>
+                <li class="shwCselstItem"><a href="/stoles-and-shawls/c-sb.html" title="Shawls">Shawls</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/dupattas/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/dupattas/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="desc">
+                <h2>
+        Brilliant varieties only for special array!
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Brands</a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a href="/brand/rair/sb.html">RaiR</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/saree/rair-brand/c-sb.html" title="Saree">Saree</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/rair-brand/c-sb.html" title="Salwar Kameez">Salwar Kameez</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Stop and stare for the varieties are very rare! Hand-pick array just for you!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/brand/bollywood-vogue/sb.html">Bollywood Vogue</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/saree/bollywood_vogue-brand/c-sb.html" title="Saree">Saree</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/bollywood_vogue-brand/c-sb.html" title="Readymade Salwar">Readymade Salwar</a></li>
+                <li class="shwCselstItem"><a href="/lehenga/bollywood_vogue-brand/c-sb.html" title="Lehenga">Lehenga</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurti/bollywood_vogue-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+                <li class="shwCselstItem"><a href="/readymade-sherwani/bollywood_vogue-brand/c-sb.html" title="Readymade Sherwani">Readymade Sherwani</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Fanciful and glassy attire make a choice! Look like a Diva
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/brand/modni/sb.html">Modni</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/saree/modni-brand/c-sb.html" title="Saree">Saree</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/modni-brand/c-sb.html" title="Readymade Salwar">Readymade Salwar</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurti/modni-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta/modni-brand/c-sb.html" title="Kurta">Kurta</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/modni-brand/c-sb.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/modni-brand/c-sb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
+                <li class="shwCselstItem"><a href="/dupattas/modni-brand/c-sb.html" title="Dupattas">Dupattas</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Celebrate the peeping glow of affordable fashion!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-kurti/global_desi-brand/c-sb.html">Global Desi</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-kurti/global_desi-brand/c-sb.html" title="Readymade Kurtis">Readymade Kurtis</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Global Desi - Global Style, Indian Threads. This collection of Indo-western apparel embodies the best of both worlds. Enjoy shopping Global Desi stylish apparels from Cbazaar!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-kurti/w-brand/c-sb.html">W</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-kurti/w-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+                <li class="shwCselstItem"><a href="/readymade-plus-size-kurti/w-brand/c-sb.html" title="Readymade Plus Size Kurti">Readymade Plus Size Kurti</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        W has redefined the traditional Indian outfit to something that a woman can wear and look simple yet stylish. Enjoy shopping W apparels from Cbazaar!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-kurti/aurelia-brand/c-sb.html">Aurelia</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-kurti/aurelia-brand/c-sb.html" title="Readymade Kurtis">Readymade Kurtis</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Get inspired by the "golden &amp; dazzling" collecion of Aurelia. Shop now from Cbazaar!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/readymade-kurti/18_fire-brand/c-sb.html">18 fire</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-kurti/18_fire-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        18 Fire is the exotic kurti variety to flair your beauty. Create your own unique style and enjoy shopping 18 fire apparels from Cbazaar!
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Shop By</a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a>Celebrities</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/celebrities/aarti-punar-vivaah/sb.html" title="Aarti from Punar Vivaah">Aarti from Punar Vivaah</a></li>
+                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/yash_punar_vivaah-celebrities/c-sb.html" title="Yash from Punar Vivaah">Yash from Punar Vivaah</a></li>
+                <li class="shwCselstItem"><a href="/saree/dabangg_2-films/c-sb.html" title="Sonakshi's look from Dabangg2">Sonakshi's look from Dabangg2</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        One life, countless occasions!  Live every moment like a dream, floating effortlessly in these handpicked ensembles. Complement with grace your many avatars. Looking for more panache. Call or e-mail your FashionFriend at cbazaar!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a>Occasion</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/occasion/valentines-day/sb.html" title="Date Night">Date Night</a></li>
+                <li class="shwCselstItem"><a href="/occasion/formal-wear/sb.html" title="Business Class">Business Class</a></li>
+                <li class="shwCselstItem"><a href="/occasion/bridal/sb.html" title="Bride's Delight">Bride's Delight</a></li>
+                <li class="shwCselstItem"><a href="/occasion/casual-wear/sb.html" title="Casual Chic (Casual)">Casual Chic (Casual)</a></li>
+                <li class="shwCselstItem"><a href="/occasion/party-wear/sb.html" title="Evening Affair">Evening Affair</a></li>
+                <li class="shwCselstItem"><a href="/occasion/christmas/sb.html" title="New Look">New Look</a></li>
+                <li class="shwCselstItem"><a href="/occasion/wedding/sb.html" title="Festive Finery">Festive Finery</a></li>
+              </ul>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="https://www.surveymonkey.com/s/fashionfriend" title="FashionFriend" target="_blank" class="btnlatest"><span>FashionFriend</span></a></div>
+              <div class="desc">
+                <h2>
+        One life, countless occasions!  Live every moment like a dream, floating effortlessly in these handpicked ensembles. Complement with grace your many avatars. Looking for more panache. Call or e-mail your FashionFriend at cbazaar!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a>Films</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/films/saheb-biwi-aur-gangster/sb.html" title="Saheb Biwi aur Gangster">Saheb Biwi aur Gangster</a></li>
+                <li class="shwCselstItem"><a href="/films/matru-ki-bijlee-ka-mandola/sb.html" title="Matru ki Bijli ka Mandola">Matru ki Bijli ka Mandola</a></li>
+                <li class="shwCselstItem"><a href="/saree/dabangg_2-films/c-sb.html" title="Dabangg 2">Dabangg 2</a></li>
+                <li class="shwCselstItem"><a href="/films/son-of-sardar/sb.html" title="Son Of Sardar">Son Of Sardar</a></li>
+                <li class="shwCselstItem"><a href="/films/aiyyaa/sb.html" title="Aiyyaa">Aiyyaa</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Bollywood interpretations for the star in you. Newest fashion from your superstar style icons – the ethereal divas. Go ahead try the little jhatkas. Be Bollywoodish!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a>Brands</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/brand/rair/sb.html" title="RaiR">RaiR</a></li>
+                <li class="shwCselstItem"><a href="/brand/bollywood-vogue/sb.html" title="Bollywood Vogue">Bollywood Vogue</a></li>
+                <li class="shwCselstItem"><a href="/brand/modni/sb.html" title="Modni">Modni</a></li>
+                <li class="shwCselstItem"><a href="/brand/global-desi/sb.html" title="Global Desi">Global Desi</a></li>
+                <li class="shwCselstItem"><a href="/brand/w/sb.html" title="W">W</a></li>
+                <li class="shwCselstItem"><a href="/brand/aurelia/sb.html" title="Aurelia">Aurelia</a></li>
+                <li class="shwCselstItem"><a href="/brand/18-fire/sb.html" title="18 fire">18 fire</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Shop the Latest designer brands for this season and Cherish acquiring the best of all!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a>TV-Serials</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/tv-serials/punar-vivaah/sb.html" title="Punar Vivaah">Punar Vivaah</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Get the look of your favorite TV serial characters! You have always admired their wardrobe.Now own these exclusive collection.
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>
+      Spring13
+    </a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a href="/specialty/spring-summer-collection/sb.html">Spring Summer Collection 2013</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/saree/spring_summer_collection-specialty/c-sb.html" title="Saree">Saree</a></li>
+                <li class="shwCselstItem"><a href="/salwar-kameez/spring_summer_collection-specialty/c-sb.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                <li class="shwCselstItem"><a href="/readymade-salwar/spring_summer_collection-specialty/c-sb.html" title="Readymade Salwar Kameez">Readymade Salwar Kameez</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Presenting Spring Collection 2013! Prepare for spring with pretty, palette cleansing color, fresh styles. Wear it Now!
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a><b>New</b>
+      What’s New
+    </a><div class="subMenu">
+        <ul class="subnav sel">
+          <li class="shwCselstItem"><a>Local Tadka</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/readymade-salwar/punjabi-specialty/c-sb.html" title="Punjabi">Punjabi</a></li>
+                <li class="shwCselstItem"><a href="/specialty/south_indian/sb.html" title="South Indian">South Indian</a></li>
+                <li class="shwCselstItem"><a href="/specialty/persian/sb.html" title="Persian">Persian</a></li>
+                <li class="shwCselstItem"><a href="/specialty/mughal-flavor/sb.html" title="Mughal">Mughal</a></li>
+                <li class="shwCselstItem"><a href="/specialty/kutch/sb.html" title="Kutch">Kutch</a></li>
+                <li class="shwCselstItem"><a href="/specialty/london-fashion-trends/sb.html" title="London">London</a></li>
+                <li class="shwCselstItem"><a href="/specialty/new-york-fashion-spotlight/sb.html" title="New York">New York</a></li>
+                <li class="shwCselstItem"><a href="/specialty/invogue-toronto/sb.html" title="Toronto">Toronto</a></li>
+                <li class="shwCselstItem"><a href="/specialty/styling-in-california/sb.html" title="California">California</a></li>
+                <li class="shwCselstItem"><a href="/specialty/style-buffet-in-new-jersey/sb.html" title="New Jersey">New Jersey</a></li>
+                <li class="shwCselstItem"><a href="/specialty/stir-up-texas-hotsellers/sb.html" title="Texas">Texas</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        World cultures influenced India from time immemorial. We search those identities to bring their essence in Indian Ethnic fashion. Dig in…enjoy your favorite cultures and keep looking gorgeous. If anything missing, write in. We shall find it!
+      </h2>
+              </div>
+            </div>
+          </li>
+          <li class="shwCselstItem"><a href="/cbuzz.html">CBuzz</a></li>
+          <li class="shwCselstItem"><a>Trends</a><div class="inMenu">
+              <ul>
+                <li class="shwCselstItem"><a href="/specialty/blue-like-spring-sky/sb.html" title="Blue like the Spring Sky">Blue like the Spring Sky</a></li>
+                <li class="shwCselstItem"><a href="/specialty/spring-blossoms/sb.html" title="Blossoms of spring collections">Blossoms of spring collections</a></li>
+                <li class="shwCselstItem"><a href="/signature-color.html" title="What does color tell about you?">What does color tell about you?</a></li>
+                <li class="shwCselstItem"><a href="/zodiac.html" title="Zodiac Zingle!">Zodiac Zingle!</a></li>
+                <li class="shwCselstItem"><a href="/specialty/bohemian-chic/sb.html" title="Bohemian Chic">Bohemian Chic</a></li>
+                <li class="shwCselstItem"><a href="/editors-pick.html" title="Editor's Pick">Editor's Pick</a></li>
+                <li class="shwCselstItem"><a href="/specialty/80s-are-back/sb.html" title="80's are Back!">80's are Back!</a></li>
+                <li class="shwCselstItem"><a href="/occasion/party-wear/sb.html" title="Steal the Show!">Steal the Show!</a></li>
+                <li class="shwCselstItem"><a href="/specialty/simply-white/sb.html" title="Ivory Strokes">Ivory Strokes</a></li>
+                <li class="shwCselstItem"><a href="/specialty/tuscany-brights/sb.html" title="Tuscany Summer">Tuscany Summer</a></li>
+                <li class="shwCselstItem"><a href="/promotions.html" title="Metamorphosis">Metamorphosis</a></li>
+              </ul>
+              <div class="stdbtn">
+              </div>
+              <div class="desc">
+                <h2>
+        Make your look more grandiose with all the new trends and enjoy the feast of beauty enticed in your dressing style! The New Seasonal Change is there to fill in your fashion thirst! Collect the varieties and enjoy your shopping!
+      </h2>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+</div></div>
+            </nav>
+        </header>
+        <section>
+            
+    <div class="topInfo">
+        <div class="breadCrum">
             <ul>
-                
-                <li><a href="https://www.facebook.com/cbazaar" target="_blank" rel="nofollow" class="facebook" title="Fan us on facebook - cbazaar"></a></li>
-                
-                <li><a href="http://twitter.com/cbazaarfashion/" target="_blank" rel="nofollow" class="twitter" title="Fan us on twitter - cbazaar"></a></li>
-                <li><a href="https://plus.google.com/118325907125003805176/posts" style="text-decoration: none;" target="_blank">
-                    <img src="https://ssl.gstatic.com/images/icons/gplus-64.png" width="24" height="24" style="border: 0;" alt=""></a></li>
-                
+                <li class="home"><a href="/default.aspx" title="Home">Home</a></li>
+                <li class="sel"><a>Privacy policy</a> </li>
             </ul>
+            <div class="prodFind">
+                <ul>
+                    <li><span>Find Cbazaar on</span></li>
+                    <li class="last"><a href="https://www.facebook.com/cbazaar" target="_blank" rel="nofollow" title="Share on Facebook" class="fb">Facebook</a></li>
+                    <li class="last"><a href="http://twitter.com/cbazaarfashion/" target="_blank" rel="nofollow" title="Share on Twitter" class="tw">Twitter</a></li>
+                    <li class="last"><a href="http://pinterest.com/cbazaar/" target="_blank" class="pinit" rel="nofollow" title="Cbazaar on Pinterest">Pinterest</a></li>
+                    <li class="last"><a href="http://www.youtube.com/cbazaarsarees" target="_blank" class="youtube" rel="nofollow" title="Cbazaar on Youtube">Youtube</a></li>
+                    <li class="last"><a href="http://blog.cbazaar.com/" target="_blank" class="blog" rel="nofollow" title="Cbazaar Blog">Blog</a></li>
+                    <li class="last"><a href="https://plus.google.com/u/0/109953755887406949617/about" target="_blank" class="gplus" rel="nofollow" title="Google+">Google+</a></li>
+                </ul>
+            </div>
         </div>
     </div>
-</div>
-
-<script type="text/javascript" language="javascript">
-    //debugger;
-    $j(".account").click(function(e) {
-        $j(".pop-myaccount").toggle();
-        $j(".account").toggleClass("menu-open01");
-    });
-</script>
-
-<script language="javascript" type="text/javascript">
-    $j(document).ready(function() {
-        if ($j("#ddlRegion") != undefined) {
-            if ((window.location.href).indexOf("www.cbazaar.in") > -1)
-                $j("#ddlRegion").val("www.cbazaar.in").attr("selected", true);
-            else if ((window.location.href).indexOf("www.cbazaar.com") > -1)
-                $j("#ddlRegion").val("www.cbazaar.com").attr("selected", true);
-            else if ((window.location.href).indexOf("www.cbazaar.co.nz") > -1)
-                $j("#ddlRegion").val("www.cbazaar.co.nz").attr("selected", true);
-            else if ((window.location.href).indexOf("www.cbazaar.com.au") > -1)
-                $j("#ddlRegion").val("www.cbazaar.com.au").attr("selected", true);
-            else if ((window.location.href).indexOf("www.cbazaarsarees.co.uk") > -1)
-                $j("#ddlRegion").val("www.cbazaarsarees.co.uk").attr("selected", true);
-            else
-                $j("#ddlRegion").val("www.cbazaar.com").attr("selected", true);
-
-            if ((window.location.href).indexOf("www.cbazaar.com.au") > -1)
-                $j("#ddlRegion").val("www.cbazaar.com.au").attr("selected", true);
-
-            $j("#ddlRegion").change(function() { funRegion(); });
-        }
-    });
-    function funRegion() {
-        if ((window.location.href).indexOf($j("#ddlRegion").val()) > -1) {
-        }
-        else {
-            window.location.href = "http://" + $j("#ddlRegion").val() + "/default.aspx?q=cbazaar";
-        }
-    }
-</script>
-
-
-                
-                <div class="content">
-                    <div class="common-page-lft">
-                        <h5>
-                            Privacy Policy</h5>
-                        <div class="privacy">
-                            <p>
-                                We respect your privacy and are committed to maintaining it. When you shop on this
-                                Website, we will ask you to input and will collect Personal Information from you
-                                such as your name, e-mail address, billing address, delivery address, telephone
-                                number, product selections, credit card or other payment information and password.</p>
-                            <p>
-                                We may also collect information about where you are on the internet (eg the URL
-                                you came from, IP address, domain types like .co.uk and .com), your browser type,
-                                the country where your computer is located, the pages of our website that were viewed
-                                during your visit, the advertisements you clicked on. We may collect this information
-                                even if you do not register with us. None of this data is of a personal nature and
-                                will help us improve the quality of our service.</p>
-                            <h6>
-                                <span class="ico"></span>How we use the information we collect:</h6>
-                            <ul class="list01" style="margin-bottom: 10px">
-                                <li>Processing your orders</li>
-                                <li>Administering your account</li>
-                                <li>Improving the website's performance by analysing statistical data</li>
+    <div class="hImgShowcaseWrapper">
+        <div class="hImgShowcase">
+            <div class="genericContent">
+                <h2>
+                    Privacy policy</h2>
+                <div class="checkOutCont">
+                    <div class="leftDet">
+                        <p>
+                            We respect your privacy and are committed to maintaining it. When you shop on this
+                            Website, you would be asked for some Personal Information such as your name, e-mail
+                            address, billing address, delivery address, telephone number, product selections,
+                            credit card or other payment information and password.</p>
+                        <p>
+                            We may also collect information about where you are on the internet (eg the URL
+                            you came from, IP address, domain types like .co.uk and .com), your browser type,
+                            the country where your computer is located, the pages of our website that were viewed
+                            during your visit, the advertisements you clicked on. We may collect this information
+                            even if you do not register with us. None of this data is of a personal nature and
+                            will help us improve the quality of our service.</p>
+                        <h3>
+                            How we use the information we collect:</h3>
+                        <ul>
+                            <li>Processing your orders </li>
+                            <li>Administering your account</li>
+                            <li>Improving the website's performance by analysing statistical data</li>
+                        </ul>
+                        <p>
+                            If you consent, to notify you of products or special offers that may be of interest
+                            to you. You agree that you do not object to us contacting you for any of the above
+                            purposes whether by telephone, e-mail or in writing and you confirm that you do
+                            not and will not consider any of the above as being a breach of any of your rights
+                            under the Telecommunications (Data Protection and Privacy) Regulations 1999.
+                        </p>
+                        <p>
+                            We would not release your Personal Information to any company outside for mailing
+                            or marketing purposes.</p>
+                        <p>
+                            We use 'Cookies' to keep track of your current shopping session to personalise your
+                            experience and so that you may retrieve your shopping cart at any time. 'Cookies'
+                            are tiny text files which our Website places on your computer's hard drive to store
+                            information about your shopping session and to identify your computer. `Cookies`
+                            cannot harm your computer and do not contain any personal or private information.</p>
+                        <p>
+                            We do not hold any of your credit card information. This information is securely
+                            collected by our authorised payment gateways. With the industry's most-advanced
+                            encryption, fraud prevention and protection policies, our payment gateways are dedicated
+                            o keeping your account safe and secure. Once your information reaches our payment
+                            gateways it resides on a server that is heavily guarded both physically and electronically.
+                        </p>
+                    
+                    </div>
+                    <div class="rightDet">
+                        <div class="shop">
+                            <ul>
+                                <li class="lg">Best Prices</li>
+                                
+                                <li class="cm">Choose &amp; Customize</li>
+                                
+                                <li class="lb">Easy Returns</li>
+                                <li class="db">Quick Delivery</li>
                             </ul>
-                            <p>
-                                If you consent, to notify you of products or special offers that may be of interest
-                                to you. You agree that you do not object to us contacting you for any of the above
-                                purposes whether by telephone, e-mail or in writing and you confirm that you do
-                                not and will not consider any of the above as being a breach of any of your rights
-                                under the Telecommunications (Data Protection and Privacy) Regulations 1999.</p>
-                            <p>
-                                We will not release your Personal Information to any company outside for mailing
-                                or marketing purposes.</p>
-                            <p>
-                                We use 'Cookies' to keep track of your current shopping session to personalise your
-                                experience and so that you may retrieve your shopping cart at any time. 'Cookies'
-                                are tiny text files which our Website places on your computer's hard drive to store
-                                information about your shopping session and to identify your computer. `Cookies`
-                                cannot harm your computer and do not contain any personal or private information.</p>
-                            <p>
-                                We do not hold any of your credit card information. This information is securely
-                                collected by our authorised payment processor Secure Trading, UK. With the industry's
-                                most-advanced encryption, fraud prevention and protection policies, Secure Trading
-                                is dedicated to keeping your account safe and secure. Once your information reaches
-                                Secure Trading, it resides on a server that is heavily guarded both physically and
-                                electronically. Secure Trading servers sit behind an electronic firewall and are
-                                not directly connected to the Internet, so your private information is available
-                                only to authorised computers.</p>
-                            <p>
-                                Please check back frequently to see any updates or changes to our privacy policy.</p>
                         </div>
                     </div>
-                    <div class="common-page-rht">
-                        
-
-
-<script language="javascript" type="text/javascript" src="/JavaScripts/SpryCollapsiblePanel.js"></script>
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js"></script>
-
-<div id="EsRightZone1_dvPrdType">
-    
-    <div class="pt_search">
-        <p>
-            Search</p>
-        <ul>
-            <li id="EsRightZone1_liPrdTypes"><select id="ddlPrdType" style="width: 190px;"><option value="-- Select Product Type --">-- Select Product Type --</option><option value="saree-blouse">Saree Blouse</option><option value="readymade-saree-blouse">Readymade Saree Blouse</option><option value="bangles-and-bracelet">Bangles and Bracelet</option><option value="dhoti">Dhoti</option><option value="dupattas">Dupattas</option><option value="earrings">Earrings</option><option value="lehenga">Lehenga</option><option value="readymade-lehenga">Readymade Lehenga</option><option value="gowns">Gowns</option><option value="hand-bag">Hand Bag</option><option value="half-saree">Half Saree</option><option value="necklace">Necklace</option><option value="kids-wear-boys">Kids Wear Boys</option><option value="kids-wear-girls">Kids Wear Girls</option><option value="kurta-pyjama">Kurta Pyjama</option><option value="readymade-kurta-pajama">Readymade Kurta Pajama</option><option value="tunic">Tunic</option><option value="readymade-kurti">Readymade Kurti</option><option value="readymade-kurta">Readymade Kurta</option><option value="mens-bottoms">Mens Bottoms</option><option value="pendant">Pendant</option><option value="plus-size-blouse">Plus Size Blouse</option><option value="readymade-plus-size-blouse">Readymade Plus Size Blouse</option><option value="plus-size-kurti">Plus Size Kurti</option><option value="readymade-plus-size-kurti">Readymade Plus Size Kurti</option><option value="plus-size-salwar-kameez">Plus Size Salwar Kameez</option><option value="saree">Saree</option><option value="saree-with-stitched-blouse">Saree with stitched blouse</option><option value="sherwani">Sherwani</option><option value="readymade-sherwani">Readymade Sherwani</option><option value="skirts">Skirts</option><option value="salwar-kameez">Salwar Kameez</option><option value="readymade-salwar">Readymade Salwar</option><option value="stoles">Stoles</option><option value="mens-suits">Mens Suits</option><option value="womens-bottoms">Womens Bottoms</option></select></li>
-            <li>
-                <select id="ddColor" style="width: 190px;">
-                    <option>-- Select Color --</option>
-                    <option>Beige</option>
-                    <option>Black</option>
-                    <option>Blue</option>
-                    <option>Brown</option>
-                    <option>Cream</option>
-                    <option>Gold</option>
-                    <option>Green</option>
-                    <option>Grey</option>
-                    <option>Lavender</option>
-                    <option>Magenta</option>
-                    <option>Maroon</option>
-                    <option>Mauve</option>
-                    <option>Multicolored</option>
-                    <option>Mustard</option>
-                    <option>Ochre</option>
-                    <option>Orange</option>
-                    <option>Peach</option>
-                    <option>Pink</option>
-                    <option>Purple</option>
-                    <option>Red</option>
-                    <option>Rust</option>
-                    <option>Silver</option>
-                    <option>Teal</option>
-                    <option>Turquoise</option>
-                    <option>White</option>
-                    <option>Wine</option>
-                    <option>Yellow</option>
-                </select>
-            </li>
-            <li>
-                <select id="ddPriceRange" style="width: 190px;">
-                    <option value="-- Select Price Range --">-- Select Price Range --</option>
-                    
-                    <option value="-usd-price-below_100">Below
-                        $100</option>
-                    <option value="-usd-price-between_101_200">
-                        $101 to $200</option>
-                    <option value="-usd-price-between_201_300">
-                        $201 to $300</option>
-                    <option value="-usd-price-between_301_500">
-                        $300 to $500</option>
-                    <option value="-usd-price-above_500">above
-                        $500</option>
-                    
-                </select>
-            </li>
-            <li>
-                <select id="ddlDeliDays" style="width: 190px;">
-                    <option value="-- Select Delivery Days --">-- Select Delivery Days --</option>
-                    <option value="-10-delivery_days">10 days</option>
-                    <option value="-15-delivery_days">15 days</option>
-                    <option value="-20-delivery_days">20 days</option>
-                    <option value="-25-delivery_days">25 days</option>
-                    <option value="-30-delivery_days">30 days</option>
-                    <option value="-45-delivery_days">45 days</option>
-                    <option value="-60-delivery_days">60 days</option>
-                </select>
-            </li>
-            <li>
-                <input type="button" class="submit" id="btnSubmit" onclick="funMultipleGblSearch();"></li>
-        </ul>
+                </div>
+            </div>
+        </div>
     </div>
-    <div id="divCatalogs" class="clothes">
-        <p>Clothing Catalogs</p>
-        <ul class="l1">
-            <li><a style="border-top: 0px" href="/saree/pt-sa.html" title="Saree,Sarees,Saris,Sari">Sarees</a></li>
-            <li><a href="/salwar-kameez/pt-sl.html" title="Salwar, Salwar kameez">Salwar kameez</a></li>
-            <li><a href="/lehenga/pt-gh.html" title="Lehenga">Lehenga</a></li>
-            <li><a href="/tunic/pt-kr.html" title="Tunic, Kurti">Tunic/Kurti</a></li>
-            <li><a href="/kids-wear-boys/pt-kdb.html" title="Kids wear for boys">Boys kids wear</a></li>
-            <li><a href="/kids-wear-girls/pt-kdg.html" title="Kids wear for girls">Girls kids wear</a></li>
-            <li><a href="/sherwani/pt-sh.html" title="Sherwani">Sherwani</a></li>
-        </ul>
-    </div>    
-    <div class="margin-top">
-        <a href="/readymade-kurti/c-sb.html" id="EsRightZone1_Linksb1" title="Readymade Kurtis">
-            <img src="/image/EsHomePageImages/7_2_rsb4.jpg" id="EsRightZone1_imgEsRsb2" width="200" height="300" style="border: 0px" alt="Readymade Kurtis">
-        </a>
-        
-        
-    </div>
-</div>
-<input id="hdnCurrency" type="hidden" value="USD">
 
-<script language="javascript" type="text/javascript">      
-    var strRZDomain='www.cbazaar.com';
-    var Currency='USD';    
-    
-    Cur=document.getElementsByName('CtgCurrency');
-    for (var i = 0; i < Cur.length; i++) 
-    {
-        if (Cur[i].value==$F('hdnCurrency')) 
-        {	
-            Cur[i].checked=true;
-            break;
-        }
-    }
-</script>
+        </section>
+        <footer>
+            <div class="deepGreyCont">
+                <div class="newslettersSecWrapper">
+                    <div class="newslettersSec">
+                        <div class="taginfo">
+                            
+                            <div class="taginstripcom">
+                            </div>
+                            
+                        </div>
+                        <h2>Receive newsletters</h2>
+                        <ul>
+                            <li class="emailFld"><span>
+                                <input type="text" id="eMail" name="eMail"></span>
+                                <div id="dvSucc" class="succmsg dnone"></div>
+                            </li>
+                            <li class="sbmtBtn"><a id="linkNewsLetr"><span id="btnNewsLetr">Submit</span></a>
+                                <div id="NewsLettLoading" class="dvloading hidden">
+                                    <span></span>
+                                </div>
+                            </li>
+                            <li class="desc">
+                                <p>
+                                    Receive exclusive email offers and updates about our new products directly in your
+                                inbox.
+                                </p>
 
-
+                            </li>
+                        </ul>
                     </div>
-                    <div class="clear"></div>
                 </div>
-                <input name="hdnAppPath" type="hidden" id="hdnAppPath" style="width: 36px" value="/">
-                
-<div class="footer">
-    <div class="testimonial">
-        <p>
-            <span class="quotes-first">&nbsp;</span>
-            <span id="EsFooter1_lblFeedBack">  Totally loved shopping with y'all! I have looked all over the internet for Indian styled clothing and it is always expensive... CBazaar is affordable and has some of the hottest designs out there now! I am in love!</span>
-            - By
-            <span id="EsFooter1_lblSender" class="cust-name">Brittany - Denver</span>
-            <span class="quotes-last">&nbsp;</span>
-        </p>
-        <span class="more"><a href="/Testimony.aspx">more...</a></span>
-    </div>
-    <div class="newsletter">
-        <h4>
-            E-mail Exclusives</h4>
-        <input type="text" name="textfield" id="txtEmailSignUp" class="input">
-        <input id="btnEmailSignUp" type="button" class="btn-subscribe" onclick="funChkValidSignUp();">
-    </div>
-    <div class="footer-nav">
-        <ul>
-            <li>
-                <h5>
-                    Support</h5>
-                <ul>
-                    <li><a href="/Contactus.aspx" rel="nofollow" title="Contact Us">Contact Us</a></li>
-                    <li><a href="/PostQuery.aspx" rel="nofollow" title="Feedback">Feedback</a></li>
-                    <li><a href="/TellaFriend.aspx" rel="nofollow" title="Recommend Us">Recommend Us</a></li>
-                    <li><a href="/MyAccount.aspx" rel="nofollow" title="Track Order">Track Order</a></li>
-                    <li><a href="/Faq.aspx?mode=FAQ" rel="nofollow" title="FAQ">FAQ</a></li>
-                    <li><a href="/Sitemap.aspx" title="sitemap">Sitemap</a></li>
-                </ul>
-            </li>
-            <li>
-                <h5>
-                    Payments</h5>
-                <ul>
-                    <li><a href="/YourPayments.aspx" rel="nofollow" title="Payment Options">Payment Options</a></li>
-                    <li><a href="/WireTransferPurchase.aspx" rel="nofollow" title="Wire Transfer Details">
-                        Wire Transfer Details</a></li>
-                    <li><a href="/security.aspx" rel="nofollow" title="Payment Secuirty">Payment Secuirty</a></li>
-                </ul>
-            </li>
-            <li>
-                <h5>
-                    Policies</h5>
-                <ul>
-                    <li><a href="/Shipping-Policy.aspx" rel="nofollow" title="Shipping Policy">Shipping
-                        Policy</a></li>
-                    <li><a href="/ReturnPolicy.aspx" rel="nofollow" title="Return Policy">Return Policy</a></li>
-                    <li><a href="/privacyPolicy.aspx" rel="nofollow" title="Privacy Policy">Privacy Policy</a></li>
-                    <li><a href="/terms-and-conditions.aspx" rel="nofollow" title="Terms &amp; Conditions">
-                        Terms &amp; Conditions</a></li>
-                    <li><a href="/Copyrights.aspx" rel="nofollow" title="Copyrights">Copyrights</a></li>
-                    
-                    <li><a href="/pricing-policy.aspx" rel="nofollow" title="Pricing Policy">Pricing Policy</a></li>
-                    
-                </ul>
-            </li>
-            <li>
-                <h5>
-                    Bulk Trade</h5>
-                <ul>
-                    
-                    <li><a href="http://wholesale.cbazaar.com/Registration.aspx?op=Add" target="_blank" title="Registration">Registration</a></li>
-                    <li><a href="/Bulktradebenefits.aspx" title="Benefits &amp; Policies">Benefits &amp;
-                        Policies</a></li>
-                    
-                </ul>
-            </li>
-            <li>
-                <h5>
-                    About</h5>
-                <ul>
-                    
-                    <li><a href="/aboutus.aspx" title="About Us">About Us</a></li>
-                    
-                    <li><a href="/RequestProduct.aspx" rel="nofollow" title="Request a Product">Request
-                        a Product</a></li>
-                    <li><a href="/Testimony.aspx" title="Testimonials">Testimonials</a></li>
-                    <li id="EsFooter1_liResources"><a href="/resources-1.html" title="Resources">Resources</a></li>
-                </ul>
-            </li>
-            
-            <li>
-                <h5>
-                    <a href="/knowledge-base.html">Knowledge Base</a></h5>
-                <ul>
-                    <li><a href="/saree/knowledge-base.html">Saree</a></li>
-                    <li><a href="/plus-size-salwar-kameez/knowledge-base.html">Plus Size Salwar Kameez</a></li>
-                    <li><a href="/salwar-kameez/knowledge-base.html">Salwar Kameez</a></li>
-                    <li><a href="/saree-blouse/knowledge-base.html">Saree Blouse</a></li>
-                    <li><a href="/tunic/knowledge-base.html">Tunic</a></li>
-                </ul>
-            </li>
-            
-            <li>
-                
-                <div class="bird">
+                <div class="usefulLnkSecWrapper">
+                    <div class="usefulLnkSec">
+                        <h2>
+                            <div class="foosocial">
+                                <ul>
+                                    <li class="hidden"><span>Find Cbazaar on</span></li>
+                                    <li class="last"><a href="https://www.facebook.com/cbazaar" target="_blank" rel="nofollow" title="Share on Facebook" class="fb">Facebook</a></li>
+                                    <li class="last"><a href="http://twitter.com/cbazaarfashion/" target="_blank" rel="nofollow" title="Share on Twitter" class="tw">Twitter</a></li>
+                                    <li class="last"><a href="http://pinterest.com/cbazaar/" target="_blank" class="pinit" rel="nofollow" title="Cbazaar on Pinterest">Pinterest</a></li>
+                                    <li class="last"><a href="http://www.youtube.com/cbazaarsarees" target="_blank" class="youtube" rel="nofollow" title="Cbazaar on Youtube">Youtube</a></li>
+                                    <li class="last"><a href="http://blog.cbazaar.com/" target="_blank" class="blog" rel="nofollow" title="Cbazaar Blog">Blog</a></li>
+                                    <li class="last"><a href="https://plus.google.com/u/0/109953755887406949617/about" target="_blank" class="gplus" rel="nofollow" title="Google+">Google+</a></li>
+                                </ul>
+                            </div>
+                            Useful links
+                        </h2>
+                        <ul>
+                            <li>
+                                <h3>Support</h3>
+                                <ul>
+                                    <li><a href="/contact-us.aspx" rel="nofollow" title="Contact Us">Contact Us</a></li>
+                                    <li><a href="/post-query.aspx" rel="nofollow" title="Feedback">Feedback</a></li>
+                                    <li><a href="/recommend-us.aspx" rel="nofollow" title="Recommend Us">Recommend Us</a></li>
+                                    <li><a rel="nofollow" id="hrefTrackOrder" oncontextmenu="return false;" title="Track Order">Track Order</a></li>
+                                    <li><a href="/faq.aspx?mode=FAQ" rel="nofollow" title="FAQ">FAQ</a></li>
+                                    <li><a href="/site-map.aspx" rel="nofollow" title="Sitemap">Sitemap</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Payments</h3>
+                                <ul>
+                                    <li><a href="/payment-options.aspx" rel="nofollow" title="Payment Options">Payment Options</a></li>
+                                    
+                                    <li><a href="/wire-transfer-details.aspx" rel="nofollow" title="Wire Transfer Details">Wire Transfer Details</a></li>
+                                    
+                                    <li><a href="/payment-secuirty.aspx" rel="nofollow" title="Payment Security">Payment
+                                    Security</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Policies</h3>
+                                <ul>
+                                    <li><a href="/shipping-policy.aspx" rel="nofollow" title="Shipping Policy">Shipping
+                                    Policy</a></li>
+                                    <li><a href="/return-policy.aspx" rel="nofollow" title="Return Policy">Return Policy</a></li>
+                                    <li><a href="/privacy-policy.aspx" rel="nofollow" title="Privacy Policy">Privacy Policy</a></li>
+                                    <li><a href="/terms-and-conditions.aspx" rel="nofollow" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                                    <li><a href="/copyrights.aspx" rel="nofollow" title="Copyrights">Copyrights</a></li>
+                                    <li><a href="/pricing-policy.aspx" rel="nofollow" title="Pricing Policy">Pricing Policy</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Bulk trade</h3>
+                                <ul>
+                                    <li><a href="http://wholesale.cbazaar.com/Registration.aspx?op=Add" title="Registration" target="_blank">Registration</a></li>
+                                    <li><a href="/bulk-trade-benefits.aspx" rel="nofollow" title="Bulk Trade Benefits &amp; Policies">Bulk Trade Benefits &amp; Policies</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                
+                                <h3>Cbazaar</h3>
+                                
+                                <ul>
+                                    <li><a href="/about-us.aspx" rel="nofollow" title="About Us">About Us</a> </li>
+                                    <li><a href="/request-product.aspx" rel="nofollow" title="Request a Product">Request
+                                    a Product</a></li>
+                                    <li><a href="/testimony.aspx" rel="nofollow" title="Testimonials">Testimonials</a></li>
+                                    <li><a href="/resources-1.html" title="Resources">Resources</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>
+                                    <a href="/knowledge-base.html" title="Knowledge base">Knowledge base</a></h3>
+                                <ul>
+                                    <li><a href="/saree/knowledge-base.html" title="Saree">Saree</a></li>
+                                    <li><a href="/salwar-kameez/knowledge-base.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                                    <li><a href="/readymade-kurti/readymade-kurtis/kb.html" title="Readymde Kurti">Readymade
+                                    Kurti</a></li>
+                                    <li><a href="/lehenga/lehanga-choli/kb.html" title="Lehenga">Lehenga</a></li>
+                                    <li><a href="/kurta-pyjama/kurta-pyjama/kb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
-                <h5 class="text-center">
-                    Follow Us</h5>
-                <div class="followus">
+                <div class="ftrSec">
+                    <p class="cpRight">
+                        <a href="http://www.cbazaar.com">
+                            www.cbazaar.com</a><span class="fooyear">©
+                            2013</span>
+                        
+                    </p>
+                    <div class="ico-payment" title="Secure Payment Options">
+                       </div>
                     
-                    <a href="https://www.facebook.com/cbazaar" target="_blank" rel="nofollow" class="ico-facebook" title="Fan us on facebook - cbazaar"></a>
-                    
-                    <a href="http://twitter.com/cbazaarfashion/" target="_blank" rel="nofollow" class="ico-twitter" title="Fan us on twitter - cbazaar"></a><a href="http://blog.cbazaar.com/" target="_blank" rel="nofollow" class="ico-blog" title="Cbazaar blog"></a><a href="http://www.youtube.com/cbazaarsarees" target="_blank" rel="nofollow" class="ico-youtube" title="Cbazaar in Youtube">
-                    </a><a href="http://feeds.feedburner.com/saree-salwar/" target="_blank" rel="nofollow" class="ico-rss" title="Latest products from cbazaar"></a><a href="http://pinterest.com/cbazaar/" target="_blank" rel="nofollow" class="ico-pinterest" title="Cbzaar in Pinterest">
-                        </a>
-                    
+                    <span class="fooadd" id="dvAddress"></span>
                 </div>
                 
-            </li>
-        </ul>
-        <div class="clear">
-        </div>
-    </div>
-    <div class="rights">
-        <div class="copy">
-            <span id="EsFooter1_lblCpyRights">© 2012 www.cbazaar.com</span></div>
-        <div class="mcafee">
-           <div id="mcafee"></div>
-        </div>
-        <div class="ico-payment">
-        </div>
-        <div class="clear">
-        </div>
-    </div>
-    
-</div>
-<!--END Footer-->
-<div id="EsFooter1_dvVisitedPrdsHistory" class="dvVisitedPrdsHistory">
-</div>
-<div style="display: none;" id="dvVisistedPrdHtryMax" class="dvVisistedPrdHtryMax" onclick="funShowHideVisitedPrdHtry('EsFooter1_dvVisitedPrdsHistory','Show');">
-    <p class="max">
-        Expand [+]</p>
-</div>
-
-<script language="javascript" type="text/javascript">
-    var strDomain = 'www.cbazaar.com';
-    var strEsId = '7';
-    var strUID = '';
-    var strUsrName = '';
-</script>
-
-<!--Start of Zopim Live Chat Script-->
-
-<script type="text/javascript">
-    window.$zopim || (function(d, s) {
-        var z = $zopim = function(c) { z._.push(c) }, $ = z.s =
-        d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function(o) {
-            z.set.
-        _.push(o)
-        }; z._ = []; z.set._ = []; $.async = !0; $.setAttribute('charset', 'utf-8');
-        $.src = '//cdn.zopim.com/?hNYCW8ZTs1TPyGl1S0R6xwFfb3AELCtD'; z.t = +new Date; $.
-        type = 'text/javascript'; e.parentNode.insertBefore($, e)
-    })(document, 'script');
-</script>
-
-<!--End of Zopim Live Chat Script-->
-
-
-<!--Start Of Barilliance script-->
-<script type="text/javascript">
-    var cbarProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
-    document.write(unescape("%3Cscript src='" + cbarProtocol + "s3.amazonaws.com/cdn.barilliance.com/cbazaar.com/cbar.js.php'  type='text/javascript'%3E%3C/script%3E"));    
-</script><script src="https://s3.amazonaws.com/cdn.barilliance.com/cbazaar.com/cbar.js.php" type="text/javascript"></script>
-<!--End Of Barilliance script-->
-
-
-<div id="divGetDomain" style="display: none">
-    <div class="chscurpop">
-        <div class="chscur-h">
-        </div>
-        <div class="chsoption">
-            <select class="con" id="ddlDomain">
-                <option value="www.cbazaar.com">USA &amp; Rest of World</option>
-                <option value="www.cbazaar.in">India</option>
-                <option value="www.cbazaarsarees.co.uk">UK &amp; Europe</option>
-                <option value="www.cbazaar.com.au">Australia</option>
-                <option value="www.cbazaar.co.nz">New Zealand</option>
-            </select>
-        </div>
-        <div class="chsbtm">
-            <div class="cbox">
-                <label>
-                    <input type="checkbox" id="chkRememberIp" checked="checked">Remember my destination</label>
+                
+                <script type="text/javascript">
+                    /* <![CDATA[ */
+                    var google_conversion_id = 1071453610;
+                    var google_conversion_label = "g4BuCLiT2gEQqqv0_gM";
+                    var google_custom_params = window.google_tag_params;
+                    var google_remarketing_only = true;
+                    var CLimit1 = '500';
+                    var CLimit2 = '8000';
+                    /* ]]> */
+                </script>
+                <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+                </script>
+                <noscript>
+                    <div style="display: inline;">
+                        <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071453610/?value=0&amp;label=g4BuCLiT2gEQqqv0_gM&amp;guid=ON&amp;script=0" />
+                    </div>
+                </noscript>
+                
+                
             </div>
-            <button type="button" class="btncontinue" id="btnContinue">
-            </button>
+            
+            <div class="ftrnavi">
+                <div class="ftrMsg">
+                    <div class="ftrleft">
+                        <h3>Hi! We'd like to set these regional settings for you</h3>
+                        <p id="paraRegion">Shipping Destination - United States, Currency - USD</p>
+                    </div>
+                    <div class="ftrright">
+                        <div class="conchkOutBtnsOuter">
+                            <div class="conchkOutBtns">
+                                <a class="regionBtn left"><span id="spnRegion" onclick="Helper.UserRegion('United States','USD','$')">Okay</span></a> <a href="/Resources/Widgets/user-region.htm" oncontextmenu="return false;" id="hrefFooterRegion" class="bigDarkGrey reset" rel="nofollow"><span>Change</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </footer>
+        
+        <script type="text/javascript">
+            _sokClient = '217'; //Change client id
+            var paramList = {};
+            (function (a) {
+                var doc = document,
+                                    script = doc.createElement("script"),
+                                    track = function () {
+                                        try {
+                                            sokrati.beaconParams("<PRODUCT CATEGORY>", "<ITEM ID>", a);
+                                        } catch (err) {
+                                            console.log("Error Caught err::" + err)
+                                        }
+                                    }, firstScriptTag = doc.getElementsByTagName("script")[0];
+                script.type = "text/javascript";
+                script.async = true;
+                if (script.onload === null) {
+                    script.onload = track
+                } else {
+                    if (script.readyState !== undefined) {
+                        script.onreadystatechange = function () {
+                            if (this.readyState === "loaded") {
+                                track()
+                            }
+                        }
+                    }
+                }
+                script.src = (("https:" == document.location.protocol) ? "https:" : "http:") + "//tracking.sokrati.com/javascripts/tracker.js";
+                firstScriptTag.parentNode.insertBefore(script, firstScriptTag)
+            })(paramList);
+        </script>
+        
+        <script language="javascript" type="text/javascript">
+            var gStrApiBasePath = '/nat/api/nat.svc';
+            var gStrCurrency = 'USD';
+            var gStrSessionID = 'f4cefa75-d8fd-4fe4-9c61-6fe8ed568579';
+            var gEsId = '7';
+            var gUserId = '0';
+            var gDomain = 'www.cbazaar.com';
+            var gGCS = '006402942903749984215:jxbtjg4ea7w';
+            var gInDomain = '|new.cbazaar.in|www.cbazaar.in|'
+            var gClientAccessPointId = 'WEB02';
+            var gAccessPointEnable = 'true';
+            var gUserName = '';
+            var gUserLoginId = '';
+            var unbxdUrl = 'http://u773651887-cbazaar-com-aa9cbc5f95c3cae41dc27e994492023a.search.unbxdapi.com/5fb8e2c7d00889c87d819f2efeb5f903/';
+            var gStrShipCountryCode = '';
+            var gImageUrl = 'http://images.cbazaar.com/images/';
+            var gLeggings = 'KRFREELEGGING';
+        </script>
+        
+        
+        <div class="livechat2" id="LP_DIV_1354250652617">
         </div>
-    </div>
-</div>
-
-
-<script type="text/javascript">
-    $j(document).ready(function() {
-        var s = funGetFBCookie("EsIp");
-        if ((window.location.href).indexOf(s) > -1) {
-        }
-        else if (s != "0" && s != "1" && s != undefined) {
-            if ((window.location.pathname).indexOf(".html") > -1)
-                window.location.href = "http://" + s + window.location.pathname + "?q=cbazaar";
-            else
-                window.location.href = "http://" + s + "/default.aspx?q=cbazaar";
-        }
-    });
-    function funGetFBCookie(name) {
-        var vFBCookie = document.cookie.split(";");
-        var c_value;
-        for (i = 0; i < vFBCookie.length; i++) {
-            if (vFBCookie[i].indexOf(name) > -1) {
-                c_value = vFBCookie[i].substr(vFBCookie[i].indexOf("=") + 1);
+        <script type="text/javascript">
+            if (window.location.href.indexOf('default.aspx') < 0 && window.location.href != window.location.protocol + "//" + window.location.hostname + "/") {
+                window.lpTag = { site: '82357780', _v: '1.1', protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn); }); }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json); }); } }, defer: function (fn) { this._defL = this._defL || []; this._defL.push(fn); }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id); }, 0); }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site; } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id); } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s); }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady'); }); } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady'); }, false); window.addEventListener('load', function () { that._domReady('domReady'); }, false); } if (typeof (window._lptStop) == 'undefined') { this.load(); } }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }); } this._timing[n] = (new Date()).getTime(); } }; lpTag.init();
             }
-        }
-        return c_value;
-    }
-</script>
-
-
-<!--Start Of Sokrati script-->
-
-
-<script type="text/javascript">
-    <!--
-    _sokClient = '217';    
-    //-->
-</script>
-
-
-
-<script type="text/javascript">
-    var protocol = ("https:" == document.location.protocol) ? "https:" : "http:";
-    var sokratiJS = protocol + '//tracking.sokrati.com/javascripts/tracker.js';
-    document.write(unescape("%3Cscript src='" + sokratiJS + "' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://tracking.sokrati.com/javascripts/tracker.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-    var paramList = {};
-</script>
-
-<script type="text/javascript">
-    try { sokrati.beaconParams("default", "default", paramList); }
-    catch (err) { }
-</script>
-
-
-<!--End Of Sokrati script-->
-
-
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1071453610;
-    var google_conversion_language = "en";
-    var google_conversion_format = "2";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = '25MZCJi92QEQqqv0_gM';
-    var google_conversion_value = 0;
-    /* ]]> */
-</script>
-
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-
-<noscript>
-    <div style="display: inline;">
-        <img height="1" width="1" style="border-style: none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071453610/?label=25MZCJi92QEQqqv0_gM&amp;guid=ON&amp;script=0" />
-    </div>
-</noscript>
-
-<script type="text/javascript">
-    adroll_adv_id = "RS7IF66PHFH35C4UCKDRUX";
-    adroll_pix_id = "XAJ6W4PH6ZAVVGHEW7EFCL";
-    (function() {
-        var oldonload = window.onload;
-        window.onload = function() {
-            __adroll_loaded = true;
-            var scr = document.createElement("script");
-            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-            scr.setAttribute('async', 'true');
-            scr.type = "text/javascript";
-            scr.src = host + "/j/roundtrip.js";
-            ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-            if (oldonload) { oldonload() } 
-        };
-    } ());
-</script>
-
-                <img src="http://www.cbazaar.com/image/EsProgramingImage.jpg" alt="" title="" onload="funShowSmartSearch('USD');">
-            </div>
-        </div>
+        </script>
+        <input name="ctl00$hdnUNBXDAPIURL" type="hidden" id="hdnUNBXDAPIURL" value="http://u773651887-cbazaar-com-aa9cbc5f95c3cae41dc27e994492023a.search.unbxdapi.com/5fb8e2c7d00889c87d819f2efeb5f903/">
+        
+    </form>
     
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
+    
+    <a class="feedbackform" href="#surveyMonkeyInfo"></a>
+    <div class="dnone">
+        <div id="surveyMonkeyInfo">
+            <div class="surveyMonkeyweblink">
+            </div>
+            Create your <a href="https://www.surveymonkey.com/">free online surveys</a> with
+            SurveyMonkey, the world's leading questionnaire tool.
+            <img src="/Resources/PL_Images/trans.gif" alt="Cbazaar" height="1" width="1">
+        </div>
+    </div>
+    
+    
+    
+    <script type="text/javascript">
+        var cbarProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+        document.write(unescape("%3Cscript src='" + cbarProtocol + "s3.amazonaws.com/cdn.barilliance.com/cbazaar.com/cbar.js.php'  type='text/javascript'%3E%3C/script%3E"));    
+    </script><script src="https://s3.amazonaws.com/cdn.barilliance.com/cbazaar.com/cbar.js.php" type="text/javascript"></script>
+    
+    
+    <script type="text/javascript">
+        adroll_adv_id = "RS7IF66PHFH35C4UCKDRUX";
+        adroll_pix_id = "XAJ6W4PH6ZAVVGHEW7EFCL";
+        (function () {
+            var oldonload = window.onload;
+            window.onload = function () {
+                __adroll_loaded = true;
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if (oldonload) { oldonload() }
+            };
+        } ());
+    </script>
+    
+    <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9639.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script>
+    
+    <script type="text/javascript">
+        if (document.location.protocol == 'http:') {
+            var Tynt = Tynt || []; Tynt.push('dOE0gKw-4r4Rw2acwqm_6l');
+            (function () { var s = document.createElement('script'); s.async = "async"; s.type = "text/javascript"; s.src = 'http://tcr.tynt.com/ti.js'; var h = document.getElementsByTagName('script')[0]; h.parentNode.insertBefore(s, h); })();
+        }
+    </script>
+    
+    <script id="tplPopUpCart" type="text/x-jquery-tmpl">
+        <li>
+            <img src="${gImageUrl}${PrdImg}" width="60" height="60" />
+            <div class="txtour">
+                <h2>${PrdDesc} ${PrdGenDtl}
+                </h2>
+                <div class='perouter'>
+                    <span class='pdrcodeh3'>${PrdCode}</span>
+                    {{if PrdDiscPercentage!='0'}}  
+                        <div class='peroff'><span>${PrdDiscPercentage}% <i>off</i></span></div>
+                    {{/if}}
+                    <span class="delete">
+                        <a onclick="Helper.RemoveCart(${PrdCartId});" title='Remove Item'>Delete</a>
+                    </span>
+                </div>
+            </div>
+            <div class="txtour3">
+                <span style="display: none">{{if (PrdAvailQty == 1 && PrdQty == 1) || (PrdCode == 'CBZGV01' || PrdTypeSCode == 'WSP')}}
+                ${( $data.Edit = 'display:none')}               
+                {{else}}
+                ${( $data.Edit = 'display:block')}               
+                {{/if}}
+                </span>
+                {{if (PrdAvailQty== 1 && PrdQty == 1) || (PrdCode == 'CBZGV01' || PrdTypeSCode == 'WSP')}}
+               <div class="qty">${PrdQty}</div>
+                {{else}}
+                <div class="qty">
+                    ${PrdQty} <span title='Edit Quantity' class="EditQty" onclick="Helper.EditQtyInCart(${PrdCartId},this,${PrdAvailQty},${PrdQty});">Edit</span><select rel="${PrdQty}" style="${Edit}" alt="${PrdAvailQty}" class="ddlAvailQty" id="${PrdCartId}"></select><img id="imgCartLoader" style="display: none;" src="/Resources/PL_Images/zoomloader.gif" />
+                    {{/if}}            
+                </div>
+            </div>
+            <div class="txtour2">
+                <div class="price">
+                    <i class="cursymb"></i>${PrdAmount}
+                </div>
+            </div>
+        </li>
+    </script>
+    <script id="tblOutOfStockCart" type="text/x-jquery-tmpl">
+        <li>
+            <img src='${gImageUrl}${PrdImg}' width="60" height="60" />
+            <div class="txtour">
+                <h2>${PrdDesc} ${PrdGenDtl}
+                </h2>
+                <div class='perouter'>
+                    <span>${PrdCode}
+                    </span>
+                    <span class="delete">
+                        <a onclick="Helper.RemoveCart(${PrdCartId});" title='Remove Item'>Delete</a>
+                    </span>
+                </div>
+            </div>
+            <div class="txtour3">
+                <div class="qty">${PrdQty}</div>
+            </div>
+            <div class="txtour2">
+                <div class="price">
+                    <i class="cursymb"></i>${PrdAmount}
+                </div>
+            </div>
+            <div>
+                <span class="outofstock" style="color: red; font-weight: bold;">Out of Stock</span>
+            </div>
+        </li>
+    </script>
 
 
 </body></html>
