@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payproglobal.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914232707id_/https%3A//www.payproglobal.com/Legal/privacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payproglobal.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420075848id_/https%3A//www.payproglobal.com/Legal/privacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy policy 1. PayPro Privacy Statement Your privacy is important to us - we would like to insure that you have a positive buying experience in our store and hope to be able to welcome you back many times. We have created a set of privacy rules for us and our suppliers in order to guarantee you maximum privacy when shopping at PayPro
 
