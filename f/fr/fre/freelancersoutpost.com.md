@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancersoutpost.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010125715id_/http%3A//www.freelancersoutpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancersoutpost.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420070521id_/http%3A//www.freelancersoutpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Freelancers Outpost
 
