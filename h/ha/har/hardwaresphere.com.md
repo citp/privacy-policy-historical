@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015120212id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420084949id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Hardware Sphere
 
@@ -32,11 +32,15 @@ We also use third-party advertising companies to serve ads from Networkadvertisi
 
 ### More about cookies
 
- **Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.**
+**Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.**
 
- **You can find out more information about advertising cookies and how you can disable them over at the[your online choices](http://www.youronlinechoices.com/uk/about-behavioural-advertising) website.**
+ **
 
- **You can also change your preferences in your web browser to control cookies for the websites you visit, how this is done varies on your individual browser, please refer to your browser help section for more information on how this can be done.**
+You can find out more information about advertising cookies and how you can disable them over at the [your online choices](http://www.youronlinechoices.com/uk/about-behavioural-advertising) website.
+
+**
+
+**You can also change your preferences in your web browser to control cookies for the websites you visit, how this is done varies on your individual browser, please refer to your browser help section for more information on how this can be done.**
 
 Updated on April 2012 to comply with the new UK privacy policies, you can find more details about the new UK and EU cookie law over at the [Information Commissioners Office](http://www.ico.gov.uk/news/blog/2012/updated-ico-advice-guidance-e-privacy-directive-eu-cookie-law.aspx).
 
