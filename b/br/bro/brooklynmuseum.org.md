@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065657id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420180204id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
 
 # Brooklyn Museum: About: Privacy Policy
 
 The Brooklyn Museum is deeply committed to safeguarding your privacy online. We do not collect personally identifiable information about individuals—such as names and postal and/or email addresses—except when it is knowingly provided by said individuals. This Privacy Policy only applies to transactions made and data gathered on the brooklynmuseum.org website and does not apply to any other website. The terms of this Privacy Policy shall govern all interactions with the Museum through either the Museum's website or email. By using the Museum's website or communicating with the Museum by email, you agree to the terms of this Privacy Policy. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement.
+
+During the _John Singer Sargent Watercolors_ exhibition we are using personalized ads to feature the benefits of Membership with the Museum on websites that you may be browsing. No personal information of any kind will be shared with any of the sites we advertise on, nor will we collect personal information to serve these ads to you. If you'd prefer not to see these ads, please consider [opting](http://join.brooklynmuseum.org/optout.html)[ out](http://join.brooklynmuseum.org/optout.html).
 
 **When You Register**  
 You may use the Brooklyn Museum's website without registering or submitting any personally identifiable information. However, in order to have access to certain options, such as our Commentary Feature (The Posse) and the Museum's email newsletters, you must register with us online.
@@ -48,7 +50,7 @@ Unless otherwise noted, all content copyright © 2004 the Brooklyn Museum. Some 
 
 Copyright and other proprietary rights may be held by individuals or entities other than, or in addition to, the Brooklyn Museum. The Museum does not warrant that the use of materials displayed on this website will not infringe on the rights of third parties, such as artists or artists' heirs holding the rights to these works. For works of art from other museums, institutions, or owners reproduced on this site, contact the institution or owners credited in the work's caption.
 
-See [Image Services](https://web.archive.org/web/20121014065657id_/http%3A//www.brooklynmuseum.org/image_services.php) for information on licensing text or images for reproduction.
+See [Image Services](https://web.archive.org/web/20130420180204id_/http%3A//www.brooklynmuseum.org/image_services.php) for information on licensing text or images for reproduction.
 
 The Brooklyn Museum may revise its Privacy Policy at any time. We encourage you to visit this page periodically to review our current policy so that you will always know what information we gather and how we may use that information.
 
