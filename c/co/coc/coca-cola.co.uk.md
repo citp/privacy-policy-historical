@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the coca-cola.co.uk privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211045035id_/http%3A//www.coca-cola.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-cola.co.uk privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420110119id_/http%3A//www.coca-cola.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Coca-Cola GB
 
 **General**
 
-Beverage Services Limited (trading as Coca‑Cola Great Britain) respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information Coca‑Cola Great Britain may collect and how we may use that information.
+Beverage Services Limited (trading as Coca-Cola Great Britain) respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information Coca-Cola Great Britain may collect and how we may use that information.
 
  **Personal Data**
 
-Coca‑Cola Great Britain will not collect any personally-identifiable information about you (e.g. your name, address, telephone number or email address ("personal data") through our websites unless you have provided it to us voluntarily. If you do not want your personal data collected, please do not submit it to us.
+Coca-Cola Great Britain will not collect any personally-identifiable information about you (e.g. your name, address, telephone number or email address ("personal data") through our websites unless you have provided it to us voluntarily. If you do not want your personal data collected, please do not submit it to us.
 
 When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise:
 
@@ -25,7 +25,7 @@ We do not now and do not intend to sell, rent or market personal data about you 
 
 We do not now and do not intend to sell, rent or market personal data about you to third parties.
 
-Parents should be aware that Coca‑Cola Great Britain's Privacy Policy will govern our use of personal data, but that information which is voluntarily given by children - or others - in chat sessions, email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail. Coca‑Cola Great Britain encourages all parents to instruct their children in the safe and responsible use of their personal data while using the Internet.
+Parents should be aware that Coca-Cola Great Britain's Privacy Policy will govern our use of personal data, but that information which is voluntarily given by children - or others - in chat sessions, email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail. Coca-Cola Great Britain encourages all parents to instruct their children in the safe and responsible use of their personal data while using the Internet.
 
  **Additional Information Collected Automatically**
 
