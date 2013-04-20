@@ -1,113 +1,236 @@
-> *The following text is extracted and transformed from the etouches.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605040919id_/https%3A//www.etouches.com/etouches_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etouches.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420121428id_/https%3A//www.eiseverywhere.com/docs/3864/etouchesPrivacyPolicy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy – etouches -etouches
+# etouches, Inc. Privacy Policy
 
-### Our commitment to privacy
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-### Who we are
-
-etouches is incorporated in the state of Delaware.
-
-### The etouches website
-
-This notice applies to all information collected or submitted on the etouches website (www.etouches.com).
-
-### The information we collect
-
-On some pages, you can make requests, and register to receive materials. The types of personal information collected at these pages are:
-
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Other information, from time to time
-
-
-
-### The way we use information
-
-You can register with our website if you would like to receive updates on our new products and services. We use phone numbers and email addresses to contact you. Such addresses are not used for any other purpose and are not shared with outside parties. We do not use any tracking technology on our website to record your visit so, unless you register for product or service updates as described above, no information about you will be stored. If you wish to review, change or delete any of the information that you have entered, please contact us at [privacy@etouches.com](mailto:privacy@etouches.com).
-
-### The etouches event management system
-
-This notice applies to all information collected or submitted on event registration sites which are powered by etouches.
-
-### The information we collect
-
-On some pages, you will be asked to fill in personal information and credit card data in order to register and pay for attendance at an event being run by an etouches client. The types of personal information collected at these pages are:
-
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Conference/Event Preferences
-  * Credit card details
-  * Other information
+	  
+                                                                              	  
+                                                                              	  
+                                            etouches,	  Inc.	  	  Privacy	  Policy	  
+Effective	  Date:	  December	  26,	  2012	  
+This	  privacy	  policy	  applies	  to	  etouches,	  Inc.	  (“etouches”)	  and	  covers	  the	  site,	  
+www.etouches.com	  corporate	  site	  and	  www.eiseverywhere.com	  application.	  Because	  we	  want	  
+to	  demonstrate	  our	  commitment	  to	  our	  users’	  privacy,	  we	  disclose	  the	  following	  information.	  
+                 1.	  What	  personally	  identifiable	  information	  etouches	  collects.	  
+                 2.	  What	  personally	  identifiable	  information	  third	  parties	  collect	  through	  the	  
+                 Web	  site.	  
+                 3.	  What	  organization	  collects	  the	  information.	  
+                 4.	  How	  etouches	  uses	  the	  information.	  
+                 5.	  With	  whom	  etouches	  may	  share	  user	  information.	  
+                 6.	  What	  choices	  are	  available	  to	  users	  regarding	  collection,	  use	  and	  
+                 distribution	  of	  the	  information.	  
+                 7.	  What	  types	  of	  security	  procedures	  are	  in	  place	  to	  protect	  the	  loss,	  misuse	  
+                 or	  alteration	  of	  information	  under	  etouches	  control.	  
+                 8.	  How	  users	  can	  correct	  any	  inaccuracies	  in	  the	  information.	  
+	  
+etouches,	  Inc.	  has	  been	  awarded	  TRUSTe's	  Privacy	  Seal	  signifying	  that	  this	  privacy	  policy	  and	  practices	  
+have	  been	  reviewed	  by	  TRUSTe	  for	  compliance	  with	  TRUSTe’s	  Program	  Requirements	  and	  the	  TRUSTed	  
+Cloud	  Program	  Requirements	  including	  transparency,	  accountability	  and	  choice	  regarding	  the	  collection	  
+and	  use	  of	  your	  personal	  information.	  TRUSTe's	  mission,	  as	  an	  independent	  third	  party,	  is	  to	  accelerate	  
+online	  trust	  among	  consumers	  and	  organizations	  globally	  through	  its	  leading	  privacy	  Trustmark	  and	  
+innovative	  trust	  solutions.	  If	  you	  have	  questions	  or	  complaints	  regarding	  our	  privacy	  policy	  or	  practices,	  
+please	  contact	  us	  at	  support@etouches.com.	  	  If	  you	  are	  not	  satisfied	  with	  our	  response	  you	  can	  contact	  
+TRUSTe	  here	  .	  
+	  
+The	  TRUSTe	  program	  covers	  our	  collection,	  use	  and	  disclosure	  of	  information	  we	  collect	  through	  our	  
+corporate	  website,	  www.etouches.com	  and	  our	  application,	  www.eiseverywhere.com.	  The	  use	  of	  
+information	  collected	  through	  our	  service	  shall	  be	  limited	  to	  the	  purpose	  of	  providing	  the	  service	  for	  
+which	  the	  Client	  has	  engaged	  etouches,	  Inc.	  
+	  
 
 
+etouches,	  Inc.	  complies	  with	  the	  U.S.	  –	  E.U.	  Safe	  Harbor	  framework	  and	  the	  U.S.	  -­‐	  Swiss	  Safe	  Harbor	  
+framework	  as	  set	  forth	  by	  the	  U.S.	  Department	  of	  Commerce	  regarding	  the	  collection,	  use,	  and	  
+retention	  of	  personal	  data	  from	  European	  Union	  member	  countries	  and	  Switzerland.	  etouches	  has	  
+certified	  that	  it	  adheres	  to	  the	  Safe	  Harbor	  Privacy	  Principles	  of	  notice,	  choice,	  onward	  transfer,	  security,	  
+data	  integrity,	  access,	  and	  enforcement.	  	  To	  learn	  more	  about	  the	  Safe	  Harbor	  program,	  and	  to	  view	  
+etouches’s	  certification,	  please	  visit	  http://www.export.gov/safeharbor/	  
+	  
+Information	  Collection	  and	  Use	  
+etouches	  is	  the	  sole	  owner	  of	  the	  infomation	  collected	  on	  our	  corporate	  web	  site,	  www.	  
+etouches.com.	  etouches	  collects	  information	  at	  several	  different	  points	  on	  our	  Web	  site.	  
+Information	  collected	  through	  our	  corporate	  site,	  such	  as	  name,	  address,	  and	  phone	  number,	  is	  
+only	  collected	  for	  purposes	  of	  engaging	  in	  a	  sales	  dialog	  per	  a	  prospect’s	  request.	  Information	  
+collected	  via	  the	  etouches	  application	  is	  collected	  on	  behalf	  of	  our	  customers	  for	  event	  
+registration	  or	  for	  users	  of	  the	  etouches	  administrative	  application.	  
+Certain	  modules	  of	  the	  etouches	  application	  allow	  the	  communication	  between	  direct	  users,	  
+however	  no	  end	  user	  details	  are	  shared	  unless	  explicitly	  requested	  to	  be	  so	  by	  both	  parties.	  
+Users	  have	  the	  option	  to	  participate	  in	  this	  activity	  for	  the	  purpose	  of	  contacting	  by	  email	  or	  
+regular	  mail.	  A	  user	  must	  provide	  the	  transaction	  information	  (account	  transactions),	  user's	  
+login	  information,	  user's	  identity	  certificate,	  user's	  employer,	  organization	  department	  user	  is	  
+employed,	  user's	  job	  title,	  user's	  home	  contact	  information,	  user's	  business	  contact	  information,	  
+business/organization	  name,	  department/division	  of	  business/organization	  and	  
+business/organization	  identity	  certificate.	  It	  is	  optional	  for	  the	  user	  to	  provide	  User's	  Identity	  
+Certificate,	  User's	  Employer,	  Organization	  Department	  User	  is	  Employed,	  User's	  Job	  Title,	  User's	  
+Home	  Contact	  Information,	  User's	  Business	  Contact	  Information,	  Business/Organization	  Name,	  
+Department/Division	  of	  Business/Organization	  and	  Business/Organization	  Identity	  Certificate.	  	  
+We	  encourage	  users	  to	  provide	  optional	  information	  so	  we	  can	  provide	  a	  more	  personalized	  
+experience	  on	  our	  site.	  The	  reason	  we	  use	  this	  information	  is	  to	  complete	  the	  current	  
+transaction,	  contact	  by	  email	  or	  regular	  mail	  and	  understand	  your	  interests.	  	  
 
-### The way we use information
 
-The etouches Event Management System service collects event attendee preferences, travel and enrollment information from a secure online registration site for our clients. This information is provided only to the client who has organized the conference or event for use in managing the event. etouches in no way uses or distributes any attendee data to any third parties. We do not use any additional tracking technology on our registration sites to record your visit. However, as part of the registration process, as soon as you enter an email address any further personal information that you enter will be stored, even if you do not complete the registration process. If you wish to review, change or delete any of the information that you have entered, please contact that event organizer in the first instance. If you are unable to resolve your issue in this way, please contact us at [privacy@etouches.com](mailto:privacy@etouches.com).
+Tracking	  Technologies	  
+Cookies	  
+A	  cookie	  is	  a	  small	  text	  file	  that	  is	  stored	  on	  a	  user’s	  computer	  for	  record-­‐keeping	  purposes.	  We	  do	  not	  
+link	  the	  information	  we	  store	  in	  cookies	  to	  any	  personally	  identifiable	  information	  you	  submit	  while	  on	  
+our	  site.	  	  
+	  
+etouches	  uses	  the	  following	  cookies:	  	  
+        •      ARPT,	  used	  to	  work	  out	  which	  of	  our	  servers	  to	  server	  your	  content	  from	  
+        •      PHPSESSID,	  used	  to	  remember	  your	  session	  when	  using	  the	  administrative	  part	  of	  our	  
+               tool.	  
+        •      regtoken,	  used	  to	  remember	  your	  session	  when	  registering	  for	  an	  event	  in	  the	  front	  end	  
+               part	  of	  our	  tool.	  
+        •      connect_token,	  used	  to	  remember	  your	  session	  when	  using	  eSocial	  in	  the	  front	  end	  of	  
+               our	  tool.	  
+        •      surtoken,	  used	  to	  remember	  your	  session	  when	  completing	  a	  survey	  
+        •      cart[sessionid],	  used	  to	  remember	  any	  sessions	  you	  add	  to	  your	  shopping	  cart	  in	  eHome	  
+All	  of	  these	  cookies	  expire	  at	  the	  end	  of	  your	  session.	  
 
-### Our commitment to data security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are fully compliant with the US Department of Commerce “Safe Harbor” initiative (as described below) outlining appropriate use and storage of personal data for both US and European standards. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Third	  Party	  Cookies	  
+The	  use	  of	  cookies	  by	  third	  parties	  is	  not	  covered	  by	  our	  privacy	  policy.	  	  We	  do	  not	  have	  access	  or	  
+control	  over	  these	  cookies.	  	  	  
+Clear	  Gifs	  (Web	  Beacons/Web	  Bugs)	  
+Our	  third	  party	  partners	  employ	  clear	  gifs	  (a.k.a.	  Web	  Beacons/Web	  Bugs),	  images,	  and	  scripts	  that	  help	  
+them	  better	  manage	  content	  on	  our	  site.	  We	  do	  not	  tie	  the	  information	  gathered	  to	  our	  Customers’	  or	  
+Users’	  personally	  identifiable	  information.	  
+	  
+Profiles	  
+etouches	  uses	  Website	  data	  to	  create	  a	  profile	  of	  our	  users.	  A	  profile	  is	  stored	  information	  that	  
+we	  keep	  on	  individual	  users	  that	  details	  their	  viewing	  preferences.	  Consequently,	  collected	  
+information	  is	  tied	  to	  the	  users	  personally	  identifiable	  information	  to	  provide	  offers	  and	  
+improve	  the	  content	  of	  the	  site	  for	  the	  user.	  This	  profile	  is	  used	  to	  tailor	  a	  user's	  visit	  to	  our	  
+Web	  site,	  and	  to	  direct	  pertinent	  marketing	  promotions	  to	  them.	  	  
+Communications	  from	  the	  Site	  
+When	  customers	  provide	  us	  contact	  information	  for	  Website	  (user	  participation	  is	  voluntary)	  
+we	  use	  the	  information	  to	  contact	  the	  user	  to	  deliver	  sales	  and	  product	  information	  that	  will	  be	  
+useful	  to	  them.	  
+You	  may	  choose	  to	  stop	  receiving	  our	  newsletter	  or	  marketing/product	  emails	  by	  following	  the	  
+unsubscribe	  instructions	  included	  in	  these	  emails	  or	  you	  can	  contact	  us	  at	  support@etouches.com.	  
 
-### EU safe harbor privacy statement
 
-### General information
+Sharing	  Information	  
+	  
+We	  may	  provide	  your	  personal	  information	  to	  companies	  that	  provide	  services	  to	  help	  us	  with	  our	  
+business	  activities	  such	  as	  payment	  processing	  or	  offering	  customer	  support.	  These	  companies	  are	  
+authorized	  to	  use	  your	  personal	  information	  only	  as	  necessary	  to	  provide	  these	  services	  to	  us.	  
+	  
+We	  will	  share	  your	  personal	  information	  with	  third	  parties	  only	  in	  the	  ways	  that	  are	  described	  in	  this	  
+privacy	  statement.	  	  
+	  
+We	  may	  also	  disclose	  your	  personal	  information	  	  
+              •   as	  required	  by	  law,	  such	  as	  to	  comply	  with	  a	  subpoena,	  or	  similar	  legal	  process	  	  
+              •   when	  we	  believe	  in	  good	  faith	  that	  disclosure	  is	  necessary	  to	  protect	  our	  rights,	  protect	  your	  
+                  safety	  or	  the	  safety	  of	  others,	  investigate	  fraud,	  or	  respond	  to	  a	  government	  request,	  
+              •   if	  etouches	  is	  involved	  in	  a	  merger,	  acquisition,	  or	  sale	  of	  all	  or	  a	  portion	  of	  its	  assets,	  	  you	  
+                  will	  be	  notified	  via	  email	  and/or	  a	  prominent	  notice	  on	  our	  Web	  site	  of	  any	  change	  in	  
+                  ownership	  or	  uses	  of	  your	  personal	  information,	  as	  well	  as	  any	  choices	  you	  may	  have	  
+                  regarding	  your	  personal	  information,	  	  	  
+              •   to	  any	  other	  third	  party	  with	  your	  prior	  consent	  to	  do	  so	  
+	  
+Personally	  Identifiable	  Information	  
+Personally	  identifiable	  information	  is	  not	  shared	  with	  any	  third	  parties.	  
+Aggregate	  Information	  (non-­‐personally	  identifiable)	  
+Information	  collected	  for	  Website	  is	  not	  shared	  with	  any	  third	  parties.	  	  
 
-This section describes how we collect, use, and disclose EU personal information, which is certain personally identifiable information that we receive in the United States about individuals resident in the European Union. We comply with the US-EU Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce, with respect to the collection, use, and retention of data from the EU. Compliance with the Principles may be limited, however in certain cases to the extent necessary to meeting national security, public interest or law enforcement requirements. For further background and information about the EU Safe Harbor, please refer to the U.S. Department of Commerce’s website at http://export.gov/safeharbor.
 
-### Notice
+Information	  Related	  to	  Data	  Collected	  
+through	  the	  etouches	  Application	  
+etouches	  collects	  information	  under	  the	  direction	  of	  its	  Clients,	  and	  has	  no	  direct	  relationship	  with	  the	  
+individuals	  whose	  personal	  data	  it	  processes.	  etouches	  works	  with	  its	  Clients	  to	  help	  them	  provide	  
+notice	  to	  their	  customers	  concerning,	  the	  purpose	  for	  which	  personal	  information	  is	  collected.	  
+We	  collect	  information	  for	  our	  clients,	  if	  you	  are	  a	  customer	  of	  one	  of	  our	  Clients	  and	  would	  no	  longer	  
+like	  to	  be	  contacted	  by	  one	  of	  our	  Clients	  that	  use	  our	  service,	  please	  contact	  the	  client	  that	  you	  interact	  
+with	  directly.	  
+We	  may	  transfer	  personal	  information	  to	  companies	  that	  help	  us	  provide	  our	  service.	  Transfers	  to	  
+subsequent	  third	  parties	  are	  covered	  by	  the	  provisions	  in	  this	  Policy	  regarding	  notice	  and	  choice	  and	  the	  
+service	  agreements	  with	  our	  Clients.	  
+	  
+We	  have	  no	  direct	  relationship	  with	  the	  individuals	  whose	  personal	  data	  it	  processes.	  An	  individual	  who	  
+seeks	  access,	  or	  who	  seeks	  to	  correct,	  amend,	  or	  delete	  inaccurate	  data	  should	  direct	  his	  query	  to	  the	  
+etouches’s	  Client	  (the	  data	  controller).	  If	  the	  Client	  requests	  us	  to	  remove	  the	  data,	  we	  will	  respond	  to	  
+their	  request	  within	  30	  business	  days.	  	  
+	  
+We	  will	  retain	  personal	  data	  we	  process	  on	  behalf	  of	  our	  Clients	  for	  as	  long	  as	  needed	  to	  provide	  
+services	  to	  our	  Client.	  We	  will	  retain	  and	  use	  this	  personal	  information	  as	  necessary	  to	  comply	  with	  our	  
+legal	  obligations,	  resolve	  disputes,	  and	  enforce	  our	  agreements.	  
+	  
+	  
+Tell-­‐A-­‐Friend	  
+	  
+If	  you	  choose	  to	  use	  our	  referral	  service	  to	  tell	  a	  friend	  about	  our	  site,	  we	  will	  ask	  you	  for	  your	  friend’s	  
+name	  and	  email	  address.	  	  We	  will	  automatically	  send	  your	  friend	  a	  one-­‐time	  email	  inviting	  him	  or	  her	  to	  
+visit	  the	  site.	  	  etouches	  stores	  this	  information	  for	  the	  sole	  purpose	  of	  sending	  this	  one-­‐time	  email	  and	  
+tracking	  the	  success	  of	  our	  referral	  program.	  	  	  
 
-We collect personal information from you via etouches websites and etouches-Powered registration sites for the purposes of (a) providing etouches Services; (b) facilitating communications between you and third parties; (c) our marketing activities; and (d) all credit and other financial checks in relation to any payments made by you for etouches Services.
 
-We may disclose personal information to third parties when such disclosure is necessary or appropriate for the provision of services to our clients or otherwise for the operation of our business. We may also disclose personal information to third parties in circumstances described in the “Onward Transfer to Third Parties” section below.
+Your	  friend	  may	  contact	  us	  at	  support@etouches.com	  to	  request	  that	  we	  remove	  this	  information	  from	  
+our	  database.	  
+	  
+Blog	  
+	  
+Our	  Web	  site	  offers	  publicly	  accessible	  blogs	  or	  community	  forums.	  You	  should	  be	  aware	  that	  any	  
+information	  you	  provide	  in	  these	  areas	  may	  be	  read,	  collected,	  and	  used	  by	  others	  who	  access	  them.	  To	  
+request	  removal	  of	  your	  personal	  information	  from	  our	  blog	  or	  community	  forum,	  contact	  us	  at	  
+support@etouches.com.	  	  In	  some	  cases,	  we	  may	  not	  be	  able	  to	  remove	  your	  personal	  information,	  in	  
+which	  case	  we	  will	  let	  you	  know	  if	  we	  are	  unable	  to	  do	  so	  and	  why.	  
+	  
+Social	  Media	  Features	  &	  Widgets	  
+	  
+Our	  Web	  site	  includes	  Social	  Media	  Features,	  such	  as	  the	  Facebook	  Like	  button	  and	  Widgets,	  such	  as	  the	  
+Share	  this	  button	  or	  interactive	  mini-­‐programs	  that	  run	  on	  our	  site.	  These	  Features	  may	  collect	  your	  IP	  
+address,	  which	  page	  you	  are	  visiting	  on	  our	  site,	  and	  may	  set	  a	  cookie	  to	  enable	  the	  Feature	  to	  function	  
+properly.	  Social	  Media	  Features	  and	  Widgets	  are	  either	  hosted	  by	  a	  third	  party	  or	  hosted	  directly	  on	  our	  
+Site.	  Your	  interactions	  with	  these	  Features	  are	  governed	  by	  the	  privacy	  policy	  of	  the	  company	  providing	  
+it.	  	  
+	  
+	  
+Links	  to	  Other	  Websites	  
+	  
+Our	  Site	  includes	  links	  to	  other	  Web	  sites	  whose	  privacy	  practices	  may	  differ	  from	  those	  of	  etouches.	  If	  
+you	  submit	  personal	  information	  to	  any	  of	  those	  sites,	  your	  information	  is	  governed	  by	  their	  privacy	  
+statements.	  We	  encourage	  you	  to	  carefully	  read	  the	  privacy	  statement	  of	  any	  Web	  site	  you	  visit.	  
 
-Any complaints or questions should be first sent to us by email at [privacy@etouches.com](mailto:privacy@etouches.com). We will respond to personal information change requests within 30 days of receiving such requests.
 
-When we receive personal information from the EU merely for processing purposes and do not control the collection of the personal information, we may not provide notification of this EU Safe Harbor Privacy Statement to you. In such event, we reserve the right to process personal information in the course of providing etouches Services to our clients or otherwise for the operation of our business without your knowledge.
+	  
+Data	  Security	  
+etouches	  has	  physical	  security	  in	  our	  facilities	  to	  protect	  against	  the	  loss,	  misuse,	  or	  alteration	  
+of	  information.	  Our	  company	  uses	  secure	  encryption	  technology	  (secure	  socket	  connection)	  for	  
+all	  sensitive	  financial	  or	  health	  data	  transmitted	  on	  our	  site.	  
+We	  follow	  generally	  accepted	  standards	  to	  protect	  the	  personal	  information	  submitted	  to	  us,	  both	  
+during	  transmission	  and	  once	  we	  receive	  it.	  	  No	  method	  of	  transmission	  over	  the	  Internet,	  or	  method	  of	  
+electronic	  storage,	  is	  100%	  secure,	  however.	  	  Therefore,	  we	  cannot	  guarantee	  its	  absolute	  security.	  If	  
+you	  have	  any	  questions	  about	  security	  on	  our	  Web	  site,	  you	  can	  contact	  us	  at	  support@etouches.com.	  
+Correcting,	  Updating,	  Deleting,	  
+Deactivating	  Personal	  Information	  
+If	  a	  user's	  personally	  identifiable	  information	  changes	  such	  as	  zip	  code,	  phone,	  email	  or	  postal	  
+address,	  they	  can	  change	  online,	  physical	  contact,	  and	  other	  information	  by	  logging	  into	  their	  
+account	  or	  by	  contacting	  us	  with	  any	  of	  the	  information	  in	  the	  Contact	  section.	  If	  a	  user	  wishes	  
+to	  correct/update	  information	  or	  no	  longer	  desires	  our	  service,	  they	  can	  notify	  us	  of	  what	  they	  
+desire	  by	  contacting	  us	  using	  any	  of	  the	  information	  in	  the	  Contact	  section	  of	  this	  policy.	  
+We	  will	  retain	  your	  information	  for	  as	  long	  as	  your	  account	  is	  active	  or	  as	  needed	  to	  provide	  you	  services.	  
+We	  will	  retain	  and	  use	  your	  information	  as	  necessary	  to	  comply	  with	  our	  legal	  obligations,	  resolve	  
+disputes,	  and	  enforce	  our	  agreements.	  
+Changes	  to	  the	  Privacy	  Statement	  
+The	  information	  you	  submit	  to	  us	  is	  controlled	  by	  the	  privacy	  policy	  in	  effect	  at	  the	  time	  you	  
+submit	  it.	  If	  we	  significantly	  change	  our	  policy,	  we	  will	  post	  a	  notice	  in	  a	  conspicuous	  place	  on	  
+our	  website	  notifying	  visitors	  of	  policy	  changes.	  If	  we	  make	  any	  material	  changes,	  we	  will	  also	  
+post	  a	  notice	  on	  our	  website	  prior	  to	  the	  change	  becoming	  effective.	  
+Contact	  Information	  
+Using	  the	  following	  information,	  you	  can	  contact	  us	  if	  you	  have	  questions	  about	  our	  privacy	  
+policy.	  
+	  	         etouches	  
+	  	         13	  Marshall	  Street	  
+	  	         Norwalk,	  CONNECTICUT	  06854	  
+	  	         USA	  
 
-### Choice
 
-Except as provided below, we give you the opportunity to opt out from allowing us to disclose personal information to a third party or to use it for a purpose incompatible with the purpose for which it was originally collected. For sensitive personal information, we require you to affirmatively opt in and give consent if the data is to be disclosed to a third party or used for a purpose other than its original purpose.
-
-If you wish to opt-out you should contact us by email at [privacy@etouches.com](mailto:privacy@etouches.com). If we wish to collect sensitive personal information you will be advised of how to opt in and give the required consent at the time the data is collected, if the data is to be disclosed to a third party or used for a purpose other than its original purpose.
-
-When we receive personal information merely for processing purposes and do not control the collection of the personal information, we may not provide such choices to you.
-
-### Onward transfer to third parties
-
-We may disclose personal information to a third party if (a) we have received your permission to make the disclosure, (b) the disclosure is required by law, (c) the disclosure is reasonably related to the sale or other disposition of all or part of etouches’ business, (d) the information in question is publicly available, and/or (e) the disclosure is reasonably necessary for the establishment of a legal claim.
-
-Additionally, we may disclose personal information to a third party if the disclosure is to an etouches affiliate or to persons or entities providing services on our behalf or an etouches client, consistent with the purpose for which the information was obtained, if the transferee, with respect to the personal information in question (a) is subject to law providing an adequate level of privacy protection (e.g. transferees that are located within the EU), (b) has agreed in writing to provide an adequate level of privacy protection, and/or (c) subscribes to the US-EU Safe Harbor Privacy Principles.
-
-### Security
-
-We take security measures designed to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures designed to guard against unauthorized access to systems where we store personal information.
-
-We restrict access to personal information to etouches employees, contractors, customers and partners who need to know that information in order to operate, develop or improve our services. These individuals and third parties are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-### Data integrity
-
-We take reasonable steps to ensure that personal information is reliable, accurate, complete, current and relevant for the purposes for which it was collected.
-
-### Access
-
-Upon request and consistent with any applicable client commitments, we will permit you to access your personal information and to correct any erroneous information. You may need to provide sufficient identifying information (e.g. name, address, birth date, and social security or national health insurance or an equivalent number). Such access may be denied or limited by us if providing such access is unreasonably burdensome, expensive under the circumstances, and/or if in giving such access would violate another person’s rights. In some circumstances, we may charge a reasonable fee for access to personal information. You can contact us at [privacy@etouches.com](mailto:privacy@etouches.com) to request access to change personal information.
-
-### Enforcement
-
-We will conduct an annual self-assessment to ensure that this Statement is published and disseminated within etouches and on our website and that it conforms to the US-EU Safe Harbor Privacy Principles. In addition, we have deployed internal processes to monitor etouches’ compliance with the US-EU Safe Harbor Privacy Principles and to address all questions or complaints. We will also self-certify annually with the U.S. Department of Commerce as being in compliance with the US-EU Safe Harbor Privacy Principles. Users may raise any concerns or complaints regarding their personal information directly with etouches by first contacting us by email at [privacy@etouches.com](mailto:privacy@etouches.com). If you raise a concern or complaint, we will investigate the matter and attempt to resolve all issues to your satisfaction.
-
-### What if you do not get a satisfactory response
-
-We will try our best to see that you will always get a satisfactory response from us. If you do not believe that we have responded in a satisfactory manner, then we will agree to a process of arbitration conducted by the American Arbitration Association.
-
-### How to contact us
-
-If you have inquiries or concerns about any information we may have collected about you, please send us an email at [privacy@etouches.com](mailto:privacy@etouches.com).
+	  	  
+                                                               	  
+	  	         E-­‐mail:	  support@etouches.com	  	  
+	  	         Phone:	  1-­‐877-­‐386-­‐8248	                	  
+Resolving	  Privacy	  Policy	  Disputes	  
+If	  you	  think	  we	  have	  not	  followed	  our	  privacy	  policy	  in	  some	  way,	  it	  can	  be	  resolved	  in	  the	  
+following	  manner.	  
+	  	         etouches	  Customer	  Support          	  
+	  
