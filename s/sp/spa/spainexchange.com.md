@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003000618id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420051405id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.*
 
 # SpainExchange.com Privacy Statement
 
@@ -27,13 +27,3 @@ To change and modify any information previously provided to us, you can send an 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Dori Kelsey](mailto:web@spainexchange.com).
-
-  * by [**Estudy**](http://www.spainexchange.com/i/Estudy) [@Estudy](http://www.spainexchange.com/i/Estudy) on October 01 at 09:51 PM   
-yo quiero estudiar ingeniería electrónica en rucia 
-
-  * by [**elrey**](http://www.spainexchange.com/i/elrey) [@selenac](http://www.spainexchange.com/i/selenac) on October 01 at 07:09 PM   
-anybody please add my skype: abid.deandalucia   
-thnks :D 
-
-
-
