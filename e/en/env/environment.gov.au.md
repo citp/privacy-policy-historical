@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2012-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120917195748id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420115632id_/http%3A//environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
 # Department of Sustainability, Environment, Water, Population and Communities - Privacy Statement
 
@@ -57,4 +57,4 @@ privacy@environment.gov.au
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20120917195748id_/http%3A//www.environment.gov.au/about/privacyfull.html).
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20130420115632id_/http%3A//environment.gov.au/about/privacyfull.html).
