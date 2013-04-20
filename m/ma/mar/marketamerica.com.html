@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketamerica.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227115514id_/http%3A//www.marketamerica.com/site/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketamerica.com privacy policy that was archived on 2013-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420075920id_/http%3A//www.marketamerica.com/site/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -62,6 +62,65 @@ var rb="en";
 </script><script type="text/javascript" src="/default/js/jquery/jquery.js"></script></head>
 
 <body id="privacypolicy" class="oneCol">
+<div id="languageSelection">
+<script>
+var MP = {
+<!-- mp_trans_disable_start -->
+  Version: '1.0.23',
+  Domains: {'es':'es.marketamerica.com'},
+  SrcLang: 'en',
+<!-- mp_trans_disable_end -->
+  UrlLang: 'mp_js_current_lang',
+  SrcUrl: decodeURIComponent('mp_js_orgin_url'),
+<!-- mp_trans_disable_start -->
+  init: function(){
+    if (MP.UrlLang.indexOf('p_js_')==1) {
+      MP.SrcUrl=window.top.document.location.href;
+      MP.UrlLang=MP.SrcLang;
+  }
+},
+getCookie: function(name){
+  var start=document.cookie.indexOf(name+'=');
+  if(start < 0) return null;
+  start=start+name.length+1;
+  var end=document.cookie.indexOf(';', start);
+  if(end < 0) end=document.cookie.length;
+  while (document.cookie.charAt(start)==' '){ start++; }
+  return decodeURIComponent(document.cookie.substring(start,end));
+},
+setCookie: function(name,value,path,domain){
+  var cookie=name+'='+encodeURIComponent(value);
+  if(path)cookie+='; path='+path;
+  if(domain)cookie+='; domain='+domain;
+  var now=new Date();
+  now.setTime(now.getTime()+1000*60*60*24*365);
+  cookie+='; expires='+now.toUTCString();
+  document.cookie=cookie;
+},
+switchLanguage: function(lang){
+  if(lang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+encodeURIComponent(MP.SrcUrl);
+	document.body.appendChild(script);
+  } else if(lang==MP.SrcLang && MP.UrlLang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+encodeURIComponent(location.href);
+	document.body.appendChild(script);
+  }
+  return false;
+},
+switchToLang: function(url) {
+  window.top.location.href=url;
+}
+<!-- mp_trans_disable_end -->
+};
+</script>
+ <ul>
+  <li><a class="lang" mporgnav="" href="http://es.marketamerica.com/enes/" onclick="return switchLanguage('es'); function switchLanguage(lang) {MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();MP.switchLanguage(MP.UrlLang==lang?'en':lang);return false;}">Español</a></li>
+  <li class="countries"><a mporgnav="" href="http://www.marketamerica.com" class="chosen" title="USA and Canada"><img src="/default/assets/Image/iconFlagUSACAN.gif"></a></li>
+  <li><a href="http://www.marketamerica.mx" title="Mexico"><img src="/default/assets/Image/iconFlagMex.gif"></a></li>
+ </ul>
+</div>
 <div id="site">
  
 <script type="text/javascript">
@@ -122,7 +181,9 @@ var rb="en";
 	<li><a class="menu" href="javascript:void(0);">News/Media</a>
 		<ul class="subNav">
 			<li><a href="/site/news-Media/">News/Press Releases</a></li>
-			<li><a href="/site/multimedia-videos/">Videos</a></li>
+			<li><a href="/site/multimedia-videos/">Videos</a></li>			
+			<li><a href="/site/press-kits/">Press Kits</a></li>
+
 		</ul>
 	</li>
 	<li><a class="menu" href="javascript:void(0);">Corporate</a>
@@ -212,7 +273,7 @@ var rb="en";
    <li><a href="/site/privacy-policy/">Privacy Policy</a></li>
    <li><a href="/site/terms-of-service/">Terms of Service</a></li>
    <li><a href="http://marketamerica.catsone.com/careers/index.php?m=portal" target="_blank">Careers</a></li>
-   <li>© 2012 Market America</li>
+   <li>© 2013 Market America</li>
    <li><a href="http://www.unfranchise.com/" target="_blank">Business Owner Log-In</a></li>
    <li><a href="http://www.shop.com/" target="_blank">SHOP.COM</a></li>
   </ul>
@@ -222,7 +283,7 @@ var rb="en";
  $(document).ready(function(){
   $("body").delegate("a[href*=shop.com]", "click", function(event){
    var $obj = $(this);
-   $obj.attr("href", $obj.attr("href").replace("shop.com", "shop.com/"));
+   $obj.attr("href", $obj.attr("href").replace("shop.com", "shop.com"));
   });
  });
 </script>
