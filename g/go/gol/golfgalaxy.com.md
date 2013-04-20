@@ -1,97 +1,113 @@
-> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110122555id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420051218id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
 
 # Safety, Security & Privacy at Golf Galaxy
 
-## Please Read This Privacy Statement Carefully
+_Updated as of March 7, 2013_
 
-The only personal information we collect is the personal information you choose to give us. The purpose of this Privacy Statement is to inform you about the information we gather on this web site and how we use that information.
+##  Introduction
 
-This Privacy Statement applies only to the Golf Galaxy, Inc. ("Company") web site, with a homepage located at www.GolfGalaxy.com (the "Web site"). This Privacy Statement does not apply to any other web sites, and the Company makes no representations as to the privacy practices of other web sites.
+**DICK’S Sporting Goods, Inc. and its Family of Businesses including Golf Galaxy, LLC (collectively, “ _DICK’S_ ”) provide this privacy policy (this “ _Policy_ ”) to inform you of:** (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and protect such information.  This Policy applies to customer information obtained in connection with DICK’S operations at or through our websites, our mobile sites, our social media presence, our mobile applications, and our stores. **** For purposes of this Policy, our websites, our mobile sites, our social media presence and our mobile applications are referred to collectively as, our “ _Websites_.”  Emails, social media, online marketing campaigns and online internet-based advertising are collectively referred to as, our “ _Internet Marketing Channels_.”
 
-We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Web site By using this Web site, you agree to the terms of this Privacy Statement and the [ Terms and Conditions](https://web.archive.org/terms_conditions.aspx) documented on the Web site
+DICK’S is committed to maintaining your privacy, providing you with information and choices, and permitting you opportunities to correct inaccuracies.  If, after reading this Policy, you have questions, comments or concerns, please [contact our Customer Service department](http://www.dickssportinggoods.com/helpdesk/index.jsp?display=store&subdisplay=contact&stillHaveQuestion=yes).
 
-##  Protecting Your Privacy
+##  Information We Collect
 
-The ways we protect and use information collected over this Web site depends upon the type of information involved. Certain personal information, such as your full name or credit card information, is used only for limited purposes. Other information, such as which page on the Web site is the most popular, is not deemed confidential and may be shared with third parties.
+With the goal and intention of providing you products and services, and of improving your overall experience, we receive, collect and store information in a variety of ways, including when you visit our Websites or provide information to us.  We may also collect information when you: (1) open an account with us; (2) utilize our services; (3) apply for a credit card; (4) make a purchase; (5) apply for a license ( _e.g.,_ hunting, fishing, etc.) or conduct a similar transaction; (6) contact us via any customer service method; (7) submit any user-generated content (via our Websites or otherwise); (8) participate in customer research, surveys, sweepstakes or promotions; or (9) otherwise communicate information to us.
 
-##  Secure Shopping Environment
+Some of the information we collect is considered “ _Personal Information_.”  Personal Information includes your name, mailing address, e-mail address, driver’s license number, social security number, credit/debit card information (and related payment information) and/or telephone number.  We also may collect other information such as permit number(s), credit application information and demographic/lifestyle information (including date of birth, personal interests and product/buying preferences).
 
-At GolfGalaxy.com, we know your personal information is important. That’s why we always use an encryption protocol known as Secure Socket Layer (SSL). SSL is an industry standard encryption that helps to protect Internet communications and to keep your personal information private. However, as with all aspects of the Internet, there can be no absolute assurance that certain data might not become compromised. Most credit card companies provide protections against fraudulent activity. Please review the terms related to your chosen credit account provider if you have further questions on this matter. If you believe there is a security issue related to this web site, please [contact us](https://web.archive.org/contact_us.aspx) immediately.
+The collection of certain types of Personal Information may be necessary and/or required for governmental compliance ( _e.g.,_ hunting, fishing or firearms licensing or purchasing).
 
-## What Is Non-Personal Information?
+Additionally, we may receive, collect and store Personal Information and other information you provide on behalf of third parties, or third parties provide on behalf of you, relating to gift recipients, online registrations, in-store pick-up or registries. We may also receive, collect and store Personal Information and other customer information from sources assisting us with updating, improving and/or analyzing our records or detecting fraud or theft. Additionally, we may receive, collect and store information from various consumer reporting agencies and related service providers.
 
-Each time a computer visits this Web site we may collect certain information from that computer. This information is automatically collected from the computer’s web browser and may include information such as the following ("non-personal information"):
+We may also receive, collect and store “ _Automated Information_ ” through Cookies (as defined below), Web Beacons (as defined below) and other related automated means.  “ _Cookies_ ” are small text files sent to your device as you visit our Websites or utilize our Internet Marketing Channels and saved on your device via your browser or hard drive.  We then use Information Technologies (as defined below) to recognize you and your preferences as you return to our Websites or utilize our Internet Marketing Channels.  “ _Web Beacons_ ” (also known as pixel tags) are a form of tracking technology placed within our Websites and our Internet Marketing Channels to monitor and track your visits to certain pages within our Websites, and your interactions with (and the effectiveness of) our Internet Marketing Channels.
 
-  * The type of web browser software the computer uses (for example, Netscape Navigator or Internet Explorer)
-  * The name of the domain from which the computer accessed the Internet
-  * The Internet address of the web site from which the computer linked directly to the Web site
-  * The date and time the computer accessed the Web site
-  * Non-personal information does not tell us who you are
+Automated Information we collect via Cookies, Web Beacons and other related methods (collectively, “ _Information Technologies_ ”) includes information such as internet protocol address(es), operating system(s) and browser specifics of your device, device characteristics, geographic information, user id(s),  and specifics regarding your interactions with ( _i.e._ , the path your device takes through) our Websites and our Internet Marketing Channels.
 
+Automated Information enables the tailoring of advertisements and offers specifically for you.  In addition to such tailoring, we are interested in Automated Information to ensure that our mobile and/or online presence operates properly and efficiently for you and for your individual customer experience, to evaluate the use and benefit of such presence, and to support our Websites and our Internet Marketing Channels.
 
+##  Your Choices
 
-Also, we may place a text file called a cookie in the browser files of computers that visit this Web site Cookies are pieces of information issued by a web site that, among other things, allow your computer to utilize all the features on this Web site If and when your computer accepts a cookie, the cookie may be stored on the computer’s hard drive. The information that we collect using cookies is non-personal information.
+We use, collect and disclose your information consistent with this Policy, as updated from time to time, and you consent to such use, collection and disclosure by your use of our: (1) Websites; (2) Internet Marketing Channels; (3) marketing campaigns; and (4) marketing programs ( _e.g._ , loyalty programs).
 
-Here is a good description of cookie technology at Wikipedia: <http://en.wikipedia.org/wiki/Http_cookie>. You may decline our cookies if your browser permits, but some parts of the Web site may not work properly if you do so.
+You may unsubscribe to future email communications by clicking on the Unsubscribe link in our email communications.  In addition, you may use the methods set forth in the “Contact Customer Service” link below to opt-out or update certain preferences.  Regardless of your decision to opt-out of future email communications, we may still contact you regarding transactions and for transactional purposes ( _e.g.,_ recalls, product information and service/reminder notices).
 
-## What Do We Do With Non-Personal Information?
+Based upon your browsing history with us and with other online sites, we may personalize your experience via our Websites and via our Internal Marketing Channels.  However, you have choices relating to how your device interacts with our Websites and our Internet Marketing Channels.  You can choose to access our Websites without accepting Information Technologies to your device(s), and you can opt-out or modify certain elements of our Websites ( _e.g._ , location services) and our Internet Marketing Channels (that are tailored specifically to you and served to you based upon your browsing history).  If you choose to so restrict, you may access our Websites, but you will NOT be able take full advantage of certain Website features.  Please note, even if you opt-out of certain online, internet-based advertising, you may still see or receive DICK’S advertisements on our Websites and other sites, but such advertisement will not be based upon your browsing history.
 
-We will use non-personal information to help us make the Web site more useful to visitors and for other business purposes. For example, we may tell business partners how many computers visited this Web site or what pages were most popular. We may prepare reports and other materials using non-personal information. Since these reports and materials contain no personal information, we may share them with others.
+Additionally, we belong to various advertising networks that utilize your browsing history across various and participating sites to serve you DICK’S advertisement on such sites.  We do not permit such networks to provide your browsing history (including your shopping behavior) on any of our Websites to any other site.  To learn more about your options relating to this matter, including how to opt-out of this category of advertising, please click [here](http://www.aboutads.info/).
 
-## What Is Personal Information?
+##  How We Use
 
-In the process of registering for an Account, in making a purchase, joining the [Advantage Club](http://www.mygolfgalaxy.com/), or in using this Web site, some visitors may choose to provide us "personal information". Personal information includes information that tells us specifically who a person is, such as a person’s name, email address, financial information, or similar information.
+We do not sell, rent or trade your Personal Information to third parties.  We use your information in numerous ways, including:
 
-## How Do We Use Personal Information?
-
-If you submit personal information, you agree that we may keep a record of the personal information. For example, we may keep a record of your name and e-mail address in order to keep track of the username and password we assigned to you. We may notify you of this personal information by mail, but only to an address you provide us.
-
-We also may use personal information to help us in our business, including but not limited to improving this Web site, marketing, product development, or to contact you if necessary for business purposes. You also agree that we may share personal information with other businesses that help us with these activities. For example, if you pay for your purchase by credit card, we will share your personal information with financial services companies so that we can process your payment. These other companies may not use or share your personal information with others except for the purpose of assisting us with our business activities pursuant to our request. Also, we may share personal information with other companies we do business with, such as business partners, affiliates, or successors.
-
-We may also share personal information if required to comply with a law, regulation, court order, or other legal process. We may share personal information if necessary to protect our legal rights or property.
-
-## What About Privacy On Other Sites?
-
-This Web site may contain links to other web sites We provide these links for your convenience, but we do not review, control, or monitor the privacy practices of web sites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other web sites is subject to the terms and conditions of those web sites, including the privacy policies of those web sites
-
-## Are There Special Rules About Children’s Privacy?
-
-This Web site is designed for an adult audience only, and children should not use this Web site We will not intentionally collect online any personal information (such as a child’s name or e-mail address) from children under the age of 13. If you think that we have collected personal information from a child under the age of 13, please [contact us](https://web.archive.org/contact_us.aspx).
-
-## Mobile Alerts (Text Messages)
-
-You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either:
-
-  * **texting "STOP" to 453499; or**
-  * **contacting Customer Service by email at[customerservice@golfgalaxy.com](mailto:customer.service@dcsg.com) or by phone at 1 (800) 287-9060**
+  1. Fulfilling, delivering and communicating regarding your orders for products and/or services;
+  2. Maintaining our loyalty programs, including the ScoreCard and the Advantage Club;
+  3. Processing credit card applications and payments;
+  4. Administering surveys, sweepstakes, contests or promotions;
+  5. Registering and servicing your account(s);
+  6. Providing customer service;
+  7. Conducting research and analysis;
+  8. Alerting you to product, service and promotional information, including product recalls;
+  9. Helping us to improve, customize and advance our products and services, Websites, Internet Marketing Channels, mailings or marketing campaigns; and
+  10. Protecting the security and integrity of our stores, Websites, Internet Marketing Channels and overall business practices.
 
 
 
-You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Golf Galaxy during this time. Golf Galaxy respects your privacy and your mobile number will only be used in this text message program by Golf Galaxy and its third party marketing partners administering this program on Golf Galaxy’s behalf as set forth above.
+In doing so, we:
 
-## Golf Galaxy Job Alerts (Text Messages)
-
-You may decide to have recruitment reminder text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a recruitment reminder text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either:
-
-  * **texting "STOP" to 453499; or**
-  * **contacting Customer Service by email at[customerservice@golfgalaxy.com](mailto:customer.service@dcsg.com) or by phone at 1 (800) 287-9060**
+  1. May combine certain Personal Information, customer information and Automated Information collected online and offline, including information collected from third parties;
+  2. May transfer or disclose such information within our Family of Businesses, including affiliates and subsidiaries; and
+  3. Will retain such information as needed to provide you products/services, comply with our legal obligations, resolve disputes, and enforce our agreements as we deem reasonably necessary.
 
 
 
-You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Golf Galaxy during this time. Golf Galaxy respects your privacy and your mobile number will only be used in this text message program by Golf Galaxy and its third party marketing partners administering this program on Golf Galaxy’s behalf as set forth above.
+##  How We Share
 
-## California Privacy Rights
+We may share information:
 
-If you are a California resident and Golf Galaxy ("GGXY") customer you have the right to request information from GGXY regarding the manner in which GGXY shares certain categories of your personal information with third parties, for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to GGXY at its designated address and receive the following information:
+  1. With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity.  We do require that such providers keep your Personal Information safe, secure and private, and we require that they not use or disclose your Personal Information for any purpose other than providing the applicable  services to us, to you or on our behalf;
+  2. As we deem necessary, in the event (or partial event) of a corporate sale (asset or stock), merger, reorganization, change in corporate control, acquisition, insolvency, bankruptcy or similar event;
+  3. Specifically, certain Personal Information, in connection with various co-branded, warranty, delivery/assembly and/or financial products or services, including our private label credit card(s);
+  4. To comply with applicable law or reasonable request based upon governmental regulation, court order, subpoena or similar related action; and
+  5. As we deem necessary to protect the rights, property or safety of DICK’S, our customers, our associates or others, and to prevent harm or loss or in connection with an investigation or suspected or actual unlawful activity.
 
-  1. The categories of information GGXY disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year;
-  2. The names and addresses of third parties that received such information; and
-  3. If the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed.
+
+
+##  How We Update
+
+For certain types of information, we may offer you a variety of ways to access or update such information.
+
+  1. If you have a DICK’S account, log-in to such account via one of our Websites.  After securely entering your account, you can easily update your name, e-mail address, password, loyalty card information, billing/shipping address, etc. by entering or revising the information as reflected therein, or you may close your account(s) and request that we no longer use your information to provide you services or products.
+  2. Additionally, utilize the “Contact Customer Service” link at the bottom of any of our Websites.  This link will provide you the opportunity to contact DICK’S via phone, e-mail or U.S. postal mail.  Please provide your current and complete contact information with these requests. 
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. GGXY designated email address for such requests is [caprivacy@dcsg.com](mailto:caprivacy@dcsg.com)
+Please note:
 
-##  How To Contact Us?
+  1. We may refuse requests that are unreasonably repetitive, require disproportionate technical efforts, risk the privacy of others or are extremely impractical;
+  2. After closing your account(s), or updating or revising any information within your account(s) or any Information Technologies associated with your device(s), we may not delete residual copies from our servers and may not remove information from our back-up system(s); and
+  3. Closing or updating information relating to one DICK’S account ( _e.g._ , a DICK’S online shopping account) does not guarantee the closing or updating of a separate and different DICK’S account ( _e.g.,_ a Golf Galaxy shopping account or a DICK’S loyalty card account).  If you desire to close or update multiple DICK’S accounts, please log-in to each specific account to do so, or please contact the correct and applicable Customer Service department associated with each such account.
 
-Please [contact us](https://web.archive.org/contact_us.aspx) if you have questions or comments about this Privacy Statement.
+
+
+In our efforts to provide accurate and complete information, we do utilize third party entities to assist us with updating and maintaining current contact information ( _e.g._ , National Change of Address or NCOA).
+
+##  How We Protect
+
+Regardless of whether you are shopping or utilizing our services online, via a mobile device or in our stores, we make securing your information a priority, take reasonable measures to protect the confidentiality of your information and appropriately limit third party access to such information.
+
+We use a variety of security measures to protect your online transactions with us.  Our Websites utilize encryption technology, including Secure Sockets Layer, to protect your information that we transport across the internet.  Your personal online and mobile account(s) with us are protected via password protection and accessed online via such password.  We comply with industry standards relating to safeguards for handling and securing customer payment information provided during payment card transactions.
+
+Additionally, we use a variety of security measures to protect your information that we maintain at our facilities. Such information is subject to physical, administrative and technical controls.
+
+Our Websites are “general audience” websites and not geared toward children.  In order to protect the privacy of children, our Websites do not knowingly collect Personal Information from children under the age of 13 without express parental consent.  If you are a parent or guardian and think we have unauthorized information about your child who is under the age of 13, please use the “Contact Customer Service” link below.
+
+##  Miscellaneous
+
+  1. _Third Party Links_. Our Websites and our Internet Marketing Channels may link to other sites, many of which have their own privacy policies that we do not control.  Be sure to review these privacy policies when visiting such sites. We are not responsible for such third parties’ sites.
+  2. _Privacy Policy Updates_. As we grow, develop and change, we may, from time to time, need to update and revise this Policy.  Please periodically check this Policy for any updates or revisions.
+  3. _[California Privacy Policy](https://web.archive.org/california_disclosures.aspx)_
+
+
+
+**Please[contact us](https://web.archive.org/contact_us.aspx) if you have questions or comments about this Privacy Statement.**
