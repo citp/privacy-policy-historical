@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullmovies.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227084348id_/http%3A//fullmovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullmovies.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420205841id_/http%3A//fullmovies.com/privacy.php) for the most accurate reproduction.*
 
 # Fullmovies.com - Privacy Policy
 
@@ -43,6 +43,6 @@ However, please be advised that while we make every effort to ensure the integri
 **We may periodically update this policy. If you are a FullMovies.com member, we will attempt to notify you of material updates by sending a notice to an email address you may have provided to us. Otherwise, you may view the updated version of this policy on the FullMovies.com website.
 
 **Contact Us  
-**If you have any questions or concerns about this policy, please [click here](https://web.archive.org/web/20121227084348id_/http%3A//fullmovies.com/contact.php) to contact us.
+**If you have any questions or concerns about this policy, please [click here](https://web.archive.org/web/20130420205841id_/http%3A//fullmovies.com/contact.php) to contact us.
 
 Effective Date: September 20, 2010
