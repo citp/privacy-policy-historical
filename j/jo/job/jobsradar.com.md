@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504065546id_/http%3A//www.jobsradar.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420071844id_/http%3A//jobsradar.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
@@ -21,6 +21,12 @@ To opt out and unsubscribe from e-mail communications, [click here](https://web.
 To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@JobsRadar.com  
 To express or ask questions regarding privacy concerns: send an email to info@JobsRadar.com 
 
+Address:  
+600 3rd Ave  
+2nd Floor  
+New York, NY 10016  
+
+
 **Registration**
 
 Users are welcome to browse our Site; however, in order to participate in some of our services, Users may be required to complete brief registration forms. These forms may or may not ask for personally identifiable information. When personally identifiable information is collected, it is subject to the terms of this Policy. Information entered by Users may be transmitted to third parties.
@@ -40,6 +46,8 @@ If you do not input or otherwise submit any of your personally identifiable info
 **Cookies**
 
 We often place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through the Site and to determine whether you have visited us before. However, unless you provide us with personally identifiable information, the cookies will not contain any information that would allow us to personally identify you. If you do provide personally identifiable information to us, the cookie is tied to this information so that our systems will recognize you each time you visit the Site. In that way, we can save your preferences from visit to visit and present you with a customized version of the Site, without requiring you to log into the Site every time you visit. Our cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other sites. We use cookies in this manner to help us understand how Users use the Site, and to help us to improve the Site. You may refuse to accept a cookie from us by following the procedures for rejecting cookies specific to your web browser.
+
+We also use Google Analytics for Display Advertisers to help analyze how users use the site and remarket the users with customized Ads. You can opt out of Google Analytics for Display Advertisers and customized Google Display Network ads by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?#display_optout).
 
 If you visit the web site of a third party by clicking on an external link on the Site, they may also use cookies on their web site. We have no access to or control over these cookies. This Policy covers the use of cookies by JobsRadar only and does not cover the use of cookies by any advertisers or other third parties.
 
@@ -85,11 +93,21 @@ We will share information provided by Users (whether or not personally identifia
 
 We may also share information about Users (whether or not personally identifiable) with third parties so that we can offer you a broader range of services and information to meet your needs. If you would prefer not to have your information shared with third parties, you may opt out by e-mailing info@JobsRadar.com.
 
+Further, by registering on this Site, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc. ). You may revoke authorization for us to contact you by such means at any time (see the Opting Out and SMS Service sections below).
+
 **Communications From Us**
 
 We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will contact you either through e-mail, telephone, or postal mail.
 
 When it is necessary to do so, we will send you service-related announcements, primarily via e-mail. For example, if our service is temporarily suspended for maintenance, we may send you an e-mail. Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by e-mailing info@JobsRadar.com.
+
+**SMS Service**
+
+JobsRadar may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
+
+Program subscribers may opt out of the SMS Service by replying with the keyword "STOP", "END", or "QUIT" to the SMS text message received or use the convenient Mobile Unsubscribe link on this website. This process impacts only the future delivery of JobsRadar's SMS message offering and will not unsubscribe you from other SMS programs to which you may have subscribed. Program subscribers may receive assistance for the SMS Service by replying with the keyword "HELP" to the message received.
+
+Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with the Terms and Privacy Policy. If fees are charged to your wireless account invoice, JobsRadar may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. JobsRadar will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. JobsRadar is not responsible for incomplete, lost, late, damaged, illegible or misdirected mobile messages or for any technical problems, malfunctions of any telephone lines, computer systems, servers, providers, hardware/software, lost or unavailable network connections or failed, incomplete, garbled or delayed computer transmission or any combination thereof. JobsRadar is not responsible for any liability for damage to any computer system resulting from participation in or accessing or downloading information in connection with this program. JobsRadar assumes no responsibility for undeliverable mobile messages resulting from any form of active or passive mobile filtering by a user's mobile provider or for insufficient space in user's mobile phone account to messages. JobsRadar reserves the right, in its sole discretion, to cancel or suspend this program should a virus, bugs, or other causes beyond the control of the JobsRadar corrupt the administration, security or proper operation of the program. JobsRadar does not guarantee that your use of the SMS Service will be private or secure, and JobsRadar are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service.
 
 **Opting Out; Access to Collected Information**
 
