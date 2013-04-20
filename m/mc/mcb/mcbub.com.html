@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mcbub.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622151937id_/http%3A//www.mcbub.com/help/Terms_and_Policies/our_privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcbub.com privacy policy that was archived on 2013-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420080304id_/http%3A//www.mcbub.com/help/Terms_and_Policies/our_privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	
@@ -16,19 +16,28 @@
 <link charset="utf-8" type="text/css" rel="stylesheet" href="http://st1.mcbub.com/index20111025/resource/style/layout.css">
 <link type="text/css" rel="stylesheet" href="http://st1.mcbub.com/index20111025/banner/banner.css">
 <link type="text/css" rel="stylesheet" href="http://st1.mcbub.com/index20111025/banner/anythingslider.css">
+<link type="text/css" href="http://st1.mcbub.com/index20111025/query_ui/css/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet">	
 <!--new-->
-<script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/jquery-1.6.1.min.js"></script>
+			
+
+<script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/jquery-ui-1.8.16.custom.min.js"></script>
+
+
 <script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/jquery.anythingslider.min.js"></script>
 <script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/jquery.anythingslider.fx.min.js"></script>
-<script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/lib.js"></script>
+
 <script type="text/javascript" src="http://st1.mcbub.com/index20111025/resource/script/mcbub.js"></script>
 <script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/mnl1eez.js"></script>
 <script type="text/javascript">    try { Typekit.load(); } catch (e) { }</script>
 <script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/plusone.js"></script>
+<script type="text/javascript" src="http://st1.mcbub.com/index20111025/banner/js/searchDownList.js"></script>
 <!--end new-->
  
 <!--[if lt IE 9]><script src=" http://st1.mcbub.com/media/js/html5shim.js"></script><![endif]-->
+<script src="http://st1.mcbub.com/media/js/jquery-1.4.3.js">
+</script>
 <script type="text/javascript">
 //append "volusion online chat" iframe to body, and
 //exporse livechat method.
@@ -37,7 +46,7 @@
 var isser="False";
  function clearekeywords() {
         var obj = document.getElementById("keywords");
-        if (obj != null&&isser!="True")
+        if (obj.value=="Search by Keywords or Item Code")
          {  
           obj.value = "";
          
@@ -115,14 +124,13 @@ function OpenSsl()
 <div id="top">
 	<div class="warp">
 		<ul class="left">
-		   		 
-			<li class="toplist" style="background:url(http://st1.mcbub.com/index20111025/fb.png) -2px 9px no-repeat; padding-left:10px;">
-			<a href="https://www.mcbub.com/main/signin" class="topnav">Login</a><span class="line">|</span></li>
-			<li class="toplist"><a href="https://www.mcbub.com/main/signup" class="topnav">Join Free</a><span class="line">|</span></li>			
-            	
+     
+
+		
             
 			<li class="toplist"><a href="/main" class="topnav">My Account</a><span class="line">|</span></li>
 			<li class="toplist"><a href="/trackorder" class="topnav">Order Tracking</a><span class="line">|</span></li>
+                        <li class="toplist"><a href="/rss/list" class="topnav">Rss</a><span class="line">|</span></li>
 			<li class="toplist">
 				<a href="/help" class="topnav slide"><span class="slideright"></span>Help</a>
 				<ul class="subnav tophelp">
@@ -168,6 +176,23 @@ function OpenSsl()
 	</div>
 </div>
 <!-- BEGIN Comm100 Live Chat Button Code -->
+<script type="text/javascript">
+    
+    $.ajax({
+        url: "/Main/GetModel/",
+        cache: false,
+        success: function (data) {
+          
+                         if (data[0] == "no") {
+                             $("#top .warp ul li:first").before('<li class="toplist"  style="background:url(http://st1.mcbub.com/index20111025/fb.png) -2px 9px no-repeat; padding-left:10px;"><a href="http://www.mcbub.com/main/signin" class="topnav">Log In</a><span class="line">|</span></li><li class="toplist"><a href="http://www.mcbub.com/main/signup" class="topnav">Join Free</a><span class="line">|</span></li>')
+                         }
+                         else if (data[0] == "yes") {
+                             $("#top .warp ul li:first").before('<li class="toplist">Hello,' + data[1] + '<span class="line">|</span></li><li class="toplist"><a href="/main/signout" class="topnav">Sign out</a><span class="line">|</span></li> ')
+                         }
+        }
+    })
+    
+ </script>
 <script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=122902&amp;planId=2074&amp;partnerId=-1" type="text/javascript"></script>
 <script>
     (
@@ -188,6 +213,7 @@ function OpenSsl()
         }; s.chatButtons = s.chatButtons || []; s.chatButtons.push(b); window.comm100_122902 = s;
     })();
 </script>
+ 
 <!-- End Comm100 Live Chat Button Code --> 
 
 <div id="header">
@@ -198,17 +224,20 @@ function OpenSsl()
               
 			</div>
 		<div class="right">
+          
 			<div class="keywords">
 				Keywords:
-				<a href="/category/cheap-Android-Tablet-pc-1146/">Android Tablet</a>|
-				<a href="/category/cheap-Android-Smartphones-315/">Android Smartphone</a>|
-				<a href="/category/cheap-Watch-465/">Led Watch</a>| 
-				<a href="/cheap-wholesale/iphone-4-case/cheap-Apple-Accessories-1183/">iPhone 4</a>｜
-                                <a href="/category/cheap-iPad-Accessories-1185/">iPad 3</a>
+				
+                <a href="http://www.mcbub.com/Search?keyword=quad+core+phone&amp;c=&amp;display=grid">Quad Core Phone</a>|
+				<a href="http://www.mcbub.com/category/cheap-Car-DVR-572/">Car DVR</a>| 
+				<a href="http://www.mcbub.com/Search?keyword=iphone+5&amp;c=&amp;display=grid">iPhone 5</a>｜
+                                <a href="http://www.mcbub.com/Search/?keyword=quad+core+tablet">Quad Core Tablet</a>|
+                                <a href="/Search/advancedsearch"><img src="http://st1.mcbub.com/media/img/quest1.png" align="absmiddle">Advanced Search</a>
 			</div>
+                        
 			<div id="search">	
-			   <form action="/search/go" method="post">
-					<input type="text" id="keywords" name="keywords" value="Search by Keywords or Item Code" onblur="Setkeywords()" onfocus="clearekeywords()" class="skeyword">	
+			   <form action="/search/go" method="post" id="searchForm">
+					<input type="text" id="keywords" name="keywords" value="Search by Keywords or Item Code" onblur="Setkeywords()" onkeyup="return keyNumAll(event)" onkeydown="return keySel(event)" onfocus="clearekeywords()" class="skeyword">	
 					<input type="hidden" name="categoryID" value="0" id="categoryID">	
 					<div class="slide">
 						<span>All Categories</span>
@@ -226,7 +255,7 @@ function OpenSsl()
 <li onclick="javascript:SetCategoryID(this)" id="173">Computers &amp; Networking</li>
 <li onclick="javascript:SetCategoryID(this)" id="215">Security System</li>
 <li onclick="javascript:SetCategoryID(this)" id="483">Car Electronics</li>
-<li onclick="javascript:SetCategoryID(this)" id="171">Video Game</li>
+
 <li onclick="javascript:SetCategoryID(this)" id="972">Toys &amp; Hobbies</li>
 <li onclick="javascript:SetCategoryID(this)" id="778">LED Gadgets</li>
 <li onclick="javascript:SetCategoryID(this)" id="174">Home and Garden</li>
@@ -243,10 +272,11 @@ function OpenSsl()
 				<div id="shoppingcart">
 					<a class="cartlink" href="/shoppingcart">
 						<p>SHOPPING CART</p>
-						<span>now in your cart 0 items</span>
+						<span>now in your cart <span id="cart">0 </span>items</span>
 					</a>
 					
 				</div>
+
 			</div>
 		</div>
 	</div>
@@ -263,12 +293,11 @@ function OpenSsl()
 <li><a href="/category/cheap-Tablet-PC-971/">Tablet PCs</a></li>
 <li><a href="/category/cheap-Apple-Accessories-1183/">Apple Accessories</a></li>
 <li><a href="/category/cheap-cell-phones---accessories-178/dcp/ ">Cell Phones &amp; Accessories</a></li>
-<li><a href="/category/cheap-Headphones-869/">Headphones</a></li>
 <li><a href="/category/cheap-Electronics-177/dcp/">Electronics</a></li>
 <li><a href="/category/cheap-Computer-and-Networking-173/dcp/">Computers &amp; Networking</a></li>
 <li><a href="/category/cheap-Security-systems-215/dcp/">Security System</a></li>
 <li><a href="/category/cheap-Car-Electronic-439/dcp/">Car Electronics</a></li>
-<li><a href="/category/cheap-Video-Game-171/dcp/">Video Game</a></li>
+
 <li><a href="/category/cheap-Toys---Hobbies-742/">Toys &amp; Hobbies</a></li>
 <li><a href="/category/cheap-LED-Gadgets-746/dcp">LED Gadgets</a></li>
 <li><a href="/category/cheap-Home-and-Garden-174/">Home and Garden</a></li>
@@ -288,15 +317,21 @@ function OpenSsl()
     </div>
 </div>
 
-<div style="width:981px;margin: 0 auto;overflow:hidden;">
-<a href="http://www.mcbub.com/promotion/ipad_accessories_20120425?utm_source=inside-promo&amp;utm_medium=inside-top-banner&amp;utm_campaign=ipad_accessories"><img src="http://st1.mcbub.com/index20111025/banner_min/ipadlong.jpeg" style="float:left"></a>
+<div style="width:981px;margin: 0 auto;position:relative;height:80px" id="WrapRss">
+<a href="http://www.mcbub.com/promotion/clearance130125?utm_source=inside-promo&amp;utm_medium=insider-top-banner&amp;utm_campaign=clearance130125"><img src="http://st1.mcbub.com/index20111025/banner_min/mcbub-clear-long.jpg" style="float:left"></a>
 
 
 </div>
 
 
- 
+<div id="searchPopuDiv">
+   <ul>
+      
+   </ul>
+</div>
+  
  &nbsp; &nbsp; &nbsp;
+
 
 <div id="wrapper">
 
@@ -485,8 +520,10 @@ We believe that you have a right to know, before purchase at McBub or at any oth
 <div class="footer">
 	<div class="f-T">
     	<div class="L"></div>
-    	<div class="R"><a style="float:left;width:338px;height:94px" href="https://www.facebook.com/McBubFans/app_204720342911133"><img alt="Like McBub, Get Fun" src="http://st1.mcbub.com/index20111025/banner/facebook.jpg"></a>
-			<a style="float:left;width:329px;height:94px" href="http://www.mcbub.com/promotion/make_money_with_mcbub_by_wholesale_or_drop_shipping?utm_source=inside-promo&amp;utm_medium=homepage-bottom-banner&amp;utm_campaign=makemoney12330"><img alt="Like McBub, Get Fun" src="http://st1.mcbub.com/index20111025/banner/makeMoney.jpg"></a></div>
+    	<div class="R"><a style="float:left;width:352px;height:94px" href="http://www.mcbub.com/promotion/make_money_with_mcbub_by_wholesale?utm_source=inside-promo&amp;utm_medium=homepage-bottom-banner&amp;utm_campaign=makemoney_wholesale"><img alt="Like McBub, Get Fun" src="http://st1.mcbub.com/index20111025/banner/left.jpg"></a>
+			<a style="float:left;width:315px;height:94px" href="http://www.mcbub.com/DropShopping/make_money_with_mcbub_by_drop_shipping?utm_source=inside-promo&amp;utm_medium=homepage-bottom-banner&amp;utm_campaign=makemoney_dropshipping"><img alt="wholesale" src="http://st1.mcbub.com/index20111025/banner/right.jpg"></a>
+                       
+ </div>
     </div>
 	<div class="f-M">
     	<div class="L">
@@ -528,12 +565,13 @@ We believe that you have a right to know, before purchase at McBub or at any oth
 					<li><a href="/help/downloads">Downloads</a></li>
 					<li><a href="/help/Terms_and_Policies/terms_of_use">Terms of Use</a></li>
 					<li><a href="/help/Shipping_Delivery">Shipping Guide</a></li>
-                                        <li><a href="http://www.mcbub.com/promotion/make_money_with_mcbub_by_wholesale_or_drop_shipping#dropshipping">Drop Shipping</a></li>
+                                        <li><a href="/DropShopping/make_money_with_mcbub_by_drop_shipping">Drop Shipping</a></li>
                                         <li><a href="/help/Terms_and_Policies/our_privacy_policy">Privacy Notice</a></li>
 	
 					<li><a href="/help/New_User_Guide/do_you_have_a_guarantee_or_warranty">Return Policy</a></li>					
 
-                                        <li><a href="http://www.mcbub.com/promotion/make_money_with_mcbub_by_wholesale_or_drop_shipping#dropshipping">Wholesale</a></li>
+
+                                        <li><a href="/promotion/make_money_with_mcbub_by_wholesale">Wholesale</a></li>
                 </ul>
             </div>
         </div>
@@ -559,19 +597,19 @@ We believe that you have a right to know, before purchase at McBub or at any oth
 	</script><p>Language:<a href="http://www.mcbub.com/help/Terms_and_Policies/our_privacy_policy" target="_top">English</a> <span class="sep">|</span> <a href="http://translate.google.com/translate?hl=de&amp;sl=en&amp;tl=de&amp;u=http%3a%2f%2fwww.mcbub.com%2fhelp%2fTerms_and_Policies%2four_privacy_policy" target="_top" rel="nofollow">Deutsch</a> <span class="sep">|</span> <a href="http://translate.google.com/translate?hl=fr&amp;sl=en&amp;tl=fr&amp;u=http%3a%2f%2fwww.mcbub.com%2fhelp%2fTerms_and_Policies%2four_privacy_policy" target="_top" rel="nofollow">Français</a> <span class="sep">|</span> <a href="http://translate.google.com/translate?hl=nl&amp;sl=en&amp;tl=nl&amp;u=http%3a%2f%2fwww.mcbub.com%2fhelp%2fTerms_and_Policies%2four_privacy_policy" target="_top" rel="nofollow">Nederlands</a> <span class="sep">|</span> <a href="http://translate.google.com/translate?hl=ru&amp;sl=en&amp;tl=ru&amp;u=http%3a%2f%2fwww.mcbub.com%2fhelp%2fTerms_and_Policies%2four_privacy_policy" target="_top" rel="nofollow">Pyccko</a> <span class="sep">|</span> <a href="http://translate.google.com/translate?hl=es&amp;sl=en&amp;tl=es&amp;u=http%3a%2f%2fwww.mcbub.com%2fhelp%2fTerms_and_Policies%2four_privacy_policy" target="_top" rel="nofollow">Español</a> <span class="sep">|</span> <a href="http://translate.google.com/translate?hl=it&amp;sl=en&amp;tl=it&amp;u=http%3a%2f%2fwww.mcbub.com%2fhelp%2fTerms_and_Policies%2four_privacy_policy" target="_top" rel="nofollow">Italiano</a> <span class="sep">|</span> <a href="http://translate.google.com/translate?hl=pt&amp;sl=en&amp;tl=pt&amp;u=http%3a%2f%2fwww.mcbub.com%2fhelp%2fTerms_and_Policies%2four_privacy_policy" target="_top" rel="nofollow">Portuguese</a> </p>
 	
 			<p class="pop">
-		Popular on McBub:<a href="/category/cheap-Tablet-PC-971/">Tablets</a> <span class="sep">|</span>	
-		<a href="/category/cheap-Android-Tablet-pc-1146/">Android Tablet PC</a> <span class="sep">|</span>	
-		<a href="/category/cheap-cell-phones---accessories-178/dcp/">Cell Phones</a> <span class="sep">|</span>
-		<a href="/category/cheap-Headphones-869/">Headphone</a> <span class="sep">|</span>
+		Popular on McBub:
+        <a href="http://www.mcbub.com/category/cheap-Android-Smartphones-315/">Smart Phones</a> <span class="sep">|</span>
+        <a href="http://www.mcbub.com/category/cheap-Car-Electronic-439/dcp/">Car Electronic</a> <span class="sep">|</span>
+        <a href="http://www.mcbub.com/Search/?keyword=quad+core+tablet">Quad Core Tablet</a> <span class="sep">|</span>
+        <a href="http://www.mcbub.com/Search?keyword=mtk6589&amp;c=&amp;display=grid">MTK6589 Smart Phone</a> <span class="sep">|</span>
+        <a href="http://www.mcbub.com/Search?keyword=A31&amp;c=&amp;display=grid">AllWinner A31</a> <br>
+        <a href="http://www.mcbub.com/Search/?keyword=RK3188">RK3188</a> <span class="sep">|</span>
+        <a href="http://www.mcbub.com/category/cheap-Watch-465/">Watch<span class="sep">|</span>
+        </a><a href="/category/cheap-Tablet-PC-971/">Tablets</a> <span class="sep">|</span>	
+		<a href="/category/cheap-Android-Tablet-pc-1146/">Android Tablet PC</a> <span class="sep">|</span>			
 		<a href="/category/cheap-iPhone-Accessories-1184/">iPhone Accessories</a> <span class="sep">|</span>
-		<a href="/category/cheap-iPad-Accessories-1185/">iPad Accessories</a> <span class="sep"> <br>
-		<a href="/category/cheap-Personal-Security-354/">Personal Security</a> <span class="sep">|</span>
-		<a href="/category/cheap-Spy-Cameras-355/">Spy Camera</a> <span class="sep">|</span>
-		<a href="/category/cheap-LED-Gadgets-746/">LED Gadgets</a> <span class="sep">|</span>		
-		<a href="/item/RAmos-W6HD-ARM-A9-Tablet-PC-7-inch-HD-Capacitive-Android-4-0-Ice-Cream-Sandwich-HDMI-WiFi-Dual-Cameras--CN109620--143305/">Ramos w6hd</a> <span class="sep">|</span>
-		<a href="/item/Teclast-P76Ti-Tablet-PC-7-inch-Android-2-3-1-5GHz-8GB-2160P-HDMI-MVC-3D-Playback-White--CN109403--142921/">Teclast p76ti</a> <span class="sep">|</span>
-		<a href="/item/Ainol-NOVO7-Paladin-First-Android-4-0-Tablet-PC-7-Inch-8GB-1080P-Black--CN109649--143382/">Ainol Novo7 Paladin</a> 
-	        <a href="/category/cheap-Tablet-PC-971/">Tablet PC</a>  
+		<a href="/category/cheap-iPad-Accessories-1185/">iPad Accessories</a> <span class="sep">
+		<a href="/category/cheap-LED-Gadgets-746/">LED Gadgets</a>		  
 		</span></p>
 		
 	
@@ -616,16 +654,8 @@ We believe that you have a right to know, before purchase at McBub or at any oth
 			<a href="#"><img alt="" src="http://st1.mcbub.com/index20111025/footer/images/dhl.jpg"></a>
 			<a href="#"><img alt="" src="http://st1.mcbub.com/index20111025/footer/images/ups.jpg"></a>
 		</div>
-		<div class="footerlink">
-        
-<div width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.mcbub.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
-            <a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>
-
-		</div>
-		
-	</div>
-		
-		<p class="copyright">Copyright © 2009-2012 <a href="http://www.mcbub.com">McBub.com</a>. All rights reserved.</p>
+            
+		<p class="copyright">Copyright © 2009-2013 <a href="http://www.mcbub.com">McBub.com</a>. All rights reserved.</p>
 	</div>
 </div>
 <script type="text/javascript">
