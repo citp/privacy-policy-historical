@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130034647id_/http%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420060842id_/http%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SuperCasino.com
 
@@ -35,7 +35,7 @@ Information held about you is used in the following ways:
 
 Where any third party processes information on our or your behalf, we require those third parties to use the information only in accordance with our instructions.
 
-To opt out of marketing you will need to change this option by contacting our customer services department by emailing [support@supercasino.com](mailto:support@supercasino.com) or on 0800 1984 777 after registration. We may share your information with other third parties only where it is necessary for the operation of your Account, for example, with any outsourced Data Storage Company, Call Centre agents who may need access to your Account, your bank and authentication agencies that carry out identity checks. Some Games may be offered from jurisdictions outside of the European Economic Area. If so, this will be made clear on the website. Some jurisdictions do not provide the protections offered by Data Protection Act 1998 and, if you choose to play such Games, you consent to the transfer and processing of your personal information in such countries.
+To opt out of marketing you will need to change this option by contacting our customer services department by emailing [support@supercasino.com](mailto:support@supercasino.com) or on 0800 1984 777 after registration. We may share your information with other third parties only where it is necessary for the operation of your Account, for example, with any outsourced Data Storage Company, Call Centre agents who may need access to your Account, your bank and authentication agencies that carry out identity checks. Some Games may be offered from jurisdictions outside of the European Economic Area. If so, this will be made clear on the website. Some jurisdictions do not provide the protections offered by Data Protection Act 1998 and, if you choose to play such Games, you consent to the transfer and processing of your personal information in such countries.
 
 In addition we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you. We may provide our analyses to prospective partners, investors, advertisers and other third parties. We may also share statistical and demographic information about our users and their use of the Website and the Service with suppliers of advertisements and programming. We will provide only aggregated anonymised data from these analyses to third parties and this will not include anything that could be used to identify you or to discover individual information about you. We may also disclose and otherwise use de-identified information about users.
 
@@ -43,7 +43,7 @@ We do need to reserve the right to access and disclose individually identifiable
 
 ### 3\. ACCESS TO INFORMATION
 
-You may update your information at any time by contacting our customer services department by emailing [support@supercasino.com](mailto:support@supercasino.com) or on 0800 1984 777.
+You may update your information at any time by contacting our customer services department by emailing [support@supercasino.com](mailto:support@supercasino.com) or on 0800 1984 777.
 
 We have strict procedures covering the storage and disclosure of your information in order to prevent unauthorised access to comply with the Data Protection Act 1998 and the Data Protection (Bailiwick of Guernsey) Law. You are entitled to exercise your right to access the information held about you but we may ask for proof of identity before we disclose personal information to you.
 
