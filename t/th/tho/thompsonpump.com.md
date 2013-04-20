@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thompsonpump.com privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814021614id_/http%3A//www.thompsonpump.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompsonpump.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420020335id_/http%3A//www.thompsonpump.com/privacy.html) for the most accurate reproduction.*
 
-# Thompson Pump - Privacy Policy
+# Dewatering Pumps | Rental Pumps - Thompson Pump - Privacy Policy
 
 [Home](https://web.archive.org/index.cfm) : Privacy Policy
 
