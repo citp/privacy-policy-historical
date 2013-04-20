@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017005500id_/https%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420062135id_/https%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
 
 # HipChat - Privacy Policy
 
@@ -47,4 +47,4 @@ HipChat may periodically update this policy. We will notify you about significan
 
 ## QUESTIONS
 
-Any questions about this Privacy Policy should be addressed to support@hipChat.com or by mail at: 1098 Harrison St, San Francisco, CA 94103
+Any questions about this Privacy Policy should be addressed to support@hipchat.com or sent by mail to: 1098 Harrison St, San Francisco, CA 94103
