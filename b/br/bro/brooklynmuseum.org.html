@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the brooklynmuseum.org privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014065657id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brooklynmuseum.org privacy policy that was archived on 2013-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420180204id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
 
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
@@ -15,6 +15,9 @@
   <link rel="stylesheet" type="text/css" href="/css/general.css" media="all">
   <link rel="stylesheet" type="text/css" href="/css/navigation.css" media="all">
   <link rel="stylesheet" type="text/css" href="/css/mediaboxAdv.css" media="all">
+
+<!-- Video.js needs this referenced in a way that lets it reference images on its CDN -->
+<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
 
 <!-- END-STYLESHEETS -->
 
@@ -113,14 +116,15 @@
       <a id="linkContact" href="/about/contact.php" accesskey="t">Con<em class="accesskey">t</em>act</a>
     </li>
     <li>
-     <a id="linkSubscribe" href="http://www.brooklynmuseum.org/about/newsletter.php?lightbox=1" rel="lightbox[500 150]" accesskey="n">E-<em class="accesskey">N</em>ews</a>
+     <a id="linkSubscribe" href="#mb_newsletter" rel="lightbox[500 150]" accesskey="n">E-<em class="accesskey">N</em>ews</a>
       <script type="text/javascript">
         if (Browser.ie6) {
           $('linkSubscribe').set('href', 'http://eepurl.com/eHxwQ');
           $('linkSubscribe').set('rel', '');
         }
         else {
-          $('linkSubscribe').set('href', 'http://www.brooklynmuseum.org/about/newsletter.php?lightbox=1');
+          //$('linkSubscribe').set('href', 'http://www.brooklynmuseum.org/about/newsletter.php?lightbox=1');
+          $('linkSubscribe').set('href', '#mb_newsletter');
         }
       </script>
     </li> 
@@ -137,12 +141,29 @@
       </form>
     </li>
   </ul>
+	<div id="mb_newsletter" style="display:none;">
+		<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="http://brooklynmuseum.us2.list-manage.com/subscribe/post?u=edf19d80b54c0a60a1b913610&amp;id=3771b5e704" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+	<h2>Enter your e-mail to subscribe to our mailing list</h2>
+	<div class="mc-field-group">
+		<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button readable_button"></div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+	</div>
     	
   </div>
   <!--<div id="topbar">-->
 
     <!-- BEG GRAY "B" BACKGROUND -->
-    <div id="logo-top" style="background-image:url(http://cdn.brooklynmuseum.org/images/subHead/logo_top08.2.gif)"></div>    <!-- END GRAY "B" BACKGROUND -->
+    <div id="logo-top" style="background-image:url(http://cdn.brooklynmuseum.org/images/subHead/logo_top05.2.gif)"></div>    <!-- END GRAY "B" BACKGROUND -->
 
     <!-- BEG BROOKLYN MUSEUM LOGO -->
                 <div id="main-logo" style="background-image:url(http://cdn.brooklynmuseum.org/images/subHead/subLogo.gif)"></div>
@@ -179,6 +200,9 @@
 <div id="main-body" class="three-column-generic">
 	<p>
 	The Brooklyn Museum is deeply committed to safeguarding your privacy online. We do not collect personally identifiable information about individuals—such as names and postal and/or email addresses—except when it is knowingly provided by said individuals. This Privacy Policy only applies to transactions made and data gathered on the brooklynmuseum.org website and does not apply to any other website. The terms of this Privacy Policy shall govern all interactions with the Museum through either the Museum's website or email. By using the Museum's website or communicating with the Museum by email, you agree to the terms of this Privacy Policy. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement.</p><h3 class="section-header-component"><p>
+	Personalized Advertising Opt Out</p>
+</h3>	<p>
+	During the <em>John Singer Sargent Watercolors</em> exhibition we are using personalized ads to feature the benefits of Membership with the Museum on websites that you may be browsing. No personal information of any kind will be shared with any of the sites we advertise on, nor will we collect personal information to serve these ads to you. If you'd prefer not to see these ads, please consider <a href="http://join.brooklynmuseum.org/optout.html"><span class="s1">opting</span></a><a href="http://join.brooklynmuseum.org/optout.html"> out</a>.</p><h3 class="section-header-component"><p>
 	Information Provided by Visitors</p>
 </h3>	<p>
 	<b>When You Register</b><br>
@@ -239,47 +263,72 @@
 
 
 
-<!-- BEG-FOOTER -->
 
+<!-- BEG-FOOTER -->
 <div id="footer">
 	<div class="footer-section">
 		<div class="footer-header">Brooklyn Museum</div>
-		<p>200 Eastern Parkway<br>Brooklyn, New York 11238-6052<br>
-		<img src="http://www.brooklynmuseum.org/images/homepage/subway_2_3.gif" alt="2 or 3 line" title="2 or 3 line" id="subway-numbers">Eastern Parkway/Brooklyn Museum</p>
-		<p><a href="/visit/directions.php">Get detailed directions</a></p>
-		
+		<p>
+			200 Eastern Parkway<br>
+			Brooklyn, New York 			11238-6052			<br>
+			<img src="/images/homepage/subway_2_3.gif" alt="2 or 3 line" title="2 or 3 line" id="subway-numbers">
+			Eastern Parkway/Brooklyn Museum
+		</p>
+		<p>
+			<a href="/visit/directions.php">Get detailed directions</a>
+		</p>
 	</div>
 	<div class="footer-section">
 		<div class="footer-header">Hours</div>
     <p>
                 Wednesday: 11 a.m.–6 p.m.<br>                Thursday: 11 a.m.–10 p.m.<br>                Friday–Sunday: 11 a.m.–6 p.m.<br>            
     </p>
-			
-		<p><a href="/visit/">Get suggested contribution info</a></p>
+		<p>
+			<a href="/visit/">Get suggested contribution info</a>
+		</p>
 	</div>
 	<div class="footer-section final-footer-section">
 		<div class="footer-header">Contact</div>
-		<p>Telephone: (718) 638-5000<br>
-			TTY: (718) 399-8440</p>
-		<!-- <p>Follow us on other websites:</p> -->
-		<!-- <div class="footer-header second-footer-header">Follow</div> -->
+		<p>
+			Telephone: (718) 638-5000<br>
+			TTY: (718) 399-8440		</p>
 		<ul id="social-media-links">
-
-		    
-		    <li><a href="http://www.facebook.com/brooklynmuseum" title="The Brooklyn Museum on Facebook"><img src="/images/icons/social/facebook-30x30.png" alt="The Brooklyn Museum on Facebook"></a></li>
-
-			  
-			<li><a href="http://twitter.com/brooklynmuseum" title="Follow the Brooklyn Museum on Twitter"><img src="/images/icons/social/twitter-30x30.png" alt="Follow the Brooklyn Museum on Twitter"></a></li>
-
-			<li><a href="http://www.flickr.com/photos/brooklyn_museum/" title="See the Brooklyn Museum photostream on Flickr"><img src="/images/icons/social/flickr-30x30.png" alt="See the Brooklyn Museum photostream on Flickr"></a></li>
-			
-			<li><a href="http://www.youtube.com/user/brooklynmuseum" title="Watch the Brooklyn Museum channel on YouTube"><img src="/images/icons/social/youtube-30x30.png" alt="Watch the Brooklyn Museum channel on YouTube"></a></li>
-									
-			<li><a href="/community/foursquare/" title="Explore our community with FourSquare"><img src="/images/icons/social/foursquare-30x30.png" alt="Explore our community with FourSquare"></a></li>
-			
-			<li id="last-social-media-link"><a href="/community/blogosphere/" title="Read the Brooklyn Museum Blog"><img src="/images/icons/social/wordpress-30x30.png" alt="Read the Brooklyn Museum Blog"></a></li>
-		</ul>	
-		<!-- <p><a href="/community/blogosphere/">Brooklyn Museum blog</a></p> -->
+			<li>
+				<a href="http://www.facebook.com/brooklynmuseum" target="_blank" title="The Brooklyn Museum on Facebook">
+					<img src="/images/icons/social/facebook-30x30.png" alt="The Brooklyn Museum on Facebook">
+				</a>
+			</li>
+			<li>
+				<a href="http://twitter.com/brooklynmuseum" target="_blank" title="Follow the Brooklyn Museum on Twitter">
+					<img src="/images/icons/social/twitter-30x30.png" alt="Follow the Brooklyn Museum on Twitter">
+				</a>
+			</li>
+			<li>
+				<a href="http://instagram.com/brooklynmuseum" target="_blank" title="The Brooklyn Museum on Instagram">
+					<img src="/images/icons/social/instagram-30x30.png" alt="The Brooklyn Museum on Instagram">
+				</a>
+			</li>
+			<li>
+				<a href="http://www.flickr.com/photos/brooklyn_museum/" target="_blank" title="See the Brooklyn Museum photostream on Flickr">
+					<img src="/images/icons/social/flickr-30x30.png" alt="See the Brooklyn Museum photostream on Flickr">
+				</a>
+			</li>
+			<li>
+				<a href="http://www.youtube.com/user/brooklynmuseum" target="_blank" title="Watch the Brooklyn Museum channel on YouTube">
+					<img src="/images/icons/social/youtube-30x30.png" alt="Watch the Brooklyn Museum channel on YouTube">
+				</a>
+			</li>
+			<li>
+				<a href="https://foursquare.com/v/brooklyn-museum/427d5680f964a520a8211fe3" target="_blank" title="Explore our community with FourSquare">
+					<img src="/images/icons/social/foursquare-30x30.png" alt="Explore our community with FourSquare">
+				</a>
+			</li>
+			<li id="last-social-media-link">
+				<a href="/community/blogosphere/" title="Read the Brooklyn Museum Blog">
+					<img src="/images/icons/social/blog_30x30.png" alt="Read the Brooklyn Museum Blog">
+				</a>
+			</li>
+		</ul>
 	</div>
 </div>
 
@@ -382,18 +431,40 @@ function googleTranslateElementInit() {
 </div>
 
 <ul id="misc-info-links">
-  <li class="first"><a href="/copyright.php">Copyright</a></li>
-  <li><a href="/image_services.php">Image Services</a></li>
-  <li><a href="/privacy.php">Privacy Policy</a></li>
-  <li><a href="/general_disclaimer.php">General Disclaimer</a></li>
+	<li class="first">
+		<a href="/copyright.php">Copyright</a>
+	</li>
+	<li>
+		<a href="/image_services.php">Image Services</a>
+	</li>
+	<li>
+		<a href="/privacy.php">Privacy Policy</a>
+	</li>
+	<li>
+		<a href="/general_disclaimer.php">General Disclaimer</a>
+	</li>
+	<li>
+		<a target="_blank" href="http://join.brooklynmuseum.org/optout.html">Opt-Out of Personalized Ads</a>
+	</li>
 </ul>
 
-    <!-- END-FOOTER -->
+<!-- END-FOOTER -->
 
-		<!-- Begin code injection -->
-				<!-- End code injection -->
+<!-- Begin code injection -->
+<!-- End code injection -->
 
-        <!-- BEG-ANALYTICS -->
+<!-- BEGIN REMARKETING CODE -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 988344029;
+var google_conversion_label = "ltxzCLvcmwQQ3d2j1wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<!-- END REMARKETING CODE -->
+
+    <!-- BEG-ANALYTICS -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -404,8 +475,9 @@ var pageTracker = _gat._getTracker("UA-344398-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
     <!-- END-ANALYTICS -->
-		</div> <!-- closes outer-wrapper -->
 
-  
+</div> <!-- closes outer-wrapper -->
+
+
 
 <div id="mbOverlay" style="display: none; visibility: hidden; zoom: 1; opacity: 0;"></div><div id="mbCenter" style="display: none;"><div id="mbTop"><a id="mbCloseLink" href="#"></a></div><div id="mbContainer"><div id="mbMedia"></div></div><div id="mbBottom" style="visibility: hidden; zoom: 1; opacity: 0;"><span id="mbExtraNav"></span><a id="mbNextLink" href="#"></a><a id="mbPrevLink" href="#"></a><div id="mbTitle"></div><div id="mbNumber"></div><div id="mbCustomBottomBar"></div><div id="mbCaption"></div></div></div></body></html>
