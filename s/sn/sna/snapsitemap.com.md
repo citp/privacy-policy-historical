@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229074643id_/http%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420050555id_/https%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
 
-# SnapSitemap - The easiest way to create a sitemap
+# SnapSitemap - Free XML Sitemap
+
+Privacy Policy
 
 **What information do we collect?**
 
@@ -48,11 +50,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.snapsitemap.com/terms.jsp](https://web.archive.org/terms.jsp)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.snapsitemap.com/terms](https://web.archive.org/terms)
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/privacy.jsp).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/privacy).
 
 **Changes to our Privacy Policy**
 
