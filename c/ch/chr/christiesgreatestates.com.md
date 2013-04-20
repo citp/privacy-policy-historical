@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christiesgreatestates.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017021442id_/http%3A//www.christiesrealestate.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiesgreatestates.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420080529id_/http%3A//www.christiesrealestate.com/eng/privacy) for the most accurate reproduction.*
 
-# Luxury Real Estate and Homes for Sale - Christie's International Real Estate
+# Privacy Policy | Christie's International Real Estate
 
 **Personal Data Privacy and Protection Policy**
 
@@ -62,11 +62,9 @@ An increasingly common scam—called "phishing"—uses official-looking emails t
 
 To avoid getting caught in any of these scams, please remember to:
 
-  * Keep your password secret and change it periodically. 
+  * Keep your password secret and change it periodically.
   * Never give out your vital account information by email or telephone, unless you initiated the contact. **Christie's International Real Estate never sends emails asking for personal information.**
-  * Whenever you wish to register at christiesrealestate.net, edit or add new information to your account, or set up a new Christie's International Real Estate, Inc. account, please make sure the URL address is as follows: http://www.christiesrealestate.net. You may want to add this URL to your browser's Favorites or Bookmarks menu. 
-  * Always end your secure session on the Internet completely by clicking the “Log Out” link and by closing your browser's window before you leave the computer. 
+  * Whenever you wish to register at christiesrealestate.net, edit or add new information to your account, or set up a new Christie's International Real Estate, Inc. account, please make sure the URL address is as follows: http://www.christiesrealestate.net. You may want to add this URL to your browser's Favorites or Bookmarks menu.
+  * Always end your secure session on the Internet completely by clicking the “Log Out” link and by closing your browser's window before you leave the computer.
 
 
-
-© 1999 – 2012 Christie’s International Real Estate all rights reserved.
