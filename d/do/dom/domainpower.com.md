@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104184929id_/http%3A//www.domainpower.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421125843id_/http%3A//www.domainpower.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | DomainPower
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.domainpower.com/Terms.aspx](https://web.archive.org/web/20121104184929id_/http%3A//www.domainpower.com/Terms.aspx)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.domainpower.com/Terms.aspx](https://web.archive.org/web/20130421125843id_/http%3A//www.domainpower.com/Terms.aspx)
 
 ### Your Consent
 
