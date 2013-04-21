@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sawtoothsoftware.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226201528id_/http%3A//www.sawtoothsoftware.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawtoothsoftware.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421094459id_/http%3A//sawtoothsoftware.com/privacy.shtml) for the most accurate reproduction.*
 
 # Sawtooth Software - Survey Software - Conjoint Analysis Software - Marketing Research Software
 
