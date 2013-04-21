@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128021125id_/http%3A//privacy-policy.truste.com/verified-policy/www.bodyartforms.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421094315id_/http%3A//privacy-policy.truste.com/verified-policy/www.bodyartforms.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.bodyartforms.com
 
