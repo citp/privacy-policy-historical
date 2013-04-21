@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fuzzys.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109142325id_/http%3A//fuzzys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzzys.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421052948id_/http%3A//fuzzys.com/privacy-policy) for the most accurate reproduction.*
 
 # Fuzzys - Stuff to make you laugh | Privacy Policy
 
-[](http://atltracking.com/tracking202/redirect/dl.php?t202id=32822&c1=fuz_down&t202kw=fuz_down)
+[](http://adf.ly/DWgZJ)
 
 Users’ privacy is very important to fuzzys.com
 
