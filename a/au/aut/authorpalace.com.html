@@ -1,44 +1,27 @@
-<!--The following is the downloaded HTML source of the authorpalace.com privacy policy that was archived on 2012-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017025303id_/http%3A//www.authorpalace.com/index.php%3Fcustom%3Dyes%26TID%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the authorpalace.com privacy policy that was archived on 2013-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130421035904id_/http%3A//www.authorpalace.com/index.php%3Fcustom%3Dyes%26TID%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<title>  Free Online Article Directory  - Authorpalace.com</title>
-<link rel="stylesheet" href="http://www.authorpalace.com/templates/styles/default.css" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="Free Online Article Directory  - Authorpalace.com" href="http://www.authorpalace.com/rssfeed.php">
-<link rel="shortcut icon" href="http://www.authorpalace.com/logo.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://engine.adzerk.net/ados.js"></script><script src="/javascript/aptreemenu.js"></script>
-<script type="text/javascript">var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".adzerk.net/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script>
-<script type="text/javascript">
-var ados = ados || {};
-ados.run = ados.run || [];
-ados.run.push(function() {
-/* load placement for account: Dwisatria, site: Author Palace, size: 300x250 - Medium Rectangle*/
-ados_add_placement(3070, 17684, "azk40852", 5);
-ados_load();
-});</script>
 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/themes/base/jquery-ui.css">
 
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.ui.core.min.js"></script>
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.ui.widget.min.js"></script>
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.ui.position.min.js"></script>
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.ui.autocomplete.min.js"></script>
-<link rel="stylesheet" href="http://www.authorpalace.com/jquery/jquery-ui-1.8.23.custom.css" type="text/css">
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.bgiframe.min.js"></script>
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.form.js"></script>
-<script type="text/javascript" src="http://www.authorpalace.com/jquery/jquery.ajaxQueue.js"></script>
 <meta name="description" content="">
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <script type="text/javascript" src="http://www.authorpalace.com/javascriptheader.js"></script>
+
 <!-- place any jquery-dependent script tags that need to be before the /head tag in here -->
 
+ 
 <script type="text/javascript">
 //<![CDATA[
 
 $().ready(function() {
 
-        $("#searchauto").autocomplete({ source: "/autocomplete.php?action=searchauto" });
+        if ($("#searchauto").length) $("#searchauto").autocomplete({ source: "/autocomplete.php?action=searchauto" });
+        else $("[name=searchauto]").autocomplete({ source: "/autocomplete.php?action=searchauto" });
 
 $('.stripeme tr:nth-child(even)').addClass('evenrow');
 $('.stripeme tr:nth-child(odd)').addClass('oddrow');
@@ -48,18 +31,23 @@ $('a.ajaxlink').bind('click',function(event)
  $.get(this.href,{},function(response)
  { 
   var parts = response.split('[|||]');
-  $('#postrating'+parts[0]).html(parts[1])
+  $(parts[0]).html(parts[1])
  })	
 });
 
 // place extra document ready function content here 
-
-
+ 
 });
 
 //]]>
 </script>
-<!--[if lt IE 7]><style>img { behavior: url("http://www.authorpalace.com/fixiepng.htc") }</style><![endif]-->
+<title>  Authorpalace.com</title>
+<link rel="stylesheet" href="http://www.authorpalace.com/templates/styles/default.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Free Online Article Directory  - Authorpalace.com" href="http://www.authorpalace.com/rssfeed.php">
+<link rel="shortcut icon" href="http://www.authorpalace.com/logo.ico">
+<script src="/javascript/aptreemenu.js"></script>
+
+<meta name="robots" content="noindex,nofollow">
 </head>
 
 <body>
@@ -78,7 +66,7 @@ $('a.ajaxlink').bind('click',function(event)
 <form action="http://www.authorpalace.com/search.php?filled=1&amp;condition=fulltext&amp;whichtype=articles" name="quicksearchform" method="post" style="margin: 0; padding: 0;">
 <input type="search" name="search" size="50" style="height: 25px" id="searchauto">
 
-<input type="submit" value="Search" class="button"> <a href="http://www.authorpalace.com/search.php">Advanced Search</a>
+<button type="submit" class="gobutton"><img src="http://www.authorpalace.com/templates/images_default/search.png" alt=""> Search</button> <a href="http://www.authorpalace.com/search.php" rel="nofollow">Advanced Search</a>
 </form>
 </div>
 
@@ -109,7 +97,7 @@ $('a.ajaxlink').bind('click',function(event)
 
 <div class="main">
 <div class="inout">
-<img src="http://www.authorpalace.com/templates/images_default/login.png" alt=""> <a onclick="wsn_login(); return false;" href="http://www.authorpalace.com/index.php?action=userlogin">Login</a> / <a href="http://www.authorpalace.com/register.php">Register</a> / <a href="http://www.authorpalace.com/index.php?action=userlogin">Forgot Password</a>
+<img src="http://www.authorpalace.com/templates/images_default/login.png" alt=""> <a onclick="wsn_login(); return false;" href="http://www.authorpalace.com/index.php?action=userlogin">Login</a> / <a href="http://www.authorpalace.com/register.php" rel="nofollow">Register</a> / <a href="http://www.authorpalace.com/index.php?action=userlogin" rel="nofollow">Forgot Password</a>
 
 </div>
 
@@ -120,7 +108,7 @@ Username:
 <input type="text" name="username" size="10" value="">
 Password:
 <input type="password" name="userpassword" size="10" value="">
-<input type="submit" value="Login" class="button">
+<button type="submit" class="gobutton">Login <img src="http://www.authorpalace.com/templates/images_default/go.png" alt=""></button>
 </form>
 </div>
 
@@ -136,22 +124,7 @@ google_color_bg = "FFFFFF";
 google_color_link = "0000FF";
 google_color_text = "000000";
 google_color_url = "C3D9FF";
-</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-<a href="http://www.wordgamehelper.com/jumble-solver" style="color:#ffffee; text-decoration:none;">Jumble Solver</a>
-<a href="http://www.wordgamehelper.com/anagram-solver" style="color:#ffffee; text-decoration:none;">Anagram Solver</a>
-<a href="http://www.wordgamehelper.com/2-letter-words" style="color:#ffffee; text-decoration:none;">Two Letter Words</a>
-<a href="http://www.wordgamehelper.com/scrabble-word-finder" style="color:#ffffee; text-decoration:none;">Scrabble Word Finder</a></div>
+</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
 
 
 
@@ -215,35 +188,20 @@ Authorpalace.com respect all our members' privacy. Any data you sent to us will 
 <div class="footer">
 Authorpalace.com: Free online article directory
 <ul>
-<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=Submissionguideline">Submission Guideline</a></li>
-<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=privacypolicy">Privacy Policy</a></li>
-<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=faq">FAQ</a></li>
+<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=Submissionguideline" rel="nofollow">Submission Guideline</a></li>
+<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=privacypolicy" rel="nofollow">Privacy Policy</a></li>
+<li><a href="http://www.authorpalace.com/index.php?custom=yes&amp;TID=faq" rel="nofollow">FAQ</a></li>
 
 
 
 
 
-<li><a href="http://www.authorpalace.com/index.php?action=leaders">Site Leaders</a></li>
+<li><a href="http://www.authorpalace.com/index.php?action=leaders" rel="nofollow">Site Leaders</a></li>
 
 
 </ul>
 © 2007-2012 authorpalace.com, All Rights Reserved. <br>
 
-
-<a title="Real Time Web Analytics" href="http://getclicky.com/66590502"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0"></a>
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(66590502); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66590502ns.gif" /></p></noscript>
-
-<!-- GoStats JavaScript Based Code -->
-<script type="text/javascript" src="http://gostats.com/js/counter.js"></script>
-<script type="text/javascript">_gos='c3.gostats.com';_goa=363168;
-_got=2;_goi=2;_gol='web analytics software';_GoStatsRun();</script>
-<noscript><a target="_blank" title="web analytics software"
-href="http://gostats.com"><img alt="web analytics software"
-src="http://c3.gostats.com/bin/count/a_363168/t_2/i_2/counter.png"
-style="border-width:0" /></a></noscript><br><a target="_blank" href="http://c3.gostats.com/click/363168/web-counter/stats-home" style="font: 9px sans-serif" title="web analytics software">web analytics software</a>
-<!-- End GoStats JavaScript Based Code -->
 
 <script type="text/javascript">
 
