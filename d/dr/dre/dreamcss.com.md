@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamcss.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228172759id_/http%3A//www.dreamcss.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamcss.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421075032id_/http%3A//www.dreamcss.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
