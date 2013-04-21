@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkutplus.net privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108044933id_/http%3A//www.orkutplus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutplus.net privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421065831id_/http%3A//www.orkutplus.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Orkut Plus!
 
