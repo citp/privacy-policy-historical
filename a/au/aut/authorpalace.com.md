@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authorpalace.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017025303id_/http%3A//www.authorpalace.com/index.php%3Fcustom%3Dyes%26TID%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorpalace.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421035904id_/http%3A//www.authorpalace.com/index.php%3Fcustom%3Dyes%26TID%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Free Online Article Directory - Authorpalace.com
+# Authorpalace.com
 
 Authorpalace.com respect all our members' privacy. Any data you sent to us will not be sold, exchanged or rent to other parties. We will explain how we collect and use your data in this privacy policy page. 
 
