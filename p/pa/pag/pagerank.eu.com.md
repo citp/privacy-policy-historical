@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagerank.eu.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221004537id_/http%3A//www.pagerank.eu.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerank.eu.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421162255id_/http%3A//www.pagerank.eu.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Page Rank Checker - Check your site stats and Page Rank
 
