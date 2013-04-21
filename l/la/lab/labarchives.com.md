@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labarchives.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425202308id_/http%3A//www.labarchives.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labarchives.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421081413id_/http%3A//www.labarchives.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -51,3 +51,5 @@ To provide secure credit card processing when ordering from us, orders placed on
 **LINKS**
 
 This Web Site may contain links to third party sites. Please be aware that LabArchives, LLC is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
+
+[**InCommon Federation Participant Operational Practices**](http://www.labarchives.com/incommonpop_LabArchives.pdf)
