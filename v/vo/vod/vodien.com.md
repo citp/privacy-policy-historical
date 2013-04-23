@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223011142id_/http%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423140039id_/http%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Hosting Web | Web Hosting Sites
 
@@ -69,6 +69,15 @@ From time-to-time our site requests information from users via surveys or contes
 **Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. 
 
   
+**Advertisements via Third-Party Vendors**
+
+  * Third-party vendors, including Google, show your ads on sites on the internet.
+  * Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google"). (Alternatively you can point users to opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising").)
+
+
+
+  
 **Updating/Deleting/Deactivating Personal Information**  
 If a user's personally identifiable information changes (such as postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at [contact@vodien.com](mailto:contact@vodien.com). 
 
@@ -80,4 +89,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 **Contact Information  
 **Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:contact@vodien.com).
 
-The above stated Privacy Policy is correct as of **8 Dec 2012**.
+The above stated Privacy Policy is correct as of **8 Apr 2013**.
