@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the utsavfashion.in privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010205127id_/http%3A//www.utsavfashion.in/help/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsavfashion.in privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423233829id_/http%3A//www.utsavfashion.in/help/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacypolicy.htm - Utsavfashion.in - Specialized in Indian clothing for Designer Bridal Sarees, Embroidered Lehengas, Fancy Salwar Kameez and lot more at affordable prices
 
 We respect your privacy and are committed to protect the same. We do not publish, sell or rent your personal information to third parties for their marketing purposes without your consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
 
-The privacy practices of this statement apply exclusively to our services available under the domain and sub-domains of www.utsavfashion.in and apply generally to our parent, affiliates, subsidiaries or joint venture websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our website.
+The privacy practices of this statement apply exclusively to our services available under the domain and sub-domains of [www.utsavfashion.in](https://web.archive.org/web/20130423233829id_/http%3A//www.utsavfashion.in/help/www.utsavfashion.in) and apply generally to our parent, affiliates, subsidiaries or joint venture websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our website.
 
 By accepting the Privacy Policy and the Terms of Use Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Terms of Use Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on carrying out any transaction with us for all users.
 
