@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201083906id_/http%3A//www.nursezone.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423201854id_/http%3A//www.nursezone.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - NurseZone
 
@@ -23,12 +23,12 @@ E-mail address for privacy issues: [contact@nursezone.com](mailto:%20contact@nu
 
 NurseZone may collect certain information from you. Please be assured that your privacy is protected and is safeguarded in the following ways:
 
-  * We will not disclose your social security number or any other personal information you provide to us unless you authorize us to do so, except where needed to deliver a service or product ordered by you or under the limited circumstances set forth below. 
-  * Please be advised that we may share your personal information with our parent company or affiliated divisions/companies, which may contact you regarding recruitment opportunities. 
+  * We will not disclose your social security number or any other personal information you provide to us unless you authorize us to do so, except where needed to deliver a service or product ordered by you or under the limited circumstances set forth below.  
+  * Please be advised that we may share your personal information with our parent company or affiliated divisions/companies, which may contact you regarding recruitment opportunities.  
   * We will always give you the opportunity to access and correct your personal information at any time.
   * We will not disclose your application status without your authorization.
 
-
+ 
 
 ##### When and How Your Personal Information is Provided
 
@@ -76,6 +76,13 @@ We may disclose user information in special cases when we believe in good faith 
 
 If at any time you object to our use of your personal information, including use of your e-mail address, you may request to be removed from our list. Send your opt-out request by e-mail to [contact@nursezone.com](mailto:%20contact@nursezone.com "contact@nursezone.com").
 
+##### NurseJobs iphone Mobile Application:
+
+In addition to information collected on the NurseZone.com Web site, NurseZone sponsors the NurseJobs iphone Mobile Application, which is available for free download on iTunes or by visiting the NurseZone Web site: <http://www.nursezone.com/social-media/iphone.aspx> 
+
+The NurseJobs application allows you to search jobs and view videos and news provided by NurseZone.com. While using the NurseJobs application, you may be interested in information about jobs provided on the NurseJobs application. If interseted, you are requested to provide your name, e-mail address, nursing specialty or discipline and some other general information. In connection with our career services, we will offer you the opportunity to be contacted by one of our partners' career advisors at American Mobile Healthcare, NursesRx, Medical Express, NurseChoice or Nursefinders. If you choose to be contacted, an advisor will contact you via your e-mail address, mailing address or telephone number. These partners are also owned and operated by AMN Healthcare and follow the same stringent privacy guidelines as NurseZone.com. Should you wish to have your information removed from our database or the database of our partners after submitting a contact form on the NurseJobs iphone application, please email us at [contact@nursezone.com](mailto:contact@nursezone.com).  
+ 
+
 ##### Links to Other Sites
 
 Linking to other sites is an integral part of the functionality of the Internet and our site. Any link to a page which displays a URL of a non-NurseZone site in the address window of your browser or which indicates that it is "powered by" an entity other than NurseZone, is a link to a site outside of our service. This includes links to any advertisers and partners that may link to NurseZone or are part of a co-branding or partnership agreement, as well as other suggested links or links our users may post. These other sites may send their own cookies to you, collect data or solicit personal information. Please note that we cannot guarantee and are not responsible for the content of outside sites.
@@ -92,4 +99,4 @@ Our policy does not extend to anything that is inherent in the operation of the 
 
 By using this site, you signify your consent to the NurseZone privacy policy and the terms of use. If you do not agree with this policy and these terms, please refrain from using our site. Notice of any changes to our privacy policy will be posted on this site. Your continued use of the NurseZone site following a reasonable notice of changes to our privacy policy or terms of use will mean you accept the changes.
 
-###### _NurseZone's_ privacy policy is effective as of March 12, 2004. The policy was last updated as of November 1, 2007.
+###### _NurseZone's_ privacy policy is effective as of March 12, 2004. The policy was last updated as of December 31, 2012.
