@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyhosty.co.uk privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001062311id_/https%3A//easyhosty.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhosty.co.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423164845id_/https%3A//easyhosty.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # EasyHosty Privacy Policy
 
