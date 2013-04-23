@@ -1,132 +1,79 @@
-> *The following text is extracted and transformed from the youngmoney.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015065549id_/http%3A//www.youngmoney.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngmoney.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423232400id_/http%3A//www.youngmoney.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-This website (“Company Website”) is operated by Young Money Media, LLC (“Company”) and this policy applies to all websites owned, operated, controlled and otherwise made available by Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded and successor sites). Our office address is:
+### Introduction
 
-Young Money Media, LLC  
-10950 Gilroy Road  
-Suite D  
-Hunt Valley, MD 21031  
-United States of America  
-We may be reached via [email](mailto:admin@youngmoney.com).
+Sparkart Group, Inc. (“Sparkart”) cares deeply about your privacy and the protection of your personal information, and we have devised this Privacy Policy so you are informed about the collection, use, limited disclosure, and protection of your personal information. By using the Sparkart Services, you consent to the data practices described in this policy statement. Defined terms designated in the Terms of Service shall have the same definitions in this Privacy Policy.
 
-Introduction
+### Collection Of Information
 
-Company respects the privacy and security of your personal information. The following privacy policy describes the information we collect, how we use it and what rights you have to it. By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement (“Privacy Policy”). If you do not agree to these terms and conditions, please do not use this Company Website.
+When you register for the Sparkart Services, you may be asked to provide certain personal information that may be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: email address, first and last name, country or region, state or territory, city, zip code or postal code, street address, time zone, gender, language, birth date and age, and occupation. In addition to the above information, Sparkart may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features and functionality of the Sparkart Services. We may also collect data pertaining to your online transactions, purchase history, and Sparkart Site and Sparkart Services usage patterns. Further, when you register for the Sparkart Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Sparkart when there are account issues, such as needing to reset your password. You may also be requested to answer various questions and/or surveys about your consumer preferences or other information. Sparkart may store the information described in this paragraph. However, Sparkart does not store your credit card information, which you may be asked to provide when making a purchase.
 
-We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Company Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Company Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
+### Use Of Your Personal Information
 
-Privacy Policy
+Sparkart uses your personal information for the operation and maintenance of your Sparkart account and the Sparkart Services. For example, we may use your email address to send you a welcome email message when you first register informing you about the service and telling you how to manage your Sparkart account. You may be required to respond to this email in order to validate that you are the owner of the email address associated with the Sparkart account. If applicable, failure to respond to the email and verify the address within the time stated in the email will cause the Sparkart account to become inactive. This process is designed to verify the validity of the email address and to help prevent email addresses from being used without permission in the creation of Sparkart accounts.
 
-Like many websites, we gather information about how visitors use this Company Website. In general, you can visit many of the web pages on this Company Website without telling us who you are or revealing any personal information about yourself. We, however, may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics (including, but not limited to, browser version, pages requested and pages visited), but you will remain anonymous unless you provide us with personal information during your visit to this Company Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.
+As part of the Sparkart Services, we may recommend for your consideration various services, products and merchandise. Accordingly, we may analyze data pertaining to your online transactions, purchase history, and Sparkart Site and Sparkart Services usage patterns so that we can make recommendations suited especially to you. 
 
-We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf. These companies may collect personal information about your visits to this Company Website and your interaction with our communications, including advertising.
+We may also send you email about periodic service updates, recommended security updates, or surveys related to the Sparkart Services or other matters. These periodic emails are considered essential to the provision of the service you have requested. You cannot unsubscribe from these mailings. You may, however, choose not to participate in the surveys.
 
-In addition to anonymous information, we also collect personal information from you at this Company Website when you voluntarily submit it to us. We request personal information from you (which may include your name, address, telephone number, email address, gender, year of birth, and when necessary, credit account information) when you:
+### Disclosure Of Personal Information
 
-  * Complete a request, registration, survey, application or other form;
-  * Request a product or service from us or from one of our vendors, suppliers or other agents;
-  * Sign-up to receive email newsletters or other correspondence;
-  * Submit materials to this Website;
-  * Participate in a promotion, contest, sweepstakes or similar promotional activity;
-  * Request materials from us; and/or
-  * Request e-mail, fax, mail or telephone support or services.
+Sparkart may provide your personal information to the third party for whom we operate this Sparkart Site or Sparkart Service (that is, the person, company, entity or organization behind the recording artist, performer, sports star, public figure, celebrity, music festival, event, apparel brand, retailer, entertainment brand, or other person or company for whom we operate the site, sell merchandise, or provide other services). Please be aware that these third parties may have their own policies governing how they will use and disclose your personal information that may be different from this Privacy Policy. Sparkart occasionally hires other companies to provide limited services on our behalf or to fulfill a service or transaction you may have requested, such as answering customer support inquiries, fulfilling merchandise orders, credit card payment processing, selling concert tickets, etc. Sparkart will only provide these companies with those pieces of your personal information needed to deliver the services.
 
+Sparkart may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Sparkart; (b) protect and defend the rights or property of Sparkart; or (c) act under exigent circumstances to protect the personal safety of users of the Sparkart Service, or the public.
 
+Sparkart may transfer personal information collected and assign the entirety of its rights and obligations under this Privacy Policy in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets associated with the Sparkart Services. 
 
-We also collect information about your activities on and through this Company Website from other third parties.
+Sparkart may share personal information with companies, organizations or individuals outside of Sparkart when we have your consent to do so. Please note that whenever you opt-in to receive communications or services from a third party, your information may be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. 
 
-You may choose not to provide us with any personal information. In such event, you can still access and use many portions of this Company Website; however, you will not be able to access and use those portions of this Company Website or the services available on or through this Company Website that require your personal information.
+### Managing Your Personal Information
 
-Using Information
+You can update or make changes to the registration information stored in relation to your account. This is accessible by signing in to the site in which you are registered. You may close your account by [contacting Sparkart Customer Service](mailto:support@sparkart.com).
 
-We may use the information we collect to:
+### You Sharing Your Information
 
-  * Customize and/or personalize your communications, surfing, viewing, and user experience; 
-  * Better respond to your customer service inquiries;
-  * Communicate with you about your account information, or customer service needs;
-  * Communicate with you about our services and events, and for other promotional purposes;
-  * Improve our service;
-  * Administer contests, promotions, surveys or other website features;
-  * Provide technical support to you; and
-  * Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.
+If you choose, you may opt-in to various features which may be available as part of the Sparkart Services which allow you to voluntarily share information, whether to a group of Sparkart users designated by you (for example, a “buddy list” or “friends” who also have a registered account) or to everyone (for example, when you post user generated content to a publicly accessible area on a website). You are cautioned not to post your personal information in the interest of safety, privacy and security. You should not post your address, telephone number, or anything that might put you at risk. Sparkart is not responsible for monitoring this information, and Sparkart is not liable for any consequences that may result from the exchange of this information. 
 
+### Security And Storage Of Your Personal Information
 
+Sparkart is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access and located in controlled facilities. 
 
-Sharing Information
+You must type the correct password to access your information. It is your responsibility to ensure the security of your Sparkart account password and not to reveal this information to others.
 
-Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party.
+Personal information collected by Sparkart may be stored and processed in the United States or any other country in which Sparkart or its affiliates, subsidiaries, or agents maintain facilities. By using the Sparkart Service, you consent to any such transfer of information outside of your country. 
 
-We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Company or any portion thereof; during the due diligence in connection with a potential sale of Company or any portion thereof; during any bankruptcy, insolvency or liquidation of Company; or in other similar circumstances.
+### Operational Information
 
-For the purpose of fulfilling our mission and providing you with certain services and products and to process your requests, purchases, and payments, we may disclose your personal information to one or more of our affiliates, service providers or other third parties who are assisting Company in performing such services. Without limiting the foregoing, these third parties may provide Company with payment processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it.
+Some “operational” information is used by Sparkart in order to operate your account properly and provide the Sparkart Services. This operational information does not include the personal information that you provide as part of your Sparkart registration data, but may include, for example, the following: the date on which your registration data was last updated, whether your email address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide the Sparkart Services.
 
-We also may provide your personal information to other Company-affiliated companies which may be outside the United States, and who may use your personal information for any legal purposes whatsoever.
+### Aggregate Information
 
-We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements and polices on this Company Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others’ rights or property including, but not limited to, claims for infringement of intellectual property, invasions of privacy or situations involving threats or alleged threats to the physical safety of a person’s property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.
+We may collect and analyze information about your use of the Sparkart Services as aggregated with the use of the Sparkart Services by other users (“Aggregate Information”); for example, overall usage patterns of Sparkart users, the total number of Sparkart users, the percentage of Sparkart users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Sparkart users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Sparkart Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information that can be used to individually identify you or any other Sparkart user, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
 
-We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.
+### Analytics
 
-Protecting Your Information
+This Sparkart Site or Service may use a third party web analytics service. Sparkart and/or such third party analytics company may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this Sparkart Site or Service. Sparkart may use the information described in this paragraph for improving overall usability, determining the success of new features, identifying areas for potential new features and other improvements, testing design changes, and/or other business and marketing purposes. 
 
-We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems. We use a variety of industry standard security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information is stored behind industry standard firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the internet can be guaranteed to be 100% secure.
+### Use Of Cookies
 
-We use commercially reasonable effort to safeguard and secure the transmission of your personal information from your computer to our computers. When you access your personal information or place orders, we offer the use of a secure server. To the extent you select the secure server method or your browser supports such functionality, all credit account information you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.
+A cookie is a very small text file that a website saves to your computers hard disk to store information that you provide about yourself or to store your preferences. The Sparkart Services may use cookies when you sign in to or access a Sparkart Site or Service. The Sparkart Services store your unique identifier, the time you signed in, and Sparkart registration data in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page.
 
-Cookies and Pixel Tags
+The Sparkart Services may also use cookies to improve the sign in experience. For example, the Sparkart Services may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be entered automatically, so that you will only need to type your password the next time you sign in.
 
-This Company Website uses cookies. A cookie is a small, removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on this Company Website and allow us to enhance, facilitate and personalize your online surfing and user experience. For example, we use cookies to:
+You may have the ability to accept or decline cookies using the settings on your browser. However, if you choose to decline cookies, you may not be able to sign in or use the Sparkart Services.
 
-  * Recognize you when you return to this Company Website;
-  * Present relevant content to you when you visit this Company Website;
-  * Analyze visitor behavior; and
-  * Facilitate other similar types of activities.
+### Your California Privacy Rights
 
+If you are a resident of California with an established business relationship with us, you may request certain information about whether we have disclosed your personal information to any third parties for their direct marketing purposes. To make such a request, please send an email to [support@sparkart.com](mailto:support@sparkart.com). 
 
+### Changes To This Privacy Policy
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings. If you turn cookies off, you won’t have access to many features that make your visit to this Company Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability. 
+Sparkart may occasionally update this Privacy Policy. When we do, Sparkart will provide notice to users in one or more of the following ways so that you may review the updated policy: (1) Sparkart will update the “last updated” date at the bottom of the Privacy Policy; (2) Sparkart may post notice of the update on the Sparkart Site or Service; and (3) Sparkart may email notice of the update to registered users. 
 
-We also use pixel tags- tiny graphic images- to help us analyze your online behavior and information about visitors to this Company Website and our customers. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. 
+### Contact Us
 
-Tell a Friend
+If you have questions regarding this Privacy Policy, please [contact Customer Service](mailto:support@sparkart.com). 
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Company collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit the site but does not store this information.
-
-Children’s Online Privacy
-
-We do not knowingly collect personal information from children under the age of 13. This Company Website is not intended to solicit information of any kind from children under the age of 13, and we have made commercially reasonable efforts to design this Company Website to prevent our knowing acceptance of any such information.
-
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 13, please do so by emailing us.
-
-Chat Rooms and Forums
-
-This Company Website may now or in the future include web logs (i.e., blogs), chat rooms, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or “spam” from others. Company cannot safeguard the privacy of personal information that is disclosed online in this manner.
-
-Other Websites
-
-When browsing this Company Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Company may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Company is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Company Website only for your convenience and you access them at your own risk.
-
-Unsubscribing, Removing or Modifying Your Information
-
-We want to communicate with you only if you want to hear from us. 
-
-To modify or delete any or all of the personal information you have provided to us, please login and update your profile.
-
-You may unsubscribe from receiving emails from us at any time by using the link included at the bottom of each email communication. You may also unsubscribe by sending us an [email](mailto:admin@youngmoney.com). 
-
-In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Website Terms and Conditions of Use Agreement, we may retain in our files information you have requested to remove. Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
-
-We reserve the right to send you certain communications related to this Company Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them. 
-
-Terms and Conditions
-
-Company has a Terms and Conditions Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Company Website. Please review the terms and conditions governing your use of, and access to, this Company Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein.
-
-Questions and Feedback
-
-We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us [feedback](mailto:admin@youngmoney.com) pertaining to these matters or any other issue you may have with Company or this Company Website. 
-
-If you feel that we are not following our stated Privacy Policy, you may also contact state or local chapters of the Better Business Bureau, your state or local consumer protection office, or The Federal Trade Commission by phone at 202-FTC-HELP (202.382.4357) or at [http://www.ftc.gov/ftc/complaint.htm.](http://www.ftc.gov/ftc/complaint.htm)
-
-Last Updated: April 2, 2008
+**Last Updated: February 7, 2013**
