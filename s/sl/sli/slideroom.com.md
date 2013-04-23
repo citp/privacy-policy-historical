@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510145255id_/http%3A//slideroom.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424004130id_/http%3A//slideroom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SlideRoom
 
-##  Privacy Policy
+[](https://web.archive.org/)
 
-SlideRoom.com ("Company") is committed to protecting the privacy of our customer’s personal information. This statement applies with respect to the information that we collect from the Company Website at [http://www.SlideRoom.com](http://www.slideroom.com/) and Accounts provided to our Clients and their applicants. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+## SlideRoom.com ("Company") is committed to protecting the privacy of our customer’s personal information.
+
+This statement applies with respect to the information that we collect from the Company Website at [http://www.SlideRoom.com](http://www.slideroom.com/) and Accounts provided to our Clients and their applicants. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 ###  I. INFORMATION COLLECTED
 
@@ -20,7 +22,7 @@ We use your IP Address to help diagnose problems with our server, and to adminis
 
 ###  IV. USE OF COOKIES
 
-When you view our Website we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Website as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.
+When you view our Website we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive nor steal information. Rather, they help you navigate a Website as easily as possible. We use cookies to store that users are logged in and to gather aggregate information via Google Analytics.
 
 ###  V. SECURITY
 
