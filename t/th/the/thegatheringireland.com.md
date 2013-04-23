@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegatheringireland.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227121055id_/http%3A//www.thegatheringireland.com/Information/Cookies-and-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegatheringireland.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423201032id_/http%3A//www.thegatheringireland.com/Information/Cookies-and-privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Gathering - The Gathering Ireland 2013
 
@@ -125,8 +125,11 @@ The data that we collect from you may be transferred to, and stored Fáilte Irel
 We may contact you:
 
   * • for administration reasons related to the service to which you have signed up (e.g. to provide you with password reminders or to notify you that a particular service, activity or online content has been suspended for maintenance, or in response to a question that you ask us).
+
   * • to provide you with information about our services, activities or online content. You should only receive e-newsletters or similar correspondence and updates from www.thegatheringireland.com if you have agreed to in response to any contact you have made with us, e.g. on The Gathering Ireland Facebook page, or via the Contact Us facility. It will be made clear to you where you have these choices, for example, by providing tick boxes for you to decide whether you wish to receive e-newsletters.
+
   * • to invite you to participate in surveys about our services (participation is always voluntary).
+
 
 
 
@@ -155,3 +158,35 @@ This Privacy Policy may be updated from time to time, so you may wish to check i
 **Consent**
 
 By accessing services offered by us, you consent to the collection and use of this information by us as outlined in this Privacy Policy. By providing any personal information to us, you fully understand and clearly consent to such use and transfers as set out in this Privacy policy. Legal information and how to contact us The Data Controller for the Website and services provided through the Website is The Gathering Project 2013 Limited, 88-95 Amiens Street, Dublin 1. If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding the Company's use of personal data please contact [info@thegatheringireland.com](https://web.archive.org/Information.aspx "contact The Gathering Ireland 2013").
+
+**User Comments - Terms of Use**
+
+Outlined below are the terms of use associated with the comment facilities on TheGatheringIreland.com.
+
+User contributions and/or comments do not, unless specifically stated, represent the views of The Gathering Ireland. 
+
+Rules for [use of/contributing to] the comments section:
+
+  * This is a public arena; remember that everyone with access to the Internet can read what you post. You may express your opinions but remember that you are legally responsible for what you contribute. Be aware that a wide variety of people may view your comments which must be respectful, comply with the Terms & Conditions and these Rules.
+  * You must not [submit/provide] content to TheGatheringIreland.com (which for the purposes of these Rules is defined to include any text of whatever nature including any comments or submissions posted by you, [photographs,/graphics,/video/ or audio) ("content")) that:
+
+
+
+\- is defamatory, offensive, sexist, homophobic, obscene, harassing or threatening;
+
+\- is in breach of (i) anyone's privacy; or (ii) confidentiality;
+
+\- infringes any third parties intellectual property rights;
+
+\- may cause anxiety or encourage racial hatred or violence;
+
+\- may prejudice legal proceedings.
+
+  * You must not seek to impersonate a third party or post comments which are falsely attributed to third parties.
+  * You must not include any links to any websites or web pages.
+  * You must not use TheGatheringIreland.com website for the promotion of products or services or for any purpose other than you own personal, non-commercial use.
+  * By contributing to TheGatheringIreland.com website you confirm that it is your own original work and not copied from anyone else or infringing any third party's intellectual property or other rights and complies with these Rules and the Terms & Conditions.
+  * By providing Content to TheGatheringIreland.com you grant to The Gathering Ireland a royalty free, perpetual, irrevocable, worldwide, non-exclusive licence to use, edit, moderate, copy and make the Content or any part of it available as it sees fit on the TheGatheringIreland.com website or on any other The Gathering Ireland or third party services in any media or technology now known or later developed.
+  * The Gathering Ireland may check, edit, moderate, delete Content submitted by you. Before sharing, consider very carefully what may be perceived as controversial or political content. Any abusive, profane or even defamatory posts towards any person, entity, belief or symbol shall be deleted. 
+
+
