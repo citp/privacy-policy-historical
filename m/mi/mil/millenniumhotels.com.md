@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millenniumhotels.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129125547id_/http%3A//www.millenniumhotels.com/utilities/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millenniumhotels.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423113518id_/http%3A//www.millenniumhotels.com/utilities/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Millennium & Copthorne Hotels | Privacy Policy
 
