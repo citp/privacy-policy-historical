@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the laws.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015081802id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laws.com privacy policy that was archived on 2013-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423223021id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<!--meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /-->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Privacy Policy</title>
-		<meta name="description" content="We provide the most relevant and accurate information about laws and attorney.">
-	<meta name="keywords" content=" lawyer,laws, attorney">
+		<meta name="description" content="PrivacyPolicy">
+	<meta name="keywords" content="PrivacyPolicy, PrivacyPolicy(s)">
 	<link href="http://www.laws.com/fav.ico" rel="shortcut icon">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery-1.4.min.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery.form.min.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery.colorbox-min.js"></script><script type="text/javascript" src="http://img.laws.com/js/swfobject.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery.customselect.js"></script><script type="text/javascript" src="http://img.laws.com/js/script.js"></script><link rel="stylesheet" type="text/css" href="http://img.laws.com/images/v4/style.css"><link rel="stylesheet" type="text/css" href="http://img.laws.com/images/colorbox.css"><link rel="stylesheet" type="text/css" href="http://img.laws.com/images/tips/tips.css"><script language="javascript">
 function answerSearch(f){
@@ -43,7 +42,7 @@ function lawsSearch(f,s){
 	return false;
 }
 function laywerSearch(f){
-	//SetCookie('searchMode','lawyer');
+	//SetCookie('sVerfied','');
 	if(f.spec.value==''){
 		alert('Please select Category!');
 		return false;
@@ -58,9 +57,31 @@ function laywerSearch(f){
 		if(f.city.value!='') loc+='/'+f.city.value.replace(/\W/g,"-");
 		//else if(f.zip.value!='') loc+='/'+f.zip.value;
 	  //loc=loc.replace(/-+/g,"-");
+	  var ifveri=getCookie('sVerfied');
+	  if(ifveri!=1){
+	 		refreshCaptcha();
+	  	$.fn.colorbox({inline:true, href:'#hide_verify'});
+	  	return false;
+		}
 		window.location=loc;
 	}
 	return false;
+}
+function refreshCaptcha(){
+	$('#verifyimg').attr('src','/index/verifyimg/w/86/h/40/rand/'+Math.random());
+}
+function submitCaptcha(){
+	var verify=$('#verify_text').val();
+	if(verify.length!=4) alert('Please enter the correct Captcha!');
+	else{
+		$.post("/ajax/verify_", {'verify_code':verify}, function (data, textStatus){
+			//alert(data);
+			if(data=='yes') {
+				SetCookie('sVerfied','1');
+				laywerSearch(document.search1);
+			}else alert('Please enter the correct Captcha!');
+		});
+	}
 }
 $(function(){
 	$('#qucik-key').autocomplete({ 
@@ -81,10 +102,23 @@ $(function(){
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-</head>
+<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
 <body>
+
+<!-- BuySellAds Ad Code -->
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<!-- End BuySellAds Ad Code -->
+
 <div id="wrapper">
-		<a href="http://marketing.laws.com" class="top-right" style="background:none;width:143px;height:22px;padding-top:0px"><img src="http://www.laws.com/themes/default/images/attorney.gif" alt="<font style=" font-size:14px;text-transform:none;line-height:28px"="">Legal Innovation Through Technology" /&gt;</a>
+		<a href="https://secure.laws.com/free-trial" class="top-right" style="background:none;width:143px;height:22px;padding-top:0px"><img src="http://www.laws.com/themes/default/images/attorney.gif" alt="<font style=" font-size:14px;text-transform:none;line-height:28px"="">Legal Innovation Through Technology" /&gt;</a>
 	<div id="top-menu">
 			    	<a href="javascript:;" class="home" style="cursor:default;margin-right:0;width:4px;height:6px;position:relative\9;top:-8px\9;">&nbsp;</a>
     	    	<a href="http://www.laws.com">Laws</a>
@@ -314,7 +348,8 @@ directed at info@laws.com.<br></span><br>        </div>
     </div>
     <div class="clearfix"></div>
 
-<div style="margin-left:170px"></div>
+<div style=""></div>
+
 
 <!--FOOTER-->
 <div id="footer">
@@ -324,108 +359,11 @@ directed at info@laws.com.<br></span><br>        </div>
         	<div class="top"></div>
             <div class="middle">
             		<div class="inner">
-                        <div class="mid-sec" style="height:220px">
+                        <div class="mid-sec" style="height:auto;min-height:120px">
                         	<div class="fl hgap70"></div>
                             <div class="top-sec live-support" style="border-bottom:none;width:650px;background:none;padding-left:0px">
                             	
-                            	<div class="right" style="float:none;width:630px">
-                        		                		<form id="footlogin" name="footlogin" action="/index/login_" method="post" rel="nofollow">
-                            	<div class="fs13">Login Here. Don't have a Listing? <a name="signup" href="http://www.laws.com/registration" rel="nofollow" class="blue-black-3">Signup</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.laws.com/index/forgot" rel="nofollow" class="blue-black-3" style="font-size:11px;color:#999999">Forgot your password?</a></div>
-                                <div style="height:5px"></div>
-                                <div>
-                                	<div class="fl"><input type="text" name="zhm_email" value="Email Address" onfocus="if(this.value=='Email Address') this.value='';" onblur="if(this.value=='') this.value='Email Address';" class="input1" style="width:130px"></div>
-                                    <div class="fl gap10"></div>
-                                    <div class="fl"><input type="password" id="pwd-pwd" name="zhm_pwd" class="input1" style="width:130px"></div>
-                                    <div class="fl gap10"></div>
-                                    <div class="fl"><input type="image" src="http://www.laws.com/themes/default/images/login-btn.gif" style="border:none" rel="nofollow"></div>
-                                    <div id="flogininfo" class="fl" style="padding:5px"></div>
-                                    <div class="clearfix"></div>
-                                    <div class="gap10"></div> 
-                                    <input type="hidden" id="hidden-jumpUrl" name="jumpUrl" value="/user/afterlogin">                                </div>
-                          </form>
-                     
-
-<script type="text/javascript">
-	
-var ajaxImage = ['/public/images/ajaxloading.gif','/public/images/ok.gif','/public/images/error.gif'];
-var submitvalue = '';
-
-function highLightField(field,formid){
-	$("input",$("#"+formid)).removeClass("error_input");
-	$("input[name="+field+"]",$("#"+formid)).addClass("error_input");
-	$("textarea",$("#"+formid)).removeClass("error_input");
-	$("textarea[name="+field+"]",$("#"+formid)).addClass("error_input");
-	if ($.isFunction(window.customErrorField)) customErrorField(field,formid);
-}
-	
-$(function(){
-	
-	if($('#resultAjax').length==0){
-		$(document.body).append('<div id="resultAjax" style="position: absolute;right:10px;top:10px;"></div>');
-	}
-	
-	if($('#flogininfo').length==0){
-		$(document.body).append('<div id="flogininfo" style="position: absolute;right:10px;top:10px;"></div>');
-	}
-	
-	var optionsfootlogin = {
-		//target:     '#result',
-		//url:        'comment.php',
-		dataType : 'json',
-		success: showResponsefootlogin
-	};
-	$('#footlogin').submit(function() {
-	
-			$('#flogininfo').html('<IMG SRC="'+ajaxImage[0]+'"  BORDER="0" ALT="loading..." align="absmiddle"> Processing...');
-			$('#flogininfo').fadeTo("slow",0.85);
-		
-		submitvalue = $('input:submit',this).val();
-		//$('input:submit',this).val('Submiting, Please wait...');
-		$(this).append('<input type="hidden" name="ajax" value="1">');
-		$(this).ajaxSubmit(optionsfootlogin);
-		return false;
-	});
-	
-});
-function showResponsefootlogin(responseText, statusText)  {
-    if(responseText.status==1){
-    
-    		if(responseText.info!='') $('#flogininfo').html('<IMG SRC="'+ajaxImage[1]+'" BORDER="0" ALT="success..." align="absmiddle"> <span style="color:blue">'+responseText.info+'</span>');
-    	if($('#hidden-jumpUrl',$('#footlogin')).val()!=undefined){
-    		setTimeout("window.location.href=$('#hidden-jumpUrl',$('#footlogin')).val();",2500);
-    	}else{
-    		setTimeout("window.location.reload()",2000);
-    	}
-    }else{$('#flogininfo').html('<IMG SRC="'+ajaxImage[2]+'" BORDER="0" ALT="error..." align="absmiddle"> <span style="color:red">'+responseText.info+'</span>');
-			$('#flogininfo').fadeOut(2500);
-			if(responseText.data!=''){
-				highLightField(responseText.data,'footlogin');
-			}
-    }
-}
-		
-</script>
-	<script language="javascript">
-$(function() { 
-	showtext_pass($("#footlogin"), $("#pwd-pwd"), "Password");
-});
-function showtext_pass(form, element, text) {
-    var phony = $("<input>");
-    phony.attr("type", "text");
-    phony.attr("id", element.attr("id"));
-    phony.attr("class","input1");
-    phony.css("width","130px");
-    phony.val(text);
-    phony.insertAfter(element);
-    element.hide();
-
-    phony.focus(function() { phony.hide(); element.show(); element.focus(); });
-    element.blur(function() { if (!element.val()) { element.hide(); phony.show(); } });
-}
-</script>                                 
-                            
-														</div>
-                            <div class="clearfix"></div>
+                            	                            <div class="clearfix"></div>
                             	
                             	<a href="http://marketing.laws.com"><img src="http://www.laws.com/themes/default/images/foot_banner.jpg"></a>
                             	<div class="gap10"></div>
@@ -435,11 +373,12 @@ function showtext_pass(form, element, text) {
                             </div>
                             <div class="links" style="padding:0 10px 0 50px;width:140px;min-height:100px">
                             	                            	<a href="http://www.laws.com/category/about" rel="nofollow">Contact Us</a>
+                            	<a href="http://marketing.laws.com" rel="nofollow">Lawyer Marketing</a>
+                            	<a href="http://advertising.laws.com" rel="nofollow">Advertise on Laws.com</a>
                             	<a href="http://www.laws.com/category/AboutUs" rel="nofollow">About Us</a>
                             	<a href="http://www.laws.com/category/TermsOfUse" rel="nofollow">Terms of Use</a>
                             	<a href="http://www.laws.com/category/PrivacyPolicy" rel="nofollow">Privacy Policy</a>
                             	<a href="http://www.laws.com/category/AdvertisingPolicy" rel="nofollow">Advertising Policy</a>
-                            	<a href="http://advertising.laws.com" rel="nofollow">Advertise on Laws.com</a>
                                                           </div>
                             
                             <div class="clearfix"></div>
