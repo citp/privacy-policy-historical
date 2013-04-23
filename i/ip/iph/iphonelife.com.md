@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016061807id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423173716id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone Life
 
