@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011195443id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423044428id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
 
-# DonorsChoose.org: Privacy Policy
+# Privacy Policy
 
 **Privacy Policy  
 DonorsChoose.org**
@@ -63,7 +63,7 @@ The following additional terms apply to those users who sign up for a teacher ac
 
 6.2 _Verification Of Affiliation_. The contact information (name, postal address, email address and telephone number) of teachers who have indicated an affiliation with a teacher organization (e.g., RISE Network, Barksdale Reading Institute, Teach For America, New York Teaching Fellow) may be shared with the associated organization for purposes of verification that the teacher belongs to the organization (See Section 4 above). However, our agreements with the affiliated organizations only permit them to use such personal information for the purpose of performing that function and prohibits them from using it for any other purpose. The name and postal address of teachers who have indicated an affiliation with a teacher organization may also be provided to teachers who have indicated the same affiliation-so as to enable authentication of a teacher's affiliation. 
 
-6.3 _Student Projects_. DC will provide visitors to the Sites and potential donors with information regarding student projects available for funding. For project shipping and fulfillment purposes we will provide teacher name and school address information to our electronic procurement partner eSchoolMall.com ("ESM"), vendors selected by teachers using ESM (e.g., Barnes & Noble for classroom materials), and other vendors and services providers selected by teachers (e.g., a local science museum for a field trip). DC is not responsible for the privacy practices of these companies. For more information regarding the handling of your information by these companies, please refer to the privacy policies of these companies. 
+6.3 _Student Projects_. DC will provide visitors to the Sites and potential donors with information regarding student projects available for funding. For project shipping and fulfillment purposes we will provide teacher name and school address information to our electronic procurement partner vendors, and other vendors and services providers selected by teachers (e.g., a local science museum for a field trip). DC is not responsible for the privacy practices of these companies. For more information regarding the handling of your information by these companies, please refer to the privacy policies of these companies. 
 
 6.4 _School Officials and Teacher Colleagues_. DC may provide information about a teacher (including but not restricted to name, postal address, and proposal information), project and materials supplied to a teacher in connection with a project to principals, teacher colleagues at your school, superintendents, or other employees of local, state, or federal school systems. 
 
