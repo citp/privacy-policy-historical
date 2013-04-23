@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcore.net privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210194819id_/http%3A//www.searchcore.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcore.net privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423165114id_/http%3A//www.searchcore.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ If a user no longer wishes to receive e-mail communication from Searchcore, such
 
 ## Contact Information
 
-Searchcore.net is owned and operated by Discordia Limited. Please direct all questions in connection with this Policy via e-mail to [privacy@searchcore.net](mailto:privacy@searchcore.net) or by writing to Discordia Limited, Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus
+Searchcore.net is owned and operated by Bandoo Media Inc.. Please direct all questions in connection with this Policy via e-mail to [privacy@searchcore.net](mailto:privacy@searchcore.net) or by writing to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus
