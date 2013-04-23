@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042629id_/http%3A//www.surf4cars.co.za/useful_tools/Private_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423111802id_/http%3A//www.surf4cars.co.za/useful_tools/Private_Policy.aspx) for the most accurate reproduction.*
 
 # 
 
-## **Surf4cars Privacy Policy**
+## Surf4cars Privacy Policy
 
 **Why do we ask for personal information?**
 
@@ -22,4 +22,4 @@ Users will only be contacted once by Surf4cars after they have sent a request. O
 
 **Contact Us**
 
-Should any user need any assistance regarding the above or any other services, he/she can contat us at any time on info@surf4cars or by using the contact us section on our homepage.
+Should any user need any assistance regarding the above or any other services, he/she can contact us at any time on [info@surf4cars.co.za](mailto:info@surf4cars.co.za) or by using the contact us section on our homepage.
