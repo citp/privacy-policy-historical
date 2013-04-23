@@ -1,40 +1,18 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223093148id_/http%3A//www.cpsc.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423073553id_/http%3A//www.cpsc.gov/en/About-CPSC/Miscellaneous/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy and Security Notice
-
-  
-
-
-* * *
+# CPSC - Privacy Policy
 
 The U.S. Consumer Product Safety Commission, a Federal Government regulatory agency, provides these World Wide Web pages as a public service.
 
-  * Copyright
-  * Information Collection
-    * User Information
-    * Cookies
-    * Third Party Applications
-  * Links
-  * Privacy
-  * Legal
-  * Privacy Impact Assessments
-  * Systems of Records
-  * Security
-  * Questions
-
-
-
-* * *
-
 ### Copyright
 
-Providing the public with vital safety information over the Internet is an essential part of the U.S. Consumer Product Safety Commission's (CPSC) effort to carry out its mission. Web page text, brochures, and posters presented on CPSC websites are public information. You may freely distribute, copy, or link to any of this information. However, the information may not be used in a way that states or implies CPSC endorsement. If you do distribute, copy or link to any of this information, please credit CPSC. 
+Providing the public with vital safety information over the Internet is an essential part of the U.S. Consumer Product Safety Commission's (CPSC) effort to carry out its mission. Web page text, brochures, and posters presented on CPSC websites are public information. You may freely distribute, copy, or link to any of this information. However, the information may not be used in a way that states or implies CPSC endorsement. If you do distribute, copy or link to any of this information, please credit CPSC.
 
-Images on this website may have been licensed for use by CPSC from a stock photography service or other copyright holder and the copyright holder may prohibit republication, retransmission, reproduction or other use of the images. 
+Images on this website may have been licensed for use by CPSC from a stock photography service or other copyright holder and the copyright holder may prohibit republication, retransmission, reproduction or other use of the images.
 
-You may freely copy and distribute recall notices, including photographs of recalled items, without permission. Any other use of photographs found in recall notices may require permission from a copyright holder. 
+You may freely copy and distribute recall notices, including photographs of recalled items, without permission. Any other use of photographs found in recall notices may require permission from a copyright holder.
 
-Questions about use of specific images or other materials may be submitted via our [Contact Us](https://web.archive.org/cgibin/info.aspx) form.
+Questions about use of specific images or other materials may be submitted via our [Contact Us](http://www.cpsc.gov/cgibin/info.aspx) form.
 
 * * *
 
@@ -44,7 +22,7 @@ Questions about use of specific images or other materials may be submitted via o
 
 We do not attempt to identify individual users of the site or their usage habits. The exceptions to this are Section 15 reports submitted through the online reporting form, reports of harm (Reports) and business comments submitted through SaferProducts.gov, information provided voluntarily on contact forms, and authorized law enforcement investigations.
 
-If you identify yourself by sending an e-mail to CPSC or filling out a web site form, any personal information provided is used only to respond to your message, and will not be disclosed outside of the agency without explicit permission. If you join one of the CPSC's e-mail subscription lists, your e-mail address will be used for that purpose only and will not be disclosed outside of the agency. If you submit a Report through SaferProducts.gov, via the CPSC Hotline, or by fax or postal mail, the Report will be processed and placed in the Database if it meets the [minimum requirements for publication](http://www.saferproducts.gov/faq-report.aspx#faq9). Your name and contact information will never appear in the Database. You will be given the option of allowing the CPSC to provide your name and contact information to the manufacturer or private labeler that you identified in your Report. By law, we can provide this information to the manufacturer only if you give us written permission to do so.
+If you identify yourself by sending an e-mail to CPSC or filling out a web site form, any personal information provided is used only to respond to your message, and will not be disclosed outside of the agency without explicit permission. If you join one of the CPSC's e-mail subscription lists, your e-mail address will be used for that purpose only and will not be disclosed outside of the agency. If you submit a Report through SaferProducts.gov, via the CPSC Hotline, or by fax or postal mail, the Report will be processed and placed in the Database if it meets the [minimum requirements for publication](https://www.saferproducts.gov/faq-report.aspx#faq9). Your name and contact information will never appear in the Database. You will be given the option of allowing the CPSC to provide your name and contact information to the manufacturer or private labeler that you identified in your Report. By law, we can provide this information to the manufacturer only if you give us written permission to do so.
 
 #### Cookies
 
@@ -59,8 +37,6 @@ CPSC uses Google Analytics, a web service by Google, Inc., to perform web measur
 The CPSC’s Publicly Available Consumer Product Safety Information Database (Database) at SaferProducts.gov also utilizes cookies. The Public Portal of SaferProducts.gov utilizes single session, non-persistent cookies (classified by the OMB guidelines as Tier 1) to identify that (1) a registered user has logged on to the site and (2) an e-mail has been sent to a registered user who saves the report for the first time to avoid the issuance of duplicate e-mails when a report is continually saved. The Public Portal of SaferProducts.gov also utilizes a multi-session, persistent cookie (classified by the OMB guidelines as Tier 2) to continue to display search results and web pages based upon the search and font size settings selected by the user. The business portal of SaferProducts.gov utilizes a single session, non-persistent cookie (classified by the OMB guidelines as Tier 1) to identify which company a registered user would like to represent when the user is associated with more than one company. These technologies are enabled by default for the user’s convenience. No PII is saved in these cookies, nor can these cookies be used to track user activities across other websites. Search result preferences will be retained for 30 days from the last time the user utilized the search functionality and font size preferences will be retained for 30 days from the last time the user accessed the site.
 
 Flickr® - CPSC maintains official Flickr account(s) (owned by Yahoo®) to share CPSC imagery with the public. Your use of Flickr, and the privacy of your PII, as provided by Flickr, can be found on their Yahoo! Privacy page (http://info.yahoo.com/privacy/us/yahoo/flickr/details.html). As part of the Flickr service, anonymous usage statistics (not containing any PII) are made available to users to understand the amount of traffic and use of their uploaded content. CPSC may periodically review this usage data to help improve our content. CPSC will not receive any PII. In addition, CPSC provides embedded Flickr content within our own pages on the domains which we own and maintain. In these cases, Flickr may set a persistent cookie as a result of the embedded content. CPSC use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside the embedded content.
-
-CPSC provides embedded Slideshare content within our own pages on the domains which we own and maintain to share PowerPoint presentations, Word documents, and Adobe PDF Portfolios with the public. In these cases, Slideshare may set a session cookie as a result of the embedded content. CPSC use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside the embedded content.
 
 #### Third-Party Applications
 
@@ -138,13 +114,13 @@ All materials on the site are presented by the CPSC for general informational pu
 
 CPSC is responsible for ensuring the privacy and confidentiality of the information it collects on members of the public, business partners, and its own employees. These people have a right to expect CPSC will collect, maintain, use and disseminate identifiable personal information only as authorized by law and as necessary to carry out agency responsibilities.
 
-[Privacy Impact Assessments (PIAs)](https://web.archive.org/cpscpub/pubs/reports.html#pia) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.
+[Privacy Impact Assessments (PIAs)](https://web.archive.org/web/20130423073553id_/http://www.cpsc.gov/en/About-CPSC/Miscellaneous/Privacy-Policy/~/link/da916fcf9cf64652be9556a0ec22c0b2.aspx) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.
 
 * * *
 
 ### Systems of Records
 
-The Privacy Act requires agencies to publish in the Federal Register notices of new or substantially altered [systems of records](https://web.archive.org/cpscpub/pubs/systems.html), that is, systems from which personal information, confidential or not, is retrieved by personal name or identifier.
+The Privacy Act requires agencies to publish in the Federal Register notices of new or substantially altered [systems of records](https://web.archive.org/About-CPSC/Agency-Reports/System-of-Records/), that is, systems from which personal information, confidential or not, is retrieved by personal name or identifier.
 
 CPSC reviews each system of record notice biennially to ensure it accurately describes the system of records. All systems containing personally identifiable information are reviewed on an annual basis to ensure that holdings are accurate, relevant, timely and complete and necessary for the proper performance of a documented agency function.
 
@@ -160,9 +136,4 @@ Unauthorized attempts to upload information or change information on this servic
 
 ### Questions
 
-For any questions about this policy, please contact the CPSC Web Team at [webteam@cpsc.gov](mailto:webteam@cpsc.gov).
-
-  
-
-
-* * *
+For any questions about this policy, please contact the CPSC Web Team at 301-504-6987 or [webteam@cpsc.gov](mailto:webteam@cpsc.gov).
