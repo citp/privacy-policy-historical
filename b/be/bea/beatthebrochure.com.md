@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228184835id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423101327id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Cheap Holidays, Package Holidays, City Breaks, All Inclusive Holidays
+# Beat The Brochure - Privacy Policy
 
-**Thank you for accessing the web site Beatthebrochure.com**
+**Thank you for accessing the website Beatthebrochure.com**
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we collect and use your personal information. By visiting our Site, you accept the practices described in this Policy. 
 
