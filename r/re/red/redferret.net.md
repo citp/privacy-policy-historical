@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redferret.net privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025174637id_/http%3A//www.redferret.net/%3Fpage_id%3D6142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redferret.net privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423170346id_/http%3A//www.redferret.net/%3Fpage_id%3D6142) for the most accurate reproduction.*
 
-# The Red Ferret Journal - Our Privacy Policy
+# Our Privacy Policy |
 
 The Red Ferret is absolutely committed to protecting your privacy. We hate anything underhand or dishonest, so we will not sell, rent or otherwise dispose of your personal information to anyone else, ever. The only personal information we collect about you comes from stuff you expressly give us (like your email address or website address) and we use things like browser cookies which help us track visitor traffic every day. The reason we need this stuff is to try and make The Ferret a better and more enjoyable site, so we take it that you automatically consent to this kind of general data gathering through your use of our site. 
 
