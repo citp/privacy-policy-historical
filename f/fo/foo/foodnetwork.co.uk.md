@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015024544id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424013045id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy And Cookies Policy @FoodNetwork_UK
 
 WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE. 
 
-Welcome to foodnetwork.co.uk. foodnetwork.co.uk (“Website”) is an interactive online service operated by Lightdragon Holdings Limited (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy. 
+Welcome to foodnetwork.co.uk. foodnetwork.co.uk (“Website”) is an interactive online service operated by Scripps Networks International (UK) Limited (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy. 
 
-For the purposes of the Data Protection Act 1998 ("Act") the data controller is Lightdragon Holdings Limited with a registered address of 111 Buckingham Palace Road, London SW1 0SR.
+For the purposes of the Data Protection Act 1998 ("Act") the data controller is Scripps Networks International (UK) Limited with a registered address of One Fleet Place, London, EC4M 7WS.
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources. 
 
@@ -146,4 +146,4 @@ We will respond to your request and, if applicable and appropriate, make the req
 
 This Privacy Policy as posted on this Site is the sole statement of our privacy policy with respect to this Site, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Site.
 
-Effective: November 12, 2008 © 2008 Lightdragon Holdings Limited. All Rights Reserved.
+Effective: November 12, 2008 © 2008 Scripps Networks International (UK) Limited. All Rights Reserved.
