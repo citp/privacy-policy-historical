@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slingmedia.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191943id_/http%3A//www.slingmedia.com/get/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingmedia.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423132124id_/http%3A//www.slingbox.com/get/privacy) for the most accurate reproduction.*
 
-# Sling Media - Privacy Policy
+# Slingbox.com - Privacy Policy
 
 **Introduction:  
 **
@@ -14,9 +14,9 @@ Please take a few moments to read this Privacy Statement. By accessing the Sling
 **What information we collect:  
 **
 
-In various places in connection with Sling Products, we collect “Personally Identifiable Information,” such as your name, postal address, telephone number, email address, or other information that can be used to identify you or contact you. For example, we collect this information when you sign up for our email newsletter, purchase or register a SlingBox product, register for a “Sling Account”, enter a sweepstakes or participate in promotions and give-aways. From time to time in the future we may offer additional features, services and promotional opportunities that would require you to submit Personally Identifiable Information to participate.
+In various places in connection with Sling Products, we collect “Personally Identifiable Information,” such as your name, postal address, telephone number, email address, or other information that can be used to identify you or contact you. For example, we collect this information when you sign up for our email newsletter, purchase or register a Slingbox product, register for a “Sling Account”, enter a sweepstakes or participate in promotions and give-aways. From time to time in the future we may offer additional features, services and promotional opportunities that would require you to submit Personally Identifiable Information to participate.
 
-We also collect “Anonymous Information” such as your IP address, your ZIP code, your Media Access Control (MAC) address, your SlingFinder ID, the name you assigned to your SlingBox, the hardware and firmware version of your SlingBox, the type of browser you use, the pages on our websites that you visit, the identity of your broadcast television provider, the search terms that you enter, the advertisements that you click and the number and frequency of users of Sling Products. Anonymous Information will not be associated with Personally Identifiable Information.
+We also collect “Anonymous Information” such as your IP address, your ZIP code, your Media Access Control (MAC) address, your SlingFinder ID, the name you assigned to your Slingbox, the hardware and firmware version of your Slingbox, the type of browser you use, the pages on our websites that you visit, the identity of your broadcast television provider, the search terms that you enter, the advertisements that you click and the number and frequency of users of Sling Products. Anonymous Information will not be associated with Personally Identifiable Information.
 
 Like many Internet sites, we also use “cookies” to collect information when you visit our website. A cookie is a small data file that we transfer to your computer and is stored on your hard drive. When you visit our websites the cookie identifies your computer to us so that you do not have to re-register each time you visit. We also use cookies to measure the traffic to our site and its different services and features, and other miscellaneous uses.
 
@@ -72,7 +72,7 @@ During sessions in which you give us information such as credit card numbers, we
 Changes to this Privacy Statement:   
 
 
-We may make changes to this Privacy Statement from time to time for any reason. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used (though you always have the option to delete your account as described above). If we make changes in the way we use Personally Identifiable Information, we will notify you via e-mail or by posting an announcement on our website. The latest version will be available at http://www.slingmedia.com/get/privacy-policy. You will be bound by any changes to the Privacy Statement when you use Sling Products after receiving notice of such changes.
+We may make changes to this Privacy Statement from time to time for any reason. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used (though you always have the option to delete your account as described above). If we make changes in the way we use Personally Identifiable Information, we will notify you via e-mail or by posting an announcement on our website. The latest version will be available at http://www.slingbox.com/get/privacy-policy. You will be bound by any changes to the Privacy Statement when you use Sling Products after receiving notice of such changes.
 
 Effective Date:  The Effective Date of this Privacy Statement is December 17, 2007  
 
