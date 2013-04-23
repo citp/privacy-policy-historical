@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdactive.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030160306id_/http%3A//www.dvdactive.com/information/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdactive.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423192632id_/http%3A//www.dvdactive.com/information/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Information - DVDActive
 
