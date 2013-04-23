@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511134128id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423134229id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
 
 # BabyNames.com Privacy Policy
 
@@ -71,7 +71,7 @@ Questions regarding this statement should be directed to BabyNames.com User Supp
 
 **BabyNames.com**  
 User Support Services  
-2355 Westwood Blvd. #133  
-Los Angeles, CA 90064  
+PO BOX 1147  
+Oakhurst, CA 93644  
 (510) 51-NAMES (510-516-2637)  
 [support@babynames.com](mailto:support@babynames.com)
