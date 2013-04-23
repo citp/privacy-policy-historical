@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakley.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028005449id_/http%3A//www.oakley.com/legal/global-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakley.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423230557id_/http%3A//www.oakley.com/legal/global-privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
@@ -10,7 +10,7 @@ There are many ways that Oakley obtains information from you: (1) via signup on 
 
 ## The Information We Collect
 
-When you register on-line to receive our product information, you will need to provide us with your name, address and e-mail address. When you make a purchase through Oakley’s website, you also will need to give us your telephone number and credit card number so we can process your payment and contact you in the event of any problems with delivery. If you contact our customer service department, you may need to provide us with additional information so that we can respond to your questions or concerns as completely and thoroughly as possible.
+When you register on-line to receive our product information, you will need to provide us with your name, address and e-mail address. When you make a purchase through Oakley’s website, you also will need to give us your telephone number and credit card number so we can process your payment and contact you in the event of any problems with delivery. When you order through Oakley’s website, we collect your name, billing address, shipping address, email address, phone number(s) and credit card number (with expiration date) or gift card number. If you contact our customer service department, you may need to provide us with additional information so that we can respond to your questions or concerns as completely and thoroughly as possible.
 
 In order to provide users and subscribers with the most efficient and enhanced service and to better understand your preferences, we may request your gender, year of birth, sports of interest, shopping preference and product interest. Whether or not you provide this information is entirely up to you. 
 
@@ -25,12 +25,13 @@ We will primarily use your personal information to provide products and services
   * To administer a contest, promotion, survey or other site feature and to provide you with the relevant products or services (for instance to deliver a prize you may have won in a contest).
   * To send you information/materials via e-mail or mail about products, offers and news we think could interest you. This information may relate to products, offers and news of Oakley.
   * To analyze visits to the website and learn about the interests of our visitors in the aggregate, so we can improve our products and services and deliver the best user experience.
+  * For customer service purposes, such as following up on customers who have not checked out their abandoned shopping carts or to see if there was a problem with their use of the site. 
 
 
 
 The information obtained from registration on-line is utilized to improve your web experience with Oakley by enabling you to obtain a faster checkout for purchases and/or opt-in to receive occasional e-mails, which provide you with the latest and greatest information regarding Oakley and its products.
 
-The information obtained during an online purchase is used only to complete the order online, to confirm the order and shipment of the order via email. You may, upon placement of an order, opt to allow Oakley to save the information for a speedier checkout process the next time. Your payment information is then stored only for the purposes of faster checkout and is not used for any other purpose.
+The information obtained during an online purchase process is used only to complete the order online, to confirm the order and shipment of the order via email and customer service purposes. You may, upon placement of an order, opt to allow Oakley to save the information for a speedier checkout process the next time. Your payment information is then stored only for the purposes of faster checkout and is not used for any other purpose.
 
 ## Cookies
 
