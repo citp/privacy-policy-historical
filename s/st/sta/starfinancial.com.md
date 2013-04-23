@@ -1,93 +1,85 @@
-> *The following text is extracted and transformed from the starfinancial.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230190353id_/https%3A//www.starfinancial.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfinancial.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423115858id_/https%3A//www.starfinancial.com/privacy-notice.pdf) for the most accurate reproduction.*
 
-# STAR - Privacy Notice
+# FACTS
 
-Important Information Regarding Your Privacy
+                                                                                                             Rev.  02/2011
+                     WHAT DOES STAR Financial Bank
+FACTS                DO WITH YOUR PERSONAL INFORMATION?
+Why?                 Financial companies choose how they share your personal information. Federal law gives
+                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                     how we collect, share, and protect your personal information. Please read this notice carefully to
+                     understand what we do.
+What?                The types of personal information we collect and share depend on the product or service you
+                     have with us. This information can include:
+                          Social Security number and income
+                          account balances          and payment history
+                          credit history            and credit score
+How?                 All ﬁnancial companies need to share customer's personal information to run their everyday
+                     business. In the section below, we list the reasons ﬁnancial companies can share their
+                     customer's personal information; the reasons STAR Financial Bank
+                     chooses to share; and whether you can limit this sharing.
+                                                                 Does STAR Financial
+Reasons we can share your personal information                                              Can you limit this sharing?
+                                                                         Bank share?
+For our everyday business purposes—
+such as to process your transactions, maintain
+your account(s), respond to court orders and legal                        Yes                            No
+investigations, or report to credit bureaus
+For our marketing purposes—
+to offer our products and services to you                                 Yes                           Yes
+For joint marketing with other ﬁnancial companies                         Yes                           Yes
+For our afﬁliates’ everyday business purposes—
+information about your transactions and experiences                       Yes                           Yes
+For our afﬁliates’ everyday business purposes—
+information about your creditworthiness                                   Yes                           Yes
+For our afﬁliates to market to you                                        Yes                           Yes
+For nonafﬁliates to market to you                                         Yes                           Yes
+To limit                  Call 888-395-2447       —our menu will prompt you through your choice(s) or
+our sharing               Visit us online: starfinancial.com/contact-us
+                      Please note:
+                      If you are a new customer, we can begin sharing your information 30 days from the date we
+                      sent this notice. When you are no longer our customer, we continue to share your information as
+                      described in this notice.
+                      However, you can contact us at any time to limit our sharing.
+Questions?            Call 888-395-2447      or go to starfinancial.com/contact-us
 
-At STAR Financial Bank, the basis of each client relationship is trust. You have chosen to do business with STAR, and we are committed to honoring that relationship with great care, beginning with the information you have chosen to share with us. We value your trust, and we recognize you have a right to expect your personal financial information to remain private and secure. At the same time, we want to offer you the array of financial products and services you need to accomplish your financial goals. We believe we can do both through the Privacy Policy outlined below. 
 
-What Information We Collect
-
-STAR only collects and maintains the information necessary to administer your business with us and to advise you about our products and services and other opportunities that we feel may be of interest to you. We collect nonpublic personal information about you from the following sources: 
-
-• Information we receive from you on applications or other forms;
-
-• Information about your transactions with us, our affiliates, or others; and
-
-• Information we receive from a consumer reporting agency. 
-
-What Information We Disclose
-
-We may disclose all of the information that we collect with affiliated or nonaffiliated companies: 1) if you, our customer, requests or authorizes it; 2) if the information is provided to help complete a transaction initiated by you; 3) if the information is provided to a reputable credit bureau or similar information reporting agency; 4) that perform marketing services on our behalf; 5) with whom we have joint marketing agreements; and 6) if the disclosure is required by law or our regulators. 
-
-We may disclose the following kinds of nonpublic personal information about you:
-
-• Information we receive from you on applications or other forms, such as your name, address and social security number;
-
-• Information about your transactions with us, our affiliates, or others, such as your account balance, payment history and parties to transactions. 
-
-We may disclose to the following types of non-affiliated companies:
-
-• Financial service providers such as mortgage bankers, securities broker-dealers and insurance agents;
-
-• As permitted by law. 
-
-We do not disclose any nonpublic personal information about our former customers to anyone, except as permitted by law. 
-
-If you prefer that we do not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures, which you may direct us not to make those disclosures (other than disclosures permitted by law). If you wish to opt out of disclosures to nonaffiliated third parties, you may call your local STAR Financial Bank office at the number listed below to reach our Customer Service Department. 
-
-Anderson, IN (765) 622-4107
-
-Angola, IN (260) 665-2151 
-
-Columbia City, IN (260) 248-6007
-
-Elwood, IN (765) 552-4507
-
-Fort Wayne, IN (260) 467-5507
-
-Greenfield, IN (317) 467-7607
-
-Hamilton, IN (260) 488-2119
-
-Indianapolis, IN (317) 816-2907
-
-Kendallville, IN (260) 349-3730  
-Kokomo, IN (765) 868-3807 
-
-Marion, IN (765) 651-6807
-
-Muncie, IN (765) 751-3507
-
-New Castle, IN (765) 593-5107 
-
-If you are outside of a STAR local service area, call our toll-free number at 888-395-2447. Or e-mail us at [customer.service@starfinancial.com](mailto:customer.service@starfinancial.com). 
-
-If you choose to opt out of the sharing of personal information with companies or organizations outside the STAR Financial Bank family, we will not share any personal information about you for any accounts that you may have with us, except as permitted by law. For any accounts or loans that you hold jointly with another person, each person may separately opt out and joint account holders may opt out for each other. If only one joint account holder opts out, we may share information about other joint account holders. Choosing to opt out of this information sharing may limit opportunities for you to receive product and service information that may interest you. 
-
-How We Protect Your Information
-
-STAR safeguards, according to our strict standards of confidentiality, any information our customers share with us. Customer records are securely stored at all times. We continuously strive to maintain complete and accurate information about you and your accounts. Should you ever believe that our records contain inaccurate or incomplete information about you, please notify us. We will investigate your concerns and correct any inaccuracies. 
-
-Access to nonpublic, personal information is limited to employees with a valid business reason for having such access. Employees are trained to understand and comply with our information principles, and any employee who violates our Privacy Policy will be subject to disciplinary action. 
-
-When it comes to sharing customer information with nonaffiliated companies, STAR places strict limits on who receives specific information about customer accounts or other personally identifiable data. To protect your privacy, we only work with companies that agree to safeguard your information and to use that information only for the intended purpose. We do not permit these companies to sell to other third parties the information we provide to them. 
-
-What You Can Expect From STAR
-
-We will inform you of our Privacy Policy initially and annually of how to remove your name from our marketing lists. You may contact us to remove your name from our lists at any time by calling your local STAR Financial Bank office and asking for our Customer Service Department. If you have any questions about STAR’s Privacy Policy, please contact us. 
-
-You Can Help
-
-Protect your account numbers, PINs (personal identification numbers) and passwords. NEVER keep your PIN with your debit, ATM or credit cards. If your card is lost or stolen, thieves will try the numbers they find in your wallet or billfold in an attempt to access your accounts. 
-
-Be careful about disclosing your account numbers, your social security number and any other personal numbers to others. If someone calls you, claiming to be the bank and asking for your account number—do not respond. A bank representative will have access to your information and will not need to ask for it. 
-
-Keep your information current. If we suspect fraudulent or unauthorized activity on your account, we will attempt to contact you immediately. Please inform us of changes in your address or phone number. 
-
-Hyperlink Disclaimer At certain places in this site, links to other web sites can be accessed. Links to other Internet sites are provided as a convenience only. These sites contain information created, published, and maintained by organizations independent of STAR Financial Bank.
-
-We do not endorse, approve, certify or control these web sites or the opinions, information, products or services contained therein, and do not guarantee the accuracy, completeness, efficacy or timeliness of information located therein, or at any link contained in a linked site. Internet locations change frequently, so many of the links provided on this web site may no longer access the external web sites listed herein.
-
-|  |   
----|---|---
+Page 2
+Who we are
+                                    STAR Financial Bank
+Who is providing this notice?
+What we do
+How does STAR Financial Bank       To protect your personal information from unauthorized access
+protect my personal information?   and use, we use security measures that comply with federal law.
+                                   These measures include computer safeguards and secured ﬁles
+                                   and buildings.
+How does STAR Financial Bank       We collect your personal information, for example, when you
+collect my personal information?
+                                        open an account               or apply for a loan
+                                        use your credit/debit card or pay your bills
+                                       make deposits or withdrawals from your account
+                                    We also collect your personal information from others, such as credit
+                                    bureaus, affiliates or other companies
+Why can’t I limit all sharing?     Federal law gives you the right to limit only
+                                       sharing for afﬁliates’ everyday business purposes—information
+                                        about your creditworthiness
+                                       afﬁliates from using your information to market to you
+                                       sharing for nonafﬁliates to market to you
+                                   State laws and individual companies may give you additional rights to
+                                   limit sharing.
+What happens when I limit sharing
+                                    Your choice will apply to everyone on your account.
+for an account I hold jointly with
+someone else?
+Deﬁnitions
+Afﬁliates                          Companies related by common ownership or control. They can be
+                                   ﬁnancial and nonﬁnancial companies.
+                                        our affiliates include STAR Insurance Agency
+Nonafﬁliates                       Companies not related by common ownership or control. They can be
+                                   ﬁnancial and nonﬁnancial companies.
+                                        non affiliates we share with could include mortgage companies,
+                                         insurance companies and direct marketing companies
+Joint marketing                    A formal agreement between nonafﬁliated ﬁnancial companies that
+                                   together market ﬁnancial products or services to you.
+                                        our joint marketing partners include credit card companies
+Other important information
