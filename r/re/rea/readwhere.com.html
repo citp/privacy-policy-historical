@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the readwhere.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227110532id_/http%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readwhere.com privacy policy that was archived on 2013-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423185901id_/https%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset='UTF-8'">
-<meta name="google-site-verification" content="vwHAcY1rPC21wtFuCeF1b7QqMuZeLmtDRBjU-kvgMkk">    
+<meta name="google-site-verification" content="vwHAcY1rPC21wtFuCeF1b7QqMuZeLmtDRBjU-kvgMkk">
 <meta name="apple-itunes-app" content="app-id=544688485, app-argument=http://itunes.apple.com/us/app/readwhere/id544688485?ls=1&amp;mt=8">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
       window.config = {
         'base_url' : 'http://www.readwhere.com/design-elements/',
         'app_base_url' : 'http://www.readwhere.com/',
@@ -22,11 +22,13 @@
         line-height: 1.5;
     }
     </style>
-    <link rel="stylesheet" type="text/css" href="/css/rwlayout.css?version=50dc26d56deb1">
-<link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.8.16.custom.min.css?version=50dc26d56deb1">
-<script type="text/javascript" src="/js/jquery-1.8.3.min.js?version=50dc26d56deb1"></script>
-<title> Privacy Policy - readwhere 
-	</title>     <script type="text/javascript">
+    <link rel="stylesheet" type="text/css" href="/css/rwlayout.css?version=5176a4db8b01f">
+<link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.8.16.custom.min.css?version=5176a4db8b01f">
+<link rel="stylesheet" type="text/css" href="/css/jquery.mCustomScrollbar.css?version=5176a4db8b01f">
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js?version=5176a4db8b01f"></script>
+<script type="text/javascript" src="/js/jquery.mCustomScrollbar.min.js?version=5176a4db8b01f"></script>
+<script type="text/javascript" src="/js/jquery.mousewheel.min.js?version=5176a4db8b01f"></script>
+<title> Privacy Policy - readwhere	</title>     <script type="text/javascript">
       $(document).ready(function() {                       //alert(config.guest);
         if(config.guest === "true") {
           $('#rating').click(function() { });
@@ -35,30 +37,166 @@
         //$('#tab_style1 .viewport').css('height','418px');
         //$('#tab_style1').tinyscrollbar({ size: 415,sizethumb: 75 });
         $("abbr.timeago").timeago();
-				$('.dropdown_image').live( 'click',function() {
-					var ele = document.getElementById("dropdown3");
-					if(ele.style.display == "block") {
-            ele.style.display = "none";
-					} else {
-						ele.style.display = "block";
-					}
-					$('#dropdown3').show();
-					$('.dropdown_image').css('background-color','#4F6EC2');
-				});
-				$('#dropdown3').live( 'mouseleave',function() {
-            document.getElementById("dropdown3").style.display = "none";
+
+        $("#my_cart").click( function(e){
+          e.stopPropagation();
+        });
+
+        $("#my_notifications").click( function(e){
+          e.stopPropagation();
+        });
+
+        $("#my_wishlist").click( function(e){
+          e.stopPropagation();
+        });
+
+        $("body").click(function(e) {
+          if(e.target.className != "noti_count")
+          {
+            $("#my_notifications").hide();
+            $('.arrow-up').hide();
+          } else {
+            if($('#my_notifications').css('display') == 'block') {
+              $("#my_notifications").hide();
+              $('.arrow-up').hide();
+            } else {
+              $("#my_notifications").show();
+              $('.arrow-up').show();
+            }
+          }
+          if(e.target.className != "dropdown_image")
+          {
+            $("#dropdown3").hide();
             $('.dropdown_image').css('background-color','');
+          } else {
+            if($('#dropdown3').css('display') == 'block') {
+              $("#dropdown3").hide();
+              $('.dropdown_image').css('background-color','');
+            } else {
+              $("#dropdown3").show();
+              $('.dropdown_image').css('background-color','#4F6EC2');
+            }
+          }
+          if(e.target.className != "rw_cart" && e.target.className != "cart_value"){
+            $("#cart_tab_li1").removeClass('selected');
+            $("#cart_tab_li2").removeClass('selected');
+            $("#my_cart").hide();
+            } else {
+              if($('#my_cart').css('display') == 'block') {
+                $("#cart_tab_li1").removeClass('selected');
+                $("#cart_tab_li2").removeClass('selected');
+                $("#my_cart").hide();
+              } else {
+                  showCart();
+
+              }
+            }
+
+          if(e.target.className != "wishlist_link"){
+            $("#my_wishlist").hide();
+          } else {
+              if($('#my_wishlist').css('display') == 'block') {
+                $("#my_wishlist").hide();
+              } else {
+                  showWishlist();
+
+              }
+            }
+
+          });
+					var noti_loading = false;
+					var noti_available = true;
+					var noti_page = 1;
+					var lastScrollTop = 0;
+					var noti_record_count = 5;
+
+				$(".all_noti_box ul").mCustomScrollbar({
+					horizontalScroll:false,
+					scrollInertia:550,
+					scrollEasing:"easeOutBack",
+					mouseWheel:"pixels",
+					mouseWheelPixels:100,
+					autoDraggerLength:true,
+					scrollButtons:{
+						enable:false,
+						scrollType:"continuous",
+						scrollSpeed:20,
+						scrollAmount:40
+					},
+					advanced:{
+						updateOnBrowserResize:true,
+						updateOnContentResize:true,
+						autoExpandHorizontalScroll:false,
+						autoScrollOnFocus:true
+					},
+					callbacks:{
+						onTotalScroll:function(){
+														  $('#noti_loader').show();
+															var scrollTop = $('all_noti_box ul').scrollTop();
+															if (scrollTop >= lastScrollTop && (noti_loading == false) && (noti_available == true)) {
+																lastScrollTop = scrollTop;
+																noti_loading = true;
+																noti_page = noti_page + 1;
+																noti_req_url = '/ajax/loadMoreNotifications'+'/'+noti_page+'/'+noti_record_count;
+																$.ajax({
+																	url: noti_req_url,
+																	success: function (response) {
+																							if(response) {
+																								$('#noti_loader').before(response);
+																								$("abbr.timeago").timeago();
+																								noti_available = true;
+																							} else {
+																								noti_available = false;
+																							}
+																								noti_loading = false;
+																					},
+																	dataType: 'html'
+																});
+																gaTrackpageview(noti_req_url);
+															} else {
+																$('#noti_loader').hide();
+															}
+
+							},
+						onTotalScrollOffset:50
+					}
 				});
+
+
       });
+      function scroll_cart_items(ulclass) {
+        $('.'+ulclass).mCustomScrollbar({
+					set_height: 300,
+					horizontalScroll:false,
+					scrollInertia:550,
+					scrollEasing:"easeOutBack",
+					mouseWheel:"pixels",
+					mouseWheelPixels:100,
+					autoDraggerLength:true,
+					scrollButtons:{
+						enable:false,
+						scrollType:"continuous",
+						scrollSpeed:20,
+						scrollAmount:40
+					},
+					advanced:{
+						updateOnBrowserResize:true,
+						updateOnContentResize:true,
+						autoExpandHorizontalScroll:false,
+						autoScrollOnFocus:true
+					}
+				});
+      }
+
     </script>
     <!--[if IE 7]>
         .ieWrap{position:relative; top:40px;}
         .iego{right:5px; width:30px;}
-    <![endif]--> 
+    <![endif]-->
   </head>
-  <body><script type="text/javascript" src="/js/jquery-ui-1.9.2.js?version=50dc26d56deb1"></script>
-<script type="text/javascript" src="/js/timeago.js?version=50dc26d56deb1"></script>
- 
+  <body><script type="text/javascript" src="/js/jquery-ui-1.9.2.js?version=5176a4db8b01f"></script>
+<script type="text/javascript" src="/js/timeago.js?version=5176a4db8b01f"></script>
+
     <div class="header positionfixed" id="header">
       <div class="wrap">
         <div class="logo"><a href="/home"><img id="rw_logo" src="/images/logo.png" alt=""></a></div>
@@ -67,29 +205,91 @@
             <input type="text" placeholder="Search" title="Enter search terms" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}" size="15" maxlength="128" id="search-q"><span id="search_loader" style="display:none;"><img src="/images/loader.gif" alt="loading..."></span>
             <a name="o" id="search-submit" onclick="submitSearch()">&nbsp;</a>
           </form>
-          <div class="floatright" id="login_logout_link">             <a href="/user/login?ru=https://www.readwhere.com/publish/login" class="de-btn-enabled header-publish-btn">Publish</a>               <a href="/user/login?ru=http://www.readwhere.com/privacy-policy" class="header-link" id="login_link">Login</a>           </div>
+          <div class="floatright" id="login_logout_link">             <a href="https://www.readwhere.com/user/login?ru=https://www.readwhere.com/publish/login" class="de-btn-enabled header-publish-btn">Publish</a>               <a href="https://www.readwhere.com/user/login?ru=http://www.readwhere.com/privacy-policy/" class="header-link" id="login_link">Login</a>           </div>
       </div>
       <script type="text/javascript">
         $.getJSON('/api/checklogin?callback=?', function(response) {
           if(response.id) {
-						var header_name = '';
+            var header_name = '';
             if(response.firstname.substr(0,4) == 'user' || response.firstname == '') {
               if(response.name.substr(0,4) == 'user' || response.name == '') {
-								header_name = response.email;
-							} else {
-								header_name = response.name;
-							}
+                header_name = response.email;
+              } else {
+                header_name = response.name;
+              }
             } else {
-							header_name = response.firstname + ' ' +response.lastname; 
-						}
-            $("#lib_clip_link").html('<ul><li><a href="/shelf">Shelf</a> | </li> <li><a href="/myclips">Clips</a> </li</ul>');
-            var logout_link = '<div class="hover_link"><a class="header-link show-logout" href="/'+response.name+'" id="show-logout">'+header_name+'</a><div class="dropdown_image"></div><ul style="display:none;" class="header_dropdown" id="dropdown3"><li><a href="/user/settings">Settings</a></li><li><a href="/user/logout?ru=http://www.readwhere.com/privacy-policy">Logout</a></li></ul></div>';
+                header_name = response.firstname + ' ' +response.lastname;
+            }
+            display_name = (header_name.length > 20) ? (header_name.substr(0,17) + '...' ): header_name;
+            $("#lib_clip_link").html('<ul><li><a href="/shelf">Shelf</a> | </li> <li><a href="/myclips">Clips</a> | </li</ul>');
+            var logout_link = '<div class="hover_link"><a alt="'+header_name+'" title="'+header_name+'" class="header-link show-logout" href="/'+response.name+'" id="show-logout">'+display_name+'</a><div class="dropdown_image"></div><ul style="display:none;" class="header_dropdown" id="dropdown3"><li><a href="/settings">Settings</a></li><li><a href="/user/logout?ru=http://www.readwhere.com/privacy-policy/">Logout</a></li></ul><div class="rw_cart" id="rw_cart"><div id="cart_item_count" class="cart_value">0</div></div></div>';
+
             $("#login_logout_link a#login_link").replaceWith(logout_link);
-            //$("#show-logout").hover(function(){$('#dropdown3').css('width',$('#show-logout').width()+20)});
+            $('#lib_clip_link').append('<div class="wishlist_link" id="wishlist_link" style="float:left;position:relative;margin:10px;cursor:pointer;">Wishlist  <span style="padding-left:7px">|</span> </div>');
+            $('.wishlist_link').append($('.my_wishlist'));
+            $('#lib_clip_link').append($('.rw_notify'));
+            
+            $('.rw_cart').append($('.my_cart'));
+						$('.rw_notify').show();
+							noti_req_url = '/ajax/loadInitialNotifications';
+							$.ajax({
+								url: noti_req_url,
+								dataType: 'json',
+								success: function (response) {
+                  if(response.count) {
+                    $('.noti_count').addClass('highlight_count');
+                  } else {
+                    $('.noti_count').removeClass('highlight_count');
+                  }
+                  $('.noti_count').text(response.count);
+                  if(response.html) {
+                    $('#noti_loader').before(response.html);
+                    $("abbr.timeago").timeago();
+                    $('#noti_loader').hide();
+                  } else {
+                    $('#my_notifications').html('<div id="no_notification_msg" class="centrealign noti_bubble_msg" >No Notifications</div>');
+                  }
+                }
+							});
           }
         });
       </script>
-            <!--/ wrap -->
+      <div class="my_cart" id="my_cart" style="display:none;">
+      <div class="cart_arrow"></div>
+        <ul class="cart_header">
+            <li><a class="cart_tab" onclick="change_tabs('cart_tab',2,1);return false;" id="cart_tab_li1">Cart (<span id="count-cart">0</span>)</a></li>
+            <li><a class="cart_tab" onclick="change_tabs('cart_tab', 2, 2);return false;" id="cart_tab_li2">Gift Cart (<span id="count-gift-cart">0</span>)</a></li>
+        </ul>
+        <div id="cart_tab_style1" style="display:none;">
+          <div class="empty_cart_msg">Your cart is empty.</div>
+        </div>
+        <div id="cart_tab_style2" style="display:none;">
+          <div class="empty_cart_msg">Your gift cart is empty.</div>
+        </div>
+      </div>
+      
+      <div class="my_wishlist" id="my_wishlist" style="display:none;">
+        <div class="cart_arrow" style="right:245px;"></div>
+        <ul class="cart_header"></ul>
+        <div id="wishlist_container">
+          <div class="empty_cart_msg">Your wish list is empty.</div>
+        </div>
+     </div>
+
+
+
+      <div class="rw_notify" style="display:none;">
+				<span class="noti_count" alt="notifications" title="notifications" onclick="showNotifications();">0</span>
+				<div class="arrow-up" style="display:none;"></div>
+				<div class="all_notifications all_noti_box" id="my_notifications" style="display:none;">
+					<ul>
+						<span id="noti_loader" class="centrealign" style="display:none;">
+							<img src="/images/loader.gif" alt="loading...">
+						</span>
+					</ul>
+					<div class="see_all_noti centrealign"><a href="http://www.readwhere.com/notifications">See All</a></div>
+				</div>
+			</div>
       <div class="clear"></div>
     </div><!--/ header -->
     <div class="wrap margintop40 ieWrap" style="min-height:710px" id="wrap">
@@ -186,15 +386,13 @@
               <li><a href="http://www.facebook.com/myreadwhere"><span class="about facebook"></span>Facebook</a></li>
               <li><a href="http://www.twitter.com/myreadwhere"><span class="about twitter"></span>Twitter</a></li>
               <li><a href="http://in.linkedin.com/pub/readwhere/52/57b/9a9"><span class="about linkedin"></span>Linkedin</a></li>
-              
+
           </ul>
         </div>
       </div>
     </div>
-
 <script type="text/javascript">
-
-$("#de-feedback .btn.feedback-send").click(function() { 
+$("#de-feedback .btn.feedback-send").click(function() {
   if ($.trim($("#de-feedback .feedback-text").val())=='') {
     $('#feedback_empty').show();
     $('#de-feedback').height('262px');
@@ -206,7 +404,7 @@ $("#de-feedback .btn.feedback-send").click(function() {
   }
 
   $('#de-feedback').append('<div id="loading_img"><img class="loader" style="float:left;margin-left:10px;" src="/images/loader.gif" alt="loading..."/>');
-  $.post("http://www.readwhere.com/home/sendFeedback" ,
+  $.post("/home/sendFeedback" ,
   {
     'response' : $("#de-feedback .feedback-text").val().substr(0, 5000),
     'email'   : $("#de-feedback .feedback-email").val(),
@@ -221,10 +419,23 @@ $("#de-feedback .btn.feedback-send").click(function() {
   });
 });
 
+	function showNotifications() {
+		if($('.noti_count').text() != 0) {
+			$.ajax({
+				url: '/ajax/allNotificationsRead',
+				dataType: "json",
+				type: 'POST',
+			})
+		}
+		$('.noti_count').text('0');
+    $('.noti_count').removeClass('highlight_count');
+	}
+
+
 function followUnfollow(field,loggedin_user_id, target_id, type) {
 	button_text = $('#'+field.id).text();
 	$('#'+field.id).removeClass('follwing');
-	$.post("http://www.readwhere.com/ajax/checkFollowUnfollow" ,
+	$.post("/ajax/checkFollowUnfollow" ,
   {
     'loggedin_user_id' : loggedin_user_id,
     'target_id'   : target_id,
@@ -242,8 +453,8 @@ function followUnfollow(field,loggedin_user_id, target_id, type) {
 					$('#'+field.id).removeClass('follwing');
 					$('.clipbook_follow_btn').removeClass('follwing');
 				}
-			} else { 
-				$.post("http://www.readwhere.com/ajax/followUnfollow" ,
+			} else {
+				$.post("/ajax/followUnfollow" ,
 				{
 					'loggedin_user_id' : loggedin_user_id,
 					'target_id'   : target_id,
@@ -273,7 +484,7 @@ function followUnfollow(field,loggedin_user_id, target_id, type) {
 								$('.clipbook_follow_btn').text('Follow');
 								$('.clipbook_follow_btn').removeClass('follwing');
 							}
-						} 
+						}
 					}
 				});
 			}
@@ -287,14 +498,14 @@ function gaTrackpageview (url) {
   }
 }
 
-function gaTrackEvent (category, action, label, integer_value) { 
+function gaTrackEvent (category, action, label, integer_value) {
   if (typeof _gaq !== "undefined" && _gaq !== null) {
     _gaq.push(['_trackEvent', category, action,  label, integer_value]);
   }
 }
 
-function changefollowtxt (id) { 
-  if($('#'+id).text().trim() == 'Following All Clipbooks') { 
+function changefollowtxt (id) {
+  if($('#'+id).text().trim() == 'Following All Clipbooks') {
     $('#'+id).text('Unfollow All Clipbooks');
   }
 	else if($('#'+id).text().trim() == 'Unfollow All Clipbooks') {
@@ -304,26 +515,26 @@ function changefollowtxt (id) {
 
 </script>
  <script type="text/javascript">
-    $(document).ready(function() { 
-			$('.ui-autocomplete').addClass('search_suggestions_container');
+    $(document).ready(function() {
+		$('.ui-autocomplete').addClass('search_suggestions_container');
+	});
 
-		});
-    $.widget( "custom.catcomplete", $.ui.autocomplete, { 
-       _renderMenu: function( ul, items ) { 
+    $.widget( "custom.catcomplete", $.ui.autocomplete, {
+       _renderMenu: function( ul, items ) {
 					var that = this,
 					currentCategory = "";
-					
+
 					$.each( items, function( index, item ) {
 							if ( item.category != currentCategory ) {
 									ul.append( '<li class="ui-autocomplete-category">' + item.category + '</li>');
 									currentCategory = item.category;
 							}
-							renderItemData( ul, item ); 
+							renderItemData( ul, item );
 					});
 					$('.search_suggestions_container').append('<li class="ui-autocomplete-item search_more"><a onselect="submitSearch();" onclick="submitSearch();">Search results for "'+$('#search-q').val()+'"</a></li>');
-        }, 
+        },
     });
-    
+
     function renderItemData( ul, item ) {
 			return renderItem( ul, item ).data( "ui-autocomplete-item", item );
 		}
@@ -335,26 +546,26 @@ function changefollowtxt (id) {
 			} else {
 				image_url = '/images/footer-logo.png';
 			}
-			var short_label = (item.label.length > 23) ? (item.label.substr(0,20) + '...' ): item.label;
-			return $( '<li class="suggest_label '+item.category+'_'+item.id+'">' ).append( $('<img width="25" height="25" src="'+image_url+'" />'+'<a title="'+item.label+'" alt="'+item.label+'" href="'+item.url+'">').text( short_label ) ).appendTo( ul );
+			var short_label = (item.label.length > 22) ? (item.label.substr(0,19) + '...' ): item.label;
+			return $( '<li class="suggest_label '+item.category+'_'+item.id+'">' ).append( $('<img width="25" height="25" src="'+image_url+'" />'+'<a title="'+item.label+'" alt="'+item.label+'" href="'+item.url+'?utm_source=readwhere&utm_medium=autosuggest&utm_campaign=autosuggest&utm_content='+$('#search-q').val()+'">').text( short_label ) ).appendTo( ul );
 		}
-		
+
     $("#search-q").catcomplete({
 				delay: 0,
 				source: function(request, response) {
 					$('#search_loader').show();
 					$.ajax({
-					 url: 'http://www.readwhere.com/api/suggestsearch',
+					 url: '/api/suggestsearch',
 					 dataType: "json",
 					 data: {
 						q: request.term
 					 },
-					 success: function(ajax_response) { 
-						$('#search_loader').hide(); 
+					 success: function(ajax_response) {
+						$('#search_loader').hide();
 						response($.map(ajax_response.data, function(item) {
 						 return {
 							label: item.label,
-							id: item.id, 
+							id: item.id,
 							category: item.category,
 							url: item.url,
 							thumbpath: item.thumbpath,
@@ -364,15 +575,15 @@ function changefollowtxt (id) {
 					})
 				},
 				minLength: 3,
-				select: function(event, ui) {  
+				select: function(event, ui) {
 									event.preventDefault();
 									if(ui.item) {
-										window.location=ui.item.url; 
+										window.location=ui.item.url+'?utm_source=readwhere&utm_medium=autosuggest&utm_campaign=autosuggest&utm_content='+$('#search-q').val();
 									} else {
 										submitSearch();
 									}
 								},
-				focus: function(event, ui) { 
+				focus: function(event, ui) {
 								event.preventDefault();
 								$('.search_suggestions_container li').removeClass('ui-state-focus');
 								if(!ui.item) {
@@ -384,21 +595,20 @@ function changefollowtxt (id) {
 									$('.'+ui.item.category+'_'+ui.item.id).addClass('ui-state-focus');
 								}
 							 },
-				
+
 		});
- 
-</script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-30928125-1']);
-  _gaq.push(['_trackPageview']);
- (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<script type="text/javascript" src="/js/script.js?version=50dc26d56deb1"></script>
- 
+
+</script>     <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-30928125-1']);
+      _gaq.push(['_trackPageview']);
+     (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script> <script type="text/javascript" src="/js/script.js?version=5176a4db8b01f"></script>
+
+
 
 </body></html>
