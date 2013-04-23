@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023201529id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424012801id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
 
 # Phone Recycling, Recycle Mobile - Mazuma Mobile
 
