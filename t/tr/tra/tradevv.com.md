@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradevv.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010123648id_/http%3A//www.tradevv.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradevv.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423114707id_/http%3A//www.tradevv.com/about/policy.html) for the most accurate reproduction.*
 
 # Premium Services - Tradevv.com - China Manufacturers,Factories,Exporters,Wholesale
 
@@ -34,6 +34,6 @@ We are not responsible for the privacy protection methods of other websites whos
 
 **How to contact us?**
 
-Should you have any suggestion on our Privacy Policy, please [contact us](https://web.archive.org/web/20121010123648id_/http%3A//www.tradevv.com/about/Contact-Us.html).
+Should you have any suggestion on our Privacy Policy, please [contact us](https://web.archive.org/web/20130423114707id_/http%3A//www.tradevv.com/about/Contact-Us.html).
 
 products more efficiently. If you want more information, please contact us.
