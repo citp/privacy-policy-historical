@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eartheasy.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185708id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eartheasy.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423214244id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -51,4 +51,4 @@ We collect aggregate information regarding open rates, page views, and generated
 
 This web site contains links to other sites and advertisements. This privacy statement only applies to information collected by our web site. We are not responsible for the privacy practices and policies of these third parties.
 
-_This Privacy Policy was last updated on March 6, 2010._
+_This Privacy Policy was last updated on February 6, 2013._
