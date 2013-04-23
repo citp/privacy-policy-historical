@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lee.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023085314id_/http%3A//www.lee.com/wps/wcm/connect/lee-en_us/customer_service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lee.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423213600id_/http%3A//www.lee.com/store/LEE_STORE_US/en_US/content/customer_service/privacy.html) for the most accurate reproduction.*
 
-# Privacy and security
-
-#### Privacy Policy
+# Lee
 
 Lee Jeans values its customers and respects their privacy. Customer information is collected in an effort to improve your online experience and to communicate with you about our products, services, contests and promotions. Lee Jeans only communicates with you in specific relation to an order placed or if you register to be notified of special deals, or enter a contest or promotion on our family of Web sites. We do not share, trade or sell your information to anyone outside of Lee Jeans or VF Corporation, our parent company, without your prior consent.
 
@@ -19,6 +17,8 @@ We may also use the information we collect to occasionally notify you about impo
 Lee Jeans currently uses the personal information collected for correspondence, record keeping, order shipments and charges, and activities on Lee Jeans. The information may also be used for the fulfillment of requested transactions and marketing, only when your consent is given for such marketing.
 
 In the future, Lee Jeans may use additional information collected in surveys, such as hobbies, personal interests and similar topics.
+
+ **DOES LEE JEANS SHARE ANY INFORMATION IT COLLECTS WITH OUTSIDE PARTIES?**
 
 Lee Jeans does not disclose any personal information collected to outside parties. Lee Jeans may retain outside parties to review certain personal information to advise on demographic and marketing issues. This is typically on an aggregated basis, and only after such outside parties have agreed to maintain the confidentiality, security and integrity of any personal information obtained.
 
