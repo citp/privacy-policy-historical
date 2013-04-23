@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004040047id_/https%3A//unfuddle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423204740id_/https%3A//unfuddle.com/privacy_policy) for the most accurate reproduction.*
 
 # Unfuddle - Privacy Policy
 
@@ -25,6 +25,12 @@ Unfuddle discloses potentially personally-identifying and personally-identifying
 ## Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Unfuddle uses cookies to help Unfuddle identify and track visitors, their usage of Unfuddle website, and their website access preferences. Unfuddle visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Unfuddle’s websites, with the drawback that certain features of Unfuddle’s websites may not function properly without the aid of cookies.
+
+## Advertising Disclosure
+
+Unfuddle currently employs Google Display Advertising and Google Analytics Remarketing to better serve visitors to its website. Unfuddle and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb).
 
 ## Privacy Policy Changes
 
