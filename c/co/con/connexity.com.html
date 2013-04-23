@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the connexity.com privacy policy that was archived on 2012-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121018002227id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connexity.com privacy policy that was archived on 2013-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423110201id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -10,13 +10,13 @@
   <!-- <meta name="viewport" content="width=device-width"> -->
 
   <style type="text/css">
-      body { background: url('/images/backgrounds/background8.jpg') top left repeat-x;) }
+      body { background: url('/images/backgrounds/background10.jpg') top left repeat-x;) }
   </style>
 
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
   <link rel="icon" href="http://www.connexity.com/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="http://www.connexity.com/favicon.ico" type="image/x-icon">
-  <link href="/assets/application-de731227a98f0718f5e11b622246b14e.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/assets/application-7d69e33de53a0c0075cb4364c3dc2a1c.css" media="all" rel="stylesheet" type="text/css">
   <!--[if IE 7]>
     <style type="text/css">
         .inline-block {
@@ -29,7 +29,7 @@
   <script src="//ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.7.1.min.js"><\/script>')</script><script src="/javascripts/libs/jquery-1.7.1.min.js"></script>
   <script src="http://www.connexity.com/javascripts/jquery.cycle.min.js"></script>
-  <script src="/assets/application-15be157f2e1f102ed004ebf72fce70f3.js" type="text/javascript"></script>
+  <script src="/assets/application-ab00ca8f8bcb71dbcdd3d80c80f89734.js" type="text/javascript"></script>
 
 </head>
 <body class="two-column" id="about">
@@ -165,141 +165,178 @@
   /*]]>*/
 </style>
 <em style="font-size: 14px;">Revision Date: March 15th  2012</em>
-
-<script id="cookieimg" src="http://connexity.net/c/cse?a=O&amp;O=7"></script>
-
-<script type="text/javascript">
-
-  $(function(){
-    optout_init();
-
-    $("#btnOptOut").click(function(e){
-      e.preventDefault();
-      
-      // hide since we're trying it again
-      $("#cookieFailed").hide();
-      
-      var url = $(this).attr('href');
-      
-      $.ajax({
-        dataType: 'jsonp',
-        url: url,
-        jsonp: false,
-        context: document.body
-      });
-      
-    });
-  });
-  
-function optout_init(){
-  var o = get_optout_status();
-  reset_optout_ctrl(o);
-}
-
-function get_optout_status(){
-  return cx_opt_out == "OPTOUT";
-}
-
-function oo_state(v){
-
-  if (v != 'OO_Cookie_failed') {
-    var opted_out = (v == "OO_Cookie_set");
-    reset_optout_ctrl(opted_out);
-
-    d = new Date();
-    //$("#imgOptOut").attr("src", "http://connexity.net/c/cse?a=O&O=1");
-    $("#imgOptOut").attr("src", "http://connexity.net/c/cse?a=O&O=1&zz="+d.getTime());
-  } else {
-
-    $("#cookieFailed").show();
-  }
-}
-
-function reset_optout_ctrl(opted_out)
-{
-    var btnOptOut = $("#btnOptOut");
-    
-    if (!opted_out) {
-      btnOptOut.html("Opt Out");
-      $("#stateOptedIn").show();
-      $("#stateOptedOut").hide();
-      btnOptOut.attr('href', "http://connexity.net/c/cse?a=O&O=0");
-    } else {
-      $("#stateOptedIn").hide();
-      $("#stateOptedOut").show();
-      btnOptOut.html("Opt In");
-      btnOptOut.attr('href', "http://connexity.net/c/cse?a=O&O=6");
-    }
-}
+<script src="/javascripts/easyXDM.min.js" type="text/javascript"></script>
+<script>
+  //<![CDATA[
+    easyXDM.DomHelper.requiresJSON("/javascripts/json2.js");
+  //]]>
 </script>
-
-
-  <style>
-        #opt-out-panel .title {
-          height:53px;
-
-          color:#494f53;
-          font:500 2.3em/1.1em "Ubuntu";
-          height:31px;
-          margin:7px 0 0;
-          padding:8px 0 30px;
-          text-align:center;
-          text-transform:uppercase;
-          vertical-align:top;
+<script>
+  //<![CDATA[
+    var opted_out = false;
+    var socketLoadSuccess = false;
+    var socket = new easyXDM.Socket({
+      local: "/javascripts/name.html",
+      // TODO Nov 2, pmw: these addresses will need to change depending on environment
+      remote: "http://connexity.net/c/cse?a=O&O=10",
+      remoteHelper: "http://connexity.net/easyXDM/name.html",
+      onMessage: function(message, origin) {
+        //alert("Received '" + message + "' from '" + origin + "'");
+        if(message === "optout-done") {
+          $('#btnOptOut').removeClass('processingBtn');
+          socket.postMessage("recheck");
+        }
+        else if(message === "optin-done") {
+          $('#btnOptOut').removeClass('processingBtn');
+          socket.postMessage("recheck");
+        }
+        else if(message.substring(0, 7) === "Status:") {
+          if(message.charAt(7) == '+') {
+            $("#imgOptOut").attr("src", "/images/status-opted-out.gif");
+            $("#btnOptOut").html("Opt In");
+            $("#stateOptedIn").hide();
+            $("#stateOptedOut").show();
+            opted_out = true;
+          }
+          else if(message.charAt(7) == '-') {
+            $("#imgOptOut").attr("src", "/images/status-not-opted-out.gif");
+            $("#btnOptOut").html("Opt Out");
+            $("#stateOptedIn").show();
+            $("#stateOptedOut").hide();
+            opted_out = false;
+          }
+          else {
+            $('#statusFailed').show();
+          }
+        }
+        else if(message === "Update:!") {
+          $('#updateFailed').show();
+        }
+        else { // Nothing should cause this, but statusFailed would be the safest error to display if it does happen somehow
+          $('#statusFailed').show();
+        }
+      },
+      onReady: function() {
+        socketLoadSuccess = true;
+        socket.postMessage("status");
       }
-
-
-  </style>
-  <div id="opt-out-panel">
-    <div style="padding: 4px; margin-bottom: 30px;">
-      <img id="imgOptOut" src="http://connexity.net/c/cse?a=O&amp;O=1&amp;zz=1350519746" alt="Opt out status">
-    </div>
-    <div style="padding: 0 30px 30px 30px;">
-
-      <p style="font-size: 11px;">To Opt-Out of behavioral targeting from Connexity please click on the button below.</p>
-      <div style="text-align: center;">
-
-        <div id="cookieFailed" style="text-align: left; padding: 18px; background-color: #fcfcfc; border: 1px solid #ddd; font-size: 12px; margin-top: 10px; display: none;">
-          <b>Oops!</b><br><br>
-          Changing your opt-out status was not successful.  The most likely cause is that your browser does not accept 3rd party cookies.  Make sure your browser accepts cookies from connexity.net.
-        </div>
-
-        <div style="padding: 15px 0 0; text-align: center; ">
-          <div class="md-cta-button">
-           <a class="btn" id="btnOptOut" href="http://connexity.net/c/cse?a=O&amp;O=0" style="text-decoration: none;">Loading...</a>
-         </div>
-        </div>
-
-
-        <div id="stateOptedOut" style="display: none;">
-          <p style="font-size: 11px;">
-          If you Opt-In you will get ads that are better targeted to your interests without providing Connexity with any of your personal information.
-          </p>
-        </div>
-
-        <div id="stateOptedIn" style="display: none;">
-          <p style="text-align: center;">For additional OBA Opt-Out information:</p>
-          <p style="text-align: center;"><b><a href="http://www.aboutads.info/participating/" target="_blank">Visit the Industry Participation Page</a></b></p>
-
-          <table style="margin: 10px auto;" cellspacing="10">
-            <tbody><tr>
-              <td style="padding-right: 10px;"><a href="/about/optout"><img src="/images/privacy-i.gif"></a></td>
-              <!--<td style="padding-left: 10px;"><a href="http://www.networkadvertising.org/" target="_blank"><img src="images/privacy-nai.gif" /></a></td>-->
-            </tr>
-          </tbody></table>
-
-          <p style="font-size: 11px; text-align: justify;">It is important to understand that opting out does not mean you will no longer see ads. It means ads will no longer be targeted based on your interests. We continue to collect data but we cease to use behavioral data to make ad selections.</p>
-
-          <p style="font-size: 11px; text-align: justify;"><b>If you Opt-Out, you may receive more advertising and it may be less interesting to you.  If you install a new operating system or start using a new computer, you will need to opt-out again.</b></p>
-        </div>
-      </div>
-
-
-    </div>
-  </div>
-
-
-
+    });
+    
+    // If the socket doesn't load successfully in 3 seconds, show a failure message.
+    setTimeout(function() { if(!socketLoadSuccess) { $('#statusFailed').show(); } }, 3000);
+    
+    $(function() {
+      $('#btnOptOut').click(function(e) {
+        e.preventDefault();
+        // Don't do anything if the button has the processingBtn class!
+        if(!($(this).hasClass('processingBtn'))) {
+          if(!opted_out) {
+            $(this).addClass('processingBtn');
+            socket.postMessage("optout");
+          }
+          else {
+            $(this).addClass('processingBtn');
+            socket.postMessage("optin");
+          }
+        }
+      });
+    });
+  //]]>
+</script>
+<style>
+  /*<![CDATA[*/
+    #opt-out-panel .title {
+      height:53px;
+    
+      color:#494f53;
+      font:500 2.3em/1.1em "Ubuntu";
+      height:31px;
+      margin:7px 0 0;
+      padding:8px 0 30px;
+      text-align:center;
+      text-transform:uppercase;
+      vertical-align:top;
+    }
+    
+    #btnOptOut {
+      cursor: pointer;
+    }
+    #btnOptOut.processingBtn {
+      cursor: default;
+    }
+    
+    #opt-out-panel p { text-align: justify; }
+    
+    .jsNote { font-size: 14px; text-align: justify; padding: 0 20px; }
+  /*]]>*/
+</style>
+<noscript>
+<style>
+  /*<![CDATA[*/
+    #opt-out-body { display: none; }
+  /*]]>*/
+</style>
+</noscript>
+<div id="opt-out-panel">
+<div style="padding: 4px; margin-bottom: 30px;">
+<img alt="Opt out status" height="46" id="imgOptOut" width="302">
+</div>
+<noscript>
+<div class='jsNote'>
+Connexity's behavioral ad targeting uses Javascript. Your browser has Javascript disabled, so you are effectively
+already opted-out of behavioral targeting from Connexity.
+</div>
+</noscript>
+<div id="opt-out-body" style="padding: 0 30px 30px 30px;">
+<p style="font-size: 11px;">To Opt-Out of behavioral targeting from Connexity please click on the button below.</p>
+<div style="text-align: center;">
+<div style="padding: 15px 0 0; text-align: center; ">
+<div class="md-cta-button">
+<a class="btn" href="#" id="btnOptOut" style="text-decoration: none;">Loading...</a>
+</div>
+</div>
+<div id="statusFailed" style="text-align: left; padding: 18px; background-color: #fcfcfc; border: 1px solid #ddd; font-size: 12px; margin-top: 10px; display: none;">
+<b>Oops!</b>
+<br>
+<br>
+We encountered a problem trying to check your opt-out status!
+</div>
+<div id="updateFailed" style="text-align: left; padding: 18px; background-color: #fcfcfc; border: 1px solid #ddd; font-size: 12px; margin-top: 10px; display: none;">
+<b>Oops!</b>
+<br>
+<br>
+We encountered a problem trying to update your opt-out status!
+</div>
+<div id="stateOptedOut" style="display: none;">
+<p style="font-size: 11px;">
+If you Opt-In you will get ads that are better targeted to your interests without providing Connexity with any of your personal information.
+</p>
+</div>
+<div id="stateOptedIn" style="display: none;">
+<p style="text-align: center;">For additional OBA Opt-Out information:</p>
+<p style="text-align: center;">
+<b>
+<a href="http://www.aboutads.info/participating/" target="_blank">Visit the Industry Participation Page</a>
+</b>
+</p>
+<table cellspacing="10" style="margin: 10px auto;">
+<tbody><tr>
+<td style="padding-right: 10px;">
+<a href="/about/optout">
+<img src="/images/privacy-i.gif">
+</a>
+</td>
+<!-- <td style="padding-left: 10px;"><a href="http://www.networkadvertising.org/" target="_blank"><img src="images/privacy-nai.gif" /></a></td> -->
+</tr>
+</tbody></table>
+<p style="font-size: 11px; text-align: justify;">It is important to understand that opting out does not mean you will no longer see ads. It means ads will no longer be targeted based on your interests. We continue to collect data but we cease to use behavioral data to make ad selections.</p>
+<p style="font-size: 11px; text-align: justify;">
+<b>If you Opt-Out, you may receive more advertising and it may be less interesting to you.  If you install a new operating system or start using a new computer, you will need to opt-out again.</b>
+</p>
+</div>
+</div>
+</div>
+</div>
 
 <p>Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.</p>
 <p>Connexity is at the forefront of making advertising more interesting through audience technology. That's you, the audience, but we don't know who you are. We do our best to match ads to your individual interests, but always in an anonymous way. We don't use personal or sensitive information like name, email address or phone number. To us, you are just a random number, a reference to a browser on a particular computer or other interactive device.</p>
@@ -428,12 +465,13 @@ DoubleVerify - Trust in Advertising
 </div>
 <h3>Security</h3>
 <p>
-We use commercially reasonable safeguards to preserve the integrity and security of all anonymous consumer OBA data. If you are a client of Connexity and you provide us with your contact or business information in order to conduct business with us as an advertiser or publisher, we use commercially reasonable safeguards to preserve the integrity and security of your information. We may share advertiser or publisher personal information when we believe such action is appropriate to comply with the law. Anyone who has provided personal contact information through this website may e-mail us
+We use commercially reasonable safeguards to preserve the integrity and security of all anonymous consumer OBA data. If you are a client of Connexity and you provide us with your contact or business information in order to conduct business with us as an advertiser or publisher, we use commercially reasonable safeguards to preserve the integrity and security of your information. We may share advertiser or publisher personal information when we believe such action is appropriate to comply with the law. Anyone who has provided personal contact information through this website may e-mail us at
 <script>
   //<![CDATA[
-    document.write("<n uers=\" rot13("mailto: accounts@connexity.com") \" ery=\"absbyybj\"> rot13("accounts@connexity") ".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+    document.write("<n uers=\"znvygb: nppbhagf@pbaarkvgl.pbz\" ery=\"absbyybj\">nppbhagf@pbaarkvgl</n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
   //]]>
-</script>
+</script><a href="mailto: accounts@connexity.com" rel="nofollow">accounts@connexity</a>
+
 to update, delete, and/or correct their personal contact information.
 </p>
 <h3>Children's privacy</h3>
@@ -445,9 +483,10 @@ to update, delete, and/or correct their personal contact information.
 Connexity technology, and the way we use it, meets or exceeds all industry standards and legal requirements for protecting privacy online. Questions and comments about our privacy policy, OBA compliance or opt-out procedure should be directed to
 <script>
   //<![CDATA[
-    document.write("<n uers=\" rot13("mailto: privacy@connexity.com") \" ery=\"absbyybj\"> rot13("privacy@connexity") ".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+    document.write("<n uers=\"znvygb: cevinpl@pbaarkvgl.pbz\" ery=\"absbyybj\">cevinpl@pbaarkvgl</n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
   //]]>
-</script>
+</script><a href="mailto: privacy@connexity.com" rel="nofollow">privacy@connexity</a>
+
 or mailed to:
 </p>
 <p style="margin: 20px 20px 0; line-height: 1.2em; font-size: 1.4em;">
@@ -500,7 +539,7 @@ Ventura, CA 93001
 					<li><b><a href="/about/optout">Opt-Out</a></b></li>
 				</ul>
 			</nav>
-			<p id="copyright">© 2010-2012 Connexity Inc.<br><span>Connexity® and Audience Discovery®<br>are registered trademarks of Connexity Inc.</span></p>
+			<p id="copyright">© 2010-2013 Connexity Inc.<br><span>Connexity® and Audience Discovery®<br>are registered trademarks of Connexity Inc.</span></p>
 		</div>
 	</footer>
 
