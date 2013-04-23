@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mazumamobile.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023201529id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mazumamobile.com privacy policy that was archived on 2013-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424012801id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class=" js borderradius"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -12,7 +12,7 @@
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.mazumamobile.com/rss.xml">
 <meta name="author" content="Sticky New Media">
 <link rel="shortcut icon" href="/favicon.ico" type="image/ico">
-	<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/584033984991583325/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/openWin.js"></script>
+	<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/584033984991583325/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/openWin.js"></script>
 	<script language="JavaScript" type="text/javascript">
 	<!--
 	function clearText(thefield) {
@@ -41,28 +41,25 @@
   }
 </script>
 
-<!-- LOAD JQUERY V1.6 -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+<!-- LOAD JQUERY V1.8 -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 
 <!-- TOOLTIPS FOR 'GOOGLE / FACEBOOK / TWITTER' -->
+
 <!--[if lt IE 9]>
-  <script type="text/javascript" src="/js/tipped-2.4.5/js/excanvas/excanvas.js"></script>
+  <script type="text/javascript" src="/js/tipped-3.1.8/js/excanvas/excanvas.js"></script>
 <![endif]-->
-<script type="text/javascript" src="/js/tipped-2.4.5/js/spinners/spinners.js"></script>
-<script type="text/javascript" src="/js/tipped-2.4.5/js/tipped/tipped.js"></script>
-<link rel="stylesheet" type="text/css" href="/js/tipped-2.4.5/css/mazuma.css">
-<link rel="stylesheet" type="text/css" href="/js/tipped-2.4.5/css/tipped.css">
-<script type="text/javascript" src="/js/tipped-2.4.5/js/tipped/mazuma.js"></script>
+<script type="text/javascript" src="/js/tipped-3.1.8/js/spinners/spinners.min.js"></script> <!-- optional -->
+<script type="text/javascript" src="/js/tipped-3.1.8/js/tipped/tipped.js"></script>
+<script type="text/javascript" src="/js/tipped-3.1.8/js/tipped/mazuma.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/tipped-3.1.8/css/tipped/tipped.css">
+<link rel="stylesheet" type="text/css" href="/js/tipped-3.1.8/css/tipped/mazuma.css">
 
 <script type="text/javascript" src="/js/jquery.tools.min.js"></script>
-<script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="/js/jquery.navigation.js"></script>
 <script language="JavaScript" type="text/JavaScript">
 $(document).ready(function() { 
 
-	megaHoverOver(); 
-	$("ul#topnav li .sub").css({'opacity':'0'}); 
-	$("ul#topnav li").hoverIntent(config); 
 	$("#modelNameInput, #modelNameInput2").attr("autocomplete","off");
 
 });
@@ -97,12 +94,19 @@ $(document).ready(function() {
 
 				<div id="quickSearch">
 					<form name="searchFormModel" id="searchFormModel" method="post" action="http://www.mazumamobile.com/modelSearch.php">
-						<div><input type="text" name="modelNameInput" id="modelNameInput" onkeyup="javascript:autosuggest('modelNameInput','results2')" maxlength="24" autocomplete="off"></div>
-						<input type="image" src="/images/12update/quickSearchSubmit.png" name="modelSearchSubmit" id="modelSearchSubmit" alt="Go">
+						
+						<div id="quickSearchInputWrapper"><input type="text" name="modelNameInput" id="modelNameInput" onkeyup="javascript:autosuggest('modelNameInput','results2')" maxlength="26" value="Enter model or IMEI number" onfocus="if (this.value == 'Enter model or IMEI number') {this.style.color='#666'; this.value=''}" onblur="if(this.value == '') { this.style.color='#999'; this.value='Enter model or IMEI number'}" autocomplete="off"></div>
+						
+						<div id="quickSearchSubmitWrapper"><input type="image" src="/images/13/quickSearchSubmit.v2.png" name="modelSearchSubmit" id="modelSearchSubmit" alt="Go"></div>
+						
 						<input type="hidden" name="action" value="searchModelGo">
+						
 						<div id="results2"></div>
+						
 					</form>
 				</div>
+				
+				<div class="clearit"></div>
 
 				<div id="headerRightContentBottom">
 
@@ -112,7 +116,7 @@ $(document).ready(function() {
 
 					
 					<div id="headLinks">
-						<a href="http://www.mazumamobile.com/contact.php">Contact us</a> | <a href="/sell_mobile_phone.php?action=login">My account</a> | <a href="http://www.mazumamobile.com/sell_mobile_phone.php?action=login">Login</a>					</div>
+						<a href="http://www.mazumamobile.com/contact.php">Contact us</a> | <a href="http://www.mazumamobile.com/sell_mobile_phone.php?action=login">My account</a> | <a href="http://www.mazumamobile.com/sell_mobile_phone.php?action=login">Login</a>					</div>
 
 					<div id="siteSelector">
 						<a href="#" id="countryActive" onclick="return false;"><img src="/images/12update/mazUKFlag.png" alt="Mazuma Mobile UK"></a>
@@ -225,7 +229,7 @@ $(document).ready(function() {
 	
 		<div id="accredsWrapper" class="doCurvy">
 
-			<div id="accreds"><img src="/images/11/homeFooterAccreditationLogos.gif" width="606" height="55" border="0" alt="Mazuma Mobile Accreditations"></div>
+			<div id="accreds"><img src="/images/11/homeFooterAccreditationLogos.png" width="606" height="55" border="0" alt="Mazuma Mobile Accreditations"></div>
 	
 			<div id="social">
 
@@ -256,7 +260,7 @@ $(document).ready(function() {
 					<li><a href="/recycle.php">Being responsible</a></li>
 					<li><a href="http://www.mazumamobile.com/blog/">Blog</a></li>
 					<li><a href="/contact.php">Contact us</a></li>
-					<li><a href="http://www.trustpilot.co.uk/review/www.mazumamobile.com" target="_blank">Customer reviews</a></li>
+					<li><a href="/customer-reviews.php">Customer reviews</a></li>
 					<li><a href="/mobile-data-delete-tool/">Data delete tool</a></li>
 					<li><a href="http://www.mazumamobile.com">Home</a></li>
 					<li><a href="/how.php">How it works</a></li>
@@ -268,15 +272,15 @@ $(document).ready(function() {
 				<div id="column2">
 
 					<ul>
-					<li><a href="/mobilephonenews/archive/2010/">Mobile News Archive</a></li>
+					<li><a href="/mobilephonenews/archive/2012/">Mobile News Archive</a></li>
 					<li><a href="/about.php">Our history</a></li>
 					<li><a href="/promises.php">Our promises</a></li>
-					<li><a href="/support/payment/">Payment</a></li>
+					<li><a href="/support/your-payment/">Payment</a></li>
 					<li><a href="/privacy.php">Privacy Policy &amp; Cookies</a></li>
 					<li><a href="/rss.xml">RSS feed</a></li>
 					<li><a href="/sell_mobile_phones.php">Mazuma your mobile</a></li>
-					<li><a href="/support/selling/">Selling your mobile</a></li>
-					<li><a href="/support/sending/">Sending your mobile</a></li>
+					<li><a href="/support/selling-your-mobile/">Selling your mobile</a></li>
+					<li><a href="/support/sending-your-mobile/">Sending your mobile</a></li>
 					</ul>
 					
 				</div>
@@ -287,8 +291,8 @@ $(document).ready(function() {
 					<li><a href="/support/">Support/FAQs</a></li>
 					<li><a href="/terms-of-supply.php">Terms &amp; Conditions</a></li>
 					<li><a href="/terms-of-website-use.php">Terms of Website Use</a></li>
-					<li><a href="/whatPeopleSay.php">Testimonials</a></li>
-					<li><a href="/websiteHelp.php">Website Help</a></li>
+					<li><a href="/testimonials/">Testimonials</a></li>
+					<li><a href="/support/website-help/">Website Help</a></li>
 					<li><a href="/about.php">Who we are</a></li>
 					<li><a href="/why.php">Why use us</a></li>
 					<li><a href="/sitemap.xml">XML Sitemap</a></li>
@@ -321,13 +325,13 @@ $(document).ready(function() {
 
 					<ul>
 				
-			<li><a href="/mobilephonenews/mobile-phones-news/images-taken-with-windows-phone-nokia-lumia-510-online$801473867.htm">Images taken with Windows Phone Nokia Lumia 510 online</a></li>
+			<li><a href="/mobilephonenews/mobile-phones-news/new-research-to-create-the-ultimate-battery$801575056.htm">New research to create the ultimate battery</a></li>
 				
-			<li><a href="/mobilephonenews/mobile-phones-news/microsoft-officially-unveils-windows-phone-8-launch-date$801473875.htm">Microsoft officially unveils Windows Phone 8 launch date</a></li>
+			<li><a href="/mobilephonenews/mobile-phones-news/new-nexus-could-debut-at-google-event$801575081.htm">New Nexus could debut at Google event</a></li>
 				
-			<li><a href="/mobilephonenews/mobile-phones-news/further-lg-nexus-4-details-emerge$801473517.htm">Further LG Nexus 4 details emerge</a></li>
+			<li><a href="/mobilephonenews/mobile-phones-news/facebook-home-only-gets-half-a-million-downloads$801575045.htm">Facebook Home only gets half-a-million downloads</a></li>
 				
-			<li><a href="/mobilephonenews/mobile-phones-news/samsung-galaxy-s3-even-more-attractive-with-android-jelly-bean$801473070.htm">Samsung Galaxy S3 even more attractive with Android Jelly Bean</a></li>
+			<li><a href="/mobilephonenews/mobile-phones-news/samsung-flexible-screen-delay$801574229.htm">Samsung flexible screen delay</a></li>
 				
 					</ul>
 				<!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=New Footer Banner,Website=- None -) -->
@@ -337,7 +341,7 @@ $(document).ready(function() {
   /* <![CDATA[ */ 
   var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/584033984991583325/bc.cbi?cbdid=2315485143931100079" border="0" id=' + bccbId + ' /%3E'));  var bccb = {id: bccbId, bdid: '2315485143931100079', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]); 
   /* ]]> */ 
-  </script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/584033984991583325/bc.cbi?cbdid=2315485143931100079" border="0" id="0.1115324550458241">
+  </script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/584033984991583325/bc.cbi?cbdid=2315485143931100079" border="0" id="0.9725254608208422">
   
  </a>
 <!-- /BoldChat Live Chat Button HTML v4.00 -->
@@ -380,17 +384,13 @@ $(document).ready(function() {
 
 <!-- StickyNewMedia.co.uk Google  -->
 <script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-324179-9']);
-  _gaq.push(['_setDomainName', '.mazumamobile.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-39622007-1', 'mazumamobile.com');
+  ga('send', 'pageview');
 
 </script>
 <!-- END StickyNewMedia.co.uk Google  -->
