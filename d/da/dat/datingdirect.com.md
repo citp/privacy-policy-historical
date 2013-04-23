@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingdirect.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224005248id_/http%3A//www.datingdirect.com/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingdirect.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423153916id_/http%3A//www.datingdirect.com/misc/privacy_v.php) for the most accurate reproduction.*
 
 # Single? Meet and chat with other singles looking for love - Free registration
 
