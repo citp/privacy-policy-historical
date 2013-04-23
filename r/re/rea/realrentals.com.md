@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realrentals.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109175214id_/http%3A//www.realrentals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realrentals.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424003835id_/http%3A//www.realrentals.com/privacy) for the most accurate reproduction.*
 
 # RealRentals.com | Privacy Policy
 
