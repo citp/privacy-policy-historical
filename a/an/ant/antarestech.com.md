@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817164752id_/http%3A//www.antarestech.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423110821id_/http%3A//www.antarestech.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Antares Audio Technologies
 
@@ -32,5 +32,5 @@
 
   4\. UPDATES AND CHANGES TO PRIVACY POLICY. We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
 
-©2012 Antares Audio Technologies. All rights reserved. |[ Privacy Policy ](http://www.antarestech.com/about/privacy.shtml)   
+©2013 Antares Audio Technologies. All rights reserved. |[ Privacy Policy ](http://www.antarestech.com/about/privacy.shtml)   
 Evo™, Auto-Motion™, and Solid-Tune™ are trademarks and Auto-Tune®, Antares®, AVOX®, Harmony Engine®, and Mic Mod® are registered trademarks of Antares Audio Technologies. 
