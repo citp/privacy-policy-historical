@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawsonera.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231042402id_/http%3A//www.dawsonera.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsonera.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423190603id_/http%3A//dawsonera.com/privacy.html) for the most accurate reproduction.*
 
 # dawsonera : Home
 
