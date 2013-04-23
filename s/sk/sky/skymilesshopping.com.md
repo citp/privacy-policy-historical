@@ -1,184 +1,56 @@
-> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407212853id_/http%3A//skymilesshopping.com/CustomerCare/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424011435id_/http%3A//www.skymilesshopping.com/privacy____.htm) for the most accurate reproduction.*
 
-# Delta SkyMiles Shopping
+# Privacy Policy - Shop Online at SkyMiles Shopping
 
-Advantex Privacy Statement   
-  
----  
-| 
+The Delta Skymiles Shopping Mall has the highest respect for our Members' privacy and personal information. Except as provided in this Privacy Policy, the Delta SkyMiles Shopping Mall (the "Program") will never release a Member's personal information without express permission except for purposes of data verification and supplementation or such uses as are described in the Terms and Conditions.
 
-The SkyMiles Shopping Program® (“Program”) is a safe, secure environment where holders of the SkyMiles frequent flier Program ("Members") earn SkyMiles for shopping online at participating merchants. The SkyMiles Shopping Program is operated by Advantex Marketing International Inc. ("Advantex"). SkyMiles members registered in the Program are hereafter referred to as Enrolled Members (“Enrolled Members”)
+Cartera Commerce, Inc., a Delaware corporation ("Cartera Commerce"), is the provider of the Program, which is sponsored by Delta Air Lines, Inc. and/or its affiliates (collectively, the "Program Sponsor"). This Privacy Policy describes Cartera's handling of your personal information it may collect through your participation in the Program.
 
-Advantex is sensitive to issues surrounding consumer privacy and therefore operates the Program in compliance with current privacy legislation, and with generally accepted privacy protection practices. Advantex will not treat this information in ways different from what is disclosed in this statement. 
+### INFORMATION COLLECTED AND HOW WE USE IT
 
-This document is intended to provide SkyMiles members with the information necessary to understand the type of consumer information Advantex requires in order to operate the Program, as well as how this information will be used.  
-  
-  | 
+In order to participate in the Program, you are required to provide certain required information, including without limitation your name, address, e-mail address, and phone number.
 
-**Access to Information**  
-  
-  | 
+We automatically log your IP address when you visit the Program website. The information logged allows us to track a user throughout their visit to the Program website. We do not use this information to capture demographic or other information; rather, it is used simply in the administration of the Program website.
 
-The personal information provided to Advantex by Members is kept secure and confidential.  Personal information on Enrolled Members is confidential and will not be disclosed or used except as permitted by the Enrolled Member or as required by law.  Advantex will not disclose information about Enrolled Members to third parties (either organizations or individuals) unless: 
+The nature of the Program requires us to obtain information about your purchases at participating merchants. As a result, participating merchants send us transaction information (date and time of transaction, temporary ID number which only the Program can link to your account, sale amount and returned goods information) on a frequent basis. Cartera Commerce and/or the Program Sponsor use this information to properly add the miles you've earned to your Delta SkyMiles® Program account (the "Program Account").
 
-  * the Enrolled Member gives Advantex explicit and specific prior permission, or 
-  * the disclosure is required by law or by warrant authorized by a court of competent jurisdiction. 
+Information that identifies you personally will not be provided to, sold or disclosed to any third party without your express permission. Within Cartera Commerce and/or the Program Sponsor, we restrict access to your data to those employees, such as customer service representatives, who need such access to better serve you. In addition, Cartera Commerce and/or the Program Sponsor provide limited access to third party vendors who provide financial, administrative or other services in support of the Program. These vendors are restricted from using this data in any way other than to provide services to the Program and may not otherwise use or resell the data.
+
+You will not be able to log on to the Program website without enabling your browser to accept cookies. A cookie is a small amount of data that is sent to your browser from our Web server. The Program uses cookies when you log on to your account with your User Name and Password. These cookies allow us to remember you as you visit pages in the Program site, so that you do not need to reenter your information. Our usage of cookies also allows us to track where users go when they visit the Program site. We may use this "click-stream data" to deliver targeted offers to Members and other similar functionality. Once you terminate your session, only your Program User Name will remain in the cookie on your hard drive.
+
+The Program site contains a number of links to merchants' web sites. We have not undertaken a review of the privacy policies or terms and conditions at such merchants' web sites, and we make no representations about the privacy policies or levels of security at these sites or the applicable terms and conditions. We are not responsible for the applicable terms and conditions or the privacy practices used by such merchants.
+
+We will be sending you e-mails on a regular basis to advise you when your account statement has been updated. Other e-mails may be sent from the Program informing you of updates or changes to the network, etc.
+
+The Program site takes commercially reasonable precautions consistent with general industry practices to protect Members' information. When Members submit sensitive information via the Program site, we use our commercially reasonable efforts to ensure that their information is protected both online and off-line.
+
+Information provided during our join or edit profile pages is encrypted and is protected with what is generally recognized as the best available encryption software in the industry - SSL. You will see the lock icon at the bottom of your browser and if you right click on the page, and view the page properties, you will see the site certificate. To learn more about SSL, follow this link: [http://www.verisign.com](http://www.verisign.com/).
+
+While we use SSL encryption to protect sensitive information online, we also use our commercially reasonable efforts consistent with general industry practices to protect user-information off-line. Access to Members' information, not just the sensitive information mentioned above, is restricted in our offices. Only individuals who have a need to know such information to perform a specific job (for example, customer service) are granted access to personally identifiable information. Furthermore, all such individuals are kept up-to-date on our security and privacy practices. When an employee is hired, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, off site. If you have any questions about the security at the Program site, users can send an e-mail to usersupport@cartera.com or otherwise contact us at the information below.
+
+We also will send you Program and service announcement updates. Users are not able to unsubscribe from service announcements, which contain important information about the Program and associated services. We communicate with Members to provide requested services and address issues relating to their account, via email or phone, with information provided by the Member. It is your responsibility to keep such information current.
+
+You can update your information by going to the "My Profile" link. Your profile changes will take effect immediately. If there is incorrect information in your Statement, please Contact Us and our customer service team will be glad to assist you.
+
+If we decide to change this Privacy Policy, we will post those changes on the Program site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information or other information disclosed by you in a manner different from that stated at the time it was collected, we would notify users by way of an email prior to effecting such change. Members will have a choice as to whether or not we use their information in this different manner. Otherwise, we will use information in accordance with the Privacy Policy under which the information was collected.
+
+Though we make commercially reasonable efforts to preserve user privacy, we may need to disclose personal information when required by law or we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on or otherwise in connection with the Program site.
+
+If users have any questions or suggestions regarding this Privacy Policy, please contact us at:
+
+  * Phone:
+  * (781) 541-6800
+  * Fax:
+  * (781) 541-6801
+  * Email:
+  * [USERSUPPORT@CARTERA.COM](mailto:usersupport@cartera.com)
+  *     * Address: 
+    * Delta Skymiles Shopping Mall  
+c/o Cartera Commerce, Inc.  
+One Cranberry Hill, Suite 203  
+Lexington, MA 02421  
+Attn: Customer Care
+  * Last Updated:
+  * January 9, 2013
 
 
-
-In particular, Advantex will not provide an Enrolled Member's e-mail address or other personal identifiers to merchants or marketers. Advantex will provide statistical information about aggregated Enrolled Member usage that has been purged of all personal identifiers. 
-
-Should there be any concerns regarding the type of information accumulated or its use, Enrolled Members should contact: 
-
-**Advantex Privacy Officer  
-Advantex Marketing International Inc.   
-491 Eglinton Avenue West, 3rd Floor   
-Toronto, ON M5N 1A8 **  
-[privacy.officer@advantex.com](mailto:privacy.officer@advantex.com)  
-  
-  | 
-
-**Collecting Information**  
-  
-  | 
-
-As part of the registration process, Advantex collects SkyMiles numbers, e-mail addresses and other personal information from Members who voluntarily register to receive SkyMiles through the Program. Advantex will explicitly ask for the information required to operate the Program and process the SkyMiles earned by Enrolled Members on their purchases at participating merchants. Personal information, including anonymous user and Enrolled Member tracking identifiers created during the registration process, are stored in a secure environment with credit card and password information encrypted for added security. 
-
-At Enrolled Member login, an Internet Protocol (IP) address may be collected as part of Advantex's intrusion detection process.   
-  
-  | 
-
-**How Information is Used**  
-  
-  | 
-
-Information on Enrolled Member's activity at participating sites is accumulated in order to process SkyMiles earned and continually improve the quality of the program and program offerings. 
-
-Information gathered through transactions is used in an aggregated statistical form to gauge and measure the effectiveness of a merchant's participation in the program. In this case, all personally identifying information is removed and the information is shared in anonymous grouped statistical form only.
-
-Advantex will also monitor Enrolled Member's program activity in order to assess the effectiveness of the overall program design and to continually improve the quality of the Program and Program offerings. 
-
-Advantex may use Enrolled Member information in top-level aggregated form to attract merchants who wish to advertise or send promotional information to Enrolled Members who have expressed their desire to receive information on special offers.   
-  
-  | 
-
-**Registration Cookies**  
-  
-  | 
-
-Enrolled Members log in to the Program, and have the option of accepting an Advantex cookie to eliminate the need for future logins. A cookie is a small piece of text that is stored by the browser on a computer and is used by Advantex for identification and to process the rewards earned. The Advantex cookie will not be used to send Enrolled Members advertisements or to identify Enrolled Members in any way other than as described above. Removing the cookie simply means that the Enrolled Member will need to login to the Program each and every time to begin a SkyMiles-eligible shopping session at a participating merchant.  
-  
-  | 
-
-**Security**  
-  
-  | 
-
-Security is important to Advantex and Delta Air Lines. Our top priority is to protect the privacy of personal account information. To access the Program, an Enrolled Member's Web browser must have 128-bit encryption, one of the highest forms of encryption technology available today. When Enrolled Members access the Program, their browser is checked to ensure that it meets Advantex's minimum security requirements. Enrolled Members are responsible for ensuring their browser is the most secure available. 
-
-Advantex takes all appropriate measures to reduce the likelihood of accidental disclosures and unintended access and modification of account information. 
-
-All employees, contractors and other companies engaged by Advantex for work that involves access to personal information are contractually required to keep the information confidential and not to use it in any way other than what is necessary to perform their work for Advantex.   
-  
-  | 
-
-**Participating Merchant Sites**  
-  
-  | 
-
-Advantex is not responsible for the privacy practices or the content of participating merchant sites. We urge Enrolled Members to read the privacy statements of these sites. This privacy statement applies solely to information received by Advantex for the purpose of the Program.
-
-Participating merchants may collect and use information to ensure that a reward transaction is appropriately reflected in Enrolled Member's statements. These participating merchants may also collect additional information through surveys and forms for their own marketing purposes. When Enrolled Members provide information while visiting a participating merchant's Website, it is the merchant's site that collects the information. Please note that the privacy policies of merchant sites may differ from those of Advantex. 
-
-Some participating merchants may use cookies on their sites, however, Advantex has no access to or control over these cookies.   
-  
-  | 
-
-**Special Note About Children**  
-  
-  | 
-
-The Program is not directed towards children, nor does Advantex believe that the Program will be of interest to children. However, Advantex recognizes the important safety issues regarding children who access the Internet. To remove a child who has enrolled in the Program and permanently remove all personal information regarding this child from the Program database, SkyMiles members should send an [email](https://web.archive.org/CustomerCare/GeneralInquiriesbyEmail.asp) to Customer Care.  
-  
-  | 
-
-**Promotional Communications**  
-  
-  | 
-
-During registration, Advantex offers SkyMiles members the option of receiving notification by e-mail of special offers by participating merchants and other promotional information. SkyMiles members must indicate their positive consent to receive this valuable service. 
-
-From time to time, Advantex may request information from Enrolled Members via surveys or contests. Participation in these surveys or contests is completely voluntary and Enrolled Members therefore have the choice whether or not to disclose the requested information. Information requested may include contact information (such as name and shipping address), and demographic information (such as postal/zip code, age, gender, etc.). Contact information will be used to notify winners and award prizes. Survey information will be recorded on an individual basis for the purpose of monitoring or improving the quality of the Program and Program offerings.   
-  
-  | 
-
-**Correcting/Updating Personal Information**  
-  
-  | 
-
-If an Enrolled Member's personally identifiable information changes (such as an e-mail address), or if an Enrolled Member no longer desires to receive all or part of Advantex's services, Advantex will provide a way to correct or update that user's personal data to the company's files. This can be accomplished by sending an email to [Customer Care](https://web.archive.org/CustomerCare/GeneralInquiriesbyEmail.asp).   
-  
-  | 
-
-**Fraud**  
-  
-  | 
-
-Advantex may send details of an Enrolled Member's purchases to a participating merchant where the transactions were made, to verify that the transactions were completed and have not been cancelled. If Advantex suspects fraud by an Enrolled Member, Advantex may investigate and report any evidence, including personally identifiable information, to law enforcement and to the courts in the course of seeking remedies in law or equity. 
-
-Any suspected breaches to the security of the SkyMiles Shopping Website should be immediately reported to Customer Service at 1-888-570-2257 (Monday through Friday from 9:00 a.m. to 6:00 p.m. EST) or by [email](https://web.archive.org/CustomerCare/GeneralInquiriesbyEmail.asp).   
-  
-  | 
-
-**Individual Access**  
-  
-  | 
-
-Registered Members may obtain access to files on their personal information by making a formal request to our [Privacy Officer](mailto:privacy.officer@advantex.com).  
-  
-  | 
-
-**Opting-Out**  
-  
-  | 
-
-Registered Members may cancel their participation in all or part of the Program at any time through [www.skymilesshopping.com](http://www.skymilesshopping.com/) or by [e-mailing](https://web.archive.org/CustomerCare/GeneralInquiriesbyEmail.asp) Customer Service. Upon receiving a cancellation request, Advantex will make every effort to remove the Registered Member's information from the time of the request going forward.   
-  
-  | 
-
-**Retention of Historic Information**  
-  
-  | 
-
-Advantex will retain information on an Enrolled Member until such time as the individual resigns from the Program. Upon resignation, the individual's personal identifying information will be retained for a two year period in order to answer individual Registered Member's questions. After two years, personal information will be deleted. Historical aggregated consolidated Program data that may contain information from the resignee will be retained.   
-  
-  | 
-
-**Notification of Changes**  
-  
-  | 
-
-Advantex will post Program updates, changes to this privacy policy, and other important information on the SkyMilesShopping.com Website and wherever possible, will also deliver such information to the personal e-mail accounts of Registered Members.   
-  
-  | 
-
-**Questions or Complaints?**  
-  
-  | 
-
-If an Enrolled Member has any questions or concerns regarding Advantex's compliance with the above privacy policy, please contact:   
-  
-  | 
-
-**Advantex Privacy Officer  
-Advantex Marketing International Inc.   
-491 Eglinton Avenue West, 3rd Floor  
-Toronto, ON M5N 1A8  
-**[privacy.officer@advantex.com](mailto:privacy.officer@advantex.com)  
-  
-  |    
-  | 
-
-All inquiries and concerns will be fully investigated and answered by Advantex. If warranted, Advantex will take appropriate action to correct the offending policy or procedure. In the event that an Enrolled Member is dissatisfied with Advantex's response or action, the Registered Member should contact SkyMiles Customer Service within six months following the last response from Advantex.   
-  
-  |  
