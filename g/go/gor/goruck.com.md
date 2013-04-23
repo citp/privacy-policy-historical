@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108140435id_/https%3A//www.goruck.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423181132id_/https%3A//www.goruck.com/Privacy) for the most accurate reproduction.*
 
 # PRIVACY | GORUCK | Built in the USA
 
 We guard your privacy and will never sell your private information.
 
-This is the website of GORUCK LLC. Our postal address is: 
+This is the website of GORUCK LLC. Our postal address is:
 
-  * GORUCK
-  * 600 N Wallace #5
-  * Bozeman MT 59715
+GORUCK  
+600 N Wallace #5  
+Bozeman MT 59715  
 
 
+## INFORMATION COLLECTION
 
 GORUCK collects personal information about customers as part of the shopping process. This information will be used by GORUCK to enable the customer to have a better shopping experience.
 
@@ -33,7 +34,7 @@ Web: [contact us](https://web.archive.org/Contact)
 Email: [info@GORUCK.com](mailto:info@goruck.com)
 
 In writing:  
-GORUCK, LLC  
-2516 Q St. NW #c102  
-Washington DC 20007  
+GORUCK  
+600 N Wallace #5  
+Bozeman MT 59715  
 
