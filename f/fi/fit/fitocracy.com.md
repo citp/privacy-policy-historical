@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the fitocracy.com privacy policy that was archived on 2012-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120410063333id_/http%3A//www.fitocracy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitocracy.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423221444id_/https%3A//www.fitocracy.com/privacy-policy) for the most accurate reproduction.*
 
-# Fitocracy - Privacy Policy
+# Fitocracy | Privacy Policy
+
+It is Fitocracy’s policy to respect your privacy regarding any information we may collect while operating our website(s).
 
 Website visitors
 
-Like most website operators, Fitocracy collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Fitocracy’s purpose in collecting non-personally identifying information is to better understand how Fitocracy’s visitors use its website. From time to time, Fitocracy may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Fitocracy also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users.
+Like most website operators... 
 
-Gathering of Personally Identifying Information 
+Fitocracy collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Fitocracy’s purpose in collecting non-personally identifying information is to better understand how Fitocracy’s visitors use its website. From time to time, Fitocracy may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Fitocracy also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users.
+
+Gathering of Personally Identifying Information
 
 Certain visitors to Fitocracy choose to interact with Fitocracy in ways that require Fitocracy to gather personally-identifying information. The amount and type of information that Fitocracy gathers depends on the nature of the interaction. In each case, Fitocracy collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Fitocracy. Fitocracy does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+If you create your Fitocracy account using Facebook authentication, we pull in your birthday, email address, and profile picture if they are available to us from your Facebook profile. All of these can be changed later in your [Fitocracy settings](https://web.archive.org/general-settings/).
+
+When you connect your Fitocracy account to Facebook we store some information (access token, your ID, and the names and IDs of your friends) so that we can find which of your friends are using Fitocracy; or let you know if they join in the future. If you choose to disconnect your Facebook account from Fitocracy, which you can do at any time, we delete this information from our servers.
 
 Correcting updating or removing information
 
