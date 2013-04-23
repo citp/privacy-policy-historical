@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ctfs.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028112136id_/https%3A//www.ctfs.com/SecurityCentre/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctfs.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423234537id_/https%3A//www.ctfs.com/SecurityCentre/PrivacyAndSecurity) for the most accurate reproduction.*
 
-# Canadian Tire Financial Services - Privacy and Security
+# Canadian Tire Financial Services - Privacy
 
 Your Privacy is Important to us  
 
 
 Canadian Tire Financial Services Limited and Canadian Tire Bank abide by the Canadian Tire Corporation, Limited Privacy Charter.
 
-Canadian Tire Corporation, Limited and its family of companies including Canadian Tire Financial Services Limited, Canadian Tire Bank, Canadian Tire Real Estate Limited, Mark's Work Wearhouse Limited ( **Mark’s)** , The Forzani Group Ltd. ( **FGL** ), Canadian Tire Petroleum and PartSource, are committed to protecting the privacy and security of your personal information obtained by reason of your doing business with us.
+Canadian Tire Corporation, Limited and its family of companies including Canadian Tire Financial Services Limited, Canadian Tire Bank, Canadian Tire Real Estate Limited, Mark's Work Wearhouse Limited ( **Mark’s)** , FGL Sports Ltd. ( **FGL** ), Canadian Tire Petroleum and PartSource, are committed to protecting the privacy and security of your personal information obtained by reason of your doing business with us.
 
 Our Privacy Charter explains the types of customer personal information we collect, how it is used and the steps we take to ensure your personal information is handled appropriately.
 
