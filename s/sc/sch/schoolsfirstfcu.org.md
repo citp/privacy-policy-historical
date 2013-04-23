@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolsfirstfcu.org privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016120041id_/https%3A//www.schoolsfirstfcu.org/pdf_Files/PrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolsfirstfcu.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423114903id_/https%3A//www.schoolsfirstfcu.org/pdf_Files/PrivacyNotice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
