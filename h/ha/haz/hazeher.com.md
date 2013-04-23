@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hazeher.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915025334id_/http%3A//www.hazeher.com/hazeher/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hazeher.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423215136id_/http%3A//hazeher.com/hazeher/privacy.html) for the most accurate reproduction.*
 
 # 
 
