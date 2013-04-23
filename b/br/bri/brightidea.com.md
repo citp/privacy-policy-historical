@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919211258id_/http%3A//www.brightidea.com/privacy.bix) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423191818id_/http%3A//www.brightidea.com/privacy.bix) for the most accurate reproduction.*
 
 # Innovation Management, Idea Management, Crowdsourcing. Ideation. Brightidea, Inc., The Global Leader Cloud-Based Enterprise Innovation Management
 
-(Effective as of July 2012)
+(Effective as of Oct 2012)
 
 ## Introduction
 
@@ -30,6 +30,8 @@ We may use the services of marketing companies to help us collect and/or log Int
 
 If you choose to receive company or product information, you will need to complete our online request forms. The online forms provide site visitors with an opportunity to request free product downloads and demos, view Brightidea white papers, register for free Brightidea online seminars as they may be offered, and enroll for various services. These forms require your name, company name, e-mail address, company address, phone number as well as other information to help us determine and respond to your needs related to the products and/or services requested. All information provided by the visitor is voluntary. We use this information to send updates about our company and our products and to contact you if requested or necessary. We also use the demographic information you provide on these forms in connection with studies and reports regarding our Web site, such as Web site usage patterns, in order to better understand the needs of visitors to our Web site. We will not, however, associate any personally identifiable information which you provide with the information in these studies and reports.
 
+We use Web beacons alone or in conjunction with cookies to compile information about your usage of our Web site and interaction with emails from Brightidea.Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon and a description of a website tied to the Web beacon. We only use Web beacons to operate and improve our Web site and emails communications. 
+
 We may occasionally run contests or other special promotions on our Web site in which we ask persons who choose to participate for contact information (like an e-mail address) or demographic information (like a zip code, industry or country). We may use the data we collect from you in these contests and promotions to send you promotional material about our company or our partners. Your contact information collected from these contests and promotions may be used to administer the contest and notify winners and contact you when necessary.
 
 ## E-mail Addresses
@@ -38,7 +40,7 @@ We do not collect e-mail addresses without the site visitor voluntarily providin
 
 ## Customer Data
 
-Customers or end users may use our hosted services to host certain data about their personnel. We do not use or disclose such data except as provided in our subscription agreements with our customers, or as may be required by law. Customers are responsible for maintaining the security of their user logins.
+Customers or end users may use our hosted services to host certain data about their personnel. We do not use or disclose such data except as provided in our subscription agreements with our customers, or as may be required by law , or if we believe that use or disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process. Customers are responsible for maintaining the security and confidentiality of their usernames and passwords.
 
 ## Data Security
 
@@ -58,10 +60,10 @@ Brightidea may amend this Privacy Policy from time to time. If Brightidea decide
 
 ## Choice/Opt-Outand Updating Information
 
-If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by unsubscribing. You may also contact us by regular mail addressed to: Brightidea, Inc., Attn: Support, 434 Brannan Street, San Francisco, CA 94107.
+If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by unsubscribing. You may also contact us by regular mail addressed to: Brightidea, Inc., Attn: Support, 434 Brannan Street, San Francisco, CA 94104 - USA.
 
 ## Contacting Us
 
 If you have any questions about this Privacy Policy or this Web site, please contact us directly at: support@Brightidea.com
 
-Written inquiries may be addressed to: Brightidea, Inc., Attn: Support, 434 Brannan Street, San Francisco, CA 94107.
+Written inquiries may be addressed to: Brightidea, Inc., Attn: Support, 101 Montgomery Street, Suite 2500, San Francisco, CA 94104 - USA.
