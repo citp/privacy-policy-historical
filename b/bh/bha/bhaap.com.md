@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhaap.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207150512id_/http%3A//www.bhaap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhaap.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423073026id_/http%3A//www.bhaap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Shopping India, 1 Deal Every Day at 10 am
 
@@ -35,7 +35,7 @@ We encourage Bhaap.com Merchants and Third Party Service Providers to adopt and 
 
 **We may share your information in a Business Transfer.  **As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personal Information. However, Personal Information would remain subject to this Privacy Policy.
 
-**We may share your information for our protection and the protection of others.  **We may also disclose Personal Information when we believe release is appropriate to comply with the law or a court order; enforce or apply this Privacy Policy, our website [Terms of Use](https://web.archive.org/terms-of-use "Terms of Use") or other agreements; or protect the rights, property or safety of the Website, its Users or others.
+**We may share your information for our protection and the protection of others.  **We may also disclose Personal Information when we believe release is appropriate to comply with the law or a court order; enforce or apply this Privacy Policy, our website [Terms of Use](/terms-of-use "Terms of Use") or other agreements; or protect the rights, property or safety of the Website, its Users or others.
 
 **We may share your information with our associate companies.**  
 We may also share Personal Identifiable Information with our associate companies for the purpose of providing any notification regarding new services or special promotional programs and offers or information related to such associate companies if you have opted-in. 
@@ -44,7 +44,7 @@ We may also share Personal Identifiable Information with our associate companies
 We may disclose or share Non-Personal Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personal Information) with "Third Party Advertisers" or "Third Party Advertising Companies". We also use Third Party Service Providers to track and analyse Non-Personal Information usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personal Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us to improve your Website experience.
 
 **5\. Updating and Correcting Information**  
-We believe that you should have the ability to access and edit the Personal Information you provide us. You may change any of your Personal Information by logging into [your account](https://web.archive.org/customer/account/login/ "My Account Login").
+We believe that you should have the ability to access and edit the Personal Information you provide us. You may change any of your Personal Information by logging into [your account](/customer/account/login/ "My Account Login").
 
 We encourage you to promptly update your Personal Information if it changes. You may ask to have the information on your account deleted or removed. However, because we store details of past transactions, we cannot delete information associated with any past transactions on the Website. In addition, we may be unable to completely delete all your personal information because of data backup reasons.
 
@@ -74,4 +74,4 @@ Minors under the age of 18 may not use the Website. We do not collect or maintai
 **Public Areas -  **We may provide areas on our Website where you can publicly post information about yourself, can communicate with others, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.
 
 **11\. Contact Us**  
-We do not discriminate! Whether you are a new or loyal customer, wholesaler, retailer, marketer, publisher, media member or job seeker we would like to stay connected. We want to hear from you today so [contact us](https://web.archive.org/contact-us "Contact Us")!
+We do not discriminate! Whether you are a new or loyal customer, wholesaler, retailer, marketer, publisher, media member or job seeker we would like to stay connected. We want to hear from you today so [contact us](/contact-us "Contact Us")!
