@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021233815id_/http%3A//www.pozible.com/index.php/help/i/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423131910id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.*
 
 # Pozible | Crowdfunding Creativity
 
-Welcome to Pozible’s Privacy Policy. Your privacy is very important to us. You must read and agree to the terms of this Privacy Policy before becoming a Pozible account holder. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties. This Privacy Policy governs the information we collect about you and your use of information we provide to you. By accepting this Privacy Policy and the User Agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Pozible User Agreement. 
+Your privacy is very important to us. You must read and agree to the terms of this Privacy Policy before becoming a Pozible account holder. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties. This Privacy Policy governs the information we collect about you and your use of information we provide to you. By accepting this Privacy Policy and the User Agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Pozible User Agreement. 
 
-Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision. The privacy practices of this notice apply to the website located at http://www.pozible.com (collectively the "Site"). Pozible is subject to the requirements of applicable law. We strive to provide a consistent set of privacy practices throughout our Pozible trading community. 
+Although this may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision. The privacy practices of this notice apply to the website located at [http://www.pozible.com](http://www.pozible.com/) (collectively the "Site"). Pozible is subject to the requirements of applicable law. We strive to provide a consistent set of privacy practices throughout our Pozible trading community. 
 
 Questions regarding this statement should be directed to Pozible by sending email to [admin@pozible.com](mailto:admin@pozible.com). 
 
-This Privacy Policy contains a number of references to other information pages on our Site and other websites. Please note: underlined words and phrases are click-through links to these pages and websites. Pozible strongly recommends that as you read this Privacy Policy, you click on such links to obtain further important details about the Privacy Policy, as they may contain further terms and conditions which apply to you as a Pozible Account holder. 
+This Privacy Policy contains a number of references to other information pages on our Site and other websites. Please note: underlined words and phrases are click-through links to these pages and websites. Pozible strongly recommends that as you read this Privacy Policy, you click on such links to obtain further important details about the Privacy Policy, as they may contain further terms and conditions which apply to you as a Pozible account holder. 
 
 **1\. An Important Note About Children.**
 
@@ -16,7 +16,7 @@ Children (persons under the age of 18 years) are not eligible to use our service
 
 **2\. Information We Collect**
 
-Our primary purpose in collecting personal information is to provide you with a smooth, efficient, safer and customised trading experience. This allows us to provide services and features that most likely meet your needs, and to customise our services to make your experience safer and easier. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal. 
+Our primary purpose in collecting personal information is to provide you with a smooth, efficient, safe and customised trading experience. This allows us to provide services and features that most likely meet your needs, and to customise our services to make your experience safer and easier. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal. 
 
 To fully use our services, you will need to register using our online registration form, where you will be required to provide us with your contact information and other personal information. You are required to provide us with your full name. Under some circumstances we may require some additional necessary financial information, such as, but not limited to: if you are registering using an email account at a free email service, or posting a project on our site. We use your financial information, including credit card information to verify your name, address, and other contact information. 
 
@@ -72,7 +72,7 @@ In order to facilitate interaction among all Pozible community members, our serv
 
 By entering into our User Agreement, you agree that, with respect to other users' personal information that you obtain through the Site or through a Pozible-related communication or Pozible-facilitated transaction, Pozible hereby grants to you a license to use such information only for: 
 
-Pozible-related communications that are not unsolicited commercial messages, using co-branded services offered through Pozible (e.g. insurance, shipping and fraud complaints), and any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). 
+Pozible-related communications that are not unsolicited commercial messages, using cobranded services offered through Pozible (e.g. insurance, shipping and fraud complaints), and any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). 
 
 In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personal information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access. 
 
@@ -92,7 +92,7 @@ Following registration, you can review and change the information you submitted 
 
 Your registration information such as: name, company, address, city, state, post code, country, primary phone number, secondary phone number, fax number and gender. 
 
-Your password (if you have supplied such information).. 
+Your password (if you have supplied such information). 
 
 You must promptly update your personal information if it changes. Once posted, you cannot change or remove any public postings made in our forums or other message areas or the feedback area. 
 
