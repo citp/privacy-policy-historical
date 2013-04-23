@@ -1,31 +1,118 @@
-> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401210626id_/http%3A//about.netster.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423132721id_/https%3A//privacy-policy.truste.com/verified-policy/biginterview.com) for the most accurate reproduction.*
 
-# Netster®
+# Privacy Policy for biginterview.com
 
-   |  **Netster® Privacy Policy and Terms of Use**
+Effective on January 7, 2011 
 
-By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection Privacy Policy related to services offered directly by Netster.com. Please note that Netster.com contains links to other sites and may allow those sites to be co-branded with the Netster® name. Web sites that are linked to Netster.com may have privacy policies that differ from that of the Netster.com This privacy policy only covers services offered by Netster.com. 
+This privacy statement describes how Skillful Communications collects and uses the personal information you provide on our Web site: [biginterview.com ](http://biginterview.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-This privacy statement does not cover the privacy policies of Third party advertisers and or affiliates that advertise or list their products and services on Netster.com. Netster.com allows other companies that are presenting advertisements on some of our web pages to transmit, set and access their cookies on your computer. **Therefore, the following policies are those of Netster.com only**. 
+**TRUSTe**
 
-When you visit Netster® and/or use any of the Netster® offered search services, The Netster® (Netster.com) collects certain statistical data. At this point The Netster® cannot identify you personally, but rather only collect statistical information on the usage, and pattern of usage of its services. This information is automatically received by Netster.com from your browser and is kept on our server logs. This information includes your I.P. address, our cookies, time and date of your visit, web pages as well as search queries requested by you. The Netster® uses this information to improve its services to its users, which includes you. The Netster®, further uses this information to custom tailor its content and advertising and to analyze our traffic in aggregate. Recent browser releases allow you to reconfigure and set your browser in such a manner that will greatly limit the amount data Netster.com as well as other websites are able to collect. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be extremely limited and some features may not work properly. Please refer to the help section of your browser to learn how you can configure your browser so not to allow cookies to be placed on your computer. 
+Skillful Communications is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-**Cookies and single-pixel gifs**  
-Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie, (in addition to time, day of your visit and your I.P. address). Our site cannot determine your e-mail address unless you choose to type it in. The Netster® does not have access to the rest of your computer. The Netster®, its advertisers and or affiliates, may use single-pixel gif images, also called web beacons, to count Web page accesses and gather some general statistical information. Again, The Netster® does **not** gather personal information through the use of these images. The Netster® or our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer if the user has chosen to previously provide Netster® and/or its advertiser with such personal information. 
+If you have questions or concerns regarding this policy, you should first contact us at [support@biginterview.com ](mailto:support@biginterview.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-In addition to collecting anonymous statistical data, Netster.com also collects Personally Identifiable Information if you have chosen to provide The Netster® with such information. This information data tells us specifically who you are, i.e.; Your Name, E-Mail Address, Postal Address, etc. This Personally Identifiable Information is only collected, if YOU have chosen to provide it to The Netster®. This information is collected at the time **you** have **chosen** to sign-up for certain Netster.com products or services, such as e-mail, weather and financial personalized settings, browser updates, participation in a sweepstake or special offer. Netster.com uses this information to better understand your personal needs and in addition may use this information to send you product and service offers in the future. We may also use this information to provide to companies who work for or on behalf of Netster.com to provide special offers on product and services. 
+## Collection and Use of Personal Information
 
-The sites displayed as search results or linked to by Netster.com and/or its affiliates are developed by third parties over whom The Netster® has no control. Third party affiliates or service providers, whom in some instances use complete automation, index most of the search results that appear on The Netster® results pages. The Netster® does not screen or censor any of this information, nor does The Netster® screen or censor any of the listings. The Internet is a worldwide system of computer networks in which any person can post information on their individual computer, which if connected to the Internet can be accessed by others, or, if they have permission, on the computers or computer networks of others. Today, the most popular portion of the Internet is the World Wide Web. This portion of the Internet is readily accessed with the use of a web browser. It is the goal of Netster.com to return to you the most relevant information and links to the web sites your search query has called for. However, we cannot guarantee that your search will not locate unintended or objectionable content. Further, certain materials accessible on the Internet is **NOT** appropriate for minors. The Netster® is concerned about your child's safety and does not accept banner advertisements containing adult content, however, has no control over your children's search queries, and the subsequent results of those queries. To limit and / or prevent your children's access to such materials, The Netster® suggest that you install commercially available hardware and/or software that has the ability to filter out such content. Such hardware / software products may be set to filter out content on weapons, sexual adult content, hate and racist content as well as violent content. They may also be set to disable chat sites, e-mail and message board forums. Netster.com and / or its affiliated companies assume no responsibility for your decision to utilize any "hyperlinks" to sites found on Netster.com results pages, or for the accuracy or usefulness of any materials contained in such sites. 
+We collect the following personal information from you
 
-**THE SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. NETSTER.COM DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
 
-Netster.com may amend this Agreement at any time, and at it sole discretion, by posting the amended terms on its Web site. All amended terms are automatically effective 7 days after they are initially posted. This Agreement may not be otherwise amended except in a written document signed by you and Netster.com 
 
-**CHILDREN'S PRIVACY**  
-Protecting the privacy of children is an extremely important issue. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. If parents believe their child (any age under 18) has accessed our system without their permission, they can contact our customer service department by e-mail at [emailsupport@netster.net](mailto:emailsupport@netster.net) **Visit** <http://www.ftc.gov/kidzprivacy> **for information from the Federal Trade Commission about protecting children's privacy online**. 
 
-* * *
+We also collect the following information from you
 
-  
-  
+  * Information about your business such as company name, company size, business type
+  * Demographic information such as age, education, gender, interests and zip code
 
+
+
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+
+We use this information to
+
+  * Fulfill your order
+  * Send you an order confirmation
+  * Send product updates or warranty information
+  * Administer your account
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+
+
+
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+
+**Information Obtained from Third Parties**
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+## Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if Skillful Communications is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
+
+
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+_Third Party E-Commerce Solutions Provider_
+
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Skillful Communications. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@biginterview.com ](mailto:support@biginterview.com)
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [support@biginterview.com ](mailto:support@biginterview.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Skillful Communications 
+
+244 Fifth Ave 2nd Fl 
+
+New York, NY, United States 10001
+
+Phone: 8888803322
