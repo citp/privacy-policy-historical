@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124547id_/http%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423095957id_/http%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
 
-# Heyzap › Privacy
+# Privacy Policy
 
-## Heyzap Privacy Policy
-
-Last modified on Jan 02, 2009
+[Terms of Service](https://web.archive.org/legal/terms) | [Privacy Policy](https://web.archive.org/legal/privacy) | [Copyright](https://web.archive.org/legal/copyright) Last modified on Jan 02, 2009
 
 Heyzap understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, platforms, websites, or other affiliated ventures operated by Smart Balloon, Inc. Throughout this Policy, "Heyzap" and "We" refers to Smart Balloon, Inc. and its affiliates. "You" or "Users" refers to you, our users - everyone who uses, subscribes to, publishes through, joins, or visits Heyzap. The "Heyzap Platform" refers to the applications, platform, web site and services controlled, operated or produced by Smart Balloon, Inc.
 
@@ -29,6 +27,7 @@ By using the Heyzap Platform, you expressly consent to the information handling 
 
 
 
+  
 1\. The Information Heyzap Collects: Information You Provide: You may provide to Heyzap what is generally called "personally identifiable" information (such as your name, age, zip code, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Heyzap Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Heyzap Platform.
 
 "Automatically Collected" Information: When you access the Heyzap Platform (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, your listening preferences, the content and pages that you access on the Heyzap Platform, and the dates and times that you visit the Heyzap Platform.
@@ -49,7 +48,7 @@ Heyzap may use "Automatically Collected" information and "Cookies" information t
 
 ### 3\. When Heyzap Discloses Information:
 
-Heyzap does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Heyzap Platform - such as when you publish contact information to complete your profile information - becomes publicly available and may be collected and used by others without restriction.
+Please be aware that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Heyzap Platform - such as when you publish contact information to complete your profile information - becomes publicly available and may be collected and used by others without restriction.
 
 Heyzap may disclose Automatically Collected and other aggregate non-personally-identifiable information (such as IP addresses, anonymous User usage data, listening preferences, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to assist those parties in understanding the usage and demographic patterns for certain content, services, advertisements, promotions, or other functionality on the Heyzap Platform.
 
@@ -57,7 +56,7 @@ We may disclose some limited User information to affiliated companies or other b
 
 Heyzap may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. copyright or trademark law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.
 
-Heyzap also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; protect Heyzap from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Heyzap Platform; or to protect the rights, property, or personal safety of Heyzap, our Users, or others.
+Heyzap also reserves the right to disclose User information including messages, comments, bios, and more that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; protect Heyzap from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Heyzap Platform; or to protect the rights, property, or personal safety of Heyzap, our Users, or others.
 
 ### 4\. Your Choices and Access to your Personal Information
 
