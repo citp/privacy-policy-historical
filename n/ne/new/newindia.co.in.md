@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newindia.co.in privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010183537id_/http%3A//newindia.co.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newindia.co.in privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423224808id_/http%3A//newindia.co.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: The New India Assurance Co. Ltd.
 
