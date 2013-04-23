@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gallupstrengthscenter.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023143851id_/https%3A//www.gallupstrengthscenter.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallupstrengthscenter.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423183620id_/https%3A//www.gallupstrengthscenter.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Protection of personal privacy has always been a hallmark of Gallup. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its websites. Please read the following policy for further details as to the types of information collected through Gallup websites, including personal information, and how it is treated.
 
-### INFORMATION COLLECTED BY GALLUP WEBSITES
+**INFORMATION COLLECTED BY GALLUP WEBSITES**
 
 Gallup websites gather information in two ways: (1) indirectly (for example, through our site's technology), and (2) directly (for example, when you, the site visitor, voluntarily provide information on various pages).
 
@@ -50,11 +50,11 @@ In accessing Gallup websites, you may be transferring personal data that is used
 
 **_Safe Harbor Provisions_**
 
-Gallup complies with the U.S. — European Union Safe Harbor Framework and the U.S. — Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Gallup certifies that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gallup's certification, please visit <http://www.export.gov/safeharbor/>.
+Gallup complies with the U.S. - European Union Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Gallup certifies that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gallup's certification, please visit <http://www.export.gov/safeharbor/>.
 
 **_Policy Updates_**
 
-This Privacy Policy is Gallup's promise to its website's users. Additional information that is particular to specific Gallup sites may exist, and updates to this policy may be posted. For these reasons we suggest that users who may have specific concerns about the information being gathered and use of that information regularly view the Privacy Policy on each site. Gallup reserves the right to change the policy on use of information collected at any time.
+This Privacy Policy is Gallup's promise to its websites users. Additional information that is particular to specific Gallup sites may exist, and updates to this policy may be posted. For these reasons we suggest that users who may have specific concerns about the information being gathered and use of that information regularly view the Privacy Policy on each site. Gallup reserves the right to change the policy on use of information collected at any time.
 
 **_Additional Questions or Comments_**
 
