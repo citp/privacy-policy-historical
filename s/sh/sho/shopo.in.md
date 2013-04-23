@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the shopo.in privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003627id_/http%3A//shopo.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopo.in privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423114513id_/http%3A//shopo.in/privacypolicy) for the most accurate reproduction.*
 
-# None
+# Shopo.in | Shopo Privacy Statement
+
+Shopo.in has partnered with 'Gharpay' to provide Cash Before Delivery service to our customers. If you have any issues in using online transactions you can go for the same.
+
+**Want to know how it works?**
+
+  1. Once you place an order with Shopo.in, a representative from Gharpay will call you and confirm the order with you within 48 hours.
+  2. The Gharpay executive will also confirm a convenient time to collect the payment.
+  3. Once the payment is made, Shopo will notify all its sellers to ship your products.
+  4. You will receive the products within 12 working days.
+
+
+
+* To use this service, please select "Cash Before Delivery" under "Payment Mode" in the checkout page.
+
+* The service is available only in select cities in India.
+
+Introducing the all new **Shopo Wallet !!** Wondering what it is? In the rare case that your order is cancelled,the same amount will be saved in your Shopo Wallet.You can use this money for your next purchase 
+
+Shopo Privacy Statement
 
 What this privacy policy covers
 
