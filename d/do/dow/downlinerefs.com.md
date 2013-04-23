@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downlinerefs.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182733id_/http%3A//www.downlinerefs.com/referrals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downlinerefs.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423223349id_/http%3A//www.downlinerefs.com/referrals/privacy) for the most accurate reproduction.*
 
 # DownlineRefs.com
 
@@ -10,8 +10,7 @@ We routinely store a timestamp of your last login in our database, your IP-addre
 Most effort has been done to secure our database from unauthorized users. We will never intentionally share your personal detailes with third parties. Your username, country of residence and date of registration however will be accessible to both users and visitors of DownlineRefs.com.
 
 |  |  • [**Log in**](http://www.downlinerefs.com/referrals/login)  
-• [Register](http://www.downlinerefs.com/referrals/register)  
-[](http://www.buxhost.com/)  
+• [Register](http://www.downlinerefs.com/referrals/register)[](http://www.buxhost.com/)  
   
 [](http://www.refundprotect.com/ "Refund protection")   
 
