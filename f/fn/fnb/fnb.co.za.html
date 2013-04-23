@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fnb.co.za privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920032324id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fnb.co.za privacy policy that was archived on 2013-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423223727id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:java="http://xml.apache.org/xslt/java"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -65,8 +65,18 @@
 	                  document.getElementById("multipleSubmit").value = 0;
 	            }
 
+			function submitCallbackForm() {
+				_gaq.push(['_trackEvent', 'Call me Back Submit', 'Legal Matters', 'Privacy Policy']);
+				return true;
+			}
+			
+			function submitLoginAnalytics() {
+				_gaq.push(['_trackEvent', 'Banking Login', 'Legal Matters', 'Privacy Policy']);
+				return true;
+			}
+			
 			function checkForm() {
-
+					submitLoginAnalytics();
 	                  //to allow ie to work we cannot have a hidden variable named 'action'
 
 	                  document.getElementById('formAction').name='action';
@@ -292,6 +302,9 @@
 <div id="products"></div>
 <div id="isForSecondary"></div>
 <div id="widgetSelectedProducts"></div>
+<div id="shopType"></div>
+<div id="productShopId"></div>
+<div id="cmb">true</div>
 <div id="widgetRemovedProducts"></div>
 <div id="source">web</div>
 </div>
@@ -348,7 +361,7 @@
 </li>
 		
 <li>
-<a href="/security-centre/contact-us.html" alt="087 575 0011" title="087 575 0011">Fraud Prevention</a>
+<a href="/security-centre/contact-us.html" alt="087 575 9444" title="087 575 9444">Fraud Prevention</a>
 </li>
 		
 <li>
@@ -450,11 +463,11 @@
 <ul>
 		
 <li>
-<a href="/prevx-safeonline/index.html">Prevx SafeOnline™</a>
+<a href="/webroot-secureanywhere/index.html">Webroot® SecureAnywhere™</a>
 </li>
 		
 <li>
-<a href="#" onclick="submitFormFromLink('problems','LOGIN_FORM','');return false;">Forgotten password</a>
+<a href="#" onclick="submitFormFromLink('problems','LOGIN_FORM','');return false;">Reset access details</a>
 </li>
 		
 <li>
@@ -534,7 +547,7 @@
 				
 <div id="applyContent2">
 					
-<a href="#" onclick="headerApplyButton()">
+<a href="#" onclick="headerApplyButton('','1')">
 						<span>Apply online Now</span>
 						<img src="/07images/pageLayout/iconArrowRightBig.gif" alt="Apply Online">
 					</a>
@@ -554,6 +567,54 @@
 <div class="innercontainerRight">
 			
 <search>
+
+
+<style type="text/css">
+.browserAlert
+{
+position: absolute;
+top:-20px;
+right: 0;
+display: none;
+width:505px;
+height: 50px;
+border: 2px solid #009999;
+background: white;
+z-index:9999;
+margin:0;
+padding:0;
+}
+.baTriangle
+{
+float: right;
+left: -5em;
+position: relative;
+text-decoration: none;
+top: -17px;
+}
+#headerandbody #searchContent .browserAlert a
+{
+color: #009999;
+width:115px;
+height:34px;
+display:block;
+background:url("/07images/pageLayout/upgrade.png") no-repeat;
+position:relative;
+float:right;
+top:9px;
+left: 17px;
+}
+#headerandbody #searchContent .browserAlert p 
+{
+margin-left: 4px;
+font-size: 1.2em;
+width:363px;
+float:left;
+position:relative;
+top:19px;
+}
+</style>
+
 			
 <div id="searchSpareDiv">
 <img src="/07images/pageLayout/border_search.gif"></div>
@@ -563,30 +624,46 @@
 			
 <div id="searchContent2">
 			
-<form autocomplete="off" class="searchform" method="post" name="search" action="/search/result.html">
-				
-				
-<div id="searchHeading">	
-				
-<h3>Search our site</h3>
-				
-</div>
-				
-				
-<div id="searchFeilds">		
-				
-<input class="text ac_input" type="text" name="searchQ" value="" position="" id="searchQ" autocomplete="off">
-				
-</div>
-				
-				
-<div id="searchButton">				
-				
-<a href="#" onclick="document.forms['search'].submit(); return false;"><span>Go</span> <img src="/07images/pageLayout/iconArrowRightBig.gif" alt="search Online"></a>
-				
-</div>
-				
 			
+<div class="browserAlert">
+				
+<div class="baTriangle">
+					
+<img src="/07images/pageLayout/triangle.png">
+				</div>
+						
+<p>
+<strong>Please Note.</strong> From June, IE7 will no longer be supported.</p>
+						
+<a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank"></a>	
+			
+			
+</div>
+					
+<form autocomplete="off" class="searchform" method="post" name="search" action="/search/result.html">
+						
+						
+<div id="searchHeading">	
+						
+<h3>Search our site</h3>
+						
+</div>
+						
+						
+<div id="searchFeilds">		
+						
+<input class="text ac_input" type="text" name="searchQ" value="" position="" id="searchQ" autocomplete="off">
+						
+</div>
+						
+						
+<div id="searchButton">				
+						
+<a href="#" onclick="document.forms['search'].submit(); return false;"><span>Go</span> <img src="/07images/pageLayout/iconArrowRightBig.gif" alt="search Online"></a>
+						
+</div>
+						
+					
 </form>	
 			
 </div>
@@ -694,13 +771,11 @@
 			<a href="/invest/index.html">Investment Deposits</a>
 			<a href="/savings-accounts/index.html">Savings Accounts</a>
 			<a href="/share-investing/index.html">Share Investing &amp; Krugerrands</a>
+			<a href="/securities/stockbroking.html">Stock Broking</a>
 			<a href="/forex/index.html">Forex</a>
-			<a href="/funeral-cover/index.html">Funeral Cover</a>
-			<a href="/short-term-insurance/index.html">Short Term Insurance</a>
-			<a href="/fnb-life-cover/index.html">Life Cover</a> 
-			<a href="/legal-cover/justice-1st.html">Legal Cover <br>(Justice1<sup>st</sup>)</a>
 			<a href="/foreign/index.html">Foreign Banking</a>
 			<a href="/estate-planning/drafting-wills-and-estate-planning.html">Wills and Trusts</a>
+			<a href="/promotions/smartphoneTabletOffer/Smartphone-Tablet-Offer.html">Smart Devices</a>
 		
 </div>
 	
@@ -709,10 +784,28 @@
 <div class="column grey">
 		
 <div class="columnInner">
+
+			
+<h2>Insurance</h2>
+			
+<a href="/funeral-cover/index.html">Funeral Cover</a>
+			<a href="/short-term-insurance/index.html">Short Term Insurance</a>
+			<a href="/fnb-life-cover/index.html">Life Cover</a> 
+			<a href="/legal-cover/justice-1st.html">Legal Cover (Justice1<sup>st</sup>)</a>
 		
 			
-<h2>Solutions</h2>
+<div class="menuSpacer">
+				
+<div class="menuSpacerTop"></div>
+				
+<div class="menuSpacerSpace"></div>
+				
+<div class="menuSpacerBottom"></div>
 			
+</div>
+			
+<h2>Solutions</h2>
+
 			
 <a href="/youth-accounts/index.html">Youth Accounts</a>
 			<a href="/students/index.html">Students</a>
@@ -726,22 +819,6 @@
 			<a href="/encore/index.html">Over 55s</a>
 			<a href="/retirement/retirement-home.html">Retirement</a>
 			
-<div class="menuSpacer">
-				
-<div class="menuSpacerTop"></div>
-				
-<div class="menuSpacerSpace"></div>
-				
-<div class="menuSpacerBottom"></div>
-			
-</div>
-			
-			
-<h2>Rewards</h2>
-			
-<a href="/ebucks/index.html">eBucks</a>
-			<a href="/fuelrewards/index.html">Fuel Rewards</a>
-			<a href="/fuelrewards/index.html">Airtime Rewards</a>
 		
 </div> 
 	
@@ -765,6 +842,23 @@
 			<a href="/bank/education/balance-alert.html">Balance Alert</a>
 			<a href="/bank/education/my-limit-alert.html">MyLimit Alert</a>
 			<a href="/bank/education/statements.html">Email Statements</a>
+			
+			
+<div class="menuSpacer">
+				
+<div class="menuSpacerTop"></div>
+				
+<div class="menuSpacerSpace"></div>
+				
+<div class="menuSpacerBottom"></div>
+			
+</div>
+			
+<h2>Rewards</h2>
+			
+<a href="/ebucks/index.html">eBucks</a>
+			<a href="/fuelrewards/index.html">Fuel Rewards</a>
+			<a href="/fuelrewards/index.html">Airtime Rewards</a>
 		
 </div>
 	
@@ -777,15 +871,17 @@
 			
 <h2>Ways to Bank</h2>
 			
-<a href="/fnbapp/index.html">FNB App</a>
+<a href="/fnbapp/index.html">FNB Banking App</a>
 			<a href="/contact-us/locators/branchLocator/frontEndEnh.html">Branches</a>
 			<a href="/online-banking/index.html">Online Banking</a>
 			<a href="/channel/telephone-banking.html">Telephone Banking</a>
 			<a href="/cellphone-banking/index.html">Cellphone Banking</a>
+			<a href="/social-banking/index.html">Social Banking</a>
 			<a href="/channel/atm.html">ATM</a>
 			<a href="/channel/atm-with-automated-deposits.html">ADT</a>
 			<a href="/cellphone-services/ewallet.html">eWallet</a>
 			<a href="/online-banking/pay-pal.html">PayPal</a>
+			<a href="/cellphone-services/zimbabwe-money-transfer.html">Zimbabwe Money Transfer</a>
 		
 			
 <div class="menuSpacer">
@@ -802,7 +898,8 @@
 			
 <a href="/estate-planning/about-estate-planning.html">Estate Planning</a>			
 			<a href="/bank/education/atms.html">Getting started	with Banking</a>
-		<a href="/smarteducation/index.html">Be Financially Smart</a>
+			<a href="/smarteducation/index.html">Be Financially Smart</a>
+			<a href="/tax-certificate/tax-certificate-knowledge.html">Know your Tax Certificate</a>
 		
 </div>
 	
@@ -838,11 +935,11 @@
 					
 <div class="columnInner">
 					
-<a href="/product-shop/business-products.html" class="bigLink"><span>Apply now</span></a>
+<a href="/Sales/Controller?nav=landing.business.LandingPageBusiness.default&amp;shoptype=5" class="bigLink"><span>Apply now</span></a>
 					
 <div class="linkBlock">
 					
-<a href="https://www.fnb.co.za/business-banking/why-fnb-business/">Why FNB Business Banking?</a>
+<a href="/business-banking/why-fnb-business/index.html">Why FNB Business Banking?</a>
 					<a href="/business/index.html">Business Banking Home</a>
 					<a href="/contact-us/commercial/feedback.html">Contact us.</a>
 					
@@ -889,13 +986,21 @@
 						
 </div>
 						
-<h2>Investments</h2>
+						<!-- removed by Paul - do not take live-->
+<h2>Merchant Services / SpeedPoint</h2>
 						
-<a href="/business-banking/investing/demand-deposit/call-account.html"> Call Account</a>
-						<a href="/business-banking/investing/notice-deposit/32day-interest-plus.html">32 Day Interest Plus Notice Account</a> 
-						<a href="/business-banking/investing/notice-deposit/flexi-fixed-deposit.html">Flexi Fixed Deposit</a>
-						<a href="/business-banking/investing/fixed-deposit.html">Fixed Deposit</a>
-						<a href="/invest/shareinvesting.html">Share Investing</a>						
+<a href="/business-banking/receive-deposits/speedpoint-services/overview.html">Overview</a>
+						<a href="/business-banking/receive-deposits/speedpoint-services/merchant-services-value-adds.html">Value Adds</a>
+						<a href="/business-banking/receive-deposits/speedpoint-services/products.html">Product</a>
+						<a href="/business-banking/receive-deposits/speedpoint-services/pci_compliance.html">Compliance, Fraud and Risk</a>
+						<!--<a href="/business-banking/receive-deposits/speedpoint-services/library.html">Merchant Library</a>	
+						<a href="/business-banking/receive-deposits/speedpoint-services/notice_board.html">Notice Board</a>	-->			
+						<!--<a href="/business-banking/receive-deposits/speedpoint-services/products.html">Speedpoint Products</a>-->					
+						
+											
+						
+						
+						
 					
 </div>
 				
@@ -905,7 +1010,7 @@
 					
 <div class="columnInner">
 						
-<h2>Insurance</h2>
+<h2>Business Insurance</h2>
 						
 <a href="/corporate/risk-management/fnb-insurance-brokers.html">FNB Insurance Brokers</a>
 						<a href="/business-banking/insurance/index.html">Specialised Insurance</a>
@@ -960,7 +1065,7 @@
 						<a href="/channel/atm.html"> ATM</a>
 						<a href="/business-banking/electronic-services/atm-with-automated-deposits.html"> ATM Advance</a>
 						<a href="/business-banking/receive-deposits/cash-deposits/mini-atm.html">Mini-ATM</a>
-						<a href="/corporate/transact/ewalletpro.html">eWallet Pro</a>
+						<a href="/business-banking/transact/ewalletpro.html">eWallet Pro</a>
 						<a href="/business-banking/payments/electronic-payments/cell-pay-point.html">Cell Pay Point</a>
 						<a href="/contact-us/locators/branchLocator/frontEndEnh.html">Branches</a>
 						
@@ -974,14 +1079,14 @@
 						
 </div>	
 						
-<h2>Speedpoint Services</h2>
 						
-<a href="/business-banking/receive-deposits/speedpoint-services/overview.html">Overview</a>						
-						<a href="/business-banking/receive-deposits/speedpoint-services/products.html">Speedpoint Products</a>
-						<a href="/business-banking/receive-deposits/speedpoint-services/pci_compliance.html">PCI Compliance</a>
-						<a href="/business-banking/receive-deposits/speedpoint-services/merchant-services-value-adds.html">Value Adds</a>					
+<h2>Investments</h2>
 						
-									
+<a href="/business-banking/investing/demand-deposit/call-account.html"> Call Account</a>
+						<a href="/business-banking/investing/notice-deposit/32day-interest-plus.html">32 Day Interest Plus Notice Account</a> 
+						<a href="/business-banking/investing/notice-deposit/flexi-fixed-deposit.html">Flexi Fixed Deposit</a>
+						<a href="/business-banking/investing/fixed-deposit.html">Fixed Deposit</a>
+						<a href="/invest/shareinvesting.html">Share Investing</a>									
 					
 </div>					
 				
@@ -995,7 +1100,8 @@
 <h2>Value Added Services</h2>
 						
 <a href="/business-banking/electronic-services/incontact-pro.html">InContact Pro</a>						
-						<a href="/business-banking/business-tools/biznetwork.html">BizNetwork</a>
+						<a href="/business/index.html">Sectors</a>
+						<!-- <a href="/business-banking/business-tools/biznetwork.html">BizNetwork</a> -->
 						<a href="/business-banking/electronic-alerts/index.html">Electronic Alerts</a>
 <div class="menuSpacer">
 							
@@ -1007,10 +1113,25 @@
 						
 </div>						
 						
-<h2>Rewards</h2>
+<h2>Rewards and Discounts</h2>
 						
-<a href="/business-banking/ebucks-business/index.html">About eBucks for Business</a>
+<a href="/business-banking/ebucks-business/index.html">eBucks for Business</a>
 						<a href="/business-banking/discounts/index.html">Discounts</a>
+							
+<div class="menuSpacer">
+								
+<div class="menuSpacerTop"></div>
+								
+<div class="menuSpacerSpace"></div>
+								
+<div class="menuSpacerBottom"></div>
+							
+</div>
+						
+<h2>Sectors</h2>
+						
+<a href="/business-banking/healthcare/index.html">Healthcare</a>
+						<a href="/business-banking/franchises/index.html">Franchises</a>
 					
 </div>
 				
@@ -1037,7 +1158,7 @@
 					
 </div>
 					
-<a href="/product-shop/commercial-products.html" class="bigLink" id="switchBtn"><span>Switch to FNB</span></a>
+<a href="/Sales/Controller?nav=landing.business.LandingPageBusiness.default&amp;shoptype=7" class="bigLink" id="switchBtn"><span>Switch to FNB</span></a>
 					<a href="#" class="bigLink" id="backBtn" style="display:none;"><span>Back</span></a>
 					
 </div>
@@ -1048,35 +1169,21 @@
 <div id="section1">
 				
 				
-<div class="column grey twoColAdjust">
+<div class="column grey">
 					
-<div class="columnInner wide">
+<div class="columnInner">
 						
 <h2>Transact</h2>
 						
 <a href="/commercial-banking/business-accounts/index.html"> Business Accounts</a>
+						<a href="/commercial-banking/transact/card-solutions/index.html"> Card Solutions</a>
+						<a href="/commercial-banking/transact/ewalletpro.html"> eWalletPro</a>
+						<a href="/commercial-banking/business-tools/instant-accounting/overview.html"> Instant Accounting</a>
+						<a href="/commercial-banking/business-tools/instant-payroll/overview.html"> Instant Payroll</a>
 						<a href="/commercial-banking/online-banking/index.html"> Online Banking Enterprise™</a>
 						<a href="/commercial-banking/receive-deposits/merchant-devices/overview.html"> Merchant Services</a>
-						
-						
-<div class="menuSpacer">
-							
-<div class="menuSpacerTop"></div>
-							
-<div class="menuSpacerSpace"></div>
-							
-<div class="menuSpacerBottom"></div>
-						
-</div>
-						
-						
-<h2>Finance</h2>
-						
-<a href="/commercial-banking/financing/overdraft.html"> Overdrafts</a>
-						<a href="/commercial-banking/specialised-finance/index.html"> Debtor Finance</a>
-						<a href="/commercial-banking/specialised-finance/index.html"> Leveraged Finance</a>
-						<a href="/commercial-banking/financing/property-finance/index.html"> Commercial Property Finance</a>     
-						<a href="/business-banking/financing/private-equity.html"> Private Equity</a>
+						<a href="/online-banking/pay-pal.html"> PayPal</a>
+						<a href="/commercial-banking/receive-deposits/cash-deposits/index.html"> Cash Solutions</a>
 						
 						
 <div class="menuSpacer">
@@ -1089,32 +1196,67 @@
 						
 </div>		
 						
-												
+						
 <h2>Invest</h2>
 						
 <a href="/commercial-banking/investing/index.html"> Business Investments</a>
 						<a href="/invest/inflation-linked.html"> Inflation-Linked</a>
 						<a href="/invest/shareinvesting.html">Share Investing for Business</a>
+												
+					
+</div>
+				
+</div>
+				
+<div class="column grey">
+					
+<div class="columnInner">
 						
-										
+<h2>Finance</h2>
+						
+<a href="/commercial-banking/financing/business-loan.html"> Business Loans</a>
+						<a href="/commercial-banking/financing/overdraft.html"> Overdrafts</a>
+						<a href="/commercial-banking/specialised-finance/index.html"> Debtor Finance</a>
+						<a href="/commercial-banking/specialised-finance/index.html"> Leveraged Finance</a>
+						<a href="/commercial-banking/financing/property-finance/index.html"> Commercial Property Finance</a>     
+						<a href="/commercial-banking/financing/private-equity.html"> Private Equity</a>
+						<a href="/commercial-banking/financing/vehicle-finance.html"> Vehicle Finance</a>
+						<a href="/commercial-banking/financing/collateralised-trade.html"> Collateralised Trade Finance </a>
+						<a href="/commercial-banking/financing/vumela-enterprise.html"> Vumela Enterprise Development </a>
+						
+						
+<div class="menuSpacer">
+							
+<div class="menuSpacerTop"></div>
+							
+<div class="menuSpacerSpace"></div>
+							
+<div class="menuSpacerBottom"></div>
+						
+</div>
+
+						
+<h2>Rewards</h2>
+						
+<a href="/commercial-banking/ebucks-business/index.html "> eBucks for Business</a>
+						<a href="/private-clients/i-want-to-grow-and-preserve-my-wealth.html"> Wealth</a>
 						
 					
 </div>
 				
 </div>
 				
-<div class="column grey twoColAdjust">
+<div class="column grey">
 					
-<div class="columnInner wide">
+<div class="columnInner">
 
 						
 <h2>International</h2>
 						
 <a href="/commercial-banking/international/forex/overview.html">Forex</a>
-						<a href="/business-banking/international/exports/index.html">International Exports</a>
-						<a href="/business-banking/international/imports/index.html">International Imports</a>
-						<a href="/business-banking/international/travel/index.html">International Travel</a>
-						
+						<a href="/commercial-banking/international/exports/index.html">International Exports</a>
+						<a href="/commercial-banking/international/imports/index.html">International Imports</a>
+						<a href="/commercial-banking/international/travel/index.html">International Travel</a>
 						
 						
 <div class="menuSpacer">
@@ -1126,49 +1268,30 @@
 <div class="menuSpacerBottom"></div>
 						
 </div>
-						
-						
-<h2>Protect</h2>
-						
-<a href="/private-clients/i-want-to-grow-and-preserve-my-wealth.html"> Wealth</a>
-
-
-						
-<div class="menuSpacer">
-							
-<div class="menuSpacerTop"></div>
-							
-<div class="menuSpacerSpace"></div>
-							
-<div class="menuSpacerBottom"></div>
-						
-</div>
-
 						
 						
 <h2>Industry Expertise</h2>
 						
-<a href="/business-banking/industry-focused-area/agriculture/index.html"> Agriculture</a>																		
+<a href="/commercial-banking/industry-focused-area/agriculture/index.html"> Agriculture</a>																		
 
 						<a id="pubSecLink" href="#" onclick="linkToTab();return false;"> Public Sector</a>
-						<a href="/business-banking/school/solutions-for-independent-schools.html">Solutions for Independent Schools</a>
-						<a href="/business-banking/tertiary-institutions/index.html">Private Tertiary Institutions</a>	
-
- 					
+						<a href="/commercial-banking/school/solutions-for-independent-schools.html">Solutions for Independent Schools</a>
+						<a href="/commercial-banking/tertiary-institutions/index.html">Private Tertiary Institutions</a>	
+						<a href="/commercial-banking/financing/healthcare/index.html">Healthcare</a>
+						<a href="/commercial-banking/financial-institutions/index.html">Financial Institutions</a>
+						<a href="/commercial-banking/global-commercial-banking/index.html">Global Commercial Banking</a>
+						 					
 					
 </div>
 				
 </div>
-				
-				
-				
-				
+			
 </div>
 				
-								
-<div id="section2" style="position:absolute;left:47.7em;width:50em;height:32em;top:-33em;background-color:#fff;">
+			
+<div id="section2" style="position:absolute;left:47.7em;width:50em;height:32em;top:-330px;background-color:#fff;">
+
 				
-								
 <div class="column grey twoColAdjust">
 					
 <div class="columnInner wide">
@@ -1180,13 +1303,13 @@
 						<a href="/public-sector/paper-receipting-solutions.html"> Cash and
 							Cheques</a>
 						<a href="http://www.fnbweb.co.za/psbcashflow/"> Cashflow Manager</a>
-						<a href="/corporate/transact/ewalletpro.html">eWallet Pro</a>
+						<a href="/commercial-banking/transact/ewalletpro.html">eWallet Pro</a>
 					
 </div>
 				
 </div>
 				
-<div class="column grey twoColAdjust">
+<div class="column grey twoColAdjust" style="margin-left:12px;">
 					
 <div class="columnInner wide">
 						
@@ -1331,8 +1454,7 @@
 						</a>
 
 						<a href="/corporate/risk-management/lekana-risk-management.html"> Lekana</a>
-						<a href="/corporate/risk-management/payroll-innovations.html"> Employee Benefits
-						</a>
+						<!--<a href="/corporate/risk-management/payroll-innovations.html"> Employee Benefits</a>-->
 						<a href="/corporate/risk-management/asset-management.html"> Asset Management
 						</a>
 						<a href="/corporate/risk-management/momentum-risk-management.html"> Momentum
@@ -1415,7 +1537,8 @@
 <a href="/private-clients/transactional-banking.html">Personalised Banking</a>
 			<a href="/private-clients/international-banking.html">International Banking</a>
 			<a href="/private-clients/islamic-transactional-banking.html">Islamic Banking</a>
-			<a href="/private-clients/private-clients-credit-card.html">Credit Card</a>
+			<a href="/private-clients/private-clients-credit-card.html">Credit Card</a>			
+			<a href="/private-clients/forex.html">Forex</a>			
 			<a href="/private-clients/petro-card.html">Petro Card</a>
 			<a href="/private-clients/i-want-pricing-information.html">Pricing</a>
 			<a href="/private-clients/i-want-to-optimise-cost-my-of-financing.html">Specialised Lending</a>
@@ -1469,10 +1592,10 @@
 <a href="/private-clients/slow-lounge.html">SLOW Domestic</a>				
 				<a href="/private-clients/slow-international.html">SLOW International</a>				
 				<a href="/private-clients/slow-in-the-city.html">SLOW in the City</a>				
-				<a href="/private-clients/premier-lounges.html">Premier Lounges</a>
+				<a href="/private-clients/bidvest-premier-lounges.html">Bidvest Premier Lounge</a>
 				<a href="/downloads/pvtclients/PrivateClientsbenefits.pdf">Value Added Benefits</a>
 				<a href="/promotions/smartphone-tablet-in-your-hands.html">Tablet and Smartphone offer</a>
-				<a href="/private-clients/travel-insurance.html">Comprehensive Global Travel Insurance</a>
+				<a href="/private-clients/global-travel-insurance.html">Comprehensive Global Travel Insurance</a>
 			
 </ul>
 		
@@ -1506,7 +1629,7 @@
 <div class="linkBlock">
 				
 <a href="/rates/cRatesList.html">View rates</a>
-				<a href="http://www.firstrand.co.za/44/ordinary-shares/">FirstRand share price</a>
+				<a href="/share-investing/firstrand-share-price.html">FirstRand share price</a>
 				<a href="/rates/cRatesView.html?productGroup=Indicators&amp;productName=SA%20Indicators">SA Indicators</a>
 			
 </div>
@@ -1578,6 +1701,7 @@
 <div class="contactLinks">
 						
 <a href="/contact-us/contact-fnb.html">Important Numbers</a>
+						<a href="/contact-us/contact-fnb-email.html">Email Addresses</a>
 						<a href="/contact-us/queries-and-suggestions.html">Queries and Suggestions</a>
 						<a href="/contact-us/shared-services.html">Compliments and complaints</a>
 						
@@ -1633,15 +1757,18 @@
 </div>
 						
 <div style="float:left;width:20em;height:8em;">
-<h2 style="font-size:2em">Fraud Prevention</h2>
+<h2 style="font-size:2em">Fraud &amp; Disputes</h2>
 </div>
 						
-<div style="float:left;width:15.3em;">
-<a href="/prevx-safeonline/index.html">Prevx
-							SafeOnline™
-						</a>
+<div style="float:left;width:25.3em;">
+<a href="/webroot-secureanywhere/index.html">Webroot® SecureAnywhere™</a>
+						<!--<div style="float:left;width:15.3em;"><a href="/prevx-safeonline/index.html">Prevx
+							SafeOnline&#8482;
+						</a>-->
 						<a href="/security-centre/index.html">Security Centre</a>
-						<a href="/security-centre/contact-us.html">Contact Fraud Center</a>
+						<a href="/security-centre/contact-us.html">Contact Fraud Center</a> 
+						<a href="/security-centre/card-fraud.html">Cheque &amp; Debit Card Disputes</a>
+						
 </div>
 					
 </div>
@@ -1679,11 +1806,31 @@
 						<a href="/calculators/my-monthly-repayment.html">My Monthly Repayment</a>
 						<a href="/calculators/my-additional-payments.html">My Additional Payments</a>
 						<a href="/calculators/my-lump-sum.html">My Lump Sum</a>
+						
+<div class="menuSpacer">
+							
+<div class="menuSpacerTop"></div>
+							
+<div class="menuSpacerSpace"></div>
+							
+<div class="menuSpacerBottom"></div>
+						
+</div>
+						
+						
+<h2>One Account Calculators</h2>
+												
+						<!--<a href="/calculators/one-account-qualify.html">How Much Do I Qualify For</a>-->
+						
+<a href="/calculators/one-account-save.html">How Much Do I Save</a>
+						<!--<a href="/calculators/one-account-manage.html">One Account Management</a>-->
+						
+						
 					
 </div>
 				
 </div>
-				<!--div class="column grey">
+				<!-- div class="column grey">
 					<div class="columnInner">
 						<h2>One Account Calculators</h2>
 												
@@ -1692,7 +1839,7 @@
 						<a href="/calculators/one-account-manage.html">One Account Management</a>
 						
 					</div>
-				</div-->
+				</div -->
 				
 <div class="column grey">
 					
@@ -1713,9 +1860,22 @@
 					
 <div class="columnInner">
 						
+<h2>Vehicle Finance Calculators</h2>
+						
+<a href="https://www.wesbank.co.za/WesBankCoZa/calculators/vehiclerepayment/index.jspx?siteID=fnb" target="_blank">Vehicle Repayment Calculator</a>
+						<a href="https://www.wesbank.co.za/WesBankCoZa/calculators/loanamount/index.jspx?siteID=fnb" target="_blank">Vehicle Purchase Price Calculator</a>
+					
+</div>
+				
+</div>
+				
+<div class="column grey">
+					
+<div class="columnInner">
+						
 <h2>Other Calculators</h2>
 						
-<a href="/calculators/insurance-calculator.html">Insurance Calculator</a>						
+<a href="/calculators/life-calculator.html">Life Calculator</a>						
 						<a href="/calculators/budget-calculator.html">Budget</a>
 						<a href="http://www.fnbweb.co.za/onlinecalculator">Online Fee</a>
 						<!-- a href="/calculators/projected-value-of-savings-calculator.html">Projected Value Savings</a-->
@@ -1725,21 +1885,6 @@
 						<a href="/calculators/future-value-calculator.html">Future Value</a>
 						<a href="/calculators/loan-investment-calculator.html">Loan Investment</a>
 						<a href="/calculators/my-loan-term.html">My Loan Term</a>
-						
-<div class="menuSpacer">
-							
-<div class="menuSpacerTop"></div>
-							
-<div class="menuSpacerSpace"></div>
-							
-<div class="menuSpacerBottom"></div>
-						
-</div>
-						
-<h2>Vehicle Finance Calculators</h2>
-						
-<a href="https://www.wesbank.co.za/WesBankCoZa/calculators/vehiclerepayment/index.jspx?siteID=fnb" target="_blank">Vehicle Repayment Calculator</a>
-						<a href="https://www.wesbank.co.za/WesBankCoZa/calculators/loanamount/index.jspx?siteID=fnb" target="_blank">Vehicle Purchase Price Calculator</a>
 					
 </div>
 				
@@ -1797,11 +1942,12 @@
 			
 <div style="float:left;width:5.3em">
 				
-<div class="linkBlock">
+<div class="linkBlockCustom">
 					
 <a href="/economic-comment/fnb-economic-comment.html">Economic Comment</a>
 					<a href="/useful-stuff/glossary-of-terms.html">Glossary of Terms</a>
 					<a href="/legal-matters/overview.html">Legal Matters</a>
+					<a href="/tax-certificate/tax-certificate-knowledge.html">Know your Tax Certificate</a>
 				
 </div>
 			
@@ -2247,7 +2393,7 @@
 
 		//alert('writing: '+sharefulldiv);
 		document.write(showFriendinks);
-	</script><div class="friendless"><a href="/leadforms/sendToFriend.html?url=https://web.archive.org/web/20120920032324id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html&amp;title=Privacy Policy - Legal Matters - FNB"><img src="/07images/pageLayout/sendToFriend.gif" title="Send to a Friend" alt="Send to a Friend"></a></div>
+	</script><div class="friendless"><a href="/leadforms/sendToFriend.html?url=https://web.archive.org/web/20130423223727id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html&amp;title=Privacy Policy - Legal Matters - FNB"><img src="/07images/pageLayout/sendToFriend.gif" title="Send to a Friend" alt="Send to a Friend"></a></div>
 </div>
 <div id="addToFav">
 <a onclick="addPageItem();" href="#all1"><img src="/07images/contentImages/sharePanel/add_it.gif"></a>
