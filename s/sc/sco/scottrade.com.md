@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031152112id_/http%3A//www.scottrade.com/disclosures/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423221617id_/http%3A//www.scottrade.com/disclosures/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Scottrade
 
-The Scottrade Brokerage Privacy Statement describes how we collect and protect your personal information in the course of providing you with financial services.
+The Scottrade Brokerage Privacy Statement describes how we collect and protect your personal information in the course of providing you with financial services...
 
 ### Our Privacy Policy  
 
