@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the ashoka.org privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107024109id_/http%3A//www.ashoka.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashoka.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423154916id_/https%3A//www.ashoka.org/privacy) for the most accurate reproduction.*
 
 # Ashoka's Privacy Policy | Ashoka - Innovators for the Public
 
-_Ashoka's Privacy Policy_
-
 **Introduction**  
-This privacy policy (this “Privacy Policy”) is provided to explain the online information practices of Ashoka (“Ashoka,” “us” or “we”) and the choices you can make about the way that your personally identifiable information (“Personal Information”) is collected and used at Ashoka websites (collectively, the “Site”). 
+This privacy policy (this “Privacy Policy”) is provided to explain the online information practices of Ashoka (“Ashoka,” “us” or “we”) and the choices you can make about the way that your personally identifiable information (“Personal Information”) is collected and used at Ashoka websites (collectively, the “Site”).
 
-Please note that by accessing or using the Site, you agree to be bound by the terms and conditions of this Privacy Policy except as otherwise required by local law.  This Privacy Policy is effective as of [•] 2012 and is subject to change as set forth below in “Changes to the Ashoka Privacy Policy.”
+Please note that by accessing or using the Site, you agree to be bound by the terms and conditions of this Privacy Policy except as otherwise required by local law.  This Privacy Policy is effective as of 2012 and is subject to change as set forth below in “Changes to the Ashoka Privacy Policy.”
 
 **Use of Cookies**  
 When you visit the Site, cookies may be created on your Internet browser to log information and details of visitor behavior patterns. Cookies are text-only pieces of information that a website, such as ours, transfers to your computer's hard disk. We use cookies to find out things such as the number of visitors to the various parts of the Site and to improve Site usability. We collect this information in a way which does not identify anyone. A cookie will typically contain the name of the Internet domain from which it originates, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
-You usually can configure your Internet browser to reject cookies. However, if you do so, you might not be able to access certain pages or use certain functions on the Site, some of which may be important to you. To the extent allowable under local law, we reserve the right to introduce new session management technologies and techniques related to the use of the Site. 
+You usually can configure your Internet browser to reject cookies. However, if you do so, you might not be able to access certain pages or use certain functions on the Site, some of which may be important to you. To the extent allowable under local law, we reserve the right to introduce new session management technologies and techniques related to the use of the Site.
 
 In addition to our cookies, other cookies or tracking technologies may be used on the Site by third parties in the course of providing certain authorized services and tools, such as video content and analytics. Some or all of these technologies may be unaffected by your browser cookie settings.
 
 **Ashoka Cookies**  
-Ashoka uses the following cookies on the Site: 
+Ashoka uses the following cookies on the Site:
 
 Google Analytics
 
@@ -34,7 +32,7 @@ These cookies are related to Analytics and allow us to identify how users access
   
 ---|---|---  
   
-Content Management System cookie 
+Content Management System cookie
 
 | 
 
@@ -47,7 +45,7 @@ has_js
 These cookies store information about your current browsing session, such as if you have javascript enabled or if PHP sessions are enabled. These cookies are deleted once you close your Internet browser.  
   
 **Third Party Cookies:**  
-The following third-party sites are known to install various cookies while browsing the Site.  For more detail, please visit their websites. 
+The following third-party sites are known to install various cookies while browsing the Site. For more detail, please visit their websites. 
 
 [www.clickandpledge.com](http://www.clickandpledge.com/)   
 [www.facebook.com](http://www.facebook.com/)   
@@ -60,13 +58,13 @@ The following third-party sites are known to install various cookies while brows
 [www.vimeo.com](http://www.vimeo.com/)  
 [www.youtube.com](http://www.youtube.com/)
 
-To learn more about cookies and how they may be used on your computer, please read the help information supplied with your Internet browser software. 
+To learn more about cookies and how they may be used on your computer, please read the help information supplied with your Internet browser software.
 
 **Anonymous Usage Logs**  
 The Site’s web servers collect anonymous logs during user visits to the Site.  This information is used to create aggregate statistics about the operation and use of the Site such as when our Site is accessed, the pages which refer visitors to the Site, the type of web browsers visitors use and which pages of the Site are viewed.  These statistics help us understand how the Site is used and provide us with valuable information for improving the Site in the future.  From time to time, we may share such aggregate, non-personally identifiable statistical information with our partners, affiliates, consultants, suppliers and providers. The type and amount of information we receive and store depends on how you use the Site.
 
 **Personal Information**  
-In general, when you visit our Site you remain anonymous, but on some pages, you need to provide Personal Information to register, make donations, contact us or conduct other transactions via the Site. The types of Personal Information collected on the Site may include any or all of the following, depending on your activities on the Site: name, address, e-mail address, phone number, website, organization (including the organization’s name, website, phone number, and address), username, password, languages, fields of work, Twitter handle, photograph and other Personal Information that you actively provide to us via the Site. 
+In general, when you visit our Site you remain anonymous, but on some pages, you need to provide Personal Information to register, make donations, contact us or conduct other transactions via the Site. The types of Personal Information collected on the Site may include any or all of the following, depending on your activities on the Site: name, address, e-mail address, phone number, website, organization (including the organization’s name, website, phone number, and address), username, password, languages, fields of work, Twitter handle, photograph and other Personal Information that you actively provide to us via the Site.
 
 The Site also enables you to send a message related to the Site to other people, for example to introduce friends who you believe may be interested in learning about Ashoka and who have consented to receiving such messages. To utilize this functionality, you will need to provide personally identifiable information, such as name and email address for people other than yourself. Ashoka does not actively collect or store this personal information and only uses it so far as it is required to provide the service.
 
@@ -75,9 +73,9 @@ We use and/or disclose Personal Information to process and complete donations an
 
 Except as provided herein, we will not sell any Personal Information that you provide through the Site without your prior written consent. We may use Personal Information that you provide to update you on our activities and to let you and those you identify know about new projects that we believe may be of interest to you except as otherwise required by local law. 
 
-We may share Personal Information with our partners, affiliates, consultants, local curators and providers. Our agreements with these entities require that they keep your Personal Information confidential and only use your Personal Information to the extent necessary to perform their functions and not for any other purpose.  We also contract other companies and individuals (collectively “Suppliers”) to perform functions on our behalf, including without limitation, processing credit card payments or sending communications to you. We will take reasonable steps to ensure that these Suppliers keep your Personal Information confidential and only use your Personal Information to the extent necessary to perform their functions and not for any other purpose. 
+We may share Personal Information with our partners, affiliates, consultants, local curators and providers. Our agreements with these entities require that they keep your Personal Information confidential and only use your Personal Information to the extent necessary to perform their functions and not for any other purpose.  We also contract other companies and individuals (collectively “Suppliers”) to perform functions on our behalf, including without limitation, processing credit card payments or sending communications to you. We will take reasonable steps to ensure that these Suppliers keep your Personal Information confidential and only use your Personal Information to the extent necessary to perform their functions and not for any other purpose.
 
-Donations that are made to Ashoka on the Site are processed using a third-party payment system. Credit/Debit card details will be retained by the party providing the payment services and its affiliated bank as deemed necessary by them to process the payment for your donation. Your Credit/Debit card details will be retained by the processor for future transactions only upon your authorization. If you later decide that you do not want such information stored, you may contact us at web@ashoka.org [1] and we will coordinate with the processor to remove such information.
+Donations that are made to Ashoka on the Site are processed using a third-party payment system. Credit/Debit card details will be retained by the party providing the payment services and its affiliated bank as deemed necessary by them to process the payment for your donation. Your Credit/Debit card details will be retained by the processor for future transactions only upon your authorization. If you later decide that you do not want such information stored, you may contact us at [web@ashoka.org](mailto:web@ashoka.org) and we will coordinate with the processor to remove such information.
 
 We may disclose Personal Information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena or a law enforcement agency’s request. To the extent allowable under local law, we also reserve the right to disclose Personal Information to protect the security of the Site, to protect ourselves and our affiliated non-profits against liability, and/or in connection with any sale, assignment, or other transfer of some or all of our operations.
 
@@ -103,10 +101,10 @@ Ashoka seeks to collect, process, store, disclose and dispose of Personal Inform
 In addition, we may store such Personal Information in the United States or other jurisdictions, outside your resident jurisdiction. In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Please be aware that United States law may offer different levels of protection for Personal Information than may be available in your country.
 
 **Residents of California**  
-California residents are entitled by law to request an Information Sharing Disclosure. Following your provision of notice to the address below, Ashoka will provide you with a notice of your right to prevent sharing of your Personal Information as well as a cost-free means of doing so. To receive such a notice, submit a written request to the address below, specifying that you are requesting your “California Customer Choice Notice.” 
+California residents are entitled by law to request an Information Sharing Disclosure. Following your provision of notice to the address below, Ashoka will provide you with a notice of your right to prevent sharing of your Personal Information as well as a cost-free means of doing so. To receive such a notice, submit a written request to the address below, specifying that you are requesting your “California Customer Choice Notice.”
 
 **Compliance with Anti-Money Laundering Laws**  
-Ashoka complies with the United States Office of Foreign Assets Control regulations as well as United States export control and anti-money laundering laws. All grants will be awarded subject to compliance with such laws. Ashoka will not make any grant if it finds that to do so would be unlawful. This may prohibit awards in certain countries and/or to certain individuals or entities. 
+Ashoka complies with the United States Office of Foreign Assets Control regulations as well as United States export control and anti-money laundering laws. All grants will be awarded subject to compliance with such laws. Ashoka will not make any grant if it finds that to do so would be unlawful. This may prohibit awards in certain countries and/or to certain individuals or entities.
 
 **How to Contact Us**  
 Should you have any questions or concerns about this Privacy Policy, please address them to:
@@ -116,10 +114,4 @@ Ashoka: Innovators for the Public
 Suite 2000  
 Arlington, VA 22209  
 USA  
-You may also send us an email at web@ashoka.org [2]  
-\--------------------------------------------------------------------------------  
-Source URL (retrieved on 2012-05-25 12:23): http://www.ashoka.org/privacy
-
-Links:  
-[1] mailto:web@ashoka.org  
-[2] http://www.ashoka.org/web%40ashoka.org%20
+You may also send us an email at [ web@ashoka.org](mailto:web@ashoka.org)
