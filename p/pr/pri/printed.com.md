@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003022133id_/http%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423220308id_/http%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of printed.com
 
@@ -20,6 +20,8 @@ We may collect and process the following data about you:
 1.5 details of your visits to the Site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access; and
 
 1.6 any information incidental to that listed above.
+
+1.7 Customer uploaded files are automatically deleted from our systems after 30 days.
 
 **2\. IP addresses, cookies and similar technologies**
 
@@ -105,4 +107,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **10\. Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [theteam@printed.com.](http://www.printed.com/theteam@printed.com)
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [theteam@printed.com.](mailto:theteam@printed.com)
