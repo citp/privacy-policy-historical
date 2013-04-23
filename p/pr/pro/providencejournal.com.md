@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919105034id_/http%3A//www.providencejournal.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423072032id_/http%3A//www.providencejournal.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Providence Journal - Providence Journal
+# Privacy Policy | Providence Journal
 
 **What Types of Information Do We Collect?**
 
