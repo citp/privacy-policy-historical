@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roomorama.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506050838id_/http%3A//roomorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomorama.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423215836id_/https%3A//www.roomorama.com/privacy) for the most accurate reproduction.*
 
 # Short Term Rentals, Nightly and Weekly Apartments, Homes and Rooms - Roomorama
 
 Please read this Privacy Policy (the "Policy") carefully before using Roomorama.com (the "Site"). By accessing, browsing and using the Site, you acknowledge that you have read and understand this Policy. This Policy applies to your use of this Site only; should you follow a link on this Site to another website, you are no longer covered by this Policy.
 
-Roomorama, LLC (hereinafter "we," "us," "Roomorama") owns and operates the Site. We reserve the right to modify this privacy statement at any time, with or without notice.
+Roomorama, Inc (hereinafter "we," "us," "Roomorama") owns and operates the Site. We reserve the right to modify this privacy statement at any time, with or without notice.
 
   
 
@@ -56,3 +56,15 @@ If you have questions or concerns regarding this statement, you should first con
 While Roomorama takes reasonable steps to safeguard and to prevent unauthorized access to your information, we cannot be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied, or otherwise, that we will prevent unauthorized access to your private information.
 
 IN NO EVENT SHALL ROOMORAMA BE LIABLE FOR ANY DAMAGES (WHETHER CONSEQUENTIAL, DIRECT, INCIDENTAL, INDIRECT, PUNITIVE, SPECIAL OR OTHERWISE) ARISING OUT OF, OR IN ANY WAY CONNECTED WITH, A THIRD PARTY'S UNAUTHORIZED ACCESS TO YOUR PERSONAL INFORMATION, THE PROPERTY INFORMATION, OR ANY OTHER USER PROVIDED INFORMATION REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON CONTRACT, STRICT LIABILITY, TORT OR OTHER THEORIES OF LIABILITY, AND ALSO REGARDLESS OF WHETHER ROOMORAMA WAS GIVEN ACTUAL OR CONSTRUCTIVE NOTICE THAT DAMAGES WERE POSSIBLE.
+
+## Third Party Advertising Cookies
+
+We use third-party advertising technology to serve ads when you visit our Web site and sites upon which we advertise. This technology uses information about your visits to this Web site and the sites upon which we advertise, (not including your name, address, or other personally identifiable information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party persistent Cookie may be placed or recognized on your browser. In addition, we use beacon gifs (see description below), provided by our ad-serving providers, to help manage our online advertising. These beacon gifs enable our ad server to recognize a browser's Cookie when a browser visits this site and to learn which banner ads bring users to our Web site and whether a reservation on Roomorama.com is executed. The information our ad-serving providers and we collect through this technology is not personally identifiable but is used to create a profile which allows the ad-serving provider to serve adverts which are targeted towards you and your interests across the ad-serving network.
+
+You may set your browser to block Cookies (consult the instructions for your particular browser on how to do this), although doing so to block Roomorama cookies will adversely affect your ability to perform certain transactions, use certain functionality, and access certain content on our Web site.
+
+Opt-out section:  
+<http://www.adaramedia.com/privacy-promise.php>
+
+Opt-out link:  
+<http://www.adaramedia.com/opt-out.php>
