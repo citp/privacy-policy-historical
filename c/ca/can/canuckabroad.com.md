@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canuckabroad.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312060636id_/http%3A//privacy.truste.com/privacy-policy/CanuckAbroad.com/dbffa80f-0067-436e-9792-0d7ac44cc950) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckabroad.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423214104id_/http%3A//privacy.truste.com/privacy-policy/CanuckAbroad.com/dbffa80f-0067-436e-9792-0d7ac44cc950) for the most accurate reproduction.*
 
 # Welcome to canuckabroad.com
 
