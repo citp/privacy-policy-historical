@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topseolinks.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203207id_/http%3A//topseolinks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topseolinks.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423232259id_/http%3A//topseolinks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Top seo links.com
 
@@ -34,3 +34,5 @@ E-Mail ID = support @ Topseolinks . com
 
 Copyright © 2009 by "Topseolinks.com"  ·  All Rights reserved  ·  E-Mail: support @ Topseolinks .com     
 This site can be best viewed in IE 5.0 or above, 1024 x 768 Resolution
+
+[](https://web.archive.org/web/20130423232259id_/http%3A//topseolinks.com/seo-query.html)
