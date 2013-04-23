@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prezly.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103161740id_/http%3A//www.prezly.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prezly.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423181624id_/http%3A//www.prezly.com/privacypolicy) for the most accurate reproduction.*
 
-# Prezly - Privacy Policy
+# Privacy Policy - Prezly
 
-## Privacy policy
+## Prezly Privacy policy
 
 ###  Protecting Your Privacy 
 
@@ -27,3 +27,15 @@ Prezly may disclose personally identifiable information under special circumstan
 
   
 
+
+### What is Prezly ?
+
+Prezly is an online platform for PR professionals to help sending out press releases. It includes publishing features (online press room and press release), distribution features (autoposting, and email campaigns) and reporting.
+
+[Learn more about Prezly](https://web.archive.org/tour)
+
+### Want to give it a go ?
+
+Choose a subscription plan and try Prezly for 15 days. Simple registration procedure, no credit card required.
+
+[Sign up today](https://web.archive.org/pricing)
