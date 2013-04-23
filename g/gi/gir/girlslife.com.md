@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003654id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423132446id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.*
 
 # GirlsLife.com - Privacy Policy
 
@@ -27,10 +27,16 @@ Girls' Life shares personal information with contracted partners exclusively for
 
 **Girlslife.com visitors can send questions to several different experts whose wisdom we share on our web site.**
 
+  
 • We ask that all girls sign their letters with a nickname or name related to the concern (i.e. Boy Baffled, In Need of a Mascara Master, Bewildered and Confused, etc).  
 • For Question of the Week, girls are asked to submit their answers to different types of questions. Girls' Life publishes some of these results in the magazine, others may be used on-line. The information is collected and published without any personal data.  
 • Girlslife.com visitors can take quizzes on our site. We do not collect any quiz answers provided by participants.  
+
+
 • Girls' Life also does polls from time to time. Some of the results of these polls will be in the magazine, others may be used on-line. The information is collected and published without any personal data. No personally identifiable data is collected from participants through any of these features.
+
+• Girlslife.com registrants cannot use their full name (first and last) as their Girlslife.com username. No username/profile with this information will be approved.   
+
 
 **Security**
 
