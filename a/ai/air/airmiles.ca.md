@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airmiles.ca privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920100422id_/https%3A//www.airmiles.ca/arrow/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmiles.ca privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423073801id_/https%3A//www.airmiles.ca/arrow/PrivacyPolicy) for the most accurate reproduction.*
 
-# AIR MILES -
+# AIR MILES - Home
 
 ### Committed to Protecting your Privacy
 
