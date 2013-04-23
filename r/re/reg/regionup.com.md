@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regionup.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052216id_/http%3A//www.regionup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionup.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423085339id_/https%3A//www.regionup.com/privacy) for the most accurate reproduction.*
 
-# Find US100K+ Jobs in Asia. RegionUP | Exclusive to 100K+ Jobs and 100K+ Talent
+# Privacy Policy | Singapore Jobs-Hong Kong Jobs | Find US100K+ Jobs in Asia. RegionUP
 
 Privacy Policy
 
@@ -18,7 +18,7 @@ As RegionUP continues to develop its business, RegionUP might sell or buy lines 
 Information We Collect and How We Use That Information
     Our basic registration forms require Users to provide contact information, including full name, email address, and career-related information. We use this information to contact You about the services on our Website in which You have expressed interest. Should You choose to purchase services, Your credit card information will be stored. We use Your credit card information for billing purposes only. If we have trouble processing Your order, we will use Your contact information to contact You.
 
-Sensitive information such as Your income level and credit card information will be kept completely private.
+Sensitive information such as credit card information will be kept completely private.
 
 Should You post a resume, the amount of information You choose to keep confidential is entirely up to Your discretion. You may enter as much or as little information as You choose. All information posted will only be visible to recruiters and companies seeking employees. All recruiters are believed by RegionUP to be legitimately seeking applicants for available positions.
 
