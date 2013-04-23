@@ -1,44 +1,63 @@
-> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711105531id_/http%3A//www.leeds.gov.uk/page.aspx%3FpageIdentifier%3DBF207A6A0A90CCA380256E14003DDACB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423211940id_/http%3A//www.leeds.gov.uk/pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Privacy statement
+# Cookies and privacy
 
-Protecting your privacy is very important to us. You do not have to give any personal or private information about yourself when you visit our website. 
+Cookies are small text files that 'remember' bits of information from your visit to a website. They make the interaction between you and the website faster and easier. Without cookies the website thinks you are a new visitor every time you move to a new page.
 
-We collect data from our website to help us understand how many people access it, how it is used and whether there have been any technical problems. This doesn’t contain any personal information and we can not link this data to individual visitors. All the information we collect in this way is deleted periodically. The data we collect includes;
+We also use them to collect anonymous statistics about how people use the site, and to help us make it as easy for you to use as we can.
+
+A cookie is stored on your computer or mobile device by a website's server. Only that server can retrieve or read the contents of that cookie. Each cookie is unique to your web browser. So if we put a cookie on your computer, it can't be read by any other website. 
+
+There are two types of cookie: 
+
+Session cookies automatically delete when you close your browser or after a few minutes if you have left the site open without using it. They mean you don't have to keep re-submitting information as you move through the site or carry out transactions. 
+
+Persistent cookies remember information from previous visits and are kept when the web browser is closed. They may be used for remembering any setting you have changed or analysing website traffic.
+
+We use cookies to ensure that we give you the best experience on our website; if you continue without changing your cookie settings we assume that you are happy with our use of cookies. However, you can change your cookie settings at any time. 
+
+You can set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. You can also see what cookies have been set and how to manage and delete them.  The way in which you do this depends upon the web browser which you use. Go to [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/) to find out more.
+
+For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+Cookies that we use on leeds.gov.uk
+
+**1\. Cookies strictly necessary for the site to function**
+
+These cookies are essential to providing the specific service requested and as such do not need consent from the site user. These may be part of how the web site is constructed and are often automatically generated. Generally these only exist while the web browser is open (called a session). They are not used to collect any information about the individual.
+
+**2\. Cookies that help us improve the performance of our sites**
+
+We collect anonymous web statistics from our website to help us understand how many people access it, how it is used and whether there have been any technical problems. We use programmes called SiteImprove and Google to do this. They store several cookies on users' computers or mobiles which are used to collect information to analyse which parts of the site are most useful to our visitors. We also use this kind of cookie to track errors and missing files. The information is used only for web analytics and no personal details are stored.
+
+The information we collect includes:
 
   * The name of your internet service provider and the internet protocol (IP) address you are using. This may or may not identify a specific computer.
   * The date and time you visit our website, and the pages you look at.
   * The internet address of any websites which have linked you directly to our site.
+  * To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
 
 
 
-We collect personal information only when you specifically and knowingly give it to us, for example by filling out an online form or by sending an email. We record what time you give us this information and keep track of where it is sent to. We will use the personal information you give us for the reasons stated when you provide it. We will only use it for other reasons where we have to legally or where this is allowed by law. Generally we will not share your information with outside parties unless we have to legally or where the law allows this.
+**3\. Cookies needed to improve the functionality of our sites**
 
-**External service providers  
-** Leeds City Council occasionally contracts external companies to help provide online services.
+These cookies are used to allow the web site to remember choices the visitor makes. This may be to personalise information or remember settings like text size or background colours. These cookies however actually only identify the device and not an individual.
 
-  * We only give them the information which they need to carry out the service.
-  * They agree not to use any information we give them for any other reason than what we have agreed with them.
-  * We make sure they have proper systems in place to protect personal data and private information.
+YouTube cookie (VISITOR_INFO1_LIVE): tracks YouTube video views data, it is only used in aggregate.   
+Google cookie (PREF): records preferences for various services on Google. 
 
+**Personal information**
 
+We collect personal information only when you specifically and knowingly give it to us, for example by filling out an online form or by sending an email. We record what time you give us this information and keep track of where it is sent to. We will use the personal information you give us for the reasons stated when you provide it. We will only use it for other reasons where we have to legally or where this is allowed by law. 
 
-**Security  
-** We monitor the data we collect to detect or investigate unauthorised uses of our website. This means that when you send us an email or submit information using an online form we stop it to check what it contains. Please be aware that whilst we do everything we can to protect your privacy, we cannot guarantee the security of any information in an email or an online form whilst this is being transmitted to us.
+Leeds City Council occasionally contracts external companies to help provide online services. We only give them the information which they need to carry out the service. They agree not to use any information we give them for any other reason than what we have agreed with them. We make sure they have proper systems in place to protect personal data and private information.
 
-Use the weblink on the right to visit the government sponsored 'Get Safe Online' website for free expert advice on protecting yourself from internet threats.
+**Email security**
 
-**Cookies  
-** Cookies are files which can be stored on your computer when you visit a website. These files contain information about the web pages you look at so that the next time you visit the site it can be customised to meet your needs. We do not use cookies on this website at present. If we decide to use them in the future, we will include full details in this internet privacy statement, and they will not be associated with any personal information.
+Please note that unless encrypted, email messages sent via the internet may not be secure and could be intercepted and read by someone else. Please bear this in mind when deciding whether to include personal or sensitive information in any email messages you intend to send.
 
-**Virus and malware protection  
-** We make every effort to check and test the material on our site for malicious software or 'malware'. However, Leeds City Council cannot accept any responsibility or liability for any loss, disruption or damage to your computer system or information contained on it, which may occur as a result of using material from our site. It is always advisable to run an anti-virus program on any material downloaded from the internet.
+**Links with other websites**
 
-If an email infected with malicious software is sent to us, it will be deleted automatically before it reaches our email system. Please be aware that if you have unintentionally sent us an email infected with malicious software, it will not reach us. If you don't receive acknowledgement of your email within 10 working days, please contact us using the online enquiry form on the right.
+Please be aware that other web sites may deal with privacy differently to Leeds City Council and we can take no responsibility for the privacy practices or the content of any linked websites. If you decide to access websites linked to ours, you do so at your own risk.
 
-**Links  
-** Our site contains links to and from other web sites. The council does not necessarily endorse or support the organisations that are linked to or from our website. We cannot guarantee that links will work all of the time, and we have no control over the availability of the linked pages on other websites.
-
-Please be aware that other web sites may deal with privacy differently to Leeds City Council and we can take no responsibility for the privacy practices or the content of any linked websites. If you decide to access websites linked to ours, you do so at your own risk.
-
-If you want to link to pages on our website, you will need to get our permission first. Please use the online enquiry form link on the right to request this permission from the webmaster.
+This privacy policy applies only to http://www.leeds.gov.uk/
