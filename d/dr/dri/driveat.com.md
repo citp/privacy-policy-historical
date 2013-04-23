@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driveat.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108010258id_/http%3A//www.driveat.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driveat.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424001407id_/http%3A//www.driveat.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # DriveAt - Discover, Review, Share
 
