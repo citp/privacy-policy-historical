@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030102617id_/http%3A//www.soonersetc.com/component/content/article/199.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423124254id_/http%3A//www.soonersetc.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sooners Etc - Privacy Policy
+
+##  Privacy Policy 
 
 Sooners Etc believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At Sooners Etc, we treat your personal information with the highest standards of safety, security, and confidentiality.
 
@@ -37,6 +39,3 @@ Sooners Etc also counts, tracks, and aggregates the visitor's activity into our 
 Sooners Etc never shares, sells, or rents any personal information unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information.
 
 Further information pertaining to privacy and legal issues can be viewed [here](http://www.securityfocus.com/columnists/450).
-
-|  [< Prev](http://www.soonersetc.com/component/content/article/3557-2009sponsors.html) |    |  [Next >](http://www.soonersetc.com/component/content/article/190-copyright.html)  
----|---|---
