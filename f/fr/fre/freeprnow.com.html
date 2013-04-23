@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the freeprnow.com privacy policy that was archived on 2012-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127063039id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeprnow.com privacy policy that was archived on 2013-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423191322id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
-        <base href="http://www.freePRnow.com/">
-        <!--base href="http://localhost:4207/_netFPRN/" /-->
+            <base href="http://www.freePRnow.com/">
+ 
         
         <link rel="alternate" type="application/rss+xml" title="Latest Press Releases from freePRnow.com" href="http://www.freePRnow.com/rss.xml"> <!-- for blogs et al to know where rss file is -->
-        <link rel="image_src" href="http://www.freePRnow.com/Images/logo.jpg">
+        <link rel="image_src" href="http://www.freePRnow.com/Images/logofprn1.png">   <!-- For Facebook -->
 
-        <title>Free Press Releases Now - PR Submission and Distribution Service Website</title> 
-        <meta name="description" content="freePRnow – Submit Free Press Releases. Online PR submission and distribution service site. freePRnow website make your PR available to journalists and new sites for maximum exposure."> 
+        <title>Online Free Press Release PR Distribution Submission Service Websites</title> 
+        <meta name="description" content="freePRnow – Submit news on free press releases submission websites by our online PR distribution service sites to make your news available to journalists, new sites for maximum exposure."> 
         <meta name="keywords" content="Free PR Websites, Press Release Sites, Free Press Release Websites, Submit Free Press Releases, Free Press Releases, Free Press Release Sites, Free Press Release Submission, Free Press Release Distribution, Free Press Release Service"> 
         <meta name="document-classification" content="PR Submission, Free Press Releases, Online Press Release Distribution, Submit Free Press Releases, Free PR Websites, PR Distribution">
-
 
         <meta name="alexaVerifyID" content="4l0Hyq83ir1oHNYUud2wGQceYl8"> <!-- Alexa Verification -->
         <!-- meta name="y_key" content="5a29f45663f6af97" /> < verify ownership for Yahoo Site Explorer -->
@@ -21,9 +20,8 @@
 
         
 
-        
-        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="BWStyles.css">
-        <link id="ctl00_Link2" rel="shortcut icon" href="Images/favicon.ico">
+        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="http://www.freePRnow.com/BWStyles.css">    <!-- http://stackoverflow.com/questions/1634449/relative-urls-in-sharepoint-master-page/3898034#3898034 -->
+        <link id="ctl00_Link2" rel="shortcut icon" href="http://www.freePRnow.com/Images/favicon.ico">
 
         <script type="text/javascript" language="Javascript1.2">
             <!--
@@ -40,7 +38,6 @@
             
             // Calcs Total Cost of Premium PR && Toggles 'Free Press Release' (i.e. Create) and Paypal buttons
             function getTotalCost() {
-                document.getElementById('custom').value = document.getElementById('ctl00_cphMain_bID').value;
                 sTotalCost = 0;
                 if (document.getElementById('cbImg') != null && document.getElementById('cbImg').checked == true) {
                     document.getElementById('amount_1').value = 10;
@@ -78,7 +75,14 @@
             
             // Converts $ to impressions
             function getNumImpressions(objThis, strThatID) {
-                strVal = formatNumber(objThis.value * 100, '');
+                var spend = objThis.value;
+                var numImps = spend * 100; 
+                
+                if (spend >= 100) {
+                    numImps = numImps * 3;
+                }
+                
+                strVal = formatNumber(numImps, '');
                 document.getElementById(strThatID).innerHTML = strVal;
                 getTotalCost();
                 return true;
@@ -99,14 +103,15 @@
             
             // Following 3 functions used to display field limits
             function objLimit(objThis, objMax) {
-	            if (objThis.value.length==objMax) return false;
+                if (objThis.value.length == objMax) return false;
 	            return true;
             }
-            function objCount(objThis, objID, objMax) { 
-	            objObj=createObject(objID);
-	            objVal=objThis.value;
-	            if (objVal.length>objMax) objVal=objVal.substring(0,objMax);
-	            if (objObj) objObj.innerHTML=objMax-objVal.length;
+            function objCount(objThis, objID, objMax) {
+                objObj = createObject(objID);
+                objVal = objThis.value;
+	            if (objVal.length > objMax) objVal = objVal.substring(0, objMax);
+	            //if (objObj) objObj.innerText = objMax - objVal.length;
+	            if (objObj) objObj.innerHTML = objMax - objVal.length;
 	            return true;
             }
             function createObject(objId) {
@@ -136,43 +141,36 @@
         <!-- ENDDFP -->
     </head>
     <body>
-        <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWCAIBDxYCHgRUZXh0BVc8dGl0bGU+RnJlZSBQcmVzcyBSZWxlYXNlcyBOb3cgLSBQUiBTdWJtaXNzaW9uIGFuZCBEaXN0cmlidXRpb24gU2VydmljZSBXZWJzaXRlPC90aXRsZT5kAgMPFgIfAAXfATxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJmcmVlUFJub3cg4oCTIFN1Ym1pdCBGcmVlIFByZXNzIFJlbGVhc2VzLiBPbmxpbmUgUFIgc3VibWlzc2lvbiBhbmQgZGlzdHJpYnV0aW9uIHNlcnZpY2Ugc2l0ZS4gZnJlZVBSbm93IHdlYnNpdGUgbWFrZSB5b3VyIFBSIGF2YWlsYWJsZSB0byBqb3VybmFsaXN0cyBhbmQgbmV3IHNpdGVzIGZvciBtYXhpbXVtIGV4cG9zdXJlLiIgLz5kAgUPFgIfAAWMAjxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJGcmVlIFBSIFdlYnNpdGVzLCBQcmVzcyBSZWxlYXNlIFNpdGVzLCBGcmVlIFByZXNzIFJlbGVhc2UgV2Vic2l0ZXMsIFN1Ym1pdCBGcmVlIFByZXNzIFJlbGVhc2VzLCBGcmVlIFByZXNzIFJlbGVhc2VzLCBGcmVlIFByZXNzIFJlbGVhc2UgU2l0ZXMsIEZyZWUgUHJlc3MgUmVsZWFzZSBTdWJtaXNzaW9uLCBGcmVlIFByZXNzIFJlbGVhc2UgRGlzdHJpYnV0aW9uLCBGcmVlIFByZXNzIFJlbGVhc2UgU2VydmljZSIgLz5kAg0PZBYCAhUPDxYCHwAFIMKpIDIwMTIgUHJvc2VydmUgVGVjaG5vbG9neSwgSW5jZGRkFFmBNtDMXVVo+UvSo/S2wSI0yUI=">
+        <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjQ5ODA0NjkPZBYCZg9kFgYCAw8WAh4EVGV4dAVUPHRpdGxlPk9ubGluZSBGcmVlIFByZXNzIFJlbGVhc2UgUFIgRGlzdHJpYnV0aW9uIFN1Ym1pc3Npb24gU2VydmljZSBXZWJzaXRlczwvdGl0bGU+ZAIFDxYCHwAF4gE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iZnJlZVBSbm93IOKAkyBTdWJtaXQgbmV3cyBvbiBmcmVlIHByZXNzIHJlbGVhc2VzIHN1Ym1pc3Npb24gd2Vic2l0ZXMgYnkgb3VyIG9ubGluZSBQUiBkaXN0cmlidXRpb24gc2VydmljZSBzaXRlcyB0byBtYWtlIHlvdXIgbmV3cyBhdmFpbGFibGUgdG8gam91cm5hbGlzdHMsIG5ldyBzaXRlcyBmb3IgbWF4aW11bSBleHBvc3VyZS4iIC8+ZAIHDxYCHwAFjAI8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iRnJlZSBQUiBXZWJzaXRlcywgUHJlc3MgUmVsZWFzZSBTaXRlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFdlYnNpdGVzLCBTdWJtaXQgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFNpdGVzLCBGcmVlIFByZXNzIFJlbGVhc2UgU3VibWlzc2lvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIERpc3RyaWJ1dGlvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIFNlcnZpY2UiIC8+ZGQXRmNjTMcUkMU8CXwEoZa2NtM7jQ==">
 
 
-<script src="/ScriptResource.axd?d=DkLZOFfqTJAKTTEKPUOSQSJpgQGPvefLU4HvLee0nEX4pbL3bCNrR6uEjcjzIaIMMiQBH1BpdazDcX5qOD-Od22h1o-TGAiTfyN-N1-LKjI1&amp;t=6eb8d4a4" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
+<script src="/ScriptResource.axd?d=DkLZOFfqTJAKTTEKPUOSQSJpgQGPvefLU4HvLee0nEX4pbL3bCNrR6uEjcjzIaIMAK_9PNOsNo_aOl5tY4UH_Rm-8uOnbhozP6x12y-Qg6U1&amp;t=6eb8d4a4" type="text/javascript"></script>
             
             <!-- NAVTOP -->
             <table class="NavTop_Table" width="900" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
                 <td class="mainHeader" align="left" bgcolor="#D3E6FF" valign="top">
-                    <img src="Images/NavTop_left.png" width="10" height="100" border="0">
-                    <a href="http://www.freePRnow.com" class="logoLink"><img title="freePRnow.com" alt="freePRnow.com" src="Images/logo.png" width="250" height="100" border="0"></a>
+                    <img id="ctl00_Image1" alt="" border="0" src="http://www.freePRnow.com/Images/NavTop_left.png" height="100" width="10">
+                    <a href="http://www.freePRnow.com" class="logoLink"><img id="ctl00_Image2" title="freePRnow.com" alt="freePRnow.com" border="0" src="http://www.freePRnow.com/Images/logo.png" height="100" width="250"></a>
                 </td>
                 <td class="mainHeader" align="right" bgcolor="#D3E6FF" valign="top">
                     <a id="ctl00_join" href="http://www.freePRnow.com/Join.aspx">Join</a>&nbsp;|
                         <a id="ctl00_login" href="http://www.freePRnow.com/Login.aspx">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                    
-                    <img align="top" src="Images/NavTop_right.png" width="10" height="100" border="0">
+                    <img id="ctl00_Image3" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/NavTop_right.png" height="100" width="10">
                 </td>
                 </tr>
 
                 <tr>
                 <td colspan="2">
-                    <div style="border:none; float:left; display:inline;"><img title="" alt="" src="Images/NavBtnGrn_Left.png" width="51" height="32" border="0"></div>
+                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image4" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Left.png" height="32" width="51"></div>
                     <div class="NavTop_Link1"><a id="ctl00_NavTop_L1" href="http://www.freePRnow.com/submitPR.aspx"></a></div>
                     <div class="NavTop_Link2"><a id="ctl00_NavTop_L2" href="http://www.freePRnow.com/Directory.aspx"></a></div>
                     <div class="NavTop_Link3"><a id="ctl00_NavTop_L3" href="http://www.freePRnow.com/SEO.aspx"></a></div>
                     <div class="NavTop_Link4"><a id="ctl00_NavTop_L4" href="http://www.freePRnow.com/RSS.aspx"></a></div>
                     <div class="NavTop_Link5"><a id="ctl00_NavTop_L5" href="http://www.freePRnow.com/FAQs.aspx"></a></div>
                     <div class="NavTop_Link6"><a id="ctl00_NavTop_L6" href="http://www.freePRnow.com/Contact.aspx"></a></div>
-                    <div style="border:none; float:left; display:inline;"><img title="" alt="" src="Images/NavBtnGrn_Right.png" width="49" height="32" border="0"></div>
+                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image5" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Right.png" height="32" width="49"></div>
                 </td>
                 </tr>
             </tbody></table>
@@ -182,23 +180,26 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <table class="NavTop_Table" border="0" width="900" cellpadding="0" cellspacing="0">
                 <tbody><tr align="center" valign="top">
                 <td style="background-image:url(Images/mod_CCCCCC_ML.gif); background-repeat:repeat-y; width:15;"></td>
-
+                
                 <!-- Start Main MOD -->
-                <td style="width:700;">
-                <table cellpadding="0" cellspacing="0" width="870">
+                <td style="width:100%;">
+                <table cellpadding="0" cellspacing="0" width="100%">
                     <tbody><tr>
                     <!-- MAIN TABLE Left Column -->
-                    <td width="700" style="text-align:center;" valign="top">
+                    <td width="100%" style="text-align:center;" valign="top">
                         <br>
                         <center><div style="">
 
-                        <table width="700" cellpadding="0" cellspacing="0">
+                        <table width="100%" cellpadding="0" cellspacing="0">
                             <tbody><tr>
                             <td height="550" style="background-image:url(Images/clr.gif); background-repeat:repeat-y; height:550;"></td>
                             <td align="left" valign="top">
                                 
     <table width="700"><tbody><tr align="center"><td>
         <div class="Header1Large" align="left"><b>Privacy Policy (01/01/2011)</b><br><hr style="height:1px;color:#CCCCCC;"></div><br>
+
+        <span id="ctl00_cphMain_lblMessage"></span>
+
         <div class="ContentSmall" align="left">
             At freePRnow we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by freePRnow LLC ("freePRnow") or its subsidiaries or affiliated companies (collectively, freePRnow's "services").  <br> <br>
 
@@ -232,6 +233,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                     <td style="background-image:url(Images/clr.gif); height:10; width:10;"></td>
                     
+                    
                     <!-- MAIN TABLE Right Column -->
                     <td id="ctl00_tdLeftMenu" class="ContentSmall" style="width:160px; text-align:left; vertical-align:top;">
                         <br>
@@ -246,8 +248,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             </script>
                             <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
                         <!-- End Google AdSense -->
+                        
+                        <!-- For Secondary Ads -->
+                        <!-- End Secondary Ads --> 
                     </td>
 
+                    
                      
                     </tr>
                 </tbody></table>
@@ -257,9 +263,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 </tr>
             
                 <tr> 
-                <td height="15"><img alt="" src="Images/mod_CCCCCC_BL.gif" height="15" width="15"></td>
+                <td height="15"><img id="ctl00_Image6" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BL.gif" height="15" width="15"></td>
                 <td style="background-image:url(Images/mod_CCCCCC_BM.gif); background-repeat: repeat-x;"></td>
-                <td height="15"><img alt="" src="Images/mod_CCCCCC_BR.gif" height="15" width="15"></td>
+                <td height="15"><img id="ctl00_Image7" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BR.gif" height="15" width="15"></td>
                 </tr>
             </tbody></table>
             <!-- end MOD WRAPPER -->
@@ -284,7 +290,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <a id="ctl00_pp" href="http://www.freePRnow.com/Privacy.aspx">Privacy Policy</a>
                         </td>
                         </tr>
-                        <tr><td class="ContentXSmall"><span id="ctl00_Label_Copywrite">© 2012 Proserve Technology, Inc</span></td></tr>        
+                        <tr><td class="ContentXSmall"><span id="ctl00_Label_Copywrite"></span></td></tr>        
                     </tbody></table>
                 </td></tr>
             </tbody></table>
@@ -298,14 +304,14 @@ Sys.Application.initialize();
 </form>
 
         <!-- For Google Analytics -->
-            <script type="text/javascript">
+        <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-            <script type="text/javascript">
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
             try {
-            var pageTracker = _gat._getTracker("UA-5780649-3");
-            pageTracker._trackPageview();
+            	var pageTracker = _gat._getTracker("UA-5780649-3");
+            	pageTracker._trackPageview();
             } catch(err) {}</script>
         <!-- End Google Analytics -->
     
