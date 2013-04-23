@@ -1,69 +1,114 @@
-> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421055208id_/http%3A//www.active-domain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423124739id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda) for the most accurate reproduction.*
 
-# Privacy statement for Active-Domain's domain registration services
+# Welcome to active-domain.com
 
-## Active-Domain - Privacy Statements
+[](https://privacy.truste.com/privacy-seal/Active-Domain-LLC/validation?validationId=52785705-0090-413d-b182-fd893b71fc1b&referer=active-domain.com)**Effective April 23, 2012**
 
-##### Information Collection and Use
+This privacy statement describes how **active-domain.com** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
 
-Active-Domain is the sole owner of the information collected on this site. We do not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collects information from our users at several different points on our website.
+[
 
-##### Registration
+## Tracking On This Site »
 
-In order to register domain names and access certain sections of this site, a user must complete a registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have purchased/subscribed. The types of personal information collected at these pages include but not limited to the following:
+](https://web.archive.org/web/20130423124739id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda#Tracking)
 
-Name  
-Address  
-Email Address  
-Phone Number  
-etc.
+This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20130423124739id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda#Tracking)**
 
-##### Order 
+* * *
 
-We request information from the user on our order form. Here a user must provide contact information (like name, contact number, and email address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+Active-Domain LLC
 
-##### Cookies
+15500 SW Jay St 
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+Beaverton, OR  97006
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+United States
 
-##### Log Files 
+Phone: 3212823935
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+ **TRUSTe Dispute Resolution**  
+If a TRUSTe client has violated its privacy agreement you can file a complaint with [TRUSTe Dispute Resolution »](http://www.truste.com/watchdog)
 
-##### Sharing
+  
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside credit card processing company to bill users for products and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+[](https://privacy.truste.com/privacy-seal/Active-Domain-LLC/validation?validationId=52785705-0090-413d-b182-fd893b71fc1b&referer=active-domain.com)
 
-##### Links
+ **Effective on April 23, 2012**
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This privacy statement describes how **Active-Domain LLC** collects and uses the personal information you provide on our Web site: [ active-domain.com](http://active-domain.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-##### Security 
+ **Active-Domain LLC** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@active-domain.com](mailto:support@active-domain.com). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+We collect the following personal information from you:
 
-When our registration/order form asks users to enter sensitive personal information, that information is encrypted through SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Mozilla Firefox or Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Unique Identifiers such as user name, account number, password
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our office. Only employees who need the information to perform a specific job (for example, our billing staff or a customer service representative) are granted access to personally identifiable information. Our employees are regularly notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
 
-##### Special Offers 
 
-We send all customers a confirmation email for every order completed and provide you username and password to access your domain name. Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Such request can be made by contacting our Sales Department at [ http://support.domainpanel.com](http://support.domainpanel.com/).
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-##### Site and Service Updates 
+ **We use this information to:**
 
-We also send the user site and service announcement updates. Customers are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess your needs to determine suitable products or services
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you marketing communications
+  * Respond to your questions and concerns
 
-##### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your address or phone number), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by contacting our Customer Support at [http://support.domainpanel.com](http://support.domainpanel.com/).
 
-##### Notification of Changes 
+ **Choice/Opt-Out**
 
-If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Customers will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@active-domain.com](mailto:support@active-domain.com).
 
- 
+We will share your information with third parties only in the ways that are described in this privacy statement.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may disclose your personal information
+
+  * as required by law, such as to comply with a subpoena, or similar legal process 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Active-Domain LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
+
+
+
+ _PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can contact us at [support@active-domain.com](mailto:support@active-domain.com)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party checkout option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party checkout option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@active-domain.com](mailto:support@active-domain.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+ **Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [support@active-domain.com](mailto:support@active-domain.com).
+
+ **Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Active-Domain LLC
+
+15500 SW Jay St 
+
+Beaverton, OR  97006
+
+United States
+
+Phone: 3212823935
