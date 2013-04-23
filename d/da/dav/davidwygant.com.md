@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidwygant.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601000037id_/http%3A//www.davidwygant.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidwygant.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423214959id_/http%3A//www.davidwygant.com/privacypolicy.html) for the most accurate reproduction.*
 
 # David Wygant - The Dating Expert that men and women trust most with their love lives
 
