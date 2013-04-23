@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125233139id_/https%3A//spreedly.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423193643id_/https%3A//spreedly.com/privacy) for the most accurate reproduction.*
 
-# Spreedly Privacy Policy - Spreedly
+# Spreedly Privacy Policy
 
 Spreedly collects e-mail addresses of people who send us e-mail. We also collect information on what pages users access and information provided to us by users via site registrations. Such information may contain personal data about you including your address, phone numbers, credit card numbers etc. We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing Spreedly services. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of Spreedly services is deemed to provide to us a valid consent to disclose the following:
 
@@ -32,4 +32,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Questions:
 
-Any questions about this Privacy Policy should be addressed to support@spreedly.com.
+Any questions about this Privacy Policy should be addressed to [support@spreedly.com](mailto:support@spreedly.com).
