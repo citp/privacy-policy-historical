@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111093515id_/http%3A//www.mycustomer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423155002id_/http%3A//www.mycustomer.com/privacy) for the most accurate reproduction.*
 
 # MyCustomer.com Privacy Policy
 
@@ -74,10 +74,11 @@ If you wish to restrict or block the cookies which are set by any Sift Media web
 
 **Cookie name** | **Purpose**  
 ---|---  
-SESS* (Example SESS1ca9a32632600b7812b98819fcf511d2) | Session cookie:  
+SESS*  
+(Example SESS1ca9a32632600b7812b98819fcf511d2) | Session cookie:  
 Assigned when you log in, this keeps you logged in to the site so you don’t have to constantly re-enter your username and password. This cookie is essential for site functionality and the user experience.  
 Drupal.tableDrag.showWeight, has_js | CMS settings:  
-Drupal (http://drupal.com/) is our content management system and sets these cookies to store user interface preferences.  
+Drupal (<http://drupal.com/>) is our content management system and sets these cookies to store user interface preferences.  
 __gads, admanager_session_cookie, gam_web_property, __ar_v4 | Primary ad server:  
 These cookies are responsible for, for example, displaying advertisements in a particular order or for showing particular ads to people in particular countries or locations.   
 __utma, __utmb, __utmc, __utmv, __utmz | Google analytics:  
@@ -101,7 +102,8 @@ This Website takes every precaution to protect our users' information. When user
 
 When our registration or order form asks users to enter sensitive information (such as a credit card number), all information is protected with 128-bit SSL (Secure Sockets Layer) encryption.
 
-If you have any questions about the security at our website, please contact: [member-services@MyCustomer.com](mailto:member-services@MyCustomer.com)
+If you have any questions about the security at our website, please contact:  
+[member-services@MyCustomer.com](mailto:member-services@MyCustomer.com)
 
 ### Correcting/updating your personal information
 
