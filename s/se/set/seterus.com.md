@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seterus.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212918id_/https%3A//seterus.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seterus.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424011234id_/https%3A//seterus.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Seterus, Inc. Privacy Policy
 
@@ -80,7 +80,10 @@ SPECIAL NOTICE FOR VERMONT RESIDENTS: We will not disclose your personal informa
   
 To view the Seterus Call Center's hours of operation, please visit our [Contact Us](http://www.seterus.com/Home/ContactUs) page.
 
-This communication is from a debt collector as we sometimes act as a debt collector. We are attempting to collect a debt and any information obtained will be used for that purpose, including any information you submit in the following process. However, if you are in bankruptcy or received a bankruptcy discharge of this debt, this letter is not an attempt to collect the debt, but notice of possible enforcement of our lien against the collateral property.  COLORADO:  FOR INFORMATION ABOUT THE COLORADO FAIR DEBT COLLECTION PRACTICES ACT, SEE [WWW.COLORADOATTORNEYGENERAL.GOV/CA](http://www.coloradoattorneygeneral.gov/CA). Seterus, Inc. maintains a local office at 355 Union Boulevard, Suite 302, Lakewood, CO 80228. The office’s phone number is 888.738.5576. NEW YORK CITY: 1331537, 1340663, 1340148. TENNESSEE: This collection agency is licensed by the Collection Service Board of the Department of Commerce and Insurance. Seterus, Inc. is licensed to do business at 14523 SW Millikan Way, Beaverton, OR.  
+Seterus, Inc. NMLS Servicer ID Number: 2315   
+More information can be found on NMLS Consumer Access at [ www.nmlsconsumeraccess.org. ](http://www.nmlsconsumeraccess.org/)
+
+This communication is from a debt collector as we sometimes act as a debt collector. We are attempting to collect a debt and any information obtained will be used for that purpose, including any information you submit in the following process. However, if you are in bankruptcy or received a bankruptcy discharge of this debt, this letter is not an attempt to collect the debt, but notice of possible enforcement of our lien against the collateral property.  COLORADO:  FOR INFORMATION ABOUT THE COLORADO FAIR DEBT COLLECTION PRACTICES ACT, SEE [WWW.COLORADOATTORNEYGENERAL.GOV/CA](http://www.coloradoattorneygeneral.gov/CA). Seterus, Inc. maintains a local office at 355 Union Boulevard, Suite 250, Lakewood, CO 80228. The office’s phone number is 888.738.5576. NEW YORK CITY: 1331537, 1340663, 1340148. TENNESSEE: This collection agency is licensed by the Collection Service Board of the Department of Commerce and Insurance. Seterus, Inc. is licensed to do business at 14523 SW Millikan Way, Beaverton, OR.  
   
 ---  
 **Special Notice Regarding Information Subject to the Fair Debt Collection Practices Act**  
