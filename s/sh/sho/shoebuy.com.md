@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003113423id_/http%3A//www.shoebuy.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423204013id_/http%3A//www.shoebuy.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoebuy.com - Free Shipping & Return Shipping
 
@@ -71,7 +71,7 @@ We may share aggregated, non-personal information in any of the above situations
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by clicking [here](https://web.archive.org/remove);
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by clicking [here](https://web.archive.org/info/remove);
   * To delete or decline [cookies](https://web.archive.org/info/privacy-info#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account;
   * Your California Privacy Rights. If you are a California resident, you may request that Shoebuy not share your personal information with IAC companies or other third parties for direct marketing purposes. Click [here](https://web.archive.org/info/privacy-more#cali) to learn how. 
