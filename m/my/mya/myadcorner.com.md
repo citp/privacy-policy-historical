@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadcorner.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227104213id_/http%3A//www.myadcorner.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadcorner.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423213227id_/http%3A//www.myadcorner.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # MyAdCorner.com - Book newspaper advertisement - Privacy Policy
 
@@ -52,7 +52,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 [ myadcorner.com](http://www.myadcorner.com/)  
 Adception Infotech Pvt. Ltd.  
-W-23, 2nd Floor, Sector - 11  
+C-55, Sector-8,   
 Noida, Uttar Pradesh   
 India - 201301  
 support@myadcorner.com  
