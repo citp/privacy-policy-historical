@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116032924id_/http%3A//www.sandiego.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423223543id_/http%3A//www.sandiego.org/privacy-policy.aspx) for the most accurate reproduction.*
 
-# San Diego Convention & Visitors Bureau Privacy Policy
+# San Diego Tourism Authority Privacy Policy
 
 ## Last modified: June 1, 2012
 
@@ -12,15 +12,15 @@
 
 
 
-This is the official web site of the **San Diego Convention & Visitors Bureau**, which serves as the official travel resource for the San Diego region. There are many ways to use our website. Leisure travelers, travel agents, and meeting planners alike can learn what there is to do in San Diego, plan a trip, sign up for e-newsletters, request travel guides and download images. 
+This is the official web site of the **San Diego Tourism Authority** , which serves as the official travel resource for the San Diego region. There are many ways to use our website. Leisure travelers, travel agents, and meeting planners alike can learn what there is to do in San Diego, plan a trip, sign up for e-newsletters, request travel guides and download images. 
 
 ### Research on our Website
 
-For each visitor to our website, our web server automatically recognizes only the consumer's domain. In addition to the domain, we aggregate information on the website pages visitors’ access, information volunteered by visitors such as email addresses, survey information, site registrations and itinerary information.
+For each visitor to our website, our web server automatically recognizes only the consumer's domain. In addition to the domain, we aggregate information on the website pages visitors' access, information volunteered by visitors such as email addresses, survey information, site registrations and itinerary information.
 
 We do use cookies to record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site.
 
-For example, our My Itinerary service requires you to create an account with us. When you do, we’ll ask for personal information, like your name, email address, or telephone number. If you want to book a hotel or make reservations online, we will require additional information such as your address and credit card number.
+For example, our My Itinerary service requires you to create an account with us. When you do, we'll ask for personal information, like your name, email address, or telephone number. If you want to book a hotel or make reservations online, we will require additional information such as your address and credit card number.
 
 ### How we use information we collect
 
@@ -72,4 +72,4 @@ If you feel that this site is not following its stated information policy, you m
 750 B Street, Suite 1500  
 San Diego, CA 92101
 
-We can be reached via e-mail at [sdinfo@sdcvb.org](mailto:sdinfo@sdcvb.org) or you can reach us by telephone at 619-236-1212.
+We can be reached via e-mail at [sdinfo@sandiego.org](mailto:sdinfo@sandiego.org) or you can reach us by telephone at 619.236.1212.
