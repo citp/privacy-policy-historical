@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027145327id_/http%3A//www.2carpros.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423142035id_/http%3A//www.2carpros.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Car Repair Questions Answered Free by Professional Mechanics Information
+# Privacy Policy
 
 **2CarPros.com Privacy Policy Information Page**
 
@@ -55,6 +55,5 @@ If you have any question or comments about 2CarPros please [contact us](http://w
   * [Repair Instructions](https://web.archive.org/section/how-to-repair-or-service)
   * [Repair Troubleshooting](https://web.archive.org/section/troubleshooting-problems)
   * [How Does it Work](https://web.archive.org/section/how-does-it-work)
-  * [Main Repair Menu](https://web.archive.org/information)
 
 
