@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018002227id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423110201id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
 
 # Connexity - Audience Discovery
 
@@ -52,7 +52,7 @@ Connexity complies with the EU and Swiss Safe Harbor framework as set forth by t
 
 ### Security
 
-We use commercially reasonable safeguards to preserve the integrity and security of all anonymous consumer OBA data. If you are a client of Connexity and you provide us with your contact or business information in order to conduct business with us as an advertiser or publisher, we use commercially reasonable safeguards to preserve the integrity and security of your information. We may share advertiser or publisher personal information when we believe such action is appropriate to comply with the law. Anyone who has provided personal contact information through this website may e-mail us to update, delete, and/or correct their personal contact information. 
+We use commercially reasonable safeguards to preserve the integrity and security of all anonymous consumer OBA data. If you are a client of Connexity and you provide us with your contact or business information in order to conduct business with us as an advertiser or publisher, we use commercially reasonable safeguards to preserve the integrity and security of your information. We may share advertiser or publisher personal information when we believe such action is appropriate to comply with the law. Anyone who has provided personal contact information through this website may e-mail us at [accounts@connexity](mailto:%20accounts@connexity.com) to update, delete, and/or correct their personal contact information. 
 
 ### Children's privacy
 
@@ -64,7 +64,7 @@ This Privacy Policy may change from time to time. In the event that we make mate
 
 ### Questions & Comments
 
-Connexity technology, and the way we use it, meets or exceeds all industry standards and legal requirements for protecting privacy online. Questions and comments about our privacy policy, OBA compliance or opt-out procedure should be directed to or mailed to: 
+Connexity technology, and the way we use it, meets or exceeds all industry standards and legal requirements for protecting privacy online. Questions and comments about our privacy policy, OBA compliance or opt-out procedure should be directed to [privacy@connexity](mailto:%20privacy@connexity.com) or mailed to: 
 
 Privacy Officer   
 Connexity Inc.   
