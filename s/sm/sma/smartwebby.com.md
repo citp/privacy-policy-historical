@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219133652id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423111504id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # SmartWebby.com Privacy Policy
+
+## Jandus Technologies information practices for SmartWebby.com
+
+## SmartWebby.com Privacy Policy
 
 Jandus Technologies is committed to preserving your privacy online when you use our website SmartWebby.com (this site - also referred to as SmartWebby). Details of our information practices are as follows.
 
@@ -52,4 +56,4 @@ If your personally identifiable information changes (such as zip code, phone, em
 
 ### Contact Information 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20121219133652id_/http%3A//www.smartwebby.com/contactus.asp) input form. 
+If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20130423111504id_/http%3A//www.smartwebby.com/contactus.asp) input form. 
