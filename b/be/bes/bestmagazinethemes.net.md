@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestmagazinethemes.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005942id_/http%3A//www.bestmagazinethemes.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmagazinethemes.net privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423100819id_/http%3A//bestwordpressmagazinethemes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Magazine Themes
+# Privacy Policy
 
 The privacy and security of our site visitors is our highest priority. It is the policy of Premium WordPress that personal information, such as your name, personal postal and email address, or personal telephone number is private and confidential. Because your privacy is important to us, Premium WordPress maintains privacy policies to protect your personal information.
 
