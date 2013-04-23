@@ -1,94 +1,62 @@
-> *The following text is extracted and transformed from the magentheme.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919210352id_/http%3A//www.magentheme.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magentheme.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423071403id_/http%3A//www.magentheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
+### 1\. Introduction
 
-This privacy policy sets out how Premium Magento Themes uses and protects any information that you give Premium Magento Themes when you use this website. Premium Magento Themes is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Premium Magento Themes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+9MagentoThemes is the ultimate name to compute with commitment and protection of our valued customers privacy. Your privacy is essentially important to us and we consider it as one of the most vital elements of our business and it´s success. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this web site. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
 
-## What we collect
+By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other web sites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
 
-We may collect the following information:
+### 2\. Types of Information Collected
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+We retain two types of information:
 
+_Personal Data  
+_
 
+This is data that identifies you or can be used to identify or contact you and may include your name, address, email address, user IP addresses in circumstances where they have not been deleted, clipped or anonymised, and telephone number. Such information is only collected from you if you voluntarily submit it to us.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section. 
+_Non-Personal Data  
+_
 
-## What we do with the information we gather
+Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+### 3\. Purposes for which we hold your Information
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+_Non-Personal Data  
+_
 
+We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organize our website.
 
+_Cookies  
+_
 
-## Security
+A cookie is a piece of data stored on the user’s computer tied to information about the user. We don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, We have no access to or control over these cookies, once We have given permission for them to set cookies for advertising.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+_Personal Data  
+_
 
-## How we use cookies
+We will process any Personal Data you provide to us for the following purposes:
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+a) to provide you with information you have requested;  
+b) to contact you if required in connection with your query or to respond to any communications you might send to us;  
+c) to send you the 9MagentoThemes Newsletter or Event Alerts.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+### 4\. Disclosure of Information to Third Parties
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
 
-## Links to other websites
+We will not disclose your Personal Data to third parties unless you have consented to this disclosure or unless the third party is required to fullfil your order (in such circumstances, the third party is bound by similar data protection requirements. We will disclose your Personal Data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+### 5\. Links
 
-## Controlling your personal information
+This Web site contains links to other sites. Please be aware that We are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+### 6\. How To Contact Us
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@9magentothemes.com 
+Should you have other questions or concerns about these privacy policies, please contact us **support(at)9MagentoThemes.com**
 
+### 7\. Changes to the Website Privacy Policy
 
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 402 17T3 Trung Hoa - Nhan Chinh Ha Noi Viet Nam. 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-## List of cookies we collect
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.   
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
