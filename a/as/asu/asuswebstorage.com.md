@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asuswebstorage.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812024420id_/http%3A//www.asuswebstorage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asuswebstorage.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424005255id_/https%3A//service.asuswebstorage.com/privacy) for the most accurate reproduction.*
 
-# Welcome To ASUS WebStorage
+# Online backup, file sync, for pad, PC, Android and iPhone - ASUS WebStorage
 
 #### Policy of acquiring personal data 
 
@@ -33,11 +33,11 @@ In order to protect users' privacy, we do not provide any service to inquire the
 
 #### Policy of Sending Commercial Information or Email:
 
-You acknowledge and agree that ASUS WebStorage may send you commercially-related materials or emails. ASUS WebStorage will provide instructions and contacts on how to stop receiving these materials or emails. 
+You acknowledge and agree that ASUS WebStorage and ASUSTeK Computer Inc. may send you commercially-related materials or emails. ASUS WebStorage and ASUSTeK Computer Inc. will provide instructions and contacts on how to stop receiving these materials or emails.
 
 #### Amendment of Privacy Protection Policy
 
-You acknowledge and agree that our Privacy Protection Policy is subject to change without notice. Official notification will be released on our website ([www.asuswebstorage.com](http://www.asuswebstorage.com/)) whenever there is major amendment for our policy of utilizing personal data. 
+You acknowledge and agree that our Privacy Protection Policy is subject to change without notice. Official notification will be released on our website ([www.asuswebstorage.com](https://www.asuswebstorage.com/)) whenever there is major amendment for our policy of utilizing personal data. 
 
 #### Consultancy on Privacy Protection Policy
 
