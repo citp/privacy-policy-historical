@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017060936id_/http%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424001619id_/http%3A//privacyrights.org/policy.htm) for the most accurate reproduction.*
 
 # PRC's Privacy Policy | Privacy Rights Clearinghouse
 
@@ -60,7 +60,11 @@ You may also choose to receive our emails in _Plain Text format_. In this case, 
 
 You can unsubscribe from the mailing list at any time.  Look for the "Safe Unsubscribe" link at the bottom of the emails sent through Topica or call us at 619-298-3396.
 
- **When You Call or Email Us**
+**When You Make a Donation**
+
+When you donate by mail, we ask you to print and fill out a [PDF mail-in donation form](https://www.privacyrights.org/sites/privacyrights.org/files/u22/PRC-Contribution-Form.pdf "PRC donation form").  The form asks for your name, mailing address, and optional phone number.  We use your information to send you a receipt and thank you letter.  We store any hard copies of information you send in a locked cabinet in our office.
+
+**When You Call or Email Us**
 
 We invite emails and phone calls from individuals who have privacy-related complaints or questions. We maintain records of the types of inquiries we get so that we can identify emerging privacy issues that need further research or possible legislation.
 
