@@ -1,27 +1,27 @@
-<!--The following is the downloaded HTML source of the advisorone.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004071541id_/http%3A//www.advisorone.com/pages/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advisorone.com privacy policy that was archived on 2013-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423103315id_/http%3A//www.advisorone.com/pages/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <script async="" src="http://www.google-analytics.com/ga.js"></script><script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>    
 
-  <link rel="stylesheet" href="/_assets/css/all.css.113.php" media="all">
-  <!--[if IE]><link rel="stylesheet" href="/_assets/css/ie.113.css" media="all" /><![endif]-->
-
-    
-
+  <link rel="stylesheet" href="/_assets/css/all.css.174.php" media="all">
+  <!--[if IE]><link rel="stylesheet" href="/_assets/css/ie.174.css" media="all" /><![endif]-->
+  
+    <link rel="stylesheet" media="all" href="http://auth.sbmcloud.com//_assets/css/popups.css">
+  
   <script>
    //OAS Set-up
    (function() {
      var url = 'http://ads.advisorone.com/RealMedia/ads/adstream_mjx.ads/',
        pagetag = 'www.advisorone.com/' + 'pages/privacy-policy.php',
-       listpos = 'x67,x63,x66,Top,Right1,Middle1,Right2,Bottom,Position1,Position2,Middle2,x79,Left3',
+       listpos = 'x54,x52,x72,Top,Right1,Middle1,Right2,Bottom,Position1,Position2,Middle2,x79',
        query = '',
        rns = (Math.random() + "").substring(2, 11);
      document.write('<script src="' + url + pagetag + '/1' + rns + '@' + listpos + '?' + query + '"><\/script>');
    })();
-</script><script src="http://ads.advisorone.com/RealMedia/ads/adstream_mjx.ads/www.advisorone.com/pages/privacy-policy.php/1630914270@x67,x63,x66,Top,Right1,Middle1,Right2,Bottom,Position1,Position2,Middle2,x79,Left3?"></script>
+</script><script src="http://ads.advisorone.com/RealMedia/ads/adstream_mjx.ads/www.advisorone.com/pages/privacy-policy.php/1716329810@x54,x52,x72,Top,Right1,Middle1,Right2,Bottom,Position1,Position2,Middle2,x79?"></script>
     
   <title>Privacy Policy | AdvisorOne</title>
   <meta name="description" content="Privacy statement that explains the procedures followed by Summit Business Media.">
@@ -32,8 +32,10 @@
     
   
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script>!window.jQuery && document.write('<script src="http://publish.advisorone.com/_assets/js/lib/jquery-1.7.2.min.js"><\/script>')</script><script src="http://publish.advisorone.com/_assets/js/lib/jquery-1.7.2.min.js"></script>  <script src="http://publish.advisorone.com/_assets/js/plugins/jquery.pubsub.min.js"></script>
-  
+<script>!window.jQuery && document.write('<script src="http://publish.advisorone.com/_assets/js/lib/jquery-1.7.2.min.js"><\/script>')</script><script src="http://publish.advisorone.com/_assets/js/lib/jquery-1.7.2.min.js"></script>  <script src="/publish/_assets/js/plugins/jquery.pubsub.min.js"></script>
+  <script src="/publish/vendor/bootstrap/js/bootstrap.js"></script>
+
+
     
   
   <script> 
@@ -57,33 +59,49 @@
 <body id="" class="">
 
 
+<div class="modal-screen"><iframe src="javascript:false"></iframe></div>
+
+
+
 
 <div id="skin-container">
+  
+    
 
   <div id="outer-wrapper"> 
     <div id="header-wrap"> 
-      <div id="topbar" class="clearfix"> 
-        <ul> 
-          <li><a href="/investment-advisor">Investment Advisor</a><span></span></li> 
-          <li><a href="/research-magazine">Research Magazine</a><span></span></li>
-           
+      
+      <div id="topbar" class="clearfix">
+        <ul id="signup-signin" class="ghost">
+          <li class="sign-up">
+            <!--<a href="javascript:;" onclick="sbmedia.auth.api.formType='short';sbmedia.auth.api.lodaSignUpForm()">Sign Up</a><span class="divider"></span>-->
+            <a href="/enewsletters?ref=nav">Sign Up</a><span class="divider"></span>
+          </li>
+          <li class="log-in"><a href="javascript:;" onclick="sbmedia.auth.api.formType='short';sbmedia.auth.view.loadLoginForm()">Log In</a><span class="divider"></span></li>
+          <li class="social-log-in">Log in with:</li>
         </ul>
-        <div id="top-signup">
-          <div class="dropdown"><span>SIGN UP <em>+</em></span>
-            <div id="signup-promo">
-              <a href="/eNewsletters?source=AdvisorOneSignUpDropdown" class="signup-enl"></a>
-              <a href="/pages/subscribe.php" class="signup-mag"></a>
-            </div>
-          </div>
-        </div>
-  		<!-- /signup --> 
-  	  <span class="divider"></span>	
-        <ul class="follow-us">
+        
+        <ul id="loggedin" class="ghost">
+          <li class="welcome">Welcome <span id="userFirstName"></span> 
+          </li>
+          <li><img id="imgUserPhoto" src="/_assets/images/user-pic.jpg"></li>
+          <li id="gigya-part"><div class="follow-us" id="socialContainer"></div></li>
+          <li class="log-out"><span class="divider"></span><a href="javascript:;" onclick="sbmedia.auth.api.logout()">Log Out</a><span class="divider"></span></li>
+          <li class="my-account"><a href="/account/">My Account</a><span class="divider"></span></li>
+        </ul>
+        <!-- <span class="divider"></span>-->
+        
+        <!-- Gigya header icons 
+        <div class="follow-us" id="socialContainer"></div>-->
+
+        <!--<ul class="follow-us">
           <li><a href="http://www.twitter.com/AdvisorOne" class="twitter">Twitter</a></li>
-          <li><a href="http://www.facebook.com/#!/pages/AdvisorOne/126204847427048?v=wall&amp;ref=ts" class="facebook" target="_blank">Facebook</a></li>
-          <li><a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3337864" class="linkedin" target="_blank">LinkedIn</a></li>
+          <li><a href="http://www.facebook.com/#!/pages/AdvisorOne/126204847427048?v=wall&ref=ts" class="facebook" target="_blank">Facebook</a></li>
+          <li><a href="http://www.linkedin.com/groups?mostPopular=&gid=3337864" class="linkedin" target="_blank">LinkedIn</a></li>
           <li><a href="/pages/rss.php" class="rss">RSS</a></li>
-        </ul>      
+        </ul>      -->
+        <!-- Gigya header icons -->
+        
         <div id="search">
           <form action="/search" method="get" id="searchForm">
             <fieldset>
@@ -94,15 +112,21 @@
         </div>
         <!-- /search -->
       </div> 
-      <!-- /topbar -->  
+      <!-- /topbar --> 
+
+
       <div id="header" class="clearfix"> 
         <div id="logo"> 
           <a href="/" title="Advisor One">AdvisorOne</a> 
         </div> 
         <!-- /logo -->            
         <div id="leaderboard-top" class="ad-unit"> 
-          <script>OAS_RICH('Top');</script>
-        </div> 
+          <script>OAS_RICH('Top');</script>        </div> 
+        <!-- fix nationwide expandable 2013.03.19 -->
+        <script>
+        $(document).ready(function() { $('div#leaderboard-top div#creative_1362421751218_0 div').css('z-index', 1000) });
+        </script>
+        <!-- end fix nationwide expandable 2013.03.19 -->
         <!-- /leaderboard-top --> 
       </div> 
       <!-- /header --> 
@@ -115,13 +139,13 @@
           <ul>
             <li><a href="/news?ref=nav"><span>News</span></a></li>
             <li><a href="/top-wealth-managers?ref=nav"><span>Top Wealth Managers</span></a></li>
-            <li><a href="http://resourcelibrary.advisorone.com"><span>Resource Library</span></a></li>
+            <li><a href="/offers?ref=nav"><span>Resource Library</span></a></li>
             <li><a href="/fact-sheets?ref=nav"><span>Fact Sheets</span></a></li>
             <li><a href="/pages/investing-guides.php?ref=nav"><span>Investing Guides</span></a></li>
             <li><a href="/video?ref=nav">Video</a></li>
             <li><a href="/pages/directories.php?ref=nav"><span>Directories</span></a></li>
             <li><a href="/webseminars?ref=nav"><span>Web Seminars</span></a></li>
-            <li><a href="/pages/job-center.php?ref=nav"><span>Job Center</span></a></li>
+            <li><a href="/events?ref=nav"><span>Events</span></a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -195,6 +219,13 @@
         <li>
           <a href="/enewsletters?ref=nav">eNewsletters</a>
         </li>
+        <li class="dropdown">
+          <a href="/pages/subscribe.php?ref=nav">Magazines</a>
+          <ul>
+            <li><a href="/investment-advisor?ref=nav"><span>Investment Advisor</span></a></li>
+            <li><a href="/research-magazine?ref=nav"><span>Research Magazine</span></a></li>
+          </ul>
+        </li>
       </ul>
     </div>
 
@@ -204,97 +235,8 @@
     <!-- /header-wrap -->
     
     <div id="content" class="clearfix">
-      <!--
-      <div id="pushdown-wrapper" style="background: #fff; margin: -10px 0 10px;">
-              </div>
-      -->
-
-      <!--  2012 MorningStar ETF Invest Conference Homapage PushDown-->
-      <style>
-  #etf-invest {width:940px; background:#fbfbfb; border: #aaaaaa solid 1px; border-top: none; margin: -10px 0 10px; margin-right:auto; margin-left:auto; position:relative;}
-    #etf-invest a {color:#3E72AE; text-decoration: none; font-weight: bold;}
-    #etf-invest a:hover {text-decoration: underline;}
-    #etf-invest h2 {color:#f68026; text-transform: uppercase; font-style: italic; font-size: 12px;}
-
-  #etf-invest-top-bar {background: url('/_assets/images/conference-coverage-home-header.113.png') no-repeat transparent; height:50px; color: #ffffff;}  
-  #etf-invest-top-bar h1 {padding:11px; font-family: arial,sans-serif;}  
- 
- #etf-invest-content {padding-bottom:32px;}
-  #etf-invest-left-side {width:605px; float:left; margin-left:16px; margin-top: 11px;}
-    #etf-invest-left-side div {margin:9px 0;}
-    #etf-invest-left-side h3 {font-size:18px; color:#3E72AE; font-family: arial,sans-serif; text-decoration: none; margin-bottom:4px;}
-    #etf-invest-left-side a {text-decoration: none;}
-
-    #etf-invest #view-all {text-align: center;}
-    #etf-invest #view-all a {display:block; background:url('/_assets/images/view-all-coverage-button.113.png') no-repeat top left transparent; width:286px; height:49px; margin-top:9px;}
-    #etf-invest #view-all a:hover {background-position: 0 -49px;}
-
-  #etf-invest-right-side {width:286px; float:right; margin-right:16px; margin-top: 11px;}
-    #etf-invest-right-side #blog-section {height:130px; margin-top: 9px; margin-bottom: 55px; padding-left:105px; background:url('/_assets/images/etf-invest-coverage-thumb.113.png') no-repeat top left transparent;}
-    #etf-invest-right-side #blog-section p {font-size:13px;}
-    #etf-invest-right-side #blog-section .link-holder {font-weight:bold; color:#333333;}
-
-  #etf-invest-bottom-bar {width:100%; clear:both; text-align: right;}
-    #etf-invest-bottom-bar div {width:70px; height:20px; text-align: center; position: absolute; bottom:0; right:0; cursor:pointer;}
-    #etf-invest-bottom-bar div a {margin:4px 12px; padding-right:18px; font-size: 11px; color:#ffffff; text-transform: uppercase; }
-    #etf-invest-bottom-bar div a:hover {text-decoration: none; }
-
-
-</style>
-<div id="etf-invest" class="clearfix">
-  
-  <div id="etf-invest-top-bar"></div>
-    
-    <div id="etf-invest-content" class="clearfix">    
-      <div id="etf-invest-left-side">
-        <h2>Latest ETF News</h2>
-                 <div>
-          <a href="/2012/10/02/currency-manager-axel-merk-talks-money-as-inflatio?ref=pushdown"><h3>Currency Manager Axel Merk Talks Money as Inflation Hedge</h3></a>
-           “It’s still an asset class investors are not sufficiently looking at,” says Merk, president and CIO of Merck Investments.        </div>
-                 <div>
-          <a href="/2012/10/02/vanguard-to-switch-indexes-on-22-funds?ref=pushdown"><h3>Vanguard to Switch Indexes on 22 Funds</h3></a>
-           The new benchmarks, to take effect in 2013, will impact more than $530 billion in client assets.        </div>
-                 <div>
-          <a href="/2012/10/01/morningstar-etf-conference-to-bring-thought-leader?ref=pushdown"><h3>Morningstar ETF Conference to Bring Thought Leaders to Chicago</h3></a>
-           Now in its third year, Morningstar ETF Invest 2012 will bring thought leaders together for events that focus on where the rapidly expanding ETF market is headed.        </div>
-        	</div>
-<!-- left-side -->
-      <div id="etf-invest-right-side">
-        <h2>Live Blog</h2>    
-          <div id="blog-section">
- 			 			<a href="/2012/10/03/morningstar-etf-invest-live-blog-day-1-applied-str?ref=pushdown">Morningstar ETF Invest Live Blog, Day 1: Applied Strategies, Schwab’s Sonders</a>
-            <p>Preconference kicks off with applied ETF investing strategies; Schwab’s LizAnn Sonders keynotes conference opener later in day.</p>
-                      </div>
-          <div id="view-all"><a href="/pages/morningstar-etf-invest-2012.php?ref=pushdown"></a></div>
-      </div> <!-- right-side -->
-    </div>
-
-    <div id="etf-invest-bottom-bar" class="clearfix">
-      <div>
-        <img id="etf-invest-close" src="/_assets/images/btn-close.113.png">
-        <img id="etf-invest-open" src="/_assets/images/btn-expand.113.png">
-      </div>
-    </div>
-</div>
-<script>
-  $('#etf-invest-close').hide();
-  $('#etf-invest-content').hide();
-
-  $('#etf-invest-close').click(function() {
-    $('#etf-invest-content').slideUp();
-    $('#etf-invest-close').hide();
-    $('#etf-invest-open').show();
-  });
-
-  $('#etf-invest-open').click(function() {
-    $('#etf-invest-content').slideDown();
-    $('#etf-invest-close').show();
-    $('#etf-invest-open').hide();
-  });
-
-
-  
-</script>
+    	<div id="pushdown-wrapper" style="background: #fff; margin: -10px 0 10px;">
+        	<script>OAS_RICH('Position2');</script>				</div>
             
       <div id="content-main" class="clearfix ">
     
@@ -403,114 +345,155 @@
 </div>
 <!-- /content-main -->
   
-<div id="sidebar-right" class="sidebar">
-      
-	  <div id="rectangle-1" class="ad-rectangle ad-unit">
-    <script>OAS_RICH('Right1');</script>  </div><!-- /rectangle-1 -->
+<div id="sidebar-right" class="sidebar">    
+      <div id="rectangle-1" class="ad-rectangle ad-unit">
+      <script>OAS_RICH('Right1');</script>    </div><!-- /rectangle-1 -->
 
-  
-<style>
-  .eventhub-sponsor { border-top: 1px solid #ccc; padding: 10px 0 0; font-size: 11px; }
-  .eventhub-sponsor .left { }
-  .eventhub-sponsor .right { float: right; margin-left: 10px; }
-</style>
-
+    
 <div id="trending">
-    <div class="inner-wrap">
-      <ul id="trending-tabs" class="tabs-nav">
-        <li><a href="#tabs-eventhub" id="tab-eventhub">Morningstar ETF Invest 2012</a></li>
-        <li><a href="#tabs-mostpop" id="tab-mostpop">Popular</a></li>
-        <!-- <li><a href="#tabs-trending" id="tab-trending">Trending</a></li> -->
-      </ul>
-      <div class="tabs-body">
-        <div id="tabs-eventhub" class="tabs-panel">
-          <ul>
-                      <li><a href="/2012/10/02/currency-manager-axel-merk-talks-money-as-inflatio">Currency Manager Axel Merk Talks Money as Inflation Hedge</a></li>
-                        <li><a href="/2012/10/02/vanguard-to-switch-indexes-on-22-funds">Vanguard to Switch Indexes on 22 Funds</a></li>
-                        <li><a href="/2012/10/01/morningstar-etf-conference-to-bring-thought-leader">Morningstar ETF Conference to Bring Thought Leaders to Chicago</a></li>
-                        <li><a href="/2012/09/25/alternatives-go-mainstream">Alternatives Go Mainstream</a></li>
-                        <li><a href="/2012/09/25/the-future-of-actively-managed-etfs">The Future of Actively Managed ETFs</a></li>
-                      </ul>
-          <p><em><a href="/tag/morningstar-etf-invest-2012">View More »</a></em></p>
-          <div class="eventhub-sponsor">
-            <span class="right">
-              <script>OAS_RICH('Left3');</script>
-
-             <!-- <a href="https://personal.vanguard.com/us/CorporatePortal"><img src="/_assets/images/vanguard_logo_88x31.png" alt="Vanguard" /></a>
-              -->
-             </span>
-            <span class="left">Morningstar ETF Invest 2012 coverage sponsored by:</span>
-          </div>
-        </div>
-        <div id="tabs-mostpop" class="tabs-panel">
-          <ol>
-                      <li><a href="/2012/10/01/6-apps-to-keep-you-organized">6 Apps to Keep You Organized</a> <!-- 20397 --></li>
-                        <li><a href="/2012/10/02/top-5-annuity-trends-to-watch-in-2012-and-2013">Top 5 Annuity Trends to Watch in 2012 and 2013</a> <!-- 5112 --></li>
-                        <li><a href="/2012/09/24/top-5-fiscal-cliff-tips-for-advisors-fi360">Top 5 Fiscal Cliff Tips for Advisors: Fi360</a> <!-- 4681 --></li>
-                        <li><a href="/2012/10/03/6-big-product-flops-that-companies-survived">6 Big Product Flops That Companies Survived</a> <!-- 4572 --></li>
-                        <li><a href="/2012/09/25/bill-gross-vs-the-equity-cult">Bill Gross vs. the Equity Cult</a> <!-- 4509 --></li>
-                      </ol>
-        </div>
-        <!--
-        <div id="tabs-trending" class="tabs-panel">
-          <ol>
-                        <li><a href="/term/food">food</a></li>
-                        <li><a href="/term/fpa">FPA</a></li>
-                        <li><a href="/term/paul-auslander">Paul Auslander</a></li>
-                        <li><a href="/term/marv-tuttle">Marv Tuttle</a></li>
-                        <li><a href="/term/european-union">European Union</a></li>
-                        <li><a href="/term/investment-banking">investment banking</a></li>
-                        <li><a href="/term/investment-banking-operations">investment banking operations</a></li>
-                        <li><a href="/term/lauren-schadle">Lauren Schadle</a></li>
-                        <li><a href="/term/michael-branham">Michael Branham</a></li>
-                      </ol>
-        </div>
-      -->
+  <div class="inner-wrap">
+    <ul id="trending-tabs" class="tabs-nav">
+            <li><a href="#tabs-mostpop" id="tab-mostpop">Popular</a></li>
+      <li><a href="#tabs-trending" id="tab-trending">Trending</a></li>
+    </ul>
+    <div class="tabs-body">
+            <div id="tabs-mostpop" class="tabs-panel">
+        <ol>
+                  <li><a href="/2013/04/18/15-best-investing-quotes-of-all-time">15 Best Investing Quotes of All Time</a> <!-- 30801 --></li>
+                    <li><a href="/2013/04/15/6-bad-athlete-charities">6 Bad Athlete Charities</a> <!-- 8122 --></li>
+                    <li><a href="/2013/04/22/8-most-least-bullish-big-cities">8 Most &amp; Least Bullish Big Cities</a> <!-- 3984 --></li>
+                    <li><a href="/2013/04/02/top-10-richest-colleges-for-2012the-biggest-endowm">Top 10 Richest Colleges for 2012—The Biggest Endowments</a> <!-- 3295 --></li>
+                    <li><a href="/2013/04/01/7-all-star-tax-experts-7-crisis-tested-strategies">7 All-Star Tax Experts: 7 Crisis-Tested Strategies</a> <!-- 2442 --></li>
+                  </ol>
+      </div>
+	    <div id="tabs-trending" class="tabs-panel">
+        <ol>
+                      <li><a href="/term/arizona">Arizona</a></li>
+                      <li><a href="/term/north-american-securities-administrators-associati">North American Securities Administrators Association</a></li>
+                      <li><a href="/term/financial-products">financial products</a></li>
+                      <li><a href="/term/bain-co">Bain &amp; Co.</a></li>
+                      <li><a href="/term/barack-obama">Barack Obama</a></li>
+                      <li><a href="/term/behavioral-finance">behavioral finance</a></li>
+                      <li><a href="/term/carmen-reinhart">Carmen Reinhart</a></li>
+                      <li><a href="/term/cfp-board">CFP Board</a></li>
+                      <li><a href="/term/department-of-labor">Department of Labor</a></li>
+                  </ol>
       </div>
     </div>
   </div>
+</div>
   <!-- /trending -->
-  
-  <div class="ad-300x100 ad-unit">
-    <script>OAS_RICH('Middle2');</script>  </div>
-  <!-- /small-rectangle-1 -->
-
-  <div id="microsites-side">
-    <h4>Sponsor Showcase</h4>
+    
+          <div class="ad-300x100 ad-unit">
+        <script>OAS_RICH('Middle2');</script>      </div>
+      <!-- /small-rectangle-1 -->
+    
+    
+    
+      <div id="microsites-side">
+      <h4>Sponsor Showcase</h4>
+      <div class="inner"></div>
+    </div>
+    
+  <div id="event-side">
+  	<h4>Event Spotlight</h4>
     <div class="inner">
-        <h3>Transitions</h3>
-      
-        <div><a href="http://www.advisorone.com/microsites/transitions/"><img src="/_assets/images/microsites-pershing.png" title="Risk Exposure Management"></a><p> TRANSITIONS offers practical articles, tools and access to industry experts to explore all the major decisions a financial advisor needs to consider.</p> <p class="site-link"><a href="http://www.advisorone.com/microsites/transitions/">Learn More Now »</a></p></div>
+    	<a href="http://www.risymposium.com?utm_source=aonesite&amp;utm_medium=sidebar&amp;utm_campaign=RIS13"><img border="0" src="/_assets/images/ris-sidebar-logo.png"></a>
+    	<p><a href="http://www.risymposium.com?utm_source=aonesite&amp;utm_medium=sidebar&amp;utm_campaign=RIS13">Retirement Income Symposium</a><br>
+				October 10-11, 2013<br>
+				Hyatt Regency, Boston, MA
+      </p>
+      <p>The symposium provides practical, innovative solutions to current industry challenges and provides advisors clear, actionable strategies that they can utilize to address their clients' needs.</p>
+      <a href="http://www.risymposium.com?utm_source=aonesite&amp;utm_medium=sidebar&amp;utm_campaign=RIS13"><img border="0" src="/_assets/images/risymposium-event-register-now.png" class="event-button"></a>
     </div>
   </div>
 
-  
-    
-  <div class="ml-widget">
-    <h2><a href="http://resourcelibrary.advisorone.com">Resource Library</a></h2>
-    <script type="text/javascript" src="http://jsc.madisonlogic.com/jsc?pub=441&amp;pgr=844&amp;src=10121&amp;layrf=6466&amp;num=3"></script>
-  </div>
-  <!-- /ml-widget -->
+          <!-- Resource Center-->
+<div class="block clearfix" id="resource-center">
 
+<h2>Resource Library</h2>
+
+  <a class="view-all" href="/offers">View All »</a>
+
+  <a class="scrollable-btn scrollable-prev prev"></a>
+  <a class="scrollable-btn scrollable-next next"></a>
+  
+  <div class="scrollable">   
+    <div class="items">
+            <div>
+                  <a href="/offers/52fe5c83afe91c47891930c46c32db2c"><img src="http://beta.leadsight.advisorone.com/images/b/e9/e990d9a3a5ce6439258d371a6aceb8c4.gif"></a>
+          <h3><a href="/offers/52fe5c83afe91c47891930c46c32db2c">The Best of Both Worlds with Century Securities</a></h3>
+          <p>Our independent affiliates enjoy the freedom to make important choices and the professional resources of...</p>
+              </div>
+            <div>
+                  <a href="/offers/8769f93e61bb238eea6a15ee082fc8ff"><img src="http://beta.leadsight.advisorone.com/images/b/26/263973bde7337b2027acb7d7d91a69f8.jpg"></a>
+          <h3><a href="/offers/8769f93e61bb238eea6a15ee082fc8ff">Build a Scalable Foundation for Growing Your Advisory Practice</a></h3>
+          <p>This advice is based on industry research and the practical observations of other advisors who...</p>
+              </div>
+            <div>
+                  <a href="/offers/ef2c34582701088052a643590a98a878"><img src="http://beta.leadsight.advisorone.com/images/b/68/68b17fd19985c24119160d5c6f9eff4a.gif"></a>
+          <h3><a href="/offers/ef2c34582701088052a643590a98a878">Complimentary Informational Brochure on Ameritas Life and Annuities</a></h3>
+          <p>Ameritas Advisor Services can give you the tools you need to help your clients with...</p>
+              </div>
+            <div>
+                  <a href="/offers/e1fca0f1fdb22686ddd7561a6b94a110"><img src="http://beta.leadsight.advisorone.com/images/b/90/909374d2291808276bd1afc710465ea3.jpg"></a>
+          <h3><a href="/offers/e1fca0f1fdb22686ddd7561a6b94a110">Working Smarter: Engaging Prospects And Clients Through Social Media</a></h3>
+          <p>For financial advisors, social media represents a powerful addition to traditional marketing and networking activities....</p>
+              </div>
+            <div>
+                  <a href="/offers/c75dd150ed3f99da1d18aa0df849050a"><img src="http://beta.leadsight.advisorone.com/images/b/e9/e9810e1457c5ed3f466c36d1d0fdb285.gif"></a>
+          <h3><a href="/offers/c75dd150ed3f99da1d18aa0df849050a">Complimentary Copy of "Winning Advantage: The Financial Advisor Playbook for...</a></h3>
+          <p>Find out the four crucial steps you need to follow to choose the right technology...</p>
+              </div>
+            <div>
+                  <a href="/offers/7a8ee127fee6eaa514b8f3c9a6f33988"><img src="http://beta.leadsight.advisorone.com/images/b/f2/f2aa3868a0d3dbfb6f02409648c97248.gif"></a>
+          <h3><a href="/offers/7a8ee127fee6eaa514b8f3c9a6f33988">Complimentary White Paper: "Alternative Investments in the Mainstream "</a></h3>
+          <p>In this white paper you will learn how to earn more referrals and grow your...</p>
+              </div>
+            <div>
+                  <a href="/offers/b7940b7d063b71194b114f0f03555961"><img src="http://beta.leadsight.advisorone.com/images/b/55/555f2732676a9f2c4deb7b65f517956c.gif"></a>
+          <h3><a href="/offers/b7940b7d063b71194b114f0f03555961">Complimentary White Paper: "Define Your Independence: Building Your Future"</a></h3>
+          <p>It's time to take a closer look at new opportunities. Download this free white paper...</p>
+              </div>
+            <div>
+                  <a href="/offers/107b4dc4f34e7c130cc2a8371b4eec05"><img src="http://beta.leadsight.advisorone.com/images/b/76/7632cd00393b47de4f4731b7cedac011.jpg"></a>
+          <h3><a href="/offers/107b4dc4f34e7c130cc2a8371b4eec05">Complimentary White Paper: "Attracting and Retaining Female Clients"</a></h3>
+          <p>Learn how to earn more referrals and build stronger relationships with your female clients. Download...</p>
+              </div>
+            <div>
+                  <a href="/offers/798de0ca816e7c2e6fc413b273839800"><img src="http://beta.leadsight.advisorone.com/images/b/38/3805ed87282adb4972eebd7c50760ba8.jpg"></a>
+          <h3><a href="/offers/798de0ca816e7c2e6fc413b273839800">What Do Clients Really Think?</a></h3>
+          <p>A well-crafted survey can be a powerful, and valuable, two-way conversation with your clients. Download...</p>
+              </div>
+            <div>
+                  <a href="/offers/bcfd999ceaa7fba1717209ddbe11791e"><img src="http://beta.leadsight.advisorone.com/images/b/8b/8b51c5c6b5bd7baf737f4ebfc8dc1022.jpg"></a>
+          <h3><a href="/offers/bcfd999ceaa7fba1717209ddbe11791e">Gain Access to Our White Paper Library</a></h3>
+          <p>Our thought-leading white papers provide insight on key topics for managing your practice and serving...</p>
+              </div>
+          </div>
+  </div>
+
+</div>
+<!-- /Resource Center-->
+   
   <div id="hp-advisor-tools">
     <h2>Advisor Tools</h2>
     <div id="hp-advisor-tools-wrapper" class="clearfix">
       <div id="hp-advisor-tools-desc">
-		    <h3><a href="/pages/business-evaluator.php?ref=tools">Business Evaluator</a></h3>
-		    <p>The Business Evaluator tool is designed to educate advisors on career options. Get recommendations unique to your situation as the Business Evaluator intuitively guides you through exploring a change.</p>
-	    </div>
-	    <div id="hp-advisor-tools-img">
-	      <a href="/pages/business-evaluator.php?ref=tools"><img src="/_assets/images/screen-app.png" alt=""></a>
-	      <!--<p class="sponsored-by-text">Sponsored by <br><img src="/_assets/images/rj-logo.png" alt="" /></p>-->
-		    <p><a href="/pages/business-evaluator.php?ref=tools"><img src="/_assets/images/launch-button.png" alt=""></a></p>
-	    </div>
+        <h3><a href="/pages/business-evaluator.php?ref=tools">Business Evaluator</a></h3>
+        <p>The Business Evaluator tool is designed to educate advisors on career options. Get recommendations unique to your situation as the Business Evaluator intuitively guides you through exploring a change.</p>
+      </div>
+      <div id="hp-advisor-tools-img">
+        <a href="/pages/business-evaluator.php?ref=tools"><img src="/_assets/images/screen-app.png" alt=""></a>
+        <!--<p class="sponsored-by-text">Sponsored by <br><img src="/_assets/images/rj-logo.png" alt="" /></p>-->
+        <p><a href="/pages/business-evaluator.php?ref=tools"><img src="/_assets/images/launch-button.png" alt=""></a></p>
+      </div>
     </div>
   </div>
   <!-- /hp-advisor-tools -->
 
      
-   
-	
+      
   <div id="enl-shortform">
     <h4>eNewsletters</h4>
        
@@ -519,6 +502,7 @@
 	<form action="" method="post" id="enlShortform">
 		<fieldset>
 			<input type="hidden" name="enlList" id="enlList" value="daily_wire">
+			<input type="hidden" name="enlSource" id="enlSource" value="AdvisorOneShortForm">
 			<h5>Daily Wire eNewsletter</h5>
 			<p>AdvisorOne delivers all the news you need to stay on top of the industry in one concise format, including market updates, regulatory and company news - FREE. Sign up now</p>
 			<label>Email Address</label>
@@ -550,62 +534,67 @@
       <h2>Featured Topics</h2>
         <ul class="clearfix">
                     <li>
-                      <a href="/2012/10/01/wealthiest-americans-are-pleased-with-their-adviso?t=the-client">
-                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2012/10/01/HNWPrivateJet_MI-crop-215x144.JPG" alt="">
+                      <a href="/2013/04/22/hussman-when-barrons-poll-shows-exuberance-run-awa?t=economy-markets">
+                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2013/04/22/BarronsCover_42213_MI87-crop-215x144.jpg" alt="">
           		</a>
   	 	
-            <h5><a href="/topic/the-client">The Client</a></h5>
+            <h5><a href="/topic/economy-markets">Economy &amp; Markets</a></h5>
             
-            <p><a href="/2012/10/01/wealthiest-americans-are-pleased-with-their-adviso?t=the-client">Wealthiest Americans Are Pleased With Their Advisors</a></p>
+            <p><a href="/2013/04/22/hussman-when-barrons-poll-shows-exuberance-run-awa?t=economy-markets">Hussman: When Barron’s Poll Shows Exuberance, Run Away</a></p>
                       </li>
                     <li>
-                      <a href="/2012/10/01/fpa-leadership-describes-future-in-wake-of-tuttle?t=careers">
-                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2012/10/01/Tuttle_Marv_Podium_FPA2011_MI-crop-215x144.jpg" alt="">
+                      <a href="/2013/04/16/td-ameritrade-profits-rise-51-as-client-revenue-of?t=mutual-funds">
+                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2013/04/16/Tomczyk_Fred_TD_Conf12_MI-crop-215x144.jpg" alt="">
           		</a>
   	 	
-            <h5><a href="/topic/careers">Careers</a></h5>
+            <h5><a href="/topic/mutual-funds">Mutual Funds</a></h5>
             
-            <p><a href="/2012/10/01/fpa-leadership-describes-future-in-wake-of-tuttle?t=careers">FPA Leadership Describes Future in Wake of Tuttle Retirement</a></p>
+            <p><a href="/2013/04/16/td-ameritrade-profits-rise-51-as-client-revenue-of?t=mutual-funds">TD Ameritrade Profits Rise 5.1% as Client Revenue Offsets Fall in Trading</a></p>
                       </li>
                     <li>
-                      <a href="/2012/10/02/top-5-annuity-trends-to-watch-in-2012-and-2013?t=annuities">
-                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2012/10/02/Future_Window_MI-crop-215x144.jpg" alt="">
+                      <a href="/2013/04/19/rep-waters-reintroduces-sec-user-fees-bill?t=rias">
+                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2013/04/19/Magnifying_Glass_Eye_MI52-crop-215x144.jpg" alt="">
           		</a>
   	 	
-            <h5><a href="/topic/annuities">Annuities</a></h5>
+            <h5><a href="/topic/rias">RIAs</a></h5>
             
-            <p><a href="/2012/10/02/top-5-annuity-trends-to-watch-in-2012-and-2013?t=annuities">Top 5 Annuity Trends to Watch in 2012 and 2013</a></p>
+            <p><a href="/2013/04/19/rep-waters-reintroduces-sec-user-fees-bill?t=rias">Rep. Waters Reintroduces SEC User Fees Bill</a></p>
                       </li>
                     <li class="last">
-                      <a href="/2012/09/10/ing-helps-dc-advisors-rise-above-competition-in-ne?t=life-planning-ltc">
-                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2012/09/10/Businessman_Phone_Walk_MI-crop-215x144.jpg" alt="">
+                      <a href="/2013/04/18/morgan-stanley-beats-estimates-as-advisors-improve?t=wirehouses">
+                      <img class="main-image" src="http://media.advisorone.com/advisorone/article/2013/04/18/Gorman_James_TV_0412_AP_MI-crop-215x144.jpg" alt="">
           		</a>
   	 	
-            <h5><a href="/topic/life-planning-ltc">Life Planning &amp; LTC</a></h5>
+            <h5><a href="/topic/wirehouses">Wirehouses</a></h5>
             
-            <p><a href="/2012/09/10/ing-helps-dc-advisors-rise-above-competition-in-ne?t=life-planning-ltc">ING Helps DC Advisors Rise Above Competition in New World of Fee Disclosure</a></p>
+            <p><a href="/2013/04/18/morgan-stanley-beats-estimates-as-advisors-improve?t=wirehouses">Morgan Stanley Beats Estimates as Advisors Improve Results</a></p>
                       </li>
                    
         </ul>  
+        
         <ul class="clearfix sponsor-row">
                     <li>
-                        <div class="sponsored-by">
+                                  <div class="sponsored-by">
               Sponsored by
-              <script>OAS_RICH('x67');</script>            </div>
-                      </li>
+              <script>OAS_RICH('x54');</script>            </div>
+                       
+          </li>
                     <li>
-                      </li>
-                    <li>
-                        <div class="sponsored-by">
+                                  <div class="sponsored-by">
               Sponsored by
-              <script>OAS_RICH('x63');</script>            </div>
-                      </li>
+              <script>OAS_RICH('x52');</script>            </div>
+                       
+          </li>
+                    <li>
+                                  <div class="sponsored-by">
+              Sponsored by
+              <script>OAS_RICH('x72');</script>            </div>
+                       
+          </li>
                     <li class="last">
-                        <div class="sponsored-by">
-              Sponsored by
-              <script>OAS_RICH('x66');</script>            </div>
-                      </li>
-                  </ul>  
+                                 
+          </li>
+                  </ul>
     </div>
     <!-- /featured-topics -->
     
@@ -630,15 +619,13 @@
         </div>
         <div class="group">
           <h6>Wealth</h6>
-          <ul>
+          <ul class="top-column">
             <li><a href="/wealth/Tax-Planning">Tax Planning</a></li>
             <li><a href="/wealth/The-Wealth-Manager">The Wealth Manager</a></li>
             <li><a href="/wealth/Estate-Planning">Estate Planning</a></li>
             <li><a href="/wealth/Philanthropy">Philanthropy</a></li>
             <li><a href="/wealth/Risk-Management">Risk Management</a></li>
           </ul>
-        </div>
-        <div class="group">
           <h6>Retirement</h6>
           <ul>
             <li><a href="/retirement/Income-Planning">Income Planning</a></li>
@@ -660,6 +647,15 @@
             <li><a href="/practice/Practice-Management">Practice Management</a></li>
             <li><a href="/practice/going-independent">Going Independent</a></li>
           </ul>
+        </div>
+        <div class="group">
+        	<h6>Event Spotlight</h6>
+          <a href="http://www.risymposium.com?utm_source=aonesite&amp;utm_medium=footer&amp;utm_campaign=RIS13"><img border="0" src="/_assets/images/ris-footer-logo.png"></a>
+          <p><a href="http://www.risymposium.com?utm_source=aonesite&amp;utm_medium=footer&amp;utm_campaign=RIS13">Retirement Income Symposium</a><br>
+				October 10-11, 2013<br>
+				Hyatt Regency, Boston, MA
+      </p>
+      <p>The symposium provides practical, innovative solutions to current industry challenges and provides advisors clear, actionable strategies that they can utilize to address their clients' needs.<br><a href="http://www.risymposium.com?utm_source=aonesite&amp;utm_medium=footer&amp;utm_campaign=RIS13">More About the Event »</a></p>
         </div>
         <div id="stay-connected">
           <ul>
@@ -691,7 +687,7 @@
       <div id="footer-logo">
         <a href="http://www.summitbusinessmedia.com" title="Summit Business Media" target="_blank"><img src="/op/sites/all/themes/advisorone/images/sbm-logo.png" alt="Summit Business Media"></a>
       </div>
-      <p id="copyright">© 2012 AdvisorOne, A <a href="http://www.summitbusinessmedia.com" title="Summit Business Media" target="_blank">Summit Business Media</a> Product</p>
+      <p id="copyright">© 2013 AdvisorOne, A <a href="http://www.summitbusinessmedia.com" title="Summit Business Media" target="_blank">Summit Business Media</a> Product</p>
       </div>
       <!-- /footer-inner  -->          
     </div> 
@@ -703,13 +699,28 @@
 <!-- /skin-container -->
 
 
-<script src="/_assets/js/all.js.113.php"></script>
+<script src="/_assets/js/all.js.174.php"></script>
+  <script src="http://cdn.gigya.com/JS/socialize.js?apikey=3_bgBN3YuK_1gDXFkh-sfeSOYj_h_iG7xXXEmcdb5VKHLueo-O9RxnAljnYyAIqwqK"></script>
+  <script src="http://auth.sbmcloud.com//_assets/js/place_holder.js"></script>
+  <script src="http://auth.sbmcloud.com//_assets/js/jquery.maskedinput.min.js"></script>
+  <script src="http://auth.sbmcloud.com//_assets/js/sbmedia.auth.api.js"></script>
+  <script src="http://auth.sbmcloud.com//_assets/js/sbmedia.auth.view.js"></script>
+<script>sbmedia.auth.api.allrequiredFields = 'firstname,lastname,jobtitle,company,phonenumber,fax,address,address2,city,state,zip';</script>
+<script>sbmedia.auth.api.apiURL = 'http://www.advisorone.com/account/api';</script>
 
 
 <script>
 _gaq.push(['_trackEvent', 'Delivered Topic', 'PageView', '/pages/privacy-policy.php']);
 </script>  
-  <div id="interstitial"><script>OAS_RICH('Position1');</script></div>
+  <div id="interstitial-container">
+    <div id="interstitial-header">
+      <p class="message">Advertisement. Closing in <span id="interstitialCountdown">15</span> seconds.</p>
+      <span class="close-btn"></span>
+    </div>
+    <div id="interstitial-content">
+      <script>OAS_RICH('Position1');</script>      
+    </div>
+  </div>
 
 
   <script>
@@ -730,8 +741,19 @@ _gaq.push(['_trackEvent', 'Delivered Topic', 'PageView', '/pages/privacy-policy.
     })();
   </script>
  
-  <!-- Omniture -->
-<script src="/_assets/js/s_code.min.js"></script>
+  <script>
+$.ajax({
+  url: location.protocol + '//munchkin.marketo.net/munchkin.js',
+  dataType: 'script',
+  cache: true,
+  success: function() {
+    Munchkin.init('637-UHL-226');
+  }
+});
+</script>
+
+<!-- Omniture -->
+<script src="/_assets/js/s_code.min.js?v=1"></script>
 
 <!-- Quantcast -->
 <script>
@@ -749,6 +771,89 @@ DD_belatedPNG.fix('#outer-wrapper, #logo a, #footer-logo img, #topbar a, .scroll
 </script>
 <!--#uber-footer li a-->  <!--[endif]---->
 
-  
+    
+  <script type="text/javascript">
+  $(function(){
+    $(document).ready(function(){
+      $.getJSON("/_assets/data/microsites.json",function(data){
+        $.each(data.microsites, function(i,data){
+          var div_data ="<h3><a href='"+data.site+"'>"+data.title+"</a></h3><div><a href='"+data.site+"'><img src='"+data.img+"' title='"+data.title+"'></a><p>"+data.site_description+"</p> <p class='site-link'><a href='"+data.site+"'>Learn More Now &raquo;</a></p></div>";
+      $(div_data).appendTo("#microsites-side .inner");
+
+      });
+    }
+  ); 
+
+      return false;
+
+    });
+
+  });
+$(window).load(function(){
+/*js magic -- jquery ui accordion */
+            var random_number = Math.floor(Math.random()*3);
+
+            $("#microsites-side .inner").accordion({
+              event: "click",
+              /*active: random_number,*/
+              autoHeight: false
+            });
+          });
+          
+          var cfg = ($.hoverintent = {
+            sensitivity: 7,
+            interval: 100
+          });
+
+          $.event.special.hoverintent = {
+            setup: function() {
+              $( this ).bind( "mouseover", jQuery.event.special.hoverintent.handler );
+            },
+            teardown: function() {
+              $( this ).unbind( "mouseover", jQuery.event.special.hoverintent.handler );
+            },
+            handler: function( event ) {
+              var self = this,
+                args = arguments,
+                target = $( event.target ),
+                cX, cY, pX, pY;
+              
+              function track( event ) {
+                cX = event.pageX;
+                cY = event.pageY;
+              };
+              pX = event.pageX;
+              pY = event.pageY;
+              function clear() {
+                target
+                  .unbind( "mousemove", track )
+                  .unbind( "mouseout", arguments.callee );
+                clearTimeout( timeout );
+              }
+              function handler() {
+                if ( ( Math.abs( pX - cX ) + Math.abs( pY - cY ) ) < cfg.sensitivity ) {
+                  clear();
+                  event.type = "hoverintent";
+                  // prevent accessing the original event since the new event
+                  // is fired asynchronously and the old event is no longer
+                  // usable (#6028)
+                  event.originalEvent = {};
+                  jQuery.event.handle.apply( self, args );
+                } else {
+                  pX = cX;
+                  pY = cY;
+                  timeout = setTimeout( handler, cfg.interval );
+                }
+              }
+              var timeout = setTimeout( handler, cfg.interval );
+              target.mousemove( track ).mouseout( clear );
+              return true;
+            }
+          };
+
+
+</script>
+
+
 
 <script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
