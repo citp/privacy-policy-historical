@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213033240id_/http%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423230141id_/http%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
 
-# j2ski.com - Privacy Policy
+# j2ski.com - Cookie Use and Privacy Policy
+
+## Your Use of J2Ski - Please Note
+
+By continuing to use J2Ski, you consent to the terms of our Privacy Policy - please at least read the summary below!
 
 ## Our Privacy Policy - No Nonsense Summary
 
@@ -46,6 +50,17 @@ We use "Cookies" (small files downloaded and maintained by your browser) to reco
 
 You can choose not to accept Cookies (i.e. to "opt out" of receiving them) by adjusting the Preferences in your browser. Refer to your browser's Help facility if you are unsure how to do this.
 
+### Cookies set by J2Ski
+
+Cookies that may be set on a visit to J2Ski include, but are not limited, to the following :- 
+
+Site| Cookie Names| Purpose  
+---|---|---  
+j2ski.com| j2skiVisitor, jforumUserId and JSESSIONID| Allow our web server to correctly maintain and log your session as you interact with our website.  
+j2ski.com| __utm| Set by Google Analytics to enable us to analyse our web traffic in a generic fashion, such that we can improve and enhance our content and navigation.  
+cdna.j2ski.com| Various| Associated with "frequency capping" by our ad server; to ensure that we don't display the same advert to you too often.  
+Others| Various| Additional cookies may be set as a result of adverts viewed on our site.  
+  
 ## Choosing not to receive information from us
 
 If you do not want to receive e-mail from us in the future, and / or wish to de-register from our forum, simply let us know by sending us e-mail at the above address.
