@@ -1,69 +1,66 @@
-> *The following text is extracted and transformed from the terradotta.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108184137id_/http%3A//www.terradotta.com/index.cfm%3FFuseAction%3DTerraDotta.Home%26Page_ID%3D32%26Selected%3DHome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terradotta.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423092511id_/http%3A//www.terradotta.com/privacy-policy.html) for the most accurate reproduction.*
 
-# TerraDotta Corporate Site - Privacy Policy
+# Terra Dotta - Privacy Policy
 
-**TERRA DOTTA PRIVACY STATEMENT**
+  
 
-Terra Dotta has created this privacy statement in order to demonstrate our firm commitment to privacy. This statement discloses our information gathering and dissemination practices for our publicly available website at www.terradotta.com or www.StudioAbroad.com (the "Public Site") and for our secure website at https://terradotta.com and/or https://StudioAbroad.com (the "Secure Site").  The Secure Site is available only to clients of Terra Dotta ("Clients") that have entered into an agreement ("Client Agreement") with Terra Dotta to provide educational/training software and services hosted by Terra Dotta. Nothing in this Privacy Statement modifies or adds terms to the Client Agreement.
 
-**Information Collected: Public Site [http://StudioAbroad.com and http://terradotta.com]**
+###  1\. STATEMENT.
 
-Visitors to the Public Site are not required to reveal any personally identifiable information to Terra Dotta.  Visitors to the Public Site who wish to receive information regarding Terra Dotta products or services must provide us with certain contact information including telephone and facsimile number, email address, information regarding number of employees and industry and contact address.  Terra Dotta collects and uses such information solely for purposes of contacting such visitor and delivering requested materials to such visitor.
+Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, Terra Dotta, LLC follows different principles in accordance with world-wide practices for customer privacy and data protection.
 
-**Secure Site**
+  * We will not sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.
+  * We will use state-of-the-art security measures to protect your information from unauthorized users.
 
-The Client is responsible for communicating to Terra Dotta which individuals have authorization to use the site with respect to Client-specific activities. Terra Dotta provides unique User ID's and initial passwords to users that allow for access to the Site. Users may modify their password, although information stored about Users may be available to administrators and managers at the Client, in the Client's discretion.  Our Client will provide certain personally identifiable information for its employees in connection with Client's use of the Terra Dotta' products or services.   Such information includes name, contact information, unique identifiers (such as employee ID), relationships (e.g., parent/child), and class enrollment information.  Terra Dotta may store this information on behalf of its Clients using computer systems located in the United States.
 
-Terra Dotta may record non-personally identifiable information such as Internet protocol (IP) addresses of a user's computer.  IP addresses are used to administer the site and track user's movement throughout the website. IP addresses are not linked to personally identifiable information. 
 
-Terra Dotta may use Client-side cookies to verify the login status of clients and users using products or services linked directly with our website. A cookie is a small piece of data that is sent to the user's individual's browser and stored on the user's computer hard drive.  Usage of a cookie is in no way linked to any personally identifiable information while on the Secure Site. 
+###  2\. NOTICE.
 
-Terra Dotta is not responsible for the privacy practices or the content of any other web sites to which we link. 
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you register on our site or when you fill out our contact form, download a product, sign-up for our newsletter or join a password-protected area of our site. We use your Personal Information to alert you to new products, special offers, updated information and other new services from Terra Dotta, LLC.
 
-**Notice and Choice**
+###  3\. CONSENT.
 
-**Public Site**
+If/When registration is available, you may choose not to register or provide personal information. You can still use most of terradotta.com. But you will not be able to access areas that require registration.
 
-A visitor to the Public Site is not required to reveal any personally identifiable information to Terra Dotta. 
+If/When registration is available, you may register to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Terra Dotta, LLC products, programs, events, or services, you may select the option stating that you do not wish to receive marketing messages from Terra Dotta, LLC.
 
-**Secure Site**
+If/When Terra Dotta, LLC allows other companies to offer our registered customers information about their products and services, you may select the option stating that you do not wish to receive marketing materials from third parties.
 
-Terra Dotta's Client will provide certain personally identifiable information regarding its employees and authorized users of the Secure Site.  Terra Dotta uses such personally identifiable information to provide the software or services for Client.  For example, information submitted to us may be made available to employees of Client managing this information for purposes of administering Client's software, services, or systems. We may also use your email address or phone (if provided by you) to contact you regarding service changes; system maintenance and outage issues; account issues; or to otherwise troubleshoot problems. Personally identifiable information is available to administrators and manages at the Client, in the Client's discretion. 
+###  4\. ACCESS
 
-**Disclosure to Third Parties; Onward transfer of Information**
+Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, Terra Dotta, LLC follows different principles in accordance with world-wide practices for customer privacy and data protection.
 
-**Public Site**
+  * View and edit personal information you have already given us.
+  * Tell us whether you want us to send you marketing information, or whether you want third parties to send you offers.
+  * Sign up for electronic newsletters about our services and products.
 
-Terra Dotta will not disclose any personally identifiable information provided by a visitor to the Public Site to a third party unless (i) the visitor has consented to such disclosure and (ii) to Terra Dotta knowledge, such third party demonstrates a commitment to the safe harbor principles issued by the United State Department of Commerce on March 15, 2000 with respect to the European Union Directive on Data Protection of Individuals with Regard to the Processing of Person Data and the Free Movement of such Data of 1998 _._
 
-**Private Site**
 
-Terra Dotta will not disclose individual personal information to third parties except as disclosed in this statement or as authorized in writing by Client. 
+###  5\. SECURITY.
 
-Aggregate information of Client data, not containing any personally identifiable information, may be provided to other clients of Terra Dotta or prospects or disclosed in marketing materials and other literature prepared by Terra Dotta for dissemination and distribution to third parties and the public.
+Terra Dotta, LLC has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-**Security and Data Integrity**
+We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you're utilizing a secure server software SSL, which encrypts your personal information before it's sent over the Internet. SSL is one of the safest encryption technologies available.
 
-Terra Dotta's web services use security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at a third-party hosting service provider.   Terra Dotta takes technical, contractual, administrative and physical steps to protect against unauthorized access to and disclosure of personally identifiable information.  All confidential or proprietary information belonging to Terra Dotta or its Clients is handled in confidence and may not be disclosed to unauthorized third parties.
+Terra Dotta, LLC strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-When our application asks users to enter information, that information is encrypted and is protected with strong, 128-bit encryption software - SSL. While on a secure page you will see a key or lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer. On web pages that do not use SSL, the key icon will appear broken (Netscape Navigator) or the lock icon will appear open (Microsoft Internet Explorer). 
+Your personal information is never shared outside the company without your permission. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Terra Dotta, LLC, its subsidiaries, affiliates or agents are located.
 
-**Access; Correction/Updating Personal Information:**
+You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
 
-Users can modify previously provided information by using the online user profile page or by emailing our Client Support at [support@terradotta.com](mailto:support@terradotta.com).
+###  6\. NOTICE TO PARENTS.
 
-**Enforcement**
+Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
 
-Terra Dotta is committed to cooperating with applicable law enforcement authorities for any individual who believes his, her or its personally identifiable information has been used in violation of applicable laws or regulations.The United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against Terra Dotta regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy.
+The Terra Dotta, LLC site does not publish content that is targeted to children.
 
-**Updates to Privacy Statement**
+###  7\. WHAT WE DO WITH THE INFORMATION YOU SHARE.
 
-Terra Dotta may from time to time update this Data Privacy Statement by changing the Privacy Statement on the Terra Dotta website.
+When you provide us with your contact information, including your name and email address, we may use this information to send you updates about our site, questionnaires to measure your satisfaction with our service, and announcements about new and exciting services that we offer. When you order from us, we ask for your credit card number and billing address. We use this information only to bill you for the product(s) you order at that time. For your convenience, we do save billing information in case you want to order from us again, but we don't use this information without your permission.
 
-**Contacting the Web Site**
+We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, and answering customer questions about products or services. We only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with the Terra Dotta software or services, you can contact: 
+Terra Dotta, LLC will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Terra Dotta, LLC or the site; (b) protect and defend the rights or property of Terra Dotta, LLC and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Terra Dotta, LLC, its Web sites, or the public.
 
-Terra Dotta Client Support 
+  
 
-[**support@terradotta.com**](mailto:support@terradotta.com)
