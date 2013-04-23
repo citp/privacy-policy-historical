@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107220918id_/http%3A//www.stylistpick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424000126id_/http%3A//www.stylistpick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stylistpick
 
@@ -105,6 +105,7 @@ We may collect and process the following information about you:
   * Information you provide when you complete surveys, or enter promotions or competitions that we may, from time to time, run on our website for research purposes, if you choose to respond to, or participate in, them.
   * Details of your visits to our website including, but not limited to, traffic data, location data, and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.
   * Details of your visits to our pages or presences on social networking sites (whether you access them via our website or otherwise).
+  * Information you provide by accepting permissions via Facebook Connect and Stylistpick Styler (Facebook application)
 
 
 
@@ -113,6 +114,10 @@ Opting out of providing information
 You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services and you may not be able to continue to hold a member account.
 
 We may, from time to time, run referral programmes or similar initiatives, such as the Invite Your Friends scheme, that invites you to provide us with the contact details of someone who is known to you who may find our products or services to be of interest. By providing us with their details, you confirm that you have their permission to do so, and also that we may identify you to them as the friend who recommended them. You must not provide us with the details of anyone from whom you do not have such permission.
+
+You can also at any time request us to delete any Facebook information that we store by sending us an e-mail at [customerservices@stylistpick.com](mailto:customerservices@stylistpick.com).
+
+Your Facebook access token will expire after 60 days when you login again after this period our systems will then request permission for another access token.
 
 Your personal information and how we use it
 
