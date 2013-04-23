@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123084253id_/http%3A//www.cleaneatingmag.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423232445id_/http%3A//cleaneatingmag.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,6 @@ Your privacy is important to us. Robert Kennedy Publishing, it’s subsidiaries 
 [www.oxygenmag.com](http://www.oxygenmag.com/),  
 [www.americancurvesmag.com](http://www.americancurvesmag.com/),  
 [www.pickitkickit.com](http://www.pickitkickit.com/),  
-[www.maxfitmag.com](http://www.maxfitmag.com/),  
 [www.repsmag.com](http://www.repsmag.com/),  
 [www.shescrazyhesaliar.com](http://www.shescrazyhesaliar.com/),  
 [www.liveyoungwithjacklalanne.com](http://www.liveyoungwithjacklalanne.com/),  
@@ -148,7 +147,7 @@ Thank you!
 
 If you have any questions regarding our Privacy Policy, contact RKP here:
 
-RKP Privacy Policy   
+Robert Kennedy Publishing   
 400 Matheson Blvd W.   
 Mississauga, Ontario  
 L5R 3M1   
