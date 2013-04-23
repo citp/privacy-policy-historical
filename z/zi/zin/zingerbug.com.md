@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215075557id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423164108id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
@@ -23,11 +23,11 @@ Top Menu
   
 Popular Links Horizontal Menu
 
-**_Popular Links_   ** [Names](http://www.zingerbug.com/Comments/names/index.htm)  **  **[Backgrounds](http://www.zingerbug.com/backgrounds/index.htm) **    ** [ Layouts](http://www.zingerbug.com/layouts/index.htm) **    **[Chain Letters](http://www.zingerbug.com/Comments/chain_letters/)   [ Hot & Sexy](http://www.zingerbug.com/Comments/HotStuff/hotstuff_p1.htm)   [Happy Birthday](http://www.zingerbug.com/Comments/HappyBirthday/index.htm)   [ Days of the Week](http://www.zingerbug.com/Comments/Days/index.htm)  [Funny Stuff](http://www.zingerbug.com/Comments/funny/index.htm)   [Customizable](http://www.zingerbug.com/Comments/Customizable/index.htm)
+**_Popular Links_   ** [Names](http://www.zingerbug.com/Comments/names/index.htm)  **  **[Backgrounds](http://www.zingerbug.com/backgrounds/index.htm) **    ** [Chain Letters](http://www.zingerbug.com/Comments/chain_letters/)    [Happy Birthday](http://www.zingerbug.com/Comments/HappyBirthday/index.htm)   [ Days of the Week](http://www.zingerbug.com/Comments/Days/index.htm)  [Funny Stuff](http://www.zingerbug.com/Comments/funny/index.htm)   [Customizable](http://www.zingerbug.com/Comments/Customizable/index.htm)
 
 Upcoming Holidays Horizontal Menu
 
-_**Upcoming Holidays**_     [Hanukkah - 12/8-12/16](http://www.zingerbug.com/holidays/Hanukkah/index.htm)    [Winter](http://www.zingerbug.com/holidays/winter/index.htm)    [Christmas - 12/25](http://www.zingerbug.com/holidays/christmas/index.htm)    [ New Year's Eve & Day- 12/31-1/1](http://www.zingerbug.com/holidays/NewYear/index.htm)    [ Martin Luther King Jr. Day - 1/21](http://www.zingerbug.com/holidays/MLKDay/index.htm)  
+_**Upcoming Holidays**_     [ Spring](http://www.zingerbug.com/holidays/spring/index.htm)    [ Earth Day - 4/22](http://www.zingerbug.com/holidays/EarthDay/index.htm)   [  May Day - Beltane - 5/1](http://www.zingerbug.com/holidays/MayDay/index.htm)    [Cinco de Mayo - 5/5](http://www.zingerbug.com/holidays/CincoDeMayo/index.htm)    [Mother's Day - 5/12](http://www.zingerbug.com/holidays/MothersDay/index.htm)    [ Memorial Day - 5/27](http://www.zingerbug.com/holidays/MemorialDay/index.htm)  
   
 Bookmark Us! (Ctrl+D)  Top Menu
 
