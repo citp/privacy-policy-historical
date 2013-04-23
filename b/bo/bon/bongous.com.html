@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bongous.com privacy policy that was archived on 2012-07-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120730051658id_/https%3A//bongous.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bongous.com privacy policy that was archived on 2013-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423141044id_/https%3A//bongous.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
 <!--[if IE 9 ]> <link href="ie_only.css" rel="stylesheet" type="text/css"> <![endif]-->
 <!--[if IE 8 ]> <link href="ie8_only.css" rel="stylesheet" type="text/css"> <![endif]-->
 <!--[if IE 7 ]> <link href="ie7_only.css" rel="stylesheet" type="text/css"> <![endif]-->
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
   
@@ -39,8 +39,8 @@ function doLogin(){
         remen = "Y";
     }
 	var ipcli = ip_cliente;
-    var pass = encodeBase64($('#clave').val());
-    var user = encodeBase64($("#usuario").val());
+    var pass = $('#clave').val();
+    var user = $("#usuario").val();
     $.ajax({
         type: 'POST',
         url: '/tools/clients_ajax_funcs.php',
@@ -92,7 +92,7 @@ function sendPass(){
 		$.ajax({
             type: 'POST',
             url: '/tools/clients_ajax_funcs.php',
-            data: {cmd: 'sendPass', user:$("#usuario").val(), ipcli:ipcli},
+            data: {cmd: 'sendPass',  user:encodeBase64($("#usuario").val()), ipcli:ipcli},
 			success: function(response) {
 				var str  = response;
 				if(str=="ok"){
@@ -177,7 +177,7 @@ function openTracking(){
                             <table>
                                 <tbody><tr>
                                     <td>
-                                        <span id="clock">Jul 30, 1:16 AM</span>
+                                        <span id="clock">Apr 23, 10:10 AM</span>
                                     </td>
                                     <td>
                                         |
@@ -188,14 +188,14 @@ function openTracking(){
                                     <td>
                                         |
                                     </td>
-                                    <!--td>
-                                        <a id="_lpChatBtn" href="http://v.velaro.com/visitor/requestchat.aspx?siteid=9558&showwhen=inqueue" target="OnlineChatSoftware"  onclick="this.newWindow = window.open('http://c.velaro.com/visitor/requestchat.aspx?siteid=9558&showwhen=inqueue', 'OnlineChatSoftware', 'width=475,height=400,toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no');this.newWindow.focus();this.newWindow.opener=window;return false;" ></a>
+                                    <td>
+                                        <a href="https://bongous.com/about-bongo.php">About Us</a>
                                     </td>
                                     <td>
                                         |
-                                    </td-->
+                                    </td>
                                     <td>
-                                        <a href="https://bongous.com/about-bongo.php">About Us</a> &nbsp;&nbsp;
+                                        <a target="_blank" href="http://bongointernational.theresumator.com/">Careers</a> &nbsp;&nbsp;
                                     </td>
                                     <td>
                                         <div id="util-int">
@@ -314,13 +314,15 @@ function openTracking(){
 
                 </div> 
                 <div class="row">
-                    <ul style="width: 520px; margin-left: 9px; text-align: center; height: 30px; border-top:1px solid #e6e6d8;">
+                    <ul style="width: 540px; text-align: center; height: 30px; border-top:1px solid #e6e6d8;">
                         <li>
                             <table>
                                 <tbody><tr>
-                                    <td align="right" style="padding-right: 10px;"><a href="https://bongous.com/compare-international-ecommerce-solutions.php"><h3>COMPARE BUSINESS SOLUTIONS</h3></a></td>
+                                    <td align="left"><a style="padding-left:0;" href="https://bongous.com/global-ecommerce.php"><h3>COMPARE BUSINESS SOLUTIONS</h3></a></td>
                                     <td align="center"><h3>|</h3></td>
-                                    <td align="left" style="padding-left: 5px;"><a href="https://bongous.com/whitepapers.php" id="readWhite"><h3>READ WHITE PAPERS</h3></a></td>
+                                    <td align="left"><a style="padding-left:0;margin-right: 4px;" href="https://bongous.com/industry-partners.php"><h3>PARTNERS</h3></a></td>
+                                    <td align="center"><h3>|</h3></td>
+                                    <td align="left" style="padding-left: 10px;"><a style="padding-left:0;" href="https://bongous.com/whitepapers.php" id="readWhite"><h3>READ WHITE PAPERS</h3></a></td>
                                 </tr>
                             </tbody></table>
                         </li>
@@ -421,7 +423,7 @@ function openTracking(){
 
 <!--End Business Solutions!-->
 
-<!--Start Industry Partners!-->
+<!--Start GLOBAL ECOMMERCE PARTNERS!-->
 
 <div class="roundcorners" id="footerleft">
     <div id="footerlefthead">
@@ -431,14 +433,14 @@ function openTracking(){
         <h2 class="hours">
             3:30 AM - 11:00 PM EST Monday - Friday        </h2>
         <p class="hours">
-                Current Time at Bongo: July 30, 2012 1:16 AM        </p>
+                Current Time at Bongo: April 23, 2013 10:10 AM        </p>
     </div>
 </div>
-<!--End Industry Partners!-->
+<!--End GLOBAL ECOMMERCE PARTNERS!-->
 
-<!--Start Trusted Source!-->
+<!--Start Trusted International Solution!-->
 
-<div class="roundcorners" id="footerright"><div id="footerrighthead"><h2>Trusted Source</h2></div>
+<div class="roundcorners" id="footerright"><div id="footerrighthead"><h2>TRUSTED INTERNATIONAL SOLUTION</h2></div>
 <div id="footerrightbody">
 <table width="260" align="center" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -449,7 +451,7 @@ function openTracking(){
 </div></div>
 </div>
 
-<!--End Trusted Source!-->
+<!--End Trusted International Solution!-->
 
 </div>
 
@@ -661,9 +663,11 @@ $('#util-int').toggle(function() {
         $('#videoDemo').dialog({
             width: 685,
             height: 575,
-            title: title
+            title: title,
+            overflow: 'hidden'
         });
         $('#videoDemo').dialog('open');
+        $('#videoDemo').css("overflow", "hidden");
     }
 </script>
 <div id="util-regions">
@@ -730,6 +734,23 @@ $('#util-int').toggle(function() {
     /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<script type="text/javascript">
+adroll_adv_id = "MYJ2PULCBVANPI3PUXZ4Y3";
+adroll_pix_id = "PM7WJKP4LVGMLHM24I6H4V";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
 </script>
 <noscript>
     <div style="display:inline;">
