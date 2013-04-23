@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the geojitbnpparibas.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002235257id_/http%3A//geojitbnpparibas.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geojitbnpparibas.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423213911id_/http%3A//geojitbnpparibas.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Best online share trading site, Equity Derivatives, Share broking company.
 
-|  |  |   
----  
 |  | Privacy Policy |   
 ---|---|---  
 |  |  |   
@@ -72,12 +70,4 @@ We are committed to safeguard your personal information collected and handled by
   
 Geojit BNP Paribas reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to visit our website www.geojitbnpparibas.com periodically for contemporary information and changes.   
   
-|  |   
-|  [Sitemap](https://web.archive.org/Sitemap.aspx)       |       [Contact Us](https://web.archive.org/About-Us/Contact-Us.aspx)       |       [Careers](https://web.archive.org/About-Us/Career.aspx)       |        Feedback        |       [Disclaimer](https://web.archive.org/Disclaimer.aspx)       |       [Privacy Policy](https://web.archive.org/PrivacyPolicy.aspx)       |       Investor Grievance       |       Formats  
----  
-[](http://www.bseindia.com/)     |      [](http://www.nseindia.com/)     |     [](http://www.sebi.gov.in/)     |     [](http://www.cdslindia.com/)     |     [](http://www.nsdl.co.in/)     |     [](http://www.rbi.org.in/)    |     [](http://www.bnpparibas.co.in/en/home/default.asp)      |     [](http://www.euronext.com/trader/summarizedmarket/stocks-2549-EN-FR0003500008.html?selectedMep=1)     |     [](http://www.dowjones.com/)     |     [](http://deutsche-boerse.com/dbag/dispatch/en/isg/gdb_navigation/private_investors/20_Equities/20_Indices/10_DAX?module=InOverview_Index&wp=DE0008469008&wplist=DE0008469008&foldertype=_Index)     |     [](http://www.ftse.com/)     |     [](http://www.hsi.com.hk/)     |     [](http://www.idx.co.id/)  
-[](http://www.klse.com.my/website/bm)     |     [](http://www.nasdaq.com/)     |     [](http://www.nni.nikkei.co.jp/)     |     [](http://sm.krx.co.kr/webeng/)    |     [](http://www.straitstimes.com/)     |    [](http://www.standardandpoors.com/)  
-SEBI Regn. Nos:NSE: INE/INF/INB231337230      |      BSE (Cash): INB011337236     |      BSE (F&O): INF011337237      |      NSDL:IN-DP-NSDL-24-97  
-Portfolio Manager: INP000003203      |      CDSL Regn no: IN-DP-CDSL-648-2012     |      MetLife Licence no. 425493     |      MCX-SX Regn No. INE261337230  
-© 2009 Geojit BNP Paribas Financial Services Limited. All rights reserved.  
-Designed,Developed and Powered by [C-MOTS Infotech](http://www.cmots.com/) (ISO 9001:2008 certified)
+|  | 
