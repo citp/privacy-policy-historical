@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marathimatrimony.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015052923id_/http%3A//www.marathimatrimony.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathimatrimony.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423223103id_/http%3A//www.marathimatrimony.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Marathimatrimony
+# www.marathimatrimony.com
 
 BharatMatrimony.com is an online matrimonial portal endeavouring constantly to provide you with premium matrimonial services. This privacy statement is common to all the matrimonial sites operated under BharatMatrimony.com Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
 
