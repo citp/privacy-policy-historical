@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luckyshare.net privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122112303id_/http%3A//luckyshare.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyshare.net privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423083035id_/http%3A//luckyshare.net/privacypolicy) for the most accurate reproduction.*
 
 # LuckyShare - Privacy Policy
 
-Luckyshare.net is a provider of online file storage service. Your use of the [www.Luckyshare.net](http://luckyshare.net/) site is governed by Luckyshare Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
+Luckyshare.net is a provider of online file storage service. Your use of the [www.Luckyshare.net](http://luckyshare.net/) site is governed by LuckyShare Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
 Luckyshare.net ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.
 
@@ -70,4 +70,4 @@ Blog at our site is an area for communication where users can leave comments. If
 
 **Contact information**
 
-Should you have any questions or concerns regarding this Privacy Policy, please [contact us](mailto:support@luckyshare.net).
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](mailto:support@Luckyshare.net).
