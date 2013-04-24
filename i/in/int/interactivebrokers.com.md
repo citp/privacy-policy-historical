@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829212028id_/https%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424134624id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Statement
+
+## Interactive Brokers Group Privacy Statement
 
 The Interactive Brokers Group does not sell or license information about Interactive Brokers customers to third parties, nor do we sell customer lists or customer e-mail addresses to third-party marketers.
 
@@ -9,16 +11,9 @@ At IB, we understand that the confidentiality and security of the personal infor
 In order to provide brokerage services and in compliance with regulatory requirements, IB collects certain personal, non-public information from you. This includes information that you provide during the IB account application process (e.g., your name, e-mail address, telephone number, birth date, social security number, investment objectives, etc.), and acquired as a result of the transactions you conduct through the IB system. We safeguard the confidentiality of your information in a number of ways. For example:
 
   * We do not sell or license lists of our customers or the personal, non-public information that you provide to us.
-  
-
   * We restrict access to the personal, non-public information that you have shared with us to those IB employees, agents, and affiliates who need to know such information in connection with the services that IB provides to you.
-  
-
   * We maintain strict employment policies that prohibit employees who have access to your personal, non-public information from using or disclosing such information except for business purposes.
-  
-
-  * We take substantial precautions to safeguard your personal, nonpublic information. For example, the IB system can be accessed only by authorized IB personnel via valid user names and passwords. In addition, our Internet-based systems include security measures such as encryption and firewalls.   
-IB uses the personal, nonpublic information that we collect from you to service your account (e.g., to qualify you for trading the products and using the services available through the IB system and to execute and confirm your IB transactions). In doing so, we may share such information with our employees, agents, and affiliates.
+  * We take substantial precautions to safeguard your personal, nonpublic information. For example, the IB system can be accessed only by authorized IB personnel via valid user names and passwords. In addition, our Internet-based systems include security measures such as encryption and firewalls. 
 
 
 
@@ -26,4 +21,4 @@ IB also collects and uses information acquired from "cookies." "Cookies" are bit
 
 We do not disclose personal, nonpublic information to individuals or entities that are not affiliated with IB, except as provided by law. For example, among other reasons we may disclose or report such information: where necessary to authorize, effect, administer, or enforce transactions that you request or authorize; to maintain and administer your account; to provide you with account confirmations, statements and records; to maintain appropriate archival records; where we believe that disclosure is required by applicable law, rules or regulations; to cooperate with law enforcement or regulatory or self-regulatory organizations; to enforce our customer and other agreements; to meet our obligations, or to protect our rights and property.
 
-Finally, if you choose to subscribe to any of the Trader's Toolbox suite of third-party services that are provided through the IB website, we may disclose such information to the service providers as necessary for them to provide the services that you have requested. IB requires these service providers to enter into confidentiality agreements with IB that limit their use of the information that they receive. Such agreements prohibit the service provider from using IB customer information that they receive other than to carry out the purposes for which the information was disclosed. If you have any questions about these policies, please contact IB Customer Service through the IB website at the [Customer Service Contact Page](http://www.interactivebrokers.com/en/p.php?f=customerService&ib_entity=llc).
+Finally, if you choose to subscribe to any of the Trader's Toolbox suite of third-party services that are provided through the IB website, we may disclose such information to the service providers as necessary for them to provide the services that you have requested. IB requires these service providers to enter into confidentiality agreements with IB that limit their use of the information that they receive. Such agreements prohibit the service provider from using IB customer information that they receive other than to carry out the purposes for which the information was disclosed. If you have any questions about these policies, please contact IB Customer Service through the IB website at the [Customer Service Contact Page](https://web.archive.org/en/p.php?f=customerService&ib_entity=llc).
