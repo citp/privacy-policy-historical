@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paypoint.net privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105044632id_/http%3A//www.paypoint.net/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypoint.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424072701id_/http%3A//www.paypoint.net/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | PayPoint.net
 
-[Home](http://www.paypoint.net/ "Home") » [About Us](http://www.paypoint.net/about-us/ "About Us") » [Legal](http://www.paypoint.net/about-us/legal/ "Legal") » Privacy Policy
+[Home](https://www.paypoint.net/ "Home") » [About Us](https://www.paypoint.net/about-us/ "About Us") » [Legal](https://www.paypoint.net/about-us/legal/ "Legal") » Privacy Policy
 
 PayPoint.net may collect certain information about you in the course of your use of this website and in the course of correspondence with you. PayPoint.net takes privacy and security of your information seriously and will only use such personal information as set out in this privacy policy. By using this website and submitting your information to us you agree to us using your personal information in accordance with this policy.
 
@@ -59,7 +59,7 @@ These terms and conditions shall be governed by and construed in accordance with
 
 PayPoint.net has not reviewed, is not responsible for, and accepts no liability in respect of, any information or opinion contained on any other website.
 
-If you wish to purchase services from us you must comply with our [Acceptable Use Policy](http://www.paypoint.net/about-us/legal/acceptable-use-policy/)
+If you wish to purchase services from us you must comply with our [Acceptable Use Policy](https://www.paypoint.net/about-us/legal/acceptable-use-policy/)
 
 ## Cookies
 
@@ -71,7 +71,7 @@ Most web browsers accept cookies automatically, but you do not have to accept co
 
 ## PayPoint.net cookies and how to reject cookies?
 
-A list of the main cookies that PayPoint.net websites set (and what each is used for) together with ways to minimise the number of cookies you receive can be found at the PayPoint.net's [Cookie Policy](http://www.paypoint.net/about-us/legal/cookie-policy/) which includes guidance on how to reject cookies.
+A list of the main cookies that PayPoint.net websites set (and what each is used for) together with ways to minimise the number of cookies you receive can be found at the PayPoint.net's [Cookie Policy](https://www.paypoint.net/about-us/legal/cookie-policy/) which includes guidance on how to reject cookies.
 
 ## Third Party Cookies on PayPoint.net website
 
