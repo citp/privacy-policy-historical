@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123214010id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424021809id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,7 +46,7 @@ Cookies are pieces of data created when you visit a site and are stored in the c
 
 **Where cookies are used**
 
-See our [Cookies statement](https://web.archive.org/cookies.htm) for more information.
+See our [Cookies statement](http://www.leedsmet.ac.uk/cookies.htm) for more information.
 
 **Linking to other sites from the Leeds Met website**
 
