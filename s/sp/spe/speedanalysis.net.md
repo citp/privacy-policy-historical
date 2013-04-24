@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedanalysis.net privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129121357id_/http%3A//speedanalysis.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedanalysis.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424063224id_/http%3A//www.speedanalysis.net/privacy.php) for the most accurate reproduction.*
 
 # Speed Analysis | Privacy Policy
 
