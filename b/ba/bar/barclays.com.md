@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclays.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129132730id_/http%3A//group.barclays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclays.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424174226id_/http%3A//group.barclays.com/privacy-policy) for the most accurate reproduction.*
 
 # Barclays.com - Privacy policy
 
@@ -18,7 +18,7 @@ Barclays Privacy Principles
   * We will observe the rights granted to you under applicable privacy and data protection laws and will ensure that queries relating to privacy issues are promptly and transparently dealt with.
   * We will train our staff on their privacy obligations.
   * We will ensure we have appropriate physical and technological security measures to protect your information regardless of where it is held.
-  * We will ensure that when we outsource any processes we ensure the supplier has appropriate security measures in place and will contractually require them to comply with these Privacy Principles.
+  * We will ensure that when we outsource any processes, the supplier has appropriate security measures in place and will contractually require them to comply with these Privacy Principles.
   * We will ensure that suitable safeguards are in place before personal information is transferred to other countries.You are not required to provide any personal information on the public areas of this website. However, you may choose to do so by completing the forms on various pages of the site. We will only use the information you provide to us on these pages in order to process the relevant form. Please see the privacy wording on the relevant form for a more detailed explanation of how your information will be used.
 
 
