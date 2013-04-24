@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginoff.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004947id_/http%3A//www.virginoff.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginoff.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424041504id_/http%3A//www.alicewonderbang.com/legal/privacy.html) for the most accurate reproduction.*
 
 # 
 
