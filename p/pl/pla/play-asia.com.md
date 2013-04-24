@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006125857id_/http%3A//www.play-asia.com/paOS-00-3-privacy-49-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424123502id_/http%3A//www.play-asia.com/paOS-00-3-privacy-49-en.html) for the most accurate reproduction.*
 
 # Play-Asia.com Privacy Policy
 
@@ -39,7 +39,7 @@
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only in the events as described below: 
 
 > a. Agents:  
-> We employ other companies and individuals to perform functions on our behalf. Examples may include fulfilling orders, delivering packages, sending postal mail and E-Mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+> We employ other companies and individuals to perform functions on our behalf. Examples may include fulfilling orders, delivering packages, sending postal mail and E-Mail (For marketing purposes only. Customers have the option of unsubscribing from these newsletters by following the included unsubscribe link on the bottom of each email), removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
 
 > b. Business Transfers:  
 > As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. Your information may be passed to and used by the associated companies of Play-Asia.com or its successors in title. 
@@ -78,7 +78,20 @@ Our services are not available to children. If you are under 18, please do not s
 
 Our Web site may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. 
 
-**10\. Amendment**
+**10\. Contact**
+
+If you have question regarding our policy, you can contact us either through our customer service page [here](https://www.play-asia.com/paOScore/21.html) or
+
+Asia Entertainment Technology Ltd.  
+Unit A-D, 14/F  
+Block A, Wo Kee Hong Building,  
+585-609 Castle Peak Road,  
+Kwai Chung, N.T.  
+Hong Kong 
+
+Or by phone during office hours (Mo. - Fr. 10AM - 7PM) Tel.: +852 3145 0013 
+
+**11\. Amendment**
 
 We may amend this Privacy Policy from time to time so that it accurately reflects the regulatory environment and our own data collection and disclosures practices. All amended terms shall automatically be effective 3 days after they are posted on this Web site. You should check our Web site frequently to see recent changes. 
 
