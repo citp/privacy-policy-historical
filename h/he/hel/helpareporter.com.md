@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016091647id_/http%3A//www.helpareporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424022321id_/http%3A//www.helpareporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Help a Reporter Out
 
