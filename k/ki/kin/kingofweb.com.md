@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207233325id_/http%3A//kingofweb.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425001107id_/http%3A//kingofweb.com/pages/privacy) for the most accurate reproduction.*
 
 # King of the Web - Privacy
 
