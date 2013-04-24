@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bargainmatch.com privacy policy that was archived on 2012-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121021162812id_/http%3A//cb.bargainmatch.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bargainmatch.com privacy policy that was archived on 2013-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424192259id_/http%3A//cb.bargainmatch.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Privacy Policy</title> 
@@ -7,24 +7,9 @@
     <link rel="shortcut icon" href="/themes/bargainmatch/favicon.ico" type="image/x-icon">	
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
-<script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js" type="text/javascript"></script> 
-<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/themes/base/jquery-ui.css" type="text/css">
- 
-<script type="text/javascript" src="/js/zeroclipboard/ZeroClipboard.js"></script> 
-
 <!--[if lte IE 6]>
         <script type="text/javascript" src="/js/unitpngfix.js"></script>
 <![endif]-->
-
-<!--<script src="/js/jquery.smoothDivScroll-1.1-min.js" type="text/javascript"></script>--> 
-<!-- the CSS for Smooth Div Scroll --> 
-<link rel="Stylesheet" type="text/css" href="/themes/bargainmatch/scroll/smoothDivScroll.css">
-<script type="text/javascript">
-	$(function() {
-			/*$("div#makeMeScrollable").smoothDivScroll({ autoScroll: "onstart", autoScrollStep: 1, autoScrollInterval: 15, startAtElementId: "startAtMe", visibleHotSpots: "always", autoScrollDirection: "endlessloopright"});*/
-	});
-</script>	
 
 <script type="text/javascript" language="JavaScript">
 // This is the implementation of SimpleSwap
@@ -38,7 +23,6 @@
 //
 // http://jehiah.com/archive/simple-swap
 // 
-
 
 function SimpleSwap(el,which){
   el.src=el.getAttribute(which || "origsrc");
@@ -121,24 +105,13 @@ xmlhttp.open("GET","/store/livesearch/?q="+str,true);
 xmlhttp.send();
 }
 </script>
-
-
 <script src="//connect.facebook.net/en_US/all.js" type="text/javascript"></script>
 <script type="text/javascript">
-	FB.init({ 
-		appId: '188796747822387', 
-		cookie:true, 
-		status:true, 
-		xfbml:true			            
-	});
-	// Legacy IE hack to correct FB bug
-	FB.UIServer.setActiveNode = function(a,b){FB.UIServer._active[a.id]=b;} 
+	FB.init({appId: '188796747822387',cookie:true,status:true,xfbml:true});
 	function Logout(target) {
 		FB.getLoginStatus(function(response) {
-	    	//if (response.authResponse) {
 	    	if (response.status === 'connected') {
 				FB.logout(function(response) {
-					// user is now logged out
 					document.location.href = 'http://cb.bargainmatch.com/user/logout'+(target && typeof target == "string" ? '?target='+target : '');
 				});
 			} else {
@@ -159,40 +132,13 @@ xmlhttp.send();
 				});	
 		 	}
 		});
-	}	
-	/*function fblogin(){
-		FB.getLoginStatus(function(response) {
-		 	if (response.status === 'connected') {
-				FB.api('/me', function(user) {
-					if(user != null) {
-					  	var email = user.email;
-						if(email){
-							document.location.href = 'http://cb.bargainmatch.com/user/create/?email='+email+'&fbsignup=1';
-						}
-			   		}
-				});	
-		 	}
-		});	
-	}*/
-							FB.getLoginStatus(function(response) {		
-				if (response.authResponse) {
-					FB.api('/me', function(user) {
-						if(user != null) {
-							var email = user.email
-							if(email){
-								document.location.href = 'http://cb.bargainmatch.com/user/create/?email='+email+'&fbsignup=1&fbauto=1&target='+escape(document.location);
-							}
-						}
-					});
-				}
-			});
-			
-</script>
+	}
+	FBLogin(escape(document.location));
 	
-	
-<!--<script src="http://s7.addthis.com/js/300/addthis_widget.js#username=bargainmatch"></script>-->
 
- 
+</script>
+
+
 	<link href="http://cb.bargainmatch.com/themes/bargainmatch/bargainmatch.css" rel="stylesheet" type="text/css">	
 <style type="text/css">
 .pageHeaderBar { 
@@ -389,7 +335,7 @@ $('input.searchInputText').attr('placeholder','ex. Nikon D300 Digital SLR');
 <style type="text/css">.barCat{display:none !important;}.searchInputText{width:450px !important;}.fShipCal{width:60px;}
 .resultsTitle{display:inline !important; line-height:inherit !important;}.detailAction{width:165px !important;}</style>
 <div class="logoblock">
-<a href="/"><img border="0" width="265" height="57" class="logo" alt="Big Savings + Cash Back!" src="/themes/bargainmatch/BMatch_Halloween-animated.gif"></a>
+<a href="/"><img border="0" width="265" height="57" class="logo" alt="Big Savings + Cash Back!" src="/themes/bargainmatch/bargainmatch.png"></a>
 </div>
 
 	</div>
@@ -819,7 +765,7 @@ If you'd like us to update, correct or delete your PII that you have provided to
 		<br clear="all">
 	
 		<div id="footer"><div class="footercontainer">
-<div class="foot-col1">
+	<div class="foot-col1">
   
    <div class="foot-title">What is BargainMatch?</div>
    <div class="foot-content">It's very simple: stores pay us to send customers to their site, and we give you part of what we make. All you have to do is shop online at your favorite stores!</div>
@@ -839,32 +785,30 @@ If you'd like us to update, correct or delete your PII that you have provided to
   <div class="foot-content"><strong>Redeem:</strong> Get paid by check or PayPal once your minimum payment balance is met.</div>
 -->
 <div class="foot-content"><em>*$20 minimum balance required to request cash back.</em></div>
-</div>
-<div id="bmLinks">
-<ul>
-	<li><a href="http://cb.bargainmatch.com" class="fLink">Home</a></li>
-	
-	 
+</div>					<div id="bmLinks">
+		<ul>
+			<li><a href="http://cb.bargainmatch.com" class="fLink">Home</a></li>
 			 
-	<li><a href="http://cb.bargainmatch.com/faq" class="fLink">FAQ</a></li>
-	
-	 
-	
-	<li><a href="http://cb.bargainmatch.com/contact" class="fLink">Contact Us</a></li>
-	<li><a href="http://cb.bargainmatch.com/terms" class="fLink">Terms of Use</a></li>
-		<li><a href="/privacy" target="_top" class="fLink">Privacy</a></li>
-	</ul>
-</div>
+									 
+			<li><a href="http://cb.bargainmatch.com/faq" class="fLink">FAQ</a></li>
+		
+			 
+		
+			<li><a href="http://cb.bargainmatch.com/contact" class="fLink">Contact Us</a></li>
+			<li><a href="http://cb.bargainmatch.com/terms" class="fLink">Terms of Use</a></li>
+							<li><a href="/privacy" target="_top" class="fLink">Privacy</a></li>
+					</ul>
+	</div>
 
-<div id="bmCopy">
-	<style type="text/css">
+	<div id="bmCopy">
+					<style type="text/css">
 </style>
 <div>
 <script src="http://connect.facebook.net/en_US/all.js#appId=188796747822387&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/bargainmatch" send="true" width="330" show_faces="true" font="tahoma"></fb:like>
 </div>
 <!--<div class="logosmall"><img src="/themes/bargainmatch/bargainmatch_logo_sm.png" width="160" height="31" /></div>-->
 				<p>
-				All other products, services, and company names aretrademarks, registered trademarks or service marks of theirrespective owners. 
+				All other products, services, andcompany names are trademarks, registered trademarks or service marks of their respective owners.
 				Tax and shipping costs are estimates 
 				Please see the store's website for exact pricing.
 				<!--<br />Powered by <a href="http://www.inuvo.com/bargainmatch" target="_blank" class="fLink">BargainMatch</a>--></p>
@@ -893,21 +837,12 @@ var google_conversion_value = 0;
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/954691124/?value=0&amp;label=MAlzCOSo0AMQtNydxwM&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript>	
-</div>
+</noscript>			
+	</div>
 
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#username=bargainmatch"></script>
-
-
-<!-- Yahoo! Web Analytics - All rights reserved --> <script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"> </script> <script type="text/javascript"> var YWATracker = YWA.getTracker("10001532001145"); YWATracker.submit(); </script> <noscript>
- <div><img src="http://a.analytics.yahoo.com/p.pl?a=10001532001145&js=no" width="1" height="1" alt="" /></div> </noscript>
-<!-- End of Yahoo! Web Analytics Code -->
-
-<img src="http://i.simpli.fi/dpx?cid=17&amp;action=100&amp;segment=BM&amp;campaign_id=0" width="1" height="1">
-
-
-<script type="text/javascript">
- 
+			<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#username=bargainmatch"></script>
+	
+			<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-20348643-1']);
   _gaq.push(['_trackPageview']);
@@ -920,19 +855,9 @@ var google_conversion_value = 0;
  
 </script>
 
-<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1799.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1799.js"></script>
 
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-if(document.location.protocol!='https:')
-  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(5243,0.8,"www07");
-</script>
-<!-- ClickTale end of Bottom part -->
 
+	
 
 </div></div>
 	</div>
