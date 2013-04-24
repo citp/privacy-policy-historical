@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriassecret.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207233456id_/http%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriassecret.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424121355id_/http%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
 
 # Victoria's Secret Privacy & Security
 
@@ -79,23 +79,23 @@ We may enable you to navigate to third-party sites and services, or otherwise di
 
 Here's a partial list of the sites or content of these third parties:
 
-  1. #####  a.  Interactive Maps
+  1. #####  1\.  Interactive Maps
 
 We may facilitate easy access to the online maps of content providers like Google, Microsoft, and Yahoo! There you can get quick location, driving, and contact information for our stores.
 
-  2. #####  b.  Sweepstakes, Contests, and Survey Sites
+  2. #####  2\.  Sweepstakes, Contests, and Survey Sites
 
 We may rely on the expertise of third-party service providers to run sweepstakes, contests, and surveys. Navigation to these sites may be seamless so that it appears you're still in our Web site environment. In these cases, the third-party's privacy policy may apply to any personal information you provide in connection with the event. So please take note of who's running the event in question; and the terms, conditions, and policies that apply.
 
-  3. #####  c.  Social Networking or Other User-Generated-Content Sites, and Other Websites
+  3. #####  3\.  Social Networking or Other User-Generated-Content Sites, and Other Websites
 
 We may at times facilitate easy access to third-party sites, like social networking sites and other sites that host user-generated content. This may include easy click-through access or even "single sign-on" to these sites. The third-party's privacy policy applies to any personal information you provide at these sites.
 
-  4. #####  d.  The Angel Credit Card Site
+  4. #####  4\.  The Angel Credit Card Site
 
 We enable you to navigate easily to the site of World Financial Network Bank (WFNNB), where you can apply for the Angel card and pay invoices online. WFNNB issues and owns the Angel credit card accounts. When you apply online for an Angel credit card or pay your account online, you leave our site and interact directly with WFNNB. Any information you provide to WFNNB is subject to WFNNB's terms, conditions, and policies, including its privacy policy.
 
-  5. #####  e.  Third-Party Rewards or Membership Programs
+  5. #####  5\.  Third-Party Rewards or Membership Programs
 
 We may interact with certain unrelated companies that offer their customers memberships to participate in programs, which may include rewards for purchases from us. If you become a member of one of these programs or purchase something from us at this Web site through such a program, we may provide the company administering the membership program enough information about you or your purchase (like contact information, transaction date, transaction amount, and order number), to enable it to honor your membership. We are not responsible for the privacy practices of the companies sponsoring these membership programs. Their terms, conditions, and policies apply to any information that's provided to them to further their programs.
 
@@ -104,23 +104,23 @@ We may interact with certain unrelated companies that offer their customers memb
 
 Back To Top
 
-  1. #####  a.  Our Sister Brands
+  1. #####  1\.  Our Sister Brands
 
 We may also share the information described in this policy, like postal and email address, customer preferences, and purchase history within our corporate family so that our affiliates may market to you. Our affiliates include such brands as Bath & Body Works, Beauty Avenues, Inc., C.O. Bigelow, Henri Bendel, the La Senza family of brands, Mast Global, and Slatkin & Co..
 
-  2. #####  b.  Contractors
+  2. #####  2\.  Contractors
 
 We use third-party "back-office" contractors to help handle parts of our business because of their expertise, resources, or scale. They help us do things like fulfill orders, process payments, provide some customer service through chat features, monitor site activity, serve surveys and provide analysis from the surveys when combined with website use, maintain databases, administer and monitor emails,(e.g., from Victoria's Secret or Pink Nation), administer and send mobile messages (e.g., from Victoria's Secret or Pink Nation), serve ads on this and other Web sites as described above and provide consulting services. Contractors may also assist us in hosting microsites and mobile Web sites where you may provide personal information about you and others you know; and where they may observe information about you in the same way as described above (see What Personal Information Is Collected At Our Web Site, and How Is It Used?)
 
-  3. #####  c.  Other Marketers
+  3. #####  3\.  Other Marketers
 
 We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers on their products and services. If you don't want this information shared with these merchants and exchanges, please [**click here**](https://web.archive.org/CustomerService/QuickHelp/ContactUs/NonDisclosureOfPersonalInformation).
 
-  4. #####  d.  Law Enforcement and Emergency Response
+  4. #####  4\.  Law Enforcement and Emergency Response
 
 We may disclose specific information about our Web-site visitors if we have a good-faith belief that it's necessary or authorized under the law to protect our customers, the public, or our business.
 
-  5. #####  e.  Sale or Merger
+  5. #####  5\.  Sale or Merger
 
 In the event we sell or transfer all or a portion of our business assets, including a brand or line of business, consumer information may be one of the business assets that are transferred in connection with the transaction.
 
@@ -133,31 +133,31 @@ Back To Top
 
 ###  What choices do you have over how your information is used?
 
-  1. #####  a.  Email
+  1. #####  1\.  Email
 
 If you make an online purchase you may receive Victoria's Secret or Victoria's Secret Pink email. You may stop future delivery of these emails by following the removal instructions located at the bottom of each commercial email or by completing the [removal from e-mail form](http://ebm.cheetahmail.com/r/regf2?a=0&aid=477251442&email=&fp_redirected=1). If you have joined Pink Nation, you may receive Pink Nation email. If at any time you'd like to stop future delivery of Pink Nation email offers, simply follow the removal instructions located at the bottom of each Pink Nation message. Opting out of any of these emails will not stop operational or transactional messages such as email confirmations of your online orders, or customer service communications from the brand or line of business in question. We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your e-mail address with the specific third party in question. Please review their privacy policies to see how they treat your personal information.
 
-  2. #####  b.  Mobile Messaging
+  2. #####  2\.  Mobile Messaging
 
 If you've signed up for mobile text messaging offers (e.g., from Victoria's Secret or Pink Nation) but later decide you no longer wish to receive offers from one or both of these brands or lines of business, simply follow the opt-out instructions included in the mobile message.
 
-  3. #####  c.  Postal Mail: Catalogs
+  3. #####  3\.  Postal Mail: Catalogs
 
 If you'd like to specify your preferences for our catalogues (including or postal-mail offers), simply follow the instructions on each such catalogue, or dial 1-800-411-5116. To reduce postal mail [**click here**](https://web.archive.org/CustomerService/QuickHelp/ContactUs/ChangeOrReduceCatalogueMailings).
 
-  4. #####  d.  Victoria's Secret Pink Nation
+  4. #####  4\.  Victoria's Secret Pink Nation
 
 Please keep in mind that Pink Nation is a separate and stand-alone program, which you may join by visiting the Pink Nation Web site. Accordingly, your unsubscribe preferences for Victoria's Secret and Victoria's Secret Pink won't affect your Pink Nation preferences (and vice versa). Please specify those preferences separately.
 
-  5. #####  e.  Cookies, Clear Gifs, and Online Network Advertising
+  5. #####  5\.  Cookies, Clear Gifs, and Online Network Advertising
 
 You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser's instructions on how to block and clear cookies. Note that blocking cookies may not block the "first-party" cookies that are placed on your computer when you visit this site. By first-party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site, and enable us to deliver our ads on our Web sites and other Web sites. Otherwise, clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Web sites rely on their cookies to provide you with services or features that you have requested or expect. With respect to cookies used as part of a survey, if you do not want the use of cookies to associate survey responses with your behavior on the site, you can elect to not take the survey. If you want to opt out of the display of our online advertising, which appears on other Web sites, and which is based on the association of your online information with your offline information through interactions with us (purchase information, in particular), then please click the preference icon that may appear on such advertising. Additionally, if you want more information about online network advertising, in general, including access to some online network advertisers that allow you to designate your preferences, [click here](http://www.networkadvertising.org/choices/) (you'll then leave this site for a centrally managed online site where you may specify your preferences).
 
-  6. #####  f.  Other Marketers
+  6. #####  6\.  Other Marketers
 
 If you don't want your basic contact and purchase information shared with other marketers (other than our affiliates and our contractor/service providers), please [click here](https://web.archive.org/CustomerService/QuickHelp/ContactUs/NonDisclosureOfPersonalInformation).
 
-  7. #####  g.  Our Affiliates
+  7. #####  7\.  Our Affiliates
 
 If you don't want your contact and purchase information shared between our affiliates (such as Bath & Body Works), please call 1-800-411-5116 and request not to have your information shared.
 
@@ -190,6 +190,14 @@ Back To Top
 
 ###  Whom should you contact with questions or concerns?
 
+  1. #####  1\.  General inquiries
+
+If you have general questions about our Privacy Policy, please feel free to [contact us](https://web.archive.org/contact).
+
+  2. #####  2\.  Specific Questions about this Policy
+
+For specific questions, concerns, or complaints contact our Associate Vice President (AVP) of Legal and Compliance Services, who administers this policy. You may contact this person by letter or email at:
+
 AVP, Privacy  
 Legal & Compliance Services  
 Limited Brands, Inc.  
@@ -198,24 +206,16 @@ Columbus, OH 43230
 US  
 [generalcounsel@limitedbrands.com ](mailto:generalcounsel@limitedbrands.com)(ATTN: Privacy Matter)
 
+  3. #####  3\.  Safe Harbor Program
+
+Additionally, if you are an EU resident, and your matter is not resolved to your satisfaction through direct contact with our AVP, Privacy, you may contact the Direct Marketing Association (DMA). We utilize the DMA Safe Harbor Program as an independent dispute resolution mechanism to address any complaint EU residents may have regarding data privacy matters. You may contact the DMA by letter or email at:
+
 Safe Harbor Line  
 Direct Marketing Association  
 1615 L St., NW – Suite 1100  
 Washington, DC 20036  
 US  
 [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
-
-  1. #####  a.  General inquiries
-
-If you have general questions about our Privacy Policy, please feel free to [contact us](https://web.archive.org/contact).
-
-  2. #####  b.  Specific Questions about this Policy
-
-For specific questions, concerns, or complaints contact our Associate Vice President (AVP) of Legal and Compliance Services, who administers this policy. You may contact this person by letter or email at:
-
-  3. #####  c.  Safe Harbor Program
-
-Additionally, if you are an EU resident, and your matter is not resolved to your satisfaction through direct contact with our AVP, Privacy, you may contact the Direct Marketing Association (DMA). We utilize the DMA Safe Harbor Program as an independent dispute resolution mechanism to address any complaint EU residents may have regarding data privacy matters. You may contact the DMA by letter or email at:
 
 
 
@@ -226,7 +226,7 @@ Back To Top
 
 Please [click here](https://web.archive.org/PrivacySecurityRevision) to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about VictoriasSecret.com.
 
-This Privacy Statement is effective October 26, 2012
+This Privacy Statement is effective January 14, 2013
 
 Back To Top
   *[IP]: Internet Protocol
