@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freean.us privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108010428id_/http%3A//freean.us/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freean.us privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424081537id_/http%3A//freean.us/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
