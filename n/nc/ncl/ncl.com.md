@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215122908id_/http%3A//www2.ncl.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424163732id_/http%3A//www.ncl.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### LAST UPDATED: March 6, 2008
 
-This Privacy Policy ("Policy") applies to information received by NCL Corporation Ltd., its subsidiaries and affiliates (the "Company"). This notice describes our privacy policy ("Policy") with respect to data collected via [www.ncl.com](http://www.ncl.com/) and [www.ncl.co.uk](http://www.ncl.co.uk/) (together, the "Website") and elsewhere.
+This Privacy Policy ("Policy") applies to information received by NCL Corporation Ltd., its subsidiaries and affiliates (the "Company"). This notice describes our privacy policy ("Policy") with respect to data collected via [www.ncl.com](https://web.archive.org/) and [www.ncl.co.uk](http://www.ncl.co.uk/) (together, the "Website") and elsewhere.
 
 This Policy explains what information we collect about you and what we do with it. The Company reserves the right to revise this privacy policy at any time. We will notify you of any material changes to the Policy by posting the new Policy here and by changing the "Effective Date" at the top. You should periodically read this Policy to learn of any revisions.
 
