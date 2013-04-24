@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507163318id_/http%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424175617id_/http%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
+
+  
+
+
+**FREE SHIPPING on all orders over $30!***
 
 **
 
@@ -10,7 +15,7 @@
 
  **Last Revised September 6, 2006**
 
-**We at RitzPix have a firm commitment to safeguarding the privacy of our customers. This page will inform you about our information gathering and dissemination practices for RitzPix and all of our services, including our online imaging services at RitzPix.com (the "Service").** If you have questions or concerns regarding this statement, you should contact customerserv@ritzpix.com.
+**We at RitzPix have a firm commitment to safeguarding the privacy of our customers. This page will inform you about our information gathering and dissemination practices for RitzPix and all of our services, including our online imaging services at RitzPix.com (the "Service").** If you have questions or concerns regarding this statement, you should contact ritzpix@ritzcamera.com.
 
 RitzPix is also referred to in this Statement as "we" and "us". 
 
@@ -67,7 +72,7 @@ The Service provides you with the opportunity to opt-out of receiving newsletter
 If you want to review or change any information you previously provided to us, please go to the "My Account" section of the site.
 
 **De-Activating Your RitzPix Online Imaging Account**  
-If you want to de-activate your account with RitzPix, please send an email to customerserv@ritzpix.com with your request. Please note any service will be billed/refunded as agreed when you signed up. Please be sure to include the email address of the account you wish to de-activate. Your account will be de-activated and you will no longer receive communications from us; however, we will keep your account information in our database for record-keeping purposes only. 
+If you want to de-activate your account with RitzPix, please send an email to ritzpix@ritzcamera.com with your request. Please note any service will be billed/refunded as agreed when you signed up. Please be sure to include the email address of the account you wish to de-activate. Your account will be de-activated and you will no longer receive communications from us; however, we will keep your account information in our database for record-keeping purposes only. 
 
 **Security**  
 The Service has security measures in place to protect the loss, misuse and alteration of the information under our control. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Except as otherwise stated in this Privacy Statement, access to that data is limited to authorized RitzPix staff members and our hosting company only and is further restricted by password protection mechanisms. By default, all orders placed on our site are done on a secure server that encrypts all financial information through SSL. We will not store your credit card information in our database unless you explicitly instruct us to do so. 
@@ -78,7 +83,7 @@ The Service has security measures in place to protect the loss, misuse and alter
 This site may contain links to other sites. RitzPix is not responsible for the privacy practices or the content of such other Web sites. 
 
 **Contact information on privacy**  
-If you have any questions about this privacy statement, the practices of the Service, or your dealings with us, you can email your questions to [customerserv@ritzpix.com](mailto:customerserv@ritzpix.com).
+If you have any questions about this privacy statement, the practices of the Service, or your dealings with us, you can email your questions to [ritzpix@ritzcamera.com](mailto:ritzpix@ritzcamera.com).
 
   
 
@@ -149,7 +154,7 @@ A part of the Internet that links text, sound, and images in the form of Web pag
 
 Here at Ritzpix.com we want you to be happy and satisfied with the quality of our prints and products. If you are unhappy with your purchase, you may return it within _30 days_ for a refund or a redo.
 
-If a product doesn't meet your expectations, contact **Customer Service** at [customerserv@RitzPix.com](mailto:customerserv@RitzPix.com). 
+If a product doesn't meet your expectations, contact **Customer Service** at [ritzpix@ritzcamera.com](mailto:ritzpix@ritzcamera.com). 
 
 We do our best to send you the highest quality prints and products. Please keep in mind that we are not responsible for the following:  
 
@@ -165,10 +170,10 @@ We do our best to send you the highest quality prints and products. Please keep 
 
 **_Please ship Mail Order returns to:_** _
 
-ATTN: Ritzpix.com  
+ATTN: Customer Service  
 Ritz Camera & Image  
-6711 Ritz Way  
-Beltsville, MD 20705
+2 Bergen Turnpike  
+Ridgefield Park, NJ 07660
 
 _
 
