@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915083501id_/http%3A//www.netotrade.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424155022id_/http%3A//www.netotrade.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
 
-# Neto Trade Home Page | Forex | Trading | CFD's - Privacy Policy
+# Privacy Policy - NetoTrade
 
 We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with this privacy policy. Our privacy policy statement will be reviewed from time to time to take into account any new laws or technological changes to our operations and practices and to ensure it remains appropriate to the changing environment. By using this website, you consent to us using your personal information as set out below. 
 
