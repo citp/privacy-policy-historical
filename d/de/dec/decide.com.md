@@ -1,79 +1,95 @@
-> *The following text is extracted and transformed from the decide.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313102606id_/http%3A//www.decide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decide.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425010627id_/https%3A//www.decide.com/privacy) for the most accurate reproduction.*
 
-# Privacy / Decide
+# Privacy Policy / Decide
 
-## Last Updated: June, 16 2011
+Last updated: October 24, 2012.
 
-This Privacy Policy ("Policy") explains how personal information is collected, used and disclosed by Decide Inc., and our subsidiaries and affiliated companies (collectively, "Decide," "we" or "us"), with respect to your use of our websites, including www.decide.com, and our other online and mobile websites and applications (collectively, the "Sites"), and the Decide service offered through the Sites (the "Service").
+Decide, Inc. ("Decide") knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the Web site located at www.decide.com and the other websites and mobile sites of Decide which link to this Privacy Policy (the "Sites"), you are accepting the practices described in this Privacy Notice. 
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
+### What Personal Information About Customers Does Decide Gather?
 
-### What Is Personal Information?
+The information we learn from customers helps us personalize and continually improve your Decide experience. Here are the types of information we gather.
 
-As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, email address or credit card number), or information about an individual that is directly linked to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of the Sites or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
+#### Information You Give Us:
 
-### What Personal Information Do We Collect?
+We receive and store any information you enter on the Sites or provide us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as providing our services to you, responding to your requests, and communicating with you. Examples of this information include location data to provide for local pricing, information that allows us to monitor prices over time for products you may be watching, information regarding your product searches, information regarding your clicking on a link to a retailer's website, information you provide to establish and manage your membership, information you communicate to us by phone, email or otherwise, information when you contribute content to our blog or participate in other community features, and information that you provide when you offer us feedback. Such information may include your name, address and phone numbers, credit card information, and other financial information.
 
-_Active Collection:_ Personal information may be collected in a number of ways when you visit our Sites. We collect certain information you voluntarily provide to us, such as when you create an account, sign up to receive email alerts or newsletters, provide or request information or participate in our surveys, sweepstakes, contests, games, promotional offers or other activities on our Sites. Such information may include your name, email address, postal address, telephone number and other contact or demographic information.
+[ When creating a Decide account, or connecting your already existing Decide account with your Facebook account, we will also receive and store the following information from Facebook, Inc. ("Facebook") your name, user name, password, profile picture, unique Facebook identifier and access token, gender, birthday and email address.
 
-_Passive Collection:_ When you use the Sites, some information is also automatically collected, such as your Internet Protocol ("IP") address, operating system, browser type, the address of a referring website and your activity on the Sites. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
+If you connect your Decide account to Facebook, we will make available and/or share your Facebook user name and your Facebook profile picture to other Decide users.
 
-We may also automatically collect certain information through the use of "cookies." Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us improve our Sites and your experience. If we link cookies to any personally identifying information, we will treat this information as personal information. If you wish to block, erase or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services on our Sites.
+If you have connected your Decide account to Facebook, we may share with Facebook certain information related to your use of the Sites, and such information may be published on Facebook's websites or services. You can choose to disable automatic publishing on Facebook of your activities on the Sites in [the preferences pane]. Information shared to Facebook will be attributed to the Facebook account to which your Decide account is connected. Facebook's use of such information and any information it collects from your use of or on its service is governed by Facebook's privacy policy and Decide's use of information is governed by this Decide Privacy Policy. You understand and agree that you need to consult both privacy policies to amend or delete personal information which has been provided to Facebook. If you do not wish for such use of data to take place, you should not agree to share information about your activities on the Sites to Facebook and/or adjust your settings to deactivate such sharing. Information no longer shared on Facebook may continue to be available to Decide and its users, and may be used as described in this Privacy Policy. ]
 
-In addition, we may use Web beacons or similar technology on the Site. Web beacons are small, invisible graphic images that may be used on the Site or in emails relating to the Site to collect certain information and monitor user activity on the Site, such as to count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
+#### Automatic Information:
 
-### What Information Do Third Parties Collect?
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses the Sites or advertisements and other content served by or on behalf of Decide on other Web sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and products you viewed or searched for. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
 
-Third parties may serve ads on the Site or otherwise place cookies, web beacons or other tracking technologies on the Site to enable them to automatically collect nonpersonal information about you and your visits to the Site and to other websites, such as your IP address, your ISP, pages viewed and the browser you use to visit our Site. Information collected may be used, among other things, to analyze data, to deliver content and advertising on this or other sites (including content and advertising that is targeted to your interests), to determine the popularity of certain content, to make recommendations and to better understand the usage and visitation of our Site and the other websites tracked by these third parties. This Policy does not apply to, and we are not responsible for, cookies or other tracking technologies in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn more about their use of cookies and other technologies. If you would like more information about this practice and your choices as it relates to ad networks, please visit www.networkadvertising.org.
+#### Mobile:
 
-### How Do We Use the Personal Information We Collect?
+When you download or use apps created by Decide, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. 
 
-We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites. For example, we may use personal information we collect:
+#### E-mail Communications:
 
-  * to provide the services, products, information or alerts you request, and to process and complete any requests or transactions in connection therewith;
-  * to request feedback and to otherwise contact you about your use of the Sites or the Service;
-  * to respond to your emails, submissions, questions, comments, requests and complaints and provide customer service;
-  * to monitor and analyze site and service usage and trends and to personalize and improve the Sites, the Service and our users' experiences on the Sites and with the Service, such as providing ads, content, recommendations or features that match their profiles or interests and to increase the functionality and user-friendliness of the Sites and the Service;
-  * to provide you with news and information about our or third-party events, activities, offers, promotions, products and services we think will be of interest to you;
-  * to send you confirmations, updates, security alerts and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites and the Service;
-  * to notify you about important changes to our Sites;
-  * to communicate with contest and sweepstakes entrants;
-  * to link or combine with personal information we get from third parties or other sources to help understand your needs; and
-  * for any other purpose for which the information was collected.
+To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Decide if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.decide.com/account/settings/).
 
+#### Information from Other Sources:
 
+We might receive information about you from other sources and add it to our account information. For example, we may receive confirmation of your product purchases from retailers to which the Sites provide links.
 
-We may store and process personal information in the United States and other countries.
+### What About Cookies?
 
-### What Personal Information Do We Share With Third Parties?
+Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features on our Sites, and personalized advertisements on other Web sites. 
 
-We will not share the personal information we collect from you through the Sites with third parties, except as described in this Policy or on the Sites. For example, we may share personal information as follows:
+The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Decide's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to use any Decide products and services that require you to Sign in. 
 
-  * when you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information;
-  * with third party vendors, consultants and other service providers who are engaged by, or working with, us in connection with the operation of the Sites or the services we provide and who need access to such information to carry out their work for us;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including responding to lawful subpoenas, warrants or court orders;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property or safety of Decide, our users, our employees, copyright owners, third parties or the public, including without limitation to protect Decide or our users from fraudulent, abusive, inappropriate or unlawful use of our Sites;
-  * to enforce or apply this Policy, our Terms of Use or our other policies or agreements; and
-  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be disclosed or transferred as one of the business assets of Decide.
+### Does Decide Share the Information It Receives?
 
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below. 
 
+#### Aggregated Data:
 
-If you participate in any interactive features on the Sites, you understand that information you post in any forums, comments, listings, groups or other interactive areas of the Sites, as well as any information you share with individuals through the Sites or share through social network sites or other social feeds, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums.
+We analyze, publish and share aggregated level data for marketing purposes, including, for example, information identifying popular items, or most searched for items. 
 
-We are not responsible for the actions of service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
+#### Third-Party Service Providers:
 
-### Links to Other Websites
+We employ other companies and individuals to perform functions on our behalf. Examples include, sending postal mail and e-mail, , analyzing data, providing marketing assistance, providing search results and links (), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
 
-Our Sites may contain links to other websites. Any personal information you provide to a linked site is provided directly to that third party and is subject to that third party's privacy policy. This Policy does not apply to such linked sites, and we are not responsible for the privacy and security practices and policies of these websites. We encourage you to learn about the privacy and security practices and policies before providing linked sites with personal information.
+#### Promotional Offers:
 
-### What Steps Do We Take To Protect Your Information Online?
+Sometimes we send offers to selected groups of Decide customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://www.decide.com/account/settings/).
 
-We implement a variety of security measures to help protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
+#### Business Transfers:
 
-### What Choices Do You Have Regarding the Use of Your Information?
+As we continue to develop our business, we might sell portions of our business, or buy other businesses. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless the customer consents otherwise). Also, if Decide or substantially all of its assets are acquired, then customer information will be one of the transferred assets. 
 
-You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by emailing us at [support@decide.com](mailto:support@decide.com). If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+#### Protection of Decide and Others:
 
-### Questions?
+We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Decide, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. This does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
 
-If you have any questions about this Policy, please contact us at [support@decide.com](mailto:support@decide.com).
+#### With Your Consent:
+
+Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+
+### How Secure Is Information About Me?
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+
+We (or our service providers that handle credit card processing for us) reveal only the last four digits of your credit card numbers when confirming an order (but, as may be expected, transmit the entire credit card number to the appropriate credit card company during order processing). 
+
+### Which Information Can I Access?
+
+Decide gives you access to a range of information about your account and your interactions with Decide for the limited purpose of viewing and, in certain cases, updating that information. <https://www.decide.com/account/>
+
+### What Choices Do I Have?
+
+As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of Decide premium features 
+
+If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.decide.com/account/settings).
+
+### Are Children Allowed to Use Decide?
+
+The Sites are not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age you should not use the Sites and under no circumstances should you provide personal information to us. If we discover that a child under the age of 13 has provided us with personal information, we will delete that child´s information from the Sites.
+
+### Conditions of Use, Notices, and Revisions
+
+If you choose to visit Decide, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Decide, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Terms and Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. 
