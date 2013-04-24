@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesgenie.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030093736id_/https%3A//salesgenie.com/Static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesgenie.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424200514id_/https%3A//www.salesgenie.com/Static/Privacy) for the most accurate reproduction.*
 
 # Salesgenie - Privacy
 
@@ -63,4 +63,4 @@ Infogroup Inc. reserves the right to change this privacy statement at anytime up
 
 A notice will be posted on Infogroup's web page www.infogroup.com
 
-EFFECTIVE DATE: January 1, 2010 
+EFFECTIVE DATE: January 1, 2013 
