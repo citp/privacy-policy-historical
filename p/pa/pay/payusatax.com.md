@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payusatax.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501114339id_/https%3A//www.payusatax.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payusatax.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/privacy.aspx) for the most accurate reproduction.*
 
 # payUSAtax™ - IRS Authorized Payment Service: Privacy
 
@@ -6,9 +6,7 @@
 
 * * *
 
-[Authorized Provider](https://web.archive.org/web/20120501114339id_/https%3A//www.payusatax.com/authorizedprovider.aspx) | [Benefits](https://web.archive.org/web/20120501114339id_/https%3A//www.payusatax.com/benefits.aspx) | [Security](https://web.archive.org/web/20120501114339id_/https%3A//www.payusatax.com/security.aspx) | **Privacy Policy** | [Pay By Phone](https://web.archive.org/web/20120501114339id_/https%3A//www.payusatax.com/PayByPhone.aspx) | [In The News](https://web.archive.org/web/20120501114339id_/https%3A//www.payusatax.com/inthenews.aspx)
-
-payUSAtax is committed to your privacy. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. 
+[Authorized Provider](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/authorizedprovider.aspx) | [Benefits](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/benefits.aspx) | [Security](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/security.aspx) | **Privacy Policy** | [Pay By Phone](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/PayByPhone.aspx) | [In The News](https://web.archive.org/web/20130424085403id_/https%3A//payusatax.com/inthenews.aspx) payUSAtax is committed to your privacy. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. 
 
 This Privacy Policy defines privacy aspects specific to this Web site and affiliated Web servers (referred to as the "Value Payment Systems Web sites"). 
 
@@ -31,16 +29,16 @@ The following principles govern our information practices and other privacy aspe
 We may collect the following information about you, either directly or through persons or entities acting on our behalf:
 
   * Information we receive from your transactions with us, such as information you submit on or in connection with your tax return or tax payment, including, but not limited to: taxpayer's first and last name, address, telephone number, social security numbers (or employer identification number), email addresses, payment information and any other information required to prepare and file and/or pay a federal income tax return.
-  * Information you provide to us to on applications, forms, online registrations, surveys, and in connection with polls or contests, such as your name, address and e-mail address. We use your email address to provide customer service, confirmation emails, email reminders, and from time to time send you in-house newsletters.
+  * Information you provide to us to on applications, forms, online registrations, surveys, and in connection with polls or contests, such as your name, address and e-mail address. We use your email address to provide customer service, confirmation emails, email reminders, system status notices, and from time to time send you in-house newsletters.
   * Credit/Debit card and banking information, such as the account number, expiration date and billing address. We collect credit/debit card information when you choose either to pay with a credit/debit card. We receive information from our credit/debit card processor regarding your payment arrangements.
-  * Information when you visit our Website, such as navigation patterns at the site on an aggregate basis and information we collect through Internet cookies or clear gifs, such as time spent on our Website and which pages are visited. Internet cookies allow us to customize our Website for you based upon information you provide to us, such as by displaying only those items that may be of interest to you or making it easier for you to access your account information. In most cases, however, information we collect through Internet cookies does not identify you personally and is only used, for example, to help us understand which features of our Website are most popular with our clients.
+  * Information when you visit our Web site, such as navigation patterns at the site on an aggregate basis and information we collect through Internet cookies or clear gifs, such as time spent on our Web site and which pages are visited. Internet cookies allow us to customize our Web site for you based upon information you provide to us, such as by displaying only those items that may be of interest to you or making it easier for you to access your account information. In most cases, however, information we collect through Internet cookies does not identify you personally and is only used, for example, to help us understand which features of our Web site are most popular with our clients.
 
 
 
   
 **LIMITATIONS ON INFORMATION SHARING**
 
-We share the information you provide with the Internal Revenue Service. We will not sell, share, or rent this information to any other individuals or organizations.
+We share the information you provide with the Internal Revenue Service and our payment card processor as needed to complete the payment transaction. We will not sell, share, or rent this information to any other individuals or organizations.
 
 We will not disclose nonpublic personal information about you to nonaffiliated third parties (other than as required by law) unless you authorize us to make that disclosure. If you wish to authorize us to disclose your nonpublic personal financial information to nonaffiliated third parties, you may contact us.
 
