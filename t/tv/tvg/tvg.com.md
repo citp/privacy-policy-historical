@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tvg.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529163535id_/http%3A//www.tvg.com/textonly/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvg.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424020453id_/https%3A//www.tvg.com/page/PrivacyPolicy) for the most accurate reproduction.*
 
-# TVG -- The Interactive Horseracing Network
+# Privacy Policy | TVG.com
 
-#### Privacy Policy 
+#### Privacy Policy
 
 PROTECTING YOUR PRIVACY 
 
