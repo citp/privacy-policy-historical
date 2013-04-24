@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016015247id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424151704id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Cedexis | Internet performance control and monitoring
+# Privacy statement | Cedexis | Real-time Data for Real-time Decisions
 
 ## Cedexis Privacy Policy
 
@@ -12,8 +12,8 @@ If you have any questions or comments about this policy, please contact us at [l
 
 **Cedexis Inc.**  
 ATTN: Privacy Policy  
-1125 SE Division Street, Suite 210  
-Portland, OR 97202 USA 
+317 SW Alder Street, Suite 650  
+Portland, OR 97204 USA 
 
 In case of a dispute, eTrust is available to you as a third party. In this case you should contact eTrust at
 
