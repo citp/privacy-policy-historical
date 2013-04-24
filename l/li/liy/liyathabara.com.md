@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liyathabara.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234654id_/http%3A//www.liyathabara.com/content/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liyathabara.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424094913id_/http%3A//www.liyathabara.com/content/priv_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
