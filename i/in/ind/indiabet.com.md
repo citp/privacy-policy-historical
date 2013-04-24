@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabet.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017015834id_/http%3A//www.indiabet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabet.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424235700id_/http%3A//www.indiabet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - India Bet
 
@@ -81,4 +81,4 @@ The Data Protection Act 1998 provides you with the right to access the informati
 
 ### 8. Contacting Us
 
-We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please do not hesitate and feel free to contact us at feedback[at](https://web.archive.org/at)indiabet.com.
+We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please do not hesitate and feel free to contact us.
