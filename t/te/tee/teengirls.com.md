@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teengirls.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014221121id_/http%3A//www.teengirls.com/cimages/legal/privacy.html%3Fsite%3Dteengirls) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teengirls.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424212444id_/http%3A//www.teengirls.com/cimages/legal/privacy.html%3Fsite%3Dteengirls) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
