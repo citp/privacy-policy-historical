@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websynthesis.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028064915id_/http%3A//websynthesis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websynthesis.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424074412id_/http%3A//websynthesis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
