@@ -1,23 +1,7 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017112737id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425000400id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-| [Language Schools](https://web.archive.org/language_schools/)  
----  
-[Medical Spanish & More](https://web.archive.org/salud_medical_spanish_programs/)  
-[Volunteer & Intern](http://www.amerispan.com/volunteer_intern/)  
-[Teenager Study Abroad](https://web.archive.org/teenager_programs_abroad/)  
-[Language & Fun](http://www.amerispan.com/fun/)  
-[Business & Professional](http://www.amerispan.com/professional/)  
-[College Study Abroad](http://www.amerispan.com/study_abroad/)  
-[Teachers & Educators](http://www.amerispan.com/educators/)  
-[Programs for Groups](http://www.amerispan.com/group_travel/)  
-[Faculty Zone](http://www.amerispan.com/faculty/)  
-[Participant Zone](http://www.amerispan.com/clientsupport/)  
-[Parent Zone](https://web.archive.org/parents/)  
-[Travel Resources](https://web.archive.org/travel/)  
-[Study Abroad Blog](http://www.amerispan.net/)  
-  
   
 Effective Date:  4/7/2006
 
@@ -100,4 +84,5 @@ _**
 This privacy policy was last modified on February 28, 2007. AmeriSpan may revise this policy from time to time. If we make any substantial changes, we will post those amendments on our Web site so that you are always aware of the information we collect, how we use it and how you can access or update your personal information.  
  
 
-| 
+|    
+[](https://web.archive.org/catalog_request/request.asp)[](https://web.archive.org/application/register.asp)[](https://web.archive.org/send_email)[](https://web.archive.org/newsletter.asp)
