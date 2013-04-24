@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveagain.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014053036id_/http%3A//www.loveagain.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveagain.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424024418id_/http%3A//www.loveagain.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # LoveAgain.com - Find local singles on LoveAgain.com - an online dating site
 
@@ -80,7 +80,7 @@ Other persons if we are under a duty to disclose or share your information in or
 
 We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties. 
 
-You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and Group's services including our various internet sites and mobile sites. 
+You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and our corporate group services including our various internet sites and mobile sites. 
 
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
