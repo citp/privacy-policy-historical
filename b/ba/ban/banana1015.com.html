@@ -1,228 +1,26 @@
-<!--The following is the downloaded HTML source of the banana1015.com privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229052208id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the banana1015.com privacy policy that was archived on 2013-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424150151id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
+<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=1280">
 <title>Banana 101.5 Radio - Flint's Rock Radio - Flint Music</title>
 
 <link id="design-fav" rel="shortcut icon" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2011/02/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="Flint's Rock Radio » Feed" href="http://banana1015.com/feed/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3-music/style.css">
-<link rel="alternate" type="application/rss+xml" title="Flint's Rock Radio » Feed" href="http://banana1015.com/feed/">
 <link rel="stylesheet" id="weather-widget-css-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/weather-widget/resources/style.css?ver=3.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="loyalty-alerts-admin-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/css/ts3.css?ver=13559068004d5713927e" type="text/css" media="all">
-<link rel="stylesheet" id="tsc-fonts-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/css/fonts.css?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf" type="text/css" media="screen">
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">/* <![CDATA[ */function add_loyalty_points( activity, points, callback ) {
-	Loyalty_Points.add_points(activity, points, callback);
-}
-
-function remove_loyalty_points( activity, points, callback ) {
-	add_loyalty_points(activity, points*-1, callback);
-}
-
-function get_loyalty_user( activity, callback ) {
-	Loyalty_Points.get_user( activity, callback );
-}
-
-function update_loyalty_points( points ) {
-	Loyalty_Points.update_points(points);
-}
-
-function get_loyalty_point_value( activity ) {
-	return Loyalty_Points.get_point_value(activity);
-}
-
-function get_loyalty_activity_interval( activity ) {
-	return Loyalty_Points.get_interval(activity);
-}
-
-function Loyalty_User() {
-	this.last_request = 0;
-	this.status = 'OK';
-	this.error = '';
-	this.name = '';
-	this.email = '';
-	this.points = 0;
-	this.activities = {};
-}
-Loyalty_User.prototype.update = function ( data ) {
-	if ( typeof(data.status) == 'undefined' ) {
-		return; // if we don't have a status, we can't assume anything else if valid
-	}
-	this.status = data.status;
-	this.error = '';
-	if ( typeof(data.last_request) != 'undefined' ) {
-		this.last_request = data.last_request;
-	}
-	if ( typeof(data.error) != 'undefined' ) {
-		this.error = data.error;
-	}
-	if ( typeof(data.name) != 'undefined' ) {
-		this.name = data.name;
-	}
-	if ( typeof(data.email) != 'undefined' ) {
-		this.email = data.email;
-	}
-	if ( typeof(data.points) != 'undefined' ) {
-		this.points = data.points;
-	}
-	if ( typeof(data.activities) != 'undefined' ) {
-		// don't want to overwrite any existing activities that aren't set in data
-		for ( activity in data.activities ) {
-			this.activities[activity] = data.activities[activity];
-		}
-	}
-};
-
-Loyalty_Points = {
-	activities: {},
-	user: new Loyalty_User,
-
-	add_points: function( activity, points, callback ) {
-		if ( !activity ) {
-			return;
-		}
-		var url = '/api/loyalty';
-		url = url + '/' + activity;
-		if ( points ) {
-			url = url + '/' + points;
-		}
-		jQuery.ajax({
-			url: url,
-			data: { now: Math.round((new Date()).getTime() / 1000) }, // because IE loves to cache
-			success: function(data, textStatus) {
-				if ( data ) {
-					if ( typeof(data.points) != 'undefined' ) {
-						Loyalty_Points.update_points(data.points);
-					}
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				var data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	get_user: function( activity, callback ) {
-		if ( !document.cookie.match(/_ts_logged_in=1/) ) {
-			return;
-		}
-		var url = '/api/loyalty/user';
-		if ( activity ) {
-			url = url + '/' + activity;
-		}
-		jQuery.ajax({
-			url: url,
-			data: {},
-			success: function(data, textStatus) {
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	update_points: function( points ) {
-		jQuery(".number-of-points").text(points);
-	},
-
-	get_point_value: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.points;
-		}
-		return 0;
-	},
-
-	get_interval: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.interval;
-		}
-		return 0;
-	},
-
-	get_activity: function( activity ) {
-		if ( !(typeof this.activities[activity] == 'undefined') ) {
-			return this.activities[activity];
-		}
-		return null;
-	}
-};
-
-Loyalty_Points.activities = {"loyalty_manual_entry":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Manual Entry","immutable":2},"loyalty_new_user":{"points":2500,"point_override":false,"maximum":2500,"daily_maximum":2500,"request_maximum":-1,"interval":15,"label":"User Registration","immutable":true,"superimmutable":false},"loyalty_migrate_user":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Migrate User","immutable":2},"prize":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Prize","immutable":2},"loyalty_code_listen":{"points":2500,"point_override":true,"maximum":-1,"daily_maximum":40000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Listen & Win","immutable":true,"superimmutable":true},"loyalty_code_bonus":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Bonus Code","immutable":true,"superimmutable":true},"loyalty_game_blkjack":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Blackjack","immutable":true,"superimmutable":false},"loyalty_game_slots":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Slot Machine","immutable":true,"superimmutable":false},"loyalty_game_scratch":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Scratch & Win","immutable":true,"superimmutable":false},"loyalty_ftlink_link":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Featured Link","immutable":true,"superimmutable":false},"loyalty_ftlink_land":{"points":10,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Landing","immutable":true,"superimmutable":false},"loyalty_trivia":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Trivia","immutable":true,"superimmutable":false},"loyalty_qa_poll":{"points":500,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Poll","immutable":true,"superimmutable":false},"loyalty_qa_quiz":{"points":1000,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Quiz","immutable":true,"superimmutable":false},"loyalty_qa_survey":{"points":1500,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Survey","immutable":true,"superimmutable":true},"loyalty_purch_trade":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Trade-in","immutable":true,"superimmutable":false},"loyalty_purch_coupon":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Coupon","immutable":false,"superimmutable":false},"loyalty_ct_custom":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Featured Contest","immutable":true,"superimmutable":false},"loyalty_ct_standard":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Contest","immutable":true,"superimmutable":false},"Radio Page Counter":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":900,"expiration":0,"active":true,"immutable":true,"superimmutable":false}};
-/* ]]> */</script><script type="text/javascript">
-/* <![CDATA[ */
-var $adminAjax = {"url":"http:\/\/banana1015.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/crossposting/resources/crossposting.js?ver=2012-09-06"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/events/resources/events.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1"></script>
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/css/ts3.css?ver=136127578041fb0aa0ce" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40" type="text/css" media="all">
+<link rel="stylesheet" id="tsc-fonts-css" href="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/css/fonts.css?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40" type="text/css" media="screen">
+<script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://banana1015.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://banana1015.com/wp-includes/wlwmanifest.xml"> 
-
-<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[811,846] -->
-<meta name="description" content="Banana 101.5 Flint's Rock Radio radio plays the best rock music in Flint, Michigan.">
-<meta name="keywords" content="banana, 101.5, Flint\'s Rock Radio, rock, active rock, metal, wwbn flint, flint, wwbn">
-<link rel="canonical" href="http://banana1015.com/">
-<!-- /all in one seo pack Pro Version-->
-<meta property="fb:app_id" content="129800870424448">
-<meta property="fb:admins" content="520918501,583052867,100002025987268,732998853">
-<meta property="og:title" content="Banana 101.5 Radio - Flint\'s Rock Radio - Flint Music">
-<meta property="og:site_name" content="Flint's Rock Radio">
-<meta property="og:url" content="http://banana1015.com">
-<meta property="og:description" content="Banana 101.5 Flint's Rock Radio radio plays the best rock music in Flint, Michigan.">
-<meta property="og:type" content="blog">
-<meta property="og:image" content="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/10/Wwbn_LOGO-v27.png?w=250&amp;zc=1&amp;s=0&amp;a=t&amp;q=90">
-
-                <script>
-                    if(typeof(oKETool)=="undefined") oKETool = {};
-                    oKETool.pluginsUrl = "http://banana1015.com/wp-content/plugins/";
-                    oKETool.themePlugin = "http://banana1015.com/wp-content/themes/townsquare3-music/plugins/";
-                </script>
-            <!-- Begin comScore Tag -->
-<script>
-	var _comscore = _comscore || [];
-	_comscore.push({ c1: "2", c2: "6665296" });
-	(function() {
-		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-		el.parentNode.insertBefore(s, el);
-	})();
-</script>
-
-<noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=6665296&cv=2.0&cj=1" /> </noscript>
-<!-- End comScore Tag -->
 <!-- Google Ads Start -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -256,27 +54,59 @@ GA_googleAddSlot("ca-pub-5913157830665197", "FLI_WWBN_CUSTOM2_1X1");
 GA_googleFetchAds();
 </script>
 <!-- Google Ads End -->
-<style type="text/css" media="all">
+
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[631,666] -->
+<meta name="description" content="Banana 101.5 Flint's Rock Radio radio plays the best rock music in Flint, Michigan.">
+<meta name="keywords" content="banana, 101.5, Flint\'s Rock Radio, rock, active rock, metal, wwbn flint, flint, wwbn">
+<link rel="canonical" href="http://banana1015.com/">
+<!-- /all in one seo pack Pro Version-->
+<meta property="fb:app_id" content="129800870424448">
+<meta property="fb:admins" content="520918501">
+<meta property="fb:admins" content="583052867">
+<meta property="fb:admins" content="100002025987268">
+<meta property="fb:admins" content="732998853">
+<meta property="og:title" content="Banana 101.5 Radio - Flint\'s Rock Radio - Flint Music">
+<meta property="og:description" content="Banana 101.5 Flint's Rock Radio radio plays the best rock music in Flint, Michigan.">
+<meta property="og:url" content="http://banana1015.com/">
+<meta property="og:site_name" content="Flint's Rock Radio">
+<meta property="og:type" content="blog">
+<meta property="og:image" content="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/10/Wwbn_LOGO-v27.png?w=250&amp;zc=1&amp;s=0&amp;a=t&amp;q=90">
+<script type="text/javascript">if(ajaxurl == undefined) { var ajaxurl = "http://banana1015.com/wp-admin/admin-ajax.php"; }</script><style type="text/css" media="all">
 /* <![CDATA[ */
 @import url("http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
 @import url("http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
 /* ]]> */
-</style>
+</style><!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6665296" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6665296&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
 
 
-<!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
+
+<!-- Google Analytics Tracking by Google Analyticator 6.1.1.d: http://ronaldheft.com/code/analyticator/ -->
 <script type="text/javascript">
-	var analyticsFileTypes = [''];
-	var analyticsEventTracking = 'enabled';
+var analyticsFileTypes = [''];
+var analyticsEventTracking = 'enabled';
 </script>
 <script type="text/javascript">
 var _gaq_author = 'Flint&#039;s Rock Radio';
+var _gaq_categories = '';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-1802051-1']);
 _gaq.push(['_setDomainName', '.banana1015.com']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setAccount', 'UA-19109753-1']);
 _gaq.push(['_setDomainName', '.banana1015.com']);
@@ -288,6 +118,7 @@ _gaq.push(['_setDomainName', '.banana1015.com']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setAccount', 'UA-28825804-1']);
 _gaq.push(['_setDomainName', '.banana1015.com']);
@@ -303,8 +134,9 @@ _gaq.push(['_trackPageview']);
 </script>
 </head>
 
-<body class="home blog top_banner onetone ruled-sidebar-header block-listen-bar template-landing template-landing-home">
-<div id="takeover_wrap" class="body_child"><div id="top_banner" class="clearfix"><!-- /FLI_WWBN_LEADERBOARD -->
+<body class="home blog top_banner onetone ruled-sidebar-header block-listen-bar">
+<div id="takeover_wrap" class="body_child">
+<div id="top_banner" class="tsmAd clearfix"><!-- /FLI_WWBN_LEADERBOARD -->
 		<script type="text/javascript">
 	GA_googleFillSlot("FLI_WWBN_LEADERBOARD");
 	</script>
@@ -312,12 +144,16 @@ _gaq.push(['_trackPageview']);
 		<script type="text/javascript">
 	GA_googleFillSlot("FLI_WWBN_CUSTOM_1X1");
 	</script>
-	</div><div class="google_ad_custom2_1x1_wrap"></div><div id="fb-root"></div>
+	</div><div class="google_ad_custom2_1x1_wrap"><!-- /FLI_WWBN_CUSTOM2_1X1 -->
+		<script type="text/javascript">
+	GA_googleFillSlot("FLI_WWBN_CUSTOM2_1X1");
+	</script>
+	</div><div id="fb-root"></div>
 <script>
 	window.fbAsyncInit = function() {
 		FB.init({
 			appId      : '129800870424448', // App ID from the App Dashboard
-			channelUrl : 'http://banana1015.com/wp-content/plugins/facebook-apps/views/client/channel.php', // Channel File for x-domain communication
+			channelUrl : 'http://banana1015.com/wp-content/plugins/facebook-apps/views/channel.php', // Channel File for x-domain communication
 			status     : true,
 			cookie     : true,
 			xfbml      : true,
@@ -342,21 +178,22 @@ _gaq.push(['_trackPageview']);
     </div>
     <a class="contactUs" href="/help/">Contact Us</a>
     <div id="sso">
-        <span class="sso_links"><img class="fbicon" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/tsm-wp-fb-autoconnect/images/fbicon.png"><a class="login_modal_link" href="http://banana1015.com/login/?referer=http://banana1015.com/privacy">Sign In</a> | <a class="register_modal_link" href="http://banana1015.com/registration/">Sign Up</a></span>
+        <span class="sso_links"><img src="http://wac.450f.edgecastcdn.net/80450F/production.townsquaresites.com/wp-content/uploads/2013/04/fbicon.png"><a class="fb-auth-login-link" href="#fb-auth-login">Sign In</a> | <a class="fb-auth-registration-link" href="#fb-auth-registration">Sign Up</a></span>
     </div><!-- // #sso.right -->
 </header><!-- // #header_nav. -->
 
 <div id="main_container" class="clearfix">
-    
-<nav class="main">
+    <nav class="main">
 	<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/"><span class="nav_item">Home</span></a></li>
 <li id="menu-item-80592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80592"><a href="/djs/"><span class="nav_item">On Air</span></a>
 <ul class="sub-menu">
+	<li id="menu-item-176829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176829"><a href="http://banana1015.com/mobile/"><span class="nav_item">Get RadioPup App</span></a></li>
 	<li id="menu-item-1328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1328"><a href="/djs/"><span class="nav_item">DJs</span></a></li>
 	<li id="menu-item-80593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80593"><a href="/shows/"><span class="nav_item">Shows</span></a></li>
 	<li id="menu-item-2319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2319"><a href="/category/fbhw/"><span class="nav_item">FBHW</span></a></li>
 	<li id="menu-item-80594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80594"><a href="/author/tlabrie/"><span class="nav_item">Tony LaBrie</span></a></li>
 	<li id="menu-item-80595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80595"><a href="/author/mmeadows/"><span class="nav_item">Maggie Meadows</span></a></li>
+	<li id="menu-item-176569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176569"><a href="http://banana1015.com/author/tmorley/"><span class="nav_item">Sarge</span></a></li>
 	<li id="menu-item-80598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80598"><a href="/author/wriddle/"><span class="nav_item">Tree</span></a></li>
 	<li id="menu-item-80597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80597"><a href="/author/cmonroe/"><span class="nav_item">Chris Monroe</span></a></li>
 	<li id="menu-item-80599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80599"><a href="/author/aerickson/"><span class="nav_item">Anne Erickson</span></a></li>
@@ -370,23 +207,6 @@ _gaq.push(['_trackPageview']);
 </li>
 <li id="menu-item-1971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1971"><a href="/vip/"><span class="nav_item">Friends w/ Benefits</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-167651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167651"><a href="http://banana1015.com/vip/q-and-a/polls/throwdown-2012/"><span class="nav_item">Throwdown Band of 2012</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-167653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167653"><a href="http://banana1015.com/givensix-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">Givensix</span></a></li>
-		<li id="menu-item-167656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167656"><a href="http://banana1015.com/the-product-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">The Product</span></a></li>
-		<li id="menu-item-167661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167661"><a href="http://banana1015.com/no-resolve-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">No Resolve</span></a></li>
-		<li id="menu-item-167658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167658"><a href="http://banana1015.com/bulletproof-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">BulletProof</span></a></li>
-		<li id="menu-item-167657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167657"><a href="http://banana1015.com/autumn-coma-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">Autumn Coma</span></a></li>
-		<li id="menu-item-167662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167662"><a href="http://banana1015.com/westfall-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">WestFall</span></a></li>
-		<li id="menu-item-167659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167659"><a href="http://banana1015.com/until-the-end-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">Until the End</span></a></li>
-		<li id="menu-item-167654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167654"><a href="http://banana1015.com/citizen-zero-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">Citizen Zero</span></a></li>
-		<li id="menu-item-167655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167655"><a href="http://banana1015.com/crackjaw-flint-town-throwdown-band-of-2012-candidate-2/"><span class="nav_item">Crackjaw</span></a></li>
-		<li id="menu-item-167663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167663"><a href="http://banana1015.com/5ubkultur3-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">5ubkultur3</span></a></li>
-		<li id="menu-item-167660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167660"><a href="http://banana1015.com/deadringer-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">Deadringer</span></a></li>
-		<li id="menu-item-167665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167665"><a href="http://banana1015.com/fifth-way-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">Fifth Way</span></a></li>
-		<li id="menu-item-167664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167664"><a href="http://banana1015.com/a-sleepless-malice-flint-town-throwdown-band-of-2012-candidate/"><span class="nav_item">A Sleepless Malice</span></a></li>
-	</ul>
-</li>
 	<li id="menu-item-73792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73792"><a href="/vip/use-points/"><span class="nav_item">Contests</span></a></li>
 	<li id="menu-item-73791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73791"><a href="/vip/trivia/"><span class="nav_item">Trivia</span></a></li>
 	<li id="menu-item-75687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75687"><a href="/vip/q-and-a/"><span class="nav_item">Your Feedback</span></a></li>
@@ -396,37 +216,41 @@ _gaq.push(['_trackPageview']);
 	<li id="menu-item-158302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158302"><a href="http://banana1015.com/vip/promotions/local-experts-26/"><span class="nav_item">Local Experts</span></a></li>
 </ul>
 </li>
-<li id="menu-item-596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-596"><a href="/events/"><span class="nav_item">Events</span></a></li>
-<li id="menu-item-127264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127264"><a href="http://banana1015.com/category/loudwire-music-news/"><span class="nav_item">Rock News</span></a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-596"><a href="/events-flint/"><span class="nav_item">Events</span></a></li>
+<li id="menu-item-192001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192001"><a href="http://banana1015.com/category/loudwire-music-news/"><span class="nav_item">Rock News</span></a></li>
 <li id="menu-item-27619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27619"><a href="http://banana1015.com/category/hot-chicks-2/"><span class="nav_item">Hot Chicks</span></a></li>
 <li id="menu-item-132475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132475"><a href="http://banana1015.com/help/"><span class="nav_item">Contact Us</span></a>
 <ul class="sub-menu">
+	<li id="menu-item-200886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200886"><a href="http://townsquareinteractive.com/seminars/seminar-32"><span class="nav_item">TSI Seminar</span></a></li>
+	<li id="menu-item-176831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176831"><a href="http://banana1015.com/mobile/"><span class="nav_item">Get RadioPup App</span></a></li>
 	<li id="menu-item-147977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-147977"><a href="http://banana1015.com/help/"><span class="nav_item">Help</span></a></li>
 	<li id="menu-item-134495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134495"><a href="http://banana1015.com/advertise/"><span class="nav_item">Advertise With Us</span></a></li>
+	<li id="menu-item-191764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191764"><a href="http://banana1015.com/banana-101-5-wwbn-official-contest-rules/"><span class="nav_item">Banana Contest Rules</span></a></li>
+	<li id="menu-item-182696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182696"><a href="http://banana1015.com/schoolbusiness-closings/"><span class="nav_item">School Closings</span></a></li>
 </ul>
 </li>
-</ul></div>
-	<div class="social_icons size_24">
-					<a href="http://www.facebook.com/Banana1015" title="Follow on facebook" class="share_link facebook" target="_blank"><span class="social_icon">follow on facebook</span></a>
-		
-		<!--<a href="http://banana1015.com/feed/" title="Subscribe via RSS" class="share_link rss"><span class="social_icon">Subscribe via RSS</span></a>-->
-
-					<a href="http://twitter.com/banana1015radio" title="Follow on Twitter" class="share_link twitter" target="_blank"><span class="social_icon">follow on Twitter</span></a>
-		
-					</div><!-- // #.social_icons -->
+</ul></div>	<div class="social_icons">
+				<a href="http://www.facebook.com/Banana1015" title="Follow on facebook" class="share_link facebook" target="_blank">
+			<span class="social_icon">follow on facebook</span>
+		</a>
+		<a href="http://twitter.com/banana1015radio" title="Follow on Twitter" class="share_link twitter twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false" data-width="30px">
+		<span class="social_icon">Follow on Twitter</span>
+	</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div><!-- // #.social_icons -->
 
 </nav><!-- // nav -->
 
 	<div id="promo_links" class="horizontal_navigation clearfix alt_link_color">
 	<div class="menu-promo-links-container"><ul id="menu-promo-links" class="menu"><li id="menu-item-99233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99233"><a href="#">What’s Hot:</a></li>
-<li id="menu-item-122592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122592"><a href="http://banana1015.com/vip/q-and-a/polls/throwdown-2012/">Throwdown Band of 2012</a></li>
-<li id="menu-item-169418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169418"><a href="http://banana1015.com/tags/2013-preview/">2013 Preview</a></li>
-<li id="menu-item-102340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102340"><a href="http://banana1015.com/category/concerts/the-machine-shop/">The Machine Shop</a></li>
-<li id="menu-item-136222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136222"><a href="http://banana1015.com/category/flint-memes/">Flint Memes</a></li>
+<li id="menu-item-122592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122592"><a href="http://banana1015.com/category/flint-town-throwdown/">Flint Town Throwdown</a></li>
+<li id="menu-item-204092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-204092"><a href="http://banana1015.com/category/milfs/">Mother of All MILFs</a></li>
+<li id="menu-item-204628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-204628"><a href="http://banana1015.com/vip/contests/contest/enter-here-to-win-500/">Win $500</a></li>
+<li id="menu-item-174906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174906"><a href="http://banana1015.com/2013/">2013 Preview</a></li>
 <li id="menu-item-136220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136220"><a href="http://banana1015.com/tags/hot-banana-listener/">Hot Banana Listeners</a></li>
 <li id="menu-item-105892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105892"><a href="http://ww2.seizethedeal.com/cities/flint">Seize the Deal</a></li>
 </ul></div>	</div>
-<div id="pushdown_ad" class="clearfix"><!-- /FLI_WWBN_PUSHDOWN -->
+<div id="pushdown_ad" class="tsmAd clearfix"><!-- /FLI_WWBN_PUSHDOWN -->
 		<script type="text/javascript">
 	GA_googleFillSlot("FLI_WWBN_PUSHDOWN");
 	</script>
@@ -442,105 +266,105 @@ _gaq.push(['_trackPageview']);
 
 
 <div id="content_main" class="clearfix">
-    <section class="single page">
-        <article class="footer_link_legal">
-    <h1>Privacy</h1>
-    <div class="the_content">
-            <h3>About BANANA1015.COM</h3>
+	<section class="single page">
+		<article class="footer_link_legal">
+			<h1>Privacy</h1>
+			<div class="the_content">
+			<h3>About BANANA1015.COM</h3>
 
-        <p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to BANANA1015.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address share_link email">tree@banana1015.com</a>.</p>
+<p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to BANANA1015.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address ">tree@banana1015.com</a>.</p>
 
-        <h3>Information Collection and Use by the Websites</h3>
+<h3>Information Collection and Use by the Websites</h3>
 
-        <p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
+<p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
 
-        <p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
+<p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
 
-        <p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
+<p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
 
-        <p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
+<p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
 
-        <p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
+<p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
 
-        <p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
+<p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
 
-        <p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
+<p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
 
-        <p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
+<p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
 
-        <h3>User Content</h3>
+<h3>User Content</h3>
 
-        <p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
+<p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
 
-        <h3>Use of Cookies</h3>
+<h3>Use of Cookies</h3>
 
-        <p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
+<p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
 
-        <h3>Alternative Tracking Devices</h3>
+<h3>Alternative Tracking Devices</h3>
 
-        <p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
+<p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
 
-        <h3>Links</h3>
+<h3>Links</h3>
 
-        <p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
+<p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
 
-        <p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
+<p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
 
-        <h3>Correcting/Updating Information and Terminating Registration</h3>
+<h3>Correcting/Updating Information and Terminating Registration</h3>
 
-        <p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address share_link email">tree@banana1015.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
+<p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address ">tree@banana1015.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
 
-        <h3>Third Party Advertising</h3>
+<h3>Third Party Advertising</h3>
 
-        <p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
+<p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
 
-        <h3>Agents</h3>
+<h3>Agents</h3>
 
-        <p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
+<p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
 
-        <h3>Service Providers</h3>
+<h3>Service Providers</h3>
 
-        <p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
+<p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
 
-        <h3>Opt-out</h3>
+<h3>Opt-out</h3>
 
-        <p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
+<p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
 
-        <h3>Security</h3>
+<h3>Security</h3>
 
-        <p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
+<p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
 
-        <p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address share_link email">tree@banana1015.com</a>.</p>
+<p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address ">tree@banana1015.com</a>.</p>
 
-        <p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
+<p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
 
-        <h3>Sharing and Disclosure of Information</h3>
+<h3>Sharing and Disclosure of Information</h3>
 
-        <p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address share_link email">tree@banana1015.com</a>. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
+<p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to tree@banana1015.com. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
 
-        <h3>Children's Privacy</h3>
+<h3>Children's Privacy</h3>
 
-        <p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
+<p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
 
-        <p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
+<p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
 
-        <h3>International User Notice</h3>
+<h3>International User Notice</h3>
 
-        <p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
+<p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
 
-        <h3>Changes in Our Privacy Policy</h3>
+<h3>Changes in Our Privacy Policy</h3>
 
-        <p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
+<p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
 
-        <h3>Contacting Us</h3>
+<h3>Contacting Us</h3>
 
-        <p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address share_link email">tree@banana1015.com</a>.</p>
+<p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://banana1015.com/?geo-address=gerrAonanan1015Npbz" class="geo-address ">contact us</a>.</p>
 
-        <h3>Effective Date</h3>
+<h3>Effective Date</h3>
 
-        <p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>
-        </div>
-</article>    </section>
+<p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>			</div>
+		</article>
+	</section>
 </div>
 
 
@@ -565,36 +389,49 @@ _gaq.push(['_trackPageview']);
 	</script>
 	</div><div id="widget_onair-4" class="widget widget_onair  clearfix"><div class="widget_header clearfix"><h4>On Air Now</h4></div><article>
 			<figure>
-			<a href="http://banana1015.com/show/flints-rock-radio/"><img width="145" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-145w wp-post-image sonar_image" alt="Flint's Rock Radio" title="Flint's Rock Radio" datasrc="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2010/10/feature_rockradio-300.jpg?w=145&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+			<a href="http://banana1015.com/show/middays-with-tony-labrie/"><img width="145" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-145w wp-post-image sonar_image" alt="Tony LaBrie" title="Tony LaBrie" datasrc="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2010/10/tony_300.jpg?w=145&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
 		</figure>
 			<div class="excerpt clearfix">
-		<h4><a href="http://banana1015.com/show/flints-rock-radio/">Flint’s Rock Radio</a></h4>
+		<h4><a href="http://banana1015.com/show/middays-with-tony-labrie/">Tony LaBrie</a></h4>
 		<p class="links">
-			<span class="onair_show_wall"><a href="http://banana1015.com/show/flints-rock-radio/">Wall</a>|</span>
-			<span class="onair_show_posts"><a href="http://banana1015.com/show/flints-rock-radio/posts">Posts</a>|</span>
-							<span class="onair_show_email"><a href="mailto:tree@banana1015.com">Email</a></span>
-										<span class="onair_show_phone">Call in 810-251-5101</span>
+			<span class="onair_show_wall"><a href="http://banana1015.com/show/middays-with-tony-labrie/">Wall</a>|</span>
+			<span class="onair_show_posts"><a href="http://banana1015.com/show/middays-with-tony-labrie/posts">Posts</a>|</span>
+							<span class="onair_show_email"><a href="mailto:tony@banana1015.com">Email</a></span>
+										<span class="onair_show_phone">Call in 810-239-1015</span>
 					</p>
 	</div>
 </article>
 </div><div id="featured_profiles-4" class="widget featured_profiles  clearfix"><div class="widget_header clearfix"><h4>Meet the DJs</h4></div><div class="profiles_wrap">
-			<a class="featured_profile" href="http://banana1015.com/author/tlabrie/">
+			<a class="featured_profile" href="http://banana1015.com/author/freebeerhotwings/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2013/01/FBHW.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Free Beer and Hot Wings</span>
+		</a>
+				<a class="featured_profile" href="http://banana1015.com/author/tlabrie/">
 			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2011/11/Tony-Studio-31.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Tony LaBrie</span>
 		</a>
 				<a class="featured_profile" href="http://banana1015.com/author/mmeadows/">
 			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2011/06/maggie.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Maggie Meadows</span>
 		</a>
-				<a class="featured_profile" href="http://banana1015.com/author/cmonroe/">
-			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2011/06/chris1.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Chris Monroe</span>
+				<a class="featured_profile" href="http://banana1015.com/author/tmorley/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2013/01/Tim-Morley-Mug-Shot.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Sarge</span>
 		</a>
 				<a class="featured_profile" href="http://banana1015.com/author/wriddle/">
 			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2011/06/tree.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Tree Riddle</span>
 		</a>
+				<a class="featured_profile" href="http://banana1015.com/author/cmonroe/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2011/06/chris1.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Chris Monroe</span>
+		</a>
 				<a class="featured_profile" href="http://banana1015.com/author/aerickson/">
 			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2011/06/anne.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Anne Erickson</span>
 		</a>
+				<a class="featured_profile" href="http://banana1015.com/author/ltruax/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/07/Lance.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Lance Truax</span>
+		</a>
+				<a class="featured_profile" href="http://banana1015.com/author/egoodfellow/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2013/01/me.jpeg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Ethan Goodfellow</span>
+		</a>
 		</div>
-<p class="more_act"><a href="/djs" title="Vane — Suicide Girl of the Day">See All DJs</a></p></div><div id="now-playing-6" class="widget now-playing widget_now-playing clearfix"><div class="widget_header clearfix"><h4>Recently Played</h4></div><div class="now-playing-playlist" data-init-songs="5">
+	<p class="more_act"><a href="/djs" title="See All DJs">See All DJs</a></p>
+	</div><div id="now-playing-6" class="widget now-playing widget_now-playing clearfix"><div class="widget_header clearfix"><h4>Recently Played</h4></div><div class="now-playing-playlist" data-init-songs="5">
 	<div class="now_playing_ul_wrap clearfix">
 		<ul class="townsquare_playlist">
 			<li class="townsquare_song %TIMESTAMP% border_bottom clearfix factory">
@@ -607,156 +444,114 @@ _gaq.push(['_trackPageview']);
 			</li>
 		</ul>
 	</div><!-- // #.now_playing_ul_wrap -->
-	<p class="more_act"><a href="/playlist/" title="View Last 50 Songs Played">View Last 50 Songs Played</a></p></div>
-</div><div id="widget_facebook_like_activity_widget-5" class="widget widget_facebook_like_activity_widget  clearfix">        <div class="widget_bg">
-	                    <div id="fb-combo-top">
-	            <fb:like-box href="http://www.facebook.com/Banana1015" width="300" height="65" colorscheme="" border_color="#FFFFFF" show_faces="false" stream="false" header="false"></fb:like-box>
+	<p class="more_act"><a href="/playlist/" title="Last 50 Songs Played">Last 50 Songs Played</a></p>
+</div>
+</div><div id="widget_facebook_like_activity_widget-5" class="widget widget_facebook_like_activity_widget  clearfix"><div class="widget_header clearfix"><h4>Banana 101.5 on Facebook</h4></div>        <div class="widget_bg">
+	                    <div id="fb-combo-bottom">
+	            <fb:like-box href="http://www.facebook.com/Banana1015" width="300" height="350" colorscheme="dark" border_color="#FFFFFF" show_faces="true" stream="false" header="false"></fb:like-box>
             </div>
-	        <div id="fb-combo-bottom">
-		        <fb:activity site="http://banana1015.com" width="300" height="350" colorscheme="" border_color="#FFFFFF" header="false" font="segoe ui" recommendations="false"></fb:activity>
-	        </div>
-	        
+			
                     </div>
-        </div>
-<style>
-#ts_blogroll-3.sponsored.widget .widget_header { background-image: url("http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/11/rightrailbackground.jpg"); }
-#ts_blogroll-3.sponsored.widget .widget_title { text-shadow: 1px 1px #000000; }
-#ts_blogroll-3.sponsored.widget .widget_header { background-repeat: no-repeat; }
-</style><div id="ts_blogroll-3" class="sponsored widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4><a title="Men\'s Club" class="sponsor_image" href="http://tmcflint.com/" target="_blank"><img alt="Men\'s Club" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/11/rightrail_presentedbylogo.jpg"></a>HOT CHICKS</h4></div><article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://banana1015.com/vane-suicide-girl-of-the-day/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Vane Suicide Girl" title="Vane Suicide Girl" datasrc="http://guyspeed.com/files/2012/12/Vane04.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://banana1015.com/vane-suicide-girl-of-the-day/">Vane — Suicide Girl of the Day</a>
-        <em>Yesterday</em>
-    </div>
+        </div><div id="tsq_sailthru_newsletter_widget-2" class="widget tsq_sailthru_newsletter_widget TSQ_sailthru_newsletter_widget_class clearfix"><div class="widget_header clearfix"><h4>Sign up for our newsletter</h4></div><div class="gform_wrapper">
+				<form action="" method="post">
+					<div class="gform_heading">
+					<span class="gform_description">Sign up for our newsletter!</span>
+				</div>
+				<div class="sailthru-newsletter">
+					<input class="sailthru-email" type="text" name="email" value="" placeholder="email address">
+					<div>
+						<input type="hidden" name="list" value="Banana">
+						<input type="hidden" name="tsq-st-widget-is_submitted" value="true">
+						<input type="submit" class="button sailthru-button" value="SIGN UP NOW">
+					</div>
+				</div>
+				</form>
+			</div></div><div id="promotion-4" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>MILFS</h4></div>
+<article class="single">
+		<figure>
+				<a href="http://banana1015.com/enter-here-to-become-the-mother-of-all-milfs/" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="Banana 101.5" title="'The Mother of All MILFs' from The Men's Club and Banana 101.5" datasrc="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/05/MILFinal.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+			</figure>
+		<div class="excerpt clearfix">
+				<p>Are you the sexiest Mom in Flint? If so, send us your picture and you could win a new iPad, $200 in spa treatment and be crowned "The Mother of All MILFs." </p>
+			</div>
 </article>
-<article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://banana1015.com/angela-wynn-vargas-babe-of-the-day/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Angela Wynn Vargas" title="Angela Wynn Vargas" datasrc="http://guyspeed.com/files/2012/12/Angela-Wynn-Vargas.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://banana1015.com/angela-wynn-vargas-babe-of-the-day/">Angela Wynn Vargas — Babe of the Day</a>
-        <em>Yesterday</em>
-    </div>
+<p class="more_act"><a href="http://banana1015.com/enter-here-to-become-the-mother-of-all-milfs/" title="Enter Here!" target="_self">Enter Here!</a></p></div><div id="promotion-3" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>2013 Preview</h4></div>
+<article class="single">
+		<figure>
+				<a href="http://banana1015.com/2013/" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="2013" title="2013" datasrc="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2013/03/2013.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+			</figure>
+		<div class="excerpt clearfix">
+				<p>Get the latest on hot new movies, TV shows and music releases here.</p>
+			</div>
 </article>
-<article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://banana1015.com/kina-tavarozi-babe-of-the-day/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="K1" title="K1" datasrc="http://guyspeed.com/files/2012/12/K11.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://banana1015.com/kina-tavarozi-babe-of-the-day/">Kina Tavarozi — Babe of the Day</a>
-        <em>2 days ago</em>
-    </div>
-</article>
-<article class="small_thumb_title_date last clearfix">
-        <figure>
-        <a href="http://banana1015.com/jessica-quiin-babe-of-the-day/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Jessica Quiin Pics" title="Jessica Quiin Pics" datasrc="http://guyspeed.com/files/2012/12/JES.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://banana1015.com/jessica-quiin-babe-of-the-day/">Jessica Quiin — Babe of the Day</a>
-        <em>3 days ago</em>
-    </div>
-</article>
-</div><div id="gform_widget-5" class="widget gform_widget clearfix"><div class="widget_header clearfix"><h4>Sign Up For Our Newsletter</h4></div>
-                <div class="gform_wrapper" id="gform_wrapper_9"><form method="post" enctype="multipart/form-data" id="gform_9" action="http://banana1015.com/privacy/">
-                        <div class="gform_body">
-                            <ul id="gform_fields_9" class="gform_fields top_label"><li id="field_9_1" class="gfield"><label class="gfield_label" for="input_9_1">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_9_1" type="text" value="" class="large" tabindex="1"></div></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_9" class="button gform_button" value="Sign Up Now" tabindex="2">
-            <input type="hidden" class="gform_hidden" name="is_submit_9" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="9">
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="50de7e0075f7b">
-            <input type="hidden" class="gform_hidden" name="state_9" value="YToyOntpOjA7czo2OiJhOjA6e30iO2k6MTtzOjMyOiI4MDFmZmQ2ZDMyZjgyNGM5YzlkNjk0Y2VhMmNjMWRjZCI7fQ==">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_9" id="gform_target_page_number_9" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_9" id="gform_source_page_number_9" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                </form>
-                </div></div><div id="widget_std-3" class="widget widget_std  clearfix"><div class="widget_header clearfix"><h4>Seize the Deal</h4></div><div class="textwidget">
-	<div class="std_banner"><a href="http://ww2.seizethedeal.com/deals/one-year-membership-at-um-flint-recreation-center?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://production.townsquaresites.com/wp-content/uploads/2011/09/StDHeader.png"></a></div>
-	<div class="std_img"><a href="http://ww2.seizethedeal.com/deals/one-year-membership-at-um-flint-recreation-center?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://6fdae3b69909ba81a623-dba1f64a3f969774cdd587a3528671a8.r28.cf1.rackcdn.com/medias/22252/mini/UMpool.jpg?1355863239" height="200" width="300"></a></div>
-	<div class="std_desc widget_bg"><a href="http://ww2.seizethedeal.com/deals/one-year-membership-at-um-flint-recreation-center?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" target="_blank">One-Year Membership at UM-Flint Recreation Center</a></div>
-	<p class="more_act std_buy"><a href="http://ww2.seizethedeal.com/deals/one-year-membership-at-um-flint-recreation-center?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" title="Buy This Deal Now" target="_blank">Buy This Deal Now</a></p></div>
+<p class="more_act"><a href="http://banana1015.com/2013/" title="See More Here" target="_self">See More Here</a></p></div><div id="widget_tsiwd-2" class="widget widget_tsiwd  clearfix"><div class="widget_header clearfix"><h4>Small Business Solutions</h4></div><div>
+	<img style="background-color:#f23333" src="http://production.townsquaresites.com/wp-content/uploads/2013/04/tsi-widget-promo.png">
+	<ul>
+		<li>Take charge of your business online and off</li>
+		<li>Personalize your site with ease, or we'll do the honor</li>
+		<li>Search friendly? Social? Like, totally</li>
+	</ul>
+	<p class="more_act">
+		<a href="http://banana1015.com/flint-web-design">Find Out More</a>
+	</p>
+</div>
+</div><div id="widget_std-3" class="widget widget_std  clearfix"><div class="widget_header clearfix"><h4>Seize the Deal</h4></div><div class="textwidget">
+	<div class="std_banner"><a href="http://www.seizethedeal.com/deals/10-toward-delicious-food-at-calvelli-s?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://production.townsquaresites.com/wp-content/uploads/2011/09/StDHeader.png"></a></div>
+	<div class="std_img"><a href="http://www.seizethedeal.com/deals/10-toward-delicious-food-at-calvelli-s?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://6fdae3b69909ba81a623-dba1f64a3f969774cdd587a3528671a8.r28.cf1.rackcdn.com/medias/22951/mini/PizzaVeggiesRESIZED.jpg?1358878493" height="200" width="300"></a></div>
+	<div class="std_desc widget_bg"><a href="http://www.seizethedeal.com/deals/10-toward-delicious-food-at-calvelli-s?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" target="_blank">$10 Toward Delicious Food at Calvelli's</a></div>
+	<p class="more_act std_buy"><a href="http://www.seizethedeal.com/deals/10-toward-delicious-food-at-calvelli-s?d=d&amp;utm_source=WWBNFM&amp;utm_campaign=WP-right-rail" title="Buy This Deal Now" target="_blank">Buy This Deal Now</a></p>
+</div>
 </div><div id="promotion-2" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>Local Experts</h4></div>
 <article class="single">
 		<figure>
-				<a href="http://banana1015.com/vip/promotions/local-experts-26/" target=""><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="Local-Experts-ThinkStock-300x200" title="Local-Experts-ThinkStock-300x200" datasrc="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/10/Local-Experts-ThinkStock-300x200.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+				<a href="http://banana1015.com/vip/promotions/local-experts-26/" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="Local-Experts-ThinkStock-300x200" title="Local-Experts-ThinkStock-300x200" datasrc="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/files/2012/10/Local-Experts-ThinkStock-300x200.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
 			</figure>
 		<div class="excerpt clearfix">
 				<p>When you need advice, you turn to the experts. These Flint experts can help with everything from home repairs to physical therapy. </p>
 			</div>
 </article>
-<p class="more_act"><a href="http://banana1015.com/vip/promotions/local-experts-26/" title="Vane — Suicide Girl of the Day">Let Our Experts Help You!</a></p></div><div id="loyalty_widgets_sidebar_feed-6" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>Prizes + Rewards</h4></div>        <article class=" clearfix">
+<p class="more_act"><a href="http://banana1015.com/vip/promotions/local-experts-26/" title="Let Our Experts Help You!" target="_self">Let Our Experts Help You!</a></p></div><div id="loyalty_widgets_sidebar_feed-6" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>Prizes + Rewards</h4></div>        <article class=" clearfix">
             <figure>
-                <a href="http://banana1015.com/vip/coupons/magoos-outlet-coupon/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="pets" title="pets" datasrc="http://loyalty.production.townsquaresites.com/files/2012/12/pets.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+                <a href="http://banana1015.com/vip/contests/contest/enter-here-to-win-500/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="STD - Ingram Publishing" title="STD - Ingram Publishing" datasrc="http://loyalty.production.townsquaresites.com/files/2013/04/STD-Ingram-Publishing.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://banana1015.com/vip/coupons/magoos-outlet-coupon/" class="excerpt">
-                <h5>Magoo’s Outlet [COUPON]</h5>
-                <p>Get this coupon for 20% off Nurisource Dog food for the month of December!</p>
+            <a href="http://banana1015.com/vip/contests/contest/enter-here-to-win-500/" class="excerpt">
+                <h5>Enter Here to Win $500</h5>
+                <p>Want $500? Enter here for a chance to win.</p>
             </a>
         </article>
                 <article class=" clearfix">
             <figure>
-                <a href="http://banana1015.com/vip/contests/contest/1000-cash/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="cash" title="cash" datasrc="http://loyalty.production.townsquaresites.com/files/2012/06/cash18.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+                <a href="http://banana1015.com/vip/contests/contest/250-bass-pro-shops/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="gonefishing" title="gonefishing" datasrc="http://loyalty.production.townsquaresites.com/files/2013/04/gonefishing.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://banana1015.com/vip/contests/contest/1000-cash/" class="excerpt">
-                <h5>$1,000 Cash</h5>
-                <p>Enter to Win</p>
+            <a href="http://banana1015.com/vip/contests/contest/250-bass-pro-shops/" class="excerpt">
+                <h5>$250 Bass Pro Shops</h5>
+                <p>Enter to win a $250 Bass Pro Shops Gift Card!</p>
             </a>
         </article>
                 <article class="last clearfix">
             <figure>
-                <a href="http://banana1015.com/vip/coupons/tia-heletas-coupon/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="78364967" title="78364967" datasrc="http://loyalty.production.townsquaresites.com/files/2012/12/78364967.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+                <a href="http://banana1015.com/vip/contests/contest/ipad-3-7/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="ipad 3" title="ipad 3" datasrc="http://loyalty.production.townsquaresites.com/files/2013/04/ipad-31.png?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://banana1015.com/vip/coupons/tia-heletas-coupon/" class="excerpt">
-                <h5>Tia Heleta’s [COUPON]</h5>
-                <p>Purchase coupon for Free chips and salsa with any dinner entree for 10 points!</p>
+            <a href="http://banana1015.com/vip/contests/contest/ipad-3-7/" class="excerpt">
+                <h5>iPad 3</h5>
+                <p>Enter to Win</p>
             </a>
         </article>
-        </div><div id="events-list-widget-4" class="widget eventsListWidget clearfix"><div class="widget_header clearfix"><h4>Banana Events</h4></div><ul class="upcoming"><li class="post-161660 sp_events type-sp_events status-publish hentry cat_auto-dealership cat_remote-broadcasts">
-	<div class="when">
-		December 29, 2012 
-	</div>
-	<div class="event">
-		<a href="http://banana1015.com/event/lasco-ford-in-fenton-9/">Lasco Ford in Fenton</a>
-	</div>
-	<div class="loc">	</div>
-</li>
-<li class="post-163188 sp_events type-sp_events status-publish hentry alt">
-	<div class="when">
-		December 31, 2012 
-	</div>
-	<div class="event">
-		<a href="http://banana1015.com/event/new-years-eve-downtown-flint/">New Year's Eve Downtown Flint</a>
-	</div>
-	<div class="loc">	</div>
-</li>
-<li class="post-166488 sp_events type-sp_events status-publish hentry cat_concerts cat_remote-broadcasts">
-	<div class="when">
-		January 11, 2013 
-	</div>
-	<div class="event">
-		<a href="http://banana1015.com/event/frequency-fifty-four-at-the-machine-shop/">Frequency Fifty-Four at The Machine Shop</a>
-	</div>
-	<div class="loc">	</div>
-</li>
-</ul><div class="dig-in"><a href="http://banana1015.com/events/month/">View All Events</a></div></div><div id="weather-widget-current-3" class="widget weather-widget-current clearfix"><div class="widget_header clearfix"><h4>Today’s Forecast</h4></div><div id="wreport-wid">            <div id="whldr">
+        </div><div id="weather-widget-current-3" class="widget weather-widget-current clearfix"><div class="widget_header clearfix"><h4>Today’s Forecast</h4></div><div id="wreport-wid">            <div id="whldr">
                                 <div class="wlhr">
                     <ul>
                         <li class="temp">
 
 
-                            <p class="tmprtre"><a href="/flint-weather/">25°<span> F</span></a></p>                        </li>
+                            <p class="tmprtre"><a href="/flint-weather/">36°<span> F</span></a></p>                        </li>
 
                         <li class="tlist">
                             <ul>
-                                <li><span>Humidity: </span><em>81%</em></li>
-                                <li><span>Wind Speed: </span><em>E 7 MPH</em></li>
-                                <li><span>Barometer: </span><em>29.95"</em></li>
-                                <li><span>Dewpoint: </span><em>20°F (-6°C)</em></li>
-                                <li><span>Visibility: </span><em>7 mi.</em></li>
+                                <li><span>Humidity: </span><em>86%</em></li>
+                                <li><span>Wind Speed: </span><em>NNW 12 MPH</em></li>
+                                <li><span>Barometer: </span><em>29.85"</em></li>
+                                <li><span>Dewpoint: </span><em>32°F (0°C)</em></li>
+                                <li><span>Visibility: </span><em>5 mi.</em></li>
                             </ul>
                         </li>
 
@@ -765,12 +560,12 @@ _gaq.push(['_trackPageview']);
 
                 <div class="wicon border_left">
                     <p>
-                        <a href="/flint-weather/"><img width="50" height="50" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/weather-widget/wicons/wx_103.png"></a>
+                        <a href="/flint-weather/"><img width="50" height="50" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/weather-widget/wicons/wx_67.png"></a>
                     </p>
 
                     <p>Overcast</p>
                     <p class="shrtphrase">
-                        Snow showers                    </p>
+                        Showers possible                    </p>
                 </div>
 
                 <!--<div id="lbtn">
@@ -790,106 +585,117 @@ _gaq.push(['_trackPageview']);
 </div><!-- // #main-container -->
 
 <footer id="footer_wrap" class="footer_wrap clearfix">
-    <div id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-7" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimateclassicrock.com" target="_blank"><img src="http://loudwire.production.townsquaresites.com/files/2011/08/UCR.png "></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/rudy-sarzo-explains-why-he-joined-queensryche/" title="Rudy Sarzo Explains Why He Joined Geoff Tate's Queensryche" target="_blank">Rudy Sarzo Explains Why He Joined Geoff Tate's Queensryche</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/night-ranger-songs/" title="Top 10 Night Ranger Songs" target="_blank">Top 10 Night Ranger Songs</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/1977-songs/" title="Top 10 Songs of 1977" target="_blank">Top 10 Songs of 1977</a></span></li></ul></div><div id="rss-feed-4" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://loudwire.com" target="_blank"><img src="http://ultimateclassicrock.com/files/2011/08/loudwire.png "></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/keyboardist-randy-gane-of-geoff-tate-queensryche-suffers-heart-attack/" title="Keyboardist Randy Gane of Geoff Tate's Queensryche Suffers Heart Attack" target="_blank">Keyboardist Randy Gane of Geoff Tate's Queensryche Suffers Heart Attack</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/the-used-bert-mccracken-drops-pants-recording-on-black-veil-brides-album/" title="The Used's Bert McCracken Drops Pants While Recording Guest Spot on Black Veil Brides Album" target="_blank">The Used's Bert McCracken Drops Pants While Recording Guest Spot on Black Veil Brides Album</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/top-20-songs-week-of-december-23-29-2012/" title="Top 20 Songs: Week of December 23-29, 2012" target="_blank">Top 20 Songs: Week of December 23-29, 2012</a></span></li></ul></div><div id="rss-feed-6" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://guyspeed.com" target="_blank"><img src="http://loudwire.com/files/2011/10/guyspeed_150.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://guyspeed.com/texas-rancher-feeds-cattle-beer-for-better-steaks/" title="Texas Rancher Feeds Cattle Beer for Better Steaks" target="_blank">Texas Rancher Feeds Cattle Beer for Better Steaks</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://guyspeed.com/edge-of-twilight-to-bring-steampunk-glory-to-xbox-360-and-ps3/" title="Edge of Twilight To Bring Steampunk Glory to Xbox 360 and PS3" target="_blank">Edge of Twilight To Bring Steampunk Glory to Xbox 360 and PS3</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://guyspeed.com/man-arrested-for-dirty-dancing-in-his-living-room-window/" title="Man Arrested for Dirty Dancing in His Living Room Window" target="_blank">Man Arrested for Dirty Dancing in His Living Room Window</a></span></li></ul></div><div id="rss-feed-5" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://rockmusicreport.com/" target="_blank"><img src="http://rockmusicreport.com/files/2012/08/rock_music_report_150x60-white.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://rockmusicreport.com/the-sword-releases-apocryphon-as-a-limited-edition-180-gram-audiophile-black-lp/" title="The Sword Releases Apocryphon As A Limited-Edition 180 Gram Audiophile Black LP" target="_blank">The Sword Releases Apocryphon As A Limited-Edition 180 Gram Audiophile Black LP</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://rockmusicreport.com/the-shrine-and-graveyard-to-team-up-for-monthlong-u-s-tour/" title="The Shrine and Graveyard to Team Up for Monthlong U.S. Tour" target="_blank">The Shrine and Graveyard to Team Up for Monthlong U.S. Tour</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://rockmusicreport.com/hawthorne-heights-return-to-vans-warped-tour-this-summer-for-first-time-in-six-years/" title="Hawthorne Heights Return To Vans Warped Tour This Summer For First Time in Six Years" target="_blank">Hawthorne Heights Return To Vans Warped Tour This Summer For First Time in Six Years</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix"><div class="menu"><ul><li class="page_item"><a href="http://banana1015.com/eeo" title="EEO" target="_parent">EEO</a></li><li class="page_item"><a href="http://banana1015.com/terms" title="Terms" target="_parent">Terms</a></li><li class="page_item"><a href="http://banana1015.com/vip-terms" title="VIP Terms &amp; Conditions" target="_parent">VIP Terms &amp; Conditions</a></li><li class="page_item"><a href="http://banana1015.com/vip-faq" title="FAQ" target="_parent">FAQ</a></li><li class="page_item"><a href="http://banana1015.com/privacy" title="Privacy" target="_parent">Privacy</a></li><li class="page_item"><a href="http://banana1015.com/help" title="Help &amp; Contact" target="_parent">Help &amp; Contact</a></li><li class="page_item"><a href="http://townsquaremediagroup.com" title="Townsquare" target="_blank">Townsquare</a></li><li class="page_item"><a href="http://wcrz.com/flint-featured-business-listings/" title="Flint Business Listings" target="_blank">Flint Business Listings</a></li></ul></div></div><div id="network_links" class="horizontal_navigation clearfix"><div id="network_footer" class="menu"><ul><li class="page_item"><a href="http://tasteofcountry.com" title="Country" target="_blank">Country</a></li><li class="page_item"><a href="http://popcrush.com" title="Pop Music" target="_blank">Pop Music</a></li><li class="page_item"><a href="http://ultimateclassicrock.com" title="Classic Rock" target="_blank">Classic Rock</a></li><li class="page_item"><a href="http://loudwire.com" title="Rock News" target="_blank">Rock News</a></li><li class="page_item"><a href="http://diffuser.fm" title="Indie" target="_blank">Indie</a></li><li class="page_item"><a href="http://thefw.com" title="Funny" target="_blank">Funny</a></li><li class="page_item"><a href="http://guyspeed.com" title="GuySpeed" target="_blank">GuySpeed</a></li><li class="page_item"><a href="http://screencrush.com" title="Movies" target="_blank">Movies</a></li><li class="page_item"><a href="http://thedrop.fm" title="Hip-Hop" target="_blank">Hip-Hop</a></li><li class="page_item"><a href="http://ultimatemetallica.com/" title="Metallica" target="_blank">Metallica</a></li><li class="page_item"><a href="http://starcrush.com/" title="Celebs" target="_blank">Celebs</a></li><li class="page_item"><a href="http://arcadesushi.com/" title="Video Games" target="_blank">Video Games</a></li><li class="page_item"><a href="http://allchristmas.fm/" title="Christmas" target="_blank">Christmas</a></li></ul></div></div></footer><!-- // footer -->
-
-<script type="text/javascript">jQuery(function(){ jQuery.getScript('http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/sonar-load/resources/js/sonarImages.js?version=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf');});</script><script type="text/javascript">jQuery(function(){ jQuery.getScript('http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/sonar-load/resources/js/sonarFacebook.js?version=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf');});</script><script type="text/javascript">jQuery(function(){ jQuery.getScript('http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/sonar-load/resources/js/sonarStumble.js?version=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf');});</script><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
-<script type="text/javascript">AudioPlayer.setup("http://banana1015.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"300",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"FFFFFF",text:"000000",leftbg:"3F6517",lefticon:"FFFFFF",volslider:"FFFFFF",voltrack:"ffffff",rightbg:"3F6517",rightbghover:"",righticon:"FFFFFF",righticonhover:"FFFFFF",track:"FFFFFF",loader:"FFFFFF",border:"FFFFFF",tracker:"ffffff",skip:"000000",pagebg:"ffffff",transparentpagebg:"yes"});</script>
-
-<!-- Facebook connect Callback v2.3.0 -->
-
-<form id="wp-fb-ac-fm" name="jfb_js_login_callback_form" method="post" action="/fbregister/?tsm-fb-register-page=1">
-      <input type="hidden" name="redirectTo" value="/privacy/">
-
-<input type="hidden" name="rememberme" id="fb_rememberme" value="0">      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="18d3786cbb"><input type="hidden" name="_wp_http_referer" value="/privacy/">    </form>
-<script type="text/javascript">//<!--
-
-function hideFancyBox(){
-	jQuery("#fancybox-close").trigger("click");
-}
-
-function jfb_js_login_callback()
-{
-
-
-	var rememberme = document.getElementById('rememberme');
-if( rememberme && rememberme.checked ) document.getElementById('fb_rememberme').value = 1
-    //Make sure the user logged in
-    FB.getLoginStatus(function(response)
-    {
-      if (!response.authResponse)
-      {
-      return false;
-      }
-
-      document.jfb_js_login_callback_form.submit();
-    });
-}
-//--></script>
-    <div id="inline_register_selection_wrap" class="cloak">
-	<div id="inline_register_selection">
-		
-<div id="registration_modal" class="content_bg clearfix">
-	<p class="title top_hat"><span>Registration Flint's Rock Radio</span></p>
-	<div class="registermsg">
-		<p>Sign up for an account to comment, share your thoughts, and earn points to get great prizes.</p>
-			</div>
-
-	<div class="registration_holder">
-
-		<a id="register_btn" class="button-primary button" href="/registration" tabindex="503">Registration</a>
-
-
-		<script>
-			function fbLoginDialog(){
-
-				var w=500,h=300;
-				var posx = (screen.width/2)-(w/2);
-				var posy = (screen.height/2)-(h/2);
-				signinWin = window.open("https://www.facebook.com/dialog/oauth?client_id=68183897688&display=popup&redirect_uri=http:%2F%2Ftest.townsquare.local%2Fwp-content%2Fplugins%2Fwp-fb-autoconnect%2Fcustompages%2Fregistration-dialog.php&scope=email,read_stream", "SignIn", "width=780,height=410,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0,left=" + posx + ",top=" + posy);
-				signinWin.focus();
-
-			}
-		</script>
-
-		<!-- Facebook connect Button v2.3.0 -->
-
-<div class="fb-register-btn border_top">
-
-	
-	<fb:login-button size="large" scope="email,user_birthday,user_status,publish_actions,user_about_me,user_location,user_likes,user_hometown" onlogin="window.location = &quot;/?fbregister=1&quot;;hideFancyBox();">Register with Facebook</fb:login-button>
-	<!--<div><img src="http://test.townsquare.local/wp-content/plugins/wp-fb-autoconnect/custompages/images/login-facebook-button.png"  onclick="fbLoginDialog();" style="cursor:pointer;"/></div>-->
-</div>
-<p class="fb-reg-msg">Register for  Flint's Rock Radio quickly by logging in with your Facebook account. It's just as secure and no passwords to remember!</p>
-
-<!--Premium Add-On #1316, version 26-->
-
-	</div> <!-- // .registration_holder -->
-
-</div><!-- // .registration_form_Wrap -->
-
+    <div id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-4" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://loudwire.com" target="_blank"><img src="http://ultimateclassicrock.com/files/2011/08/loudwire.png "></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/daily-reload-black-sabbath-rob-zombie-more/" title="Daily Reload: Black Sabbath, Rob Zombie + More" target="_blank">Daily Reload: Black Sabbath, Rob Zombie + More</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/iron-maiden-make-me-happy-best-of-youtube/" title="'Iron Maiden Make Me Happy' – Best of YouTube" target="_blank">'Iron Maiden Make Me Happy' – Best of YouTube</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/sharon-osbourne-devastated-by-ozzy-osbourne-drug-alcohol-abuse/" title="Sharon Osbourne 'Devastated' by Ozzy Osbourne's Recent Drug + Alcohol Abuse" target="_blank">Sharon Osbourne 'Devastated' by Ozzy Osbourne's Recent Drug + Alcohol Abuse</a></span></li></ul></div><div id="rss-feed-7" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimateclassicrock.com" target="_blank"><img src="http://loudwire.production.townsquaresites.com/files/2011/08/UCR.png "></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/bon-jovi-online-concert/" title="Bon Jovi Streaming Final Concert of Current US Tour Online" target="_blank">Bon Jovi Streaming Final Concert of Current US Tour Online</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/iron-maiden-2014-new-album/" title="Iron Maiden Hint at New Studio Album Plans" target="_blank">Iron Maiden Hint at New Studio Album Plans</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/ozzy-osbourne-sharon-foot/" title="Sharon Osbourne Promises To Stick Her Foot Up Ozzy's Ass if He Doesn't Stay Sober" target="_blank">Sharon Osbourne Promises To Stick Her Foot Up Ozzy's Ass if He Doesn't Stay Sober</a></span></li></ul></div><div id="rss-feed-6" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://diffuser.fm" target="_blank"><img src="http://diffuser.fm/files/2012/03/150x60-white.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/muse-panic-station-video-controversey/" title="News Bits: Muse's 'Panic Station' Video Stirs Controversy + More" target="_blank">News Bits: Muse's 'Panic Station' Video Stirs Controversy + More</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/4knots-music-festival-2013-lineup/" title="4Knots Music Festival 2013 Adds White Lung, Reigning Sound + More to Lineup" target="_blank">4Knots Music Festival 2013 Adds White Lung, Reigning Sound + More to Lineup</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/jens-lekman-regarding-a-package/" title="Jens Lekman, 'Regarding a Package' [Listen]" target="_blank">Jens Lekman, 'Regarding a Package' [Listen]</a></span></li></ul></div><div id="rss-feed-5" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://screencrush.com" target="_blank"><img src="http://ultimateclassicrock.com/files/2012/03/150x60.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/elementary-season-finale-arnold-vosloo-moriarty/" title="'Elementary' Season Finale: Is Arnold Vosloo Our Moriarty?" target="_blank">'Elementary' Season Finale: Is Arnold Vosloo Our Moriarty?</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/amazon-zombieland-tv-series-changes/" title="Amazon's 'Zombieland' TV Series: Writers Open Up about Movie-TV Changes" target="_blank">Amazon's 'Zombieland' TV Series: Writers Open Up about Movie-TV Changes</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/ed-helms-vacation-delayed/" title="Ed Helms Won't Be Taking That 'Vacation' Anytime Soon" target="_blank">Ed Helms Won't Be Taking That 'Vacation' Anytime Soon</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix">
+		<div id="" class="menu">
+		<ul>
+					<li class="page_item">
+				<a href="http://banana1015.com/eeo" title="EEO" target="_parent">EEO</a>
+			</li>
+					<li class="page_item">
+				<a href="http://banana1015.com/advertise" title="Advertise With Banana 101.5" target="_parent">Advertise With Banana 101.5</a>
+			</li>
+					<li class="page_item">
+				<a href="http://banana1015.com/terms" title="Terms" target="_parent">Terms</a>
+			</li>
+					<li class="page_item">
+				<a href="http://banana1015.com/vip-terms" title="VIP Terms &amp; Condition" target="_parent">VIP Terms &amp; Condition</a>
+			</li>
+					<li class="page_item">
+				<a href="http://banana1015.com/vip-faq" title="FAQ" target="_parent">FAQ</a>
+			</li>
+					<li class="page_item">
+				<a href="http://banana1015.com/privacy" title="Privacy" target="_parent">Privacy</a>
+			</li>
+					<li class="page_item">
+				<a href="http://banana1015.com/help" title="Help &amp; Contact" target="_parent">Help &amp; Contact</a>
+			</li>
+					<li class="page_item">
+				<a href="http://townsquaremediagroup.com" title="Townsquare" target="_blank">Townsquare</a>
+			</li>
+					<li class="page_item">
+				<a href="http://wcrz.com/tsi-flint-business-listings/" title="Flint Business Listings" target="_blank">Flint Business Listings</a>
+			</li>
+				</ul>
 	</div>
-</div><!-- ip: 204.236.235.245 -->
-<!-- Page rendered at 12:22:08 am 12/29/12 --><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/radio-page/resources/player-popup.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/js/jquery.platformselector.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/widgets/request-song/js/request_song.js?ver=4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-try{convertEntities(pwsL10n);}catch(e){};;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-admin/js/password-strength-meter.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-admin/js/user-profile.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/widgets/listen-live-bar/js/listen-live-bar.js?4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/widgets/now-playing/js/now-playing.js?4d5713927e636f22fc7e7f836de8e2d4d53c6cbf"></script>
+	</div><div id="network_links" class="horizontal_navigation clearfix">
+	</div></footer><!-- // footer -->
+
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://banana1015.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"300",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"FFFFFF",text:"000000",leftbg:"3F6517",lefticon:"FFFFFF",volslider:"FFFFFF",voltrack:"ffffff",rightbg:"3F6517",rightbghover:"",righticon:"FFFFFF",righticonhover:"FFFFFF",track:"FFFFFF",loader:"FFFFFF",border:"FFFFFF",tracker:"ffffff",skip:"000000",pagebg:"ffffff",transparentpagebg:"yes"});</script>
+<div style="display:none;">
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="a7fdd0ee05"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
+	<div id="fb-auth-account-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to Flint's Rock Radio</h3>
+		<p>It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>. To keep your points and personal information safe, we need to verify that it's really you. To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password. When you have confirmed your password, you will be able to log in through Facebook on both sites.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Enter your password</label>
+			<input class="password" type="password" name="cpwd" value="">
+			<a class="forgot generic-link-color" href="/login/?action=lost-password">Forgot your password?</a>
+		</p>
+		<div class="default-button">
+			<a href="#">YES, Activate My Account Now!</a>
+		</div>
+		<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+
+	<div id="fb-auth-site-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to Flint's Rock Radio</h3>
+		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account with your Facebook account, just click on the account activation button below. You will maintain your existing profile and VIP program points. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://banana1015.com" target="_blank">http://banana1015.com</a> using your Facebook account.</p>
+		<p class="error-messages"></p>
+		<div class="default-button"><a href="#">YES, Activate My Account Now!</a></div>
+				<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+
+	<div id="fb-auth-required-fields" class="fb-auth-form">
+		<h3 class="generic-link-color">We're Almost There!</h3>
+		<p>Please fill out the information below to help us provide you a better experience.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Zip</label>
+			<input class="zip" type="text" name="zip" value="">
+			<label class="subscribe">Subscribe to Newsletter</label>
+			<input class="newsletter" type="checkbox" name="newsletter" value="1" checked="checked">
+		</p>
+		<div class="default-button"><a href="#">Continue and Activate</a></div>
+	</div>
+
+	<div id="fb-auth-login" class="fb-auth-form">
+		<h3 class="generic-link-color">Sign into Flint's Rock Radio</h3>
+		<p class="error-messages"></p>
+		<label>User Name<span>(Email)</span></label>
+		<input type="text" class="username" tabindex="600" value="" name="username">
+		<label>Password <a class="forgot generic-link-color" href="http://banana1015.com/login/?action=lost-password">(Forgot your password?)</a></label>
+		<input type="password" class="password" tabindex="601" value="" name="password">
+		<div class="default-button login"><a href="#">Log In</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on Flint's Rock Radio quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+		<p class="register">Not a Member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign Up Here.</a></p>
+	</div>
+
+	<div id="fb-auth-registration" class="fb-auth-form">
+		<h3 class="generic-link-color">Registration Flint's Rock Radio</h3>
+		<p class="error-messages"></p>
+		<p>Sign up for an account to comment, share your thoughts, and earn points to get great prizes.</p>
+		<div class="default-button registration"><a href="/registration/">Registration</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on Flint's Rock Radio quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+	</div>
+</div><!-- Page rendered at 11:01:52 am 04/24/13 --><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=2"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/radio-page/resources/player-popup.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/js/handlebars.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/widgets/request-song/js/request_song.js?ver=41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/widgets/listen-live-bar/js/listen-live-bar.js?41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/banana1015.com/wp-content/widgets/now-playing/js/now-playing.js?41fb0aa0ce99b2668d5244668cd645fc0cea2d40"></script>
             <script type="text/javascript">
             	jQuery(document).ready( function(){
                 	PlayerPopupObj.init({
@@ -899,44 +705,14 @@ try{convertEntities(pwsL10n);}catch(e){};;
     				});
                 });
             </script>
-            <div class="fancybox-wrap">
-    <div id="inline_login">
-        <div id="login_modal">
-            <p class="top_hat"><span>Sign into Flint's Rock Radio</span></p>
-            <form id="login_form" class="login-registration" action="http://banana1015.com/login/?referer=http://banana1015.com/privacy" method="post" target="_parent">
-                <div class="input clearfix">
-                    <label for="user_login">User Name<span>(Email)</span></label>
-                    <input type="text" class="input validate valid-required" tabindex="500" size="22" value="" id="user_login" name="log">
-                </div><!-- // #.input -->
-                <div class="input clearfix">
-                    <label for="user_pass">Password</label>
-                    <input type="password" class="input validate valid-required" tabindex="501" size="22" value="" id="user_pass" name="pwd">
-                </div><!-- // #.input -->
-                <input type="submit" name="login_form_submit" id="login_form_submit" class="button-primary button submit-button clearfix" value="Log In" tabindex="503">
-                <input type="hidden" name="redirect_to" value="http://banana1015.com/privacy">
-                <input type="hidden" name="testcookie" value="1">
-            </form>
-            <!-- Facebook connect Button v2.3.0 -->
-
-<div class="fb-register-btn border_top">
-
-	
-
-	<fb:login-button size="large" scope="email,user_birthday,user_status,publish_actions,user_about_me,user_location,user_likes,user_hometown" onlogin="jfb_js_login_callback();hideFancyBox();">Login using Facebook</fb:login-button>
-	<!--<div><img src="http://test.townsquare.local/wp-content/plugins/wp-fb-autoconnect/custompages/images/login-facebook-button.png"  onclick="fbLoginDialog();" style="cursor:pointer;"/></div>-->
-</div>
-
-<!--Premium Add-On #1316, version 26-->
-            <p class="register-link">Not a Member? <a href="http://banana1015.com/registration/" target="_parent">Sign Up Here.</a></p>
-        </div>
-    </div>
-</div>
+            <!-- ip: 207.241.237.225 -->
 </div><!-- // #takeover_wrap.body_child  -->
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 2547/2564 objects using memcached
+Object Caching 2240/2322 objects using memcached
 Content Delivery Network via wac.450F.edgecastcdn.net/80450F/banana1015.com
 
-Served from: banana1015.com @ 2012-12-29 05:22:08 --></body></html>
+Served from: banana1015.com @ 2013-04-24 15:01:52 --></body></html>
