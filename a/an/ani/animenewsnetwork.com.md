@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921080256id_/http%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424083600id_/http%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Anime News Network
 
 #### Definitions
 
   * This policy governs [Anime News Network](https://web.archive.org/encyclopedia/company.php?id=7608) Inc. and Protoculture Inc.'s (US / WE / OUR) use of personal information, personally identifying information and statistical data we gather on readers and site visitors (YOU / YOUR) through logging, registration, surveys and other means. 
+  * This policy does not imply any right or restriction upon third parties' use the data that is publicly accessible on this website, 
   * "Personally identifying information" is information that can be used to identify you, such as your name, e-mail address, phone number, date of birth and so on... 
   * "Personal information" is information about you that is not generally available to the public, this includes your age, your shopping habits, what kind of home electronics you own and so on... 
   * "Statistical Data" is data compiled from other information, personal and otherwise that itself is not personally identifiable. For example the average age of our readers. their geographic dispersement and so on. 
@@ -67,6 +68,6 @@
 
 #### Closing Statement
 
-We value your privacy as if it were our own. We will never sell your e-mail address or any other information about you to a third party. Nor will we engage in any other behavior that could put your privacy in jeopardy. 
+We value your privacy as if it were our own. We will never sell your e-mail address or any other information about you to a third party. Nor will we knowingly engage in any other behavior that could put your privacy in jeopardy. 
 
 Questions or comments regarding our privacy policy should be sent to the editors via our [Contact Us](https://web.archive.org/contact) page. 
