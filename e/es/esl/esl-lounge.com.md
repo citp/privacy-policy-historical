@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010121807id_/http%3A//www.esl-lounge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424090512id_/http%3A//www.esl-lounge.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ESL Lounge
 
@@ -15,6 +15,8 @@ There is information about your computer hardware and software that is automatic
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+esl-lounge is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
 
 ### Registration Forms
 
@@ -46,7 +48,7 @@ This site contains links to other sites. _esl-lounge.com_ is not responsible for
 
 Our site provides users the opportunity to opt-out of receiving the site newsletter.
 
-You can send e-mail to [the webmaster](https://web.archive.org/web/20121010121807id_/http%3A//www.esl-lounge.com/contact.php)
+You can send e-mail to [the webmaster](https://web.archive.org/web/20130424090512id_/http%3A//www.esl-lounge.com/contact.php)
 
 ### Data Quality/Access
 
@@ -54,4 +56,4 @@ This site gives users the following options for changing and modifying informati
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20121010121807id_/http%3A//www.esl-lounge.com/contact.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20130424090512id_/http%3A//www.esl-lounge.com/contact.php)
