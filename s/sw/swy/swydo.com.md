@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swydo.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217062045id_/http%3A//www.swydo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swydo.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424160743id_/http%3A//www.swydo.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Swydo · Privacy policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -43,4 +43,4 @@ Swydo may periodically update this policy. We will notify you about significant 
 
 Any questions about this Privacy Policy should be addressed to support at swydo.com or by mail at: Swydo, Franciscusweg 249, 1216SG Hilversum, Netherlands
 
-Sign up for the free plan. No credit card required. [Start using Swydo](https://swydo.com/user/auth/signup)
+Sign up for the free plan. No credit card required. [Start using Swydo](https://app.swydo.com/)
