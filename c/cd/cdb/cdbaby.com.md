@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cdbaby.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020232454id_/http%3A//www.cdbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdbaby.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424212039id_/http%3A//www.cdbaby.com/privacy) for the most accurate reproduction.*
 
-# CD Baby | Privacy Policy
+# Privacy Policy | CD Baby Music Store
 
-Last Updated September 20, 2010.
+Last updated February 20, 2013.
 
 Audio & Video Labs, Inc. dba CD Baby ("CD Baby") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the CD Baby managed domains (including, but not limited to, www.cdbaby.com, www.cdbaby.net, and www.cdbaby.org) and websites or domain name, or any other linked pages, features, content, or application services offered from time to time by CD Baby in connection therewith (collectively, the "Website"), submitting information, or using any of our services, you acknowledge that you accept the practices and policies outlined in this privacy policy (the "Privacy Policy").
 
@@ -39,7 +39,7 @@ CD Baby may use all of the Information that we collect from our users to underst
 
 CD Baby may use automatically collected information and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized advertisements, content, and information; (c) monitor the effectiveness of our marketing campaigns; and (d) monitor aggregate usage metrics such as total number of visitors and pages viewed. 
 
-CD Baby may use your email address or other personally identifiable information to you promotional or marketing information or to provide you with information about a specific program or feature you have elected to participate in or receive information about.
+CD Baby may use your email address or other personally identifiable information provided by you for promotional purposes or to communicate with you with information about a specific program or feature you have elected to participate in or receive information about.
 
 **WILL CD BABY SHARE ANY OF THE INFORMATION IT RECEIVES?**  
 Information about our customers is an integral part of our business, and we may share such Information with our corporate parent or other affiliated entities. Except as expressly described below, we neither rent nor sell your Information to other people or nonaffiliated companies. We may share your Information when we have your permission, and we may share your Information under the following circumstances:
