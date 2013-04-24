@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securustech.net privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205065104id_/http%3A//www.securustech.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securustech.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424125939id_/http%3A//www.securustech.net/privacy.asp) for the most accurate reproduction.*
 
 # Securus Technologies :: Privacy Policy
 
@@ -44,10 +44,3 @@ Occasionally, at our discretion, we may include or offer third party products or
 If we decide to change our privacy policy, we will post those changes on this page. 
 
 This policy was last modified on 9/23/2010 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-www.securustech.net  
-corporate@securustech.net 
