@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the burn4free.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222236id_/http%3A//www.burn4free.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burn4free.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425010029id_/http%3A//www.burn4free.com/privacy.htm) for the most accurate reproduction.*
 
 # Burn4Free Privacy Statement
 
-  
+Privacy Statement
+
 Burn4Free has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: **Burn4Free**. 
 
 **Information Automatically Logged**  
