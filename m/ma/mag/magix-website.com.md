@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix-website.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123064227id_/http%3A//www.magix-online.com/us/privacy_statement.217.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix-website.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424102908id_/http%3A//www.magix-online.com/us/privacy-statement.217.html) for the most accurate reproduction.*
 
 # Privacy Statement > MAGIX Online World
 
