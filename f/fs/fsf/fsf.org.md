@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223023651id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424053733id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Software Foundation
 
@@ -14,9 +14,14 @@ _Notice: We installed a new analytics system in November, 2012. We now geolocate
 
 The FSF uses Piwik, a free software web analytics system, to monitor traffic on our Web sites. Piwik records the general geographical vicinity of visitors as well as their browser and operating system, and records their navigation within the sites. This helps us gauge the impact of our materials and improve our work.
 
-Our Piwik system preserves privacy by anonymizing visitors' IP address. This means that we will not store any personally identifiable information about you, even though your visit produces a record that our site was visited by someone.
+Our Piwik system preserves privacy by anonymizing visitors' IP addresses. This means that we will not store any personally identifiable information about you, even though your visit produces a record that our site was visited by someone.
 
-Piwik also respects the "Do Not Track" preference offered by some browsers, so if you have this option set, you will not be tracked at all.
+Piwik also respects the "Do Not Track" preference offered by some browsers, so if you have this option set, Piwik will ignore your visit.
+
+If you're not using "Do Not Track" and you would rather that we don't record your visits at all, please opt out of analytics by unchecking the box below. If you choose to opt out, the system will set a "piwik_ignore" cookie, which indicates to Piwik that it should completely ignore your computer.
+
+  
+
 
 ### Customer Information
 
