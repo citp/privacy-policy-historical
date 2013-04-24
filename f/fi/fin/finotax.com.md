@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finotax.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227235554id_/http%3A//finotax.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finotax.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424100511id_/http%3A//finotax.com/policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Finotax - Privacy Policy
 
 At Finotax.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Finotax.com and how it is used. 
 
