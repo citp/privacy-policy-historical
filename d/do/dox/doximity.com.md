@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003943id_/https%3A//www.doximity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425015914id_/https%3A//www.doximity.com/privacy) for the most accurate reproduction.*
 
 # Doximity Privacy Policy
 
@@ -49,7 +49,7 @@ Doximity may collect information through our website or through Customer Support
 
 ### Cookies
 
-Like most websites, Doximity uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Doximity to recognize you as a User when you return to the Doximity website using the same computer and web browser. Like the information you enter at registration or when you update your Profile, cookie and log file data is used to customize your experience on our website. One type of cookie, known as a “persistent” cookie, is set once you’ve logged in to your Doximity account. The next time you visit the Doximity website, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. However, if you log out of the Doximity website you will need to re-enter your password the next time you visit in order to log in to your account. We use cookies to improve the quality of our service by storing User preferences and tracking User trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
+Like most websites, Doximity uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Doximity to recognize you as a User when you return to the Doximity website using the same computer and web browser. Like the information you enter at registration or when you update your Profile, cookie and log file data is used to customize your experience on our website. One type of cookie, known as a “persistent” cookie, is set once you've logged in to your Doximity account. The next time you visit the Doximity website, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. However, if you log out of the Doximity website you will need to re-enter your password the next time you visit in order to log in to your account. We use cookies to improve the quality of our service by storing User preferences and tracking User trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
 
 ### Log files, IP addresses and information about your computer and mobile device
 
@@ -57,7 +57,7 @@ Due to the communications standards on the internet, when you visit the Doximity
 
 ### Consent to Doximity Processing Information About You
 
-Certain information you provide to Doximity may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to Doximity for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Doximity’s User Agreement. The supplying of all such information by you to Doximity, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive.
+Certain information you provide to Doximity may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to Doximity for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Doximity's User Agreement. The supplying of all such information by you to Doximity, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive.
 
 ### Rights to Access, Correct and Eliminate Information About You
 
@@ -77,7 +77,7 @@ Return to top
 
 Doximity is an online service dedicated to helping medical professionals more effectively connect with one another. The information you choose to provide on our service is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by Doximity from Users (such as, for example, patterns of utilization) and is exclusively owned by Doximity. This information can be utilized by Doximity in such manner as Doximity, in its sole discretion, deems appropriate.
 
-### Doximity’s Communications to You
+### Doximity's Communications to You
 
 Doximity will communicate with you through email, fax and notices posted on the Doximity website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges for messages to your mobile device). Our communications to you include emails which help inform Users about various features of the service. Doximity may send you promotional information unless you have opted out of receiving such information. You can change your email and contact preferences at any time by sending a request to [support@doximity.com](mailto:support@doximity.com) or by updating your profile information.
 
@@ -87,7 +87,7 @@ Information provided to Doximity (or to third parties with whom it offers combin
 
 ### Sharing Information with Third Parties
 
-Doximity takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your private information to third parties for marketing or other purposes. We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective investors in Doximity. We may segment our Users by specialty or geographic location. We may aggregate or provide information from your public profile. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users’ activities on the site, please email [support@doximity.com](mailto:support@doximity.com)
+Doximity takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your private information to third parties for marketing or other purposes. We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective investors in Doximity. We may segment our Users by specialty or geographic location. We may aggregate or provide information from your public profile. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users' activities on the site, please email [support@doximity.com](mailto:support@doximity.com)
 
 ### Finding Colleagues
 
@@ -107,7 +107,7 @@ As a User, you may receive requests to participate in market research including 
 
 Communications you initiate through Doximity, such as a colleague invitation sent to a non-User, will list your name in the message, along with your current office address and phone/fax numbers. No other contact information will be included in the message.
 
-Doximity members may communicate with one another using the Doximity DocText feature. DocText messages may only be initiated between two users who have confirmed a colleague relationship within the Doximity network. In the case where a User has initiated a group message to two or more of his or her colleagues, recipients of this group message may “reply all” to the recipients of this group message, even though they are not all colleagues. This is the only instance where a User may receive a DocText from a non-colleague. DocText messages may be sent Secure or non-Secure. Secure messages require recipients to confirm their identity by entering their PIN code prior to viewing. Non-Secure messages may be read by anyone with access to a User’s mobile device.
+Doximity members may communicate with one another using the Doximity DocText feature. DocText messages may only be initiated between two users who have confirmed a colleague relationship within the Doximity network. In the case where a User has initiated a group message to two or more of his or her colleagues, recipients of this group message may “reply all” to the recipients of this group message, even though they are not all colleagues. This is the only instance where a User may receive a DocText from a non-colleague. DocText messages may be sent Secure or non-Secure. Secure messages require recipients to confirm their identity by entering their PIN code prior to viewing. Non-Secure messages may be read by anyone with access to a User's mobile device.
 
 You can disable DocText at any time in Settings. You can disable “push” notifications of new DocText messages at any time through the settings on your iPhone.
 
@@ -117,7 +117,7 @@ It is possible that we may need to disclose personal information when required b
 
 ### Disclosures to others
 
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of Doximity. Any third party to which we transfer or sell Doximity’s assets will have the right to continue to use the personal and other information that you provide to us.
+We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of Doximity. Any third party to which we transfer or sell Doximity's assets will have the right to continue to use the personal and other information that you provide to us.
 
 Return to top
 
@@ -133,13 +133,13 @@ You can review the personal information you provided us and make any desired cha
 
 You can also close your account at any time by emailing [support@doximity.com](mailto:support@doximity.com) If you close your Doximity account, we will remove all of the information that you have provided to Doximity from our publicly viewable database, as well as any private profile information that you have stored with us. We will retain the publicly available data in the database, including all of the information about you that was available on our database prior to your joining the Doximity network. We may also retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law.
 
-Doximity may also retain and use your information if necessary to provide the Services to other Users. For example, just as an email you may send to another person through an email service provider resides in that person’s inbox even after you delete it from your sent files or close your account, communications to other Users, as well as your contributions to iRounds and DocNews, may remain visible to others after you have closed your account. Similarly, other information you have shared with others, or that other Users have copied, may also remain visible. Doximity disclaims any liability in relation to the deletion or retention (subject to the terms herein) of information or any obligation not to delete the information. Doximity does not control when search engines update their cache, which may contain certain public profile information that has since been removed from Doximity’s publicly viewable database.
+Doximity may also retain and use your information if necessary to provide the Services to other Users. For example, just as an email you may send to another person through an email service provider resides in that person's inbox even after you delete it from your sent files or close your account, communications to other Users, as well as your contributions to iRounds and DocNews, may remain visible to others after you have closed your account. Similarly, other information you have shared with others, or that other Users have copied, may also remain visible. Doximity disclaims any liability in relation to the deletion or retention (subject to the terms herein) of information or any obligation not to delete the information. Doximity does not control when search engines update their cache, which may contain certain public profile information that has since been removed from Doximity's publicly viewable database.
 
 To request that we close your account and remove your information from the Doximity website, please send your request to [support@doximity.com](mailto:support@doximity.com) Please send your request using an email account that you have registered with Doximity under your name. You will receive a response within five business days of its receipt.
 
 ### Memorializing Accounts
 
-If we learn that a User is deceased, we may memorialize the User’s account. In these cases we may restrict profile access, remove messaging functionality, and close an account if we receive a formal request from the User’s next of kin or other proper legal request to do so.
+If we learn that a User is deceased, we may memorialize the User's account. In these cases we may restrict profile access, remove messaging functionality, and close an account if we receive a formal request from the User's next of kin or other proper legal request to do so.
 
 Return to top
 
