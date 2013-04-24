@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602133523id_/https%3A//www.lush.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424231416id_/https%3A//www.lush.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 ## Privacy Policy
 
-This statement discloses the privacy practices and policies for Lush website. If you have any questions about these practices and policies, please email us at orders@lush.co.uk
+This statement discloses the privacy practices and policies for Lush website. If you have any questions about these practices and policies, please email us at [orders@lush.co.uk](mailto:orders@lush.co.uk).
 
 Your personal data will be used for processing and invoicing your order only. If you would like to be kept up to date with all the new exciting Lush news, you can opt in for our newsletter and Lush Times! All you have to do is tick the designated box and there you have it; you can then confirm that your e-mail address is correct and is the same address you have used to order with.
 
 Don't worry, your data is not publicly available and we will never pass it on to anyone who will plague you with non-Lush marketing stuff. We treat your data as strictly confidential!
 
-The only exception is if you breach our Content Standards as described within our Conditions of Use for example by posting something on our website and we receive a reasonable claim of Intellectual Property infringement (eg you have used someone else's picture or song and they complain) or a breach of the right to privacy (eg put up a picture of someone doing something against the public interest) then we may have to pass on your details however we will tell you first unless it is the police asking.
+The only exception is if you breach our Content Standards as described within our Conditions of Use for example by posting something on our website and we receive a reasonable claim of Intellectual Property infringement (eg you have used someone else's picture or song and they complain) or a breach of the right to privacy (eg put up a picture of someone doing something against the public interest) then we may have to pass on your details however we will tell you first unless it is the police= asking.
 
-\- 
-
-## Website cookies
+## Website Cookies
 
 Our website uses 2 cookies;
 
@@ -29,8 +27,10 @@ Our payment gateways also use a further security related cookie.
 
 We don't sell the information collected by cookies, nor do we disclose the information to third parties, except where required by law (for example to government bodies and law enforcement agencies). We treat your information as sensitive and confidential.
 
-If you continue without changing your settings, we'll assume you are happy to accept all cookies on the Lush website. However, if you wish to opt out of using cookies then please call our mail order team on +44 (0) 1929 668545 who would be happy to take your order by phone.
+If you continue without changing your settings, we'll assume you are happy to accept all cookies on the Lush website. However, if you wish to opt out of using session cookies then please call our mail order team on +44 (0) 1202 668545 who would be happy to take your order by phone.
 
-If you do not want to receive Lush Times or Lush emails anymore please e-mail orders@lush.co.uk or contact us on +44 (0) 1202 668545. If you would like to change your personal data on our database or you want a copy of the data we hold on file please e-mail orders@lush.co.uk or call us on +44 (0) 1202 668545.
+If you wish to opt-out from your visit to the website being counted towards our analytics, Google have a [browser add-on](https://tools.google.com/dlpage/gaoptout) for all popular web browsers, that you can download.
+
+If you do not want to receive Lush Times or Lush emails anymore please e-mail [orders@lush.co.uk](mailto:orders@lush.co.uk) or contact us on +44 (0) 1202 668545\. If you would like to change your personal data on our database or you want a copy of the data we hold on file please e-mail [orders@lush.co.uk](mailto:orders@lush.co.uk) or call us on +44 (0) 1202 668545.
 
 (Now the lawyer type has left the room, aaargh! You know we will do the right thing and hope you will too.)
