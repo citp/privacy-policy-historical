@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021063341id_/http%3A//www.theistudio.com/muse/project-inquiry/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424191024id_/http%3A//www.theistudio.com/muse/project-inquiry/privacy-security) for the most accurate reproduction.*
 
 # Privacy | WordPress Consultant: Judith Kallos, At Your Service...
 
