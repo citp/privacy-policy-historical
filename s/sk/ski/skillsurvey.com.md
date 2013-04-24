@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214002428id_/http%3A//www.skillsurvey.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424162722id_/http%3A//www.skillsurvey.com/privacypolicy) for the most accurate reproduction.*
 
-# SkillSurvey Inc. - Privacy Policy
+# Privacy Policy | SkillSurvey
 
-**The SkillSurvey System**
+#### The SkillSurvey System
 
 SkillSurvey provides a web-based service that enables the assessment of an individual's competencies for a specific job based on confidential feedback from people that have worked with that individual in the past.
 
@@ -12,11 +12,11 @@ Candidate reports are either generated automatically or monitored and finalized 
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
-.•We will only collect the minimum personal information required to successfully complete the SkillSurvey reference checking process for our Subscribers
+  * We will only collect the minimum personal information required to successfully complete the SkillSurvey reference checking process for our Subscribers
+  * We will never rent or sell the personally identifiable information of any user of our system (e.g. recruiter, candidate, reference, etc.) to third parties for marketing purposes
+  * Any sensitive information that you provide will be secured with all industry standard protocols and technology
 
-•We will never rent or sell the personally identifiable information of any user of our system (e.g. recruiter, candidate, reference, etc.) to third parties for marketing purposes
 
-•Any sensitive information that you provide will be secured with all industry standard protocols and technology
 
 Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use the SkillSurvey service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
 
@@ -32,13 +32,12 @@ SkillSurvey uses "cookies" - files written to the visitor's computer that are us
 
 SkillSurvey does not provide or sell any of this information to third parties and will not use your personally identifiable information except to:
 
-.•Provide customer support in successfully completing the SkillSurvey reference checking process
+  * Provide customer support in successfully completing the SkillSurvey reference checking process
+  * Perform statistical analyses of user behavior and characteristics
+  * Measure traffic and traffic trends at this site
+  * Support products and services provided by SkillSurvey
 
-•Perform statistical analyses of user behavior and characteristics
 
-•Measure traffic and traffic trends at this site
-
-•Support products and services provided by SkillSurvey
 
 We may provide aggregated data about the usage of our service to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, company. If you would like to be excluded from the aggregated research, please email customer service.
 
@@ -46,17 +45,14 @@ It is possible that we may need to disclose personal information when required b
 
 **Website Security**
 
-Special attention is appropriately given to website security and the overall security of all data storage, processing, and transmission systems. This website, and its use as a data conduit, is protected by: .
+  * Special attention is appropriately given to website security and the overall security of all data storage, processing, and transmission systems. This website, and its use as a data conduit, is protected by: .
+  * Authentication through firewalls with full exclusion logic
+  * Use of encryption when transferring secure information through Secure Socket Layer (SSL)
+  * Password protection and user identification including access logs, transaction logs and traffic logs
+  * Virtual private network security for development and internal access
+  * Security management software
 
-•Authentication through firewalls with full exclusion logic
 
-•Use of encryption when transferring secure information through Secure Socket Layer (SSL)
-
-•Password protection and user identification including access logs, transaction logs and traffic logs
-
-•Virtual private network security for development and internal access
-
-•Security management software
 
 **Further Information and Corporate Address**
 
@@ -73,3 +69,9 @@ Wayne, PA 19087
 Email: [customerservice@skillsurvey.com](mailto:customerservice@skillsurvey.com)
 
 The foregoing policies are effective as of August 8, 2006. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+  * Privacy Policy
+  * [Terms of Use](http://www.skillsurvey.com/termsofuse)
+  * [Service Agreement](http://www.skillsurvey.com/serviceagreement)
+
+
