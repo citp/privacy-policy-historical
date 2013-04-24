@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729162121id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424023620id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The Company Corporation
 
 Privacy Statement
 
-[$50,000 Corporate Veil Guarantee when you form your business with us. Click to learn more.](https://web.archive.org/web/20120729162121id_/https%3A//www.incorporate.com/cvg_50K_guarantee.html)
+[$50,000 Corporate Veil Guarantee when you form your business with us. Click to learn more.](https://web.archive.org/web/20130424023620id_/https%3A//www.incorporate.com/cvg_50K_guarantee.html)
 
 ## The Company Corporation Privacy Statement 
 
@@ -43,3 +43,5 @@ You should also take the necessary precautions to safeguard your user i.d. and p
 If you require assistance to update or delete your information, or if you feel that your user i.d. and password have been compromised, you should contact our Customer Service staff at 800-818-6082 (toll-free) or 302-636-5440. Our hours of operation are Monday - Friday from 8 a.m. to 8 p.m. Eastern Time. 
 
 If you wish for your contact information not to be shared with outside parties, or if you would rather not receive any updates from us, please send a request to [remove@incorporate.com](mailto:remove@incorporate.com). 
+
+privacy
