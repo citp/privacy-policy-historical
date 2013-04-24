@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the doggers.co privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005025id_/http%3A//uk.doggers.co/help/privacy.cfm%3Fwldsite%3D24560) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doggers.co privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424040447id_/http%3A//uk.doggers.co/help/privacy.cfm%3Fwldsite%3D24560) for the most accurate reproduction.*
 
-# Doggers.co :: Privacy Policy
+# Doggers.co :: Doggers.co Member Privacy Policy
 
-## Doggers.co Member Privacy Policy
-
-_Last updated on Tuesday 2nd October, 2012_
+_Last updated on Wednesday 16th January, 2013_
 
 ### Proprietor
 
@@ -41,7 +39,7 @@ Global Personals will never collect sensitive information about you without your
 
 ### Associate Websites
 
-The Service is offered through and accessible through a number of other web sites in addition to the Website. By registering with the Website and submitting data to or through the Website you acknowledge and accept that all data that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different web sites from the Website.
+The Service is offered through and accessible through a number of other web sites in addition to the Website. By registering with the Website and submitting data to or through the Website you acknowledge and accept that all data that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different web sites from the Website. 
 
 Global Personals makes an effort to ensure that members of the Service are not connected with other members that may be inappropriate and therefore apply various classifications to the various web sites that provide access to the Service. By registering with the site you acknowledge and accept that Global Personals may apply certain classifications to your profile due to your accessing the Service via the Website and may use such classifications to restrict:
 
