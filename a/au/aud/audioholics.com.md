@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210191613id_/http%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424204740id_/http%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Reviews and News from Audioholics
+# Privacy Policy | Audioholics
 
 This Privacy & Security statement is subject to change without notice. We encourage you to review our Privacy and Security statement whenever you use this web site to make sure you understand how your information will be used.
 
