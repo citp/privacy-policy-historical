@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginepeople.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213015624id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginepeople.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424145641id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Search Engine People | Toronto
 
