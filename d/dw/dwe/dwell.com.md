@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011161529id_/http%3A//www.dwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424235711id_/http%3A//www.dwell.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dwell
+# Privacy Policy | Dwell
 
 Thank you for visiting the Dwell magazine website. On this site, we want to provide you with information that is tailored to your individual needs and, at the same time, help you protect your privacy. This notice explains our online information practices and the choices you can make about the way your personal information is collected and used.
 
