@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcrisk.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215201600id_/http%3A//www.pcrisk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrisk.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424113540id_/http%3A//www.pcrisk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Information, Privacy, Site, Policy, Online
+# Privacy policy
 
 **What information do we collect?**
 
