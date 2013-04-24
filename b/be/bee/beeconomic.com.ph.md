@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101062805id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424195051id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - beeconomic.com.ph
 
