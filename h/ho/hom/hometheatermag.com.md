@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometheatermag.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113211526id_/http%3A//www.sourceinterlink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheatermag.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424212053id_/http%3A//www.sourceinterlink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Source Interlink Companies
 
@@ -69,7 +69,7 @@ We believe that choice in how and when you are contacted is key to customer sati
 
 3. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message.
 
-4. If you do not wish to have your personal information shared with third parties or with other entities in the Source corporate family, please click here.
+4. If you do not wish to have your personal information shared with third parties or with other entities in the Source corporate family, please [click here](https://web.archive.org/unsubscribe).
 
 You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail.  Such written requests should be sent to Source Interlink Companies, Inc., Attn: Privacy Coordinator, 831 S. Douglas Street, El Segundo, CA 90245.
 
