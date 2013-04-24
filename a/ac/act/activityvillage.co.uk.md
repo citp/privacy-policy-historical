@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108081113id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425010251id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Activity Village Privacy Policy
 
