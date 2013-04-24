@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the highstakesdb.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021223532id_/http%3A//www.highstakesdb.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highstakesdb.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424172557id_/http%3A//www.highstakesdb.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - HighstakesDB
 
-[](http://refer.lockpoker.eu/113963)
+[](http://record.bettingpartners.com/_lmy2reSC6l1LjTu7CWcLIGNd7ZgqdRLk/1/)
 
-[](https://web.archive.org/rakeback-lockpoker.aspx)
+[](http://record.bettingpartners.com/_lmy2reSC6l1LjTu7CWcLIGNd7ZgqdRLk/1/)
 
 ### Introduction
 
