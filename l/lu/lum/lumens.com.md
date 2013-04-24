@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lumens.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110000510id_/http%3A//www.lumens.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumens.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424181428id_/http%3A//www.lumens.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Privacy Policy at Lumens.com
 
 This Privacy and Security Statement ("Privacy Statement") applies to information collected by Lumens.com, Inc.,("Lumens.com," "we," or "us"). Lumens.com is committed to protecting the privacy of its customers ("Customers," or "you"). We have created the following Privacy Statement to give you an overview of the type of information we collect, how the information is used and how the information is safeguarded.
 
