@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hm-treasury.gov.uk privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224211541id_/http%3A//www.hm-treasury.gov.uk/about_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hm-treasury.gov.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424042434id_/http%3A//hm-treasury.gov.uk/about_privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement and Cookies - HM Treasury
 
