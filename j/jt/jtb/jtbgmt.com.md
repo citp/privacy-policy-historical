@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055610id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424102655id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # JTB Global Marketing & Travel : Privacy Policy
 
@@ -96,7 +96,7 @@ JTBGMT handles the collection and use of customer personal information as follow
 \- JTB Tohoku Corp.  
 \- JTB Kanto Corp.  
 \- JTB Metropolitan Corp.  
-\- JTB Business World Tokyo Corp.  
+\- JTB Corporate Sales Inc.  
 \- JTB Chubu Corp.  
 \- JTB Tokai Corp.  
 \- JTB Western Japan Corp.  
@@ -106,8 +106,7 @@ JTBGMT handles the collection and use of customer personal information as follow
 \- JTB Okinawa Corp.  
 \- JTB Media Retailing Corp.  
 \- i.JTB Corp.  
-\- JTB Business Innovators Corp.  
-\- JTB Asia Tourist Corp.
+\- JTB Business Innovators Corp.
 
 **8\. Joint Use of Customer Personal Information**
 
@@ -122,32 +121,31 @@ Among the customer personal information that it has acquired, JTBGMT will jointl
 ---|---  
 JTB Corp. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo   
 JTB Hokkaido Corp. | Urban Net Sapporo Building, 8th Fl6-1-2 Kita IchijoChuo-ku, Sapporo  
+JTB Tohoku Corp. | Meiji Yasuda Seimei Sendai Ichibancho Building, 3rd Fl.3-7-23 Ichiban-choAoba-ku, Sendai  
 JTB Kanto Corp. | 16F LA Tower, 11-2 Shin ToshinChuo-ku, Saitama  
 JTB Metropolitan Corp. | 4F IK Bldg, 2-24-9 Kamiosaki, Shinagawa-ku, Tokyo  
-JTB Business World Tokyo Corp. | 26F Shinjuku Park Tower, 3-7-1 Nishishinjuku, Shinjuku-ku, Tokyo  
+JTB Corporate Sales Inc. | 26F Shinjuku Park Tower, 3-7-1 Nishishinjuku, Shinjuku-ku, Tokyo  
 JTB Chubu Corp. | 39F JR Central Towers, 1-1-4 Meieki Nakamura-ku, Nagoya  
 JTB Tokai Corp. | 39F JR Central Towers, 1-1-4 Meieki Nakamura-ku, Nagoya   
-JTB Western Japan Corp. | 2-1-25 Kyutaro-machiChuo-ku, Osaka  
-JTB Kansai Corp. | 6F Umeda Pan Pacific Bldg, 2-5-10 SonezakiKita-ku, Osaka  
-JTB Chugoku Shikoku Corp. | 11F, 2-1-12 Kamiya-cho, Naka-ku, Hiroshima  
+JTB Western Japan Corp. | 13F JTB Bldg, 2-1-25 Kyutaro-machiChuo-ku, Osaka  
+JTB Kansai Corp. | 13F JTB Bldg, 2-5-10 SonezakiKita-ku, Osaka  
+JTB Chugoku Shikoku Corp. | 11F Hiroshima Kogin Bldg, 2-1-12 Kamiya-cho, Naka-ku, Hiroshima  
 JTB Kyushu Corp. | New KBC Building, 5F 1-1-35 NagahamaChuo-ku, Fukuoka  
 JTB Okinawa Corp. | Shintoshin DL Bldg. 4-19-30 Omoromachi, Nahas-shi, Okinawa  
 JTB Media Retailing Corp. | 3F MF Bldg. 4-6-5 Kohinata, Bunkyo-ku, Tokyo  
 i.JTB Corp. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo  
-JTB Business Innovators Corp. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo  
-JTB Tohoku Corp. | Meiji Yasuda Seimei Building, 3rd Fl.3-7-23 Ichiban-choAoba-ku, Sendai  
+JTB Corporate Sales Inc. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo  
 JTB GAIAREC, INC. | JTB Building2-43-19 MinamiikebukuroToshimaku, Tokyo  
-PTS Corp. | Takadanobaba TS Bldg. 3-13-2 TakadaToshima-ku, Tokyo  
+PTS Corp. | 1F Takadanobaba TS Bldg. 3-13-2 TakadaToshima-ku, Tokyo  
 JTB Grand Tours & Services, Inc. | Jingumaeota Bldg. 4F, 5-7-20 JingumaeShibuya-ku, Tokyo  
 JTB World Vacations, Inc. | 2F, IK Building 2-24-9 Kami-osakiShinagawa-ku, Tokyo  
-Travel Plaza International, Inc. | 2-1-9 TomiokaKoto-ku, Tokyo  
-Travel Plaza International Chubu, Inc. | 3-13-24 Meieki Nakamura-ku, Nagoya  
+Travel Plaza International, Inc. | 2-1-9 Tomioka, Koto-ku, Tokyo  
+Travel Plaza International Chubu, Inc. | 2-27-8 Meieki Nishi-ku, Nagoya  
 TPI Western Japan, Inc. | 4-5-20 Minami HonmachiChuo-ku, Osaka  
 JTB Sun & Sun Western Japan Co., Ltd. | AD Building, 2nd Fl.2-3-12 Minami HonmachiChuo-ku, Osaka  
 JTB Management Service Corp. | 2-3-11 Higashi Shinagawa Shinagawa-ku, Tokyo  
 JTB Trading, Inc. | 1-44-10 Sekiguchi, Bunkyo-ku, Tokyo  
 JTB Global Assistance, Inc. | 2F, COI Nihonbashihoncho Bldg. 4-13-5, Nihonbashihoncho, Chuo-ku,Tokyo  
-JTB Asia Tourist Corp.. | 2-3-11, Higashishinagawa, Shinagawa-ku, Tokyo  
   
 **9\. Cookies**
 
