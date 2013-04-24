@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the replaypoker.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915080006id_/http%3A//www.replaypoker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replaypoker.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424234033id_/http%3A//www.replaypoker.com/privacy) for the most accurate reproduction.*
 
-# Play money — Learn How To Play Poker — ReplayPoker
-
-    
+# Privacy Policy · ReplayPoker
 
 Replay Gaming LTD (“We”) commit ourselves to protecting and respecting your privacy when visiting replaypoker.com.
 
 This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting replaypoker.com.Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
-#### Information we may collect from you
+### Information we may collect from you
 
 We may collect and process the following data about you:
 
@@ -20,7 +18,7 @@ We may collect and process the following data about you:
 
 • Details of transactions you may carry out through our site and of the completion of your orders.
 
-#### IP addresses and cookies
+### IP addresses and cookies
 
 We may collect information about your computer; this is statistical data concerning your browsing actions and does not identify you individually. This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers.
 
@@ -30,13 +28,13 @@ You can refuse to accept cookies but note that in doing this you may be unable t
 
 [Our advertisers may also use cookies but please note that we have no control over this]
 
-#### Where we store your personal data
+### Where we store your personal data
 
 Any data that we collect from you may be stored at, and transferred to, a destination outside the European Economic Area (EEA).This data may also be processed by staff that operates outside the EEA working us or one of our suppliers.In submitting your personal data, you agree to such a transfer and the storing and processing of this data.To ensure that your data is treated securely and in accordance with this privacy policy we will endeavour to take all reasonable necessary steps in protecting your privacy.
 
 We will do our best to protect your personal data, unfortunately, the transmission of information over the internet is not entirely secure and we cannot guarantee the security of data transmitted to our sites.Any transmission of data is at your own risk.
 
-#### Uses made of the information
+### Uses made of the information
 
 We use the information held about you in the following ways:
 
@@ -56,7 +54,7 @@ If you do not want your data used in this way or passed onto third parties for m
 
 [We do not disclose information which will identify individuals to our advertisers.We may however provide them with collective information about our users.We may also use collective data to help our advertisers reach their target audience.The data collected may also be used by us in order to comply with our advertiser’s wishes in displaying their advertisement to their target audience.]
 
-#### Disclosure of your information
+### Disclosure of your information
 
 [As defined in section 736 of the UK Companies Act 1985 we may disclose your personal information to any member of our group.These include our subsidiaries, our ultimate holding company and its subsidiaries.]
 
@@ -66,14 +64,14 @@ We may disclose your personal information to third parties:
 
 • If we are under a duty to comply with any legal obligation to disclose or share your personal data.To protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site.For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations.
 
-#### Third party websites
+### Third party websites
 
 From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data.We cannot accept any responsibility or liability for these policies.
 
-#### Changes to our privacy policy
+### Changes to our privacy policy
 
 The privacy policies might be changed in the future, when they are changed you will get be notified when you login to your account. The changes will be updated in this very document.
 
-#### Contact
+### Contact
 
 We welcome any questions, comments and requests regarding this privacy policy and should be emailed to [support@replaypoker.com](mailto:support@replaypoker.com)
