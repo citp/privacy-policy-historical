@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kippt.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920070305id_/https%3A//kippt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kippt.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424162920id_/https%3A//kippt.com/privacy) for the most accurate reproduction.*
 
-# Kippt - All of your links in one place
+# Privacy Policy - Kippt
 
 Your privacy is critically important to us. At Kippt we have a few fundamental principles:
 
