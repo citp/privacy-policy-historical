@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016235014id_/http%3A//www.deepdiscount.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424184346id_/http%3A//www.deepdiscount.com/privacy-policy) for the most accurate reproduction.*
 
 # Help Policies Privacy Policy at DeepDiscount.com
 
-We respect your right to privacy. At DeepDiscount.com we collect only the information necessary for us to complete your order or to contact you regarding the status of your order. The information we collect includes your name, e-mail address, shipping address, billing address, credit card for payment and a password. 
+We respect your right to privacy. At DeepDiscount.com we collect only the information necessary for us to complete your order or to contact you regarding the status of your order. The information we collect includes your name, e-mail address, shipping address, billing address, credit card for payment and a password. We may use your personal information for the purposes of fraud control.
 
 DeepDiscount.com will not rent, sell or share your name or personal information without your permission. 
 
