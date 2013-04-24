@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029152308id_/https%3A//www.helpscout.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424161356id_/https%3A//www.helpscout.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Help Scout
+# Privacy Policy - Help Scout
 
-#### We are committed to protecting your personal information.
+We are committed to protecting your personal information.
 
 Your privacy is extremely important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of this website.
 
@@ -21,6 +21,10 @@ This notice applies to all information collected or submitted on the Help Scout 
 
 
 
+Help Scout also maintains ongoing Level 1 PCI compliance, adhering to stringent industry standards for storing, processing and transmitting credit card information online.
+
+For information about how Help Scout stores and secures customer and company data, please see our [security policy](https://web.archive.org/security/).
+
 ### How We Use Personal Information
 
 We use the information you provide about yourself when placing an order only to complete that order and to provide fantastic customer service during the term of your service. We do not share this information with outside parties without your permission.
@@ -38,6 +42,16 @@ Finally, we never use or share the personally identifiable information provided 
 ### Will you ever share my email address?
 
 Spam sucks. We never sell or rent your personal information. Your email address will only be shared with a third party if required by law or covered in this disclosure.
+
+### Safe Harbor Certification & Compliance
+
+Help Scout (under the name Brightwurks Inc.) complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Help Scout has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Help Scout's certification, please visit <http://www.export.gov/safeharbor/>.
+
+[](https://safeharbor.export.gov/list.aspx)
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Brightwurks, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first [contact us via email](https://web.archive.org/contact/).
+
+We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by our team, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Questions?
 
