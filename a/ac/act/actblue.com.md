@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018045252id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424155005id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
 
-# ActBlue — privacy
+# ActBlue — Privacy
 
 ## Privacy Policy
 
