@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmeeting.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123022942id_/http%3A//www.xmeeting.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmeeting.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424102745id_/http%3A//www.xmeeting.com/site/privacy) for the most accurate reproduction.*
 
 # XMeeting.com - Register now free for online dating and casual dates
 
@@ -14,6 +14,7 @@
   8. Third Party Collections of Information
   9. Security
   10. Update/Delete
+  11. Opt-out provisions
 
 
 
@@ -86,3 +87,17 @@ You have the following choices to modify or delete your profile information from
   * Log in with your password and modify your profile;
 
 
+
+#### 11\. Opt-out provisions
+
+You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of Service Development. You can also choose to opt-out through the email preference center of your profile by clicking on 'Edit profile' -> 'Settings' when logged in.
+
+#### Our address:
+
+Service Development Limited   
+Island House  
+Grande Rue   
+GY4 6RU   
+St Martin   
+Guernsey   
++1 661 705-5088 
