@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014142453id_/http%3A//www.cmswire.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424102032id_/http%3A//www.cmswire.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Simpler Media Group (the publisher of the CMSWire.com websites) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our websites, located at [www.cmswire.com](http://www.cmswire.com/) and [jobs.cmswire.com](http://jobs.cmswire.com/) ("Sites") or collected through our other services, including via email subscriptions and survey tools ("Services"). 
+Simpler Media Group (the publisher of the CMSWire.com websites) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our websites, located at [www.cmswire.com](http://www.cmswire.com/) and [jobs.cmswire.com](http://jobs.cmswire.com/) ("Sites") or collected through our other services, including via email subscriptions and survey tools ("Services").
 
 This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on this website. You are advised to consult this Privacy Policy regularly for any changes.
 
-By using our Sites and Services you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. 
+By using our Sites and Services you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
 
 ## Respecting Your Privacy
 
