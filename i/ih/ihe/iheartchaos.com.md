@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016075644id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartchaos.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424032406id_/http%3A//www.iheartchaos.com/privacy) for the most accurate reproduction.*
 
 # I Heart Chaos — Privacy Policy
 
@@ -29,6 +29,10 @@ A cookie is a string of information that a website stores on a visitor’s compu
 **Address Book Data**
 
 Any external address book data (email contacts, etc.) that a user voluntarily gives Tumblr access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
+
+**Third Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Privacy Policy Changes**
 
