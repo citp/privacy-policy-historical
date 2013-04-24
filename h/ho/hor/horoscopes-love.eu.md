@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006170451id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424232225id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Horoscopes-Love.eu
 
 Details
      Category: [Uncategorised](http://www.horoscopes-love.eu/uncategorised)
-     Published on February 29, 2012 
-     Written by admin 
+     Published on February 29, 2012
+     Written by admin
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
