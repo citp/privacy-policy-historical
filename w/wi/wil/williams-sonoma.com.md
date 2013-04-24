@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014231255id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424175417id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Legal Statement | Williams-Sonoma
 
-Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm® and Rejuvenation®.
+Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham®.
 
 Please take a few minutes to review these Terms and Conditions. Your purchase of products from us constitutes your agreement to follow these Terms and Conditions and to be bound by them.
 
@@ -36,7 +36,7 @@ This Web Site and all Content available on this Web Site are provided on an "as 
 
 The prices displayed on our Web Site may differ from prices that are available in stores or in catalogs, and our pricing may differ from store to store. If you are in the U.S. or Canada Web Site prices will be displayed in U.S. Dollars. Elsewhere Web Site prices will generally be displayed in the local currency. The prices displayed in our printed catalogs are quoted in U.S. Dollars and are valid and effective only in the U.S.
 
-For full-price products, "Suggested Price" or "Sugg. Price" refers to the manufacturers' suggested retail price. "Our Price" refers to the everyday value price we offer to our customers. For sale products (identified by pricing in red), "Suggested Price" or "Sugg. Price" refers to the most recent selling price. "Sale" refers to the reduced price we are offering to our customers. 
+For full-price products, "Suggested Price" or "Sugg. Price" refers to the manufacturers' suggested retail price. "Our Price" refers to the everyday value price we offer to our customers. For sale products (identified by pricing in red), "Suggested Price" or "Sugg. Price" refers to the most recent selling price. "Sale" refers to the reduced price we are offering to our customers.
 
 ### Special Offers
 
@@ -46,13 +46,19 @@ Occasionally we will offer special promotions to our customers that we refer to 
 
 From time to time there may be information on our Web Site or in our catalog that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. Williams-Sonoma, Inc. Brands reserves the right to correct any errors, inaccuracies or omissions and to change or update information at any time without prior notice (including after you have submitted your order).
 
-* * * * * * * * * * 
+### Australian customers
 
-Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California. Last Updated: November 2011
+You may have rights under the _Australian Consumer Law_ that are in addition to your rights under these Terms and Conditions. Nothing in these Terms and Conditions excludes, restricts or modifies those rights. To the fullest extent permitted by law, Williams-Sonoma, Inc.'s liability for breach of any consumer guarantee, which cannot be excluded, is limited at the option of Williams-Sonoma, Inc. to: (a) In the case of services supplied or offered by Williams-Sonoma, Inc. which are not of a kind ordinarily acquired for personal, domestic or household use or consumption (i) the supply of services again, or (ii) the payment of the cost of having services supplied again; and (b) In the case of goods supplied or offered by Williams-Sonoma, Inc. which are not of a kind ordinarily acquired for personal, domestic or household use or consumption (i) replacing, or paying the cost of replacing the goods, or (ii) repairing or paying the cost of repairing the goods. To the extent that Williams-Sonoma, Inc. can exclude liability, it does so. 
+
+* * * * * * * * * *
+
+Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California.
+
+Last Updated: November 2012
 
 Back to Top
 
-We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm and Rejuvenation. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
+We are part of the "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
@@ -85,6 +91,8 @@ We may contract with companies or persons to provide certain services including 
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
 
+We may share contact information and other data with businesses controlling, controlled by, or under common control with any Williams-Sonoma, Inc. Brands.
+
 In certain instances we may disclose your contact information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Williams-Sonoma, Inc. Brands or to others. We may also disclose your contact information when we believe the law or legal process requires it.
 
 ### Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
@@ -100,7 +108,7 @@ services, special promotions or upcoming events."
 
 You may also click the designated link at the bottom of all email advertisements to be removed from future email updates.
 
-Please note that any requests to remove or update your contact information may take up to ten days for your email request and 6-8 weeks to process your postal mail request.
+Please note that any requests to remove or update your contact information may take up to five days for your email request and 6-8 weeks to process your postal mail request.
 
 Back to Top
 
@@ -114,9 +122,9 @@ Once you place your order, you will be prompted to check the box to indicate if 
 
 If you choose to provide Williams-Sonoma, Inc. Brands with your information, you consent to the transfer and storage of that information on our servers located in the United States.
 
-Williams-Sonoma, Inc. Brands adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
+Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
 
-Any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 405.717.6139 or sending us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the EU-US Safe Harbor Privacy Principles.
+For European Union or Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 405.717.6139 or sending us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the US-EU and US-Swiss Safe Harbor Privacy Principles.
 
 ### Cookies
 
@@ -128,9 +136,9 @@ Back to Top
 
 ### Security
 
-We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, we cannot guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, to the extent permitted by law, we do not guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
 
-We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.
+We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place.
 
 ### Protecting Children
 
@@ -140,23 +148,44 @@ Children under the age of 13 should always ask their parents or guardians for pe
 
 Back to Top
 
-### Links to Third Party Sites
+### Links to Third Party Web Sites
 
-Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any of your information on such site.
+Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked web sites may be different from our privacy policy. You access such linked web sites at your own risk. You should always read the privacy policy of a linked web site before disclosing any of your information on such web site.
 
 ### Policy Changes
 
 If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web sites, as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our web sites or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
 
+### Australian Residents
+
+In addition to the above terms, the following terms of this Privacy Policy also apply to Australian residents using this website:
+
+  * You consent to (i) the disclosure, transfer and storage of information about you (including contact information) by us to   
+our Select Partners and our Service Providers located in the United States and in other countries in accordance with   
+this Privacy Policy and (ii) all other practices and actions described in this Privacy Policy.
+  * You acknowledge that by consenting to the disclosure of information about you to our Select Partners and/or our   
+Service Providers our obligations under the Privacy Act 1988 (Cth) now or in the future (if any) to ensure that our   
+Select Partners and/or Service Providers comply with their privacy policies and/or any applicable privacy principles   
+under the Privacy Act 1988 (Cth) may cease.
+  * You acknowledge that the data privacy laws of the United States and other countries where our Select Partners and/or   
+Service Providers are located may not provide the same level of protection for your information as Australia.
+  * You consent to receive direct marketing (including electronic marketing materials) from us, until such time as you   
+unsubscribe from such, and for us to provide your details to and to receive direct marketing (including electronic   
+marketing materials) from our Select Partners and others.
+
+
+
+You may [email](mailto:international@williams-sonoma.com "email") us and request us to provide details of the information, including contact information, that we hold about you in which case we may require you to pay the reasonable cost of providing access to any such information (but we will not charge you for lodging a request for access).
+
 ### Your Feedback
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email").
 
-Effective Date: November 2011
+Effective Date: November 8 2012
 
 Back to Top
 
-[Copyright 2012 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/ "Copyright 2012 Williams-Sonoma") All Rights Reserved.
+[Copyright 2013 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/ "Copyright 2013 Williams-Sonoma") All Rights Reserved.
 
 Williams-Sonoma© is a registered trademark of Williams-Sonoma, Inc.
 
