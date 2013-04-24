@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barkbox.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023081806id_/https%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkbox.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424160403id_/https%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
 
-# BarkBox
+# BarkBox | Goodies for Dogs |
 
 Barkbox knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy for the Barkbox.com web site (the “Site”).
 
