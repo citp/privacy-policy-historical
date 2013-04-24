@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015153501id_/http%3A//www.dressilyme.com/help/helpdetails-43-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424051806id_/http%3A//dressilyme.com/help/helpdetails-43-4.html) for the most accurate reproduction.*
 
-# Help Center - DressilyMe.com
+# dressilyme.com
 
-Last updated:Apr 02, 2012 at 02:16 AM
+[Ask Question](http://dressilyme.com/help/askquestion.html)Print this article
 
-Thank you for accessing the website ("Site") of DressilyMe.com and the services provided on this website are operated by **ECWORLD INTERNATIONAL LIMITED** with UK entity incorporated as **Pandahall EU Co Limited**. We respect your privacy and want you to know about the policies we have in place to protect your personal information. 
+### [<< Back to List](http://dressilyme.com/help/about-us.html)Privacy Policy
+
+Last updated:Apr 02, 2012 02:16 AM
+
+Thank you for accessing the website ("Site") of DressilyMe.com and the services provided on this website are operated by Promworld co. ltd. We respect your privacy and want you to know about the policies we have in place to protect your personal information. 
 
 **Our Commitment to Privacy**
 
