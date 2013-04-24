@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014052040id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424115857id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - MemorySuppliers.com
+# Privacy Policy -
 
 **AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
 
