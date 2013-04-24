@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the michaelcheney.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011430id_/http%3A//www.mymillionairementor2011.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelcheney.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424043857id_/http%3A//michaelcheney.com/privacy) for the most accurate reproduction.*
 
-# My Millionaire Mentor 2011 - Privacy
+# Privacy
 
-## Privacy
-
-Thank you for visiting My Millionaire Mentor 2011's ("My Millionaire Mentor 2011") personal data management and e-commerce Internet web site ("Site") located at the URL www.mymillionairementor2011.com. This Privacy Policy details certain policies implemented throughout My Millionaire Mentor 2011 governing My Millionaire Mentor 2011's use of personally identifiable information provided to My Millionaire Mentor 2011 via this Site.
+Thank you for visiting MichaelCheney.com's ("MichaelCheney.com") personal data management and e-commerce Internet web site ("Site") located at the URL www.MichaelCheney.com. This Privacy Policy details certain policies implemented throughout MichaelCheney.com governing MichaelCheney.com's use of personally identifiable information provided to MichaelCheney.com via this Site.
 
 **Privacy Policy Updates**
 
-Due to the Internet's rapidly evolving nature, My Millionaire Mentor 2011 may need to update this Privacy Policy from time to time. If so, My Millionaire Mentor 2011 will post its updated Privacy Policy on our Site located at www.mymillionairementor2011.com so you are always aware of what personally identifiable information we may collect and how we may use this information. My Millionaire Mentor 2011 encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
+Due to the Internet's rapidly evolving nature, MichaelCheney.com may need to update this Privacy Policy from time to time. If so, MichaelCheney.com will post its updated Privacy Policy on our Site located at www.MichaelCheney.com so you are always aware of what personally identifiable information we may collect and how we may use this information. MichaelCheney.com encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
 
 **Information Collection and Use**
 
@@ -20,13 +18,13 @@ If you are a registered user and post to any of the Site's community forums, oth
 
 **Children's Privacy**
 
-My Millionaire Mentor 2011 recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No personally identifiable information is collected by My Millionaire Mentor 2011 and My Millionaire Mentor 2011's services and Site are not intended for children under the age of 13. My Millionaire Mentor 2011 does not target its services or this Site to children under 13. My Millionaire Mentor 2011 does not knowingly collect personally identifiable information from children under the age of 13.
+MichaelCheney.com recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No personally identifiable information is collected by MichaelCheney.com and MichaelCheney.com's services and Site are not intended for children under the age of 13. MichaelCheney.com does not target its services or this Site to children under 13. MichaelCheney.com does not knowingly collect personally identifiable information from children under the age of 13.
 
 **Cookies**
 
 We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Cookies must be enabled for you to use certain areas of the Site.
 
-Advertisements that appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. My Millionaire Mentor 2011 does not have access to or control of the cookies that may be placed by the third party advertisers.
+Advertisements that appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. MichaelCheney.com does not have access to or control of the cookies that may be placed by the third party advertisers.
 
 Aggregate InformationThe Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. We may share this aggregate information with third parties to assist them in targeting advertisements to appropriate audiences.
 
@@ -34,19 +32,19 @@ Aggregate InformationThe Site may track the total number of visitors to our Site
 
 We may provide your personally identifiable information that we collect and the data generated by cookies to the vendors and service agencies that we may engage to assist us. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process your payment).
 
-We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except that we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which My Millionaire Mentor 2011 participates or to a purchaser of all or substantially all of My Millionaire Mentor 2011's assets to which this Site relates.
+We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except that we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which MichaelCheney.com participates or to a purchaser of all or substantially all of MichaelCheney.com's assets to which this Site relates.
 
 **Links to Third Party Sites**
 
-The Site may provide links to other Web sites or resources over which My Millionaire Mentor 2011 does not have control ("External Web Sites"). Such links do not constitute an endorsement by My Millionaire Mentor 2011 of those External Web Sites. You acknowledge that My Millionaire Mentor 2011 is providing these links to you only as a convenience, and further agree that My Millionaire Mentor 2011 is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+The Site may provide links to other Web sites or resources over which MichaelCheney.com does not have control ("External Web Sites"). Such links do not constitute an endorsement by MichaelCheney.com of those External Web Sites. You acknowledge that MichaelCheney.com is providing these links to you only as a convenience, and further agree that MichaelCheney.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
 
 **Security**
 
-We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. My Millionaire Mentor 2011 may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
+We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. MichaelCheney.com may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
 
 **Correction/Updating Personally Identifiable Information**
 
-My Millionaire Mentor 2011 provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us
+MichaelCheney.com provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us
 
 * You may access your account and review, correct and delete your personally identifiable information
 
