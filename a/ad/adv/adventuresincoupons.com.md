@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adventuresincoupons.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505003756id_/http%3A//www.adventuresincoupons.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresincoupons.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424140307id_/http%3A//www.adventuresincoupons.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adventures in Coupons
+# Privacy Policy - Adventures in Coupons
 
 Your privacy is important to me and I will respect the information that you submit to me in order to subscribe to my blog, enter [giveaways](http://www.adventuresincoupons.com/category/giveaways "giveaways"), participate in a poll or survey, or post a comment. This blog does not collect information from minors, only from adults ages 18 and above. I will never give or sell your email address to anyone.
 
@@ -17,9 +17,3 @@ Gift Cards or codes
 Gift boxes
 
 In general, you are responsible for the information you submit when you subscribe to my blog, enter giveaways, participate in a poll or survey, or post a comment. Your comments on posts and profile information can be read by anyone and I discourage you from including your email address or other personally identifying information. I do allow you to post comments as “Anonymous” as a way to help protect your privacy.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.adventuresincoupons.com%2Fdisclosure-policy%2Fprivacy-policy&media=&description=Privacy+Policy)
-
-Don't miss another deal! **[Subscribe to our daily email newsletter](http://feedburner.google.com/fb/a/mailverify?uri=adventuresincoupons/JCJv)**
-
-[ and get them sent to your email! ](http://feedburner.google.com/fb/a/mailverify?uri=adventuresincoupons/JCJv)
