@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021010528id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424235836id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy/Your California Privacy Rights
 
@@ -8,9 +8,9 @@ Effective January 1, 2005, under California Civil Code Section 1798.83 (known as
 
 Any request for a disclosure required under this California law should be sent to us via email at [CaliforniaPrivacyDisclosure@nvidia.com](mailto:CaliforniaPrivacyDisclosure@nvidia.com). Please note that under this law, we are not required to respond to a customer's request more than once in a calendar year, nor are we required to respond to any request that is not sent to the email or mailing address designated above.
 
-This policy was last updated on August 3, 2012.
+This policy was last updated on January 6, 2013.
 
-NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including [www.nvidia.com](http://www.nvidia.com/page/home.html), [www.slizone.com](http://www.slizone.com/), [3DVision Live](http://www.3dvisionlive.com/), [GeForce.com](http://www.geforce.com/), [GTC](http://www.gputechconf.com/page/home.html), and [TegraZone.com](http://www.tegrazone.com/).
+NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites and mobile apps, including [www.nvidia.com](http://www.nvidia.com/page/home.html), [www.slizone.com](http://www.slizone.com/), [3DVision Live](http://www.3dvisionlive.com/), [GeForce.com](http://www.geforce.com/), [GTC](http://www.gputechconf.com/page/home.html), [TegraZone.com](http://www.tegrazone.com/), and [shield.nvidia.com](http://shield.nvidia.com/).
 
 [[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] for the NVIDIA Kids Privacy Policy.
 
@@ -27,7 +27,7 @@ NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-o
 
 
 
-________________________________________________________________________ 
+________________________________________________________________________
 
   1. #### Introduction
 
@@ -37,7 +37,7 @@ NVIDIA's Online Privacy Policy and Kids Privacy Policy set forth our policies an
 
   2. #### What Information We May Collect
 
-When users visit our website, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. In addition, we may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with NVIDIA websites. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is treated as Personal Information.
+When users visit our website or mobile apps, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. In addition, we may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with NVIDIA websites. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is treated as Personal Information.
 
 Please note: The **NVIDIA Online Store** is managed independently by Digital River, Inc., and is subject exclusively to the Digital River Privacy Statement. For a complete view of the statement please click [here](http://store.nvidia.com/store?Action=DisplayPrivacyAndSecurityPage&SiteID=nvidia).
 
@@ -62,8 +62,8 @@ NVIDIA respects your choices about how your Personal Information is used when yo
 
   5. #### Kids Privacy Policy
 
-We take care to protect the privacy of children under the age of 13 who visit our website.   
-[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] to access NVIDIA's **Kids Privacy Policy**. 
+We take care to protect the privacy of children under the age of 13 who visit our websites or mobile apps.  
+[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] to access NVIDIA's **Kids Privacy Policy**.
 
   6. #### Links to Other Sites
 
