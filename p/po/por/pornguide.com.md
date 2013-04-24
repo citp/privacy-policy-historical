@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pornguide.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919233536id_/http%3A//pornguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornguide.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424064816id_/http%3A//pornguide.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy policy - Porn Guide
 
-## Privacy policy
-
-This Privacy Policy governs the manner in which pornguide.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [pornguide.com](http://www.pornguide.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by pornguide.com.
+This Privacy Policy governs the manner in which pornguide.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [pornguide.com](http://pornguide.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by pornguide.com.
 
 ### Personal identification information
 
