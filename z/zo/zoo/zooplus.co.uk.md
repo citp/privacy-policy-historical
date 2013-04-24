@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203844id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424053335id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, Dog Food, Cat Food and Pet Accessories at Zooplus
 
@@ -46,6 +46,8 @@ Payment by credit card is completely safe, secure and efficient. To ensure that 
 
 zooplus.co.uk does not provide any personally identifiable customer information to third-party advertisers or web-sites.   
 zooplus.co.uk will only disclose your personal data to third parties when it is necessary to do so in order to fulfil your order. 
+
+During credit card payments, your credit card details will be communicated directly to our payment partner ayden BV, Simon Carmiggeltstraat 6-50, 1011 DJ Amsterdam, The Netherlands.
 
 ####  Your Password 
 
