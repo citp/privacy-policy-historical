@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingchicks.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010085935id_/http%3A//www.weddingchicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchicks.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425002526id_/http%3A//www.weddingchicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wedding Chicks
 
