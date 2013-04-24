@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offthegridnews.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222164706id_/http%3A//offthegridnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offthegridnews.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424234307id_/http%3A//offthegridnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Off The Grid News
 
