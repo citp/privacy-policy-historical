@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uppsite.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114124817id_/https%3A//www.uppsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppsite.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424224331id_/https%3A//www.uppsite.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | UppSite
+# UppSite | Privacy Policy
 
 Last Updated: June 1, 2011
 
-[www.uppsite.com](http://www.uppsite.com/) (the “Web Site”) is owned and operated by MySiteApp Ltd.  
+[www.uppsite.com](https://www.uppsite.com/) (the “Web Site”) is owned and operated by MySiteApp Ltd.  
 The terms “MySiteApp”, “we”, “us”, “our” and “ours” when used in this Privacy Policy mean MySiteApp Ltd. which includes all its parents, subsidiaries, divisions, branches, and affiliates.  
 The terms “you”, “your” and “yours” when used in this Privacy Policy means any user of the Web Site. The term “Personal Data” refers to personally identifiable information about you, such as your name, birth date, cell phone number, e-mail address or mailing address. The term “App” when used in this Privacy Policy means an application for mobile devices, which is generated through the use of the Web Site.  
 This Privacy Policy describes MySiteApp’s current policies and practices with regard to Personal Data collected by MySiteApp through the Web Site. 
