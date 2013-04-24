@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627021906id_/http%3A//apps.tradablebits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424121050id_/http%3A//apps.tradablebits.com/privacy) for the most accurate reproduction.*
 
-# TradableBits
+# TradableBits Social Media Apps
 
 ###  Tradable Bits Privacy Policy
 
