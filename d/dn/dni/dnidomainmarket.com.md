@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnidomainmarket.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806021331id_/http%3A//dnidomainmarket.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnidomainmarket.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424090911id_/http%3A//dnidomainmarket.com/help/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
