@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the creditcardchaser.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022171742id_/http%3A//www.creditcardchaser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardchaser.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424082222id_/http%3A//www.creditcardchaser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 360 Quote LLC is committed to protecting the privacy of your personal information. We take your privacy seriously and have established this privacy statement to disclose our information practices. This privacy statement applies exclusively to the Website, www.CreditCardChaser.com.
-
-360 Quote LLC is a licensee of the TRUSTe Privacy Program. [TRUSTe](http://www.truste.com/) is an independent organization whose mission is to build users trust and confidence in the internet by promoting the use of fair information practices. 360 Quote LLC has elected to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe as a testament to our commitment to protecting your privacy.
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.creditcardchaser.com&sealid=101)
-
-Please Contact Us with all questions and concerns pertaining to the Website or the service provided. In the event your inquiry isn’t acknowledged within a reasonable time frame, or hasn’t been addressed to your satisfaction, please contact TRUSTe who shall then work as a liaison with us in resolving your concerns.
 
 ### Routine Information Collection
 
@@ -38,4 +32,4 @@ Concerns or questions about this privacy policy can be directed to our [Contact 
 
 By Mail: 93 S Jackson St, Suite #37960, Seattle, WA 98104-2818
 
-Last updated: January.26.2010
+Last updated: December.15.2012
