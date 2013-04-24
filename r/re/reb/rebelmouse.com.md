@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelmouse.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010113843id_/https%3A//www.rebelmouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelmouse.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424020737id_/https%3A//www.rebelmouse.com/privacy-policy) for the most accurate reproduction.*
 
 # RebelMouse Privacy Policy: Last Updated May 29, 2012
 
