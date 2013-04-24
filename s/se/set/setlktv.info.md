@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setlktv.info privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129184208id_/http%3A//setlktv.info/%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setlktv.info privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424080414id_/http%3A//setlktv.info/%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
 # Well Come To My Channel
 
