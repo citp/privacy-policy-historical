@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004195737id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424063408id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Salamanders Privacy Policy
 
@@ -75,3 +75,5 @@ Whether you are looking for a free Homeschool Math Worksheet collection, banks o
 The Math Salamanders hope you enjoy using these free printable Math worksheets and all our other Math games and resources. 
 
 We welcome any comments about our site on the Facebook comments box at the bottom of every page. 
+
+comments received about this page so far! 
