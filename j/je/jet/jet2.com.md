@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623023818id_/http%3A//www.jet2.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424100140id_/http%3A//www.jet2.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Jet2.com | Privacy Statement
+# Privacy
 
-## Our approach to privacy
+## Privacy Policy
+
+### Our approach to privacy
 
 **1.** At Jet2.com Limited we are committed to preserving the privacy of our customers and visitors to this website.
 
 **2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](http://www.jet2.com/Terms.aspx).
 
-## When we collect personal information
+### When we collect personal information
 
 **3.** We ask for personal information from you in a number of circumstances:
 
@@ -19,7 +21,7 @@
 
 
 
-## Why we collect personal information
+### Why we collect personal information
 
 **4.** We collect personal information to help us deliver an effective service as follows:
 
@@ -34,15 +36,15 @@
 
 
 
-## Our approach to direct marketing
+### Our approach to direct marketing
 
 **5.** We may contact you from time to time to provide you with information which we think you may find of interest. We may also pass on your details to other members of Dart Group plc so that they can tell you about products or services which may be of interest to you.
 
 Contact may be made by post, telephone or email unless you have indicated in the appropriate section of the registration process that you do not wish to receive this information.
 
-You can contact us at any time to remove your details from our marketing database by sending an email to [www.jet2.com/Subscribe.aspx](http://www.jet2.com/Subscribe.aspx) and insert "unsubscribe" or "stop" as the appropriate subject heading or write to the following address: PO Box 304, Whitehouse Lane, Leeds, West Yorkshire, LS19 9DY. Please give your name, postal address details and your email address.
+You can contact us at any time to remove your details from our marketing database by visiting our ['unsubscribe'](http://www.jet2.com/new/unsubscribe) page or write to the following address: PO Box 304, Whitehouse Lane, Leeds, West Yorkshire, LS19 9DY. Please give your name, postal address details and your email address.
 
-## When we may disclose information to third parties
+### When we may disclose information to third parties
 
 **6.** We may disclose personal information to third parties including other members of our group (including Jet2holidays Limited and any other subsidiary of our holding company, Dart Group PLC), credit card companies, airlines and third party suppliers in connection with the purposes explained above.
 
@@ -50,26 +52,26 @@ We may disclose personal information as part of due legal process and as otherwi
 
 **7.** If we sell, assign or transfer the assets of our business, or if our business is merged, or enters into a joint venture with another business entity, we reserve the right to sell or transfer the databases maintained by us (including any personal information provided by you).
 
-## Security 
+### Security 
 
 **8.** We employ security measures to protect the information provided by you from access by unauthorised persons and against unlawful processing, accidental loss, destruction or damage. 
 
-## Cookies and IP addresess
+### Cookies and IP addresess
 
 **9.** Similar to other commercial websites, our website utilises a standard technology to collect information about how our website is used by individual computers connected to the internet. Information is gathered through cookies and Web server logs which allow us to monitor website traffic and to personalise the content of the site for you.
 
 **10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
 
-## Accessing your information
+### Accessing your information
 
 **11.** Individuals are entitled to see a copy of the personal information that we have collected and maintain about them. If you wish to do this, please email us at [informationrequest@jet2.com](mailto:informationrequest@jet2.com). We may charge a small fee to meet our costs in providing you with these details.
 
-## Special Notice for Customers Travelling to the United States of America
+### Special Notice for Customers Travelling to the United States of America
 
 **12.** Passengers making reservations to destinations in the United States of America should note that in accordance with an International Agreement between the European Union and the United States, we are required to transfer to the US Department of Homeland Security ("DHS") certain travel and reservation data about passengers flying between the European Union and the United States of America. 
 
 US authorities use this information for preventing and combating terrorism and other transnational serious crimes. For further information about the way in which the DHS uses this data please see : [www.dhs.gov](http://www.dhs.gov/) and this [PDF](http://www.dhs.gov/xlibrary/assets/privacy/privacy_faq_pnr_cbp.pdf). 
 
-## Contact us
+### Contact us
 
 **13.** All comments, queries and other requests relating to our use of personal information should be sent by post to the Customer Service team at Jet2.com Limited, Customer Care Team, PO Box 314, Leeds, LS19 9FY, England.
