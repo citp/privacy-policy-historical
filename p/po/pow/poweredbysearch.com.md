@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the poweredbysearch.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019093719id_/http%3A//www.poweredbysearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweredbysearch.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424223507id_/http%3A//www.poweredbysearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Powered by Search
+
+## Privacy Policy
+
+[Home](http://www.poweredbysearch.com/) • Privacy Policy
+
+## Privacy Policy
 
 Powered by Search Inc. (“Powered by Search”) is firmly committed to maintaining and protecting the privacy of your personal and company information. The terms of this policy apply to www.poweredbysearch.com and all other Powered by Search websites. The following privacy policy tells you how information that identifies you personally is used, so that you can make an informed choice about using this website and its services.
 
@@ -79,10 +85,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.poweredbysearch.com  
+http://www.poweredbysearch.com
+
 505 Consumers Road, Suite 507  
 Toronto, Ontario M2J 4V8  
 Canada  
 hello@poweredbysearch.com  
-866-611-5535  
-
+866-611-5535
