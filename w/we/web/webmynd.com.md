@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmynd.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029085133id_/https%3A//trigger.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmynd.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424214446id_/https%3A//trigger.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Trigger
 
