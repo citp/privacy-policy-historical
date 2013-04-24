@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesbiansistas.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004011009id_/http%3A//www.lesbiansistas.com/cimages/legal/privacy.html%3Fsite%3Dlesbiansistas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbiansistas.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424125735id_/http%3A//www.lesbiansistas.com/cimages/legal/privacy.html%3Fsite%3Dlesbiansistas) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
