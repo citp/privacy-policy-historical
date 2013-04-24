@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006090952id_/http%3A//www.eboobstore.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424145915id_/http%3A//www.eboobstore.com/home/privacy) for the most accurate reproduction.*
 
-# EboobStore - Privacy & Security
+# eBoobStore.com - Browse and Shop for Adult DVDs, Magazines, and More.
 
 Privacy Statement
 
