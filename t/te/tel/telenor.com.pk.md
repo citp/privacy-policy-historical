@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201005158id_/http%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424122022id_/http%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Telenor Pakistan - Privacy Policy
 
@@ -149,3 +149,10 @@ Please also be aware that in some instances, Telenor Pakistan customers are rece
 PLEASE NOTE THAT SUCH CALLS AND SMS ARE A FRAUD.
 
 This notice is being given in the public-interest to inform our customers from fraudulent practices. However Telenor Pakistan does not hold any responsibility or is in any way liable for compensation what so ever against such fraudulent activities.
+
+To read Telenor Pakistan’s customer charter in the language of your choice:
+
+  * [Click Here for English](http://www.telenor.com.pk/images/stories/pdf/English.pdf)
+  * [Click Here for URDU](http://www.telenor.com.pk/images/stories/pdf/Urdu.pdf)
+
+
