@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redcarpet-fashionawards.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014164854id_/http%3A//www.redcarpet-fashionawards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcarpet-fashionawards.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424125532id_/http%3A//www.redcarpet-fashionawards.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Red Carpet Fashion Awards
+# Privacy Policy » Red Carpet Fashion Awards
 
 This statement covers the website [Red Carpet Fashion Awards](http://www.redcarpet-fashionawards.com/). Please read this statement carefully before accessing Red Carpet Fashion Awards. Your use of Red Carpet Fashion Awards indicates your agreement to abide by the terms in effect.
 
