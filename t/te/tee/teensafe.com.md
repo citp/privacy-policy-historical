@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the teensafe.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512204227id_/http%3A//www.teensafe.com/users/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensafe.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424183650id_/http%3A//cp.teensafe.com/helps/privacy) for the most accurate reproduction.*
 
-# www.TeenSafe.com
+# TeenSafe - Protecting Your Most Valuable Treasure
+
+## TeenSafe, Inc. Privacy Policy
 
 Last Modified on October 10th, 2011
 
 **_Our Privacy Commitment_**
+
+  
+
 
 Teensafe, Inc. ("Teensafe," "we," "us" or "our") is committed to respecting the privacy rights and concerns of all users of the Teensafewebsite where this Privacy Policy is posted (the "Site") (we refer to the Site, the services and the software made available through the Site, collectively, as the "Teensafe Features"). As such, we have established and implemented this Privacy Policy to inform visitors to the Site and users of the TeensafeFeatures how we use and protect the information we collect through the Site and the Teensafe Features. By visiting the Site or using any of the Teensafe Features, you consent to Teensafe's collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site and not to any other website that you may be able to access from the Site which may have its own data collection and use practices and policies. 
 
@@ -27,6 +32,9 @@ We collect personal information when you create an account through the Teensafe 
 
 To create an account for the Teensafe Features, we require you to provide certain information to create your profile, including a login name and password and your email address, mailing address and phone number. Providing additional information beyond what is required to create an account is entirely optional, but enables you to gain more from the Teensafe Features. If you sign up for one of our services which involves tracking personally identifiable information, we may also collect personally identifiable information from other internet sources and database services. No information of this type will be collected unless you have registered for services that require it. 
 
+  
+
+
 **How We Use Your Personal Information**
 
 The personal information you provide to us will allow us to provide the services available through the Site; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, or special offers. We also use your email address as part of the Teensafe Features in sending you messages about the Teensafe Features and other general announcements. 
@@ -35,13 +43,22 @@ We keep track of your interactions with us, including but not limited to your ac
 
 We may use your personal information with non-personal information that we have collected in a manner such that the end-product does not personally identify you or any other user of the Teensafe Features. We may make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the Teensafe Features (the "Analytical Data"). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the Analytical Data that personally identifies any Teensafe Features users. 
 
+  
+
+
 **Cookies**
 
 "Cookies" are small bits of electronic information that a website sends to a visitor's browser and are stored on the visitor's hard drive. Like many websites, we employ cookies in certain areas of the Site to allow us to provide information to make your online experience more convenient. For example, when you return to our Site after logging in, cookies provide information to the Site so that the Site will remember who you are on subsequent visits, speeding up or enhancing your experience of the services offered by, for instance, tailoring content to you. 
 
+  
+
+
 **Log Information**
 
 Our servers automatically record information that your browser sends whenever you visit the Site. This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Teensafe Features, if any,which TeensafeFeatures you use and when and how long you use them. We use this information to monitor and analyze how users use the TeensafeFeatures, to provide customer service and to maintain and improve the Teensafe Features. 
+
+  
+
 
 **Children's Privacy**
 
@@ -51,13 +68,16 @@ Only you can access the information through the Teensafe Features from the compu
 
 **_Will we share your personal information with third parties?_**
 
+  
+
+
 **Sharing of Information**
 
 We may use your personal information to provide analyses of our users in the aggregate (including Analytical Data subject to the terms of this Privacy Policy) to prospective partners and other third parties. 
 
 In addition, we will share the personal information we collect from you under the following circumstances: 
 
-  * **Protection of rights.** We will share your personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the [Terms of Use](https://web.archive.org/web/20120512204227id_/http%3A//www.teensafe.com/users/terms) for the Teensafe Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Teensafe Features, or (iv) such action is appropriate to protect the rights, property or safety of Teensafe, its employees, users of the Teensafe Features or others.
+  * **Protection of rights.** We will share your personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the [Terms of Use](https://web.archive.org/web/20130424183650id_/http%3A//cp.teensafe.com/helps/terms) for the Teensafe Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Teensafe Features, or (iv) such action is appropriate to protect the rights, property or safety of Teensafe, its employees, users of the Teensafe Features or others.
   * **Asset transfers.** If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Teensafe's assets, user information, including personal information collected from you through your use of the Teensafe Features, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site.
   * **Service Providers.** We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. For example, we may partner with other companies to process, analyze, and/or store data, including, but not limited to, Analytical Data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures. 
 
@@ -71,13 +91,22 @@ Whenyou have clicked on a third party logo or URL displayed on our Site which li
 
 **_What choices do you have about the collection and use of your personal information?_**
 
+  
+
+
 **Control of Your Information**
 
 You may update or delete your personal information or modify your account preferences for the Teensafe Features by accessing the "Settings" areaof the TeensafePlatform.Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities. 
 
+  
+
+
 **Opting Out of Receiving Communications from Us**
 
 If you no longer want to receive our newsletter, emails or other announcements, you may unsubscribe by selecting "Unsubscribe" in your account, writing to us at [privacy@teensafe.com](mailto:privacy@Teensafe.com?subject=Teensafe%20Privacy) or replying to the unsubscribe link at the bottom of our emails. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions. 
+
+  
+
 
 **Mediation**
 
@@ -97,4 +126,4 @@ If you have any questions about our privacy practices or this Privacy Policy, pl
 
 **_Terms of Use_**
 
-Please read the [Terms of Use](https://web.archive.org/web/20120512204227id_/http%3A//www.teensafe.com/users/terms) governing the use of the Site and the Teensafe Features. 
+Please read the [Terms of Use](https://web.archive.org/web/20130424183650id_/http%3A//cp.teensafe.com/helps/terms) governing the use of the Site and the Teensafe Features. 
