@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codemag.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124155342id_/http%3A//www.codemag.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemag.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424081546id_/http%3A//codemag.com/Home/Privacy) for the most accurate reproduction.*
 
 # CODE Privacy Policy
 
