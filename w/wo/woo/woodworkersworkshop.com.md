@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226190630id_/http%3A//www.woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424182156id_/http%3A//woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
 
-# WoodworkersWorkshop.com - Our Privacy Policy
+# WoodworkersWorkshop® Privacy Policy
 
-  | [](http://www.woodworkersworkshop.com/index.php)
+  | [](http://www./index.php)
 
 ### Featuring thousands of woodworking plans to purchase by mail or download and build your own scrollsaw projects, yard art decorations, furniture and workshop tools.
 
@@ -15,12 +15,12 @@ We have created this privacy statement in order to demonstrate our firm commitme
 **Please be advised that we do not provide customer support for free woodworking plans. The free plans are owned by other web sites, we only list where to find them. Since we do not get paid anything, we cannot provided support. We recommend you visit the web site that has the free plan and ask someone there for assistance. We appreciate your understanding in this matter.**
 
 **Our contact information:**  
-Company Name: WoodchuckCanuck.com, Inc.  
-Contact Person: Jim Barry  
+Company Name:  
+WoodchuckCanuck.com, Inc.  
 Address: 117 Hwy 316, Loch Katrine, Nova Scotia, Canada, B0H-1M0  
 Telephone: 902-783-2144  
 Fax: 902-783-2143  
-Email: To control spam and unwanted email, we now require you to visit the store ([here](http://www.woodworkersworkshop.com/store/index.php)) and use the Contact Us form at the top of the page.
+Contact: Jim Barry
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information.
 
