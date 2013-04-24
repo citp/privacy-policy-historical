@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.ie privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022183853id_/http%3A//www.groupon.ie/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ie privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424023358id_/http%3A//www.groupon.ie/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, travel, shopping - GROUPON.ie
 
@@ -69,21 +69,20 @@ Example 3:
 
 We may pass your PII to Groupon Shop Limited or Groupon Travel Limited (two companies in the Groupon group of companies in the European Economic Area) so they can email you about the services they offer. You will always be able to opt out of receiving these marketing emails (see below).
 
-**4\. Emails  
-** Please note that we may email you for the following purposes: 
+**4\. Emails**
 
-  * as part of the Service. For example, we send (or may send) emails to you in some of the following example circumstances: 
-    * after registration, notifying you of your account details;
-    * as reminder emails about the services we offer (particularly if you have not used them yet or not used them for a while);
-    * to send you information or Vouchers which you have asked for;
-  * as a newsletter;
-  * as promotional emails;
-  * as an opportunity to provide feedback about a particular Merchant’s service; and
-  * to offer related services to you from Groupon.
+Please note that we may email you for the following purposes:
 
+•  as part of the Service. For example, we send (or may send) emails to you in some of the following example circumstances:   
+  \- after registration, notifying you of your account details;   
+  \- as reminder emails about the services we offer (particularly if you have not used them yet or not used them for a while);   
+  \- to send you information or Vouchers which you have asked for;   
+•  as a personalised newsletter;   
+•  as promotional emails;   
+•  as an opportunity to provide feedback about a particular Merchant’s service; and   
+•  to offer related services to you from the Groupon group of companies
 
-
-**However, in terms of any marketing or promotional emails we may send, we will always give you the chance to opt-out (or unsubscribe) from them in the future.**
+ **However, in terms of any marketing or promotional emails we may send, we will always give you the chance to opt-out (or unsubscribe) from them in the future.**
 
 **5\. Security and retention  
 ** The PII which we hold will be held securely within our systems in accordance with our internal security policy and the law. We hold data until 3 years after it is last accessed or used by us.
