@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivermarkcu.org privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028141941id_/https%3A//www.rivermarkcu.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivermarkcu.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424133729id_/https%3A//www.rivermarkcu.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Rivermark Community Credit Union - Privacy_Policy
 
