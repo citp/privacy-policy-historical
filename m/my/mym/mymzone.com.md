@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymzone.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018134747id_/https%3A//mymzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymzone.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424072500id_/https%3A//mymzone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -72,6 +72,6 @@ Email: [info@mymzone.com](mailto:info@mymzone.com)
 
 Telephone: [+44-(0)-2074285898](tel:%2B44-%280%29-2074285898)
 
-Address: 4 Water lane, London. UK NW18NZ
+Address: Unit 416 Stables Market, Chalk Farm Rd, London. UK NW18AH
 
 [www.mymzone.com](http://www.mymzone.com/)
