@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919065323id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424144651id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Legal - Privacy | Official World Series of Poker Online
 
@@ -11,8 +11,8 @@ Online Privacy Policy
 If you prefer that we not share your personal information with Joint Marketers, please [click here](http://harrahsent.rqst4.info/dspSurvey.cfm?N=16&SID=21&SEQ=1), and follow the instructions provided.
 
 INTRODUCTION  
-Harrah’s Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah’s Phoenix Ak-Chin,  
-Harrah’s Rincon, Harrah’s Joliet, Harrah’s Metropolis, Horseshoe Hammond, Harrah’s Bluffs Run, Harrah’s Council Bluffs, Harrah’s Prairie Band, Harrah’s Louisiana Downs; Harrah’s Lake Charles, Harrah’s New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah’s North Kansas City, Harrah’s St. Louis, Bill’s Lake Tahoe, Harrah’s Lake Tahoe, Harrah’s Las Vegas, Harrah’s Laughlin, Harrah’s Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah’s Atlantic City, Showboat Atlantic City, Harrah’s Cherokee, Harrah’s Chester, Bally’s Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Caesars Indiana, Caesars Atlantic City, Bally’s Atlantic City, Grand Casino Gulfport, Grand Casino Biloxi, Grand Casino Tunica, Sheraton Tunica, Reno Hilton, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah’s Operating Company, Inc. (collectively "The Properties" and/or "We").
+Harrah's Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah's Phoenix Ak-Chin,  
+Harrah's Rincon, Harrah's Joliet, Harrah's Metropolis, Horseshoe Hammond, Harrah's Bluffs Run, Harrah's Council Bluffs, Harrah's Prairie Band, Harrah's Louisiana Downs; Harrah's Lake Charles, Harrah's New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah's North Kansas City, Harrah's St. Louis, Bill's Lake Tahoe, Harrah's Lake Tahoe, Harrah's Las Vegas, Harrah's Laughlin, Harrah's Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah's Atlantic City, Showboat Atlantic City, Harrah's Cherokee, Harrah's Chester, Bally's Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Caesars Indiana, Caesars Atlantic City, Bally's Atlantic City, Grand Casino Gulfport, Grand Casino Biloxi, Grand Casino Tunica, Sheraton Tunica, Reno Hilton, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah's Operating Company, Inc. (collectively "The Properties" and/or "We").
 
 CORPORATE PRIVACY POLICY  
 We value you as a customer and take your personal privacy seriously. In the course of providing you with credit or other financial services we collect certain personal information about you that we understand you may consider private or confidential. This information may be contained in applications and other forms you submit to us, gathered from your gaming activity with us, or obtained from our affiliates and other third parties such as credit bureaus. We are therefore providing you with this notice to explain our policies for collecting, using and sharing this information with others.
@@ -29,7 +29,7 @@ We may collect and maintain several types of information needed for these purpos
 
 Information we receive on applications for credit or other financial services, such as your name, address, telephone number, Social Security number and other identifying information.  
 Information we receive about you from others, including credit bureaus, relating to your credit history and financial transactions with others.  
-Information about your transactions with us, including your payment history and/or gaming activity with Harrah’s Operating Company, Inc. and its affiliated entities.
+Information about your transactions with us, including your payment history and/or gaming activity with Harrah's Operating Company, Inc. and its affiliated entities.
 
 ONLINE PRIVACY POLICY  
 Welcome to the Harrah's Operating Company, Inc. ("Harrah's", "Harrahs.com") web site.  Harrah's Operating Company, Inc. has created this privacy statement in order to demonstrate our company's commitment to privacy for our website users.  The following paragraphs disclose our information gathering and dissemination practices for the site.
@@ -49,7 +49,7 @@ If necessary, we may share information as set forth above with our affiliates, i
 INFORMATION DISCLOSURE TO NON-AFFILIATED ENTITIES  
 We share the information we collect about our customers with credit bureaus, collection agencies, and other non-affiliated third parties only as permitted by law.
 
-If you are a participant in our Total Rewards® Program, we may share certain limited information about you with other businesses with which we contract, who may contact you as part of a joint marketing or promotional program (Joint Marketers). These businesses include financial services companies, such as banks and insurance companies, other service providers, such as airlines and car rental agencies, and retailers. The information we share with them - such as your name, address, telephone number, is gathered solely from your participation in the Total Rewards Program.
+If you are a participant in our Total Rewards� Program, we may share certain limited information about you with other businesses with which we contract, who may contact you as part of a joint marketing or promotional program (Joint Marketers). These businesses include financial services companies, such as banks and insurance companies, other service providers, such as airlines and car rental agencies, and retailers. The information we share with them - such as your name, address, telephone number, is gathered solely from your participation in the Total Rewards Program.
 
 CHANGES IN PRIVACY POLICY  
 Over time, it may be necessary to modify or supplement our Privacy Policy. Any such changes will be posted on this page and Harrah's will inform Site users by adding a notice to the Site home page.
