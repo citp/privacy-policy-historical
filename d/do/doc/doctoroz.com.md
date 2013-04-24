@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctoroz.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227111107id_/http%3A//www.doctoroz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctoroz.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424100539id_/http%3A//www.doctoroz.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | The Dr. Oz Show
 
@@ -6,7 +6,7 @@
 
 This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information and whether we will disclose that information to anyone. Please refer back to this policy regularly. 
 
-If you have any questions or concerns about our privacy policy, please send an e-mail to [privacy@zoco.com](mailto:privacy@zoco.com) or contact us at Legal Department, ZoCo Productions, LLC, 30 Rockefeller Plaza, New York, NY 10112; 212-259-1500.
+If you have any questions or concerns about our privacy policy, please send an e-mail to [privacy@zoco.com](mailto:privacy@zoco.com) or contact us at Legal Department, ZoCo Productions, LLC, 30 Rockefeller Plaza, New York, NY 10112.
 
  **Scope of Privacy Policy  
 ** This policy applies to your use of all the sites and services owned or operated by ZoCo Productions, LLC  (“ZoCo”) and affiliated companies (collectively "we," "us" or "our"), including Doctoroz.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). Unless we say otherwise, all references to the Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. This policy covers only information collected on the Sites and does not cover any information collected offline by us. 
