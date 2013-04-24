@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102021302id_/https%3A//www.discover.com/online-banking/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424053655id_/https%3A//www.discover.com/online-banking/privacy-policy.html) for the most accurate reproduction.*
 
-# Online Banking Privacy Policy | Discover
+# Online Banking Privacy Policy | Discover Bank
 
 Facts | 
 
 What Does Discover BankDo With Your Personal Information?
 
-| Rev. 10/11  
+| Rev. 10/12  
 ---|---|---  
 Why? | 
 
@@ -137,7 +137,7 @@ Affiliates
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * our affiliates include financial service providers that offer credit protection, card servicing and payment processing services
+  * our affiliates include companies with a Discover or DFS name and financial companies such as Diners Club International Ltd., PULSE Network LLC, The Student Loan Corporation, DB Servicing Corporation and GTC Insurance Agency, Inc.
 
   
   
