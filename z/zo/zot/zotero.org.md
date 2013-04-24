@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005214359id_/http%3A//www.zotero.org/support/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424091508id_/http%3A//www.zotero.org/support/terms/privacy) for the most accurate reproduction.*
 
 # terms:privacy [Zotero Documentation]
 
 Translations of this page:
 
-  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 Zotero is an open source project committed to providing the best research tool available anywhere. Our philosophy is that what you put into Zotero _is yours_ , and one of our founding principles is to make it as easy as possible to take the fruits of your research where and when you want it and to share it how you like–or to choose not to share it at all. 
