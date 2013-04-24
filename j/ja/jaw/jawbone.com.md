@@ -1,98 +1,83 @@
-> *The following text is extracted and transformed from the jawbone.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616111149id_/http%3A//us.jawbone.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jawbone.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424093238id_/https%3A//jawbone.com/legal/privacy) for the most accurate reproduction.*
 
-# The New Jawbone: The Best Bluetooth Headset Just Got Better
+# Jawbone | Privacy
 
-Aliph Privacy Policy 
+## Privacy
 
-  
+Last Updated: February 21, 2013
 
+AliphCom dba Jawbone (" **Jawbone** ") respects the privacy of the visitors to the Site. This Jawbone Privacy Policy (the "Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information.
 
-BY VIEWING AND ACCESSING THIS WWW.JAWBONE.COM WEB SITE (the "Site") AND/OR PURCHASING ANY OF THE PRODUCTS AVAILABLE VIA THE SITE, YOU ("You" or "Your") REPRESENT THAT YOU HAVE READ AND UNDERSTOOD THIS ENTIRE PRIVACY POLICY AND YOU AGREE TO ALL THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT CONSENT TO THIS PRIVACY POLICY IN ITS ENTIRETY, YOUR SOLE AND EXCLUSIVE REMEDY IS TO IMMEDIATELY CEASE USE OF THIS SITE. 
+Personal information we collect on our websites and in our applications are sent to our servers and may be processed by us in the United States where laws regarding processing of personal information may be less stringent than the laws in your country.
 
-The terms and conditions governing Your use of this Site are contained in a separate Terms of Use agreement available at [http://www.jawbone.com/terms.aspx](https://web.archive.org/terms.aspx) (" **Terms of Use** "). 
+## Information We Collect
 
-Aliph, Inc. (" **Aliph** ", " **Jawbone** ", " **Us** ", " **We** " or " **Our** ") respects the privacy of the visitors to the Site. This Aliph Privacy Policy between You and Us (the "Privacy Policy") is intended to inform You of Our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information You submit to Us through the Site. 
+ **Our Site**
 
-" **Personal Information** " is information about You that is personally identifiable to You, such as Your name, address, e-mail address, or phone number, payment and billing information, as well as other non-public information that is associated with the foregoing. " **Anonymous Information** " means information that is not associated with or linked to Your Personal Information; Anonymous Information does not permit the identification of individual persons. 
+We collect the following information you provide to us on our site: Your first and last name, email address, postal addresses, password if you create a MyTalk account, and payment information if you purchase a product on our site.
 
-**User Consent**  
-By submitting Personal Information through the Site, You agree to the terms of this Privacy Policy and You expressly consent to the processing of Your Personal Information according to this Privacy Policy. Your Personal Information may be processed by Us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in Your country. 
+ **We automatically collect the following information on our site:**
 
-**Collection of Personal Information**  
-The Personal Information We gather from You helps Us learn about visitors to the Site, Our customers and potential customers. We use this information to better tailor the features, performance and support of Our products and services, to offer You additional information and opportunities, and to inform you of changes to this Privacy Policy [and the Terms of Use of the Site]. 
+Your Internet protocol address ("IP address"), browser type, domain names, access times, and operating system. We also use cookies and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. This type of information is collected to make our products and services more useful to you. In some of our emails to you, we will use a "click-through URL" to make your experience as easy as possible. When you click on one of these URLs, our web server detects that you clicked on the link from your email before arriving at your destination website. Tracking click-throughs helps us determine your interest in particular topics and helps us measure the effectiveness of our customer communications.
 
-**Product Purchases**  
-If You are purchase a Jawbone® headset product or other product via this Site, We collect Your Personal Information needed to conduct the sales transaction, and use the information to process Your payment and to send You the product You purchased. 
+Cookies are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire when you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Site. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the site may not work properly.
 
-**Payment Information**  
-If You are submitting payment information via this Site, We collect Your payment information for the purpose of allowing you to pay for products You purchase via the Site. To make any payments via the Site You will be required to give us (or our third party payment services providers) a valid credit card number and associated payment information at the time You are required to make such payments, including all of the following: (i) Your name as it appears on the card, (ii) the credit card type, (iii) the date of expiration of Your credit card, and (iv) any activation numbers or codes needed to charge Your card. You agree that no additional notice or consent is required before We (or our third party payment services providers) invoice Your credit card provided to Us for all amounts due and payable. By providing Us or our third party payment services providers with Your credit card number and associated payment information, You expressly agree that We or our third party payment services providers are authorized to immediately invoice Your account for all fees and charges due and payable to us as a result of Your activities on the Site that require payment. You agree to immediately notify us of any change in Your invoicing address or the credit card used for payment hereunder. We use third-party processing companies (including credit card processing companies) for billing and payment purposes. These third parties may store or retain certain of Your Personal Information (as defined in the Privacy Policy) necessary to process such payments. These third parties do not have any right to use the Personal Information We provided to them beyond what is necessary to assist Us in processing payments. 
+ **UP**
 
-**Personal Information You Provide to Us**  
-We collect Personal Information that You submit to Us voluntarily through the Site.
+We collect the following information you provide us when you use the UP service: Your first and last name, photo, gender, height, weight, and date of birth. You can also upload your address book and Facebook contacts to our servers or through email address lookup so we can help you find friends using UP. Other information you may choose to input include what you eat and drink, your mood, and your activities. We translate what you eat and drink into information about calories and nutrition you consume.
 
-  * If You are purchasing a product via the Site, we collect the following information You provide to us: your first and last names, email address, mailing address, and billing address, if different from your mailing address.
-  * When You contact Us by sending Us an e-mail, We will collect Your name, e-mail address and information contained in the e-mail You send us.
-  * When You respond to a customer satisfaction survey from Us or we collect Your name and email address.
-  * If You choose to receive product update information from us, we collect Your name and email address.
+When you synch with the UP mobile app, we collect the following information your band collects about you whenever you wear it: Detailed physical information based on monitoring your micromovements, including when you are asleep, when you are awake, when you are idle, and your activity intensity and duration. This data is translated into information such as your sleep patterns, calories you burn, and your trends and progress. This information can also reveal certain health conditions you may have. Your band stores up to nine months of data at a time.
 
+We also collect your precise location data when you use our UP mobile app along with other data that we normally collect through our mobile applications described in the app usage data section below.
 
+ **Jawbone Companion App**
 
-**Personal Information Collected Via Technology**  
-As You navigate the Site, certain information may also be collected passively, including Your Internet protocol address ("IP address"), browser type, domain names, access times, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of Your visit and the information for which You searched and which You viewed. This type of information is collected to make Our products and services more useful to You. In some of Our emails to You, we will use a "click-through URL" to make your experience as easy as possible. When you click on one of these URLs, You pass through our web server before arriving at your destination website. Tracking click-throughs help Us determine Your interest in particular topics and help Us measure the effectiveness of Our customer communications. 
+When you use the Jawbone Companion app we connect with and upload to our servers the address book and calendar on your device along with other data that we normally collect through our mobile apps described in the app usage data section below.
 
-An "IP Address" is a number that is automatically assigned to Your computer when You use the Internet. In some cases Your IP Address stays the same from browser session to browser session; but if You use a consumer internet access provider, Your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze the traffic on our Site. 
+ **App Usage and Device Data**
 
-"Cookies" are small pieces of information that a web site sends to Your computer's hard drive while You are viewing a web site. We may use both session Cookies (which expire once You close Your web browser) and persistent Cookies (which stay on Your computer until You delete them) to provide You with a more personal and interactive experience on the Site. Persistent Cookies can be removed by following Internet browser help file directions. If You choose to disable Cookies, some areas of the Site may not work properly. 
+When you use our apps we collect information about your device, including your device type, manufacturer, model, and operating system; your device ID; and the version of your app. We also collect information about how you use the app and interact with the pages and features and a time stamped log of data exchanges.
 
-**Personal Information We Receive From Other Sources**  
-We may receive Personal Information about You from other sources like postal mail, telephone or fax. We may add this information to the information We have already collected from You via the Site in order to improve the products and services We provide. 
+ **Personal Information We Get From Other Sources**
 
-**Use of Information**  
-If You opt-in to receiving the following communications from Us, Personal Information You submit to Us is used either to respond to requests that You make, send You press releases, general informative announcements, and other general information about Us or Our products, or to aid Us in serving You better. Our customers will always have the right to opt-out of receiving product update information from us at any time. You will be given the opportunity to opt-out of receiving further communication from Us at the bottom of every email We send to You. 
+We may get Personal Information about you from other sources. We may add this information to the information we have already collected from you in order to improve the products and services we provide.
 
-If you have not opted-in to receiving communication from Us, We will not contact You unless You place an order for a product via the Site and we cannot process the order for any reason. At this time, we may contact You to request the additional or corrected information required to complete the processing of Your product order. 
+## Use of Information
 
-As described in more detail below, in order to perform Our services, we may disclose Your Personal Information to third party vendors. We may also use Your Personal Information to provide You with information regarding changes and upgrades to the Site, unless and until You request not to receive such communications from us. 
+Jawbone uses your information to provide and deliver products and services you request; personalize your experience and customize content, marketing, and recommendations; respond to requests that you make, provide you with customer service, send you press releases, general informative announcements, and promotional information about us or our products, or to aid us in serving you better; and protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
 
-We may create Anonymous Information records from Personal Information by excluding information (such as Your name) that make the information personally identifiable to You. We may use this Anonymous Information to analyze request patterns and usage patterns so that We may enhance Our products and services. We reserve the right to use and disclose Anonymous Information to third parties in its discretion, including for internal business analysis, and to provide aggregate demographic data to Our various partners. 
+## Sharing of Information
 
-**Personal Information collected via sale of our Products**  
-If You purchase any of the products available via our Site, You may be subject to additional terms and conditions of sale, and/or the licenses under which you have a right to use any software embedded in such products, if any. These additional terms and conditions or licenses will govern Your rights in and to such products. 
+When you use UP, your name and profile image is publicly searchable in the UP directory. We use the email address you register with the UP service and match it with information other people upload from their address books, Facebook contacts or through email address lookup. If there is a match, we share with that person that you are an UP user and allow them to invite you to connect to be part of their UP team. If you choose to be part of an UP team or add people to your UP team, you choose the UP information you wish to share with your team. Be thoughtful of your own privacy needs as you choose what you share and with whom.
 
-**Feedback**  
-If You provide feedback on the Site to Us, We may use such feedback for any purpose, provided that We will not associate such feedback with Your Personal Information. We will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy. 
+We may share your personal information with your consent.
 
-**Disclosure of Personal Information**  
-Except as otherwise stated in this Privacy Policy, We do not generally trade, rent, or share Your Personal Information with third parties and We will not disclose billing information unless You ask Us to do so. 
+We may share your Information with third parties to provide services on our behalf such as to process payments, or to store information collected through our site, app, and services.
 
-However, We may share Your Personal Information with third parties to process payments, or to provide You with access to the Site. These third parties are required not to use Your Personal Information other than to provide the services requested by Use and are bound by confidentiality agreements with regard to their use of Your Personal Information. You expressly consent to the sharing of Your Personal Information with Our contractors and third party service providers for the sole purpose of providing Our products services to You. 
+We may share information with a parent company, subsidiaries, joint ventures, or other companies under common control with us.
 
-From time to time, we may have a parent company, subsidiaries, joint ventures, or other companies under common control with us (collectively, "Affiliates"). At present we do not share your Personal Information with our Affiliates, however if we do share some or all of Your Personal Information with these Affiliates, We will require Our Affiliates to honor this Privacy Policy. 
+We may share your personal information for the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
 
-If Our company or Our assets are acquired by another company, that company will possess the Personal Information collected by Us and it will assume the rights and obligations regarding Your Personal Information as described in this Privacy Policy. 
+We may disclose your personal information to (a) comply with relevant laws, regulartory requirements and to respond to lawful requests, court orders, and legal process; (b) to protect and defend the rights or property of us or third parties, including enforcing agreements, policies, and terms of use; (c) in an emergency, including to protect the safety of our employees or any person, or (d) in connection with investigating and preventing fraud.
 
-Regardless of any choices You make regarding Your Personal Information (as described below), We may disclose Your Personal Information (1) if We believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to court orders, or (b) to protect and defend the rights or property of Us or third parties; or (2) in connection with investigating and preventing fraud. 
+## Choices about Your Information
 
-**Your Choices Regarding Your Personal Information**  
-We offer You choices regarding the collection, use and sharing of Your Personal Information. You will have the option to opt-in to receive promotional communications from Us when you purchase products via the Site. You may indicate a preference to stop receiving further communications from Us and You will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail Your receive or by contacting Us directly (please see contact information below). Despite Your indicated e-mail preferences, We may send You notices of any updates to Our Privacy Policy. 
+You can opt-out of promotion emails from us by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). If you opt-out, we may still send you non-marketing e-mails including e-mails about your accounts and our business dealings with you.
 
-**Regarding Children**  
-We do not intentionally gather Personal Information about visitors who are under the age of 13. 
+You may send requests about personal information to our contact information below. You can request to change contact choices and marketing choices and to update or change your personal information.
 
-**Other Sites**  
-Our provision of a link to any other website or location is for Your convenience and does not signify Our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of Our Privacy Policy do not apply to these outside websites. 
+ **UP Choices** You can choose general types of information you share with friends you add to your UP team by going to Setting>Privacy and Sharing. You can also hide or show individual posts from the posts detail screen. You can delete any activity or sleep tracked in the UP band via the Help screen in the UP app. You can erase band data by going to Settings>Erase Band Data. Performing a hard reset of the band will also erase all data from your band.
 
-**Security**  
-We use commercially reasonable efforts to protect the security of Your Personal Information by using industry-standard security technologies and procedures to help protect Your Personal Information from unauthorized access, use, or disclosure. Aliph safeguards the security of the data You send Us with physical, electronic, and managerial processes. We highly recommend that You take every precaution to protect Your Personal Information when You are on the Internet. One way You can do so is by making sure You are using a secure web browser. Aliph's ecommerce Site uses industry-standard Secure Sockets Layer (SSL) encryption on all ecommerce web pages where Personal Information is submitted by You. Your Personal Information has been secured with a digital security technology provided by VeriSign®/RSA, a trusted leader in digital security. As an extra precaution, please make sure that you are using the latest version of an SSL-enabled browser. We recommend using Internet Explorer 4.0 or higher, Netscape 4.0 or higher, and the latest version of Safari. This will better protect the confidentiality of Your Personal Information, including Your credit card information, while it is transmitted over the Internet. 
+## Security of Your Information
 
-Except as provided elsewhere in this Privacy Policy, We limit access to Personal Information in electronic databases to those persons (including employees and contractors) in our organization who have a business need for such access. 
+We use commercially reasonable efforts to help protect your personal information from unauthorized access, use, or disclosure.
 
-Even though We have taken steps to protect Your Personal Information from being intercepted, accessed, used, or disclosed by unauthorized persons, You should know that We cannot fully eliminate security risks associated with Personal Information. 
+Even though we have taken steps to protect your personal information, you should know that neither we nor any company can fully eliminate security risks.
 
-**Contact Us**  
-Should You have any questions or concerns regarding this Privacy Policy, please contact us at [info@aliph.com](mailto:info@aliph.com). 
+## Contact Us
 
-**Privacy Policy Updates**  
-This Privacy Policy is subject to revision at any time in Our sole discretion. We will notify You of material changes to this Privacy Policy via the email address You provide Us, and will post on this Site any changes to this Privacy Policy. We do, however, recommend that you read this Privacy Policy each time you use our website in case you missed our notice of changes to the Privacy Policy. If You object to any such changes, You must cease using the Site immediately. Continued use of the Site following notice of any such changes shall indicate Your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+Should you have any questions or concerns regarding this privacy policy, please contact us at [info@jawbone.com](mailto:info@jawbone.com).
 
-Sign up for new arrivals and early order advantage
+## Privacy Policy Updates
+
+This privacy policy may be updated from time to time. When we do we will change the last updated date above to let you know we made a change.
