@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnsimple.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014051805id_/https%3A//dnsimple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsimple.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424124357id_/https%3A//dnsimple.com/privacy) for the most accurate reproduction.*
 
-# DNSimple - Privacy Policy
+# Privacy Policy - DNSimple
 
 When accessing our Website, DNSimple.com will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
@@ -19,4 +19,10 @@ For site security purposes and to ensure that this service remains available to 
 
 DNSimple.com will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-June 25, 2011
+## No Front-Running
+
+[Domain front-running](http://en.wikipedia.org/wiki/Domain_name_front_running) is the practice whereby a service uses insider information to register domains for the purpose of re-selling them or earning revenue via ads placed on the domain's landing page.
+
+We guarantee that DNSimple will never engage in domain front-running. Look-up data is never shared with any third parties and we will never register a domain name based on look-up queries.
+
+November 5th, 2012
