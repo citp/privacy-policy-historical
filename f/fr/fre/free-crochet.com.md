@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the free-crochet.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028135642id_/http%3A//www.free-crochet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-crochet.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424124758id_/http%3A//www.free-crochet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**_Annie's  
-Online Privacy Pledge and Security information_**
 
 [Annie's](http://annies-publishing.com/) and [subsidiaries](http://www.annies-publishing.com/pages/privacy_companies.html) operate _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_ which adhere to industry standards in helping to assure our customers' privacy. All information, including transactions, customer accounts, and all correspondence, are handled with discretion and care. The policies below apply to all of the _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_ Annie's owns and operates. By using our _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_ , you agree to the collection and use of your information in accordance with the terms of this Privacy Pledge. If you do not agree to these terms, please do not use our _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_.
 
