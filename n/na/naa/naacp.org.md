@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130140526id_/http%3A//www.naacp.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424233643id_/http%3A//www.naacp.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAACP
 
-The National Association for the Advancement of Colored People ("NAACP" or "us" or "we") values the protection of individual privacy. This document sets forth naacp's online privacy policy ("privacy policy") for the website www.naacp.com ("site"). By using the site, you the user ("you") indicate that you have read and agree to be bound by this privacy policy. If you do not agree to this privacy policy, do not use the site in any manner. This privacy policy does not govern privacy practices associated with offline activities.
+The National Association for the Advancement of Colored People ("NAACP" or "us" or "we") values the protection of individual privacy. This document sets forth naacp's online privacy policy ("privacy policy") for the website www.naacp.org ("site"). By using the site, you the user ("you") indicate that you have read and agree to be bound by this privacy policy. If you do not agree to this privacy policy, do not use the site in any manner. This privacy policy does not govern privacy practices associated with offline activities.
 
 Thank you for visiting the site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit the site unless you choose to provide that information to us and we do not use personal information other than to process your request that required you to submit personal information. We do not make any visitor-provided information available to third parties.
 
