@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111130018id_/http%3A//www.better.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425002630id_/http%3A//www.better.com/privacy-policy) for the most accurate reproduction.*
 
-# Your International Terminal to Luxury Lifestyle Privacy Policy | Your International Terminal to Luxury Lifestyle
+# Privacy Policy - Your International Terminal to Luxury Lifestyle
 
 ## Privacy Policy
 
