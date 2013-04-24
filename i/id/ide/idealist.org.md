@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016025426id_/http%3A//www.idealist.org/info/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424160254id_/http%3A//www.idealist.org/info/About/Privacy) for the most accurate reproduction.*
 
 # About: Privacy Policy - idealist.org
 
@@ -12,7 +12,7 @@ By using or accessing this Site, you agree to the terms and practices of our Pri
 
 Although being a part of Idealist.org means sharing information about yourself and communicating with us, other Site members and groups, and the public at large, your privacy is important to us. This Privacy Policy explains what type of information we collect from you when you visit this Site, how we may use this information, who might have access to this information, which choices you have about how this information is used and shared, and which measures we take to protect this information. Please note, however, that this Privacy Policy only covers information that we collect through this Site.
 
-The use of this Site and its services is subject to our [Terms and Conditions](https://web.archive.org/info/About/Terms), which you may access at any time by clicking on the link at the bottom of any page on this Site. We welcome members of all ages to this Site and its services. While we are not required to comply with the Children’s Online Privacy Protection Act because of our non-profit status, **we strongly encourage members under thirteen years old to access our services only with parental consent and supervision in accordance with the Terms and Conditions.**
+The use of this Site and its services is subject to our [Terms and Conditions](https://web.archive.org/info/About/Terms), which you may access at any time by clicking on the link at the bottom of any page on this Site. We welcome members of all ages to this Site and its services. While we are not required to comply with the Children's Online Privacy Protection Act because of our non-profit status, **we strongly encourage members under thirteen years old to access our services only with parental consent and supervision in accordance with the Terms and Conditions.**
 
 ## 1\. INFORMATION WE COLLECT ABOUT YOU
 
@@ -53,7 +53,7 @@ We use "cookies" (small pieces of data we store for an extended period of time a
 
 
 
-If you want to prevent your browser from accepting cookies from our Site, you should refer to the Help portion of your browser’s toolbar. There you should find instructions on disabling cookies. However, please note that this will limit your ability to log in and use many features of the Site because we use cookies to recognize your browser and provide certain features that are tailored to your needs.
+If you want to prevent your browser from accepting cookies from our Site, you should refer to the Help portion of your browser's toolbar. There you should find instructions on disabling cookies. However, please note that this will limit your ability to log in and use many features of the Site because we use cookies to recognize your browser and provide certain features that are tailored to your needs.
 
 Like many other websites, we automatically collect information about your Internet connection that does NOT identify you personally, such as:
 
@@ -78,7 +78,7 @@ The following list provides some specific examples of the ways we may use inform
   * We may use your Profile Information and Member-Created Content to contact you regarding additional services and features or requesting your feedback about your experience with the Site. 
   * We may use your Profile Information and Member-Created Content to occasionally contact you with service-related announcements. You may opt out of all communications except essential Site notifications. We may also include content you see on Idealist.org in the emails we send to you. 
   * You can contact us directly with questions or comments regarding the services or to request additional information by following the links on the "Contact Us" section of our Site. These links require you to give certain personal information so that we may respond to your inquiry. 
-  * If you submit a friend's email address to make use of our "Recommend" and “Invite” features, we use the email address to mail your message and then delete it from our records. 
+  * If you submit a friend's email address to make use of our "Recommend" and "Invite" features, we use the email address to mail your message and then delete it from our records. 
   * When you ask us to invite a friend to join the Site or connect with you or your organization, we will send your friend a message on your behalf using your name. We may also send up to two reminders to them in your name. 
 
 
@@ -101,7 +101,7 @@ You may control the visibility of most of the information you share with others 
 
 You have one of four options for adjusting the privacy settings of your personal profile in your preferences, explained below:
 
-  * **"Anyone can see my full profile whether they’re an Idealist member or not."** Your Profile Information will be visible to anyone on the Internet, regardless of whether they are members of the Site. 
+  * **"Anyone can see my full profile whether they're an Idealist member or not."** Your Profile Information will be visible to anyone on the Internet, regardless of whether they are members of the Site. 
   * **"Any Idealist.org member can see my full profile."** This is the DEFAULT setting. All Site members can view your Profile Information. 
   * **"Only the people I'm connected to can see my full profile. Others can only see my name, city, and photo."** This is a limited setting where only your connections on the Site can see all of your Profile Information while other members of the Site can only see your basic information. 
   * **"No one can see any part of my profile. This means that no one can connect with me."** Your Profile Information will be hidden from public view. 
@@ -111,9 +111,9 @@ You have one of four options for adjusting the privacy settings of your personal
 Here are some additional things to remember:
 
   * We take certain steps to ensure that other Site members, third party suppliers, and service providers use your shared information in a manner consistent with your preferences, but we cannot guarantee that they will follow our rules. 
-  * Some of the content you share and the actions you take will show up on your connections’ profile pages and other pages that they visit. 
+  * Some of the content you share and the actions you take will show up on your connections' profile pages and other pages that they visit. 
   * Information you make available to others might be re-shared or copied by those individuals and organizations. 
-  * When you post information on another member’s profile or comment on another member’s post, that information will be subject to the other member’s preferences. 
+  * When you post information on another member's profile or comment on another member's post, that information will be subject to the other member's preferences. 
   * We provide you with discussion features for your use. In the event you voluntarily disclose personal information using this service, that information, along with any content in your communication or post, can be collected, correlated, and used by others. This may result in unsolicited messages from or improper and unauthorized use of your personal information by third parties. Such activities are beyond our control. 
   * Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your preferences, or it was copied or stored by others. 
   * Certain types of communications that you send to other members cannot be removed, such as messages. 
