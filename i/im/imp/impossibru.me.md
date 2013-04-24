@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impossibru.me privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029081651id_/http%3A//www.impossibru.me/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impossibru.me privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424033238id_/http%3A//www.impossibru.me/page/privacy.html) for the most accurate reproduction.*
 
 # Most Viewed Pictures Ever - Impossibru.me
 
