@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txt2nite.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012081653id_/http%3A//txt2nite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txt2nite.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424212313id_/http%3A//txt2nite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Txt2nite - Funny SMS Text Messages
 
