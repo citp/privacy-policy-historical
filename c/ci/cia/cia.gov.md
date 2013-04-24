@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016201804id_/http%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424021745id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Kids' Page Privacy Statement — Central Intelligence Agency
 
@@ -9,11 +9,11 @@ The Central Intelligence Agency established the CIA Kids’ Page in compliance w
 We encourage parents and teachers to be involved in children’s Internet explorations. The CIA Kids’ Page provides information about the Central Intelligence Agency, as well as games and other fun activities for children and teenagers (and parents and teachers, too). We do not ask for nor do we collect any information regarding children’s visits to our homepage, beyond what is stated in our [**Privacy Notice**](https://web.archive.org/about-cia/site-policies/index.html#privacy-notice "Site Policies"). The information collected as described in that statement does not differentiate between adults and children.
 
   * [Privacy Statement](https://web.archive.org/kids-page/privacy-statement/index.html#privacy-statement "Privacy Statement")
-  * [Disclaimer](https://web.archive.org/kids-page/privacy-statement/index.html#disclaimer "Disclaimer�")
+  * [Disclaimer](https://web.archive.org/kids-page/privacy-statement/index.html#disclaimer "Disclaimer ")
   * [Message to Kids - Let's Be Careful on the Web](https://web.archive.org/kids-page/privacy-statement/index.html#message-to-kids-let "Message to Kids – Let’s Be Careful on the Web")
-  * [Message to Parents, Guardians, and Teachers](https://web.archive.org/kids-page/privacy-statement/index.html#message-to-parents-guardians "Message to Parents, Guardians, and Teachers�")
-  * [Security Notice](https://web.archive.org/kids-page/privacy-statement/index.html#security-notice "Security Notice�")
-  * [For more information](https://web.archive.org/kids-page/privacy-statement/index.html#for-more-information "For More Information�")
+  * [Message to Parents, Guardians, and Teachers](https://web.archive.org/kids-page/privacy-statement/index.html#message-to-parents-guardians "Message to Parents, Guardians, and Teachers ")
+  * [Security Notice](https://web.archive.org/kids-page/privacy-statement/index.html#security-notice "Security Notice ")
+  * [For more information](https://web.archive.org/kids-page/privacy-statement/index.html#for-more-information "For More Information ")
 
 
 
@@ -47,7 +47,7 @@ It is important that you monitor your children’s communication to ensure they 
 
 For site security purposes and to ensure this service remains available to everyone, we monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise damage our site. All visitors to CIA.gov expressly consent to such monitoring. However, only in the case of actual law enforcement investigations will we attempt to identify individual users or their online usage habits.
 
-Unauthorized attempts to modify or damage CIA.gov are strictly prohibited and may be punishable by law. 
+Unauthorized attempts to modify or damage CIA.gov are strictly prohibited and may be punishable by law.
 
 _For more information, visit the[CIA.gov Security Notice](https://web.archive.org/about-cia/site-policies/index.html#sec "Site Policies")._
 
