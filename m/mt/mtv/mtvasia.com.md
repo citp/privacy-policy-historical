@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216015958id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424153858id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info | MTV Asia
 
@@ -85,3 +85,5 @@ We do not sell or market your personally identifiable information to unaffiliate
 \- make every effort to keep your personally identifiable information complete, up to date, and accurate based on the information you provide us. Our Site provides a convenient and easy to use mechanism to allow you to access and update the personally identifiable information you give us.
 
 **Sole Statement:** This privacy statement is the sole statement of MTV Asia's privacy policy with respect to the Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
+
+ _Last updated: 1 October 2010_
