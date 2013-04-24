@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegiftrewards.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630184739id_/http%3A//onlinegiftrewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14859%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegiftrewards.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424180604id_/http%3A//onlinegiftrewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14860%26gift%3D71) for the most accurate reproduction.*
 
 # Onlinegiftrewards
 
