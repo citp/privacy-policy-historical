@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layoutready.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111052918id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layoutready.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424065057id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.*
 
 # LayoutReady | Privacy Policy
 
