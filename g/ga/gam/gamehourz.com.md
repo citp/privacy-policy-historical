@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the gamehourz.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018002202id_/http%3A//www.gamehourz.com/modules.php%3Fname%3DForums%26file%3Dfaq%26privacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamehourz.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424084041id_/http%3A//www.gamehourz.com/modules.php%3Fname%3DForums%26file%3Dfaq%26privacy%3D1) for the most accurate reproduction.*
 
 # Game Forums
-
-  
-
 
 PRIVACY POLICY
 
