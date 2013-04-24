@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulletproofexec.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004042835id_/http%3A//www.bulletproofexec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletproofexec.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424191945id_/http%3A//www.bulletproofexec.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy The Bulletproof Executive
+# Privacy Policy
 
 Effective on December 4, 2011
 
