@@ -1,26 +1,35 @@
-> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010171610id_/https%3A//www.v.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424220419id_/https%3A//www.v.me/pages/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
-# V.me by Visa - Privacy Policy
+# V.me by Visa - Privacy Policy - (United States)
 
-[Read our full Privacy Policy](https://web.archive.org/pages/privacy#privacy_policy)
+[Read our full Privacy Policy »](https://web.archive.org/us/pages/privacy)
+
+###  Information We Collect 
 
   * Your name, contact information, and payment card numbers.
-  * Your Visa card transactions, if you enroll your card in Visa Alerts.
+  * Your Visa card transactions, if you enroll your card in V.me alerts.
   * Technical information about your browser and access device.
 
 
 
-  * We may contact you about your V.me account, service updates, and new features.
-  * We will send you mobile text and email alert messages if you sign up for V.me Alerts.
-  * We share some information, but not your card number, with merchants you pay using V.me.
+##  Core Ways We Use and Share Information 
+
+  * We may contact you about your V.me account, service updates, and new V.me features.
+  * We will send you mobile text and/or email alert messages if you sign up for V.me Alerts.
+  * We may share information about how you use your payment card in V.me with the financial institution that issued your card.
+  * We share some information, but not your full card number, with merchants you pay with V.me.
   * If you agree, we may invite you to sign up for other Visa services.
-  * We use your data to secure, operate, and improve V.me.
+  * We use your data to provide, secure, operate, and improve V.me.
 
 
 
-To stop receiving alerts, reply STOP to an alert mobile text message or login to V.me and change your alerts settings. 
+###  Your Choices 
 
-To close your V.me account, follow the instructions in the V.me Help section. 
+To stop receiving alerts, reply STOP to an alert text message or login to V.me and change your alerts settings. 
+
+To close your V.me account, follow the instructions in the V.me Customer Support section. 
+
+##  Questions? 
 
 Concerns or suggestions about privacy? Please email us at [askvisausa@visa.com](mailto:askvisausa@visa.com). 
 
@@ -28,16 +37,16 @@ Concerns or suggestions about privacy? Please email us at [askvisausa@visa.com](
 
 Welcome to V.me from Visa Inc. (“Visa”, “we” or “us”). Please read below to learn how we collect, protect and use your data.
 
-This privacy policy applies to the core V.me services, so start here. If you sign up for additional V.me services, there may be additional privacy policy terms which describe any additional or different data practices that apply to those services. Also, other Visa products and websites have their own separate privacy policies. The Visa.com privacy policy does not apply to V.me.
+This privacy policy applies to the core V.me services, so start here. If you sign up for additional V.me services, there may be additional or different privacy policies (such as your card issuer’s privacy policy) which describe any additional or different data practices that apply to those services. Also, other Visa products and websites have their own separate privacy policies. The Visa.com privacy policy does not apply to V.me.
 
-This privacy policy was last updated February 28, 2012.
+This privacy policy was last updated November 08, 2012.
 
 ## Information we collect
 
-We collect Personal Information (information which can be used to identify you as an individual) that you provide us when you sign up such as 
+We collect Personal Information (information which can be used to identify you as an individual) that you provide us directly or through your card issuer when you sign up such as 
 
   * Your name
-  * Contact information (including your email, phone, and shipping and card billing addresses)
+  * Contact information (including your email, phone, and mailing address)
   * Payment card information
 
 
@@ -58,8 +67,8 @@ We collect other information about your use of V.me such as
 
 V.me may get information about you from other sources such as
 
-  * Third parties who have the rights to give us data about you 
-  * Other Visa services you use if we have the right to do so 
+  * Third parties who have the rights to give us data about you
+  * Other Visa services you use if we have the right to do so
 
 
 
@@ -88,14 +97,15 @@ We primarily use this information to provide the V.me service to you and to
 
 We will only share your Personal Information as described in this policy and any supplemental privacy policies for other V.me services. Specifically, we may share your Personal Information
 
-  * With merchants you pay through V.me to complete your transactions, resolve disputes, help prevent fraud and provide customer service. These merchants are not allowed to use the Personal Information provided by us to market to you unless you have agreed to it. Also, when you pay using V.me we do not share your payment card account number with merchants.
-  * With companies and vendors that help us to operate our business. We require that they protect your information and only use it for that purpose 
-  * To comply with law or other legal obligations such as responding to subpoenas
-  * To protect our rights or property, or that of our users 
-  * To investigate, prevent, or take action regarding potential or suspected illegal activities, fraud, threats to the personal safety of any person, or violations of the V.me terms and conditions 
-  * With other companies that are owned by Visa as allowed by law
-  * With a purchaser of Visa (or the majority of its assets)
-  * With your consent
+  * With merchants you pay through V.me to complete your transactions, resolve disputes, help prevent fraud and provide customer service. These merchants are not allowed to use the Personal Information provided by us to market to you unless you have agreed to it. Also, when you pay using V.me we do not share your full payment card account number with merchants.
+  * With the financial institutions that issued the cards you enrolled in V.me for customer service, usage analysis, fraud prevention, and V.me related marketing.
+  * With companies and vendors that help us to operate our business. We require that they protect your information and only use it for that purpose.
+  * To comply with law or other legal obligations such as responding to subpoenas.
+  * To protect our rights or property, or that of our users.
+  * To investigate, prevent, or take action regarding potential or suspected illegal activities, fraud, threats to the personal safety of any person, or violations of the V.me terms and conditions.
+  * With other companies that are owned by Visa as allowed by law.
+  * With a purchaser of Visa (or the majority of its assets).
+  * With your consent.
 
 
 
@@ -107,7 +117,7 @@ You can opt out of receiving email alerts by changing your alerts preferences.
 
 You can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different, so check the Help menu of your browser to learn how to change your cookie and privacy preferences. However, if you reject cookies, your use of V.me may be impaired.
 
-You can close your V.me account by following the instructions in the Help section of the V.me website. Once your account is closed you will no longer be able to access your account online. Even though your account is closed we still may retain and use your Personal Information to comply with law, prevent fraud, resolve disputes, assist with any investigations, enforce our policies, analyze and improve the service, and take other actions as permitted by law.
+You can close your V.me account by following the instructions in the Customer Support section of the V.me website. Once your account is closed you will no longer be able to access your account online. Even though your account is closed we still may retain and use your Personal Information to comply with law, prevent fraud, resolve disputes, assist with any investigations, enforce our policies, analyze and improve the service, and take other actions as permitted by law.
 
 ## How you can access and edit your Personal Information
 
