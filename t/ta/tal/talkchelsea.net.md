@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkchelsea.net privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214100002id_/http%3A//forum.talkchelsea.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkchelsea.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424093600id_/http%3A//forum.talkchelsea.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Talk Chelsea
 
@@ -11,8 +11,6 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
-
-[**Welcome to TalkChelsea.net!** Why not sign up to join the discussion, and enjoy the site to the full?](http://forum.talkchelsea.net/index.php?app=core&module=global&section=register)
 
   1.  
 
