@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tredz.co.uk privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003102839id_/http%3A//www.tredz.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tredz.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424090042id_/http%3A//www.tredz.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Tredz.co.uk
 
