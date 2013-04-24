@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106163947id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424123048id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill | TheHill.com
 
@@ -68,4 +68,4 @@ This Privacy Policy is effective as of March 21, 2005. We reserve the right to c
 
 As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site.
 
-The contents of this site are © 2012 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.
+The contents of this site are © 2013 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.
