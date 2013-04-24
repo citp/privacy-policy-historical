@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2012-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120220154306id_/http%3A//www.importcds.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424101842id_/http%3A//www.importcds.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # ImportCds.com Privacy Policy
 
@@ -39,6 +39,8 @@ Agents and contractors of Super D and ImportCds.com who have access to personall
 We may transfer your personally identifiable information to other Super D and ImportCds.com offices for internal management and administrative purposes. Your personal data will be transferred to other Super D and ImportCds.com offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims. 
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
+
+We may use your personal information for the purposes of fraud control.
 
 ## Privacy Options
 
