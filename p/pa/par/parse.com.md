@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004161551id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424185308id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
 
 # Policies - Privacy | Parse
 
