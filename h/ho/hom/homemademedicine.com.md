@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemademedicine.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010204942id_/http%3A//homemademedicine.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemademedicine.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424090042id_/http%3A//www.homemademedicine.com/privacy.htm) for the most accurate reproduction.*
 
 # Homemade Medicine Privacy Policy
 
