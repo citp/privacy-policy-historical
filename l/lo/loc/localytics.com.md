@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010184554id_/http%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424161831id_/http%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
 
 # Localytics Privacy Policy
 
@@ -16,7 +16,7 @@ Personally identifiable information (“PII”) is information that can be used 
 
 ### PII Collected for Website Registration
 
-In order for you to access certain areas of the Websites or use certain features of the Services, we may require you to provide us with certain PII, such as your name and e-mail address (“Personal Information”). You may also provide Localytics with certain optional information, including, without limitation, your phone number and company name, at your sole discretion (“Optional Information”). For the purpose of this Privacy Policy, all Optional Information that you provide us will be deemed Personal Information.
+In order for you to access certain areas of the Websites or use certain features of the Services, we may require you to provide us with certain PII, such as your name, phone number and e-mail address (“Personal Information”). You may also provide Localytics with certain optional information at your sole discretion (“Optional Information”). For the purpose of this Privacy Policy, all Optional Information that you provide us will be deemed Personal Information.
 
 ### PII Collected via the Services
 
@@ -66,4 +66,10 @@ As a registered user of the Websites, you can modify some of the Personal Inform
 
 ### Contacts
 
-If you have any comments, concerns or questions about this Privacy Policy, please call us at us at +1 617 418 4422 or send us an email at contact@localytics.com or Localytics PO Box 425732 Cambridge MA 02142 USA Last Updated on April 27, 2010.
+If you have any comments, concerns or questions about this Privacy Policy, please call us at us at +1 617 418 4422 or send us an email at contact@localytics.com or contact our home office at:
+
+Localytics  
+141 Tremont Street, 7th Floor  
+Boston, MA 02111 USA
+
+Last Updated on March 29, 2013.
