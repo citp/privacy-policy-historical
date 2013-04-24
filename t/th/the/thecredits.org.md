@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecredits.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127090404id_/http%3A//www.thecredits.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecredits.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424154418id_/http%3A//www.thecredits.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Credits
 
