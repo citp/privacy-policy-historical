@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508195645id_/http%3A//www.regonline.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424154432id_/http%3A//www.regonline.com/__privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## RegOnLine Privacy Statement
 
 ### Last Updated 12/07/10
 
