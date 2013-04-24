@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainmatch.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021162812id_/http%3A//cb.bargainmatch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainmatch.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424192259id_/http%3A//cb.bargainmatch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
