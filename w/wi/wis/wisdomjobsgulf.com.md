@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wisdomjobsgulf.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105103556id_/http%3A//www.wisdomjobsgulf.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomjobsgulf.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424045100id_/http%3A//www.wisdomjobsgulf.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Wisdomjobs Gulf
+# Privacy Policy | Wisdomjobsgulf.com
 
 ### Privacy Policy
 
