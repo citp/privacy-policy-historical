@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txdmv.gov privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203009id_/http%3A//www.txdmv.gov/About_Us/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txdmv.gov privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424022736id_/http%3A//txdmv.gov/About_Us/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -34,4 +34,4 @@ The TxDMV site may use cookies to provide interactive pages, such as web-based f
 
 All information collected or maintained by TxDMV is subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code). The identity of most members of the public who communicate with state agencies through the Internet is confidential under Texas law. Exceptions to confidentiality may be reviewed at Texas Government code, Section 552.137.
 
-TxDMV complies with the [State Web Site Link and Privacy Policy](http://www.dir.state.tx.us/standards/link_policy.htm). TxDMV encourages organizations that link to this web site to comply with the provisions of the State Web Site Link and Privacy Policy, especially regarding protection of the privacy rights of individuals, and to make reasonable efforts to provide accessible sites.
+TxDMV complies with the [State Web Site Link and Privacy Policy](http://www2.dir.state.tx.us/pubs/Pages/weblink-privacy.aspx). TxDMV encourages organizations that link to this web site to comply with the provisions of the State Web Site Link and Privacy Policy, especially regarding protection of the privacy rights of individuals, and to make reasonable efforts to provide accessible sites.
