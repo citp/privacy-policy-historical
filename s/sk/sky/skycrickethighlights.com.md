@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skycrickethighlights.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190507id_/http%3A//skycrickethighlights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skycrickethighlights.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424065143id_/http%3A//skycrickethighlights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Keeping in mind the importance of privacy of personal information of visitors to this site, the following details the kinds of information that is collected as part of the process of serving Advertisements on this site, and how this information is safeguarded. By visiting SkyCricketHighlights, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy covers SkyCricketHighlights’s treatment of personal information that SkyCricketHighlights gathers when you are on the SkyCricketHighlights website and when you use SkyCricketHighlights services. This policy does not apply to the practices of third parties that SkyCricketHighlights does not own or control, or to individuals that SkyCricketHighlights does not employ or manage.
+>Keeping in mind the importance of privacy of personal information of visitors to this site, the following details the kinds of information that is collected as part of the process of serving Advertisements on this site, and how this information is safeguarded. By visiting SkyCricketHighlights, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy covers SkyCricketHighlights’s treatment of personal information that SkyCricketHighlights gathers when you are on the SkyCricketHighlights website and when you use SkyCricketHighlights services. This policy does not apply to the practices of third parties that SkyCricketHighlights does not own or control, or to individuals that SkyCricketHighlights does not employ or manage.
 
 **Information collected by SkyCricketHighlights:**  
 SkyCricketHighlights only collects personal information that is relevant to the purpose of the website. This information allows SkyCricketHighlights to provide you with a customized and efficient experience. SkyCricketHighlights does not process this information in a way that is incompatible with this objective. SkyCricketHighlights collects the following types of information from its users:
@@ -33,4 +33,4 @@ SkyCricketHighlights may amend this Privacy Policy from time to time, at its sol
 If you decide to visit the SkyCricketHighlights website, your visit and any possible dispute over privacy is subject to this Privacy Policy and SkyCricketHighlights’s Terms of Use, including limitations on damages, arbitration of disputes.
 
 **Effective Date of this Privacy Policy**  
-This Privacy Policy is effective as of December 19, 2010 and last updated February 16, 2011.
+This Privacy Policy is effective as of December 19, 2010 onward.
