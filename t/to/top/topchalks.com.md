@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topchalks.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514170048id_/http%3A//www.topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topchalks.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424061617id_/http%3A//www.topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.*
 
 # TopChalks: Privacy Policy
 
