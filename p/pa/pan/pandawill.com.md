@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the pandawill.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203072040id_/http%3A//www.pandawill.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandawill.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424150859id_/http%3A//www.pandawill.com/security-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice : Pandawill.com: A Trusted Professional Online Shopping Venue From China, For Electronic Appliance, Game Accessories, Communication Equipments, Computer Components, and more.
+# Security&Privacy policy
 
-We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Pandawill Inc.  
-If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
-Whenever you interact with us, we will receive and deposit the given information.  
-For example, like many other sites, we use “cookies”.  
-When your internet browser visits Pandawill, we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)  
-Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
+**Pandawill's Privacy Policy**
 
- **E-mail Correspondence**  
-To help us making the E-mail more useful and interesting, when you open the email from 
+**Security** **：**
 
-Pandawill, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’in order to avoid the junk messages.  
-The information from other resources:  
-We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)
+Pandawill respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. We respect your privacy and want you to know about the policies we have in place to protect your personal information.
 
- **Cookies**  
-Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.   
-The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.  
-Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.  
-However, cookies can help you to make most use of the best special services from Pandawill, so we recommend you to set up an open status for this program.
+The policy of allowing access to this Personal Information is only to our staffs with a need to know. We also use available technology and encryption, when legally required or when appropriate for your protection, to provide a more secure environment and to reduce the chance of unauthorized access. Personal Information is stored in a secure environment protected by a combination of physical and technical measures. Tape backups are not permitted to leave the premises without prior authorization..
 
- **The Information from Other Resources  
-** The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you..  
-Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.  
-The information you can get  
-The information you can get easily from 
+This information may be collected Register email,Password ，gender  ，shipping and billing address(es), phone number, email address, and credit card number, the date and time, browser and operating system, the URL you request, In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site  
+When we have more cooperation (like drop shipping), we may collect more information:  
+ like Phone number, your website, MSN, your reviews and testimonials etc
 
-Pandawill containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
+**information use:**
 
-******Pandawill** **Management.**
+**  
+** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
+
+We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with Pandawill.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
+
+Like most online retailers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.  
+Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
+
+Notification of updates ******：**
+
+To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
