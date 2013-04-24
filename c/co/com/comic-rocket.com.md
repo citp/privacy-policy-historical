@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comic-rocket.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115035923id_/https%3A//www.comic-rocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comic-rocket.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424132731id_/https%3A//www.comic-rocket.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Comic Rocket
+# Privacy - Comic Rocket webcomic list
 
 ## Privacy
 
