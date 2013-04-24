@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the caribbeanjobs.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010114307id_/http%3A//www.caribbeanjobs.com/About/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caribbeanjobs.com privacy policy that was archived on 2013-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424075700id_/http%3A//www.caribbeanjobs.com/About/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head id="ctl00_ctl00_head"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" xmlns:og="http://ogp.me/ns#"><head id="ctl00_ctl00_head"><title>
 	Privacy : Caribbean Jobs, Jobs Abroad, International Jobs - caribbeanjobs.com
-</title><link href="../css/style.css" rel="stylesheet" type="text/css"><link href="../css/jquery-ui.css" rel="stylesheet" type="text/css">
+</title><link href="../css/style.css?V1" rel="stylesheet" type="text/css"><link href="../css/jquery-ui.css" rel="stylesheet" type="text/css"><link rel="apple-touch-icon" sizes="57x57" href="../images/mobile/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="72x72" href="../images/mobile/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="114x114" href="../images/mobile/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="144x144" href="../images/mobile/apple-touch-icon-144x144.png">
+
+
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
 <!--
 function MM_openBrWindow(theURL,winName,features) 
@@ -50,10 +52,11 @@ _gaq.push(['_trackPageview']);
 </script>
 <meta name="description" content="The leading jobs website in the Caribbean specialising in Caribbean job opportunities, jobs abroad and international jobs Caribbeanjobs.com."><meta name="keywords" content="caribbean jobs, jobs abroad, international jobs, caribbeanjobs.com"></head>
 <body>
-    <script type="text/javascript" src="/js/jquery/jquery-1.4.4.min.js"></script>
+
+    <script type="text/javascript" src="/js/jquery/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="/js/jquery/json2.min.js"></script>
     <script type="text/javascript" src="/js/jquery/jquery-ui-1.8.7.custom.min.js"></script>
-    <script type="text/javascript" src="/js/jquery/jquery.validate.1.7.min.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery.validate.1.9.min.js"></script>
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <a href="#top" title="Skip to main content"></a>
 
@@ -84,7 +87,7 @@ _gaq.push(['_trackPageview']);
 <!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/832/2451887/0/1/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/832/2451887/0/1/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1580496516668"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/832/2451887/0/1/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/832/2451887/0/1/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="468" height="60"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/832/2451887/0/1/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1580496516536"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/832/2451887/0/1/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/832/2451887/0/1/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="468" height="60"></a></noscript>
 <!-- End of JavaScript Tag --></div><!-- topbanner -->
           
          
@@ -166,7 +169,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
       }
     });
 
-    $(".navLinkLogin").click(function () {
+    $(".navLinkLogin").click(window.AjaxLogin = function () { 
       $.ajax({
         type: "POST",
         url: '/WebService/AjaxWS.asmx/GetCurrentUserInfo',
@@ -201,6 +204,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
       $("#navLoginDialog").dialog("close");
       NavLoginSuccessfulEvent(data.userName);
       if (typeof window.NavPagesLoginSuccessfulEvent == 'function') { NavPagesLoginSuccessfulEvent(); }
+      else { CheckEmailDeactivated(data.userName, $("#txtNavEmail").val()); }
     }
     else {
       $("#divNavLogging").hide();
@@ -218,7 +222,79 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
     $("#spanMCM a").attr("href", '/CareerManager/LandingPage.aspx');
   }
 
+  function CheckEmailDeactivated(userName, email) {
+    $.ajax({
+      type: "POST",
+      url: '/WebService/AjaxWS.asmx/JobseekerEmailInvalid',
+      contentType: 'application/json',
+      dataType: 'json',
+      data: JSON.stringify({ email: email }),
+      success: function (data) {
+        if (data.d) {
+          OpenEmailInvalidDialog(userName, email);
+        }
+      }
+    });
+  }
+
 </script>
+
+
+
+<style type="text/css">
+  label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }
+</style>
+
+<script type="text/javascript">
+
+  function CreateDialog() {
+    $("#divEmailInvalid").dialog({
+      autoOpen: false,
+      title: '&nbsp;&nbsp;Warning',
+      modal: true,
+      draggable: false,
+      resizable: false,
+      closeOnEscape: true,
+      width: 550,
+      buttons: {
+        Close: function () {
+          $(this).dialog("close");
+        }
+      }
+    });
+  }
+
+  function OpenEmailInvalidDialog(userName, email) {
+    CreateDialog();
+    $("#spanFirstName").html(userName);
+    $("#spanEmail").html(email);
+    $("#divEmailInvalid").dialog("open");
+    $("#divEmailInvalid").attr('tabindex', -1).focus(); 
+  }
+
+  function AuthorizeEmail() {
+    $.ajax({
+      type: "POST",
+      url: '/WebService/AjaxWS.asmx/AuthorizeJobseekerEmail',
+      contentType: 'application/json',
+      dataType: 'json',
+      data: "{}"
+    });
+    $("#divEmailInvalid").dialog("close");
+    window.location.href = '/CareerManager/Logout.aspx';
+  }
+
+</script>
+<div id="divEmailInvalid" style="display:none;">
+  <p><b>Welcome back, <span id="spanFirstName"></span></b></p>
+  <span style="color: #f00">Your account has been deactivated as your email address: </span><br>
+  <span id="spanEmail"></span><span style="color: #f00"> is not valid. </span><br>
+  <p>You can reactivate your account by <a href="/CareerManager/ChangeEmail.aspx">Changing</a> your email address or 
+  <a href="#" onclick="AuthorizeEmail();">Authorizing</a> your current email address.</p>
+  <p>For security purposes an email will be sent to your updated/current address. This email will
+  feature a link which will allow you to reactivate your account.</p>
+</div>
+
 
 <script>
   $(function () {
@@ -278,9 +354,10 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
           <ul class="jsddm" style="width:auto; float:left">
             <li><a style="margin-top:14px;color:#007DC1;padding:0 12px;border-left:1px solid white; border-right:1px solid white; border-top:1px solid white">my account</a> 
               <ul style="z-index: 1">
+                <li><a href="/CareerManager/JobSeekerProfile.aspx">My Profile</a></li>
                 <li><a href="/CareerManager/JobAlerts.aspx">Job Alerts</a></li>
                 <li><a href="/CareerManager/ListSavedJobs.aspx">My Jobs</a></li>
-                <li><a href="/CareerManager/CVDetails.aspx">CV Centre</a></li>
+                <li><a href="/CareerManager/CVCentre.aspx">CV Centre</a></li>
                 <li><a href="/CareerManager/CareerZineDetails.aspx">CareerZine</a></li>
                 <li><a href="/CareerManager/PersonalInfo.aspx">Personal Settings</a></li>
                 <li><a href="/CareerManager/Logout.aspx">Log Out</a></li>
@@ -565,6 +642,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <option value="17">Medical Professionals &amp; Healthcare</option>
 <option value="120">Procurement &amp; Supply Chain Management </option>
 <option value="7">Production, Manufacturing &amp; Materials</option>
+<option value="121">Project Management</option>
 <option value="115">Public Sector</option>
 <option value="25">Publishing, Media &amp; Creative Arts</option>
 <option value="10">Retailing, Wholesaling &amp; Purchasing</option>
@@ -678,11 +756,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <script language="javascript">
 <!--
 if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
+  window.adgroupid = Math.round(Math.random() * 1000);
 }
 document.write('<scr'+'ipt language="javascript1.1" src="https://adserver.adtech.de/addyn|3.0|832|3772097|0|168|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="https://adserver.adtech.de/addyn|3.0|832|3772097|0|168|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=107;misc=1580496516683"></script><noscript>
+</script><script language="javascript1.1" src="https://adserver.adtech.de/addyn|3.0|832|3772097|0|168|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=104;misc=1580496516572"></script><noscript>
 <a href="https://adserver.adtech.de/adlink|3.0|832|3772097|0|168|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="https://adserver.adtech.de/adserv|3.0|832|3772097|0|168|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="120" height="600"></a></noscript>
 <!-- End of JavaScript Tag --></div>
    <div class="clear"></div>
@@ -694,8 +772,9 @@ document.write('<scr'+'ipt language="javascript1.1" src="https://adserver.adtech
   <!-- SITEWIDE ALERT -->
 
 <div id="info">
+    <img src="/images/info-new.png" alt="" width="32" height="32" hspace="3" border="0">
     <div id="child">
-       CaribbeanJobs.com’s new Education Platform is here. Find the course you’re looking for. <a href="/Education/">Learn more</a>
+       Get headhunted! Jobseeker Profile Pages have arrived. <a href="/CareerManager/Login.aspx ">Click here</a>
     </div>
 </div>
 
@@ -710,18 +789,33 @@ document.write('<scr'+'ipt language="javascript1.1" src="https://adserver.adtech
   })();
 </script>
 
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup --> <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1060346395;
+var google_conversion_label = "VzRyCO3R2gQQm7TO-QM"; var google_custom_params = window.google_tag_params; var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1060346395/?value=0&amp;label=VzRyCO3R2gQQm7TO-QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript> 
+
 
 
 
       
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all " tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-navLoginDialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-navLoginDialog">&nbsp;&nbsp;Login to your CaribbeanJobs.com Account</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="navLoginDialog" style="" class="ui-dialog-content ui-widget-content">
-    <form id="navLoginForm" method="post">
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-navLoginDialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-navLoginDialog">&nbsp;&nbsp;Login to your CaribbeanJobs.com Account</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="navLoginDialog" style="" class="ui-dialog-content ui-widget-content">
+    <form id="navLoginForm" method="post" novalidate="novalidate">
       <div style="float:left;margin-top:10px;width:300px">
           <strong>Email Address</strong><br>
           <input type="text" name="txtNavEmail" id="txtNavEmail" style="width:250px"><br>
           <strong>Password</strong><br>
           <input type="password" name="txtNavPassword" id="txtNavPassword" style="width:250px"><br><br>
-          <input type="checkbox" name="chkNavKeepSigned" id="chkNavKeepSigned" checked="checked">Keep me signed in<br>(do not tick if using a shared computer)<br>
+          <input type="checkbox" name="chkNavKeepSigned" id="chkNavKeepSigned" checked="checked"><label style="cursor:pointer;" onclick="$('#chkNavKeepSigned').attr('checked','checked');">Keep me signed in<br>(do not tick if using a shared computer)<br></label>
       </div>
       <div id="divNavSubmit" style="float:left;margin: 45px 15px 0 5px;">
         <input type="image" style="width:44px;height:40px" src="/CareerManager/images/next_roll.gif" id="btnNavSubmit">
