@@ -1,57 +1,61 @@
-> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126061238id_/http%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425053136id_/http%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Holistic Health
 
-**What[information3 Helpful Websites for OB/GYN Issues. Read more ... »](http://www.getholistichealth.com/10970/3-helpful-websites-for-obgyn-issues/) do we collect?**
+**Privacy Policy**
 
-We collect information from you when you register on our site.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.  
+When accessing our Website, **Get Holistic Health** will learn certain information about you during your visit.  
+Similar to other commercial Web sites, our Web site utilizes a standard technology called cookies (see explanation below, What Are Cookies?) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+******DoubleClick Cookie**  
+****
 
- **What do we use your information for?**
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
-Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+****You can read more about Google’s Advertising and Cookies here:<http://www.google.com/policies/privacy/ads/>****
 
-; To send periodic emails
+ ** ****What Are Cookies?**
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
- **How do we protect your information?**
+**IP Addresses**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+Your computer uses IP addresses every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
- **Do we use cookies?**
+**Email Information**
 
-We do not use cookies.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
- **Do we disclose any information to outside parties?**
+**How Do We Use the Information That You Provide to Us?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
- **Third party[links3 Helpful Websites for OB/GYN Issues. Read more ... »](http://www.getholistichealth.com/10970/3-helpful-websites-for-obgyn-issues/)**
+**Get Holistic Health** will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.  
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-Occasionally, at our discretion, we may include or offer third party products or [servicesRole of Facebook in Hospital Management. Read more ... »](http://www.getholistichealth.com/8883/role-of-facebook-in-hospital-management/) on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**A Special Note About Children**
 
- **Childrens[OnlineWhy It's Not Creepy to Run a Background Check When Dating Online. Read more ... »](http://www.getholistichealth.com/6390/why-its-not-creepy-to-run-a-background-check-when-dating-online/) Privacy Protection Act Compliance**
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
+**How Do We Protect Your Information and Secure Information Transmissions?**
 
- **Online Privacy Policy Only**
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**Get Holistic Health** may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.  
+For site security purposes and to ensure that this service remains available to all users, **Get Holistic Health** uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
- **Your Consent**
+**Policy Changes**
 
-By using our site, you consent to our **online privacy policy**.
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.  
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
- **Changes to our Privacy Policy**
+**Contact**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+If you have any questions regarding this Policy, or your dealings with our web site, please [contact us](http://www.getholistichealth.com/contact-us-2/).
 
-[http://www.getholistichealth.com](http://www.getholistichealth.com/)
+**Get Holistic Health**
