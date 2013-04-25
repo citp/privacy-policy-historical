@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carling.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031113505id_/http%3A//www.carling.com/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carling.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426011004id_/http%3A//www.carling.com/terms.html%23privacy) for the most accurate reproduction.*
 
 # Carling Lager - Terms and Conditions
 
@@ -149,6 +149,8 @@ Please note, this website may contain links to other websites which are provided
 
 In order to provide you with the services you require, we will collect personal information about you from our website, telephone conversations, emails and written and verbal communications. These will include, for example, your name, address and details that are relevant to the service(s) in which you are interested. 
 
+We will also gather information from Facebook via competitions which you enter. The information we will gather includes: your Facebook ID, your Facebook username and your Facebook email address.
+
 We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations, such as our Commercial Partners.
 
 **Information about other people**
@@ -163,7 +165,7 @@ Our cookies are used to enable us to develop our website to reflect our customer
 
 Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored. Please note, if you do turn cookies off this will limit the service that we are able to provide to you and may affect your visitor experience.
 
-For further information on cookies and how to switch them off see [www.allaboutcookies.org](https://web.archive.org/web/20121031113505id_/http%3A//www.carling.com/www.allaboutcookies.org).
+For further information on cookies and how to switch them off see [www.allaboutcookies.org](https://web.archive.org/web/20130426011004id_/http%3A//www.carling.com/www.allaboutcookies.org).
 
 ### HOW WE WILL USE YOUR INFORMATION
 
@@ -268,5 +270,3 @@ All competitions are operated under the laws of England and Wales. Molson Coors 
 Molson Coors reserves the right to withdraw, alter or suspend any competition for legal or technical reasons without any liability. Molson Coors will notify withdrawal or suspension of a competition by posting notice to that effect on the website as soon as reasonably possible.
 
 [Competition Terms and Conditions](https://web.archive.org/members/termsandconditions.html)
-
-[Kasteel Cru](http://www.kasteelcru.com/) \- [Zatec Czech Premium Beer](http://www.zatec.co.uk/)
