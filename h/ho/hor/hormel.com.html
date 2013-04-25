@@ -1,22 +1,14 @@
-<!--The following is the downloaded HTML source of the hormel.com privacy policy that was archived on 2012-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121019034516id_/http%3A//www.hormel.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hormel.com privacy policy that was archived on 2013-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425084451id_/http%3A//www.hormel.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta property="fb:app_id" content="265853963446710"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1"><title>
 	Hormel.com - PRIVACY POLICY
 </title><link rel="stylesheet" href="/css/normalize.css"><link rel="stylesheet" href="/css/formalize.css"><link rel="stylesheet" href="/css/fonts.css"><link rel="stylesheet" href="/css/jquery.ui.core.css"><link rel="stylesheet" href="/css/jquery.ui.tabs.css"><link rel="stylesheet" href="/css/style.css" class="cssfx"><link rel="stylesheet" href="/css/recipe_rating.css"><link rel="stylesheet" href="/css/recipe_print.css" media="print"><link rel="stylesheet" href="/css/anastyle.css"><link rel="stylesheet" href="/css/about.css"><link rel="stylesheet" href="/css/account.css">
-    <!-- HandSetDetection -->
-<script type="text/javascript">// <![CDATA[
-    var mobile = (/iphone|ipad|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
-    if (mobile) {
-        document.location = "http://m.hormel.com";
-    }
-// ]]></script>
-    <script type="text/javascript" src="http://api.handsetdetection.com/sites/js/6664.js"></script>   
-    <!-- End HandSetDetection -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+	
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 	<script>window.Modernizr || document.write('<script src="/js/libs/modernizr-2.0.6.min.js"><\/script>')</script><script src="/js/libs/modernizr-2.0.6.min.js"></script>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.6.2.min.js"><\/script>')</script><script src="/js/libs/jquery-1.6.2.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script>
@@ -30,18 +22,102 @@
 	<!--[if lte IE 9]>
 		<script defer src="/js/libs/jquery.textshadow.pack.js"></script>
   	<![endif]-->
+
+ <!-- HandSetDetection -->
+<script type="text/javascript">// <![CDATA[
+    var mobile = (/iphone|ipad|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
+
+var url = location.href;
+
+
+
+var detailpage = url.indexOf('recipes/details');
+var couponspage = url.indexOf('updates/coupons');
+var productspage = url.indexOf('/products');
+var locatorpage = url.indexOf('locator.aspx');
+var aboutpage = url.indexOf('about');
+var recipepage = url.indexOf('/recipes/');
+var wwwcontent = url.indexOf('www');
+var trim_url;
+
+if (mobile) {
+    if (wwwcontent != -1) {
+        trim_url = (url.replace("www.", ""));
+    }
+    else {
+        trim_url = url;
+    }
+
+}
+
+var newurl = (trim_url.replace("hormel.com/recipes/details", "m.hormel.com/recipes/detail"));
+var newCouponUrl = (trim_url.replace("hormel.com/updates/coupons", "m.hormel.com/coupons"));
+var newProductsUrl = (trim_url.replace("hormel.com/products/", "m.hormel.com/products/"));
+var newLocatorUrl = (trim_url.replace("hormel.com/locator.aspx", "m.hormel.com/product-locator/"));
+var newAboutUrl = (trim_url.replace("hormel.com/about/default.aspx", "m.hormel.com/about/"));
+var newRecipesUrl = (trim_url.replace("hormel.com/recipes/", "m.hormel.com/recipes/"));
+
+if (mobile) {
+
+        if (detailpage!= -1)
+        {
+        document.location = newurl;       
+        }
+ 
+        else if (couponspage!= -1)
+        {
+        document.location = newCouponUrl;       
+        }
+
+	 else if (productspage!= -1)
+        {
+        document.location = newProductsUrl;       
+        }
+
+	 else if (locatorpage!= -1)
+        {
+        document.location = newLocatorUrl;       
+        }
+
+	 else if (aboutpage!= -1)
+        {
+        document.location = newAboutUrl;       
+        }
+
+	 
+
+	 else if (recipepage!= -1)
+        {
+        document.location = newRecipesUrl;       
+        }
+
+
+
+
+
+        else
+	 {
+         document.location = "http://m.hormel.com";
+        }
+        
+    }
+
+
+    
+// ]]></script>
+    <script type="text/javascript" src="http://api.handsetdetection.com/sites/js/6664.js"></script>   
+    <!-- End HandSetDetection -->
+
+
+
+
   	
 	<script defer="" src="/js/plugins.js"></script>
 	<script defer="" src="/js/script.js"></script>
 <script defer="" src="/js/menujs.js"></script>
 
 
-	<!-- ShareThis -->
-	<script type="text/javascript">var switchTo5x=false;</script>
-	<!-- <script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script> -->
-<script type="text/javascript" src="/js/libs/buttons.js"></script>
-	<script type="text/javascript">stLight.options({publisher:'b3d6671f-e95e-4f10-a279-db6e80e222e4'});</script>
-	<!-- ShareThis -->
+	
 
     
 
@@ -261,16 +337,11 @@ pageTracker._trackPageview();
 
 
     
-
-			
-			</div><!-- end .constrain -->
-			
-		</div><!-- end #page -->
-		
-		<div id="pageShadow"></div>
-	
-		
-		<footer class="main">
+</div><!-- end .constrain -->
+</div><!-- end #page -->
+<div id="pageShadow">
+</div>
+<footer class="main">
 			<div class="constrain clearfix">
 				<nav id="bottom">
 					<ul role="menu">
@@ -288,33 +359,33 @@ pageTracker._trackPageview();
 				</nav>
 				
 				<section class="copyright">©<script type="text/javascript">document.write(new Date().getFullYear());</script>2020 Hormel Foods, LLC.</section>
+				
+				
 			</div><!-- end .constrain -->
 		</footer>
-		
-	</div><!-- div#container -->
-    
-   	<script>
-		/*
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</div><!-- div#container -->
+
+<script>
+    /*
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
 		try {
-			var pageTracker = _gat._getTracker("UA-1628826-24");
-			pageTracker._trackPageview();
-		} catch(err) {}
-		*/
+    var pageTracker = _gat._getTracker("UA-1628826-24");
+    pageTracker._trackPageview();
+    } catch(err) {}
+    */
 	</script>
 
-	
-	<!--[if lt IE 7 ]>
+<!--[if lt IE 7 ]>
 	  <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
 	  <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
 	<![endif]-->
 
-
     
 
 </form>
+
 
 
 
