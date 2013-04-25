@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214000558id_/http%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425080828id_/http%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuckbook
 
