@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006170015id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425234623id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
 
 # Prepaid Phone Cards & International Calling Cards NobelCom
 
@@ -9,6 +9,8 @@ Thank you for visiting NobelCom.com, a Nobel Ltd. website. NobelCom.com is commi
 **What information does NobelCom.com receive and how do we use it?**
 
 When you register as a NobelCom customer and start purchasing our calling cards, we ask you for your name, contact information (telephone number, email), preferences, and certain demographic information. This information lets us provide personalized services for you in order to improve our level of service and to better meet your need for international phone services. 
+
+Also, to be able to find us as easy as possible on Google searches and also to place our ads on different websites across the internet, we implemented and use Display Advertising and one of its features named Remarketing, You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google's Ads Preferences Manager. 
 
 Like most websites, we use small bits of data called cookies, stored on users' computers to simulate a continuous connection. Cookies let us "remember" information about your preferences and passwords and allow you to move within our website without reintroducing yourself. Recent versions of browsers let you easily see and control cookies. 
 
@@ -30,7 +32,7 @@ We store all user information in secure databases protected by a variety of acce
 
 **Who has access to my information?**
 
-We do not share personally identifiable data with other companies, except as necessary to fulfill a transaction you have requested (i.e. your credit card company). NobelCom.com may be required by law to share such information in response to legal process, such as a court order or subpoena.
+We do not share personally identifiable data with other companies, except as necessary to fulfill a transaction you have requested (i.e. your credit card company). or to more effectively provide you with information. We will always ensure that any information we share is protected by those with whom we share it. NobelCom.com may be required by law to share such information in response to legal process, such as a court order or subpoena.
 
 **What about children's information?**
 
