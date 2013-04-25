@@ -1,32 +1,49 @@
-> *The following text is extracted and transformed from the thefunzun.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208090658id_/http%3A//www.thefunzun.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunzun.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425082409id_/http%3A//www.thefunzun.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Love quotes,funny joke pictures & famous quotes
 
-### **Your privacy**
+###  **Your privacy**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+We take your privacy very seriously.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+##  Introduction
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url: http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+thefunzun.com takes the private nature of your personal information very seriously.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, thefunzun.com has no access or control over these cookies that may be used by third party advertisers.
+This privacy policy describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully.
 
-**Collection of Personal Information**  
-When visiting thefunzun.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+##  Website Visitors
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+Like most website operators, thefunzun.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. thefunzun's purpose in collecting non-personally identifying information is to better understand how thefunzun’s visitors use its website. From time to time, thefunzun.com may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.
 
-**Facebook:**
+thefunzun.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. thefunzun.com does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-As a registered Facebook user, you are also subject to Facebook’s privacy policy. Please check your Facebook account privacy settings for further information. When you first access the App, you will be presented with a Facebook permissions page, which will advise you about the Facebook information you will be sharing with the App and other Facebook users. You can then decide whether or not to share your Facebook information by using the App. If you decide not to grant permission you will not be able to use the App. By granting permission you will be agreeing to share your Facebook user details (including your name, profile picture, gender, networks, user ID and any other information you choose to share according to your Facebook account settings) as well as the user details of your Facebook friends, and information about your use of the App, for example, the articles you are reading. If you choose to post content or other data on the App, for example, by commenting on an article, this can be accessed by all of your Facebook friends. If you decide not to share information with your Facebook friends about a particular article you have accessed you can make your reading private using the “remove from timeline” facility at the top of the article page. To unsubscribe go to our Facebook page and at the top of the article page and select “Remove this application”. Alternatively, remove the App by accessing the application settings in your Facebook account settings. Once you remove the App we no longer have permission to access your Facebook information and your data will be removed from the App.
+##  Aggregated Statistics
 
-“This blog is in no way sponsored, endorsed or administered by, or associated with, Facebook”
+thefunzun.com may collect statistics about the behavior of visitors to its websites. For instance, thefunzun.com may monitor the most popular collections on thefunzun.com. thefunzun.com may display this information publicly or provide it to others. However, thefunzun.com does not disclose personally-identifying information other than as described below.
 
-###  **Changes to this Privacy statement**
+##  Protection of Certain Personally-Identifying Information
 
-The contents of this statement may be altered at any time, at our discretion.
+thefunzun.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on thefunzun's behalf or to provide services available at thefunzun's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using thefunzun.com  websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if thefunzun.com or substantially all of its assets were acquired, or in the unlikely event that thefunzun.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of thefunzun.com may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, thefunzun.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
 
-If you have any questions regarding the privacy policy of Funny Pictures Blog, then you may contact us **[here](mailto:mbari333@gmail.com)**
+Other than to its employees, contractors and affiliated organizations, as described above, thefunzun.com discloses potentially personally-identifying and  personally-identifying information only when required to do so by law, or when thefunzun.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of thefunzun.com, third parties or the public at large. If you are a registered user of a thefunzun.com website and have supplied your email address, thefunzun.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with thefunzun.com and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. thefunzun.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+##  Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. thefunzun.com uses cookies to help thefunzun.com identify and track visitors, their usage of thefunzun.com websites, and their website access preferences. thefunzun.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using thefunzun.com websites, with the drawback that certain features of thefunzun's websites may not function properly without the aid of cookies.
+
+##  Ads
+
+Ads appearing on thefunzun.com websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by thefunzun.com and does not cover the use of cookies by any advertisers.
+
+##  Links to Third Party Sites
+
+This privacy policy only applies to information collected by thefunzun.com.  This privacy policy does not apply to the practices of companies that thefunzun.com does not own or control, or employees that thefunzun.com does not manage. A thefunzun.com website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and thefunzun.com and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+
+##  Privacy Policy Changes
+
+Although most changes are likely to be minor, thefunzun.com may change its privacy policy from time to time, and in thefunzun.com sole discretion. thefunzun.com encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
+
+##  Contact Us
+
+If you have any questions about this privacy policy or our sites in general, please [contact us](http://www.thefunzun.com/2013/03/contact-us.html).
