@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adamlive.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014142435id_/http%3A//www.adam4adamlive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adamlive.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425035454id_/http%3A//www.adam4adamlive.com/privacy.php) for the most accurate reproduction.*
 
 # Adam4AdamLive.com
 
@@ -77,17 +77,11 @@ If you choose to visit Adam4AdamLive.com, your visit and any dispute over privac
 
 If you do not wish to receive emails about our service please use one of the following means to remove yourself. We certainly do not wish to market to anyone who doesn't want it!
 
-Toll Free:
-
-1-800-685-9236 (USA only)
-
-Int'l Phone:
-
-1-818-880-9021
-
-Regular Mail:
-
-VS Media Inc.  
+Toll Free: | 1-800-685-9236 (USA only)  
+---|---  
+Int'l Phone: | 1-818-880-9021  
+Email: | [customerservice@vs.com](mailto:%20customerservice@vs.com)  
+Regular Mail: |  VS Media Inc.  
 26500 W. Agoura Rd.  
 Suite 102-734  
-Calabasas, CA 91302
+Calabasas, CA 91302 
