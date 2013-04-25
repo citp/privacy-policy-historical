@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the onapp.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016182228id_/http%3A//onapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onapp.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425112859id_/http%3A//onapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | OnApp
 
 ##  Information about our organization and web site
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like OnApp. Our principal activity is commercial software development, sales, service, and support. Our privacy policy covers OnApp and its web site (the “Site”), www.onapp.com.
+Modern information and communication technologies play a fundamental role in the activities of an organization like OnApp. Our principal activity is commercial software development, sales, service, and support. Our privacy policy covers OnApp and its web site (the “Site”), [http://www.onapp.com](http://www.onapp.com/)
+
+. 
 
 ###  Providing visitors with anonymous access
 
