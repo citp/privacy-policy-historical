@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508072000id_/http%3A//www.vince.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425040311id_/http%3A//www.vince.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vince
 
