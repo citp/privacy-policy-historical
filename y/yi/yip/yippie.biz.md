@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126071250id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425133308id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
 
 # Privacy Policy - YiPpIe!
 
@@ -12,6 +12,8 @@
 [Submit Listing](http://submit.yippie.biz/) | [Reverse Lookup](http://reverse.yippie.biz/) | [HTTP Referers](http://referers.yippie.biz/) | [Privacy Policy](http://privacy.yippie.biz/)
 
 [A](http://a.yippie.biz/) **·** [B](http://b.yippie.biz/) **·** [C](http://c.yippie.biz/) **·** [D](http://d.yippie.biz/) **·** [E](http://e.yippie.biz/) **·** [F](http://f.yippie.biz/) **·** [G](http://g.yippie.biz/) **·** [H](http://h.yippie.biz/) **·** [I](http://i.yippie.biz/) **·** [J](http://j.yippie.biz/) **·** [K](http://k.yippie.biz/) **·** [L](http://l.yippie.biz/) **·** [M](http://m.yippie.biz/) **·** [N](http://n.yippie.biz/) **·** [O](http://o.yippie.biz/) **·** [P](http://p.yippie.biz/) **·** [Q](http://q.yippie.biz/) **·** [R](http://r.yippie.biz/) **·** [S](http://s.yippie.biz/) **·** [T](http://t.yippie.biz/) **·** [U](http://u.yippie.biz/) **·** [V](http://v.yippie.biz/) **·** [W](http://w.yippie.biz/) **·** [X](http://x.yippie.biz/) **·** [Y](http://y.yippie.biz/) **·** [Z](http://z.yippie.biz/)
+
+* * *
 
 * * *
 
