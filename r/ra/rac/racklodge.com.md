@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028183432id_/http%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425113513id_/https%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Rack Lodge Data Center Costa Rica | Rack Lodge Data Center Costa Rica
 
@@ -7,7 +7,7 @@
 
 
 
-[MORE NEWS](http://www.racklodge.com/?cat=1)
+[MORE NEWS](https://www.racklodge.com/?cat=1)
 
 **Get in touch**
 
@@ -23,16 +23,16 @@ Rack Lodge takes privacy and data protection issues seriously. Rack Lodge’s Pr
 
 ## Information Collected
 
-**RACK LODGE** collects information from its customers when signing a Service Contract. We only obtain information via our website when an individual or company requests a price quotation or has questions about **RACK LODGE** and its services. At that time, we will ask for contact information such as person’s name, phone number or e-mail address.
+**RACK LODGE** collects information from its customers when signing an agreement. We only obtain information via our website when an individual or company requests a price quotation or has questions about **RACK LODGE** and its services. At that time, we will ask for contact information such as person’s name, phone number or e-mail address.
 
 ## Information Disclosure
 
-Protecting customer information is an important part of our business. We may release customer information when we believe release is appropriate to comply with the law or to verify information with other companies for fraud protection and risk reduction.
+Protecting customer information is an important part of our business.
 
 ## Information Security
 
-Information security is critical to our business. We work to protect the security of a customer’s information through the use of security and encryption software. Any information that is gathered is stored on servers located in a secure data center. The number of authorized people with access to these servers is limited. Firewalls and other security technology are used to prevent system servers and computers from being accessed by unauthorized persons. It is the customer’s responsibility to protect against misuse of the customer’s Login Name and Password.
+Information security is critical to our business. We work to protect the security of a customer’s information through the use of security and encryption software. Any information that is gathered is stored on servers located in a secure data center. The number of authorized people with access to these servers is limited. Firewalls, SSL certificates (256 bits or higher) and other security technology are used to prevent system servers and computers from being accessed by unauthorized persons. It is the customer’s responsibility to protect against misuse of the customer’s Login Name and Password.
 
 ## System Access
 
-**RACK LODGE** gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings.
+**RACK LODGE** gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings. All contents and materials are exclusive responsibility of the client, as well as the activities that they are dedicated to. Rack Lodge will not be held responsible for the content and materials hosted by the client.
