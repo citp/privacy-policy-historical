@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the hobbs.co.uk privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014120057id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hobbs.co.uk privacy policy that was archived on 2013-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425084822id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
 
-	
-
-		<link rel="stylesheet" href="/assets/css/hobbs.css?v=1.0.0">
-		<!--[if IE 8]><link rel="stylesheet" href="/assets/css/hobbs-ie8.css?v=1.0.0" /><![endif]-->
-		<!--[if lte IE 7]><link rel="stylesheet" href="/assets/css/hobbs-ie7.css?v=1.0.0" /><![endif]-->
+		<link rel="canonical" href="http://www.hobbs.co.uk/information/privacy"> 
+		<link rel="stylesheet" href="/assets/css/hobbs.css?v=2013-01-15">
+		<!--[if IE 8]><link rel="stylesheet" href="/assets/css/hobbs-ie8.css?v=2013-01-15" /><![endif]-->
+		<!--[if lte IE 7]><link rel="stylesheet" href="/assets/css/hobbs-ie7.css?v=2013-01-15" /><![endif]-->
 
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 			var LavaSuite = {
@@ -18,6 +17,9 @@
 				refPage: false
 			};
 		</script>
+
+		<!-- QuBit -->
+		<script src="//d3c3cq33003psk.cloudfront.net/opentag-62664-328830.js" async="" defer=""></script>
 
 	
 
@@ -30,26 +32,35 @@
 			
 				<meta name="description" content="Discover Hobbs' Privacy Policy. Contemporary British women's clothing, accessories and footwear.">
 			
-				<script type="text/javascript">
-				// <![CDATA[
-				  var _gaq = _gaq || [];
-				  _gaq.push(['_setAccount', 'UA-19082304-1']);
-				  _gaq.push(['_trackPageview']);
-				  try{
-					  if(funnelTrackingPath){
-						 _gaq.push(['_trackPageview', funnelTrackingPath ]);
-					  }
-				  }
-				  catch(err){}
+			<script type="text/javascript">
+			// <![CDATA[
 
-				  (function() {
-				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				  })();
-				// ]]>
-				</script>
-			</head>
+			
+			  var _gaCurrency="AUD";
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-19082304-1']);
+			
+
+			  _gaq.push(['_trackPageview']);
+			  _gaq.push(['_setVar', typeof _gaCurrency != 'undefined' && _gaCurrency ? _gaCurrency :
+										( $('#currency .selected a').length ? $('#currency .selected a').attr('href').replace(/^.*=([A-Z]+)$/, '$1') : 'GBP' )
+					]);
+
+			  try{
+				  if(funnelTrackingPath){
+					 _gaq.push(['_trackPageview', funnelTrackingPath ]);
+				  }
+			  }
+			  catch(err){}
+
+			  (function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			// ]]>
+			</script>
+		</head>
 <body>
 
 	<div class="hidden">
@@ -57,7 +68,8 @@
 		<a href="#site-navigation">Skip to navigation</a>
 	</div>
 
-	
+	<div id="wrap">
+		
 
 
 <header role="banner">
@@ -73,7 +85,7 @@
 			</form>
 
 			
-			  	
+			
 				<div id="site-quicklinks">
 					<ul class="nav" role="complementary">
 						<li>Welcome to Hobbs.</li>
@@ -84,16 +96,41 @@
 					</ul>
 				</div>
             
-				<div id="site-basket" class=" ">
-					<div class="basket-overview">
+				<div id="site-basket" class=" " data-mini-bag-error="Sorry but an unexpected error has occurred. The item may not have been removed from the basket">
+					<div class="dropdown-basket">
 
-						<a class="basket-summary" href="/shopping-bag" rel="nofollow">Bag £0.00 <span>(0)</span></a>
+						<a class="dropdown-summary" href="/shopping-bag" rel="nofollow">Bag $<span class="mini-bag-total-price">0.00</span> (<span id="mini-bag-total">0</span>)</a>
 
 						
 
 					</div>
 				</div>
-            
+				
+
+	            <!-- currency selector -->
+ 				
+					<div id="currency-selector" class="dropdown">
+						<div class="dropdown-currency">
+							<div class="selected-currency">
+								<span class="dropdown-summary">$ Australian Dollar AUD</span>
+							</div>
+							<div class="dropdown-container">
+								<h6 class="currency-title">Change your currency</h6>
+								<ul class="base">
+									
+										<li><a href="/information/privacy?&amp;newCurrency=GBP" rel="nofollow">£ British Pound GBP</a></li>
+		                            
+										<li><a href="/information/privacy?&amp;newCurrency=USD" rel="nofollow">$ US Dollar USD</a></li>
+		                            
+										<li><a href="/information/privacy?&amp;newCurrency=AUD" rel="nofollow">$ Australian Dollar AUD</a></li>
+		                            
+								</ul>
+							</div>
+						</div>
+					</div>
+				
+
+
 
 			
 			<a href="/Home">
@@ -107,10 +144,9 @@
 					<ul class="nav main-menu">
 						
 							
-								<li class="dropdown dropdown-left">
+								<li class="dropdown dropdown-left default">
 									<a href="/new%2Din" class="top-level">New in</a>
-									
-	<div class="submenu">
+										<div class="submenu">
 		
 			
 			<ul class="submenu-column">
@@ -131,19 +167,22 @@
 						<a href="/new%2Din/exclusives">Exclusively Online</a>
 					</li>
 				
+					<li>
+						<a href="/spring">New Season Edit</a>
+					</li>
+				
 			</ul>
 		
 
 		<a href="/new%2Din" class="submenu-promo">
-			<img src="/images/header/0212-globalnav-new-in.jpg" alt="New in to Hobbs" width="150" height="240" class="submenu-promo">
+			<img src="/images/header/0113-Hobbs-new-in-drop-down.jpg" alt="New in to Hobbs" width="150" height="240" class="submenu-promo">
 		</a>
 	</div>
 								</li>
-							
-								<li class="dropdown dropdown-left">
+								
+								<li class="dropdown dropdown-left default">
 									<a href="/shop" class="top-level">Clothing</a>
-									
-	<div class="submenu">
+										<div class="submenu">
 		
 			
 			<ul class="submenu-column">
@@ -178,26 +217,29 @@
 			<ul class="submenu-column">
 				
 					<li>
-						<a href="/business%2Dsuits">Workwear Shop</a>
+						<a href="/workwear%2Dboutique">Workwear Shop</a>
 					</li>
 				
 					<li>
 						<a href="/occasionwear">Occasionwear Shop</a>
 					</li>
 				
+					<li>
+						<a href="/spring">New Season Edit</a>
+					</li>
+				
 			</ul>
 		
 
 		<a href="/shop" class="submenu-promo">
-			<img src="/images/header/0212-globalnav-clothing.jpg" alt="Hobbs clothing" width="150" height="240" class="submenu-promo">
+			<img src="/images/header/0113-hobbs-clothing-nav.jpg" alt="Hobbs women's clothing" width="150" height="240" class="submenu-promo">
 		</a>
 	</div>
 								</li>
-							
-								<li class="dropdown dropdown-left">
+								
+								<li class="dropdown dropdown-left default">
 									<a href="/shoes%2Dboots" class="top-level">Shoes</a>
-									
-	<div class="submenu">
+										<div class="submenu">
 		
 			
 			<ul class="submenu-column">
@@ -210,19 +252,22 @@
 						<a href="/shoes%2Dboots/boots">Boots</a>
 					</li>
 				
+					<li>
+						<a href="/accessories/socks%2Dtights">Socks and Tights</a>
+					</li>
+				
 			</ul>
 		
 
-		<a href="/shoes%2Dboots" class="submenu-promo">
-			<img src="/images/header/0212-globalnav-shoes.jpg" width="150" height="240" class="submenu-promo">
+		<a href="/shoes" class="submenu-promo">
+			<img src="/images/header/0113-hobbs-shoes-nav.jpg" alt="Hobbs shoes" width="150" height="240" class="submenu-promo">
 		</a>
 	</div>
 								</li>
-							
-								<li class="dropdown dropdown-right">
+								
+								<li class="dropdown dropdown-right default">
 									<a href="/accessories" class="top-level">Accessories</a>
-									
-	<div class="submenu">
+										<div class="submenu">
 		
 			
 			<ul class="submenu-column">
@@ -261,22 +306,49 @@
 					</li>
 				
 					<li>
-						<a href="/shop/giftshop/all%2Dgifts">Gift Shop</a>
+						<a href="/shop/giftshop">Gift Shop</a>
 					</li>
 				
 			</ul>
 		
 
 		<a href="/accessories" class="submenu-promo">
-			<img src="/images/header/0212-globalnav-accessories.jpg" alt="Hobbs Accessories" width="150" height="240" class="submenu-promo">
+			<img src="/images/header/0113-hobbs-accessories-nav.jpg" alt="Hobbs Accessories" width="150" height="240" class="submenu-promo">
 		</a>
 	</div>
 								</li>
-							
-								<li class="dropdown dropdown-right">
+								
+								<li class="dropdown dropdown-left default">
+									<a href="/Home" class="top-level">Boutiques</a>
+										<div class="submenu">
+		
+			
+			<ul class="submenu-column">
+				
+					<li>
+						<a href="/workwear%2Dboutique">Workwear Boutique</a>
+					</li>
+				
+					<li>
+						<a href="/occasionwear">Occasionwear Boutique</a>
+					</li>
+				
+					<li>
+						<a href="/spring">New Season Edit</a>
+					</li>
+				
+			</ul>
+		
+
+		
+			
+		
+	</div>
+								</li>
+								
+								<li class="dropdown dropdown-right default">
 									<a href="/brands" class="top-level">Collections</a>
-									
-	<div class="submenu">
+										<div class="submenu">
 		
 			
 			<ul class="submenu-column">
@@ -293,114 +365,51 @@
 						<a href="/nw3">NW3 by Hobbs</a>
 					</li>
 				
+					<li>
+						<a href="/spring">New Season Edit</a>
+					</li>
+				
 			</ul>
 		
 
 		<a href="/brands" class="submenu-promo">
-			<img src="/images/header/0212-globalnav-collections1.jpg" alt="Hobbs collections" width="150" height="240" class="submenu-promo">
+			<img src="/images/header/0113-hobbs-collections-nav.jpg" alt="Hobbs collections" width="150" height="240" class="submenu-promo">
 		</a>
 	</div>
 								</li>
-							
-								<li class="dropdown dropdown-right">
-									<a href="/outlet" class="top-level">Outlet</a>
-									
-	<div class="submenu">
-		
-			
-			<ul class="submenu-column">
-				
-					<li>
-						<a href="/outlet/highlights">Outlet Highlights</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/dresses">Dresses</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/coats%2Djackets">Coats &amp; Jackets</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/tops">Tops</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/knitwear">Knitwear</a>
-					</li>
-				
-			</ul>
-		
-			
-			<ul class="submenu-column">
-				
-					<li>
-						<a href="/outlet/skirts">Skirts</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/trousers">Trousers</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/shoes%2Dboots">Shoes &amp; Boots</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/accessories">Accessories</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/bags">Bags</a>
-					</li>
-				
-					<li>
-						<a href="/outlet/accessories/jewellery">Jewellery</a>
-					</li>
-				
-			</ul>
-		
-
-		<a href="/outlet" class="submenu-promo">
-			<img src="/images/header/0212-globalnav-outlet.jpg" width="150" height="240" class="submenu-promo">
-		</a>
-	</div>
-								</li>
-							
-								<li class="dropdown dropdown-right">
-									<a href="/news%2Dand%2Dstyle" class="top-level">Lookbook</a>
-									
-	<div class="submenu">
-		
-			
-			<ul class="submenu-column">
-				
-					<li>
-						<a href="/news%2Dand%2Dstyle">News and Style</a>
-					</li>
-				
-					<li>
-						<a href="/bigger%2Dbetter">New Look Website</a>
-					</li>
-				
-					<li>
-						<a href="/information/in%2Dthe%2Dpress">In The Press</a>
-					</li>
-				
-			</ul>
-		
-
-		<a href="/news%2Dand%2Dstyle" class="submenu-promo">
-			<img src="/images/header/0212-globalnav-lookbook.jpg" width="150" height="240" class="submenu-promo">
-		</a>
-	</div>
-								</li>
-							
-								<li class="attention">
+								
+								<li class="dropdown dropdown-right attention">
 									<a href="/promotions/sale%2Dhighlights" class="top-level">Sale</a>
+										<div class="submenu">
+		
+			
+			<ul class="submenu-column">
+				
+					<li>
+						<a href="/promotions/sale%2Dhighlights">All Sale</a>
+					</li>
+				
+					<li>
+						<a href="/promotions/sale%2Dhighlights/50%2Dand%2Dunder">£50 and Under</a>
+					</li>
+				
+					<li>
+						<a href="/promotions/sale%2Dhighlights/100%2Dand%2Dunder">£100 and Under</a>
+					</li>
+				
+					<li>
+						<a href="/promotions/sale%2Dhighlights/150%2Dand%2Dunder">£150 and Under</a>
+					</li>
+				
+			</ul>
+		
+
+		
+			
+		
+	</div>
 								</li>
-							
+								
 						
 					</ul>
 
@@ -415,42 +424,48 @@
 
 
 
+
+
+
+
+
+
 <div id="promotion-bar">
-	<ul class="nav">
+
 		
-			
-				<li style="padding:0 20px;">
-					<a href="/information/about%2Ddelivery" class="key-messages">UK &amp; International Delivery</a>
-				</li>
-			
-				<li style="padding:0 20px;">
-					<a href="/information/vip" class="key-messages">Sign up to our weekly emails</a>
-				</li>
-			
+
+			<ul class="nav blocks">
+				
+						<li style="background:rgba(164,36,45,0.5); color:#ffffff;">
+							<a href="/shop&amp;wt.svl=508414" class="key-messages" style="color:#ffffff;">Enjoy 20% off - two days only!</a>
+						</li>
+					
+			</ul>
+
 		
-	</ul>
+
 </div>
 
 
-	
-	<div id="site-content" class="container">
-
 		
-
-<ol class="nav breadcrumb">
-	<li class="home"><a href="/home">Home</a></li><li><a href="/information">Information</a></li><li class="last selected">Privacy Policy</li> 
-</ol>
+		<div id="site-content" class="container">
 
 			
-			<div class="main" role="main">
 
-				<div class="nested-container">
-					
+<ol class="nav breadcrumb">
+	<li class="home"><a href="/home">Home</a></li><li class="last selected">Privacy Policy</li> 
+</ol>
+
+				
+				<div class="main" role="main">
+
+					<div class="nested-container">
+						
 
 	<div class="media">
 
 		<div class="img-ext">
-			<img src="/images/content/information/privacy_policy.jpg" alt="Hobbs' Privacy Policy" width="210">
+			<img src="/images/content/information/0113-info-privacy-policy.jpg" alt="Hobbs' Privacy Policy" width="210">
 		</div>
 
 		<div class="bd">
@@ -702,14 +717,14 @@ line-height:150%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#333
 
 	</div>
 
+					</div>
+
 				</div>
-
-			</div>
-			
-
-			
-			<div class="sidebar" role="complementary">
 				
+
+				
+				<div class="sidebar" role="complementary">
+					
 
 	<div class="side-navigation" role="navigation">
 
@@ -736,7 +751,7 @@ line-height:150%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#333
 				
 
 					
-					<li><a href="/reviews" class="heading">Customer Reviews</a></li>
+					<li><a href="/reviews%2Dguidelines" class="heading">Review Guidelines</a></li>
 
 				
 
@@ -790,14 +805,13 @@ line-height:150%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#333
 		</ul>
 
 	</div> 
+				</div>
+				
 
-			</div>
-			
+		</div>
+		
 
-	</div>
-	
-
-	
+		
 <footer role="contentinfo">
 	<div id="site-footer">
 
@@ -848,6 +862,8 @@ line-height:150%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#333
 							
 								<li><a href="/careers">Careers</a></li>
 							
+								<li><a href="/events">Events</a></li>
+							
 						 </ul>
 					</div>
 				
@@ -871,20 +887,20 @@ line-height:150%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#333
 					<ul class="nav social-icons">
 						
 							<li>
-								<a href="http://pinterest.com/hobbsvip/">
-									<img src="/images/structural/footer/pinterest.png" alt="HobbsVIP pinterest" width="24" height="24">
+								<a href="http://www.facebook.com/HobbsVIP" target="Facebook">
+									<img src="/images/structural/footer/facebook13.png" alt="HobbsVIP Facebook" width="24" height="24">
 								</a>
 							</li>
 						
 							<li>
-								<a href="http://www.facebook.com/HobbsVIP">
-									<img src="/images/structural/footer/facebook.png" alt="HobbsVIP Facebook" width="24" height="24">
+								<a href="https://twitter.com/hobbsvip" target="Twitter">
+									<img src="/images/structural/footer/twitter13.png" alt="HobbsVIP Twitter" width="24" height="24">
 								</a>
 							</li>
 						
 							<li>
-								<a href="https://twitter.com/hobbsvip">
-									<img src="/images/structural/footer/twitter-2.png" alt="HobbsVIP Twitter" width="24" height="24">
+								<a href="http://pinterest.com/hobbsvip/" target="Pinterest">
+									<img src="/images/structural/footer/pin.png" alt="HobbsVIP pinterest" width="24" height="24">
 								</a>
 							</li>
 						
@@ -896,12 +912,14 @@ line-height:150%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#333
 	</div>
 </footer>
 
+	</div>
+	
 
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-		<script>window.jQuery || document.write('<script src="/assets/js/lib/jquery-1.8.2.min.js"><\/script>')</script><script src="/assets/js/lib/jquery-1.8.2.min.js"></script>
-		<script>_JSViews = "";</script>
-		<script src="/assets/js/combined.js?v=1.0.0"></script>
-
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="/assets/js/lib/jquery-1.8.3.min.js"><\/script>')</script><script src="/assets/js/lib/jquery-1.8.3.min.js"></script>
+		<script>_JSViews = "mini-bag";</script>
+		<script src="/assets/js/combined.js?v=2013-01-15"></script>
+		<!--[if lte IE 7]><script src="/assets/js/ie.js"></script><![endif]-->
 
 	
 
