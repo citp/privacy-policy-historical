@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102004018id_/https%3A//www.edsurge.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425130624id_/https%3A//www.edsurge.com/privacy_policy) for the most accurate reproduction.*
 
 # EdSurge Privacy Policy
 
@@ -85,7 +85,7 @@ Your use of EdSurge's website and services on other websites, and any disputes a
 
 If you have any questions about this Privacy Policy, please email us at privacy@edsurge.com. You may also contact us by mail at: 
 
-228 Lorton Ave Ste 6  
+1801 Murchison Dr Ste 220  
 Burlingame, CA 94010  
 Attention: Privacy Officer 
 
