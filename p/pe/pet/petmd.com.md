@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the petmd.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820045000id_/http%3A//www.petmd.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petmd.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425075333id_/http%3A//www.petmd.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # PETMD PRIVACY POLICY | petMD
 
+[Print](https://web.archive.org/print/11426 "Display a printer-friendly version of this page.")
+
 Last Modified: __ _     __7/22/11_ _______
 
-Welcome to the petMD website (the “Site”).  Your privacy is important to us and this policy describes what information we collect, how we use it and how it is secured. 
+Welcome to the petMD website (the “Site”).  Your privacy is important to us and this policy describes what information we collect, how we use it and how it is secured.
 
 You have the choice of: (i) just browsing the Site, or (ii) buying products or submitting questions to Ask petMD (the “Services”).  If you ask us to perform any of the Services you will be transmitting information to us that will identify you personally (“Personal Information”).  Accordingly, we are committed to the following:
 
@@ -15,6 +17,8 @@ When you transmit information from your personal computer to our servers, your i
 We also log in your IP address.  An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the web. We collect IP addresses for purposes of system administration and to track the use of the Site. When visitors request pages from the Site, our servers log the visitors’ IP addresses. It is not our practice to link IP addresses to anything personally identifiable, which means that a visitor’s session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor only when we feel it is necessary to enforce compliance with the Site’s policies or to protect our service or customers, the Site, or others.
 
 To create a better experience for you we may also use cookies. Cookies are pieces of information that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you’re at the Site. We never save credit card information in cookies. The use of cookies is an industry standard -- you’ll find them at most websites. By showing how and when visitors use the Site, cookies help us see which areas are popular and which are not. Information such as the total number of visitors and pages viewed is most easily tracked with cookies. We may use the information from cookies to make improvements and updates to the Site and to tailor our services to our visitors’ needs.  You always have the option of disabling cookies using your browser preferences. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies.
+
+We use third-party advertising companies to serve ads when you visit petMD. The third-party advertising technology that we use on petMD uses information derived from your visits to petMD to target advertising within petMD. In addition, our advertisers may use other third-party advertising technology to target advertising on petMD or other websites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed in your browser. In addition, petMD may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable petMD to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our Web site. To "opt-out," please [click here](http://www.networkadvertising.org/choices).
 
 ## The Ask petMD Service
 
