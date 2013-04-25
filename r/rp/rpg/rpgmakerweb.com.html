@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rpgmakerweb.com privacy policy that was archived on 2012-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121125150521id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rpgmakerweb.com privacy policy that was archived on 2013-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425232354id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/51877265.js"></script>
@@ -9,22 +9,24 @@
     <title>Create Your Own Game | Privacy Policy</title>
     <meta name="description" content="RPG Game Maker Press Inquiries - Fill out the contact form to receive answers to your RPG game creator press related inquiries.">
     <meta name="keywords" content="RPG Maker, Make Your Own Game, Create Your Own Game, RPG Maker VX, RPG Maker VX Ace">
+    <meta name="robots" content="">
+    <link rel="canonical" href="">
     <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Orienta" rel="stylesheet" type="text/css">
     
     <!--Favicon-->
-    <link rel="shortcut icon" href="http://rpgmaker.assets.s3-ap-northeast-1.amazonaws.com/files/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="//s3-ap-northeast-1.amazonaws.com/rpgmaker.assets/files/favicon.ico" type="image/x-icon">
     
     <link href="/cms-css/11/base.css" media="all" rel="stylesheet" type="text/css">
 <link href="/cms-css/11/inner.css" media="all" rel="stylesheet" type="text/css">
 
-    <link href="http://rpgmaker.assets.s3-ap-northeast-1.amazonaws.com/files/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css">
-    <link href="/assets/application-b9184afd9679802baa87b2b1b9eea2ea.css" media="screen" rel="stylesheet" type="text/css">
-    <script src="/assets/application-4983c9314297371076844d6f13b6569c.js" type="text/javascript"></script>
-    <script src="/assets/special/degica-ui-5e555e53ca17f51911d8f8767275fb5f.js" type="text/javascript"></script>
-    <link href="/assets/special/degica-ui-62d65d960e59bdf3d75105777ea1b273.css" media="screen" rel="stylesheet" type="text/css">
-    <script src="http://rpgmaker.assets.s3-ap-northeast-1.amazonaws.com/files/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
-    <script src="http://rpgmaker.assets.s3-ap-northeast-1.amazonaws.com/files/jquery.simpleloopslider.js" type="text/javascript"></script>
+    <link href="//s3-ap-northeast-1.amazonaws.com/rpgmaker.assets/files/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css">
+    <link href="/assets/application-0a77a37fd85e11b8dbcb10f2be6d48b8.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="/assets/application-13c86fcf7cd575dd4e48cbacc8335aff.js" type="text/javascript"></script>
+    <script src="/assets/special/degica-ui-7ae1ad382fc340f6ebed7ce97475473d.js" type="text/javascript"></script>
+    <link href="/assets/special/degica-ui-00710c9dc87110f2847a024cce7d6ca1.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="//s3-ap-northeast-1.amazonaws.com/rpgmaker.assets/files/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+    <script src="//s3-ap-northeast-1.amazonaws.com/rpgmaker.assets/files/jquery.simpleloopslider.js" type="text/javascript"></script>
     <link href="http://rpgmaker.assets.s3-ap-northeast-1.amazonaws.com/files/jquery.tweet.css" rel="stylesheet" type="text/css">
   
   <link href="http://rpgmaker.assets.s3-ap-northeast-1.amazonaws.com/files/hellobar.css" rel="stylesheet" type="text/css">
@@ -125,7 +127,31 @@
       }
       
     </script>
-    
+    <script>
+<!--
+function land(ref, target)
+{
+lowtarget=target.toLowerCase();
+if (lowtarget=="_self") {window.location=loc;}
+else {if (lowtarget=="_top") {top.location=loc;}
+else {if (lowtarget=="_blank") {window.open(loc);}
+else {if (lowtarget=="_parent") {parent.location=loc;}
+else {parent.frames[target].location=loc;};
+}}}
+}
+function jump(menu)
+{
+ref=menu.choice.options[menu.choice.selectedIndex].value;
+splitc=ref.lastIndexOf("*");
+target="";
+if (splitc!=-1)
+{loc=ref.substring(0,splitc);
+target=ref.substring(splitc+1,1000);}
+else {loc=ref; target="_self";};
+if (ref != "") {land(loc,target);}
+}
+//-->
+</script>    
   </head>
 <body class="">
     <script type="text/javascript">
@@ -170,9 +196,20 @@
       <div class="bar">
         
       </div>
+      
+      <div class="logos">
+        <ul class="logo-list">
+          <li><a href="//www.rpggameshq.com/" class="rpggameshq" title="RPG Games HQ"></a></li>
+          <!--<li><a href="//www.rpgmakerdc.com/" class="rpgmakerdc" title="RPG Maker DC"></a></li>-->
+        </ul>
+      </div>
+      
       <div class="tools">
         <div class="tools-holder">
           <ul class="social">
+          <li>
+            <form action="dummy" method="post"><select name="choice" size="1" onchange="jump(this.form)"><option value="http://www.rpgmakerweb.com">English</option><option value="http://tryace.rpgmakerweb.com/italian/">italiano</option></select></form>
+          </li>
             <li><a href="http://www.facebook.com/rpgmakerweb" class="facefook" title="facebook"></a></li>
             <li><a href="http://www.twitter.com/rpgmakerweb" class="twitter" title="twitter"></a></li>
             <li><a href="http://www.youtube.com/rpgmakerweb" class="youtube" title="youtube"></a></li>
@@ -186,16 +223,16 @@
       <div class="nav-content">
         <ul id="jsddm" class="">
           <li class="top-nav"><a href="/" class="nav_home">Home</a></li>
-          <li><a href="/product" class="nav_product">Products</a>
+          <li><a href="/products" class="nav_product">Products</a>
             <ul>
-              <li><a href="/product/rpg-maker-vx-ace" class="nav_ace">RPG Make VX Ace</a></li>
-              <li><a href="/product/rpg-maker-vx" class="nav_vx">RPG Maker VX</a></li>
-              <li><a href="/product/rpg-maker-xp" class="nav_xp">RPG Maker XP</a></li>
-              <li><a href="/product/ig-maker" class="nav_ig">IG Maker</a></li>
-              <li><a href="/games" class="nav_games">Games</a></li>
-              <li><a href="/music-packs" class="nav_music">Music Packs</a></li>
-              <li><a href="/resource-packs" class="nav_resource">Resource Packs</a></li>
-              <li class="last"><a href="/product/material-samurai" class="nav_samurai">Materials For VX : Samurai</a></li>
+              <li><a href="/products/rpg-maker-vx-ace" class="nav_ace">RPG Maker VX Ace</a></li>
+              <li><a href="/products/rpg-maker-vx" class="nav_vx">RPG Maker VX</a></li>
+              <li><a href="/products/rpg-maker-xp" class="nav_xp">RPG Maker XP</a></li>
+              <li><a href="/products/ig-maker" class="nav_ig">IG Maker</a></li>
+              <li><a href="/products/rpg-games" class="nav_games">Games</a></li>
+              <li><a href="/products/music-packs" class="nav_music">Music Packs</a></li>
+              <li><a href="/products/resource-packs" class="nav_resource">Resource Packs</a></li>
+              <li class="last"><a href="/products/ultimate-guides" class="nav_ultimate-guides">Ultimate Guides</a></li>
             </ul>
           </li>
           <li><a href="/store" class="nav_official">Official Store</a></li>
@@ -214,7 +251,8 @@
               <li><a href="/support/update" class="nav_update">Update</a></li>
               <li><a href="/support/eula" class="nav_eula">EULA</a></li>
               <li><a href="/support/tech" class="nav_tech">Technical Support</a></li>
-              <li class="last"><a href="/support/sales" class="nav_sales">Sales Support</a></li>
+              <li><a href="/support/sales" class="nav_sales">Sales Support</a></li>
+              <li class="last"><a href="/meet-the-team" class="nav_meet-the-team">Meet The Team</a></li>
             </ul>
           </li>
           <li><a href="http://blog.rpgmakerweb.com">Blog</a></li>
@@ -324,6 +362,7 @@
             <li><a href="/company/press">Press Office</a></li>
             <li><a href="/support/press">Press Contact</a></li>
             <li><a href="/company/privacy">Privacy Policy</a></li>
+            <li><a href="/company/terms-and-conditions">Terms And Conditions</a></li>
             <li><a href="/company/imprint">Imprint</a></li>
             <li class="last"><a href="/company/contact-us">Contact Us</a></li>
           </ul>
@@ -398,7 +437,7 @@
     <div class="twitter-item">
       <div class="title">
         <div class="icon">
-          <img src="http://rpgmaker.assets.s3-ap-northeast-1.amazonaws.com/files/ico-01.png" width="44" height="34" alt="image description">
+          <img src="//s3-ap-northeast-1.amazonaws.com/rpgmaker.assets/files/ico-01.png" width="44" height="34" alt="image description">
         </div>
         <h3>Latest Tweets</h3>
       </div>
@@ -430,10 +469,11 @@
           <li>
             <ul>
               <li><a href="/company">Company</a></li>
-              <li><a href="/company/privacy">Privacy Policy</a></li>
+              <li><a href="/company/privacy" rel="nofollow">Privacy Policy</a></li>
+              <li><a href="/company/terms-and-conditions" rel="nofollow">Terms And Conditions</a></li>
               <li><a href="/company/imprint">Imprint</a></li>
               <li><a href="/support#contact-us">Contact us</a></li>
-              <li><a href="/support/affiliate-program">Affiliate Program</a></li>
+              <li><a href="/support/affiliate-program" rel="nofollow">Affiliate Program</a></li>
             </ul>
           </li>
         </ul>
@@ -458,6 +498,6 @@
 <script type="text/javascript">
 if (typeof GSFN !== "undefined") { GSFN.loadWidget(270,{"containerId":"getsat-widget-270"}); }
 </script>
-
+  
   
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
