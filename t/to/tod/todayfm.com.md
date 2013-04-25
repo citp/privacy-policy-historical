@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the todayfm.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105051839id_/http%3A//www.todayfm.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayfm.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425091455id_/http%3A//www.todayfm.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Go straight to  Today FM Mobile App Privacy Policy. 
 
 **Section 1 - Introduction**  
 We at todayfm.com respect the right to personal privacy and our obligations under the Data Protection Acts 1988 and 2003. The purpose of this Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website, or as a registered user. If you are not happy with this Website Privacy Statement you should not use this website.   
@@ -55,3 +57,95 @@ Any changes to this Website Privacy Statement will be posted on this website so 
 Any queries or comments about this policy should be forwarded to: [online@todayfm.com](mailto:online@todayfm.com).
 
 Please note that any site that you may connect to from here is not covered by this Privacy Policy.
+
+**Section 8 - Mobile Application Privacy Policy    **_updated December 2012_
+
+This privacy policy governs your use of a software application “ **Today FM App** ” on a mobile device that was created by “ **Communicorp Digital** ”  This section explains how Communicorp Digital processes information about you which is personally identifiable ("your information") when you use the Today FM Application.
+
+Communicorp Digital is registered as a data controller for the purposes of the Data Protection Acts 1988 and 2003. If you have any queries about how we use Your Information or have a complaint, please [contact us](mailto:info@communicorp.ie).
+
+The Application includes:
+
+  * Integrated Facebook: Login to Facebook and chat to friends within the App while listening to TODAY FM
+  * Podcasts 
+  * Listen Back 7 day service 
+  * Today FM Twitter Feed
+
+
+
+**Mobile Advertising:**
+
+Advertisements track whether there has been an engagement with the advert. However, it does not track it down to individual level. In the case of certain adverts such as iPolls the ad will track whether your mobile device was previously used to vote in the iPoll. It does not track which way you voted.
+
+**Data capture in mobile:**
+
+The data to be collected for advertisements featuring competitions is defined by the advertiser. The competition entry form will clearly identify the information that is required from you for that competition. It is the user’s decision to supply the information and determine whether you wish to proceed with your entry into the competition. Full terms and conditions applying to the competition and the capture of your data will be displayed on the competition entry form.
+
+**User Provided Information**
+
+The rich social features of the application require the use of a large set of Facebook functionality. The application seeks your consent to access and use your information from Facebook using the standard mandatory Facebook authorization process.
+
+When entering a Competition within the Application you may be asked to provide all/any of the following: 
+
+  * Name 
+  * Email Address 
+  * Telephone No. 
+  * Postal Address 
+  * Age where legally required i.e. Alcohol brand
+
+
+
+**Automatically Collected Information**
+
+In addition, the Application may collect certain information automatically, such as: 
+
+  * Type of mobile device you use 
+  * Your mobile devices unique app installation ID 
+  * IP address of your mobile device 
+  * Your mobile operating system, 
+  * Type of mobile Internet browsers you use 
+  * Information about the way you use the Application or analytics
+
+
+
+**Does the Application collect precise real time location information of the device?** This Application does not collect precise information about the location of your mobile device. 
+
+**Do third parties see and/or have access to information obtained by the Application?** Yes. We will share your information with third parties only in the ways that are described in this privacy statement. We may disclose User Provided and Automatically Collected Information: 
+
+  1. To any suppliers and subcontractors in order to fulfil the service 
+  2. If we are under a duty to disclose or share your information in order to comply with any legal obligation or in order to enforce or apply the User Terms as applicable and other agreements;
+  3. To third parties for marketing purposes only where you have consented to this. 
+  4. If Communicorp Digital is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information 
+  5. This Application is free and supported via advertising, and collects data to help the Application serve ads e.g. whether you are using an iOS or Android device 
+
+
+
+**Data Retention Policy, Managing Your Information**
+
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us [here](mailto:info@communicorp.ie) and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly, and we may be required to retain certain information by law.
+
+**Access to your information and corrections**
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of such information, please [contact us](mailto:info@communicorp.ie). You may ask us to correct or remove information you think is inaccurate by contacting us. We hope you will be happy with the way we handle your information but if not you have the right to complain to the Office of the Irish Data Protection Commissioner - for more information visit [www.DataProtection.ie](http://www.dataprotection.ie/).
+
+**Security**
+
+Communicorp Digital is concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorised employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavour to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+**Changes**
+
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here You are advised to consult this Privacy Policy regularly for any changes.
+
+**Your Consent**
+
+By using the Services, you are consenting to our processing of User Provided and Automatically Collection information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the Republic of Ireland (ROI). If you reside outside the ROI your information will be transferred to the ROI, and processed and stored there under the ROI privacy standards. By using the Application and providing information to us, you consent to such transfer to, and processing in, the ROI.
+
+**Contact us**
+
+  * If you contact us, we may keep a record of that correspondence; 
+  * Any other information provided by you pursuant to your use of the Today FM Application. 
+
+
+
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us [here](mailto:info@communicorp.ie).   
+
