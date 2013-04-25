@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilsmethod.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005073451id_/http%3A//www.gilsmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilsmethod.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425023637id_/http%3A//www.gilsmethod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GilsMethod.com
 
