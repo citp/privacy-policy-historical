@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupcard.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102203706id_/http%3A//www.groupcard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupcard.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425084653id_/http%3A//www.groupcard.com/privacy.php) for the most accurate reproduction.*
 
 # GroupCard - Privacy Policy
 
@@ -83,7 +83,6 @@ IGC may update this policy at any time for any reason.
 
 **Questions**  
 If you have questions or suggestions you can contact us at:  
-Interactive Gift Corporation, GroupCard.com  
-697 Menlo Avenue  
-Menlo Park, CA 94028  
-[feedback@groupcard.com](mailto:feedback@groupcard.com)
+Interactive Gift Corporation, GroupCard.com
+
+[Click here to contact us](https://web.archive.org/web/20130425084653id_/http%3A//www.groupcard.com/contact) or you may even contact us through [feedback@groupcard.com](mailto:feedback@groupcard.com)
