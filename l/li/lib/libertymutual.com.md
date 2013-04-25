@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029080918id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425145756id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
 
 # Liberty Mutual
 
@@ -39,14 +39,18 @@ The level of information gathered by Liberty Mutual varies depending upon your r
 
   * Liberty Mutual Rewards - Name, Mailing Address, Email Address, Gender, Customer Status.
 
-  * eBilling - Name, Address, Phone Number, Email address, Banking information, Credit Card number if provided.  
+  * eBilling - Name, Address, Phone Number, Email address, Banking information, Credit Card number if provided.
+
+  * Responsible Sports - Name, Mailing Address, Email address, Phone number, Favorite sport, Affiliated orgnization
+
+  * Social networking websites - You may choose to utilize your social media profile from select social networking sites such as Facebook, Twitter, Google+ and other like-type social media sites to access content on our websites.  By doing so, you specifically grant permission and authorize us to collect, store and use authorized personal information from these sites as indicated during the use and authorization process  
  
 
 
 
 
 **Using Information Gathered**  
-The information Liberty Mutual collects is used to provide policy quotes when requested, administer insurance policies, answer questions or concerns, register participants for Liberty Mutual sponsored events, Liberty Mutual Rewards and provide information requested in a timely manner. We also collect information from prospective employees who are interested in applying for a position with Liberty Mutual. You can correct/update information supplied to www.libertymutual.com by sending an email to [corporateinfo@libertymutual.com](mailto:corporateinfo@libertymutual.com).
+The information Liberty Mutual collects is used to provide policy quotes when requested, administer insurance policies, answer questions or concerns, register participants for Liberty Mutual sponsored events, Liberty Mutual Rewards, content and provide information requested in a timely manner. We also collect information from prospective employees who are interested in applying for a position with Liberty Mutual. You can correct/update information supplied to www.libertymutual.com by sending an email to [corporateinfo@libertymutual.com](mailto:corporateinfo@libertymutual.com).
 
 By using our website, Liberty Mutual is able to log general statistical information (from log files) such as: the domain name, IP address and browser type of our web site visitors. With the information gathered, we are better able to create a customized experience for your visit to our web site. The log file information does not contain personally identifiable information, such as name, address, phone, etc. and is used only in the aggregate.
 
