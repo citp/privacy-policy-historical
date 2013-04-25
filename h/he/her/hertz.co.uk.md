@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hertz.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014150804id_/http%3A//www.hertz.co.uk/rentacar/privacypolicy/index.jsp%3FtargetPage%3DprivacyPolicyView.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertz.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425100331id_/http%3A//www.hertz.co.uk/rentacar/privacypolicy/index.jsp%3FtargetPage%3DprivacyPolicyView.jsp) for the most accurate reproduction.*
 
-# None
+# 
 
  
 
@@ -10,7 +10,7 @@
 
  **Scope **
 
- **Who we are:**  We are The Hertz Corporation and its subsidiaries. This policy does not cover our licensees or affiliates.  This policy does not cover our Advantage Rent A Car business.
+ **Who we are:**  We are The Hertz Corporation and its subsidiaries. This policy does not cover our licensees or affiliates.  This policy does not cover our Firefly Car Rental business.
 
  **Legal Issues:**  We aim to comply with the privacy laws applicable to the personal data we collect and use.
 
@@ -62,13 +62,13 @@ When you request services from us or access our websites, you consent to our col
  **Who we are    
 **\--------------------------------------------------------
 
-We are The Hertz Corporation, a U.S. company based in New Jersey, which, together with our subsidiary companies, provides vehicle rental services worldwide.  All references in this policy to “we”, “us” and “our” are to us and our subsidiaries.  Our businesses generally operate under a “Hertz” mark, including Hertz Rent A Car, Hertz Local Edition, Connect by Hertz, and Hertz Equipment Rental. However, our Advantage Rent A Car business operated by Simply Wheelz LLC, a Hertz subsidiary, is not covered because it has its own Privacy Policy. We also operate equipment rental businesses and, to a lesser extent, vehicle and equipment sales, and a claims administration businesses.
+We are The Hertz Corporation, a U.S. company based in New Jersey, which, together with our subsidiary companies, provides vehicle rental services worldwide.  All references in this policy to “we”, “us” and “our” are to us and our subsidiaries.  Our businesses generally operate under a “Hertz” mark, including Hertz Rent A Car, Hertz Local Edition, Connect by Hertz, and Hertz Equipment Rental. However, our Firefly Car Rental business operated by Simply Wheelz LLC, a Hertz subsidiary, is not covered because it has its own Privacy Policy. We also operate equipment rental businesses and, to a lesser extent, vehicle and equipment sales, and a claims administration businesses.
 
 We operate a large network of licensees in provision of our services worldwide and are affiliated to many other companies through ownership. As our licensees and affiliates are independent companies, they are not owned or controlled by us and are not covered by this policy, although they may have their own privacy policies to govern the personal data they collect.
 
  _ **More about subsidiaries, licensees and affiliates** …_
 
- _ **Subsidiaries:** These companies are owned by The Hertz Corporation and are covered by this policy. The expressions “we”, “us” and “our” apply to them, except for Simply Wheelz LLC which operates the Advantage Rent A Car business._
+ _ **Subsidiaries:** These companies are owned by The Hertz Corporation and are covered by this policy. The expressions “we”, “us” and “our” apply to them, except for Simply Wheelz LLC which operates the Firefly Car Rental business._
 
  _ **Licensees:** We have a network of independent companies licensed to operate vehicle rental businesses using the “Hertz” name and business system.  These companies may describe themselves as “Hertz System Licensees” or “Hertz Franchisees” to indicate that they are not our subsidiaries._
 
@@ -447,7 +447,7 @@ Please complete this form and send it to us by following the instructions at  _
 
 (Updates: Please update your information in your Profile online, or use this form for changes.)
 
- _Please note: Privacy Choices for  Advantage Rent A Car should be made by following instructions in its Privacy Policy._
+ _Please note: Privacy Choices for  Firefly Car Rental should be made by following instructions in its Privacy Policy._
 
 Name: ..................................................................  
   
