@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119043153id_/http%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425025636id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
@@ -55,7 +55,7 @@ This Site may contain links to other web sites. The Company cannot and does not 
 
 ##  Emails 
 
-If you choose to register for our products and services, we will send you certain promotional emails. Promotional emails advertise our products and services and/or the products and services of our Users and Affiliates. If you do not want to receive promotional emails from us, you may elect to opt-out of receiving promotional emails at any time after registering by e-mailing us at support@udemy.com, by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our e-mails. 
+If you choose to register for our products and services, we will send you certain promotional emails. Promotional emails advertise our products and services and/or the products and services of our Users and Affiliates. If you do not want to receive promotional emails from us, you may elect to opt-out of receiving promotional emails at any time after registering by contacting us via [support.udemy.com](http://support.udemy.com/), by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our e-mails. 
 
 ##  Legal Disclaimer 
 
