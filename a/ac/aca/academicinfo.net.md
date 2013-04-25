@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621193812id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426002357id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Degrees & Guides
+
+## You are here
+
+[Home](https://web.archive.org/) » Privacy Statement
 
 AcademicInfo is firmly committed to ensuring your anonymity and protecting your privacy. We however reserve the right to amend this Privacy Statement at any time.
 
@@ -11,7 +15,7 @@ Over the course of your visit to our site, we periodically collect information w
 
 
 
-**Information you provide to us**
+ **Information you provide to us**
 
 An area of the site where you might be required to divulge personal information is when requesting information from one of our many online institutions. In such instances, you might be required to provide your name, contact details, email address and other relevant details. Presently, AcademicInfo does not require any registration to access the information on the site, although this is subject to change at some point in the future.
 
@@ -43,7 +47,3 @@ If you have any questions about this privacy statement, the practices of our sit
 14 Palm Harbor Village Way  
 Palm Coast  
 FL 32137
-
-## Online Degree Information
-
-Find information on online degree programs and online courses. Learn more about earning a degree online through distance education and browse through accredited online and campus-based schools, colleges and universities. Discover degrees by subject category or degree level (e.g. associate, bachelor, master or doctoral). Further your career and improve your earning potential - get educated today!
