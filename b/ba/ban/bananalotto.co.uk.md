@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananalotto.co.uk privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528015600id_/http%3A//uk.bananalotto.com/mentions.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananalotto.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426015805id_/http%3A//uk.bananalotto.com/mentions.php) for the most accurate reproduction.*
 
 # Bananalotto - 100% Free Game - Win: Vouchers, prizes, DVD, mobiles, video games, holidays, Nintendo DS, PSP, digital camera, PS3, MP3 players !
 
