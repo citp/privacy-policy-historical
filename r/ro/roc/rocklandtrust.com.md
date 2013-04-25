@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208050346id_/http%3A//www.rocklandtrust.com/Planning-Tools-And-Resources/Security-Center/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425025809id_/http%3A//www.rocklandtrust.com/Planning-Tools-And-Resources/Security-Center/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Rockland Trust
 
@@ -117,7 +117,11 @@ Vermont residents:  We will automatically limit the disclosure of your confiden
   
  
 
-### Rockland Trust Company's Statement of Compliance with Federal and State Laws and Regulations Regarding Protection of Non-Public Personal Information 
+### 
+
+### Rockland 
+
+Trust Company's Statement of Compliance with Federal and State Laws and Regulations Regarding Protection of Non-Public Personal Information 
 
 Rockland Trust is required by law to protect customers' non-public personal information. The laws that Rockland Trust must comply with include the Graham-Leach-Bliley Act (15 United States Code, Sec. 6801 et seq.) and Massachusetts General Laws, Chapter 93H and the regulations thereunder (201 Code of Massachusetts Regulations Sec. 17.00 et seq.). 
 
@@ -131,9 +135,10 @@ Rockland Trust has a comprehensive Written Information Security Program in place
 
 Protection under the Electronic Funds Transfer Act 
 
-Regulation E, which implements the Electronic Fund Transfer Act, provides consumers with certain protections when errors occur that involve electronic fund transfers (EFT). If you notify Rockland Trust that an error involving an EFT has occurred, Rockland Trust must investigate and resolve the claim within specified deadlines. An "EFT" includes any transfer of funds that is initiated through an electronic terminal, telephone or computer for the purpose of ordering, instructing or authorizing a withdrawal or deposit transaction on your account.  It includes, but is not limited to, ATM transfers, point-of-sale transfers, direct deposits or withdrawals of funds, telephone transfers, transfers resulting from debit card transactions, and one-time electronic withdrawals when information from a paper check is used to create an electronic withdrawal ("check conversion"). These protections are available for consumers and their consumer bank accounts, including those that may be accessed electronically through online banking. However, these protections are not available to business entities and the business accounts that they maintain. For more information please contact us at 800.222.2299. 
+Regulation E, which implements the Electronic Fund Transfer Act, provides consumers with certain protections when errors occur that involve electronic fund transfers (EFT). If you notify Rockland Trust that an error involving an EFT has occurred, Rockland Trust must investigate and resolve the claim within specified deadlines. An "EFT" includes any transfer of funds that is initiated through an electronic terminal, telephone or computer for the purpose of ordering, instructing or authorizing a withdrawal or deposit transaction on your account.  It includes, but is not limited to, ATM transfers, point-of-sale transfers, direct deposits or withdrawals of funds, telephone transfers, transfers resulting from debit card transactions, and one-time electronic withdrawals when information from a paper check is used to create an electronic withdrawal ("check conversion"). These protections are available for consumers and their consumer bank accounts, including those that may be accessed electronically through online banking. However, these protections are not available to business entities and the business accounts that they maintain.  Contact use at 800.222.2299 for more information. 
 
-**What is considered an Error?  
+**  
+What is considered an Error?  
 **
 
 * When there was an unauthorized EFT; 
