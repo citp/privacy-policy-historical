@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014142545id_/http%3A//www.gadzoo.com/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425062252id_/http%3A//www.gadzoo.com/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
 
 # Welcome to Gadzoo.com
 
@@ -15,12 +15,12 @@ Privacy Policy Last Updated: August 2010
 
 ### 2\. General
 
-In general, you can visit the Site without telling us who you are or revealing any information about yourself. Gadzoo.com does not collect personally identifiable information about individuals, except when specifically and knowingly provided by such individuals on interactive areas of the Site. "Personally Identifiable Information" is information that can be used to uniquely identify, contact, or locate a single person, such as name, postal address, e-mail address, phone number, and credit card number, among other information, and that is not otherwise publicly available. Any posting made while using the Site and Services can be viewed by the public and therefore is not considered "personal information" or "Personally Identifiable Information" and is not the type of information covered by this Privacy Policy. 
+In general, you can visit the Site without telling us who you are or revealing any information about yourself. Gadzoo.com does not collect personally identifiable information about individuals, except when specifically and knowingly provided by such individuals on interactive areas of the Site. "Personally Identifiable Information" is information that can be used to uniquely identify, contact, or locate a single person, such as name, postal address, email address, phone number, and credit card number, among other information, and that is not otherwise publicly available. Any posting made while using the Site and Services can be viewed by the public and therefore is not considered "personal information" or "Personally Identifiable Information" and is not the type of information covered by this Privacy Policy. 
 
 ### 3\. Information We Collect
 
   1. Personally Identifiable Information. 
-    * Examples of Personally Identifiable Information we collect include name, postal address, e-mail address, credit card number and related information, and phone number. We also maintain a record of all information that you submit to us, including e-mail and other correspondence. We may collect Personally Identifiable Information when you register to receive alerts or offerings, sponsor or submit information in connection with certain Services, post other content on the Site, purchase products or other services, opt-in to receive special offers and discounts from us and our selected partners or participate in other activities offered or administered by Gadzoo.com. 
+    * Examples of Personally Identifiable Information we collect include name, postal address, email address, credit card number and related information, and phone number. We also maintain a record of all information that you submit to us, including email and other correspondence. We may collect Personally Identifiable Information when you register to receive alerts or offerings, sponsor or submit information in connection with certain Services, post other content on the Site, purchase products or other services, opt-in to receive special offers and discounts from us and our selected partners or participate in other activities offered or administered by Gadzoo.com. 
     * We may also collect Personally Identifiable Information about your transactions with us and with some of our business partners. This information might include information necessary to process payments due to us from you, such as your credit card number. 
     * We do not intentionally collect Personally Identifiable Information about children under the age of 13. Please see the section on "Children’s Privacy" below. 
   2. Other Anonymous Information. 
@@ -70,7 +70,7 @@ We let other entities that show advertisements on some of our web pages set and 
     * Although Gadzoo.com will apply these children's privacy terms whenever it becomes aware that a user who submits Personally Identifiable Information is less than 13 years old, no method is foolproof. Gadzoo.com strongly encourages parents and guardians to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personal information without parental permission. 
     * Personally Identifiable Information collected from children may include any of the information defined above as Personally Identifiable Information with respect to general users of the Site and may be used by Gadzoo.com for the same purposes. Except as necessary to process a child's requests or orders placed with advertisers or merchants featured on the Site, Gadzoo.com does not rent, sell, barter or give away any lists containing a child's Personally Identifiable Information for use by any outside company. 
     * A child's parent or legal guardian may request Gadzoo.com to provide a description of the Personally Identifiable Information that Gadzoo.com has collected from the child, as well as instruct Gadzoo.com to cease further use, maintenance and collection of Personally Identifiable Information from the child. 
-    * If a child voluntarily discloses his or her name, e-mail address or other personally-identifying information on chat areas, bulletin boards or other forums or public posting areas, such disclosures may result in unsolicited messages from other parties. 
+    * If a child voluntarily discloses his or her name, email address or other personally-identifying information on chat areas, bulletin boards or other forums or public posting areas, such disclosures may result in unsolicited messages from other parties. 
 
 
 
@@ -86,7 +86,7 @@ The security and confidentiality of your Personally Identifiable Information is 
 
 You may modify and correct Personally Identifiable Information provided directly to Gadzoo.com in connection with the Services, if necessary. Gadzoo.com offers users the following options for updating information: 
 
-  1. Send an e-mail to us at [info@Gadzoo.com](https://web.archive.org/web/20121014142545id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9); or 
+  1. Send an email to us at [info@Gadzoo.com](https://web.archive.org/web/20130425062252id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9); or 
   2. Send a letter to us via postal mail to the following address:  
 Gadzoo.com 820 Davis Street Suite 210 Evanston, IL 60201 Attention: Operations 
 
@@ -94,7 +94,7 @@ Gadzoo.com 820 Davis Street Suite 210 Evanston, IL 60201 Attention: Operations
 
 ### 10\. Opt-Out Procedures
 
-You may opt out of receiving future mailings or other information from Gadzoo.com. If the mailing does not have an e-mail cancellation form, send an e-mail to [info@Gadzoo.com](https://web.archive.org/web/20121014142545id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) detailing the type of information that you no longer wish to receive. 
+You may opt out of receiving future mailings or other information from Gadzoo.com. If the mailing does not have an email cancellation form, send an email to [info@Gadzoo.com](https://web.archive.org/web/20130425062252id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) detailing the type of information that you no longer wish to receive. 
 
 ### 11\. Third Party Advertising and Ad Delivery
 
@@ -109,7 +109,7 @@ We may periodically edit or update this Privacy Policy. We encourage you to revi
 
 ### 13\. Additional Information
 
-Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@Gadzoo.com](https://web.archive.org/web/20121014142545id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) or  
+Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@Gadzoo.com](https://web.archive.org/web/20130425062252id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) or  
 Gadzoo.com 820 Davis Street Suite 210 Evanston, IL 60201 Attention: Operations 
 
 YOUR CALIFORNIA PRIVACY RIGHTS  
@@ -119,4 +119,4 @@ A California resident who has provided personal information to a business with w
 
 Gadzoo.com does not share information with third parties for their direct marketing purposes. If, however, you are accessing this Privacy Policy from one of our Affiliate sites, the privacy policy of our Affiliate will apply to the collection of your information unless the Affiliate’s privacy policy specifically states otherwise. You should review the privacy policy of the Affiliate to understand what information may be collected from you and how it may be used. 
 
-California customers may request further information about our compliance with this law by e-mailing [info@Gadzoo.com](https://web.archive.org/web/20121014142545id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9). 
+California customers may request further information about our compliance with this law by emailing [info@Gadzoo.com](https://web.archive.org/web/20130425062252id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9). 
