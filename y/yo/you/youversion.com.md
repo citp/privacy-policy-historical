@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youversion.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929064059id_/https%3A//www.youversion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youversion.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425105820id_/https%3A//www.youversion.com/privacy) for the most accurate reproduction.*
 
 # YouVersion Privacy Policy | YouVersion.com
 
@@ -20,7 +20,7 @@ When you access the YouVersion Bible Application, we may collect your Unique Dev
 
   * ##### LifeChurch.tv cookies
 
-When you visit [www.youversion.com](https://web.archive.org/web/20120929064059id_/https%3A//www.youversion.com/www.youversion.com), we may send one or more cookies to your computer, so that we may uniquely identify your browser. (A cookie is simply a tiny text file containing a string of characters.) Accepting our cookies allows you to keep your user preferences from session to session. Although most browsers accept cookies by default, you can set your browser to refuse all cookies, or to tell you when you're being sent a cookie. Some YouVersion features and services may not function properly if you have cookies disabled.
+When you visit [www.bible.com](https://www.bible.com/), we may send one or more cookies to your computer, so that we may uniquely identify your browser. (A cookie is simply a tiny text file containing a string of characters.) Accepting our cookies allows you to keep your user preferences from session to session. Although most browsers accept cookies by default, you can set your browser to refuse all cookies, or to tell you when you're being sent a cookie. Some YouVersion features and services may not function properly if you have cookies disabled.
 
   * ##### Log information
 
@@ -28,7 +28,7 @@ When you use YouVersion, our servers automatically record information that your 
 
   * ##### User communications
 
-Personal information or requests that you submit via [www.youversion.com/live](https://web.archive.org/web/20120929064059id_/https%3A//www.youversion.com/www.youversion.com/live) will be sent to the group administrator. The group administrator and/or one of their members will have access to this information. When you send email or other communication to any LifeChurch.tv owned website, we may retain those communications to process your inquiries, respond to your requests and improve our services.
+Personal information or requests that you submit via [www.bible.com/live](https://www.bible.com/live) will be sent to the group administrator. The group administrator and/or one of their members will have access to this information. When you send email or other communication to any LifeChurch.tv owned website, we may retain those communications to process your inquiries, respond to your requests and improve our services.
 
   * ##### Third party sites
 
