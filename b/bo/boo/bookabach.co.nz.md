@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023095627id_/http%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425050640id_/http%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
   * Created: 12-Jan-2011 
-  * Updated: 02-Mar-2012 
+  * Updated: 25-Feb-2013 
 
 
 
@@ -50,6 +50,11 @@ We do not use text messaging for marketing purposes.  If you are Owner or Prope
 “Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. Cookies can be used to recognize you as a member and can be used to automatically configure services. We use Cookies for what is termed “session management” - after a certain amount of time we will automatically log you out if you’ve forgotten to do so.
 
 When you visit our website, we may record your “IP addresses” and information on the type of operating system (e.g. Windows XP or Apple OS) and browser software (e.g. Microsoft Internet Explorer, Netscape, Opera etc.) you are using. This information is used to diagnose problems with our service and for planning capacity and compatibility. Your IP address may also be used to help gather aggregated demographic information, such as which ISP you are using or what country you are connecting from.
+
+We use remarketing features within Google Analytics.  This allows us to show our display advertising across the internet, on other websites, via third-party ad serving vendors, including Google.  
+Bookabach and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to the Bookabach website or other websites in the Bookastay Network.
+
+You can opt-out of Google Analytics tracking for Display Advertising and customize the Google Display Network ads shown to you using the _Google Ads Preferences Manager_.
 
 ## How we secure financial transactions (credit card payments)
 
