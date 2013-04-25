@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexytube.me privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510052716id_/http%3A//www.sexytube.me/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexytube.me privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425102410id_/http%3A//www.sexytube.me/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - sexytube.me
 
