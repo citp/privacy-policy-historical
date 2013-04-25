@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223152010id_/http%3A//www.thegrocer.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425083813id_/http%3A//www.thegrocer.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | Grocery | The Grocer
+# Privacy & Cookie Policy
 
 Updated as at 1 July 2012
 
