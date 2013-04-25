@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111233538id_/http%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425143546id_/http%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - DNAinfo.com New York
 
@@ -41,7 +41,7 @@ Policy, DNA keeps all of your personal information private and will not share it
 third party unless, you have authorized DNA to do so or DNA is legally required to do  
 so.  DNA may also release personal information when it believes, in good faith,  
 that such release is reasonably necessary to enforce or apply the provisions of its  
-[Terms of Use](http://www.dnainfo.com/about-us/terms) or to protect the rights, property or safety of DNA, its users, or others.
+[Terms of Use](http://www.dnainfo.com/new-york/about-us/terms) or to protect the rights, property or safety of DNA, its users, or others.
 
 DNA retains the right to transfer your personal information to a successor in interest  
 pursuant to a change of control of DNA or a sale of all or substantially all of DNA’s  
@@ -80,7 +80,7 @@ agree that you will not use the Site for a reasonable time thereafter.  By usin
 after DNA posts any changes to this Privacy Policy, you agree to accept those changes.
 
 If you choose to visit DNA, your visit and any dispute over privacy is subject to this  
-Privacy Policy and DNA [Terms of Use](http://www.dnainfo.com/about-us/terms).
+Privacy Policy and DNA [Terms of Use](http://www.dnainfo.com/new-york/about-us/terms).
 
 **Applicable Law**  
 This Privacy Policy will be governed by and construed in accordance with the laws of the  
