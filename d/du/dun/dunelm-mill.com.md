@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005035944id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425091416id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunelm Mill
 
@@ -35,7 +35,7 @@ Use of Cookies
   * Cookies do not store any personal details relating to you or your credit cards nor can they find out your email address, access any other files on your hard drive or transmit viruses. 
   * Cookies are used to make your online shopping experience faster, easier and more efficient so you can move all over our website without losing what's in your basket or having to log in again and again. 
   * Using cookies also enables us to monitor site usage and customer traffic patterns which helps us develop and improve the design and layout of the website to be more user-friendly for you. 
-  * To opt out [click here](https://web.archive.org/webapp/wcs/stores/servlet/StaticPageDisplay?storeId=10551&identifier=dunelm_os_terms&brdcrmb_trail=dunelm_os_home|dunelm_os_contactus&langId=-1&catalogId=10051#Terms4)
+  * To opt out [click here](https://web.archive.org/webapp/wcs/stores/servlet/StaticPageDisplay?storeId=10551&identifier=dunelm_os_terms&brdcrmb_trail=dunelm_os_home%7Cdunelm_os_contactus&langId=-1&catalogId=10051#Terms4)
 
 
 
