@@ -1,91 +1,90 @@
-> *The following text is extracted and transformed from the swiftype.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110002422id_/http%3A//swiftype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftype.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425192015id_/https%3A//swiftype.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Swiftype
+# Privacy Policy | Swiftype
 
-## 1\. Web Site Covered
+Welcome to Swiftype.com, the online service of Swiftype, Inc. (“Swiftype,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. 
 
-This Privacy Statement covers the information practices of http://swiftype.com.
+  1. How We Collect and Use Information
+  2. Sharing of Your Information
+  3. How We Store and Protect Your Information
+  4. Your Choices about Your Information
+  5. Children’s Privacy
+  6. Links to Other Websites and Services
+  7. How to Contact Us
+  8. Changes to Our Privacy Policy
 
-## 2\. Information Collected
 
-Swiftype offers a variety of services that are collectively referred to as the “Services.” Swiftype collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Services (“Customers”).
 
-When expressing an interest in obtaining additional information about the Services or registering to use the Services, Swiftype requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Swiftype Customers.”
+## 1\. How We Collect and Use Information
 
-As you navigate the Company’s Web site, Swiftype may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms). 
 
-## 3\. Use of Information Collected
+We collect the following types of information about you: 
 
-The Company uses Data About Swiftype Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
+> **Information you provide us directly:** We ask for certain information such as your username, first and last name, company name, address, phone number and e-mail address when you register for a Swiftype account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in Your Content you post to the Service. We use this information to operate, maintain, and provide to you the features and functionality of the Service. 
+> 
+> **Analytics information:** We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user. 
+> 
+> **Cookies information:** When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Swiftype help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
+> 
+> **Log file information:** Log file information is automatically reported by your browser each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. 
+> 
+> **Clear gifs/web beacons information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the Service. 
+> 
+> **Device identifiers:** When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Swiftype. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled. 
+> 
+> **Commercial and marketing communications:** We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related e-mails. 
+> 
+> **Use of certain service type information we collect about you:** We use or may use cookies, log file, device identifiers and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) to help you efficiently access your information after you sign in; and (g) to provide advertising to your browser or device. 
 
-The Company may also use Data About Swiftype Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
+## 2\. Sharing of Your Information
 
-Swiftype uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Swiftype Customers to provide personalized information about the Company.
+We will not rent or sell your information into third parties outside Swiftype and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below: 
 
-## 4\. Web Site Navigational Information
+> **Who we may share your information with:** We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy. 
+> 
+> **What happens in the event of a change of control:** We may buy or sell/divest/transfer the Swiftype (including any shares in the Swiftype), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, Your Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the Swiftype. 
+> 
+> **Instances where we are required to share your information:** Swiftype will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Service](https://web.archive.org/terms) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Swiftype, our Users or others. 
+> 
+> **Sharing certain service type information we collect about you:** We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “ **How We Collect and Use Information.** ” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties. 
+> 
+> **Ads on Swiftype:** We may also share certain information such as your location, browser and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements (“ads”) that may be of interest to you. Swiftype may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content. Swiftype does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes. 
+> 
+> Please note that an advertiser may ask Swiftype to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Swiftype determines the target audience and Swiftype serves the advertising to that audience and only provides anonymous aggregated data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. 
+> 
+> The Swiftype Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information. 
 
-Swiftype uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web site (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web site and how this information may be used.
+## 3\. How We Store and Protect Your Information
 
-4.1 Cookies - Swiftype uses cookies to make interactions with the Company’s Web site easy and meaningful. When you visit the Company’s Web site, Swiftype’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Swiftype, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or a “30 Day Free Trial” Web form), you remain anonymous to the Company. Swiftype uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
+**Storage and Processing:** Your information collected through the Service may be stored and processed in the United States or any other country in which Swiftype or its subsidiaries, affiliates or service providers maintain facilities. Swiftype may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Swiftype or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
 
-If you have chosen to identify yourself to Swiftype, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests. Session cookies are required to use the Services.
+**Keeping your information safe:** Swiftype cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Swiftype, at all times. However, Swiftype cannot ensure or warrant the security of any information you transmit to Swiftype or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the Swiftype Service, such as social networks. Swiftype is not responsible for the functionality or security measures of any third party. 
 
-Swiftype uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Web site. When you purchase the Services or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web site, but you will not be able to successfully use the Services.
+**Compromise of information:** In the event that any information under our control is compromised as a result of a breach of security, Swiftype will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations. 
 
-Swiftype may use information from session and persistent cookies in combination with Data About Swiftype Customers to provide you with information about the Company and the Services.
+## 4\. Your Choices About Your Information
 
-4.2 Web Beacons - Swiftype uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web site and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Swiftype may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web site. Swiftype uses Web beacons to operate and improve the Company’s Web site and email communications.
+**You control your account information and settings:** You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@swiftype.com](mailto:support@swiftype.com). 
 
-Swiftype may use information from Web beacons in combination with Data About Swiftype Customers to provide you with information about the Company and the Services.
+**Opting out of collection of your information for Tracking / Advertising:** Please refer to your browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Swiftype or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [support@swiftype.com](mailto:support@swiftype.com). 
 
-4.3 Flash Cookies - Swiftype may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom the Company partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+**How long we keep Your Content:** Following termination or deactivation of your User account, Swiftype may retain your profile information and Your Content for a commercially reasonable time for backup, archival, or audit purposes. 
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies.
+## 5\. Children's Privacy
 
-4.4 IP Addresses - When you visit Swiftype’s Web site, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Swiftype uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web site.
+Swiftype does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@swiftype.com](mailto:support@swiftype.com). 
 
-4.5 Third Party Cookies - From time-to-time, Swiftype engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web site. Swiftype may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
+## 6\. Links to Other Websites and Services
 
-Swiftype may also contract with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company’s Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts.
+We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access Your Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to Your Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service. 
 
-## 5\. Public Forums, Refer a Friend, and Customer Testimonials
+## 7\. How to Contact us
 
-Swiftype may provide bulletin boards, blogs, or chat rooms on the Company’s Web site. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Swiftype is not responsible for the personal information you choose to submit in these forums.
+If you have any questions about this Privacy Policy or the Service, please contact us at [support@swiftype.com](mailto:support@swiftype.com). 
 
-Swiftype may post a list of Customers and testimonials on the Company’s Web site that contain information such as Customer names and titles. Swiftype obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+## 8\. Changes to Our Privacy Policy
 
-## 6\. Sharing of Information Collected
+Swiftype may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page. 
 
-Swiftype may share Data About Swiftype Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Swiftype may also share Data About Swiftype Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this privacy statement, Swiftype does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
-
-From time to time, Swiftype may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Swiftype, the Company may share Data About Swiftype Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Swiftype does not control our business partners’ use of the Data About Swiftype Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
-
-Swiftype reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
-
-## 7\. International Transfer of Information Collected
-
-To facilitate Swiftype’s global operations, the Company may transfer and access Data About Swiftype Customers from around the world, including the United States. This Privacy Statement shall apply even if Swiftype transfers Data About Swiftype Customers to other countries.
-
-## 8\. Communications Preferences
-
-Swiftype offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@swiftype.com. Customers cannot opt out of receiving transactional emails related to their account with Swiftype or the Services.
-
-## 9\. Correcting and Updating Your Information
-
-Customers may update or change their registration information by logging in to their accounts at http://swiftype.com. Requests to access, change, or delete your information will be handled within 30 days.
-
-## 10\. Security
-
-Swiftype uses appropriate administrative, technical, and physical security measures to protect Data About Swiftype Customers.
-
-## 11\. Changes to this Privacy Statement
-
-Swiftype reserves the right to change this Privacy Statement. Swiftype will provide notification of the material changes to this Privacy Statement through the Company’s Web site at least thirty (30) business days prior to the change taking effect.
-
-## 12\. Contacting Us
-
-Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to feedback@swiftype.com or by mailing Swiftype, 8 California St., Suite 200, San Francisco, CA 94111.
-
-## 13\. EU Safe Harbor
-
-Swiftype complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Swiftype has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Swiftype’s certification, please visit http://www.export.gov/safeharbor/
+This privacy policy was last modified on March 11, 2013. 
