@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031104525id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425031009id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
 
@@ -46,6 +46,12 @@ Video Chat Service
 **
 
 If you use the video chat service (“Video Chat Service”), you may disclose personal information in the course of using the service. All conversations and email exchanges are recorded.
+
+**  
+Mobile  
+**
+
+When you download or use our Mobile Applications, or access one of our mobile optimised sites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, such as advertising, search results, and other personalised content. Most mobile devices allow you to control or disable location services in the device's setting's menu. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or the manufacture of your particular device
 
 [Use of information]()
 
@@ -238,7 +244,7 @@ Whilst these adverts are based on your individual interactions with autotrader.c
 If you do not wish to receive such "personalised" advertisements as a result of your behaviour on the Website then please refer to the Audience Science privacy policy <http://www.audiencescience.com/uk/privacy.asp>.
 
   
-You can opt-out of the Audience Science cookie tracking by following the instructions in this pdf: <http://www.audiencescience.com/uk/docs/nai.pdf>
+You can opt-out of the Audience Science cookie tracking by following the instructions in this pdf: <http://www.audiencescience.com/docs/nai.pdf>
 
 **  
 Google Adsense**
