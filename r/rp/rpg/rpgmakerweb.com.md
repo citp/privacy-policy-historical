@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125150521id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425232354id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
 
 # Create Your Own Game | Privacy Policy
 
