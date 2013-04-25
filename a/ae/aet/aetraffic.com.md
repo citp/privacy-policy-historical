@@ -1,67 +1,61 @@
-> *The following text is extracted and transformed from the aetraffic.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023000725id_/https%3A//www.aetraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetraffic.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425114800id_/https%3A//www.aetraffic.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Buy Traffic | Aetraffic
+# privacy | Aetraffic
 
-We collect information from you when you register on our site, place an order. 
+The privacy of our visitors and subscribers is important to AETraffic. This statement contains important information regarding the personal information that AETraffic collects and how AETraffic uses that information.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or support@aetraffic.com. You may, however, visit our site anonymously.
+## Personal Information Gathering
 
-**What do we use your information for?**
+When you subscribe to our newsletter, AETraffic may collect information about:
 
-Any of the information we collect from you may be used in one of the following ways: 
+  * your use of this website
+  * your contact details for the purpose of registering with the website
+  * transactions carried out over this website
 
-To process transactions
 
-**Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.**
 
-**How do we protect your information?**
+## Personal Information Use
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+AETraffic might use your information to:
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+  * administer our website/newsletter
+  * personalize our website/newsletter for you
+  * allow your access and use of our website and newsletter services
+  * publish information about you in the newsletter or on our website
+  * send you products/services that you register for or purchase
+  * send you statements/invoices and to collect payments
+  * send you promotional content
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**Do we use cookies?**
 
-We do not use cookies.
+When you register for our newsletter, your personal information will not be:
 
-**Do we disclose any information to outside parties?**
+  * traded for any reason, including to gain information from other companies/people
+  * sold/rented for any reason, including for any financial transaction
+  * used in any way which would break our adherence to the CAN-SPAM Act
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+AETraffic could be required to or opt to disclose your information to agents/sub-contractors for the above purposes, and those parties must also use it according to the terms of this privacy statement.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+If necessary, your information may be disclosed, if required or compelled to do so by legal authorities, in regards to legal actions and court order, and to take a legal position against these actions or orders.
 
-**Childrens Online Privacy Protection Act Compliance**
+## Securing Your Personal Data
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+AETraffic will take practical technical and administrative actions to avoid the misuse, loss, or alteration of your personal information.
 
-**Online Privacy Policy Only**
+AETraffic will store your information on our secure servers to the best of our ability, and information entered into our website will be protected by encryption technology.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+## Cross-Border Data Storage and Transfer
 
-**Terms and Conditions**
+Information that AETraffic which is collected may be processed, transferred or stored in different servers or data centers owned by different corporate entities in all countries in which AETraffic operates in order to use the information in agreement with this privacy policy. By subscribing to our service, you agree to these cross-border transfers of your information.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.aetraffic.com/terms.php>
+Also, any personal information you submit for publication on our website or in our newsletter may be published on the internet.
 
-**Your Consent**
+## Third Party Websites
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+This website may contain links to other websites that may or not be affiliated with AETraffic, but we are not responsible for privacy policies/practices of any third party.
 
-**Changes to our Privacy Policy**
+## About this Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-www.aetraffic.com  
-P.O. Box 4234   
-San Dimas, California 91773  
-United States  
-support@aetraffic.com
+This privacy statement may be updated at any time and should be checked by your frequently, to maintain familiarity with our policies.  If you do not agree to our privacy policy or are otherwise unsatisfied with our services, you are free to cancel your membership at any time.
