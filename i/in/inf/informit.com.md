@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221065001id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425180148id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | InformIT
 
