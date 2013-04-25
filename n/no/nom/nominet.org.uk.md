@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730212724id_/http%3A//www.nominet.org.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425125533id_/http%3A//www.nominet.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Nominet - Privacy policy
+# Privacy Policy | Nominet
 
 Nominet UK (Company No. 3203859) is a not for profit company limited by guarantee whose registered address is Minerva House, Edmund Halley Road, Oxford Science Park, Oxford OX4 4DQ.
 
-This policy (together with our [terms of use](https://web.archive.org/websiteterms/) and any other documents referred to) sets out the basis on which we will process personal data we collect from you, or that you provide to us, as a result of your use of our web site or services.  It supplements and should be read in addition to other terms and conditions that you have agreed to in connection with your use of our web site or our services.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/terms-use) and any other documents referred to) sets out the basis on which we will process personal data we collect from you, or that you provide to us, as a result of your use of our web site or services.  It supplements and should be read in addition to other terms and conditions that you have agreed to in connection with your use of our web site or our services.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998, the data controller is Nominet UK.
 
@@ -20,17 +20,17 @@ We may collect and process the following data about you:
 
 ### IP addresses and cookies
 
-We use analytics, which collects information about your computer, such as IP address, operating system and browser type. This does not identify any individual user, and is used to help us improve our services for you. We collect this information by placing small text files on your computer, known as cookies. You can find more information about [how we use cookies](https://web.archive.org/cookies/), including information about how to control what cookies are set when you visit our site.
+We use analytics, which collects information about your computer, such as IP address, operating system and browser type. This does not identify any individual user, and is used to help us improve our services for you. We collect this information by placing small text files on your computer, known as cookies. You can find more information about [how we use cookies](https://web.archive.org/how-we-use-cookies), including information about how to control what cookies are set when you visit our site.
 
 ### Analysing .uk domain name usage
 
 So we can monitor usage of .uk domains, Nominet is running a short trial to collect data on whether .uk domain names resolve, where they are hosted, whether they are used for email and/or whether a web site is in place. As part of this, we will collect information about the landing page of your website so that we can categorise the website type (e.g. blog, parking page etc). We will not collect any more information than we would if we visited the landing page via a browser, and the data will be deleted at the end of the trial.
 
-  The information we gather is used to help Nominet better understand the .uk market and identify changes over time.  To keep bandwidth to a minimum, only the landing page of a web site is visited and we will restrict the number of times we visit websites which use the same IP address.  Any information gathered is used to help Nominet better understand how .uk domains are used by registrants.
+The information we gather is used to help Nominet better understand the .uk market and identify changes over time. To keep bandwidth to a minimum, only the landing page of a web site is visited and we will restrict the number of times we visit websites which use the same IP address. Any information gathered is used to help Nominet better understand how .uk domains are used by registrants.
 
-  If you want to, you can stop us from collecting data about your website by using a "robots.txt" file. You can find more information about "robots.txt" files [here](http://www.robotstxt.org/robotstxt.html).
+If you want to, you can stop us from collecting data about your website by using a "robots.txt" file. You can find more information about "robots.txt" files [here](http://www.robotstxt.org/robotstxt.html).
 
-  If the trial is successful, we may run this analysis on a regular basis in the future. If so, this policy will be updated accordingly.
+If the trial is successful, we may run this analysis on a regular basis in the future. If so, this policy will be updated accordingly.
 
 ### Where we store your personal data
 
@@ -57,11 +57,11 @@ We may disclose your personal information to a third party if we are under a dut
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us using the address information shown above.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us using the address information shown above.
 
 ### Other web sites
 
-Our site may, from time to time, contain links to other web sites.  If you follow a link to any of these web sites, please note that these web sites have their own privacy policies and that we do not accept any responsibility or liability for your use of such web sites.
+Our site may, from time to time, contain links to other web sites. If you follow a link to any of these web sites, please note that these web sites have their own privacy policies and that we do not accept any responsibility or liability for your use of such web sites.
 
 ### Access to information
 
