@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nobelcom.com privacy policy that was archived on 2012-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006170015id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nobelcom.com privacy policy that was archived on 2013-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425234623id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -51,7 +51,7 @@
 	        
 	
 		
-		<link rel="stylesheet" href="http://static.nobelcom.com/css/nobelcom/nobelcom_en.css?2" type="text/css">
+		<link rel="stylesheet" href="http://static.nobelcom.com/css/nobelcom/nobelcom_en.css?3" type="text/css">
 	
 		
 		<link rel="stylesheet" href="http://static.nobelcom.com/css/nobelcom/buttons.css" type="text/css">
@@ -66,7 +66,7 @@
 	        
     
 		
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/nobelcom/general.js"></script>
+		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/nobelcom/general.js"></script>
 	
 		
 		<script type="text/javascript" src="http://static.nobelcom.com/js/common/jquery/common/jquery-1.7.2.min.js"></script>
@@ -79,6 +79,12 @@
 	
 		
 		<script type="text/javascript" src="http://static.nobelcom.com/js/common/jquery/common/jquery.tipsy.js"></script>
+	
+		
+		<script type="text/javascript" src="/js/common/jquery/jquery.cookie.js"></script>
+	
+		
+		<script type="text/javascript" src="/js/common/jquery/jquery.mobiledetect.js"></script>
 	
 	
 	
@@ -111,10 +117,23 @@
 //Sniff out mobile
 if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/iPod/i) ) {
     document.write('<link rel="stylesheet" type="text/css" href="/css/nobelcom/mobile.css" media="screen, print" />');
-    document.write('<script src="/js/nobelcom/mobile.js" type="text/javascript" /><\/SCR'+'IPT>');
+    document.write('<script src="/js/nobelcom/mobile.js" type="text/javascript"><\/SCRIPT>');
 }
 </script>
-
+<script type="text/javascript">
+		//Sniff out mobile
+		if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) ) {
+			 document.write('<link rel="stylesheet" type="text/css" href="/css/nobelcom/mobileiPhone.css" media="screen, print" />');
+			
+		}
+</script>
+<script type="text/javascript">
+		//Sniff out mobile
+		if (navigator.userAgent.match(/Android/i)  ) {
+		
+				 document.write('<link rel="stylesheet" type="text/css" href="/css/nobelcom/mobileAndroid.css" media="screen, print" />');
+		}
+</script>
 <script type="text/javascript" src="/js/common/jquery/ui-1.8.21/jquery-ui-1.8.21.custom.min.js"></script>
 <link rel="stylesheet" href="/js/common/jquery/ui-1.8.21/ui-theme/jquery-ui-1.8.21.custom.css" type="text/css" media="screen">
 
@@ -162,7 +181,7 @@ if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) |
 	  
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
@@ -253,6 +272,14 @@ if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) |
 	    			 	<br>
 	    			 
 	    			 	<p>
+	    			 		Also, to be able to find us as easy as possible on Google searches and also to place our ads on different websites across the internet, we implemented and use Display Advertising and one of its features named Remarketing, You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google's Ads Preferences Manager.
+		    			 	
+		    			 	   
+		    			 	
+	    			 	</p>
+	    			 	<br>
+	    			 
+	    			 	<p>
 	    			 		Like most websites, we use small bits of data called cookies, stored on users' computers to simulate a continuous connection. Cookies let us "remember" information about your preferences and passwords and allow you to move within our website without reintroducing yourself. Recent versions of browsers let you easily see and control cookies.
 		    			 	
 		    			 	   
@@ -332,7 +359,7 @@ if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) |
    			<strong>Who has access to my information?</strong>
     		
 	    		
-	    			</p><p>We do not share personally identifiable data with other companies, except as necessary to fulfill a transaction you have requested (i.e. your credit card company). NobelCom.com may be required by law to share such information in response to legal process, such as a court order or subpoena.</p>
+	    			</p><p>We do not share personally identifiable data with other companies, except as necessary to fulfill a transaction you have requested (i.e. your credit card company). or to more effectively provide you with information.  We will always ensure that any information we share is protected by those with whom we share it. NobelCom.com may be required by law to share such information in response to legal process, such as a court order or subpoena.</p>
 	    			<br>
 	    		
 	    		
