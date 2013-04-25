@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the b4tea.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024031405id_/http%3A//b4tea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b4tea.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425115221id_/http%3A//b4tea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | B4Tea.com
 
 **Privacy Policy**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [**contact us**.](https://web.archive.org/contact-us)
+If you require any more information or have any questions about our privacy policy, please feel free to [**contact us**.](http://b4tea.com/contact-us/)
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected and how it is used.
 
