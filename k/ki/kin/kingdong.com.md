@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingdong.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030194005id_/http%3A//service.muffia.com/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingdong.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425022752id_/http%3A//service.muffia.com/docs/privacy.htm) for the most accurate reproduction.*
 
 # None
 
