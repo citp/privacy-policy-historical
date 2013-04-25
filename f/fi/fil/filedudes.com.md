@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filedudes.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015185325id_/http%3A//www.filedudes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filedudes.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425194419id_/http%3A//www.filedudes.com/privacy) for the most accurate reproduction.*
 
 # FileDudes: Privacy Statement for FileDudes.com
 
@@ -8,7 +8,7 @@ FileDudes.com has created this privacy statement in order to demonstrate our fir
 The server stores your host, your operating system, your browser, and referring page in the server's log file when you access filedudes.com. This information is stored, by default, by most websites. We do not use this information to track individual users; these log files are analyzed by statistical packages to determine trends in visitor patterns, such as which pages are most popular and which referrers send the most visitors. Your host name is used only to determine statistics about the site's percentages of traffic from various countries. 
 
 **Cookies and Web Beacons**  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not use cookies on this site. Some of our advertisers use cookies on this site. But We have no access to or control over these cookies. They use cookies to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+A cookie is a small text file that is stored on a user�s computer for record-keeping purposes. We do not use cookies on this site. Some of our advertisers use cookies on this site. But We have no access to or control over these cookies. They use cookies to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 **Personal Information**  
 This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
