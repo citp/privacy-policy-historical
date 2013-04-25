@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solodev.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002202036id_/http%3A//www.solodev.com/web-company/privacy.stml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solodev.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425143921id_/http%3A//www.solodev.com/web-company/privacy.stml) for the most accurate reproduction.*
 
 # Privacy Policy - Boston, Washington DC, Orlando
 
