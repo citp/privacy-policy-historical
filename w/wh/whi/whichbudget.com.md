@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whichbudget.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606185847id_/http%3A//www.whichbudget.com/blog/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichbudget.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425110543id_/http%3A//www.whichbudget.com/blog/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,5 +55,5 @@ By submitting Your information You consent to the use of that information as set
 We welcome Your views about our website and our privacy policy. If You would like to contact Us with any queries or comments please use the [contact us](https://web.archive.org/contact.html) form. 
 
 
-[< Prev](https://web.archive.org/blog/en/terms-of-use) |    |  [Next >](https://web.archive.org/blog/en/whichbudget)  
+[< Prev](https://web.archive.org/blog/en/terms-of-use) |    |  [Next >](https://web.archive.org/blog/en/privacy-policy/1311-whichbudgets-10th-birthday-win-a-weeks-accommodation-in-the-south-of-france)  
 ---|---|---
