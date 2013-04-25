@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutprojectors.com privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815160413id_/http%3A//www.aboutprojectors.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutprojectors.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425114033id_/http%3A//www.aboutprojectors.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy at About Projectors
 
