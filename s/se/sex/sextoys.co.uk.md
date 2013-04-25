@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextoys.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015004033id_/http%3A//www.sextoys.co.uk/customer_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoys.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425054124id_/http%3A//www.sextoys.co.uk/customer_info/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Save on Adult Toys at SexToys.co.uk
+# Privacy Policy - SexToys.co.uk
 
 We will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below). We will keep it on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation.
 
