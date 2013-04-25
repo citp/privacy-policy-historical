@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031200146id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425185917id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
@@ -56,13 +56,13 @@ Diffen uses third-party advertising companies (such as Google AdSense and Infoli
 
 
 
-Other third parties whose resources are requested by web pages on Diffen include Twitter, Facebook, Google Plus and AddThis. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/ "http://techcrunch.com/2012/06/13/facebook-exchange/") and build a profile. 
+Other third parties whose resources are requested by web pages on Diffen include OwnerIQ (for a browser tracking beacon used for retargeting ads, from which users can [opt out here](http://www.owneriq.com/opt-out.php "http://www.owneriq.com/opt-out.php")), Twitter, Facebook, Google Plus and AddThis. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/ "http://techcrunch.com/2012/06/13/facebook-exchange/") and build a profile. 
 
 Diffen's content delivery network (CDN), such as CloudFlare, may also set cookies. 
 
 The list of third parties identified in this privacy policy is not exhaustive. Diffen reserves the right to work with any third party services, which may or may not use cookies. 
 
-You can choose to disable cookies from Diffen or selectively from any of the third parties or advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable Diffen.com cookies, you will be unable to log in to the website or use the chat feature but will still be able to use a lot of the site's functionality. 
+You can choose to disable cookies from Diffen or selectively from any of the third parties or advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable Diffen.com cookies, you will be unable to log in to the website but will still be able to use a lot of the site's functionality. 
 
 **Passwords**
 
