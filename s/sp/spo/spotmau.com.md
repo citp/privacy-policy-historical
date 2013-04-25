@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotmau.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023025254id_/http%3A//www.spotmau.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotmau.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425081116id_/http%3A//www.spotmau.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # Spotmau.com - Computer Service
 
@@ -71,3 +71,7 @@ This Privacy Policy may be revised by us from time to time. If we decide to chan
 ##### Contact Spotmau
 
 We are committed to protecting the privacy of the information you provide to us. If you have any comments, questions or complaints regarding our privacy policy or your information, Please contact us at [help@spotmau.com](mailto:help@spotmau.com). Most enquiries are dealt with in a day or two, but please allow a few weeks in exceptional circumstances.
+
+##### Choice and Opt-Out
+
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [help@spotmau.com](mailto:help@spotmau.com).
