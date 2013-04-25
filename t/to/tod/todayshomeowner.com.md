@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005024117id_/http%3A//www.dannylipford.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425085707id_/http%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Danny Lipford
+# Privacy Policy | Today's Homeowner
 
 ### www.todayshomeowner.com
 
 _Last Updated: September 2012_
 
-Welcome to the Today’s Homeowner with Danny Lipford website, located at www.todayshomeowner.com (the “Website”) and operated by Remodeling Today, Inc. (“Remodeling Today”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how Remodeling Today collects and uses your personally identifiable information (“PII”) and other information in operating the Website./p>
+Welcome to the Today’s Homeowner with Danny Lipford website, located at www.todayshomeowner.com (the “Website”) and operated by Remodeling Today, Inc. (“Remodeling Today”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how Remodeling Today collects and uses your personally identifiable information (“PII”) and other information in operating the Website.
 
 **How does the Website Work?**
 
