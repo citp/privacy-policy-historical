@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evaphone.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120040429id_/https%3A//www.evaphone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaphone.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425160014id_/https%3A//www.evaphone.com/privacy) for the most accurate reproduction.*
 
 # Free Call - Free International Calls & Free VoIP Service. Internet phone calls - Cheap VoIP, cheap online calls to phone over Internet telephony.
 
