@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the pse.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015124342id_/http%3A//pse.com/Pages/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pse.com privacy policy that was archived on 2013-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425091459id_/http%3A//pse.com/Pages/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="X-UA-Compatible" content="IE=8">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" __expr-val-dir="ltr" lang="en-us" dir="ltr" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta name="viewport" content="width=device-width"><meta name="format-detection" content="telephone=no">
 
 	<!-- robots -->
 	
@@ -14,12 +14,20 @@
 </title>
 	
 	
+	<!--[if lt IE 9]>
+		<script>
+			document.createElement();
+		</script>
+	<![endif]-->
+	
+	
 	<!-- all OOTB css -->
 	<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls.css">
 <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/Menu.css?rev=yPVeKt0FHzxA%2FW4JR0hJng%3D%3D">
 <link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/page-layouts-21.css">
 <link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/rca.css">
 <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/search.css?rev=Uoc0fsLIo87aYwT%2FGX5UPw%3D%3D">
+<link id="CssRegistrationSelfService" rel="stylesheet" type="text/css" href="/Style%20Library/PSECom/SelfService.css">
 <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=iIikGkMuXBs8CWzKDAyjsQ%3D%3D">
 
 	
@@ -101,16 +109,29 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
    	
         <!-- PSE specific styles and scripts -->
     <link type="text/css" href="/Style%20Library/PSECom/puget.css" rel="stylesheet"><link type="text/css" href="/Style%20Library/PSECom/pugetnav.css" rel="stylesheet"><link type="text/css" href="/Style%20Library/PSECom/pugetcontent.css" rel="stylesheet">
+
+    <!-- JQuery UI styles -->
+    <link type="text/css" href="/_layouts/PSECom/jquery-ui/css/smoothness/jquery-ui.css" rel="stylesheet">
 	
+	<script type="text/javascript" src="/_layouts/PSEcom/Scripts/json2.js"></script>
 	<script type="text/javascript" src="/_layouts/PSEcom/Scripts/puget.js"></script>
 	<script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.min.js"></script>
     <script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.carousel.js"></script>
     <script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.maskedinput-1.3.min.js"></script>
     <script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.collapser.js"></script>
     <script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.query.js"></script>
-	<script type="text/javascript" src="/_layouts/PSEcom/Scripts/redirect.js"></script>
+    <script type="text/javascript" src="/_layouts/PSECom/jquery-ui/js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/_layouts/PSEcom/Scripts/print.js"></script>
     <script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.print.js"></script>
+    <!--Validate -->
+    <script type="text/javascript" src="/_layouts/PSEcom/Scripts/jquery.validate.js"></script>
+
+
+    <!--Sorting -->
+    <script type="text/javascript" src="/_layouts/PSECom/Scripts/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="/_layouts/PSECom/Scripts/css3-mediaqueries.js"></script>
+
 
     
      <style type="text/css">
@@ -133,8 +154,8 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
     </script>
     <!-- end Google Analytics script -->
 
-    <!-- disable enter key press -->
     <script type="text/javascript">
+        
         function stopRKey(evt) {
             var evt = (evt) ? evt : ((event) ? event : null);
             var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
@@ -142,14 +163,50 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
         }
 
         document.onkeypress = stopRKey;
-    </script> 
+
+        
+        Sys.Browser = {};
+        Sys.Browser.InternetExplorer = {};
+        Sys.Browser.Firefox = {};
+        Sys.Browser.WebKit = {}; //Safari 3 is considered WebKit
+        Sys.Browser.Safari = {};
+        Sys.Browser.Opera = {};
+        Sys.Browser.agent = null;
+        Sys.Browser.hasDebuggerStatement = false;
+        Sys.Browser.name = navigator.appName;
+        Sys.Browser.version = parseFloat(navigator.appVersion);
+        if (navigator.userAgent.indexOf(' MSIE ') > -1) {
+            Sys.Browser.agent = Sys.Browser.InternetExplorer;
+            Sys.Browser.version = parseFloat(navigator.userAgent.match(/MSIE (\d+\.\d+)/)[1]);
+            Sys.Browser.hasDebuggerStatement = true;
+        }
+        else if (navigator.userAgent.indexOf(' Firefox/') > -1) {
+            Sys.Browser.agent = Sys.Browser.Firefox;
+            Sys.Browser.version = parseFloat(navigator.userAgent.match(/ Firefox\/(\d+\.\d+)/)[1]);
+            Sys.Browser.name = 'Firefox';
+            Sys.Browser.hasDebuggerStatement = true;
+        }
+        else if (navigator.userAgent.indexOf('WebKit/') > -1) {
+            Sys.Browser.agent = Sys.Browser.WebKit;
+            Sys.Browser.version = parseFloat(navigator.userAgent.match(/WebKit\/(\d+(\.\d+)?)/)[1]);
+            Sys.Browser.name = 'WebKit';
+        }
+        else if (navigator.userAgent.indexOf(' Safari/') > -1) {
+            Sys.Browser.agent = Sys.Browser.Safari;
+            Sys.Browser.version = parseFloat(navigator.userAgent.match(/ Safari\/(\d+(\.\d+)?)/)[1]);
+            Sys.Browser.name = 'Safari';
+        }
+        else if (navigator.userAgent.indexOf('Opera/') > -1) {
+            Sys.Browser.agent = Sys.Browser.Opera;
+        }
+    </script>
 <style type="text/css">
 	.ctl00_wpz_0 { border-color:Black;border-width:1px;border-style:Solid; }
 
 </style><script type="text/javascript" src="/_layouts/1033/core.js?rev=4oHgWSB%2B%2Bj9DsKT0gMF4TQ%3D%3D"></script><script type="text/javascript" src="/_layouts/sp.core.js?rev=7ByNlH%2BvcgRJg%2BRCctdC0w%3D%3D"></script><script type="text/javascript" src="/_layouts/ScriptResx.ashx?culture=en%2Dus&amp;name=SP%2ERes&amp;rev=b6%2FcRx1a6orhAQ%2FcF%2B0ytQ%3D%3D"></script><script type="text/javascript" src="/_layouts/cui.js?rev=wvoVpqlQb30nGo4DjDk8Kg%3D%3D"></script><script type="text/javascript" src="/_layouts/search.js?rev=3pPWp493ZcP8RyBeS4aKSQ%3D%3D"></script></head>
 
 <body onload="javascript:_spBodyOnLoadWrapper();" class="v4master pageBody">
-    <form name="aspnetForm" method="post" action="/web/20121015124342id_/http%3A//pse.com/Pages/privacy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="/web/20130425091459id_/http%3A//pse.com/Pages/privacy.aspx" id="aspnetForm">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
 <input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
@@ -157,7 +214,7 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x22C546F4F22795CF2D77975DE141B4B8A4EB3DCB371F8074B346BD952EB7498BEAE46A09925D8782FF7541ABCD2DE44CC0E88666856E5971880722CFBE5453AB,15 Oct 2012 12:43:42 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x5A0399B8DD6A8F3BB6F8B007E5652E2FF03927E54EAB1CC9F6EF6FD884C590307E34A218E8FEFE336A07C7CF811499FE29263D2077DED71699CA1904D381D473,25 Apr 2013 09:15:00 -0000">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
 <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
@@ -168,7 +225,7 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
 <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
 <input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINDExNzIwMzYPZBYCZg9kFgICAQ9kFgQCAQ9kFgQCBg9kFgJmD2QWAgIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE0LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAITD2QWAgIHDxYCHwALKwQBZAIDD2QWBAIJD2QWAgIBD2QWBGYPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYIHhNDbGllbnRPbkNsaWNrU2NyaXB0BWVqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCAxMDAwMCwgJ2h0dHA6XHUwMDJmXHUwMDJmcHNlLmNvbScsIC0xLCAtMSwgJycsICcnKR4YQ2xpZW50T25DbGlja05hdmlnYXRlVXJsZB4oQ2xpZW50T25DbGlja1NjcmlwdENvbnRhaW5pbmdQcmVmaXhlZFVybGQeDEhpZGRlblNjcmlwdAUlVGFrZU9mZmxpbmVEaXNhYmxlZCgxLCAxMDAwMCwgLTEsIC0xKWQCBQ8WAh8BaGQCAw8PFgoeCUFjY2Vzc0tleQUBLx4PQXJyb3dJbWFnZVdpZHRoAgUeEEFycm93SW1hZ2VIZWlnaHQCAx4RQXJyb3dJbWFnZU9mZnNldFhmHhFBcnJvd0ltYWdlT2Zmc2V0WQLrA2RkAgEPZBYEAgUPZBYCAgEPEBYCHwFoZBQrAQBkAgcPZBYCZg9kFgJmDxQrAANkZGRkAgsPZBYIAgoPZBYCAgMPZBYCAgEPFgIfAAsrBAFkAg4PFgIfAAsrBAFkAhAPZBYCAgMPZBYCAgMPFgIfAAsrBAFkAhIPZBYCZg9kFgJmDw9kFgYeBWNsYXNzBSJzZWFyY2gtYm94IG1zLXNidGFibGUtZXggczQtc2VhcmNoHgtjZWxscGFkZGluZwUBMB4LY2VsbHNwYWNpbmcFATBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRFjdGwwMCRsb2dpbiRjdGwxNwwW0seI+7X7rzddiBXbZLa0LQcH">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINDExNzIwMzYPZBYCZg9kFgICAQ9kFgQCAQ9kFgQCCA9kFgJmD2QWAgIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE0LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIVD2QWAgIHDxYCHwALKwQBZAIDD2QWBAIJD2QWAgIBD2QWBGYPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYIHhNDbGllbnRPbkNsaWNrU2NyaXB0BWVqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCAxMDAwMCwgJ2h0dHA6XHUwMDJmXHUwMDJmcHNlLmNvbScsIC0xLCAtMSwgJycsICcnKR4YQ2xpZW50T25DbGlja05hdmlnYXRlVXJsZB4oQ2xpZW50T25DbGlja1NjcmlwdENvbnRhaW5pbmdQcmVmaXhlZFVybGQeDEhpZGRlblNjcmlwdAUlVGFrZU9mZmxpbmVEaXNhYmxlZCgxLCAxMDAwMCwgLTEsIC0xKWQCBQ8WAh8BaGQCAw8PFgoeCUFjY2Vzc0tleQUBLx4PQXJyb3dJbWFnZVdpZHRoAgUeEEFycm93SW1hZ2VIZWlnaHQCAx4RQXJyb3dJbWFnZU9mZnNldFhmHhFBcnJvd0ltYWdlT2Zmc2V0WQLrA2RkAgEPZBYEAgUPZBYCAgEPEBYCHwFoZBQrAQBkAgcPZBYCZg9kFgJmDxQrAANkZGRkAgsPZBYKAgYPZBYCAgIPDxYCHwFoZGQCCA9kFgJmD2QWAmYPD2QWBh4FY2xhc3MFInNlYXJjaC1ib3ggbXMtc2J0YWJsZS1leCBzNC1zZWFyY2geC2NlbGxwYWRkaW5nBQEwHgtjZWxsc3BhY2luZwUBMGQCEA9kFgICAw9kFgICAQ8WAh8ACysEAWQCFA8WAh8ACysEAWQCFg9kFgICAw9kFgICAw8WAh8ACysEAWRk8fEUiU2RvSUMHQdOZh6TnRm9fqQ=">
 
 
 <script type="text/javascript">
@@ -202,7 +259,7 @@ document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){remo
 if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKHyvT/DwKatL6iBgLDrdL5CwLPscPMDALKscPMDALJscPMDMrmr42QDm8/f/84+ta+r+uOcRhs">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKgrLGgCwKE3IymAwKf1M/ACwL25NrzAgK5spnVBeSwy9v2RR4q5WAsWmxijoujkXnl">
     
     
     <!-- handles SharePoint scripts -->
@@ -240,8 +297,169 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 	
         <div id="page">
             <!-- pageLeft -->
-            <div id="pageLeft">
+
                 <div id="pageHeader">
+
+	                <div id="divAccountSelection">
+		                
+
+<div id="AccountContainer">
+    <div id="ctl00_AccountSelection_accountUP">
+	
+            <div id="AccountPopUpDetail" class="AccountPopUpDetail">
+                
+                <div id="AccountPopUpPanel" class="AccountPopUpPanel">
+                    
+                    <div id="ctl00_AccountSelection_accountpopuppanel">
+		
+                    
+	</div>
+                    
+                </div>
+            </div>
+        
+</div>
+</div>
+<script type="text/javascript">
+   
+   //Needed when SPcurrentUSer is empty to redirect
+   // $(document).ready(function () {
+       ValidateWelcome('');
+ //    }); 
+    
+
+    function popEmailValidator() {
+        ExecuteOrDelayUntilScriptLoaded(popPaperLessBillDialogWithParams, "sp.ui.dialog.js");
+        }
+
+    function popEmailValidatorDialogWithLRParams() {
+        popupEmailValidatorDialog('https://www.energyguidedev.com/ibp/signout.aspx?referrerid=73', '', '');
+    }
+
+    function popupEmailValidatorDialog(pageUrl, cName, cValue) {
+        SP.UI.ModalDialog.showModalDialog({
+            url: pageUrl,
+            title: ' ',
+            width:250,
+            height:250,
+            showClose: true,
+            allowMaximize: false
+        });
+
+        $('.ms-dlgTitle').css('background', '#ffffff');
+    }
+
+    function continueExecution(url) {
+            window.location.href = url;
+    
+        return;
+    }
+
+
+    function ValidateWelcome(redirectUrl) {
+        //do not do for SIgn In
+       // alert(redirectUrl);
+        if (($('div.divLoginRegisterLink') != 'undefined') && ($('div.divLoginRegisterLink:contains("Sign In")').length > 0))
+            return;
+
+        //Not foumnd and url is not empty   and verifying on clientside no QS
+        if (($('span.welcome') != 'undefined') && ($('span.welcome').length < 1) && (redirectUrl != '') && (location.search.indexOf('cu=') < 0)) {
+            setTimeout(continueExecution(redirectUrl), 1000); //wait one second before continuing
+        }
+
+    }
+</script>
+
+		                
+
+<div id="ctl00_LoginRegisterLink_pnlLoginRegisterLinks" class="divLoginRegisterLinks">
+	
+    <div class="divLoginRegisterLink">
+        <a onclick="popLoginRegister(); return false;" id="ctl00_LoginRegisterLink_btnPopLogin" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$LoginRegisterLink$btnPopLogin", "", true, "", "", false, true))'>Sign In</a>
+    </div>
+    <span class="headerSeperator">|</span>
+    <div class="divLoginRegisterLink">
+        <a onclick="popRegister(); return false;" id="ctl00_LoginRegisterLink_btnPopRegister" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$LoginRegisterLink$btnPopRegister", "", true, "", "", false, true))'>Create Account</a>
+    </div>
+
+</div>
+
+<script type="text/javascript" src="/_layouts/PSECom/WebParts/LoginRegister.js"></script>
+<script type="text/javascript">
+    function popLoginRegister() {
+        window.location.href = "https://pse.com/Pages/Login.aspx?lp=" + window.location.href;
+        //ExecuteOrDelayUntilScriptLoaded(popDialogWithLRParams, "sp.ui.dialog.js");
+    }
+
+    function popDialogWithLRParams() {
+        popupLoginRegisterDialog('https://pse.com/Pages/LoginRegister.aspx', '');
+    }
+
+    function popRegister() {
+        window.location.href = "https://pse.com/Pages/Register.aspx?lp=" + window.location.href;
+        //ExecuteOrDelayUntilScriptLoaded(popDialogWithRegParams, "sp.ui.dialog.js");
+    }
+
+    function popDialogWithRegParams() {
+        popupLoginRegisterDialog('https://pse.com/Pages/LoginRegister.aspx?m=r', '');
+    }
+
+    function popLoginRegisterWithRedirectParams() {
+        ExecuteOrDelayUntilScriptLoaded(popDialogWithRedirectParams, "sp.ui.dialog.js");
+    }
+
+    function popDialogWithRedirectParams() {
+        popupLoginRegisterDialog('https://pse.com/Pages/LoginRegister.aspx' + window.location.search, '');
+    }
+
+    function popDialogWithRedirectParams_RedirectOnUserClose(homeURL) {
+        ExecuteOrDelayUntilScriptLoaded(function () { popupLoginRegisterDialog('https://pse.com/Pages/LoginRegister.aspx' + window.location.search, function () { window.location.href = homeURL; }); }, "sp.ui.dialog.js");
+    }
+
+    function popDialogWithRegParams_RedirectOnUserClose(homeURL) {
+        ExecuteOrDelayUntilScriptLoaded(function () { popupLoginRegisterDialog('https://pse.com/Pages/LoginRegister.aspx?m=r', function () { window.location.href = homeURL; }); }, "sp.ui.dialog.js");
+    }
+
+    function popupLoginRegisterDialog(pageUrl, callback) {
+        var dims = getAdjustedDimensions(625, 260);
+        var options = {
+            url: pageUrl,
+            title: ' ',
+            width: dims[0],
+            height: dims[1],
+            showClose: true,
+            allowMaximize: false,
+            dialogReturnValueCallback: callback
+        };
+        SP.UI.ModalDialog.showModalDialog(options);
+        $('.ms-dlgTitle').css('background', '#ffffff');
+        $('.ms-dlgCloseBtn .s4-clust').css('width', '13px');
+        $('.ms-dlgCloseBtn .s4-clust').css('height', '13px');
+        $('.ms-dlgCloseBtn .s4-clust .ms-dlgCloseBtnImg').removeAttr('style');
+        $('.ms-dlgCloseBtn .s4-clust .ms-dlgCloseBtnImg').attr('src', '/_layouts/images/PSE.PSECom.SelfService/modal_x.png');
+    }
+</script>
+
+	                </div>
+
+				    <br clear="all">
+
+				    <div id="divSearch" class="divSearch">
+					    <div class="divSearchField">
+						    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" width="100%" onlyformepart="true" allowdelete="false" style=""><div id="SRSB"> <div>
+			<table class="search-box ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr class="ms-sbrow">
+					<td class="ms-sbcell"><input name="InputKeywords" type="text" value="Search..." maxlength="200" id="ctl00_ctl33_S52EF3DB0_InputKeywords" accesskey="S" title="Search..." class="ms-sbplain s4-searchbox-QueryPrompt" alt="Search..." onkeypress="javascript: return S52EF3DB0_OSBEK(event);" onfocus="if (document.getElementById('ctl00_ctl33_ctl03').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_ctl33_ctl03').value=1;}" onblur="if (this.value =='') {this.value='Search...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_ctl33_ctl03').value = '0'} else {document.getElementById('ctl00_ctl33_ctl03').value='1';}" style="width:315px;"></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_ctl33_S52EF3DB0_go" title="Search" href="javascript:S52EF3DB0_Submit()"><img title="Search" onmouseover="this.src='\u002fStyle Library\u002fPSEcom\u002fImages\u002fmagnifyingglass.gif'" onmouseout="this.src='\u002fStyle Library\u002fPSEcom\u002fImages\u002fmagnifyingglass.gif'" class="srch-gosearchimg" alt="Search" src="/Style%20Library/PSEcom/Images/magnifyingglass.gif" border="0"></a></td><td class="ms-sbLastcell"></td>
+				</tr>
+			</tbody></table><input name="ctl00$ctl33$ctl03" type="hidden" id="ctl00_ctl33_ctl03" value="0">
+		</div></div></div></td>
+	</tr>
+</tbody></table>
+					    </div>
+				    </div>
+				            
                     <div id="pageHeaderLogo" class="noindex"><a href="/"><img src="/SiteCollectionImages/puget_sound_energy_logo.jpg" alt="Puget Sound Energy" border="0"></a></div><div id="pageHeaderLinks"><span class="headerSeperator">|</span><div class="divContactUs noindex"><a href="/Pages/contact-us.aspx">Contact Us</a></div><div id="printHeaderLinks" class="divPrint noindex"><span class="headerSeperator">|</span><a href="../_CONTROLTEMPLATES/PSECom/#">Print</a></div><span class="headerSeperator">|</span><a href="/">Home</a></div>
 
                    	<!-- "add this" social network control -->
@@ -256,10 +474,121 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 </div>
 <!-- AddThis Button END -->
 
+                 
+                                       
+                    <div id="globalNavDiv"> 
+                        <img border="0" src="/_layouts/PSECom/Images/mobile_global_nav_button.png" onclick="toggleTopNav()" id="imgGlobalNav" class="topNavBtn">
+		            </div>
+				            
+				    <br clear="all">
+				            
+                    <center>
+	                    <div id="divMobileSearch" class="divSearch"></div>
+    	            </center>
+    	                               
+                    <br clear="all">
 
                     <!-- custom site navigation control -->
-    	            <div id="topNavControl" class="noindex"><ul id="topMenuList"><li><a href="/accountsandservices/Pages/default.aspx">Accounts &amp; Services</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/accountsandservices/YourAccount/Pages/default.aspx">Your Account</a></li><li><a href="/accountsandservices/YourAccount/Pages/Online-Services.aspx">Online Services</a></li><li><a href="/accountsandservices/YourAccount/Pages/Account-Inquiry.aspx">Account Inquiry</a></li><li><a href="/accountsandservices/YourAccount/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/YourBill/Pages/default.aspx">Your Bill</a></li><li><a href="/accountsandservices/YourBill/Pages/Understand-Your-Bill.aspx">Understand Your Bill</a></li><li><a href="/accountsandservices/YourBill/Pages/Ways-to-Pay.aspx">Ways to Pay</a></li><li><a href="/accountsandservices/YourBill/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/NewToPSE/Pages/default.aspx">New To PSE</a></li><li><a href="/accountsandservices/NewToPSE/Pages/Welcome.aspx">Welcome</a></li><li><a href="/accountsandservices/NewToPSE/Pages/Start-Service.aspx">Start Service</a></li><li><a href="/accountsandservices/NewToPSE/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/PropertyManagers/Pages/default.aspx">Property Managers</a></li><li><a href="/accountsandservices/PropertyManagers/Pages/Property-Managers.aspx">Management Agreement</a></li><li><a href="/accountsandservices/PropertyManagers/Pages/Multifamily-Service.aspx">Multi-family Service</a></li><li><a href="/accountsandservices/PropertyManagers/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/accountsandservices/Construction/Pages/default.aspx">Construction</a></li><li><a href="/accountsandservices/Construction/Pages/Get-Started.aspx">Get Started</a></li><li><a href="/accountsandservices/Construction/Pages/Contact-Us-Online.aspx">Contact Us Online</a></li><li><a href="/accountsandservices/Construction/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/transmissionServices/Pages/default.aspx">Transmission</a></li><li><a href="/accountsandservices/transmissionServices/Pages/Customer-Instructions.aspx">Customer Instructions</a></li><li><a href="/accountsandservices/transmissionServices/Pages/Obtaining-Services.aspx">Obtaining Services</a></li></ul><ul><li><a href="/accountsandservices/ServiceAlert/Pages/default.aspx">Service Alert</a></li><li><a href="/accountsandservices/ServiceAlert/Pages/Real-time-Updates.aspx">Real-time Updates</a></li><li><a href="/accountsandservices/ServiceAlert/Pages/Report-an-Outage.aspx">Report an Outage</a></li><li><a href="/accountsandservices/ServiceAlert/Pages/default.aspx">More</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/safety/Pages/default.aspx">Safety</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/safety/ElectricSafety/Pages/default.aspx">Electric Safety</a></li><li><a href="/safety/ElectricSafety/Pages/Electric-Safety-Tips.aspx">Electric Safety Tips</a></li><li><a href="/safety/ElectricSafety/Pages/Downed-Power-Lines.aspx">Downed Power Lines</a></li><li><a href="/safety/ElectricSafety/Pages/default.aspx">More</a></li></ul><ul><li><a href="/safety/NaturalGasSafety/Pages/default.aspx">Natural Gas Safety</a></li><li><a href="/safety/NaturalGasSafety/Pages/Gas-Safety-Tips.aspx">Gas Safety Tips</a></li><li><a href="/safety/NaturalGasSafety/Pages/Detect-a-Leak.aspx">Detect a Leak</a></li><li><a href="/safety/NaturalGasSafety/Pages/default.aspx">More</a></li></ul><ul><li><a href="/safety/GetPrepared/Pages/default.aspx">Get Prepared</a></li><li><a href="/safety/GetPrepared/Pages/Have-a-Plan.aspx">Have a Plan</a></li><li><a href="/safety/GetPrepared/Pages/Create-a-Kit.aspx">Create a Kit</a></li><li><a href="/safety/GetPrepared/Pages/default.aspx">More</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/savingsandenergycenter/Pages/default.aspx">Savings &amp; Energy Center</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/GetReEnergized/Pages/default.aspx">Tips, Tools &amp; Ideas</a></li><li><a href="/savingsandenergycenter/GetReEnergized/Pages/Ask-an-Energy-Advisor.aspx">Ask an Energy Advisor</a></li><li><a href="/savingsandenergycenter/ForHomes/Pages/Rebates-and-Offers.aspx">Rebates &amp; Offers</a></li><li><a href="/savingsandenergycenter/GetReEnergized/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForHomes/Pages/default.aspx">For Homes</a></li><li><a href="/savingsandenergycenter/ForHomes/Pages/Rebates-and-Offers.aspx">Rebates &amp; Offers</a></li><li><a href="/savingsandenergycenter/GetReEnergized/Pages/Ask-an-Energy-Advisor.aspx">Ask an Energy Advisor</a></li><li><a href="/savingsandenergycenter/ForHomes/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForCondosApartments/Pages/default.aspx">For Condos &amp; Apts</a></li><li><a href="/savingsandenergycenter/ForCondosApartments/Pages/For-Property-Owners.aspx">Property Owners of Complexes with 5+ Attached Units</a></li><li><a href="/savingsandenergycenter/ForCondosApartments/Pages/For-Condo-Owners.aspx">Condo Owners in Buildings with 5+ Attached Units</a></li><li><a href="/savingsandenergycenter/ForCondosApartments/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">For Businesses</a></li><li><a href="/savingsandenergycenter/ForBusinesses/Pages/Multi-building-Owners.aspx">Building Owners</a></li><li><a href="/savingsandenergycenter/ForBusinesses/Pages/Other-Small-Businesses.aspx">Small Business Owners</a></li><li><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/ForCommunities/Pages/default.aspx">For Communities</a></li><li><a href="/savingsandenergycenter/ForCommunities/Pages/Rock-the-Bulb-The-Re-Energize-Tour.aspx">Rock the Bulb</a></li><li><a href="/savingsandenergycenter/ForCommunities/Pages/Pledge.aspx">Take the Pledge</a></li><li><a href="/savingsandenergycenter/ForCommunities/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForSchools/Pages/default.aspx">For Schools</a></li><li><a href="/savingsandenergycenter/ForSchools/Pages/Energy-Efficiency-for-Schools.aspx">Energy-Efficiency Incentives</a></li><li><a href="/savingsandenergycenter/ForSchools/Pages/Renewable-Schools.aspx">Renewable Education</a></li><li><a href="/savingsandenergycenter/ForSchools/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx">Green Power</a></li><li><a href="/savingsandenergycenter/GreenPower/Pages/About-the-Program.aspx">About the Program</a></li><li><a href="/savingsandenergycenter/GreenPower/Pages/For-Homes.aspx">Sign Up Your Home</a></li><li><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/CarbonBalance/Pages/default.aspx">Carbon Balance</a></li><li><a href="/savingsandenergycenter/CarbonBalance/Pages/About-Carbon-Balance.aspx">About the Program</a></li><li><a href="/savingsandenergycenter/CarbonBalance/Pages/Sign-Up-Your-Home.aspx">Sign Up Your Home</a></li><li><a href="/savingsandenergycenter/CarbonBalance/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/Renewables/Pages/default.aspx">Renewables</a></li><li><a href="/savingsandenergycenter/Renewables/Pages/Net-Metering.aspx">Net Metering</a></li><li><a href="/savingsandenergycenter/Renewables/Pages/Renewable-Energy-Advantage.aspx">REAP: Renewable Energy Advantage</a></li><li><a href="/savingsandenergycenter/Renewables/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/NewConstruction/Pages/default.aspx">New Construction</a></li><li><a href="/savingsandenergycenter/NewConstruction/Pages/Single-family-Projects.aspx">Single-Family Incentives</a></li><li><a href="/savingsandenergycenter/NewConstruction/Pages/Multifamily-Projects.aspx">Multifamily Incentives</a></li><li><a href="/savingsandenergycenter/NewConstruction/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForTradeAllies/Pages/default.aspx">For Trade Allies</a></li><li><a href="/savingsandenergycenter/ForTradeAllies/Pages/CANMembers.aspx">CAN Member Sign In</a></li><li><a href="/savingsandenergycenter/ForTradeAllies/Pages/CANMemberApplication.aspx">CAN Member Application</a></li></ul><ul><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/default.aspx">Vehicles</a></li><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/Electric-Vehicles.aspx">Electric Vehicles</a></li><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/Natural-Gas-Vehicles.aspx">Natural Gas Vehicles</a></li><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/AboutReEnergize/Pages/default.aspx">About Re-Energize</a></li><li><a href="/savingsandenergycenter/AboutReEnergize/Pages/default.aspx">Energy Efficiency and Renewables at PSE</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/inyourcommunity/Pages/default.aspx">In Your Community</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/island/Pages/default.aspx">Island</a></li><li><a href="/inyourcommunity/island/Pages/Island-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/island/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/island/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/jefferson/Pages/default.aspx">Jefferson</a></li><li><a href="/inyourcommunity/jefferson/Pages/Jefferson-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/jefferson/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/jefferson/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/king/Pages/default.aspx">King</a></li><li><a href="/inyourcommunity/king/Pages/King-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/king/ConstructionProjects/Pages/PSE-Major-Construction-Projects.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/king/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/kitsap/Pages/default.aspx">Kitsap</a></li><li><a href="/inyourcommunity/kitsap/Pages/Kitsap-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/kitsap/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/kitsap/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/kittitas/Pages/default.aspx">Kittitas</a></li><li><a href="/inyourcommunity/kittitas/Pages/Kittitas-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/kittitas/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/kittitas/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/lewis/Pages/default.aspx">Lewis</a></li><li><a href="/inyourcommunity/lewis/Pages/Lewis-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/lewis/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/lewis/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/pierce/Pages/default.aspx">Pierce</a></li><li><a href="/inyourcommunity/pierce/Pages/Pierce-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/pierce/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/pierce/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/skagit/Pages/default.aspx">Skagit</a></li><li><a href="/inyourcommunity/skagit/Pages/Skagit-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/skagit/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/skagit/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/snohomish/Pages/default.aspx">Snohomish</a></li><li><a href="/inyourcommunity/snohomish/Pages/Snohomish-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/snohomish/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/snohomish/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/thurston/Pages/default.aspx">Thurston</a></li><li><a href="/inyourcommunity/thurston/Pages/Thurston-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/thurston/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/thurston/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/whatcom/Pages/default.aspx">Whatcom</a></li><li><a href="/inyourcommunity/whatcom/Pages/Whatcom-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/whatcom/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/whatcom/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/sewashington/Pages/default.aspx">Southeast Wash.</a></li><li><a href="/inyourcommunity/sewashington/Pages/Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/sewashington/Pages/Lower-Snake-River.aspx">Lower Snake River Wind</a></li><li><a href="/inyourcommunity/sewashington/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/southernwashington/Pages/default.aspx">Southern Wash.</a></li><li><a href="/inyourcommunity/southernwashington/Pages/SW-Wash-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/southernwashington/Pages/Southern-Wash-PSE-Cares.aspx">PSE Cares</a></li><li><a href="/inyourcommunity/southernwashington/Pages/default.aspx">More</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/aboutpse/Pages/default.aspx">About PSE</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/aboutpse/Careers/Pages/default.aspx">Careers</a></li><li><a href="/aboutpse/Careers/Pages/Open-Jobs.aspx">Open Jobs</a></li><li><a href="/aboutpse/Careers/Pages/Frequently-Asked-Questions.aspx">Job Application FAQ</a></li><li><a href="/aboutpse/Careers/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/CorporateInfo/Pages/default.aspx">Corporate Info</a></li><li><a href="/aboutpse/CorporateInfo/Pages/Leadership.aspx">Leadership</a></li><li><a href="/aboutpse/CorporateInfo/Pages/PSE-Primer.aspx">PSE Primer</a></li><li><a href="/aboutpse/CorporateInfo/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/EnergySupply/Pages/default.aspx">Energy Supply</a></li><li><a href="/aboutpse/EnergySupply/Pages/Acquiring-Energy.aspx">Acquiring Energy</a></li><li><a href="/aboutpse/EnergySupply/Pages/Resource-Planning.aspx">Resource Planning</a></li><li><a href="/aboutpse/EnergySupply/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/Environment/Pages/default.aspx">Environment</a></li><li><a href="/aboutpse/Environment/Pages/Green-Energy.aspx">Green Energy</a></li><li><a href="/aboutpse/Environment/Pages/Climate-Change.aspx">Climate Change</a></li><li><a href="/aboutpse/Environment/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/aboutpse/GivingBack/Pages/default.aspx">Giving Back</a></li><li><a href="/aboutpse/GivingBack/Pages/Team-PSE.aspx">Team PSE</a></li><li><a href="/aboutpse/GivingBack/Pages/Corporate-Giving.aspx">Corporate Giving</a></li><li><a href="/aboutpse/GivingBack/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/PseNewsroom/Pages/default.aspx">Newsroom</a></li><li><a href="/aboutpse/PseNewsroom/NewsReleases/Pages/default.aspx">News Releases</a></li><li><a href="/aboutpse/PseNewsroom/Pages/Media-Kit.aspx">Media Kit</a></li><li><a href="/aboutpse/PseNewsroom/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/Rates/Pages/default.aspx">Rates</a></li><li><a href="/aboutpse/Rates/Pages/Rates-News-and-Filings.aspx">Rates News &amp; Filings</a></li><li><a href="/aboutpse/Rates/Pages/Pending-Filings.aspx">Pending UTC Filings</a></li><li><a href="/aboutpse/Rates/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/SystemReliability/Pages/default.aspx">System Reliability</a></li><li><a href="/aboutpse/SystemReliability/Pages/Gas-Reliability.aspx">Gas Reliability</a></li><li><a href="/aboutpse/SystemReliability/Pages/Electric-Reliability.aspx">Electric Reliability</a></li><li><a href="/aboutpse/SystemReliability/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/aboutpse/ToursandRecreation/Pages/default.aspx">Tours &amp; Recreation</a></li><li><a href="/aboutpse/ToursandRecreation/WildHorse/Pages/default.aspx">Wild Horse</a></li><li><a href="/aboutpse/ToursandRecreation/Pages/Snoqualmie-Tours.aspx">Snoqualmie Falls</a></li><li><a href="/aboutpse/ToursandRecreation/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/VendorsSuppliers/Pages/default.aspx">Vendors/Suppliers</a></li><li><a href="/aboutpse/VendorsSuppliers/Pages/Supplier-Log-In.aspx">Supplier Log In</a></li><li><a href="/aboutpse/VendorsSuppliers/Pages/Supplier-FAQ.aspx">Supplier FAQ</a></li><li><a href="/aboutpse/VendorsSuppliers/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/HydroLicensing/Pages/default.aspx">Hydro Licensing</a></li><li><a href="/aboutpse/HydroLicensing/Pages/What-is-Hydro-Licensing.aspx">What is Hydro Licensing?</a></li><li><a href="/aboutpse/HydroLicensing/Pages/Baker-River-Licensing.aspx">Baker River Licensing</a></li><li><a href="/aboutpse/HydroLicensing/Pages/default.aspx">More</a></li></ul></div></div></li></ul></div>
+    	            <div id="topNavControl" class="noindex"><ul id="topMenuList"><li><a href="/accountsandservices/Pages/default.aspx">Accounts &amp; Services</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/accountsandservices/YourAccount/Pages/default.aspx">Your Account</a></li><li><a href="/accountsandservices/YourAccount/Pages/Online-Services.aspx">Online Services</a></li><li><a href="/accountsandservices/YourAccount/Pages/Bill-Upgrades-FAQ.aspx">Bill Upgrades FAQ</a></li><li><a href="/accountsandservices/YourAccount/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/YourBill/Pages/default.aspx">Your Bill</a></li><li><a href="/accountsandservices/YourBill/Pages/Understand-Your-Bill.aspx">Understand Your Bill</a></li><li><a href="/accountsandservices/YourBill/Pages/Ways-to-Pay.aspx">Ways to Pay</a></li><li><a href="/accountsandservices/YourBill/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/NewToPSE/Pages/default.aspx">New To PSE</a></li><li><a href="/accountsandservices/NewToPSE/Pages/Welcome.aspx">Welcome</a></li><li><a href="/accountsandservices/NewToPSE/Pages/Start-Service.aspx">Start Service</a></li><li><a href="/accountsandservices/NewToPSE/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/PropertyManagers/Pages/default.aspx">Property Managers</a></li><li><a href="/accountsandservices/PropertyManagers/Pages/Property-Managers.aspx">Management Agreement</a></li><li><a href="/accountsandservices/PropertyManagers/Pages/Multifamily-Service.aspx">Multi-family Service</a></li><li><a href="/accountsandservices/PropertyManagers/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/accountsandservices/Construction/Pages/default.aspx">Construction</a></li><li><a href="/accountsandservices/Construction/Pages/Get-Started.aspx">Get Started</a></li><li><a href="/accountsandservices/Construction/Pages/Contact-Us-Online.aspx">Contact Us Online</a></li><li><a href="/accountsandservices/Construction/Pages/default.aspx">More</a></li></ul><ul><li><a href="/accountsandservices/transmissionServices/Pages/default.aspx">Transmission</a></li><li><a href="/accountsandservices/transmissionServices/Pages/Customer-Instructions.aspx">Customer Instructions</a></li><li><a href="/accountsandservices/transmissionServices/Pages/Obtaining-Services.aspx">Obtaining Services</a></li></ul><ul><li><a href="/accountsandservices/ServiceAlert/Pages/default.aspx">Service Alert</a></li><li><a href="/accountsandservices/ServiceAlert/Pages/Report-an-Outage.aspx">Report an Outage</a></li><li><a href="/accountsandservices/ServiceAlert/Pages/Street-Light-Problem.aspx">Street Light Problem</a></li><li><a href="/accountsandservices/ServiceAlert/Pages/default.aspx">More</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/safety/Pages/default.aspx">Safety</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/safety/ElectricSafety/Pages/default.aspx">Electric Safety</a></li><li><a href="/safety/ElectricSafety/Pages/Electric-Safety-Tips.aspx">Electric Safety Tips</a></li><li><a href="/safety/ElectricSafety/Pages/Downed-Power-Lines.aspx">Downed Power Lines</a></li><li><a href="/safety/ElectricSafety/Pages/default.aspx">More</a></li></ul><ul><li><a href="/safety/NaturalGasSafety/Pages/default.aspx">Natural Gas Safety</a></li><li><a href="/safety/NaturalGasSafety/Pages/Gas-Safety-Tips.aspx">Gas Safety Tips</a></li><li><a href="/safety/NaturalGasSafety/Pages/Detect-a-Leak.aspx">Detect a Leak</a></li><li><a href="/safety/NaturalGasSafety/Pages/default.aspx">More</a></li></ul><ul><li><a href="/safety/GetPrepared/Pages/default.aspx">Get Prepared</a></li><li><a href="/safety/GetPrepared/Pages/Have-a-Plan.aspx">Have a Plan</a></li><li><a href="/safety/GetPrepared/Pages/Create-a-Kit.aspx">Create a Kit</a></li><li><a href="/safety/GetPrepared/Pages/default.aspx">More</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/savingsandenergycenter/Pages/default.aspx">Savings &amp; Energy Center</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/GetReEnergized/Pages/default.aspx">Tips, Tools &amp; Ideas</a></li><li><a href="/savingsandenergycenter/GetReEnergized/Pages/Ask-an-Energy-Advisor.aspx">Ask an Energy Advisor</a></li><li><a href="/savingsandenergycenter/ForHomes/Pages/Rebates-and-Offers.aspx">Rebates &amp; Offers</a></li><li><a href="/savingsandenergycenter/GetReEnergized/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForHomes/Pages/default.aspx">For Homes</a></li><li><a href="/savingsandenergycenter/ForHomes/Pages/Rebates-and-Offers.aspx">Rebates &amp; Offers</a></li><li><a href="/savingsandenergycenter/ForHomes/Pages/Rebate-Forms.aspx">Rebate Forms</a></li><li><a href="/savingsandenergycenter/ForHomes/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForCondosApartments/Pages/default.aspx">For Condos &amp; Apts</a></li><li><a href="/savingsandenergycenter/ForCondosApartments/Pages/For-Property-Owners.aspx">Property Owners of Complexes with 5+ Attached Units</a></li><li><a href="/savingsandenergycenter/ForCondosApartments/Pages/For-Condo-Owners.aspx">Condo Owners in Buildings with 5+ Attached Units</a></li></ul><ul><li><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">For Businesses</a></li><li><a href="/savingsandenergycenter/ForBusinesses/Pages/Multi-building-Owners.aspx">Building Owners</a></li><li><a href="/savingsandenergycenter/ForBusinesses/Pages/Other-Small-Businesses.aspx">Small Business Owners</a></li><li><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/ForCommunities/Pages/default.aspx">For Communities</a></li><li><a href="/savingsandenergycenter/ForCommunities/Pages/Energy-Efficiency-for-Communities.aspx">Energy-Efficiency Incentives</a></li><li><a href="/savingsandenergycenter/GreenPower/Pages/Mercer-Island-Green-Power-Challenge.aspx">Mercer Island Gets Green</a></li><li><a href="/savingsandenergycenter/ForCommunities/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForSchools/Pages/default.aspx">For Schools</a></li><li><a href="/savingsandenergycenter/ForSchools/Pages/Energy-Efficiency-for-Schools.aspx">Energy-Efficiency Incentives</a></li><li><a href="/savingsandenergycenter/ForSchools/Pages/Renewable-Schools.aspx">Renewable Education</a></li><li><a href="/savingsandenergycenter/ForSchools/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx">Green Power</a></li><li><a href="/savingsandenergycenter/GreenPower/Pages/About-the-Program.aspx">About Green Power</a></li><li><a href="/savingsandenergycenter/GreenPower/Pages/For-Homes.aspx">Green Power Homes</a></li><li><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/CarbonBalance/Pages/default.aspx">Carbon Balance</a></li><li><a href="/savingsandenergycenter/CarbonBalance/Pages/About-Carbon-Balance.aspx">About the Program</a></li><li><a href="/savingsandenergycenter/CarbonBalance/Pages/Sign-Up-Your-Home.aspx">Sign Up Your Home</a></li><li><a href="/savingsandenergycenter/CarbonBalance/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/Renewables/Pages/default.aspx">Renewables</a></li><li><a href="/savingsandenergycenter/Renewables/Pages/Net-Metering.aspx">Net Metering</a></li><li><a href="/savingsandenergycenter/Renewables/Pages/Renewable-Energy-Advantage.aspx">REAP: Renewable Energy Advantage</a></li><li><a href="/savingsandenergycenter/Renewables/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/NewConstruction/Pages/default.aspx">New Construction</a></li><li><a href="/savingsandenergycenter/NewConstruction/Pages/Single-family-Projects.aspx">Single-Family Incentives</a></li><li><a href="/savingsandenergycenter/NewConstruction/Pages/Multifamily-Projects.aspx">Multifamily Incentives</a></li><li><a href="/savingsandenergycenter/NewConstruction/Pages/default.aspx">More</a></li></ul><ul><li><a href="/savingsandenergycenter/ForTradeAllies/Pages/default.aspx">For Trade Allies</a></li><li><a href="/savingsandenergycenter/ForTradeAllies/Pages/CANMembers.aspx">CAN Member Sign In</a></li><li><a href="/savingsandenergycenter/ForTradeAllies/Pages/CANMemberApplication.aspx">CAN Member Information</a></li></ul><ul><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/default.aspx">Alt Fuel Vehicles</a></li><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/Alternative-Fuel-Vehicles-for-Fleets.aspx">Alternative Fuel Vehicles for Fleets</a></li><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/Alternative-Fuel-Vehicles-for-Individuals.aspx">Alternative Fuel Vehicles for Individuals</a></li><li><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/savingsandenergycenter/AboutReEnergize/Pages/default.aspx">About Re-Energize</a></li><li><a href="/savingsandenergycenter/AboutReEnergize/Pages/default.aspx">Energy Efficiency and Renewables at PSE</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/inyourcommunity/Pages/default.aspx">In Your Community</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/island/Pages/default.aspx">Island</a></li><li><a href="/inyourcommunity/island/Pages/Island-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/island/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/island/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/jefferson/Pages/default.aspx">Jefferson</a></li></ul><ul><li><a href="/inyourcommunity/king/Pages/default.aspx">King</a></li><li><a href="/inyourcommunity/king/Pages/King-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/king/ConstructionProjects/Pages/PSE-Major-Construction-Projects.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/king/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/kitsap/Pages/default.aspx">Kitsap</a></li><li><a href="/inyourcommunity/kitsap/Pages/Kitsap-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/kitsap/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/kitsap/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/kittitas/Pages/default.aspx">Kittitas</a></li><li><a href="/inyourcommunity/kittitas/Pages/Kittitas-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/kittitas/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/kittitas/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/lewis/Pages/default.aspx">Lewis</a></li><li><a href="/inyourcommunity/lewis/Pages/Lewis-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/lewis/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/lewis/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/pierce/Pages/default.aspx">Pierce</a></li><li><a href="/inyourcommunity/pierce/Pages/Pierce-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/pierce/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/pierce/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/skagit/Pages/default.aspx">Skagit</a></li><li><a href="/inyourcommunity/skagit/Pages/Skagit-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/skagit/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/skagit/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/snohomish/Pages/default.aspx">Snohomish</a></li><li><a href="/inyourcommunity/snohomish/Pages/Snohomish-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/snohomish/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/snohomish/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/thurston/Pages/default.aspx">Thurston</a></li><li><a href="/inyourcommunity/thurston/Pages/Thurston-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/thurston/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/thurston/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/whatcom/Pages/default.aspx">Whatcom</a></li><li><a href="/inyourcommunity/whatcom/Pages/Whatcom-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/whatcom/ConstructionProjects/Pages/default.aspx">Construction Projects</a></li><li><a href="/inyourcommunity/whatcom/Pages/default.aspx">More</a></li></ul><ul><li><a href="/inyourcommunity/sewashington/Pages/default.aspx">Southeast Wash.</a></li><li><a href="/inyourcommunity/sewashington/Pages/Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/sewashington/Pages/Lower-Snake-River.aspx">Lower Snake River Wind</a></li><li><a href="/inyourcommunity/sewashington/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/inyourcommunity/southernwashington/Pages/default.aspx">Southern Wash.</a></li><li><a href="/inyourcommunity/southernwashington/Pages/SW-Wash-Local-Team.aspx">Local Team</a></li><li><a href="/inyourcommunity/southernwashington/Pages/Southern-Wash-PSE-Cares.aspx">PSE Cares</a></li><li><a href="/inyourcommunity/southernwashington/Pages/default.aspx">More</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/aboutpse/Pages/default.aspx">About PSE</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/aboutpse/Careers/Pages/default.aspx">Careers</a></li><li><a href="/aboutpse/Careers/Pages/Open-Jobs.aspx">Open Jobs</a></li><li><a href="/aboutpse/Careers/Pages/Frequently-Asked-Questions.aspx">Job Application FAQ</a></li><li><a href="/aboutpse/Careers/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/CorporateInfo/Pages/default.aspx">Corporate Info</a></li><li><a href="/aboutpse/CorporateInfo/Pages/Leadership.aspx">Leadership</a></li><li><a href="/aboutpse/CorporateInfo/Pages/PSE-Primer.aspx">PSE Primer</a></li><li><a href="/aboutpse/CorporateInfo/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/EnergySupply/Pages/default.aspx">Energy Supply</a></li><li><a href="/aboutpse/EnergySupply/Pages/Acquiring-Energy.aspx">Acquiring Energy</a></li><li><a href="/aboutpse/EnergySupply/Pages/Resource-Planning.aspx">Resource Planning</a></li><li><a href="/aboutpse/EnergySupply/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/Environment/Pages/default.aspx">Environment</a></li><li><a href="/aboutpse/Environment/Pages/Green-Energy.aspx">Green Energy</a></li><li><a href="/aboutpse/Environment/Pages/Climate-Change.aspx">Climate Change</a></li><li><a href="/aboutpse/Environment/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/aboutpse/GivingBack/Pages/default.aspx">Giving Back</a></li><li><a href="/aboutpse/GivingBack/Pages/Team-PSE.aspx">Team PSE</a></li><li><a href="/aboutpse/GivingBack/Pages/Corporate-Giving.aspx">Corporate Giving</a></li><li><a href="/aboutpse/GivingBack/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/PseNewsroom/Pages/default.aspx">Newsroom</a></li><li><a href="/aboutpse/PseNewsroom/NewsReleases/Pages/default.aspx">News Releases</a></li><li><a href="/aboutpse/PseNewsroom/Pages/Media-Kit.aspx">Media Kit</a></li><li><a href="/aboutpse/PseNewsroom/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/Rates/Pages/default.aspx">Rates</a></li><li><a href="/aboutpse/Rates/Pages/Rates-News-and-Filings.aspx">Rates News &amp; Filings</a></li><li><a href="/aboutpse/Rates/Pages/Pending-Filings.aspx">Pending UTC Filings</a></li><li><a href="/aboutpse/Rates/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/SystemReliability/Pages/default.aspx">System Reliability</a></li><li><a href="/aboutpse/SystemReliability/Pages/Gas-Reliability.aspx">Gas Reliability</a></li><li><a href="/aboutpse/SystemReliability/Pages/Electric-Reliability.aspx">Electric Reliability</a></li><li><a href="/aboutpse/SystemReliability/Pages/default.aspx">More</a></li></ul></div><div class="dropMenuRow noindex"><ul><li><a href="/aboutpse/ToursandRecreation/Pages/default.aspx">Tours &amp; Recreation</a></li><li><a href="/aboutpse/ToursandRecreation/WildHorse/Pages/default.aspx">Wild Horse</a></li><li><a href="/aboutpse/ToursandRecreation/Pages/Snoqualmie-Tours.aspx">Snoqualmie Falls</a></li><li><a href="/aboutpse/ToursandRecreation/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/VendorsSuppliers/Pages/default.aspx">Vendors/Suppliers</a></li><li><a href="/aboutpse/VendorsSuppliers/Pages/Supplier-Log-In.aspx">Supplier Log In</a></li><li><a href="/aboutpse/VendorsSuppliers/Pages/Supplier-FAQ.aspx">Supplier FAQ</a></li><li><a href="/aboutpse/VendorsSuppliers/Pages/default.aspx">More</a></li></ul><ul><li><a href="/aboutpse/HydroLicensing/Pages/default.aspx">Hydro Licensing</a></li><li><a href="/aboutpse/HydroLicensing/Pages/What-is-Hydro-Licensing.aspx">What is Hydro Licensing?</a></li><li><a href="/aboutpse/HydroLicensing/Pages/Baker-River-Licensing.aspx">Baker River Licensing</a></li><li><a href="/aboutpse/HydroLicensing/Pages/default.aspx">More</a></li></ul></div></div></li><li><div class="topMenuListSpacer noindex"><div class="topMenuListDivider noindex"></div></div><a href="/Other-Languages/Pages/default.aspx">Other Languages</a><div class="dropMenu noindex" style="opacity: 0;"><div class="dropMenuArrow noindex"></div><div class="dropMenuRow noindex"><ul><li><a href="/Other-Languages/Chinese/Pages/default.aspx">中文 Chinese</a></li><li><a href="/Other-Languages/Chinese/Pages/Bill-Upgrades-FAQ_zh-TW.aspx">比尔升级常见问题</a></li><li><a href="/Other-Languages/Chinese/Pages/Customer-Commitment_zh-TW.aspx">帳戶與服務</a></li><li><a href="/Other-Languages/Chinese/Pages/default.aspx">More</a></li></ul><ul><li><a href="/Other-Languages/Russian/Pages/default.aspx">Русский Russian</a></li><li><a href="/Other-Languages/Russian/Pages/Bill-Upgrades-FAQ_ru-RU.aspx">Билл Улучшения FAQ</a></li><li><a href="/Other-Languages/Russian/Pages/Contact-Us_ru-RU.aspx">связаться с нами</a></li><li><a href="/Other-Languages/Russian/Pages/default.aspx">More</a></li></ul><ul><li><a href="/Other-Languages/Spanish/Pages/default.aspx">Español Spanish</a></li><li><a href="/Other-Languages/Spanish/Pages/Bill-Upgrades-FAQ_es-US.aspx">Mejoras Bill FAQ</a></li><li><a>Cuentas y servicios</a></li><li><a href="/Other-Languages/Spanish/Pages/default.aspx">More</a></li></ul><ul><li><a href="/Other-Languages/Korean/Pages/default.aspx">한국어 Korean</a></li><li><a href="/Other-Languages/Korean/Pages/Bill-Upgrades_FAQ_ko-KR.aspx">빌 업그레이드 FAQ</a></li><li><a href="/Other-Languages/Korean/Pages/Contact-Us_ko-KR.aspx">PSE 문의</a></li><li><a href="/Other-Languages/Korean/Pages/default.aspx">More</a></li></ul></div></div></li></ul></div>
+               
+                    <br clear="all">
+
+                    <div id="sectionDiv" onclick="toggleLeftNav()">
+                        <table width="100%" bgcolor="#cccccc" id="tblMobileLeftNav">
+                        <tbody><tr>
+	                        <td width="92%" align="center">
+	                           	<div id="sectionTitle"></div>
+                           	</td>
+	                        <td width="8%">
+		                        <img border="0" src="/_layouts/PSECom/Images/mobile_collapse_button.png" id="imgCollapse" class="arrowImg">
+		                        <img border="0" src="/_layouts/PSECom/Images/mobile_expand_button.png" id="imgExpand" class="arrowImg" style="display: none;">
+                           	</td>
+                       	</tr>
+                       	</tbody></table>
+                   	</div>
+    					
                 </div>
+
+            <div id="pageLeft">
+                
+                    <!-- custom site navigation control -->
+                    <script language="javascript" type="text/javascript">
+                    
+                        function toggleTopNav() {
+                            $('#topNavControl').slideToggle('slow', function(){
+	                        	var tNav = document.getElementById('topNavControl');
+	                        	if (tNav.style.display == 'none')
+	                        		document.getElementById('divMobileSearch').style.visibility = 'visible';
+	                        	else
+	                        		document.getElementById('divMobileSearch').style.visibility = 'hidden';
+                            });
+                        }
+
+                        function toggleLeftNav() {
+                            $('#divLeftNav').slideToggle('slow', function(){
+                            	var imgCollapse = document.getElementById('imgCollapse');
+                            	var imgExpand = document.getElementById('imgExpand');
+	                        	var d = document.getElementById('divLeftNav');
+	                        	if (d.style.display == 'none')
+	                        	{
+	                        		imgCollapse.style.display = 'none';
+	                        		imgExpand.style.display = 'block';
+	                        	}
+	                        	else {
+	                        		imgCollapse.style.display = 'block';
+	                        		imgExpand.style.display = 'none';
+	                        	}
+                            });
+                        }
+                        
+                        function toggleSearch() {
+                        	var ms = document.getElementById('divMobileSearch');
+							
+							if (!ms.hasChildNodes())
+	                        	$('#divMobileSearch').prepend($('.divSearchField'));
+	                        else
+	                            $('#divSearch').prepend($('.divSearchField'));
+                        }
+                        
+                        $(window).resize(function() {
+                            if ($(window).width() > 500) {
+	                            document.getElementById('topNavControl').style.display = 'block';
+	                            document.getElementById('tblMobileLeftNav').style.display = 'none';
+	                            $('#divSearch').prepend($('.divSearchField'));
+                            }
+                            else if ($(window).width() < 501) {
+	                        	$('#divMobileSearch').prepend($('.divSearchField'));
+                            }
+                        });
+                        
+                        function showSubSiteTitle(){
+                        
+	                        document.getElementById('imgExpand').style.display = 'block';
+
+                        	var x = $('.topMenuListSelected').first().html();
+                        	var y = $('div.leftNavMenuItemOpenHeaderTextSelected > a').html();
+                        	var z = $('div.leftNavSubMenuItemSelected > a').html();
+                        	
+                        	if (z != null)
+	                        	$('#sectionTitle').html(z);
+                        	else if (y != null)
+	                        	$('#sectionTitle').html(y);
+                        	else if (x != null)
+	                        	$('#sectionTitle').html(x);
+	                        else
+		                        document.getElementById('imgExpand').style.display = 'none';
+		                }
+		                 
+						function initThisPage() {
+							showSubSiteTitle();
+							if ($(window).width() < 501)
+								$('#divMobileSearch').prepend($('.divSearchField'));
+						}
+                        
+                    </script>
+
+    	            
+
 
                 <div id="pageLeftContent">
 		            <div id="s4-mainarea" class="s4-pr s4-widecontentarea">
@@ -283,129 +612,133 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 		                    
             
 
-                                        <div style="display:none" class="noindex">
-	                                        <div id="ctl00_PageContent_label" style="display:none">Page Content</div><div id="ctl00_PageContent__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PageContent_label"><div class="ms-WPBody"><h1>Privacy Policy</h1>
-<p>Last Revised: June 12, 2007</p>
-<p>Maintaining your privacy and trust are important to us at Puget Sound Energy ("PSE"). This privacy policy describes how we collect information that directly identifies or is directly associated with an individual ("personal information") on this website (the "Site"), and the ways in which we may use and disclose that information. We are the sole owner of personal information that we collect on the Site. We will not sell, share or rent personal information in ways that conflict with this policy. </p>
-<div class="ms-rteElement-PSECollapser collapserArrowDown"><div>Click for more</div></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may change this policy at any time, and will notify you of changes by indicating on the policy the date of its last update. Please review this policy whenever you visit our Site in order to understand how personal information we collect from you on the Site will be used. By using our Site, you consent to the information collection and use practices described in this policy. </p>
-<br><ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>1. What personal information does PSE collect on the Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may collect personal information (information that may be used to personally identify or contact you) in various contexts on our Site. This section summarizes the personal information that we collect on the Site and describes how we collect it. </p>
-<ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>A. Passive Collection</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our software automatically collects certain information from your computer when you use our Site. This information is not linked to other personal information you provide to us and is not used to identify you personally. The two main ways in which this general information is collected are through "log files" and "cookies." </p>
-<ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Log Files</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our Site's log files contain our users' Internet service providers, Web browsers, the times of their visits and the pages visited, and the IP addresses of their computers. We use this information to analyze trends, to improve the security and efficiency of our Site and online services, and to otherwise administer and improve our Site and our services. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(ii) Cookies</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>A "cookie" is a small file, stored on your hard drive, that contains information about your computer. Cookies cannot execute code or deliver a virus to your computer. We do not link cookies to personal information. We may use cookies to keep users logged in to the Site, serve pages to users more quickly on subsequent visits, understand users' interaction with our Site, track users' paths for security purposes and customize our users' experiences on our Site. </p>
-<p>If you wish to block, erase or be warned of cookies, please refer to your browser instructions or help file. You may still use our Site if you block cookies, but your use may be limited and your browser may behave strangely. Please also note that some of our business partners (for example, advertisers) may use cookies on our Site. We have no access to or control over these cookies. </p></div></li></ul></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>B. Active Collection</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our Site contains several features and services in which we collect personal information that users provide voluntarily. This section summarizes these features and services and the types of personal information that we may collect.</p>
-<ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Registration</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Account registration is required to access some features and services on our Site. During the registration process, we may ask you for a username, password and other personal information in order to verify your identity, establish your account, promote security and to provide appropriate access to features. Information you give during online account registration may be linked to your energy account information in our system in order to provide you with simplified online access to your energy account information or to provide other services related to your energy account. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(ii) Online Customer Care Features</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may offer Customer Care features on our Site. If you use these features, we may ask for your address, account number and other information, just as we would if we were speaking to you over the phone or in person. We collect this personal information in order to customize the information and services that we provide to you within and in connection with these features, to authenticate you and to monitor and improve the Site and our services. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Surveys, Contests and Promotions</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may offer surveys, contests and other promotions on the Site from time to time. Participation is completely voluntary. Information requested may include contact information (such as name and shipping address) and demographic information (such as ZIP code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used to help us monitor and improve our Site and services and to help us develop future service offerings. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Aclara Software, Inc.</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>On certain co-branded pages on the Site, a third party, Aclara Software, Inc., may collect contact, demographic, energy use and other information from you on our behalf. Aclara Software, Inc. may use this information to allow you to create Energy Management Plans, sign up for electronic newsletters and use other tools or services. All information collected by Aclara Software, Inc. on our behalf is the sole property of PSE and is governed by this Privacy Policy. Like all third parties that provide services on our behalf, Aclara Software, Inc. is required to protect personal information that is disclosed to them and to not use or disclose our users' personal information in a manner inconsistent with the purpose for which it was provided. </p></div></li></ul></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>C. Aggregated Information</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><ul style="list-style-type:none;list-style-image:none"><li><p>"Aggregated" information, as used in this policy, is information that has been combined (i.e., aggregated), or from which personal information has been removed, so that the resulting information does not identify you or allow you to be contacted. An example of aggregated information would be a report stating that fifty percent of Site visitors use computers located in King County. Aggregated information is not "personal information" under this policy. We may use aggregated information for various purposes and may disclose it to third parties without restriction.</p></li></ul></div></li></ul></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>2. How does PSE use personal information collected on the Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We are the sole owner of the information collected on this Site. We may use personal information that you provide to us (such as a personal e-mail address) in the following ways: </p>
-<ul><li>to contact you about your online account, your energy account, the Site and our other products and services;</li>
-<li>to respond to your comments or requests;</li>
-<li>to develop and improve the Site and our products and services;</li>
-<li>to inform you about PSE service and product offers and promotions that we believe you may find of interest; and</li>
-<li>for the purpose for which the information was provided.</li></ul>
-Out of respect for your privacy, we give you the option to opt-out from our marketing communications (please see the use and collection of information section below). <div></div></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>3. What personal information is shared with third parties?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We will not sell, share, or rent your personal information to others in ways different from what is disclosed in this policy without first obtaining your authorization.</p>
-<p>We may disclose personal information to independent contractors, service providers and consultants who provide services to us or help us perform functions necessary to operate our businesses. Any such disclosures are consistent with applicable laws and regulations. For example, we may use credit card processing companies to process payments for goods and services and shipping companies to ship orders. We require these third parties to protect personal information that we provide to them and to not use or disclose personal information in a manner inconsistent with the purpose for which it was provided to them.</p>
-<p>Additionally, as noted above, information collected by Aclara Software, Inc. on behalf of PSE on this Site or on co-branded pages is the sole property of PSE but may be used by Aclara Software, Inc. for the purpose(s) for which it was collected. We reserve the right to share information with third parties if we are required to do so by law; to initiate and render our services; to bill and collect for amounts owed to us; or if in our good faith judgment, such action is reasonably necessary to protect us, our customers or the public from fraudulent, abusive or unlawful use of our Site or our services, to comply with the legal process, to respond to any claims, or to protect the rights, property or safety of PSE, its customers, or the public. In addition, information about users of our Site, including personal information, may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of our business assets.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>4. What choices do I have in the use of personal information?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We provide registered online users with opportunity to "opt-out" of having their personal information used for purposes not directly related to our services at the point where we ask for the personal information. Users may opt-out of receiving promotional e-mail from PSE by replying to the e-mail with "unsubscribe" in the subject line, or e-mailing <a href="mailto:customercare@pse.com">customercare@pse.com</a> and requesting to be taken off PSE's email list.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>5. What security precautions are taken to protect personal information collected on the Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We have implemented appropriate physical, technical and logical safeguards to protect personal information that we collect on the Site. For example, when we request sensitive information (such as credit card number and/or social security number) on the Site, we use Secure Socket Layer (SSL) encryption to protect it from unauthorized access while in transit. We also take measures to limit access to all categories of personal information – not just "sensitive" information – to authorized employees and contractors.</p>
-<p>Despite our security safeguards, however, we cannot guarantee that personal information will be protected from interception, misappropriation, misuse or alteration, or that it will not be disclosed or accessed by accidental circumstances or by unauthorized actions. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with. If you have any questions about the security of our Site, you may email <a href="mailto:customercare@pse.com">customercare@pse.com</a> for more information.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>6. How do links affect my privacy?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>This Site may contain links to third-party websites. Please be aware that PSE is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy policies of third-party websites that you visit. Once you leave this Site, this policy no longer governs.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>7. How can I update or correct personal information associated with me?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We provide access to personal information that we collect on this Site and give users the opportunity to update and make corrections to it. If you have registered for an online account, you may access and edit the personal information you provided during registration by accessing your online customer account on the Site. To access or update other personal information you have provided on this Site, please contact <a href="mailto:customercare@pse.com">customercare@pse.com</a> or telephone 425-452-1234 (in Washington state) or 1-888-225-5773 (outside Washington state) and ask for the Webmaster.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>8. Who can I contact with questions about this Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none">Questions or comments about our Site may be directed to <a href="mailto:webmaster@pse.com">webmaster@pse.com</a>, or you may telephone us at 425-452-1234 (in Washington state) or 1-888-225-5773 (outside Washington state) and ask for the Webmaster. You may also write to us at Webmaster, Puget Sound Energy, 10885 NE 4th Street, PO Box 97034, Bellevue, WA 98009-9734. </div></li></ul></div></div>
+                            <div style="display:none" class="noindex">
+                                <div id="ctl00_PageContent_label" style="display:none">Page Content</div><div id="ctl00_PageContent__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PageContent_label"><div class="ms-WPBody"><h1>Privacy Policy</h1>
+<p>Last Revised: Nov. 9, 2012</p>
+<p>Maintaining your privacy and trust are important to us at Puget Sound Energy and our subsidiaries and affiliated companies ("PSE"). This privacy policy describes how we collect information that directly identifies or is directly associated with an individual ("personal information") on this website (the "Site"), and the ways in which we may use and disclose that information. We are the sole owner of personal information that we collect on the Site." or "We"). This privacy policy describes how we use and disclose information we collect about you on the websites of PSE (collectively, the "Sites") and other online services where we post this policy. This Policy does not apply to websites or services that display or link to different privacy statements. If you link to other web sites, please review the privacy policies posted on those sites. We will not sell, share or rent personal information in ways that conflict with this policy. </p>
+<p>We may change this policy at any time, and will notify you of changes by indicating on the policy the date of its last update.</p>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown">Read more </div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>1. What information about me does PSE collect on the Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may collect personal information in various ways on our Sites. This section summarizes the personal information that we collect on the Site and describes how we collect it.<br></p>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>A. Passive Collection</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>When you visit our Sites, we automatically collect information websites typically collect. This may include your Internet service provider, Web browser, the time of your visits and the pages visited, and the IP addresses of your computer. We use this information to analyze trends, to improve the security and efficiency of our Site and online services, and to otherwise administer and improve our Site and our services. </p>
+<p>An example would be statistical reports that tell us how many visitors to the Site are using mobile devices and which are the most popular browsers. This helps us provide a more user friendly online experience by making sure the Site works well with the most commonly used devices.</p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>B. Cookies</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may also automatically collect information using "cookies." A cookie is a small file, stored on your hard drive by a website. We may use cookies to keep users logged in to the Site, serve pages to users more quickly on subsequent visits, understand users' interaction with our Site, track users' paths for security purposes and customize our users' experiences on our Site. </p>
+<p>Please also note that some of our business partners may use cookies on our Site. We have no access to or control over these cookies. </p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>C. Active Collection</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our Site contains several features and services that collect information that you voluntarily provide to us. We may collect personal information such as your name, postal address, email address, and phone number. We may also collect information such as username, password and demographics information.</p>
+<br></div>
+</div>
+<br></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>2. How does PSE use information collected on the Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may use personal information that you provide to us for the purposes described in this Policy or disclosed to you on our Site or in connection with our services, and to: </p>
+<ul><li>provide and deliver products and services you request;</li>
+<li>contact you about your online account, your energy account, the Site and our other products and services;</li>
+<li>respond to your comments or requests;</li>
+<li>operate, develop and improve the Site and our products and services;</li>
+<li>inform you about service and product offers and promotions from PSE and our selected partners that you may find of interest; and to process and deliver contest entries and rewards.</li></ul></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>3. What personal information is shared with third parties?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We do not share your personal information with third parties other than as follows:</p>
+<ul><li>with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;</li>
+<li>with third party vendors, consultants and other service providers who work for us and need access to your information to do that work;</li>
+<li>to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of PSE, our agents, customers, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of PSE, our customers, or any person;</li>
+<li>in connection with or during negotiation of any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.</li></ul>
+<p>We may also share aggregated or anonymized information in a form that does not directly identify you. </p>
+<p>An example would be when PSE tells the news media, or regulatory agencies, the number of web visitors using the outage map during a storm. This helps us demonstrate one of the ways we communicate important information to customers. </p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>4. What choices do I have in the use of personal information?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>You may opt-out of promotional email from PSE by following the instructions in those emails. You may also email <a href="mailto:webmaster@pse.com">webmaster@pse.com</a> to request to be taken off PSE's email list. </p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>5. What security precautions are taken to protect personal information collected on the Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We take reasonable steps to help protect personal information about you that we collect on the Site. Despite our security safeguards, however, we cannot guarantee that personal information will be protected from interception, misappropriation, misuse or alteration, or that it will not be disclosed or accessed by accidental circumstances or by unauthorized actions. If you have any questions about the security of our Site, you may email <a href="mailto:webmaster@pse.com">webmaster@pse.com</a> for more information.</p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>6. How can I update or correct personal information associated with me?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>If you have registered an online account with PSE, as a customer, job seeker, or business partner, you may directly edit the information you have provided by signing into the account. If you are unable to access the online account or have questions about updating your information, please follow the instructions provided at the account sign-in location, or email <a href="mailto:webmaster@pse.com">webmaster@pse.com</a> with your questions. Email messages may be forwarded to Customer Care or to another, appropriate PSE contact. Please allow three business days for a response to your email message. Call Customer Care at 1-888-225-5773 if immediate response is required.</p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>7. Who can I contact with questions about this Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Questions or comments about our Site may be directed to <a href="mailto:webmaster@pse.com">webmaster@pse.com</a>, or you may call Customer Care at 1-888-225-5773; 1-800-962-9498 (TTY); 1-866-831-5161 (TRS). You may also write to us at Puget Sound Energy, PSE.com Webmaster, Communications, P.O. Box 97034 EST-11W, Bellevue, WA 98009-9734.</p></div>
+</div></div>
+</div>
 <br><h2>PSE Customer Notices: Notice Concerning Customer Information</h2>
 <p class="ms-WPBody">This notice describes how Puget Sound Energy handles your private information (such as your name, address, telephone number and other personal information), collected by virtue of the customer-utility relationship.</p>
-<div><div class="ms-rteElement-PSECollapser collapserArrowDown">Click for more</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown">Read more</div>
 <div class="ms-rteElement-PSECollapsible" style="display:none"><p>PSE's business practices are regulated by the state Utilities and Transportation Commission. The UTC has regulations which limit how PSE may disclose or sell your private customer information.</p>
 <p>UTC regulations require PSE to obtain the customer's written or electronic permission before disclosing or selling any private customer information to affiliates, subsidiaries or other third parties for purposes of marketing services or products. In other words, before we provide your name, service address or other private information to any service or product provider who intends to market services or products to you, we must obtain your permission to do so first. If you choose not to give us permission, we will not provide any of your personal information to these third parties.</p>
 <p>We may, however, insert marketing information into our billing packets. PSE also may share aggregated information, which does not allow you to be personally identified or contacted (for example, information on demographic and site usage), with third parties such as partners and advertisers, without your authorization. This information will not contain any material which could personally identify any individual person, or customer.</p>
 <p>We respect your privacy. For more information about our privacy policies, please visit PSE.com or contact us at 1-888-225-5773.</p>
-<p>Download PDF: <a title="New Window: 63 KB PDF file" href="/Documents/4146_Privacy_Notice.pdf" target="_blank">Notice Concerning Customer Information</a></p></div></div>
+<p>Download PDF: <a title="New Window: 63 KB PDF file" href="/Documents/4146_Privacy_Notice.pdf" target="_blank">Notice Concerning Customer Information</a></p></div></div></div>
 </div>
-				                        </div>
-				                        
+	                        </div>
+	                        
 	
 	
 			<div class="article article-body">
 				
 				<div class="article-content">
 					<div id="ctl00_PlaceHolderMain_ctl01_ctl01_label" style="display:none">Page Content</div><div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label"><div class="ms-WPBody"><h1>Privacy Policy</h1>
-<p>Last Revised: June 12, 2007</p>
-<p>Maintaining your privacy and trust are important to us at Puget Sound Energy ("PSE"). This privacy policy describes how we collect information that directly identifies or is directly associated with an individual ("personal information") on this website (the "Site"), and the ways in which we may use and disclose that information. We are the sole owner of personal information that we collect on the Site. We will not sell, share or rent personal information in ways that conflict with this policy. </p>
-<div class="ms-rteElement-PSECollapser collapserArrowDown"><div>Click for more</div></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may change this policy at any time, and will notify you of changes by indicating on the policy the date of its last update. Please review this policy whenever you visit our Site in order to understand how personal information we collect from you on the Site will be used. By using our Site, you consent to the information collection and use practices described in this policy. </p>
-<br><ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>1. What personal information does PSE collect on the Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may collect personal information (information that may be used to personally identify or contact you) in various contexts on our Site. This section summarizes the personal information that we collect on the Site and describes how we collect it. </p>
-<ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>A. Passive Collection</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our software automatically collects certain information from your computer when you use our Site. This information is not linked to other personal information you provide to us and is not used to identify you personally. The two main ways in which this general information is collected are through "log files" and "cookies." </p>
-<ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Log Files</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our Site's log files contain our users' Internet service providers, Web browsers, the times of their visits and the pages visited, and the IP addresses of their computers. We use this information to analyze trends, to improve the security and efficiency of our Site and online services, and to otherwise administer and improve our Site and our services. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(ii) Cookies</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>A "cookie" is a small file, stored on your hard drive, that contains information about your computer. Cookies cannot execute code or deliver a virus to your computer. We do not link cookies to personal information. We may use cookies to keep users logged in to the Site, serve pages to users more quickly on subsequent visits, understand users' interaction with our Site, track users' paths for security purposes and customize our users' experiences on our Site. </p>
-<p>If you wish to block, erase or be warned of cookies, please refer to your browser instructions or help file. You may still use our Site if you block cookies, but your use may be limited and your browser may behave strangely. Please also note that some of our business partners (for example, advertisers) may use cookies on our Site. We have no access to or control over these cookies. </p></div></li></ul></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>B. Active Collection</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our Site contains several features and services in which we collect personal information that users provide voluntarily. This section summarizes these features and services and the types of personal information that we may collect.</p>
-<ul style="list-style-type:none;list-style-image:none"><li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Registration</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Account registration is required to access some features and services on our Site. During the registration process, we may ask you for a username, password and other personal information in order to verify your identity, establish your account, promote security and to provide appropriate access to features. Information you give during online account registration may be linked to your energy account information in our system in order to provide you with simplified online access to your energy account information or to provide other services related to your energy account. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(ii) Online Customer Care Features</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may offer Customer Care features on our Site. If you use these features, we may ask for your address, account number and other information, just as we would if we were speaking to you over the phone or in person. We collect this personal information in order to customize the information and services that we provide to you within and in connection with these features, to authenticate you and to monitor and improve the Site and our services. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Surveys, Contests and Promotions</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may offer surveys, contests and other promotions on the Site from time to time. Participation is completely voluntary. Information requested may include contact information (such as name and shipping address) and demographic information (such as ZIP code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used to help us monitor and improve our Site and services and to help us develop future service offerings. </p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>(i) Aclara Software, Inc.</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>On certain co-branded pages on the Site, a third party, Aclara Software, Inc., may collect contact, demographic, energy use and other information from you on our behalf. Aclara Software, Inc. may use this information to allow you to create Energy Management Plans, sign up for electronic newsletters and use other tools or services. All information collected by Aclara Software, Inc. on our behalf is the sole property of PSE and is governed by this Privacy Policy. Like all third parties that provide services on our behalf, Aclara Software, Inc. is required to protect personal information that is disclosed to them and to not use or disclose our users' personal information in a manner inconsistent with the purpose for which it was provided. </p></div></li></ul></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>C. Aggregated Information</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><ul style="list-style-type:none;list-style-image:none"><li><p>"Aggregated" information, as used in this policy, is information that has been combined (i.e., aggregated), or from which personal information has been removed, so that the resulting information does not identify you or allow you to be contacted. An example of aggregated information would be a report stating that fifty percent of Site visitors use computers located in King County. Aggregated information is not "personal information" under this policy. We may use aggregated information for various purposes and may disclose it to third parties without restriction.</p></li></ul></div></li></ul></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>2. How does PSE use personal information collected on the Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We are the sole owner of the information collected on this Site. We may use personal information that you provide to us (such as a personal e-mail address) in the following ways: </p>
-<ul><li>to contact you about your online account, your energy account, the Site and our other products and services;</li>
-<li>to respond to your comments or requests;</li>
-<li>to develop and improve the Site and our products and services;</li>
-<li>to inform you about PSE service and product offers and promotions that we believe you may find of interest; and</li>
-<li>for the purpose for which the information was provided.</li></ul>
-Out of respect for your privacy, we give you the option to opt-out from our marketing communications (please see the use and collection of information section below). <div></div></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>3. What personal information is shared with third parties?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We will not sell, share, or rent your personal information to others in ways different from what is disclosed in this policy without first obtaining your authorization.</p>
-<p>We may disclose personal information to independent contractors, service providers and consultants who provide services to us or help us perform functions necessary to operate our businesses. Any such disclosures are consistent with applicable laws and regulations. For example, we may use credit card processing companies to process payments for goods and services and shipping companies to ship orders. We require these third parties to protect personal information that we provide to them and to not use or disclose personal information in a manner inconsistent with the purpose for which it was provided to them.</p>
-<p>Additionally, as noted above, information collected by Aclara Software, Inc. on behalf of PSE on this Site or on co-branded pages is the sole property of PSE but may be used by Aclara Software, Inc. for the purpose(s) for which it was collected. We reserve the right to share information with third parties if we are required to do so by law; to initiate and render our services; to bill and collect for amounts owed to us; or if in our good faith judgment, such action is reasonably necessary to protect us, our customers or the public from fraudulent, abusive or unlawful use of our Site or our services, to comply with the legal process, to respond to any claims, or to protect the rights, property or safety of PSE, its customers, or the public. In addition, information about users of our Site, including personal information, may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of our business assets.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>4. What choices do I have in the use of personal information?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We provide registered online users with opportunity to "opt-out" of having their personal information used for purposes not directly related to our services at the point where we ask for the personal information. Users may opt-out of receiving promotional e-mail from PSE by replying to the e-mail with "unsubscribe" in the subject line, or e-mailing <a href="mailto:customercare@pse.com">customercare@pse.com</a> and requesting to be taken off PSE's email list.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>5. What security precautions are taken to protect personal information collected on the Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We have implemented appropriate physical, technical and logical safeguards to protect personal information that we collect on the Site. For example, when we request sensitive information (such as credit card number and/or social security number) on the Site, we use Secure Socket Layer (SSL) encryption to protect it from unauthorized access while in transit. We also take measures to limit access to all categories of personal information – not just "sensitive" information – to authorized employees and contractors.</p>
-<p>Despite our security safeguards, however, we cannot guarantee that personal information will be protected from interception, misappropriation, misuse or alteration, or that it will not be disclosed or accessed by accidental circumstances or by unauthorized actions. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with. If you have any questions about the security of our Site, you may email <a href="mailto:customercare@pse.com">customercare@pse.com</a> for more information.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>6. How do links affect my privacy?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>This Site may contain links to third-party websites. Please be aware that PSE is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy policies of third-party websites that you visit. Once you leave this Site, this policy no longer governs.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>7. How can I update or correct personal information associated with me?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We provide access to personal information that we collect on this Site and give users the opportunity to update and make corrections to it. If you have registered for an online account, you may access and edit the personal information you provided during registration by accessing your online customer account on the Site. To access or update other personal information you have provided on this Site, please contact <a href="mailto:customercare@pse.com">customercare@pse.com</a> or telephone 425-452-1234 (in Washington state) or 1-888-225-5773 (outside Washington state) and ask for the Webmaster.</p></div></li>
-<li><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>8. Who can I contact with questions about this Site?</h4></div>
-<div class="ms-rteElement-PSECollapsible" style="display:none">Questions or comments about our Site may be directed to <a href="mailto:webmaster@pse.com">webmaster@pse.com</a>, or you may telephone us at 425-452-1234 (in Washington state) or 1-888-225-5773 (outside Washington state) and ask for the Webmaster. You may also write to us at Webmaster, Puget Sound Energy, 10885 NE 4th Street, PO Box 97034, Bellevue, WA 98009-9734. </div></li></ul></div></div>
+<p>Last Revised: Nov. 9, 2012</p>
+<p>Maintaining your privacy and trust are important to us at Puget Sound Energy and our subsidiaries and affiliated companies ("PSE"). This privacy policy describes how we collect information that directly identifies or is directly associated with an individual ("personal information") on this website (the "Site"), and the ways in which we may use and disclose that information. We are the sole owner of personal information that we collect on the Site." or "We"). This privacy policy describes how we use and disclose information we collect about you on the websites of PSE (collectively, the "Sites") and other online services where we post this policy. This Policy does not apply to websites or services that display or link to different privacy statements. If you link to other web sites, please review the privacy policies posted on those sites. We will not sell, share or rent personal information in ways that conflict with this policy. </p>
+<p>We may change this policy at any time, and will notify you of changes by indicating on the policy the date of its last update.</p>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown">Read more </div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>1. What information about me does PSE collect on the Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may collect personal information in various ways on our Sites. This section summarizes the personal information that we collect on the Site and describes how we collect it.<br></p>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>A. Passive Collection</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>When you visit our Sites, we automatically collect information websites typically collect. This may include your Internet service provider, Web browser, the time of your visits and the pages visited, and the IP addresses of your computer. We use this information to analyze trends, to improve the security and efficiency of our Site and online services, and to otherwise administer and improve our Site and our services. </p>
+<p>An example would be statistical reports that tell us how many visitors to the Site are using mobile devices and which are the most popular browsers. This helps us provide a more user friendly online experience by making sure the Site works well with the most commonly used devices.</p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>B. Cookies</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may also automatically collect information using "cookies." A cookie is a small file, stored on your hard drive by a website. We may use cookies to keep users logged in to the Site, serve pages to users more quickly on subsequent visits, understand users' interaction with our Site, track users' paths for security purposes and customize our users' experiences on our Site. </p>
+<p>Please also note that some of our business partners may use cookies on our Site. We have no access to or control over these cookies. </p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>C. Active Collection</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Our Site contains several features and services that collect information that you voluntarily provide to us. We may collect personal information such as your name, postal address, email address, and phone number. We may also collect information such as username, password and demographics information.</p>
+<br></div>
+</div>
+<br></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>2. How does PSE use information collected on the Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We may use personal information that you provide to us for the purposes described in this Policy or disclosed to you on our Site or in connection with our services, and to: </p>
+<ul><li>provide and deliver products and services you request;</li>
+<li>contact you about your online account, your energy account, the Site and our other products and services;</li>
+<li>respond to your comments or requests;</li>
+<li>operate, develop and improve the Site and our products and services;</li>
+<li>inform you about service and product offers and promotions from PSE and our selected partners that you may find of interest; and to process and deliver contest entries and rewards.</li></ul></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>3. What personal information is shared with third parties?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We do not share your personal information with third parties other than as follows:</p>
+<ul><li>with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;</li>
+<li>with third party vendors, consultants and other service providers who work for us and need access to your information to do that work;</li>
+<li>to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of PSE, our agents, customers, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of PSE, our customers, or any person;</li>
+<li>in connection with or during negotiation of any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.</li></ul>
+<p>We may also share aggregated or anonymized information in a form that does not directly identify you. </p>
+<p>An example would be when PSE tells the news media, or regulatory agencies, the number of web visitors using the outage map during a storm. This helps us demonstrate one of the ways we communicate important information to customers. </p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>4. What choices do I have in the use of personal information?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>You may opt-out of promotional email from PSE by following the instructions in those emails. You may also email <a href="mailto:webmaster@pse.com">webmaster@pse.com</a> to request to be taken off PSE's email list. </p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>5. What security precautions are taken to protect personal information collected on the Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>We take reasonable steps to help protect personal information about you that we collect on the Site. Despite our security safeguards, however, we cannot guarantee that personal information will be protected from interception, misappropriation, misuse or alteration, or that it will not be disclosed or accessed by accidental circumstances or by unauthorized actions. If you have any questions about the security of our Site, you may email <a href="mailto:webmaster@pse.com">webmaster@pse.com</a> for more information.</p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>6. How can I update or correct personal information associated with me?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>If you have registered an online account with PSE, as a customer, job seeker, or business partner, you may directly edit the information you have provided by signing into the account. If you are unable to access the online account or have questions about updating your information, please follow the instructions provided at the account sign-in location, or email <a href="mailto:webmaster@pse.com">webmaster@pse.com</a> with your questions. Email messages may be forwarded to Customer Care or to another, appropriate PSE contact. Please allow three business days for a response to your email message. Call Customer Care at 1-888-225-5773 if immediate response is required.</p></div>
+</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown"><h4>7. Who can I contact with questions about this Site?</h4></div>
+<div class="ms-rteElement-PSECollapsible" style="display:none"><p>Questions or comments about our Site may be directed to <a href="mailto:webmaster@pse.com">webmaster@pse.com</a>, or you may call Customer Care at 1-888-225-5773; 1-800-962-9498 (TTY); 1-866-831-5161 (TRS). You may also write to us at Puget Sound Energy, PSE.com Webmaster, Communications, P.O. Box 97034 EST-11W, Bellevue, WA 98009-9734.</p></div>
+</div></div>
+</div>
 <br><h2>PSE Customer Notices: Notice Concerning Customer Information</h2>
 <p class="ms-WPBody">This notice describes how Puget Sound Energy handles your private information (such as your name, address, telephone number and other personal information), collected by virtue of the customer-utility relationship.</p>
-<div><div class="ms-rteElement-PSECollapser collapserArrowDown">Click for more</div>
+<div><div class="ms-rteElement-PSECollapser collapserArrowDown">Read more</div>
 <div class="ms-rteElement-PSECollapsible" style="display:none"><p>PSE's business practices are regulated by the state Utilities and Transportation Commission. The UTC has regulations which limit how PSE may disclose or sell your private customer information.</p>
 <p>UTC regulations require PSE to obtain the customer's written or electronic permission before disclosing or selling any private customer information to affiliates, subsidiaries or other third parties for purposes of marketing services or products. In other words, before we provide your name, service address or other private information to any service or product provider who intends to market services or products to you, we must obtain your permission to do so first. If you choose not to give us permission, we will not provide any of your personal information to these third parties.</p>
 <p>We may, however, insert marketing information into our billing packets. PSE also may share aggregated information, which does not allow you to be personally identified or contacted (for example, information on demographic and site usage), with third parties such as partners and advertisers, without your authorization. This information will not contain any material which could personally identify any individual person, or customer.</p>
 <p>We respect your privacy. For more information about our privacy policies, please visit PSE.com or contact us at 1-888-225-5773.</p>
-<p>Download PDF: <a title="New Window: 63 KB PDF file" href="/Documents/4146_Privacy_Notice.pdf" target="_blank">Notice Concerning Customer Information</a></p></div></div>
+<p>Download PDF: <a title="New Window: 63 KB PDF file" href="/Documents/4146_Privacy_Notice.pdf" target="_blank">Notice Concerning Customer Information</a></p></div></div></div>
 </div>
 				</div>
 				
@@ -416,43 +749,30 @@ Out of respect for your privacy, we give you the option to opt-out from our mark
 			            </div>
 		            </div>
                 </div>
+                
             </div> <!-- pageLeft -->
     
             <!-- pageRight -->
     	    <div id="pageRight">
-			    <div id="divSearch" class="divSearch">
-				    <div class="divSearchField">
-					    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" width="100%" onlyformepart="true" allowdelete="false" style=""><div id="SRSB"> <div>
-			<table class="search-box ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr class="ms-sbrow">
-					<td class="ms-sbcell"><input name="InputKeywords" type="text" value="Search..." maxlength="200" id="ctl00_ctl31_S52EF3DAE_InputKeywords" accesskey="S" title="Search..." class="ms-sbplain s4-searchbox-QueryPrompt" alt="Search..." onkeypress="javascript: return S52EF3DAE_OSBEK(event);" onfocus="if (document.getElementById('ctl00_ctl31_ctl03').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_ctl31_ctl03').value=1;}" onblur="if (this.value =='') {this.value='Search...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_ctl31_ctl03').value = '0'} else {document.getElementById('ctl00_ctl31_ctl03').value='1';}" style="width:315px;"></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_ctl31_S52EF3DAE_go" title="Search" href="javascript:S52EF3DAE_Submit()"><img title="Search" onmouseover="this.src='\u002fStyle Library\u002fPSEcom\u002fImages\u002fmagnifyingglass.gif'" onmouseout="this.src='\u002fStyle Library\u002fPSEcom\u002fImages\u002fmagnifyingglass.gif'" class="srch-gosearchimg" alt="Search" src="/Style%20Library/PSEcom/Images/magnifyingglass.gif" border="0"></a></td><td class="ms-sbLastcell"></td>
-				</tr>
-			</tbody></table><input name="ctl00$ctl31$ctl03" type="hidden" id="ctl00_ctl31_ctl03" value="0">
-		</div></div></div></td>
-	</tr>
-</tbody></table>
-				    </div>
-			    </div>
-
-                <!-- custom site signin control -->
-                <div class="divLoginBottom noindex"><img class="divLoginBottomImage" src="/Style%20Library/PSECom/Images/signin_box_top.png" alt="sign in box top" border="0"></div><div id="divLogin" class="divLogin"><div id="divLoginTop" class="divLoginTop"><div id="loginTopLeft" class="loginTopLeft noindex"><img src="/Style%20Library/PSECom/Images/sign_in_lock.jpg" alt="sign in lock" border="0"></div><div id="loginTopRight" class="loginTopRight"><div class="loginTopRightTextTop noindex">Sign In</div><div class="loginTopRightTextBottom noindex">Securely pay bills, manage your account and find ways to save online</div></div></div><div class="divLoginText noindex">Username</div><div class="divLoginTextBox"><input name="ctl00$login$ctl11" type="text" class="inputLoginTextBox" id="loginUserName"></div><div class="divPasswordText noindex">Password</div><div class="divPasswordBox noindex"><input name="ctl00$login$ctl14" type="password" class="loginPassword" id="loginPassword"><button class="loginButton" id="btnLogin" onclick="SubmitForm();return false;">Sign In</button></div><div class="divPasswordText noindex"><input name="ctl00$login$ctl17" type="checkbox" id="rememberMe"><span style="position:relative;top:3px;">Remember Me</span></div><div class="divForgotText"><div class="noindex">Forgot <a class="loginLink" href="https://my.pse.com/SUSO/ForgotPassword.aspx">Password</a> or <a class="loginLink" href="https://my.pse.com/SUSO/ForgotUsername.aspx">Username</a>?</div><div class="noindex">New User <a class="loginLink" href="https://my.pse.com/SUSO/CustomerSignUp.aspx">Sign Up</a></div></div></div><div class="divLoginBottom noindex"><img class="divLoginBottomImage" src="/Style%20Library/PSECom/Images/signin_box_bottom.png" alt="sign in box bottom" border="0"></div>
-                                                       
-                <div class="pageRightDivider"></div>
 		
                 <!-- custom right navigation control -->
-                <div id="divRightNav" class="divRightNavContainer"><div id="divRightNavItem1" class="divRightNavItem" onmouseover="showPopup('divRightNavPopup1','divRightNavItem1','divRightNavItemLink1');" onmouseout="hidePopup('divRightNavPopup1','divRightNavItem1','divRightNavItemLink1');"><div id="divRightNavItemRowHeader1" class="divRightNavItemRowHeader noindex"><a href="javascript:void(0)" id="divRightNavItemLink1" class="divRightNavItemLink">I Want To...</a></div><div class="divRightNavItemRowText noindex"><span>Quickly access the most popular information.</span></div><div id="divRightNavPopup1" class="divRightNavPopup" style="color:white; background-color:#263d3c; width:250px; height:250px; position:absolute; display:none; z-index:1000;"><div style="float:left;"><div class="divRightNavPopupHeader noindex" style="clear:left;"><span>I Want To...</span></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/NewToPSE/Pages/Start-Service.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=startService">Start residential service</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/YourAccount/Pages/Go-Paperless.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=gopaperless">Go paperless</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/ServiceAlert/Pages/Report-an-Outage.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=outage">Report an outage</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/NaturalGasSafety/Pages/Detect-a-Leak.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=leak">Learn how to detect a natural gas leak</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/Pages/Contact-Us.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=contact">Speak to someone in customer services</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/YourBill/Pages/Ways-to-Pay.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=ways2pay">Find out about bill-payment options</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForHomes/Pages/Rebates-and-Offers.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=rebates">Save energy at my home</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=business">Save energy at my business</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=greenpower">Sign up for PSE's Green Power Program</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/aboutpse/careers/Pages/default.aspx?utm_source=public&amp;utm_medium=right-flyout&amp;utm_campaign=jobs">Learn about job openings</a></div></div><div style="float: right; height:250px;"><img src="/Style%20Library/PSECom/Images/right_nav_bg_arrow.png" alt="right navigation arrow" border="0" style="margin-top:105px; margin-right: -18px;"></div></div><div class="divRightNavItemDivider"></div></div><div id="divRightNavItem2" class="divRightNavItem" onmouseover="showPopup('divRightNavPopup2','divRightNavItem2','divRightNavItemLink2');" onmouseout="hidePopup('divRightNavPopup2','divRightNavItem2','divRightNavItemLink2');"><div id="divRightNavItemRowHeader2" class="divRightNavItemRowHeader noindex"><a href="javascript:void(0)" id="divRightNavItemLink2" class="divRightNavItemLink">Customer Service</a></div><div class="divRightNavItemRowText noindex"><span>Contact PSE, go paperless, start or stop service, and more...</span></div><div id="divRightNavPopup2" class="divRightNavPopup" style="color:white; background-color:#263d3c; width:250px; height:250px; position:absolute; display:none; z-index:1000;"><div style="float:left;"><div class="divRightNavPopupHeader noindex" style="clear:left;"><span>Customer Service</span></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/Pages/Contact-Us.aspx?utm_source=public&amp;utm_medium=cs-flyout&amp;utm_campaign=contact">Contact PSE</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/NewToPSE/Pages/Start-Service.aspx">Start residential service</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/YourAccount/Pages/Online-Services.aspx">Learn about online services</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/YourAccount/Pages/Go-Paperless.aspx?utm_source=public&amp;utm_medium=cs-flyout&amp;utm_campaign=gopaperless">Go paperless</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/YourBill/Pages/Ways-to-Pay.aspx?utm_source=public&amp;utm_medium=cs-flyout&amp;utm_campaign=ways2pay">Find ways to pay your bill</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/NewToPSE/Pages/Customer-Commitment.aspx">Get PSE’s customer service guarantees</a></div></div><div style="float: right; height:250px;"><img src="/Style%20Library/PSECom/Images/right_nav_bg_arrow.png" alt="right navigation arrow" border="0" style="margin-top:105px; margin-right: -18px;"></div></div><div class="divRightNavItemDivider"></div></div><div id="divRightNavItem3" class="divRightNavItem" onmouseover="showPopup('divRightNavPopup3','divRightNavItem3','divRightNavItemLink3');" onmouseout="hidePopup('divRightNavPopup3','divRightNavItem3','divRightNavItemLink3');"><div id="divRightNavItemRowHeader3" class="divRightNavItemRowHeader noindex"><a href="javascript:void(0)" id="divRightNavItemLink3" class="divRightNavItemLink">Get Re-Energized</a></div><div class="divRightNavItemRowText noindex"><span>Rebates, energy tips, expert advice, and more...</span></div><div id="divRightNavPopup3" class="divRightNavPopup" style="color:white; background-color:#263d3c; width:250px; height:250px; position:absolute; display:none; z-index:1000;"><div style="float:left;"><div class="divRightNavPopupHeader noindex" style="clear:left;"><span>Get Re-Energized</span></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForHomes/Pages/Rebates-and-Offers.aspx">Rebates and offers for your home</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/GetReEnergized/Pages/Ask-an-Energy-Advisor.aspx">Ask a PSE energy advisor</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/energyefficiency/pages/house.aspx">Tour PSE’s interactive house</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForHomes/Pages/Find-a-Contractor.aspx">Find a contractor</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">Rebates and incentives for businesses</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/GetReEnergized/Pages/Product-Retailer-and-Dealer-Locator-Map.aspx">Locate a dealer or retailer near you</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForSchools/Pages/default.aspx">Energy efficiency for schools</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForCommunities/Pages/default.aspx">Find ways to save in your community</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx">Sign up for PSE’s Green Power Program</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/NewConstruction/Pages/default.aspx">Incentives for new construction projects</a></div></div><div style="float: right; height:250px;"><img src="/Style%20Library/PSECom/Images/right_nav_bg_arrow.png" alt="right navigation arrow" border="0" style="margin-top:105px; margin-right: -18px;"></div></div><div class="divRightNavItemDivider"></div></div><div id="divRightNavItem4" class="divRightNavItem" onmouseover="showPopup('divRightNavPopup4','divRightNavItem4','divRightNavItemLink4');" onmouseout="hidePopup('divRightNavPopup4','divRightNavItem4','divRightNavItemLink4');"><div id="divRightNavItemRowHeader4" class="divRightNavItemRowHeader noindex"><a href="javascript:void(0)" id="divRightNavItemLink4" class="divRightNavItemLink">Safety Always</a></div><div class="divRightNavItemRowText noindex"><span>Safety tips, service alerts, information about requirements &amp; more…</span></div><div id="divRightNavPopup4" class="divRightNavPopup" style="color:white; background-color:#263d3c; width:250px; height:250px; position:absolute; display:none; z-index:1000;"><div style="float:left;"><div class="divRightNavPopupHeader noindex" style="clear:left;"><span>Safety Always</span></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/GetPrepared/Pages/Have-a-Plan.aspx">Plan for emergencies</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/ElectricSafety/Pages/Electric-Safety-Tips.aspx">Get electric safety tips</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/ElectricSafety/Pages/Downed-Power-Lines.aspx">Stay safe around downed power lines</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/accountsandservices/ServiceAlert/Pages/Report-an-Outage.aspx">Report an outage</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/NaturalGasSafety/Pages/Gas-Safety-Tips.aspx">Get natural gas safety tips</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/NaturalGasSafety/Pages/Know-Whats-Below.aspx">Know who to call before digging</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/NaturalGasSafety/Pages/Detect-a-Leak.aspx">Know what natural gas smells like</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/safety/NaturalGasSafety/Pages/What's-Your-NGIQ.aspx">Find out your natural gas IQ</a></div></div><div style="float: right; height:250px;"><img src="/Style%20Library/PSECom/Images/right_nav_bg_arrow.png" alt="right navigation arrow" border="0" style="margin-top:105px; margin-right: -18px;"></div></div><div class="divRightNavItemDivider"></div></div><div id="divRightNavItem5" class="divRightNavItem" onmouseover="showPopup('divRightNavPopup5','divRightNavItem5','divRightNavItemLink5');" onmouseout="hidePopup('divRightNavPopup5','divRightNavItem5','divRightNavItemLink5');"><div id="divRightNavItemRowHeader5" class="divRightNavItemRowHeader noindex"><a href="javascript:void(0)" id="divRightNavItemLink5" class="divRightNavItemLink">News &amp; Issues</a></div><div class="divRightNavItemRowText noindex"><span>News, calendar of events, information about current issues &amp; more…</span></div><div id="divRightNavPopup5" class="divRightNavPopup" style="color:white; background-color:#263d3c; width:250px; height:250px; position:absolute; display:none; z-index:1000;"><div style="float:left;"><div class="divRightNavPopupHeader noindex" style="clear:left;"><span>News &amp; Issues</span></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/aboutpse/EnergySupply/Pages/Acquiring-Energy.aspx">View the 2011 All Generation Sources RFP</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/aboutpse/PseNewsroom/NewsReleases/Pages/default.aspx">Get the latest PSE news</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/aboutpse/psenewsroom/Pages/Media-Kit.aspx">See PSE’s media kit</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/inyourcommunity/sewashington/Pages/Lower-Snake-River.aspx">Learn about PSE’s newest wind facility</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForCommunities/Pages/Events-Calendar.aspx">Check out PSE events</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForHomes/Pages/Rebates-and-Offers.aspx">Rebates and offers for your home</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">Rebates and incentives for businesses</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/aboutpse/Rates/Pages/Rates-News-and-Filings.aspx">Proposals to adjust rates</a></div><div class="divRightNavPopupLink noindex"><img src="/Style%20Library/PSECom/Images/double_right_arrow.gif" alt="double right arrow" border="0" style="margin-right: 5px;"><a href="/aboutpse/EnergySupply/Pages/Resource-Planning.aspx">View PSE's 2011 Integrated Resource Plan</a></div></div><div style="float: right; height:250px;"><img src="/Style%20Library/PSECom/Images/right_nav_bg_arrow.png" alt="right navigation arrow" border="0" style="margin-top:105px; margin-right: -18px;"></div></div><div class="divRightNavItemDivider"></div></div></div>
+                <div id="divRightNav" class="divRightNavContainer"></div>
                     
                 <div id="pageRightContent" class="noindex">
                     
                 </div>
             </div> <!-- pageRight -->
 
+            
+            <script language="javascript" type="text/javascript">
+            	initThisPage();
+            </script>
+
+    
             <div class="divClear"></div>
 
             <div id="pageFooter">
-	            <div class="bottomNav noindex"><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/accountsandservices/Pages/default.aspx">Accounts &amp; Services</a></span><div class="bottomNavListItem noindex"><a href="/accountsandservices/YourAccount/Pages/default.aspx">Your Account</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/YourBill/Pages/default.aspx">Your Bill</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/NewToPSE/Pages/default.aspx">New To PSE</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/PropertyManagers/Pages/default.aspx">Property Managers</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/Construction/Pages/default.aspx">Construction</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/transmissionServices/Pages/default.aspx">Transmission</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/ServiceAlert/Pages/default.aspx">Service Alert</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/safety/Pages/default.aspx">Safety</a></span><div class="bottomNavListItem noindex"><a href="/safety/ElectricSafety/Pages/default.aspx">Electric Safety</a></div><div class="bottomNavListItem noindex"><a href="/safety/NaturalGasSafety/Pages/default.aspx">Natural Gas Safety</a></div><div class="bottomNavListItem noindex"><a href="/safety/GetPrepared/Pages/default.aspx">Get Prepared</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/savingsandenergycenter/Pages/default.aspx">Savings &amp; Energy Center</a></span><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/GetReEnergized/Pages/default.aspx">Tips, Tools &amp; Ideas</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForHomes/Pages/default.aspx">For Homes</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForCondosApartments/Pages/default.aspx">For Condos &amp; Apts</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">For Businesses</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForCommunities/Pages/default.aspx">For Communities</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForSchools/Pages/default.aspx">For Schools</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx">Green Power</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/CarbonBalance/Pages/default.aspx">Carbon Balance</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/Renewables/Pages/default.aspx">Renewables</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/NewConstruction/Pages/default.aspx">New Construction</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForTradeAllies/Pages/default.aspx">For Trade Allies</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/default.aspx">Vehicles</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/AboutReEnergize/Pages/default.aspx">About Re-Energize</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/inyourcommunity/Pages/default.aspx">In Your Community</a></span><div class="bottomNavListItem noindex"><a href="/inyourcommunity/island/Pages/default.aspx">Island</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/jefferson/Pages/default.aspx">Jefferson</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/king/Pages/default.aspx">King</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/kitsap/Pages/default.aspx">Kitsap</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/kittitas/Pages/default.aspx">Kittitas</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/lewis/Pages/default.aspx">Lewis</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/pierce/Pages/default.aspx">Pierce</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/skagit/Pages/default.aspx">Skagit</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/snohomish/Pages/default.aspx">Snohomish</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/thurston/Pages/default.aspx">Thurston</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/whatcom/Pages/default.aspx">Whatcom</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/sewashington/Pages/default.aspx">Southeast Wash.</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/southernwashington/Pages/default.aspx">Southern Wash.</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/aboutpse/Pages/default.aspx">About PSE</a></span><div class="bottomNavListItem noindex"><a href="/aboutpse/Careers/Pages/default.aspx">Careers</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/CorporateInfo/Pages/default.aspx">Corporate Info</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/EnergySupply/Pages/default.aspx">Energy Supply</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/Environment/Pages/default.aspx">Environment</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/GivingBack/Pages/default.aspx">Giving Back</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/PseNewsroom/Pages/default.aspx">Newsroom</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/Rates/Pages/default.aspx">Rates</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/SystemReliability/Pages/default.aspx">System Reliability</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/ToursandRecreation/Pages/default.aspx">Tours &amp; Recreation</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/VendorsSuppliers/Pages/default.aspx">Vendors/Suppliers</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/HydroLicensing/Pages/default.aspx">Hydro Licensing</a></div></div></div><div class="footerInfo noindex" id="footerRight"><div class="footerLink noindex">General Info 1-888-225-5773 | <a href="/Pages/contact-us.aspx">Contact Us</a></div><div class="footerLink noindex" style="font-size:10px;padding-top:6px"><a href="/Pages/terms.aspx">Terms of Use</a> | <a href="/Pages/privacy.aspx">Privacy Policy</a> | <a href="mailto:webmaster@pse.com">Website Feedback </a> | <a href="/Pages/sitemap.aspx"></a></div></div><div><div class="divClear"></div><div class="footerCopyright noindex" id="footerCopyright">© 2012 Puget Sound Energy. All rights reserved.</div></div>
+	            <div class="bottomNav noindex"><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/accountsandservices/Pages/default.aspx">Accounts &amp; Services</a></span><div class="bottomNavListItem noindex"><a href="/accountsandservices/YourAccount/Pages/default.aspx">Your Account</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/YourBill/Pages/default.aspx">Your Bill</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/NewToPSE/Pages/default.aspx">New To PSE</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/PropertyManagers/Pages/default.aspx">Property Managers</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/Construction/Pages/default.aspx">Construction</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/transmissionServices/Pages/default.aspx">Transmission</a></div><div class="bottomNavListItem noindex"><a href="/accountsandservices/ServiceAlert/Pages/default.aspx">Service Alert</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/safety/Pages/default.aspx">Safety</a></span><div class="bottomNavListItem noindex"><a href="/safety/ElectricSafety/Pages/default.aspx">Electric Safety</a></div><div class="bottomNavListItem noindex"><a href="/safety/NaturalGasSafety/Pages/default.aspx">Natural Gas Safety</a></div><div class="bottomNavListItem noindex"><a href="/safety/GetPrepared/Pages/default.aspx">Get Prepared</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/savingsandenergycenter/Pages/default.aspx">Savings &amp; Energy Center</a></span><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/GetReEnergized/Pages/default.aspx">Tips, Tools &amp; Ideas</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForHomes/Pages/default.aspx">For Homes</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForCondosApartments/Pages/default.aspx">For Condos &amp; Apts</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForBusinesses/Pages/default.aspx">For Businesses</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForCommunities/Pages/default.aspx">For Communities</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForSchools/Pages/default.aspx">For Schools</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/GreenPower/Pages/default.aspx">Green Power</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/CarbonBalance/Pages/default.aspx">Carbon Balance</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/Renewables/Pages/default.aspx">Renewables</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/NewConstruction/Pages/default.aspx">New Construction</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/ForTradeAllies/Pages/default.aspx">For Trade Allies</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/AlternativeFuelVehicles/Pages/default.aspx">Alt Fuel Vehicles</a></div><div class="bottomNavListItem noindex"><a href="/savingsandenergycenter/AboutReEnergize/Pages/default.aspx">About Re-Energize</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/inyourcommunity/Pages/default.aspx">In Your Community</a></span><div class="bottomNavListItem noindex"><a href="/inyourcommunity/island/Pages/default.aspx">Island</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/jefferson/Pages/default.aspx">Jefferson</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/king/Pages/default.aspx">King</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/kitsap/Pages/default.aspx">Kitsap</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/kittitas/Pages/default.aspx">Kittitas</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/lewis/Pages/default.aspx">Lewis</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/pierce/Pages/default.aspx">Pierce</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/skagit/Pages/default.aspx">Skagit</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/snohomish/Pages/default.aspx">Snohomish</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/thurston/Pages/default.aspx">Thurston</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/whatcom/Pages/default.aspx">Whatcom</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/sewashington/Pages/default.aspx">Southeast Wash.</a></div><div class="bottomNavListItem noindex"><a href="/inyourcommunity/southernwashington/Pages/default.aspx">Southern Wash.</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/aboutpse/Pages/default.aspx">About PSE</a></span><div class="bottomNavListItem noindex"><a href="/aboutpse/Careers/Pages/default.aspx">Careers</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/CorporateInfo/Pages/default.aspx">Corporate Info</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/EnergySupply/Pages/default.aspx">Energy Supply</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/Environment/Pages/default.aspx">Environment</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/GivingBack/Pages/default.aspx">Giving Back</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/PseNewsroom/Pages/default.aspx">Newsroom</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/Rates/Pages/default.aspx">Rates</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/SystemReliability/Pages/default.aspx">System Reliability</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/ToursandRecreation/Pages/default.aspx">Tours &amp; Recreation</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/VendorsSuppliers/Pages/default.aspx">Vendors/Suppliers</a></div><div class="bottomNavListItem noindex"><a href="/aboutpse/HydroLicensing/Pages/default.aspx">Hydro Licensing</a></div></div><div class="bottomNavList noindex"><span class="bottomNavListHeader"><a href="/Other-Languages/Pages/default.aspx">Other Languages</a></span><div class="bottomNavListItem noindex"><a href="/Other-Languages/Chinese/Pages/default.aspx">中文 Chinese</a></div><div class="bottomNavListItem noindex"><a href="/Other-Languages/Russian/Pages/default.aspx">Русский Russian</a></div><div class="bottomNavListItem noindex"><a href="/Other-Languages/Spanish/Pages/default.aspx">Español Spanish</a></div><div class="bottomNavListItem noindex"><a href="/Other-Languages/Korean/Pages/default.aspx">한국어 Korean</a></div></div></div><div class="footerInfo noindex" id="footerRight"><div class="footerLink noindex">General Info <a href="tel:1-888-225-5773" class="phoneNumber">1-888-225-5773</a> | <a href="/Pages/contact-us.aspx">Contact Us</a></div><div class="footerLink noindex" style="font-size:10px;padding-top:6px"><a href="/Pages/terms.aspx">Terms of Use</a> | <a href="/Pages/privacy.aspx">Privacy Policy</a> | <a href="mailto:webmaster@pse.com">Website Feedback </a> | <a href="/Pages/sitemap.aspx"></a></div></div><div><div class="divClear"></div><div class="footerCopyright noindex" id="footerCopyright">© 2013 Puget Sound Energy. All rights reserved.</div></div>
             </div> <!-- pageFooter -->
         </div>
         </div>
@@ -462,11 +782,14 @@ Out of respect for your privacy, we give you the option to opt-out from our mark
 
 	<!-- the developer dashboard can be turned on by administrators and shows debuging and performance info for the page -->
 	<div id="DeveloperDashboard" class="ms-developerdashboard">
-		
+        <div id="ctl00_DeveloperDashboardUpdatePanel">
+	
+        		
+            
+</div>
 	</div>
 
   </div>
-
 
 <!-- =====  End scrolling body area with these two previous div's ============================================================ -->
 
@@ -562,35 +885,35 @@ ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __
 </script>
 <script type="text/javascript" language="JavaScript" defer="defer">
 <!--
-function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)); } _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function S52EF3DAE_Submit() {if (document.getElementById('ctl00_ctl31_ctl03').value == '0') { document.getElementById('ctl00_ctl31_S52EF3DAE_InputKeywords').value=''; }SearchEnsureSOD();GoSearch('ctl00_ctl31_ctl03','ctl00_ctl31_S52EF3DAE_InputKeywords',null,true,false,null,null,null,null,null,'\u002fPages\u002fSearch.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002fPages\u002fSearch.aspx', '', 'Please enter one or more search words.');if (document.getElementById('ctl00_ctl31_ctl03').value == '0') { document.getElementById('ctl00_ctl31_S52EF3DAE_InputKeywords').value='Search...'; }}
+function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)); } _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function S52EF3DB0_Submit() {if (document.getElementById('ctl00_ctl33_ctl03').value == '0') { document.getElementById('ctl00_ctl33_S52EF3DB0_InputKeywords').value=''; }SearchEnsureSOD();GoSearch('ctl00_ctl33_ctl03','ctl00_ctl33_S52EF3DB0_InputKeywords',null,true,false,null,null,null,null,null,'\u002fPages\u002fSearch.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002fPages\u002fSearch.aspx', '', 'Please enter one or more search words.');if (document.getElementById('ctl00_ctl33_ctl03').value == '0') { document.getElementById('ctl00_ctl33_S52EF3DB0_InputKeywords').value='Search...'; }}
 // -->
 </script><script type="text/javascript" language="JavaScript">
 // append an onload event handler
-var S52EF3DAE__onload= document.body.onload;
+var S52EF3DB0__onload= document.body.onload;
 if(typeof document.body.onload == 'function')
 {
  document.body.onload = function()
  {
-S52EF3DAE__onload();        
-  document.getElementById('ctl00_ctl31_S52EF3DAE_InputKeywords').name = 'InputKeywords';
+S52EF3DB0__onload();        
+  document.getElementById('ctl00_ctl33_S52EF3DB0_InputKeywords').name = 'InputKeywords';
  }
 }
 else
 {
  document.body.onload = function()
  {
-  eval(S52EF3DAE__onload);        
-  document.getElementById('ctl00_ctl31_S52EF3DAE_InputKeywords').name = 'InputKeywords';
+  eval(S52EF3DB0__onload);        
+  document.getElementById('ctl00_ctl33_S52EF3DB0_InputKeywords').name = 'InputKeywords';
  }
 }
 
-function S52EF3DAE_OSBEK(event1) { 
+function S52EF3DB0_OSBEK(event1) { 
 if((event1.which == 10) || (event1.which == 13))
 {   
-S52EF3DAE_Submit();return false;
+S52EF3DB0_Submit();return false;
 }
 }
-{ var searchTextBox = document.getElementById('ctl00_ctl31_S52EF3DAE_InputKeywords');if (searchTextBox.className.indexOf('s4-searchbox-QueryPrompt') == -1) searchTextBox.className += searchTextBox.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; }// -->
+{ var searchTextBox = document.getElementById('ctl00_ctl33_S52EF3DB0_InputKeywords');if (searchTextBox.className.indexOf('s4-searchbox-QueryPrompt') == -1) searchTextBox.className += searchTextBox.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; }// -->
 </script><script type="text/javascript">
 // <![CDATA[
 // ]]>
@@ -617,11 +940,6 @@ Sys.Application.initialize();
 </script>
 </form>
 
-<form id="mypselogin" action="" method="POST">
-    <input type="hidden" name="user">
-    <input type="hidden" name="password">
-    <input type="hidden" name="remember">
-</form>
 <!-- extra form for some instances -->
 
 
@@ -630,6 +948,11 @@ Sys.Application.initialize();
 
 <!-- Starter Master Page by Randy Drisgill (http://blog.drisgill.com) - Jan 27, 2009 -->
 <!-- Remove this credit if you want, but if you leave it in I will appreciate it! -->
+<script type="text/javascript">
+        
+if(navigator && navigator.userAgent && /chrome/.test(navigator.userAgent.toLowerCase()) && $){
+  $(document).ready(function(){if(_spBodyOnLoadWrapper){_spBodyOnLoadWrapper();}});
+}</script>
 
 
 </body></html>
