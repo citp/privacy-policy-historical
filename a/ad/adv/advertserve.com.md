@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003155343id_/http%3A//advertserve.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425084906id_/http%3A//www.advertserve.com/privacy.html) for the most accurate reproduction.*
 
 # AdvertServe :: Privacy Policy
 
