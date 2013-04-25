@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011075847id_/http%3A//www.escardio.org/about/how/policies/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425073907id_/http%3A//www.escardio.org/about/how/policies/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # ESC | About the ESC | How we work | ESC Policies | ESC Privacy and Data Security Policy
 
