@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneysmartlife.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012093613id_/http%3A//moneysmartlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmartlife.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425130748id_/http%3A//moneysmartlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Money Smart Life
+# Privacy Policy : Money Smart Life
 
 Browse >
 
@@ -17,3 +17,5 @@ Cookies are extremely small text files that help track a person’s “session�
 
 **How do we store your information?**  
 We protect and manage the contact information of newsletter subscribers with a premier newsletter service that’s a market leader in email privacy and security, Aweber Communications.  For those that subscribe to daily site updates via email, those services are provided by another industry leader, Feedburner. You can unsubscribe from both the Feedburner or Aweber updates at any time with the link at the bottom of your emails.
+
+Last updated by .
