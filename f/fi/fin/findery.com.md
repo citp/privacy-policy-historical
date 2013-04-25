@@ -1,100 +1,61 @@
-> *The following text is extracted and transformed from the findery.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findery.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425044612id_/https%3A//findery.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Our Privacy Policy • Findery
 
-**Go Daddy Respects Your Privacy**
+Last updated: August 22, 2012 (Account deletion information updated)
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We at Findery take your privacy very seriously. This Privacy Policy (a few portions have been adapted from a policy originally provided by [Automattic](http://automattic.com/) ([WordPress.com](http://wordpress.com/))) describes how we treat the information we collect when you visit and participate within the Findery community. We also describe various Findery features so you can be mindful of what and where you share content. It is made available under the [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license. Please read this notice very carefully. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Findery members must be at least 13 years old. If you become aware that your child has created an account, please email us at [privacy@findery](mailto:privacy@findery.com).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**What personal information do we collect?**
 
-**Information Collection and Use**
+\-- **Information that you elect to share with us**  
+When you create an account, we require an email address (we may send you an email to verify) and username. You may also elect to add a personal picture that represents you within the site and add your real name. Some of this information will be visible to the public, but your email address will remain private. You can also create "Home" and "Work" personal places where other members can leave you notes. Notes left at these locations will only appear on a map to you. When others view these notes, the location is hidden. You may modify any of your information at any time via your [settings page](https://findery.com/settings).
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+\-- **Information collected automatically**  
+• When you visit the website, we ask the browser for your location. If you accept, we use that information to show you nearby notes. We store your last map position locally in your browser, but we don't keep this information on the server anywhere. If you decline, you’ll still have access to every Findery feature.  
+• When you access Findery via the mobile web or the iPhone app, your location is determined via GPS and/or nearby networds and/or cell towers.   
+• We gather anonymized user actions for analytics to make Findery more better for everyone.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Creating notes**  
+The key functionality of Findery is leaving stories, information and/or images for your friends or the public to find. As you create these notes you should be mindful of your privacy. You may not want to leave a note publicly that identifies where you live. Additionally, you should be mindful of the privacy of others when you create notes. While you may be comfortable sharing an anecdote of that great party you went to where that crazy lady fell down drunk, your hosts may prefer that their humble abode not be featured in such a way. If you do find that your home has been featured in a way that identifies you as the resident, please contact us at [privacy@findery.com](mailto:privacy@findery.com).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Finding notes**  
+We've implemented a 10 minute delay related to the notifications around finding a note so that you can "unfind" a note. Let's say your best friend leaves a note "A great time was had by all" and much to your horror, when you visit the note, your friend's great time was had at Big Jim's Boobie Bungalow. Your brain screams "undo, undo" and that can be accomplished with "unfind". Simply mouse over your avatar and click "Yes please." There's more info in [our FAQs](https://findery.com/faq).
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**How your information is shared**  
+Other than to its employees and contractors who may view your account information as part of their day to day efforts, Findery will disclose potentially-personally-identifying and personally-identifying information only when required to do so by law.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**How your information is stored**  
+All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**How we communicate with you**  
+We have a myriad of notifications to keep you in the loop regarding how members are interacting with you and your notes. You can opt-out of some or all of these on your [settings page](https://findery.com/settings/notifications/). From time to time, we may send you helpful marketing and non-marketing company notifications. Our marketing messages will contain an unsubscribe link if you’d like to remove yourself from receiving those messages. You won't be able to opt-out of company notifications, but they will be infrequent and directly related to your use of Findery.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Cookies**  
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Findery uses cookies to help Findery identify and track visitors, their usage of the Findery website, and their website access preferences. Findery visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Findery's websites, with the drawback that certain features of Findery's websites may not function properly without the aid of cookies.
 
-**Security**
+**HTML5 Local Storage**  
+HTML5 local storage is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Findery uses local storage to authenticate users to the website and remember recent state, such as the last location of the map. HTML5 Local Storage is required for Findery to work.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Links to 3rd party sites**  
+Members may include links to 3rd party sites within the notes that they share. Our privacy policy covers only the content on Findery. Please take care when visiting any third party sites.
 
-**Updating Your Information**
+**Business Transfers**  
+If Findery or substantially all of its assets were acquired, or in the event that Findery goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Findery may continue to use your personal information as set forth in this policy. That said, we will communicate this transfer to you in a timely manner prior to the event so that you may determine whether or not you'd like to continue using Findery.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Ads**  
+Advertising may appear within Findery. Currently, any member may create a sponsored note, and while this may come with aggregate data regarding the activity around their notes, advertisers will not have any additional access to member account information beyond what you've specified in your account settings.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**How can I delete my account?**  
+You may terminate your Findery account at any time. There's a link at the bottom of your Settings page that leads to [Delete my account](https://findery.com/settings/delete). Please note that account deletion is permanent. All of your content will be removed from Findery and your username will be made immediately made available for someone else to register.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Changes to our Privacy Policy**  
+Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and at our sole discretion. If we do then we'll notify you by posting the amended policy on the website or by emailing you of the nature of the modifications along with a link to the modified document so that you can review it. In all cases, use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
 
-      iii.      You may call us at: (480) 505-8800
+Should you have any questions about this document, please contact us at [privacy@findery.com](mailto:privacy@findery.com).
 
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+2bkco Inc.  
+292 Ivy Street, #B  
+San Francisco, CA 94102
