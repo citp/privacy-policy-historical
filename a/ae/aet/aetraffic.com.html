@@ -1,219 +1,641 @@
-<!--The following is the downloaded HTML source of the aetraffic.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023000725id_/https%3A//www.aetraffic.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aetraffic.com privacy policy that was archived on 2013-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425114800id_/https%3A//www.aetraffic.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Your Privacy is Important to us at Aetraffic">
-<title>Privacy Policy | Buy Traffic | Aetraffic</title>
- <link rel="shortcut icon" type="image/x-icon" href="favicon1.ico">
-<link href="https://www.aetraffic.com/css/screen.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="https://www.aetraffic.com/js/jquery-1.3.2.js"></script>
+
+<title>privacy | Aetraffic</title> <meta name="description" content="AETraffic.com is the top online marketing service to buy traffic for your website and to buy targeted website traffic and unique visitors to help you boost sales revenue and profits."> <meta name="keywords" content="Buy Traffic, Buy Website Traffic, Buy Visitors"> <meta name="google-site-verification" content="7vnlV_fB9LOUd1C2cVzJjMeITArtf3x4IcCz8wzmb_0"> 
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+<link rel="stylesheet" href="https://www.aetraffic.com/wp-content/themes/aetraffic2/style.css" type="text/css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+
 <script type="text/javascript">
-$(document).ready(function(){
-	$(".trigger").click(function(){
-		$(".panelLogin").toggle("fast");
-		$(this).toggleClass("active");
-		return false;
-	});
+
+function checkURL(value) {
+
+    var urlregex = new RegExp("^(http:\/\/www.|https:\/\/www.|ftp:\/\/www.|www.|){1}([0-9A-Za-z]+\.)");
+    if (urlregex.test(value)) {
+
+        return (true);
+
+    }
+
+    return (false);
+
+}
+
+function isInt(value){ 
+
+  if((parseFloat(value) == parseInt(value)) && !isNaN(value)){
+
+      return true;
+
+  } else { 
+
+      return false;
+
+  } 
+
+}
+
+
+
+  jQuery(document).ready(function() {
+
+	jQuery('.af-header').html('Sign Up Today And Start Getting Loads Of Value');
+
+	var ww = window.innerWidth;
+
+	if(!ww){
+
+		ww = document.body.offsetWidth;
+
+	}
+
+	var remained = ww - 1024;
+
+	var added_width = 709 + (remained / 2);
+
+	added_width = Math.round(added_width);
+
+	if(ww >= 1600){
+
+		added_width = 1006;
+
+	}
+
+	document.getElementById('yellow_band').style.width = ""+added_width+"px";
+
+
+
+jQuery('#form_url').blur(function() {
+
+  var the_value = $(this).val();
+
+  if(!checkURL(the_value)){
+
+	  alert('Please provide a valid URL.\n Ex: www.example.com');
+
+	  jQuery(this).val('');
+
+  }
+
 });
-</script>
-</head>
-<body>
-<script type="text/javascript" language="javascript" src=" https://www.aetraffic.com/js/validater.js"></script>
-<div class="panelLogin" id="panelLogin" style="display:none;">
 
-<form action="login.php?action=login" method="post" name="frmloginSlider" id="frmloginSlider" onsubmit="return DologinSlideFrm(this);">
-<input type="text" name="txtUsername" id="txtUsername" value="User Name" onfocus="if(this.value='User Name'){this.value='';}" onblur="if(this.value==''){this.value='User Name'}" class="logininput">
-	 <input type="password" name="pwdUserpass" id="pwdUserpass" value="Password" onfocus="if(this.value='User Name'){this.value='';}" onblur="if(this.value==''){this.value='Password'}" class="logininput">
-	<a href="forgotpassword.php" class="forgot">Forgot?</a>
-	
-		<input type="hidden" value="login" name="action" id="action">
-		<input type="submit" value="" class="loginbutton" name="sbmLoginok" id="sbmLoginok">
-        <div class="notify"><span id="spnLogerror"> </span></div>
-</form>
+jQuery('#form_visits').blur(function() {
 
-</div>
+  var the_value = $(this).val();
 
-	<script type="text/javascript" language="javascript">
-		function showError(msg)
-		{
-		$("#panelLogin").show();
-			//document.getElementById('panelLogin').style.display='inline';
-			document.getElementById('spnLogerror').innerHTML=msg;
-		}
-	</script>
+  if(!isInt(the_value)){
+
+	  alert('Please provide a valid number.');
+
+	  jQuery(this).val('');
+
+  }
+
+});
+
+
+
+  
+
+  jQuery('#dd_package').click(function(){
+
+	  jQuery('#dd_list_country').hide();
+
+	  jQuery('#dd_list_category').hide();
+
+	  jQuery('#dd_list_package').toggle(100);
+
 	  
-<a href="#" class="trigger"><img src="https://www.aetraffic.com/img/login.png"></a>
-<div class="header">
-	<div class="placeholder">
-    	<ul class="navigation">
-    	<li> <a href="https://www.aetraffic.com/index.php">Home</a>-</li>
-        <li> <a href="https://www.aetraffic.com/about.php">About us</a>-</li>
-        <li> <a href="https://www.aetraffic.com/buy-website-traffic.php">Buy Targeted Website Traffic</a>-</li>
-         <li> <a href="https://www.aetraffic.com/testimonials.php">Testimonials</a>-</li>
-        <li> <a href="https://www.aetraffic.com/faq.php">FAQs</a>-</li>
-        <li> <a href="https://www.aetraffic.com/contact.php">Contact Us</a>-</li> 
+
+  });
+
+  jQuery('#dd_country').click(function(){
+
+	  jQuery('#dd_list_category').hide();
+
+	  jQuery('#dd_list_package').hide();
+
+	  jQuery('#dd_list_country').toggle(100);
+
+	  
+
+  });
+
+  jQuery('#dd_category').click(function(){
+
+	  	  jQuery('#dd_list_package').hide();
+
+	  jQuery('#dd_list_country').hide();
+
+
+
+	  jQuery('#dd_list_category').toggle(100);
+
+	  
+
+  }); 
+   
+	jQuery('#sub').click(function(){
+		if(!jQuery('#agree').attr('checked')){
+		  alert('You need to agree to our Terms & Conditions.');
+		  return false;
+		}
+	});
+	
+	
+  
+
+  });
+
+
+
+</script>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Aetraffic » privacy Comments Feed" href="https://www.aetraffic.com/privacy/feed/"><link rel="stylesheet" id="aeStylesheet-css" href="https://www.aetraffic.com/wp-content/plugins/aetraffic_newsletter_widget/css/thestyle.css?ver=1.0" type="text/css" media="all"><link rel="stylesheet" id="myStyleSheets-css" href="https://www.aetraffic.com/wp-content/plugins/simple-sitemap/css/ss_style.css?ver=3.4.1" type="text/css" media="all"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.aetraffic.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.aetraffic.com/wp-includes/wlwmanifest.xml"><link rel="prev" title="contact" href="https://www.aetraffic.com/contact/"><link rel="next" title="blog" href="https://www.aetraffic.com/blog/"><meta name="generator" content="WordPress 3.4.1"><link rel="canonical" href="https://www.aetraffic.com/privacy/"><link rel="stylesheet" type="text/css" href="https://www.aetraffic.com/wp-content/plugins/cforms/styling/cforms2012.css"><script type="text/javascript" src="https://www.aetraffic.com/wp-content/plugins/cforms/js/cforms.js"></script></head>
+
+
+
+
+
  
-		
-        </ul>
-    </div>
-</div>
 
-<div class="bgeffect innerbgeffect">	
-	<div class="placeholder centered">
-		<ul class="afterhead">
-        	<li class="slidercontent">
-            <p class="logo"><a href="https://www.aetraffic.com/index.php"><img src="https://www.aetraffic.com/img/logo.png" alt="Buy Traffic, Buy Website Traffic, Buy Visitors"></a></p>            
-            </li> 
-			   
-        </ul>
-        
-    </div>
-</div>
 
-<!--<div class="bgeffect innerbgeffect">	
-	<div class="placeholder centered">
-		<ul class="afterhead">
-        	<li class="slidercontent">
-            <p class="logo"><a href="index.html"><img src="img/logo.png" alt="Buy Traffic, Buy Website Traffic, Buy Visitors"/></a></p>            
-            </li>       
-        </ul>
-        
-    </div>
-</div>--><div class="graypattern innergraypattern">
-	<div class="placeholder">
-        <div class="bodycontainer">
-			<!-- START PRIVACY POLICY CODE -->
-<div style="font-family: times;">
-	&nbsp;</div>
-<div style="font-family: times;">
-	&nbsp;</div>
-<div style="font-family: times;">
-	<strong style="font-size: medium; ">What information do we collect?</strong></div>
-<div style="font-family: times;">
-	<br>
-	<span style="font-size: medium;">We collect information from you when you register on our site, place an order. </span><br>
-	<br>
-	<span style="font-size: medium;">When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or support@aetraffic.com. You may, however, visit our site anonymously.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>What do we use your information for?</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">Any of the information we collect from you may be used in one of the following ways: </span><br>
-	<br>
-	<span style="font-size: medium;">To process transactions</span></div>
-<div style="font-family: times;">
-	&nbsp;</div>
-<div style="font-family: times;">
-	<span style="font-size: medium;"><strong>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</strong></span><br>
-	<br>
-	<br>
-	<span style="font-size: medium;"><strong>How do we protect your information?</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. </span><br>
-	<br>
-	<span style="font-size: medium;">We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.</span><br>
-	<br>
-	<span style="font-size: medium;">After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Do we use cookies?</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">We do not use cookies.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Do we disclose any information to outside parties?</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>California Online Privacy Protection Act Compliance</strong></span><br>
-	<br>
-	<span style="font-size: medium;">Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</span><br>
-	<br>
-	<span style="font-size: medium;">As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Childrens Online Privacy Protection Act Compliance</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Online Privacy Policy Only</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">This online privacy policy applies only to information collected through our website and not to information collected offline.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Terms and Conditions</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.aetraffic.com/terms.php">http://www.aetraffic.com/terms.php</a></span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Your Consent</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">By using our site, you consent to our <a href="http://www.freeprivacypolicy.com/" style="text-decoration: none; color: #3c3c3c;" target="_blank">privacy policy</a>.</span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Changes to our Privacy Policy</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">If we decide to change our privacy policy, we will post those changes on this page. </span><br>
-	<br>
-	<span style="font-size: medium;"><strong>Contacting Us</strong> </span><br>
-	<br>
-	<span style="font-size: medium;">If there are any questions regarding this privacy policy you may contact us using the information below. </span><br>
-	<br>
-	<span style="font-size: medium;">www.aetraffic.com</span><br>
-	<span style="font-size: medium;">P.O. Box 4234 </span><br>
-	<span style="font-size: medium;">San Dimas, California 91773</span><br>
-	<span style="font-size: medium;">United States</span><br>
-	<span style="font-size: medium;">support@aetraffic.com</span><br>
-	<br>
-	<br>
-	&nbsp;</div>
-<!-- END PRIVACY POLICY CODE -->        	
+
+
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[141,217] -->
+
+<!-- /all in one seo pack Pro Version-->
+
+
+
+<body>
+
+
+
+		<div id="header">
+
+        	<div id="header_content">
+
+            <div class="clear"></div>
+
+            	<a href="#"><img id="logo" src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/logo.png"></a>
+
+                <div id="yellow_band">
+
+                	<ul id="menu">
+
+                    	<!--<li><a href="#">home</a></li>
+
+                        <li><a href="#">adult traffic</a></li>
+
+                    	<li><a href="#">targeted traffic</a></li>
+
+                    	<li><a href="#">faq</a></li>
+
+                    	<li><a href="#">terms</a></li>
+
+                    	<li><a href="#">sitemap</a></li>
+
+                    	<li><a href="#">contact</a></li>-->
+
+<div class="menu-header-menu-container"><ul id="menu_h"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.aetraffic.com/">home</a></li>
+<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://www.aetraffic.com/about/">about us</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.aetraffic.com/targeted-traffic/">targeted traffic</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.aetraffic.com/adult-traffic/">adult traffic</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.aetraffic.com/faq/">faq</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://www.aetraffic.com/terms/">terms</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://www.aetraffic.com/sitemap/">sitemap</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-47 current_page_item menu-item-48"><a href="https://www.aetraffic.com/privacy/">privacy</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.aetraffic.com/blog/">blog</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://www.aetraffic.com/contact/">contact</a></li>
+</ul></div> 
+
+                    </ul>
+
+                </div>
+
+              <div class="header_txt" id="header_big_txt_left">
+
+              	<h2>You bring the</h2>
+
+              	<h1>Site</h1>
+
+              </div>
+
+               <div class="header_txt" id="header_big_txt_right">
+
+              	<h2>We bring the</h2>
+
+              	<h1>Traffic</h1>
+
+              </div>
+
+            </div>
+
+             <div class="clear"></div>
+
         </div>
-        </div>
+
+        <div id="content">
+
+
+  <div id="sidebar">
+            	<div id="sidebar_title">Testimonials</div>
+                <div class="carbon" id="sidebar_content">
+                
+                              	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/prometheusmi-com/">Prometheusmi.com</a></h1>
+                         by <span class="testimonial_by">Erik McCurdy</span>
+                    <p>
+  </p><p>Hi Tom, I am happy with the quality of the traffic being delivered by this campaign, and I would like to increase the daily throughput. Best,</p>
+ <p></p>
+ </div>
+                     	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/pressreleasethat-com/">pressreleasethat.com</a></h1>
+                         by <span class="testimonial_by">John Stagger</span>
+                    <p>
+  </p><p>Hey, I like the traffic, please send another 10k over the next 7 days to the same site:&nbsp;pressreleasethat.com&nbsp;I will become your regular customer now.&nbsp;thanks</p>
+ <p></p>
+ </div>
+                     	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/professional-blogger/">Professional Blogger</a></h1>
+                         by <span class="testimonial_by">O'Neal Curry</span>
+                    <p>
+  </p><p>I’ve enjoyed the traffic so far, and look forward to purchasing more!</p>
+ <p></p>
+ </div>
+                     	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/gernlandweb-info/">gernlandweb.info</a></h1>
+                         by <span class="testimonial_by">Sonokai</span>
+                    <p>
+  </p><p>I’ve been buying this service for months now and it’s done wonders for me. The traffic shows up on my Awstats, and Webalizer, as well as analytics, so I’m happy about that. Alexa rank is better&nbsp;as well too <img src="https://www.aetraffic.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley">  All in all, this has been my favorite traffic service, I know it’s real, since some of them clicked on my adsense ads and I’ve profited XD</p>
+ <p></p>
+ </div>
+                     	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/great-job/">Great job</a></h1>
+                         by <span class="testimonial_by">Royce Morgan</span>
+                    <p>
+  </p><p>This guy is great work with he provides real website visitors and great value. I have to say my campaign started 8 days ago Its getting about 170 unique a day on average I have amazing quality websie traffic. I am gonna order more my alexa ranking gets better everyday!!</p>
+ <p></p>
+ </div>
+                     	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/seo-partners-uk/">SEO Partners UK</a></h1>
+                         by <span class="testimonial_by">Adam Wolfson</span>
+                    <p>
+  </p><p>I really appreciate the fantastic response time and willingness to help. The amount of traffic companies out there that neither reply quickly or help is staggering. Thanks for not being one of them. All the best.</p>
+ <p></p>
+ </div>
+                     	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/orderfacebookfan-com/">orderfacebookfan</a></h1>
+                         by <span class="testimonial_by">Jon Stagger</span>
+                    <p>
+  </p><p>Hey, awesome traffic, please send another 10k US over the next 7 days to my new site</p>
+ <p></p>
+ </div>
+                     	<div class="testimonial">
+                		<h1><a href="https://www.aetraffic.com/testimonial/tumanitas-com/">Tumanitas.com</a></h1>
+                         by <span class="testimonial_by">March Logarich</span>
+                    <p>
+  </p><p>I have worked with many traffic and lead-generating services; Aetraffic.com surprised me with their very pro-active support and excellent response times. There are REAL people behind the servic, making sure that the traffic and links are created. Another cool feature is the control panel to monitor how the campaign is performing. Just awesome!</p>
+ <p></p>
+ </div>
+           
+                	
+                </div>
+            </div>
+
+
+
+            <div id="text_zone">
+
+             
+                <div class="post">
+
+                  
+
+                  
+
+               		<p>
+
+                    </p><h1>AETraffic Privacy Policy</h1>
+<p>The privacy of our visitors and subscribers&nbsp;is important to AETraffic<a name="_GoBack"></a>. This statement&nbsp;contains&nbsp;important&nbsp;information&nbsp;regarding&nbsp;the personal information that AETraffic&nbsp;collects&nbsp;and&nbsp;how&nbsp;AETraffic uses that information.</p>
+<p>&nbsp;</p>
+<h2>Personal Information Gathering</h2>
+<p>When you subscribe to our newsletter,&nbsp;AETraffic may collect information&nbsp;about:</p>
+<ul>
+<li>your use of this website</li>
+<li>your contact details&nbsp;for the purpose of registering with the website</li>
+<li>transactions carried out over this website</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Personal Information&nbsp;Use</h2>
+<p>AETraffic might use your information to:</p>
+<ul>
+<li>administer&nbsp;our&nbsp;website/newsletter</li>
+<li>personalize&nbsp;our&nbsp;website/newsletter for you</li>
+<li>allow your access&nbsp;and&nbsp;use of&nbsp;our&nbsp;website&nbsp;and newsletter services</li>
+<li>publish information about you&nbsp;in the newsletter or on our website</li>
+<li>send you products/services that you register for or purchase</li>
+<li>send&nbsp;you statements/invoices&nbsp;and to collect payments</li>
+<li>send&nbsp;you promotional content</li>
+</ul>
+<p>&nbsp;</p>
+<p>When you register for our newsletter, your personal information will not be:</p>
+<ul>
+<li>traded for any reason, including to gain information from other companies/people</li>
+<li>sold/rented for any reason, including&nbsp;for any financial transaction</li>
+<li>used in any way which would break our adherence to the CAN-SPAM Act</li>
+</ul>
+<p>&nbsp;</p>
+<p>AETraffic&nbsp;could be required to or opt to disclose&nbsp;your information to agents/sub-contractors for the above&nbsp;purposes,&nbsp;and those parties must also&nbsp;use&nbsp;it&nbsp;according to&nbsp;the terms of this privacy statement.</p>
+<p>&nbsp;</p>
+<p>If necessary,&nbsp;your information&nbsp;may be disclosed,&nbsp;if&nbsp;required or compelled&nbsp;to do so by&nbsp;legal authorities, in&nbsp;regards&nbsp;to&nbsp;legal&nbsp;actions and court order, and to&nbsp;take a legal position against these actions or orders.</p>
+<p>&nbsp;</p>
+<h2>Securing Your Personal Data</h2>
+<p>AETraffic will take practical technical and administrative&nbsp;actions&nbsp;to avoid the misuse,&nbsp;loss, or alteration of your personal information.</p>
+<p>&nbsp;</p>
+<p>AETraffic will store&nbsp;your&nbsp;information on&nbsp;our secure servers to the best of our ability, and information entered into&nbsp;our&nbsp;website will be protected by encryption technology.</p>
+<p>&nbsp;</p>
+<h2>Cross-Border Data Storage and Transfer</h2>
+<p>Information that AETraffic&nbsp;which is collected may be processed, transferred or stored in different servers or data centers owned by different corporate entities in all&nbsp;countries in which AETraffic operates&nbsp;in order to&nbsp;use the information in agreement with this privacy policy.&nbsp;By subscribing to our service, you agree to&nbsp;these&nbsp;cross-border transfers of&nbsp;your information.</p>
+<p>&nbsp;</p>
+<p>Also,&nbsp;any&nbsp;personal information you submit for publication on&nbsp;our&nbsp;website&nbsp;or in our newsletter&nbsp;may&nbsp;be published on the internet.</p>
+<p>&nbsp;</p>
+<h2>Third Party Websites</h2>
+<p>This website&nbsp;may&nbsp;contain links to other websites that may or not be affiliated with&nbsp;AETraffic, but we are&nbsp;not responsible for&nbsp;privacy policies/practices of any third party.</p>
+<p>&nbsp;</p>
+<h2>About this Privacy Statement</h2>
+<p>This privacy statement may be updated at any time and should be checked by your frequently, to maintain familiarity with our policies.&nbsp; If you do not agree to our privacy policy or are otherwise unsatisfied with our services, you are free to cancel your membership at any time.</p>
+
+                    <p></p>
+
+               </div>
+
+                 
+
+            	
+
+            
+
+            </div>
+
+                       <div class="carbon" id="sidebar_right">
+ 
+        <div class="widget"><div class="menu-header-menu-container"><ul id="menu-header-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.aetraffic.com/">home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://www.aetraffic.com/about/">about us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.aetraffic.com/targeted-traffic/">targeted traffic</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.aetraffic.com/adult-traffic/">adult traffic</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.aetraffic.com/faq/">faq</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://www.aetraffic.com/terms/">terms</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://www.aetraffic.com/sitemap/">sitemap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-47 current_page_item menu-item-48"><a href="https://www.aetraffic.com/privacy/">privacy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.aetraffic.com/blog/">blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://www.aetraffic.com/contact/">contact</a></li>
+</ul></div></div><div class="widget">			<div class="textwidget"><div class="traffic_now">
+<a href="https://www.aetraffic.com/targeted-traffic/"><h2>Get targeted traffic</h2>
+<h1><span class="yellow">Now</span></h1></a><h1><a href="https://www.aetraffic.com/targeted-traffic/">
+</a>
+</h1></div></div>
+		</div><div class="widget">			<div class="textwidget"><div class="traffic_now">
+<a href="https://www.aetraffic.com/adult-traffic"><h2>Get adult traffic</h2>
+<h1><span class="yellow">Now</span></h1></a><h1><a href="https://www.aetraffic.com/adult-traffic"></a>
+</h1></div></div>
+		</div><div class="widget"><h1></h1>    <h1 id="ebooks_title" class="yellow">Free eBooks!</h1>
+    <table id="ebooks_table" border="0" ;="">
+    	<tbody><tr>
+        	<td><img width="45" src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/eb1.png" alt="Free book"></td>
+            <td><img width="45" src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/eb2.png" alt="Free book"></td>
+            <td><img width="45" src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/eb3.png" alt="Free book"></td>
+            <td><img width="45" src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/eb4.png" alt="Free book"></td>
+           	<td><img width="45" src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/eb5.png" alt="Free book"></td>
+
+        </tr>
+    </tbody></table>
+    <p id="aenewsletter_txt"><span class="yellow">Sign up</span> for our newsletters and get 
+Weekly <span class="yellow">FREE</span> expert advice on 
+emarketing SEO and marketing 
+ebooks worth <span class="yellow">$295</span>.<br>
+Instant discount of <span class="yellow">20%</span><br>
+<span class="yellow">Unsubscribe</span> anytime you want </p>
+</div><div class="widget">			<div class="textwidget"><!-- AWeber Web Form Generator 3.0 -->
+<style type="text/css">
+#af-form-2039883369 .af-body .af-textWrap{width:98%;display:block;float:none;}
+#af-form-2039883369 .af-body .privacyPolicy{color:#000000;font-size:11px;font-family:Verdana, sans-serif;}
+#af-form-2039883369 .af-body a{color:#094C80;text-decoration:underline;font-style:normal;font-weight:normal;}
+#af-form-2039883369 .af-body input.text, #af-form-2039883369 .af-body textarea{background-color:#FFFFFF;border-color:#919191;border-width:1px;border-style:solid;color:#000000;text-decoration:none;font-style:normal;font-weight:normal;font-size:12px;font-family:Verdana, sans-serif;}
+#af-form-2039883369 .af-body input.text:focus, #af-form-2039883369 .af-body textarea:focus{background-color:#FFFAD6;border-color:#030303;border-width:1px;border-style:solid;}
+#af-form-2039883369 .af-body label.previewLabel{display:block;float:none;text-align:left;width:auto;color:#000000;text-decoration:none;font-style:normal;font-weight:normal;font-size:12px;font-family:Verdana, sans-serif;}
+#af-form-2039883369 .af-body{padding-bottom:15px;padding-top:15px;background-repeat:no-repeat;background-position:inherit;background-image:none;color:#000000;font-size:11px;font-family:Verdana, sans-serif;}
+#af-form-2039883369 .af-footer{padding-right:15px;padding-left:15px;background-color:#transparent;border-width:1px;border-bottom-style:none;border-left-style:none;border-right-style:none;border-top-style:none;color:#000000;font-size:12px;font-family:Verdana, sans-serif;}
+#af-form-2039883369 .af-header{padding-bottom:9px;padding-top:9px;padding-right:10px;padding-left:10px;background-image:url('http://forms.aweber.com/images/auto/body/009/5ff/005/999');background-position:top left;background-repeat:repeat-x;background-color:#005999;border-width:1px;border-bottom-style:none;border-left-style:none;border-right-style:none;border-top-style:none;color:#FFFFFF;font-size:16px;font-family:Verdana, sans-serif;}
+#af-form-2039883369 .af-quirksMode .bodyText{padding-top:2px;padding-bottom:2px;}
+#af-form-2039883369 .af-quirksMode{padding-right:15px;padding-left:15px;}
+#af-form-2039883369 .af-standards .af-element{padding-right:15px;padding-left:15px;}
+#af-form-2039883369 .bodyText p{margin:1em 0;}
+#af-form-2039883369 .buttonContainer input.submit{background-image:url("http://forms.aweber.com/images/auto/gradient/button/07c.png");background-position:top left;background-repeat:repeat-x;background-color:#0057ac;border:1px solid #0057ac;color:#FFFFFF;text-decoration:none;font-style:normal;font-weight:normal;font-size:14px;font-family:Verdana, sans-serif;}
+#af-form-2039883369 .buttonContainer input.submit{width:auto;}
+#af-form-2039883369 .buttonContainer{text-align:right;}
+#af-form-2039883369 body,#af-form-2039883369 dl,#af-form-2039883369 dt,#af-form-2039883369 dd,#af-form-2039883369 h1,#af-form-2039883369 h2,#af-form-2039883369 h3,#af-form-2039883369 h4,#af-form-2039883369 h5,#af-form-2039883369 h6,#af-form-2039883369 pre,#af-form-2039883369 code,#af-form-2039883369 fieldset,#af-form-2039883369 legend,#af-form-2039883369 blockquote,#af-form-2039883369 th,#af-form-2039883369 td{float:none;color:inherit;position:static;margin:0;padding:0;}
+#af-form-2039883369 button,#af-form-2039883369 input,#af-form-2039883369 submit,#af-form-2039883369 textarea,#af-form-2039883369 select,#af-form-2039883369 label,#af-form-2039883369 optgroup,#af-form-2039883369 option{float:none;position:static;margin:0;}
+#af-form-2039883369 div{margin:0;}
+#af-form-2039883369 fieldset{border:0;}
+#af-form-2039883369 form,#af-form-2039883369 textarea,.af-form-wrapper,.af-form-close-button,#af-form-2039883369 img{float:none;color:inherit;position:static;background-color:none;border:none;margin:0;padding:0;}
+#af-form-2039883369 input,#af-form-2039883369 button,#af-form-2039883369 textarea,#af-form-2039883369 select{font-size:100%;}
+#af-form-2039883369 p{color:inherit;}
+#af-form-2039883369 select,#af-form-2039883369 label,#af-form-2039883369 optgroup,#af-form-2039883369 option{padding:0;}
+#af-form-2039883369 table{border-collapse:collapse;border-spacing:0;}
+#af-form-2039883369 ul,#af-form-2039883369 ol{list-style-image:none;list-style-position:outside;list-style-type:disc;padding-left:40px;}
+#af-form-2039883369,#af-form-2039883369 .quirksMode{width:225px;}
+#af-form-2039883369.af-quirksMode{overflow-x:hidden;}
+#af-form-2039883369{background-color:#F0F0F0;border-color:#CFCFCF;border-width:1px;border-style:solid;}
+#af-form-2039883369{display:block;}
+#af-form-2039883369{overflow:hidden;}
+.af-body .af-textWrap{text-align:left;}
+.af-body input.image{border:none!important;}
+.af-body input.submit,.af-body input.image,.af-form .af-element input.button{float:none!important;}
+.af-body input.text{width:100%;float:none;padding:2px!important;}
+.af-body.af-standards input.submit{padding:4px 12px;}
+.af-clear{clear:both;}
+.af-element label{text-align:left;display:block;float:left;}
+.af-element{padding:5px 0;}
+.af-form-wrapper{text-indent:0;}
+.af-form{text-align:left;margin:auto;}
+.af-header,.af-footer{margin-bottom:0;margin-top:0;padding:10px;}
+.af-quirksMode .af-element{padding-left:0!important;padding-right:0!important;}
+.lbl-right .af-element label{text-align:right;}
+body {
+}
+</style>
+<form method="post" class="af-form-wrapper" action="http://www.aweber.com/scripts/addlead.pl" target="_new">
+<div style="display: none;">
+<input type="hidden" name="meta_web_form_id" value="2039883369">
+<input type="hidden" name="meta_split_id" value="">
+<input type="hidden" name="listname" value="aetraffic">
+<input type="hidden" name="redirect" value="http://www.aweber.com/thankyou-coi.htm?m=text" id="redirect_f33df64035bf0a77055cc4db6f5b1c5a">
+
+<input type="hidden" name="meta_adtracking" value="AET_Web_Form">
+<input type="hidden" name="meta_message" value="1">
+<input type="hidden" name="meta_required" value="name,email">
+
+<input type="hidden" name="meta_tooltip" value="">
 </div>
-<div class="footerbody">
-	<div class="placeholder">
-    	<ul class="footerlinks">
-        	<li class="theading"><span>Menu</span>
-            <ul><li><a href="https://www.aetraffic.com/index.php">Buy Website Traffic Home</a></li>
-            <li><a href="https://www.aetraffic.com/about.php">About Us</a></li>
-            <li><a href="https://www.aetraffic.com/buy-website-traffic.php">Marketing Services</a></li>
-            <li><a href="https://www.aetraffic.com/testimonials.php">Testimonials</a></li>
-            <li><a href="https://www.aetraffic.com/contact.php">Contact Us</a></li></ul>
-            </li>
-            <li class="theading"><span>Services</span>
-            <ul><li><a href="https://www.aetraffic.com/buy-website-traffic.php">Buy Website Traffic</a></li>
-            <li><a href="https://www.aetraffic.com/buy-website-traffic.php">Buy Adult Traffic</a></li>
-            <li><a href="https://www.aetraffic.com/contact.php">Low Cost Banner Ads</a></li>
-            <li><a href="https://www.aetraffic.com/contact.php">Custom or Bulk Traffic Orders</a></li>
-			</ul>
-            </li>
-            <li class="theading pg"><span>Payment Gateway</span>
-            <ul>
-            <li><a href="#"><img src="https://www.aetraffic.com/img/design_03.png"></a></li>
-            <li><a href="#"><img src="https://www.aetraffic.com/img/design_05.png"></a></li>
-            <li><a href="#"><img src="https://www.aetraffic.com/img/design_07.png"></a></li>
-            <li><a href="#"><img src="https://www.aetraffic.com/img/design_13.png"></a></li>
-            <li><a href="#"><img src="https://www.aetraffic.com/img/design_15.png"></a></li>
-			
+<div id="af-form-2039883369" class="af-form"><div id="af-header-2039883369" class="af-header"><div class="bodyText"><p>&nbsp;</p></div></div>
+<div id="af-body-2039883369" class="af-body af-standards">
+<div class="af-element">
+<label class="previewLabel" for="awf_field-42792076">Name: </label>
+<div class="af-textWrap">
+<input id="awf_field-42792076" type="text" name="name" class="text" value="" tabindex="500">
+</div>
+<div class="af-clear"></div></div>
+<div class="af-element">
+<label class="previewLabel" for="awf_field-42792077">Email: </label>
+<div class="af-textWrap"><input class="text" id="awf_field-42792077" type="text" name="email" value="" tabindex="501">
+</div><div class="af-clear"></div>
+</div>
+<div class="af-element buttonContainer">
+<input name="submit" class="submit" type="submit" value="Submit" tabindex="502">
+<div class="af-clear"></div>
+</div>
+<div class="af-element privacyPolicy" style="text-align: center"><p>We respect your <a title="Privacy Policy" href="http://www.aweber.com/permission.htm" target="_blank">email privacy</a></p>
+<div class="af-clear"></div>
+</div>
+<div class="af-element poweredBy" style="text-align: center; font-size: 9px;"><p>Powered by AWeber <a href="http://www.aweber.com" title="Autoresponder">Autoresponder</a></p>
+<div class="af-clear"></div>
+</div>
+</div>
+<div id="af-footer-2039883369" class="af-footer"><div class="bodyText"><p>&nbsp;</p></div></div>
+</div>
+<div style="display: none;"><img src="http://forms.aweber.com/form/displays.htm?id=TAzMnBwczMxsnA==" alt=""></div>
+</form>
+<script type="text/javascript">
+    <!--
+    (function() {
+        var IE = /*@cc_on!@*/false;
+        if (!IE) { return; }
+        if (document.compatMode && document.compatMode == 'BackCompat') {
+            if (document.getElementById("af-form-2039883369")) {
+                document.getElementById("af-form-2039883369").className = 'af-form af-quirksMode';
+            }
+            if (document.getElementById("af-body-2039883369")) {
+                document.getElementById("af-body-2039883369").className = "af-body inline af-quirksMode";
+            }
+            if (document.getElementById("af-header-2039883369")) {
+                document.getElementById("af-header-2039883369").className = "af-header af-quirksMode";
+            }
+            if (document.getElementById("af-footer-2039883369")) {
+                document.getElementById("af-footer-2039883369").className = "af-footer af-quirksMode";
+            }
+        }
+    })();
+    -->
+</script>
+
+<!-- /AWeber Web Form Generator 3.0 --></div>
+		</div><div class="widget">			<div class="textwidget"><div id="policy_widget">
+<h2>We respect your privacy</h2>
+<p>view our <a href="#">Privacy Policy</a></p>
+</div></div>
+		</div>            </div>
+            <div class="clear"></div>
+
+
+
+               <div class="clear"></div>
+
+
+
+
+          
+
+</div>
+<div class="carbon" id="footer">      
+         <div id="footer_band">
+        	<div id="footer_band_center">
+            	<a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/footer_logo.png"></a>
+                <div id="copyright">Copyright 2012 AE Traffic.com All rights reserved</div>
+            </div>
+        </div>
+        <div id="footer_center">
+        	<div id="signs">
+        		<a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/auth.png"></a>
+        		<a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/copy.png"></a>
+	        </div>
+            <div id="social">
+            	<a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/facebook.png"></a>
+        		<a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/twitter.png"></a>
+        		<a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/google.png"></a>
+
+            </div>
+        <div class="footer_widget">
+        	<h1>Contact <span class="white">us</span></h1>
+				<p><a href="mailto:sales@aetraffic.com">sales@aetraffic.com</a></p>
+        </div>
+        <div class="footer_widget">
+        	<h1>Useful <span class="white">resources</span></h1>
+            <ul id="footer_resources">
+            	<li><a href="http://en.wikipedia.org/wiki/Website_traffic">Web Traffic</a> - Wikipedia</li>
+                <li><a href="http://sbinfocanada.about.com/cs/ecommerce/a/drivetrafficmm.htm">Website Traffic</a> - About.com</li>
+            	<li><a href="http://www.iwanet.org/">International Webmasters Association</a></li>
+
+            	
+
             </ul>
-            </li>
-            <li class="theading">   
-			
-			
-					<!-- (c) 2005, 2011. Authorize.Net is a registered trademark of
-CyberSource Corporation -->  <div class="AuthorizeNetSeal">  <script type="text/javascript" language="javascript">var
-ANS_customer_id="cab5b7b1-b31a-4edc-bb38-782e83078efd";</script>  <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>  <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payment Service</a>  </div>	
+        </div>
+         <div class="footer_widget">
+        	<h1>Payment<span class="white">Gateway</span></h1>
+            <ul id="footer_payment">
+            	<li><a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/aexpress.png"></a></li>
+                            	<li><a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/discover.png"></a></li>
 
-<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=i2fg6ANZnnGpDwoxzDJrLiUjD3eFZ8cJL3hxjlX37bKbf0KdM6E"></script><br><a style="font-family: arial; font-size: 9px" href="http://www.godaddy.com/ssl/ssl-certificates.aspx" target="_blank">SSL certificates</a></span>
-			
-			 </li>
-        </ul>
-		
-    </div>
-</div>
-<div class="footer">
-	<div class="placeholder">
-    <ul class="footermainlinks">
-    <li><strong>© 2011-2012 by Aetraffic.com.<span class="sep">|</span>All Rights Reserved</strong></li><li><a href="privacy.php">Privacy Policy</a> <span class="sep">|</span> <a href="terms.php">Terms &amp; Conditions</a> <a href="http://coverage-auto-insurance.com/buying-car-insurance/">Car Insurance</a></li>
-    <li><ul></ul></li>
-    </ul>
-    </div>
-</div>
+            	<li><a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/visa.png"></a></li>
+
+            	<li><a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/mastercard.png"></a></li>
+            	<li><a href="#"><img src="https://www.aetraffic.com/wp-content/themes/aetraffic2/images/paypal.png"></a></li>
+
+            </ul>
+        </div>
+        
+        </div>
+ </div>
+ <div id="footer_message">
+Aetraffic is an online marketing company where our clients <b>Buy Traffic</b> for their websites. Our company includes services to <b>Buy Visitors, Buy Website Traffic Services</b> and to <b>Buy Targeted Website Traffic</b> and more.  
+
+
+ </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36537587-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<!-- Start Of Script Generated By cforms v14.6 [Oliver Seidel | www.deliciousdays.com] -->
+<!-- End Of Script Generated By cforms -->
+
+
+
+
 
 
 </body></html>
