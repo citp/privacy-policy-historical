@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the muytetudas.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024171559id_/http%3A//support.hugefuckabletits.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2788%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muytetudas.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425031329id_/http%3A//muytetudas.com/privacy) for the most accurate reproduction.*
 
-# Huge Fuckable Tits
+# Muy Tetudas
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
