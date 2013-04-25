@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krave.biz privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114223754id_/http%3A//www.krave.biz/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krave.biz privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425234943id_/http%3A//www.krave.biz/help/privacy) for the most accurate reproduction.*
 
 # Krave TE Social Community - Privacy Policy
 
@@ -22,16 +22,20 @@ Cookies are small files which many websites transfer to your hard disk. They can
 
 Outside Links
 
-Our website(s) may contain links to third-party websites not controlled by KRAVE or covered by this Privacy Policy. It is recommended that you check the privacy statement of other websites you visit before providing any personal information, and we are not responsible for their privacy policies or how they treat information about their users.  
+Our website(s) may contain links to third-party websites not controlled by KRAVE or covered by this Privacy Policy. It is recommended that you check the privacy statement of other websites you visit before providing any personal information, and we are not responsible for their privacy policies or how they treat information about their users.
+
 Disclaimers
 
-This website contains general information that is intended, but not guaranteed, to be correct, complete, up-to-date or error free. KRAVE uses reasonable precautions to keep all personal information provided secure. However, we are not responsible for any breach of security which is out of our control or for any actions of any third parties that receive the information.  
+This website contains general information that is intended, but not guaranteed, to be correct, complete, up-to-date or error free. KRAVE uses reasonable precautions to keep all personal information provided secure. However, we are not responsible for any breach of security which is out of our control or for any actions of any third parties that receive the information.
+
 Payments
 
-KRAVE does not store credit card details in any way, shape or form. All customers are advised to check the website of our payment processors and read their privacy policy and terms and conditions.  
+KRAVE does not store credit card details in any way, shape or form. All customers are advised to check the website of our payment processors and read their privacy policy and terms and conditions.
+
 Changes To Privacy Policy
 
-KRAVE reserves the right to change this Privacy Policy at any time we see fit and without notice.  
+KRAVE reserves the right to change this Privacy Policy at any time we see fit and without notice.
+
 Privacy Inquiries
 
 Please feel free to contact us for any further information or questions about this page.
