@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneywise.co.uk privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019123029id_/http%3A//www.moneywise.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneywise.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425033336id_/http%3A//www.moneywise.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Moneywise
 
