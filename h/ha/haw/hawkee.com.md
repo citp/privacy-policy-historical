@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawkee.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530063655id_/http%3A//www.hawkee.com/about.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawkee.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425115808id_/http%3A//www.hawkee.com/about.php%23privacy) for the most accurate reproduction.*
 
 # Hawkee.com - About Us
 
@@ -9,12 +9,6 @@ Later in 2005 we introduced our price comparison engine which featured a variety
 In December of 2006 we launched our social network system where users could befriend one another, upload images and share comments with one another. Our unique comment system allowed users to see site-wide updates on all categories of comments that we offered. 
 
 In May, 2008 we introduced a brand new design featuring an updated logo and layout. Newer features included Latest Topics on the Latest Comments page, code snippet thumbnails and a review search. 
-
-Hawkee.com wouldn't be what it is without it's wonderful community, but in addition to all our users we'd like to thank a few major contributors:
-
-  * [phpBB](http://www.phpbb.com/) \- Forum software.
-  * [FamFamFam Silk Icons](http://www.famfamfam.com/lab/icons/silk/) \- Icon provider. 
-  * [GoDaddy](http://www.tkqlhce.com/click-1374931-10379068) \- Domain provider. 
 
 The privacy of our visitors to Hawkee.com is important to us. 
 
