@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127061112id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscdc.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425131312id_/http%3A//www.jobscdc.com/2011/06/jobscdc-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru November 2012 | BUMN & CPNS 2012
+# Privacy Policy - JobsCDC - Lowongan Kerja Terbaru April 2013 | BUMN & CPNS 2013
 
 **click + 1 button if you like this**
 
@@ -29,9 +29,9 @@ If you wish to disable cookies, you may do so through your individual browser op
   
 
 
-dapatkan info **jobscdc** langsung ke email anda:  
+subscription jobs info via RSS FEED:  
 |    
-klik like/suka untuk info **jobscdc** pada akun fb anda  
+Find **jobscdc** on Facebook  
 ---|---  
   
   
