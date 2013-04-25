@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talent.me privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015222548id_/https%3A//talent.me/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talent.me privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425022739id_/https%3A//talent.me/docs/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
