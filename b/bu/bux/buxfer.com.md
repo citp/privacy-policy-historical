@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010101551id_/https%3A//www.buxfer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425144011id_/https%3A//www.buxfer.com/privacy.php) for the most accurate reproduction.*
 
-# Buxfer: Easy online money management
+# Buxfer: Privacy Policy
 
 Buxfer, Inc. ("Buxfer") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Buxfer’s website at http://www.buxfer.com (“buxfer.com”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
