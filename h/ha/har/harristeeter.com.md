@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014125034id_/http%3A//www.harristeeter.com/other/privacy_policy/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425033246id_/http%3A//www.harristeeter.com/other/privacy_policy/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Harris Teeter - Privacy Policy
+
+[](http://www.harristeeter.com/other/privacy_policy/privacy_policy.aspx#content)
 
   
 **Harris Teeter’s Privacy Policy**
@@ -8,6 +10,8 @@
 Harris Teeter is committed to protecting the privacy and security of any personal information you provide to us, including your name, address, telephone numbers, e-mail addresses, credit card information, and checking account information. Our Privacy Policy sets out our policies and practices for collecting, maintaining, using, sharing, and protecting your personal information.
 
 You may choose to share personal information with Harris Teeter by participating in Harris Teeter’s VIC ® program or in various promotions and sweepstakes, by visiting our Web site, by making purchases in our stores using personal checks or credit or debit cards, by making special requests for items not found in our stores, or by using the services of our pharmacies, among other ways.
+
+[Click here to learn more about Harris Teeter's public wireless policy.](http://www.harristeeter.com/in_our_stores/in_store_services/public_wifi_policy.aspx)
 
 **How Your Information Is Collected and Used**  
 If you choose to provide us with your personal information, we may use that information to provide you with products or services that you have requested, to investigate and answer questions or concerns that you submit to us, to create promotional programs or offers tailored to you, to list you as a winner of a contest or sweepstakes, when appropriate, or to notify you of other information of interest regarding Harris Teeter. 
