@@ -1,97 +1,80 @@
-> *The following text is extracted and transformed from the homejoy.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115455id_/http%3A//corporate.homes.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homejoy.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425105500id_/https%3A//www.homejoy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Homejoy
 
-## Homes.com Privacy Policy
+##### Last updated: Feb. 23, 2013
 
-**Your Privacy is Important!**
-
-At Homes.com, we believe that your privacy is important.  We are committed to providing you with top-quality, comprehensive services via a fully secure online experience that protects your privacy.
-
-#### Governing Principles for Privacy on Homes.com
-
-When Homes.com collects personal information from you, its primary use will be to provide you with a fully customized online experience, including personalization services, online transactions, email accounts and other interactive communications, and many other services.
-
-You will be explicitly asked for any information that personally identifies you or that allows Homes.com or our necessary service partners to contact you. This information is generally requested when registering for personalization services, when requesting a particular service or purchasing a particular product, or when entering a sweepstakes or contest.
-
-Homes.com will not disclose personally identifiable information about you unless we have your explicit permission or when we believe in good faith that the law requires it.
-
-Homes.com will provide you with the means to verify and update your personal information, allowing you to ensure that such information is correct and current.
-
-If you believe at any time that we have not adhered to the policy stated above and as further detailed in the Frequently Asked Questions (FAQ) below, please notify Homes.com by email at [privacy@homes.com](mailto:privacy@homes.com), and we will use all commercially reasonable efforts to identify and promptly correct the problem.
-
-#### Frequently Asked Questions
-
-**Jump To:**
-
-  * What personally identifiable information will Homes.com collect from me?
-  * How does Homes.com use cookies?
-  * Who is collecting my personal information?
-  * Who will Homes.com share my information with?
-  * What control do I have over the collection, use, and distribution of my personal information?
-  * Will I be able to access and update my personal information?
-  * How does Homes.com protect my sensitive financial information, such as credit card numbers?
+  
 
 
+**Our Policy**
 
-**What personally identifiable information will Homes.com collect from me?**
+Welcome to the web site (the "Site") of Allihub, Inc. (d/b/a Homejoy) ("Homejoy", "we", "us" and/or "our"). This Site is operated by Homejoy and has been created to provide information about our company and services (our services, together with the Site, the "Services") to our Service visitors and users ("you" and/or "your"). This Privacy Policy sets forth Homejoy's policy with respect to information, including personally identifiable data ("Personal Data") and other information, that is collected from visitors and users of the Services
 
-Information is collected in several different ways and for a variety of different reasons.  For example, personal information is collected when you register for Homes.com's personalization services.  During such registration, Homes.com asks for your name, e-mail address, ZIP code, and other information.  The more information you provide, the better we are able to customize our services for you, allowing you to fully benefit from our many offerings.
+**Information We Collect:**
 
-We may also ask you for personal information when you make a purchase from us or one of our service partners; when you enter a sweepstakes or other promotion sponsored by Homes.com or our service partners; or when requesting specific services.  Any transactions that require the collection of sensitive data such as your credit card information will be done over fully secured servers using sophisticated encryption technology for your protection.
+When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
 
-Any page on Homes.com that includes a request for personal information will include a link to this Privacy Policy.
+**Personal Data That You Provide Through the Services:** We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever Homejoy collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
-**How does Homes.com use cookies?**
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Homejoy and the authorized third parties referred to herein located in the United States.**
 
-A cookie consists of a data file sent to your browser from a web server, which is then stored on your computer's hard drive.  Cookies allow us to store and occasionally track information about you and your use of our site. Your browser can be configured not to accept cookies; however, all Homes.com services that require registration or are customizable require cookies for delivery.  At Homes.com, we use cookies to:
+**Non-Identifiable Data:** When you interact with Homejoy through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Homejoy may store such information itself or such information may be included in databases owned and maintained by Homejoy's affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of users of our Services, the number of visitors to each page of our Site and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
 
-Tell us who you are and allow us to access your account information to deliver personalized services.  This cookie is sent to your browser when you register for personalization services and when you log in.
+In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Services' features.
 
-Store your ZIP code, so that we can deliver services and information that are specific to your location, such as yellow pages, news, and weather.
+**Aggregated Personal Data:** In an ongoing effort to better understand and serve the users of the Services, Homejoy often conducts research on its user demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Homejoy may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Homejoy may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-To facilitate your transactions with our service partners, including processing any items you wish to purchase, and tracking your visits to and business at their areas of the Homes.com web site.
+**Our Use of Your Personal Data and Other Information:**
 
-Measure our audience size and analyze traffic patterns on Homes.com. This allows us to better understand how our site is being used both individually and in the aggregate, and to improve the content and services we offer, including personalization, content, advertising, and promotions.
+Homejoy uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Homejoy and its subsidiaries and affiliates (the "Homejoy Related Companies") may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Homejoy Services. Homejoy and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-Advertising networks who serve ads on Homes.com may also serve cookies.  In addition, Homes.com collects IP addresses for system administration and to report aggregated information (that does not identify individual users) to our advertisers.  Homes.com email accounts also include IP addresses in outgoing mail headers.
+If Homejoy intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-**Who is collecting my personal information?**
+**Our Disclosure of Your Personal Data and Other Information:**
 
-When you provide Homes.com with your personal information, you are providing it to us alone, unless otherwise explicitly stated.  For example, some services, such as mortgages or home improvement contracting, are offered in conjunction with our service partners.  To provide such cobranded service, it is necessary that we provide them with required personal information about you.  If you do not want your information shared with such partners, you can decline to use that particular service.
+Homejoy is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-Some promotions or services may include the collection of personal information that may be shared with sponsors or other companies.  For example, information collected from you when requesting a free copy of a magazine may be shared with third-party businesses who may have services of interest to you. This will be explicitly stated to you at the time you fill out the magazine request.  You can decide not to complete your request for such a magazine if you do not want your data shared.
+**Cleaning Services:** We will share your Personal Data with cleaning service providers as necessary for them to provide their cleaning services to you.
 
-In addition, Homes.com uses a third party, DoubleClick, to serve the advertisements that you see on the pages of our Web site. This includes the use of cookies to gather information that is then used to target advertisements to your individual interests. DoubleClick may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site. If you would like to know more about DoubleClick's information-gathering practices and opt-out procedures, visit [www.doubleclick.net/naiprivacy](http://www.doubleclick.net/naiprivacy).
+**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-Homes.com advertisers and web sites that have links on our site may also collected personally identifiable information about you. This Privacy Policy does not cover the practices of those sites.
+**Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-**Who will Homes.com share my information with?**
+**Agents, Consultants and Related Third Parties:** Homejoy, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-Homes.com will not disclose personally identifiable information about you unless we have your explicit permission or when we believe in good faith that the law requires it.  Your information may be shared with the following:
+**Legal Requirements:** Homejoy may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Homejoy, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
 
-  * _Homes.com business partners and sponsors._   The nature of disclosure of your personal information to business partners and sponsors will be described to you prior to collection and transfer of such data.
-  * _Service and Product Partners for online transactions._ When making a purchase from a store hosted by or framed by Homes.com, the information obtained from you to facilitate the transaction will be shared with Homes.com's service partner.  This includes your credit card number and required contact information.  Such data will be collected and shared using secure servers and sophisticated encryption technology for your protection.  Homes.com's service and product partners have separate data collection and privacy policies, which should be reviewed on their individual sites.
-  * _Prospective partners, advertisers, and other parties._ To describe and promote our offerings to prospective partners, advertisers, investors, and other parties, Homes.com may share aggregated data regarding our users.  Such data in no way identify individual users, and are collected and distributed to provide profiles of Homes.com's user base (e.g., 35% of our users are currently homeowners), and for other lawful purposes.
+**Your Choices:**
 
+You can visit the Services without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Homejoy Services.
 
+**Exclusions:**
 
-**What control do I have over the collection, use, and distribution of my personal information?**
+This Privacy Policy does not apply to any Personal Data collected by Homejoy other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to Homejoy through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as discussion forums (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Homejoy shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-The collection and use of your personally identifiable information by Homes.com, including its distribution to other parties, is permission-based, meaning that such information will be collected and used with your knowledge, and will only be shared with other parties with your explicit consent. If you do not want your information shared, you will have the ability to opt out of  a particular service or to not participate in particular promotions.
+**Children:**
 
-Homes.com may, from time to time, issue newsletters to its registered members via email.  Such newsletters may include banner advertising and promotional/product offerings from Homes.com business and service partners, some of which may be specifically targeted at you based on the personal information we have collected. If you do not wish to receive such emails, simply tell us when you register for Homes.com's personalization services.  You can update your profile, including changing your newsletter receipt status, at any time by accessing the Preferences section of your personalized Homes.com account.
+Homejoy does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Homejoy through the Services, please contact us, and we will endeavor to delete that information from our databases.
 
-By modifying your browser preferences, you can also control the way you handle cookies, including the ability to accept or reject all cookies. However, rejecting cookies from Homes.com means that we will be unable to provide you with our registered, services, including personalization, email, and calendaring.  You will still, however, be able to engage in online transactions facilitated via Homes.com.
+**Links to Other Web Sites:**
 
-**Will I be able to access and update my personal information?**
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Homejoy (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Homejoy endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-You may edit your personally identifiable information on Homes.com by accessing the Preferences section of your personalization account, which you can access at any time by using your Homes.com User ID and password (if you choose to disable login on your account, you will not be asked for this information prior to accessing your account, although access will be denied to any user other than you).
+**Security:**
 
-You can also deactivate your account at any time, again using the Preferences section of your personalization account.  However, doing so will prevent you from accessing all personalized Homes.com services.
+Homejoy takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Homejoy via the Internet.
 
-If you have forgotten your Homes.com password, [click here](http://www.homes.com/My/EmailReminder.cfm) for a reminder or to request a new one.
+**Other Terms and Conditions:**
 
-**How does Homes.com protect my sensitive financial information, such as credit card numbers?**
+Your access to and use of the Services is subject to the Terms of Use at www.homejoy.com/terms.
 
-There are several areas on Homes.com that require sensitive financial and personal information to complete a transaction.  This includes mortgage services involving personal finances, product transactions requiring credit cards, and more.  Any time we ask for sensitive information like a credit card number, such information will be transmitted using industry-standard, secure socket layer (SSL) encryption.
+**Changes to Homejoy's Privacy Policy:**
+
+The Services and our business may change from time to time. As a result, at times it may be necessary for Homejoy to make changes to this Privacy Policy. Homejoy reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+**Access to Information; Contacting Homejoy:**
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about yuicompressor.jar's Privacy Policy or the information practices of the Services.
+
+You may contact us as follows: support@homejoy.com
