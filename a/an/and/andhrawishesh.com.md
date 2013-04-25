@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124072620id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425031200id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Andhrawishesh.com
 
