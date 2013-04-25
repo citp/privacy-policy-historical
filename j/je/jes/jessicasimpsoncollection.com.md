@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jessicasimpsoncollection.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016204835id_/http%3A//www.jessicasimpson.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3Freflink%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessicasimpsoncollection.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425235914id_/http%3A//www.jessicasimpson.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3Freflink%3Dfooter) for the most accurate reproduction.*
 
 # Privacy and Security - Jessica Simpson Official Site - Jessica Simpson Shoes, Boots, Dresses, Handbags, Apparel
 
@@ -14,13 +14,13 @@ Although you should read through this privacy policy for complete information on
 
 **WHAT INFORMATION DO WE COLLECT**
 
-SimpsonDigital collects both personally identifiable information and non-personally identifiable information. 
+Simpson Digital Corporation collects both personally identifiable information and non-personally identifiable information. 
 
-When we use the term "personally identifiable information" we are referring to information that is collected with your name. SimpsonDigital does not collect any personally identifiable information about you unless you provide it voluntarily. If you do not want us to collect personally identifiable information about you, you can simply decide not to submit it to us. SimpsonDigital does not seek any personally identifiable information from children, and if you are under 13 you should not provide us with any information.
+When we use the term "personally identifiable information" we are referring to information that is collected with your name. Simpson Digital Corporation does not collect any personally identifiable information about you unless you provide it voluntarily. If you do not want us to collect personally identifiable information about you, you can simply decide not to submit it to us. Simpson Digital Corporation does not seek any personally identifiable information from children, and if you are under 13 you should not provide us with any information.
 
-When we use the term "non-personally identifiable information" we are referring to information that SimpsonDigital may collect from you that is not collected in conjunction with your name. 
+When we use the term "non-personally identifiable information" we are referring to information that Simpson Digital Corporation may collect from you that is not collected in conjunction with your name. 
 
-When we refer simply to "information we are referring to how SimpsonDigital collects, uses, or shares both personally identifiable, and non-personally identifiable information.
+When we refer simply to "information we are referring to how Simpson Digital Corporation collects, uses, or shares both personally identifiable, and non-personally identifiable information.
 
 **HOW DO WE COLLECT INFORMATION**
 
@@ -35,7 +35,7 @@ We do not rent, sell, or share your personally identifiable information with oth
   * _Sharing Your Information with Subcontractors._ From time to time we may share information with subcontractors that provide us with services. These services may include, among other things, helping to provide services that you request, helping to create or maintain our databases, helping to research and analyze the people who request products, services or information from us, and/or helping to process payment card information.
   
 
-  * _Sharing Your Information with Law Enforcement._ We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of SimpsonDigital, or another person. 
+  * _Sharing Your Information with Law Enforcement._ We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of Simpson Digital Corporation, or another person. 
   
 
   * _Sharing Your Information as Permitted by Law._ We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.
@@ -44,7 +44,7 @@ We do not rent, sell, or share your personally identifiable information with oth
   * _Blogs, Online Postings, and Testimonials._ We may decide to allow people who use our website to post information online, for instance, as part of an on-line comment, a blog, or a message board. If you choose to submit information to us, the information that you submit, including any personally identifiable information that you choose to submit, may be available generally to the public.
   
 
-  * _Business Transition._ In the event that Postcard On The Run, or substantially all of Post Card On The Run's assets, are acquired, your information will be transferred to the acquiring company. 
+  * _Business Transition._ In the event that JessicaSimpson.com, or substantially all of JessicaSimpson.com's assets, are acquired, your information will be transferred to the acquiring company. 
   
 
   * _Behavioral Advertisers._ We may participate in behavioral-based advertising. This means that a third party may place a cookie on your browser, or use a web beacon, to collect information about your use o f our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. If you would like to opt-out of behavioral-based advertising, you can do so by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp). 
