@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacklingourdebt.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014054830id_/http%3A//tacklingourdebt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacklingourdebt.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425163258id_/http%3A//tacklingourdebt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tackling Our Debt
 
