@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotool.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014112847id_/http%3A//www.seotool.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotool.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426023154id_/http%3A//www.seotool.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy SEO Tool - SEO Tool - SEOtool
 
