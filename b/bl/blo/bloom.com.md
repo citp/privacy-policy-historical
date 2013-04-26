@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloom.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229075718id_/http%3A//www.bloom.com/privacy-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloom.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426221150id_/http%3A//www.bloom.com/privacy-security-policy) for the most accurate reproduction.*
 
 # Privacy and Security
 
