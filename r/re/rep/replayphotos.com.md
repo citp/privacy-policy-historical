@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011011746id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426032645id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
 
 # Replay Photos: Privacy Policy
 
