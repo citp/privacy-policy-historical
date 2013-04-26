@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babysavers.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922232159id_/http%3A//www.babygoodbuys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysavers.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426130006id_/http%3A//www.babysavers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Baby Savers!
 
 Your privacy is very, very important to me!
 
@@ -28,4 +28,4 @@ There are thousands of links on this site for your use and reference. We are not
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions, please [contact me](http://babygoodbuys.com/contact).
+If you have any questions, please [contact me](http://www.babysavers.com/contact).
