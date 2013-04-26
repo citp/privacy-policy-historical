@@ -1,46 +1,51 @@
-> *The following text is extracted and transformed from the domainface.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504183641id_/https%3A//domainface.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainface.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426073715id_/http%3A//www.kenny.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Domainface
+# Privacy Policy
 
-Read below for specifics, but basically what we're trying to convey here is that we're not going to sell your data to other people or use it for nefarious purposes. About the worst we might do is email you occasionally to tell you about something we feel you might find useful, or to let you know about a promotion we have on. We're not interested in giving others access to private stuff you put into Domainface. Make sure you're using virus checkers and stuff though- it's not our fault if someone steals your password.
+**Our Commitment To Privacy**
 
-* * *
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+**The Information We Collect:**
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
-  * We transfer information about you if Face Software Ltd or Domainface is acquired by or merged with another company. In this event, Face Software Ltd will notify you before information about you is transferred and becomes subject to a different privacy policy.
+This notice applies to all information collected or submitted on the Kenny.co website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
+Name  
+Address  
+Email address  
+Phone number  
+Credit/Debit Card Information  
+(etc.)
 
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are:
 
-### INFORMATION GATHERING AND USAGE
+Name  
+Address  
+Phone Number  
+(etc.)
 
-  * When you register for Domainface we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-  * Face Software Ltd uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
-  * Your credit card details are not retained by Domainface. We use a third party specialist billing provider called Recurly, which is 100% PCI compliant and bills our customers via PayPal, which is also 100% PCI compliant. When adding credit card and billing information, we submit that data directly to Recurly for storage and processing and do not retain it on our own servers. You are free to remove that data at your convenience and discretion by logging into your associated Recurly account. More information on PCI compliance for Recurly can be found at <http://recurly.com/security>. PayPal PCI compliance information can be found at <https://www.paypal.com/pcicompliance>.
+**The Way We Use Information:**
 
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-### COOKIES
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * Cookies are required to use the Domainface service.
-  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Domainface account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+You can register with our website if you would like to receive our newsletter as well as updates on our new services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-### DATA STORAGE
+**Our Commitment To Data Security**
 
-Face Software Ltd uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Domainface. Although Face Software Ltd owns the code, databases, and all rights to the Domainface application, you retain all rights to your data.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### DISCLOSURE
+**Our Commitment To Children’s Privacy:**
 
-Face Software Ltd may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13..
 
-### CHANGES
+**How To Contact Us**
 
-Face Software Ltd may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Domainface primary account holder account or by placing a prominent notice on our site.
-
-### QUESTIONS
-
-Any questions about this Privacy Policy should be addressed to support at domainface.com
+Should you have other questions or concerns about these privacy policies, please contact us using the links on the top of this page.
