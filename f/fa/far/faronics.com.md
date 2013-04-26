@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faronics.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516083358id_/http%3A//www.faronics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faronics.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426140516id_/http%3A//www.faronics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Faronics
 
 Faronics respects the privacy of our online visitors and recognizes the importance of providing a secure environment. We have made every effort to provide this.
 
