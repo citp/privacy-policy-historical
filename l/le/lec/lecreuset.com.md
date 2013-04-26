@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628055801id_/http%3A//cookware.lecreuset.com/cookware/privacy_10151_-1_20002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426164031id_/http%3A//cookware.lecreuset.com/cookware/privacy_10151_-1_20002) for the most accurate reproduction.*
 
 # Le Creuset - Privacy Policy
-
-X  
-Free gift of one (1) large multi bowl in Cherry with purchase of $150 or more applies to orders placed online at cookware.lecreuset.com while supplies last. Offer may not be redeemed on past purchases. Limited quantity available. Exclusions may apply. Ends June 30 at 11:59 p.m. EST.  
-
-
-X  
-Flat rate shipping of $9.99 on orders of $49.99 or more applies to orders placed online at cookware.lecreuset.com or by phone at 1-877-418-5547. This offer applies to standard shipping to one location within the U.S. Offer may not be redeemed on past purchases. Customers are responsible for all taxes and for all express shipping options. Exclusions may apply.   
-
 
 ### SECURITY AND PRIVACY
 
