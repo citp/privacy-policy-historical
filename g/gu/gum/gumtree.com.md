@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123053027id_/http%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426095745id_/http%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Gumtree.com
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, registered in England and Wales with number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective 22 May 2012. You can find the old Privacy Policy [here](http://www.gumtree.com/privacy_policy_2008.html).
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, registered in England and Wales with number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective 22 May 2012. You can find the old Privacy Policy [here](http://www.gumtree.com/privacypolicy2008).
 
 ## Collection
 
@@ -38,7 +38,7 @@ We don't sell or rent your personal information to third parties for their marke
 
 ## Cookies
 
-Our website uses cookies, web beacons, and third-parties to provide you with services that support your buying and selling activities within our online marketplace. To protect your privacy, use of these tools is limited. For more information on our privacy practices, see our [Privacy policy](http://www.gumtree.com/privacy_policy).
+Our website uses cookies, web beacons, and third-parties to provide you with services that support your buying and selling activities within our online marketplace. To protect your privacy, use of these tools is limited.
 
 ## About cookies
 
