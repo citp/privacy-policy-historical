@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the duosecurity.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016121818id_/http%3A//www.duosecurity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duosecurity.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426132918id_/https%3A//www.duosecurity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Duo Security
 
 Last updated: June 1, 2012
 
-When you order or otherwise use the Duo Security, Inc. ("Duo Security") multifactor authentication service (the "Service"), Duo Security requires you to create an account and collects certain information about you and your users in order to provide the Service. In addition, we also collect certain information from visitors to our website (www.duosecurity.com) (the "Website"). This privacy policy explains what information we collect and how we use that information. Terms not otherwise defined in this policy have the meaning assigned to them in Duo Security's Service Terms and Conditions located at <http://www.duosecurity.com/terms>.
+When you order or otherwise use the Duo Security, Inc. ("Duo Security") multifactor authentication service (the "Service"), Duo Security requires you to create an account and collects certain information about you and your users in order to provide the Service. In addition, we also collect certain information from visitors to our website (www.duosecurity.com) (the "Website"). This privacy policy explains what information we collect and how we use that information. Terms not otherwise defined in this policy have the meaning assigned to them in Duo Security's Service Terms and Conditions located at <https://www.duosecurity.com/terms>.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@duosecurity.com, or via postal mail at:
 
 Duo Security, Inc.  
-1327 Jones Dr. Suite 202  
-Ann Arbor, MI 48105
+617 Detroit St.  
+Ann Arbor, MI 48104
 
 #### The Duo Security Service
 
@@ -95,7 +95,7 @@ We use this information to improve our service to send our customers update on h
 
 #### Changes to Privacy Policy
 
-Duo Security may update this policy from time to time. You can review the most current version of this privacy policy at any time at <http://www.duosecurity.com/privacy>. Your continued use of the Website or Service constitutes your agreement to be bound by such changes to the privacy policy. If we make any material changes we will notify you by means of a notice on the Website prior to the change becoming effective. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Website and Service.
+Duo Security may update this policy from time to time. You can review the most current version of this privacy policy at any time at <https://www.duosecurity.com/privacy>. Your continued use of the Website or Service constitutes your agreement to be bound by such changes to the privacy policy. If we make any material changes we will notify you by means of a notice on the Website prior to the change becoming effective. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Website and Service.
 
 #### Business Transactions
 
@@ -103,4 +103,4 @@ Duo Security may assign or transfer this privacy policy, and your user account a
 
 #### Terms of Service
 
-When you access and use the Service, you are subject to the Duo Security Terms of Service available for review at <http://www.duosecurity.com/terms>.
+When you access and use the Service, you are subject to the Duo Security Terms of Service available for review at <https://www.duosecurity.com/terms>.
