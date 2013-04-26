@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the isnetworld.com privacy policy that was archived on 2012-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120701223344id_/http%3A//www.isnetworld.com/Homepage/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the isnetworld.com privacy policy that was archived on 2013-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130426195552id_/http%3A//www.isnetworld.com/Homepage/privacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta id="metaDesc" name="description" content="ISNetworld discloses the information management practices for ISNetworld."><title>
 	Privacy Policy | ISNetworld
@@ -10,7 +10,7 @@
         <link rel="Stylesheet" type="text/css" href="/Css/TopNavMenu.css">
         <link rel="stylesheet" type="text/css" href="/Css/jquery.css">
         <link rel="stylesheet" type="text/css" href="/Scripts/Shadowbox/shadowbox.css">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/Scripts/jquery.js"></script>
+        <script type="text/javascript" language="javascript" src="/Scripts/jquery.js"></script>
         <script type="text/javascript" language="javascript" src="/Scripts/jqueryui.js"></script>
         <script type="text/javascript" language="javascript" src="/Scripts/ISN.js"></script>
         <script type="text/javascript" language="javascript" src="/Scripts/easing.js"></script>
@@ -33,19 +33,21 @@
             }
 
             $(document).ready(function () {
+
                 $('#navIndustries').hover(
                     function () {
                         var Position = $("#navIndustriesImg").position();
                         $("#navIndustriesSub").css({ 'top': Position.top + 27, 'left': Position.left, 'z-index': 9999 });
                         $("#navIndustriesSub").show();
-                        $("#navIndustriesImg").attr('src', '/Images/nav1OurIndustriesGlo.gif');
+                        $("#navIndustriesImg").attr('src', '/Images/navOurIndustriesHover.gif');
+
                     },
                     function () {
                         $("#navIndustriesSub").stop().hide(null, null,
                             function () {
                                 $("#navIndustriesSub").attr("style", "display: none");
                             });
-                        $("#navIndustriesImg").attr("src", '/Images/nav1OurIndustries.gif');
+                        $("#navIndustriesImg").attr("src", '/Images/navOurIndustries.gif');
                     }
                 );
 
@@ -54,7 +56,7 @@
                         var Position = $("#navNewsImg").position();
                         $("#navNewsSub").css({ 'top': Position.top + 27, 'left': Position.left, 'z-index': 9999 });
                         $("#navNewsSub").show();
-                        $("#navNewsImg").attr('src', '/Images/nav2News_EventsGlo.gif');
+                        $("#navNewsImg").attr('src', '/Images/navNewsEventsHover.gif');
                     },
                     function () {
                         $("#navNewsSub").stop().hide(null, null,
@@ -62,7 +64,7 @@
                                 $("#navNewsSub").attr("style", "display: none");
                             });
 
-                        $("#navNewsImg").attr("src", '/Images/nav2News_Events.gif');
+                        $("#navNewsImg").attr("src", '/Images/navNewsEvents.gif');
                     }
                 );
 
@@ -71,7 +73,7 @@
                         var Position = $("#navAboutImg").position();
                         $("#navAboutSub").css({ 'top': Position.top + 27, 'left': Position.left, 'z-index': 9999 });
                         $("#navAboutSub").show();
-                        $("#navAboutImg").attr('src', '/Images/nav3AboutISNGlo.gif');
+                        $("#navAboutImg").attr('src', '/Images/navAboutISNHover.gif');
                     },
                     function () {
                         $("#navAboutSub").stop().hide(null, null,
@@ -79,33 +81,63 @@
                                 $("#navAboutSub").attr("style", "display: none");
                             });
 
-                        $("#navAboutImg").attr("src", '/Images/nav3AboutISN.gif');
+                        $("#navAboutImg").attr("src", '/Images/navAboutISN.gif');
                     }
                 );
 
                 $("#navContact").hover(
                     function () {
-                        $("#navContactImg").attr('src', '/Images/nav4ContactISNGlo.gif');
+                        $("#navContactImg").attr('src', '/Images/navContactISNHover.gif');
                     },
                     function () {
-                        $("#navContactImg").attr('src', '/Images/nav4ContactISN.gif');
+                        $("#navContactImg").attr('src', '/Images/navContactISN.gif');
                     }
                 );
 
                 $('#txtUsername').focus().select();
 
                 $('#chkRememberMe').css('border', 'none');
+
+                $(window).resize(function () {
+                    setMenuText();
+                });
+
+                setMenuText();
+
             });
-        </script>  
-        <style type="text/css">
-            .style1
-            {
-                height: 23px;
+
+            function setMenuText() {
+
+                var NavIndPos = $("#navIndustriesImg").position();
+                $("#navIndustiresTxt").css({ 'position': 'absolute', 'top': NavIndPos.top + 7, 'left': NavIndPos.left + 15, 'z-index': 99 });
+
+                var NavNewPos = $("#navNewsImg").position();
+                $("#navNewsTxt").css({ 'position': 'absolute', 'top': NavNewPos.top + 7, 'left': NavNewPos.left + 15, 'z-index': 99 });
+
+                var NavAboutPos = $("#navAboutImg").position();
+                $("#navAboutTxt").css({ 'position': 'absolute', 'top': NavAboutPos.top + 7, 'left': NavAboutPos.left + 15, 'z-index': 99 });
+
+                var NavContactPos = $("#navContactImg").position();
+                $("#navContactTxt").css({ 'position': 'absolute', 'top': NavContactPos.top + 7, 'left': NavContactPos.left + 15, 'z-index': 99 });
+
             }
-        </style>
-    </head>
+
+            function trackVideoClick(videoName) {
+                var full = window.location.host;
+                var parts = full.split('.');
+                var sub = parts[0];
+
+
+                if (sub == "www") {
+
+                    _gaq.push(['_trackEvent', 'Videos', 'Play', videoName]);
+                }
+            }
+        </script> 
+        
+        </head>
     <body onload="window.status='Welcome to ISN 10.0!';">
-        <form method="post" action="privacyPolicy.aspx" id="FrmMainContent" autocomplete="off">
+        <form method="post" action="/Homepage/privacyPolicy.aspx" id="FrmMainContent" autocomplete="off">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5OTcwNDI2OTAPZBYCZg9kFgQCAQ9kFgICAQ8WAh4HY29udGVudAVJSVNOZXR3b3JsZCBkaXNjbG9zZXMgdGhlIGluZm9ybWF0aW9uIG1hbmFnZW1lbnQgcHJhY3RpY2VzIGZvciBJU05ldHdvcmxkLmQCAw9kFgICAg8PZBYCHgxhdXRvY29tcGxldGUFA29mZmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFDWN0bDAwJGliTG9naW4FE2N0bDAwJGNoa1JlbWVtYmVyTWUNGAglAmmU/FWHMCzEWUllFmIc9g==" style="border-style: solid; border-color: rgb(230, 230, 230); background-color: rgb(255, 255, 229);">
 
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKzkPU1Avfb85MMAoHty7UFAoeHuNMCApuo1K4PYsrw/ZBKtKWYrW83xdL/YZQjOYk=" style="border-style: solid; border-color: rgb(230, 230, 230); background-color: rgb(255, 255, 229);">
@@ -135,9 +167,12 @@
                     <ul id="nav">
                         <li id="navIndustries">
                             <a id="navIndustriesA" href="/TeamPages/OurIndustries.aspx" title="Compliance Record Management and Reporting Needs | ISNetworld">
-                                <img id="navIndustriesImg" src="/Images/nav1OurIndustries.gif" alt="Our Industries" name="Our_Industries" width="213" height="27" border="0">
+                                <img id="navIndustriesImg" src="/Images/navOurIndustries.gif" alt="Our Industries" name="Our_Industries" width="213" height="27" border="0">
                             </a>
-                            <div id="navIndustriesSub" style="width: 268px;">
+                            <div id="navIndustiresTxt" style="position: absolute; top: 123px; left: 271.5px; z-index: 99;"><a href="/TeamPages/OurIndustries.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
+                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;"> O<span style="font-size:10px">UR</span> I<span style="font-size:10px">NDUSTRIES</span> </h2>
+                           </a></div>
+                            <div id="navIndustriesSub">
                                 <table style="width: 100%;">
                                     <tbody><tr class="tblInd"><td></td><td><a href="/TeamPages/OperatorList.aspx" title="Featured Owner Clients | ISNetworld"><span class="navText">Featured Owner Clients List</span></a></td><td class="tblEdge"></td></tr>        
                                     <tr class="tblInd"><td colspan="3"><hr style="width:95%"></td></tr>    
@@ -148,10 +183,16 @@
                                     <tr class="tblInd"><td></td><td><a href="/TeamPages/BioPharmaFacility.aspx" title="Health Care &amp; Pharma | ISNetworld"><span class="navText">Healthcare &amp; Pharma</span></a></td><td></td></tr>    
                                     <tr class="tblInd"><td></td><td><a href="/TeamPages/Facilities.aspx" title="Facilities Management"><span class="navText">Facilities Management</span></a></td><td></td></tr>    
                                     <tr class="tblInd"><td></td><td><a href="/TeamPages/Manufacturing.aspx" title="Manufacturing, Contractor Management | ISNetworld"><span class="navText">Manufacturing</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/FAWP.aspx" title="Food, Agriculture, Wood &amp; Paper"><span class="navText">Food, Agriculture, Wood &amp; Paper</span></a></td><td></td></tr>
-                                       
+                                    
+                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/FoodAgriculture.aspx" title="Food &amp; Agriculture"><span class="navText">Food &amp; Agriculture</span></a></td><td></td></tr>
+                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/WoodPaper.aspx" title="Wood, Paper &amp; Consumer Products"><span class="navText">Wood, Paper &amp; Consumer Products</span></a></td><td></td></tr>    
                                     <tr class="tblInd"><td></td><td><a href="/TeamPages/Mining.aspx" title="Mining Operators Contractor Management | ISNetworld"><span class="navText">Mining &amp; Fertilizer Products</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Australia.aspx" title="Australia and Asia Pacific"><span class="navText">Australia</span></a></td><td></td></tr>    
+                                    
+                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/CollegesUniversities.aspx" title="Colleges &amp; Universities | ISNetworld"><span class="navText">Colleges &amp; Universities</span></a></td><td></td></tr>    
+                                    
+                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/PublicSector.aspx" title="Public Sector | ISNetworld"><span class="navText">Public Sector</span></a></td><td></td></tr>
+                                    
+                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Australia_NewZealand.aspx" title="Australia &amp; New Zealand"><span class="navText">Australia &amp; New Zealand</span></a></td><td></td></tr>    
                                     <tr class="tblInd"><td style="width:5px;"></td><td><a href="/TeamPages/UK.aspx" title="United Kingdom"><span class="navText">United Kingdom</span></a></td><td></td></tr>
                                     <tr class="tblInd"><td></td><td><a href="/TeamPages/MiddleEast.aspx" title="Middle East"><span class="navText">Middle East</span></a></td><td></td></tr>
                                     <tr class="tblInd"><td></td><td><a href="/TeamPages/Netherlands.aspx" title="Netherlands"><span class="navText">Netherlands</span></a></td><td></td></tr>     
@@ -163,15 +204,17 @@
                         </li>
                         <li id="navNews">
                             <a id="navNewsA" href="/Homepage/NewsAndEvents.aspx" title="The latest news, press, and events | ISNetworld">
-                                <img id="navNewsImg" src="/Images/nav2News_Events.gif" alt="News Events" name="News_Events" width="213" height="27" border="0">
+                                <img id="navNewsImg" src="/Images/navNewsEvents.gif" alt="News Events" name="News_Events" width="213" height="27" border="0">
                             </a>
+                            <div id="navNewsTxt" style="position: absolute; top: 123px; left: 362.875px; z-index: 99;"><a href="/Homepage/NewsAndEvents.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
+                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;">N<span style="font-size:10px">EWS</span> A<span style="font-size:10px">ND</span> E<span style="font-size:10px">VENTS</span></h2></a></div>
                             <div id="navNewsSub"> 
                                 <table style="width:100%">                             
-                                    <tbody><tr class="tblNews"><td style="width:5px;"></td><td><a href="/Homepage/newClients.aspx" title=""><span class="navText">New Clients</span></a></td><td></td></tr>
-                                    <tr class="tblNews"><td></td><td><a href="/Events/asEvents.aspx" title="Meetings Map | ISNetworld"><span class="navText">ISNetworld Meetings</span></a></td><td></td></tr>
+                                    <tbody><tr class="tblNews"><td style="width:5px;"></td><td><a href="/Homepage/newClients.aspx" title=""><span class="navText">New ISN Clients</span></a></td><td></td></tr>
+                                    <tr class="tblNews"><td></td><td><a href="/Events/asEvents.aspx" title="Meetings Map | ISNetworld"><span class="navText">ISN Meetings</span></a></td><td></td></tr>
                                     <tr class="tblNews"><td></td><td><a href="http://www.isnetworld.com/blog" target="_blank"><span class="navText">ISN Blog</span></a></td><td></td></tr>
-                                    <tr class="tblNews"><td></td><td><a href="/Homepage/pressReleases.aspx" title="Press Releases | ISNetworld"><span class="navText">Press Releases</span></a></td><td></td></tr>
-                                    <tr class="tblNews"><td></td><td><a href="/Homepage/newsletters.aspx" title="Industry Events | ISNetworld"><span class="navText">Newsletters</span></a></td><td></td></tr>
+                                    <tr class="tblNews"><td></td><td><a href="/Homepage/pressReleases.aspx" title="Press Releases | ISNetworld"><span class="navText">ISN Press Releases</span></a></td><td></td></tr>
+                                    <tr class="tblNews"><td></td><td><a href="/Homepage/newsletters.aspx" title="Industry Events | ISNetworld"><span class="navText">ISN Newsletters</span></a></td><td></td></tr>
                                     
                                     <tr class="tblNews"><td></td><td><a href="/Homepage/industryEvents.aspx" title="Industry Events | ISNetworld"><span class="navText">Upcoming Industry Events</span></a></td><td></td></tr>
                                     <tr><td colspan="3" style="border-collapse:collapse;border:0px;padding:0px;color:transparent;"><img id="navNewsBottom" src="/Images/menu-bottom-about.png"></td></tr>
@@ -180,15 +223,19 @@
                         </li>
                         <li id="navAbout">
                             <a id="navAboutA" href="/Homepage/aboutISN.aspx" title="About ISNetworld | ISNetworld">
-                                <img id="navAboutImg" src="/Images/nav3AboutISN.gif" alt="About ISN" name="AboutISN" width="213" height="27" border="0">
+                                <img id="navAboutImg" src="/Images/navAboutISN.gif" alt="About ISN" name="AboutISN" width="213" height="27" border="0">
                             </a>
+                            <div id="navAboutTxt" style="position: absolute; top: 123px; left: 448.906px; z-index: 99;"><a href="/Homepage/aboutISN.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
+                            
+                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;">A<span style="font-size:10px">BOUT</span> ISN</h2>
+                            </a></div>
                             <div id="navAboutSub"> 
                                 <table style="width:100%">
-                                    <tbody><tr class="tblAbout"><td style="width:5px;"></td><td><a href="/Homepage/whatIsISNetworld.aspx" title="What is ISN | ISNetworld"><span class="navText">What is ISN</span></a></td><td></td></tr>    
+                                    <tbody><tr class="tblAbout"><td style="width:5px;"></td><td><a href="/Homepage/ISNProductsServices.aspx" title="ISN Products/Services | ISNetworld"><span class="navText">ISN Products/Services</span></a></td><td></td></tr>    
                                     <tr class="tblAbout"><td></td><td><a href="/Homepage/faq.aspx" title="ISNetworld FAQs | ISNetworld"><span class="navText">ISN FAQs</span></a></td><td></td></tr>    
                                     <tr class="tblAbout"><td></td><td><a href="/Homepage/videosLanding.aspx" title="ISN Videos | ISNetworld"><span class="navText">ISN Videos</span></a></td><td></td></tr>    
                                     <tr class="tblAbout"><td></td><td><a href="/Homepage/ravs.aspx" title="Review and Verification Services (RAVS) | ISNetworld"><span class="navText">RAVS</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/DP_OQ.aspx" title="Operator Qualifications | ISNetworld"><span class="navText">Data Providers</span></a></td><td></td></tr>    
+                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/DP_OQ.aspx" title="Data Providers | ISNetworld"><span class="navText">Data Providers</span></a></td><td></td></tr>    
                                     <tr class="tblAbout"><td></td><td><a href="/Homepage/subscriptionPricing.aspx" title="2012 Subscription Pricing | ISNetworld"><span class="navText">Subscription Pricing</span></a></td><td></td></tr>    
                                     <tr class="tblAbout"><td></td><td><a href="/Homepage/testimonials.aspx" title="Written Testimonials | ISNetworld"><span class="navText">Written Testimonials</span></a></td><td></td></tr>    
                                     <tr class="tblAbout"><td></td><td><a href="/Homepage/quickStart.aspx" title="Subscription Quick Start Guide | ISNetworld"><span class="navText">Quick Start Guide</span></a></td><td></td></tr>    
@@ -201,8 +248,11 @@
                         </li>
                         <li id="navContact">
                             <a href="/Homepage/contact.aspx" title="Contact Us | ISNetworld">
-                                <img id="navContactImg" src="/Images/nav4ContactISN.gif" alt="Contact ISN" name="ContactISN" width="213" height="27" border="0">
+                                <img id="navContactImg" src="/Images/navContactISN.gif" alt="Contact ISN" name="ContactISN" width="213" height="27" border="0">
                             </a>
+                            <div id="navContactTxt" style="position: absolute; top: 123px; left: 519.609px; z-index: 99;"><a href="/Homepage/contact.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
+                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;">C<span style="font-size:10px">ONTACT</span> U<span style="font-size:10px">S</span></h2>
+                            </a></div>
                         </li>
                     </ul>
                 </div><!-- Top Menu end -->
@@ -222,16 +272,16 @@
   
 <div id="menu-side">
     <ul class="primary">  
-        <li><a href="/HomePage/whatIsISNetworld.aspx">What is ISN</a></li>
-        <li><a href="/HomePage/faq.aspx">ISN FAQs</a></li>
-        <li><a href="/HomePage/videosLanding.aspx">ISN Videos</a></li>
-        <li><a href="/HomePage/ravs.aspx">RAVS</a></li>
+        <li><a href="/HomePage/ISNProductsServices.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">ISN Products/Services</h3></a></li>
+        <li><a href="/HomePage/faq.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">ISN FAQs</h3></a></li>
+        <li><a href="/HomePage/videosLanding.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">ISN Videos</h3></a></li>
+        <li><a href="/HomePage/ravs.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">RAVS</h3></a></li>
         <li><a href="/HomePage/DP_OQ.aspx">Data Providers</a></li>
         <li><a href="/HomePage/subscriptionPricing.aspx">Subscription Pricing</a></li>
         <li><a href="/HomePage/testimonials.aspx">Written Testimonials</a></li>
         <li><a href="/HomePage/quickStart.aspx">Quick Start Guide</a></li>
         <li><a href="/HomePage/Management.aspx">Management Team</a></li>
-        <li><a href="/HomePage/Careers.aspx">Careers at ISN </a></li>
+        <li><a href="/HomePage/Careers.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">Careers at ISN </h3></a></li>
         <li><a href="/HomePage/BrowserTest.aspx">Browser Test</a></li>
     </ul>
 </div>
@@ -286,7 +336,7 @@
                 <div id="footer">
                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tbody><tr>
-                            <td width="39%">© 2012 ISN Software Corp.</td>
+                            <td width="39%">© 2013 ISN Software Corp.</td>
                             <td width="46%"><a href="/Homepage/userAgreement.aspx">User Agreement</a> | <a href="/Homepage/privacyPolicy.aspx">Privacy Policy</a> | <a href="/Homepage/Trademark_LogoPolicy.aspx">Trademark/Logo Policy</a> | <a href="/Homepage/sitemap.aspx">Site Map</a></td>
                             <td width="15%"><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ISNETWORLD.COM&amp;lang=en" target="_blank"><img src="/Images/ftrVerisign.gif" width="57" height="34" border="0"></a> <a href="http://isnetworld.webex.com" target="_blank"><img src="/Images/ftrWebex.gif" width="44" height="34" border="0"></a> </td>
                         </tr>
@@ -295,17 +345,27 @@
             </div><!-- wrapper end -->
             <script src="/Scripts/gatag.js" type="text/javascript"></script>
             <script type="text/javascript" language="javascript">
-                var _gaq = _gaq || [];
-                _gaq.push(['_setAccount', 'UA-17191488-1']);
-                _gaq.push(['_setDomainName', 'none']);
-                _gaq.push(['_setAllowLinker', true]);
-                _gaq.push(['_trackPageview']);
+                var full = window.location.host;
+                var parts = full.split('.');
+                var sub = parts[0];
 
-                (function () {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
+                if (sub == "www") {
+                    var _gaq = _gaq || [];
+                    _gaq.push(['_setAccount', 'UA-17191488-1']);
+                    _gaq.push(['_setDomainName', 'none']);
+                    _gaq.push(['_setAllowLinker', true]);
+                    _gaq.push(['_trackPageview']);
+
+                    (function () {
+                        var ga = document.createElement('script');
+                        ga.type = 'text/javascript';
+                        ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(ga, s);
+                        
+                    })();
+                }
             </script>
         </form>
     
