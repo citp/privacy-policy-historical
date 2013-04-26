@@ -1,162 +1,65 @@
-> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106090307id_/http%3A//www.allbusiness.com/2984776-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426200541id_/http%3A//www.allbusiness.com/2984776-1.html) for the most accurate reproduction.*
 
 # AllBusiness Privacy Policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.allbusiness.com&sealid=101)
+**Privacy Policy**
 
-**About AllBusiness**
+**_Updated 9/10/12_**
 
-AllBusiness.com (AllBusiness), a Dun & Bradstreet (D&B) company, is an online media and e-commerce company that operates one of the premier business Internet sites on the Web.  AllBusiness helps companies and business professionals save time and money by addressing real-world business questions and presenting practical solutions.  Our website offers resources such as company overviews, “how-to” articles, business forms, contract and agreement forms, expert advice, blogs, business news, business directory listings, product comparisons, business guides, business associations and more.  Business professionals can access AllBusiness's content and services through a number of channels and media, including the AllBusiness website, RSS feeds, e-mail newsletters, and our alliances with like-minded partners and leading Web content providers.
+This privacy policy explains what information is collected when you use our Web site (the “Site”), applications, content and services of AllBusiness.com and its affiliated properties (“AllBusiness”), why this information is collected, and how we use it. When you use our Site, you consent to our collection, use and disclosure of your information as disclosed in this Privacy Policy.
 
-AllBusiness provides products and services that are tailored for small- and medium-sized businesses and business professionals.  AllBusiness considers itself to be a steward of the information that we collect, manage and provide.  It is our responsibility to safeguard the information within our care and we are committed to managing our data in a secure and responsible manner.  Our information management practices are guided by our **Global Privacy Principles** , which serve as the foundation of our data management policies and practices.  These Principles commit AllBusiness to the following tenets:
+**Your AllBusiness Information**
 
-**Notice** **:**   AllBusiness informs users and customers how we collect, use, manage and share information.
+AllBusiness is provided byE-PersonalFinance.com, Inc. and its affiliates (“we”, “our” or “us”). Your AllBusiness information consists of personally identifiable information collected or received about you when you make purchases from us, when you register with us, when you set up profiles to share with others, when you interact with other users on our site, or when you log in to our site as a registered user and interact with our products and services. Your AllBusiness information may include, among other things: (a) registration-related information (such as name, address, telephone and fax numbers, email address); (b) member profile about yourself that you can share with others; (c) a profile on your business or your profession that you desire to share with others, (d) transaction-related information (such as credit card or other preferred means of payment, or a history of products purchased through us); (e) information about your visits to AllBusiness or our other web sites, pages and services; (f) your responses to our offerings and advertisements; (g) information about the features or offerings you use from us; (h) your billing and shipping information; (i) customer service information;  (j) information placed on message boards or forums; and (k) other information specifically related to your use of a particular AllBusiness feature or offering. 
 
-**Data Quality** **:**   AllBusiness employs substantive measures to produce high-quality, timely and reliable data, including direct contact with businesses and quality assurance procedures during data collection and processing.
+Your information may be supplemented with additional information from other companies such as, for example, publicly available information and other information that we may append or match to your information. 
 
-**Use & Disclosure** **:**   AllBusiness uses and discloses data in accordance with defined policies that respect a business's and business professional’s choice to restrict the marketing use of their contact information.
+When you register with us, sign up for an application or service, become a member of a company profile or make recommendations on the service, we use certain information we collect from you to set up a profile on your behalf to share with others, and which information will be available by search to help you promote your business or profession. After you register with AllBusiness, you may provide additional member information about yourself (member profile, company profile) and add company profile information about your business. Such member and company profiles could include a description of your services or products, location, web presence and more. 
 
-**Access & Correction:**  AllBusiness provides businesses and business professionals with access to their business information within the AllBusiness database and with an opportunity to correct verified inaccuracies.
+We may offer you services to send invitations via AllBusiness or email addresses if they are not AllBusiness users in order to connect with others on AllBusiness. The names and email addresses of people whom you invite will be used to send your invitations and reminders as well as to allow us to help expand your network. You understand and agree that when you send an invitation to connect to another user, that user will have access to your email address because it is displayed in the invitation. Your connections will also have access to your email address. You should not invite anyone you do not know and trust to connect with you. 
 
-**Data Security** **:** ****  AllBusiness applies appropriate technical, physical and administrative data security measures to protect data against unauthorized access and disclosure.
+By providing information to us for the purposes of creating your AllBusiness account, interacting with our services and features, or adding any additional details to your profile, you understand and agree that we may process information about you and make information about you available to others. In addition, if you post any information about yourself on areas of AllBusiness that are publicly accessible, such as message boards or forums, you understand and agree that such information will be available to others. 
 
-**Accountability** **:** ****  AllBusiness seeks to adhere to its Global Privacy Principles through ongoing compliance, training, documentation, assessment and dispute resolution initiatives.
+**How AllBusiness Information Is Used**
 
-AllBusiness delivers products and services through the Internet more effectively and efficiently than ever before.  As a leading provider of business information, our products and services serve to enable and enhance commerce.  Our business customer needs continue to evolve, as do public expectations about Data Privacy and the technology that we employ to provide our products and services.  Our approach to information management and Data Privacy enables us to adapt and respond to these changes while remaining committed to our Principles.  The free flow of information must be fairly balanced against privacy and data protection interests, and AllBusiness is committed to employing such a balance.
+Your AllBusiness information is used, among other ways, to operate and improve the features, offerings and content presented to you by us; to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of our services; to share information about you and your business; to communicate with other users and business contacts; and, to help offer you other products, programs, or services that may be of interest or relevance to you. 
 
-This online privacy notice describes the Data Privacy practices that are applicable to [www.allbusiness.com](http://www.allbusiness.com/).  This site may provide links to other U.S. D&B websites, non-U.S. D&B websites and non-D&B websites that may employ different information management practices.  We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.
+We may share your information with affiliates, partners, agents or other parties whose products or services we believe may be of interest to you and/or for marketing purposes. Since AllBusiness is design to help companies and business professionals network with others, AllBusiness is designed so that certain information about you and your business is available to others on AllBusiness and via search engines, including, your name and location of your business, and to help you communicate with companies and business professionals. 
 
-**What Information Do We Collect?**
+The contents of your online communications, as well as other information about you as a AllBusiness user, may also be accessed and disclosed in response to, among other things: (a)to governmental requests or legal process (for example, a court order, search warrant or subpoena), (b) in other circumstances in which we believe that a crime has been or is being committed by a user or that an emergency exists that poses a threat to the safety of you or another person; or, (c) for us to render the services we provide. 
 
-AllBusiness collects information on businesses and business professionals. We collect individual and business identifiable information from website visitors when you register to be a member of AllBusiness, purchase products and services through our website, subscribe for e-mail newsletters and alerts, enter a contest, fill out a survey, or fill out a form to request franchisor information, receive free incentives, request white papers, request case studies or request other information.  We also collect information offline from business partners and vendors.  The business information that we collect includes the following:
+In the event that our ownership may change as a result of a merger or acquisition by another company, your AllBusiness information may be transferred in connection with such merger or acquisition. 
 
-  * Company and business professional contact information, including name, title, address, phone number, fax number and e-mail address;
-  * Detailed company profiles and statistics, including industries and number of employees;
-  * Background information regarding company management, such as the educational and career histories of company principals;
-  * Company operational histories, including territories, subsidiaries, affiliates and lines of business;
-  * Summary business information regarding profitability, debts, assets, net worth and business relationships;
-  * Business professional data as it relates to their professional lives, such as name, company, title, job function, business contact information and trade associations; and
-  * Credit/debit card information in order to process certain customer payments.
+You may request that we modify or delete information in your business profile by contacting 
 
+[customerservice@AllBusiness.com](mailto:customerservice@AllBusiness.com). We do not guarantee that such changes will be made or when such changes will be made.
 
+**Cookies, Advertising Networks**
 
-We also collect information about website visitors indirectly through standard web logs, such as IP addresses, browser types (e.g. Internet Explorer), areas of the website that are visited and the website from which a visitor came.  We routinely use this web log information in the aggregate in order to administer and improve our website.  While some of this data may be traceable to an individual, we only seek to identify individuals whom we believe are using our website for improper purposes.
+We may place "cookies" on your Web browser. Cookies are small pieces of information or text files that a Web site sends to your computer for record-keeping purposes, which information is stored in a file on your computer's hard drive. Cookies make Web-surfing and browsing easier for you by saving your preferences so that we can use the saved information to facilitate and improve your use of AllBusiness. Please note that you will not be able to access and use all of 
 
-**How Do We Use and Share Information?**
+our features if you delete or refuse to accept cookies. For example, without cookies, you will not be able to set certain personalized preferences, and/or you may have difficulty completing transactions on AllBusiness. 
 
-AllBusiness uses the identifiable business and business professional information that we collect to operate our website, to offer a variety of business information products and services for use in making prudent business decisions, and to carry out transactions that you request or authorize.  AllBusiness will not sell, license or disclose registered user business contact information to unaffiliated third parties for marketing purposes without the registered user’s consent.  AllBusiness may send third party promotional e-mail messages to registered users on behalf of third party businesses without disclosing registered user information to the third party businesses on whose behalf the commercial e-mails are sent.  Registered users may opt out of receiving such third party commercial e-mail communications at any time.
+Also, we, and certain third party companies under agreement with us, may deploy cookies, pixel tags, web beacons or similar technologies to collect and assemble non-personal, demographic, behavioral and technical information about the use of AllBusiness from our users in order to group such users that share a common interest into general interest categories (collectively, “Audience Segment Cookies”). Such Audience Segment Cookies, which do not identify you personally, may be placed when you access AllBusiness, share content from AllBusiness, when advertisements are presented on AllBusiness, and/or when you respond to advertisements or other offerings on AllBusiness. We and these third party companies may use such non-personally identifiable information in combination with your visits to AllBusiness and other sites in order to present advertisements about goods and services likely to be of greater interest to you, to measure the effectiveness of AllBusiness and advertisements, and to help predict the characteristics and preferences of our audiences and the audiences of our third party companies. We may share certain information about you as a user that is not personally identified to you (such as, for example, user industry and position) with certain advertising network providers in order to help them deliver more relevant advertisements through their ad networks. The use of cookies by ad network providers is subject to their own privacy policies. 
 
-AllBusiness shares information with third party service providers, such as credit card processors, auditors, attorneys, consultants and contractors, in order to support AllBusiness Internet websites and business operations.  AllBusiness contractually requires that these recipients only use the information for the intended purpose of the disclosure and that they destroy or return the information when it is no longer needed.  When necessary or appropriate, we may disclose information in response to a court order, subpoena, law enforcement proceeding, regulatory inquiry or when otherwise legally required.  We may also disclose information as required or appropriate in order to protect our website, business operations or legal rights, or in connection with a sale or merger involving AllBusiness’s assets or business.
+**Security**
 
-From time to time, AllBusiness compiles online and offline transaction and registration information for internal analyses, such as market research, quality assurance, customer experience and operational benchmarking initiatives.
+We make available a secure page for entering sensitive information, protected by industry-standard SSL encryption technology. This technology encrypts your information prior to transmitting it over the Internet. 
 
-**You Have Choices**
+While we have established safeguards to help prevent unauthorized access to or misuse of you AllBusiness information, we cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, in the event of unauthorized acts by third parties that violate applicable law or our policies).
 
-AllBusiness respects your privacy preferences and offers the following ways through which you may control how we contact you and disclose your information.  We will honor your requests accordingly.
+**What About Other Web Sites Linked to Our Web Site?**
 
-AllBusiness E-mail Marketing:  We provide individuals with the opportunity to opt out of receiving AllBusiness’s promotional e-mails, newsletters and updates about new AllBusiness features, products and services.  You may opt out of receiving such promotional communications at registration and you can manage your e-mail communication preferences in AllBusiness’s [Member Center](http://www.allbusiness.com/3471024-1.html).  You may change your membership profile preferences at any time.  We may continue to send you transactional or service-related e-mails, such as communications regarding your account or subscription service, despite your desire to not receive promotional or marketing e-mail messages. 
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
 
-Third Party Marketing:  AllBusiness will not sell, license or disclose registered user business contact information to unaffiliated third parties for marketing purposes without the registered user’s consent.  AllBusiness may send third party promotional e-mail messages to registered users on behalf of third party businesses without disclosing registered user information to the third party businesses on whose behalf the commercial e-mails are sent.  Registered users may opt out of receiving such third party commercial e-mail communications at any time.
+Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites that have a link on our Web site, are subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
-Website Use Information:  You have additional choices regarding website use information that our third party advertisers and partners may collect or receive through the employment of cookies, Web beacons, pixel tags, clear GIF’s and other similar media.  Please see the “Third Party Advertisers” section below for more information.
+**Terms of Use Agreement**
 
-**Business Directory**
+Use of this site is subject to our Terms of Use Agreement.
 
-We display a business directory that is compiled, maintained and provided by Business.com, which is an unaffiliated website and company.  If you wish to be added to or removed from Business.com’s directory, or if you wish to correct any potential inaccuracies, you may visit [www.business.com](http://www.business.com/) and contact them directly.  Please note that Business.com’s Data Privacy and information management practices differ from those of AllBusiness.
+**Questions**
 
-**AllBusiness Blogs**
+If you have further questions or concerns that have not been addressed in this statement, please send your inquiries to: [customerservice@AllBusiness.com](mailto:customerservice@AllBusiness.com). Please be sure to include your name, email address, and daytime phone number in case we wish to contact you.
 
-When you sign up to participate in AllBusiness’s blogs, we will collect personally identifiable information in order to establish your profile.  Any information that you submit and post via the blogs will be available to AllBusiness website visitors and viewable to anyone online.  Your blog postings will be associated with your username and your voluntarily created public profile. **  **Violation of our Terms of Use agreement may result in the removal of your post(s) and/or the termination of your membership. ****
-
-**Access and Correction**
-
-To help ensure data quality and accuracy, AllBusiness provides businesses and business professionals with access to their business information within the AllBusiness databases and with an opportunity to correct verified inaccuracies.  Registered users may view and update their registration and contact information, as well as correct inaccuracies, by accessing AllBusiness’s [Member Center](http://www.allbusiness.com/3471024-1.html).  Registered users may also request access to all of their personally identifiable information that we collect and maintain in our database by contacting Customer Service.  When a business owner, principal or registered user contacts AllBusiness about a potential data error, we will promptly investigate the issue, confirm the information in question, correct verified inaccuracies and respond to the original inquiry.
-
-If you have a question regarding AllBusiness products, services or information management practices, if you would like to contact us or if you would like to provide us with your valued feedback, please visit the [AllBusiness Customer Service](http://www.allbusiness.com/2984617-1.html) center for additional information.
-
-**Cookies, Web Beacons, Pixel Tags and GIF’s**
-
-We design the layout and features of our website so that new visitors may anonymously learn about our products and services without revealing their identities.  For new visitors, we use cookies or Web beacons to collect limited data, such as the date, time and areas of our website that are visited, as well as the website from which the new visitor came.  When you select one of our products or services, register for a newsletter or e-mail alert, or complete a survey, we may try to identify your browser and we may combine information from cookies, Web beacons and other information collected online with other data that we maintain about you.  By improving the features, marketing and content of our website and by making your online experience more convenient and meaningful, we are able to better serve our customers' needs.
-
-A cookie is a small text file that is stored on your computer's hard drive and that often includes an anonymous unique identifier.  When you visit a website, that website’s computer asks your computer for permission to store this text file in a section of your hard drive that is specifically designated for cookies.  Each website can send its own cookie to your browser if your browser’s preferences allow it.  Your browser will only permit a website to access the cookies that it has previously sent to you and not the cookies sent to you by other websites.  Some of our business partners, such as third party advertisers, use cookies that originate from their websites.  We have no access to, or control over, these cookies.  For more information, please see the “Third Party Advertisers” section below.  We use cookies to store login or other information on your computer, which serves to improve our website functionality and tailor our services to your preferences and interests.  For certain services, we offer users the ability to store a user ID or password within a cookie so that they do not need to re-enter it when they subsequently return to our website.  Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our website and to assess which parts of the site are most popular.  This information helps us to constantly improve our website and better serve our customers.  We do not store credit/debit card numbers in cookies.  Most Internet browsers allow users to decide whether to accept cookies and how long to keep them on their hard drive.  You may reset your browser to refuse cookies and still use our website, although website access and functionality may be slower and less convenient.
-
-A Web beacon is a graphic image, such as a pixel tag or clear GIF, which is placed on a Web page or in an e-mail message to monitor user activity, such as whether the Web page or e-mail message is accessed or clicked.  They are often invisible because they are very small in size.  They are also used on many Web pages for alignment purposes.  We sometimes use Web beacons to provide an independent accounting of how many people visit our website or to gather statistics about browser usage on our website.  Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies.  It is difficult for you to limit the use of Web beacons because there is no easy way to distinguish their use from alignment and other purposes.  Web beacons may also be loaded from a different Web server than the rest of the page.
-
-We use third party advertising companies to serve ads when you visit our website.  In the course of serving advertisements, our third party advertisers and partners may place or recognize a unique cookie on your browser.  These companies may use information about your visits to AllBusiness and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  These third party partners monitor how guests use our website and determine which of our online features they prefer.  We may report information to our partners about our customers and the products and services they order, as well as aggregated, non-identifiable information about our guests' use of our website.  For more information, please see the “Third Party Advertisers” section below.
-
-**Third Party Advertisers**
-
-We use third party advertising companies to serve our Internet ad banners on our website and other websites on which we advertise.  If you view a Web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie that they previously placed on your computer.  These companies do not collect information that can personally identify you, but they may use information about your visits to our website and other websites to measure the effectiveness of ads.  We do not disclose any personally identifiable information to these companies.  We share aggregate website usage information with third party advertisers and partners for the purpose of effectively targeting our online advertisements.  Unless you are previously notified, these advertising companies do not link any online behavior or cookies with other information that can be used to personally identify you, such as your name, address, telephone number or e-mail address, when working with AllBusiness.
-
-These third party advertising networks also track visitors’ online usage and behavior patterns.  These companies may use information about your visits to AllBusiness and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  The result of these efforts is the creation of an online profile that attempts to predict individual user interests, preferences and purchasing habits.  The third party advertising networks then accordingly customize the advertising content served to users when visiting other websites.
-
-The _Network Advertising Initiative_ (NAI) is a self-regulatory cooperative of online marketing and analytics companies.  The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices.  Through the NAI’s online options, you may opt out of particular NAI network members’ behavioral advertising programs or you may opt out of all NAI network members’ programs.  Opting out will prevent **** the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads.  The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives.  If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the [NAI website](http://www.networkadvertising.org/index.asp). 
-
-**Data Security**
-
-AllBusiness maintains adequate data security measures to protect information against unauthorized access and disclosure.  These measures include the implementation of commercially reasonable technical, physical and administrative data security safeguards.  AllBusiness requires employees to complete appropriate training on data management and security practices.  AllBusiness also manages a service provider due diligence and oversight program to ensure that our vendors likewise employ adequate data collection, processing, transfer, management and security measures in carrying out their services on our behalf.
-
-There is no such thing as “guaranteed security,” whether conducting business online or offline.  Having established this fact, AllBusiness employs commercially reasonable and appropriate data security safeguards that are consistent with our business operations and generally accepted industry standards.
-
-Data security is our priority and we commit ourselves to safeguarding our customers’ data.  We do this by:
-
-  * Establishing policies and procedures for securely managing information;
-  * Limiting employee access to sensitive information;
-  * Protecting against unauthorized access to customer data by using data encryption, authentication and virus detection technology, as required;
-  * Requiring service providers with whom we do business to comply with relevant Data Privacy legal and regulatory requirements;
-  * Monitoring our websites through recognized online privacy and security organizations;
-  * Conducting background checks on employees and providing Data Privacy training to our team members; and
-  * Continually assessing our Data Privacy, information management and data security practices.
-
-
-
-**E-mail-A-Friend**
-
-If you choose to use our “Email-A-Friend” referral service to forward an article that is posted on our website to an associate, we will ask you for your colleague's name, e-mail address and any comments that you wish to send to your associate.  We will subsequently send your associate a one-time e-mail by forwarding the article to the designated recipient(s) that you have chosen.  This information is used for the sole purpose of sending this one-time e-mail message and we will not store the data in our systems.  We will not use, sell, license, rent or share your associate's e-mail address for marketing purposes.
-
-**Changes to AllBusiness’s Data Privacy Practices**
-
-If we make material changes to our information management and Data Privacy practices, we will post these changes on our website in order to keep you informed of how we collect, use, manage, disclose and protect our information assets.  Such changes will be posted in this section of our online privacy notice and the policy effective date will be updated accordingly. ****
-
-**Your Use of Our Website Is Consent**
-
-By using our website, you hereby consent to our collection, use, management, retention and disclosure of your information as described in this notice.
-
-**TRUSTe Partnership**
-
-This online privacy notice is designed to assist you in understanding how we collect and use the individual and business identifiable information that you provide to us and to assist you in making informed decisions when using our website, features, products and services.  In this vein, AllBusiness has partnered with TRUSTe, which is an independent, non-profit organization whose mission is to build Internet users' trust and confidence in the Web by promoting the use of fair information practices.  We are committed to respecting your privacy and we have agreed to disclose our information management practices to TRUSTe so they may periodically review them for adequacy and compliance.
-
-AllBusiness is a licensee of TRUSTe’s Privacy Seal Program and we have partnered with them to address and resolve potential disputes regarding our online Data Privacy practices.  If you have any complaints regarding our online Data Privacy and information management practices, you should first contact us at:
-
-Privacy Office  
-D&B  
-103 JFK Parkway  
-Short Hills, NJ  07078-or-
-
-[privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)
-
-Please allow at least 10 business days for us to respond to your complaint.
-
-If you are unable to resolve your complaint by contacting us directly, you may submit your complaint to TRUSTe.  You may reach TRUSTe via the Internet by completing the [TRUSTe Watchdog Dispute Resolution Form](http://www.truste.org/consumers/watchdog_complaint.php), by faxing TRUSTe Watchdog Dispute Resolution at 415-520-3420 or by postal mail at:
-
-TRUSTe Watchdog Dispute Resolution  
-55 2nd Street, 2nd Floor  
-San Francisco, CA  U.S.A.  94105
-
-If you are submitting a complaint to TRUSTe regarding our online data collection and management practices, you must include the following information in your submission: our company name; the nature of the alleged Data Privacy violation, including details about how your data was collected and what causes you to believe that a violation occurred; the resolution you are requesting; your contact information; and whether you give permission to TRUSTe to share the details of your complaint, including your name, with us.  For additional information about TRUSTe and/or TRUSTe's dispute resolution process, please visit [TRUSTe Watchdog Dispute Resolution](http://www.truste.org/consumers/watchdog_complaint.php) or request this information from TRUSTe by using any of the contact options listed above.
-
-**Contact AllBusiness**
-
-For questions or complaints regarding AllBusiness’s Data Privacy practices, please visit the [AllBusiness Customer Service](http://www.allbusiness.com/2984617-1.html) center or contact Customer Service directly.  We will do our best to resolve any complaints or issues as quickly as possible.
-
-For more information regarding this online privacy notice, please contact:
-
-Privacy Officer  
-D&B  
-103 JFK Parkway  
-Short Hills, NJ  07078  
-[privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)
-
-**Privacy Policy Effective Date: November 13, 2009**
-
-© AllBusiness.com, Inc., 2009.  All rights reserved.
+*********
