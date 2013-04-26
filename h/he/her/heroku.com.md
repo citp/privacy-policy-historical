@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroku.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125005333id_/http%3A//policy.heroku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroku.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426113055id_/http%3A//policy.heroku.com/privacy) for the most accurate reproduction.*
 
 # Heroku | Legal | Privacy Policy
 
@@ -46,7 +46,7 @@ Heroku may use information from Web beacons in combination with Data About Herok
 
 **4.3 Flash Cookies** \- Heroku may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom the Company partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://en.wikipedia.org/wiki/Local_shared_object).
 
 **4.4 IP Addresses** \- When you visit Heroku’s Web site, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Heroku uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web site.
 
