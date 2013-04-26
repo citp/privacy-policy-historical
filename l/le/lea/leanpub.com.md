@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015090334id_/https%3A//leanpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426060850id_/https%3A//leanpub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
