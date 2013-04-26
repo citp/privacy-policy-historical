@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108065145id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426054802id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
 
 # Engrade Help - Privacy Policy
 
 At Engrade, we highly value the privacy of our members and we have a strict privacy policy to ensure all of our users' information is private.
 
-When we collect personal information from you on our website, we follow the privacy principles of (an independent resource mechanism) and comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. These are our promises to you:
+When we collect personal information from you on our website, we follow the privacy principles of TRUSTe and comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. These are our promises to you:
 
 **1\. Notice.** Engrade only collects your personal information to provide you with the features you request such as gradebook, calendar, or attendance. When we collect your personal information, we’ll always give you timely and appropriate notice describing what personal information we’re collecting and how we’ll use it.
 
