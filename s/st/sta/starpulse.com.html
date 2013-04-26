@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the starpulse.com privacy policy that was archived on 2012-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127215808id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starpulse.com privacy policy that was archived on 2013-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130426174456id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy - Starpulse.com</title>
@@ -9,8 +9,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" type="image/x-icon" href="http://images.starpulse.com/favicon.ico">
-<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/spall.css?v=2012100200">
-<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/style.new_design.css?v=2012091302">
+<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/spall.css?v=2013022700">
+<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/style.new_design.css?v=2013011400">
 
 <!--[if lte IE 6]>
 	<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/ie6_fixes.css" />
@@ -18,14 +18,14 @@
 
 <link href="https://plus.google.com/114946410770698472140" rel="publisher">
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://widget.crowdignite.com/widgets/28596?_ci_wid=_CI_widget_1" async=""></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
 	/* <![CDATA[ */
 	PHP_SELF='http://www.starpulse.com/Company/privacy.html';
 	apparent_starpulseuserid=0;
 	/* ]]> */ 
 </script>
 <script type="text/javascript" src="http://cdn.starpulse.com/java/jquery/jquery.pack.js"></script>
-<script type="text/javascript" src="http://cdn.starpulse.com/java/jquery/jquery.spall.js?v=2012101800"></script>
+<script type="text/javascript" src="http://cdn.starpulse.com/java/jquery/jquery.spall.js?v=2013041200"></script>
 
 <!-- Google Adsense -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
@@ -71,6 +71,7 @@
 
 <!-- Google Analytics -->
 <script type="text/javascript">
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2478988-1']);
 
@@ -157,9 +158,22 @@
     return true;
   }
 
+  var pseudoLink =function(link_href) {
+    document.location.href =link_href;
+  }
+
+  $('document').ready( function() {
+    $('body').on('click', '.pseudo_link', function() {
+      if (typeof($(this).children('a').first().attr('href')) != 'undefined') {
+        pseudoLink($(this).children('a').first().attr('href'));
+        return false;
+      }
+      return true;
+    });
+  });
 </script>
 
-<script async="" type="text/javascript" src="http://scribol.com/txwidget1.2.js"></script><script async="" type="text/javascript" src="http://spcomments.disqus.com/count.js"></script></head>
+<script async="" type="text/javascript" src="http://spcomments.disqus.com/count.js"></script></head>
 <body>
 	<div id="ad-row" style="z-index: 9000;">
 		<div id="ad1">
@@ -393,16 +407,25 @@ If you have any questions regarding our Privacy Statement and policies or your d
 <div id="Toplevel1-feature-controls" class="feature-controls">
 </div>
 <div id="Toplevel1-displaybox" class="display-box">
-<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=Toplevel&amp;page_channel=Generic&amp;featurecat=Buzz&amp;feedoffset=0&amp;featureid=Toplevel1&amp;dwrite=1"></script>
+<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.php?featuretype=Toplevel&amp;page_channel=Generic&amp;featurecat=Buzz&amp;feedoffset=0&amp;featureid=Toplevel1&amp;dwrite=1"></script>
 </div>
 
-<div style="width: 291px; margin: 0px auto 20px;"><iframe class="scribol" style="height:441px; width:291px;" id="scribol_1357931" scrolling="no" frameborder="0"></iframe></div>
 <script type="text/javascript">
-	var Scribol;
-	if(typeof Scribol=='undefined'){Scribol={};Scribol.frames=[];Scribol.site='http://scribol.com/';Scribol.is_preview=false;}
-	Scribol.frames.push('1357931');
-</script>
-<script type="text/javascript">(function () { var s =document.createElement('script'); s.async =true; s.type ='text/javascript'; s.src ='http://scribol.com/txwidget1.2.js'; (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s); }());</script>
+/* <![CDATA[ */
+var _CI = _CI || {};
+(function() {
+var script = document.createElement('script');
+ref = document.getElementsByTagName('script')[0];
+_CI.counter = (_CI.counter) ? _CI.counter + 1 : 1;
+document.write('<div id="_CI_widget_');
+document.write(_CI.counter+'"></div>');
+script.type = 'text/javascript';
+script.src = 'http://widget.crowdignite.com/widgets/28596?_ci_wid=_CI_widget_'+_CI.counter;
+script.async = true;
+ref.parentNode.insertBefore(script, ref);
+})();
+/* ]]> */
+</script><div id="_CI_widget_1"></div>
 </div>
 <div style="margin-bottom: 5px;"><center><script type="text/javascript">GA_googleFillSlot('Generic-Sky');</script></center></div>
 <div class="content-box">
@@ -410,7 +433,7 @@ If you have any questions regarding our Privacy Statement and policies or your d
 <div id="Contests1-feature-controls" class="feature-controls">
 </div>
 <div id="Contests1-displaybox" class="display-box">
-<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=Contests&amp;page_channel=Generic&amp;featurecat=Contests&amp;feedoffset=0&amp;featureid=Contests1&amp;dwrite=1"></script>
+<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.php?featuretype=Contests&amp;page_channel=Generic&amp;featurecat=Contests&amp;feedoffset=0&amp;featureid=Contests1&amp;dwrite=1"></script>
 </div>
 </div>
 </div>
@@ -445,7 +468,7 @@ If you have any questions regarding our Privacy Statement and policies or your d
 	</div>
 
 <p id="footer-trademark">
-<a href="/"><img src="http://images.starpulse.com/images/starpulse_logo_footer.png" alt="Starpulse.com" title="Starpulse.com"></a><br>© 1999-2012 Starpulse.com™<br>In partnership with TMZ.com<br></p>    
+<a href="/"><img src="http://images.starpulse.com/images/starpulse_logo_footer.png" alt="Starpulse.com" title="Starpulse.com"></a><br>© 1999-2013 Starpulse.com™<br>In partnership with TMZ.com<br></p>    
     <!-- Quantcast Tag, part 2 -->
 <script type="text/javascript">_qevents.push( { qacct:'p-4cjg46u42920Y'} );</script>
 <noscript><div style='display: none;'><img src='http://pixel.quantserve.com/pixel/p-4cjg46u42920Y.gif' height='1' width='1' alt='Quantcast' /></div></noscript>
