@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glassdoor.co.uk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031307id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426115054id_/http%3A//www.glassdoor.co.uk/about/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Glassdoor
+# Privacy Policy | Glassdoor.co.uk
 
 This Privacy Policy was last updated in January 2012.
 
-Glassdoor, Inc. (“ **Glassdoor** ”, “ **we** ”, or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Glassdoor Terms of Use, which can be found at [http://www.glassdoor.com/about/terms.htm](https://web.archive.org/about/terms.htm) and which incorporate this Privacy Policy by reference. This Privacy Policy describes Glassdoor's practices with respect to Personal Information that we collect when you use the Services. 
+Glassdoor, Inc. (“ **Glassdoor** ”, “ **we** ”, or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalised terms shall have the meanings assigned to such terms in the Glassdoor Terms of Use, which can be found at [http://www.glassdoor.co.uk/about/terms.htm](https://web.archive.org/about/terms.htm) and which incorporate this Privacy Policy by reference. This Privacy Policy describes Glassdoor's practices with respect to the Personal Information that we collect when you use the Services. 
 
 “ **Personal Information** ” is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. We collect and use Personal Information as described in this Privacy Policy from the Users of our Services. 
 
@@ -17,7 +17,7 @@ YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED
 We collect the following Personal Information that you submit to us voluntarily:
 
   * Our Member registration process to create an Account requires you to provide us with your e-mail address and password of your choice. Furthermore, you have to provide either an employer review or salary report to become a Member. 
-  * When you use our Facebook App or connect to our Site using you Facebook Account, you will be asked to share information as more specifically described about Facebook below. 
+  * When you use our Facebook App or connect to our Site using your Facebook Account, you will be asked to share information, as more specifically described, about Facebook below. 
   * When you choose to contribute content or participate in our surveys (either directly, or through third party service providers), or provide any other information to the Services through other means, we will collect all the information you provide. 
   * In connection with employer and interview reviews, salary reports, surveys, and other content you may contribute, Glassdoor (and/or its third party service providers) will collect a wide variety of employee- and salary-related information on an optional basis. Please be aware that while some pieces of information that you provide to us would not be sufficient to identify you when seen by another User without any context, the combination of different pieces of information that you have provided for viewing by other Users, or any contextual information, may allow other Users to identify you. 
   * When you contact us by sending us an e-mail or when you use any of our contact forms, we will collect any information that is contained in (and/or attached to) your e-mail, text message, or that you enter into such forms. 
@@ -28,11 +28,11 @@ We collect the following Personal Information that you submit to us voluntarily:
 
 The following section sets forth the data collection and usage policies and practices that apply to when you use our Facebook Application or when you join or sign in (“ **Connect** ”) to Glassdoor using your Facebook Account (collectively all called “ **the App** ”). Unless specifically described in this section, the remainder of this Privacy Policy otherwise applies. 
 
-NOTE: Your use of Facebook in general and your relationship with Facebook are subject to Facebook's own Data Use Policy, Statement of Rights and Responsibilities, Platform Principles and their other published policies and principles. We do not control and are not responsible for Facebook's processing of your information. We strongly recommend that you carefully review and familiarize yourself with all Facebook's statements, policies and principles before you start using our App. 
+NOTE: Your use of Facebook in general, and your relationship with Facebook, are subject to Facebook's own Data Use Policy, Statement of Rights and Responsibilities, Platform Principles and their other published policies and principles. We do not control and are not responsible for Facebook's processing of your information. We strongly recommend that you carefully review and familiarise yourself with all Facebook's statements, policies and principles before you start using our App. 
 
 ### About the App and the Information Collected
 
-Our Facebook App helps you establish a professional network on Glassdoor based on your existing network of Facebook connections. When you use the App or Connect to Glassdoor using your Facebook Account, you authorize us to collect, cache, and use the information that you agreed Facebook could provide to us. We use some of your Facebook information to establish your Profile on Glassdoor and to enhance our services to you. Your Facebook privacy and application settings may affect the information that you give us. You can find out more about controlling these settings on Facebook. 
+Our Facebook App helps you to establish a professional network on Glassdoor based on your existing network of Facebook connections. When you use the App or Connect to Glassdoor using your Facebook Account, you authorise us to collect, cache and use the information that you agreed Facebook could provide to us. We use some of your Facebook information to establish your Profile on Glassdoor and to enhance our services to you. Your Facebook privacy and application settings may affect the information that you give us. You can find out more about controlling these settings on Facebook. 
 
 ### Collecting Information through the App
 
@@ -59,7 +59,7 @@ We use your Facebook Information in the following ways:
 
   * To provide benefits to you and others, like helping you, your friends and potential employers and business opportunities connect and share professional information and potential interest in career opportunities. 
   * To provide Glassdoor services, the App, and their respective features, functionality and related services. 
-  * To personalize and target content, services, career opportunities and advertising, including location-based content, services, opportunities and advertising. 
+  * To personalise and target content, services, career opportunities and advertising, including location-based content, services, opportunities and advertising. 
   * To build, maintain and share your Profile. 
   * To manage user accounts, communications and for internal processes and reporting. 
 
@@ -71,7 +71,7 @@ Your Professional Profile (“ **Profile** ”) is your business card and profes
 
 ### Communications through the App
 
-We may contact you through email, the App, Facebook and other similar channels to provide notifications, announcements, respond to customer support inquiries, and to present you with professional opportunities on our behalf and on behalf of our partners. We may contact you with informational and service-related communications, for security updates and quality control, for your feedback and to respond to you. We may also send you promotional communications on our behalf and on behalf of our partners. You can opt out of receiving promotional communications email messages by clicking "unsubscribe" in the message or changing your email settings in My Account. 
+We may contact you through email, the App, Facebook and other similar channels to provide notifications, announcements, respond to customer support enquiries and to present you with professional opportunities on our behalf and on behalf of our partners. We may contact you with informational and service-related communications, for security updates and quality control, for your feedback and to respond to you. We may also send you promotional communications on our behalf and on behalf of our partners. You can opt out of receiving promotional communication email messages by clicking on "unsubscribe" in the message or changing your email settings in My Account. 
 
 ### Access and Control of Information from Facebook
 
@@ -101,7 +101,7 @@ In general, information (including Personal Information) you submit to us, or to
 
 We may also use your Personal Information to provide you with announcements, notifications related to your use of the Services and other communications such as electronic newsletters, promotional e-mails or similar messaging. 
 
-We may create anonymized information from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this anonymized information for internal purposes, such as analyzing usage patterns so that we may enhance the Services, and we also reserve the right to use and disclose such anonymized information at our discretion. 
+We may create anonymised information from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this anonymised information for internal purposes, such as analysing usage patterns so that we may enhance the Services, and we also reserve the right to use and disclose such anonymised information at our discretion. 
 
 If you choose to use our service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and ensuring multiple invitations are not sent. Your friend may contact us at privacysupport@glassdoor.com or through [Contact Us](https://web.archive.org/about/contact_input.htm) to request that we remove this information from our database. 
 
@@ -115,7 +115,7 @@ If you provide feedback about the Services to us, we may use and disclose such f
 
 ## **Disclosure of Personal Information**
 
-Except as otherwise stated in this Privacy Policy, we do not disclose to or share your Personal Information with third parties, unless you ask or authorize us to do so.
+Except as otherwise stated in this Privacy Policy, we do not disclose to, or share your Personal Information with, third parties, unless you ask or authorise us to do so.
 
 We may provide your Personal Information to third party service providers and suppliers who work on behalf of or with us to provide you with some of the services and features of the Services and to help us communicate with our Users. However, these service providers and suppliers do not have any independent right to use this information except to help us provide the Services.
 
@@ -123,7 +123,7 @@ We may share some or all of your Personal Information with any parent company, s
 
 In the event Glassdoor goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of Glassdoor or its assets may continue to use your Personal Information as set forth in this Privacy Policy.
 
-We may (and you authorize us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce our Glassdoor Terms of Use and Privacy Policy; or (c) to protect and defend the rights or property of us, the users of our Services, or third parties.
+We may (and you authorise us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce our Glassdoor Terms of Use and Privacy Policy; or (c) to protect and defend the rights or property of us, the users of our Services or third parties.
 
 ## **Choices Regarding Personal Information**
 
