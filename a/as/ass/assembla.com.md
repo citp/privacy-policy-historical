@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assembla.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016012949id_/http%3A//www.assembla.com/spaces/breakoutdocs/wiki/Privacy_of_User_Information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assembla.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426065748id_/http%3A//www.assembla.com/spaces/breakoutdocs/wiki/Privacy_of_User_Information) for the most accurate reproduction.*
 
 # Privacy of User Information | Assembla FAQ and Documentation Space | Assembla
 
@@ -49,7 +49,7 @@ Your login name is always publicly visible when it appears in a team list.
 Users do not appear in searches automatically.
 
   * If you want to appear in a Talent search, go to your [user/skills page](https://web.archive.org/user/skills) and select the checkbox at the top.  If you select this checkbox, your profile will appear in talent searchers.  If you do not select this checkbox, your skill profile will only be available to the owner of spaces where you apply for a job.
-  * If you want a user profile to appear in space searches, [create a personal space](https://web.archive.org/spaces/personal/new). **  **You can set the Public permission for this space so that other users can search it and view it.
+  * If you want a user profile to appear in space searches, [create a personal space](https://web.archive.org/spaces/personal/new). ** ** You can set the Public permission for this space so that other users can search it and view it.
 
 
 
