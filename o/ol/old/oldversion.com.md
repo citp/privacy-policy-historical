@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022152134id_/http%3A//www.oldversion.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426040044id_/http%3A//www.oldversion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Terms - OldVersion.com
+
+Stats: 8,243 versions of 501 programs
+
+## Pick a software title... to downgrade to the version you love!
+
+## Privacy Policy  
+ 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
