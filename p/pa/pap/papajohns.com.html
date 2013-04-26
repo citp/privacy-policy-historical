@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the papajohns.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015082355id_/http%3A//www.papajohns.com/policy.shtm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the papajohns.com privacy policy that was archived on 2013-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130426200443id_/http%3A//www.papajohns.com/policy.shtm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cufon-active cufon-ready"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -211,43 +211,30 @@ Louisville, Kentucky 40269-0900
 								<li><span>•</span> <a href="../faqs/index.shtm">FAQs</a></li>
 								<li><span>•</span> <a href="http://www.papajohns.com/papacard/">Gift Card</a></li>
 								<li><span>•</span> <a href="http://www.papajohnsshop.com/">Gift Shop</a></li>
-								<li><span>•</span><a href="http://www.facebook.com/papajohns" target="_blank"> <img src="index_files/footerFacebookIcon.png" alt="Facebook"> </a></li>
-								<li><a href="http://www.twitter.com/papajohns" target="_blank"> <img src="index_files/footerTwitterIcon.png" alt="Twitter"> </a></li>
-								<li><a href="http://www.youtube.com/papajohns" target="_blank"> <img src="index_files/youtube_icon.png" alt="Papa Johns YouTube Channel"> </a></li>
+								<li><span>•</span><a href="http://www.facebook.com/papajohns" target="_blank"> <img src="../index_files/footerFacebookIcon.png" alt="Facebook"> </a></li>
+								<li><a href="http://www.twitter.com/papajohns" target="_blank"> <img src="../index_files/footerTwitterIcon.png" alt="Twitter"> </a></li>
+								<li><a href="http://www.youtube.com/papajohns" target="_blank"> <img src="../index_files/youtube_icon.png" alt="Papa Johns YouTube Channel"> </a></li>
                 </ul>
                 <div id="footerFranchiseCTA">
                     <a href="franchise_opps/index.shtm"><img src="assets/img/footerFranchiseCTA.png" alt="Open your own Papa John's franchise"></a>
                 </div>
                 <div id="footerInternationalSites" class="clr">
                     <a href="international.shtm"><img src="assets/img/homeInternationalSitesBg.png" alt="International Sites"></a>
-                    <select id="intlSitesSelect" style="display: none;">
-                        <option value="">International Sites</option>
-                        <option value="http://www.papajohns.com/">United States</option>
-                        <option value="http://www.papajohnspizza.ca">Canada</option>
-                        <option value="http://www.papajohnspizza.com.mx/">Mexico</option>
-                        <option value="http://www.papajohns.com.ph/">Philippines</option>
-                        <option value="http://www.pji.co.kr/">South Korea</option>
-                        <option value="http://www.papajohns.co.uk/">United Kingdom</option>
-                    </select><div class="comboBox rounded" role="combobox" aria-haspopup="true" id="intlSitesSelect-Field" tabindex="0" aria-autocomplete="list" aria-owns="intlSitesSelect-List" title="United States">United States</div>
+                    <select style="display: none;" id="intlSitesSelect">
+                      <option selected="selected" value="">International Sites</option>
+                      <option value="http://www.papajohns.com">North America</option>
+                      <option value="/international.shtm#asia">Asia</option>
+                      <option value="/international.shtm#latin-america">Latin America</option>
+                      <option value="/international.shtm#europe-middle-east-india">Europe, Middle East &amp; India</option>
+                    </select><div class="comboBox rounded" role="combobox" aria-haspopup="true" id="intlSitesSelect-Field" tabindex="0" aria-autocomplete="list" aria-owns="intlSitesSelect-List" title="North America">North America</div>
                 </div>
+                
                 <div class="legal">
-                    <p>
-                        Online Ordering Customer Service 877-547-PAPA (7272)<br>
-                        ©Copyright 2012 Papa John's International, Inc. All rights reserved.<br>
-                        Facebook is a registered trademark of Facebook, Inc.
-                    </p>
-                    <!-- p>
-                        Offer good for a limited time at participating Papa John's restaurants. Additional
-                        toppings extra. Not valid with any other coupons or discounts. Limited delivery
-                        area. Delivery fee may apply. Customer responsible for all applicable taxes. Prices
-                        may vary in Alaska and Hawaii.
-                    </p -->
-                    <!-- p>
-                        &copy;2010 The Coca-Cola Company. "Coca-Cola" with the Dynamic Ribbon is a registered
-                        trademark of The Coca-Cola Company. "COKE ZERO" is a trademark of The Coca-Cola
-                        Company. 
-                    </p -->
-
+                    <p> Online Ordering Customer Service 877-547-PAPA (7272)<br>
+                        ©Copyright 2013 Papa John's International, Inc. All rights reserved.<br>
+                        Facebook is a registered trademark of Facebook, Inc.</p>    
+                                            
+                    <p>Valid only at participating U.S. restaurants. You must have or create an account at www.papajohns.com to qualify. Using the promo code HOOPS automatically enrolls you in Papa Rewards once you have an account. By participating in the promotion you agree to receive email notifications related to this promo.</p> 
                 </div>
             </div>
         </div>
@@ -261,7 +248,22 @@ Louisville, Kentucky 40269-0900
     <!--[if IE 8]>
     </div>
 	<![endif]-->
-    <script type="text/javascript">Cufon.now();</script>
+<!-- <script type="text/javascript" src="/assets/js/min2.js"></script> -->
+<script type="text/javascript">Cufon.now();</script>
+    <script type="text/javascript">
+    $(function(){
+
+        var url = window.location.pathname,
+            urlRegExp = new RegExp(url.replace(/\/$/,'')); // create regexp to match current url pathname         
+            // now grab every link from the navigation
+            $('#sidenav a').each(function(){
+                // and test its href against the url pathname regexp
+                if(urlRegExp.test(this.href)){
+                    $(this).addClass('selected');
+                }
+            });
+     });
+    </script>
     
 <!-- GOOGLE ANALYTICS TRACKING -->
 <script type="text/javascript">
