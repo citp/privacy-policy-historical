@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the uscellular.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029145102id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscellular.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426050720id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Information Highlights | U.S. Cellular
 
 ## Privacy Statement Highlights
 
-### Effective Date: October 15, 2011
+### Effective Date: April 10, 2013
 
 United States Cellular Corporation ("U.S. Cellular®") is dedicated to providing superior customer satisfaction and is committed to protecting customer privacy. We take this responsibility seriously as a key component to earning and maintaining our customers' trust.
 
-This overview provides highlights of the full [U.S. Cellular Privacy Statement](https://web.archive.org/site/privacy/privacy-statement.html) ("Privacy Statement"). By subscribing to our services or accessing our websites, you agree to our collection and use of your information as described in the Privacy Statement as may be amended from time to time. 
+This overview provides highlights of the full [U.S. Cellular Privacy Statement](http://www.uscellular.com/site/privacy/privacy-statement.html) ("Privacy Statement"). By subscribing to our services or accessing our websites, you agree to our collection and use of your information as described in the Privacy Statement as may be amended from time to time. 
+
+Certain products, services and websites that are U.S. Cellular branded or U.S. Cellular co-branded with a Third Party may have a privacy statement separate from this Privacy Statement that applies to those products, services, and websites. Before you access, use, link to or download these products, services or websites, you should review the applicable terms of service and privacy statement.
 
 ### Collection of your Confidential Personal Information
 
@@ -18,20 +20,23 @@ When you visit a U.S. Cellular website, we automatically collect certain informa
 
 We may store small data files, known as cookies, or other technologies, on your computer or mobile browser when you visit certain websites. You can disable cookies. However, if you do so your experience on that website may be limited.
 
-Third Party Advertisers may place cookies on your computer or mobile device when you are on a U.S. Cellular website to collect the preferences you demonstrate through your online activities on our websites and use them to provide personalized advertising that may be of interest to you when you are on other websites. U.S. Cellular and its Third Party Advertisers adhere to the Digital Advertising Alliance's [Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/principles). To find out more information about online behavioral advertising or to opt-out of the collection and use of your online information by Third Party Advertisers for online behavioral advertising, [click here](http://www.uscellular.com/site/oba-compliance.html). 
+Third Party Advertisers may place cookies on your computer or mobile device when you are on a U.S. Cellular website to collect the preferences you demonstrate through your online activities on our websites and use them to provide personalized advertising that may be of interest to you when you are on other websites. U.S. Cellular and its Third Party Advertisers adhere to the Digital Advertising Alliance's [Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/principles). To find out more information about online behavioral advertising or to opt-out of the collection and use of your online information by Third Party Advertisers for online behavioral advertising, [click here](http://www.uscellular.com/site/oba-compliance.html). U.S. Cellular's products, services and websites are intended for general audiences. In order to respect the privacy of children online, U.S. Cellular does not knowingly collect, maintain or process Confidential Personal Information submitted by children under the age of 13 unless we first obtain permission from that child's parent or legal guardian. 
 
 ### Use of your Confidential Personal Information
 
-We may use your Confidential Personal Information to provide you with and manage the services you request, communicate with you to maintain good customer relations or to suggest new products and services that may be of interest to you, conduct industry or consumer surveys, manage, improve and troubleshoot our network and services, enforce our Terms of Service, or for any purpose otherwise permitted or required by law.
+We may use your Confidential Personal Information to provide you with and manage the services you request, communicate with you to maintain good customer relations or to suggest new products, services and websites that may be of interest to you, conduct industry or consumer surveys, manage, improve and troubleshoot our network and services, enforce our Terms of Service, or for any purpose otherwise permitted or required by law.
 
 ### Sharing of your Confidential Personal Information
 
 U.S. Cellular does not sell your Confidential Personal Information for any purpose other than to enforce our rights under the Terms of Service or as expressly stated in this Privacy Statement.
 
-U.S. Cellular may seek your consent to share your CPNI with Affiliates and Third Parties with whom we have a relationship for the purposes of marketing its products and services. Depending on the circumstance, we may obtain your consent by providing notice and the ability to opt-out.   
-U.S. Cellular may share certain Confidential Personal Information for purposes permitted by law without your consent such as to help initiate, render, bill, and collect for its products and services; as well as to provision and market its products and services (including co-branded products) to you.
+U.S. Cellular may seek your consent to share your [CPNI](http://www.uscellular.com/site/privacy/index.html#cpni) with Affiliates and Third Parties with whom we have a relationship for the purposes of marketing its products and services. Depending on the circumstance, we may obtain your consent by providing notice and the ability to opt-out.   
+U.S. Cellular may share certain Confidential Personal Information for purposes permitted by law without your consent such as to help initiate, render, bill, and collect for its products and services; as well as to provision and market its products, services and websites (including co-branded products, services and websites) to you.
 
-U.S. Cellular does not publish or support directories of our customers' wireless phone numbers nor do we make this information available for listing in public directories. 
+U.S. Cellular does not publish or support directories of our customers' wireless phone numbers nor do we make this information available, without your consent, for listing in public directories. 
+
+.  
+
 
 ###  Accessing your Confidential Personal Information 
 
@@ -49,13 +54,13 @@ Customers are encouraged to establish a password on their account for added acco
 
 CPNI refers to and includes information that we have about you by virtue of our relationship with you as your wireless service provider. This includes information about your account usage – such as the type and quantity of the services you subscribe to and other details about your calling, text messaging, or picture messaging plan. Use of CPNI is subject to federal laws and regulations with which U.S. Cellular is required to comply.
 
-When you become a customer of U.S. Cellular and no later than every two years thereafter, we will send you a notice in the mail explaining your rights concerning [Customer Proprietary Network Information](https://web.archive.org/uscellular/pdf/CPNI_Notification_Monthly_Prepaid_v2011.pdf). 
+When you become a customer of U.S. Cellular and no later than every two years thereafter, we will send you a notice in the mail explaining your rights concerning [Customer Proprietary Network Information](http://www.uscellular.com/uscellular/pdf/CPNI_Notification_Monthly_Prepaid_v2011.pdf).
 
 ###  Personally Identifiable Wireless Location Information
 
 In order to provide you with wireless services, our network receives and tracks your location information so that we may route communications, deliver wireless content and properly bill you for your services. We may also disclose your location information to other parties as permitted by you or by applicable law, including but not limited to public safety, fire service or law enforcement officials in emergency situations, and to other parties which provide location-based services that track the location of the mobile device using our network with or without our cooperation.
 
-Once a mobile device's location information is transferred from U.S. Cellular to the party that provides the location-based service, that party's privacy policy will govern uses of your location information. 
+Once a mobile device's location information is transferred from U.S. Cellular to the party that provides the location-based service, that party's privacy policy will govern uses of your location information.
 
 ### Communication Preferences
 
@@ -64,13 +69,13 @@ If you do not want U.S. Cellular to use your Confidential Personal Information t
 U.S. Cellular  
 Attn: Customer Resolutions Support  
 P.O. Box 1489  
-Bolingbrook, IL 60440 
+Bolingbrook, IL 60440
 
 ### Enforcement of and Changes to this Privacy Statement 
 
 Our employees and those of our Affiliates are trained regarding their responsibilities to safeguard your privacy. They are required to adhere to a Code of Business Conduct, this Privacy Statement, and U.S. Cellular's policies which support our commitment to protecting customer privacy. 
 
-We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. When we post changes to this Privacy Statement, we will revise the effective date at the top of this Privacy Statement. We encourage you to periodically review this Privacy Statement to be kept informed about U.S. Cellular's privacy practices. 
+We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. When we post changes to this Privacy Statement, we will revise the effective date at the top of this Privacy Statement. We encourage you to periodically review this Privacy Statement to be kept informed about U.S. Cellular's privacy practices.
 
 ### Contacting Us
 
@@ -80,4 +85,4 @@ U.S. Cellular
 Attn: Director of Privacy  
 8410 W. Bryn Mawr Ave.  
 Chicago, Il. 60631-3486  
-Telephone: 773-399-8900 
+Telephone: 773-399-8900
