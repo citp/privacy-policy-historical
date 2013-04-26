@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029065738id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426184337id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.*
 
 # Mightybell | Privacy Policy
 
