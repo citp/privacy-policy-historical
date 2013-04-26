@@ -1,124 +1,107 @@
-> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122075023id_/http%3A//www.rottentomatoes.com/help_desk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426200124id_/http%3A//www.rottentomatoes.com/privacy) for the most accurate reproduction.*
 
-# ROTTEN TOMATOES: Video Player FAQ
+# Rotten Tomatoes: Legal Documents
 
-### Flixster Privacy Policy
+Flixster Privacy Policy
 
-#### Effective February 12, 2010
+Effective October 10, 2011
 
-Previous versions of our Privacy Policy: 
+Previous version of our Privacy Policy:
 
-  * [September 4, 2008](http://www.flixster.com/misc/copyrightprivacyterms?ver_ppol=20080904&tab=privacy)
-  * [April 10, 2007](http://www.flixster.com/misc/copyrightprivacyterms?ver_ppol=20070410&tab=privacy)
+[February 12, 2010](http://www.flixster.com/docs/privacy/us/en/2010-02-12)
 
+Thank you for visiting Flixster, including Rotten Tomatoes (together with the other [Warner Bros. Entertainment Group](http://www.google.com/url?q=http%3A%2F%2Fwww.warnerbros.com%2Fmain%2Fprivacy%2Fprivacy_list.html&sa=D&sntz=1&usg=AFQjCNHBl-D4n3Y0xr9xFP2eCtcrFjwUDg) companies, "we" "us", or "our"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages or for services where this policy is posted. If you also have downloaded the Flixster Collections software, please read the Additional Privacy Disclosures for Flixster Collections Software to learn more about the additional information collection practices that are specific to that offering. 
 
+THE INFORMATION WE COLLECT
 
-#### Our Commitment to You
+Registration. At some of our Web sites, applications and services ("Services"), you can order products or purchase content, enter contests, play one of our games, read critic and user reviews, vote in polls, rate movies, TV shows and other content, or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in our online forums or communities. In the course of using the Services, we ask you to create an account by providing us with certain personally identifiable information that can be used to contact or identify you, as well as to administer your account. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card and billing information, and information about your interests in and use of various products, programs, and services. 
 
-Welcome to the Internet sites and services part of Flixster! Flixster, Inc. (" ** _Flixster_** ," together with its other business units including but not limited to Rotten Tomatoes, " ** _we_** " or " ** _us_** ") provides an online community for movie fans made available through [www.flixster.com](http://www.flixster.com/), [www.rottentomatoes.com](http://www.rottentomatoes.com/) and any other websites owned, operated or controlled by us, our social media networking webpages and mobile applications (together the " ** _Sites_** ") where users can setup a profile with all of their movie ratings, favorites, lists and more, connect their profile with friends and meet new people with similar taste (collectively, the " ** _Services_** "). Flixster takes your privacy very seriously. To make it easier for you to read and understand our Privacy Policy, we did the unconventional thing - we wrote this in plain English and tried to keep it to a reasonably length. This Privacy Policy applies only to information that users provide to us through the Services.
+Information about others/inviting friends. You also can submit information about other people. For example, you might submit a person's name and e-mail address to share content or recommendations, and if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
 
-Here are our privacy principles:
+Some of our Services also allow you to invite your friends to join our services and to connect with you through social media features. Inviting friends is always optional. To do so, you may provide their contact information or may enter your log-in credentials to import email addresses from your address book from other sites that support such functionality (e.g., Yahoo! and Gmail). You select the friends you want to invite to share in this experience. 
 
-  * Providing information to us is your choice.
-  * You can end your membership at any time (See our [Terms of Service](https://web.archive.org/misc/copyrightprivacyterms?tab=terms) to find out how easy it is). 
-  * You always have the ability to opt-out of receiving communications from us.
+Information from other sources/social networking sites. You can also engage with our content, such as video, games, applications, and other offerings, on or through (1) third-party social networking sites, such as Facebook, (2) third-party social media plug-ins and applications, and (3) our social media plug-ins and applications that may be available through third-party sites or our Services. You may also choose to link your account with us to third party social networking sites. When you link your account or engage with our content on or through third party social networking sites, social media plug-ins or applications, you may allow us to have ongoing access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make). We may also maintain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our content. 
 
+When you provide information from your social media profile, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly with the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. 
 
+When you post information on blogs, public forums or similar functions at our Services, or when you interact with our Services through social networking sites (depending on your privacy settings), social media plug-ins or similar applications, this information could be seen by anyone on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social networking sites. For more information about how you can customize your privacy settings and how social networking sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use. 
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or touching information in any way, including collecting, storing, disclosing and transferring information within the United States or internationally.
+Instant Personalization on Rotten Tomatoes. At some of our Services, we enable a feature that allows you to instantly personalize your experience using Facebook's Instant Personalization. Instant Personalization lets you bring your friends and movie interests with you as you explore our Services where we have this feature enabled. To use this feature, you must have a Facebook account, be signed in, and ensure Instant Personalization is turned on in your Facebook privacy settings. Once enabled, Instant Personalization will provide the Service using this feature with the public information you make available from your [Facebook account](http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fhelp%2F%3Ffaq%3D17437&sa=D&sntz=1&usg=AFQjCNG-JlGIfV2kXe3_7nM4TwNr0HnHmQ). For example, you may see your first name, profile picture, and your friends' reviews the next time you access Rotten Tomatoes. 
 
-#### Information Collection and Use
+You can turn off Instant Personalization at any time by going to the privacy settings of your Facebook account and disabling the feature or by logging out on the Rotten Tomatoes site. To learn more about Facebook's Instant Personalization, click [here.](http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Finstantpersonalization%2F&sa=D&sntz=1&usg=AFQjCNEtuCyfUPDSl990w9lVpPI6Zl0HaQ). 
 
-Our primary goals in collecting information are to provide and improve our Services, features and content, to administer your membership and to enable you to enjoy and easily navigate the Site.
+Information collection from mobile devices. If you access our Services on your mobile telephone or other mobile device, we also collect your unique device identifier and may collect location information. We also may collect your telephone number and other information you choose to provide, such as username or e-mail address (e.g., to receive updates about movies and other content). 
 
-##### Personally Identifiable Information
+Technical and usage information. We also may obtain certain technical information when you use our Services, such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows 7, Mac OS, iOS, and Android), and the name of your Internet service provider or mobile carrier. 
 
-  * In the course of using the Services, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account ( **"Personal Information"** ). Personal Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. 
-  * We also collect the other information that you provide, for example, as part of registration and the administration and personalization of your profile page (e.g., other information such as your zip code, age, gender and individual preferences) ( **"Non-Identifying Information"** ). 
-  * We use your Non-Identifying Information (in some cases, along with your Personal Information) mainly to provide the Services and administer your inquiries. 
-  * We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Flixster Users (defined below) to attempt to provide you with a better experience, to improve the quality of the Services and to analyze and understand how our Services are used. 
+HOW WE USE THE INFORMATION
 
+We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
+We use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our user agreements, to fulfill a request by you for an online newsletter, to confirm purchases you have made through our Services, or to contact you about your account with us. 
 
-##### Log Data
+We use the information that you provide about others to enable us to send them your invitations, gifts or offers. From time to time, we also may use this information to offer our products, programs, or services to them. 
 
-As you use the Services, whether as a member or a non-registered user just browsing (any of these, a **"Flixster User"** ), our servers automatically record information that your browser sends whenever you visit a website ( **"Log Data"** ). Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on a Site. We use this information to monitor and analyze use of the Services and for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs. For example, some of this information is collected so that when you use the Services again, we will recognize and remember you and serve advertisements and other information appropriate to your interests.
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
 
-#### Information Sharing and Disclosure
+If you choose to submit content for publication, we may publish your screen name and other information you have provided to us. 
 
-##### Members
+When you access our Services on a mobile device, we may use the information collected to enable you to do things like watch trailers and video clips; get entertainment news and updates; get information about movies or TV shows (e.g., find show times for theaters near you); buy movie tickets; play games; follow blogs; and read critic and user reviews. We may also use this information to offer you products and services we believe may be of interest to you and otherwise tailor your experience. 
 
-We will display your Personal Information in your profile page and elsewhere through the Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Flixster Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+We use the non-personally identifiable information that we collect to improve the design and content of our Services and to enable us to personalize your experience with our Services. We also may use this information in the aggregate to analyze usage of our Services, as well as for us and for other partners to offer you products, programs, or services. 
 
-#### Aggregate Information and Non-Identifying Information
+INFORMATION SHARING AND DISCLOSURE 
 
-We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we or one of our business units are acquired by, sold to, or merged with another company. 
 
-##### Service Providers
+Our agents and contractors may have access to personally identifiable information to help carry out the services they are performing for us. 
 
-We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how the Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications. (See **"Email Policies,"** below.)
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
 
-##### Third Party Social Networking Services
+We may disclose personally identifiable information about you to companies whose practices are not covered by this Privacy Policy (e.g., other marketers, publishers, retailers, participatory databases and non-profit organizations) that want to directly market products or services to you. If we share personally identifiable information with such companies, we will provide you with an opportunity to opt out or block such uses. If at some point in the future you decide that you no longer want us to share your information for these purposes, send us an email at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com). 
 
-You may have the opportunity to access or interact with the Services via other social networking websites and services ( **"SNSs"** ) like Facebook and MySpace. Consequently, your Personal Information may be shared with those SNSs. In the event that you choose to provide your information directly to a third party SNSs, your information will be governed by the policies of those other SNSs. We don't exercise control over third party SNSs. These other services may place their own cookies or other files on your computer, solicit Personal Information from you and follow different rules regarding the use of the information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+We may, on occasion, combine information we receive from you with outside records to enhance our ability to market to you those products or services that may be of interest to you. We provide you with an opportunity to express your preferences with respect to receiving information about products and services from us and selected third parties when you interact with us. If you ever decide in the future that you would like to update these preferences, you may log into your account if you have created one with us, you can follow the "unsubscribe" instructions provided on any marketing e-mail you receive from us, or you may send us an email at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com) and we will edit your preferences accordingly. 
 
-##### Compliance with Laws and Law Enforcement
+COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS
 
-Flixster cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Flixster or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.
+Some of our Services contain links to or integrations with other sites (e.g., Facebook, Twitter) whose information practices may be different than ours. Visitors should consult the other sites' or services' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. 
 
-##### Business Transfers
+We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. Our Services will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
-Flixster may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+At some of our Services, reputable third parties may present or serve the advertisements, provide us with data collection, reporting, ad response measurement, site analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our Services and your ability to opt-out of targeted advertising from such third parties, visit the [Network Advertising Initiative](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2F&sa=D&sntz=1&usg=AFQjCNEpensc2NjVyCHlnEkBlY8q1kZKtg). 
 
-#### Email Policies
+COOKIES AND OTHER TECHNICAL INFORMATION
 
-We use your Personal Information to send you weekly updates on various Site information (including new movies or quizzes of the week), a variety of transactional emails (such as when users post comments to your profile page) and the occasional site announcement. Members who agree to the terms and conditions of the Flixster Terms of Service Agreement are given the opportunity to opt in to receiving such communications from us in the future. You have full control regarding which of these emails you want to receive. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your account settings by simply clicking "My Account" at the top right corner of any page.
+We, our third party service providers, and our partners may send "cookies" to your computer or use similar technologies to enhance your experience with our Services. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). 
 
-#### Inviting Friends to Flixster
+Some of our Services may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player (and similar applications) use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from [Adobe's website](http://www.google.com/url?q=http%3A%2F%2Fwww.macromedia.com%2Fsupport%2Fdocumentation%2Fen%2Fflashplayer%2Fhelp%2Fsettings_manager07.html&sa=D&sntz=1&usg=AFQjCNEoJklOxYX1fbc-eYPOBI_gs5jMYg). 
 
-  * Flixster is intended to be a place to share movie ratings, reviews and more with friends. We hope you will like the Services and invite others to join you! 
-  * Inviting friends to Flixster is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know you suggested that we send the invitation. If a friend doesn't respond to the initial invitation after a little while, we will send a single reminder message on your behalf. 
-  * For your convenience, Flixster offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We don't store your login details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you don't explicitly select and your invitations are the only emails we will ever send to your friends unless they separately register to join the Site. 
-  * If you have accidentally selected friends to receive invitations whom you did not intend - please contact us and we can cancel the reminder message. 
+We may also use "Web beacons" that monitor your use of our Services. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. 
 
+When we correspond with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons. 
 
+By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Services can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
 
-#### Changing or Deleting Your Information
+OUR COMMITMENT TO SECURITY
 
-All members may review, update, correct or delete the Personal Information in their profile by simply clicking "My Account" at the top right corner of any page. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-#### Our Policy Toward Children
+HOW YOU CAN ACCESS OR CORRECT INFORMATION
 
-The Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us using the links at the bottom of the page. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+To access the personally identifiable information that our Services collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us or send an email to [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com). 
 
-#### Use of Cookies
+If you have downloaded one of our apps, you can access and change user settings, such as turning off location functionality, from the options/settings menu on your device. Methods for uninstalling will vary depending on your device.  To uninstall one of our apps, please use the application manager provided with your device or consult your device manual. 
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Flixster Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Services and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you don't accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. You can learn more about the use of cookies and how you can opt out of the marketing programs of third party advertisers in connection with their use of cookies and similar technologies, by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-#### Links to Other Sites
+INTERNATIONAL TRANSFER
 
-Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement or representation of our affiliation with that website. This also doesn't mean that we endorse that website's privacy or information security policies or practices. We don't exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personal Information from you. Other sites follow different rules regarding the use of the information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+We operate internationally and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account at our Services as a visitor from outside the United States, you consent to the collection and/or processing of your personally identifiable information in the United States, which includes the use of cookies as described above. 
 
-#### Security
+NOTIFICATION REGARDING UPDATES
 
-The security of your Personal Information, among other things, depends on your protection of your account password. Please don't disclose your account password to anyone. Flixster uses industry standard technology designed to help keep your Personal Information safe. Your information may be transferred to - and maintained on - computers located outside of your state or country where the privacy laws may not be as protective as those where you live. If you are located outside the United States and choose to provide information to us, please be aware that Flixster transfers Personal Information to the United States and processes it there. Your submission of such information represents your agreement to that transfer.
+From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site or by sending you an email message. We encourage you to periodically check back and review this policy so that you know our current privacy practices. 
 
-If you have any other questions about the security of our Services, please contact us using the links at the bottom of the page.
+HOW TO CONTACT US
 
-#### Changes in Privacy Policy
-
-From time to time we may update this Privacy Policy. We will notify you of any material changes by posting the new Privacy Policy on the Site. Your continued usage of Flixster constitutes an acceptance of the then-current Privacy Policy and Terms of Service so we encourage you to visit this page periodically to review any changes.
-
-#### Phishing
-
-Identity theft and the practice currently known as "phishing" are of great concern to Flixster. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, you can visit the Federal Trade Commission's website.
-
-#### Contact
-
-If you have any questions about this Privacy Policy, the practices of this Site or your dealings with the Services, you can contact us via the links at the bottom of every page, or by writing to:
-
-Customer Support  
-Flixster, Inc.  
-208 Utah St 4th Floor  
-San Francisco, CA 94103  
-
+If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com) or at Flixster, c/o Warner Bros., Attention: Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522. 
