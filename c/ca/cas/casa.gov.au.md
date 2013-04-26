@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406000544id_/http%3A//casa.gov.au/scripts/nc.dll%3FWCMS%3ASTANDARD%3A%3Apc%3DPC_92971) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426094524id_/http%3A//www.casa.gov.au/scripts/nc.dll%3FWCMS%3ASTANDARD%3A%3Apc%3DPC_92971) for the most accurate reproduction.*
 
 # Civil Aviation Safety Authority - Privacy
 
@@ -91,4 +91,4 @@ Where any law implies a warranty into these terms of use which may not be lawful
 
 As we plan to keep our statement on privacy current, this information can be subject to change. Please return periodically to review the latest on Internet privacy. 
 
-For further information concerning privacy issues, contact CASA’s Privacy Contact Officer, Adam Anastasi at [adam.anastasi@casa.gov.au.](mailto:adam.anastasi@casa.gov.au.) If you have any queries concerning CASA’s web site contact CASA’s web master at [webmaster@casa.gov.au](mailto:webmaster@casa.gov.au)
+For further information concerning privacy issues, contact CASA’s Privacy Contact Officer, Joe Rule at [joe.rule@casa.gov.au](mailto:joe.rule@casa.gov.au). If you have any queries concerning CASA’s web site contact CASA’s web master at [webmaster@casa.gov.au](mailto:webmaster@casa.gov.au)
