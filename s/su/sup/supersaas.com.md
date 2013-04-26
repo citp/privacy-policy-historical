@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021072404id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426044250id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,5 +70,3 @@ When you use SuperSaaS services, we make good faith efforts to provide you with 
 ## Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
-
-If you have any additional questions or concerns about this Policy, please feel free to [contact](https://web.archive.org/info/contact) us at any time through this web site.
