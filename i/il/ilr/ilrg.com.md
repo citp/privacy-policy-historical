@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918222948id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426121007id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
 
 # ILRG.com: Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **_ILRG.COM RESPECTS YOUR PRIVACY_**
 
-Last Updated: March 21, 2011
+Last Updated: April 8, 2013
 
 | [ ](http://www.truste.org/ivalidate.php?url=www.ilrg.com&sealid=101)  
 ---|---  
