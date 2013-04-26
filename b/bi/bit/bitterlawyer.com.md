@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bitterlawyer.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016201126id_/http%3A//www.bitterlawyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitterlawyer.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426110313id_/http%3A//www.bitterlawyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Bitter Lawyer
+# Privacy Policy
 
 ### The Bitter Lawyer Privacy Policy
 
-BitterLawyer.com, a service of Bitter Media, Inc. (“[Bitter Lawyer](http://www.bitterlawyer.com/ "Bitter Lawyer")”), supports the privacy of our readers. The following outlines our privacy and data protection policy.
+BitterLawyer.com, a service of Bitter Media, Inc. (“Bitter Lawyer”), supports the privacy of our readers. The following outlines our privacy and data protection policy.
 
 Third-party sites you access via Bitter Lawyer are not subject to this privacy policy.
 
