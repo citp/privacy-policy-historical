@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ecigclick.co.uk privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107082503id_/http%3A//www.ecigclick.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigclick.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426072103id_/http%3A//www.ecigclick.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 Privacy Policy for www.ecigclick.co.uk
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@ecigclick.co.uk
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@www.ecigclick.co.uk
 
 At www.ecigclick.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ecigclick.co.uk and how it is used.
 
@@ -20,7 +20,7 @@ DoubleClick DART Cookie
 
 .:: Google, as a third party vendor, uses cookies to serve ads on your site.  
 .:: Googles use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
