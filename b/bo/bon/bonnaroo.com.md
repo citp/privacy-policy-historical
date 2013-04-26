@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bonnaroo.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005061535id_/http%3A//www.bonnaroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnaroo.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426040227id_/http%3A//www.bonnaroo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bonnaroo
 
-This privacy policy describes Bonnaroo’s current policies and practices with regard to personal data collected by Bonnaroo through its website bonnaroo.com and personal data associated with the purchase of a â€œticketâ€ or â€œRFID wristband.â€ This privacy policy is independent from Bonnaroo’s offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, credit card number, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.
+This privacy policy describes Bonnaroo’s current policies and practices with regard to personal data collected by Bonnaroo through its website bonnaroo13.wpengine.com and personal data associated with the purchase of a ticket or RFID wristband. This privacy policy is independent from Bonnaroo’s offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, credit card number, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.
 
 **Notification of Changes to This Policy.**
 
 Bonnaroo is continually improving and adding new functionality and features to its websites and improving and adding to our existing products, services, and programs. Because of these ongoing changes, changes in the law, and the changing nature of technology, Bonnaroo’s data practices will change from time to time. If and when our data practices change, Bonnaroo will post the changes on our websites to notify you of the changes. We encourage you to check this page frequently. This policy was last updated on April 28, 2011.
 
-**Personal Data Collected Through bonnaroo.com.**
+**Personal Data Collected Through bonnaroo13.wpengine.com.**
 
-Other than cookies, as described below, the only personal data Bonnaroo currently collects through its websites is the information you voluntarily give us when you use our sites. For example, you may use this site to contact Bonnaroo with questions and comments. When you fill out a form on our websites, you may provide your name and other contact information, including your company’s name, your e-mail address, and your mailing address or the mailing address of your company or other personal information. If you do not wish to fill out all of the information on the form you are not required to do so. Most of our registration forms require only your name and e-mail address. When you submit information to us through bonnaroo.com, you will receive a confirmation e-mail if you enter a valid e-mail address. When you use our websites to search for information about our festival, you are not providing us with any personal information. We offer the search features as a service to you. Bonnaroo does not collect or retain any identifying information about you when you use the search features.
+Other than cookies, as described below, the only personal data Bonnaroo currently collects through its websites is the information you voluntarily give us when you use our sites. For example, you may use this site to contact Bonnaroo with questions and comments. When you fill out a form on our websites, you may provide your name and other contact information, including your company’s name, your e-mail address, and your mailing address or the mailing address of your company or other personal information. If you do not wish to fill out all of the information on the form you are not required to do so. Most of our registration forms require only your name and e-mail address. When you submit information to us through bonnaroo13.wpengine.com, you will receive a confirmation e-mail if you enter a valid e-mail address. When you use our websites to search for information about our festival, you are not providing us with any personal information. We offer the search features as a service to you. Bonnaroo does not collect or retain any identifying information about you when you use the search features.
 
 **Personal Data Collected Through RFID Wristband Purchase**
 
@@ -18,7 +18,7 @@ When purchasing tickets to Bonnaroo, the purchaser is required to provide us wit
 
 Once you receive your wristbands, each individual in your party will be required to register that wristband on line as theirs and theirs alone.
 
-**Use of Personal Data Collected Through bonnaroo.com.**
+**Use of Personal Data Collected Through bonnaroo13.wpengine.com.**
 
 Bonnaroo uses the personal data information you provide to answer your question or resolve your problem. Bonnaroo and our affiliates also use this information to help us improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services. Bonnaroo and our affiliates may use this information to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “unsubscribe’ from receiving future communications.
 
@@ -32,7 +32,7 @@ Bonnaroo may use the personal data information you provide when you purchase tic
 
 Additionally, we may use the anonymous data provided by RFID technology for internal purposes, such as data analysis, to continually improve the operation of the festival. This data might include, but is not limited to, how many visitors enter the festival site, the date and time of their visit, the number of times they entered and exited, and which entrances and exits they came through. Your RFID wristband will allow the limited set of employees at the festival who have access to our ticketing systems in order to provide ticketing and RFID wristband related customer service to scan the RFID wristband and retrieve information we collect during the ticket ordering and RFID wristband registration processes. Our employees scanning RFID wristbands at the gates will not have access to our ticketing system, your ticket order information or your RFID registration information. When you scan your RFID wristband at one of our gate scanners, that process provides us information about your entry into the festival or the applicable part of the festival where the scanner is located. .
 
-**Anonymous Data Collected bonnaroo.com.**
+**Anonymous Data Collected bonnaroo13.wpengine.com.**
 
 In addition to the information you provide when you use our websites, Bonnaroo uses technology to collect anonymous information about the use of our websites. For example, we use technology to track how many visitors access our websites, the date and time of their visit, the length of their stay, and which pages they viewed. We also use technology to determine which web browsers our visitors use and the address from which they accessed our sites (for example, if they connected to a Bonnaroo website by clicking on one of our banner ads).
 
@@ -40,7 +40,7 @@ This technology does not identify you personally. It simply enables us to compil
 
 **Cookies.**
 
-A cookie is a small piece of information that is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer and they cannot be used to discover the identity of a user. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not and whether you are required to accept the cookie to view certain content. Bonnaroo may use cookies to “persist” a user session â€” that is, to maintain connection with a user as he or she moves through an application or series of web pages. The purpose of cookies in this context is to remember user inputs. For example, a “shopping cart” application records purchases up until the user reaches checkout. Personalization features also use cookies to identify groups of users and deliver appropriate content and services.
+A cookie is a small piece of information that is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer and they cannot be used to discover the identity of a user. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not and whether you are required to accept the cookie to view certain content. Bonnaroo may use cookies to “persist” a user session that is, to maintain connection with a user as he or she moves through an application or series of web pages. The purpose of cookies in this context is to remember user inputs. For example, a “shopping cart” application records purchases up until the user reaches checkout. Personalization features also use cookies to identify groups of users and deliver appropriate content and services.
 
 **Disclosure of Your Personal Data.**
 
