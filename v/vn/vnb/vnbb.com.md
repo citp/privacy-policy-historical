@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vnbb.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209090613id_/http%3A//vnbb.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnbb.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426102620id_/http%3A//vnbb.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # vnbb.com
 
