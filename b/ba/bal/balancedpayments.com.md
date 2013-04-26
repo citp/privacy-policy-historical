@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014203554id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426131009id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
 
-# Balanced - Online Marketplace Payments
-
-Loading...
+# Balanced - Payments for Marketplaces
 
   * [transaction flow](https://web.archive.org/flow)
   * [docs](https://web.archive.org/docs)
   * [example](https://www.rentmybike.co/)
-  * [help & support](https://web.archive.org/community)
+  * [help & support](https://web.archive.org/help)
   * [sign in](https://web.archive.org/login)
 
 
