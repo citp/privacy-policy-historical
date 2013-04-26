@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220085424id_/http%3A//www.euroffice.co.uk/helptopic.aspx%3Ftopic%3D135%26section%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426141155id_/http%3A//www.euroffice.co.uk/helptopic.aspx%3Ftopic%3D149%26section%3D42) for the most accurate reproduction.*
 
-# Euroffice Explained Privacy Policy from Euroffice
+# Privacy Policy- Euroffice
 
   
 PRIVACY POLICY
@@ -11,7 +11,7 @@ Any definitions used in this Policy shall have the same meanings as provided in 
 
  **1\. WHO WILL HOLD YOUR INFORMATION?**
 
-> 1.1 Your information will be held by Euroffice Limited (“ **we** ”) is a company registered in England (Company No. 03877111) and our registered office is at 5th Floor, 71 Bondway, London, SW8 1SQ. 
+> 1.1 Your information will be held by Euroffice Limited (“ **we** ”) is a company registered in England (Company No. 03877111) and our registered office is at Dome House, 48 Artillery Lane, London, E1 7LS. 
 > 
 > 2 If our business is sold or integrated with another business your details may be disclosed to our advisors and any prospective purchasers and their advisors and will be passed on to the new owners of the business.
 
@@ -40,7 +40,7 @@ Any definitions used in this Policy shall have the same meanings as provided in 
 > 
 > 3.2 We may collect information about your computer and browsing actions by the use of Cookies (see clause 6 below).
 > 
-> 3.3 [We may hold Payment Information however any credit card or debit card information that you provide through the Website is directly submitted to a payment server of a credit card processing bank. We do not maintain electronic or physical copies of your credit card information.] 
+> 3.3 We may hold Payment Information however any credit card or debit card information that you provide through the Website is directly submitted to a payment server of a credit card processing bank. We do not maintain electronic or physical copies of your credit card information. 
 > 
 > 3.4 If you contact us by telephone or in writing, we may keep a record of that correspondence or phone call. 
 > 
@@ -88,7 +88,7 @@ Any definitions used in this Policy shall have the same meanings as provided in 
 > 
 > 4.1.4.3 Your Credit Application Information will be used to help us determine whether or not to grant you a credit facility with us. In addition we may use your Payment Information to determine your credit worthiness and in the process of such determination we may make such Payment Information available to banks and credit agencies.
 > 
-> 4.1.4.4 [We will share your Payment Information with banks in order to enable transactions to be completed.] 
+> 4.1.4.4 We will share your Payment Information with banks in order to enable transactions to be completed. 
 > 
 > 4.1.5 The period of use of the personal data supplied by you will not be longer than we deem necessary but may, be unlimited.   
 > 
@@ -101,21 +101,11 @@ Any definitions used in this Policy shall have the same meanings as provided in 
 
  **6\. COOKIES**
 
-> 6.1 This website uses “ **cookies** ”. Cookies are small pieces of information which are sent by a website to your web browser and remain on your computer until they are deleted. They help us to improve our site and to deliver a better and more personalised service. They enable us: 
-> 
-> 6.1.1 To estimate our audience size and usage pattern.
-> 
-> 6.1.2 To store information about your preferences, and to allow us to customise our site according to your individual interests.
-> 
-> 6.1.3 To speed up your searches.
-> 
-> 6.1.4 To recognise you when you return to our site. 
+> 6.1 This website uses “ **cookies** ”. Cookies are small pieces of information which are sent by a website to your web browser and remain on your computer until they are deleted. They help us to improve our site and to deliver a better and more personalised service. For full details on Cookies including what they are, how you can prevent them being used and how Euroffice uses cookies to please [click here. ](http://www.euroffice.co.uk/helptopic.aspx?topic=146&section=42)[](http://www.euroffice.co.uk/helptopic.aspx?topic=146&section=0)
 > 
 > 6.2 You may refuse the use of cookies by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of this website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
 > 
-> 6.3 This website also uses transparent .GIF files, to help manage online advertising. These files enable us to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie is placed by us, or by another advertiser who works with us. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, email address or other contact details. For more information about this including information about how to opt out of these technologies please [contact us](https://web.archive.org/ContactUs.aspx).
-> 
-> 6.4 Please note that our advertisers and sellers may also use cookies, over which we have no control. Advertisers, sellers and other third party websites which are linked to this site may process your personal data in accordance with their own policies and procedures.
+> 6.3 Visiting the Euroffice website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies as described in our [Cookies and Privacy Policy. ](http://www.euroffice.co.uk/helpsection.aspx?section=42)[ ](http://www.euroffice.co.uk/helpsection.aspx?section=42)[ ](http://www.dev.uk/helpsection.aspx?section=42)
 
 **7\. YOUR RIGHTS**
 
@@ -132,8 +122,8 @@ Any definitions used in this Policy shall have the same meanings as provided in 
   
  **8\. YOUR CONSENT AND CHANGES TO THIS PRIVACY POLICY**
 
-> By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page and may place notices on other pages of the website, so that you may be aware of the 
+> By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page and may place notices on other pages of the website, so that you may be aware of the changes. 
 
 **9\. CONTACT DETAILS**
 
-> If you would like to contact us with any queries or comments regarding our privacy policy, please send an email using [this link ](https://web.archive.org/ContactUs.aspx)or write to: The Data Protection Officer, Euroffice Limited, 5th Floor, 71 Bondway, London, SW8 1SQ.
+> If you would like to contact us with any queries or comments regarding our privacy policy, please send an email using [this link ](https://web.archive.org/ContactUs.aspx)or write to: The Data Protection Officer, Euroffice Limited, Dome House, 48 Artillery Lane, London, E1 7LS.
