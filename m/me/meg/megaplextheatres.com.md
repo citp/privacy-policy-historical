@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005005818id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426122023id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,4 +82,4 @@ Megaplex Theatres
 9400 S. State Street  
 Sandy, Utah 84070
 
-The Larry H Miller Group of Companies will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+The Larry H Miller Group of Companies will use commercially reasonable efforts to promptly respond and resolve any problem or question[.](https://web.archive.org/giftcards)
