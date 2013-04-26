@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbt.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010085815id_/http%3A//www.bbt.com/bbtdotcom/privacy-and-security/default.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbt.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426211748id_/http%3A//www.bbt.com/bbtdotcom/privacy-and-security/default.page) for the most accurate reproduction.*
 
 # BB&T – Privacy and Security
 
@@ -10,19 +10,19 @@ Get the answers you need to make smart online banking decisions...
 
 ### Privacy
 
-  * [Protect your personal information](https://web.archive.org/bbtdotcom/privacy-and-security/privacy/default.page?)
+  * [Protect your personal information](https://web.archive.org/bbtdotcom/privacy-and-security/privacy/default.page)
 
 
 
 ### Security
 
-  * [Guarantee your accounts are secure](https://web.archive.org/bbtdotcom/privacy-and-security/security/default.page?)
+  * [Guarantee your accounts are secure](https://web.archive.org/bbtdotcom/privacy-and-security/security/default.page)
 
 
 
 ### Identity Theft Protection
 
-  * [Avoid online fraud](https://web.archive.org/bbtdotcom/privacy-and-security/security/identity-theft/default.page?)
+  * [Avoid online fraud](https://web.archive.org/bbtdotcom/privacy-and-security/security/identity-theft/default.page)
 
 
 
