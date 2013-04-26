@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213004402id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427014039id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - OnContracting - Discover the best IT contract jobs in Seattle
+# Privacy Policy | OnContracting
 
 **PRIVACY POLICY**
 
@@ -68,7 +68,7 @@ OnContracting may also share your personal information for the following reasons
 
 
 
-Even your resume or corporate profile from our web site is removed, there will be residual information that will remain within our databases, logs, and other records. The residual information will not be used for commercial purposes. However, Corp-Corp.com reserves the right, to re-contact former users of our web site.
+Even if your resume or corporate profile from our web site is removed, there will be residual information that will remain within our databases, logs, and other records. The residual information will not be used for commercial purposes. However, OnContracting reserves the right, to re-contact former users of our web site.
 
 **Security and Protection of Personal Information**
 
@@ -88,7 +88,7 @@ OnContracting retains the discretion to amend or modify this Privacy Policy from
 
 **Questions or Comments Regarding this Privacy Policy**
 
-OnContracting welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use, or share your Personal Information.  Any such questions or comments should be submitted via [email](mailto:info@oncontracting.com). We will make every effort to resolve or answer your concern. 
+OnContracting welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use, or share your Personal Information.  Any such questions or comments should be submitted via [email](mailto:info@oncontracting.com) or by [contacting us](http://www.oncontracting.com/pg/contact.html). We will make every effort to resolve or answer your concern. You can read more [about OnContracting here](http://www.oncontracting.com/pg/aboutus.html).
 
 **Modifications of this Privacy Notice**
 
