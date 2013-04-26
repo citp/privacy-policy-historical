@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227230438id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427010531id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
 
 # Plurk Privacy Policy
 
@@ -6,7 +6,7 @@
 
   * This privacy policy pertains to the use of Plurk and the website located at [http://www.plurk.com](http://www.plurk.com/). By using our site, you are consenting to our processing of your information as set forth in this privacy policy. 
   * This privacy policy describes how Plurk and any related companies treats personal information that it collects and receives as you use our service (from our social networking website, including via SMS, WAP, and Instant Messaging). Personal information refers to information about you that is personally identifiable like your name, address, email address, IP address or phone number.
-  * When you register with Plurk, your personal information and other data will be stored and processed in Canada and this information will be subject to the laws of Canada.
+  * When you register with Plurk, your personal information and other data will be stored and processed in Cayman Islands and this information will be subject to the laws of Cayman Islands.
 
 
 
@@ -91,7 +91,8 @@ Plurk may update this privacy policy at any time and for any reason. If there ar
 Got questions? Suggestions? Want to review the personal information stored by us? Please [contact us](https://web.archive.org/contact). You may also mail us at:
 
 Plurk Privacy Policy   
-2425 Matheson Blvd   
-8th Floor, Suite 813   
-Mississauga, Ontario   
-L4W 5K4 Canada
+Harbour Place 103 S. Church St.  
+P.O. Box 2582  
+Grand Cayman KY1-1103  
+Cayman Islands  
+
