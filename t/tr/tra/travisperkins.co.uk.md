@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127162629id_/http%3A//www.travisperkins.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426155149id_/http%3A//www.travisperkins.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Data Protection Act - Travis Perkins
+# Privacy Policy
 
 Travis Perkins (" **we** " or " **us** ") is a part of the Travis Perkins Plc group of companies ("Group"). We are committed to protecting your privacy and we comply with the data protection laws applicable to the United Kingdom. This Privacy Policy explains how we use any information we collect about you and forms part of our Conditions of Use.
 
