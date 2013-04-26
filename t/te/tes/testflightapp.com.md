@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108112508id_/https%3A//testflightapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426043233id_/https%3A//testflightapp.com/privacy) for the most accurate reproduction.*
 
-# TestFlight » iOS beta testing on the fly
+# TestFlight » Beta Testing On The Fly
 
 * * *
 
@@ -82,21 +82,111 @@ If you are not a resident of the United States, you understand and agree that th
 
 This Website is not directed to children under 18 years of age. We do not knowingly collect Website Personal Information or User Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Website Personal Information or User Information without their consent, he or she should contact us at privacy@testflightapp.com. If we become aware that a child under 13 has provided us with Website Personal Information or User Information, we will delete such information from our files. 
 
-  10. ###  Contacting Us 
 
-If you have any questions about this Privacy Policy, please contact us at privacy@testflightapp.com. 
 
-**TestFlight App Inc.**  
+
+* * *
+
+This User Privacy Policy describes how TestFlight App, Inc. (“FlightPath”) collects, users and discloses information we receive from end users (“users”) of mobile applications (“applications” or “apps”) that incorporate the FlightPath service. We may update this Privacy Policy from time to time, and we will post the new Privacy Policy at www.flightpathapp.com/privacy. 
+
+When we say “you” (or similar pronouns) below, we are referring to users. If you want information about how FlightPath collects, uses and discloses information about developers who use FlightPath, please click here.
+
+YOUR USE OF ANY DEVELOPER APP USING FLIGHTPATH CONSTITUTES YOUR ACCEPTANCE OF THIS PRIVACY POLICY. 
+
+  1. ### User Information.
+
+FlightPath does not collect personally identifiable user information – we will never request your name, email address, or other information that could be used to contact you or identify you personally. When we say “User Information” we mean the version of the app you are using, your device name, device model, device identifier (e.g., advertiser ID, publisher ID, UDID or MAC address) language, carrier, architecture, network state (i.e. wifi or cellular data), events, errors, IP address and various engagement data (ie. how long the app was in use, how often the app is used, if the user has reached various checkpoints in the app as defined by the developer, etc.). In the case of UDIDs and MAC addresses, this is immediately converted into a random, proprietary, non-traceable FlightPath ID viewable only to FlightPath and not to the developer.
+
+  2. ### Opting Out. 
+
+If you want to opt out of FlightPath collection of user information, please send your UDID and MAC address to optout@flightpathapp.com.
+
+  3. ### How We Use Information
+
+    1. FlightPath provides the user information it gathers to developers. Developers use this information in many ways: to understand how users interact with their apps, which helps them improve the user experience and offer relevant ads, to troubleshoot crashes, discover bugs, improve apps, provide in app notifications to users and contribute to the quality of products and services they offer.
+    2. In addition to providing raw user data, FlightPath analyzes user information and provides developers with information such as performance metrics, error reporting and user utilization information.
+    3. While FlightPath does not collect personally identifiable information from users, we do not control whether developers may combine the information we provide them with other information gathered by the developer, such as your registration information. FlightPath is not responsible for how developers use data about their users – you should review the developer’s policies to understand their use of users’ data. In addition, we may share your information with our corporate parent, provided that our parent company will use such information only within the scope of this Privacy Policy.
+  4. ### Information Sharing and Disclosure
+
+As described above, FlightPath does not collect personally identifiable user information. Of the limited information that FlightPath does collect, we will share user information with developers (as described above). We will not share user information with marketers, although we may help determine which marketer’s ads are more relevant to you. We may also share user information as follows: 
+
+    1. Our Service Providers. If we use outside companies to provide all or part of the FlightPath Services on our behalf (for example, data storage, maintenance, database management, analytics and payment processing), these third parties will have access to user information solely to perform these tasks on our behalf. We will bind these companies to confidentiality terms that are consistent with this Privacy Policy.
+    2. Legal Compliance. FlightPath cooperates with government officials, law enforcement officials and private parties to enforce and comply with the law. We will disclose user information to government officials, law enforcement officials and private parties as we, in our sole discretion, believe necessary or appropriate.
+    3. Business Transfers. FlightPath may share, transfer or sell some or all of its assets, including user information, in connection with or in anticipation of a corporate event, including a merger, acquisition, sale of stock, recapitalization, reorganization or sale of assets or in the event of bankruptcy.
+  5. ### Transfer of Information to United States and Elsewhere
+
+FlightPath stores and processes user information on computers located in the United States and and may also store and process user information in other countries both within and outside the European Union. By using an app that uses FlightPath, you expressly consent to the transfer of the information described in this Privacy Policy to the United States and other countries within and outside the EU, and to the application of the laws of the United States.
+
+  6. ### Our Policy Toward Children
+
+The Website and our Services are not intended for children under 18 years of age and we do not knowingly collect information from children under 13. If you are aware that a child under 18 has signed up for a developer account or that a child under 13 is using an app that uses FlightPath or has provided us with information in some other way, please contact us at privacy@flightpathapp.com. 
+
+  7. ### California Residents
+
+Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” developers who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of personal information we share with third parties for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the contact address below. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response. 
+
+
+
+
+* * *
+
+This Privacy Policy describes how TestFlight App Inc. (“FlightPath”) collects, users and discloses information we receive from developers through use of www.flightpathapp.com (the “Website”) and the FlightPath services. We will refer to the Website and the FlightPath services collectively as the “Services”. We may update this Privacy Policy from time to time, and we will notify you of updates by posting the new Privacy Policy at www.flightpathapp.com/privacy. 
+
+This Developer Privacy Policy covers “developers”, meaning the application developers who use FlightPath to understand how users interact with their mobile applications (“applications” or “apps”). If you want information about how FlightPath collects, uses and discloses information about end users and their interaction with the mobile apps using FlightPath, please click here. When we say “you” (or similar pronouns) below, we are referring to developers. 
+
+YOUR CONTINUED USE OF THE WEBSITE AND/OR THE SERVICES CONSTITUTES YOUR ACCEPTANCE OF THIS PRIVACY POLICY. 
+
+  1. ### Your FlightPath Contract and Your User Privacy Policy.
+
+    1. If your written agreement with FlightPath gives FlightPath broader rights than this Privacy Policy (for example, if the agreement gives FlightPath the right to use your name in its marketing materials), that written agreement is the governing document.
+    2. You must prominently post your own legally sufficient privacy policy that informs your users that you are using the FlightPath service and that the FlightPath service will gather, use and disclose user information as described in our user privacy policy. 
+  2. ### Account Information. 
+
+When you activate a FlightPath developer account (including by keeping the TestFlight SDK in any app that you make publicly available), you give us certain information that may include you name, email address, telephone number, credit card or other billing information and physical address. We call this type of information “account information”. 
+  3. ### Automated Information. 
+
+When we say “automated information”, we mean any information about your use of the Services that is gathered automatically by our servers or by cookies or other technologies. When you visit the Website, our servers automatically record information such as your computer’s or device’s Internet Protocol address, browser type, the web page the browser was viewing before it came to the Website and the information the browsers searches for on the Website. We may use “persistent cookies” to save your registration ID and login password for future logins to the Website; and we also use “session ID cookies” to enable certain features of the Website, to better understand how developers interact with the Website and to monitor aggregate usage and web traffic routing on the Website. You can set your browser to stop accepting cookies or to ask you before accepting a cookie but you may not be able to use the full functionality of the Website or our Services. 
+  4. ### How We Use Information
+
+We use account information and automated information for the following purposes: (i) to provide and improve the Website, services, features and content, (ii) to administer your use of the Website, (iii) to enable you to enjoy and easily navigate the Website, (iv) to better understand your needs and interests, (v) to fulfill your requests, (vi) to personalize your experience, (vii) to provide or offer updates and product announcements, and (viii) to provide you with information and offers that we believe you may find useful. In addition, we may share your information with our corporate parent, provided that our parent company will use such information only within the scope of this Privacy Policy. You can opt out of communications that are not related to your account by following the “unsubscribe” instructions provided in any of these communications or by updating your “account settings” information. (See “Changing Your Information” below.) 
+  5. ### Information Disclosure
+
+FlightPath does not sell, rent or share developer information without your consent except as follows: 
+    1. Our Service Providers. If we use outside companies to provide all or part of the Services on our behalf (for example, data storage, maintenance, database management, analytics and payment processing), these third parties will have access to developer information solely to perform these tasks on our behalf. We will bind these companies to confidentiality terms that are consistent with this Privacy Policy.
+    2. Legal Compliance. FlightPath cooperates with government officials, law enforcement officials and private parties to enforce and comply with the law. We will disclose developer information to government officials, law enforcement officials and private parties as we, in our sole discretion, believe necessary or appropriate.
+    3. Right to Reference. Unless your written agreement with FlightPath provides otherwise, we may refer to you as a FlightPath client in our marketing materials and other communications. We will not make a press releases shall be made without your written consent.
+    4. Business Transfers. FlightPath may share, transfer or sell some or all of its assets, including developer information, in connection with or in anticipation of a corporate event, including a funding, merger, acquisition, sale of stock, recapitalization, reorganization or sale of assets or in the event of bankruptcy. 
+  6. ### Changing Your Information
+
+You may review and update your account information by changing your account settings at [link]. 
+  7. ### Security
+
+FlightPath uses reasonable measures and security designed to protect developer information from unauthorized access, alteration, disclosure or destruction. These measures include encrypting sensitive information using a Secure Sockets Layer (SSL) and storing information behind a firewall. However, FlightPath cannot ensure, guarantee or warrant the security of all information held, especially against third party attacks or intrusions. Therefore all information provided to FlightPath is provided at the developer risk. 
+  8. ### Transfer of Information to United States and Elsewhere
+
+FlightPath stores and processes your information on computers located in the United States and and may also store and process user information in other countries outside the European Union. By using the Services, you expressly consent to the transfer of the information described in this Privacy Policy to the United States and other countries within and outside the EU, and to the application of the laws of the United States. 
+  9. ### Our Policy Toward Children
+
+The Website and our Services are not intended for children under 18 years of age and we do not knowingly collect information from children under 13. If you are aware that a child under 18 has signed up for a developer account or that a child under 13 is using an app that uses FlightPath or has provided us with information in some other way, please contact us at privacy@flightpathapp.com. 
+  10. ### California Residents
+
+Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” users who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the contact address below. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response. 
+
+
+
+* * *
+
+###  Contacting Us 
+
+If you have any questions about this Privacy Policy, please contact us at privacy@testflightapp.com or privacy@flightpathapp.com. 
+
+**TestFlight App, Inc., a subsidiary of Burstly, Inc.**  
 1540 2nd Street, 3rd Floor  
 Santa Monica CA 90401  
 USA
 
-Tel: (323) 977-8378  
 support@testflightapp.com 
 
-
-
-
-Updated: March 18, 2012
+Updated: March 22, 2013
 
 This Privacy Policy may be changed at any time, with or without notice to you. Please check this Privacy Policy periodically for any amendments or changes 
