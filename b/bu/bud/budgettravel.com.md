@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204035103id_/http%3A//www.budgettravel.com/bt-srv/misc/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426072347id_/http%3A//www.budgettravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Budget Travel
+# Privacy Policy | Travel Deals, Travel Tips, Vacation Ideas | Budget Travel
 
-_Our privacy policy has changed as of March 9, 2010. To view the previous version of our privacy policy, please[click here](https://web.archive.org/web/20101204035103id_/http%3A//www.budgettravel.com/bt-srv/misc/privacypolicy_2007.html)._
+_Our privacy policy has changed as of March 9, 2010._
 
-Welcome to BudgetTravel.com, the online version of Arthur Frommer's Budget Travel Magazine (the "Service"), a website provided by Intellitravel Media, Inc. ("Budget Travel," "we," or "us"). This privacy policy describes how we treat the information we collect through the Service. If you have any questions about this policy, please click here, and indicate on our feedback form that your question concerns privacy.
+Welcome to BudgetTravel.com (the "Service"), a website provided by Intellitravel Media, Inc. ("Budget Travel," "we," or "us"). This privacy policy describes how we treat the information we collect through the Service. If you have any questions about this policy, please click here, and indicate on our feedback form that your question concerns privacy.
 
 **Information we collect**
 
@@ -31,7 +31,7 @@ We may use the information we collect about you in certain ways in connection wi
 
 **With whom we share this information**
 
-We may share the information we collect about you in limited circumstances, including: 
+We may share the information we collect about you in limited circumstances, including:
 
   * With our authorized service providers that perform certain functions or services on our behalf (such as to host the Service, manage databases, or provide certain components of the Service);
   * To third parties that may sponsor or co-sponsor promotions on the Service, although we will provide upfront notice if those third parties will be permitted to use your personal information for purposes other than in connection with the promotion;
@@ -66,7 +66,7 @@ Often our advertisers contract with a third-party service to host their ads. In 
 
 **A special word about user submissions**
 
-Please keep in mind that whenever you voluntarily disclose personal information online in public forums, that information can be collected and used by others. For this reason, we encourage all users to refrain from providing or sharing their personal information in article and blog comment threads, discussion forums, message boards, and other areas in which we allow users to submit content to be made available to the public. For information on our requirements for user content, please see our [User Submission Guidelines](https://web.archive.org/web/20101204035103id_/http%3A//www.budgettravel.com/bt-srv/misc/user_agreement.html#guidelines).
+Please keep in mind that whenever you voluntarily disclose personal information online in public forums, that information can be collected and used by others. For this reason, we encourage all users to refrain from providing or sharing their personal information in article and blog comment threads, discussion forums, message boards, and other areas in which we allow users to submit content to be made available to the public. For information on our requirements for user content, please see our [User Submission Guidelines](https://web.archive.org/user-agreement#guidelines).
 
 **External links**
 
@@ -82,4 +82,4 @@ If you have any questions or concerns about this Privacy Policy, you may contact
 
 This privacy policy is effective as of May 20, 2008.
 
-All rights reserved. Copyright © 2010 Intellitravel Media, Inc. 
+All rights reserved. Copyright © 2013 Intellitravel Media, Inc. 
