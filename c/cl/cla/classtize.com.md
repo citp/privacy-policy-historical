@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classtize.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926235916id_/http%3A//www.classtize.com/Privacy%2520policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classtize.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426064439id_/http%3A//www.classtize.com/Privacy%2520policy.html) for the most accurate reproduction.*
 
-# Classtize | Privacy Policy
+# Privacy Policy | Classtize
 
 Classtize has it's own privacy policies describing you how Classtize effectively and efficiently manages your worthy personal information in it's database. You help us to collect, share your personal information for use and Classtize helps you to protect and to keep it safe as far as possible.
 
@@ -19,6 +19,8 @@ Classtize does not share any sort of information but the users can share informa
 ### Do we use cookies:
 
 Classtize uses cookies together with Other information including users IP address, standard web log information, page URL,timestamp. With the help of cookies Classtize can track the user trends for amelioration of the user's interaction with Classtize. You may also disable your cookies from your browser which can hinder your interaction with some important features available on Classtize.
+
+Third party companies may use cookies to serve ads when you visit our website. These companies may use information regarding your visit to our website this is done so as to show you ads that serve your interest.
 
 ### How to delete personal information:
 
