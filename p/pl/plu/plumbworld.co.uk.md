@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501055905id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426071903id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
 
 # Privacy Guarantee
 
@@ -14,7 +14,7 @@ When you order, we need to know your name, e-mail address, delivery address, cre
 
 We personalise your shopping experience by using your purchases to shape our recommendations and special offers about products that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the store.
 
-We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new www.plumbworld.co.uk services and special offers we think you'll find valuable.
+We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new www.plumbworld.co.uk services and special offers we think you'll find valuable, as well as any market research purposes.
 
 _How does[www.plumbworld.co.uk](http://www.plumbworld.co.uk/) protect customer information?_
 
@@ -28,6 +28,6 @@ Third party cookies may be used to track behaviour on our site by third parties.
 
 Customer Feedback
 
-I am absolutely delighted with my purchases and I can honestly say that your company is the very best I have ever dealt with on the internet. I have made over 400 internet purchases during the last five years so I can consider myself a bit of an expert. You have kept me informed in detail at every stage of the process including follow up emails which is somewhat of a novelty as most companies just take ones payment and 'vanish over the horizon'! I have and will continue to recommend your company to everyone in the market for plumbing requirements. Thank you once again for your excellent service - you are a star of the internet business world.
+I am very happy with my order from Plumbworld. It arrived promptly and well-packaged, in perfect condition. I think the quality and value of the items I ordered is excellent and I have already recommended you to friends. Your staff are very helpful and friendly and the delivery driver also said what a good company you are. I will certainly be returning as a satisfied customer in the future, thanks.
 
- **\- Aileen Angus, April 2008**
+ **\- Clare Rundell, April 2008**
