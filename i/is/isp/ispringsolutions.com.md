@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124142551id_/http%3A//www.ispringsolutions.com/company/policy/privacy.html%3Flink%3Dbottom_menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426101148id_/http%3A//www.ispringsolutions.com/company/policy/privacy.html) for the most accurate reproduction.*
 
 # iSpring Privacy Policy
 
@@ -34,7 +34,7 @@ iSpring Solutions will not sell, rent or lease or otherwise disclose your person
 
 **How We Protect your Personal Information**
 
-iSpring Solutions is committed to protecting the security of your personal information. While there are always risks associated with providing personal information, whether by phone, via the internet or otherwise, and no technology is completely safe, iSpring Solutions takes appropriate technical and organizational information security measures to to help minimize such risks. 
+iSpring Solutions is committed to protecting the security of your personal information. While there are always risks associated with providing personal information, whether by phone, via the internet or otherwise, and no technology is completely safe, iSpring Solutions takes appropriate technical and organizational information security measures to help minimize such risks. 
 
 Such measures include, where appropriate, the use of firewalls, secure server facilities, encryption, implementing proper access rights management systems, and other technically and commercially reasonable measures to provide appropriate protection for your personal information against unauthorized access, use or disclosure. Where appropriate, we may also take backup copies and use other such means to prevent accidential damage or destruction to your personal information. 
 
