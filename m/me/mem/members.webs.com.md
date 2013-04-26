@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the members.webs.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915005726id_/http%3A//www.webs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members.webs.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427004513id_/http%3A//www.webs.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Webs.com
+# Privacy Policy - Webs
 
-Webs is a website building and hosting service provided at [http://www.webs.com](http://www.webs.com/ "make a free small business website") and [http://www.freewebs.com](http://www.freewebs.com/) and its directly associated domains, widgets, tools, services and applications that are operated by Webs, Inc. (collectively, "Webs" or "Services"). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe. 
+Webs is a website building and hosting service provided at [http://www.webs.com](http://www.webs.com/ "make a free small business website") and [http://www.freewebs.com](http://www.freewebs.com/) and its directly associated domains, widgets, tools, services and applications that are operated by Webs (collectively, "Webs" or "Services"). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe. 
 
 This "Privacy Policy" explains what information we gather from our users and how we use it. By using or accessing our Services, you are accepting the practices described in this Privacy Policy. (Capitalized terms not defined herein have the meaning set forth in our [Terms of Service](http://www.webs.com/terms.htm)). 
 
