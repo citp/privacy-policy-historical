@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the momfinds.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226232303id_/http%3A//www.shefinds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momfinds.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427024319id_/http%3A//www.shefinds.com/privacy) for the most accurate reproduction.*
 
 # Privacy « SHEfinds
+
+This policy was last updated March 2012.
 
 Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information.  
 **Personal Information**  
@@ -32,7 +34,7 @@ We do not intentionally collect any information from children.
 **Contact**  
 If you should have any questions about our privacy policy, please contact us at Info@SheFinds.com.
 
-This policy was last updated March 2010.
+This policy was last updated March 2012.
 
 White Cat Media, Inc.  
 109 West 27th #5A  
