@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031005236id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427161430id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
 
 # Catalogue Central's Privacy Policy
 
-[](https://web.archive.org/)
+[ ](http://inc.catalogues.cataloguecentral.com.au/aff_c?offer_id=3041&aff_id=1000&aff_sub4=wings&source=Home) [ ](http://inc.catalogues.cataloguecentral.com.au/aff_c?offer_id=3041&aff_id=1000&aff_sub4=wings&source=Home) [](https://web.archive.org/)
 
 ## Our Policy
 
