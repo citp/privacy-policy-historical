@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechamplainchannel.com privacy policy that was archived on 2012-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120916214122id_/http%3A//www.wptz.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechamplainchannel.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427120033id_/http%3A//www.wptz.com/connect/privacy) for the most accurate reproduction.*
 
 # WPTZ.com - Privacy
 
