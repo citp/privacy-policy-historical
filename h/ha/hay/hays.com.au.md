@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065935id_/http%3A//www.hays.com.au/general-content/HAYS_178762) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427092807id_/http%3A//www.hays.com.au/general-content/HAYS_178762) for the most accurate reproduction.*
 
 # Privacy Policy | Australia jobs and recruitment | Hays - Recruiting experts worldwide
 
 ### Your privacy is important to Hays
 
-Your privacy is important to us. This statement outlines Hays policy on how we manage the personal information we hold about our customers and others. It applies to all operations within Hays Specialist Recruitment (Australia) Pty Limited in Australia and New Zealand, including visitors to our website.
+Your privacy is important to us. This statement outlines Hays policy on how we manage the personal information we hold about our customers and others. It applies to all operations within Hays Specialist Recruitment (Australia) Pty Limited in Australia and New Zealand, including visitors to our website. 
 
 It is the policy of Hays to respect the confidentiality of information and the privacy of individuals. Hays are bound by the National Privacy Principles (NPP) contained in the Privacy Act 1988 (as amended) in Australia; and by the Information Privacy Principles (IPP) contained in the Privacy Act 1993 in New Zealand.
 
 The Hays privacy policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment. Any information we hold will be governed by the most current version of the Hays privacy policy.
 
-We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purpose you agree to. This document reflects our commitment to you.
+We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purpose you agree to.  This document reflects our commitment to you.  
 
-### The Hays privacy policy is based on openness
+### The Hays privacy policy is based on transparency
 
-We are committed to being open about how we use personal information.
+We are committed to being transparent about how we use personal information.
 
 Where our documents ask for personal information, we will generally state the purpose for its use and to whom it may be disclosed.
 
@@ -33,21 +33,23 @@ Personal information that we collect and hold usually falls into the following c
 
 ### General information collected from visitors to our website
 
-In general, we gather information about all our website users collectively, such as what areas users visit more frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall website experience for you.  
-Your personal information collected on the hays.com.au and hays.net.nz websites
+In general, we gather information about all our website users collectively, such as what areas users visit more frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall website experience for you.
+
+### Your personal information collected on the [hays.com.au](http://www.hays.com.au/) and [hays.net.nz](http://www.hays.net.nz/) websites
 
 In some instances we may need specific information about you, such as name, address, email address, telephone number, etc. We will collect this information if you apply for a job or sign up for a service via our website, for example. We may also ask you for other information such as the types of jobs you are interested in and your workplace concerns in order to provide you with the best possible service and internet experience.
 
-### Purposes for which we hold personal information
+### Purposes for which we collect personal information
 
-We primarily hold personal information for the following:
+We primarily collect personal information for the following:
 
-  *  **Placement operations** – to assist you in finding a suitable position
-  *  **Recruitment** – career guidance and management
-  *  **Staff management** – to enable consultants to better service your career requirements if you are employed by Hays on a temporary or contract basis
-  *  **Training** – to identify any training requirements
-  *  **Client and business relationship management** – to ensure we are familiar with and fully understand your needs
-  *  **Marketing** – to inform you of events, services and possible job opportunities by mail/email/sms/phone
+  * Placement operations – to assist you in finding a suitable position
+  * Recruitment – career guidance and management
+  * Staff management – to enable consultants to better service your career requirements if you are employed by Hays on a temporary or contract basis
+  * Training – to identify any training requirements
+  * Client and business relationship management – to ensure we are familiar with and fully understand your needs
+  * Marketing – to inform you of events, services and possible job opportunities by mail/email/sms/phone
+  * Development – for research, development and other business purposes to assist us in providing our services to you
 
 
 
@@ -58,32 +60,31 @@ As outlined in the Australian Privacy Act, sensitive information can, in most ca
 
 ### Disclosures
 
-We may disclose your personal information for the purposes for which it is primarily held or for a related secondary purpose and in some cases we may only disclose information with your consent.   
-We do not disclose information about your individual visits to the Hays’ website, or personal information that you provide, such as your name, address, email address, telephone number etc, to any outside parties, except when we believe we are under a lawful duty of care to do so.
+We may disclose your personal information (including to trusted third parties) for the purposes for which it is primarily held or for a related secondary purpose and in some cases we may only disclose information with your consent.
 
-By submitting your application to us, you are agreeing to your personal details being forwarded to our offices, including those internationally and where you have applied for a specific role, to employers in that country.
+We do not disclose information about your individual visits to the Hays’ website. By submitting your application to us, you are agreeing to your personal details being forwarded to our offices, including our international offices and where you have applied for a specific role, to employers in that country.
 
 ### Management of personal information
 
-At Hays, we train our staff to respect the confidentiality of customer information and the privacy of individuals. Hays regard breaches of your privacy very seriously and any breach will result in disciplinary action being taken, dependent upon severity.  
+At Hays, we train our staff to respect the confidentiality of customer information and the privacy of individuals. Hays regard breaches of your privacy very seriously and any breach will result in disciplinary action being taken, dependent upon severity.
+
 Hays have appointed a Privacy Officer to ensure that our management of personal information is in accordance with this statement and the relevant Privacy Acts.
 
 ### How do we store personal information?
 
 Safeguarding the privacy of your information is important to us, whether you interact with us personally, by phone, mail, over the internet or other electronic medium. We hold personal information in a combination of secure computer storage facilities and paper-based files and other records, and take steps to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure.
 
-We may need to maintain records for a significant period of time.   
-However, when we consider information is no longer needed, we will remove any details that will identify you or we will securely destroy the records.
+We may need to maintain records for a significant period of time. However, when we consider information is no longer needed, we will remove any details that will identify you or we will securely destroy the records.
 
 ### How do we keep personal information accurate and up to date?
 
 Hays endeavours to ensure that the personal information it holds is accurate and up to date. We realise that information changes frequently with changes of address and other personal circumstances. We generally update your customer information over the telephone. Please advise your consultant when your personal details change.
 
-If you have created a profile with Hays via our website, you are able to update or delete your personal information whenever you apply for a new position advertised. To do so, simply click on apply for a position of interest, log into your profile, and you will find options for editing or deleting the information you have submitted.
+If you have created a profile with Hays via our website, you are able to update or delete your personal information. To do so, simply click on apply for a position of interest, log into your profile, and you will find options for editing or deleting the information you have submitted.
 
-### Enquiries and complaints
+### Enquiries & complaints
 
-You can make further enquiries or complaints about our privacy policy to our Privacy Officer:
+You can make further enquiries or complaints about our privacy policy to our Privacy Officer: 
 
  | Australia| New Zealand  
 ---|---|---  
@@ -96,7 +97,8 @@ Post| Reply Paid| GPO Box 2135
  | GPO Box 2135| BRISBANE QLD 4001  
  | BRISBANE QLD 4001| AUSTRALIA  
   
-If you are not satisfied with our response to your complaint, in Australia you can contact the **Australian Information Commissioner (OAIC)** ; or in New Zealand you can contact the **Office of the Privacy Commissioner**.
+  
+If you are not satisfied with our response to your complaint, in Australia you can contact the Australian Information Commissioner (OAIC); or in New Zealand you can contact the Office of the Privacy Commissioner.
 
 ### Access
 
@@ -108,7 +110,7 @@ To make a request to access your personal information, you will need to complete
 
 We may impose a moderate charge in providing access. Our Privacy Officer will discuss this with you.
 
-You should also anticipate that it may take a little time to process your application for access as there may be a need to retrieve information from storage and review information in order to determine what information may be provided.
+You should also anticipate that it may take time to process your application for access as there may be a need to retrieve information from storage and review it in order to determine what information is relevant.
 
 ### Feedback
 
@@ -116,6 +118,6 @@ Hays have several areas on our website where you can submit feedback. Any feedba
 
 ### Changes to our Privacy Policy
 
-If we make any changes to our privacy policy, we will post these changes on our website so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our commitment to your privacy, please feel free to email our Privacy Officer at [privacy@hays.com.au](mailto:privacy@hays.com.au) or [privacy@hays.net.nz](mailto:privacy@hays.com.au).
+If we make any changes to our privacy policy, we will post these changes on our website so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our commitment to your privacy, please feel free to email our Privacy Officer at [privacy@hays.com.au](mailto:privacy@hays.com.au) or [privacy@hays.net.nz](mailto:privacy@hays.net.nz). 
 
 HP-020-11 © July 2012
