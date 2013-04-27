@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regularmom.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307185113id_/http%3A//www.regularmom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regularmom.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427085031id_/http%3A//www.regularmom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Regular Mom
 
