@@ -1,0 +1,630 @@
+<!--The following is the downloaded HTML source of the boltedmedia.com privacy policy that was archived on 2013-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130427102430id_/http%3A//www.boltedmedia.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+ 
+<title>Bolted Media   –  Privacy Policy</title>
+
+<link rel="stylesheet" href="http://www.boltedmedia.com/wp-content/themes/boulevard/style.css" type="text/css">
+<link rel="stylesheet" href="http://www.boltedmedia.com/wp-content/themes/boulevard/js/colorbox/colorbox.css" type="text/css">
+
+
+<link rel="shortcut icon" href="http://www.boltedmedia.com/wp-content/uploads/2013/02/favicon.ico">
+
+<link rel="alternate" type="application/rss+xml" title="Bolted Media » Feed" href="http://www.boltedmedia.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Bolted Media » Comments Feed" href="http://www.boltedmedia.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Bolted Media » Privacy Policy Comments Feed" href="http://www.boltedmedia.com/privacy-policy/feed/">
+
+<link rel="stylesheet" id="simple-email-subscriber-css-css" href="http://www.boltedmedia.com/wp-content/plugins/simple_email_subscriber/stylesheets/style.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="cptchStylesheet-css" href="http://www.boltedmedia.com/wp-content/plugins/captcha/css/style.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="cntctfrmStylesheet-css" href="http://www.boltedmedia.com/wp-content/plugins/contact-form-plugin/css/style.css?ver=3.5.1" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.boltedmedia.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.boltedmedia.com/wp-content/themes/boulevard/js/jquery-1.6.4.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.boltedmedia.com/wp-content/themes/boulevard/js/jtwt.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.boltedmedia.com/wp-content/themes/boulevard/js/jquery.nivo.slider.pack.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.boltedmedia.com/wp-content/themes/boulevard/js/colorbox/jquery.colorbox-min.js?ver=3.5.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.boltedmedia.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.boltedmedia.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Write for Us" href="http://www.boltedmedia.com/write-for-us/">
+<link rel="next" title="Copyright" href="http://www.boltedmedia.com/copyright/">
+<meta name="generator" content="WordPress 3.5.1">
+<link rel="canonical" href="http://www.boltedmedia.com/privacy-policy/">
+<meta name="ca_title" content="Privacy Policy">
+
+	
+<style type="text/css">body { background-color:#eeeeee; }
+#header-top-wrapper { background-color:#121212; }
+#navigation-wrapper { background-color:#121212; }
+.item .item-meta .category a, .post-content a, #sidebar .widget-item .comments a, .post-meta .category a { color: #bc0c0c; }
+.item-thumb .comments, .nivo-caption .category, .post-comment-box { background-color: #bc0c0c; } 
+</style>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	(function ($) {
+		// VERTICALLY ALIGN FUNCTION
+		$.fn.vAlign = function() {
+			return this.each(function(i){
+			var ah = $(this).height();
+			var ph = $(this).parent().height();
+			var mh = Math.ceil((ph-ah) / 2);
+			$(this).css('margin-top', mh);
+			});
+		};
+		})(jQuery);
+
+	$('#logo').vAlign();
+	
+	$('.slider-item').nivoSlider({
+		directionNav: false,
+		effect: 'random',
+		pauseTime: '6000',
+		captionOpacity: 1
+	});
+
+	// Tabs
+	//When page loads...
+	$('.tabs-wrapper').each(function() {
+		$(this).find(".tab_content").hide(); //Hide all content
+		$(this).find("ul.tabs li:first").addClass("active").show(); //Activate first tab
+		$(this).find(".tab_content:first").show(); //Show first tab content
+	});
+	
+	//On Click Event
+	$("ul.tabs li").click(function(e) {
+		$(this).parents('.tabs-wrapper').find("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(this).parents('.tabs-wrapper').find(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(this).parents('.tabs-wrapper').find(activeTab).fadeIn(); //Fade in the active ID content
+		
+		e.preventDefault();
+	});
+	
+	$("ul.tabs li a").click(function(e) {
+		e.preventDefault();
+	})
+
+	$(".toggle-content").hide(); 
+
+	$("h5.toggle").toggle(function(){
+		$(this).addClass("active");
+		}, function () {
+		$(this).removeClass("active");
+	});
+
+	$("h5.toggle").click(function(){
+		$(this).next(".toggle-content").slideToggle();
+	});
+	
+	// Add colorbox to gallery
+	$('.gallery').each(function(index, obj){
+		var galleryid = Math.floor(Math.random()*10000);
+		$(obj).find('a').colorbox({rel:galleryid, maxWidth:'95%', maxHeight:'95%'});
+	});
+	$("a.lightbox").colorbox({maxWidth:'95%', maxHeight:'95%'});
+
+	// Contact form
+	$('#contactForm').live('submit', function(e) {
+		var form = $(this);
+		var name = $(this).find('[name=pyre_name]').val();
+		var email = $(this).find('[name=pyre_email]').val();
+		var message = $(this).find('[name=pyre_message]').val();
+		
+		if(name == '') {
+			$(this).find('[name=pyre_name]').addClass('error');
+			$(this).find('[name=pyre_name]').parent().find('.error_msg').fadeIn();
+			
+			return false;
+		} else {
+			$(this).find('[name=pyre_name]').removeClass('error');
+			$(this).find('[name=pyre_name]').parent().find('.error_msg').fadeOut();
+		}
+		
+		var email_regex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+		if(email == ''  || !email_regex.test(email)) {
+			$(this).find('[name=pyre_email]').addClass('error');
+			$(this).find('[name=pyre_email]').parent().find('.error_msg').fadeIn();
+			
+			return false;
+		} else {
+			$(this).find('[name=pyre_email]').removeClass('error');
+			$(this).find('[name=pyre_email]').parent().find('.error_msg').fadeOut();
+		}
+		
+		if(message == '') {
+			$(this).find('[name=pyre_message]').addClass('error');
+			$(this).find('[name=pyre_message]').parent().find('.error_msg').fadeIn();
+			
+			return false;
+		} else {
+			$(this).find('[name=pyre_message]').removeClass('error');
+			$(this).find('[name=pyre_message]').parent().find('.error_msg').fadeOut();
+		}
+		
+		$.ajax({
+			url: 'http://www.boltedmedia.com/wp-admin/admin-ajax.php',
+			data: jQuery(form).serialize()+'&action=pyre_contact_form',
+			type: 'POST',
+			success: function() {
+				$('.email_sent').fadeIn(400).delay(5000).fadeOut(400);
+			}
+		});
+		
+		e.preventDefault();
+	});
+});
+</script>
+
+</head>
+
+<body class="page page-id-18587 page-template-default">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<div id="header-top-wrapper">
+	
+		<div id="header-top">
+		
+			<ul id="menu-second-menu" class="menu"><li id="menu-item-48915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48915"><a href="http://www.boltedmedia.com/copyright/">Copyright</a></li>
+<li id="menu-item-48916" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18587 current_page_item menu-item-48916"><a href="http://www.boltedmedia.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-48917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48917"><a href="http://www.boltedmedia.com/write-for-us/">Write for Us</a></li>
+<li id="menu-item-48918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48918"><a href="http://www.boltedmedia.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-48919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48919"><a href="http://www.boltedmedia.com/faq/">FAQ</a></li>
+<li id="menu-item-49087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49087"><a href="http://www.boltedmedia.com/sitemap.xml">Sitemap</a></li>
+</ul>		
+		</div>
+	
+	</div>
+		
+	<div id="wrapper">
+	
+		<div id="header">
+		
+			<div id="logo">
+								<a href="http://www.boltedmedia.com"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/03/bmlogo.jpg" alt="Bolted Media"></a> 
+			</div>
+			
+						<div id="header-banner">
+				<script language="JavaScript" src="http://wam-ads.sitescout.com/tag.jsp?pid=C11EF86C45&amp;w=728&amp;h=90&amp;rnd=23258"></script>			</div>
+					
+		</div>
+		
+		<div id="navigation-wrapper">
+		
+			<div id="navigation">
+				<ul id="menu-main-menu" class="menu"><li id="menu-item-48972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-48972"><a href="http://www.boltedmedia.com">Home</a></li>
+<li id="menu-item-48930" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48930"><a href="http://www.boltedmedia.com/category/amazing-story/">Amazing</a></li>
+<li id="menu-item-48931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48931"><a href="http://www.boltedmedia.com/category/celebrity-gossip/">Celebrity</a></li>
+<li id="menu-item-48932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48932"><a href="http://www.boltedmedia.com/category/crime-2/">Crime</a></li>
+<li id="menu-item-49623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49623"><a href="http://www.boltedmedia.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-48933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48933"><a href="http://www.boltedmedia.com/category/hilarious-comedy/">Funny</a></li>
+<li id="menu-item-49317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49317"><a href="http://www.boltedmedia.com/category/pictures/">Pictures</a></li>
+<li id="menu-item-48935" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48935"><a href="http://www.boltedmedia.com/category/reviews/">Reviews</a></li>
+<li id="menu-item-48936" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48936"><a href="http://www.boltedmedia.com/category/science-news/">Science</a></li>
+<li id="menu-item-48937" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48937"><a href="http://www.boltedmedia.com/category/sports-highlights/">Sports</a></li>
+<li id="menu-item-48938" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48938"><a href="http://www.boltedmedia.com/category/bizarre-news/">Strange</a></li>
+<li id="menu-item-48939" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48939"><a href="http://www.boltedmedia.com/category/top-10/">Top 10</a></li>
+<li id="menu-item-49482" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49482"><a href="http://www.boltedmedia.com/category/us-news-2/">US News</a></li>
+</ul>			</div>
+			
+		</div>
+		<div id="main">
+		
+						
+			<div id="post-wrapper">
+
+				<div id="page-header">
+					
+					<h1>Privacy Policy</h1>
+						
+				</div>
+			
+				<div id="post">
+					
+					<div class="post-content">
+					
+						<p>This Privacy Policy governs the manner in which BOLTED MEDIA collects, uses, maintains and discloses information collected from users (each, a “User”) of the&nbsp;<a href="http://www.boltedmedia.com/">http://www.boltedmedia.com/</a>&nbsp;website (“Site”). This privacy policy applies to the Site and all products and services offered by BOLTED MEDIA.</p>
+<p><strong>Personal identification information</strong></p>
+<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+<p><strong>Non-personal identification information</strong></p>
+<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
+<p><strong>Web browser cookies</strong></p>
+<p>Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
+<p><strong>How we use collected information</strong></p>
+<p>BOLTED MEDIA collects and uses Users personal information for the following purposes:</p>
+<ul>
+<li><em>- To personalize user experience</em><br>
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
+<li><em>- To improve customer service</em><br>
+Your information helps us to more effectively respond to your customer service requests and support needs.</li>
+<li><em>- To send periodic emails</em><br>
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.</li>
+</ul>
+<p><strong>How we protect your information</strong></p>
+<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+<p>Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p>
+<p><strong>Sharing your personal information</strong></p>
+<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</p>
+<p><strong>Third party websites</strong></p>
+<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.</p>
+<p><strong>Google Adsense</strong></p>
+<p>Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at?<a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></p>
+<p><strong>Changes to this privacy policy</strong></p>
+<p>BOLTED MEDIA has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+<p><strong>Your acceptance of these terms</strong></p>
+<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+<p><strong>Contacting us</strong></p>
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p>
+<p><a href="http://www.boltedmedia.com/">BOLTED MEDIA</a></p>
+<p><a href="http://www.boltedmedia.com/">http://www.boltedmedia.com/</a></p>
+<p>111 Ellan Hay Road</p>
+<p>Bristol</p>
+<p>BS32 0HA</p>
+<p>This document was last updated on February 02, 2013</p>
+<div>Privacy policy created by&nbsp;<a href="http://www.generateprivacypolicy.com/" target="_blank">Generate Privacy Policy</a></div>
+											
+					</div>
+				
+				</div>
+				
+								<div class="post-share">
+										<div class="twitter-share share-widget">
+						<a href="http://twitter.com/share" class="twitter-share-button" data-text="Privacy Policy" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+					</div>
+															<div class="facebook-share share-widget">
+						<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.boltedmedia.com%2Fprivacy-policy%2F&amp;send=false&amp;layout=box_count&amp;width=46&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:46px; height:65px;" allowtransparency="true"></iframe>
+					</div>
+																				<div class="stumbleupon-share share-widget">
+						<script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script>
+					</div>
+															<div class="reddit-share share-widget">
+						<script type="text/javascript" src="http://www.reddit.com/static/button/button2.js"></script>
+					</div>
+																									<div class="google-share share-widget">
+						<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+						<g:plusone size="tall"></g:plusone>
+					</div>
+									</div>
+							
+			</div>
+			
+						
+		</div>
+		
+		<div id="sidebar">
+		
+				<div class="widget"><form method="get" id="searchform" action="http://www.boltedmedia.com/">
+
+	<input type="text" class="search-field" name="s" id="s">
+	<input type="submit" value="Search" class="search-button">
+	
+</form></div><div class="widget"><script type="text/javascript" src="http://api.content.ad/Scripts/widget.js?id=f9d7af3b-4604-4f87-9d37-13bb17e9f801&amp;d=Ym9sdGVkbWVkaWEuY29t&amp;wid=5319&amp;pubdate=2013-04-27+11%3A16%3A48"></script></div><div class="widget"><h4>Subscribe &amp; Follow</h4>		<!-- BEGIN WIDGET -->		
+				<div class="social-box">
+						
+			<a href="http://www.facebook.com/BoltedMedia"><img src="http://www.boltedmedia.com/wp-content/themes/boulevard/images/facebook.png" alt="Fan us on Facebook" width="48" height="48"></a>
+			
+			<div class="social-box-text">
+				<span class="social-arrow"></span>
+				<span class="social-box-descrip">Connect on Facebook</span>
+				<span class="social-box-count">332 Fans</span>
+			</div>
+		</div>
+				
+				<div class="social-box">
+			<a href="http://twitter.com/boltedmedia"><img src="http://www.boltedmedia.com/wp-content/themes/boulevard/images/twitter.png" alt="Follow on Twitter" width="48" height="48"></a>
+						<div class="social-box-text">
+				<span class="social-arrow"></span>
+				<span class="social-box-descrip">Follow on Twitter</span>
+				<span class="social-box-count"> Followers</span>
+			</div>
+		</div>
+				
+				<div class="social-box">
+			<a href="http://www.boltedmedia.com/feed/"><img src="http://www.boltedmedia.com/wp-content/themes/boulevard/images/rss.png" alt="Subsribe to RSS" width="48" height="48"></a>
+			
+						
+			<div class="social-box-text">
+				<span class="social-arrow"></span>
+				<span class="social-box-descrip">Subscribe to RSS Feed</span>
+							</div>
+		</div>
+		<!-- END WIDGET -->
+		</div><div class="widget">		<!-- BEGIN WIDGET -->
+		<h4>Latest Reviews</h4>		
+							
+				<div class="widget-item">
+												<a href="http://www.boltedmedia.com/samsung-galaxy-s4-review-are-there-too-many-features/" title="Samsung Galaxy S4: Review – Are there too many features?"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/03/samsung-galaxy-s4-t-50x50.jpg" alt="Samsung Galaxy S4: Review – Are there too many features?" class="thumb"></a>
+						<h3><a href="http://www.boltedmedia.com/samsung-galaxy-s4-review-are-there-too-many-features/" title="Samsung Galaxy S4: Review – Are there too many features?">Samsung Galaxy S4: Review – Are there too many features?</a></h3>
+			<span class="date">March 16, 2013</span>
+			<span class="comments"><a href="http://www.boltedmedia.com/samsung-galaxy-s4-review-are-there-too-many-features/#comments" title="Comment on Samsung Galaxy S4: Review – Are there too many features?">1</a></span>
+						<div class="post-review-widget">
+								<span><img src="http://www.boltedmedia.com/wp-content/themes/boulevard/images/stars/4.png" alt=""></span>
+							</div>
+					</div>
+				<!-- END WIDGET -->
+		</div><div class="widget">			<div class="textwidget"><script type="text/javascript">
+    (function() {
+        var params =
+        {
+            id: "a8049d4e-7ced-47d5-a54d-cea1448b5ff6",
+            d:  "Ym9sdGVkbWVkaWEuY29t",
+            wid: "5926"
+        };
+
+        var qs="";for(var key in params){qs+=key+"="+params[key]+"&"}qs=qs.substring(0,qs.length-1);
+        document.write('<script type="text/javascript" src="http://api.content.ad/Scripts/widget.js?' + qs + '"><\/script>');
+    })();
+</script><script type="text/javascript" src="http://api.content.ad/Scripts/widget.js?id=a8049d4e-7ced-47d5-a54d-cea1448b5ff6&amp;d=Ym9sdGVkbWVkaWEuY29t&amp;wid=5926"></script></div>
+		</div><div class="widget"><h4>Recent Pictures</h4><ul>
+		
+			
+			
+							<a href="http://www.boltedmedia.com/fuck-this-lets-breakdance/" title="Fuck This Lets Breakdance">
+				<img width="145" height="145" src="http://www.boltedmedia.com/wp-content/uploads/2013/03/breakdance-145x145.png" class="attachment-cat_post_thumb_sizecategoryposts-2 wp-post-image" alt="breakdance">				</a>
+			
+						
+						
+					
+			
+			
+			
+							<a href="http://www.boltedmedia.com/daughter-draws-picture-of-mother-on-stripper-pole/" title="Daughter Draws Picture Of Mother On Stripper Pole">
+				<img width="145" height="145" src="http://www.boltedmedia.com/wp-content/uploads/2013/03/stripper-pole-145x145.png" class="attachment-cat_post_thumb_sizecategoryposts-2 wp-post-image" alt="stripper pole">				</a>
+			
+						
+						
+					
+			
+			
+			
+							<a href="http://www.boltedmedia.com/come-at-me-bro/" title="Come At Me Bro!">
+				<img width="145" height="145" src="http://www.boltedmedia.com/wp-content/uploads/2013/03/comeatme-145x145.png" class="attachment-cat_post_thumb_sizecategoryposts-2 wp-post-image" alt="comeatme">				</a>
+			
+						
+						
+					
+			
+			
+			
+							<a href="http://www.boltedmedia.com/take-your-daughter-to-work-day-done-the-right-way/" title="Take your daughter to work day… done the right way">
+				<img width="145" height="89" src="http://www.boltedmedia.com/wp-content/uploads/2013/03/daughtertowork.png" class="attachment-cat_post_thumb_sizecategoryposts-2 wp-post-image" alt="daughtertowork">				</a>
+			
+						
+						
+					
+			
+			
+			
+							<a href="http://www.boltedmedia.com/why-the-fuck/" title="why the fuck">
+				<img width="145" height="89" src="http://www.boltedmedia.com/wp-content/uploads/2013/03/whytf.png" class="attachment-cat_post_thumb_sizecategoryposts-2 wp-post-image" alt="whytf">				</a>
+			
+						
+						
+					
+			
+			
+			
+							<a href="http://www.boltedmedia.com/permanent-market-fail/" title="Permanent Market Fail">
+				<img width="145" height="89" src="http://www.boltedmedia.com/wp-content/uploads/2013/03/permarker.png" class="attachment-cat_post_thumb_sizecategoryposts-2 wp-post-image" alt="permarker">				</a>
+			
+						
+						
+					
+	</ul>
+</div><div class="widget">		<!-- BEGIN WIDGET -->
+		<div class="tabs-wrapper">
+		
+			<ul class="tabs">
+				<li class="active"><a href="#tab1">Most Recent</a></li>				<li><a href="#tab2">Comments</a></li>				<li><a href="#tab3">Tags</a></li>			</ul>
+			
+			<div class="tabs_container">
+			
+								<div id="tab1" class="tab_content">
+																	<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/alligator-stuns-golfers-as-he-trespasses-on-the-course/" title="Alligator Stuns Golfers as He Trespasses on the Course"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/alligator-golf0course-50x50.jpg" alt="Alligator Stuns Golfers as He Trespasses on the Course" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/alligator-stuns-golfers-as-he-trespasses-on-the-course/" title="Alligator Stuns Golfers as He Trespasses on the Course">Alligator Stuns Golfers as He Trespasses on the Course</a></h3>
+							<span class="date">April 27, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/alligator-stuns-golfers-as-he-trespasses-on-the-course/#respond" title="Comment on Alligator Stuns Golfers as He Trespasses on the Course">0</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/man-shoots-himself-in-head-with-harpoon-gun/" title="Man Shoots Himself In Head With Harpoon Gun"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/harpoon-head-50x50.jpg" alt="Man Shoots Himself In Head With Harpoon Gun" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/man-shoots-himself-in-head-with-harpoon-gun/" title="Man Shoots Himself In Head With Harpoon Gun">Man Shoots Himself In Head With Harpoon Gun</a></h3>
+							<span class="date">April 27, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/man-shoots-himself-in-head-with-harpoon-gun/#respond" title="Comment on Man Shoots Himself In Head With Harpoon Gun">0</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/first-look-jamie-foxx-as-electro-in-the-amazing-spider-man-2/" title="First look: Jamie Foxx as Electro in The Amazing Spider-Man 2"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/spidey-villan-50x50.jpg" alt="First look: Jamie Foxx as Electro in The Amazing Spider-Man 2" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/first-look-jamie-foxx-as-electro-in-the-amazing-spider-man-2/" title="First look: Jamie Foxx as Electro in The Amazing Spider-Man 2">First look: Jamie Foxx as Electro in The Amazing Spider-Man 2</a></h3>
+							<span class="date">April 17, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/first-look-jamie-foxx-as-electro-in-the-amazing-spider-man-2/#respond" title="Comment on First look: Jamie Foxx as Electro in The Amazing Spider-Man 2">0</a></span>
+						</div>
+												<div class="widget-item">
+														<span class="thumb-icon-small video"></span>														<a href="http://www.boltedmedia.com/leaping-shark-steals-scared-fishermans-catch/" title="Leaping Shark Steals Scared Fisherman’s Catch"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/fisherman-shark-stole-catch-50x50.jpg" alt="Leaping Shark Steals Scared Fisherman’s Catch" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/leaping-shark-steals-scared-fishermans-catch/" title="Leaping Shark Steals Scared Fisherman’s Catch">Leaping Shark Steals Scared Fisherman’s Catch</a></h3>
+							<span class="date">April 12, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/leaping-shark-steals-scared-fishermans-catch/#respond" title="Comment on Leaping Shark Steals Scared Fisherman’s Catch">0</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/amazing-dancers-kazumi-kamiyama/" title="Amazing Dancers Kazumi &amp; Kamiyama"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/japanesedancers-50x50.png" alt="Amazing Dancers Kazumi &amp; Kamiyama" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/amazing-dancers-kazumi-kamiyama/" title="Amazing Dancers Kazumi &amp; Kamiyama">Amazing Dancers Kazumi &amp; Kamiyama</a></h3>
+							<span class="date">April 12, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/amazing-dancers-kazumi-kamiyama/#respond" title="Comment on Amazing Dancers Kazumi &amp; Kamiyama">0</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/zombies-blamed-for-california-lorry-crash/" title="Zombies Blamed For California Lorry Crash"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/zombies-50x50.jpg" alt="Zombies Blamed For California Lorry Crash" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/zombies-blamed-for-california-lorry-crash/" title="Zombies Blamed For California Lorry Crash">Zombies Blamed For California Lorry Crash</a></h3>
+							<span class="date">April 12, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/zombies-blamed-for-california-lorry-crash/#respond" title="Comment on Zombies Blamed For California Lorry Crash">0</a></span>
+						</div>
+												<div class="widget-item">
+														<span class="thumb-icon-small video"></span>														<a href="http://www.boltedmedia.com/beaver-bites-man-to-death-in-belarus-attack/" title="Beaver Bites Man To Death In Belarus Attack"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/beaver-50x50.jpg" alt="Beaver Bites Man To Death In Belarus Attack" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/beaver-bites-man-to-death-in-belarus-attack/" title="Beaver Bites Man To Death In Belarus Attack">Beaver Bites Man To Death In Belarus Attack</a></h3>
+							<span class="date">April 12, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/beaver-bites-man-to-death-in-belarus-attack/#respond" title="Comment on Beaver Bites Man To Death In Belarus Attack">0</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/dog-eats-500-owner-tries-to-get-money-back/" title="Dog Eats $500: Owner Tries To Get Money Back"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/canine-eats-money-100-bills-50x50.jpg" alt="Dog Eats $500: Owner Tries To Get Money Back" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/dog-eats-500-owner-tries-to-get-money-back/" title="Dog Eats $500: Owner Tries To Get Money Back">Dog Eats $500: Owner Tries To Get Money Back</a></h3>
+							<span class="date">April 12, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/dog-eats-500-owner-tries-to-get-money-back/#respond" title="Comment on Dog Eats $500: Owner Tries To Get Money Back">0</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/dubai-police-unveil-lamborghini-patrol-car/" title="Dubai Police Unveil Lamborghini Patrol Car"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/police-lambourghini-dubai-50x50.jpg" alt="Dubai Police Unveil Lamborghini Patrol Car" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/dubai-police-unveil-lamborghini-patrol-car/" title="Dubai Police Unveil Lamborghini Patrol Car">Dubai Police Unveil Lamborghini Patrol Car</a></h3>
+							<span class="date">April 12, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/dubai-police-unveil-lamborghini-patrol-car/#respond" title="Comment on Dubai Police Unveil Lamborghini Patrol Car">0</a></span>
+						</div>
+												<div class="widget-item">
+																												<a href="http://www.boltedmedia.com/seo-internet-marketing-companys-sales-rocket-after-statistics-report/" title="SEO Internet Marketing Company’s Sales Rocket after Statistics Report"><img src="http://www.boltedmedia.com/wp-content/uploads/2013/04/seopt-black-50x50.png" alt="SEO Internet Marketing Company’s Sales Rocket after Statistics Report" class="thumb" width="50" height="50"></a>
+														<h3><a href="http://www.boltedmedia.com/seo-internet-marketing-companys-sales-rocket-after-statistics-report/" title="SEO Internet Marketing Company’s Sales Rocket after Statistics Report">SEO Internet Marketing Company’s Sales Rocket after Statistics Report</a></h3>
+							<span class="date">April 12, 2013</span>
+							<span class="comments"><a href="http://www.boltedmedia.com/seo-internet-marketing-companys-sales-rocket-after-statistics-report/#respond" title="Comment on SEO Internet Marketing Company’s Sales Rocket after Statistics Report">0</a></span>
+						</div>
+															</div>
+								
+								<div id="tab2" class="tab_content">
+											<div class="widget-item">
+							<img alt="" src="http://0.gravatar.com/avatar/c8583bac3220ad254aeabf354d017cda?s=50&amp;d=Mystery+Man&amp;r=G" class="avatar avatar-50 photo" height="50" width="50">							
+							<h3><span class="who-said">upskirt says:</span> <a class="comment-text-side" href="http://www.boltedmedia.com/zombie-prostitute-dies-having-sex-wakes-up-in-coffin-being-carried-from-hotel/#comment-265" title="upskirt on Zombie Prostitute Dies Having Sex - Wakes Up In Coffin being Carried From Hotel">Wow, fantastic blog layout! How long have you been blogging for?
+you made...</a></h3>
+						</div>
+											<div class="widget-item">
+							<img alt="" src="http://1.gravatar.com/avatar/5e772bd9dbbbef49254f464a9b112b24?s=50&amp;d=Mystery+Man&amp;r=G" class="avatar avatar-50 photo" height="50" width="50">							
+							<h3><span class="who-said">Gary Oldman says:</span> <a class="comment-text-side" href="http://www.boltedmedia.com/dominos-pizza-delivery-woman-stabbed-50-times-by-two-teenagers/#comment-171" title="Gary Oldman on Domino's Pizza Delivery Woman Stabbed 50 Times by Two Teenagers">"While Cook and the unnamed boy took money from Hutcheson, police determined...</a></h3>
+						</div>
+											<div class="widget-item">
+							<img alt="" src="http://0.gravatar.com/avatar/e90b4b078d973e7b115524878e564f1b?s=50&amp;d=Mystery+Man&amp;r=G" class="avatar avatar-50 photo" height="50" width="50">							
+							<h3><span class="who-said">Michael says:</span> <a class="comment-text-side" href="http://www.boltedmedia.com/unhappy-meal-mcdonalds-suit-claims-toddler-ate-used-condom/#comment-132" title="Michael on Unhappy meal: McDonald's suit claims toddler ate used condom">Ok, now I get it, a used condom on the floor, Mother...</a></h3>
+						</div>
+									</div>
+								
+								<div id="tab3" class="tab_content">
+					<div class="post-tags">
+										<a href="http://www.boltedmedia.com/tag/2013/" rel="tag">2013</a>										<a href="http://www.boltedmedia.com/tag/obama/" rel="tag">Obama</a>										<a href="http://www.boltedmedia.com/tag/us/" rel="tag">US</a>										<a href="http://www.boltedmedia.com/tag/2012/" rel="tag">2012</a>										<a href="http://www.boltedmedia.com/tag/crime/" rel="tag">crime</a>										<a href="http://www.boltedmedia.com/tag/video/" rel="tag">video</a>										<a href="http://www.boltedmedia.com/tag/murder/" rel="tag">murder</a>										<a href="http://www.boltedmedia.com/tag/news/" rel="tag">news</a>										<a href="http://www.boltedmedia.com/tag/china/" rel="tag">china</a>										<a href="http://www.boltedmedia.com/tag/barack-obama/" rel="tag">barack obama</a>										</div>
+				</div>
+							
+			</div>
+			
+		</div>
+		<!-- END WIDGET -->
+		</div><div class="widget"><h4>Find us on Facebook</h4>		<iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FBoltedMedia&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=270" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height: 270px;" allowtransparency="true"></iframe>
+		</div>		
+		</div>
+	</div>
+	
+	<div id="footer-wrapper">
+	
+		<div id="footer">
+	
+			<div class="widget"><h4>Pages</h4>		<ul>
+			<li class="page_item page-item-4555"><a href="http://www.boltedmedia.com/write-for-us/">Write for Us</a></li>
+<li class="page_item page-item-4032"><a href="http://www.boltedmedia.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-33502"><a href="http://www.boltedmedia.com/copyright/">Copyright</a></li>
+<li class="page_item page-item-4024"><a href="http://www.boltedmedia.com/faq/">FAQ</a></li>
+<li class="page_item page-item-18587 current_page_item"><a href="http://www.boltedmedia.com/privacy-policy/">Privacy Policy</a></li>
+		</ul>
+		</div>			
+					<div class="widget">		<h4>Recent Posts</h4>		<ul>
+					<li>
+				<a href="http://www.boltedmedia.com/alligator-stuns-golfers-as-he-trespasses-on-the-course/" title="Alligator Stuns Golfers as He Trespasses on the Course">Alligator Stuns Golfers as He Trespasses on the Course</a>
+						</li>
+					<li>
+				<a href="http://www.boltedmedia.com/man-shoots-himself-in-head-with-harpoon-gun/" title="Man Shoots Himself In Head With Harpoon Gun">Man Shoots Himself In Head With Harpoon Gun</a>
+						</li>
+					<li>
+				<a href="http://www.boltedmedia.com/first-look-jamie-foxx-as-electro-in-the-amazing-spider-man-2/" title="First look: Jamie Foxx as Electro in The Amazing Spider-Man 2">First look: Jamie Foxx as Electro in The Amazing Spider-Man 2</a>
+						</li>
+					<li>
+				<a href="http://www.boltedmedia.com/leaping-shark-steals-scared-fishermans-catch/" title="Leaping Shark Steals Scared Fisherman’s Catch">Leaping Shark Steals Scared Fisherman’s Catch</a>
+						</li>
+					<li>
+				<a href="http://www.boltedmedia.com/amazing-dancers-kazumi-kamiyama/" title="Amazing Dancers Kazumi &amp; Kamiyama">Amazing Dancers Kazumi &amp; Kamiyama</a>
+						</li>
+				</ul>
+		</div>			
+			<div class="widget"><h4>Archives</h4>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> 	<option value="http://www.boltedmedia.com/2013/04/"> April 2013 &nbsp;(24)</option>
+	<option value="http://www.boltedmedia.com/2013/03/"> March 2013 &nbsp;(101)</option>
+	<option value="http://www.boltedmedia.com/2013/02/"> February 2013 &nbsp;(31)</option>
+	<option value="http://www.boltedmedia.com/2013/01/"> January 2013 &nbsp;(372)</option>
+	<option value="http://www.boltedmedia.com/2012/12/"> December 2012 &nbsp;(582)</option>
+	<option value="http://www.boltedmedia.com/2012/11/"> November 2012 &nbsp;(553)</option>
+	<option value="http://www.boltedmedia.com/2012/10/"> October 2012 &nbsp;(494)</option>
+	<option value="http://www.boltedmedia.com/2012/09/"> September 2012 &nbsp;(481)</option>
+	<option value="http://www.boltedmedia.com/2012/08/"> August 2012 &nbsp;(380)</option>
+	<option value="http://www.boltedmedia.com/2012/07/"> July 2012 &nbsp;(273)</option>
+	<option value="http://www.boltedmedia.com/2012/06/"> June 2012 &nbsp;(253)</option>
+	<option value="http://www.boltedmedia.com/2012/05/"> May 2012 &nbsp;(93)</option>
+	<option value="http://www.boltedmedia.com/2012/04/"> April 2012 &nbsp;(91)</option>
+	<option value="http://www.boltedmedia.com/2012/03/"> March 2012 &nbsp;(79)</option>
+	<option value="http://www.boltedmedia.com/2012/02/"> February 2012 &nbsp;(25)</option>
+	<option value="http://www.boltedmedia.com/2012/01/"> January 2012 &nbsp;(29)</option>
+	<option value="http://www.boltedmedia.com/2011/12/"> December 2011 &nbsp;(6)</option>
+ </select>
+</div>			
+			<div class="widget last"><h4>Subscription</h4>
+<form name="subscribe_email_form" action="http://www.boltedmedia.com/privacy-policy/" method="post">
+
+  <!-- display the category list -->
+  <label>Please select how you subscribe to us:</label><br>
+  <ui class="subscription_categories">
+    <li>
+        <input type="radio" name="all_category" value="1" checked="">
+         All Categories
+        <br>
+        <input type="radio" name="all_category" value="0">
+          Specific Categories
+    </li>
+  <label>Please select the categories: (if not all)</label><br>
+<li><input class="category" type="checkbox" name="subscribe_category[]" value="3315" checked="checked"> Adult </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="6422" checked="checked"> Amazing </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="57" checked="checked"> Celebrity </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="7605" checked="checked"> Crime </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="12717" checked="checked"> Entertainment </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="4768" checked="checked"> Funny </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="1" checked="checked"> News </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="7009" checked="checked"> Pictures </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="12197" checked="checked"> Reviews </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="18" checked="checked"> Science </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="16" checked="checked"> Sports </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="4767" checked="checked"> Strange </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="12441" checked="checked"> Technology </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="4418" checked="checked"> Top 10 </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="12599" checked="checked"> US News </li><li><input class="category" type="checkbox" name="subscribe_category[]" value="12340" checked="checked"> Videos </li></ui><hr>Subscribe for all the latest news!: <br>  <input type="text" name="new_subscription_email"> 
+  <hr>
+  We would like to keep you updated with our blog. You can always stop the updates by clicking the 	“unsubscribe” link in the emails from us
+  <br>
+  <input type="submit" name="subscribe_submit" value="Subscribe">
+</form>
+
+</div>	
+		</div>
+	
+	</div>
+	
+	<div id="bottom-wrapper">
+		
+		<div id="bottom">
+		
+			<span class="totop"><a href="#">Back to Top</a></span>
+						<span class="left">Copyright © 2013 - Bolted Media. All rights reserved.</span>
+									<span class="right"><a href="http://wordpress.org">Powered by WordPress</a>.</span>
+						
+		</div>
+	
+	</div>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39623855-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+	
+
+
+</body></html>
