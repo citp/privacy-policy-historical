@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkandroid.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015074936id_/http%3A//www.talkandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkandroid.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427202034id_/http%3A//www.talkandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TalkAndroid.com
 
@@ -22,3 +22,6 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+**Third Party Ad Servers**  
+We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at <http://www.networkadvertising.org/managing/opt_out.asp>.
