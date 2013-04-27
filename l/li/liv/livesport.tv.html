@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livesport.tv privacy policy that was archived on 2012-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017084009id_/http%3A//www.livesport.tv/contact-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livesport.tv privacy policy that was archived on 2013-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130427102928id_/http%3A//www.livesport.tv/contact-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# livesporttv: http://ogp.me/ns/fb/livesporttv#">
 <meta charset="utf-8">
@@ -12,6 +12,7 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/css/LiveSport/css/primary">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/LiveSport/css/article">  <script src="/js/global/js/libs/jquery/1.7/jquery.min.js"></script>
   <script src="/js/global/js/core/geolocation.js"></script>
+  <script src="/js/LiveSportShared/js/translations.js/locale/en"></script>  
   <!--script src="/js/global/js/plugins/cookie/jquery.cookie.js"></script-->
   <script src="/js/global/js/libs/SWFObject/2.2/swfobject.js"></script>
   <script src="/js/global/js/core/dateFormat.js"></script>
@@ -23,12 +24,15 @@
   <script>
       function updateClock() {
           var timeNow = new Date();
-          $('.userLocation span').html(timeNow.format('HH:MM'));
-      }      
-  
+          $('.userLocation').html(timeNow.format('HH:MM'));
+      }
+      
       var timeNowIntervalId = setInterval(function() {updateClock()}, 36000); //refreshes the clock every minute
       //temporary fix for whitespace added before and after username and password
       $(document).ready(function () {
+        
+        updateClock();
+        
         $('#loginFormTop .username, #loginFormTop .password').blur(function () {
           var username = $('#loginFormTop .username').val();
           var password = $('#loginFormTop .password').val();
@@ -38,7 +42,7 @@
         if (perform.isLoggedIn()) {
           var userInfo = perform.getUserDetails();
           $('a.subscribe').hide();
-          $('a.signIn').text('My Account').removeClass('signIn').addClass('myAccount');
+          $('a.signIn').text("My Account").removeClass('signIn').addClass('myAccount');
           $('.facebook-loginBtn').hide();
           $('.myAccountNav_username').text(userInfo.firstname);
         } else {
@@ -131,15 +135,13 @@ var s_account = "premiumtvlivesportportal";
 <option value="www.france.livesport.tv">French</option>
 </select--><!-- /.languages -->
 <!--p class="bold">Language</p-->
-<p class="userLocation">Usa / <span>22:52</span></p>
-<p>Your current location / time:</p>
+<p class="userLocation">22:52</p>
+<p>Your local time:</p>
 </div><!-- /.innerWrap -->
 </div><!-- /.siteInfo -->
 <div class="siteLogo">
 <div class="innerWrap">
-<img src="/namedImage/13007/livesport-logo.png" alt="Livesport" title="Welcome to LIVESPORT.TV!">
-<div class="advert"><object type="application/x-shockwave-flash" data="ptvFlash/boxNation/banner/468x60_garciamorales.swf" width="468" height="60"><param name="movie" value="ptvFlash/boxNation/banner/468x60_garciamorales.swf"><param name="quality" value="high"></object>
-</div><!-- /.advert -->
+<img src="/namedImage/13007/livesport-logo.png" alt="Livesport" title="Welcome to">
 </div><!-- /.innerWrap -->
 </div><!-- /.siteLogo -->
 <nav id="site-menu">
@@ -162,7 +164,7 @@ Browse sports
 <div class="clear"></div>
 <div class="lsnav lsnav-mega">
 <div class="heading">
-<span>Select your channel</span><a id="close" href="#"></a>
+<span>Select your channel...</span><a id="close" href="#"></a>
 </div><!-- /.heading -->
 <div class="content">
 <div class="expand-all collapsed">
@@ -172,21 +174,12 @@ Browse sports
 </div><!-- /.expand-all -->
 <div class="search">
 <div class="edge-left"></div>
-<input type="text" placeholder="" class="input" id="search">
+<input type="text" placeholder="Keyword" class="input" id="search">
 <div class="edge-right"></div>
 </div><!-- /.search -->
 <div class="clear"></div>
 <div class="separator"></div>
 <ul class="column" style="z-index: 10">
-<li class="category australian-rules-football arrow-down">
-<span class="category-name">Australian rules football</span>
-<ul class="channels-list" style="display: none;">
-<li class="channel afl ">
-<a class="channel-link " href="http://www.afl.livesport.tv">AFL</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-</ul><!-- /.channels-list -->
-</li><!-- /.category -->
 <li class="category boxing arrow-down">
 <span class="category-name">Boxing</span>
 <ul class="channels-list" style="display: none;">
@@ -205,10 +198,6 @@ Browse sports
 <ul class="channels-list" style="display: none;">
 <li class="channel big-bash-t20-cricket ">
 <a class="channel-link " href="http://www.kfctwenty20bigbash.livesport.tv">Big Bash T20 Cricket</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel cricket-australia ">
-<a class="channel-link " href="http://www.cricketaustralia.livesport.tv">Cricket Australia</a>
 <!--a class="channel-info" href="#">Inf</a-->
 </li><!-- /.channel -->
 </ul><!-- /.channels-list -->
@@ -233,36 +222,8 @@ Browse sports
 <a class="channel-link " href="http://www.aleague.livesport.tv">A League</a>
 <!--a class="channel-info" href="#">Inf</a-->
 </li><!-- /.channel -->
-<li class="channel argentinean-primera-division ">
-<a class="channel-link " href="http://www.argentineanprimeradivision.livesport.tv">Argentinean Primera Division</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel bolivian-torneo-adecuacion ">
-<a class="channel-link " href="http://www.boliviantorneoadecuacion.livesport.tv">Bolivian Torneo Adecuacion</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel campeonato-brasileiro ">
-<a class="channel-link " href="http://www.campeonatobrasileiro.livesport.tv">Campeonato Brasileiro</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel campeonato-paulista ">
-<a class="channel-link " href="http://www.campeonatopaulista.livesport.tv">Campeonato Paulista</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel chilean-primera-division ">
-<a class="channel-link " href="http://www.chileanprimeradivision.livesport.tv">Chilean Primera Division</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
 <li class="channel chinese-super-league ">
 <a class="channel-link " href="http://www.csl.livesport.tv">Chinese Super League</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel ecuadorian-primera-a ">
-<a class="channel-link " href="http://www.ecuadorianprimeraa.livesport.tv">Ecuadorian Primera A</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel ekstraklasa ">
-<a class="channel-link " href="http://www.ekstraklasa.livesport.tv">Ekstraklasa</a>
 <!--a class="channel-info" href="#">Inf</a-->
 </li><!-- /.channel -->
 <li class="channel eredivisie ">
@@ -273,39 +234,23 @@ Browse sports
 <a class="channel-link " href="http://www.jleague.livesport.tv">J League</a>
 <!--a class="channel-info" href="#">Inf</a-->
 </li><!-- /.channel -->
-<li class="channel mls ">
-<a class="channel-link " href="http://www.mls.livesport.tv">MLS</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel peruvian-primera-division ">
-<a class="channel-link " href="http://www.peruvianprimeradivision.livesport.tv">Peruvian Primera Division</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-<li class="channel serie-b ">
-<a class="channel-link " href="http://www.serieb.livesport.tv">Serie B</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
 <li class="channel soccer ">
 <a class="channel-link " href="http://www.soccer.livesport.tv">Soccer</a>
 <!--a class="channel-info" href="#">Inf</a-->
 </li><!-- /.channel -->
-<li class="channel uruguayan-primera-division ">
-<a class="channel-link " href="http://www.uruguayanprimeradivision.livesport.tv">Uruguayan Primera Division</a>
+</ul><!-- /.channels-list -->
+</li><!-- /.category -->
+<li class="category handball arrow-down">
+<span class="category-name">Handball</span>
+<ul class="channels-list" style="display: none;">
+<li class="channel ihf ">
+<a class="channel-link " href="http://www.handball.livesport.tv">IHF</a>
 <!--a class="channel-info" href="#">Inf</a-->
 </li><!-- /.channel -->
 </ul><!-- /.channels-list -->
 </li><!-- /.category -->
 </ul><!-- /.column -->
 <ul class="column" style="z-index: 9">
-<li class="category handball arrow-down">
-<span class="category-name">Handball</span>
-<ul class="channels-list" style="display: none;">
-<li class="channel ihf ">
-<a class="channel-link " href="http://www.livehandball.tv">IHF</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-</ul><!-- /.channels-list -->
-</li><!-- /.category -->
 <li class="category hockey arrow-down">
 <span class="category-name">Hockey</span>
 <ul class="channels-list" style="display: none;">
@@ -346,17 +291,6 @@ Browse sports
 </li><!-- /.channel -->
 </ul><!-- /.channels-list -->
 </li><!-- /.category -->
-</ul><!-- /.column -->
-<ul class="column" style="z-index: 8">
-<li class="category rugby-league arrow-down">
-<span class="category-name">Rugby League</span>
-<ul class="channels-list" style="display: none;">
-<li class="channel nrl ">
-<a class="channel-link " href="http://www.nrl.livesport.tv">NRL</a>
-<!--a class="channel-info" href="#">Inf</a-->
-</li><!-- /.channel -->
-</ul><!-- /.channels-list -->
-</li><!-- /.category -->
 <li class="category rugby-union arrow-down">
 <span class="category-name">Rugby union</span>
 <ul class="channels-list" style="display: none;">
@@ -370,6 +304,8 @@ Browse sports
 </li><!-- /.channel -->
 </ul><!-- /.channels-list -->
 </li><!-- /.category -->
+</ul><!-- /.column -->
+<ul class="column" style="z-index: 8">
 <li class="category snooker arrow-down">
 <span class="category-name">Snooker</span>
 <ul class="channels-list" style="display: none;">
@@ -397,6 +333,7 @@ About <span></span>
 <img id="site-logo" alt="" class="right">
 <div class="clear"></div>
 <div id="descr-body">
+This should be more detailed description of the message, you might want to keep it clear and concise
 </div><!-- /#descr-body -->
 <div id="descr-buttons">
 <a id="descr-continue" href="#">Continue</a>
@@ -440,7 +377,7 @@ Hi, <span class="myAccountNav_username"></span>
 <input id="login.username" class="username" type="text" name="login.username" placeholder="Email or Username">
 <label for="login.password">Password</label>
 <input id="login.password" class="password" type="password" name="login.password" placeholder="Password">
-<input type="hidden" name="login.successRedirectUrl" id="successRedirectUrl" value="http://www.livesport.tv/contact-us/privacy-policy">
+<input type="hidden" name="login.successRedirectUrl" id="successRedirectUrl" value="http://www.livesport.tv/contact-us/privacy-policy/">
 <input type="hidden" name="login.failureRedirectUrl" id="failureRedirectUrl" value="/login?error=1">
 <div class="rememberContain">
 <input id="rememberMe" type="checkbox" name="rememberMe" value="Remember me" class="left">
@@ -462,13 +399,13 @@ Hi, <span class="myAccountNav_username"></span>
     <h1>Contact us</h1>
     <ul>
             <li>
-                <a href="/contact-us/send-message" title="Send a message">Send a message</a>
+                <a href="/contact-us/send-message/" title="Send a message">Send a message</a>
             </li>
             <li>
-                <a href="/contact-us/terms-of-use" title="Terms of use">Terms of use</a>
+                <a href="/contact-us/terms-of-use/" title="Terms of use">Terms of use</a>
             </li>
             <li class="selected">
-                <a href="/contact-us/privacy-policy" title="Privacy policy">Privacy policy</a>
+                <a href="/contact-us/privacy-policy/" title="Privacy policy">Privacy policy</a>
             </li>
     </ul>
 </aside>      <div class="contactMain">
@@ -601,13 +538,13 @@ Hi, <span class="myAccountNav_username"></span>
   <!-- SiteCatalyst code version: H.2.
   Copyright 1997-2005 Omniture, Inc. More info available at
   http://www.omniture.com -->
-  <script src="/js/global/js/core/omniture.js"></script><img name="s_i_premiumtvlivesportportal" height="1" width="1" border="0" alt="" src="https://premiumtv.122.2O7.net/b/ss/premiumtvlivesportportal/1/H.2-pdv-2/s57995193599136?[AQB]&amp;ndh=1&amp;t=30/0/2020%2022%3A52%3A25%204%200&amp;ce=ISO-8859-1&amp;ns=premiumtv&amp;cdp=3&amp;pageName=Privacy%20policy&amp;g=https%3A//web.archive.org/web/20121017084009id_/http%253A//www.livesport.tv/contact-us/privacy-policy&amp;cc=GBP&amp;c1=http%3A//www.livesport.tv/contact-us/privacy-policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+  <script src="/js/global/js/core/omniture.js"></script><img name="s_i_premiumtvlivesportportal" height="1" width="1" border="0" alt="" src="https://premiumtv.122.2O7.net/b/ss/premiumtvlivesportportal/1/H.2-pdv-2/s52707848988139?[AQB]&amp;ndh=1&amp;t=30/0/2020%2022%3A52%3A27%204%200&amp;ce=ISO-8859-1&amp;ns=premiumtv&amp;cdp=3&amp;pageName=Privacy%20policy&amp;g=https%3A//web.archive.org/web/20130427102928id_/http%3A//www.livesport.tv/contact-us/privacy-policy/&amp;cc=GBP&amp;c1=http%3A//www.livesport.tv/contact-us/privacy-policy/&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
   <script>
   s.pageName="Privacy policy";
   s.channel="";
   s.server="";
   s.pageType="";
-  s.prop1="http://www.livesport.tv/contact-us/privacy-policy";
+  s.prop1="http://www.livesport.tv/contact-us/privacy-policy/";
   s.prop2="";
   s.prop3="";
   s.prop4="";
@@ -634,7 +571,6 @@ Hi, <span class="myAccountNav_username"></span>
   s.eVar8="";
   s.eVar9="";
   s.eVar10="";
-
 
   function updateOmnitureVideoStarted(duration, prop31StrSuffix) {
     var eventsStr="event11";
@@ -753,7 +689,7 @@ Hi, <span class="myAccountNav_username"></span>
   //--></script><!--/DO NOT REMOVE/-->
   <!-- End SiteCatalyst code version: H.2. -->
   
-<!-- Rendered: 17/10/2012 09:40:09 BST -->
+<!-- Rendered: 27/04/2013 11:29:28 BST -->
             
       
 </body></html>
