@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreengrid.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130175826id_/http%3A//www.thegreengrid.org/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreengrid.org privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427055736id_/http%3A//www.thegreengrid.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # The Green Grid › Privacy Policy
 
