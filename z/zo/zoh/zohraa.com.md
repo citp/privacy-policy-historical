@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zohraa.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218234713id_/http%3A//zohraa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zohraa.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427092100id_/http%3A//zohraa.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Online Shopping for women - The latest trends and designer collections at heavily discounted prices
+# Privacy Policy : Online Shopping for women - Latest Designer, wedding, bridal Sarees and Salwar Kameez on Sale | Indian salwar suits designs | Zohraa.com Bollywood Fashion
 
 Zohraa and its affiliates respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Zohraa. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Zohraa you agree to the collection and use of your data by Zohraa in the manner provided in this Privacy Policy.
 
