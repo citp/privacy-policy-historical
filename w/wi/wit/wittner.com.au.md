@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101172323id_/https%3A//www.wittner.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427035219id_/https%3A//www.wittner.com.au/help/privacy) for the most accurate reproduction.*
 
 # Help - Privacy | Wittner Shoes
 
