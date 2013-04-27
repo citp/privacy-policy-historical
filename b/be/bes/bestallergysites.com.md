@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestallergysites.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222174204id_/http%3A//www.bestallergysites.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestallergysites.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427120924id_/http%3A//www.bestallergysites.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Best Allergy Sites
+# Privacy Policy | Best Allergy Sites
 
 At Best Allergy Sites, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by Best Allergy Sites and how it is used.
 
