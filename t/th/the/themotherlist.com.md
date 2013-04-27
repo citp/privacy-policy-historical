@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themotherlist.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507131040id_/http%3A//www.themotherlist.com/index.php%3Fa%3D28%26b%3D141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themotherlist.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427064922id_/http%3A//themotherlist.com/index.php%3Fa%3D28%26b%3D141) for the most accurate reproduction.*
 
 # 
 
