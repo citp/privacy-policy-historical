@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mastiland.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123222835id_/http%3A//www.mastiland.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastiland.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428011447id_/http%3A//www.mastiland.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Masti N Fun Unlimited - Powered By phpFox
+# Privacy Policy » Masti N Fun Unlimited -
 
 This Privacy Policy governs the manner in which Mastiland.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.mastiland.com](http://www.mastiland.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Mastiland.com.
 
