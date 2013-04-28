@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the puff.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018203254id_/http%3A//www.puff.com/Content/Info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puff.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428035715id_/http%3A//www.puff.com/Content/Info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Info | Content
+# Privacy Policy | Info
 
 PRIVACY POLICY 
 
@@ -17,3 +17,12 @@ The Company does not sell, rent or lease its client lists to third parties. The 
 The Company keeps track of the websites and pages our client's visit, in order to determine what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. 
 
 The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of Puff Enterprises, but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public. 
+
+  
+|   |  |   | 
+
+  
+| 
+
+|  |   
+---|---|---
