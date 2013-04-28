@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexonia.com privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723101538id_/http%3A//www.nexonia.com/en/component/content/article/74.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexonia.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428211336id_/http%3A//www.nexonia.com/en/component/content/article/74.html) for the most accurate reproduction.*
 
 # Nexonia expense reports, timesheets, customer service - Privacy Policy
 
