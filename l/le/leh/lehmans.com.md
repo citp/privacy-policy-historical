@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023174429id_/http%3A//www.lehmans.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Lehmans.com
+# Privacy Policy
 
-This Privacy Policy covers the site [http://www.lehmans.com](http://www.lehmans.com/store/catalog?Args=) which is maintained by Lehman’s Hardware in Dalton Ohio.
+This Privacy Policy covers the site [http://www.lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) which is maintained by Lehman’s Hardware in Dalton Ohio.
 
 Because Lehman’s® would like to demonstrate its commitment to your privacy and the security of the information that you entrust to us, we are disclosing our information practices. Lehman’s® is committed to conforming to the standards of the Better Business Bureau (BBB) and the Direct Marketers Association (DMA)
 
@@ -52,7 +52,7 @@ Back to top...
 
 Information Collected in Order Processing
 
-Customers of [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) are presented with a choice of many fine products. You may make a purchase on our online store at any time of the day from any internet-enabled computer from anywhere in the world.
+Customers of [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) are presented with a choice of many fine products. You may make a purchase on our online store at any time of the day from any internet-enabled computer from anywhere in the world.
 
 Lehman’s® checkout process involves collecting sensitive information to allow us to ship your purchase to its destination as well as payment information. In the event that there is a problem with your order we may use the information collected to contact you. Lehman’s® will share only necessary information with the merchant bank for authorization and approval. Lehman’s will share the information necessary for delivery of your order with the shipping company that delivers it. Currently there are two ways that Lehman’s® customers can check out.
 
@@ -65,39 +65,39 @@ Information collected from Returning Account Holders:
 
 As a returning account holder, you can create an account that will retain your shipping and billing information but not credit card information. Registered users create a user name/password that provides you with access to stored addresses order histories and wish lists. When a new account is created the site will collect the following information:
 
-  * User Name and Password - if you are a registered user of [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) the site will collect a user name and password you create to access your account information.
+  * User Name and Password - if you are a registered user of [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) the site will collect a user name and password you create to access your account information.
   * First Name, Middle Initial ( _optional_ ), and Last Name
   * Optional company information
   * Mailing Address information including Street Address, City, State or Province, Zip or Postal Code, and Country - this is required for billing your credit card.
   * Telephone Number - we ask for a telephone number so we may easily contact you in the event of an order problem.
-  * Email Address - [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) will send you an order confirmation, shipping confirmation and thank you via email.
+  * Email Address - [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) will send you an order confirmation, shipping confirmation and thank you via email.
   * If you require your order to be shipped to a separate address from the billing address the site will collect the additional information to complete your request.
   * The site will also give you an opportunity to sign up for Lehman’s® newsletter and/or sales and specials, and email updates. If you do not wish to be included on the email list leave the appropriate check box unchecked at _Step 1_ of Lehman’s® checkout. If you would like to opt-out of an existing mailing list Click Here for more information.
-  * After determining the method you would like to use for shipping your purchase, the site will ask for a payment method. Lehman’s® uses SSL (Secure Socket Layer) to encrypt the information transmitted over the internet. Secure Socket Layer (SSL) means that the data transmitted between [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) and our customer’s browser is encrypted  
+  * After determining the method you would like to use for shipping your purchase, the site will ask for a payment method. Lehman’s® uses SSL (Secure Socket Layer) to encrypt the information transmitted over the internet. Secure Socket Layer (SSL) means that the data transmitted between [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) and our customer’s browser is encrypted  
 In most browsers, a padlock or key icon tells you that you're connected to a secure web site.
 
 
 
 Information collected from Guest Accounts:
 
-[Lehmans.com](http://www.lehmans.com/store/catalog?Args=) offers our customers the option to make a purchase without creating an account. If a customer returns to [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) to make a purchase they will need to enter the shipping/billing address as well as payment information. Lehman’s® recommends creating an account, which is more convenient for most people.  
+[Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) offers our customers the option to make a purchase without creating an account. If a customer returns to [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) to make a purchase they will need to enter the shipping/billing address as well as payment information. Lehman’s® recommends creating an account, which is more convenient for most people.  
 The information collected from a guest is the same as the information collected from a registered user with the exception of the user name/password. A guest user will not have access to order histories, stored addresses or wish lists offered to the registered users.
 
 Back to top...
 
 Information Collected via Cookies
 
-Cookies are small packets of information which are stored on the user’s computer. [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) uses cookies to store selected product information on your hard drive as well as to remember your preferences. When you select a product from our online store the web site will set a cookie on your computer containing a unique ID and information about the order. 
+Cookies are small packets of information which are stored on the user’s computer. [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) uses cookies to store selected product information on your hard drive as well as to remember your preferences. When you select a product from our online store the web site will set a cookie on your computer containing a unique ID and information about the order. 
 
-[Lehmans.com](http://www.lehmans.com/store/catalog?Args=) uses a service to assist our customers as they browse the web site. This service sets a cookie on your computer to help Lehman’s assist you.
+[Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) uses a service to assist our customers as they browse the web site. This service sets a cookie on your computer to help Lehman’s assist you.
 
-Some of Lehman’s® business partners (e.g., advertisers) use cookies on our site. We have no access or control over these cookies. This privacy policy only covers cookies set by [Lehmans.com](http://www.lehmans.com/store/catalog?Args=)
+Some of Lehman’s® business partners (e.g., advertisers) use cookies on our site. We have no access or control over these cookies. This privacy policy only covers cookies set by [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\])
 
 Back to top...
 
 Information Collected via Internet Log files
 
-In order to effectively manage an Online Web Service, it is necessary to get feedback about the activity and performance of the web site as well as any problems that may be occurring. [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) tracks how our customers use the web site. The information that is collected is not linked to Personally Identifiable Information.
+In order to effectively manage an Online Web Service, it is necessary to get feedback about the activity and performance of the web site as well as any problems that may be occurring. [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) tracks how our customers use the web site. The information that is collected is not linked to Personally Identifiable Information.
 
 Back to top...
 
@@ -121,25 +121,25 @@ Back to top...
 
 Policy on Links
 
-Occasionally [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) will provide links to external web sites that are not covered under this Privacy Policy. Often these links are for the convenience of our guests, and the sites that Lehman’s® will link to contain information we feel is beneficial. However, Lehman’s® cannot control the policies of these sites as they are maintained by external sources, nor can we be responsible for the content of the sites. Lehman’s® encourages guests that navigate to these external sites to consult the Privacy Policy of the site they are visiting for information and practices.
+Occasionally [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) will provide links to external web sites that are not covered under this Privacy Policy. Often these links are for the convenience of our guests, and the sites that Lehman’s® will link to contain information we feel is beneficial. However, Lehman’s® cannot control the policies of these sites as they are maintained by external sources, nor can we be responsible for the content of the sites. Lehman’s® encourages guests that navigate to these external sites to consult the Privacy Policy of the site they are visiting for information and practices.
 
 Back to top...
 
 Policy concerning children
 
-[Lehmans.com](http://www.lehmans.com/store/catalog?Args=) does not sell products for purchase by children. Lehman’s® does sell many products oriented toward children, but these products are for purchase by adults only. If you are under the age of 18 you may use [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) only in the presence of a consenting parent or legal guardian. Lehman’s® will not knowingly or intentionally collect Personally Identifiable Information from children under the age of 18.
+[Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) does not sell products for purchase by children. Lehman’s® does sell many products oriented toward children, but these products are for purchase by adults only. If you are under the age of 18 you may use [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) only in the presence of a consenting parent or legal guardian. Lehman’s® will not knowingly or intentionally collect Personally Identifiable Information from children under the age of 18.
 
 Back to top...
 
 Information Accuracy
 
-[Lehmans.com](http://www.lehmans.com/store/catalog?Args=) recognizes that information is subject to change. We offer our customers several tools to update the information that Lehman’s® maintains. If you have a registered account on [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) you may use the online tool any time of day to view and modify the information. You may also inform Lehman’s® of information updates or get help using the tools by email, live chat postal mail, or toll-free telephone. Lehman’s® will gladly perform the updates or provide assistance.
+[Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) recognizes that information is subject to change. We offer our customers several tools to update the information that Lehman’s® maintains. If you have a registered account on [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) you may use the online tool any time of day to view and modify the information. You may also inform Lehman’s® of information updates or get help using the tools by email, live chat postal mail, or toll-free telephone. Lehman’s® will gladly perform the updates or provide assistance.
 
 Back to top...
 
 Online Tool
 
-Lehman’s® web site provides registered users of [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) with a tool to view information that is related to their account including personal information, address books, order information, wish list, and history etc. This tool can be accessed by using the [My Account](http://www.lehmans.com/store/member/login?Args=) link located on every page of the web site. This tool can only be used by customers that have registered with [Lehmans.com](http://www.lehmans.com/store/catalog?Args=).
+Lehman’s® web site provides registered users of [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) with a tool to view information that is related to their account including personal information, address books, order information, wish list, and history etc. This tool can be accessed by using the [My Account](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[if%20value%20MemberID%20eq%2099\]\[url%20member/login\]\[else\]\[url%20member/my_account\]\[/else\]\[/if\]) link located on every page of the web site. This tool can only be used by customers that have registered with [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]).
 
 Back to top...
 
@@ -147,7 +147,7 @@ Other Tools
 
 Lehman’s® is committed to our customers, and we want to hear from you. You may submit information updates or any requests by email [info@lehmans.com](mailto:info@lehmans.com?subject=information%20changes). We provide a tool to [chat with us live](http://server.iad.liveperson.net/hc/1351182/?cmd=file&file=visitorWantsToChat&site=1351182&byhref=1&VISITORVAR!email=privacypolicy) during business hours.   
 We can also be contacted by toll free telephone at 1-888-438-5346.  
-Customers may also contact us by postal mail at the following address: 
+Customers may also contact us by postal mail at the following address:
 
 Lehman’s®  
 289 Kurzen Road North  
@@ -163,7 +163,7 @@ Back to top...
 
 Rejecting Cookies
 
-If you wish, you may choose to reject cookies through your browser preferences or internet security software. You may still browse our online store, however, online purchases will not be possible because [Lehmans.com](http://www.lehmans.com/store/catalog?Args=) shopping cart checkout requires cookies to be enabled. You may telephone an order to our operators by calling 1-888-438-5346.
+If you wish, you may choose to reject cookies through your browser preferences or internet security software. You may still browse our online store, however, online purchases will not be possible because [Lehmans.com](https://web.archive.org/web/20130428084905id_/https%3A//www.lehmans.com/\[url%20catalog\]) shopping cart checkout requires cookies to be enabled. You may telephone an order to our operators by calling 1-888-438-5346.
 
 Back to top...
 
@@ -215,5 +215,3 @@ Email | Toll Free Telephone | Postal Mail
 Dalton, Ohio 44618  
   
 Back to top...
-
-Thank you. 
