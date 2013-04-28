@@ -1,38 +1,28 @@
-> *The following text is extracted and transformed from the saashr.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231135023id_/http%3A//www.saashr.com/shr2/inside.jsp%3Fpage%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saashr.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428030029id_/http%3A//www.saashr.com/shr2/inside.jsp%3Fpage%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | SaaShr
 
 ## Privacy Policy
 
-Effective Date: 03/20/2012 
+Effective Date: 03/1/2013 
 
 [ ](http://privacy.truste.com/privacy-seal/SaaShr-com/validation?rid=c7cdf543-40d8-4344-ba80-914852573bbb "Validate TRUSTe privacy certification")
 
 Data privacy is very important to SaaS _hr_. Website visitors are invited to review this web document to learn about SaaS _hr_ 's information gathering and disbursement policy for SaaS _hr_ with regard to this website. 
 
-SaaS _hr_ has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and its practices have been reviewed by TRUSTe for compliance with 
+SaaS _hr_ has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability, and choice regarding the collection and use of website visitor personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. 
 
-[_TRUSTe's program requirements_](http://www.truste.com/privacy-program-requirements/)
+If you have questions or complaints regarding SaaS _hr_ 's privacy policy or practices, please contact SaaS _hr_ at 3040 Route 22 West, Suite 200, Branchburg, NJ 08876. If you are not satisfied with SaaS _hr_ 's response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through the SaaS _hr_ website and does not cover the use and collection of personal information through its applications. 
 
-, including transparency, accountability, and choice regarding the collection and use of website visitor personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. 
-
-If you have questions or complaints regarding SaaS _hr_ s privacy policy or practices, please contact SaaS _hr_ at 3040 Route 22 West, Suite 200, Branchburg, NJ 08876. If you are not satisfied with SaaS _hr_ 's response, you can contact 
-
-[_TRUSTe here_](https://feedback-form.truste.com/watchdog/request)
-
-. The TRUSTe program covers only information that is collected through the SaaS _hr_ website and does not cover the use and collection of personal information through its applications. 
-
-SaaS _hr_ complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union. SaaS _hr_ has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SaaS _hr_ s certification, please visit 
-
-[_http://export.gov/safeharbor_](http://export.gov/safeharbor)
-
-. 
+SaaS _hr_ complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union. SaaS _hr_ has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SaaS _hr_ 's certification, please visit [http://export.gov/safeharbor](http://export.gov/safeharbor/). 
 
 ## Information We Collect and How We Use It
 
 When a website visitor contacts SaaS _hr_ for additional information related to SaaS _hr_ products and/or services, he or she is requested to provide specific contact information. This contact information includes a contact name, email address, and phone number, which is used by SaaS _hr_ to respond to the inquiry. 
 
 Each user, including SaaS _hr_ partners and their end-user client companies, where appropriate, who provided his or her contact information may opt-out of receiving specific mailings by sending an email request to be removed from future mailings. Unless otherwise agreed to by electronic signature, contact information gathered is not shared with outside organizations or sold to third parties. 
+
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
 ## Access to Personally Identifiable Information
 
@@ -52,7 +42,7 @@ SaaS _hr_ reserves the right to disclose user personally identifiable informatio
 
 ## Business Transitions
 
-In the event SaaS _hr_ goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, users' personally identifiable information might be among the assets transferred. Users who are on the current list of recipients of communications referenced earlier will be notified via e-mail or prominent notice on the SaaS _hr_ website for 30 days of any such change in ownership or control of users personal information. 
+In the event SaaS _hr_ goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, users' personally identifiable information might be among the assets transferred. Users who are on the current list of recipients of communications referenced earlier will be notified via e-mail or prominent notice on the SaaS _hr_ website for 30 days of any such change in ownership or control of users' personal information. 
 
 ## Security
 
@@ -64,19 +54,27 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 SaaS _hr_ uses session ID cookies to enable session tracking for SaaS _hr_ customers who login using its website. A session ID cookie expires when a user closes their browser. SaaS _hr_ does not use cookies to monitor a user navigating the website outside of its business applications. If a user rejects cookies, the user may still use SaaS _hr_ 's web site, but the user's ability to login and use the SaaS _hr_.com business application may be limited. 
 
+SaaS _hr_ also uses persistent cookies for visitors who do not login into SaaS _hr_ application. Persistent cookies are data that may be sent to your web browser and stored on your computer. You can remove persistent cookies by following directions provided in your Internet browsers help directory. Please see more about cookies at this website: <http://en.wikipedia.org/wiki/HTTP_cookie>. 
+
+## 3rd Party Tracking
+
+Our Service Providers use both session ID and persistent cookies to make it easier for you to navigate our site, in order to provide customized user experience for you. The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. 
+
+Our third party Service Providers employ clear gifs (a.k.a. Web Beacons) that help them better manage content on our site. With Web Beacons, when a visitor accesses certain pages on the Site an anonymous notice of that visit is generated which may be processed by us or by our Service Providers. Web beacons work in conjunction with cookies to let us know what portions of our Site are of interest to you and to help us provide you with tailored information from our website. Most web browsers can be configured not to accept cookies, or to notify you if a cookie is sent to you. If you turn off cookies, web beacon technologies will still detect anonymous visits, but the notices they generate cannot be associated with other anonymous information or personally-identifiable information and are disregarded. 
+
 ## Web Beacons
 
-SaaS _hr_ employs, Google Analytics, a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a users computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers personally identifiable information. To learn more about our advertising companys use of clear gifs, please go to 
-
-[_http://www.google.com/analytics_](http://www.google.com/analytics/)
-
-. 
+SaaS _hr_ employs, Google Analytics, a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a users computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers personally identifiable information. To learn more about our advertising companys use of clear gifs, please go to [http://www.google.com/analytics](http://www.google.com/analytics/). 
 
 ## Log Files
 
 As is true of most websites, SaaS _hr_ gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser types, internet service providers (ISP), referring/exit pages, operating systems, date/time stamp, and click stream data. 
 
 SaaS _hr_ uses this information, which does not identify individual users, to analyze web site visitor trends and to track users' movements on the outside-facing website. 
+
+We may also disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability. 
+
+You can use the Site without providing any Personal Data; however, you may not be able to use certain Services. 
 
 ## Links to Other Sites
 
