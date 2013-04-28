@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018120623id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
 
-Last updated: 17 May 2012
+###  Privacy Policy
+
+Last updated: 12 February 2013
 
 ##  Introduction
 
-OfferX recognizes that your privacy and the protection of your personal information is important to you. OfferX takes your privacy seriously, taking every reasonable precaution to safeguard the personal information that you provide. OfferX complies fully with the Data Protection Act 1998. If you wish to find out more regarding the Data Protection Act please visit [ http://www.ico.gov.uk](http://www.ico.gov.uk/)
+Marketing Punch recognizes that your privacy and the protection of your personal information is important to you. Marketing Punch takes your privacy seriously, taking every reasonable precaution to safeguard the personal information that you provide. Marketing Punch complies fully with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. If you wish to find out more please visit [ http://www.ico.gov.uk](http://www.ico.gov.uk/)
 
-This statement discloses how OfferX helps to protect your personal information while using the OfferX website(s).
+This statement discloses how Marketing Punch helps to protect your personal information while using the OfferX website.
 
 ##  Collected Data
 
-OfferX collects, store and uses data about you and answers to specific questions asked by sponsors. OfferX and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [click here](https://web.archive.org/web/20121018120623id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
+Marketing Punch collects, store and uses data about you and answers to specific questions asked by sponsors. Marketing Punch and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [unsubscribe here](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
 
-Sponsors of OfferX have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
+Sponsors of the OfferX website have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
 
-Your data together with that of other subscribers may be aggregated at Postcode or other levels for the building of statistical and analytical tables. At no time will your data be individually identifiable in such tables.
+Your data together with that of other subscribers may be aggregated at postcode or similar levels for the building of statistical and analytical tables. At no time will your data be individually identifiable in such tables.
 
 ##  Registration Information
 
-When you are registering with OfferX, it is not until you click the 'Join' button that your information is transferred. Once you have completed and submitted all your details you have then "completed" the registration confirming you are a valued member of OfferX.
+When you are registering with the OfferX website, it is not until you click the submit button that your information is transferred to the website. Once you have completed and submitted all your details you have then "completed" the registration confirming you are a valued member of OfferX.
 
-OfferX may use other reputable partners to provide its services in connection with the registration. However this will not affect your statutory rights under the Data Protection Act.
+Marketing Punch may use other reputable partners to provide its services in connection with your registration. However this will not affect your statutory rights under the Data Protection Act.
 
-##  Use of personal information
+##  Use of your personal information
 
-We use personal information collected via offerx.co.uk to:
+We use your personal information collected via the OfferX website to:
 
   * Provide you with information about the products and services we offer
   * Provide you with a more personalised service
@@ -40,51 +42,45 @@ We use personal information collected via offerx.co.uk to:
 
 ##  General disclosure of personal information
 
-##  Personally identifiable information
+We share personally identifiable information with selected third-parties. We also share the information that you have answered in the questionnaires with the relevant client. The clients and third parties use this information so as to send you personally-tailored communications.
 
-We share personally identifiable information with selected third-parties. We also share the information that you have answered in the questionnaires with the relevant client. The clients and third parties use this to profile you, this enables them to send you targeted communications.
+Once you register with the OfferX website you consent to Marketing Punch Ltd, its clients and selected third parties being able to send you communications via email, post or telephone, until such times as you exercise your right to opt-out of receiving such communications.
 
-Once you register with OfferX you consent to OfferX Ltd, its clients and selected third parties being able to send you communications via email, post or telephone.
+The collection of data by Marketing Punch through registration on third party sites may lead to your data also being held by that third party site.
 
-The collection of data by OfferX through registration on third party sites may lead to your data also being held by that third party site.
-
-The data that you provide to OfferX is held by both OfferX and the sponsors, of the questionnaires that you answer. OfferX holds your data in a central database and this database is only accessed by reference to interest or demographic categories in order to provide you with information about those interests you have selected. The process of supplying you with this information is at all times under the control of OfferX although specialist third party suppliers may carry out the dispatch.
+The data that you provide to Marketing Punch is held by both Marketing Punch and the sponsors of the questionnaires that you answer. Marketing Punch holds your data in a central database and this database is only accessed by reference to interest or demographic categories in order to provide you with information about those interests you have selected. The process of supplying you with this information is at all times under the control of Marketing Punch although specialist third party suppliers may carry out the dispatch.
 
 ##  Security and storage of your personal information
 
-OfferX is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
+Marketing Punch is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
 
-The Internet is not a 100% secure medium for communication and, accordingly, OfferX cannot guarantee the security of any information you send to OfferX via the Internet. OfferX is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
+The Internet is not a 100% secure medium for communication and, accordingly, Marketing Punch cannot guarantee the security of any information you send to the OfferX website via the Internet. Marketing Punch is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
 ##  Sponsored Questionnaires and Co-branded sites
 
-Every user must agree to the following statement before completing their OfferX registration:
+At times it may be appropriate for Marketing Punch, its clients or sponsors to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other portable devices.
 
-“By registering and entering your details you consent to OfferX, its clients and third parties sending you information about products and/or services that have been selected based on your stated interests. You also agree to the terms and conditions of the privacy that govern how your information will be processed.”
+You give your consent that Marketing Punch or any third party it provides data to may contact you by post or telephone. Where your telephone number is not provided, Marketing Punch or a third party may seek to append your telephone number from a third party source. You accept that Marketing Punch or a selected third party may contact you by phone on our behalf or in partnership with Marketing Punch with an offer of their own, and may choose not to suppress you against the Telephone Preference Service, whilst you are a member of the OfferX website.
 
-At times it may be appropriate for OfferX, its clients or sponsors to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other PDA devices.
+Your data may be provided to clients of Marketing Punch to be appended to information they already hold about you for the purpose of contacting you with information about their products and services. When first contacting you these clients will seek your appropriate consent.
 
-You give your consent that OfferX or any third party it provides data to may contact you by post or telephone. Where your telephone number is not provided, OfferX or a third party may seek to append your telephone number from a third party source. You accept that OfferX or a selected third party may contact you by phone on our behalf or in partnership with OfferX with an offer of their own, and may choose not to suppress you against the Telephone Preference Service, whilst you are a member of OfferX.
+Marketing Punch may from time to time use third party suppliers to provide all or part of a service to you. Marketing Punch will only supply such of your personal information as is necessary to enable them to provide the relevant service to you.
 
-Your data may be provided to clients of OfferX to be appended to information they already hold about you for the purpose of contacting you with information about their products and services. When first contacting you these clients will seek your appropriate consent.
+You should be aware that such outside service providers might be based in countries outside the European Union whose laws provide for a different standard of protection for your personal data than that provided under English law. In such circumstance Marketing Punch will have in place contractual arrangements which will require your data to be processed at least to a standard compliant with the Data Protection Act 1998.
 
-OfferX may from time to time use third party suppliers to provide all or part of a service to you. OfferX will only supply such of your personal information as is necessary to enable them to provide the relevant service to you.
-
-You should be aware that such outside service providers might be based in countries outside the European Union whose laws provide for a different standard of protection for your personal data than that provided under English law. In such circumstance OfferX will have in place contractual arrangements which will require your data to be processed at least to a standard compliant with the Data Protection Act 1988.
-
-Except as provided above, OfferX will not provide your personal information to any third party without your prior consent, however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers OfferX will comply with any such legally binding request.
+Except as provided above, Marketing Punch will not provide your personal information to any third party without your prior consent, however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers Marketing Punch will comply with any such legally binding request.
 
 ##  Managing your personal information
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us.
+Under the Data Protection Act 1998, you are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us via the [Contact Page](http://www.offerx.co.uk/documents/contact-us) or email [contact@offerx.co.uk](mailto:contact@offerx.co.uk).
 
 ##  Use of your responses
 
-OfferX collects data about you, including answers to specific questions asked by OfferX's sponsors. This information is used to assist OfferX and third parties in sending you by, email, sms, voice, post or other appropriate means, communications about their products and services, to assist in the providence of a personalised service. The information that OfferX collects maybe demographic (information about you, such as name, age and address) and lifestyle (information about your interests and purchasing habits).
+Marketing Punch collects data about you, including answers to specific questions asked by Marketing Punch's sponsors. This information is used to assist Marketing Punch and third parties in sending you by, email, sms, voice, post or other appropriate means, communications about their products and services, in order to provide you with a personalised service. The information that Marketing Punch collects maybe demographic (information about you, such as name, age and address) and lifestyle (information about your interests and purchasing habits).
 
 ##  Cookies
 
-A cookie is a small text-only file which is stored on your computer when visiting a website to help it function or to track your visits. OfferX requires cookies to work correctly. By opting-in to OfferX you agree to the use of cookies by OfferX. The table below explains the cookies that are used.
+A cookie is a small text-only file which is stored on your computer or mobile device when visiting a website to help it function or to track your visits. The OfferX website requires cookies to work correctly. By opting-in to the website you agree to the use of cookies by Marketing Punch. Further information can be obtained at [www.addaboutcookies.org](http://www.allaboutcookies.org/). The table below explains the cookies that are used.
 
 Cookie |  Name |  Purpose  
 ---|---|---  
@@ -110,15 +106,6 @@ Network Punch |  Enc_aff_session_nnn |
 
 Network Punch uses cookies to track the source of your visit to the OfferX website.  
   
-Go Viral |  PHPSESSID  
-NSC_wjq_mpoxfc_80 | 
-
-Go Viral use cookies to anonymously track how you use their player.  
-  
-AddThis |  __atuvc | 
-
-This cookie is used for AddThis social media bookmarks.  
-  
 Essential site cookies |  cookiesenabled  
 PrizePunch  
 ASP.NET_SessionId  
@@ -130,7 +117,7 @@ These cookies are essential for the operation of the OfferX website.
 
 You may at any time deregister from OfferX by using the following link: [ unsubscribe](http://www.offerx.co.uk/unsubscribe). The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further communications from OfferX.
 
-Every email the OfferX sends contains a link to unsubscribe and a link to this privacy policy.
+Every email that OfferX sends contains a link to unsubscribe and a link to this privacy policy.
 
 ##  Web Beacons
 
@@ -138,27 +125,61 @@ OfferX web pages, emails and newsletters may contain electronic images known as 
 
 OfferX may also employ web beacons from third parties in order to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns. We prohibit web beacons on our sites from being used by third-parties to collect or access your personal information.
 
-Finally, we may work with other companies that advertise on the OfferX website to place web beacons on their sites in order to allow us to determine the effectiveness promotional campaigns.
+Finally, we may work with other companies that advertise on the OfferX website to place web beacons on their sites in order to allow us to determine the effectiveness of promotional campaigns.
 
 ##  Changes to this Privacy Policy
 
-OfferX will occasionally update this privacy policy. When we do, we will also revise the last updated date at the top of this page. OfferX will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection.
+Marketing Punch will occasionally update this privacy policy. When we do, we will also revise the last updated date at the top of this page. Marketing Punch will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection.
 
 ##  Data Controller
 
-The data controller responsible for OfferX is OfferX Ltd who registration number is Z8889311.
+The data controller responsible for the OfferX website is Marketing Punch Ltd ("Marketing Punch"), whose registration number at the UK Information Commissioner's Office (ICO) is Z1503626.
 
 ##  Further Information
 
-If you have questions regarding this privacy policy, please contact OfferX by following this link:
+If you have questions regarding this privacy policy, please contact Marketing Punch by following this link:
 
-[Contact OfferX](http://www.offerx.co.uk/documents/contact-us)
+[Contact Page](http://www.offerx.co.uk/documents/contact-us)
 
 or by post:
 
-OfferX Ltd  
+Marketing Punch Ltd  
 Kestrel Court  
 Waterwells Drive  
 Gloucester  
 GL2 2AT  
 
+
+###  Today's Daily Prize
+
+The next prize will be won in:
+
+####  Win a HD Pocket Camcorder!
+
+[ Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/documents/daily-prize)
+
+###  Free Competitions
+
+#### Money Competitions
+
+##### Win £15,000 cash
+
+Get your hands on £15,000 cash! Win a lump of cash to spend on whatever you like; pay off your mortgage, go on an amazing holiday, buy a new car...
+
+[Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/money-competitions/18521-win-15000-cash)
+
+#### Lifestyle Competitions
+
+##### Win unlimited cinema passes!
+
+Don’t miss your chance to watch the latest movie releases on the big screen for free! Your prize includes two unlimited cinema passes valid for 12...
+
+[Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/lifestyle-competitions/19941-win-unlimited-cinema-passes)
+
+#### Electronic & Gadgets Competitions
+
+##### Win a HP TouchSmart Desktop PC
+
+Win an HP TouchSmart desktop computer! With amazing touch technology and a sleek design the HP TouchSmart 520 is lighter...
+
+[Enter Competition](https://web.archive.org/web/20130428092113id_/http%3A//www.offerx.co.uk/electronic-and-gadgets-competitions/18821-win-a-hp-touchsmart-desktop-pc)
