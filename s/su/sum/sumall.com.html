@@ -1,33 +1,113 @@
-<!--The following is the downloaded HTML source of the sumall.com privacy policy that was archived on 2012-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121107065313id_/https%3A//sumall.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sumall.com privacy policy that was archived on 2013-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130428062654id_/https%3A//sumall.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+            <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">
+        var sumallAB = { active : false,
+            addCSSRule: function(sheet, selectorText, value) {
+                if (sheet.insertRule) sheet.insertRule(selectorText + ' {' + value + '}', sheet.cssRules.length);
+                else if (sheet.addRule) sheet.addRule(selectorText, value, sheet.rules.length);
+            },
+            cookie: {
+                get: function(n){var a = document.cookie.split(';');for(var i=0;i<a.length;i++){var t=a[i].split('=');if(n==t[0].replace(/^\s+|\s+$/g,'')){if(t.length==1)return ""; return t[1];}}return null;},
+                set:function(n,v,exp,p,d) {document.cookie=n+"="+v+(exp?"; expires="+exp.toGMTString():"")+(p?"; path="+p:"; path=/")+(d?"; domain="+d:"");}
+            }
+        };
+
+
+
+
+        // --------------
+        // check for auto-control group bucketing from email campaign...
+        // todo: this is a short term patch that is needed ASAP that probably needs a longer term answer
+        var resetCookie = false;
+        var docLocation = (document.location+'');
+        if (docLocation.indexOf('?') > -1) {
+            if (docLocation.substring(docLocation.indexOf('?')+1).indexOf('ecomemail201303') > -1) {
+                sumallAB.experimentId = '190560962';
+                sumallAB.variationId = '190607302';
+                resetCookie = true;
+            }
+        }
+        // --------------
+
+
+        // if not already set, fetch from cookies...
+        if (sumallAB.experimentId == undefined || sumallAB.variationId == undefined) {
+            sumallAB.experimentId = sumallAB.cookie.get('abExp');
+            sumallAB.variationId = sumallAB.cookie.get('abVar');
+        }
+
+        if (sumallAB.experimentId && sumallAB.variationId) {
+            // force optimizely because it's not setting things very well...
+            window['optimizely'] = window['optimizely'] || [];
+            window['optimizely'].push(["bucketVisitor", sumallAB.experimentId, sumallAB.variationId]);
+        }
+
+
+        // --------------
+        // todo: part of the fixed bucketing patch at line 20
+        if (resetCookie) {
+            // clear these values and the cookie gets set
+            sumallAB.experimentId = undefined;
+            sumallAB.variationId = undefined;
+        }
+        // --------------
+
+
+        
+    </script>
+    <script src="//cdn.optimizely.com/js/189908399.js"></script>
+    <script type="text/javascript">
+        // optimizely has run, see what it chose for the user...
+        try {
+            if (window['optimizely'].data.state.activeExperiments && window['optimizely'].data.state.activeExperiments.length > 0) {
+                sumallAB.active = true;
+
+
+                if (!sumallAB.experimentId || !sumallAB.variationId) {
+                    // cookie setting is the simple case of one experiment, one variation...
+                    sumallAB.experimentId = sumallAB.experimentsMap = window['optimizely'].data.state.activeExperiments[0] +'';
+                    sumallAB.variationId = window['optimizely'].data.state.variationIdsMap[sumallAB.experimentId][0];
+
+                    // remember it properly because optimizely is not...
+                    sumallAB.cookie.set('abExp', sumallAB.experimentId, new Date(2020,1,1,1,1,1,1));
+                    sumallAB.cookie.set('abVar', sumallAB.variationId, new Date(2020,1,1,1,1,1,1));
+                }
+            }
+        } catch (e) {}
+    </script>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta http-equiv="cleartype" content="on">
         <title>Privacy Policy | SumAll</title>
-        <meta name="description" content="SumAll takes customer privacy very seriously. Learn more about our privacy policy here.">
+        <meta name="description" content="We take customer privacy seriously, read through our policy and share your thoughts">
         <meta name="author" content="SumAll">
         <meta name="google" value="notranslate">
         <meta name="viewport" content="width=1200">
+        
         <link rel="shortcut icon" href="/favicon.ico">
         <meta property="og:title" content="SumAll">
         <meta property="og:site_name" content="SumAll">
         <meta property="og:type" content="website">
         <meta property="og:image" content="https://sumall.com/public/external/img/identity/sumall_seal_100x100.png">
         <meta property="og:url" content="https://sumall.com/">
-        <meta property="og:description" content="SumAll is a business reporting tool used by thousands of online merchants like you.">
+        <meta property="og:description" content="SumAll is a connected data tool that helps thousands make better decisions.">
         <!-- 1140px Grid styles for IE -->
         <!--[if lte IE 9]><link rel="stylesheet" href="/public/external/css/ie.css" type="text/css" media="screen" /><![endif]-->
-        <link rel="stylesheet" href="/public/external/css/1140.css" type="text/css" media="screen">
-        <link rel="stylesheet" href="/public/stylesheets/ui.css">
-        <link rel="stylesheet" href="/public/external/css/website.css">
-        <link rel="stylesheet" href="/public/external/css/website-override.css">
-        <link rel="stylesheet" href="/public/external/css/chosen.css">
+        <link rel="stylesheet" href="/public/external/css/1140.css?v=v2.5.17-1" type="text/css" media="screen">
+        <link rel="stylesheet" href="/public/stylesheets/ui.css?v=v2.5.17-1">
+        <link rel="stylesheet" href="/public/external/css/website.css?v=v2.5.17-1">
+        <link rel="stylesheet" href="/public/external/css/website-override.css?v=v2.5.17-1">
+        <link rel="stylesheet" href="/public/external/css/chosen.css?v=v2.5.17-1">
 
 
-
-        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="/public/javascripts/common/modernizr-2.6.2.custom.min.js"></script>
+        <script src="/public/javascripts/includes/modernizr-2.6.2.custom.min.js?v=v2.5.17-1"></script>
+        <!-- Mixpanel script -->
+        <script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,
+e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("27fb2d7358e74e341f5041b6b89f832f");</script>
     <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body class="clearfix">
         <div class="outer_wrapper">
@@ -36,19 +116,21 @@
 
 
 
+
+
 <div id="accountSignup" class="secureSignup hidden clearfix">
+
+    
 
     <div class="sign_up_support">
         <p>Help &nbsp; <a href="mailto:support@sumall.com">support@sumall.com</a> &nbsp; <button class="toggle_telephone_number">+1 917 719 0255</button></p>
     </div>
 
-    <div class="load_seal"><p class="sumall_icon">@</p></div>
-    
     <form method="POST" action="/signup/register" class="secure_signup_form" novalidate="">
-        <input type="hidden" name="authenticityToken" value="b87e91c8d3fb2705d5e35b9943e794a81f8d902d">
-
-
         <fieldset>
+            <input type="hidden" name="authenticityToken" value="b0ca85e37c07e2f63ba110aa0fcf575351b17239">
+
+
             <div class="signup_first_last_name">
                 <input type="text" value="" id="firstName" name="firstName" title="&nbsp;First name" autofocus="autofocus">
                 <div class="vertical_line"></div>
@@ -298,55 +380,86 @@
                 <label><input type="checkbox" value="true" id="agreement" name="agreement"> I agree to the <a href="/terms" target="_blank">Terms of Service</a> and <a href="/privacy" target="_blank">Privacy Policy</a>.</label>
                 <p class="form_error agreementError">Agreement required for account creation</p>
             </div>
-            
-            
-            <input type="hidden" name="channel" value="ORGANIC">
-            <input type="hidden" name="referrer" id="referrer">
-            <input type="hidden" name="landingPage" id="landingPage">
-            
 
-            <button type="submit" class="signUpButton primary_button">Begin Experience</button>
+            <button type="submit" class="signUpButton b3 green primary_button">Create Account</button>
         </fieldset>
-            
+        <div class="trust_seals_container">
+            <!-- Test how trust seals effect signup form conversion
+            <div id="360a49f4-639f-4762-8413-d667036babe7" class="truste_seal">
+                <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/SumAll/asc?rid=360a49f4-639f-4762-8413-d667036babe7"></script><a href="//privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" id="image1" src="//privacy-policy.truste.com/privacy-seal/SumAll/seal?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" alt="TRUSTe online privacy certification"/></a>
+            </div>
+            <div class="mcafee_seal">
+                <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/sumall.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+            </div>
+            -->
+        </div>
     </form>
 
     <div class="success_verification_msg">
         <div class="sequential_appearance">
-            <h1>Congrats <span class="firstname"></span></h1>
-            <p class="verify_one">We've sent you an email <span class="sumall_icon">h</span></p>
-            <button class="verify_three primary_button">Start Now</button>
+            <h1>Nice to meet you <span class="firstname"></span>.</h1>
         </div>
-    </div>
-
-    <div class="trust_seals_container">
-        <ul>
-            <li><a href="https://privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" target="_blank"><img src="/public/external/img/trust_seals/truste.png" alt="TrustE"></a></li>
-            <li><a href="https://seal.digicert.com/seals/popup/?tag=aeEK9lUm&amp;url=sumall.com" target="_blank"><img src="/public/external/img/trust_seals/digicert.png" alt="DigiCert"></a></li>
-            <li><a href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com" target="_blank"><img src="/public/external/img/trust_seals/mcafee.png" alt="McAfee"></a></li>
-        </ul>
     </div>
 
     <div class="telephone_number">
        <a href="callto:1-917-719-0255">Dial +1 917 719 0255</a><p class="sumall_icon telephone_closer_trigger">*</p>
+   </div>
+
+</div>
+
+
+    
+<div class="container login hidden">
+    <div class="row">
+        <div class="login_content clearfix twelvecol last unselectable">
+            <form method="POST" action="/jsdisabled" id="loginForm" novalidate="">
+                <input type="hidden" name="authenticityToken" value="b0ca85e37c07e2f63ba110aa0fcf575351b17239">
+
+                <fieldset>
+                    <div class="email_pw_field_embedded">
+                        <div class="field">
+                            <input type="email" name="email" title="&nbsp; Email" spellcheck="false" tabindex="3" autofocus="">
+                        </div>
+                        <div class="field last_field pw_field">
+                            <input type="password" name="password" title="&nbsp; Password" tabindex="4">
+                            <a href="https://sumall.com/password/forgot" tabindex="7">Forgot ?</a>
+                        </div>
+                        <div class="login_submit">
+                            <button class="green" type="submit" tabindex="5">Go</button>
+                        </div>
+                        <div class="remember_me_embedded">
+                            <label><input type="checkbox" name="rememberme" class="remember_me_check" value="true" tabindex="6"> Remember me</label>
+                        </div>
+                    </div>
+                </fieldset>
+                <p class="form_error loginError"></p>
+                <p class="verify_notice verifyNotice"></p>
+            </form>
+        </div>
     </div>
 </div>
 
-<!-- nav bar -->
+
+
+
 <div class="container prime_nav">
     <div class="row">
         <div class="twocol logotype sumall_icon">
-            <a href="https://sumall.com/"><em>SumAll</em><!-- <span class="beta_label">Beta</span> --></a>
+            <a href="https://sumall.com/"><em>SumAll</em></a>
         </div>
 
         <div class="tencol">
             <ul>
-                <li class="page_link"><a href="https://sumall.com/tour">Tour</a></li>
-                <li class="page_link"><a href="https://sumall.com/testimonials">Testimonials</a></li>
-                <li class="page_link"><a href="https://sumall.com/about">About</a></li>
-                <li class="page_link"><a href="https://sumall.com/pricing">Pricing</a></li>
+                <li class="page_link "><a href="https://sumall.com/tour">Tour</a></li>
+                <li class="page_link "><a href="https://sumall.com/testimonials">Testimonials</a></li>
+                <li class="page_link "><a href="https://sumall.com/pricing">Pricing</a></li>
+                <li class="page_link "><a href="https://sumall.com/resources">Resources</a></li>
+                <li class="page_link"><a href="http://blog.sumall.com">Blog</a></li>
                 <li class="passport_button">
                     
-                    <a href="/" tabindex="1" id="loginButton">Log In</a>
+                    
+                    <a href="/" tabindex="1" id="loginButton">Log In</a><a href="/" tabindex="2" class="secureSignupTrigger">Sign Up</a>
+                    
                 </li>
             </ul>
         </div>
@@ -355,83 +468,23 @@
     </div>
 </div>
 
-<div class="container login">
-    <div class="row">
-        <div class="login_content hidden clearfix twelvecol last unselectable">
-            <div class="login_background">
-                <form method="POST" action="/jsdisabled" id="loginForm" novalidate="">
-                    <input type="hidden" name="authenticityToken" value="b87e91c8d3fb2705d5e35b9943e794a81f8d902d">
-
-                    <fieldset>
-                        <div class="email_pw_field_embedded">
-                            <div class="field">
-                                <input type="email" name="email" title="&nbsp; Email" spellcheck="false" autofocus="">
-                            </div>
-                            <div class="field last_field pw_field">
-                                <input type="password" name="password" title="&nbsp; Password">
-                            </div>
-                            <div class="login_submit">
-                                <button type="submit"><span class="sumall_icon">=</span></button>
-                            </div>
-                        </div>
-                    </fieldset>
-                    <fieldset>
-                        <div class="remember_me_embedded">
-                            <label><input type="checkbox" name="rememberme" value="true" style="width:auto;">&nbsp; Keep me signed in</label>
-                        </div>
-                    </fieldset>
-                    <p class="form_error loginError"></p> 
-                    <p class="verify_notice verifyNotice"></p>
-                </form>
-            </div>
-            <!-- <div class="internal_announcement">
-                <p>SumAll's now a mobile app</p>
-                <a href="https://play.google.com/store/apps/details?id=com.sumall.android"><img src="/public/external/img/partners/droid_small_icon.png" alt="Droid" /></a>
-                <a href="http://itunes.apple.com/us/app/sumall/id511328203?mt=8&ls=1"><img src="/public/external/img/partners/apple_small_icon.png" alt="Apple" /></a>
-            </div> -->
-            <div class="form_help">
-                <ul class="prox_light">
-                    <li><a href="https://sumall.com/password/forgot">Forgot Password ?</a></li>
-                    <li><a href="https://sumall.com/signup">Create a new account</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <div class="container signup_nav">
     <div class="row">
         <div class="twelvecol">
-
             <div class="sumall_icon"><a href="https://sumall.com/">$</a></div>
-            <div class="secureSignupTrigger">
-                <ul class="slot">
-                    <li>Get Started Now </li>
-                    <li>Pick up the Tool </li>
-                    <li>Join The Thousands </li>
-                    <li>Might Get Addictive </li>
-                    <li>Takeoff with SumAll </li>
-                    <li>Join While Free </li>
-                    <li>Begin Data Adventure </li>
-                    <li>Make Mom Proud </li>
-                    <li>Give it a Shot </li>
-                    <li>Command Your Data </li>
-                    <li>Get Data Clarity </li>
-                    <li>Put Data to Work </li>
-                </ul>
-            </div>
-
+            <button class="secureSignupTrigger" id="tail">Get Started Now</button>
         </div>
     </div>
 </div>
+
 
 <noscript>
     <div class="js_less">
         <p><img src="/public/external/img/notices/error.png" alt="Error"/> &nbsp; <a href="/javascript">Our site requires JavaScript.</a></p>
     </div>
 </noscript>
-
 
 
 
@@ -594,7 +647,6 @@
             In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
             </p>                        
             
-            
             <h2>11. Contact Information</h2>
             <p>SumAll welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at <a href="mailto:support@sumall.com">support@sumall.com</a> or contact us at the following address or phone number:
             <br>
@@ -605,17 +657,42 @@
             New York, NY 10013<br>
             +1 917 719 0255
             </p>
+
+            <h3>We updated this on March 01, 2012. Your diligence is appreciated.</h3>
             
-            <h3>We appreciate your diligence.</h3>
-            
-        </div> <!-- sixcol  -->
-    </div> <!-- end row  -->
-</div> <!--end container-->
+        </div>
+    </div>
+</div>
+
+<div class="container press_firms">
+    <div class="row">
+        <div class="threecol">
+            <a href="https://sumall.com/press#wsj"><img src="/public/external/img/partners/v2/bw_wsj.png" alt="Wall Street Journal">
+            </a>
+            <p><span class="press_quote">“</span>&nbsp;Provides Critical Perspective&nbsp;<span class="press_quote">”</span></p>
+        </div>
+
+        <div class="threecol">
+            <a href="https://sumall.com/press#mashable"><img src="/public/external/img/partners/v2/bw_mashable.png" alt="Mashable"></a>
+            <p><span class="press_quote">“</span>&nbsp;Biggest Impact on Bottom Line&nbsp;<span class="press_quote">”</span></p>
+        </div>
+
+        <div class="threecol">
+            <a href="https://sumall.com/press#business-insider"><img src="/public/external/img/partners/v2/bw_bi.png" alt="Business Insider"></a>
+            <p><span class="press_quote">“</span>&nbsp;Incredibly Helpful&nbsp;<span class="press_quote">”</span></p>
+        </div>
+
+        <div class="threecol last">
+            <a href="https://sumall.com/press#tech-crunch"><img src="/public/external/img/partners/v2/bw_techcrunch.png" alt="Techcrunch"></a>
+            <p><span class="press_quote">“</span>&nbsp;Bringing Data Together&nbsp;<span class="press_quote">”</span></p>
+        </div>
+    </div>
+</div>
 
 
 <script type="text/javascript">
 
-var i18nMessages = {"label.username":"Username","braintree.account.exists":"This Braintree account has already been registered with SumAll.","field.error.authorize.invalidCreds":"The provided credentials are invalid.","button.add":"Add","validation.min":"Cannot be lower than %2$d","field.error.ga.invalidAcct":"This Google account is not linked with Google Analytics.","field.error.matching.password":"Your new password cannot match your existing password","error.authenticityToken":"Your request could not be processed.  Please refresh the page and try again.","info.login.emailVerification.newUser":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eCongratulations\u003c/span\u003e, sign in for a better view of your business.\u003c/h1\u003e","field.error.password.current.wrong":"Your current password is incorrect","input.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","field.email":"email","validation.match":"Must match %2$s","validation.phone":"Not a valid phone","label.email":"Email","validation.after":"Must be after %2$s","account.nonexsistent.user":"Account does not exist","account.logout":"You are now logged out","since.days":"%s day%s ago","title.accountSettings":"Account Settings","account.reset.password.failed":"There was a problem with the email address entered, please try again.","account.create.failed":"An error occurred creating your account","magento.invalidCreds":"The API credentials are invalid. Please review the steps below.","success.emailVerification.resent":"We\u0027ve sent you an email with instructions on how to confirm your email address.","error.emailUnsubscribed":"You have already been unsubscribed from \u0026{%s} emails.","api.goals.periodTooShort":"Goal time period must be at least 7 days","field.error.username.characters":"Can only contain letters, numbers, _, -, and .","validation.future":"Must be in the future","field.error.exists":"Already exists","form.invalidInput":"Please enter a valid \u0026{%s}","field.error.allRequired":"All fields are required","validation.unique":"Must be unique","label.newStreamName":"New Stream Name","api.goals.exists":"An active goal already exists for this data set","api.goals.thresholdInvalid":"Goal threshold invalid","account.invalid.credentials":"Wrong email and password combination","since.months":"%s month%s ago","error.emailToken":"Your unsubscribe request could not be processed.  Please verify the URL you have entered and try again.","stream.added":"%s stream successfully added\"","label.newPassword":"New Password","field.error.disallowed":"Disallowed \u0026{%s}","validation.max":"Cannot be greater than %2$d","field.updated":"\u0026{%s} was updated successfully","field.timezone":"timezone","amazon.account.exists":"This Amazon account has already been registered with SumAll.","error.login.emailVerification":"You must confirm your email address before you can login.\u003cbr/\u003ePlease check your inbox or click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e to have instructions resent.","api.data.unsupported":"Unsupported \u0026{%s} parameter given","validation.equals":"Must be equal to \u0026{%2$s}","validation.url":"Not a valid URL","info.login.welcomeback":"\u003ch1\u003eWelcome back.\u003c/h1\u003e","success.admin.createUser":"New user \u0027%s\u0027 has been created.","account.confirmation.email.failed":"An error occurred sending confirmation email","field.error.mismatched.passwords":"The passwords entered do not match","error.api.ssl.required":"SSL required for API access","account.temporary.password":"You must change your temporary password by entering a new password in the form below","since.hours":"%s hour%s ago","validation.past":"Must be in the past","field.password":"password","error.emailVerification.alreadyConfirmed":"This email address has already been confirmed.","validation.before":"Must be before %2$s","field.preferences":"preferences","info.login.emailVerification":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eThanks\u003c/span\u003e, your email has been confirmed.\u003c/h1\u003e","account.signup":"Thanks! We\u0027ll let you know when we have something for you to play with.","amazon.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","button.resetPassword":"Reset Password","success.changePassword":"Your password has been changed.  Please login \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","field.apikeys":"api keys","field.betaFeatures":"Beta Features","field.error.length":"Must be between %1$s and %2$s characters","account.invalid.platform":"Unsupported platform","field.error.ga.profile.exists":"This Google Analytics profile is already connected.","error.existingAccount":"This store has already been registered with SumAll, please login to update your apiKey.","button.change":"Change","button.login":"Login","button.changePassword":"Change Password","since.seconds":"%s second%s ago","field.error.too.long":"%1$s must be shorter than %2$s characters","api.goals.periodTooLong":"Goals have a maximum interval of one year and one day.","success.signup.platformRequest":"Thanks! We\u0027ll notify you once this platform is available on SumAll.","validation.maxSize":"Maximum size is %2$d","validation.email":"Invalid email address","success.contactUs":"Thanks! We\u0027ll contact you as soon as possible.","info.login.shopify.reinstalled":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eYeehaw\u003c/span\u003e, your shop has been re-connected to \u003cimg src\u003d\"/public/external/img/sumall_white.png\" alt\u003d\"SumAll\" class\u003d\"verified_banner_logo\" /\u003e.\u003c/h1\u003e","field.updated.plural":"\u0026{%s} were updated successfully","since.years":"%s year%s ago","account.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","title.notFound":"Not Found","braintree.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","field.username":"username","validation.ipv6":"Not a valid IP v6 address","field.error.authorize.invalidPermissions":"To complete the connection, enable your Transaction Details API. See step 3 below.","validation.required":"Required","validation.ipv4":"Not a valid IP address","error.notOwner":"Your SumAll account is not associated with this store, please login with a different account.","api.goals.periodInPast":"Goals must end in the future","field.error.shopify.url":"Invalid Shopify Store URL","validation.invalid":"Incorrect value","since.format":"MMM d, yyyy","field.error.blank":"Cannot be blank","button.signup":"Signup","account.expiredResetPasswordToken":"Your reset password link expires after 6 hours.  Please try resetting your password again.","field.changed":"Your \u0026{%s} was changed successfully","label.timezone":"Time Zone","field.error.too.short":"%1$s must be at least %2$s characters","field.error.fb.page.required":"Please select a Facebook Page.","validation.minSize":"Minimum size is %2$d","field.error.signup.platform":"Please provide a platform","form.error":"Please correct the errors below","success.resetPassword":"We\u0027ve sent you an email with instructions on how to reset your password.","field.error.authorize.exists":"This Authorize Account is already connected.","validation.range":"Not in the range %2$d through %3$d","account.created":"Your account is created. Please check your email to confirm your registration.","account.welcome":"Welcome %s!","api.goals.missinginput":"Missing some required data","api.data.invalid":"Invalid \u0026{%s} parameter given","field.error.passwordChange.blank":"Please enter your current and new password","field.status":"status","validation.object":"Validation failed","validation.isTrue":"Must be checked","error.emailVerification.invalidToken":"To confirm your email address, you must follow the link found in the email we sent. To have this email resent, click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e. ","field.error.fb.page.exists":"This Facebook Page is already connected.","error.emailNotFound":"We could not find an account for that email address.","field.unsubscribed":"You have been unsubscribed.","label.password":"Password","bigcommerce.step2.error":"An error occurred during signup. Please start over \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","account.accessDenied":"Access Denied","validation.notFound":"Object not found for id %2$s","since.minutes":"%s minute%s ago","field.error.store.url.exists":"This store has already been registered.","title.applicationError":"Application Exception","field.error.ga.profile.required":"A profile is required.","account.confirmation.sent":"Please check your email for the confirmation code","title.forbidden":"Forbidden","api.data.required":"\u0026{%s} is required","success.admin.removeBetaFeature":"Access to Beta Feature \u0027%s\u0027 has been removed from all users.","title.notAuthorized":"Not Authorized","account.not.confirmed":"This account is not confirmed yet","field.roles":"roles","account.already.confirmed":"This account is already confirmed","account.invalid.user":"Your account is inactive. Please contact support if this is a mistake.","success.admin.createApiKey":"A new API key has been created (%s)","account.new.password":"An email has been sent with instructions for resetting your password.","bigcommerce.invalidCreds":"The API credentials are invalid. Please review the steps below."};
+var i18nMessages = {"validation.unique":"Must be unique","account.invalid.credentials":"Wrong email and password combination","field.status":"status","api.goals.missinginput":"Missing some required data","field.username":"username","field.error.length":"Must be between %1$s and %2$s characters","api.goals.thresholdInvalid":"Goal threshold invalid","title.applicationError":"Application Exception","field.error.store.url.exists":"This store has already been registered.","field.betaFeatures":"Beta Features","field.error.ga.profile.required":"A profile is required.","account.already.confirmed":"This account is already confirmed","account.locked":"Your account is temporarily locked.","field.timezone":"timezone","field.error.alpha":"%1$s must contain at least 1 alpha character.","amazonPayments.internalError":"An error occurred during signup.","label.newStreamName":"New Stream Name","since.months":"%s month%s ago","field.error.allRequired":"All fields are required","account.confirmation.email.failed":"An error occurred sending confirmation email","email.summary.traffic.login_label":"Who\u0027s visiting now?","magento.invalidCreds":"The API credentials are invalid for the selected marketplace. Please review the steps below.","success.admin.unlockUser":"User has been unlocked","since.minutes":"%s minute%s ago","error.admin.extendFreeTrialUser":"Cannot extend trial for invalid or nonexistent user","validation.match":"Must match %2$s","account.created":"Your account is created. Please check your email to confirm your registration.","since.hours":"%s hour%s ago","field.error.seomoz.exists":"You have already connected SEOmoz for this site.","field.error.fb.page.required":"Please select a Facebook Page.","field.updated":"\u0026{%s} was updated successfully","error.emailUnsubscribed":"You have already been unsubscribed from \u0026{%s} emails.","amazonPayments.invalidCreds":"The provided credentials are invalid.","validation.email":"Invalid email address","field.achievement":"achievement","success.admin.createApiKey":"A new API key has been created (%s)","bigcommerce.step2.error":"An error occurred during signup. Please start over \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","info.login.emailVerification":"\u003ch1\u003eYour email has been confirmed.\u003c/h1\u003e","field.error.matching.password":"Your new password cannot match your existing password","email.system.trialExpire.subject":"Your free trial is about to end.","info.login.shopify.reinstalled":"\u003ch1\u003eYour shop has been re-connected.\u003c/h1\u003e","form.invalidInput":"Please enter a valid \u0026{%s}","email.summary.social.login_label":"Engaging your followers?","amazon.account.exists":"This Amazon account has already been registered with SumAll.","validation.max":"Cannot be greater than %2$d","validation.before":"Must be before %2$s","label.timezone":"Time Zone","email.system.preparingData.subject":"We are making your data pretty :)","validation.invalid":"Incorrect value","label.username":"Username","since.format":"MMM d, yyyy","field.error.authorize.exists":"This Authorize Account is already connected.","api.goals.periodTooLong":"Goals have a maximum interval of one year and one day.","error.api.ssl.required":"SSL required for API access","braintree.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","error.admin.sendPreviewEmail":"Cannot send email preview to \u0027%s\u0027","account.nonexsistent.user":"Account does not exist","field.goal.plural":"goals","field.email":"email","validation.minSize":"Minimum size is %2$d","input.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","success.admin.createGenericInstagramStream":"Generic Instagram stream created successfully","title.notFound":"Not Found","button.resetPassword":"Reset Password","account.temporary.password":"You must change your temporary password by entering a new password in the form below","repeatPassword":"Password","account.create.failed":"An error occurred creating your account","success.admin.addDemoGenericStream":"Successfully created a DemoGenericStream for user.","api.data.required":"\u0026{%s} is required","success.admin.sendPreviewEmail":"Email preview sent to email \u0027%s\u0027","field.error.password.current.wrong":"Your current password is incorrect","validation.required":"Required","field.deleted.plural":"\u0026{%s} were deleted successfully","success.admin.extendFreeTrialUser":"User\u0027s free trial has been extended %s days","since.years":"%s year%s ago","success.admin.removeBetaFeature":"Access to Beta Feature \u0027%s\u0027 has been removed from all users.","account.new.password":"An email has been sent with instructions for resetting your password.","account.invalid.user":"Your account is inactive. Please contact support if this is a mistake.","info.login.welcomeback":"\u003ch1\u003eWelcome back.\u003c/h1\u003e","field.deleted":"\u0026{%s} was deleted successfully","error.emailVerification.invalidToken":"To confirm your email address, you must follow the link found in the email we sent. To have this email resent, click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e. ","field.error.tumblr.blog.exists":"This Tumblr blog is already connected.","api.goals.periodTooShort":"Goal time period must be at least 7 days","account.reset.password.failed":"There was a problem with the email address entered, please try again.","field.apikeys":"api keys","field.error.bingAds.password.required":"Please enter your Bing Ads account password.","validation.after":"Must be after %2$s","label.newPassword":"New Password","field.unsubscribed":"You have been unsubscribed.","validation.maxSize":"Maximum size is %2$d","stream.added":"%s stream successfully added\"","validation.isTrue":"Must be checked","account.expiredResetPasswordToken":"Your reset password link expires after 6 hours.  Please try resetting your password again.","success.emailVerification.resent":"We\u0027ve sent you an email with instructions on how to confirm your email address.","field.error.authorize.invalidCreds":"The provided credentials are invalid.","api.data.invalid":"Invalid \u0026{%s} parameter given","button.login":"Login","email.system.trialPurchase.subject":"Thank you for purchasing a SumAll account.","validation.equals":"Must be equal to \u0026{%2$s}","bigcommerce.invalidCreds":"The API credentials are invalid. Please review the steps below.","field.error.ga.profile.exists":"This Google Analytics profile is already connected.","validation.range":"Not in the range %2$d through %3$d","email.system.accountReady.subject":"Your account is ready","validation.phone":"Not a valid phone","account.accessDenied":"Access Denied","field.updated.plural":"\u0026{%s} were updated successfully","amazonPayments.invalidAccount":"Your account is closed or invalid.","field.error.seomoz.invalidSiteUrl":"Invalid site URL.","password":"Password","button.signup":"Signup","field.error.mismatched.passwords":"The passwords entered do not match","button.change":"Change","field.error.authorize.invalidPermissions":"To complete the connection, enable your Transaction Details API. See step 3 below.","account.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","account.logout":"You are now logged out","field.error.disallowed":"Disallowed \u0026{%s}","field.error.ga.invalidAcct":"This Google account is not linked with Google Analytics.","error.admin.expireFreeTrialUser":"Cannot expire invalid or nonexistent user","account.signup":"Thanks! We\u0027ll let you know when we have something for you to play with.","validation.object":"Validation failed","error.emailNotFound":"We could not find an account for that email address.","title.notAuthorized":"Not Authorized","info.login.emailVerification.newUser":"\u003ch1\u003eSign in to get started.\u003c/h1\u003e","validation.min":"Cannot be lower than %2$d","field.error.shopify.url":"Invalid Shopify Store URL","field.password":"password","field.error.too.short":"%1$s must be at least %2$s characters","field.error.exists":"Already exists","email.summary.sales.login_label":"See your sales live","validation.ipv6":"Not a valid IP v6 address","button.changePassword":"Change Password","validation.ipv4":"Not a valid IP address","title.accountSettings":"Account Settings","email.system.importComplete.subject":"Your %s is ready.","error.emailVerification.alreadyConfirmed":"This email address has already been confirmed.","api.goals.periodInPast":"Goals must end in the future","email.summary.weeklySummary.subject":"%s Week in Review from SumAll | %s","field.error.bingAds.username.required":"Please enter your Bing Ads account username.","success.signup.platformRequest":"Thanks! We\u0027ll notify you once this platform is available on SumAll.","platform.requests.not.found":"No platforms found.","title.forbidden":"Forbidden","label.email":"Email","account.welcome":"Welcome %s!","email.summary.payments.login_label":"See your charges live","error.admin.addDemoGenericStream":"Cannot create DemoGenericStream for invalid or non-admin user.","field.error.username.characters":"Can only contain letters, numbers, _, -, and .","email.system.welcome.subject":"Hi %s, welcome to SumAll","email.system.emailVerification.subject":"Please Verify Your Email Address","email.summary.facebook.login_label":"Who is talking about you?","field.error.tumblr.blog.required":"Please select a Tumblr blog.","field.error.password.history":"Your new password cannot match any of your last %2$s passwords","field.goal":"goal","account.invalid.platform":"Unsupported platform","email.system.addDataPrompt.subject":"Feed your account %s","email.system.password.reset.subject":"SumAll Password Reset","validation.future":"Must be in the future","since.days":"%s day%s ago","error.notOwner":"Your SumAll account is not associated with this store, please login with a different account.","success.contactUs":"Thanks! We\u0027ll contact you as soon as possible.","field.error.signup.platform":"Please provide a platform","api.data.unsupported":"Unsupported \u0026{%s} parameter given","field.roles":"roles","amazonPayments.account.exists":"This account has already been registered.","error.authenticityToken":"Your request could not be processed.  Please refresh the page and try again.","success.admin.expireFreeTrialUser":"User\u0027s free trial has been expired","validation.url":"Not a valid URL","error.emailToken":"Your unsubscribe request could not be processed.  Please verify the URL you have entered and try again.","account.not.confirmed":"This account is not confirmed yet","field.changed":"Your \u0026{%s} was changed successfully","account.password.expired":"Your password has expired.  Please reset it \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","field.error.numeric":"%1$s must contain at least 1 number.","field.error.fb.page.exists":"This Facebook Page is already connected.","field.achievement.plural":"achievements","validation.past":"Must be in the past","email.system.trialContinue.subject":"Your account has been upgraded.","success.changePassword":"Your password has been changed.  Please login \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","field.preferences":"preferences","label.password":"Password","form.error":"Please correct the errors below","api.goals.exists":"An active goal already exists for this data set","button.add":"Add","field.error.passwordChange.blank":"Please enter your current and new password","success.admin.createUser":"New user \u0027%s\u0027 has been created.","field.error.blank":"Cannot be blank","field.error.too.long":"%1$s must be shorter than %2$s characters","amazon.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","since.seconds":"%s second%s ago","password2":"Password","braintree.account.exists":"This Braintree account has already been registered with SumAll.","password1":"Password","email.system.gettingStarted.subject":"Make SumAll work for you","email.system.trialStart.subject":"Hi %s, welcome to SumAll!","email.summary.dailySummary.subject":"%s Daily Digest from SumAll | %s","error.existingAccount":"This store has already been registered with SumAll, please login to update your apiKey.","validation.notFound":"Object not found for id %2$s","field.error.seomoz.notTracked":"SEOmoz does not currently have statistics for this site.","account.confirmation.sent":"Please check your email for the confirmation code","success.resetPassword":"We\u0027ve sent you an email with instructions on how to reset your password.","email.system.platformRequester.subject":"Thank you for your platform request"};
 
 /**
  * Fixme : only parse single char formatters eg. %s
@@ -652,46 +729,54 @@ var i18n = function(code) {
 
             </div>
         </div>
-        
+
 <div class="container anchor">
     <div class="row">
         <div class="twocol">
             <ul>
-                <li class="list_lead">Powered by</li>
-                <li>12,505 Users</li>
-                <li>42 Currencies</li>
-                <li>7,811,230,720 Visits</li>
+                <li class="list_lead">Company</li>
+                <li><a href="https://sumall.com/about">About</a></li>
+                <li><a href="https://sumall.com/tour">Tour</a></li>
+                <li><a href="https://sumall.com/testimonials">Testimonials</a></li>
+                <li><a href="https://sumall.com/pricing">Pricing</a></li>
+                <li><a href="https://sumall.com/resources">Resources</a></li>
+                <li><a href="https://sumall.com/press">Press</a></li>
+                <li><a href="http://sumall.org/">Foundation</a></li>
             </ul>
         </div>
         <div class="twocol">
             <ul>
-                <li class="list_lead">Company</li>
+                <li class="list_lead">Community</li>
                 <li><a href="http://blog.sumall.com">Blog</a></li>
                 <li><a href="http://twitter.com/sumall">Twitter</a></li>
                 <li><a href="http://facebook.com/sumalls">Facebook</a></li>
-                <li><a href="/press">Press</a></li>
+                <li><a href="http://pinterest.com/sumall/pins/">Pinterest</a></li>
+                <li><a href="https://plus.google.com/116572052971830673368">Google +</a></li>
+                <li><a href="http://www.youtube.com/wearesumall">YouTube</a></li>
             </ul>
         </div>
         <div class="twocol">
             <ul>
                 <li class="list_lead">Help</li>
-                <li>+1 917 719 0255</li>
-                <li><a href="mailto:support@sumall.com">Support@sumall.com</a></li>
+                <li><a href="https://sumall.com/contact">Contact</a></li>
                 <li><a href="https://sumall.com/support">Support</a></li>
-                <li><a href="/contact">Contact</a></li>
+                <li><a href="https://sumall.com/support/faq">FAQ</a></li>
+                <li><a href="https://sumall.com/support/glossary">Glossary</a></li>
+                <li><a href="https://sumall.com/support/articles">Articles</a></li>
             </ul>
         </div>
         <div class="twocol">
             <ul>
                 <li class="list_lead">Security</li>
-                <li><a href="/privacy">Privacy Policy</a></li>
-                <li><a href="/terms">Terms of service</a></li>
+                <li><a href="https://privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" target="_blank">TrustE Certified</a></li>
+                <li><a href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com" target="_blank">McAfee Certified</a></li>
+                <li><a href="https://seal.digicert.com/seals/popup/?tag=aeEK9lUm&amp;url=sumall.com" target="_blank">DigiCert Certified</a></li>
+                <li><a href="https://sumall.com/privacy">Privacy Policy</a></li>
+                <li><a href="https://sumall.com/terms">Terms of service</a></li>
             </ul>
         </div>
-        <div class="onecol"></div>
-        <div class="threecol last stamp">
-            <a href="http://nytm.org/made-in-nyc/">N</a>
-            <a href="https://sumall.com/">@</a>
+        <div class="fourcol last stamp">
+            <a href="https://sumall.com/">$</a>
         </div>
     </div>
 </div>
@@ -702,32 +787,23 @@ var i18n = function(code) {
                 {
                     load     : "//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
                     callback : function() {
-                        if (!window.jQuery) { yepnope("/public/javascripts/common/jquery-1.8.2.min.js"); }
+                        if (!window.jQuery) { yepnope("/public/javascripts/includes/jquery-1.8.2.min.js?v=v2.5.17-1"); }
                     }
                 },
                 {
                     load: [
-                        "/public/javascripts/common/jquery-ui-1.9.0.custom.min.js",
-                        "/public/javascripts/common/mustache-0.7.0.js",
-                        "/public/javascripts/common/ICanHaz-0.10.min.js",
-                        "/public/javascripts/external/jquery.formLabels1.0.js",
-                        "/public/javascripts/external/jquery.tipTip.minified.js",
-                        "/public/javascripts/external/waypoints.min.js"
+                    "/public/repack/repack-TI3dn8tuKkdj.js?v=v2.5.17-1"
                     ]
                 },
                 {
                     load: [
-                        "/public/javascripts/sumall.js",
-                        "/public/javascripts/events/events.js",
-                        "/public/javascripts/events/events.keybind.js",
+                    "/public/repack/repack-LuuDQcTWOsVj.js?v=v2.5.17-1"
 
-                        "/public/javascripts/sumall-analytics.js",
-                        "/public/javascripts/sumall-ui.js",
-                        "/public/javascripts/sumall-util.js",
-                        "/public/javascripts/templates/templates.js",
+                        ,
+                        
+    "/public/javascripts/external/sumall-signup.js",
+    "/public/javascripts/includes/chosen.jquery.min.js"
 
-    "/public/javascripts/common/chosen.jquery.min.js",
-    "/public/javascripts/external/jquery.jSlots.min.js",
 
 
                     ],
@@ -740,10 +816,7 @@ var i18n = function(code) {
                         sumall.eventmanager.init();
 
                         sumall.templatemanager = new SumAll.templates.Manager({
-
-
-                            templateUrl:"https://sumall.com/api/templates/ui%2Csupport%2Ckeybind%2Cexternal"
-
+                            templateUrl:"https://sumall.com/api/templates"
                         });
                         sumall.templatemanager.init();
 
@@ -757,346 +830,141 @@ var i18n = function(code) {
                         sumall.analytics.init("", "", isSystemUser);
                         sumall.analytics.externalReadyInit();
 
+                        sumall.externalAnalytics = new SumAll.externalAnalytics.Manager({});
+                        sumall.externalAnalytics.init();
 
 
 
-// globally used constants
-var easing = "easeInOutExpo";
-var mainNav = $(".prime_nav");
+                        sumall.eventmanager.bind("html", SumAll.events.EventManager.CORE_READY, function() {
 
-// call cta shuffle function
-shuffleCTATimer();
 
-// activate shuffle plugin
-$(".signup_nav .slot").jSlots({
-    number: 1,
-    spinner : ".signup_nav",
-    spinEvent : "beginSpin",
-    easing : easing,
-    time : 450
-});
 
-// set shuffle to occur every 8 seconds
-function shuffleCTATimer(){
-    shuffleCTA = setInterval(function(){
-        $(".signup_nav").trigger("beginSpin"); 
-    }, 8000);
-};
 
-// if the user loads the page by refresh while below 400, signup nav appears
-if ($(window).scrollTop() >= 400) {
-    $(".signup_nav").fadeIn(300, "easeInOutExpo");
-}
+    // globally used constants
+    var easing = "easeInOutExpo";
+    var mainNav = $(".prime_nav");
 
-// if the user scrolls past 400, signup nav appears
-var minDistance = 400;
-$(window).scroll(function() {
-    var scrollTop = $(document).scrollTop();
-    if (scrollTop > minDistance) {
-        $(".signup_nav").fadeIn(300, easing);
-    } else {
-        $(".signup_nav").fadeOut(50, easing);
-    }
-});
+    // display ab testing content wrapper
+    $(".experiment_wrapper").delay(200).fadeIn(350, easing);
 
-// independent account signup related
-var accountSignup = $("#accountSignup");
+    // callback function to handle opening signup form
+    var showWrapperHandler = function() {
 
-var activateRegistration = function() {
-    if (!accountSignup) return;
+        // remove irrelevant page content
+        $("header, .container, .home, footer, .content").not(".container.prime_nav").fadeOut(50);
 
-    // set up animation of account signup area
-    accountSignup.slideToggle(250, function() {
-
-        // fade out the first four list items, leave login in case user already has account
-        mainNav.find("ul li").slice(0,4).fadeOut(150, easing, function(){
+        // fade out the first five list items, leave login in case user already has account
+        mainNav.find("ul li").slice(0,5).fadeOut(150, easing, function(){
 
             // reposition nav list in shorter nav bar
-            mainNav.find("ul").animate({"top":"16px"}, 150, easing);
+            mainNav.find("ul").animate({"top":"13px"}, 150, easing, function(){
+
+                // remove signup button and replace it with home button
+                mainNav.find(".secureSignupTrigger").text("Home").unbind("click").attr("href", "/");
+            });
 
             // reposition identity in shorter nav bar
             mainNav.find(".logotype a").animate({"top":"8px"}, 150, easing);
+
         });
 
         // if already a user, route to login page
         mainNav.find("#loginButton").attr("href", "/login").unbind("click");
 
         // shorten nav real estate
-        mainNav.animate({height:"60px"}, 150, easing);
+        mainNav.animate({height:"58px"}, 150, easing);
 
         // change page title
-        document.title = "Create Your SumAll Account";
-        
+        document.title = "Create Account";
+
         // remove activated class from nav item
         mainNav.find("li").removeClass("activated");
+    };
 
-        // adjust padding value previously set
-        $(".inner_wrapper").css("padding-bottom","5px");
+    // Set up account signup form
+    var signupData = {
+        "name"            : "HeaderSignup",
+        "registerUrl"     : "https://sumall.com/signup/register",
+        "signupWrapper"   : "#accountSignup",
+        "successWrapper"  : ".success_verification_msg",
+        "triggerButton"   : ".secureSignupTrigger",
+        "triggerHandler"  : showWrapperHandler,
+        "easing"          : easing,
+        "signupIntroMsg"  : "Try SumAll free."
+    };
 
-        // remove irrelevant page content
-        $("header, .container, footer, .content").not(".container.prime_nav").fadeOut(50);
+    SumAll.signup.Manager.setupSignup(signupData);
+    
 
-        // show registration 
-        showRegistration();
-    });
-}
 
-var showRegistration = function() {
-    if (!accountSignup) return;
-
-    // Animate form in
-    accountSignup.find(".secure_signup_form").css("display","block").delay(450).animate({opacity:"1", top:"-=15px"}, 100, easing);
-
-    // Delay appearance of trust seal gradient
-    accountSignup.find(".trust_seals_container").fadeIn(400);
-
-    // Add drop shadow for emphasis, fade in trust seals
-    setTimeout(function(){
-        accountSignup.find("input[name=firstName]").focus();
-        accountSignup.find(".trust_seals_container ul li, .sign_up_support").delay(500).fadeIn(200);
-        accountSignup.find(".load_seal").fadeOut(400);
-    }, 1400);
-
-    // Pre-calculate the default timezone
-    var offset = new Date().getGMTOffset();
-    accountSignup.find("option").each(function(i,d) {
-        var sel = accountSignup.find("select[name=timezone]");
-        if (sel.val() == "") {
-            if ($(d).text() && $(d).text().indexOf(offset) > -1) {
-                sel.val($(d).val());
-            }
-        }
-    });
-
-    // Activate Chosen dropdown plugin for timezone selection
-    accountSignup.find(".chzn-select").chosen();
-    accountSignup.find(".chzn-select-deselect").chosen({allow_single_deselect:true});
-
-    // Activate Placeholder plugin
-    $.fn.formLabels();
-}
-
-function updateSubmitButton() {
-    if (!accountSignup) return;
-    if ( accountSignup.find(".legal_checkbox input[type=checkbox]").is(":checked") ) {
-        accountSignup.find(".signUpButton").css({"background":"#89D864"});
-    } else { 
-        accountSignup.find(".signUpButton").css({"background":"#b5d8a4"});
-    }
-}
-
-// If account signup form exists, set up 
-if (accountSignup) {
-
-    // initialize button handlers for all CTA classed buttons
-    $(".secureSignupTrigger").click(function (e) {
-        e.preventDefault();
-        if ($(window).scrollTop() != 0) {
-            $("body,html").animate({scrollTop: 0}, 150);
-            accountSignup.delay(400);
-        }
-        activateRegistration();
-    });
-
-    // set signup wrapper to height of viewport minus nav bar height
-    function fixAccountSignupHeight() {
-        accountSignup.css("height", $(window).height()-64 + "px");
-    }
-    fixAccountSignupHeight();
-
-    // resize signup wrapper if viewport is resized
-    window.onresize = function() { fixAccountSignupHeight(); }
-
-    // if legal agreement is made, enable create account button and style changes
-    accountSignup.find(".legal_checkbox input[type=checkbox]").bind("click",function(){
-        updateSubmitButton();
-    });
-
-    // if button is pressed, show feedback and check for errors
-    accountSignup.find(".signUpButton").bind("click", function() {
-        var defaultSignupMessage = "Begin Experience";
-        function handleAccountSignupSuccess(d) {
-            if (!d || !d.result) {
-                SumAll.error("Invalid response from server in handleAccountSignupSuccess");
-            }
-            if (d.result === "VALIDATION_ERROR") {
-                accountSignup.find(".form_error").fadeOut();
-                var msgs = d.validationMsgs;
-                $.each(msgs, function(index, value) {
-                    accountSignup.find("." + index + "Error").html(value);
-                    accountSignup.find("." + index + "Error").slideFadeToggle(150);
-                });
-                accountSignup.find(".signUpButton").html(defaultSignupMessage);
-            } else if (d.result === "SUCCESS") {
-                accountSignup.find(".success_verification_msg span.firstname").text(d.body.firstName);
-                accountSignup.find(".success_verification_msg button.verify_three").bind("click", function(e) {
-                    e.preventDefault();
-                    // fly away
-                    setTimeout(function() {
-                        accountSignup.find(".success_verification_msg").animate({"opacity":0}, 50, function() {
-                            $("body").fadeOut(400, function() {
-                                window.location = d.body.url;
-                            });
-                        });
-                    }, 500);
-                });
-                setTimeout(function() {
-                    accountSignup.find(".secure_signup_form").animate({opacity:"0"}, 400, function() {
-                        accountSignup.find(".signUpButton").html("Account Created");
-                        accountSignup.find(".success_verification_msg").fadeIn(350);
-                        accountSignup.find(".success_verification_msg p.verify_one").css("display","block").delay(500).animate({opacity:"1"}, 100);
-                        accountSignup.find(".success_verification_msg button.verify_three").css("display","block").delay(1000).animate({opacity:"1"}, 100);
-                        accountSignup.find(".trust_seals_container, .sign_up_support").fadeOut(200);
-                    });
-                }, 1500);
-            }
-        }
-        function handleAccountSignupTimeout(d) {
-            accountSignup.find(".signUpButton").html(defaultSignupMessage);
-            SumAll.error("Error in handleAccountSignupTimeout", d);
-        }
-        function handleAccountSignupError(d) {
-            accountSignup.find(".signUpButton").html(defaultSignupMessage);
-            SumAll.error("Error in handleAccountSignupError", d);
-        }
-
-        // Get referrer and landing page URL
-        var referrerOriginal = document.referrer.replace(location.protocol+"//","");
-        var referrer = referrerOriginal.replace(location.search,"");
-        $("#referrer").val(referrer);
-        $("#landingPage").val(location.href.replace(location.search,""));
-
-        accountSignup.find(".signUpButton").html(defaultSignupMessage + " <span class='sumall_icon'>o</span>");
-        $.ajax({
-            "type": "POST",
-            "dataType": "json",
-            "url": "https://sumall.com/signup/register",
-            "data": accountSignup.find("form.secure_signup_form").serialize(),
-            "success": handleAccountSignupSuccess,
-            "timeout": handleAccountSignupTimeout,
-            "error": handleAccountSignupError
-        });
-        return false;
-    });
-
-    // Finally, disable submit button
-    updateSubmitButton();
-}
-
-// Login related
-var setupLoginForm = function(internalLogin) {
-    if (internalLogin) {
-
-        // On password focus, animate "keep me signed in" checkbox                  
-        internalLogin.find("input[type=password]").bind("focus",function(){
-            internalLogin.find(".remember_me_embedded label, .remember_me label").animate({backgroundColor:"#d4d4d4"}, 60).animate({backgroundColor:"#ededed"}, 1500).animate({borderColor:"#e3e3e3"}, 500);
-            internalLogin.find("input[type=password]").unbind("focus");
-        });
-
-        // Bind submit handler for login form
-        var loginForm = internalLogin.find("form");
-        if (loginForm) {
-            loginForm.preventDoubleSubmit();
-            loginForm.submit(function(event) {
-                // convenience function
-                function getUserEmail() {
-                    return loginForm.find("[name=email]").val()
-                }
-                // prevent default submit
-                event.preventDefault(); 
-                // clear errors before submitting
-                internalLogin.find(".loginError").fadeOut(150);
-                // login via ajax
-                $.ajax({
-                    type: "POST",
-                    url: "https://sumall.com/login",
-                    data: loginForm.serialize(),
-                    dataType: "json",
-                    success: function(response) {
-                        if (response.result === "SUCCESS") {
-                            sumall.analytics.track(SumAll.analytics.Events.LOGIN_SUCCESS, { userEmail : getUserEmail() });
-                            window.location = response.body.url;
-                        } else if (response.result === "UNVERIFIED") {
-                            internalLogin.find(".internal_announcement, .announcement").fadeOut(200);
-                            internalLogin.find(".verifyNotice").html(response.msg);
-                            internalLogin.find(".verifyNotice").slideFadeToggle(200);
-                            loginForm.resetDoubleSubmit();
-                            sumall.analytics.track(SumAll.analytics.Events.LOGIN_ERROR_UNVERIFIED, { userEmail : getUserEmail() });
-                        } else if (response.result === "ERROR") {
-                            internalLogin.find(".internal_announcement, .announcement").fadeOut(200);
-                            internalLogin.find(".loginError").html(response.msg);
-                            internalLogin.find(".loginError").slideFadeToggle(200);
-                            loginForm.resetDoubleSubmit();
-                            sumall.analytics.track(SumAll.analytics.Events.LOGIN_ERROR, { userEmail : getUserEmail() });
-                        }
-                    },
-                    error: function(jqXHR) {
-                        loginForm.resetDoubleSubmit();
-                        internalLogin.find(".internal_announcement, .announcement").animate({opacity: 0}, 200);
-                        internalLogin.find(".loginError").html("Your request could not be completed.  Please refresh the page and try again.");
-                        internalLogin.find(".loginError").slideFadeToggle(200);
-                        sumall.analytics.track(SumAll.analytics.Events.LOGIN_ERROR, { userEmail : getUserEmail() });
-                    }
-                });
-                // prevent form submission for older browsers
-                return false;
-            });
-        }
-    }
-}
-
-var headerLogin = $(".login_content");
-if (headerLogin) {
-    // take care of form in header
-    setupLoginForm(headerLogin); 
+    // Set up header login form
+    var headerLogin = $(".login");
+    var headerLoginData = {
+        "name"        : "HeaderLogin",
+        "loginUrl"    : "https://sumall.com/login",
+        "attachPoint" : headerLogin
+    };
+    SumAll.signup.Manager.setupLogin(headerLoginData);
 
     // Add handler for show login button
     SumAll.initFormLabels = false;
     mainNav.find("#loginButton").bind("click", function (e) {
         e.preventDefault();
-        
+
         // temporarily disable iOS form field auto zoom
-        var tempMetaViewport = $("head meta[name='viewport']") || $("head").prepend('<meta name="viewport" content="user-scalable=no" />');
+        var tempMetaViewport = $("head meta[name='viewport']");
+        if (!tempMetaViewport.exists()) {
+            tempMetaViewport = $("head").prepend('<meta name="viewport" content="user-scalable=no" />').find("meta[name='viewport']");
+        }
         var tempMetaViewportContent = tempMetaViewport.attr("content");
         tempMetaViewport.attr("content", "user-scalable=no");
-        
-        mainNav.addClass("add_nav_shadow");
+
         if ($(window).scrollTop() != 0) {
             $("body,html").animate({scrollTop: 0}, 150);
             headerLogin.delay(400);
         }
-        
+
         headerLogin.stop(true, true).slideToggle(400, "easeOutExpo", function() {
             headerLogin.find("input[type=email]").focus();
-            headerLogin.find(".internal_announcement").delay(800).animate({opacity: 1}, 800);
-            
+
             // re-enable iOS zoom ability
             tempMetaViewport.attr("content", tempMetaViewportContent);
-            
-            if (!SumAll.initFormLabels) { 
+
+            if (!SumAll.initFormLabels) {
                 $.fn.formLabels();
                 SumAll.initFormLabels = true;
             }
         });
     });
-}
-
-// Take care of form in login.html
-setupLoginForm($(".external_login .login_content"));
-
-// Make telephone appear bigger for better usability
-$(".toggle_telephone_number").bind("click", function(){
-    $(".telephone_number").fadeIn(300);
-});
-
-$(".telephone_closer_trigger").bind("click", function(){
-    $(".telephone_number").fadeOut(300);
-});
 
 
 
-    $(".legal").animate({ opacity: 1, bottom: "+=45" }, 300);
 
+    // if the user scrolls past 400, signup nav appears
+    var minDistance = 400;
+    $(window).scroll(function() {
+        var scrollTop = $(document).scrollTop();
+        if (scrollTop > minDistance) {
+           $(".signup_nav").fadeIn(300, easing);
+        } else {
+           $(".signup_nav").fadeOut(50, easing);
+        }
+    });
+    // if the user loads the page by refresh while below 400, signup nav appears
+    if ($(window).scrollTop() >= 400) {
+        $(".signup_nav").fadeIn(300, "easeInOutExpo");
+    }
+
+
+
+
+
+    var EASING = "easeOutExpo";
+    $(".legal").delay(200).animate({"opacity":"1","margin-top":"100px"},400,EASING);
+
+
+
+                        });
                     }
                 }
             ]);
@@ -1112,7 +980,7 @@ $(".telephone_closer_trigger").bind("click", function(){
 
 
 
-        
+
         <!-- AdRoll retargeting script -->
         <script type="text/javascript">
             adroll_adv_id = "7YI5NU6QSFGBNGDMOOMTD7";
