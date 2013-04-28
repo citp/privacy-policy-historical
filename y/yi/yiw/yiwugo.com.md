@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yiwugo.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228053420id_/http%3A//www.yiwugo.com/web/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yiwugo.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428065401id_/http%3A//www.yiwugo.com/web/privacypolicy.html) for the most accurate reproduction.*
 
 # Purchaser Service, Yiwu Purchasing Services, Commodity Online Purchase-yiwugo.com
 
