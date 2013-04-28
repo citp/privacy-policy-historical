@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utcfireandsecurity.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021215224id_/http%3A//www.utcfireandsecurity.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utcfireandsecurity.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428042753id_/http%3A//www.utcfireandsecurity.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,9 +7,7 @@
 
 This Privacy Statement covers how United Technologies Corporation’s subsidiaries and affiliates that operate under the UTC Climate, Controls, and Security reporting unit (“CCS”) collect and treat information received via this website. At CCS we believe that, as our online visitor, you have a right to know our practices regarding the information we collect when you visit our websites, including the type of information that is collected. The guidelines contained herein only apply to your visit to this website and its web pages, but does not include any redirect URLs that link the user to another internet domain.
 
- 
-
-**Information Collection and Use**  
+ **Information Collection and Use**  
 
 
 Some portions of the website may request that a user complete a registration form. We send users who register themselves or their products on our website a welcoming email to confirm their registration. Registered customers may elect to receive information on products, services, announcements and special offers. Out of respect for the privacy of our users we present the option to not receive these types of communications. Users who have provided personal information on our site may occasionally be contacted with product offers if they have elected to receive this information. We will communicate with the user to provide requested services with regards to issues relating to their requests via email or phone.
@@ -25,8 +23,6 @@ A user has the option to request that CCS contact them regarding how to become a
 Site registration, product registration, become a dealer, and customer service/contact form information is collected by CCS. An automatic email confirmation is sent to the user when they submit each of these forms.
 
 If you email us through the “Contact Us” link on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
-
- 
 
 **Cookies**  
 Like many companies, we use browser cookies on this website. Browser cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. We use browser cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Browser cookies may enhance your online experience by saving your preferences while you are visiting a particular site. The “help” portion of the toolbar on most browsers will tell you how to stop accepting new browser cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies. Remember though, without browser cookies, you may not be able to take full advantage of all our website features.
