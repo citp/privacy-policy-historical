@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierequine.co.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226233000id_/http%3A//premierequine.co.uk/acatalog/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierequine.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429002434id_/http%3A//www.premierequine.co.uk/acatalog/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
