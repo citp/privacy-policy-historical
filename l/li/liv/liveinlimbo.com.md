@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114051856id_/http%3A//www.liveinlimbo.com/general/673-privacy-terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428103012id_/http%3A//www.liveinlimbo.com/general/673-privacy-terms.html) for the most accurate reproduction.*
 
 # Privacy Terms | Live in Limbo - Toronto Concerts, Music, Photography, Entertainment, Tech, Film
 
@@ -6,11 +6,11 @@ Live in Limbo will NOT give out your information to any third parties. And thatâ
 
 **Privacy Statement**
 
-This statement covers the site [www.liveinlimbo.com](https://web.archive.org/web/20121114051856id_/http%3A//www.liveinlimbo.com/general/undefined/) ("LiL"). Please read this statement carefully. Your use of LiL indicates your agreement to abide by the Terms in effect.
+This statement covers the site [www.liveinlimbo.com](https://web.archive.org/web/20130428103012id_/http%3A//www.liveinlimbo.com/general/undefined/) ("LiL"). Please read this statement carefully. Your use of LiL indicates your agreement to abide by the Terms in effect.
 
 Information Collection
 
-LiL is the sole owner of the information collected on [www.liveinlimbo.com](https://web.archive.org/web/20121114051856id_/http%3A//www.liveinlimbo.com/general/undefined/). LiL may collect information from our users at several different points on our web site.
+LiL is the sole owner of the information collected on [www.liveinlimbo.com](https://web.archive.org/web/20130428103012id_/http%3A//www.liveinlimbo.com/general/undefined/). LiL may collect information from our users at several different points on our web site.
 
 **Comments**
 
