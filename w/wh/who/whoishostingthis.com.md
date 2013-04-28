@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoishostingthis.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004135140id_/http%3A//www.whoishostingthis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoishostingthis.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428184926id_/http%3A//www.whoishostingthis.com/privacy-policy) for the most accurate reproduction.*
 
 # WhoIsHostingThis.com Privacy Policy
 
@@ -34,7 +34,7 @@ We also use cookies to collect non-sensitive information about your use of the s
 
 We only send you promotional emails if you have explicitly double opted-in. We do not sell, rent or share email addresses, and we never will. We will only share personal information when required by law (eg, if subpoenaed to do so).
 
-We will only pass your data on to third parties if you have explicitly agree that we do so. For example: if you submit a [review](http://www.whoishostingthis.com/hosting-reviews) which qualifies for a [Register.com gift card](http://www.whoishostingthis.com/free-domain/) in our promotion, we need to pass your details on to Register.com to have your prize sent out.
+We will only pass your data on to third parties if you have explicitly agree that we do so. For example: if you submit a [review](http://www.whoishostingthis.com/hosting-reviews/) which qualifies for a [Register.com gift card](http://www.whoishostingthis.com/free-domain/) in our promotion, we need to pass your details on to Register.com to have your prize sent out.
 
 The reason we collect information like email addresses is to provide you with a better service. For example, we need some personal details to do the following:
 
