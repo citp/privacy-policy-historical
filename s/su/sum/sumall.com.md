@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumall.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107065313id_/https%3A//sumall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumall.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428062654id_/https%3A//sumall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SumAll
 
@@ -145,4 +145,4 @@ Attn: Matt Law
 New York, NY 10013  
 +1 917 719 0255 
 
-### We appreciate your diligence.
+### We updated this on March 01, 2012. Your diligence is appreciated.
