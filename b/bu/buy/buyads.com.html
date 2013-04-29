@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the buyads.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010161916id_/https%3A//www.buyads.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buyads.com privacy policy that was archived on 2013-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130429203059id_/https%3A//www.buyads.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="https://www.facebook.com/2008/fbml"><!--<![endif]--><head>
+      <!-- We're hiring curious folks like you https://www.isocket.com/jobs -->
         <title>
           BuyAds.com        </title>
                 
@@ -19,26 +20,17 @@
         
                     	                  
                 
-        <link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css2.buyads.com/css/jquery.fancybox.css?version=20121010004744">
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css1.buyads.com/css/jquery-ui.css?version=20121010004744">
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css3.buyads.com/css/jquery.selectBox.css?version=20121010004744">
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css1.buyads.com/css/dialog.css?version=20121010004744">
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css2.buyads.com/css/bootstrap.min.css?version=20121010004744">
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css3.buyads.com/css/buyads_external.css?version=20121010004744">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css2.buyads.com/css/jquery.fancybox.css?version=20130426201855">
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css1.buyads.com/css/jquery-ui.css?version=20130426201855">
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css3.buyads.com/css/jquery.selectBox.css?version=20130426201855">
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css1.buyads.com/css/dialog.css?version=20130426201855">
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css2.buyads.com/css/bootstrap.min.css?version=20130426201855">
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdn-css3.buyads.com/css/buyads_external.css?version=20130426201855">
         
         
-        <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/2f8e02e753e1f947294987ae3f6a27dc3397c90f.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-var _kmq = _kmq || [];
-  function _kms(u){
-    setTimeout(function(){
-    var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
-    s.src = u; f.parentNode.insertBefore(s, f);
-    }, 1);
-  }
+          <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/5jxfz5h/analytics.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/10182270.js"></script>
   
-            _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/2f8e02e753e1f947294987ae3f6a27dc3397c90f.1.js');
-        
-  </script>        <script type="text/javascript"> 
+  <script type="text/javascript"> 
   var _gaq = _gaq || [];
   
   _gaq.push(['_setAccount', 'UA-17597105-2']);
@@ -57,7 +49,59 @@ var _kmq = _kmq || [];
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-  </script>  
+  </script>  <script type="text/javascript"> 
+  var analytics = analytics || [];
+
+  analytics.load = function(apiKey) {
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.async = true;
+      script.src = ('https:' === document.location.protocol ? 'https://' : 'http://') +
+                   'd2dq2ahtl5zl1z.cloudfront.net' + '/analytics.js/v1/' + apiKey + '/analytics.min.js';
+      var first = document.getElementsByTagName('script')[0];
+      first.parentNode.insertBefore(script, first);
+      var factory = function (type) {
+          return function () {
+              analytics.push([type].concat(Array.prototype.slice.call(arguments, 0)));
+          };
+      };
+      var methods = ['identify', 'track'];
+      for(var i = 0; i < methods.length; i++) {
+          analytics[methods[i]]=factory(methods[i]);
+      }
+      
+      // Wrap identify so that all traits persist in a cookie, 
+      // and each call is merged with previously persisted traits
+      var identifyFn = analytics['identify'];
+      analytics['identify'] = function(){
+        var new_traits,
+            new_arguments = [],
+            id,
+            old_traits,
+            all_traits = {};
+            
+        // First arg might be the ID, or the attributes may be set anonymously
+        if(arguments[0] && (typeof arguments[0] == 'string')){ 
+          id = arguments.shift();
+        }
+        new_traits = arguments[0];
+        
+        // Collect existing and previous traits together, persist them
+        old_traits = _.extend({}, JSON.parse($.cookie('analytics_user_traits')));
+        all_traits = _.extend({}, old_traits, new_traits);
+        $.cookie("analytics_user_traits", JSON.stringify(all_traits));
+        
+        // identify the user with all traits to the analytics services
+        if(typeof id == 'string') { new_arguments.push(id); }
+        new_arguments.push(all_traits);
+        identifyFn.apply(identifyFn, new_arguments);
+      };
+      
+  };
+
+      analytics.load("5jxfz5h");
+      </script>
+
                     <script type="text/javascript"> 
   //<![CDATA[
   var notifierJsScheme = (("https:" == document.location.protocol) ? "https://" : "http://");
@@ -73,40 +117,23 @@ var _kmq = _kmq || [];
         component:  "public",
         action:     "static"      });
   </script>
-          <script type="text/javascript" src="https://cdn-js2.buyads.com/js/laboratory.js?version=20121010004744"></script>
+          <script type="text/javascript" src="https://cdn-js2.buyads.com/js/laboratory.js?version=20130426201855"></script>
 <script type="text/javascript">
-    var Lab = new Laboratory({"testMode":false,"experiments":{"display mode":{"name":"display mode","property":"display mode","variants":[{"name":"list","value":"list"},{"name":"grid","value":"grid"}],"cookie_name":"ex_display_mode"}},"current":{"display mode":"grid"},"experimentsToInit":[],"eventsOnInit":[]});</script>            <script type="text/javascript">
-  (function() {
-  var useSSL = 'https:' == document.location.protocol;
-  var src = (useSSL ? 'https:' : 'http:') +
-  '//www.googletagservices.com/tag/js/gpt.js';
-  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-  })();
-  </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-
-  <script type="text/javascript">
-  googletag.defineSlot('/1334969/test_ad-tag-per-order_zone', [1, 1], 'div-gpt-ad-1332975426661-0').addService(googletag.pubads());
-  googletag.defineSlot('/1334969/test_ad-tag-per-order_zone-bottom', [1, 1], 'div-gpt-ad-1332975426661-1').addService(googletag.pubads());
-  googletag.pubads().enableSyncRendering();
-  googletag.pubads().enableSingleRequest();
-  googletag.enableServices();
-  </script>
-                
+    var Lab = new Laboratory({"testMode":false,"experiments":{"display mode":{"name":"display mode","property":"display mode","variants":[{"name":"list","value":"list"},{"name":"grid","value":"grid"}],"cookie_name":"ex_display_mode"}},"current":{"display mode":"grid"},"experimentsToInit":[],"eventsOnInit":[]});</script>                
         <!--[if IE]> 
       	<style type="text/css"> 
       		 .clear-both { zoom: 1; /* triggers hasLayout */ }
       	</style> 
       	<![endif]-->
+
+        <link rel="author" href="humans.txt">
     <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
         <body class="prod logged-out public public privacy">
-      <div style="display: none">
-                  <img src="https://testadserver.isocket.com/different.php?cb=0.91199500 1349885944" alt="">
-              </div>
           
 <div class="header buyads">
   <div class="content centered clear-both side-padding-10">
   	<h2 class="logo">
-  	  <a title="Go to BuyAds.com" href="/"><img width="142" height="34" alt="BuyAds.com" src="https://cdn-image3.buyads.com/images/external/logo-buyads.png?version=20121010004744"></a>  	</h2>
+  	  <a title="Go to BuyAds.com" href="/"><img width="142" height="34" alt="BuyAds.com" src="https://cdn-image3.buyads.com/images/external/logo-buyads.png?version=20130426201855"></a>  	</h2>
   	
   	<ul class="primary-menu">
   	        	<li><a href="/how-to-buy-self-serve-advertising">How BuyAds works</a></li>
@@ -158,17 +185,7 @@ var _kmq = _kmq || [];
   	<a href="/favorites" class="favorites-badge has-0" title="You have no favorites."><span class="simple-icon">*</span> <span class="count">0</span></a>
   	
   </div>
-    <!-- test_ad-tag-per-order_zone -->
-  <div id="div-gpt-ad-1332975426661-0" style="width:1px; height:1px;">
-  <script type="text/javascript">
-  googletag.display('div-gpt-ad-1332975426661-0');
-  </script>
-  </div>
 </div>
-
-
-
-
   <div class="clear-both"></div>
 
       	
@@ -179,6 +196,7 @@ var _kmq = _kmq || [];
         		<div class="centered">
         	        	        	
             
+
 
 <h2>
   Privacy Policy
@@ -476,8 +494,6 @@ var _kmq = _kmq || [];
   Burlingame, CA 94010
 </pre>
   
-
-
   <script type="text/javascript">
   /* <![CDATA[ */
   var google_conversion_id = 1023017743;
@@ -510,12 +526,16 @@ var _kmq = _kmq || [];
 		<div class="clear-both">	
 		<div class="top">
 			<div>		
-				<h2 class="logo"><a href="/" title="Go to the main page"><img src="/images/external/logo-buyads.png" width="142" height="34" alt="BuyAds.com"></a></h2>
+				<h2 class="logo">
+          <a href="/" title="Go to the main page">
+            <img src="/images/external/logo-buyads.png" width="142" height="34" alt="BuyAds.com">
+          </a>
+        </h2>
 				<ul class="menu">
 					<li><a href="/how-to-buy-self-serve-advertising">How BuyAds works</a></li>
 					<li><a href="/why-buy-direct-ads">Why buy direct?</a></li>
-					<li><a href="/sell-ads-on-buyads-marketplace">Get listed here</a></li>
-					<li><a href="/about">About</a></li>
+					<li><a href="/sell-ads-on-buyads-marketplace">Get listed</a></li>
+					<li><a href="https://www.isocket.com/about">About</a></li>
 					<li><a href="/contact">Contact</a></li>
 					<li><a href="http://blog.isocket.com">Blog</a></li>
 					<li><a href="http://support.isocket.com/">Support</a></li>
@@ -526,60 +546,59 @@ var _kmq = _kmq || [];
 				<p>For support requests: <a href="mailto:support@buyads.com">support@buyads.com</a></p>
 			</div>
 			<div class="phone">
-				<h2>866.914.5295</h2>
-								                    <p><strong><span class="offline">•</span> It's night here.</strong> Call us in 0 hours.</p>  			</div>
+				            <p><strong><span class="online">•</span> We're at the office.</strong> Say hello!</p>
+          			</div>
 		</div>
-		<div class="bottom">
-	      			<div class="buttons">
-			  <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fbuyads.com&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35&amp;appId=234357703279706" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:35px;" allowtransparency="true"></iframe>
-			  <iframe src="https://platform.twitter.com/widgets/follow_button.html?screen_name=isocket&amp;show_count=false&amp;show_screen_name=false" style="width: 60px; height: 25px;"></iframe>
-			  <!-- Place this tag where you want the +1 button to render -->
-              <g:plusone annotation="none" href="http://buyads.com"></g:plusone>
+		<ul class="bottom">
+        <li>
+          isocket © 2013  
+          <a href="/terms">Terms</a> &amp; <a href="/privacy">Privacy</a>
+        </li>
+                  <li>
+              <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=invert&amp;size=65x36&amp;code=55ad3fdf8f8f4a928e1c73ca8049d95d"></script>
+          </li>
+          
+          <li class="buttons">
+            <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fbuyads.com&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35&amp;appId=234357703279706" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:35px;" allowtransparency="true"></iframe>
+            <iframe src="https://platform.twitter.com/widgets/follow_button.html?screen_name=isocket&amp;show_count=false&amp;show_screen_name=false" style="width: 60px; height: 25px;"></iframe>
+            <!-- Place this tag where you want the +1 button to render -->
+            <g:plusone annotation="none" href="http://buyads.com"></g:plusone>
 
-              <!-- Place this render call where appropriate -->
-              <script type="text/javascript">
-                (function() {
-                  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                  po.src = 'https://apis.google.com/js/plusone.js';
-                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                })();
-              </script>
-         
-			</div>
-			<p class="copyright">
-			  isocket © 2012  
-			  <a href="/terms">Terms</a> &amp; <a href="/privacy">Privacy</a>
-                <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=invert&amp;size=65x36&amp;code=55ad3fdf8f8f4a928e1c73ca8049d95d"></script>
-          	</p>
-          		</div>
+            <!-- Place this render call where appropriate -->
+            <script type="text/javascript">
+              (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+            </script>
+          </li>
+          <li style="float:right;">
+            <a href="https://mixpanel.com/f/partner"><img style="margin-top: 5px;" src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics"></a>
+          </li>
+              </ul>
 		</div>
 	</div>
-    <!-- test_ad-tag-per-order_zone-bottom -->
-  <div id="div-gpt-ad-1332975426661-1" style="width:1px; height:1px;">
-  <script type="text/javascript">
-  googletag.display('div-gpt-ad-1332975426661-1');
-  </script>
-  </div>
 </div>
-		    <script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.min.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery-ui.min.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js1.buyads.com/js/jquery.base-widget.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.dialog.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.fancybox.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js3.buyads.com/js/jquery.form.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.form-widget.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js3.buyads.com/js/jquery.form-widget-multipart.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.number.format.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js1.buyads.com/js/jquery.numeric.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.placeholder.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.radiobunder.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js1.buyads.com/js/jquery.tooltip.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.utils.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/swfobject.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js2.buyads.com/js/bootstrap-twipsy.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js3.buyads.com/js/bootstrap-popover.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn.optimizely.com/js/10182270.js?version=20121010004744"></script>
-<script type="text/javascript" src="https://cdn-js1.buyads.com/js/cartbutton-events.js?version=20121010004744"></script>
+		    <script type="text/javascript" src="https://cdn-js3.buyads.com/js/underscore-min.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.min.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery-ui.min.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js1.buyads.com/js/jquery.base-widget.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.dialog.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.fancybox.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js3.buyads.com/js/jquery.form.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.form-widget.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js3.buyads.com/js/jquery.form-widget-multipart.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.number.format.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js1.buyads.com/js/jquery.numeric.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.placeholder.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.radiobunder.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js1.buyads.com/js/jquery.tooltip.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/jquery.utils.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/swfobject.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js2.buyads.com/js/bootstrap-twipsy.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js3.buyads.com/js/bootstrap-popover.js?version=20130426201855"></script>
+<script type="text/javascript" src="https://cdn-js1.buyads.com/js/cartbutton-events.js?version=20130426201855"></script>
     
     <script type="text/javascript">
       jQuery(function($){
@@ -639,6 +658,85 @@ var _kmq = _kmq || [];
     
 <script type="text/javascript">
 favoriteProperties = [];
-</script>    	
+</script>        <script type="text/javascript">
+$(document).ready(function(){ 
+  var analytics_args = [],
+      acquisitionSource;
+      
+      
+  // referralHost = the domain name of the referrer of this request, or null
+  var referralHost = function() {
+    var blackList = ['', null, 'google.co', 'buyads.com', 'isocket.com', 'buyads.dev', 'isocket.dev'];
+    var host = document.referrer.toLowerCase().match(/\:\/\/[w\.]*([a-z\-0-9\.]+)\/?/i);
+    
+    // Break a match out of the array
+    host !== null && (host = host[1]);
+    
+    // Invoke black list
+    return (blackList.indexOf(host) > -1) ? null : host;
+  } ();
+  
+  // Parameter Grabber via http://stackoverflow.com/a/979995/311901 
+  var QueryString = function () {
+    var query_string = {};
+    var query = window.location.search.substring(1);
+    var vars = query.split("&");
+    for (var i=0;i<vars.length;i++) {
+      var pair = vars[i].split("=");
+        // If first entry with this name
+      if (typeof query_string[pair[0]] === "undefined") {
+        query_string[pair[0]] = pair[1];
+        // If second entry with this name
+      } else if (typeof query_string[pair[0]] === "string") {
+        var arr = [ query_string[pair[0]], pair[1] ];
+        query_string[pair[0]] = arr;
+        // If third or later entry with this name
+      } else {
+        query_string[pair[0]].push(pair[1]);
+      }
+    } 
+      return query_string;
+  } ();
+  
+  // Default traits
+  if(typeof analytics_traits == "undefined") {
+    analytics_traits = {
+      isRegistered: false
+    };
+  }
+  
+  // log this users' acquisition source:
+  //  - utm_source overrides referrer
+  //  - Referrer only set when present and not blacklisted
+  //  - Directs are not logged. This means the last used referrer will remain. 
+  acquisitionSource = (QueryString.utm_source || referralHost);
+  if(acquisitionSource !== null) {
+    analytics_traits['acquisitionSource'] = acquisitionSource;
+  }
+  
+  
+    
+  
+      if(typeof optimizely != 'undefined' && optimizely) {
+      _(window['optimizely'].data.state.variationNamesMap).each(function(variationName, experimentId){
+        var experimentName = window['optimizely'].data.experiments[experimentId].name;
+        analytics_traits[experimentName] = variationName;
+      });
+    }
+    
+  
+    
+  // Identify the user
+  analytics_args.push(analytics_traits);
+  analytics.identify.apply(analytics, analytics_args);
+  
+  
+    
+  
+        analytics.track('Viewed a Page');
+      
+});
+</script>    
+	
 
 </body></html>
