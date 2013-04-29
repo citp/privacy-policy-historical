@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seanogle.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102042030id_/http%3A//www.seanogle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seanogle.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430000153id_/http%3A//www.seanogle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Location 180 | Location Independent Living for the Masses
+# Privacy Policy — Location 180 | Build a Business, Live Anywhere, Achieve Freedom
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.seanogle.com%2Fprivacy-policy&media=&description=Privacy+Policy)
 
