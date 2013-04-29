@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230040731id_/http%3A//www.eurojobs.com/en/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430011753id_/http%3A//www.eurojobs.com/en/main/privacy.html) for the most accurate reproduction.*
 
 # Eurojobs.com - Job opportunities in Europe, Find jobs in Europe, International jobs, Employment opportunities
 
