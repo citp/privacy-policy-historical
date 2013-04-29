@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreadcentral.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102194650id_/http%3A//www.dreadcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreadcentral.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429123602id_/http%3A//www.dreadcentral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Horror Movie, DVD, & Book Reviews, News, Interviews at Dread Central
+# Privacy Policy - Dread Central
 
 **Dread Central Privacy Policy**
 
