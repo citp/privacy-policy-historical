@@ -1,41 +1,29 @@
-> *The following text is extracted and transformed from the meredosto.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626191804id_/http%3A//meredosto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meredosto.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430003252id_/http%3A//www.meredosto.com/privacy-policy) for the most accurate reproduction.*
 
-# Meredosto: Privacy
+# Privacy Policy
 
-**Privacy Policy**
+Thank you for visiting our website. This privacy policy tells you how we use personal information collected at this website. Please read this privacy policy before using the website or submitting any personal information. By using the website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to keep track of the policy changes and make sure that you understand how any personal information you provide will be used. 
 
-_Website Visitors_
+Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted at those websites. 
 
-Like most website operators, meredosto.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Meredosto’s purpose in collecting non-personally identifying information is to better understand how meredosto.com visitors use its website. From time to time, meredosto.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+## Collection of Information
 
-meredosto.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. meredosto.com does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request and to sign you up for our service mailing list, unless you give us permission to use it in other manners. 
 
-_Gathering of Personally-Identifying Information_
+## Cookie/Tracking Technology
 
-Certain visitors to meredosto.com websites choose to interact with meredosto.com in ways that require meredosto.com to gather personally-identifying information. The amount and type of information that meredosto.com gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, meredosto.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with meredosto.com. meredosto.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+This website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. Cookies can also help customize the website for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
 
-_Aggregated Statistics_
+## Distribution of Information
 
-meredost.com may collect statistics about the behavior of visitors to its websites. For instance, meredosto.com may reveal how many downloads a particular case study recieved. However, meredosto.com does not disclose personally-identifying information other than as described below.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
 
-_Protection of Certain Personally-Identifying Information_
+## Commitment to Data Security
 
-meredosto.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on meredosto.com's behalf or to provide services available at meredosto.com's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using meredosto.com's websites, you consent to the transfer of such information to them. meredosto.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone, unless it is part of a business transfer, as described below. Other than to its employees, contractors, and affiliated organizations, as described above meredosto.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when meredosto .com believes in good faith that disclosure is reasonably necessary to protect the property or rights of meredosto.com, third parties, or the public at large. If you are a registered user of a meredosto.com website and have supplied your email address, meredosto.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with meredosto.com and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. meredosto.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this website allow you to opt out of further mailings. 
 
-_Business transfers_
+## Privacy Contact Information
 
-meredosto.com may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information on meredosto.com, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+If you have any questions, concerns, or comments about our privacy policy you may contact us using means provided on this website. 
 
-_Cookies_
-
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. meredosto.com uses cookies to help meredosto.com identify and track visitors, their usage of meredosto.com website, and their website access preferences. meredosto.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using meredosto.com, with the drawback that certain features of meredosto.com may not function properly without the aid of cookies.
-
-_Our Policy Towards Children_
-
-The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at info@meredosto.com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
-
-_Privacy Policy Changes_
-
-Although most changes are likely to be minor, meredosto.com may change its Privacy Policy from time to time, and in Meredosto’s sole discretion. meredosto.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-_Thanks to_[ _wordpress.com_](http://wordpress.com/) _for making their privacy policy available under a Creative Commons Sharealike license._
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
