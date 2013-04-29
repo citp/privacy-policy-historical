@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101062904id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429185902id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthhype.com
 
@@ -34,7 +34,7 @@ A “Web Cookie” is a string of information that a website stores on a user’
 
  ** _Third Party Advertisers_**
 
-We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
+We use third-party advertising companies to serve ads and collect information when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. For more information about this practice, and to understand your opt-out choices, please [click here.](http://www.networkadvertising.org/choices/) Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
 
  ** _Web Beacons_**
 
@@ -129,4 +129,4 @@ HealthHype.com
 
 Burlingame, Ca 94010
 
-Email: j2network.com@gmail.com ****
+Email: j2network.com@gmail.com
