@@ -1,38 +1,33 @@
-> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603131159id_/http%3A//www.sockdreams.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429143757id_/http%3A//www.sockdreams.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Socks by Sock Dreams » Customer Service » Privacy Policy
 
+## Customer Service
+
 ### Privacy Policy
 
-We value your privacy & security. Virtual terminal has SSL for secure online transactions.  
-We will NEVER sell or give your information to anyone else or add you to our mailing list simply because you’ve written or ordered.
+**We will NEVER sell or give your information to anyone else or add you to any mailing lists, even if you’ve written to us or placed an order.**
 
 #### Our commitment to privacy
 
-We respect your privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+We respect and value our customers’ privacy and security. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, it is available through a link at the bottom of each page and at every point where personally identifiable information may be requested.
 
-#### The information we collect & how we use it:
+#### The information we collect and how we use it:
 
-In order to process your order, we may require various forms of personal information from you depending on the payment method you choose. We will never ask for more than is necessary for the bank to verify your ability to pay with your chosen method.
+In processing your order, we may require various forms of personal information from you, depending on the payment method you choose. We will never ask for more information than is necessary for the bank to verify your payment. If we have trouble processing your order, the contact information you provided is used to get in touch with you. We do not share that information with outside parties except to the extent necessary to complete your order.
 
-IP addresses are recorded for security purposes only in the check out process.
+IP addresses are recorded for security purposes only during the checkout process.
 
-If we have trouble processing an order, this contact information is used to get in touch with the user.
+On some pages, you can submit feedback or leave comments; we may ask you for some additional information so we can better address an issue, but you are never required to leave additional information, and we will never send you unsolicited emails. The only times you will get email from us are if you place an order, [ask a question](http://www.sockdreams.com/info/contact/), or [subscribe to our newsletter](http://www.sockdreams.com/_pages/join_list.php).
 
-We do not share this information with outside parties except to the extent necessary to complete that order.
+We use non-identifying and computer-generated information for statistical purposes only. This includes, among other things, domain, country, browser, platform, and pages visited. Most websites routinely do this, and we never share any of this information with anyone who is not directly involved with the maintenance of our website.
 
-#### Cookies
+**Cookies**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. If your computer is set not to accept cookies, you will not be able to add more than one item to the cart.
-
-On some pages, you can submit feedback or leave comments and we may ask you for some additional information, you are never required to leave additional information and we will never send you unsolicited emails. The only times you will get email from us are if you ask a question, place an order or request to join our update list.
-
-We use non-identifying and computer generated information for statistical purposes only. This includes, among other things, domain, country, browser, platform, and pages visited. Most websites routinely do this and we never share any of this information with anyone who is not directly involved with the maintenance of our website.
+A cookie is a piece of data containing information about a user; that data is stored on the user’s hard drive. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If your computer is set to not accept cookies, you will not be able to add more than one item to your cart.
 
 #### Our commitment to data security
 
-This website takes precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.When our registration/order form asks users to enter sensitive information (such as credit card number and CVV), that information is encrypted and is protected with SSL encryption software. While on a secure page (such as our order form), the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer appears locked, instead of unlocked/open as when you are just "surfing". While we use SSL encryption to protect sensitive information online, we also protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.
+We proudly take every precaution to protect our customers’ privacy and security. When the checkout process asks you to enter sensitive information (such as credit card number and CCV), that information is protected with SSL encryption software. While on a secure page (such as the checkout screens), the padlock icon on web browsers such as Firefox or Microsoft Internet Explorer appears locked, instead of unlocked/open as during normal internet use. All of our customers’ data is restricted within our offices; only employees who need the information to perform a specific job (for example, our financial manager or a customer service representative) are granted access to personally identifiable information. The servers that store sensitive material are kept in a secure, locked environment.
 
-The servers that store personally identifiable information are kept in a secure, locked environment.
-
-If you have any questions or concerns about the security of our website or our privacy policies, you are always welcome to [send us an email](mailto:orders@sockdreams.com). 
+**If you have any questions or concerns about the security of our website or our privacy policies, you are always welcome to[send us an email](mailto:orders@sockdreams.com).**
