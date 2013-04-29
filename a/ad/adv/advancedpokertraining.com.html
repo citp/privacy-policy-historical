@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the advancedpokertraining.com privacy policy that was archived on 2012-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121021185643id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advancedpokertraining.com privacy policy that was archived on 2013-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130429121148id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -140,6 +140,64 @@ function order_by_6max(type){
 		});
 	}
 }
+function reload_statistics_sng(){
+	selected_stat=$("#select").val();
+	$.ajax({url:"ajax/ajax.player_statistics_sng.php?stat="+$("#select").val(),success: function(data) {
+				$("#stats-wrapper").html(data);
+				$("#sorted_by").html("-&nbsp; Hand or Type  ASC");
+   			}
+	});
+}
+function order_by_sng(type){
+	if(typeof(selected_stat)!="undefined" && selected_stat.length>0)
+	{
+		var order_regexp=new RegExp(/(asc)/);
+		if($("#"+type+"_order").attr("class").match(order_regexp)) {
+			$("#"+type+"_order").removeClass("asc");
+			var direction="asc";
+			$("#"+type+"_order").addClass("desc");
+		}
+		else {
+			$("#"+type+"_order").removeClass("desc");
+			var direction="desc";
+			$("#"+type+"_order").addClass("asc");
+		}
+		$.ajax({url:"ajax/ajax.player_statistics_sng.php?stat="+selected_stat+"&orderby="+type+"&direction="+direction,success: function(data) {
+					$("#stats-wrapper").html(data);
+					$("#sorted_by").html("-&nbsp; "+$("#"+type+"_order").html()+" "+direction.toUpperCase());
+	   			}
+		});
+	}
+}
+function reload_statistics_mtt(){
+	selected_stat=$("#select").val();
+	$.ajax({url:"ajax/ajax.player_statistics_mtt.php?stat="+$("#select").val(),success: function(data) {
+				$("#stats-wrapper").html(data);
+				$("#sorted_by").html("-&nbsp; Hand or Type  ASC");
+   			}
+	});
+}
+function order_by_mtt(type){
+	if(typeof(selected_stat)!="undefined" && selected_stat.length>0)
+	{
+		var order_regexp=new RegExp(/(asc)/);
+		if($("#"+type+"_order").attr("class").match(order_regexp)) {
+			$("#"+type+"_order").removeClass("asc");
+			var direction="asc";
+			$("#"+type+"_order").addClass("desc");
+		}
+		else {
+			$("#"+type+"_order").removeClass("desc");
+			var direction="desc";
+			$("#"+type+"_order").addClass("asc");
+		}
+		$.ajax({url:"ajax/ajax.player_statistics_mtt.php?stat="+selected_stat+"&orderby="+type+"&direction="+direction,success: function(data) {
+					$("#stats-wrapper").html(data);
+					$("#sorted_by").html("-&nbsp; "+$("#"+type+"_order").html()+" "+direction.toUpperCase());
+	   			}
+		});
+	}
+}
 </script>
 <script type="text/javascript" language="javascript" src="js/clearText.js"></script>
 <script src="js/AC_RunActiveContent.js" type="text/javascript"></script>
@@ -148,7 +206,8 @@ function order_by_6max(type){
 <!--[if lt IE 7.]>
 <script defer type="text/javascript" src="/poker/pngfix.js"></script>
 <![endif]-->
-<link href="/poker/templates/css/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="/poker/templates/css/stylesheetNEW.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="font/font.css" type="text/css" charset="utf-8">
 <link href="js/SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css">
 <link href="js/SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css">
 </head>
@@ -168,7 +227,7 @@ function order_by_6max(type){
     <!--Header Start-->
     <div id="navigation">
       <ul>
-        <li><a href="http://www.advancedpokertraining.com/poker/index.php">Play Now</a></li>
+        <li><a href="http://www.advancedpokertraining.com/poker/game_choice.php">Play Now</a></li>
     <li><a href="/poker/membership.php">Sign Up</a></li>    
          <li><a href="/poker/faq.php">faq</a></li>
          <li><a href="/poker/screens.php">instructions</a></li>
@@ -187,7 +246,7 @@ function order_by_6max(type){
       <div id="right"><img src="/poker/images/home_11.jpg" alt="Advanced Poker Training" width="8" height="32"></div>
       <input name="amember_login" type="text" class="text-field-1" id="textfield" value="Username" onfocus="clearText(this)" onblur="clearText(this)">
       <input name="amember_pass" type="password" class="text-field-1" id="textfield2" value="Password" onfocus="clearText(this)" onblur="clearText(this)">
-	  <input type="hidden" name="login_attempt_id" value="1350845803">
+	  <input type="hidden" name="login_attempt_id" value="1367237508">
       &nbsp;&nbsp;&nbsp;&nbsp;
       <input name="button" type="image" id="button" value="Submit" src="/poker/images/home_10.jpg" align="middle">
       <a href="/poker/login.php" class="h1">&nbsp;Forgot Password?</a></form> </div>
