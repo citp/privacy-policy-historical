@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925210724id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429032415id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
 This site http://www.cyberciti.biz and http://nixcraft.com [ our forum ] ("nixCraft") hosts the project, documents, and tutorials related to open source software's, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by Vivek Gite or by project contributors. We do not ask for any registration except registration is compulsory only if:
 
-  * You wish to post your message on our forum
-  * You wish to post comments on our blogs or tutorials
+  * You wish to post your message on our forum.
+  * You wish to post comments on our blogs or tutorials.
 
 
 
@@ -23,6 +23,10 @@ If offensive content is posted or sent anywhere on or to cyberciti.biz or a visi
 
 nixCraft collect and use the data contained in server log files. The information in the log files include your IP address, ISP, the browser you used to visit this site, the date & time you visited our site and which pages you visited throughout our site.
 
+### Google Analytics
+
+We also use Google Analytics on this website. A small amount of **anonymous data** is sends to the Google's servers such as your ISP, browser, operating system, geo-location and so on. We use this reports to improve our site's articles (content), and design for our visitors. Google Analytics put cookies on your computer. Please see the [Google Analytics Terms of Service](http://www.google.com/analytics/terms/us.html) for more information.
+
 ### Cookies and Web Beacons
 
 We do use cookies to store information, such as your personal preferences when you visit our site.
@@ -36,6 +40,8 @@ We use third-party advertising companies to serve ads when you visit our website
 ##### Links to the vendor websites to opt out:
 
   * DoubleClick DFA and RichMedia ([www.doubleclick.com](http://www.doubleclick.com/))
+  * Collective ([www.collective.com](http://www.collective.com/))
+  * IDG Technetwork ([www.idgtechnetwork.com](http://www.idgtechnetwork.com/))
   * Mediaplex/ValueClick ([www.mediaplex.com](http://www.mediaplex.com/))
   * Eyeblaster ([www.eyeblaster.com](http://www.eyeblaster.com/))
   * EyeWonder ([www.eyewonder.com](http://www.eyewonder.com/))
@@ -74,9 +80,9 @@ No. This site is not directed to children under the age of 13. nixCraft does not
 
 We don’t.
 
-### How do you use this information?
+### How do you use information collected from "Google Analytics" and log files?
 
-nixCraft may use the personally identifiable information to improve this site, including, but not limited to:
+nixCraft may use the anonymous data or information to improve this site, including, but not limited to:
 
   * To understand a user’s needs and create content that is relevant to the user;
   * To generate statistical studies;
@@ -109,4 +115,4 @@ Questions regarding Site policy, should be directed to us via [e-mail](https://w
 
 Please note that this privacy policy is subject to change without any prior notice to visitors.
 
-Last updates on: Jan-11-2010, 1:54am IST.
+Last updates on: Oct-9-2012, 7:27 PM IST.
