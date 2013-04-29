@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101172048id_/http%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429193159id_/http%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
 
 # BleepingComputer.com - Privacy Policy
 
-**Updated May, 17, 2011**
+**Updated November, 09, 2012**
 
 1\. Overview
 
@@ -20,7 +20,7 @@ B. Aggregate Information
 
 Aggregate information is non-personally identifiable/anonymous information, such as type of web browser used, type of operating system, the domain name of your Internet Service Provider, and IP addresses. Each time a visitor (whether they are registered or not) connects to a page on the Site, we may log that visitor's IP address. This is a common practice used by many sites and is used to track which pages visitors access and how long they spend there.
 
-Cookies are small text files that a web site sets on your computer in your hard drive in order to recognize you in the future. Cookies make using our Site easier, as they allow you to register an account and stay logged in as you traverse the Site. BleepingComputer also uses cookies to save your password for future visits. Third parties may use cookies as described in Section 4 below.
+Cookies are small text files that a web site sets on your computer in your hard drive in order to recognize you in the future. Cookies make using our Site easier, as they allow you to register an account, stay logged in as you traverse the Site, and save your password for future visits. Third parties may use cookies as described in Section 4 below.
 
 You may disable cookies at any time. But, if you do not allow cookies from BleepingComputer, then you may not be able to use certain features of the Site.
 
