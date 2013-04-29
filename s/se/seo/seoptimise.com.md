@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoptimise.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010080542id_/http%3A//www.seoptimise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoptimise.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429113947id_/http%3A//www.seoptimise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEOptimise
 
