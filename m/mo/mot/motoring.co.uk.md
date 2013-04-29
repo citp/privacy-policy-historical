@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204165415id_/http%3A//www.motoring.co.uk/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429230721id_/http%3A//www.motoring.co.uk/privacy.cgi) for the most accurate reproduction.*
 
 # Privacy Policy for motoring.co.uk
 
@@ -64,7 +64,7 @@ We or third parties acting on our behalf may use your personal information as fo
 
 We may also disclose your personal information to third parties: 
 
-  * Who provide automotive products and services relevant to the products or services you have selected on the motoring.co.uk website and/or
+  * Who provide automotive, insurance or financial products and services relevant to the products or services you have selected on the motoring.co.uk website and/or
   * That we think might be of interest to you so that they can also provide you with information about the relevant goods or services that they provide.
   * We also may need to disclose your personal information:
   * Where it is necessary to comply with any applicable laws , to prevent fraud or misuse of our service
