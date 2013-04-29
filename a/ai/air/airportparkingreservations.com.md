@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029001614id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429054935id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ When you decide to conduct a transaction with AirportParkingReservations.com, In
 
 ###  Use of Cookies:
 
-A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser. This is useful for having the browser remember some specific information. AirportParkingReservations.com, Inc. may use cookies to improve your browsing experience with us and to give sales credit to third party marketing companies who promote our services. Your cookie allows us to recognize you when you return to our web site so that you can more quickly fill-in your personal information on subsequent visits.
+A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser. This is useful for having the browser remember some specific information. AirportParkingReservations.com, Inc. may use cookies to improve your browsing experience with us and to give sales credit to third party marketing companies who promote our services. AirportParkingreservations.com, Inc and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies together to inform, optimize, and serve ads based on someone's past visits to our website. Your cookie allows us to recognize you when you return to our web site so that you can more quickly fill-in your personal information on subsequent visits.  This also helps us improve web site functionality, performance and identify technical issues.  AirportParkingReservations.com, Inc may use cookies to serve 'remarketing' advertisements across the internet on other web sites you visit.
 
 You can refuse cookies by turning them off in your browser. However, if you do so we will not be able to recognize you as a repeat customer and some of the features on our web site may not work.
 
