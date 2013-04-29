@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023024745id_/http%3A//www.ripe.net/lir-services/ncc/legal/ripe-ncc-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430000913id_/http%3A//www.ripe.net/lir-services/ncc/legal/ripe-ncc-privacy-statement) for the most accurate reproduction.*
 
 # RIPE NCC Privacy Statement — RIPE Network Coordination Centre
 
@@ -12,6 +12,9 @@ The main purpose for which the RIPE NCC processes personal information is to sup
 
 Additionally, the RIPE NCC processes personal information for the purpose of performing activities for the benefit of the RIPE NCC members or for the benefit of the RIPE community (see 2.2).
 
+  
+
+
 ### 2.1. Personal data in the RIPE Database
 
 The public RIPE Database shows registration details of Internet number resources. The records may contain contact details (name, email address, phone and fax numbers and postal address) of persons responsible for the operation of networks or routers and/or for maintaining the information in the RIPE Database.
@@ -20,12 +23,12 @@ In some cases, the RIPE NCC provides the initial registration. Subsequently, the
 
 The RIPE NCC publishes the contact details as part of the registration details of Internet number resources to make it possible for the RIPE NCC and the Internet network community to contact the appropriate persons when it is necessary:
 
-  * to secure the proper functioning of the Internet; 
-  * to prevent or redress possible misuse of the Internet; 
-  * to improve the quality of the data;
-  * to protect the information stored in the RIPE Database;
-  * to prevent any unauthorised modification of information stored in the RIPE Database;
-  * to ensure accountability for information entered into the RIPE Database.
+  * To secure the proper functioning of the Internet;
+  * To prevent or redress possible misuse of the Internet;
+  * To improve the quality of the data;
+  * To protect the information stored in the RIPE Database;
+  * To prevent any unauthorised modification of information stored in the RIPE Database;
+  * To ensure accountability for information entered into the RIPE Database.
 
 
 
@@ -37,16 +40,18 @@ Where necessary for the above purposes and to comply with statutory obligations,
 
 Except as described herein or when under a statutory duty to do so, the RIPE NCC does not share or transfer any personal data.
 
+  
+
+
 ### 2.2. Processing your personal data for other purposes
 
 In addition to the collection and use of personal data in relation to the RIPE Database, the RIPE NCC provides other services and activities that may require the processing of your personal information. These include:
 
-  * RIPE NCC member services: the RIPE NCC may request contact details for RIPE NCC member services such as relationship management, accounting and billing;
-  * LIR Portal and RIPE NCC website (www.ripe.net): processing of messages, service requests and information requests;
-  * Mailing lists: messages including email address, date and message content are published in the mailing lists and mailing list archives to support the open and transparent RIPE Policy Development Process;
-  * Event registration administration for meetings, training courses and other organised events: the RIPE NCC may publish lists of attendees on a website as part of its commitment to open and transparent policy development. These lists contain the name of the attendee and their organisation, but no contact details or other personal details.
-  * RIPE NCC Information Services: the RIPE NCC may request contact details for purposes related to the proper function of the RIPE NCC Information Services (including Test Traffic Measurements and DNSMON), such as installation, support, maintenance, billing, relationship management and administration.  
-Other services: the RIPE NCC may request contact details for other services provided by the RIPE NCC to secure the proper functioning of the Internet.
+  1. RIPE NCC member services: the RIPE NCC may request contact details for RIPE NCC member services such as relationship management, accounting and billing;
+  2. LIR Portal and RIPE NCC website (www.ripe.net): processing of messages, service requests and information requests;
+  3. Mailing lists: messages including name, email address, date and message content are published in the mailing lists and mailing list archives to support the open and transparent RIPE Policy Development Process;
+  4. Event registration administration for meetings, training courses and other organised events: the RIPE NCC may publish lists of attendees on a website as part of its commitment to open and transparent policy development. These lists contain the name of the attendee and their organisation, but no contact details or other personal details.
+  5. RIPE NCC non-member services: the RIPE NCC may request contact details for purposes related to the provision and proper function of RIPE NCC services such as installation, support, maintenance, billing, relationship management and administration.
 
 
 
@@ -56,27 +61,55 @@ Data collected for the above purposes may be transferred to third parties engage
 
 In addition to the above, the RIPE NCC may register, process or transfer your personal data where such is required pursuant to a statutory duty.
 
+  
+
+
 ## 3\. Protection and secrecy of your information
 
 The RIPE NCC maintains strict procedures to authenticate people’s identification and verify their right to authorise changes in the RIPE Database.
 
-Personal data held in the public RIPE Database is available to the public. Use of the RIPE Database by members of the public is subject to the [RIPE Database Terms and Conditions](http://www.ripe.net/data-tools/support/documentation/db-tc). The RIPE NCC operates a technical limiting process as well as an [Acceptable Use Policy](http://www.ripe.net/data-tools/support/documentation/aup) to prevent data mining of large amounts of personal data through use of the RIPE Database query service. People attemping to abuse this service will have their access to the RIPE Database blocked.
+Personal data held in the public RIPE Database is available to the public. Use of the RIPE Database by members of the public is subject to the [RIPE Database Terms and Conditions](http://www.ripe.net/lir-services/data-tools/support/documentation/db-tc). The RIPE NCC operates a technical limiting process as well as an [Acceptable Use Policy](http://www.ripe.net/lir-services/data-tools/support/documentation/aup) to prevent data mining of large amounts of personal data through use of the RIPE Database query service. People attempting to abuse this service will have their access to the RIPE Database blocked.
 
 The RIPE NCC maintains a high level of physical security and protection for all its computer and network facilities, and, in particular, for those in which personal information may be stored.
 
+  
+
+
 ## 4\. Use of Cookies
 
-“Cookies” are small files that a browser can record after visiting a website. The RIPE NCC currently uses cookies on our members’ LIR portal, including the new member registration service, on meetings registration services, on all RIPE NCC information service portals and on RIPE Labs. Cookies may be written to your hard drive when you visit a portal. These cookies are used solely to facilitate your personal use of the portal. You can disable cookies by adjusting your browser settings. However, you may not be able to use all the interactive features of the portal if cookies are disabled.
+  1. What is a cookie and what are cookies used for?
+
+“Cookies” are small files that a browser can record after visiting a website. These files are set on your computer (or any other device with which you visit a website) through your browser.
+
+Websites operated by the RIPE NCC use cookies that:
+
+    * Are strictly necessary for the provision of the services that are available through the website and facilitate your use of these services (e.g. to identify you when you are logged in)
+    * Improve your experience by recording information about your settings (e.g. your location)
+    * Collect anonymous statistical information on the use of the website that help us improve the performance of the RIPE NCC website (e.g. the number of visitors to each part of our websites and their origin)
+    * Help us study the IPv6 capability of visitors, by making sure that your IPv6 capability is only measured once
+
+The RIPE NCC **does not use** cookies for online behavioural advertising purposes nor does it share information collected via cookies with any third parties.
+
+Some of these cookies are deleted once you close your browser. Others are set for longer periods of time.
+
+For detailed information about the cookies used by the RIPE NCC, the purpose of these cookies and the period they remain active, please see [the list of cookies](http://www.ripe.net/lir-services/ncc/legal/cookies).
+
+  2. Third party cookies
+
+During your visit to the RIPE NCC website, third parties may also set cookies on your device. These cookies are set when you visit a page which has content embedded from third party sites, such as YouTube.
+
+  3. Disabling cookies
+You can disable cookies by adjusting your browser settings Please check the “help” menu of your browser for information about how to change your cookie preferences. However you may not be able to use all website features if cookies are disabled. 
+
 
 ## 5\. Accessing and changing your information
 
 You have the right to ask that inaccurate or incomplete data relating to you is rectified. In order to fulfil our obligation, the RIPE NCC will request you to identify yourself.
 
-RIPE NCC Members have the possibility to view their registration information with the RIPE NCC online via the LIR Portal. You may have the ability to access and change your personal data using the LIR Portal on behalf of your organisation. The RIPE NCC will help those who may have trouble modifying their own data. To prevent unauthorised access and changes to your personal data, you will have to sign in with your credentials, i.e. Reg ID, username and password.
+RIPE NCC members have the possibility to view their registration information with the RIPE NCC online via the LIR Portal. You may have the ability to access and change your personal data using the LIR Portal on behalf of your organisation. The RIPE NCC will help those who may have trouble modifying their own data. To prevent unauthorised access and changes to your personal data, you will have to sign in with your credentials, i.e. Reg ID, username and password.
 
-If you are not authorised to change your personal data, please refer to the authorised person (the maintainer, i.e. the person or entity indicated on the record as “mnt-by:”). If the maintainer does not respond, you may refer to the [RIPE NCC Procedure for the Removal of Personal Contact Details from the RIPE Database](http://www.ripe.net/data-tools/support/documentation/removal-of-personal-data). The procedure describes the terms under which the RIPE NCC may remove personal data from the RIPE Database upon the request of the data subject.
+If you are not authorised to change your personal data, please refer to the authorised person (the maintainer, i.e. the person or entity indicated on the record as “mnt-by:”). If the maintainer does not respond, you may refer to the [RIPE NCC Procedure for the Removal of Personal Contact Details from the RIPE Database](http://www.ripe.net/data-tools/support/documentation/removal-of-personal-data). The procedure describes the terms under which the RIPE NCC may remove personal data from the RIPE Database upon the request of the data subject. If you have subscribed to any RIPE mailing lists, you are able to unsubscribe yourself at any time or change your preferences by accessing this web page: 
 
-If you have subscribed to any RIPE mailing lists, you are able to unsubscribe yourself at any time or change your preferences by accessing this web page:  
 <http://www.ripe.net/ripe/mail>.
 
 If your name has been published on the RIPE NCC website as part of the list of attendees of an event or meeting and you wish to be deleted from the list, please contact [meeting _at_ ripe _dot_ net](http://www.ripe.net/lir-services/ncc/legal/contact#meeting_at_ripe_dot_net).
