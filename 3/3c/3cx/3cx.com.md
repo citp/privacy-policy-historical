@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3cx.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919083728id_/http%3A//www.3cx.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3cx.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430014416id_/http%3A//www.3cx.com/company/privacy.html) for the most accurate reproduction.*
 
 # 3CX Privacy Policy
 
@@ -19,11 +19,10 @@ If your browser allows it, our web sites use cookies, which are small text files
 **Information From You**  
 Visitors can register to obtain access to some parts of our web site (i.e support pages). When you register, we will ask you for some personal information. Some of the information requested will be required for registration, and some may be optional. Also, we may ask you to disclose personal information to enable us to provide assistance and information to you.
 
-**Use Of And Access To Information**  
-
+**Use Of And Access To Information**
 
 **Security and Confidentiality**  
-We use technical security measures to prevent the loss, misuse and alteration of information under our control and information about our subscribers and their website usage is maintained in a secure environment. Information about our subscribers and their website usage is not shared with third parties for marketing purposes. We do not disclose any information about any subscribers' usage of our website except in specific cases, and we do not share information with any unaffiliated third parties for marketing purposes unless you expressly give us permission to do so.
+We use technical security measures to prevent the loss, misuse and alteration of information under our control and information about our subscribers and their website usage is maintained in a secure environment. Information about our subscribers and their website usage is not shared with third parties for marketing purposes. We do not disclose any information about any subscribers’ usage of our website except in specific cases, and we do not share information with any unaffiliated third parties for marketing purposes unless you expressly give us permission to do so.
 
 **Identifiable Information**  
 We will share your personal data as required by law or by the order of any competent court or (semi-)governmental authority or in matters of public safety or policy. Under strict conditions of confidentiality we may share your personal data with agents and contractors who use it on our behalf or in connection with their relationship with us. We will also share your personal data as may be needed in connection with the enforcement of agreements.
@@ -32,10 +31,10 @@ We will share your personal data as required by law or by the order of any compe
 We may provide summary statistics about our interests and preferences of visitors of our web site, traffic patterns and related site information. These statistics do not include personally identifiable information.
 
 **Promotional Messages**  
-You will not receive any promotional messages from us unless you opted to allow us to do so. If you don't want to receive promotional materials from us, you can opt out at any time. Please use our contact page to send us a message clearly stating that you wish to opt out and stop receiving promotional messages.
+You will not receive any promotional messages from us unless you opted to allow us to do so. If you don’t want to receive promotional materials from us, you can opt out at any time. Please use our contact page to send us a message clearly stating that you wish to opt out and stop receiving promotional messages.
 
 **Privacy Policy Changes  
-** If our information practices change in a significant way, we will post and highlight the policy changes.
+**If our information practices change in a significant way, we will post and highlight the policy changes.
 
 This privacy policy has last been updated on 26 January 2011.
 
