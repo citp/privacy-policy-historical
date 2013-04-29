@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyboyspattaya.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920140049id_/http%3A//www.ladyboyspattaya.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboyspattaya.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429173616id_/http%3A//www.ladyboyspattaya.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ladyboy Forum - Pattaya Ladyboys
 
@@ -14,7 +14,6 @@ This website does not store any information that would, on its own, allow us to 
 
   1.  
   2. [Privacy Policy](http://www.ladyboyspattaya.com/privacypolicy/)
-  3. [**There are 1 people in the chat**](http://www.ladyboyspattaya.com/index.php?app=ipchat)
-  4. [Rules](http://www.ladyboyspattaya.com/index.php?app=forums&module=extras&section=boardrules) · 
+  3. [Rules](http://www.ladyboyspattaya.com/index.php?app=forums&module=extras&section=boardrules) · 
 
 
