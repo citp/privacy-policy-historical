@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasap.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014120257id_/http%3A//www.oasap.com/content/23-serviceprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasap.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429144202id_/http%3A//www.oasap.com/content/23-serviceprivacypolicy) for the most accurate reproduction.*
 
 # Privacy and Policy - Oasap High Street Fashion
 
@@ -23,4 +23,4 @@ We may use your information for a variety of purposes:
 
 
 
-Maintaining your trust and confidence is a high priority. If you have any concerns about privacy that have not been answered in the following policy, please [contact us](https://web.archive.org/web/20121014120257id_/http%3A//www.oasap.com/content/20-contact-us "Contact Us").
+Maintaining your trust and confidence is a high priority. If you have any concerns about privacy that have not been answered in the following policy, please [contact us](https://web.archive.org/web/20130429144202id_/http%3A//www.oasap.com/content/20-contact-us "Contact Us").
