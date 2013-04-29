@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfi.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228213014id_/http%3A//www.gfi.com/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfi.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429180815id_/http%3A//www.gfi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -161,3 +161,14 @@ The date the privacy policy was last revised is identified at the top of the pag
 ## Contact information
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15)
+
+## Corporate address
+
+7a Rue Robert Stuemper  
+L-2557 Luxembourg  
+Grand Duchy of Luxembourg  
+Europe
+
+ **Email:** [legal@gfi.com](mailto:legal@gfi.com)
+
+ **Telephone:** +352 2786 0231
