@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuffblog.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902020234id_/http%3A//signup.freestuffblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuffblog.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429083924id_/http%3A//signup.freestuffblog.com/privacy.php) for the most accurate reproduction.*
 
 # FreeStuffBlog.com
 
