@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016032356id_/http%3A//www.yoganonymous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429203954id_/http%3A//www.yoganonymous.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YOGANONYMOUS
-
-[](http://www.myyogaonline.com/m/yoganonymous)
-
-
-
 
 **Privacy Statement**
 
@@ -100,4 +95,4 @@ In Firefox, you can adjust your cookies settings by clicking “Tools”, “Opt
 
 Blocking cookies will have a negative impact upon the usability of some websites.
 
-[](http://www.merchdirect.com/yoganonymous)
+[](http://www.wanderlustfestival.com/?utm_campaign=Summer_OnSale&utm_medium=banner&utm_source=YNON)
