@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motime.ca privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906043435id_/http%3A//www.motime.ca/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motime.ca privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429144452id_/http%3A//www.motime.ca/help/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -70,4 +70,4 @@ Questions. If you have any questions about this Privacy Policy or our community 
 
  [Terms of Use](http://www.motime.ca/help/terms/) may be reviewed at any time at <http://www.motime.ca/help/terms/>  
 [Subscription Agreement](http://www.motime.ca/help/subagreement/) may be reviewed at any time at <http://www.motime.ca/help/subagreement/>  
-© Copyright 2006 - 2011 Dada Entertainment Canada LLC. All Rights Reserved
+© Copyright 2006 - 2013 Dada Entertainment Canada LLC. All Rights Reserved
