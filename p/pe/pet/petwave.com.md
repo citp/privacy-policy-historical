@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petwave.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107032220id_/http%3A//www.petwave.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petwave.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429191653id_/http%3A//www.petwave.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PetWave.com - Privacy Policy
 
