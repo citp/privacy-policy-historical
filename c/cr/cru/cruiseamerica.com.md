@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618222256id_/http%3A//www.cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429183030id_/http%3A//www.cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # RV Office - Motorhome Dealers - RV Inventories
 
-### Privacy Policy
+###  Privacy Policy 
 
 Cruise America has created this privacy policy to demonstrate our firm commitment to informing you about how we handle your online personal information. The following discloses our information gathering and dissemination practices for the CruiseAmerica.com web site (the "Site"). This privacy policy only applies to transactions made, and data gathered, on the Site and does not apply to any other web site or offline point of contact between Cruise America and consumers. We suggest that you review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on May 25, 2004. By visiting the Site, you are accepting the practices described in this privacy policy.
 
