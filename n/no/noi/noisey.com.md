@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noisey.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109092905id_/http%3A//noisey.vice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisey.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429024639id_/http%3A//noisey.vice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VICE
 
