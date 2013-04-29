@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216053035id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429112606id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Redcort Software
 
@@ -20,7 +20,7 @@ Our site uses order forms for customers to request information, products, and se
 
 ## Choice / Opt Out
 
-To remove your information from our database to assure you receive no future communications or service, [contact us here](https://web.archive.org/web/20121216053035id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
+To remove your information from our database to assure you receive no future communications or service, [contact us here](https://web.archive.org/web/20130429112606id_/http%3A//www.redcort.com/company/ "Contact Form").
 
 ## Other Sites
 
@@ -28,20 +28,6 @@ This site contains links to other web sites that are not affiliated with Redcort
 
 ## Further Information
 
-If you have any questions about this privacy statement or the practices of Redcort Software, [contact us here](https://web.archive.org/web/20121216053035id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
+If you have any questions about this privacy statement or the practices of Redcort Software, [contact us here](https://web.archive.org/web/20130429112606id_/http%3A//www.redcort.com/company/ "Contact Form").
 
-Last update January 15, 2011
-
-[ ](http://redcort.com/company/aboutus.html "U.S. Based Time Clock software sales and support")
-
-[](http://redcort.com/company/aboutus.html "U.S. Based Time Clock software sales and support")[  
-](http://twitter.com/TimeClockTweets "Follow Virtual Time Clock Software on Twitter!")
-
-[ ](http://twitter.com/TimeClockTweets "Follow Virtual Time Clock Software on Twitter!")
-
-[](http://twitter.com/TimeClockTweets "Follow Virtual Time Clock Software on Twitter!")[  
-](http://www.facebook.com/pages/Fresno-CA/Virtual-TimeClock-Redcort-Software/353767330104 "Follow Virtual Time Clock Software on Facebook!")
-
-[ ](http://www.facebook.com/pages/Fresno-CA/Virtual-TimeClock-Redcort-Software/353767330104 "Follow Virtual Time Clock Software on Facebook!")
-
-[ ](http://www.facebook.com/pages/Fresno-CA/Virtual-TimeClock-Redcort-Software/353767330104 "Follow Virtual Time Clock Software on Facebook!")
+Last update January 17, 2012
