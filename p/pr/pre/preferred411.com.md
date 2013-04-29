@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preferred411.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014155822id_/https%3A//www.preferred411.com/index.cfm%3Ffx%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preferred411.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429155703id_/https%3A//www.preferred411.com/index.cfm%3Ffx%3DPrivacy) for the most accurate reproduction.*
 
 # Preferred411
 
@@ -71,4 +71,5 @@ You are responsible for the security of your password. Make sure you keep it in 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy statement.   
    
    
- 
+   
+---
