@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanews.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014235814id_/http%3A//www.africanews.com/site/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanews.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429190832id_/http%3A//www.africanews.com/site/page/privacy_policy) for the most accurate reproduction.*
 
 # AfricaNews - Privacy policy
 
