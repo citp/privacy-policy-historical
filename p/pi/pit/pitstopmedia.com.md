@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005112424id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429210323id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Pitstop Media Inc - Privacy Policy
 
 |  |  |   | 
 
-170% Increase in AdWords Conversions, 33% Decrease in CPC
+195% Increase in AdWords CTR, Campaign Cost Decrease by 40%
 
-Horizon DataSys wanted to optimize their AdWords account to increase the number of downloads and reduce cost per conversion. Pitstop Media overachieved ...
+Food Connect hired us to optimize an AdWords account with poor Quality Scores, high CPC and lack of any form of conversion tracking. Even then, we delivered ...
 
-[](http://www.pitstopmedia.com/case-studies/cs-detail-horizon-data.php)
+[](http://www.pitstopmedia.com/case-studies/cs-detail-food-connect.php)
 
 | 
 
