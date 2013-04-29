@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdporn.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014101126id_/http%3A//www.hdporn.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdporn.in privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429162444id_/http%3A//www.hdporn.in/privacy.html) for the most accurate reproduction.*
 
 # HD Porn tube, Free Sex Videos, XXX Porno Clips, Online Streaming Movies and Free Sex Vids
 
