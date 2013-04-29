@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylookout.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923152204id_/https%3A//www.mylookout.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylookout.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429173417id_/https%3A//www.lookout.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - Lookout
 
@@ -57,4 +57,8 @@ At Lookout, we’re committed to building products and services that we are prou
 
 
 
-For more detailed information, view our [Privacy Policy](https://web.archive.org/legal/privacy). We updated our Privacy Policy as of January 12, 2012 with two changes: (1.) To clarify that unique device identifier (UDID) is a subset of equipment identifier that may be recorded on our servers when you use the Lookout Services; (2.) To clarify our policy regarding the removal of personal information from blogs and community forums. 
+For more detailed information, view our [Privacy Policy](https://web.archive.org/legal/privacy).
+
+We updated our Privacy Policy as of December 13, 2012 to include a section on _Lock Cam_.
+
+If you are a security researcher and need to report a security issue, view our [Responsible Disclosure of Security Vulnerabilities](https://web.archive.org/responsible-disclosure) page.
