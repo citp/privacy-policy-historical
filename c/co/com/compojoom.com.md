@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014190621id_/https%3A//compojoom.com/privacy-policy-imprint) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429201244id_/https%3A//compojoom.com/privacy-policy-imprint) for the most accurate reproduction.*
 
 # Privacy Policy/Imprint
 
@@ -7,7 +7,8 @@ Our postal address is:
 > **Daniel Dimitrov  
 >  Mühltalstraße 18, 69221 Dossenheim  
 > Germany**  
->  **TAX NUMBER:** DE278618491
+>  **TAX NUMBER:** DE278618491  
+>  **tel** : +4917663398762
 
 Our legal address is:
 
