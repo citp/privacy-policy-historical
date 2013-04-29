@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosoftdev.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114080307id_/http%3A//www.videosoftdev.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosoftdev.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430003026id_/http%3A//www.videosoftdev.com/privacy-policy) for the most accurate reproduction.*
 
 # Flash-Integro | Privacy policy
 
