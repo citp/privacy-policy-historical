@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tucsoncitizen.com privacy policy that was archived on 2012-10-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121001101644id_/http%3A//tucsoncitizen.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tucsoncitizen.com privacy policy that was archived on 2013-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130429202745id_/http%3A//tucsoncitizen.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -36,11 +36,11 @@ if (DetectTierIphone())
 <!-- this product is released under General Public License. Please see the attached file for details. You can also find details about the license at http://www.opensource.org/licenses/gpl-license.php -->
 
 
-
 <script type="text/javascript">
-OAS_sitepage='az-tucsoncitizen.com/umbrella';
-OAS_listpos='x25,728x90_1,160x600_1,300x250_1,728x90_2,1360x2000_1,PopUnder';
-OAS_query='';
+DFP_pagename='tucsoncitizen.com/homepage';
+DFP_placements='bigad_slot,leaderboardtop_slot,billboard,wskyscraper_slot,leaderboardbtm_slot,background,popunder';
+DFP_keywords='';
+DFP_query='';
 
 var s_server='www.tucsoncitizen.com';
 var s_channel='Home Page';
@@ -62,15 +62,12 @@ var s_prop10='Tucson Citizen Home Page';
 <script type="text/javascript">
 if (DetectTierIphone())
 {
-	window.TNI_MOBILE_AD = function(pos, inst) {
-		if (!inst)  inst = 1;
-		document.write('<a href="http://dynamic.azstarnet.com/mobile/ads/static/?action=click&position=' + pos + '&instance=' + inst + '" target="_blank"><img src="http://dynamic.azstarnet.com/mobile/ads/static/?action=image&sections=citizen,umbrella&position=' + pos + '&instance=' + inst + '" /></a>');
+	window.TNI_MOBILE_AD = function(pos) {
+		var rand = Math.floor(Math.random() * 1000000);
+		document.write('<a href="http://pubads.g.doubleclick.net/gampad/jump?iu=\/8438\/tucsoncitizen.com\/umbrella&sz=' + pos + '&c=' + rand + '"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=\/8438\/tucsoncitizen.com\/umbrella&sz=' + pos + '&c=' + rand + '"></a>');
 	};
+
 	window.TNI_OAS_AD = function() {};
-	window.TNI_AD_PREWRAP = function() {};
-	window.TNI_AD_RUN = function() {};
-	window.TNI_AD_POSTWRAP = function() {};
-	window.TNI_AD_SCRIPTS = function() {};
 	window.GOOGLE_AD = function() {};
 
 	document.write('<' + 'script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"><' + '/script>');
@@ -79,7 +76,7 @@ else
 {
 	window.TNI_MOBILE_AD = function() {};
 
-	document.write('<' + 'script type="text/javascript" src="/wp-content/js/ads.js"><' + '/script>');
+	document.write('<' + 'script type="text/javascript" src="/wp-content/js/dfp_ads.js"><' + '/script>');
 }
 </script>
 <script type="text/javascript">
@@ -89,20 +86,23 @@ if (DetectTierIphone())
 		jQuery('#home_right_col').insertBefore('#sidebar_right').show();
 	});
 }
+else
+{
+	TNI_RegisterAds(DFP_pagename, DFP_placements, { 'keywords' : DFP_keywords });
+}
 </script>
 
 <div id="wrapper">
 
 	<div id="header">
-		<div id="bbox_top"><script type="text/javascript">TNI_OAS_AD('300x250_1')</script></div>
+		<div id="bbox_top"><div id="div-tni-ad-bigad_slot"><script type="text/javascript">TNI_PlaceAd('bigad_slot')</script></div></div>
 
 		<div class="leaderboard_container">
-			<script type="text/javascript">TNI_OAS_AD('728x90_1')</script>
+			<div id="div-tni-ad-leaderboardtop_slot"><script type="text/javascript">TNI_PlaceAd('leaderboardtop_slot')</script></div>
 		</div>
 
 		<div id="logo">
 			<a href="http://tucsoncitizen.com/"><img src="/wp-content/themes/home-pixel/images/dot_clear.gif" border="0" alt="Tucson Citizen.com" id="main_logo" width="710" height="137"></a>
-
 		</div>
 
 	</div> <!-- Closes header -->
@@ -112,11 +112,11 @@ if (DetectTierIphone())
 	</div>
 
 	<div class="mobile_ad">
-		<script type="text/javascript">TNI_MOBILE_AD('web_320x50');</script>
+		<script type="text/javascript">TNI_MOBILE_AD('320x50');</script>
 	</div>
 
 	<div style="margin-bottom:5px;">
-		<script type="text/javascript">TNI_OAS_AD('x25')</script>
+		<div id="div-tni-ad-billboard"><script type="text/javascript">TNI_PlaceAd('billboard')</script></div>
 	</div>
 
 	<div id="main_body">
@@ -160,7 +160,7 @@ if (DetectTierIphone())
 -->
 
 		<div class="skyscraper_container">
-			<script type="text/javascript">TNI_OAS_AD('160x600_1')</script>
+			<div id="div-tni-ad-wskyscraper_slot"><script type="text/javascript">TNI_PlaceAd('wskyscraper_slot')</script></div>
 		</div>
 
 		<div class="google_ad_container" style="width:160px;">
@@ -304,7 +304,7 @@ $(document).ready(function(){initMenuClass();});
 <div class="cleared"></div>
 
 <div class="mobile_ad">
-	<script type="text/javascript">TNI_MOBILE_AD('web_320x50', '2');</script>
+	<script type="text/javascript">TNI_MOBILE_AD('320x50');</script>
 </div>
 
 <div id="footer">
@@ -332,27 +332,18 @@ $(document).ready(function(){initMenuClass();});
 <div id="footer_cap"></div>
 
 <div class="leaderboard_container">
-	<script type="text/javascript">TNI_OAS_AD('728x90_2')</script>
+	<div id="div-tni-ad-leaderboardbtm_slot"><script type="text/javascript">TNI_PlaceAd('leaderboardbtm_slot')</script></div>
 </div>
 
 <div class="paw_background_container">
-	<script type="text/javascript">TNI_OAS_AD('1360x2000_1')</script>
+	<div id="div-tni-ad-background"><script type="text/javascript">TNI_PlaceAd('background')</script></div>
 </div>
 
 <div class="popunder_container">
-	<script type="text/javascript">TNI_OAS_AD('PopUnder')</script>
+	<div id="div-tni-ad-popunder"><script type="text/javascript">TNI_PlaceAd('popunder')</script></div>
 </div>
 
 <script type="text/javascript" src="/wp-content/js/stats.js"></script>
-
-<script>TNI_AD_SCRIPTS()</script>
-<script>TNI_AD_PREWRAP()</script><script>TNI_AD_RUN()</script><script>TNI_AD_POSTWRAP()</script>
-<script>TNI_AD_PREWRAP()</script><script>TNI_AD_RUN()</script><script>TNI_AD_POSTWRAP()</script>
-<script>TNI_AD_PREWRAP()</script><script>TNI_AD_RUN()</script><script>TNI_AD_POSTWRAP()</script>
-<script>TNI_AD_PREWRAP()</script><script>TNI_AD_RUN()</script><script>TNI_AD_POSTWRAP()</script>
-<script>TNI_AD_PREWRAP()</script><script>TNI_AD_RUN()</script><script>TNI_AD_POSTWRAP()</script>
-<script>TNI_AD_PREWRAP()</script><script>TNI_AD_RUN()</script><script>TNI_AD_POSTWRAP()</script>
-<script>TNI_AD_PREWRAP()</script><script>TNI_AD_RUN()</script><script>TNI_AD_POSTWRAP()</script>
 
 </div><!-- Closes wrapper -->
 
