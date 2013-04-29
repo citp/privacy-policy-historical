@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theglobaleconomy.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122204404id_/http%3A//www.theglobaleconomy.com/texts.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobaleconomy.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429062026id_/http%3A//www.theglobaleconomy.com/texts_new.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -25,19 +25,3 @@ We use third-party advertising companies to serve ads when you visit our website
 About Google and the DoubleClick DART cookie: 
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). For more information on [cookies visit here](http://www.google.com/intl/en/policies/privacy/). 
-
-## Ideas for students and educators
-
-The website can be used by college, Masters and high school students with some or no economics background. In fact, that is one of our objectives: to make knowledge of the global economy accessible to non-experts. Also, the website can be used in the U.S. and internationally which fits with our second objective: to make this knowledge available to anyone anywhere ... [learn more](http://www.theglobaleconomy.com/texts.php?page=students)
-
-## Indicators for more than 200 countries
-
-We use data provided by the World Bank to show the main economic indicators of all countries. Each indicator is presented in comparison to several other countries and in terms of changes over time. We discuss the definitions of the various indicators and provide information about the ways in which one can interpret them. See for example, data for the [U.S. economic indicators](http://www.theglobaleconomy.com/USA/)
-
-## Interactive tools to compare countries
-
-Comparing countries is a fun and useful exercise. We used the information from the World Bank to create easy interactive tools for such comparison. You can compare many economic indicators across countries and track their changes over time. The comparisons are linked to the lectures in our guide to give you insight into the nature of each indicator. Make an [international comparison](http://www.theglobaleconomy.com/compare-countries/).
-
-##### Thank you for your time
-
-Your opinion is important for us. We would be happy to read your comments, whether positive or negative. 
