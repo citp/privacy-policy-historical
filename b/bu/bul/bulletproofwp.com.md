@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulletproofwp.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103125823id_/http%3A//www.bulletproofwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletproofwp.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429210435id_/http%3A//www.bulletproofwp.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
