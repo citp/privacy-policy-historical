@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the implix.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614135125id_/http%3A//www.implix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the implix.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429220801id_/http%3A//www.implix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | Implix
+# Privacy Policy | Implix
 
 Implix realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By visiting our website and using our Services, you are accepting and consenting to the practices described in this Privacy Policy.
 
