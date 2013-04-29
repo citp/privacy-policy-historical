@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125055227id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429223923id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -26,7 +26,7 @@ We do not sell, trade, or otherwise transfer to outside parties your information
 
 **Third party products, links and services**
 
-We may include or offer third party links, products or services on our website. These third party sites have individual privacy policies. We have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We may include or offer third party links, products or services on our website. These third party sites have individual privacy policies. We have no responsibility or liability for the content and activities of these third party products and websites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Log Files**
 
@@ -36,7 +36,9 @@ Like many other Web sites, we make use of log files. These files merely logs vis
 
 We use cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+If you wish to disable cookies, you may do so through your browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' website.
 
 Terms of Use
 
