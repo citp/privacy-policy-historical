@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012063743id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429201754id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # money.co.uk Privacy Policy
 
@@ -10,13 +10,13 @@ We may collect, store and use the following kinds of personal information:
 
 (a) information about your computer and about your visits to and use of this website (which may include information about your IP address, geographical location, browser type, referral source, length of visit and page views);
 
-(b) information that you provide to us for the purpose of registering with us, receiving our newsletters and/or downloading ebooks from our website (including your email address);
+(b) information that you provide to us for the purpose of registering with us, receiving our newsletters and alerts and/or downloading ebooks from our website (including your email address);
 
 (c) information that you provide when using our reminder service (which may include your insurance and other financial services renewal and/or expiry dates, and details of your insurance and other financial services providers);
 
 (d) information that you provide when using our "broadband postcode" search (which may include your postcode and phone number);
 
-(e) information that you provide when completing a mortgage enquiry form (including your personal details and details relating to your mortgage requirements);
+(e) information that you provide when completing an enquiry form (including your personal details and details relating to your requirements);
 
 (f) information that you provide when entering a prize competition on the website;
 
@@ -26,7 +26,7 @@ We may collect, store and use the following kinds of personal information:
 
 (i) information supplied to us when you sign up to our money saving newsletter via a third party promotion, including via email campaigns, competition sites and survey websites (including your title, first name, surname and email address and in some cases your address and gender);
 
-(j) information you post on the site (including questions, answers, comments, journal entries, photos, action plans, tips, reviews and success stories); and
+(j) information you post on the site (including deals, discussions, responses, questions, answers, comments, journal entries, photos, action plans, tips, reviews and success stories); and
 
 (k) any other information that you choose to send to us (including testimonials, feedback and questions).
 
@@ -53,6 +53,7 @@ Specifically we use cookies on money.co.uk as follows:
   * to facilitate navigation around the site we use the cookies sbnav and focus and val_deal_page, these are deleted when you close your browser
   * to record your preferences relating to money.co.uk ‘Feedback’ the cookies we use are dzFBpreference and dzFBlater. These allow us to hide the ‘Feedback’ prompt or remind you if you opt to leave feedback later and are deleted once you close your browser
   * to track recommendations via our ‘tell a friend’ functionality we use the cookie memberReferralId
+  * to store information about overlays we use the cookie money_ugc_overlay
 
 
 
@@ -86,7 +87,9 @@ You can find out more about cookies by visiting <http://www.aboutcookies.org/> o
 
 3.7 If you sign up to receive our Money Saving newsletter or any other newsletter, we will use your personal information to send you the newsletter and manage your subscription.
 
-3.8 More generally, we may use your personal information to:
+3.8 If you sign up to receive Alerts we will use your personal information to send you Alert emails based on the companies, categories and tags you have selected, and to manage your subscription.
+
+3.9 More generally, we may use your personal information to:
 
 (a) administer and enable your use of the website;
 
@@ -102,9 +105,7 @@ You can find out more about cookies by visiting <http://www.aboutcookies.org/> o
 
 (g) send you email notifications when there has been activity on posts that you have interacted with in the money.co.uk community.
 
-(h) send you email notifications when there has been activity relating to your Interests within the money.co.uk community.
-
-(i) send you other periodic emails that you will have the ability to control the frequency of or unsubsribe from at any time.
+(h) send you other periodic emails that you will have the ability to control the frequency of or unsubsribe from at any time.
 
 3.9 We will not without your express consent provide your personal information to any third parties for the purposes of direct marketing.
 
@@ -162,7 +163,7 @@ Please keep the account information we hold about you up-to-date. (You are able 
 
 The data controller in respect of personal information submitted to our website is Dot Zinc Ltd.
 
-If you have any questions about this Privacy Policy or our treatment of your personal information, please write to us using our website contact form or by post to Dot Zinc Ltd, Fleet House, 8-12 New Bridge Street, London, EC4V 6AL.
+If you have any questions about this Privacy Policy or our treatment of your personal information, please write to us using our website contact form or by post to Dot Zinc Ltd, 160 Fleet Street, London, EC4A 2DQ.
 
 If you wish to make a complaint please see our [Complaints Procedure](http://www.money.co.uk/complaints.htm).
 
