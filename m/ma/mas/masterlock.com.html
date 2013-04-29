@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the masterlock.com privacy policy that was archived on 2012-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115153122id_/http%3A//www.masterlock.com/privacy_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the masterlock.com privacy policy that was archived on 2013-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130429115207id_/http%3A//www.masterlock.com/privacy_statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<!DOCTYPE html><html dir="ltr" lang="en-US" class="no-js gt9"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <title>Privacy Statement - Master Lock®</title>
 <meta name="Description" content="Privacy Statement - Master Lock®">
@@ -12,6 +12,7 @@
 
 <link href="/css/global.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 
 <!--[if lte IE 8]>
 <style type="text/css" media="screen">
@@ -43,11 +44,13 @@
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">google.load("jquery", "1.4.2");</script>
+<script type="text/javascript" src="/scripts/jquery/jquery.placeholder.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery-ui-1.8.2.custom.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery.slickcombo.js"></script>
 <script type="text/javascript" src="/scripts/masterlock.jquery.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery.autocomplete.pack.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/jquery.autocomplete.css">
+
 <script type="text/javascript">
 var timeout = 300;
 var closetimer	= 0;
@@ -71,22 +74,16 @@ function menu_canceltimer()
 	{	window.clearTimeout(closetimer);
 		closetimer = null;}}
 
-jQuery(document).ready(function()
-{
+jQuery(document).ready(function()		
+{ 
+	jQuery('form[id=form_search]').submit(function(){  
+        return false; 
+    });
+	
 	jQuery('#moreOpt > li').bind('mouseover', moreOpt_open);
 	jQuery('#moreOpt > li').bind('mouseout',  menu_timer);
 
-	jQuery('#search').focus(function(){
-		if(jQuery('#search').val() == 'Keyword or Product #') {
-			jQuery('#search').val('');
-		}
-	});
-	jQuery('#search').blur(function(){
-		if(/^\s*$/.test(jQuery('#search').val())) {
-			jQuery('#search').val('Keyword or Product #');
-		}
-	});
-    jQuery("#search").autocomplete('/ajax/search_pk.jsp', {
+    jQuery("#search").autocomplete('/ajax/s.jsp', {
 		width: 200,
 		multiple: false,
 		matchContains: false,
@@ -98,6 +95,7 @@ jQuery(document).ready(function()
 		var hidden = $(this).parent().next().find(">:input");
 		hidden.val( (hidden.val() ? hidden.val() + ";" : hidden.val()) + data[1]);
 	});
+
 
 });
 
@@ -114,6 +112,23 @@ function moreOpt_open() {
 }
 
 document.onclick = menu_close;
+
+/* Search input Watermark stuff */
+jQuery(function () {
+	jQuery('#search').placeholder();
+	
+	jQuery("#search").live("focus, click", function() {
+		if ( jQuery(this).val() == ""){
+			jQuery(this).css("font-style", "normal");  //set to normal
+			jQuery(this).val("");  
+		}});
+	jQuery("#search").live("focusout", function() {
+		if ( $(this).val() == "" ){
+		//$(this).attr("value", "Search Keyword or Product #");
+		jQuery(this).css("font-style", "italic");   //set to special
+	}});
+});
+
 </script>
 
 </head>
@@ -144,8 +159,9 @@ document.onclick = menu_close;
 			
           	
             
-             <a id="btn_LoveLock" class="png btn" href="http://www.masterlovelock.com/">Master Love Lock</a>
-             <a id="btn_Vault" class="png" href="https://www.masterlockvault.com/">Vault</a>
+            
+            <a id="btn_LoveLock" class="png btn" href="http://www.masterlovelock.com/" target="_blank">Master Love Lock</a>
+             <a id="btn_Vault" class="png" href="https://www.masterlockvault.com/" target="_blank">Vault</a>
               
              <a id="btn_LiveSecure" class="png" href="/live_secure/">Live Secure</a>
 		
@@ -155,12 +171,13 @@ document.onclick = menu_close;
           
              <a id="btn_BuyItNow" class="png" href="/products/buy_it_now.jsp">Buy It Now</a>
             
-            
+      --%&gt;
 			<form method="get" action="/search/" id="form_search">
-				<p>
-					<label>SEARCH</label>
-					<input name="q" id="search" type="text" value="Keyword or Product #" class="textfield" maxlength="200" autocomplete="off">
-					<a href="#" onclick="document.forms['form_search'].submit();">GO</a> </p>
+                <fieldset>
+                    <legend>Search</legend>
+                    <input name="q" id="search" type="text" class="textfield" placeholder="Search Keyword or Product #" maxlength="200" autocomplete="off" value="">
+                    <input type="submit" id="search-submit" value="" onclick="var tmpSearch = document.getElementById('search').value; if(tmpSearch!=''){document.forms['form_search'].submit();}">
+                </fieldset>
 			</form>
 			
 			<nav id="nav">
@@ -186,12 +203,13 @@ document.onclick = menu_close;
 <div id="container2">
 	<div id="breadcrumb">
 	<ol>
-		<li class="first"><a href="/index.jsp">Home</a></li>
+		<li class="first"><a href="/index.jsp">Home <span class="breadcrumb-arrow"></span> <span class="breadcrumb-arrow"></span></a></li>
                 
 	
 	
+	
+	
 		
-    		
 		
 		
 		
@@ -199,12 +217,57 @@ document.onclick = menu_close;
 			
 			
 			
-			    
-	        
-	       
-	     
-	     
-	   
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
 		
 		
 	
@@ -252,7 +315,7 @@ document.onclick = menu_close;
 			<p><strong>We reserve the right to change or update this policy at any time by posting a notice that we are changing our privacy policy or by sending an e-mail message to previously registered visitors.</strong></p>
 			<h3>What To Do If You Have Questions Or Concerns About Your Information, Or If You Need To Contact Us</h3>
 			<p>If you need information or have any questions or concerns about this Privacy Policy or our use of your Personal Information, or wish to review all of your Personal Information, you may contact our Director of E-Commerce Solutions &amp; Data via e-mail at <a href="mailto:masterlock@mlock.com">masterlock@mlock.com</a>, or via mail at Master Lock Company LLC, World Headquarters, 137 W Forest Hill Avenue, PO Box 927, Oak Creek, WI 53154 or via phone at 800-464-2088.</p>
-			<p><strong>This policy is effective as of March 15, 2012.</strong></p>
+			<p><strong>This policy is effective as of March 15, 2013.</strong></p>
 			<p><a href="/legal_statement/">Terms of Use</a></p>
 			<div class="vcard">
 				<address class="author">
@@ -263,7 +326,7 @@ document.onclick = menu_close;
 				PO Box 927</span><br>
 				<span class="locality">Oak Creek</span>, <span class="region">WI</span> <span class="postal-code">53154</span></span><br>
 				<span class="tel">(800) 464-2088</span></div>
-			<p>© 2012 Master Lock Company LLC. All rights reserved.</p>
+			<p>© 2013 Master Lock Company LLC. All rights reserved.</p>
 			<!-- AddThis Button BEGIN -->
 <div id="share">
 	<!-- REMOVED per client request 5.31.11 <a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=masterlock"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a> -->
@@ -332,13 +395,13 @@ document.onclick = menu_close;
 			<ul>
 				<li><a href="/about_us/press_room.jsp">Press Room</a></li>
 				<li><a href="/faq/">FAQs</a></li>
-				<li><a href="https://www2.ultirecruit.com/mas1002/jobboard/ListJobs.aspx">Career Opportunities</a></li>
+				<li><a href="https://rn11.ultipro.com/FOR1008/JobBoard/ListJobs.aspx">Career Opportunities</a></li>
 				<li><a href="/about_us/">About Us</a></li>
 				<li><a href="http://ocs.landsend.com/cd/frontdoor?store_name=master_lock&amp;store_type=3" target="_blank">Gift Shop</a></li>
 			</ul>
 		</div>
 		<div class="col5">
-			<p><small>© 2012 Master Lock Company, LLC.</small></p>
+			<p><small>© 2013 Master Lock Company, LLC.</small></p>
 			<ul>
 				<li><a href="https://contact.masterlock.com/52/contactus.aspx">Contact Us</a></li>
 				<li><a href="/privacy_statement/">Privacy Statement</a></li>
@@ -346,8 +409,9 @@ document.onclick = menu_close;
 				<li><a href="/site_map/">Site Map</a></li>
 				<li class="clear icon_facebook"><a href="http://www.facebook.com/masterlock" title="Facebook" target="_blank">&nbsp;<img src="/images/icon_facebook.gif" width="17" height="17" alt="Facebook"></a></li>
 				<li class="icon_g-plus"><a href="https://plus.google.com/104732564165331709316/posts" title="Google Plus" target="_blank">&nbsp;<img src="/images/icon_G-plus.gif" width="17" height="17" alt="Google Plus"></a></li>
-				<li class="icon_twitter"><a href="http://twitter.com/masterlockco" title="Twitter" target="_blank">&nbsp;<img src="/images/icon_Twitter.gif" width="17" height="17" alt="Twitter"></a></li>
-				<li class="icon_youtube"><a href="http://www.youtube.com/user/MasterlockCompany" title="YouTube" target="_blank">&nbsp;<img src="/images/icon_youtube.gif" width="17" height="17" alt="YouTube"></a></li>				
+				<li class="icon_twitter"><a href="https://twitter.com/MasterLockUS" title="Twitter" target="_blank">&nbsp;<img src="/images/icon_Twitter.gif" width="17" height="17" alt="Twitter"></a></li>
+				<li class="icon_pinterest"><a href="http://www.pinterest.com/masterlock" title="Pinterest" target="_blank">&nbsp;<img src="/images/icon_pinterest.gif" width="17" height="17" alt="Pinterest"></a></li>
+				<li class="icon_youtube"><a href="http://www.youtube.com/user/MasterlockCompany" title="YouTube" target="_blank">&nbsp;<img src="/images/icon_youtube.gif" width="17" height="17" alt="YouTube"></a></li>
 				
 			</ul>
 		</div>
