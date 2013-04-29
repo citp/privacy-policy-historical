@@ -1,87 +1,67 @@
-> *The following text is extracted and transformed from the arthousecoop.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601191133id_/http%3A//www.arthousecoop.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthousecoop.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429192608id_/http%3A//www.sketchbookproject.com/privacy) for the most accurate reproduction.*
 
-# Art House Co-op | We build art projects and communities
+# Art House Co-op
 
-This document was last updated on 12/9/2008.
+Effective May 27, 2011
 
-**1\. Acknowledgment and acceptance of terms**
+**Information that we collect and how we use it**
 
-Art House, LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Art House, LLC/Arthousecoop.com, you acknowledge and fully understand Art House, LLC’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+**Registration information** \- When you sign up for the Site, we ask for your personal information so that we can provide you with the Services. In some cases, we may also ask you to send us additional information or to answer additional questions to help verify your information. 
 
-**2\. Participating Merchant Policies**
+**Information obtained from third parties** \- In order to protect you from fraud or other misconduct, we may obtain information about you from third parties to verify the information you provide. We also may obtain information from third parties in connection with providing the Services to you.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Art House, LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+**Submission information** – When you submit materials through the Services, we may scan and store those materials and also collect and store metadata about those materials. We do not screen the materials for personally identifying information; to the extent you have included any such information in the materials you submit, it will be stored and disclosed in the course of our general use of such materials.
 
-**3\. Information We Collect and How We Use It**
+**Information about your use of the service** \- In order to protect you from fraud, phishing and other misconduct, we may collect information about your interaction with the service to help validate your identity or detect potentially fraudulent conduct. Any such information that we collect will only be used to detect and prevent fraud or other misconduct, unless you explicitly grant us permission to use it in another manner.
 
-Art House, LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+**Cookies** \- When you access an Art House web page, we send one or more cookies - a small file containing a string of characters - to your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
 
-**a. Web Server Logs.**
+**Log information** \- When you use Art House, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+**User communications** \- When you send an email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
-  * Pages you viewed on the site.
+**Links** \- We may present links in a format that enables us to keep track of whether these links have been followed. 
 
+In addition to the above, we use the information that we collect to:
 
+Provide our services to you;
 
-**b. Use of Cookies**
+Perform auditing, research and analysis in order to maintain, protect and improve our services;
 
-Art House, LLC may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
+Ensure the technical functioning of our network; and
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
+Develop new services.
 
-Art House, LLC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into Art House, LLC.com a site that relies on third-party cookies).
+**Information sharing**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+We will not sell or rent your personal information to companies or individuals outside of Art House. In addition, we will only share your personal information with other companies or individuals outside Art House in the following circumstances:
 
-**c. Personal Information Users**
+As necessary to process any transactions and maintain your account. As with any credit card payment, if you process a credit card transaction through the service, we need to share some information (for example, your name and credit card number) with the banks and other entities in the financial system that process credit card transactions. Some such entities require a telephone number in order to process a transaction. In those cases, we will share your telephone number with those entities. 
 
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+To detect, prevent or otherwise address fraud, security or technical issues.
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
 
-  * To fulfill your service requests for services.
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
+We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
 
+We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce our Terms and Conditions, including investigation of potential violations thereof, (c) detect, prevent or otherwise address fraud, security or technical issues or (d) protect against imminent harm to the rights, property or safety of Art House, its users or the public as required or permitted by law.
 
+If Art House or its subsidiaries become involved in a merger, acquisition or any form of sale of some or all of their assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-**4\. Use of Web Beacons or GIF files**
+**Information security**
 
-Art House, LLC Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Art House, LLC to count users who have visited those pages and to deliver co-branded services. Art House, LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical and technical security measures to guard against unauthorized access to systems where we store personal data. 
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Art House, LLC prohibits Web beacons from being used to collect or access your personal information.
+The security of your account also depends on keeping your account password confidential and you should not share your account name or password with anyone. If you do share your account information with a third party, they will have access to your account and your personal information.
 
-**5\. Accessing Web Account Information**
+**Accessing and updating personal information**
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant - info@arthousecoop.com.
+You can review and update your information by logging in to your account and going to the “Edit Account” page. You can also view your previous transaction history on the ”Edit Account” page.
 
-**6\. Children under the age of 13.**
+You can disable your account by contacting us at accounts@arthousecoop.com. If you do so, your account information will no longer be viewable through Art House, and at your request, we will remove your personal information from any metadata or labels attached to materials you have submitted to us. However, such materials will remain available through the Services, and in order to meet our reporting and auditing obligations and to detect, deter, and prevent fraud or other misconduct on our systems, your account information will be retained in our systems. If you disable your account, your personally identifiable information will not be used by Art House or shared with third parties except for these purposes. We may delete these records over time if permitted or required by law.
 
-Art House, LLC does not knowingly solicit or condone anyone under the age of 13 to use this website in any manner. If you are under 13 please do not use this website. Please get a legal guardians to help you.
+**Changes to this policy**
 
-**7\. Minors under the age of 18.**
+Please note that this Privacy Policy may change from time to time. We will post any Policy changes on this page. Each version of this Policy will be identified at the top of the page by its effective date.
 
-We suggest anyone under the age of 18 to get parental or guardians consent before using arthousecoop.com.
-
-**7\. Changes to this Statement**
-
-Art House, LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-**8\. Contacting Us**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [Email](mailto:%69%6e%66%6f@%61%72%74%68%6f%75%73%65%63%6f%6f%70.%63%6f%6d) or send your comments to:  
-Art House, LLC  
-Attention: Privacy Statement Personnel  
-201 Richards St #16  
-Brooklyn, NY 11231
-
-Art House, LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+If you have any questions about this Policy, please feel free to contact us through our website or write to us at 103A N. 3rd St, Brooklyn, NY 11211.
