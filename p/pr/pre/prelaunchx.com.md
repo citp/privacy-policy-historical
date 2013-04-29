@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prelaunchx.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004093850id_/https%3A//www.prelaunchx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prelaunchx.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429155800id_/https%3A//www.prelaunchx.com/privacy.php) for the most accurate reproduction.*
 
 # prelaunchX
 
@@ -64,5 +64,3 @@ Your controls
 You can change or update your personal information at any time by logging into your account and making those changes within the account control panel. The information we collect is essential to the way the PLX service operates. Therefore, the only way to remove all of your information from our systems is to terminate your account. Account termination is an option you will find within the account control panel. 
 
 [Sign up](https://web.archive.org/signup/) for PLX today and invite a few friends. It's quick, free and easy to join. Plus, it's fun to watch your launch group grow! 
-
-You were invited by PLX user: jorgefop
