@@ -1,74 +1,75 @@
-> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028212543id_/http%3A//www.unisys.com/unisys/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429094557id_/http%3A//www.unisys.com/unisys/privacy.html) for the most accurate reproduction.*
 
-# Unisys Privacy Policy
+# Unisys Privacy Notice
 
-### Overview
+Unisys is committed to protecting your privacy by maintaining the integrity and confidentiality of your personal data. We developed this notice to help you understand the types of personal data we collect, how we use your personal data, with whom we share your personal data and how we protect your personal data. This notice also provides other useful information regarding the data we collect and how we use cookies. 
 
-In the course of conducting our information services and technology business worldwide, Unisys collects and processes personally identifiable information of our clients, shareholders, employees, suppliers, business partners, website visitors and other persons (Personal Data). Maintaining the integrity and confidentiality of Personal Data and handling it correctly is central to the way we conduct our business activities. This policy describes how we handle Personal Data.
+### Types of Personal Data We Collect
 
-Personal Data is information that can be used directly or indirectly to identify a living individual. Personal Data may include sensitive categories of information, such as information that reveals racial or ethnic origin, political opinions, religious beliefs, trade union membership, health or sexual orientation (Sensitive Personal Data).
+We may ask you to voluntarily provide personal data (e.g., name, physical and e-mail addresses, company name, telephone number, etc.) in order to request our services or use certain features of our websites. For example, if you want to customize your Unisys web experience, we will ask you to join My Unisys and create a user profile.
 
-This policy applies to Unisys Corporation and its subsidiaries, and is effective as of October 1, 2002. All employees will be required to abide by this policy.
+The personal data we request and that you voluntarily choose to provide will depend on the service you are requesting or the website feature you are accessing. In certain circumstances, not providing the requested personal data may limit your access to our website or its content. 
 
-This policy is designed to protect Personal Data under applicable law as it currently exists. However, Unisys realizes that this policy cannot address every potential issue and circumstance. Therefore, we acknowledge that this policy is subject in all respects to applicable local legal and regulatory requirements and existing agreements and confirm that we will comply with such requirements and existing agreements.
+### How We Use Your Personal Data
 
-### Privacy Principles
+We do not sell your personal data. 
 
-We will observe the privacy principles described below of Notice, Choice/Fair Processing, Access, Security/Integrity, Onward Transfer and Enforcement/Compliance in processing Personal Data.
+We use the personal data you provide to manage the services you request, respond to inquiries from you and tailor your Unisys experience. We may also use your personal data to support our relationship with you by sending you materials or contacting you about services or offers that we think would be of interest to you.
 
-#### Notice
+### Sharing Your Personal Data
 
-When we collect and process Personal Data about individuals, we will make certain information available to those individuals on a reasonable and timely basis. This information will include what Personal Data is being collected, who is collecting it, how and for what purposes it is being collected, how it is being used and to whom it will be disclosed.
+We share your personal data with authorized Unisys personnel and third parties who are Unisys affiliates or who are acting on our behalf in order to provide the services you request or to support our relationship with you. 
 
-#### Choice/Fair Processing
+We are a global enterprise based in the United States with operations in countries around the world. We may access, use and process personal data collected from you in a country that is different from the country where you entered the personal data. By providing your personal data, you consent to the sharing of your personal data as described above and any resulting cross-border transfers. 
 
-We will process Personal Data only with consent or when such processing is permitted by applicable law. If we need to process Sensitive Personal Data, we will obtain explicit consent for such processing, unless such processing is permitted by applicable law.
+We may also disclose your personal data if we are required to do so in order to comply with our legal obligations.
 
-We will not process Personal Data in a manner incompatible with the purposes for which it was originally collected unless later authorized by the affected individuals or allowed by law; we will take reasonable steps to ensure that such data is accurate, adequate, relevant and not excessive in relation to such purposes; and we will not keep such data longer than is necessary for such purposes.
+### How We Protect Your Personal Data
 
-We will enable individuals to choose whether their Personal Data can be disclosed to a third party for direct marketing purposes.
+We use reasonable security procedures to protect against unauthorized or unlawful access, processing, disclosure, alteration, destruction or accidental loss of your personal data. 
 
-#### Access
+We collect, process and maintain your personal data in accordance with the practices described in this Privacy Notice, applicable Unisys policies and applicable local legal and regulatory requirements.
 
-We will allow individuals reasonable access to their Personal Data to verify, correct or delete their data, where inaccurate. We will also provide a means for individuals to exercise all other legal rights that they may have in relation to their Personal Data.
+### Access to Your Personal Data
 
-Personal Data will be accessible and processed only by (i) Unisys employees, suppliers, business partners and others who require access for the performance of their obligations to Unisys; (ii) any person granted access by the individual to whom Personal Data pertains; and (iii) those otherwise authorized by law or court order.
+We rely on you to provide accurate, complete and current personal data to us.
 
-#### Security/Integrity
+If you need to correct or update the personal data you provided to us, in many cases, you can edit your data from the location where you provided the personal data to us. For example, if you choose to register for My Unisys, you may update or change the personal data provided to us by accessing and editing your user profile on My Unisys.
 
-We will take reasonable security procedures through appropriate technical and organizational measures to protect against unauthorized or unlawful access or processing, disclosure, alteration, destruction or accidental loss of Personal Data.
+If you have any problems accessing your personal data, you may contact the _**[Unisys Global Privacy Office](https://web.archive.org/unisys/privacyqueries.jsp) **_for assistance.
 
-We will utilize reasonable means to keep Personal Data accurate, complete and current in order to protect the quality and integrity of Personal Data, however, we rely on individuals to provide all relevant information and to advise us of any changes to their Personal Data to ensure that it remains accurate, complete and current.
+### Cookies and Other Data We Collect 
 
-#### Onward Transfer
+We strive to make your Unisys experience the best it can be by using various technologies that provide us with information to tailor your Unisys experience and improve our web properties.
 
-When we transfer Personal Data within Unisys or to third parties (including our suppliers and business partners), we will observe the privacy principles of Notice and Choice (described above), and we will require all the recipients of such data to provide at least the same level of protection for such data as specified by the standards stated in this policy.
+When you visit a Unisys website we may collect information through the use of a "cookie," a small file sent to your browser by Unisys or its service providers, as you navigate our web site. The cookies we use are unique to you and can only be read by our web server. The cookies perform different jobs, like letting you navigate between pages efficiently, remembering your preferences, and improving your overall experience. You do not have to accept any cookies. If you choose not to accept a cookie, however, it may affect your ability to access certain content or functionality offered by our web site.
 
-#### Enforcement/Compliance
+The types of cookies we may use fall into several categories:
 
-We will follow internal processes for handling complaints regarding our management of Personal Data.
+Performance Cookies - These cookies collect information about your and other visitor's browsing behavior such as IP address, type of browser used, domain name and pages visited. We aggregate this information from many users to learn about the usage and effectiveness of our web properties in order to improve how our website works. These cookies are usually session cookies.
 
-We will demonstrate our compliance with this policy by:
+Functionality Cookies - These cookies remember your preferences (e.g., user name, language, time zone, region, areas of interest, etc.) and provide you with a more personalized web experience. These are usually persistent cookies. For example, we use a persistent cookie on My Unisys to deliver the personalized content you requested. Deleting the persistent cookie might mean that you need to logon the next time you visit our site to see the content associated with the interests you defined during your My Unisys registration. By setting preferences on our website, you agree that we can place these types of cookies on your device.
 
-  * publishing this policy conspicuously so that it is accessible to all interested persons
-  * appointing and maintaining a Privacy Officer with responsibility for developing and implementing a privacy program
-  * implementing procedures to execute this policy in the conduct of our business, including training our employees in the use of such procedures and disciplining employees for failure to comply with this policy and its procedures
-  * at least annually, reviewing this policy to ensure that it continues to comply with prevailing privacy standards, current applicable law and regulations and existing agreements
+You can find more information about cookies generally at: _**[www.allaboutcookies.org](http://www.allaboutcookies.org/)**_ and you can learn more about browser cookies and how to manage them by visiting the website of your browser provider (e.g., Microsoft for Internet Explorer; Apple for Safari; Mozilla for Firefox). Most browsers are set to accept cookies. Using your browser help feature, you can manage your browser cookie preferences to, for example, automatically accept cookies, automatically decline cookies, or notify you before receiving a cookie. If you use our websites and choose not to disable cookies, you agree that we can place them on your device.
 
+We may also use web beacons in marketing email to identify whether email sent was received, opened, or embedded links clicked. Web beacons may also work with cookies to better understand how users navigate our websites and what content is reviewed.
 
+### Children's Privacy
 
-### Unisys Websites
+It is not our intent to collect personal data from children under the age of 13. Our websites are not designed to attract children and we request that children under the age of 13 not submit personal data to us through our websites.
 
-In addition to all other Personal Data handled by Unisys, this policy applies to Personal Data collected through Unisys websites.
+### Website Terms of Use
 
-As a convenience to our website visitors, we sometimes provide links to other websites. These linked sites are not under the control of Unisys, and as such, we are not responsible for their content.
+We have Terms of Use for users of our websites. For more information, please see our _**[Terms of Use](https://web.archive.org/unisys/terms-and-conditions.html)**_. 
 
-### Updating the Policy
+### Updates to Our Privacy Notice
 
-Changes in legislation and/or our business activities may require that this policy be updated from time to time.
+We may update this privacy notice from time to time. When we update this notice, we will also update the date at the bottom of the notice. Only the current privacy notice is effective, so please review this privacy notice periodically.
 
 ### Contact Us
 
-If you have any questions or comments regarding Unisys privacy policy or practices, please click **[here](https://web.archive.org/unisys/privacyqueries.jsp)**
+If you have any questions or comments regarding this notice or Unisys' privacy practices, please contact the _**[Unisys Global Privacy Office](https://web.archive.org/unisys/privacyqueries.jsp)**_
 
-Copyright © 2012 Unisys. All rights reserved. [www.unisys.com](http://www.unisys.com/)
+Effective October 30, 2012
+
+Copyright © 2013 Unisys. All rights reserved. [www.unisys.com](http://www.unisys.com/)
