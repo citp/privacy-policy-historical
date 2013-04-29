@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033209id_/http%3A//www.cashcowclass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429130746id_/http%3A//www.cashcowclass.com/privacy.html) for the most accurate reproduction.*
 
 # Cash Cow Class :: "Milk" Money Online
 
