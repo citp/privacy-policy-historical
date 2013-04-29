@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysmallbusinessatlanta.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124002437id_/http%3A//www.mysmallbusinessatlanta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmallbusinessatlanta.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429230926id_/http%3A//www.mysmallbusinessatlanta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - My Small Business Atlanta
+# None
 
 This Privacy Policy governs the manner in which My Small Business Atlanta collects, uses, maintains and discloses information collected from users (each, a "User") of the www.mysmallbusinessatlanta.com website ("Site"). This privacy policy applies to the Site and all products and services offered by My Small Business Atlanta.
 
