@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the winespectator.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010324id_/http%3A//www.winespectator.com/display/show/id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winespectator.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429182239id_/http%3A//www.winespectator.com/display/show/id/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wine Spectator
+
+[Home](https://web.archive.org/) > [Help](https://web.archive.org/help) > [Corporate](https://web.archive.org/category/index/id/123)
 
 Wine Spectator is published by M. Shanken Communications. This privacy policy covers our Web site, WineSpectator.com, and email newsletters, as well as other digital products, including apps.
 
@@ -21,8 +23,4 @@ In some cases, you may receive telephone contact from us with information regard
 
 #### Third Party Advertising
 
-Any ads appearing on our Web site and other digital products are delivered to you by DoubleClick, our digital advertising partner. Information about your visits, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here.
-
-#### Third Party Cookies
-
-In the course of serving advertisements to our Web site and some digital products, our third-party advertiser may place or recognize a unique cookie on your browser.
+Any ads appearing on our Web site are delivered to you by a third party advertising solution. In the course of serving advertisements to our Web site, our third-party advertising solution may place or recognize a unique cookie on your browser. We do not collect any personal information such as name, address etc.
