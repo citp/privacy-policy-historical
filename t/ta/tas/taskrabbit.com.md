@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the taskrabbit.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042736id_/https%3A//www.taskrabbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskrabbit.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429212000id_/https%3A//www.taskrabbit.com/privacy) for the most accurate reproduction.*
 
 # TaskRabbit Privacy Policy | TaskRabbit
 
-## Last updated: September 13, 2012
+## Last updated: September 20, 2012
 
 TaskRabbit, Inc. (“TaskRabbit.com”) has created this privacy policy in order explain our privacy practices. The following discloses our information-gathering and -dissemination practices for our TaskRabbit.com website (the “Site”), services and the TaskRabbit mobile application (collectively, the “Service”). By using the Service, you do hereby warrant and represent that you have read, understand and agree to all terms and conditions stated herein, including our Terms of Service, available at http:www.taskrabbit.com/tos, which is incorporated herein by reference, which govern the use of the services offered by TaskRabbit.com, and that you are giving TaskRabbit.com permission to use and store such information consistent with this privacy policy and our Terms of Service. A user of the Service is hereinafter referred to as a “User,” or collectively, the “Users.”
 
 ## Links and Information
 
-This website contains links to other websites. Please review Section 9 of our Terms of Service, available at: [http://www.taskrabbit.com/tos](https://web.archive.org/tos), for more information.
+This website contains links to other websites. Please review Section 9 of our Terms of Service, available at: [https://www.taskrabbit.com/tos](https://web.archive.org/tos), for more information.
 
 ## Information Received by TaskRabbit.com
 
@@ -30,14 +30,14 @@ Only authorized TaskRabbit.com staff have access to your Personal Information in
 
 TaskRabbit.com uses Personal Information for the following general purposes:
 
-  * to provide our products and the Service,
-  * for billing, identification and authentication, and fraud prevention,
-  * to analyze Site usage and improve our products and the Service,
-  * to contact you and deliver administrative notices and communications relevant to your use our products and services,
-  * for internal market research, troubleshooting problems, and detecting and protecting against error, fraud or other criminal activity,
-  * for distribution to third-party contractors that provide services to TaskRabbit.com and partners of TaskRabbit.com who are bound by privacy restrictions at least as restrictive as those set forth in this Policy,
-  * to enforce our Terms of Service, and
-  * as otherwise set forth in the Policy.
+  1. to provide our products and the Service,
+  2. for billing, identification and authentication, and fraud prevention,
+  3. to analyze Site usage and improve our products and the Service,
+  4. to contact you and deliver administrative notices and communications relevant to your use our products and services,
+  5. for internal market research, troubleshooting problems, and detecting and protecting against error, fraud or other criminal activity,
+  6. for distribution to third-party contractors that provide services to TaskRabbit.com and partners of TaskRabbit.com who are bound by privacy restrictions at least as restrictive as those set forth in this Policy,
+  7. to enforce our Terms of Service, and
+  8. as otherwise set forth in the Policy.
 
 
 
@@ -81,7 +81,7 @@ To preserve the integrity of our databases, we may retain information submitted 
 
 Your TaskRabbit.com account is password-protected so that only you and authorized TaskRabbit.com staff have access to your account information. In order to maintain this protection, do not give your password to anyone. If someone who represents to you they are TaskRabbit.com staff and asks for any personal account information, including password, check their URL. If it doesn't say they are help@taskrabbit.com, they aren’t. Also, if you share a computer, you should sign out of your TaskRabbit.com account and close the browser window before someone else logs on. This will help protect your information entered on public terminals from disclosure to third parties.
 
-TaskRabbit.com makes every effort to ensure that your information is secure on its system by backing up data in separate back up drives and uses public key access encryption and firewalls on both our main and backup servers. We also employ and customer record managers to protect against loss, misuse and alteration of the information under our control. Extremely sensitive information, like credit card numbers, is always transmitted in encrypted form. Only certain authorized TaskRabbit.com staff can access Personal Information, and then only if it is relevant to their job duties. TaskRabbit.com has staff dedicated to maintaining this Privacy Policy and other privacy initiatives, periodically reviewing security and making sure that every TaskRabbit.com employee is aware of our security practices. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, TaskRabbit.com cannot guarantee the security of any information you transmit to us, and you do so at your own risk. While TaskRabbit.com will use commercially reasonable efforts to ensure the security of all credit card and all other personal information, we expressly disclaim any liability for any unauthorized access to or use of our secure servers and/or any and all personal and/or financial information stored therein, and you agree to hold TaskRabbit.com harmless for any damages that may result therefrom. If you have any further questions on this issue, please refer to the Terms of Service, available at [http://www.taskrabbit.com/tos](https://web.archive.org/tos). TaskRabbit.com expressly disclaims any liability that may arise should any other individuals obtain the information you submit to this website.
+TaskRabbit.com makes every effort to ensure that your information is secure on its system by backing up data in separate back up drives and uses public key access encryption and firewalls on both our main and backup servers. We also employ and customer record managers to protect against loss, misuse and alteration of the information under our control. Extremely sensitive information, like credit card numbers, is always transmitted in encrypted form. Only certain authorized TaskRabbit.com staff can access Personal Information, and then only if it is relevant to their job duties. TaskRabbit.com has staff dedicated to maintaining this Privacy Policy and other privacy initiatives, periodically reviewing security and making sure that every TaskRabbit.com employee is aware of our security practices. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, TaskRabbit.com cannot guarantee the security of any information you transmit to us, and you do so at your own risk. While TaskRabbit.com will use commercially reasonable efforts to ensure the security of all credit card and all other personal information, we expressly disclaim any liability for any unauthorized access to or use of our secure servers and/or any and all personal and/or financial information stored therein, and you agree to hold TaskRabbit.com harmless for any damages that may result therefrom. If you have any further questions on this issue, please refer to the Terms of Service, available at [https://www.taskrabbit.com/tos](https://web.archive.org/tos). TaskRabbit.com expressly disclaims any liability that may arise should any other individuals obtain the information you submit to this website.
 
 ## With whom does TaskRabbit.com share information?
 
