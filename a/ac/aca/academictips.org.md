@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213042818id_/http%3A//www.academictips.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429202406id_/http%3A//academictips.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | AcademicTips.org
+# Privacy Policy Policy | AcademicTips.org
 
-[Home](https://web.archive.org/web/20121213042818id_/http%3A//www.academictips.org/index.html) : Privacy Policy
+[Home](https://web.archive.org/web/20130429202406id_/http%3A//academictips.org/index.html) : Privacy Policy
 
 Dear Friends! Thank you for visiting AcademicTips.org. Your privacy is very important. Here is information on what types of personal information we receive and collect when you visit this website, and how we safeguard your information.
 
-We created this Privacy Policy to give you confidence as you visit and use the site.
+We created this Privacy Policy to give you confidence as you visit and use the site. We will never sell or disclose your information to third parties.
 
 1\. Blog Notifications
 
-Our blog has features to notify you of new blog posts and new comments. If you subscribe to any of those features, we collect your email address so that we can send you the notifications.
+Our blogs have features to notify you of new blog posts and new comments. If you subscribe to any of those features, we collect your email address so that we can send you the notifications.
 
-We do not sale or disclose your email address to any third parties. Besides from new posts and comments notifications, we do not send you any other types of emails.
+We do not sale or disclose your email address to third parties. Besides from new posts and comments notifications, we do not send you any other types of emails.
 
 Unsubscribe: In the event you would like to unsubscribe, please follow the following instructions: 
 
@@ -36,6 +36,6 @@ From time to time, we may provide links to other websites we do not own so you c
 
 By using our website, you consent to the collection and use of information by AcademicTips as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it.
 
-_Last revision: December 06 2012_
+_Last revision: March 28, 2013_
 
 AcademicTips.org, since December 1999.
