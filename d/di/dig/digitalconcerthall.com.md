@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalconcerthall.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130094123id_/http%3A//www.digitalconcerthall.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalconcerthall.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010847id_/http%3A//www.digitalconcerthall.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy - The Berliner Philharmoniker's Digital Concert Hall
 
@@ -61,4 +61,4 @@ Upon request by email to [dch@berliner-philharmoniker.de](mailto:dch@berliner-ph
 
 Berlin, 15 December 2008
 
-[Download privacy policy and terms and conditions as PDF](http://cdn4.digitalconcerthall.com/pdf/Digital-Concert-Hall_GTC_PP.pdf)
+[Download privacy policy and terms and conditions as PDF](http://static.digitalconcerthall.com/pdf/Digital-Concert-Hall_GTC_PP.pdf)
