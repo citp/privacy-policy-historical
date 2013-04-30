@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the date-masters.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123013046id_/http%3A//date-masters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the date-masters.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430152319id_/http%3A//date-masters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://date-masters.com/terms-and-conditions/](https://web.archive.org/web/20121123013046id_/http://date-masters.com/terms-and-conditions/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://date-masters.com/terms-and-conditions/](https://web.archive.org/web/20130430152319id_/http://date-masters.com/terms-and-conditions/)
 
 **Your Consent**
 
@@ -83,3 +83,7 @@ This policy was last modified on 2/20/2011
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 customersupport@date-masters.com
+
+©2010-2012. DateMasters, Inc. All Rights Reserved. By entering, you agree to our [terms and conditions](http://date-masters.com/terms-and-conditions/). You must be 18 or older to enter. The information on this site is intended for educational and/or entertainment purposes only. Nothing on this website should be interpreted to state or imply that past results from our trainers, writers and clients are an indication of _your_ future performance. Actual results are the responsibility of each individual. If you need to contact support, please go to the [Contact Us](http://date-masters.com/contact-us/) page or email datemasters@date-masters.com.
+
+[](http://english-1337090012.spampoison.com/)
