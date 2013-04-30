@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cinemaclock.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225084650id_/http%3A//www.cinemaclock.com/privacy/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinemaclock.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430133713id_/http%3A//www.cinemaclock.com/privacy/Privacy-Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -17,7 +17,7 @@
 <link rel="apple-touch-icon" href="/html/ccimg/touch-icon-iphone.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/html/ccimg/touch-icon-ipad.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/html/ccimg/touch-icon-iphone4.png">
-<link href="/html/ccss/clock.css?speed=8" rel="stylesheet" type="text/css">
+<link href="/html/ccss/clock.css?speed=6" rel="stylesheet" type="text/css">
 
 <style type="text/css">
 <!--
@@ -58,17 +58,91 @@ h3_ {
 }
 
 
+.better-autocomplete,
+.better-autocomplete > .result {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: none;
+}
+
+.better-autocomplete {
+  text-align: left;
+  font-family: 'Lucida Grande', Helvetica, Arial, Verdana, sans-serif;
+  overflow: auto;
+  cursor: default;
+  background: rgba(255,255,255,.95);
+
+  border-bottom: 1px solid #bfbfbf;
+}
+
+
+
+.better-autocomplete > .group {
+  position: relative;
+  padding: 3px;
+  text-align: center;
+  background: #e7e7e7;
+  border-color: #bfbfbf;
+  border-width: 1px 1px 0 1px;
+  border-style: solid;
+}
+
+.better-autocomplete > .group > h3 {
+  font-size: 11px;
+  color: #555;
+  padding: 0;
+  margin: 0;
+}
+
+.better-autocomplete > .result {
+  position: relative;
+  padding: 5px 7px;
+  background: none;
+
+  width:282px;
+}
+
+.better-autocomplete > .result > h4 {
+  font-size: 12px;
+  color: #3c3c3c;
+  padding: 0;
+  margin: 0 0 2px 0;
+}
+
+.better-autocomplete > .result > p {
+  font-size: 11px;
+  line-height: 1.3;
+  color: #6f6f6f;
+  padding: 0;
+  margin: 0;
+}
+
+.better-autocomplete > .result.highlight {
+  background: #83d1f5;
+  border-top-color: #1f4a64;
+}
+
+.better-autocomplete > .result.highlight > h4,
+.better-autocomplete > .result.highlight > p {
+  color: black;
+}
+
+
+
+
 -->
 </style>
 
 <!--[if lt IE 7.]>
 <script defer type="text/javascript" src="/html/ccjs/png.js"></script>
 <![endif]-->
-<script type="text/javascript" src="https://cdn-origin.woopra.com/js/woopra.cinemaclock.js?ra=0.7214497397766115" async=""></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" language="JavaScript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" language="JavaScript">
 <!--
 Wallpaper = "no";
 Witnesspixel = "/html/1x1.gif";
-Bannerid = "no";
+Bannerid = 0;
+var Zoneid = 0;
 Bannertarget = "_blank";
 PixelOverwrite = "no";
 BannerLB = "no";
@@ -78,7 +152,7 @@ BannerLBTag = "";
 BannerBBTag = "";
 BannerSSTag = "";
 var Button1url = '';
-if (typeof OAS_rns == "undefined") OAS_rns = new String (Math.random()).substring(2, 11);
+if (typeof RandomNumber == "undefined") RandomNumber = new String (Math.random()).substring(2, 11);
 var winW = 1000;
 if (document.body && document.body.offsetWidth) {
  winW = document.body.offsetWidth;
@@ -130,19 +204,35 @@ if (window.innerWidth) {
 ]]>
 */
 </script>
-<script src="/html/ccjs/jquery-1.7.1.min.js"></script>
+
+<script type="text/javascript" src="/html/ccjs/jquery.js"></script>
+<script src="/html/ccjs/jquery.better.js"></script>
+<script>
+$(document).ready(function() {
+  $('#key').betterAutocomplete('init', '/aw/cquicksearch.aw?r=ont&m=Toronto&j=e');
+});
+</script>
 
 
 
 </head>
 
 <body>
-<div class="MISIA">
 
-<div class="PG" id="PAGE"><div id="HD"><div id="WALL"><script type="text/javascript" language="JavaScript1.1"><!--
-document.write ('<a href="http://boss.cinemaclock.com/openx/www/delivery/ck.php?oaparams=2__bannerid=' + Bannerid + '" target="' + Bannertarget + '"></a>');
+
+
+<div class="MISIA" style="position:absolute;display:block;top:0;left:0;z-index:1;width:100%;height:100%;"><script type="text/javascript" language="JavaScript1.1">
+if (Bannerid >0) {
+document.write ('<a href="/aw/bannadsc.aw?zid=' + Zoneid + '&bid=' + Bannerid + '" target="' + Bannertarget + '" style="position:absolute;display:block;top:0;left:0;z-index:1;width:100%;height:100%;"></a>');
+}
 //-->
-</script><a href="http://boss.cinemaclock.com/openx/www/delivery/ck.php?oaparams=2__bannerid=no" target="_blank"></a></div><div class="LB"></div><div id="LN"><a href="/francais/ont/Toronto/Francais.htm" style="color:#fff;">Français</a></div>
+</script></div>
+
+<div class="PG" id="PAGE">
+<div id="HD"><div id="WALL"><script type="text/javascript" language="JavaScript1.1">
+document.write ('<a href="/aw/bannadsc.aw?zid=' + Zoneid + '&bid=' + Bannerid + '" target="' + Bannertarget + '"></a>');
+//-->
+</script><a href="/aw/bannadsc.aw?zid=0&amp;bid=0" target="_blank"></a></div><div class="LB"></div><div id="LN"><a href="/francais/ont/Toronto/Francais.htm" style="color:#fff;">Français</a></div>
 <div id="logo"><a href="/hello.html"></a></div>
     <h1>Toronto</h1>
     <div id="MN">
@@ -154,14 +244,14 @@ document.write ('<a href="http://boss.cinemaclock.com/openx/www/delivery/ck.php?
     <h5 id="MNtheatres"><a href="/ont/Toronto-movie-theatres.html">Theatres</a></h5>
     <h5 id="MNmovies"><a href="/ont/Toronto-movie-catalog.html">Movies</a></h5>
     <h5 id="MNdvd"><a href="/ont/Toronto-video-dvd.html">DVD</a></h5>
-    <form method="get" action="/search" target="_top" name="searchform"><input type="hidden" name="r" value="ont"><input type="hidden" name="m" value="Toronto"><input name="key" type="text" class="text" value="Search" onfocus="document.searchform.key.value=''" style="height:17px;width: 130px;position:absolute;top:0;right:35px;color:#999999;">&nbsp;<input type="submit" name="mysubmit" value="Go!" class="button" style="position:absolute; top:0; right:0;"></form>
+    <form method="get" action="/search" target="_top" name="searchform"><input type="hidden" name="r" value="ont"><input type="hidden" name="m" value="Toronto"><input type="hidden" name="aga" value=""><input id="key" name="key" type="text" class="text" value="Search" onfocus="document.searchform.key.value=''" style="height:17px;width: 130px;position:absolute;top:0;right:35px;color:#999999;">&nbsp;<input type="submit" name="mysubmit" value="Go!" class="button" style="position:absolute; top:0; right:0;"></form>
     </div>
   </div>
   <div class="CT">
 <div class="CTRT"><div id="WALLBB"><script type="text/javascript" language="JavaScript1.1"><!--
-document.write ('<a href="http://boss.cinemaclock.com/openx/www/delivery/ck.php?oaparams=2__bannerid=' + Bannerid + '" target="' + Bannertarget + '"></a>');
+document.write ('<a href="/aw/bannadsc.aw?zid=' + Zoneid + '&bid=' + Bannerid + '" target="' + Bannertarget + '"></a>');
 //-->
-</script><a href="http://boss.cinemaclock.com/openx/www/delivery/ck.php?oaparams=2__bannerid=no" target="_blank"></a></div></div>
+</script><a href="/aw/bannadsc.aw?zid=0&amp;bid=0" target="_blank"></a></div></div>
 <!--[if lt IE 7]>
 <h2>You are using an obsolete version of Internet Explorer which is unable to show this page correctly. Please upgrade your browser.<br><br></h2>
 <![endif]-->
@@ -205,9 +295,11 @@ If you no longer want to receive e-mail messages from us, please <a href="/conta
 <!-- Facebook -->
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.CinemaClock.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
 
+
   </div>
   <div class="FT">
   <a href="http://m.cinemaclock.com/Toronto.html">Mobile</a> · 
+  <a href="https://itunes.apple.com/ca/app/cinemaclock/id588165293?mt=8">iPhone</a> · 
   <a href="http://www.cinemaclock.com/Toronto.html">Home</a> 
   <span class="limited"> · <a href="http://www.cinemaclock.com/ont/Toronto-top10.html">Top 10</a></span>
     · <a href="/ont/Toronto-movie-trailers.html">Trailers</a> 
@@ -223,7 +315,7 @@ If you no longer want to receive e-mail messages from us, please <a href="/conta
     · <a href="/francais/ont/Toronto/Francais.html">Français</a><br>
 	<a href="http://www.cinemaclock.com/terms/ont/Toronto/Terms.html">Terms</a> 
     and <a href="http://www.cinemaclock.com/privacy/ont/Toronto/Privacy-Policy.html">Privacy Policy</a> under which this service is provided to you.<br>
-	© 1996-2012 CinemaClock Canada Inc.
+	© 1996-2013 CinemaClock Canada Inc.
 	</div>
     
 
@@ -255,19 +347,8 @@ if ((typeof ADGEAR_BLANK_2 != "undefined") && (ADGEAR_BLANK_2 === true)) {
   if (BannerLB == 'yes') {
   }
   else {
-   var m3_u = (location.protocol=='https:'?'https://boss.cinemaclock.com/openx/www/delivery/ajs.php':'http://boss.cinemaclock.com/openx/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=26");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'></scr"+"ipt>");
+	
+
   }
 }
 </script>
@@ -298,6 +379,17 @@ if ((typeof ADGEAR_BLANK_2 != "undefined") && (ADGEAR_BLANK_2 === true)) {
 ]]>
 */
 </script>
+<script type="text/javascript" language="JavaScript">
+if ((typeof ADGEAR_BLANK_1016 != "undefined") && (ADGEAR_BLANK_1016 === true)) {
+  if (BannerBB == 'yes') {
+  }
+  else {
+	  document.write ('<span class="appstore"><a href="https://itunes.apple.com/ca/app/cinemaclock/id588165293?ls=1&mt=8" target="_blank"><img src="/html/ccimg/iPhoneENCanada201301.png" border="0"></a></span>');
+  }
+}
+</script>
+
+
 </span></div>
 
 
@@ -324,44 +416,10 @@ if ((typeof ADGEAR_BLANK_2 != "undefined") && (ADGEAR_BLANK_2 === true)) {
 </script>
 </span></div>
 
+
+
+
 <div id="BBSS">
-<script type="text/javascript" language="JavaScript">
-if ((typeof ADGEAR_BLANK_1016 != "undefined") && (ADGEAR_BLANK_1016 === true)) {
-   var m3_u = (location.protocol=='https:'?'https://boss.cinemaclock.com/openx/www/delivery/ajs.php':'http://boss.cinemaclock.com/openx/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=27");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'></scr"+"ipt><br><br>");
-}
-if ((typeof ADGEAR_BLANK_1029 != "undefined") && (ADGEAR_BLANK_1029 === true)) {
-   var m3_u = (location.protocol=='https:'?'https://boss.cinemaclock.com/openx/www/delivery/ajs.php':'http://boss.cinemaclock.com/openx/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=28");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'></scr"+"ipt>");
-}
-</script>
-</div>
-
-
-
-
 
 </div>
 
@@ -370,6 +428,9 @@ if ((typeof ADGEAR_BLANK_1029 != "undefined") && (ADGEAR_BLANK_1029 === true)) {
 
 
 </div>
+
+
+
 
 
 
@@ -397,28 +458,10 @@ if (winW < 940) {
 </script>
 
 
-<script type="text/javascript">
-function woopraReady(tracker){
-    tracker.setDomain('cinemaclock.com');
-    tracker.setIdleTimeout(1200000);
-    tracker.addVisitorProperty('lang','e');
-    tracker.addVisitorProperty('region','ont'); 
-    tracker.addVisitorProperty('city','Toronto'); 
-    tracker.addVisitorProperty('mobile','0'); 
-    tracker.addVisitorProperty('langcity','e-Toronto'); 
-    tracker.track();
-    return false;
-}
-(function(){
-var wsc=document.createElement('script');
-wsc.type='text/javascript';
-wsc.src=document.location.protocol+'//cdn-origin.woopra.com/js/woopra.cinemaclock.js?ra='+Math.random();
-wsc.async=true;
-var ssc = document.getElementsByTagName('script')[0];
-ssc.parentNode.insertBefore(wsc, ssc);
-})();
-</script>  
-
+<script>
+var language = window.navigator.userLanguage || window.navigator.language;
+document.write('<'+'img src="http://www.cinemaclock.com/aw/clicz.aw?ref=' + escape(document.referrer) + '&w=' + screen.width + '&h=' + screen.height + '&lan=' + language + '&j=e&r=ont&m=Toronto&pla=des&count=' + RandomNumber + '" style="float:left;" width=1 height=1>');
+</script><img src="http://www.cinemaclock.com/aw/clicz.aw?ref=&amp;w=800&amp;h=600&amp;lan=en-US&amp;j=e&amp;r=ont&amp;m=Toronto&amp;pla=des&amp;count=449049166" style="float:left;" width="1" height="1">
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
