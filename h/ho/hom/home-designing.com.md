@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-designing.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016110411id_/http%3A//www.home-designing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-designing.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125109id_/http%3A//www.home-designing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,3 +20,15 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added
+
+#### Did you like this article?
+
+Share it on any of the social media channels below to give us your vote.   
+Your feedback helps us improve. 
+
+#### Your thoughts? (They inspire us!)
+
+  
+
+
+#### Other related interior design ideas you might like...
