@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalitycafe.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201065811id_/http%3A//personalitycafe.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalitycafe.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430083909id_/http%3A//personalitycafe.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PersonalityCafe - Privacy Policy
 
