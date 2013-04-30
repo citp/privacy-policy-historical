@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtasker.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016193927id_/https%3A//www.airtasker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtasker.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430021933id_/https%3A//www.airtasker.com/privacy) for the most accurate reproduction.*
 
 # Airtasker | Get it Done
 
