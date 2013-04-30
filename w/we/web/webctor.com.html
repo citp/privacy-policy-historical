@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webctor.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920013200id_/http%3A//webctor.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webctor.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430180922id_/http%3A//webctor.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -41,7 +41,9 @@
                 baseUrl: "http://webctor.com/",
                 identity: null,
                 controller: "",
-                domain: 'http://webctor.com'
+                route: 'privacy',
+                domain: 'http://webctor.com',
+                cookie_domain: '.webctor.com'
             };
 
             Webctor.loadingImage = 'http://webctor.com/img/loaderCircleWhite.gif';
@@ -79,10 +81,8 @@
 <script type="text/javascript" src="http://webctor.com/js/webctor.ugc.js"></script>
 <script type="text/javascript" src="http://webctor.com/js/jquery-scroll/jquery.scrollTo-1.4.2-min.js"></script>
 <script type="text/javascript" src="http://webctor.com/js/twitter.js"></script>
-<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/webctor_com.json?callback=Webctor.twitter.callback&amp;count=1"></script>
 <script type="text/javascript" src="http://webctor.com/js/webctor.ts.js"></script>
 <script type="text/javascript" src="http://webctor.com/js/googlePlus.js"></script>
-<script type="text/javascript" src="http://platform.twitter.com/anywhere.js?v=1&amp;id=4vi4qqfQM9KmBeF1YThwqw"></script>
         <!--[if IE]>
             <link href="http://webctor.com/minify/?g=cssie" media="screen" rel="stylesheet" type="text/css" />
         <![endif]-->
@@ -145,8 +145,6 @@
                         <a href="http://webctor.com/registration" class="fRight" rel="nofollow">Create an account?</a>
                         <h2 class="noBorder"><br></h2><form id="quickLoginForm" name="quickLoginForm" enctype="application/x-www-form-urlencoded" method="post" action="http://webctor.com/login?continue=/privacy"><dl class="zend_form">
 <dd>
-<span id="quickLogin-twitterLogin" class="fRight buttonTwLogin">Login with Twitter</span></dd>
-<dd>
 <span id="quickLogin-facebookLogin" class="flLeft buttonFbLogin">Login with Facebook</span></dd>
 <div class="ofHidden both borderTop">
 <input type="text" name="quickLogin[login]" id="quickLogin-login" value="" class="inputText inputShadow fRight">
@@ -163,7 +161,6 @@
 <script>
 $(document).ready(function(){
     Webctor.Login.facebook();
-    Webctor.Login.twitter();
 });
 </script>
 </div>
@@ -963,15 +960,6 @@ at </span></span></font><a href="mailto:support@webctor.com">support@webctor.com
                 <fb:like href="http://www.facebook.com/pages/Webctor/201095376575224" send="false" layout="button_count" width="100" show_faces="false"></fb:like>
                 <p class="color1 fRight"> Your favorite medical Q&amp;A site is on Facebook! Become a fan to connect with the ever-growing community of Webctor, share your thoughts and find out what Webctor's up to next!</p>
             </div>
-            <div>
-                <h2>Latest Tweet</h2>
-                <ul id="twitter_update_list"></ul>
-                <br>
-
-                <a href="http://twitter.com/#!/webctor_com" rel="nofollow"><i class="sprite img2"></i></a>
-            </div>
-
-
         </div>
 
 
