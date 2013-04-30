@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915060419id_/http%3A//www.intouch.org/donate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122633id_/http%3A//intouch.org/donate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy Statement
 
 This is the web site of In Touch Ministries. 
 
