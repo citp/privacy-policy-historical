@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofeminine.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624060104id_/http%3A//www.sofeminine.co.uk/money/sofeminine-s-privacy-policy-n76184.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofeminine.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430085243id_/http%3A//www.sofeminine.co.uk/money/sofeminine-s-privacy-policy-n76184.html) for the most accurate reproduction.*
 
 # Sofeminine's Privacy Policy - sofeminine
 
@@ -9,7 +9,7 @@ We, SOFEMININE.CO.UK LIMITED and auFeminin.com SA (together, referred to as “S
 
 This policy (together with our [Community Services Terms and Conditions of Use](http://www.sofeminine.co.uk/world/communaute/forum/forumfaqtut__page=1.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is SoFeminine Limited of 77 Oxford Street, London W1D 2ES.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is SoFeminine Limited of 131-151 Great Titchfield Street, London, W1W 5BB.
 
 1.    INFORMATION WE MAY COLLECT FROM YOU  
 We may collect and process the following data about you:
@@ -83,7 +83,7 @@ We may disclose your personal information to third parties:
 •    Where we have agreements or arrangements with our partner networks, advertisers and affiliates to share data.
 
 6.    YOUR RIGHTS  
-You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at edito@sofeminine.co.uk.
+You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at team@sofeminine.co.uk.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -94,7 +94,7 @@ The Act gives you the right to access information held about you. Your right of 
 Any changes we may make to our privacy policy in the future will be posted on this page.
 
 9.    CONTACT  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to edito@sofeminine.co.uk.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to team@sofeminine.co.uk.
 
   
 
