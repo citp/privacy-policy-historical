@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003023753id_/http%3A//supplementreviews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430070623id_/http%3A//supplementreviews.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SupplementReviews.com
 
@@ -6,7 +6,7 @@ This Site is operated by Muscle Media, Inc. ("Muscle Media"). This Privacy Polic
 
 **What We Gather** ~ Our Web server automatically collects information from a visitor's computer and browser, including their internet protocol (IP) address and cookies. A cookie is a small text file that is sent to your Web browser from a Web server and stored on your computer's hard drive. When you visit this Site, a cookie may be sent to your computer. You can control whether or not you want to accept cookies by adjusting the settings of your browser. 
 
-Third party vendors may use cookies to serve ads based on prior visits to this website. No personal information is collected by these cookies. You can opt out of third party vendor's cookies at any time by visiting this page: http://www.networkadvertising.org/managing/opt_out.asp 
+Third party vendors may use cookies to serve ads based on prior visits to this website. No personal information is collected by these cookies. You can opt out of third party vendor's cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 We will collect personal information that visitors voluntarily provide to us, such as the names and e-mail addresses of those who create membership accounts and submit feedback forms. 
 
