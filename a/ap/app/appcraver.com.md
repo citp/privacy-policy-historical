@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011014632id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430055314id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - iPhone Applications
 
-For the purposes of this privacy statement, the terms “we”, “us”, “our” and “Appcraver.com” refer to the iPhone Application site AppCraver.com. The terms “You” and “End-User” refer to You as a user of this Site.
+For the purposes of this privacy statement, the terms "we", "us", "our" and "Appcraver.com" refer to the iPhone Application site AppCraver.com. The terms "You" and "End-User" refer to You as a user of this Site.
 
 Appcraver.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation, and will be used only as a source of anonymous statistical information. This information may include:
 
@@ -34,7 +34,7 @@ If you use any forum or chat feature on this site, you should be aware that any 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you
 
-### “Opting out”
+### "Opting out"
 
 We provide you the opportunity to ’opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you set up an account but do not wish to receive any additional marketing material from us, you can indicate your preference during signup. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter, by signing into your account or by emailing us at clark (at) appcraver.com
 
