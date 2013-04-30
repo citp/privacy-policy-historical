@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006113951id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430211559id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
 
-# Privacy Policy and Guarantee
+# Privacy Policy and Guarantee - Beads.us
 
-Milky Way Jewelry ( [Beads.us](http://www.beads.us/) ) is serious about privacy. How do we do this? Milky Way Jewelry uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
+Milky Way Jewelry Ltd. ( [Beads.us](http://www.beads.us/) ) is serious about privacy. How do we do this? Milky Way Jewelry Ltd. uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
 ## What exactly does Ironclad Guarantee mean? 
 
@@ -26,7 +26,7 @@ To enhance your shopping experience, our site uses cookies. Cookies are alpha-nu
 
 You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you'd like to opt out of receiving future email offers from Fire Mountain Gems and Beads, please log in to your account. You will see a number of options for maintaining your account. Select “Change how often you wish to receive email offers.” You’ll see your current selection and a number of options for changing the frequency of emails or opting out. We may share your mailing address with reputable businesses that can provide you with valuable, relevant offers and information. If you do not wish to have your name shared with these carefully screened businesses, please call customer service at 00493068085344.
 
-This site may now, or in the future, contain links to other sites. Milky Way Jewelry ( Beads.us )is not responsible for the privacy practices or content of such sites. 
+This site may now, or in the future, contain links to other sites. Milky Way Jewelry Ltd. ( Beads.us )is not responsible for the privacy practices or content of such sites. 
 
 By using our web site or purchasing product from us, you agree to the collection and use of information as set forth in this privacy policy. This policy may be updated at any time. We will post any changes to our privacy policy on this page so that you are always aware of what information we collect and how we use it. 
 
