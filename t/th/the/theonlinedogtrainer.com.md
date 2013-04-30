@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonlinedogtrainer.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014103826id_/http%3A//www.theonlinedogtrainer.com/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlinedogtrainer.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430134805id_/http%3A//www.theonlinedogtrainer.com/1/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :The Online Dog Trainer
 
