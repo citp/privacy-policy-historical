@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytheowner.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510000235id_/http%3A//comfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytheowner.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430084126id_/http%3A//comfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ComFree
 
@@ -40,7 +40,7 @@ However, it is important to Commonsense Network for you to be able to easily ide
 
 Requests or complaints regarding the application of this policy can be sent to Commonsense Network at:  
 E-mail address: [privacy@comfree.com](mailto:privacy@comfree.com),  
-Mailing address: _Commonsense Network brokerage, 5326, Calgary Trail NW Edmonton (AB), T6H 4J8_
+Mailing address: _Commonsense Network brokerage, 430 McNeilly Road, Unit 103, Hamilton (ON) L8E 5E3_
 
       3. **Determine why personal information is collected**
 
