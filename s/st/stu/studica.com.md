@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022204409id_/http%3A//www.studica.com/us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430191128id_/http%3A//www.studica.com/ca/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Academic Software Discounts for Students Teachers Fac
+# Privacy Policy - Academic Student Software Discounts | Educational Software for Students Teachers Faculty and Schools - Studica
 
 Studica has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
