@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcrave.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192709id_/http%3A//designcrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcrave.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430221051id_/http%3A//designcrave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
