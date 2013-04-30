@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215150724id_/http%3A//macpaw.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430084116id_/http%3A//macpaw.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy for CleanMyMac, CleanMyPC, MacHider and Ensoul
 
@@ -41,6 +41,14 @@ We may use cookies. A cookie is a small amount of data that is sent to your brow
 We may use cookies to provide a more personalized and user-friendly visit to our website and to help us track user traffic patterns. A cookie cannot read your hard disk or other cookie files.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**JAVA SCRIPT**
+
+JavaScript is often used to quickly display the backordered products, recalculate an order if a different shipping method is selected, show additional info on products and do other useful things to help customers use the site. You don't need to have JavaScript enabled in order to fully experience our site, but the features it provides may help you enhance the way you do shopping and, as a result, make the whole process more convenient and comfortable for you.
+
+**THIRD PARTY ADVERTISING**
+
+Third party advertising companies are used to serve ads about our products. Such companies collect the info about your browsing experience, which then can be used to show you ads about potentially interesting services and goods. Note, that NO personal info, such as name, email address, telephone number or real address, is being gathered. If you want to know more about third party advertising and correct what type of information about you is allowed to be gathered by such companies, visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 **HOW WE PROTECT PERSONAL DATA**
 
