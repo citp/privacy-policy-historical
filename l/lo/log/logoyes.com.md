@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logoyes.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235317id_/http%3A//logoyes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoyes.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430085240id_/http%3A//logoyes.com/site/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LogoYes
+# Logo Design | Free Logo Design Software | Make Your Own Logo Designs
 
 (Updated December 15, 2010)
 
@@ -16,11 +16,11 @@ We act as a service provider to our customers and may process and store on behal
 
 By visiting our website or using our products or services, you agree to the terms of this Privacy Policy.
 
-You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by Web.com or Web.com’s trusted vendors or other third parties in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by Web.com or Web.com's trusted vendors or other third parties in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
 
 ## Collection of Personal Information
 
-The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time with information and offers about our or a third party’s products and services.
+The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time with information and offers about our or a third party's products and services.
 
 ## Personal Information You Provide to Us
 
@@ -60,7 +60,7 @@ We may disclose your Personal Information if we believe in good faith that such 
 
 ## Your Choices Regarding Your Personal Information
 
-Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [info@web.com](). Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care.
+Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [info@web.com](mailto:info@web.com). Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care.
 
 ## Regarding Minors
 
