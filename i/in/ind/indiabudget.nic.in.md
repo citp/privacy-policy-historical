@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabudget.nic.in privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119233259id_/http%3A//www.indiabudget.nic.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabudget.nic.in privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122030id_/http%3A//indiabudget.nic.in/privacy.asp) for the most accurate reproduction.*
 
 # UNION BUDGET & ECONOMIC SURVEY
 
