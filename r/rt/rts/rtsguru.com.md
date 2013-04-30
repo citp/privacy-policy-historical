@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107074111id_/http%3A//www.rtsguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430222704id_/http%3A//www.rtsguru.com/privacy) for the most accurate reproduction.*
 
 # RTSguru.com - RTS Game Reviews, News, Opinion & Previews for Real Time Strategy Games
 
