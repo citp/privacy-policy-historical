@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the millerwelds.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226154831id_/http%3A//www.millerwelds.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the millerwelds.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430185632id_/http%3A//www.millerwelds.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -60,7 +60,7 @@
 			<tr>
 				<td id="navpED"><a href="/products/enginedriven/">Engine-Driven</a></td>
 				<td id="navpSubArc"><a href="/products/submergedarc/">Submerged Arc</a></td>
-				<td id="navpPlasma"><a href="/products/plasma/">Plasma Cutters</a></td>
+				<td id="navpPlasma"><a href="/products/metalcutting/">Metal Cutting</a></td>
 			</tr>
 			<tr>
 				<td id="navpWF"><a href="/products/wire_feeders/">Wire Feeders</a></td>
@@ -358,17 +358,17 @@
                 <li id="footer-rss"><a href="/results/rssfeeds.php" title="RSS Feeds" onclick="pageTracker._trackPageview('/external/footer/rss/');"></a></li>
             </ul>
             <div><a href="/about/terms.html#q">Social Media Terms of Use</a></div>
-        </div>    
+        </div>
     </div>
 	<div id="footer-bottom">
 		<p><a href="/">Home</a> | <a href="/products/">Products</a> | <a href="/wheretobuy/">Where to Buy</a> | <a href="/service/">Service</a> | <a href="/resources/">Resources</a> | <a href="/interests/">Industry &amp; Interests</a> | <a href="/about/">About Us</a></p>
 		<p><a href="/about/partners.html">Partner Login</a> | <a href="/wheretobuy/international.php">International</a> | <a href="/help.html">Site Help</a> | <a href="/about/privacy.html">Privacy Policy</a> | <a href="/about/terms.html">Terms of Use</a></p>
-	</div>	
-	<div id="copyright">© 2012 Miller Electric Mfg Co. All Rights Reserved.</div>
+	</div>
+	<div id="copyright">© 2013 Miller Electric Mfg Co. All Rights Reserved.</div>
 </div>
 	
 
-<script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script> 
+<script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 <script type="text/javascript">
 function ClearSearchBox() {
 	YAHOO.util.Dom.get('searchquery').value = '';
@@ -407,32 +407,32 @@ pageTracker._trackPageLoadTime();
     function fixYouTube() {
         if(typeof Shadowbox == "object"){
 			var Apple = {};
-			Apple.UA = navigator.userAgent; 
+			Apple.UA = navigator.userAgent;
 			Apple.Device = false;
 			Apple.Types = ["iPhone", "iPod", "iPad"];
 			for (var d = 0; d < Apple.Types.length; d++) {
 				var t = Apple.Types[d];
 				Apple[t] = !!Apple.UA.match(new RegExp(t, "i"));
 				Apple.Device = Apple.Device || Apple[t];
-			}  
-			
+			}
+
 			var elem = document.getElementsByTagName('a');
             var url, rel;
 
-            for( var i = 0; i < elem.length; i++ ) {								
+            for( var i = 0; i < elem.length; i++ ) {
 				rel = false;
-				
+
 				url = elem[i].href;
-				
+
 				if(elem[i].hasAttribute("rel") && elem[i].rel.indexOf("shadowbox") != -1){
 					rel = true;
 				}
-				
-				if( rel && url.indexOf("youtube") != -1 && url.indexOf("nielsmiller") == -1) {						
+
+				if( rel && url.indexOf("youtube") != -1 && url.indexOf("nielsmiller") == -1) {
 					if(Apple.Device)
 					{
 						Shadowbox.teardown(elem[i]);
-						if(jQuery) {  
+						if(jQuery) {
 							jQuery(elem[i]).unbind("click");
 						}
 					} else {
@@ -440,7 +440,7 @@ pageTracker._trackPageLoadTime();
 						elem[i].href = url + "&rel=0";
 						Shadowbox.setup(elem[i]);
 					} //Apple.Device
-				}				
+				}
             }
         }
     }
