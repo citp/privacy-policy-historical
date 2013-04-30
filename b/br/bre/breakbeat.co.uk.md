@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakbeat.co.uk privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223080808id_/http%3A//download.breakbeat.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakbeat.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430100252id_/http%3A//download.breakbeat.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Drum & Bass Arena Download - Privacy
 
