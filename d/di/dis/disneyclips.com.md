@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215003857id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430095523id_/http%3A//disneyclips.com/privacy.html) for the most accurate reproduction.*
 
 # Disneyclips.com - Privacy Policy
+
+| 
+
+  
+_**Privacy Policy**_
 
 This page was last updated on March 16th 2009.
 
@@ -18,3 +23,20 @@ Information about your IP address, as well as the type of browser and operating 
 Disneyclips.com is not responsible for the content or privacy policies of websites visited through links from this website.
 
 Please be advised that this privacy policy may be changed in the future. Return to this page to see any changes made. 
+
+|  | 
+
+Magical Movies
+
+| |  **Wreck-It Ralph**  
+---  
+[](http://www.amazon.com/exec/obidos/ASIN/B00A7OIXW6/disneysworldofwo)| |  [  
+Prepare for adventure!](http://www.amazon.com/exec/obidos/ASIN/B00A7OIXW6/disneysworldofwo)  
+---|---|---  
+[](http://www.amazon.com/exec/obidos/ASIN/B00A7OIXW6/disneysworldofwo)  
+  
+  
+Updates
+
+March 15th 2013  
+16 new cliparts, featuring Easter, Tigger, Owl, Rabbit, Daisy, Springtime, Pooh and friends and Sofia the first.
