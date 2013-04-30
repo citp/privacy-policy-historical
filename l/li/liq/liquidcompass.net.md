@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidcompass.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125110413id_/http%3A//www.liquidcompass.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidcompass.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430212943id_/http%3A//www.liquidcompass.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We will continue to evaluate this Privacy Policy against new technologies, busin
 
 There are several areas where you can submit information to us, and some features that automatically collect information from the listeners of our Service and visitors to our website.
 
- **Information you give us  
+**Information you give us  
 **To enable you to enjoy certain features of our Service, we collect certain types of information, including personally identifiable information, during your interactions with our Service. For example, we collect information when you:
 
   * Register to use our Service;
@@ -22,7 +22,7 @@ There are several areas where you can submit information to us, and some feature
 
 
 
- **Information we receive from third parties**
+**Information we receive from third parties**
 
 We may receive information about you from third parties and store it in our databases with other information (including personally identifiable information) that you provide to us. Some examples of these third parties are listed below:
 
@@ -35,18 +35,18 @@ We may receive information about you from third parties and store it in our data
 
 Liquid Compass is not responsible for, and will assume no liability, if a business partner or other entity collects, uses or shares any information about you in violation of its own privacy policy or applicable law.
 
- **Information that we receive from other listeners**
+**Information that we receive from other listeners**
 
 We may collect information about you from people who have stored information about you when they elect to use our social networking or community features, or when they enable connectivity with another website or application where they have stored such information. For instance, your friends may have stored information about you in places such as their friend lists, address books, or photos on our website and other sites with which the Service interacts.
 
 We also collect your email address when people you know share a station with you, but we will not add your name to any of our mailing lists as a result of this feature.
 
- **Automatic Data Collection**
+**Automatic Data Collection**
 
-  *  _Listening Activity:_ Liquid Compass keeps track of your listening activity. Liquid Compass uses software that is designed to ensure that artists and copyright owners receive applicable royalties for the tracks you hear. This software identifies and counts the tracks you have accessed. Liquid Compass also collects information about stations, artists and tracks you have listened to or in which you have expressed an interest for advertising and social networking features.
-  *  _Service partners:_ When you access the Service through a service partner, we may add select aspects of your registration information (such as your email address), so that we can identify which of our service partners or other sign-in pages to send to you when you log on to the Service.
-  *  _Information about your computer or device:_ We may also collect information about the computer, mobile or other devices you use to access and listen to the Service. For example, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device.
-  *  _Tracking technology:_ We use what are commonly called “cookies,” a small data string our server writes to your hard drive, and other tracking technology to help us manage and track your interaction with Liquid Compass Services. These technologies collect non-personally identifiable information to improve Liquid Compass Services, including to keep count of return visits to our website or our advertisers’ or partners’ websites, collect and report on aggregate statistical information, save your password and login information, and / or display advertising or content based on your interests. We may also capture other data such as search criteria and results, date, time, connection speed and IP addresses. Third parties whose products or services are accessible or advertised via the Service may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices.
+  * _Listening Activity:_ Liquid Compass keeps track of your listening activity. Liquid Compass uses software that is designed to ensure that artists and copyright owners receive applicable royalties for the tracks you hear. This software identifies and counts the tracks you have accessed. Liquid Compass also collects information about stations, artists and tracks you have listened to or in which you have expressed an interest for advertising and social networking features.
+  * _Service partners:_ When you access the Service through a service partner, we may add select aspects of your registration information (such as your email address), so that we can identify which of our service partners or other sign-in pages to send to you when you log on to the Service.
+  * _Information about your computer or device:_ We may also collect information about the computer, mobile or other devices you use to access and listen to the Service. For example, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device.
+  * _Tracking technology:_ We use what are commonly called “cookies,” a small data string our server writes to your hard drive, and other tracking technology to help us manage and track your interaction with Liquid Compass Services. These technologies collect non-personally identifiable information to improve Liquid Compass Services, including to keep count of return visits to our website or our advertisers’ or partners’ websites, collect and report on aggregate statistical information, save your password and login information, and / or display advertising or content based on your interests. We may also capture other data such as search criteria and results, date, time, connection speed and IP addresses. Third parties whose products or services are accessible or advertised via the Service may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices.
 
 
 
@@ -70,7 +70,7 @@ We use the information that we collect for the following purposes:
 
 
 
- **How the information we collect is shared  
+**How the information we collect is shared  
 **We may make your personally identifiable information available to other companies, websites, applications or people. For example we may share:
 
   * Information you choose to provide in the course of your use of the Service by participating in community and social networking features such as forums, station sharing, listener opinions and reviews, or other forms of public communication and interaction.
@@ -86,7 +86,7 @@ We use the information that we collect for the following purposes:
 
 
 
- **How your information may be shared with other listeners and the public**
+**How your information may be shared with other listeners and the public**
 
 We provide you the ability to post favorite tracks, bookmarks, stations or other biographical information from our players to social networks. When you are making the decision to do so, please keep in mind that your friends may share information about you with other third parties, including their friends on other social networks, by interacting with the content you post.
 
