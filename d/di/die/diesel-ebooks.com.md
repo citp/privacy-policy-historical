@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229104839id_/http%3A//www.diesel-ebooks.com/cms/about_diesel/About-Diesel/1.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430200655id_/http%3A//www.diesel-ebooks.com/cms/about_diesel/About-Diesel/1.html%23Privacy) for the most accurate reproduction.*
 
 # World Famous eBook Store | Diesel eBook Store
 
@@ -49,7 +49,7 @@ When you make any purchase, you will be given the option to apply your rewards.
 
 * * *
 
-_Your privacy is important to Diesel eBooks. We have created this privacy statement to demonstrate our commitment to keep your personal information confidential. By ensuring that you are aware of and understand our Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy._
+ _Your privacy is important to Diesel eBooks. We have created this privacy statement to demonstrate our commitment to keep your personal information confidential. By ensuring that you are aware of and understand our Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy._
 
 #### Why and How We Collect Personal Information
 
