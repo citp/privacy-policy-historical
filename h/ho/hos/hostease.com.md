@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostease.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926082451id_/http%3A//www.hostease.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostease.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430085725id_/http%3A//www.hostease.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HostEase Web Hosting
 
