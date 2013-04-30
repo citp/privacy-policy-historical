@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004173756id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430170959id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
 
 # GO Outdoors | Tents & Camping Equipment | Outdoor Clothing & Waterproof Clothing
 
