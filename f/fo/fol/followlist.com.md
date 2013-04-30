@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followlist.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223022419id_/http%3A//followlist.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followlist.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501012430id_/http%3A//followlist.com/privacypolicy.html) for the most accurate reproduction.*
 
 # FollowList Privacy Policy
 
