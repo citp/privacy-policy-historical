@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bipolardisorderdepressionanxiety.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513195519id_/http%3A//www.bipolardisorderdepressionanxiety.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bipolardisorderdepressionanxiety.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430054048id_/https%3A//bipolardisorderdepressionanxiety.com/privacy-policy) for the most accurate reproduction.*
 
-# - Dealing With Bipolar Disorder, Depression & Anxiety
+# Privacy Policy
 
 Our Site strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
 
@@ -33,23 +33,3 @@ Our Site does not knowingly collect or solicit Personally Identifiable Informati
 Changes to this Policy
 
 Our Site reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-### Recommended Reading
-
-  * [bipolar disorder,depression,anxiety,manic,bi polar disorder,anxiety disorder,manic disorder](http://www.bipolardisorderdepressionanxiety.com/)
-  * [Encyclopedia of Counseling Package](http://www.amazon.com/gp/product/0415958628/ref=as_li_ss_tl?ie=UTF8&tag=bipolarity-disorder-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0415958628)
-
-
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&t=Privacy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&title=Privacy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&title=Privacy&notes=%0D%0A_atrk_opts%20%3D%20%7B%20atrk_acct%3A%20%22VwSue1a8RR00Uy%22%2C%20domain%3A%22bipolardisorderdepressionanxiety.com%22%7D%3B%20atrk%20%28%29%3B%0D%0A%0D%0A%0D%0A%0D%0AOur%20Site%20strives%20to%20offer%20its%20visitors%20the%20many%20advantages%20of%20Internet%20technology%20and%20to%20provide%20an%20interactive%20and%20personalized%20experience. "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&title=Privacy&srcURL=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&srcTitle=Dealing+With+Bipolar+Disorder%2C+Depression+%26amp%3B+Anxiety+Dispelling+myths+bout+Bipolar+Disorder%2C+give+information++Bipolar+Disorder%2C+Depression+and+Anxiety.+%28Bipolar+depression+%26amp%3B+bipolar+anxiety%29 "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&title=Privacy&source=Dealing+With+Bipolar+Disorder%2C+Depression+%26amp%3B+Anxiety+Dispelling+myths+bout+Bipolar+Disorder%2C+give+information++Bipolar+Disorder%2C+Depression+and+Anxiety.+%28Bipolar+depression+%26amp%3B+bipolar+anxiety%29&summary=%0D%0A_atrk_opts%20%3D%20%7B%20atrk_acct%3A%20%22VwSue1a8RR00Uy%22%2C%20domain%3A%22bipolardisorderdepressionanxiety.com%22%7D%3B%20atrk%20%28%29%3B%0D%0A%0D%0A%0D%0A%0D%0AOur%20Site%20strives%20to%20offer%20its%20visitors%20the%20many%20advantages%20of%20Internet%20technology%20and%20to%20provide%20an%20interactive%20and%20personalized%20experience. "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.bipolardisorderdepressionanxiety.com%2Fprivacy%2F&Title=Privacy "BlinkList")
-  * 
-
