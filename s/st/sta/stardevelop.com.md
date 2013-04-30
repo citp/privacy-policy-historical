@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101180031id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430205812id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Chat Software - Privacy Policy - Live Chat Software, Help Desk Software, Customer Support Software
 
