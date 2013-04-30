@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omphali.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225014758id_/http%3A//omphali.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omphali.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430140347id_/http%3A//omphali.com/privacy.php) for the most accurate reproduction.*
 
 # Omphali.com
 
