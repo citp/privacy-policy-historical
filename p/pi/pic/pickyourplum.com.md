@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickyourplum.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110743id_/http%3A//pickyourplum.com/%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyourplum.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430150642id_/http%3A//pickyourplum.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pick Your Plum
 
