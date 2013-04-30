@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pac-12.org privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803005854id_/http%3A//www.pac-12.org/portals/7/images/pac-12/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pac-12.org privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430085024id_/http%3A//pac-12.com/Portals/0/Images/general/pdfs/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
