@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528213941id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430161100id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Commitment - Center for Creative Leadership
 
@@ -163,8 +163,8 @@ If you have any questions about this privacy commitment, you may contact:
 Attn: Client Services  
 P.O. Box 26300  
 Greensboro, NC 27438-6300 | Center for Creative Leadership - EMEA  
-Avenue de Tervueren 270 Tervurenlaan  
-B- 1150 Brussels, Belgium | Center for Creative Leadership (CCL) Pte Ltd  
+Rue Neerveld 101-103 Neerveldstraat  
+B-1200 Brussels, Belgium | Center for Creative Leadership (CCL) Pte Ltd  
 89 Science Park Drive  
 Singapore Science Park I  
 The Rutherford  
