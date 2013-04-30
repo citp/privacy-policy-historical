@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbanners.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005080037id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbanners.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430123157id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
 
 # Facebook Covers & Facebook Profile Covers - FirstCovers.com
 
@@ -22,3 +22,6 @@ We partner with ValueClick to serve ads and/or collect certain information when 
 ## Menu
 
 ## Menu
+
+FirstCovers.com © 2011 - FirstCovers.com is not affiliated with facebook. - firstcoversdotcom@gmail.com  
+Disclaimer: This site is 100% user uploaded. Have a complaint? Please use our [DMCA](http://www.firstcovers.com/dmca.html)
