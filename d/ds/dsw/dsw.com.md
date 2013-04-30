@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132815id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501001957id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
 
 # dsw.com Privacy Policy
 
@@ -12,9 +12,9 @@ COOKIES
 UPDATING YOUR PERSONAL INFORMATION  
 PRIVACY OF CHILDREN ON OUR WEBSITE  
 LINKS TO OTHER WEBSITES AND SERVICES  
-UPDATES TO PRIVACY STATEMENT  
 SECURITY STATEMENT  
-YOUR CALIFORNIA PRIVACY POLICY
+YOUR CALIFORNIA PRIVACY POLICY  
+QUESTIONS OR CONCERNS?
 
 1\. General Browsing Information
 
@@ -24,12 +24,12 @@ dsw.com gathers navigational information during each visitor’s use of our webs
 
 DSW may ask you to provide personal information when you establish or update a dsw.com account, sign up for the DSW Rewards program or manage your Rewards account, sign up for or manage your text alerts, place an in-store order, enter a contest, participate in a survey, shop online, check the status of an order or review order history, provide a review about our products, purchase and send a gift card or eGift Card, search for products on our site or provide information about your shoe preferences.
 
-Categories of information collected include name, address, email address, recipient’s name and email address, DSW Rewards number (which can be associated with the personal information you provided when you signed up for DSW Rewards or when you update the account), order information, telephone number, credit card information, birth month and day, your review of our products, saved searches, preferred brands, messages or reminders you create.
+Categories of information collected include name, address, email address, recipient’s name and email address, DSW Rewards number (which can be associated with the personal information you provided when you signed up for DSW Rewards or when you update the account), order information, telephone number, credit card information, birth month and day, your review of our products, saved searches, preferred brands, messages or reminders you create. 
 
   
 
 
-DSW uses the personal information we collect from you in stores or online at dsw.com for the following purposes:
+DSW uses the personal information we collect from you in stores or online at dsw.com for the following purposes: 
 
   * to deliver products that you have ordered, fulfill requests that you have created, and process your return or exchange;
   * to understand your needs and preferences, possibly through surveys, product evaluations or cookies;
@@ -63,10 +63,7 @@ You should be aware that we may disclose specific information about you if neces
 
 If DSW were ever merged with, acquired by or acquires another business entity, some or all of the personal information collected about you would be shared with this entity, as well as retained by DSW.
 
-  
-
-
-If you are visiting dsw.com from a location outside of the U.S., your orders placed through dsw.com will be accepted and fully processed in and shipped from the U.S. All information you provide will be maintained in Web servers and/or internal systems located within the U.S., and protected as noted in this privacy policy.
+If you are visiting dsw.com from a location outside of the U.S., your orders placed through dsw.com will be accepted and fully processed in and shipped from the U.S. All information you provide will be maintained in Web servers and/or internal systems located within the U.S., and protected as noted in this privacy policy. 
 
   
 
@@ -87,21 +84,9 @@ We have also selected companies that will assist us in better understanding your
 
 We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing and shipping information by logging into your dsw.com account.
 
-To ensure compliance with federal law, dsw.com does not knowingly collect or maintain information provided by children under the age of 13.
+Our website is a general audience website and it is our intention that our website should be used only by persons over the age of 13. To ensure compliance with federal law, dsw.com does not knowingly collect or maintain information provided by children under the age of 13.
 
 For your convenience, our website may contain links to other sites. Links that appear on dsw.com should not necessarily be deemed to imply that we endorse or have any affiliation with the linked websites. DSW is not responsible for the privacy practices or the content of such websites. We encourage you to review the separate privacy policies of each site you visit.
-
-  
-
-
-Please [click here](https://web.archive.org/dsw_shoes/customer_service/DSW_Privacy_Policy_REVISED_09_03_10.pdf) to view material changes, if any, made within the last thirty days with respect to categories of information collected at dsw.com or material changes in how we use information collected at dsw.com (whether a deletion or addition). If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about dsw.com.
-
-If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us.
-
-DSW Inc.  
-Attn: Legal Dept  
-810 DSW Drive  
-Columbus, OH 43219
 
   
 
@@ -110,7 +95,7 @@ dsw.com takes the following types of security measures: use of technologies and 
 
 We designed dsw.com to accept orders only from Web browsers that accept cookies and permit communication through Secure Socket Layer (SSL) technology. SSL is encryption technology that provides security while information is being transmitted over the Internet.
 
-While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
+While we implement the above security measures on this site, you should be aware that 100% security is not always possible. 
 
   
 
@@ -118,7 +103,7 @@ While we implement the above security measures on this site, you should be aware
 **NOTICE TO CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS** DSW, Inc. collects various types of personal information about you both online (at dsw.com) and offline during the course of our customer relationship. Under California law, if you are a resident of California, you may make a written request to DSW, Inc. to request how we have shared your information with third parties for their direct marketing purposes. In response to your written request, DSW, Inc. is allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use it for their direct marketing purposes. 
 
 DSW, Inc. has chosen to provide you with a cost-free means to opt-out of such sharing, which you can accomplish by completing our Third Party Direct Marketing Opt-Out Form. If you would like to instruct us to no longer share your personal information with third parties who will use it for direct marketing purposes, please click on the following link:  
-[California Rights Form](https://web.archive.org/web/20121014132815id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address: 
+[California Rights Form](https://web.archive.org/web/20130501001957id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address: 
 
 **POSTAL ADDRESS:**  
 DSW Inc.  
@@ -128,7 +113,17 @@ Columbus, Ohio 43219
 
 If you have any questions about this opt-out procedure, please write to the address provided above. 
 
-This Privacy Statement was last revised September 3, 2010.
+  
+
+
+If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us.
+
+DSW Inc.  
+Attn: Legal Dept  
+810 DSW Drive  
+Columbus, OH 43219
+
+This Privacy Statement was last revised February 13, 2013.
 
   
 
