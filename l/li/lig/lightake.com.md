@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightake.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125020048id_/http%3A//lightake.com/help/detail.do/ID.46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightake.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430052446id_/http%3A//lightake.com/help/detail.do/ID.46) for the most accurate reproduction.*
 
 # Wholesale Dropshipping Direct,China Dropship Companies-Lightake
 
