@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101191207id_/http%3A//www.pdrnetwork.com/pages/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430195327id_/http%3A//www.pdrnetwork.com/pages/policy.html) for the most accurate reproduction.*
 
-# PDR Network
+# Privacy Policy
 
-**Updated  June 13, 2011**
+**Updated: August 14, 2012**
 
 This Privacy Policy is designed to tell you how PDR Network, LLC (“PDR Network”, “we” or “us”) secures and uses the personal information collected from individuals including healthcare professionals in connection with PDR Network’s products and services.  In particular, the statement describes how PDR Network handles personal information collected via the [www.pdr.net](http://www.pdr.net/) Web site, other Web sites that link to this privacy statement, online registration, and offline PDR surveys, etc. By using this site or any of the PDR Network services, you indicate your acceptance of PDR Network’s Privacy Policy.
 
-**Our Philosophy  
+**Our Philosophy** **  
 **  
 Your trust is our greatest asset. We make every reasonable effort to ensure that information held by PDR Network-powered Web sites is confidential and secure. We disclose our information-security practices to you as clearly and fully as possible. These practices receive continuous oversight, and many of our business decisions, including Web design, technology selections, and third-party business relationships, begin and end with considerations for your privacy.
 
-**Changes to Policy  
+**Changes to Policy** **  
 **  
 While our philosophy will not change, the details of the policy, including how we use customer information for new, unanticipated uses not previously disclosed in this privacy statement may change over time. If we make a material change to our policy, we will post and highlight the policy changes, and we will also notify you via e-mail or take other reasonable steps to give you an opportunity to opt-out of the new data uses.  Please refer back to this page regularly. The date the policy was last revised will always appear at the top of the policy pages. 
 
@@ -20,20 +20,21 @@ This Policy applies only when you are within the PDR Network-branded environment
 
 Note: Other PDR Network Web sites (including consumer-focused sites such as [www.pdrhealth.com](http://www.pdrhealth.com/) and [www.pdrbookstore.com](http://www.pdrbookstore.com/)) and services (such as the bookstore) are controlled by their own privacy statements.  These can be obtained by clicking on the Web site privacy policy link or contacting customer service at the number below.
 
-**Information that We Collect  
+**Information that We Collect** **  
 **  
 In general, you may visit this Web site without providing any personal information. The information we collect from Web site visitors is collected on an aggregate basis, and is not used to identify you in any way. 
 
 If you want to interact with PDR Network online and take advantage of the materials available on the PDR Network Web site for qualified professionals (such as the annual PDR® print book and FDA-approved PDR Drug Alerts), you may register and join the PDR Network professional community.  Registration is voluntary and free to qualified professionals.  Your email or fax number will only be used to send and administer Drug and Device Alert services, FDA-approved drug labeling information, and other clinically-relevant PDR services/information. 
 
-When you join the PDR Network professional community, we collect contact information (such as name, office address, office phone and fax numbers, and e-mail address), and other personal information (such as information about your professional background, licensure, practice, and areas of specialization as well as any other personal information that you choose to provide us).   
+When you join the PDR Network professional community, we collect contact information (such as name, office address, office phone and fax numbers, and e-mail address), and other personal information (such as information about your professional background, licensure, practice, and areas of specialization as well as any other personal information that you choose to provide us). 
+
 We will tailor the materials we provide you based on the information in your profile, such as your specialty. Please note that certain products (such as the PDR® Book, FDA-approved PDR Drug Alerts,  and sampling services) may only available to qualified, credentialed professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualifications for them.
 
 If you are a registered user of PDR Network products and services, we will also collect and use activity statistics so we can understand the ways in which our sites and services are being utilized. For example, we will record information about the PDR activities in which you participate, newsletters you subscribe to, and Web sites, tools and other services that you use.  Activity related data is stored anonymously and it is only used in the form of aggregated statistics. This aggregated, anonymous data may also be shared with business partners. Activity related data cannot be used to target you with solicitations of any kind. 
 
 None of our sites or services are directed at children, and we make every reasonable effort to ensure that we do not accept personal information from persons under 13 years of age.
 
-**How We Use Your Information  
+**How We Use Your Information** **  
 **  
 In general, we use the information we collect in order to: 
 
@@ -45,8 +46,8 @@ In general, we use the information we collect in order to:
 
 If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number. This credit card number may be stored but will only be used and disclosed as needed to process your purchase. We will not disclose credit card numbers to any third party for marketing purposes under any circumstances. 
 
-**When We Share Your Information with Others  
-  
+**When We Share Your Information with Others** **  
+****  
 ** We work with business partners to provide the highest-quality services available. We may provide your information to third parties as needed to fulfill your requests for products and services or to facilitate the delivery of appropriate notices to you.  For example, if you choose to participate in complimentary pharmaceutical product sampling programs, we will provide your information to the third party as required by the terms of the sampling program.
 
 We do not share or sell e-mail addresses or fax numbers for third party marketing purposes. Unless you tell us not to (i.e. ‘opt-out’), we may provide information about you or your practice to third parties. For example, we share our lists with selected business partners so that they may offer products or services of interest to you. We may also share your information with other third parties who perform services for us, but we, by contract in most cases, prohibit these companies from using your personal information for their own purposes.  These companies may only use your information to perform the services on our behalf.
@@ -55,7 +56,7 @@ We do not share or sell e-mail addresses or fax numbers for third party marketin
 
 PDR Network operates a service called RxEvent (found in various locations including RxEvent.org) to collect Adverse Drug Event reports ("AERs").  In some cases, such AERs provided by end users may include “Protected Health Information" or “PHI” as those terms are defined in 45 C.F.R. Sections 164.501 and 160.103.  PDR Network's policies and obligations to receive, store and/or communicate such PHI is governed by law and the agreement/terms of use found at <https://rxevent.org/Tos.html>.
 
-**Your Choices  
+**Your Choices** **  
 ** We use good faith efforts to respect your preferences about our use and disclosure of your information. We only want to send you information if you want to receive it. We want to communicate with you in the manner that works best for you - whether that is via e-mail, phone, fax, or direct mail. You may change your communication preferences at any time by doing any of the following things: 
 
 \- updating your profile through the profile link on a PDR Network Web site homepage   
@@ -70,7 +71,7 @@ We strive to provide all our customers with reasonable opportunity to access and
 
 Additionally, if you have registered with the PDR Network previously but have not provided information needed to qualify for a PDR or other services that require credentialing, you may add information to your profile to enable us to qualify you and provide the additional products and services.
 
-**Cookies and Web Site Information  
+**Cookies and Web Site Information** **  
 **  
 We use standard "cookie" technology as well as web beacons and web server logs to collect information about how our Web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our Web sites. Cookies allow you to move from page to page on the Web site, by remembering the information about the entire session.
 
@@ -84,11 +85,11 @@ We may use third-party advertising entities to serve ads when you visit our Web 
 
 We have implemented reasonable technical, physical, and administrative controls to help prevent the loss, misuse, and alteration of the information under our control. For example, when we ask users to provide financial information (such as a credit card number), or any information during the registration or profile update process, the data is protected using Secure Sockets Layer (SSL) encryption technology.
 
-**Individuals Located Outside the United States  
+**Individuals Located Outside the United States** **  
 **  
 If you are located outside of the United States of America ("U.S."), please be aware that any information you provide to us will be transferred to the U.S.  By joining PDR Network’s professional community, receiving our products or services and/or providing us with your information, you consent to this transfer.
 
-**Mobile Devices/Third Party Fees  
+**Mobile Devices/Third Party Fees** **  
 **  
 PDR Network may deploy mobile marketing campaigns and may allow you to register for services that involve messages and/or e-mails being sent to your mobile device. You are responsible for obtaining access to the mobile device services and that access may involve third-party fees, including mobile carrier, text messaging, or airtime charges. You are solely responsible for those fees, including any and all fees associated with the delivery of the messages, e-mails or other materials to your mobile device. Please consult your mobile service provider's pricing plan prior to registering for any such service to determine the charges for sending and receiving messages or data from/to your mobile device.
 
@@ -98,9 +99,9 @@ PDR Network may need to disclose certain information to comply with a legal requ
 
 You acknowledge that PDR Network is located in the U.S. and will process and store your information in the U.S., and that as a result, U.S. governments, courts or law enforcement, or regulatory agencies may be able to obtain disclosure of your information through the laws of the U.S.
 
-**Contact Us with Any Questions  
+**Contact Us with Any Questions** **  
 **  
-If you have any questions about this Privacy Policy, the practices of PDR Network Web sites, your dealings with PDR Network, or would like to provide comments, please contact us at [customerservice@pdr.net](mailto:customerservice@pdr.net), or by phone, toll-free, at 1.800.232.7379 within the United States.
+If you have any questions about this Privacy Policy, the practices of PDR Network Web sites, your dealings with PDR Network, or would like to provide comments, please contact us at [customerservice@pdr.net](mailto:customerservice@pdr.net), or by phone, toll-free, at 1-800-232-7379  within the United States.
 
 If you have any questions about this Privacy Policy or our use of your personal information, please contact:
 
@@ -111,6 +112,6 @@ Phone: 1-888-227-6469
 Fax: 1-201-722-2680   
 E-mail: [privacy@pdr.net](mailto:privacy@pdr.net)
 
-**Legal Disclaimer  
+**Legal Disclaimer** **  
 **  
 Unfortunately, no data protection method or combination of methods can be guaranteed 100 percent secure. We take all reasonable steps to protect your personal information as described throughout this policy, but we cannot ensure or warrant our ability to do so. As a result, you use PDR Network content, products, and services at your own risk. PDR Network will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties.
