@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedealercost.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501165824id_/http%3A//www.seedealercost.com/default/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedealercost.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430214552id_/http%3A//seedealercost.com/default/index/privacy-policy) for the most accurate reproduction.*
 
 # See Dealer Cost - Privacy Policy
 
