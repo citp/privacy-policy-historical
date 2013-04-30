@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpholidays.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014004252id_/http%3A//phpholidays.com/travel-website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpholidays.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430151414id_/http%3A//phpholidays.com/travel-website-privacy-policy.php) for the most accurate reproduction.*
 
 # 100% Automated Realtime Online php mysql Script for Airline Tickets, Air car bus booking Hotels, Ultimate Travel tour Script
 
