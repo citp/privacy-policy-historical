@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalladies.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919193854id_/http%3A//globalladies.com/GL_Privacy.cfm%3FRequestTimeout%3D6000%26navlink%3Dpr%26vsrc%3DOrganic%26vcf%3D%26vovkey%3DRussian%2520Women%26vmtype%3D%26sl%3D%26vsite%3DGL%26vpage%3DIndex%26vovraw%3D%26view%3D%26vref%3D1%26vreferer%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalladies.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501004542id_/http%3A//globalladies.com/GL_Privacy.cfm%3FRequestTimeout%3D6000%26navlink%3Dpr%26vsrc%3DOrganic%26vcf%3D%26vovkey%3DRussian%2520Women%26vmtype%3D%26sl%3D%26vsite%3DGL%26vpage%3DIndex%26vovraw%3D%26view%3D%26vref%3D1%26vreferer%3D) for the most accurate reproduction.*
 
 # GlobalLadies.com: Watch Videos and Email Russian Women
 
@@ -21,5 +21,13 @@ If you wish to opt-out of receiving any promotional communications from GlobalLa
 * **Enforcement**   
 If you feel GlobalLadies.com is not following this stated privacy policy, please contact us. 
 
-|    
+| 
+
+  
+**To Watch Videos Now**  
+
+
+Simply Provide the Following:
+
+  
 
