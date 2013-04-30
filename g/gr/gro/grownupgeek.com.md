@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003617id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430151213id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
 
 # GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
 
-**Our Privacy Policy**
+**Our Privacy & Disclosure Policy **
 
 **We Are Committed To Your Privacy**
 
@@ -46,7 +46,7 @@ Currently GrownUpGeek.com uses the following third-party visitor tracking tools:
 > 
 
 
-GrownUpGeek.com does not use "web beacons" of any kind with the exception of third-party links or advertisers (see next section).
+GrownUpGeek.com does not use "web beacons" of any kind with the exception of third-party links or advertisers (see next section).  To confirm these privacy settings please use a free service such as [www.PrivacyTest.com](http://www.privacytest.com/).
 
 ### Third-party Advertisers, Links to Other Sites
 
@@ -95,6 +95,12 @@ Currently, GrownUpGeek.com has relationships with the following third-party ad s
   * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+## Affiliate & Sales Referral Discolsure:
+
+Please be aware that when you click links on some pages and purchase a product discussed or mentioned at GrownUpGeek.com we will receive a referral commission for the sale of that product.
+
+Grownupgeek.com does not accept paid posts or product placements and any recommendations made for products are based on our opinion, experience or research on that product.
 
 **How You Can Access Or Correct Your Information**
 
