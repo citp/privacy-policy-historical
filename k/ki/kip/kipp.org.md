@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032831id_/http%3A//www.kipp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430154904id_/http%3A//kipp.org/privacy-policy) for the most accurate reproduction.*
 
-# KIPP Public Charter Schools | Knowledge Is Power Program
+# KIPP Public Charter Schools | Knowledge Is Power Program - Privacy Policy
 
 The KIPP Foundation greatly respects the privacy of users of this web site. The current privacy policy of this web site is as follows:
 
@@ -16,4 +16,4 @@ By using this web site, you agree to the terms of this policy. If you do not agr
 
 KIPP is committed to equal treatment for all individuals. KIPP does not discriminate on the basis of race, color, gender, disability, age, religion, sexual orientation, or national or ethnic origin. 
 
-Copyright © 2012 KIPP Foundation. All rights reserved. 
+Copyright © 2013 KIPP Foundation. All rights reserved. 
