@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003010212id_/http%3A//intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122923id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Intuitive Surgical - Privacy
 
@@ -33,6 +33,3 @@ You may, at any time, remove your personal identifying information from our curr
 ## Your Use
 
 By using this web site, you agree not to disrupt or intercept our electronic information posted on this web site or on any of our servers. You also agree not to attempt to circumvent any security features of our web site, and to abide by all applicable, local, state, federal and international laws. 
-
-  
-
