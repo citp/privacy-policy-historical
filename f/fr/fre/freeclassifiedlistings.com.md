@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeclassifiedlistings.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224004822id_/http%3A//freeclassifiedlistings.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclassifiedlistings.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430060621id_/http%3A//freeclassifiedlistings.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Free Classified Listings - The Free Advertising Directory Since 1999.
 
