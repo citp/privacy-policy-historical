@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223012455id_/http%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430082846id_/http%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
 
 # Privacy policy - The Tech Report
 
