@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010191138id_/http%3A//www.adtrader.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430120437id_/http%3A//www.adtrader.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Ad Trader classifieds, Free local classified ads with images ads online now.
 
@@ -14,7 +14,7 @@ In order to conduct a search on the Ad Trader website, we will require you to su
 
 ### General
 
-Ad Trader is a trading name of Trader Publishing Limited a company within the Trader Media Group ("Group") and information supplied to this website may be shared within the Group and with other third parties as detailed in this Privacy Policy under the heading "Disclosure of Information". Please note that your advert may appear in one of the Group's partner publications or websites or on other third party websites selected by us, including without limitation, the website located at www.oodle.co.uk. 
+Ad Trader is a trading name of Trader Publishing Limited a company within the Trader Media Group ("Group") and information supplied to this website may be shared within the Group and with other third parties as detailed in this Privacy Policy under the heading "Disclosure of Information". Please note that your advert may appear in one of the Group's partner publications or websites or on other third party websites selected by us. 
 
 When registered, Ad Trader is committed to continually improving and enhancing the service we offer and you will be notified of these changes by email or SMS. 
 
@@ -62,7 +62,7 @@ We may disclose any information that we collect from you to:
 
   1. Other companies within the Trader Media Group; 
   2. Third parties whose products and/or services we think may be of interest to you; 
-  3. Third party websites selected by us such as www.oodle.co.uk to whom we may send your advertisement(s); 
+  3. Third party websites selected by us to whom we may send your advertisement(s); 
   4. Credit reference agencies and finance companies; and / or 
   5. Fraud prevention agencies, the police, the Financial Services Authority and/or other regulatory authorities. 
 
