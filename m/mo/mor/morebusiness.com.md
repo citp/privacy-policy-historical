@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025203619id_/http%3A//www.morebusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430193543id_/http%3A//www.morebusiness.com/privacy) for the most accurate reproduction.*
 
 # MoreBusiness.com Privacy Policy | MoreBusiness.com
 
