@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satellites.co.uk privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126053150id_/http%3A//www.satellites.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satellites.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430224310id_/http%3A//www.satellites.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Satellite TV - Digital TV News & Help Forums
 
