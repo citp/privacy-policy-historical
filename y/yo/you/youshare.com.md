@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youshare.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014090113id_/http%3A//www.epicfail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youshare.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430225412id_/http%3A//www.epicfail.com/privacy.php) for the most accurate reproduction.*
 
 # EPIC FAIL .COM : #1 Source for Epic Fail and Fail Pictures, Fail Videos, and Fail Stories
 
