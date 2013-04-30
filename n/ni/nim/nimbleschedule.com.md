@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimbleschedule.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418073657id_/http%3A//www.nimbleschedule.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbleschedule.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430075616id_/http%3A//www.nimbleschedule.com/privacy) for the most accurate reproduction.*
 
 # NimbleSchedule | Employee Scheduling Software | Privacy
 
@@ -60,4 +60,4 @@ While we use SSL encryption to protect sensitive information online, we also do 
 2588 El Camino Real, Suite F-209  
 Carlsbad, CA 92008
 
-Start your 30-day free trial. No credit card required. [ ](http://www.nimbleschedule.com/pricing)
+Start your 14-day free trial. No credit card required. [ ](https://web.archive.org/pricing)
