@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocodes.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181901id_/http%3A//www.promocodes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodes.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430235814id_/http%3A//promocodes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,9 +50,9 @@ We will not use the IP addresses or cookies to identify you personally.
 
 Promocodes.co.uk adheres to all legislation laid out in The Privacy and Electronic Communications Act of 2003 as well as following UK best practice guidelines laid down by the DMA. We are keen to promote the best interests of consumers and how their personal data is used; for further information about data protection you can visit:
 
-The Direct Marketing Association; [www.dma.org.uk](https://web.archive.org/web/20121230181901id_/http://www.promocodes.co.uk/privacy/www.dma.org.uk)  
-The Information Commissioner; [www.dataprotection.gov.uk](https://web.archive.org/web/20121230181901id_/http://www.promocodes.co.uk/privacy/www.dataprotection.gov.uk)  
-The Citizens Advice Bureau; [www.adviceguide.org.uk](https://web.archive.org/web/20121230181901id_/http://www.promocodes.co.uk/privacy/www.adviceguide.org.uk)
+The Direct Marketing Association; [www.dma.org.uk](https://web.archive.org/web/20130430235814id_/http://www.promocodes.co.uk/privacy/www.dma.org.uk)  
+The Information Commissioner; [www.dataprotection.gov.uk](https://web.archive.org/web/20130430235814id_/http://www.promocodes.co.uk/privacy/www.dataprotection.gov.uk)  
+The Citizens Advice Bureau; [www.adviceguide.org.uk](https://web.archive.org/web/20130430235814id_/http://www.promocodes.co.uk/privacy/www.adviceguide.org.uk)
 
 If you have questions regarding this Privacy Statement, please contact Promocodes.co.uk at:  
 Promocodes.co.uk  
