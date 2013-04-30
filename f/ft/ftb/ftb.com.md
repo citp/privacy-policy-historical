@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014053655id_/https%3A//www.firsttennessee.com/Privacy/Corporate-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501005908id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
 
 # Privacy Notice: First Tennessee Bank
 
@@ -12,18 +12,19 @@ Financial companies choose how they share your personal information. Federal law
 
 ### What?
 
-T he types of personal information we collect and sh are depe nd on the product or service you ha ve with us. This information can include:
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-  * Social Security number and income
-  * payment history and account balances
-  * credit score and credit history
+  * Social Security number and income 
+  * payment history and account balances 
+  * credit score and credit history 
 
 
 
 ### How?
 
-A ll financial companies need to share customers' pe rsonal in formation to run th eir every day bus iness. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons the First Horizon and First Tennessee family of companies chooses to share; and whether you can limit this sharing.
+All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons the First Horizon and First Tennessee family of companies chooses to share; and whether you can limit this sharing.
 
+  
 Can you limit this sharing?  
 ---  
 **For our everyday business purposes-** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
@@ -45,7 +46,7 @@ However, you can contact us at any time to limit our sharing.
 
 ### Questions?
 
-Call 877-242-9880 or go to [www.firsttennessee.com](https://web.archive.org/Personal/Home)
+Call 877-242-9880 or go to [www.firsttennessee.com](https://web.archive.org/Personal/)
 
 ### Who we are?
 
@@ -60,9 +61,9 @@ To protect your personal information from unauthorized access and use, we use se
 **How does the First Horizon and First Tennessee family of companies collect my personal information?**  
 We collect your personal information, for example, when you 
 
-  * open an account or apply for a loan
-  * use your credit or debit card or apply for insurance
-  * seek advice about your investments
+  * open an account or apply for a loan 
+  * use your credit or debit card or apply for insurance 
+  * seek advice about your investments 
 
 
 
@@ -71,9 +72,9 @@ We also collect your personal information from others, such as credit bureaus, a
 **Why can't I limit all sharing?**  
 Federal law gives you the right to limit only 
 
-  * sharing for affiliates' everyday business purposes - information about your creditworthiness
-  * affiliates from using your information to market to you
-  * sharing for nonaffiliates to market to you
+  * sharing for affiliates' everyday business purposes - information about your creditworthiness 
+  * affiliates from using your information to market to you 
+  * sharing for nonaffiliates to market to you 
 
 
 
@@ -87,21 +88,21 @@ Your choices will apply to everyone on your account.
 **Affiliates**  
 Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * _Our affiliates include companies with a First Horizon/First Tennessee name; financial companies such as First Tennessee Bank; and others such as First Horizon Insurance Services, Inc._
+  * _Our affiliates include companies with a First Horizon/First Tennessee name; financial companies such as First Tennessee Bank; and others such as First Horizon Insurance Services, Inc._  
 
 
 
 **Nonaffiliates**  
 Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * _The First Horizon and First Tennessee family of companies does not share with nonaffiliates so they can market to you._
+  * _The First Horizon and First Tennessee family of companies does not share with nonaffiliates so they can market to you._  
 
 
 
 **Joint marketing**  
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * _Our joint marketing partners include insurance and investment companies._
+  * _Our joint marketing partners include insurance and investment companies._  
 
 
 
@@ -134,6 +135,6 @@ FTN Financial Securities Corp.
 
 ¹A division of First Tennessee Bank National Association
 
-[Click here](https://web.archive.org/Privacy/CaliforniaNotice) for important privacy choices for California consumers.
+[Click here](https://web.archive.org/global/Privacy/CaliforniaNotice/ "Click here") for important privacy choices for California consumers.
 
 Rev 4/2012
