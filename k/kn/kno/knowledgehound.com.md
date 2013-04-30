@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195312id_/http%3A//knowledgehound.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430130603id_/http%3A//knowledgehound.com/privacy.htm) for the most accurate reproduction.*
 
 # Knowledge Hound Privacy Policy
 
@@ -12,12 +12,7 @@ We use third-party advertising networks to serve ads when you visit us. These co
 
 The links below go to the privacy and opt-out policies for the advertising networks that we partner with:
 
-[Advertising.com / AOL](http://advertising.aol.com/privacy/aol-advertising)  
-[Chitika](http://chitika.com/privacy)  
-[Google AdSense](http://www.google.com/privacy/ads/)  
-[HotChalk / Cox Digital](http://www.coxdigitalsolutions.com/privacy-policy/consumer-privacy-policy)  
-[Technorati](http://technorati.com/privacy-policy/)  
-[ValueClick](http://www.valueclickmedia.com/about/privacy/display-web-user)
+[Google AdSense](http://www.google.com/privacy/ads/)
 
 You can also opt-out from many of the top ad networks [here](http://www.aboutads.info/choices/).
 
