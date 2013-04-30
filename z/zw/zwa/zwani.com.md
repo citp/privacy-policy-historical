@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwani.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212448id_/http%3A//www.zwani.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwani.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430184726id_/http%3A//www.zwani.com/privacy.php) for the most accurate reproduction.*
 
 # Myspace Comments, Glitters & Graphics
 
