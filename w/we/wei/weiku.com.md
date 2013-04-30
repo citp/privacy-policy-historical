@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weiku.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014035148id_/http%3A//www.weiku.com/help/rule_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weiku.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430223126id_/http%3A//www.weiku.com/help/rule_privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Helpful Tips for Dealing with Global Business Leads on Weiku.com
 
