@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122110737id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430140624id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer of cbtopsites.com
 
@@ -60,9 +60,13 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our Customer Service department or email to **admin at cbtopsites.com**. 
 
+  
+  
+
+
 * * *
 
-[Go to Top](http://cbtopsites.com/privacy_policy.php#logo "Go to the top of this page")   email to: admin at cbtopsites.com © 2005-2012 CBTopSites.com   [Privacy Policy & Disclaimer](http://cbtopsites.com/privacy_policy.php) [Affiliates](http://cbtopsites.com/site/downlod "Webmasters and Affiliates earn money")
+  email to: admin at cbtopsites.com © 2005-2013 CBTopSites.com   [Privacy Policy & Disclaimer](http://cbtopsites.com/privacy_policy.php) [Affiliates](http://cbtopsites.com/site/downlod "Webmasters and Affiliates earn money")
 
 * * *
 
