@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humananatomycourse.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025124720id_/http%3A//www.humananatomycourse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humananatomycourse.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430233236id_/http%3A//www.humananatomycourse.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Human Anatomy And Physiology
 
