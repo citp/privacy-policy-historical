@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the qatarday.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529082029id_/http%3A//qatarday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarday.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430214748id_/http%3A//qatarday.com/privacy.php) for the most accurate reproduction.*
 
 # QatarDay
 
+|  |  |  |  |  |   
+---|---|---|---  
   
   
   
-|  | 
-
-## Recent Blog  
   
+|  |   
 ---  
   
 ## Daily Prayer Time  
@@ -47,4 +47,15 @@
 
   
   
-| 
+|  | 
+
+## Events  
+  
+---  
+  
+|   
+---  
+  
+THIS SITE HACKED BY CHOKOU  
+  
+## Facebook
