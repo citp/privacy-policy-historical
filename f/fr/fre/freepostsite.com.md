@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213020816id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430022758id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | freepostsite.com - your craigslist and backpage alternative
 
