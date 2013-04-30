@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funzug.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003034921id_/http%3A//www.funzug.com/index.php/funzug.com-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funzug.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430131604id_/http%3A//www.funzug.com/index.php/funzug.com-privacy-policy.html) for the most accurate reproduction.*
 
 # Funzug.com | Funzug.com Privacy Policy | Funzug, Information, Users, Privacy, Use
 
