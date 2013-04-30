@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massappeal.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202150605id_/http%3A//massappeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massappeal.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430174157id_/http%3A//massappeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mass Appeal
 
@@ -87,7 +87,7 @@ We store information collected via the Mass Appeal Service, including without li
 
 Information Review:
 
-You can change and modify the information you previously have provided to us by contacting us at: [EMAIL ADDRESS]
+You can change and modify the information you previously have provided to us by contacting us at: [EMAIL ADDRESS] 
 
 Security Precautions:
 
