@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrwd.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031213957id_/http%3A//www.vrwd.com/vacation-rental/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrwd.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501013633id_/http%3A//www.vrwd.com/vacation-rental/privacy.html) for the most accurate reproduction.*
 
 # VRWD Privacy Policy
 
