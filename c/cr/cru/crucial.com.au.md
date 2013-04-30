@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506170402id_/http%3A//www.crucial.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430192952id_/http%3A//www.crucial.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Crucial Paradigm Web Solutions
-
-  * Support
-  * Privacy Policy
-
-
-
-## Privacy Policy 
+# Privacy Policy
 
 ### Introduction
 
@@ -63,7 +56,7 @@
   *  
   * Without limiting any of our rights, we further reserve the right to access and/or disclose your personal information if we believe such action is necessary to: comply with the law or legal process served on Crucial Paradigm; protect and defend the rights or property of Crucial Paradigm (including the enforcement of our agreements); or act in urgent circumstances to protect the personal safety of users of Crucial Paradigm services or members of the public. These rights specifically extend to any subsidiaries, companies or contractors whom we retain on our behalf. 
   *  
-On occasion, we hire or contract with other companies to provide limited services on our behalf, such as providing customer support, processing transactions, or performing statistical analysis of our services. Any personal information we share will be limited to only that which is necessary to provide the aforesaid services. Any such companies are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. 
+On occasion, we hire or contract with other companies to provide limited services on our behalf, such as providing customer support, processing transactions, or performing statistical analysis of our services. We may share personal information to provide the aforesaid services. It is assumed that any such companies will maintain the confidentiality of the information and are prohibited from using it for any other purpose. 
 
 
 ### Security and Storage of Your Personal Information
@@ -72,7 +65,6 @@ On occasion, we hire or contract with other companies to provide limited service
   *  
   *     * Ensuring all web servers involving financial information or involved in carrying out e-commerce transactions are accessible by Secure Socket Layer (SSL) encryption;
     * Ensuring all Crucial Paradigm’s servers and systems that contain personal information are protected by strong passwords;
-    * Maintaining tight access control policies that ensure that personal information is limited to only those individuals that require it, and under the circumstances that are relevant to their employment or contracts;
     * Ensuring all Crucial Paradigm staff utilise strong passwords when accessing any system that may contain clients' personal information;
     * Engaging in both scheduled and random auditing of our security procedures and privacy compliance;
     * Other security methods, including storing most personal information on servers located in secured datacenters; and
@@ -97,79 +89,3 @@ On occasion, we hire or contract with other companies to provide limited service
   * By mail: Crucial Paradigm, Management PO Box 1, Surry Hills, NSW 2010
 
 
-
-[](https://control.crucial.com.au/orders)
-
-###  Why **Choose Crucial?**
-
-  * Crucial Support
-  * Proven Track Record
-  * Local Facilities
-  * 99.9% Network Uptime SLA
-
-
-
-[Read More](https://web.archive.org/company-why-crucial.php)
-
-###  Which **Solution** is right for me?
-
-Not sure which plan is right for you or after a solution that suits your needs. Then tell us what you would like and let us help you find the best solution.
-
-[Help Now](https://web.archive.org/services-what-solution.php)
-
-###  Contact **Crucial** Today
-
-  * Crucial Paradigm Pty Ltd
-  * (by appointment only)
-  * Suite 1, Level 3
-  * 104 Commonwealth Street
-  * Surry Hills NSW 2010
-  * Australia
-  * Phone Number: 1300 884 839
-  * Email: [sales@crucial.com.au](mailto:sales@crucial.com.au)
-
-
-
-###  Client **Testimonials**
-
-[](http://mypubs.com.au/)
-
-Thank you very much,
-
-Crucial have once again show outstanding customer service, Your technicians and your account staff always provide the best quality of service.
-
-To know that the infrastructure of my business is handled so professionally at such and outstanding price is a comfort and relief.
-
-As a developer for over 10 years, I have to say that your company shows an excellence and duty of care to customers that is unmatched by any of the hosting providers i have dealt with over my career.
-
-I happily recommend crucial to all of my clients and my fellow it professionals.
-
-Thanks
-
-Nathan Reeves
-
-www.mypubs.com.au
-
-[(more...)](https://web.archive.org/crucial-paradigm-testimonials.php)
-
-###  Crucial **Updates**
-
-Saving Money Expert 2nd April 2012
-
-[](http://www.crucial.com.au/blog/wp-content/uploads/2012/04/logo_curved.png)
-
-Crucial has been running Saving Money Expert since its inception in 2010 and i couldn’t be happier with the fast, reliable service. I would recommend them to anyone!
-
-Ryan O’Connor, Founder.
-
-[Saving Money Expert](http://savingmoneyexpert.com.au/ "Save Money ")
-
-[More News](https://web.archive.org/web/20120506170402id_/http%3A//www.crucial.com.au/blog/category/crucialupdates/)
-
-End of Year Update (2011) and Upcoming Improvements (2012) 30th December 2011
-
-It’s been another great year thanks to the support of all our customers, and the great work by the Crucial team. We really have taken some leaps and bounds over the past 12 months with significant improvements to our support and service offerings.
-
-We are very excited about the upcoming year, and providing a new round of great improvements to you! [(more…)](http://www.crucial.com.au/blog/2011/12/30/end-of-year-update-2011-and-upcoming-improvements-2012/#more-1035)
-
-[View Blog](https://web.archive.org/web/20120506170402id_/http%3A//www.crucial.com.au/blog/)
