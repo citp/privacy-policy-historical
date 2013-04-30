@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005231014id_/http%3A//www.stuff.tv/haymarket-media-group-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430130053id_/http%3A//www.stuff.tv/haymarket-media-group-privacy-notice) for the most accurate reproduction.*
 
 # Haymarket Media Group Privacy Notice | Stuff magazine
 
