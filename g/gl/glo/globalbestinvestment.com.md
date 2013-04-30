@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the globalbestinvestment.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430204937id_/http%3A//globalbestinvestment.com/privacy.php) for the most accurate reproduction.*
+
+# Global best Investment
+
+Privacy policy
+
+Privacy policy of a company ensures the clients that their personal information that they have transmitted to the service will remain confidential. The privacy policy of GlobalBestInvestment. guarantees non-disclosure of personal information of their customers. This personal or private information that is to be kept confidential includes: The full name of the client; the full address and ZIP code of the client; contact information of the client, such as phone number or fax; details related to the payment; details related to the activities in the service; details of the IP from which the client operates his/her account and browser and speed of internet connection. 
+
+The information is used by GlobalBestInvestment. only for internal purposes so that it can carry out the operations and improve and enhance the quality of service that requires the private data. It includes: 
+
+Under any circumstances these details regarding any of the clients will not be disclosed to any third party. However, we may have to disclose this information if we are asked to do so by law, in connection to any present or prospective legal proceedings and in order to establish, implement or preserve our legal rights. If any investor has changed his/her address, email id, or other personal information, he/she must inform us so that the information can be updated in our database. If any correction is to be made, then also you can send a message to our support team. 
+
+The information you provide to us may be stored and processed in and transmitted between any of the countries in which we function so that the information can be used in accordance with the privacy policy. For GlobalBestInvestment., privacy policy is a priority. Our team makes every effort to prevent loss, alteration and misuse of your private details with the help of technical and organizational precautions. All your private information is stored in our password and firewall protected servers. We may make some amendment in our privacy policy; all the investors are requested to check it occasionally to ensure that they do not have any problem with the changes. All the investors are notified about the amendment in privacy policy via email. 
+
+You have the right to instruct us to provide you with any private details we hold about you. This provision is subject to the payment of a fee and supply of some appropriate evidence of your identity. If you have any suggestions or comments to make regarding our privacy policy and in relation to how we treat your personal details, you are free to contact our support team. We are not responsible for the privacy policies of the third party websites whose links are present on our website. 
