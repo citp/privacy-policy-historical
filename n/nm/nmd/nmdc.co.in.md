@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmdc.co.in privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012953id_/http%3A//www.nmdc.co.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmdc.co.in privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430141954id_/http%3A//www.nmdc.co.in/Privacy.aspx) for the most accurate reproduction.*
 
 # NMDC Limited - Privacy
 
