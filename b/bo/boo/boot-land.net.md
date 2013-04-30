@@ -1,39 +1,19 @@
-> *The following text is extracted and transformed from the boot-land.net privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031001303id_/http%3A//www.boot-land.net/forums/%3Fautocom%3Djlogica_pagemaker%26do%3Dshow%26id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boot-land.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430070633id_/http%3A//reboot.pro/privacypolicy) for the most accurate reproduction.*
 
-# Page: Privacy Policy
+# Privacy Policy - reboot.pro
 
-**Privacy Policy for www.boot-land.net**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mail@boot-land.net. At www.boot-land.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.boot-land.net and how it is used. 
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
 
-**Log Files**
+**Our Commitment to Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Like many other Web sites, www.boot-land.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+**Cookies**  
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
-**Cookies and Web Beacons**
+  1.  
+  2. [Privacy Policy](http://reboot.pro/privacypolicy/)
+  3. [Site policies ](http://reboot.pro/topic/18361-site-policies/) · 
 
-www.boot-land.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and VibrantMedia. Google, as a third party vendor, uses cookies to serve ads on your site.   
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.boot-land.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-www.boot-land.net has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.boot-land.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-| 
-
-Useful links
-
-Translate forum
-
-Tutorials
-
-Recommended sites
-
-[ ](http://ultimatebootcd.com/)
