@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006063338id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430233724id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | jcpenney portrait studios
 
@@ -33,7 +33,7 @@ A "cookie" is a small data file stored by your web browser on your computer's ha
 
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information or contacts please contact us as follows:
 
-  * Call us at 1-800-59-SMILE
+  * Call us at 1-800-59-76453
 
 
 
