@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the wpremote.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005181654id_/https%3A//wpremote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpremote.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501013032id_/https%3A//wpremote.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WP Remote
-
-Human Made are committed to safeguarding your privacy when you use our WP Remote service. This policy sets out how we will treat your personal information and data.
-
-By using the WP Remote service you consent to the collection, transfer, processing, storage, disclosure and other uses described in this privacy policy.
+# Privacy Policy » WP Remote
 
 ### 1\. Information that we collect and store
 
@@ -18,7 +14,11 @@ We collect and store the domain names of any domains that are added to your WP R
 
 #### Website data files
 
-_****_If you have opted for us to backup your sites we create and store backup copies of your website files and database for any selected domains at the intervals that you specify. We never ask for any information that would allow us to access or edit the content of your websites such as user names or passwords.
+If you have opted for us to backup your sites we create and store backup copies of your website files and database for any selected domains at the intervals that you specify. We never ask for any information that would allow us to access or edit the content of your websites such as user names or passwords.
+
+#### Payment card information
+
+If you have opted for us to backup your sites we collect payment card information. This information is collected and stored securely by our trusted third party payment gateway provider. We do not have direct access to your payment card information.
 
 #### Cookies
 
@@ -38,6 +38,8 @@ On your request we may access website backup files as part of our support servic
 
 We use Amazon S3 to provide our data storage service. You can find more information on Amazon’s data security from the[ S3 site](http://aws.amazon.com/security/ "Amazon S3").
 
+We use Braintree Payment Solutions as our merchant payment gateway provider.
+
 #### Non-private or non-personal information.
 
 We may disclose non-private, aggregated, or otherwise non-personal information, such as usage statistics of our service.
@@ -45,6 +47,8 @@ We may disclose non-private, aggregated, or otherwise non-personal information, 
 ### 3\. Changing or deleting your information
 
 As a registered user of WP Remote you may log on to the service and change your stored password, add additional websites to your account or delete existing websites from your account at any time.
+
+As a user of WP Remote Automatic Backups you may also log on to the service and change your payment card information at any time.
 
 ### 4\. Data Retention
 
@@ -61,3 +65,5 @@ If we are involved in a merger, acquisition, or sale of all or a portion of our 
 ### 7\. Changes to our privacy policy
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10th February 2012.
+
+Latest update 23-11-12.
