@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010192001id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430172724id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
 
 # Delticom Privacy Policy - Tyres online @ mytyres.co.uk
 
@@ -14,13 +14,18 @@ In the sense of the Bundesdatenschutzgesetz (Federal Data Protection Act) Deltic
 
 #### Collation and use of our customers' personal data 
 
+Data is collected in the shop using web analysis tools using cookies that are (able to be) used to generate pseudonyms for user profiles.
+
 Information, which we collect from you, helps us to design and continually improve your shopping experience with Delticom. We use the information for the processing of orders, the delivery of goods and the provision of services as well as for payment settlements (e.g. in connection with purchase on account for any checks required). We also use your details in order to communicate with you regarding orders, products, services and marketing offers (see "Communication via email" below), in order to update our data bases and to store and maintain your customer accounts as well as to present our customers' test reports and opinions for example at http://www.tyretest.com/ or at http://www.mytyres.co.uk and to be able to recommend to you any products and services, which might be of interest to you. We also use your details to improve our shop and our platform, to prevent the misuse of our web site or to discover the same or to enable third parties to carry out technical, logistical or other services on our instructions. 
 
 We collate the following information: 
 
   * **Information you provide us with** : We collate and save all details, which you enter on our web site or which you transfer to us in any other way. You can decide not to provide us with certain details, which may, however, lead to you not being able to use many of our offers (services/features). 
   * **Automatic information** : As soon as you contact us we receive and save certain details. Amongst others, we use - as many other web sites do, too - so-called "cookies" and receive certain details as soon as your web browser opens a Delticom web site. Various companies offer software packages, which enable you to view the web sites anonymously. Although we are no longer able to offer you a personalised shopping experience, as soon as we cannot recognise you, we would like you to know that these tools are available. Usage data, which we collate, are only collated and saved as anonymised data. Thus for example, we analyse anonymously and summarised how many clicks reach our shop and from which web site these come. 
-  * **Communication via email** : In order to be able to make your emails more useful and interesting we often receive a confirmation which of the Delticom emails you open, as far as your computer supports this function. Subsequent to each order you have got the opportunity to take part in a survey. If you participate you can grant us the permission to send you offers or the like. We also offer you the possibility to register for our newsletter e.g. at http://www.mytyres.co.uk. If you would not like to receive any emails from us in principle, please send an email to: mytyres.co.uk@delti.com. In the future you may choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". 
+  * **Communication via email** : We store the contract's content and will send you the details of your order as well as our general terms via e-mail. You can find the terms here at all times. The details about your recent orders can be found in your customer login "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". 
+
+In order to be able to make your emails more useful and interesting we often receive a confirmation which of the Delticom emails you open, as far as your computer supports this function. Subsequent to each order you have got the opportunity to take part in a survey. If you participate you can grant us the permission to send you offers or the like. We also offer you the possibility to register for our newsletter e.g. at http://www.mytyres.co.uk. If you would not like to receive any emails from us in principle, please send an email to: mytyres.co.uk@delti.com. In the future you may choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". 
+
   * **Information from other sources** : Occasionally we also use information about you from other sources and add these to our information about your customer account. We reserve the right to obtain information from third parties (e.g. mail-order companies, commercial credit agencies) in order to offer you certain payment possibilities (e.g. purchase on account) or other financial services. 
   * **If you order complete tyres or rims from us** : In this case we require your registration document and your car licence respectively. What does Delticom need such data for? 
     1. If the complete tyres or rims you ordered are not available for once we require your registration document and your car licence respectively in order to be able to offer you an alternative. 
@@ -88,13 +93,17 @@ This list is altered in accordance with the changes to our web site (as per 26th
 
 
 
+#### Your rights
+
+If you are concerned about your data, you have the right subject to the payment of a small fee (currently £10) to request access the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. 
+
 #### Notes 
 
 If you have any questions regarding Delticom's data protection, please, write - in detail – to mytyres@delti.com and we will attempt to remove your doubts. Our business is continually changing. Equally, this Privacy Policy and our Terms of Use are subject to change. We reserve the right to send notifications at regular intervals regarding the applicable regulations. At any rate, you should still regularly visit our web site and acknowledge any changes. Unless otherwise agreed the use of all information, which we possess about you and your customer accounts, are subject to this Privacy Policy. 
 
 #### Related topics
 
-[General Terms and Conditions](https://web.archive.org/web/20121010192001id_/http%3A//www.mytyres.co.uk/AGBs.html)
+[General Terms and Conditions](https://web.archive.org/web/20130430172724id_/http%3A//www.mytyres.co.uk/AGBs.html)
 
 #### Information you provide us with 
 
@@ -119,3 +128,5 @@ Examples for details, which we obtain from other sources, include updated detail
 #### Information, which you may access
 
 Examples for information which you can easily access at Delticom: This includes information about past orders, personal details (including name, email address, password), Delticom newsletter, notification about special offers, including your order history and your consumer reports e.g. at http://www.tyretest.com/ or http://www.mytyres.co.uk. 
+
+#### Data privacy settings for web analysis
