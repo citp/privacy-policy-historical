@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220095144id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430183641id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory - Article-Buzz
 
