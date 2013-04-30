@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005815id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430153212id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
 
 # Legends of America Privacy Policy
 
@@ -22,11 +22,13 @@ Content Categories:
 
 [ Historic People](http://www.legendsofamerica.com/we-oldwestpeople.html)
 
-[Legends & Myths](https://web.archive.org/web/20120920005815id_/http%3A//www.legendsofamerica.com/ah-legends.html)
+[Legends & Myths](http://www.legendsofamerica.com/ah-legends.html)
 
 [ Native Americans](http://www.legendsofamerica.com/na-nativeamericans.html)
 
 [Old West](http://www.legendsofamerica.com/oldwest.html)
+
+[Photo Galleries](http://www.legendsofamerica.com/photogalleries.html)
 
 [ Route 66](http://www.legendsofamerica.com/66-main.html)
 
@@ -46,8 +48,6 @@ Content Categories:
 
 [Facebook Page](http://www.facebook.com/legendsofamerica)
 
-[Forum](http://legends.websitetoolbox.com/)
-
 [Guestbook](http://www.legendsofamerica.com/guestbook.html)
 
 [Links](http://www.legendsofamerica.com/loa-links.html)
@@ -66,8 +66,6 @@ and feedback!
 
 [Contact Us](http://www.legendsofamerica.com/contact.html)
 
-[Legends Of America's](http://store.legendsofamerica.com/)
-
 [ ](http://www.store.legendsofamerica.com/)
 
   
@@ -83,6 +81,8 @@ and feedback!
 [ Postcard Rack](http://store.legendsofamerica.com/index.php?l=product_list&c=11)
 
 [ Wall Art](http://store.legendsofamerica.com/index.php?l=product_list&c=172)
+
+[Custom Products](http://www.cafepress.com/legendsamerica)
 
 and [Much More](http://www.store.legendsofamerica.com/)!
 
@@ -153,10 +153,8 @@ Legends of America  abides by the laws and guidelines of the Internet. We welcom
 
 We **DO NOT** sell or rent any of the information kept in our database.     
   
-**[ From the Rocky Mountain General Store](http://store.legendsofamerica.com/)**
+[ ](http://www.legendsofamerica.com/)[Dave and Kathy](http://www.legendsofamerica.com/aboutus.html), owners of _[Legends of America](http://www.legendsofamerica.com/)_ , and the only "employees" of this small business, want to send out a big _**Thank You**_ to all of our readers and customers! It's your support of [Legends' General Store](http://store.legendsofamerica.com/) and our [Photo Shop](http://photos.legendsofamerica.com/) that keeps us alive and continuing to provide our website content, [newsletter](http://www.legendsofamerica.com/newsletter.html), and [ blog](http://legendsofamerica.blogspot.com/) for free. We also love your feedback on our [guestbook](http://www.legendsofamerica.com/guestbook.html) and [forum](http://legends.websitetoolbox.com/), as well as the contributions to our pages that many of you provide. 
 
-**[ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)[Vintage Magazines](http://store.legendsofamerica.com/index.php?l=product_list&c=22) \- **_[Legends of America](http://www.legendsofamerica.com/)_ and the [ Rocky Mountain General Store](http://store.legendsofamerica.com/) has collected a number of [ Vintage Magazines](http://store.legendsofamerica.com/index.php?l=product_list&c=22), including _True West_ , _Frontier Times_ , _Treasure_ and more for our [Old West](http://www.legendsofamerica.com/oldwest.html) and [Treasure Hunting](http://www.legendsofamerica.com/treasures.html) enthusiasts.  For most of these, we have only one available.  To see this varied collection, click [ HERE!](http://store.legendsofamerica.com/index.php?l=product_list&c=22)
-
-_**[ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)**_**_     [ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)    _**_**[ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)**_**_     [ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)    [ ](http://store.legendsofamerica.com/index.php?l=product_list&c=22)_**  
+We just can't tell you how much we appreciate you! Thanks a whole big bunch!  
   
  
