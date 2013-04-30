@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the longwoodgardens.org privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919193517id_/http%3A//www.longwoodgardens.org/Privacy_1_4_2.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the longwoodgardens.org privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430203123id_/http%3A//longwoodgardens.org/Privacy_1_4_2.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:user="http://fingerprintinteractive.com/mynamespace" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <meta name="generator" content="ThinCMS - www.activeinterface.com">
@@ -30,6 +30,7 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js">/* */</script>
     <script type="text/javascript" src="js/jquery.barousel.js">/* */</script>
     <script type="text/javascript" src="js/jquery.ba-bbq.min.js">/* */</script>
+    <script type="text/javascript" src="js/ticketid.js">/* */</script>
     <script type="text/javascript" src="js/events.js">/* */</script>
   </head>
   <body>
@@ -40,13 +41,88 @@
         <span>LongwoodGardens</span>
       </p>
       <script type="text/javascript">
+function sendmail(url, title)
+{
+   var subj = "Something of interest at Longwood Gardens";
+   var body = "I thought you would be interested in this page on Longwood Gardens:";
+   subj = encodeURIComponent(subj);
+   body = encodeURIComponent(body);
+   body = body + "%0D%0A" + title;
+   body = body + "%0D%0A" + url;
+   window.open("mailto:?subject=" +subj+ "&body=" +body);
+}
+			 
+//<![CDATA[
+
           $(document).bind('ready', function() {
+
             $('A[rel="external"]').click( function() {
               window.open( $(this).attr('href') );
               return false;
             });
+
+            // share popup
+            $('p.share a.trigger').click(function() {
+              $('.share_mod').toggle();
+              return false;
+            });
+            $(document).click(function(){
+              $('.share_mod').hide();
+            });
+            $('ul.share_mod li a').click(function() {
+              $('.share_mod').hide();
+            });
+
+            if ($('#tickettable')[0]) {
+              //$.getJSON('http://shuffledev:81/devtests/EventTicket.aspx?callback=?', function(data) {
+              $.getJSON('http://www.longwoodgardens.org/landingpages/EventTicket.aspx?callback=?', function(data) {
+                var baseurl = "https://tickets.longwoodgardens.org/itemList.aspx?node_id=";
+                var nodeid;
+                var table ="";
+                if (data.length == 0) {
+                  $("#tickettable").prev().text('No tickets remain for today. Click the link below to buy tickets for a different day.');
+                }
+                $.each( data, function( index, item){
+                  table+='<span class="ttime">'+item.t+'</span> <span class="tavail">';
+                  if (item.a == 'N') {
+                    table+='Sold Out';
+                  } else {
+                    nodeid = ticketidtable[item.t];
+                    table+='<a href="' + baseurl + ticketidtable[item.t] + '">Available</a>';
+                  }
+                  table+='</span><br/>';
+                });
+
+                $("#tickettable").html( table );
+             });
+            }
+
+            var rnd = Math.random()*100000000;
+
+            $('#copyright').append($('<img>', { 
+             src : 'http://mpp.specificclick.net/?nwk=4&y=2&t=i&tp=1&clid=4755&pixid=99069655&rnd=' + rnd, 
+             width : 1, 
+             height : 1, 
+             alt : 'na',
+             style : 'border-style:none;display:none;'
+            }));
+            $('#copyright').append($('<img>', { 
+             src : 'https://ads.undertone.com/f?pid=16634&cb=' + rnd, 
+             width : 1, 
+             height : 1, 
+             alt : 'na',
+             style : 'border-style:none;display:none;'
+            }));
+			var imgsrc = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'secure.fastclick.net/w/tre?ad_id=29703;evt=21987;cat1=29678;cat2=29680;rand=' + rnd;
+            $('#copyright').append($('<img>', { 
+             src : imgsrc,
+             width : 1, 
+             height : 1, 
+             alt : 'na',
+             style : 'border-style:none;display:none;'
+            }));
           });
-          </script>
+//]]></script>
       <div id="header">
         <div id="hwrap">
           <div id="masthead">
@@ -144,8 +220,55 @@
                 <span>pg_standard.xsl</span>
                 <span>Privacy_1_4_2</span>
               </p>
-              <h2 class="pageheadline">
-                <!--headline-->Online Privacy Policy</h2>
+              <div class="pageheadline">
+                <h2>
+                  <!--headline-->Online Privacy Policy</h2>
+                <script type="text/javascript" charset="utf-8">
+$(function(){
+   // Add event tracking to all share links
+   $(".share_mod li a").each(function(index) {
+     var label = $(this).parent().attr('class');
+     shareOnClick = "_gaq.push(['_trackEvent', 'Share', 'Click', '" + label + "']);";
+     $(this).attr("onClick", shareOnClick);
+   });
+
+   // Add event tracking to all social links
+   $("#footer-social div a").each(function(index) {
+     var label = $(this).find('img:eq(0)').attr('alt');
+     shareOnClick = "_gaq.push(['_trackEvent', 'Social', 'Click', '" + label + "']);";
+     $(this).attr("onClick", shareOnClick);
+   });
+});
+      </script>
+                <div id="share_links">
+                  <p class="share">
+                    <a class="trigger" href="#">Share</a>
+                  </p>
+                  <ul class="share_mod" style="display:none;">
+                    <li class="email">
+                      <a href="javascript:sendmail('http://longwoodgardens.org/Privacy_1_4_2.html','Privacy - Longwood Gardens')">Email this</a>
+                    </li>
+                    <li class="digg">
+                      <a rel="external" href="http://digg.com/submit?url=http://longwoodgardens.org/Privacy_1_4_2.html&amp;title=Privacy - Longwood Gardens&amp;topic=LongwoodGardens">Digg</a>
+                    </li>
+                    <li class="facebook">
+                      <a rel="external" href="http://www.facebook.com/sharer.php?u=http://longwoodgardens.org/Privacy_1_4_2.html">Facebook</a>
+                    </li>
+                    <li class="twitter">
+                      <a rel="external" href="http://twitter.com/intent/tweet?url=http://bit.ly/XVxACv&amp;text=Privacy - Longwood Gardens&amp;via=LongwoodGardens">Twitter</a>
+                    </li>
+                    <li class="linkedin">
+                      <a rel="external" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://longwoodgardens.org/Privacy_1_4_2.html&amp;title=Privacy - Longwood Gardens&amp;summary=LongwoodGardens&amp;source=http://www.longwoodgardens.org">LinkedIn</a>
+                    </li>
+                    <li class="reddit">
+                      <a rel="external" href="http://www.reddit.com/submit?url=http://longwoodgardens.org/Privacy_1_4_2.html&amp;title=Privacy - Longwood Gardens">Reddit</a>
+                    </li>
+                    <li class="stumbleupon">
+                      <a rel="external" href="http://www.stumbleupon.com/submit?url=http://longwoodgardens.org/Privacy_1_4_2.html&amp;title=Privacy - Longwood Gardens">StumbleUpon</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
               <div>
                 <!--main body-->
                 <p>Thank you for visiting Longwood's web site. Ensuring the privacy and security of your personal information is very important to us. We will never share, sell, or rent your personal information with anyone in ways different from what is disclosed in this statement, or unless ordered by a court of law. We maintain a variety of physical, electronic and procedural safeguards to protect your personal information. We have created this online privacy policy to explain our commitment to your privacy and the protection of your information.</p>
@@ -264,6 +387,7 @@
             <div class="bug facebbook">
               <a rel="external" href="http://www.facebook.com/LongwoodGardens">
                 <img src="img/bug_facebook.gif" alt="Facebook">
+                <img height="1" width="1" border="0" src="http://edge.aperture.displaymarketplace.com/audmeasure.gif?liveConClientID=5845452342177&amp;PixelID=1440&amp;EventType=View&amp;PageID=100">
               </a>
             </div>
             <div class="bug twitter">
@@ -296,6 +420,16 @@
                 <img src="img/bug_enews.gif" alt="eNews">
               </a>
             </div>
+            <div class="bug pinterest">
+              <a rel="external" href="http://pinterest.com/longwoodgardens">
+                <img src="img/bug_pinterest.gif" alt="Pinterest">
+              </a>
+            </div>
+            <div class="bug instagram">
+              <a rel="external" href="http://instagram.com/longwoodgardens">
+                <img src="img/bug_instagram.gif" alt="Instagram">
+              </a>
+            </div>
           </div>
         </div>
         <div id="footer-bottom">
@@ -304,7 +438,7 @@
               <a href="SiteMap_1_4_1.html">Site Map</a>
             </span> / <span><a href="Privacy_1_4_2.html">Privacy</a></span> / <span><a href="Contact_1_4_3.html">Contact</a></span> / <span><a href="About.html">About Us</a></span> / <span><a href="Media_1_4_4.html">Media</a></span> / <span><a href="eNewsletterSignup.html">e-Newsletter</a></span></div>
           <div id="footer-gardens">
-            <p>Greater Philadelphia Gardens: <a rel="external" href="http://www.greaterphiladelphiagardens.org/">Explore America's Garden Capitol</a></p>
+            <p>Greater Philadelphia Gardens: <a rel="external" href="http://www.greaterphiladelphiagardens.org/">Explore America's Garden Capital</a></p>
           </div>
         </div>
       </div>
