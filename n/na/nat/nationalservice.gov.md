@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613205012id_/http%3A//www.nationalservice.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430181942id_/http%3A//www.nationalservice.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
 # NationalService.gov > Security and Privacy Policy
 
@@ -46,12 +46,14 @@ Washington DC 20525
 202-606-5000  
 [webmaster@cns.gov ](mailto:webmaster@cns.gov)
 
-### Information Security, Privacy and Contractor Security Requirements
-
-The Federal Information Security Act (FISMA), Homeland Security Presidential Directive 12 (HSPD-12), and recent OMB Memorandums instituted a number of security and privacy requirements that must be reflected in all federal contracts. Recent changes to the FAR provided guidance as to how to include information security and privacy requirements in contracts for information technology components and services, information and data management services, and related support. 
-
-Our recent FISMA system security assessments confirmed that all current Corporation information technology contracts as well as contracts where contractors are provided access to CNCS IT systems or facilities require modification to include consideration for FISMA, HSPD-12, and OMB security requirements. To assist current and potential contractors and vendors, CNCS is making its information, privacy, and contractor security requirements available at <http://www.nationalservice.gov/pdf/infosec_contract_clauses.pdf>.
-
 ### Public Burden Statements and Privacy Act Notices
 
 [Please click here to view our current Public Burden Statements and Privacy Act Notices.](https://web.archive.org/pdf/cncs_burden_and_privacy_statements.pdf) (112 KB PDF)
+
+### System of Record Notices (SORNS)
+
+To view our current SORNS [click here](http://www.ofr.gov/Privacy/2011/cncs.aspx)
+
+### Information Assurance Program (IAP)
+
+To view our current IAP [click here](http://www.nationalservice.gov/home/privacy_policy/IAP_082112_Final%20Public.pdf)
