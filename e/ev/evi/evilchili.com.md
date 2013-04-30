@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evilchili.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215073706id_/http%3A//www.evilchili.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilchili.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430180413id_/http%3A//www.evilchili.com/privacy) for the most accurate reproduction.*
 
 # EvilChili - Funny Clips, Articles and More - Updated Daily
 
-THIS DOCUMENT SETS FORTH THE PRIVACY POLICY FOR THE ENDURANCE MEDIA, LLC ("EVILCHILI.COM") WEBSITE WWW.EVILCHILI.COM ("SITE"). EVILCHILI.COM VALUES THE PROTECTION OF INDIVIDUAL PRIVACY AND IS COMMITTED TO THE PRIVACY OF ITS VISITORS. THIS PRIVACY POLICY SETS FORTH EVILCHILI.COM'S PRIVACY POLICY FOR THE SITE, AND GOVERNS THE MANNER IN WHICH EVILCHILI.COM COLLECTS, USES, MAINTAINS AND DISCLOSES INFORMATION COLLECTED FROM USERS OF THE SITE. BY USING THE SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, DO NOT USE THE SITE IN ANY MANNER. THIS PRIVACY POLICY DOES NOT GOVERN PRIVACY PRACTICES ASSOCIATED WITH OFFLINE ACTIVITIES OR ACTIVITIES OCCURRING ON WEBSITES NOT UNDER EVILCHILI.COM'S CONTROL.
+THIS DOCUMENT SETS FORTH THE PRIVACY POLICY FOR THE CRATE NETWORK, LLC ("EVILCHILI.COM") WEBSITE WWW.EVILCHILI.COM ("SITE"). EVILCHILI.COM VALUES THE PROTECTION OF INDIVIDUAL PRIVACY AND IS COMMITTED TO THE PRIVACY OF ITS VISITORS. THIS PRIVACY POLICY SETS FORTH EVILCHILI.COM'S PRIVACY POLICY FOR THE SITE, AND GOVERNS THE MANNER IN WHICH EVILCHILI.COM COLLECTS, USES, MAINTAINS AND DISCLOSES INFORMATION COLLECTED FROM USERS OF THE SITE. BY USING THE SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, DO NOT USE THE SITE IN ANY MANNER. THIS PRIVACY POLICY DOES NOT GOVERN PRIVACY PRACTICES ASSOCIATED WITH OFFLINE ACTIVITIES OR ACTIVITIES OCCURRING ON WEBSITES NOT UNDER EVILCHILI.COM'S CONTROL.
 
   
 
@@ -78,9 +78,13 @@ An adult may review, request corrections, ask that we delete, or refuse further 
   
 
 
+## Opt Out
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit - http://www.networkad...ng/opt_out.asp.
+
+  
+
+
 ## EvilChili.com Contact Information
 
-If you have any questions or comments regarding this Privacy Policy, or wish to review or revise any personally identifiable information as provided herein, please email EvilChili.com at [endurancemedia@gmail.com](mailto:endurancemedia@gmail.com).
-
-THIS PRIVACY POLICY WAS LAST UPDATED ON August 19, 2010  
-PLEASE RETAIN A COPY OF THIS PRIVACY POLICY FOR YOUR RECORDS.
+If you have any questions or comments regarding this Privacy Policy, or wish to review or revise any personally identifiable information as provided herein, please email EvilChili.com at [business@cratenetwork.com](mailto:business@cratenetwork.com).
