@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920052601id_/http%3A//www.eyereturnmarketing.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501015301id_/http%3A//eyereturnmarketing.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # eyeReturn Marketing - Privacy Policy
 
@@ -53,7 +53,7 @@ If you do not wish to have eyeReturn use your information for tailoring advertis
 
 **Safeguards:** eyeReturn has technical, contractual, administrative and physical security measures to protect your information in a manner that is reasonable and appropriate to the nature of the information you provide to eyeReturn. Please be aware that email is not a secure medium, and any information you send to us by email could be intercepted. If your communication is very sensitive, or includes information such as your credit card number, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure. Materials posted to online forums such as bulletin boards or comment sites are public, not secure and may be viewed by anyone. Any information you post may be collected and used by anyone and may result in unsolicited messages from other internet users. 
 
-**How to address concerns regarding your privacy.** eyeReturn encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning eyeReturn's Privacy Code, would like a copy, or if you have any concerns, please contact us at: privacy@eyereturn.com
+**How to address concerns regarding your privacy.** eyeReturn encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning eyeReturn's Privacy Code, would like a copy, or if you have any concerns, please contact us at:  [privacy@eyereturn.com](mailto:privacy@eyereturn.com)
 
 eyeReturn can successfully deal with many issues. If you prefer, or if after contacting eyeReturn your concerns or questions have not been resolved to your satisfaction, you can contact eyeReturn’s Chief Privacy Officer in writing as follows:
 
