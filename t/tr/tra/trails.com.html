@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the trails.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216204749id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trails.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430091917id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>	
 	<title>Privacy Policy</title>
 	<meta name="msapplication-task" content="name=Trail Maps; action-uri=http://www.trails.com/trails.aspx; icon-uri=/favicon.ico">
     <meta name="msapplication-task" content="name=Topo Maps &amp; Aerial Photos; action-uri=http://www.trails.com/maps.aspx; icon-uri=/favicon.ico">
@@ -15,21 +15,9 @@
 	<meta name="google-site-verification" content="h_K__lkITf1sHPd8xfY__u5YP-6uB-4SiZPhUgVJEqg">
     <meta name="p:domain_verify" content="26deb8d5851bdca259277cc6c755a876">
 	
-	<meta name="verify-v1" content="PPiA1IbNRkmsbZ8YofKw84xXNQ9YDlwm3bHTmzcifhw=">
-	
-	<meta name="y_key" content="0767f05fdb1d2c0b">
-	
-	<meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3">
-	
-	<meta name="robots" content="index,follow">
-	
-	<meta name="googlebot" content="index,follow">
-	
-	<meta name="content" content="public">
-	
     <link rel="shortcut icon" type="image/x-icon" href="http://cdn-www.trails.com/favicon.ico">
     
-    <link rel="stylesheet" type="text/css" href="http://cdn-www.trails.com/imagecache/stylesheets/155F72145BE8368DE19BAE1CA11228ED7.css">
+    <link rel="stylesheet" type="text/css" href="http://cdn-www.trails.com/imagecache/stylesheets/155F72145BE8368DE19BAE1CA11228ED6.css">
     
     <script type="text/javascript">
 	//<![CDATA[
@@ -89,10 +77,8 @@
 	//]]>
     </script>
     
-		   <script type="text/javascript" src="https://ssl.trails.com/imagecache/scripts/94836AFBBF9D67271D04D15E388B0BB1F7087B40EB08F211B09CE7A.js"></script>
+		   <script type="text/javascript" src="http://cdn-www.trails.com/imagecache/scripts/13B9732699DF96449B6E49C6CD9559C86D20B65591742B66734A6107F.js"></script>
     
-    <script src="//cdn.optimizely.com/js/1617017.js"></script> 
-	
 <link href="http://cdn-www.trails.com/inc/css/footer_pages.css" type="text/css" rel="stylesheet">
 <style type="text/css">
 	.privacyContent { font-size: 93%; }
@@ -107,10 +93,12 @@
 	var dexBaseURL=(("https:"==document.location.protocol) ? 
 	 "https://a248.e.akamai.net/demdex.download.akamai.com/dm/31/" : 
 	 "http://cdn.demdex.net/dm/31/");
-	document.write(unescape("%3Cscript src='"+ dexBaseURL + 
+	document.write(unescape("%3Cscript src='"+ dexBaseURL +
 	 "demdex.js' type='text/javascript' %3E%3C/script%3E"));
 	</script><script src="https://a248.e.akamai.net/demdex.download.akamai.com/dm/31/demdex.js" type="text/javascript"></script>
 	<!-- End Demdex Tag Insertion Manager -->
+
+	<script src="//cdn.optimizely.com/js/171109539.js"></script>
 </head>
 
 <body>
@@ -227,18 +215,41 @@
 		<script type="text/javascript">
 			var $message = $('p.message');
 			if (!TRAILS.settings.user.isLoggedIn)
-			    $message.append('For full access, <a href="' + TRAILS.settings.urls.login + '">login</a> or <a href="' + TRAILS.settings.urls.signup + '?oc=4687">start a free account</a>. <a rel="http://www.trails.com/subscription_overview.aspx">Learn more</a>&hellip;')
-			else if (!TRAILS.settings.user.isSubscribed && !TRAILS.settings.user.isExpired) 
 			{
-			    if (TRAILS.settings.user.isEligibleForTrial)
-			        $message.append('<a href="' + TRAILS.settings.urls.signup + '?oc=4687">Begin your 14-Day Free Trial</a>.');
+				$message.append('For full access, <a href="' + TRAILS.settings.urls.login + '">login</a> or ');
+
+				$signup = jQuery('<a id="BannerCreateAccountLink" href="' + TRAILS.settings.urls.signup + '?oc=4687">start a free account</a>');
+				$overlay = jQuery('<a id="BannerCreateAccountOverlay" style="cursor:pointer;display:none;text-decoration:underline;">start a free account</a>');
+				$overlay.click(function ()
+				{
+					var frame = jQuery(document.createElement('iframe'));
+					frame.attr('id', 'reg-frame').addClass('reg-rounded').attr('src', TRAILS.settings.urls.signup.replace('subscribe', 'registration-iframe'));
+
+					jQuery('#reg-container').append(frame);
+					jQuery('#reg-dialog-container').css('display', 'block');
+				});
+
+				if (typeof (window['SHOW_REGISTRATION_OVERLAY']) != 'undefined' && window['SHOW_REGISTRATION_OVERLAY'])
+				{
+					$signup.css('display', 'none');
+					$overlay.css('display', 'inline');
+				}
+
+				$message.append($signup);
+				$message.append($overlay);
+				$message.append('. <a rel="http://www.trails.com/subscription_overview.aspx">Learn more</a>&hellip;')
+			}
+			else if (!TRAILS.settings.user.isSubscribed && !TRAILS.settings.user.isExpired)
+			{
+				if (TRAILS.settings.user.isEligibleForTrial)
+					$message.append('<a href="' + TRAILS.settings.urls.signup + '?oc=4687">Begin your 14-Day Free Trial</a>.');
 			}
 			else if (TRAILS.settings.user.isTrial)
-			    $message.append('<a href="https://ssl.trails.com/myaccount/subscription_start.aspx">Begin Your Full Subscription Now!</a>');
+				$message.append('<a href="https://ssl.trails.com/myaccount/subscription_start.aspx">Begin Your Full Subscription Now!</a>');
 			else if (TRAILS.settings.user.isExpired)
-			    $message.append('<a href="https://ssl.trails.com/myaccount/subscription_order.aspx">Start Your Subscription Now!</a>');
+				$message.append('<a href="https://ssl.trails.com/myaccount/subscription_order.aspx">Start Your Subscription Now!</a>');
 			else
-			    $message.append('Current Subscription: ' + TRAILS.settings.user.subscripionPlan);
+				$message.append('Current Subscription: ' + TRAILS.settings.user.subscripionPlan);
 		</script>
 	</p>
 </div>
@@ -406,7 +417,7 @@
 
     <p>Trails is a trademark or registered trademark of Demand Media, Inc. in the United States and other countries.</p>
     
-    <p>Copyright Â© 2012.  Demand Media, Inc.</p>
+    <p>Copyright Â© 2013.  Demand Media, Inc.</p>
     <!-- *** PAGE CONTENT ENDS *** -->
 </div>
 
@@ -438,7 +449,7 @@
 					for (var i = 0, link; link = links[i]; ++i)						
 						$container.prepend(String.format(template, link.isFullyQualified ? link.href : TRAILS.settings.rootUrl + link.href, link.text));
 					
-					$container.parent().append('<p class="Note">Copyright &copy;1999-2012. Trails.com, Inc.<br />&dagger; requires JavaScript.</p>');
+					$container.parent().append('<p class="Note">Copyright &copy;1999-2013. Trails.com, Inc.<br />&dagger; requires JavaScript.</p>');
 				})(jQuery);
 			</script>
 		</div>
@@ -446,7 +457,7 @@
 		
     
 		
-		<img id="DemandMediaLogo" src="http://cdn-www.trails.com/ui/images/pixel-1.gif" width="440" height="34" alt="http://cdn-www.trails.com/ui/images/logo-demand-media-4.png">
+		<img id="DemandMediaLogo" src="http://cdn-www.trails.com/ui/images/pixel-1.gif" alt="http://cdn-www.trails.com/ui/images/driven-by-demand-media.png">
 		<script type="text/javascript">
 		//<![CDATA[
 			jQuery('#DemandMediaLogo').bind('click', function(){
@@ -463,6 +474,14 @@
 		
 	</div>
 	
+	<div id="reg-dialog-container">
+		<div id="reg-overlay"></div>
+		<div class="floater"></div>
+		<div id="reg-container" class="reg-rounded">
+			<a onclick="$('#reg-frame').remove(); $('#reg-dialog-container').css('display', 'none')"><img id="reg-close-button" src="http://cdn-www.trails.com/ui/images/registration/close-button.png"></a>
+		</div>
+	</div>
+
 	<script type="text/javascript">
 	//<![CDATA[	
 	    if (typeof (request_google_ads) === 'function') {
@@ -480,14 +499,14 @@
 	</script>
 	
 	<noscript>
-		<img src="http://vs.dmtracker.com/images/zig.gif?Log=1" width="1" height="1" alt="" />
+		<img src="//vs.dmtracker.com/images/zig.gif?Log=1" width="1" height="1" alt="" />
 	</noscript>
 	
 	<script type="text/javascript">
 	//<![CDATA[
-		document.write(unescape('%3Cscript src="' + (document.location.protocol == 'http:' ? 'http://www' : 'https://ssl') + '.google-analytics.com/ga.js" type="text/javascript" %3E%3C/script%3E'));
+		document.write(unescape('%3Cscript src="//www.google-analytics.com/ga.js" type="text/javascript" %3E%3C/script%3E'));
 	//]]>
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	</script><script src="//www.google-analytics.com/ga.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	//<![CDATA[
 		TRAILS.objects.analytics = _gat._getTracker('UA-709906-2');
@@ -513,12 +532,6 @@
     
     <!-- End comScore Tag -->        
     
-    <script type="text/javascript">
-	//<![CDATA[
-		document.write(unescape('%3Cscript src="' + TRAILS.settings.urls.cdn + '/inc/js/OptimostFooter.js" type="text/javascript" %3E%3C/script%3E'));
-	//]]>
-	</script><script src="http://cdn-www.trails.com/inc/js/OptimostFooter.js" type="text/javascript"></script>
-	
     <!-- Casale Media: Pop Under -->
     <script type="text/javascript"><!--
         var casaleD = new Date(); var casaleR = (casaleD.getTime() % 8673806982) + Math.random();
@@ -526,9 +539,26 @@
         var casaleHost = ' type="text/javascript" src="http://as.casalemedia.com/s?s=';
         document.write('<scr' + 'ipt' + casaleHost + '105437&amp;u=');
         document.write(casaleU + '&amp;f=1&amp;id=' + casaleR + '"><\/scr' + 'ipt>');
-    //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=105437&amp;u=https%3A//web.archive.org/web/20121216204749id_/http%253A//www.trails.com/privacy.aspx&amp;f=1&amp;id=1728696816.4450524"></script>
+    //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=105437&amp;u=https%3A//web.archive.org/web/20130430091917id_/http%253A//www.trails.com/privacy.aspx&amp;f=1&amp;id=1728697056.3200834"></script>
     <!-- DO NOT MODIFY -->
 
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991491445;
+var google_conversion_label = "rM3ICLPljAQQ9erj2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991491445/?value=0&amp;label=rM3ICLPljAQQ9erj2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 </body></html>
