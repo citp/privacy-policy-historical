@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the molinahealthcare.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022045343id_/http%3A//www.molinahealthcare.com/common/Pages/terms_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molinahealthcare.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501003945id_/http%3A//www.molinahealthcare.com/common/Pages/terms_privacy.aspx) for the most accurate reproduction.*
 
 # Molina - Terms of Use & Website Privacy
 
