@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dc.gov privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216055312id_/http%3A//dc.gov/DC/About%2BDC.Gov/Privacy%2Band%2BSecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dc.gov privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430202020id_/http%3A//dc.gov/DC/About%2BDC.Gov/Privacy%2Band%2BSecurity) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -24,7 +24,7 @@
     <link href="/staticfiles/css/vgn.css" rel="stylesheet" type="text/css">
     
 				
-		<script src="/staticfiles/lib/yui/utilities/utilities.js" type="text/javascript"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/staticfiles/lib/yui/utilities/utilities.js" type="text/javascript"></script>
 		<script src="/staticfiles/js/SpryAccordion2.js" type="text/javascript"></script> <!-- todo: confirm native spry js works and revert to that -->
         <script src="/staticfiles/lib/SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
         <script src="/staticfiles/js/pageutils.js" type="text/javascript"></script>
@@ -87,7 +87,7 @@
         <![endif]-->
         
         <link href="/vgn-ext-templating/common/styles/vgn-ext-templating.css" rel="stylesheet" type="text/css">
-	</head>
+	<script type="text/javascript" src="http://search.usa.gov/javascripts/stats.js"></script></head>
 
 
 	
@@ -157,7 +157,7 @@
                                                 <img class="dcSearchForm_leftCap" src="/staticfiles/img/gsearchbar_left_ver2.jpg" alt="">
                                             </td>
                                             <td>
-                                                <input name="q" type="text" class="dcSearchForm" maxlength="" title="Type keyword, phrase or question" value="Search" onfocus="if(this.value=='Search'){this.value=''}" onblur="if(this.value==''){this.value='Search'}"><br>
+                                                <input name="q" type="text" class="dcSearchForm" maxlength="" title="Type keyword, phrase or question" value="Search" onfocus="if(this.value=='Search'){this.value=''}" onblur="if(this.value==''){this.value='Search'}" onkeydown="Javascript: if (event.keyCode==13) submitForm();"><br>
                                                 <input type="hidden" name="output" value="xml_no_dtd">
                                                 <input type="hidden" name="oe" value="UTF-8">
                                                 <input type="hidden" name="ie" value="UTF-8">
@@ -183,19 +183,21 @@
 						
 						<script type="text/JavaScript">
 							function submitForm(){
+								if(!document.gs.emb[0].checked)
+								{
+								  document.gs.site.value="about dc.gov";
+								}
+								else 
+								{
+									document.gs.site.value="";
+								} 
 							document.gs.submit();
-							}
-							
-							function setSiteFilter(){
-							if(!document.gs.emb[0].checked)
-							  document.gs.site.value="about dc.gov";
-							  else document.gs.site.value="";
 							}
 						</script>
 														
-														<input id="radio_all" class="filter-radio" type="radio" value="0" name="emb" title="DC.gov" onclick="setSiteFilter()"></td>
+														<input id="radio_all" class="filter-radio" type="radio" value="0" name="emb" title="DC.gov"></td>
 														<td>DC.gov&nbsp; </td>
-														<td><input id="site_search" class="filter-radio" type="radio" checked="checked" value="1" name="emb" title="About DC.Gov" onclick="setSiteFilter()"></td>
+														<td><input id="site_search" class="filter-radio" type="radio" checked="checked" value="1" name="emb" title="About DC.Gov"></td>
 														<td>&nbsp;About DC.Gov</td>
 													</tr>
 												</tbody></table>
@@ -302,20 +304,12 @@
 
 
 
-       
-
-
-
 
 		<li class="dcTopNav_item" onmouseover="DC.topNav.doImageOver(this)" onmouseout="DC.topNav.doImageOut(this)">
 
 			<a href="/DC/Service+Request+Center" title="311 Online"><img src="/staticfiles/img/topnav/311OnlineVer2.jpg" alt="311 Online"></a>								
 			
 	 </li>	
-       
-
-
-
        
 
 
@@ -397,15 +391,15 @@
 
 
 
-       
-
-
-
 
 <li class="dcTopNav_item" onmouseover="DC.topNav.doImageOver(this)" onmouseout="DC.topNav.doImageOut(this)">
 
 			<a href="/DC/Business+and+Non-Profit" title="Businesses"><img src="/staticfiles/img/topnav/businessesVer2.jpg" alt="Businesses"></a>
  </li>		
+       
+
+
+
        
 
 
@@ -438,46 +432,6 @@
 		
 		 </li>
 	
-
-       
-
-
-
-       
-
-
-
-       
-
-
-
-       
-
-
-
-       
-
-
-
-       
-
-
-
-       
-
-
-
-       
-
-
-
-       
-
-
-
-       
-
-
 
        
 
@@ -1150,7 +1104,7 @@ document.getElementById('divTranslations').innerHTML='';
 									<table width="100%" cellspacing="2" cellpadding="2" border="0">
 										<tbody>
 											<tr valign="top">
-												<td width="50%" class="sharePopup"><a target="_blank" title="Bookmark on del.icio.us" rel="nofollow" href="http://delicious.com/save?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Bookmark on del.icio.us" src="/staticfiles/img/social_media_icons/delicious.png">Delicious</a><br><a target="_blank" title="Submit to Digg" rel="nofollow" href="http://digg.com/submit?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Submit to Digg" src="/staticfiles/img/social_media_icons/digg.png">Digg</a><br><a target="_blank" title="Share on Facebook" rel="nofollow" href="http://www.facebook.com/share.php?u=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Share on Facebook" src="/staticfiles/img/social_media_icons/facebook.png">Facebook</a><br><a title="Add to Favorites" href="javascript:bookmarksite('/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean', 'http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean')"><img border="0" alt="Add to Favorites" src="/staticfiles/img/social_media_icons/favorites.png">Favorites</a><br><a target="_blank" title="Bookmark on Google" rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Bookmark on Google" src="/staticfiles/img/social_media_icons/google.png">Google</a></td><td></td><td width="50%" class="sharePopup"><a target="_blank" title="Myspace" rel="nofollow" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Privacy and Security&amp;u=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;l="><img border="0" alt="Myspace" src="/staticfiles/img/social_media_icons/myspace.png">Myspace</a><br><a target="_blank" title="Submit to Reddit" rel="nofollow" href="http://reddit.com/submit?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Submit to Reddit" src="/staticfiles/img/social_media_icons/reddit.png">Reddit</a><br><a target="_blank" title="Stumble It!" rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Stumble It!" src="/staticfiles/img/social_media_icons/stumble.png">StumbleUpon</a><br><a target="_blank" title="Tweet About It!" rel="nofollow" href="http://twitter.com/home?status=Privacy and Securityhttp://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Tweet About It!" src="/staticfiles/img/social_media_icons/twitter.png">Twitter</a></td>
+												<td width="50%" class="sharePopup"><a target="_blank" title="Bookmark on del.icio.us" rel="nofollow" href="http://delicious.com/save?url=http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Bookmark on del.icio.us" src="/staticfiles/img/social_media_icons/delicious.png">Delicious</a><br><a target="_blank" title="Submit to Digg" rel="nofollow" href="http://digg.com/submit?url=http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Submit to Digg" src="/staticfiles/img/social_media_icons/digg.png">Digg</a><br><a target="_blank" title="Share on Facebook" rel="nofollow" href="http://www.facebook.com/share.php?u=http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Share on Facebook" src="/staticfiles/img/social_media_icons/facebook.png">Facebook</a><br><a title="Add to Favorites" href="javascript:bookmarksite('/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean', 'http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean')"><img border="0" alt="Add to Favorites" src="/staticfiles/img/social_media_icons/favorites.png">Favorites</a><br><a target="_blank" title="Bookmark on Google" rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Bookmark on Google" src="/staticfiles/img/social_media_icons/google.png">Google</a></td><td></td><td width="50%" class="sharePopup"><a target="_blank" title="Myspace" rel="nofollow" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Privacy and Security&amp;u=http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;l="><img border="0" alt="Myspace" src="/staticfiles/img/social_media_icons/myspace.png">Myspace</a><br><a target="_blank" title="Submit to Reddit" rel="nofollow" href="http://reddit.com/submit?url=http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Submit to Reddit" src="/staticfiles/img/social_media_icons/reddit.png">Reddit</a><br><a target="_blank" title="Stumble It!" rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Stumble It!" src="/staticfiles/img/social_media_icons/stumble.png">StumbleUpon</a><br><a target="_blank" title="Tweet About It!" rel="nofollow" href="http://twitter.com/home?status=Privacy and Securityhttp://esa.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Tweet About It!" src="/staticfiles/img/social_media_icons/twitter.png">Twitter</a></td>
 
 											</tr>
 										</tbody>
@@ -1445,13 +1399,13 @@ document.getElementById('dpmAgency').innerHTML='';
         				 <a target="_blank" href="http://ocp.dc.gov" title="DC Procurement">DC Procurement</a></li>
         				 
         				 <li>
-        				 <a target="_blank" href="http://green.dc.gov/green/site/default.asp" title="Green DC">Green DC</a></li>
+        				 <a target="_blank" href="http://green.dc.gov" title="Green DC">Green DC</a></li>
         				 
         				 <li>
         				 <a target="_blank" href="http://dconecard.dc.gov" title="DC One Card">DC One Card</a></li>
         				 
         				 <li>
-        				 <a target="_blank" href="http://ich.dc.gov/ich/site/default.asp" title="Interagency on Homelessness">Interagency on Homelessness</a></li>
+        				 <a target="_blank" href="http://ich.dc.gov/" title="Interagency on Homelessness">Interagency on Homelessness</a></li>
         				 
         				 <li>
         				 <a target="_blank" href="http://recovery.dc.gov/recovery/site/default.asp" title="Recovery.dc.gov">Recovery.dc.gov</a></li>
@@ -1619,16 +1573,22 @@ document.getElementById('dpmAgency').innerHTML='';
 	</div><!-- End Layout Class -->
   <!--Google Analytics code start -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2638726-1");
-pageTracker._setDomainName("none"); 
-pageTracker._initData();
-pageTracker._trackPageview();
+  <!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2638726-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
 </script>
 <!--Google Analytics code end -->
+<!--USASearch Code Start-->
+<script type="text/javascript">
+  //<![CDATA[
+    var aid = "dcgov";
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "http://search.usa.gov/javascripts/stats.js";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  //]]>
+</script>
+<!--USASearch Code End-->
 	
 	
 
