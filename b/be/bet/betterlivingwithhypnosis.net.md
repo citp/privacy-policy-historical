@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betterlivingwithhypnosis.net privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104180933id_/http%3A//betterlivingwithhypnosis.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterlivingwithhypnosis.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430153700id_/http%3A//betterlivingwithhypnosis.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * * *
 
-[](http://bit.ly/S3yrOr)
+[](http://hypnosis4u.paidforpic.hop.clickbank.net/?tid=netbanner)
 
 * * *
 
@@ -16,7 +16,7 @@
   
 Privacy Policy
 
-Statbrook Associates Inc. ( “us” or "we") take your privacy seriously. Please read the following to learn more about our privacy policy.
+Statbrook Associates LLC. ( “us” or "we") take your privacy seriously. Please read the following to learn more about our privacy policy.
 
 We provide information on products through this website (the “Website”).  We value our users and their concerns about privacy. To this end, we engage in consistent information practices and try to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort. 
 
@@ -78,7 +78,7 @@ _How do I find out more about our information practices?_
 
 If you have any questions about anything in this Privacy Policy, or about our collection of personally identifiable information, or information generally, please contact us as follows:
 
-Statbrook Associates, Inc.  
+Statbrook Associates, LLC  
 P.O. Box 90545  
 Staten Island, NY  10309  
 E-mail: support@betterlivingwithhypnosis.net
@@ -87,7 +87,7 @@ You may also contact us at this address if you think any information we have col
 
 This Privacy Policy was last revised on January 26, 2012.
 
-Copyright © 2012 Statbrook Associates, Inc.  
+Copyright Statbrook Associates LLC.  
 If you have any questions, comments, or feature requests, Call us.   
 Toll Free: (877) 944-9766   
-International: (718) 833-5299 [ Support@betterlivingwithhypnosis.net](mailto:Support@betterlivingwithhypnosis.net)
+International: (702) 430-1196 [ Support@betterlivingwithhypnosis.net](mailto:Support@betterlivingwithhypnosis.net)
