@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrzko.eu privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103053709id_/http%3A//www.wrzko.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrzko.eu privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430040543id_/http%3A//www.wrzko.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - wrzKO - Rapidshare, Netload and Putlocker Links
+# Privacy Policy - wrzKO - Putlocker, Uploaded and Netload Links
 
 **What information do we collect?**  
 We collect information from you when you register on our site or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
