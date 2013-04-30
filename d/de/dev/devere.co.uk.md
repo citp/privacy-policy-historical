@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919093552id_/http%3A//www.devere.co.uk/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430204747id_/http%3A//www.devere.co.uk/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - De Vere Group
 
