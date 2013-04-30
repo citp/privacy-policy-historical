@@ -1,277 +1,279 @@
-> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116001114id_/http%3A//www.unilever.com/resource/cookiepolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430173702id_/http%3A//unilever.com/resource/privacypolicy/index.aspx) for the most accurate reproduction.*
 
-# Cookie policy
+# Unilever privacy policy | Information | Unilever Global
 
-**Last Updated: May 2012**
+## Unilever privacy policy
 
-This Cookie Policy applies to any websites, branded pages on third party platforms (such as Facebook or YouTube), and applications accessed or used through such websites or third party platforms **(“Unilever Sites”)** which are operated by or on behalf of the Unilever group of companies.
+Unilever takes privacy seriously. The following five principles underpin our approach to respecting your privacy:
 
-By using the Unilever Sites, you are consenting to our use of cookies in accordance with this Cookie Policy. If you do not agree to our use of cookies in this way, you should set your browser settings accordingly or not use the Unilever Sites. If you disable the cookies that we use, this may impact your user experience while on the Unilever Sites.
+  1. We value the trust that you place in us by giving us your personal information. We will always use your personal information in a way that is fair and worthy of that trust.
 
-The table below summarises the different types of cookie we use on Unilever Sites, together with their respective purpose and duration (i.e. how long each cookie will remain on your device).
+  2. You are entitled to clear information about how we use your personal information. We shall always be transparent with you about what information we collect, what we do with it, with whom we share it and whom you should contact if you have any concerns.
 
-### What are cookies?
+  3. If you have any concerns about how we use your personal information, we will work with you to promptly resolve those concerns.
 
-Cookies are files or pieces of information that may be stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a Unilever Site. A cookie will usually contain the name of the website from which the cookie has come from, the "lifetime" of the cookie (i.e. how long it will remain on your device), and a value, which is usually a randomly generated unique number.
+  4. We will take all reasonable steps to protect your information from misuse and keep it secure.
 
-### What do we use cookies for?
+  5. We will comply with all applicable data protection laws and regulations and we will co-operate with data protection authorities. In the absence of data protection legislation, we will act in accordance with generally accepted principles governing data protection. 
 
-We use cookies to make the Unilever Sites easier to use and to better tailor the Unilever Sites and our products to your interests and needs. Cookies may also be used to help speed up your future activities and experience on our Sites. We also use cookies to compile anonymous, aggregated statistics that allow us to understand how people use our Sites and to help us improve their structure and content. We cannot identify you personally from this information.
 
-### What types of cookies do we use?
 
-Two types of cookies may be used on the Unilever Sites - "session cookies" and "persistent cookies". Session cookies are temporary cookies that remain on your device until you leave the Unilever Site. A persistent cookie remains on your device for much longer or until you manually delete it (how long the cookie remains on your device will depend on the duration or "lifetime" of the specific cookie and your browser settings).
 
-Some of the pages you visit may also collect information using pixel tags (also called clear gifs) that may be shared with third parties which directly support our promotional activities and website development. For example, website usage information about visitors to Unilever Sites may be shared with our third party advertising agency to better target Internet banner advertisements on our websites. The information is not, however, personally identifiable, although it could be linked to your personal information.
+## Unilever privacy policy
 
-### Cookies used on Unilever Sites
+Last Updated: August 2012
 
- **Type of Cookie**
+Unilever is committed to protecting your privacy and ensuring that your personal information is protected. This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
 
-| 
+### What does this Privacy Policy apply to?
 
- **What do they do?**
+This Privacy Policy applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <http://unilever.com/aboutus/>. This includes information collected offline through our Careline and consumer call centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, branded pages on third party platforms and applications accessed or used through such websites or third party platforms which are operated by or on behalf of the Unilever Group (“Unilever Sites”). This Privacy Policy is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site.  For information about the Unilever Group company responsible for protecting your personal information, see Your privacy rights and who to contact below.
 
-| 
+This Privacy Policy does not apply to:
 
- **Do these cookies collect my personal data / identify me?**  
-  
----|---|---  
-  
-Necessary
+information collected by third party websites, platforms and/or applications (“Third Party Sites”) which we do not control;
 
-| 
+information collected by Third Party Sites which you access via links on Unilever Sites; or
 
-These cookies are essential to make Unilever websites work correctly, they enable you to move around our websites and use our features. Examples include remembering previous actions (e.g. entered text) when navigating back to a page in the same session.
+banners, sweepstakes and other advertisements or promotions on Third Party Sites that we may sponsor or participate in.
 
-| 
+These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites.
 
-These cookies don't identify you as an individual.
+### Your consent
 
-If you do not accept these cookies, it may affect the performance of the website, or parts of it.  
-  
-Performance
+Unilever will not collect, use or disclose your personal information without your consent. In most cases, we will ask for your consent explicitly but, in some cases, we may infer consent from your actions and behaviour. By using a Unilever Site, you are consenting to the relevant Unilever Group company collecting, using and disclosing your personal information in accordance with this Privacy Policy.
 
-| 
+We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Policy.  You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted.  If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Policy.
 
-These cookies help us understand how visitors interact with our websites by providing information about the areas visited, the time spent on the website, and any issues encountered, such as error messages. This helps us improve the performance of our websites.
+If you do not agree to the collection, use and disclosure of your personal information in this way, please do not use the Unilever Sites or otherwise provide Unilever with personal information.
 
-| 
+### Children
 
-These cookies don't identify you as an individual. All data is collected and aggregated anonymously.  
-  
-Functionality
+The majority of Unilever Sites are designed and intended for use by adults.  Where a Unilever Site is intended for use by a younger audience, we will obtain consent from a parent or guardian before we collect personal information where we feel it is appropriate to do so or where it is required by applicable data protection laws and regulations (the age at which consent is necessary varies from country to country).  If you are a child over the age where parental consent is required in your country, you should review the terms of this Privacy Policy with your parent or guardian to make sure you understand and accept them. 
 
-| 
+  If we discover that we have collected information without consent from a parent or guardian where such consent should have been obtained, we will delete that information as soon as possible.
 
-These cookies allow our websites to remember the choices you make (such as your user name, language or the region you are in) to provide a more personalised online experience. They can also enable visitors to watch videos, play games and engage with social tools, such as blogs, chatrooms and forums.
+Access to certain parts of the Unilever Sites and/or eligibility to receive prizes, samples or other rewards may be limited to users over a certain age. We may use your personal information to carry out age verification checks and enforce any such age restrictions.
 
-| 
+### What information do we collect?
 
-The information these cookies collect may include personally identifiable information that you have disclosed, such as your username or profile picture. We shall always be transparent with you about what information we collect, what we do with it and with whom we share it.
+In this Privacy Policy, your "personal information" means information or pieces of information that could allow you to be identified. This typically includes information such as your name, address, screen name, profile picture, email address, and telephone number, but can also include other information such as IP address, shopping habits, preferences and information about your lifestyle or preferences such as your hobbies and interests. We may collect personal information about you from different sources, including:
 
-If you do not accept these cookies, it may affect the performance and functionality of the website and may restrict access to content on the website.  
-  
-Targeting / advertising
+  * Information you give us directly
 
-| 
 
-These cookies are used to deliver content that is more relevant to you and your interests. They may be used to deliver targeted advertising or to limit the number of times you see an advertisement. They also help us measure the effectiveness of advertising campaigns on Unilever and non-Unilever websites.
 
-We may use these cookies to remember websites you have visited and we may share this information with other parties, including advertisers and our agencies.
 
-| 
+We may collect information from you directly when you provide us with personal information, e.g. when you register for prize draws or competitions, sign up to receive information, use applications, buy a product or service from us, fill out a survey, or make a comment or enquiry. The types of information we may collect from you directly include your:
 
-Most types of these cookies track consumers via their [IP address](http://www.techterms.com/definition/ipaddress) so may collect some personal identifiable information. For more information about these cookies, including the information they collect and how this is used, see the Targeting / Advertising section below.  
-  
-### Do we use third party cookies?
+  * name
 
-We use a number of suppliers that may also set cookies on your device on our behalf when you visit the Unilever Sites to allow them to deliver the services they are providing. To get more information about these cookies, as well as information about how to opt-out of receiving such cookies, see the relevant sections below.
+  * address
 
-When you visit the Unilever Sites you may receive cookies from third party websites or domains. We endeavour to identify these cookies before they are used so that you can decide whether or not you wish to accept them. More information about these cookies may be available on the relevant third party's website.
+  * email address
 
-### How can I control or delete cookies?
+  * user name
 
-Most internet browsers are initially set up to automatically accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. There are a number of ways to manage cookies. Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings.
+  * telephone number
 
-If you disable the cookies that we use, this may impact your experience while on the Unilever Sites, for example you may not be able to visit certain areas of a Unilever Site or you may not receive personalised information when you visit a Unilever Site.
+  * credit card or other payment information
 
-If you use different devices to view and access the Unilever Sites (e.g. your computer, smartphone, tablet etc) you will need to ensure that each browser on each device is adjusted to suit your cookie preferences.
+  * age
 
-### More detailed information
+  * date of birth
 
- **Session / temporary:** These cookies are deleted from your device after you leave the website.
+  * gender
 
- **Permanent / persistent:**  These cookies are not deleted from your device after you leave the website. They remain on your device for a longer period of time.
+  * user-generated content, posts and other content you submit to Unilever Sites
 
- **PERFORMANCE**  
-  
----  
-  
- **Cookie used:**
+  * any other person information you voluntarily provide to us
 
-| 
 
- **What does it do?**
 
-| 
 
- **How long does the cookie stay on your device?**
+Information we collect automatically when you use the Unilever Sites
 
-| 
+We use cookies and other tools (such as web analytic tools and pixel tags) to automatically collect information about you when you use Unilever Sites, subject to the terms of this Privacy Policy and applicable data protection laws and regulations.  The types of information we may collect automatically include:
 
- **Cookie Details**  
-  
-Analytics / Tracking
+  * information about the type of browser you use
 
-| 
+  * details of the web pages you have viewed
 
-Provides anonymous / aggregated information about where you go and what you do on Unilever and other websites.
+  * your IP address
 
-| 
+  * the hyperlinks you have clicked
 
-Persistent, session and third party.
+  * your user name, profile picture, gender, networks and any other information you choose to share when using Third Party Sites (such as when you use the “Like” functionality on Facebook or the +1 functionality on Google+)
 
-| 
+  * the websites you visited before arriving at a Unilever Site
 
-Unilever uses the following [Analytics Cookies](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) & [Web Beacons](http://www.allaboutcookies.org/faqs/beacons.html)
 
-  1.  **Unica:** For more [information about how Unica works click here](http://www.ghostery.com/apps/unica)
-  2.  **Google Analytics:** For more [information about Google Analytics click here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
-  3.  **Web Trends:** For more [information about Web Trends click here](http://webtrends.com/privacy-policy/)
-  4.  **Omniture / Site Catalyst:** For more [information about Omniture and Site Catalyst click here](http://www.omniture.com/en/privacy/policy)
-  5.  **YouTube Tracking:** For [more information about YouTube click here](http://www.google.co.uk/intl/en/policies/privacy/)
-  6.  **pixel.quantserve.com (third party cookies):** For [more information about quantserve click here](http://info.evidon.com/companies/quantcast)
-  7.  **Gemius:** For more [information about Gemius click here](http://www.ghostery.com/apps/gemius)
-  8.  **Wordpress Stats:** For more [information about Wordpress Stats](http://www.ghostery.com/apps/wordpress_stats)
 
-  
-  
- **FUNCTIONALITY**  
-  
-Social Media / sharing
 
-| 
+Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you disable the cookies this may impact your experience on Unilever Sites.
 
-Allows you to share comments / ratings/pages / bookmarks and helps to provide access to social networks and social online tools more easily.
+  * Information we collect from other sources
 
-| 
 
-Third Party.
 
-| 
 
- **Add This:** For more [information about Add This click here](http://www.ghostery.com/apps/addthis)
+We may receive personal information about you from other sources if you have given permission for that information to be shared.  This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
- **Facebook:** For more [information about Facebook Connect click here](http://www.ghostery.com/apps/facebook_connect) and for [more information about Facebook social plug-ins click here](http://www.ghostery.com/apps/facebook_social_plugins)
+  * name
 
- **Twitter:** For more [information about Twitter Buttons click here](http://www.ghostery.com/apps/twitter_button) and more [information about Twitter Badge click here](http://www.ghostery.com/apps/twitter_badge)
+  * street address
 
- **YouTube:** For more [information aboutYouTube click here](http://www.google.co.uk/intl/en/policies/privacy/)
+  * age
 
- **LinkedIn:** For more [information about LinkedIn click here](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv)  
-  
-Careers Portal| Remembers your preferences, login details and jobs you are interested in for current and future visits.| Third Party.|  **Oracle:** For more [information about Oracle click here](http://www.oracle.com/us/legal/privacy/index.html)  
-  
- **TARGETING/ADVERTISING**  
-  
-Cross site tracking
+  * your shopping habits
 
-| 
+  * preferences and information about your lifestyle such as your hobbies and interests
 
-Provides anonymous information about visitors, such as the websites they visit before and/or after visiting a Unilever website.
+  * publicly available information such as user-generated content, blogs and postings, as permitted by law
 
-| 
 
-Persistent, session and third party.
 
-| 
 
- **360tag.com:** For more [information about 360tag.com click here](http://www.360tag.com/)
+### How do we use your personal information?   
 
- **admeta.com:** For more [information about admeta.com click here](http://www.admeta.com/?p=for-advertisers/ad-tracking)
 
- **adnxs.com:** For more [information about adnxs.com click here](http://www.appnexus.com/platform-policy)
+We may use your personal information:
 
- **doubleclick.net:** For [more information about doubleclick.net click here](http://www.ghostery.com/apps/doubleclick)
+  * to improve our products and your experience on the Unilever Sites.
 
- **mathtag.com:** For more [information about mathtag.com click here](http://www.mediamath.com/privacy/)
 
- **media6degrees.com:** For more [information about media6degrees.com click here](http://www.ghostery.com/apps/media6degrees)
 
- **Nielsen NetRatings Site Census:** For more information about Nielsen [NetRatings Census](http://www.ghostery.com/apps/netratings_sitecensus) click here
 
- **quisma.com:** For more [information about quisma click here](http://www.ghostery.com/apps/quisma)
+We may use your personal information to:
 
- **specificclick.net:** For more [information about](http://www.ghostery.com/apps/specificclick)[specificclick.net click here](http://www.ghostery.com/apps/specificclick)
+  * evaluate the use of the Unilever Sites, products and services
 
- **undertone.com:** For more [information about Undertone.com click here](http://undertone.com/en-gb/privacy)
+  * analyse the effectiveness of our advertisements, competitions and promotions
 
- **weborama.fr:** For more [information about weborama.fr click here](http://weborama.com/2/page-en-confidentialite.html)  
-  
- **MISCELLANEOUS**  
-  
-Rich Media
+  * personalise your website experience, as well as to evaluate (anonymously and in the aggregate) statistics on website activity, such as what time you visited it, whether you’ve visited it before and what site referred you to it 
 
-| 
+  * make the Unilever Sites easier to use and to better tailor the Unilever Sites and our products to your interests and needs
 
-Support various different parts of functionality on Unilever websites and partner websites such as playing videos, using online voucher codes / loyalty apps and downloading music.
+  * help speed up your future activities and experience on the Unilever Sites. For example, a site can recognise that you have provided your personal information and will not request the same information a second time
 
-| 
+  * collect information about the device you are using to view the Unilever Site, such as your IP address or the type of Internet browser or operating system you are using, and link this to your personal information so as to ensure that each Unilever Site presents the best web experience for you
 
-Persistent, session and third party.
+  * to contact you regarding products and services which may be of interest to you, provided you have given us consent to do so or you have previously requested a product or service from us and the communication is relevant or related to that prior request and made within any timeframes established by applicable laws.
 
-| 
 
- **YouTube:** For more [information about YouTube click here](http://www.google.co.uk/intl/en/policies/privacy/)
 
- **pushexp.com:** For more [information about pushexp.com click here](http://www.pushentertainment.com/info/privacyterms.html)
 
- **telemetryverification.net:**[For more information about telemetryverification.net click here](http://www.telemetryverification.net/)  
-  
-Beacons Domains
+We may use your personal information to:
 
-| 
+  * suggest products or services (including those of relevant third parties) which we think may be of interest to you
 
-Web beacons Support various different parts of functionality on Unilever websites. Web beacons (also known as web bugs / pixel tags/clear GIFs) monitor the behaviour of visitors on websites and can provide information such what users do on websites and user [IP addresses](http://www.techterms.com/definition/ipaddress) to third party companies.
+  * offer you the opportunity to take part in competitions or promotions
 
-| 
 
-Persistent, session and third party.
 
-| 
 
-We use a number of different beacons across Unilever websites, we have provided some examples about some of the most used web beacons work.
+You can opt out of receiving communications from us at any time.  Any direct marketing communications that we send to you will provide you with the information and means necessary to opt out.
 
- **Flashtalking** and **TangoZebra** collects Anonymous data (browser information, operating system, page views) which can be used to provide users with more relevant content and the data can be used to measure popular campaigns / web pages. This aggregated data is shared with third parties.
+  * to provide you with products or services that you request from us.
 
- **Used on Unilever sites such as:**
 
-  * [comfortpure.co.uk](http://comfortpure.co.uk/ "Comfort")
-  * [marmite.co.uk](http://marmite.co.uk/ "Marmite")
 
 
+We may use your personal information:
 
- **Vzaar.com:** is used with flash players to play videos on websites.
+  * for the purposes of competitions or promotions that you have entered
 
- **Used on Unilever sites such as:**
+  * to send you information, products or samples that you have requested
 
-  * [nexttopmodel.tresemme.co.uk](http://nexttopmodel.tresemme.co.uk/ "Tresemme")
+  * to respond to your queries or comments
 
-  
-  
-Other
 
-| 
 
-Support various different parts of functionality on Unilever websites.
 
-| 
+Where we collect personal information for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons.  In order to protect information from accidental or malicious destruction, when we delete information from our services we may not immediately delete residual copies from our servers or remove information from our backup systems.
 
-Persistent, session and third party.
+### Mobile Message Services
 
-| 
+We may make available a service through which you can receive text or other types of messages from Unilever (such as short message service, or SMS, enhanced message service, or EMS, and multimedia message service, or MMS) on your wireless or mobile device (“Mobile Message Service”). If you subscribe to one of our Mobile Message Services, you agree to receive such messages from Unilever at the address or mobile number you provide for that purpose (unless and until you have elected to opt out of receiving such messages by following the instructions in the Your privacy rights and who to contact section below).
 
- **maps.google.com:**  [For more information about maps.google.com click here](http://support.google.com/maps/bin/answer.py?hl=en&answer=153807)
+You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the Your privacy rights and who to contact section below. If fees are charged to your wireless account invoice, you agree that we may collect from you and provide your carrier with your applicable payment information in connection therewith. You represent that you are the owner or authorized user of the wireless device you use to sign up for the Mobile Message Service, and that you are authorized to approve the applicable charges. In addition to meeting certain age restrictions and any other terms and conditions associated with each Mobile Message Service, you may be required to register personal information such as your name, text message, wireless address or mobile phone number. We may also obtain the date, time and content of your messages in the course of your use of the Mobile Message Service. We will use the information we obtain in connection with our Mobile Message Service in accordance with this Privacy Policy. Please note, however, that your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
- **JSESSIONID:**  [For more information about JESSIONID click here](http://en.wikipedia.org/wiki/Session_ID)
+You acknowledge and agree that the Mobile Message Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the Mobile Message Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Mobile Message Service. We may also access the content of your wireless and/or mobile phone account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
+
+### Who do we share your personal information with?
+
+As a general rule, we do not share your personal information with anyone outside of the Unilever Group. However, we may share your personal information with trusted third parties.
+
+We may share your personal information with:
+
+  * our advertising, marketing and promotional agencies to help us deliver and analyse the effectiveness of our advertising campaigns and promotions
+
+  * third parties required to deliver a product or service to you, such as a delivery or postal service delivering a product that you have ordered
+
+  * law enforcement or government authorities where they have followed due legal process to request us to disclose the information
+
+  * third parties who wish to send you information about their products and services, but only if you have given us consent to do so
+
+  * third party providers of services, such as data processing, to Unilever
+
+  * web analytics tool providers, such as Google or Unica
+
+
+
+
+We may also share your personal information with companies, organisations or individuals outside of the Unilever Group if we believe that disclosure of the information is necessary for legal reasons.
+
+We may share your personal information to:
+
+  * enforce applicable terms of use of Unilever Sites
+
+  * conduct investigations into possible breaches of applicable laws
+
+  * detect, prevent and protect against fraud and any technical or security vulnerabilities
+
+  * comply with applicable laws and regulations, co-operate in any legal investigation and meet enforceable governmental requests
+
+
+
+
+If we do share your personal information with a third party, we shall use our best efforts to ensure that they keep your information secure, take all reasonable steps to protect it from misuse and only use it in a manner consistent with this Privacy Policy and applicable data protection laws and regulations.
+
+Unilever does not sell personal information, except to an entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business.
+
+### Transferring your personal information
+
+We may transfer your personal information to servers located outside the country in which you live or to affiliates or other trusted third parties based in other countries so that they may process personal information on our behalf. By using a Unilever Site or otherwise providing Unilever with personal information, you agree to us doing so in accordance with the terms of this Privacy Policy and applicable data protection laws and regulations.
+
+You should be aware that many countries do not afford the same legal protection to personal information as you might enjoy in your country of origin. While your personal information is in another country, it may be accessed by the courts, law enforcement and national security authorities in that country in accordance with its laws. Subject to such lawful access requests, we promise that anyone processing your personal information outside your country of origin is required to implement measures to protect it and is only entitled to process it in accordance with Unilever’s instructions.
+
+### Safeguarding your personal information
+
+We take all reasonable precautions to keep your personal information secure and require any third parties that handle or process your personal information for us to do the same. Access to your personal information is restricted to prevent unauthorised access, modification or misuse and is only permitted among our employees and agents on a need-to-know basis.
+
+### Your privacy rights and who to contact
+
+If you have any questions, comments or concerns about how we handle your personal information, then you may contact us by clicking the Contact Us link on the Unilever Site that directed you to this Privacy Policy.  Alternatively, please go to [www.unilever.com](http://www.unilever.com/), select the appropriate country and click on the Contact Us link. Your request will be directed to the appropriate Unilever group company.
+
+You have the right to tell us if you:
+
+  * don't want to be contacted in the future by us
+
+  * would like a copy of the personal information which we hold about you
+
+  * would like us to correct, update, or delete your personal information in our records
+
+  * wish to report any misuse of your personal information
+
+
+
+
+To assist us in dealing with your request, please provide your full name and details.
+
+### Changes to our Privacy Policy
+
+We may change this Privacy Policy from time to time by posting the updated version of the Privacy Policy on the Unilever Sites. We will give you reasonable notice of any material change. We encourage you to visit frequently to stay informed about how we use your personal information.
+
+### Other Unilever privacy policies
+
+In addition to this Privacy Policy, there may be specific campaigns or promotions which will be governed by additional privacy terms or policies. We encourage you to read these additional terms or policies before participating in any such campaigns or promotions as you will be required to comply with them if you participate. Any additional privacy terms or policies will be made prominently available to you.   
+ 
