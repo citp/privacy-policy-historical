@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcode-info.co.uk privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029154557id_/http%3A//www.postcode-info.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcode-info.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430021726id_/http%3A//www.postcode-info.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - postcode-info.co.uk
 
