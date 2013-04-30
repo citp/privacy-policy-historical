@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215111107id_/http%3A//www.majorgeeks.com/page.php%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430092541id_/http%3A//www.majorgeeks.com/page.php%3Fid%3D5) for the most accurate reproduction.*
 
 # MajorGeeks.com - Download Freeware and Shareware Computer Utilities.
 
@@ -18,10 +18,14 @@ MajorGeeks Top Advertising Partners: (for your convenience)
 [TribalFusion](http://www.tribalfusion.com/) \- Their [Privacy Policy](http://www.exponential.com/who-we-are/privacy-policy.jsp) which alows for and opt-out.   
 [Google](http://www.google.com/) \- Their [Privacy Policy](http://www.google.com/privacy.html) and [opt-out](http://www.google.com/ads/preferences/view)   
 [Vibrant Media](http://www.vibrantmedia.com/) \- Their [Privacy Policy](http://www.vibrantmedia.com/privacy.asp): Vibrant also has an [opt-out Option](http://intellitxt.com/opt_out/ch_optout.asp) if you like.   
+[CrossPixel](http://datadesk.crsspxl.com/) \- Their [Privacy Policy](http://datadesk.crsspxl.com/#/privacy-policy): Vibrant also has an [opt-out Option](http://datadesk.crsspxl.com/optout) if you like.   
 [CleverBridge](http://www.cleverbridge.com/) \- Their [Privacy Policy](http://www.cleverbridge.com/?scope=contact&id=evhd7ETHEs&progress=privacyp)
 
 For demographics, MajorGeeks.com uses [Quantcast](http://www.quantcast.com/) \- Their [Privacy Policy](http://www.quantcast.com/privacy). They also have an [opt-out option](http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out). 
 
 MajorGeeks.com does use other advertising networks, whose privacy policies will always be listed on their respective sites. Many of these comapnies belong to the [Network Advertising Initiative](http://www.networkadvertising.org/). They offer a page where you can select which companies you wish to opt-out of behavioral advertising meathods for it's members. You can find that [HERE](http://www.networkadvertising.org/managing/opt_out.asp#). 
 
-Now drop and give us 10100. 
+Now drop and give us 10100. Like it? Share it... 
+
+  
+
