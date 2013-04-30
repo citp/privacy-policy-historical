@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505181731id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430165830id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CheapFareGuru.com Privacy Policy
 
-********************************
-
-##   Guru Privacy Policy » 
-
-********************************
-
 November 8th, 2008
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20120505181731id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20130430165830id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
   
 
 
@@ -199,34 +193,3 @@ On Off Hours and Weekends, please feel free to [email](mailto:cservice@airtkt.co
 
   
 
-
-********************************
-
-********************************
-
-********************************
-
-##  Free News Letters
-
-********************************
-
-» Please Enter your Email Id
-
-Subscribe to our free weekly Travel Deal newsletter!
-
-We'll send you updates with the latest deals, reviews and articles.
-
-********************************
-
-********************************
-
-Didn't find what you are looking for? Go to our [Flights ](https://web.archive.org/web/20120505181731id_/http%3A//www.cheapfareguru.com/index.php) section to get started booking your trip today.
-
-* Discount is applicable on Unrestricted published airfare of most major scheduled airlines. These offers are good on major airlines to all destinations world wide. All fares are subject to availability.Discount may vary based on availability, season, travel dates, advance notice, minimum maximum stay, black out travel dates and may change without any prior notice.Additional restrictions may apply.   
-This site pays most careful attention in providing information and data, but it does not guarantee the correctness, completeness, and the usefulness of its contents. 
-
-**Coupon Code Offer:**
-
-This offer is on service fees only, the discount varies based on the transaction service fees charged for that ticket, and the value of discount will be up to the amount of the service fees charged for that transaction or the coupon code discount per transaction whichever is less. You must use the coupon code upon check out to avail this offer. This offer may be revised or discontinued without notice. 
-
-Copyright © CheapFareGuru.com. All Rights Reserved. 
