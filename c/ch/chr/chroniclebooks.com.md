@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005052408id_/http%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430091731id_/http%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Chronicle Books
+# Privacy Policy | Chronicle Books, an independent publisher
 
 **Security and Privacy**
 
