@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010110336id_/http%3A//otixo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430134927id_/http%3A//otixo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -10,9 +10,9 @@
 
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/960.css">
-	<link rel="stylesheet" href="css/otixo_website.css?123">
-	<link rel="stylesheet" href="css/otixo_website_v2.css">
-	<link rel="stylesheet" href="css/header_footer_highlight.css">
+	<link rel="stylesheet" href="css/otixo_website.css?944">
+	<link rel="stylesheet" href="css/otixo_website_v2.css?446">
+	<link rel="stylesheet" href="css/header_footer_highlight.css?128">
 
 	<!--[if lte IE 8]>
 		<link rel="stylesheet" href="css/otixo_website_v2_ie8.css" />
@@ -39,24 +39,6 @@
 	</script>
 	<!-- / Google Analytics script -->
 	
-	<script type="text/javascript" charset="utf-8">
-		var is_ssl = ("https:" == document.location.protocol);
-		var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-		document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
-
-	<script type="text/javascript" charset="utf-8">
-		var feedback_widget_options = {};
-		
-		feedback_widget_options.display = "overlay"; 
-		feedback_widget_options.company = "otixo";
-		feedback_widget_options.placement = "left";
-		feedback_widget_options.color = "#222";
-		feedback_widget_options.style = "idea";
-		
-		var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
-	</script>	
-
 	<script type="text/javascript">
 		var appUrl = "https://app.otixo.com/";
 	</script>
@@ -64,6 +46,11 @@
 	<script type="text/javascript" charset="utf-8">
 		
 		$(document).ready(function(){
+		
+			$(".dark-button.disabled").click(function(event) {
+				event.preventDefault();
+			});
+		
 			$('.login_button').click(function(event){
 				event.preventDefault();
 
@@ -203,20 +190,22 @@
 	<a class="grid_3 logo_emboss" href="index.html"></a>
 	<!-- end .grid_3 -->
 	<div class="grid_9 menu_container">
+		<div class="emboss_container">
+			<div class="links_child_container">		
+				<a href="register" class="register_button left_button green">Sign Up</a>
+				<a href="#" class="login_button right_button">Login</a>
+			</div>
+		</div>	
 		<div class="links_parent_container">
 			<a href="/" class="selected">Home</a>
 			<a href="product">Product</a>
 			<!--<a href="kudos">Kudos</a>-->
-			<a href="http://blog.otixo.com">Blog</a>
-			<a href="stories">Users’ Stories</a>
+			<a href="spaces">Spaces</a>		
+			<a href="photixo">Photixo</a>		
+			<!--<a href="http://blog.otixo.com">Blog</a>-->
+			<!--<a href="stories">Users&rsquo; Stories</a>-->
 			<a href="security">Security</a>
 			<a href="pricing">Pricing</a>		
-		</div>
-		<div class="register_login_parent_container">
-			<div class="register_login_child_container">
-				<a href="register" class="register_button">Register</a>
-				<a href="https://app.otixo.com/login.jsp" class="login_button">Login</a>
-			</div>
 		</div>
 	</div>
 	<!-- end .grid_9 -->
@@ -243,7 +232,6 @@
 	<!-- end .container_12 -->
 	<div class="clear"></div>
 </div>
-
 
 <div class="container_12">
 	<h1 class="grid_12 heading">Online Privacy Policy</h1>
@@ -453,19 +441,21 @@
 			<h5 class="grid_6 alpha omega section">Navigation</h5>
 			<div class="grid_6 alpha omega section-separator"></div>
 			<ul class="grid_6 alpha omega links-container">
+				<li class="grid_2 alpha"><a href="register" class="green register-link">Sign Up</a></li>
+				<li class="grid_2 fix"><a href="login" class="green login-link">Login</a></li>	
+				<div class="clear" style="height: 15px"></div>
 				<li class="grid_2 alpha"><a href="/">Home</a></li>
-				<li class="grid_2 fix"><a href="stories">Our Users' Stories</a></li> 
-				<li class="grid_2 omega"><a href="http://otixo.assistly.com/">Support</a></li>
+				<li class="grid_2 fix"><a href="kudos">Press</a></li>
+				<li class="grid_2 omega"><a href="security">Security</a></li>
 				<li class="grid_2 alpha"><a href="product">Product</a></li>
-<!--				<li class="grid_2 fix"><a href="security">Feel Safe In The Cloud</a></li> -->
-				<li class="grid_2 fix"><a href="security">Security</a></li>
-				<li class="grid_2 omega"><a href="license">Terms of Use</a></li>
-				<li class="grid_2 alpha"><a href="kudos">Kudos</a></li>
+				<li class="grid_2 fix"><a href="stories">User Stories</a></li> 
+				<li class="grid_2 omega"><a href="privacy">Privacy</a></li>
+				<li class="grid_2 alpha"><a href="spaces">Spaces</a></li>
 				<li class="grid_2 fix"><a href="pricing">Pricing</a></li>
-				<li class="grid_2 omega"><a href="privacy">Privacy Policy</a></li>
-				<li class="grid_2 alpha"><a href="register" class="green">Register</a></li>
-				<li class="grid_2 fix"><a href="login" class="green">Login</a></li>		
-<!--				<li class="grid_2 omega"><a href="/team">Otixo Team</a></li> -->
+				<li class="grid_2 omega"><a href="license">Terms of Use</a></li>
+				<li class="grid_2 alpha"><a href="photixo">Photixo</a></li>
+				<li class="grid_2 fix">&nbsp;</li>
+				<li class="grid_2 omega"><a href="support">Support</a></li>
 			</ul>	
 		</div>
 		<!-- end .grid_6 -->
@@ -474,7 +464,7 @@
 			<h5 class="grid_3 alpha omega section">Social</h5>
 			<div class="grid_3 alpha omega section-separator"></div>
 			<ul class="grid_3 alpha omega links-container">
-				<li class="grid_3 alpha omega wordpress"><a href="http://blog.otixo.com">Visit Our Blog</a></li>
+				<li class="grid_3 alpha omega wordpress"><a href="blog">Visit Our Blog</a></li>
 				<li class="grid_3 alpha omega twitter"><a href="http://www.twitter.com/otixo">Give Us a Shout</a></li>
 				<li class="grid_3 alpha omega facebook"><a href="http://www.facebook.com/otixo">Otixo Fan Page</a></li> 
 			</ul>	
@@ -484,14 +474,15 @@
 		<div class="grid_3 contact_us">
 			<h5 class="grid_3 alpha omega section">Contact Us</h5>
 			<div class="grid_3 alpha omega section-separator"></div>
-			<ul class="grid_3 alpha omega links-container">
-				<li class="grid_3 alpha omega pin"><p>954 Pearl St.<br>Suite&nbsp;B<br>Boulder,&nbsp;CO&nbsp;80302&nbsp;USA</p></li>
-				<li class="grid_3 alpha omega phone"><p>(720) 334-8496</p></li>
+			<ul class="grid_3 alpha omega links-container" itemscope="" itemtype="http://data-vocabulary.org/Organization"> 
+				<li style="display: none" itemprop="name">Otixo, Inc.
+				</li><li class="grid_3 alpha omega pin"><p itemprop="address" itemscope="" itemtype="http://data-vocabulary.org/Address"><span itemprop="street-address">954 Pearl St.</span><br>Suite B<br><span itemprop="locality">Boulder</span>,&nbsp;CO&nbsp;80302&nbsp;USA<span style="display: none" itemprop="region">Colorado</span></p></li>
+				<li class="grid_3 alpha omega phone"><p itemprop="tel">(720) 334-8496</p><a style="display: none" href="http://www.example.com" itemprop="url">http://otixo.com</a></li>
 				<li class="grid_3 alpha omega mail">
 					<p>
-						<a class="grn" href="info@otixo.com">info@otixo.com</a>
+						<a class="grn" href="mailto:info@otixo.com">info@otixo.com</a>
 						<br>
-						<a class="grn" href="support@otixo.com">support@otixo.com</a>
+						<a class="grn" href="mailto:support@otixo.com">support@otixo.com</a>
 					</p>
 				</li> 
 			</ul>	
@@ -505,7 +496,7 @@
 		<div class="grid_12 bottom_container">
 			<div class="grid_3 alpha">&nbsp;</div>
 			<div class="grid_3 grey_logo"></div>
-			<div class="grid_6 omega copyright_text">Copyright © 2012, Otixo, Inc. All Rights Reserved.</div>
+			<div class="grid_6 omega copyright_text">Copyright © 2013, Otixo, Inc. All Rights Reserved.</div>
 		</div>
 		<!-- end .grid_12 -->
 
