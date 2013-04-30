@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadstime.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227181517id_/http%3A//www.freeadstime.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadstime.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430063928id_/http%3A//www.freeadstime.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Free Ads
 
@@ -25,6 +25,8 @@ This Facebook app may post on your behalf, including ads you posted and more.
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
 The information collected is for statistical purposes. FreeAdsTime.com may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+We may share your posted ads on our social networking pages including Facebook, Google Plus, Twitter, Pinterest and other social networking sites.
 
 For site security purposes and to ensure that this service remains available to all users, FreeAdsTime.com uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
