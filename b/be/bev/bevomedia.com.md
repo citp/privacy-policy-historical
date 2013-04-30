@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bevomedia.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004152838id_/http%3A//bevomedia.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevomedia.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430234415id_/http%3A//www.bevomedia.com/home/privacy-policy) for the most accurate reproduction.*
 
 # The Bevo Media Exchange - The Performance Marketing Exchange For Affiliate Marketing
 
