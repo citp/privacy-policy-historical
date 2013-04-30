@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the 8seasons.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108181143id_/http%3A//www.8seasons.com/privacy.html%3Ftarget%3D%26quot%3B_blank) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8seasons.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501013508id_/http%3A//www.8seasons.com/index.php%3Fmain_page%3Dwho_we_are%26id%3D3) for the most accurate reproduction.*
 
-# Privacy Notice : Beads Wholesale , Wholesale Jewelry Supplies From China Beads Supplier-8seasons.com
+# Who We Are : Beads Wholesale , Wholesale Buttons From China Beads Supplier-8seasons.com
+
+  * [Who We Are](http://www.8seasons.com/index.php?main_page=testimonial)
+  * [About us](http://www.8seasons.com/who-we-are/about-us.html)
+  * [Testimonials](http://www.8seasons.com/index.php?main_page=testimonial)
+  * [Terms and Conditions](http://www.8seasons.com/who-we-are/terms-and-conditions.html)
+  * [Privacy Policy](http://www.8seasons.com/who-we-are/privacy.html)
+  * [Contact Us](http://www.8seasons.com/who-we-are/contact-us.html)
+
+| 
 
 **Safe Shopping and Privacy Policy**
 
@@ -13,4 +22,6 @@ We may use your IP address to help diagnose problems with our server and to admi
 **Popups and Spam**  
 8Seasons does not use any type of pop-up advertising on our web site. Our true feelings about this ugly advertising is that each of us should have the choice whether or not we want to view what is offered.
 
-[8seasons.com](http://www.8seasons.com/) Always Excellent For  [**Beads Wholesale**](http://www.8seasons.com/beads-wholesale-c-43.html),[ **Jewelry Supplies**](http://www.8seasons.com/findings-supplies-charms-c-44.html), **[ **Wholesale Jewelry Supplies**  ](http://www.8seasons.com/findings-supplies-charms-c-44.html).**
+[8seasons.com](http://www.8seasons.com/) Always Excellent For  [Beads Wholesale](http://www.8seasons.com/beads-wholesale-c-43.html), [Jewelry Supplies](http://www.8seasons.com/findings-supplies-charms-c-44.html), [Wholesale Jewelry Supplies](http://www.8seasons.com/findings-supplies-charms-c-44.html).   
+  
+---|---
