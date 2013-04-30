@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712072208id_/http%3A//www.yashi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501001231id_/http%3A//www.yashi.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Yashi
-
-## Privacy
+# Privacy - Yashi Media Video Ad Network
 
 Privacy Policy Statement
 
 This is the web site of Yashi, Inc.
 
 Our postal address is:  
-P.O. Box V  
-Bayville, NJ, 08721
+81 East Water Street  
+Toms River, NJ 08753
 
 We can be reached via [eMail](http://www.yashi.com/contact/ "Contact") or you can reach us by telephone at (800) 979-126. For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
