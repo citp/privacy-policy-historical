@@ -1,0 +1,191 @@
+<!--The following is the downloaded HTML source of the chose.co privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430152543id_/http%3A//www.instaongo.com/home/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<title>Instagram Photo viewer on the Web</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<!-- Bootstrap -->
+<link rel="shortcut icon" href="assets/ico/favicon.png">
+<!-- <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+ --><link href="http://www.instaongo.com/css/bootstrap.css" rel="stylesheet" media="screen">
+<link href="http://www.instaongo.com/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+<link href="http://www.instaongo.com/css/colorbox.css" rel="stylesheet" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script src="http://www.instaongo.com/js/jquery-min-1.8.js"></script>
+<script src="http://www.instaongo.com/js/jquery.infinitescroll.js"></script>
+<script src="http://www.instaongo.com/js/jquery.cookie.js"></script>
+<script src="http://www.instaongo.com/js/jquery.colorbox.js"></script>
+<script src="http://www.instaongo.com/js/insta_api.js"></script>
+<link rel="shortcut icon" href="http://www.instaongo.com//images/favicon.ico">
+
+<link rel="stylesheet" href="http://www.instaongo.com//css/ui-darkness/jquery-ui-1.9.2.custom.min.css">
+<script src="http://www.instaongo.com//js/jquery-ui-1.9.2.custom.min.js"></script>
+
+
+
+<style>
+.ui-autocomplete-loading {
+	background: white url('http://www.instaongo.com/images/input_loader.gif') right center no-repeat;
+}
+</style>
+
+<script>
+$(function() {
+	var cache = {};
+	$( "#search_item" ).autocomplete({
+		minLength: 2,
+		source: function( request, response ) {
+			var term = request.term;
+			if ( term in cache ) {
+				response( cache[ term ] );
+				return;
+			}
+
+			$.getJSON( "http://www.instaongo.com/home/get_search", request, function( data, status, xhr ) {
+				cache[ term ] = data;
+				response( data );
+			});
+		}
+	});
+});
+</script>
+
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="css/all-ie-only.css" />
+<![endif]-->
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="container">
+	<!-- Header Floating Navigation section -->
+	<div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="http://www.instaongo.com/" style="text-decoration:none;"><img src="http://www.instaongo.com//images/insta-ongo-small.png">
+			  <span style="font-size:14px;padding-left:10px;color:#999;">View your Instagram photo feed, likes, followers and more...</span>
+		  </a>
+          <div class="top-menu-rht">
+          	<div class="nav-collapse collapse float-none a-right">
+            <ul class="nav">
+			  <li class="" style="overflow:hidden;width:190px;"><div class="fb-like" data-href="http://www.facebook.com/instaongo" data-send="false" data-width="450" data-show-faces="false"></div></li>
+              <!-- <li class=""><a href="https://www.facebook.com/Instaongo" target="_blank"><img src="http://www.instaongo.com/images/facebook-share.png" /></a></li> -->
+              <li class=""><a href="http://www.instaongo.com/">Home</a></li>
+             
+              <li class=""><a href="http://www.instaongo.com/home/about_us">About us</a></li>
+              <li class=""><a href="http://www.instaongo.com/home/popular">Popular</a></li>
+			  <li class=""><a href="http://www.instaongo.com/home/oauth">Login with Instagram</a></li>			
+              <!-- <li class=""><a href=""></a></li> -->
+              <!-- <li class=""><a href="http://www.instaongo.com/home/search">Advanced Search</a></li> -->
+           
+            </ul>
+
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	<!-- Header Floating Navigation section -->
+
+<!-- Map and Search section -->
+
+	<div style="margin-top:60px;margin-bottom:10px;" class="ads_wrap">
+			<center>
+			<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-2397408534774659";
+			/* Top Ad 728x90 insta */
+			google_ad_slot = "7267191659";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			//-->
+			</script>
+			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			</center>
+		</div>		
+
+
+    <!--light box end-->
+	 <div class="top-space-container">
+
+<h3>PRIVACY POLICY</h3>
+
+
+<p>Privacy Policy for instaongo.com</p>
+
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@instaongo.com.</p>
+
+<p>Our street address is No: 81, Valluvar kottam High Road,  Nungambakkam, Chennai , India – 600 034 and contact us at admin@instaongo.com.</p>
+
+<p>At instaongo.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by instaongo.com and how it is used.</p>
+
+<h4>Log Files</h4>
+<p>Like many other Web sites, instaongo.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+
+<h4>Cookies and Web Beacons</h4>
+instaongo.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.<p></p>
+
+<h4>DoubleClick DART Cookie</h4>
+<p>.:: Google, as a third party vendor, uses cookies to serve ads on instaongo.com.</p>
+<p>.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to instaongo.com and other sites on the Internet.</p>
+<p>.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://google.com/privacy_ads.html</p>
+
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….</p>
+<ul>
+<li>Google Adsense</li>
+<li>Commission Junction</li>
+<li>Widget Bucks</li>
+<li>Adbrite</li>
+<li>Clickbank</li>
+<li>Azoogle</li>
+<li>Linkshare</li>
+<li>Amazon</li>
+<li>Kontera</li>
+</ul>
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on instaongo.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
+
+<p>instaongo.com has no access to or control over these cookies that are used by third-party advertisers.</p>
+
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. instaongo.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+</div>
+   
+</div>
+<div style="clear:both;border-bottom:0px dotted #666;border-top:1px dotted #666; text-align:center; height:50px;padding-top:20px" class="text2">
+	<div style="width:150px;float:left;"><a href="http://www.instaongo.com/home/privacy_policy">Privacy Policy</a></div>
+
+
+	
+	<div style="width:150px;float:right;"><a href="http://www.salzertechnologies.com/">Salzer Technologies</a></div>
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38117149-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+
+</body></html>
