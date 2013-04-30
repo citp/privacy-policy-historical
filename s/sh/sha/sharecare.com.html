@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sharecare.com privacy policy that was archived on 2012-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002210441id_/http%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharecare.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430030521id_/http%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="no-js " lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><!--<![endif]--><head>
 
         <title>Privacy Policy - Sharecare</title>                				<meta name="keywords" content="Privacy Policy">
 <meta name="description" content="Privacy Policy">
 <meta name="title" content="Privacy Policy - Sharecare">
-<meta name="og:image" content="http://www.sharecare.com/images/sc_heart.png">		<meta name="viewport" content="width=1000px">
+<meta name="og:image" content="http://static.sharecare.com/images/sc_heart.png">		<meta name="viewport" content="width=1000px">
         <meta property="og:title" content="Privacy Policy - Sharecare">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.sharecare.com/static/privacypolicy">
@@ -30,7 +30,18 @@
 var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocomplete';    //]]>
 </script>
 <script type="text/javascript" src="http://static.sharecare.com/js/global.js?v=0"></script>
-<script type="text/javascript" src="http://static.sharecare.com/js/libs/fancybox.js?v=0"></script>        <script type="text/javascript" src="http://s.sharecare.com/static/js/SC.js"></script>
+<script type="text/javascript" src="http://static.sharecare.com/js/libs/fancybox.js?v=0"></script>        <script type="text/javascript" charset="utf-8">
+            (function($) {
+                window.SC = (typeof window.SC === 'undefined') ? {} : window.SC;
+                window.SC = $.extend(true, window.SC, {
+                    env: {
+                        appUrl: "http://www.sharecare.com",
+                        staticUrl: "http://s.sharecare.com/static"
+                    }
+                });
+            })(jQuery);
+        </script>
+        <script type="text/javascript" src="http://s.sharecare.com/static/js/SC.js"></script>
         <script type="text/javascript" charset="utf-8">
 
             (function($) {
@@ -61,7 +72,6 @@ var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocompl
         			accountTypeAbbr = "php";
         		 }
 
-                 window.SC = (typeof window.SC === 'undefined') ? {} : window.SC;
                  window.SC = $.extend(true, window.SC, {
                     dataModel: {
                         id: {
@@ -138,26 +148,27 @@ var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocompl
                         pageNameWithoutHttp:{
                             value: "sharecare.com" + location.pathname
                         }
-                    },
-                    env: {
-                        appUrl: "http://www.sharecare.com",
-                        staticUrl: "http://s.sharecare.com/static"
                     }
                 });
-            })(jQuery);
+                            })(jQuery);
 
         </script>
         
         <script type="text/javascript">
         $(function(){
+	
 
 	    var ssoAuthToken = ssoservice.getToken();
-	    $.cookie('ssoAuthToken', ssoAuthToken);
+ 	    $.cookie('ssoAuthToken', ssoAuthToken);
+  	    var ssoLoginRefreshes = $.cookie('ssoLoginRefreshes') || 0;
 
-	    if (ssoservice.isLoggedIn() === true && false === false) {
-                        var origin = window.location.toString();
+ 	    if (ssoservice.isLoggedIn() === true && false === false && ssoLoginRefreshes < 2 && location.pathname != "/" && location.pathname != "/static/terms" && location.pathname != "/static/privacypolicy") {
+ 	 	    $.cookie('ssoLoginRefreshes', ++ssoLoginRefreshes);
+ 	                    var origin = window.location.toString();
             origin += ((origin.indexOf("?") > 0) ? "&" : "?") + "cachebust=" + (Math.random() * 1e12);
             window.location = "/login?origin=" + encodeURIComponent(origin);
+        } else {
+            $.cookie('ssoLoginRefreshes', 1);
         }
 
             $('.exploreCollapse').ajaxify('#exploreTopicsWindow', {
@@ -269,25 +280,37 @@ var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocompl
     <body id="defaultModuleStaticControllerIndexAction">
         <!-- DEBUG: ESI_INCLUDE (enabled): http://www.sharecare.com/header -->
 <div id="fb-root"></div>
+
+<script type="text/javascript">
+    window.SC = window.SC || {};
+    SC.env = SC.env || {};
+    SC.env.esiEnabled = true;
+
+    </script>
+<script src="https://s.sharecare.com/sharecare.js"></script>
+
+<script>document.write('<script src="https://auth.sharecare.com/tools/page.js?response_type=token&client_id=sharecare&cb=' + new Date().getTime() + '' + Math.random()*1e20  + '"><\/script>')</script><script src="https://auth.sharecare.com/tools/page.js?response_type=token&amp;client_id=sharecare&amp;cb=158059714304191093012366003910000"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+<script>
+    
+    WebFont.load({
+        custom: {
+            families: ['Proxima Nova Soft'],
+            urls: ['//s.sharecare.com/static/fonts/proxima-nova-soft.css']
+        }
+    });
+</script><link rel="stylesheet" href="//s.sharecare.com/static/css/esi/header.css" media="screen" type="text/css">
+    <script>window.jQuery || document.write('<script src="//s.sharecare.com/static/js/libs/jquery-1.8.3.min.js"><\/script>')</script><script src="//s.sharecare.com/static/js/libs/jquery-1.8.3.min.js"></script>
+    <script>window.jQuery.fancybox || document.write('<script src="//s.sharecare.com/static/js/standalone/jquery.fancybox.pack.js"><\/script>')</script>
+    <script src="//s.sharecare.com/static/js/plugins/amc-autoSuggest.js"></script>
+    <script src="//s.sharecare.com/static/js/SC.js"></script>
+    <script src="//s.sharecare.com/static/js/esi/header.js"></script>
 <div id="sharecare-header">
-  <script>
-    if(window.location.protocol != 'https:'){
-      document.write('<scr'+'ipt type="text\/javascript" src="http://www.dotfit.com/sharecare.js.aspx"><\/scr'+'ipt>');
-    }
-  </script>
-  <script src="http://sc.ssoservice.com/tools/page.js?response_type=token&amp;client_id=sharecare"></script>
-  <script>window.jQuery || document.write('<script src="//s.sharecare.com/static/js/libs/jquery-1.8.1.min.js"><\/script>')</script><script src="//s.sharecare.com/static/js/libs/jquery-1.8.1.min.js"></script>
-  <script>$.fn.fancybox || document.write('<script src="//s.sharecare.com/static/js/standalone/jquery.fancybox.pack.js"><\/script>')</script>
-  <script src="//s.sharecare.com/static/js/plugins/amc-autoSuggest.js?v=1"></script>
-  <script src="//s.sharecare.com/static/js/esi/header.js?v=1"></script>
-  <link rel="stylesheet" href="//s.sharecare.com/static/css/esi/header.css?v=1" media="screen" type="text/css">
-
-  <script type="text/javascript" src="//s.sharecare.com/static/js/sc1Session.js"></script>
 <div id="top-bar">
-
-  <div class="page-container">
-    <div id="partners-nav">
-      <ul>
+    <div class="page-container">
+        <div id="partners-nav">
+      <ul class="inline-list">
         <li class="selected"><a href="http://www.sharecare.com/" title="Sharecare">Sharecare</a></li>
         <li><a href="http://www.doctoroz.com/" title="The Dr. Oz Show">The Dr. Oz Show</a></li>
         <li><a href="http://www.dailystrength.org/" title="DailyStrength">DailyStrength</a></li>
@@ -298,53 +321,60 @@ var EXTERNAL_SEARCH_AJAX_URL = 'http://www.healthline.com/v2/sharecare/autocompl
 
 
 <div id="utility-nav">
-      <ul>
-            <li>
-              <div id="login-button">
-                <a class="button login-button" href="http://www.sharecare.com/login?origin=">Log In</a>
-              </div>
+            <ul>
+                        <li>
+                            <div id="login-button">
+                                <a class="button login-button" href="//www.sharecare.com/login?origin=">Log In</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a class="button signup-button" href="//www.sharecare.com/register?origin=">Sign Up</a>
+                        </li>
+                    </ul>
+                </div>
+        </div>
+</div><div id="page-head">
 
-            </li>
-            <li>
-              <a class="button signup-button" href="http://www.sharecare.com/register">Sign Up</a>
-            </li>
-          </ul>
+    <div class="page-container">
+
+        <div class="logo">
+                    <a href="//www.sharecare.com" title="Sharecare"><img src="//s.sharecare.com/static/img/logo-sharecare.png" alt="Sharecare"></a>
+                </div>
+            <div id="main-navigation">
+                <ul class="inline-list">
+                    <li><a href="//www.sharecare.com/people" title="Experts &amp; People">Experts &amp; People</a></li>
+                    <li><a href="//www.sharecare.com/topics" title="Topics">Topics</a></li>
+                    <li><a href="//www.sharecare.com/videos/" title="Video">Video</a></li>
+                    <li class="last">
+                        <a href="http://reference.sharecare.com/" title="Health Reference">Health Reference</a>
+                    </li>
+                </ul>
+            </div>
+        <form id="ask-form" action="//www.sharecare.com/search" method="GET" class="clearfix">
+                <fieldset class="last">
+                    <legend>Find expert answers to your health questions</legend>
+                    <div>
+                        <label for="ask-query" class="visuallyhidden">Ask a health related question:</label>
+                        <input type="text" name="query" id="ask-query" class="form-text" value="">
+                    </div>
+                    <div id="ask-submit" class="button large">
+                        <input type="submit" value="Ask">
+                    </div>
+                    <script type="text/javascript">
+
+                var dfpParams = {  };
+
+                if (!!!window.SC === false && !!!window.SC.ads === false) {
+                    SC.ads.showAdTag("862x15","", dfpParams);
+                }
+            </script>
+        </fieldset>
+            </form>
         </div>
 
-    </div>
 </div>
-<div id="page-head">
-  <div class="page-container">
-    <div class="logo">
-      <a href="http://www.sharecare.com" title="Sharecare"><img src="//s.sharecare.com/static/img/logo-sharecare.png" alt="Sharecare"></a>
-    </div>
-    <div id="main-navigation">
-      <ul>
-        <li><a href="http://www.sharecare.com/people" title="Experts &amp; People">Experts &amp; People</a></li>
-        <li><a href="http://www.sharecare.com/topics" title="Topics">Topics</a></li>
-        <li><a href="http://www.sharecare.com/videos" title="Video">Video</a></li>
-        <li><a href="http://reference.sharecare.com/" title="Health Reference">Health Reference</a></li>
-      </ul>
-    </div>
-    <form id="ask-form" action="http://www.sharecare.com/search" method="GET">
-      <fieldset>
-        <div>
-          <label for="ask-query" class="visuallyhidden">Ask a health related question:</label>
-          <input type="text" placeholder="Get expert answers to your health questions." name="query" id="ask-query" class="form-text">
-
-          <script type="text/javascript">
-    if (!!!window.SC === false && !!!window.SC.ads === false) {
-        SC.ads.showAdTag("862x15","");
-    }
-</script></div>
-        <div>
-          <input type="submit" id="ask-submit" value="Ask">
-        </div>
-      </fieldset>
-    </form>
-  </div>
 </div>
-</div>        <div id="headerWrapper">
+        <div id="headerWrapper">
             <div id="topContent">
                                 </div><!-- /topContent -->
 
@@ -543,57 +573,57 @@ For example, if you choose to watch an educational video available on our websit
 
 	    <!-- DEBUG: ESI_INCLUDE (enabled): http://www.sharecare.com/footer -->
 <div id="sharecare-footer">
-  <div id="footer">
-    <div class="page-container">
-      <div id="about-section" class="section">
-        <h3>About</h3>
-        <ul>
-          <li><a href="http://www.sharecare.com/static/about">About Sharecare</a></li>
-          <li><a href="http://www.sharecare.com/static/partners">Featured Experts</a></li>
-          <li><a href="http://www.sharecare.com/static/editorialadvisoryboard">Editorial Advisory Board</a></li>
-          <li><a href="http://www.sharecare.com/static/pressreleases">Press Releases</a></li>
-        </ul>
-      </div>
-      <div id="legal-section" class="section">
-        <h3>Legal</h3>
-        <ul>
-          <li><a href="http://www.sharecare.com/static/privacypolicy" rel="nofollow">Privacy Policy</a></li>
-          <li><a href="http://www.sharecare.com/static/terms" rel="nofollow">Terms of Use</a></li>
-          <li><a href="http://www.sharecare.com/static/contentpolicy" rel="nofollow">Content Policy</a></li>
-          <li><a href="http://www.sharecare.com/static/legal" rel="nofollow">Legal</a></li>
-        </ul>
-      </div>
-      <div id="contact-section" class="section">
-        <h3>Contact Us</h3>
-        <ul>
-          <li><a href="http://www.sharecare.com/professional">Become an Expert</a></li>
-          <li><a href="http://www.sharecare.com/static/contact">Contact Us</a></li>
-          <li><a href="http://www.sharecare.com/static/help" rel="nofollow">Support</a></li>
-          <li><a href="http://www.sharecare.com/static/sitemap">Site Map</a></li>
-        </ul>
-      </div>
-      <div id="follow-section" class="section">
-        <h3>Follow Us</h3>
-        <ul>
-          <li><a href="http://www.facebook.com/SharecareNow">Facebook</a></li>
-          <li><a href="http://www.twitter.com/SharecareNow">Twitter</a></li>
-          <li><a href="http://widget.sharecare.com/widget">Widget</a></li>
-          <li><a href="http://blog.sharecare.com">Blog</a></li>
-        </ul>
-      </div>
-      <div id="logo-section" class="section">
-        <a href="http://www.sharecare.com/" title="Sharecare"><img src="//s.sharecare.com/static/img/logo-sharecare-reverse.png" alt="Sharecare"></a>
-      </div>
-      <p>All Content Posted on This Site is the Responsibility of the Party Posting Such Content. Participation on
-        This Site by a Party Does not Imply Endorsement of any Other Party’s Content, Products, or Services. Content
-        Should not be Used for Medical Advice, Diagnosis, or Treatment. see Additional Information.</p>
+    <div id="footer">
+        <div class="page-container">
+            <div id="about-section" class="section">
+                        <h3>About</h3>
+                        <ul class="block-list">
+                            <li><a href="//www.sharecare.com/static/about">About Sharecare</a></li>
+                            <li><a href="//www.sharecare.com/static/partners">Featured Experts</a></li>
+                            <li><a href="//www.sharecare.com/static/editorialadvisoryboard">Editorial Advisory Board</a></li>
+                            <li><a href="//www.sharecare.com/static/pressreleases">Press Releases</a></li>
+                        </ul>
+                    </div>
+                    <div id="legal-section" class="section">
+                        <h3>Legal</h3>
+                        <ul class="block-list">
+                            <li><a href="//www.sharecare.com/static/privacypolicy" rel="nofollow">Privacy Policy</a></li>
+                            <li><a href="//www.sharecare.com/static/terms" rel="nofollow">Terms of Use</a></li>
+                            <li><a href="//www.sharecare.com/static/contentpolicy" rel="nofollow">Content Policy</a></li>
+                            <li><a href="//www.sharecare.com/static/legal" rel="nofollow">Legal</a></li>
+                        </ul>
+                    </div>
+                    <div id="contact-section" class="section">
+                        <h3>Contact Us</h3>
+                        <ul class="block-list">
+                            <li><a href="//www.sharecare.com/professional">Become an Expert</a></li>
+                            <li><a href="//www.sharecare.com/static/contact">Contact Us</a></li>
+                            <li><a href="//www.sharecare.com/static/help" rel="nofollow">Support</a></li>
+                            <li><a href="//www.sharecare.com/static/sitemap">Site Map</a></li>
+                        </ul>
+                    </div>
+                    <div id="follow-section" class="section">
+                        <h3>Follow Us</h3>
+                        <ul class="block-list">
+                            <li><a href="http://www.facebook.com/Sharecare">Facebook</a></li>
+                            <li><a href="http://www.twitter.com/SharecareNow">Twitter</a></li>
+                            <li><a href="http://widget.sharecare.com/widget">Widget</a></li>
+                            <li><a href="http://blog.sharecare.com">Blog</a></li>
+                        </ul>
+                    </div>
+                    <div id="logo-section" class="section">
+                        <a href="http://www.sharecare.com/" title="Sharecare"><img src="//s.sharecare.com/static/img/logo-sharecare-reverse.png" alt="Sharecare"></a>
+                    </div>
+                    <p>All Content Posted on This Site is the Responsibility of the Party Posting Such Content. Participation on
+                        This Site by a Party Does not Imply Endorsement of any Other Party’s Content, Products, or Services. Content
+                        Should not be Used for Medical Advice, Diagnosis, or Treatment. see Additional Information.</p>
+                </div>
     </div>
-  </div>
 </div>
 
 	                 <!-- SiteCatalyst code version: H.25. Copyright 1996-2012 Adobe, Inc. All Rights Reserved -->
             <script language="JavaScript" type="text/javascript"><!--
-                s.pageName="sharecare.com\/static\/privacypolicy";s.eVar33="sharecare.com\/static\/privacypolicy";s.channel="static";s.eVar34="static";s.server="domU-12-31-38-04-F4-33";s.prop1="static";s.eVar1="static";s.prop8="unregistered";s.eVar8="unregistered";s.eVar36="non";
+                s.pageName="sharecare.com\/static\/privacypolicy";s.eVar33="sharecare.com\/static\/privacypolicy";s.channel="static";s.eVar34="static";s.server="server-482";s.prop1="static";s.eVar1="static";s.prop53="static";s.prop54="server-482";s.prop8="unregistered";s.eVar8="unregistered";s.eVar36="non";
                 s.prop26 = "Privacy Policy - Sharecare";
                 s.eVar26 = s.prop26;
                 s.eVar21 = s.prop21;
