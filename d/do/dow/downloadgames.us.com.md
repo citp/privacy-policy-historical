@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadgames.us.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218153250id_/http%3A//downloadgames.us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadgames.us.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430220000id_/http%3A//downloadgames.us.com/privacy-policy) for the most accurate reproduction.*
 
 # | downloadgames.us.comdownloadgames.us.com
 
@@ -181,5 +181,3 @@ San Francisco, CA 94104
 Last Updated: October 1, 2012
 
 #### Want More Fun? Browse Download Games!
-
-DownloadGames.us.com    |   268 Bush Street #3040, San Francisco, CA 94014   |   (415) 817-9901 
