@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dex-digital.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030120018id_/http%3A//dexdigital.com/docs/Privacy_Policy_for_Dex-Digital_com_Updated_March_27_2012.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dex-digital.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430120116id_/http%3A//www.dexdigital.com/docs/Privacy_Policy_for_Dex-Digital_com_Updated_March_27_2012.pdf) for the most accurate reproduction.*
 
 # •
 
