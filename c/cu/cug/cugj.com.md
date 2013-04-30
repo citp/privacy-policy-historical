@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cugj.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055825id_/http%3A//directory.cugj.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cugj.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430231702id_/http%3A//directory.cugj.com/privacy.html) for the most accurate reproduction.*
 
 # CUGJ
 
