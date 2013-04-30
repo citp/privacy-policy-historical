@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225200549id_/http%3A//www.mypersonalfinancejourney.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430203410id_/http%3A//www.mypersonalfinancejourney.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
@@ -38,15 +38,15 @@ _Collection of non-personally-identifiable information by third parties_  - Th
 
  _E-mail Subscriptions_  - This website’s feed services collect the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. Individual information about subscribers to this website’s feed is held in strict confidence; we will not release or disclose any specific subscriber information under any circumstances, unless required by law. Aggregated information stripped of any personally identifiable information may be disclosed.
 
- _Web Server Traffic_  - This website records information about how people access this website. This includes things such as your IP address (or DNS), your browser, and your operating system. We do not and will not use this information to track down any personally identifiable information about you, unless required by law.
+_Web Server Traffic_  - This website records information about how people access this website. This includes things such as your IP address (or DNS), your browser, and your operating system. We do not and will not use this information to track down any personally identifiable information about you, unless required by law.
 
- _Comments_  - Comments submitted to this website are the responsibility of the commenter. We reserve the right to remove or edit comments at our discretion. Site URLs (if provided) are published along with comments. E-mail addresses are required with the submission of comments but are not disclosed, unless the commenter deliberately does so him/herself by entering the e-mail address in the main comment box in addition to the box clearly labeled for the e-mail address.
+_Comments_  - Comments submitted to this website are the responsibility of the commenter. We reserve the right to remove or edit comments at our discretion. Site URLs (if provided) are published along with comments. E-mail addresses are required with the submission of comments but are not disclosed, unless the commenter deliberately does so him/herself by entering the e-mail address in the main comment box in addition to the box clearly labeled for the e-mail address.
 
- _E-mail_  - E-mail sent to the site either through the contact form or directly to the owner in connection with this site is considered property of this site, and questions or tips may be published at the owner’s option. In such cases, this website will not disclose any personally identifying information, unless required to by law.
+_E-mail_  - E-mail sent to the site either through the contact form or directly to the owner in connection with this site is considered property of this site, and questions or tips may be published at the owner’s option. In such cases, this website will not disclose any personally identifying information, unless required to by law.
 
- _External Links_  - The web site contains links to other websites not owned by the owner of this website. We will not, and cannot, control how your personal information is used on these other websites. Consult the privacy policies of the linked websites to see how they use your information.
+_External Links_  - The web site contains links to other websites not owned by the owner of this website. We will not, and cannot, control how your personal information is used on these other websites. Consult the privacy policies of the linked websites to see how they use your information.
 
- **Disclaimer for  <http://www.mypersonalfinancejourney.com/>**
+**Disclaimer for  <http://www.mypersonalfinancejourney.com/>**
 
 The information contained within MyPersonalFinanceJourney.com is for general information and does not constitute professional financial advice. The contents represent individual opinions (although, they are usually well-informed and logical). Any information you use from this site is used entirely at your own risk, and the site owners and operators specifically disclaim all warranties, express, implied or statutory, regarding the accuracy, timeliness, and/or completeness of the information contained herein, as well as its suitability to any particular need. Please [contact us](http://www.mypersonalfinancejourney.com/p/contact-me.html) directly to schedule a consultation if you require advice regarding your specific situation.  
   
@@ -55,7 +55,7 @@ The information contained within MyPersonalFinanceJourney.com is for general inf
 
 This blog is a personal blog written and edited by me. For questions about this blog, please contact  [Jacob@mypersonalfinancejourney.com](mailto:Jacob@mypersonalfinancejourney.com).
 
-This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+This blog accepts forms of cash advertising, sponsorship, paid insertions, affiliate programs, or other forms of compensation.
 
 The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
 
