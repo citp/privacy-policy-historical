@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adora.us privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054759id_/http%3A//directory.adora.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adora.us privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430174710id_/http%3A//directory.adora.us/privacy.html) for the most accurate reproduction.*
 
 # Adora Web Directory
 
