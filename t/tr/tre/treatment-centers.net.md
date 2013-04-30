@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116185402id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430093504id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
 
 # Treatment-Centers.net
 
@@ -52,10 +52,10 @@ When you browse through any website, certain information about your visit can be
 
 We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you. 
 
-**Personally Provided Information:**   
+**Personally Provided Information:**  
 You do not have to give us personal information to visit our web sites. If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., this information will be held in the strictest confidence internally and will be restricted on a “need to know” basis. This information is not shared externally for any reason, unless you have given specific consent to do so.
 
-**Disclosure:**   
+**Disclosure:**  
 This organization does not disclose, give, sell or transfer any personal information about our visitors, unless specifically required for law enforcement or statute.  
   
 CONFIDENTIALITY & SECURITY POLICY  
@@ -70,7 +70,7 @@ NOTICE OF HEALTH INFORMATION PRACTICES
   
 This notice describes how information about our client/patient may be used and/or disclosed and how this information is accessed. Please review it carefully.
 
-**Understanding Your Health Record/Information:**   
+**Understanding Your Health Record/Information:**  
 Each time you visit a health care facility, physician, or other healthcare provider, a record of your visit is made. Typically, this record contains information about your health history, symptoms, examination and test results, diagnoses, treatment, and a plan for future care or treatment. This information, often referred to as your client/patient or medical record, serves as a: 
 
   * Basis for planning your care and treatment.
@@ -88,7 +88,7 @@ Understanding what is in your record and how your health information is used hel
   * Better understand who, what, when, where and why others may access your health information, especially in the event that you did not sign a specified authorization to do so.
   * Make more informed decisions when authorizing disclosure to others.
 
-**Your Health Information Rights:**   
+**Your Health Information Rights:**  
 Although your health record is the physical property of the healthcare practitioner or facility that compiled it, the information belongs to you. You have the right to: 
 
   * Request a restriction on certain uses and disclosures of your information as provided by 45 CFR 164.522 and 42 CFR, Chapter 1, Part 2.
@@ -99,7 +99,7 @@ Although your health record is the physical property of the healthcare practitio
   * Request communications of your health information by alternative means or at alternative locations.
   * Revoke your authorization to use or disclose health information, except to the extent that action has already been taken based on a previous authorization.
 
-**Our Responsibilities:**   
+**Our Responsibilities:**  
 This organization is required to: 
 
   * Maintain the privacy of your health information.
