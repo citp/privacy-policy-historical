@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dineshbakshi.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004112111id_/http%3A//www.dineshbakshi.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dineshbakshi.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430133139id_/http%3A//www.dineshbakshi.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.dineshbakshi.com/privacy-policy">
@@ -12,10 +12,113 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy</title>
   <link href="/templates/cloudbase/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://www.dineshbakshi.com/modules/mod_dropin/dropstyles/red.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_pgt_socialweb/mod_pgt_socialweb.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_phoca_facebook_comments/assets/style.css" type="text/css">
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script language="javascript" type="text/javascript">
+
+// Drop-in content box- By Dynamic Drive
+// For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+// This credit MUST stay intact for use
+// Modifications by WebsiteDons.com - Autohide, Frequency re-configuration
+
+var freq="5"
+var autohide=["yes", 15]
+
+if (parseInt(freq)!=NaN)
+var random_num=Math.floor(Math.random()*freq)
+
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+
+var bouncelimit="32"
+var direction="up"
+
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById("dropin").style : ie? document.all.dropin : document.dropin
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
+autoclose()
+}
+
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+autoclose()
+}
+}
+
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+autoclose()
+}
+}
+
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+
+function autoclose(){
+if (autohide[0]=="yes"){
+setTimeout("dismissbox()", autohide[1]*1000)
+}
+}
+
+function dropwin(){
+bouncelimit=32
+direction="up"
+initbox()
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+if (freq=="oncepersession" && get_cookie("dropinmod")=="" || freq=="always" || parseInt(freq)!=NaN && random_num==0){
+if (document.getElementById || document.all)
+window.onload=initbox
+
+if (freq=="oncepersession")
+document.cookie="dropinmod=yes"
+
+if (freq=="never")
+initibox()
+}
+
+</script>
   <script type="text/javascript">
 function MySpaceGetThis(U)
 {
@@ -158,10 +261,10 @@ var tmplurl='http://www.dineshbakshi.com/templates/cloudbase';
 </div></div></li><li class="mega last"><a href="/igcse-gcse-economics/economics-news-articles" class="mega last" id="menu153" title="Economics News Articles"><span class="menu-title">Economics News Articles</span></a></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/as-a-level-economics" class="mega haschild" id="menu135" title="A-Level Economics"><span class="menu-title">A-Level Economics</span><span class="menu-desc">Economics made easy</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/as-a-level-economics/basic-economic-ideas" class="mega first" id="menu134" title="Basic Economic Ideas"><span class="menu-title">Basic Economic Ideas</span></a></li><li class="mega"><a href="/as-a-level-economics/price-system-theory-of-firm" class="mega" id="menu141" title="Price System-Theory of firm"><span class="menu-title">Price System-Theory of firm</span></a></li><li class="mega"><a href="/as-a-level-economics/government-intervention-in-price-systems" class="mega" id="menu195" title="Government intervention in price systems"><span class="menu-title">Government intervention in price systems</span></a></li><li class="mega last"><a href="/as-a-level-economics/international-trade" class="mega last" id="menu209" title="International Trade"><span class="menu-title">International Trade</span></a></li></ul></div></div>
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/as-a-level-economics/basic-economic-ideas" class="mega first" id="menu134" title="Basic Economic Ideas"><span class="menu-title">Basic Economic Ideas</span></a></li><li class="mega"><a href="/as-a-level-economics/price-system-theory-of-firm" class="mega" id="menu141" title="Price System-Theory of firm"><span class="menu-title">Price System-Theory of firm</span></a></li><li class="mega"><a href="/as-a-level-economics/government-intervention-in-price-systems" class="mega" id="menu195" title="Government intervention in price systems"><span class="menu-title">Government intervention in price systems</span></a></li><li class="mega"><a href="/as-a-level-economics/international-trade" class="mega" id="menu209" title="International Trade"><span class="menu-title">International Trade</span></a></li><li class="mega"><a href="/as-a-level-economics/macroeconomy-theory-and-measurement" class="mega" id="menu217" title="Macroeconomy- Theory and Measurement"><span class="menu-title">Macroeconomy- Theory and Measurement</span></a></li><li class="mega"><a href="/as-a-level-economics/macroeconomic-problem" class="mega" id="menu218" title="Macroeconomic problem"><span class="menu-title">Macroeconomic problem</span></a></li><li class="mega last"><a href="/as-a-level-economics/macroeconomics-policies" class="mega last" id="menu219" title="Macroeconomics policies"><span class="menu-title">Macroeconomics policies</span></a></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/ib-economics" class="mega haschild" id="menu163" title="IB Economics"><span class="menu-title">IB Economics</span><span class="menu-desc">Economics is fun!!</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/ib-economics/unit-1-introduction-to-economics" class="mega first" id="menu165" title="Introduction to Economics"><span class="menu-title">Introduction to Economics</span></a></li><li class="mega"><a href="/ib-economics/microeconomics" class="mega" id="menu168" title="Microeconomics"><span class="menu-title">Microeconomics</span></a></li><li class="mega"><a href="/ib-economics/macroeconomics" class="mega" id="menu197" title="Macroeconomics"><span class="menu-title">Macroeconomics</span></a></li><li class="mega last"><a href="/ib-economics/international-economics" class="mega last" id="menu203" title="International Economics"><span class="menu-title">International Economics</span></a></li></ul></div></div>
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/ib-economics/unit-1-introduction-to-economics" class="mega first" id="menu165" title="Introduction to Economics"><span class="menu-title">Introduction to Economics</span></a></li><li class="mega"><a href="/ib-economics/microeconomics" class="mega" id="menu168" title="Microeconomics"><span class="menu-title">Microeconomics</span></a></li><li class="mega"><a href="/ib-economics/macroeconomics" class="mega" id="menu197" title="Macroeconomics"><span class="menu-title">Macroeconomics</span></a></li><li class="mega"><a href="/ib-economics/international-economics" class="mega" id="menu203" title="International Economics"><span class="menu-title">International Economics</span></a></li><li class="mega last"><a href="/ib-economics/development-economics" class="mega last" id="menu213" title="Development Economics"><span class="menu-title">Development Economics</span></a></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="/ap-economics" class="mega haschild" id="menu204" title="AP Economics"><span class="menu-title">AP Economics</span><span class="menu-desc">Advance Placement</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/ap-economics/ap-microeconomics" class="mega first" id="menu205" title="AP Microeconomics"><span class="menu-title">AP Microeconomics</span></a></li><li class="mega last"><a href="/ap-economics/ap-macroeconomics" class="mega last" id="menu206" title="AP Macroeconomics"><span class="menu-title">AP Macroeconomics</span></a></li></ul></div></div>
@@ -225,15 +328,18 @@ var tmplurl='http://www.dineshbakshi.com/templates/cloudbase';
 </div></div></li><li class="mega haschild"><a href="/free-resources-for-teachers" class="mega haschild" id="menu183" title="Resources"><span class="menu-title">Resources</span><span class="menu-desc">other resources</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/free-resources-for-teachers/mind-maps" class="mega first" id="menu188" title="Mind Maps"><span class="menu-title">Mind Maps</span></a></li><li class="mega"><a href="/free-resources-for-teachers/crosswords" class="mega" id="menu184" title="Crosswords"><span class="menu-title">Crosswords</span></a></li><li class="mega"><a href="/free-resources-for-teachers/gap-fills" class="mega" id="menu185" title="Gap Fills"><span class="menu-title">Gap Fills</span></a></li><li class="mega last"><a href="/free-resources-for-teachers/word-search-quiz" class="mega last" id="menu186" title="Word Search Quiz"><span class="menu-title">Word Search Quiz</span></a></li></ul></div></div>
-</div></div></li><li class="mega last haschild"><a href="/powerpoints" class="mega last haschild" id="menu198" title="PowerPoints"><span class="menu-title">PowerPoints</span><span class="menu-desc">Presentations</span></a><div class="childcontent cols1 ">
+</div></div></li><li class="mega haschild"><a href="/powerpoints" class="mega haschild" id="menu198" title="PowerPoints"><span class="menu-title">PowerPoints</span><span class="menu-desc">Presentations</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/powerpoints/microeconomics" class="mega first" id="menu200" title="Microeconomics"><span class="menu-title">Microeconomics</span></a></li><li class="mega last"><a href="/powerpoints/macroeconomics" class="mega last" id="menu201" title="Macroeconomics"><span class="menu-title">Macroeconomics</span></a></li></ul></div></div>
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/powerpoints/microeconomics" class="mega first" id="menu200" title="Microeconomics"><span class="menu-title">Microeconomics</span></a></li><li class="mega"><a href="/powerpoints/macroeconomics" class="mega" id="menu201" title="Macroeconomics"><span class="menu-title">Macroeconomics</span></a></li><li class="mega last"><a href="/powerpoints/international-economics" class="mega last" id="menu211" title="International Economics"><span class="menu-title">International Economics</span></a></li></ul></div></div>
+</div></div></li><li class="mega last haschild"><a href="https://play.google.com/store/apps/developer?id=dineshbakshi.com" target="_blank" class="mega last haschild" id="menu212" title="MOBILE APPS"><span class="menu-title">MOBILE APPS</span><span class="menu-desc">&nbsp;</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="https://play.google.com/store/apps/details?id=com.appbuilder.u120541p361748&amp;hl=en" target="_blank" class="mega first" id="menu214" title="IGCSE Business studies app"><span class="menu-title">IGCSE Business studies app</span></a></li><li class="mega"><a href="https://play.google.com/store/apps/details?id=com.appbuilder.u120541p362449&amp;hl=en" target="_blank" class="mega" id="menu215" title="IB Economics Android app"><span class="menu-title">IB Economics Android app</span></a></li><li class="mega last"><a href="https://chrome.google.com/webstore/detail/dineshbakshicom/jboikdjimejpecgloehbndpbpbonphla?utm_source=chrome-ntp-icon" target="_blank" class="mega last" id="menu216" title="dineshbakshi.com Chrome app"><span class="menu-title">dineshbakshi.com Chrome app</span></a></li></ul></div></div>
 </div></div></li></ul>
 </div>			<script type="text/javascript">
 			var megamenu = new jaMegaMenuMoo ('ja-mainnav', {
 				'bgopacity': 0, 
 				'delayHide': 1000, 
-				'slide': 1, 
+				'slide': 0, 
 				'fading': 1,
 				'direction':'down',
 				'action':'mouseover',
@@ -433,29 +539,6 @@ google_ui_features = "rc:0";
 		
 			</div>
 
-		<div class="ja-mass ja-mass-bottom clearfix">
-			<div class="ja-moduletable moduletable_hot  clearfix" id="Mod97">
-						<div class="ja-box-ct clearfix">
-		<div class="bannergroup_hot">
-
-<div class="banneritem_hot"><script type="text/javascript" src="http://hosting.conduit.com/Banners/Fly/?ctid=CT2346332&amp;BannerType=FlyOver1&amp;setup=true&amp;culture=en"></script> <script type="text/javascript">__FlyOver();</script><div class="clr"></div>
-	</div>
-
-</div>		</div>
-    </div>
-		<div class="ja-moduletable moduletablebadge badge-hot  clearfix" id="Mod247">
-		<span class="badge">&nbsp;</span>
-				<div class="ja-box-ct clearfix">
-		<div class="bannergroupbadge badge-hot">
-
-	<div class="bannerheader">Advertisement</div>
-<div class="banneritembadge badge-hot"><a href="/component/banners/click/20" target="_blank"><img src="http://www.dineshbakshi.com/images/banners/banner728x90.gif" alt="Banner"></a><div class="clr"></div>
-	</div>
-
-</div>		</div>
-    </div>
-	
-	</div>
 	
 </div>
 </div>
@@ -511,21 +594,10 @@ google_ad_height = 600;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>		</div>
     </div>
-		<div class="ja-moduletable moduletablebadge badge-hot  clearfix" id="Mod248">
-		<span class="badge">&nbsp;</span>
-				<h3><span>Advertisement</span></h3>
-				<div class="ja-box-ct clearfix">
-		<div class="bannergroupbadge badge-hot">
-
-<div class="banneritembadge badge-hot"><a href="/component/banners/click/21" target="_blank"><img src="http://www.dineshbakshi.com/images/banners/180x180banner.png" alt="Banner"></a><div class="clr"></div>
-	</div>
-
-</div>		</div>
-    </div>
 		<div class="ja-moduletable moduletable_green  clearfix" id="Mod84">
 						<h3><span>Who's online</span></h3>
 				<div class="ja-box-ct clearfix">
-		 We have&nbsp;99 guests&nbsp;online		</div>
+		 We have&nbsp;252 guests&nbsp;online		</div>
     </div>
 		<div class="ja-moduletable moduletable_badge badge-hot  clearfix" id="Mod257">
 		<span class="badge">&nbsp;</span>
@@ -537,9 +609,7 @@ google_ad_height = 600;
 .tz_readmore { text-align:right !important; }
 .tz_post { font-size:90%; font-style:italic; text-align:right !important; color:#135CAE; }
 </style>
-<div class="tz_header">This is what our visitors have to say...</div><div class="tz_comment">thanxs for clearing my doubts . 
-awesome notes and resources
-:D <div class="tz_post">Khooshnoor - 2 Oct 2012 </div></div><div class="tz_comment">Very Helpful :D <div class="tz_post">RON - 22 Sep 2012 </div></div><div class="tz_readmore"><a href="http://www.dineshbakshi.com/testimonials">Read more</a></div><div class="tz_footer">We thank all our visitors for continued support!!</div>		</div>
+<div class="tz_header">This is what our visitors have to say...</div><div class="tz_comment">it  is  very  helpful  to  my  studies  and  also  help  to  easily  pi-cup  to  topic.  it  is  better  then  other  website   thank  you <div class="tz_post">arthika - 25 Apr 2013 </div></div><div class="tz_comment">Your website really helpful for my igcse preparation! Thanks mr Dinesh <div class="tz_post">William Alexander - 17 Apr 2013 </div></div><div class="tz_readmore"><a href="http://www.dineshbakshi.com/testimonials">Read more</a></div><div class="tz_footer">We thank all our visitors for continued support!!</div>		</div>
     </div>
 		<div class="ja-moduletable moduletable  clearfix" id="Mod276">
 						<div class="ja-box-ct clearfix">
@@ -573,24 +643,24 @@ awesome notes and resources
 		<td>
 			<ul class="newsfeed_red">
 							<li>
-									<a href="http://www.bbc.co.uk/news/business-19825769#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					Bank opts for no fresh stimulus</a>
+									<a href="http://www.bbc.co.uk/news/business-22353731#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					Carphone Warehouse buys out Best Buy</a>
 								</li>
 								<li>
-									<a href="http://news.bbc.co.uk/today/hi/today/newsid_9757000/9757168.stm#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					AUDIO: Oxfam warning on 'land grabs'</a>
+									<a href="http://www.bbc.co.uk/sport/0/football/22351630" target="_blank">
+					Former Fifa boss resigns over bribes</a>
 								</li>
 								<li>
-									<a href="http://www.bbc.co.uk/news/business-19827998#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					Food prices up 1.4% in September</a>
+									<a href="http://www.bbc.co.uk/news/business-22353726#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					Eurozone unemployment at record high</a>
 								</li>
 								<li>
-									<a href="http://news.bbc.co.uk/today/hi/today/newsid_9757000/9757181.stm#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					AUDIO: Can you predict a revolution?</a>
+									<a href="http://www.bbc.co.uk/news/business-22349003#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					Deutsche Bank surges on share issue</a>
 								</li>
 								<li>
-									<a href="http://www.bbc.co.uk/news/world-africa-19827562#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					Argentine ship is seized in Ghana</a>
+									<a href="http://www.bbc.co.uk/news/technology-22348835#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					Skype now available for Outlook.com</a>
 								</li>
 							</ul>
 		</td>
@@ -612,24 +682,24 @@ awesome notes and resources
 		<td>
 			<ul class="newsfeed_red">
 							<li>
-									<a href="http://news.bbc.co.uk/today/hi/today/newsid_9757000/9757168.stm#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					AUDIO: Oxfam warning on 'land grabs'</a>
+									<a href="http://www.bbc.co.uk/news/business-22352188#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					VIDEO: Changes to airline check-in</a>
 								</li>
 								<li>
-									<a href="http://news.bbc.co.uk/today/hi/today/newsid_9757000/9757181.stm#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					AUDIO: Can you predict a revolution?</a>
+									<a href="http://www.bbc.co.uk/news/technology-22349194#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					VIDEO: Cern to re-create first web page</a>
 								</li>
 								<li>
-									<a href="http://www.bbc.co.uk/news/business-19827651#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					VIDEO: ECB 'to resist' interest rate cut</a>
+									<a href="http://www.bbc.co.uk/news/uk-22334998#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					AUDIO: Horse passport system 'not working'</a>
 								</li>
 								<li>
-									<a href="http://www.bbc.co.uk/news/business-19824704#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					VIDEO: Japan considers more intervention</a>
+									<a href="http://www.bbc.co.uk/news/uk-22349483#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					VIDEO: The end of instant coffee?</a>
 								</li>
 								<li>
-									<a href="http://www.bbc.co.uk/news/business-19824491#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
-					VIDEO: S Korea's new cultural exports</a>
+									<a href="http://www.bbc.co.uk/news/business-22348290#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">
+					VIDEO: Microsoft sees rise in net attacks</a>
 								</li>
 							</ul>
 		</td>
@@ -651,24 +721,24 @@ awesome notes and resources
 		<td>
 			<ul class="newsfeed_red">
 							<li>
-									<a href="http://www.business-standard.com/india/news/tcs-cognizant-successful-client-miners-says-study/189708/on" target="_blank">
-					TCS, Cognizant successful client miners, says study</a>
+									<a href="http://www.business-standard.com/india/news/mistry-builds-his-team-%5C%22a%5C%22young-executive-body-to-drive-growth/226447/on" target="_blank">
+					Mistry builds his Team "A" with young executive body to drive growth</a>
 								</li>
 								<li>
-									<a href="http://www.business-standard.com/india/news/mtr-foods-to-invest-rs-150-crore-in-two-years/189706/on" target="_blank">
-					MTR Foods to invest Rs 150 crore in two years</a>
+									<a href="http://www.business-standard.com/india/news/sundaram-bnp-to-raise-rs-100-crorepromoters/226798/on" target="_blank">
+					Sundaram-BNP to raise Rs 100 crore from promoters</a>
 								</li>
 								<li>
-									<a href="http://www.business-standard.com/india/news/mercedes-eyes-sub-rs-20-lakh-model-may-starta-class/189705/on" target="_blank">
-					Mercedes eyes sub-Rs 20 lakh model, may start with A-Class</a>
+									<a href="http://www.business-standard.com/india/news/hero-likely-to-start-assembly-ops-in-colombia-bangladesh-this-fiscal/226781/on" target="_blank">
+					Hero likely to start assembly ops in Colombia, Bangladesh this fiscal</a>
 								</li>
 								<li>
-									<a href="http://www.business-standard.com/india/news/hongkong-based-eken-launches-budget-tablets-in-india/189701/on" target="_blank">
-					Hongkong-based EKEN launches budget tablets in India</a>
+									<a href="http://www.business-standard.com/india/news/australian-firms-evince-interest-to-develop-cil-opencast-mines/226784/on" target="_blank">
+					Australian firms evince interest to develop CIL opencast mines</a>
 								</li>
 								<li>
-									<a href="http://www.business-standard.com/india/news/srei-divests-complete-equity-in-quippo-pipelay-vessel-/189700/on" target="_blank">
-					Srei divests complete equity in Quippo pipelay vessel</a>
+									<a href="http://www.business-standard.com/india/news/some-companies-mis-utilising-cdr-mechanism-shubhalakshmi-panse/226739/on" target="_blank">
+					Some companies mis-utilising CDR mechanism: Shubhalakshmi Panse</a>
 								</li>
 							</ul>
 		</td>
@@ -707,7 +777,7 @@ awesome notes and resources
 		<div class="inFooter clearfix">
 						<div class="ca-footermiddle" style="width: 96%; padding: 0px;">
 				<div class="ja-copyright">
-					<table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><span class="mainlevel">  | </span><a href="/sitemap" class="mainlevel">Sitemap</a><span class="mainlevel">  | </span><a href="/privacy-policy" class="mainlevel" id="active_menu">Privacy Policy</a><span class="mainlevel">  | </span><a href="/terms-of-use" class="mainlevel">Terms of Use</a><span class="mainlevel">  | </span><a href="/get-involved-contribute" class="mainlevel">Get Involved</a><span class="mainlevel">  | </span><a href="/advertise" class="mainlevel">Advertise</a><span class="mainlevel">  | </span><a href="/contact-us" class="mainlevel">Contact us</a><span class="mainlevel">  | </span><a href="/testimonials" class="mainlevel">Testimonials</a><span class="mainlevel">  | </span><a href="/submit-a-link" class="mainlevel">Submit a Link</a><span class="mainlevel">  | </span></td></tr></tbody></table>
+					<table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><span class="mainlevel">  | </span><a href="/sitemap" class="mainlevel">Sitemap</a><span class="mainlevel">  | </span><a href="/privacy-policy" class="mainlevel" id="active_menu">Privacy Policy</a><span class="mainlevel">  | </span><a href="/terms-of-use" class="mainlevel">Terms of Use</a><span class="mainlevel">  | </span><a href="/get-involved-contribute" class="mainlevel">Get Involved</a><span class="mainlevel">  | </span><a href="/advertise" class="mainlevel">Advertise</a><span class="mainlevel">  | </span><a href="/contact-us" class="mainlevel">Contact us</a><span class="mainlevel">  | </span><a href="/testimonials" class="mainlevel">Testimonials</a><span class="mainlevel">  | </span></td></tr></tbody></table>
 				</div>
 				
 			</div>
@@ -725,7 +795,7 @@ awesome notes and resources
  Content of this website is protected by copyright laws. Please refer to our <a title="terms of use" href="http://www.dineshbakshi.com/terms-of-use">terms of use</a>
 </p>
 		<!-- //COPYRIGHT BLOCK -->
-<a title="write a testimonial" style="background:transparent url(http://www.dineshbakshi.com/modules/mod_beinvolved/images/topright/joomla.png) no-repeat scroll right top !important;color:transparent;cursor:pointer;display:block;height:100px;position:fixed;right:0pt;text-decoration:none;text-indent:-999em;top:0pt;width:100px;z-index:99999;" href="http://dineshbakshi.com/testimonials" target="_blank">write a testimonial</a>
+<div id="dropin" style="position:absolute;visibility:hidden;left:0px; right: 0px; top:100px;z-index:99999;background: transparent; font-size: 11px !important; line-height: 1.5em;"><div style="margin: auto !important; width:350px"><div class="titlebar"><span>Follow us on Facebook</span><a class="dismiss" href="#" onclick="dismissbox();return false"></a></div><div class="msgwrap"><div class="mainmsg"><a href="http://www.facebook.com/pages/dineshbakshicom/34422978459" onclick="dismissbox();return true" target="_blank"><img src="/images/stories/likeusfacebook.png"></a><br></div></div></div></div><a title="write a testimonial" style="background:transparent url(http://www.dineshbakshi.com/modules/mod_beinvolved/images/topright/joomla.png) no-repeat scroll right top !important;color:transparent;cursor:pointer;display:block;height:100px;position:fixed;right:0pt;text-decoration:none;text-indent:-999em;top:0pt;width:100px;z-index:99999;" href="http://dineshbakshi.com/testimonials" target="_blank">write a testimonial</a>
 
 
 <script src="http://cdn.wibiya.com/Toolbars/dir_0243/Toolbar_243103/Loader_243103.js" type="text/javascript"></script><noscript><a href='http://www.wibiya.com/'>Web Toolbar by Wibiya</a></noscript>
