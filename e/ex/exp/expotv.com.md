@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124060023id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430105440id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Expo TV Privacy Policy | Expo | Consumer Product Reviews in Video
 
-## EXPO Privacy Policy
+This policy applies to your use of all the sites and services owned or operated by Expo Communications, Inc. ("EXPO") and affiliated companies (collectively "we," "us," or "our"), including www.expotv.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. The following discloses our information gathering and dissemination practices for the Sites. This privacy policy applies only to data gathered on the Sites and does not apply to any offline point of contact between EXPO and consumers.
 
-This policy applies to your use of all the sites and services owned or operated by Expo Communications, Inc. ("EXPO") and affiliated companies (collectively "we," "us," or "our"), including www.expotv.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. The following discloses our information gathering and dissemination practices for the Sites. This privacy policy applies only to data gathered on the Sites and does not apply to any offline point of contact between EXPO and consumers. This privacy policy was updated on March 23, 2009.
+_This privacy policy was updated on March 23, 2009._
 
 ### Changes to the Privacy Policy
 
