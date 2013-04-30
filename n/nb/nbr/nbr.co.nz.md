@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223034331id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125223id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The National Business Review
 
