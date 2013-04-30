@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116214527id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430130433id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthcare IT News
 
-To receive _Healthcare IT News_ and its email newsletters, or to register an online username, you must first complete a registration form. During registration for newsletters and print issues you may be required to give contact information such as name, email address and telephone number. We use this information to contact you about the services and newsletters on our site in which you have expressed interest.
+To receive the monthly _Healthcare IT News_ issues or our email newsletters, or to access downloadable content such as white papers or register for online events such as webinars, you must first complete a registration form. During registration for newsletters and print issues, you may be required to give contact information such as name, email address and telephone number. We use this information to contact you about the services and newsletters on our site in which you have expressed interest.
 
 The information helps us provide you with access to a wide variety of content on our site and better serve you through customized newsletters and other products. _Healthcare IT News_ shares aggregate, non-personally identifying data with our partners and advertisers. We disclose website usage information to third parties only in aggregate.
 
@@ -22,7 +22,9 @@ We may provide you the opportunity to participate in contests or surveys on our 
 
 **Commenting Policy**
 
-Registered site users are encouraged to post comments on _Healthcare IT News_ content including stories and blogs. Comments should be editorial in nature, and should not be promoting or otherwise linking to third party products or websites. The use of all-caps, text markup or other methods of "shouting" are discouraged in the interest of maintaining a high-level, respectful forum for discussion.
+SIte users are encouraged to post comments on _Healthcare IT News_ content including stories and blogs. Our site uses the popular commenting service Disqus.  This service allows users to post comments by signing in using an existing Facebook, Twitter, LinkedIn, Google Plus or Disqus account. _Healthcare IT News_ does not obtain any information about or access to your accounts with these services.  For more information about Disqus' privacy policy, please [click here](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
+
+Comments should be editorial in nature, and should not be promoting or otherwise linking to third party products or websites. The use of all-caps, text markup or other methods of "shouting" are discouraged in the interest of maintaining a high-level, respectful forum for discussion.
 
 Comments may not:
 
@@ -42,15 +44,15 @@ Provided that all efforts are made by site users to self-edit and employ respect
 
 
 
-Site administrators reserve the right to delete comments and/or block users who fail to adhere to the commenting policy.
+Site administrators reserve the right to delete comments and permanently block users who fail to adhere to the commenting policy, even upon a first offense.
 
 **Promotions**
 
 We will occasionally send you information on products, services, special deals, and white papers. We allow you to opt-out of these types of communications.
 
-**Resource Central**
+**Webinars and White Papers**
 
-By accessing a content asset in Resource Central, you agree to your contact information being supplied to the sponsor of that content asset. Only the information that you have supplied will be sent to the sponsor. Once you provide your contact information through Resource Central, your information will be supplied to that sponsor even if you have previously opted out of receiving information from MedTech sponsors.
+By accessing a webinar or white paper content asset, you agree to your contact information being supplied to the sponsor of that content asset. Only the information that you have supplied will be sent to the sponsor. Once you provide your contact information through our form, your information will be supplied to that sponsor even if you have previously opted out of receiving information from MedTech sponsors.
 
 **Disclaimer**
 
