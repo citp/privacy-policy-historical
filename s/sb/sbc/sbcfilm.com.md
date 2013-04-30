@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcfilm.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225153300id_/http%3A//sbcfilm.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcfilm.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430192018id_/http%3A//sbcfilm.com/corp/privacyPolicy) for the most accurate reproduction.*
 
 # SkinnyBodyCare :: Privacy Policy
 
