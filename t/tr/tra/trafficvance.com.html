@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trafficvance.com privacy policy that was archived on 2012-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118010803id_/http%3A//www.trafficvance.com%3Fpage%3Dpublic.PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trafficvance.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430054302id_/http%3A//www.trafficvance.com%3Fpage%3Dpublic.PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Trafficvance :: Advanced Display &amp; Text Link Traffic | Privacy Policy</title>
@@ -8,14 +8,14 @@
 <meta name="Keywords" content="trafficvance, display advertising, targeted advertising, text link advertising, content-targeted advertising, self serve advertising">
 <meta name="Description" content="Trafficvance - Advanced Display &amp; Text Link Traffic">
 <link rel="stylesheet" type="text/css" href="assets/main/c124e6ad1bd86ba1e7ee9a42a758b906/CTestingNotification.css?id=96fd7953ba0cb17b4c5c8b9058c59ac3">
-<link rel="stylesheet" type="text/css" href="/packed/a03aa159c328925b07d87ca680abec78b9718a15.css">
+<link rel="stylesheet" type="text/css" href="/packed/0693f70562ab0d42a2b8923f38564dd47175e487.css">
 <script type="text/javascript">
 /*<![CDATA[*/
 
 var ugco=new Object;ugco.onLoading=function(sender,parameter){$(document.body).setStyle({cursor:'progress'});};ugco.onComplete=function(sender,parameter){$(document.body).setStyle({cursor:'default'});};
 /*]]>*/
 </script>
-<script type="text/javascript" src="/packed/bd49095071361bfe8205d1eae2d616f2ff308367.js"></script>
+<script type="text/javascript" src="/packed/831e7eedc98b83a2a67d70dc400922ecc60e95b4.js"></script>
 <link rel="shortcut icon" href="/favicon.ico?id=2">
 <base target="_top">
 </head>
@@ -29,7 +29,7 @@ label{vertical-align:middle}
 
 	<![endif]-->
 <form id="ctl0_ctl1" method="post" action="/?page=public.PrivacyPolicy"><div style="visibility:hidden;">
-<input type="hidden" name="PRADO_PAGESTATE" id="PRADO_PAGESTATE" value="eJwFwcERgCAMBMBeKMDhcgGSUI0IzPj26di7u+BsMpy+1EVlbZ3cszbzaxADtdHg5mcg3jtyfwIlElgoOZvJYVqZ+vcDuHASKw==">
+<input type="hidden" name="PRADO_PAGESTATE" id="PRADO_PAGESTATE" value="eJwFwcERwCAIBMBeLCDDoYhiNYg88s4zk96zC40eNbkhBKd56tjZNiDEPp2HSnZndYO9t9F6DGIFtWslksHXJEZZ3w/MaRKL">
 </div>
 <script type="text/javascript" src="assets/main/b556e0e082b92ec6de522c14b7a8c504/clientscripts.php?js=ajax"></script>
 <script type="text/javascript" src="assets/main/a02be4a3adbc280a161770f33a1e860e/UGlobalCallbackOptions.js?id=ddfbd8c3c76454d240016b43381750a7"></script>
@@ -136,7 +136,7 @@ $('ctl0_mainMessageBox_activePanel').setStyle({visibility:'visible'});}}
 </td>
 
 <td align="right" valign="middle">
-1-886-394-1786 &nbsp; | &nbsp;
+1-866-394-1786 &nbsp; | &nbsp;
 <a href="/?page=public.AdvertiserRegistration">Sign Up</a>
 &nbsp; &nbsp;
 </td>
@@ -284,7 +284,7 @@ has no control over their information handling practices and is not responsible 
 <table cellpadding="0" cellspacing="0" width="965px">
 <tbody><tr>
 <td align="left">
-© 2006 − 2012 &nbsp; Future Ads LLC. &nbsp; All Rights Reserved.
+© 2006 − 2013 &nbsp; Future Ads LLC. &nbsp; All Rights Reserved.
 </td>
 <td class="footer-menu" align="center">
 <a href="/?page=public.Advertisers">About Us</a>
@@ -308,18 +308,20 @@ has no control over their information handling practices and is not responsible 
 <script type="text/javascript">
 /*<![CDATA[*/
 
-new Prado.WebUI.TTimeTriggeredCallback({'CausesValidation':false,'ID':'ctl0_ctl11','EventTarget':'ctl0$ctl11','Interval':600});
+new Prado.WebUI.TTimeTriggeredCallback({'onFailure':function(sender, parameter){ 
+			if ((++keepAliveErrorCount > 3) &&
+				 (sender.ActiveControl.ID == 'ctl0_keepAliveTrigger'))
+				Prado.WebUI.TTimeTriggeredCallback.timers['ctl0_keepAliveTrigger'].stopTimer();
+		 },'CausesValidation':false,'ID':'ctl0_keepAliveTrigger','EventTarget':'ctl0$keepAliveTrigger','Interval':600});
 
-Prado.WebUI.TTimeTriggeredCallback.start('ctl0_ctl11');
+Prado.WebUI.TTimeTriggeredCallback.start('ctl0_keepAliveTrigger');
 /*]]>*/
 </script>
 </form>
 <script type="text/javascript">
 /*<![CDATA[*/
-var winDiv=document.viewport.getDimensions();$('main').setStyle({height:winDiv.height+'px'});Event.observe(document,'dom:loaded',function(){winDiv=document.viewport.getDimensions();if($('main').getHeight()<=winDiv.height)
-$('main').setStyle({height:winDiv.height+'px'});});Event.observe(window,'resize',function(){winDiv=document.viewport.getDimensions();if($('main').getHeight()<=winDiv.height)
-$('main').setStyle({height:winDiv.height+'px'});else
-$('main').setStyle({height:'100%'});});
+var keepAliveErrorCount=0;$('main').setStyle({height:document.viewport.getDimensions().height+'px'});Event.observe(window,'resize',function()
+{$('main').setStyle({height:document.viewport.getDimensions().height+'px'});});
 /*]]>*/
 </script>
 
