@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enphaseenergy.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006063328id_/http%3A//enphase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enphaseenergy.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430161401id_/http%3A//enphase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Enphase Energy
 
