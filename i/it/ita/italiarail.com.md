@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110165048id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430163834id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ItaliaRail - Italy Train Ticket and Rail Pass Experts
 
@@ -38,6 +38,8 @@ We collect personal information from you when you purchase products from our onl
 #### Cookies
 
 We use “cookies” to enhance your visits to our websites. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. Cookies do not store personal information about you, unless you knowingly provide it. Cookies can store non-personal information, such as what websites, or pages your browser has accessed. We use cookies to store information and personalize your experience with our websites. For example, cookies allow our websites to recognize your browser as a previous visitor, and thus save and remember any preferences that may have been set while you were previously browsing our websites. Our cookies can also store information you have placed in a “shopping cart.”
+
+Although we are a U.S.-based company, we do have many customers that come from overseas. There have been recent changes in the U.K. and European Union laws surrounding cookies, and those changes can be found [here](http://www.ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies). If you are a resident of the U.K. or European Union, we encourage you to follow this link and learn more about these recent changes to the law and how it relates to using our site.
 
 You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. Most browsers can also be set to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information about working with cookies, you should consult your user manual, FAQ, or “help” function of your specific browser and operating system software.
 
