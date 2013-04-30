@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the seoallrounder.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113233347id_/http%3A//www.seoallrounder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoallrounder.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430104246id_/http%3A//www.seoallrounder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SeoAllRounder
+# Privacy Policy – SeoAllRounder
 
 **Privacy Policy – www.seoallrounder.com**
 
 **Privacy Policy for www.seoallrounder.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.seoallrounder.com/contact-us/ "contact us") by email at saad[@]seoallrounder.com .
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at saad[@]seoallrounder.com .
 
 At [www.seoallrounder.com](http://www.seoallrounder.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.seoallrounder.com and how it is used.
 
