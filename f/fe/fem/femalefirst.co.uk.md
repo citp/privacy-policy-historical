@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204033250id_/http%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430205232id_/http%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Female First
+# Privacy Policy
 
 At First Active Media Ltd. we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.   
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.   
