@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014014630id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430123826id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,7 +119,7 @@ We use reasonable organizational, technical and administrative measures to prote
 
 We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
 
-  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.
+  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking **[here](https://web.archive.org/unsubscribe)** and following the instructions to unsubscribe.
   * **Our sharing of your Personal Information with unaffiliated third parties** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis. Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
 
 
@@ -128,7 +128,7 @@ We will seek to comply with your request(s) as soon as reasonably practicable. P
 
 **How you can access, change or suppress your Personal Information**
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [**info@quinstreet.com**](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [**custservice@developer.com**](mailto:custservice@developer.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
 In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. 
 
@@ -154,7 +154,7 @@ We may change this Privacy Policy. Please take a look at the “ _LAST UPDATED_ 
 
 ### **CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us by email at [**info@quinstreet.com**](mailto:info@quinstreet.com), or please write to the following address:
+If you have any questions about this Privacy Policy, please contact us by email at [**custservice@developer.com**](mailto:custservice@developer.com), or please write to the following address:
 
      Privacy   
      QuinStreet  
