@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225170825id_/http%3A//www.slipknot1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010739id_/http%3A//slipknot1.com/privacy) for the most accurate reproduction.*
 
 # Slipknot × Privacy Policy
 
@@ -90,9 +90,9 @@ If you have questions regarding this Privacy Policy, please [contact Customer Se
 
 ### Consumer Notice
 
-Sparkart Group, Inc. is a California corporation. Pursuant to California Civil Code § 1789.3, Sparkart Group, Inc. sets forth the following: (a) Sparkart Group, Inc. is located at 1714 Franklin Street, 2nd Floor, Oakland, CA 94612; (b) the fees and charges imposed on consumers of Sparkart Group, Inc. vary depending on the services you choose; and (c) if you have any complaints about Sparkart Group, Inc. or wish to receive further information about Sparkart Group, Inc., please [contact Customer Service](mailto:support@sparkart.com). For complaints against Sparkart Group, Inc., you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by (1) visiting www.dca.ca.gov/about_dca/contactus.shtml; (2) sending an email to dca@dca.ca.gov; (3) calling (800) 952-5210; or (4) writing to Department of Consumer Affairs, Consumer Information Division,
+Sparkart Group, Inc. is a California corporation. Pursuant to California Civil Code § 1789.3, Sparkart Group, Inc. sets forth the following: (a) the address of Sparkart Group, Inc. is P.O. Box 1346, Oakland, CA 94604; (b) the fees and charges imposed on consumers of Sparkart Group, Inc. vary depending on the services you choose; and (c) if you have any complaints about Sparkart Group, Inc. or wish to receive further information about Sparkart Group, Inc., please [contact Customer Service](mailto:support@sparkart.com). For complaints against Sparkart Group, Inc., you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by (1) visiting www.dca.ca.gov/about_dca/contactus.shtml; (2) sending an email to dca@dca.ca.gov; (3) calling (800) 952-5210; or (4) writing to Department of Consumer Affairs, Consumer Information Division,
 
-1625 North Market Blvd., Suite N, 112  
+1625 North Market Blvd., Suite N 112  
 Sacramento, CA 95834.
 
 **Last Updated: June 30, 2010**
