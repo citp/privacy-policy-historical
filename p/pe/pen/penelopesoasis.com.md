@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022151029id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430220515id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
 
 # New York City Mom Beauty Fashion Blogger and Happy Marriage Tips
 
