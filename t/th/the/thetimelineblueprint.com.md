@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetimelineblueprint.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022440id_/http%3A//thetimelineblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimelineblueprint.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125542id_/http%3A//thetimelineblueprint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get 10,000 Fans
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -85,7 +85,7 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 11/16/2010
+This policy was last modified on 12/20/2012
 
 **Contacting Us**
 
