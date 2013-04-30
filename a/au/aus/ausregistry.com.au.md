@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920021321id_/http%3A//www.ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125553id_/http%3A//ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
 
 # AusRegistry - .au Registry Provider - Privacy Policy
 
-##  [ Privacy Policy](http://ausregistry.com.au/privacy-policy)
+##  [ Privacy Policy](https://web.archive.org/privacy-policy)
 
 **Introduction**
 
@@ -100,9 +100,9 @@ Unfortunately, no data transmission over the internet can be guaranteed to be 10
 
 **Can you see the personal information we have about you?**
 
-You have a right to know what information we hold about you, and you can [contact us ](http://ausregistry.com.au/contact-us)and ask us to show you this information to ensure it is correct. Please note that information that we hold about you may be subject to the requirements of various regulatory or governmental authorities. In that regard, we will comply with the requirements of those regulatory or governmental authorities in releasing any information to you.
+You have a right to know what information we hold about you, and you can [contact us ](https://web.archive.org/contact-us)and ask us to show you this information to ensure it is correct. Please note that information that we hold about you may be subject to the requirements of various regulatory or governmental authorities. In that regard, we will comply with the requirements of those regulatory or governmental authorities in releasing any information to you.
 
-If you would like to review or make any corrections to your personal information you can [contact us ](http://ausregistry.com.au/contact-us)in writing at the address designated in this document.
+If you would like to review or make any corrections to your personal information you can [contact us ](https://web.archive.org/contact-us)in writing at the address designated in this document.
 
 Under the National Privacy Principles there are limited circumstances in which access to some or all of this information may be denied. If this applies to you, we will explain this to you when you ask for your information. Otherwise we will endeavour to provide you with your information within a period of 30 days, depending on the amount of information required.
 
