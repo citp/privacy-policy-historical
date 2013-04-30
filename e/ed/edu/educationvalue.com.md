@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationvalue.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224204922id_/http%3A//educationvalue.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationvalue.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430150924id_/http%3A//educationvalue.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
