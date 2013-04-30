@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mergemedia.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006062932id_/http%3A//mergemedia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergemedia.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430153615id_/http%3A//mergemedia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,5 +47,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://mergemedia.com/contact.html) anytime.
 
   
-|  [< Prev](https://web.archive.org/finance.html) |    |  [Next >](https://web.archive.org/offers.html)  
----|---|---
+
+
+##### Recently Posted Related Articles
