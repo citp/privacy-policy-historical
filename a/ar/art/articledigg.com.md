@@ -1,47 +1,47 @@
-> *The following text is extracted and transformed from the articledigg.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920045054id_/http%3A//articledigg.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledigg.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430182739id_/http%3A//articledigg.com/privacy.php) for the most accurate reproduction.*
 
 # Article Digg | Privacy Statement
 
-ArticleDigg.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+This policy describes how and why Pixel Vision Grafix Designs Inc. Incorporated in Canada ("Article Digg ") collects non-personally identifiable data from users and website visitors to http://www.articledigg.com, and how that data will be used. is committed to respecting the privacy of non-personal identifiable data gathered. 
 
-**How we gather information from users**
+**Use of Data**
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, ArticleDigg.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
+Article Digg uses non-personally identifiable data collected from users and website visitors in order to:
 
-**What we do with the information we collect**
+1) To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+2) To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+3) To provide you with support and handle inquires.
 
-We may use Personally Identifiable Information collected on ArticleDigg.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by ArticleDigg.com and other topics we think you might find of interest.
+4) To enforce our terms of use and/or EULA.
 
-Personally Identifiable Information collected by ArticleDigg.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+5) To comply with any applicable law and assist law enforcement agencies as required./p>
 
-**Affiliated sites, linked sites and advertisements**
+6) To conduct surveys and market researches./p>
 
-ArticleDigg.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.articledigg.com page, certain content that is actually created or hosted by a third party. Also, through ArticleDigg.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. ArticleDigg.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+7) We may use anonymous, statistical or aggregated information about the websiteâ€™s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion. 
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ArticleDigg.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+**Cookies and Log Files**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ArticleDigg.com and this policy.
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors. 
 
-**Legal Age**
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website. 
 
-ArticleDigg.com does not knowingly collect or solicit Personally Identifiable Information from or about persons under 18 except as permitted by law. If we discover we have received any information from a anyone under 18 in violation of this policy, we will delete that information immediately. If you believe ArticleDigg.com has any information from or about anyone under 18, please contact us at the address listed below.
+In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems. 
 
-**Contacting Us**
+**Age Limit**
 
-We can be reached by [ **emailing us**](http://articledigg.com/contact.php) @ info@articledigg.com.
+To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
 
-**Changes to this Policy**
+**Changes to Policy**
 
-ArticleDigg.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
 
-**Governing law**
+**Governing Law**
 
-This policy and the use of this Site are governed by the laws of British Columbia, Canada. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Vancouver. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This Privacy Policy is governed by and construed in accordance with the laws of Canada. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of Canada.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Vancouver, Canada. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+**Contact us**
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Please direct all questions in connection with this Policy via [**E-mail**](http://articledigg.com/contact.php) to: info@articledigg.com 
