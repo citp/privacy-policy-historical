@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rather-be-shopping.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026132843id_/http%3A//www.rather-be-shopping.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rather-be-shopping.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430235422id_/http%3A//www.rather-be-shopping.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ With respect to security: We always use industry-standard encryption technologie
 
 Always close your browser session when you are done using Rather-Be-Shopping.com. This will ensure your information cannot be retrieved by others.
 
-If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>. 
+If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
