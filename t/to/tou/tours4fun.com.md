@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the tours4fun.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015051531id_/http%3A//www.tours4fun.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tours4fun.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430172039id_/http%3A//www.tours4fun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Tours4Fun
 
 Information Collection and Use  
 Tours4Fun the sole owner of the information collected on this site. We will not sell, share, or rent this information to any outside parties, except as outlined in this policy. Tours4Fun collects information from our users at several different points on our website in order to process orders and better serve you with pertinent information. Information collected includes name, shipping address, billing address, telephone numbers, e-mail address, and payment information such as credit card. Tours4Fun also requires you to submit a user name and password of your choice for future access to your information. Your user name and password is to remain confidential and you should not share this information with anyone.  
 
+
+Registration
 
 In order to process your reservation using this website, you must first complete the registration form. During registration you are required to give your contact information, which includes name, e-mail, telephone number and physical address. This information is used to contact you about your reservation on Tours4Fun.com such as sending automated order status updates.  
 
