@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014212132id_/http%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430032037id_/http%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
 
 # The University
 
@@ -18,8 +18,8 @@ The University is a Registered Data Controller as defined by the Data Protection
 
 You may also wish to consult our;
 
-  * [Freedom of Information Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/freedomofinformation/home.php.en)
-  * [Data Protection Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/dataprotection/DPpolicy.php.en)
+  * [Freedom of Information Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/freedomofinformation/index.php.en?catid=&subid=3423)
+  * [Data Protection Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/dataprotection/DPPolicy.php.en)
 
 
 
