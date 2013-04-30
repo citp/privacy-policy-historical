@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006052716id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430211758id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy | Tempur-Pedic
 
@@ -147,4 +147,4 @@ We may update this policy in the future. We will post at the top of this Privacy
 If you have questions about our privacy policy or the privacy and security of your information, you can contact us in one of the following ways:
 
 E-mail: [privacy.compliance@tempurpedic.com](mailto:privacy.compliance@tempurpedic.com)  
-Mail: Tempur-Pedic, Privacy Compliance, 1713 Jaggie Fox Way, Lexington, KY 40511
+Mail: Tempur-Pedic, Privacy Compliance, 100 Tempur Way, Lexington, KY 40511
