@@ -1,77 +1,87 @@
-> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407031916id_/http%3A//www.harmony-central.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010341id_/http%3A//www01.harmony-central.com/t5/custom/page/page-id/PrivacyPolicy) for the most accurate reproduction.*
 
-# Harmony Central® Privacy Statement
+# PrivacyPolicy - Harmony Central
 
-Harmony Central knows that you care about how your personal information is used and shared. Our goals are to inspire the confidence of the users of our Web sites. This privacy policy discloses how we collect, use and share information gathered about you on our network of Web sites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet.
+## YOUR PRIVACY RIGHTS
 
-  * What types of information is the Harmony Central site collecting, and how is the site collecting it?
-  * How does Harmony Central use the personally identifiable information that has been collected?
-  * Does Harmony Central share information with companies or other organizations not a part of the Harmony Central network of sites?
-  * What choices do I have about Harmony Central collecting, using, and sharing my information?
-  * Whom do I contact with questions or concerns about this privacy policy?
-  * Will you make changes to this privacy policy?
+Harmony Central understands your concerns as to how your information is used and shared, and we wish, by providing you with this Privacy Statement, to gain your trust and confidence in how we care for your personal information.
 
+### DOES HARMONY CENTRAL COLLECT PERSONAL INFORMATION?
 
+Information you provide
 
-What types of information is the Harmony Central site collecting, and how is the site collecting it?
+Harmony Central does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from a contest or sweepstakes registration, the registration process for subscription or services and in connection with content submissions, community postings (e.g., chat and forums), suggestions, voting/polling activities and transactional areas. We use this information that you provide for such purposes as responding to your requests or inquiries, improving our services, informing you of activities and offers of our business partners, and communicating with you regarding your subscriber account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected. Upon request, Harmony Central will use reasonable efforts to allow users to update or correct personal information previously submitted to the extent such activities will not compromise privacy or security interests. Also, upon a user's request, Harmony Central will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information being retained by Harmony Central because of the nature in which backups of data are maintained.
 
-Many of the services and products on our sites are available for viewing without our collecting any personally identifiable information from you. You can visit the Harmony Central Website and see much of our content anonymously.
+Information automatically provided
 
-Information You Provide
+We track user behavior on our website automatically. That information may include your IP address, your domain server, your type of computer, your type of web browser and statistical information regarding the pages you visit. We use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners.
 
-There are some activities on our sites where the collection of personally identifiable information is necessary. Those activities include things like forum registration, or otherwise contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. Personally identifiable information may include contact data, such as your name, address, phone and e-mail address; financial data for purchases, such as your account or credit card number; and demographic data, such as your zip code, age and income.
+### Use of Cookies
 
-Information Collected from You with Technology
+Users also should be aware that non-personal information and data may be automatically collected through the standard operation of Harmony Central's internet servers or through the use of cookies. Cookies are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be aware that Harmony Central cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for Harmony Central. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the Harmony Central site.
 
-Harmony Central collects some information about you using technology, so it may not be obvious to you that it is being collected. That information may include your IP address, your domain server, your type of computer, your type of web browser, and statistical information regarding the pages that you visit. Harmony Central uses information collected through technology to make our sites more interesting and useful to you. For example, statistical information can help us track which areas of a site are more popular, so that we can better customize content to the interests of our visitors. We will combine information collected using technology with personally identifiable information only to identify a visitor in order to protect our service, site, Guests or others, when required by law, or when needed to help resolve a technical issue a Guest may be having while viewing the site.
+### DOES HARMONY CENTRAL SHARE THE INFORMATION IT COLLECTS?
 
-What Are Cookies, and How Does Harmony Central Use Them?
+Companies offering promotions, products or services
 
-Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more useful. Harmony Central and other Internet companies use cookies for a variety of purposes, such as to customize content, or store log-in information if you so desire. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to some Harmony Central features that make your Web experience more efficient, and some services may not function properly.
+Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from Harmony Central and/or any third parties. In addition, Harmony Central occasionally sends e-mail promotions out to our subscribers on behalf of third-party sponsors. In this instance, unless you have given us your permission to do so, we will not send these types of promotions to you and we don't share your personally identifiable information with these third parties. Upon request, Harmony Central will allow any user to opt out of promotional contacts at any time.
 
-[privacy: top of page]
+Service providers
 
-How does Harmony Central use the personally identifiable information that has been collected?
+Harmony Central may disclose information about individual users to third parties who provide services to Harmony Central and who agree to maintain the confidentiality of such information in accordance with this Privacy Statement. These third parties may provide a variety of services to Harmony Central, including, without limitation, fulfilling product orders, managing or hosting the website, helping create new content and promotions for the site, and sending or coordinating the sending of marketing communications to users have consented to receive such materials. In situations where a user has supplied his or her information in connection with a question or request for information about a product or service offered by one of our business partners, we may also send the information he or she has supplied to the business partners that offer such products or services.
 
-Harmony Central uses personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, we use information collected to notify you if you've won a contest. Information we collect is used to send you e-mail updates and newsletters about our site. And we use demographic data to customize and tailor your experience on our sites, displaying content that we think you might be interested in.
+Aggregate information
 
-[privacy: top of page]
+We may share aggregated demographic information about our user base as well as aggregated user behavior data with third parties, such as advertisers. We do not link, however, this data with personally identifiable information.
 
-Does Harmony Central share information with companies or other organizations not a part of the Harmony Central network of sites?
+Content partners and links to other websites
 
-You are one of the most valuable assets of our business. We aren't in the business of selling your information. However, if there is a value for our Guests, we will share your information or send you messages on behalf of another company. For example, if you buy a Harmony Central T-shirt, we need to share your information with any companies we hire to help us deliver products or services, like a shipping company. Or, if we offer a promotion--like sweepstakes or free subscriptions--in conjunction with a sponsor, we will share your information with the sponsors if they need it to send you a product, such as a magazine subscription or contest prize. We may share your information with those sponsors so that they can send you other special promotions they offer, but only if you give us your permission to do so, and we will share it only with that specific sponsor. In addition, Harmony Central may occasionally send e-mail promotions on behalf of third-party sponsors. In this instance, we don't share your name with the third party--we do the mailing for them. Again, we only send these promotions to you if you've given your permission by opting in to the newsletter. We may also share your information with our corporate affiliates.
+We may provide or link to content that is created by a third-party partner website that offers products and services. Such third-party sites may collect information in order to facilitate that transaction process or make the use of the content more productive and efficient. In these circumstances, the information collected may be shared between Harmony Central and these third parties. Users should consult the privacy policies posted on these third party websites as well. In addition, our website may contain links to third party websites to which we have no affiliation. Harmony Central does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy policies on these third party websites.
 
-Links to Other Outside Web Sites
+Subscription and/ or registration-based services
 
-Our Web sites may contain links to outside Web sites with which we do not have affiliation, partnership or other cooperative agreement. Harmony Central does not share your personal information with those Web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+Users should be aware that Harmony Central may sometimes permit third parties to offer subscription and/or registration-based services through a Harmony Central site. Harmony Central is not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information.
 
-Organizations That Help Protect the Security and Safety of Our Guests and Our Sites
+Information you publicly post
 
-We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Service, or site rules; or to protect the safety and security of Guests and our sites.
+Users should be aware that when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address) on the forums, classifieds or in the chat areas of the Harmony Central sites, that information, along with any substantive information disclosed in the user's communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Harmony Central. Please do not post any personal information on Harmony Central forums or classifieds or in the chat areas that you expect to keep private.
 
-[privacy: top of page]
+Disclosures required by law
 
-What choices do I have about Harmony Central collecting, using, and sharing my information?
+Harmony Central will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, Harmony Central may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Statement.
 
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from Harmony Central and from our third-party partners. You can request at any time that Harmony Central not send future e-mail to you by unsubscribing by using the instructions included in each e-mail, or by filling out the remove form located here. Also, as mentioned above, there are ways to limit the information collected through technology--though some of our features won't work if you decide to do this. For the safety of minors, we request that children under the age of 18 not fill out any personal information on our Web sites without first receiving the approval of a parent or guardian.
+Business transfers
 
-[privacy: top of page]
+If Harmony Central is acquired by or merged with another company, or if Harmony Central decides to sell all or substantially all of its assets or shares to another company, Harmony Central may transfer personally-identifiable information about you to that company as part of that transaction. Harmony Central will notify you in the event that your personally-identifiable information is transferred under these circumstances and becomes subject to a different privacy policy.
 
-Whom do I contact with questions or concerns about this privacy policy?
+Financial information
 
-If you need further assistance, please send an e-mail message with your questions or comments using our feedback form located here, or write us at:
+To the extent that we may collect personally identifiable financial information, such as credit card information, that you have volunteered to us in order to conduct a transaction through our website, such financial information would only be shared with either the government, if we are so required by law (see above), or third party service providers or partners who are assisting Harmony Central in processing your requested transaction, which transaction requires the use of your financial information, such as a sale or license of products. Under the latter circumstance, such third parties would only receive your personally identifiable financial information upon agreeing to maintain its confidentiality and to the terms of this Privacy Statement.
 
-Internet Privacy Policy  
-Harmony Central Group, LLC  
-180 W. Election Road  
-Draper, UT 84020
+With your consent
 
-If you want to be removed from our e-mail or postal mailing list(s), please click here and follow the directions at the top of the page.
+Other than as explained above, Harmony Central will notify you when information about you may be provided to third parties, and you will have the option to prevent such information sharing.
 
-[privacy: top of page]
+### WHAT SECURITY PRECAUTIONS ARE TAKEN TO PROTECT PERSONAL INFORMATION?
 
-Will you make changes to this privacy policy?
+This website incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected, and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement.
 
-Our business changes constantly. This privacy policy may also change as we see the need for updates. Use of the information that we gather now is subject to the privacy policy in effect at time of use. We reserve the right, at any time and without notice, to add to, change, update or modify this privacy policy simply by posting such change, update or modification on the Web site. Any such change, update or modification will be effective immediately upon posting on the Web site. You should check our Web site frequently to see the most recent version of this privacy policy.
+You hereby acknowledge that Harmony Central is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
-Last updated: November 11, 2005
+### CHILDREN
+
+This website is not directed to children, and Harmony Central does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
+
+### TERMS AND MODIFICATIONS TO THIS PRIVACY STATEMENT
+
+By using the website, you signify your agreement to the terms of our Privacy Statement. If you do not agree with these terms, you should not use the site. Harmony Central may modify this Privacy Statement at any time. If a material change is made to this Privacy Statement and/or the way we use our users' personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Statement. This Privacy Statement is applicable to all web sites under the .harmony-central.com and .harmonycentral.com domains.
+
+### CONTACT DETAILS
+
+If you have any questions about this Privacy Statement, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Statement, you can contact:
+
+Harmony Central
+
+5795 Lindero Canyon Road
+
+Westlake Village, CA 91362
