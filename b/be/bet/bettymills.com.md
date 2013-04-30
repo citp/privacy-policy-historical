@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025080154id_/http%3A//support.bettymills.com/customer/portal/articles/347006-privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430023226id_/http%3A//support.bettymills.com/customer/portal/articles/347006-privacy-security) for the most accurate reproduction.*
 
 # The Betty Mills Company | Privacy and Security
 
@@ -9,17 +9,17 @@ Our primary purpose in collecting data is to provide you with a safe, smooth, ef
 
 We require certain contact and identity information, billing information, shipping information and other personal information as indicated on the forms on our site. Where possible, we indicate which fields are required and which fields are optional.
 
-We use data collection devices such as "cookies" on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We also use cookies to make shopping fast and convenient.
+We use data collection devices such as "cookies" on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We also use cookies to make shopping fast and convenient. 
 
 * * *
 
 **Our Use of Your Information**  
 Betty Mills requires certain business or personal information to bill you as well as to make accurate delivery for your purchases.
 
-Your email address is also used to send informative Betty Mills updates and promotional newsletters, sale notices, order confirmations, customer service communications and other related information or exchange that would be considered ordinary in the normal course of transacting electronic commerce business with a customer over the Internet.
+Your email address is also used to send informative Betty Mills updates and promotional newsletters, sale notices, order confirmations, customer service communications and other related information or exchange that would be considered ordinary in the normal course of transacting electronic commerce business with a customer over the Internet. By placing an order with Betty Mills, either directly online at our website, over the phone, or from a 3rd party system, such as a procurement tool, you agree to receive such communications. 
 
 **How secure is my account information?**  
-The Betty Mills Company uses the utmost in industry standard security to safeguard the confidentiality of your personally identifiable information, such as encryption, firewalls and secure socket layers.
+The Betty Mills Company uses the utmost in industry standard security to safeguard the confidentiality of your personally identifiable information, such as encryption, firewalls and secure socket layers. 
 
 * * *
 
