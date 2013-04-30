@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the andhrafriends.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014155849id_/http%3A//www.andhrafriends.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the andhrafriends.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430183807id_/http%3A//www.andhrafriends.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <link type="text/css" href="/cometchat/cometchatcss.php" rel="stylesheet" charset="utf-8">
@@ -128,6 +128,38 @@ body { font: normal 13px "helvetica", arial, sans-serif; }
 			
 			
 		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Andhrafriends.com Jobs and IT" href="http://www.andhrafriends.com/rss/forums/3-andhrafriendscom-jobs-and-it/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Andhrafriends.com Gallery" href="http://www.andhrafriends.com/rss/forums/2-andhrafriendscom-gallery/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Recent 5 Topics" href="http://www.andhrafriends.com/rss/forums/4-recent-5-topics/">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Jobs and It" href="http://www.andhrafriends.com/rss/forums/5-jobs-and-it/">
+			
+			
+			
+		
 	
 
 	
@@ -138,7 +170,7 @@ body { font: normal 13px "helvetica", arial, sans-serif; }
 		<script type="text/javascript">
 	//<![CDATA[
 		/* ---- URLs ---- */
-		ipb.vars['base_url'] 			= 'http://www.andhrafriends.com/index.php?s=2d12e6266d9c30048c5d5384b1aa26d0&';
+		ipb.vars['base_url'] 			= 'http://www.andhrafriends.com/index.php?s=6212f22f76b3ff1dbb2c4a1d7169b008&';
 		ipb.vars['board_url']			= 'http://www.andhrafriends.com';
 		ipb.vars['img_url'] 			= "http://www.andhrafriends.com/public/style_images/tctc91_pulse";
 		ipb.vars['loading_img'] 		= 'http://www.andhrafriends.com/public/style_images/tctc91_pulse/loading.gif';
@@ -149,7 +181,7 @@ body { font: normal 13px "helvetica", arial, sans-serif; }
 		ipb.vars['is_supmod']			= parseInt( 0 );
 		ipb.vars['is_admin']			= parseInt( 0 );
 		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
-		ipb.vars['session_id']			= '2d12e6266d9c30048c5d5384b1aa26d0';
+		ipb.vars['session_id']			= '6212f22f76b3ff1dbb2c4a1d7169b008';
 		ipb.vars['twitter_id']			= 0;
 		ipb.vars['fb_uid']				= 0;
 		ipb.vars['auto_dst']			= parseInt( 0 );
@@ -224,7 +256,65 @@ body { font: normal 13px "helvetica", arial, sans-serif; }
 														
 															<a href="http://www.andhrafriends.com/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=twitter"><img src="http://www.andhrafriends.com/public/style_images/tctc91_pulse/loginmethods/twitter.png" alt="Log in with Twitter"></a>
 														
-														
+														<a href="http://www.andhrafriends.com/index.php?app=core&amp;module=global&amp;section=login&amp;do=process&amp;use_google=1&amp;auth_key=880ea6a14ea49e853634fbdc5015a024" title="Log In with Google" id="googleIcon">
+<img src="http://www.andhrafriends.com/public//style_extra/signin/login-google-icon.png" alt="Log In with Google">
+</a>
+<div id="googleOptions" style="display:none;">
+<h3>Google Sign in options</h3>
+	<form action="http://www.andhrafriends.com/index.php?app=core&amp;module=global&amp;section=login&amp;do=process&amp;use_google=1" method="post" id="googleLogin">
+<input type="hidden" name="auth_key" value="880ea6a14ea49e853634fbdc5015a024">
+<input type="hidden" value="http://www.andhrafriends.com/privacypolicy/" name="referer">
+<fieldset id="googlesignin_options">
+				<ul class="ipsForm ipsForm_vertical ipsPad_double">
+					<li class="ipsField ipsField_checkbox clearfix">
+						<input type="checkbox" id="remember" checked="checked" name="rememberMe" value="1" class="input_check">
+						<p class="ipsField_content">
+							<label for="remember">Remember me</label><br>
+							<span class="desc lighter">This is not recommended for shared computers</span>
+						</p>
+					</li>
+					
+					
+					<li class="ipsPad_top ipsForm_center desc ipsType_smaller">
+						<a rel="nofollow" href="http://www.andhrafriends.com/privacypolicy/">Privacy Policy</a>
+					</li>
+					
+				</ul>
+			</fieldset>
+<div class="ipsForm_submit ipsForm_center">
+					<input type="submit" class="ipsButton" value="Sign In">
+				</div>
+</form>
+</div>
+<script type="text/javascript">
+var _googleLogin = null;
+function googlePop()
+{
+if ( !$('googleOptions') )
+{
+return false;
+}
+if( !_googleLogin )
+{
+ _googleLogin = new ipb.Popup( 'google', { 
+type: 'pane',
+initial: $('googleOptions').innerHTML,
+hideAtStart: false,
+w: '600px',
+modal: 'true'
+} );
+}
+else
+{
+ _googleLogin.show();
+}
+}
+ $('googleIcon').observe( 'click', function(e) {
+googlePop();
+        Event.stop(e);
+        return false;
+  });
+</script>
 													</span>
 													&nbsp;&nbsp;&nbsp;&nbsp;
 													<a href="http://www.andhrafriends.com/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in">Sign In</a>&nbsp;&nbsp;&nbsp;
@@ -273,6 +363,10 @@ body { font: normal 13px "helvetica", arial, sans-serif; }
 			
 			
 		
+
+			
+			
+		
 	
 	
 										
@@ -309,26 +403,17 @@ body { font: normal 13px "helvetica", arial, sans-serif; }
 				<!-- ::: CONTENT ::: -->
 
 
-					<div class="ipsAd">
-<table>
-<tbody><tr>
-<td height="100">
-<center>
-<script type="text/javascript"><!--
+					<div class="ipsAd"><center><script type="text/javascript"><!--
 google_ad_client = "ca-pub-8717782289397774";
-/* 728x90, created 4/3/10 */
-google_ad_slot = "6112495142";
+/* Top Leaderboard */
+google_ad_slot = "4617558684";
 google_ad_width = 728;
 google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-</center>
-</td>
-
-</tr>
-</tbody></table></div>
+<center></center></center></div>
 				
 				<h2 class="ipsType_pagetitle">Privacy Policy</h2>
 <div class="row2 ipsPad" style="line-height: 1.6">
@@ -349,14 +434,16 @@ This website does not store any information that would, on its own, allow us to 
 				
 					<div class="ipsAd"><table>
 <tbody><tr>
-<td>
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "EJYDf1agkf00oh", domain:"andhrafriends.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=EJYDf1agkf00oh" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-</td>
+
+
+
+
+
+
 </tr>
 <tr>
 <td>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -370,10 +457,9 @@ This website does not store any information that would, on its own, allow us to 
   })();
 
 </script>
-</td>
-</tr>
-</tbody></table>
-</div>
+</td></tr>
+
+</tbody></table></div>
 				
         
 				<ol class="breadcrumb bottom ipsList_inline left clearfix clear">
@@ -480,6 +566,24 @@ This website does not store any information that would, on its own, allow us to 
 			<input type="hidden" name="referer" value="http://www.andhrafriends.com/privacypolicy/">
 			<h3>Sign In</h3>
 			<div class="ipsBox_notice">
+                <ul class="ipsList_inline">
+                    <li><a href="http://www.andhrafriends.com/index.php?app=core&amp;module=global&amp;section=login&amp;do=process&amp;use_google=1&amp;auth_key=880ea6a14ea49e853634fbdc5015a024" class="ipsButton_secondary" id="googleAjax"><img src="http://www.andhrafriends.com/public/style_extra/signin/login-google-icon.png" alt="Google"> &nbsp; Use Google</a></li>
+                </ul>
+            </div>
+<script type="text/javascript">
+  $('googleAjax').observe( 'click', function(e) { 
+if ( $('inline_login_form') )
+{
+$('inline_login_form').hide();
+$('sign_in_popup_inner').hide();
+$('sign_in_popup_close').hide();
+}
+googlePop();
+Event.stop(e);
+
+return false;
+  });
+</script><div class="ipsBox_notice">
 					<ul class="ipsList_inline">
 						
 							<li><a href="http://www.andhrafriends.com/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook" class="ipsButton_secondary"><img src="http://www.andhrafriends.com/public/style_images/tctc91_pulse/loginmethods/facebook.png" alt="Facebook"> &nbsp; Use Facebook</a></li>
