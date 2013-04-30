@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228195634id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430162457id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
@@ -53,7 +53,7 @@ CBN.com does not sell products for purchase by children. We sell children's prod
 CBN does not endorse any product or service of a third-party advertiser, and has no responsibility for the fulfillment of any order placed, the performance of any product or service offered, or the actions or inactions of any such third-party advertiser.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20121228195634id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20130430162457id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
@@ -85,4 +85,4 @@ A caring friend will be there to pray with you in your time of need.
 
 | 
 
-[](https://www.cbn.com/giving/special/option.aspx?intcmp=GVSL0132)[](https://web.archive.org/redir/GlobalDayofWorship_121212.aspx)
+[](https://itunes.apple.com/us/app/superbook-kids-bible-videos/id606378030?ls=1&mt=8)
