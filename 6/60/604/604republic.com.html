@@ -1,16 +1,26 @@
-<!--The following is the downloaded HTML source of the 604republic.com privacy policy that was archived on 2012-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120924225253id_/http%3A//www.604republic.com/info/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 604republic.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430164125id_/http%3A//www.604republic.com/info/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>604Republic - Privacy Policy</title>
     <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="keywords" content=""> 
+    <meta name="description">
+    <meta name="keywords"> 
     <meta property="fb:page_id" content="143425652353086">
+    <meta property="og:image">
+
+    <meta property="og:title">
+    <meta property="og:type">
+    <meta property="og:url">
+    <meta property="og:description">
+    
+    <meta property="og:site_name" content="604 Republic Apparel">
+    <meta property="fb:admins" content="554161065">
+
     <link rel="stylesheet" href="/Content/604styles.css?v=1.0.7">
     <link rel="stylesheet" href="/Content/604header.css?v=1.0.7">
     <link rel="shortcut icon" href="/content/favicon.ico">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=191356440895737"></script><script type="text/javascript" src="/scripts/jquery-1.4.1.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/scripts/jquery-1.7.1.js"></script>
     <script type="text/javascript">
         var _secureUrl = 'https://www.604republic.com';
     </script>
@@ -22,16 +32,39 @@
         _gaq.push(['_trackPageview']);
     </script>
       
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body>
     <div id="fb-root"></div>
-    <script type="text/javascript">        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
+    <script>
+        window.fbAsyncInit = function () {
+            // init the FB JS SDK
+            FB.init({
+                appId: '191356440895737', // App ID from the App Dashboard
+                channelUrl: '//http://www.604republic.com/channel.html', // Channel File for x-domain communication
+                status: true, // check the login status upon init?
+                cookie: true, // set sessions cookies to allow your server to access the session?
+                xfbml: true  // parse XFBML tags on this page?
+            });
+
+            FB.Event.subscribe('edge.create',
+                function (response) {
+                    if (typeof fbLiked == 'function') {
+                        fbLiked(); 
+                    }
+                }
+            );
+        };
+
+        // Load the SDK's source Asynchronously
+        (function (d) {
+            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
             if (d.getElementById(id)) { return; }
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=191356440895737";
-            fjs.parentNode.insertBefore(js, fjs);
-        } (document, 'script', 'facebook-jssdk'));</script>
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            ref.parentNode.insertBefore(js, ref);
+        }(document));
+    </script>
+
     <div id="mainBody">
         <div id="header">
             <a href="http://www.604republic.com" id="headerHome"><span>604Republic Apparel</span></a>
@@ -39,14 +72,16 @@
                 <div id="headerSocialMenu">
                     <div class="greeting">
                     
+
                         You're not logged in (<a href="#" id="headerLogin">login</a>)
                         <div id="loginDrop">
                             <div id="login">
-<form action="/account/login" id="loginForm" method="post" name="loginForm"><input name="__RequestVerificationToken" type="hidden" value="0UG4G904Nx/zAt8HdN7KU+pNrcODZW9LbghDGRM1/Ktc+xREzVoROKMrHBnsrX9otwfsoPq6WdEe+4fcDYzJf4BaKcJngNANK3dS3xdU7hm+Jg57iN/z0Zb4k0bVMdiQNUMSZuxzPixHLAWo85/8+nPR9nQvbuWn7vx+7yNonBo=">                                <em>LOGIN:</em>
+<form action="/account/login" id="loginForm" method="post" name="loginForm"><input name="__RequestVerificationToken" type="hidden" value="OMF7TWTKqfUzrt1MqiygI1_rJmQ2vSRRK9QmiuWeIb0rJeg5GBguAl80WREjAmeOmw90mpDXwF_Xo1eEd4WmXXYJY4QvCWvnTZSHKzAXLJ8cftPDi11C8DHtsdazVw-V3el4CSCo5pWtV4sRxg54QN31LNveEgC1NrNmrt3DxeM1">                                <em>LOGIN:</em>
                                 <div id="loginResult"></div>
                                 <p>
                                     <label for="username">Email address: </label> <input type="text" value="" name="Username" id="username" class="loginFields"><br>
                                     <label for="password">Password: </label> <input type="password" value="" name="Password" id="password" class="loginFields">
+                                    <input type="hidden" name="LoginRedirect">
                                 </p>
                                 <p>
                                     <input type="image" src="/content/i/headerLoginBut.png" id="loginBut" alt="Login"> <a href="" id="loginCancel" alt="Cancel"><img src="/content/i/headerLoginCancel.png" id="loginCancelBut" alt="Cancel Login"></a>
@@ -62,7 +97,7 @@
                                 </p>
 </form>                            </div>
                             <div id="forgotPw">
-<form action="/account/forgotpassword" id="forgotPwForm" method="post" name="forgotPwForm"><input name="__RequestVerificationToken" type="hidden" value="bQFANtK2UtIhzOZxnjqFcM0u/ZJ7IpXcJBHyyItNME24+4Rr9Cqm5aS0RO+l20V5Nac9vZ1ADPX2IMTL5O5BpHkrPdeh0hbBQs16JLs9HplmOUmumoxS8YXZ/46rJDn4Bw5N/FUoxqGGivVSdqdRZm3twddLbtdgU41ES5sEzvk=">                                   <em>ENTER YOUR EMAIL ADDRESS</em>
+<form action="/account/forgotpassword" id="forgotPwForm" method="post" name="forgotPwForm"><input name="__RequestVerificationToken" type="hidden" value="zsAzaWunnNwNCUb1SiNR6J3TN9pkSE7uoXsqnnQdX6nPhsPlLg2u8q5N8MfIHHYyaamznhcqcIyQpa6Mpoz0Kas46whRsMpqrozcXtJIdP5tjzwgqD84czwFVH1EzVF-VDIUr8cZArPKCvpOA1u45yXKu9XbBW9_i2SZUkFvMac1">                                   <em>ENTER YOUR EMAIL ADDRESS</em>
                                    <p>
                                    <input type="text" name="email" id="email">
                                    </p>
@@ -85,10 +120,12 @@
                     <li><a href="http://www.604republic.com/products/t_shirts">SHOP</a> 
                         <ul id="shopSubMenu">
                             <li><a href="http://www.604republic.com/products/t_shirts">T-SHIRTS</a></li>   
+                            <li><a href="http://www.604republic.com/products/polos">POLOS</a></li>   
                             <li><a href="http://www.604republic.com/products/hoodies">HOODIES</a></li>   
                             <li><a href="http://www.604republic.com/products/posters">POSTERS</a></li>   
                             <li><a href="http://www.604republic.com/products/hats">HATS</a></li>   
                             <li><a href="http://www.604republic.com/products/beanies">BEANIES</a></li>   
+                            <li><a href="http://www.604republic.com/products/womens">WOMEN'S</a></li>
                         </ul>
                     </li>
                     
@@ -97,6 +134,16 @@
                         <ul id="designsSubMenu">
                             <li class="designOption"><a href="/designs">VOTE ON DESIGNS</a></li>
                             <li class="designOption"><a href="/design/submit">SUBMIT A DESIGN</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="http://www.604republic.com/geekout">THE GEEKOUT</a>
+                        <ul id="geekOutSubMenu">
+                            <li><a class="geekOutCat" href="/geekout/category/stuff-for-nerds">Stuff For Nerds</a> <a href="http://www.604republic.com/geekout/getpost/thirty-amazing-doctor-who-t-shirts" class="geekOut">Thirty Amazing Doctor Who t-shirts</a></li>
+                            <li><a class="geekOutCat" href="/geekout/category/geekcetera">Geekcetera</a> <a href="http://www.604republic.com/geekout/getpost/the-descent-of-dlc" class="geekOut">The Descent of DLC</a></li>
+                            <li><a class="geekOutCat" href="/geekout/category/versus">Versus</a> <a href="http://www.604republic.com/geekout/getpost/megatron-vs-megatron" class="geekOut">Megatron vs. Megatron</a></li>
+                            <li><a class="geekOutCat" href="/geekout/category/versus">Versus</a> <a href="http://www.604republic.com/geekout/getpost/hulk-hogan-vs-mechagodzilla" class="geekOut">Hulk Hogan vs. Mechagodzilla</a></li>
+                            <li><a class="geekOutCat" href="/geekout/category/geekcetera">Geekcetera</a> <a href="http://www.604republic.com/geekout/getpost/sonys-suicidal-ps4-strategy" class="geekOut">Sony’s Suicidal PS4 Strategy</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -117,14 +164,12 @@
             <ul>
                 <li><a href="http://www.604republic.com/info/aboutus" id="headerAbout">about</a></li>
                 <li><a href="http://www.604republic.com/info/orderinginfo" id="headerOrdering">ordering info</a></li>
-                <li><a href="http://blog.604republic.com" id="headerBlog">blog</a></li>
                 <li><a href="http://www.604republic.com/info/contactus" id="headerContact">contact us</a></li>
             </ul>
             </div>
         </div>
 
         
-
 <div id="bodyContents">
     <h1>PRIVACY POLICY</h1>
     <hr>
@@ -154,19 +199,20 @@
 </div>
 
 
+
         <div id="footer">
             <div id="subFooter">
             <ul id="topMenu">
             <li><a href="http://www.604republic.com/info/privacypolicy">privacy policy</a></li>
             <li><a href="http://www.604republic.com/info/conditionsofuse">conditions of use</a></li>
-            <li>© 2012 604REPUBLIC APPAREL INC</li>
+            <li>© 2013 604REPUBLIC APPAREL INC</li>
             </ul>
             </div>
             <div id="footerLeft">
             <ul id="footerSoc">
                 <li id="footerFb"><a href="http://www.facebook.com/604Republic">facebook</a></li>
                 <li id="footerTw"><a href="https://twitter.com/604republic">twitter</a></li>
-                <li id="footerPin"><a href="http://pinterest.com/604republic/">pinterest</a></li>
+                <li id="footerPin">pinterest</li>
                 <li id="footerInst"><a href="http://web.stagram.com/n/604republic/">instagram</a></li>
                 <li id="footerTum"><a href="http://604republic.tumblr.com/">tumblr</a></li>
             </ul>
@@ -176,6 +222,7 @@
                     <h2 id="shop">SHOP:</h2>
                     <ul id="shopMenu">
                             <li><a href="http://www.604republic.com/products/t_shirts" class="cat">T-SHIRTS</a></li>   
+                            <li><a href="http://www.604republic.com/products/polos" class="cat">POLOS</a></li>   
                             <li><a href="http://www.604republic.com/products/hoodies" class="cat">HOODIES</a></li>   
                             <li><a href="http://www.604republic.com/products/posters" class="cat">POSTERS</a></li>   
                             <li><a href="http://www.604republic.com/products/hats" class="cat">HATS</a></li>   
@@ -196,12 +243,9 @@
                 <h2 id="info">INFO:</h2>
                 <ul id="infoMenu">
                     <li><a href="http://www.604republic.com/info/orderinginfo">SHIP &amp; ORDER INFO</a></li>
-                    <li><a href="http://blog.604republic.com">604R BLOG</a></li>
                     <li><a href="http://www.604republic.com/info/contactus">CONTACT US</a></li>
                     <li><a href="http://www.604republic.com/affil/account">AFFILIATE PROGRAM</a></li>
                     <li><a href="http://www.604republic.com/info/wallpapers">WALLPAPERS</a></li>
-                    <li><a href="http://www.604republic.com/info/links">LINKS</a></li>
-                    <li><a href="http://www.604republic.com/info/fanatic">604FANATICS</a></li>
                 </ul>
             </div>
             
@@ -235,23 +279,6 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
-	<script type="text/javascript">
-		adroll_adv_id = "DDNNVKII75AVZJVRNFBF3K";
-		adroll_pix_id = "6RTCI5CG55DUDJMAZKQXKS";
-		(function () {
-		var oldonload = window.onload;
-		window.onload = function(){
-		   __adroll_loaded=true;
-		   var scr = document.createElement("script");
-		   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-		   scr.setAttribute('async', 'true');
-		   scr.type = "text/javascript";
-		   scr.src = host + "/j/roundtrip.js";
-		   ((document.getElementsByTagName('head') || [null])[0] ||
-			document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-		   if(oldonload){oldonload()}};
-		}());
-	</script>
 
 
 </body></html>
