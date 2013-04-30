@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014201011id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430161931id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kiwiblog
 
@@ -15,7 +15,7 @@ The e-mail address you used to register
 Your user name if registered  
 Your IQ (okay not that one)
 
-I reserve the right to use or publicise any of the above information. However, unless there is good reason, I intend to only publish information in summarised form (44% of browsers used are Firefox) or with no personal details (such as machine name or IP address) attached. The most common information published will be amusing search engine queries.
+I reserve the right to use or publicise any of the above information. However, unless there is good reason, I intend to only publish information in summarised form (such as 44% of browsers used are Firefox) or with no personal details (such as machine name or IP address) attached. The most common information published will be amusing search engine queries.
 
 If you post a comment on my blog, your IP address plus the date and time you made the comment are recorded. If you vote in a blog poll your user name (if registered) and IP address are recorded.
 
@@ -36,5 +36,5 @@ Also you should be aware:
 
 
 
-Tags: [Uncategorized](http://www.kiwiblog.co.nz/tag/uncategorized "Uncategorized")  
+Tags: [Kiwiblog](http://www.kiwiblog.co.nz/tag/kiwiblog "Kiwiblog")  
 
