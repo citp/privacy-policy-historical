@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510045818id_/http%3A//selector.com/au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430231754id_/http%3A//selector.com/au/pages/privacy) for the most accurate reproduction.*
 
-# Privacy - Selector Australia
+# Selector Australia
 
 Architecture Media, which includes for the purpose of this document Architecture Media (Selector) and AGM Publishing, is committed to protecting your privacy in accordance with the relevant legislation being the Privacy Amendment (Private Sector) Act 2000 or equivalent legislation applying in New Zealand. This policy covers all personal information held by us.
 
@@ -8,7 +8,7 @@ You may be able to use our sites for a limited period without providing any pers
 
 ## Collecting information
 
-We will ask you before collecting personal information and do so in a lawful and fair way. Generally, this information is requested to allow us to contact you, to facilitate your request to contact a company which has information listed on our sites, before you enter a contest or to order e-mail newsletters. For example: If you request further information about a product listed on our sites you will be asked for your address, telephone, facsimile and other contact details to facilitate this request. 
+We will ask you before collecting personal information and do so in a lawful and fair way. Generally, this information is requested to allow us to contact you, to facilitate your request to contact a company which has information listed on our sites, before you enter a contest or to order e-mail newsletters. For example: If you request further information about a product listed on our sites you will be asked for your address, telephone, facsimile and other contact details to facilitate this request.
 
 We will tell you why we are collecting information and identify any third parties the information is disclosed to. We will tell you what impact it may have if you do not wish to provide the requested information. If we collect the information from a third party we will take reasonable steps to advise you of that collection.
 
@@ -20,7 +20,7 @@ Typically we will use your personal details for three primary purposes:
 
   * To make our websites easier for you to use without repeated log-ins.
   * To analyze areas of our sites to make improvements.
-  * To report to the companies with information on our sites details about who is viewing their information. 
+  * To report to the companies with information on our sites details about who is viewing their information.
 
 
 
@@ -38,7 +38,7 @@ Architecture Media will take reasonable steps to ensure that the personal inform
 
 ## Cookies
 
-To assist in your navigation of our sites and for our reporting functions Architecture Media websites may collect aggregated site-visitation statistics using cookies. If you choose to not have your browser accept cookies from us, you may not be able to view all information on our site. 
+To assist in your navigation of our sites and for our reporting functions Architecture Media websites may collect aggregated site-visitation statistics using cookies. If you choose to not have your browser accept cookies from us, you may not be able to view all information on our site.
 
 ## Disclosing information
 
