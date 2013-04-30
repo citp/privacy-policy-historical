@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africabeauties.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018080657id_/http%3A//www.africabeauties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africabeauties.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430171037id_/http%3A//www.africabeauties.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,8 +90,6 @@ Children under eighteen years of age are prohibited from using Our Websites. We 
 AfricaBeauties.com may periodically send you email messages describing updates, new features, or promotional offers related to this Web site. You can choose to stop receiving this email at any time.
 
 To unsubscribe follow the instructions at [http://unsubscribe.africabeauties.com](http://unsubscribe.africabeauties.com/) or email us at [unsubscribe@africabeauties.com](mailto:unsubscribe@africabeauties.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
-
-Also you can send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:
 
 ## III. Access
 
