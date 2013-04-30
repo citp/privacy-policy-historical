@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicnmovies.com privacy policy that was archived on 2012-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120728081504id_/http%3A//musicnmovies.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnmovies.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430155023id_/http%3A//www.musicnmovies.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
