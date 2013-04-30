@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webreinvent.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503234632id_/http%3A//www.webreinvent.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webreinvent.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430215449id_/http%3A//webreinvent.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head class="no-js">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,12 +12,24 @@
 <script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <link href="http://fonts.googleapis.com/css?family=Muli" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=News+Cycle" rel="stylesheet" type="text/css">
-
+<link href="http://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet" type="text/css">
 
 <!--<script type="text/javascript" src="js/jquery.js"></script>-->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
 <script type="text/javascript" src="js/common.js"></script>
 <script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+ <script type="text/javascript" src="js/slides.min.jquery.js"></script>
+<script>
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				preloadImage: 'img/loading.gif',
+				play: 2500,
+				pause: 2500,
+				hoverPause: true
+			});
+		});
+	</script> 
 
 <link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.3.4.css" media="screen">
 <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -25,7 +37,47 @@
 </head>
 <body>
 <!--header-->
-
+<div class="hide">
+<div class="pro_form " id="project_form">
+  <div class="pro_form_top"></div>
+  <div class="pro_form_mid">
+    <form method="post">
+      <div class="pro_form_filed green_mark">
+        <label class="pro_label">My Name</label>
+        <input name="name" type="text" class="pro_form_input">
+      </div>
+      <div class="pro_form_filed grey_mark">
+        <label class="pro_label">My Email</label>
+        <input name="dak" type="text" class="pro_form_input">
+      </div>
+      <div class="pro_form_filed grey_mark">
+        <label class="pro_label">My Phone</label>
+        <input name="phone" type="text" class="pro_form_input">
+      </div>
+      <div class="pro_form_filed grey_mark">
+        <label class="pro_label">My Website</label>
+        <input name="website" type="text" class=" pro_form_input">
+      </div>
+      <div class="pro_form_filed grey_mark">
+        <label class="pro_label">My Budget ($)</label>
+        <input name="budget_from" type="text" class=" pro_form_input1">
+        <label class="pro_to">To</label>
+        <input name="budget_to" type="text" class=" pro_form_input1">
+      </div>
+      <div class="pro_form_filed">
+        <label class="pro_label">Here's what i got to say</label>
+        <textarea name="msg" cols="45" rows="4" class="pro_text"></textarea>
+      </div>
+      <div class="pro_form_filed">
+        <input name="submit" type="submit" class="pro_form_btn" value="   ">
+      </div>
+      
+      <input type="hidden" name="task" value="project_planner">
+    </form>
+  </div>
+  <div class="pro_form_bottom"></div>
+</div>
+</div>
 <img src="fancybox/fancybox.png" class="hide" alt="">
 
 
@@ -35,7 +87,7 @@
     <!--header-->
     <header>
       <!--logo-->
-      <div class="logo"> <a href="http://www.webreinvent.com/"><img src="images/logo.png" width="356" height="100" alt="Webreinvent"></a> </div>
+      <div class="logo"> <a href="http://www.webreinvent.com/"><img title="a web innovation company" src="images/logo.png" width="356" height="100" alt="Webreinvent"></a> </div>
       <!--/logo-->
       <!--header_right-->
       <div class="header_right">
@@ -43,13 +95,13 @@
       
         <section>
         
-        <a href="instant_quote.php" target="_blank" class="instant_quote_btn"><span>Instant Quote</span></a>
+        <a href="instant_quote.php" title="Website Development Price Quote" target="_blank" class="instant_quote_btn"><span>Instant Quote</span></a>
         
-        <a href="http://www.webreinvent.com/pms/" target="_blank" class="login_btn"><span>Client Login</span></a>
+        <a href="http://www.webreinvent.com/pms/" target="_blank" class="login_btn" title="Get Started With US"><span>Client Login</span></a>
         
-           <a href="http://www.facebook.com/pages/WebReinvent/204425406249172" target="_blank" class="icons mr_left_15"><img src="images/facebook.gif" width="24" height="24" alt="facebook"></a>
-           <a href="http://twitter.com/#!/weinvent" target="_blank" class="icons"><img src="images/twitter.gif" width="24" height="24" alt="twitter"></a>
-           <a href="http://www.linkedin.com/company/webreinvent" target="_blank" class="icons"><img src="images/linkedin'.gif" width="24" height="24" alt="linkedin"></a>
+           <a href="http://www.facebook.com/pages/WebReinvent/204425406249172" target="_blank" class="icons mr_left_15" title="Facebook"><img src="images/facebook.gif" width="24" height="24" alt="facebook"></a>
+           <a href="http://twitter.com/#!/weinvent" target="_blank" class="icons" title="Twitter"><img src="images/twitter.gif" width="24" height="24" alt="twitter"></a>
+           <a href="http://www.linkedin.com/company/webreinvent" target="_blank" class="icons" title="Linkedin"><img src="images/linkedin'.gif" width="24" height="24" alt="linkedin"></a>
 <!--           <a href="http://www.elance.com/s/webreinvent/" target="_blank" class="icons"><img src="images/elance.gif" width="24" height="24" alt="elance"/></a>-->
            <a href="http://www.webreinvent.com/blog" title="WebReinvent Official Blog" target="_blank" class="icons"><img src="images/blog_icon.png" width="24" height="24" alt="WebReinvent Official Blog"></a>
            
@@ -92,7 +144,7 @@
             <li><a href="psd-to-html5-css3-cms.php">» PSD to HTML5, Joomla, Wordpress etc </a></li>
             <li><a href="joomla-template-extension-development.php">» Joomla Development</a></li>
             <li><a href="wordpress-theme-plugin-development.php">» Wordpress Development</a></li>
-            <li><a href="ecommerce-optimization.php">» Magento (Ecommerce) Development</a></li>
+            <li><a href="custom-ecommerce-website-design.php">» Magento (Ecommerce) Development</a></li>
             <li><a href="custom-web-application-development.php">» Web Application Development</a></li>
             <li><a href="elearning-solutions.php">» Elearning Portals Development</a></li>
             </ul>
@@ -148,7 +200,6 @@
             <ul>
             <li><a href="http://www.searchcarpools.com" target="_blank">» SearchCarpools.com</a></li>
             <li><a href="http://www.hiregenius.com" target="_blank">» HireGenius.com</a></li>
-            <li><a href="http://www.togplus.com" target="_blank">» ToGplus.com</a></li>
             </ul>
             
             
@@ -158,9 +209,9 @@
             <a href="products.php#beauty" class="title">Joomla Extensions</a>
             <hr>
             <ul>
-            <li><a href="products.php#beauty">» HTML Slider</a></li>
-            <li><a href="products.php#beauty">» Beautiful SlideShow</a></li>
-            <li><a href="#">» Prashan (Comming Soon)</a></li>
+            <li><a href="http://products.webreinvent.com/shop/html-scroller-joomla-module" target="_blank">» HTML Slider</a></li>
+            <li><a href="http://products.webreinvent.com/shop/beautiful-slideshow" target="_blank">» Beautiful SlideShow</a></li>
+            <li><a href="http://products.webreinvent.com/shop/prashan-question-answer-joomla-premium-component" title="Questions &amp; Answers Component/Extension Joomla" target="_blank">» Prashan</a></li>
             </ul>
             
             
@@ -222,11 +273,40 @@
     </header>
     <!--/header-->
     
+    
+    
+    
    
     
   </div>
   <!--/master-->
 </div>
+
+
+<!--section_name-->
+
+<div class="container banner-con-bg">
+
+<div class="master">
+
+<div class="banner-prashan">
+
+  <a href="http://products.webreinvent.com/shop/prashan-question-answer-joomla-premium-component" target="_blank"><img src="images/banner-prashan.jpg" width="802" height="103" alt=""></a>
+
+  <a href="http://products.webreinvent.com/shop/prashan-question-answer-joomla-premium-component" target="_blank" class="buy-nows">Buy now</a>
+
+  <a href="http://products.webreinvent.com/demo/j25/index.php?Itemid=477" target="_blank" class="views-demos">view demo</a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<!--section_name-->
+
+
+
 
 
 
@@ -245,8 +325,17 @@ $(".iframe").fancybox({
 </script>  
 
 <div class="testi">
-<a href="http://www.youtube.com/embed/RLvzv_mDpVk?autoplay=1" onclick="javascript:pageTracker._trackEvent('Video', 'View Video', 'Testimonial Video');" target="_blank" class="various iframe"><img src="images/testi.png" alt=""></a>
-</div><!--/header-->
+<a href="http://www.youtube.com/embed/RLvzv_mDpVk?autoplay=1" title="Client Feedback" onclick="javascript:pageTracker._trackEvent('Video', 'View Video', 'Testimonial Video');" target="_blank" class="various iframe"><img src="images/testi.png" alt=""></a>
+</div>
+
+<!--hiring-->
+
+<div class="hiring">
+<a href="http://webreinvent.com/jobs" title="Current Job Opening Details" target="_blank"><img src="http://www.webreinvent.com/images/hiring.png" alt=""></a>
+</div>
+
+<!--hiring-->
+<!--/header-->
     
 <!--container-->
 <div class="container">
@@ -394,23 +483,23 @@ For more Details visit: http://www.2checkout.com</p>
     <div class="foonav">
       <div class="followus">
         <h5>Follow Us On</h5>
-        <a target="_blank" href="http://www.facebook.com/pages/WebReinvent/204425406249172"></a> <a style="margin-left:20px;" href="http://twitter.com/#!/weinvent" target="_blank"></a>
+        <a target="_blank" href="http://www.facebook.com/pages/WebReinvent/204425406249172" title="Facebook"></a> <a style="margin-left:20px;" href="http://twitter.com/#!/weinvent" target="_blank" title="Twitter"></a>
         </div>
       <div class="footernavouter">
       <div class="footernav">
         <ul style="width:193px;">
-          <li class="bg_none"><a style="background:none;" href="services.php"><span>Services </span></a></li>
-          <li><a href="creative-solutions-india.php">Website Design</a></li>
-          <li><a href="web-development-services.php">Website Development</a></li>
-          <li><a href="internet-marketing-promotion.php">Internet Marketing</a></li>
-          <li><a href="psd-to-html5-css3-cms.php">PSD to HTML5</a></li>
-<li><a href="joomla-template-extension-development.php">Joomla Template &amp; Extension</a></li>
-          <li><a href="wordpress-theme-plugin-development.php">Wordpress Theme &amp; Plugin</a></li>
-          <li><a href="custom-ecommerce-website-design.php">Ecommerce Development</a></li>
-          <li><a href="guaranteed-seo-services.php">SEO Services</a></li>
-          <li><a href="ppc-service.php">PPC Campaigns</a></li>
-          <li><a href="google-adwords-optimization.php">Google Adwords Campaigns</a></li>
-          <li><a href="landing-page-design.php">Landing Page Design</a></li>
+          <li class="bg_none"><a style="background:none;" href="services.php" title="Web Design &amp; Development Company"><span>Services </span></a></li>
+          <li><a href="creative-solutions-india.php" title="Website Design Company India">Website Design</a></li>
+          <li><a href="web-development-services.php" title="Website Development Company India">Website Development</a></li>
+          <li><a href="internet-marketing-promotion.php" title="Internet Marketing Company India">Internet Marketing</a></li>
+          <li><a href="psd-to-html5-css3-cms.php" title="PSD to HTML5 India">PSD to HTML5</a></li>
+<li><a href="joomla-template-extension-development.php" title="Joomla Tempalate &amp; Extension Development">Joomla Template &amp; Extension</a></li>
+          <li><a href="wordpress-theme-plugin-development.php" title="Wordpress Theme &amp; Plugin Development">Wordpress Theme &amp; Plugin</a></li>
+          <li><a href="custom-ecommerce-website-design.php" title="Custom Ecommerce Website Design">Ecommerce Development</a></li>
+          <li><a href="guaranteed-seo-services.php" title="Seo Services in India">SEO Services</a></li>
+          <li><a href="ppc-service.php" title="PPC Advertising Company">PPC Campaigns</a></li>
+          <li><a href="google-adwords-optimization.php" title="Google Adwords Campaigns">Google Adwords Campaigns</a></li>
+          <li><a href="landing-page-design.php" title="Landing Page Design Company">Landing Page Design</a></li>
           
                     
         </ul>
@@ -421,6 +510,7 @@ For more Details visit: http://www.2checkout.com</p>
           <li class="bg_none"><a style="background:none;" href="http://products.webreinvent.com/" target="_blank"><span> Products  </span></a></li>
           <li><a href="http://products.webreinvent.com/shop/beautiful-slideshow" target="_blank">Beautiful Slideshow Module</a></li>
           <li><a href="http://products.webreinvent.com/shop/html-scroller-joomla-module" target="_blank">HTML Scroller Module</a></li>
+          <li><a href="http://products.webreinvent.com/shop/html-scroller-joomla-module" target="_blank" title="Questions &amp; Answers Component/Extension Joomla">Prashan: QA Joomla Component</a></li>
           <li><a href="google-keyword-competition-checker.php">Google Competition Checker</a></li>
           <li><a href="http://www.searchcarpools.com" target="_blank">SearchCarpools.com</a></li> 
           <li><a href="http://portal.hiregenius.com" target="_blank">Portal HireGenius</a></li> 
@@ -453,22 +543,21 @@ For more Details visit: http://www.2checkout.com</p>
       
       </div>
        <div class="get_instant">
-      <a href="instant_quote.php" class="get_instantbtn"></a>
+      <a href="instant_quote.php" title="Free Instant Project Cost Evaluation" class="get_instantbtn"></a>
       <p>Dropping a query for a quote does not oblige you to do business with us, but it will certainly increase your knowledge of the market rates.</p>
-      
       <p class="html_5">
        <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.webreinvent.com%2F&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0" target="_blank" class="html5"></a>
-            <a href="custom-web-application-development.php" class="codeig"></a>
-      <a href="wordpress-theme-plugin-development.php" class="wrdprs"></a>
-      <a href="custom-ecommerce-website-design.php" class="drupal"></a>
-      <a href="joomla-template-extension-development.php" class="jooma"></a>
+            <a href="custom-web-application-development.php" title="Web Applications" class="codeig"></a>
+      <a href="wordpress-theme-plugin-development.php" title="Wordpress Development" class="wrdprs"></a>
+      <a href="custom-ecommerce-website-design.php" title="Magento Development" class="drupal"></a>
+      <a href="joomla-template-extension-development.php" title="Joomla Development" class="jooma"></a>
       </p>
 
       
       </div>
      
       <br class="clear"><br>
-      <div class="wbrivnt"> Copyright © 2012 <a title="A web innovation company" href="http://www.WebReinvent.com" class="white">WebReinvent</a>. All rights reserved. </div>
+      <div class="wbrivnt"> Copyright © 2013 <a title="Website Design &amp; Development Services India" href="http://www.WebReinvent.com" class="white">WebReinvent Technologies Pvt Ltd</a>. All rights reserved. </div>
     </div>
   </div>
   <!--/master-->
