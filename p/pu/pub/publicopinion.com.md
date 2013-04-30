@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicopinion.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014626id_/http%3A//publicopinion.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicopinion.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430143312id_/http%3A//www.publicopinion.com/policy.aspx) for the most accurate reproduction.*
 
 # PublicOpinion Privacy Policy
 
