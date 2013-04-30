@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118070813id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430165849id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
 
 # SnazzySpace.com - Privacy Policy!
 
@@ -25,11 +25,3 @@ SnazzySpace does not collect any personal information. This site will never ask 
 If you have any questions regarding our privacy policy, terms of use, or anything found on this site you can reach us by [clicking here.](mailto:snazzyspacedtocom@gmail.com)
 
 [ ](http://www.facebook.com/snazzyspacedotcom)
-
-Tumblr Cursors
-
-[ ](http://www.snazzyspace.com/cursor-code/3d-moustache-png "3d Moustache Tumblr Cursor")
-
-[ ](http://www.snazzyspace.com/cursor-code/mickey-hand-png "Mickey Hand Tumblr Cursor")
-
-[ ](http://www.snazzyspace.com/cursor-code/one-direction-png "One Direction Tumblr Cursor")
