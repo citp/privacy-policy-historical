@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920032601id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430235302id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Latest-Hairstyles.com
 
@@ -48,6 +48,10 @@ Some of our sites contain links to other sites whose information practices may b
 
 Latest-Hairstyles.com sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).   
 
+
+**Notice Regarding Online Behavioral Advertising**
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>. 
 
 **Web Cookies & Web Beacons**
 
