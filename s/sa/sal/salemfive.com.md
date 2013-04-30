@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010113150id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010939id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
-[printer-friendly version (.pdf)](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2012.pdf "Click here to view and print Privacy Notice")  
-Rev January 2012
+[printer-friendly version (.pdf)](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2013.pdf "Click here to view and print Privacy Notice")  
+Rev January 2013
 
 If you wish to retain a copy of our privacy notice for your records, please click the print button below:
 
-[](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2012.pdf "Click here to view and print Privacy Notice.")
+[](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2013.pdf "Click here to view and print Privacy Notice.")
 
 | 
 
@@ -35,14 +35,9 @@ Financial companies choose how they share your personal information. Federal law
 
 The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-  * Social Security number and income
-
-  * Account balances and transaction history
-
-  * Payment history and credit scores
-
-
-
+\- Social Security number and income  
+\- Account balances and transaction history  
+\- Payment history and credit scores
 
 When you are _no longer_ our customer, we continue to share your information as described in this notice.  
   
@@ -123,7 +118,7 @@ YES
 
 YES  
   
-**For our affiliates to market to you**
+**For non-affiliates to market to you**
 
 | 
 
@@ -186,4 +181,4 @@ Salem, MA 01970
 
 |   
   
-[](https://www.salemfive.com/index.php/privacy-notice-jan-2012-page2 "Click here to continue to Privacy Notice Page 2")
+[](https://www.salemfive.com/index.php/privacy-notice-jan-2013-page2 "Click here to continue to Privacy Notice Page 2")
