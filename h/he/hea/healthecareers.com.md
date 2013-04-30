@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017085434id_/http%3A//www.healthecareers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430052634id_/http%3A//www.healthecareers.com/privacy-policy) for the most accurate reproduction.*
 
-# HEALTHeCAREERS Network
+# HealtheCareers
 
 **1.0 Overview.**  
 This Privacy Policy covers how OnTargetJobs, Inc. and its subsidiaries and affiliated companies (collectively "OTJ") treat personal information that OTJ collects and receives. OTJ is committed to providing you with a safe, secure environment from which you can confidently register, apply for jobs and utilize other career and recruitment related services. Personal information is information about you that is personally identifiable like your name, address, email address or phone number, and that is not otherwise publicly available. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to the OTJ Web Sites and does not apply to information we collect in any other fashion. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in the Privacy Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive e-mails, as described below in this Privacy Policy.
@@ -40,7 +40,7 @@ We reserve the right to send you certain communications relating to OTJ, such as
 
 You can access, update or edit your account at any time by logging on with you login/username and password. This includes changes to your registration information, resume(s), preferences, job alerts and newsletters. If you have forgotten your password, you can use the "Forgot Password" functionality on the Web sites. If you require assistance, you can contact our service team by using the "Contact Us" link on the Web sites.
 
-**OTJ reserves the right to deactivate or delete a job seeker file at our discretion.**  
+**OTJ reserves the right to deactivate or delete a job seeker file at our discretion.**   
 We do not disclose your personal information to third parties, or your combined personal and demographic information or information about your use of OTJ, except as set forth below.
 
 > 1\. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register, we supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party. 
