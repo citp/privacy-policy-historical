@@ -1,7 +1,19 @@
-<!--The following is the downloaded HTML source of the typesafe.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014112318id_/http%3A//typesafe.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the typesafe.com privacy policy that was archived on 2013-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430120845id_/http%3A//www.typesafe.com/company/privacy) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<!DOCTYPE html><html><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="description" content="Typesafe provides an easy-to-use packaging of the Scala programming language, Akka middleware, and developer tools via the open source Typesafe Stack, as well as commercial support and maintenance via the Typesafe Subscription. Typesafe also provides training and consulting services to accelerate the commercial adoption of Scala and Akka.">
+        <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png">
+        <link rel="stylesheet" type="text/css" media="screen" href="/public/stylesheets/main.css">
+        <link href="https://plus.google.com/108281124915010080743" rel="publisher">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/public/javascripts/jquery-1.7.1.min.js"></script>
+        <!--[if lt IE 9 ]><script>$.each(("header footer section aside nav article figure").split(" "),function(i,name){document.createElement(name);});</script><![endif]--> 
+        <title>Typesafe — Company: Privacy</title>
+
+        
+
+<script type="text/javascript">
     var jsRoutes = {}; (function(_root){
 var _nS = function(c,f,b){var e=c.split(f||"."),g=b||_root,d,a;for(d=0,a=e.length;d<a;d++){g=g[e[d]]=g[e[d]]||{}}return g}
 var _qS = function(items){var qs = ''; for(var i=0;i<items.length;i++) {if(items[i]) qs += (qs ? '&' : '') + items[i]}; return qs ? ('?' + qs) : ''}
@@ -17,30 +29,26 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
 </script>
 
 
-
-
-    
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="description" content="Typesafe provides an easy-to-use packaging of the Scala programming language, Akka middleware, and developer tools via the open source Typesafe Stack, as well as commercial support and maintenance via the Typesafe Subscription. Typesafe also provides training and consulting services to accelerate the commercial adoption of Scala and Akka.">
-        <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png">
-        <link rel="stylesheet" type="text/css" media="screen" href="/public/stylesheets/main.css">
-        <script src="/public/javascripts/jquery-1.7.1.min.js"></script>
-        <!--[if lt IE 9 ]><script>$.each(("header footer section aside nav article figure").split(" "),function(i,name){document.createElement(name);});</script><![endif]--> 
-        <title>Typesafe — Company: Privacy</title>
         <script>
+      
+
+        function getRandomInt (min, max) {
+          return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        function updateHtml(data) {
+            var tweet = data[getRandomInt(0,data.length-1)];
+            $('#tweet_url').attr('href', tweet['url']);
+            $('#tweet_author').html(tweet['author']);
+            $('#tweet_content').html(tweet['content']);
+        }
+
         function updateTweet() {
           jsRoutes.controllers.Application.randomTweet().ajax({
-            success: function(data) { 
-              $.each(data, function(key, val) {
-                if (key == "url") {
-                  $('#tweet_url').attr('href', val);
-                } else if (key == "author") {
-                  $('#tweet_author').html(val);
-                } else if (key == "content") {
-                  $('#tweet_content').html(val);
-                } 
-              });
+            success: function(data) {
+              updateHtml(data);
               $("#liveTweeter").show();
+              setInterval( function() { updateHtml(data); }, 10000);
             },
             error: function(data) {
               $("#liveTweeter").hide();
@@ -50,7 +58,6 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
       
         $(document).ready(function(){
           updateTweet();
-          setInterval( updateTweet, 10000 ); //10 seconds
         });
         </script>
         
@@ -61,7 +68,7 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
                 <div class="container">
                      <div id="liveTweeter" style="">
                           <span class="twit"> 
-                             <a id="tweet_url" href=""><strong id="tweet_author">Loading...</strong> <span id="tweet_content"></span></a>
+                             <a id="tweet_url" href="https://web.archive.org/web/20130501041930/http://twitter.com/adriaanm/statuses/324700523636858880"><strong id="tweet_author">Adriaan Moors</strong> <span id="tweet_content">Scala 2.10! What's new!? Presenting in a few. #scala #typesafe w/ @gkossakowski @jamie_allen (at @StackMob) [pic]: http://t.co/FW3rWvyQEv</span></a>
                           </span>
                       </div>
                 </div>
@@ -71,11 +78,11 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
 
                 <h1 id="logo"><a href="/"><img src="/public/images/logo.png" alt="Typesafe"></a></h1>
                 <ul id="menu">
-                    <li><a href="/technology/stack" class="">Typesafe Stack</a></li>
-                    <li><a href="/technology/technology/overview" class="" "="">Technology</a></li>
-                    <li><a href="/products/" class="" "="">Products and Services</a></li>
-                    <li><a href="/resources/" class="" "="">Resources</a></li>
-                    <li><a href="/company/" class="selected" "="">Company</a></li>
+                    <li><a href="/stack/overview" class="">Typesafe Stack</a></li>
+                    <li><a href="/technology/overview" class="" "="">Technology</a></li>
+                    <li><a href="/products/overview" class="" "="">Products and Services</a></li>
+                    <li><a href="/resources/overview" class="" "="">Resources</a></li>
+                    <li><a href="/company/overview" class="selected" "="">Company</a></li>
                     <li><a href="http://blog.typesafe.com">Blog</a></li>
                      <!-- FIXME "sign in" in an else branch here -->
                 </ul>
@@ -134,7 +141,7 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
 
 
 <div id="subMenu">
-    <h4><a href="/company/">Company</a></h4>
+    <h4><a href="/company/overview">Company</a></h4>
     <ul>
         
             <li>
@@ -240,26 +247,26 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
             <div class="container">
                 
                 <ul> 
-                    <li><h5><a href="/technology/technology/overview">Technology</a></h5></li> 
-                    <li><a href="/technology/technology/scala">Scala</a></li> 
-                    <li><a href="/technology/technology/akka">Akka</a></li> 
-                    <li><a href="/technology/technology/play">Play</a></li> 
-                    <li><a href="/technology/technology/scala-ide">Scala IDE</a></li> 
-                    <li><a href="/technology/technology/sbt">Simple Build Tool</a></li> 
-                    <li><a href="/technology/technology/migration-manager">Migration Manager</a></li> 
+                    <li><h5><a href="/technology/overview">Technology</a></h5></li> 
+                    <li><a href="/technology/scala">Scala</a></li> 
+                    <li><a href="/technology/akka">Akka</a></li> 
+                    <li><a href="/technology/play">Play</a></li> 
+                    <li><a href="/technology/scala-ide">Scala IDE</a></li> 
+                    <li><a href="/technology/sbt">Simple Build Tool</a></li> 
+                    <li><a href="/technology/migration-manager">Migration Manager</a></li> 
                 </ul> 
                 
                 <ul> 
-                    <li><h5><a href="/products/">Products and Services</a></h5></li> 
-                    <li><a href="/technology/stack">Typesafe Stack</a></li> 
-                    <li><a href="/company/products/typesafe-subscription">Typesafe Subscription</a></li> 
+                    <li><h5><a href="/products/overview">Products and Services</a></h5></li> 
+                    <li><a href="/stack/overview">Typesafe Stack</a></li> 
+                    <li><a href="/products/typesafe-subscription">Typesafe Subscription</a></li> 
                     <li><a href="/products/console">Typesafe Console</a></li> 
                     <li><a href="/products/training">Training</a></li> 
-                    <li><a href="/company/products/consulting">Consulting</a></li> 
+                    <li><a href="/products/consulting">Consulting</a></li> 
                 </ul>
                 
                 <ul> 
-                    <li><h5><a href="/resources/">Resources</a></h5></li> 
+                    <li><h5><a href="/resources/overview">Resources</a></h5></li> 
                     <li><a href="/resources/getting-started">Getting Started</a></li> 
                     <li><a href="/resources/documentation">Documentation</a></li> 
                     <li><a href="/resources/typesafe-stack-whitepaper">Whitepaper</a></li> 
@@ -271,7 +278,7 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
                 </ul>
 
                 <ul> 
-                    <li><h5><a href="/company/">Company</a></h5></li> 
+                    <li><h5><a href="/company/overview">Company</a></h5></li> 
                     <li><a href="/company/team">Team</a></li> 
                     <li><a href="/company/partners">Partners</a></li> 
                     <li><a href="/company/news">News</a></li> 
@@ -290,8 +297,10 @@ _nS('controllers.Application'); _root.controllers.Application.randomTweet =
             </div>
            <div class="container credits">
                <div class="logo">
-               <a href="http://scala-lang.org" class="scala"><img src="/public/images/scala-mini.png" alt="Scala"></a>
-               <a href="http://scala.playframework.org" class="play"><img src="/public/images/play-footer.png" style="margin-bottom:2px" alt="Play"></a> </div>
+                 <a href="http://scala-lang.org"><img src="/public/images/scala-footer.png" alt="Scala" style="margin-right: 6px"></a>
+                 <a href="http://www.playframework.com"><img src="/public/images/play-footer.png" alt="Play" style="margin-right: 6px"></a> 
+                 <a href="http://akka.io"><img src="/public/images/akka-footer.png" alt="Akka"></a>
+               </div>
              <p>Copyright © 2012 Typesafe, Inc. All rights reserved.</p>
 
            </div>
@@ -319,7 +328,7 @@ s.parentNode.insertBefore(ga, s);
     new Date().getTime()+
     '&ref='+escape(document.referrer) + '">'
   );
-        </script><img src="http://marketing.typesafe.com/acton/bn/3608/visitor.gif?ts=1580428246456&amp;ref=">
+        </script><img src="http://marketing.typesafe.com/acton/bn/3608/visitor.gif?ts=1580428244333&amp;ref=">
     
 
 
