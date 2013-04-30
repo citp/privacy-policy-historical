@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010064433id_/http%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010513id_/http%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - TeachersPayTeachers.com
 
@@ -52,7 +52,7 @@ Please note that we may revise our above policy without notice to users as the c
 
 We hope that you enjoy exploring and participating in our site.
 
-TEACHERSPAYTEACHERS.COM is owned and operated by Teacher Synergy Inc., PO Box 412 Port Chester, NY, 10573. We can be reached by e-mail at info@teacherspayteachers.com. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
+TEACHERSPAYTEACHERS.COM is owned and operated by Teacher Synergy Inc., 9340 Peninsula Dr, Dallas, TX 75218. You can reach us from our [Contact Us](https://support.teacherspayteachers.com/) page. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
 
 The effective date of this Privacy Policy is February 21, 2010.
 
