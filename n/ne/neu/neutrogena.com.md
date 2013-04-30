@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014012242id_/http%3A//www.neutrogena.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430040155id_/http%3A//www.neutrogena.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
-# Neutrogena - Privacy Policy
+# Privacy Policy | Neutrogena®
 
-**Privacy Policy**
+| 
+
+|  **Privacy Policy**
 
 Welcome to the Neutrogena website (www.neutrogena.com or the "Website"). The Website is owned by Neutrogena Corporation. This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website. This website is intended for visitors from the United States. If you reside outside of the United States, you can call us. [Click here](https://www.ccc-consumercarecenter.com/phone_us?utm_source=n_store&utm_medium=website&utm_campaign=ntg_privacy) for a list of telephone numbers by country.
 
@@ -64,3 +66,7 @@ This Privacy Policy may change over time. Neutrogena will notify you by e-mail o
 Your use of this site is subject to our [Legal Notice](https://web.archive.org/category/customer+service/legal+notice.do) and [Terms of Use](https://web.archive.org/category/customer+service/terms+of+use.do). 
 
 **Last Updated: July 31, 2012**
+
+|   
+  
+---|---|---|---
