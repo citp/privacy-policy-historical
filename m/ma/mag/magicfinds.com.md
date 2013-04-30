@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicfinds.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103231435id_/http%3A//magicfinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicfinds.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430171057id_/http%3A//magicfinds.com/privacy.php) for the most accurate reproduction.*
 
 # MagicFinds.Com
 
