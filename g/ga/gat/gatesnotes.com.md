@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatesnotes.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626021650id_/https%3A//www.thegatesnotes.com/GlobalPages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatesnotes.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430024627id_/http%3A//www.thegatesnotes.com/GlobalPages/Privacy-Policy) for the most accurate reproduction.*
 
 # Gates Notes Privacy Policy
 
