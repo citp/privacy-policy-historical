@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optionalpha.com privacy policy that was archived on 2012-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120812002852id_/http%3A//optionalpha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionalpha.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430130602id_/http%3A//optionalpha.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Option Alpha Options Trading
+# Privacy Policy | Option Alpha - Options Trading
 
 No information you provide to Option Alpha will be sold, disclosed, or given to any other party at any time. Contents of the mailing list or any client information will never be sold or provided to anyone else at any time.
 
