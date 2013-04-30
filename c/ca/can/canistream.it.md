@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canistream.it privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231195853id_/http%3A//www.canistream.it/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canistream.it privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430055950id_/http%3A//www.canistream.it/pages/privacy) for the most accurate reproduction.*
 
-# CanIStream.It: Search Netflix, Hulu, Google Play, iTunes, and more, for movies to stream instantly, rent, and buy.
+# Can I Stream.It?: Search Netflix, Hulu, Google Play, iTunes, and more, for movies to stream instantly, rent, and buy.
 
 Urban Pixels, LLC, ("We" or "UP") is the owner of Can I Stream.It and is posting this Privacy Policy ("Privacy Policy") to inform consumers about how we handle and share information that we collect in the course of administering the services on our site. The terms "you" and "your" when used herein means any user of our website (the "Site"). 
 
