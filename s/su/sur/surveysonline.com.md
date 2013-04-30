@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveysonline.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923144043id_/http%3A//surveysonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysonline.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430114912id_/http%3A//surveysonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frank N. Magid Associates, Inc.
 
-Last Updated 02/01/2010
+Last Updated 04/03/2013
 
 **Privacy Policy (Safe Harbor)**
 
@@ -76,3 +76,5 @@ Upon request, Frank N. Magid Associates and SurveysOnline.com Inc. will grant in
 Frank N. Magid Associates and SurveysOnline.com Inc. utilize the self-assessment approach to assure its compliance with our privacy statement.  Frank N. Magid Associates and SurveysOnline.com Inc. periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Safe Harbor Principles
 
 **_Changes in Practices:_** _Frank N. Magid Associates and SurveysOnline.com_ will keep this policy current and will inform you of any changes that we make.
+
+You may view more general information at the Safe Harbor Website: [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
