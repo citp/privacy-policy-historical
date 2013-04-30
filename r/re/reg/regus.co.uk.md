@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.co.uk privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021101808id_/http%3A//www.regus.co.uk/images/PrivacyPolicy_tcm7-38647.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430162451id_/http%3A//www.regus.co.uk/images/PrivacyPolicy_tcm7-38647.pdf) for the most accurate reproduction.*
 
 # 
 
