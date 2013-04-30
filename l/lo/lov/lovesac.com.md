@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128051500id_/http%3A//privacy-policy.truste.com/verified-policy/www.lovesac.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430173514id_/http%3A//privacy-policy.truste.com/verified-policy/www.lovesac.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.lovesac.com
 
 Effective on May 24, 2010 
 
-This privacy statement describes how LoveSac collects and uses the personal information you provide on our Web site: [www.lovesac.com ](https://www.lovesac.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how LoveSac collects and uses the personal information you provide on our Web site: [www.lovesac.com ](http://www.lovesac.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
