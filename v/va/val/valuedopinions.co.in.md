@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118180140id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430230816id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
 
 # Privacy Policy: Valued Opinions
 
@@ -83,9 +83,8 @@ If you have any queries relating to this Statement, please feel free to contact 
 
       The Panel Manager  
       Research Now Ltd  
-      8th floor, Elizabeth House  
-      39 York Road  
-      London SE1 7NQ  
+      160 Queen Victoria Street  
+      London EC4V 4BF  
       United Kingdom 
 
 **Definitions**
