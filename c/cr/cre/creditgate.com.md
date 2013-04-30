@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditgate.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211021652id_/http%3A//www.creditgate.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditgate.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430235155id_/http%3A//www.creditgate.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Business Reports and Information
 
@@ -30,6 +30,7 @@ This Policy applies to all information we receive from you, whether you are regi
   5. We may contact you via post, e-mail or telephone in relation to the administration of your account or the provision of your service. 
   6. We may access and disclose personal information about you if you breach this Privacy Policy, and/or to comply with applicable laws, court orders and lawful government requests, to operate its systems properly or to protect itself and/or its users. 
   7. We reserve the right to sell the database related to this website (including personal data relating to you) to a third party if we sell, assign or transfer the assets of our business. 
+  8. We do not store credit card details nor do we share customer details with 3rd parties. 
 
 
 
@@ -54,5 +55,5 @@ Contact Details**
 If you have any queries about our Privacy Policy or our information practices, please e-mail us at marketing@creditgate.com.
 
   
-All website material is owned by Creditgate Limited. There must be no reproduction of any of this material without the prior consent of Creditgate Limited. Any use of this website or any statement made by a third party or registrant is their opinion and does not represent the opinion of Creditgate Limited.  
+All website material is owned by Creditgate. There must be no reproduction of any of this material without the prior consent of Creditgate. Any use of this website or any statement made by a third party or registrant is their opinion and does not represent the opinion of Creditgate.  
 
