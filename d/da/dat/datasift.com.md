@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasift.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205084548id_/http%3A//datasift.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasift.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430063017id_/http%3A//datasift.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DataSift
 
