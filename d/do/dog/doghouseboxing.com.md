@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the doghouseboxing.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003052414id_/http%3A//www.doghouseboxing.com/DHB/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doghouseboxing.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430163208id_/http%3A//www.doghouseboxing.com/DHB/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.DoghouseBoxing.com
 
 **Privacy Policy for www.DoghouseBoxing.com  
-** Last Updated (May 13, 2009)  
+** Last Updated (Feb 16, 2013)  
 
 * * *
 
@@ -25,11 +25,11 @@ At www.DoghouseBoxing.com, the privacy of our visitors is of extreme importance 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 _Google Adsense  
 Adbrite  
-Kontera  
+Value Click  
 _  
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.DoghouseBoxing.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-www.DoghouseBoxing.com has no access to or control over these cookies that are used by third-party advertisers.
+*** We partner with ValueClick** to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml www.DoghouseBoxing.com has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.DoghouseBoxing.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
