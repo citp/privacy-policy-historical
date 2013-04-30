@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prweek.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223075456id_/http%3A//www.brandrepublic.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prweek.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430185928id_/http%3A//www.brandrepublic.com/go/privacy) for the most accurate reproduction.*
 
 # Privacy - Brand Republic - Connecting advertising, marketing, media & PR
 
