@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gzzt.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501102328id_/http%3A//gzzt.org/pages/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gzzt.org privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430214354id_/http%3A//gzzt.org/pages/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+The privacy of visitors is important to us. At , we recognize that the privacy of our visitor''s personal information is important. Here is information on what types of personal information we receive and collect when you visit , and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files**   
 We collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited within our site. 
@@ -15,4 +17,4 @@ Google uses third-party advertising companies to serve ads when you visit our we
 
 Also you can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security; however, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
-[Return To Main Index](http://gzzt.org/ "Return To <?php echo $_SERVER\['SERVER_NAME'\]; ?> Home")
+[Return To Main Index](http://gzzt.org/ "Return To <?php echo $_SERVER\[''SERVER_NAME''\]; ?> Home")
