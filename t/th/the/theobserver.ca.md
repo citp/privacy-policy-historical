@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101102554id_/http%3A//www.theobserver.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430165552id_/http%3A//www.theobserver.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Sarnia Observer
 
