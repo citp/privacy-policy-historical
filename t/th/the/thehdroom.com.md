@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010104747id_/http%3A//thehdroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430154824id_/http%3A//thehdroom.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
