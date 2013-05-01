@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porntack.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920223904id_/http%3A//www.porntack.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntack.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502012629id_/http%3A//porntack.com/About/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Porntack.com | Create your own porn collections and explore new porn
 
 We know that protecting your privacy is very important to you.
 
