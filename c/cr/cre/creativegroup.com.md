@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativegroup.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109232702id_/http%3A//www.creativegroup.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativegroup.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083341id_/http%3A//www.creativegroup.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # The Creative Group - Privacy Policy
 
