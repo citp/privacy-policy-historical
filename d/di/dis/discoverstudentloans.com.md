@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107174939id_/https%3A//www.discover.com/student-loans/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501035822id_/https%3A//www.discover.com/student-loans/policies/privacy-policy.html) for the most accurate reproduction.*
 
-# Discover Student Loans | Privacy Policy
+# Privacy Policy | Discover Student Loans
 
 FACTS | **WHAT DOES DISCOVER BANK DO WITH YOUR PERSONAL INFORMATION?**
 
