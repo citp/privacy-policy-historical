@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamitetime.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213104718id_/http%3A//dynamitetime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamitetime.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502004250id_/http%3A//dynamitetime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
