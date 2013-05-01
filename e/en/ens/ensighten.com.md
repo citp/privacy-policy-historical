@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127090853id_/http%3A//www.ensighten.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501051618id_/http%3A//ensighten.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ensighten
+# Ensighten | Privacy Policy | Ensighten
 
 ###  Last Updated May 14, 2012 
 
