@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the extreme-solo-ads.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184403id_/http%3A//extreme-solo-ads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extreme-solo-ads.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501085239id_/http%3A//extreme-solo-ads.com/privacy.php) for the most accurate reproduction.*
 
 # Solo Ad - Extreme Solo Ad - Solo Ad To 40,000 Prospects
 
-[](http://www.extreme-solo-ads.com/bannerclick2.php?id=11)  
+[](http://www.extreme-solo-ads.com/bannerclick2.php?id=6)  
 
 
 Extreme Solo Ads Privacy Policy
