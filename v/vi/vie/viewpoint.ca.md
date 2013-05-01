@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182012id_/http%3A//www.viewpoint.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501050731id_/http%3A//www.viewpoint.ca/privacy) for the most accurate reproduction.*
 
-# Your Privacy — ViewPoint.ca
+# Your Privacy - ViewPoint.ca
 
 On most sites, this is where you would normally find incomprehensible legalese — but not at ViewPoint.ca.
 
 Our practices related to the handling of your personal information are prudent, intelligible and logical. In fact, if you were running ViewPoint.ca we would expect that you would handle personal information in the same manner that we do. As you have seen (or will see if you choose to register), we ask our users to provide only the personal information which is necessary to support our service.
+
+  
+
 
 ## The ViewPoint Privacy Policy
 
