@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ultraseedbox.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010162931id_/http%3A//ultraseedbox.com/privacyp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraseedbox.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501132321id_/http%3A//ultraseedbox.com/privacyp.html) for the most accurate reproduction.*
 
-# Ultra Seedbox - VPS - Seedbox - Gigabit Network - Data centers: Netherlands & France
-
-## Privacy Policy
+# Ultra Seedbox | Privacy Policy
 
 Your privacy is very important to us, below explains the information we collect from you, what we do with that information and our information security policy. .
 
@@ -46,7 +44,7 @@ Upon using our free services, you may be requested to participate in our periodi
 
 When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to Ultra Seedbox you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your Ultra Seedbox account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to Ultra Seedbox. Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to Ultra Seedbox you can indicate your preference on your members profile page to participate in the Ultra Seedbox newsletter. You will receive a confirmation email from us when placing an order on our site and paying through PayPal.
 
-## Newslettere  
+## Newsletters  
 
 
 We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
