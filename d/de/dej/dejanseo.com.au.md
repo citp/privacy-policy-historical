@@ -1,85 +1,104 @@
-> *The following text is extracted and transformed from the dejanseo.com.au privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112104123id_/http%3A//dejanseo.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dejanseo.com.au privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501220900id_/http%3A//privacy-policy.truste.com/verified-policy/dejanseo.com.au) for the most accurate reproduction.*
 
-# Dejan SEO Privacy Policy | DEJAN SEO
+# Privacy Policy for dejanseo.com.au
 
-**What information do we collect?**
+Effective on October 20, 2011 
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+This privacy statement describes how Dejan SEO collects and uses the personal information you provide on our Web site: [dejanseo.com.au ](http://dejanseo.com.au/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+**TRUSTe**
 
-**What do we use your information for?**
+Dejan SEO is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-Any of the information we collect from you may be used in one of the following ways: 
+If you have questions or concerns regarding this policy, you should first contact us at [privacy@dejanseo.com.au ](mailto:privacy@dejanseo.com.au). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+## Collection and Use of Personal Information
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We collect the following personal information from you
 
-; To process transactions
+  * Contact Information such as name, email address, mailing address, phone number
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
+We also collect the following information from you
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * Information about your business such as company name, company size, business type
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We use this information to
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Respond to customer service requests
+  * Administer your account
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
 
-**Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
 
-**Do we disclose any information to outside parties?**
+## Information Sharing
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-**Third party links**
+We may also disclose your personal information
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if Dejan SEO is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
 
-**Online Privacy Policy Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions**
+## Cookies and Other Tracking Technologies
 
-Please also view our Terms and Conditions that we provide you with when you sign up for one of our services.
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-**Your Consent**
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
 
-By using our site, you consent to our websites privacy policy.
+_Web beacons_
 
-**Changes to our Privacy Policy**
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-This policy was last modified on 10th January 2011
+_Links to Other Web Sites_
 
-**Contacting Us**
+Our Site includes links to other Web sites whose privacy practices may differ from those of Dejan SEO. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+## Security
 
-[dejanseo.com.au](http://dejanseo.com.au/)  
-Suite D2, 1 Clunies Ross Court, BTP Conference Centre Building, Brisbane Technology Park  
-Eight Mile Plains, QLD 4113  
-Australia  
-[info@dejanseo.com.au](mailto:info@dejanseo.com.au)  
-1300 123 736
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can contact us at [privacy@dejanseo.com.au ](mailto:privacy@dejanseo.com.au)
+
+## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [privacy@dejanseo.com.au ](mailto:privacy@dejanseo.com.au).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Dejan SEO 
+
+1 Clunies Ross Court Brisbane Technology Park 
+
+Eight Mile Plains, QLD, Australia 4113
+
+Phone: 1300123736
