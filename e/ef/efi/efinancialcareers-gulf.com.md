@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180823id_/http%3A//www.efinancialcareers-gulf.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080548id_/http%3A//www.efinancialcareers-gulf.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Dice%20Holdings%20Inc&sealid=102)
+[ ](https://privacy.truste.com/privacy-seal/Dice-Holdings-Inc/validation?rid=c61ae6c4-c0f4-4a49-aed2-a67b743342d3 "TRUSTe European Safe Harbor certification")
 
 ### Privacy Policy
 
