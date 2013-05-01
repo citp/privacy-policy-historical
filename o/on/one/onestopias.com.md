@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopias.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222002325id_/http%3A//www.onestopias.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopias.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501073847id_/http%3A//onestopias.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
