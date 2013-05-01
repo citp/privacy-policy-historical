@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the priceindia.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230233733id_/http%3A//www.priceindia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceindia.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501110814id_/http%3A//www.priceindia.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy April 22, 2013
 
 **Privacy Policy for Price India , http://www.priceindia.net**
 
