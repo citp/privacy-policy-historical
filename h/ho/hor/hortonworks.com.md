@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231031846id_/http%3A//hortonworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501120657id_/http%3A//hortonworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Hortonworks Privacy Policy | Hortonworks
+# Hortonworks Privacy Policy
 
-Protecting the individual’s privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. Hortonworks has created this privacy policy (the “Privacy Policy”) to demonstrate our commitment to secure and trustworthy Internet commerce and the individual’s right to privacy. This Privacy Policy is effective as to all users of [www.hortonworks.com](http://www.mulesoft.com/) (the “Website”), and incorporates by reference the Terms of Use. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Use. The terms “Hortonworks,” “we,” and “our” refer to Hortonworks Inc. The terms “you” and “your” refer to the user or viewer of the Website.
+Protecting the individual’s privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. Hortonworks has created this privacy policy (the “Privacy Policy”) to demonstrate our commitment to secure and trustworthy Internet commerce and the individual’s right to privacy. This Privacy Policy is effective as to all users of [www.hortonworks.com](http://www.mulesoft.com/) (the “Website”) and the services available on that site , and incorporates by reference the Terms of Use. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Use. The terms “Hortonworks,” “we,” and “our” refer to Hortonworks Inc. The terms “you” and “your” refer to the user or viewer of the Website.
 
 By using this Website, you consent to the collection and use of information as described herein. Hortonworks reserves the right to make changes periodically to this Privacy Policy at our sole discretion. Changes to the Privacy Policy will be posted on this page. Your continued use of this Website after any such changes constitutes your acceptance of the changes and of the revised Privacy Policy.
 
@@ -54,6 +54,16 @@ The following third parties may collect information through the Website, but (su
 
 
 The Website may contain links or references to other websites, including third party advertisers and other unaffiliated websites. We are not responsible for the privacy policies of those websites or of advertisers on the Website, and you should read the privacy policies of each website you visit. This Privacy Policy applies only to information collected through the Website.
+
+**Sandbox**
+
+The “Sandbox” is Hortonworks’ self-contained virtual machine, including the Hortonworks Data Platform pre-configured to provide a personal, portable and standalone Hadoop environment.  We obtain the following information from users of the Sandbox:
+
+Via registration:  The Sandbox registration form requires users of the Sandbox to provide the following information, which includes Personally Identifiable Information:  full name, address, email, phone number, company name and role and project timeframe.
+
+Via Google Analytics:  When you use the Sandbox, we collect certain information via Google Analytics, including but not limited to:  referring site/ad source, your activity (for example, what pages visited and for how long), IP address, browser and operating system, source (which will always be the Sandbox IP address), default language set on your computer, your geolocation (by country) and the frequency and amount of time spent in the Sandbox (by IP address).
+
+Hortonworks will use the above information for several purposes, including but not limited to the uses specified elsewhere in this Privacy Policy and improving the Sandbox (for example, optimizing for a particular browser or creating other language versions).
 
 #### Online Security
 
