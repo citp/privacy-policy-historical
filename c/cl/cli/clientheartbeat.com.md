@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clientheartbeat.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008021310id_/http%3A//www.clientheartbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientheartbeat.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501122701id_/https%3A//www.clientheartbeat.com/privacy) for the most accurate reproduction.*
 
 # Client Heartbeat
 
@@ -37,5 +37,3 @@ In order to prevent any unauthorised access or disclosure of the personal inform
 ## Links to other websites
 
 The Site may contain links to other websites of interest. We cannot be responsible for the protection and privacy of any information which you provide while visiting such sites; such sites are not goverened by this privacy statement.
-
-[](http://termsfeed.com/ "Termsfeed")
