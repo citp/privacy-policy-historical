@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140804id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080433id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Charles-Tyrwhitt-privacy-policy
+# Privacy policy | Charles Tyrwhitt
 
 Charles Tyrwhitt LLP ("We") are committed to protecting and respecting your privacy.
 
