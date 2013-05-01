@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carzonrent.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010121747id_/http%3A//www.carzonrent.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzonrent.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501114036id_/http%3A//www.carzonrent.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Car Rental/Hire Company-Book a Cab or Rent a Car at Carzonrent.com
+# Privacy Policy
 
 This Privacy Policy ("Policy") discloses the privacy practices for Carzonrent (India) Private Limited ("Carzonrent") website ("website"). Carzonrent places paramount importance on maintaining the privacy of its customers'("User") personal information under the applicable laws in India.  
 Please read this Policy carefully by accessing or using our website. The User hereby acknowledges that he has read, understood, and agrees to be bound to all the terms of this Policy and our website's terms of use before the User proceeds.
