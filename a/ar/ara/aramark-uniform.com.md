@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aramark-uniform.com privacy policy that was archived on 2011-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110725162354id_/http%3A//www.aramark-uniform.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramark-uniform.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501024138id_/http%3A//www.aramarkuniform.com/staticpage-privacy_rental) for the most accurate reproduction.*
 
-# ShopARAMARK.com
+# 
 
 ## ARAMARK's Security & Privacy
 
