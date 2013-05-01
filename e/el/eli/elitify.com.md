@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitify.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622035633id_/http%3A//www.elitify.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitify.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501025405id_/http%3A//www.elitify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ We do use your contact information to send you offers based on your previous ord
 
 **2\. Use of Demographic and Profile Data**
 
-We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the            time      of            collection.   
+We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.   
 In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.   
 We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.   
 We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.
@@ -40,8 +40,7 @@ Our site has stringent security measures in place to protect the loss, misuse, a
 
 **6\. Choice/Opt-Out**
 
-Elitify.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting       up         an         account.   
-If you want to remove your contact information from all Elitify.com lists and newsletters, please visit [http://www.Elitify.com/unsubscribe.php](http://www.flipkart.com/unsubscribe.php)
+Elitify.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all Elitify.com lists and newsletters, please visit [http://www.Elitify.com/unsubscribe.php](http://www.flipkart.com/unsubscribe.php)
 
 **8\. Questions?**
 
