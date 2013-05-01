@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the daytimeconfidential.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501214725id_/http%3A//daytimeconfidential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytimeconfidential.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501124140id_/http%3A//daytimeconfidential.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daytime Confidential
 
 **What information do we collect?**
 
-We collect information from you when you register on our site. 
+We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
@@ -12,7 +12,7 @@ Like most websites, we use cookies and/or web beacons to enhance your experience
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -44,8 +44,8 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Online Privacy Policy Only  
-**  
+**Online Privacy Policy Only**
+
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Your Consent**
@@ -54,24 +54,17 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
 This policy was last modified on May 5, 2010.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-Pop Confidential  
-c/o TV Fan Online Inc.  
-P.O. Box 5783  
-Lincoln, Nebraska 68005  
-United States  
-privacy@popconfidential.com 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Daytime Confidential  
 c/o TV Fan Online Inc.  
-P.O. Box 5783  
-Lincoln, Nebraska 68005  
+P.O. Box 20  
+Bowdon, ND 58418  
 United States  
 [privacy@daytimeconfidential.com](mailto:privacy@daytimeconfidential.com)
