@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostplate.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201075354id_/http%3A//hostplate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplate.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501155805id_/http%3A//hostplate.com/privacy-policy) for the most accurate reproduction.*
 
-# Hostplate.com provides Dedicated servers and VPS with unlimited bandwidth | » Privacy Policy
+# Unmetered Dedicated Server | Premium High Bandwidth Dedicated Servers from Amsterdam NL – Hostplate.com » Privacy Policy
 
   * **Why Customer Privacy matters to Hostplate**  
 The customer’s right to privacy is of great importance to Hostplate. Hostplate recognizes that when a customer chooses to provide Hostplate with personal information, the customer places confidence in our ability to handle customer privacy in a responsible manner. Hostplate believes this information should be used solely to improve the services provided for the customer. Hostplate has put this privacy policy together to state that we protect the customer’s personal information. 
