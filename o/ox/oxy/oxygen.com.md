@@ -1,111 +1,209 @@
-> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629113244id_/http%3A//www.oxygen.com/legal/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502001157id_/http%3A//features.oxygen.com/privacy-policy) for the most accurate reproduction.*
 
-# Oxygen: Privacy Policy
+# Privacy Policy | Privacy Policy | Oxygen
 
-We are committed to protecting the privacy and security of the users of our sites.
+## Oxygen Terms of Service
 
-This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
+[Oxygen Media LLC](http://homepage.oxygen.com/), is responsible for this Website and its contents.
 
-If you have any questions or concerns about our privacy policy, please send an e-mail to: [o2_webmaster@nbcuni.com](mailto:o2_webmaster@nbcuni.com) or contact us at Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000).
+We at [NBCUniversal](http://www.nbcuni.com/) respect your concerns about privacy and value the relationship we have with you. 
 
-### Scope Of Privacy Policy
+This Privacy Policy describes 
 
-This policy applies to your use of all of the sites and services owned or operated by Oxygen Media Interactive, Inc., and affiliated companies (collectively "we," "us," or "our"), including Oxygen.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). Unless we say otherwise, all references to the Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. This policy covers only information collected on the Sites and does not cover any information collected offline by us. 
+  * the types of personal information we collect on this Website. (The term “personal information” means information about you.)
+  * how we may use that personal information and with whom we may share it
+  * the measures we take to protect the security of your personal information
+  * your rights and how you can contact us
 
-### Personal Identification Information
 
-We may request personal identification information from you in connection with your use of, or participation in, activities, services or resources we may make available on any of our Sites from time to time, including membership registration for contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information (including via email to us). In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. We will never intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, credit card number or e-mail address) to any third party without having received your permission or as set forth in this policy.
 
-If you do provide us with personal information for any of these activities, we and our contractors may use it to conduct the activity. We may also use cookie technology (discussed in detail below) to improve your experience of these activities, including to remember your preferences, customize the content and advertisements that you see or authenticate your access to your personal information. In addition, in the event your personally identifiable information is requested as part of our surveys or polls, such personally identifiable information may be added to your registration information.
+Please note that this Privacy Policy does not apply to information you provide to us offline.
 
-We may also contact you to confirm your registration and about your account status (for example, when a child enters a new age group to which different policies apply), and regarding changes to the Sites' Terms and Conditions and this Privacy Policy.
+Please review this Privacy Policy and the [ Terms ](http://features.oxygen.com/terms)of Use for this Website carefully. Your use of this Website signifies your agreement to this Privacy Policy and the [ Terms ](http://features.oxygen.com/terms) of Use.
 
-We may also use personal identification information for marketing and promotional purposes. On occasion, for example, we may send you e-mails to introduce a product or service that we think might be of interest to the users of our Sites. You may "opt-out" at any time from such usage, even after you have provided personal information, by following the opt-out procedures set forth below in this Privacy Policy. Please note, however, that under certain circumstances, if you "opt-out," you may not be eligible for certain benefits for which a name, e-mail address, telephone number or other personal identification information is needed.
+### 1\. Personal Information We Collect and How We Use It
 
-We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Sites, suspected fraud or a physical or property threat to you or others. We may also transfer user information, including personally identifiable information, in connection with a corporate merger, consolidation, the sale of related assets or corporate division or other fundamental corporate change. 
+We may collect information when you interact with the Website, for example when you subscribe to newsletters, register for chat rooms, participate in competitions or games, purchase merchandise etc. 
 
-Please note that if you give out personal information online -- for example, on one of our public forums such as a message board, chat room, folder, or chat IM feature -- that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
+See below for more details about what type of information we may collect from you during those interactions.
 
-You are responsible for maintaining the confidentiality of your information and password. You shall be responsible for all uses of your registration, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your registration or password.
+**1.1 Personal Information You Provide To Us**
 
-### Non-Personal Identification Information
+You may choose to provide personal information (such as your name, address, telephone number or email address) through the Website. If you choose not to provide us with your personal information, you may not be able to access some of the services offered on the Website (e.g. subscribe to newsletters, enter competitions, purchase products).
 
-We collect non-personal identification information through the use of:
+Our goal is to collect and use only that information that we think is required for our legitimate business interests, in order to better understand your interests and improve your experience of using this Website. In order to do so, we may collect and use your personal information in the following ways:
 
-**"Cookie" technology:** A "cookie" is an element of data that a web site can send to your browser, which may then store it on your system. 
+**Protecting our Rights**
 
-**"IP address tracking":** An IP address is a number that is assigned to your computer when you are on the Internet. When you request pages from our Sites, our servers log your IP address. 
+In general, we collect, store and use your information to provide you with a safe, smooth, efficient and customized experience on the Website. However, sometimes we need to collect and use your personal information to enable us to: 
 
-**"Web beacons":** A Web beacon, or "clear gif", is a small graphic image on a webpage or web-based document that a web site can use to determine information about a user.
+  * to provide technical support; 
+  * to prevent fraud or potentially illegal activities (including copyright infringement); or 
+  * enforce our terms of service.
 
-Non-personal identification information that we collect might include: the browser you use, the type of computer, technical information about your means of connection to our site-such as the operating systems and the Internet service providers utilized, and other similar information. We may also collect information about the areas you visit and search terms you utilize on our Sites and about the links you may select from within our Site to other areas of the World Wide Web or elsewhere online.
 
-We may share this aggregate statistical information with our partners, suppliers and other third parties, but we will not share any individual names, personal navigational or other personal information. For example, we may use a third-party advertising company to serve ads when you visit our Sites. We may share demographic and preference information with this company to allow them to display appropriate advertisements for you.
 
-Some of our advertisers may display ads on our Sites which solicit or contain technology to collect information about our users for the advertisers, but we will not authorize such advertisers to collect any personal information from our users within our Sites. 
+**Contact Us**
 
-Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
+If you communicate with us through the “Contact Us” link on the Website, we may ask you for your contact details, such as your name, email address and telephone number so we can respond to your questions and comments. You may also choose to provide additional information as well. 
 
-The Sites are P3P enabled. P3P is a standardized set of multiple-choice questions which cover the major aspects of a web site's privacy policies and which, taken together, present a clear snapshot of how a site handles users' personal information. P3P-enabled web sites make this information available in a standard, machine-readable format that P3P enabled browsers can "read" automatically and compare to the user's own set of privacy preferences. For example, Internet Explorer 6 requires third parties that set cookies to deliver P3P compact cookie policies with their cookies. IE6's default setting will test whether a cookie collects personal information and allows an opt-out. IE6 users may change their privacy level to a higher or lower level than the default setting. P3P was developed by the World Wide Web Consortium (W3C), a worldwide web standards setting organization.
+**Newsletters and Other Communications**
 
-### The Use of Cookie Technology
+On the Website, you may sign up to receive newsletters and other communications about our services and promotions. To sign up, we may ask you for your contact details (such as your name and email address). This information is used by us to send you the communications you request 
 
-A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Our Sites makes use of cookies to permit the completion of the user's current activity on a Site and for aggregate, non-personally identifiable analysis (for example we may track the number of times users visit a portion of a Site, but we do not track or know who those users are). We only use cookies to collect personally identifiable information with your consent, as described above under Personal Identification Information.
+Details of how you can opt-out of receiving any communications from us are detailed in the section headed “Your Rights” below.
 
-### Third Party Cookies
+**User Profile**
 
-These Sites may include third-party advertising. These third parties' websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or "serve") the advertisements that appear on our Sites directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Sites, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://networkadvertising.org/optout_nonppii.asp>.
+We may also offer you the option to complete a user profile that is visible to other users of the Website. This profile may include:
 
-Please note that these Sites contains links to other sites that will not follow the same Privacy Policy as our Sites. For instance, clicking on an advertisement or on links or other elements on the Sites may take you to an entirely different site. Links to other sites may use our Sites logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that these Sites would not. Once you've left these Sites, this Privacy Policy will no longer apply to personal data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data
+  * [profile photo]
+  * [username(s) and/or a website ID number]
+  * [gender]
+  * [interests / hobbies]
+  * [occupation]
+  * [biographic details]
+  * [links to your profiles on social networking sites (e.g. Facebook)]
+  * [details about games you play]
 
-### Privacy of Children
 
-We understand that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We strongly urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
 
-The Sites are not directed to children under the age of 13. We prohibit registration by children under the age of 13 for all interactive portions of the Sites including forums, chats and message boards. We will not knowingly collect personally identifiable information from children under 13. 
+**Goods or Services for Purchase**
 
-We may, at our discretion, require users under 18 to obtain the consent of a parent or guardian to view certain content, and we may limit access to certain content to users above a specified age. You agree to abide by any such restrictions, and not to help anyone avoid these restrictions.
+From time to time we may offer products or services for purchase through the Website. When you choose to purchase merchandise or subscribe for such services, we may ask you to provide your name, email address, postal address and telephone number. This information is collected for the purpose of providing you with the products/services you choose to purchase and/or subscribe for. We may also ask you to provide your credit/debit card details for this purchase, or we may direct you to a third party payment processing service (such as PayPal) to make payment. If we direct you to a third party payment process service we will advise you of this during the payment process, please be aware that we are not liable or responsible for such service and that your use of that service might be subject to terms and conditions imposed by the service provider. 
 
-### Links To Other Sites
+**Media Registration**
 
-Users will find advertising or other content on our Sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. Once you link to another site from a Site, you are subject to the terms and conditions of that site, including, but not limited to, its Internet privacy policy. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information. 
+If you are a member of the media, you may join the ‘Media’ section of the Website to access additional information. To sign up, we may ask you for your personal information such as your name, email address, telephone number, and company name and job title. We use this information to allow you to access additional information on the Website and to provide you with information that you may request. 
 
-### Security Policy
+**Contests, Sweepstakes and Other Promotions**
 
-Protecting your privacy and your information is a top priority. We have taken careful measures to secure both your information and our physical premises. We exercise great care in providing safe transmission of your information from your PC to our servers (unless sent by a means outside of our control, such as e-mail). However, you should be aware that no system can guaranty that unauthorized access will never occur, and you acknowledge this risk by using our Sites.
+We may occasionally conduct contests, sweepstakes and other promotions. If you choose to enter, we may ask you for your contact details such as your name, email address, postal address and telephone number for the purpose of conducting these promotions.
 
-### Disclaimer
+**Games**
 
-The information provided in this privacy policy should not be considered as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through the Sites.
+When you play one of our games, we may collect and store certain profile information that you provide directly or through a third party that is offering our game(s). To provide a richer game and social experience, we also collect information about your play and interaction with other players and the Service. The bulk of this information is collected and stored through the use of web logs, which are files on our web servers that record actions taken on our games and the Website. In general, we collect, store and use your information to provide you with a safe, smooth, efficient and customized experience in the following ways:
 
-### Access To/Correction of Information
+  * to register your account and allow you to play our games
+  * to customise your gaming experience
+  * to administer games and improve game play
+  * to identify and suggest connections with other Website users
+  * to enable user-to-user communications
+  * to provide technical support and respond to user enquiries
+  * to prevent fraud or potentially illegal activities and enforce our terms of service
+  * to notify users of in-game updates
+  * to provide in-game leader boards 
+  * to solicit input and feedback to improve our products and services
+  * to resolve disputes, collect fees and troubleshoot problems
 
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [o2_webmaster@nbcuni.com](mailto:o2_webmaster@nbcuni.com). To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [o2_webmaster@nbcuni.com](mailto:o2_webmaster@nbcuni.com). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
 
-### Communications with Oxygen
 
-By providing your email address to us, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us.
+Please be aware that our games are governed by additional terms of use posted on the site they are accessed from, and may also be governed by the terms of use, privacy policies and other guidelines of third parties (in the case of our games that are available on third party platforms such as Facebook). 
 
-Any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, nonconfidential and nonproprietary. Except to the extent expressly covered by this policy, anything you transmit or post may be used by us for any purpose, including but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, you expressly agree that we are free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us without compensation and for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products and services using such information.
+**Message Boards, Chat Rooms, Blogs and Other User Forum**
 
-### Opt-Out
+Personal information posted to message boards, chat rooms, blogs and other user forums becomes public information. Please use caution when using these features of our Website. Please see our Terms of Use for the standards of behaviour that must be followed when using these sections of the Website.
 
-You can choose to opt-out of our use of your personal identification information at any time.
+You may be able to take part in certain activities on the Website or games that give you the opportunity to communicate or share information not just with us, but also with other users of this Website. These include:
 
-If you would like to opt-out of any disclosures of your personal identification information to third parties who may use this information for their direct marketing purposes, then please send an email to o2_webmaster@nbcuni.com.
+  * participating in player forums and message boards
+  * posting public comments to other users’ profiles or gameboards
+  * sending private messages or invitations to other users, either directly on the Website or to their email accounts
+  * chat with other users
+  * post photos
 
-If you would like to opt-out of allowing our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting, then please follow the procedures described in "Third-Party Cookies," above.
 
-If you would like to opt-out of all communications from Oxygen Media, then please send an email to [o2_webmaster@nbcuni.com](mailto:o2_webmaster@nbcuni.com).
 
-Please keep in mind, however, that we are unable to update or delete your information if it has already been provided to a third party as permitted by this policy. We do not have any control over such third parties after your information has been shared, and you should contact such third parties directly with respect to any questions regarding their privacy practices.
+The contents of any such private online communications may be accessed and disclosed (i) in response to a legal requirement such as a court order; (ii) when we are required to disclose the information in response to such a legal requirement; (iii) where we have a good faith belief that the Website is being used in the commission of a crime; (iv) where we have a good faith belief that there is an emergency which poses a threat to the safety of you or another person; and (v) when necessary either to protect our rights (including to enforce our terms of service) or for us to provider the service you have requested.
 
-### Consent to Transfer
+**Wireless Applications**
 
-The Sites are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+Information collected when you register for or use our wireless applications and services via your phone or other mobile device or when such applications interact with this Website, for example, our smartphone applications. 
 
-### Your Acceptance of These Terms
+**Other Website Features**
 
-By using any of the Sites, you signify your acceptance of our Privacy Policy, our Site Terms & Conditions and any other policies made available to you. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these policies will mean that you accept those changes.
+We offer Website visitors various features for their enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features where this is the case we will provide more detailed information about what information you need to provide and will explain how we will use it.
 
-(Effective Date: This policy was last modified on January 27, 2010.)
+**Children’s Privacy**
+
+We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Website or when providing other services, we may ask users for their age. By using the Website or our services you agree to respond truthfully and accurately about your age. We do not knowingly collect or store any personal information from children under the age of 13.
+
+If you are between the ages of 13 and 18, please be sure to read this Privacy Policy with your parent and obtain his or her permission before you submit or post any Personal Information, and before you use any features of this Website.
+
+**Usernames & Passwords**
+
+It is important that you protect and maintain the security of your account and that you notify us immediately of any unauthorised use of your account. Do not disclose your password to anyone else.
+
+**Social media plug-ins**
+
+Social media plug-ins of social networks such as Facebook, Twitter and Google plus (amongst others) are integrated on our Website. Where our sites contain a plug-in to a social network, these are clearly marked (e.g. with a Facebook button). If you chose to click on one of these buttons or links, your browser connects directly to the servers of the relevant social network. The social network directly transmits the content of the plugin to your browser. If you are registered on the relevant social network and logged into your respective account the social network receives the information that the web page was used by you. If you interact with a social network plug-in (e.g. you press the Facebook “Like” –feature, the Twitter “Tweet this” feature and Google plus “1+” button or equivalent) or drop a comment on the appropriate web page, the corresponding information is directly transmitted to the relevant social network from your browser. If you are not registered with the social network or you are logged out before you visit our Website, there is the possibility that at least your IP address will be submitted to and stored by the social network. If you interact with us through a social media platform, plug-in etc. then you may be permitting us to have on-going access to some limited information from your social network profile (such as name, email address, photo, gender, location, the people/sites you follow etc.).
+
+If you don’t want the social network to collect the information about you described above, or share it with us and other third parties, please review the privacy policy of the relevant social network and/or log out of the relevant social network before you visit our Website. As with other sites, you may be able delete any existing cookies placed on your computer by the social network via your browser. 
+
+**1.2 Information We Collect Automatically**
+
+Like many companies, we use “cookies” or other similar technology (including flash cookies, e-tags, cache browsers and GIFs etc) on the Website. Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. We use cookies to tell us, for example, whether you have visited the Website before or if you are a new visitor and to help us identify Website features in which you may have the greatest interest. Cookies may enhance your online experience, for example, by remembering your passwords and viewing preferences, while you are visiting a particular page on this site. 
+
+When you visit this site, we automatically collect certain personal information, that we then aggregate so that it is not linked to a single, identifiable individual. This information provides us with statistics such as how many users visit the Website and which pages were accessed. By collecting this information, we learn how to best tailor this site to our visitors. We may also enter into arrangements with outside companies that possess technology that allows us to customise the advertising and marketing messages you receive on this Website. To learn more about those companies, please click on the Ad Choices icon at the bottom of each page.
+
+We may also collect password information from you when you log in, as well as computer and/or connection information. During some visits we may use software tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information. 
+
+**Anonymous Data**
+
+We may also use anonymous data in aggregate form for purposes of research or analysis. In order to better understand and serve our customers, we may conduct research based on customer demographics, interests and behaviours. Although this aggregated data may be based in part on personal information it does not identify any users personally. We may share this type of anonymous data with third parties, including our affiliates, agents, service providers and current and prospective business partners to administer the Website and for advertising, promotional and other business purposes. 
+
+A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these tools exist.
+
+### 2\. Where Your Personal Information Will Be Used
+
+This Website is operated from the United States of America.
+
+However, as a global company, NBCUniversal may from time to time transfer your personal information to other countries and make it accessible by any of our affiliate entities and third party service providers internationally. Where the transfer of information is to a country which does not provide an adequate level of information protection, NBCUniversal has taken steps to ensure that your personal information receives an appropriate level of information protection. By using this Website and providing your personal information to us you understand and agree that your personal information may be sent to other countries. 
+
+### 3\. How We Share Personal Information
+
+On occasions we would like to share your information with carefully selected companies who may contact you with information which may be of interest to you. Where this is the case you will be offered the opportunity to accept or reject your information being shared with such companies, at the point of data collection.
+
+We may share your personal information with affiliates of NBCUniversal but only for the purposes outlined in this Privacy Policy. 
+
+We may also share your personal information with service providers we have retained to perform certain business-related functions on our behalf, such as hosting websites, maintaining databases, administering contests, providing technology services, and processing payments. These parties are provided only with the personal information they need to perform their functions and can only use and disclose such personal information as is necessary to perform the services on our behalf or to comply with legal requirements. We have taken steps to ensure that any such third party service providers will take appropriate steps to protect your personal information as we would. 
+
+In addition, we may disclose your personal information to our affiliates and third parties (including, amongst others, law enforcement agencies, government/regulatory bodies, content protection organisations): (1) protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees, agents and contractors; (2) protect the safety and security of visitors to our websites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from government, regulatory, law enforcement or public authorities; (5) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain; (6) comply with subpoenas, search warrants, the law or other legal process or (7) enforce our [Terms](http://features.oxygen.com/terms) of Use.
+
+We reserve the right to transfer your personal information in the event we sell or transfer all or a part of our business or assets. If you do not want your personal information to be processed following such a transfer, you should contact the subsequent owner of the business. You will of course be informed of any such sale or transfer.
+
+### 4\. Links to Other Sites
+
+The Website may provide links to other websites for your convenience and information. These websites may operate independently from this Website. Linked sites may have their own privacy notices and terms of use in place, which we strongly suggest you review if you visit any linked sites. To the extent any linked websites you visit are unrelated to NBCUniversal; we are not responsible for their content, maintenance or availability. 
+
+Like many other websites, we provide other websites with and allow users to “snag” or place our RSS feeds, video players and other applications on websites we do not control. This Privacy Policy applies to any information we collect when you use our RSS feeds, video players and other applications, but does not apply to information separately collected by the operators of those websites or other third parties that may provide content or services to those websites. 
+
+### 5\. How We Protect Personal Information 
+
+We maintain administrative, technical and physical safeguards for this Website to help protect against loss, misuse or unauthorised access, disclosure, alteration or destruction of the personal information you provide on this Website. Unfortunately, no transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of personal information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below. 
+
+### 6\. Your Rights
+
+We provide Website visitors with access to personal information they provide through this Website and the ability to review, update and correct it as and when necessary. Such requests may be subject to a small fee. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your personal information. 
+
+If you have previously provided personal information to this Website to subscribe to one or more email newsletters or are receiving emails or other communications from this Website and you do not want to receive such emails, please discontinue your subscriptions by [selecting the "unsubscribe" link at the bottom of any message, or the other means provided to unsubscribe, or using the contact details below.]
+
+If you prefer that we do not use the personal information you have provided to us or we have collected via your use of this Website, you may send us a request using the contact information details below and we will use commercially reasonable efforts to honor that request. However, we will retain records of your information as needed in order to comply with applicable laws/regulations and if you provide us with any personal information after such request may use that information in accordance with this Privacy Policy.
+
+If you would like to make such a request, update your marketing preferences (including requesting being removed from our marketing list) or if you have any questions about this Privacy Policy please contact us by:
+
+  * calling us on (212) 651-5411
+  * sending an email to [o2_webmaster@nbcuni.com](mailto:o2_webmaster@nbcuni.com); or
+  * writing to OXYGEN.COM SITE MANAGER, 75 NINTH AVENUE, NEW YORK, NY 10001 
+
+
+
+If you choose to write, please send us a signed letter of request with your address and a copy of photo ID on which your signature appears 
+
+### 7\. Applicable Law
+
+This Website is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States of America. Please note that we do not represent or warrant that this Website is appropriate for use in any particular jurisdiction. Those who choose to access this Website do so at their own initiative and are responsible for complying with all local laws, rules and regulations. 
+
+### 8\. Updates to Our Privacy Notice.
+
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make material revisions to the way we collect or use your personal information such that we are using it for purposes or sharing such data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by either: (1) announcing the change on the home page of this Website or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on this Website. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the internet, accessible through this Website. By continuing to use this Website following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Website.
