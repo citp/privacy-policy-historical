@@ -1,133 +1,29 @@
-> *The following text is extracted and transformed from the lovequotes.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214221510id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovequotes.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501102520id_/http%3A//www.lovequotes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Privacy Policy - LoveQuotes.com
 
-## About Us
+**Your Privacy**
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). Domain Development Corporation allows the third party Domdex, Inc. to track users for the purpose of targeting advertisements. Domdex may allow third parties to monitor Domdex Affiliated Sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. The full text of Domdex's privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html) Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+**Google Adsense and the DoubleClick DART Cookie**
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-## Dispute Resolution and Privacy Seals
+**To opt out of the DART cookies** you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Googleâ€™s own privacy policies.
 
-We have no privacy seals or other assurance mechanisms. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, LoveQuotes.com has no access or control over these cookies that may be used by third party advertisers.
 
-## Additional Information
+**Collection of Personal Information**
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+When visiting LoveQuotes.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-## Data Collection
+**Links to third party Websites**
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-* * *
+**Changes to this Privacy Statement**
 
-### Group "Basic information"
+The contents of this statement may be altered at any time, at our discretion.
 
-We collect the following information: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+If you have any questions regarding the privacy policy of LoveQuotes.com then you may contact us at webcontact at LoveQuotes [dot] com.
