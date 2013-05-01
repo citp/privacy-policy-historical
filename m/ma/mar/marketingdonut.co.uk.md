@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173339id_/http%3A//www.marketingdonut.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501235759id_/http%3A//www.marketingdonut.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, cookies | Marketing Donut
 
@@ -20,7 +20,7 @@ If you have registered on the website, cookies also allow you to log in automati
 
 We also collect aggregated information about every single link and page on the Marketing Donut website, so we can measure the website's performance. This allows us to create more of the pages that users like and to remove unused content. It also allows BHP to attract sponsorship for each section of the Marketing Donut website.
 
-If you opt-in to subscribe to the newsletter (by ticking this preference when registering) you will, at a later date, be able to request additional content on particular topics. (This preference functionality will increase over time, as BHP provides a wider and deeper set of content to choose from.) You may update your contact preferences, or opt out of receiving the newsletter, at any time.
+If you opt-in to subscribe to the newsletters (by ticking this preference when registering) you will, at a later date, be able to request additional content on particular topics. (This preference functionality will increase over time, as BHP provides a wider and deeper set of content to choose from.) You may update your contact preferences, or opt out of receiving the newsletter, at any time.
 
 ## Who we disclose it to
 
@@ -28,7 +28,7 @@ We will only pass on information about you as an individual (as opposed to aggre
 
 In certain circumstances we may need to disclose information about you if you breach the terms and conditions of the website. We may also disclose or access your account if required to do so by law.
 
-## Data Protection
+## Data protection
 
 BHP is registered with the Information Commissioner in the UK as a ‘data controller' in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at [www.ico.gov.uk](http://www.ico.gov.uk/ "www.ico.gov.uk").
 
@@ -42,5 +42,5 @@ If you have any questions concerning anything on this page, please contact [info
 
 BHP Information Solutions Ltd
 
-6 Grove Road, Redland, Bristol, BS6 6UJ  
+4th Floor, Albert House, 111 Victoria Street, Bristol, BS1 6AX  
 Telephone: 0117 904 2224
