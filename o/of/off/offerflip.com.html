@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offerflip.com privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224110829id_/http%3A//www.offerflip.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offerflip.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501103115id_/http%3A//offerflip.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -95,7 +95,11 @@ return true;
         window.location.href="Allstate";
 		return false;
 		}
-		
+		if(document.deal_form.deals.value=='Amazon')
+		{
+        window.location.href="offers/amazonlocal";
+		return false;
+		}
 		if(document.deal_form.deals.value=='Dole')
 		{
         window.location.href="Dole";
@@ -347,17 +351,18 @@ return true;
       <option value="" selected="selected">Choose One</option>
       <!-----<option value="Select Quote">Select Quote</option>---->
 <option value="All State">All State</option>
+<option value="Amazon">Amazon Local</option>
 <option value="Dole">Dole</option>
 <option value="Zappos">Zappos</option>
-<option value="emusic">emusic</option>
+<!--option value="emusic">emusic</option-->
 <option value="Rhapsody">Rhapsody</option>
-<option value="NORDSTROM">NORDSTROM</option>
+<!--option value="NORDSTROM">NORDSTROM</option-->
 <option value="esurance">esurance</option>
-<option value="ACCUQUOTE">ACCUQUOTE</option>
+<!--option value="ACCUQUOTE">ACCUQUOTE</option-->
 <option value="Expedia">Expedia</option>
 <option value="Three Naked Dogs">Three Naked Dogs</option>
 <option value="REVERSE">REVERSE</option>
-<option value="WINE">WINE.COM</option>
+<!--option value="WINE">WINE.COM</option-->
 <option value="Drink UpNY">Drink UpNY</option>
 <option value="Delta">Delta</option>
 <option value="MorefromLife">MorefromLife</option>
@@ -424,21 +429,22 @@ return true;
                   <td align="left" valign="top"><div id="btn_logos_bg">
                     <div id="btm_logos_container">
                       <!--<div class="btm_logo" style="left: 0px;"><a href="Insurance"><img src="images/logo/maxideal.jpg" border="0" /></a></div>-->
-                      <div class="btm_logo" style="left: -23px;"><a href="Allstate"><img src="images/logo/allstate.jpg" border="0"></a></div>
-                      <div class="btm_logo" style="left: 213px;"><a href="Dole"><img src="images/logo/dole.jpg"></a></div>
-                      <div class="btm_logo" style="left: 449px;"><a href="offers/myquotesource"><img src="images/logo/my_quote_source.jpg"></a></div>
-                      <div class="btm_logo" style="left: 685px;"><a href="offers/scrubnbubbles"><img src="images/logo/scrubnbubbles.jpg"></a></div>
-                      <div class="btm_logo" style="left: 921px;"><a href="rhapsody"><img src="images/logo/rhapsody.jpg"></a></div>
-                      <div class="btm_logo" style="left: 1157px;"><a href="nordstrom"><img src="images/logo/nordstrom.jpg"></a></div>
-                      <div class="btm_logo" style="left: 1393px;"><a href="offers/insurance"><img src="images/logo/insurance.jpg"></a></div>
+                      <div class="btm_logo" style="left: -21px;"><a href="Allstate"><img src="images/logo/allstate.jpg" border="0"></a></div>
+                      <div class="btm_logo" style="left: -21px;"><a href="offers/amazonlocal/"><img src="images/logo/allstate.jpg" border="0"></a></div>
+                      <div class="btm_logo" style="left: 215px;"><a href="Dole"><img src="images/logo/dole.jpg"></a></div>
+                      <div class="btm_logo" style="left: 451px;"><a href="offers/myquotesource"><img src="images/logo/my_quote_source.jpg"></a></div>
+                      <div class="btm_logo" style="left: 687px;"><a href="offers/scrubnbubbles"><img src="images/logo/scrubnbubbles.jpg"></a></div>
+                      <div class="btm_logo" style="left: 923px;"><a href="rhapsody"><img src="images/logo/rhapsody.jpg"></a></div>
+                      <div class="btm_logo" style="left: 1159px;"><a href="nordstrom"><img src="images/logo/nordstrom.jpg"></a></div>
+                      <div class="btm_logo" style="left: 1395px;"><a href="offers/insurance"><img src="images/logo/insurance.jpg"></a></div>
                       <!-----<div class="btm_logo" style="left:1888px;"><a href="accuquotelife"><img src="images/logo/accuquote.jpg" /></a></div>---->
-                      <div class="btm_logo" style="left: 1629px;"><a href="Expedia"><img src="images/logo/expedia.jpg"></a></div>
-                      <div class="btm_logo" style="left: 1865px;"><a href="ThreeNakedDogs"><img src="images/logo/threenakeddogs.jpg"></a></div>
-                      <div class="btm_logo" style="left: 2101px;"><a href="reverse"><img src="images/logo/reverseclothing.jpg"></a></div>
-                      <div class="btm_logo" style="left: 2337px;"><a href="wine"><img src="images/logo/wine.jpg"></a></div>
-                      <div class="btm_logo" style="left: 2573px;"><a href="drinkupny"><img src="images/logo/drinkupny.jpg"></a></div>
-                     <div class="btm_logo" style="left: 2809px;"><a href="citycollege"><img src="images/logo/citycollege.jpg"></a></div>
-                      <div class="btm_logo" style="left: 3045px;"><a href="kaplan"><img src="images/logo/kaplan.jpg"></a></div>
+                      <div class="btm_logo" style="left: 1631px;"><a href="Expedia"><img src="images/logo/expedia.jpg"></a></div>
+                      <div class="btm_logo" style="left: 1867px;"><a href="ThreeNakedDogs"><img src="images/logo/threenakeddogs.jpg"></a></div>
+                      <div class="btm_logo" style="left: 2103px;"><a href="reverse"><img src="images/logo/reverseclothing.jpg"></a></div>
+                      <div class="btm_logo" style="left: 2339px;"><a href="wine"><img src="images/logo/wine.jpg"></a></div>
+                      <div class="btm_logo" style="left: 2575px;"><a href="drinkupny"><img src="images/logo/drinkupny.jpg"></a></div>
+                     <div class="btm_logo" style="left: 2811px;"><a href="citycollege"><img src="images/logo/citycollege.jpg"></a></div>
+                      <div class="btm_logo" style="left: 3047px;"><a href="kaplan"><img src="images/logo/kaplan.jpg"></a></div>
                     </div>
                   </div>
                     <script type="text/javascript">
@@ -495,7 +501,7 @@ return true;
 <li><a href="insurance.asp" title="Insurance">Insurance</a></li>
 <li><a href="electronics.asp" title="Electronics/Toys">Electronics/Toys</a></li>
 <li><a href="food_drinks.asp" title="Food Deals">Food&nbsp;Deals</a></li>
-<li><a href="health_fitness.asp" title="Health &amp; Wellness">Health&nbsp;&amp;&nbsp;Wellness</a></li>
+<li><a href="seniors.asp" title="Senior&nbsp;Care">Senior&nbsp;Care</a></li>
 <li><a href="music.asp" title="Music">Music</a></li>
 <li><a href="clothing.asp" title="Clothing">Clothing</a></li>
 <li><a href="adults.asp">21&amp; Over</a></li>
@@ -620,7 +626,7 @@ return true;
 <li><a href="adults.asp" title="Adults(18 &amp; Over)">Adults (21 &amp; Over)</a></li>
 <!-------<li><a href="insurance.asp" title="Insurance">Insurance</a></li>----->
 <li><a href="travel.asp" title="Travel">Travel</a></li>
-<li><a href="health_fitness.asp" title="Healthcare / Wellness">Healthcare / Wellness</a></li>
+<li><a href="seniors.asp" title="Senior&nbsp;Care">Senior&nbsp;Care</a></li>
 <li><a href="electronics.asp" title="Electronics/Toys">Electronics/Toys</a></li>
 <li><a href="clothing.asp" title="Clothing">Clothing</a></li>
 <li><a href="food_drinks.asp" title="Food Deals">Food Deals</a></li>
@@ -902,7 +908,7 @@ Westlake Village, CA 91362.
   <!-----<li><a href="insurance.asp">Insurance</a></li>----->
   <li><a href="electronics.asp">Electronics/Toys</a></li>
   <li><a href="food_drinks.asp">Food Deals</a></li>
-  <li><a href="health_fitness.asp">Health &amp; Wellness</a></li>
+  <li><a href="seniors.asp">Senior&nbsp;Care</a></li>
   <li><a href="music.asp">Music</a></li>
   <li><a href="clothing.asp">Clothing</a></li>
   <li><a href="all_deals.asp">More</a></li>
