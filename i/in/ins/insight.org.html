@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the insight.org privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005120036id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insight.org privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501023301id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1528:0';
-CONVIO.pageSessionID = 'hlbu6tkbt4.app213a';
+CONVIO.pageSessionID = '6o0y7ysje3.app205b';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1349438436670"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1367375581637"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -78,8 +78,20 @@ if (!Y) {
 <link href="https://secure2.convio.net/ifl/css/lbs-reftagger.css" rel="stylesheet" type="text/css">
 
 <!-- default IFL css goes here -->
-<link href="https://secure2.convio.net/ifl/css/2010/ifl-style2.css?v=2012.10.05" rel="stylesheet" type="text/css">
+<link href="https://secure2.convio.net/ifl/css/2010/ifl-style2.css?v=2013.04.30" rel="stylesheet" type="text/css">
 <link href="https://secure2.convio.net/ifl/css/1008grid_cw24_c18_gw32.css" rel="stylesheet" type="text/css">
+
+<!--Embedded Fonts-->
+
+
+
+
+<link href="/assets/css/eb-garamond-fontfacekit/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/fontello-icons-fontfacekit/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/fontello-icons-fontfacekit/animation.css" rel="stylesheet" type="text/css"><!--[if IE 7]>
+<link href="/assets/css/fontello-icons-fontfacekit/stylesheet-ie7.css" rel="stylesheet" type="text/css"><![endif]-->
+
+
 <!--[if IE]>
 <style>
 .arrowlistmenu ul{
@@ -136,13 +148,12 @@ ul.MenuBarHorizontal ul {
 
 
 
-<script type="text/javascript" src="https://secure2.convio.net/ifl/js/jquery-1.4.3.min.js"></script>
 
 
+<script type="text/javascript" src="https://secure2.convio.net/ifl/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="https://secure2.convio.net/ifl/js/jquery.columnizer.js"></script>
 
-<!--<script type="text/javascript" src="https://secure2.convio.net/ifl/js/jquery.easing.1.3.js"></script> removed 20120606 by willm because it was conflicting with the version from fancybox -->
 <script type="text/javascript" src="https://secure2.convio.net/ifl/js/jquery.tooltip.js"></script>
-
 <script type="text/javascript" src="https://secure2.convio.net/ifl/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <link href="https://secure2.convio.net/ifl/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
 <!-- always show fancybox left/right arrows: http://groups.google.com/group/fancybox/browse_thread/thread/1fd7617349b1e882/ -->
@@ -155,16 +166,46 @@ ul.MenuBarHorizontal ul {
  right: 20px;
  left: auto;
 }
+
+.LeftNavContain div.expandable + ul.categoryitems {
+	display: none;	
+}
 </style>
+<script language="JavaScript">
+jQuery(document).ready(function(){
+	//left nav toggle
+	$('.LeftNavContain div.expandable').click(function(e) {
+		if( $(this).hasClass('j_expanded') ) {
+			$(this).siblings().slideToggle();
+		} else {
+			$('div.expandable.j_expanded + ul.categoryitems').slideUp();
+			$('div.expandable.j_expanded').removeClass('j_expanded');
+			$(this).addClass('j_expanded').siblings().slideToggle();
+		}
+	});
+
+	//sitemap toggle
+	$('.btn-slide').click(function(evt) {
+		$('#panel').slideToggle();
+	});
+}); 
+</script> 
 
 <script type="text/javascript" src="https://secure2.convio.net/ifl/js/swfobject.js"></script>
-
+<!--
 <script type="text/javascript" src="https://secure2.convio.net/ifl/js/ddaccordion.js"></script>
 <script type="text/javascript" src="https://secure2.convio.net/ifl/js/2010/toggle-sitemap.js"></script>
 <script type="text/javascript" src="https://secure2.convio.net/ifl/js/2010/left-navigation.js"></script>
-
+-->
 <script type="text/javascript" src="https://secure2.convio.net/ifl/topNav/SpryAssets/SpryMenuBar.js"></script>
-<!-- appID: 0 S8: .http://www.insight.org/general/privacy.html. S1: .. -->
+<!-- appID: .0. 
+S8: .http://www.insight.org/general/privacy.html. 
+S1: .. 
+S29 DOMAIN: .daily.insight.org.
+S29 SECURE_DOMAIN: .secure2.convio.net.
+S29 ORIGINAL_DOMAIN: .daily.insight.org.
+S29 REQUEST_DOMAIN: .daily.insight.org.
+ -->
 
 
 
@@ -179,12 +220,30 @@ ul.MenuBarHorizontal ul {
 
 
 
-    
-    
+<!-- default -->
+	
+	
+	
+	
+	
+	
+
+<!--caribbean-->
+	
+
+<!--memorial_day-->
+	
+
+<!--quotes-->
+	
+
+
+
     <!-- facebook head tags -->
     <meta property="og:title" content="Privacy Policy - Insight for Living Ministries">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="http://daily.insight.org/images/email/logo-iflm-2012.png">
+    <meta property="og:image" content="http://daily.insight.org/images/pagewrapper/2012-ifl/facebook/iflm-logo.jpg">
+    <meta property="og:image" content="http://daily.insight.org/images/pagewrapper/2012-ifl/facebook/chuck-swindoll.jpg">
+    <meta property="og:url" content="http://www.insight.org/general/privacy.html">
     <!-- end facebook head tags -->
 
 
@@ -192,7 +251,7 @@ ul.MenuBarHorizontal ul {
 <body>
 
 <!-- top navigation-->
-<div id="convio-content-358902020" style="display: block; position: relative; text-align:left; z-index: 1020;">
+<div id="convio-content-423039043" style="display: block; position: relative; text-align:left; z-index: 1020;">
 
 
 
@@ -258,6 +317,7 @@ ul.MenuBarHorizontal ul {
 	<li class="style1"><a href="http://www.insight.org/resources/topics/pastors">Pastors</a></li>
 	<li class="style1"><a href="http://www.insight.org/resources/topics/prayer">Prayer</a></li>
 	<li class="style1"><a href="http://www.insight.org/resources/topics/sexual-abuse">Sexual Abuse</a></li>
+	<li class="style1"><a href="http://www.insight.org/resources/topics/sin">Sin</a></li>
 	<li class="style1"><a href="http://www.insight.org/resources/topics/special-needs">Special Needs</a></li>
 	<li class="style1"><a href="http://www.insight.org/resources/topics/stewardship">Stewardship</a></li>
 	<li class="style1"><a href="http://www.insight.org/resources/topics/theology">Theology</a></li>
@@ -289,13 +349,16 @@ ul.MenuBarHorizontal ul {
 <li class="style1"><a href="http://insightforliving.org.uk/store/">UK</a></li>
 <li class="style1"><a href="http://daily.insight.org/site/Ecommerce?store_id=1122&amp;PAGENUM=6&amp;s_locale=es_US">VPV</a></li>
 <li class="style1"><a href="http://www.insight.org/store">Other Locations</a></li>
-<!--<li class="style1"><a href="http://www.insight.org/store/ifl-pub.html">IFL Publishing House </a></li>--></ul>
+<!--<li class="style1"><a href="http://www.insight.org/store/ifl-publishing-house.html">IFL Publishing House </a></li>--></ul>
 <h4>Support</h4>
 <ul><li class="style1"><a href="http://www.insight.org/prayer/">Pray for IFL</a></li>
-<li class="style1"><a href="http://daily.insight.org/site/Donation2?df_id=2754&amp;2754.donation=form1&amp;s_src=sitemap">Donate Today</a></li>
-<li class="style1"><a href="http://www.insight.org/advancement">Why Donate?</a></li>
+<li class="style1"><a href="http://daily.insight.org/site/Donation2?df_id=3320&amp;3320.donation=form1&amp;s_src=sitemap">One Time Gift</a></li>
+<li class="style1"><a href="http://www.insight.org/advancement/enduring-companions/monthly-companions.html">Give Monthly</a></li>
+<li class="style1"><a href="http://www.insight.org/advancement/offline-giving.html">EFT and Offline Giving</a></li>
 <li class="style1"><a href="http://www.insight.org/advancement/estate-planning.html">Estate Planning</a></li>
-<li class="style1"><a href="http://www.insight.org/advancement/enduring-companions/monthly-companions.html">Monthly Companions</a></li></ul>
+<li class="style1"><a href="http://www.insight.org/advancement/stock-and-certificate-transfer.html">Stock and Certificate Transfers</a></li>
+<li class="style1"><a href="http://www.insight.org/advancement/other-options.html">Other Ways to Give</a></li>
+<li class="style1"><a href="http://www.insight.org/advancement">Why Support IFL</a></li></ul>
 <h4>World Wide Web Sites</h4>
 <ul><li class="style1"><a href="http://www.insightworld.org">www.insightworld.org</a></li></ul>
 </td>
@@ -324,7 +387,7 @@ ul.MenuBarHorizontal ul {
 <ul><li class="style1"><a href="http://www.insight.org/devo">Current Devotional</a></li>
 <li class="style1"><a href="http://www.insight.org/library/insight-for-today/devotional-archive.html">Devotional Library (Archives)</a></li>
 <li class="style1"><a href="http://www.insight.org/library/articles/">Article Library (Archives)</a></li>
-<li class="style1"><a href="http://www.insight.org/library/grace-devotional/">Grace Devotional Library</a></li>
+<!--<li class="style1"><a href="http://www.insight.org/library/grace-devotional/">Grace Devotional Library</a></li>-->
 <li class="style1"><a href="http://www.insight.org/library/paul-devotional/">Paul Devotional Library</a></li></ul>
 <h4>Blogs </h4>
 <ul><li class="style1"><a href="http://www.insight.org/pastors">Pastors</a></li>
@@ -358,7 +421,7 @@ ul.MenuBarHorizontal ul {
 <li class="style1"><a href="http://www.insight.org/contact/contact-us-by-phone-or-mail.html">By Phone or Mail </a></li>
 <li class="style1"><a href="http://www.insight.org/contact/">By Email</a></li>
 <li class="style1"><a href="http://www.insight.org/contact/testimonials.html">Testimonials</a></li>
-<li class="style1"><a href="http://www.insight.org/store/ifl-pub.html">Church Resources/<br>IFL Publishing House</a></li>
+<li class="style1"><a href="http://www.insight.org/store/ifl-publishing-house.html">Church Resources/<br>IFL Publishing House</a></li>
 <li class="style1"><a href="http://www.insight.org/contact/rights-permissions.html">Rights &amp; Permissions</a></li>
 </ul>
 </td>
@@ -443,7 +506,7 @@ ul.MenuBarHorizontal ul {
             <li><a href="http://www.insight.org/contact/contact-us-by-phone-or-mail.html">By Phone or Mail</a></li>
             <li><a href="http://www.insight.org/contact/">By Email</a></li>
             <li><a href="http://www.insight.org/contact/testimonials.html">Testimonials</a></li>
-            <li><a href="http://www.insight.org/store/ifl-pub.html">Church Resources/<br>IFL Publishing House</a></li>
+            <li><a href="http://www.insight.org/store/ifl-publishing-house.html">Church Resources/<br>IFL Publishing House</a></li>
           </ul>
         </li>
         <li> <a class="mainLinks" href="http://www.insight.org/store">Store</a>
@@ -454,16 +517,17 @@ ul.MenuBarHorizontal ul {
             <li><a href="http://www.insight.asn.au/shop/">Australia</a></li>
             <li><a href="http://daily.insight.org/site/Ecommerce?store_id=1122&amp;s_locale=es_US">Visión Para Vivir</a></li>
             <li><a href="http://www.insight.org/store">All Other Regions</a></li>
-           <!-- <li><a href="http://www.insight.org/store/ifl-pub.html">IFL Publishing</a></li>-->
+           <!-- <li><a href="http://www.insight.org/store/ifl-publishing-house.html">IFL Publishing</a></li>-->
           </ul>
         </li>
         <li> <a class="mainLinks" href="http://daily.insight.org/site/Donation2?df_id=3320&amp;3320.donation=form1&amp;s_src=topNav&amp;s_subsrc=Donate">Donate</a>
           <ul class="subNav">
             <li><a href="http://daily.insight.org/site/Donation2?df_id=3320&amp;3320.donation=form1&amp;s_src=topNav&amp;s_subsrc=OneTimeGift">One Time Gift</a></li>
-            <li><a href="http://www.insight.org/advancement/enduring-companions/monthly-companions.html">Monthly Gift</a></li>
-            <li><a href="http://www.insight.org/advancement/offline-giving.html">EFT</a></li>
+            <li><a href="http://www.insight.org/advancement/enduring-companions/monthly-companions.html">Give Monthly</a></li>
+            <li><a href="http://www.insight.org/advancement/offline-giving.html">EFT and Offline Giving</a></li>
             <li><a href="http://www.insight.org/advancement/estate-planning.html">Estate Planning</a></li>
-<li><a href="http://www.insight.org/advancement/estate-planning.html">Leave a Legacy</a></li>
+            <li><a href="http://www.insight.org/advancement/stock-and-certificate-transfer.html">Stock and Certificate Transfers</a></li>
+            <li><a href="http://www.insight.org/advancement/other-options.html">Other Ways to Give</a></li>
             <li><a href="http://www.insight.org/advancement">Why Support IFL?</a></li>
           </ul>
         </li>
@@ -486,7 +550,7 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1");
 <div id="ContentContainer">
     <!--left navigation-->
     <div id="pwLeftNav" style="width:165px; float:left;">
-    <div id="convio-content-358902021" style="display: inline;">
+    <div id="convio-content-423039044" style="display: inline;">
 
 
 
@@ -496,7 +560,7 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1");
 
 
 
-<div class="accountMenu">
+<div class="accountMenu nocontent">
   <div class="LeftNavContain">
     <div class="emailHeader">Manage My Account</div>
     <div class="emailInterests">
@@ -593,6 +657,7 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1");
 &nbsp;
 </td>
 
+
 <td>
 <fieldset>
 <div>
@@ -661,19 +726,17 @@ Question - Not Required -
 &nbsp;
 </td>
 
+
 <td>
 <span class="Explicit">Contact Info</span><br>
 
 
-
 <table border="0" cellspacing="4" cellpadding="0">
-
 <tbody><tr style="position:absolute;left:-9999px">
 <td colspan="3">
 <input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
 </td>
 </tr>
-
 
 
 
@@ -734,6 +797,7 @@ Question - Not Required -
 
 
 
+ 
 
 
 
@@ -765,11 +829,6 @@ Question - Not Required -
 
 
 
-
-
-
-
-
 <tr>
 <td width="1%">
 <p>&nbsp;</p>
@@ -782,20 +841,6 @@ Question - Not Required -
 
 
 
-<tr>
-<td width="1%">
-<p>&nbsp;</p>
-</td>
-<td colspan="2">
-
-<input type="hidden" name="cons_mail_opt_in" id="cons_mail_opt_in" value="t">
-
-<input type="checkbox" name="cons_postal_opt_in" id="cons_postal_opt_in" checked="checked">
-<label for="cons_postal_opt_in" class="wrapable">
-<span class="Explicit">Yes, I would like to receive postal mail from Insight for Living</span></label>
-<input type="hidden" id="cons_postal_opt_in_requested" name="cons_postal_opt_in_requested" value="true">
-</td>
-</tr>
 
 
 <tr>
@@ -816,12 +861,7 @@ Question - Not Required -
 
 
 
-
-
 </tbody></table>
-
-
-
 
 
 
@@ -960,7 +1000,7 @@ jQuery(document).ready(function(){
       <li><a href="http://www.insight.asn.au/shop/">Australia</a></li>
       <li><a href="http://daily.insight.org/site/Ecommerce?store_id=1122&amp;PAGENUM=6&amp;s_locale=es_US"><em>Visión Para Vivir</em></a></li>
       <li><a href="http://www.insight.org/store">All Other Regions</a></li>
-      <li><a href="http://www.insight.org/store/ifl-pub.html">IFL Publishing House</a></li>
+      <li><a href="http://www.insight.org/store/ifl-publishing-house.html">IFL Publishing House</a></li>
     </ul>
   </div>
   <div class="LeftNavContain">
@@ -969,9 +1009,11 @@ jQuery(document).ready(function(){
       <li><a href="http://www.insight.org/library/articles/">Article</a></li>
       <li><a href="http://www.insight.org/broadcast/library.html">Broadcast</a></li>
       <li><a href="http://www.insight.org/library/insight-for-today/devotional-archive.html">Insight for Today</a></li>
-      <li><a href="http://www.insight.org/library/grace-devotional/">Grace Devotional</a></li>
+      <!--<li><a href="http://www.insight.org/library/grace-devotional/">Grace Devotional</a></li>-->
       <li><a href="http://www.insight.org/library/paul-devotional/">Paul Devotional</a></li>
       <li><a href="http://www.insight.org/video/insights">Video Insight</a></li>
+      <li><a href="http://www.insight.org/library/quotes/">Insights to Share</a></li>
+      <li><a href="http://www.insight.org/video/conversations/">Conversations with Chuck</a></li>
     </ul>
   </div>
   <div class="LeftNavContain">
@@ -1003,6 +1045,7 @@ jQuery(document).ready(function(){
       <li><a href="http://www.insight.org/resources/topics/pastors">Pastors</a></li>
       <li><a href="http://www.insight.org/resources/topics/prayer">Prayer</a></li>
       <li><a href="http://www.insight.org/resources/topics/sexual-abuse">Sexual Abuse</a></li>
+      <li><a href="http://www.insight.org/resources/topics/sin">Sin</a></li>
       <li><a href="http://www.insight.org/resources/topics/special-needs">Special Needs</a></li>
       <li><a href="http://www.insight.org/resources/topics/stewardship">Stewardship</a></li>
       <li><a href="http://www.insight.org/resources/topics/theology">Theology</a></li>
@@ -1034,7 +1077,7 @@ jQuery(document).ready(function(){
 
 
 </div>
-    <div id="convio-content-358902022" style="display: inline;">
+    <div id="convio-content-423039045" style="display: inline;">
 
 
 
@@ -1065,12 +1108,12 @@ jQuery(document).ready(function(){
 <div class="WidgetTitleBar">Donate</div>
 
 <!--change link title and img source-->
-<a href="#premium_widget" onclick="fancybox_premium_widget();" class="fancy" id="video" title="Traveling the Road of Faith: 2013 Insight for Living Calendar	"><img src="https://secure2.convio.net/ifl/images/content/cms/homepage/feature1/201210-premium.jpg" width="160" border="0"></a>
+<a href="#premium_widget" onclick="fancybox_premium_widget();" class="fancy" id="video" title="Taking Aim: How to <i>Accurately</i> Apply Scripture"><img src="https://secure2.convio.net/ifl/images/content/cms/homepage/feature1/201304-premium.jpg" width="160" border="0"></a>
 
 
 </div>
 
-<iframe src="http://daily.insight.org/site/SPageServer?pagename=reus_widget_2011&amp;mfc_popup=true&amp;JServSessionIdr004=hlbu6tkbt4.app213a&amp;df_preview=false&amp;referer=http%3A%2F%2Fwww.insight.org%2Fgeneral%2Fprivacy.html" name="donation_widget" id="donation_widget" height="650" width="173" border="0" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://daily.insight.org/site/SPageServer?pagename=reus_widget_2011&amp;mfc_popup=true&amp;JServSessionIdr004=6o0y7ysje3.app205b&amp;df_preview=false&amp;referer=http%3A%2F%2Fwww.insight.org%2Fgeneral%2Fprivacy.html" name="donation_widget" id="donation_widget" height="650" width="173" border="0" frameborder="0" scrolling="no"></iframe>
 
 <!--change media URL-->
 <div style="display: none;">
@@ -1132,7 +1175,7 @@ jQuery(document).ready(function(){
 	height: 360px;
 	width: 640px;
 	position: absolute;
-	z-index: 1040;
+	z-index: 1;
 }
 
 
@@ -1161,7 +1204,7 @@ As of jwplayer 5.8, there is no way to resize or properly size the width of the 
 	function fancybox_premium_widget() {
 
 
-		var thefile = decode("687474703A2F2F73616C656D6E65742E766F2E6C6C6E77642E6E65742F6F32392F696E7369676874666F726C6976696E672F766964656F2F65766572677265656E2F3230313231302D65766572677265656E2D74726176656C696E672D7468652D726F61642D6F662D66616974682D323031332D63616C656E6461722E6D3476");
+		var thefile = decode("687474703A2F2F73616C656D6E65742E766F2E6C6C6E77642E6E65742F6F32392F696E7369676874666F726C6976696E672F766964656F2F65766572677265656E2F3230313330342D65766572677265656E2D74616B696E672D61696D2E6D7034");
 
 		jwplayer("fancybox_premium_widget").setup({
 			id: 'fancybox_premium_widget',
@@ -1193,6 +1236,7 @@ As of jwplayer 5.8, there is no way to resize or properly size the width of the 
 
 
 <!--/reus_jwplayer-->
+
 
 </div>
 </div>
@@ -1361,7 +1405,16 @@ CONVIO.user.isAnonymous = true;
 
 
 
+
+
+
+
+
 <!--determine values based on category_chooser number-->
+
+
+
+
 
 	
 	
@@ -1370,9 +1423,9 @@ CONVIO.user.isAnonymous = true;
 	
 	
 	
-		
-		
 	
+		
+		
 	
 
 
@@ -1393,6 +1446,7 @@ CONVIO.user.isAnonymous = true;
 
 
 <!-- /convio logic for randomly choosing a testimonial -->
+
 
 
 
@@ -1512,6 +1566,7 @@ ul.nobull li{
 }
 
 #testimonials #testimony p {
+	font-size: 13px;
 	margin: 0 auto 1em auto;
 }
 
@@ -1703,9 +1758,9 @@ ul.nobull li{
       <div id="testimony_container">
       	<div id="testimony">
         <div class="inner">
-        <p>Thanks, Chuck, for all your messages you share. So many are so timely for me personally. The words just jump up and minister to heart and soul. I share them with family, friends, and my work partners. You are the blessing to others our Father wanted you to be. Thank you for taking the time and making the effort to be so.</p>
-        <p class="witness">—M. J. from Rockwall, TX</p>
-        <a href="http://daily.insight.org/site/Donation2?df_id=3320&amp;3320.donation=form1&amp;s_src=footer&amp;s_subsrc=testimonial-broadcast-03" class="button">Impact Listeners’ Lives</a>
+        <p>I found Insight for Living through our Bible study leader back in 1985, and this ministry has helped me grow in my faith  as a follower of the Lord Jesus Christ. Chuck's messages from the Bible have many a time kept me afloat and paddling toward the goal in this Christian race.</p>
+        <p class="witness">—G. N. from Canada</p>
+        <a href="http://daily.insight.org/site/Donation2?df_id=3320&amp;3320.donation=form1&amp;s_src=footer&amp;s_subsrc=testimonial-broadcast-04" class="button">Impact Listeners’ Lives</a>
         </div>
         </div><!--/testimony-->
       	<div class="clear"></div>
@@ -1721,8 +1776,8 @@ ul.nobull li{
 </div>
 <!--/footer_2012-->
 <div id="copyright_2012" class="container_18">
-<div class="grid_9"><p>Copyright © 2012 Insight for Living.<br>
-All rights reserved worldwide.</p></div>
+<div class="grid_9"><p>Copyright © 2013 Insight for Living. All rights reserved worldwide.
+</p></div>
 <div id="social_media" class="grid_9"><a href="http://www.insight.org/general/connect-to-insight-for-living.html" class="social_media" title="Connect with Insight for Living">Connect with Insight for Living</a>
 <div class="clear"></div>
 </div><!--/social_media-->
@@ -1769,6 +1824,24 @@ All rights reserved worldwide.</p></div>
 
 
 
+<script language="javascript">
+jQuery(document).ready(function(){
+	// Do columnizer multiple columns of lists:
+	$('.j_col2').makeacolumnlists({cols: 2, colWidth: 0, equalHeight: 'ul', startN: 1});
+	$('.j_col3').makeacolumnlists({cols: 3, colWidth: 0, equalHeight: 'ul', startN: 1});
+
+	// Find content height .uniform_height & optionally set height of each
+	$('.j_same_height_container').each(function () {
+		var max = 0;
+		$(this).find(".j_same_height").each(function() {
+			var h = $(this).height();
+			max = h > max ? h : max;
+		});
+		$(this).find(".j_same_height").css("min-height", max);
+	});
+});
+</script>
+
 
 
 
@@ -1778,6 +1851,6 @@ All rights reserved worldwide.</p></div>
 
 
 
-<!-- 10.12.0.41:8901 -->
+<!-- 10.12.0.43:8901 -->
 
 </body></html>
