@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abilogic.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181424id_/http%3A//www.abilogic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abilogic.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501234005id_/http%3A//www.abilogic.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - AbiLogic
 
@@ -26,4 +26,4 @@ All orders processed by [SWREG](http://www.swreg.org/) or [2CheckOut](http://www
 
 Our Customer List
 
-Our customer list is internally used by our company, [Abi7 Network Group](http://www.deemx.com/). Our customers can modify their personal information and E-mail address by sending an E-mail request from the original E-mail address that was used for purchase or by sending a request from an arbitrary address and attaching the original registration message that the customer received from the payment service after purchase. We then send a notification E-mail with all changes to the customer's personal information to the official E-mail address. We store and keep all information about our customers private and secure in our off-line database and we DON'T sell it or release it to third parties.
+Our customer list is internally used by our company, [Abilogic International Group](http://www.abilogic.com/). Our customers can modify their personal information and E-mail address by sending an E-mail request from the original E-mail address that was used for purchase or by sending a request from an arbitrary address and attaching the original registration message that the customer received from the payment service after purchase. We then send a notification E-mail with all changes to the customer's personal information to the official E-mail address. We store and keep all information about our customers private and secure in our off-line database and we DON'T sell it or release it to third parties.
