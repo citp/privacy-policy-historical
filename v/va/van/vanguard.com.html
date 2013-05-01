@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the vanguard.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023051949id_/https%3A//personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vanguard.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501021825id_/https%3A//personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+
+
+
 <script type="text/javascript">
-	var _cbdStrtTimes = {};
-	_cbdStrtTimes.headStart = new Date().getTime();
+	var cbd = cbd || {};
+	cbd.pagePerformance = {};
+	cbd.pagePerformance.headStart = new Date().getTime();
 	
 	var _cbdNonRiaPageReady = false;
 </script>
@@ -16,19 +20,25 @@
 
 
 
-<script type="text/javascript">
-var plsVersionQueryStr = '?20120322|110035';
-var _cbdImagePath = 'https://static.vgcontent.info/ret/hnw/web/images/';
-var _cbdFlashPath = '/web/flash/';
-var _cbdContentDomain = 'https://static.vgcontent.info/ret/hnw';
 
-var _cbdForceDomain = null;
+
+
+<script type="text/javascript">
+var plsVersionQueryStr = '?20130211|174626',
+	_cbdImagePath = 'https://static.vgcontent.info/ret/hnw/web/images/',
+	_cbdFlashPath = '/web/flash/',
+	_cbdContentDomain = 'https://static.vgcontent.info/ret/hnw',
+	_cbdCommonPath = '/web/cbd/common/',
+	_cbdYuiFilterExt = '-min',
+	_cbdYuiComboBase = 'https://static.vgcontent.info/web/common/c?',
+	_cbdYuiComboBaseBackup = 'https://static-origin.vgcontent.info/web/common/c?',
+	_cbdYuiRoot = '/web/common/yui/3.4.0/build/',
+	_cbdForceDomain = null;
 </script>
 <base href="https://personal.vanguard.com">
 
 
-
-<!-- cell id is: EV2_02 -->
+<!-- cell id is: EN2_01 -->
 
 
 
@@ -44,7 +54,9 @@ var _cbdForceDomain = null;
 
 
 <script type="text/javascript">
-window._cbdContextRoot = '/us/';
+var cbd = cbd || {};
+cbd._cbdContextRoot = '/us/' //cbd._cbdContextRoot is used in TeaLeaf.js
+window._cbdContextRoot = cbd._cbdContextRoot;
 window._cbdWebContextRoot = '/web';
 
 var APP_CONTEXT_ROOT = {};
@@ -69,9 +81,24 @@ function jsCBDgetContextRoot(app)
 }
 </script>
 
+<!--[if lte IE 9]>
+		
+			<script>
+				(function() {
+					if(!/*@cc_on!@*/0) return; // Conditional compilation feature of IE
+					var elementTags = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),
+					    elementTagsLength = elementTags.length,
+					    i;
+					for(i=0;i<elementTagsLength;i++) { 
+						document.createElement(elementTags[i]);
+					}
+				})();
+			</script>
+	<![endif]-->
 
 
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/javascript/tealeaf/TeaLeaf.js?20120322|110035"></script>
+
+<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/vendorlibs/tealeaf/TeaLeaf.js?20130211|174626"></script>
 
 
 
@@ -82,7 +109,7 @@ function jsCBDgetContextRoot(app)
 
 	
 		
-			<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/VGI.css?20120322|110035">
+			<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/VGI-nrg.css?20130211|174626">
 		
 		
 	
@@ -92,32 +119,45 @@ function jsCBDgetContextRoot(app)
 
 
 
-<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/RIA.css?20120322|110035" type="text/css">
 
 
-<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/VGI-common.css?20120322|110035" type="text/css">
+	<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/RIA-nrg.css?20130211|174626" type="text/css">
 
 
 
 
-<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/print-vdp.css?20120322|110035" media="print">
+	
+		<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/VGI-common-nrg-fw-ca.css?20130211|174626" type="text/css">
+		<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/cbd/common/ghBase.css?20130211|174626" type="text/css">
+	
 
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/yui/build/yuiloader/yuiloader-min.js"></script> 
-
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/javascript/vg2.js?20120322|110035"></script>
 
 
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/javascript/vg.js?20120322|110035"></script>
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/yui/build/container/container_core-min.js"></script>
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/yui/build/menu/menu-min.js"></script>
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/yui/build/json/json-min.js"></script>
+
+
+
+
+<script type="text/javascript">
+var _cbdHistory = false;
+
+var isNearGen = true;
+</script>
+
+<script id="yuiBaseModules" type="text/javascript" src="https://static.vgcontent.info/web/common/c?/web/common/yui/3.4.0/build/yui/yui-min.js&amp;/web/common/yui/3.4.0/build/oop/oop-min.js&amp;/web/common/yui/3.4.0/build/features/features-min.js&amp;/web/common/yui/3.4.0/build/dom-core/dom-core-min.js&amp;/web/common/yui/3.4.0/build/event-custom-base/event-custom-base-min.js&amp;/web/common/yui/3.4.0/build/dom-base/dom-base-min.js&amp;/web/common/yui/3.4.0/build/selector-native/selector-native-min.js&amp;/web/common/yui/3.4.0/build/selector/selector-min.js&amp;/web/common/yui/3.4.0/build/node-core/node-core-min.js&amp;/web/common/yui/3.4.0/build/node-base/node-base-min.js&amp;/web/common/yui/3.4.0/build/event-base/event-base-min.js"></script>
+<script type="text/javascript" src="/web/cbd/common/cbdcommon.js?20130211|174626"></script>
+
+
+<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/javascript/vg2.js?20130211|174626"></script>
+
+<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/javascript/vg.js?20130211|174626"></script>
 
 <script type="text/javascript">
 js_cbdServer = '';
 var _cbdContentDomain = 'https://static.vgcontent.info/ret/hnw';
 jsCBDinitGlobals();
 </script>
+
+ 
 
 <meta name="DCSext.poid" content="">
 <meta name="WT.seg_1" content="">
@@ -135,7 +175,12 @@ jsCBDinitGlobals();
 <meta name="DCSext.PartStatus" content="">
 <meta name="WT.rememberMe" content="">
 <meta name="DCSext.PartWebRegStatus" content="">
-<meta name="DCSext.COBROWSE" content="">
+<meta name="DCSext.hybridDeviceType" content="">
+<meta name="WT.busMktSegment" content="">
+<meta name="WT.companyTier" content="">
+<meta name="WT.contactTier" content="">
+<meta name="WT.selfId" content="">
+<meta name="WT.matchedContactRowId" content="">
 
 <script type="text/javascript">
 	var gDomain = 'watag.vanguard.com';
@@ -144,7 +189,7 @@ jsCBDinitGlobals();
 </script>
 
 
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/javascript/webUsage.js?20120322|110035"></script>
+<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/vendorlibs/webusage/webUsage.js?20130211|174626"></script>
 
 <script type="text/javascript">
 	var _tag = new WebTrends();
@@ -237,6 +282,7 @@ function jsCBDgetUrlPrefix()
 {
 	return 'https://personal.vanguard.com';
 }
+cbdcommon.url.prefix = jsCBDgetUrlPrefix();
 
 function jsCBDadobeWarning()
 {
@@ -260,18 +306,16 @@ if (self != top)
 
 
 
-<script type="text/javascript" src="https://static.vgcontent.info/ret/hnw/web/javascript/loader.js?20120322|110035"></script>
 
 
 
 
-<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/2.css?20120322|110035" type="text/css">
-<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/print-vdp.css?20120322|110035" media="print">
+<link rel="stylesheet" href="https://static.vgcontent.info/ret/hnw/web/stylesheet/2.css?20130211|174626" type="text/css">
 
 
 
 
-<!--DCR Name: SiteWide\maint  \SiteWide\LglDocs\SWLglPrivacyPolicyContent -->
+<!--DCR Name: SiteWide\v16_250  \SiteWide\LglDocs\SWLglPrivacyPolicyContent -->
 
 
 <title>Vanguard - Privacy Policy  </title>
@@ -287,14 +331,17 @@ if (self != top)
 	}
 	</script>	
 <script type="text/javascript">
+
 function _cbdOnLoad()
 {
 	//	Delaying the call to fix a race condition with the modem value not being set correctly.
 	setTimeout( _cbdCheckConnectionSpeed, 1000 );
 	
 	_cbdNonRiaPageReady = true;
-	
-	
+		
+	// fixed width near Gen changes
+    _cbdAdjustFixedWidthModalPop();
+    
 	jsCBDrewriteUrlsForGH()
 		
 	
@@ -306,10 +353,12 @@ cbdInitChatHeight = null;
 
 
 	
+	cbd.pagePerformance.pageResponsive = new Date().getTime();
+	
+	vg.comp.initFloodlightFrame();
+	
 	if(wtActive)
-	{
-		_cbdStrtTimes.pageResponsive = new Date().getTime();
-		
+	{		
 		//capture and add the MetaTags 
 		vg.wu.captureReferrerLink();
 		vg.wu._addMetaTagsForStrt();
@@ -319,16 +368,16 @@ cbdInitChatHeight = null;
 		
 		// clear "Logon" meta tag (i.e., "WT.z_lv1") if it's current value = 1
 		jsCBDclearLogonMetaTag(); 
-	}
-	vg.comp.initFloodlightFrame();
+	}	
 }
 </script>
 
 
 </head>
 
-<body bgcolor="#FFFFFF" id="body" class="vdp" onfocus="jsCBDdoModalCB()" onclick="jsCBDdoModalCB(); jsCBDcloseFlyouts(event);" onmouseup="jsCBDdoModalCB();jsCBDcloseAutoSuggest(event);" onmousedown="jsCBDdoModalCB();" onscroll="jsCBDdoModalCB();" onunload="jsCBDunloadCB()" onload="_cbdOnLoad()">
-<div id="vg0" class="vg0">
+<body bgcolor="#FFFFFF" id="body" class="vdp " onfocus="jsCBDdoModalCB()" onclick="jsCBDdoModalCB(); jsCBDcloseFlyouts(event);" onmouseup="jsCBDdoModalCB();jsCBDcloseAutoSuggest(event);" onmousedown="jsCBDdoModalCB();" onscroll="jsCBDdoModalCB();" onunload="jsCBDunloadCB()" onload="_cbdOnLoad()">
+
+<div id="vg0" class="vg0" onclick="javascript:void(0)">
 <div style="height:0px;width:0px;visibility:hidden">
 <input type="hidden" id="CBD_STATE_CHANGED" value="0">
 </div>
@@ -338,67 +387,47 @@ cbdInitChatHeight = null;
 
 
 	<div id="gh"><!--CBD: GlobalHeaderTag-->
-<div id="retailNav"><div id="utilSection"><div id="utilBar">
-<div id="mainUtil"><div id="clientSegment"><div class="personal">Personal Investors</div></div><div id="utilLinks"><div class="first"><a target="_top" href="/us/openaccount" id="_cbdGHOpenAccount" title="Buy new investments, roll over a 401(k), or transfer assets to Vanguard" onclick="_cbdTrackHGlink();">Open an account</a></div><div><a target="_top" id="_cbdGHForms" href="/us/literature" title="Get forms, prospectuses, reports, and educational material">Forms</a></div>
-<div><a target="_top" title="Contact us by phone, mail, or e-mail" href="#" onclick="jsCBDopenStdWin('/us/content/UtilityBar/SiteHelp/SiteHelp/ContactUsPublicContent.jsp?cbdPop=1',CBD_MODAL_POP,Y,Y,POPUP_SIZE7);return false;" id="_cbdCont">Contact us</a></div> 
-<div><a target="_top" id="_cbdGHHelp" href="/us/help" title="Find security and technical information, and FAQs on investing">Help</a></div><div><a target="_top" rel="nofollow" id="_cbdGHLogOn" title="Log on to access your accounts" href="/us/MyHome">Log on</a></div></div></div>
-</div> <div id="subUtilSection"><div id="subUtilContent">
-<div id="subUtilBrand">
-<a target="_top" onclick="javascript:jsCBDLogLinkEvent(event);" href="https://personal.vanguard.com" id="_cbdBrand"><img height="39" border="0" width="139" alt="The Vanguard Group" title="The Vanguard Group" src="https://static.vgcontent.info/ret/hnw/web/images/gh2/vg_logo.gif"></a>
+<nav id="retailNav" class=" "><div id="ghUtilBar" class="x-ghUtilBar "><div id="ghMainUtil"><div class="x-ghHideOnLrg" id="ghMenuBtnResp"></div><div class="x-ghHideOnLrg" id="ghVgLogoResp"></div><div id="ghClientSegment" class="x-ghShowOnLrg"><div>Personal Investors</div></div><div id="ghUtilIconsResp" class="x-ghHideOnLrg"><ul id="ghUtilIconsListResp"><li class="x-ghUtilIconItemResp"><a target="_top" href="#" id="_cbdContIcon" class="x-ghUtilIconItemLinkResp x-ghCallIconResp" onclick="cbdcommon.url.openPopUp({url: '/us/content/UtilityBar/SiteHelp/SiteHelp/ContactUsPublicContent.jsp?cbdPop=1%', windowName: 'cbdModalWin1', resize: true, scroll: true, height: 430, width: 550})"></a></li></ul></div><ul id="ghUtilLinks"><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/openaccount" title="Buy new investments, roll over a 401(k), or transfer assets to Vanguard" id="_cbdGHOpenAccount" onclick="cbdcommon.wu.trackLink('OpenAccountGH');">Open an account</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/literature" title="Get forms, prospectuses, reports, and educational material" id="_cbdGHForms">Forms</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="javascript:void(0)" title="Contact us by phone, mail, or e-mail" id="_cbdCont" onclick="cbdcommon.url.openPopUp({url: '/us/content/UtilityBar/SiteHelp/SiteHelp/ContactUsPublicContent.jsp?cbdPop=1%', windowName: 'cbdModalWin1', resize: true, scroll: true, height: 430, width: 550})">Contact us</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/help" title="Find security and technical information, and FAQs on investing" id="_cbdGHHelp">Help</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/MyHome" title="Log on to access your accounts" id="_cbdGHLogOn" rel="nofollow">Log on</a></div></li></ul></div></div><div id="ghSubUtilSection" class="x-ghShowOnLrg "><div id="ghSubUtilContent">
+<div id="ghSubUtilLogo">
+<a target="_top" href="https://personal.vanguard.com" id="_cbdBrand"><img alt="The Vanguard Group" title="The Vanguard Group" src="https://static.vgcontent.info/ret/hnw/web/images/gh2/vg_logo.gif"></a>
 </div>
-
-<div id="subUtilLinks"><div id="subUtilContact"></div>
-</div><div id="subUtilSearch"><form name="searchForm" action="javascript:doGHSearch()" method="post" id="searchForm">
-<!--CBD: AutoSuggestTag-->
-
-<input type="text" name="query" title="Enter keywords or ticker symbol" size="25" maxlength="255" class="box" id="_cbdSearchBox"> <input id="_cbdSearchBoxSelected" type="hidden" name="_cbdSearchBoxSelected">
-<span class="comp-shdwBox"><div class="shdwBox" style="display:none" id="_cbdSearchBoxShdwBox"><div class="shdwBoxCtnt"><div></div></div></div>
+<div id="ghSubUtilLinks"></div><div class="x-ghBorderGradientDiv"><div id="ghSubUtilSearch"><form name="searchForm" action="javascript:doGHSearch()" method="post" id="searchForm">
+<div class="globalHeaderAutoSuggest">
+<input type="text" name="query" title="Enter keywords or ticker symbol" size="255" maxlength="255" class="box" id="_cbdSearchBox"> <input id="_cbdSearchBoxSelected" type="hidden" name="_cbdSearchBoxSelected">
+<span class="comp-shdwBox"><div class="shdwBox" id="_cbdSearchBoxShdwBox"><div class="shdwBoxCtnt"><div class="shdwBoxResultsCont"></div></div></div>
 </span>
 
-<script>new AutoSuggest("_cbdSearchBox",2,0,"/us/web/srch/jsp/GlobalAutoSuggestFeed.jsf",function(){ return true; },_cbdGHAutoSuggestValueChange,0,'right',"Get a quote or search the site","","",false,false,"");</script>
 
 
-<!--End CBD-->
+<script type="text/javascript">
+cbd.gh.asProps = {tableUrl: "/us/web/srch/jsp/GlobalAutoSuggestFeed.jsf", defaultText: "Get a quote or search the site", cellSpans: "", searchParams: "/us/JSP/UtilityBar/Search/SearchGlobalContent.jsf"};</script>
 
-<div class="searchButton"><a href="javascript:void(0);" onclick="javascript:doGHSearch();return false;" onmousedown="jsCBDaddStyle(this,'press')" onkeydown="jsCBDaddStyle(this,'press')" onmouseup="jsCBDdeleteStyle(this, 'press')" onmouseout="jsCBDdeleteStyle(this, 'press')" onkeyup="jsCBDdeleteStyle(this, 'press')" onblur="jsCBDdeleteStyle(this, 'press')" id="_cbdSearchButton" name="button" title="Search">Search</a></div>
-</form>
-</div></div></div></div><div id="firstNav" class="yuimenubar"><div class="bd"><ul class="mainNav first-of-type">
-
-<li class="yuimenubaritem first-of-type">
-<a class="-noFly yuimenubaritemlabel cobrowseableLink" target="_top" href="/us/home" onclick="javascript:_cbdExecAndDisableLink(this);return true" id="_cbdGHHome">Home</a></li>
-<li class="yuimenubaritem ">
-<a class="-noFly yuimenubaritemlabel cobrowseableLink" target="_top" href="/us/myportfolio" onclick="javascript:_cbdExecAndDisableLink(this);return true" id="_cbdGHMyPortfolio">My Portfolio</a></li>
-<li class="yuimenubaritem yuimenubaritem-hassubmenu">
-<a class=" yuimenubaritemlabel cobrowseableLink" target="_top" href="/us/funds" onclick="javascript:_cbdExecAndDisableLink(this);return true" id="_cbdGHResearchFundsStocks">Research Funds &amp; Stocks<div class="ghArrow"></div></a><div class="yuimenu"><div class="bd"><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/funds/vanguard" id="_cbdGHVanguardFundsFlyoutNav">Vanguard Funds</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/funds/etf" id="_cbdGHVanguardETFsFlyoutNav">Vanguard ETFs</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/funds/other" id="_cbdGHOtherFundFamiliesFlyoutNav">Other Fund Families</a></li>
-</ul><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/funds/stocksbondscds" id="_cbdGHStocksBondsCDsFlyoutNav">Stocks, Bonds, &amp; CDs</a></li>
-</ul><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/funds/annuities" id="_cbdGHAnnuityPortfoliosFlyoutNav">Annuity Portfolios</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/funds/529portfolios" id="_cbdGH529PortfoliosFlyoutNav">529 Portfolios</a></li>
-</ul>
-</div></div></li>
-<li class="yuimenubaritem yuimenubaritem-hassubmenu">
-<a class=" yuimenubaritemlabel cobrowseableLink" target="_top" href="/us/whatweoffer" onclick="javascript:_cbdExecAndDisableLink(this);return true" id="_cbdGHWhatWeOffer">What We Offer<div class="ghArrow"></div></a><div class="yuimenu"><div class="bd"><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer" id="_cbdGHOverviewFlyoutNav">Overview</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/mutualfundinvesting" id="_cbdGHMutualFundsFlyoutNav">Mutual Funds</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/etfs" id="_cbdGHETFsFlyoutNav">ETFs</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/stocksbondscds" id="_cbdGHStocksBondsCDsFlyoutNav">Stocks, Bonds, &amp; CDs</a></li>
-</ul><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/rollover" id="_cbdGH401(k)RolloversFlyoutNav">401(k) Rollovers</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/ira" id="_cbdGHIRAsFlyoutNav">IRAs</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/college" id="_cbdGHCollegeFlyoutNav">College</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/smallbusiness" id="_cbdGHSmallBusinessFlyoutNav">Small Business</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/annuities" id="_cbdGHAnnuitiesFlyoutNav">Annuities</a></li>
-</ul><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/advice" id="_cbdGHAdviceFlyoutNav">Advice</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/personalservices" id="_cbdGHPersonalServicesFlyoutNav">Personal Services</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/whatweoffer/accountservices/overview" id="_cbdGHAccountServicesFlyoutNav">Account Services</a></li>
-</ul>
-</div></div></li>
-<li class="yuimenubaritem yuimenubaritem-hassubmenu">
-<a class=" yuimenubaritemlabel cobrowseableLink" target="_top" href="/us/insights" onclick="javascript:_cbdExecAndDisableLink(this);return true" id="_cbdGHInsights" onfocus="vg.comp._lazyLoadComp('firstNav')">Insights<div class="ghArrow"></div></a><div class="yuimenu"><div class="bd"><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/insights" id="_cbdGHOverviewFlyoutNav">Overview</a></li>
-</ul><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/insights/marketsandeconomy" id="_cbdGHMarketsEconomyFlyoutNav">Markets &amp; Economy</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/insights/retirement" id="_cbdGHRetirementFlyoutNav">Retirement</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/insights/saving-investing" id="_cbdGHSavingInvestingFlyoutNav">Saving &amp; Investing</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/insights/collegesavings" id="_cbdGHCollegeSavingsFlyoutNav">College Savings</a></li><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/insights/taxcenter" id="_cbdGHTaxCenterFlyoutNav">Tax Center</a></li>
-</ul><ul><li class="yuimenuitem "><a target="_top" class="cobrowseableLink yuimenuitemlabel" onclick="vg.wu.trackLink('FlyoutNav');" href="/us/insights/investingtruths" id="_cbdGHInvestingTruthsFlyoutNav">Investing Truths</a></li>
-</ul>
-</div></div></li>
-</ul></div></div>
+<div class="searchButton"><a href="javascript:void(0);" id="_cbdSearchButton" name="button" title="Search">Search</a></div>
+</div>
+</form></div></div></div></div><div id="ghFirstNav" class="yui3-menu yui3-menu-horizontal"><div class="yui3-menu-content"><div id="ghSegmentResp" class="x-ghHideOnLrg clientSeg-pns">Personal Investors</div><ul id="ghMainNav" class="x-ghSectionDivider first-of-type"><li class="x-ghHideOnLrg"><div id="ghSearchAndLinksResp" class="x-ghSectionDivider"><div class="x-ghBorderGradientDiv"><div id="ghSearchResp"><form name="searchFormResp" action="javascript:doGHSearch()" method="post" id="searchFormResp">
+<div class="globalHeaderAutoSuggest">
+<input type="text" name="query" title="Enter keywords or ticker symbol" size="255" maxlength="255" class="box" id="_cbdSearchBoxResp"> <input id="_cbdSearchBoxRespSelected" type="hidden" name="_cbdSearchBoxRespSelected">
+<span class="comp-shdwBox"><div class="shdwBox" id="_cbdSearchBoxRespShdwBox"><div class="shdwBoxCtnt"><div class="shdwBoxResultsCont"></div></div></div>
+</span>
 
 
- <script type="text/javascript">
-(function(){
-ghopt = {};
-ghopt.selected1 = 'CBD_NAV_NONE';
-ghopt.selected2 = '';
-ghopt.brandDisplayed = 'true';
-})();
-new vg.comp.Mbar({id:'firstNav', autosubmenudisplay: true, hidedelay: 0, lazyload: true, globalHeader: true, shadow: false, minscrollheight: 85 });ghFirstNavSelectedTab=null;ghSecondNavSelectedTab=null;</script>
 
-</div><!--End CBD--></div>
+<script type="text/javascript">
+cbd.gh.asProps = {tableUrl: "/us/web/srch/jsp/GlobalAutoSuggestFeed.jsf", defaultText: "Get a quote or search the site", cellSpans: "", searchParams: "/us/JSP/UtilityBar/Search/SearchGlobalContent.jsf"};</script>
+
+<div class="searchButton"><a href="javascript:void(0);" id="_cbdSearchButtonResp" name="button" title="Search">Search</a></div>
+</div>
+</form></div></div><ul id="ghUtilLinksResp"><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/openaccount" title="Buy new investments, roll over a 401(k), or transfer assets to Vanguard" id="_cbdGHOpenAccount" onclick="cbdcommon.wu.trackLink('OpenAccountGH');">Open an account</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/literature" title="Get forms, prospectuses, reports, and educational material" id="_cbdGHForms">Forms</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="javascript:void(0)" title="Contact us by phone, mail, or e-mail" id="_cbdCont" onclick="cbdcommon.url.openPopUp({url: '/us/content/UtilityBar/SiteHelp/SiteHelp/ContactUsPublicContent.jsp?cbdPop=1%', windowName: 'cbdModalWin1', resize: true, scroll: true, height: 430, width: 550})">Contact us</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/help" title="Find security and technical information, and FAQs on investing" id="_cbdGHHelp">Help</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghUtilLinkResp" target="_top" href="/us/MyHome" title="Log on to access your accounts" id="_cbdGHLogOn" rel="nofollow">Log on</a></div></li></ul></div></li>
+<li class="yui3-menubaritem x-ghSiloItem ">
+<div class="yui3-menu-label x-ghBorderGradientDiv"><a class="x-noDoubleClick yui3-menubar-label x-ghSiloItemLink" target="_top" href="/us/home" id="_cbdGHHome">Home</a></div></li>
+<li class="yui3-menubaritem x-ghSiloItem ">
+<div class="yui3-menu-label x-ghBorderGradientDiv"><a class="x-noDoubleClick yui3-menubar-label x-ghSiloItemLink" target="_top" href="/us/myportfolio" id="_cbdGHMyAccounts">My Accounts</a></div></li>
+<li class="yui3-menubaritem x-ghSiloItem yui3-menuitem-hassubmenu">
+<div class="yui3-menu-label x-ghBorderGradientDiv"><a class="-noFly yui3-menubar-label x-ghSiloItemLink" target="_top" href="javascript:void(0)" id="_cbdGHFundsStocksETFs">Funds, Stocks &amp; ETFs<div class="x-ghArrow"></div></a></div><div class="yui3-menu yui3-menu-hidden x-ghSiloItemSubMenu"><div class="yui3-menu-content"><ul class=" x-ghSubSiloGroup "><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/funds/vanguard" id="_cbdGHVanguardfundsFlyoutNav" target="_top">Vanguard funds</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/funds/etf" id="_cbdGHVanguardETFsFlyoutNav" target="_top">Vanguard ETFs</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/funds/other" id="_cbdGHOtherfundfamiliesFlyoutNav" target="_top">Other fund families</a></div></li></ul><ul class=" x-ghSubSiloGroup "><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/funds/stocksbondscds" id="_cbdGHStocksbondsCDsFlyoutNav" target="_top">Stocks, bonds &amp; CDs</a></div></li></ul><ul class=" x-ghSubSiloGroup last-of-type"><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/funds/annuities" id="_cbdGHAnnuityportfoliosFlyoutNav" target="_top">Annuity portfolios</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/funds/529portfolios" id="_cbdGH529portfoliosFlyoutNav" target="_top">529 portfolios</a></div></li></ul></div></div></li>
+<li class="yui3-menubaritem x-ghSiloItem yui3-menuitem-hassubmenu">
+<div class="yui3-menu-label x-ghBorderGradientDiv"><a class="-noFly yui3-menubar-label x-ghSiloItemLink" target="_top" href="javascript:void(0)" id="_cbdGHWhatWeOffer">What We Offer<div class="x-ghArrow"></div></a></div><div class="yui3-menu yui3-menu-hidden x-ghSiloItemSubMenu"><div class="yui3-menu-content"><ul class=" x-ghSubSiloGroup "><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer" id="_cbdGHOverviewFlyoutNav" target="_top">Overview</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/mutualfundinvesting" id="_cbdGHMutualfundsFlyoutNav" target="_top">Mutual funds</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/etfs" id="_cbdGHETFsFlyoutNav" target="_top">ETFs</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/stocksbondscds" id="_cbdGHStocksbondsCDsFlyoutNav" target="_top">Stocks, bonds &amp; CDs</a></div></li></ul><ul class=" x-ghSubSiloGroup "><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/rollover" id="_cbdGH401(k)rolloversFlyoutNav" target="_top">401(k) rollovers</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/ira" id="_cbdGHIRAsFlyoutNav" target="_top">IRAs</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/college" id="_cbdGHCollegeFlyoutNav" target="_top">College</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/smallbusiness" id="_cbdGHSmallbusinessFlyoutNav" target="_top">Small business</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/annuities" id="_cbdGHAnnuitiesFlyoutNav" target="_top">Annuities</a></div></li></ul><ul class=" x-ghSubSiloGroup last-of-type"><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/advice" id="_cbdGHInvestinghelpFlyoutNav" target="_top">Investing help</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/retirementincome/get-income" id="_cbdGHRetirementincomeFlyoutNav" target="_top">Retirement income</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/personalservices" id="_cbdGHPersonalservicesFlyoutNav" target="_top">Personal services</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/whatweoffer/accountservices/overview" id="_cbdGHAccountservicesFlyoutNav" target="_top">Account services</a></div></li></ul></div></div></li>
+<li class="yui3-menubaritem x-ghSiloItem yui3-menuitem-hassubmenu">
+<div class="yui3-menu-label x-ghBorderGradientDiv"><a class="-noFly yui3-menubar-label x-ghSiloItemLink" target="_top" href="javascript:void(0)" id="_cbdGHInsights">Insights<div class="x-ghArrow"></div></a></div><div class="yui3-menu yui3-menu-hidden x-ghSiloItemSubMenu"><div class="yui3-menu-content"><ul class=" x-ghSubSiloGroup "><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/insights" id="_cbdGHOverviewFlyoutNav" target="_top">Overview</a></div></li></ul><ul class=" x-ghSubSiloGroup "><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/insights/marketsandeconomy" id="_cbdGHMarketseconomyFlyoutNav" target="_top">Markets &amp; economy</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/insights/retirement" id="_cbdGHRetirementFlyoutNav" target="_top">Retirement</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/insights/saving-investing" id="_cbdGHSavinginvestingFlyoutNav" target="_top">Saving &amp; investing</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/insights/collegesavings" id="_cbdGHCollegesavingsFlyoutNav" target="_top">College savings</a></div></li><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/insights/taxcenter" id="_cbdGHTaxcenterFlyoutNav" target="_top">Tax center</a></div></li></ul><ul class=" x-ghSubSiloGroup last-of-type"><li class="yui3-menuitem x-ghSubSiloItem "><div class="x-ghBorderGradientDiv"><a class="x-ghSubSiloItemLink " href="/us/insights/investingtruths" id="_cbdGHInvestingtruthsFlyoutNav" target="_top">Investing truths</a></div></li></ul></div></div></li><li class="x-ghHideOnLrg"><ul id="ghSocialMediaLinksResp"><li><div class="x-ghBorderGradientDiv"><a class="x-ghSocialMediaLinkResp facebook" href="http://www.facebook.com/Vanguard">Facebook</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghSocialMediaLinkResp twitter" href="http://www.twitter.com/Vanguard_Group">Twitter</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghSocialMediaLinkResp youTube" href="http://www.youtube.com/user/Vanguard">YouTube</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghSocialMediaLinkResp rss" href="/us/insights/newsarchive/rss-article-subscription">RSS feed</a></div></li><li><div class="x-ghBorderGradientDiv"><a class="x-ghSocialMediaLinkResp blog" href="http://www.vanguardblog.com">Vanguard Blog</a></div></li></ul></li></ul></div></div><script type="text/javascript">cbd.gh.initGH({id:'ghFirstNav', closeOnScroll: false, autoSubmenuDisplay: true, hidedelay: 0, addScrollRegions: true, hoverIntent: true, shadow: false, minscrollheight: 85, mouseOutExtAreaHideDelay: 500, openOnFocus: true, lazyload: true, alignment: 'left', collision: 'fit' });</script></nav><!--End CBD--></div>
 
 
 <div id="main">
@@ -493,6 +522,20 @@ new vg.comp.Mbar({id:'firstNav', autosubmenudisplay: true, hidedelay: 0, lazyloa
 
 <!-- End of chunk --><!--End PPE-->
 
+<!-- This common File is used for implementing SEO Tags in Required Pages -->
+
+
+
+
+
+<script type="text/javascript" src="/web/publicsite/js/iqseotag.js">
+</script>
+<script type="text/javascript" src="/web/publicsite/js/SeoIqCommon.js">
+</script>
+<script type="text/javascript">
+jsSEOTagCommon('true','prd');
+</script>
+
 
 
 
@@ -537,18 +580,18 @@ new vg.comp.Mbar({id:'firstNav', autosubmenudisplay: true, hidedelay: 0, lazyloa
 	
 
 
+</div> <!-- end main -->
+
+
 	<div class="gblFoot">
 
 
 		<!--CBD: GlobalFooterTag-->
-<p><a style="text-decoration: none; color:#333; border-bottom: none" href="#" onclick="jsCBDtoggle('threadId'); return false" id="_cbdThread">© 1995–2012&nbsp; </a>The Vanguard Group, Inc. All rights reserved. Vanguard Marketing Corp., Distrib. <a href="#" onclick="jsCBDopenStdWin('/us/content/SiteWide/LglDocs/SWLglTermsConditionsContent.jsp',CBD_MODAL_POP,'yes','yes',POPUP_SIZE1);return false" id="_cbdTC">Terms &amp; conditions of use</a> | <a href="/us/help/SecurityCenterOverviewContent.jsp" rel="nofollow">Security Center</a>&nbsp;| <a href="/us/literature/prospectus/mutualfunds">Obtain prospectus</a>&nbsp;| <a href="https://careers.vanguard.com/vgcareers/home/index.shtml">Careers</a>&nbsp;| <a href="/us/whatweoffer/accountservices/mobileservices">Mobile services</a> | <a href="javascript:O_LC()"><img src="https://static.vgcontent.info/ret/hnw/web/images/sm_00C_oo.gif" border="0" title="Feedback" style="margin-right:5px;">Feedback</a><script language="javascript" type="text/javascript" charset="windows-1252">_fPe();</script> | <a style="text-decoration: none; color:#333; border-bottom: none" href="#" onclick="_cbdOpenCobrowse(); return false" id="_cbdCoBrowseLink">Enhanced Support</a></p><div style=" position:relative; width:100%"><div id="threadId" style="display: none; position: absolute; bottom: 24px; left: 125px; font-size:80%;  z-index: 2; background-color: #cc3300; width: auto; padding: 2px; color: white;"><b>EV2_02</b></div></div><!--End CBD-->
+<div class="gblFootContent"><p><a style="text-decoration: none; color:#333; border-bottom: none" href="#" onclick="jsCBDtoggle('threadId'); return false" id="_cbdThread">© 1995–2013&nbsp; </a>The Vanguard Group, Inc. All rights reserved. Vanguard Marketing Corp., Distrib. <a href="#" onclick="jsCBDopenStdWin('/us/content/SiteWide/LglDocs/SWLglTermsConditionsContent.jsp',CBD_MODAL_POP,'yes','yes',POPUP_SIZE1);return false" id="_cbdTC">Terms &amp; conditions of use</a> | <a href="/us/help/SecurityCenterOverviewContent.jsp" rel="nofollow">Security Center</a>&nbsp;| <a href="/us/literature/prospectus/mutualfunds">Obtain prospectus</a>&nbsp;| <a href="https://careers.vanguard.com/vgcareers/home/index.shtml">Careers</a>&nbsp;| <a href="/us/whatweoffer/accountservices/mobileservices">Mobile services</a> | <a id="globalFooterFeedback" class="glbFootFeedback" href="javascript:void(0)"><img src="https://static.vgcontent.info/ret/hnw/web/images/sm_00C_oo.gif" border="0" title="Feedback" style="margin-right:5px;">Feedback</a><script language="javascript" type="text/javascript" charset="windows-1252">cbdcommon.opinionLabs.initialize()</script></p></div><div style=" position:relative; width:100%"><div id="threadId" style="display: none; position: absolute; bottom: 24px; left: 125px; font-size:80%;  z-index: 2; background-color: #cc3300; width: auto; padding: 2px; color: white;"><b>EN2_01</b></div></div><!--End CBD-->
 
 
 
 </div>
-
-
-</div> <!-- end main -->
 
 
 
@@ -578,8 +621,8 @@ jsCBDrestoreAllSelectionLists();
 </div>
 
 <script type="text/javascript">
-_cbdStrtTimes.pageRendered = new Date().getTime();
-_cbdStrtTimes.serverTime = 32;
+cbd.pagePerformance.pageRendered = new Date().getTime();
+cbd.pagePerformance.serverTime = 3;
 </script>
 
 
