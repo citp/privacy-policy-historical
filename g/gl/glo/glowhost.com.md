@@ -1,121 +1,113 @@
-> *The following text is extracted and transformed from the glowhost.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502225536id_/http%3A//glowhost.com/docs/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowhost.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501201652id_/https%3A//privacy.truste.com/reseller/privacy-policy/GlowHost.com%252C-Inc/certified/87d2e4ba-f13c-490d-b9da-16d8804e9c18) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Welcome to glowhost.com
 
-Welcome to GlowHost.com, a web company that offers interactive computer services, namely, web hosting to our subscribers. (herein known as “us”, “we”, “our” or “The Company”). This “Privacy Policy” applies to this site however it is accessed and/or used, whether via personal computers, mobile devices or otherwise, collectively referred to as, “Computer” or “Computers” and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “Website”). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
+[](https://privacy.truste.com/privacy-seal/GlowHost.com%2C-Inc/validation?validationId=c2c4b115-7e2a-412e-8861-1b7dfffc5618&referer=glowhost.com)
 
-## The Short Version of our Privacy Policy:
+**Effective on April 19, 2012**
 
-**Your personally identifiable information WILL NOT BE SHARED OR SOLD to third parties without your consent. We track your usage and habits on our web site, and we use cookies. We do this to improve your overall experience on this web site and make adjustments to our products, services and web site to try to make things easier to navigate, more understandable and overall make our web site something we think that our customers would enjoy or benefit from.**
+This privacy statement describes how **GlowHost.com, Inc** collects and uses the personal information you provide on our Web site: [ glowhost.com](http://glowhost.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-## Now, for the Long Version. (Our attorney's made us do this):
+ **GlowHost.com, Inc** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@glowhost.com](mailto:legal@glowhost.com). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
 
-We have adopted this Privacy Policy to explain what information may be collected on our Website, how we use this information and under what circumstances we may disclose the information to third parties. This Privacy Policy, together with the Terms of Serivice (“TOS”) and Acceptable Use Policy (“AUP”) posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
+We collect the following personal information from you:
 
-We keep this Privacy Policy posted on our Website and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. GlowHost will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
+  * Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our site you visited. 
 
-WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
 
-A. INFORMATION WE COLLECT
 
-Our Website typically collects two (2) kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, that we automatically collect when you visit our Website or that you provide us.
+**We also collect the following information from you:**
 
-Personally Identifiable Information:
+  * Information about your business such as company name, company size, business type
+  * Demographic information such as household income, age, education, gender, interests, and zip code
 
-Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc. We do not require you to provide us with your personally identifiable to visit the Website, but since the GlowHost Website is an interactive community, we encourage you to sign up as a Member in certain sections to enjoy the full extent of our features and services. If you decide to subscrie to our services, The Company will require you to submit your personally identifiable information so that we can contact you for billing related issues, problems with your hosting account, or other reasons that we deem necesary in order to maintain your account's functionality which may include email, telephone or postal mail.
 
-In certain other circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website. For instance, you may: (a) provide your name, mail/shipping address, e-mail address, credit card number and phone number when registering with our Website, using areas of our online store or in connection with a contest entry or promotional offer; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a member service; or (c) provide us with your contact preferences when signing up to receive our special offers or newsletters. Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a service that we offer or gain access to certain content on our Website.
 
-Non-Personal Information:
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website.
+ **We use this information to:**
 
-B. HOW WE USE & SHARE THE INFORMATION COLLECTED
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess your needs to determine suitable products or services
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Administer contests and sweepstakes you entered, and notify you if you won
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Respond to your questions and concerns
+  * Display content based upon your interests
 
-Personally Identifiable Information:
 
-The personally identifiable information you submit to us as a subscriber is used to carry out your requests, respond to your inquiries, better serve you or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, to provide you with information or services or process transactions that you have requested or agreed to receive, to provide you with marketing or promotional information for our products or those of our partner companies, subsidiaries or other affiliated companies (“affiliated companies”), to communicate with you about content or other information you have posted or shared with us via our Website or with regard to your use of the Website and, in our discretion, changes to the Website and/or Website policies, for internal business purposes, or for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.
 
-In certain instances we may also share your personally identifiable information with our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website. Except as provided in this Privacy Policy, our TOS or AUP, or as set forth when you submit the information, **your personally identifiable information will not be shared or sold to third parties without your consent.**
+ **Choice/Opt-Out**
 
-Non-Personal Information:
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [legal@glowhost.com](mailto:legal@glowhost.com).
 
-In addition to any personally identifiable information or other information that you choose to provide to us on the Website, we and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically collect certain web site usage information whenever you visit or interact with the Website. This information may include browser type, operating system, the page served, the time, the source of the request, the preceding page view, and other similar information. We may use this usage information for a variety of purposes, including to enhance or otherwise improve the Website. In addition, we may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively, referred to herein as a “Unique ID”). A Unique ID is a number that is automatically assigned to your Computer, and we may identify your device by its Unique ID. When analyzed, usage information helps us determine how our Website is used, such as what types of visitors arrive at the Website, what type of content is most popular, what type of content you may find most relevant and what type of visitors are interested in particular kinds of content and advertising. We may associate your Unique ID or web site usage information with the personally identifiable information you provide, but we will treat the combined information as personally identifiable information. Web site usage information may be collected using various methods, such as the following:
+ **Information Obtained from Third Parties**
 
-Pixel Tags. Small graphic images or other web programming code called Pixel Tags (also known as “1×1 GIFs” or “clear GIFs”) may be included in our web pages and e-mail messages. Pixel Tags may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a Pixel Tag. Pixel Tags or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Website, to monitor how users navigate the Website, to count how many e-mails that were sent were actually opened, to track affiliate sales, or to count how many particular articles or links were actually viewed.
+We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
 
-Cookies. A cookie is a data file placed on a Computer when it is used to visit the Website. Cookies may be used for many purposes, including, without limitation, tracking user preferences and web pages visited while using the Website. However, cookies are typically used to save your viewing preferences, save logins, and to make your experience on our Website customized to you. You may disable cookies using your browser’s preferences, but some features of the Website may not function properly if you disable the cookies. If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
+We will share your information with third parties only in the ways that are described in this privacy statement.
 
-Mobile Unique IDs. Certain mobile service providers uniquely identify mobile devices and we or our third-party service providers may receive such device information if you access the Website through mobile devices. Certain features of our Website may require collection of mobile phone numbers, and we may associate that phone number to mobile device identification information with your profile. Additionally, some mobile phone service providers operate systems that pinpoint the physical location of devices that use their service. Depending on the provider, we or our third-party service providers may receive this information.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Website, such as the links you click on, to reveal hidden content that you intended to find based on a link that you have clicked, to reveal search results, or similar functionality on our Website. The code is temporarily downloaded onto your Computer from our web server or a third-party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.
+We may disclose your personal information
 
-Information collected through passive means may be non-identifying or may be associated with you. In the latter case it will be treated as personally identifiable information.
+  * as required by law, such as to comply with a subpoena, or similar legal process 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if GlowHost.com, Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
 
-We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information.
 
-We sometimes allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party pixel tag to collect this information. 
 
-Information You Provide About A Third Party:
+ _GoogleCheckout_
 
-If you send someone else a communication from the Website, such as sending Website content to a friend, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person or we explicitly state otherwise. Please be aware that when you use any send-to-a-friend functionality on our Website, your e-mail address may be included in the communication sent to your friend.
+If you choose to use GoogleCheckout to finalize and pay for your order, you will provide your credit card number directly to GoogleCheckout. Google's privacy policy will apply to the information you provide on the GoogleCheckout Web site. 
 
-Information Third Parties Provide About You:
+_PayPal_
 
-We also may, from time to time, supplement the information we collect with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other sources with information we collect through the Website. In those cases, we will apply this Privacy Policy to any personal identifiable information received, unless otherwise specifically disclosed by us at the time you provide your personally identifiable information.
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
 
-C. OTHER USES
+We use Google AdSense to serve ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
-E-mail Communications:
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: [http://preferences.truste.com](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads 
 
-If you send us an e-mail with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personally identifiable information, such as passwords, social security numbers, credit card numbers or bank account information, to us by e-mail. Further, we may send you e-mail under the following circumstances: (a) if you request a particular service or sign up for a feature that involves e-mail communications; (b) if it relates to purchases you have made with us (e.g., product updates, customer support, etc.); (c) if we are sending you information about our other products and services; (d) if you consented to being contacted by e-mail for a particular purpose; (e) if you send us an e-mail, post information on the Website (i.e., a blog) or otherwise submit information to us electronically, we may e-mail you to follow-up or otherwise communicate with you with respect thereto; (f) to provide you legal notices or notices with respect to your use of the Website; or (g) to otherwise facilitate a transaction between us. In certain instances, we may provide you with the option to set your preferences for receiving e-mail communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial e-mail communications from us by clicking the “unsubscribe” link included at the bottom of most e-mails we send, or as provided below; provided, however, we reserve the right to send you transactional e-mails such as customer service communications.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
-Transfer of Assets:
+If you have any questions about security on our Web site, you can contact us at [legal@glowhost.com](mailto:legal@glowhost.com)
 
-As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party checkout option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party checkout option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-Other:
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [legal@glowhost.com](mailto:legal@glowhost.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counter-notices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
+Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy 
 
-Contests and Promotions:
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [legal@glowhost.com](mailto:legal@glowhost.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
 
-We may offer contests and other promotions through the Website that may require registration. By entering any promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion. If you choose to enter a sweepstakes, contest or other promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the promotion’s official rules, such as on a winners list.
+ **Correcting and Updating Your Personal Information**
 
-Third Party Ad Server Networks:
+To review and update your personal information to ensure it is accurate, contact us at [legal@glowhost.com](mailto:legal@glowhost.com).
 
-The Website may use third parties such as network advertisers to serve advertisements on the Website and may use traffic measurement services to analyze traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to the Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. The Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies on your Computer if you choose to have cookies enabled in your browser and track certain behavioral information regarding users of your Computer via a Unique ID. These third party cookies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as Pixel Tags, which enable third parties to carry out the previously described activities. Third party cookies and Pixel Tags are governed by each third party’s specific privacy policy, not this one. 
+ **Notification of Privacy Statement Changes**
 
-D. PUBLIC FORUMS
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-We may offer chat rooms, live chat, message boards, bulletin boards, blogs or similar public media where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personally identifiable information) in connection with your use of these public media. We may use personally identifiable and non-personal information about you to identify you with a posting in a public medium. Any information you share in a public medium is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
+You can contact us about this privacy statement by writing or email us at the address below:
 
-E. CHILDREN
+GlowHost.com, Inc
 
-The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at our support helpdesk. A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+Attn: Customer Privacy PO Box 6361 
 
-F. KEEPING YOUR INFORMATION SECURE
+Stuart, FL  34997
 
-We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. 
+United States
 
-G. OTHER SITES/LINKS
-
-Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website or banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
-
-H. THIRD PARTY APPLICATIONS
-
-Third party applications may be available via the Website, (for example: Facebook). The owners of these applications (“Third Party Owners”) may collect personally identifiable information from you and may have their own policies and practices. We are not responsible for how Third Party Owners or their applications use your personally identifiable information. These Third Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same. We are not responsible for these policies or the practices of Third Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it.
-
-I. CONTACT & OPT-OUT INFORMATION
-
-You may login to your GlowHost Account Manager which will enable you to contact our helpdesk if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including e-mails; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. Some of these features you are able to manage on your own inside of your account manager without contacting our helpdesk, for example, setting your email preferences or updating your contact information. 
-
-Upon your contact with us, we will honor your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. Also, please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Website such as in forums or blogs, these communications cannot generally be removed.
-
-J. CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES
-
-The Website is operated in the United States and intended for users located in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Website or providing us with any information, you consent to this transfer and processing of your information in the United States.
-
-K. SOLE STATEMENT
-
-This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
+Phone: 1-888-293-4678
