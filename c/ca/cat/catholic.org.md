@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626153409id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501201235id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - About - Catholic Online
 
@@ -111,6 +111,3 @@ P.O. Box 11236
 Bakersfield, CA 93389
 
 Effective Date: October 13, 2009
-
-  
-
