@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vingle.net privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016125822id_/http%3A//www.vingle.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vingle.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501065458id_/http%3A//www.vingle.net/about/privacy) for the most accurate reproduction.*
 
 # Vingle
 
