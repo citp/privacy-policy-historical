@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024013305id_/http%3A//evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501103125id_/http%3A//evworld.com/privacy.cfm) for the most accurate reproduction.*
 
-# EV WORLD: The World of Sustainable Transportation
+# ABOUT EVWORLD.COM
 
-  
-  
----  
-  
-GUIDE TO PRIVACY POLICY  
-  
 **Your Privacy**  
 EV World believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, EV World makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy describes the steps we take to make sure that when you use EV World, you can focus on finding great deals in a safe, worry-free environment. 
 
 **Links to Other Sites**  
-This site contains links to other Web sites. EV World is not responsible for the privacy practices or the content of these sites. If you have concerns about how other Web sites collect and use information about you, make sure to read that site’s own privacy policy. 
+This site contains links to other Web sites. EV World is not responsible for the privacy practices or the content of these sites. If you have concerns about how other Web sites collect and use information about you, make sure to read that site's own privacy policy. 
 
 **Sharing Information**  
 Unless you give explicit permission (e.g., you opt to receive e-mail from partners and third parties), EV World has a strict policy against sharing or selling your personal information (such as your e-mail address or mailing address), except when we believe in good faith that the law requires it, or to protect the rights, safety or property of EV World, our users, or others. 
@@ -21,7 +15,7 @@ Unless you give explicit permission (e.g., you opt to receive e-mail from partne
 EV World uses "cookies" to automatically recognize returning users. A cookie is a small file on your hard drive that allows us to display your previously defined search criteria and notification preferences whenever you visit our site. You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you (e.g., saved searches). 
 
 **User Information**  
-The use of certain EV World features requires that you supply personal information like your name and e-mail address. At your direction, we may use this information to send you our e-mail newsletter. This information may also be used to contact you when necessary. You may opt-out of receiving future mailings at any time (see the “Choice/Opt-Out” section below). 
+The use of certain EV World features requires that you supply personal information like your name and e-mail address. At your direction, we may use this information to send you our e-mail newsletter. This information may also be used to contact you when necessary. You may opt-out of receiving future mailings at any time (see the 'Choice/Opt-Out' section below). 
 
 **Choice/Opt-Out of EV World E-mail Communications**  
 At any time, you have the ability to opt-out of receiving communications from EV World and our partners. To unsubscribe from the EV World e-mail newsletter, contact subscription@evworld.com and let us know that you would like to discontinue this service. 
@@ -36,7 +30,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 EV World logs IP addresses (your unique Internet address) for system administration purposes. IP addresses are logged to give us an idea of which parts of our site users are visiting so that we can update and improve the services we offer to you. We do not link IP addresses to any information that could personally identify you. This means that the path of your EV World session will be tracked, but you will remain anonymous. 
 
 **Tell a Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. EV World collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit the site and does not store this information. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. EV World collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit the site and does not store this information. 
 
 **Advertising**  
 We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
