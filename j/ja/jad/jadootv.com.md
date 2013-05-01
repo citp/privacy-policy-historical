@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221202043id_/http%3A//jadootv.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501144652id_/http%3A//jadootv.com/privacypolicy.php) for the most accurate reproduction.*
 
 # jadoo3 - Watch all TV channels, Internet Videos, Movies, Sports & more, all on your TV for FREE!
 
