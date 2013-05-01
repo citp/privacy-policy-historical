@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonnet.co.uk privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013021id_/http%3A//www.londonnet.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonnet.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502013636id_/http%3A//www.londonnet.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LondonNet
+# Privacy Policy
 
 The privacy of our visitors to LondonNet.co.uk is important to us. 
 
