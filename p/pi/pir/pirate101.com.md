@@ -1,100 +1,100 @@
-> *The following text is extracted and transformed from the pirate101.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pirate101.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501142942id_/https%3A//www.pirate101.com/free_game/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Pirate101 Free Online Game
 
-**Go Daddy Respects Your Privacy**
+KingsIsle Entertainment, Inc. (“KingsIsle,” “we,” or “us”) is committed to protecting and safeguarding consumer privacy on the Internet, especially for children. This privacy policy (“Privacy Policy”) describes how we handle the personal information provided to us on our websites and collected through participation in, in-game play of, or any other use of our sites or environments, such as Wizard101, Pirate101 or any other games/environments that we may provide in the future (all collectively, the “Site”). When you submit data to the Site, you are submitting data to us in the United States and that data is collected and maintained in, and subject to the laws of, the United States.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Please be sure to read this Privacy Policy before using this Site or submitting information to us. Our Privacy Policy may change from time to time and your continued use of this Site constitutes acceptance of such changes, so please check this area periodically for updates to this Privacy Policy. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+KingsIsle is very sensitive to privacy issues with respect to children, especially those under the age of 13. Please see below for more information on how KingsIsle addresses children’s privacy issues generally and under the Children’s Online Privacy Protection Act (“COPPA”). We encourage parents to regularly monitor and supervise their children’s on-line activities. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## INFORMATION KINGSISLE COLLECTS FROM YOU
 
-**Information Collection and Use**
+KingsIsle may collect information through your active submission of information or passively through use of automated technologies. Please see the Section below titled “Special Notes About Information From Children” for the process we use to limit information collected from children under the age of the 13. PLEASE NOTE: you may have a separate account for each environment or game of ours included in the Site that you register for, or you may be able to use a single account across all of our environments and games. In either case, this Privacy Policy applies to your use of the Site and each separate environment or component thereof.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Active Information Collection   
+Much of the personally identifiable information we collect from our visitors is submitted by visitors in response to our requests, such as during the registration process, or in response to polls, forums, promotional offers or other interactivity incorporated into the site. From time-to-time, visitors may also submit personally identifiable information directly to us via e-mail. The information we actively collect includes some or all of the following: 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+\-- Name   
+\-- Date of Birth   
+\-- Address (including City, State, Country and/or Zip Code)   
+\-- E-Mail Address   
+\-- Username   
+\-- Password   
+\-- Gender   
+\-- Information Regarding Your Computer Hardware and Network Connectivity
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+During the registration process, we will also collect your parent’s or guardian’s e-mail address from you if you are under the age of 13 or if you elect to set up a parental account. Establishment of a parental account may also require submission of the information described in this Section with respect to the parent(s) or guardian(s). 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Finally, we may require you to submit billing information to pay any fees applicable to participation in the Site. Depending on the type of payment method, this billing information may include credit card or comparable payment account number, billing address, name on card/account, expiration date and security code. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+For some of our online activities - such as polls or surveys - we may ask users to provide information that is not personally identifiable, such as country of residence, favorite color or feedback or suggestions for the Site. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Passive Information Collection   
+As you navigate through the Site and participate in the gaming environment, other information may be collected through use of technologies which are common among websites and online environments. For example, we may track IP addresses, use session, persistent and flash cookies, and evaluate access time and navigational data in connection with the Site. “Cookies” are small pieces of information or files that the Site puts on your computer which allow KingsIsle to accumulate data on your navigation of the Site and ease such navigation (e.g., by allowing your computer to save your username and password). We may also use web beacons and any other successor tracker technology used in the industry in connection with the Site. Within the gaming environment, we may also collect information on your in-game activities, character development and character interaction. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may also use technology to passively gather operational information about the technology you use, such as your browser, type of computer, operating systems, Internet service providers and the domain name of the web site that linked you to the Site.   
+KingsIsle does not passively/automatically collect personally identifiable information from you, but may tie personally identifiable information you submit to information collected passively as described above or from third parties.
 
-**Security**
+## HOW KINGSISLE USES YOUR INFORMATION
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+KingsIsle uses your personal information to enable you to register for the Site. We also use this information to manage your use of the Site and support operation of the Site generally. We use any billing information you provide to collect any fees due in connection with your use of the Site. We may also use your personal information to send you updates and information about the Site and KingsIsle’s products and services. 
 
-**Updating Your Information**
+Although we do not generally give your personal information to third parties, we may disclose your information to KingsIsle’s vendors that provide technical support or other services to KingsIsle related to the Site. For example, we may provide your information to companies that host the Site or process credit card information. However, these vendors may not use your personally identifiable information for any reason other than assisting KingsIsle and are required to maintain the confidentiality of the information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We reserve the right to disclose information if required to do so by law or by a regulatory authority. We may also disclose your information as part of an investigation or enforcement action relating to improper or illegal conduct in connection with our Site, including, without limitation, any situations that may potentially involve threats to the safety or privacy of any person.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If a third party acquires the assets of KingsIsle related to the Site, its products and services, or any component thereof (whether by sale, merger, change of control, bankruptcy or otherwise), copies of your information may be transferred to the new owner(s). In such case, your information would remain subject to the provisions of this Privacy Policy until you consent to the new owner’s applicable privacy policy. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+KingsIsle may maintain aggregate data or other non-personally identifiable information about our users, such as usage statistics, online traffic patterns and user feedback. In addition to using this information to support operation of the Site, KingsIsle may disclose this information to third parties without restriction.
 
-      iii.      You may call us at: (480) 505-8800
+## SPECIAL NOTES ABOUT INFORMATION FROM CHILDREN 
 
-       iv.      You may fax us at: (480) 505-8844
+Children Generally 
 
-**Sending Emails**
+On our Site, we offer many features, such as the ability to view or download game content or images, news, or participate in forums, which do not require a child to provide any personal information. KingsIsle will not condition a child’s participation in any online activity on the child’s disclosure of more personal information than is reasonably necessary to participate in that activity. We also may enable users to chat online through our Site, but we take measures to limit users’ ability to communicate personal information through this chat function. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Children Under the Age of 13 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+During the registration process, we collect only limited personal information from children identified as under 13 years of age (such as username and password) as well as an e-mail address or other contact information for a parent or guardian. We obtain this information so that we can notify the parent or guardian and obtain his or her electronic consent prior to completing the registration process and collecting more personal information. We will not knowingly collect more detailed information from a child younger than 13, such as a postal address or a telephone number, without the consent of a parent or guardian. 
 
-**Compliance with Laws and Law Enforcement**
+Parental Review of Personally Identifiable Information 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+In certain circumstances, parents will have the ability to set up parental accounts to administer their children’s accounts and review the personally identifiable information maintained by KingsIsle from such accounts. If a child is under the age of 13, the child will be required to submit an e-mail address for a parent or guardian and such individual will have the opportunity to set up a parental account. Alternatively, parents or guardians may establish a parental account during the initial registration process for the child’s account or, subsequently, through the account management features applicable to the child’s account. Although a child over the age of 13 may register without the electronic consent of a parent or guardian, a parent or guardian may also submit a request to KingsIsle at the contact information below to review any personally identifiable information from such child. However, such requests will be subject to the parent or guardian demonstrating proper identification to KingsIsle’s satisfaction after reasonable investigation. 
 
-**Third Party Service Providers**
+## CHOICES YOU HAVE ABOUT HOW KINGSISLE USES YOUR INFORMATION 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+You have the following choices regarding the personally identifiable information you provide for KingsIsle to use: 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You may send us an e-mail message at Privacy@KingsIsle.com to request access to review, correct or delete any personally identifiable information maintained on our systems that you or your child has provided to us through the Site registration process or other request. To protect your privacy, we will respond only to e-mail messages sent from the e-mail account that you specified (or was given by your child) during the account registration process. 
 
-**Supplementation of Information**
+You may also opt out of receiving newsletters and other promotional materials from KingsIsle by notifying us at [Privacy@KingsIsle.com.](mailto:privacy@kingsisle.com)
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this Site may then be inaccessible or not function properly. 
 
-**Contests/Surveys**
+## HOW KINGSISLE PROTECTS YOUR INFORMATION 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We work hard to protect your personal information. We use both technical and procedural methods to maintain the integrity and security of our databases, including giving users a unique user name and password for access to the Site, SSL encryption for data transfer, firewalls, and restricted access to data. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+However, the safety and security of your information also depends on you. You should never share your password with anyone else and you should always logoff before leaving your computer. If you believe someone has unauthorized access to your password or account, please contact us promptly. 
 
-**Tell-A-Friend**
+This Site may contain links to other websites operated by third parties that may be of interest to you. When you follow a link and leave this Site, you do so at your own risk because we do not control such third party websites. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## HOW YOU CAN CONTACT KINGSISLE 
 
-**What Happens to my Personal Information if I Opt Out?**
+If you have any questions, comments, or concerns about this Privacy Policy, please contact us at: 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+KingsIsle Entertainment, Inc.   
+P.O. Box 82543   
+Austin TX USA, 78708   
+E-Mail: [Privacy@KingsIsle.com ](mailto:privacy@kingsisle.com)
 
-**Transfer of Data Abroad**
+## EFFECTIVE DATE; CHANGES 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+This Privacy Policy is effective as of October 4, 2012 and applies to all information previously obtained by KingsIsle. KingsIsle reserves the right to change its privacy policy in its sole discretion. In such case, KingsIsle will post the new privacy policy on the Site and the effective date of the new privacy policy will be clearly marked. With respect to children under the age of 13, KingsIsle will not use personally identifiable information from such children in ways that are materially different from this version of the Privacy Policy unless the parent(s) or guardian(s) are notified of, and consent to, the new changes to the privacy policy. 
 
-**Changes in Our Practices**
+This Privacy Policy updates the Privacy Policy originally implemented on May 19, 2008. You may view the previous Privacy Policy [by clicking here](https://web.archive.org/free_game/privacy_policy_old). This Privacy Policy does not make any material changes to the way KingsIsle may use personally identifiable information. The only material changes made to the Privacy Policy are: (a) the clarification that this Privacy Policy applies to all of KingsIsle’s games and sites, rather than just Wizard 101, and related conforming changes; (b) adding details to the Passive Information Collection regarding updated technologies; (c) clarification that disclosures in connection with investigations into improper or illegal conduct includes conduct we believe may impact safety; and (d) this paragraph describing the changes. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## GENERAL 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Your use of the Site is subject to this Privacy Policy as well as our Terms of Use. Among other things, the Terms of Use establishes disclaimers of warranties, limitations on KingsIsle’s liability, choice of law and venue, and restrictions on your use of the Site. Please review this Privacy Policy and the Terms of Use carefully, because if you do not agree with our practices, your ultimate choice is not to use this Site.
