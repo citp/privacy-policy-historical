@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynews.co.zw privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010221605id_/http%3A//dailynews.co.zw/inside.aspx%3Fq%3DICadKOa9E3A%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynews.co.zw privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501171255id_/http%3A//dailynews.co.zw/content/2) for the most accurate reproduction.*
 
 # Daily News | Telling it like it is
 
