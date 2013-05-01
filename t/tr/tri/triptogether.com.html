@@ -1,0 +1,1302 @@
+<!--The following is the downloaded HTML source of the triptogether.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501151130id_/https%3A//www.triptogether.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+        <meta charset="utf-8">
+        <title>TripTogether</title>
+	    <link rel="shortcut icon" href="/i/favicon.ico?4">
+        <link type="text/css" rel="stylesheet" href="/styles/common.css?0-1-15-00">
+<link type="text/css" rel="stylesheet" href="/styles/inner.css?0-1-15-00"><link type="text/css" rel="stylesheet" href="/styles/static.css?0-1-15-00">        <!--[if lte IE 9]>
+<script src='/app/libs/base64.js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src='/app/libs/es5-shim.js'></script>
+<script src='/app/libs/iso8601.js'></script>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="/app/packages/require.config.js?0-1-15-00"></script>
+<script type="text/javascript">
+    var require = {
+        baseUrl: '/app',
+        packages: jam.packages,
+        paths: {
+            'mustache': '/app/libs/mustache',
+            'facebook-sdk': '//connect.facebook.net/en_US/all',
+            'base64': '/app/libs/base64',
+	        'fotorama': '/app/libs/fotorama',
+            'jquery.autocomplete': '/app/libs/jquery.autocomplete',
+            'jquery.input': '/app/libs/jquery.input',
+            'google-analytics': 'https://ssl.google-analytics.com/ga',
+            'google-plusone': 'https://apis.google.com/js/plusone',
+            'twitter': '//platform.twitter.com/widgets'
+        },
+        shim: jam.shim,
+        waitSeconds: 20,
+        urlArgs : '0-1-15-00'
+    };
+</script>
+<script src="/app/libs/require.js?0-1-15-00" data-main="boot"></script>
+
+
+
+        <link rel="service" href="/events">
+        <link rel="service" href="/router">
+        <link rel="service" href="/analytics">
+        <link rel="service" href="/analytics/afid">
+        <link rel="service" href="/authorization">
+        <link rel="service" href="/reminders/registration">
+    </head>
+    <body>
+        <article id="fellow-to" class="inner app-container">
+            <link rel="widget" href="/authorization/state">
+            <link rel="widget" href="/authorization/roles">
+            <link rel="widget" href="/contentedit/enabler">
+            <link rel="widget" href="/contentedit/watcher">
+            <link rel="widget" href="/contentedit/approver">
+            <link rel="widget" href="/overlay" data-args="noclick">
+            <link rel="widget" href="/notifications">
+
+            <header>
+	<div class="limiting-wrapper clearfix">
+				<a href="/" class="logo">
+			<span class="project-name"><l10n url="/texts/shared/identity#domain">TripTogether.com</l10n></span> <l10n url="/texts/shared/identity#motto">Travelling Together Is Brighter!</l10n>
+		</a>
+
+		<section class="account-options">
+	<section class="login-container">
+		<ul class="options clearfix">
+			<li class="option">
+				<button id="login-facebook" class="facebook button disabled" type="button" accesskey="F">
+                    <link rel="widget" href="/authorization/facebook">
+                    <l10n url="/texts/shared/header/authorization#facebook">Sign in with Facebook</l10n>
+                </button>
+			</li>
+			<li class="option">
+				<div class="popup-container top">
+                    <link rel="widget" href="/popup">
+                    <link rel="widget" href="/authorization/popup">
+					<button class="default login-fellow popup-trigger popup-control button" type="button"><l10n url="/texts/shared/header/authorization#login">Log in</l10n></button>
+					<div class="popup">
+						<form class="login form" action="">
+                            <link rel="widget" href="/authorization/form">
+							<p class="field-wrapper field">
+								<label>
+									<span class="name"><l10n url="/texts/shared/header/authorization#email">Email</l10n></span>
+									<span class="field-wrapper"><input class="data" type="email" pattern="^\s*.+@.+\..+\s*$" name="email" required="" autofocus=""></span>
+								</label>
+							</p>
+							<p class="field-wrapper field">
+								<label>
+									<span class="name"><l10n url="/texts/shared/header/authorization#pass">Password</l10n></span>
+									<span class="field-wrapper"><input class="data" type="password" name="password" required="required"></span>
+								</label>
+							</p>
+							<p class="button-wrapper">
+								<button class="approve button" type="submit"><l10n url="/texts/shared/header/authorization#login">Log in</l10n></button>
+							</p>
+						</form>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</section>
+	<section class="logout-container">
+		<ul class="options clearfix">
+			<li class="option">
+				<button class="apply-roles default hidden button" type="button" accesskey="A">
+                    <link rel="widget" href="/toggle">
+                    <link rel="widget" href="/roles">
+                    <link rel="widget" href="/roles/mem" data-args="roles">
+					<span class="admin-icon"></span>
+				</button>
+			</li>
+			<li class="connection option">
+                <div class="popup-container top">
+                    <link rel="widget" href="/popup">
+                    <button class="default button popup-trigger popup-control" accesskey="C">
+                        <span class="new-messages hidden">
+                            <link rel="widget" href="/communication/messages/counter">
+                        </span>
+                        <span class="text"></span>
+                    </button>
+                    <div class="popup">
+	                    <div class="communication">
+    <link rel="widget" href="/chat/opener">
+	<script type="text/template" id="communication-messages-message-template">
+    <li id="message-{{message.id}}" class="chat-opener popup-trigger contact-container
+        {{#sender}}sender-{{sender.id}}{{#status}} online {{/status}}{{^status}} offline {{/status}}{{/sender}}"
+        data-user-id="{{sender.id}}">
+
+        <span class="contact clearfix">
+            <span class="thumbnail">
+                {{#sender}}
+                    <img class="photo" src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}">
+                {{/sender}}
+            </span>
+            <span class="message left-tail balloon incoming hoverable">
+                {{#sender}}
+                <span class="name">{{name}}</span>
+                {{/sender}}
+                <span class="text">
+                    {{{message.text}}}
+                </span>
+                <i class="damping"></i>
+                <i class="hover-damping"></i>
+                <i class="tail-wrapper">
+                    <i class="tail"></i>
+                </i>
+            </span>
+            <span class="connection-status">
+                <i class="led"></i>
+            </span>
+            <span class="close" data-id="{{message.id}}" data-sender="{{sender.id}}" title="Close">
+                <span class="wrapper">
+                    <span class="inner"><l10n url="/texts/shared/header/connection#close-message"></l10n></span>
+                </span>
+            </span>
+        </span>
+    </li>
+</script>
+
+<section class="messages empty">
+    <link rel="widget" href="/communication/messages">
+	<h3 class="title"><l10n url="/texts/shared/header/connection#messages-title">Messages</l10n></h3>
+
+	<div class="list-wrapper">
+		<ul class="list">
+		</ul>
+	</div>
+	<div class="show-all">
+		<span class="pseudo-link"><l10n url="/texts/shared/header/connection#show-all">Show All Messages</l10n></span>
+		<div class="quantity">5</div>
+
+	</div>
+</section>
+	<script type="text/template" id="contact-list-item-template">
+	<li class="contact-container" id="contact-{{id}}">
+		<span class="contact chat-opener clearfix {{#status}}online{{/status}}{{^status}}offline{{/status}}"
+		   data-user-id="{{id}}">
+            <link rel="widget" href="/domevents/emitter" data-args="close"/>
+            <span class="thumbnail">
+                <img class="photo" src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}" />
+            </span>
+            <span class="user-short-data">
+                <span class="name reduce-value">{{name}}</span>
+                <span class="region reduce-value">{{#location}}{{city}} {{country}}{{/location}}</span>
+            </span>
+			<span class="connection-status ">
+                <i class="led"></i>
+			</span>
+            <span class="delete" title="Remove" data-id="{{id}}">
+                <span class="wrapper">
+                    <span class="inner"><l10n url="/texts/shared/header/connection#delete">delete</l10n></span>
+                </span>
+            </span>
+		</span>
+	</li>
+</script>
+
+<section class="contacts loading empty">
+<link rel="widget" href="/reduce" data-args="words">
+<link rel="widget" href="/communication/contacts">
+<h3 class="title"><l10n url="/texts/shared/header/connection#contacts-title">Contacts</l10n></h3>
+<p class="no-contacts"><l10n url="/texts/shared/header/connection#no-contacts">You have no contacts in your Contacts List.
+        Contacts will be added to your Contacts List once
+        you Live Chat with TripTogether travelers.</l10n></p>
+<form class="form">
+	<link rel="widget" href="/forms/terminator">
+	<div class="field field-wrapper">
+		<input class="data reduce-input" name="search-for-people" l10n:placeholder="/texts/shared/header/connection#search" placeholder="Search for people" maxlength="64" type="text" tabindex="1" autofocus="autofocus">
+	</div>
+</form>
+
+<ul class="list reduce-list">
+
+</ul>
+</section>
+
+</div>
+                    </div>
+                </div>
+                <div class="popup-container invite top">
+                    <link rel="widget" href="/popup">
+                    <link rel="widget" href="/communication/invites">
+                    <link rel="widget" href="/communication/invites/deactivator">
+                    <div class="popup invites-wrapper">
+                        <script type="text/mustache" id="invite-template">
+    <div class="invite">
+	    <div class="close-overlay"></div>
+        <a href="#" class="thumbnail">
+            {{#sender}}
+            <img class="photo" src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}" alt="{{name}}">
+            {{/sender}}
+            <span class="info">
+
+
+                <span class="connection-status {{presence}}">
+                    <i class="led"></i>
+                </span>
+
+                <span class="message">{{{message.text}}}</span>
+	            {{#sender}}
+				<button class="button approve answer"><l10n url="/texts/shared/header/invite#answer">Answer</l10n> {{name}}</button>
+	            {{/sender}}
+            </span>
+
+        </a>
+    </div>
+</script>
+                    </div>
+                </div>
+			</li>
+			<li class="account option">
+				<div class="popup-container top">
+                    <link rel="widget" href="/popup">
+					<span class="default popup-trigger popup-control links button">
+                        <span class="avatar-container">
+                            <img class="avatar widget" src="/i/account/options/fake-avatar.png">
+                            <link rel="widget" href="/authorization/avatar" data-container="prev">
+                        </span>
+                    </span>
+					<div class="popup">
+						<ul class="links-container">
+							<li>
+								<span class="link popup-trigger" accesskey="S">
+                                    <link rel="widget" href="/events/emitter" data-args="overlay, purchase">
+                                    <l10n url="/texts/shared/header/menu#purchase">Upgrade</l10n>
+                                </span>
+							</li>
+							<li>
+								<a class="link popup-trigger" accesskey="M">
+                                    <link rel="widget" href="/authorization/profile-link">
+                                    <l10n url="/texts/shared/header/menu#profile">Profile</l10n>
+                                </a>
+							</li>
+							<li>
+								<span class="logout link isolated popup-trigger" accesskey="X">
+                                    <link rel="widget" href="/authorization/logout">
+                                    <l10n url="/texts/shared/header/authorization#logout">Log out</l10n>
+                                </span>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</section>
+</section>
+
+	</div>
+</header>
+            <section class="page">
+		        <section class="social loading">
+                    <link rel="widget" href="/social/likes">
+			        <link rel="widget" href="/hover" data-args="2000">
+		            <div class="wrapper">
+	<link rel="widget" href="/hover" data-args="2000">
+	<div class="logo button default facebook"></div>
+	<div class="social-button fb">
+        <div class="fb-like" data-href="https://www.facebook.com/triptogether" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+    </div>
+</div>
+
+<div class="wrapper">
+    <link rel="widget" href="/hover" data-args="2000">
+	<div class="logo button default twitter"></div>
+	<div class="social-button tt">
+		<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-count="none"></a>
+	</div>
+</div>
+
+<div class="wrapper">
+    <link rel="widget" href="/hover" data-args="2000">
+	<div class="logo button default google"></div>
+	<div class="social-button gplus">
+		<g:plusone size="tall" annotation="none" recommendations="false" href="https://www.triptogether.com/"></g:plusone>
+	</div>
+</div>
+			    </section>
+                <article class="content-container limiting-wrapper">
+	<h1><l10n url="/texts/pages/privacy/privacy#header">Privacy Policy</l10n></h1>
+
+	<div class="static-page">
+		<l10n url="/texts/pages/privacy/privacy#entry">
+        <p>Depending on&nbsp;what you do&nbsp;when you visit any Web site, you are providing information about your visit to&nbsp;the site’s owners. This includes TripTogether.com. We&nbsp;value privacy and think you do&nbsp;too, so&nbsp;we&nbsp;want you to&nbsp;have the information you need to&nbsp;make your own decisions about your personal privacy. When you visit or&nbsp;supply information to&nbsp;any Web site, we&nbsp;think it’s a&nbsp;good idea for you to&nbsp;first understand what that site’s privacy policies are. If&nbsp;the site doesn’t tell you, don’t hesitate to&nbsp;ask.</p>
+        <p>The bottom line at&nbsp;www.TripTogether.com is&nbsp;that we&nbsp;only use the information that we&nbsp;get from your visit for internal tracking purposes, to&nbsp;make TripTogether.com as&nbsp;useful and interesting to&nbsp;you as&nbsp;we&nbsp;can, and to&nbsp;respond to&nbsp;your requests for information or&nbsp;other services. Except for as&nbsp;specifically noted, we&nbsp;do&nbsp;not use your personal information for any other purpose; we&nbsp;never sell it&nbsp;to&nbsp;any third party; and we&nbsp;never share it&nbsp;with any third party.</p>
+        <p>Read more about how your personal information is&nbsp;managed:</p>
+    </l10n>
+		<dl class="description-contents">
+			<l10n url="/texts/pages/privacy/privacy#description">
+        <dt><a href="#tc-notice">Notice</a></dt>
+        <dd>What personal information we&nbsp;collect and how we&nbsp;use your information. Our policy regarding information sharing.</dd>
+        <dt><a href="#tc-choice">Choice</a></dt>
+        <dd>How you can decide what communication you’ll receive from us.</dd>
+        <dt><a href="#tc-access">Access</a></dt>
+        <dd>How you can control the use of&nbsp;your personal information.</dd>
+        <dt><a href="#tc-security">Security</a></dt>
+        <dd>How we&nbsp;protect the security of&nbsp;your personal information.</dd>
+        <dt><a href="#tc-service">Customer Service and Recourse</a></dt>
+        <dd>
+            <p>Changes to&nbsp;the TripTogether.com Privacy Policy.</p>
+            <p>How to&nbsp;contact TripTogether.com.</p>
+        </dd>
+     </l10n>
+		</dl>
+		<section>
+			<h2 id="tc-notice"><l10n url="/texts/pages/privacy/notice#title">Notice</l10n></h2>
+			<l10n url="/texts/pages/privacy/notice#notice-body">
+            <dl>
+				<dt>
+					What personal information we collect:
+				</dt>
+				<dd>
+					When you visit the TripTogether.com Web site, we&nbsp;capture the Internet provider’s domain name and country that you came from (e.g., 'aol.com') and the paths taken as&nbsp;you move from page to&nbsp;page (i.e., your «click stream» activity).
+				</dd>
+				<dt>Visitor Registration or&nbsp;Requests for Information:</dt>
+				<dd>
+					TripTogether.com only collects personal information that you choose to&nbsp;provide voluntarily when using or&nbsp;registering with the TripTogether.com site. «Personal information» includes information that can identify you as&nbsp;a&nbsp;specific individual, such as&nbsp;your name or&nbsp;email address; and, in&nbsp;the case of&nbsp;affiliate agreements, your name and company name. While you can browse our site without registering, you will need to&nbsp;register in&nbsp;order to&nbsp;take advantage of&nbsp;certain features.
+				</dd>
+				<dt>Browsing and the use of&nbsp;Cookies:</dt>
+				<dd>
+					<p>TripTogether.com uses cookie technology as&nbsp;part of&nbsp;our Web site’s statistical reporting. A&nbsp;cookie is&nbsp;a&nbsp;small piece of&nbsp;information sent by&nbsp;a&nbsp;Web site that is&nbsp;saved on&nbsp;your hard disk by&nbsp;your computer’s browser. It&nbsp;holds information a&nbsp;site may need to&nbsp;personalize your experience (i.e., rotating images on&nbsp;TripTogether.com home page) and to&nbsp;gather Web site statistical data, such as&nbsp;which pages are visited, what is&nbsp;downloaded, the internet provider’s domain name and country that our visitors come from (e.g. 'aol.com,' or&nbsp;'umich.edu') and the addresses of&nbsp;sites visited immediately before, and after, coming to&nbsp;TripTogether.com. However, none of&nbsp;this is&nbsp;associated with you as&nbsp;an&nbsp;individual. It&nbsp;is&nbsp;measured only in&nbsp;aggregate. The information in&nbsp;the cookies lets us&nbsp;trace your «click stream» activity (i.e., the paths taken by&nbsp;visitors to&nbsp;our site as&nbsp;they move from page to&nbsp;page. Cookies do&nbsp;not capture your individual email address or&nbsp;any private information about you.</p>
+					<p>We&nbsp;also use standard Web server log files to&nbsp;help us&nbsp;count visitors and evaluate our site’s technical capacity. We&nbsp;use this information to&nbsp;find out how many people visit TripTogether.com, help us&nbsp;arrange the pages in&nbsp;the most <span style="white-space: nowrap;">user-friendly</span> way, keep the site <span style="white-space: nowrap;">browser-friendly</span>, and to&nbsp;make our pages more useful to&nbsp;our visitors. We&nbsp;record information on&nbsp;site traffic but not information on&nbsp;individual visitors to&nbsp;our site, so&nbsp;no&nbsp;information about you in&nbsp;particular will be&nbsp;kept or&nbsp;used.</p>
+					<p>To&nbsp;browse without cookies, you can configure your browser to&nbsp;reject all cookies, or&nbsp;to&nbsp;notify you when a&nbsp;cookie is&nbsp;set. (Each browser is&nbsp;different, so&nbsp;check the «Help» menu of&nbsp;your browser to&nbsp;learn how to&nbsp;change your cookie preferences.)</p>
+				</dd>
+				<dt>How we&nbsp;may use information we&nbsp;collect:</dt>
+				<dd>
+					<p>We&nbsp;may use information to:</p>
+					<ul>
+						<li>Arrange the Web site in&nbsp;the most <span style="white-space: nowrap;">user-friendly</span> way;</li>
+						<li>Fulfill your requests for products and services;</li>
+						<li>Customize your browsing experience of&nbsp;this Web site;</li>
+						<li>Communicate special offers and featured items to&nbsp;you, if&nbsp;you choose to&nbsp;receive such notices;</li>
+						<li>Manage your account and your preferences;</li>
+						<li>Analyze use of&nbsp;and improve our website, products and services;</li>
+						<li>Identify and protect against fraudulent transactions and other misuses of&nbsp;our website;</li>
+						<li>Respond to&nbsp;your question or&nbsp;suggestions.</li>
+					</ul>
+				</dd>
+				<dt>
+					Email, Mailing Lists, and Other Services:
+				</dt>
+				<dd>
+					<p>When you send us&nbsp;an&nbsp;email, we&nbsp;use your email address to&nbsp;thank you for your comment and/or reply to&nbsp;your question, and we&nbsp;will store your communication and our reply in&nbsp;case we&nbsp;correspond further. Beyond our initial reply, we&nbsp;will never use your email address to&nbsp;send you any unsolicited message or&nbsp;information, nor will we&nbsp;share it&nbsp;with or&nbsp;sell it&nbsp;to&nbsp;anyone else for such use.</p>
+					<p>You will also receive our email newsletters, account updates and special offers targeted to&nbsp;your interests sent to&nbsp;you by&nbsp;TripTogether.com.</p>
+					<p>We&nbsp;will not use your address or&nbsp;other information to&nbsp;provide you with any unsolicited message or&nbsp;information (unless that is&nbsp;part of&nbsp;the service you are requesting), nor will we&nbsp;share it&nbsp;with or&nbsp;sell, rent or&nbsp;lease it&nbsp;to&nbsp;any third party for such use.</p>
+				</dd>
+				<dt>Linking To&nbsp;Other Sites:</dt>
+				<dd>
+					<p>Please remember that when you use a&nbsp;link to&nbsp;go&nbsp;from TripTogether.com to&nbsp;another Web site, the TripTogether.com Site Rules and this Privacy Policy are no&nbsp;longer in&nbsp;effect. Your browsing and interaction on&nbsp;any other Web site, including any site that has a&nbsp;link on&nbsp;TripTogether.com, is&nbsp;subject to&nbsp;the rules and policies of&nbsp;that site. We&nbsp;encourage you to&nbsp;read the rules and policies of&nbsp;the sites you visit to&nbsp;further understand their procedures for collecting, using, and disclosing personal information.</p>
+					<p>Our policy regarding sharing of information:</p>
+					<p>Our policy is simple: we never sell or rent your personal information to any third parties under any circumstances.</p>
+				</dd>
+				<dt>Our policy regarding sharing of&nbsp;information:</dt>
+				<dd>
+					Our policy is&nbsp;simple: we&nbsp;never sell or&nbsp;rent your personal information to&nbsp;any third parties under any circumstances.
+				</dd>
+				<dt>Age Restrictions</dt>
+				<dd>Children under eighteen years of&nbsp;age are prohibited from using Our Websites. We&nbsp;do&nbsp;not target our sites or&nbsp;services to&nbsp;children under the age of&nbsp;18, and in&nbsp;compliance with the Children’s&nbsp;Online Privacy Protection Act, any information we&nbsp;may receive from users we&nbsp;believe to&nbsp;be&nbsp;under the age of&nbsp;18 will be&nbsp;purged from our database.</dd>
+			</dl>    </l10n>
+		</section>
+		<section>
+			<h2 id="tc-choice"><l10n url="/texts/pages/privacy/choise#title">Choice</l10n></h2>
+			<l10n url="/texts/pages/privacy/choise#choise-body">
+            <dl>
+				<dt>Choice/Opt-Out</dt>
+				<dd>
+					<p>TripTogether.com may periodically send you email messages describing updates, new features, or&nbsp;promotional offers related to&nbsp;this Web site. You can choose to&nbsp;stop receiving this email at&nbsp;any time.</p>
+					<p>To&nbsp;unsubscribe email us&nbsp;at&nbsp;<a href="mailto:unsubscribe@TripTogether.com">unsubscribe@TripTogether.com</a>. You can also follow the 'unsubscribe' instructions and link provided with each email or&nbsp;as&nbsp;we&nbsp;otherwise provide.</p>
+				</dd>
+			</dl>
+    </l10n>
+		</section>
+		<section>
+			<h2 id="tc-access"><l10n url="/texts/pages/privacy/acccess#title"></l10n></h2>
+			<l10n url="/texts/pages/privacy/access#access-body">
+            <dl>
+			    <dt>Updating Your Information</dt>
+				<dd>
+					<p>To&nbsp;modify or&nbsp;delete your personal information, simply follow the instructions:</p>
+					<ol>
+						<li>Log into your account;</li>
+						<li>Select My&nbsp;Account on&nbsp;TripTogether.com´s&nbsp;Main Page;</li>
+						<li>Scroll down and select My&nbsp;Profile;</li>
+						<li>Edit your personal information;</li>
+						<li>Select Save.</li>
+					</ol>
+					<p>Also you can send your request to our Support Team, and we will make the requested changes.</p>
+				</dd>
+			</dl>
+    </l10n>
+		</section>
+		<section>
+			<h2 id="tc-security"><l10n url="/texts/pages/privacy/security#title">Security</l10n></h2>
+			<l10n url="/texts/pages/privacy/security#security-body">
+             <dl>
+				<dt>Security</dt>
+				<dd>
+					<p>The security of&nbsp;your personal information is&nbsp;very important to&nbsp;us&nbsp;and we&nbsp;are committed to&nbsp;protecting the information we&nbsp;collect. TripTogether.com uses firewalls and has security measures in&nbsp;place at&nbsp;its physical facilities to&nbsp;protect against the loss, misuse, or&nbsp;alteration of&nbsp;information that we&nbsp;have collected from you at&nbsp;our Web site.</p>
+					<p>TripTogether.com has VeriSign and McAfee secure certificates demonstrating that the site is&nbsp;fully tested, approved and certified by&nbsp;these two leading security systems. You are protected from any virus, identity theft, credit card fraud, spyware, spam, or&nbsp;online scam on&nbsp;our site.</p>
+				</dd>
+			</dl>
+    </l10n>
+		</section>
+		<section class="support">
+			<h2 id="tc-service"><l10n url="/texts/pages/privacy/support#title">Customer Service and Recourse</l10n></h2>
+			<l10n url="/texts/pages/privacy/support#support-body">
+            <dl>
+				<dt>Contacting the Website</dt>
+				<dd>
+					<p>Please note that whenever you submit any information to&nbsp;us&nbsp;in&nbsp;connection with any TripTogether.com related services, you consent to&nbsp;TripTogether.com's&nbsp;processing of&nbsp;this information in&nbsp;the United States/Russia as&nbsp;necessary to&nbsp;provide the services in&nbsp;which you are participating.</p>
+					<p>If&nbsp;you have any questions, comments or&nbsp;complaints about TripTogether.com's&nbsp;privacy policy and/or the way it&nbsp;affects you, please feel free to&nbsp;contact our Customer Support:
+						<span class="e-mail"><a href="mailto:support@TripTogether.com">support@TripTogether.com</a></span>
+					</p>
+				</dd>
+				<dt>Acceptance of Privacy Statement</dt>
+				<dd>
+					<p>Your use of&nbsp;our website, including any dispute concerning privacy, is&nbsp;subject to&nbsp;this privacy statement and the applicable Terms and Conditions. By&nbsp;using our website, you are accepting the practices set out in&nbsp;this privacy statement and the applicable TripTogether.com Terms of&nbsp;Use Agreement by&nbsp;using our website, you represent and warrant that you will not create any databases, websites, software, legal entities and services competitive with TripTogether.com. Such activity will be&nbsp;investigated, and appropriate legal action will be&nbsp;taken, including without limitation, civil, criminal, and injunctive redress.</p>
+					<p>TripTogether.com reserves the right to&nbsp;change, modify or&nbsp;amend this policy at&nbsp;any time. We&nbsp;take privacy matters very seriously, and intend to&nbsp;stay at&nbsp;the forefront of&nbsp;privacy policy and protection matters. We&nbsp;will occasionally update our privacy policy and we&nbsp;will post those updates on&nbsp;this page. You are responsible for revisiting this page to&nbsp;review our privacy policy updates.</p>
+				</dd>
+				<dt>Effective Date</dt>
+				<dd>
+					<p>This privacy statement was last revised on&nbsp;January 15, 2013.</p>
+				</dd>
+			</dl>
+    </l10n>
+		</section>
+	</div>
+</article>
+                <div class="gradient-for-ie">
+                    <div class="gradient"></div>
+                </div>
+                        <div class="background-map"></div>
+                <div class="grid"></div>
+                <div class="hotspot-wrapper">
+                    <div class="hotspot"></div>
+                </div>
+            </section>
+            <footer>
+	<div class="limiting-wrapper clearfix">
+		<div class="appendix clearfix">
+			<p class="copy"><img src="/i/copyright/copyright-2013.png?2" alt=""></p>
+			<ul class="menu">
+				<li><a href="/terms/"><l10n url="/texts/shared/footer/menu#terms">Terms and conditions</l10n></a></li>
+				<li><a href="/privacy-policy/"><l10n url="/texts/shared/footer/menu#privacy">Privacy policy</l10n></a></li>
+				<li><a href="mailto:support@TripTogether.com"><l10n url="/texts/shared/footer/menu#contacts">Contact us</l10n></a></li>
+				<li><a href="/about-us/"><l10n url="/texts/shared/footer/menu#about">About us</l10n></a></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+            <div class="app-overlay">
+	<div class="container">
+		<div class="inner">
+
+			<div class="frame">
+                <link rel="widget" href="/domevents/trap" data-args="click">
+				<div class="close-overlay icon" l10n:title="/texts/shared/overlay#close" title="Close">
+                    <link rel="widget" href="/domevents/emitter" data-args="close">
+                </div>
+
+				<div class="purchase content">
+					<section class="purchase-form">
+    <form class="form" id="purchase-form">
+        <link rel="widget" href="/purchase/form">
+        <section class="info">
+            <h1><l10n url="/texts/shared/forms/purchase/purchase#header">Become a desired Travel Mate</l10n></h1>
+				<div class="description">
+                   <l10n url="/texts/shared/forms/purchase/purchase#desc">
+         And you will never miss the trip of&nbsp;your dream!<br>
+         Our 1 credit is&nbsp;for 1 offline message or&nbsp;1 minute in&nbsp;Live Chat.
+    </l10n>
+				</div>
+        </section>
+
+        <section class="packages">
+            <link rel="widget" href="/purchase/packages">
+            <ol>
+                <li class="package">
+                    <label>
+                        <input name="package" value="20" type="radio" required="required" tabindex="1">
+
+						<span class="wrapper">
+							<span class="for"><l10n url="/texts/shared/forms/purchase/purchase#novice">For novice Travel Mates</l10n></span>
+							<span class="quantity">
+								<l10n url="/texts/shared/forms/purchase/purchase#novice-credits">20 Credits</l10n>
+								<span class="price"><l10n url="/texts/shared/forms/purchase/purchase#novice-price"> ≈ 80¢ per Credit</l10n></span>
+							</span>
+						</span>
+                    </label>
+                </li>
+                <li class="package active">
+                    <label>
+                        <input name="package" value="160" type="radio" checked="checked" required="required" tabindex="2">
+
+						<span class="wrapper">
+							<span class="for"><l10n url="/texts/shared/forms/purchase/purchase#experienced">For experienced Travel Mates</l10n></span>
+							<span class="quantity"><l10n url="/texts/shared/forms/purchase/purchase#exp-credits">160 Credits</l10n>
+								<span class="price"><l10n url="/texts/shared/forms/purchase/purchase#exp-price"> ≈ 60¢ per Credit</l10n></span>
+							</span>
+						</span>
+                    </label>
+                </li>
+                <li class="package">
+                    <label>
+                        <input name="package" value="1000" type="radio" required="required" tabindex="3">
+						<span class="wrapper">
+							<span class="for"><l10n url="/texts/shared/forms/purchase/purchase#true">For true Travel Mates</l10n></span>
+							<span class="quantity"><l10n url="/texts/shared/forms/purchase/purchase#true-credits">1000 Credits</l10n>
+								<span class="price"><l10n url="/texts/shared/forms/purchase/purchase#true-price"> ≈ 40¢ per Credit</l10n></span>
+							</span>
+						</span>
+                    </label>
+                </li>
+            </ol>
+            <div class="per-mont-wrapper field">
+                <label>
+	                <input name="per-month" value="true" type="checkbox" checked="checked" tabindex="4">
+	                <span class="description"><l10n url="/texts/shared/forms/purchase/purchase#notify"> + $5 per month for notification about new members</l10n></span>
+                </label>
+            </div>
+        </section>
+
+        <section class="payment-details">
+            <div class="clearfix">
+                <h2><l10n url="/texts/shared/forms/purchase/purchase#billing-title">Enter your billing information</l10n></h2>
+                <div class="credit-card">
+
+                    <div class="card-number field" data-name="number" data-validator="ui.forms.fieldset.list">
+                        <link rel="widget" href="/forms/focus-iterator">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#number">Card number</l10n></div>
+                        <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="5" required="required" autofocus="autofocus"></div>
+                        <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="6" required="required"></div>
+                        <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="7" required="required"></div>
+                        <div class="field field-wrapper"><input class="data card-number-part" type="text" maxlength="4" pattern="([0-9]){4,4}" tabindex="8" required="required"></div>
+
+                    </div>
+
+
+                    <div class="cart-date field" data-name="expiration" data-validator="ui.forms.fieldset.expires">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#valid">Valid THRU</l10n></div>
+
+	                    <div class="month-wrapper">
+                            <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#month">Month</l10n></div>
+                            <div class="field field-wrapper">
+	                            <select class="data" name="month" required="required" tabindex="9">
+		                            <option value=""></option>
+		                            <option value="1">01</option>
+		                            <option value="2">02</option>
+		                            <option value="3">03</option>
+		                            <option value="4">04</option>
+		                            <option value="5">05</option>
+		                            <option value="6">06</option>
+		                            <option value="7">07</option>
+		                            <option value="8">08</option>
+		                            <option value="9">09</option>
+		                            <option value="10">10</option>
+		                            <option value="11">11</option>
+		                            <option value="12">12</option>
+	                            </select>
+                            </div>
+                        </div>
+
+                        <div class="year-wrapper">
+                            <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#year">Year</l10n></div>
+
+                            <div class="field field-wrapper">
+	                            <select class="data" name="year" required="required" tabindex="10">
+		                            <option value=""></option>
+		                            <option value="2013">13</option>
+		                            <option value="2014">14</option>
+		                            <option value="2015">15</option>
+		                            <option value="2016">16</option>
+		                            <option value="2017">17</option>
+		                            <option value="2018">18</option>
+		                            <option value="2019">19</option>
+		                            <option value="2020">20</option>
+		                            <option value="2021">21</option>
+		                            <option value="2022">22</option>
+		                            <option value="2023">23</option>
+	                            </select>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="card-cvv">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#cvv">CVV code</l10n></div>
+	                    <div class="field field-wrapper">
+		                    <input class="data" name="verification" type="text" maxlength="3" pattern="([0-9]){3,3}" tabindex="12" required="required">
+	                    </div>
+
+                    </div>
+
+
+                    <div class="card-holder">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#cardholder">
+        Cardholder's name<span> — as it appears on the card</span>
+    </l10n></div>
+	                    <div class="field field-wrapper">
+		                    <input class="data" name="cardholder" maxlength="64" type="text" required="required" tabindex="11">
+	                    </div>
+                    </div>
+                </div>
+
+                <div class="address field">
+
+                    <div class="city-country field autocomplete" data-name="city-country" data-validator="ui.forms.fieldset.list">
+                        <link rel="widget" href="/forms/autocomplete/base" data-args="5, 3">
+                        <link rel="widget" href="/forms/autocomplete/locations" data-args="5">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#geo">City, country, state</l10n></div>
+                        <div class="field field-wrapper"><input class="data" name="text" type="text" tabindex="13" required="required"></div>
+                        <div class="field"><input class="city" type="hidden"></div>
+                        <div class="field"><input class="country" type="hidden"></div>
+                        <div class="field"><input class="state" type="hidden"></div>
+                    </div>
+
+                    <div class="street field">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#street">Street address</l10n></div>
+	                    <div class="field field-wrapper">
+		                    <input class="data" name="street" type="text" required="required" tabindex="15">
+	                    </div>
+                    </div>
+
+                    <div class="field zip-code">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#zip">Zip code</l10n></div>
+	                    <div class="field field-wrapper">
+                            <input class="data" name="zip" type="text" maxlength="10" required="required" tabindex="16">
+	                    </div>
+                    </div>
+
+                    <div class="contact-phone field" data-name="contact-phone" data-validator="ui.forms.fieldset.list">
+                        <div class="field-group-name"><l10n url="/texts/shared/forms/purchase/purchase#phone">Your contact phone</l10n></div>
+                        <div class="field tel-code">
+	                        <div class="field field-wrapper">
+                                
+                                <input class="data" name="tel-code" type="text" required="required" tabindex="17">
+                                <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#phone-code">Code</l10n></div>
+                            </div>
+                        </div>
+
+                        <div class="field tel-num">
+	                        <div class="field field-wrapper">
+                                <input class="data" name="tel-num" type="text" required="required" tabindex="18">
+                                <div class="name"><l10n url="/texts/shared/forms/purchase/purchase#phone-number">Phone number</l10n></div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="description">
+                <link rel="widget" href="/purchase/description">
+                <script type="text/mustache" id="description-package-template"><l10n url="/texts/shared/forms/purchase/purchase#selected">You have selected {{credits}} Credits for {{price}}</l10n></script>
+                <p class="package">You have selected 160 Credits for $96.00</p>
+                <p><l10n url="/texts/shared/forms/purchase/purchase#account-charged">Your account will automatically be charged when the balance will be less than 10 credits.</l10n></p>
+            </div>
+            <p class="button-wrapper">
+                <button class="button approve big" disabled="disabled" tabindex="19"><l10n url="/texts/shared/forms/purchase/purchase#journey">Begin your journey</l10n></button>
+            </p>
+        </section>
+    </form>
+</section>
+
+				</div>
+
+                <div class="chat content" data-widget="chat.activator">
+                    <link rel="widget" href="/chat/activator">
+                    <div class="chat-wrapper clearfix">
+	<div class="thumbnail profile-card opponent loading">
+		<link rel="widget" href="/chat/attendee">
+		<div class="profile-info"></div>
+	</div>
+	<div class="chat">
+		<link rel="service" href="/chat/bonuses">
+		<link rel="service" href="/chat/billing/locker">
+		<link rel="service" href="/chat/billing/account">
+		<link rel="service" href="/chat/billing/reporter">
+		<script type="text/template" id="chat-attendee-template">
+			<img class="photo"
+			     src="{{#thumbnail}}{{thumbnail}}{{/thumbnail}}{{^thumbnail}}/i/account/photo.png{{/thumbnail}}"/>
+
+			<div class="profile-info">
+				<p class="name">{{name}}</p>
+				{{#location}}
+				<p class="city">{{city}}</p>
+
+				<p class="country">{{country}}</p>
+				{{/location}}
+				<div class="connection-status">
+					<i class="led"></i>
+				</div>
+			</div>
+		</script>
+
+		<script type="text/template" id="chat-message-template">
+			<div id="message-{{#message}}{{tag}}{{/message}}"
+			     class="message-wrapper {{#undelivered}}undelivered{{/undelivered}} clearfix">
+
+				<i class="undelivered-icon"></i>
+
+				<div class="message balloon {{direction}} {{#message}}{{/message}}">
+					{{#message}}{{{text}}}{{/message}}
+					<i class="damping"></i>
+					<i class="hover-damping"></i>
+					<i class="tail-wrapper">
+						<i class="tail"></i>
+					</i>
+				</div>
+
+			</div>
+		</script>
+
+		<script type="text/template" id="chat-system-message-template">
+			<div class="system-message balloon {{style}} {{group}}-group">
+				{{> content}}
+			</div>
+		</script>
+
+		<script type="text/template" id="chat-system-message-credits-required-template">
+			<p><l10n url="/texts/shared/chat/chat#true">
+        Become a&nbsp;true Travel Mate&nbsp;— the trip of&nbsp;your dreams with a&nbsp;desired companion is&nbsp;waiting for you.
+    </l10n></p>
+
+			<p>
+				<button type="button" class="button approve purchase"><l10n url="/texts/shared/chat/chat#make">Make it happen!</l10n></button>
+			</p>
+		</script>
+
+		<script type="text/template" id="chat-system-message-purchase-template">
+			<p><l10n url="/texts/shared/chat/chat#congratulations">
+        Congratulations!<br/>You&rsquo;ve&nbsp;just upgraded your status to&nbsp;that of<br/>Experienced Travel Mate!
+    </l10n></p>
+		</script>
+
+		<script type="text/template" id="chat-system-message-completing-template">
+			<p><l10n url="/texts/shared/chat/chat#thanks">Thanks for completing this step.<br>
+        You now have an additional 3 FREE minutes of Live Chat.
+    </l10n></p>
+		</script>
+
+		<script type="text/template" id="chat-system-message-offline-template">
+			<p class="gender-{{attendee.gender}}">{{attendee.name}} is offline now.
+				<span class='mal'>He</span><span class='fem'>She</span> will read your message when <span
+						class='mal'>he</span><span class='fem'>she</span> comes online.
+				Why don&rsquo;t you chat with other cute Travel Mate?</p>
+
+			<p><a href="/" class="button approve">Begin your online journey!</a></p>
+		</script>
+
+		<script type="text/template" id="chat-system-message-status-template">
+			<p><l10n url="/texts/shared/chat/chat#congratulations">
+        Congratulations!<br/>You&rsquo;ve&nbsp;just upgraded your status to&nbsp;that of<br/>Experienced Travel Mate!
+    </l10n></p>
+		</script>
+
+		<script type="text/template" id="chat-system-message-birthday-template">
+	<div class="message-wrapp gender-{{attendee.gender}}">
+	    <p><l10n url="/texts/shared/chat/bonuses#when">When's your birthday? It would be great to know because </l10n>
+	        {{attendee.name}}<l10n url="/texts/shared/chat/bonuses#wishes"> and other fun-filled TripTogether travelers would love to send their best wishes!</l10n></p>
+	    <div class="edit">
+            <link rel="widget" href="/chat/billing/motivator" />
+	        <form class="form">
+	            <p class="field-wrapper field">
+	                <select name="month" class="data" required="required" autofocus="autofocus" disabled="disabled">
+	                    <option value="" class="label" selected="selected">month</option>
+        <option value="1">January</option>
+        <option value="2">February</option>
+        <option value="3">March</option>
+        <option value="4">April</option>
+        <option value="5">May</option>
+        <option value="6">June</option>
+        <option value="7">July</option>
+        <option value="8">August</option>
+        <option value="9">September</option>
+        <option value="10">October</option>
+        <option value="11">November</option>
+        <option value="12">December</option>
+
+	                </select>
+	            </p>
+	            <p class="field-wrapper field">
+	                <select name="day" class="data" required="required" disabled="disabled">
+	                    <option value="" class="label" selected="selected">day</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+        <option value="13">13</option>
+        <option value="14">14</option>
+        <option value="15">15</option>
+        <option value="16">16</option>
+        <option value="17">17</option>
+        <option value="18">18</option>
+        <option value="19">19</option>
+        <option value="20">20</option>
+        <option value="21">21</option>
+        <option value="22">22</option>
+        <option value="23">23</option>
+        <option value="24">24</option>
+        <option value="25">25</option>
+        <option value="26">26</option>
+        <option value="27">27</option>
+        <option value="28">28</option>
+        <option value="29">29</option>
+        <option value="30">30</option>
+        <option value="31">31</option>
+
+	                </select>
+	            </p>
+	            <p class="field-wrapper field ">
+	                <select name="year" class="data" required="required" disabled="disabled">
+	                    <option value="" class="label" selected="selected">year</option>
+        <option value="1930">1930</option>
+        <option value="1931">1931</option>
+        <option value="1932">1932</option>
+        <option value="1933">1933</option>
+        <option value="1934">1934</option>
+        <option value="1935">1935</option>
+        <option value="1936">1936</option>
+        <option value="1937">1937</option>
+        <option value="1938">1938</option>
+        <option value="1939">1939</option>
+        <option value="1940">1940</option>
+        <option value="1941">1941</option>
+        <option value="1942">1942</option>
+        <option value="1943">1943</option>
+        <option value="1944">1944</option>
+        <option value="1945">1945</option>
+        <option value="1946">1946</option>
+        <option value="1947">1947</option>
+        <option value="1948">1948</option>
+        <option value="1949">1949</option>
+        <option value="1950">1950</option>
+        <option value="1951">1951</option>
+        <option value="1952">1952</option>
+        <option value="1953">1953</option>
+        <option value="1954">1954</option>
+        <option value="1955">1955</option>
+        <option value="1956">1956</option>
+        <option value="1957">1957</option>
+        <option value="1958">1958</option>
+        <option value="1959">1959</option>
+        <option value="1960">1960</option>
+        <option value="1961">1961</option>
+        <option value="1962">1962</option>
+        <option value="1963">1963</option>
+        <option value="1964">1964</option>
+        <option value="1965">1965</option>
+        <option value="1966">1966</option>
+        <option value="1967">1967</option>
+        <option value="1968">1968</option>
+        <option value="1969">1969</option>
+        <option value="1970">1970</option>
+        <option value="1971">1971</option>
+        <option value="1972">1972</option>
+        <option value="1973">1973</option>
+        <option value="1974">1974</option>
+        <option value="1975">1975</option>
+        <option value="1976">1976</option>
+        <option value="1977">1977</option>
+        <option value="1978">1978</option>
+        <option value="1979">1979</option>
+        <option value="1980">1980</option>
+        <option value="1981">1981</option>
+        <option value="1982">1982</option>
+        <option value="1983">1983</option>
+        <option value="1984">1984</option>
+        <option value="1985">1985</option>
+        <option value="1986">1986</option>
+        <option value="1987">1987</option>
+        <option value="1988">1988</option>
+        <option value="1989">1989</option>
+        <option value="1990">1990</option>
+        <option value="1991">1991</option>
+        <option value="1992">1992</option>
+        <option value="1993">1993</option>
+        <option value="1994">1994</option>
+        <option value="1995">1995</option>
+        <option value="1996">1996</option>
+        <option value="1997">1997</option>
+        <option value="1998">1998</option>
+        <option value="1999">1999</option>
+        <option value="2000">2000</option>
+        <option value="2001">2001</option>
+        <option value="2002">2002</option>
+        <option value="2003">2003</option>
+        <option value="2004">2004</option>
+        <option value="2005">2005</option>
+        <option value="2006">2006</option>
+        <option value="2007">2007</option>
+
+	                </select>
+	            </p>
+	            <p class="button-wrapper">
+	                <button class="approve button" type="submit" disabled="disabled">Save</button>
+	            </p>
+	        </form>
+	    </div>
+	    <div class="complete-info">
+	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	    </div>
+	</div>
+</script>
+		<script type="text/template" id="chat-system-message-languages-occupation-template">
+	<div class="message-wrapp gender-{{attendee.gender}}">
+	    <p><l10n url="/texts/shared/chat/bonuses#languages">Know different languages? Reveal all in your profile and amaze </l10n>{{attendee.name}}<l10n url="/texts/shared/chat/bonuses#skill"> with your skills. Show everybody why you'll make a great travel companion.</l10n></p>
+	    <div class="edit">
+            <link rel="widget" href="/chat/billing/motivator" />
+	        <form class="form">
+	            <div class="languages field" data-name="languages" data-validator="ui.forms.fieldset.list">
+	                <p class="field-wrapper field">
+	                    <select class="data" autofocus="autofocus" required="required" disabled="disabled">
+                            <option value="" selected>Native</option>
+                                <option value="en">English</option>
+    <option value="es">Spanish</option>
+    <option value="de">German</option>
+    <option value="fr">French</option>
+    <option value="it">Italian</option>
+    <option value="ru">Russian</option>
+    <option value="tr">Turkish</option>
+    <option value="zh">Chinese</option>
+    <option value="ja">Japanese</option>
+    <option value="el">Greek</option>
+
+	                    </select>
+	                </p>
+	                <p class="field-wrapper field">
+	                    <select class="data" disabled="disabled">
+                            <option value="" selected>Second</option>
+                                <option value="en">English</option>
+    <option value="es">Spanish</option>
+    <option value="de">German</option>
+    <option value="fr">French</option>
+    <option value="it">Italian</option>
+    <option value="ru">Russian</option>
+    <option value="tr">Turkish</option>
+    <option value="zh">Chinese</option>
+    <option value="ja">Japanese</option>
+    <option value="el">Greek</option>
+
+	                    </select>
+	                </p>
+	            </div>
+	            <p class="field-wrapper field">
+	                <input name="occupation" class="data" type="text" value="" required="required" placeholder="Job or Profession" disabled="disabled">
+	            </p>
+	            <p class="button-wrapper">
+	                <button class="approve button" type="submit" disabled="disabled">Save</button>
+	            </p>
+	        </form>
+	    </div>
+	    <div class="complete-info">
+	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	    </div>
+	</div>
+</script>
+		<script type="text/template" id="chat-system-message-height-eyes-hairs-template">
+	<div class="message-wrapp gender-{{attendee.gender}}">
+	    <p><l10n url="/texts/shared/chat/bonuses#describe">Describe yourself and create a stir with </l10n>{{attendee.name}}<l10n url="/texts/shared/chat/bonuses#gorgeous"> and other gorgeous TripTogether travelers. Grab your chance to complete your profile.</l10n></p>
+	    <div class="edit">
+            <link rel="widget" href="/chat/billing/motivator" />
+	        <form class="form">
+	            <p class="field-wrapper field">
+	                <select name="height" class="data" required="required" autofocus="autofocus" disabled="disabled">
+	                    <option value="" class="label" selected="selected">Height ft/cm</option>
+                <option value="91">3' - 91 cm</option>
+                <option value="94">3' 1" - 94 cm</option>
+                <option value="96">3' 2" - 96 cm</option>
+                <option value="99">3' 3" - 99 cm</option>
+                <option value="101">3' 4" - 101 cm</option>
+                <option value="104">3' 5" - 104 cm</option>
+                <option value="106">3' 6" - 106 cm</option>
+                <option value="109">3' 7" - 109 cm</option>
+                <option value="111">3' 8" - 111 cm</option>
+                <option value="114">3' 9" - 114 cm</option>
+                <option value="116">3' 10" - 116 cm</option>
+                <option value="119">3' 11" - 119 cm</option>
+                <option value="122">4' - 122 cm</option>
+                <option value="124">4' 1" - 124 cm</option>
+                <option value="127">4' 2" - 127 cm</option>
+                <option value="129">4' 3" - 129 cm</option>
+                <option value="132">4' 4" - 132 cm</option>
+                <option value="134">4' 5" - 134 cm</option>
+                <option value="137">4' 6" - 137 cm</option>
+                <option value="139">4' 7" - 139 cm</option>
+                <option value="142">4' 8" - 142 cm</option>
+                <option value="144">4' 9" - 144 cm</option>
+                <option value="147">4' 10" - 147 cm</option>
+                <option value="149">4' 11" - 149 cm</option>
+                <option value="152">5' - 152 cm</option>
+                <option value="155">5' 1" - 155 cm</option>
+                <option value="157">5' 2" - 157 cm</option>
+                <option value="160">5' 3" - 160 cm</option>
+                <option value="162">5' 4" - 162 cm</option>
+                <option value="165">5' 5" - 165 cm</option>
+                <option value="167">5' 6" - 167 cm</option>
+                <option value="170">5' 7" - 170 cm</option>
+                <option value="172">5' 8" - 172 cm</option>
+                <option value="175">5' 9" - 175 cm</option>
+                <option value="177">5' 10" - 177 cm</option>
+                <option value="180">5' 11" - 180 cm</option>
+                <option value="183">6' - 183 cm</option>
+                <option value="185">6' 1" - 185 cm</option>
+                <option value="188">6' 2" - 188 cm</option>
+                <option value="190">6' 3" - 190 cm</option>
+                <option value="193">6' 4" - 193 cm</option>
+                <option value="195">6' 5" - 195 cm</option>
+                <option value="198">6' 6" - 198 cm</option>
+                <option value="200">6' 7" - 200 cm</option>
+                <option value="203">6' 8" - 203 cm</option>
+                <option value="205">6' 9" - 205 cm</option>
+                <option value="208">6' 10" - 208 cm</option>
+                <option value="210">6' 11" - 210 cm</option>
+                <option value="213">7' - 213 cm</option>
+                <option value="216">7' 1" - 216 cm</option>
+                <option value="218">7' 2" - 218 cm</option>
+                <option value="221">7' 3" - 221 cm</option>
+                <option value="223">7' 4" - 223 cm</option>
+                <option value="226">7' 5" - 226 cm</option>
+                <option value="228">7' 6" - 228 cm</option>
+                <option value="231">7' 7" - 231 cm</option>
+                <option value="233">7' 8" - 233 cm</option>
+                <option value="236">7' 9" - 236 cm</option>
+                <option value="238">7' 10" - 238 cm</option>
+                <option value="241">7' 11" - 241 cm</option>
+
+	                </select>
+	            </p>
+	            <p class="field-wrapper field">
+	                <select name="eye" class="data" required="required" disabled="disabled">
+	                    <option value="" class="label" selected="selected">Eye Color</option>
+    <option value="blu">Blue</option>
+    <option value="bro">Brown</option>
+    <option value="gra">Gray</option>
+    <option value="gre">Green</option>
+    <option value="haz">Hazel</option>
+
+	                </select>
+	            </p>
+	            <p class="field-wrapper field ">
+	                <select name="hair" class="data" required="required" disabled="disabled">
+	                    <option value="" class="label" selected="selected">Hair Color</option>
+    <option value="black">Black</option>
+    <option value="blond">Blond</option>
+    <option value="brown">Brown</option>
+    <option value="fair">Fair</option>
+    <option value="chestnut">Chestnut</option>
+    <option value="red">Red</option>
+
+	                </select>
+	            </p>
+	            <p class="button-wrapper">
+	                <button class="approve button" type="submit" disabled="disabled">Save</button>
+	            </p>
+	        </form>
+	    </div>
+	    <div class="complete-info">
+	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	    </div>
+	</div>
+</script>
+		<script type="text/template" id="chat-system-message-thumbnail-template">
+	<div class="message-wrapp gender-{{attendee.gender}}">
+	    <p><l10n url="/texts/shared/chat/bonuses#grab">Grab </l10n>{{attendee.name}}&rsquo;s<l10n url="/texts/shared/chat/bonuses#photos"> attention with your travel experience! Add photos from everywhere you've been.</l10n></p>
+	    <div class="edit">
+            <link rel="widget" href="/chat/billing/motivator" />
+            <div class="button default add-photo uploader">
+                <link rel="widget" href="/forms/uploader" />
+                <div class="field file"
+                     data-validator="ui.forms.fields.file"
+                     data-message-invalid="error loading photo"
+                     data-message-content-type="you can upload only PNG, JPEG or GIF files"
+                     data-message-size="photo size should be less than 10MB"
+                     data-min-width="100"
+                     data-min-height="100"
+                     data-validate-url="/images"
+                     data-size="10MB">
+
+                    <input type="file" name="file" value="" size="1" accept="image/png, image/jpeg, image/gif, image/jpg"/>
+                    <input type="hidden"/>
+                    + Add Photos
+                </div>
+            </div>
+	    </div>
+	    <div class="complete-info">
+	        <p><l10n url="/texts/shared/chat/bonuses#minutes">Complete this step and get an additional 3 FREE minutes of Live Chat</l10n></p>
+	    </div>
+	</div>
+</script>
+
+		<div class="messages">
+			<link rel="widget" href="/chat/messages/log" data-args="incoming left-tail, outgoing right-tail">
+			<div class="message-log">
+				<link rel="widget" href="/chat/messages/log/delivery">
+				<link rel="widget" href="/chat/messages/notices">
+				<link rel="widget" href="/events/delegate" data-args=".purchase, overlay, purchase">
+			</div>
+		</div>
+
+		<form class="messenger form default right-tail balloon">
+			<link rel="widget" href="/forms/terminator">
+			<link rel="widget" href="/forms/presser">
+			<link rel="widget" href="/chat/input">
+			<link rel="widget" href="/chat/input/locker">
+			<link rel="widget" href="/chat/messages/meme">
+			<textarea id="message" class="data" maxlength="255" autofocus="autofocus" placeholder="Type a message here"></textarea>
+
+			<div class="toolbar-panel">
+
+				<div class="smiles-wrapper">
+					<div class="popup-container bottom">
+						<link rel="widget" href="/popup">
+						<button class="toolbar popup-trigger  smiles" type="button">Smiles</button>
+						<div class="popup">
+							<ul class="smiles-list">
+								<link rel="widget" href="/chat/input/smiles">
+								<script type="text/template" id="smile-list-item-template">
+									<li>
+										{{> smile}}
+									</li>
+								</script>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<button type="submit" class="button send-message approve"><l10n url="/texts/shared/common#send">Send</l10n></button>
+			</div>
+
+
+			<i class="tail-wrapper">
+				<i class="tail"></i>
+			</i>
+		</form>
+	</div>
+
+
+	<div class="billing-info">
+		<link rel="widget" href="/chat/billing/tarif">
+		<div class="online">This Chat is billed at 1 Credit per minute</div>
+		<div class="offline">Offline Chat is billed at 1 Credit per message</div>
+		<div class="free"></div>
+	</div>
+</div>
+
+                </div>
+
+				<div class="account-type content">
+					<div class="account-type-info">
+	<section class="account-type-free">
+		<h1>Free member</h1>
+		<ul>
+			<li><p>3 Minutes Chat with every Travel Mate</p></li>
+			<li><p>1 Offline Message to every Travel Mate</p></li>
+			<li><p>Connections with True Travel Mates only</p></li>
+			<li><p>Ranks low in user search</p></li>
+		</ul>
+		<button class="button default big">stay free</button>
+	</section>
+	<section class="account-type-true">
+		<h1>True Travel Mate</h1>
+		<ul>
+			<li><p>Unlimited Chat</p></li>
+			<li><p>Unlimited Offline Messages</p></li>
+			<li><p>Unlimited connections with all members</p></li>
+			<li><p>On top feature - keeps your profile visible</p></li>
+		</ul>
+		<button class="button approve big">become true</button>
+	</section>
+</div>
+				</div>
+
+				<div class="gallery content">
+                    <link rel="widget" href="/fotorama">
+					&nbsp;
+				</div>
+
+			</div>
+
+			<div class="browser-support">
+				<div class="wrapper clearfix">
+
+	<div class="support">
+		<h2>Your browser is not supported</h2>
+		<p>You’re using a web browser we don’t support.
+		Try one of these options to have a better experience on TripTogether</p>
+
+		<ul class="download">
+			<li class="browser chrome"><a target="_blank" href="http://www.google.com/chrome"></a></li>
+			<li class="browser ie"><a target="_blank" href="http://windows.microsoft.com/ru-RU/internet-explorer/download-ie"></a></li>
+			<li class="browser ff"><a target="_blank" href="http://www.mozilla.org/firefox/new/"></a></li>
+		</ul>
+
+	</div>
+
+	<div class="offer clearfix">
+		<p>You can download any of offered above browsers free of charge from an official site of the developer.</p>
+	</div>
+
+</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+	        <div class="app-notification error">
+	<div class="container">
+		<div class="inner">
+			<div class="frame">
+				<div class="notes-container purchase">
+					<p><l10n url="/texts/shared/notification#payment">It seems there is a slight problem and your payment was not accepted. Please try again later.</l10n></p>
+				</div>
+
+				<div class="notes-container upload">
+					<p><l10n url="/texts/shared/notification#unavailable">Sorry, our site is temporarily unavailable. Please try again later.</l10n></p>
+				</div>
+
+				<div class="notes-container internal">
+					<p><l10n url="/texts/shared/notification#unavailable">Sorry, our site is temporarily unavailable. Please try again later.</l10n></p>
+				</div>
+
+                <div class="notes-container suspended">
+                    <p><l10n url="/texts/shared/notification#suspended">Your account has been suspended.</l10n></p>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+
+            <section class="helper-container" l10n:title="/texts/shared/helper/common#title" title="Click to close this message">
+    <link rel="widget" href="/helper">
+    <article class="hint l10n-save">
+        <h1><l10n url="/texts/shared/helper/l10n-save#title">Save your changes</l10n></h1>
+        <l10n url="/texts/shared/helper/l10n-save#text">
+		<p>You can save changed texts by pressing <strong class="accent">Ctrl+Shift+Enter</strong></p>
+	</l10n>
+    </article>
+    <article class="hint enable-operator">
+        <h1><l10n url="/texts/shared/helper/enable-operator#title">Welcome</l10n></h1>
+        <l10n url="/texts/shared/helper/enable-operator#text">
+		<p>You can enter operator mode by pressing gear button in the top panel.</p>
+		<p><button class="apply-roles default button" type="button"><span class="admin-icon"></span></button></p>
+	</l10n>
+    </article>
+</section>
+
+            <script type="text/template" id="smile-template">
+    <img src="/i/chat/sm/{{name}}.gif" class="smile" title="{{code}}" alt="{{code}}" data-code="{{code}}" />
+</script>
+        </article>
+        <div id="fb-root"></div>
+    
+</body></html>
