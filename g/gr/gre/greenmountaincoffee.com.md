@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032540id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501121926id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Green Mountain Coffee
 
@@ -10,11 +10,11 @@
 
 
   * [Home](https://web.archive.org/)
-  * [K-Cup® Packs](https://web.archive.org/shop/k-cups-category?facets=&TitleItem=KCup)
-  * [Vue® Packs](https://web.archive.org/shop/vue-packs-category?facets=&TitleItem=Vue)
+  * [K-Cup® Packs](https://web.archive.org/shop/k-cups-category?facets=&TitleTag=All%20K-Cup%20Packs%20&TitleItem=KCup#back)
+  * [Vue® Packs](https://web.archive.org/shop/vue-packs-category?facets=&titleTag=All%20Vue%20Packs%20&TitleItem=Vue)
   * [Keurig® Brewers](https://web.archive.org/keurig-brewers)
-  * [Bagged Coffee](https://web.archive.org/shop/bagged-coffee-category?facets=Brand%3AGreen%20Mountain%20Coffee&TitleTag=Bagged%20Coffee)
-  * [Gifts & Accessories](https://web.archive.org/shop/gifts-and-accessories-category?facets=&TitleTag=Gifts%20%26%20Accessories)
+  * [Bagged Coffee](https://web.archive.org/shop/bagged-coffee-category?facets=Brand%3AGreen%20Mountain%20Coffee&TitleTag=Whole%20Bean%20%26%20Ground%20Coffee)
+  * [Gifts & Accessories](https://web.archive.org/shop/gifts-and-accessories-category?facets=&TitleTag=Coffee%20Gifts%20%26%20Keurig%20Accessories)
   * [Our Story](https://web.archive.org/Our-Story)
 
 
