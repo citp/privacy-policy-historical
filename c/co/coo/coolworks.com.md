@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023152334id_/http%3A//www.coolworks.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501094550id_/http%3A//www.coolworks.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CoolWorks.com
 
@@ -67,7 +67,7 @@ You never need to provide data to search for jobs.
 
 Choice/Opt-Out. Cool Works® provides you the opportunity to opt-out of receiving most communications from Cool Works®. You have the option to remove your information from our database and to not receive future communications or to no longer receive our service. We also give you the option to change or modify the information previously provided. To exercise any of these options: 
 
-  1. [Contact us](https://web.archive.org/web/20121023152334id_/http%3A//www.coolworks.com/about/contact-us.html) with the details of your request
+  1. [Contact us](https://web.archive.org/web/20130501094550id_/http%3A//www.coolworks.com/about/contact-us.html) with the details of your request
   2. Send a letter to PO Box 275, Gardiner, MT 59030 
   3. Call us at 406.848.2380
 
