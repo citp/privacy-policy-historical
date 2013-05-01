@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvchaska.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508115306id_/http%3A//tvchaska.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvchaska.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501062637id_/http%3A//tvchaska.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tvchaska Live Cricket|Cricket Highlights|Updates...
+# Privacy Policy
 
 **Privacy Policy for www.TvChaska.Net**
 
