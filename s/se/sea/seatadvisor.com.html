@@ -1,204 +1,512 @@
-<!--The following is the downloaded HTML source of the seatadvisor.com privacy policy that was archived on 2012-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120401054604id_/http%3A//www.seatadvisor.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seatadvisor.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501215611id_/http%3A//www.seatadvisor.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="content-type" content="text/html;charset=utf-8">
-	<meta name="generator" content="Adobe GoLive">
-	<title>SeatAdvisor, Inc. | Privacy Statement</title>
-	<link href="styles/master.css" rel="stylesheet" type="text/css" media="screen">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
+
+	<link rel="prefetch" href="http://www.seatadvisor.info/graphics_testing/fluid_website/fonts">
+	<link rel="prerender" href="http://www.seatadvisor.info/graphics_testing/fluid_website/">
+
+	<!-- Basic Page Needs
+  ================================================== -->
+  	<title>Privacy Statement for SABO Ticketing Systems, Online Box Office Software System</title>
+
+    
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
+	<meta name="description" content="This is the Privacy Statement for SeatAdvisor who offers box office ticketing systems for selling tickets online.">
+    
+	<meta name="robots" content="index, follow">
+	
+    <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images2/favicon.ico">
+	<link rel="apple-touch-icon" href="images2/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images2/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images2/apple-touch-icon-114x114.png">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    
+    
+	<!-- CSS
+  ================================================== -->
+    <!-- master -->
+    <link rel="stylesheet" type="text/css" href="styles/master.css">
+  
+    <!-- Fonts
+  ================================================== -->
+   <style type="text/css">
+	@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('fonts/BebasNeue-webfont.eot'); /* IE9 Compat Modes */
+    src: url('fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/BebasNeue-webfont.woff') format('woff'), /* Modern Browsers */
+         url('fonts/BebasNeue-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+	}
+	
+	p{padding-bottom: 9px;}
+
+	</style>
+   
+    
+    <!-- Scripts
+  ================================================== -->
+     <!--JQuery Modal Script-->   
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/815739187695801833/bc.vms4/vms.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function() {	
+
+	//select all the a tag with name equal to modal
+	$('a[name=modal]').click(function(e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
+		//Get the A tag
+		var id = $(this).attr('href');
+	
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(1000);	
+		$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 
+	
+	});
+	
+	//if close button is clicked close modal
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
+		$('#mask').hide();
+		$('.window').hide();
+	});		
+	
+	//if mask is clicked close modal
+	$('#mask').click(function () {
+		$(this).hide();
+		$('.window').hide();
+	});			
+
+	//if esc key is pressed close modal
+	document.onkeydown = function(evt) {
+	    evt = evt || window.event;
+    	if (evt.keyCode == 27) {
+	     $('#mask').hide();
+	     $('.window').hide();
+    	}
+	};
+
+	$(window).resize(function () {
+	 
+ 		var box = $('#boxes .window');
+ 
+        //Get the screen height and width
+        var maskHeight = $(document).height();
+        var maskWidth = $(window).width();
+      
+        //Set height and width to mask to fill up the whole screen
+        $('#mask').css({'width':maskWidth,'height':maskHeight});
+               
+        //Get the window height and width
+        var winH = $(window).height();
+        var winW = $(window).width();
+
+        //Set the popup window to center
+        box.css('top',  winH/2 - box.height()/2);
+        box.css('left', winW/2 - box.width()/2);
+	 
+	});
+	
+});
+
+</script>
+     <!--END JQuery Modal Script-->
+     
+    
 </head>
 
 <body>
-<!-- WRAPPER -->
-<div id="wrapper">
 
-<!-- HEADER -->
-
-<!-- UTILITIES BAR -->
-<div id="utilities">
-    <!--SOCIAL-->
-    <div id="social">
-    	<table><tbody><tr>
-        <td><div class="addthis_toolbox addthis_default_style"><a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=seatdude"><img src="images2/add_this.gif" width="14" height="14" border="0" alt="Share"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=seatdude"></script></td>
-        <td><div><a href="http://www.facebook.com/seatadvisor" target="_blank"><img src="images2/fb_logo.gif" width="14" height="14"></a></div></td>
-        </tr></tbody></table>
-	</div>
-    <!--END SOCIAL-->
-	<ul>
-		<li><a href="http://www.seatadvisor.com">HOME</a></li>
-		<li>|</li>
-		<li class="last"><a href="http://www.seatadvisor.com/contact/contact.html">CONTACT US</a></li>
+<!-- Header
+  ================================================== -->
+<div id="header" class="offwhite_bg">
+	<div class="wrapper">
+    
+    <!-- Logo + Slogan
+	  ================================================== -->
+    <div class="logo_slogan f_left">
+    <h1 class="header_title">Box Office Software, SeatAdvisor, Ticket Software, SABO, Ticketing Software, ticket box office, box office ticketing software, box office system</h1>
+    <a href="http://www.seatadvisor.com/index.html"><img src="/images2/sa_logo_92x94.jpg" width="92" height="94" alt="SeatAdvisor Logo" class="f_left"></a>
+            <div class="bigtext">
+        		<div class="bigtext-line0 bigtext-focus">box office software</div>
+                <div class="bigtext-line1 bigtext-focus">&amp; ticketing system</div>
+	        </div>
+    </div><!-- end .logo_slogan -->
+    
+    <!-- Navigation
+  ================================================== -->
+    <ul class="nav bebas xlarge">
+    	<li><a href="http://www.seatadvisor.com/products/products_sabo.html">Products</a></li>
+        <li><a href="http://www.seatadvisor.com/features/features.html">Features</a></li>
+        <li><a href="http://www.seatadvisor.com/clients/clients.html">Clients</a></li>
+        <li><a href="http://blog.seatadvisor.com">Blog</a></li>
+        <li><a href="http://www.seatadvisor.com/about/about.html">About</a></li>
+		<li><a href="http://www.seatadvisor.com/contact/contact.html">Contact</a></li>
+        <li><a href="http://www.seatadvisor.com/products/webstore.html" class="margin_last padding_last">Store</a></li>
 	</ul>
-</div>
-<!-- END UTILITIES -->
-	
-<!-- NAVIGATION BAR -->
-<div id="navigation">
-
-	<!-- LOGO -->
-	<div id="logo"><a href="http://www.seatadvisor.com"><img src="images2/logo.gif" alt="Seat Advisor" align="left"></a></div>
-	<!-- END LOGO -->
-	
-    <!-- NAVIGATION -->
-	<div id="mainnavigation">
-	<ul>
-		<li><a href="http://www.seatadvisor.com/clients/clients.html"><span>CLIENTS</span></a></li>
-        <li><a href="http://www.seatadvisor.com/about/about.html"><span>ABOUT US</span></a></li>
-		<li><a href="http://www.seatadvisor.com/case_studies/case_studies.html"><span>CASE STUDIES</span></a></li>
-		<li><a href="http://www.seatadvisor.com/testimonials/testimonials.html"><span>TESTIMONIALS</span></a></li>
-        <li><a href="http://www.seatadvisor.com/products/products_sabo.html"><span>PRODUCTS</span></a></li>
-		<li id="mainnavigation1"><a href="http://www.seatadvisor.com/contact/demo_request.html"><span>INQUIRE ONLINE</span></a></li>
+    
+     <!-- Promo Tabs
+  ================================================== -->
+    <ul class="promo large bebas">
+		<li><a href="http://www.seatadvisor.com/contact/demo_request.html">ONLINE DEMO</a></li>
 	</ul>
-	</div>
-    <!-- END NAVIGATION -->
     
-</div>
-<!-- END NAVIGATION BAR -->
-<!-- END HEADER -->
-	
-<!-- BODY -->
-<div id="body">
-	
-    <!-- INQUIRY PANEL -->
-	<div id="inq">
-		
-        <!-- INQUIRE ONLINE -->
-        <div id="inqTable1">
-        	<a id="inqTable_Roll" href="http://www.seatadvisor.com/contact/demo_request.html" title="Inquire Online"><span>&nbsp;</span></a>
-        </div>
-        <!-- END INQUIRE ONLINE -->
-        
-        <div id="spacer"></div>
-        
-        <!-- HIGHLIGHTS -->
-        <div id="HighlightTable">
-        	<a id="HighlightTable_Roll" href="http://www.seatadvisor.com/demo/index.html" title="Highlights"><span>&nbsp;</span></a>
-        </div>
-        <!-- END HIGHLIGHTS -->
-        
-        <div id="spacer"></div>
-        
-        <!-- TESTIMONIALS -->
-        <div id="inqTable2">
-        	<div id="inqHeader"><a href="http://www.seatadvisor.com/testimonials/testimonials.html"><font id="inqHeaderFont">Testimonials</font></a></div>
-            <div id="inqQuoteFrame" align="center"><iframe name="quotes" src="testimonials/testimonials_rotation.html" bgcolor="#f1f3f2" frameborder="0" scrolling="no" align="top" height="135" width="280px" allowtransparency="true"></iframe></div>
-        </div>
-        <!-- END TESTIMONIALS -->
-        
- 	</div>
-    <!-- END INQUIRY PANEL -->
+
+
+     <!-- Location
+  ================================================== -->
+  <p class="current_location">Current Location: <strong>SeatAdvisor US</strong> &nbsp;
+  <a href="http://www.seatadvisor.com/world_map.html" class="change_location">Change Location</a></p>
+  
     
-    <!-- CONTENT -->
-    <div id="content">
-    	<div id="content_top"></div>
-    	<div id="content_wrapper">
-
-        	<!-- HEADER IMAGE -->
-        	<div align="center"><img src="images2/banners/contact_banner.jpg" width="570" height="125"></div>
-            <!-- END HEADER IMAGE -->
-
-            <!-- BODY CONTENT -->
-            <div align="left" id="contentPageHeader"><font id="contentHeaderFont">Privacy Statement</font></div>
-            <div id="contentBody"><font id="contentTextFont">SeatAdvisor, Inc. respects your privacy and is committed to protecting it at all times. This Internet Privacy Statement explains how we collect, use, and safeguard information on this website. Please click here for more information about SeatAdvisor, Inc. All information collected online by SeatAdvisor, Inc. will be governed by the SeatAdvisor, Inc. Internet Privacy Statement.</font></div>
-                <div id="contentBody"><font id="contentTextFont">Effective Date: 11/8/05</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">Definition of terms</font></div>
-				<div id="contentBody"><font id="contentTextFont"><b>Patron:</b> Any user who visits our site with intent to purchase tickets to an event hosted by one of our clients, or to find out more information about SeatAdvisor, Inc. and it's Clients.</font></div>
-				<div id="contentBody"><font id="contentTextFont"><b>Client:</b> Any venue or venue representative who uses the SeatAdvisor product <b>SABO</b> or SAEX.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">Information we collect about you online</font></div>
-				<div id="contentBody"><font id="contentTextFont">We want patrons and clients to get the most out of their visits to our website. From offering an enjoyable ticket purchase experience to patrons, to providing clients with secure online ticketing system management and sales, we strive to make the most of every unique users visit to our website. To provide our clients with the most powerful ticketing system in the world we have included patron management options for our clients to utilize in any way they see fit. Through our system, our clients will, from time to time request that patrons provide them with personal information, such as name, address, e-mail address and telephone number. Our clients may also receive contact information via a third-party website if patrons request information about our clients venue or events.</font></div>
-				<div id="contentBody"><font id="contentTextFont"><b>Patrons:</b> We will ask you for certain contact information when you purchase tickets of any value online. All information will be held within our client's patron database and will be managed by our clients. Note: At no point will credit card information be stored within our system unless manually entered by our clients at which point our client accepts full legal responsibility.</font></div>
-				<div id="contentBody"><font id="contentTextFont"><b>Clients:</b> We allow you to use our patron management system at no extra cost. You are responsible for all information stored within our patron management system and agree to hold full legal responsibility for the information and how it is managed. We ask that you not store credit card information within our system and that all patron information will be used according to patron wishes and with respect to patron privacy. Any patron information stored in our system including credit card information is your responsibility to maintain and you agree to be held legally responsible for any information stored within our system in respect to your patrons. At no point will SeatAdvisor, Inc. use our client's patron's information unless requested by client.</font></div>
-				<div id="contentBody"><font id="contentTextFont">We will maintain information about ticket purchase activity, online account activity, online services and products requested and your usage of our website to help us administer your online account needs and to continually improve your online experience by providing you with customized, relevant information and features.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">To parents of children under 13</font></div>
-				<div id="contentBody"><font id="contentTextFont">We do not knowingly solicit data online from or market online to children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe that personal information may have been collected about such child, please see <a href="#a2b">How We Use The Information We Collect</a> and <a href="#a4">Your Opt-Out Choices</a>.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">How we use the information we collect</font></div>
-				<div id="contentBody"><font id="contentTextFont">Whether you are a patron or a client, we use personal information collected on our website to handle the transactions you initiate. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases. In some instances, we will share your contact information with carefully selected service providers to assist us in processing your online transactions or to deliver the services requested. For example, if you are a patron who requests information about a certain event hosted by one of our clients, we will supply your contact information to our clients who will then contact you to complete your request. SeatAdvisor, Inc. may use a third party vendor who will process and mail information, and other materials you request on SeatAdvisor, Inc.'s behalf.</font></div>
-				<div id="contentBody"><font id="contentTextFont">We will also share your personal information with carefully selected non-affiliated companies who provide special offers on behalf of SeatAdvisor, Inc.. For example, SeatAdvisor, Inc. may offer a free demo or information packet to prospective clients upon speaking with an advisor for a complimentary consultation. Potential Clients who request more information may have their information shared with a third party company only for purposes of ensuring that the potential client receives the information requested.</font></div>
-				<div id="contentBody"><font id="contentTextFont">In an effort to ensure that our clients get the most out of our services, we may use personal information in combination with other information we have about you as a client and information provided to us by third parties to present you with customized and relevant information and offers. For example, we may send you offers that may help the sales process, such as access control systems and ticket printer discounts.</font></div>
-				<div id="contentBody"><font id="contentTextFont">We use personal information you enter to become a member to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">Tracking activity on our website</font></div>
-				<div id="contentBody"><font id="contentTextFont">In order to make your visit to our website as productive as possible, we track activity on our website. However, we want you to know that the tracking technology we use does not identify any personal information about you. They cannot retrieve data from your hard drive, pass on computer viruses, or capture any personal information about you, such as your name, address, phone number, or e-mail address. We only know who you are if you tell us. You may, however, be asked to provide personal information such as name, address, phone number or e-mail address to us when you register for online services or products.</font></div>
-				<div id="contentBody"><font id="contentTextFont"><b>Cookies:</b> One way we track activity is by using cookies. A "cookie" is an electronic file that holds small strings of text. When you visit our website, we send a cookie to your browser so that we can recognize it when you or another user of your computer return to our website. We want to recognize your browser so we can make the best use of your time when visiting our website.</font></div>
-				<div id="contentBody"><font id="contentTextFont"><b>Advertising</b>: When you visit our website by clicking on certain banner ads or special offers on our partners' website, we track this information to improve navigation and deliver relevant information when you arrive at our website. We also do this because we want to determine if our ads and special offers are appealing to our users.</font></div>
-				<div id="contentBody"><font id="contentTextFont"><b>Browser settings</b>: You can adjust many browser preferences so that you are alerted when a cookie is placed in your browser, or adjust preferences to decline cookies altogether. Recognize that cookies enable you to visit our website without reviewing introductory information. In addition to allowing us to recognize you.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">How we use your e-mail address</font></div>
-				<div id="contentBody"><font id="contentTextFont">We recognize that e-mail can be the preferred mode of communication for some of our patrons and clients. If you provide us with your e-mail address when registering for an online service or product or when accessing your account online, we will use it to contact you about online services and products for which you have registered or about your account.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">We may use your e-mail address to send you the following types of e-mail messages</font></div>
-				<div id="contentBody">
-                <ul>
-				<li><font id="contentTextFont">Service notifications related to your accounts</font></li>
-				<li><font id="contentTextFont">Regularly scheduled e-mail information related to SeatAdvisor, Inc.</font></li>
-				<li><font id="contentTextFont">Product or service information</font></li>
-				<li><font id="contentTextFont">Optional e-mail communications which you have signed up for (e.g. newsletters)</font></li>
-				<li><font id="contentTextFont">Occasional updates about our products and services as well as SeatAdvisor, Inc. marketing offers</font></li>
-				</ul></div>
-				<div id="contentBody"><font id="contentTextFont">Also, once you have requested information from us, we may communicate with you via e-mail regarding your request to provide additional information related to your initial information request. For example, we may send you materials to help you prepare for an upcoming meeting with an SeatAdvisor, Inc. advisor. However, we will never ask you to send personal information such as account or Social Security numbers by non-secure e-mail.</font></div>
-				<div id="contentBody"><font id="contentTextFont">To make our e-mail more relevant to you, we may use information you provided in your initial transaction with us, in surveys, from information we have about you as a patron or client and information available from external sources.</font></div>
-				<div id="contentBody"><font id="contentTextFont">We do not share your e-mail address with non-affiliated companies for them to market their products or services directly to you. However, we may partner with selected non-affiliated companies to offer certain products or services we believe may be of interest to you.</font></div>
-				<div id="contentBody"><font id="contentTextFont">You may receive e-mail offers from other companies for SeatAdvisor, Inc. products and services if you registered to receive third-party offers on their website, or if you receive ongoing e-mail newsletters from the other companies that include third-party ads. If you have recently opted out of receiving e-mail offers from SeatAdvisor, Inc., we will process and honor your request as soon as administratively possible. In certain circumstances, you may receive e-mail offers for SeatAdvisor, Inc. products and services during the time period when we are processing your opt-out request.</font></div>
-				<div id="contentBody"><font id="contentTextFont">To opt-out of receiving offers or e-mail newsletters from other companies, follow the instructions provided by those companies.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">Ads that link to our website</font></div>
-				<div id="contentBody"><font id="contentTextFont">SeatAdvisor, Inc. may use third parties to place banner ads on other websites and will perform tracking and reporting activities through use of Ad Servers. We do not provide Ad Servers with your personal information and Ad Servers do not collect your personal information. Ad Servers are subject to their own privacy policies.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">How we safeguard your information</font></div>
-				<div id="contentBody"><font id="contentTextFont">SeatAdvisor, Inc. realizes how important security is to you, so we've taken a number of steps to enhance the protection of personal or confidential information sent to, or from SeatAdvisor, Inc. over the Internet. First, we require that a "secure session" be established, using Secure Socket Layer (SSL) Technology. This is done any time you supply or access personal or confidential information in one of our secure online areas.</font></div>
-				<div id="contentBody"><font id="contentTextFont">SSL Technology creates a private conversation that only your computer and SeatAdvisor, Inc. systems can understand. The SSL Technology encodes information as it is being sent over the Internet between your computer and SeatAdvisor, Inc. systems, helping to ensure that the transmitted information remains confidential. The use of SSL requires two components: an SSL-compatible browser and a Web server to perform the "key-exchange" that establishes a secure connection to SeatAdvisor, Inc. Web server systems. In addition, all of our secure sites require that your browser support 128-bit encryption.</font></div>
-				<div id="contentBody"><font id="contentTextFont">In order to securely access your personal information via our website, you will need the latest browser version available with SSL and 128 bit encryption capabilities.</font></div>
-				<div id="contentBody"><font id="contentTextFont">Second, client designated areas of the site require the use of a User ID and Password as an additional security measure that helps protect your confidential information. This allows SeatAdvisor, Inc. to verify who you are, thereby allowing you access to your account information, and preventing unauthorized access. It is the client's responsibility to maintain their user accounts and SeatAdvisor will not be held liable for any misuse of account access.</font></div>
-				<div id="contentBody"><font id="contentTextFont">When a client has finished using a secure area of SeatAdvisor, Inc., make sure you always click on the "Log Out" link which appears on the top of every page. When you click on it, no further management transactions can be conducted without re-entering your User ID and Password. This also helps prevent unauthorized access to your account if you walk away from your computer.</font></div>
-				<div id="contentBody"><font id="contentTextFont">You should be aware that browser software often "caches" a page as you look at it, meaning that some pages are saved in your computer's temporary memory. Therefore, you may find that clicking on your "Back" button shows you a saved version of a previously viewed page. Caching in no way affects the security of your confidential User ID or Password. If you use a computer in a public place to access your account information, simply quit/exit the browser software before leaving to minimize the possibility of anyone else accessing your account.</font></div>
-				<div id="contentBody"><font id="contentTextFont">Third, in order to bring you the many online products and services offered through <a href="http://www.seatadvisor.com">seatadvisor.com</a>, we work with carefully selected vendors and non-affiliated companies. If we have to share any information with these companies in order to provide a product or service to you, we first conduct a careful evaluation of their information and security systems and practices, and require administrative, technical, and physical safeguards to ensure the security and confidentiality of SeatAdvisor, Inc. client information. At any time, we may audit these companies to verify the continued security of their systems and practices.</font></div>
-				<div id="contentBody"><font id="contentTextFont">Lastly, you should be aware that other Internet sites that you link to from the SeatAdvisor, Inc. site or an SeatAdvisor, Inc. e-mail may contain privacy provisions that differ from the provisions of our Privacy Statement. To ensure your privacy is protected, we recommend that you review the privacy statements of other Internet sites you visit.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">Your opt-out choices</font></div>
-				<div id="contentBody"><font id="contentTextFont">We strive to send you e-mail communications that are informative and relevant, but also appreciate that you are in the best position to evaluate the type and frequency of our communications to you.</font></div>
-				<div id="contentBody"><font id="contentTextFont">There are two types of e-mail communications we will send to you: service communications and marketing communications. Service communications may include information about your online registration, verification that your account has been accessed online, in response to a service related inquiry or confirmation of an online transaction. Marketing communications may include information about SeatAdvisor, Inc.'s services and products, newsletters, and joint or special offers or information from our selected non-affiliated companies and SeatAdvisor, Inc. affiliates.</font></div>
-				<div id="contentBody"><font id="contentTextFont">To opt-out of receiving e-mail offers or newsletters, send us an 
-				<script language="JavaScript">document.write('<a hr'+'ef="mai'+'lto'+':'+'%65%78%70%72%65%73%73%40%73%65%61%74%61%64%76%69%73%6f%72%2e%63%6f%6d">&#101;&#45;&#109;&#97;&#105;&#108;&#32;&#109;&#101;&#115;&#115;&#97;&#103;&#101;<\/a>');</script><a href="mailto:%65%78%70%72%65%73%73%40%73%65%61%74%61%64%76%69%73%6f%72%2e%63%6f%6d">e-mail message</a> requesting you be removed from our mailing list. Note: If you are a patron who wishes to opt out of a venue's e-mail marketing you must contact the client directly. You may receive separate newsletters pertaining to different SeatAdvisor, Inc. products and services that you are enrolled in automatically when you register for those products or services. In this case, you must request to be removed individually. If you opt-out, we will still send you e-mail with service updates as well as other important information related to the SeatAdvisor, Inc. online products or services for which you have signed up.</font></div>
-				<div id="contentHeader"><font id="contentHighlightFont">Transaction security</font></div>
-				<div id="contentBody"><font id="contentTextFont">Because SeatAdvisor Inc, is a private labeled software provider, Our clients present their event listings in a framed browser window the page may not contain the familiar security indicators including the small "lock" icon at the bottom right corner of the browser frame and the "s" in the address bar (for example, "https"). Please be assured that although these indicators are not present in the master page, the checkout component of this page is secure.</font></div>
-				<div id="contentBody"><font id="contentTextFont">To verify that this page is secure and that your credit card number and personal information is being transmitted with an SSL-encrypted page, you may right click on the checkout page and view information about the page (most browsers work this way). You will see that the page is using 'https' indicating an SSL-Encrypted page.</font></div>
-				<div id="contentBody"><font id="contentTextFont">Please feel free to <a href="http://www.seatadvisor.com/contact/contact.html">contact us</a> directly with questions regarding check-out security.</font></div>
-                <div id="contentHeader"><font id="contentHighlightFont">US – EU Safe Harbor Framework</font></div>
-                <div id="contentBody"><font id="contentTextFont"><br><a href="http://seatadvisor.com/images2/safeharborlogo.jpg" target="_blank">We self-certify compliance with</a><br>
-                <a href="http://www.export.gov/safeharbor" target="_blank"><img src="http://seatadvisor.com/images2/safeharborlogo.jpg" border="0"></a><br><br>
-                If you are visiting the SeatAdvisor website from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our website, you consent to our collection and use of your data as described in this privacy policy. SeatAdvisor Inc. is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union and has self-certified compliance with the Safe Harbor Privacy Principles with respect to personal information transferred to us in the U.S. from European countries. </font></div>
-                <div id="contentHeader"><font id="contentHighlightFont">Privacy Complaints by European Union Citizens:</font></div>
-                <div id="contentBody"><font id="contentTextFont">In compliance with the Safe Harbor Principles, SeatAdvisor Inc. commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union citizens with inquiries or complaints regarding this privacy policy should first contact SeatAdvisor Inc. at:
-                <br><br>
-                SeatAdvisor Inc.<br>
-Internal Dispute Resolution Dept<br>
-Attn: Rory O’Donnell<br>
-555 West Beech Street<br>
-Suite 302<br>
-San Diego<br>
-CA 92101<br>
-</font></div>
-				<div id="contentBody"><font id="contentTextFont">SeatAdvisor Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SeatAdvisor Inc you may contact the BBB EU SAFE HARBOR program at the address below:</font></div>
-                <div id="contentBody"><font id="contentTextFont">Council of Better Business Bureaus, Inc.
-BBB EU SAFE HARBOR<br>
-4200 Wilson Boulevard, Suite 800<br>
-Arlington, VA 22203<br>
-Phone:  703-276-0100<br>
-Web: <a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a><br>
-</font></div>
-
-        	<!-- END BODY CONTENT -->
-    	<div id="content_bottom"></div>
-    </div>
-    <!-- END CONTENT -->
+    </div><!-- end .wrapper -->
     
-</div>
-<!-- END BODY -->
+</div><!-- end #header --><!-- Content
+  ================================================== -->
 
-<!-- FOOTER -->	
-<div id="footer">
-	<div id="footerCopyright"><font id="footerFont">Copyright © 1999 - <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 SeatAdvisor, Inc. All Rights Reserved</font></div>
-	<div id="footerLegal"><font id="footer_links"><a href="http://www.seatadvisor.com/resources.html">Links | </a></font><font id="footerFont"><a href="http://www.seatadvisor.com/legal.html">Legal Information</a> | <a href="http://www.seatadvisor.com/privacy.html">Privacy Statement</a></font></div>
-</div>	
-<!-- END FOOTER -->
+<div class="btm_content lightgrey_bg">
+<div class="wrapper_no_topcontent">
+ 	    
+          			<!-- ..... PRIVACY STATEMENT..... -->         
+                
+                      <p class="bebas xxlarge padding_top padding_btm uppercase">Privacy Statement</p>
+                      <p>SeatAdvisor, Inc. respects your privacy and is committed to protecting it at all times. This Internet Privacy Statement explains how we collect, use, and safeguard information on this website. Please click here for more information about SeatAdvisor, Inc. All information collected online by SeatAdvisor, Inc. will be governed by the SeatAdvisor, Inc. Internet Privacy Statement.</p>
+                      <p class="padding_btm">Effective Date: 11/8/05</p>
+                      <p class="subject-line padding_top">Definition of terms</p>
+                      <p><strong>Patron:</strong>&nbsp;Any user who visits our site with intent to purchase tickets to an event hosted by one of our clients, or to find out more information about SeatAdvisor, Inc. and it's Clients.</p>
+                      <p><strong>Client:</strong>&nbsp;Any venue or venue representative who uses the SeatAdvisor product&nbsp;<strong>SABO</strong>&nbsp;or SAEX.</p>
+                      <p>Information we collect about you online</p>
+                      <p>We want patrons and clients to get the most out of their visits to our website. From offering an enjoyable ticket purchase experience to patrons, to providing clients with secure online ticketing system management and sales, we strive to make the most of every unique users visit to our website. To provide our clients with the most powerful ticketing system in the world we have included patron management options for our clients to utilize in any way they see fit. Through our system, our clients will, from time to time request that patrons provide them with personal information, such as name, address, e-mail address and telephone number. Our clients may also receive contact information via a third-party website if patrons request information about our clients venue or events.</p>
+                      <p><strong>Patrons:</strong>&nbsp;We will ask you for certain contact information when you purchase tickets of any value online. All information will be held within our client's patron database and will be managed by our clients. Note: At no point will credit card information be stored within our system unless manually entered by our clients at which point our client accepts full legal responsibility.</p>
+                      <p><strong>Clients:</strong>&nbsp;We allow you to use our patron management system at no extra cost. You are responsible for all information stored within our patron management system and agree to hold full legal responsibility for the information and how it is managed. We ask that you not store credit card information within our system and that all patron information will be used according to patron wishes and with respect to patron privacy. Any patron information stored in our system including credit card information is your responsibility to maintain and you agree to be held legally responsible for any information stored within our system in respect to your patrons. At no point will SeatAdvisor, Inc. use our client's patron's information unless requested by client.</p>
+                      <p class="padding_btm">We will maintain information about ticket purchase activity, online account activity, online services and products requested and your usage of our website to help us administer your online account needs and to continually improve your online experience by providing you with customized, relevant information and features.</p>
+                      <p class="subject-line">To parents of children under 13</p>
+                      <p class="padding_btm">We do not knowingly solicit data online from or market online to children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe that personal information may have been collected about such child, please see&nbsp;<a href="http://www.seatadvisor.com/privacy.html#a2b" class="mediumgrey">How We Use The Information We Collect</a>&nbsp;and&nbsp;<a href="http://www.seatadvisor.com/privacy.html#a4" class="mediumgrey">Your Opt-Out Choices</a>.</p>
+                      <p class="subject-line">How we use the information we collect</p>
+                      <p>Whether you are a patron or a client, we use personal information collected on our website to handle the transactions you initiate. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases. In some instances, we will share your contact information with carefully selected service providers to assist us in processing your online transactions or to deliver the services requested. For example, if you are a patron who requests information about a certain event hosted by one of our clients, we will supply your contact information to our clients who will then contact you to complete your request. SeatAdvisor, Inc. may use a third party vendor who will process and mail information, and other materials you request on SeatAdvisor, Inc.'s behalf.</p>
+                      <p>We will also share your personal information with carefully selected non-affiliated companies who provide special offers on behalf of SeatAdvisor, Inc.. For example, SeatAdvisor, Inc. may offer a free demo or information packet to prospective clients upon speaking with an advisor for a complimentary consultation. Potential Clients who request more information may have their information shared with a third party company only for purposes of ensuring that the potential client receives the information requested.</p>
+                      <p>In an effort to ensure that our clients get the most out of our services, we may use personal information in combination with other information we have about you as a client and information provided to us by third parties to present you with customized and relevant information and offers. For example, we may send you offers that may help the sales process, such as access control systems and ticket printer discounts.</p>
+                      <p class="padding_btm">We use personal information you enter to become a member to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.</p>
+                      <p class="subject-line">Tracking activity on our website.</p>
+                      <p>In order to make your visit to our website as productive as possible, we track activity on our website. However, we want you to know that the tracking technology we use does not identify any personal information about you. They cannot retrieve data from your hard drive, pass on computer viruses, or capture any personal information about you, such as your name, address, phone number, or e-mail address. We only know who you are if you tell us. You may, however, be asked to provide personal information such as name, address, phone number or e-mail address to us when you register for online services or products.</p>
+                      <p><strong>Cookies:</strong>&nbsp;One way we track activity is by using cookies. A "cookie" is an electronic file that holds small strings of text. When you visit our website, we send a cookie to your browser so that we can recognize it when you or another user of your computer return to our website. We want to recognize your browser so we can make the best use of your time when visiting our website.</p>
+                      <p><strong>Advertising</strong>: When you visit our website by clicking on certain banner ads or special offers on our partners' website, we track this information to improve navigation and deliver relevant information when you arrive at our website. We also do this because we want to determine if our ads and special offers are appealing to our users.</p>
+                      <p class="padding_btm"><strong>Browser settings</strong>: You can adjust many browser preferences so that you are alerted when a cookie is placed in your browser, or adjust preferences to decline cookies altogether. Recognize that cookies enable you to visit our website without reviewing introductory information. In addition to allowing us to recognize you.</p>
+                      <p class="subject-line">How we use your e-mail address.</p>
+                      <p>We recognize that e-mail can be the preferred mode of communication for some of our patrons and clients. If you provide us with your e-mail address when registering for an online service or product or when accessing your account online, we will use it to contact you about online services and products for which you have registered or about your account.</p>
+                      <p>We may use your e-mail address to send you the following types of e-mail messages.</p>
+                      
+                        <ul class="margin_left padding_right padding_btm">
+                          <li>Service notifications related to your accounts</li>
+                          <li>Regularly scheduled e-mail information related to SeatAdvisor, Inc.</li>
+                          <li>Product or service information</li>
+                          <li>Optional e-mail communications which you have signed up for (e.g. newsletters)</li>
+                          <li>Occasional updates about our products and services as well as SeatAdvisor, Inc. marketing offers</li>
+                        </ul>
+                      
+                      <p>Also, once you have requested information from us, we may communicate with you via e-mail regarding your request to provide additional information related to your initial information request. For example, we may send you materials to help you prepare for an upcoming meeting with an SeatAdvisor, Inc. advisor. However, we will never ask you to send personal information such as account or Social Security numbers by non-secure e-mail.</p>
+                      <p>To make our e-mail more relevant to you, we may use information you provided in your initial transaction with us, in surveys, from information we have about you as a patron or client and information available from external sources.</p>
+                      <p>We do not share your e-mail address with non-affiliated companies for them to market their products or services directly to you. However, we may partner with selected non-affiliated companies to offer certain products or services we believe may be of interest to you.</p>
+                      <p>You may receive e-mail offers from other companies for SeatAdvisor, Inc. products and services if you registered to receive third-party offers on their website, or if you receive ongoing e-mail newsletters from the other companies that include third-party ads. If you have recently opted out of receiving e-mail offers from SeatAdvisor, Inc., we will process and honor your request as soon as administratively possible. In certain circumstances, you may receive e-mail offers for SeatAdvisor, Inc. products and services during the time period when we are processing your opt-out request.</p>
+                      <p class="padding_btm">To opt-out of receiving offers or e-mail newsletters from other companies, follow the instructions provided by those companies.</p>
+                      <p class="subject-line">Ads that link to our website.</p>
+                      <p class="padding_btm">SeatAdvisor, Inc. may use third parties to place banner ads on other websites and will perform tracking and reporting activities through use of Ad Servers. We do not provide Ad Servers with your personal information and Ad Servers do not collect your personal information. Ad Servers are subject to their own privacy policies.</p>
+                      <p class="subject-line">How we safeguard your information</p>
+                      <p>SeatAdvisor, Inc. realizes how important security is to you, so we've taken a number of steps to enhance the protection of personal or confidential information sent to, or from SeatAdvisor, Inc. over the Internet. First, we require that a "secure session" be established, using Secure Socket Layer (SSL) Technology. This is done any time you supply or access personal or confidential information in one of our secure online areas.</p>
+                      <p>SSL Technology creates a private conversation that only your computer and SeatAdvisor, Inc. systems can understand. The SSL Technology encodes information as it is being sent over the Internet between your computer and SeatAdvisor, Inc. systems, helping to ensure that the transmitted information remains confidential. The use of SSL requires two components: an SSL-compatible browser and a Web server to perform the "key-exchange" that establishes a secure connection to SeatAdvisor, Inc. Web server systems. In addition, all of our secure sites require that your browser support 128-bit encryption.</p>
+                      <p>In order to securely access your personal information via our website, you will need the latest browser version available with SSL and 128 bit encryption capabilities.</p>
+                      <p>Second, client designated areas of the site require the use of a User ID and Password as an additional security measure that helps protect your confidential information. This allows SeatAdvisor, Inc. to verify who you are, thereby allowing you access to your account information, and preventing unauthorized access. It is the client's responsibility to maintain their user accounts and SeatAdvisor will not be held liable for any misuse of account access.</p>
+                      <p>When a client has finished using a secure area of SeatAdvisor, Inc., make sure you always click on the "Log Out" link which appears on the top of every page. When you click on it, no further management transactions can be conducted without re-entering your User ID and Password. This also helps prevent unauthorized access to your account if you walk away from your computer.</p>
+                      <p>You should be aware that browser software often "caches" a page as you look at it, meaning that some pages are saved in your computer's temporary memory. Therefore, you may find that clicking on your "Back" button shows you a saved version of a previously viewed page. Caching in no way affects the security of your confidential User ID or Password. If you use a computer in a public place to access your account information, simply quit/exit the browser software before leaving to minimize the possibility of anyone else accessing your account.</p>
+                      <p>Third, in order to bring you the many online products and services offered through&nbsp;<a href="http://www.seatadvisor.com/">seatadvisor.com</a>, we work with carefully selected vendors and non-affiliated companies. If we have to share any information with these companies in order to provide a product or service to you, we first conduct a careful evaluation of their information and security systems and practices, and require administrative, technical, and physical safeguards to ensure the security and confidentiality of SeatAdvisor, Inc. client information. At any time, we may audit these companies to verify the continued security of their systems and practices.</p>
+                      <p class="padding_btm">Lastly, you should be aware that other Internet sites that you link to from the SeatAdvisor, Inc. site or an SeatAdvisor, Inc. e-mail may contain privacy provisions that differ from the provisions of our Privacy Statement. To ensure your privacy is protected, we recommend that you review the privacy statements of other Internet sites you visit.</p>
+                      <p class="subject-line">Your opt-out choices</p>
+                      <p>We strive to send you e-mail communications that are informative and relevant, but also appreciate that you are in the best position to evaluate the type and frequency of our communications to you.</p>
+                      <p>There are two types of e-mail communications we will send to you: service communications and marketing communications. Service communications may include information about your online registration, verification that your account has been accessed online, in response to a service related inquiry or confirmation of an online transaction. Marketing communications may include information about SeatAdvisor, Inc.'s services and products, newsletters, and joint or special offers or information from our selected non-affiliated companies and SeatAdvisor, Inc. affiliates.</p>
+                      <p class="padding_btm">To opt-out of receiving e-mail offers or newsletters, send us an&nbsp;<a href="mailto:%65%78%70%72%65%73%73%40%73%65%61%74%61%64%76%69%73%6f%72%2e%63%6f%6d" class="mediumgrey">e-mail message</a><a href="mailto:%65%78%70%72%65%73%73%40%73%65%61%74%61%64%76%69%73%6f%72%2e%63%6f%6d" class="mediumgrey">e-mail message</a>&nbsp;requesting you be removed from our mailing list. Note: If you are a patron who wishes to opt out of a venue's e-mail marketing you must contact the client directly. You may receive separate newsletters pertaining to different SeatAdvisor, Inc. products and services that you are enrolled in automatically when you register for those products or services. In this case, you must request to be removed individually. If you opt-out, we will still send you e-mail with service updates as well as other important information related to the SeatAdvisor, Inc. online products or services for which you have signed up.</p>
+                      <p class="subject-line">Transaction security</p>
+                      <p>Because SeatAdvisor Inc, is a private labeled software provider, Our clients present their event listings in a framed browser window the page may not contain the familiar security indicators including the small "lock" icon at the bottom right corner of the browser frame and the "s" in the address bar (for example, "https"). Please be assured that although these indicators are not present in the master page, the checkout component of this page is secure.</p>
+                      <p>To verify that this page is secure and that your credit card number and personal information is being transmitted with an SSL-encrypted page, you may right click on the checkout page and view information about the page (most browsers work this way). You will see that the page is using 'https' indicating an SSL-Encrypted page.</p>
+                      <p class="padding_btm">Please feel free to&nbsp;<a href="http://www.seatadvisor.com/contact/contact.html" class="mediumgrey">contact us</a>&nbsp;directly with questions regarding check-out security.</p>
+    <p class="subject-line">US – EU Safe Harbor Framework</p>
+                      <p>
+                        <a href="https://safeharbor.export.gov/list.aspx" target="_blank" class="mediumgrey">We self-certify compliance with:</a></p>
+                        <p><a href="http://export.gov/safeharbor/" target="_blank" class="mediumgrey"><img src="images2/safeharborlogo.jpg" height="131" width="257" alt="Safe Harbor Logo"></a></p>
+                        
+                        
+                        <p class="padding_btm">If you are visiting the SeatAdvisor website from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our website, you consent to our collection and use of your data as described in this privacy policy. SeatAdvisor Inc. is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union and has self-certified compliance with the Safe Harbor Privacy Principles with respect to personal information transferred to us in the U.S. from European countries.</p>
+                      <p class="subject-line">Privacy Complaints by European Union Citizens:</p>
+                      <p>In compliance with the Safe Harbor Principles, SeatAdvisor Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact SeatAdvisor Inc. at:&nbsp;<br>
+                        <br>
+                        SeatAdvisor Inc.<br>
+                        Internal Dispute Resolution Dept<br>
+                        Attn: Rory O’Donnell<br>
+                        2655 Camino Del Rio N.<br>
+                        Suite 470<br>
+                        San Diego, CA 92108
+                      </p>
+                      <p>SeatAdvisor Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SeatAdvisor Inc you may contact the BBB EU SAFE HARBOR program at the address below:</p>
+                      <p>Council of Better Business Bureaus, Inc. BBB EU SAFE HARBOR<br>
+                        
+                        Web:&nbsp;<a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a><br>
+                      </p>
+                      
+                  
+        
+        <div class="clear"></div>
+         
+                        
+  </div><!-- end .wrapper -->
+</div><!-- end .btm_content -->
 
 
-</div>
-<!-- END WRAPPER -->
 
 
-</div></body></html>
+<!-- jquery for scroll to top -->	
+	<!-- easing plugin -->
+	<script src="jscript/easing.js" type="text/javascript"></script>
+	<!-- UItoTop plugin -->
+	<script src="jscript/jquery.ui.totop.js" type="text/javascript"></script>
+	<!-- Starting the plugin -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			var defaults = {
+	  			containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+	 		};
+			*/
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+	</script><!-- END jquery for scroll to top -->	
+
+
+
+<!-- Footer
+================================================== -->
+
+  
+<!-- Top Footer: Logo + Footer Navigation
+================================================== -->
+<div id="footer_top" class="dkgrey_bg">
+	<div class="wrapper">
+    	<a href="http://www.seatadvisor.com/index.html"><img src="/images2/sa_logo_34x36.jpg" width="34" height="36" alt="SeatAdvisor Logo" class="f_left"></a>
+    	<ul id="footer_nav" class="small bold">          
+            <li><a href="http://www.seatadvisor.com/products/products_sabo.html">Products</a></li>
+        	<li><a href="http://www.seatadvisor.com/features/features.html">Features</a></li>
+            <li><a href="http://www.seatadvisor.com/clients/clients.html">Clients</a></li>
+	        <li><a href="http://blog.seatadvisor.com">Blog</a></li>
+	        <li><a href="http://www.seatadvisor.com/about/about.html">About</a></li>
+			<li><a href="http://www.seatadvisor.com/contact/contact.html">Contact</a></li>
+	        <li><a href="http://www.seatadvisor.com/products/webstore.html">Store</a></li>
+         </ul>
+    </div><!-- end .wrapper -->
+</div><!-- end .footer_top -->
+
+<!-- Middle Footer: Contact | Partners | Insights | Contact
+================================================== -->
+<div id="footer_mid" class="grey">
+	<div class="wrapper">
+    
+    <div class="grid_1">
+				<div class="box">
+					<p class="bebas large">Contact Info</p>
+					<div class="block">
+                        <p>
+               		    <a href="http://twitter.com/seatadvisor" target="_blank"><img src="/images2/icon_twitter_grey.jpg" width="21" height="20" alt="Twitter"></a>
+                        <a href="http://www.linkedin.com/company/seatadvisor/products?trk=tabs_biz_product" target="_blank"><img src="/images2/icon_linkedin_grey.jpg" width="21" height="20" alt="Linked In"></a>
+                        <a href="https://www.facebook.com/SeatAdvisor" target="_blank"><img src="/images2/icon_facebook_grey.jpg" width="9" height="20" alt="Facebook"></a>
+                        </p>
+
+						<div class="vcard">
+                        <span class="fn org">SeatAdvisor</span> US: <br>
+                        <div class="adr">
+                        <span class="street-address">2655 Camino Del Rio N.<br>
+                           Suite 470</span><br>
+	                       <span class="locality">San Diego</span>, <span class="region">CA</span> 92108 <p></p>
+    	                    <span class="geo">
+                                <span class="latitude">
+                                   <span class="value-title" title="32.772530"></span>
+                                </span>
+                                <span class="longitude">
+                                   <span class="value-title" title="-117.134368‎"></span>
+                                </span>
+                             </span>
+        	            <p><span class="tel">(877)732-8627</span></p>
+                        </div></div>
+					</div><!--end .block-->
+				</div><!--end .box -->
+			</div><!-- end .grid_1 -->
+			<div class="grid_1">
+				<div class="box">
+					<p class="bebas large"> Certification</p>
+					<div class="block">
+    	                <ul>
+            	        <li><a href="http://www.seatadvisor.com/PCI/SeatAdvisor_PCI_2012_Certificate.pdf" target="_blank" class="grey">Level 1 PCI Certified</a></li>
+                    	</ul>
+					</div><!--end .block-->
+				</div><!--end .box -->
+                <div class="box">
+					<p class="bebas large"> Partners</p>
+					<div class="block">
+    	                <ul>
+        	            <li><a href="http://www.seatadvisor.com/about/partners.html" class="grey">SAP</a> &amp; <a href="http://www.seatadvisor.com/about/partners.html#business_obj" class="grey">Business Objects</a></li>
+                	    <li><a href="http://www.seatadvisor.com/about/partners.html#oracle" class="grey">Oracle</a></li>
+	                    <li><a href="http://www.seatadvisor.com/about/partners.html#netsuite" class="grey">NetSuite</a></li>
+                        <li><a href="http://www.seatadvisor.com/about/partners.html#cybersource" class="grey">CyberSource</a></li>
+                        <li><a href="http://www.seatadvisor.com/about/partners.html#ticketturnstyles" class="grey">Turnstyles Ticketing</a></li>
+
+                    	</ul>
+					</div><!--end .block-->
+				</div><!--end .box -->
+			</div><!-- end .grid_1 -->
+			<div class="grid_2">
+				<div class="box">
+					<p class="bebas large"> &nbsp;&nbsp;Twitter Feed</p>
+					<div class="block" style="padding: 0; text-align: left;">
+                         <div class="tweet-box">
+						<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+                        <script>
+                        new TWTR.Widget({
+                          version: 2,
+                          type: 'profile',
+                          rpp: 2,
+                          interval: 30000,
+                          width: 315,
+                          height: 150,
+                          theme: {
+                            shell: {
+                              background: '#302f34',
+                              color: '#999999'
+                            },
+                            tweets: {
+                              background: '#302f34',
+                              color: '#999999',
+                              links: '#acae1f'
+                            }
+                          },
+                          features: {
+                            scrollbar: false,
+                            loop: false,
+                            live: false,
+                            behavior: 'all'
+                          }
+                        }).render().setUser('seatadvisor').start();
+                        </script>
+                        </div><!--end tweetbox-->
+                       
+					</div><!--end .block-->
+				</div><!--end .box -->
+			</div><!-- end .grid_2 -->
+            			<div class="grid_2">
+				<div class="box">
+					<div class="block" style="padding: 0; text-align: left;">
+               <!--  Visitor Monitor HTML v4.00 (Website=- None -,Ruleset=My Invite Ruleset,Floating Chat=- None - -->
+<script type="text/javascript">
+  var _bcvma = _bcvma || [];
+  _bcvma.push(["setAccountID", "815739187695801833"]);
+  _bcvma.push(["setParameter", "InvitationDefID", "807898083296876763"]);
+  _bcvma.push(["pageViewed"]);
+  (function(){
+    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/815739187695801833/bc.vms4/vms.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+  })();
+</script>
+<noscript>
+<a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid/815739187695801833/bc.vmi?" border="0" width="1" height="1" /></a>
+</noscript>
+<div style="display: none; border: 1px solid black; background: white; font-family: Arial; font-size: 8pt; color: black;"><a href="http://www.boldchat.com" style="text-decoration: none; color: black;">Live chat</a> by BoldChat</div>
+<!-- / Visitor Monitor HTML v4.00 -->
+
+                       
+					</div><!--end .block-->
+				</div><!--end .box -->
+			</div><!-- end .grid_2 -->
+			
+			<div class="clear"></div>
+      </div><!-- end .wrapper -->
+</div><!-- end #mid-footer -->
+
+<!-- Bottom Footer
+================================================== -->
+   <div class="footer_btm">
+           	<div class="wrapper">
+                <p class="copyright">Copyright © 1999 - 2013 SeatAdvisor, Inc. All Rights Reserved</p>
+                <p class="footer_links"><a href="http://www.seatadvisor.com/sitemap.html" class="grey">Sitemap</a> | <a href="http://www.seatadvisor.com/resources.shtml" class="grey">Links</a> | <a href="http://www.seatadvisor.com/legal.html" class="grey">Legal Information</a> | <a href="http://www.seatadvisor.com/privacy.html" class="grey">Privacy Statement</a></p>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-1276999-1']);
+  _gaq.push(['_setDomainName', 'seatadvisor.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+              </div><!--end wrapper-->
+            </div><!--end .footer_btm-->
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-1276999-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+
+
+</body></html>
