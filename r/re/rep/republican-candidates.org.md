@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the republican-candidates.org privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112201936id_/http%3A//2012.republican-candidates.org/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republican-candidates.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501142142id_/http%3A//2016.presidential-election.info/Privacy-Policy) for the most accurate reproduction.*
 
-# 2012 Republican Presidential Candidates - Privacy Policy
+# 2016 Presidential Election | Privacy Policy
 
 ## Privacy Policy
 
@@ -20,4 +20,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 Under no circumstances would we divulge any information about any individual user to any third party.
 
-We are committed to conducting our website in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. This notice applies to all information collected from or submitted to republican-candidates.org. We will only collect personal information by lawful and fair means and readily make available our policies and practices relating to the management of personal information. If you have any questions, concerns, or comments about our privacy policy please feel free to contact us.
+We are committed to conducting our website in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. This notice applies to all information collected from or submitted to these websites. We will only collect personal information by lawful and fair means and readily make available our policies and practices relating to the management of personal information. If you have any questions, concerns, or comments about our privacy policy please feel free to contact us.
