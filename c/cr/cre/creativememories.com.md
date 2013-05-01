@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativememories.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230050446id_/http%3A//www.creativememories.com/Content/Policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativememories.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502004247id_/http%3A//creativememories.com/Content/Policies/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,8 @@ By phone: (800) 468-9335
 By e-mail: fieldservices@creativememories.com  
 By mail:  
 Creative Memories  
+Attn: Consultant Services  
+6401 8th Avenue South  
 PO Box 1839  
 St Cloud, MN 56302-1839
 
