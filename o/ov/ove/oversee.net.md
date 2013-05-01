@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oversee.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192008id_/http%3A//www.oversee.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oversee.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501172609id_/http%3A//oversee.net/privacy-policy) for the most accurate reproduction.*
 
 # Oversee.net - Privacy Policy
 
