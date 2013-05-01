@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212913id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083520id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for CarToq.com website and CarToq Facebook App | Cartoq - Honest Car Advice
 
@@ -96,4 +96,4 @@ This Notice may be changed by “CARTOQ” with or without notice to the user. T
 
 **Contact Us**
 
-If you have any questions or concerns about “CARTOQ’s” privacy policy or its implementation please contact us via email or at the following address: ****
+If you have any questions or concerns about “CARTOQ’s” privacy policy or its implementation please [contact us here](http://www.cartoq.com/contact-us/ "contact us") ****
