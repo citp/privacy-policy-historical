@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessfinancestore.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626171145id_/http%3A//www.businessfinancestore.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessfinancestore.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501055411id_/http%3A//businessfinancestore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Business Finance Store
+# Privacy Policy | Business Finance Store
 
 ## THE BUSINESS FINANCE STORE’S PRIVACY POLICY – A COMMITMENT TO YOUR PRIVACY
 
