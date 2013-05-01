@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quikr.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816011958id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikr.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501150404id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Quikr
 
