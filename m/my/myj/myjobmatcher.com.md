@@ -1,59 +1,35 @@
-> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230230711id_/http%3A//myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501161831id_/http%3A//www.myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : MyJobMatcher
+# Privacy Policy : MyJobMatcher.com
 
-### MYJOBMATCHER LIMITED PRIVACY POLICY
+[](https://web.archive.org/)
 
-("MyJobMatcher") is committed to preserving the privacy of all visitors to www.myjobmatcher.com ("the Site"). Please read the following privacy policy to understand how we use and protect the information that you provide to us.
+## Information Collection and Use
 
-We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorised access, use or disclosure as required by law in England.
+You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site, to use certain services, we may require you to create an account, or we may invite you to submit questions or comments or request information, subscribe to a newsletter, participate in surveys, questionnaires or contests, or message boards. Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, zip code and contact information. If you have created an account, you may opt to provide additional personally identifiable information in your profile such as your age, gender and employment information. Providing any additional personally identifiable information beyond what is required to create an account is optional. We may use your personally identifiable information to deliver certain services, products or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for services that you have used or that may be of interest to you, and improve the content and general administration of the Site.
 
-By registering or using this Site, you consent to the collection, use and transfer of your information under the terms of this policy. 
+## Cookies
 
-### INFORMATION THAT WE COLLECT FROM YOU
+We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Some advertisements that appear on this Site are delivered to you by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third party advertisers.
 
-When you visit or register on the Site you may be asked to provide certain information about yourself including your name, address, email address, telephone number, gender, role sought and availability. If you apply for jobs, the information you provide in any application form will also be stored. In addition, if you upload your CV or Resuméto the Site it will be stored on our server. We may also collect information about your usage of our Site, as well as information about you from e-mails or letters you send to us, or from e-mails you send in response to jobs advertised on our Site.
+## Aggregate Information
 
-### USE OF YOUR INFORMATION
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, search criteria and the domain names of our users' Internet Service Providers, and we may analyse these data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We also may collect aggregate labour statistics from public records. Such aggregate information is not linked to any personal information that can identify any individual person. We may use such aggregate information to analyse trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. We may share this aggregate information with third parties, including for various reasons related to our business to assist them in targeting advertisements to appropriate audiences.
 
-Your information will enable us to provide you with access to all parts of our Site and to supply our services, which include providing you with our newsletter, and to contact you where necessary. We will also use and analyse the information we collect so that we can administer, support, improve and develop our business, which may include contacting you to notify you of our current or future services.
+## Disclosure
 
-In particular, we may use your information to contact you for your views on our services and to notify you intermittently about important changes or developments to the Site or our services. Further, where you have consented, we might also use your information to let you know about other services that we offer which may be of interest to you and we may contact you by post, telephone or fax, as well as by e-mail.
+We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which MyJobMatcher.com participates or to a purchaser of all or substantially all of MyJobMatcher.com's assets to which this Site relates. Such successor entity shall be bound by the terms and conditions of this Privacy Policy.
 
-We retain all information and CVs and Resumés indefinitely. If you change your mind about being contacted in the future, please let us know or, if you would like us to delete your personal information or to remove a CV or Resumé that you have uploaded please either delete your details via your login or send an email to [info@myjobmatcher.com](mailto:info@myjobmatcher.com) and provide details of your request.
+## Links to Third Party Sites
 
-MyJobMatcher reserves the right to retain information that you have requested be deleted where there is a legitimate legal reason why such information or CV or Resumé should be retained by MyJobMatcher.
+The Site may provide links to other Web sites or resources over which MyJobMatcher.com does not have control ("External Web Sites"). Such links do not constitute an endorsement by MyJobMatcher.com of those External Web Sites. You acknowledge that MyJobMatcher.com is providing these links to you only as a convenience, and further agree that MyJobMatcher.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
 
-As strategic partner of sharediaries.com we will also automatically create a user account for you.
+## Security
 
-### DISCLOSURE OF YOUR INFORMATION
+We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. MyJobMatcher.com may use firewalls, internal restrictions, password protection, physical lock and key and other security measures to help prevent unauthorized access to your personally identifiable information.
 
-The information you provide to us will be held on computers solely owned by MyJobMatcher and ShareDiaries.
+## Contact
 
-By making an application for a Job using myjobmatcher.com or submitting your personal information to myjobmatcher.com, you consent to your personal information (including any sensitive personal information) being supplied to selected third parties engaged in recruitment or job advertising activities so that they may contact you with information and opportunities which may be of interest to you. Your information may be accessed by or given to our staff working within and outside the UK and the third parties specified above or to third parties whom we may use to provide part of our services and who may be located outside the European Economic Area. Selected third parties may upload your personal information to their databases as part of this process. By submitting your personal data, you agree to this transfer, storing and processing. We may also pass aggregate statistical information on the usage of our Site to third parties but this will not include information that can be used to identify you.
+All comments, queries and requests relating to our use of your information are welcomed and should be emailed to: [info@myjobmatcher.com](mailto:info@myjobmatcher.com)
 
-Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
-
-Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by our clients and recruiters in accordance with this policy.
-
-### COOKIES
-
-Cookies are small amounts of information which we store on your computer. Only one single cookie file will be stored on your computer for each MyJobMatcher website that you use i.e. all use of www.myjobmatcher.com equals one cookie file. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our Site. If you do not wish to receive cookies in the future, please let us know.
-
-### SECURITY
-
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage.
-
-### ACCESSING AND UPDATING
-
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us.
-
-### CHANGES TO OUR PRIVACY POLICY
-
-Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification.
-
-### CONTACT
-
-All comments, queries and requests relating to our use of your information are welcomed and should be emailed to: info@myjobmatcher.com
-
-Updated 8th May 2012
+Last updated 21st March 2013
