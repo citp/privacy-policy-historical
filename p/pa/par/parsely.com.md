@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parsely.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221110929id_/http%3A//parsely.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parsely.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501024408id_/http%3A//parsely.com/privacy.html) for the most accurate reproduction.*
 
-# Parse.ly | Insights for the web's best publishers.
+# Parse.ly | The authority in content measurement
 
 ### Parsely, Inc. Privacy Policy
 
