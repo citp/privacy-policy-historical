@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231105952id_/http%3A//www.three.com.au/cs/ContentServer%3Fc%3DPage%26pagename%3D3CA%252FPage%252F3CAStatic%26cid%3D1236150762414) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501185202id_/http%3A//www.three.com.au/cs/ContentServer%3Fc%3DPage%26pagename%3D3CA%252FPage%252F3CAStatic%26cid%3D1236150762414) for the most accurate reproduction.*
 
 # Privacy Policy - Three
 
