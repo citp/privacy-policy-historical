@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231140843id_/http%3A//www.shadygrovefertility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502013953id_/http%3A//www.shadygrovefertility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shady Grove Fertility Center
 
@@ -31,7 +31,7 @@ Shady Grove Fertility Center America, Inc. ATTN: Webmaster
 Shady Grove Fertility Reproductive Science Center  
 15001 Shady Grove Road, Suite 340  
 Rockville, MD 20850  
-(301) 340-1125
+888-761-1967
 
 Read our [Joint Notices of Privacy Practices](http://www.shadygrovefertility.com/sites/default/files/JointNoticeofPrivacyPractices_6_2011.pdf)
 
