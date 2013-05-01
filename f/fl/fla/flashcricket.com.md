@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashcricket.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501095645id_/http%3A//www.flashcricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcricket.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501234259id_/http%3A//www.flashcricket.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,7 +34,7 @@ From time to time we will ask you whether you wish to receive marketing material
 
 
 
-Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material relevant to the website on which you have registered your details. You will be specifically notified if this is the case and you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
+Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material. If this is the case you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
 
 ### What will we disclose to third parties?
 
@@ -145,9 +145,9 @@ The majority of adverts you see on IPC Media websites will have been placed by t
 
 You can find out more about this method of advertising by visiting these sites:
 
-[www.youronlinechoices.com/uk/your-ad-choices](http://www.ipcmedia.com/www.youronlinechoices.com/uk/your-ad-choices)   
-[www.google.com/ads/preferences/html/about.html](http://www.ipcmedia.com/www.google.com/ads/preferences/html/about.html)   
-[www.rubiconproject.com/transparency](http://www.ipcmedia.com/www.rubiconproject.com/transparency)   
+<http://www.youronlinechoices.com/uk/your-ad-choices>   
+<http://www.google.com/ads/preferences/html/about.html>   
+[http://www.rubiconproject.com/privacy](http://www.rubiconproject.com/privacy/)/   
 <http://www.grapeshot.co.uk/privacy.php>   
 <http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>   
 <http://collective.com/privacy>   
