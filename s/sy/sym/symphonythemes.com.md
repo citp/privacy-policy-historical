@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the symphonythemes.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809003137id_/http%3A//www.symphonythemes.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symphonythemes.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501115738id_/http%3A//www.symphonythemes.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Drupal themes, Drupal template, Drupal theme templates
+# Privacy policy | SymphonyThemes
 
 SymphonyThemes is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, [www.SymphonyThemes.com](http://www.symphonythemes.com/ "www.SymphonyThemes.com") on the World Wide Web (the "Site"), as well as for SymphonyThemes services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete SymphonyThemes Privacy Policy.
 
@@ -51,6 +51,6 @@ You are free to update your information at any time directly through our Site. A
 To change your information, or request that your information be changed, please use one of the following options:
 
   * Log in at <http://www.symphonythemes.com/user> and click on "Edit" link
-  * Send email to us at [privacy@symphonythemes.com](mailto:privacy@symphonythemes.com). Please note that this email address will reject messages with attachments of any kind. 
+  * Send email to us at [privacy@symphonythemes.com](mailto:privacy@symphonythemes.com). Please note that this email address will reject messages with attachments of any kind.
 
 
