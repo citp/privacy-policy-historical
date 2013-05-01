@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sigfig.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022185744id_/https%3A//www.sigfig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigfig.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501202229id_/https%3A//www.sigfig.com/privacy) for the most accurate reproduction.*
 
-# Sigfig :: Privacy Policy
+# SigFig :: Privacy Policy
 
 Nvest and SigFig ("we" or "us") are committed to protecting and respecting your privacy. This Privacy Policy sets out our policies and procedures for collecting, using and disclosing information provided to us by users of Wikinvest.com (“Wikinvest”), SigFig.com (“SigFig”, and, together with Wikinvest, the “Sites”), and our portfolio services on our partner sites (the “Partner Portfolio Trackers”). This Privacy Policy governs your use of our services and by clicking below, you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. For purposes of compliance with the Gramm-Leach-Bliley Act (the “GLB Act”), this Privacy Policy shall serve as both your initial and annual “privacy notice” as defined under the GLB Act.
 
