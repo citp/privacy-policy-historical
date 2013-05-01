@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023001819id_/http%3A//www.bullhorn.com/node/240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501141752id_/http%3A//www.bullhorn.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Bullhorn Privacy Statement | Bullhorn
+# Privacy Policy | Bullhorn
 
 Because customers entrust Bullhorn with important information/data, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
 
