@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filedefend.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119025250id_/http%3A//filedefend.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filedefend.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501032920id_/http%3A//filedefend.com/privacy-policy.html) for the most accurate reproduction.*
 
-# FileDefend - Secure File Hosting
+# Filedefend.com - Easy way to share your files
 
 Importance of your Privacy Policy
 
