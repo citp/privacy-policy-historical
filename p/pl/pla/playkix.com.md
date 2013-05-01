@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playkix.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192822id_/http%3A//www.playkix.com/pages/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkix.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501175102id_/http%3A//www.playkix.com/pages/2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PlayKix
 
