@@ -1,52 +1,93 @@
-> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919200432id_/http%3A//www.shots.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501222006id_/http%3A//www.shots.net/privacy) for the most accurate reproduction.*
 
 # shots | Creative Connections
 
 ### Privacy & Cookie Policy
 
-## Our Commitment To Your Privacy
+### 1\. Introduction
 
-Shots and EMAP are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of EMAP for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy "Who Else Will We Tell About You" section below. This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to EMAP in correspondence, by telephone or by other means not detailed in this Policy. 
+1\. This Privacy and Cookies Policy sets out the privacy policy of Media Business Insight Limited, Company Number 8248880 (England) whose registered address is c/o Top Right Group Limited, The Prow, 1 Wilder Walk, London W1B 5AP (”MBI”), who controls this website. For the purpose of the Data Protection Act, the data controller is Media Business Insight Limited. 
 
-## Why We Need To Collect Information From You
+2\. MBI is committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how MBI will use personal information about you that is submitted to MBI. 
 
-We will notify you as to the types of information we are collecting about you as well as the uses we intend to make of that information. We may use the information we collect about you to notify you from time to time about important new features and changes to our online services or special offers, competitions or promotions we think you'll find of interest. 
+3\. By providing your personal information to MBI, you consent to the collection and use of it and any other information provided to MBI in accordance with this Privacy Policy. If at any time you wish to change the uses of your personal information to which you have consented, please contact us at security@mb-insight.com. 
 
-## Who Else Will We Tell About You?
+4\. MBI may revise this Privacy Policy at any time by posting an update on its website(s). Please ensure that you check this website and any other MBI website(s) you use from time to time to review the then current Privacy Policy and to update your preferences. This Privacy and Cookies Policy was last updated in January 2013.
 
-Subject to what we say below, we will not pass on your personal details to any third party, including site sponsors or advertisers, without your consent. We may provide aggregate statistics about our users, sales, traffic patterns and related site information to our third-party partners (if any), but these statistics will not contain any information about you from which you could be identified. If you enter any competitions on this Web site it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving. Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world. Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if shots or EMAP acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with shots despite a change of ownership. We may also need to provide your data to our subscription and other fulfilment agents in order to provide goods or services to you. Finally, EMAP is not responsible for all of the web sites that are referred to, or linked to, in this Web site. When you visit these other web sites your personal information might be used by others in ways that do not conform to the terms of this Policy. 
+###  2\. Collection of Personal Information
 
-## Security and possibility of international transfer.
+1\. The types of personal information collected and stored by MBI might include your name, date of birth, e-mail address, postal address, telephone number, fax number and credit/debit card details (to the extent permitted by the Data Protection Act 1998 and related legislation (“the DPA”). 
 
-Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but we always demand that those parties to whom we transfer data adhere to the same security procedures that we follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information. 
+2\. MBI (or any of its sub-contractors) may collect personal information about you in the following ways: 
 
-## The Use Of 'Cookies'
+a. any data which you provide when you complete and submit an application to MBI to register on its website(s) or receive email alerts or other communications from MBI; 
 
-When you visit an EMAP website(s), EMAP uses “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about your use of the website. A number of cookies EMAP use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer. EMAP use cookies to:
+b. any data that you provide via postings to forums and blogs and any other posting that you make to a MBI website (in such circumstances the information posted by you will, of course, also be available to users of the website throughout the world); 
 
-  * create a specific log-in session for a visitor to an EMAP website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
+c. during any transaction with us; and 
 
+d. any other data which you provide to MBI when you enquire about our activities, email, telephone or write to us or otherwise provide us with personal information. 
 
-  * recognise when a visitor to an EMAP website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
+3\. MBI (or any of its sub-contractors) may also receive information about you from third parties, for example a friend who wants to tell you about one of our websites.
 
+###  3\. Storage and retention of your information
 
-  * customise elements of the promotional layout and/or content of the pages of the website;
+1\. MBI will keep your information on a secure server. The technology that MBI uses and the security policies which MBI has implemented are intended to safeguard your information from unauthorised access and improper use. 
 
+2\. MBI will keep your information (to the extent permitted by the DPA) to enable MBI to use it for the purposes described in this Privacy Policy. 
 
-  * store your product selections to the shopping basket;
+###  4\. Use of Your Information
 
+1\. MBI may use your personal information (subject in each case to the requirements of the DPA) for the following purposes: 
 
-  * collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors; and
+personal information about you in the following ways: 
 
+a. administering your website account(s) and otherwise in connection with any service for which you have provided your information, including any email alerts, transactions with us and competitions and promotions that you take part in; 
 
-  * gather information through our advertising partners, about the pages on the EMAP website(s) that you visit, and also other information about other websites that you visit, so as to place you in a “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+b. responding to any enquiry you make; 
 
+c. subject to your consent, sending you newsletters and/or alerts and information regarding MBI's or any third party's future services (in all formats to which you have consented eg post, email, text); and 
 
+d. for generating aggregated statistics about users, traffic patterns etc of the MBI website(s) and other services and developing MBI's marketing plans. 
 
-Some of the cookies used by EMAP websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an EMAP website(s) you may not be able to take full advantage of the website(s) if you do so.   
+2\. MBI may also disclose your information (subject in each case to the requirements of the DPA) as follows: 
 
+personal information about you in the following ways: 
 
-a) _Our cookies_  
+a. if you have given your consent for MBI to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email; 
+
+b. to any service providers, sub-contractors and agents appointed by MBI to perform the above functions on its behalf and in accordance with its instructions; 
+
+c. to third parties selected by MBI as part of aggregated and anonymised statistics about users, traffic patterns etc of the MBI website(s);   
+d. to such individuals and/or bodies as necessary to ensure MBI's compliance with any applicable law, regulation, legal proceeding or governmental request; 
+
+e. (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Terms & Conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of MBI and its customers), to any relevant authority or third party requiring MBI to disclose the identity of or locate anyone posting such material on an MBI website; and 
+
+f. to any individual making a subject information request to MBI.
+
+3\. In the event that MBI (or a relevant part of MBI) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant MBI business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom MBI is negotiating such a sale/merger as part of the verification exercise carried out on MBI by the third party. 
+
+4\. In processing your information in accordance with the above, MBI may (to the extent permitted by the DPA) send it outside the European Economic Area (“EEA”). MBI will take all reasonable steps to ensure that in such circumstances your data is treated securely and in accordance with this Privacy Policy but your attention is drawn to the fact that the laws of countries outside the EEA may provide lesser protection to your information than the UK. When you submit your personal information to MBI you consent to the transfer of your information outside the EEA unless you specifically indicate otherwise.
+
+###  5\. Cookies
+
+When you visit a MBI website(s), MBI uses “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies MBI use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer. 
+
+MBI use cookies to:
+
+• create a specific log-in session for a visitor to a MBI website in order that page requests by that visitor are delivered in an effective, secure and consistent manner; 
+
+• recognise when a visitor to a MBI website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;   
+• customise elements of the promotional layout and/or content of the pages of the website; 
+
+• store your product selections to the shopping basket;   
+• collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors; and 
+
+• Gather information through our advertising partners, about the pages on the MBI website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.co.uk or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.   
+Some of the cookies used by MBI websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on a MBI website(s) you may not be able to take full advantage of the website(s) if you do so. 
+
+###  7\. Our cookies 
+
 We have described the main cookies we use and what we use these for below: 
 
   
@@ -68,7 +109,8 @@ shotsCookie
 
 Cookie stored when logging in and ticking the “Remember me?” checkbox. Auto logins the user the next time he access the website in the next 2 weeks  
   
-b) _Third party cookies_  
+###  8\. Third party cookies 
+
 Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
 
   
@@ -88,7 +130,7 @@ JEBD2
 
 | 
 
-Adtech is EMAP's online ad server used for serving and tracking advertisements across the EMAP websites
+Adtech is Media Business Insight Limited online ad server used for serving and tracking advertisements across the Media Business Insight Limited websites
 
 | 
 
@@ -131,13 +173,16 @@ We use Twitter to display the “Latest Tweets” of @shotsmag. These are cookie
 
 [Twitter Privacy Policy](http://twitter.com/privacy)  
   
-In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.  
+### 6\. Third Party Websites
 
+Please be aware that MBI does not control and is not responsible for websites that are referred to or linked from its own websites and that use of your personal information on these websites is not subject to this Privacy and Cookies Policy.
 
-## Feedback, Comments & Suggestions
+###  7\. Registration
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us: Our address is Shots, Greater London House, Hampstead, Road , London, NW1 7EJ 
+1\. To access certain parts of the MBI websites, MBI may require you to register and provide certain information about yourself. 
 
-## Finally
+2\. You are reminded that in addition to the provisions of this Privacy and Cookies Policy, where you register you also agree to: 
 
-If you do not agree with this Privacy Policy you should not submit your personal information on this website. Please refer to the sites [Terms & Conditions](http://www.shots.net/terms-conditions) Of Use 
+a. provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and 
+
+b. maintain and promptly update the Registration Data to keep it fully up to date.
