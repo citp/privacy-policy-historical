@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006021629id_/http%3A//www.fortnumandmason.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501110921id_/http%3A//www.fortnumandmason.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,7 +83,7 @@ We reserve the right to revise this Privacy Statement or any part of it from tim
 
 ### How to Contact us
 
-If you have any questions or concerns about this Privacy Statement or how we use your Personal Information you may contact us by email at [marketing@fortnumandmason.co.uk](mailto:marketing@fortnumandmason.co.uk). If at any time you decide that you no longer wish us to hold or use any of your Personal Information or wish to change the use to which your Personal Information can be put, please let us know by emailing us at [marketing@fortnumandmason.co.uk](https://web.archive.org/web/20121006021629id_/http%3A//www.fortnumandmason.com/marketing@fortumandmason.co.uk "Silver")
+If you have any questions or concerns about this Privacy Statement or how we use your Personal Information you may contact us by email at [marketing@fortnumandmason.co.uk](mailto:marketing@fortnumandmason.co.uk). If at any time you decide that you no longer wish us to hold or use any of your Personal Information or wish to change the use to which your Personal Information can be put, please let us know by emailing us at [marketing@fortnumandmason.co.uk](https://web.archive.org/web/20130501110921id_/http%3A//www.fortnumandmason.com/marketing@fortumandmason.co.uk "Silver")
 
 ### Controller of Your Information
 
