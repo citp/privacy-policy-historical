@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015015708id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501081605id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
@@ -9,54 +9,60 @@
     * [Laundry & dishwashers](http://www.currys.co.uk/gbuk/household-appliances/laundry-dishwashers-332-c.html)
     * [Refrigeration](http://www.currys.co.uk/gbuk/household-appliances/refrigeration-333-c.html)
     * [Cooking](http://www.currys.co.uk/gbuk/household-appliances/cooking-335-c.html)
-    * [Feature]()
+    * [Clearance - Large kitchen appliances](http://www.currys.co.uk/gbuk/clearance-kitchen-appliances-502-commercial.html)
+    * Feature
   * [**Built-in Appliances**](http://www.currys.co.uk/gbuk/built-in-appliances-60-u.html)
     * [Built-in cooking](http://www.currys.co.uk/gbuk/built-in-appliances/built-in-cooking-231-c.html)
     * [Integrated laundry](http://www.currys.co.uk/gbuk/built-in-appliances/integrated-laundry-210-c.html)
     * [Integrated refrigeration](http://www.currys.co.uk/gbuk/built-in-appliances/integrated-refrigeration-211-c.html)
-    * [Integrated Dishwashers](http://www.currys.co.uk/gbuk/dishwashers/230_3801_31493_xx_xx/xx-criteria.html)
-    * [Feature]()
+    * [Integrated Dishwashers](http://www.currys.co.uk/gbuk/built-in-appliances/integrated-dishwashers/dishwashers/230_3801_31493_xx_xx/xx-criteria.html)
+    * Feature
   * [**Small Appliances**](http://www.currys.co.uk/gbuk/home-appliances-36-u.html)
     * [Floorcare](http://www.currys.co.uk/gbuk/home-appliances/vacuum-cleaners-337-c.html)
-    * [Microwaves](http://www.currys.co.uk/gbuk/household-appliances/cooking/microwaves-3152-m.html)
+    * [Microwaves](http://www.currys.co.uk/gbuk/household-appliances/cooking/microwaves/335_3152_32014_xx_xx/xx-criteria.html)
     * [Small kitchen appliances](http://www.currys.co.uk/gbuk/household-appliances/small-kitchen-appliances-336-c.html)
     * [Ironing](http://www.currys.co.uk/gbuk/home-appliances/ironing-338-c.html)
     * [Health & beauty](http://www.currys.co.uk/gbuk/home-appliances/health-beauty-341-c.html)
     * [Fans & Heaters](http://www.currys.co.uk/gbuk/home-appliances/fans-air-conditioning-340-c.html)
-    * [Feature]()
+    * [Clearance - Small kitchen appliances](http://www.currys.co.uk/gbuk/clearance-household-appliances-1846-commercial.html)
+    * Feature
   * [**TV & Entertainment**](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray-31-u.html)
     * [Televisions](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/televisions-301-c.html)
     * [TV accessories](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/tv-accessories-302-c.html)
     * [DVD, Blu-ray & home cinema](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/dvd-blu-ray-home-cinema-303-c.html)
     * [Digital set top boxes](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/digital-tv-services-304-c.html)
-    * [Gaming]()
-    * [Feature]()
+    * Gaming
+    * [Clearance - TV, DVD & Blu-ray](http://www.currys.co.uk/gbuk/clearance-tv-dvd-blu-ray-1865-commercial.html)
+    * Feature
   * [**Cameras**](http://www.currys.co.uk/gbuk/cameras-38-u.html)
     * [Cameras](http://www.currys.co.uk/gbuk/cameras/digital-cameras-344-c.html)
     * [Camcorders](http://www.currys.co.uk/gbuk/cameras/digital-camcorders-347-c.html)
-    * [Bags and cases](http://www.currys.co.uk/gbuk/cameras/accessories/cases-3205-m.html)
-    * [Accessories](http://www.currys.co.uk/gbuk/cameras/accessories-346-c.html)
-    * [Digital Photo Frames](http://www.currys.co.uk/gbuk/digital-photo-frames/349_3219_30321_xx_xx/xx-criteria.html)
-    * [Feature]()
+    * [Bags, cases and straps](http://www.currys.co.uk/gbuk/cameras/accessories/cases-3205-m.html)
+    * [Memory Cards & Readers](http://www.currys.co.uk/gbuk/cameras/accessories/memory-cards-readers-3295-m.html)
+    * [Photography accessories](http://www.currys.co.uk/gbuk/cameras/accessories-346-c.html)
+    * [Binoculars & telescopes](http://www.currys.co.uk/gbuk/cameras/accessories/binoculars/346_3797_31507_xx_xx/xx-criteria.html)
+    * Feature
   * [**Audio & Phones**](http://www.currys.co.uk/gbuk/audio-32-u.html)
-    * [Wireless audio]()
+    * Wireless audio
     * [Hi-Fi & speaker docks ](http://www.currys.co.uk/gbuk/audio/hi-fi-speaker-docks-290-c.html)
     * [Headphones](http://www.currys.co.uk/gbuk/audio/headphones/headphones-3919-m.html)
     * [iPods](http://www.currys.co.uk/gbuk/audio/ipods-306-c.html)
     * [Portable audio](http://www.currys.co.uk/gbuk/audio/portable-audio-313-c.html)
-    * [Dictation](http://www.currys.co.uk/gbuk/dictation/312_3041_30041_xx_xx/xx-criteria.html)
+    * [Dictation](http://www.currys.co.uk/gbuk/audio/dictation/dictation/312_3041_30041_xx_xx/xx-criteria.html)
     * [Radios](http://www.currys.co.uk/gbuk/audio/radios-309-c.html)
-    * [Phones & Broadband]()
+    * Phones & Broadband
     * [Sat Nav ](http://www.currys.co.uk/gbuk/phones-broadband-gps/sat-nav-systems-403-c.html)
-    * [Feature]()
+    * [Mobile Phone Accessories](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phone-accessories/362_3413_32042_xx_xx/xx-criteria.html)
+    * [Clearance - Audio](http://www.currys.co.uk/gbuk/clearance-audio-1886-commercial.html)
+    * Feature
   * [**Computing**](http://www.currys.co.uk/gbuk/computing-33-u.html)
     * [Laptops](http://www.currys.co.uk/gbuk/computing/laptops-315-c.html)
-    * [Netbooks](http://www.currys.co.uk/gbuk/computing/netbooks-316-c.html)
     * [iPad, tablets and eReaders](http://www.currys.co.uk/gbuk/computing/ipad-tablets-and-ereaders-149-c.html)
     * [Desktop PCs](http://www.currys.co.uk/gbuk/computing/desktop-pcs-317-c.html)
     * [Monitors and projectors](http://www.currys.co.uk/gbuk/computing/monitors-and-projectors-354-c.html)
     * [Computing Accessories](http://www.currys.co.uk/gbuk/computing-accessories-40-u.html)
-    * [Feature]()
+    * [Clearance - Computing](http://www.currys.co.uk/gbuk/clearance-refurb-computing-1887-commercial.html)
+    * Feature
   * [**Clearance**](http://www.currys.co.uk/gbuk/clearance-refurb-computing-1887-commercial.html)
     * [Household Clearance](http://www.currys.co.uk/gbuk/clearance-household-appliances-1846-commercial.html)
     * [Gaming Clearance](http://www.currys.co.uk/gbuk/clearance-gaming-1848-commercial.html)
@@ -72,6 +78,18 @@
 Browse Services __
 
 ## Privacy & Cookies
+
+  * What are Cookies?
+  *  
+  * Currys & Cookies
+  *  
+  * Cookie Control
+  *  
+  * Advertising
+  *  
+  * Privacy on Currys
+
+
 
 ### The Ingredients of a Cookie
 
@@ -189,6 +207,11 @@ No personal information is held in any of these cookies.
 Reevoo | Info TBD  
 ISTTrack | This cookie is from one of our approved suppliers called IS Technology used to identify a particular user/browser. The cookie persists for 30 days and only contains a randomly generated GUID (Globally unique identifier). This cookie is dropped on a customer’s computer when they interact with certain product links.  
 session | A session ID cookie that expires after 20 minutes if your web browser is not closed. By storing your session, we can maintain your basket and its contents for longer during a session.  
+AD2ONE | We use DoubleClick (Google) for the use of the DART cookie which enables it to serve ads to our users based on their visit to the site and other sites on the Internet. DoubleClick Retargeting & Optimisation Cookies allows for retargeting and exclusion of ads, as well as allowing for optimisation of campaigns through tracking conversions and expires after 30 days. 
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+Click [here](http://www.google.co.uk/intl/en/policies/privacy/) for the Google privacy policy.  
   
 These are all the cookies currently used by our website and our approved suppliers. Hopefully it is clear that all of our cookies are used ultimately to improve the journey for our customers online or to help us present a better website experience online. 
 
