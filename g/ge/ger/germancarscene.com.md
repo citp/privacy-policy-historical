@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the germancarscene.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919233741id_/http%3A//germancarscene.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germancarscene.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501061221id_/http%3A//germancarscene.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - German Car Scene
 
@@ -6,6 +6,8 @@
 
 Posted on 14th March, 2009 by admin  
 Filed in | [Leave a comment](http://germancarscene.com/privacy-statement/#comments)
+
+[](http://www.hupso.com/share/)
 
 Please read this statement regarding our blogs. If you have questions please contact us.
 
