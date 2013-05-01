@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resaas.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620070240id_/http%3A//corporate.resaas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resaas.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084238id_/http%3A//corporate.resaas.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - RESAAS
+# Privacy Policy RESAAS
 
 RESAAS Services Inc. (“RESAAS” or “we,” “us” or “our”) takes your privacy seriously. We are committed to giving you transparency of our privacy practices and control over your data in connection with RESAAS””s service offering (“Service” or “Site”)..
 
