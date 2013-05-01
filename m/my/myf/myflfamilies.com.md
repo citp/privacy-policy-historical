@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myflfamilies.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223221723id_/http%3A//myflfamilies.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflfamilies.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501025929id_/http%3A//myflfamilies.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Florida Department of Children & Families
+# Privacy Statement | Florida Department of Children and Families
 
 Thank you for visiting the MyFlFamilies.com Web site. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit the MyFlFamilies.com Web site, unless you affirmatively choose to make such information available to us. 
 
