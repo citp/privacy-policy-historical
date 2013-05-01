@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230231943id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501110354id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
 
-# RomanceStuck Privacy Policy
+# RomanceStuck Privacy Policy | ♥ RomanceStuck.com
 
-**You are here:[RomanceStuck](http://www.romancestuck.com/) > Privacy Policy**
+  
+
 
 To protect your privacy, **RomanceStuck** has instituted policies that give you information and control.
 
@@ -27,9 +28,3 @@ For specific privacy policies for other **RomanceStuck** services offered via ot
 **UNDER NO CIRCUMSTANCES WILL ROMANCESTUCK SHARE YOUR EMAIL ADDRESS WITH A THIRD PARTY.**
 
 If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can contact: [webmaster@romancestuck.com](http://www.romancestuck.com/contactus.php)
-
-  
-
-
-To link to this page, copy the following code to your site:  
-
