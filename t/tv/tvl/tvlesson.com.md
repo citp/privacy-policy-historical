@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvlesson.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230202656id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlesson.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082538id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.*
 
 # How to Videos on TVLesson | Instructions, Tutorials
 
