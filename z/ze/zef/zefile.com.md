@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the zefile.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628192304id_/http%3A//zefile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zefile.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501224014id_/http%3A//zefile.com/privacy.html) for the most accurate reproduction.*
 
-# ZeFile.com - Online File Storage: Protect Your Files - Easy backup your data
+# ZeFile.com - Online File Storage: Protect Your Files
 
 ## Privacy Policy
 
-LumFile.com is a provider of online file storage service. Your use of the www.lumfile.com site is governed by LumFile Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website. 
+ZeFile.com is a provider of online file storage service. Your use of the www.zefile.com site is governed by ZeFile Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website. 
 
-LumFile.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate. 
+ZeFile.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate. 
 
 **Your information during the registration**
 
-LumFile.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. LumFile.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
+ZeFile.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. ZeFile.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
 
 **Your account password**
 
-Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving LumFile.com site. You are solely responsible for keeping your password inviolable. 
+Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving ZeFile.com site. You are solely responsible for keeping your password inviolable. 
 
 **Certain exceptional disclosures**
 
@@ -32,7 +32,7 @@ Do not use the same premium download account at the same time on other computers
 
 **Using cookies**
 
-LumFile.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie. 
+ZeFile.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie. 
 
 We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies. 
 
@@ -44,18 +44,18 @@ In case of serving advertisements to this site, our third-party advertiser may p
 
 You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing linklists or file download links. 
 
-If you want to change any personal information provided to us, feel free to [contact us](http://lumfile.com/support/).. 
+If you want to change any personal information provided to us, feel free to [contact us](http://zefile.com/support).. 
 
 **How we protect your information**
 
-Any information collected and processed within LumFile.com is treated with the utmost confidentiality. LumFile.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to LumFile.com with VeriSign 256-bit SSL certificate. 
+Any information collected and processed within ZeFile.com is treated with the utmost confidentiality. ZeFile.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to ZeFile.com with VeriSign 256-bit SSL certificate. 
 
 Automated and scheduled backups of your files make the service secure and safe for you. 
 
 **Credit card security**
 
-All purchases on LumFile.com are handled by third party payment systems: PayPal.com, CCBill.com, etc. LumFile.com does not arrange and/or save numbers or any information from your credit cards. 
+All purchases on ZeFile.com are handled by third party payment systems: PayPal.com, CCBill.com, Visa.com, etc. ZeFile.com does not arrange and/or save numbers or any information from your credit cards. 
 
 **Contact information**
 
-Should you have any questions or concerns regarding this Privacy Policy, please [contact us](http://lumfile.com/support/). 
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](http://zefile.com/support). 
