@@ -1,65 +1,46 @@
-> *The following text is extracted and transformed from the needle.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615010414id_/http%3A//www.czplatinum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needle.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501111413id_/http%3A//needle.com/privacy.html) for the most accurate reproduction.*
 
-# Cubic Zirconia, cz jewelry by czplatinum.com
+# Privacy Policy
 
-**The Information We Need to Process Your Order**
+Needle.com is committed to protecting your privacy online. In order to fully understand your rights, please read this privacy statement before using the Needle.com website (the "Site"), or Needle Facebook App (the “App”) which includes any link to a manufacturers site that is partnered with Needle.com.
 
-You explicitly provide information via:
+### When does Needle.com collect personally identifiable information?
 
-  * New Account Form or Contact with Customer Service
+ **Needle.com gathers information from visitors in multiple ways:**
 
-\- To process your order, we require your name, phone number, billing address, email address, shipping address and credit card information.  
-\- We only use this information to create your account and/or to process your order. If any questions arise about your order we will contact you first by email and then, if necessary, by phone.  
-\- We share only necessary information with the third parties that are involved in the order process, such as the financial institution that issued your credit card, the shipping carrier and Czplatinum customer service representatives. (NOTE: We would be obligated to disclose individual personal information if Czplatinum  were to be subpoenaed or ordered by a court of law.)
-
-We Automatically Collect 
-
-  * Shopper ID
-
-\- Upon visiting our site, we assigned you a unique Shopper ID in the form of a cookie. We use this ID to keep track of your shopping basket during your visit and to identify you as a repeat visitor.  
-\- If you would rather not be identified as a repeat visitor, we recommend that you disable the cookie support in your browser.
-
-  * Internet Protocol (IP) Address
-
-\- We record your IP address each time you visit Czplatinum  Recording IP addresses helps us determine usage and traffic patterns.
-
-Other Information We Collect
-
-  * Feedback Form
-
-\- Should you contact us through our feedback form, we require your name and email address only to send you a reply.  
-\- If you use the form to send comments about your shopping experience at Czplatinum , we may include the comment with your name in our [Customer Testimonials](https://web.archive.org/web/20050615010414id_/http%3A//www.czplatinum.com/testimonial.asp) section.
-
-  * Email Newsletter," "Email Special Offers" and "Catalog" Sign-up Features
-
-\- Should you participate in these services we will only use the information you provide to promote Czplatinum  services and products.  
-\- We will not share any personal information with third parties. 
-
-**Sharing**
-
-  * Personal Information is Not Shared
-
-Aside from the previously mentioned third parties involved in the processing of your order, we do not share your personally identifiable information with any other entities without your express permission. 
-  * External Links
-
-Our site may include links to other sites. If you decide to follow these links, we are not responsible for the privacy policies and content of these sites. Generally, we will inform you of these links.
-
-**Your Consent**  
-By using our website, you consent to the usage and collection of this information. If we decide to alter our privacy policy, these changes will be posted on this page so that you will always be informed about what information is collected, how it is used, and under what circumstances it will be disclosed.
-
-**Contacting Us**
-
-  * Account Changes and Deletions 
-    * Changes
-
-\- If you created an account and would like to change your account, please call Customer Service toll-free at 1 (866) Czplatinum  or send an email with your changes to [customerservice@](mailto:customerservice@czplatinum.com)Czplatinum [.com](mailto:customerservice@czplatinum.com) and include the email address with which you registered. We will send a confirmation request to that email address and after receiving your reply, will update your account within 48 hours. 
-
-    * Deletions
-
-If you created an account and would like to delete your account, please send an email to [customerservice@](mailto:customerservice@czplatinum.com)Czplatinum [.com](mailto:customerservice@czplatinum.com) and include the email address with which you registered. We will send a confirmation request to that email address and upon receiving your reply, delete your account. 
-
-  * If you have any questions or comments regarding this statement, please contact[ customerservice@](mailto:customerservice@czplatinum.com)Czplatinum [.com.](mailto:customerservice@czplatinum.com) If your inquiry has not been responded to or satisfactorily addressed.
+  * Registration
+  * Cookie Technology
+  * IP Address
+  * Participation in the services available on the Site
 
 
 
-[HOME](https://web.archive.org/web/20050615010414id_/http%3A//www.czplatinum.com/default.asp)
+**Registration.** When you register at the Site, we collect information, which allows us to identify you. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences.
+
+**Cookie Technology.** We use cookies to store and track your preferences to provide you with a more customized experience. A cookie is a message that is sent to your browser from a web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services and you may be required to repeatedly type in certain information. Cookies make your experience easier by saving preferences and passwords. We also use cookies that contain no personal information at all. These cookies help us estimate our web traffic, determine which areas of the Site are the most popular, and deliver relevant messages.
+
+**IP Address.** We may also log IP addresses for the purpose of systems administration or to report information in aggregate form to third parties (e.g., how many visitors logged in to our Site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular web page in the Site, our servers log your IP address. We do not link your IP address to anything personally identifiable.
+
+### How is personally identifiable information used?
+
+**Customized Look and Feel.** Needle.com gathers information to provide you with an effortless experience. For instance, your personal information enables us to greet you when you return to our Site and to provide you with your specified preferences (e.g., Site look and feel and preferred categories and content).
+
+**Email.** If you register with our Site, from time to time, we may email you with informative messages about our services we believe may be of interest to you.
+
+### With whom does Needle.com share information?
+
+We will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. In addition, we will comply with the request for your personal information from any law enforcement or regulatory agency or when any applicable law, regulation, or legal process requires it. We also may disclose aggregated data derived from the information you and other visitors provide. Please keep in mind that aggregate data is not traceable to you specifically. Please note, however, that we do not control the privacy policies of third party sites to which we provide links. If you click-through a link on our Site and submit your information to another entity, you will be subject to their own privacy policies. We assume no responsibility or liability for these third party privacy policies.
+
+### What are my options to control the use of personal information?
+
+Most browsers can be configured to reject cookies or alert you when cookies are being sent. You may cancel your registration to Needle.com and/or request the removal of your personal information from our visitor records by sending an email to support@needle.com. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for a commercial purpose. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the Site blocked.
+
+### What else should I know about my privacy?
+
+You should be aware that if you voluntarily disclose personal information online in a public area, that information might be viewed and used by others. Please remember that you are solely responsible for maintaining the secrecy of any password you use on the Site.
+
+### Acceptance of Privacy Policy
+
+By using the Site, you accept this privacy statement. If you do not agree with this privacy statement, do not use the Site. We reserve the right to modify this privacy statement from time to time. Your continued use of any portion of the Site, following notification or posting of such changes, will constitute your acceptance of those changes. If you have questions or concerns about our specific policies, please send an email to [support@needle.com](mailto:support@needle.com)
+
+* * *
