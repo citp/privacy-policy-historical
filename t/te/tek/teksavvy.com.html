@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teksavvy.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231004814id_/http%3A//www.teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teksavvy.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501213133id_/http%3A//www.teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="dyn contents js canvas canvastext hashchange draganddrop rgba borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio applicationcache"><head> 
     <meta charset="utf-8">
@@ -29,6 +29,7 @@ _gaq.push(["_trackPageview"]);
 </script>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="canonical" href="http://teksavvy.com/en/why-teksavvy/policies/privacy-policy">
 
 
     <script>(function(d){d.className="dyn"+d.className.substring(6,d.className.length);})(document.documentElement);</script> 
@@ -105,8 +106,23 @@ select
     $(".regionLink").click(function () {
         var code = $(this).attr("id");
         $.cookie('regionId', code, { path: '/', expires: 30 });
+        eraseCookie("products");
+        eraseCookie("qualification");
         window.location.reload(true);
     });
+
+    function eraseCookie(name) {
+        createCookie(name, "", -1);
+    }
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else var expires = "";
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
 </script>
 </article><article class="widget-header widget-language-menu widget">
         <a id="LanguageToggle" href="../../../fr/why-teksavvy/policies/politique-sur-la-protection-des-renseignements-personnels">Français </a>
@@ -180,6 +196,7 @@ select
 <a class="active" href="/en/why-teksavvy/policies">Policies</a>            <ul id="internet-sub">
                     <li><a href="/en/why-teksavvy/policies/website-terms-of-use">Website Terms of Use</a></li>
                     <li><a href="/en/why-teksavvy/policies/internet-traffic-management-practices">Internet Traffic Management Practices</a></li>
+                    <li><a href="/en/why-teksavvy/policies/on-qc-dsl-change-of-service-fees">ON/QC DSL Change of Service Fees</a></li>
                     <li><a href="/en/why-teksavvy/policies/terms-and-conditions">Terms and Conditions</a></li>
                     <li><a href="/en/why-teksavvy/policies/acceptable-use-policy">Acceptable Use Policy</a></li>
                     <li><a href="/en/why-teksavvy/policies/privacy-policy">Privacy Policy</a></li>
