@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wormly.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101103221id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wormly.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501114245id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,12 +9,12 @@
 
 	
 	
-			<link rel="stylesheet" type="text/css" href="/css/all.31337.css">
+			<link rel="stylesheet" type="text/css" href="/css/all.32443.css">
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jsb/wormly.31337.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jsb/wormly.32442.js"></script>
 <script type="text/javascript">
 				// <![CDATA[
-				function AlbassInit() { new AlbCtxHlp(0);WormlyTip.init();new WormlyKeyboard('general', '').start(); } $(document).ready(AlbassInit);
+				function AlbassInit() { new AlbCtxHlp(0);WormlyTip.init();new WormlyKeyboard('general').start();var filler = new WormlyFiller();var storage = new WormlyStorage(window.localStorage);var topHosts = $('#top-hosts-container');new WormlyQSB($('#top-hosts-link'),topHosts,'',filler,storage);var sqbPrinter = new WormlySearchPrinterQSB(filler, topHosts.find('.contacts'), topHosts.find('.sensors'));new WormlySearcher($('#top-hosts-container input'),$('#top-hosts-container .hosts'),sqbPrinter); } $(document).ready(AlbassInit);
 					//]]>
 					</script>
 
@@ -238,6 +238,7 @@ industry-standard 128-bit or 256-bit SSL encryption.</p>
 </div>
 
 	</div>
+
 	</div>
 
 	<div id="legend-modal" class="modal">
@@ -245,8 +246,8 @@ industry-standard 128-bit or 256-bit SSL encryption.</p>
 		<div class="column">
 			<b>Site-wide shortcuts</b>
 			<dl>
-				<dt>j, j</dt>
-				<dd>Jump to any host</dd>
+				<dt>/</dt>
+				<dd>Search</dd>
 			</dl>
 			<dl>
 				<dt>j, h</dt>
@@ -295,8 +296,8 @@ industry-standard 128-bit or 256-bit SSL encryption.</p>
 				<li class="title">Documentation</li>
 				
 				<li><a href="/answers">FAQ Search</a></li>
-				<li><a href="/help">White Papers</a></li>
-				<li><a href="/help/sensors/">Sensors</a></li>
+									<li><a href="/help/sensors/">Sensors</a></li>
+								<li><a href="/help">White Papers</a></li>
 				<li><a href="/help/performance-monitoring/">Health Monitoring</a></li>
 		
 			</ul>
@@ -318,20 +319,48 @@ industry-standard 128-bit or 256-bit SSL encryption.</p>
 				<li><a href="/support">Contact Us</a></li>
 				<li><a href="/help/about/terms-of-service">Terms of Use</a></li>
 				<li><a href="/help/about/privacy">Privacy Policy</a></li>
-									<li class="legal">© 2012 Wormly</li>
+									<li class="legal">© 2013 Wormly</li>
 					<li class="legal">All Rights Reserved</li>
 							</ul>
 			</div>
 		</div>
 	</div>
 
+<script type="text/html" id="popup_host_template">
+	<li><a href="/edithost/hostid/<%= hostid %>" data-hostid="<%= hostid %>">
+		<span><%= nicename %></span>
+	</a></li>
+</script>
+<script type="text/html" id="popup_contact_template">
+	<li><a class="jump" href="/contacts/edit/1/pcid/<%= pcid %>/returnto/<%= returnto %>">
+		<span class="pchannel cid<%= channelid %>"></span>
+		<span><%= title %> channel <%= data %></span>
+	</a></li>
+</script>
+<script type="text/html" id="popup_sensor_template">
+	<li><a class="jump" href="/checkersetup/hsid/<%= hsid %>/returnto/<%= returnto %>">
+		<span>
+			<%= tag ? tag + " " : (title == 'HTTP Request' ? '' : title+": ") %>
+			<%= target %>
+		</span>
+	</a></li>
+</script>
 <div id="top-hosts-container">
     <ul class="top-hosts">
-        <li class="description headgradient">
-            Go to
+        <li class="description">
+	        Go to
 
             <form><input type="text" autocomplete="off"></form>
         </li>
+
+	    <div class="hosts"></div>
+
+	    <div class="contacts"></div>
+	    <div class="sensors"></div>
+
+	    <li class="description host-jump">
+		    Hit <b>TAB, g</b> for Graphs or <b>u</b> for Uptime
+	    </li>
     </ul>
 </div>
 
