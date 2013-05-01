@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutionforweb.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010182951id_/http%3A//solutionforweb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutionforweb.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501065914id_/http%3A//solutionforweb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Designing, Web Design, Website Development, Web Hosting, Online E-Commerce, Domain Name
 
@@ -9,4 +9,4 @@ To improve our service to the marketplace, we use your IP address to help troubl
 Individual users may opt-out of receiving specific mailings by selecting appropriate boxes throughout our Web site. Unless otherwise agreed to by electronic signature, information about you is not shared with outside organizations or sold to any other 3rd parties. Although we deploy leading technology to protect against misuse of your information and encourage our business partners and affiliates to maintain the highest standards we do not have control over information not directly relating to our site.
 
 **Contacting Us:**  
-If you have any questions about our site, this privacy policy, or our general procedures, please [Contact Us](https://web.archive.org/web/20121010182951id_/http%3A//solutionforweb.com/contact-us.html)
+If you have any questions about our site, this privacy policy, or our general procedures, please [Contact Us](https://web.archive.org/web/20130501065914id_/http%3A//solutionforweb.com/contact-us.html)
