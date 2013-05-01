@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelazywebguys.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181749id_/http%3A//thelazywebguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelazywebguys.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501122850id_/http%3A//thelazywebguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
