@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212729id_/http%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501100140id_/http%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | RAC | RAC
 
@@ -74,7 +74,15 @@ Back to top
 
 ###  How to access your personal information
 
-If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the below address: Data Protection Officer, RAC House, Brockhurst Crescent, Bescot WS5 4AW.
+If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the below address:
+
+Data Protection Officer  
+Risk and Regulatory Team  
+RAC  
+Great Park Road  
+Bradley Stoke  
+Bristol  
+BS32 4QN
 
 Back to top
 
