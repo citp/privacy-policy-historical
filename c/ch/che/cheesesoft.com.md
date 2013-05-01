@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheesesoft.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021054523id_/http%3A//www.cheesesoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheesesoft.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502003741id_/http%3A//www.cheesesoft.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CheeseSoft - a Professional System Utility Company
 
