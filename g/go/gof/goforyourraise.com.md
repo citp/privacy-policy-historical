@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goforyourraise.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212020645id_/http%3A//www.goforyourraise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goforyourraise.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501111221id_/http%3A//www.goforyourraise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go for Your Raise!
 
