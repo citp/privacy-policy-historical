@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivateus.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002534id_/http%3A//www.motivateus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivateus.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502011151id_/http%3A//motivateus.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Motivating Moments
 
@@ -44,8 +44,10 @@ We take the information we receive from individuals and members responding to ou
 **Cookies and Web Beacons**  
 Motivating Moments LLC does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
+"We allow third-party companies, including Tynt, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit www.networkadvertising.org."
+
 **DoubleClick DART Cookie**   
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include but are not limited to ....  
 Google Adsense  
@@ -75,7 +77,7 @@ The practices and policies for the URL: www.motivateus.com are the same as the p
 Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Motivating Moments LLC cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
 **Motivating Moments LLC Commitment to Children's Privacy**  
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act ("COPPA") and all other applicable laws. Please read our [Children's Privacy Policy](https://web.archive.org/web/20120920002534id_/http%3A//www.motivateus.com/child-privacy.htm).
+Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act ("COPPA") and all other applicable laws. Please read our [Children's Privacy Policy](https://web.archive.org/web/20130502011151id_/http%3A//motivateus.com/child-privacy.htm).
 
 We have Web pages designed especially for our younger users, primarily teens. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. 
 
@@ -91,9 +93,9 @@ Motivating Moments LLC is not responsible for the content or practices of third 
 **Your Acceptance of These Terms:**  
 By using Motivating Moments LLC's Motivating Moments website, you signify your acceptance of the Motivating Moments LLC Privacy Policy. If you do not agree to this policy, please do not use our Motivating Moments website. Motivating Moments LLC reserves the right to modify, alter or otherwise update this policy at any time, so visitors, submitters and members are encouraged to review this policy from time to time. Your continued use of the Motivating Moments LLC's Motivating Moments website following the posting of changes to these terms will mean you accept those changes.
 
-Last update March 25, 2009
+Last update March 12, 2013
 
-Copyright © 2010 Motivating Moments LLC.   
+Copyright © 2013 Motivating Moments LLC.   
 All Rights Reserved. 
 
 |   
@@ -101,4 +103,4 @@ All Rights Reserved.
   
 **Have something you would like to share?  
 An insight that has helped you?  
-We invite you to [submit a quote](https://web.archive.org/web/20120920002534id_/http%3A//www.motivateus.com/form.htm).**
+We invite you to [submit a quote](https://web.archive.org/web/20130502011151id_/http%3A//motivateus.com/form.htm).**
