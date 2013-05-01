@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123122059id_/http%3A//hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501171701id_/http%3A//hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HotDeals: Find Cheap Airline Tickets, Discount Hotel Rooms, Vacation Packages, Car Rentals, Travel Deals at HotDeals
 
@@ -43,6 +43,4 @@ Single Concepts, Inc.
 P.O. Box 361119   
 Decatur, GA 30036 
 
-E-Mail:[ privacy@hotdeals.com ](mailto:privacy@hotdeals.com%20)
-
-| 
+E-Mail:[ privacy@hotdeals.com ](mailto:privacy@hotdeals.com)
