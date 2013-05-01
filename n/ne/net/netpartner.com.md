@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netpartner.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212043255id_/http%3A//netpartner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netpartner.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501095306id_/http%3A//netpartner.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NetPartner
 
@@ -52,4 +52,4 @@ The user name and password created upon registration play a critical role in you
 This Privacy Policy, in conjunction to Terms of Service and any additional Service terms and conditions made available to you by Netpartner, each as amended from time to time, represent the entire understanding and agreement between you and Netpartner regarding the subject matter of the same, and supersede all other previous agreements, understandings and/or representations regarding the same.   
 
 
-If you have further questions, comments or concerns regarding privacy policy, or if you would like to opt-out, please contact us at [cs@netpartner.com](mailto:cs@netpartner.com) or send your information along with your email address to 29/F One Kowloon, 1 Wang Yuen Street, Kowloon Bay, Hong Kong.
+If you have further questions, comments or concerns regarding privacy policy, or if you would like to opt-out, please contact us at [cs@netpartner.com](mailto:cs@netpartner.com) or send your information along with your email address to Flat E, 19F, Tower A Billion Centre, 1 Wang Kwong Road, Kowloon Bay, Hong Kong.
