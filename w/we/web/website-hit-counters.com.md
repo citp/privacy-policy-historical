@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-hit-counters.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227103802id_/http%3A//website-hit-counters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-hit-counters.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501073842id_/http%3A//website-hit-counters.com/privacy.html) for the most accurate reproduction.*
 
 # Website Hit Counters, Privacy Policy
 
