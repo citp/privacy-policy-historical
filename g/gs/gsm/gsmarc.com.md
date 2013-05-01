@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193615id_/http%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084253id_/http%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GSMArc.com
 
@@ -34,8 +34,6 @@ As part of your registration on the Site, you will be asked to provide us with c
 Additionally, in order for us to verify your identity, we may need to request from you valid proof of identification (e.g. in the form of a copy of your passport, resident’s visa or permit, national ID card and/or driver’s license).  
  
 
-  * We will also need to collect selected financial information from you, such as your credit card and/or bank account details.
-  * You will need to input this financial information into the "My Account" section of the Site.
   * We may also collect information about your computer (for example, browser type) and navigation information (for example, the pages you visit on the Site) along with the times that you access the Site.
   * Finally, we may collect additional information from or about you in other ways not specifically described here.
   * We may also collect feedback ratings and other comments relating to your use of the Site.  
