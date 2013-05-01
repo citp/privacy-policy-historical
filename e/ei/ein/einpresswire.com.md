@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the einpresswire.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182923id_/http%3A//www.einpresswire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einpresswire.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501072156id_/http%3A//www.einpresswire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EIN Presswire - Press Release Distribution Service
 
