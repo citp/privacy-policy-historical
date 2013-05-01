@@ -1,0 +1,152 @@
+> *The following text is extracted and transformed from the tradegecko.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502004053id_/http%3A//tradegecko.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy for the TradeGecko Platform
+
+### Contents
+
+  1. Who we are
+  2. TradeGecko protects your privacy.
+  3. What information is collected and how do we use it?
+  4. Who do we share your information with?
+  5. You have control over your information!
+
+
+
+### Policy
+
+  1. ####  _Who we are_
+
+TradeGecko offers you an inventory and sales management application TradeGecko is based in Singapore and is located at Blk 71 Ayer Rajah Crescent 139951. 
+
+  2. ####  _TradeGecko protects your privacy_
+
+TradeGecko is committed to protecting your privacy in accordance with the highest consumer protection standards.
+
+Our privacy policy is designed with you in mind, and it is integral that you have a comprehensive understanding of our information collection and usage practices, as well as full confidence that ultimately, you have control of your personal information provided to TradeGecko. In summary, while you should read each provision in this Privacy Policy, you note that by using the TradeGecko web site:
+
+    * You agree that if you disclose your personal information to us, we may create a database record about you;
+    * If you register on our website, download any materials or conduct any other transaction, you agree for us to collect information necessary to provide you with the service you have requested, and you agree that this information may be disclosed to service partners (who may be third parties) for those purposes;
+    * You agree for us to use cookies on your browser (unless you remove them);
+    * You agree that we can contact you with information about products and services which may be of interest to you (unless you have stated you do not wish to receive these communications); and
+    * Your continued use of the TradeGecko web site indicates your agreement with any future changes in the TradeGecko Privacy Policy
+  3. ####  _What information is collected and how do we use it?_
+
+TradeGecko will not collect or monitor any personal information about you without your consent. The only personal information we collect is what you tell us about yourself and information about how you use our web site. TradeGecko collects information from you at several different points on the site: 
+
+    1. #### New Account Registration
+
+      1. ##### What information is collected?
+
+        * When you register for an account with TradeGecko, you will be asked to create a login name and password, as well as to provide your contact information, such as your name, title, email address, language preference and country of location.
+        * You may also be asked to give billing information such as credit card billing information, your credit card type, number, expiry date and billing address.
+        * You are also given the option to sign up for periodical updates and/or newsletters from TradeGecko informing you of the latest news and deals.
+      2. ##### Why do we collect it?
+
+We collect the above information for the following purposes:
+
+        * To identify you when you use our site in order to enjoy a customized and personalised experience.
+        * To present you with a default screen layout based on the country of location you select.
+        * As a security measure, to send you an email confirming your account registration.
+        * To allow us to process and complete your purchases.
+        * To allow you to enjoy convenience whenever you make purchases as you will not have to type the billing information repeatedly.
+        * To send you email confirmations for purchases on TradeGecko. 
+        * To further confirm your identity. 
+        * To prevent credit card fraud. 
+        * For our customer service agents to contact you when necessary. 
+        * To send you our optional periodical updates and/or newsletters, if you have signed up for them.
+        * To send you information about products and services which may be of interest to you.
+    2. #### Online Surveys
+
+      1. ##### What information is collected?
+
+        * From time to time, TradeGecko may conduct market research surveys either by itself or by employing the services of a third party to do so on our behalf. You may choose to participate in our surveys, and your answers to our survey, as well as your contact information may be kept on record, and will be protected in a manner that is consistent with this privacy policy. Please note that the information you provide through our surveys will be used on an aggregated basis unless we inform you otherwise beforehand.
+      2. ##### Why do we collect it?
+
+        * TradeGecko conducts market research surveys in order to learn from you how improvements can be made to our site
+        * To send you information about products and services which may be of interest to you.
+    3. ####  Customer Contact 
+
+      1. ##### What information is collected?
+
+        * You may choose to provide feedback to TradeGecko, for example through email or letters. The comments in your feedback, as well as your contact information like your email, if provided to TradeGecko, may be kept on record.
+      2. ##### Why do we collect it?
+
+        * The feedback that you choose to provide is valuable in helping TradeGecko make improvements to our service to you. In order to follow-up on the feedback you have chosen to provide, TradeGecko may correspond with you using the contact information that you have provided.
+        * To send you information about products and services which may be of interest to you.
+    4. ####  Cookies 
+
+      1. ##### What information is collected?
+
+        * When you visit TradeGecko as a Guest or account holder, a cookie is stored onto your computer. A cookie is a small, encrypted text file containing some information about your preferences and allows your usage to be tracked. The use of cookies is now an industry standard, and you will find them used on most major web sites. However, you can always choose to disable cookies from being stored on your computer by changing your browser settings. Disabling cookies, however, may result in a limited experience of our functionality and services and in some cases may mean that we are unable to provide you with the services, or parts of the services, that you have requested. Some of our business partners whose content is incorporated into or linked to from our site may also use cookies. However, we have no access to or control over these cookies.
+      2. ##### Why do we collect it?
+
+Cookies, when stored on your computer, facilitate the following:
+
+        * Cookies allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit. This means you will be able to enjoy conveniences such as login without having to type your login name every time you visit TradeGecko.
+        * TradeGecko will be able to make improvements to our site based on the aggregated usage statistics collected from cookies. These aggregated usage statistics are anonymous to third parties, and may also be used by TradeGecko’s third party advertising companies in monitoring the effectiveness of advertisements.
+    5. ####  Other Computer Information 
+
+      1. ##### What information is collected?
+
+        * Session information such as IP (Internet Protocol) addresses, browser types, operating systems are also used for TradeGecko’s system administration.
+      2. ##### Why do we collect it?
+
+        * Session information will allow us to enhance your experience on TradeGecko by allowing us to troubleshoot technical issues as well as to improve our site usability.
+  4. #### 
+
+    1. TradeGecko is the owner of the information collected on this site. We do not sell or rent individual personal information to third parties and have no intention to do so in the future.
+    2. We may disclose your personal information on occasion to third parties who work with us. Some of these third parties may be located outside your home country, or outside of Singapore. The information will be protected in a manner that is consistent with this Privacy Policy. Disclosure will be made in the following scenarios for the following purposes:
+
+      1. _When you make purchases on TradeGecko_
+
+To successfully complete your purchases or otherwise implement our terms of service, your personal information is provided as needed to TradeGecko’s third party product and service providers or other third parties authorised by TradeGecko, if any.
+
+      2. _When third parties perform services on behalf of TradeGecko_
+
+In our efforts to continually improve our site, TradeGecko may employ the services of third party companies to perform projects such as market research surveys on our behalf.
+
+      3. _When required by law to disclose the information_
+      4. _With your prior express consent_
+      5. _To protect the rights and property of TradeGecko._
+      6. _To enable third parties to send you information about products and services which may be of interest to you_
+    3. Links may be present on the TradeGecko site which result in you leaving the TradeGecko site and being taken to other third party web sites. You should note that any information that you provide to these third party web sites are not subject to the TradeGecko privacy policy, and we strongly recommend that you be aware of their privacy and security policies.
+    4. TradeGecko may also work with third parties that serve ads to this site. Information that may be disclosed to such third parties will be anonymous.
+    5. You should also note that the processing of information on the TradeGecko site and the transmission of transaction messages relating to purchases, including your account related data, may involve transmissions over various networks (which may not be secure) and to various countries and further processing and storage of data in such countries.
+  5. ####  _You have control over your information!_
+
+    1. ##### Opt In and Opt Out Policy
+
+      * You always have the option to opt in to participate in TradeGecko’s product and service offers. For example, you will be given the option to subscribe to TradeGecko’s newsletters by checking the box.
+      * While TradeGecko hopes that you benefit from our product and service offers, at any time, you always have the option to opt out of the products and services that you have subscribed to.
+      * We offer you the ability to opt out of receiving information of our products and services at the point of collection, or by accessing and changing your account information. Please allow some time for this request to be processed.
+    2. ##### Accessing your information and retention of information
+
+      * You may at any time access and change your account or personal information or subscribed services. You can easily access your personal information if you login to your account with TradeGecko, or you can follow the links that may be provided within our subscription emails to you to manage your subscription preferences. Although we will take reasonable steps to keep your information accurate, complete and up-to-date, we request that you keep your information as current as possible so that we may continue to improve our service to you.
+      * We will only withhold your access to such information in extremely limited circumstances where it is permitted by law, such as:
+
+        1. where it might be dangerous if you were to have it;
+        2. where it might prejudice an investigation currently underway;
+        3. where it relates to court proceedings and may be subject to the discovery process;
+        4. where it may relate to a commercially sensitive decision-making process; or
+        5. where other individuals’ personal information is contained in the same record.
+      * TradeGecko may (but is not obliged to) retain your information for a period of 7 years from the date you last accessed your account.
+    3. ##### Minors
+
+      * As we cannot distinguish the age of persons who access our site, a blanket privacy policy is applied. TradeGecko does not intent nor does it seek to receive any personal information from minors. Should a parent or guardian have reason to believe that a minor has provided TradeGecko with personal information without their prior consent, please contact us to ensure that the information is removed and unsubscribe them from any promotional contact opportunities.
+    4. ##### Security
+
+      * TradeGecko has implemented technology and security features to safeguard the privacy of your personal information. A secure server protects your personal information. Additionally, with TradeGecko, you can be assured that the information you provide to TradeGecko is transmitted using Secure Socket Layer (SSL) encryption. If you become aware of any security breach, please let us know as soon as possible.
+      * We have internal procedures in place requiring our employees and data processors to respect the confidentiality of any personal information held by TradeGecko.
+      * TradeGecko will endeavour to take all reasonable steps to keep secure any information which we hold about you. Your information is stored on secure servers that are protected in controlled facilities. Unfortunately, despite the aforementioned technology and security features, no data transmission over the Internet can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times, and we cannot be responsible for any event arising from unauthorised access to your personal information. TradeGecko will not be held responsiblefor events arising from third parties gaining unauthorized access to your personal information.
+      * Please note also that TradeGecko may use overseas facilities to process or back up its information. As a result, we may transfer and store your personal information to our overseas facilities. However, this does not change any of our commitments to safeguard your privacy.
+    5. ##### Keep your password safe
+
+      * You can play your part in safeguarding your personal information by never disclosing your Login password or account information to anybody. Whenever you login as a member on TradeGecko, particularly on somebody else’s computer or on public internet terminals, you should always logout at the end of your session. Your assistance will help us protect the privacy of your personal information.
+      * TradeGecko cannot be held responsible for lapses in security caused by third party accesses to information as a result of your failure to keep your personal information private. Please notify us immediately if there is any unauthorised use of your account by any other internet user or any other breach of security.
+    6. ##### Changes to the TradeGecko Privacy Policy
+
+      * TradeGecko may amend this Policy from time to time. If we make any substantial changes in any way we use your personal information, we will notify you by posting a prominent announcement on our web pages or by way of an e-mail and you will have a choice as to whether or not we may use the information in this different manner.
+
+
+
+####  Thank you for taking the time to understand the TradeGecko Privacy Policy. 
