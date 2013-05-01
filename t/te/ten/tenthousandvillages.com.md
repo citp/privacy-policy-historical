@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tenthousandvillages.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020165312id_/http%3A//tenthousandvillages.com/php/customer.service/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthousandvillages.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075746id_/http%3A//www.tenthousandvillages.com/privacy-policy) for the most accurate reproduction.*
 
-# Answers to privacy & security questions || Ten Thousand Villages
+# Privacy Policy
 
-We appreciate your support of the Ten Thousand Villages mission, and we strive to maintain honorable working relationships with our artisans and our customers. Ten Thousand Vilages is committed to protecting our customers' privacy and security. We do not share your information outside our organization or sell your information to third parties. 
+We appreciate your support of the Ten Thousand Villages mission, and we strive to maintain honorable working relationships with our artisans and our customers. Ten Thousand Vilages is committed to protecting our customers' privacy and security. We do not share your information outside our organization or sell your information to third parties.
 
 **We collect the following information from visitors to our website:**
 
@@ -30,7 +30,7 @@ We use this information to respond to inquiries and improve the substance and us
 
   * The names and contact information of site visitors who create an account on our site
   * Order, billing, and shipping information
-  * **Note:** We do not store credit card information on this site. If, during the checkout process, you choose to store credit card information for future use, it is stored securely by the payment processing gateway. 
+  * **Note:** We do not store credit card information on this site.
 
 
 
