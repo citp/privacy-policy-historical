@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthhour.in privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505052605id_/http%3A//earthhour.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthhour.in privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502011404id_/http%3A//earthhour.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Earth Hour | Privacy Policy
 
@@ -41,4 +41,4 @@ At any time, you can ask us for a copy of the personal information that we hold 
 
 There are links on this web site that take you to other web sites outside of our service. Any links provided to third party web sites outside of this site are provided solely for your convenience. The operation and content of such third party web sites is beyond our control, and we do not endorse in any manner whatsoever or accept any responsibility for the content or other material that may be contained on such web sites, the use of such web sites, or any products or services advertised on or sold through any such web sites. We will not be liable under any circumstances for any damages whatsoever, direct or indirect, resulting from any use of this web site or any other third party web site linked to this web site, whether or not we are advised of the possibility of such damages.
 
-If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20120505052605id_/http%3A//earthhour.in/contact-us.aspx)
+If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20130502011404id_/http%3A//earthhour.in/contact-us.aspx)
