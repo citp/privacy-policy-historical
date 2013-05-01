@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114174307id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075628id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetIQ
 
@@ -14,7 +14,7 @@ This Privacy Statement discloses the privacy practices for NetIQ Corporation ("N
 
 In general, you can visit this site without telling us who you are or disclosing personal information about yourself; only the name of the domain from which you access the Internet as well as the Internet address and the date and time you access this web site are logged. The user otherwise remains anonymous. NetIQ uses such non-personal information to analyze trends as well as measure the number of visitors to different parts of this site and how much time they spend there, to help us make the site more useful to visitors. NetIQ recognizes as "personal information" the information that personally identifies you, plus any associated information that allows us to contact you, or that allows us to respond more effectively to a request from you. Your personal information may be known to us because you have licensed products from us. Or we may come into possession of your personal information through a variety of means, both active and passive, of types described below.
 
-We request personal information when you are registering to receive information such as a white paper or newsletter, entering a contest, signing up for an event or training, or downloading or purchasing NetIQ products. Personal information collected through NetIQ.com is generally limited to your name, contact information, job title, and areas of job responsibility, but may include other information when needed to provide a service you requested.
+We request personal information when you are registering an account with the NetIQ.com site or registering to receive information such as a white paper or newsletter, entering a contest, signing up for an event or training, or downloading or purchasing NetIQ products. Personal information collected through NetIQ.com is generally limited to your name, contact information, job title, and areas of job responsibility, but may include other information when needed to provide a service you requested.
 
 In other cases, certain actions by you will have the effect of providing personal information to NetIQ. For example, you may participate in a NetIQ blog, chat or forum, or send an e-mail message to NetIQ requesting a response. Additionally, your action in response to a NetIQ-initiated contact may allow NetIQ to associate your personal and non-personal information, and that association would also be treated as personal information.
 
@@ -35,6 +35,8 @@ NetIQ will primarily use your personal information to:
   * Alert you to product upgrades, special offers, updated information and other new services from NetIQ, unless you have opted out of this use.
 
 
+
+NetIQ may also use personal information or data as a means of validating your identity when you logon to its affiliated websites such as Novell.com or SUSE.com.
 
 NetIQ may send out periodic e-mails informing you of a technical service or security issues related to a product or service you have requested or purchased, or confirming your request or purchase of a product or service. You will not be able to choose to unsubscribe from these mailings, as they are considered an essential part of the service you have chosen.
 
@@ -79,6 +81,6 @@ NetIQ Corporation
 1233 West Loop South, Suite 810  
 Houston, Texas 77027
 
-© 2012 NetIQ Corporation and its affiliates. All Rights Reserved.
+© 2013 NetIQ Corporation and its affiliates. All Rights Reserved.
 
-This document was last updated April 1, 2012.
+This document was last updated January 30, 2013.
