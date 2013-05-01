@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704030324id_/http%3A//www.sap.com/corporate-en/our-company/legal/privacy.epx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501181438id_/http%3A//www.sap.com/corporate-en/our-company/legal/privacy.epx) for the most accurate reproduction.*
 
-# SAP Global - SAP Privacy Statement
+# SAP Privacy Statement | SAP
+
+  * SAP Privacy Statement
+
+
 
 Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. SAP has created this privacy statement to demonstrate our firm commitment to the individual's right to privacy. This policy outlines our personal information handling practices for this website.
 
