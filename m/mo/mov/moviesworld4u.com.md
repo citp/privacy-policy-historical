@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the moviesworld4u.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505061759id_/http%3A//www.moviesworld4u.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesworld4u.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501112224id_/http%3A//www.moviesworld4u.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Mediafire, Megaupload, Hotfile, Rapidshare Movie Download | Movies World
+# Privacy Policy - Mediafire, Hotfile, Rapidshare Movie Download | Movies World
+
+  
+
 
 **Privacy Policy for[www.moviesworld4u.com](http://www.moviesworld4u.com/ "http://www.moviesworld4u.com")**
 
@@ -16,8 +19,9 @@ Like many other Web sites, [www.moviesworld4u.com](http://www.moviesworld4u.com/
 
 [www.moviesworld4u.com](http://www.moviesworld4u.com/ "http://www.moviesworld4u.com") does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Clicksor,  Adbrite
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+
+Clicksor, Adbrite
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.moviesworld4u.com](http://www.moviesworld4u.com/ "http://www.moviesworld4u.com") send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -27,6 +31,5 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Keywords:- Privacy Policy rapidshare, Privacy Policy hotfile, Privacy Policy megaupload, Privacy Policy fileserve, Privacy Policy filesonic,Privacy Policy full download free, Privacy Policy torrent download, Privacy Policy mediafire, Privacy Policy dvdrip bdrip, Privacy Policy vidreel link, Privacy Policy download, Privacy Policy watch online, Privacy Policy online watch full movie
-
-Both comments and pings are currently closed. 
+****   
+Keywords:- Privacy Policy rapidshare, Privacy Policy hotfile, Privacy Policy megaupload, Privacy Policy fileserve, Privacy Policy filesonic,Privacy Policy full download free, Privacy Policy torrent download, Privacy Policy mediafire, Privacy Policy dvdrip bdrip, Privacy Policy vidreel link, Privacy Policy download, Privacy Policy watch online, Privacy Policy online watch full movie Both comments and pings are currently closed. ****
