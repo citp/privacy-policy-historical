@@ -1,53 +1,75 @@
-> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015140432id_/http%3A//www.broadbandexpert.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501205131id_/http%3A//www.broadbandexpert.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Broadband Expert - Privacy Policy
 
-## **BROADBAND EXPERT PRIVACY POLICY**
+BROADBAND EXPERT PRIVACY POLICY
 
-Richweb Media LLC is committed to preserving the privacy of all visitors to www.broadbandexpert.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us.
+RichWeb Media LLC (“RWM”, “we” or “us”) operates the web site located at www.broadbandexpert.com. (the “Site”). This serves as RWM’s Privacy Policy for the Site.
 
-_By remaining on this site you consent to the collection, use and transfer of your information under the terms of this policy._
+RWM makes the Site available to those individuals (“Users”) who access the Site for availability and price comparisons of internet providers, satellite, cable and mobile broadband providers (“Broadband Services”). Users communicate with us through the Site, respond to surveys about the usefulness and value of the Site and its contents, choose the right service for their needs, and receive other information about products and services, subject to this Privacy Policy (the “Policy”). This Policy explains what information RWM collects about its Users, how RWM uses and/or shares this information, and how such information is maintained. By visiting the Site, you accept the terms of this Policy.
 
-## Information that we collect from you
+Note that this Policy applies only with respect to the information collected by RWM through the Site, and not any information collected or obtained through other methods or sources.
 
-When you register with us or download information or use services we choose to provide you may be asked to provide certain information about yourself including your name, contact details and company or business identity. We may also collect information about your usage of our website as well as information about you from e-mails or letters you send to us.
+**Collection of Personally Identifiable Information**
 
-## Use of your information
+RWM collects Users’ personally-identifiable information (“PII”) that is volunteered by Users at the Site who conduct surveys or inquire about the products or services offered on the Site. Examples of PII that may be requested and/or collected include: first and last name, address, zip code, email address, telephone number, facsimile number, company or business identity and Broadband Services that interests the User or for which the User has subscribed. From time to time, RWM may also present opportunities for Users to voluntarily provide additional information about themselves.
 
-Your information will enable us to provide you with access to all parts of our site and to supply the information you have requested.We will also use and analyse the information we collect so that we can administer, support, improve and develop our business and services.
+**Use and Sharing of PII**
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the site or our services.We might also use your information to let you know about other products and services which we offer which may be of interest to you including and we may contact you by post, telephone or fax, as well as by e-mail.If you change your mind about being contacted in the future, please let us know.
+RWM will use User PII: to provide the User with information about RWM products or services, Broadband Services to which the User has requested, newsletters, or other materials about Broadband Services, or to compile information in response to RWM surveys. Other than the uses set forth in this Privacy Policy, RWM does not share User PII with any third party. Please note, however, that RWM may change this Policy at any time (See “Changes to this Policy,” below), and that RWM may in the future use User PII for additional purposes not currently included in this Policy.
 
-## Disclosure of your information
+User PII collected by us may be added to our databases and used for future marketing purposes, including but not limited to, e-mail and direct marketing. RWM may also allow carefully selected third parties to contact Users occasionally about products and services which may be of interest to Users. They may contact you by mail, telephone or fax, as well as by e-mail. By using the Site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
-The information you provide to us will be held on our computers in the United Kingdom and may be accessed by or given to our staff working outside the UK and third parties who act for us for the purposes set out in this policy or for other purposes approved by you.
+RWM may also disclose User PII in order to: (1) comply with applicable laws (including, without limitation, the CAN-SPAM Act); (2) respond to governmental inquiries; (3) comply with valid legal process; (4) protect the rights or property of RWM, including without limitation, filing copyright applications with the Library of Congress, Copyright Office, or (5) protect the health and personal safety of any individual.
 
-We may also allow carefully selected third parties, including other companies in our group, to contact you occasionally about products and services which may be of interest to you.They may contact you by post, telephone or fax, as well as by e-mail.If you change your mind about being contacted by these companies in the future, please let us know.
+If you do not wish us to share your PII with our dealers or other third parties for marketing purposes, please submit your request in writing to:
 
-Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
+RichWeb Media LLC
 
-Countries outside the European Economic Area do not always have strong data protection laws.However, we will always take steps to ensure that your information is used by third parties in accordance with this policy.
+ATTN: Privacy Policy Manager
 
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+ADDRESS: 7655 NW 116th Lane, Parkland, Florida, 33076
 
-## Cookies
+EMAIL: info@broadbandexpert.com
 
-Cookies are small amounts of information which we store on your computer. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site.Cookies make it easier for you to log on to and use the site during future visits.They also allow us to monitor website traffic and to personalise the content of the site for you.You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our site.
+**Non-Personally Identifiable Information**
 
-## Security and data retention
+RWM also collects certain non-personally identifiable information, including the non-personally identifiable information more fully described below.
 
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage.We will retain your information for a reasonable period or as long as the law requires.
+_Cookies_. RWM may use “cookies” on the Site. Cookies are small pieces of information that RWM’s server places on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Site. For example, RWM may place a cookie on a User’s computer when he/she initially registers at the Site. The next time that User visits the Site, RWM’s server will recognize the cookie (and the User) and allow the User to perform certain actions immediately without signing in.
 
-## Accessing and updating
+While some Web browsers allow a User to automatically reject all cookies or be notified when a cookie is about to be placed on the User’s computer, disabling this feature may compromise the efficiency and added services that cookies provide.
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date.If you wish to do this, please contact us.We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+_IP Address_. RWM collects your IP (Internet Protocol) address to help diagnose problems with its server, and to administer the Site and RWM’s email messages to Site Users. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather broad demographic data.
 
-## Changes to our privacy policy
+Although the information collected through the foregoing methods does not itself contain any PII, RWM may analyze and match such information with other information that you provide (including PII) as well as information that RWM may obtain elsewhere, and RWM may share all or some of such information with actual or prospective distributors, dealers, or other third parties.
 
-Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification.
+RWM may also disclose non-PII in order to (1) comply with applicable laws, (2) respond to governmental inquiries, or (3) comply with valid legal process, or (4) protect the rights or property of RWM or Users of the Site. **Access to Information** If you want to review, correct or change your User information, please contact us at the address listed below.
 
-## Contact
+**Third Party Services**
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to **info[at]broadbandexpert.com**.
+The Site may contain links from the Site to the websites of other providers of products and services. When you click on the icon of such an entity, you will leave the Site and be connected to the website of such entity. RWM does not have any control over the information handling practices of these other entities, and is not responsible for any failure of such entities to adhere to this Policy. You should familiarize yourself with the privacy policies of such other entities before you share any PII with those entities.
 
-This privacy policy was prepared for us by [legal documents](http://www.legalcentre.co.uk/) provider Legal Centre.
+**Links from Email**
+
+RWM email communications with you may provide links to the websites of other third parties providing products and services that may be of interest to you. If you link to any of these third party websites, this Policy will not apply to your use of, and activities on, those websites. We encourage you to read the legal notices posted on these sites, including their privacy policies. RWM shall have no responsibility or liability for your visitation to, and the data collection and use policies and practices of, these other websites.
+
+**Note Concerning Individuals 18 Years of Age And Younger**
+
+The Site, RWM emails and the content available in connection therewith, are neither intended for, nor directed to, children under the age of 18. You must be at least 18 years old to have our permission to use our Site and to provide your PII to RWM. If RWM learns that a person who is a User is under the age of 18, RWM will promptly delete the individual’s PII from RWM’s records. RWM will NOT knowingly distribute such information to third parties.
+
+**Security**
+
+While RWM takes reasonable precautions to safeguard information transmitted between RWM and Users of the Site, RWM may be unable to prevent unauthorized access to such information by third parties or inadvertent disclosure of such information. Users acknowledge this risk when communicating with RWM.
+
+**Consent to Processing**
+
+By providing PII and other information to RWM, Users of the Site fully understand and unambiguously consent to the collection and processing of such information in, and the transfer of such information to, the United States and other countries or territories, in accordance with the terms of this Policy.
+
+**Transfer in Certain Circumstances**
+
+In its sole discretion, RWM may transfer, sell or assign information collected on or about Users of the Site, including without limitation, PII and other User provided information, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of RWM.
+
+**Changes to This Policy**
+
+RWM may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy. By continuing to use the Site following any changes, you will be deemed to have agreed to such changes.
