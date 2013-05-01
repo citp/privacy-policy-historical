@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evertek.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106053428id_/http%3A//www.evertek.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evertek.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501180006id_/http%3A//www.evertek.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Evertek.com
 
