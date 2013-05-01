@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011052201id_/http%3A//www.bestpricedfurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501220706id_/http%3A//www.bestpricedfurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
 BestPricedFurniture.com, Inc. ("BestPricedFurniture.com") has created this privacy policy in order to demonstrate its strong commitment to the privacy of our visitors and customers. This privacy policy explains how Best Priced Furniture.com collects, uses, shares and protects information obtained from www.bestpricedfurniture.com.
-
-Best Priced Furniture.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information that is collected through the Web site, www.bestpricedfurniture.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@bestpricedfurniture.com If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
 
 **Collection and Use of Information**
 
@@ -58,7 +56,7 @@ This Web site gives users the following options for removing their information f
 
   1. You can an send email to privacy@bestpricedfurniture.com 
   2. You can send mail to the following postal address: BestPricedFurniture.com   
-23505 Crenshaw Blvd. Suite 169   
+23505 Crenshaw Blvd. Suite 166   
 Torrance, CA 90505-5225 USA 
   3. You can call the following telephone number: 310-320-1400
 
@@ -115,7 +113,7 @@ BestPricedFurniture.com has its headquarters in Torrance, California. This site 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, you can contact:
 
 Best Priced Furniture.com, Inc.  
-2401 W. 208th Street Suite 9  
-Torrance, CA 90501-7259  
+23505 Crenshaw Blvd. Suite 169  
+Torrance, CA 90505  
 or  
 privacy@bestpricedfurniture.com 
