@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanguard.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023051949id_/https%3A//personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanguard.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501021825id_/https%3A//personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp) for the most accurate reproduction.*
 
 # Vanguard - Privacy Policy
 
