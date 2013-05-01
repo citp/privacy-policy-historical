@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512133628id_/http%3A//www.cadalyst.com/cadalyst/privacy-statement-12678) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501191857id_/http%3A//www.cadalyst.com/cadalyst/privacy-statement-12678) for the most accurate reproduction.*
 
 # Privacy Statement | Cadalyst
 
 The following Privacy Statement summarizes the various ways that Longitude Media, LLC (“Longitude Media”) treats the information you provide while using any Longitude Media site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
 
-Please read this Privacy Statement carefully. Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at privacy at longitudemedia com
+Please read this Privacy Statement carefully. Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@longitudemedia.com](mailto:privacy@longitudemedia.com)
 
 In addition to reviewing this Privacy Policy, please read our Terms of Use. Your use of the our sites constitutes agreement to its terms and conditions as well.
 
-This Privacy Statement may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Any change, update or modification we make will be effective immediately upon posting on our site(s). If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. Continued access of our sites by you will constitute your acceptance of any changes or revisions to the Privacy Statement.
+This Privacy Statement may be modified from time-to-time; the date of the most recent revisions will appear on this page, so check back often. Any change, update or modification we make will be effective immediately upon posting on our site(s). If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. Continued access of our sites by you will constitute your acceptance of any changes or revisions to the Privacy Statement.
 
 **Collection of Personal Information**
 
@@ -87,6 +87,6 @@ PO Box 832
 Dover, MA 02030  
 Privacy at Longitudemedia com
 
-Copyright © 2009 Longitude Media, LLC Privacy Statement
+Copyright © 2013 Longitude Media, LLC Privacy Statement
 
-Revised and Posted As Of:  May 26, 2009
+Revised and Posted As Of: February 4, 2013 
