@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013045id_/http%3A//haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501120456id_/http%3A//haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,6 @@ Absolutely nobody.
 
 **Even If I Offered You 10 Million Dollars?**  
 Let's talk off-line in private.... er... I mean NO! Absolutely Not. Haacked.com doesn't gather any information worth selling. 
+
+  
+
