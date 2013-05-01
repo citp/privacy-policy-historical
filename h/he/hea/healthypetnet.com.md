@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the healthypetnet.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052211id_/http%3A//www.lifesabundance.com/General/Privacy.aspx%3Frealname%3D%26cat%3D0%26hdr%3D%26Ath%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypetnet.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075408id_/http%3A//www.lifesabundance.com/General/Privacy.aspx%3Frealname%3D%26cat%3D0%26hdr%3D%26Ath%3DFalse) for the most accurate reproduction.*
 
 # Life's Abundance Privacy Policy
 
 Life's Abundance has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information-gathering and dissemination practices for Life's Abundance.
 
-Life's Abundance is the best place to shop for safe and effective premium supplements. We stand behind our products and guarantee your satisfaction with every order.
-
 **Your credit card is safe with Life's Abundance.**
 
-Every time you shop with Life's Abundance, your purchase is backed by a security guarantee. Our secure server encrypts (or scrambles) all of your personal information, including your name, address, credit card number, log-in name and password. Our encryption measures ensure that no one can access or use your personal information. Our 128-bit encryption is implemented with a secure certificate. Additionally, we do not retain any credit card information on our web server, so even in the rare event that someone should acquire your unique log-in name, your credit card information still could not be accessed.
+Every time you shop with Life's Abundance, your purchase is backed by a security guarantee. Our secure server encrypts (or scrambles) all of your personal information, including your name, address, credit card number, log-in name and password. Our encryption measures ensure that no one can access or use your personal information. Our 128-bit encryption is implemented with a secure certificate.
 
 **We guarantee your privacy**
 
@@ -18,11 +16,11 @@ We collect and aggregate non-personally identifiable information about shoppers 
 
 **Customers**
 
-Our ordering process requires customers to give us contact information (like name, address, email and phone number), which we use to ship product orders and to contact you if necessary. As a direct sales company, our organization is based upon a network of our Independent Distributors, who own their own websites. Therefore, customers who register with us and do not have a Distributor will be assigned one. Life's Abundance will pass along the customer's contact information (Name, mailing address, phone number and email) and order information (item, quantity and price) to their assigned Distributor. Life's Abundance does NOT pass any financial information along to the sponsoring Distributor.
+Our ordering process requires you to give us contact information (like name, address, email and phone number), which we use to ship product orders and to contact you if necessary. As a direct sales company, our organization is based upon a network of our Independent Distributors, who own their own websites. Therefore, customers who register with us and do not have a Distributor will be assigned one. Life's Abundance will pass along the customer's contact information (Name, mailing address, phone number and email) and order information (item, quantity and price) to their assigned Distributor. Life's Abundance does NOT pass any financial information along to the sponsoring Distributor.
 
 **What Information is being shared?**
 
-We may need to share information with other companies during the course of business. However, these companies do not have any independent right to share this information for any secondary purposes. 
+We may need to share information with other companies during the course of business. For example, companies like UPS. We need to share your information with UPS to ship our products to you and your email address so we may send you tracking information. However, these companies do not have any independent right to share this information for any secondary purposes. 
 
 **Email**
 
