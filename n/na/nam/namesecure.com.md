@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002720id_/https%3A//www.namesecure.com/52/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501161436id_/https%3A//www.namesecure.com/privacyPolicy.page) for the most accurate reproduction.*
 
 # Purchase a Domain from NameSecure - Get Online Privacy
 
@@ -64,7 +64,7 @@ TOP of Page
 
 **Information Corrections or Changes**
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at [https://www.namesecure.com/myaccount](https://web.archive.org/52/privacyPolicy/privacyPolicyChanges/accountManager.do). You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at support@namesecure.com. 
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at [https://www.namesecure.com/myaccount](https://web.archive.org/privacyPolicy/privacyPolicyChanges/accountManager.do). You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at support@namesecure.com. 
 
 TOP of Page
 
@@ -78,7 +78,7 @@ Another example of our use of information to enhance the experience of users in 
 
 If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us, or by visiting us at [https://www.namesecure.com/myaccount](https://web.archive.org/52/privacyPolicy/privacyPolicyUseInfo/accountManager.do). Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services. 
+Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us, or by visiting us at [https://www.namesecure.com/myaccount](https://web.archive.org/privacyPolicy/privacyPolicyUseInfo/accountManager.do). Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services. 
 
 TOP of Page
 
