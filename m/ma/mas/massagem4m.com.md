@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191317id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083050id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | MassageM4M.com
 
@@ -9,7 +9,7 @@ MassageM4M
 
 [](http://twitter.com/massagem4m "twitter")
 
-[](https://plus.google.com/113567016368455986395 "google+")
+[](http://google.com/+massagem4m "google+")
 
 Share:
 
@@ -19,13 +19,6 @@ Share:
 
 
 ### Most Popular Private Photos
-
-**Damo**  
-West Hollywood
-
-[](http://www.massagem4m.com/privatephotos/?display=random&ppselect=14939)
-
-[](http://www.massagem4m.com/masseur_viewlockphotos.cfm?id=14939 "Private Photos")
 
 [](http://www.massagem4m.com/male-massage-maps/all.cfm)
 
@@ -99,7 +92,6 @@ _General_
   * You can edit your MassageM4M Account Information, including your marketing preferences, at any time.
   * New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
   * We reserve the right to send you certain communications relating to the MassageM4M service, such as service announcements, administrative messages and the MassageM4M Newsletter, that are considered part of your MassageM4M account, without offering you the opportunity to opt out of receiving them.
-  * You can delete your MassageM4M account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
 
 
 
