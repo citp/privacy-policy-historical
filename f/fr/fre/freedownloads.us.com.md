@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedownloads.us.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180811id_/http%3A//freedownloads.us.com/free/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloads.us.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080538id_/http%3A//freedownloads.us.com/free/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « FreeDownloads.us.com
 
