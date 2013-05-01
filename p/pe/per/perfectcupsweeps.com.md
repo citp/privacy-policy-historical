@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectcupsweeps.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505101433id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectcupsweeps.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501121926id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Green Mountain Coffee
 
@@ -10,39 +10,51 @@
 
 
   * [Home](https://web.archive.org/)
-  * [K-Cup® Packs](https://web.archive.org/shop/k-cups-category?facets=&TitleItem=KCup)
-  * [Vue™ Packs](https://web.archive.org/shop/vue-packs-category?facets=&TitleItem=Vue)
+  * [K-Cup® Packs](https://web.archive.org/shop/k-cups-category?facets=&TitleTag=All%20K-Cup%20Packs%20&TitleItem=KCup#back)
+  * [Vue® Packs](https://web.archive.org/shop/vue-packs-category?facets=&titleTag=All%20Vue%20Packs%20&TitleItem=Vue)
   * [Keurig® Brewers](https://web.archive.org/keurig-brewers)
-  * [Bagged Coffee](https://web.archive.org/shop/bagged-coffee-category?facets=Brand%3AGreen%20Mountain%20Coffee&TitleTag=Bagged%20Coffee)
-  * [Gifts & Accessories](https://web.archive.org/shop/gifts-and-accessories-category?facets=&TitleTag=Gifts%20%26%20Accessories)
+  * [Bagged Coffee](https://web.archive.org/shop/bagged-coffee-category?facets=Brand%3AGreen%20Mountain%20Coffee&TitleTag=Whole%20Bean%20%26%20Ground%20Coffee)
+  * [Gifts & Accessories](https://web.archive.org/shop/gifts-and-accessories-category?facets=&TitleTag=Coffee%20Gifts%20%26%20Keurig%20Accessories)
   * [Our Story](https://web.archive.org/Our-Story)
 
 
 
-We at GreenMountain Coffee Roasters take your privacy concerns very seriously. This our privacy policy, spelled out in plain English. We hope it answers any questions you might have, and that you'll return often to visit and shop with us.
+Green Mountain Coffee Roasters, Inc. (hereinafter “GMCR,” "Company," "we" or “us”) appreciates your patronage and takes your privacy very seriously. As a result, we’ve developed the following policy terms, which apply to all websites and mobile applications owned and operated by GMCR, which currently include without limitation such sites as gmcr.com and greenmountaincoffee.com, and related e-commerce mobile applications (individually and collectively “Site”).
+
+We encourage you to read this Privacy Policy carefully to understand what personal information we may collect from you through our Site, how we may use or share this information, and what steps you may take to control such use or sharing.
 
 ## What We Collect
 
-When you purchase a product from GreenMountainCoffee.com, we ask you to provide information required to fulfill your order. We do not require you to create an account to place an order... you may place an order as a Guest. You will need to provide your name, email address, phone, shipping address, and billing address in order to process an order. Additionally, should you create an account with us, we'll also require you to create a username and password.
+Personal Identifiable Information  
+We collect and store the personal identifiable information you affirmatively choose to provide to us, such as your name, mailing address, email address, and other information when you purchase products, create an account with us, fill out a survey, enter contests, participate in promotions, post comments on bulletin boards, or otherwise interact with our Site. For example, when you purchase a product from our Site, we ask you to provide certain personal identifiable information to fulfill your order, including your name, email address, phone, shipping address, billing address and payment information to facilitate your purchase.
+
+Non-Personally Identifiable Information  
+We also collect non-personally identifiable information through the use of cookies. Cookies are pieces of data your web browser stores on your hard drive to allow our Site to provide you with enhanced services. Cookies allow us to store products in your online shopping cart, process orders, and recognize whether or not you have visited our Site before. This provides us – as well as the affiliates we allow to place cookies on our Site – with important marketing information and lets us know how we are doing at both attracting new visitors and maintaining relationships with our existing customers.
+
+If you wish, you can set your browser to refuse cookies. However, keep in mind that cookies may be required to place an online order and for other user-friendly Site functions, so blocking cookies will negatively impact your Site experience. Should you wish to block cookies through your web browser, you may still purchase products through our Customer Care Center, at [888-879-4627](tel:+8888794627).
+
+In some cases, we may also collect information from third-party sources, including social media sites and other sites with which we may partner on GMCR branding promotions. For example, if you post a comment on our Facebook page or send us a message on Twitter, we may collect and use that information as described in this Privacy Policy. Please note that we may combine this information with other information that we collect about you and use it as described herein.
 
 ## What We Do With What We Collect
 
-As a GreenMountianCoffee.com customer, your email address and phone number will never be rented, sold, or provided to a third party. Occasionally, we make special offers available to our customers -- promotions, sales, events, discounts, etc. You may periodically receive e-mail notification from us regarding these special events and offers. If you do not want to receive e-mail notification from us concerning special promotions, savings, events or other important information, simply use the "unsubscribe" link found in the footer of the email to change your preferences. Should you have questions about how we use your information, feel free to send us a message by visiting the [Contact Us](http://www.greenmountaincoffee.com/contact-customer-care.aspx) section of this Web site.
+We use the personal identifiable information we collect for various purposes, including to complete a purchase that you initiate, to respond to your requests for information, to manage our Site, marketing analysis, marketing email communications, catalog mailings, and for other lawful purposes. From time to time, we may also contact customers by email, phone, mobile SMS or mail for such purposes as to inform them of new products, services and special offers, administer a survey, or to follow up on previous interactions, unless you have opted out of receiving advertising communications from us by email and/or direct mail. If you do not wish to receive such communications from us, please follow the opt-out instructions generally provided in such communications, or via your account settings. Alternatively, you can contact us at [888-879-4627](tel:+8888794627) and speak directly with a Customer Care representative who can answer any questions you may have and update your account accordingly.
 
-As you may know, we produce and mail a catalog several times each year. We send this catalog to many of our online customers because we'd like you to be aware of all the great new products that become available each season. If you would prefer not to ever receive catalog mailings from Green Mountain Coffee Roasters, please visit the [Contact Us](http://www.greenmountaincoffee.com/ContactUs.aspx) section of this Web site and indicate that you would like to be removed from our mailing list.
+The names and addresses of our customers are occasionally provided to third parties for direct mail adverting purposes by other like-minded, carefully-screened companies who provide products and services we believe might be of interest to you. We never share email addresses or phone numbers of our customers with any third party. If you wish to opt out of these communications, you may do so by following the opt-out instructions in your account settings, or you can alternatively contact us at [888-879-4627](tel:+8888794627) and speak directly with a Customer Care representative who can answer any questions you may have and update your account accordingly.
 
-In keeping with common mail-order catalog practices, we occasionally participate in cooperative postal address list-sharing programs with similar carefully-screened companies that we believe might be of interest to you. If you would prefer not to ever receive such catalog mailings, please visit the [Contact Us](http://www.greenmountaincoffee.com/contact-customer-care.aspx) section of this Web site and indicate that you prefer not to have us share your postal mailing address with our partners. Alternatively, you can contact us at 1-888-TRY-GMCR (879-4627), and speak directly with a Customer Care representative who can update your account. 
+We may also disclose your personal information to third parties if we believe disclosure is appropriate to comply with law, regulation, legal process or government request; enforce the terms of any of our policies; or protect the rights, property or safety of GMCR, our associates, or our customers. This may include assistance in fraud protection and investigation. In addition, we may share or transfer your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
 
-We also regularly aggregate our sales and market information based on our customers' purchases. We use this information to be certain that we are offering the right products at the right time. We like to understand what regions of the country buy more products from us, what products are the most popular, and generally how our business is doing. At no time is any personally identifiable information made available in these market aggregates.
+## Links and Third-Party Content
 
-## At no time will we ever release your credit card information to anyone!
-
-We do employ cookies (a cookie is a piece of data that is sent to your browser from a web server, and stored on your hard drive) to allow us to maintain products in your shopping cart as you explore various parts of our Web site. Cookies also allow us to know if you have visited our site before or if you are a first time visitor. This provides us with important marketing information and lets us know how we are doing at both attracting new visitors and maintaining relationships with our existing customers.
-
-Cookies are required to place an online order with us. Should you wish to not accept cookies in your web browser, you may place an order with our Customer Care Center, at 1-888-879-4627.
+Our Site may contain links to other websites, which are not under our control. We provide these links as a customer convenience and to allow advertisers to promote their own sites or products, and do not endorse those sites, companies or their products or services. Also, when you link to our Site from another site, the originating site may collect information about you. We do not review, control or monitor the practices, information or materials on any other websites, and are not responsible or liable for the communications, practices, information, content or materials from any of those sites. You are responsible for understanding and adhering to any other website's terms and conditions.
 
 ## Secure Online Ordering
 
-We store all of the personal information you provide us when you create an account. If you place an order as a Guest, we store only the information we require to fulfill your order, and then we dispose of your information.
+For your security, your credit card information is stored on a secure computer in an encrypted format. 
 
-Your personal and credit card information is encrypted during transmission through our Secure Socket Layer (SSL), and maintained in a secure database that is not connected to the Internet. Our Web site security and fulfillment processes have been reviewed and approved by VeriSign, an independent security accrediting group. You will see the VeriSign Secure Site logo on our Web site, as well as a "lock" emblem on your browser when entering a credit card. They indicate that this is a secure Web site.
+## Children's Privacy
+
+We are also concerned about protecting the safety and privacy of children. We do not specifically collect information about children and do not sell products for purchase by children. If you are under 18, get your parent's consent before giving out any personal information online.
+
+## Privacy Policy Changes
+
+We reserve the right to amend this Privacy Policy at any time for any reason and without notice. We will post changes to this Policy on each Site, and we encourage all visitors and users of a Site to check this policy from time to time.
