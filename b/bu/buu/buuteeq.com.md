@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buuteeq.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231020134id_/http%3A//www.buuteeq.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buuteeq.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501185217id_/http%3A//www.buuteeq.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
