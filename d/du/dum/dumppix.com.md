@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumppix.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231092315id_/http%3A//www.dumppix.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumppix.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502011337id_/http%3A//dumppix.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # DumpPix.com Free Adult Image hosting » More Information » Privacy Policy
 
