@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixbillionsecrets.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110015id_/http%3A//www.sixbillionsecrets.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixbillionsecrets.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501065852id_/http%3A//www.sixbillionsecrets.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Secrets - Six Billion Secrets
 
