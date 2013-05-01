@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitcalifornia.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231060636id_/http%3A//www.visitcalifornia.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitcalifornia.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083658id_/http%3A//www.visitcalifornia.com/Privacy) for the most accurate reproduction.*
 
-# privacy policy - Visit California
+# Privacy Policy - Visit California
 
 **visitcalifornia.com Privacy Notice**  
 The California Travel & Tourism Commission (the “Commission” ) recognizes that its members, visitors, users, and others (collectively or individually “Users”) who use [](http://www.visitcalifornia.com/)[www.visitcalifornia.com](http://www.visitcalifornia.com/) (the “Website”) value their privacy.  This Privacy Notice details important information regarding the use and disclosure of User information collected on the Website. Commission provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Website.  
