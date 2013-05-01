@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022134522id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502010036id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
 
 # Experience Project : Privacy Policy
 
-Last Updated December 16th, 2010 (clarification of Civil Subpoena procedures)
+Last updated March 7th, 2013
 
-At Experience Project, we recognize that privacy is critically important. This Policy applies to all of the services offered by Experience Project. 
-
-In short, Experience Project collects as little sensitive information as possible in order to foster an environment where our members are comfortable that they can share their experiences without being personally identified. For example,we do not ask for your given name or physical address during registration. However, for your own protection, always note that any activities on a public medium such as the internet, at our site or others, are traceable under extreme circumstances (e.g., we must comply with legitimate requests from law enforcement agencies to provide IP address data, which your internet service provider can trace back to you individually). With that being our general policy, details follow. 
+At Experience Project, we have put together this policy to explain how we collect and share information. This Policy applies to all of the services offered by Experience Project. 
 
 If you have any questions about this Policy, please feel free to [contact us](http://www.experienceproject.com/contact-support.php) through our website.
 
@@ -14,7 +12,7 @@ If you have any questions about this Policy, please feel free to [contact us](ht
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Experience Project Search. In order to provide our full range of services, we may collect the following types of information:
 
-  * **Information you provide** \- When you sign up for a Experience Project Account or other Experience Project service or promotion that requires registration, we ask you for some personal information (such as your email address and an account password). 
+  * **Information you provide** \- When you sign up for a Experience Project Account or other Experience Project service or promotion that requires registration, we ask you for some personal information (such as your email address and an account password). When registering directly with the Experience Project, you will be asked to set up a username that we recommend does not contain any personally identifiable information. Please be aware that if you sign in the Experience Project using a third party website, e.g. Facebook, the Experience Project will collect your username and general location information available via that website as part of the process. This information may be published with your public posting, and may be posted on other sites. 
   * **Experience Project cookies** \- When you visit Experience Project, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people utilize the website. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Experience Project features and services may not function properly if your cookies are disabled. 
   * **Log information** \- When you use Experience Project's services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
   * **User communications** \- When you send email or other communication to Experience Project, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
@@ -52,6 +50,8 @@ Experience Project only shares personal information with other companies or indi
 
 If Experience Project becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
+We may share with third parties and publish to the public your stories, along with the corresponding user name and location, in general and in connection with advertising campaigns. In order to submit your story for publication, you will be asked to either manually enter your username and location to be published alongside your story, or, you may log in with a social networking site and use the username and location available via that social networking site in connection with your post. The post, username and user location may be posted to the Experience Project Site and/or third party sites by way of embedded iFrame or embedded ad module. 
+
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
@@ -65,6 +65,10 @@ Our largest advertising partner (and the largest advertising partner across the 
 
 
 Please contact us at the e-mail address below for any additional questions about the management or use of personal data. 
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 authorizes users who are California residents to request and obtain from us a list of third parties to whom we disclose personal information for direct marketing purposes in the last calendar year and what categories of personal information was disclosed to those third parties. To make such a request, [please contact the Experience Project](http://help.experienceproject.com/customer/portal/emails/new), or write to us at: Kanjoya Inc., 456 Mongomery St., Suite 500, San Francisco, CA, 94061. 
 
 **Information security**
 
