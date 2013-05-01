@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107190911id_/http%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501173254id_/http%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
 
-# Elara Online Ireland - Buy Laptops, Netbooks, Notebooks, Computers ,Printers, LCD LED Monitors, Hard Disk, Memory, Camera, Motherboards, Routers and more
+# Elara Online Ireland - Buy Laptops, Notebooks, Web Tablets, Computers ,Printers, LED Monitors, Hard Disk, Memory, Projectors, Motherboards, Routers, HP Store and more
 
 **Personal Information**
 
@@ -44,7 +44,7 @@ If you have any questions about this privacy policy, or the use of your personal
 
 Data Protection Officer  
 Elara Online  
-45 Canal Walk  
+37 Canal Walk  
 Parkwest  
 Dublin 12  
 Ireland
