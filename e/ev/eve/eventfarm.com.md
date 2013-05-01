@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102070229id_/http%3A//www.eventfarm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501182646id_/http%3A//www.eventfarm.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Event Farm :: Professional Online Ticketing and Guest Registration
 
@@ -97,4 +97,4 @@ When You register to create an account with the Service or complete a purchase t
 
 ### Contact Information
 
-If You have any questions or concerns about Our Privacy Policy or the practices of the Service, You can contact Us at [legal@eventfarm.com](mailto:legal@eventfarm.com), by phone at (888) 444-8162, or by mail through our Corporate Office located at Event Farm, C/O Volta Live, Inc., 5500 Friendship Boulevard #2322N, Chevy Chase, Maryland 20815.
+If You have any questions or concerns about Our Privacy Policy or the practices of the Service, You can contact Us at [legal@eventfarm.com](mailto:legal@eventfarm.com), by phone at (888) 444-8162, or by mail through our Corporate Office located at Event Farm, Inc., 20331 Irvine Avenue, Suite E2, Newport Beach, CA 92660.
