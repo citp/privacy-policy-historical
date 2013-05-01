@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010070845id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501112741id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
@@ -6,7 +6,7 @@
 
 Effective February 8, 2012
 
-Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site [www.JustAnswer.com](http://www.justanswer.com/ "www.JustAnswer.com"). This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
+Inherent to transacting on the Internet is the collection of some personal information. JustAnswer ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site [www.JustAnswer.com](http://www.justanswer.com/). This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
 
 JustAnswer® is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet, by promoting the use of fair information practices. JustAnswer has elected to disclose its information practices as a sign of its commitment to privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -34,7 +34,7 @@ JustAnswer is intended for adult use only. In addition, it does not knowingly so
 **Principle 2: Use of Your Information**  
 JustAnswer® may use, share, transfer, or disclose your PII and/or Usage Statistics, itself or in conjunction with third parties, for payment processing, fraud prevention, customer service, demographic studies, to tailor JustAnswer's content and services to its users' needs, and to serve advertisements.
 
-To display advertisements that may interest you, JustAnswer uses third-party advertising companies who may use Usage Statistics (not your name, address, email address or telephone number). To learn more about this third-party advertising practice and your choice to opt-out of having information about you used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+To display advertisements that may interest you, JustAnswer uses third-party advertising companies who may use Usage Statistics (not your name, address, email address or telephone number). To learn more about this third-party advertising practice and your choice to opt-out of having information about you used by these companies, [click here](http://www.networkadvertising.org/choices/).
 
 JustAnswer posts testimonials on the Site; we obtain permission prior to posting to include the user's name and state of residence, or their initials.
 
@@ -85,4 +85,4 @@ JustAnswer reserves the right to update this policy at any time without prior no
 **Contact Us**  
 If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking [HERE](mailto:support@justanswer.com) or mail us at P.O. Box 29045, San Francisco, CA 94129.
 
-NOTICE: [Click here](http://www.onguardonline.gov/default.aspx) for important information about safe surfing from the Federal Trade Commission.
+NOTICE: [Click here](http://www.safetysurf.com/) for important information about safe surfing.
