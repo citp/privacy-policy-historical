@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infoweb.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110014id_/http%3A//infoweb.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoweb.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501185845id_/http%3A//infoweb.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: InfoWeb.net Information Directory
 
-You may also wish to visit the [Policy Page](https://web.archive.org/web/20121231110014id_/http%3A//infoweb.net/policy.php) for policies other than privacy.  
+You may also wish to visit the [Policy Page](https://web.archive.org/web/20130501185845id_/http%3A//infoweb.net/policy.php) for policies other than privacy.  
 
 
 ## Privacy, Email, and Spam Statement for infoweb.net Domain
