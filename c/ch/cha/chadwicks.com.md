@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chadwicks.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225222840id_/http%3A//www.chadwicks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chadwicks.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501091827id_/http%3A//www.chadwicks.com/privacy) for the most accurate reproduction.*
 
 # Chadwicks
 
@@ -43,6 +43,7 @@ How Do Chadwicks and metrostyle Use The Information Collected?
 We use the information collected as follows:
 
   * To process and complete your purchase transactions and provide the services you request;
+  * To process any participation in promotions
   * To contact you about the status of your orders;
   * To send you catalogs and other offerings from us and our marketing partners,
   * To identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you;
@@ -93,8 +94,8 @@ How to Unsubscribe from an E-Mail Marketing List
 To be removed from any one of the Emailing lists below, please click on the relevant link to be taken to the proper unsubscribe page:  
 
 
-  * Chadwicks.com Email List [Unsubscribe Page](http://www.chadwicks.com/chadwicks/company/emailSubscription.jsp)
-  * metrostyle.com Email List [Unsubscribe Page](https://www.metrostyle.com/metrostyle/company/emailSubscription.jsp)
+  * Chadwicks.com Email List [Unsubscribe Page](https://web.archive.org/ContactUs)
+  * metrostyle.com Email List [Unsubscribe Page](http://www.metrostyle.com/ContactUs)
 
 
 
