@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the checkvist.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202093337id_/https%3A//checkvist.com/auth/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkvist.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501190250id_/https%3A//checkvist.com/auth/privacy) for the most accurate reproduction.*
 
-# Checkvist: collaborative online outliner and checklist
-
-### Privacy policy
+# Checkvist: Privacy policy
 
 The following is the privacy policy for the www.checkvist.com website. In this policy, we describe what personal information we collect on our site, how we use it, and your options regarding information we may collect about you. If you have questions about this policy, please feel free to contact us at: [kirsa@checkvist.com](). 
 
