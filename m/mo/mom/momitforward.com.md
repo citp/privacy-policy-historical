@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momitforward.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922124200id_/http%3A//momitforward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momitforward.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501074413id_/http%3A//momitforward.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mom it Forward
+# Privacy Policy | Mom it ForwardMom it Forward
 
 Mom It Forward respects your privacy, and recognizes your concern for the way your personal information is handled and shared.  We want to ensure that you are aware of our practices and know how to contact us if you have a concern.  Please review our privacy policy below and note that we may occasionally update it to reflect new technologies or company procedures.  You should therefore review this policy regularly.
 
@@ -33,16 +33,3 @@ We rely on standard industry practices to protect the security and confidentiali
 ## **Feedback**
 
 We welcome your feedback concerning this Privacy Policy.  Please contact us at [privacy@momitforward.com](mailto:privacy@momitforward.com).
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fmomitforward.com%2Fprivacy-policy%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&title=Privacy%20Policy&notes=Privacy%20Policy%0D%0AMom%20It%20Forward%20respects%20your%20privacy%2C%20and%20recognizes%20your%20concern%20for%20the%20way%20your%20personal%20information%20is%20handled%20and%20shared.%C2%A0%20We%20want%20to%20ensure%20that%20you%20are%20aware%20of%20our%20practices%20and%20know%20how%20to%20contact%20us%20if%20you%20have%20a%20concern.%C2%A0 "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&srcTitle=Mom+it+Forward+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&title=Privacy%20Policy&source=Mom+it+Forward+&summary=Privacy%20Policy%0D%0AMom%20It%20Forward%20respects%20your%20privacy%2C%20and%20recognizes%20your%20concern%20for%20the%20way%20your%20personal%20information%20is%20handled%20and%20shared.%C2%A0%20We%20want%20to%20ensure%20that%20you%20are%20aware%20of%20our%20practices%20and%20know%20how%20to%20contact%20us%20if%20you%20have%20a%20concern.%C2%A0 "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fmomitforward.com%2Fprivacy-policy&Title=Privacy%20Policy "BlinkList")
-  * 
-
