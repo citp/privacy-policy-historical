@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crresearch.com privacy policy that was archived on 2012-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120727021427id_/http%3A//s3.netcrimson.com/privacy/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crresearch.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501230815id_/http%3A//s3.netcrimson.com/privacy/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # 
 
