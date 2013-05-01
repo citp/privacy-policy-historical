@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cookstr.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014041658id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cookstr.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501051344id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <title>Cookstr  - Privacy Policy</title>
@@ -7,10 +7,8 @@
 <meta name="keywords" content="recipes, chefs, cookbooks, food, cooking, cook, cookstr, cookster">
 <meta name="description" content="The best recipe collection on the web -- all from the world's most acclaimed chefs and cookbook authors. Cookstr features tested, trusted recipes for everything you want to cook.">
 
-  <link href="/stylesheets/all.css?1349718492" media="screen" rel="stylesheet" type="text/css">
-<script src="/javascripts/all.js?1349718492" type="text/javascript"></script>
-
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script>
+  <link href="/stylesheets/all.css?1367284236" media="screen" rel="stylesheet" type="text/css">
+<script src="/javascripts/all.js?1367284236" type="text/javascript"></script>
 
 <!--[if lt IE 7]>
 <script src="/javascripts/IE7.js" type="text/javascript"></script>
@@ -47,13 +45,17 @@
   		</div>
 
   		<div id="hdrupperright">
-  		  <div class="logout">
-    		  <a href="/login?redirect_to=http%3A%2F%2Fwww.cookstr.com%2Fprivacy" class="signup text" id="logout-button" onclick="var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var m = document.createElement('input'); m.setAttribute('type', 'hidden'); m.setAttribute('name', '_method'); m.setAttribute('value', 'delete'); f.appendChild(m);f.submit();return false;"><span class="white" style="text-transform: uppercase">Log out</span></a>
+  		  
+        <div class="logout">
+                 <a href="/login?redirect_to=http%3A%2F%2Fwww.cookstr.com%2Fprivacy" class="signup text" data-method="delete" id="logout-button" rel="nofollow"><span class="white" style="text-transform: uppercase">Log out</span></a>
   		    <div class="text welcome">Welcome to Cookstr</div> 
   		  </div>
+
   		  <div class="signup-login">
-    		  <a href="" class="signup overlay-trigger text" rel="#login_dialogue"><span class="white">Log in</span></a>
+          <span class="no-link">to receive the weekly Cookstr Newsletter</span>
 		      <a href="" class="signup overlay-trigger signup-wall text" rel="#signup_dialogue"><span class="white">Sign up</span></a> 
+          <span class="no-link">or</span>
+          <a href="" class="signup overlay-trigger text" rel="#login_dialogue"><span class="white">Log in</span></a>
   		  </div>
   		  
   		  <div id="icons">
@@ -103,20 +105,37 @@
   	</div>
     
     <div id="nav">
-  <div id="nav-surprise-me"><a href="/searches/surprise"><img alt="Surprise-me-button-transp" src="/images/searchbox/surprise-me-button-transp.png?1349718492"></a></div>
+  <div id="nav-surprise-me"><a href="/searches/surprise"><img alt="Surprise-me-button-transp" src="/images/searchbox/surprise-me-button-transp.png?1367284236"></a></div>
 
   <ul>
-    <li class="link"><a href="/about" class=" ">What's Cookstr</a></li>
+    <li class="link"><a href="/about" class=" ">About Cookstr</a></li>
     <li class="link"><a href="/recipes" class=" ">Recipes</a></li>
     <li class="link"><a href="/chefs" class=" ">Chefs &amp; Authors</a></li>
   	<li class="link"><a href="/mycookstr" class="overlay-trigger signup-wall " id="mycookstr-nav-tab" rel="#signup_dialogue">My Cookstr</a></li>
   </ul>
 
-  <form action="/searches" class="edit_search" id="nav-search-form" method="get">
+  <form accept-charset="UTF-8" action="/searches" class="new_search" id="nav-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <input id="nav-search-bar-query" name="query" type="text" value="Type recipe, ingredients, or chef">
     <a class="nav-search-button" href="#" onclick="jQuery(&quot;#nav-search-form&quot;).submit();; return false;"></a>
-  </form>
+</form>  <span id="nav-search-bar-suggestions" class="search-suggestions"></span>
 </div>
+
+<script type="text/javascript" charset="utf-8">
+  jQuery(function(){  
+    if (typeof(searchTerms) !== 'undefined')
+      new Autocompleter.Local(jQuery('#nav-search-bar-query').get(0), jQuery('#nav-search-bar-suggestions').get(0), searchTerms, {
+    		fullSearch: true,
+    		afterUpdateElement: function(input, selectedElement){
+    			input.up('form').submit();
+    		}
+    	});	
+  });
+</script>
+<script type="text/javascript" charset="utf-8">
+  var searchTerms = ["egg","ham","cod","soy","rum","tofu","beer","crab","game","soup","filo","meat","goat","beef","fish","mint","nuts","pork","tuna","figs","okra","sage","peas","miso","salt","eggs","udon","feta","lamb","rice","corn","milk","ziti","orzo","veal","duck","oats","pita","kale","bread","mango","penne","honey","leeks","plums","ducks","bacon","quail","clams","fruit","trout","flour","onion","pears","hunan","lemon","pasta","squid","cocoa","basil","vegan","herbs","cumin","dates","yeast","steak","chard","beets","limes","chili","farro","beans","lemons","tahini","banana","celery","onions","frozen","creole","shrimp","cheese","walnut","salmon","millet","barley","orange","citrus","fennel","paneer","turkey","olives","snails","endive","grains","batali","bulgur","boulud","pecans","apples","phyllo","quinoa","korean","butter","cooked","salami","ripert","fondue","potato","gelato","capers","asiago","panini","scampi","rabbit","yogurt","ginger","garlic","coffee","raisins","catfish","polenta","oysters","lasagne","risotto","gruyere","avocado","lobster","sirloin","harissa","peaches","poblano","alfredo","walnuts","mussels","brisket","carrots","chorizo","bourbon","english","british","oranges","almonds","caprese","anchovy","parsley","nutella","pumpkin","lasagna","rhubarb","italian","chicken","cabbage","ketchup","tequila","cheddar","lentils","halibut","saffron","bananas","sausage","arugula","berries","cookies","mustard","turnips","snapper","poultry","spinach","paprika","vinegar","peppers","ricotta","noodles","collard","mangoes","gelatin","oatmeal","coconut","tomatoes","shallots","bok choy","ditalini","marinara","provence","focaccia","salt cod","cinnamon","duckling","radishes","espresso","ciabatta","tarragon","macaroni","chipotle","calamari","rigatoni","avocados","lobsters","parsnips","crabmeat","cherries","broccoli","farfalle","eggplant","cardamom","zucchini","cilantro","parmesan","turmeric","escarole","flounder","linguine","potatoes","rosemary","tiramisu","pancetta","chickens","cucumber","jalapeno","sardines","red wine","mushroom","couscous","grilling","scallops","cupcakes","rutabaga","monkfish","braciole","bresaola","cornmeal","crostini","american","antipasti","fettucine","tuna fish","vegetable","crab meat","chocolate","meatballs","appetizer","wild rice","asparagus","ham hocks","bolognese","duck legs","chestnuts","pie dough","pork ribs","spaghetti","cold-soup","pork loin","tortillas","provolone","veal neck","pineapple","chickpeas","soy sauce","veal stew","egg salad","buckwheat","coriander","hazelnuts","dried fig","firm tofu","shellfish","eggplants","egg yolks","parma ham","rye bread","cornbread","cucumbers","mushrooms","panattone","dumplings","whole milk","sauerkraut","yom kippur","navy beans","limoncello","lamb chops","rice salad","mozzarella","split peas","portobello","prosciutto","lemongrass","minestrone","white wine","lamb curry","sour cream","tortellini","vermicelli","belly pork","mortadella","cake flour","mascarpone","watermelon","artichokes","short ribs","sesame oil","lamb roast","garlic oil","tuna steak","beef broth","cannellini","apple cake","lemon zest","fettuccine","casseroles","rice flour","fried fish","dried figs","vegetables","cooked ham","mayonnaise","cans clams","cornstarch","shortening","pork chops","egg whites","white cake","lime juice","beef chuck","enchiladas","buttermilk","lemon curd","tomatillos","yukon gold","tuna salad","vietnamese","red snapper","red cabbage","pappardelle","corned beef","cauliflower","ground beef","ground lamb","yellow cake","gluten free","blue cheese","lamb shanks","ground veal","mothers day","ladyfingers","julia child","white bread","sweetbreads","potato hash","pizza dough","silken tofu","green beans","orange zest","hash browns","littlenecks","tuna steaks","frozen peas","heavy cream","blueberries","apple crisp","slow cooker","bread flour","lemon juice","black beans","apple cider","broad beans","maple syrup","goat cheese","cranberries","celery root","tagliatelle","raspberries","vodka sauce","skirt steak","puff pastry","cooked rice","ground pork","pomegranate","curry paste","pesto pasta","red peppers","pasta salad","steak salad","dried thyme","steak sauce","rolled oats","leg of lamb","orecchiette","white beans","horseradish","rhubarb pie","egg noodles","chicken legs","almond flour","arborio rice","key lime pie","rice noodles","garam masala","kidney beans","chili powder","pork sausage","pasta shells","vongerichten","filet mignon","stewing beef","sweet potato","blackberries","fish fillets","loin of pork","napa cabbage","beef fajitas","duck breasts","new potatoes","hoisin sauce","baby spinach","braised beef","sesame seeds","pearl onions","lamb burgers","grilled beef","fresh ginger","baked salmon","grape leaves","vanilla bean","basmati rice","summer pasta","orange juice","dried lentil","curry powder","black olives","soba noodles","coconut milk","sea scallops","bay scallops","almond paste","green olives","caesar salad","bell peppers","cream cheese","strawberries","pork shoulder","yellow onions","rosh hashanah","smoked salmon","ground turkey","vegan sausage","pumpkin puree","plum tomatoes","green cabbage","filet mignons","sheila lukins","hot chocolate","savoy cabbage","dijon mustard","chicken broth","cooked turkey","blueberry pie","turkey breast","tapioca flour","salmon fillet","boneless pork","yellow squash","sugar cookies","pasta alfredo","chicken stock","lamb shoulder","winter squash","broccoli rabe","potato gratin","peanut butter","apple sausage","mushroom soup","coconut sugar","apple muffins","chicken backs","chicken wings","spinach salad","frying peppers","grilled salmon","chicken breast","almond extract","nigella lawson","roast potatoes","cooked chicken","beef pot roast","graham cracker","steel cut oats","canned pumpkin","green tomatoes","acorn squashes","chicken thighs","golden raisins","vegetable stew","dark chocolate","smoked paprika","condensed milk","rice and beans","baby back ribs","mustard greens","vegan desserts","salmon fillets","wild mushrooms","dried apricots","sweet potatoes","ground sirloin","boiled cabbage","fried zucchini","corn tortillas","sherry vinegar","chicken livers","milk chocolate","pasta marinara","buttermilk cake","chocolate icing","lamb loin chops","parmesan cheese","farm stand corn","pasta bolognese","red bell pepper","beef tenderloin","firm white fish","dried navy bean","rice vermicelli","white mushrooms","anchovy fillets","creamed spinach","frozen desserts","deborah madison","cooked lobsters","beef short ribs","chicken breasts","unsalted butter","vegetable sauce","root vegetables","potato pancakes","wonton wrappers","dried chickpeas","cherry tomatoes","romaine lettuce","buckwheat flour","evaporated milk","white chocolate","pork tenderloin","black eyed peas","stuffed cabbage","sauteed spinach","chicken tenders","brussels sprouts","red bell peppers","butternut squash","gluten free cake","artichoke hearts","cream of coconut","red wine vinegar","chicken marinade","penne alla vodka","shoulder of lamb","eggplant lasagna","balsamic vinegar","pork tenderloins","button mushrooms","spaghetti squash","dried red lentil","prosciutto cotto","chocolate banana","english cucumber","sandwich cookies","chocolate cherry","preserved lemons","swordfish steaks","green bell pepper","dried cranberries","julia della croce","gluten free bread","shiitake mushroom","all purpose flour","cremini mushrooms","mushroom stuffing","whole wheat bread","whole wheat flour","eggplant parmesan","chocolate pudding","dried white beans","coconut cream pie","dried black beans","apricot preserves","light brown sugar","roasted vegetables","standing rib roast","breakfast potatoes","herbes de provence","shiitake mushrooms","chicken drumsticks","chocolate frosting","gluten free cookies","chocolate cream pie","semisweet chocolate","gluten free muffins","parmigiano reggiano","stir-fried zucchini","yellow bell peppers","buttermilk pancakes","chicken noodle soup","boneless leg of lamb","can chopped tomatoes","potato and leek soup","spring roll wrappers","cabbage and potatoes","smooth peanut butter","chocolate cheesecake","gluten free desserts","can artichoke hearts","gluten free pancakes","creamy peanut butter","bittersweet chocolate","cans artichoke hearts","chocolate chiffon pie","chicken and rice soup","dried cannellini bean","peanut butter cookies","sweet italian sausage","cream of broccoli soup","skinless chicken thigh","oatmeal raisin cookies","chocolate chip muffins","boneless pork shoulder","dried cannellini beans","boneless lamb shoulder","frozen chopped spinach","skinless chicken breast","whole wheat bread flour","chocolate peanut butter","skinless chicken thighs","boneless chicken breast","sweetened flaked coconut","spaghetti with meatballs","boneless chicken breasts","sweetened condensed milk","skinless chicken breasts","flourless chocolate cake","canned whole plum tomato","semisweet chocolate chips","unsweetened shredded coconut","unsweetened baking chocolate","boneless skinless duck breast","boneless skinless whole chicken","skinless bone in chicken thighs","skinless boneless chicken breast","boneless skinless chicken breast","skinless boneless chicken breasts","boneless skinless chicken breasts","boneless and skinless chicken breast","skinless and boneless chicken thighs","boneless and skinless chicken breasts"];
+</script>
+
+
 
 <script type="text/javascript" charset="utf-8">
   var searchBarQueryDefaultable = new Defaultable(jQuery('#nav-search-bar-query').get(0));
@@ -126,7 +145,6 @@
       <div id="titlebar"></div>
       
       
-
 <div class="static-info">
   <div class="two_column_wide">  
     <div class="content">
@@ -204,12 +222,10 @@
   <div class="two_column_narrow">
     <div class="ad-content">
 
-
   <!-- FM Medium Rectangle Zone -->
   <script type="text/javascript" src="http://static.fmpub.net/zone/6237"></script>
   <!-- FM Medium Rectangle Zone -->
 
-  
 </div> 
   </div>
 </div>
@@ -237,7 +253,7 @@
 	</div>
 
   <div id="copyright">
-    <a href="/terms_of_use">© 2012 Cookstr, LLC, All Rights Reserved.</a> 
+    <a href="/terms_of_use">© 2013 Cookstr, LLC, All Rights Reserved.</a> 
     Cookstr is part of the Federated Media Publishing - Food channel.
   </div>
 	
@@ -257,11 +273,9 @@
   <div class="leaderboard bottom">
     <div class="ad-content">
 
-
   <!-- FM Leaderboard Zone -->
   <script type="text/javascript" src="http://static.fmpub.net/zone/6238"></script>
   <!-- FM Leaderboard Zone -->  
-  
   
 </div> 
   </div>
@@ -276,7 +290,6 @@
 
 //]]>
 </script>
-
   
   <div id="overlays">
   
@@ -286,13 +299,36 @@
       Already a member? <a href="" class="overlay-trigger" rel="#login_dialogue">Click here to Log In</a>
     </div>  
     <a class="close">close</a>
-    
       <div class="social-buttons">  
         <a href="/auth/twitter" class="social-button twitter-button"></a>
   	    <a href="/auth/facebook" class="social-button facebook-button"></a>
   	  </div>
-  	    
-    <form action="/users" class="new_user" id="new_user" method="post" onsubmit="new Ajax.Updater({success:'signup_dialogue',failure:'signup-errors'}, '/users', {asynchronous:true, evalScripts:true, on500:function(request){jQuery(&quot;#signup-errors&quot;).innerHTML = &quot;Error signing up!&quot;}, onLoaded:function(request){jQuery(&quot;#signup-spinner&quot;).toggle()}, onLoading:function(request){jQuery(&quot;#signup-spinner&quot;).toggle()}, parameters:Form.serialize(this)}); return false;">
+    <form accept-charset="UTF-8" action="/users" class="new_user" data-remote="true" id="signup-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+  
+  <script type="text/javascript" charset="utf-8">
+    jQuery(function(){
+      
+      var form = jQuery('#signup-form');
+
+      form.bind('ajax:beforeSend', function(evt, xhr, settings) {
+        jQuery("#signup-spinner").toggle();
+      });
+      
+      form.bind('ajax:success', function(evt, data, status, xhr){
+        jQuery('#signup_dialogue').html( data );
+      });
+      
+      form.bind("ajax:error", function(evt, xhr, status, error){
+        var errorText = xhr.responseText;
+        jQuery('#signup-errors').html( errorText );
+      });
+      
+      form.bind('ajax:complete', function(evt, xhr, status){
+        jQuery("#signup-spinner").toggle();
+      });
+    });
+    
+  </script>
   
   <div style="border: 1px solid black; width: 740px">
     <table cellpadding="0" cellspacing="0">
@@ -306,7 +342,6 @@
     	  <td width="13" class="grey"></td>
      		<td width="258" colspan="5" class="headline">     		  
    		    <h2>
-   		          
    		      <b>Sign up to Cookstr!</b>
    		    </h2>  
  		      <ul>
@@ -400,20 +435,18 @@
      		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden" value="http://www.cookstr.com/privacy"> 
           <input class="button" name="sign_up" type="submit" value="">  
        		<div class="image-wrapper">
-       		  <img alt="Spinner" class="spinner" id="signup-spinner" src="/images/spinner.gif?1349718492">
+       		  <img alt="Spinner" class="spinner" id="signup-spinner" src="/images/spinner.gif?1367284236">
        		</div>
      		</td>
       		<td width="50"> </td>
      		<td width="13" class="grey">
      		</td>
      	</tr>
-     	
     </tbody></table>
     <div style="height: 14px;" class="grey"></div>
     <input id="ad" name="ad" type="hidden">
   </div>
 </form>
-
 
 
   </div>
@@ -426,7 +459,7 @@
       <a href="/auth/twitter" class="social-button twitter-button"></a>
 	    <a href="/auth/facebook" class="social-button facebook-button"></a>
 	  </div>
-    <form action="/login" method="post">
+    <form accept-charset="UTF-8" action="/login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
   <div style="border: 1px solid; border-color: black; width: 440px;">
   	<div style="height: 10px; background-color: #ff6600; style: block:"></div>
     <div style="border: 10px solid; border-color: #e8e8e8; width: 420px;">
@@ -460,7 +493,9 @@
       		<td class="submit-section" align="middle">
       		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden" value="http://www.cookstr.com/privacy">
       		  <input class="button" name="log_in" type="submit" value="">
-      		    
+            <div class="auto_login">
+              <input checked="checked" id="auto_login" name="auto_login" type="checkbox" value="yes"> Keep me logged in
+            </div> 
       		</td>
       		<td width="64"></td>
       	</tr>
@@ -469,9 +504,25 @@
   </div>
 </form>
 
-
   </div>
-
+  <div id="comment_dialogue" class="overlay">
+    <a class="close">close</a>
+    <div class="social-buttons">
+	  </div>
+    <div style="border: 1px solid; border-color: black; width: 440px;">
+  <div style="height: 10px; background-color: #ff6600; style: block:"></div>
+  <div style="border: 10px solid; border-color: #e8e8e8; width: 420px;">
+    <table cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><center><b>Thanks for commenting!</b></center></td>
+      </tr>
+      <tr>
+        <td><center>Would you like to share your comment on Facebook or Twitter?</center></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+  </div>
 </div>
   
   <!-- FM Tracking Pixel -->
