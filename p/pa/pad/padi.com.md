@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620144209id_/http%3A//www.padi.com/scuba/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501134410id_/http%3A//www.padi.com/scuba/privacy-policy/default.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 PADI and its affiliated companies (the PADI Companies) are committed to respecting the privacy of customers (including participants of the PADI Companies Experience and Training Programs (Training Programs), persons making inquiries and visitors to the PADI website, padi.com. This Privacy Policy covers personally identifiable information that may be provided to the PADI Companies during such interactions. As is explained below, the information provided during various types of interactions may be treated differently. Changes to the policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law.
 
