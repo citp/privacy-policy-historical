@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191754id_/http%3A//internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082954id_/http%3A//internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Internet Retailing » Privacy Policy
 
@@ -7,7 +7,7 @@
 ## Privacy Policy
 
 **1\. Introduction**  
-1.1 We are committed to respecting and protecting your privacy. This policy sets out our approach. “We” in this context are St John Patrick Publishers Limited. We are the Publishers of Internet Retailing and act as the administrators of the policy. In the policy we’re referred to as “The Administrator”.  
+1.1 We are committed to respecting and protecting your privacy. This policy sets out our approach. “We” in this context are SJP Business Media Ltd. We are the Publishers of Internet Retailing and act as the administrators of the policy. In the policy we’re referred to as “The Administrator”.  
 1.2 We are committed to protecting the privacy of visitors to the web site in accordance with the Data Protection Act 1998 (the “Act”).  
 1.3 This privacy policy explains how we may collect personal data and how we use the information we may collect about you.  
 **2\. Information collected and retained by the Administrators**  
@@ -23,7 +23,7 @@
 3.2.3 informing you of changes in our website.  
 3.3 By providing us with your personal information, you consent to us (and where relevant, our subsidiaries, affiliates and trusted partners) using (including collecting, storing and processing) your personal information. We will of course inform you of any changes to Privacy policy and you will have the opportunity to opt out of those changes which affect you.  
 **4\. Accessing and amending your personal information**  
-We will process your personal data for the purposes set out in clause 3 above. If however, you have any queries or requests in relation to Data Protection please notify our Data Protection Compliance Officer at: Saint John Patrick Publishers Ltd, 6 Laurence Pountney Hill, London, EC4R 0BL.  
+We will process your personal data for the purposes set out in clause 3 above. If however, you have any queries or requests in relation to Data Protection please notify our Data Protection Compliance Officer at: SJP Business Media Ltd, 6 Laurence Pountney Hill, London, EC4R 0BL.  
 **5\. Disclosure to Third Parties**  
 5.1 We may disclose your information to necessary third parties to enable us to provide you with the Services. By requesting us to provide you with the Services you consent to this disclosure.  
 5.2 We also reserve the right to access and disclose to third parties your information to comply with applicable laws including but not limited to disclosure in accordance with the Act, the Regulation of Investigatory Powers Act 2000 and lawful authority requests, to safeguard the proper operation of our systems and to protect ourselves and our clients.  
