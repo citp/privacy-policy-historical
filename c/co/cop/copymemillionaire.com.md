@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copymemillionaire.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172808id_/http%3A//copymemillionaire.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copymemillionaire.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080159id_/http%3A//copymemillionaire.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
