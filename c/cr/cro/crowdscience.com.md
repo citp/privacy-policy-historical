@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the crowdscience.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230215751id_/http%3A//www.crowdscience.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdscience.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501071715id_/http%3A//www.crowdscience.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowd Science
 
 Last Updated: February 10, 2012
 
 Crowd Science, Inc. (“Crowd Science”) is committed to following all applicable privacy laws and regulations and keeping you informed of how it might use any information it collects or otherwise receives about you. The following Privacy Policy is part of that commitment.
-
-Crowd Science has been awarded TRUSTe’s Privacy Seal, signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information while on [crowdscience.com](http://crowdscience.com/) and through our Service Platform. The use of information collected through our Service Platform shall be limited to the purpose of providing the service for which the Client has engaged Crowd Science. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@crowdscience.com. If you are not satisfied with our response or your complaint has not been resolved by Crowd Science, we agree to participate in the dispute resolution procedures of TRUSTe. You can contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint](http://watchdog.truste.com/pvr.php?page=complaint).
-
-If you are a Crowd Science Client and you have a written, signed contractual agreement with Crowd Science other than the [Terms of Service](http://app.crowdscience.com/terms/free/), such contractual agreement supersedes the terms of this Policy.
 
 ## Collection and Use Practices for CrowdScience.com
 
