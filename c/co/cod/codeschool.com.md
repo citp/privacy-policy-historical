@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the codeschool.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920084612id_/http%3A//www.codeschool.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeschool.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080129id_/http%3A//www.codeschool.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Code School
 
 
 
-
-## Privacy Policy
 
 This Privacy Policy applies to all products and services offered through Code School.
 
@@ -24,7 +22,7 @@ Should Code School ever merge with, acquire, or be sold to another company, you 
 
 ### Security of Your Information
 
-Since you provide us with sensitive information, we take ever measure possible to protect your information against unauthorized access or disclosure. Access to your information is restricted to employees or contractors of Envy Labs who are bound by confidentiality obligations and non-disclosure agreements. 
+Since you provide us with sensitive information, we take every measure possible to protect your information against unauthorized access or disclosure. Access to your information is restricted to employees or contractors of Envy Labs who are bound by confidentiality obligations and non-disclosure agreements. 
 
 ### Changes
 
