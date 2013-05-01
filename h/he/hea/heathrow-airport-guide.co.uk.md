@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222210id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084847id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Fubra
 
@@ -87,10 +87,24 @@ If you contact us via email or phone, your details and a history of the communic
 
 
 
+### 
+
+  * Fubra create and run mobile software applications for handheld devices known as “apps” for various websites and will be developing further apps in the future. Currently the apps are available through the following platforms iTunes (for Apple devices) and Google Play (for Android devices).
+  * Some of our apps will require you to log in using your Fubra Passport details. In these cases our Passport privacy policy still applies.
+  * When you download an app through Google Play or Apple iTunes, these companies may pass your name, email and postcode on to us when you make a transaction. If this is the case then we will never pass these details to third parties or use them for marketing purposes. Any information we collect is kept extremely secure using the procedures outlined in the Security section above. We may use your details to contact you occasionally with important information relating to your account. We do not collect any of your payment details as this is handled via Google Play and Apple iTunes.
+  * We may use GPS technology to improve your experience of the app and so determine where in the world you are located. We will never pass this geolocation information to third parties. Should you not wish for us to know your location you can turn off the location settings on your device.
+  * The majority of Fubra apps are subject to a fee which should be stated on the download page. Prices may change over time and there may be promotional periods where app prices vary. Promotional periods are subject to a length of time and may be subject to change. Some of our apps are sold on an annual subscription basis. For these apps your subscription will expire a year after your original purchase and you will have to pay the repeated fee. On the app download page it should mention if the subscription is annual or a one off fee.
+
+
+
 ## Glossary
 
 ### Cookies
 
 Cookies are simply a way for us to record small pieces of information on your computer when you visit one of our sites, so that we can recognize your browser in future visits. This is typically used to record things like your login details, so that when you return to our sites you don’t need to type in them every time. The cookie itself is a small file that is stored by your web browser, and tied to a specific website. Each website can create its own cookie, but it can not read information from any other sites, or anywhere else on your computer.
+
+### App
+
+Software application used on a handheld device.
 
 If you have any questions about this privacy statement, the practices or your dealings with any Fubra site, you may [contact us](https://web.archive.org/contact/).
