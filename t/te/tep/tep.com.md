@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015121538id_/https%3A//www.tep.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502002825id_/https%3A//www.tep.com/legal/privacy) for the most accurate reproduction.*
 
 # Tucson Electric Power
 
