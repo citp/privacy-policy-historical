@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630162049id_/http%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501141208id_/http%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cougar Life
 
@@ -101,4 +101,5 @@ Cougar Life Inc.
 
 (DBA Cougar Life)   
 20 Eglinton Ave West, Suite 1200  
-Toronto, ON Canada M4R 1K8 
+Toronto, ON Canada M4R 1K8   
+1-877-740-3176 
