@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dclm.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502093553id_/http%3A//www.dclm.org/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclm.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075835id_/http%3A//dclm.org/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Deeper Christian Life Ministry > Home
 
@@ -44,4 +44,4 @@ Deeper Christian Life Ministry will occasionally update this Statement of Privac
 
 Contact Information
 
-Deeper Christian Life Ministry welcomes your comments regarding this Statement of Privacy. If you believe that Deeper Christian Life Ministry has not adhered to this Statement, please contact Deeper Christian Life Ministry at [info@deeperlifeonline.org](mailto:info@deeperlifeonline.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Deeper Christian Life Ministry welcomes your comments regarding this Statement of Privacy. If you believe that Deeper Christian Life Ministry has not adhered to this Statement, please contact Deeper Christian Life Ministry at [info@deeperlifeonline.org](mailto:info@deeperlifeonline.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
