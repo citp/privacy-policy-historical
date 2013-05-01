@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewaregenius.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117000613id_/http%3A//www.freewaregenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewaregenius.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501104819id_/http%3A//www.freewaregenius.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - freewaregenius.com — freewaregenius.com
+# Privacy Policy - freewaregenius.com
 
 This is our privacy policy for Freewaregenius.com
 
@@ -29,5 +29,3 @@ The following is information I am required to place in my privacy policy by Goog
 “
 
 Thanks.
-
-[](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.freewaregenius.com%2Fprivacy-policy%2F "Facebook") [](http://twitter.com/share?url=http%3A%2F%2Fwww.freewaregenius.com%2Fprivacy-policy%2F&text=Privacy+Policy "Twitter") [](https://plusone.google.com/_/+1/confirm?hl=en&url=http%3A%2F%2Fwww.freewaregenius.com%2Fprivacy-policy%2F&title=Privacy+Policy "Plusone") [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.freewaregenius.com%2Fprivacy-policy%2F&title=http%3A%2F%2Fwww.freewaregenius.com%2Fprivacy-policy%2F "Stumbleupon")
