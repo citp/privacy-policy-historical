@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032530id_/http%3A//www.oh-barcelona.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501120813id_/http%3A//www.oh-barcelona.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement of Oh-Barcelona.com (Open House Spain S.L.)
 
@@ -48,7 +48,7 @@ Information supplied is managed by our server located in Spain, under the protec
 
 ## **Opt-in/Opt-out**
 
-We send an evaluation/follow-up email to clients who have booked an apartment after they have left their accommodation. Any user who does not wish to receive a follow-up email should contact us by email on the day of departure from their accommodation at info@openhousegroup.com. You can also opt out by contacting us on the phone numbers provided on our contact page. 
+We send an evaluation/follow-up email to clients who have booked an apartment after they have left their accommodation. Any user who does not wish to receive a follow-up email should contact us by email on the day of departure from their accommodation at info@gowithoh.com. You can also opt out by contacting us on the phone numbers provided on our contact page. 
 
   *   
 
@@ -74,7 +74,7 @@ When users are requested through our booking form to enter sensitive information
 
 Open House Spain SL complies with the levels of security of personal data protection required by all current legislation, and has installed the technical and organisation measures necessary to avoid loss, misuse, alteration or unauthorised access of personal data. 
 
-If users have any questions about security on our website, they can email us at info@openhousegroup.com.
+If users have any questions about security on our website, they can email us at info@gowithoh.com.
 
 **Registered users and clients**
 
@@ -98,7 +98,7 @@ If we decide to make a material change to our privacy policy, we will notify use
 
 ## **Notification of changes in personal information**
 
-If there are any changes to your personal information (such as your postcode, telephone numbers, email or postal addresses), or if a user decides not to avail themselves of our services, he/she can approve, rectify, cancel or oppose the treatment of this information by sending an email to our client support service at: info@openhousegroup.com. Alternatively, users can telephone or write to us using the details supplied below. 
+If there are any changes to your personal information (such as your postcode, telephone numbers, email or postal addresses), or if a user decides not to avail themselves of our services, he/she can approve, rectify, cancel or oppose the treatment of this information by sending an email to our client support service at: info@gowithoh.com. Alternatively, users can telephone or write to us using the details supplied below. 
 
   *   
 
@@ -112,7 +112,7 @@ If you have any questions or suggestions about our privacy policy, please get in
 
 Phone: 34 93 467 37 79  
 Fax: 34 93 467 37 62  
-Email: info@openhousegroup.com
+Email: info@gowithoh.com
 
 Address:  
 Open House Group  
