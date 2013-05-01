@@ -1,74 +1,86 @@
-> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206092354id_/http%3A//lse.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501180602id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
 
-# Life Style Extra
+# London South East - Data Protection and Privacy Statement
 
-Life Style Extra takes its responsibility regarding the confidentiality and privacy of all its users and customers personal information very seriously.
+This is our website privacy statement. Please read it carefully as you should only submit information through this site if you agree that we may use it in accordance with this privacy statement.
 
-Life Style Extra observes very high standards of confidentiality in relation to the data we hold. In an effort to reduce unwanted e-mails, and maintain your trust, we will never pass on your e-mail address or other personal details without your explicit permission - unless obligated to do so by law.
+We collect certain information about you when you visit our website. We recognise the importance of both keeping that information secure and letting you know what we intend to do with that information. We may amend our privacy statement to reflect changes to our business, website or to data protection legislation. We therefore ask that you revisit this privacy statement on a regular basis to ensure you are familiar with its terms. This privacy statement only applies to our website; if you follow a link out of our site or leave our site in some other way, this privacy statement will no longer apply.
 
-This Privacy Policy outlines how your personal information is treated and forms part of the terms and conditions of this web site. We would therefore ask you to fully read the Privacy Policy and contact us if you have any questions or require any further information. 
+## Who we are
 
-We may occasionally modify and update this Privacy Policy. Any amendments to this statement will be held on this page. 
+We are London South East Limited, a company registered in England & Wales under company number 06258308 whose registered office is at 1st floor offices, Natwest Bank, Market Square, Rochford, Essex, SS4 1AJ. We are registered under the Data Protection Act 1998 with registration number Z9954798.
 
-**1\. General terms**  
-If you choose to use any of the services that Life Style Extra provides, you will have been deemed to consent to the collection and use of your data and personal information. We may collect personal information, (for example, your name, date of birth, email address, claim details) from our website, written correspondence, telephone calls and all other forms of communication to enable us to provide you with a range of services.
+## The information we collect
 
-**2\. Information on visitors**  
-When you access this website, we may attach a cookie to your browser to enhance your browsing experience, but we do not use cookies to track your progress through the site, or related sites.
+We collect information from when you use our site in the form of traffic data. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and aggregate information. This is statistical data about browsing actions and patterns to enable us to improve the website and does not identify any individual.
 
-**3\. What is a cookie?**  
-When you enter a site your computer will automatically be issued with a cookie. Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Many sites do this whenever a user visits their site in order to track traffic flows.
+## Online forms
 
-Our site will still function fully with your browser set to reject cookies.
+We collect information you give us when completing the 'Contact' section. Where we would like more information to help us improve our services, over and above the basic required information, it will be clear that your response is voluntary and you are free not to provide us with more information if you would prefer not to do so.
 
-**4\. How your data may be used**  
-All data collected will be held in accordance to the Data Protection Act 1998 and unless you have submitted the information to us voluntarily, or there are extenuating circumstances that legally permit the processing of your data without your explicit consent, we will always obtain your permission to use any data that may be categorised as sensitive by the Data Protection Act 1998.
+## Cookies
 
-We may also utilise your data for analysis purposes to enable us to publish website activity trends or to enable us to improve the site in respect of content and usefulness.
+Cookies are small text files which are often stored on your computer's hard drive by websites you visit to enable the site to remember who you are. These cookies store your unique ID but do not contain any information that personally identifies you, such as a name or address. We use cookies when you log onto our site to stop you having to re-type information and they remain on your computer until you delete them.
 
-**5\. Access to your personal information**  
-You have the right to obtain a copy from Life Style Extra of any personal data held about you. We may request a small administration fee for supplying a copy of the data held and for amending any inaccuracies.
+Without cookies you cannot login to LSE.co.uk. We use cookies to enhance the functionality of the website by storing your preferences/settings, as well as using cookies to help us to improve the performance of our website and to provide you with a better user experience.
 
-**6\. Users 16 and under**  
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the Life Style Extra website. Users without this consent are not allowed to provide us with personal information.
+Most browsers are automatically set to accept cookies and you should be able to restrict or disable them if you wish by adjusting the settings on your browser. This will however alter your use of the areas of our website that use cookies, such as the login areas. We do not use 'spyware', that is web bugs or hidden identifiers or other similar devices to gain access to information or to trace your activities. For more information about cookies and instructions on how to adjust your browser settings or restrict or disable cookies, see the IAB website at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Contact us or view our dedicated Cookie page on the site for specific information on the cookies we use.
 
-**7\. Who may process your data**  
-Personal data collected will only be processed by or on behalf of Life Style Extra. This might entail sharing the information with employees, contractors and professional advisers of Life Style Extra. Should this be necessary, we will put a contract in place to ensure your information is adequately protected and your privacy respected.
+## Analytics
 
-**8\. Passing on information**  
-As a matter of policy, we do not pass on your e-mail address or personal details without your explicit consent. Where we do pass on your data, we will put in place safeguards such as contract terms to protect your information and to ensure and your privacy is respected. We and other organisations may use and search these records to:
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (Google). Google Analytics uses cookies, which are texted files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data by Google in the manner and the purposes set out above.
 
-**9\. Phone calls**  
-To help protect your and our interests we may record phone calls to provide an accurate record of discussions.
+Certain pages of our website are monitored for the purpose of reporting web traffic, statistics, advertisement 'click-throughs' and/or other activities on our website.
 
-**10\. How secure is your data?**  
-Life Style Extra takes every precaution to protect your personal information. When we invite you to submit personal financial information such as your credit card number and/or bank account number we use industry standard Secure Sockets Layer (SSL) encryption technology, making these pages secure, or an authorised third party Payment Provider who also uses SSL. In addition, we have strict security protocols in place to protect our customer database. This website may contain links to other websites and you should be aware that we are not responsible for the privacy practices of other sites and we therefore encourage you to read in full the Privacy Policy Statement of any site you may choose to visit.
+Should you object to the use of cookies, web beacons and/ or other such monitoring technology on our website most internet browsers can be reconfigured to alert you to their use/allow you to reject their use. If you wish to block such technology, please refer to the help function of you internet browser. Please note that you may not be able to use certain facilities and services on this website if you choose to do this.
 
-**11\. Surveys and User Groups**  
-Life Style Extra may from time to time invite you to join or participate in surveys and user groups. You are not obliged to join or participate, however, should you so choose to join or participate in survey or user group, any information you provide will be processed with the same high standard of care as all other customer information.
+## What we do with your information
 
-We sometimes invite you to participate in such activities to assist us with the development of new features, services and functionality for the site.
+**How we use it**  
+We use your information to provide you with that which you have requested. If you ask us to, we will use your details to send you information about other products and services that may be to your interest.
 
-**12\. Contests**  
-We may occasionally contact you with the opportunity to enter competitions on this site. Entry to any competition is voluntary and you are under no obligation to accept any invitation that may be offered. If you choose to enter a competition, any information you provide will be processed with the same high standard of care as all other information. We will only use the information within the strict entry terms of the competition and within the terms of this policy statement.
+You may ask us to remove you from our mailing lists at any time by writing to us at our registered office. We will also offer you the option of correcting your details and of being removed from our mailing list when we send you alerts or other information.
 
-**13\. Email a Friend**  
-From time to time we may operate a 'Tell a Friend' service. This is a referral service designed to make it easy for customers to recommend our website or offers to a friend.   
-This is a two step process: 
+**When we share it**  
+We disclose your information to third parties in certain circumstances but we will not sell, rent or trade personal information. We may share your information with other organisations that buy our company or assets, or another organisation from which we acquire a company or business and in the course of any preceding negotiations from which we may or may not lead to sell. We may share your information with our funders or potential funders such as our bank and with professional advisers who have a reasonable need to see such information.
 
-First, a customer sends us the friend's name and email address.   
-Second, we contact the friend telling them who we are and inviting them to take advantage of a particular offer, or simply to visit our website.   
-When we contact the friend, we always advise them of the name and email address of the friend who made the original referral. We will not use your friend 's details for any other purpose.
+We may share your information with any group of companies of ours as defined under the Companies Act 2006 so that they can provide any products and services to you where you have personally requested them or where we feel such information is necessary to keep you informed of any products or services that they believe will be of interest to you. We may provide anonymous aggregated data to reputable third parties on a commercial basis.
 
-**14\. Unsubscribe**  
-We hope that you will find the website useful and be delighted with the range of services that you are offered through the use of your personal information.
+We will give third party providers who supply services to us, or who process information on our behalf, incidental access to your information but will always take steps to ensure their security measures are adequate to protect your information. We will disclose your information to enforcement authorities if asked to do so, or to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
 
-However, you may request that your personal information is not used in the ways described in this Privacy Statement. This is called unsubscribing.
+**Personal Data Requested**  
+To contribute to the content on this website (either forum posts or website articles/links) all we require is that when registering you confirm you are 16 or over, you choose a unique username, a personal password and you enter your valid email address so you can collect your account activation code by email. You should not use any personally identifiable information (such as your real name) as your username.
 
-If you want to unsubscribe for any or all of our services, please advise us as follows:
+If you use the forums, you should be aware that any personally identifiable information you submit there can be read, collected or used by other visitors to these forums. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-Email us with your name, address and any details you may have used in registration.
+**How we keep it secure**  
+Only authorised personnel and contractors have access to your information. We will keep your information secure by taking appropriate technical and organisational measures against unauthorised or unlawful processing and against its accidental loss, destruction or damage.
 
-Telephone us between 9.00am and 5.00pm, Monday to Friday on 0870 321 3009 
+**Transfer outside Europe**  
+Data protection legislation is harmonised throughout the European Economic Area (EEA) which comprises the EU member states, Norway, Iceland and Liechtenstein. Countries outside the EEA do not generally have the same level of protection for personal information as those within the EEA.
 
-Please allow 4 days for the unsubscribe process to be completed.
+If you are from outside the EEA, we will transfer your information to your home country or territory for the purposes set out in "How we use it" above. If you provide us with your information, we will assume you have agreed to this transfer. If you are from the EEA, we will not transfer any personal information we collect to outside the EEA.
+
+## Finding out more
+
+If you have any questions about our privacy statement or the information we hold about you, please contact our Data Protection Compliance Officer. You have a legal right to see a copy of the information we hold about you on payment of a fee, which is currently £10.
+
+Further information about data protection issues can be found at the Information Commissioners Office.
+
+## Exclusion and Limitation of LSE's Liability - Important
+
+LSE does not make any warranty or representation as to the accuracy or fitness for purpose of any material on this website or the reliability of any information contained herein.
+
+Under no circumstances, including but not limited to negligence, shall LSE be liable to you for direct, indirect, incidental, consequential loss or damages arising from use or inability to use this website or any links to the same.
+
+Information on this website will be updated from time to time and may at times be out of date and LSE accepts no responsibility for keeping the information on this website up to date or accepts any liability for any failure so to do.
+
+This website contains materials submitted and created by third parties. LSE excludes all liability for any legality arising from an error, omission or inaccuracy in any such material and LSE takes no such responsibility for such material.
+
+## Law and Jurisdiction
+
+Use of this website and these terms shall be subject only to the laws of England and Wales and you agree to submit to exclusive jurisdiction of the courts of England and Wales which shall exclusively govern the interpretation, application and effect of all of the above commissions, exclusions, licences and conditions of use.
+
+The Courts of England and Wales shall have exclusive jurisdiction over all claims or disputes arising in relation to, out of or in connection with this website, its use and these terms.
+
+These terms and conditions constitute the entire agreement between you and LSE relating to the subject herein.
