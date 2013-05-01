@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleashthefanboy.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128172325id_/http%3A//www.unleashthefanboy.com/PRIVACY%2520POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleashthefanboy.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501071755id_/http%3A//www.unleashthefanboy.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY / USER AGREEMENT | Unleash The Fanboy
 
