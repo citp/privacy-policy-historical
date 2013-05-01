@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114013907id_/http%3A//www.listings.sg/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501103324id_/http%3A//www.listings.sg/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,13 +17,13 @@ In conjunction with this Privacy Policy, you should also review our Terms of Use
 
 
 
-## Introduction
+### Introduction
 
 If you have any questions or concerns about our privacy policy, please contact our privacy administrator at   
 Email protected.  
 . This privacy policy covers the website www.listings.sg, it does not, apply to entities that LISTINGS.SG does not own or control. By using or accessing this website, you agree to our privacy practices outlined here.
 
-## Information we receive
+### Information we receive
 
 One of the primary reasons people use LISTINGS.SG is to share content with others. The information we receive from you will vary, depending on the activities you perform and the information you reveal to others.
 
@@ -37,7 +37,7 @@ When you access LISTINGS.SG from a computer, mobile phone, or other devices, we 
 
 We do not process payments from you directly. Whenever you initiate a payment to us, the process will be completed via an external third party payment processing provider. We do not store the details of your financial institution.
 
-## Sharing information on LISTINGS.SG
+### Sharing information on LISTINGS.SG
 
 This section explains how your privacy settings work, and how your information is shared. You should always consider your privacy settings before sharing information.
 
@@ -53,7 +53,7 @@ Certain types of communications that you send to other people cannot be removed,
 
 Any piece of information set to “everyone” is publicly available information, just like your name, profile picture, and connections. Such information may, for example, be accessed by everyone on the Internet (including people not logged into LISTINGS.SG), be indexed by third party search engines, and be imported, exported, distributed, and redistributed by us and others without privacy limitations. Such information may also be associated with you, including your name and profile picture, even outside of LISTINGS.SG, such as on public search engines and when you visit other sites on the Internet. The default privacy setting for certain types of information you post on LISTINGS.SG is set to “everyone.” You can review and change the default settings in your privacy settings. If you delete “everyone” content that you posted on LISTINGS.SG, we will remove it from your profile, but have no control over its use outside of the site.
 
-## How we use your information
+### How we use your information
 
 We use the information collected to try to provide a safe, efficient, and personalised experience for you. Here are some of the details on how we do that:
 
@@ -63,7 +63,7 @@ We do not share your information with advertisers. We do however, allow advertis
 
 To help people find you. We allow other users to use contact information they have about you, such as your email address, to find you.
 
-## How we share your information
+### How we share your information
 
 When you ask us to invite a friend to join you on LISTINGS.SG, we will send your friend a message on your behalf using your name. The invitation may also contain information about other users your friend might know.
 
@@ -73,7 +73,7 @@ We may disclose information pursuant to subpoenas, court orders, or other reques
 
 If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the service can continue to operate. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Policy.
 
-## How you can change or remove information
+### How you can change or remove information
 
 You may change or remove your profile information at any time by going to your profile page and clicking “Edit My Profile.” Information will be updated immediately.
 
@@ -85,7 +85,7 @@ Removed and deleted information may persist in backup copies for up to 60 days, 
 
 If a person provides your email address to us, and you are not a LISTINGS.SG user but you want us to delete your address, you can do so on this help page. However, that request will only apply to addresses we have at the time of the request and not to any addresses that users provide to us later.
 
-## How we protect your information
+### How we protect your information
 
 We also use automated and social measures to enhance security, such as analysing account behavior for fraudulent or otherwise anomalous behavior, may limit use of site features in response to possible signs of abuse, may remove inappropriate content or links to illegal content, and may suspend or disable accounts for violations of our Terms of Use.
 
@@ -93,10 +93,13 @@ Although we allow you to set privacy options that limit access to your informati
 
 You should report any security violations to us using the help page.
 
-## Other terms
+### Other terms
 
 Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here.
 
 By using LISTINGS.SG, you consent to having your personal data transferred to and processed in the Singapore.
 
 Defined Terms. "Us," "we," "our," and "LISTINGS.SG" mean the same as they do in the Terms of Use. “Information” and “content” are interchangeably used here unless otherwise limited by the context.
+
+|   
+---|---
