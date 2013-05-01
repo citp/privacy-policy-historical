@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainyhistory.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230356id_/http%3A//www.brainyhistory.com/inquire/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyhistory.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501134452id_/http%3A//www.brainyhistory.com/inquire/privacy.html) for the most accurate reproduction.*
 
 # BrainyHistory - Privacy
 
