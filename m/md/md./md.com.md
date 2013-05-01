@@ -1,145 +1,102 @@
-> *The following text is extracted and transformed from the md.com privacy policy that was archived on 1999-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991129035000id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501221800id_/https%3A//www.md.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy :: MD.com
 
-[](https://www.truste.org/validate/4596)
+## MD.com Privacy Statement
 
-The TRUSTe seal verifies that Mail.com is a member of the TRUSTe Program and the company and this privacy statement are in compliance with TRUSTe's privacy principles. 
+### We are serious about privacy and security, and we take all reasonable steps to protect you.
 
-**About TRUSTe**
+This Privacy Statement describes how MD.com collects information from you, when you visit our website or use our mobile applications, respond to emails, sign up for notifications, or visit any page that displays our content or advertisements. 
 
-When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; the organization collecting the information; how the information is used, and with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the website's control; and how you can correct any inaccuracies in the information. 
+Powered by Doctors, Inc. ("MD.com," "We," "Us" or "Our") is committed to respecting the privacy rights of our customers, visitors, and users of its website ("You," "Your" and "Yourself") at www.md.com (the "Site"). This privacy statement ("Privacy Statement”) explains how we collect information about You and how such information may be used. We also would like to explain what choices You have in managing Your privacy. 
 
-Questions regarding this statement should be directed to Mail.com by e-mail to [privacydirector@mail.com](mailto:privacydirector@mail.com). 
+As with any site that You visit on the Internet, when You visit MD.com, we have the ability to collect information about You. Please read this Privacy Statement to understand how we collect information and what we do with the information we collect. Your use of this Site will be deemed conclusively to constitute Your acceptance of and agreement to the terms contained in this Privacy Statement. 
 
-If Mail.com has not responded to your inquiry within five business days or your inquiry has not been satisfactorily addressed, please contact TRUSTe ([http://www.truste.org](http://www.truste.org/)). 
-
-**Overview**
-
-At Mail.com, we respect your privacy. We do collect information from you, but it is our policy and priority to ensure that all personal information remains private and secure. To earn your trust and confidence in the Internet and in Mail.com, we are disclosing our privacy practices and the uses of the information we gather. 
-
-To protect your privacy, Mail.com: 
-
-  * Will not release personal identifying information about you without first obtaining your consent, unless required to do so by law 
-  * Will not knowingly use personal identifying information from children younger than 13 without parental consent 
-  * Will inform you when we change our privacy policy, either by e-mail, newsletter or via a link on your Welcome Page when you log in
-
-
-
-These links provide detailed information on our privacy practices:   
-
-
-  1. What general information does Mail.com collect and how is it used?
-  2. What personal information does Mail.com collect and how is it used?
-  3. What are cookies and how does Mail.com use them?
-  4. How do third-party advertisers use my information?
-  5. How does Mail.com protect the privacy of children younger than 13?
-  6. How can I access, change or delete information about myself?
-  7. How may I protect my privacy on the Internet and within Mail.com?
-
-Mail.com reserves the right to amend this Privacy Statement at any time without prior notice, and only the current Privacy Statement may be deemed effective. 
-
-**1\. What _general_ information does Mail.com collect about me and how is it used?**   
-When you visit Mail.com, we collect some basic information about your computer, such as: 
-
-  * IP address (your computer's unique signature)
-  * Operating system (e.g., Windows 95)
-  * Browser software (e.g., Microsoft Internet Explorer, Netscape)
-  * Internet Service Provider (e.g., Earthlink, Bell Atlantic)
-  * Other numeric codes used to identify a computer
-
-The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit Mail.com. In addition, like many other sites with paid advertising, we disclose some of this _aggregate_ information to advertisers to inform them of the number of people who have seen and clicked on their advertisements. 
-
-**2\. What _personal_ information does Mail.com collect about me and how is it used?**   
-During the Mail.com signup process, we ask you to supply personal information, including your first name, last name, address, birth date and an alternate e-mail address. We also ask if you would like to receive promotional material from our sponsors and great offers from our partners. 
-
-Once you are a member, Mail.com may ask you to update your personal information from time to time. We use this information to personalize our services which include e-mail, calendar, member surveys, and customer service. We also use this information, in aggregate, to better target advertising banners and make the content more relevant to each member. 
-
-**Communication**   
-As a new member, you will find a welcome letter waiting for you when you first log into your new mailbox. 
-
-Established members will receive: 
-
-  * **A periodic gift.** Occasionally, we are able to offer you some really great deals from companies offering free gifts, services or coupons. We pass these gifts on to you, but out of respect for your privacy, we allow members to unsubscribe from these promotions by sending an e-mail to [stopgifts@mail.com](mailto:stopgifts@mail.com).
-  * **A periodic newsletter and service announcements.** The newsletter contains general information about your e-mail account and interesting news from the internet. The service announcements contain information regarding updates to our services, features, or products. Newsletters are mailed not more than once per week. Members are not able to unsubscribe from the newsletter or service announcements. 
+  * How MD.com Collects Information?
+  * Personal Information MD.com Collects?
+  * Why does MD.com ask for Your Personal Information?
+  * HIPAA
+  * Your Account Registration
+  * Collection of Cookies and Use of Web Beacons
+  * Our Use of Website Analytics
+  * It’s Your Choice to Provide Personal Information
+  * What other choices do you have?
+  * Information Provided on Behalf of Children
+  * Children’s Online Privacy Protection Act
+  * Keeping Information Confidential and Secure
+  * You May Change or Delete Your Information
+  * We Welcome Your Questions or Comments
 
 
 
-If you do not log in for a prolonged period of time, we may use your alternate e-mail address and home address to insure that you receive important news about your Mail.com account or other information that you have requested. 
+## How MD.com Collects Information?
 
-Mail.com cooperates with law enforcement agencies to identify those who use our services for illegal activities. We reserve the right to release information about members who we believe are in violation of our user agreement, even without a subpoena, warrant or court order. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. 
+We automatically track and collect the following categories of information when you visit our Site, such as: (1) information about your IP Address, Mobile Device, and Browser; (2) the types of computers accessing the Site; (3) referring source which may have sent You to the Site; and (4) other information associated with the interaction of Your browser and the Site. 
 
-**Credit Cards**   
-If you sign up for premium services, Mail.com will use your credit card number in order to provide you with the services that you request. Information collected by Mail.com is encrypted using SSL technology and is stored on secure servers. Credit card transactions are processed by an established financial institution. Access to credit card information at Mail.com is restricted to authorized staff only, in a manner consistent with or exceeding industry standards. 
+## Personal Information MD.com Collects?
 
-Remember that third-party vendors also sell products and services via advertising on Mail.com and their policies may differ from those of Mail.com. 
+To use the Site, we may require You to provide us with certain information that personally identifies You (“Personal Information”). MD.com may ask You for Personal Information when You sign up for an account, complete optional survey forms, fill out optional contact forms for additional information on particular products and services or use a particular service. You can determine, to a large extent, what Personal Information You wish to submit on a voluntary basis to MD.com. 
 
-**3\. What are cookies and how does Mail.com use them?**   
-Mail.com requires each member to enable cookies to login and use our services. 
+Personal Information may include: (1) contact data (such as Your e-mail address, phone number and Site password); and (2) demographic data (such as Your gender, Your date of birth and Your zip code). Additionally, portions of our Site may allow you to store Your healthcare providers, insurance information, and certain personal health information. If You communicate with us by, for example, e-mail or letter or SMS Text, any information provided in such communication may be collected as Personal Information. 
 
-**What is a Cookie?**   
-A cookie is a very small text file placed on your hard drive - with your permission - by a web server. 
+## Why does MD.com ask for Your Personal Information?
 
-**Why do we use Cookies?**   
-_Identification:_ We use cookies to identify you uniquely. For example, this allows us to pre-populate your e-mail address on the login page. 
+We regularly make improvements to our Site to provide You with a more personalized and useful experience. Collection of Personal Information also assists MD.com by allowing it and its affiliates to advertise its products and/or services in a more efficient manner. Through the use of Cookies and on-line data entry, survey, product purchase and registration forms, MD.com may monitor, in aggregate and individual form, Personal Information. Although Our primary goal in collecting Personal Information is to deliver a customized and personalized service to the users of the Site, We may also use Personal Information to: (i) send users e-mail notification of new features or information available through the Site or that MD.com otherwise feels might be of interest to users of this Site; and (ii) allow third party advertisers and retailers, and their affiliates, offering goods or services that MD.com thinks might be of interest to users to deliver relevant information and offers to users. We also collect IP addresses for systems administration and troubleshooting purposes and to report aggregate information to Our advertisers and others. 
 
-_Tracking and Maintaining Session info:_ Once you have logged in, we use the cookie to distinguish between your mail session and that of the many other people using our service. For example: After you have written a message and you go to your Inbox, we need to display your Inbox and not somebody else's. Setting cookies is currently the best method of maintaining session information over the web. Mail.com may allow advertisers or partners to set cookies, however, only if they agree to abide by our privacy rules and policies. 
+## HIPAA
 
-**Are cookies secure?**   
-A cookie cannot contain program code, so it cannot be used as a virus nor can it be used to extract data from your system. When a cookie is set, only the server which set the cookie can access the information in that cookie. The use of cookies allows Mail.com to provide a higher level of security for your e-mail account. 
+We are not a "covered entity" under the Health Insurance Portability and Accountability Act of 1996, and the regulations promulgated thereunder, in effect or as amended (collectively known and referred to as "HIPAA"). Although We are not covered by HIPAA, We are committed to user privacy and have in place strict data security policies and measures, and ensure that users control access to their information. 
 
-**How do I change the way my browser handles cookies?**   
-Most browsers allow three options for handling cookies: 
+On occasion, MD.com may act as a "Business Associate" of one or more Covered Entities (e.g., Healthcare Providers, such as doctors, hospitals or health plans) as defined by HIPAA. In those instances, to the extent required by law, MD.com will comply with the obligations imposed upon Business Associates and abide by the privacy policies of the Covered Entities. 
 
-  * Accept all cookies
-  * Warn before accepting a cookie
-  * Reject all cookies
+## Your Account Registration
 
-Our web-based mail service will not function unless your browser is set to accept cookies. Instructions for enabling and disabling cookies can be found through the help menu on most browsers. If you have continued trouble changing your cookie settings, you may contact our support site for additional help. 
+You must provide a valid email address in order to sign up for an account through the Services. In addition, you may provide us with your (1) full name, (2) phone number, (3) address, and (4) insurance data (such as insurance carrier and insurance plan). When you sign up for an MD.com account, we opt you in to receive emails from MD.com by default. You can manage your email preferences and modify some of the information associated with your account. Note that you cannot opt out of receiving required administrative or legal notices. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by sending email to [privacy@md.com](https://www.md.com/contact/privacy-questions). 
 
-**4\. How do third-party advertisers use my information?**   
-As a Mail.com Member, you may, at the time of sign up and during subsequent use of our services, request to receive information from select third party sponsors. This information is a good way to learn about special offers on the web. In order to provide you with your requested services, we may share some of your information such as name and e-mail address with third party sponsors. 
+## Collection of Cookies and Use of Web Beacons
 
-You may request that e-mail be sent to your Mail.com account containing promotional offers, editorial content, or calendar reminders at any time. If you have requested such e-mail and you have not logged into your account for a prolonged period of time, we may forward the requested information to your alternate e-mail address. Mail.com will not disclose your alternate e-mail address to any third parties without your permission. 
+To enhance Your online experience, We may use small computer files that are transferred to Your computer's hard drive that contain information such as user ID, user preferences, lists of pages visited and activities conducted while browsing the Site (“Cookies”). Cookies do not contain personally identifiable information; however, once You choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-All promotional e-mails that you request through Mail.com will include a removal procedure which will allow you to discontinue receiving further e-mail offers. i.e., you can change your mind about receiving further e-mails at a later date. 
+We use Cookies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on our sites. For example, we may use cookies to personalize Your experience at our sites (e.g., to recognize You by name when you return to a site), save Your password in password-protected areas, and enable You to use shopping carts on our sites. We also may use cookies to help us offer You products, programs, or services that may be of interest to You and to deliver relevant advertising. 
 
-If you receive an e-mail from a third party stating that it is associated with Mail.com, yet you do not recall asking for the information, please follow the third party's removal procedures. If this procedure is not successful, please forward the e-mail with a summary of your experience to [privacydirector@mail.com](mailto:privacydirector@mail.com). 
+In limited circumstances we also may use tiny graphic image files imbedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the user’s browser (“Web Beacons”) to collect anonymous, non-personal information about Your use of our Services and the sites of selected sponsors and advertisers, and your use of emails, special promotions or newsletters we send to you. The information collected by Web Beacons allows us to statistically monitor how many people are using the Services and selected sponsors' and advertisers' sites, or opening our emails, and for what purposes. 
 
-Additionally, be aware that when you click on ad banners, you may be brought to other sites not operated by Mail.com. You are responsible for information you provide these sites. We recommend that you review the privacy policy of any site that requests personal information. 
+## Our Use of Website Analytics
 
-**5\. How does Mail.com protect the privacy of children younger than 13?**   
-We believe that it's especially important to protect children's privacy online. 
+We may use third party website analytics services in connection with the services provided on our Site. For example, we may record mouse clicks, mouse movements, scrolling activity, as well as any text that You type into the Site. These website analytics services do not collect Personal Information that You do not voluntarily enter into the Site. These services do not track Your browsing habits across websites which do not use their services. We use the information collected from these services to find usability problems to make the Services easier to use. The recordings will never identify You or Your account; they only record anonymous user information. 
 
-**Note:** _Mail.com defines "children" as minors younger than 13._
+## It’s Your Choice to Provide Personal Information
 
-Mail.com does ask that children under 13 get their parent's permission to sign up for a new account. We administrate this by asking the parent to click on a box saying it's O.K. for the child to use the service after entering their registration information. 
+You may always choose not to provide us with any Personal Information. If you do not provide Personal Information, you can still access and use some of the MD.com services; however you will not be able to access and use certain key features of the Site that require your Personal Information. 
 
-All general information collected from children is used only for statistical analysis, feedback and those purposes described in the signup process. We actively block the transmission of children's personal information to advertising third parties, regardless of whether children request promotional opportunities through us. 
+## What other choices do you have?
 
-There are a number of emerging standards in the area of children's privacy that will affect how we process a child's profile information in the future. Through our participation in TRUSTe, Mail.com is monitoring these changes and will continue to redesign its systems so as to comply with these new requirements. 
+Most computer systems and browsers offer their own privacy settings. We encourage you to use them to enhance your choices. Most browsers’ advanced settings allow you to disable cookies. However, if you do so, some site features and services may not work. Also, you must remember to manage your cookie settings for each computer and browser you use to access the Internet. 
 
-**6\. How do I access, change or delete information about myself?**   
-Your personal information can be accessed, or changed by selecting "My account" then "Personal Info" in the navigation bar on the left, once you are logged in. If you would like to close your account and delete your personal information from our online servers, you can send an e-mail to [support@mail.com](mailto:support@mail.com) and follow the process to close an account. 
+## Information Provided on Behalf of Children
 
-If, at any time, you would like to stop receiving promotional materials from Mail.com or promotional e-mails from third parties (which you signed up for), then follow the removal procedures at the end of the e-mail. If this is not successful, please contact us at [privacydirector@mail.com](mailto:privacydirector@mail.com). 
+MD.com does not collect information from children under the age of 13 in accordance with the Children’s Online Privacy Protection Act (“COPPA”) as discussed below. If you are a parent or legal guardian of a minor child, you may, use our Site on behalf of such minor child. Any information that you provide us while using the services on our Site on behalf of your minor child will be treated as Personal Information as otherwise provided herein. 
 
-**7\. How may I protect my privacy on the Internet and within Mail.com?**
+## Children’s Online Privacy Protection Act
 
-  1. **Know the risks.**   
-If you provide your e-mail address to public domains such as chat rooms or newsgroups, or you provide it to websites which don't respect your privacy, you may begin to receive unsolicited e-mail. Unsolicited e-mail is also known as spam. Although Mail.com has strict rules prohibiting spam and we do block certain known groups from sending unsolicited messages to Mail.com members, it is generally a good idea to provide your e-mail address only to people or groups that you trust. 
-  2. **Educate yourself.**   
-Look for a privacy statement on every site you visit on the Web, and search for information on how to protect your privacy. Start with TRUSTe, an independent, nonprofit initiative dedicated to building users' trust and confidence in the Internet. 
-  3. **Tell your children: "Never talk to strangers!"**   
-Teach children not to give out their names or other personal information. Tell them never to fill out online registration forms without your knowledge and consent. 
-  4. **Use complex passwords.**   
-If your password is simple, it is also simple for a hacker to break it and gain access to your e-mail account or other private areas. To protect your privacy, you should use complex passwords consisting of very long and awkward keystroke combinations. This makes the hacker's job much more difficult. 
+COPPA severely restricts what information can be collected from children under the age of 13. For this reason, children under the age of 13 in the United States are prohibited from using the our services. The Site and our services are not directed at children, and MD.com does not knowingly collect any information from individuals under the age of 13. If we learn that we have received any information from an individual under the age of 13, we will use that information only to respond directly to that child (or a parent or legal guardian) to inform him or her that he or she cannot use the Site services and subsequently we will delete that information from our own servers. 
 
-We send reminders of your account passwords only after the appropriate security questions have been answered. NEVER GIVE YOUR PASSWORD TO ANYONE. If someone claiming to represent Mail.com in an e-mail or chat room asks for your Mail.com password, DO NOT RESPOND. The only time we ask for your password is via a web page, when you need to access our system (such as the login screen). Please help us keep our records current by updating your personal information when it changes. You can access your personal information by selecting "My Account, Personal Information" from the navigation bar on the left, when you're logged into your account. 
+## Keeping Information Confidential and Secure
 
+Except as otherwise provided in this Privacy Statement, we will keep your Personal Information private and will not share it with third parties, unless we believe in good faith that disclosure of your Personal Information or any other information we collect about you is necessary to: (1) comply with a court order or other legal process; (2) protect the rights, property or safety of Powered by Doctors, Inc. or another party; (3) enforce our Terms of Use; or (4) respond to claims that any posting or other content violates the rights of third-parties. 
 
+The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter sensitive information on our Site, we encrypt that information using secure socket layer technology (“SSL”). 
 
+Although we make good faith efforts to store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Statement, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law. 
 
-This privacy policy is part of our User Agreement and you agree to be bound by all of its terms and conditions. 
+## You May Change or Delete Your Information
 
-Last updated 10/1/99 
+As a registered User of MD.com, you can modify some of the Personal Information you have included in your profile or change your username by logging in and accessing your account. Upon your request, We will use commercially reasonable efforts to delete your account and the Personal Information in your profile; however, it may be impossible to remove your account without some residual information being retained by MD.com. 
+
+When you delete your account, you understand that removed certain content may persist in backup copies for a reasonable period of time (but will not be available to others). Furthermore, to the extent Personal Information about you has been shared with others, or other Users have independently uploaded and/or retained information about you, such information may also remain. Registered users who wish to close their account should request removal by sending email [optout@md.com](https://www.md.com/contact/mailing-list-opt-out). 
+
+## We Welcome Your Questions or Comments
+
+MD.com welcomes Your questions and comments about our Privacy Statement or the use of Your Personal Information. Please send any questions or comments to MD.com to [privacy@md.com](https://www.md.com/contact/privacy-questions). 
+
+Effective Date: February 6, 2013 
