@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the noobpreneur.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918232524id_/http%3A//www.noobpreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noobpreneur.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501040924id_/http%3A//www.noobpreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noobpreneur.com
+
+[](http://www.noobpreneur.com/ "Noobpreneur.com - small business blog") Small business tips, ideas and tools
+
+[](http://www.noobpreneur.com/biz-penguin "http://www.noobpreneur.com/biz-penguin")
 
 Privacy Policy for www.Noobpreneur.com 
 
@@ -9,7 +13,7 @@ If you require any more information or have any questions about our privacy poli
 At www.Noobpreneur.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.Noobpreneur.com and how it is used. 
 
 **Log Files**  
-Like many other Web sites, www.Noobpreneur.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, www.Noobpreneur.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Information collected by third-parties**  
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
