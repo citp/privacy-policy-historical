@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetaxclub.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919183604id_/http%3A//www.thetaxclub.com/documents/Privacy%2520Policy%2520-%2520The%2520Tax%2520Club.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetaxclub.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502012353id_/http%3A//www.thetaxclub.com/documents/Privacy%2520Policy%2520-%2520The%2520Tax%2520Club.pdf) for the most accurate reproduction.*
 
 # 
 
