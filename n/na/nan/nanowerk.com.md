@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108033333id_/http%3A//www.nanowerk.com/n_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501185633id_/http%3A//www.nanowerk.com/n_privacy_statement.php) for the most accurate reproduction.*
 
-# Nanowerk Nanotechnology Portal - Pricacy Statement
+# Nanowerk Emerging Technologies Portal - Privacy Statement
 
 **I. OUR COMMITMENT TO PRIVACY**  
+---  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 **II. THE INFORMATION WE COLLECT**  
 This notice applies to all information collected or submitted through the Nanowerk websites, including information you submit when subscribing to our Nanowerk Spotlight service, or when subscribing to one of our Nanowerk newsletters. The types of personal information we may collect include your name, your organization's name, address, email address, telephone number and, if you are ordering products through us or subscribing to one of our newsletters, your credit card information.   
