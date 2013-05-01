@@ -1,7 +1,21 @@
-> *The following text is extracted and transformed from the cfnmtoob.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213192642id_/http%3A//www.cfnmtoob.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnmtoob.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075113id_/http%3A//www.cfnmtoob.com/privacy.php) for the most accurate reproduction.*
 
-# New Page 8
+# CFNM - CFNM Videos - CFNM Movies - CFNM Tube - Privacy
 
+**[Home](http://www.cfnmtoob.com/ "Home") | [Newest Videos](http://www.cfnmtoob.com/videos/newest/ "Newest Videos") | [Top Videos](http://www.cfnmtoob.com/videos/popular/all-time/ "Top Videos") | [ CFNM Webcams](http://www.cfnmcam.com/ "CFNM Webcams") | [ CFNM Reviews](http://www.cfnmtoplist.com/ "CFNM Reviews")**
+
+| 
+
+** Updated Daily | [ Picture Galleries](http://www.cfnmtoob.com/cfnm-pictures.php "Picture Galleries") | [ Movie Galleries](http://www.cfnmtoob.com/cfnm-movies.php "Movie Galleries") | Bookmark**  
+  
+---|---  
+  
+| 
+
+**Privacy Policy \- [ Click Here For CFNM Picture Galleries](https://web.archive.org/web/20130501075113id_/http%3A//www.cfnmtoob.com/cfnm-pictures.php "CFNM Picture Galleries") \-  [ Click Here For CFNM Movie Galleries](https://web.archive.org/web/20130501075113id_/http%3A//www.cfnmtoob.com/cfnm-movies.php "CFNM Movie Galleries") \- [ Click Here For Live CFNM Webcam](https://web.archive.org/web/20130501075113id_/http%3A//www.cfnmtoob.com/cfnm-webcams.php "Live CFNM Webcam")**  
+  
+---  
+  
 This document details important information regarding the use and disclosure of User Data collected on CFNMToob.com 
 
 The security of your Data is very important to CFNMToob.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
