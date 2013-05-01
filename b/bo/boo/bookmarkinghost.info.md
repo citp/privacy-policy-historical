@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkinghost.info privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182015id_/http%3A//www.bookmarkinghost.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkinghost.info privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075620id_/http%3A//www.bookmarkinghost.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › BookmarkingHost.info : Market your website with easy and fast social bookmarking services | Categorize online social bookmark submission sites | Improve website traffic with manual submission
 
