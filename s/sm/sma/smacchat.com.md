@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010045736id_/http%3A//smacchat.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501025627id_/http%3A//www.smacchat.com/terms.php) for the most accurate reproduction.*
 
-# New SmacChat
+# SmacChat is the premier online sports entertainment site
 
 ## Smacchat.com LLC Privacy Policy
 
