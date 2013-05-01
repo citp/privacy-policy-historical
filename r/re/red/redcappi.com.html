@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redcappi.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010134850id_/http%3A//www.redcappi.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redcappi.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501073813id_/http%3A//www.redcappi.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="description" content="This page discusses our Privacy Statement at RedCappi. It involves the guidelines RedCappi follows to respect and protect your privacy and all other information that we collect."><meta name="keywords" content="Email newsletter service, Email list management, email marketing tools, Easy Email Newsletters, Email Marketing Solution, email online marketing, email marketing software"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,17 +7,18 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 <meta name="copyright" content="redcappi.com. All Rights Reserved.">
 <meta name="publisher" content="redcappi.com">
-<meta name="Author" content="email marketing best email marketing software- http://www.redcappi.com">
+<meta name="Author" content="email marketing best email marketing software- http://www.redcappi.com/">
 <meta name="best email marketing company" content="best email marketing company, we offer email marketing services at very affordable and cheap price.">
 <title>
 	Privacy Statement | RedCappi 
 </title>
 
 <link rel="shortcut icon" href="http://www.redcappi.com/favicon.ico">
-<link href="http://www.redcappi.com/asset/css/style.css?u=1349876929" rel="stylesheet" type="text/css"><!--[main script] -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.redcappi.com/asset/js/jquery-latest.js"></script>
-<script type="text/javascript" src="http://www.redcappi.com/asset/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.redcappi.com/asset/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://www.redcappi.com/webappassets/css/style.css?newone" media="screen">
+<!--[main script] -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.redcappi.com/webappassets/js/jquery-latest.js"></script>
+<script type="text/javascript" src="http://www.redcappi.com/webappassets/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.redcappi.com/webappassets/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">
@@ -32,7 +33,7 @@ publisher:'5cdc8c12-a21a-4869-a0c3-05023e05c4ac'
 		$.ajax({
 			type        : "POST",
 			cache       : false,
-			url         : 'http://www.redcappi.com/feedback/create.html',
+			url         : 'http://www.redcappi.com/feedback/create',
 			data        : $(this).serializeArray(),
 			success: function(data) {				
 				if(data){
@@ -83,12 +84,17 @@ publisher:'5cdc8c12-a21a-4869-a0c3-05023e05c4ac'
 	function ajaxLogin(frm){
 		var block_data="";
 		// Collect login form variables
-		block_data+="action=save&"+'&member_username='+frm.member_username.value+'&member_password='+frm.member_password.value;
+		if(frm.remember_login.checked)
+		block_data+="action=save&"+'&member_username='+frm.member_username.value+'&member_password='+frm.member_password.value+'&rem=Y';
+		else
+		block_data+="action=save&"+'&member_username='+frm.member_username.value+'&member_password='+frm.member_password.value+'&rem=N';
+		 
 		jQuery.ajax({
 			url: "http://www.redcappi.com/user/login/",
 			type:"POST",
 			data:block_data,
 			success: function(data) {
+			
 				// if get error in login then display error
 				if(data=="error"){
 					jQuery(".content").css("min-height","20px");
@@ -106,7 +112,7 @@ publisher:'5cdc8c12-a21a-4869-a0c3-05023e05c4ac'
 					jQuery(".content").css("min-height","20px");
 					jQuery('.msg').html("Login success. Redirecting...");
 					jQuery('.msg').show();
-					document.location="http://www.redcappi.com/newsletter/campaign/display";
+					document.location="http://www.redcappi.com/newsletter/campaign";
 				}
 			}
 		}); 
@@ -139,21 +145,26 @@ publisher:'5cdc8c12-a21a-4869-a0c3-05023e05c4ac'
 		}); 
 		return false;
 	}
+	
+
+function positionFooter() { var mFoo = $("#footer"); if ((($(document.body).height() + mFoo.height()) < $(window).height() && mFoo.css("position") == "fixed") || ($(document.body).height() < $(window).height() && mFoo.css("position") != "fixed")) { mFoo.css({ position: "fixed", bottom: "0px" }); } else { mFoo.css({ position: "static" }); } 
+} 
+$(document).ready(function () { positionFooter(); $(window).scroll(positionFooter); $(window).resize(positionFooter); $(window).load(positionFooter); });	
 </script>
 </head>
-<body>
+<body style="background:#ebebeb;">
 <!--[page html]-->
 <div id="wrapper">
-	<div class="feedback"><a href="http://www.redcappi.com/feedback/create.html" class="feedback_popup"><img src="http://www.redcappi.com/asset/images/feedback.png" alt="feedback"></a></div>
+	<div class="feedback"><a href="http://www.redcappi.com/feedback/create" class="feedback_popup"><img src="http://www.redcappi.com/webappassets/images/feedback.png" alt="feedback"></a></div>
   <!--[header]-->
-  <div id="header">
+  <div id="header" style="background:#ffffff;">
      <div class="container">
       <!--[logo]-->
       <div id="logo"> <a href="http://www.redcappi.com/" title="RED CAPPI"><span>RED Cappi</span></a> </div>
       <!--[/logo]-->
       <!--[navigation]-->
       <div id="divNavigationBar">
-					<ul>
+		<ul>
           <li> <a href="http://www.redcappi.com/" title="Home"> Home</a> </li>
           <li> <a href="http://www.redcappi.com/email-marketing-features" title=" Features">Features </a> </li>
           <li> <a href="http://www.redcappi.com/pricing" title=" Pricing  "> Pricing </a> </li>
@@ -161,7 +172,8 @@ publisher:'5cdc8c12-a21a-4869-a0c3-05023e05c4ac'
           <li> <a href="http://www.redcappi.com/contact" title="Contact Us "> Contact Us </a> </li>
           <li class="last"> <a href="http://www.redcappi.com/blog/" title="Blog "> Blog </a> </li>
         </ul>
-		      </div>
+		
+      </div>
       <!--[/navigation]-->
       <!--[login]-->
       <div class="right-info">
@@ -205,10 +217,10 @@ publisher:'5cdc8c12-a21a-4869-a0c3-05023e05c4ac'
 		 
        <a href="http://www.redcappi.com/signup"><div class="get-started"></div></a>
 	         <!--[content goes here]-->
-      <div id="content-area">
+      <div id="content-area"> 
         <h1>Privacy Statement</h1>
         <div class="content-box">
-          <div class="top"><img src="http://www.redcappi.com/asset/images/top.png" alt=""></div>
+          <div class="top"><img src="http://www.redcappi.com/webappassets/images/top.png" alt=""></div>
 			 <div class="content">
 <p>At RedCappi, we respect our customers and make every effort to ensure the privacy and ongoing security of our customers, including personal account and credit card information, subscriber details or contact lists. RedCappi will never sell, borrow or rent your information or contact lists to anyone without your permission, and will never utilize your contact list for promotional purposes or for any purpose other than providing the service. However, RedCappi may share account or other information when it believes that it is necessary to comply with law or to protect our interests or property. Moreover, some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all RedCappi customers.</p>
 <ul class="listing-arrow-box">
@@ -218,91 +230,82 @@ publisher:'5cdc8c12-a21a-4869-a0c3-05023e05c4ac'
 <li><strong>Refer a Friend: </strong>If you want to refer a friend to RedCappi, we will ask you for your friend's email address and then send a one-time email inviting them to visit our website.</li>
 </ul>
 <p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.redcappi.com">www.redcappi.com</a></p>
-</div>		<!--div class="content">
-          
-          <h3>PRIVACY STATEMENT</h3>
-          <p>At RedCappi, we respect our customers and make every effort to ensure the privacy and ongoing security of our customers, including personal account and credit card information, subscriber details or contact lists. RedCappi will never sell, borrow or rent your information or contact lists to anyone without your permission, and will never utilize your contact list for promotional purposes or for any purpose other than providing the service. However, RedCappi may share account or other information when it believes that it is necessary to comply with law or to protect our interests or property. Moreover, some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all RedCappi customers.  </p>
-          
-          
-           <h4> Your Information Collected</h4>
- <p>We collect information from you when you register on our site. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.</p>
- <h4> Use of Cookies </h4>
- <p>We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. </p> 
- <h4> Reviewing Your Email Campaigns and Website Content </h4>
- <p>RedCappi will occasionally review your email campaigns and your website content to ensure compliance with our Terms and Conditions and in an overall effort to reduce SPAM being sent via our servers. Although RedCappi has no obligation to monitor the contents of your email campaigns or website contents, we reserve the right to reject, alter, modify, suspend or remove your account, website, domain name, URL, or any content (including, but not limited to, any language, words, text, photographs, designs, drawings, graphics, images, symbols, or logos), without notice at any time for any or no reason, which RedCappi deems in its sole discretion, to be improper, illegal, in contravention of SPAM laws or otherwise in breach of these Terms and Conditions. </p> 
- <h4> Refer a Friend</h4>
- <p>If you want to refer a friend to RedCappi, we will ask you for your friend's email address and then send a one-time email inviting them to visit our website. </p>
-
-  
-<p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <A href="www.redcappi.com">www.redcappi.com<a/></p>
-          
-          
-          </div-->
-          <div class="bottom"><img src="http://www.redcappi.com/asset/images/bottom.png" alt=""></div>
+</div> 
+          <div class="bottom"><img src="http://www.redcappi.com/webappassets/images/bottom.png" alt=""></div>
         </div>
       </div>
       <!--[/content goes here]-->
       <div id="right-portion">
         <div class="right-links">
           <ul>
-            				<li style="width:165px;"> <a href="http://www.redcappi.com/email-marketing-features">Features</a></li>
+            	<li style="width:165px;"> <a href="http://www.redcappi.com/email-marketing-features">Features</a></li>
 				<li style="width:165px;"> <a href="http://www.redcappi.com/pricing">Pricing</a></li>
 				<li style="width:165px;"> <a href="http://www.redcappi.com/about"> About Us</a></li>
+				<li style="width:165px;"> <a href="http://www.redcappi.com/affiliate"> Affiliate Program</a></li>
 				<li style="width:165px;"> <a href="http://www.redcappi.com/contact">Contact Us</a></li>           
 				<li style="width:165px;"> <a href="http://www.redcappi.com/terms">Terms &amp; Conditions</a></li>
 				<li style="width:165px;"> <a href="http://www.redcappi.com/privacy" class="select">Privacy Statement</a></li>
 				<li style="width:165px;"> <a href="http://www.redcappi.com/anti-spam"> Anti-Spam Policy</a></li>
-			          </ul>
+			 
+          </ul>
         </div>
       </div>
     </div>
   </div>
-  <!--[/body]-->
+  <!--[/body]--> <!--[footer]-->
+<div id="footer">
   <!--[bottom bar]-->
   <div id="bottom-bar">
     <div class="container">
       <h3> Who Says  <span> Email Marketing </span> is Complicated?</h3>
 	   
-			<a href="http://www.redcappi.com/signup" class="sign-up fr"> </a>
-		    </div>
+		<a href="http://www.redcappi.com/signup" class="sign-up fr"> </a>
+	    </div>
   </div>
-  <!--[/bottom bar]--><!--[footer]-->
-<div id="footer">
+  <!--[/bottom bar]-->
+  
   <div class="container">
     <div class="footerlinks">
       <div class="footerlinks-inner-div">
         <h5>Company</h5>
-					<ul class="footerlinks-navi">
+		
+			<ul class="footerlinks-navi">
 			  <li><a href="http://www.redcappi.com/about">About Us</a></li>
 			  <li><a href="http://www.redcappi.com/contact">Contact Us</a></li>
+			  <li> <a href="http://www.redcappi.com/affiliate"> Affiliate Program</a></li>
 			  <li><a href="http://www.redcappi.com/blog/">Blog</a></li>
 			</ul>
-		      </div>
+		
+      </div>
       <div class="footerlinks-inner-div">
         <h5>RedCappi</h5>
         <ul class="footerlinks-navi">
-							<li><a href="http://www.redcappi.com/email-marketing-features">Features</a></li>
+			
+				<li><a href="http://www.redcappi.com/email-marketing-features">Features</a></li>
 				<li><a href="http://www.redcappi.com/pricing">Pricing</a></li>
-				<li><a href="http://www.redcappi.com/support/index.html">Support</a></li>
-			         </ul>
+				<li><a href="http://www.redcappi.com/support/index">Support</a></li>
+			
+        </ul>
       </div>
       <div class="footerlinks-inner-div">
         <h5>Legal</h5>
-					<ul class="footerlinks-navi">
+		
+			<ul class="footerlinks-navi">
 			  <li><a href="http://www.redcappi.com/terms">Terms and Conditions</a></li>
 			  <li><a href="http://www.redcappi.com/privacy">Privacy Statement</a></li>
 			  <li><a href="http://www.redcappi.com/anti-spam">Anti-Spam Policy</a></li>
 			</ul>
-		      </div>
+		
+      </div>
     </div>
     <div class="footer-right-area ">
-      <p>© 2012 RedCappi, Inc. All Rights Reserved.</p>
+      <p>© 2013 RedCappi, Inc. All Rights Reserved.</p>
       <ul class="socal-icon">
         <li>Follow Us</li>
-        <li><a href="http://www.facebook.com/redcappi" target="_blank"> <img align="absmiddle" src="http://www.redcappi.com/asset/images/facebook.png" alt="Facebook"> </a></li>
-        <li><a href="http://twitter.com/redcappi" target="_blank"> <img align="absmiddle" src="http://www.redcappi.com/asset/images/twitter-icon.png" alt="twitter"> </a></li>
+        <li><a href="http://www.facebook.com/redcappi" target="_blank"> <img align="absmiddle" src="http://www.redcappi.com/webappassets/images/facebook.png" alt="Facebook"> </a></li>
+        <li><a href="http://twitter.com/redcappi" target="_blank"> <img align="absmiddle" src="http://www.redcappi.com/webappassets/images/twitter-icon.png" alt="twitter"> </a></li>
         <li>
-						<a href="http://www.redcappi.com/feed/" target="_blank"> <img align="absmiddle" src="http://www.redcappi.com/asset/images/rss.png" alt="RSS"> </a>
+						<a href="http://www.redcappi.com/feed/" target="_blank"> <img align="absmiddle" src="http://www.redcappi.com/webappassets/images/rss.png" alt="RSS"> </a>
 		</li>
       </ul>
     </div>
