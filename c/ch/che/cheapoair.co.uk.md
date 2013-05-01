@@ -1,7 +1,19 @@
-> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015232400id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501042603id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policies - CheapOair.co.uk
 
+|   
+  
+| 
+
+Email Sign Up!
+
+Be the first to know about our best bargains! Get discounted deals in your inbox.
+
+PLUS, get £15** off now!  
+  
+---  
+  
 |   | 
 
 |  |  |    Privacy Policy  
@@ -140,4 +152,8 @@ W6 0RA
    
   
   |    
-  |  |  
+  | 
+
+** Enter Promo at time of check out. Promo code provides $15 or the amount of the promo code, discount for stated routes against our service fees. Use of Promo code is in addition to any applicable instant savings offers. Actual amount of discount varies based on the service fees charged. Service fee discount will be up to the amount of the service fees charged less any applicable instant savings for that transaction or the value of the promo code, whichever is less. Promo code expires on date stated and can be withdrawn without notice. 
+
+|  
