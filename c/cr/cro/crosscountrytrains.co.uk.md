@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220750id_/http%3A//crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501211448id_/http%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CrossCountry
 
