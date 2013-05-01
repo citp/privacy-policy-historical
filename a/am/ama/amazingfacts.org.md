@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amazingfacts.org privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513005222id_/http%3A//www.amazingfacts.org/Home/PrivacyStatement/tabid/202/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingfacts.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502012030id_/http%3A//www.amazingfacts.org/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Amazing Facts
 
 Amazing Facts is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Amazing Facts Web site and governs data collection and usage. By using the Amazing Facts website, you consent to the data practices described in this statement.
 
