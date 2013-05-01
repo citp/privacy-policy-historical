@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stealthattractionsecret.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114114254id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthattractionsecret.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501033313id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,8 +21,6 @@ We may collect, store and use the following kinds of personal data:
 ### (2) Credit Card Details
 
 During checkout you may be asked to enter your payment details on the payment page. This page is encrypted with SSL security.
-
-Credit card information processing is handled by Paypal.
 
 ### (3) Cookies
 
