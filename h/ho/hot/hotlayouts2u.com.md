@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotlayouts2u.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216224244id_/http%3A//hotlayouts2u.com/content.php%3Fmyspace%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlayouts2u.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501090208id_/http%3A//pickatheme.com/content.php%3Fmyspace%3Dprivacy-policy) for the most accurate reproduction.*
 
 # 
 
