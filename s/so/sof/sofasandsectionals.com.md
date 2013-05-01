@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofasandsectionals.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016071951id_/http%3A//www.sofasandsectionals.com/help-center-info/privacy-policy-sas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofasandsectionals.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501035318id_/http%3A//www.sofasandsectionals.com/help-center-info/privacy-policy-sas) for the most accurate reproduction.*
 
 # Privacy Policy | Sofas and Sectionals
 
