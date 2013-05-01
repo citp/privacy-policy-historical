@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alvicreatives.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115201431id_/http%3A//alvicreatives.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alvicreatives.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501052301id_/http%3A//alvicreatives.com/t/privacyinfo) for the most accurate reproduction.*
 
-# Alvicreatives. Privacy Policy
+# Alvicreatives,Web Design in Atlanta,GA. Privacy Policy
 
 In a world where every day the security of Internet users is at stake, we have found the key to success in the same field by keeping a strict Privacy Policy. We understand exactly how vital it is to protect your privacy and our Privacy Policy would assure you that we take the highest precautions to protect your information from falling into the wrong hands.
 
