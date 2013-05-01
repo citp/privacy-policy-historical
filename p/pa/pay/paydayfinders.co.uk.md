@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayfinders.co.uk privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703132344id_/http%3A//paydayfinders.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayfinders.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501040635id_/http%3A//www.paydayfinders.co.uk/privacy.html) for the most accurate reproduction.*
 
 # PayDayFinders Privacy Policy
 
@@ -24,7 +24,9 @@ Pay Day Finders reserves the right to use registrant PII: (1) for the specific p
 
 ## Use of Your Data
 
-The data we collect during registration with us or during the application process may be shared/sold to trusted third parties who may also contact you about other products and services. These third parties may contact you via telephone, email and/or SMS. Any third party receiving your data will always give you the option to unsubscribe from receiving information in respect of such offers and/or services/products. Those third parties will not then share/sell your data with others unless you specifically provide consent to them allowing them to do so. Third parties with whom we work take all appropriate and reasonable steps to ensure that your data is protected. Please note that your personal data may be transferred outside the European Union and into the United States.
+Please note that your data may be passed to credit reference and fraud prevention agencies. This allows lenders to make their lending decisions, which may involve their passing data onto credit reference and fraud prevention agencies to conduct identity verification, fraud prevention and credit checking. 
+
+The data we collect during registration with us or during the application process may be shared/sold to trusted third parties who may also contact you about other products and services. These third parties may contact you via telephone, email and/or SMS. Any third party receiving your data will always give you the option to unsubscribe from receiving information in respect of such offers and/or services/products. Those third parties will not then share/sell your data with others unless you specifically provide consent to them allowing them to do so. Third parties with whom we work take all appropriate and reasonable steps to ensure that your data is protected. Please note that your personal data may be transferred outside the European Union and into the United States. 
 
 ## Use of Individual Information
 
