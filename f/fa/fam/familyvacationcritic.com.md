@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190147id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501072547id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
 
 # Privacy - Family Vacation Critic
 
@@ -39,11 +39,9 @@ Family Vacation Critic
   
 
 
-© Copyright 2012. The Independent Traveler, Inc.  
+© Copyright 2013. The Independent Traveler, Inc.  
 All rights reserved. This file may be downloaded for personal  
 use only. Other copying or reproduction is expressly prohibited. 
 
   
 
-
-[ ](https://web.archive.org/newsletter/manage.php?referral=popup_050812)
