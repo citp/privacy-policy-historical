@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the littlesummer.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104061557id_/http%3A//littlesummer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlesummer.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502003822id_/http%3A//littlesummer.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy_nethole
+# Privacy
 
-Privacy Policy for Nethole Services Ltd  
+Privacy Policy for TR Financial Resources Inc   
 
 
 Adults Only Service   
