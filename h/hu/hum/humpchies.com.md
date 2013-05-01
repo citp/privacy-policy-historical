@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192344id_/http%3A//www.humpchies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075212id_/http%3A//www.humpchies.com/privacy) for the most accurate reproduction.*
 
 # Escorts & Erotic Massages in & Near Montreal
 
@@ -52,24 +52,11 @@ YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@humpchies.com.
 
-### Saturday, February 25, 2012  
-French Version Released
+### Sunday, February 24, 2013  
+Humpchies is open to the public
 
-We heard you! The French version of Humpchies is here. Now you can find Escorts and Erotic Massages in & near Montreal in French also! Woho!
+Ladies and gents! You can now signup and post your ads for FREE... no BS, no limits, no waiting lists, post as many ads as you want whenever you want.
 
-### Sunday, February 12, 2012  
-Mobile Released
-
-The future is here! Humpchie's Mobile has been released. Now you can find Escorts and Erotic Massages in & near Montreal anytime... anywhere! Right from your favorite Mobile device.
-
-### Saturday, January 28, 2012  
-Beta 2 Released
-
-This is humpchies Beta 2. This release adds support for a better user experience by providing enhanced details on browse pages, as well as the implementation on an image gallery in the ad detail pages.
-
-### Sunday, December 11, 2011  
-Beta 1 Released
-
-This is humpchies Beta 1. At this time login, ad posting and sign-up are by invitation only. If you haven't been invited yet, worry not! Someone will invite you soon.
+Keep in mind though: we have released these features in BETA mode ONLY on the French part of the site... things might be flaky. But fear not! drop us a line, and let us know what doesn't work and what you think would be cool to have on the site.
 
 **So, you like Humpchies?!... Then share the joy!**
