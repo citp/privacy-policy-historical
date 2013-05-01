@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102060728id_/http%3A//www.couplescompany.com/Company/Company/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501194441id_/http%3A//www.couplescompany.com/Company/Company/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
