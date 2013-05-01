@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184554id_/http%3A//ratemyarea.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501081440id_/http%3A//ratemyarea.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rate My Area
 
@@ -42,7 +42,7 @@ You should be particularly careful that you have complied with these obligations
 
 ### 3\. USES MADE OF THE INFORMATION
 
-**3.1** The Website's users write reviews or comments about third party products, services, areas, local communities and businesses that they then post on the Website, or they award scores to third party services and products. These reviews, comments or scores can then be accessed and read by other users of the Website. You can search for registered users of the Website, whether they are individuals or groups. If you choose to be a registered user of the Website, we will display a limited amount of personal information about you, so that users are able to evaluate a particular review; you will be able to control the type of personal information about you which will be displayed in this way. 
+**3.1** The Website's users write reviews or comments about third party products, services, areas, local communities and businesses that they then post on the Website, or they award scores to third party services and products. These reviews, comments or scores can then be accessed and read by other users of the Website. You can search for registered users of the Website. If you choose to be a registered user of the Website, we will display a limited amount of personal information about you, so that users are able to evaluate a particular review; you will be able to control the type of personal information about you which will be displayed in this way. 
 
 **3.2** We use information held about you in the following ways: 
 
@@ -58,13 +58,13 @@ You should be particularly careful that you have complied with these obligations
 
 **3.2.6** to publically display a limited/controlled amount of personal information, so that users are able to evaluate a particular review 
 
-**3.3** Information such as your username, photograph, street level location (e.g. Pembroke Park), personal profile, Website history profile, group memberships and any personally identifiable information you have included in your reviews, ratings and comments you publish may be shown to other users of the Website and the RateMyArea Service. The user of the Website's history profile consists of, for example, your date of joining, previous reviews, ratings, and other material which you have contributed and whether any other user has "high fived" you. Your personal profile would consist of, for example, your likes and dislikes. 
+**3.3** Information such as your username, photograph, street level location (e.g. Pembroke Park), personal profile, Website history profile and any personally identifiable information you have included in your reviews, ratings and comments you publish may be shown to other users of the Website and the RateMyArea Service. The user of the Website's history profile consists of, for example, your date of joining, previous reviews, ratings, and other material which you have contributed and whether any other user has "high fived" you. Your personal profile would consist of, for example, your likes and dislikes. 
 
 **3.4** We may sell or licence your reviews to third parties for their use (including for publishing) without remuneration to you, in which case your username/display name and any personally identifiable information you have included in your reviews may be shown to users/ readers of such third party media. Except as set out in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. 
 
-**3.5** We may also use your email address to send you updates or news regarding the Website or a RateMyArea Service, but you may choose not to receive emails of this type by accessing the "My Account" page of the Website and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends and group contacts (such as when someone sends you a personal message). 
+**3.5** We may also use your email address to send you updates or news regarding the Website or a RateMyArea Service, but you may choose not to receive emails of this type by accessing the "My Account" page of the Website and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends contacts (such as when someone sends you a personal message). 
 
-**3.6** We may use your reviews to personalise the Website and identify/feature popular members. For example, we may promote the most popular and latest reviews, groups, listings and members. We may also promote most active members. While we do not expect to transfer the complete review and member database to others, we use the database throughout our networks and to generate results for others. 
+**3.6** We may use your reviews to personalise the Website and identify/feature popular members. For example, we may promote the most popular and latest reviews, listings and members. We may also promote most active members. While we do not expect to transfer the complete review and member database to others, we use the database throughout our networks and to generate results for others. 
 
 ### 4\. DISCLOSURE OF YOUR INFORMATION TO OTHER PEOPLE
 
