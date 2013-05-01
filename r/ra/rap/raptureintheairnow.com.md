@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raptureintheairnow.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012707id_/http%3A//raptureintheairnow.com/an-introduction-to-rita-now/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptureintheairnow.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501132250id_/http%3A//raptureintheairnow.com/an-introduction-to-rita-now/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Rapture In The Air Now ~
 
