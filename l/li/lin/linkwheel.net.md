@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkwheel.net privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417215340id_/http%3A//www.linkwheel.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkwheel.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501065808id_/http%3A//www.linkwheel.net/privacy) for the most accurate reproduction.*
 
 # Privacy | LinkWheel SEO Services
 
@@ -71,7 +71,7 @@ EZD Consulting Inc.
 160 Tycos Dr.  
 Toronto, Ontario M6B 1W8  
 Canada  
-info@linkwheel.net
+sales@linkwheel.net
 
 1-866-932-1088
 
