@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221858id_/http%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502014540id_/http%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
 
 # Mendix Privacy Policy
 
