@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questbasic.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208073944id_/http%3A//www.questbasic.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questbasic.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501232101id_/http%3A//questbasic.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # QuestBasic - Privacy Policy
 
