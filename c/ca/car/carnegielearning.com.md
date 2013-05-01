@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230231041id_/http%3A//www.carnegielearning.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080612id_/http%3A//www.carnegielearning.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Carnegie Learning - About Us
 
