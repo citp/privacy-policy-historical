@@ -1,50 +1,74 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130073837id_/http%3A//www.catglobe.com/index.php/privacy/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501094042id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy | Catglobe Group
+# Privacy Policy | surveyon
 
-Catglobe Group has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
+The main business of Research Panel Asia, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer’s privacy. This firm’s way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
 
-**1 Use of Internet Protocol Address**  
-We use your Internet protocol (IP) address for several reasons: to help diagnose problems with our server, to administer our Web site, to help identify you and your shopping cart, and to gather broad demographic information.
+### 1\. The definition of personal information
 
-**2 Use of Registration Information**  
-Our site’s registration area requires customers to supply contact information, such as name and e-mail address.
+Personal information is all information such as a name, birthday, other identifiers and numbers given to individuals that can be used to identify an individual (using only this information will not allow for this identification but can be easily compared with other information to identify someone and so is included). 
 
-**3 Use of Demographic Information**  
-We also collect demographic and profile data that we use to tailor your experience at www.catglobe.com and any other site under the domain catglobe.com. Based on this information, we display products and content we feel might interest you.  
-****
+### 2\. The collection, utilization and distribution of personal information
 
-**4 Use of Order Information**  
-When you place an order Catglobe Group requests information such as contact information, credit card number and demographic information. The contact information you provide is used to send you orders and company information. Your financial information is used for the sole purpose of billing you for products and services. Demographic data is collected to personalize future visits by displaying the content we feel would interest you most.
+Personal information is collected only after making clear this firm’s purpose of use for this information and the individual’s consent. This firm will handle this information in its most accurate and newest state and will handle it appropriately within the scope of our purpose of use. When supplying your personal information, please understand this purpose. Additionally, the supply of personal information to this firm is optional. However, in the event that you choose not to disclose your personal information to this firm, you may not be able to use all or parts of our service. This firm will under no circumstances offer your personal information to third parties without your consent. However, there are instances in which we must provide your personal information to third parties in which we are bound by a personal information consignment contract. Additionally, in the case that laws or ordinances leaded to the request for this information and our manager in charge of personal information judges this request as justifiable, we are required to supply the personal information they request. 
 
-**5 Use of Online Survey Information**  
-To participate in our online surveys, you will be required to supply contact and demographic information. Catglobe Group uses this data to send you information about the company. We might use this information to contact you if necessary. However, you may opt out of or opt for our mailings at any time. Demographic and profile data is also collected at our site and used to personalize future visits by displaying the content we feel would interest you the most.
+### 3\. The use of cookies
 
-**6 Use of Information Collected in Contests**  
-To participate in our contests, you will be required to supply contact and demographic information. Catglobe Group uses this data to send you information about the company. We might use this information to contact you if necessary. However, you may opt out of or opt for our mailings at any time. (See Opt Out / Opt for, below.) Demographic and profile data are collected at our site and used to personalize future visits by displaying the content we feel would interest you the most.
+  1. There are instances when this firm will collect information such as a customer’s IP address, cookie information (this refers to information contained within cookies) or information that can identify individual computers. This firm uses this information for privacy protection, improvement of convenience, the distribution of surveys and for statistical data acquisition but cannot use this information for any other reason without the customer’s consent.
+  2. When using the service (this service is called “surveyon” and hereafter will be referred to as “this service”) this firm will send text information called cookies to your web browser (software used to browse websites, all instances of this term will refer to this definition). This cookie is saved on the hard drive or memory of the user’s device.
+  3. Cookies are widely used to provide the best possible service to users by identifying a user’s browser or managing this service’s questions. Cookies contain no personal information or any information that is related to a customer’s privacy. Users can block cookies by changing the settings of their web browser but this will result in the user not being able to use a portion of this service.
+  4. There are instances when a user’s cookies will be provided to a third party company that we use for the data analysis of our site. The use of these cookies by this third party is based on the privacy policy of that company. The privacy polices of the third party companies that are using the cookies from this firm’s site are listed below. 
+    * a. Google, inc. （Google Analytics） Privacy Policy: http://www.google.com/policies/privacy/
+    * b. About Google Analytics: http://www.google.com/intl/ja/analytics/privacyoverview.html
 
-**7 Security**  
-Catglobe Group features security measures to protect the loss, misuse or alteration of information placed under our control. The Catglobe Group network is placed under the most secure conditions and maintained only by professionals.
 
-**8 Children’s Guidelines**  
-We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent.
 
-We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information.
+### 4\. With regards to requests due to incidents and revisions
 
-**9 Opt out / Opt in**  
-Catglobe Group only sends emails to those who have actively joined a panel and you can opt out of receiving mails from us by sending an email to [support@catglobe.com](mailto:support@catglobe.com).
+This firm has established a management system and appointed a personal information manager to prevent incidents such as unauthorized access to as well as the loss, erasure, alteration or leakage of personal information as well as to ensure the best possible support in the rare case that such an incident occurs. 
 
-**10 Change / Update Personal Information**  
-Catglobe Group allows you to change or modify your personal information by visiting a designated customer service page.
+Additionally, starting with the entrance and exit from our offices, we have several security measures in place for our computer systems. In the event that an unforeseeable incident occurs, this firm will use the emergency network in our company structure as well as counter-measure procedures to quickly find the origin and take the appropriate corrective actions. 
 
-**11 Disclaimer**  
-This site contains links to other sites. Catglobe Group is not responsible for the content or privacy practices of these sites.
+### 5\. Procedures for disclosures, corrections, deletions and suspensions of usage
 
-**12 Contact Us**  
-If you have any additional questions or concerns about our privacy policy, please contact us:
+When disclosures, corrections, deletions and suspensions of usage are requested through the assistance service by the subject of this information, this firm will put into practice this request after checking with legal standards and commonly accepted ideas. Additionally, the subject of this personal information can disclose, correct and delete this personal information from this firm’s web site. Please confirm the following official statements based on the “Laws regarding the protection of personal information.” 
 
-Catglobe Group  
-Phone: (+45) 7020 3224  
-Fax: (+45) 7020 2423  
-E-mail: [privacy@catglobe.com](mailto:privacy@catglobe.com)  
-Web: [www.catglobe.com](http://www.catglobe.com/)
+### 6\. The official purpose of use for personal information.
+
+  1. This firm’s main business is the implementation of surveys through which we examine and acquire the awareness and state of the products and services offered by our members and then statistically process this information and our purpose of use is to offer this information to companies and organizations. The personal information we collect is, as a general rule, used as statistical information and this firm will not disclose any information that can be used to identify an individual.
+  2. Those who participate as the target groups for our surveys are required to register beforehand. This registration method requires that those who register clearly understand our purpose of use as per our personal information protection policy and that they themselves consent to this policy.
+  3. Those who participate as the target groups for the “surveyon” surveys are awarded points and when these points are exchanged, information related to these points is provided to the companies the participants are exchanging their points with. For more information with regards to the companies that these points can be traded with, please refer to the point exchange page.
+
+
+
+### 7\. Personal information in our possession
+
+“Personal information in our possession” refers to personal information with which we have the authority to disclose, correct, supplement, delete, suspend the usage of, delete and suspend the supply to third parties of. 
+
+  1. The user may confirm, correct, supplement and delete the personal information in our possession on this firm’s website.
+  2. Those customers who cannot perform the previous actions on their personal information, please contact our firm’s “Personal Information Inquiry Point of Contact.” However, there are instances that we cannot agree to these requests due to the Personal Information Protection Law.
+  3. In the event that a customer deletes their personal information, they may not be able to use all or part of this service.
+  4. In the event that a customer’s data is deleted due to a computer failure, other unforeseen event or human error, this firm may have this information backed up. No procedures can be done to confirm the nature of this backed up data.
+
+
+
+### 8\. Providing Personal Information to Third Party
+
+This firm will not supply personal information to third party without the person’s consent. However, under the following circumstances, this firm must supply this information even without the user’s consent. 
+
+  1. The law requires this disclosure
+  2. Getting the person’s consent is difficult and this information is required to protect the life, health or property of the user.
+  3. Getting the person’s consent is difficult and this information is required for an improvement to public health or the promotion of a child’s health.
+  4. This firm must disclose this information to aid a government organization, local public body or a person who takes a similar position and decides the laws and gaining the approval of the user would hinder the operation of this organization.
+
+
+
+### 9\. Contact with Personal Information
+
+This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for Research Panel Asia, Inc. for any inquires. 
+
+  1. This firm’s point of contact for inquires for personal information 
+    * a. Address: 8F First Place Bldg., Shinsen-cho 8-16, Shibuya, Tokyo, Japan
+    * b. Email Address: 
+
+
