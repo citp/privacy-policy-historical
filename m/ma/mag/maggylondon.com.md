@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maggylondon.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003210204id_/http%3A//www.maggylondon.com/help/security-and-privacy/page/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maggylondon.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501160410id_/http%3A//www.maggylondon.com/help/security-and-privacy/page/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy - Maggy London
 
