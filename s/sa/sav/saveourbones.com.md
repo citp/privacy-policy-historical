@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveourbones.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214120658id_/http%3A//saveourbones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveourbones.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501171246id_/http%3A//saveourbones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Save Our Bones
 
