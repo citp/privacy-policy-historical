@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rt.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005236id_/http%3A//rt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rt.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501192613id_/http%3A//rt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy — RT
 
 When you use RT websites and applications, various types of personally identifiable and non-personally identifiable information about you may become available or be purposefully collected by RT and third parties that provide site usage statistics services to us.
 
@@ -42,7 +42,7 @@ RT may share personal data in the following cases:
   * when transfer of personal data is effected upon consent of the owner of the data to have that personal data processed;
   * when transfer of personal data is required for the administration of justice in accordance with the laws of the Russian Federation;
   * when transfer of personal data is required for RT or the third parties to exercise their legal rights and interests, or in order to achieve a significant public benefit conditional that it involves no violation to the rights and freedoms of the owner of personal data;
-  * in other cases defined by the laws of the Russian Federation. 
+  * in other cases defined by the laws of the Russian Federation.
 
 
 
