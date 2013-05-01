@@ -1,1454 +1,164 @@
-<!--The following is the downloaded HTML source of the justclicktravels.com privacy policy that was archived on 2012-08-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120827032426id_/http%3A//www.justclicktravels.com/static.action%3Fpage%3Dprivacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justclicktravels.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501124538id_/http%3A//justclicktravels.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-
-<link type="text/css" rel="stylesheet" href="/css/styles-min.css">
-<script type="text/javascript" src="/js/all-jquery-no-dojo-min.js"></script>
-<script type="text/javascript">
-var $$$ = jQuery;
-var $ = jQuery;
-</script> 
-<title>Flights, Book Lowest price Flights, Cheap Domestic and International Flights, Hotel Reservations, book exclusive resorts.</title>
-<link rel="shortcut icon" href="/images/favicon.ico">
-
-<script type="text/javascript">
-	var iChars = "!@#$%^&*()+=-[]\\\';,/{}|\":<>?~_"; 
-//For Customer signIn
-function checkcustomerlogin(){
-	jQuery.ajax({ 
-			type: "POST",
-			url: "/docustomerlogin.action",
-			data: jQuery('#customerlogin').serialize(),
-			success: function(response){
-				var res = response;
-	   			var check=res.search("Invalid userId/password.Try again!");
-	   		   if(check!=-1){
-	   			document.getElementById("customerloginError").innerHTML=res;
-	   				}
-	   			else{
-	   				jQuery('#divLogin').jqmHide();
-	   				document.getElementById("logoutdivision").innerHTML=response;
-	   			}
-				}
-				});
-	return false;
-	}
-
-function showMeAsActive(idIndex,divId,travelMode) {
-	for(i=0;i<3;i++){
-		document.getElementById("homediv"+i).style.display="none";
-	}
-	for(i=0;i<3;i++){
-		jQuery('#hometab'+i).removeClass('current');		
-	}
-	document.getElementById("homediv"+divId).style.display="inline";
-	jQuery('#hometab'+idIndex).addClass('active');	
-	for(i=0;i<3;i++){
-		jQuery('#headertab'+i).removeClass('active');
-	}	
-	
-	if(travelMode=='flight'){
-		var content=jQuery("#slideFlight").html();		
-		jQuery('#headertab0').addClass('active');
-	//	jQuery('#hotelImage').get(0).style.display='none';
-	}
-	else if(travelMode=='hotel'){
-		var content=jQuery("#slideHotel").html();
-		jQuery('#headertab1').addClass('active');
-	//	jQuery('#hotelImage').get(0).style.display='block';
-	}
-	else if(travelMode=='mytrips'){
-		var content=jQuery("#slideMytrips").html();
-		jQuery('#headertab6').addClass('active');
-		jQuery('#hotelImage').get(0).style.display='block';
-	}
-	jQuery("#clickontripslide").html(content);
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Just Click Travels Pvt. Ltd.</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
 }
-
-//newly added for reseting form feilds
-function resetflightfields(){
-	document.forms[0].reset();
-	document.forms[1].reset();
-	
-}
-
-function checkAgreement(){
-	if(checkCountrySelectedOrNOt("a")){
-		if(document.getElementById('PANHolderName').style.display=="inline" && document.getElementById('panHolderName').value==""){
-			jAlert("Please enter PAN holder's name!");
-		}else{
-			if(jQuery("#aggrementcheck").get(0).checked){
-				jQuery('#affiliatesignup').get(0).submit();
-			}else{
-				jAlert("Please accept the affiliate agreement!")
-				return false;
-			}
-		}
-	}else{
-		self.location = '#acountryselectionerr';
-		return false;
-	}
-}	
-
-function clearValues()
-{
-	jQuery("#error_msg").css("display","none");
-	jQuery("#email_id").val("");
-}
-function passwordRecovery(){ 
-	 
- if(jQuery('#forgotpwd').valid()){
-	var roleId;
-	 if(jQuery("#roleId").val()=="5")
-	 {
-		 roleId="5";
-	 }
-	 else
-	 {
-		 roleId="2"; 
-	 }
-	 	jQuery.ajax({ type: "POST",
-	     url: "/password-recovery.action?roleId="+roleId,
-	     data: jQuery('#forgotpwd').serialize(),         
-	     success: function(response){
-		  
-		  var check=response.search("Please enter valid email Id!");
-		  if(check==-1)
-		  {
-			  jQuery("#dialogforgetPwd").jqmHide();
-				jAlert("An email with password is sent to your email Id.Please check!");
-				
-			  } else {
-			 jQuery("#error_msg").css("display","block");
-			 jQuery("#dialog").html(response);			 
-	  }
-  }      
-	   });
-	 }
-	   return false;
-	}
-
-function dateValidate(constraints){
-	return "(([0][1-9]|[1-2][0-9]|3[0-1])[-](?:(((j|J)an)|JAN)|(((f|F)eb)|FEB)|(((m|M)ar)|MAR)|(((a|A)pr)|APR)|(((m|M)ay)|MAY)|(((j|J)un)|JUN)|(((j|J)ul)|JUL)|(((a|A)ug)|AUG)|(((s|S)ep)|SEP)|(((o|O)ct)|OCT)|(((n|N)ov)|NOV)|(((d|D)ec)|DEC))[-](([1][9]|[2][0])([0-9]{2}))$)"
-}
-function phone(constraints){
-	return "^\\([0-9]{3}\\)\\s?[0-9]{3}(-|\\s)?[0-9]{4}$|^[0-9]{3}-?[0-9]{3}-?[0-9]{4}$";
-}
-function allcreditcards(constraints){	
-	var selected=$("traveldtcreditcard").value;	
-	if(selected=='Amex'){	
-		return "^3[47][0-9]{13}$";
-	}
-	if(selected=='Discover'){
-		return "^6(?:011|5[0-9]{2})[0-9]{12}$";
-	}
-	if(selected=='MasterCard'){
-		return "^5[1-5][0-9]{14}$";
-	}
-	if(selected=='Visa'){
-		return "^4[0-9]{12}(?:[0-9]{3})?$";
-	}
-}
-function email(constraints){
-	return "^([a-zA-Z0-9_\\-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([a-zA-Z0-9\\-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
-}
-function userid(constraints){
-	return "^[a-zA-Z][a-zA-Z0-9]*$";
-}
-function zip(constraints){
-	return "(^\\d{5,6}$)|(^\\d{5}-\\d{4}$)";
-}
-//same as zip,need to optimize later
-function ext(constraints){
-	return "(^\\d{3,5}$)";
-}
-function password(constraints){
-	return "((?=\.*[0-9])(?=\.*[A-Za-z])\.{6,16})";
-}
-function passport(constraints){
-	 return "^([a-zA-Z]|[0-9])([a-zA-Z]|[0-9]){7,50}$";
-}
-function ffNumber(constraints){
-	 return "^([a-zA-Z]|[0-9])([a-zA-Z]|[0-9]){6,25}$";
-}
-function checkCountrySelectedOrNOt(id) {
-	 var country = document.getElementById(id+'countrycombobox').value;
-	 if(country=="NONE"){
-		 document.getElementById(id+'countryselectionerr').innerHTML="*Country and state value required.";
-		 document.getElementById(id+'countryselectionerr').style.display="inline";
-		 return false;
-	 }else{
-		 var state=null;
-		   if (country =="US")
-		   {
-			   state=document.getElementById(id+'uSStates').value;
-		   }
-		   else if  ( country == "CA")
-		   {
-			   state=document.getElementById(id+'canadaStates').value;
-		   }
-		   else if ( country == "AU")
-		   {
-			   state=document.getElementById(id+'australiaStates').value;
-		   }
-		    else if ( country == "IN")
-		   {
-		      state=document.getElementById(id+'indianStates').value;
-		   }
-		  // jAlert(country+"=="+state);
-		   if(state==" "||state==' '){ 
-		   	   document.getElementById(id+'countryselectionerr').innerHTML="*State value required.";
-			   document.getElementById(id+'countryselectionerr').style.display="inline";
-			   return false;
-		   }else{ 
-			   	document.getElementById(id+'countryselectionerr').style.display="none";
-			    return true;
-		   }
-	}
-}
-
-function showState(id){
-	 var country = document.getElementById(id+'countrycombobox').value;
-	 
-	 document.getElementById(id+'showUSStates').style.display="none";
-	 document.getElementById(id+'showCanadaStates').style.display="none";  
-	 document.getElementById(id+'showAustraliaStates').style.display="none";
-	 document.getElementById(id+'showIndiaStates').style.display="none";
-	 document.getElementById(id+'disableStates').style.display="none";
-	 
-	 document.getElementById(id+'uSStates').value=" ";
-	 document.getElementById(id+'canadaStates').value=" ";
-	 document.getElementById(id+'australiaStates').value=" ";
-	 document.getElementById(id+'indianStates').value=" ";
-	 document.getElementById(id+'noState').value=" ";
-
-	 if (country =="US")	   {
-	     document.getElementById(id+'showUSStates').style.display="inline";
-	   }else if(country == "CA"){
-	      document.getElementById(id+'showCanadaStates').style.display="inline";  
-	   }else if (country == "AU")	   {
-	    document.getElementById(id+'showAustraliaStates').style.display="inline";
-	   }else if(country == "IN")	   {
-	    document.getElementById(id+'showIndiaStates').style.display="inline";
-	   }else  {
-	     document.getElementById(id+'disableStates').style.display="inline";
-	   }      
-}
-
-function showSelectedCountrynState(state,id) {
-	  var country = document.getElementById(id+'countrycombobox').value;
-	  
-	  if (country =="US") {
-	     document.getElementById(id+'showUSStates').style.display="inline";
-	     document.getElementById(id+'uSStates').value=state;
-	   }else if  ( country == "CA"){
-	      document.getElementById(id+'showCanadaStates').style.display="inline";  
-	      document.getElementById(id+'canadaStates').value=state;
-	   }else if ( country == "AU"){
-	    document.getElementById(id+'showAustraliaStates').style.display="inline";
-	    document.getElementById(id+'australiaStates').value=state;
-	   }else if ( country == "IN"){
-	    document.getElementById(id+'showIndiaStates').style.display="inline";
-	    document.getElementById(id+'indianStates').value=state;
-	   }else{
-	     document.getElementById(id+'disableStates').style.display="inline";
-	   }   
-}
-
-function checkVaildationCode(validationcode) {
-	var enteredCode=document.getElementById("validationtxt").value;
-	if(enteredCode!=validationcode){ 
-	   	   document.getElementById('tcountryselectionerr').innerHTML="*Please enter the validation code correctly.";
-		   document.getElementById('tcountryselectionerr').style.display="inline";
-		   return false;
-	   }else{ 
-		    return true;
-	   }
-}
-
-function sendBookedTripEmail(){
-	if(jQuery('#frmBookedTripEmail').valid()){
-		if(jQuery("#emailwaitload").length > 0)
-			jQuery("#emailwaitload").get(0).style.display="inline";
-		jQuery.ajax({ 
-	  		type: "POST",
-	    	url: "/air/sendTicketEmail.action",
-	    	data: jQuery('#frmBookedTripEmail').serialize(),     	
-	     	success: function(response){ 
-				if(jQuery('#divEmail')){
-					jQuery('#divEmail').jqmHide(); 
-				}	
-				if(jQuery("#emailwaitload").length > 0)
-					jQuery("#emailwaitload").get(0).style.display="none";
-		    	  	jAlert("Email generated and sent to your mail id, Please check mail!");	         		
-	    	},    	
-	    	error: function(e){ 
-	    		jQuery('#divEmail').jqmHide(); 
-	    		jAlert("Email generated and sent to your mail id, Please check mail!");
-	    	}
-		});
-	}
-  	return false;
-}
-
-function sendIteneraryEmail(){
-	if(jQuery('#frmEmailIteneraryList').valid()){
-		var offerprice = false;
-		var publishedprice= false;
-		if(jQuery('#offerprice').length > 0){
-			if (document.getElementById('offerprice').checked== true)	{
-				offerprice= true;
-			}
-		}
-		if(jQuery('#publishedprice').length > 0){
-			if (document.getElementById('publishedprice').checked== true){
-				publishedprice= true;
-			}
-		}
-		jQuery.ajax({ 
-	  		type: "POST",
-	    	url: "/air/sendTicketEmail.action?offerprice="+offerprice+"&publishedprice="+publishedprice,
-	    	data: jQuery('#frmEmailIteneraryList').serialize(),     	
-	     	success: function(response){
-				jQuery('#divEmailItenary').jqmHide();
-				jAlert("Email generated and sent to your mail id, Please check mail!");  	    	    
-	    	},    	
-	    	error: function(e){ 
-	    		jQuery('#divEmailItenary').jqmHide();
-	    		jAlert("Email generated is not sent to your mail id, Please try again!");
-	    	}
-		});
-	}
-}
-
-function iPrint(){
-    try{ 
-    	if(jQuery('.printLinksDiv')){
-    		jQuery('.printLinksDiv').css('display',"none");
-    	}
-    	if(jQuery("#hiddenlogo").length > 0){
-    		jQuery("#hiddenlogo").show();
-    	}
-        var oIframe = jQuery('#ifrmPrint');
-        var oContent = jQuery('#printcontent').html();
-        var headerPrint = jQuery('#headerPrint').html();
-        var oDoc = (oIframe[0].contentWindow || oIframe[0].contentDocument);
-        if (oDoc.document) oDoc = oDoc.document;
-		oDoc.write("<html><head><title>");
-		oDoc.write("Online Booking");
-		oDoc.write("</title><style type='text/css' media='print'>@import '/css/displaytag.css';@import '/css/styles.css';</style>");
-		oDoc.write("<style type='text/css'> body{ margin:0; padding:0; background:none;}</style>");
-		oDoc.write("</head><body onload='this.focus(); this.print();'>");
-		oDoc.write(oContent + "</body></html>");
-		oDoc.close();
-		if(jQuery("#hiddenlogo").length > 0){
-    		jQuery("#hiddenlogo").hide();
-    	}
-		jQuery('.printLinksDiv').css('display',"inline");
+-->
+</style>
+<link href="webstyle.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.powered {font-family: arial; font-size: 11px; color: #000000; text-decoration: none; line-height: 20px; font-weight: normal}
+    .style12
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        font-weight: normal;
+        color: #000000;
+        text-decoration: none;
+        height: 70px;
     }
-    catch(e){
-    	//jAlert("error"+e);
-	    self.print();
-    }
-}
-
-function userLogincheckPassword(frmId){
-	if(checkCountrySelectedOrNOt('u')){
-		document.getElementById('passworderror').style.display="none";
-		var Password=$("customerPassword").value;
-		var confirmPassword=$("confirmcustomerPassword").value;
-		if(Password!=confirmPassword){
-			document.getElementById('passworderror').style.display="inline";
-			return false;
-		}else{
-			 return true;
-		}
-	}else{
-		return false;
-	}
-}
-
-function checkPassword(frmId){
-	document.getElementById('passworderror').style.display="none";
-	var Password=jQuery("#customerPassword").val();
-	var confirmPassword=jQuery("#confirmcustomerPassword").val();
-	if(Password!=confirmPassword){
-		document.getElementById('passworderror').style.display="inline";
-		return false;
-	}
-	else{
-		if(jQuery("#customeragreement").get(0).checked){
-			 return true;
-		}else{
-			jAlert("Please accept the user agreement!")
-			return false;
-		}
-	}
-}
-
-function showWeatherDiv() {
-	document.getElementById("sendweather").style.display="block";
-	document.getElementById("showweather").style.display="none";
-}
-
-function saveNewsLetter(){
-	var email=document.getElementById('newsLetterEmail').value;
-		if(document.getElementById("loadingnewsletter"))
-			document.getElementById("loadingnewsletter").style.display="inline";
-		jQuery.ajax({ type: "POST",
-		    url: "/savenewsletter.action?newsLetterEmail="+email,
-		    success: function(response){
-			//document.getElementById("newsLetter").update(response);
-			 jQuery("#newsLetter").html(response);
-				if(document.getElementById("loadingnewsletter"))
-					document.getElementById("loadingnewsletter").style.display="none";
-		},
-		    error: function(e){ 
-		    		if(document.getElementById("loadingnewsletter"))
-		    			document.getElementById("loadingnewsletter").style.display="none";
-		    		jQuery("#newsLetter").html(response);
-		    }
-		});
-}
-
-function viewSaticContent(pageName) {
-	var	 params  = 'width='+screen.width-200;
-	 params += ', height='+screen.height-100;
-	 params += ', fullscreen=no';
-	 params += ', location=no';
-	 params += ', resizable=yes';
-	 params += ', scrollbars=yes';
-	 params += ', status=no';
-	 params += ', toolbar=no';
-		
-	 var url="/staticcontent.action?page="+pageName;
-	 newwin=window.open(url,pageName,params);
-	 if (window.focus) {newwin.focus()}
-	 return false;
-}
-
-function viewStaticContentPopup(pageName) {
-	var	 params  = 'width='+screen.width-200;
-	 params += ', height='+screen.height-100;
-	 params += ', fullscreen=no';
-	 params += ', location=no';
-	 params += ', resizable=yes';
-	 params += ', scrollbars=yes';
-	 params += ', status=no';
-	 params += ', toolbar=no';
-		
-	 var url="/static.action?page="+pageName;
-	 newwin=window.open(url,pageName,params);
-	 if (window.focus) {newwin.focus()}
-	 return false;
-}
-
-function openNewPopup(url) {
-	 var  params  = 'width='+(screen.width/4)*3;
-	  params += ', height='+(screen.height/4)*3;
-	  params += ', fullscreen=no';
-	  params += ', location=no';
-	  params += ', resizable=yes';
-	  params += ', scrollbars=yes';
-	  params += ', status=no';
-	  params += ', toolbar=no';
-	  
-	  newwin=window.open(url,"ecaretechlabs",params);
-	   if (window.focus) {newwin.focus()}
-		 return false;
-}
-
-var iChars = "!@#$%^&*()+=-[]\\\';,/{}|\":<>?~_"; 
-function isSpecialCharacter(data){
-	for (var j = 0; j < data.length; j++) {
-		if (iChars.indexOf(data.charAt(j)) != -1) {			
-			return true;
-		}
-	}
-}
-function toggleDomesticDiv(value,flightsource,hotelsource){
-	jQuery(".airports").autocomplete("option","source",flightsource);
-	jQuery(".hotelLocations").autocomplete("option","source",hotelsource);
-}
-function setDomestic(domestic){
-	if(domestic=="true"){
-		jQuery("#hidrtdomestic").val(true);
-		jQuery("#hidowdomestic").val(true);
-		jQuery("#hidmuldomestic").val(true);
-	}else {
-		jQuery("#hidrtdomestic").val(false);
-		jQuery("#hidowdomestic").val(false);
-		jQuery("#hidmuldomestic").val(false);
-	}
-}
-
-function fetchtermsandconditions(){
-	var termsURL=jQuery('#termsURL').val();
-	jQuery.ajax({
-		type: "POST",
-		url : termsURL,
-		success: function(res){
-		if (jQuery.browser.msie){
-			  /*FOR IE FIX*/
-			 jQuery("#termsandcondition").html("<pre>"+res+"</pre>");
-		 }else{
-			 jQuery("#termsandcondition").html(res);
-		 }
-		},
-		error: function(res){
-			jQuery("#defaultTerms").get(0).style.display="block";
-			jQuery("#termsandcondition").get(0).style.display="none";
-		}
-	});
-}
-
-/*Function Added for Focus at last section of form*/
-function setFocus(id){
-	  var position = jQuery("#"+id).position();
-	  window.scrollTo(position.left, position.top);
-}
-	 
-function customerSignUp(){
-	if(jQuery('#customersignup').valid()){
-	if(document.getElementById('customeragreement').checked==true){
-		document.getElementById('passworderror').style.display="none";
-		var Password=jQuery("#customerPassword").val();
-		var confirmPassword=jQuery("#confirmcustomerPassword").val();
-		if(Password!=confirmPassword){
-			document.getElementById('passworderror').style.display="inline";
-			return false;
-		}
-				jQuery.ajax({
-				   url: "/sign-up/signUp.action",
-				   data: jQuery("#customersignup").serialize(),
-				   success:function(response) {
-						var check = response.search("E-mail Id is already registered!");
-						 if(check==-1){
-							window.location="/home.action";
-						}else{
-							jQuery("#cust_signUp").html(response);
-						}
-				    },
-					error:function(response) {  
-				    	jQuery("#cust_signUp").html(response);
-				    }
-				 });
-	}else{
-		jAlert("Please accept the user agreement!");
-	}
-	}
-}
-
-
-/*the function written below blocks the 'enter' key 
-we will use the function along with onkeypress event
-eg )<input type="text"  onkeypress="return blockEnterKey(event)"/> 
-*/
-function blockEnterKey(e)
-{
-var keycode;
-if (window.event) keycode = window.event.keyCode;
-else if (e) keycode = e.which;
-else return true;
-
-  if (keycode == 13)
-  	   return false;
-  else
-  return true;
-}
-	 /**
-* Common JS API Library used for all POST Methods in IBE
-*
-**/
-function jQueryPost(URL, targetDivId, errorDivId, serializedForm, isBlockUIRequired, blockUIWaitiMsg){
-	
-	if(isBlockUIRequired){
-		if(null == blockUIWaitiMsg){
-			blockUIWaitiMsg = '<strong>Please Wait...</strong>';
-		}
-		jQuery.blockUI({ message:blockUIWaitiMsg  });
-	}
-	
-	if(null==targetDivId && null==errorDivId){
-		targetDivId = "bodyDiv";
-		errorDivId = "bodyDiv";
-	}
-	if(null==errorDivId){
-		errorDivId = targetDivId;
-	}
-	if(null != serializedForm){
-		jQuery.ajax({ 
-			type: "POST",
-			url : URL,
-			data: jQuery("#"+serializedForm).serialize(),
-			success: function(response){
-				jQuery('#'+targetDivId).html(response);
-			},
-			error: function(response){
-				jQuery('#'+errorDivId).html(response);
-			}
-		});
-	}else{
-		jQuery.ajax({ 
-			type: "POST",
-			url : URL,
-			success: function(response){
-				jQuery('#'+targetDivId).html(response);
-			},
-			error: function(response){
-				jQuery('#'+errorDivId).html(response);
-			}
-		});
-	}
-	
-	if(isBlockUIRequired){
-		jQuery.unblockUI();	
-	}
-}
-
-var error_message = "Sorry! Unable to apply currency conversion!";
-var same_currency = "Sorry! Conversion cannot be apply for same currencies!";
-var rate_not_available = "Sorry! Exchange rate not available!";
-
-/**
- * 
- * Currency Conversion using jquery AJAX API
- * Refrence : http://weblogs.asp.net/scottgu/archive/2010/06/10/jquery-globalization-plugin-from-microsoft.aspx
- * Refrence : https://github.com/jquery/globalize
- * 
- * 
- * Ln: http://code.google.com/p/jquery-i18n-properties/
- * 
- * */
-function convert(language) {
-	try{
-		
-	jQuery.blockUI({ message:"Please wait...."  });
-	var toCurrency =jQuery("select#currencyComboId option:selected").text();
-    var symbol = getSymbol(toCurrency);
-   
-   jQuery.ajax({ 
-		type: "POST",
-		url : "/current-exchange-rate.action?toCurrency="+toCurrency+"&symbol="+symbol,
-		success: function(response){
-	 	  if(response == "-1"){
-	 		 jAlert(rate_not_available);
-	 	  }else{
-	 		 var rate = new Number(response);
-	 		
-	 		 applyforCurrencySymbol(symbol);
-	 		 applyCssCurrencyConversion(rate);
-	 		 
-	 		 jQuery('#sessionToCurrency').attr('title', toCurrency);
-	 		 //For slider currency conversion starts
-	 		 if(jQuery('#Slider1').val()!=undefined) {
-	 			convertPrizeSliderValue(rate,language);
-	 			jQuery("#currencyRate").val(rate);
-	 		}	
-	 		//For slider currency conversion ends
-	 	  }
-	 		 jQuery.unblockUI();	
-		},
-		error: function(response){
-				jQuery.unblockUI();	
-			jAlert(error_message);
-		}
-	});
-   
-	}catch (e) {
-			jQuery.unblockUI();	
-		jAlert(e);
-	}
-}
-
-function applyCssCurrencyConversion(rate){
-	try{
-		jQuery(".dyna-currency-actual").each(
-				function() {
-			 			jQuery(this).nextAll(".dyna-currency-amount").html(Globalize.format((Globalize.parseFloat(jQuery(this).text()) * rate),"n"));
-				 		}
-	 	);
-	}catch (e) {
-		jAlert(e);
-	}
-}
-
-
-function applyforCurrencySymbol(symbol){
-	try{
-		jQuery(".dyna-currency-symbol").each(
-				function() {
-		 			jQuery(this).html(symbol);
-			 			}
-	 	);
-	}catch (e) {
-		throw e;
-	}
-}
-
-function getSymbol(toCurrency) {
-	var language = jQuery("#currencyComboId").val();
-	jQuery.preferCulture(language);
-	
-	var ibeDefaultCurrency  = jQuery('#ibeDefaultCurrency').get(0).title;
-	if(ibeDefaultCurrency==toCurrency){
-		var ibeDefaultCurrencySymbol  = jQuery('#ibeDefaultCurrencySymbol').get(0).title;
-		return ibeDefaultCurrencySymbol;
-	}else{
-		var symbol = jQuery.culture.numberFormat.currency.symbol;	
-		return symbol.replace(".", "");
-	}
-}
-
-function setSessionCurrency(){
-	
-	var currencysArryStr =  jQuery('#ibeAllowableCurrencys').get(0).title;
-	var currencysArry = currencysArryStr.split(",");
-	
-	var arrayIndex=0;
-	while (arrayIndex < currencysArry.length)
-	{
-	  var currencyArry = currencysArry[arrayIndex].split(":");
-	  jQuery('#currencyComboId').append('<option value="'+currencyArry[1]+'" label="'+currencyArry[0]+'">' + currencyArry[0] + '</option>');
-	  arrayIndex+=1;
-	}
-	
-	var sessionToCurrency ;
-	if(null != jQuery('#sessionToCurrency').get(0) && jQuery('#sessionToCurrency').get(0).title != ""){
-		var sessionToCurrency = jQuery('#sessionToCurrency').get(0).title;
-	}else{
-		var sessionToCurrency  = jQuery('#ibeDefaultCurrency').get(0).title;
-	}
-	jQuery("select[name=currencyCombo] option[label='"+sessionToCurrency+"']").attr("selected", true);
-}
-
-</script>
-
-
-
-
-<script id="header-init-script" type="text/javascript" src="/jsp/common/layout/header.js"></script>
-
-<script src="http://connect.facebook.net/en_US/all.js"></script>
+    -->
+</style>
 </head>
 
-<body class="bg-wrapper">
-<div id="serverDate" title="27/08/2012"></div>
-<div id="tripType" title=""></div>
-<div id="travelType" title=""></div>
-<div id="searchCritria" title=""></div>
-<div id="ibeDefaultCurrency" title="INR"></div>
- 
-<div id="sessionToCurrency" title=""></div>
-<div id="ibeDefaultCurrencySymbol" title="Rs"></div>
-<script type="text/javascript">
-	var serverDate=jQuery('#serverDate').get(0).title;
-	var tripType=jQuery('#tripType').get(0).title;
-	var travelType; 
-	if(jQuery('#searchCritria').get(0).title =='') {
-		travelType = true;
-	} else {
-		travelType=(jQuery('#travelType').get(0).title == "true");
-	}
-</script>
-
-
-<div class="outerwrapper">
-	<div class="wrapper">
-	 
-
-
-
-
-
-
-
-	<div class="header">
-	
-	
-
-
-
-
-
-
-<div class="logo"><a class="dyna-link" href="../../../home"><img src="../../../images/logo.png" border="0" alt="logo"></a></div>
-<div class="menubox">
-<div class="menu">
-<ul>
-<li><a class="dyna-link-home">home</a> </li>
-</ul>
-</div>
-<div class="userbox1">
-<div class="username rig">
-<div class="link">
-<h3 class="user dyna-user-welcome" style="display: none;"></h3>
-<div class="link">
-<ul>
-<li class="rightfloat"><a class="dyna-link-login">login </a></li>
-<li class="rightfloat"><a class="dyna-link-mytrips" style="display: none;">mytrips </a></li>
-<li class="rightfloat"><a class="dyna-link-logout" style="display: none;">logout</a></li>
-<li class="rightfloat"><a class="signin dyna-link-affiliate-info" style="cursor: pointer;display: none;"><img style="margin-top: 5px;" src="../../../images/drop-down.jpg" border="0" alt="drop"></a></li>
-</ul>
-</div>
-</div>
-<div>
-<div style="width: 284px;" class=" rightfloat">
-<div class="rightfloat">
-<div class="leftfloat paddtop1 wht"><strong>currency</strong></div>
-<div class="leftfloat margleft1 paddtop7"><select id="currencyComboId" style="width: 90px;" name="currencyCombo"> </select></div>
-</div>
-</div>
-</div>
-<fieldset id="signin_menu" style="display: none; margin-right: 350px;"></fieldset></div>
-<div class="spacer"></div>
-</div>
-<div class="spacer"></div>
-<div class="contactbox">
-<div class="contact">
-<div class="phone">
-<p>011-43436363 (100 Lines)&nbsp;</p>
-<p>Timings : 09:00am - 09:00pm</p>
-</div>
-</div>
-<div class="linkbox">
-<ul>
-<li><a class="jmLoginAnchor1 dyna-link-new-registration" style="cursor: pointer;">newregistration</a> </li>
-<li><strong>:</strong></li>
-<li><a class="dyna-link-manage-booking">Manage Booking</a> </li>
-<li><strong>:</strong></li>
-<li><a class="dyna-link-customer-support">customer support</a> </li>
-<li><strong>:</strong></li>
-<li><a class="dyna-link-feedback">feedback</a> </li>
-</ul>
-</div>
-<div class="spacer"></div>
-</div>
-</div>
-<div class="spacer"></div>
-
-
-
-
-
-
-	
-	 </div>
-	<div style="display: none;">
-	<div id="ex3b" class="">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	        <tbody><tr>
-	            <td width="97%" height="25" align="left" valign="middle" bgcolor="#b0e62d" class="paddrigh wht"><h3>Membership Login</h3></td>
-	            <td width="3%" align="center" valign="middle" bgcolor="#b0e62d" class="paddl wht"><a href="#" class="jqmAlert jqmClose"><img src="/images/close_icon_double.png" border="0" width="16" height="17"></a></td>
-	        </tr>
-	    </tbody></table>
-		<div class="spacer"></div>
-	  		<div class="jqmLoginContent"><p>Please Wait... </p></div>
-	</div>
-	   
-	
-</div>
-<div style="width: 700px; margin-top:-55px; z-index: 3000; display: none;" id="divLogin_header" class="jqmWindow1 jqmID1">
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-                  <tbody><tr>
-                    <td width="50%" valign="middle" height="25" bgcolor="#cccccc" align="left" class="cor2 paddleft1"><h3>Sign up Page</h3></td>
-                    <td width="50%" valign="middle" bgcolor="#cccccc" align="right" class="paddl"><a class="jqmClose wht" href="javascript:void(0);"><img border="0" alt="close" src="/images/close_icon_double.png"></a></td>
-                  </tr></tbody>
-   </table>
-<div id="cust_signUp">
-	
-
-
-
-
-<script type="text/javascript" src="/jsp/customer/container.js"></script>
-<form id="customersignup" name="static" action="/static.action" method="post">
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	jQuery("#customersignup").validate({
-		errorLabelContainer: jQuery("#customersignup div.error")
-	});
-});
-</script> 
-
-<div class="" style="display:block;">
-   <div style="width:700px; ">
-        <div class=" paddbottom1">
-        
-        </div>
-        <div style="float:left; width:250px;padding-left:10px;">
-        
-        <div class="">
-        <table width="100%" border="0">
+<body>
+<center>
+<table width="1004" border="0" cellpadding="0" cellspacing="0" style="margin-left: 0px">
   <tbody><tr>
-  	 <td>
-    <h5 class="paddtop3 "><strong>Facebook user?</strong></h5>   
-    <p class="paddtop2 linne">you can use your Facebook accounts to sign up with Just Click Travels Pvt Ltd</p>
-    <p class="paddtop3"> <a href="/customer/facebook-sign-up" class="combutton" style="cursor: pointer; text-decoration: none;">Connect With Facebook</a></p>
-    </td>
-    <!--<td>
-    	<p class="paddtop3"> <a onclick="fbLoginInit()" class="combutton" style="cursor: pointer; text-decoration: none;">Connect With Facebook</a></p>
-    	<p id="userName"></p>
-    </td>-->
+    <td height="156" bgcolor="#3fc5f3" class="resttop"><table width="1004" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="701"><img src="images/logo.png" width="266" height="125"></td>
+            <td width="303"><table width="264" height="104" border="0" align="center" cellpadding="0" cellspacing="0" background="images/247-bg.png">
+              <tbody><tr>
+                <td height="84"><table width="230" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td class="arial16">24 x 7 CUSTOMER SUPPORT</td>
+                    </tr>
+                    <tr>
+                      <td><table width="100%" border="0" cellspacing="1" cellpadding="2">
+                          <tbody><tr>
+                            <td width="17%" align="center"><img src="images/phone.png" width="22" height="12"></td>
+                            <td width="83%" class="arial13b">011 43436363 (100 Lines)</td>
+                          </tr>
+                          <tr>
+                            <td align="center"><img src="images/mobile.png" width="12" height="17"></td>
+                            <td class="arial13b">+91-9999828402</td>
+                          </tr>
+                          <tr>
+                            <td align="center"><img src="images/mail.png" width="18" height="14"></td>
+                            <td><a href="mailto:admin@justclicktravels.com" class="arial13b">
+                                support@justclicktravels.com</a></td>
+                          </tr>
+                      </tbody></table></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+      
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="2" bgcolor="#3EA6DD"></td>
+  </tr>
+ <!-- <tr>
+    <td bgcolor="#F7F7F7">&nbsp;</td>
+  </tr>-->
+  <tr>
+    <td bgcolor="#F7F7F7"><table width="980" border="0" align="center" cellpadding="0" cellspacing="0" background="images/pgbase1.jpg">
+     <!-- <tr>
+        <td><img src="images/pgtop.jpg" width="980" height="10" /></td>
+      </tr>-->
+      <tbody><tr>
+        <td><table border="0" align="center" cellpadding="0" cellspacing="0" style="width: 99%">
+          <tbody><tr>
+            <td height="40" class="arial18" align="left">Privacy Policy </td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="images/blueline.jpg" width="980" height="3"></td>
+      </tr>
+      <tr>
+        <td class="style12" align="left">
+            <b>What personal information does Just Click Travels gather from me and how is this information used?</b><br><br>
+When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described above. A valid credit card is required to make a purchase on our site.<br><br>
+<b>Making a Booking?</b><br><br>
+In order to purchase travel and related services through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your telephone number, your e-mail address and the name or names of the person(s) traveling (if not you). We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.<br><br>
+<b>With whom (if anyone) will my personal information be shared?</b><br><br>
+When you reserve or purchase travel services through <b>Just Click Travels</b>, we provide to the travel agency or other involved third party only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements.<br><br>
+<b>What safeguards are in place to protect the loss, misuse or alteration of your information?</b><br><br>
+All personal information you provide to <b>Just Click Travels</b> is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Just Click Travels, you are protected.<br><br>
+<b>What other information should I know about my privacy?</b><br><br>
+<b>Just Click Travels</b> contains links to other web sites. Please note that when you click on one of these links, you are entering another web site for which <b>Just Click Travels</b> has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and credit card numbers. In addition to the circumstances described above, <b>Just Click Travels</b> may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority. <br><br>
+Thank you for Choosing Us.
+
+           
+
+        </td>
+      </tr>
+       
+      
+      <tr>
+        <td><img src="images/pgbottom.jpg" width="980" height="10"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F7F7F7">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="1" bgcolor="#FFFFFF"></td>
+  </tr>
+  <!--<tr>
+    <td bgcolor="#F7F7F7">&nbsp;</td>
+  </tr>-->
+  
+  <tr>
+    <td height="<!--1" bgcolor="#FFFFFF"></td>
+  </tr>
+ <tr>
+    <td height="55" bgcolor="#FFFFFF"><table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td><span class="powered"><a href="index.htm" style="text-decoration: none">Home</a> | <a href="aboutus.html" style="text-decoration: none">About Us</a>  | <a href="contactus.html" style="text-decoration: none">Contact Us</a> | <a href="termscondition.html" style="text-decoration: none"> Terms &amp; Conditions</a>  | 
+                  <a href="privacy.html" style="text-decoration: none">PrivacyPolicy</a><br>
+                  Copyright Just Click Travels Pvt. Ltd. 2013 All rights reserved
+                </span></td>
+              <td><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tbody><tr>
+                    <td width="42%" align="right"><img src="images/iatsalogos.jpg" width="313" height="41"></td>
+                  </tr>
+                  <tr>
+                    <td align="right"><img src="images/paymentlogos.jpg" width="232" height="41"></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
   </tr>
 </tbody></table>
-        </div>
-        </div>
-        <div style="float:right; width:415px; border-left:1px solid #CCCCCC; padding-left:10px;">
-        <table width="408" border="0">
-  
-  <tbody>
-  <tr>
-    <td height="30" class="combg-gry paddleft2" colspan="2"><strong>Member Login</strong></td>
-    </tr>
-    <tr>
-    <td width="100%">
-    
-    
-	<div id="passworderror" class="redtext" style="display: none;">
-	Password and confirm password should be same</div>
-    </td>
-    </tr>
-  <tr>
-    <td width="34%" height="30"><span class="paddleft2"> Title:<span class="red">*</span></span></td>
-    <td width="66%"><label>
-    <select name="user.title" id="customersignup_user_title" class="ieSelectFix " style=" width:50px;">
-    <option value="Mr">Mr.</option>
-    <option value="Miss">Miss.</option>
-    <option value="Mrs">Mrs.</option>
+</center>
 
 
-</select>
-      
-    </label></td>
-    </tr>
-  <tr>
-    <td height="30"><span class="paddleft2">First Name:<span class="red">*</span></span></td>
-    <td><span class="styled-2">
-     
-						
-					<input type="text" name="user.firstname" autocomplete="off" id="customerfirstnmae" title="Please enter valid First Name " value="" style="width:200px" class="textbox focused required validateTravellerName">
-    </span></td>
-    </tr>
-  <tr>
-    <td height="30" class="paddleft2">Middle Name</td>
-    <td class="text2"><span class="styled-2">
-     
-					<input type="text" name="user.middlename" autocomplete="off" id="customermiddlename" title="Please enter valid Middle Name" value="" style="width:200px" class="textbox focused">
-    </span></td>
-    </tr>
-  <tr>
-    <td height="30" class="paddleft2"><label>Last Name: <span class="red">*</span></label></td>
-    <td class="text2"><span class="styled-2">
-     
-						
-					<input type="text" name="user.lastname" autocomplete="off" id="lName" title="Please enter valid Last Name" value="" style="width:200px;" class=" focused required validateTravellerName">
-    </span></td>
-    </tr>
-  <tr>
-    <td height="30" class="paddleft2">Mobile Phone: <span class="red">*</span></td>
-    <td class="text2"><span class="styled-2">
-   
-						 
-					<input type="text" name="user.mobile" autocomplete="off" id="customermobilenumber" title="Please enter valid number" size="40" value="" style="width:200px" class=" focused required validateMobilePhone" onblur="jQuery(&quot;#customerphonenumber&quot;).val(this.value);">
-					<input type="hidden" name="user.contactphone" value="" id="customerphonenumber">
-    </span></td>
-    </tr>
-  <tr>
-    <td height="30" class="combg-gry paddleft2" colspan="2"><strong>Login Information</strong></td>
-    </tr>
-  <tr>
-    <td height="30" class="paddleft2">Email:<span class="red">*</span></td>
-    <td class="text2"><span class="styled-2">
-    
-                    	
-					<input type="text" name="user.email" autocomplete="off" id="customeremailid" title="Please enter valid Email" size="40" value="" style="width:200px" class=" focused required validateEmail">
-     
-    </span></td>
-    </tr>
-  <tr>
-    <td height="30" class="paddleft2">
-      <label>Password:<span class="red">*</span></label>    </td>
-    <td class="text2"><span class="styled-2">
-     
-						
-									<input type="password" name="user.password" id="customerPassword" title="Please enter valid Password" size="40" value="" style="width:200px" class=" required password
-">      
-    </span></td>
-    </tr>
-     <tr><td colspan="2" class="paddleft2"> 
-        <span class="styled-2">
-          Password must contain only alpha numeric and must be longer than six characters.      
-       </span></td>
-    </tr>  
-  <tr>
-    <td height="30" class="paddleft2"><label>Confirm password: <span class="red">*</span></label></td>
-    <td class="text2"><span class="styled-2">
-    
-												
-                     <input type="password" name="password2" id="confirmcustomerPassword" title="Please enter valid Confirm Password" value="" style="width:200px" class=" required password
-">
-    </span></td>
-    </tr>
-  <tr>
-    <td height="30" class="text2 paddleft2 " colspan="2">
-      <input type="checkbox" id="customeragreement" name="checkbox">   
-      I agree to the 
-      <a href="javascript:void(0);" class="jmLoginAnchor8"> Privacy Policy </a>and 
-      <a href="javascript:void(0);" class="jmLoginAnchor9">Terms &amp; Conditions</a></td>
-    </tr>
-  <tr>
-    <td height="30" align="center" colspan="2"><span class="paddtop3">
-      <input type="button" onclick="customerSignUp();" class="combutton" value="Submit" name="Submit">
-    </span></td>
-    </tr>
-</tbody></table>
-     </div>
-        </div>
-         <div class="rightfloat">
-                  </div>
-			</div>
-        </form>
 
-
-
-
-        <div class="jqmWindow1 pop-txt" id="terms_cond" style="width:800px;z-index: 3300; display: none;">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="50%" height="25" align="left" valign="middle" bgcolor="#cccccc" class="whttxt paddleft1"><h3>Terms and Conditions</h3></td>
-            <td width="50%" align="right" valign="middle" bgcolor="#cccccc"><a href="javascript:void(0)" onclick="closeJQM('terms_cond')"><img src="/images/close_icon_double.png" alt="close" hspace="5" border="0"></a></td>
-          </tr>
-        </tbody></table>
-       <div class="">
-       <div>
-       
-			
-
-
-
-
-
-
-<div class="headd blue-head">Terms and Conditions</div>
-<div class="two-w">
-<p>Just Click Travels will not disclose personal information to third parties without the user's permission, except as provided in this policy, and will take appropriate measures to safeguard the personal information shared with us. When Just Click Travels requests sensitive information, commercially reasonable steps will be taken to establish a secure connection with the user's web browser to assure privacy.</p>
-<p>Just Click Travels respects your privacy and understands the trust you have reposed in us to protect information that may jeopardize your personal privacy by the disclosure of personal information. Therefore, we assure you that we take all possible measures to make sure we protect your right to privacy by taking utmost precautionary measures. We follow the most appropriate standards to make sure to protect this information.</p>
-<p>As an informed and discerning user, you can visit our portal and browse through our offerings without letting us know who you are personally. Only in some cases we do keep a track of the I.P. address of your machine, the time spent from the computer on the session, information you browsed etc. to collect data for analysis. But, this at no time means that we know who you are in person.</p>
-<p>While you purchase certain services from us and/ or if you do register with us for any reason, your personal information like name, address, phone no. , email etc. we may use this information for the purpose of analysis, communication or any other purpose as deemed necessary.</p>
-<p>This information may also be shared by us with travel suppliers once you purchase services from us to make sure we are able to provide you the desired services appropriately. But, at no stage would we disclose, share or sell any information pertaining to you to any third party. This information may only be shared by us in the event of a legal proceeding and on the provision of necessary legal documents or in case we perceive any harm being caused to the community by a user.</p>
-<p>In some cases it is possible that we or one of our affiliate companies/ deployed agencies may contact you for the purpose of updating you with offers or information that we may deem beneficial to you.</p>
-<p>It is our goal to make you feel confident and comfortable while browsing or purchasing from our portal. And, it is for this reason, we update our systems with the latest safety and security features at all times to enhance your confidence in us.</p>
-<h3>TERMS AND CONDITIONS:</h3>
-<div align="justify" class="boddy">
-<ul>
-<li> This website (the site) is published and maintained by Just Click Travels, a company incorporated and existing in accordance with the laws of the Republic of India. When you access browse or use this site you accept, without limitation or qualification the terms and conditions set forth below.</li>
-<li> This user agreement constitutes a binding contract between you the user and Just Click Travels with regards to the use of various services that are provided by Just Click Travels.</li>
-<li> REFUND AND CANCELLATION POLICY                                                     
-<ul>
-<li> Just Click Travels Cancellation and/or amendment of airline tickets shall at all time are subject to fees/charges/levies/payments as may be levied/payable to the relevant airline/carrier in accordance with such relevant airline/carrier cancellation/refund policy. Prior to booking tickets, you must acquaint yourself with the relevant airline/carrier cancellation/refund policy with respect to the ticket to be booked by you. Any cancellation/amendment fees/charges/levies/payments levied by/payable to the relevant airline shall be to your account. At present a service fee of Rs 250/- and Rs 500/- being charged for domestic and International respectively over and above the airline cancellation/rebooking fees. </li>
-<li> The customer must read individual airline specific terms and conditions in order to find out if the ticket proposed to be booked/purchased is subject to any additional cancellation fee or charge. We take no liability whatsoever in this regard. </li>
-<li> Please note that unless stated otherwise, it is mandatory to contact us for refunds and the airline will not directly refund the tickets booked from the website. </li>
-</ul>
-</li>
-<li> MODIFICATION OF TERMS                              
-<ul>
-<li> Just Click Travels reserves the right to change the terms, conditions and notices under which the services are offered through the website including but not limited the charge for the services provided through the website. The user shall be responsible for regularly reviewing the terms and conditions.</li>
-</ul>
-</li>
-<li>PRIVACY POLICY                                                    
-<ul>
-<li>The user hereby consent, expresses and agrees that he has read and fully understand the privacy policy of Just Click Travels. The user further consents that the terms and contents of such privacy policy are acceptable to him.</li>
-</ul>
-</li>
-<li> DISCLAIMER OF WARRANTIES/LIMITATION OF LIABILITY                                                    
-<ul>
-<li>Just Click Travels has endeavored to ensure that all the information provided by it is correct. But Just Click Travels neither warrants nor makes any representations regarding the quality, accuracy or completeness of any data or information. Just Click Travels makes not warrant, express or implied concerning the website and/or its contents and disclaim all warranties of fitness for a particular purpose and warranties of merchantability in respect of services, including any liability, responsibility or any other claim, whatsoever, in respect of any loss, whether direct or consequential, to any user or any other person, arising out of or from the use of any such information.</li>
-</ul>
-</li>
-<li>Just Click Travels does not endorse any advertiser on its website in any manner. The users are requested to verify the accuracy of all information on their own before undertaking any reliance on such information. </li>
-<li> SITE AND ITS CONTENTS                                                     
-<ul>
-<li> This site is only for your personal use. You shall not distribute exchange, modify, sell or transmit anything you copy from this Site, including but not limited to any tax, images, audio and video for any business, commercial or public purpose.</li>
-<li> As long as you comply with the terms of these Terms and Conditions of Use, Just Click Travels grant you a non-exclusive, non transferable, limited right to enter, view and use this Site. You agree not to interrupt or attempt to interrupt the operation of this Site in any way. </li>
-</ul>
-</li>
-<li>OWNERSHIP                                                    
-<ul>
-<li> All Material on this Site, including but not limited to audio, images, software, text, icons and such like (the "content"), are protected by copyright under international conventions and copyright loss.</li>
-<li>There are a number of proprietary logos, service marks and trademarks found on this Site whether owned/used by Just Click Travels or otherwise. By displaying them on this Site. Just Click Travels is not granting you any license to utilize those proprietary logos, service marks or trademarks. Any unauthorized use of the Contents may violate copyright laws, trademark laws, the laws of privacy and publicity, and civil and criminal statutes.</li>
-</ul>
-</li>
-<li> OTHERS' RIGHTS                               
-<ul>
-<li> If this Site contains access to mailing lists or other massage or communication facilities, you agree to use the same only to send and receive massages and material that are proper and related thereto by way of example you agree that when using the Site or any facility here from, you shall not do any of the following.                            
-<ul>
-<li>Defame,  abuse, harass, stalk or otherwise violate the legal rights (such as right of  privacy and publicity) of others. </li>
-<li>Publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information.</li>
-<li>Upload or attach files that contain software or other material protected by intellectual property law (or by right of privacy and publicity) unless the User owns or controls the rights thereto or has received all consents there for as may be required by law.</li>
-<li>Upload or attach files that contains viruses, corrupted file or any other similar software or programs that may damage the operation of another's computer.</li>
-<li>Delete any author attributions, legal notice or proprietary designations or labels in any file that is uploaded.</li>
-<li>Falsify the origin or source of software or other material contain in a file that is uploaded. </li>
-<li>Advertise or offer to sell any goods or services, or conduct or forward surveys, contents or chain letters or download any file posted by another user of a Forum that the user know or reasonably should know cannot be legally distributed in such manner.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>USER'S MATERIAL                                                    
-<ul>
-<li>You are prohibited from posting or transmitting any defamatory, libelous, obscene, pornographic, profane, threatening or unlawful material or any material that could constituted or encourage conduct that would be considered a criminal offence or give rise to civil liability, or otherwise violate any law.</li>
-<li>Just Click Travels assumes no liability or responsibility arising from the contents of any communication containing any defamatory, erroneous, inaccurate, libelous, obscene or profane material. Just Click Travels may change, edit, or remove any user material or conversations that are illegal, indecent, obscene or offensive, or that violates Just Click Travels policies in any way. Just Click Travels will fully cooperate with any law enforcement authorities or court order requesting or directing Just Click Travels to disclose the Identity of any one posting such material.</li>
-</ul>
-</li>
-<li>Just Click Travels RIGHTS                                                    
-<ul>
-<li>If you send any communication or material to the Site by electronic mail or otherwise, including any comments, data, question, suggestion or the like or such communication are and will be treated by Just Click Travels and non confidential. You hereby give up any and all claim that any use of such material violates any of your rights including moral rights, privacy rights, proprietary or other property rights, rights to credit for material or ideas or any other right, including the right to approve the way Just Click Travels uses such material. Any material submitted to this Site may be adapted, broadcast, changed, disclose, copied, licensed, performed, posted, published, soled, transmitted all use by Just Click Travels anywhere in the world, in any medium, forever.</li>
-</ul>
-</li>
-<li>TRANSMITTED MATERIAL                                                    
-<ul>
-<li>Internet transmissions are never completely private or secure. You understand that any massage or information you send to this Site may be read or intercepted by others unless there is a special notice that a particular massage (for example, credit card information) is encrypted (send in code). Sending a message to Just Click Travels does not cause Just Click Travels to have any special responsibility to you.</li>
-<li> The copyright of the contents of this website belong to Just Click Travels. Accordingly Just Click Travels reserve or rights. Copying of part or all the contents of this website without permission of Just Click Travels is prohibited except to the extent that such copying/printing is necessary for the purpose of availing of the paid services provided.</li>
-</ul>
-</li>
-<li> CONTESTS AND INTERACTIONS                                                     
-<ul>
-<li>This Site may contain contests that require you to send an material or information about yourself or offer prizes. Each contests has it own rules which you must read and agree to before you participate.</li>
-</ul>
-</li>
-<li>DISCLAIMER                                                     
-<ul>
-<li>The material in this Site could include technical accuracies or typographical errors. Just Click Travels may make changes or improvements at any time. </li>
-<li>The material on this Site are provided on "As is" basis without warranties of any kind either expressed or implied information, software, products and services contained on this website, and the inclusion or offering of any products or services on this website does not constitute any endorsement or recommendation of such products or services by Just Click Travels and their respective suppliers. To the fullest extent permissible pursuant to applicable. Just Click Travels disclaims all warranties on merchantability, relating to the information and description of the air or any other travel products displayed on this website (including without limitation, the pricing, photograph, general product description etc.) much of which information is provided by respective customers. Just Click Travels affiliates and their respective customers make no guarantees about the availability of specific products and services. </li>
-<li>Just Click Travels may make improvements and/or changes on this website at any time. </li>
-<li>Just Click Travels does not warrant that the functions contained in this Site will be uninterrupted or error free, that defects will be corrected, or that this site or the servers that make it available are free of viruses or other harmful components, but shall endeavor to ensure your fullest satisfaction. Just Click Travels does not warrant or make any representation regarding the use of or the result of the use of the material on the Site in terms of their correctness, accuracy, reliability, or otherwise in so far as such material is derived from the service providers such as airlines and tour operators. </li>
-<li>You acknowledge that this website will provide only on the basis set out in these terms and conditions. Your uninterrupted access or use of this website on this basis may be prevented by certain factors outside our reasonable control including, without limitation, the unavailability, inoperability or interruption of the internet or other telecommunication services or as a result of any maintenance or other service work carried out on this website. Just Click Travels does not accept any responsibility and will not be liable for any loss or damage whatsoever arising out of or in connection with any ability/inability to access or to use the site. You also acknowledge that through this site. Just Click Travels merely provides intermediary service orders in order to facilitate highest quality service to you. Just Click Travels is not the last mile service provider to you and therefore Just Click Travels shall not to be responsible for any lack of deficiency of services provided by any person (airline, travel and tour operator, similar agency) you shall engage or hire or appoint pursuant to or resulting from, the material available in this site. </li>
-<li> Just Click Travels will not be liable to you or to any other person for any direct, incident, punitive or consequential loss, damage, cost or expenses of any kind whatsoever and howsoever caused from out of usage of this site. </li>
-</ul>
-</li>
-</ul>
-<p>Just Click Travels may add to change or remove any part of these Terms &amp; Conditions of use at any time, without notice. Any changes to these Terms and condition of use or any Terms posted on this site apply as soon as they are posted. By continuing to use this site after any changes are posted. You are indicating your acceptance of these changes.</p>
-<p>Just Click Travels may add change, discontinue, remove or suspend any other content posted on this site, including features and specific terms described or depicted on this site, temporarily or permanently, at any time without notice and without liability.</p>
-<p>Just Click Travels reserve the right to undertake all necessary steps to ensure that the security, safety, and integrity of Just Click Travels systems as well as its client interest are an remain well-protected.</p>
-<p>Towards this end, Just Click Travels may take various steps to verify and confirm the authenticity, enforceability and validity of order placed by you.</p>
-<p><small><em style="color: #ff0033;">Finally, We as a merchant shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time. </em></small></p>
-</div>
-</div>
-
-
-
-
-
-
-       </div>
-      </div>
-   </div>
-   <div class="jqmWindow1 pop-txt" id="pri_policy" style="width:800px;z-index: 3300;display:none;">
-       <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="50%" height="25" align="left" valign="middle" bgcolor="#cccccc" class="whttxt paddleft1"><h3>Privacy Policy</h3></td>
-            <td width="50%" align="right" valign="middle" bgcolor="#cccccc"><a href="javascript:void(0)" onclick="closeJQM('pri_policy')"><img src="/images/close_icon_double.png" alt="close" hspace="5" border="0"></a></td>
-          </tr>
-       </tbody></table>
-       <div class="">
-       <div>
-       
-			
-
-
-
-
-
-
-<div class="headd blue-head">Privacy Policy</div>
-<div class="two-w">
-<p><strong>What personal information does Just Click Travels gather from me and how is this information used?</strong></p>
-<p>When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described above. A valid credit card is required to make a purchase on our site.</p>
-<p><strong>Making a Booking?</strong></p>
-<p>In order to purchase travel and related services through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your telephone number, your e-mail address and the name or names of the person(s) traveling (if not you). We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.</p>
-<p><strong>With whom (if anyone) will my personal information be shared?</strong></p>
-<p>When you reserve or purchase travel services through Just Click Travels, we provide to the travel agency or other involved third party only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements.</p>
-<p><strong>What safeguards are in place to protect the loss, misuse or alteration of your information?</strong></p>
-<p>All personal information you provide to Just Click Travels is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Just Click Travels, you are protected.</p>
-<p><strong>What other information should I know about my privacy?</strong></p>
-<p>Just Click Travels contains links to other web sites. Please note that when you click on one of these links, you are entering another web site for which Just Click Travels has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and credit card numbers. In addition to the circumstances described above, Just Click Travels may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority.</p>
-<br>
-<p>Thank you for Choosing JustClickTravels.com.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</div>
-
-
-
-
-
-
-       </div>
-       </div>
-    </div>
-<script>
-jQuery('#pri_policy').jqm({trigger: 'a.jmLoginAnchor8', ajaxText: 'Loading...', toTop: true, modal: true});
-jQuery('#terms_cond').jqm({trigger: 'a.jmLoginAnchor9', ajaxText: 'Loading...', toTop: true, modal: true});
-</script>
-
-</div>
-</div>
-<div id="ibeAllowableCurrencys" title="INR:en-IN,USD:en-US,EUR:sk-SK,GBP:en-GB"></div> 
-<script>
-jQuery(document).ready(function() {
-	jQuery('#dialog').jqm();
-	setSessionCurrency();
-});
-</script>
-<script>
- jQuery('#divLogin_header').jqm({trigger: 'a.jmLoginAnchor1', ajaxText: 'Loading...', toTop: true, modal: true});
- </script>
-      
-
-
-
-	  
-	  <div class="spacer"></div>
-                <div class="body-wrapper">
-			<div id="bodydiv" style="overflow: hidden;">
-
-
-
-
-
-
-    
-		
-		 <div class="static-content">
-		  <div class="spacer"></div>
-		          <div class="one">
-		          	
-
-
-
-
-
-
-<div class="">
- <div class="headd combg-org">
- 	Contact us 
- </div>
- <div class="boddy">
- 	<ul>
-     	<li><a href="#">Call us</a> </li>
-         <li><a href="#">Email</a> </li>
-     </ul>
- </div>
- </div>
- <div class="">
- 	<div class="headd combg-org">Travel Tools </div>
-     <div class="boddy">
- 	<ul>
-     	<li><a href="#">Currency Converter  </a></li>
-       <li><a href="#">Online Check-in </a></li>
-         <li><a href="#]">Flight fare calender</a></li>
-       <li><a href="#">Drive Getaway Tool</a> </li>
-         <li><a href="#">Flight Timetable search </a></li>
-     </ul>
- </div>
- </div>
-         
-
-
-
-
-          	
-		          </div>
-		          <div class="two">
-		          	
-
-
-
-
-
-
-<div class="headd blue-head">Privacy Policy</div>
-<div class="two-w">
-<p><strong>What personal information does Just Click Travels gather from me and how is this information used?</strong></p>
-<p>When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described above. A valid credit card is required to make a purchase on our site.</p>
-<p><strong>Making a Booking?</strong></p>
-<p>In order to purchase travel and related services through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your telephone number, your e-mail address and the name or names of the person(s) traveling (if not you). We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.</p>
-<p><strong>With whom (if anyone) will my personal information be shared?</strong></p>
-<p>When you reserve or purchase travel services through Just Click Travels, we provide to the travel agency or other involved third party only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements.</p>
-<p><strong>What safeguards are in place to protect the loss, misuse or alteration of your information?</strong></p>
-<p>All personal information you provide to Just Click Travels is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Just Click Travels, you are protected.</p>
-<p><strong>What other information should I know about my privacy?</strong></p>
-<p>Just Click Travels contains links to other web sites. Please note that when you click on one of these links, you are entering another web site for which Just Click Travels has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and credit card numbers. In addition to the circumstances described above, Just Click Travels may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority.</p>
-<br>
-<p>Thank you for Choosing JustClickTravels.com.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</div>
-
-
-
-
-
-
-		          </div>
-		          <div class="three">
-		          	
-
-
-
-
-
-<div class="">
-<div class="headd combg-org">
- 	Travel Advisories 
- </div>
- <div class="boddy">
- 	<ul>
-     	<li><a href="#">Be on lookout for "phishing" Scams </a></li>
-         <li><a href="#">TSA secure Flight program  </a></li>
-     </ul>
- </div>
- </div>
- <div class="">
- 	<div class="headd combg-org">
- 	Travel Essentials 
- </div>
- 	<div class="boddy">
- 	<ul>
-     	<li><a href="#">Passport, Visa , and border crossing requirements</a></li>
-         <li><a href="#">Airline toll-free telephone numbers </a></li>
-         <li><a href="#">Transportation Security Administration  </a></li>
-         <li><a href="#">Airline Free Chart  </a></li>
-     </ul>
- </div>
- </div>
-          
-
-
-
-
-          	
-		          </div>
-		          <div class="spacer"></div>
-		          
-		  </div>	
-  
-		
-	
-	
- 
-
-</div>
- 				 </div>
-                 <div class="spacer"></div>
-                 
-			
-
-
-
-
-
-
-<div class="footer">
-<div class="footlist">
-<div style="width: 200px;" class="leftfloat foots">
-<ul>
-<li><a href="../../../home">Home</a> </li>
-<li><a class="dyna-link-affiliate-login" href="../../../affiliatewelcome">B2B Registration / Login </a></li>
-<li><a href="../../../home">Flights </a></li>
-</ul>
-</div>
-<div style="width: 200px;" class="leftfloat foots">
-<ul>
-<li><a href="../../../home">Hotels</a></li>
-<li><a href="#">Packages</a></li>
-<li><a href="../../../static.action?page=user-agreement">User Agreement </a></li>
-</ul>
-</div>
-<div style="width: 200px;" class="leftfloat foots">
-<ul>
-<li><a href="../../../static.action?page=career">Careers</a></li>
-<li><a href="../../../static.action?page=payment-security">Payment Security </a></li>
-<li><a href="#">Package/Group Query</a></li>
-</ul>
-</div>
-<div style="width: 200px;" class="leftfloat foots">
-<ul>
-<li><a href="../../../feedback.action">Feedback </a></li>
-<li><a href="../../../static.action?page=privacy-policy">Privacy Policy </a></li>
-<li><a href="../../../static.action?page=terms-and-condition">Terms &amp; Conditions </a></li>
-</ul>
-</div>
-<div style="width: 150px;" class="leftfloat foots">
-<ul>
-<li><a href="../../../static.action?page=faq">FAQs</a></li>
-<li><a href="../../../static.action?page=about-us">About Us</a></li>
-<li><a href="../../../static.action?page=contact-us">Contact Us </a></li>
-</ul>
-</div>
-<div class="spacer"></div>
-</div>
-<div class="spacer"></div>
-<h2 class="sliding"><marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" scrollamount="10"> </marquee><marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" scrollamount="10"> 
-<table style="width: 98%;" border="0" cellspacing="0" cellpadding="0" align="center">
-
-<tbody><tr>
-<td width="5%" align="center" valign="middle" height="68"><span style="padding: 0pt 0pt 0pt 20px;"><img title="IATA" src="../../../images/slide/IATA1.jpg" border="0" alt="IATA" width="133" height="43"></span></td>
-<td width="5%" height="68"><span style="padding: 0pt 0pt 0pt 20px;"><img style="border: 0;" title="IATO" src="../../../images/slide/IATO2.png" border="0" alt="IATO" width="109" height="51"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Kingfisher Airlines" src="../../../images/slide/kingfisher.gif" border="0" alt="Kingfisher" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="United Airlines" src="../../../images/slide/airline1.jpg" border="0" alt="United" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Lufthansa" src="../../../images/slide/airline2.jpg" border="0" alt="Lufthansa" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Singapore Airlines" src="../../../images/slide/airline3.jpg" border="0" alt="Singapore Airlines" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Spicejet" src="../../../images/slide/spicejet.gif" border="0" alt="Spicejet" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Go-Air" src="../../../images/slide/goair.gif" border="0" alt="Go-Air" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Emirates" src="../../../images/slide/emirates.jpg" border="0" alt="Emirates" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Air Canada" src="../../../images/slide/air_canada.gif" border="0" alt="Air Canada" width="153" height="43"></span></td>
-<td width="4%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Atlantic" src="../../../images/slide/airline4.jpg" border="0" alt="Atlantic" width="153" height="43"></span></td>
-<td width="5%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Philippine Airlines" src="../../../images/slide/airline5.jpg" border="0" alt="Philippine Airlines" width="153" height="43"></span></td>
-<td width="9%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Air India" src="../../../images/slide/airline6.jpg" border="0" alt="Air India " width="153" height="43"></span></td>
-<td width="15%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="British Airways" src="../../../images/slide/airline7.jpg" border="0" alt="British Airways" width="153" height="43"></span></td>
-<td width="26%" align="center" valign="middle"><span style="padding: 0pt 0pt 0pt 20px;"><img title="Jet Airways" src="../../../images/slide/airline8.jpg" border="0" alt="Jet Airways" width="153" height="43"></span></td>
-<td width="0%" align="center" valign="middle"><img title="Indigo Airlines" src="../../../images/slide/airline10.jpg" border="0" alt="Indigo Airlines" width="153" height="43"></td>
-</tr>
-
-</tbody></table>
-</marquee>
-<div class="spacer"></div>
-</h2>
-<div class="footbo">
-<div class="leftfloat">Copyright © 2012&nbsp; Just Click Travels Pvt Ltd. All Rights Reserved.</div>
-<div class="rightfloat"></div>
-<span class="rightfloat"><img src="../../../images/visa.jpg" alt="" width="71" height="13"></span><!--<span class="rightfloat"><img src="../../../images/IATA.jpg" mce_src="../../../images/IATA.jpg" alt="" width="41" height="20" /></span> <span class="rightfloat"><img src="../../../images/iato2.gif" mce_src="../../../images/iato2.gif" alt="" width="36" height="25" /></span>-->
-<div class="spacer"></div>
-</div>
-</div>
-<script type="text/javascript">// <![CDATA[
-	$(document).ready(function() {
-		$('#coin-slider').coinslider();
-	});
-// ]]></script>
-
-
-
-
-
-
-		 
-		
-                 
-                 </div>
-</div>
-
-<script type="text/javascript">
-jQuery(document).ready(function() {   
-	 jQuery().UItoTop({ easingType: 'easeOutQuart' });   
-  });
- </script>
-<div id="calLocale" title="en_IN"></div>
-<iframe id="ifrmPrint" frameborder="0" style="outline-color: rgb(255, 0, 0); outline-style: none; outline-width: 0px;width: 0px;height: 0px;"></iframe>
 
 
 </body></html>
