@@ -1,90 +1,36 @@
-> *The following text is extracted and transformed from the pronetadvertising.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513202354id_/http%3A//www.pronetadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronetadvertising.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082655id_/http%3A//www.searchenginejournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pronet Advertising
+# Privacy Policy | Search Engine Journal
 
-PronetAdvertising.com PRIVACY POLICY  
-Last Updated: January 2011
+**Privacy Policy for SearchEngineJournal.com**
 
-1\. Purpose
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.searchenginejournal.com/contact/).
 
-PronetAdvertising.com has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes.
+At SearchEngineJournal.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by SearchEngineJournal.com and how it is used.
 
-2\. Automatic Collection of Anonymous Information
+**Log Files**  
+Like many other Web sites, SearchEngineJournal.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-When you visit PronetAdvertising.com website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as “aol.com” or “earthlink.net”), the date and time you access the site, the pages you access while at PronetAdvertising.com’s website, and the internet address of the website, if any, from which you linked directly to PronetAdvertising.com’s site. This information is not personally identifiable.
+**Cookies and Web Beacons**  
+SearchEngineJournal.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-3\. Personally Identifiable Information
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on SearchEngineJournal.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to SearchEngineJournal.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone number, email address or any information you submitted to PronetAdvertising.com that identifies you individually.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-PronetAdvertising.com will not collect any personally identifiable information about you unless you provide it. Therefore, if you do not want PronetAdvertising.com to obtain any personally identifiable information about you, do not submit it.
+**Google Adsense**
 
-You can visit and browse PronetAdvertising.com’s website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. PronetAdvertising.com may collect personally identifiable information about you from its website by methods such as the following:
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on SearchEngineJournal.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-4\. Registration Forms
+SearchEngineJournal.com has no access to or control over these cookies that are used by third-party advertisers.
 
-If you are offered the opportunity to enter a promotion or to become a registered user of PronetAdvertising.com‘s website, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number and/or a unique individual password.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. SearchEngineJournal.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-5\. Transactions and Activity  
-If you become a registered user or if you conduct transactions through PronetAdvertising.com’s website, it collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount and payment information.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-6\. Email and other voluntary communications
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-You may also choose to communicate with PronetAdvertising.com through email, via our website, by telephone, in writing, or through other means. We collect the information in these communications, and such information may be personally identifiable.
-
-7\. Information Use
-
-PronetAdvertising.com may use the personally identifiable information collected through its website primarily for such purposes as:  
-a) helping to establish and verify the identity of users;  
-b) opening, maintaining, administering and servicing users’ accounts or memberships;  
-c) processing, servicing or enforcing transactions and sending related communications;  
-d) providing services and support to users;  
-e) improving the website, including tailoring it to users’ preferences;  
-f) providing users with service updates, promotional notices and offers, and other information about PronetAdvertising.com;  
-g) responding to your questions inquiries, comments and instructions;  
-h) maintaining the security and integrity of its systems.
-
-PronetAdvertising.com uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its website. PronetAdvertising.com may also use aggregated anonymous information to provide information about its website to potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
-
-8\. Disclosure of Information  
-PronetAdvertising.com does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. PronetAdvertising.com may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. PronetAdvertising.com may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as PronetAdvertising.com’s business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If PronetAdvertising.com, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
-
-9\. “Cookies” and Advertisers
-
-PronetAdvertising.com website’s server, or the servers of companies that are used to operate this site, may place a “cookie” on your computer in order to allow you to use the website and to personalize your experience.
-
-A “cookie” is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer’s hard drive. Cookies allow PronetAdvertising.com to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website.
-
-The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by PronetAdvertising.com’s website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present “personalized” advertisements or other messages that the user might find interesting. PronetAdvertising.com is not responsible for any such cookies.
-
-Most web browser applications (such as Microsoft Internet Explorer) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website.
-
-10\. Security
-
-PronetAdvertising.com maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from PronetAdvertising.com in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. PronetAdvertising.com restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.
-
-11\. Choice/Opt-Out
-
-In order to provide service to you, PronetAdvertising.com will send you communications related to your transactions, security or the administration of its website. From time to time, PronetAdvertising.com may also wish to send you updates about PronetAdvertising.com or promotions. If you do not wish to receive non-transaction/security related communications from PronetAdvertising.com, please send an email containing your request to adminPronetAdvertising.com  
-12\. Data Quality/Access
-
-PronetAdvertising.com allows you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to adminPronetAdvertising.com  
-13\. Changes to this Privacy Policy
-
-PronetAdvertising.com reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, PronetAdvertising.com will post a link to the new policy on its website. In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
-
-14\. Contacting Us
-
-If you have questions about this Privacy Statement or the information practices of PronetAdvertising.com, please contact us by email at adminPronetAdvertising.com
-
-15\. Governing law.
-
-This policy and the use of this Site are governed by California law. Any claim related to the Site or this policy shall be brought in a federal or state court in California, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of PronetAdvertising.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. PronetAdvertising.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
-
-16\. Children.
-
-PronetAdvertising.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe PronetAdvertising.com has any information from or about anyone under 13, please contact us at adminPronetAdvertising.com
-
-17\. Affiliated sites, linked sites and advertisements.
-
-PronetAdvertising.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a PronetAdvertising.com page, certain content that is actually created or hosted by a third party. Also, through PronetAdvertising.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. PronetAdvertising.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+SearchEngineJournal.com is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising: <http://www.aboutads.info/choices/>.
