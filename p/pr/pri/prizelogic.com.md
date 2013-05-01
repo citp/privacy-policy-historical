@@ -1,76 +1,45 @@
-> *The following text is extracted and transformed from the prizelogic.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905073303id_/http%3A//prizelogic.dev.prizelogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizelogic.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501193243id_/http%3A//prizelogic.com/privacy-policy) for the most accurate reproduction.*
 
-# PrizeLogic Privacy Policy
+# PRIVACY POLICY | Prizelogic.com
 
-* **Introduction**
+## Privacy Policy
 
-Prize Logic, LLC (“PrizeLogic”) cares deeply about your privacy. Our company assists other businesses to create unique promotions (e.g., sweepstakes, contests, etc.) that enable consumers and marketers to benefit from their relationships. Our innovative promotions may gather personally identifiable information from individuals who choose to enter a particular promotion and anonymous data regarding the promotion itself. We strive to keep this information confidential. We will only collect, store, and use any personal information you provide to us for defined purposes and will share it only with companies who share our commitment to protecting your privacy. 
+  1. **Introduction  
+** Prize Logic, LLC (“PrizeLogic”) cares deeply about your privacy. Our company assists other businesses to create unique promotions (e.g., sweepstakes, contests, etc.) that enable consumers and marketers to benefit from their relationships. Our innovative promotions may gather personally identifiable information from individuals who choose to enter a particular promotion and anonymous data regarding the promotion itself. We strive to keep this information confidential. We will only collect, store, and use any personal information you provide to us for defined purposes and will share it only with companies who share our commitment to protecting your privacy.
+  2. **Purpose  
+** This Privacy Policy explains how we handle personal information that you share with PrizeLogic. As explained in detail below, our Privacy Policy is designed to provide notice to individuals regarding how their personal information is being collected and used, and to inform individuals that they have a choice as to: (1) whether their personal information is disclosed to third parties, and (2) how their personal information is used for particular purposes.
+  3. **Information Collection**
+    1. Personally Identifiable Information (“PII”)In some instances, on behalf of our clients, PrizeLogic may collect PII (e.g., your name, address, e-mail address, telephone number, fax number, and information about your interest in and use of various products, programs and services, etc.). This information is only collected when volunteered by the user. PII collected by PrizeLogic on behalf of a client belongs solely to the client and will be used solely in accordance with that particular client’s Privacy Policy.An individual’s desire to “opt-out” of receiving marketing or other information from a client will be handled in accordance with a particular client’s Privacy Policy. PrizeLogic requires its clients, by contract, to use the data which PrizeLogic collects on its behalf in accordance with generally accepted privacy standards for both offline and online data, which includes an “opt-out” method for individuals who have provided PII. Ultimately, however, PrizeLogic is not responsible for data collected on behalf of its clients when such data is in its client’s possession.
+    2. Personal information that is not PIIOn behalf of our clients, PrizeLogic may also collect non-personally identifiable information (e.g., Internet Protocol (IP) addresses, “cookies,” and Internet tags and navigational data). “Cookies” are small pieces of information that are stored by your web browser software on your computer’s hard drive or temporarily in your computer’s memory. The use of cookies is now an industry standard, and you will find them on most major web sites. PrizeLogic may place and store Internet cookies on a user’s hard drive. The use of cookies provide benefits to you by saving user names, information that are supplied at registration, and other information that may make the use of our promotions easier. Although most web browsers are initially set up to accept cookies, if you prefer, you can decline the placement of a cookie on your hard drive by using the appropriate feature(s) of your web browser software (if available) to delete the cookie. Please note, however, that certain areas on a web site may not function properly if your web browser does not accept cookies.
+  4. **Sharing, Retention, and Storage of Personal Identifiable Information.  
+** PrizeLogic ensures that Personal Information is safeguarded against loss, access, use, modification, disclosure or other misuse. All reasonable steps are taken to prevent unauthorized use or disclosure of your Personal Information. PrizeLogic does not sell or rent PII to third parties. PrizeLogic does not otherwise disclose your personally identifiable information to third parties, unless you have consented to such disclosure or such disclosure is required by law. PrizeLogic stores all PII in a secured environment behind its “firewall.” Only those employees whose job responsibilities require them to use the PII are permitted access to such data. All employees sign confidentiality agreements and are not permitted to disclose any PII.PrizeLogic will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected, up to two years after termination of the Promotion and to comply with applicable laws. PrizeLogic will then destroy all Personal Information in its possession that was collected in connection with this Promotion. PrizeLogic takes all reasonable steps to ensure that your Personal Information is accurate, up to date, complete, relevant and not misleading. Even though PrizeLogic’s information practices may change from time to time, we will not use your information in a manner not previously disclosed to you in our Privacy Policy. We will always provide you with notice by posting any privacy policy changes on this Web site, and you will have an opportunity to reject such changes.
+  5. **Special Note about Children  
+** Unless otherwise specifically indicated, PrizeLogic Promotions are not available to anyone under the age of thirteen (13). PrizeLogic does, however, operate some promotions on behalf of its clients that collect personally identifiable information from children under the age of thirteen (13). In each such instance, PrizeLogic and its clients comply fully with all aspects of the Children’s Online Privacy Protection Act (“COPPA”) when operating the promotion, collecting the information itself, and subsequently using the data collected. PII will not be collected from children under the age of thirteen (13) without parental consent in compliance with the COPPA guidelines.
+  6. **California Privacy Rights  
+** Pursuant to California Civil Code Section 1789.83, a California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
+  7. **Accuracy of Personally Identifiable Information.  
+** It is PrizeLogic’s goal to keep all PII that you provide to us as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be. Upon request to PrizeLogic’s privacy officer, listed in Section 8 below, an individual shall be informed of the existence, use, and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+  8. **Security  
+** PrizeLogic endeavors to protect your Personal Information using physical, electronic or procedural security measures appropriate to the sensitivity of the information in its control. These measures include safeguards to protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use and modification. PrizeLogic safeguards your Personal Information on the Internet by using industry-standard practices. Although “guaranteed security” does not exist either on or off the Internet, PrizeLogic makes commercially reasonable efforts to make the collection and security of such information consistent with its Privacy Policy and all applicable laws and regulations. PrizeLogic maintains physical, electronic and procedural safeguards as appropriate to safeguard your Personal Information.
+  9. **Contact PrizeLogic  
+** To ensure the accuracy of your information, if you wish to contact PrizeLogic to correct, amend, or delete information (if PrizeLogic is holding on to your information as explained above), about privacy related issues or for any reason at all, you may contact PrizeLogic’s Privacy Officer by either:Mail the details of your request to: 
 
-* **Purpose**
-
-This Privacy Policy explains how we handle personal information that you share with PrizeLogic. As explained in detail below, our Privacy Policy is designed to provide notice to individuals regarding how their personal information is being collected and used, and to inform individuals that they have a choice as to: (1) whether their personal information is disclosed to third parties, and (2) how their personal information is used for particular purposes. 
-
-* **Information Collection**
-
-  1. Personally Identifiable Information (“PII”) 
-
-In some instances, on behalf of our clients, PrizeLogic may collect PII (e.g., your name, address, e-mail address, telephone number, fax number, and information about your interest in and use of various products, programs and services, etc.). This information is only collected when volunteered by the user. PII collected by PrizeLogic on behalf of a client belongs solely to the client and will be used solely in accordance with that particular client’s Privacy Policy. 
-
-An individual’s desire to “opt-out” of receiving marketing or other information from a client will be handled in accordance with a particular client’s Privacy Policy. PrizeLogic requires its clients, by contract, to use the data which PrizeLogic collects on its behalf in accordance with generally accepted privacy standards for both offline and online data, which includes an “opt-out” method for individuals who have provided PII. Ultimately, however, PrizeLogic is not responsible for data collected on behalf of its clients when such data is in its client’s possession. 
-
-  2. Personal information that is not PII 
-
-On behalf of our clients, PrizeLogic may also collect non-personally identifiable information (e.g., Internet Protocol (IP) addresses, “cookies,” and Internet tags and navigational data). "Cookies" are small pieces of information that are stored by your web browser software on your computer's hard drive or temporarily in your computer's memory. The use of cookies is now an industry standard, and you will find them on most major web sites. PrizeLogic may place and store Internet cookies on a user's hard drive. The use of cookies provide benefits to you by saving user names, information that are supplied at registration, and other information that may make the use of our promotions easier. Although most web browsers are initially set up to accept cookies, if you prefer, you can decline the placement of a cookie on your hard drive by using the appropriate feature(s) of your web browser software (if available) to delete the cookie. Please note, however, that certain areas on a web site may not function properly if your web browser does not accept cookies. 
-
-
-
-* **Sharing, Retention, and Storage of Personal Identifiable Information.**
-
-PrizeLogic ensures that Personal Information is safeguarded against loss, access, use, modification, disclosure or other misuse. All reasonable steps are taken to prevent unauthorized use or disclosure of your Personal Information. PrizeLogic does not sell or rent PII to third parties. PrizeLogic does not otherwise disclose your personally identifiable information to third parties, unless you have consented to such disclosure or such disclosure is required by law. PrizeLogic stores all PII in a secured environment behind its “firewall.” Only those employees whose job responsibilities require them to use the PII are permitted access to such data. All employees sign confidentiality agreements and are not permitted to disclose any PII. 
-
-PrizeLogic will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected, up to two years after termination of the Promotion and to comply with applicable laws. PrizeLogic will then destroy all Personal Information in its possession that was collected in connection with this Promotion. 
-
-PrizeLogic takes all reasonable steps to ensure that your Personal Information is accurate, up to date, complete, relevant and not misleading. Even though PrizeLogic’s information practices may change from time to time, we will not use your information in a manner not previously disclosed to you in our Privacy Policy. We will always provide you with notice by posting any privacy policy changes on this Web site, and you will have an opportunity to reject such changes. 
-
-* **Special Note about Children**
-
-Unless otherwise specifically indicated, PrizeLogic Promotions are not available to anyone under the age of thirteen (13). PrizeLogic does, however, operate some promotions on behalf of its clients that collect personally identifiable information from children under the age of thirteen (13). In each such instance, PrizeLogic and its clients comply fully with all aspects of the Children’s Online Privacy Protection Act (“COPPA”) when operating the promotion, collecting the information itself, and subsequently using the data collected. PII will not be collected from children under the age of thirteen (13) without parental consent in compliance with the COPPA guidelines. 
-
-* **California Privacy Rights**
-
-Pursuant to California Civil Code Section 1789.83, a California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right. 
-
-* **Accuracy of Personally Identifiable Information.**
-
-It is PrizeLogic’s goal to keep all PII that you provide to us as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be. Upon request to PrizeLogic’s privacy officer, listed in Section 8 below, an individual shall be informed of the existence, use, and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. 
-
-* **Security**
-
-PrizeLogic endeavors to protect your Personal Information using physical, electronic or procedural security measures appropriate to the sensitivity of the information in its control. These measures include safeguards to protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use and modification. PrizeLogic safeguards your Personal Information on the Internet by using industry-standard practices. Although "guaranteed security" does not exist either on or off the Internet, PrizeLogic makes commercially reasonable efforts to make the collection and security of such information consistent with its Privacy Policy and all applicable laws and regulations. PrizeLogic maintains physical, electronic and procedural safeguards as appropriate to safeguard your Personal Information. 
-
-* **Contact PrizeLogic**
-
-To ensure the accuracy of your information, if you wish to contact PrizeLogic to correct, amend, or delete information (if PrizeLogic is holding on to your information as explained above), about privacy related issues or for any reason at all, you may contact PrizeLogic’s Privacy Officer by either: 
-
-Mail the details of your request to:  
 Adam S. Rubin, Esq.  
-Associate General Counsel/Privacy Officer   
+Associate General Counsel  
 PrizeLogic, LLC  
-25200 Southfield, MI Suite 405  
+25200 Telegraph Road, Suite 405  
 Southfield, MI 48033  
 Telephone : (888) PZ-LOGIC – (888-755-6442)
 
-or
-
-faxing or emailing the details of your request to:  
-Fax Number: (248) 936-2640
-
+or fax or email the details of your request to:  
+Fax Number: (248) 936-2640  
 Email: [arubin@prizelogic.com](mailto:arubin@prizelogic.com)
 
-If you have general question regarding PrizeLogic’s Privacy Policy or any other privacy related issues, please call our Privacy Officer at the following number: (888-755-6442). Or fax the details of your inquiry to: (248) 936-2640. 
+If you have general questions regarding PrizeLogic’s Privacy Policy or any other privacy related issues, please call our Privacy Officer at the following number: (888-755-6442). Or fax the details of your inquiry to: (248) 936-2640.
 
-* **Material Changes to Policy**
+  10. **Material Changes to Policy  
+** PrizeLogic may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy. In the event of a material change to this Privacy Policy, PrizeLogic shall send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above.
 
-PrizeLogic may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy. In the event of a material change to this Privacy Policy, PrizeLogic shall send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above. 
 
-Updated: January 20, 2012 
+
+_Updated: January 20, 2012_
