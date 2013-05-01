@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124212158id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502011754id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
@@ -6,8 +6,7 @@
 
 At CableOrganizer.com, we do everything in our power to safeguard our customers' personal information, and believe that it's important for you to understand exactly how and why we collect, use and protect it. Please keep in mind that by visiting and/or purchasing from CableOrganizer.com, you automatically accept the policies outlined below.
 
-**Information Sharing**
-
+**Information Sharing**  
 Any information that we collect is used to contact you regarding your order, or otherwise improve the content of our web pages. All information that you submit is held strictly confidential; it’s our policy to **_never_** rent, sell, or otherwise share your personal information with other organizations for commercial purposes.
 
 **Postal Addresses**  
@@ -17,7 +16,7 @@ If you supply us with your postal address online, it will only be used to ship y
 When you provide CableOrganizer.com with your phone number, we promise that you will only receive phone calls regarding online orders that you have placed with us.
 
 **Payment Information**  
-We use the latest 128-bit encryption technology to protect your sensitive personal and financial information. Thanks to a combination of Digital ID and Secure Sockets Layer (SSL) protocol, our customers can rest assured that no unauthorized entity will gain access to bank account information or credit card numbers.
+We use the latest 256-bit encryption technology to protect your sensitive personal and financial information. Thanks to a combination of Digital ID and Secure Sockets Layer (SSL) protocol, our customers can rest assured that no unauthorized entity will gain access to bank account information or credit card numbers.
 
 **Newsletter Opt-In**  
 We offer periodical e-newsletters and promotional e-mails, but in order to avoid spamming our customers, we only send mailings to individuals who have joined our opt-in list. If you have opted-in in the past but no longer wish to receive these e-mails, simply send a message to [newsletter@cableorganizer.com](mailto:newsletter@cableorganizer.com), and we’ll remove you from the list.
@@ -48,14 +47,4 @@ Toll Free Phone: (866) 222-0030
 
 [suggest@cableorganizer.com](mailto:suggest@cableorganizer.com)
 
-If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.  
-  
-What our customers have to say about us...
-
-I have bought several items from Cableorganizer.com and I'm always very pleased with the items ordered and with shipping. It's always on time and I'm well notified once it's on route. I highly recommend this website and all their products. I wouldn't go anywhere else for our IT and corporate needs. Keep up the good work.
-
-~ Jorge, Sunrise, FL
-
-I have to say the support staff for cable organizers was very helpful and knowledgeable of the products in their catalog. Unfortunately one of the items I ordered did not meet my needs but the return process was simple, efficient and painless. I would definately use cable organizers again.
-
-~ pd, Denville, NJ
+If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.
