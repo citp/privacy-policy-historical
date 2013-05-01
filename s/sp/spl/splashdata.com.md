@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017045536id_/http%3A//privacy-policy.truste.com/verified-policy/www.splashdata.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501033531id_/http%3A//privacy-policy.truste.com/verified-policy/www.splashdata.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.splashdata.com
 
 Effective on April 13, 2010 
 
-This privacy statement describes how SplashData, Inc. collects and uses the personal information you provide on our Web site: [www.splashdata.com ](https://www.splashdata.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how SplashData, Inc. collects and uses the personal information you provide on our Web site: [www.splashdata.com ](http://www.splashdata.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
