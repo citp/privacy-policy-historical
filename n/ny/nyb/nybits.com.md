@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029160638id_/http%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501094643id_/http%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -- NY Bits
 
