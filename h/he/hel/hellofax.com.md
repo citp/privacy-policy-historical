@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819133400id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501035217id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloFax
 
@@ -18,7 +18,7 @@ JN PROJECTS INC does not rent, sell or share personal information it collects ab
 
 ### Access.
 
-If you would like to correct, amend or delete any information on the site, you can either change your personal preferences on the "My Account" page or email us at support@hellofax.com. 
+If you would like to correct, amend or delete any information on the site, you can either change your personal preferences on the "Settings" page or email us at support@hellofax.com. 
 
 ### International Transfers.
 
@@ -46,4 +46,4 @@ If you would like to cancel your account and/or unsubscribe from our email list,
 
 ### Contacting JN PROJECTS INC.
 
-If you believe that JN PROJECTS INC has not adhered to this Privacy Policy, please contact us by email at support@hellofax.com and we will use commercially reasonable efforts to remedy the problem. We can also be contacted by mail at 428 Waller Street, San Francisco, CA 94117 or by phone at (415) 255-5653. 
+If you believe that JN PROJECTS INC has not adhered to this Privacy Policy, please contact us by email at support@hellofax.com and we will use commercially reasonable efforts to remedy the problem. We can also be contacted by mail at 300 Brannan Street Suite #510 San Francisco, CA 94107 or by phone at (415) 255-5653. 
