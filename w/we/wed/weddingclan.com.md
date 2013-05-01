@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingclan.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018200523id_/http%3A//www.weddingclan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingclan.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501175252id_/http%3A//www.weddingclan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Wedding Clan : Making every wedding special with wedding ideas related to wedding dresses, wedding rings, wedding planning, wedding themes and more.
 
