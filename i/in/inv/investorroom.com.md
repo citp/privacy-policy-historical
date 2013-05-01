@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorroom.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192056id_/http%3A//prnewswire.mediaroom.com/index.php%3Fs%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorroom.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083331id_/http%3A//prnewswire.mediaroom.com/index.php%3Fs%3D62) for the most accurate reproduction.*
 
 # PR Newswire Privacy Policy
 
