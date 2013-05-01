@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jelastic.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223736id_/http%3A//jelastic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jelastic.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501222921id_/http%3A//jelastic.com/policy) for the most accurate reproduction.*
 
 # Jelastic — Privacy policy
 
-We are committed to protecting and respecting your privacy and this Privacy Policy of Hivext Technologies Inc. sets out what information we collect and how we use it.
+We are committed to protecting and respecting your privacy and this Privacy Policy of Jelastic Inc. sets out what information we collect and how we use it.
 
 We may collect and process the following data about you: 
 
@@ -39,12 +39,12 @@ We may disclose your information to a third party where we believe that access, 
   * satisfy any applicable law, regulation, legal process (including without limitation subpoenas and court orders), or enforceable governmental request;
   * enforce applicable terms of service, including investigation of potential violations thereof;
   * detect, prevent, or otherwise address fraud, security, or technical issues;
-  * protect against imminent harm to the rights and property of Hivext Technologies Inc., its users or the public as required or permitted by law;
+  * protect against imminent harm to the rights and property of Jelastic Inc., its users or the public as required or permitted by law;
   * to establish or exercise our legal rights or defend against legal claims.
 
 
 
-If Hivext Technologies Inc. becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we shall provide notice before personal information is transferred and becomes subject to a different privacy policy.
+If Jelastic Inc. becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we shall provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement or used particular product or site functionality. Such information does not identify you individually.
 
