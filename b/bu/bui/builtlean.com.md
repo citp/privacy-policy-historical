@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230210914id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082635id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BuiltLean.com
+# Privacy Policy - BuiltLean
 
   
 This privacy policy sets out how Elite Training Partners LLC DBA BuiltLean (BuiltLean) uses and protects any information that you give BuiltLean when you use this website.
@@ -35,7 +35,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 ### How to modify, or delete your personal information or opt-out
 
-In every email we send, we have a “Manage Your Subscription” link where you can change, or update your contact settings, or opt-out from receiving our emails. We also include our address and phone number in case you have any questions, or experience any difficulty. Finally, we are accessible through our [Contact Form](http://www.builtlean.com/contact/) on BuiltLean.com and through our social media presence on [Facebook](http://www.facebook.com/builtlean), [Twitter](http://www.twitter.com/builtlean), and [Youtube](http://www.youtube.com/BuiltLeanTV).
+In every email we send, we have a “Manage Your Subscription” link in the footer where you can change, or update your contact settings, or opt-out from receiving our emails. We also include our address and phone number in case you have any questions, or experience any difficulty. We are accessible through our [Contact Form](http://www.builtlean.com/contact/) on BuiltLean.com and through our social media presence on [Facebook](http://www.facebook.com/builtlean), [Twitter](http://www.twitter.com/builtlean), and [Youtube](http://www.youtube.com/BuiltLeanTV).
 
 ### Security 
 
@@ -73,4 +73,4 @@ Click the links below, which verifies the identity of BuiltLean.com, demonstrate
 | [](http://www.bbb.org/new-york-city/business-reviews/personal-trainers/builtlean-in-new-york-ny-128703/#bbbonlineclick "Built Lean BBB Business Review")  
 ---|---  
   
-_Last modified: December 18, 2012_
+_Last modified: February 15, 2013_
