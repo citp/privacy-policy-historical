@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pbmissions.com privacy policy that was archived on 2012-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113213230id_/https%3A//www.pbmissions.com/pd-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pbmissions.com privacy policy that was archived on 2013-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501032859id_/https%3A//www.pbmissions.com/pd-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -79,6 +79,7 @@
 
   
   
+  <div id="cart_total">
   <div id="cart">
   <div class="heading">
   <div class="headingright">
@@ -90,6 +91,7 @@
       </div>
 </div>
   
+  </div>
   
   
   
@@ -170,259 +172,7 @@
     <div class="right"><a href="https://www.pbmissions.com/" class="button"><span>Continue</span></a></div>
   </div>
   
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/fcyft.css">
-
-<!--<div class="box">
-
-  <div class="box-heading">News Letter</div>
-
-  <div class="box-content" style="text-align: center;">
-
-  
-
-  
-  
-  <div id="frm_subscribe">
-
-  <form name="subscribe" id="subscribe"   >
-
-  <table border="0" cellpadding="2" cellspacing="2">
-
-   <tr>
-
-     <td align="left"><span class="required">*</span>&nbsp;Email<br /><input type="text" value="" name="subscribe_email" id="subscribe_email"></td>
-
-   </tr>
-
-   <tr>
-
-     <td align="left">Name&nbsp;<br /><input type="text" value="" name="subscribe_name" id="subscribe_name"> </td>
-
-   </tr>
-
-   
-   <tr>
-
-     <td align="left">
-
-     <a class="button" onclick="email_subscribe()"><span>Subscribe</span></a>    
-
-     </td>
-
-   </tr>
-
-   <tr>
-
-     <td align="center" id="subscribe_result"></td>
-
-   </tr>
-
-  </table>
-
-  </form>
-
-  </div>
-
-  
-  </div>
-
-  <div class="bottom">&nbsp;</div>
-
-
-
-</div>
-
-
-
--->
-
-
-
-
-
-<!-- Subscribe for Newsletter -->
-
-
-
-<div class="slide_likebox2">
-
-<span class="cross">Cross</span>
-
-  <div class="slide2-inner">
-
-    <h3>Got An iPad Mini Yet?</h3>
-
-    <p>Join our newsletter today, because we give away a FREE iPad Mini to one of our readers, every month!</p>
-
-    <ul>
-
-      <li><strong>News &amp; Offers</strong></li>
-
-      <li><strong>Coupon Codes</strong></li>
-
-      <li><strong>iPad Giveaway</strong></li>
-
-	 
-
-    </ul>
-
-	 <div id="subscribe_result"></div>
-
-	<form name="subscribe" id="subscribe">
-
-	<div class="form">
-
-		<p>Enter your details..</p>
-		
-		<input name="subscribe_name" id="subscribe_name" type="text" onfocus="if(this.value=='Name'){this.value=''};" onblur="if(this.value==''){this.value='Name'};" value="Name">
-		
-		<input name="subscribe_email" id="subscribe_email" type="text" onfocus="if(this.value=='Email'){this.value=''};" onblur="if(this.value==''){this.value='Email'};" value="Email">
-
-		<a href=".#" onclick="email_subscribe()"></a>
-
-		<br><br>
-		
-		<p class="note">* No spam. Ever. We will never share your details</p>
-
-		<p class="note">* iPad Mini offer only open to US residents</p>
-
-	</div>
-
-	
-
-	 </form>
-
-	
-
-	
-
-  </div>
-<span class="crossin"></span>
-</div>
-
-<script type="text/javascript">
-
-	           jQuery(function (){
-
-                                jQuery(".crossin").toggle(function(){
-
-
-                               
-                               jQuery(".slide_likebox2").stop(true, false).animate({right:"-254"},"medium");
-
-                                },function(){
-
-                                   jQuery(".slide_likebox2").stop(true, false).animate({right:"0"},"medium");
-
-                                    },500);				
-
-                            return false;
-
-                        });
-
-                      jQuery(function (){
-
-                                jQuery(".cross").click(function(){
-
-                                jQuery(".slide_likebox2").stop(true, false).animate({right:"0"},"medium");
-
-                                },function(){
-
-                                    jQuery(".slide_likebox2").stop(true, false).animate({right:"-254"},"medium");
-
-                                    },500);				
-
-                            return false;
-
-                        });
-						
-
-                           $(document).ready(function() {
-
-						   
-
-	                      jQuery(".slide_likebox2").stop(true, false).animate({right:"0"},"medium");
-	
-			   });
-
-                    </script>
-
-					
-
-					
-
-					
-
-					
-
-<script language="javascript">
-
-		
-
-function email_subscribe(){
-
-	$.ajax({
-
-			type: 'post',
-
-			url: 'index.php?route=module/newslettersubscribe/subscribe',
-
-			dataType: 'html',
-
-            data:$("#subscribe").serialize(),
-
-			success: function (html) {
-
-				
-
-			eval(html);
-
-		
-
-			if(html==1)
-
-			{
-
-			var url = "index.php?route=account/subscriber";    
-
-            $(location).attr('href',url);
-
-			
-
-			}	
-
-			}}); 
-
-}
-
-function email_unsubscribe(){
-
-	$.ajax({
-
-			type: 'post',
-
-			url: 'index.php?route=module/newslettersubscribe/unsubscribe',
-
-			dataType: 'html',
-
-            data:$("#subscribe").serialize(),
-
-			success: function (html) {
-
-				eval(html);
-
-			}}); 
-
-}
-
-   
-   
-
-
-
-</script>
-
-<!-- /Subscribe for Newsletter --></div></div>
+</div></div>
 </div>
 
 <div id="footer">
@@ -603,40 +353,6 @@ function email_unsubscribe(){
                     </script>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/fcyft.css">
 <!--   //FACEBOOK-->
-<div>
-<script type="text/javascript">
-                            jQuery(function (){
-                                jQuery(".slide_likebox").hover(function(){
-                                jQuery(".slide_likebox").stop(true, false).animate({left:"0"},"medium");
-                                },function(){
-                                    jQuery(".slide_likebox").stop(true, false).animate({left:"-205"},"medium");
-                                    },500);
-                            return false;
-                        });
-                    </script>
-<div class="slide_likebox">
-  <div style="color: rgb(255, 255, 255); padding: 5px 55px 0px 0px;">
-    <div id="facebook" class="grid_facebook">
-      <h2></h2>
-      <div class="s_widget_holder">
-        <fb:fan profile_id="191656604297924" stream="0" connections="6" logobar="0" height="340px" width="200px"></fb:fan>
-      </div>
-    </div>
-  </div>
-</div>
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({appId: '0c18007de6f00f7ecda8c040fb76cd90', status: true, cookie: true,
-             xfbml: true});
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
-</script>
 <script type="text/javascript">
                             jQuery(function (){
                                 jQuery(".slidebox").hover(function(){
@@ -696,4 +412,4 @@ var google_remarketing_only = true;
 
 
 
-</div></div></body></html>
+</div></body></html>
