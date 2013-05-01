@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226221035id_/http%3A//www.free-stuff.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501053350id_/http%3A//free-stuff.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # free stuff
 
@@ -10,7 +10,7 @@ At free-stuff.co.uk, we recognize that privacy of your personal information is i
 
 **Opt-in Newsletter Service**
 
-We require your e-mail address if you wish to receive our opt-in newsletter. We will never disclosure your e-mail address to third parties or use it for any other purpose. 
+We require your e-mail address if you wish to receive our opt-in newsletter.By opting in to our newsletter you agree to receive emails from us and third party email communications.
 
 **External Domains**
 
