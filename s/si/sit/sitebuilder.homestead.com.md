@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the sitebuilder.homestead.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226212807id_/http%3A//sitebuilder.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitebuilder.homestead.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501181145id_/http%3A//sitebuilder.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.*
 
 # Privacy Policy | Homestead
 
 **Homestead Technologies, Inc.**  
-180 Jefferson Drive  
-Menlo Park, CA 94025
+305 Walnut Street  
+Suite 300  
+Redwood City, CA 94063
 
 **PRIVACY POLICY**   
 Last Updated September 17, 2012 
