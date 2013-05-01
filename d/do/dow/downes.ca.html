@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the downes.ca privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230221134id_/http%3A//www.downes.ca/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the downes.ca privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502002727id_/http%3A//www.downes.ca/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-AU"><!-- downes.ca template page_header --><head>
 
@@ -9,17 +9,60 @@
 <!-- scripts -->
 
 <!-- scripts -->
-  <script type="text/javascript" src="http://www.downes.ca/assets/js/grsshopper.js"></script>
+<script type="text/javascript" src="http://www.downes.ca/jquery.js"></script>
+<script type="text/javascript" src="http://www.downes.ca/assets/js/grsshopper.js"></script>
 <script type="text/javascript" src="http://www.downes.ca/assets/js/tiny_mce/tiny_mce.js">
 </script>
-  <script type="text/javascript" src="http://www.downes.ca/jquery.js"></script>
+<script type="text/javascript">
 
+</script>
 <!-- style -->
   <link rel="stylesheet" type="text/css" href="http://www.downes.ca/css/html.css" media="screen, projection, tv ">
   <link rel="stylesheet" type="text/css" href="http://www.downes.ca/css/layout.css" media="screen, projection, tv">
   <link rel="stylesheet" type="text/css" href="http://www.downes.ca/css/print.css" media="print">
   <link rel="stylesheet" type="text/css" href="http://www.downes.ca/css/tabs.css" media="screen, projection, tv">
+  <link rel="stylesheet" type="text/css" href="http://www.downes.ca/assets/css/grsshopper.css" media="screen, projection, tv">
+<style type="text/css">
 
+
+.arrowup {
+    background-image: url("http://www.downes.ca/assets/img/updown.png");
+    background-position: -32px 0px;
+    background-repeat: no-repeat;
+    width:16px;
+    height: 14px;
+    margin: 0px auto;
+}
+.arrowdown {
+    background-image: url("http://www.downes.ca/assets/img/updown.png");
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width:16px;
+    height: 14px;
+    margin: 0px auto;
+
+}
+
+.score {
+
+}
+.unvoted {
+
+}
+
+.likes {
+    display:none;
+}
+
+.dislikes {
+    display:none;
+}
+
+.post-summary {
+   margin:10px;
+   padding-top:20pt;
+}
+</style>
 <!-- links -->  
   <link rel="icon" href="http://www.downes.ca/favicon.ico" type="image/x-icon">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.downes.ca/news/OLDaily.xml">
@@ -92,25 +135,45 @@
 
 <a href="http://www.downes.ca/me/mybooks.htm"><img src="http://www.downes.ca/files/books/FreeLearning.jpg" width="150"></a>
 
-<p></p><p>
-</p><li><a href="http://www.downes.ca/edradio.htm">Ed Radio</a></li>
-	<span><a href="http://radio.myautodj.net/tunein.php/stdownes/playlist.pls"><img src="http://radio.shoutcastbroadcaster.com/system/images/tunein-pls.png" alt="Winamp" title="Winamp" align="absmiddle" border="0"></a>
-	<a href="http://radio.myautodj.net/tunein.php/stdownes/pplaylist.asx"><img src="http://radio.shoutcastbroadcaster.com/system/images/tunein-asx.png" alt="windows Media Player" title="Windows Media Player" align="absmiddle" border="0"></a>
-	<a href="http://radio.myautodj.net/tunein.php/stdownes/pplaylist.ram"><img src="http://radio.shoutcastbroadcaster.com/system/images/tunein-ram.png" alt="Real Player" title="Real Player" align="absmiddle" border="0"></a>
-	<a href="http://radio.myautodj.net/tunein.php/stdownes/pplaylist.qtl"><img src="http://radio.shoutcastbroadcaster.com/system/images/tunein-qtl.png" alt="QuickTime" title="QuickTime" align="absmiddle" border="0"></a></span>
+<p></p>
+<p>
+</p><li><a href="http://www.downes.ca/edradio.htm">Ed Radio</a></li><div id="cc_tunein">
+	<a href="http://radio.myautodj.net/tunein.php/stdownes/playlist.pls"><img align="absmiddle" src="http://radio.myautodj.net/system/images/tunein-pls.png" border="0" alt="Winamp" title="Winamp"></a>
+	<a href="http://radio.myautodj.net/tunein.php/stdownes/playlist.asx"><img align="absmiddle" src="http://radio.myautodj.net/system/images/tunein-asx.png" border="0" alt="windows Media Player" title="Windows Media Player"></a>
+	<a href="http://radio.myautodj.net/tunein.php/stdownes/playlist.ram"><img align="absmiddle" src="http://radio.myautodj.net/system/images/tunein-ram.png" border="0" alt="Real Player" title="Real Player"></a>
+	<a href="http://radio.myautodj.net/tunein.php/stdownes/playlist.qtl"><img align="absmiddle" src="http://radio.myautodj.net/system/images/tunein-qtl.png" border="0" alt="QuickTime" title="QuickTime"></a>
+</div>
 
-<object id="fmp256" type="application/x-shockwave-flash" data="http://myautodj.net/radio/minicaster.swf" width="180" height="70">
-			  <param name="movie" value="http://myautodj.net/radio/minicaster.swf">
-			  
-              <param name="flashVars" value="config=http://myautodj.net/radio/tunein.php/stdownes/playlist.mc"> 
-               <param name="wmode" value="transparent">
-			  <param name="allowScriptAccess" value="always">
-			   <div class="stirfry">
-			   <h4>Minicaster Radio Playhead</h4><p>To listen you must <a href="http://www.macromedia.com/go/getflashplayer/" title="Click here to install the Flash browser plugin from Macromedia">install Flash Player</a>. </p></div></object>
 
- <br>
-<a href="http://www.downes.ca/edradio.htm">More info</a>
-  <p></p>
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="http://hosted.musesradioplayer.com/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://208.82.115.69:8009/stream',
+'codec':'mp3',
+'volume':65,
+'autoplay':false,
+'buffering':2,
+'title':'Ed%20Radio',
+'welcome':'WELCOME TO...',
+'bgcolor':'FFFFFF',
+'skin':'mcclean',
+'width':180,
+'height':60
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<p style="font-weight:normal;color:#000000;border: 1px solid #b5a759;padding:5px;letter-spacing:0pt;word-spacing:1pt;font-size:12px;text-align:left;font-family:arial, helvetica, sans-serif;line-height:1;">
+
+Current song: <a href="http://radio.myautodj.net/tunein.php/stdownes/tunein.pls" id="cc_stream_info_song">Loading...</a><br>
+Stream title: <span id="cc_stream_info_title"></span><br>
+Bit rate: <span id="cc_stream_info_bitrate"></span><br>
+Current listeners: <span id="cc_stream_info_listeners"></span><br>
+Maximum listeners: <span id="cc_stream_info_maxlisteners"></span><br>
+Server status: <span id="cc_stream_info_server"></span><br>
+Source status: <span id="cc_stream_info_source"></span><br>
+<a href="http://www.downes.ca/edradio.htm">More info about Ed Radio</a>
+</p>
 
 
 <hr>
@@ -328,6 +391,8 @@ site, you can contact stephen@downes.ca</p>
     <span class="floatLeft">
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"></a>.
+<a href="http://grsshopper.downes.ca/about.htm"><img alt="gRSShopper" style="border-width:0" src="http://www.downes.ca/assets/img/gRsshopper_88x31.png"></a>
+
 
     </span>
 
@@ -348,7 +413,8 @@ CSS design adapted from <a href="http://fullahead.org" title="Goto Fullahead">Fu
 <script type="text/javascript">
 activatables('page', ['page-1', 'page-2', 'page-3']);
 </script>
-
+<script language="javascript" type="text/javascript" src="http://radio.myautodj.net/system/streaminfo.js"></script>
+<script language="javascript" type="text/javascript" src="http://radio.myautodj.net/js.php/stdownes/streaminfo/rnd0"></script>
 
 
 
