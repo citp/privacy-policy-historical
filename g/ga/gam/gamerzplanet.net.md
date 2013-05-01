@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224023530id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501234352id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
 
 # Announcement GamerzPlanet Privacy Policy
+
+  1. 01-16-2007 09:37 PM [#1](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#post622214)
 
 ##  GamerzPlanet Privacy Policy 
 
@@ -14,14 +16,12 @@
 > 
 > This notice applies to all information collected or submitted on the GamerzPlanet website. The types of personal information collected at these pages are:
 > 
->   * Name   
+>     * Name   
 > 
->   * Address   
+>     * Address   
 > 
->   * Email address
->   * (etc.) 
-> 
-
+>     * Email address
+>     * (etc.) 
 > 
 > **The Way We Use Information:  
 >    
@@ -38,10 +38,26 @@
 > We reserve the right to modify and amend these terms at any time without notice. If you have any concerns on about GamerzPlanet Privacy Police, please **[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]**http://share-screen.org/streamshow/  
 > 
 
-> Last edited by xzs; 12-19-2012 at 04:14 PM. 
+> Last edited by xzs; 12-19-2012 at 03:14 PM. 
 
-> Join   
+> Bored? Check   
 > _To view links or images in signatures your post count must be 5 or greater. You currently have 0 posts._  
->  and make it the biggest Off Topic Discussion Board on the internet!
+>  For Over 10,000 Free Online Flash Games!
 > 
 > **_I DO NOT MM or Trade_**
+
+* * *
+
+
+
+
+####  [](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#top) Posting Permissions 
+
+  * You **may not** post new threads
+  * You **may not** post replies
+  * You **may not** post attachments
+  * You **may not** edit your posts
+
+
+
+[Forum Rules](http://www.gamerzplanet.net/forums/misc.php?do=showrules)
