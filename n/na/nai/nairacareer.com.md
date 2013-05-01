@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nairacareer.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231071546id_/http%3A//www.nairacareer.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairacareer.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501200339id_/http%3A//www.nairacareer.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY ~ NairaCareer
+
+###  [PRIVACY POLICY](http://www.nairacareer.com/2012/04/privacy-policy.html)
 
 At **www.nairacareer.com** we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by **www.nairacareer.com** and how we use it. 
 
@@ -33,3 +35,9 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")**Update**  
 This Privacy Policy was last updated on: Thursday, April 12th, 2012.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+_Disclaimer: Note that we make every effort to verify the authenticity of our daily posts, we encourage our readers to also confirm before application, we're in no way affiliated to any of the companies. Our advice for you is never to pay any amount of money to any recruiter for job aid or educational consultant for admission aid_.
+
+[ ](https://www.blogger.com/rearrange?blogID=8301075955387038017&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
+
+[](http://www.linkwithin.com/)
