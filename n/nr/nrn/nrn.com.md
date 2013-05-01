@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218120038id_/http%3A//www.penton.com/PrivacyStatement/tabid/75/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501161131id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Penton Media, Inc.
 
@@ -6,8 +6,7 @@
 
 Penton Media, Inc. considers your privacy important. We are committed to protecting the privacy of all those who provide us with their contact information while using our information, products, events, or services. This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.
 
-This privacy statement applies to websites operated by or on behalf of Penton Media, Inc. and its subsidiaries, affiliates, divisions and related companies (“Penton”).  
- 
+A current list of the Penton websites covered by this Privacy Policy can be found [here](http://www.penton.com/AboutUs/PentonWebsites/tabid/181/Default.aspx). 
 
 **Information You Volunteer**
 
@@ -115,8 +114,6 @@ If we decide to change our privacy statement, we will post the changes on this p
  
 
 **How to Reach Us**
-
-If you wish to update your print magazine subscription contact information, please go to the magazine's home page. If you wish to opt out of receiving email, faxes, or phone calls from any Penton business, please send an email to privacy@penton.com.
 
 If you wish to contact Penton's Corporate Privacy Manager, please send your specific questions to: privacy@penton.com.
 
