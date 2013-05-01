@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020430id_/http%3A//purefixcycles.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501110117id_/http%3A//purefixcycles.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Fixies, Fixie Bikes | Pure Fix Cycles
 
