@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205118id_/http%3A//constitutioncenter.org/terms-of-of-use-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501204617id_/http%3A//constitutioncenter.org/about/terms-of-of-use-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms of of Use and Privacy Policy - National Constitution Center
 
@@ -31,14 +31,14 @@ The National Constitution Center is committed to safeguarding the privacy and se
 
 #### Browsing our Website
 
-We automatically collect cumulative information about visitors who browse our website. We do not use "cookies" for this purpose. Instead, we collect this information through a tracking system for statistical analysis to improve website management and to better fulfill our mission as both a museum and education outreach center. We do not use this information to gather, request, or record your personally identifying information. The information we collect includes:
+We automatically collect cumulative information about visitors who browse our website. We do not use "cookies" for this purpose. Instead, we collect this information through a tracking system for statistical analysis to improve website management and to better fulfill our mission as both a museum and education outreach center. We do not use this information to gather, request, or record your personally identifiable information. The information we collect includes:
 
   * The Internet Protocol ("IP") address from which you access our site
   * The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account)
   * The type of browser and operating system used to access our website
   * The date and time you access our site
   * The pages that you visit
-  * The Internet address of the website from which you linked to this website 
+  * The Internet address of the website from which you linked to this website
 
 
 
@@ -46,9 +46,9 @@ This information is stored for National Constitution Center use only. It is not 
 
 #### Sending Us Personal Information
 
-If you send us personal information – by submitting an email, completing an online form or survey, requesting materials or information, ordering merchandise or museum tickets, making a donation or signing up for membership – we will use this information to respond to your inquiry or request. Additionally, if you have checked the "Please add my name to your mailing list" box, we will add your name, E-mail and mailing address to our mailing list database.
+If you send us personal information – by submitting an email, completing an online form or survey, requesting materials or information, ordering merchandise or museum tickets, making a donation or signing up for membership – we will use this information to respond to your inquiry or request. Additionally, if you have checked the "Please add my name to your mailing list" box, we will add your name, email and mailing address to our mailing list database.
 
-We do not normally distribute visitors' names, email addresses or other identifying information submitted through this site with any third party. Such information is never sold or rented to a third party. We do, however, occasionally trade this information with other organizations whose services or products might interest you, but whose privacy policies may differ from ours. If you prefer not to have your information shared with other organizations, you may uncheck the "Allow the NCC to share my name with other organizations" box on any form or E-mail that you submit to the National Constitution Center. You may contact us at [ncc@constitutioncenter.org](mailto:ncc@constitutioncenter.org) for a current list of organizations with whom we trade information.
+We do not normally distribute visitors' names, email addresses or other identifying information submitted through this site with any third party. Such information is never sold or rented to a third party. We do, however, occasionally trade this information with other organizations whose services or products might interest you, but whose privacy policies may differ from ours. If you prefer not to have your information shared with other organizations, you may uncheck the "Allow the NCC to share my name with other organizations" box on any form or email that you submit to the National Constitution Center. You may contact us at [ncc@constitutioncenter.org](mailto:ncc@constitutioncenter.org) for a current list of organizations with whom we trade information.
 
 #### Children's Privacy on the Web
 
@@ -62,7 +62,7 @@ The National Constitution Center provides visitors with the opportunity to purch
 
 #### Other Online Transactions
 
-The NCC also provides visitors with an opportunity to make online purchases from the NCC retail store as well as purchase an NCC membership or make a contribution to our organization through an online donation/membership page. When a visitor to the NCC website chooses to make an online purchase, they are linked to a website served by Aramark. Similarly, when a visitor chooses to purchase a membership online or make a donation to the NCC, they are linked to a website served by Blackbaud. Visitors to the Aramark or Blackbaud websites are subject to those sites' privacy policies and should refer to those policies for further information.
+The NCC also provides visitors with an opportunity to make online purchases from the NCC retail store as well as purchase an NCC membership or make a contribution to our organization through an online donation/membership page. When visitors to the NCC website chooses to make an online purchase, they are linked to a website served by Aramark. Similarly, when visitors choose to purchase a membership online or make a donation to the NCC, they are linked to a website served by Blackbaud. Visitors to the Aramark or Blackbaud websites are subject to those sites' privacy policies and should refer to those policies for further information.
 
 #### Security
 
