@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124235449id_/http%3A//goamp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501150424id_/http%3A//goamp.com/privacy.aspx) for the most accurate reproduction.*
 
 # AMP: Certification and Licensure Testing, Association Management
 
@@ -14,7 +14,7 @@ This Applied Measurement Professional's, Inc. (AMP) privacy statement discloses 
 
 
 
-If you have any comment or question on our privacy policy, you should first contact the [AMP Chief Information Officer.](https://web.archive.org/web/20121124235449id_/http%3A//goamp.com/emailSubmission.aspx?ToEmail=cio)
+If you have any comment or question on our privacy policy, you should first contact the [AMP Chief Information Officer.](https://web.archive.org/web/20130501150424id_/http%3A//goamp.com/emailSubmission.aspx?ToEmail=cio)
 
 ## Information Collection and Use
 
