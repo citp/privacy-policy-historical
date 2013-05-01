@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galawallpapers.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511234348id_/http%3A//www.galawallpapers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galawallpapers.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501093330id_/http%3A//www.galawallpapers.net/privacy.php) for the most accurate reproduction.*
 
 # Wallpapers
 
@@ -37,3 +37,6 @@ If we make changes to this policy, we will let members know by posting mention o
 #### Contact Wallpapers
 
 If you have questions not answered in this policy in regards to the daily running of this site, please feel free to email at _info at galawallpapers.net_
+
+  
+
