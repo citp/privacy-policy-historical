@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecityguide.in privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915104713id_/http%3A//thecityguide.in/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecityguide.in privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501052641id_/http%3A//www.thecityguide.in/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# City Guide
+# Privacy Policy & Website Legal Information | TheCityGuide.in.
 
 ITLaddu Technology Private Limited has created this privacy statement in order to keep the information of our users, viewers, audience & customers to privacy. The following discloses our information gathering and dissemination practices for our website [thecityguide.in](http://thecityguide.in/). 
 
