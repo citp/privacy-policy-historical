@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192934id_/http%3A//www.property-abroad.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501102524id_/http%3A//www.property-abroad.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Property-Abroad.com Ltd
 
