@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023005853id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084529id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Gambling Commission - Privacy statement
 
+  
+  |   
+---|---  
+  
 This website is operated by the Gambling Commission (the Commission) whose principal place of business is at Victoria Square House, Victoria Square, Birmingham B2 4BP.  
 
 
