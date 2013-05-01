@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125010402id_/http%3A//amplify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082830id_/http%3A//amplify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amplify
 
@@ -20,7 +20,7 @@ Table of Contents:
 
 Amplify Education, Inc. (“Amplify” or “we”) wants you to be familiar with how we collect, use and disclose your information. This Privacy Policy describes our practices in connection with information that we may collect through your use of the site [www.amplify.com](http://www.amplify.com/) (the “Site”). By providing personal information to us and using the Site, you agree to the terms and conditions of this Privacy Policy.
 
-As set forth in our [Terms of Use](https://web.archive.org/web/20121125010402id_/http%3A//amplify.com/terms-of-use), the Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Use](https://web.archive.org/web/20130501082830id_/http%3A//amplify.com/terms-of-use), the Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy applies to all users, including both those who use the Site without being registered and those who have registered with the Site. This Privacy Policy applies to any collection and use by Amplify of your personal information (i.e., information that identifies a specific person, such as full name or email address) provided in connection with your use of the Site. It also describes generally Amplify’s practices for handling non-personal information (e.g., interests, demographics and services usage) in connection with the Site.
 
