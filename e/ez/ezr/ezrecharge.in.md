@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190213id_/http%3A//www.ezrecharge.in/ezrecharge/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501200717id_/http%3A//ezrecharge.in/ezrecharge/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for online prepaid mobile recharge services-ezRecharge.in
 
@@ -45,4 +45,4 @@ If there is a change in the privacy policy, it will prominently be posted as a l
 
 If at any point the Site decides to use personally identifiable information in a manner different from that stated at the time it was collected, it would be notified to the users by way of an email. 
 
-Users will have a choice to allow/disallow the Site the use of their information in this different manner, and the Site will then use information in accordance with the privacy policy under which the information was collected. The Site encourages the User to periodically review this page for the latest information on Site's privacy practices.  For any queries/complaints, please contact us at 044-4952 3965 or support@ezrecharge.in 
+Users will have a choice to allow/disallow the Site the use of their information in this different manner, and the Site will then use information in accordance with the privacy policy under which the information was collected. The Site encourages the User to periodically review this page for the latest information on Site's privacy practices.  For any queries/complaints, please contact us at 9884-93-2273 (9884-WE-CARE) or support@ezrecharge.in 
