@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120013202id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501123737id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Miami Dolphins | Privacy Policy
 
