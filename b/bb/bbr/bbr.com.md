@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180704id_/http%3A//www.bbr.com/about/privacy%3Flinkid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501233654id_/http%3A//www.bbr.com/about/privacy%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
 # Berry Bros & Rudd - Privacy and Security
 
@@ -29,7 +29,7 @@ Berry Bros. & Rudd respects your privacy and seeks to protect your personal data
 * * *
 
 **What we use your personal information for**  
-Berry Bros. & Rudd collects and uses your information to administer, support, improve and obtain feedback on our services and to detect and prevent faults, breaches of our network security, the law or our contract terms. If you are registered to use a service we may contact you to obtain feedback on that service and any improvements we could make to it.
+Berry Bros. & Rudd collects and uses your information to administer, support, improve and obtain feedback on our services and to detect and prevent faults, breaches of our network security, the law or our contract terms. If you are registered to use a service we may use the information you provide to us to carry out the service (please see the terms and conditions relating to that particular service) and we may contact you to obtain feedback on that service and any improvements we could make to it.
 
 * * *
 
