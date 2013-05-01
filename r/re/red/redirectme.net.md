@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redirectme.net privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030201314id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redirectme.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501213622id_/http%3A//www.noip.com/legal/privacy.php) for the most accurate reproduction.*
 
 # No-IP™ - Privacy Policy
 
