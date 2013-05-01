@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebieslove.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104005643id_/http%3A//www.freebieslove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebieslove.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501032134id_/http%3A//www.freebieslove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
