@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516001628id_/http%3A//www.jr.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501144522id_/http%3A//www.jr.com/information/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy and Security | JR.com
 
@@ -7,6 +7,7 @@
   * • Clear Gifs (Web Beacons)
   * • Advertising
   * • Loyalty Programs
+  * • Information Sharing and Disclosure
   * • Legal Disclaimers
   * • Secure Shopping
 
@@ -14,7 +15,7 @@
 
 ## Privacy Policy
 
-We at J&R take your privacy as seriously as you do. To help ensure your privacy, we use the most up-to-date encryption technology to keep your personal information as secure as possible. This includes your billing, credit card, and account information; none of this can be read as it travels to our system. We do **not** sell, trade, or otherwise share your personal information, such as name, email address, physical address, phone numbers, buying history, etc. without your permission, or except as otherwise provided below. You do not have to worry about receiving unsolicited email from other companies or individuals as a result of shopping, entering a contest or an auction at JR.com. If you would like to receive email regarding J&R Specials, leave the appropriate box checked during the Order process, Registration process, or click the link for the J&R Newsletter on our Home Page and fill in the form. Every email newsletter comes with a link to unsubscribe. We do, on occasion, send out an email announcement to inform our customers when we add a major new feature to our website; once again, those email addresses are not shared with anyone else. If you wish us to retain personal information (to make repeat shopping easier), you need to complete our registration process, which includes setting up a unique email address and password. To modify your personal information, you will need to click on " **My Account** ", and enter your email address and password. J&R will provide vendors with your contact information when requested to do so in connection with a product recall. J&R may sometimes provide certain vendors with your contact information or with other information when contractually required to do so. If you have any questions regarding our privacy practices, please contact [custserv@jr.com](mailto:custserv@jr.com). 
+We at J&R take your privacy as seriously as you do. To help ensure your privacy, we use the most up-to-date encryption technology to keep your personal information as secure as possible. This includes your billing, credit card, and account information; none of this can be read as it travels to our system. We do **not** sell, trade, or otherwise share your personal information, such as name, email address, physical address, phone numbers, buying history, etc. without your permission, or except as otherwise provided in this Policy. You do not have to worry about receiving unsolicited email from other companies or individuals as a result of shopping, entering a contest or an auction at JR.com. If you would like to receive email regarding J&R Specials, leave the appropriate box checked during the Registration process, or fill in the sign-up form. Every email newsletter comes with a link to unsubscribe. We do, on occasion, send out an email announcement to inform our customers when we add a major new feature to our website; once again, those email addresses are not shared with anyone else. If you wish us to retain personal information (to make repeat shopping easier), you need to complete our registration process, which includes setting up a unique email address and password. To modify your personal information, you will need to click on " **My Account** ", and enter your email address and password. If you have any questions regarding our privacy practices, please contact [custserv@jr.com](mailto:custserv@jr.com). 
 
 ## Cookies
 
@@ -40,6 +41,27 @@ The ads appearing on this Web site are delivered to users by a reputable, third-
 ## Loyalty Programs
 
 When you come to the J&R website directly from a third-party website that operates a loyalty program, the third-party, loyalty program website will be able to access your individual transaction information. In order to track and properly credit your purchases, the loyalty program site will give you a unique identifier, such as a clear gif or cookie. Any purchases made at the J&R website while such a clear gif is active will be reported to the loyalty program site. J&R will report only non-personal information to these loyalty program sites, such as the date of the transaction, the product(s) purchased, and the amount spent. We will not report any personally identifiable information. However based on information which may have previously been collected from you by the loyalty program site, they may be able to personally identify you by combining the information they have gathered with the information sent by J&R. We suggest you review the privacy and data collection policies of these loyalty program sites. 
+
+## Information Sharing and Disclosure
+
+  
+
+
+### Agents
+
+We use outside shipping companies to fulfill orders, deliver packages and to schedule and perform product installations and provide such companies with the necessary order information in order for them to provide such shipping and delivery services. We use credit card processing companies and companies that provide fraud prevention services to verify and process credit card transactions, to provide fraud prevention services, and to bill you for goods and services, and provide such companies with order information, including credit card information, in order for such companies to provide such services. 
+
+### Vendors
+
+J&R will provide vendors with your contact information when requested to do so in connection with a product recall. J&R may sometimes provide certain vendors with your contact information or with other information when contractually required to do so. 
+
+### Service Providers and Other Third Parties
+
+We use a third-party service provider to distribute the J&R email newsletters. This third-party service provider is prohibited from using your personally identifiable information for any other purpose. 
+
+When you use a third-party checkout on our site, certain of your information, such as name and billing and shipping addresses, may be provided by J&R to the third-party checkout to expedite the checkout process. When you use Bill Me Later on our site, J&R passes the order information to Bill Me Later in order for Bill Me Later to provide the financing for the sale. 
+
+The product review content is provided by PowerReviews, and PowerReviews' policies, including its Terms of Use, Usage Agreement and Privacy Policy, govern the submission and use of all review content. 
 
 ## Legal Disclaimers
 
