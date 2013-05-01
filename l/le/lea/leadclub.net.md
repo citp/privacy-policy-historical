@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502125538id_/http%3A//www.leadclub.net/traffic/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502002550id_/http%3A//www.leadclub.net/policies/privacyPolicy.html) for the most accurate reproduction.*
 
-# Traffic Exchange and Lead GenerationLead Club Traffic Exchange
-
-                                                            
-
-                                                   Get Massive Free Traffic And Fresh Daily Leads With Lead Club Traffic Exchange! 
+# Privacy Policy
 
 **HOW WE PROTECT YOUR PRIVACY**
 
@@ -81,10 +77,3 @@ Fort Lauderdale Fl. 33301
 USA 
 
 This privacy policy was last updated on 02-09-2010.
-
- 
-
-[Home](http://www.leadclub.net/traffic/) [Members](http://www.leadclub.net/traffic/login.php) [FAQ](http://www.leadclub.net/traffic/faq.php) [ Privacy Policy](http://www.leadclub.net/traffic/privacy.php) [Terms](http://www.leadclub.net/traffic/terms.php) [ Free Classified Ads](http://www.thefreeadforum.com/) [ Link Exchange](http://www.articledude.com/infowizards) [ Co Registration Leads](http://www.interleads.net/) [Safelist](http://www.topsafelist.net/) [ Safelist Business](http://www.topsafelistbiz.com/)
-
-  
-© 2010 All Rights Reserved Lead Club Traffic Exchange
