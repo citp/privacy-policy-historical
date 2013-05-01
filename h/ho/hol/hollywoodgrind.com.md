@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodgrind.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126041120id_/http%3A//cdn.hollywoodgrind.com/images/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodgrind.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501181559id_/http%3A//cdn.hollywoodgrind.com/images/privacy-policy.html) for the most accurate reproduction.*
 
 # Hollywood Grind Privacy Policy
 
