@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cpa2biz.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184859id_/http%3A//www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpa2biz.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501081646id_/http%3A//www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### **AICPA, CPA2Biz, and Shared Services Limited Liability Company Joint Privacy Policy**
-
-Version 2.0 - Updated August 31, 2011 
+Version 2.2 - Updated October 19, 2012 
 
 **Overview**  
 The Joint Privacy Policy of the American Institute of Certified Public Accountants (AICPA) and CPA2Biz describes how these organizations and their affiliates (we) collect, use and share personally identifiable information that you provide via the use of our websites (the “Sites”) through membership, volunteerism, conference/webinar attendance, purchases and other interactions in which information is collected. The term “you” indicates website visitors, AICPA members, customers, candidates, affiliates, associates, volunteers, authors and any user of the Sites or anyone doing business with the organizations. “You” does not include the organizations’ employees, vendors, contractors or persons in similar business relationships where personally identifiable information may be provided and used. The AICPA and CPA2Biz are based in the United States and as such this policy was developed under the laws of the United States. The Joint Privacy Policy is subject to change periodically. The Joint Privacy Policy is posted on the Sites and is effective at the time denoted by its date. It is recommended that you regularly check the Sites for updates. 
@@ -29,7 +27,12 @@ Your preferences are collected through information you provide via your membersh
 **Collection of Passive Information  
 **Upon any use of the Sites, providing email address, enrolling in programs, or completing various forms, we collect non-identifying information through the use of cookies technology and/or Internet Protocol (IP) address tracking/URL tracking. This technology collects non-personal information such as, but not limited to, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, advertisement viewing, and performance to personalize the content to better serve you and all website users. We collect this information to perform effective capacity planning, administer the Sites, troubleshoot website performance, track aggregate users' movements, gather aggregate demographics and accurately document transactional information for business partners. 
 
-Our Sites may contain advertisements, whose related cookies may collect data, but also track your movement and behavior on other sites. These cookies, from third-party advertisers or from links accessed via our Sites, are not controlled by us. If you do not want to save site-related cookies on your hard drive, you can adjust your browser settings to delete and/or not accept cookies. However, if you adjust your browser in this manner, we cannot guarantee that all applications on the Sites will function properly for you. Additionally, the Network Advertising Initiative (NAI) provides an “Opt-out Tool” that was developed for their member companies to allow consumers to "opt out" of the behavioral advertising delivered by the NAI member companies (<http://www.networkadvertising.org/>).
+**The Use of Cookies for Advertising**  
+Our Sites may contain advertisements, whose related cookies may collect data, but also track your movement and behavior on other sites. These types of cookies, from third-party advertisers or from links accessed via our Sites, are not controlled by us. 
+
+We utilize our own cookies to track visitor behavior on aicpa.org to optimize your experience on our site and provide promotional advertising on other sites for AICPA and CPA2Biz products or services. To accomplish this, we partner with various third party vendors, including Google and DoubleClick, who use these cookies to display relevant ads based on your browsing sessions on aicpa.org.
+
+If you do not want to save site-related cookies on your hard drive, you can adjust your browser settings to delete and/or not accept cookies. However, if you adjust your browser in this manner, we cannot guarantee that all applications on the Sites will function properly for you and your experience may not be optimized. Additionally, the Network Advertising Initiative (NAI) provides an “Opt-out Tool” that was developed to allow consumers to "opt out" of the behavioral advertising delivered by the NAI member companies such as Google and DoubleClick ([http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/)).
 
 **Use of Information and Sharing and Disclosure to Third Parties  
 **We use personally identifiable information collected for membership, non-member/customer activity, and account maintenance. We may communicate with you regarding membership benefits, any program enrollment or special interest group, or account billing and maintenance and potential membership. We also communicate with members regarding peer review or ethics inquiries, violations and/or sanctions. We use and maintain various records regarding interactions such as, but not limited to, continuing professional education. In addition, we use and maintain your information as determined by the organizations’ business needs, or as required or permitted by law. Some member information or customer transaction email or communications are not available for opt out (see Choice and Opt Out, below). 
@@ -107,3 +110,21 @@ Use of these Sites, with respect to privacy, is covered by binding arbitration. 
 
 **Contact Information  
 **Users of these Sites are encouraged to report any improvements, suggestions, any suspected breach of privacy or website security to our Service Center Operations Team at the telephone number, email address, or mailing address indicated as follows: 
+
+American Institute of CPAs  
+220 Leigh Farm Road   
+Durham, NC 27707  
+P: 1.888.777.7077  
+F: 1.800.362.5066  
+Hours of Operation: (9 am – 6 pm, EST, M-F)  
+[service@aicpa.org](mailto:service@aicpa.org) | CPA2BIZ, Inc.  
+1211 Avenue of the Americas  
+New York, NY 10036  
+P: 1.888.777.7077  
+F: 1.800.362.5066  
+Hours of Operation: (9 am – 6 pm, EST, M-F)  
+[suggestions@cpa2biz.com](mailto:suggestions@cpa2biz.com)  
+---|---  
+  
+**Websites Covered  
+**This policy covers AICPA.org, CPA2Biz.com, and all other AICPA and CPA2Biz affiliated sites that link to this policy.
