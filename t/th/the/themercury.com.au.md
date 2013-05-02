@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themercury.com.au privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004145830id_/http%3A//www.themercury.com.au/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themercury.com.au privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502041825id_/http%3A//www.themercury.com.au/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Mercury - The Voice of Tasmania
 
@@ -55,7 +55,7 @@ Whenever you voluntarily disclose personal information over the Internet that th
 **_For further information_**  
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
 
-Craig Barling  
-Ph: (03) 6230 0652  
-Email: [barlingc@dbl.newsltd.com.au](mailto:barlingc@dbl.newsltd.com.au)  
+Corinne Eastley  
+Ph: (03) 6230 0656  
+Email: [corinne.eastley@news.com.au](mailto:corinne.eastley@news.com.au)  
 Post: GPO Box 334, Hobart, Tasmania, 7001
