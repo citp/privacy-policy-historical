@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waterskimag.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195208id_/http%3A//waterskimag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterskimag.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502181102id_/http%3A//waterskimag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WaterSki Magazine
+# Privacy Policy | WATERSKI
 
 **Bonnier Corporation Privacy Policy**
 
