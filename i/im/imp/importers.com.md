@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importers.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181744id_/http%3A//www.importers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importers.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502040645id_/http%3A//www.importers.com/privacy.php) for the most accurate reproduction.*
 
 # Importers, Exporters, Import Export, Wholesalers, B2B International Trade
 
