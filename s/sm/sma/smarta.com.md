@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarta.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016031333id_/http%3A//www.smarta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarta.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502075723id_/http%3A//www.smarta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smarta
 
