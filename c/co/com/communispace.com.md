@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231040604id_/http%3A//www.communispace.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502230658id_/http%3A//www.communispace.com/privacy.aspx) for the most accurate reproduction.*
 
 # Website Privacy Policy | Communispace
 
@@ -70,7 +70,7 @@ Communispace has certified its participation, and compliance with, the U.S. Depa
 
 Our Site and Communities may interface with third party sites and services, (for example, Facebook® or other third party applications or services). Our Site and Communities may also contain links to websites operated and maintained by third parties, over which we have no control. 
 
-Privacy policies for these third party site sand services may be different from our privacy policy. You access these third party sites and services at your own risk. You should always read the privacy policy of a linked site or integrated service before disclosing any personal information on such site and/or through such service. Communispace is not responsible for information you submit to third parties.
+Privacy policies for these third party site and services may be different from our privacy policy. You access these third party sites and services at your own risk. You should always read the privacy policy of a linked site or integrated service before disclosing any personal information on such site and/or through such service. Communispace is not responsible for information you submit to third parties.
 
 Currently, to help facilitate login to our communities, we may offer in some Communities, at the Sponsor's discretion, a sign-on service that allows you to sign into your Community using login credentials from your Facebook® account. This allows you to associate your existing Facebook® profile with your Communispace account. By linking these accounts, Communispace will have access to certain profile information contained within your Facebook® profile such as your full name, e-mail, locale, gender, profile picture, as well as other publicly available profile information. No Community content will ever be shared on Facebook® without your express permission. You can disassociate your Facebook® account from your Community account at any time by clicking "Unlink" on your Member Profile page. 
 
