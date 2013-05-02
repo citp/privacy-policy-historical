@@ -1,11 +1,47 @@
-> *The following text is extracted and transformed from the wateenmobile.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507185252id_/http%3A//www.wateenmobile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wateenmobile.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502141321id_/http%3A//www.wateenmobile.com/privacy.html) for the most accurate reproduction.*
 
-# Untitled
+# WATEENMOBILE.COM ...... Privacy Policy
 
-Wateenmobile believes that trust is an important component of the service we provide to our visitors and subscribers. To ensure that we earn and keep that trust, Wateenmobile makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about Wateenmobile's collection, use and disclosure of information you choose to share with us through the Site.
+Privacy Policy
 
-This Privacy Policy is considered to be a part of Wateenmobile's User Agreement. By using the Sites you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the Site, you are also consenting to Wateenmobile's privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.
+We at WateenMobile.com take your privacy very seriously. We believe that electronic privacy is crucial for the ongoing success of the Internet.
 
-We never rent, sell or share any information you give us. You privacy is important to us! When you visit the Wateenmobile site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of form submitted, and any feedback from our visitors. We then collate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. Information are provided to authorized institutions only in case of legal requirement by the law of land.
+We believe this information should only be used to help us provide you with better service. That's why we have put a policy in place to protect your personal information.
 
-Note: We do not claim these mobile prices / cost to be 100% correct, although we update prices regularly but prices change everyday in market so you might need to confirm from any shop. These Mobile Phones rates are valid for Karachi, Lahore, Islamabad, Peshawar, Faisalabad and Rawalpindi. Used Mobiles Phone will be added in future for sale purchase. So keep Visitting Wateenmobile.com
+Summary of Our policy
+
+In general, when you visit our websites and access information you remain anonymous. Before we ask you for information, we will explain how this information will be used. We will not provide any of your personal information to other companies or individuals without your permission.
+
+Some of our sections require registration to access, although typically all that's requested is an e-mail address and some basic information about you.
+
+There are occasions where we will ask for additional information. We do this to be able to better understand your needs, and provide you with services that we believe may be valuable to you. Some examples of information our websites collect are name, email, home page address, and personal info. We give you the opportunity to elect not to receive materials from us.
+
+Protecting your privacy
+
+We will take appropriate steps to protect your privacy. Whenever you provide sensitive information (for example, a credit card number to make a purchase), we will take reasonable steps to protect it, such as encrypting your card number. We will also take reasonable security measures to protect your personal information in storage. Credit card numbers are used only for payment processing and are not retained for marketing purposes.
+
+We will not provide any of your personal information to other companies or individuals without your permission.
+
+Use of Cookies
+
+The Website uses "cookies" to identify a user's session on the Website and thereby offers continuity as the member moves around the site. Cookies are only used on the Website to store non-critical data. Cookies are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes.
+
+Cookies allow websites to maintain user information across connections. They are small strings of characters used by many websites to deliver data to your computer, and in certain circumstances, return the information to the website. Cookies contain only information that members volunteer, and they do not have the capability of infiltrating a user's hard drive and stealing personal information. The simple function of a cookie is that of helping the user navigate a website with as little obstruction as possible.
+
+Wateenmbile may use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from the Website, but in reality they are coming from our partners who are serving ads on the Website. Certain websites may place a "cookie" on your machine in order to provide personalised services and/or maintain your identity across multiple pages within a single session.
+
+Public Forums
+
+This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+Security
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. These measures include basic and complex data protection methods, in particular offline storage of information and securitizing of our database servers.
+
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+
+You can send an email to  Wateenmobile@gmail.com
+
+Changes to this Privacy Policy
+
+Wateenmobile.com will amend this policy from time to time. It is your responsibility to check this page frequently if you wish to be made aware of such changes
