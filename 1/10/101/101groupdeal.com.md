@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101groupdeal.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224020810id_/http%3A//www.101groupdeal.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101groupdeal.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502034518id_/http%3A//101groupdeal.com/about/privacy.html) for the most accurate reproduction.*
 
 # 101groupdeal - Buy Deals Everyday|Singapore|Shopping|Voucher|Discount
 
