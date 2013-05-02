@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pogpog.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605095223id_/http%3A//pogpog.com/v/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogpog.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502172923id_/http%3A//pogpog.com/v/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pogpog
 
