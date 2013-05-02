@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the 2kgames.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224144711id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2kgames.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502020833id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
 
 # TAKE TWO INTERACTIVE'S PRIVACY POLICY
 
   
-[EN](https://web.archive.org/web/20121227055900id_/http://www.take2games.com/index.html) | [DE](https://web.archive.org/web/20121227055900id_/http://www.take2games.com/DE.html) | [ES](https://web.archive.org/web/20121227055900id_/http://www.take2games.com/ES.html) | [FR](https://web.archive.org/web/20121227055900id_/http://www.take2games.com/FR.html) | [IT](https://web.archive.org/web/20121227055900id_/http://www.take2games.com/IT.html) | [NL](https://web.archive.org/web/20121227055900id_/http://www.take2games.com/NL.html)
+[EN](https://web.archive.org/web/20130501233115id_/http://www.take2games.com/privacy/index.html) | [DE](https://web.archive.org/web/20130501233115id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20130501233115id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20130501233115id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20130501233115id_/http://www.take2games.com/privacy/IT.html) | [NL](https://web.archive.org/web/20130501233115id_/http://www.take2games.com/privacy/NL.html)
 
 Last Updated May 3, 2012
 
