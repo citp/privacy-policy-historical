@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xemarkets.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920062247id_/http%3A//www.xemarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xemarkets.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502100956id_/http%3A//www.xemarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,9 @@ Our Privacy Policy Statement will be reviewed from time to time to take into acc
 
 ## What personal information do we collect?
 
-If you decide to apply to open an account with us, there is certain information that we will require from you in order to do so. This information includes but is not limited to personal details such as name, address, date of birth, contact details, employment details, assets and liabilities and other necessary financial information. From time to time we may also request further information to help us improve our services to you. We obtain most of the information directly from our customers through application or other forms, and from maintaining records of information provided in the course of ongoing customer service. We may also collect information about your use of the website, such as pages visited, frequency and duration of visits and trading activities.
+If you decide to apply to open an account with us, there is certain information that we will require from you in order to do so. This information includes but is not limited to personal details such as name, address, date of birth, contact details, employment details, assets and liabilities and other necessary financial information. From time to time we may also request further information to help us improve our services to you.
+
+We obtain most of the information directly from our customers through application or other forms, and from maintaining records of information provided in the course of ongoing customer service. We may also collect information about your use of the website, such as pages visited, frequency and duration of visits and trading activities.
 
 ## How do we use this information?
 
@@ -31,9 +33,9 @@ Personal information may also be disclosed to credit reporting or reference agen
 
 ## Updating your information
 
-You may inform XEMarkets at any time that your personal details have changed or that you wish XEMarkets to delete personal information we hold about you by e-mailing us to info@xemarkets.com.
+You may inform **XEMarkets** at any time that your personal details have changed or that you wish **XEMarkets** to delete personal information we hold about you by e-mailing us to info@xemarkets.com.
 
-XEMarkets will change or delete your personal information in accordance with your instructions, except when we are required to hold your personal information for regulatory or legal purposes, or to provide you with the services you have requested, or to maintain adequate business records.
+**XEMarkets** will change or delete your personal information in accordance with your instructions, except when we are required to hold your personal information for regulatory or legal purposes, or to provide you with the services you have requested, or to maintain adequate business records.
 
 ## Use of Cookies
 
@@ -41,7 +43,7 @@ If you open an account with us, you will need to use our trading software, which
 
 ## What are your rights?
 
-You have (subject to certain exceptions) the right to obtain any personal information which XEMarkets holds about you and inform XEMarkets of any perceived inaccuracy. To make a request, please write to us, verifying your identity and specifying what information you require. We may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. We will acknowledge your request and respond to it within 40 days of receipt of your application and any applicable fee.
+You have (subject to certain exceptions) the right to obtain any personal information which **XEMarkets** holds about you and inform **XEMarkets** of any perceived inaccuracy. To make a request, please write to us, verifying your identity and specifying what information you require. We may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. We will acknowledge your request and respond to it within 40 days of receipt of your application and any applicable fee.
 
 ## Amendments to policy
 
