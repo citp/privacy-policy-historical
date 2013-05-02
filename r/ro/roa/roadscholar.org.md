@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920185938id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502192629id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
@@ -20,7 +20,7 @@ When you are conducting an account transaction or registering to receive the Roa
 
 You can verify our compliance at any time by clicking on the VeriSign logo located on our registration form.
 
-If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768 Monday through Friday, 9 a.m. to 6 p.m. Eastern Time.
+If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768 Monday through Friday, 8 a.m. to 6 p.m. Eastern Time.
 
 **How we use "cookies" information:**
 
@@ -32,7 +32,7 @@ We have carefully selected a company, Coremetrics, which will assist us in bette
 
 For your convenience, our website may contain links to other sites. roadscholar.org is not responsible for the privacy practices or the content of such websites.
 
-**How to change your parrticipant information:**
+**How to change your participant information:**
 
 If you have attended a program or signed up to receive our catalogs, you have an account with us that you can update in the [My Account](http://www.roadscholar.org/account/myaccount.asp) section of our website, using your email address and password to log in. 
 
@@ -45,7 +45,7 @@ Boston, MA 02111-1746
 Call us toll-free at  
 1-800-454-5768,   
 Monday thru Friday   
-9 AM - 6PM, ET. 
+8 AM - 6PM, ET. 
 
 You can also fax us toll-free at   
 1-877-426-2166
@@ -62,12 +62,18 @@ You can also fax us toll-free at
 
 Add price, activity level and more. 
 
-[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Diane_s_Blog)
+  
+
+
+[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Tom_s_Blog)
+
+[](https://roadscholar.webex.com/mw0307l/mywebex/default.do?nomenu=true&siteurl=roadscholar&service=6&rnd=0.830520127375991&main_url=https%3A%2F%2Froadscholar.webex.com%2Fec0606l%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Dlandingfrommail%26confViewID%3D1003744097%26%26email%3Dwebex%2540roadscholar.org%26%26encryptTicketRegister%3D83f4d07842e2600776745f540a07935c%26siteurl%3Droadscholar)
 
 [ ](http://www.roadscholar.org/programs/enewslanding.asp?ecode=AWP&layout=PL&cm_sp=Plug-_-Boomer-_-TopRatedB611)
 
 [ ](http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers)
 
-[ ](http://www.roadscholar.org/lps/masterclass.asp?cm_sp=Plug-_-Boomer-_-Book0812)
+Tell a friend about Road Scholar and this month you could win a [**$800 gift certificate!**](http://www.roadscholar.org/forms/referafriend_form.asp?src=DEE?cm_sp=Plug-_-Boomer-_-RAF1211B)   
+**Congratulations to our latest winner, Carl E. & Sammie L.**
 
-[ ](http://www.roadscholar.org/support/annualfund_main.asp?cm_sp=Plug-_-Boomer-_-AF0812)
+[ ](http://www.roadscholar.org//about/gift_certificate.asp)
