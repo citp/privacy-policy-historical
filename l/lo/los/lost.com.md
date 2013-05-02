@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lost.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101195718id_/http%3A//www.lost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lost.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502234942id_/http%3A//lost.com/privacy.html) for the most accurate reproduction.*
 
 # LOST.COM privacy policy
 
@@ -20,4 +20,4 @@ Our Web site offers message boards. Please be advised that information posted in
 
 * * *
 
-[Return to LOST.COM](https://web.archive.org/web/20121101195718id_/http%3A//www.lost.com/index.shtml)
+[Return to LOST.COM](https://web.archive.org/web/20130502234942id_/http%3A//lost.com/index.shtml)
