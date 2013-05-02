@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010063655id_/http%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502142724id_/http%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CyberChimps.com
+# Privacy Policy | CyberChimps
 
 **What information do we collect?**
 
