@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201023458id_/http%3A//www.condecosoftware.com/uk/about_us/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502175026id_/http%3A//www.condecosoftware.com/uk/about_us/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | Condeco
 
