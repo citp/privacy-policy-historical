@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextoy.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215032222id_/http%3A//www.sextoy.com/infopage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoy.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502152917id_/http%3A//www.sextoy.com/infopage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Sex Toys: Adult Toy Store with discreet same day shipping
+# Largest selection of adult sex toys since 1995. Private and discreet
 
 ### WE SHARE YOUR CONCERNS ABOUT SAFEGUARDING PERSONAL INFORMATION
 
