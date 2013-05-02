@@ -1,9 +1,32 @@
-> *The following text is extracted and transformed from the curvesinformation.com privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718023848id_/http%3A//www.curvesinformation.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvesinformation.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503004422id_/http%3A//www.curves.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Curves Information
+# Curves - Privacy Policy
 
-The privacy policies described below are part of this Agreement. We respect the privacy of our online visitors. We collect information on or through this site that can personally identify you only when it is voluntarily offered by you. For example, we collect personally identifiable information to respond to visitor questions and comments about us and our products and services, and to mail e-newsletters. In addition, we may also collect demographic and other data for market research, advertising and promotional purposes.
+[](https://web.archive.org/) [International Websites](https://web.archive.org/international-websites/)
 
-We do not share any of the personal information you provide to us with any third party other than service providers of ours who assist us in providing the information and/or services we are providing to you. To the extent that we do share your personal information with a service provider, we would only do so if that party has agreed to comply with our privacy standards as described in this privacy policy.
+  * [Home](https://web.archive.org/ "Home")
+  * [Locations](https://web.archive.org/locations/ "Locations")
+  * [The Program](https://web.archive.org/the-program/ "The Program")
+  * [Success Stories](https://web.archive.org/success-stories/ "Success Stories")
+  * [Community](https://web.archive.org/community/ "Community")
+  * [Wellness](https://web.archive.org/wellness/ "Corporate Wellness")
+  * [About Us](https://web.archive.org/about-curves/ "About Us")
+  * [Curves Complete](https://web.archive.org/curves-complete/ "Curves Complete")
 
-Any non-personal information, communications and material you send to this site or to us by E-mail are on a non-confidential basis. We are free to use and reproduce any such information freely, and for any purpose whatsoever. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products. Any information you send to this site must be truthful, not violate the rights of others and be legal.
+
+
+The privacy policies described below are a promise made to our online visitors by Curves International, Inc. We respect the privacy of our online visitors. We may collect information on or through this site that can personally identify you. For example, we collect personally identifiable information which you volunteer to us to respond to visitor questions and comments about us and our products and services, and to mail e-newsletters. In addition, we may also collect demographic and other data for market research, advertising and promotional purposes, we may collect your site usage data through our use of Internet cookie technology or similar devices, or we may receive information about you from third parties under a requirement that your information is then subject to the terms of this policy while in our possession or control. Collectively, we call all of this information your Personal Data.
+
+We may use your Personal Data to provide any services you have requested from us. We may also use your Personal Data to notify you about updates to our Web site, contact you with special offers of interest, or to and customize your Web site experience. If you do not want to receive marketing communications from us, please email us at webmarketing@curves.com, call us at (800) 848-1096, or write to us at: Customer Service, Curves International, 100 Ritchie Road, Waco, TX 76712.
+
+We will use reasonable means to protect the confidentiality of your Personal Data while in our possession or control. We will not knowingly share any of your Personal Data with any third party other than our service providers who assist us in providing the information and/or services we are providing to you. To the extent that we do share your personal information with a service provider, we would only do so if that party has agreed to comply with our privacy standards as described in this privacy policy.
+
+Any non-personal information, communications and material you send to this site or to us by E-mail, or which we obtain from third parties without promises of confidentiality, may be kept, used and disclosed by us on a non-confidential basis. We are free to use and reproduce any such information freely, and for any purpose whatsoever. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products. You agree that any information you send to this site must be truthful, not violate the rights of others and be legal for us to possess and use.
+
+Our site is not targeted to persons under the age of 18, and we will not knowingly collect any Personal Data from children under the age of 13.
+
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like [more information](http://www.networkadvertising.org/index.asp) about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+We may from time to time need to disclose certain information, which may include your Personal Data, to comply with a legal requirement, such as a law, regulation, court order, subpoena, search warrant, in the course of a legal proceeding or in response to a law enforcement agency request. Also, if there is a change of control in one of our businesses (whether by merger, sale, or otherwise), or a sale or transfer of its assets, customer information, which may include your Personal Data, could be disclosed to a potential purchaser under an agreement to maintain confidentiality, or could be sold or transferred as part of that transaction.
+
+We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this site. Unless we specifically provide otherwise, this policy only applies to this site and our online activities, and does not apply to any of our offline activities.
