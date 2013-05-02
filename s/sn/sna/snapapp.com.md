@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy) for the most accurate reproduction.*
 
 # SnapApp Account Holder Privacy Policy | SnapApp
 
@@ -6,14 +6,14 @@ This Privacy Policy applies to SnapApp account holders who register and create a
 
 By being a SnapApp account holder and using the SnapApp service, you agree to the terms of this Privacy Policy. 
 
-  * [I. Collected Information](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#collected_information)
-  * [II. Use Of Collected Information](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#use_of_collected_information)
-  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#information_sharing_and_disclosure)
-  * [IV. Preferences](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#preferences_optout)
-  * [V. Security](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#security)
-  * [VI. Accessing and Updating Personal Information](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#accessing_and_updating_personal_information)
-  * [VII. Data Integrity](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#data_integrity)
-  * [VII. Children](https://web.archive.org/web/20121112033026id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#children)
+  * [I. Collected Information](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#collected_information)
+  * [II. Use Of Collected Information](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#use_of_collected_information)
+  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#information_sharing_and_disclosure)
+  * [IV. Preferences](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#preferences_optout)
+  * [V. Security](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#security)
+  * [VI. Accessing and Updating Personal Information](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#accessing_and_updating_personal_information)
+  * [VII. Data Integrity](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#data_integrity)
+  * [VII. Children](https://web.archive.org/web/20130502181953id_/http%3A//www.snapapp.com/help/account-holder-privacy-policy#children)
 
 
 
