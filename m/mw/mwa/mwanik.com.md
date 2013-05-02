@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwanik.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920010124id_/http%3A//mwanik.com/members/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwanik.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502175017id_/http%3A//mwanik.com/members/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing With Anik 2.0
 
