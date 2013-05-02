@@ -1,300 +1,239 @@
-<!--The following is the downloaded HTML source of the farmersonly.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227133658id_/http%3A//www.farmersonly.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the farmersonly.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502121252id_/http%3A//www.farmersonly.com/pages/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html itemscope="" itemtype="http://schema.org/WebPage" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html itemscope="" itemtype="http://schema.org/WebPage" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+    <title>FarmersOnly.com - Privacy Policy</title>
+    <meta name="keywords" content="internet dating, online dating, farmers dating, matchmaking, farmersonly">
+      <meta name="description" content="Farmersonly takes your privacy seriously! America's heartland signs up here for free because we are serious about privacy and security.">
 
-		<title>FarmersOnly.com - Privacy Policy</title>
-		<meta name="keywords" content="internet dating, online dating, farmers dating, matchmaking, farmersonly">
-		<meta name="description" content="Farmersonly takes your privacy seriously! America's heartland signs up here for free because we are serious about privacy and security.">
-		<meta name="language" content="en">
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="language" content="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link href="http://static.farmersonly.com/assets/home/ClarFonts-e0eaf074bac248f095f937f2dad86ce0.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.farmersonly.com/assets/home/new_theme.style.061712-92bd1a027ab6cef47f1964fd123028ce.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.farmersonly.com/assets/home/new_structure-051112-cf83c807dff605648b131be90c036541.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="http://static.farmersonly.com/assets/home/jquery.1.7.1.min-65245b2f8d7c225a5a031ad58bba9194.js" type="text/javascript"></script>
+<script src="http://static.farmersonly.com/assets/home/jquery.pngFix.pack-becd2a4a9d1af1df9d0f8e200105d1f4.js" type="text/javascript"></script>
+<script src="http://static.farmersonly.com/assets/home/jquery.cookie-09b715beddd22912065057cb75f044be.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $(document).pngFix();
+        $('.sb_profile').click(function(){
+          //alert('click');
+          var txt = $(this).text();
 
-		
-		
-		
-		<link href="http://cdn5.farmersonly.com/resources/ClarFonts.css" rel="stylesheet" type="text/css">
-		<link href="http://cdn5.farmersonly.com/resources/new_theme.style.061712.css?d=2" rel="stylesheet" type="text/css">
-		<link href="http://cdn5.farmersonly.com/resources/new_structure-051112.css?d=1" rel="stylesheet" type="text/css">
+          $('#profile_links').slideToggle();
 
+          if(txt == 'My Profile +'){
+            $(this).text('My Profile -');
+            $.cookie("profile_links", "visible", { expires: 7, path: '/' });
+          } else {
+            $(this).text('My Profile +');
+            $.cookie("profile_links", "hidden", { expires: 7, path: '/' });
+          }
 
+          return false;
 
-					<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn5.farmersonly.com/resources/jquery.1.7.1.min.js"></script>
-			<script type="text/javascript" src="http://cdn5.farmersonly.com/resources/jquery.pngFix.pack.js"></script>
-			<script type="text/javascript" src="http://cdn5.farmersonly.com/resources/jquery.cookie.js"></script>
-			
-			<script type="text/javascript">
-			    $(document).ready(function(){
-			        $(document).pngFix();
+        });
 
-			        $('.sb_profile').click(function(){
-			        	//alert('click');
-			        	var txt = $(this).text();
+        $('.sb_account').click(function(){
+          //alert('click');
+          var txt = $(this).text();
 
-			        	$('#profile_links').slideToggle();
+          $('#account_links').slideToggle();
 
-			        	if(txt == 'My Profile +'){
-			        		$(this).text('My Profile -');
-			        		$.cookie("profile_links", "visible", { expires: 7, path: '/' });
-			        	} else {
-			        		$(this).text('My Profile +');
-			        		$.cookie("profile_links", "hidden", { expires: 7, path: '/' });
-			        	}
+          var expDate = new Date();
+          expDate.setTime(expDate.getTime() + (5 * 60 * 1000));
 
-			        	return false;
+          if(txt == 'Account Settings +'){
+            $(this).text('Account Settings -');
+            $.cookie("account_links", "visible", { expires: expDate, path: '/' });
+          } else {
+            $(this).text('Account Settings +');
+            $.cookie("account_links", "hidden", { expires: expDate, path: '/' });
+          }
 
-			        });
+          return false;
 
-			        $('.sb_account').click(function(){
-			        	//alert('click');
-			        	var txt = $(this).text();
+        });
+      });
 
-			        	$('#account_links').slideToggle();
+      function delete_alert2() {
+        var message = "This will permanently remove your profile from the site and log you out. You WILL NO LONGER be able to use this account. Are you sure you want to do this?";
+        if (window.confirm(message)) {
+          return true;
+        } else {
+          return false;
+        }
+      }
+    </script>
+    <link rel="apple-touch-icon" href="http://static.farmersonly.com/assets/touch-icons/57x57.png">
+  </head>
 
-			        	var expDate = new Date();
-						expDate.setTime(expDate.getTime() + (5 * 60 * 1000));
-
-			        	if(txt == 'Account Settings +'){
-			        		$(this).text('Account Settings -');
-			        		$.cookie("account_links", "visible", { expires: expDate, path: '/' });
-			        	} else {
-			        		$(this).text('Account Settings +');
-			        		$.cookie("account_links", "hidden", { expires: expDate, path: '/' });
-			        	}
-
-			        	return false;
-
-			        });
-			    });
-
-
-
-				function delete_alert2() {
-					var message = "This will permanently remove your profile from the site and log you out. You WILL NO LONGER be able to use this account. Are you sure you want to do this?";
-					if (window.confirm(message)) {
-						return true;
-					} else {
-						return false;
-					}
-				}
-			</script>
-
-		
-
-
-
-		<link rel="apple-touch-icon" href="http://cdn5.farmersonly.com/touch-icons/57x57.png">
-	</head>
-
-	<body>
-	<noscript>
-    	<div class="javascript_warning">
-    		<p><strong>Warning:</strong>
+  <body>
+    <noscript>
+      <div class="javascript_warning">
+        <p><strong>Warning:</strong>
         	It appears your browser does not have javascript enabled. FarmersOnly.com requires javascript for a complete user experience. <a href="http://www.activatejavascript.org/" target="_blank">Click Here</a> for instructions on enabling javascript in your browser or call us at <b>(888) 755-9655</b> for help.</p>
-        </div>
+      </div>
     </noscript>
 
-	    <div class="header_nm">
-	<div class="header_top">
-		<div class="header_logo">
-			<a href="http://www.farmersonly.com/index.php?PHPSESSID=f9a04d0a711d2445ad9dd17fe0c0bb72">
-				<img src="http://cdn5.farmersonly.com/images/12_theme/header_logo.png" border="0">
-			</a>
-		</div>
-		<div class="rt_head_menu">
-									<form method="post" action="http://www.farmersonly.com/prglogin.php" class="hd_loginform">
-					<div>
-						<span class="hd_loginform_box">Username:</span><span class="hd_loginform_box">Password:</span>
-					</div>
-						<input type="text" name="txtHandle" tabindex="1" value="" class="loginfield">
+    <div class="header_nm">
+      <div class="header_top">
+        <div class="header_logo">
+          <a href="/">
+            <img src="http://static.farmersonly.com/assets/home/12_theme/header_logo.png" border="0" alt="Logo">
+          </a>
+        </div>
+        <div class="rt_head_menu">
+          <form accept-charset="UTF-8" action="/login" class="new_login" id="new_login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="EgN/5iTNH/W+lbK1y0J7Al2ykHjEbgPK0OOTNHio1fM="></div>
+            <input id="login_js" name="login[js]" type="hidden">
+            <script>$(function() {$('#login_js').val("1")})</script>
+              <div>
+                <span class="hd_loginform_box">Username:</span><span class="hd_loginform_box">Password:</span>
+              </div>
+              <input class="loginfield" id="login_username" name="txtHandle" size="20" type="text">
+              <input class="loginfield" id="login_password" name="txtPassword" size="20" type="password">
+              <input class="cbutton green small" name="commit" type="submit" value="Login">
+              <div class="sm_head_link">
+                <a href="/resend">Forgot your username or password?</a><br>
+                <a href="/register">Not a member yet?</a>
+              </div>
+            </form>
+        </div>
+      </div>
+      <div class="header_menu" style="display:none;">
+        <div class="hm_welcome">Welcome </div>
+        <div class="hm_items">
+          <div class="divider"></div>
+          <a href="http://www.farmersonly.com/upgrade.php" style="padding-left:0px;">
+            <img src="http://static.farmersonly.com/assets/home/12_theme/mb_upgrade_link.png" style="margin-top:-1px;border:none;" alt="Upgrade Now!">
+          </a>
+          <div class="divider"></div>
+          <a href="http://www.farmersonly.com/search.php?" class="hm_search">Member Search</a>
+          <div class="divider"></div>
+          <a href="http://www.farmersonly.com/whoson.php?" class="hm_online">1 members online right now!</a>
+        </div>
+      </div>
+    </div>
+    <div class="bkgnd_shadow"></div>
 
-						<input name="txtPassword" type="password" tabindex="2" value="" class="loginfield">
-
-						<input name="submit" type="submit" class="cbutton small gray" value="Login">
-						<input type="hidden" name="form_id" value="login">
-					<div class="sm_head_link">
-						<a href="http://www.farmersonly.com/resend.php">Forgot your username or password?</a><br>
-						<a href="http://www.farmersonly.com/register/">Not a member yet?</a>
-					</div>
-				</form>
-							</div>
-	</div>
-	<div class="header_menu" style="display:none;">
-		<div class="hm_welcome">Welcome </div>
-		<div class="hm_items">
-			
-			
-			
-				<div class="divider"></div>
-				<a href="http://www.farmersonly.com/upgrade.php" style="padding-left:0px;">
-					<img src="http://www.farmersonly.com/images/12_theme/mb_upgrade_link.png" style="margin-top:-1px;border:none;" alt="Upgrade Now!">
-				</a>
-
-			
-			<div class="divider"></div>
-			<a href="http://www.farmersonly.com/search.php?PHPSESSID=f9a04d0a711d2445ad9dd17fe0c0bb72" class="hm_search">Member Search</a>
-			<div class="divider"></div>
-			<a href="http://www.farmersonly.com/whoson.php?PHPSESSID=f9a04d0a711d2445ad9dd17fe0c0bb72" class="hm_online">1562 members online right now!</a>
-
-		</div>
-	</div>
+    <div class="main_content_no_sb">
+  <div class="mc_body_no_sb">
+    <table width="100%" align="center" border="0" cellspacing="12" cellpadding="0">
+      <tbody><tr>
+        <td align="right">
+        </td>
+      </tr>
+      <tr>
+        <td class="pageheader">Privacy Policy</td>
+      </tr>
+      <tr>
+        <td>
+          <p>The last  update to our Privacy Policy was posted on July 9, 2011.   This Privacy Policy governs the privacy terms of our website, <a href="http://www.farmersonly.com">www.FarmersOnly.com</a> (Website), as well as  the Service we provide through it.</p>
+          <p><strong><u>Definitions</u></strong></p>
+          <p>"Non  Personal Information" is information that is not personally  identifiable to you and we automatically collect when you access our  Website with a web browser.</p>
+          <p>"Personally  Identifiable Information" is non-public information that is  personally identifiable to you and obtained in order for us to  provide you with products and services.  Personally Identifiable  Information may include information such as your name, address, phone  number, email address, credit card information, and other related  information that you provide to us or that we obtain about you.</p>
+          <p>The terms  "us" or "we" or "our" refers to <strong>Farmersonly  Media Inc.,</strong> the owner of this Website.</p>
+          <p>A  "Member" is someone who has registered with our Website to use  our Service.   A Member can create a "Profile", which is an  online representation of Personally Identifiable Information  regarding that Member.</p>
+          <p>"Service"  refers to the service we provide through our Website to our Members.</p>
+          <p>A  "Visitor" is someone who browses our Website, but hasn't become  a Member.</p>
+          <p>A  "User" is a collective identifier that refers to either a Visitor  or a Member.</p>
+          <p>All text,  information, graphics, audio, video, and data offered through our  Website, whether free to all or part of our paid Service, whether  originating from us or from our Users, are collectively known as our  "Content".  We may also refer to any Content uploaded by our  Members to their respective Profiles as "Member Content". Any  reference to our Website/Service, also includes our Content by  reference.</p>
+          <p><strong><u>Your  Privacy and What Our Privacy Policy Covers</u></strong></p>
+          <p><strong>Farmersonly  Media Inc.</strong> is committed to your privacy and  takes it very seriously.  Our Privacy Policy tells you what  Personally Identifiable Information <strong>Farmersonly  Media Inc.</strong> may collect from you, how we may  share your Personally Identifiable Information, and how you can limit  our sharing of your Personally Identifiable Information. <strong>Farmersonly  Media Inc.</strong> is committed to providing an  exemplary online experience as well as securing the privacy of all  our users. <strong>Farmersonly Media Inc.</strong> and any of our affiliates respect your privacy and recognize the need  for appropriate protection and management of your Personally  Identifiable Information as you share with us.</p>
+          <p><strong><u>Information  Collected</u></strong></p>
+          <p>Generally,  you control the amount of information you provide to <strong>Farmersonly  Media Inc.</strong> when you use our Website/Service.    Visitors provide mostly Non Personal Information whereas Members  will obviously provide more information, including Personally  Identifiable Information.  Please note that any information you  provide at registration or in your Profile may be used by <strong>Farmersonly  Media Inc.</strong> as described in this Privacy  Policy.</p>
+          <p>When  you become a Member, you will be required to provide Personally  Indentifiable Information to <strong>Farmersonly  Media Inc.</strong> in order for us to provide our Service.  If you have any hesitation  about providing information to us and/or having your information  displayed on our Website or otherwise used in any manner as permitted  in this Privacy Policy or our Terms of Service, you should not become  a Member or close your account if already a Member. </p>
+          <p align="left">We  collect your personal information in the following ways:</p>
+          <p><strong>At  Registration</strong></p>
+          <p>In  order to become a Member, you must register with our Website.   You  must provide some basic Personally Identifiable Information such as  name and email address in order to register.</p>
+          <p><strong>Profile  Information</strong></p>
+          <p>Once you  become a Member, you may provide additional Personally Identifiable  Information such as your picture, personal interests, and other  related information.  Providing any additional Personally  Identifiable Information is entirely your choice.  However, the more  such information your provide, the more benefit you will receive from  our Service.</p>
+          <p><strong>Customer  Service</strong></p>
+          <p>We  may collect Personally Identifiable Information when you contact us  for customer service issues or when we need to investigate complaints  against you or violations of our Terms of Service. </p>
+          <p><strong>Online  Forms and Information Requests</strong></p>
+          <p>Generally,  we collect site usage information from any User of our Website when  you fill out forms or request information from us. </p>
+          <p><strong>Cookies</strong></p>
+          <p>Like  most websites, our Website may send a "cookie" to your  computer.  A cookie is a small piece of data that is sent to your  browser from a web server and stored on your computer's hard drive.   A cookie cannot read data off your hard disk or read cookie files  created by other sites. Cookies do not damage your system.  We use  cookies to identify which areas of our site you have visited, so the  next time you visit the site, we can better personalize the content  that you see on our Website.  Most browser software can be set to  disable the use of Cookies.  However, if you disable Cookies, you may  not be able to use certain functionality on our Website correctly or  at all.  We never place Personally Identifiable Information in  Cookies.</p>
+          <p><strong>Web  Beacons</strong></p>
+          <p>We  may also use web beacons to collect Non Personal Information about  your use of our Website as well as those of our affiliates, and your  use of special promotions or newsletters. The information we collect  by Web Beacons allows us to statistically monitor the number of  people that open our emails and why they opened our emails.  Our Web  Beacons are not used to track your activity outside of our Website or  those of our affiliates.  We do not link Non Personal Information  from Web Beacons to Personally Identifiable Information without your  permission.</p>
+          <p><strong>Automatic  Information</strong></p>
+          <p>When  you visit our Website, we automatically receive certain types of Non  Personal Information.  This can include the URL of the website from  which you entered our Website.  We also receive the website to which  you're headed when you leave our Website.  We also receivethe IP  address of your computer/proxy server that you use to access the  Internet, your Internet service provider name, web browser type, and  computer operating system.  We use all of this this information to  analyze trends among our Users to help improve our Website/Service.</p>
+          <p><strong><u>How  We Use Your Information</u></strong></p>
+          <p><strong>Farmersonly  Media Inc.</strong> uses the Personally Identifiable  Information that you provide for provide the Service to you and as  provided below:</p>
+          <h4>Website  Communications</h4>
+          <p>When <strong>Farmersonly  Media Inc.</strong> communicates with you about our Website/Service, we may use the email  address you provided on your Profile and/or send messages through the  messaging features associated with our Service. We may also send you  emails/messages to inform you about changes or service messages  regarding our Website/Service.  Finally, we may also send you  emails/messages with promotional information about <strong>Farmersonly  Media Inc.</strong> or our affiliates, unless you have opted out of receiving such  information.  You can change contact preferences at any time through  your Profile settings.  While you can opt-out of promotional  messages, you cannot opt-out of receiving service messages.</p>
+          <h4>Member  Communications</h4>
+          <p>When  you communicate with other Members using the Service, you control the  Personally Identifiable Information that is transmitted to such  Members.   If part of your communication involves an email to another  Member, your email address will be exposed to that Member.</p>
+          <h4>Customizing  Our Content</h4>
+          <p><strong>Farmersonly  Media Inc.</strong> uses the information you provide to us to customize your experience  on our Website/Service.</p>
+          <h4>Sharing  Information with Affiliates and Other Third Parties</h4>
+          <p><strong>Farmersonly  Media Inc.</strong> does not sell, rent, or otherwise provide your Personally  Identifiable Information to third parties for marketing purposes.  We  may provide your Personally Identifiable Information to affiliates  that provide services to Farmersonly Media Inc. with regards to our  Website/Service (i.e. payment processors, website hosting companies,  etc.); such affiliates will only receive information necessary to  provide the respective services and will be bound by confidentiality  agreements limiting the use of such information.</p>
+          <h4>External  Search Engines</h4>
+          <p>Also,  any portions of your Profile that you make publically viewable may be  spidered by search engines.  Even if you later restrict access to  such information, these search engines may have cached copies of the  information you once allowed to be seen publically.  </p>
+          <h4>Contests,  Surveys, and Polls</h4>
+          <p><strong>Farmersonly  Media Inc.</strong> or its Members (through their Profile), may conduct online Contests,  Surveys, and Polls (collectively, "Participation Events") through  our Website/Service.    These Participation Events may ask you to  provide Personally Identifiable Information.  It is strictly <u>your</u> choice to participate in such Participation Events and whether you  choose to provide Personally Identifiable Information.</p>
+          <h4>Member  Search Functions</h4>
+          <p>Our  Service has search functions that allow Members to search for other  Members.   Such search functions will be strictly limited to  searching on publically viewable information from Member Profiles. </p>
+          <h4>Public  Postings</h4>
+          <p>Our  Service allows for Users to post public messagess offers message  board functions through its Service to allow Members to post public  messages.   If you post on public message boards, please use care  when exposing any Personally Identifiable Information as such  information is not protected by our Privacy Policy nor are we liable  should you choose to disclose Personally Identifiable Information  through Public Postings. </p>
+          <h4>Testimonials</h4>
+          <p>Should  you provide<strong> Farmersonly Media Inc.</strong> with a testimonial with regards to our Website/Service, you are  authorizing <strong>Farmersonly  Media Inc.'s</strong> use of such testimonial in public displays in any form to third  parties, whether Users of our Website/Service, including, but not  limited to postings on our Website/Service, emails to prospective or  current Members, and web ads placed on other websites.  If you  provide a testimonial, please use care when exposing any Personally  Identifiable Information as such information is not protected by our  Privacy Policy nor are we liable should you choose to disclose  Personally Identifiable Information through Testimonials.</p>
+          <h4>Legally  Required Releases of Information</h4>
+          <p><strong>Farmersonly  Media Inc.</strong> may have need to disclose your Personally Identifiable Information  information, if such disclosure is (a) required by subpoena, law, or  other legal process; (b) necessary to assist law enforcement  officials or government enforcement agencies; (c) necessary to  investigate violations of or otherwise enforce our Terms of Service;  (d) necessary to protect us from legal action or claims from third  parties including you and/or other Members; and/or (e) necessary to  protect the legal rights, personal/real property, or personal safety  of <strong>Farmersonly  Media Inc.</strong>,  our Users, employees, and affiliates. </p>
+          <h4>Disclosures  to Successors</h4>
+          <p>If <strong>Farmersonly  Media Inc. </strong>was  acquired or merged, in whole or in part, to another entity that would  become responsible for providing the Service to you, we would have  the right to transfer your Personally Identiable Information to such  entity and that entity would have the right to use your Personally  Identifiable Information according to the terms of this Privacy  Policy as well as to any changes to this Privacy Policy as instituted  by such entity.</p>
+          <p><strong><u>Opting  Out of Sharing Information</u></strong></p>
+          <p><strong>Farmersonly  Media Inc. </strong>provides  you with the ability to opt-out of future unaffiliated third-party  disclosures of your Personally Identifiable Information.  Such  opt-out will not affect disclosures otherwise permitted by law  including but not limited to: (a) disclosures to affiliates; (b)  disclosures to third-party service providers who provide certain  services for our business, such as credit card processing, computer  system services, shipping, data management, or promotional services;  (c) disclosures to third parties as necessary to fulfill your  requests; (d) disclosures to governmental agencies or law enforcement  departments or otherwise required to be made under applicable law;  (e) previously completed disclosures to third parties; or (f)  disclosures Participation Events in which you choose to participate.</p>
+          <p><strong><u>Changing  Your Information</u></strong></p>
+          <p>You may  change your Personally Identifiable Information at any time using  facilities found on our Website, including removing yourself from  mailing lists.  If at any time you need assistance, just send us an  email or customer service request form with your request.</p>
+          <p><strong><u>Protecting  Your Child's Privacy</u></strong></p>
+          <p>We follow  United States laws regarding the protection of children's privacy.   Our Service is not designed for use by anyone under the age of 18  (Child).  We do not knowingly collect Personally Identifiable  Information from a Child; however, you acknowledge that we cannot  accurately verify the age of our Users nor do we have any liability  to do so.  If you are parent or legal guardian who suspects their  Child is attempting to use our Website/Service, please contact us  immediately if you wish to remove your Child's information.  We may  ask you to provide identification to confirm that you are indeed the  child's parent or legal guardian.  If you are a Child, please do  not attempt to use our Website/Service unless you have your parent's  permission.</p>
+          <p><strong><u>Links  to Other Websites</u></strong></p>
+          <p>Our  Website/Service will likely contain links to other websites. <strong>Farmersonly Media Inc. </strong>has  no control of such websites and you agree that these websites are not  under our control and are not subject to our Privacy Policy.  These  websites will likely have their own privacy policies.  We have no  responsibility for these websites and provide links to these websites  solely for your convenience.  You acknowledge that your use and  access of these websites is solely at your own risk.  It is your  responsibility to check the privacy policies and other legal  documents of these websites to see how they treat your personal  information.</p>
+          <p><strong><u>Our  Email Policy</u></strong></p>
+          <p><strong>Farmersonly  Media Inc.</strong> and our affiliates fully comply with United States laws regarding  SPAM email.  You can always opt out of receipt of further email  correspondence from <strong>Farmersonly  Media Inc.</strong> and our affiliates.  We agree that we will not sell, rent, or trade  your email address to any unaffiliated third-party without your  permission.  It is very important that you understand that email is  not considered a secure form of communication.  As such, please take  care in what you disclose in any email that you send to us.</p>
+          <p><strong><u>Our  Security Policy</u></strong></p>
+          <p><strong>Farmersonly  Media Inc.</strong> has constructed our  Website/Service using industry standard encryption and authentication  tools to protect your Personally Identifiable Information.   When we  collect your Personally Identifiable Information through our  Website/Service, we encrypt this information and attempt to prevent  unauthorized access to it by using industry standard technologies,  such as encryption software, routers and firewalls.  Unfortunately,  due to the nature of the Internet, we cannot completely guarantee  that your Personally Identifiable Information is completely  protected.  We strongly urge you to protect any password you may have  for our Service and not share it with anyone.  You should always log  out of our Service when not in use, especially if you are sharing a  computer with someone else or are using a public computer.</p>
+          <p><strong><u>Payment  Sources</u></strong></p>
+          <p>You  will have to provide a credit card or other payment source to use our  Service.  We use third-party billing services and HAVE NO CONTROL  over these services.  While <strong>Farmersonly  Media Inc.</strong> will use commercially reasonable efforts to protect against  unauthorized use of your payment source information, you understand  and agree that we are in no way responsible for any misuse of your  payment source information.</p>
+          <p><strong><u>Privacy  Policy Updates</u></strong></p>
+          <p><strong>Farmersonly  Media Inc.</strong> reserves the right to modify this  Privacy Policy at any time, so please review it frequently. If we  make material changes to this policy, we will notify you here, by  email, or by means of a notice on our home page. We will also change  the "Last Updated" date at the beginning of this Privacy  Policy.  Any changes we make to our Privacy Policy are effective as  of this Last Updated date and replace any prior Privacy Policies.</p>
+          <p><strong><u>Questions  About Our Privacy Practices or This Privacy Policy</u></strong></p>
+          <p>If you have  any questions about our Privacy Practices or this Policy, please  email us at <a href="mailto:privacy@FarmersOnly.com">privacy@FarmersOnly.com</a>.</p>
+        </td>
+      </tr>
+    </tbody></table>
+  </div>
 </div>
 
-		
-			<div class="bkgnd_shadow"></div>
+    <div class="content_footer">
+      <div class="inner_foot">
+        <font color="#000000">
+          <a href="/pages/barnyard_buzz">Success Stories</a> |
+          <a href="/pages/media_and_press">Media &amp; Press</a> |
+          <a href="/advertise">Advertise with Us</a> |
+          <a href="/support">Link to Us</a>
+        </font>
+      </div>
+    </div>
 
-			<div class="main_content_no_sb">
+    <div class="outer_foot">
+      <p>© Copyright 2012 FarmersOnly.com. All rights reserved</p>
+      <a href="/pages/terms_and_conditions">Terms &amp; Conditions</a> |
+      <a href="/pages/privacy_policy">Privacy</a> |
+      <a href="/support">Support</a>
+    </div>
+    <br><br>
 
-			<div class="mc_body_no_sb">
-
-		
-
-   
-      
-
-  <table width="100%" align="center" border="0" cellspacing="12" cellpadding="0">
-    <tbody><tr> 
-      <td align="right">
-      </td>
-    </tr>
-    <tr> 
-      
-    <td class="pageheader">Privacy Policy</td>
-    </tr>
-    <tr> 
-      
-    <td>
-    	
-    	<p>The last  update to our Privacy Policy was posted on July 9, 2011.   This Privacy Policy governs the privacy terms of our website, <a href="http://www.farmersonly.com">www.FarmersOnly.com</a> (Website), as well as  the Service we provide through it.</p>
-<p><strong><u>Definitions</u></strong></p>
-<p>"Non  Personal Information" is information that is not personally  identifiable to you and we automatically collect when you access our  Website with a web browser.</p>
-<p>"Personally  Identifiable Information" is non-public information that is  personally identifiable to you and obtained in order for us to  provide you with products and services.  Personally Identifiable  Information may include information such as your name, address, phone  number, email address, credit card information, and other related  information that you provide to us or that we obtain about you.</p>
-<p>The terms  "us" or "we" or "our" refers to <strong>Farmersonly  Media Inc.,</strong> the owner of this Website.</p>
-<p>A  "Member" is someone who has registered with our Website to use  our Service.   A Member can create a "Profile", which is an  online representation of Personally Identifiable Information  regarding that Member.</p>
-<p>"Service"  refers to the service we provide through our Website to our Members.</p>
-<p>A  "Visitor" is someone who browses our Website, but hasn't become  a Member.</p>
-<p>A  "User" is a collective identifier that refers to either a Visitor  or a Member.</p>
-<p>All text,  information, graphics, audio, video, and data offered through our  Website, whether free to all or part of our paid Service, whether  originating from us or from our Users, are collectively known as our  "Content".  We may also refer to any Content uploaded by our  Members to their respective Profiles as "Member Content". Any  reference to our Website/Service, also includes our Content by  reference.</p>
-<p><strong><u>Your  Privacy and What Our Privacy Policy Covers</u></strong></p>
-<p><strong>Farmersonly  Media Inc.</strong> is committed to your privacy and  takes it very seriously.  Our Privacy Policy tells you what  Personally Identifiable Information <strong>Farmersonly  Media Inc.</strong> may collect from you, how we may  share your Personally Identifiable Information, and how you can limit  our sharing of your Personally Identifiable Information. <strong>Farmersonly  Media Inc.</strong> is committed to providing an  exemplary online experience as well as securing the privacy of all  our users. <strong>Farmersonly Media Inc.</strong> and any of our affiliates respect your privacy and recognize the need  for appropriate protection and management of your Personally  Identifiable Information as you share with us.</p>
-<p><strong><u>Information  Collected</u></strong></p>
-<p>Generally,  you control the amount of information you provide to <strong>Farmersonly  Media Inc.</strong> when you use our Website/Service.    Visitors provide mostly Non Personal Information whereas Members  will obviously provide more information, including Personally  Identifiable Information.  Please note that any information you  provide at registration or in your Profile may be used by <strong>Farmersonly  Media Inc.</strong> as described in this Privacy  Policy.</p>
-<p>When  you become a Member, you will be required to provide Personally  Indentifiable Information to <strong>Farmersonly  Media Inc.</strong> in order for us to provide our Service.  If you have any hesitation  about providing information to us and/or having your information  displayed on our Website or otherwise used in any manner as permitted  in this Privacy Policy or our Terms of Service, you should not become  a Member or close your account if already a Member. </p>
-<p align="LEFT">We  collect your personal information in the following ways:</p>
-<p><strong>At  Registration</strong></p>
-<p>In  order to become a Member, you must register with our Website.   You  must provide some basic Personally Identifiable Information such as  name and email address in order to register.</p>
-<p><strong>Profile  Information</strong></p>
-<p>Once you  become a Member, you may provide additional Personally Identifiable  Information such as your picture, personal interests, and other  related information.  Providing any additional Personally  Identifiable Information is entirely your choice.  However, the more  such information your provide, the more benefit you will receive from  our Service.</p>
-<p><strong>Customer  Service</strong></p>
-<p>We  may collect Personally Identifiable Information when you contact us  for customer service issues or when we need to investigate complaints  against you or violations of our Terms of Service. </p>
-<p><strong>Online  Forms and Information Requests</strong></p>
-<p>Generally,  we collect site usage information from any User of our Website when  you fill out forms or request information from us. </p>
-<p><strong>Cookies</strong></p>
-<p>Like  most websites, our Website may send a "cookie" to your  computer.  A cookie is a small piece of data that is sent to your  browser from a web server and stored on your computer's hard drive.   A cookie cannot read data off your hard disk or read cookie files  created by other sites. Cookies do not damage your system.  We use  cookies to identify which areas of our site you have visited, so the  next time you visit the site, we can better personalize the content  that you see on our Website.  Most browser software can be set to  disable the use of Cookies.  However, if you disable Cookies, you may  not be able to use certain functionality on our Website correctly or  at all.  We never place Personally Identifiable Information in  Cookies.</p>
-<p><strong>Web  Beacons</strong></p>
-<p>We  may also use web beacons to collect Non Personal Information about  your use of our Website as well as those of our affiliates, and your  use of special promotions or newsletters. The information we collect  by Web Beacons allows us to statistically monitor the number of  people that open our emails and why they opened our emails.  Our Web  Beacons are not used to track your activity outside of our Website or  those of our affiliates.  We do not link Non Personal Information  from Web Beacons to Personally Identifiable Information without your  permission.</p>
-<p><strong>Automatic  Information</strong></p>
-<p>When  you visit our Website, we automatically receive certain types of Non  Personal Information.  This can include the URL of the website from  which you entered our Website.  We also receive the website to which  you're headed when you leave our Website.  We also receivethe IP  address of your computer/proxy server that you use to access the  Internet, your Internet service provider name, web browser type, and  computer operating system.  We use all of this this information to  analyze trends among our Users to help improve our Website/Service.</p>
-<p><strong><u>How  We Use Your Information</u></strong></p>
-<p><strong>Farmersonly  Media Inc.</strong> uses the Personally Identifiable  Information that you provide for provide the Service to you and as  provided below:</p>
-<h4>Website  Communications</h4>
-<p>When <strong>Farmersonly  Media Inc.</strong> communicates with you about our Website/Service, we may use the email  address you provided on your Profile and/or send messages through the  messaging features associated with our Service. We may also send you  emails/messages to inform you about changes or service messages  regarding our Website/Service.  Finally, we may also send you  emails/messages with promotional information about <strong>Farmersonly  Media Inc.</strong> or our affiliates, unless you have opted out of receiving such  information.  You can change contact preferences at any time through  your Profile settings.  While you can opt-out of promotional  messages, you cannot opt-out of receiving service messages.</p>
-<h4>Member  Communications</h4>
-<p>When  you communicate with other Members using the Service, you control the  Personally Identifiable Information that is transmitted to such  Members.   If part of your communication involves an email to another  Member, your email address will be exposed to that Member.</p>
-<h4>Customizing  Our Content</h4>
-<p><strong>Farmersonly  Media Inc.</strong> uses the information you provide to us to customize your experience  on our Website/Service.</p>
-<h4>Sharing  Information with Affiliates and Other Third Parties</h4>
-<p><strong>Farmersonly  Media Inc.</strong> does not sell, rent, or otherwise provide your Personally  Identifiable Information to third parties for marketing purposes.  We  may provide your Personally Identifiable Information to affiliates  that provide services to Farmersonly Media Inc. with regards to our  Website/Service (i.e. payment processors, website hosting companies,  etc.); such affiliates will only receive information necessary to  provide the respective services and will be bound by confidentiality  agreements limiting the use of such information.</p>
-<h4>External  Search Engines</h4>
-<p>Also,  any portions of your Profile that you make publically viewable may be  spidered by search engines.  Even if you later restrict access to  such information, these search engines may have cached copies of the  information you once allowed to be seen publically.  </p>
-<h4>Contests,  Surveys, and Polls</h4>
-<p><strong>Farmersonly  Media Inc.</strong> or its Members (through their Profile), may conduct online Contests,  Surveys, and Polls (collectively, "Participation Events") through  our Website/Service.    These Participation Events may ask you to  provide Personally Identifiable Information.  It is strictly <u>your</u> choice to participate in such Participation Events and whether you  choose to provide Personally Identifiable Information.</p>
-<h4>Member  Search Functions</h4>
-<p>Our  Service has search functions that allow Members to search for other  Members.   Such search functions will be strictly limited to  searching on publically viewable information from Member Profiles. </p>
-<h4>Public  Postings</h4>
-<p>Our  Service allows for Users to post public messagess offers message  board functions through its Service to allow Members to post public  messages.   If you post on public message boards, please use care  when exposing any Personally Identifiable Information as such  information is not protected by our Privacy Policy nor are we liable  should you choose to disclose Personally Identifiable Information  through Public Postings. </p>
-<h4>Testimonials</h4>
-<p>Should  you provide<strong> Farmersonly Media Inc.</strong> with a testimonial with regards to our Website/Service, you are  authorizing <strong>Farmersonly  Media Inc.'s</strong> use of such testimonial in public displays in any form to third  parties, whether Users of our Website/Service, including, but not  limited to postings on our Website/Service, emails to prospective or  current Members, and web ads placed on other websites.  If you  provide a testimonial, please use care when exposing any Personally  Identifiable Information as such information is not protected by our  Privacy Policy nor are we liable should you choose to disclose  Personally Identifiable Information through Testimonials.</p>
-<h4>Legally  Required Releases of Information</h4>
-<p><strong>Farmersonly  Media Inc.</strong> may have need to disclose your Personally Identifiable Information  information, if such disclosure is (a) required by subpoena, law, or  other legal process; (b) necessary to assist law enforcement  officials or government enforcement agencies; (c) necessary to  investigate violations of or otherwise enforce our Terms of Service;  (d) necessary to protect us from legal action or claims from third  parties including you and/or other Members; and/or (e) necessary to  protect the legal rights, personal/real property, or personal safety  of <strong>Farmersonly  Media Inc.</strong>,  our Users, employees, and affiliates. </p>
-<h4>Disclosures  to Successors</h4>
-<p>If <strong>Farmersonly  Media Inc. </strong>was  acquired or merged, in whole or in part, to another entity that would  become responsible for providing the Service to you, we would have  the right to transfer your Personally Identiable Information to such  entity and that entity would have the right to use your Personally  Identifiable Information according to the terms of this Privacy  Policy as well as to any changes to this Privacy Policy as instituted  by such entity.</p>
-<p><strong><u>Opting  Out of Sharing Information</u></strong></p>
-<p><strong>Farmersonly  Media Inc. </strong>provides  you with the ability to opt-out of future unaffiliated third-party  disclosures of your Personally Identifiable Information.  Such  opt-out will not affect disclosures otherwise permitted by law  including but not limited to: (a) disclosures to affiliates; (b)  disclosures to third-party service providers who provide certain  services for our business, such as credit card processing, computer  system services, shipping, data management, or promotional services;  (c) disclosures to third parties as necessary to fulfill your  requests; (d) disclosures to governmental agencies or law enforcement  departments or otherwise required to be made under applicable law;  (e) previously completed disclosures to third parties; or (f)  disclosures Participation Events in which you choose to participate.</p>
-<p><strong><u>Changing  Your Information</u></strong></p>
-<p>You may  change your Personally Identifiable Information at any time using  facilities found on our Website, including removing yourself from  mailing lists.  If at any time you need assistance, just send us an  email or customer service request form with your request.</p>
-<p><strong><u>Protecting  Your Child's Privacy</u></strong></p>
-<p>We follow  United States laws regarding the protection of children's privacy.   Our Service is not designed for use by anyone under the age of 18  (Child).  We do not knowingly collect Personally Identifiable  Information from a Child; however, you acknowledge that we cannot  accurately verify the age of our Users nor do we have any liability  to do so.  If you are parent or legal guardian who suspects their  Child is attempting to use our Website/Service, please contact us  immediately if you wish to remove your Child's information.  We may  ask you to provide identification to confirm that you are indeed the  child's parent or legal guardian.  If you are a Child, please do  not attempt to use our Website/Service unless you have your parent's  permission.</p>
-<p><strong><u>Links  to Other Websites</u></strong></p>
-<p>Our  Website/Service will likely contain links to other websites. <strong>Farmersonly Media Inc. </strong>has  no control of such websites and you agree that these websites are not  under our control and are not subject to our Privacy Policy.  These  websites will likely have their own privacy policies.  We have no  responsibility for these websites and provide links to these websites  solely for your convenience.  You acknowledge that your use and  access of these websites is solely at your own risk.  It is your  responsibility to check the privacy policies and other legal  documents of these websites to see how they treat your personal  information.</p>
-<p><strong><u>Our  Email Policy</u></strong></p>
-<p><strong>Farmersonly  Media Inc.</strong> and our affiliates fully comply with United States laws regarding  SPAM email.  You can always opt out of receipt of further email  correspondence from <strong>Farmersonly  Media Inc.</strong> and our affiliates.  We agree that we will not sell, rent, or trade  your email address to any unaffiliated third-party without your  permission.  It is very important that you understand that email is  not considered a secure form of communication.  As such, please take  care in what you disclose in any email that you send to us.</p>
-<p><strong><u>Our  Security Policy</u></strong></p>
-<p><strong>Farmersonly  Media Inc.</strong> has constructed our  Website/Service using industry standard encryption and authentication  tools to protect your Personally Identifiable Information.   When we  collect your Personally Identifiable Information through our  Website/Service, we encrypt this information and attempt to prevent  unauthorized access to it by using industry standard technologies,  such as encryption software, routers and firewalls.  Unfortunately,  due to the nature of the Internet, we cannot completely guarantee  that your Personally Identifiable Information is completely  protected.  We strongly urge you to protect any password you may have  for our Service and not share it with anyone.  You should always log  out of our Service when not in use, especially if you are sharing a  computer with someone else or are using a public computer.</p>
-<p><strong><u>Payment  Sources</u></strong></p>
-<p>You  will have to provide a credit card or other payment source to use our  Service.  We use third-party billing services and HAVE NO CONTROL  over these services.  While <strong>Farmersonly  Media Inc.</strong> will use commercially reasonable efforts to protect against  unauthorized use of your payment source information, you understand  and agree that we are in no way responsible for any misuse of your  payment source information.</p>
-<p><strong><u>Privacy  Policy Updates</u></strong></p>
-<p><strong>Farmersonly  Media Inc.</strong> reserves the right to modify this  Privacy Policy at any time, so please review it frequently. If we  make material changes to this policy, we will notify you here, by  email, or by means of a notice on our home page. We will also change  the "Last Updated" date at the beginning of this Privacy  Policy.  Any changes we make to our Privacy Policy are effective as  of this Last Updated date and replace any prior Privacy Policies.</p>
-<p><strong><u>Questions  About Our Privacy Practices or This Privacy Policy</u></strong></p>
-<p>If you have  any questions about our Privacy Practices or this Policy, please  email us at <a href="mailto:privacy@FarmersOnly.com">privacy@FarmersOnly.com</a>.</p>
-    	
-    </td>
-    </tr>
-  </tbody></table>
-      
-</div>
-</div>
-
-
-<div class="content_footer">
-	<div class="inner_foot">
-		<font color="#000000">
-			
-		
-		<a href="http://www.farmersonly.com/pages/barnyard_buzz">Success Stories</a> | 
-		<a href="http://www.farmersonly.com/pages/media_and_press">Media &amp; Press</a> | 
-		<a href="http://www.farmersonly.com/pages/advertise">Advertise with Us</a> | 
-		<a href="http://www.farmersonly.com/pages/support">Link to Us</a> 
-
-	
-				</font>
-	</div>
-</div>
-
-<div class="outer_foot">
-	<p>© Copyright 2012 FarmersOnly.com. All rights reserved</p>
-	<a href="http://www.farmersonly.com/pages/terms_and_conditions">Terms &amp; Conditions</a> |
-	<a href="http://www.farmersonly.com/pages/privacy_policy">Privacy</a> |
-	<a href="http://www.farmersonly.com/pages/support">Support</a>
-</div>
-<br><br>
-
-
-
-
-  <script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js"></script>
-  <style type="text/css" media="screen, projection">
-    @import url(//asset0.zendesk.com/external/zenbox/v2.1/zenbox.css);
-  </style>
-  <script type="text/javascript">
-    if (typeof(Zenbox) !== "undefined") {
-      Zenbox.init({
-        dropboxID:   "20020441",
-        url:         "https://farmersonly.zendesk.com",
-        tabID:       "support",
-        tabColor:    "black",
-        tabPosition: "Left",
-        hide_tab: true
-      });
-    }
-  </script>
-
-  <script type="text/javascript">
+      <script type="text/javascript">
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-474229-1']);
     _gaq.push(['_setSiteSpeedSampleRate', 5]);
-    _gaq.push(['_setCustomVar',1,'VistorType','Visitor',2]);
-    _gaq.push(['_trackPageview', '/pages/privacy.php']);
+    _gaq.push(['_setCustomVar',1,'VistorType','Anonymous',2]);
+    _gaq.push(['_setCustomVar',2,'System','new',2]);
+    _gaq.push(['_trackPageview', 'unknown#pages#privacy_policy']);
 
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -304,6 +243,14 @@
 
   </script>
 
-
-
-</body></html>
+  <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","5e5f447c1c",433328,"cg1fERFXWllUSkwSVFYHQkoTSl9DUFsaPUVeDlgGGg==",0,15,new Date().getTime(),"","","","",""])</script>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
