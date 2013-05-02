@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031111740id_/http%3A//www.wsaz.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001508id_/http%3A//www.wsaz.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -15,17 +15,17 @@ This Privacy Policy governs the Personal Information collected by Gray Televisio
 By visiting or using our Services, you accept the practices described in this Privacy Policy. This Privacy Policy is hereby incorporated into the GTI Terms of Use Agreement (“TOU”) by reference, which also governs our Services. Any capitalized terms not defined in this Privacy Policy will have the same meaning as defined in the [_TOU_](https://web.archive.org/legalverbiage/headlines/158511785.html).
 
 **  
-1.[Your California privacy rights under the Shine the Light Act](http://www.jsonline.com/general/31308799.html#california)  
-2\. [Types of information we collect and use](http://www.jsonline.com/general/31308799.html#typesofpersonalinformation)  
-3\. [How do we actively collect and use Personal Information?](http://www.jsonline.com/general/31308799.html#collectPersonalInformation)  
-Safeguarding Children’s Privacy   
-4\. [Disclosure of your Personal Information to third parties](http://www.jsonline.com/general/31308799.html#thirdParties)  
-5\. Personalized content and advertising how we customize your experience.  
-6\. [Your choices for the collection, use and sharing of your Personal Information](http://www.jsonline.com/general/31308799.html#choices)  
-7\. [Links to other websites operated by third parties](http://www.jsonline.com/general/31308799.html#externalLinks)  
-8\. [How to access, update, correct, or delete your Personal Information](http://www.jsonline.com/general/31308799.html#updatePersonalData)  
-9\. How we protect your Personal Information  
-10\. [Notification of changes to the Privacy Policy and how to contact us](http://www.jsonline.com/general/31308799.html#changes)  
+1.Your California privacy rights under the Shine the Light Act  
+2\. Types of information we collect and use  
+3\. How do we actively collect and use Personal Information?  
+4\. Safeguarding Children’s Privacy   
+5\. Disclosure of your Personal Information to third parties  
+6\. Personalized content and advertising how we customize your experience.  
+7\. Your choices for the collection, use and sharing of your Personal Information  
+8\. Links to other websites operated by third parties  
+9\. How to access, update, correct, or delete your Personal Information  
+10\. How we protect your Personal Information  
+11\. Notification of changes to the Privacy Policy and how to contact us  
 **
 
 **__General__**
@@ -51,7 +51,7 @@ Non-affiliated third parties are independent from GTI and if you wish to receive
 
 **2\. Types of data we collect and use**
 
-GTI collects both _[Personal Information](https://web.archive.org/legalverbiage/headlines/158517125.html)_ and _[Non-Personal Information](https://web.archive.org/legalverbiage/headlines/158517125.html)_. We use a variety of Personal Information either voluntarily submitted by you or collected via our Services. We may also collect and use Personal Information about other people when you participate in certain programs and features or when you submit news stories or nominations for community awards or recognition that involve other people. Individual Stations may also offer additional Web Channel features and services that would also require the submission of Personal Information. 
+GTI collects both ___[Personal Information](https://web.archive.org/legalverbiage/headlines/158517125.html)_ and _[Non-Personal Information](https://web.archive.org/legalverbiage/headlines/158517125.html)_. We use a variety of Personal Information either voluntarily submitted by you or collected via our Services. We may also collect and use Personal Information about other people when you participate in certain programs and features or when you submit news stories or nominations for community awards or recognition that involve other people. Individual Stations may also offer additional Web Channel features and services that would also require the submission of Personal Information. 
 
 [_Click here for the specific types of Personal Information we may collect and use_](https://web.archive.org/legalverbiage/headlines/158517125.html).
 
@@ -94,6 +94,8 @@ Your Personal Information will be disclosed to unaffiliated third parties only a
 
 We reserve the right to use, disclose and process any Non-Personal Information collected from you in any manner.
 
+******5\. Personalized content and advertising – how we customize your experience.**
+
 Advertising supports the free Services and free Internet and broadcast content we and our Stations provide to you. GTI, our Stations, Operational Service Providers, and Advertisers use cookies, web beacons and other similar technology to enrich your experience on our Services by serving relevant, tailored and personalized advertising and/or content. (Please note that we do not control Advertiser cookies or web beacons, and such technology is not subject to this Privacy Policy.) Such advertising and content is based on information you provide to us; your use of our content, features and activities; your visits, search, transaction and/or purchase history; visits to our Facebook Fan page, or other social network platforms, and/or estimates made about you based on all of these elements.   
 ([ _Click here for information about IP address, cookies and web beacons_](https://web.archive.org/legalverbiage/headlines/158517125.html).) 
 
@@ -131,7 +133,7 @@ _We reserve the right to deny access to any user if we believe there is a questi
 
 We take reasonable measures to protect the security and confidentiality of any information you choose to provide to us. We implement and maintain reasonable physical, technical and administrative procedures to protect your Personal Information from unauthorized collection, use, disclosure, and disposal and request our Operational Service Providers to do the same. Despite our best efforts, no security measures are impenetrable, and transmissions over the Internet are not 100% secure or error-free.
 
-**10\. Notification of changes to the Privacy Policy and how to contact us**
+******10\. Notification of changes to the Privacy Policy and how to contact us**
 
 We reserve the right, at our discretion, to modify, add, or remove sections from this Privacy Policy from time to time. When we change this Privacy Policy, we will post the Effective Date and notice of such changes on our designated Services. If such changes are material, we will also send a notice to your email address or other contact information (if allowed) currently on file and seek your consent to the extent required by law. 
 
