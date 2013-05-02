@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108175432id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502224110id_/http%3A//loveme.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,4 +53,4 @@ fax (602) 468-1119
 
 * * *
 
-Copyright © 2012
+Copyright © 2013
