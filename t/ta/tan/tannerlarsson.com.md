@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tannerlarsson.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919210555id_/http%3A//digitallowdown.net/docs/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tannerlarsson.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502160844id_/http%3A//digitallowdown.net/docs/privacy-policy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
