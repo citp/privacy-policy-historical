@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isobuster.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222233704id_/http%3A//www.isobuster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isobuster.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502074731id_/http%3A//www.isobuster.com/privacy.php) for the most accurate reproduction.*
 
 # IsoBuster Privacy Policy - CD, DVD, Hard Disk Data Recovery Software
 
@@ -22,4 +22,4 @@ Smart Projects reserves the right to change the Privacy Policy from time to time
 
 The present Privacy Policy and/or any dispute that might arise between Smart Projects and/or its affiliates and you are governed by the applicable law of the Smart Projects office. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of Smart Projects' office.
 
-[Feel free to contact us in case of questions!](http://www.isobuster.com/support.php "Contact us!")
+[Feel free to contact us in case of questions!](http://www.isobuster.com/support.php#contact "Contact us!")
