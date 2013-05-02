@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neighbormaps.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022105501id_/http%3A//www.neighbormaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighbormaps.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502144841id_/http%3A//www.neighbormaps.com/privacy) for the most accurate reproduction.*
 
-# Local Online Business Directory & Yellow Pages | Accoona - Ashburn, VA
+# Privacy Policy - NeighborMaps
 
 **The following privacy statement details the NeighborMaps.com pledge to keep your information private.** Any questions in regards to NeighborMaps.com privacy practices should be sent via email to [privacy@neighbormaps.com](mailto:privacy@neighbormaps.com).
 
