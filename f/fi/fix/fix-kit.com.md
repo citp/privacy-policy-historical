@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fix-kit.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225192128id_/http%3A//fix-kit.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fix-kit.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502070005id_/http%3A//fix-kit.com/Privacy.aspx) for the most accurate reproduction.*
 
-# PC Utility Kit
+# 
 
-This privacy notice discloses the privacy practices for PC Utility Kit. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for . This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
