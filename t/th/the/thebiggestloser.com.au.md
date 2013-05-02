@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebiggestloser.com.au privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102002240id_/http%3A//thebiggestloser.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiggestloser.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503005251id_/http%3A//thebiggestloser.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | The Biggest Loser Australia
 
@@ -18,7 +18,6 @@ The type of personal information we collect varies according to how you interact
 • letters and other material sent by you to Network Ten   
 • material submitted in competitions   
 • feedback, comments or suggestions on programs and other activities of Network Ten   
-• through Buyten Web Site  
 • as a customer or client of Network Ten   
 • when you provide a service or products to Network Ten   
 • security surveillance of our premises (eg video, card access).   
@@ -27,7 +26,7 @@ The type of personal information we collect varies according to how you interact
   
 The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway. 
 
-We may collect personal information when you visit our Web Sites or use one of our i-apps. For example if you use our Buyten Web Site, we may record who has visited the site and other related information. We have a separate privacy policy for our Buyten Web Site, which is available on the Web Site and also from Network Ten on request.
+We may collect personal information when you visit our Web Sites or use one of our i-apps.
 
 Network Ten reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Web Sites or our i-apps and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Web Sites or our i-apps. You acknowledge that when you disclose personally identifiable information on the Web Sites, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates. 
 
