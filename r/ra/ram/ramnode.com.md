@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914235656id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502062443id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
 
 # Client Area - RamNode
 
@@ -27,6 +27,7 @@ Use of Personally Identifiable Information
 We will use your personally identifiable information only as follows:
 
   * For payment purposes and to provide customer support.
+  * For fraud checking, reporting, and other screening methods to verify information submitted to us.
   * To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
   * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and website visits to help us improve or target our website and customize your visit.
 
