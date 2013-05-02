@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamuniversity.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914232436id_/http%3A//dreamuniversity.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamuniversity.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502163710id_/http%3A//dreamuniversity.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | Dream University
+# Privacy Policy | Dream University
 
 ## We Value Your Privacy
 
@@ -52,7 +52,7 @@ If you decide to register on our site, make a purchase request or agree to parti
   * Address
   * E-mail address
   * Telephone number
-  * Credit Card – We retain only a portion of the credit card number, card type and expiration date. (For example: 1411XXXXXXXX1411)
+  * Credit Card — We retain only a portion of the credit card number, card type and expiration date. (For example: 1411XXXXXXXX1411)
 
 
 
