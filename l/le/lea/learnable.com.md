@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the learnable.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016083550id_/https%3A//learnable.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnable.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502104106id_/https%3A//learnable.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Learnable
-
-## online learning for web developers and designers
+# Privacy Policy - Learnable
 
 ### Keeping your information secure.
 
@@ -71,15 +69,4 @@ Oh, don't forget that you can control which emails you receive from us through y
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following addresses:
 
-* * *
-
-##### Australia Office
-
-Learnable Pty Ltd  
-48 Cambridge St  
-Melbourne  
-Victoria 3066  
-Australia  
-ABN: 38 147 944 465  Phone: +61 3 9090 8200 
-
-You may [contact us](https://web.archive.org/contact) by email at [hello@learnable.com](mailto:%20hello@learnable.com)
+You may [contact us](https://web.archive.org/contact) by email at [hello@learnable.com](mailto:hello@learnable.com)
