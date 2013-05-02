@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proporn.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014161034id_/http%3A//www.proporn.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proporn.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502172653id_/http%3A//www.proporn.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy - ProPorn.com</title>    
@@ -7,20 +7,27 @@
         
     <meta name="robots" content="index, follow">   
     <meta name="revisit-after" content="1 days"> 
-        <meta name="keywords" content="Privacy Policy - ProPorn.com">
-    <meta name="description" content="Privacy Policy - ProPorn.comfree,porn">
+        <meta name="keywords" content="Privacy Policy">
+    <meta name="description" content="Privacy Policy,free,porn">
 
-    <link type="text/css" media="all" rel="stylesheet" href="http://static.proporn.com/templates/frontend/proporn/css/style.css?v=0.57">
+    <link type="text/css" media="all" rel="stylesheet" href="http://static.proporn.com/templates/frontend/proporn/css/style.css?v=15.15">
+
+    
+<link rel="apple-touch-icon" href="http://static.proporn.com/templates/frontend/proporn/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://static.proporn.com/templates/frontend/proporn/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://static.proporn.com/templates/frontend/proporn/images/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://static.proporn.com/templates/frontend/proporn/images/apple-touch-icon-144x144.png">
 
 
     <link rel="Shortcut Icon" type="image/x-icon" href="http://static.proporn.com/favicon.ico">
     <!--[if IE 7]><link rel="stylesheet" type="text/css"href="http://static.proporn.com/templates/frontend/proporn/css/style_ie7.css" /><![endif]-->
     <!--[if IE 6]><link rel="stylesheet" type="text/css"href="http://static.proporn.com/templates/frontend/proporn/css/style_ie6.css" /><![endif]-->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    var base_url = "http://www.proporn.com";
+    var base_url = "http://proporn.com";
     var tmb_url = "http://pics.proporn.com/media/videos/tmb";
     var tpl_url = "/templates/frontend/proporn";
     var static_tpl = "http://static.proporn.com/templates/frontend/proporn";
+	var tpl_name = "default";
 		var lang_deleting = "Deleting...";
 	var lang_flaging = "Flaging...";
 	var lang_loading = "Loading...";
@@ -38,7 +45,7 @@
         var TRAFF_TARGETS = [];
     </script>
 
-	    <script type="text/javascript" src="/templates/frontend/proporn/js/proporn.js?v=0.57"></script>
+	    <script type="text/javascript" src="/templates/frontend/proporn/js/proporn.js?v=15.15"></script>
         
 <script type="text/javascript">
     var referer=encodeURIComponent(location.href);
@@ -54,17 +61,39 @@
 <a id="refLink" href="javascript:void(0)" style="display:none;">&nbsp;</a>
     <div class="wrapper">
     	<div id="header" class="round">
-        	<div id="logo"><a href="http://www.proporn.com"><img src="http://static.proporn.com/templates/frontend/proporn/images/logo.png" width="173" height="52" alt=""></a></div>
+        	<div id="logo"><a href="http://proporn.com"><img src="http://static.proporn.com/templates/frontend/proporn/images/logo.png" width="173" height="52" alt=""></a></div>
         	<div class="header_right">
-            	<div class="top_links"><b>10,762 Videos Online</b></div>
+            	<div class="top_links"><b>136,633 Videos Online</b></div>
                 <div class="search">
-                    <form action="/search" method="get" name="searchform" id="searchform" onsubmit="return submitSearch()">                        
-						<input type="hidden" value="videos" name="search_type" id="search_type">
-                        <input class="search_btn" type="submit" value=" ">
-                        <input class="search_inp" type="text" name="search_query" id="search_query" value="Search" onfocus="this.value=''" onblur="">
-                        <div class="clear"></div>
-                    </form>
-                </div>
+                    
+                    <form action="/search" id="searchform" method="get">
+    <input type="hidden" value="videos" name="search_type" id="search_type">
+    <input class="search_inp" type="text" id="search_query" name="search_query" value="Search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';">
+
+    <input class="search_btn" type="button" id="search-button" name="search_query" value=" ">
+    <div class="clear"></div>
+</form>
+
+<script type="text/javascript">
+$(function(){
+    $('#searchform').submit(function(e){
+        e.preventDefault();
+
+        var query = $('#search_query').val(),
+            type  = $('#search_type').val();
+
+        query = query.replace(/[^A-z0-9 ]/g, '-');
+        query = query.replace(/-+/g, '-');
+        query = query.replace(/-$/, '');
+
+        if (query.length > 0) {
+            window.location = '/search/'+ type +'/'+ query;
+        } else {
+            tube.notifications.add('Nothing found <br /> Please, use latin letters and numbers only', 'error', 3);
+        }
+    });
+})
+</script>                </div>
                 <div class="clear"></div>
             	<div id="menu">
                 	<ul>
@@ -72,8 +101,9 @@
                         <li><a href="/categories">Categories</a></li>
 						<li><a href="/tags">Tags</a></li>
                         <li><a href="/community">Community</a></li>
+						
                         <li><a href="http://mobile.proporn.com" target="_blank">Mobile</a></li>
-                        <li><a href="">Live Sex</a></li>
+                        <li><a href="http://www.propornlive.com" target="_blank">Live Sex</a></li>
                         <li><a target="_blank" href="http://proporn.pornstarnetwork.com/account/join?track=MzIyLjI1LjEuMTQ5LjAuMC4wLjAuMA">Premium</a></li>
 													<li class="w122"><a href="/login" rel="nofollow" class="login_link">Login</a></li>
 							<li class="w122 last"><a href="/signup?track=top_menu" rel="nofollow">Sign Up</a></li>
@@ -83,7 +113,59 @@
             </div>
         	<div class="clear"></div>
         </div>
-<div id="wrapper" class="cblock">
+
+<div class="notifications hidden">
+    <!-- type: 'error' -->
+    
+    <!-- type: 'notice' -->
+    
+    <!-- type: 'message' -->
+    </div>
+
+<script type="text/javascript">
+$(function() {
+    window.tube = window.tube || {};
+
+    /**
+     * notifications
+     */
+    window.tube.notifications = (function() {
+
+        /** hide notification if needed */
+        $.fn.timerHandler = function () {
+            var ntime = this.data('ntime');
+            if (ntime > 0) {
+                this.delay(ntime*1000).slideUp(200, function(){
+                    if ($('.notifications__item:visible').length === 0) {
+                        $('.notifications').hide();
+                    }
+                });
+            }
+        }
+
+        $('.notifications__item').each(function(){
+            $(this).timerHandler();
+        });
+
+        /**
+         * add message to error_log
+         *
+         */
+        this.add = function (message, type, time) {
+            $('.notifications').show();
+            $('<div />').html(message)
+                .addClass('notifications__item')
+                .addClass('notifications__item-'+type)
+                .attr('data-ntime', parseInt(time))
+                .appendTo('.notifications')
+                .hide().slideDown() // effects
+                .timerHandler();
+        }
+
+        return this;
+    })();
+});
+</script><div id="wrapper" class="cblock">
 	<div class="bl_long">
 		<div class="bl">
 			<div class="bl_box">
@@ -135,7 +217,7 @@
 				<h2>Advertise here</h2>
 									<img src="http://static.proporn.com/templates/frontend/proporn/images/pl.gif" width="16" height="16" class="close_adv " id="close_adv_bottom">
 					<div class="clear"></div>
-								<div style="text-align:center; margin-bottom:5px;"><iframe src="/footer_ads.html?v=0.57" width="1200" height="258" scrolling="no" border="0" frameborder="0"></iframe></div>
+								<div style="text-align:center; margin-bottom:5px;"><iframe src="/footer_ads.html?v=15.15" width="1200" height="258" scrolling="no" border="0" frameborder="0"></iframe></div>
 			</div>
 		</div>
 		
@@ -143,20 +225,19 @@
                 
 
                 <!--footer-->
-		
+
     	<div id="footer">
-        	<div class="footer"><a href="/static/terms" rel="nofollow">TERMS AND CONDITIONS</a><span>|</span><a href="/static/privacy" rel="nofollow">PRIVACY POLICY</a><span>|</span><a href="/static/dmca" rel="nofollow">DMCA 2257</a><span>|</span><a href="http://webmaster.proporn.com/" rel="nofollow">WEBMASTERS</a><span>|</span><a href="/static/advertise" rel="nofollow">ADVERTISE</a><span>|</span><a href="/feedback" rel="nofollow">FEEDBACK</a></div>
-            <div class="copyright">Copyright © 2011-2012 ProPorn.com, All Rights Reserved.</div>
+        	<div class="footer"><a href="/static/terms" rel="nofollow">TERMS AND CONDITIONS</a><span>|</span><a href="/static/privacy" rel="nofollow">PRIVACY POLICY</a><span>|</span><a href="/static/dmca" rel="nofollow">DMCA</a><span>|</span><a href="/static/2257" rel="nofollow">2257</a><span>|</span><a href="http://webmaster.proporn.com/" rel="nofollow">WEBMASTERS</a><span>|</span><a href="/static/advertise" rel="nofollow">ADVERTISE</a><span>|</span><a href="/feedback" rel="nofollow">FEEDBACK</a></div>
+            <div class="copyright">Copyright © 2011-2013 ProPorn.com, All Rights Reserved.</div>
             <a href="/"><img src="http://static.proporn.com/templates/frontend/proporn/images/footer_img.png" width="78" height="17" alt=""></a>
         </div>
     	<!--footer-->
-    </div>      
+    </div>
 
 <script type="text/javascript">
     var img = new Image();
     img.src = 'http://cnt.proporn.com/counter/?domain=proporn.com&img&ref='+escape(document.referrer)+'&rr='+Math.random();
 </script>
- 
 <div class="hideshow" id="login_div">
     <div id="fade"></div>
 	
@@ -190,6 +271,7 @@
 		
 	
 </div>
+
 
 
 <script type="text/javascript">
