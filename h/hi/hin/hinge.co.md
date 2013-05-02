@@ -1,0 +1,87 @@
+> *The following text is extracted and transformed from the hinge.co privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001720id_/http%3A//hinge.co/privacy) for the most accurate reproduction.*
+
+# Hinge2 Privacy Policy
+
+Hinge Privacy Policy
+
+FAQ
+
+Why do I have to login through Facebook?
+
+All Hinge users must have a Facebook account to validate their identity and to provide their friend connections. Hinge is all about friends of friends, and so we need to know who your friends are to get you plugged in!
+
+Are you going to post on my wall?
+
+No, Hinge does not post on your wall. We do, however, publish to your stream - which may show up on news feeds or in the ticker. This is how we tell your friends about Hinge - and when they join, you’ll have a better experience!
+
+Are my ratings private?
+
+Your ratings are totally anonymous and private. No one will ever know what you rated them. However, if you’re playing to “Get Matched” and you rate some highly, and they rate you highly, you’ll be sent an introduction.
+
+What do you do with my information?
+
+All information provided to Hinge through Facebook (including your photos and email address) are never sold or distributed to any third parties. Hinge uses this information exclusively to make your experience on Hinge better. You can disconnect Hinge from your Facebook account at any time, and Hinge will immediately delete all of your personal information.
+
+Why do you ask for access to my email address?
+
+Well, to send you emails! We sign you up for our awesome ThursDater newsletter and alert you when important things happen on Hinge that are relevant to you. You can unsubscribe from either form of communication at any time. The one exception is the email we send to introduce you to a mutual interest; we ALWAYS send these. If you don’t want them, then don’t play Hinge in “get matched” mode!
+
+Why do you ask for access to my pictures?
+
+Don’t worry, we’re not posting them! We allow you to choose your profile picture; beyond that we are using your pictures to understand who your closest friends are - again making sure you have the best experience possible.
+
+What about the rest of my info?
+
+Your work history, education history, likes etc. are used when we introduce you to someone new. The more information we have, the better introduction we can make, and the easier it is to get the conversation started.
+
+It looks like I can rate people who aren’t on Hinge. Can people opt out of this?
+
+Of course! Just send a link to your Facebook profile in an email to hello@hinge.co with the subject line “OPT OUT”.
+
+OFFICIAL PRIVACY POLICY
+
+Last revised January 1, 2013
+
+Introduction
+
+PURPOSE OF POLICY: This Policy describes how Cleod9, Inc. (“us,” “we” or “Hinge”) collects, uses and discloses personal information from you when you visit and use the Hinge website and Facebook application (the “Site”). This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+
+NOTICE CONCERNING CHILDREN: We require users to be at least 13 years of age. We do not intend for anyone under the age of 13 to use any of the features or services we offer from the Site, and we certainly do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online.
+
+Information Collection Practices
+
+INFORMATION YOU PROVIDE: In operating the Site, Hinge will collect personal information that you provide to us. For example, that may include registration, online surveys, and other online forms that ask users to provide their names, email addresses, other contact information, optional demographic information, listing love interests, recommending possible love interests for others, feedback, rating and voting.
+
+INFORMATION COLLECTED AUTOMATICALLY: When you visit or make use of the Site we may collect some information about you automatically. For example, our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). The Site may also gather “traffic data” that may be helpful for marketing purposes or for improving the services we offer.
+
+COOKIES: We may use “cookies” (a small piece of data stored on your computer’s hard drive). Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience on the Site may be diminished and some features may not work as they were intended.
+
+SOCIAL NETWORKS: Our Site allows you to register using social networking platforms and to interact with and through those social networks. We may collect information you choose to allow us to access using those social networking platforms. We may track your check-ins and activities on and across our Sites, and on third party sites that use our services and compare them to others in the community. We may use this information to process and display your rankings, rewards, recognitions, virtual items and gifts and to perform analytics, as well as to sort and filter information to tailor user experience.
+
+Use and Sharing of Information
+
+PERSONAL INFORMATION: We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us, with third-party vendors, consultants and service providers who need access to this data to carry out their work for us, to protect the rights or property of Hinge, in an emergency to protect the personal safety of Hinge’s employees, customers or any other person, to the extent required during the negotiation of a merger, sale, financing or acquisition, or to comply with the law. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the Site. We may also use your contact information to inform you of any changes to the Site, or to send you additional information about Hinge.
+
+ANONYMOUS INFORMATION: We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+USE OF COOKIES: We may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+
+SOCIAL NETWORK SHARING: Some of the features of the Site are social by design and allow you to publicly share information about yourself and your activities such as your level of activity and participation with the Site; activities performed or rankings, rewards, recognition and virtual items earned or received as a gift from other Site users; and comments, posts and invitations to people within your social network. We will also share some of your information with social networks you are a member of or on which the Site is hosted on and we are not responsible for their use of your information. You should review the applicable privacy policies for these third-party social network providers.
+
+SALE OF INFORMATION: In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through this Site. If Hinge or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.
+
+Security
+
+Hinge takes reasonable measures in an effort to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse or alteration, and we will have no liability to you or to any third party arising out of any such loss, misuse or alteration. Hinge may store and process personal information in the United States and other countries.
+
+Website Areas Beyond Hinge’s Control
+
+PUBLIC FORUMS: The Site may include interactive forums such as messaging channels, message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+THIRD-PARTY WEBSITES: The Site may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+
+Contact Information and Policy Updates
+
+CONTACTING US: If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database, where possible, please feel contact us at hello@hinge.co with subject line “Privacy Policy”.
+
+UPDATES AND CHANGES: We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If any changes are made to this Privacy Policy we will reflect the “Last Revised” date above. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
