@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the analizearticles.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102133850id_/http%3A//www.analizearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analizearticles.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502183352id_/http%3A//www.analizearticles.com/privacy.php) for the most accurate reproduction.*
 
-# Articles Directory | Free Articles | New Articles Daily | Privacy Statement
+# Analize Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
 YOUR SITE NAME HERE strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
