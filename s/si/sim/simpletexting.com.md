@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219133611id_/http%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502160723id_/http%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -51,6 +51,3 @@ You can contact SimpleTexting with your questions and concerns at: support@simpl
 Or by Mail at **8225 5 th Avenue #332, Brooklyn, NY 11209**
 
 Effective July15, 2011
-
-Filed under: by SimpleTexting  
-[No Comments »](http://simpletexting.com/privacy-policy/#respond "Comment on Privacy Policy")
