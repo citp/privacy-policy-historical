@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102095539id_/http%3A//www.dmarcian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmarcian.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502185955id_/http%3A//dmarcian.com/privacy) for the most accurate reproduction.*
 
 # dmarcian - DMARC Tools For Humans
+
+
+    13 January 2013 - update to indicate user-submitted data gets deleted when account is deleted
+    24 February 2012 - original publication
 
 The privacy and security of personal information is a dmarcian.com priority, and we want you to be aware of how your information is collected and handled.
 
@@ -9,7 +13,7 @@ This Privacy Policy describes the policies and procedures of dmarcian.com on the
 ## What information is collected?
 
 User-submitted Content
-    dmarcian.com collects information submitted by users such as DMARC XML aggregate files and information pertaining to the submission such as source IP address of submissions and time of submission. All content submitted by you to the Services may be retained by dmarcian.com indefinitely, even after you stop using the Services.
+    dmarcian.com collects information submitted by users such as DMARC XML aggregate files and information pertaining to the submission such as source IP address of submissions and time of submission. All content submitted anonymously (without being logged into the Services) may be retained by dmarcian.com indefinitely, even after you stop using the Services. All content submitted by you while logged into the Services may be retained by dmarcian.com until account deletion. Account deletion removes all content that was submitted to the Services while logged into the account.
 IP Address Information and Other Information Collected Automatically
     dmarcian.com automatically receives and records information from your web browser when you interact with the Services, including your IP address and cookie information. This information may be used to help dmarcian.com understand how users transit the Site, to fight spam/malware, to facilitate collection of data concerning your interaction with the Services and for other similar purposes.  
 Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. dmarcian.com may use this data in aggregate form, that is, as a statistical measure, but not in a way that would identify you personally. This ttype of aggregate data enables dmarcian.com to figure out how often individuals use parts of the Services so that dmarcian.com can analyze and improve them.
