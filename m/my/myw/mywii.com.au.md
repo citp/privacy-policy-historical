@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywii.com.au privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010132512id_/http%3A//mmgn.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywii.com.au privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502074231id_/http%3A//mmgn.com/Privacy) for the most accurate reproduction.*
 
 # MMGN Privacy Policy
 
