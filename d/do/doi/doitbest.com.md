@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065637id_/http%3A//www.doitbest.com/Privacy.dib) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502234901id_/http%3A//www.doitbest.com/Privacy.dib) for the most accurate reproduction.*
 
 # DoitBest.com Customer Privacy Policy
 
