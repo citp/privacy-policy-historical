@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184522id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502135735id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
 
-# LessonPlansPage.com Privacy Policy | HotChalk's Lesson Plans Page
+# LessonPlansPage.com Privacy Policy | HotChalk Lesson Plans Page
 
 The Lesson Plans Page respects your privacy and will not do anything in violation of your privacy. No personally identifiable information is collected by LessonPlansPage.com. You have the opportunity to subscribe your email address to our newsletter. If you do, your email address will never be given to any third party. You’re welcome to read the details of our privacy policy below:
 
@@ -140,4 +140,4 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 > 
 
 
-[](http://www.printfriendly.com/print/v2?url=http://lessonplanspage.com/privacy-htm/)
+[](http://www.printfriendly.com/print?url=http://lessonplanspage.com/privacy-htm/)
