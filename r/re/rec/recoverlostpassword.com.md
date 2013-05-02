@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the recoverlostpassword.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003010421id_/http%3A//www.recoverlostpassword.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recoverlostpassword.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502204207id_/http%3A//www.recoverlostpassword.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy of SmartKey
+# Sitemap for SmartKey site - Find more password recovery solution faster
+
+Privacy
 
 General Statement
 
