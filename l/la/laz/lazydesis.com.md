@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazydesis.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028055113id_/http%3A//www.lazydesis.com/announcements/showthread.php%3Ft%3D158311) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydesis.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502140057id_/http%3A//www.lazydesis.com/announcements/showthread.php%3Ft%3D158311) for the most accurate reproduction.*
 
 # Privacy Policy - Lazydesis
 
