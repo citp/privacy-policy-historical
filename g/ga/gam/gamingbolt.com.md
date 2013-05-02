@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224081808id_/http%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502031753id_/http%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « GamingBolt.com: Video Game News, Reviews, Previews and Blog
 
