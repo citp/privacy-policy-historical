@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papirus.net privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003161155id_/https%3A//papirus.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papirus.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502185021id_/https%3A//papirus.net/privacy) for the most accurate reproduction.*
 
 # papirus.net | Privacy policy
 
@@ -91,7 +91,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 #### Terms and Conditions
 
-Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our Site at [papirus.net/terms](https://web.archive.org/web/20121003161155id_/https%3A//papirus.net/terms).
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our Site at [papirus.net/terms](https://web.archive.org/web/20130502185021id_/https%3A//papirus.net/terms).
 
 #### Your consent
 
