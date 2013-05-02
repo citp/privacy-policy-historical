@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219133112id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502170159id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JamPlay.com Privacy Policy
 
-### Effective Date: September 13th, 2011
+### Effective Date: February 1st, 2013
 
 [](https://privacy.truste.com/privacy-seal/JamPlay,-LLC/validation?rid=9a22254d-a942-4725-8b3b-3263adaffa54 "TRUSTe online privacy certification")
 
@@ -10,7 +10,7 @@
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like JamPlay LLC ("JamPlay"). We are based in the United States, and our principal activity distributing guitar lessons via online videos and teaching tools. Our privacy policy covers JamPlay, LLC the www.JamPlay.com website. This privacy policy describes how JamPlay, LLC collects and uses the personal data you provide on our web site: http://www.jamplay.com. It also describes the choices available to you regarding our use of your personal data and how you can access and update this information.
 
-JamPlay has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://watchdog.truste.com/pvr.php?page=complaint) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.jamplay.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+JamPlay has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.jamplay.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-999-4526 or support@jamplay.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -76,7 +76,7 @@ We will retain your personal data for as long as your account is active or as ne
 
 ### Re-Targeted Advertising
 
-Re-Targeted advertising uses data collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any data that could be linked back to a particular person, such as their name, address or credit card number. The data used for targeted advertising either comes from JamPlay or through third party website publishers. If you would like to opt out of re-targeted advertising from JamPlay that occurs when visiting our third party advertising publishers, please click here . Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Re-Targeted advertising uses data collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any data that could be linked back to a particular person, such as their name, address or credit card number. The data used for targeted advertising either comes from JamPlay or through third party website publishers. If you would like to opt out of re-targeted advertising from JamPlay that occurs when visiting our third party advertising publishers, please [click here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Children's Privacy
 
