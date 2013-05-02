@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185914id_/http%3A//blissfullydomestic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502105001id_/http%3A//blissfullydomestic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | Blissfully DomesticBlissfully Domestic
+# Privacy Policy - Blissfully Domestic
 
 ## Commitment to Privacy
 
-blissfullydomestic.com is owned and operated by Allison Worthington Media L.L.C. Your privacy is vastly important to us. We want you to have a safe and enjoyable time exploring our website.
+blissfullydomestic.com is owned and operated by Blissful Media Group L.L.C. Your privacy is vastly important to us. We want you to have a safe and enjoyable time exploring our website.
 
 In our effort to be completely transparent we have provided the following information to you. Because we gather certain types of information about our visitors, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -84,7 +84,7 @@ By using our site, you consent to our website’s privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on April 4, 2009
+This policy was last modified on January 15, 2013
 
 ### Contacting Us
 
@@ -92,4 +92,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://blissfullydomestic.com
 
-katie@blissfullydomestic.com
+angela@blissfullydomestic.com
