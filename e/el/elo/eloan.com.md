@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2012-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120907024250id_/http%3A//labs2.popular.com/pdf/BPNA/BPNA_2011_09_Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502154931id_/http%3A//www.eloan.com/wp-content/themes/eloan/pdf/eloan-privacy-policy.pdf) for the most accurate reproduction.*
 
 # FAC TS
 
-                                                                                                                                  Rev. 09/11
+                                                                                                                                  Rev. 02/13
                      WHAT DOES POPULAR, INC.
  FAC TS              DO WITH YOUR PERSONAL INFORMATION?
  Why?                Financial companies choose how they share your personal information. Federal law gives consumers the right
@@ -32,6 +32,7 @@ For our affiliates to market to you                                            Y
 For nonaffiliates to market to you                                             No                             We don’t share
  To limit            • Call 1 (866) 576-7283 — our menu will prompt you through your choice(s) or
  our sharing         • Visit us online: https://savings.eloan.com/optout
+                     NO ACTION IS REQUIRED if you previously chose to opt-out of sharing your information.
                      Please note:
                      If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When
                      you are no longer our customer, we continue to share your information as described in this notice.
