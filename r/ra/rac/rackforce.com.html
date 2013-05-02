@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rackforce.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101124200id_/http%3A//www.rackforce.com/privacy_policy.html%3Floc%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rackforce.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502144346id_/http%3A//www.rackforce.com/privacy_policy.html%3Floc%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -15,6 +15,11 @@
 		
 		<link rel="shortcut icon" href="/favicon.ico">
 
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/css">
+		/*<![CDATA[*/
+		@import url("http://fast.fonts.com/t/1.css?apiType=css&projectid=ac9ac137-bcb9-4349-a6d6-c01c5fd6a8a7");
+		/*]]>*/
+		</script>	
 		<link rel="stylesheet" href="/css/nivo-slider/nivo-slider.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="/css/nivo-slider/nivo-slider-rackforce.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="/css/jquery-ui/jquery-ui.css" type="text/css" media="screen">
@@ -22,6 +27,7 @@
         <!--<link rel="stylesheet" href="/css/debugCSS.css" type="text/css" />-->
 
 		<!-- jQuery components -->
+		<script type="text/javascript" src="/shared_jslib/date.js" charset="utf-8"></script>
 		<script type="text/javascript" src="/shared_jslib/jquery/jquery.js" charset="utf-8"></script>
 		<script type="text/javascript" src="/shared_jslib/jquery/jquery-ui.js" charset="utf-8"></script>
 		<script type="text/javascript" src="/shared_jslib/jquery/jquery-rfexpand.js" charset="utf-8"></script>	
@@ -59,14 +65,6 @@
 						$(this).val('Search');  
 					}
 				});
-
-        	// set the page title background if applicable
-       		if($("#pageContainer #pageTitle").length > 0)
-       		{
-           		var banner_version = Math.floor(Math.random() * 4);
-           		
-           		$("#pageContainer #pageTitle").addClass("banner-" + banner_version);
-       		}
            	
         	// set the copyright year
         	$('#copyrightYear').html(new Date().getFullYear());
@@ -80,28 +78,73 @@
         		out : mainMenuHoverOut
         	};
         	
-        	$('li#containerSolutions, li#containerHybridHosting, li#containerAboutUs, li#containerPartnerEcoSystem, li#containerResources').hoverIntent(mainmenu_hover_config);
+        	$('li#containerSolutions, li#containerServices, li#containerAboutUs, li#containerPartners, li#containerResources')
+        		.click(function() {
+        			var id = $( this ).attr( 'id' );
+        			
+		        	switch( $( this ).attr('id') )
+					{
+						case 'containerSolutions':
+							$( 'div#contentSolutions' ).toggle({
+								duration: 300, 
+								easing: 'slide'
+							});
+							break;
+							
+						case 'containerServices':
+							$( 'div#contentServices' ).toggle({
+								duration: 300, 
+								easing: 'slide'
+							});
+							break;
+							
+						case 'containerAboutUs':
+							$( 'div#contentAboutUs' ).toggle({
+								duration: 300, 
+								easing: 'slide'
+							});
+							break;
+							
+						case 'containerPartners':
+							$( 'div#contentPartners' ).toggle({
+								duration: 300, 
+								easing: 'slide'
+							});
+							break;
+							
+						case 'containerResources':
+							$( 'div#contentResources' ).toggle({
+								duration: 300, 
+								easing: 'slide'
+							});
+							break;
+					}
+        		})
+        		.hoverIntent(mainmenu_hover_config);
 
 		});
 		
 		function mainMenuHoverIn() 
 		{
+			// remove the onclick default function, it is assumed that the user are not on touch monitor
+			$('li#containerSolutions, li#containerServices, li#containerAboutUs, li#containerPartners, li#containerResources').off( 'click' );
+			
 			switch( $( this ).attr('id') )
 			{
 				case 'containerSolutions':
 					$( 'div#contentSolutions' ).slideDown('slow');
 					break;
 					
-				case 'containerHybridHosting':
-					$( 'div#contentHybridHosting' ).slideDown('slow');
+				case 'containerServices':
+					$( 'div#contentServices' ).slideDown('slow');
 					break;
 					
 				case 'containerAboutUs':
 					$( 'div#contentAboutUs' ).slideDown('slow');
 					break;
 					
-				case 'containerPartnerEcoSystem':
-					$( 'div#contentPartnerEcoSystem' ).slideDown('slow');
+				case 'containerPartners':
+					$( 'div#contentPartners' ).slideDown('slow');
 					break;
 					
 				case 'containerResources':
@@ -118,16 +161,16 @@
 					$( 'div#contentSolutions' ).slideUp('slow');
 					break;
 					
-				case 'containerHybridHosting':
-					$( 'div#contentHybridHosting' ).slideUp('slow');
+				case 'containerServices':
+					$( 'div#contentServices' ).slideUp('slow');
 					break;
 					
 				case 'containerAboutUs':
 					$( 'div#contentAboutUs' ).slideUp('slow');
 					break;
 					
-				case 'containerPartnerEcoSystem':
-					$( 'div#contentPartnerEcoSystem' ).slideUp('slow');
+				case 'containerPartners':
+					$( 'div#contentPartners' ).slideUp('slow');
 					break;
 					
 				case 'containerResources':
@@ -139,31 +182,36 @@
 		</script>
 		<!-- / site jQuery basic necessities -->
 		
-		<!-- google_tracker -->
-		<script type="text/javascript">
-		/* <![CDATA[ */
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		
-		try {
-			var pageTracker = _gat._getTracker("UA-214832-1");
-			pageTracker._trackPageview();
-		} catch(err) {}
-		/* ]]> */
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<!--/ google_tracker -->
-		
 		<!-- PHP Live! code, (c) OSI Codes Inc. -->
+		</head><body><span id="phplive_btn_1347385994" style="display:none;"></span>
 		<script type="text/javascript" async="true" src="//livechat.rackforce.com/js/phplive_v2.js.php?q=0|1347385994|0|"></script>
 		<!-- / PHP Live! code, (c) OSI Codes Inc. -->
 		
-		</head><body><div id="chat_container" style="position:fixed;left:-340px;top:200px;z-index:1000;">
+		<!-- google_tracker -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-214832-1']);
+		_gaq.push(['_setDomainName', 'rackforce.com']);
+		_gaq.push(['_setAllowLinker', true]);
+		_gaq.push(['_trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		/* ]]> */
+		</script>
+		<!--/ google_tracker -->
+		
+		<div id="chat_container" style="position:fixed;left:-340px;top:200px;z-index:1000;">
 			<div id="chat_content" style="float:left;">
 				<div id="initiate_chat_image">
 					<img src="/images/rf_initiate_chat.png" alt="RackForce Initiate Chat" id="chatImage" usemap="#chat_image" border="1">
 					<map name="chat_image" id="site_popup">
-						<area alt="Live Chat With Sales" title="Live Chat With Sales" shape="rect" coords="120, 225, 210, 245" id="initiate_chat_yes">
-						<area alt="Close Live Chat With Sales" title="Close Live Chat With Sales" shape="rect" coords="225, 225, 315, 245" id="initiate_chat_no">
+						<area alt="Live Chat With Sales" title="Live Chat With Sales" shape="rect" coords="120, 238, 210, 260" id="initiate_chat_yes">
+						<area alt="Close Live Chat With Sales" title="Close Live Chat With Sales" shape="rect" coords="225, 238, 315, 260" id="initiate_chat_no">
 						<area alt="Live Chat With Sales" title="Live Chat With Sales" shape="rect" coords="335, 10, 375, 100" id="initiate_chat_slider">
 						<area alt="Live Chat With Sales" title="Live Chat With Sales" shape="rect" coords="0, 0, 335, 290" id="initiate_chat_area">
 					</map>
@@ -242,113 +290,86 @@
 	    <!-- site header -->
 	    <div id="siteHeader">
 	      <div id="siteHeaderContent">
-	        <a href="/index.html?loc=logo" id="rackforceLogo">Privacy Policy | RackForce Networks Inc.</a>
+	        <a href="/index.html?loc=logo" id="bHeaderLogo">Privacy Policy | RackForce Networks Inc.</a>
 	
-	        <ul class="header-icons">
-	          <li><a href="/index.html?loc=header" id="bHeaderHome" title="Home">Home</a></li>
-	          <li><a href="mailto:sales@rackforce.com" id="bHeaderEmail" title="Email">Email</a></li>
-	          <li><a href="javascript:void(0);" onclick="javascript:phplive_launch_chat_0(0);" id="bHeaderLiveChat" title="Live Chat">Live Chat</a></li>
-	          <li><a href="/contact_form.html?loc=header" id="bHeaderContactUs" title="Contact Us">Contact Us</a></li>
-	          <li><a href="/contact.html?loc=header" id="bHeaderPhone" title="Phone 1-866-468-1158">1-866-468-1158</a></li>
-	        </ul>
-	
+	        <a href="/contact.html?loc=header" id="bHeaderPhone" title="Phone 1-866-468-1158">1-866-468-1158</a>
+	        	        
 	        <!-- primary navigation container -->
 	        <ul id="priNav">
-	        	 <li id="containerHybridHosting">
-	             	<a id="headerHybridHosting" href="/hybrid_hosting.html?loc=mainmenu">Services</a>
-	             	<div id="contentHybridHosting">
-		             	<div class="menuColumn first" style="width:30%;height:250px;">
-							<h3 class="menuTitle first">Cloud Computing</h3>
+	        	 <li id="containerServices">
+	             	<a id="headerServices">Services</a>
+	             	<div id="contentServices">
+		             	<div class="menuColumn first">
+		             		<h3 class="menuTitle first"><a href="/hybrid_hosting.html?loc=mainmenu">Hybrid Hosting</a></h3>
+		             		
+							<h3 class="menuTitle">Cloud Computing</h3>
 							<ul class="menuItem">
-								<li><a href="/dds_cloud.html?loc=mainmenu">Cloud Servers</a></li>
-								<li><a href="/vcloud/overview.html?loc=mainmenu">vCloud Resource Pools</a></li>
-								<li><a href="/dynamic_dedicated_servers.html?loc=mainmenu">Dedicated Servers</a></li>
+								<li><a href="/cloud/overview.html?loc=mainmenu">Cloud Servers</a></li>
+								<li><a href="/cloud_express/overview.html?loc=mainmenu">Cloud-Express Servers</a></li>
+								<li><a href="/vcloud/overview.html?loc=mainmenu">Virtual Data Centers</a></li>
+								<li><a href="/dedicated_servers/overview.html?loc=mainmenu">Dedicated Servers</a></li>
 							</ul>
 							
-							<h3 class="menuTitle"><a href="/storage_solutions.html?loc=mainmenu">Storage Solutions</a></h3>
+							<h3 class="menuTitle">Colocation</h3>
 							<ul class="menuItem">
+								<li><a href="/colocation/overview.html?loc=mainmenu">Colocation</a></li>
+							</ul>
+						</div>	
+							
+						<div class="menuColumn">
+							<h3 class="menuTitle first"><a href="/storage_solutions.html?loc=mainmenu">Storage Solutions</a></h3>
+							<ul class="menuItem">
+								<li><a href="/tivoli_backups_archives.html?loc=mainmenu">Tivoli Storage Manager</a></li>
 								<li><a href="/cloud_backup.html?loc=mainmenu">RackForce Cloud Backup</a></li>
 								<li><a href="/storage_services/overview.html?loc=mainmenu">Storage Services</a></li>
 							</ul>
-							<h3 class="menuTitle">Colocation</h3>
+							
+							<h3 class="menuTitle">Managed Services</h3>
 							<ul class="menuItem">
-								<li><a href="/colocation.html?loc=mainmenu">Colocation</a></li>
+								<li><a href="/managed_support/overview.html?loc=mainmenu">Managed Services</a></li>
 							</ul>
 						</div>
 						
-						<div class="menuColumn" style="width:30%;height:250px;">
+						<div class="menuColumn last">
 							<h3 class="menuTitle first">Network Services</h3>
 							<ul class="menuItem">
 								<li><a href="/network_services.html?loc=mainmenu">Network Services Overview</a></li>
 								<li><a href="/network_advantages.html?loc=mainmenu">Network Features</a></li>
 								<li><a href="/bandwidth_options.html?loc=mainmenu">Bandwidth Options</a></li>
-								<li><a href="/virtual_firewall.html?loc=mainmenu">UTM (Firewall &amp; more)</a></li>
+								<li><a href="/virtual_firewall.html?loc=mainmenu">Unified Threat Management</a></li>
 							</ul>
-							
-							<h3 class="menuTitle">Managed Services</h3>
-							<ul class="menuItem">
-								<li><a href="/support_matrix.html?loc=mainmenu">Managed Services Matrix</a></li>
-							</ul>
-							
-							<h3 class="menuTitle">Backup Services</h3>
-							<ul class="menuItem">
-								
-								<li><a href="/tivoli_backups_archives.html?loc=mainmenu">Tivoli Storage Manager (TSM)</a></li>
-							</ul>
-						</div>
-						
-						<div class="menuColumn last ads" style="width:30%;height:250px;">
-							<img src="/images/menu/vcloud-powered_cisco.gif" alt="vCloud Powered | Cisco" title="vCloud Powered | Cisco">
 						</div>
 						
 						<div class="clearBothNoSPC"></div>
 					</div>
 	             </li>
+	             
 	             <li id="containerSolutions">
-	             	<a id="headerSolutions" href="/solutions.html?loc=mainmenu">Solutions</a>
+	             	<a id="headerSolutions">Solutions</a>
 	             	<div id="contentSolutions">
-				        <div class="menuColumn first" style="width:30%;height:220px;">
-							<h3 class="menuTitle first">RackForce Solutions</h3>
+				        <div class="menuColumn first">
+							<h3 class="menuTitle first"><a href="/solutions.html?loc=mainmenu">RackForce Solutions</a></h3>
 							
 							<ul class="menuItem">
 								<li><a href="/solutions.html?loc=mainmenu">RackForce Solutions Overview</a></li>
-								<li><a href="/virtual_datacenter.html?loc=mainmenu">Virtual Datacenter</a></li>		
-								<li>
-									<a href="/disaster_recovery.html?loc=mainmenu">Disaster Recovery</a>
-									<ul class="menuSubItem">
-										<li>» &nbsp;<a href="/disaster_recovery.html#colocation?loc=mainmenu">Colocation</a></li>
-										<li>» &nbsp;<a href="/disaster_recovery.html#srm?loc=mainmenu">VMware Site Recovery Manager</a></li>
-										<li>» &nbsp;<a href="/disaster_recovery.html#workarea?loc=mainmenu">Work Area Recovery</a></li>
-										<li>» &nbsp;<a href="/disaster_recovery.html#hitch?loc=mainmenu">Hitching Post for Mobile Recovery Trailers</a></li>
-										<li>» &nbsp;<a href="/disaster_recovery.html#consult?loc=mainmenu">Consulting</a></li>
-									</ul>
-								</li>
-							</ul>	
-						</div>
-						
-						<div class="menuColumn" style="width:30%;height:220px;">
-							<ul class="menuItem">		
+								<li><a href="/disaster_recovery/overview.html?loc=mainmenu">Disaster Recovery &amp; Resiliency Services</a></li>	
 								<li>
 									<a href="/security.html?loc=mainmenu">Security</a>
 									<ul class="menuSubItem">
-										<li>» &nbsp;<a href="/security.html#physical?loc=mainmenu">Physical</a></li>
-										<li>» &nbsp;<a href="/security.html#processes?loc=mainmenu">Security Processes</a></li>
-										<li>» &nbsp;<a href="/security.html#network?loc=mainmenu">Network Security</a></li>
-										<li>» &nbsp;<a href="/security.html#cloud?loc=mainmenu">Cloud Services</a></li>
-									</ul>
-								</li>		
+										<li>» &nbsp;<a href="/security.html?loc=mainmenu#physical">Physical</a></li>
+										<li>» &nbsp;<a href="/security.html?loc=mainmenu#processes">Security Processes</a></li>
+										<li>» &nbsp;<a href="/security.html?loc=mainmenu#network">Network Security</a></li>
+										<li>» &nbsp;<a href="/security.html?loc=mainmenu#cloud">Cloud Services</a></li>
+									</ul>	
+								</li>
 							</ul>	
-						</div>
-						
-						<div class="menuColumn ads last" style="width:30%;height:220px;">
-							<img src="/images/menu/rackforce-certified.gif" alt="RackForce Certified" title="RackForce Certified">
 						</div>
 					</div>
 	             </li>
 	             <li id="containerAboutUs">
-	             	<a id="headerAboutUs" href="/about_us.html?loc=mainmenu">About Us</a>
+	             	<a id="headerAboutUs">About Us</a>
 	             	<div id="contentAboutUs">
-		             	<div class="menuColumn first" style="width:30%;height:230px;">
+		             	<div class="menuColumn first">
 							<h3 class="menuTitle first">Why Rackforce</h3>
 							<ul class="menuItem">
 								<li><a href="/why_rackforce.html?loc=mainmenu">Why RackForce Overview</a></li>
@@ -356,8 +377,10 @@
 								<li><a href="/testimonials.html?loc=mainmenu">Testimonials</a></li>
 								<li><a href="/contact.html?loc=mainmenu">Contact Us</a></li>
 							</ul>
-							
-							<h3 class="menuTitle">About Rackforce</h3>
+						</div>
+						
+						<div class="menuColumn last">
+							<h3 class="menuTitle first">About Rackforce</h3>
 							<ul class="menuItem">
 								<li><a href="/about_us.html?loc=mainmenu">About RackForce Overview</a></li>
 								<li><a href="/executive_team.html?loc=mainmenu">Executive Team</a></li>
@@ -367,20 +390,15 @@
 							</ul>
 						</div>
 						
-						<div class="menuColumn last ads" style="width:30%;height:230px;">
-							<a href="/certifications.html?loc=ads">
-								<img src="/images/certifications/TypeIISSAE16SOC1Seal.png" alt="Type II SSAE 16 SOC 1 (Formerly SAS 70) Certification | CICA 5970 Type B Certification" title="Type II SSAE 16 SOC 1 (Formerly SAS 70) Certification | CICA 5970 Type B Certification" width="200" height="200">
-							</a>
-						</div>
-						
 						<div class="clearBothNoSPC"></div>
 					</div>
 	             </li>
-	             <li id="containerPartnerEcoSystem">
-	             	<a id="headerPartnerEcoSystem" href="/partner_eco_system.html?loc=mainmenu">Partner Eco System</a>
-	             	<div id="contentPartnerEcoSystem">
-	             		<div class="menuColumn first" style="width:30%;height:75px;">
-							<h3 class="menuTitle first">RackForce Partners</h3>
+	             
+	             <li id="containerPartners">
+	             	<a id="headerPartners">Partners</a>
+	             	<div id="contentPartners">
+	             		<div class="menuColumn first">
+							<h3 class="menuTitle first"><a href="/partner_eco_system.html?loc=mainmenu">RackForce Partners</a></h3>
 							<ul class="menuItem">
 								<li><a href="/partner_eco_system.html?loc=mainmenu">RackForce Partners Overview</a></li>
 								<li><a href="/technology_partners.html?loc=mainmenu">Technology Partners</a></li>
@@ -390,27 +408,30 @@
 						<div class="clearBothNoSPC"></div>
 	             	</div>
 	             </li>
+	             
 	             <li id="containerResources">
-	             	<a id="headerResources" href="/customer_resources.html?loc=mainmenu">Resources</a>
+	             	<a id="headerResources">Resources</a>
 	             	<div id="contentResources">
-	             		<div class="menuColumn first" style="width:30%;height:200px;">
-							<h3 class="menuTitle first">RackForce Resources</h3>
+	             		<div class="menuColumn first">
+							<h3 class="menuTitle first"><a href="/customer_resources.html?loc=mainmenu">RackForce Resources</a></h3>
 							<ul class="menuItem">
 								<li><a href="/information_center.html?loc=mainmenu">Information &amp; Downloads</a></li>
 								<li><a href="/blog/index.php?loc=mainmenu">Blog</a></li>
 								<li><a href="/contact.html?loc=mainmenu">Contact Us</a></li>
 							</ul>
-							
-							<h3 class="menuTitle">Terms &amp; Conditions</h3>
+						</div>
+						
+						<div class="menuColumn">
+							<h3 class="menuTitle first">Terms &amp; Conditions</h3>
 							<ul class="menuItem">
-								<li><a href="/master_service_agreement.html?loc=mainmenu">Master Service Agreement (MSA)</a></li>
-								<li><a href="/acceptable_use_policy.html?loc=mainmenu">Acceptable Use Policy (AUP)</a></li>
+								<li><a href="/master_service_agreement.html?loc=mainmenu">Master Service Agreement</a></li>
+								<li><a href="/acceptable_use_policy.html?loc=mainmenu">Acceptable Use Policy</a></li>
 								<li><a href="/privacy_policy.html?loc=mainmenu">Privacy Policy</a></li>
 							</ul>
 						</div>
 						
-						<div class="menuColumn last" style="width:60%;height:200px;">
-							<h3 class="menuTitle first">Customer Service Center (CSC)</h3>
+						<div class="menuColumn last">
+							<h3 class="menuTitle first">Customer Service Center</h3>
 							<ul class="menuItem">
 								<li><a href="https://support.rackforce.com">CSC Login</a></li>
 								<li><a href="/csc_features.html?loc=mainmenu">CSC Features</a></li>
@@ -514,21 +535,7 @@
 				/**
 				 * auto-open the submenu of appropriate section when applicable 
 				 */
-				// gets the current full url
-				var current_url = document.location.href;
-				
-				// removes the anchor at the end, if there is one
-				var anchor = ((current_url.indexOf("#") == -1) ? "" : current_url.substring(current_url.indexOf("#"), current_url.length)).trim();
-				anchor = ((anchor == "#") ? "" : anchor);
-				current_url = current_url.substring(0, (current_url.indexOf("#") == -1) ? current_url.length : current_url.indexOf("#"));
-				
-				// removes the query after the file name, if there is one
-				current_url = current_url.substring(0, (current_url.indexOf("?") == -1) ? current_url.length : current_url.indexOf("?"));
-				
-				//this removes everything before the last slash in the path
-				current_url = current_url.substring(current_url.lastIndexOf("/") + 1, current_url.length);
-				
-				filename = current_url + anchor;
+				filename = window.location.pathname;
 
 				// if the link is level 2
 				if ($('a[href*="' + filename + '"]').hasClass("handle-sidemenu-2"))
@@ -626,29 +633,28 @@
 	
         <div id="pageFooterArea">
             <div id="footerSubMenuBoxes">				
-				<div class="submenu-box">
-					<h3>Green IT</h3>
+				<div class="submenu-box first">
+					<h3>Custom Solutions</h3>
 					<p>
-						This industry it is one of the largest contributors of CO2. We aim to change that with our 
-						truly <a class="submenu-box-link" href="/green_it.html?loc=footerbox">Green IT</a> program.
+						Get assistance from one of <a href="/contact_form.html">our Sales Representatives</a> to tailor a custom solution for your unique needs.
 					</p>
 				</div>
 				
-				<div class="submenu-box">
+				<div class="submenu-box second">
 					<h3>News</h3>
 					<p>
-						 [Vancouver, B.C. –&nbsp;April 12, 2012] DTM Systems Corporation is pleased to announce their strategic partnership... <a class="submenu-box-link" href="/in_the_news.html">more</a>... 
+						 RackForce announced today it has launched a new version of it’s Virtual Data Center Services that provides... <a class="submenu-box-link" href="/in_the_news.html">more</a>... 
 					</p>
 				</div>
 				
-				<div class="submenu-box">
+				<div class="submenu-box third">
 					<h3>Testimonials</h3>
 					<p>
-						 The difference between hosting providers is not the machines they use, the bandwidth they offer - or even the pricing.... <a class="submenu-box-link" href="/testimonials.html#testimonial-74">more</a>...  
+						 A professional and courteous company with a great support... <a class="submenu-box-link" href="/testimonials.html#testimonial-116">more</a>...  
 					</p>
 				</div>
 				
-				<div class="submenu-box">
+				<div class="submenu-box fourth">
 					<h3>Certifications</h3>
 					<p>
 						See our <a class="submenu-box-link" href="/certifications.html?loc=footerbox">certifications</a> and feel more confident in 
@@ -659,88 +665,102 @@
 				<br class="clearBothNoSPC">
             </div>
 
+            <br class="clearBothNoSPC">
+            
             <div id="footerSitemap">
-                <ul class="sitemap-links">
-                	<li><a href="/hybrid_hosting.html?loc=footer"><h4>RackForce Services</h4></a></li>
-                    <li><h5 class="first">Cloud Computing</h5></li>
-                    <li><a href="/dds_cloud.html?loc=footer">Cloud Servers</a></li>
-                    <li><a href="/vcloud/overview.html?loc=footer">vCloud Resource Pools</a></li>
-					<li><a href="/dynamic_dedicated_servers.html?loc=footer">Dedicated Servers</a></li>
-					<li><a href="/storage_solutions.html?loc=footer"><h5>Storage Solutions</h5></a></li>
-                    <li><a href="/cloud_backup.html?loc=footer">RackForce Cloud Backup</a></li>
-					<li><a href="/storage_services/overview.html?loc=footer">Storage Services</a></li>
-					<li><h5>Colocation</h5></li>
-                    <li><a href="/colocation.html?loc=footer">Colocation</a></li>
-               </ul>    
-                   
-               <ul class="sitemap-links">
-               		<li><h5 class="first">Network Services</h5></li>
-                    <li><a href="/network_services.html?loc=footer">Network Services Overview</a></li>
-                    <li><a href="/network_advantages.html?loc=footer">Network Features</a></li>
-                    <li><a href="/bandwidth_options.html?loc=footer">Bandwidth Options</a></li>
-                    <li><a href="/virtual_firewall.html?loc=footer">UTM (Firewall &amp; more)</a></li>
-                    <li><h5>Managed Services</h5></li>
-                    <li><a href="/support_matrix.html?loc=footer">Managed Services Matrix</a></li>
-                    <li><h5 class="first">Backup Services</h5></li>
-                    <li><a href="/tivoli_backups_archives.html?loc=footer">Tivoli Storage Manager (TSM)</a></li>
-                </ul>
-	
-                <ul class="sitemap-links">
-                	<li><h4>RackForce Solutions</h4></li>
-                    <li><a href="/solutions.html?loc=footer">Solutions Overview</a></li>
-                    <li><a href="/virtual_datacenter.html?loc=footer">Virtual Datacenter</a></li>
-                    <li><a href="/disaster_recovery.html?loc=footer">Disaster Recovery</a></li>
-                    <li><a href="/security.html?loc=footer">Security</a></li>
-                    <li>&nbsp;</li>
-                	<li><a href="/about_us.html?loc=footer"><h4>About Us</h4></a></li>
-                    <li><h5 class="first">Why RackForce?</h5></li>
-                    <li><a href="/why_rackforce.html?loc=footer">Why RackForce Overview</a></li>
-                    <li><a href="/green_it.html?loc=footer">Green IT</a></li>
-                    <li><a href="/testimonials.html?loc=footer">Testimonials</a></li>
-                    <li><a href="/contact.html?loc=footer">Contact Us</a></li>
-				</ul>
-                
-                <ul class="sitemap-links">
-                	<li><h5 class="first">About RackForce</h5></li>
-                    <li><a href="/about_us.html?loc=footer">About RackForce Overview</a></li>
-				    <li><a href="/executive_team.html?loc=footer">Executive Team</a></li>
-				    <li><a href="/certifications.html?loc=footer">Certifications</a></li>
-				    <li><a href="/in_the_news.html?loc=footer">In the News</a></li>
-				    <li><a href="/employment_opportunities.html?loc=footer">Employment Opportunities</a></li>
-				    <li>&nbsp;</li>
-                	<li><a href="/partner_eco_system.html?loc=footer"><h4>Partner Eco System</h4></a></li>
-                    <li><h5 class="first">RackForce Partners</h5></li>
-                    <li><a href="/partner_eco_system.html?loc=footer">RackForce Partners Overview</a></li>
-                    <li><a href="/technology_partners.html?loc=footer">Technology Partners</a></li>
-				</ul>
-                
-                <ul class="sitemap-links">
-                	 <li><a href="/customer_resources.html?loc=footer"><h4>Resources</h4></a></li>
-                    <li><h5 class="first">RackForce Resources</h5></li>
-                    <li><a href="/information_center.html?loc=footer">Information &amp; Downloads</a></li>
-                    <li><a href="/blog/index.php?loc=footer">Blog</a></li>
-                    <li><a href="/contact.html?loc=footer">Contact Us</a></li>
-                    <li><h5 class="first">Terms &amp; Conditions</h5></li>
-                    <li><a href="/master_service_agreement.html?loc=footer">Master Service Agreement (MSA)</a></li>
-                    <li><a href="/acceptable_use_policy.html?loc=footer">Acceptable Use Policy (AUP)</a></li>
-                    <li><a href="/privacy_policy.html?loc=footer">Privacy Policy</a></li>
-                    <li><h5>Customer Service Center (CSC)</h5></li>
-                    <li><a href="https://support.rackforce.com">CSC Login</a></li>
-                    <li><a href="/csc_features.html?loc=footer">CSC Features</a></li>
-				</ul>	
-				
-				<br class="clearBothNoSPC">
+            	<div class="sitemap-links">
+            		<ul class="sitemap-links">
+	                	<li><h5>Cloud Computing</h5></li>
+	                	<li><a href="/solutions.html?loc=footer">Overview</a></li>
+	                	<li><a href="/hybrid_hosting.html?loc=footer">Hybrid Hosting</a></li>
+	                    <li><a href="/cloud/overview.html?loc=footer">Cloud Servers</a></li>
+	                    <li><a href="/cloud_express/overview.html?loc=footer">Cloud-Express Servers</a></li>
+	                    <li><a href="/vcloud/overview.html?loc=footer">Virtual Data Centers</a></li>
+	                    <li><a href="/dedicated_servers/overview.html?loc=footer">Dedicated Servers</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+            			<li><h5>Storage Solutions</h5></li>
+            			<li><a href="/storage_solutions.html?loc=footer">Overview</a></li>
+						<li><a href="/tivoli_backups_archives.html?loc=footer">Tivoli Storage Manager</a></li>
+	                    <li><a href="/cloud_backup.html?loc=footer">Cloud Backup</a></li>
+						<li><a href="/storage_services/overview.html?loc=footer">Storage Services</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+            			<li><h5>Colocation</h5></li>
+                    	<li><a href="/colocation/overview.html?loc=footer">Colocation</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+            			<li><h5>Network Services</h5></li>
+	                    <li><a href="/network_services.html?loc=footer">Overview</a></li>
+	                    <li><a href="/network_advantages.html?loc=footer">Network Features</a></li>
+	                    <li><a href="/bandwidth_options.html?loc=footer">Bandwidth Options</a></li>
+	                    <li><a href="/virtual_firewall.html?loc=footer">Unified Threat Management</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+            			<li><h5>Services</h5></li>
+            			<li><a href="/managed_support/overview.html?loc=footer">Server Management</a></li>
+	                    <li><a href="/managed_support/overview.html?loc=footer">Network Management</a></li>
+	                    <li><a href="/disaster_recovery/overview.html?loc=footer">Disaster Recovery &amp; Resiliency Services</a></li>
+	                    <li><a href="/security.html?loc=footer">Security &amp; Compliance</a></li>
+					</ul>
+            	</div>
+            	
+            	<br class="clearBothNoSPC">
+            	
+            	<div class="sitemap-links-block">
+					<ul class="sitemap-links">
+						<li><h5>About Us</h5></li>
+						<li><a href="/about_us.html?loc=footer">About RackForce</a></li>
+						<li><a href="/why_rackforce.html?loc=footer">Why RackForce</a></li>
+						<li><a href="/green_it.html?loc=footer">Green IT</a></li>
+						<li><a href="/testimonials.html?loc=footer">Testimonials</a></li>
+						<li><a href="/contact.html?loc=footer">Contact Us</a></li>
+						<li><a href="/executive_team.html?loc=footer">Executive Team</a></li>
+						<li><a href="/certifications.html?loc=footer">Certifications</a></li>
+						<li><a href="/in_the_news.html?loc=footer">In the News</a></li>
+					    <li><a href="/employment_opportunities.html?loc=footer">Employment Opportunities</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+						<li><h5>Terms &amp; Conditions</h5></li>
+	                    <li><a href="/master_service_agreement.html?loc=footer">Master Service Agreement</a></li>
+	                    <li><a href="/acceptable_use_policy.html?loc=footer">Acceptable Use Policy</a></li>
+	                    <li><a href="/privacy_policy.html?loc=footer">Privacy Policy</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+						<li><h5>Resources</h5></li>
+						<li><a href="/customer_resources.html?loc=footer">RackForce Resources</a></li>
+	                    <li><a href="/information_center.html?loc=footer">Information &amp; Downloads</a></li>
+	                    <li><a href="/blog/index.php?loc=footer">Blog</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+						<li><h5>RackForce Partners</h5></li>
+	                    <li><a href="/partner_eco_system.html?loc=footer">RackForce Partners Eco System</a></li>
+	                    <li><a href="/technology_partners.html?loc=footer">Technology Partners</a></li>
+					</ul>
+					
+					<ul class="sitemap-links">
+            			<li><h5>Customer Service Center</h5></li>
+            			<li><a href="https://support.rackforce.com">CSC Login</a></li>
+	                    <li><a href="/csc_features.html?loc=footer">CSC Features</a></li>
+					</ul>
+            	</div>
+            	
+            	<br class="clearBothNoSPC">
 			</div>
             
 		
             <div id="footerEnding">
-                <div id="copyright">
-                    <p class="copyright-text">Copyright © <span id="copyrightYear">2020</span> RackForce Networks Inc. All rights reserved.</p>
-                </div>
                 <div id="external-links">
                     <p>Follow us in Social Media</p>
                     <ul>
-                      <li><a href="http://www.facebook.com/pages/RackForce-Networks-Inc/140550869310254" class="facebook">facebook</a></li>
+                      <li><a href="http://www.facebook.com/pages/RackForce-Networks-Inc/18989253862" class="facebook">facebook</a></li>
                       <li><a href="http://twitter.com/rackforce" class="twitter">twitter</a></li>                       
                       <li><a href="http://www.linkedin.com/company/rackforce-networks-inc%2e" class="linkedin">linkedin</a></li>
                       <li><a href="http://www.youtube.com/RackForce" class="youtube">youtube</a></li>
@@ -750,7 +770,7 @@
             
         </div>	
 		<!-- / site footer -->
-
+		
        	<!-- ActOn Software -->
 		<script type="text/javascript">
 		/* <![CDATA[ */
@@ -761,7 +781,7 @@
 			'&ref='+escape(document.referrer) + '">'
 		);
 		/* ]]> */
-		</script><img src="https://www.actonsoftware.com/acton/bn/1899/visitor.gif?ts=1582517729953&amp;ref=">
+		</script><img src="https://www.actonsoftware.com/acton/bn/1899/visitor.gif?ts=1582517720036&amp;ref=">
 		<!--/ ActOn Software -->
     
 
