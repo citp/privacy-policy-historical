@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231200019id_/http%3A//www.ewrestlingnews.com/site/page%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502234314id_/http%3A//www.ewrestlingnews.com/site/page%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # eWrestlingNews.com - Privacy
 
@@ -15,6 +15,8 @@ We only collect personal information that is relevant to the purpose of our webs
 
 **Partners**  
 We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
 
 **E-mail Communications**  
 eWrestlingNews is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. eWrestlingNews may send out e-mails with eWrestlingNews-related news, products, offers, surveys or promotions. 
@@ -56,4 +58,4 @@ eWrestlingNews may amend this Privacy Policy from time to time, at its sole d
 **Conditions of Use**   
 If you decide to visit eWrestlingNews website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
 
-Effective Date of this Privacy Policy  This Privacy Policy is effective as of March 8th, 2012 and last updated March 8th, 2012. 
+Effective Date of this Privacy Policy  This Privacy Policy is effective as of March 13th, 2013 and last updated March 8th, 2012. 
