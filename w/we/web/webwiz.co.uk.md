@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920090740id_/http%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502105936id_/http%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Web Wiz Data Protection and Privacy Policy
 
@@ -43,14 +43,7 @@ By their very nature the Forum, Guestbook, Listing Directories, etc. are open to
 Parents or guardians that find that their children have given private information in accessing any parts of 'Web Wiz' can request that this information be destroyed by emailing using the [contact us form](https://web.archive.org/contact/). 
 
   6. **Cookies**  
-Each website owned and operated by 'Web Wiz' uses cookies. A cookie is a small text file of which there are two types:  
-**  
-Session cookies:** These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation. These are required for the site to function for example when you login into client or forum areas of the website or make a purchase. 
-
-**Permanent cookies:** These store data on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. For instance when you login into the support or community forums a cookie is created to maintain your login to the system. 
-
-You can block cookies but they are required for certain parts if the site to work correctly and will enhance your experience when using the web site. 
-
+Web Wiz uses small bits of data stored on your computer called 'cookies'. Find out what Web Wiz uses them for, and how to control their use at our '[How cookies are used by Web Wiz](https://web.archive.org/web/20130502105936id_/http%3A//www.webwiz.co.uk/legal/cookies.htm)' Page.
   7. **Data**  
 In the UK we operate and are registered in accordance with applicable data protection legislation.
   8. **Consent**  
