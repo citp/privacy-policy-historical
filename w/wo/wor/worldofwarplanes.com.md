@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofwarplanes.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211185204id_/http%3A//worldofwarplanes.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwarplanes.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502073746id_/http%3A//worldofwarplanes.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Warplanes
 
@@ -12,7 +12,7 @@ THE USE OF OUR SERVICES, GAMES, AND WEB SITES ARE SUBJECT TO AGREEMENT TO THE TE
 
 WN is committed to ensuring your privacy and protecting the security of your personal information. This Policy covers the public WN websites – including, but not limited to [http://www.wargaming.net](http://www.wargaming.net/), [http://www.worldofwarplanes.com](http://www.worldofwarplanes.com/), and [http://www.worldofwarplanes.ru](http://www.worldofwarplanes.ru/) sites (collectively, the "Website") — and all online forms on the Website used to collect personal information.
 
-If you have any comments or questions regarding our Policy, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. ****
+If you have any comments or questions regarding our Policy, please contact us at [privacy@wargamingamerica.com ](mailto:privacy@wargaming.net). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. ** **
 
 **If you do not agree with any terms or conditions described in this Policy or the[Terms of Service](http://worldofwarplanes.com/en/terms_of_service), please exit from the Website.**
 
@@ -92,6 +92,4 @@ This Policy may change from time to time, so please check back periodically to e
 
 **10\. Contact Us**
 
-If you have any questions, complaints, or comments regarding this Policy, or have other questions or suggestions about our Website, please email us to [privacy@wargaming.net](mailto:privacy@wargaming.net).
-
-**©** 2008-2012 Wargaming.net LLP. All rights reserved. Wargaming.net and logo Wargaming.net are the trademarks of  Wargaming.net LLP. ****
+If you have any questions, complaints, or comments regarding this Policy, or have other questions or suggestions about our Website, please email us to [privacy@wargamingamerica.com ](mailto:privacy@wargaming.net).
