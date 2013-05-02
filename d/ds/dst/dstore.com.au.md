@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915021249id_/http%3A//dstore.com/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502120013id_/http%3A//dstore.com/help/privacy_policy.html) for the most accurate reproduction.*
 
 # dstore Help: Privacy Policy
 
