@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021164632id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502225243id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
 
 # Memory upgrades from Crucial.com - Crucial's Privacy Policy
 
@@ -67,11 +67,11 @@ If you want to change or modify information you have previously provided to us, 
   * **Compliance Hotline**  
 Micron believes in ethical business practices.  You may review our [Code of Business Conduct and Ethics](http://www.micron.com/about/our-commitment/governance/ethics) and if you have any concerns, please contact us as described above or you may contact our [Compliance Hotline](https://secure.ethicspoint.com/domain/media/en/gui/8715/index.html).
   * **U.S. Commerce Department Safe Harbor Principles**  
-Micron adheres to the U.S. Commerce Department Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+Micron adheres to the U.S. Commerce Department European Union and Switzerland Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/). 
 
-In compliance with the US-EU Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Micron at [privacy@micron.com](mailto:privacy@micron.com). 
+In compliance with the European and Switzerland Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Micron at [privacy@micron.com](mailto:privacy@micron.com). 
 
-Micron has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Micron has further committed to refer unresolved privacy complaints under the European Union and Switzerland Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 
 
