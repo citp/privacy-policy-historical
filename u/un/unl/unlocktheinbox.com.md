@@ -1,50 +1,6 @@
-> *The following text is extracted and transformed from the unlocktheinbox.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010204910id_/http%3A//www.unlocktheinbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlocktheinbox.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502213644id_/http%3A//unlocktheinbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Unlock The Inbox
-
-|  Resources   
----  
-[Can Spam Act](https://web.archive.org/resources/canspamact/ "Can Spam Act")  
-[Securing Your Server](https://web.archive.org/resources/secureyourserver/ "Securing Your Server")  
-[How Email Works](https://web.archive.org/resources/howemailworks/ "How Email Works")  
-   
-How To Set Up   
-[DMARC Records](https://web.archive.org/resources/dmarc/ "DMARC")  
-[SPF Records](https://web.archive.org/resources/spfrecords/ "SPF Records")  
-[MX Records](https://web.archive.org/resources/mxrecords/ "MX Records")  
-[PTR Records](https://web.archive.org/resources/ptrrecords/ "PTR Records")  
-[DomainKeys](https://web.archive.org/resources/domainkeys/ "Domain Keys")  
-[DKIM Signatures](https://web.archive.org/resources/dkim/ "DKIM Signatures")  
-[Sender ID](https://web.archive.org/resources/senderid/ "Sender ID")  
-[ADSP Records](https://web.archive.org/resources/adsp/ "ADSP Author Domain Signing Practices")  
-[Feedback Loops](https://web.archive.org/resources/feedbackloops/ "Feedback Loops")  
-[Abuse Contacts](https://web.archive.org/resources/abusecontacts/ "Abuse Contacts")  
-[SRS](https://web.archive.org/resources/srs/ "SRS - Sender Rewriting Scheme")  
-   
-Verifying Your   
-[Email Authentication](https://web.archive.org/resources/emailauthentication/ "Feedback Loops")  
-[Identifier Alignments](https://web.archive.org/resources/identifieralignments/ "ADSP Author Domain Signing Practices")  
-   
-How To Avoid   
-[Spam Filters](https://web.archive.org/resources/spamfilters/ "Spam Filters")  
-[Being Blacklisted](https://web.archive.org/resources/beingblacklisted/ "Being Blacklisted")  
-[Losing Reputation](https://web.archive.org/resources/losingreputation/ "Losing Reputation")  
-[Being an Open Relay](https://web.archive.org/resources/openrelay/ "Being an Open Relay")  
-   
-Formatting Email   
-[For Email Clients](https://web.archive.org/resources/forclients/ "Email For Clients")  
-[For Devices](https://web.archive.org/resources/fordevices/ "Email For Devices")  
-[For Browsers](https://web.archive.org/resources/forbrowsers/ "Email For Browsers")  
-   
-What Are Email   
-[Bounces](https://web.archive.org/resources/bounces/ "Email Bounces")  
-[Opens Rates](https://web.archive.org/resources/openrates/ "Email Opens Rates")  
-[Clickthrough Rates](https://web.archive.org/resources/clickthroughrates/ "Email Click Throughs")  
-[Email Headers](https://web.archive.org/resources/emailheaders/ "Email Headers")  
-  
-  
-  
-## Privacy Notice
 
 This privacy notice discloses the privacy practices for [www.unlocktheinbox.com](http://www.unlocktheinbox.com/ "Unlock The Inbox"). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -91,5 +47,3 @@ In order to use this website, a user must first complete the registration form. 
 ### Links 
 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
-
-| 
