@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the brennancenter.org privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503004313id_/http%3A//www.brennancenter.org/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Brennan Center for Justice
+
+Thank you for visiting [www.brennancenter.org](http://www.brennancenter.org/), the official website of Brennan Center for Justice at New York University School of Law.  This online privacy statement (“Privacy Statement”) describes how we treat all user data collected during visits to our website, including both technical data that is automatically collected from all users (“Automatically Collected Data”), and voluntarily submitted data (“Voluntarily Submitted Data”).   We may occasionally update this Privacy Statement and information submitted by our users after such updates will be handled in accordance with the posted updates.
+
+Automatically Collected Data: we automatically collect and store Internet Protocol (“IP”) addresses and domain names of visitors’ computers on our server.  We also track the number, frequency and length of visits to each page.  If you visit our website from another website link, we may also identify that source link. Automatically Collected Data is used to determine which sections of our website are most visited and by whom in order to make our website a more useful resource.
+
+Voluntarily Submitted Data: When you submit information to us in order to subscribe to our email alerts or newsletters, or make a donation, or register for an event, we will collect and store this data, including your name, address, and email. Voluntarily Submitted Data is used primarily to fulfill the request for which you submitted the data, such as to confirm your attendance at an event, process your donation, and ensure you receive requested email alerts and newsletters.  Such data may also be used to provide information about events and news at the Brennan Center and to send requests for additional support for the Brennan Center, though you may opt out of these at any time.  We do not use data submitted by non-U.S. users for any purpose except for that for which it was originally intended, regardless of whether you request to opt-out of further correspondence.
+
+### Sharing Collected Data
+
+We use third party services to help us with fundraising, communications and maintaining our website that may have access to your data for the purpose of providing these services.  They are contractually prohibited from sharing your data with any third parties.  We do not share your Voluntarily Submitted Data with any other person or firm.
