@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015192913id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502184824id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ We may disclose certain personal information as follows:
 \- to third party service providers and to affiliated entities in order to carry out work on our behalf,  
 \- to law enforcement agencies for the purposes of investigating fraud or other offences, or  
 \- to legal, financial, and other professional advisors or in connection with the sale or reorganization of all or part of its business or operations.  
-\- By having your mobile number listed on clickindia.com, you agree to receive SMS from users who may wish to contact you through the site.  
+\- By having your mobile number listed on clickindia.com, you agree to receive communication from third parties who may wish to contact you through the site.  
 Except as provided above, we will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required or permitted by law.  
 
 
