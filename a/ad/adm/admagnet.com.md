@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admagnet.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919210059id_/http%3A//www.admagnet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admagnet.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502101329id_/http%3A//admagnet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AD MAGNET
 
@@ -26,11 +26,6 @@ You may Opt out of receiving Ad Magnet cookies by [](http://n.admagnet.net/panda
 You can also Opt out of receiving cookies from Ad Magnet by 
 
 [_clicking here_ ](http://n.admagnet.net/panda/www/delivery/optout.php)
-
-You may Opt in of receiving Ad Magnet cookies by [](http://n.admagnet.net/panda/www/delivery/optin.php)  
-You can also Opt in of receiving cookies from Ad Magnet by 
-
-[_clicking here_ ](http://n.admagnet.net/panda/www/delivery/optin.php)
 
 Through this opt-out procedure, your computer will request an "opt-out cookie" ID tag that will prevent your anonymous data from being matched to your computer and thereby prevent us from using that data to deliver targeted advertising or other content to your computer's browser. Please note that this opt-out process will erase the cookie ID associated with your computer but not the cookie itself - the cookie itself must remain on your computer in order for us to recognize you as an opt-out user. This means that if you use multiple computers or multiple browsers you will need to opt out of receiving cookies on each computer and for each browser. Also, if you change computers or delete cookies from your computer you will need to repeat this opt-out process.  
 Personal Information Collected by our Service helps marketers reach potential customers who are interested in receiving information about their products or services. Personal Information means “any information that relates to a natural person, which either directly or indirectly, in combination with other information available or likely to be available is capable of identifying a user) or sensitive personal data or information”. In response to a marketer's advertisement, you may choose to provide personal data or information such as your name, address, telephone number and/or email address.  
