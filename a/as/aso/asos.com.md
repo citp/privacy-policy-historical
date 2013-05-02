@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004123248id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502215848id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
 
 # Your privacy | Privacy information for ASOS customers | ASOS
 
@@ -36,7 +36,7 @@ You can change the settings on your browser to prevent cookies being stored on y
 
 **Site Statistics**
 
-We may disclose aggregate, anonymised statistics about the number of visitors to this Website or number of purchases made as required by our investors. We use an independent measurement and research company to gather data regarding the visitors to this Website on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. ASOS uses and stores this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. Further information regarding the way in which this information is obtained and used can be obtained by contacting us at [care@asos.com](mailto:care@asos.com).
+We may disclose aggregate, anonymised statistics about the number of visitors to this Website or number of purchases made as required by our investors. We use an independent measurement and research company to gather data regarding the visitors to this Website on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. ASOS uses and stores this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. Further information regarding the way in which this information is obtained and used can be obtained by contacting us [here](https://web.archive.org/infopages/pgecontactcare.aspx).
 
 **Protecting your security**
 
