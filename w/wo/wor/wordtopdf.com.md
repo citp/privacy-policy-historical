@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919104351id_/http%3A//wordtopdf.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502152450id_/http%3A//wordtopdf.com/privacy.aspx) for the most accurate reproduction.*
 
 # PDF to Word Converter — 100% Free
 
