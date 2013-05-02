@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030153904id_/http%3A//www.scottishpower.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502145239id_/http%3A//www.scottishpower.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ScottishPower
 
 At ScottishPower, we are committed to protecting your privacy. To understand how your personal data will be treated whilst visiting this web site, please read the following policy. Our policy may change from time to time so please review it periodically.
 
@@ -10,7 +10,7 @@ This section explains how we currently manage the personal information you submi
 
 We’ll let you know about any significant changes to this policy if and when they happen. These will be highlighted both here and in our revised terms and conditions. 
 
-For more general information on how ScottishPower uses your personal data, please refer to [Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/mediaassets/doc/tandc.pdf#page=8). You can also [read more about the use of personal data by credit reference agencies and ourselves](http://sptest.scottishpower.co.uk/campaigns/dataprotection).
+For more general information on how ScottishPower uses your personal data, please refer to [Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/pdf/tandc.pdf#page=8). You can also [read more about the use of personal data by credit reference agencies and ourselves](http://www.scottishpower.co.uk/campaigns/dataprotection).
 
 Got a question about anything in this section? Please email dataprotection@scottishpower.com. 
 
@@ -26,13 +26,13 @@ Whenever we do ask you to provide personal details – and the reason isn’t ob
 
 **How we use it**
 
-Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 19 of our standard terms and conditions](https://web.archive.org/PDF/SPGenTandCv1.pdf). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
+Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/pdf/SPGenTandCv1.pdf). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
 
 Based on what we know about you, we and other carefully selected organisations may send you details of offers you may be interested in – unless you have specifically asked us not to. You will have told us one way or the other when you first applied to ScottishPower. 
 
-Don’t worry if you want to change your mind – you can amend your preference at any time simply by visiting the My Details page of the [My Account](https://www.spenergy.co.uk/GTConnect/SecureHttpAcceptor?gtxInitialProcess=OLEWebSite.OnlineEnergy) section on this website. 
+Don’t worry if you want to change your mind – you can amend your preference at any time simply by visiting the My Details page of the [My Account](http://www.scottishpower.co.uk/account/login/ "Login") section on this website. 
 
-If you told us that you didn’t want to receive details of offers but think that we’re still sending them, please let us know. Just [Contact us](https://www.spenergy.co.uk/GTConnect/SecureHttpAcceptor?gtxInitialProcess=OLEWebSite.ContactUs) with the relevant details.
+If you told us that you didn’t want to receive details of offers but think that we’re still sending them, please let us know. Just [Contact us](https://www.spenergy.co.uk/GTConnect/SecureHttpAcceptor?gtxInitialProcess=OLEWebSite.ContactUs "Contact Us") with the relevant details.
 
 Saying ‘no’ to details of other products and/or services won’t stop us contacting you altogether, of course. We’ll still need to send you information about the product and/or service you use. What it does mean is that we may not be able to tell you about other products that may be of financial or some other benefit to you. 
 
