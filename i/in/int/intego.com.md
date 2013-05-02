@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103061536id_/http%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502064959id_/http%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Intego
+# Privacy Policy | Intego Mac Antivirus
 
 ## Intego's Privacy Policy
 
@@ -20,10 +20,29 @@ Most browsers are initially set to accept cookies. You can set your browser to n
 
 ## Email Addresses and Their Usage
 
-Intego asks that you enter an e-mail address on our download pages before downloading trial versions of our software, or if you participate in any beta test, contest, promotion or survey. We may also ask for your name, postal address or other information. We require that you enter an e-mail address, along with your name, address and payment information, when you make purchases from our online store; your e-mail address is essential in this case, so we can confirm your purchase and send you a serial number for the software you have bought.
+Intego asks that you enter an e-mail address on our download pages before downloading trial versions of our software, or if you participate in any beta test, contest, promotion or survey. We may also ask for your name, postal address or other information.
+
+We require that you enter an e-mail address, along with your name, address and payment information, when you make purchases from our online store; your e-mail address is essential in this case, so we can confirm your purchase and send you a serial number for the software you have bought.
 
 We may contact you by e-mail to inform you about updates, special offers, or other software that we think would be of interest to you. Intego does not sell or share your e-mail address with any third party.
 
 ## Security of Personal Information
 
 When you purchase Intego software from our online store, all information is sent by SSL (Secure Socket Layer), ensuring that your personal information is encrypted, and cannot be intercepted between your computer and our web server.
+
+Mac Premium Bundle 2013
+
+[Buy Now](https://web.archive.org/Intego-mac-premium-bundle)  
+Free Trial
+
+### Start Your Free Intego Trial Now
+
+Enter your email address below to start your free trial.
+
+Protect your Mac, your files and your family with the most comprehensive security suite available.
+
+Learn More About Virus Protection on Macs
+
+The Mac Resource Center teaches you all you need to know about keeping your Mac and family safe.
+
+[Visit the Mac Resource Center](https://web.archive.org/apple-mac-resources)
