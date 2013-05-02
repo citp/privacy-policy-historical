@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wp-answers.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010140544id_/http%3A//wp-answers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wp-answers.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502174416id_/http%3A//wp-answers.com/privacy-policy) for the most accurate reproduction.*
 
-# WP-Answers : Privacy Policy
+# Privacy Policy | WP-Answers: WordPress Question & Answer Plugin / Theme
 
 ### Who we Are
 
 In this privacy policy references to “we”, “us” and “our” are to Kooc Media Ltd. References to “our Website” or “the Website” are to www.wp-answers.com
 
-###  What information we collect and how
+### What information we collect and how
 
 The information we collect via the Website may include.
 
@@ -29,6 +29,6 @@ Any personal information we collect from this website will be used in accordance
 
 We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
 
-###  Other Websites
+### Other Websites
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours. 
+This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
