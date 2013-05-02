@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204110715id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502183112id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
 BY ACCESSING THIS SITE YOU ARE ACCEPTING THE TERMS OF THIS PRIVACY STATEMENT. 
 
 **Email Communications**  
-When you register or order at ValueMags we send you a courtesy confirmation. You also agree to receive the ValueMags Free Newsletter And Daily Promotions where we offer great offers on products from ValueMags and its partners. ValueMags will share personally identifiable information with third party marketers in order to provide additional products and promotions. However, your email address will only be shared with our mailing partner, All Inbox, LLC. 
+When you register or order at ValueMags we send you a courtesy confirmation. You also agree to receive the ValueMags Free Newsletter and Daily Promotions where we offer great offers on products from ValueMags and its partners. ValueMags will share personally identifiable information with third party marketers in order to provide additional products and promotions. Your email address will be shared with our mailing partners such as All Inbox, LLC and others. 
 
 All communications will contain simple removal instructions. 
 
@@ -54,7 +54,4 @@ Chicago, IL 60654
 
 [Click here to contact support](https://web.archive.org/supportticket.asp). 
 
-**Product Reviews**  
-ValueMags has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by ValueMags. When you submit a product review to ValueMags, you are also subject to [PowerReviews' terms of use and privacy policies](http://www.buzzillions.com/public/legal/index_en_US.html). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [Buzzillions.com](http://www.buzzillions.com/) and our site. 
-
-Privacy Policy Updated: 11/01/2012. 
+Privacy Policy Updated: 2/8/2013. 
