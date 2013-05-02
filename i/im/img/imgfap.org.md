@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgfap.org privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107153926id_/http%3A//imgfap.org/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgfap.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502101936id_/http%3A//imgfap.org/content-privacy.html) for the most accurate reproduction.*
 
 # ImgFap.org - HOT Image Hosting -
 
