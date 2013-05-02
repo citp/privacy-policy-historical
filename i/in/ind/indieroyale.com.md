@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indieroyale.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023042532id_/http%3A//www.indieroyale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indieroyale.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502142152id_/http%3A//www.indieroyale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indie Royale
 
