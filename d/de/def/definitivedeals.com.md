@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122054456id_/http%3A//www.definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502145010id_/http%3A//definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DefinitiveDeals.com - Privacy Policy Statement for this website
 
