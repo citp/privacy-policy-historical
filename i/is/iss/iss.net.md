@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iss.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031195123id_/http%3A//www.iss.net/ibm_privacy_practices.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iss.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502223942id_/http%3A//iss.net/ibm_privacy_practices.html) for the most accurate reproduction.*
 
 # IBM Internet Security Systems Privacy Practices
 
@@ -33,7 +33,7 @@ In general, you can visit us on the internet without telling us who you are or g
 
 IBM is a member of TRUSTe ([www.truste.org](http://www.truste.org/)). IBM abides by the EU/US Safe Harbor Framework. To correct inaccuracies in IBM's record of your personal information respond to the sender or contact IBM at [access_request@us.ibm.com](mailto:access_request@us.ibm.com).
 
-For IBM's complete notice see [IBM's Privacy policy](https://web.archive.org/web/20121031195123id_/http%3A//www.iss.net/ibm_privacy_policy.html).
+For IBM's complete notice see [IBM's Privacy policy](https://web.archive.org/web/20130502223942id_/http%3A//iss.net/ibm_privacy_policy.html).
 
 ### How to contact us
 
