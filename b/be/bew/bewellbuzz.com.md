@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015426id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002414id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Be Well Buzz
 
@@ -28,7 +28,7 @@ Any information you disclose voluntarily on our comments pages or in any forums 
 
 ### [BeWellBuzz](http://www.bewellbuzz.com/author/Buzz%20Team/ "BeWellBuzz")
 
-The mission and goal of this site is to provide you with the best, researched and scientifically factual natural health and personal development information. Created by Larry Oz, a natural health & personal development advocate who seeks to awaken people to their highest levels of personal truth. He and his wife Oksana work hard to bring this work to you. When you like or share this information you help make the world a better place. As always, please seek professional advice before implementing any practice. BeWellBuzz.com is brought to you by [Halcyon Publishing](http://www.halcyonpublishing.net/).
+The mission and goal of this site is to provide you with scientifically researched natural health and personal development information. Natural health & personal development advocates Larry Oz & his wife Oksana seek to awaken people to their highest levels of personal truth. They work tirelessly to inspire you to elevate your spirit, do more, live better, and think deeper one day at a time. When you like and share this information, you help make the world a better place. As always, please seek professional advice before implementing any recommendations. BeWellBuzz.com is brought to you by [Halcyon Publishing](http://www.halcyonpublishing.net/). Check out our magazine by [clicking here](https://itunes.apple.com/us/app/be-well-buzz-magazine/id577503787?ls=1&mt=8).
 
 [More Posts](http://www.bewellbuzz.com/author/Buzz%20Team/ "More posts by BeWellBuzz") \- [Website](http://www.bewellbuzz.com/ "BeWellBuzz")
 
