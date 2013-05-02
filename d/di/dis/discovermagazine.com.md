@@ -1,143 +1,107 @@
-> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110154802id_/http%3A//discovermagazine.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502065958id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | DISCOVER Magazine
+# Kalmbach Publishing Co. - Privacy Policy
 
-**[Discovermagazine.com](http://discovermagazine.com/) **Web Site Privacy Policy****
+Published: June 29, 2010
 
-Effective Date: November 7, 2005
+Kalmbach Publishing Co. is committed to providing service that exceeds expectations. This includes maintaining your privacy when it comes to the use of any personally identifiable information you may voluntarily provide us via the Internet or otherwise.
 
-Kalmbach Publishing Co. **("we," "us")** respects the privacy of visitors to our Web site. This Web site privacy policy (this " **Privacy Policy** ") describes how we collect, protect, use, and share information gathered about you on [discovermagazine.com](http://discovermagazine.com/). It applies only to information that we collect online through our Web site and does not apply to information we collect through offline means, such as by telephone or mail. Please read this policy carefully so that you understand what information we collect through our Web site and what we do with that information.
+We believe it is important to explain our information gathering practices and the choices you can make about the way your information is collected and used. 
 
-**[Q1: What information are we collecting, and how are we collecting it?](http://discovermagazine.com/company/privacy-policy#Q1)**
+This explanation of our privacy policy answers the following questions:
 
-**[Q2: What information does this Privacy Policy cover?](http://discovermagazine.com/company/privacy-policy#Q2)**
+  * How and what kinds of information do Kalmbach and its affiliated entities collect? 
+  * How is this information used? 
+  * What can customers do to retain their privacy?
 
-**[Q3: How do we use the personally-identifying information that we have collected?](http://discovermagazine.com/company/privacy-policy#Q3)**
 
-**[Q4: How do we share personally-identifying information with other businesses?](http://discovermagazine.com/company/privacy-policy#Q4)**
 
-**[Q5: What should you know about links on discovermagazine.com?](http://discovermagazine.com/company/privacy-policy#Q5A)**
+**  
+Gathering Information**   
+Kalmbach Publishing Co. is the publisher of the following magazines and websites: 
 
-**[Q6: How do we protect the privacy of children?](http://discovermagazine.com/company/privacy-policy#Q6)**
+[American Snowmobiler](http://www.amsnow.com/)   
+[Art Jewelry](http://www.artjewelrymag.com/)   
+[Astronomy](http://www.astronomy.com/)   
+[Bead&Button](http://www.beadandbutton.com/)   
+[BeadStyle](http://www.beadstylemag.com/)  
+[Cabin Life](http://www.cabinlife.com/)   
+[Classic Toy Trains](http://www.classictoytrains.com/)   
+[Classic Trains](http://www.classictrainsmag.com/)   
+[Discover](http://www.discovermagazine.com/)  
+[FineScale Modeler](http://www.finescale.com/)   
+[Garden Railways](http://www.gardenrailways.com/)   
+[Model Railroader](http://www.modelrailroader.com/)   
+[Model Retailer](http://www.modelretailer.com/)   
+[Scale Auto](http://www.scaleautomag.com/)   
+[Trains](http://www.trainsmag.com/)   
+[Bead & Button Show](http://www.beadandbuttonshow.com/)  
+[Bead&Button Show Online Registration ](http://www.beadandbuttonshowstore.com/)  
+[BeadShopFinder.com](http://www.beadshopfinder.com/)  
+[HobbyRetailer.com](http://www.hobbyretailer.com/)  
+[KalmbachStore.com](http://www.kalmbachstore.com/)   
+[Trains.com Magazine Index](http://trc.trains.com/magazineindex/)  
+[Trade Sales & Service - B2B ](http://www.retailers.kalmbach.com/)
 
-**[Q7: What type of security do we provide?](http://discovermagazine.com/company/privacy-policy#Q7)**
+  
+Personally identifiable information is collected by Kalmbach when you decide to place an order (personally or as gifts for others), register on our websites or for our newsletters, enter a contest, participate in a survey, or make a general inquiry. The information collected when you order from us or enter a contest includes some or all of the following: name, address, phone / fax number, email address and credit card information. With regard to credit card information, we employ the Internet's strongest encryption tools and technology, allowing your transaction to be instantaneous, while as secure as possible from unauthorized access or misuse.  
 
-**[Q8: How can you access and update your account information and opt-out choices online?](http://discovermagazine.com/company/privacy-policy#Q8)**
 
-**[Q9: Whom should you contact with questions or concerns about this Privacy Policy?](http://discovermagazine.com/company/privacy-policy#Q9)**
+**  
+Surveys and Sweepstakes**   
+With regard to surveys in which you elect to participate, we may request demographic information (age, family income level, etc.) along with basic information regarding your reading and/or hobby interests and how Kalmbach may better serve those needs. Finally, name, address and other contact information may be collected so that we can respond to any customer service issue, request for information or other general inquiry, along with information about the nature of your inquiry.
 
-**[Q10: How will you know if we amend this Privacy Policy?](http://discovermagazine.com/company/privacy-policy#Q10)**
+Demographic and other information volunteered in connection with surveys is used primarily for internal purposes to improve the company's responsiveness to customers' wants, needs, interests, opinions and suggestions. On occasion, the aggregate findings and results of such surveys may be published as a matter of interest to the hobbyists/respondents who provided the information, and/or for the benefit of trade associations or others who may occasionally sponsor such surveys.
 
-**[**Q11: What special rights doCalifornia residents have?**](http://discovermagazine.com/company/privacy-policy#Q11) ******
+**  
+Cookies  
+**To enhance your online experience, we use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Once you choose to furnish the site with personally indentifiable information, this information may be linked to the data stored in the cookie, and to personalize your experience on our Web pages.
 
-**Q1: What information are we collecting, and how are we collecting it?**
+**  
+Reporting**   
+We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. Kalmbach Publishing Co. will use cookies, pixel trackers, server logs and other Internet technologies to measure the effectiveness of our website content. 
 
-**A1:** We collect various forms of information in various ways:
+We also may use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. We are not responsible for and do not control cookies placed in third party ads or any actions or policies of any third party advertising technology service providers or of any third party members of any related advertising networks.
 
-_Information you provide:_
+**  
+Uses of Information**   
+The fundamental use of the information we collect is to respond and fulfill your needs as a customer or prospective customer. The information is necessary and is used by us to send you the magazines, books or other products you have ordered, to process your payment, to fulfill your request to enter a contest, to recognize you as a repeat visitor to our websites, to acknowledge your interest in participating in a survey, or to resolve the customer service matter or other inquiry you have brought to our attention. ****
 
-When you request information from Discover Magazine on discovermagazine.com, we may ask you to provide us with certain personally-identifying information about yourself and other members of your household. When this Privacy Policy uses the term "personally-identifying information," we mean information that identifies a particular individual, such as the individual's first and last name, postal address, e-mail address, and telephone number. When other information, such as, for example, consumer product preferences, is directly associated with personally-identifying information, this other information also becomes personally-identifying information for purposes of this Privacy Policy. Personally-identifying information is sometimes referred to in this Privacy Policy as "personal information."
+Information volunteered by you in any message or postings on Kalmbach-provided forums, discussion/bulletin boards, club membership sites, event calendars, etc., becomes public information. You should exercise caution when deciding to disclose your personal information in any such posted message.
 
-You will always know when discovermagazine.com collects personally-identifying information because you will have to supply that information to us or give your permission for us to collect that information. Typically, this information includes your name, postal address, and e-mail address. When you subscribe to Discover Magazine or sign up for discovermagazine.com membership, we may request additional personal information from you, such as credit card information and shipping information. Again, you will know when we collect this additional information from you because you will have to provide it to us.
+If you subscribe to one or more of our magazines, you will also receive a notice or notices about renewing your subscription prior to its expiration date. You may request to be excluded from such renewal mailings (see below). You may also receive periodic mailings from us about new products, services or upcoming events, and -- from time-to-time -- your address information may be made available to other reputable companies or organizations for marketing or information gathering purposes. Typically, such third parties serve the hobby and/or leisure-time industries in one form or another. You may again request to be excluded from such mailings by contacting us directly or by taking other proactive measures, as specified below.
 
-_Information collected from you with technology:_
+**  
+Maintaining Your Personal Privacy**   
+At the time you volunteer personally identifiable information and at anytime thereafter, you can direct us not to use this information for promotional or informational mailings. At your option, you may also elect to suppress the mailing of renewal notices for any of our magazines. If you do so, your personally identifiable information will be flagged in our system as "do not promote" to correspond with your request, and you will be excluded from the related Kalmbach mailings. You can also elect separately to be excluded from mailings by any third party to whom your address might otherwise be provided. 
 
-discovermagazine.com uses information collected through technology to make our Web site more interesting and useful to you. In some circumstances, it may not be readily apparent to you that such information is being collected. For instance, when you come to discovermagazine.com, your IP address is collected. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally-identifying.
+You can, at any time, send such directions to our Customer Service Department at Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply contact us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com) or [webmaster@kalmbach.com](mailto:webmaster@kalmbach.com). Customer Service can also be reached by calling toll-free, 800-533-6644, 8:30am - 4:30pm Central Time, Monday - Friday. Outside the US and Canada, call 262-796-8776. The fax number is 262-796-1615.
 
-At times we also collect information regarding the frequency with which our visitors visit various parts of discovermagazine.com and where on our Web site they visit, as well as information regarding our visitors' responses to e-mails that we send to them. We may combine the information collected from you with technology, including your IP address, with personally-identifying information to identify a visitor in order to provide relevant content, ads, and e-mails to that visitor, as well as to enforce compliance with our Terms and Conditions, and to protect our service, Web site, visitors, and other parties.
+There are also national clearinghouse organizations and governmental entities where you can register to suppress unwanted solicitations. The most prominent of these is the Direct Marketing Association (DMA). The DMA provides mail, e-mail and telephone database "preference services" free of charge to consumers who wish to block all unsolicited direct mail, e-mail and telemarketing contacts, respectively. For more information, visit DMA's website at [www.the-dma.org](http://www.the-dma.org/), or contact them at (202) 955-5030.
 
-_What are cookies and web beacons, and how does discovermagazine.com use them?_
+In addition to the special measures you may take to suppress unwanted solicitations by contacting us directly, Kalmbach has implemented procedures whereby files that otherwise would be used for promotional mailings are processed with the DMA to remove any records belonging to individuals who may have registered with DMA's Mail Preference Service (but not with Kalmbach). As yet a further safeguard, many third parties to whom Kalmbach may provide personally identifiable information take the additional step to suppress the solicitation of anyone who has just recently registered with the appropriate DMA preference services, by doing so just prior to their mailing dates. Although Kalmbach Publishing Co. uses reasonable good faith efforts to require third parties to regularly follow this practice, we cannot, of course, guarantee that they adhere to our expectations.
 
-Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more efficient. Web site operators use cookies for a variety of purposes. For instance, when you return to discovermagazine.com, cookies enable our site to remember who you are, so you don't have to log in again. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser "Help" menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of the services of discovermagazine.com may not function properly.
+**  
+Children**   
+We do not intend to collect personal information from children. Children should seek the approval of their parents before providing any personal information on our websites.  
 
-Discovermagazine.com also may use Web beacons (which are also known as clear GIFS). Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We may use Web beacons to send cookies to your computer. We also may use Web beacons to analyze the traffic patterns on our Web site, such as the frequency with which our users visit various parts of our Web site. The Web beacons on discovermagazine.com may send data either directly from us or from another party authorized by us, and these Web beacons may transmit information either directly to us or to another party authorized by us to collect information on our behalf. This information is not collected, however, in a form that is personally-identifying. In addition, we use Web beacons in HTML e-mails that we send our members, in order to determine whether our members have opened those e-mails. This information may be gathered in a form that is personally-identifying. Finally, network advertisers who place advertisements on our Web site may also use Web beacons in accordance with their privacy policies. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our Web site, and this information may permit us to determine the identity of other sites that you have visited that are also associated with the network advertiser.
+ **Contact Information**  
+Kalmbach Publishing Co.  
+Customer Service Department  
+P.O. Box 1612  
+Waukesha, WI 53187-1612 
 
-* * *
+[customerservice@kalmbach.com](mailto:customerservice@kalmbach.com)  
+800-533-6644 (US & Canada)  
+262-796-8776  
+262-796-1615 (fax)
 
-**Q2: What information does this Privacy Policy cover?**
+| 
 
-A2: This Privacy Policy applies to all personally-identifying information that we collect online at discovermagazine.com, on or after the effective date of this Privacy Policy, from individuals who provide us such information for the purpose of obtaining from us a product or service primarily for personal, family or household purposes. This Privacy Policy does not apply to any information collected from you offline. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to Discover Magazine or to information that you provide to Discover Magazine when you respond by postal mail or telephone to a survey. These examples are not meant to be exhaustive, and this Privacy Policy does not apply to many other instances in which Discover Magazine may collect information from you offline.
+[](http://www.kalmbachstore.com/)
 
-* * *
+[](https://web.archive.org/en/Press%20Room.aspx)
 
-**Q3: How do we use the personally-identifying information that we have collected?**
-
-**A3:** Discover Magazine uses personally-identifying information that it has collected in a number of ways. One of the ways we use such information is to send you updates and provide you information about discovermagazine.com. We may also use your personal information to complete transactions, such as processing orders for discovermagazine.com, or to send you administrative communications about any account you may have with us or about future changes to this Privacy Policy. If you contact us for help, we will use your personally-identifying information to respond to you. We also use the information you provide to send you e-mail and postal mail promotions regarding our products and services, as well as products and services of third parties, unless you have elected not to receive these promotions and offers.
-
-* * *
-
-**Q4: How do we share personally-identifying information with other businesses?**
-
-**A4:** We share your information in various ways:
-
-_Companies that are involved in providing discovermagazine.com_
-
-Various companies assist us with the operation of discovermagazine.com. Other companies help us fulfill your subscription orders and process your requests concerning discovermagazine.com, or help us communicate with you or assist us in gathering your information. Except as otherwise permitted by other provisions of this Privacy Policy, all of these companies are allowed to gather, receive, and use your information, but only for purposes connected with discovermagazine.com. For example, we may hire companies to help deliver products or services, like a shipping company that delivers a package. In these instances, there is a need to share your information with these companies.
-
-_Third-party advertisers_
-
-We will not share your personally-identifying information with third-party advertisers without your consent. If you request that we share your personal information with third-party advertisers, they may send you promotions regarding their products and services by postal mail, e-mail, or other means. When you request that we share your personal information with third-party advertisers, your information will become permanently subject to the information use and sharing practices of the advertisers that receive your information and those advertisers will not be restricted by this Privacy Policy.
-
-_Sale of business_
-
-If Discover Magazine is sold, the personal information of customers and potential customers of Discover Magazine, including subscribers to discovermagazine.com, likely would be transferred to the buyer. In that event, Discover Magazine will include provisions in the selling contract to require the purchaser to treat your personally-identifying information in the same manner you requested under this Privacy Policy (including any amendments to this Privacy Policy). In addition, Discover Magazine will give notice to individuals whose information is affected by the sale, in accordance with the procedures described in A10 below.
-
-_Disclosures required by law and disclosures to help protect the security and safety of our visitors and our Web site_
-
-We reserve the right to disclose your personal information to third parties when we deem such disclosure necessary to comply with applicable law, to enforce our Terms and Conditions of Use, or to protect the rights, property, security or safety of visitors to our site, our customers, employees, the public or Kalmbach Publishing Co.
-
-_Non-personally-identifying information_
-
-In addition to sharing personally-identifying information as described above, we may take your personally-identifying information and make it non-personally-identifying, either aggregating your information with information about other individuals, or by removing characteristics (such as your name) that make the information personally-identifying to you. We may use this non-personally-identifying information in any way and disclose it to third-parties for any purpose.
-
-_Network advertisers_
-
-Advertisements on our Web site may be managed and placed on our Web site by third parties. These companies are called "network advertisers." Network advertisers who place these advertisements may also use cookies and Web beacons to collect non-personally-identifying information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our Web site and this information may permit us to identify other Web sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our Web site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their Web site. The advertiser's privacy policy may differ from ours. You must read the privacy policy of the advertiser to see how your personal information will be handled on its Web site.
-
-* * *
-
-**Q5: What should you know about links on discovermagazine.com?**
-
-**A5:** Our Web site includes links to other Web sites operated by third parties whose privacy policies we do not control. When you access another Web site through our Web site, any information you provide is governed by the privacy policy of the operator of the site you are visiting. We encourage you to review the privacy policy of any third-party Web site you access through our site.
-
-* * *
-
-**Q6: How do we protect the privacy of children?**
-
-**A6:** Our Web site is not directed to children and we will not knowingly allow anyone under the age of 13 to use our Web site to provide us with any personally-identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses and phone numbers) over the Internet. If you are under the age of 13, please do not provide any information about yourself on this Web site.
-
-* * *
-
-**Q7: What type of security do we provide?**
-
-**A7:** The security of your personally-identifying information is an important concern for us. We take technical, contractual, administrative, and physical security steps to protect all visitors' personal information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. There are some things that you can do to help protect the security of your information. For instance, never give out your password, since this is what is used to access all of your account information. Also, remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information.
-
-* * *
-
-**Q8: How can you access and update your account information and opt-out choices online?**
-
-**A8:** The following methods are available to access and update your account information online (including opting out of certain uses and sharing of your personal information for promotional purposes):
-
-a) If you are a subscriber to Discover Magazine, simply click on this link Discover Customer Care and then enter your e-mail address and follow the instructions. Subscribers can also contact us via e-mail at [DCRcustserv@CDSfulfillment.com](mailto:DCRcustserv@CDSfulfillment.com). Please include the level of personal information in your e-mail or online request or inquiry that will help us identify your account so we can assist you.
-
-b) Registered members of discovermagazine.com who wish to change their personal information or opt-out of certain uses by us of such information (e.g., receiving e-mail notices from discovermagazine.com, including the discovermagazine.com Newsletter and Topic Alerts) should do the following: log in to discovermagazine.com; select "My Discover"; click on "Edit My Membership Details"; and edit the information or check the appropriate boxes.
-
-If you are both a subscriber to Discover Magazine and a registered member of discovermagazine.com, you must utilize both of the methods described in this paragraph to ensure that your request or preferences will be fully implemented.
-
-* * *
-
-**Q9: Whom should you contact with questions or concerns about this Privacy Policy?**
-
-**A9:** If you need further assistance, please send an e-mail with your questions or comments to [webmaster@discovermagazine.com](mailto:webmaster@discover.com), or write us at: Discover Magazine, 90 Fifth Avenue, 11th Floor, New York, NY 10011.
-
-* * *
-
-**Q10: How will you know if we amend this Privacy Policy?**
-
-A10: We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you gave us, and/or by prominently posting notice of the changes on discovermagazine.com. Any material changes to this Privacy Policy will be effective upon the earlier of ten (10) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on discovermagazine.com. Changes to this Privacy Policy may affect our use, and use by other companies, of personal information that you gave us prior to our notification to you of the changes. If you do not wish to permit changes in our collection, use and/or sharing of your personal information, you must notify us prior to the effective date of the changes that you wish to close your account with us. Please be advised, however, that, regardless of whether you provide such notice to us, the changes to this Privacy Policy will apply to any personal information that you provide to us on or after the effective date of such changes.
-
-* * *
-
-**Q11: What special rights do California residents have?**
-
-**A11:** California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [DISord@cdsfulfillment.com](mailto:DISord@cdsfulfillment.com). Within thirty (30) calendar days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year. We reserve our right not to respond to requests submitted other than to the addresses specified in this paragraph.
+[](https://web.archive.org/en/About%20Kalmbach.aspx)  
+  
+---|---
