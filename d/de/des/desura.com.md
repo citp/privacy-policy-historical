@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desura.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028193227id_/http%3A//www.desura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desura.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502135812id_/http%3A//www.desura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Desura | Desura
 
@@ -49,12 +49,8 @@ You can access all your personally identifiable information that we collect onli
 
 You can [contact us](http://www.desura.com/contact) if you would like your account closed. Once we have verified your identity, we can remove all your personal details and IP on request.
 
-## Modification of Policy
-
-This policy may be modified at any time at the sole discretion of the Provider. Upon modification of this policy, the User has two weeks (14 days) to terminate their account with the Provider or it will constitute acceptance of the modifications.
-
 ## How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please contact Desura at [contact us](http://www.desura.com/contact).
 
-Last Updated: June 22, 2010
+Last Updated: June 22, 2010, our [privacy policy](https://web.archive.org/terms-of-use) can be found here.
