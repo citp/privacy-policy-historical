@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aldi.ie privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015003107id_/http%3A//www.aldi.ie/ie/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.ie privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502045010id_/http%3A//aldi.ie/ie/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy & Cookies
 
 Aldi Stores (Ireland) Limited are committed to protecting and respecting your privacy. This policy explains how and for what purposes we use the information collected about you via our website www.aldi.ie ("our site"). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using our site and any services we offer via our site, you are agreeing to be bound by this policy in respect of the information collected about you via our site. 
 
-For the purpose of the Data Protection Acts, 1998 & 2003 (the "Act"), the data controller is Aldi Stores (Ireland) Limited (Company Number 294035) of 67/68 Fitzwilliam Square, Dublin 2. Our nominated representative for the purpose of the Act is [NAME]. 
+For the purpose of the Data Protection Acts, 1998 & 2003 (the "Act"), the data controller is Aldi Stores (Ireland) Limited (Company Number 294035) of 67/68 Fitzwilliam Square, Dublin 2. Our nominated representative for the purpose of the Act is David Barter. 
 
 **INFORMATION WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you: 
