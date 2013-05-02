@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickphotographybook.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231859id_/http%3A//trickphotographybook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickphotographybook.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502080705id_/http%3A//trickphotographybook.com/privacy) for the most accurate reproduction.*
 
 # Trick Photography and Special Effects Ebook
 
