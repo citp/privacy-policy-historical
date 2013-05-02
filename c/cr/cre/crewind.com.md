@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crewind.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018024451id_/http%3A//www.crewind.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crewind.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502065936id_/http%3A//www.crewind.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy and policy
 
