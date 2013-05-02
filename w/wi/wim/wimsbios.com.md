@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012090154id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502113247id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
 
 # Wim's BIOS Page Privacy Statement
 
