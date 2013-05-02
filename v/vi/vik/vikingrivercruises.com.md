@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the vikingrivercruises.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016041230id_/http%3A//www.vikingrivercruises.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingrivercruises.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502075604id_/http%3A//www.vikingrivercruises.com/privacy.aspx) for the most accurate reproduction.*
 
 # Viking River Cruises - Privacy Policy
-
-Nathan Nehmer  
-
-Cardinal Cruise and Travel
-
-231 N Water St
-
-Columbus, WI 53925
-
-(608)469-9412
 
 ## Privacy Policy
 
