@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedfirstfinancial.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103105959id_/http%3A//ufirstactivationdocuments.s3.amazonaws.com/35512_Privacy_Policy_2.9.2009.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedfirstfinancial.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502201800id_/http%3A//ufirstactivationdocuments.s3.amazonaws.com/35512_Privacy_Policy_2.9.2009.pdf) for the most accurate reproduction.*
 
 # SCHEDULE B
 
