@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldage.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114061508id_/http%3A//goldage.net/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldage.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502074756id_/http%3A//goldage.net/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Gold Age Traffic Exchange - Free Hits to Your Websites!
 
