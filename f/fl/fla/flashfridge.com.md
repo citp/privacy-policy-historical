@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashfridge.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014002235id_/http%3A//www.flashfridge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfridge.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502194508id_/http%3A//flashfridge.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - FlashFridge.com
 
@@ -9,7 +9,7 @@ April 6, 2009
 Privacy Policy  
 Privacy Policy for http://www.flashfridge.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](https://web.archive.org/web/20121014002235id_/http%3A//www.flashfridge.com/contact.asp)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](https://web.archive.org/web/20130502194508id_/http%3A//flashfridge.com/contact.asp)
 
 At http://www.flashfridge.com the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.flashfridge.com and how it is used. 
 
