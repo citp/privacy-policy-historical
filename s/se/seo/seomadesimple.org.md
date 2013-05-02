@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seomadesimple.org privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125233515id_/http%3A//seomadesimple.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomadesimple.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502035442id_/http%3A//seomadesimple.org/privacy-policy) for the most accurate reproduction.*
 
 # 
 
