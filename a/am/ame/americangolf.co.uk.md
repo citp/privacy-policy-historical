@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505203954id_/http%3A//www.americangolf.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502141503id_/http%3A//americangolf.co.uk/Privacy-Policy/privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy Policy - American Golf
+# Privacy Policy
 
-  * [United Kingdom](https://web.archive.org/privacy.aspx)
+Privacy Policy - American Golf    
 
-
-
-[Print Page]( "Print Page")
 
 ### IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
 
 #### Privacy Policy
 
-This Privacy Policy describes current policies and practices with regard to Personal Data collected manually or through this website ("website"). This website is operated by, and Personal Data collected through it will be controlled by SW Golf Limited of 1 Ascent Park, Edinburgh Way, Harlow, Essex CM20 2HW on behalf of Americangolf Discount Centre Limited of Europa Boulevard, Gemini Business Park, Westborrk, Warrington WA5 7YW.
+This Privacy Policy describes current policies and practices with regard to Personal Data collected manually or through this website ("website"). This website is operated by, and Personal Data collected through it will be controlled by SW Golf Limited & of SW Golf Limited, PO Box 2007, Liverpool, L69 3FX on behalf of Americangolf Discount Centre Limited of Europa Boulevard, Gemini Business Park, Westborrk, Warrington WA5 7YW.
 
 The term "Personal Data" refers to personally identifiable information about you, such as your name, birth date, telephone number, e-mail address or mailing address.
 
@@ -22,7 +19,7 @@ The terms "you" and "your" when used in this Privacy Policy means any user of th
 
 This website is continually improved by adding new functionality and features and by improving and adding to existing services. Because of these ongoing changes, changes in the law and the changing nature of technology, data practices will change from time to time. If and when data practices change, such changes will (as soon as practicable) be posted on this website to notify you of the changes. You should check this page frequently.
 
-You will understandably have a concern about privacy. Your privacy is respected and your personal information is treated with the highest standards of safety, security and confidentiality. To better protect your privacy, this notice explains online information practices and the choices you can make about the way your information is collected and used on this website. If you have questions regarding this Policy, you may direct them to [aftersales@americangolf.co.uk](mailto:aftersales@onlinegolf.co.uk).
+You will understandably have a concern about privacy. Your privacy is respected and your personal information is treated with the highest standards of safety, security and confidentiality. To better protect your privacy, this notice explains online information practices and the choices you can make about the way your information is collected and used on this website. If you have questions regarding this Policy, you may direct them to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk).
 
 #### Collection of Personal Data including e-mail addresses
 
@@ -46,13 +43,13 @@ The purposes for which Personal Data is processed include the following:
 
 #### Opt-out choice
 
-If you do not wish to receive information and want to be removed from mailing lists in relation to this website, please send an e-mail to [aftersales@americangolf.co.uk](mailto:aftersales@onlinegolf.co.uk).
+If you do not wish to receive information and want to be removed from mailing lists in relation to this website, please send an e-mail to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk).
 
 #### Anonymous data collected through this website
 
 In addition to the information collected as described above, technology is used to collect anonymous information about the use of this website. For example, technology may be used to track which pages of this website visitors view. Technology may also be used to determine which web browsers visitors use. This technology does not identify you personally, it simply enables the compilation of statistics about website visitors and their use of this website.
 
-This website contains hyperlinks to other pages on this website. Technology may be used to track how often these links are used and which pages on this website visitors choose to view. Again this technology does not identify you personally – it simply enables the compilation of statistics about the use of these hyperlinks.
+This website contains hyperlinks to other pages on this website. Technology may be used to track how often these links are used and which pages on this website visitors choose to view. Again this technology does not identify you personally & it simply enables the compilation of statistics about the use of these hyperlinks.
 
 Such anonymous data is used to improve the content and functionality of this website and e-mail updates, to better understand clients and markets, and to improve services.
 
@@ -95,7 +92,7 @@ This website may contain hyperlinks to web sites operated by third parties. Thes
 
 Upon receipt of your written request and enough information to permit identification of your Personal Data, such Personal Data held about you will be disclosed to you. Corrections, amendments or deletions to Personal Data that is inaccurate can be made and will be notified to any third party recipients.
 
-If you wish to access or correct your Personal Data, please write to us at 1 Ascent Park, Edinburgh Way, Harlow, Essex CM20 2HW, or e-mail us at aftersales@americangolf.co.uk. You will not be charged for a correction request, however, for all other requests, you may be charged a fee of £10.00 to cover costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations.
+If you wish to access or correct your Personal Data, please write to us at SW Golf Limited, PO Box 2007, Liverpool, L69 3FX, or e-mail us at aftersales@americangolf.co.uk. You will not be charged for a correction request, however, for all other requests, you may be charged a fee of & 10.00 to cover costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations.
 
 You may ask to have your account information removed from this website's active databases; however, because this website tracks past purchases, information associated with past purchases can not be deleted. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure the data stored on this website's systems is "backed-up", and such prior information cannot be completely removed from the databases. Therefore, you should not expect that all of your Personal Data will be completely removed from the databases in response to your requests. However, please be aware that your personally identifiable information will be kept only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
 
@@ -111,12 +108,12 @@ Of course, the Internet is made up of a large number of international connection
 
 #### Governing law
 
-This Privacy Policy forms part of the website [Terms of Use](http://www.americangolf.co.uk/terms.aspx) and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
+This Privacy Policy forms part of the website [Terms of Use](http://americangolf.co.uk/Terms-Conditions/terms,en_GB,pg.html?fid=Terms-Conditions) and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
 
 #### Questions
 
-If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [aftersales@americangolf.co.uk](mailto:aftersales@onlinegolf.co.uk) or write to 1 Ascent Park, Edinburgh Way, Harlow CM20 2HW.
+If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk) or write to SW Golf Limited, PO Box 2007, Liverpool, L69 3FX.
 
 #### Use of Personal Data for Credit Checking
 
-To ensure that your credit, debit or chargecard is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
+To ensure that your credit, debit or chargecard is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating & will be & unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
