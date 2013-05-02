@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025113831id_/http%3A//www.getreading.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502160716id_/http%3A//www.getreading.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # getreading - Reading Post
 
