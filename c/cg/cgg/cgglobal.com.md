@@ -1,11 +1,21 @@
-> *The following text is extracted and transformed from the cgglobal.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521174934id_/http%3A//www.cgglobal.com/frontend/crompton.aspx%3FId%3DfNSJW/UGgrI%3D%26amp%3Bpgm%3DISa594ohuB8%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgglobal.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502175332id_/http%3A//www.cgglobal.com/frontend/crompton.aspx%3FId%3DfNSJW/UGgrI%3D%26amp%3Bpgm%3DISa594ohuB8%3D) for the most accurate reproduction.*
 
 # CG - Privacy Policy ( )
 
-CG does not rent, sell, or share personal information about you with other parties, except to provide products or services you`ve requested, when we have your permission, or under the following circumstances:
+Your privacy is important to us.
 
-We provide the information to trusted partners who work on behalf of or with CG under confidentiality agreements. These companies may use your personal information to help CG communicate with you. However, these companies do not have any independent right to share this information we respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of CG`s policies, or as otherwise required by law we transfer information about you if CG is acquired by or merged with another company. 
+CG’s Privacy Policies state how we collect, use, disclose, transfer, and store your personal information. Please take a moment to understand how your personal data is processed and safeguarded within CG; and also familiarise yourself with the information and other privileges available under the CG Privacy Policies.
 
-In this event, CG will notify you before information about you is transferred and becomes subject to a different privacy policy CG does not provide any personal information to advertisers
+This Privacy Notice applies to information, collected by CG India as well as its affiliated companies and subsidiaries.
 
-This site contains links to other sites. CG is not responsible for the privacy practices or the content of such Web sites.
+You have a right to view, correct, or update the personal information you provide to CG. Please click on the Data Request form below for this purpose.  The form will be automatically directed to the nominated Data Protection Officers in various CG Divisions and you will hear from them shortly. We may however decline to process requests that are impractical or jeopardize the privacy of others or are unlawful in nature.
+
+CG may update its Privacy Policies from time to time. When we do so, we will notify the change on our website along with the updated Privacy Policies.  
+ 
+
+  1. [Global Employee Privacy Policy](https://web.archive.org/frontend/Crompton.aspx?Id=0C20XOaIQHA=)
+  2. [Global Customer & Supplier Privacy Policy](https://web.archive.org/frontend/Crompton.aspx?Id=6OwoKbfbpag=)
+  3. [CG Website Privacy Policy](https://web.archive.org/frontend/Crompton.aspx?Id=QS29f7IJVxA=)
+  4. [Data Request Form](http://cgglobal.com/enquiryform/data_Req_form.asp)
+
+
