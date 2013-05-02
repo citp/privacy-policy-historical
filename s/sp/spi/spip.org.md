@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spip.org privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203083054id_/http%3A//spip.org/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spip.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502225814id_/http%3A//spip.org/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - SPIP.org
 
