@@ -1,101 +1,94 @@
-> *The following text is extracted and transformed from the weatherchannel.com.au privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126053414id_/http%3A//www.weatherchannel.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherchannel.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503015838id_/https%3A//m.skynews.com.au/common/privacy.aspx) for the most accurate reproduction.*
 
-# The Weather Channel - Privacy Policy
+# Sky News Australia - Mobile Edition | Privacy Policy
 
-Here at The Weather Channel (‘TWC’) we understand the importance of keeping your personal information secure and private.
+Sky News Australia ( **Sky News** ) commenced its 24 hour news service on February 19th 1996, becoming the first and only Australian produced television news channel. Sky News is a joint venture of Australia's Nine Network and Seven Network, and the United Kingdom's Sky News channel, a part of the British Sky Broadcasting (BSkyB) network.
 
-This website ('site') is owned and operated by FOXTEL Management Pty Ltd (trading as 'Foxtel'), ABN 65 068 671 938.  This Privacy Policy applies to the collection, storage, use and dissemination by TWC of your personal information ('Your Personal Information'). TWC will review this Privacy Statement periodically and reserves the right, at its discretion, to modify or remove portions of this statement at any time. You should review this page periodically so that you are updated on any changes.
+Sky News respects the privacy of its audience and people we do business with, and we strive to comply with the National Privacy Principles ( **NPPs** ) contained in the Privacy Act 1988 ( **the Privacy Act** ). This Privacy Policy outlines how Sky News will handle personal information about you. As we may sometimes collect personal information online through [www.skynews.com.au](http://www.skynews.com.au/) ( **our website** ), this Privacy Policy also outlines our approach to online privacy issues.
 
-TWC recognises that your privacy is very important to you. For this reason, if we can (and you want to), you do not have to identify yourself when you use or access most of the features of the Site. 
+This Privacy Policy does not apply to Sky News' journalists, to the extent that they engage in acts or practices in the course of journalism.
 
-For the purposes of this Privacy Statement, Personal Information means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
+Our Privacy Policy is divided into the following sections:
 
-On this site you may find links to other websites not operated by us. This Privacy Statement will not apply to those websites because we have no control over them.  Always check the Privacy Policy of any other website you enter.
+**1.** HOW AND WHY SKY NEWS COLLECTS PERSONAL INFORMATION.
 
-As part of TWC's commitment to the protection of Your Personal Information we have developed this policy in line with the National Privacy Principles (NPPs) developed by the Australian Federal Privacy Commissioner (now the Office of the Australian Information Commissioner (OAIC)) which represent industry best practice.
+**2.** WILL YOUR PERSONAL INFORMATION BE GIVEN TO ANYONE ELSE?
 
-Access to the contents of this site is conditional upon your approval of the Privacy Policy, which should be read together with the General Disclaimer.
+**3.** HOW IS YOUR PERSONAL INFORMATION STORED?
 
-Our Privacy Policy contains the following important information regarding Your Personal Information:  
- 
+**4.** YOUR RIGHT OF ACCESS AND CORRECTION.
 
-• Collection of Your Personal Information; 
+**5.** ONLINE COLLECTION OF PERSONAL AND NON-PERSONAL INFORMATION.
 
-• Storage and Security of Your Personal Information; 
+**6.** ADDITIONAL PRIVACY INFORMATION & HOW TO CONTACT SKY NEWS.
 
-• Use and Disclosure of Your Personal Information; 
+**1\. HOW AND WHY SKY NEWS COLLECTS PERSONAL INFORMATION.**
 
-• Access to Your Personal Information; 
+Sky News needs to collect personal information in order to conduct its business.
 
-• Children's Privacy; 
+**Our audience.** We collect personal information from members of the public who contact us through our website or by telephone. For example, our website contains a section called "Your Say", where we provide you with an opportunity to contact us with your comments (by email or by telephone). If you provide us with your comments, we give you the opportunity to let us know if you do not want us to respond. If you would like us to respond, we will collect personal information from you (including your name, email address and suburb) in order to do so.
 
-• Disclaimer; 
+If you do wish us to respond to your enquiry, we will keep your comments but will not retain other personal information about you (ie your comments will be 'de-identified').
 
-• Further Information on Privacy; 
+**Business contacts.** Sometimes, Sky News needs to collect personal information from people we do business with. This will usually happen when we collect the name and business contact details of a person who is the contact in a government agency or company we deal with, or in one of our contractors or suppliers or shareholders.
 
-• Contact Us.  
- 
+Sky News's policy is only to use personal information collected from its audience or business contacts for the business purpose for which it was collected, and not for any other purpose.
 
-You agree that your use of this site implies your consent to the collection and use of Your Personal Information (or your children's personal information) in accordance with the terms of this Privacy Policy.
+We do not collect personal information that we do not need. 
 
-If we deem it necessary, we may amend this Privacy Policy from time to time in line with industry best practice. It is prudent for you to review our Privacy Policy regularly to ensure that you are satisfied and consent to all amendments to our Privacy Policy. Your continued use of this site following any amendments is valid confirmation of your acceptance to the amendments. 
+**2\. WILL YOUR PERSONAL INFORMATION BE GIVEN TO ANYONE ELSE?**
 
-### COLLECTION OF YOUR PERSONAL INFORMATION
+Sky News will not sell, rent or trade personal information about you to or with others.
 
-Your Personal Information is collected to enhance your use of the site and continually improve our site.
+Personal information collected by Sky News may be disclosed to third parties to whom we outsource specialised functions (such as mailing houses or printing companies), and if so, Sky News takes steps to ensure that those contractors:
 
-Some of the information collected will not personally identify you but instead personalise your use of the site. We obtain this information by our use of 'Cookies'. Cookies are commonly used by websites on the Internet and are a feature usually placed in your hard drive that recognises and identifies your computer. The Cookie does not contain any information that personally identifies you and we do not use Cookies in order to obtain such information. Your browser should allow you to refuse Cookies if you desire.
+  * comply with the NPPs when they handle personal information about you (regardless of whether they are a small business, and would otherwise be exempt from the NPPs); and
 
-We collect personal details, such as your email address, name, date of birth and other information only when you enter certain areas of the site and register with us for competitions, promotions or when you sign up to receive email newsletters from us.
 
-### STORAGE AND SECURITY OF YOUR PERSONAL INFORMATION
+  * are authorised only to use personal information in order to provide the services or to perform the functions required by Sky News.
 
-TWC will use all reasonable endeavours to maintain the security of Your Personal Information.
 
-We require our staff and service providers to respect the confidentiality of Your Personal Information.
 
-### USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION
+The only other time Sky News would make disclosures of personal information is if we are required to do so by law, or if the disclosure is permitted under the Privacy Act.
 
-TWC will not disclose information that personally identifies you to advertisers. TWC may be required to disclose some information that does not personally identify you to advertisers to provide advertisers with aggregate statistics of people that have seen or linked to their advertisements on our site. This provision of information with advertisers assists TWC with improvements to the site and assists us to provide the site to users at no cost.
+**3\. HOW IS YOUR PERSONAL INFORMATION STORED?**
 
-TWC may provide certain information about you to its related bodies corporate. Subject to your prior approval, TWC's commercial sponsors, advertisers, business partners, program distributors or associates located both in and outside Australia ('TWC Partners') may wish to send you information about their products or services.
+Sky News takes physical, electronic and managerial steps to ensure that the personal information it holds is secure from unauthorised access, destruction, use, modification or disclosure. Sky News only permits your details to be accessed by authorised personnel, and we educate our staff about their responsibilities under the NPPs.
 
-If you subsequently decide that you do not wish to receive information about the products and services of TWC's Partners, please Contact Us with your request to be removed from our email database list. We will use reasonable endeavours to remove your name within 14 days of receipt of notice.
+**4\. YOUR RIGHT OF ACCESS AND CORRECTION.**
 
-### ACCESS TO YOUR PERSONAL INFORMATION
+Under the Privacy Act, you have the right to seek access to information which Sky News holds about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date.
 
-TWC will use all reasonable endeavours to keep Your Personal Information accurate. Please Contact Us to examine Your Personal Information if required. We will use reasonable endeavours to provide a complete list of Your Personal Information within 14 days of receipt of your enquiry.
+If you wish to exercise your right under the Privacy Act to seek access to the personal information that Sky News holds about you, or if you believe that personal information about you is not accurate, complete or up to date, you should contact Sky News's Privacy Officer, including the details of your request for correction (if applicable). The contact details for Sky News's Privacy Officer can be found at the end of this Privacy Policy.
 
-You may Contact Us to amend any of Your Personal Information that is inaccurate or request that Your Personal Information be deleted. We will use reasonable endeavours to amend or delete your records as requested within 14 days of receipt of notice. If applicable, any legal requirement on TWC to maintain certain records of Your Personal Information shall prevail over any of your requests.
+Please note that the personal information we hold about you will be information that you have provided to us.
 
-### CHILDREN'S PRIVACY
+We will assume (unless you tell us otherwise) that your request relates to our current records about you. To provide you with access to "current" personal information, Sky News would ordinarily provide you with a print-out of the relevant personal information from our databases, or with photocopies of records which are held only on paper files. Ordinarily, Sky News will not charge you for the cost of providing this type of access to these records.
 
-All person's under the age of 18 must obtain the consent of their parents or legal guardians before using this Site or submitting any information to this Site. TWC will adhere to this Privacy Policy in respect of any information submitted by minors but the primary responsibility rests on parents and guardians to properly supervise their children's use of the Site.
+For legal and administrative reasons, Sky News may also store records containing personal information in its archives. You only have a legal right to seek access to personal information about you collected by us prior to 21 December 2001 if we use or disclose that personal information after that date. If you do wish to seek access to personal information collected by us prior to 21 December 2001, please contact our Privacy Officer to discuss whether access may be available. Please note that if we do provide access to old records, we may charge you for the cost of providing such access. 
 
-### DISCLAIMER
+**5\. ONLINE COLLECTION OF PERSONAL AND NON-PERSONAL INFORMATION.**
 
-TWC will only collect, use or disclose information that personally identifies you as set out in this Privacy Policy unless in our opinion TWC is required by law to protect the rights or property of the channel or any third party, or to avoid injury to any person.
+As noted above, Sky News may collect personal information about you from our website if it is volunteered by you through our 'Your Say' page. Otherwise, Sky News does not collect personal information about you through our website.
 
-In accordance with TWC's established relationships with our Partners, users of our site may link directly to sites operated by our Partners. Although certain Partner sites may be co-branded with TWC logo, you acknowledge that such sites may not be operated by TWC. We encourage you to always read the applicable privacy policy of any of our Partners on exiting this site.
+However, our website may also collect other information that may not be personal information. For each visitor to our website, our server automatically recognises and stores the visitor's domain name, but not their email address. 
 
-TWC's Partner sites may collect additional personal information from you in addition to Your Personal Information supplied to TWC. You acknowledge that TWC is not responsible for the content or practices of the sites operated by our Partners including the manner in which they collect, store, use or disseminate your personal information.
+Sometimes our website contains links to other websites, for your convenience and information. When you access a website other than [www.skynews.com.au](http://www.skynews.com.au/), please understand that Sky News is not responsible for the privacy practices of that site. We suggest that you review the privacy policies of each site you visit.
 
-TWC and this Privacy Statement may be subject to applicable legislation, regulations and codes of practice. To the extent that this Policy exceeds the minimum obligations of TWC under the Commonwealth and State legislation, this Policy serves as documentation of our voluntarily self-imposed standards. While we are determined to meet those standards as best we can, to the extent permitted by law, TWC is not liable if it does not adhere to any of these standards, for any loss, liability, costs, expense or damage arising as a result of TWC failing to meet any of the voluntarily self-imposed standards in this Statement.
+**6\. ADDITIONAL PRIVACY INFORMATION & HOW TO CONTACT SKY NEWS.**
 
-### YOUR CONSENT
+Sky News may change its Privacy Policy at any time. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our website.
 
-TWC may, and you consent to, the use or disclosure of your Personal Information in circumstances which are: 
+For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
-• Set out in this Privacy Statement; 
+If you feel that Sky News is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Privacy Officer (using the following contact details):
 
-• Clearly explained to you at the time when the information is collected from you; 
+  * by telephone on 02 9886 8000
+  * by facsimile on 02 9886 8001
+  * by email to privacy@skynews.com.au
+  * by letter to Privacy Officer, Australian News Channel Pty Ltd, Locked Bag 918, North Sydney, NSW, 2059. Australia.   
 
-• Or permitted under the National Privacy Principles. 
 
-FURTHER INFORMATION ON PRIVACY
 
-If you would like any further information about your rights to privacy, please see the Office of the Australian Information Commissioner’s website or contact the Internet Industry Association.
 
-### CONTACT US
-
-If you have any queries regarding this Privacy Policy or would like to read, amend or delete any of Your Personal Information, please contact  TWC by email addressed to [feedback@weatherchannel.com.au](mailto:feedback@weatherchannel.com.au)
+_The Sky News Privacy Policy was last updated on 21 December 2001_
