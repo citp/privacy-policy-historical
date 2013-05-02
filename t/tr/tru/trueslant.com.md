@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueslant.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223009id_/http%3A//trueslant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueslant.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502064847id_/http%3A//trueslant.com/privacy) for the most accurate reproduction.*
 
 # True/Slant
 
