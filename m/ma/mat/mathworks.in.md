@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102131044id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002121id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
 
-# MathWorks India - Policies and Statements
-
-  * Privacy Policy
-  * [Certifications and Representations](https://web.archive.org/company/aboutus/policies_statements/cert_rep.html)
-  * [Tax ID and Addresses](https://web.archive.org/company/aboutus/policies_statements/taxid.html)
-  * [Patents](https://web.archive.org/company/aboutus/policies_statements/patents.html)
-  * [Trademarks](https://web.archive.org/company/aboutus/policies_statements/trademarks.html)
-  * [Preventing Software Piracy](https://web.archive.org/company/aboutus/policies_statements/piracy.html)
-
-
+# Policies and Statements - MathWorks India
 
 ## Privacy Policy for mathworks.com
 
@@ -34,7 +25,7 @@ MathWorks has further committed to refer unresolved privacy complaints under the
 
 ### 2\. How we use and collect your information
 
-We will not sell or rent your personal contact information to other companies. We will not disclose your personal contact information to other companies, except in the limited manner and for the limited purposes described below. The MathWorks Web site has several forms and additional collection methods that request contact, payment, and other information. Providing such information is optional, but you may be unable to complete certain transactions, obtain certain services, or access certain features of the MathWorks Web site or software without providing the requested information.
+We will not sell or rent your personal contact information to other companies. We will not disclose your personal contact information to other companies, except in the limited manner and for the limited purposes described below. The MathWorks Web site has several forms and additional collection methods that request contact, payment, and [other information](https://web.archive.org/company/aboutus/policies_statements/includes/collection.html?type=shadow). Providing such information is optional, but you may be unable to complete certain transactions, obtain certain services, or access certain features of the MathWorks Web site or software without providing the requested information.
 
 MathWorks uses the personal information it collects for the following purposes:
 
@@ -54,7 +45,7 @@ MathWorks may employ subsidiaries, partners, service providers, authorized distr
 
 **IP addresses and cookies**. We use your IP address to administer our Web site and, occasionally, to help diagnose problems with our server. We may use data collected in Web server log files, JavaScript code, and cookies to analyze visitors’ behavior to better understand their needs. When you visit the MathWorks Web site and access “My Account” applications, one or more cookies may be placed on (or read from) your machine if your browser is set to accept cookies. A cookie is a small data file that we transfer to your computer’s hard drive through your Web browser. These cookies do not store any personal information on your hard drive; they consist of a simple code that is used to access your account information, maintain current session data, gather broad demographic information, and help analyze Web site traffic. MathWorks may use such non-personal information for a variety of purposes including, but not limited to, market research and improving the content of our Web site.
 
-Although Web browsers typically allow cookies by default, most browsers will let you modify settings so that you can decline cookies if you prefer. If you choose to decline cookies, you may not be able to take advantage of all of the features of this Web site or other Web sites you visit. 
+Although Web browsers typically allow cookies by default, you may choose not to receive cookies by modifying the settings of your Web browser to disable cookies. If you choose to decline cookies, you may not be able to take advantage of all of the features of this Web site or other Web sites you visit.
 
 MathWorks engages a third-party Web traffic analysis company to log aggregate information coming through our Web site on our behalf. MathWorks controls how that data may and may not be used. When you visit our Web site, the third-party Web traffic analysis company may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and Web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. These technical tracking methods are not used to relate Web site visitors to any personally identifiable information. Information collected by MathWorks is unique to individual visitors but is not personally identifiable to the third-party Web traffic analysis company. Such information provided to MathWorks may be re-associated by MathWorks with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, or e-mail address, is shared with the third-party Web traffic analysis company.
 
@@ -68,9 +59,12 @@ We allow third-party companies, including a third-party social bookmarking servi
 
 MathWorks sends many types of e-mail and postal mail including printed and electronic newsletters (MathWorks News & Notes and MATLAB® Digest), and event announcements. You may choose not to receive these types of correspondence. 
 
-You can remove your name from e-mail or postal mail lists:   
-  \- [Postal mailing list removal form](https://web.archive.org/company/aboutus/policies_statements/removalform.html)   
-  \- [E-mail list removal form](https://web.archive.org/accesslogin/optOutEmail.do)
+You can remove your name from e-mail or postal mail lists: 
+
+  * [Postal mailing list removal form](https://web.archive.org/company/aboutus/policies_statements/removalform.html)
+  * [E-mail list removal form](https://web.archive.org/accesslogin/optOutEmail.do)
+
+
 
 Note: If you are a licensed customer, you will continue to receive operational correspondence, such as e-mail notification of new releases and maintenance renewal notifications. 
 
