@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcbcode.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227013216id_/http%3A//timbekker.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcbcode.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502020925id_/http%3A//timbekker.com/privacypolicy.php) for the most accurate reproduction.*
 
 # TIMBEKKER.COM
 
