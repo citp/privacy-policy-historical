@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jupiterimages.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207141805id_/http%3A//www.jupiterimages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jupiterimages.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502233809id_/http%3A//www.jupiterimages.com/privacy) for the most accurate reproduction.*
 
 # Stock Images - Royalty-Free Stock Photography Images and Photos at Jupiterimages
 
 ## JUPITERIMAGES PRIVACY POLICY
 
-Last updated: March 2009
+Last updated: May 2012
 
 Jupiterimages is committed to protecting your privacy. This privacy policy tells you about our online collection and use of data. The terms of this policy apply to all Jupiterimages websites, unless different terms are specified in a form or contract provided to you online or offline.
 
@@ -12,19 +12,19 @@ By using this site, you understand and agree to the terms of this policy. This s
 
 ### Collection of Your Personal Information
 
-When you visit this site, certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site’s operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. 
+Jupiterimages collects certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. 
 
 We may combine your visit and navigational information with personal information that you provide. You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you. Personal information (e.g., your username and password, your name, your mailing address, email address, and phone number) is collected when you register. Additional personal information (e.g., your credit card number and billing address) is collected to process transactions or to provide you with products and services.
 
-Demographic information (e.g., your age, hobbies, income, gender, or interests) may also be collected and may be linked to your personal information.
+Limited demographic information, such as industry you work in, is sometimes collected and may be linked to your personal information.
 
 ### Use of Your Personal Information
 
 Jupiterimages collects and uses your personal information to operate and improve our sites, to process your transactions, to provide customer service, to perform research and analysis aimed at improving our products, services and technologies, and to display content that is customized to your interests and preferences. 
 
-We also use your personal information to communicate with you. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing communications to inform you of new products or services or other information that may be of interest. If you do not wish to receive marketing communications, you may adjust your “Personal Information Preferences” as described below or follow the “unsubscribe” instructions included within each email communication. Please keep in mind that, if you choose not to receive marketing communications, you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
+We also use your personal information to communicate with you. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing emails to inform you of new products or services or other information that may be of interest. If you do not wish to receive marketing emails, you may adjust your “Personal Information Preferences” as described below or follow the “unsubscribe” instructions included within each email communication.
 
-Personal information collected by Jupiterimages may be stored and processed in the United States or any other country in which Jupiterimages or its affiliates, subsidiaries, contractors or agents maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country. Jupiterimages abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the “Contact Information” below.
+Personal information collected by Jupiterimages may be stored and processed in the United States or any other country in which Jupiterimages or its affiliates, subsidiaries, contractors or agents maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country. Jupiterimages abides by the safe harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the “Contact Information” below.
 
 ### Sharing of Your Personal Information
 
@@ -44,21 +44,49 @@ If you would like to review or revise information that you previously provided t
 
 ### Personal Information Preferences
 
-Jupiterimages respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing communications from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or by clicking "My account", and then clicking "Contact information" on the website; (2) contacting your Account Executive; or (3) sending an email to [sales@jupiterimages.com](mailto:sales@jupiterimages.com). 
+Jupiterimages respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or by clicking "My account", and then clicking "Contact information" on the website; (2) contacting your Account Executive; or (3) sending an email to [sales@jupiterimages.com](mailto:sales@jupiterimages.com). 
 
-If you choose not to receive marketing communications, please be advised that you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
+If you choose not to receive marketing emails, please be advised that you may continue to receive transactional or account emails (e.g., purchase confirmations and account balance statements).
 
 ### Use of Cookies and Other Technologies
 
-Jupiterimages uses “cookie” to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, and your navigational and purchase history. 
+Jupiterimages uses "cookies" to enable you to sign in to our services and to help personalize and improve your online experience. A cookie is a small text file that is placed on your hard drive or device. Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, and your navigational and purchase history. 
 
-Cookies offer you many conveniences. They allow us to identify registered users when they return to the site so that they can retrieve previous image search results, access Lightboxes and Clipbins and view their previous invoices. Cookies also save you time by eliminating the need to repeatedly enter the same information.
+Cookies offer you many conveniences:
 
-In some cases, our third-party service providers may use cookies on our sites. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Jupiterimages only, and does not cover the use of cookies by third parties.
+They allow us to identify registered users when they return to the site so that they can retrieve previous image search results, access Lightboxes and shopping carts and view their previous invoices.
 
-You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies.
+Cookies save you time by eliminating the need to repeatedly enter the same information.
 
-In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in promotional e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. We do not use these images to collect personal information.
+Cookies allow us to deliver personalized content to you, including search results and targeted advertising.
+
+Cookies help to protect your security by checking your login details and may help prevent fraud.
+
+Cookies remember your preferences when using the site.
+
+Cookies also identify particular customers in the event such customer would like assistance from a live, online customer service representative.
+
+We strive to make this site user-friendly and relevant. Our goal is to deliver more personalized products and services to you.
+
+For this purpose, Jupiterimages also works with third party partners, who use cookies on our site to:
+
+Measure and analyze aggregate usage and volume statistical information from our users on our site. Information gathered may include, but is not limited to the following: activity of the user browser when the user is visiting the site, the site path of users, general information regarding the visitor's internet service provider and host, and the time users come to the site.
+
+Remember our users' previous search of products and services, and dynamically display more relevant content to them.
+
+Record users' behavior on our site, such as pages visited, emails clicked, forms completed and products and services purchased to create customized advertisements and communications that better meet your needs.
+
+Evaluate user traffic and behavior on the site to compile activity reports for our internal use only.
+
+Conduct research and diagnostics to improve our products and services.
+
+Identify users arriving at the site via a referral from an affiliate website or sponsored link.
+
+This privacy policy covers the use of cookies by Jupiterimages only, and does not cover the use of cookies by third parties. If you would like more information about Internet advertising companies, including how to opt-out of their information collection, please visit www.networkadvertising.org.
+
+In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in promotional e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. We do not use these single-pixel gifs to collect personal information.
+
+You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies. Please be aware that the site is optimally designed to operate with cookies enabled in your internet browser. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies. This may negatively impact your experience of the site.
 
 ### Security of Your Personal Information
 
@@ -92,6 +120,6 @@ We reserve the right to change the terms of this privacy policy at any time. Whe
 
 ### Contact Information
 
-You can contact Jupiterimages Sales by emailing [sales@jupiterimages.com](mailto:sales@jupiterimages.com), or by phone at 800 764 7427, or by postal mail at Jupiterimages Corp., Sales, 601 N. 34th Street, Seattle, WA 98103. 
+You can contact Jupiterimages Sales by emailing [sales@jupiterimages.com](mailto:sales@jupiterimages.com), or by phone at 800 764 7427, or by postal mail at Jupiterimages Corp., Sales, 605 5th Avenue South, Suite 400, Seattle, WA 98104. 
 
-© 2009 Jupiterimages. All rights reserved.
+© 1999-2012 Jupiterimages. All rights reserved. Privacy Policy.
