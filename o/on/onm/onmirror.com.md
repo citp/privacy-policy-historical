@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628000702id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502154453id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
 
-# OnMirror.com - Укоротите длинные ссылки в один клик
+# OnMirror.com - Mirror your files in one click
 
 ## Your Privacy
 
