@@ -1,33 +1,154 @@
-<!--The following is the downloaded HTML source of the dmarcian.com privacy policy that was archived on 2012-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102095539id_/http%3A//www.dmarcian.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dmarcian.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502185955id_/http%3A//dmarcian.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
 
 
-    <title>dmarcian - DMARC Tools For Humans</title>
-    <link rel="stylesheet" type="text/css" href="/static/css/base.css" media="screen">
-    <link type="text/css" href="/static/css/south-street/jquery-ui-1.8.22.custom.css" rel="Stylesheet">	
-    <script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
-    <script type="text/javascript" src="/static/js/jquery-ui-1.8.22.custom.min.js"></script>
+  <title>dmarcian - DMARC Tools For Humans</title>
+  <link rel="stylesheet" type="text/css" href="/static/css/new_base.css?v=5" media="screen">
+  <link type="text/css" href="/static/css/smoothness/jquery-ui-1.9.2.custom.min.css" rel="Stylesheet">	
+  <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css">
+
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/static/js/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="/static/js/jquery-ui-1.9.2.custom.min.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.ui.core.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.ui.widget.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.ui.position.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.ui.menu.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.ui.menubar.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.qtip.min.js"></script>
+
+
+  <script>
+	$(function() {
+		$(".menubar-icons").menubar({
+			autoExpand: true,
+			menuIcon: true,
+			buttons: true
+		});
+
+		$(".menubar-act").menubar({
+			autoExpand: true,
+			menuIcon: true,
+			buttons: true
+		});
+
+   $('a[rel="modal"]:first').qtip(
+	{
+		id: 'modal', // Since we're only creating one modal, give it an ID so we can style it
+		content: {
+			text: $('#get-help-modal'),
+			title: {
+				text: '<span style="font-size:1.4em">How to get help</span>',
+				button: true
+			}
+		},
+		position: {
+			my: 'center', // ...at the center of the viewport
+			at: 'center',
+			target: $(window)
+		},
+		show: {
+			event: 'click', // Show it on click...
+			solo: true, // ...and hide all other tooltips...
+			modal: true // ...and make it modal
+		},
+		hide: false,
+		style: 'qtip-light qtip-rounded'
+	});
+
+	});
+  </script>
+  <style>
+    .ui-menu { width: 100px; font-size:1em;}
+    .account-box { padding: 0.5em 0.5em 0em 0.5em; }
+  </style>
 
 </head>
-
-<body class="ui-widget" style="font-size:90%">
-
-<div id="header" class="ui-state-hover ui-corner-all">
-    <h1>dmarcian.com<br>Human-Friendly DMARC Tools Since 2012</h1>
+<body>
+<div id="get-help-modal" style="display: none;">
+  Get help with DMARC or dmarcian.com by <a href="mailto:authonaut@dmarcian.com?subject=question for dmarcian.com">emailing dmarcian.com</a> directly.
+  <br><br>
+  The <a href="/about">experts behind dmarcian.com</a> will happily answer questions about DMARC, SPF, DKIM, deployment issues, and how to interpret data.. <strong>for free</strong>!
+  <br><br>
+  If you're looking for robust support services to get DMARC deployed at your site, <a href="mailto:authonaut@dmarcian.com?subject=DMARC support options">email dmarcian.com</a> and we'll steer you in the right direction.
 </div>
+<div id="header">
+  
+  
+  <h1><span style="font-size:1.4em;">dmarcian.com</span><span style="font-size:0.7em; font-weight: normal;">&nbsp;&nbsp;&nbsp;Human-Friendly DMARC Tools Since 2012
+    <div class="modal" style="float:right"><a href="#" rel="modal" data-hasqtip="modal"><img style="width:99px;height:50px; margin:0" src="/static/images/get_help.png"></a></div></span></h1>
+  <div style="clear:both"></div>
+    <div id="menu">
+      <ul class="menubar-icons ui-menubar ui-widget-header ui-helper-clearfix" role="menubar">
+        <li id="menu_home" class="ui-menubar-item" role="presentation"><a href="/" class="ui-button ui-widget ui-button-text-only ui-state-default" role="menuitem"><span class="ui-button-text">dmarcian.com</span></a></li>
+        <li id="menu_dmarc" class="ui-menubar-item" role="presentation"><a href="/dmarc_features/" tabindex="-1" aria-haspopup="true" class="ui-state-default ui-button-text-icon-secondary ui-button ui-widget ui-button-text-only" role="menuitem"><span class="ui-button-text">About DMARC<span class="ui-button-icon-secondary ui-icon ui-icon-triangle-1-s"></span></span></a>
+          <ul id="ui-id-1" class="ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" tabindex="0" aria-hidden="true" aria-expanded="false" style="display: none;">
+            <li class="ui-menu-item" role="presentation"><a href="/dmarc_features/" id="ui-id-2" class="ui-corner-all" tabindex="-1" role="menuitem">Features</a></li>
+            <li class="ui-menu-item" role="presentation"><a href="/dmarc_adoption/" id="ui-id-3" class="ui-corner-all" tabindex="-1" role="menuitem">Current Adoption</a></li>
+            <li class="ui-menu-item" role="presentation"><a href="/dmarc_get_started/" id="ui-id-4" class="ui-corner-all" tabindex="-1" role="menuitem">Get Started</a></li>
+          </ul>
+        </li>
+        <li id="menu_tools" class="ui-menubar-item" role="presentation"><a href="/tools/" tabindex="-1" aria-haspopup="true" class="ui-state-default ui-button-text-icon-secondary ui-button ui-widget ui-button-text-only" role="menuitem"><span class="ui-button-text">Tools<span class="ui-button-icon-secondary ui-icon ui-icon-triangle-1-s"></span></span></a>
+          <ul id="ui-id-5" class="ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" tabindex="0" aria-hidden="true" aria-expanded="false" style="display: none;">
+            <li id="menu_tool_overview" class="ui-menu-item" role="presentation"><a href="/tools/" id="ui-id-6" class="ui-corner-all" tabindex="-1" role="menuitem">Overview of Tools</a></li>
+            <li id="menu_lifter" class="ui-menu-item" role="presentation"><a href="/domain_lifter/" id="ui-id-7" class="ui-corner-all" tabindex="-1" role="menuitem">Domain Lifter</a></li>
+            <li id="menu_xml_to_human" class="ui-menu-item" role="presentation"><a href="/dmarc-xml/" id="ui-id-8" class="ui-corner-all" tabindex="-1" role="menuitem">XML-to-Human Converter</a></li>
+            <li id="menu_kitterman_record_gen" class="ui-menu-item" role="presentation"><a href="/kitterman_record_gen/" id="ui-id-9" class="ui-corner-all" tabindex="-1" role="menuitem">DMARC Record Assistant</a></li>
+            <li id="menu_dmarc_inspector" class="ui-menu-item" role="presentation"><a href="/dmarc-inspector/" id="ui-id-10" class="ui-corner-all" tabindex="-1" role="menuitem">DMARC Inspector</a></li>
+            <li id="menu_spf_survey" class="ui-menu-item" role="presentation"><a href="/spf-survey/" id="ui-id-11" class="ui-corner-all" tabindex="-1" role="menuitem">SPF Surveyor</a></li>
+            <li id="menu_protodave_dkim" class="ui-menu-item" role="presentation"><a href="/protodave_dkim/" id="ui-id-12" class="ui-corner-all" tabindex="-1" role="menuitem">DKIM Key Checker</a></li>
+            <li id="menu_interop_qa" class="ui-menu-item" role="presentation"><a href="/interop_qa/" id="ui-id-13" class="ui-corner-all" tabindex="-1" role="menuitem">Interoperability Test Suite</a></li>
+          </ul>
+        </li>
+        <li id="menu_plans" class="ui-menubar-item" role="presentation"><a href="/plans/" tabindex="-1" class="ui-button ui-widget ui-button-text-only ui-state-default" role="menuitem"><span class="ui-button-text">Plans</span></a></li>
+        <li id="menu_news" class="ui-menubar-item" role="presentation"><a href="/news/" tabindex="-1" class="ui-button ui-widget ui-button-text-only ui-state-default" role="menuitem"><span class="ui-button-text">News</span></a></li>
+        <li id="menu_about" class="ui-menubar-item" role="presentation"><a href="/about/" tabindex="-1" class="ui-button ui-widget ui-button-text-only ui-state-default" role="menuitem"><span class="ui-button-text">About</span></a></li>
+      </ul>
+    </div>
 
+    <div id="login_row">
+<div style="margin-bottom:6px">
 
+      Not logged in.       
 
-    <div id="content" class="ui-widget-content ui-corner-all">
+      <span style="font-size:75%">(Beta - please send feedback!)</span>
+<span style="float:right">
+
+      <a href="/accounts/login/">Log IN / Create account</a>
+
+</span>
+</div>
+<div style="clear:both"></div>
+      <ul id="act_menu" class="menubar-icons ui-menubar ui-widget-header ui-helper-clearfix" style="float:right;" role="menubar">
+        <li id="act_control" class="ui-state-disabled ui-menubar-item" role="presentation"><a href="/mcontrol/" class="ui-button ui-widget ui-button-text-only ui-state-default" role="menuitem"><span class="ui-button-text">Mission Control</span></a></li>
+        <li id="act_ascope" class="ui-state-disabled ui-menubar-item" role="presentation"><a href="/authentiscope/" tabindex="-1" class="ui-button ui-widget ui-button-text-only ui-state-default" role="menuitem"><span class="ui-button-text">Authentiscope</span></a></li>
+        <li id="act_raw" class="ui-state-disabled ui-menubar-item" role="presentation"><a href="/dmarc-xml/raw-data/" tabindex="-1" class="ui-button ui-widget ui-button-text-only ui-state-default" role="menuitem"><span class="ui-button-text">Raw Data</span></a></li>
+      </ul>
+
+      <span id="login_row_lifter" class="do_not_logged">Domain Lifter:</span>
+
+    </div>
+    <div class="ui-widget">
+
+     <div class="account-box ui-state-highlight ui-corner-all">
+      <span class="ui-icon ui-icon-lightbulb" style="float: left; margin-right: .3em;"></span><strong>Save time.  Gain insight.  Control your email.</strong>
+      <p></p><p style="float:right"><a href="/login/" class="button orange">Get started now!</a></p><p></p>
+      <div style="clear:both"></div>
+     </div>
+
+    </div>
+</div>
+<div class="colmask fullpage">
+    <div class="col1">
         
 
-        
 <img src="/static/images/mars_face.jpeg" align="right">
 
-<h1>Privacy Policy - 24 February 2012</h1>
+<h1>Privacy Policy - 13 January 2013</h1>
+<pre>13 January 2013 - update to indicate user-submitted data gets deleted when account is deleted
+24 February 2012 - original publication</pre>
 
 <p>The privacy and security of personal information is a dmarcian.com
 priority, and we want you to be aware of how your information is
@@ -47,8 +168,12 @@ of your information as described in this Privacy Policy.</p>
   <dd>dmarcian.com collects information submitted by users such as DMARC
       XML aggregate files and information pertaining to the submission
       such as source IP address of submissions and time of
-      submission.  All content submitted by you to the Services may be retained
-      by dmarcian.com indefinitely, even after you stop using the Services.</dd>
+      submission.  All content submitted anonymously (without being logged into
+      the Services) may be retained by dmarcian.com indefinitely, even after you
+      stop using the Services.  All content submitted by you while logged into
+      the Services may be retained by dmarcian.com until account deletion.
+      Account deletion removes all content that was submitted to the Services
+      while logged into the account.</dd>
   <dt>IP Address Information and Other Information Collected Automatically</dt>
   <dd>dmarcian.com automatically receives and records information from your
       web browser when you interact with the Services, including your IP address
@@ -143,15 +268,40 @@ For questions about this Privacy Policy, please contact us.
 
 
     </div>
-
-<div id="footer" class="ui-state-hover ui-corner-all">
-      <p>
-        Email: <a href="mailto:authonaut@dmarcian.com">authonaut@dmarcian.com</a> |
-        IRC: <a href="irc://chat.freenode.net/%23dmarc">irc://chat.freenode.net/#dmarc</a> |
-        <a href="/privacy">Privacy Policy</a> |
-        ©2012 <a href="http://dmarcian.com">dmarcian.com</a>
-      </p>
 </div>
+<div id="footer">
+  <p>
+    Email: <a href="mailto:authonaut@dmarcian.com">authonaut@dmarcian.com</a> |
+    IRC: <a href="http://webchat.freenode.net/?channels=dmarc">irc://chat.freenode.net/#dmarc</a> |
+    <a href="/privacy/">Privacy Policy</a> |
+    ©2013 <a href="http://dmarcian.com/">dmarcian.com</a> |
+    <script type="IN/Share" data-url="dmarcian.com"></script>
+    <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+    <g:plusone size="medium" annotation="none" href="http://dmarcian.com"></g:plusone>
+    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=dmarcian&amp;show_count=false" style="width:120px; height:20px;"></iframe>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+  </p>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36813691-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 
 
 
