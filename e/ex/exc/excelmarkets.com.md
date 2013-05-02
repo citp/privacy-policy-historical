@@ -1,100 +1,63 @@
-> *The following text is extracted and transformed from the excelmarkets.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelmarkets.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502123532id_/https%3A//www.excelmarkets.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Forex Broker | Best Trading Spreads | Privacy Policy | Excel Markets
 
-**Go Daddy Respects Your Privacy**
+Our Commitment 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Global Brokers NZ Ltd. (GBL) is committed to protecting your privacy and safeguarding your personal information. Our regulatory framework requires that we collect certain information from our clients and applicants. The following Privacy Policy governs how we handle and secure your personal data. We encourage everyone to read through our policy to better understand our commitment to your security. If you have any questions or concerns, please feel free to contact our friendly customer support staff at your convenience. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Article I. Information Collected by GBL
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The categories of nonpublic personal information which GBL shall collect include: 
 
-**Information Collection and Use**
+a) Information provided by the customer when opening an account, or to process a transaction, such as name, address, assets, bank information, prior trading experience, etc.;  
+b) Information used to verify the identity of the customer, including copies of government issued identification materials such as passports, drivers licenses, and credit reports;  
+c) Information resulting from transactions between the customer and GBL or an affiliate of GBL, such as withdrawal and deposit forms;  
+d) Information derived from customer’s navigation and usage of GBL’ website and online platforms, including account trading statements;
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Article II. Usage of Personal Information
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+GBL may use the information collected from you to verify your identity and contact information. GBL may also use this information to establish and setup your trading or demo account, issue an account number and a secure password, maintain your account activity, and contact you with account information.  
+Should you close your account, GBL will retain your information, but only use it to comply with regulatory requirements and to periodically contact you to offer you the opportunity to reactivate your account or participate in other valuable offers.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## Article III. Information Disclosed by GBL and To Whom GBL Discloses the Information 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+GBL may share information with affiliates if the information is required to provide the product or service you have requested or to provide you the opportunity to participate in the products or services our affiliates offer. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Except for the limited circumstances described below or as otherwise permitted by law, GBL does not share or sell nonpublic personal information about our current or former customers with any third parties. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+a) GBL may share nonpublic personal information with introducing brokers for translation services. When introducing brokers provide translation services, we endeavor to protect such personal information by requiring those introducing brokers to enter into an agreement with GBL to safeguard the confidentiality of personal information. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+b) When a client is referred by an introducing broker, GBL generally shares nonpublic personal information concerning the account opening and maintenance process with the introducing broker who made the referral;
 
-**Security**
+c) GBL may engage another business or person to help us identify client and demo user needs and notify clients and demo users of product and service offerings. Use of the information shared is limited to the performance of the task we request and is not used for any other purpose. These third parties are required to enter into an agreement with GBL to safeguard the confidentiality of personal information before they provide such services. Examples of information shared are identifying information such as name, mailing address, e-mail address and telephone number and information on account activity. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+d) GBL may provide information to non-affiliated third parties, as permitted by law, in providing financial services to you. This includes a consumer reporting agency that prepares your credit report; 
 
-**Updating Your Information**
+e) GBL may provide information, as permitted by law, to government or regulatory agencies and to comply with a legal summons, court order, subpoena or a similar legal process, audit or investigation; and 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+f) GBL may also disclose your nonpublic personal information if you authorize such disclosure. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If you do not wish to have GBL share nonpublic personal information with non-affiliated third parties pursuant to any of the provisions listed above, please opt out of those provisions by sending an e-mail to [compliance@excelmarkets.com](mailto:compliance@excelmarkets.com). Opting out will apply for all financial products or services you obtain through GBL. Please note that you cannot opt out of any provisions if sharing of the information is required by law. Further, please note that an opt-out election must be made for each separate account you hold at GBL or with any GBL affiliates. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## Article IV. Confidentiality and Security Procedures 
 
-      iii.      You may call us at: (480) 505-8800
+Only those staff members for whom the information is necessary to complete a given transaction shall possess the authority to access the information. GBL, its personnel, and its affiliates shall strictly adhere to security practices and procedures to ensure the confidentiality of its customers’ information. 
 
-       iv.      You may fax us at: (480) 505-8844
+GBL maintains numerous safeguards that comply with government regulations to guard your nonpublic personal information including the use of encryption technology, firewalls and authentication systems (usernames and passwords). 
 
-**Sending Emails**
+GBL will continue to protect the privacy of former customers’ nonpublic personal information in the same manner as when they were customers. Unlike current customers, however, former customers will not receive annual privacy notices. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+GBL will provide a notice of our privacy policy annually, as long as the customer maintains an account with GBL. GBL reserves the right to make changes to this policy. This policy may always be reviewed on [www.excelmarkets.com/privacy](http://www.excelmarkets.com/privacy "www.excelmarkets.com/privacy").
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Article V. Cookies
 
-**Compliance with Laws and Law Enforcement**
+GBL may set cookies and other data capture mechanisms on your computer that allow us to store data about your visit. Cookies help us learn which areas of our site are useful and which areas need improvement. You may configure your browser to prevent cookies from being set on your computer. If you do so, you may still access the website but certain features may be disabled and/or not function properly.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Article VI. Personal Data Access
 
-**Third Party Service Providers**
+Access to the Personal Data we may hold about you. You have the right to request a copy of the data we hold about you and to have any inaccurate data about you corrected. For more information, please send an email to [compliance@excelmarkets.com](mailto:compliance@excelmarkets.com).
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Article VII. Opt Out
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+You are not required to supply any of the personal information that we may request. However, failure to do so may result in GBL not being able to open or maintain your account. 
