@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fandy.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820152558id_/http%3A//www.sanduskyregister.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandy.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502233456id_/http%3A//www.tandemnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sandusky Register
+# Privacy Policy | Tandem Media Network
 
-This is the web site of Sandusky Register.
+This is the Tandem Media Network
 
 We can be reached via e-mail at [webmaster@sanduskyregister.com](mailto:webmaster@sanduskyregister.com) or you can reach us by telephone at 419-625-5500.
 
