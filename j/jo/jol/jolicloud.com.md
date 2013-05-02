@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030070626id_/http%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502233651id_/http%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
 
 # Jolicloud - Privacy Policy
 
@@ -100,7 +100,7 @@ We do not disclose your private information except in the limited following situ
 
 
 
-We may from time to time send you updates about your account or our products and services. You may however opt out of receiving promotional emails at any time. Opting out can be done [here](http://my.jolicloud.com/settings/notices).
+We may from time to time send you updates about your account or our products and services. You may however opt out of receiving promotional emails at any time. Opting out can be done [here](http://drive.jolicloud.com/settings/notices).
 
 ### Information security
 
@@ -110,7 +110,7 @@ We take all reasonable steps to safeguard the security of any information you in
 
 According to the French data protection law dated 6th January 1978, you have a right to access and modify your personal data stored by Jolicloud. Accordingly, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes.
 
-To access and modify your personal data, please send an email to [privacy@jolicloud.com](https://web.archive.org/web/20121030070626id_/http%3A//www.jolicloud.com/privacy@jolicloud.com) identifying yourself and the information you would like us to access, correct or remove. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+To access and modify your personal data, please send an email to [privacy@jolicloud.com](https://web.archive.org/web/20130502233651id_/http%3A//www.jolicloud.com/privacy@jolicloud.com) identifying yourself and the information you would like us to access, correct or remove. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
 The data we are indexing from your third party services can be deleted at any time. To remove services you no longer want to see in your Jolicloud please go to [your settings](https://web.archive.org/settings). We will delete the third party authentication data and the third party data completely from our servers as fast as is technically feasible - this could talk approx 20 minutes. Records of your interaction with Jolicloud may persist in our server and communication logs.
 
@@ -128,7 +128,7 @@ We do not own or operate the applications available through the Jolicloud Applic
 
   * #### Contacting Jolicloud
 
-If you have any additional questions or concerns about this privacy policy, please feel free to contact us any time at [privacy@jolicloud.com](https://web.archive.org/web/20121030070626id_/http%3A//www.jolicloud.com/privacy@jolicloud.com).
+If you have any additional questions or concerns about this privacy policy, please feel free to contact us any time at [privacy@jolicloud.com](https://web.archive.org/web/20130502233651id_/http%3A//www.jolicloud.com/privacy@jolicloud.com).
 
 
 
