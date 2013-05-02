@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904084649id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502194331id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -22,11 +22,11 @@ Genre
   
 Latest Comments   
 ---  
-[House of 1000 Corpses](https://web.archive.org/Movie%20Scripts/House%20of%201000%20Corpses%20Script.html)| 10/10  
-[500 Days of Summer](https://web.archive.org/Movie%20Scripts/500%20Days%20of%20Summer%20Script.html)| 10/10  
-[12 Monkeys](https://web.archive.org/Movie%20Scripts/12%20Monkeys%20Script.html)| 10/10  
-[500 Days of Summer](https://web.archive.org/Movie%20Scripts/500%20Days%20of%20Summer%20Script.html)| 8/10  
-[Broadcast News](https://web.archive.org/Movie%20Scripts/Broadcast%20News%20Script.html)| 7/10  
+[Django Unchained](https://web.archive.org/Movie%20Scripts/Django%20Unchained%20Script.html)| 10/10  
+[Usual Suspects, The](https://web.archive.org/Movie%20Scripts/Usual%20Suspects,%20The%20Script.html)| 9/10  
+[Halloween: The Curse of Michael Myers](https://web.archive.org/Movie%20Scripts/Halloween:%20The%20Curse%20of%20Michael%20Myers%20Script.html)| 10/10  
+[American Beauty](https://web.archive.org/Movie%20Scripts/American%20Beauty%20Script.html)| 10/10  
+[White Squall](https://web.archive.org/Movie%20Scripts/White%20Squall%20Script.html)| 10/10  
   
 | 
 
