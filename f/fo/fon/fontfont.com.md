@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontfont.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231419id_/https%3A//www.fontfont.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontfont.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502181945id_/https%3A//www.fontfont.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
