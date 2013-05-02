@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alorica.com privacy policy that was archived on 2012-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103183244id_/http%3A//www.alorica.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alorica.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502070850id_/http%3A//alorica.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><title>
 	Privacy Policy
@@ -38,6 +38,7 @@
     }
   </style>
   <script src="/_js/jquery.min.js" type="text/javascript"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script> 
   <script src="/_js/jquery.colorbox-min.js" type="text/javascript"></script>
   <script src="/_js/ui.tabs.js" type="text/javascript"></script>
   <script src="/_js/jquery.scrollable-1.0.2.min.js" type="text/javascript"></script>
@@ -49,6 +50,7 @@
 		if(!navigator.userAgent.match(/iPad/i)) {
 			$(".external1").colorbox({ iframe: false, innerWidth: "920", innerHeight: "500", scrolling: false });
 			$(".external2").colorbox({ iframe: false, innerWidth: "854", innerHeight: "480", scrolling: false });
+			$(".externalMap").colorbox({ iframe: true, innerWidth: "800", innerHeight: "480", scrolling: false });
 		}
 
       /*  NAVIGATION  */
@@ -126,24 +128,32 @@
     </script>
     
     <script type="text/javascript">
-      $("document").ready(function () {
-        $('.accordion h3 a').click(function (e) { e.stopPropagation(); });
+        $("document").ready(function () {
+            $('.accordion h3 a').click(function (e) { e.stopPropagation(); });
 
-        $('#list').accordion({
-          autoheight: false,
-          fillSpace: false,
-          active: false,
-          alwaysOpen: false
+            $('#list').accordion({
+                autoheight: false,
+                fillSpace: false,
+                active: false,
+                alwaysOpen: false
+            });
+
+            $('#list2').accordion({
+                autoheight: false,
+                fillSpace: false,
+                active: false,
+                alwaysOpen: false
+            });
+
+            $('#list h3.selected').click();
+            $('#list2 h3.selected').click();
+
+            $('.accordion h3').each(function (index) {
+                if ($(this).next().children().length < 1) {
+                    $(this).css('background-image', 'none');
+                }
+            });
         });
-
-        $('#list h3.selected').click();
-
-        $('.accordion h3').each(function (index) {
-          if ($(this).next().children().length < 1) {
-            $(this).css('background-image', 'none');
-          }
-        });
-      });
     </script>
   
   
@@ -158,7 +168,7 @@
   <form method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
 <div class="aspNetHidden">
 <input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,-1028352248,1948574407,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1357665627,1808714324,646986939,1338359439,1628691364,-1008700845">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQxNjQ0NzAxNw9kFgJmD2QWAgIBEGRkFgICAw9kFgRmD2QWAgICDxYCHgdWaXNpYmxlaBYGAgEPFgIfAGgWAgIBDxYCHwBoZAIDDxYCHwBoFgICAQ8WAh8AaGQCBQ8WAh8AaBYCAgEPFgIfAGhkAgEPZBYCZg8WAh8AaGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJmN0bDAwJENwaEhlYWRlciR1eEhlYWRlciRjbWRTaXRlU2VhcmNoAPlbk1jcFF8fYaKc0+IgKeAJkVHZCfKdkP47Tr110rQ=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQxNjQ0NzAxNw9kFgJmD2QWAgIBEGRkFgICAw9kFgRmD2QWAgIDDxYCHgdWaXNpYmxlaBYGAgEPFgIfAGgWAgIBDxYCHwBoZAIDDxYCHwBoFgICAQ8WAh8AaGQCBQ8WAh8AaBYCAgEPFgIfAGhkAgEPZBYCZg8WAh8AaGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJmN0bDAwJENwaEhlYWRlciR1eEhlYWRlciRjbWRTaXRlU2VhcmNoWTK8FuwSJcVFf1Tq4WgsqMJ+V+9VmLmLgi7beMp7STw=">
 </div>
 
 
@@ -169,7 +179,7 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKu/J+4AgLKgt7rDAKB19DtDSWdPsIN7SU80onXEKlIKug69pmXrVAYirOxofvgt8wk">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK/yPCNCALKgt7rDAKB19DtDSLETuQ1gF33Ku+Gyld6nsWRg3cUpnO7YUD+oM8Z7tQ9">
 </div>
   <div class="container">
     
@@ -272,7 +282,7 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
     <div class="subPage">
       <div class="subPageHolder">
         
-  <div class="leftChannel"><div id="list" class="accordion"><h3><a href="/NewsAndResources.aspx">News and Resources</a></h3><ul class="revealed" style="display: none;"><li><a href="/NewsAndResources/PressReleases.aspx">Press Releases</a></li><li><a href="/NewsAndResources/Knowledge_Center.aspx">Knowledge Center</a></li><li><a href="/NewsAndResources/SuccessStudies.aspx">Success Stories</a></li><li><a href="http://business-process-outsourcing.tmcnet.com" target="_blank">BPO Community News</a></li></ul><h3><a href="/Contact-Us.aspx">Contact Us</a></h3><ul class="revealed" style="display: none;"></ul><h3><a href="/ContactUs/Locations.aspx">Locations</a></h3><ul class="revealed" style="display: none;"></ul></div></div>
+  <div class="leftChannel"><div id="list" class="accordion"><h3><a href="/NewsAndResources.aspx">News and Resources</a></h3><ul class="revealed" style="display: none;"><li><a href="/NewsAndResources/PressReleases.aspx">Press Releases</a></li><li><a href="/NewsAndResources/Knowledge_Center.aspx">Knowledge Center</a></li><li><a href="/NewsAndResources/SuccessStudies.aspx">Success Stories</a></li><li><a href="http://business-process-outsourcing.tmcnet.com" target="_blank">BPO Community News</a></li><li><a href="">Alorica Voices</a></li></ul><h3><a href="/Contact-Us.aspx">Contact Us</a></h3><ul class="revealed" style="display: none;"></ul><h3><a href="/ContactUs/Locations.aspx">Locations</a></h3><ul class="revealed" style="display: none;"></ul></div></div>
 
 
         <div class="centerChannel">
@@ -326,8 +336,51 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
                   866-ALORICA</span> <span class="email"><a href="/Contact-Us.aspx">Email us</a></span>
               </h3>
               <!-- /contactUsBox -->
-            </div>
-            <span></span>
+            </div>			
+            
+<style type="text/css">
+   .p1, .p2, .p3{display:none; position:absolute;}
+   .p1{
+		left:0px;
+	}
+	.p2{
+		left:50px;
+	}
+	.p3{
+		left:100px;
+	}
+	.start{opacity:.25;}
+	.end{opacity:1;}
+	a.persona img:hover{margin:-10px -5px;; width:60px !important; height:170px !important;}
+	/* override styles */
+	.ui-accordion .ui-accordion-header .ui-icon{display:none;}
+	.ui-accordion .ui-accordion-content{border:none;}
+	.ui-accordion .ui-accordion-header{border:none; font-weight:bold;}
+	.ui-corner-top{border:none;}
+</style>
+
+
+
+<script>
+    $(document).ready(function () {
+
+//        $(".p1").delay(1500).switchClass("start", "end", 1000);
+//        $(".p2").delay(1750).switchClass("start", "end", 1000);
+//        $(".p3").delay(2000).switchClass("start", "end", 1000);
+        
+        $(".p1").delay(1500).show("slide", { direction: "down" }, 1000).animate({ 'opacity': 1}, 500).delay(1000).animate({ 'width': 60, 'height': 170 }, 500).animate({ 'width': 50, 'height': 140 }, 500);
+        $(".p2").delay(2000).show("slide", { direction: "down" }, 1000).animate({ 'opacity': 1 }, 500).delay(1000).animate({ 'width': 60, 'height': 170 }, 500).animate({ 'width': 50, 'height': 140 }, 500);
+        $(".p3").delay(2500).show("slide", { direction: "down" }, 1000).animate({ 'opacity': 1 }, 500).delay(1000).animate({ 'width': 60, 'height': 170 }, 500).animate({ 'width': 50, 'height': 140 }, 500);
+
+        setInterval(function () {
+            $(".p1").delay(500).animate({ 'width': 60, 'height': 170 }, 500).animate({ 'width': 50, 'height': 140 }, 500);
+            $(".p2").delay(1000).animate({ 'width': 60, 'height': 170 }, 500).animate({ 'width': 50, 'height': 140 }, 500);
+            $(".p3").delay(1500).animate({ 'width': 60, 'height': 170 }, 500).animate({ 'width': 50, 'height': 140 }, 500);
+            }, 15000);
+        });
+	  
+</script>
+<span></span>
 
 
             
