@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218100957id_/http%3A//www.kunocreative.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002802id_/http%3A//www.kunocreative.com/privacy) for the most accurate reproduction.*
 
 # Inbound Marketing Agency Privacy Policy
 
-### We recognize that privacy and confidentiality are important to our clients. This page describes in detail the privacy practices that apply for all of our inbound marketing services.
+#### We recognize that privacy and confidentiality are important to our clients. This page describes in detail the privacy practices that apply for all of our inbound marketing services.
 
 ### Confidentiality
 
