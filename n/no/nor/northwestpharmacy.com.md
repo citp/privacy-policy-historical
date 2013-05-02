@@ -1,65 +1,8 @@
-> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004103009id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502131934id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NorthWestPharmacy.com
 
-| 
-
-|   
----  
   
-|   
----  
-Cart is currently empty   
-  
-  
-  
-  
-  
----  
----  
-  
-
-
-**CANADIAN PRESCRIPTIONS DISPENSED FROM CANADA* BY**  
-  
----  
-|  |  Pharmawest Pharmacy  
-Unit #101 20560 56th Ave  
-Langley, BC, Canada  
-V3A 3Y8
-
-Pharmawest Pharmacy License Number: 18978
-
-(*Not all prescriptions supplied by Pharmawest.)  
-  
----|---  
-  
-
-
-**CANADIAN PHARMACY MANAGER**  
-  
----  
-  
-
-
-**LICENSING BODY OF CANADIAN PHARMACY**  
-  
----  
-|  |  College of Pharmacists  
-of British Columbia
-
-If you should have any questions or concerns, you may contact the College.
-
-The College is located at:  
-200-1765 West 8th Ave  
-Vancouver, BC, V6J 5C6  
-  
----|---  
-  
-  
-[ ](http://www.rxrights.org/take-action)  
-  
-|    
 **Privacy Policy**
 
 _Introduction_
