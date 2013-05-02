@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016121504id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502091255id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Vertical Health Privacy Policy | Vertical Health
 
