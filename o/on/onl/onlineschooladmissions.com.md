@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onlineschooladmissions.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014060013id_/http%3A//www.onlineschooladmissions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineschooladmissions.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502075030id_/http%3A//www.onlineschooladmissions.com/privacy.php) for the most accurate reproduction.*
 
 # Online School Admissions Privacy Policy
-
-Privacy Policy
 
 At www.onlineschooladmissions.com, we are committed to protect your privacy as a visitor or user of this website. The company does not sell, disseminate, disclose, trade, transmit, transfer, share, lease or rent any personally identifiable information to any third party unless and until it is specifically authorized by you. We follow strict guidelines and policies with regard to maintaining privacy of data or information we collect as declared in this privacy policy. 
 
@@ -35,23 +33,3 @@ You agree that we may use personal information about you to improve our marketin
 You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, service offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications on the notification preferences page within your own personal profile. You may make changes to your notification preferences at any time.
 
 If you have questions or concerns regarding this statement, you should first contact Customer Support by mail at [support@onlineschooladmissions.com](mailto:support@onlineschooladmissions.com "support@onlineschooladmissions.com")
-
-| 
-
-  * Use the easy school search options to search the desired school
-  * Fill in the application form completely and carefully
-  * Review the application form before clicking submit
-  * Do not worry in case the confirmation SMS doesn’t reaches you instantly, you may receive it a bit late due to the load on SMS server.
-
-
-
-  * Easy school search options for schools across India
-  * Easy and quick online school form submission in minutes
-  * Immediate SMS confirmation after form submission
-  * Saves lot of your time and money
-  * Complete security and privacy of your personal information
-  * No more hassle of standing in queues or visiting the schools
-
-  
-  
----|---
