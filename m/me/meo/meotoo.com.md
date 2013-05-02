@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meotoo.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016055558id_/http%3A//www.meotoo.com/catalog-shop-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meotoo.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502140106id_/http%3A//www.meotoo.com/catalog-shop-privacy.html) for the most accurate reproduction.*
 
-# MeoToo Development - MeoToo Development Shop - Privacy - spanish
+# MeoToo Development - MeoToo Development Shop - Privacy
 
 **What information do we collect?**
 
@@ -39,7 +39,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by [contacting us by e-mail](https://web.archive.org/web/20121016055558id_/http%3A//www.meotoo.com/modules?name=Feedback). 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by [contacting us by e-mail](https://web.archive.org/web/20130502140106id_/http%3A//www.meotoo.com/modules?name=Feedback). 
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. 
 
@@ -55,7 +55,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.meotoo.com/modules.php?name=catalog&file=conditions](https://web.archive.org/web/20121016055558id_/http%3A//www.meotoo.com/modules.php?name=catalog&file=conditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.meotoo.com/modules.php?name=catalog&file=conditions](https://web.archive.org/web/20130502140106id_/http%3A//www.meotoo.com/modules.php?name=catalog&file=conditions)
 
 **Your Consent**
 
