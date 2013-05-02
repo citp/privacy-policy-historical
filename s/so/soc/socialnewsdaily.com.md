@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialnewsdaily.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128131609id_/http%3A//socialnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialnewsdaily.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502172932id_/http%3A//socialnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Social News Daily
+# Privacy Policy | Social News Daily
 
 Social News Daily knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
@@ -61,13 +61,3 @@ If you decide to visit Indyposted website, your visit and any possible dispute o
 Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of June 2nd 2011 and last updated June 2nd 2011.
-
-  * Bio
-  * Twitter
-  * Facebook
-  * Google+
-  * Latest Posts
-
-
-
-James Johnson is a 10 year veteran of the new media and social media industries. As the current editor of Inquisitr.com he manages more than 13 million pageviews per months with a reach of more than 8 million unique visitors. Over the last 10 years James has helped launch and operate several large scale websites based in the news and guide industries.
