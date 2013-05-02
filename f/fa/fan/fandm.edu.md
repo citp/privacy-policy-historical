@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625152347id_/http%3A//www.fandm.edu/uploads/media_items/documents-offices-businessoffice-privacy-policy-pdf.original.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502122011id_/http%3A//www.fandm.edu/uploads/media_items/documents-offices-businessoffice-privacy-policy-pdf.original.pdf) for the most accurate reproduction.*
 
 # 
 
