@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915041254id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502095656id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy for CPASiteSolutions Websites for CPAs and Accountants
 
@@ -68,7 +68,7 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 ## Try CPA Site Solutions Free for 60 Days
 
-### Get your website up with only 15 minutes of your time.
+### Get your website up with only 10 minutes of your time.
 
 (We'll spend hours on it so you don't have to.)
 
