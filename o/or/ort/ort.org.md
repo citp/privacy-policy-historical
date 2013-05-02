@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109044159id_/http%3A//www.ort.org/footer-menu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502113107id_/http%3A//www.ort.org/en/footer-menu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World ORT
 
