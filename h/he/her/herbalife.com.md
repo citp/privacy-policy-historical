@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalife.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029110300id_/http%3A//www.herbalife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalife.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001320id_/http%3A//www.herbalife.com/privacy-policy) for the most accurate reproduction.*
 
 # Herbalife - United States - Privacy Policy
 
