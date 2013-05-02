@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130034502id_/http%3A//www.onlinejobsjunction.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502124409id_/http%3A//onlinejobsjunction.com/privacy-policy.html) for the most accurate reproduction.*
 
-# OnlineJobsJunction.com. Privacy
+# Online Jobs in India, Online Jobs, Online Jobs From Home
 
-**Privacy**
+  
 
-**OnlineJobsJunction.com** does not sell, rent, or loan it's mailing list to any other organization or third parties. The information you provide, such as your address, e-mail address, and telephone number, is only used within OnlineJobsJunction.com to ensure accurate and timely processing of orders. Everything is kept confidential and we will remove any information concerning you from our files at your request.  
- 
 
-**Responses to Email Inquiries:** When visitors or members send email inquiries to our website, the return email address is used to answer the email inquiry we receive. We do not use the return email address for any other purpose and do not share the return email address with any third party. We may retain these emails for our records, only for use as a reference.
+PRIVACY POLICY  
+We, at OnlineJobsJunction.com thank you for trusting us with your personal information. We respect your privacy and are committed to safe use of information shared by you.
 
-**Testimonials:** If you submit a testimonial, you should be aware that any personally identifiable information you submit, such as your name, website, e-mail ID or contact number may be displayed on our site, where it could potentially be used by third parties to contact you, or send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in a testimonial. Although, as a policy as of now, in your personal interest we have decided not to mention any personal information besides your first name.
+This web site collects online contact information in two ways, registration form, and enquiry forms submitted through contact us page. The information collected may be used to send the user information about our website or to get in touch with the user when necessary.
 
-**How we use "cookies"** : A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. We may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide. 
+We respect your privacy and will not release your personal information to any organization without your consent. We do not sell, rent or trade your personal information to any outside organizations. Any information you choose to give us is never shared with any other party.
 
-If you are a visitor or member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
+OnlineJobsJunction.com does provide links to other sites. Other Internet sites and services have separate privacy and data collection practices. Once you leave OnlineJobsJunction.com, OnlineJobsJunction.com cannot control, and has no responsibility for, the privacy policies or data collection activities at another site.
 
-Advertisers on our website may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at contact[at]OnlineJobsJunction.com
 
-**Online Shopping:** At some web sites described within our product, you can purchase products and services or register to receive materials, such as a newsletter. You can decide whether or not to use these sites or services at your own discretion.
+OnlineJobsJunction.com may from time to time revise its privacy policy. You should therefore periodically visit this page, so you are aware of any such revisions.
 
-**Legal:** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our web site.
+If you have any questions about our privacy policy and/or the practices of our web site, you can contact us at contact[at]OnlineJobsJunction.com
 
-|  
+  
+
