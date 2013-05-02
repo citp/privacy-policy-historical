@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d5creation.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180514id_/http%3A//d5creation.com/about/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d5creation.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502132645id_/http%3A//d5creation.com/about/pp) for the most accurate reproduction.*
 
 # Privacy Policy | D5 Creation
 
@@ -21,6 +21,6 @@ D5 Creation will never willfully sell, lease, or rent any of your or your busine
 In order to maximize the protection of your information, D5 Creation Service uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. Currently, the payment gateway 2CHECKOUT uses Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet.  We will ensure your privacy of your information but if any disaster occurred, or something happened which is out of our control, D5 Creation will not be liable.
 
 **E. General  **  
-This Privacy Policy is incorporated into and subject to the terms of the D5 Creation Agreement.
+This Policy is incorporated into and subject to the terms of the D5 Creation Agreement. D5 Creation reserves the right to change or modify this policy any time without any prior notice.
 
-If you have any questions about this privacy statement or the practices of this site, please contact us.
+If you have any questions about this Policy or the practices of this site, please [Contact Us](http://d5creation.com/contact/).
