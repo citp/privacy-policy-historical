@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epayments.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625112350id_/http%3A//www.123-reg.co.uk/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epayments.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502090041id_/http%3A//www.123-reg.co.uk/terms/privacy.shtml) for the most accurate reproduction.*
 
-# 123-Reg Data protection and Privacy Policy
+# Data protection and privacy policy | Terms and Conditions | 123-reg
 
 ## Data protection & privacy policy
 
