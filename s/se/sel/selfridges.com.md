@@ -1,19 +1,61 @@
-> *The following text is extracted and transformed from the selfridges.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810111143id_/http%3A//www.selfridges.com/index.cfm%3Fpage%3D1174) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfridges.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502131729id_/http%3A//www.selfridges.com/en/StaticPage/Privacy%2520policy) for the most accurate reproduction.*
 
-# Selfridges & Co
+# Privacy & cookie policy - Selfridges | Shop Online
 
-We will treat as confidential all of the Personal Information you give to us when you register with us using the facility on this website. This includes your name, address, email address, telephone contact number(s), gender, date of birth and whether you are a Selfridges card holder.  
+Cookies make your selfridges.com experience more enjoyable – and this page explains exactly what they are, why we use them and how they work.
 
-The Personal Information given to us will be used to assist us in providing you with marketing material, including information about special offers, in store events and promotions, as well as providing you with information regarding the areas that you have indicated are of interest to you. We will contact you by email, post or telephone using the contact details given to us.  
+## COOKIES
 
-Other than DesignUK, who will act as our agent and store the Personal Information on our behalf, Selfridges will not share your individual Personal Information with any third party without your prior permission. However, we may share non-personal aggregate statistical data with third parties.  
+Here's a list of the main cookies we use, and what we use them for:
 
-Your Personal Information is protected in the United Kingdom by the Data Protection Act. You have the right to request in writing to receive a copy of the Personal Information held by Selfridges and the source of the Personal Information. We may charge a £10 fee for providing the Personal Information to you. Please write to the Company Secretay, Selfridges Retail Limited, 400 Oxford Street, London. W1A 1AB.  
+**Adtrack, Affiliate, TD Cookies**
 
-You have a right at any time to request us to stop sending you marketing information. Please write to the Company Secretary, Selfridges Retail Limited, 400 Oxford Street, London. W1A 1AB.  
+This trio show us how you found Selfridges.com and which website you came from, helping us work out which of our online marketing channels is most effective. They also allow us to reward certain websites for directing you to us.
 
-This privacy statement forms part of our Conditions of Use.   "DesignUK" means DesignUK, 12-14 Denman Street, Piccadilly, London W1D 7HJ.   "Personal Information" means the information provided by you on registration   "We" and "us" means Selfridges Retail Limited   "You" means a User of the registration service on this website   We might wish to monitor your use of the website for the purpose of both identifying goods and services which we consider might be of interest to you and then drawing their availability to your attention. As such, we might also wish to pass your personal data to persons outside our organisation who are concerned with the supply of goods and services.  
+**AJAXA Cookie:**
 
-We will use cookies on our website. These are pieces of information that a website transfers automatically to a user's computer for record keeping purposes. Such devices allow us to monitor what parts of our website are most popular and thus assist us in improving the delivery of our goods and services. Cookies are used to collect valuable marketing information, and your personal data to track from where you accessed our website. You can still use our website if you have cookies turned off. Your browser help section will explain how to disable, block and delete cookies. A help section is typically found in the menu bar at the top of the browser. Some browsers will also provide help if the F1 Key is pressed.In addition, we will collect your IP address should you use this website which is the number assigned to your computer by our servers.  
+We use this to determine whether or not your web browser supports some of the features that make our checkout process quicker and easier to complete.
 
-If you object to us making such use of your personal data, then please let us know in writing to Customer Services, Selfridges, 400, Oxford St, London W1A 1AB.   
+**_utma, _utmz:**
+
+These cookies help us make the most of the money we spend on advertising. Google Analytics uses these cookies to discover when you first visited our site, how often you come back and how long you spend shopping. The information stored by these cookies can be seen only by the relevant teams at Selfridges and Google and never shows any confidential information.
+
+## SELFRIDGES.COM 'SHARE' TOOLS
+
+We know you love to share the great content we have on Selfridges.com. Please be aware that social networking sites, like Facebook and Twitter, might send cookies. We don't control the setting of these third-party cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them. The business partners that may set cookies on Selfridges.com include:
+
+**Criteo and Quantcast**
+
+Who use cookies to provide you with personalised adverts when you visit other selected websites. Banner advertising appears on websites with which we are affiliated and we use the information we have learned from cookies to tailor this advertising to things we think you will like, based on your browsing history at selfridges.com
+
+**CFI Group**
+
+Who help us provide you with a better service by occasionally asking if you'd like to complete a survey. This cookie's sole purpose is to remember if we've asked you to do so recently, and it contains no personal information.
+
+**DC Storm, Affiliate Window and Google**
+
+Sometimes we'll advertise on third party websites and DC Storm cookies are used to help us and our advertisers see which advertisements you click on and interact with. Each individual advertiser uses its own tracking cookies and the data taken is not confidential or interchangeable.
+
+We hope that explains things clearly – and please be aware you can set your browser to reject cookies or you can delete them yourself if you wish. For full information on how to delete cookies please visit aboutcookies.org (this will open in a new window – please note that we can't be responsible for the content of external websites). And if all this talk of cookies has made you peckish, add these to your shopping bag now
+
+## OUR PRIVACY POLICY
+
+We really value your privacy so we’d like to explain our website’s policy to you. This can get quite technical but it's important that you read and understand what follows because by using Selfridges.com – or by registering as a user of any services provided by Selfridges – you are agreeing to our use of your personal information as outlined below.
+
+When you register at Selfridges.com you will be asked to provide certain information such as your contact details. We will store this data and hold it on computers or in manual files then use this information to fulfil our agreement with you. Please note that, to provide some of our services, we may require further details from you.
+
+**We may use information that you provide or that is obtained by us to:**
+
+\- Register you on our website and to administer our website services;
+
+\- Administer any prize draws or competitions you may enter;
+
+\- Carry out assessment and analysis (for example market, customer and product analysis) to enable us to review, develop and improve the services which we offer, and to enable us to provide you with information about our products and services that we think are relevant to you through our marketing activities;
+
+\- Keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by any of the following methods: email; telephone (including automated calls); SMS text message and other electronic messages such as picture messaging; post or otherwise including products and services of other companies and organisations, which we consider may be of interest to you. If you do not wish to receive information of such products and services, please untick the opt-in box when registering on the website. You will also be offered the opportunity to opt out in future marketing communications.
+
+We will use internal and external validation and fraud checking systems to verify your identity. We may share some of your data with carefully-selected and monitored third parties for marketing purposes but promise never to do so without obtaining your consent beforehand.
+
+If you have any questions, please feel free to contact us by email at: [customerservices@selfridges.com](mailto:customerservices@selfridges.com). Alternatively, you may call our team on 0800 123 400 (+44 113 369 8040 from overseas), Monday to Saturday: 9am - 10pm and Sundays: 10am - 6pm.
+
+Selfridges Retail Limited Registered in England with company number 97117 Registered Office: 400 Oxford Street London W1A 1AB.
