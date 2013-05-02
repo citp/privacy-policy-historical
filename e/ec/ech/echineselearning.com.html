@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the echineselearning.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231143317id_/http%3A//www.echineselearning.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the echineselearning.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502231555id_/http%3A//www.echineselearning.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -43,10 +43,10 @@
 <!-- Live800在线客服图标:headerLiveChat[固定型] 开始-->
 <div id="live131406"></div>
 <!-- Live800在线客服图标:headerLiveChat[固定型] 结束--></td>
-    <td>&nbsp;<a href="http://answers.echineselearning.net/index.html?ecl=webhome20100427" target="_blank" class="l12" title="Learn Chinese - Answers">Answers</a> &nbsp;|</td>
+    <td>&nbsp;<a href="http://answers.echineselearning.com/index.html?ecl=webhome20100427" target="_blank" class="l12" title="Learn Chinese - Answers">Answers</a> &nbsp;|</td>
     <td>&nbsp;<a href="http://china.echineselearning.com/index.html" target="_blank" class="l12" title="Learn Chinese -Simplified Chinese">简体中文</a> &nbsp;|</td>
     <td>&nbsp;<a href="http://sina.echineselearning.com/" target="_blank" class="l12" title="Learn Chinese - Traditional Chinese">繁体中文</a> &nbsp;|</td>
-    <td>&nbsp;<a href="http://www2.echineselearning.net/signin.jsp" class="bb12" title="Learn Chinese with eChineseLearning" style="font-weight:normal">Student Sign In</a></td>
+    <td>&nbsp;<a href="http://www2.echineselearning.com/signin.jsp" class="bb12" title="Learn Chinese with eChineseLearning" style="font-weight:normal">Student Sign In</a></td>
   </tr>
 </tbody></table>
 </span> </div>
@@ -79,9 +79,9 @@
 </div>
 <div class="outer2">
   <div class="left2">  
-	﻿<link href="/css/text.css" rel="stylesheet" type="text/css">
+	<link href="/css/text.css" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<form name="ft3insertform" action="http://www2.echineselearning.net/FreeApply.do?channel=www.echineselearning.com&amp;type=free-trial&amp;domain=ecl&amp;domain=ecl" method="post" onsubmit="return submitft3form()">
+<form name="ft2insertform" action="http://www2.echineselearning.com/FreeApply.do?channel=www.echineselearning.com&amp;type=free-trial&amp;domain=ecl&amp;domain=ecl" method="post" onsubmit="return submitft2form()">
     <div class="freetrial2">
 	    <div class="b13nr" style="text-align:center; margin-top:5px; margin-bottom:5px">Sign up for a free trial now!</div>	   
         <!-- Live800在线客服图标:ecl-v081210ft3[固定型] 开始-->
@@ -97,11 +97,11 @@
 		<div class="b12" style="margin-left:10px; margin-top:6px">E-mail:&nbsp;</div>
 		<div style="margin-left:10px;margin-top:2px;">
 			<input name="email" id="youremail" type="text" class="b12" size="14" style="width:194px">
-			<input type="hidden" name="var" id="varidforft3" value="">
+			<input type="hidden" name="var" id="varidfotft" value="">
 		</div>
 	    <div class="b12" style="margin-left:10px; margin-top:6px">Country:&nbsp;</div>
       <div style="margin-left:10px;margin-top:3px">
-          	<script type="text/javascript" src="/js/addFTCountrySelect.js"></script>
+          	<script type="text/javascript" src="http://www.echineselearning.com/js/addFTCountrySelect.js"></script>
 			<select onmouseover="add_country(this)" name="country" id="yourcountry" class="b12" size="1" style="width:193px"><option value="" selected="selected"> -select- </option></select>
       </div>      
 	    <div class="b12" style="margin-left:10px; margin-top:6px">Tel:&nbsp;</div>
@@ -110,80 +110,7 @@
         <div style="margin-top:14px" align="center">
           <input name="image" type="image" src="/image/dot/submit.gif" width="90" height="20" border="0">
         </div>
-        <script type="text/javascript" src="/js/common.js"></script>
-        <script type="text/javascript">
-			var cansubinsertform =true;//标记值，用于检测当前能不能提交
-			function submitft3form(){
-				if(cansubinsertform){
-					cansubinsertform=false;
-					if(submitft3formcheck()){
-						return true;//准许提交
-					}else{
-						cansubinsertform=true;//不让提交，设置标记值true
-					}
-				}
-				return false;
-			}
-			function submitft3formcheck(){
-				with(document.forms["ft3insertform"]){
-				  	var message = "";
-					var pattern=/^[0-9]*[0-9][0-9]*$/;
-					var pattern1=/[^-0-9\s]/;
-					if(document.getElementById("yourname").value.trim().length==0) {
-						message += "Please fill in your name.\n";
-					}
-					
-					
-		    		if(document.getElementById("youremail").value.trim().length==0){
-		      			message += "Please fill in your e-mail.\n";
-		    		}else{
-		      			if(document.getElementById("youremail").value.trim().length>0 
-						&& !isEmail(document.getElementById("youremail").value.trim())) 
-		           			message += "Please fill in a valid e-mail.\n";
-		    		}
-					
-					//国家下拉框中的值不能用  document.getElementById 种形式得到，不稳定
-					var country_value = "";
-					for(var i=0; i< document.ft3insertform.country.options.length ;i++){
-					  if(document.ft3insertform.country.options[i].selected){
-					     country_value = document.ft3insertform.country.options[i].value ;
-					  }
-					}
-					if(country_value.length < 1){
-						message += "Please select a country.\n";
-					}
-					
-					if(document.getElementById("yourareacode").value.trim().length==0 ){
-			   			message+="Please fill in your area code.\n";
-			 		}else{
-			     		if(pattern1.test(document.getElementById("yourareacode").value.replace(/[ ]/g,""))){
-		         			message+="Please fill in a valid area code.\n";}
-		        	} 
-		        	if(document.getElementById("yourtel").value.trim().length==0 ){
-			   			message+="Please fill in your tel.\n";
-			   		}else{
-			       		if(pattern1.test(document.getElementById("yourtel").value.replace(/[ ]/g,""))){
-		          			message+="Please fill in a valid telephone number.\n";}
-			     	}
-		    		if(message.length>0){
-		      			alert(message);
-		      			return false;
-		    		}else {
-							var arrayCookie=unescape(document.cookie).split(";");
-							var varStr="";
-							for(var i=0;i<arrayCookie.length;i++){
-								if(arrayCookie[i].indexOf("var")!=-1){
-								var begin=arrayCookie[i].indexOf("var=");
-								varStr=arrayCookie[i].substr(begin+4);
-								break;
-								}
-					}
-					document.getElementById("varidforft3").value=varStr;
-		      			return true;
-		       		}
-				}
-   			}
-		</script>
+<script type="text/javascript" src="http://www.echineselearning.com/js/common.js"></script>
     </div>
     </form>
 	<link href="/css/text.css" rel="stylesheet" type="text/css">
@@ -196,7 +123,7 @@
 	<div style="margin-left:12px;">
   <div><a href="http://www.facebook.com/pages/eChineseLearning/226532561128?ref=nf"><img src="/image/facebook2.gif" border="0px;" alt="Learn Chinese via Skype" title="Learn Chinese via Skype"></a></div>
   <div style="margin-top:10px;"><a href="http://twitter.com/ECLSchool"><img src="/image/twitter2.gif" border="0px;" alt="Chinese lessons on Skype" title="Chinese lessons on Skype"></a></div>
-  <div style="margin-top:10px;"><a href="http://answers.echineselearning.net/" target="_blank"><img src="/image/blog/an.png" height="60" style="border:solid #FFFFFF 0px; margin-bottom:5px;" alt="Chinese lesson on Skype" title="Chinese lesson on Skype"></a></div>
+  <div style="margin-top:10px;"><a href="http://answers.echineselearning.com/" target="_blank"><img src="/image/blog/an.png" height="60" style="border:solid #FFFFFF 0px; margin-bottom:5px;" alt="Chinese lesson on Skype" title="Chinese lesson on Skype"></a></div>
 </div>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="/css/text.css" rel="stylesheet" type="text/css">
@@ -325,9 +252,9 @@ You also need to supply us with credit card information so that you can pay for 
 You may be given cookies from our advertisers on our co-branded sites. We do not control, nor do we have access to any of the information they may collect. </div>
 	   <div class="r15"><h2 class="r15">IP Addresses and Browser Type</h2></div>
 	   <div class="rb12" style="margin-bottom:30px">This site contains links to other sites. Please be aware that eChineseLearning is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site to read the privacy statements of any website that collects personally identifiable information. This privacy statement applies only to information collected by the eChineseLearning website. The eChineseLearning privacy policy is subject to change. If we decide to change the way we collect, use or share information, we will take commercially reasonable steps to notify members by way of an email that explains the changes and gives them the choice as to whether or not we may use their information in the new manner. If you have any questions about this policy statement, or about any of eChineseLearning's other policies and practices, please contact us. </div>
-    </div> ﻿<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </div> <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="../../css/text.css" rel="stylesheet" type="text/css">
-<form name="ft2insertform" action="http://www2.echineselearning.net/FreeApply.do?channel=www.echineselearning.com&amp;type=free-trial&amp;domain=ecl" method="post" onsubmit="return submitft2form()">
+<form name="ft4insertform" action="http://www2.echineselearning.com/FreeApply.do?channel=www.echineselearning.com&amp;type=free-trial&amp;domain=ecl" method="post" onsubmit="return submitft4form()">
 <div class="nr2jzj">
   <span class="hb25">Sign up for a free trial now! </span>
 </div>
@@ -347,11 +274,11 @@ You may be given cookies from our advertisers on our co-branded sites. We do not
           <input name="name" type="text" class="b12" size="14" style="width:160px"></td>
 			<td width="224" height="35" class="b12" align="right">E-mail:&nbsp;
 				<input name="email" type="text" class="b12" size="14" style="width:160px">
-		  <input type="hidden" name="var" id="varidforft2" value=""> </td>
+		  <input type="hidden" name="var" id="varidfotft" value=""> </td>
         </tr>
           <tr>
             <td width="243" height="35" class="b12" align="right">Country:&nbsp;
-          	<script type="text/javascript" src="/js/addFTCountrySelect.js"></script>
+          	<script type="text/javascript" src="http://www.echineselearning.com/js/addFTCountrySelect.js"></script>
 			<select onmouseover="add_country(this)" name="country" class="b12" size="1" style="width:166px"><option value="" selected="selected"> -select- </option></select>
 			</td>
             <td width="224" height="35" align="right" class="b12">Tel:&nbsp;
@@ -368,76 +295,20 @@ You may be given cookies from our advertisers on our co-branded sites. We do not
    </div>
 </form>
 <div style="clear:both;"></div><br>
-<script type="text/javascript" src="/js/common.js"></script>
-<script language="javascript">
-var cansubinsertform =true;//标记值，用于检测当前能不能提交
-function submitft2form(){
-	if(cansubinsertform){
-		cansubinsertform=false;
-		if(submitft2formcheck()){
-			return true;//准许提交
-		}else{
-			cansubinsertform=true;//不让提交，设置标记值true
-		}
-	}
-	return false;
-}
-function submitft2formcheck(){
-	with(document.forms["ft2insertform"]){
-		var pattern=/^[0-9]*[0-9][0-9]*$/;
-		var pattern1=/[^-0-9\s]/;
-	    var message = "";   
-	 	if(name.value.trim().length==0) {
-	      message += "Please fill in your name.\n";
-	    }
-	    if(email.value.trim().length==0){
-	      message += "Please fill in your e-mail.\n";
-	    } else {
-	      if(email.value.trim().length>0 && !isEmail(email.value.trim())) 
-	           message += "Please fill in a valid e-mail.\n";
-	    }
-		if(country.value.length<1) {
-	      message += "Please select a country.\n";
-	    }
-		if(areacode.value.trim().length==0 ){
-		   message+="Please fill in your area code.\n";
-		} else { 
-		     if(pattern1.test(areacode.value.replace(/[ ]/g,""))){
-	         	message+="Please fill in a valid area code.\n";}
-	    }
-		if(tel.value.trim().length==0 ){
-		   	message+="Please fill in your tel.\n";
-		} else { 
-		    if(pattern1.test(tel.value.replace(/[ ]/g,""))){
-	          	message+="Please fill in a valid telephone number.\n";}
-		}
-	    if(message.length>0){ 
-	      alert(message);
-	      return false;
-	    } else {
-			var arrayCookie=unescape(document.cookie).split(";");
-			var varStr="";
-			for(var i=0;i<arrayCookie.length;i++){
-				if(arrayCookie[i].indexOf("var")!=-1){
-					var begin=arrayCookie[i].indexOf("var=");
-					varStr=arrayCookie[i].substr(begin+4);
-					break;
-				}
-			}
-			document.getElementById("varidforft2").value=varStr;
-	        return true;
-	    }
-	}
-}
-</script>
+
+<script type="text/javascript" src="http://www.echineselearning.com/js/common.js"></script>
 
   </div>
   <div class="clear"></div>
 </div>
 <div id="bottom">
-  <script src="/js/jquery-1.2.1.js"></script> <script type="text/javascript" src="/js/jquery.floatDiv.js"></script> <script src="/js/actionForm.js"></script> <script type="text/javascript" src="/js/addVarCookie.js"></script> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <script type="text/javascript" src="/js/jquery.floatDiv.js"></script>
+<script type="text/javascript" src="/js/addVarCookie.js"></script> 
+<script type="text/javascript" src="http://www.echineselearning.com/js/jquery-1.3.1.js"></script>
+<script type="text/javascript" src="http://www.echineselearning.com/js/common.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
 <!--引入弹出窗口的DIV--> 
-<style type="text/css"> .ipt_text{ background:url(http://sina.echineselearning.com/image-n/ipt_bg_text.png); border:1px solid #9b9b9b; padding:1px; } .textt01{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#606060;} </style> <div id="popupMessage" style="display:none;width: auto; height:315px;padding:0px;color:white;"> <div id="message1" style="z-index:100;width:226px;height:303px;position:absolute; display:block;background:url(http://www.echineselearning.com/image/ft-bg/2009tform01.gif) no-repeat; bottom:0; right:0; overflow:hidden;"> <form name="ft1insertform" action="http://www2.echineselearning.net/FreeApply.do?type=1&amp;name2=POPUPFT&amp;domain=ecl" method="post" onsubmit="return submitft1form()"> <div style="border-bottom:none;width:100%;height:25px;font-size:12px;overflow:hidden;color:#1f336b;"><span id="message_close" style="float:right;padding:5px 5px 5px 0px;width:10px;color:red;font-size:13px;font-weight:bold;text-align:center;cursor:pointer;overflow:hidden;"><img src="http://www.echineselearning.com/image/dot/closeft.gif" width="8" height="7"></span> <div style="padding:5px 0 5px 5px;width:auto;line-height:18px;text-align:left;overflow:hidden; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#353535;font-weight:bolder;">Sign up for a free trial now!</div> <div style="clear:both;"></div> </div> <div style="height:auto;font-size:12px;"><div id="message_content" style="margin:0 0px 0 0px;padding:0;font-size:12px;width:auto;height:auto;color:#1f336b;text-align:left;overflow:hidden;"> <div style=" width:auto; padding-top:0px 0 3px 0; background:url(http://www.echineselearning.com/image/ft-bg/2009tform02-bg.gif)" class="textt01"> <div style="margin-bottom:6px; padding:8px 0 0 5px; font-size:11px" class="textt01">Get a <strong>FREE live 1-on-1 lesson</strong> and a <a href="/ebook.html" style="font-size:11px" class="textt01">FREE <br>e-book</a>. Complete the form below:</div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">Your name: </div> <div style="margin-bottom:4px"> &nbsp;&nbsp;<input name="name" id="yourname" type="text" class="textt01 ipt_text" size="14" style="width:210px"> </div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">E-mail:</div> <div style="margin-bottom:4px"> &nbsp;&nbsp;<input name="email" id="youremail" type="text" class="textt01 ipt_text" size="14" style="width:210px"> </div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">Country: </div> <div style="margin-bottom:4px">&nbsp;&nbsp; <script type="text/javascript" src="http://www.echineselearning.com/js/addFTCountrySelect.js"></script> <select onmouseover="add_country(this)" name="country" id="yourcountry" class="textt01 ipt_text" size="1" style="width:205px; border:1px solid "><option value="" selected="selected"> -select- </option></select> </div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">Tel: </div> <div style="margin-bottom:10px"> &nbsp;&nbsp; <input id="yourareacode" name="areacode" type="text" class="textt01 ipt_text" size="3" maxlength="5" style="width:40px"> <input name="tel" id="yourtel" type="text" class="textt01 ipt_text" size="14" style="width:150px; margin-left:12px"></div> <div align="center" style="padding-bottom:25px"> <input name="image" type="image" src="/image/dot/2009ttt.gif" width="90" height="20" border="0"> </div></div> </div></div> </form></div> </div> 
+<style type="text/css"> .ipt_text{ background:url(http://sina.echineselearning.com/image-n/ipt_bg_text.png); border:1px solid #9b9b9b; padding:1px; } .textt01{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#606060;} </style> <div id="popupMessage" style="display:none;width: auto; height:315px;padding:0px;color:white;"> <div id="message1" style="z-index:100;width:226px;height:303px;position:absolute; display:block;background:url(http://www.echineselearning.com/image/ft-bg/2009tform01.gif) no-repeat; bottom:0; right:0; overflow:hidden;"> <form name="ft3insertform" action="http://www2.echineselearning.com/FreeApply.do?type=1&amp;name2=POPUPFT&amp;domain=ecl" method="post" onsubmit="return submitft3form()"> <div style="border-bottom:none;width:100%;height:25px;font-size:12px;overflow:hidden;color:#1f336b;"><span id="message_close" style="float:right;padding:5px 5px 5px 0px;width:10px;color:red;font-size:13px;font-weight:bold;text-align:center;cursor:pointer;overflow:hidden;"><img src="http://www.echineselearning.com/image/dot/closeft.gif" width="8" height="7"></span> <div style="padding:5px 0 5px 5px;width:auto;line-height:18px;text-align:left;overflow:hidden; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#353535;font-weight:bolder;">Sign up for a free trial now!</div> <div style="clear:both;"></div> </div> <div style="height:auto;font-size:12px;"><div id="message_content" style="margin:0 0px 0 0px;padding:0;font-size:12px;width:auto;height:auto;color:#1f336b;text-align:left;overflow:hidden;"> <div style=" width:auto; padding-top:0px 0 3px 0; background:url(http://www.echineselearning.com/image/ft-bg/2009tform02-bg.gif)" class="textt01"> <div style="margin-bottom:6px; padding:8px 0 0 5px; font-size:11px" class="textt01">Get a <strong>FREE live 1-on-1 lesson</strong> and a <a href="/ebook.html" style="font-size:11px" class="textt01">FREE <br>e-book</a>. Complete the form below:</div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">Your name: </div> <div style="margin-bottom:4px"> &nbsp;&nbsp;<input name="name" id="yourname" type="text" class="textt01 ipt_text" size="14" style="width:210px"> </div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">E-mail:</div> <div style="margin-bottom:4px"> &nbsp;&nbsp;<input name="email" id="youremail" type="text" class="textt01 ipt_text" size="14" style="width:210px"> </div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">Country: </div> <div style="margin-bottom:4px">&nbsp;&nbsp; <script type="text/javascript" src="http://www.echineselearning.com/js/addFTCountrySelect.js"></script> <select onmouseover="add_country(this)" name="country" id="yourcountry" class="textt01 ipt_text" size="1" style="width:205px; border:1px solid "><option value="" selected="selected"> -select- </option></select> </div> <div style="margin-bottom:2px; padding:5px; padding-bottom:3px">Tel: </div> <div style="margin-bottom:10px"> &nbsp;&nbsp; <input id="yourareacode" name="areacode" type="text" class="textt01 ipt_text" size="3" maxlength="5" style="width:40px"> <input name="tel" id="yourtel" type="text" class="textt01 ipt_text" size="14" style="width:150px; margin-left:12px"></div> <div align="center" style="padding-bottom:25px"> <input name="image" type="image" src="/image/dot/2009ttt.gif" width="90" height="20" border="0"> </div></div> </div></div> </form></div> </div> 
 <!--引入弹出窗口的DIV end--> 
 
 <!-- Live800在线客服图标:headerLiveChat[固定型] 开始-->
@@ -458,12 +329,11 @@ function submitft2formcheck(){
   <div class="lessons1-main-4"> <span style="font-size:14px"><a href="/about-us/index.html" title="Learning Chinese">About Us</a></span><br> <a href="/about-us/management-team.html" title="Learning Chinese-Management Team">Management Team</a><br> <a href="/about-us/our-chinese-teacher.html" title="Learning Chinese with Our Chinese Teachers">Our Chinese Teachers</a><br> <a href="/about-us/our-student.html" title="Learning Chinese-Our Students">Our Students</a><br> <a href="/about-us/how-it-works.html" title="Learning Chinese-How It Works">How It Works</a><br> <a href="/about-us/demo.html" title="Learning Chinese-Demo">Demo</a><br> <a href="/about-us/teaching-method.html" title="Learning Chinese Teaching Methods">Chinese Teaching Methods</a><br> <a href="/about-us/testimonials.html" title="Learning Chinese-Testimonials">Testimonials</a><br> <a href="/about-us/media-coverage.html" title="Learning Chinese-Media Coverage">Media Coverage</a><br> <a href="/about-us/blog-reviews.html" title="Learning Chinese-Blog Reviews">Blog Reviews</a><br> <a href="/about-us/partnership.html" title="Learning Chinese-Partnerships">Partnerships</a><br> <a href="/help/index.html" title="Learning Chinese-Help">Help</a><br> <a href="/price.html" title="Learning Chinese-Price">Price</a> </div> 
   
   <div class="lessons1-main-51"> <span style="font-size:14px; font-weight:bold;" title="Chinese Language">Chinese Language</span><br> <a href="http://www.echineselearning.com/newsletter/index.html" target="_blank" title="Learning Chinese-Newsletter">Newsletter</a><br> <a href="http://resources.echineselearning.com/general/" target="_blank" title="Learning Chinese-General Chinese">General Chinese </a><br> <a href="http://resources.echineselearning.com/teens/" target="_blank" title="Learning Chinese for Teens">Chinese for Teens</a><br> <a href="http://resources.echineselearning.com/kids/" target="_blank" title="Learning Chinese for Kids">Chinese for Kids</a><br> <a href="http://resources.echineselearning.com/business/" target="_blank" title="Learning Chinese-Business Chinese">Business Chinese </a><br> <a href="http://resources.echineselearning.com/chinesetest/" target="_blank" title="Learning Chinese-Tests">Chinese Test</a><br> <a href="http://resources.echineselearning.com/dailybrief/" target="_blank" title="Learning Chinese-Popular Words">Popular Chinese Words</a> <br> <a href="http://resources.echineselearning.com/funstuff/" target="_blank" title="Learning Chinese-Fun Stuff">Fun Stuff</a><br> <a href="http://www.echineselearning.com/ask-questions.html" target="_blank" title="Learning Chinese-Ask Jennifer a Question">Ask Jennifer a Question</a><br> <a href="http://answers.echineselearning.com/" target="_blank" title="Learning Chinese-ECL Answers"><strong>ECL Answers</strong></a></div> </div>
-<div id="bup"> <div id="bom" align="center"> <div class="w11"> <a href="/contact-us.html" target="_blank" class="w12" style="text-decoration:none;">Contact Us</a>&nbsp;| <a href="/privacy.html" target="_blank" class="w12" style="text-decoration:none;">Privacy Policy</a>&nbsp;| <a href="/terms-of-service.html" target="_blank" class="w12" style="text-decoration:none;">Terms of Service</a>&nbsp;| <a href="/site-map.html" target="_blank" class="w12" style="text-decoration:none;">Site Map</a>&nbsp;| <a href="http://www.echineselearning.com/links/index.html" target="_blank" class="w12" style="text-decoration:none;">Links</a>&nbsp;| <a href="/resources/index.html" target="_blank" class="w12" style="text-decoration:none;">Learn Chinese Resources</a>&nbsp;| <a href="http://sina.echineselearning.com/english/contents/index.html" target="_blank" class="w12" style="text-decoration:none;">Learn Chinese Materials</a></div> </div> <div id="book" style="text-align:center; margin-top:5px"><!-- AddThis Bookmark Button BEGIN --> <script type="text/javascript"> addthis_url = location.href; addthis_title = document.title; addthis_pub = 'echineselearning'; addthis_language = "en"; </script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script> <!-- AddThis Bookmark Button END --></div> <div class="b12" style="padding-top:8px;"> <div align="center"> Copyright © 2006 - 2012 eChineseLearning.com All rights reserved. </div> </div> </div> <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script> <script type="text/javascript"> _uacct = "UA-1847210-1"; urchinTracker(); </script> <script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> $(document).ready(function(){ window.setTimeout('displayDiv()',40000); }); function displayDiv(){ $("#popupMessage").css('display','block'); $("#popupMessage").floatdiv('rightbottom'); }; $("#message_close").click(function(){ $("#popupMessage").hide(60); }); try { var pageTracker = _gat._getTracker("UA-1847210-6"); pageTracker._trackPageview(); } catch(err) {}</script> <!-- live800 analytics code begin--> <div style="display:none;"> <!-- Live800在线客服图标:ecl-analytics[文字型] 开始--> <script language="javascript" src="http://chat8.live800.com/live800/chatClient/textButton.js?jid=6120444901&amp;companyID=62374&amp;configID=117653&amp;codeType=custom"></script> <!-- Live800在线客服图标:ecl-analytics[文字型] 结束--> <!-- Live800默认跟踪代码: 开始--> <script language="javascript" src="http://chat8.live800.com/live800/chatClient/monitor.js?jid=6120444901&amp;companyID=62374&amp;configID=48204&amp;codeType=custom"></script> <!-- Live800默认跟踪代码: 结束--> </div> <!-- live800 analytics code end--> 
+<div id="bup"> <div id="bom" align="center"> <div class="w11"> <a href="/contact-us.html" target="_blank" class="w12" style="text-decoration:none;">Contact Us</a>&nbsp;| <a href="/privacy.html" target="_blank" class="w12" style="text-decoration:none;">Privacy Policy</a>&nbsp;| <a href="/terms-of-service.html" target="_blank" class="w12" style="text-decoration:none;">Terms of Service</a>&nbsp;| <a href="/site-map.html" target="_blank" class="w12" style="text-decoration:none;">Site Map</a>&nbsp;| <a href="http://www.echineselearning.com/links/index.html" target="_blank" class="w12" style="text-decoration:none;">Links</a>&nbsp;| <a href="/resources/index.html" target="_blank" class="w12" style="text-decoration:none;">Learn Chinese Resources</a>&nbsp;| <a href="http://sina.echineselearning.com/english/contents/index.html" target="_blank" class="w12" style="text-decoration:none;">Learn Chinese Materials</a></div> </div> <div id="book" style="text-align:center; margin-top:5px"><!-- AddThis Bookmark Button BEGIN --> <script type="text/javascript"> addthis_url = location.href; addthis_title = document.title; addthis_pub = 'echineselearning'; addthis_language = "en"; </script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script> <!-- AddThis Bookmark Button END --></div> <div class="b12" style="padding-top:8px;"> <div align="center"> Copyright © 2006 - 2013 eChineseLearning.com All rights reserved. </div> </div> </div> <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script> <script type="text/javascript"> _uacct = "UA-1847210-1"; urchinTracker(); </script> <script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> $(document).ready(function(){ window.setTimeout('displayDiv()',40000); }); function displayDiv(){ $("#popupMessage").css('display','block'); $("#popupMessage").floatdiv('rightbottom'); }; $("#message_close").click(function(){ $("#popupMessage").hide(60); }); try { var pageTracker = _gat._getTracker("UA-1847210-6"); pageTracker._trackPageview(); } catch(err) {}</script> <!-- live800 analytics code begin--> <div style="display:none;"> <!-- Live800在线客服图标:ecl-analytics[文字型] 开始--> <script language="javascript" src="http://chat8.live800.com/live800/chatClient/textButton.js?jid=6120444901&amp;companyID=62374&amp;configID=117653&amp;codeType=custom"></script> <!-- Live800在线客服图标:ecl-analytics[文字型] 结束--> <!-- Live800默认跟踪代码: 开始--> <script language="javascript" src="http://chat8.live800.com/live800/chatClient/monitor.js?jid=6120444901&amp;companyID=62374&amp;configID=48204&amp;codeType=custom"></script> <!-- Live800默认跟踪代码: 结束--> </div> <!-- live800 analytics code end--> 
 
-<script type="text/javascript" src="http://www.echineselearning.com/js/jquery.floatDiv.js"></script> <script src="http://www.echineselearning.com/js/actionForm.js"></script> <script type="text/javascript" src="http://www.echineselearning.com/js/addVarCookie.js"></script>
-
-<script type="text/javascript" src="http://www.echineselearning.com/js/jquery-1.3.1.js"></script>
-<script type="text/javascript" src="http://www.echineselearning.com/js/common.js"></script>
+<script type="text/javascript" src="http://www.echineselearning.com/js/jquery-1.3.1.js"></script> 
+<script type="text/javascript" src="/js/jquery.floatDiv.js"></script>
+<script type="text/javascript" src="/js/addVarCookie.js"></script>
 
 </div>
 
