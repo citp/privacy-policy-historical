@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504221228id_/https%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001633id_/https%3A//braintreepayments.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Braintree
 
@@ -22,7 +22,7 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, for product updates, we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user’s wishes.
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
 
 ### Sharing Information
 
@@ -32,11 +32,11 @@ We share aggregated demographic information with our partners and advertisers. T
 
 Other Corporate Entities. We share much of our data, including personal information about you, with our partners that are committed to serving you throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. 
 
-In the event Braintree goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+In the event Braintree goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
 ### Choice/Opt-out
 
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our Site at the point where we ask for information. Users who no longer wish to receive communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or emailing us. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+Our users are given the opportunity to ‘opt-out' of having their information used for purposes not directly related to our Site at the point where we ask for information. Users who no longer wish to receive communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or emailing us. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
 ### Links
 
@@ -44,23 +44,23 @@ This Web site contains links to other sites. Please be aware that we, Braintree,
 
 ### Security
 
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
-We use SSL encryption on our application and signup forms. While on a secure page, such as our application page, the lock icon on the bottom of Web browsers such as Firefox and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
+We use SSL encryption on our application and signup forms. While on a secure page, such as our application page, the lock icon on the bottom of Web browsers such as Firefox and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing'.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices and data centers. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment.
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices and data centers. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment.
 
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done by emailing our Customer Support or contact us by telephone or postal mail at the contact information listed below.
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done by emailing our Customer Support or contact us by telephone or postal mail at the contact information listed below.
 
 ### Safe Harbor
 
-Braintree follows the Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union or Switzerland to the United States of America. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
+Braintree follows the U.S.-EU Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union or Switzerland to the United States of America. To learn more about the Safe Harbor program, and to view Braintree's Safe Harbor certification, please visit <http://www.export.gov/safeharbor/>. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Site for 30 days. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Site for 30 days. 
 
 ### Contact Information
 
