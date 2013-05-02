@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031231327id_/http%3A//www.bettor.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502211828id_/http%3A//www.bettor.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Bettor.com is the trading name of Ibetx Ltd, 04546485 whose registered office is at Ibetx Ltd  
+Bettor.com is the trading name of CL Services N.V., 0 whose registered office is at CL Services N.V.  
 4th Floor  
 30 Old Broad Street  
 London  
