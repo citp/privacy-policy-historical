@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successnetplus.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920032528id_/https%3A//successnetplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successnetplus.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502131015id_/https%3A//successnetplus.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Pearson SuccessNet+
 
@@ -62,4 +62,4 @@ This Site is owned and operated by Pearson and the contents of this Site are pro
 
 If you have any concerns, comments or questions about this Privacy Statement or privacy on this Site, please contact us.
 
-Pearson Education, Inc. (Revised — August 2012
+Pearson Education, Inc. (Revised — August 2012)
