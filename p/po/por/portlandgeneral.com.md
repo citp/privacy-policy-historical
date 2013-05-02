@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008034828id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502143438id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
@@ -79,6 +79,8 @@ Release of information
 PGE has agreements with other local utility companies to share customer information for credit purposes only. We have established security procedures to ensure that information is being shared only with authorized utility representatives.
 
 Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support, contest entry processing and to provide energy management services. These parties will not be permitted to use personally identifiable information except for the purpose of providing their specific services, and they are not permitted to disclose, transfer or sell personally identifiable information.
+
+At the direction of the Oregon Public Utility Commission, PGE shares selected customer information with Energy Trust of Oregon. This information is used for designing, evaluating and improving Energy Trust services for energy efficiency and renewable energy systems and for marketing purposes. Energy Trust is obligated under OPUC regulations to protect PGE customer information, including name, address and energy-use history, and keep it confidential. Learn more at [PortlandGeneral.com/DataShare](https://web.archive.org/datashare "PortlandGeneral.com/DataShare").
 
 Other than the ways mentioned above, we will not release personally identifiable information to third parties without permission from the customer, unless we are required to do so by law or we in good faith believe such action is necessary to (1) comply with the law or legal process, (2) protect and defend our rights or property, (3) protect against misuse or unauthorized use of our Web site or (4) protect the personal safety or property of our customers or the public.
 
