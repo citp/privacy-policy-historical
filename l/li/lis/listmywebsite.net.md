@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509231545id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001642id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
 
 # Free Website Link Listing Directory - Submit and promote your website free - List My Website Directory
 
-[Home](https://web.archive.org/web/20120509231545id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
+[Home](https://web.archive.org/web/20130503001642id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
 
 **List My Website Web Directory** do respect the privacy of individuals who use the services provided on this Site, [http://www.listmywebsite.net](http://www.listmywebsite.net/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
 
@@ -20,17 +20,18 @@ This policy may be revised over time as new features are added to the website. W
 
 Updated on 07.11.2010
 
-[](http://www.ecoweb4u.com/solutions/budget-website-design.html "Affordable Website")
+[](http://www.easycmswebsite.com/ "Easy to edit CMS website")
 
-### Useful Links
+| 
 
-Get latest updates and support from Listmywebsite.net by 'liking' us on Facebook!
-
+[](http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=ecoweb4u-)  
+  
+---|---  
+  
 ### Statistics
 
 Categories: 20  
 Sub Categories: 565  
-Links: 1186  
-Pending Links: 731  
-Members: 7145  
+Total Website Links: 8054  
+Members: 12986  
 
