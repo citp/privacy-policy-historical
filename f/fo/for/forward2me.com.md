@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023175224id_/https%3A//www.forward2me.com/main-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001648id_/https%3A//www.forward2me.com/main-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Main Site - Forward2me
 
