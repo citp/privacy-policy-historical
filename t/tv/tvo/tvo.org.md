@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvo.org privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114004227id_/http%3A//ww3.tvo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvo.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502125243id_/http%3A//ww3.tvo.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | TVO Main
 
