@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefloorpro.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113133412id_/http%3A//www.thefloorpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefloorpro.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502215801id_/http%3A//www.thefloorpro.com/privacy.php) for the most accurate reproduction.*
 
-# The Floor Pro Privacy Policy - TheFloorPro.com
+# The Floor Pro Privacy Policy - The Floor Pro
 
 ## Privacy Policy of The Floor Pro Community
 
