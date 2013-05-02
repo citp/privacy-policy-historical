@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articlewritingetc.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920041018id_/http%3A//articlewritingetc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewritingetc.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502035739id_/http%3A//ranking-articles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Article Writing Etc
+# Privacy Policy - Ranking Articles
 
-This Privacy Policy governs the manner in which Article Writing Etc collects, uses, maintains and discloses information collected from users (each, a “User”) of the articlewritingetc.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Article Writing Etc.
+This Privacy Policy governs the manner in which ranking articles collects, uses, maintains and discloses information collected from users (each, a “User”) of the ranking-articles.com website (“Site”). This privacy policy applies to the Site and all products and services offered by ranking articles.
 
 Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 How we use collected information
 
-Article Writing Etc collects and uses Users personal information for the following purposes:
+Ranking Articles collects and uses Users personal information for the following purposes:
 
 \- To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
@@ -30,7 +30,7 @@ Your information helps us to more effectively respond to your customer service r
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
 \- To send periodic emails  
 The email address Users provide for order processing, will be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. Users will receive emails that may include company news, updates, related product or service information, affiliate offers etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
-By placing an order or registering to articlewritingetc.com you give us a permission to send you these emails.
+By placing an order or registering to ranking-articles.com you give us a permission to send you these emails.
 
 How we protect your information
 
@@ -56,9 +56,8 @@ Compliance with children’s online privacy protection act
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Changes to this privacy policy
-
-Article Writing Etc has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Changes to this privacy policy  
+Ranking Articles has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
@@ -67,10 +66,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Article Writing Etc  
-articlewritingetc.com
+Ranking Articles  
+ranking-articles.com
 
-http://articlewritingetc.com/customer-support/
+http://ranking-articles.com/customer-support/
 
 This document was last updated on July 13, 2011
 
