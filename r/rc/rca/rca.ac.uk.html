@@ -1,0 +1,1336 @@
+<!--The following is the downloaded HTML source of the rca.ac.uk privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502154926id_/http%3A//rca.ac.uk/Default.aspx%3FContentID%3D515563%26GroupID%3D159390) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta content="text/css" http-equiv="Content-Style-Type"><meta content="text/javascript" http-equiv="Content-Script-Type"><title>
+	Royal College of Art | Privacy and Cookies
+</title><link href="Images/favicon.ico" rel="shortcut icon" type="image/x-icon"><link href="App_Themes/Vista/PanelBar2.Vista.css" rel="stylesheet" type="text/css">
+     <script type="text/javascript" src="/JavaScript/jquery.js"></script>
+	 <script type="text/javascript" src="JavaScript/jsHome.js"></script>
+		
+		<link href="css/cssHome.css" rel="stylesheet" type="text/css">
+    <!--[if IE]> <link href="CSS/ie_only.css" rel="stylesheet" type="text/css" /> <![endif]-->
+   
+
+
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :
+"http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3809199-5"); pageTracker._trackPageview(); </script>
+
+    <script type="text/javascript">
+function ChangeVisibilityForClass(ClassToHide, Visibility) {
+  var ToHide = document.getElementsByTagName('DIV'); 
+    for(var i=0; i < ToHide.length; i++){
+              if (ToHide[i].className && ToHide[i].className == ClassToHide) ToHide[i].style.visibility = Visibility;
+    }
+}
+    </script>
+ <script language="javascript" type="text/javascript">
+    
+    function querySt(ji) {
+var hu = window.location.search.substring(1);
+var gy = hu.split("&");
+for (i=0;i<gy.length;i++) {
+ft = gy[i].split("=");
+if (ft[0] == ji) {
+return ft[1];
+}
+}
+}
+     function getLongest_1() {
+ 	colLength = new Array(2);
+ 	colLength[0] = _ 
+	document.getElementById("column_1").offsetHeight;
+ 	colLength[1] = _ 
+	document.getElementById("column_2").offsetHeight;
+ 	colLength[2] = _ 
+	document.getElementById("column_3").offsetHeight;
+	colLength.sort(sortNumeric);
+ 	colLength.reverse();
+ 	return colLength[0];
+}
+
+ function setLongest(){
+ var collectionId = querySt("CollectionId");
+ var GroupId = querySt("GroupID");
+ if (!GroupId)
+ GroupId = querySt("GroupId");
+ if (!collectionId || collectionId=="" || collectionId=="0")
+ {
+ setLongestLanding();
+ }
+ else 
+ {
+   if (!GroupId || GroupId=="" || GroupId=="0")
+   setLongestTextFocused();
+   else 
+   setLongestProjectFocused();
+ }
+ }
+ 
+  function setLongestProjectFocused() {
+ //	divLen = getLongest_1();
+ //alert('sss');
+ var margins=0;
+ var margins=0;
+ var margintext=7;
+ var firstimagesarea=document.getElementById("FirstImageEntryFlag");
+  var secondimagesarea=$("li.collectionseealso")[0];
+ 	var  firstimagesheight=document.getElementById("FirstImageEntryFlag").offsetHeight + margins; 
+ 	var  imagesheight=firstimagesheight;
+ 	if (secondimagesarea) // other images  in same project if exists
+ 	imagesheight +=secondimagesarea.offsetHeight -8; 
+ 	
+ 	var introtext=$("div.maincontent").parent().parent().parent()[0]; // get the li tag
+ 	var introHeight,firstHighest;
+ 	introHeight=introtext.offsetHeight-margintext;
+ 	firstHighest=introHeight;
+ 	if (imagesheight>introHeight)
+ 	firstHighest=imagesheight;
+ 	//var textarea=$(introtext);
+ 	
+ 	if (secondimagesarea) 
+ 	{
+ 	$(secondimagesarea).height(firstHighest-firstimagesheight - margins);
+ 	$(introtext).height((firstHighest-margins) + 6  - ie8margin);
+ 	}
+ 	else 
+ 	{
+ 	$(firstimagesarea).height(firstHighest- (margins - 1));
+ 	$(introtext).height(firstHighest+6 - ie8margin);
+ 	}
+ 	//seealso_noborder_black _i
+ 	//$("li.seealso_noborder_black _i")
+ 	var hheight = 0;
+ 	var offsetHeight,txtOffsetHeight,highest;
+ 	
+ 	
+ 	
+ 	var textpos=$("li.offnotopone_collection");
+ 	var pos=$("ul.imglist > li.seealso_collections");
+ 	
+ 	if (pos.length>0)// if it equals 0 , means no related projects on image side.
+ 	 {
+ 	 var offsetHeight=$(pos)[0].nextSibling.offsetHeight - 16;//with margins and borders
+      
+    
+      
+      var txt=$(textpos)[0];
+ 	   var  txtOffsetHeight=txt.offsetHeight - 11;
+ 
+ 	
+ 
+ 	
+ 	var highest=txtOffsetHeight;
+      if (offsetHeight>txtOffsetHeight)
+      highest=offsetHeight;
+      var temp=$(pos)[0].nextSibling;
+        $(temp).height(highest);
+        $(temp).show();
+         $(txt).height(highest + 5);
+        $(txt).show();
+        }
+ 	/*
+ 	var pos = $("li.seealso_noborder");  
+ 	var PreviousTop,CurrentTop;
+ 	var textpos = $("li.offnotopone_collection");  
+   for(var i = 0; i < pos.length ; i++) {
+  // alert($(pos)[i].offsetTop);
+     offsetHeight=$(pos)[i].nextSibling.offsetHeight + 24;//with margins and borders
+      PreviousTop=$(pos)[i].previousSibling.offsetTop;
+      CurrentTop=$(pos)[i].offsetTop;
+      var txt=$(textpos)[i];
+      hheight=CurrentTop - PreviousTop;
+      txtOffsetHeight=txt.offsetHeight;
+      highest=offsetHeight;
+      if (txtOffsetHeight>offsetHeight)
+      highest=txtOffsetHeight;
+      var temp=$(pos)[i].nextSibling;
+     // $(txt).attr('style', 'height:' + highest-15 );
+      // $(temp).attr('style', 'height:' + highest-44 ); // also 10 10 from image margins
+        $(temp).show();
+      $(temp).height(highest-44);
+        $(txt).show();
+      $(txt).height(highest-15);
+     //  $(textpos)[i].show(); 
+    }
+  
+ 	//= _ 
+	//divLen+"px";
+ 	//document.getElementById("column_2").style.height = _ 
+	//divLen+"px";
+ //	document.getElementById("column_3").style.height = _ 
+//	divLen+"px";
+*/
+}
+  function setLongestTextFocused() {
+ //	divLen = getLongest_1();
+ //alert('sss');
+ var margins=14;
+ var firstimagesarea=document.getElementById("FirstImageEntryFlag");
+ 	var  imagesheight=document.getElementById("FirstImageEntryFlag").offsetHeight + margins; 
+ 	var introtext=$("div.intro").parent().parent()[0];
+ 	var introHeight,firstHighest;
+ 	introHeight=introtext.offsetHeight;
+ 	firstHighest=introHeight;
+ 	if (imagesheight>introHeight)
+ 	firstHighest=imagesheight;
+ 	//var textarea=$(introtext);
+ 	$(introtext).height(firstHighest-margins - ie8margin);
+ 	$(firstimagesarea).height(firstHighest-margins-5);
+ 	//seealso_noborder_black _i
+ 	//$("li.seealso_noborder_black _i")
+ 	var hheight = 0;
+ 	var offsetHeight,txtOffsetHeight,highest;
+ 	
+ 	var pos =$("ul.imglist > li").not(".flavio"); 
+ 	var PreviousTop,CurrentTop;
+ 	var textpos = $("li.offnotopone_collection");  
+   for(var i = 2; i < pos.length ; i++) {
+  // alert($(pos)[i].offsetTop);
+     offsetHeight=$(pos)[i].offsetHeight;//with margins and borders
+      PreviousTop=$(pos)[i].previousSibling.offsetTop;
+      CurrentTop=$(pos)[i].offsetTop;
+      var txt=$(textpos)[i-2];
+      hheight=CurrentTop - PreviousTop;
+      txtOffsetHeight=txt.offsetHeight;
+      highest=offsetHeight;
+      if (txtOffsetHeight>offsetHeight)
+      highest=txtOffsetHeight;
+      var temp=$(pos)[i];
+     // $(txt).attr('style', 'height:' + highest-15 );
+      // $(temp).attr('style', 'height:' + highest-44 ); // also 10 10 from image margins
+        $(temp).show();
+      $(temp).height(highest-16);
+        $(txt).show();
+      $(txt).height(highest-11 - ie8margin);
+      if (ietextsidearrange>0) // ie8 is putting 1 px less on every 3rd li tag
+      {
+        if ((i+1)%3==0)
+        {
+         $(txt).height((highest-11) +0);//1
+        }
+      }
+     //  $(textpos)[i].show(); 
+    }
+  
+ 	//= _ 
+	//divLen+"px";
+ 	//document.getElementById("column_2").style.height = _ 
+	//divLen+"px";
+ //	document.getElementById("column_3").style.height = _ 
+//	divLen+"px";
+}
+ function setLongestLanding() {
+ //	divLen = getLongest_1();
+
+ var  height;
+    if (ietextsidearrange >0)
+     height=document.getElementById("FirstImageEntryFlag").clientHeight; 
+    else 
+ 	 height=document.getElementById("FirstImageEntryFlag").offsetHeight; 
+ 	$("div.intro").parent().height(height+5);
+ 	//seealso_noborder_black _i
+ 	//$("li.seealso_noborder_black _i")
+ 	var hheight = 0;
+ 	var offsetHeight,txtOffsetHeight,highest;
+ 	offsetHeight=0;
+ 	//var pos = $("li.seealso_noborder_black");  
+ 	
+ 	var pos;
+ 	
+ 	pos=$("ul.imglist > li").not(".flavio");
+ 	var PreviousTop,CurrentTop;
+ 	var textpos = $("li.notop_home");  
+ 	 //if (ietextsidearrange >0)
+ 	 //alert('ssss');
+ 	 //alert(pos.length );
+ 	if (textpos && textpos.length>0)
+ 	{
+   for(var i = 0; i < pos.length ; i++) {
+   
+     if (ietextsidearrange >0)
+     {
+     offsetHeight=$(pos)[i].clientHeight ;//with margins and borders
+   //  alert( " client height:" + $(pos)[i].nextSibling.clientHeight + " offset height:" + $(pos)[i].nextSibling.offsetHeight + " previous top: " + $(pos)[i].previousSibling.offsetTop + " current top : " + $(pos)[i].offsetTop );
+     }
+     else
+     {
+      offsetHeight=$(pos)[i].offsetHeight ;
+      // alert( " client height:" + $(pos)[i].nextSibling.clientHeight + " offset height:" + $(pos)[i].nextSibling.offsetHeight + " previous top: " + $(pos)[i].previousSibling.offsetTop + " current top : " + $(pos)[i].offsetTop );
+      }
+     
+      //PreviousTop=$(pos)[i].previousSibling.offsetTop;
+    //  CurrentTop=$(pos)[i].offsetTop;
+      var txt=$(textpos)[i];
+     
+     // hheight=CurrentTop - PreviousTop + 10;
+      txtOffsetHeight=txt.offsetHeight;
+      highest=offsetHeight;
+      
+      if (ietextsidearrange >0)
+     {
+      txtOffsetHeight=txt.clientHeight;
+     }
+    //  if (ietextsidearrange>0)
+      
+      if (txtOffsetHeight>offsetHeight)
+      {
+      highest=txtOffsetHeight;
+     
+      }
+      var temp=$(pos)[i];
+    //  $(txt).attr('style', 'height:' + highest-12 );
+  //     $(temp).attr('style', 'height:' + highest-44 ); // also 10 10 from image margins
+    //    $(temp).show();
+        if (offsetHeight>txtOffsetHeight)
+          $(temp).height(highest -16);//44 paddings
+        else
+      $(temp).height(highest - 16);
+     //   $(txt).show();
+      $(txt).height(highest-8- ie8margin);
+      if (ietextsidearrange>0) // ie8 is putting 1 px less on every 3rd li tag
+      {
+        if ((i+1)%3==0)
+        {
+         $(txt).height((highest-8) +0);
+        }
+      }
+     //  $(textpos)[i].show(); 
+    }
+    }// means there is just introduction text. so extend its height to total of images
+    else
+    {
+       for(var i = 0; i < pos.length ; i++) {
+         offsetHeight+=$(pos)[i].clientHeight ;//- 16;//with margins and borders}
+         }
+         if (ietextsidearrange>0) 
+      
+            $("div.intro").parent().parent().height(offsetHeight-8);
+      else
+        $("div.intro").parent().parent().height(offsetHeight-8);
+     
+         
+    }
+    
+  
+ 	//= _ 
+	//divLen+"px";
+ 	//document.getElementById("column_2").style.height = _ 
+	//divLen+"px";
+ //	document.getElementById("column_3").style.height = _ 
+//	divLen+"px";
+}
+    
+    
+    
+    
+    
+    
+// <![CDATA[
+function fnToggleImage(obj,IsOver)
+                {
+                var myimage;
+               // alert(obj.src);
+                   if(obj.src.indexOf('thg') > -1){
+                                myimage = obj.src;//.substring(obj.src.indexOf('thg_'),obj.src.lenght);
+                                myimage = myimage.replace('thg','thc');
+                               // alert(myimage);
+                                obj.src = myimage;
+                }else{                                    
+                                myimage = obj.src;//.substring(obj.src.indexOf('thc_'),obj.src.lenght);
+                                myimage = myimage.replace('thc','thg');
+                                obj.src = myimage;
+                                }                                              
+                }
+    function fnToggleImageMid(obj,IsOver)
+                {
+                var myimage;
+                //alert(obj.src);
+                   if(obj.src.indexOf('xtg') > -1){
+                                myimage = obj.src;//.substring(obj.src.indexOf('thg_'),obj.src.lenght);
+                                myimage = myimage.replace('xtg','xtc');
+                               // alert(myimage);
+                                obj.src = myimage;
+                }else{                                    
+                                myimage = obj.src;//.substring(obj.src.indexOf('thc_'),obj.src.lenght);
+                                myimage = myimage.replace('xtc','xtg');
+                                obj.src = myimage;
+                                }                                              
+                }
+
+// ]]>
+
+
+    </script>
+
+    <script language="javascript" type="text/javascript">var ie = 0; </script>
+
+     <script language="javascript" type="text/javascript">var ie8margin = 0; var ietextsidearrange=0; </script>
+    <!--[if IE]>
+<script type="text/javascript">ie = 1;</script>
+<![endif]-->
+    <!--[if IE 8]><script type="text/javascript">ie8margin = 0; ietextsidearrange=1; </script><![endif]-->
+    <script language="javascript" type="text/javascript">
+// <![CDATA[
+function fnToggleImage(obj,IsOver)
+                {
+                var myimage;
+                //alert(obj.src);
+                   if(obj.src.indexOf('thg') > -1){
+                                myimage = obj.src;//.substring(obj.src.indexOf('thg_'),obj.src.lenght);
+                                myimage = myimage.replace('thg','thc');
+                               // alert(myimage);
+                                obj.src = myimage;
+                }else{                                    
+                                myimage = obj.src;//.substring(obj.src.indexOf('thc_'),obj.src.lenght);
+                                myimage = myimage.replace('thc','thg');
+                                obj.src = myimage;
+                                }                                              
+                }
+    function fnToggleImageMid(obj,IsOver)
+                {
+                var myimage;
+                //alert(obj.src);
+                   if(obj.src.indexOf('xtg') > -1){
+                                myimage = obj.src;//.substring(obj.src.indexOf('thg_'),obj.src.lenght);
+                                myimage = myimage.replace('xtg','xtc');
+                               // alert(myimage);
+                                obj.src = myimage;
+                }else{                                    
+                                myimage = obj.src;//.substring(obj.src.indexOf('thc_'),obj.src.lenght);
+                                myimage = myimage.replace('xtc','xtg');
+                                obj.src = myimage;
+                                }                                              
+                }
+
+// ]]>
+
+
+    </script>
+
+         <script language="javascript" type="text/javascript">var ie = 1; </script>
+    <!--[if IE]>
+<script type="text/javascript">ie = 1;</script>
+<![endif]-->
+    <script language="javascript" type="text/javaScript">
+    
+<!-- 
+var IntervalId2 = 0; var imageCounter2 = 1;
+var imageCounter3=1;
+var allImagesLoaded=false;
+function loadimages2() {
+if(ie && ie==1)
+disableAnchor();
+//IntervalId2 = setInterval ("fnToggleGridImage3()",1500);
+
+}
+
+function disableAnchor(){
+  
+ // alert($("ul.homeul > li > span > a").length);
+  //
+ $("ul.homeul > li > span > a > img").addClass("disabledhome");
+}
+
+/*
+function preloadColourImg() 
+{    
+    var images = new Array;
+    for(var i=0; i<document.images.length; i++)
+    {
+        var img = document.images[i];
+        var imgName = img.src;
+        if (imgName.indexOf('thg') > -1)
+            {         
+            images[i] = new Image();
+            images[i].src = imgName.replace('thg','thc');
+        }
+    }  
+}*/
+
+
+//-->
+
+    </script>
+
+    <script type="text/JavaScript">
+<!--
+
+var IntervalId = 0;
+var imageCounter = 0;
+var imageIdArray = new Array();
+
+function randOrd(){
+    return (Math.round(Math.random())-0.5); 
+} 
+
+for (i = 1; i < 52; i++) { 
+    imageIdArray[i] = i; 
+}
+
+
+imageIdArray.sort( randOrd );
+
+function loadimages(){      
+    var currentImgID = 'Image' + imageIdArray[imageCounter];
+    var currentImgPath = eval('imagePath' + imageIdArray[imageCounter]);
+   
+    document.getElementById(currentImgID).src = currentImgPath;
+    imageCounter = imageCounter + 1; 
+    if (imageCounter>50) {
+        clearInterval ( IntervalId );
+     }
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document;  if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+  var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+  if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+  
+  IntervalId = (setTimeout('setInterval ("loadimages()",40)',3000));
+}   
+
+function fnToggleGridImage(obj,IsOver)
+{
+
+var myimage;
+    if(obj.src.indexOf('sqg_') > -1){
+        myimage = obj.src;
+        myimage = myimage.replace('sqg_','sqc_');
+        obj.src = myimage;
+    }else{                                    
+        myimage = obj.src;
+        myimage = myimage.replace('sqc_','sqg_');
+        obj.src = myimage;
+        }                                              
+}
+
+function preloadColourImg() 
+{    
+    var images = new Array;
+    for(var i=0; i<document.images.length; i++)
+    {
+        var img = document.images[i];
+        var imgName = img.src;
+        if (imgName.indexOf('thg') > -1)
+            {         
+            images[i] = new Image();
+            images[i].src = imgName.replace('thg','thc');
+            /*
+            if (i == 0)
+            {         
+                alert(imgName);
+            }
+            */
+        }
+    }  
+}
+
+
+//-->
+    </script>
+
+    <script type="text/JavaScript">
+            // <![CDATA[
+          function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+                var arVersion = navigator.appVersion.split("MSIE")
+                var version = parseFloat(arVersion[1])
+                if ((version >= 5.5) && (document.body.filters)) 
+                {
+                                var img = document.getElementById('HeaderControl1_logo');
+                                var imgID = (img.id) ? "id='" + img.id + "' " : "";
+                                var imgClass = (img.className) ? "class='" + img.className + "' " : "";
+                                var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' ";
+                                var imgStyle = "display:inline-block;" + img.style.cssText ;
+                                if (img.align == "left") imgStyle = "float:left;" + imgStyle;
+                                if (img.align == "right") imgStyle = "float:right;" + imgStyle;
+                                if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle;
+                                var strNewHTML = "<span " + imgID + imgClass + imgTitle
+                                + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+                                + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+                                + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" ;
+                                img.outerHTML = strNewHTML;
+                }    
+}
+window.attachEvent("onload", correctPNG);
+// ]]>
+    </script>
+
+    <link href="CSS/styles14.css" rel="stylesheet" type="text/css">
+     <!--[if IE 7]><link rel="stylesheet" type="text/css" href="CSS/IE7styles.css" /><![endif]-->
+       <!--[if IE 6]><link rel="stylesheet" type="text/css" href="CSS/IE6styles.css" /><![endif]-->
+       <style type="text/css">
+<!--
+
+@-moz-document url-prefix() {
+    .collection_tag_container
+{
+
+	margin-top:10px;
+	/*line-height:109.5%;*/
+	/*margin:0.52em 0;*/
+	}
+}
+//-->
+</style>
+</head>
+<body id="homebody" onload="preloadColourImg()">
+    <a accesskey="9" class="hidden" href="#textarea3" title="Go to main content">Skip navigation</a>
+    <form name="form1" method="post" action="Default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY4OTU2MzAxNg8WBB4OY29udGVudEFyZWFJRDECiQMeBU1vdmllaBYCAgMPFgIeBm9ubG9hZAUScHJlbG9hZENvbG91ckltZygpFgICAQ9kFgQCAw8PFgIeCkNhdGVnb3J5SUQCu5sCZBYEAgMPFCsAAhQrAAIPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGQQFgVmAgECAgIDAgQWBRQrAAIPFgoeBFRleHQFDUFib3V0IHRoZSBSQ0EeB1Rvb2xUaXAFFFRvcCBMZXZlbCBNZW51IEl0ZW1zHglBY2Nlc3NLZXkFATEeCFNlbGVjdGVkaB4IRXhwYW5kZWRoZBAWC2YCAQICAgMCBAIFAgYCBwIIAgkCChYLFCsAAg8WCh8FBQdTY2hvb2xzHwYFE1NjaG9vbHMgLSBtYWluIG1lbnUeBVZhbHVlBQUzNjY5Mh4LTmF2aWdhdGVVcmwFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0xNTkzODQmQ2F0ZWdvcnlJRD0zNjY5Mh8IaGRkFCsAAg8WCh8FBQhSZXNlYXJjaB8GBRRSZXNlYXJjaCAtIG1haW4gbWVudR8KBQUzNjY0Nx8LBTB+L0RlZmF1bHQuYXNweD9Db250ZW50SUQ9MTYwMjYyJkNhdGVnb3J5SUQ9MzY2NDcfCGhkZBQrAAIPFgofBQUTU3R1ZHlpbmcgYXQgdGhlIFJDQR8GBR9TdHVkeWluZyBhdCB0aGUgUkNBIC0gbWFpbiBtZW51HwoFBTM2NzY3HwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD01MTA1NDkmQ2F0ZWdvcnlJRD0zNjc2Nx8IaGRkFCsAAg8WCh8FBQ5BY2FkZW1pYyBTdGFmZh8GBRpBY2FkZW1pYyBTdGFmZiAtIG1haW4gbWVudR8KBQUzNjc2NB8LBTB+L0RlZmF1bHQuYXNweD9Db250ZW50SUQ9NTA0MTA3JkNhdGVnb3J5SUQ9MzY3NjQfCGhkZBQrAAIPFgofBQUETmV3cx8GBRBOZXdzIC0gbWFpbiBtZW51HwoFBTM2NTM4HwsFH34vRGVmYXVsdC5hc3B4P0NhdGVnb3J5SUQ9MzY1MzgfCGhkZBQrAAIPFgofBQUYRXhoaWJpdGlvbnMgJmFtcDsgRXZlbnRzHwYFIEV4aGliaXRpb25zICYgRXZlbnRzIC0gbWFpbiBtZW51HwoFBTM2NjQ2HwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0xNjAxMTAmQ2F0ZWdvcnlJRD0zNjY0Nh8IaGRkFCsAAg8WCh8FBQlBbHVtbmlSQ0EfBgUVQWx1bW5pUkNBIC0gbWFpbiBtZW51HwoFBTM2Nzc4HwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0xNTk3NTMmQ2F0ZWdvcnlJRD0zNjc3OB8IaGRkFCsAAg8WDh8FBQ1BYm91dCB0aGUgUkNBHwYFGUFib3V0IHRoZSBSQ0EgLSBtYWluIG1lbnUfCgUFMzYyODMfCwUwfi9EZWZhdWx0LmFzcHg/Q29udGVudElEPTE1OTM5MCZDYXRlZ29yeUlEPTM2MjgzHwhnHghDc3NDbGFzcwUQU2VsZWN0ZWRDc3NDbGFzcx4EXyFTQgICZGQUKwACDxYKHwUFD1N1cHBvcnQgdGhlIFJDQR8GBRtTdXBwb3J0IHRoZSBSQ0EgLSBtYWluIG1lbnUfCgUFMzY3NjAfCwUwfi9EZWZhdWx0LmFzcHg/Q29udGVudElEPTUwNzUxOSZDYXRlZ29yeUlEPTM2NzYwHwhoZGQUKwACDxYKHwUFG0lubm92YXRpb24gJmFtcDsgRW50ZXJwcmlzZR8GBSNJbm5vdmF0aW9uICYgRW50ZXJwcmlzZSAtIG1haW4gbWVudR8KBQUzNjM0NR8LBTB+L0RlZmF1bHQuYXNweD9Db250ZW50SUQ9MTU5NzU3JkNhdGVnb3J5SUQ9MzYzNDUfCGhkZBQrAAIPFgofBQUeSGVsZW4gSGFtbHluIENlbnRyZSBmb3IgRGVzaWduHwYFKkhlbGVuIEhhbWx5biBDZW50cmUgZm9yIERlc2lnbiAtIG1haW4gbWVudR8KBQUzNjc3OR8LBTB+L0RlZmF1bHQuYXNweD9Db250ZW50SUQ9MTU5NTYxJkNhdGVnb3J5SUQ9MzY3NzkfCGhkZA8WC2ZmZmZmZmZmZmZmFgEFdVRlbGVyaWsuV2ViLlVJLlJhZFBhbmVsSXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAwOS4zLjEyMDguMjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAIPFgofBwUBMh8GBRdTZWNvbmQgTGV2ZWwgTWVudSBJdGVtcx8IaB8JaB4HVmlzaWJsZWhkZBQrAAIPFgofBwUBMx8GBRZUaGlyZCBMZXZlbCBNZW51IEl0ZW1zHwhoHwloHw5oZGQUKwACDxYKHwcFATQfBgUXRm91cnRoIExldmVsIE1lbnUgSXRlbXMfCGgfCWgfDmhkZBQrAAIPFgofBwUBNR8GBRZGaWZ0aCBMZXZlbCBNZW51IEl0ZW1zHwhoHwloHw5oZGQPFgVmZmZmZhYBBXVUZWxlcmlrLldlYi5VSS5SYWRQYW5lbEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMDkuMy4xMjA4LjIwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDRkFgpmDw8WCh8FBQ1BYm91dCB0aGUgUkNBHwYFFFRvcCBMZXZlbCBNZW51IEl0ZW1zHwcFATEfCGgfCWhkFhZmDw8WCh8FBQdTY2hvb2xzHwYFE1NjaG9vbHMgLSBtYWluIG1lbnUfCgUFMzY2OTIfCwUwfi9EZWZhdWx0LmFzcHg/Q29udGVudElEPTE1OTM4NCZDYXRlZ29yeUlEPTM2NjkyHwhoZGQCAQ8PFgofBQUIUmVzZWFyY2gfBgUUUmVzZWFyY2ggLSBtYWluIG1lbnUfCgUFMzY2NDcfCwUwfi9EZWZhdWx0LmFzcHg/Q29udGVudElEPTE2MDI2MiZDYXRlZ29yeUlEPTM2NjQ3HwhoZGQCAg8PFgofBQUTU3R1ZHlpbmcgYXQgdGhlIFJDQR8GBR9TdHVkeWluZyBhdCB0aGUgUkNBIC0gbWFpbiBtZW51HwoFBTM2NzY3HwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD01MTA1NDkmQ2F0ZWdvcnlJRD0zNjc2Nx8IaGRkAgMPDxYKHwUFDkFjYWRlbWljIFN0YWZmHwYFGkFjYWRlbWljIFN0YWZmIC0gbWFpbiBtZW51HwoFBTM2NzY0HwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD01MDQxMDcmQ2F0ZWdvcnlJRD0zNjc2NB8IaGRkAgQPDxYKHwUFBE5ld3MfBgUQTmV3cyAtIG1haW4gbWVudR8KBQUzNjUzOB8LBR9+L0RlZmF1bHQuYXNweD9DYXRlZ29yeUlEPTM2NTM4HwhoZGQCBQ8PFgofBQUYRXhoaWJpdGlvbnMgJmFtcDsgRXZlbnRzHwYFIEV4aGliaXRpb25zICYgRXZlbnRzIC0gbWFpbiBtZW51HwoFBTM2NjQ2HwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0xNjAxMTAmQ2F0ZWdvcnlJRD0zNjY0Nh8IaGRkAgYPDxYKHwUFCUFsdW1uaVJDQR8GBRVBbHVtbmlSQ0EgLSBtYWluIG1lbnUfCgUFMzY3NzgfCwUwfi9EZWZhdWx0LmFzcHg/Q29udGVudElEPTE1OTc1MyZDYXRlZ29yeUlEPTM2Nzc4HwhoZGQCBw8PFg4fBQUNQWJvdXQgdGhlIFJDQR8GBRlBYm91dCB0aGUgUkNBIC0gbWFpbiBtZW51HwoFBTM2MjgzHwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0xNTkzOTAmQ2F0ZWdvcnlJRD0zNjI4Mx8IZx8MBRBTZWxlY3RlZENzc0NsYXNzHw0CAmRkAggPDxYKHwUFD1N1cHBvcnQgdGhlIFJDQR8GBRtTdXBwb3J0IHRoZSBSQ0EgLSBtYWluIG1lbnUfCgUFMzY3NjAfCwUwfi9EZWZhdWx0LmFzcHg/Q29udGVudElEPTUwNzUxOSZDYXRlZ29yeUlEPTM2NzYwHwhoZGQCCQ8PFgofBQUbSW5ub3ZhdGlvbiAmYW1wOyBFbnRlcnByaXNlHwYFI0lubm92YXRpb24gJiBFbnRlcnByaXNlIC0gbWFpbiBtZW51HwoFBTM2MzQ1HwsFMH4vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0xNTk3NTcmQ2F0ZWdvcnlJRD0zNjM0NR8IaGRkAgoPDxYKHwUFHkhlbGVuIEhhbWx5biBDZW50cmUgZm9yIERlc2lnbh8GBSpIZWxlbiBIYW1seW4gQ2VudHJlIGZvciBEZXNpZ24gLSBtYWluIG1lbnUfCgUFMzY3NzkfCwUwfi9EZWZhdWx0LmFzcHg/Q29udGVudElEPTE1OTU2MSZDYXRlZ29yeUlEPTM2Nzc5HwhoZGQCAQ8PFgofBwUBMh8GBRdTZWNvbmQgTGV2ZWwgTWVudSBJdGVtcx8IaB8JaB8OaGRkAgIPDxYKHwcFATMfBgUWVGhpcmQgTGV2ZWwgTWVudSBJdGVtcx8IaB8JaB8OaGRkAgMPDxYKHwcFATQfBgUXRm91cnRoIExldmVsIE1lbnUgSXRlbXMfCGgfCWgfDmhkZAIEDw8WCh8HBQE1HwYFFkZpZnRoIExldmVsIE1lbnUgSXRlbXMfCGgfCWgfDmhkZAIKDw8WAh8OaGRkAgUPZBYKAgEPFgIeBWNsYXNzBRBpbWFnZWFyZWEyIGZvbnQxFgICAw8WAh8OaGQCBQ8WAh8PBQl0ZXh0YXJlYTIWAgIBD2QWAgICDxYCHgVzdHlsZQUrYm9yZGVyLWJvdHRvbTowcHggc29saWQgIzk5OTlBQSAhaW1wb3J0YW50O2QCBw8WAh8OaGQCCQ8PFgIfDmhkZAILDw8WAh8OaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRtIZWFkZXJDb250cm9sMSRSYWRQYW5lbEJhcjIFIEhlYWRlckNvbnRyb2wxJFNlYXJjaEltYWdlQnV0dG9u">
+</div>
+
+
+<script src="/ScriptResource.axd?d=6akdMrGUiyo47FvLgNGD6_bXpIbAhCtbH1-Jod-m14RlWBWd0CbU4DQ80ATVeJM6gW459jpS4pGOCXlBkFub6Z9gn0wAKp6--roJ-AkAtK3g7WsXSVXSH2rTu1Y1uMuvHSv4y0aUCc1Z64C35dhvmGAsTJY1&amp;t=634304495542540989" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=lFD-sw0p-aNtaDjhG7fMcMOIZMG7Syaa6ZvVuw-gvKR4z2s5M3sZWJEaPz1S_rkrWziwZDjZbjtyAei4w7hrEcS-x2PS1cs6UIZRI6QLPpLPGPAf9bsZFKU-fy7mkzZHVcWARg2&amp;t=633957966100000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OWBnySSD8_mgidtkqWcKxmtmu9EWY7r-bjy51v12wMrMKL1RVXK5Fg_5Dy44KricIRH9pEiWBs-NQQqOHTqa5VYIFEkLMOQbAUCZXNDqwyy8tr5JkfhGb3nc9kjaV-R30wG_8A2&amp;t=633957966100000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=iKUDFtkZfIJmDHH659d8w6GHbgvcGzLNMHzG0EIv6Lz7-3Tk3p5XVp3L1KAwimUNGGkEhV4qpJVVttdMZx_pnK8yP4-SaAwtEPapqUOWeHQZFBqYYMJubqLjIcyLa8-W0LceGg2&amp;t=633957966100000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PRrqnFmJKuFM5Aa5PDzh0duWv4GGIxvOOfzWWPVGApWd-ukTCyQn36kWIsPrGjSkDT-XVPSQOSWKfF3_TSXCUayugYnvgEwDXpCSnOskIrKCBD48dkpapvYSIx4A-Zlj39Sog0vskW_t7zF5iIoDJhM_TCY1&amp;t=633957966100000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ThbYgeW1hCoC0ihwxoWmqfrbNmHAHqhkEBNgTYeEAp-dc-of_en3977g84DC-bHICysYUrBNkHfn-yhvOcyo0BcYEoL0OgpmJVHOmamGDLdcW8lORPQlLC49GP7_i-dQQ4CAQg81UDRoOnWsxx0nsGMNm201&amp;t=633957966100000000" type="text/javascript"></script>
+        
+        <div id="container">
+             
+
+
+<script type="text/javascript">
+                //<!--
+            
+    var _persist = true;
+    var opened=false;
+    function setStyleGrey(x)
+{
+document.getElementById(x).style.backgroundColor ="#FAFAFA";
+//document.getElementById(x).style.fontStyle.italics =true;
+if (document.getElementById(x).value=="") 
+    document.getElementById(x).value="Keyword search...";
+}
+    function setStyleTransparent(x)
+{
+document.getElementById(x).style.backgroundColor ="";
+if (document.getElementById(x).value=="Keyword search...")
+    document.getElementById(x).value="";
+}
+    function ClientItemClicked(sender,args)
+    {
+//        var item = args.get_item();
+//        
+////        if (item.get_level() == 0)
+////        {
+////            return;
+////        }
+//            
+//           if (args.get_item().get_value()!="menu_1" &&&& item.get_expanded() )
+//                        {
+//                           
+//                           document.getElementById("form1").submit();
+//                          //&& item.get_expanded()
+//                            return false;
+//                           
+//                        }
+//                        else
+//                        return false;
+//        var parentItem = item.get_parent();
+//    
+//        switch (parentItem.get_text())
+//        {
+//            case "Add At Runtime":
+//                AddItem(item);
+//                break;
+//                
+//            case "Remove At Runtime":
+//                RemoveItem(item);
+//                break;
+//                
+//            case "Disable At Runtime":
+//                DisableItem(item);
+//                break;
+//        }
+    }
+    function AddItem(item)
+    {
+        var panel = $find(" ");
+        
+        if (_persist)
+     {
+            panel.trackChanges();
+        }
+        
+        var childItem = new Telerik.Web.UI.RadPanelItem();
+        
+        childItem.set_text("New" + item.get_text());
+        
+        item.get_parent().get_items().add(childItem);
+        
+        if (_persist)
+     {
+             panel.commitChanges();
+        }
+    }
+    
+    function RemoveItem(item)
+    {
+        var panel = $find("HeaderControl1_RadPanelBar2");
+        var parentItem = item.get_parent();
+        
+        if (_persist)
+     {
+             panel.trackChanges();
+        }
+    
+        parentItem.get_items().remove(item);
+        
+        if (_persist)
+     {
+             panel.commitChanges();
+        }
+        
+    }
+    
+    function DisableItem(item)
+    {
+     var panel = $find("HeaderControl1_RadPanelBar2");
+     
+     if (_persist)
+     {
+             panel.trackChanges();
+        }
+        
+        item.disable();
+        
+        if (_persist)
+     {
+             panel.commitChanges();
+        }
+    }
+    
+    function OpenItem()
+    {
+        var panelbar =$find("HeaderControl1_RadPanelBar2");
+        
+        var text = document.getElementById("openTextBox").value;
+        
+        var item = panelbar.findItemByValue(text);
+        
+        if (item)
+        {
+            item.expand();
+        }
+        else
+        {
+            alert("Item with text '" + text + "' not found.");
+        }
+    }
+     
+    function CloseItem(ptext)
+    {
+     
+      
+        var panelbar = $find("HeaderControl1_RadPanelBar2");
+      
+        var text = ptext;
+      
+      
+         //if (panelbar)
+        //{
+         //  alert(item.Expanded);
+        //}
+        var item = panelbar.findItemByValue(text);
+        
+         
+        if (item)
+        {
+             
+             if(item.get_expanded())
+                    item.collapse();
+        }
+        else
+        {
+            //alert("Item with text '" + text + "' not found.");
+        }
+    }
+
+    function Persist()
+    {
+        _persist = !_persist;
+    }
+   
+
+                //-->
+</script>
+
+<script language="javascript" type="text/javascript">
+<!--
+var timerID,timerID2; 
+function Text1_onclick() {
+document.getElementById('HeaderControl1$txtSearch').setAttribute('value','');
+}
+
+function SubmitButtonClicked() {
+ document.forms[0].submit();
+}
+
+ var last_text;
+ function OnBlur(sender, eventArgs)
+                    {
+                       
+                        if (eventArgs.get_item().get_value()!="menu_1" && item.get_expanded())                      
+              
+                        {
+                             opened=true;              
+                            //CollapseAll();
+                            }
+      
+            
+                     // var item = radPanel.FindItemByValue("1");   
+                         
+                        //Close();
+                    }
+ function OnClicked(sender, eventArgs)
+                    {
+                       
+                        if (eventArgs.get_item().get_value()!="menu_1")
+                        {
+                            document.getElementById("Form1").submit();
+                           
+                        }
+                     // var item = radPanel.FindItemByValue("1");   
+                         
+                        //Close();
+                    }
+                    function OnExpand(sender, eventArgs)
+                    {
+                        var panelbar = $find("HeaderControl1_RadPanelBar2");
+                        var item=eventArgs.get_item();
+                        last_text=item.get_text();
+                      
+                        if (item.get_value()=="menu_1")
+                        {
+                            item.set_text("Top level content choices...");
+                        }
+                        else
+                        {
+                            item.set_text("Content within this section...");
+                        }
+//                        var items = item.get_items();
+//                        var childitem;
+//                        var selecteditem;
+//                        for (var i=0; i < items.get_count(); i++)
+//                           {
+//                             childitem= items.getItem(i);
+//                             if (childitem.get_selected()==true)
+//                               selecteditem=childitem;
+//                            }
+//                        
+//                          if (selecteditem!=null)
+//                            item.set_text("<i>Choose Again... </i>");
+//                         
+                        
+                        
+                        
+                        item.set_cssClass("rpLink2");
+                       
+                         window.clearInterval(timerID2);
+                            document.getElementById('searcharea_rest').style.visibility='hidden';
+                        
+                       // item.get_items().remove(0);
+                     // item.set_visible(false);
+                      //item.set_expandedCssClass('PanelItemInvisible');
+                       // item.hide();
+                    //  panelbar.get_items().remove(item);
+
+                    //  var attributes = item.get_attributes();
+                   //   var size = attributes.getAttribute("width");
+                      //alert(size);
+                     // var item = radPanel.FindItemByValue("1");   
+                     //  var panelbar = $find("HeaderControl1_RadPanelBar2");
+      
+                    //  var text = ptext;
+              
+                     // var item = panelbar.findItemByValue("menu_1");
+                       // item.set_text("New First Child");
+
+                        //Close();
+                        // if there movie hide it
+                        
+//                          
+//                        if  (document.getElementById('clip')!=null)
+//                        {
+//                              document.getElementById('clip').style.visibility='hidden';
+//                        }
+                    }
+                    function OnMouseOut(sender, eventArgs)
+                    {
+                        window.clearInterval(timerID);
+                        //todo :change it 18.08.2007
+                                              
+
+                      timerID=setInterval('CollapseAll();', 375); 
+                       
+                    }
+                     function OnMouseOver(sender, eventArgs)
+                    {
+                        window.clearInterval(timerID);
+                        //todo :change it 18.08.2007
+                                              
+                    }
+                       function OnCollapse(sender, eventArgs)
+                    {
+//                           var panelbar = $find("HeaderControl1_RadPanelBar2");
+                       var item=eventArgs.get_item();
+//                       if (last_text!="" && last_text!="Choose Again...")
+//                       {
+//                          item.set_text(last_text);
+//                       }
+                       
+                       if (last_text=="Top level content choices..." || last_text=="Content within this section..." || last_text=="Content within this section..." )
+                       {
+                        item.set_text(last_text);
+                       }
+                       else
+                       {
+                          item.set_text("<b>" + last_text + "</b>"); 
+                       }
+                       
+//                        var items = item.get_items();
+//                        var childitem;
+//                        var selecteditem;
+//                        for (var i=0; i < items.get_count(); i++)
+//                           {
+//                             childitem= items.getItem(i);
+//                             alert();
+//                             if (childitem.get_selected())
+//                             {
+//                               selecteditem=childitem;
+//                               break;
+//                                alert(selecteditem);
+//                               }
+//                            }
+//                            
+//                          if (selecteditem!=null)
+//                            item.set_text(selecteditem.get_text());
+//                           else
+//                              item.set_text("<i>Next level choices...</i>");
+                        item.set_cssClass("rpLink");
+                        timerID2=setInterval('BorderVisible();', 306); 
+                        
+                        //on mac this stuff is working
+//                            if  (document.getElementById('clip')!=null)
+//                        {
+//                              document.getElementById('clip').style.visibility='visible';
+//                        }
+                        
+                          
+                    }
+                    function BorderVisible()
+                    {
+                        document.getElementById('searcharea_rest').style.visibility='visible';
+                         window.clearInterval(timerID2);
+                      
+                    }
+function OnLoad (sender, eventArgs) {
+
+     MenuFix("menu_2");
+     MenuFix("menu_3");
+      MenuFix("menu_4");
+       MenuFix("menu_5");
+     var height=82;
+     /* dynamic borders*/
+        var panelbar = $find("HeaderControl1_RadPanelBar2");
+        var item = panelbar.findItemByValue("menu_1");
+      //  item.set_cssClass("rpLink2");
+        var itemText=item.get_text();
+                 if (itemText=="Top level content choices..." || itemText=="Content within this section..." || itemText=="Content within this section..." )
+                       {
+                       // do nothing ;
+                       }
+                       else
+                       {
+                          item.set_text("<b>" + itemText + "</b>"); 
+                       }
+      
+        var item = panelbar.findItemByValue("menu_2");
+        if (item)
+        {
+          height=height - 18;
+        }
+        
+        var panelbar = $find("HeaderControl1_RadPanelBar2");
+        var item = panelbar.findItemByValue("menu_3");
+        if (item)
+        {
+          height=height - 18;
+        }
+        var item = panelbar.findItemByValue("menu_4");
+        if (item)
+        {
+          height=height - 18;
+        }
+           var item = panelbar.findItemByValue("menu_5");
+        if (item)
+        {
+          height=height - 18;
+        }
+      
+      document.getElementById('searcharea_rest').style.height=height + "px";
+      
+     /* */
+          
+      
+         //if (panelbar)
+        //{
+         //  alert(item.Expanded);
+        //}
+       
+}
+function MenuFix(menuname)
+{
+  var panelbar = $find("HeaderControl1_RadPanelBar2");
+   var item = panelbar.findItemByValue(menuname);
+      
+        
+        if (item)
+        {
+          var itemText=item.get_text();
+         // alert(itemText);
+             var items = item.get_items();
+            // alert(items.get_count());
+             var finded=false;
+               for (var i=0; i < items.get_count(); i++)
+                           {
+                             var childitem= items.getItem(i);
+                             
+                             if (trimAll(childitem.get_text())==trimAll(itemText))
+                             {
+                               
+                               finded=true;
+                                break;
+                              
+                               }
+                            }
+             
+           
+             if (!finded)
+             {
+                 
+                item.set_text("Content within this section...")
+             }
+             else
+             {
+               
+                 item.set_text("<b>" + itemText + "</b>")
+             }
+             
+        }
+
+}
+function trimAll(sString) 
+{
+while (sString.substring(0,1) == ' ')
+{
+sString = sString.substring(1, sString.length);
+}
+while (sString.substring(sString.length-1, sString.length) == ' ')
+{
+sString = sString.substring(0,sString.length-1);
+}
+return sString;
+}
+
+function RadPanelBar2_ItemClick(sender, eventArgs)
+{
+
+  var item=eventArgs.get_item();
+  //if it is not a menu item 
+  // link must be clicked so close the nav
+
+  if ((item.get_value().substring(0,4)!="menu"))
+     CollapseAll();
+}
+
+function CollapseAll()
+                    {
+                     
+                       CloseItem("menu_1");
+                        CloseItem("menu_2");
+                        CloseItem("menu_3");
+                        CloseItem("menu_4");
+                        CloseItem("menu_5");
+                      
+                     // var item = radPanel.FindItemByValue("1");   
+                         
+                        //Close();
+                    }
+                    
+//                    function ItemClicked(sender, eventArgs)
+//                    {
+//                        if (eventArgs.get_item().get_value()=="menu_1")
+//                        {
+//                            
+//                            return false();
+//                            }
+//                    }
+                    
+
+-->
+
+
+  
+       
+
+
+</script>
+
+
+
+<div id="HeaderControl1_titlearea" class="titlearea">
+    <a href="Default.aspx" accesskey="0">
+        <img src="Images/logo_pixel_rca.png" id="HeaderControl1_logo" alt="Royal College of Art" class="logo" title="Royal College of Art"></a>&nbsp;</div>
+<div id="searcharea" style="z-index: 10000">
+    <div id="searcharea_rad" style="z-index: 10000">
+    <div id="HeaderControl1_RadPanelBar2" class="RadPanelBar RadPanelBar_Vista" style="width:311px;">
+	<!-- 2009.3.1208.20 --><ul class="rpRootGroup">
+		<li class="rpItem rpFirst rpLast"><a href="#" accesskey="1" title="Top Level Menu Items" class="rpLink rpExpandable"><span class="rpOut"><span class="rpText">About the RCA</span></span></a><div class="rpSlide">
+			<ul class="rpGroup rpLevel1 ">
+				<li class="rpItem rpFirst"><a href="Default.aspx?ContentID=159384&amp;CategoryID=36692" title="Schools - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Schools</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=160262&amp;CategoryID=36647" title="Research - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Research</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=510549&amp;CategoryID=36767" title="Studying at the RCA - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Studying at the RCA</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=504107&amp;CategoryID=36764" title="Academic Staff - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Academic Staff</span></span></a></li><li class="rpItem"><a href="Default.aspx?CategoryID=36538" title="News - main menu" class="rpLink"><span class="rpOut"><span class="rpText">News</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=160110&amp;CategoryID=36646" title="Exhibitions &amp; Events - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Exhibitions &amp; Events</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=159753&amp;CategoryID=36778" title="AlumniRCA - main menu" class="rpLink"><span class="rpOut"><span class="rpText">AlumniRCA</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=159390&amp;CategoryID=36283" title="About the RCA - main menu" class="rpLink SelectedCssClass rpSelected"><span class="rpOut"><span class="rpText">About the RCA</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=507519&amp;CategoryID=36760" title="Support the RCA - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Support the RCA</span></span></a></li><li class="rpItem"><a href="Default.aspx?ContentID=159757&amp;CategoryID=36345" title="Innovation &amp; Enterprise - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Innovation &amp; Enterprise</span></span></a></li><li class="rpItem rpLast"><a href="Default.aspx?ContentID=159561&amp;CategoryID=36779" title="Helen Hamlyn Centre for Design - main menu" class="rpLink"><span class="rpOut"><span class="rpText">Helen Hamlyn Centre for Design</span></span></a></li>
+			</ul>
+		</div></li>
+	</ul><input id="HeaderControl1_RadPanelBar2_ClientState" name="HeaderControl1_RadPanelBar2_ClientState" type="hidden">
+</div>
+   
+   </div>
+    <div id="searcharea_rest" style="z-index: 10000; height: 70px; visibility:visible">
+    </div>
+</div> 
+<div id="keywordarea">
+   
+           
+    <input name="HeaderControl1$SearchTextBox" type="text" value="Keyword search..." id="HeaderControl1_SearchTextBox" class="rcasearchbox" onblur="setStyleGrey(this.id)" onfocus="setStyleTransparent(this.id)" style="background-color:Transparent;font-family:Arial,SegoeUI,sans-serif;;font-size:0.74em;"><input type="image" name="HeaderControl1$SearchImageButton" id="HeaderControl1_SearchImageButton" class="submitbtn" title="Search" src="Images/GOBUTTON.gif" alt="Keyword Search" style="height:17px;width:17px;border-width:0px;">
+
+</div>
+
+<div id="welcome" style="left: 900px; position: absolute; top: 5px; text-align: right">
+    &nbsp;<br>
+    &nbsp;<span id="HeaderControl1_UsernameLabel" style="color:White;"></span>
+
+   
+</div>
+<div id="DivPreview" style="left: 995px; position: absolute; top: 130px; text-align: right;opacity:0.6">
+   
+    &nbsp;
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+
+
+
+
+
+
+            <div id="wrapper" onclick="CollapseAll();">
+                <div id="imagearea3" class="imagearea2 font1">
+                    <ul id="imglist" class="imglist"><li class="flavio"><div class="contenttype">&nbsp;</div><h1>&nbsp;</h1></li>
+                    </ul>
+                    
+                </div>
+                <div id="main">
+                </div>
+                <div id="textarea3" class="textarea2">
+                    <ul id="txtList" class="txtlist"><li class="flavio"><div class="contenttype font1">&nbsp;</div><h1 class="focus">Privacy and Cookies</h1></li>
+                    <li class="textwithingrouplight" style="border-bottom:0px solid #9999AA !important;"><div><div><div><h2>General</h2><p>The&nbsp;Royal College of Art (RCA) will protect the privacy
+of users of our services, and enquirers and visitors to our website in
+accordance with the Data Protection Act. The RCA will minimise any intrusion or
+change to the configuration of individuals’ browsers or internet-enabled
+devices.</p>
+<p>Whenever personal information is voluntarily given to the RCA by
+anyone, they consent to its collection and use by the RCA in accordance with
+this privacy notice. Personal data submitted online to the RCA will only be
+passed on to third parties who are directly involved in providing services to the
+RCA for the purpose required. The RCA will not disclose any personal data for
+any other use, to any other party unless we are obliged to do so by law.</p>
+
+<hr class="editorHr">
+<h2>Security</h2><p>The RCA is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+
+<hr class="editorHr">
+<h2>Scope</h2><p>This privacy notice explains how, why and what happens when the Royal College of Art collects&nbsp;<strong>personal information</strong>&nbsp;and <strong>automatically collected data</strong>, concerning:</p>
+<ul>
+    <li>people who use our services, e.g. those who subscribe to newsletters, or purchase tickets or publications</li>
+    <li>people who apply online for our programmes of study (<a href="http://applications.rca.ac.uk" target="_blank" title="Click here for RCA Online Applications">http://applications.rca.ac.uk</a>)</li>
+    <li>visitors to our websites.</li>
+</ul>
+<p>Royal College of Art (RCA) will protect the privacy of users of our services, and enquirers and visitors to our website in accordance with the Data Protection Act. The RCA will minimise any intrusion or change to the configuration of individuals’ browsers or Internet enabled devices.</p>
+<p>Whenever personal information is voluntarily given to the RCA by anyone, they consent to its collection and use by the RCA in accordance with this privacy notice. Personal data submitted online to the RCA will only be passed on to third parties who are directly involved in providing services to the RCA for the purpose required. The RCA will not disclose any personal data for any other use, to any other party unless we are obliged to do so by law.</p>
+
+<hr class="editorHr">
+<h2>Personal Information</h2><p>We use personal data to assist in the query, application and
+admissions process and to provide this information securely to
+regulatory or funding bodies related to student applications. When we
+collect personally identifiable information through our website, we will
+make it clear. We will also make it clear when and what personal
+information we will collect, and what we intend to do with it.</p>
+<p>Where you have voluntarily given personal information to the RCA for a specific service such as:</p>
+<ul>
+    <li>internal record keeping</li>
+    <li>student admissions service</li>
+    <li>Alumni directory service</li>
+</ul>
+<p>we will only use it for the purpose for which it has been gathered. For more information, please contact <a class="ApplyClass" href="mailto:webmaster@rca.ac.uk">webmaster@rca.ac.uk</a>.</p>
+<ul>
+    <li><strong>What personal information might we collect?</strong>
+    </li>
+</ul>
+<p>When individuals register for any of our services: to subscribe to newsletters, make purchases, make an enquiry or report a problem, they may be asked to voluntarily provide personal information such as name, address, telephone number or e-mail address. </p>
+<p>Online purchases through our websites will always be made through WorldPay, so credit or debit card details will not be held or used directly by RCA.</p>
+<ul>
+    <li><strong>How do we use your personal information?</strong></li>
+</ul>
+<p>We use personal data to assist in the query, application and admissions process and to provide this information securely to regulatory or funding bodies related to student applications. When we collect personally identifiable information through our website, we will make it clear. We will also make it clear when and what personal information we will collect, and what we intend to do with it.</p>
+<p>Where you have voluntarily given personal information to the RCA for a specific service such as:</p>
+<ul>
+    <li>internal record keeping</li>
+    <li>student admissions service</li>
+    <li>Alumni directory service</li>
+</ul>
+<p>we will only use it for the purpose for which it has been gathered. For more information, please contact webmaster@rca.ac.uk.</p>
+<p>
+</p>
+<ul>
+    <li><strong>Direct Marketing</strong></li>
+</ul>
+<p>Subscribers to newsletters or email lists may be contacted to market our programmes of study or events that may be of interest. Anyone may at any time request us to stop using their personal data for direct marketing purposes by contacting: webmaster@rca.ac.uk.</p>
+<ul>
+    <li><strong>Directories</strong></li>
+</ul>
+<p>If anyone voluntarily submits personal data for inclusion in any RCA directory or information service, it may be seen by anyone else who has access to that directory or service. People should not submit any personal data that they do not want to be made public in this way, no one should send any personal data about anyone else without their permission.
+</p>
+<p>
+</p>
+<hr class="editorHr">
+<h2>Cookies and Automatically Collected Data</h2><p>
+The RCA may use cookies on any of its web sites. A cookie is a small text file that is sent from a web server to your browser and may be stored on your computer, designed to collect data for statistical purposes. A cookie can't read data off your hard disk or read cookie files created by other sites.&nbsp;RCA web site cookies do not collect any personal information, but can automatically collect data based on visitor browser settings and context (e.g.: location, device, browser) and the use of our web sites. You can configure your browser to refuse any cookie or to alert you to when a cookie is being sent. If you refuse cookies, some websites may not function. The cookies we use on our main web site,&nbsp;<strong>http://www.rca.ac.uk</strong>&nbsp;are:</p>
+<table frame="void" rules="all">
+    <tbody>
+        <tr>
+            <td>
+            Site
+            </td>
+            <td>
+            Cookie
+            </td>
+            <td>
+            Name
+            </td>
+            <td>
+            Purpose </td>
+            <td>
+            More Information</td>
+        </tr>
+        <tr>
+            <td>
+            <a title="http://rca.ac.uk" target="_blank" href="http://rca.ac.uk/">http://rca.ac.uk</a>
+            </td>
+            <td>
+            Google Analytics
+            </td>
+            <td>
+            _utma<br>
+            _utmb<br>
+            _utmc<br>
+            _utmz
+            </td>
+            <td>
+            <p>These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.</p>
+            </td>
+            <td>
+            <a title="External link" target="_blank" href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html">Click here for an overview of privacy at Google</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p><a title="http://rca.ac.uk" target="_blank" href="http://rca.ac.uk/">http://rca.ac.uk</a></p>
+            </td>
+            <td>
+            <p>Microsoft .NET</p>
+            </td>
+            <td>
+            <p>ASP.NET SessionId</p>
+            </td>
+            <td>
+            <p> </p>
+            </td>
+            <td>
+            <p> </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>Any data collected automatically from visitors to our web sites through the use of cookies will be used to improve the sites, and will not and cannot be used to identify any visitor. Consent by site visitors for this anonymous data to be collected and used by RCA for the purpose stated above will be assumed by your continued navigation of this website.</p>
+<p>We will not associate any data gathered from this site with any personally identifying information from any source. We may also log Internet Protocol (IP) address (but nothing that directly identifies visitors) in order to receive and send the required information over the internet.</p>
+<ul>
+    <li><strong>What data might we collect?</strong></li>
+</ul>
+<p>Cookies on RCA web sites (with the suffix URL suffix: rca.ac.uk) are used to gather anonymous data such as which pages are viewes, what time the visit occurred, if the visitor has been to the site before, and which site referred the visitor to the web page etc.</p>
+<ul>
+    <li><strong>How will we use the data?</strong></li>
+</ul>
+<ul>
+    <ul>
+        <li>to provide visitors with a tailored and appropriate experience, when they return to a web site</li>
+        <li>for analytical purposes – to count the number of unique visits to a pages or click patterns, and in what context visitors navigate through the website, so that we can improve the content and navigation</li>
+        <li>to report statistics internally and to regulatory authorities on request</li>
+        <li>to measure web site performance</li>
+        <li>where such storage or access is strictly necessary for the provision of a service requested by the subscriber, visitor or user.</li>
+    </ul>
+</ul>
+<p>
+</p>
+<hr class="editorHr">
+<h2>Links to Other Websites</h2><p>
+The RCA website contains links to other websites. We are not responsible for the privacy practices of other sites. We encourage our visitors to be aware when they leave our website, and to read the privacy arrangements of other sites that collect or use personal data.</p>
+<p>
+</p>
+<hr class="editorHr">
+<h2>Contacts</h2><p>This is a website of Royal College of Art, an exempt charity which operates under the Terms of a Royal Charter. Our registered office is at Kensington Gore, London SW7 2EU.</p>
+<p>Individuals have certain rights of access to their personal data. If you want to request any information about your personal data, please contact: <a href="mailto:webmaster@rca.ac.uk">webmaster@rca.ac.uk</a>.</p>
+<p>If you are not satisfied with how we have dealt with your request, you may contact the <a title="Click here for the Information Commissioner's Office website" target="_blank" href="http://www.ico.gov.uk/complaints/data_protection.aspx">Information Commissioner's Office</a>.</p>
+<p>
+</p>
+<hr class="editorHr">
+
+<p>Updated 25 May 2012</p></div></div></div></li><li class="footer font1"><a class="more" title="Contact Us. Click to view." accesskey="8" style="line-height:105%;" href="Default.aspx?ContentID=503693&amp;GroupID=159390&amp;">Contact Us</a><span class="font1">&nbsp;| </span><a class="more" title="How to Use This Site. Click to view." accesskey="7" style="line-height:105%;" href="Default.aspx?ContentID=503695&amp;GroupID=159390&amp;">How to Use This Site</a><span class="font1">&nbsp;| </span><a class="more" title="Accessibility. Click to view." accesskey="6" style="line-height:105%;" href="Default.aspx?ContentID=503697&amp;GroupID=159390&amp;">Accessibility</a><span class="font1">&nbsp;| </span><a class="more" title="Privacy and Cookies. Click to view." style="line-height:105%;" href="Default.aspx?ContentID=515563&amp;GroupID=159390&amp;">Privacy and Cookies</a></li></ul>
+                      <span id="lblTime" style="Display:none;"></span>
+                      <input name="lblhidden" type="hidden" id="lblhidden">
+				  </div>
+
+                <!-- new home page starts here-->
+              
+                
+                  <div class="contentHome">
+                  
+                  <div>
+                 
+                 </div>
+                 <div id="divFooter"></div>
+                 </div>
+            </div>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadPanelBar, {"_postBackReference":"__doPostBack(\u0027HeaderControl1$RadPanelBar2\u0027,\u0027arguments\u0027)","_skin":"Vista","allowCollapseAllItems":true,"clientStateFieldID":"HeaderControl1_RadPanelBar2_ClientState","collapseAnimation":"{\"type\":1,\"duration\":200}","expandAnimation":"{\"type\":1,\"duration\":100}","expandMode":1,"itemData":[{"items":[{"value":"36692"},{"value":"36647"},{"value":"36767"},{"value":"36764"},{"value":"36538"},{"value":"36646"},{"value":"36778"},{"value":"36283","selected":true,"cssClass":"SelectedCssClass"},{"value":"36760"},{"value":"36345"},{"value":"36779"}],"postBack":0,"value":"menu_1"}]}, {"itemClicked":RadPanelBar2_ItemClick,"itemCollapse":OnCollapse,"itemExpand":OnExpand,"load":OnLoad,"mouseOut":OnMouseOut,"mouseOver":OnMouseOver}, null, $get("HeaderControl1_RadPanelBar2"));
+});
+//]]>
+</script>
+</form>
+
+
+</body></html>
