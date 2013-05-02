@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fridae.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110001820id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridae.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502141403id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
 
 # Fridae | Empowering LGBT Asia
 
