@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mehide.org privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902230020id_/http%3A//www.mehide.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehide.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502161254id_/http%3A//mehide.org/privacy.php) for the most accurate reproduction.*
 
-# mehide.org - Free Anonymous Proxy - YouTube, Facebook, Twitter, Adult Unblocker - Secure
+# mehide.org - Unblock YouTube, Facebook, Twitter, Adult Unblocker - Secure
 
 ## Privacy Policy
 
@@ -20,11 +20,11 @@ Our website stores a cookie on your computer, if allowed by your browser's priva
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
 
-  * [Home](https://web.archive.org/web/20120902230020id_/http%3A//www.mehide.org/index.php)
-  * [Edit Browser](https://web.archive.org/web/20120902230020id_/http%3A//www.mehide.org/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20120902230020id_/http%3A//www.mehide.org/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20120902230020id_/http%3A//www.mehide.org/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20120902230020id_/http%3A//www.mehide.org/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20120902230020id_/http%3A//www.mehide.org/tou.php)
+  * [Home](https://web.archive.org/web/20130502161254id_/http%3A//mehide.org/index.php)
+  * [Edit Browser](https://web.archive.org/web/20130502161254id_/http%3A//mehide.org/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20130502161254id_/http%3A//mehide.org/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20130502161254id_/http%3A//mehide.org/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20130502161254id_/http%3A//mehide.org/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20130502161254id_/http%3A//mehide.org/tou.php)
 
 
