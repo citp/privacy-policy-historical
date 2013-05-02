@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oxygenmag.com privacy policy that was archived on 2012-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207110109id_/http%3A//www.oxygenmag.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oxygenmag.com privacy policy that was archived on 2013-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503000423id_/http%3A//oxygenmag.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Oxygen Women's Fitness Magazine | Privacy Policy
@@ -95,6 +95,114 @@ function updateLink(videoId, playlistId) {
 <meta http-equiv="content-language" content="en-us">
 <link rel="stylesheet" type="text/css" href="/ecms-editor-css.ashx/global.css"><script type="text/javascript" src="http://m.oxygenmag.com/mobify/redirect.js"></script>
 <script type="text/javascript">try{_mobify("http://m.oxygenmag.com/");} catch(err) {};</script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+<link rel="stylesheet" id="smp_style-css" href="http://cleaneating-agility.s3.amazonaws.com/Sales/colorbox.css" type="text/css" media="all">
+<script type="text/javascript" src="http://cleaneating-agility.s3.amazonaws.com/Sales/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="http://cleaneating-agility.s3.amazonaws.com/Sales/jquery.cookie-min.js"></script>
+
+<script language="javascript" type="text/javascript">
+<!--
+var swin=null;
+function popitup(mypage,w,h,pos,myname,infocus){
+    if (w!=parseInt(w)||w<=0) w=640;
+    if (h!=parseInt(h)||h<=0) h=470;
+    if (myname==null){myname="swin"};
+    myleft=0;
+    mytop=0;
+    if (myleft==0 && mytop==0 && pos!="random"){pos="center"};
+    if (pos=="random"){myleft=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;mytop=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+    if (pos=="center"){myleft=(screen.width)?(screen.width-w)/2:100;mytop=(screen.height)?(screen.height-h)/2:100;}
+    settings="width=" + w + ",height=" + h + ",top=" + mytop + ",left=" + myleft + ",scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no";swin=window.open(mypage,myname,settings);
+    if (infocus==null || infocus=="front"){swin.focus()};
+    return false;
+}
+// -->
+</script>
+
+<style type="text/css">
+body { background-color: #d1d1d1; }
+</style>
+<script type="text/javascript">
+	jQuery.noConflict();
+	jQuery(document).ready(function($) {
+		$(document).ready(function(){
+			var smp_cookie_name_a = 'smp_1307550912537_a';//1
+			var smp_cookie_name_b = 'smp_1307550912537_b';//2
+			var smp_cookie_num_visits = 3;
+			var smp_show_mode = 1;
+			function smp_show_popup(){
+								setTimeout(function() 	{ $.fn.colorbox({
+											width:"640px", 
+											height:"470px", 
+											iframe:true, 
+											opacity:0.75, 
+											speed:700, 
+											overlayClose:true, 
+											href:'http://oxygen-agility.s3.amazonaws.com/Sales/BSN/BSN_Pop.html'}) 
+										}, 
+							2000);
+			}
+			function smp_reset_cookies(){
+				c_value_a = $.cookie(smp_cookie_name_a);
+				c_value_b = $.cookie(smp_cookie_name_b);
+				if (smp_show_mode == 1 && c_value_b != null){
+					$.cookie(smp_cookie_name_b, null, { path: '/', expires: 0 });
+					return true;
+				} else if (smp_show_mode == 2 && c_value_a != null){
+					$.cookie(smp_cookie_name_a, null, { path: '/', expires: 0 });
+					return true;
+				} else {
+					return false;
+				}
+			}
+			$(document).ready(function(){
+				var date = new Date();
+				if (!smp_reset_cookies()){
+					c_value_a = $.cookie(smp_cookie_name_a);
+					c_value_b = $.cookie(smp_cookie_name_b);
+					if (smp_show_mode == 1){
+						date.setTime(date.getTime() + (1 * 24 * 60 * 60 * 1000));
+						c_value = c_value_a;
+						smp_cookie_name = smp_cookie_name_a;
+					} else if (smp_show_mode == 2){
+						date.setTime(date.getTime() + (100000 * 24 * 60 * 60 * 1000));
+						c_value = c_value_b;
+						smp_cookie_name = smp_cookie_name_b;
+					}
+					if (c_value == null){	
+				    $.cookie(smp_cookie_name, '0', { path: '/', expires: date });
+						smp_show_popup();
+					} else {
+						//cookie exists
+						if (smp_show_mode == 2){
+							date.setTime(date.getTime() + (100000 * 24 * 60 * 60 * 1000));
+							c_value++;
+							$.cookie(smp_cookie_name, c_value, { path: '/', expires: date });
+							if (c_value < smp_cookie_num_visits){
+								smp_show_popup();
+							}
+						}
+					}
+				}
+			});
+		});
+	});
+</script>
+
+<style>
+
+body
+{
+padding: 0; margin: 0;
+background-color: #FFFFFF; background-image: url(
+http://oxygen-agility.s3.amazonaws.com/Sales/BSN/1660x1000-hyper-shred.jpg); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; 
+}
+.bigboy {padding-bottom: 20px;}
+.LeftColumn, .FormContainer, .RightColumn, .ThankYouContainer, .AjaxLoadingContainer {display: none;}
+.SubscriptionFooter img {display: none;}
+.AjaxLoadingContainer img {display: none;}
+</style>
 <!------ OAS SETUP begin ------>
 <script language="JavaScript">
 <!--
@@ -123,7 +231,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
   OAS_version = 10;
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-</script><script language="JavaScript1.1" src="http://oasc18.247realmedia.com/RealMedia/ads/adstream_mjx.ads/oxygen/privacy/1305494308@Top,Right1,Right2,Bottom?"></script>
+</script><script language="JavaScript1.1" src="http://oasc18.247realmedia.com/RealMedia/ads/adstream_mjx.ads/oxygen/privacy/1372206589@Top,Right1,Right2,Bottom?"></script>
 
 <script language="JavaScript">
 <!--
@@ -138,7 +246,7 @@ function OAS_AD(pos) {
 </script>
 <!------ OAS SETUP end ------>
 <meta name="generator" content="Agility CMS">
-<meta name="agility_timestamp" content="2012/12/07 06:01:08 AM"><meta name="agility_attributes" content="Mode=Live, IsPreview=False, Language=en-us">
+<meta name="agility_timestamp" content="2013/05/02 08:04:23 PM"><meta name="agility_attributes" content="Mode=Live, IsPreview=False, Language=en-us">
 <link rel="stylesheet" href="/CSS/External/ui.tabs.css" type="text/css"></head>
     <body>
         <script type="text/javascript">
@@ -150,7 +258,7 @@ function OAS_AD(pos) {
         <script type="text/javascript" src="/Scripts/API/Agility.js"></script>
         <script type="text/javascript" src="/Scripts/API/Agility.UGC.API.js"></script>
         <script type="text/javascript">
-            Agility.UGC.API.OnInit("http://ugc.agilitycms.com/Agility-UGC-API-JSONP.svc", "8641B9F4-98FF-4C56-827E-752048689F64", "376552869", "588", "-1", "a246d5194db60d73caaced819f212d59d5695bd4");
+            Agility.UGC.API.OnInit("http://ugc.agilitycms.com/Agility-UGC-API-JSONP.svc", "8641B9F4-98FF-4C56-827E-752048689F64", "389217863", "244", "-1", "170e20fc963ee6f8ddbf085c7b56666fba5f36e1");
         </script>
         <script type="text/javascript" src="/Scripts/External/jquery.tmpl.min.js"></script>
 <script type="text/javascript" src="/Scripts/External/jquery-ui-1.7.2.custom.min.js"></script>
@@ -168,14 +276,14 @@ function OAS_AD(pos) {
     
 
 <div id="ctl00_header_ctl00" class="TopBar">
-    <div class="CustomAd"><img usemap="#Map" title="Subscribe Today!" alt="Subscribe Today!" src="http://oxygen-6a6a3f00.s3.amazonaws.com/Ads/Subscribe.png" style="border-style: solid; border-width: 0px;" height="122" width="201">
+    <div class="CustomAd"><img usemap="#Map" title="Subscribe Today!" alt="Subscribe Today!" src="http://agilityfiles.oxygenmag.com/Images/Monthly/164/164_Top_Ad_Left.jpg" style="border-style: solid; border-width: 0px;" height="122" width="201">
 <map id="Map" name="Map">
-<area title="Subscribe Today!" alt="Subscribe Today!" target="_blank" href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subscribe/order?org=RKP&amp;publ=OX" coords="7,6,104,116" shape="rect">
-<area title="Subscribe Today!" alt="Subscribe Today!" target="_blank" href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subscribe/order?org=RKP&amp;publ=OX" coords="103,79,193,116" shape="rect">
-<area title="Subscribe" alt="Subscribe" href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subscribe/order?org=RKP&amp;publ=OX" coords="119,9,193,25" shape="rect">
-<area title="Renew" alt="Renew" target="_blank" href="https://ssl.drgnetwork.com/ecom/rkp/cgi/Renew/order?org=RKP&amp;publ=OX" coords="119,24,193,40" shape="rect">
-<area title="Give a Gift" alt="Give a Gift" target="_blank" href="https://ssl.drgnetwork.com/ecom/rkp/cgi/Giftsub2/order?org=RKP&amp;publ=OX" coords="119,39,193,55" shape="rect">
-<area title="Service" alt="Service" target="_blank" href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subcustserv/start?org=RKP&amp;publ=OX" coords="119,54,193,70" shape="rect">
+<area title="Subscribe Today!" alt="Subscribe Today!" target="_blank" href=" https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" coords="7,6,104,116" shape="rect">
+<area title="Subscribe Today!" alt="Subscribe Today!" target="_blank" href=" https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" coords="103,79,193,116" shape="rect">
+<area title="Subscribe" alt="Subscribe" href=" https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" coords="119,9,193,25" shape="rect">
+<area title="Renew" alt="Renew" target="_blank" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=OXY" coords="119,24,193,40" shape="rect">
+<area title="Give a Gift" alt="Give a Gift" target="_blank" href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=OXY&amp;cds_page_id=127336" coords="119,39,193,55" shape="rect">
+<area title="Service" alt="Service" target="_blank" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=OXY" coords="119,54,193,70" shape="rect">
 </map></div>
     <div class="RightZone">
         <div class="SearchBar">
@@ -209,31 +317,29 @@ OAS_AD('Top');
     <div class="Logo">
         <a href="/Home.aspx"><img alt="" src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/Logo.png"></a>
         <div class="Clear"></div>
-        <a href="http://oxygenmag.com/Shop/Current-Issue.aspx"><img src="http://agilityfiles.oxygenmag.com/Images/Monthly/162/162_CurrentIssueTOP.png" alt="Current Issue"></a>
+        <a href="http://oxygenmag.com/Shop/Current-Issue.aspx"><img src="http://agilityfiles.oxygenmag.com/Images/Monthly/166/166_CurrentIssueTOP.png" alt="Current Issue"></a>
     </div>
     <div class="Sections">
         <ul class="MainSections">
             
                     <li class="Div"></li>
                     <li class="SectionArticles" data-backgroundcolor="#000">
-                        <a class="SectionName" href="http://oxygenmag.com/Training.aspx"><img src="http://oxygen-agility.s3.amazonaws.com/Images/Menu/Training.png" alt="Training"></a>
+                        <a class="SectionName" href="http://oxygenmag.com/Training.aspx"><img src="http://agilityfiles.oxygenmag.com/Images/Menu/Training.png" alt="Training"></a>
                         <img class="SectionArrow" src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/Section-Drop.png" alt="">
                         <div class="clear"></div>
-                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Training/Articles/Tabata-Workout.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/162/Tabata_138x98.jpg,138,98,0" alt="Tabata Workout!"></a><a class="Over" href="http://oxygenmag.com/Training/Articles/Tabata-Workout.aspx">Tabata Workout!</a></div>
+                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Training/Slideshows/Take-Your-Workout-Outside.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/165/Outside/Outside_138x98.jpg,138,98,0" alt="Take Your Workout Outside"></a><a class="Over" href="http://oxygenmag.com/Training/Slideshows/Take-Your-Workout-Outside.aspx">Workout Outside</a></div>
                         <div class="clear"></div>
                         <ul style="background-color:#000">
                             <li class="FeaturedData">
-                                <a href="http://oxygenmag.com/Training/Articles/Tabata-Workout.aspx" target=""><b>No time for the gym? Try this four-minute cardio fat blast!</b><br></a>
+                                <a href="http://oxygenmag.com/Training/Slideshows/Take-Your-Workout-Outside.aspx" target=""><b>Need to shake up your workout routine? Take your training outdoors this summer by trying a fun new fat-burning activity.</b><br></a>
                             </li>
                             <li class="RelatedArticles">
                                 <img src="/Images/Headers/RelatedArticlesHeader.png">
                             </li>
                             
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Training/Articles/Strong-Core-Workout.aspx">Strong Core Workout</a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Training/Articles/Your-HIIT-Workouts.aspx">Your HIIT Workouts</a></li>
                                 
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Training/Articles/Stability-ball-move.aspx">Stability Ball Move</a></li>
-                                
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Training/Articles/Get-a-Great-Butt.aspx">Get a Great Butt!</a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Training/Articles/Lower-Body-Stretches.aspx">Lower Body Stretches</a></li>
                                 
                             <li class="MoreArticles">
                                 <a href="http://oxygenmag.com/Training.aspx"><img src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/More-Training.png" alt=""></a>
@@ -246,21 +352,19 @@ OAS_AD('Top');
                         <a class="SectionName" href="http://oxygenmag.com/Nutrition.aspx"><img src="http://oxygen-agility.s3.amazonaws.com/Images/Menu/Nutrition.png" alt="Nutrition"></a>
                         <img class="SectionArrow" src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/Section-Drop.png" alt="">
                         <div class="clear"></div>
-                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Nutrition/Slideshows/Have a Snack!.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/162/HaveASnack_138x98.jpg,138,98,0" alt="Have a Snack!"></a><a class="Over" href="http://oxygenmag.com/Nutrition/Slideshows/Have a Snack!.aspx">Have a Snack!</a></div>
+                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Nutrition/Slideshows/Our-10-Favorite-Salads-.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/166/10FavSalads_138x98.jpg,138,98,0" alt="Our 10 Favorite Salads "></a><a class="Over" href="http://oxygenmag.com/Nutrition/Slideshows/Our-10-Favorite-Salads-.aspx">Our 10 Fav Salads </a></div>
                         <div class="clear"></div>
                         <ul style="background-color:#000">
                             <li class="FeaturedData">
-                                <a href="http://oxygenmag.com/Nutrition/Slideshows/Have a Snack!.aspx" target=""><b>Are you a nibbler? Find your snacking personality and bite right with these healthy options.</b><br></a>
+                                <a href="http://oxygenmag.com/Nutrition/Slideshows/Our-10-Favorite-Salads-.aspx" target=""><b>An Oxygen girl’s recipe box isn’t complete without light, refreshing and satisfying salads! Check out our all-time faves.</b><br></a>
                             </li>
                             <li class="RelatedArticles">
                                 <img src="/Images/Headers/RelatedArticlesHeader.png">
                             </li>
                             
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Nutrition/Articles/Boost Your Fat Burn.aspx">Boost Your Fat Burn</a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Nutrition/Articles/Herb-Salad-with-Greek-Tzatziki-Dressing.aspx">Herb Salad with Greek Tzatziki Dressing</a></li>
                                 
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Nutrition/Articles/Herb-Appeal.aspx">Herb Appeal</a></li>
-                                
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Nutrition/Articles/Omega-Fat-Loss.aspx">Omega Fat Loss</a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Nutrition/Articles/Seven-Citrus-Salad-with-Mint.aspx">Seven Citrus Salad with Mint</a></li>
                                 
                             <li class="MoreArticles">
                                 <a href="http://oxygenmag.com/Nutrition.aspx"><img src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/More-Nutrition.png" alt=""></a>
@@ -273,21 +377,19 @@ OAS_AD('Top');
                         <a class="SectionName" href="http://oxygenmag.com/Fat-Loss.aspx"><img src="http://oxygen-agility.s3.amazonaws.com/Images/Menu/Fat-Loss.png" alt="Fat Loss"></a>
                         <img class="SectionArrow" src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/Section-Drop.png" alt="">
                         <div class="clear"></div>
-                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Fat-Loss/Slideshows/5-Ways-to-Jumpstart-Your-Fat-Loss.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/162/Jumpstart_138x98.jpg,138,98,0" alt="Jumpstart Fat Loss"></a><a class="Over" href="http://oxygenmag.com/Fat-Loss/Slideshows/5-Ways-to-Jumpstart-Your-Fat-Loss.aspx">Jumpstart Fat Loss</a></div>
+                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Fat-Loss/Articles/13-Things-We-Learned-from-Jackie-Warner.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/164/Jackie-Warner_138x98.jpg,138,98,0" alt="13 Things We Learned from Jackie Warner"></a><a class="Over" href="http://oxygenmag.com/Fat-Loss/Articles/13-Things-We-Learned-from-Jackie-Warner.aspx">Jackie Warner</a></div>
                         <div class="clear"></div>
                         <ul style="background-color:#000">
                             <li class="FeaturedData">
-                                <a href="http://oxygenmag.com/Fat-Loss/Slideshows/5-Ways-to-Jumpstart-Your-Fat-Loss.aspx" target=""><b>Add these five easy tips to your routine and start blasting fat today!</b><br></a>
+                                <a href="http://oxygenmag.com/Fat-Loss/Articles/13-Things-We-Learned-from-Jackie-Warner.aspx" target=""><b>Celebrity trainer Jackie Warner answered your get-fit questions, from detox diets to getting her washboard abs.</b><br></a>
                             </li>
                             <li class="RelatedArticles">
                                 <img src="/Images/Headers/RelatedArticlesHeader.png">
                             </li>
                             
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Fat-Loss/Articles/4-Fat-Loss-Myths.aspx">4 Fat Loss Myths</a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Fat-Loss/Articles/Bust-Your-Excuses.aspx">Bust Your Excuses!</a></li>
                                 
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Fat-Loss/Articles/Why-You-Overeat.aspx">Why You Overeat</a></li>
-                                
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Fat-Loss/Articles/Outsmart-Pesky-Cravings.aspx">Outsmart Pesky Cravings</a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Fat-Loss/Slideshows/10-Most-Inspiring-Success-Stories.aspx">10 Most Inspiring Success Stories</a></li>
                                 
                             <li class="MoreArticles">
                                 <a href="http://oxygenmag.com/Fat-Loss.aspx"><img src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/More-Fat-Loss.png" alt=""></a>
@@ -300,21 +402,19 @@ OAS_AD('Top');
                         <a class="SectionName" href="http://oxygenmag.com/Health.aspx"><img src="http://oxygen-agility.s3.amazonaws.com/Images/Menu/Health.png" alt="Health"></a>
                         <img class="SectionArrow" src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/Section-Drop.png" alt="">
                         <div class="clear"></div>
-                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Health/Slideshows/Improve-Your-Bone-Health.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/162/BoneHealth_138x98.jpg,138,98,0" alt="Improve Bone Health"></a><a class="Over" href="http://oxygenmag.com/Health/Slideshows/Improve-Your-Bone-Health.aspx">Improve Bone Health</a></div>
+                        <div class="FeaturedArticle"><a class="Thumb" href="http://oxygenmag.com/Health/Articles/Prevent-Back-Pain-During-Exercise.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/165/back_138x98.jpg,138,98,0" alt="Prevent Back Pain During Exercise"></a><a class="Over" href="http://oxygenmag.com/Health/Articles/Prevent-Back-Pain-During-Exercise.aspx">Prevent Back Pain</a></div>
                         <div class="clear"></div>
                         <ul style="background-color:#000">
                             <li class="FeaturedData">
-                                <a href="http://oxygenmag.com/Health/Slideshows/Improve-Your-Bone-Health.aspx" target=""><b>Four Bone-Building Habits to Adopt Now!</b><br></a>
+                                <a href="http://oxygenmag.com/Health/Articles/Prevent-Back-Pain-During-Exercise.aspx" target=""><b>Prevent posterior aches and pains during your next cycling, Pilates or yoga session.</b><br></a>
                             </li>
                             <li class="RelatedArticles">
                                 <img src="/Images/Headers/RelatedArticlesHeader.png">
                             </li>
                             
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Health/Articles/Sore-No-More.aspx">Sore No More! </a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Health/Articles/How-Fit-is-Your-Posture.aspx">How Fit is Your Posture? </a></li>
                                 
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Health/Articles/How-to-Bust-Stress.aspx">How to Bust Stress</a></li>
-                                
-                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Health/Articles/Sleep-Yourself-Fit.aspx">Sleep Yourself Fit</a></li>
+                                    <li class="RelatedArticle"><a href="http://oxygenmag.com/Health/Articles/Get-Your-Back-Into-It.aspx">Get Your Back Into It!</a></li>
                                 
                             <li class="MoreArticles">
                                 <a href="http://oxygenmag.com/Health.aspx"><img src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/More-Health.png" alt=""></a>
@@ -343,28 +443,28 @@ OAS_AD('Top');
                 <li class="Div" style="visibility: visible;"></li>
             
                 <li class="MainItem" style="visibility: visible;">
-                    <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subscribe/order?org=RKP&amp;publ=OX" target="_blank">
+                    <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" target="_blank">
                         <img src="http://agilityfiles.oxygenmag.com/Images/Menu/Subscribe.png" alt="Subscribe">
                     </a>
                     <ul class="Sub">
                             <li>
-                                <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subscribe/order?org=RKP&amp;publ=OX" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Print Subscription</a>
+                                <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Print Subscription</a>
                             </li>
                         
                             <li>
-                                <a href="https://www.zinio.com/checkout/publisher/?productId=500614831" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Digital Subscription</a>
+                                <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Digital Subscription</a>
                             </li>
                         
                             <li>
-                                <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/Giftsub2/order?org=RKP&amp;publ=OX" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Give a Gift</a>
+                                <a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=OXY&amp;cds_page_id=127336" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Give a Gift</a>
                             </li>
                         
                             <li>
-                                <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/Renew/order?org=RKP&amp;publ=OX" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Renew Subscription</a>
+                                <a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=OXY" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Renew Subscription</a>
                             </li>
                         
                             <li>
-                                <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subcustserv/start?org=RKP&amp;publ=OX" target="_blank"><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Customer Service</a>
+                                <a href="/Customer-Service-Contact.aspx" target=""><img src="/Images/Backgrounds/Submenu-Arrow.png" alt="">Customer Service</a>
                             </li>
                         
                             <li>
@@ -758,11 +858,11 @@ OAS_AD('Top');
                         </li>
                     
                         <li>
-                            <a href="http://www.oxygenmag.com/Cover-Girls/Articles/Jamies-Abs-Workout.aspx">Jamie’s Abs Workout</a>
+                            <a href="http://www.oxygenmag.com/Training/Articles/Oxygen-Beach-Body-Circuit.aspx">Oxygen Beach Body Circuit</a>
                         </li>
                     
                         <li>
-                            <a href="http://www.oxygenmag.com/Training/Articles/Oxygen-Beach-Body-Circuit.aspx">Oxygen Beach Body Circuit</a>
+                            <a href="http://www.oxygenmag.com/Cover-Girls/Articles/Jamies-Abs-Workout.aspx">Jamie’s Abs Workout</a>
                         </li>
                     
             </ul>
@@ -775,15 +875,15 @@ OAS_AD('Top');
                         </li>
                     
                         <li>
-                            <a href="/Community/Blogs/Yummy-Mummy-Fitness/Get-Inspired-41-Year-Old-Mom-of-5-Once-Weighed-Over-200-Pounds.aspx">Get Inspired! 41-Year-Old Mom of 5 Once Weighed Over 200 Pounds!</a>
-                        </li>
-                    
-                        <li>
                             <a href="http://www.oxygenmag.com/Nutrition/Articles/Peanut-Butter-Protein-Balls.aspx">Peanut Butter Protein Balls</a>
                         </li>
                     
                         <li>
-                            <a href="http://www.oxygenmag.com/Nutrition/Articles/Baked-Pumpkin-Spice-Oatmeal.aspx">Baked Pumpkin Spice Oatmeal</a>
+                            <a href="http://www.oxygenmag.com/Nutrition/Articles/Grocery-List-and-Meal-Plan-Download.aspx">Grocery List and Meal Plan Download</a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.oxygenmag.com/Fat-Loss/Articles/I-love-lifting-weights.aspx">“I love lifting weights!”</a>
                         </li>
                     
                         <li>
@@ -796,23 +896,23 @@ OAS_AD('Top');
             <ul>
                 
                         <li>
-                            <a href="/Community/Blogs/Oxygens-Staff-Blog/Wintertime-blues.aspx">Wintertime blues</a>
+                            <a href="http://www.oxygenmag.com/Training/Slideshows/Best-Body-Challenge-Month-Three.aspx">Best Body Challenge: Month Three</a>
                         </li>
                     
                         <li>
-                            <a href="/Community/Blogs/Oxygens-Staff-Blog/How-gutsy-are-your-meals-.aspx">How gutsy are your meals? </a>
+                            <a href="/Community/Blogs/Oxygens-Staff-Blog/Change-your-focus-change-your-body.aspx">Change your focus, change your body</a>
                         </li>
                     
                         <li>
-                            <a href="/Community/Blogs/Oxygens-Staff-Blog/How-Fitness-Models-Do-Thanksgiving.aspx">How Fitness Models Do Thanksgiving</a>
+                            <a href="/Community/Blogs/Oxygens-Staff-Blog/Matt-Mendrun-on-clean-eats-and-quick-workouts.aspx">Matt Mendrun on clean eats and quick workouts</a>
                         </li>
                     
                         <li>
-                            <a href="http://www.oxygenmag.com/Training/Articles/Tabata-Workout.aspx">Tabata Workout!</a>
+                            <a href="/Community/Blogs/Oxygens-Staff-Blog/The-Boston-Marathons-True-Champions.aspx">The Boston Marathon’s True Champions</a>
                         </li>
                     
                         <li>
-                            <a href="http://www.oxygenmag.com/Health/Articles/Save-Your-Sick-Days.aspx">Save Your Sick Days!</a>
+                            <a href="http://www.oxygenmag.com/Health/Slideshows/8-Foam-Roller-Exercises-.aspx">8 Foam Roller Exercises</a>
                         </li>
                     
             </ul>
@@ -843,39 +943,39 @@ GA_googleFillSlot("OXY_AdSense_960x200");
             <li>
                 <h3>Training</h3>
                 <div class="FeaturedArticle">
-                    <a class="Thumb" href="http://oxygenmag.com/Training/Articles/Your-Best-Abs-Stretch-Ever.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/161/BestAbStretch.jpg,138,98,0" alt="Training"></a><a class="Over" href="http://oxygenmag.com/Training/Articles/Your-Best-Abs-Stretch-Ever.aspx">Stretch!</a>
+                    <a class="Thumb" href="http://oxygenmag.com/Training/Slideshows/Kettlebell-Workout-Your-Full-Body-Burn.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/164/Kettlebells/Kettlebells_138x98.jpg,138,98,0" alt="Training"></a><a class="Over" href="http://oxygenmag.com/Training/Slideshows/Kettlebell-Workout-Your-Full-Body-Burn.aspx">Workout</a>
                 </div>
-                <a class="Subtitle" href="http://oxygenmag.com/Training/Articles/Your-Best-Abs-Stretch-Ever.aspx">Your Best Abs Stretch... Ever</a>
+                <a class="Subtitle" href="http://oxygenmag.com/Training/Slideshows/Kettlebell-Workout-Your-Full-Body-Burn.aspx">Kettlebell Workout: Your Full-Body Burn!</a>
             </li>
         
             <li>
                 <h3>Nutrition</h3>
                 <div class="FeaturedArticle">
-                    <a class="Thumb" href="http://oxygenmag.com/Nutrition/Articles/How-Safe-is-Your-Food .aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/161/HowSafeIsFoof.jpg,138,98,0" alt="Nutrition"></a><a class="Over" href="http://oxygenmag.com/Nutrition/Articles/How-Safe-is-Your-Food .aspx">A Closer Look</a>
+                    <a class="Thumb" href="http://oxygenmag.com/Nutrition/Articles/Rosemary-Almond-Biscotti.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/165/RosemaryAlmond_138x98.jpg,138,98,0" alt="Nutrition"></a><a class="Over" href="http://oxygenmag.com/Nutrition/Articles/Rosemary-Almond-Biscotti.aspx">Clean Recipe</a>
                 </div>
-                <a class="Subtitle" href="http://oxygenmag.com/Nutrition/Articles/How-Safe-is-Your-Food .aspx">How Safe is Your Food?</a>
+                <a class="Subtitle" href="http://oxygenmag.com/Nutrition/Articles/Rosemary-Almond-Biscotti.aspx">Rosemary Almond Biscotti</a>
             </li>
         
             <li>
                 <h3>Fat Loss</h3>
                 <div class="FeaturedArticle">
-                    <a class="Thumb" href="http://oxygenmag.com/Fat-Loss/Articles/I-knew-I-had-it-in-me.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/161/IKnewIt.jpg,138,98,0" alt="Fat Loss"></a><a class="Over" href="http://oxygenmag.com/Fat-Loss/Articles/I-knew-I-had-it-in-me.aspx">Success Story</a>
+                    <a class="Thumb" href="http://oxygenmag.com/Fat-Loss/Slideshows/10-Most-Inspiring-Success-Stories.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/163/SuccessSlideshow/Success-138x98.jpg,138,98,0" alt="Fat Loss"></a><a class="Over" href="http://oxygenmag.com/Fat-Loss/Slideshows/10-Most-Inspiring-Success-Stories.aspx">Success Stories</a>
                 </div>
-                <a class="Subtitle" href="http://oxygenmag.com/Fat-Loss/Articles/I-knew-I-had-it-in-me.aspx">"I Knew I Had It In Me!"</a>
+                <a class="Subtitle" href="http://oxygenmag.com/Fat-Loss/Slideshows/10-Most-Inspiring-Success-Stories.aspx">10 Most Inspiring Success Stories</a>
             </li>
         
             <li>
                 <h3>Health</h3>
                 <div class="FeaturedArticle">
-                    <a class="Thumb" href="http://oxygenmag.com/Health/Articles/New-Year-New-You .aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/161/NewYearNewYou.jpg,138,98,0" alt="Health"></a><a class="Over" href="http://oxygenmag.com/Health/Articles/New-Year-New-You .aspx">Fit Habits</a>
+                    <a class="Thumb" href="http://oxygenmag.com/Health/Articles/Put-An-End-to-Stressed-Out-Snacking.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/163/Brownies-138x98.jpg,138,98,0" alt="Health"></a><a class="Over" href="http://oxygenmag.com/Health/Articles/Put-An-End-to-Stressed-Out-Snacking.aspx">Health Tips</a>
                 </div>
-                <a class="Subtitle" href="http://oxygenmag.com/Health/Articles/New-Year-New-You .aspx">New Year, New You </a>
+                <a class="Subtitle" href="http://oxygenmag.com/Health/Articles/Put-An-End-to-Stressed-Out-Snacking.aspx">Put An End to Stressed-Out Snacking</a>
             </li>
         
             <li>
                 <h3>Current Issue</h3>
                 <div class="FeaturedArticle">
-                    <a class="Thumb" href="http://oxygenmag.com/Shop/Current-Issue.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/162/162_Current-SpecialIssueBOT.jpg,138,98,0" alt="Current Issue"></a><a class="Over" href="http://oxygenmag.com/Shop/Current-Issue.aspx">Jan 2013</a>
+                    <a class="Thumb" href="http://oxygenmag.com/Shop/Current-Issue.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/166/166_Current-SpecialIssueBOT.jpg,138,98,0" alt="Current Issue"></a><a class="Over" href="http://oxygenmag.com/Shop/Current-Issue.aspx">May 2013</a>
                 </div>
                 <a class="Subtitle" href="http://oxygenmag.com/Shop/Current-Issue.aspx">Preview latest issue!</a>
             </li>
@@ -883,7 +983,7 @@ GA_googleFillSlot("OXY_AdSense_960x200");
             <li>
                 <h3>Special Issue</h3>
                 <div class="FeaturedArticle">
-                    <a class="Thumb" href="http://oxygenmag.com/Shop/Special-Issues.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/SpecialIssues/OTC2012/otc2012-SpecialIssueBOT.jpg,138,98,0" alt="Special Issue"></a><a class="Over" href="http://oxygenmag.com/Shop/Special-Issues.aspx">Off the Couch! 2012</a>
+                    <a class="Thumb" href="http://oxygenmag.com/Shop/Special-Issues.aspx"><img src="/Images/ThumbS3.ashx?img=http://agilityfiles.oxygenmag.com/Images/Monthly/Abs2013/Abs2013_Current-SpecialIssueBOT.jpg,138,98,0" alt="Special Issue"></a><a class="Over" href="http://oxygenmag.com/Shop/Special-Issues.aspx">Abs, 2013</a>
                 </div>
                 <a class="Subtitle" href="http://oxygenmag.com/Shop/Special-Issues.aspx">Preview our new special issue!</a>
             </li>
@@ -1071,7 +1171,7 @@ for delivery of your first issue.</p>
 <div id="ctl00_footer" class="global-footer">
     <div>
         <p><img alt="" src="http://agilityfiles.oxygenmag.com/Images/Top-Bar/RKP-Oxygen-Logo.png" usemap="#rade_img_map_1307047292640" style="border-style: solid; border-width: 0px;"></p>
-<p>©2012 Robert Kennedy Publishing.<br>
+<p>©2013 Robert Kennedy Publishing.<br>
 All Rights Reserved.<br>
 <a href="/Terms-of-Use.aspx"> Terms of Use</a> and <a href="/Privacy-Policy.aspx">Privacy Policy</a>.</p>
 <map id="rade_img_map_1307047292640" name="rade_img_map_1307047292640">
@@ -1086,27 +1186,27 @@ All Rights Reserved.<br>
             
         
             <li class="Main">
-                <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subscribe/order?org=RKP&amp;publ=OX" target="_blank">Subscribe</a>
+                <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" target="_blank">Subscribe</a>
             </li>
             
                     <li class="Sub">
-                        <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subscribe/order?org=RKP&amp;publ=OX" target="_blank">Print Subscription</a>
+                        <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" target="_blank">Print Subscription</a>
                     </li>
                 
                     <li class="Sub">
-                        <a href="https://www.zinio.com/checkout/publisher/?productId=500614831" target="_blank">Digital Subscription</a>
+                        <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=OXY&amp;cds_page_id=126099" target="_blank">Digital Subscription</a>
                     </li>
                 
                     <li class="Sub">
-                        <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/Giftsub2/order?org=RKP&amp;publ=OX" target="_blank">Give a Gift</a>
+                        <a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=OXY&amp;cds_page_id=127336" target="_blank">Give a Gift</a>
                     </li>
                 
                     <li class="Sub">
-                        <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/Renew/order?org=RKP&amp;publ=OX" target="_blank">Renew Subscription</a>
+                        <a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=OXY" target="_blank">Renew Subscription</a>
                     </li>
                 
                     <li class="Sub">
-                        <a href="https://ssl.drgnetwork.com/ecom/rkp/cgi/subcustserv/start?org=RKP&amp;publ=OX" target="_blank">Customer Service</a>
+                        <a href="/Customer-Service-Contact.aspx" target="">Customer Service</a>
                     </li>
                 
                     <li class="Sub">
@@ -1279,6 +1379,9 @@ All Rights Reserved.<br>
             
             
         
+            
+            
+        
     </ul>
     <ul style="height: 396px; visibility: visible;"><li class="Main">
                 <a href="/Nutrition.aspx" target="">Nutrition</a>
@@ -1385,6 +1488,8 @@ All Rights Reserved.<br>
                 <a href="/Privacy-Policy.aspx" target="">Privacy Policy</a>
             </li><li class="Main">
                 <a href="/Terms-of-Use.aspx" target="">Terms of Use</a>
+            </li><li class="Main">
+                <a href="/Customer-Service-Contact.aspx" target="">Customer Service Contact</a>
             </li></ul>
     <div class="Clear"></div>
 </div>
