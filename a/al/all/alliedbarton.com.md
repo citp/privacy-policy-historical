@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedbarton.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028230621id_/http%3A//www.alliedbarton.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedbarton.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502060831id_/http%3A//www.alliedbarton.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AlliedBarton Security Services > Privacy Policy
 
