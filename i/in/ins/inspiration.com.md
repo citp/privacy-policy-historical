@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiration.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005850id_/http%3A//www.inspiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiration.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502121835id_/http%3A//www.inspiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Inspiration Software, Inc. Privacy Policy | inspiration.com
 
@@ -58,8 +58,8 @@ If you feel that Inspiration has failed to comply with its obligations under thi
 
 Inspiration Software, Inc.   
 Attn: Privacy Officer   
-9400 SW Beaverton-Hillsdale Hwy, Suite 300   
-Beaverton, Oregon 97005-3300   
+6443 SW Beaverton-Hillsdale Hwy, Suite 370   
+Portland, Oregon 97221   
 USA
 
 Please be specific in your complaint and provide as much detail as possible so that we can promptly address your concerns. We will investigate and respond to all complaints promptly.
