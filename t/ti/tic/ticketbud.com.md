@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053652id_/http%3A//ticketbud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502092959id_/http%3A//ticketbud.com/privacy) for the most accurate reproduction.*
 
-# Sell Tickets Online with Ticketbud | Unlimited & No Per Ticket Fees
+# Sell Tickets Online with Ticketbud | Unlimited & No Per Ticket Fees | Event Management and Registration
 
 Ticketbud is owned and operated by Ideabud, Inc. (hereinafter, "Ideabud" or "we," "our," or "us"). This Privacy Policy describes Ideabud’s privacy commitment to you as a user of Ideabud. We recognize the potential sensitivity of the information that you may place on Ideabud. This Privacy Policy describes how Ideabud collects personal information about you when you visit our website and how Ideabud uses that information. 
 
