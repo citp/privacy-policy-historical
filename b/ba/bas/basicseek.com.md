@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basicseek.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116050723id_/http%3A//www.basicseek.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicseek.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502035202id_/http%3A//www.basicseek.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # BasicSeek - Privacy Policy
 
