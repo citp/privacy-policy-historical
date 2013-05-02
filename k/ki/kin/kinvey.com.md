@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinvey.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713043926id_/http%3A//www.kinvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinvey.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502123257id_/http%3A//www.kinvey.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kinvey
 
