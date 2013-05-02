@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allfreejewelrymaking.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231015739id_/http%3A//www.allfreejewelrymaking.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allfreejewelrymaking.com privacy policy that was archived on 2013-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503003551id_/http%3A//www.allfreejewelrymaking.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -49,24 +49,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=13"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=13"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=13" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=3" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=13"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=13"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=3"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=13"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=3"></script>
 	
 	
 	
@@ -90,7 +90,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 10003');
+					//alert('getJavascript_topSocialLinks ready line: 10693');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -150,7 +150,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 15197');
+					//alert('getJavascript_loginDhtmlContent ready - line: 15929');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -1104,7 +1104,9 @@ function animateDhtmlSignup(){
 	//alert('animateDhtmlSignup');
 	
 	// move user to top of the page
-	window.location = '#';
+	//window.location = '#';
+	
+	//console.log('animateDhtmlSignup');
 	
 	var doc_width = $(document).width();
 		var doc_height = $(document).height();
@@ -1120,35 +1122,60 @@ function animateDhtmlSignup(){
 	$("#newsletterSignUpDivAnime").css("left", popup_left + 'px');
 	$("#newsletterSignUpDivAnime").show();
 	
+	
+	
 	$("#newsletterSignUpDivAnime").animate(
-			{"top": "10px"}, 
-			"slow",
-			'',
-			function () {
+		{"top": "10px"}, 
+		"slow",
+		'',
+		function () {
 
-				// this fires after the popup is in place
-				// fade out the div that will be placed over the page
-				// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
-				
-				$('#viewportGreyout').fadeTo(
-					"fast", 
-					0.0,
-					function () {
-						
-						// set some css for the div then fade it in
-						$('#viewportGreyout').css(
-							{
-								'top' : '0',
-								'left' : '0',
-								'width' : doc_width + 'px',
-								'height' : doc_height + 'px',
-								'background-color' : '#000'
-							}
-						).fadeTo("slow", 0.8);
+			// this fires after the popup is in place
+			// fade out the div that will be placed over the page
+			// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
+			
+			$('#viewportGreyout').fadeTo(
+				"fast", 
+				0.0,
+				function () {
+					
+					// set some css for the div then fade it in
+					$('#viewportGreyout').css(
+						{
+							'top' : '0',
+							'left' : '0',
+							'width' : doc_width + 'px',
+							'height' : doc_height + 'px',
+							'background-color' : '#000'
+						}
+					).fadeTo("slow", 0.8);
+				}
+			);
+			
+			
+			
+			// 2013-04-30
+			// added to remedy a chrome dhtml display issue
+			// the page might be scrolled to the middle, so the usr cannot see the top, where the dhtml is located
+			var body_top = parseInt($('body').css('top'));
+			if(isNaN(body_top)){
+				body_top = 10;
+			}
+			//console.log('body_top ' + body_top );
+			//console.log('typeof body_top ' + typeof body_top );
+			
+			
+			if( body_top > 0 ){
+				$('body').css(
+					{
+						'top': '0px'
 					}
 				);
+				
+				//console.log('2 body top ' + $('body').css('top') );
 			}
-		);
+		}
+	);
 }
 
 //------------------------------------------------------------------------------------------------------------
@@ -1441,27 +1468,33 @@ function triggerWiderFunnel(){
 			
 	
 	
-				<!-- START GOOGLE AD MANAGER CODE V2 -->
-			<!-- http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=112649 -->
-			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+				<!-- START Google Publisher Tag - Asynchronous -->
 			<script type="text/javascript">
-				GS_googleAddAdSenseService("ca-pub-3960203165302510");
-				GS_googleEnableAllServices();
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+					var gads = document.createElement('script');
+					gads.async = true;
+					gads.type = 'text/javascript';
+					var useSSL = 'https:' == document.location.protocol;
+					gads.src = (useSSL ? 'https:' : 'http:') + 
+					'//www.googletagservices.com/tag/js/gpt.js';
+					var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(gads, node);
+				})();
 			</script>
+			
 			<script type="text/javascript">
-										GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeJewelryMaking-com_header-int-A_728-90");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeJewelryMaking-com_left-rail-A_120-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeJewelryMaking-com_right-rail-A_160-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeJewelryMaking-com_right-rail-B_300-250");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeJewelryMaking-com_right-rail-C_300-250");
-										
-				// set a PAGE LEVEL attribute for ALL ads
-				GA_googleAddAdSensePageAttr("google_page_url", "http://www.allfreejewelrymaking.com/index.php/hct/privacy_policy");
+				googletag.cmd.push(function() {
+												googletag.defineSlot('/1049349/AllFreeJewelryMaking-com_header-int-A_728-90', [[728,90]], 'div-gpt-ad-1363380777881-0').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeJewelryMaking-com_left-rail-A_120-600', [[120,600]], 'div-gpt-ad-1363380777881-1').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeJewelryMaking-com_right-rail-B_300-250', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363380777881-4').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeJewelryMaking-com_right-rail-C_300-600', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363380777881-5').addService(googletag.pubads());
+												googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+				});
 			</script>
-			<script type="text/javascript">
-				GA_googleFetchAds();
-			</script>
-			<!-- END GOOGLE AD MANAGER CODE V2 -->
+			<!-- END Google Publisher Tag - Asynchronous -->
 				
 	
 	
@@ -1635,18 +1668,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_64.css?v=13" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_64.css?v=3" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=13" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=3" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=13" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=3" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=13" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=3" type="text/css" media="print">
 	
 	
 	
@@ -1667,7 +1700,7 @@ function triggerWiderFunnel(){
 
 			window.fbAsyncInit = function() {
 			
-				//console.log('call to window.fbAsyncInit line 15027');
+				//console.log('call to window.fbAsyncInit line 15759');
 			
 				FB.init({
 					appId      : '386207748078944', // App ID Favecrafts
@@ -1820,10 +1853,14 @@ function triggerWiderFunnel(){
 		</script>
 		<!-- END Facebook Javascript SDK js -->
 			
+				
+		
 </head>
 <body id="site44" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
+
+
 
 
 
@@ -1906,15 +1943,15 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="/site_templates/0003/images/site_logo_internal_sID44.gif?v=13" alt="AllFreeJewelryMaking.com"></a>
+								<a id="headerLogo" href="/"><img src="/site_templates/0003/images/site_logo_internal_sID44.gif?v=3" alt="AllFreeJewelryMaking.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 10px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.allfreejewelrymaking.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
-											<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeJewelryMaking-com_header-int-A_728-90 -->
+											
+					<!-- AllFreeJewelryMaking-com_header-int-A_728-90 -->
+					<div id="div-gpt-ad-1363380777881-0" style="width: 728px; height:90px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeJewelryMaking-com_header-int-A_728-90"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380777881-0'); });						</script>
 					</div>
 										</td>
 				</tr>
@@ -1937,7 +1974,7 @@ function triggerWiderFunnel(){
 									<a href="/index.php/hct/Latest-Free-eBooks">Latest Free eBooks</a>
 								</td>
 																<td class="">
-									<a href="/?task=search&amp;search_term=christmas">Projects for Christmas</a>
+									<a href="/?task=search&amp;search_term=spring">Projects for Spring</a>
 								</td>
 																<td class="">
 									<a href="/index.php/hct/Beading-Reviews-and-Giveaways">Reviews and Giveaways</a>
@@ -1982,7 +2019,7 @@ function triggerWiderFunnel(){
 							<div class="mainMenuDiv">
 					<h3 style="text-align: center;"></h3>
 					<ul>
-						<li><a href="/tag/Bracelet-Pattern">Bracelet Projects</a></li><li><a href="/tag/Earrings-Pattern">Earring Projects</a></li><li><a href="/tag/Necklace-Pattern">Necklace Projects</a></li><li><a href="/tag/Ring-Pattern">Ring Projects</a></li>					</ul>
+						<li><a href="/tag/Bracelet-Pattern">Bracelet Projects</a></li><li><a href="/tag/Earring-Pattern">Earring Projects</a></li><li><a href="/tag/Necklace-Pattern">Necklace Projects</a></li><li><a href="/tag/Ring-Pattern">Ring Projects</a></li>					</ul>
 				</div>
 						
 		<!--<div id="catMenuCol1SiteID44" class="mainMenuDiv">-->
@@ -2046,11 +2083,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 30px 0;">
-													<div style="width: 125px; margin: 0 auto;">
-						<!-- ca-pub-3960203165302510/AllFreeJewelryMaking-com_left-rail-A_120-600 -->
+													
+					<!-- AllFreeJewelryMaking-com_left-rail-A_120-600 -->
+					<div id="div-gpt-ad-1363380777881-1" style="width: 120px; height:600px; margin: 0 auto;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeJewelryMaking-com_left-rail-A_120-600"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380777881-1'); });						</script>
 					</div>
 												</div>
 												
@@ -2059,9 +2096,7 @@ function triggerWiderFunnel(){
 												<div style="margin: 0 0 15px 0;">
 								<p>
 	<strong>Privacy Policy / Your California Privacy Rights </strong><br>
-	Revised and posted as of August 8, 2012.</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.AllFreeJewelryMaking.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013.</p>
 <p>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
@@ -2171,9 +2206,13 @@ function triggerWiderFunnel(){
 	<strong>Data Enhancement/Appending/Validation</strong><br>
 	We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
 <p>
-	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
+	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.<br>
+	<br>
+	<strong>Third Party Cookies</strong><br>
+	<br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices</a>.</p>
 <p>
-	Governmental Agencies or Other Companies<br>
+	<strong>Governmental Agencies or Other Companies</strong><br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
 	We may store and share your information with third parties for suppression or opt-out purposes.</p>
@@ -2221,7 +2260,7 @@ function triggerWiderFunnel(){
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="e1093b93f78ace1c7f20be321355858e">
+					<input type="hidden" name="PHPSESSID" value="hv92gvtn153efnn1qk6vkfe941">
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID44.png" alt="">
 					
@@ -2249,32 +2288,23 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeJewelryMaking-com_right-rail-A_160-600 -->
-						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeJewelryMaking-com_right-rail-A_160-600"); // v2
-						</script>
-					</div>
-												</div>
+															</div>
 														<div style="margin: 0 0 10px 0;">
-											
-			<div id="topTenSiteID44">
+											<div id="topTenSiteID44" class="topTenDiv">
 				<h3>What's Hot</h3>
-				
 				<div class="contentBoxPadding">
-					<h4></h4>
-					
+										<h4></h4>
 								<ol>
-									 <li><a href="/Stitching/Black-Swan-Necklace/ct/1">Black Swan Necklace</a></li>
-					 					 <li><a href="/Knots-and-Macrame/14-Fabulous-Macrame-Bracelet-Patterns/ct/1">14 Fabulous Macrame Bracelet Patterns</a></li>
-					 					 <li><a href="/Clay/Clay-Rose-Multistrand-Bracelet/ct/1">Clay Rose Multistrand Bracelet</a></li>
-					 					 <li><a href="/Button/Diamond-Jubilee-Necklace/ct/1">Diamond Jubilee Necklace</a></li>
+									 <li><a href="/Jewelry-Basics/Easy-DIY-Bracelet-Designs-14-Ways-to-Make-Bracelets-eBook/ct/1">"Easy DIY Bracelet Designs: 14 Ways to Make Bracelets" eBook</a></li>
+					 					 <li><a href="/Wedding-Jewelry/Elegant-Amethyst-Bracelet/ct/1">Elegant Amethyst Bracelet</a></li>
+					 					 <li><a href="/Wedding-Jewelry/DIY-Statement-Bridal-Necklace/ct/1">DIY Statement Bridal Necklace</a></li>
+					 					 <li><a href="/Stitching/Black-Swan-Necklace/ct/1">Black Swan Necklace</a></li>
+					 					 <li><a href="/Wire-Earrings/Five-Minute-Fish-Hook-Earrings/ct/1">Five-Minute Fish Hook Earrings</a></li>
+					 					 <li><a href="/Wire-Necklace/Rapunzels-Braid-Necklace-from-SilverSilk/ct/1">Rapunzel's Braid Necklace</a></li>
+					 					 <li><a href="/Wire-Necklace/Pearl-Cluster-Chain-Necklace/ct/1">Pearl Cluster Chain Necklace</a></li>
+					 					 <li><a href="/Stitching/20-Best-Free-Bead-Weaving-Patterns/ct/1">20 Best Free Bead Weaving Patterns</a></li>
 					 					 <li><a href="/Right-Angle-Weave/Evening-Sparkle-Bracelet/ct/1">Evening Sparkle Bracelet</a></li>
-					 					 <li><a href="/Peyote-Stitch/12-Free-Peyote-Seed-Bead-Patterns/ct/1">12 Free Peyote Seed Bead Patterns</a></li>
-					 					 <li><a href="/Chainmaille-Making-Chain/34-Free-Chain-Maille-Jewelry-Patterns/ct/1">34 Free Chain Maille Jewelry Patterns</a></li>
-					 					 <li><a href="/Strung-Rings/Swarovski-Crystal-Cocktail-Ring/ct/1">Swarovski Crystal Cocktail Ring</a></li>
-					 					 <li><a href="/Miscellaneous-Jewelry/Chaos-in-Pearls-Necklace/ct/1">Chaos in Pearls Necklace</a></li>
-					 					 <li><a href="/Strung-Necklace/Waterfall-Multi-Bead-Necklace/ct/1">Waterfall Multi Bead Necklace</a></li>
+					 					 <li><a href="/Wire-Necklace/Ice-Drops-Knock-Off-Necklace/ct/1">Ice Drops Knock Off Necklace</a></li>
 					 			</ol>
 							</div>
 				
@@ -2283,11 +2313,11 @@ function triggerWiderFunnel(){
 			
 										</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeJewelryMaking-com_right-rail-B_300-250 -->
+													
+					<!-- AllFreeJewelryMaking-com_right-rail-B_300-250 -->
+					<div id="div-gpt-ad-1363380777881-4" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeJewelryMaking-com_right-rail-B_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380777881-4'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
@@ -2320,11 +2350,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeJewelryMaking-com_right-rail-C_300-250 -->
+													
+					<!-- AllFreeJewelryMaking-com_right-rail-C_300-600 -->
+					<div id="div-gpt-ad-1363380777881-5" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeJewelryMaking-com_right-rail-C_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380777881-5'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
@@ -2333,8 +2363,9 @@ function triggerWiderFunnel(){
 							<div class="list">
 				<ul>
 											<li><a href="http://allfreejewelrymaking.com/Jewelry-Basics/12-Free-Jewelry-Projects-to-Make-This-Evening-eBook">12 Free Jewelry Projects to Make This Evening</a></li>
-												<li><a href="http://allfreejewelrymaking.com/Jewelry-for-Holiday/6-Fun-and-Free-Christmas-Jewelry-Projects-eBook">6 Fun and Free Christmas Jewelry Projects</a></li>
+												<li><a href="http://www.allfreejewelrymaking.com/Jewelry-Basics/Easy-DIY-Bracelet-Designs-14-Ways-to-Make-Bracelets-eBook">Easy DIY Bracelet Designs: 14 Ways to Make Bracelets</a></li>
 												<li><a href="http://www.allfreejewelrymaking.com/Crocheted-Jewelry/How-to-Crochet-Jewelry-10-Free-Crochet-Patterns-eBook">How to Crochet Jewelry: 10 Free Crochet Patterns</a></li>
+												<li><a href="http://www.allfreejewelrymaking.com/Wire-Wire-work/How-to-Wire-Wrap-Jewelry-16-DIY-Jewelry-Wire-Wrapping-Tutorials-eBook">How to Wire Wrap Jewelry: 16 DIY Jewelry Wire Wrap Tutorials</a></li>
 												<li><a href="http://allfreejewelrymaking.com/Stitching/Making-Beaded-Jewelry-11-Free-Seed-Bead-Patterns-and-Projects-eBook">Making Beaded Jewelry: 11 Free Seed Bead Patterns and Projects</a></li>
 												<li><a href="http://allfreejewelrymaking.com/Jewelry-for-Holiday/Mothers-Day-Jewelry-Gifts-8-Free-Jewelry-Making-Tutorials-eBook">Mother's Day Jewelry Gifts: 8 Free Jewelry Making Tutorials</a></li>
 										</ul>
@@ -2409,7 +2440,7 @@ function triggerWiderFunnel(){
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
-					<p style="margin: 0 10px;">© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+					<p style="margin: 0 10px;">© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 				</td>
 							</tr>
 		</tbody></table>
@@ -2435,7 +2466,7 @@ function triggerWiderFunnel(){
 	
 	
 <div id="printFooter">
-	<p>© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+	<p>© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 	
 	<p>www.allfreejewelrymaking.com</p>
 </div><!-- end printFooter -->
@@ -2682,9 +2713,7 @@ function triggerWiderFunnel(){
 					
 					<p>
 	<strong>Privacy Policy / Your California Privacy Rights </strong><br>
-	Revised and posted as of August 8, 2012.</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.AllFreeJewelryMaking.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013.</p>
 <p>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
@@ -2794,9 +2823,13 @@ function triggerWiderFunnel(){
 	<strong>Data Enhancement/Appending/Validation</strong><br>
 	We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
 <p>
-	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
+	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.<br>
+	<br>
+	<strong>Third Party Cookies</strong><br>
+	<br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices</a>.</p>
 <p>
-	Governmental Agencies or Other Companies<br>
+	<strong>Governmental Agencies or Other Companies</strong><br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
 	We may store and share your information with third parties for suppression or opt-out purposes.</p>
@@ -2854,7 +2887,14 @@ function triggerWiderFunnel(){
 		<!-- START Google Remarketing code -->
 				
 		<!-- END Google Remarketing code -->
-
+		
+		
+		
+		<!-- START datonics.com -->
+				<!-- END datonics.com -->
+		
+		<!-- START swoop -->
+				<!-- END swoop -->
 
 
 
@@ -2862,7 +2902,7 @@ function triggerWiderFunnel(){
 				
 		
 		
-		...		
+		..		
 		
 
 
