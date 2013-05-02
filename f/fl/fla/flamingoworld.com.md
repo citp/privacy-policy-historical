@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101223054id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502170041id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
 
 # The FlamingoWorld.com Privacy Policy
 
@@ -60,8 +60,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **Who Has Access To Your Information?**
 
-No one has access to your information given to FlamingoWorld except you and FlamingoWorld.com. No outside contractors or agents of FlamingoWorld will ever have access to your information. All your information is password protected and cannot be accessed by anyone but you or FlamingoWorld.com.<
-
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please send us an email at [contact@flamingoworld.com](mailto:contact@flamingoworld.com)
+No one has access to your information given to FlamingoWorld except you and FlamingoWorld.com. No outside contractors or agents of FlamingoWorld will ever have access to your information. All your information is password protected and cannot be accessed by anyone but you or FlamingoWorld.com.
