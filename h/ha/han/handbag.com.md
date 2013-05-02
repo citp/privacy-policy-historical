@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028085328id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502180508id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
 
 # Data protection
 
@@ -6,7 +6,7 @@ PRIVACY POLICY FOR USE ON WEBSITES
 
  
 
-Privacy Policy for Hearst Magazines UK which is the trading name of The National Magazine Company Ltd and Handbag.com Ltd.
+Privacy Policy for Hearst Magazines UK which is the trading name of The National Magazine Company Limited.
 
 Hearst Magazines UK is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
 
@@ -22,7 +22,7 @@ Details of Subsidiaries and affiliates (collectively known as affiliates) are:
 
 Handbag.com Ltd, registered in England 03819979. VAT registration GB 238 587 423.
 
-Hearst - Rodale Ltd, registered in England 00519122. VAT registration GB 626 914 329.
+Hearst – Rodale UK Ltd, registered in England 00519122. VAT registration GB 626 914 329.
 
 If you would like to contact us for any reason, please email us at [dp@hearst.co.uk](mailto:dp@hearst.co.uk) and we will do our best to answer your questions.
 
@@ -168,13 +168,13 @@ This Privacy Policy was last revised in July 2011
 
 Reference B8
 
-Privacy Policy for Hearst - Rodale Ltd
+**Privacy Policy for Hearst - RodaleUK Limited**
 
-Hearst – Rodale Ltd is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
+Hearst – Rodale UK Ltd is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
 
 Who are we and how to contact us?
 
-Hearst - Rodale Ltd has its head office at: 
+Hearst – Rodale UK Ltd has its head office at:
 
 72, Broadwick Street, London, W1F 9EP.
 
@@ -216,7 +216,7 @@ If you would like to contact us for any reason, please email us at[ dp@hearst.co
 
 **1 What information do we collect from you?**
 
-Hearst - Rodale Ltd collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications. "Personal Data" means data that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, e-mail address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data. ****
+Hearst - Rodale UK Ltd collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications. "Personal Data" means data that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, e-mail address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data. ****
 
 "Anonymous Data" means data that is not associated with or linked to your Personal Data.
 
@@ -230,7 +230,7 @@ In order to improve our services to you, we may ask you to voluntarily complete 
 
 **1.2 Cookies**
 
-“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Hearst - Rodale Ltd uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or delete cookies, but please be aware that for some parts of our site to work, you will need to accept cookies. For more information on cookies please visit www.allaboutcookies.org.
+“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Hearst - Rodale UK Ltd uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or delete cookies, but please be aware that for some parts of our site to work, you will need to accept cookies. For more information on cookies please visit www.allaboutcookies.org.
 
 Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by the Information Commissioner's Office. ****
 
@@ -242,9 +242,9 @@ This information is used once only and is not saved in our database, unless they
 
 **2 How will we use the information we collect?**
 
-Hearst – Rodale Ltd uses your Personal Data to provide you with a customised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so, processing your answers to quizzes and other competitions, and sending electronic newsletters and promotional e-mails to you. We also use Personal Data for customer service messages, and to notify you about updates to our services and to respond to your requests. 
+Hearst – Rodale UK Ltd uses your Personal Data to provide you with a customised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so, processing your answers to quizzes and other competitions, and sending electronic newsletters and promotional e-mails to you. We also use Personal Data for customer service messages, and to notify you about updates to our services and to respond to your requests. 
 
-We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users' aggregate behaviour so that we may enhance the content of our services and improve site navigation. Hearst – Rodale Ltd reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form. 
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users' aggregate behaviour so that we may enhance the content of our services and improve site navigation. Hearst – Rodale UK Ltd reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form. 
 
 If you elect to receive communications from us we may periodically send you free newsletters and e-mails that directly promote the use of our sites or the purchase of our products or services and may contain advertisements for third parties. 
 
@@ -258,11 +258,11 @@ You expressly consent to the sharing of your Personal Data with our contractors 
 
 If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided. 
 
-Regardless of any choices you make regarding your Personal Data, Hearst - Rodale Ltd may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Hearst - Rodale Ltd or users of our services. 
+Regardless of any choices you make regarding your Personal Data, Hearst - Rodale UK Ltd may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Hearst - Rodale UK Ltd or users of our services. 
 
 If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy and the terms under which you submitted your data.
 
-If you provide Hearst - Rodale Ltd with your contact details and agree to receive promotional messages, we may share your details with our affiliates or third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out at any time of having your Personal Data shared with affiliated or unaffiliated third parties for the purpose of sending you relevant information.
+If you provide Hearst - Rodale UK Ltd with your contact details and agree to receive promotional messages, we may share your details with our affiliates or third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out at any time of having your Personal Data shared with affiliated or unaffiliated third parties for the purpose of sending you relevant information.
 
 **4 Changing your mind about marketing messages and keeping your details-up-to-date**
 
@@ -276,31 +276,31 @@ Note that we may retain changed or deleted information in our archives, but we w
 
 **5 Other websites**
 
-Except as otherwise expressly provided in this Privacy Policy or on this website, only Hearst - Rodale Ltd and its affiliates collect Personal Data through the services provided solely by Hearst - Rodale Ltd; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services. 
+Except as otherwise expressly provided in this Privacy Policy or on this website, only Hearst - Rodale UK Ltd and its affiliates collect Personal Data through the services provided solely by Hearst - Rodale UK Ltd; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services. 
 
-When you click on advertisements or links on Hearst - Rodale Ltd sites, you will leave that site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to, these other companies, sites, or content, or to any collection of data after you click on an advertisement or link to a third party. 
+When you click on advertisements or links on Hearst - Rodale UK Ltd sites, you will leave that site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to, these other companies, sites, or content, or to any collection of data after you click on an advertisement or link to a third party. 
 
 **6 Social media, social commerce and other third parties.** ** __**
 
 We work with trusted third parties, including social network sites like Facebook, and with application developers who specialise in social media so we can connect to your social networks. Other social networks we use include Twitter, MySpace and You Tube. All of these companies operate Third Party Sites. We provide access to our Sites by third parties and business partners so we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network. __
 
-We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Hearst - Rodale is not responsible for how these third parties may use information collected from or about you. ****
+We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Hearst - Rodale UK is not responsible for how these third parties may use information collected from or about you. ****
 
 **7 Where is your information processed and how do we keep your Personal Data secure?**
 
 Your Personal Data may be processed both in and outside of your own country. When you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not give us your personal details.
 
-We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using Hearst - Rodale Ltd sites, or responding to our communications, you consent to us transferring any such data in this way. However any company, whether inside or outside the EEA, to whom we transfer data is contractually bound to protect your Personal Data.
+We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using Hearst - Rodale UK Ltd sites, or responding to our communications, you consent to us transferring any such data in this way. However any company, whether inside or outside the EEA, to whom we transfer data is contractually bound to protect your Personal Data.
 
-Hearst - Rodale Ltd and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure. 
+Hearst - Rodale UK Ltd and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure. 
 
-On our sites, when collecting your credit card information for online purchases, Hearst - Rodale Ltd enables the use of Secure Sockets Layer (SSL) technology and industry-standard secured-server transactions that encrypt your Personal Data. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTTPS-prefix in the URL.
+On our sites, when collecting your credit card information for online purchases, Hearst - Rodale UK Ltd enables the use of Secure Sockets Layer (SSL) technology and industry-standard secured-server transactions that encrypt your Personal Data. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTTPS-prefix in the URL.
 
-Hearst - Rodale Ltd has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a firewall, a barrier designed to prevent outsiders from accessing our servers. We may also require you to enter a password to access or update your account information. In addition,Hearst - Rodale Ltd protects your Personal Data from unauthorised physical access by storing your Personal Data in a controlled facility. 
+Hearst - Rodale UK Ltd has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a firewall, a barrier designed to prevent outsiders from accessing our servers. We may also require you to enter a password to access or update your account information. In addition,Hearst - Rodale UK Ltd protects your Personal Data from unauthorised physical access by storing your Personal Data in a controlled facility. 
 
-Except as provided elsewhere in this Privacy Policy, Hearst - Rodale Ltd limits access to Personal Data in electronic databases to those persons (including employees and contractors) in Hearst - Rodale Ltd’s organisation who have a business need for such access and those persons are under contract to keep your data secure. 
+Except as provided elsewhere in this Privacy Policy, Hearst - Rodale UK Ltd limits access to Personal Data in electronic databases to those persons (including employees and contractors) in Hearst - Rodale UK Ltd’s organisation who have a business need for such access and those persons are under contract to keep your data secure. 
 
-Even though Hearst - Rodale Ltd has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Hearst - Rodale Ltd cannot eliminate security risks associated with Personal Data. 
+Even though Hearst - Rodale UK Ltd has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Hearst - Rodale Ltd cannot eliminate security risks associated with Personal Data. 
 
 **8 Access to your Personal Data**
 
@@ -308,7 +308,7 @@ You are entitled to see the information held about you and you may ask us to mak
 
 The Data Protection Compliance Officer
 
-Hearst - Rodale Ltd
+Hearst - Rodale UK Ltd
 
 72 Broadwick Street,
 
@@ -318,11 +318,11 @@ We are entitled by law to charge a fee of £10 to meet our costs in providing yo
 
 **9 Questions Regarding this Privacy Policy**
 
-Hearst - Rodale Ltd welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at:[dp@hearst.co.uk](mailto:dp@hearst.co.uk).
+Hearst - Rodale UK Ltd welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at:[dp@hearst.co.uk](mailto:dp@hearst.co.uk).
 
 Dispute Resolution 
 
-If you believe that Hearst - Rodale Ltd has not adhered to this Privacy Policy, please contact us by e-mail at[ dp@hearst.co.uk](mailto:dp@hearst.co.uk). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. 
+If you believe that Hearst - Rodale UK Ltd has not adhered to this Privacy Policy, please contact us by e-mail at[ dp@hearst.co.uk](mailto:dp@hearst.co.uk). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. 
 
 **10 Changes to this Privacy Policy**
 
