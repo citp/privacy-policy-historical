@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231064028id_/http%3A//www.collegerecruiter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502231420id_/http%3A//www.collegerecruiter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 <meta name="keywords" content="">
@@ -11,7 +11,7 @@
 
 Privacy Policy | CollegeRecruiter.com</title>
 <link rel="StyleSheet" type="text/css" href="http://www.collegerecruiter.com/templates/_system/main/images/css/form.css">
-<link rel="StyleSheet" type="text/css" href="http://www.collegerecruiter.com/templates/CollegeRecruiter.com/main/images/design.css?v.12.11.20.13.53.54">
+<link rel="StyleSheet" type="text/css" href="http://www.collegerecruiter.com/templates/CollegeRecruiter.com/main/images/design.css?v.13.04.08.09.55.07">
 <link rel="alternate" type="application/rss+xml" title="RSS2.0" href="http://www.collegerecruiter.com/rss/">
 <link rel="stylesheet" href="http://www.collegerecruiter.com/system/lib/rating/style.css" type="text/css">
 <link rel="StyleSheet" type="text/css" href="http://www.collegerecruiter.com/system/ext/jquery/css/jquery-ui.css">
@@ -139,6 +139,18 @@ googletag.enableServices();
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga, s);
 	})();
+
+	function trackLink(link,cat,type,data,push)
+	{
+		if (type == 'Apply')
+			$.get('http://www.collegerecruiter.com/apply-now/?listing_id=' + data);
+
+		_gaq.push(['_trackEvent',cat,type,data]);
+		if(push && (link.search("app=https")!=-1)){siteExit(decodeURIComponent(link.slice(link.search("app=")+4)))};
+		if(push && (link.search("app=https")==-1)){ setTimeout('document.location = "' + link + '"', 100); }
+		
+	}
+  
   function recordOutboundLink(link,category,action,push) {
 	  try {
 	    var pageTracker=_gat._getTracker("UA-88771-1");
@@ -146,12 +158,25 @@ googletag.enableServices();
 	    if(push){ setTimeout('document.location = "' + link + '"', 100); }
 	  }catch(err){}
 	}
+	
 
 </script>
-
-
 	</head>
 <body id="privacy-policy">
+
+
+<div style="position: absolute;">
+<!-- Compete CrossPoint Tag for collegerecruiter.com -->
+<script type="text/javascript">
+__compete_code = 'f919f8026e68688092941d2ee7805d7a';
+/* Set control variables below this line. */
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/f919f8026e68688092941d2ee7805d7a/collegerecruiter-com/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-collegerecruiter-com-f919f8.c-col.com"/>
+</noscript>
+</div>
+
 
 <div id="fb-root"></div>
 	<script>(function(d, s, id) {
@@ -241,6 +266,7 @@ googletag.enableServices();
             <li><a href="/Job-Match-Alerts-with-Social-Push/"><span>Alerts With Social Push</span></a></li>
             <li><a href="/banners/"><span>Banner Ads</span></a></li> 
             <li><a href="/mobile-marketing/"><span>Text Messages</span></a></li> 
+            <li><a href="http://www.collegerecruiter.com/blog/2013/02/18/college-recruiting-bootcamp-at-linkedin-head-office-on-may-13-2013/"><span>College Recruiting Bootcamp</span></a></li>
             <li><a href="/testimonials/"><span>Testimonials</span></a></li>
         </ul> 
     </li>
@@ -322,12 +348,12 @@ googletag.enableServices();
 		<div>
 			<h3>Latest Job Postings</h3>
 			<ul id="latest-jobs">
-				<li><a href="http://feeds.feedblitz.com/~/36825828/0/jobs~Part-Time-Service-Agent-St-Louis-Park-MN-Enterprise.html" title="Part Time Service Agent St. Louis Park MN (Enterprise)">Part Time Service Agent St. Louis Park MN (Enterprise)</a></li><li><a href="http://feeds.feedblitz.com/~/36825829/0/jobs~Part-Time-Vehicle-Service-Attendant-Truck-Rental-Enterprise.html" title="Part Time Vehicle Service Attendant Truck Rental (Enterprise)">Part Time Vehicle Service Attendant Truck Rental (Enterprise)</a></li><li><a href="http://feeds.feedblitz.com/~/36825830/0/jobs~Part-Time-Service-Agent-car-washer-Amsterdam-NY-Enterprise.html" title="Part Time Service Agent (car washer) Amsterdam NY (Enterprise)">Part Time Service Agent (car washer) Amsterdam NY (Enterprise)</a></li>			</ul>
+				<li><a href="http://feeds.feedblitz.com/~/40722333/0/jobs~SMB-Lead-Generation-Representative.html" title="SMB Lead Generation Representative">SMB Lead Generation Representative</a></li><li><a href="http://feeds.feedblitz.com/~/40717864/0/jobs~Desktop-Support-Engineer.html" title="Desktop Support Engineer">Desktop Support Engineer</a></li><li><a href="http://feeds.feedblitz.com/~/40717362/0/jobs~Member-Services-Representative.html" title="Member Services Representative">Member Services Representative</a></li>			</ul>
 		</div>
 		<div>
 			<h3>From the Blog</h3>
 			<ul>
-			<li><a href="http://feeds.feedblitz.com/~/36835995/0/collegerecruiter~of-Employers-Plan-to-Add-FullTime-Employees-in/" title="26% of Employers Plan to Add Full-Time Employees in 2013">26% of Employers Plan to Add Full-Time Employees in 2013</a></li>			</ul>
+			<li><a href="http://feeds.feedblitz.com/~/40723419/0/collegerecruiter~Consider-Ways-Entry-Level-Jobs-Could-Lead-to-Dream-Jobs/" title="Consider 4 Ways Entry Level Jobs Could Lead to Dream Jobs">Consider 4 Ways Entry Level Jobs Could Lead to Dream Jobs</a></li><li><a href="http://feeds.feedblitz.com/~/40722790/0/collegerecruiter~Volunteering-Makes-Employees-Happy-and-Factors-into-Job-Decision-Making/" title="Volunteering Makes Employees Happy and Factors into Job Decision Making">Volunteering Makes Employees Happy and Factors into Job Decision Making</a></li><li><a href="http://feeds.feedblitz.com/~/40721415/0/collegerecruiter~Hiring-for-Recent-College-Graduate-Jobs-Share-These-Tips-with-Your-Recruiters/" title="Hiring for Recent College Graduate Jobs? Share These 6 Tips with Your Recruiters">Hiring for Recent College Graduate Jobs? Share These 6 Tips with Your Recruiters</a></li><li><a href="http://feeds.feedblitz.com/~/40720519/0/collegerecruiter~How-College-Students-Can-Relieve-Stress/" title="How College Students Can Relieve Stress">How College Students Can Relieve Stress</a></li><li><a href="http://feeds.feedblitz.com/~/40720029/0/collegerecruiter~Is-Selfemployment-the-Entry-Level-Job-for-You/" title="Is Self-employment the Entry Level Job for You?">Is Self-employment the Entry Level Job for You?</a></li><li><a href="http://feeds.feedblitz.com/~/40714641/0/collegerecruiter~Fewer-Job-Cuts-in-April-But-Sequestration-Consumer-Spending-Are-Concerns/" title="Fewer Job Cuts in April But Sequestration, Consumer Spending Are Concerns">Fewer Job Cuts in April But Sequestration, Consumer Spending Are Concerns</a></li>			</ul>
 			<h3>School Finder</h3>
 			<ul>
 				<li>
@@ -357,7 +383,7 @@ googletag.enableServices();
 			<li class="nav_Contact"><a href="/contact/">Contact Us</a></li>
 		</ul>
 		
-		<div id="copyright">© 2012 CollegeRecruiter.com, LLC.</div>
+		<div id="copyright">© 2013 CollegeRecruiter.com, LLC.</div>
 		
 		<div class="clr"></div>
 		</div>
