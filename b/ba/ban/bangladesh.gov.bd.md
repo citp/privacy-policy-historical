@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladesh.gov.bd privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231320id_/http%3A//www.bangladesh.gov.bd/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D75%26Itemid%3D148) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladesh.gov.bd privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502020312id_/http%3A//www.bangladesh.gov.bd/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D75%26Itemid%3D148) for the most accurate reproduction.*
 
 # National Web Portal Of Bangladesh - Privacy Policy
 
