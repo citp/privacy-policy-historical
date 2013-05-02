@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the threatpost.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063301id_/http%3A//threatpost.com/node/76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threatpost.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502161508id_/http%3A//threatpost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | threatpost
+# Privacy Policy | Threatpost
 
   **Threatpost Privacy Policy  
 **
@@ -44,7 +44,7 @@ Please be advised that we may disclose your personal information if legally requ
 
 **Opt-out**
 
-If you do not wish to continue receiving information from Threatpost you can opt-out of receiving these communications by clicking the unsubscribe link in the relevant e-mail or replying and typing 'unsubscribe' in the subject line of the e-mail at any time We will update your preferences in our registrant database. 
+If you do not wish to continue receiving information from Threatpost you can opt-out of receiving these communications by clicking the unsubscribe link in the relevant e-mail or replying and typing ‘unsubscribe’ in the subject line of the e-mail at any time We will update your preferences in our registrant database. 
 
 **Security**
 
