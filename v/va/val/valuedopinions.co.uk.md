@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuedopinions.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920014048id_/http%3A//www.valuedopinions.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502172303id_/http%3A//www.valuedopinions.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Surveys, Paid Surveys & Reward Surveys | Valued Opinions UK
 
@@ -183,12 +183,22 @@ If you are a Valued Opinions Member, these cookies are used to remember your web
 
 
   * ASP.NET_SessionId
+  * Country 
+  * CookieFP 
+  * CookieIP 
+  * CookieTest 
+  * macId 
+  * RouterFP
+  * completeDate 
+  * routerSessionId
+  * startDate 
 
 | 
 
 These cookies are used when you participate in our surveys. They enable you to quickly load the survey. Some are used to credit your account after participation in a survey.
 
-All these cookies are removed from your browser when it is closed.  
+  
+  
   
 **Panel recruitment**
 
@@ -524,9 +534,9 @@ If you have any queries relating to this Statement, please feel free to contact 
 
 The Panel Manager  
 Research Now Ltd.  
-Elizabeth House  
-39 York Road  
-London SE1 7NQ
+160 Queen Victoria Street  
+London  
+EC4V 4BF
 
 [To top](http://www.valuedopinions.co.uk/privacy-policy/#)
 
