@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the cyclechat.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193453id_/http%3A//www.cyclechat.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclechat.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502211431id_/http%3A//www.cyclechat.net/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cycle Chat Cycling Forums
-
-  
-To enjoy CycleChat without adverts - [Register now](http://www.cyclechat.net/register) \- it's free and easy!
-
-[](https://web.archive.org/web/20121230193453id_/http://www.cyclechat.net/pages/privacy-policy/misc/quick-navigation-menu?selected=node-64 "Open quick navigation")
-
-**Cycle Chat Cycling Forums**
-
-[Forums](http://www.cyclechat.net/) >
+# Privacy Policy | CycleChat Cycling Forums
 
 CycleChat is owned and operated by Clickfinity Limited and ("we") are committed to protecting and respecting your privacy whilst using any of our websites, products and services and any information provided by you, by which you can be identified, will only be used in accordance with this privacy policy.
 
@@ -78,9 +69,3 @@ When using this website, you may choose to limit public viewing of applicable pe
 We will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you security information, product updates, or other information pertaining to Clickfinity Limited, or your account.
 
 If you discover any of the information we hold for you is incorrect or incomplete, that you are unable to change yourself, please contact us as soon as possible so the necessary changes can be made.
-
-[](https://web.archive.org/web/20121230193453id_/http://www.cyclechat.net/pages/privacy-policy/misc/quick-navigation-menu?selected=node-64 "Open quick navigation")
-
-**Cycle Chat Cycling Forums**
-
-[Forums](http://www.cyclechat.net/) >
