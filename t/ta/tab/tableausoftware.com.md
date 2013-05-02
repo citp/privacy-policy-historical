@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105132102id_/http%3A//www.tableausoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502182019id_/http%3A//www.tableausoftware.com/privacy) for the most accurate reproduction.*
 
 # Tableau Software Privacy Policy | Tableau Software
 
 ## Welcome!
 
-The Privacy Policy posted on this Site was updated on or about August 13, 2009
+The Privacy Policy posted on this Site was updated on or about February 26, 2013.
 
 Privacy is very important to us. Please read this document carefully. This policy covers how Tableau treats Personally Identifiable Information (“PII”) that Tableau collects and receives, including information related to your past use of Tableau products and services. Personally identifiable information is information about you that can be traced directly back to and identifies an individual. PII includes your name, address, employer, email address, or phone number. 
 
@@ -33,7 +33,7 @@ Here is what we will cover in this Privacy Policy:
 
 ## The Information We Collect
 
-Tableau collects personal information when you register with Tableau, or when you use Tableau products or services. In registering with Tableau, you must provide us with your real name, e-mail address, phone number, and shipping address. Whenever you visit the Tableau website, Tableau also receives and records information on our server logs from your browser, including your IP address, Tableau cookie information, and the pages you request, and relates it to the PII you provide. Tableau uses this information for the following general purposes: to fulfill your requests for products and services, to improve our products and services, to contact you, conduct research, and provide anonymous reporting for internal and external clients. Once you have registered or have purchased Tableau products, we reserve the right to send you certain communications relating to the Tableau service, such as service announcements, administrative messages and the Tableau Newsletter, that are considered part of your Tableau account, without offering you the opportunity to opt-out of receiving them. 
+Tableau collects personal information when you register with Tableau, or when you use Tableau products or services. In registering with Tableau, you must provide us with your real name, e-mail address, phone number, and shipping address. In addition, for certain licensees, Tableau may require additional information, such as date of birth or other student verification information. Whenever you visit the Tableau website, Tableau also receives and records information on our server logs from your browser, including your IP address, Tableau cookie information, and the pages you request, and relates it to the PII you provide. Tableau uses this information for the following general purposes: to fulfill your requests for products and services, to improve our products and services, to contact you, conduct research, and provide anonymous reporting for internal and external clients. Once you have registered or have purchased Tableau products, we reserve the right to send you certain communications relating to the Tableau service, such as service announcements, administrative messages and the Tableau Newsletter, that are considered part of your Tableau account, without offering you the opportunity to opt-out of receiving them. 
 
 ## How We Use Your Personal Information
 
