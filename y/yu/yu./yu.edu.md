@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yu.edu privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612034223id_/http%3A//www.yu.edu/pdfs/Yeshiva-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yu.edu privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502214234id_/http%3A//yu.edu/uploadedfiles/privacypolicy.pdf) for the most accurate reproduction.*
 
 # LAST UPDATED:
 
-                                                                        LAST UPDATED: June 21, 2010
+                                                                              LAST UPDATED: 1/10/2012
                                    Yeshiva University Site Privacy Policy
 This Privacy Policy governs your use of the yu.edu network of web sites that post or link directly to this
 Privacy Policy (collectively, the “Site”). Yeshiva University and/or one or more of its constituent schools
@@ -10,7 +10,7 @@ Privacy Policy (collectively, the “Site”). Yeshiva University and/or one or 
 and maintains the Site. This Privacy Policy describes our practices in connection with Personal
 Information (as defined below) that we collect through the Site. By visiting the Site, you agree to the
 terms of this Privacy Policy as they may be amended from time to time. This Privacy Policy is
-incorporated into, and part of, the Site’s Terms and Conditions, which also governs your use of the Site.
+incorporated into, and part of, the Site’s Terms and Conditions which also governs your use of the Site.
 This Privacy Policy does not apply to information that you may provide to us, or that we may obtain,
 other than through our Site, such as by phone, through postal mail and through other live and print media.
 In addition, to the extent that you submit any Personal Information to any third party (for example, via a
@@ -25,7 +25,7 @@ we may share such information. Please take a few minutes to read our Privacy Pol
 understand how YESHIVA treats your information.
 Family Educational Rights and Privacy Act
 YESHIVA has a policy to comply with the Family Educational Rights and Privacy Act (aka “FERPA”).
-Our FERPA policy is available for your review here.
+Our FERPA policy is available for your review
 What Information is Collected on the Site?
 In order to make your use of our Site as worthwhile as possible, we may gather three basic types of
 information through the Site: Personal Information, Non-Personal Information and Internet Protocol
@@ -40,14 +40,13 @@ Information.
 We collect Personal Information from users of our Site, through users’ activities, transactions and
 completion of online forms such as when users register or subscribe for accounts or features on our Site,
 make online donations, order event tickets, complete surveys, join online communities, create profile
+ny-893341                                               1
+
+
 pages, upload photographs, contribute to open forums that we may make available on or through our Site,
-                                                        1
-
-
-                                                                        LAST UPDATED: June 21, 2010
 submit a comment or question to us using a “contact us” or similar feature on our Site, send us an e-mail,
 or in any other way submit Personal Information to us via our Site.
-                 Non-Personal Information
+         Non-Personal Information
 When you visit and interact with the Site, YESHIVA and its third-party service providers may collect
 Non-Personal Information (for example, a catalog of Site pages you visit). Non-Personal Information is
 generally collected through the Site from different sources: (i) cookies; (ii) clear GIFs and similar
@@ -83,10 +82,9 @@ you or any other user. Additionally, we may aggregate Personal Information in a 
 end-product does not personally identify you or any other user of the Site, for example, by using Personal
 Information to calculate the percentage of our users who have a particular telephone area code. Such
 aggregate information is considered Non-Personal Information for purposes of this Policy.
-                                                       2
+ny-893341                                              2
 
 
-                                                                          LAST UPDATED: June 21, 2010
          IP Address
 Our servers automatically collect data about your server’s Internet address when you visit us. This
 information, known as an Internet Protocol address, or IP Address, is a number that’s automatically
@@ -128,10 +126,9 @@ information, including your full name, home address, phone number, other informa
 other users to locate you, or financial information on these areas of our Site. Within many of these public
 forums, YESHIVA provides you privacy options that allow you to restrict the use and viewability of your
 Personal Information to others.
-                                                       3
+ny-893341                                              3
 
 
-                                                                       LAST UPDATED: June 21, 2010
                   Third-Party Offers
 We may provide visitors an opportunity to receive offers from other third-party entities that have services,
 products and offers that we think might be of interest to you. Unless you elect not to receive such offers
@@ -173,10 +170,9 @@ that you provide through the Payment Service Page will be collected by Payment S
 YESHIVA, and will be subject to Payment Service's privacy policy, rather than this Policy. YESHIVA
 has no control over, and shall not be responsible for, Payment Service's use of information collected
 through the Payment Service Page.
-                                                       4
+ny-893341                                              4
 
 
-                                                                         LAST UPDATED: June 21, 2010
 Choices
 You may have the right to make choices (“opt in” and “opt out”) of certain of our uses of your Personal
 Information. For example, at the time you are requested to provide Personal Information on this Site, you
@@ -219,10 +215,9 @@ the Internet as an open global communications vehicle, we cannot guarantee that 
 transmission through the Internet or while stored on our system or otherwise in our care, will be
 absolutely safe from intrusion by others, such as hackers. Please do not send us sensitive information
 through email.
-                                                       5
+ny-893341                                              5
 
 
-                                                                         LAST UPDATED: June 21, 2010
 You may be able to create an account on our Site with a username and password. You are responsible for
 maintaining the strict confidentiality of your account password, and you shall be responsible for any
 access to or use of the Site by you or any person or entity using your password, whether or not such
@@ -262,11 +257,10 @@ above.
 Note Regarding the Use of the Site by Children
 The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals
 do not provide Personal Information through the Site.
-                                                        6
+ny-893341                                               6
 
 
-                                                                   LAST UPDATED: June 21, 2010
 Contact Us
 If you have any questions or comments regarding our privacy practices, you may contact us by e-mail at
 webmaster@yu.edu or by mail at ITS, 500 West 185th Street, New York, New York, 10033.
-                                                  7
+ny-893341                                         7
