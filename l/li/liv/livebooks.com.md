@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livebooks.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010111749id_/http%3A//www.livebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebooks.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502040221id_/http%3A//livebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - liveBooks
 
@@ -8,7 +8,7 @@ This Privacy Policy was last updated: May 2, 2012
 
 This Privacy Policy is effective as of: November 6, 2006 
 
-Thank you for visiting the Internet web site located at the following universal resource locator: [www.livebooks.com](http://www.livebooks.com/) (the "Site"). This Privacy Policy details certain policies implemented throughout liveBooks, Inc. ("liveBooks") governing liveBooks' use of personally identifiable information provided to liveBooks via the Site, as well as through use of our software and services on or in connection with the Site. 
+Thank you for visiting the Internet web site located at the following universal resource locator: [www.livebooks.com](http://www.livebooks.com/ "liveBooks") (the "Site"). This Privacy Policy details certain policies implemented throughout liveBooks, Inc. ("liveBooks") governing liveBooks' use of personally identifiable information provided to liveBooks via the Site, as well as through use of our software and services on or in connection with the Site. 
 
 #### Privacy Policy Updates
 
@@ -46,4 +46,4 @@ The Site may provide links to other Web sites or resources over which liveBooks 
 
 We may employ procedural and technological measures that are reasonably designed to protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction such as password protection and other internal restrictions and other security measures. 
 
-If you have any questions about this Privacy Policy, you may contact liveBooks by emailing [privacy@livebooks.com](mailto:privacy@livebooks.com). 
+If you have any questions about this Privacy Policy, you may contact liveBooks by emailing [privacy@livebooks.com](mailto:privacy@livebooks.com "Email Us"). 
