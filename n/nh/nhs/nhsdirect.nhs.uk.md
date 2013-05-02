@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhsdirect.nhs.uk privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105190704id_/http%3A//www.nhsdirect.nhs.uk/About/TermsAndConditions/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhsdirect.nhs.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502185826id_/http%3A//www.nhsdirect.nhs.uk/en/About/TermsAndConditions/PrivacyPolicy) for the most accurate reproduction.*
 
 # NHS Direct - Privacy policy
 
@@ -74,7 +74,7 @@ We will not use information from cookies for any other purpose than those outlin
 
 ### If you would prefer not to allow cookies
 
-If you have a health related query or are concerned about symptoms you may have, but do not want our website to use cookies to store information on your device, you can call our telephone helpline service on 0845 4647 for health related advice. We are available to take your call 24-hours a day, every day. Calls to NHS Direct cost around 5p/min from a BT landline but charges from other network providers may vary.
+If you have a health related query or are concerned about symptoms you may have, but do not want our website to use cookies to store information on your device, you can call our telephone helpline service by dialling 111 for health related advice. We are available to take your call 24-hours a day, every day. Calls to NHS 111 cost around 5p/min from a BT landline but charges from other network providers may vary.
 
 ### Search engine
 
