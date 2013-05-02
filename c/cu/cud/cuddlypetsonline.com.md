@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cuddlypetsonline.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201000408id_/http%3A//cuddlypetsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuddlypetsonline.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502201749id_/http%3A//cuddlypetsonline.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
-# Privacy Policy | CuddlyPetsOnline.com
+# Privacy Policy
 
-**What information do we collect?** **  
-**  
+**What information do we collect?**
+
 Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
 **What do we use your information for?**
@@ -29,8 +29,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Childrens Online Privacy** ** ** **  
-**  
+**Childrens Online Privacy** ** **
+
 We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Online Privacy Policy Only**
