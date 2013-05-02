@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagcrowd.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130202226id_/http%3A//tagcrowd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagcrowd.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502202559id_/http%3A//tagcrowd.com/privacy.html) for the most accurate reproduction.*
 
 # TagCrowd: Privacy
 
@@ -6,7 +6,7 @@
 
 TagCrowd is committed to protecting your privacy. We don't have user accounts and don't require registration, so you are free to visit and use our site anonymously.
 
-Please read on for more details about our privacy policy. See also our [Terms of Service](https://web.archive.org/web/20121130202226id_/http%3A//tagcrowd.com/tos.html).
+Please read on for more details about our privacy policy. See also our [Terms of Service](https://web.archive.org/web/20130502202559id_/http%3A//tagcrowd.com/tos.html).
 
 ### What information do we collect? How do we use it?
 
