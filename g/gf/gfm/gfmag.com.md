@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021205038id_/http%3A//www.gfmag.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502105037id_/http%3A//www.gfmag.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Global Finance
 
