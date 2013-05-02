@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qigames.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203729id_/http%3A//www.qigames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qigames.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502232712id_/http%3A//qigames.com/privacy.php) for the most accurate reproduction.*
 
 # qigames.com Privacy Policy
 
