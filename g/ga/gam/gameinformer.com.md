@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217085755id_/http%3A//www.gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502215448id_/http%3A//www.gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
 
 # GameInformer.com Privacy Policy
 
 PRIVACY POLICY
 
-Last Updated: August 18, 2009 
+Last Updated: April 16, 2013 
 
 Welcome to Game Informer Online, the Web destination for readers of Game Informer magazine. 
 
-**1.1 Applies to All Game Informer Websites.**
+**1.1 Applies to All Game Informer Websites and Mobile Applications.**
 
-This Privacy Policy applies to all of the Website(s) operated by Game Informer (collectively, with Game Informer Online, referred to as the "Site"). Please click here to see a complete list of all Websites operated by Game Informer. If Game Informer wishes to include additional Websites under this Privacy Policy, it will take reasonable steps to include them in the list and ensure that they provide a link to this Privacy Policy. Some Websites, due to the nature of the content and services they provide, may have additional information relating to the collection and use of information submitted to them. Please read each Website’s Terms and Conditions as well as this Privacy Policy. 
+This Privacy Policy applies to all of the Website(s) and Mobile Application(s) operated by Game Informer (collectively, with Game Informer Online, referred to as the "Site"). Please click here to see a complete list of all Websites operated by Game Informer. If Game Informer wishes to include additional Websites under this Privacy Policy, it will take reasonable steps to include them in the list and ensure that they provide a link to this Privacy Policy. Some Websites, due to the nature of the content and services they provide, may have additional information relating to the collection and use of information submitted to them. Please read each Website’s Terms and Conditions as well as this Privacy Policy. 
 
 **1.2 Applies Only to Information Submitted Online Through the Site.**
 
