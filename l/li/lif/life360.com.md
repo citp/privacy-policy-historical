@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219063526id_/http%3A//www.life360.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503003524id_/http%3A//www.life360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life360 - The New Family Circle
 
@@ -117,5 +117,4 @@ You can contact us by writing or email us at the address below.
 Life360  
 78 1st Street 6th Floor  
 San Francisco, CA 94105  
-[support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com)  
-415-462-0002
+[support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com)
