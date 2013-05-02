@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klixindia.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124214034id_/http%3A//klixindia.com/4-privacy-policy/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klixindia.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502133952id_/http%3A//klixindia.com/4-privacy-policy/content.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -39,3 +39,6 @@ Data Security. We use a number of mechanisms (encryption, passwords, physical se
 Confidentiality of Information. Users who use any of the features on KlixIndia agree and accept that they have been fully informed by KlixIndia that the use of features may lead to publication, to all users of KlixIndia, of any personal information posted by them while using any specific feature on KlixIndia. Users further agree that the authenticity of, and consequences from the posting by users of any personal information of themselves or any other person, are the sole responsibility of the user. Users further agree and accept that the terms of the Privacy Policy will be applicable to the use of all features, existing and new. However, the Users agree and accept that confidentiality of information posted on such features has been waived by the Users of such features themselves.
 
 General. We may update, upgrade, modify (partially &/or fully) this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to admin@klixindia.com
+
+  
+
