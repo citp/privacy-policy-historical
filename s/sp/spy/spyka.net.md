@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920031441id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502174142id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
 
-# spyka Web Group - Privacy Policy
+# Privacy Policy | spyka Web Group
+
+[](http://spyka.co.uk/)
+
+Just another WordPress site
+
+  * Customer email
+
+hello@spyka.co.uk
+
+
+
 
 **Last revised: 10th September 2010**
 
-This policy explains in detail how spyka Web Group (hereinafter "sWG", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", "user")
+This policy explains in detail how spyka Web Group (hereinafter “sWG”, “us”, “we”, “our”) use any information collected during any visit by you (hereinafter “your”, “visitor”, “user”)
 
 ##### Sites covered by this Privacy Policy
 
@@ -36,7 +47,7 @@ Users are reminded that some sections of our forums are viewable by the public a
 
 ##### Community forums
 
-All forums on our servers are powered by vBulletin, a software platform by Jelsoft Enterprises Ltd (hereinafter "Jelsoft"). The passage hereunder describes how information is collected and stored with the vBulletin software.
+All forums on our servers are powered by vBulletin, a software platform by Jelsoft Enterprises Ltd (hereinafter “Jelsoft”). The passage hereunder describes how information is collected and stored with the vBulletin software.
 
 Your account will at a bare minimum contain a uniquely identifiable name, a personal password used for logging into your account and a personal, valid e-mail address. Your information for your account on forums is protected by data-protection laws applicable in the country that hosts us (USA). Any information beyond your user name, your password and your e-mail required by the forums during the registration process are at our digression what is mandatory and what is optional. In all cases, you have the option of what information in your account is publicly displayed. At all times you can view from your account any personal information you have provided by selecting the User CP menu option on our forums. Also, at any time, you have a right to request removal of any of this information and your account from our system. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from the forum software.
 
