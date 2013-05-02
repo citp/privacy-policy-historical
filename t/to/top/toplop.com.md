@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplop.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712045507id_/http%3A//toplop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplop.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502145613id_/http%3A//toplop.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
