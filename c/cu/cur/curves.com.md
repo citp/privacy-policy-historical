@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126081219id_/http%3A//www.curves.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503004422id_/http%3A//www.curves.com/privacy-policy) for the most accurate reproduction.*
 
 # Curves - Privacy Policy
 
-**PRIVACY POLICY**
+[](https://web.archive.org/) [International Websites](https://web.archive.org/international-websites/)
+
+  * [Home](https://web.archive.org/ "Home")
+  * [Locations](https://web.archive.org/locations/ "Locations")
+  * [The Program](https://web.archive.org/the-program/ "The Program")
+  * [Success Stories](https://web.archive.org/success-stories/ "Success Stories")
+  * [Community](https://web.archive.org/community/ "Community")
+  * [Wellness](https://web.archive.org/wellness/ "Corporate Wellness")
+  * [About Us](https://web.archive.org/about-curves/ "About Us")
+  * [Curves Complete](https://web.archive.org/curves-complete/ "Curves Complete")
+
+
 
 The privacy policies described below are a promise made to our online visitors by Curves International, Inc. We respect the privacy of our online visitors. We may collect information on or through this site that can personally identify you. For example, we collect personally identifiable information which you volunteer to us to respond to visitor questions and comments about us and our products and services, and to mail e-newsletters. In addition, we may also collect demographic and other data for market research, advertising and promotional purposes, we may collect your site usage data through our use of Internet cookie technology or similar devices, or we may receive information about you from third parties under a requirement that your information is then subject to the terms of this policy while in our possession or control. Collectively, we call all of this information your Personal Data.
 
