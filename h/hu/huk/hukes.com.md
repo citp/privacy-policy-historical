@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hukes.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104133715id_/http%3A//www.hukes.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hukes.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502072035id_/http%3A//www.hukes.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
-
- 
 
 Hukes.com has established its privacy policy to explain how your information within the purview of Hukes.com is protected, collected and used. This policy may be updated by Hukes.com. Hukes.com will post notices of its policy changes on the Hukes.com site at: <http://www.hukes.com/help-privacy.html>  
 
@@ -33,5 +31,3 @@ Hukes.com may disclose information about its users if required to do so by law o
 By providing us with data and by visiting Hukes.com you acknowledge and agree that due to the global use of Hukes.com we may use the data collected in the course of your use of our site and/or services for the purposes identified in this policy or in our other communications to you, including the transmission of information outside your resident jurisdiction. Data provided to Hukes.com may be stored on servers throughout different jurisdictions. User agrees to consent to transfer of such data to different locations.  
 
 **IF YOU DO NOT AGREE WITH Hukes.com PRIVACY POLICY PLEASE LEAVE THIS WEBSITE**
-
- 
