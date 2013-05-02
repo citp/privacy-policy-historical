@@ -1,86 +1,88 @@
-> *The following text is extracted and transformed from the asos-media.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303200617id_/http%3A//us.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos-media.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502215848id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
 
 # Your privacy | Privacy information for ASOS customers | ASOS
 
-ASOS.com Limited ("ASOS", “us”) is committed to protecting the privacy of our site visitors and customers. The ASOS team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. This Privacy Policy describes the kinds of information ASOS collects about you and your use of the site and what we do with that information.
+ASOS.com Limited ("ASOS") is totally committed to protecting the privacy of our site visitors and customers. The ASOS team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
 
-**I.** **Types of Information ASOS collects.**
+**Your Consent**
 
-ASOS collects several kinds of information about you when you visit and use our site. When we use the term “personal information” in this Privacy Policy, it refers to information that identifies you as a particular individual, such as your name, your physical address, your e-mail address, telephone number, and credit card numbers.
+We will not sell your name, address, e-mail address, credit card information or personal information to any third party without your permission, but we cannot be responsible or held liable for the actions of third party sites from which you may have linked or been directed to the ASOS website. 
 
-In addition to personal information, we collect information about your visits to and use of the site that is not personally identifiable. For example, our site uses cookies, which are small information files that are sent to your computer and stored on your hard drive. Cookies ease your use of the site, and provide us with information about your use of the site – for example, the pages that you view. If you have registered with us, then your computer will store an identifying cookie which will save you time each time you re-visit the ASOS site, by remembering your email address for you when you interact with the site. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent, but if you do not permit your browser to accept cookies, you may not be able to take full advantage of the features of the site. We may also collect the IP address through which you access the Internet to use our site. Your IP address will typically be provided by your Internet service provider, your employer or the business or institution that provides you with access to the Internet. An IP address is not, by itself, personal information. We may use IP addresses to collect information regarding the frequency with which you and other guests visit the sites, and the patterns of site use. We may also combine IP addresses with personal information. To the extent that your IP address is combined with personal information, it will be treated as personal information. The site may also collect non-personal information through other technical methods.
+**Communication & Marketing**
 
-We use the non-personal information collected through technology for a number of purposes, including tracking and enhancing your experience on our site. We also may use the information gathered by technology to analyze the traffic patterns on our site, such as the frequency with which you and others visit various parts of the site. We may send HTML e-mails to you if you’ve registered with ASOS, and those e-mails may contain data or routines that allow us to determine whether you have opened those e-mails, clicked on links in those e-mails or forwarded those e-mails to others.
+If you have made a purchase from our store we may occasionally update you on our latest products, news and special offers via e-mail, post & telephone. You will also be given the opportunity to receive such communications from us and selected third parties when you become a member of ASOS.
 
-We may disclose aggregate, anonymised statistics about the number of visitors to this site or number of purchases made as required by our investors. We use an independent measurement and research company to gather data regarding the visitors to this site on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide statistical information about visits to pages on the site, the duration of individual page views, paths taken by visitors through the site, data on visitors' screen settings, and other general information. ASOS uses and stores this type of information, along with that obtained from other cookies used on the site, to help it improve the services to its users.
+All ASOS members have the option to opt-out of receiving marketing communications from us and/or selected third parties. If you do not wish to continue to receive marketing from us and/or selected third parties you should opt-out by visiting 'Your Details' in 'Your Account' on the ASOS website. You can access 'Your Account' once you register and login. Or click on the "unsubscribe" link in any email communications which we might send you.
 
-We do not knowingly collect or store personal information from children under 13, even in aggregate. If we learn that we have done so we will endeavor to delete such personal information as soon as possible.
+A cookie is a small information file that is sent to your computer, mobile or other device when you visit a website and it will recognise your device on future visits. These types of files do a number of different jobs such as remembering your preferences and chosen items, assisting you to improve your site experience as well as trying to ensure that the adverts or offers you see online are more relevant to you. These “cookies” can be divided into 4 types each of which is outlined below.
 
-**II.** **How we use Personal Information**
+**Category 1: Strictly Necessary Cookies**
 
-Except as described below, we will not sell, rent, license or transfer your personal information to any third party.
+These cookies are essential in order to enable the site to provide services you have asked for such as remembering your shopping bag items.
 
-· We may provide your personal information to third parties who assist us in providing services to you, including fulfilling orders placed through the site – for example, shippers, warehouse operators, customer service providers, credit card issuers, or others involved in fulfilling orders you place on the site, or in responding to inquiries you make through the site.
+**Category 2: Performance Cookies**
 
-· We may also use your personal information to send you promotional materials about goods and services we offer. If you have made a purchase from our store we may occasionally update you on our latest products, news and special offers via e-mail, post & telephone. You will also be given the opportunity to receive such communications from us and selected third parties when you become a member of ASOS. These materials and information may be sent to you by postal mail, e-mail or other means. As described below, you may opt out of receiving these communications.
+This type collect anonymous information on how people use the site and the data is merged with other users to enable us to improve how the site operates. For example we utilise Google Analytics cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established. 
 
-· We may also take personal information and make it non-personally identifiable. We may, for example, remove information from your personal information that does not identify you - for example, your age or gender – or we may combine elements of your personal information that do not identify you with non-personal information of other users of our site. Our use of this depersonalized or aggregated information is not restricted.
+**Category 3: Functionality Cookies**
 
-· If we are under a duty to do so, we may disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms of business, or to protect the rights, property, or safety of ASOS, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+These remember choices you make such as language, search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate with your selections and make the visits more tailored and pleasant. The information is also merged with other users on an anonymous basis to enable us to improve how the site operates. For example our Saved Items feature utilises a cookie to remember the products which you have expressed a wish to save whilst browsing our website.
 
-**III.** **Communication & Marketing**
+**Category 4: Targeting Cookies or Advertising Cookies**
 
-If you have made a purchase from our store we may occasionally update you on our latest products, news and special offers via e-mail, post & telephone. You will also be given the opportunity to receive such communications from us and selected third parties when you become a member of ASOS. 
+These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers. For example we use 3rd party companies such as Criteo to provide you with more personalised adverts when visiting other websites.
 
-All ASOS members have the option to opt out of receiving marketing communications from us and/or selected third parties. If you do not wish to continue to receive marketing from us and/or selected third parties you should opt out by visiting 'Your Details' in 'Your Account' on the ASOS website. You can access 'Your Account' once you register and login. Or click on the "unsubscribe" link in any email communications which we or our third party partners send you. 
+You can change the settings on your browser to prevent cookies being stored on your computer or mobile device without your explicit consent. Your browser “help” section will normally provide details on how to manage the cookie settings.
 
-**IV.** **Physical Transfers of Personal Information**
+**Site Statistics**
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the region in which you live. For example, if you are located in the European Economic Area ("EEA"), your information may be transferred and stored outside of the EEA for the purposes described above. Personal information may also be processed by staff, operating outside the area in which you are located, who work for ASOS or one of our suppliers. Such processing may, for example, be required in order to fulfil your order, process your payment details, or provide support services. 
+We may disclose aggregate, anonymised statistics about the number of visitors to this Website or number of purchases made as required by our investors. We use an independent measurement and research company to gather data regarding the visitors to this Website on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. ASOS uses and stores this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. Further information regarding the way in which this information is obtained and used can be obtained by contacting us [here](https://web.archive.org/infopages/pgecontactcare.aspx).
 
-**V.** **Other Disclosures of Personal Information**
+**Protecting your security**
 
-We may disclose your personal information to any of our group of companies for the purposes of processing your order or where necessary to provide any other service which you have requested. As a result, in addition to the disclosures described in Section II, we may also disclose your personal information to third parties: 
+We may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. This is done only to confirm your identity - a credit check is not performed and your credit rating is unaffected.
 
-  * in the event that ASOS sells or buys any business or assets; or 
-  * if ASOS is merged or otherwise combined or consolidated with another business, its equity is sold, or substantially all of ASOS’ assets are acquired by a third party, in which case personal data which we hold about our customers may be transferred to the acquiring party.
+**Transfers of your Information**
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for ASOS or one of our suppliers. Such processing may, for example, be required in order to fulfil your order, process your payment details or provide support services.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. We will do our best to protect your personal data, but cannot guarantee the security of data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+**Disclosures of your information**
+
+We may disclose your personal information to any of our group of companies. We may also disclose your personal information to third parties: 
+
+  * in the event that ASOS sells or buys any business or assets; 
+  * if ASOS or substantially all of its assets are acquired by a third party, in which case personal data which we hold about our customers may be one of the transferred assets; or 
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of; or to protect the rights, property, or safety of ASOS, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
-**VI.** **Third party sites**
+**Third party sites**
 
-Our site may contain links to and from the websites of our partner networks, advertisers and other third parties. If you follow a link to any of these websites, please note that they may have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+Our site may contain links to and from the websites of our partner networks, advertisers and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**VII.** **Checking your Details; Opting Out**
+**Checking your Details**
 
 If you wish to verify the details you have submitted to ASOS you may do so by contacting us via the e-mail address or address given below. Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information.
 
-Once we have verified your identity, you will be able to access and update the contact information you gave us during registration, or modify any marketing or other choices you have made when registering with our site, or opting out of participation in the site services. You may also unsubscribe from certain e-mail communications by clicking on unsubscribe links in those e-mails. Please note that even if you elect to terminate your registration with the site, we may retain your personal information for legal or other reasons. The treatment of that retained personal information will at all times be governed by this Privacy Policy.
+**Contacting us**
 
-**VIII.** **Disclaimer**
+ASOS.com Limited (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act).
 
-The security and confidentiality of your information is important to us. We have implemented technical, administrative, and physical security measures to protect personal information from unauthorized access and improper use. From time to time, we review our security procedures. Despite our efforts, no security measures are perfect or impenetrable. Unfortunately, the transmission of information via the Internet is not completely secure, and we cannot guarantee the security of data transmitted to our site. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. 
+You have the right to access the information which ASOS holds about you and your right of access can be exercised in accordance with the Act. You may lodge an access request for free, but depending upon the personal information you request, we may impose a charge to recover our costs in providing you with details of the information we hold about you. We will notify you of any such change upon receiving your access request, and confirm whether you wish to proceed and pay such charge.
 
-**IX.** **Amendments**
+We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact a customer service member of the ASOS team, who will be delighted to answer any questions you may have.
 
-We may amend this Privacy Policy at any time. If we amend this Privacy Policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of these changes by sending you an e-mail at the last e-mail address that you provided to us, and/or by prominently posting notice of such amendment on the site.
-
-**X.** **Contacting us**
-
-ASOS.com Limited (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act). 
-
-You have the right to access the information which ASOS holds about you and your right of access can be exercised in accordance with the Act. 
-
-We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact a customer service member of the ASOS team, who will be delighted to answer any questions you may have. 
-
-You can either contact [customer care](http://us.asos.com/infopages/pgecontactcare.aspx "Customer Care page")
+You can either contact [customer care](https://web.archive.org/infopages/pgecontactcare.aspx "Customer Care page")
 
 Or, write to us at:
 
-ASOS.com  
-Customer Care  
-Century House, Maylands Avenue, Hemel Hempstead Industrial Estate  
+Building 2. Peoplebuilding  
+Maylands Avenue  
+Hemel Hempstead Industrial Estate  
 HEMEL HEMPSTEAD  
-HP2 7DE  
+Hertfordshire  
+HP2 4NW  
 UK  
 
