@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the isango.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103060714id_/http%3A//www.isango.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isango.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502210004id_/http%3A//www.isango.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-This is the privacy policy of isango! Limited, a company incorporated in England and Wales, with registered offices at Suite 3, Level 5, Berkeley Square House, Berkeley Square, London, W1Y 6BY
+This is the privacy policy of isango! Limited, a company incorporated in England and Wales, with registered offices at Suite 3, Level 5, Berkeley Square House, Berkeley Square, London, W1Y 6BY. Isango! Limited is a member of the TUI Travel PLC group of companies
 
 isango! understands and respects the importance of your privacy and visitors to our websites can be assured that the protection of privacy is given the highest possible priority. All personal information that we collect is used and held to comply in every way possible with the Data Protection Act 1998. isango! only obtains personal information from you if we ask for it and you provide it to us. Please read on to understand how we use the information you give us before using the isango! web pages. Please note use of the isango! web pages and services is conditional upon you agreeing to be bound by this privacy policy.
 
@@ -32,23 +32,42 @@ We may, from time to time, use 'cookies' to store your preferences, record sessi
 
 'Cookies' are pieces of information that our Web page transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many Web sites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer is identified.
 
-There are three types of cookies:
+**There are two types of cookies:**
 
-Session cookies
+**1\. Session cookies**
 
-These are used to maintain something called session state. If you consider your journey through the website as a conversation with us, this cookie reminds the site where we are in that conversation (for instance, if at some point in the conversation you asked us to add a hotel to your basket, next time you click on the basket it will still be there). Session cookies are required for the website to function but are not used in any way to identify you personally. 
+These are used to maintain something called session state. If you consider your journey through the website as a conversation with us, this cookie reminds the site where we are in that conversation (for instance, if at some point in the conversation you asked us to add a hotel to your basket, next time you click on the basket it will still be there). Session cookies are required for the website to function but are not used in any way to identify you personally.
 
-Permanent cookies
+**2\. Permanent cookies**
 
-When you visit our website, we will assign a permanent cookie on the hard drive of your computer. You can view these by looking in the cookies directory of your browser installation. As the name implies, permanent cookies last for a long time and each time you visit our website you send us a copy of them allowing us to identify you from visit to visit. For instance, if you were looking at hotels in London last time you were on the website and the next time you visit us we have a great hotel deal, this cookie enables us to recognise your computer, so that we can show you that deal. The aim is to enhance your experience whilst on the website and make sure you don’t miss out on great offers. Cookies do not contain any Personal Information for example, your name, address, email address, or telephone number, but simply a unique identification number that identifies your computer to us. 
+When you visit our website, we will assign a permanent cookie on the hard drive of your computer. You can view these by looking in the cookies directory of your browser installation. As the name implies, permanent cookies last for a long time and each time you visit our website you send us a copy of them allowing us to identify you from visit to visit. For instance, if you were looking at hotels in London last time you were on the website and the next time you visit us we have a great hotel deal, this cookie enables us to recognise your computer, so that we can show you that deal. The aim is to enhance your experience whilst on the website and make sure you don’t miss out on great offers. Cookies do not contain any Personal Information for example, your name, address, email address, or telephone number, but simply a unique identification number that identifies your computer to us.
 
 Third party tracking devices
 
-You will see that we carry advertising relating to third parties on our website. This advertising is served either directly by third party advertisers or on their behalf by advertising network companies. These advertisers or advertising networks may place cookies, action tags or other tracking devices on your hard drive to assess the effectiveness of their ads. They may aggregate information about your visits to our website and other websites retrieved via such cookies with other information that you may have provided directly to the relevant advertiser or ad network. This Privacy Policy does not cover the use of cookies and other tracking devices by third parties. This will be covered by that third party’s privacy policies and practice and we would recommend that you take a look at these which in most cases will be found on that company’s website. 
+You will see that we carry advertising relating to third parties on our website. This advertising is served either directly by third party advertisers or on their behalf by advertising network companies. These advertisers or advertising networks may place cookies, action tags or other tracking devices on your hard drive to assess the effectiveness of their ads. They may aggregate information about your visits to our website and other websites retrieved via such cookies with other information that you may have provided directly to the relevant advertiser or ad network. This Privacy Policy does not cover the use of cookies and other tracking devices by third parties. This will be covered by that third party’s privacy policies and practice and we would recommend that you take a look at these which in most cases will be found on that company’s website.
 
 Opting out
 
 You cannot block "session" cookies as they are required for our website to function correctly, but you can configure your Internet browser so that it can reject both "permanent" and "third party" cookies. Please refer to the relevant Internet browser manufacturer's website where you should be able to receive all the information you need.
+
+All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
+
+[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)  
+[Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)  
+[Cookie settings in Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
+[Cookie settings in Safari web and iOS](http://support.apple.com/kb/PH5042)
+
+If you would like to find out more about cookies and their use on the Internet, you may find the following links useful:
+
+[Microsoft Cookies guide](http://www.microsoft.com/info/cookies.mspx)  
+[All About Cookies](http://www.allaboutcookies.org/)
+
+The IAB has provided the following website to give information specifically about privacy issues around Internet advertising: [youronlinechoices.co.uk/uk](http://www.youronlinechoices.com/uk/)
+
+For further legal information about privacy issues, you may find these links useful:
+
+[Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)  
+[The Information Commissioner's Office](http://www.ico.gov.uk/)
 
 How We Use Your Personal Information
 
