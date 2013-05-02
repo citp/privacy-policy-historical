@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the admagnet.net privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919185133id_/http%3A//admagnet.net/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the admagnet.net privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502214044id_/http%3A//admagnet.net/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -87,6 +87,7 @@ return returnval;
         }
     </script>
     <script type="text/javascript" src="Scripts/prototype.js"></script>
+    
  <!-- 
 	<script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript"> //**Start of your patch**//
@@ -105,9 +106,53 @@ return returnval;
 <link href="css/screen.css" rel="stylesheet" type="text/css" media="screen" />!-->
 
 <!--<link rel="stylesheet" href="css/global.css">!-->
+<script type="text/javascript">
+function load()
+{ 
+if (document.cookie.indexOf('am_oo') != -1) { 
+document.getElementById('optin').style.display = 'block';
+document.getElementById('optout').style.display = 'none';
+}
+else if (document.cookie.indexOf('OAID') != -1) {  
+document.getElementById('optout').style.display = 'block';
+document.getElementById('optin').style.display = 'none';
+}
+else {  
+document.getElementById('optin').style.display = 'none';
+document.getElementById('optout').style.display = 'block';
+}
+}
+function openWindow(mylink, windowname,text)
+{  
+   if(text=='optout'){ 
+   document.getElementById('optout').style.display = 'none';
+   document.getElementById('optin').style.display = 'block';
+   }else{
+   document.getElementById('optin').style.display = 'none';
+   document.getElementById('optout').style.display = 'block';
+   }
+    if (! window.focus)return true;
+	var href;
+  if (typeof(mylink) == 'string')
+  	href=mylink;
+  else
+    href=mylink.href;
+  
+ // window.setTimeout(function() {newWindow.close()}, 3000);
+    var width = 400;
+    var height = 100;
+    var left = parseInt((screen.availWidth/2) - (width/2));
+    var top = parseInt((screen.availHeight/2) - (height/2));
+    var windowFeatures = "width=" + width + ",height=" + height + ",status,resizable,left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top;
+	var newWindow = window.open(href, windowname, windowFeatures);
+	 return false;
+}
+
+
+</script>
 </head>
 <!--<body onload="load();"> -->
-<body onload="load();">
+<body onload="load();"><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">press <kbd>x</kbd> to close</div></div></div>
 <div id="insidepage-container">
 <div id="container">
 <div id="header">
@@ -178,12 +223,12 @@ This Privacy Policy is as per the Indian Information Technology   Act, 2000 and 
     <div class="text-login" style="float:left; width:600px; margin-top:10px;">Consumer Choice - Opting Out of Receiving Cookies&nbsp;</div>
     <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">We use technology which includes cookies and web beacons in the delivery of our Services. We believe that the use of these tools enables us to provide users with a more meaningful web experience. You may adjust your computer's web browser settings to refuse all cookies. However, please note that because cookies are widely used, disabling the use of cookies in your web browser may interfere with full use of various websites.
       </div>
-      <div id="optout">You may Opt out of receiving Ad Magnet cookies by
+      <div id="optout" style="display: block;">You may Opt out of receiving Ad Magnet cookies by
        <a href="http://n.admagnet.net/panda/www/delivery/optout.php" onclick="return openWindow(this,'mypage','optout');"><img src="images/opt-out.gif" border="0"></a><br>
        You can also Opt out of receiving cookies from Ad Magnet by 
       <a href="http://n.admagnet.net/panda/www/delivery/optout.php" class="text5" onclick="return openWindow(this,'mypage','optout');"><u>clicking here</u> </a>
        </div>
-       <div id="optin">You may Opt in of receiving Ad Magnet cookies by
+       <div id="optin" style="display: none;">You may Opt in of receiving Ad Magnet cookies by
        <a href="http://n.admagnet.net/panda/www/delivery/optin.php" onclick="return openWindow(this,'mypage','optin');"><img src="images/opt-in.gif" border="0"></a><br>
        You can also Opt in of receiving cookies from Ad Magnet by 
       <a href="http://n.admagnet.net/panda/www/delivery/optin.php" class="text5" onclick="return openWindow(this,'mypage','optin');"><u>clicking here</u> </a>
@@ -223,7 +268,7 @@ We reserve the right to disclose personal data or information you   have disclos
 </a>
 </div>
 <div class="footer" id="copyright">
-© Copyright 2012 Ad Magnet
+© Copyright 2013 Ad Magnet
 </div>
 <div id="footer-social-menu">
 <div id="social-menu1">
@@ -238,7 +283,10 @@ We reserve the right to disclose personal data or information you   have disclos
 </div>
 
 <div class="footer" id="footer-menu">
-<a href="terms.html" class="footer">Terms of Use</a> | <a href="privacy-policy.html" class="footer">Privacy Policy</a> | <a href="optout.html" class="footer">Optout</a></div>
+<a href="terms.html" class="footer">Terms of Use</a> | 
+<a href="privacy-policy.html" class="footer">Privacy Policy</a> |
+<a href="adware-warning.html" class="footer">Adware Warning</a> |
+ <a href="optout.html" class="footer">Optout</a></div>
 </div>
 </div>
 </div>
