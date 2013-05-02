@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023070608id_/http%3A//www.libertytax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502121239id_/http%3A//www.libertytax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Liberty Tax Service
 
@@ -6,7 +6,7 @@ We know that the privacy of your personal information is important to you.  We
 
 This Website Privacy Policy concerns the information we collect when you view our website.  If you come to one of our offices for tax preparation, or if you use online tax preparation services at such time as they are available, such uses will be subject to separate privacy policies disclosed to you when you use those services.
 
-**Non-Public Information We Collect**
+**Non-Public Information We Collect**  
 
 If you use our website, we collect the following types of information:
 
@@ -18,11 +18,11 @@ If you use our website, we collect the following types of information:
 
 If you choose to submit your contact information to indicate an interest in either a franchise or tax course, we receive from you your name, address, telephone number and e-mail address.  If you choose to submit your e-mail address to indicate an interest in our electronic newsletter, we receive from you your e-mail address.  If you choose to use our electronic Refer a Friend on this site, we collect from you your name, address and e-mail address.
 
-**Information Security**
+**Information Security**  
 
 We maintain physical, electronic and procedural security measures that comply with applicable legal and regulatory standards to safeguard your non-public personal information.  Access to such information is restricted to those employees who are trained in the proper handling of client information and have a legitimate business need to access that information.
 
-**Information We Disclose**
+**Information We Disclose**  
 
 Affiliated and non-affiliated third parties may be given access to your information only as permitted by law or upon your express authorization to process the transactions which you have engaged us to perform.
 
@@ -36,7 +36,7 @@ If you submitted your e-mail address to sign up for our electronic newsletter, w
 
 If you submitted your e-mail address to us for any purpose, we may contact you to invite you to prepare your tax return with us.
 
-**Our Commitment**
+**Our Commitment**  
 
 This privacy policy applies to our current and former customers and has been in effect since January 21, 2008.  Because privacy is important, we pledge to work with you to protect and safeguard the security of your personal customer information.
 
