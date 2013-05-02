@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkpopularityservice.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231154210id_/http%3A//linkpopularityservice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpopularityservice.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502052820id_/http%3A//linkpopularityservice.net/privacy-policy) for the most accurate reproduction.*
 
 # LINK BUILDING SERVICES – SEO Link Building - Privacy Policy
 
