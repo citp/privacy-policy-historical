@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbantoronto.ca privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919214511id_/http%3A//urbantoronto.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbantoronto.ca privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502143508id_/http%3A//urbantoronto.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Toronto
 
@@ -76,12 +76,12 @@ Chart may charge a reasonable administration fee ($15) for providing access to t
 
 9\. Inquiries or Complaints
 
-Chart is responsible for personal information under its control and has designated a Privacy Officer who is accountable for Chart’s compliance with this Privacy Policy and PIPEDA. If at any time you have any questions or complaints about this Privacy Policy or your personal information and how it is being used, collected or disclosed (including if you wish to request to update or correct any personally identifiable information you have provided), or you wish to withdraw your consent to “Use of Personal Information”, please do not hesitate to contact us via our form at [http://urbantoronto.ca/contact/news](http://beta.urbantoronto.ca/contact/news)[ ](http://chartattack.com/contact)or write to us at:
+Chart is responsible for personal information under its control and has designated a Privacy Officer who is accountable for Chart’s compliance with this Privacy Policy and PIPEDA. If at any time you have any questions or complaints about this Privacy Policy or your personal information and how it is being used, collected or disclosed (including if you wish to request to update or correct any personally identifiable information you have provided), or you wish to withdraw your consent to “Use of Personal Information”, please  contact us [here](mailto:online@urbantoronto.ca) or write to us at:
 
 Chart Communications Inc.  
-2200 Yonge Street, #910  
-Toronto ON M4S 2C6  
-CANADA
+366 Adelaide St E, Suite 422  
+Toronto ON M5A 3X9  
+Canada
 
 Phone: 416.363.3101   
 Fax: 416.363.3109
