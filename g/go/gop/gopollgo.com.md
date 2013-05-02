@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopollgo.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225654id_/http%3A//gopollgo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopollgo.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002157id_/http%3A//gopollgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoPollGo | Online Polls
 
