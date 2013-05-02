@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219032912id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502230803id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,7 +23,7 @@ Hy-Vee, Inc. (“Hy-Vee”, “we”, “our” or “us”) is committed to res
 
 These provisions may be changed from time to time and without notice at Hy-Vee's sole discretion and as provided by applicable law. You should check this privacy policy frequently for any such changes, but, in any case, your continued access or use of our Services shall constitute acceptance of any modifications of the privacy statement. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our privacy policy.
 
-For purposes of this privacy policy, our “Services” means any one or more, or all, of the following interactions that you may have with us: our stores, our websites, our promotions, our mobile applications, our contests, sweepstakes, promotions or surveys, our forums, and customer service requests. This list is not intended to be exhaustive.
+For purposes of this privacy policy, our “Services” means any one or more, or all, of the following interactions that you may have with us: our stores, websites, promotions, loyalty and/or rewards programs, mobile applications, contests, sweepstakes, promotions, surveys, forums, customer service requests. This list is not intended to be exhaustive.
 
 ## Who is Collecting the Information?
 
@@ -39,8 +39,7 @@ At different places within our Services, depending upon the feature(s) you use (
 
 ## How Do We Use the Information We Collect?
 
-The information we gather automatically and with your permission during your interaction with our Services is used in some the following ways: to monitor, review, measure and analyze website utilization; to modify and enhance our Services; to improve the content and design of our Services; to respond to your requests; to fulfill your requests or orders for our products and services; to communicate with you about your requests; to distribute news and other information; to administer surveys, promotions, giveaways, contests and sweepstakes; to alert you about product information and recalls; and to verify your identity. The foregoing list is not exclusive or exhaustive.  
-
+The information we gather automatically and with your permission during your interaction with our Services is used in some the following ways: to monitor, review, measure and analyze website utilization; to modify and enhance our Services; to improve the content and design of our Services; to respond to your requests; to fulfill your requests or orders for our products and services; to communicate with you about your requests; to distribute news and other information; to administer surveys, promotions, giveaways, contests and sweepstakes; to alert you about product information and recalls; and to verify your identity. The foregoing list is not exclusive or exhaustive.
 
 ## With Whom Will the Information be Shared?
 
@@ -48,27 +47,29 @@ The personally identifiable information gathered during your use of our Services
 
 We will not rent, sell, exchange or provide personally identifiable information to any third-party organization without your express consent (opt-in).
 
-We may disclose or otherwise make available information we’ve gathered during your use of our Services, including personally identifiable information, to service providers that assist us with our business operations, including provision of the Services. We require our service providers to keep your information secure and confidential. Our service providers may not use or disclose your personally identifiable information for any purpose other than providing services to us or on our behalf.
+We may disclose or otherwise make available information we’ve gathered during your use of our Services, including personally identifiable information, aggregate data and/or anonymous data, to service providers that assist us with our business operations, including provision of the Services. We require our service providers to keep your information secure and confidential. Our service providers may not use or disclose your personally identifiable information for any purpose other than providing services to us or on our behalf.
 
 We may disclose information when the disclosure is necessary to protect the safety or the property rights of Hy-Vee, our customers, and/or our employees; when cooperating with reasonable requests from law enforcement; and when legally compelled to do so.
 
-## Opt-out of Communication, Transfer and Correction of Information
+In connection with sweepstakes, contests, giveaways and other types of promotional campaigns, we will post winners’ lists on our website and throughout our other advertising mediums, as well as make available winners’ lists to interested parties who may request the same in writing following the expiration of any such promotional campaign. In addition, we will provide winners’ names, addresses, telephone numbers, and if applicable social security numbers, with appropriate governmental agencies. In addition, certain promotional campaigns may require disclosure of personally identifiable information of entrants to promotional campaign participants, including but not limited to sponsors and promotional campaign administrators. If personally identifiable information is to be shared with promotional campaign participants, the rules applicable to each such promotional campaign shall disclose the fact that such information may be shared with such promotional campaign participants.
 
-We use an opt-in for text message communication with you. We will not communicate with you via text message without your express consent.
+## Communication Defaults: Opt-in, Opt-out
 
-We use an opt-out standard for email and mail communications with you. Opt-out means that your consent to our communication with you is implied, but if you request to opt-out of specific types of communications, either by unsubscribing from the specific email communication or contacting us to opt-out of specific mailed correspondence, we will cease sending them to you.
+For text message based promotions, we use an opt-in for text message communication with you. We will not communicate with you via text message without your express consent.
+
+For online accounts, we use an opt-in standard for communication of promotional materials with you. We will not email or mail promotional materials to you without your express consent.
+
+For all of other Services, we use an opt-out standard for email and mail communications with you. Opt-out means that your consent to our communication with you is implied, but if you request to opt-out of specific types of communications, either by unsubscribing from the specific email communication or contacting us to opt-out of specific mailed correspondence, we will cease sending them to you.
 
 Individuals may notify us that they wish to opt-out and prevent the transfer of their personally identifiable information to organizations affiliated with Hy-Vee, Inc., or correct such information by writing to us at the contact address at the end of this privacy statement. If you opt-out we may not be able to fulfill your order or answer your information request.
 
 ## Our Use of Cookies
 
-Many websites now use "cookies" to provide useful features to their visitors by providing customizable and personalized services. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. For example, a website may use cookies to store and sometimes track information about you, your preferences or the pages you last visited. Your browser software can be set to reject all cookies, or to ask you if you would like to accept or decline a cookie from a particular site before it is set. Most browsers offer instructions on how to reset the browser to reject cookies in the Help section of the toolbar. You should know, however, that if you reject a cookie, certain functions and conveniences of a site may not work properly. We use cookies on our Services to store and sometimes track visitor information and preferences, including remembering your login information for when you return to our Services.  
-
+Many websites now use "cookies" to provide useful features to their visitors by providing customizable and personalized services. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. For example, a website may use cookies to store and sometimes track information about you, your preferences or the pages you last visited. Your browser software can be set to reject all cookies, or to ask you if you would like to accept or decline a cookie from a particular site before it is set. Most browsers offer instructions on how to reset the browser to reject cookies in the Help section of the toolbar. You should know, however, that if you reject a cookie, certain functions and conveniences of a site may not work properly. We use cookies on our Services to store and sometimes track visitor information and preferences, including remembering your login information for when you return to our Services.
 
 ## Our Children's Privacy Policy
 
-Our Services are directed towards a general audience and do not feature information and services geared towards to children 13 years and under. We do not collect personal information from anyone we know is a child under 13 without parental consent.  
-
+Our Services are directed towards a general audience and do not feature information and services geared towards to children 13 years and under. We do not collect personal information from anyone we know is a child under 13 without parental consent.
 
 ## Registration for Access
 
@@ -84,8 +85,7 @@ This site includes links to non-affiliated external websites. We encourage users
 
 ## Changes in Our Privacy Policy
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. Please check our privacy policy periodically for changes.  
-
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. Please check our privacy policy periodically for changes.
 
 ## Website Contact Information
 
@@ -103,7 +103,7 @@ Hours of Operation:
 
 ## Modification Date
 
-This privacy policy was last modified on **September 23, 2011**.
+This privacy policy was last modified on, and shall be effective from and after **March 19, 2013**.
 
 |  | Seasons  
 ---  
@@ -131,8 +131,4 @@ Wedding
   
 ##### [Hy-Vee Will Make Your Wedding An Event To Remember](https://web.archive.org/resources/wedding/default.aspx)
 
-If you are planning a wedding, Hy-Vee can help with beautiful flowers, magnificent cakes, amazing catering and more.  
-  
-##### [](http://www.hy-vee.com/company/scholarships/default.aspx)
-
-Since 2011, Hy-Vee has partnered with Western Union in providing scholarship dollars.
+If you are planning a wedding, Hy-Vee can help with beautiful flowers, magnificent cakes, amazing catering and more.
