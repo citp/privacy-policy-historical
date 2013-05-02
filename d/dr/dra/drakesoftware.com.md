@@ -1,39 +1,112 @@
-> *The following text is extracted and transformed from the drakesoftware.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619202552id_/http%3A//www.drakesoftware.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drakesoftware.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502084136id_/http%3A//www.drakesoftware.com/pdf/General/Drake%2520Software%2520GLB%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
-# Welcome to Drake Software
+# Privacy Policy
 
-|  [](http://www.drakesoftware.com/) |   
----|---  
-|  |  Privacy Policy   
-  
----  
-|  We do not sell your information to or share it with any third party. Please review our policy in order to make your own decisions about your personal privacy. The drakesoftware.com site is owned and operated by Drake Enterprises, Ltd. drakesoftware.com is a registered trademark of Drake Enterprises, Ltd. 
+Privacy	  Policy	  
+This	  Privacy	  Notice	  is	  designed	  to	  answer	  your	  questions	  about	  the	  information	  Drake	  Software	  
+collects	  on	  its	  websites.	  It	  applies	  generally	  to	  the	  drakesoftware.com	  website,	  herein	  referred	  to	  
+as	  the	  “Website”,	  and	  other	  related	  websites	  where	  this	  policy	  appears	  in	  the	  footer	  of	  the	  page.	  
+Types	  of	  Information	  We	  Collect	  
+The	  information	  we	  collect	  about	  you	  falls	  into	  the	  following	  two	  categories:	  
+        Personal	  Information—information	  that	  tells	  us	  who	  you	  are	  or	  that	  provides	  
+        information	  about	  you	  (such	  as	  your	  order	  history	  and	  preferences),	  and	  
+        Technical	  Information—information	  about	  your	  visit	  that	  is	  not	  linked	  to	  your	  identity	  
+The	  Personal	  Information	  we	  collect	  when	  you	  use	  our	  Website	  may	  include	  your	  name,	  mailing	  
+address,	  phone	  number,	  and	  email	  address.	  We	  request	  Personal	  Information	  when	  you	  order	  a	  
+product	  or	  service,	  register	  for	  newsletters,	  participate	  in	  certain	  promotional	  activities,	  fill	  out	  
+surveys,	  participate	  in	  online	  demonstrations,	  register	  for	  online	  training,	  contact	  Drake	  
+support,	  engage	  in	  bank	  transactions	  and	  correspond	  with	  us.	  
+When	  you	  visit	  our	  Website,	  we	  also	  collect	  technical	  information	  such	  as	  the	  website	  you	  visited	  
+before	  our	  Website,	  the	  pages	  you	  visit	  on	  our	  Website,	  the	  website	  you	  visit	  next,	  the	  browser	  
+you	  use,	  your	  computer's	  IP	  address,	  and	  any	  search	  terms	  entered	  on	  our	  Website.	  We	  use	  
+cookies	  (see	  section	  "Use	  of	  Cookies")	  and	  other	  technology	  to	  collect	  this	  data.	  In	  general,	  we	  do	  
+not	  connect	  this	  Technical	  Information	  with	  the	  Personal	  Information	  we	  collect	  from	  you.	  
+How	  We	  Use	  Information	  
+We	  use	  all	  the	  information	  we	  collect	  to	  provide	  our	  customers	  with	  superior	  service	  and	  a	  
+smooth,	  efficient,	  and	  personalized	  experience	  when	  using	  our	  Website.	  In	  particular,	  we	  use	  
+information	  for	  the	  following	  types	  of	  activities:	  
+We	  use	  Personal	  Information	  to	  fill	  product	  orders	  and	  service	  and	  information	  requests,	  send	  
+you	  order	  confirmations,	  administer	  your	  account,	  and	  send	  you	  marketing	  communications.	  
+For	  example,	  we	  use	  the	  information	  for	  delivery,	  payment,	  and	  customer	  service.	  
+We	  use	  Technical	  Information,	  on	  an	  aggregated	  basis,	  to	  understand	  customer	  behavior	  and	  
+demographics,	  to	  help	  run	  our	  Website	  more	  efficiently	  and	  monitor	  the	  level	  of	  activity	  on	  our	  
+Website,	  and	  to	  evaluate	  the	  effectiveness	  of	  our	  advertising.	  
+If	  you	  contact	  us,	  we	  may	  also	  save	  your	  correspondence	  or	  comments.	  We	  use	  this	  
+information	  to	  help	  us	  provide	  better	  service	  in	  the	  event	  you	  contact	  us	  again.	  
 
-Any questions or comments regarding this site may be directed to [webmaster@drakesoftware.com](mailto:webmaster@drakesoftware.com).   
-  
----  
-  
-**Web Browsing**   
-When you visit drakesoftware.com and move from page to page, read pages or download content onto your computer, we use standard web server log files, to count visitors and evaluate our site's technical capacity. We learn which pages are visited, what is downloaded, the domains our visitors come from and the addresses of sites visited immediately before coming to our site. However, none of this is associated with you as an individual. It is measured only in aggregate. This information helps us to keep the pages on our site browser-friendly and useful to our visitors. We record information on site traffic but not information on individual visitors to our site.   
-  
-**Email**   
-When you send us an email to comment on something or ask us a question, we learn your exact email address and the thoughts you share. We use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. We may, from time to time, use this information to make our users aware of special offers from Drake Enterprises. Ltd. We will not share it with or sell it to any third party for such use.   
-  
-**Mailing Lists and Other Services**   
-When you give us your email address and/or other information and ask us to use it to provide you with specific communications or other services offered on the drakesoftware.com site, we learn your exact email address, any other information you provide, and your request. We use your email address and any other information to provide you with the information or other services you requested until you ask us to stop (using the instructions provided with each email and/or on the site or as we otherwise provide), or until the information or service is no longer available. We may also, from time to time, use this information to make our users aware of special offers from Drake Enterprises, Ltd. We will not share or sell your address or other information to any third party.   
-  
-**Security**   
-This website takes every precaution to protect our users' information. When users submit sensitive information, the information is protected. When we ask for sensitive information, such as credit card numbers, that information is encrypted by utilizing SSL.   
-  
-**Linking to Other Sites**   
-Please remember that when you use a link to go from drakesoftware.com to another website, the drakesoftware.com [Terms of Service](http://www.drakesoftware.com/TOS.asp) and this Privacy Policy are no longer in effect. Your browsing and interaction on any other website, including sites that have a link on drakesoftware.com, are subject to the rules and policies of that site. Please read over those rules and policies before proceeding. 
 
-Please note that whenever you submit any information to us in connection with any service provided through drakesoftware.com, you consent to drakesoftware.com processing this information as necessary to provide the services in which you are participating. 
+Security	  
+When	  you	  make	  a	  purchase	  on	  the	  Website,	  we	  use	  Secure	  Sockets	  Layer	  (SSL)	  encryption	  
+technology	  to	  safeguard	  your	  credit	  card	  information	  while	  it	  is	  being	  sent	  to	  us.	  The	  SSL	  
+encryption	  is	  designed	  to	  make	  the	  information	  unreadable	  by	  anyone	  but	  us.	  This	  security	  
+measure	  is	  working	  when	  you	  see	  either	  the	  symbol	  of	  an	  unbroken	  key	  or	  closed	  lock	  
+(depending	  on	  your	  browser)	  on	  the	  bottom	  of	  your	  browser	  window.	  
+We	  take	  the	  protection	  of	  your	  data	  very	  seriously.	  All	  data	  collected	  through	  our	  Website	  is	  
+protected	  by	  a	  secure	  server.	  In	  addition,	  we	  use	  SSL	  to	  secure	  the	  transmission	  of	  data	  from	  
+the	  internet	  to	  our	  systems.	  
+All	  data	  is	  maintained	  and	  backed-­‐up	  on	  a	  regular	  schedule	  to	  provide	  adequate	  redundancy	  
+and	  ensure	  that	  the	  integrity	  of	  information	  is	  never	  jeopardized.	  
+All	  of	  our	  employees	  are	  subject	  to	  strict	  guidelines	  regarding	  confidentiality,	  and	  internal	  
+access	  to	  your	  data	  is	  limited	  to	  those	  employees	  with	  a	  business	  reason	  for	  using	  such	  data.	  
+All	  of	  our	  employees	  sign	  non-­‐disclosure	  agreements	  to	  protect	  your	  data.	  We	  also	  take	  
+appropriate	  disciplinary	  measures	  whenever	  necessary	  to	  enforce	  these	  rules.	  
+We	  make	  every	  commercially	  reasonable	  effort	  to	  be	  fully	  compliant	  with	  rules	  under	  sections	  
+6713	  and	  7216	  of	  the	  Internal	  Revenue	  Code.	  
+Information	  Sharing	  
+In	  general,	  we	  disclose	  customer	  information	  to	  other	  companies	  only	  for	  the	  following	  
+reasons:	  
+       •      to	  credit	  card	  processors,	  and	  other	  companies	  that	  perform	  services	  for	  us	  and	  who	  
+              have	  agreed	  not	  to	  use	  any	  of	  our	  information	  for	  any	  other	  purpose,	  
+       •      to	  assist	  a	  government	  investigation,	  verification	  or	  similar	  purposes,	  if	  required	  by	  law,	  
+              subpoena	  or	  court	  order,	  or	  otherwise	  necessary	  for	  fraud	  prevention,	  or	  as	  needed	  to	  
+              enforce	  our	  terms	  and	  conditions,	  or	  to	  a	  company	  that	  purchases	  our	  business	  or	  
+              assets.	  
+Third-­‐Party	  Providers	  
+We	  do	  not	  sell,	  rent	  or	  lease	  your	  personal	  information	  to	  third	  parties.	  
+We	  partner	  with	  third	  party	  companies	  that	  provide	  specific	  services	  such	  as	  bank	  products.	  
+When	  you	  sign	  up	  for	  services	  or	  products	  of	  a	  third	  party	  with	  which	  we	  conduct	  business,	  
+such	  as	  tax	  refund	  bank	  products,	  we	  will	  share	  your	  name	  or	  contact	  information	  to	  the	  extent	  
+necessary	  for	  the	  third	  party	  to	  provide	  such	  products	  or	  services.	  These	  parties	  are	  not	  granted	  
 
-Please also read over the drakesoftware.com [Terms of Service](http://www.drakesoftware.com/TOS.asp). drakesoftware.com takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. If you have any questions, comments, criticisms, or complaints about drakesoftware.com's privacy policy and/or the way it affects you, please feel free to contact us regarding such information.   
-  
-  
-**Notification of Changes**   
-If we change our privacy policy, we will post a notice on www.drakesoftware.com so our customers and users are aware of our policies. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of email. Users will have a choice as to whether or not we use their information in this different manner.   
-|    
 
+permission	  to	  use	  personally	  identifiable	  information	  for	  any	  purpose	  other	  than	  providing	  
+these	  services.	  
+We	  may,	  from	  time	  to	  time,	  contact	  you	  on	  behalf	  of	  carefully	  selected	  third-­‐party	  providers	  
+about	  a	  particular	  offering	  that	  may	  be	  of	  interest	  to	  you.	  In	  those	  cases,	  your	  unique	  
+personally	  identifiable	  information	  (e-­‐mail,	  name,	  address,	  telephone	  number)	  is	  not	  
+transferred	  to	  the	  third	  party.	  
+Use	  of	  Cookies	  
+	  
+A	  "cookie"	  is	  a	  small	  text	  file	  transferred	  by	  a	  website	  to	  your	  computer's	  hard	  drive.	  We	  send	  
+cookies	  when	  you	  browse	  our	  Website,	  make	  purchases,	  respond	  to	  online	  surveys	  or	  polls,	  or	  
+request	  information.	  Accepting	  the	  cookies	  used	  on	  our	  Website	  does	  not	  give	  us	  access	  to	  your	  
+Personal	  Information,	  but	  we	  can	  use	  the	  cookies	  to	  identify	  your	  computer.	  The	  aggregate	  
+information	  collected	  permits	  us	  to	  analyze	  traffic	  patterns	  on	  our	  Website.	  This	  can	  enable	  us	  
+over	  time	  to	  provide	  you	  with	  a	  better	  experience	  on	  our	  Website,	  by	  improving	  the	  content	  
+and	  making	  it	  easier	  to	  use.	  For	  example,	  cookies	  can	  keep	  track	  of	  what	  you	  have	  selected	  to	  
+purchase	  as	  you	  continue	  to	  shop	  and	  allow	  you	  to	  enter	  your	  password	  only	  once	  on	  pages	  
+where	  a	  login	  is	  required.	  
+Most	  browsers	  automatically	  accept	  cookies,	  but	  you	  can	  usually	  refuse	  cookies	  or	  selectively	  
+accept	  certain	  cookies,	  by	  adjusting	  the	  preferences	  in	  your	  browser.	  If	  you	  turn	  off	  cookies,	  
+there	  may	  be	  some	  features	  of	  our	  Website	  that	  will	  not	  be	  available	  to	  you	  and	  some	  web	  
+pages	  may	  not	  display	  properly.	  
+Links	  to	  other	  Websites	  
+Our	  Website	  may	  contain	  links	  to	  other	  websites.	  Please	  be	  aware	  that	  Drake	  Software	  is	  not	  
+responsible	  for	  the	  privacy	  practices	  of	  such	  other	  sites.	  We	  encourage	  our	  users	  to	  be	  aware	  
+when	  they	  leave	  our	  Website	  and	  to	  read	  the	  privacy	  statements	  of	  each	  and	  every	  website	  
+that	  collects	  personally	  identifiable	  information.	  This	  privacy	  statement	  applies	  solely	  to	  the	  
+information	  collected	  by	  the	  Website	  of	  Drake	  Software	  and	  no	  other	  sites.	  
+Children's	  Privacy	  
+Our	  Site	  is	  not	  targeted	  at	  children	  of	  any	  age,	  and	  we	  do	  not	  collect	  information	  from	  any	  
+children	  under	  age	  13.	  
+Changes	  to	  this	  Privacy	  Notice	  
+If	  there	  are	  changes	  to	  the	  terms	  of	  this	  Privacy	  Notice,	  we	  will	  post	  those	  changes	  here.	  Please	  
+be	  sure	  to	  check	  this	  page	  occasionally.	  If	  we	  make	  material	  changes	  to	  this	  Notice,	  such	  as	  
+changes	  in	  the	  way	  we	  use	  or	  disclose	  Personal	  Information,	  we	  will	  provide	  you	  with	  notice	  of	  
+
+
+the	  change	  and	  a	  chance	  to	  choose	  not	  to	  have	  your	  information	  used	  or	  disclosed	  under	  the	  
+new	  policy.	  By	  using	  the	  Website,	  you	  are	  deemed	  to	  have	  accepted	  any	  changes	  to	  this	  Notice.	  
+Contact	  Information	  
+If	  you	  have	  any	  questions	  or	  concerns	  about	  Drake	  Software’s	  use	  of	  your	  information	  or	  about	  
+this	  Privacy	  Notice,	  please	  send	  an	  email	  to	  privacy@drakesoftware.com.	  
