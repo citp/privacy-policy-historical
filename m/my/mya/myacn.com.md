@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myacn.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016195150id_/https%3A//www.myacn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myacn.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502140634id_/https%3A//www.myacn.com/privacy.html) for the most accurate reproduction.*
 
 # ACN Privacy Policy
 
