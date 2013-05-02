@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the web4africa.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231111322id_/http%3A//www.web4africa.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web4africa.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502041706id_/http%3A//www.web4africa.net/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Hosting, Domain Name Registration, Reseller Hosting. Liberty Reserve, Alertpay, Moneybookers, Paypal.
+# Privacy Policy - Web Hosting, Domain Name Registration, Reseller Hosting. Liberty Reserve, Payza, Skrill.
 
 Effective **  1st January 2007**
 
