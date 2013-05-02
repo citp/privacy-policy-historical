@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3rocketsearch.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225061842id_/http%3A//mp3rocketsearch.com%3Ftmp%3Dtoolbar_mp3rocket_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3rocketsearch.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502165358id_/http%3A//mp3rocketsearch.com%3Ftmp%3Dtoolbar_mp3rocket_privacy) for the most accurate reproduction.*
 
 # mp3rocket.toolbaroptions.com - Privacy Policy
 
