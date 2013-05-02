@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the kunena.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017133801id_/http%3A//www.kunena.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunena.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502205340id_/http%3A//www.kunena.org/privacy-policy) for the most accurate reproduction.*
 
 # Kunena - To Speak! Next Generation Forum Component for Joomla - Privacy Policy
 
 ##  Privacy Policy 
 
 Details
-     Last Updated on Saturday, 11 August 2012 20:57 
+     Last Updated on Monday, 03 December 2012 22:54 
+     Published on Friday, 20 July 2012 17:19 
 
 #### What information do we collect?
 
@@ -17,12 +18,11 @@ Google's use of the DART cookie enables it to serve ads to users based on their 
 
 Information we collect from you may be used in one of the following ways:
 
-  * _To personalize your experience_ your information helps us to better respond to your individual needs;
-  * _To improve customer service:_ your information helps us to more effectively respond to your customer service requests and support needs;
-  * _To process transactions_
-  * _To send periodic emails:_ The email address you provide may be used to send you information, respond to enquiries, and/or other requests or questions.
+  * To personalize your experience your information helps us to better respond to your individual needs;
+  * To improve customer service: your information helps us to more effectively respond to your customer service requests and support needs;
+  * To process transactions
+  * To send periodic emails: The email address you provide may be used to send you information, respond to enquiries, and/or other requests or questions.
 
-  
 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the product or service requested.
@@ -61,7 +61,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 #### Your Consent
 
-By using our site, you consent to our [website's privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our website's privacy policy.
 
 #### Changes to our Privacy Policy
 
