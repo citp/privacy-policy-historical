@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tyroneshum.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220192140id_/http%3A//www.tyroneshum.com/blog-archives/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyroneshum.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502223916id_/http%3A//www.tyroneshum.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TyroneShum dot com
+# Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence. 
 
