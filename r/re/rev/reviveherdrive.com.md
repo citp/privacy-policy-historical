@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviveherdrive.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181623id_/http%3A//reviveherdrive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviveherdrive.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502172837id_/http%3A//reviveherdrive.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Personal Life Media
 
@@ -21,3 +21,5 @@ Know the sites your kids are visiting and which sites are appropriate.
 Look for Web site privacy policies. Know how your child’s information is treated.
 
 Unsubscribe from PersonalLifeMedia.com’s email list by clicking on the “unsubscribe” button on the bottom of any email.
+
+[](http://reviveherdrive.com/)
