@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jcpenney.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019021618id_/http%3A//www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpenney.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502092240id_/http%3A//www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
 
-# jcp | privacy policy
+# privacy policy - jcpenney
 
 ####  J. C. Penney Corporation, Inc. Privacy Policy (rev. 08/22/12)  
   
@@ -204,7 +204,7 @@ Accepting cookies through your web browser is your personal choice. If you use t
 
 **coremetrics –  **Coremetrics **** furnishes services to jcpenney that assist in the collection and analysis of your browsing and buying activity on jcp.com.  To perform some of these analytical services, Coremetrics collects information from a cookie placed by jcp.com.  You may choose to opt-out from this data collection.  Your choices with respect to this data collection are set forth below.  The Anonymous Visitor setting will apply to you unless you choose to opt-out. 
 
-> **_anonymous visitor_** setting allows Coremetrics to anonymously capture your basic site actions and to include the data in Coremetrics™ reporting. All actions are grouped within metrics for all other anonymous visitors. Anonymous visitors, [click here](http://www88.jcpenney.com/privacy/anonymous.html?cookie=anonymous&act=anonymous&). 
+> **_anonymous visitor_** setting allows Coremetrics to anonymously capture your basic site actions and to include the data in Coremetrics™ reporting. All actions are grouped within metrics for all other anonymous visitors. Anonymous visitors, [click here](http://www88.jcpenney.com/privacy/privacy_handler.php?dest=http://www88.jcpenney.com/privacy/anonymous.html&act=anonymous). 
 > 
 >   
 >  _**total opt-out**_. Your data is not collected by Coremetrics™ data collection front-end servers, and consequently is not included in Coremetrics™ reporting. To opt-out, [click here](http://www88.jcpenney.com/privacy/privacy_handler.php?dest=http://www88.jcpenney.com/privacy/optout.html&act=opt_out). 
