@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the letters-home.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010141715id_/http%3A//www.letters-home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letters-home.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502041708id_/http%3A//www.letters-home.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sample Letters
-
-## Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@letters-home.com.
 
@@ -17,3 +15,12 @@ Our advertising partners include ……. Google Adsense These third-party ad ser
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.letters-home.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 [**Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.**](http://www.google.com/privacy/ads/)
+
+#### Top Sample Letters terms:
+
+  * [sample opt out letter for multiple parties](http://www.letters-home.com/search/sample-opt-out-letter-for-multiple-parties/ "sample opt out letter for multiple parties")
+  * [how to word a privacy policy letter](http://www.letters-home.com/search/how-to-word-a-privacy-policy-letter/ "how to word a privacy policy letter")
+  * [opt-out Use of Personal Data sample letter](http://www.letters-home.com/search/opt-out-use-of-personal-data-sample-letter/ "opt-out Use of Personal Data sample letter")
+  * [Privacy Policy Letter](http://www.letters-home.com/search/privacy-policy-letter/ "Privacy Policy Letter")
+
+
