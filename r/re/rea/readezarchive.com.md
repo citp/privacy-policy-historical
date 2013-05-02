@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the readezarchive.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212234938id_/http%3A//www.readezarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readezarchive.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002940id_/http%3A//www.readezarchive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ReadEZArchive.com
-
-## Privacy Policy
+# Privacy Policy |
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
