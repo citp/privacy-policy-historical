@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010073636id_/http%3A//www.nanorep.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502125000id_/http%3A//www.nanorep.com/Privacy) for the most accurate reproduction.*
 
-# Help Desk Software | Self-Learning Customer Support Solution with ticketing system | nanorep.com
+# Our Privacy Policy | nanoRep
 
 The term "nanoRep" or "us" or "we" refers to 'nanoRep Technologies LTD.', the owner of the website whose registered office is in Tel-Aviv, Israel. This privacy policy sets out how nanoRep uses and protects any information that you give nanoRep when you use this website. nanoRep is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy policy. nanoRep may change its policy from time to time, without notice, by updating this page. You should check this page from time to time to ensure that you are happy with any changes. You continued use signifies your acceptance to any change in this policy. This policy is effective from 1-Dec-2008.
 
