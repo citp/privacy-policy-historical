@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdad.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015082822id_/http%3A//www.greatdad.com/tertiary/253/344/greatdad-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdad.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502204018id_/http%3A//www.greatdad.com/tertiary/253/344/greatdad-privacy-policy.html) for the most accurate reproduction.*
 
 # GreatDad Privacy Policy
 
