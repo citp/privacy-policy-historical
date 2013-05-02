@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232143id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502134049id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
 
 # Rent-A-List - Online Targeted Lists, Solo Advertising And Email Marketing Company
 
