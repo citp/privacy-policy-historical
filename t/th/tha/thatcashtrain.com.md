@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatcashtrain.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026174901id_/http%3A//www.thatcashtrain.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatcashtrain.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502220315id_/http%3A//www.thatcashtrain.com/privacy.php) for the most accurate reproduction.*
 
 # That Cash Train
 
