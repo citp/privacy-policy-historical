@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterer.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223070259id_/http%3A//smarterer.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterer.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502114932id_/http%3A//smarterer.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smarterer
 
@@ -58,6 +58,10 @@ Notice of all changes that materially affect ways in which your personal informa
 Personal information you provide will be secured with industry standards and technology. Since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Smarterer. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times.
+
+###### U.S.-EU Safe Harbor.
+
+Smarterer, Inc. complies with the U.S.-EU Safe Harbor Framework (see below for details)
 
 ###### How to contact us.
 
@@ -160,6 +164,10 @@ _Changes to this Privacy Policy._ We may update this Privacy Policy at any time,
 ###### Security.
 
 In order to help secure your personal information, access to your data on Smarterer is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the Smarterer website. To protect any data you store on our servers, Smarterer also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Smarterer. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. 
+
+###### Safe Harbor Update, April 1, 2013
+
+Smarterer, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Smarterer has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Smarterer's certification, please visit <http://www.export.gov/safeharbor/>
 
 ###### How to contact us.
 
