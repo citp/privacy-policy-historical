@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimb.ernet.in privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231175259id_/http%3A//www.iimb.ernet.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimb.ernet.in privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502230144id_/http%3A//iimb.ernet.in/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Institute of Management Bangalore
 
