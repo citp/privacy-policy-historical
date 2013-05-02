@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevergizmos.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920012701id_/http%3A//clevergizmos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevergizmos.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502034812id_/http%3A//clevergizmos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
