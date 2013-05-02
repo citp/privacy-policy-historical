@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficpuck.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230200214id_/http%3A//www.trafficpuck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficpuck.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502073114id_/http%3A//www.trafficpuck.com/privacy.php) for the most accurate reproduction.*
 
 # TrafficPuck.com
 
@@ -27,4 +27,4 @@ Financial information is used solely to bill the user for products and/or servic
   
 ---|---|---  
   
-© 2012 TrafficPuck.com
+© 2012-13 TrafficPuck.com
