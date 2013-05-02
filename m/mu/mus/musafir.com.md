@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231035159id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502080754id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -85,7 +85,7 @@ Ibn Zaydoon Street
 Umm Al Tarafa, Rolla  
 Post box 62425  
 Sharjah, United Arab Emirates  
-Phone: +971 6 535 2120  
+Phone: +971 6 516 6666  
 Fax: +971 6 534 3338
 
 Revised May 22, 2011.
