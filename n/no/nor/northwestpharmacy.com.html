@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the northwestpharmacy.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004103009id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northwestpharmacy.com privacy policy that was archived on 2013-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502131934id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	NorthWestPharmacy.com
@@ -151,35 +151,56 @@ EO815.r.handlerUrl='/eo_web.ashx';
         padding-right: 10px;
     }
 </style>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35150533-1']);
-  _gaq.push(['_trackPageview']);
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-35150533-1']);
+    _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 
 </script>
-
 <!-- Place this render call where appropriate -->
 <script type="text/javascript">
     (function () {
         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
         po.src = 'https://apis.google.com/js/plusone.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-    })();</script>
+    })();
+
+    $(document).ready(function () {
+
+        /*---------------- Check The Savings Popup Coding ------------------------*/
+
+        $('#CTSPopup').hide();
+
+        $('a.CTSTrigger').click(function () {
+            $('#CTSPopup').fadeIn("slow");
+            var winH = $(window).height();
+            var popH = $('#CTSBody').height();
+            var newMargin = Math.round(((winH - popH) / 2) - 40);
+            $('#CTSBody').css("margin-top", newMargin);
+            return false;
+        });
+        $('a#CTSClose').click(function () {
+            $('#CTSPopup').fadeOut("fast");
+            return false;
+        });
+    });
+        
+</script>
 
 <h1>
-    <div style="height: 25px; display:block; width: 800px; margin: 0 auto; background: #ffffff;">
-        <div style="height: 25px; float: left; padding-right:10px;">
+    <div style="height: 25px; display: block; width: 800px; margin: 0 auto; background: #ffffff;">
+        <div style="height: 25px; float: left; padding-right: 10px;">
             <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.northwestpharmacy.com&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px;
                 height: 21px;" allowtransparency="true"></iframe>
         </div>
-        <div style="height: 25px; float: left; padding-right:10px;">
+        <div style="height: 25px; float: left; padding-right: 10px;">
             <!-- Place this tag where you want the +1 button to render -->
             <g:plusone size="medium"></g:plusone>
         </div>
@@ -202,21 +223,50 @@ EO815.r.handlerUrl='/eo_web.ashx';
             target="_blank">
             <img src="http://www.northwestpharmacy.com/img/nwp-victoryBanner.gif" alt="Stay Informed" style="border-width: 0px" /></a></div>
    -->
-
-<span class="cipa">
-	<a href="#" onclick="javascript: window.open('http://www.cipa.com/member/northwestpharmacy.com');">
-        <img src="img/Cipa.gif" id="CtrlHeader1_Img1" border="0"></a>
-</span>
-
+    <span class="cipa"><a href="#" onclick="javascript: window.open('http://www.cipa.com/member/northwestpharmacy.com');">
+        <img src="img/Cipa.gif" id="CtrlHeader1_Img1" border="0"></a> </span>
     <span class="ipabc">
         <img src="img/IPABC.gif" id="CtrlHeader1_Img2" border="0"></span> <span class="eTrust">
             <a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.northwestpharmacy.com/seal_s" title="TRUSTe online privacy certification" target="_blank">
-                <img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.northwestpharmacy.com/seal_s.png" alt="TRUSTe online privacy certification"></a> </span><span class="security">
-
-<a href="#">
-                        <img src="https://www.securitymetrics.com/images/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a></span> <span class="pharmacychecker"><a href="#" onclick="javascript: window.open('http://www.pharmacychecker.com/ProfileRx.asp?PCID=P17441504','pc','scrollbars=1,toolbar=1,menubar=1,address=1,status=1,resizable=1,width=440, height=' + screen.height * .70 + '');">
+                <img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.northwestpharmacy.com/seal_s.png" alt="TRUSTe online privacy certification"></a> </span><span class="security"><a href="#">
+                        <img src="https://www.securitymetrics.com/images/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a></span> <span class="pharmacychecker"><a href="#" onclick="javascript: window.open('http://www.pharmacychecker.com/ProfileRx.asp?PCID=B11C7509-0CCC-4C4A-8BAF-237B1AA5914D','pc','scrollbars=1,toolbar=1,menubar=1,address=1,status=1,resizable=1,width=440, height=' + screen.height * .70 + '');">
                                 <img src="img/PharmacyChecker.gif" id="CtrlHeader1_imgPharmacyChecker" border="0" height="50"></a></span><span class="mcafee"><a name="trustlink" href="http://secure.trust-guard.com/certificates/6418" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Business Verified Seal" style="border: 0;" src="https://c674753.ssl.cf2.rackcdn.com/business-6418-mini.gif"></a></span>
 </h1>
+<div id="CTSWrap" style="width: 100%; height: 0px; display: block; overflow: hidden;
+    position: relative;">
+    <div id="CTSPopup" style="background: url(img/fadedbg.png) repeat 0 0; width: 100%; display:none;
+        height: 100%; top: 0px; right: 0px; bottom: 0px; left: 0px; position: fixed;
+        z-index: 9999;">
+        <div id="CTSBody" style="width: 640px; background: #fff; padding: 30px; margin: 0 auto; text-align:left;">
+            <h2 style="color: #800000;">
+                CHECK THE SAVINGS – PAY BY CHECK FOR YOUR ORDER AND SAVE EVEN MORE!</h2>
+            <strong style="font-size: 17px; line-height: 30px;">What is CHECK THE SAVINGS?</strong><br>
+            CHECK THE SAVINGS is a promotion that allows our customers to save even more by
+            paying for their order with a check instead of using their credit cards. <span style="color: #800000;">
+                *</span><br>
+            <br>
+            <strong style="font-size: 17px; line-height: 30px;">How does it work?</strong><br>
+            It’s simple! On the final checkout screen, choose the Check option as the payment
+            method and you will instantly receive a 2.5% discount on your total order value
+            (before shipping). Then, mail your check and once we receive your check by mail,
+            we will process and ship your order.
+            <br>
+            <br>
+            <strong style="font-size: 17px; line-height: 30px;">Are there any other advantages to
+                paying by check?</strong><br>
+            Yes, please be aware that an international transaction fee may be charged when using
+            a credit or debit card. This fee is charged by some banks and credit card companies,
+            even though the transaction is in US dollars. It is a fee that most customers are
+            not even aware of and is generally hidden in the fine print of the credit card company’s
+            terms and conditions. To avoid incurring this fee, you can simply pay by check.<br>
+            <br>
+            <span style="color: #800000;">*&nbsp;<span style="text-decoration: underline;">This
+                promotion may be amended or cancelled at any time.</span></span>
+            <div style="display: block; text-align: right;">
+                <a style="text-decoration:underline;" id="CTSClose" href="#">Close Window</a></div>
+        </div>
+    </div>
+</div>
 
                 </td>
             </tr>
@@ -271,6 +321,22 @@ EO815.r.handlerUrl='/eo_web.ashx';
                         <div id="CtrlVerticalNav1_UpdatePanel1">
 	
                                 
+<style type="text/css">
+.btnNormal
+    {
+        background:#800000;
+        color:#ffffff;
+        text-transform:uppercase;
+        font-size:14px;
+        padding:0px 10px;
+	line-height:26px;
+        border-style:none;
+    }
+.btnNormal:hover
+    {
+       background:#660000;
+    }
+</style>
 <table border="0" cellpadding="0" cellspacing="0" style="background-color: #527EC5">
     <tbody><tr>
         <td style="height: 5px">
@@ -297,11 +363,15 @@ EO815.r.handlerUrl='/eo_web.ashx';
             <span id="CtrlVerticalNav1_CtrlRunningShoppingCart1_lblCartEmpty"><font color="White">Cart is currently empty</font></span>
             <br>
             
+            
         </td>
     </tr>
 </tbody></table>
                             
 </div>
+                        <div style="display:block; padding-left:10px; padding-top:20px;">
+                        <a class="CTSTrigger" href="#"><img style="border-style:none;" src="img/CTS-button.jpg" alt=""></a>
+                        </div>
                     </td>
                 </tr>
                 <tr>
@@ -383,7 +453,7 @@ EO815.g.d.k("ldr|i|fmt|u|pop|ei|nv|m", function(){EO815.g.b.CtrlVerticalNav1_mnu
 </table>
 <script type="text/javascript">
 //<![CDATA[
-EO815.g.d.k("ldr|i|fmt|u|pop|ei|nv|m", function(){EO815.g.b.CtrlVerticalNav1_Menu2=1;EO815.r._o_CtrlVerticalNav1_Menu2=EO815.f.abo(EO815.r._o_CtrlVerticalNav1_Menu2,"Menu2",new EO815.f.aaah([[[[,"CtrlVerticalNav1_Menu2","Menu","CtrlVerticalNav1$Menu2",,,,,,,"__doPostBack(\'CtrlVerticalNav1$Menu2\',\'_eo_arg_\')"],,,,,,,,,[]],0,0,,new EO815.f.aabp([[,42,,new EO815.f.aadp([[[,,new EO815.f.agq([,new EO815.f.aabp([[,1,"Meds For Pets",new EO815.f.aadp([[[,0]]]),,,,new EO815.f.bpc([,"eo_css_ctrl_CtrlVerticalNav1_Menu22","eo_css_ctrl_CtrlVerticalNav1_Menu23"])]]),new EO815.f.aabp([[,1,"Why Choose Generic?",new EO815.f.aadp([[[,0]]]),,,,new EO815.f.bpc([,"eo_css_ctrl_CtrlVerticalNav1_Menu22","eo_css_ctrl_CtrlVerticalNav1_Menu23"])]]),new EO815.f.aabp([[,1,"Accepted Payments",new EO815.f.aadp([[[,0]]]),,,,new EO815.f.bpc([,"eo_css_ctrl_CtrlVerticalNav1_Menu22","eo_css_ctrl_CtrlVerticalNav1_Menu23"])]]),new EO815.f.aabp([[,1,"Shipping Information",new EO815.f.aadp([[[,0]]]),,,,new EO815.f.bpc([,"eo_css_ctrl_CtrlVerticalNav1_Menu22","eo_css_ctrl_CtrlVerticalNav1_Menu23"])]])])],,,2]]),,,,new EO815.f.bpc([,,,,,,,,"eo_css_ctrl_CtrlVerticalNav1_Menu21"])]])],,,,,,"",""]),"Menu");EO815.f.agp(EO815.r._o_CtrlVerticalNav1_Menu2,1,null, 0);});
+EO815.g.d.k("ldr|i|fmt|u|pop|ei|nv|m", function(){EO815.g.b.CtrlVerticalNav1_Menu2=1;EO815.r._o_CtrlVerticalNav1_Menu2=EO815.f.abo(EO815.r._o_CtrlVerticalNav1_Menu2,"Menu2",new EO815.f.aaah([[[[,"CtrlVerticalNav1_Menu2","Menu","CtrlVerticalNav1$Menu2",,,,,,,"__doPostBack(\'CtrlVerticalNav1$Menu2\',\'_eo_arg_\')"],,,,,,,,,[]],0,0,,new EO815.f.aabp([[,42,,new EO815.f.aadp([[[,,new EO815.f.agq([,new EO815.f.aabp([[,1,"Meds For Pets",new EO815.f.aadp([[[,0]]]),,,,new EO815.f.bpc([,"eo_css_ctrl_CtrlVerticalNav1_Menu22","eo_css_ctrl_CtrlVerticalNav1_Menu23"])]]),new EO815.f.aabp([[,1,"Accepted Payments",new EO815.f.aadp([[[,0]]]),,,,new EO815.f.bpc([,"eo_css_ctrl_CtrlVerticalNav1_Menu22","eo_css_ctrl_CtrlVerticalNav1_Menu23"])]]),new EO815.f.aabp([[,1,"Shipping Information",new EO815.f.aadp([[[,0]]]),,,,new EO815.f.bpc([,"eo_css_ctrl_CtrlVerticalNav1_Menu22","eo_css_ctrl_CtrlVerticalNav1_Menu23"])]])])],,,2]]),,,,new EO815.f.bpc([,,,,,,,,"eo_css_ctrl_CtrlVerticalNav1_Menu21"])]])],,,,,,"",""]),"Menu");EO815.f.agp(EO815.r._o_CtrlVerticalNav1_Menu2,1,null, 0);});
 //]]>
 </script>
 
@@ -402,118 +472,127 @@ EO815.g.d.k("ldr|i|fmt|u|pop|ei|nv|m", function(){EO815.g.b.CtrlVerticalNav1_Men
                 </tr>
             </tbody></table>
             <br>
+
+<!--
+
             <table border="0" cellpadding="0" cellspacing="0" style="border-right: #4fab52 1px;
                 border-top: #4fab52 1px; border-left: #4fab52 1px; width: 181px; border-bottom: #4fab52 1px">
-                <tbody><tr>
+                <tr>
                     <td style="width: 200px">
                         <table border="0" cellpadding="5" cellspacing="0" style="width: 100%">
-                            <tbody><tr>
+                            <tr>
                                 <td style="background-color: #B5CCEE;" align="center">
                                     <strong style="color: #800000; font-family: 'Times New Roman'; font-size: 14px; text-align: center;">
                                         CANADIAN PRESCRIPTIONS DISPENSED FROM CANADA* BY</strong>
                                 </td>
                             </tr>
-                        </tbody></table>
+                        </table>
                     </td>
                 </tr>
                 <tr>
                     <td style="width: 181px">
                         <table border="0" cellpadding="5" cellspacing="0" style="width: 100%; color: #fff;">
-                            <tbody><tr>
+                            <tr>
                                 <td style="width: 5px">
                                 </td>
                                 <td align="left">
-                                    <span style="font-size: 11pt">Pharmawest Pharmacy<br>
-                                        Unit #101 20560 56th Ave<br>
-                                        Langley, BC, Canada<br>
-                                        V3A 3Y8<br>
+                                    <span style="font-size: 11pt">Pharmawest Pharmacy<br />
+                                        Unit #101 20560 56th Ave<br />
+                                        Langley, BC, Canada<br />
+                                        V3A 3Y8<br />
                                         
-                                        <br>
-                                        Pharmawest Pharmacy License Number: 18978<br>
-                                        <br>
+                                        <br />
+                                        Pharmawest Pharmacy License Number: 18978<br />
+                                        <br />
                                         (*Not all prescriptions supplied by Pharmawest.)</span>
                                 </td>
                             </tr>
-                        </tbody></table>
+                        </table>
                     </td>
                 </tr>
-            </tbody></table>
-            <br>
+            </table>
+            <br />
             <table border="0" cellpadding="0" cellspacing="0" style="border-right: #4fab52 1px;
                 border-top: #4fab52 1px; border-left: #4fab52 1px; width: 181px; border-bottom: #4fab52 1px">
-                <tbody><tr>
+                <tr>
                     <td style="width: 200px">
                         <table border="0" cellpadding="5" cellspacing="0" style="width: 100%;">
-                            <tbody><tr>
+                            <tr>
                                 <td style="background-color: #B5CCEE" align="center">
                                     <strong style="color: #800000; font-size: 14px; font-family: 'Times New Roman';">CANADIAN
                                         PHARMACY MANAGER</strong>
                                 </td>
                             </tr>
-                        </tbody></table>
+                        </table>
                     </td>
                 </tr>
                 <tr>
                     <td style="width: 200px">
                         <table border="0" cellpadding="5" cellspacing="0" style="width: 100%; color: #fff;">
-                            <tbody><tr>
+                            <tr>
                                 <td style="width: 5px">
                                 </td>
                                 <td align="left">
                                     <span style="font-size: 11pt">A. Bhangu</span>
                                 </td>
                             </tr>
-                        </tbody></table>
+                        </table>
                     </td>
                 </tr>
-            </tbody></table>
-            <br>
+            </table>
+            <br />
             <table border="0" cellpadding="0" cellspacing="0" style="border-right: #4fab52 1px;
                 border-top: #4fab52 1px; border-left: #4fab52 1px; width: 181px; border-bottom: #4fab52 1px">
-                <tbody><tr>
+                <tr>
                     <td style="width: 200px">
                         <table border="0" cellpadding="5" cellspacing="0" style="width: 100%">
-                            <tbody><tr>
+                            <tr>
                                 <td style="background-color: #B5CCEE;" align="center">
                                     <strong style="color: #800000; font-size: 14px; font-family: 'Times New Roman';">LICENSING
                                         BODY OF CANADIAN PHARMACY</strong>
                                 </td>
                             </tr>
-                        </tbody></table>
+                        </table>
                     </td>
                 </tr>
                 <tr>
                     <td style="width: 200px">
                         <table border="0" cellpadding="5" cellspacing="0" style="width: 100%; color: #fff;">
-                            <tbody><tr>
+                            <tr>
                                 <td style="width: 5px; height: 71px">
                                 </td>
                                 <td style="height: 71px" align="left">
-                                    <span style="font-size: 11pt">College of Pharmacists<br>
-                                        of British Columbia<br>
-                                        <br>
-                                        If you should have any questions or concerns, you may contact the College.<br>
-                                        <br>
-                                        The College is located at:<br>
-                                        200-1765 West 8th Ave<br>
+                                    <span style="font-size: 11pt">College of Pharmacists<br />
+                                        of British Columbia<br />
+                                        <br />
+                                        If you should have any questions or concerns, you may contact the College.<br />
+                                        <br />
+                                        The College is located at:<br />
+                                        200-1765 West 8th Ave<br />
                                         Vancouver, BC, V6J 5C6</span>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                <br>
+                                <br />
                                 </td>
                             </tr>
-                        </tbody></table>
+                        </table>
                     </td>
                 </tr>
                 <tr>
                     <td style="padding-top:5px; padding-bottom:5px; background: #6da6ff;" align="center">
                         <a href="http://www.rxrights.org/take-action" target="_blank">
-                            <img style="border-style: none;" alt="Act Now!" src="/img/left-TakeAction-Banner.gif"></a>
+                            <img style="border-style: none;" alt="Act Now!" src="/img/left-TakeAction-Banner.gif" /></a>
                     </td>
                 </tr>
-            </tbody></table>
+            </table>
+
+-->
+		<div style="padding:5px; background: #6da6ff;">
+                        <a href="http://www.rxrights.org/take-action" target="_blank">
+                            <img style="border-style: none;" alt="Act Now!" src="/img/left-TakeAction-Banner.gif"></a>
+                </div>
         </td>
     </tr>
     
@@ -769,7 +848,9 @@ CANADA
 	        <a href="http://www.northwestpharmacy.com/Buy_Juvederm.aspx">Juvederm</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 	        <a href="http://www.northwestpharmacy.com/Buy-Effexor-XR.aspx">Effexor XR</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 	        <a href="http://www.northwestpharmacy.com/Buy-Hyalgan.aspx">Hyalgan</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="http://www.northwestpharmacy.com/Buy-Motilium-Online.html">Motilium</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<!--            <a href="http://www.northwestpharmacy.com/Buy-Motilium-Online.html">Motilium</a>&nbsp;&nbsp;|&nbsp;&nbsp;-->
+
             <a href="http://www.northwestpharmacy.com/Buy-Lipitor.aspx">Lipitor</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.northwestpharmacy.com/Buy-Mirena.aspx">Mirena</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.northwestpharmacy.com/Buy-Orthovisc.aspx">Orthovisc</a>&nbsp;&nbsp;|&nbsp;&nbsp;
