@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigers-connect.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608113916id_/http%3A//tigers-connect.com/%28S%28wkegdwm3hla1omudjca14h45%29%29/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigers-connect.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503044904id_/http%3A//tigers-connect.com/%28S%28v4ipeqnjcnk44r55m04bam55%29%29/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Tigers Connect-Privacy Policy
 
