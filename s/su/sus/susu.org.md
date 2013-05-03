@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012958id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503022704id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # SUSU - About - Privacy Policy
 
@@ -24,9 +24,34 @@ The SUSU.ORG website runs on web servers which compiles log files of visitors wh
 
 ### Use of Cookies. 
 
-The SUSU.ORG network of web sites uses cookies to store your log-in information (username, email, and encrypted password) on your local machine. This allows you to stay logged in at all of the SUSU.ORG network websites. When you log out the cookie is deleted.
+The SUSU.ORG network of websites use cookies. A cookie is a small file of letters and numbers that a website transfers to the cookie file on your computer’s hard disk. These cookies help us to provide a tailored experience when browsing our websites and to make improvements.
 
-You should be aware, however, that advertisers that we sometimes display ads on our site, and websites which are linked to by the SUSU.ORG website, including our e-commerce storefront, may cause cookies to be placed on your computer for various reasons. These cookies are used by the advertisers running the advertisements or by the websites we have linked to. SUSU does not have access to the information obtained from these cookies. 
+Cookie| Purpose| Expiry  
+---|---|---  
+SUSU_ID | Determines whether a user is logged in, and allows the website to permit access to certain information | 1 year  
+unionuser | Legacy cookie from older parts of susu.org, used for login | 2 months  
+_utma | Google analytics cookie - determines unique visitor to our site | 2 years from set/update.  
+_utmb | Google analytics cookie - tracks the time spent and pages viewed on our site  | 30 minutes from set/update.  
+_utmc | Legacy Google analytics cookie | N/A  
+_utmz | Google analytics cookie - tracks how you were referred to our site | 6 months from set/update  
+  
+We use session cookies on our sites. These are temporary cookies that remain in the cookie file on your computer until you close your browser, at which point they are deleted. They allow websites to link the actions of a user during a browser session.
+
+For example, we use session cookies to allow us to recognize and count the number of visitors and to see how they move around the site. 
+
+We also use persistent cookies on our sites. These remain on your hard drive until you erase them or they expire. Persistent cookies allow the preferences or actions of a user on the website to be remembered across browser sessions. 
+
+For example, we use persistent cookies to store your log-in information (username, email and encrypted password) on your local machine. This allows you to stay logged in to all of the SUSU.ORG network websites. When you log out, the cookie is deleted.
+
+Advertisers that we allow to display ads on our site and websites which are linked to by the SUSU.ORG website (including our e-commerce storefront) may also cause cookies to be placed on your computer for various reasons. These cookies are used by the advertisers running the advertisements or by the websites we have linked to. SUSU does not have access to the information obtained from these cookies.
+
+To help us improve our sites we also use Google Analytics to track usage. Google Analytics provide us with statistical information, such as, which pages on our website are visited most frequently and how long visitors spend on them. None of the information can be traced to an individual - we do not know who you are, merely that there are a certain number of people using the website. 
+
+For more information about how Google Analytics collects data, please read their privacy policy at: <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>
+
+The web browsers of most computers are initially set up to accept cookies. If you prefer, you can set your web browser to disable cookies or to inform you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer's cookie file. 
+
+If you choose to withdraw consent for use of our cookies on your computer, please note this will impact your experience on using our site. This includes, but is not limited to, being unable to use online nominations and voting systems, use of the online box office / shop and access to information about your specific academic representatives.
 
 ### Information Gathered by E-Commerce. 
 
