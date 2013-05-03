@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flabell.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102085003id_/http%3A//www.flabell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flabell.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503103510id_/http%3A//www.flabell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
