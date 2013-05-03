@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumproductsonline.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031095243id_/http%3A//premiumproductsonline.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14850%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumproductsonline.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503191342id_/http%3A//premiumproductsonline.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14850%26gift%3D71) for the most accurate reproduction.*
 
 # Premiumproductsonline
 
