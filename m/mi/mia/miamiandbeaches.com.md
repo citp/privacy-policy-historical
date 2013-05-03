@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231054455id_/http%3A//miamiandbeaches.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503074636id_/http%3A//www.miamiandbeaches.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Article: Privacy Policy
 
 GMCVB Privacy Policy 
 
