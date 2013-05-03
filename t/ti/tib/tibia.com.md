@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054603id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503033805id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Tibia - Free Multiplayer Online Role Playing Game - Support
 
-CipSoft GmbH, Gabelsbergerstrasse 11, 93047 Regensburg, Germany (referred to herein as "CipSoft") respects the privacy rights of all users and is aware of the importance of protecting stored personal data. Substantial organisational and technical measures have been taken to ensure the security of all personal data that is collected. This privacy policy explains in detail which information is collected and for which purposes it can be processed and used. 
+CipSoft GmbH, Prüfeninger Straße 20, 93049 Regensburg, Germany (referred to herein as "CipSoft") respects the privacy rights of all users and is aware of the importance of protecting stored personal data. Substantial organisational and technical measures have been taken to ensure the security of all personal data that is collected. This privacy policy explains in detail which information is collected and for which purposes it can be processed and used. 
 
   1. CipSoft collects, processes and uses personal data for the conclusion and execution of a user's service agreement with CipSoft. Personal data comprises stock data such as name, address and date of birth of a user as well as usage data such as account number, password and IP address.
   
