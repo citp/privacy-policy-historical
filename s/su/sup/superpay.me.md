@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the superpay.me privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003030533id_/http%3A//superpay.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpay.me privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503073946id_/http%3A//superpay.me/privacy) for the most accurate reproduction.*
 
 # SuperPay.Me - Privacy Policy
 
-Privacy Policy
+Privacy Policy 
 
 The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. 
 
