@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101232246id_/http%3A//www.mnscu.edu/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503073311id_/http%3A//www.mnscu.edu/aboutus/privacy.html) for the most accurate reproduction.*
 
-# Online privacy statement: Minnesota State Colleges and Universities
+# Minnesota State Colleges and Universities - MnSCU privacy statement
 
-Minnesota State Colleges and Universities is firmly committed to maintaining appropriate data privacy; our data gathering and dissemination are governed by state and federal laws, including the[Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](http://www.revisor.leg.state.mn.us/stats/13/). The following discloses our data practices policy for all Minnesota State Colleges and Universities System Office websites.
+Minnesota State Colleges and Universities is firmly committed to maintaining appropriate data privacy; our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](http://www.revisor.leg.state.mn.us/stats/13/). The following discloses our data practices policy for all Minnesota State Colleges and Universities System Office websites.
 
 For security purposes and to ensure that system office websites remain available to all users, we use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
@@ -16,9 +16,9 @@ The information you provide will be available to Minnesota State Colleges and Un
 
 We store only the following information: 
 
-  * the IP address from which you access the internet 
+  * the IP address from which you access the Internet 
   * the date and time you visit our site 
-  * the internet address of the web site from which you direct-linked to our site 
+  * the Internet address of the web site from which you direct-linked to our site 
   * the web pages on our site that you visit 
   * the browser you use to access our site
 
@@ -26,6 +26,6 @@ We store only the following information:
 
 We use this information to determine the number of visitors to the site and to different sections of the site, to monitor system performance, to assess technical design requirements, and to design our site to support our users' needs. We only analyze the above information in aggregate; we cannot and do not use the information in our server logs to identify an individual.
 
-If you wish to visit our site anonymously, there are services for this available on the internet. For more information, search for "anonymous web surfing" using your favorite internet search engine or directory.
+If you wish to visit our site anonymously, there are services for this available on the Internet. For more information, search for "anonymous web surfing" using your favorite Internet search engine or directory.
 
 If you have further questions related to data privacy, please contact us at [websupport@so.mnscu.edu](mailto:websupport@so.mnscu.edu).
