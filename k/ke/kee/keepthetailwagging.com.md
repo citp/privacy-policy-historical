@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keepthetailwagging.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103093546id_/http%3A//www.keepthetailwagging.com/keep-the-tail-wagging-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepthetailwagging.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504003207id_/http%3A//www.keepthetailwagging.com/keep-the-tail-wagging-privacy-policy) for the most accurate reproduction.*
 
-# Keep the Tail Wagging Privacy Policy - Keep the Tail Wagging, An Online Magazine for Dog Lovers
+# Keep the Tail Wagging Privacy Policy | Keep the Tail Wagging, An Online Magazine for Dog Lovers
 
 PRIVACY STATEMENT
 
