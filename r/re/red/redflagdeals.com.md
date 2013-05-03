@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102194710id_/http%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504005722id_/http%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RedFlagDeals.com
 
@@ -231,7 +231,7 @@ P.O. Box 2000
 Charlottetown, Prince Edward Island C1A 7N8  
 Telephone: (902) 368-4099  
 Email: [mlsmith@gov.pe.ca](mailto:mlsmith@gov.pe.ca)  
-Website: [www.oipc.pe.ca](https://web.archive.org/web/20121102194710id_/http://www.redflagdeals.com/info/privacy/www.oipc.pe.ca)
+Website: [www.oipc.pe.ca](https://web.archive.org/web/20130504005722id_/http://www.redflagdeals.com/info/privacy/www.oipc.pe.ca)
 
  **Québec**
 
