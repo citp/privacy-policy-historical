@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efulfillmentservice.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031135857id_/http%3A//www.efulfillmentservice.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efulfillmentservice.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503034847id_/http%3A//www.efulfillmentservice.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies
+# Privacy Policies | eFulfillment Service, Inc.
 
 eFulfillment Service respects and understands our clients’ need for and right to privacy and security of information.
 
