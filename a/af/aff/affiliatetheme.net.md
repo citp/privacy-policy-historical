@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetheme.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125073922id_/http%3A//www.affiliatetheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetheme.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503082621id_/http%3A//www.affiliatetheme.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Affiliate Theme
 
@@ -67,7 +67,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.affiliatetheme.net/terms-and-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.affiliatetheme.net/terms-conditions/>
 
 **Your Consent**
 
@@ -83,8 +83,10 @@ This policy was last modified on March 10, 2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Unique Blog Designs  
-28150 N. Alma School Pkwy. #103-438  
-Scottsdale, Arizona 85262  
+Ultragalactic Corporation  
+6709 Greenleaf Ave  
+Suite 215  
+Whittier, CA 90601  
 United States of America  
-contact@uniqueblogdesigns.com
+(323) 680-4450  
+info@Ultragalactic.com
