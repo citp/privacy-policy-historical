@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musclehunks.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230235837id_/http%3A//musclehunks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclehunks.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503130239id_/http%3A//musclehunks.com/privacy.html) for the most accurate reproduction.*
 
 # Muscle Men and Male Bodybuilders
 
