@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sponsoredgiveaways.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109113007id_/http%3A//www.sponsoredgiveaways.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sponsoredgiveaways.com privacy policy that was archived on 2013-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503080305id_/http%3A//www.sponsoredgiveaways.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy : Sponsored Giveaways
@@ -14,117 +14,128 @@
     <div class="page">
 		<!-- navigation -->
 		   
-    <link href="/Styles/all.css?ver=1112" rel="stylesheet" type="text/css">
-    <script src="/Javascript/jquery-1.6.2.min.js" type="text/javascript"></script>
-    <script src="/Javascript/jquery-ui-1.8.20.custom.min.js" type="text/javascript"></script>
-    <script src="/Javascript/Common.js?ver=1112" type="text/javascript"></script>
-    <link href="/css/ui-lightness/jquery-ui-1.8.20.customtmp.css" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="/favicon.ico">
-     <!--[if IE 6]><link rel="stylesheet" href="/Styles/ie6.css" /><![endif]-->
-     <!--[if (lt IE 8)]>
+<link href="/Styles/all.css?ver=1111" rel="stylesheet" type="text/css">
+<link href="/Styles/NewlyAdded.css?ver=1111" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Javascript/jquery-1.6.2.min.js" type="text/javascript"></script>
+
+<script src="/Javascript/jquery-ui-1.8.20.custom.min.js" type="text/javascript"></script>
+
+<script src="/Javascript/Common.js?ver=1111" type="text/javascript"></script>
+
+<link href="/css/ui-lightness/jquery-ui-1.8.20.customtmp.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico">
+<!--[if IE 6]><link rel="stylesheet" href="/Styles/ie6.css" /><![endif]-->
+<!--[if (lt IE 8)]>
         <script src="/Javascript/json2.js" type="text/javascript"></script>
      <![endif]-->
-     
-    <script type="text/javascript">
-        function SetStatusBar(conStatus, day, month) {
-            var progressRunning = $('#contestprogressbar .progressbar_top_running');
-            var progressMileStone = $('#contestprogressbar .progressbar_top_milestone');
-            progressMileStone.find('.milestone_date').html(day);
-            progressMileStone.find('.milestone_month').html(month);
-            progressRunning.remove();
-            progressMileStone.remove();
-            progressRunning.show();
-            if (!day == '')
-                progressMileStone.show();
-            $('#contestprogressbar .flowmenu a').removeClass('active');
 
-            switch (conStatus) {
-                case 'init':
-                    $('#divProgressbar_top_init').empty();
-                    $('#divProgressbar_top_accept').empty();
-                    $('#divProgressbar_top_init').append(progressRunning);
-                    $('#divProgressbar_top_accept').append(progressMileStone);
-                    $('#accepted').addClass('active');
-                    break;
-                case 'accept':
-                    $('#divProgressbar_top_accept').empty();
-                    $('#divProgressbar_top_inprog').empty();
-                    $('#divProgressbar_top_accept').append(progressRunning);
-                    $('#divProgressbar_top_inprog').append(progressMileStone);
-                    $('#inprogress').addClass('active');
-                    break;
-                case 'inprogress':
-                    $('#divProgressbar_top_inprog').empty();
-                    $('#divProgressbar_top_finish').empty();
-                    $('#divProgressbar_top_inprog').append(progressRunning);
-                    $('#divProgressbar_top_finish').append(progressMileStone);
-                    $('#finished').addClass('active');
-                    break;
-                case 'finish':
-                    $('#divProgressbar_top_finish').empty();
-                    $('#divProgressbar_top_win').empty();
-                    $('#divProgressbar_top_finish').append(progressRunning);
-                    $('#divProgressbar_top_win').append(progressMileStone);
-                    $('#winners_announced').addClass('active');
-                    break;
-                case 'win':
-                    $('#divProgressbar_top_win').empty();
-                    $('#divProgressbar_top_close').empty();
-                    $('#divProgressbar_top_win').append(progressRunning);
-                    $('#divProgressbar_top_close').append(progressMileStone);
-                    $('#completed').addClass('active');
-                    break;
-                case 'close':
-                    $('#divProgressbar_top_init').empty();
-                    $('#divProgressbar_top_accept').empty();
-                    break;
-                default:
-                    $('#contestprogressbar').hide();
-                    break;
-            }
-            SetStatusBarColor(conStatus);
-        }
+<script type="text/javascript" language="javascript">
+    // Get the wrapper div, and the contained &lt;a&gt; element
+ 
+</script>
 
-        function SetStatusBarColor(conStatus) {
-            switch (conStatus) {
-                case 'close':
-                    $('#divProgressbar_middleEdge_end').removeClass();
-                    $('#divProgressbar_middleEdge_end').addClass('progressbar_middle_inner_greenright');
-                    $('#divProgressbar_middle_end').removeClass();
-                    $('#divProgressbar_middle_end').addClass('progressbar_middle_inner_greenbgedge');
-                    $('#divProgressbar_middleSep_close').removeClass();
-                    $('#divProgressbar_middleSep_close').addClass('progressbar_middle_inner_greendivider');
-                    $('#divProgressbar_middle_close').removeClass();
-                    $('#divProgressbar_middle_close').addClass('progressbar_middle_inner_greenbg');
-                case 'win':
-                    $('#divProgressbar_middleSep_win').removeClass();
-                    $('#divProgressbar_middleSep_win').addClass('progressbar_middle_inner_greendivider');
-                    $('#divProgressbar_middle_win').removeClass();
-                    $('#divProgressbar_middle_win').addClass('progressbar_middle_inner_greenbg');
-                case 'finish':
-                    $('#divProgressbar_middleSep_finish').removeClass();
-                    $('#divProgressbar_middleSep_finish').addClass('progressbar_middle_inner_greendivider');
-                    $('#divProgressbar_middle_finish').removeClass();
-                    $('#divProgressbar_middle_finish').addClass('progressbar_middle_inner_greenbg');
-                case 'inprogress':
-                    $('#divProgressbar_middleSep_inprog').removeClass();
-                    $('#divProgressbar_middleSep_inprog').addClass('progressbar_middle_inner_greendivider');
-                    $('#divProgressbar_middle_inprog').removeClass();
-                    $('#divProgressbar_middle_inprog').addClass('progressbar_middle_inner_greenbg');
-                case 'accept':
-                    $('#divProgressbar_middleSep_accept').removeClass();
-                    $('#divProgressbar_middleSep_accept').addClass('progressbar_middle_inner_greendivider');
-                    $('#divProgressbar_middle_accept').removeClass();
-                    $('#divProgressbar_middle_accept').addClass('progressbar_middle_inner_greenbg');
-                case 'init':
-                    $('#divProgressbar_middleSep_init').removeClass();
-                    $('#divProgressbar_middleSep_init').addClass('progressbar_middle_inner_greendivider');
-                    $('#divProgressbar_middle_init').removeClass();
-                    $('#divProgressbar_middle_init').addClass('progressbar_middle_inner_greenbgedge');
-                default: break;
-            }
+<script type="text/javascript">
+    
+    function SetStatusBar(conStatus, day, month) {
+        var progressRunning = $('#contestprogressbar .progressbar_top_running');
+        var progressMileStone = $('#contestprogressbar .progressbar_top_milestone');
+        progressMileStone.find('.milestone_date').html(day);
+        progressMileStone.find('.milestone_month').html(month);
+        progressRunning.remove();
+        progressMileStone.remove();
+        progressRunning.show();
+        if (!day == '')
+            progressMileStone.show();
+        $('#contestprogressbar .flowmenu a').removeClass('active');
+
+        switch (conStatus) {
+            case 'init':
+                $('#divProgressbar_top_init').empty();
+                $('#divProgressbar_top_accept').empty();
+                $('#divProgressbar_top_init').append(progressRunning);
+                $('#divProgressbar_top_accept').append(progressMileStone);
+                $('#accepted').addClass('active');
+                break;
+            case 'accept':
+                $('#divProgressbar_top_accept').empty();
+                $('#divProgressbar_top_inprog').empty();
+                $('#divProgressbar_top_accept').append(progressRunning);
+                $('#divProgressbar_top_inprog').append(progressMileStone);
+                $('#inprogress').addClass('active');
+                break;
+            case 'inprogress':
+                $('#divProgressbar_top_inprog').empty();
+                $('#divProgressbar_top_finish').empty();
+                $('#divProgressbar_top_inprog').append(progressRunning);
+                $('#divProgressbar_top_finish').append(progressMileStone);
+                $('#finished').addClass('active');
+                break;
+            case 'finish':
+                $('#divProgressbar_top_finish').empty();
+                $('#divProgressbar_top_win').empty();
+                $('#divProgressbar_top_finish').append(progressRunning);
+                $('#divProgressbar_top_win').append(progressMileStone);
+                $('#winners_announced').addClass('active');
+                break;
+            case 'win':
+                $('#divProgressbar_top_win').empty();
+                $('#divProgressbar_top_close').empty();
+                $('#divProgressbar_top_win').append(progressRunning);
+                $('#divProgressbar_top_close').append(progressMileStone);
+                $('#completed').addClass('active');
+                break;
+            case 'close':
+                $('#divProgressbar_top_init').empty();
+                $('#divProgressbar_top_accept').empty();
+                break;
+            default:
+                $('#contestprogressbar').hide();
+                break;
         }
-    </script>
+        SetStatusBarColor(conStatus);
+    }
+
+    function SetStatusBarColor(conStatus) {
+        switch (conStatus) {
+            case 'close':
+                $('#divProgressbar_middleEdge_end').removeClass();
+                $('#divProgressbar_middleEdge_end').addClass('progressbar_middle_inner_greenright');
+                $('#divProgressbar_middle_end').removeClass();
+                $('#divProgressbar_middle_end').addClass('progressbar_middle_inner_greenbgedge');
+                $('#divProgressbar_middleSep_close').removeClass();
+                $('#divProgressbar_middleSep_close').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_close').removeClass();
+                $('#divProgressbar_middle_close').addClass('progressbar_middle_inner_greenbg');
+            case 'win':
+                $('#divProgressbar_middleSep_win').removeClass();
+                $('#divProgressbar_middleSep_win').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_win').removeClass();
+                $('#divProgressbar_middle_win').addClass('progressbar_middle_inner_greenbg');
+            case 'finish':
+                $('#divProgressbar_middleSep_finish').removeClass();
+                $('#divProgressbar_middleSep_finish').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_finish').removeClass();
+                $('#divProgressbar_middle_finish').addClass('progressbar_middle_inner_greenbg');
+            case 'inprogress':
+                $('#divProgressbar_middleSep_inprog').removeClass();
+                $('#divProgressbar_middleSep_inprog').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_inprog').removeClass();
+                $('#divProgressbar_middle_inprog').addClass('progressbar_middle_inner_greenbg');
+            case 'accept':
+                $('#divProgressbar_middleSep_accept').removeClass();
+                $('#divProgressbar_middleSep_accept').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_accept').removeClass();
+                $('#divProgressbar_middle_accept').addClass('progressbar_middle_inner_greenbg');
+            case 'init':
+                $('#divProgressbar_middleSep_init').removeClass();
+                $('#divProgressbar_middleSep_init').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_init').removeClass();
+                $('#divProgressbar_middle_init').addClass('progressbar_middle_inner_greenbgedge');
+            default: break;
+        }
+    }
+</script>
+
 <!--[if IE 7]>
          <style>
          #main{
@@ -154,7 +165,94 @@
 
 <script type="text/javascript" language="javascript">
 
+    var Feedbackform;
+    function ValidateSubmitFeedback() {
+        var UserName = $.trim($("#feedback_txtUsername").val());
+        var EmailId = $.trim($("#feedback_txtEmailId").val());
+        var Subject = $.trim($("#feedback_txtSubject").val());
+        var UserMessage = $.trim($("#feedback_txtMessage").val());
+        $(".tinner").css('height', 'auto');
+        var status = true;
+        $(".tcontent").find("label.cntct_name1").css('color', '#444D53');
+        if (UserName == "") {
+            $(".tcontent").find("label.cntct_name1:eq(0)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Name");
+            status = false;
+        }
+        if (EmailId == "") {
+            $(".tcontent").find("label.cntct_name1:eq(1)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Emailid");
+            status = false;
+        }
+        
+        if (Subject == "") {
+            $(".tcontent").find("label.cntct_name1:eq(2)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Subject");
+            status = false;
+        }
+        if (UserMessage == "") {
+            $(".tcontent").find("label.cntct_name1:eq(3)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter a Message");
+            status = false;
+        }
+        if (!IsValidEmail(EmailId) && EmailId != "") {
+            $(".tcontent").find("label.cntct_name1:eq(1)").css('color', '#FF0000');
+            $("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Valid Emailid");
+            status = false;
+        }
+
+        if (status == false)
+        return;
+    if (UserMessage.length > 3500 || Subject.length > 3490 || UserName.length > 3500 || EmailId.length > 3500) {
+        alert("You can Enter Upto 3500 Characters..");
+        return;
+    }     
+        Subject = 'FeedBack: ' + Subject;
+        var user = { "emailid": EmailId, "message": UserMessage, "username": UserName, "subject": Subject };
+        var url = SPCServiceURL + "/submitUserFeedback";
+        $.ajax({
+            type: "POST",
+            url: url,
+            contentType: "application/json",
+            data: JSON.stringify(user),
+            success: function(response) {
+            try {
+                $("#feedbackformerrmessage").show();
+                $("#feedbackformerrmessage").text(response.message);
+                        
+                    if (response.success == false)
+                        $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+                    else
+                        $("#feedbackformerrmessage").removeClass("feedback_divSignUpErrors").addClass("success");
+               }
+                catch (err) {
+                    alert("failure");
+                }
+
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+                $("#filtermask").hide();
+                if (jqXHR.status == 401)
+                    window.location.href = '/login';
+                else
+                    alert('Service failed ' + textStatus + ' ' + errorThrown);
+            }
+        });
+
+    }
     $(document).ready(function() {
+
+        Feedbackform = true; //means feedbackform will be available..
         $("#btnRegisterSignpopup").click(registerUserSignpopup);
         $("#forgotbtnSendMail").click(forgotsendMailForgot);
         $(".apopupForgot").click(function() {
@@ -254,7 +352,7 @@
         });
         var cookie = getCookie(".ASPXAUTHSPC");
         $(".goHome").click(function() {
-        if (cookie != null && cookie != "") {
+            if (cookie != null && cookie != "") {
                 var userType = $(".userType")[0].value;
                 if (userType == "1")
                     window.location.href = "/Publisher/Dashboard";
@@ -304,274 +402,289 @@
             $(".isDisplayCart").show();
         else
             $(".isDisplayCart").hide();
+
+        /*feedback button*/
+
+        var feedback_btn = document.getElementById("feedback");
+        var feedback_link = feedback_btn.getElementsByTagName("a")[0];
+
+        // Check for browsers that don't support CSS3 transforms or IE's filters
+        if (feedback_btn.style.Transform == undefined && feedback_btn.style.WebkitTransform == undefined && feedback_btn.style.MozTransform == undefined && feedback_btn.style.OTransform == undefined && feedback_btn.filters == undefined) {
+
+            // Swap width with height, change padding
+            feedback_link.style.width = "15px";
+            feedback_link.style.height = "70px";
+            feedback_link.style.padding = "16px 8px";
+
+            // Insert vertical SVG text
+            feedback_link.innerHTML = "<object type='image/svg+xml' data='feedback_vertical.svg'></object>";
+        }
+        
+        // OnClick event here
+        var currentUserName = $("#headerLogin_hdnUserName").val();
+        var currentEmailId = $("#headerLogin_hdnUserEmailId").val();
+        if (currentUserName == 0 || currentEmailId == 0)  {
+            feedback_link.onclick = function(e) {
+                //                    e.preventDefault();
+                TINY.box.show({ html: '<h4>A feedback form would go here</h4><div style="display:none;" id="feedbackformerrmessage"></div><label for="name" class="cntct_name1">Name<span>*</span></label> <input type="text" name="name" class="txtbox_name" id="feedback_txtUsername"><label for="email" class="cntct_name1"><br>Email<span>*</span> </label><input type="text" name="email" class="txtbox_name" id="feedback_txtEmailId"><br><label for="message" class="cntct_name1">Subject<span>*</span> </label><input type="text" name="email" id="feedback_txtSubject"><br><label for="message" class="cntct_name1">Message<span>*</span> </label><textarea class="txtbox_name1" name="message" id="feedback_txtMessage"></textarea><br><input type="button" onclick="ValidateSubmitFeedback();" value="Submit" class="orange_large_button" /><br/><span style="color:#ff0000">* MandatoryFields</span>', width: 369 })
+            };
+        }
+        else {
+            feedback_link.onclick = function(e) {
+            //                    e.preventDefault();
+                TINY.box.show({ html: '<h4>A feedback form would go here</h4><div style="display:none;" id="feedbackformerrmessage"></div><label for="name" class="cntct_name1">Name<span>*</span></label> <input type="text" name="name" class="txtbox_name" id="feedback_txtUsername" value="'+currentUserName+'"><label for="email" class="cntct_name1"><br>Email<span>*</span> </label><input type="text" name="email" class="txtbox_name" id="feedback_txtEmailId" value='+currentEmailId+'><br><label for="message" class="cntct_name1">Subject<span>*</span> </label><input type="text" name="email" id="feedback_txtSubject"><br><label for="message" class="cntct_name1">Message<span>*</span> </label><textarea class="txtbox_name1" name="message" id="feedback_txtMessage"></textarea><br><input type="button" onclick="ValidateSubmitFeedback();" value="Submit" class="orange_large_button" /><br/><span style="color:#ff0000">* MandatoryFields</span>', width: 369 })
+            };
+        }
+
+
     });
 </script>
-    <div class="navigation">
-			<div class="w1">
-				<div class="w2">
-					<!-- nav -->
-					<div>
-					<ul class="nav" id="genUserMenu" style="display: none;">
-						<li class="dark-grey">
-						        <a href="/Sponsor/Dashboard" title="Sponsor"><span>Sponsor</span></a>
-						</li>
-						<li class="grey">
-						        <a href="/Publisher/Dashboard"><span>Publisher</span></a>
-						</li>
-						<li class="orange">
-							<a href="/Sponsor/BuyContest" title="Choose Blog to Sponsor"><span> Buy Contest</span></a>
-							
-						</li>
-					</ul>
-					<ul class="nav" id="publisherMenu" style="display: none;">
-						<li class="dark-grey pubdashboard"><a href="/Publisher/Dashboard"><span>Dashboard</span></a>
-						 <ul id="pubDashboardSubMenu" style="display: none;">
+
+<div class="navigation">
+    <div class="w1">
+        <div class="w2">
+            <!-- nav -->
+            <div>
+                <ul class="nav" id="genUserMenu" style="display: none;">
+                    <li class="dark-grey"><a href="/Sponsor/Dashboard" title="Sponsor"><span>Sponsor</span></a>
+                    </li>
+                    <li class="grey"><a href="/Publisher/Dashboard"><span>Blogger</span></a> </li>
+                    <li class="orange"><a href="/Sponsor/BuyContest" title="Choose Blog to Sponsor"><span>
+                        Buy Contest</span></a> </li>
+                </ul>
+                <ul class="nav" id="publisherMenu" style="display: none;">
+                    <li class="dark-grey pubdashboard"><a href="/Publisher/Dashboard"><span>Dashboard</span></a>
+                        <ul id="pubDashboardSubMenu" style="display: none;">
                             <li><a class="publisherdashboard active" href="/Publisher/Dashboard">Dashboard</a></li>
                             <li><a class="publisherreports" href="/Publisher/IntegratedReports">Reports</a></li>
                             <li><a class="publishernotifications" href="/Publisher/MyNotifications">Notifications</a></li>
-                         </ul>
-                         </li>
-						<li class="grey pubblogs">
-						    <a href="/Publisher/MyBlogs"><span>Manage Blogs</span></a>
-						    <ul id="myBlogsSubMenu" style="display: none;">
-                            <li><a href="/Publisher/MyBlogs" class="managemyblog active">My Blogs</a></li>
-                            <li><a href="/Publisher/AddorEditBlog" class="manageaddblog">Add Blog</a></li>
-                            <li><a href="/Publisher/RejectedBlogs?status=rejected" class="managerejectblog">Rejected Blogs</a></li>
                         </ul>
-                        </li>
-						<li class="orange pubmyaccount">
-							<a href="/Publisher/MyProfile"><span>My Account</span></a>
-							 <ul id="myAccountsSubMenu" style="display: none;">
-                                    <li><a href="/Publisher/MyProfile" class="myaccountsettings active">Account Settings</a></li>
-                                    <li><a href="/Publisher/Payment" class="myaccountpaymenthistory">Payment Details</a></li>
-                              </ul>
-						</li>
-					</ul>
-					<ul class="nav" id="sponscerMenu" style="display: none;">
-						<li class="dark-grey spondashboard"><a href="/Sponsor/Dashboard"><span>Dashboard</span></a>
-						 <ul id="sponsorDashboardMenu" style="display: none;">
+                    </li>
+                    <li class="grey pubblogs"><a href="/Publisher/MyBlogs"><span>Manage Blogs</span></a>
+                        <ul id="myBlogsSubMenu" style="display: none;">
+                            <li><a href="/Publisher/MyBlogs" class="managemyblog active">My Blogs</a></li>
+                            <li><a href="/Publisher/AddBlog" class="manageaddblog">Add Blog</a></li>
+                            <li><a href="/Publisher/Blogs/rejected" class="managerejectblog">Rejected Blogs</a></li>
+                        </ul>
+                    </li>
+                    <li class="orange pubmyaccount"><a href="/Publisher/MyProfile"><span>My Account</span></a>
+                        <ul id="myAccountsSubMenu" style="display: none;">
+                            <li><a href="/Publisher/MyProfile" class="myaccountsettings active">Account Settings</a></li>
+                            <li><a href="/Publisher/Payment" class="myaccountpaymenthistory">Payment Details</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav" id="sponscerMenu" style="display: none;">
+                    <li class="dark-grey spondashboard"><a href="/Sponsor/Dashboard"><span>Dashboard</span></a>
+                        <ul id="sponsorDashboardMenu" style="display: none;">
                             <li><a class="sponsordashboard active" href="/Sponsor/Dashboard">Dashboard</a></li>
-                            <li><a class="sponsorreports" href="/Sponsor/Reports">Reports</a></li>
+                            <li><a class="sponsorreports" href="/Sponsor/Reports/Inprogress">Reports</a></li>
                             <li><a class="sponsornotifications" href="/Sponsor/MyNotifications">Notifications</a></li>
                         </ul>
-                        </li>
-						<li class="grey sponblogs"><a href="/Sponsor/BuyContest"><span>Buy Contest&nbsp;</span></a></li>
-						<li class="orange sponmyaccount">
-							<a href="/Sponsor/MyAccount"><span>My Account</span></a>
-							 <ul id="sponsorAccountSubMenu" style="display: none;">
-                                    <li><a href="/Sponsor/MyAccount" class="myaccountsettings">Account Settings</a></li>
-                                    <li><a href="/Sponsor/PaymentDetails" class="myaccountpaymenthistory">Payment Details</a></li>
-                             </ul>
-						</li>
-					</ul>
-					</div>
-                 	<!-- right-nav -->
-					<ul class="nav right-nav" id="genUserRightMenu" style="display:none;">
-					    <li class="dark-grey"><a href="/help.html"><span>Help</span></a></li>
-					    <li class="grey"><a class="aLogin" style="cursor: pointer; "><span>Login</span></a></li>
-						<li class="orange"><a href="/Login" class="aSignup"><span>Signup </span></a></li>
-						
-					</ul>
-					<ul class="nav right-nav" id="authenticatedUser" style="display:none;">
-				     <li class="dark-grey"><a class="aLogout" style="cursor: pointer;">Logout</a></li>
-				     <li class="grey"><a href="/faqs.html"><span>Faq's</span></a></li>
-				     <li class="orange"><a href="/help.html"><span>Help</span></a></li>
-					</ul>
-					  <input name="headerLogin$isDisplayCart" type="hidden" id="headerLogin_isDisplayCart" class="isDisplayCart" value="1">
-                      <input name="headerLogin$hdnUserType" type="hidden" id="headerLogin_hdnUserType" class="userType" value="0">
-                     
-                
-				</div>
-			</div>
-			<div class="clear"></div>
-			<div class="fix_cart">
-			        <div id="header">
-				<!-- logo -->
-				<h1 class="logo"><a class="goHome" href="http://www.sponsoredgiveaways.com" style="cursor:pointer;">Sponsored Giveaways</a></h1>
-				<!-- cart -->
-				<p class="cart carttab isDisplayCart">
-					<a href="/Sponsor/ViewCart">
-					<strong><span id="headerLogin_cartTotlaPrice" class="cart-total">$0.00 </span></strong>
-						 <span class="view">
-                        <span class="cart-quantity">
-                            <span id="headerLogin_lblCartItemsCount" class="cartItemsCountinTag">0</span>&nbsp; Item(s) in cart
-                        </span>
-                    </span> 
-					</a>
-				</p>
-			</div>
-			</div>
-		</div>
-
-    <!--popup-->
-    <div class="spc-ui-LogindialogHeader" style="display:none;">
-        <div class="LoginshieldHeader">
-        </div>
-        
-      
- <div id="drag_login" class="LoginwindowHeader Loginalpha30Header Loginwindow2Header">
-            <div class="LogincontentHeader">
-            
-            <!--new popup start-->
-            <div class="login_main loginpopupindex">
-               		 <div class="login_popup_container">
-                      		<div class="login_popup_box_hdng">
-                            	<div class="login_box_details"> Login </div>
-                                <div class="popupclosebutton LoginloginPopupCloseHeader"></div>
-                            </div>
-                             <div class="login_lft">
-                             	<h3>Existing User? Login Now</h3>
-                                <div class=" loginPopupErrorsHeader" style="width:291px;margin-left:1px;"></div>
-                               			<div class="login_row">
-                                                <label for="n_name">
-                                                    Email ID  
-                                                </label>
-                                                <input type="text" id="txtLoginPopupEmailIdHeader" name="n_name">
-                                        </div>
-                                        
-                                        <div class="login_row">
-                                                <label for="n_name">
-                                                   Password   
-                                                </label>
-                                                <input type="password" id="txtLoginPopupPasswordHeader" name="n_name">
-                                            </div>
-                                            
-                                            <div class="login_sign">
-                                            <input type="button" value="Login" id="btnLoginPopupHeader" class="orange_large_button btnLoginPopupHeader" name="Login">
-                                            <img id="imgLoginPopupHeader" class="Loading" style="visibility: hidden" src="/Images/SpcLoading.gif" alt="">
-                                            <a class="frgot apopupForgot">Forgot Password?</a>
-                                            
-                                            </div>
-                                            
-                                            <!--new forgot -->
-                                            <div id="forgotdivErr">
-                                        </div>
-                                            
-                                            <div class="popupforgot" style="display:none;overflow:hidden;">
-                                            <h3>Forgot Password?</h3>
-                                           <div id="forgotdivReSendMail" style="width:283px;margin-left:1px;">
-                                            </div>
-                                            <div class="login_row">
-                                                <label for="n_name">
-                                                   Email Id 
-                                                </label>
-                                                <input type="text" id="forgottxtEmailField" name="n_name">
-                                            </div>
-                                            
-                                            <div class="login_sign">
-                                            <input type="button" value="Send email " id="forgotbtnSendMail" class="orange_large_button" name="Login">
-                                            <img id="forgotimgSendMail" style="visibility: hidden" src="/Images/SpcLoading.gif" alt="No Image">
-                                            
-                                            </div>
-                                            
-                                            </div>
-                                            <!--new forgot end  -->
-                                            
-                                            
-                                            <br>
-                                            
-                             </div>
-                             <div class="login_dvder"><img src="/Images/logdvider.jpg" width="1" height="177"></div>
-                             <div class="login_rgt">
-                             	<h3>New User? Its Free to Sign up</h3>
-                                <div class="login_rg_cnt">
-                                    Don’t have an account? It's free to signup and only takes a minute.</div>
-                                <div class="login_signup">
-                                            <input type="button" value="Sign Up" id="btnSignu" class="orange_large_button popupindex" name="Login">
-                                            </div>
-                             </div>
-                           
-                        </div>
-                   </div>
-            
-                <!-- new popup end-->
-                  <!-- new popup start sign up-->
-                 <div class="login_main signuppopupindex" style="display:none;">
-               		 <div class="signuppopup_border">
-                      		<div class="paypal_bg">
-                            	<div class="login_box_details"> SignUp </div>
-                                <div class="popupclosebutton LoginloginPopupCloseHeader"></div>
-                            </div>
-                             <div class="login_lft">
-                             	
-                                <h3 id="headingSignup">New User? Its Free to Sign up</h3>
-                    <div id="divSignupErrorsSignpopup" class="signUpErrorsSignpopup" style="width:287px;margin-left:0px;"></div>
-                               			<div class="login_row">
-                                                <label for="n_name">
-                                                    I am
-                                                </label>
-                                                <select id="selectUserSignpopup" name="i am">
-                                            <option selected="selected" value="Selected">Select</option>
-                                            <option value="Sponsor">Sponsor</option>
-                                            <option value="Publisher">Publisher</option>
-                                        </select>
-                                        </div>
-                                        <div class="clear"></div>
-                                        
-                                        <div class="login_row">
-                                                <label for="n_name">
-                                                   Email Id 
-                                                </label>
-                                                <input type="text" id="txtEmailIdSignpopup" name="n_name">
-                                            </div>
-                                            
-                                            <div class="login_row">
-                                                <label for="n_name">
-                                                   Name 
-                                                </label>
-                                                <input type="text" id="txtFirstNameSignpopup" name="n_name">
-                                            </div>
-                                            
-                                            <div class="login_row">
-                                                <label for="n_name">
-                                                   Password 
-                                                </label>
-                                                <input type="password" id="txtPasswordSignpopup" name="n_name">
-                                            </div>
-                                            
-                                            <div class="login_row">
-                                                <label for="n_name">
-                                                   Repeat 
-                                                </label>
-                                                <input type="password" id="txtRepeatPasswordSignpopup" name="n_name">
-                                            </div>
-                                            
-                                            <div class="login_terms">
-                                        <label>
-                                            &nbsp;</label>
-                                        <input type="checkbox" id="n_tacSignpopup" name="n_tac">
-                                        <a href="/terms" target="_blank">Terms and Conditions</a></div>
-                                            
-                                            
-                                            
-                                            <div class="login_sign">
-                                            <input type="button" value="Sign Up" id="btnRegisterSignpopup" class="orange_large_button" name="Login">
-                                            <img id="imgRegisterSignpopup" style="visibility: hidden;" src="/Images/SpcLoading.gif" alt="No Image">
-                                            </div>
-                                          
-                                            
-                             </div>
-                             <div class="login_dvder"><img src="/Images/logdvider.jpg" width="1" height="177"></div>
-                             <div class="login_rgt">
-                             	<h3>Existing User? Login Now</h3>
-                                <div class="login_rg_cnt">
-                                Already have an account? Login using your registered email address and password.
-                                </div>
-                                <div class="login_signup">
-                                            <input type="button" value="Login" id="popupin" class="orange_large_button popupindex" name="Login">
-                                            </div>
-                             </div>
-                           
-                        </div>
-                   </div>
-                <!-- new popup end signup -->
-                
-             
+                    </li>
+                    <li class="grey sponblogs"><a href="/Sponsor/BuyContest"><span>Buy Contest&nbsp;</span></a></li>
+                    <li class="orange sponmyaccount"><a href="/Sponsor/MyAccount"><span>My Account</span></a>
+                        <ul id="sponsorAccountSubMenu" style="display: none;">
+                            <li><a href="/Sponsor/MyAccount" class="myaccountsettings">Account Settings</a></li>
+                            <li><a href="/Sponsor/PaymentDetails" class="myaccountpaymenthistory">Payment Details</a></li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
+            <!-- right-nav -->
+            <ul class="nav right-nav" id="genUserRightMenu" style="display: none;">
+                <li class="dark-grey"><a href="/help.html"><span>Help</span></a></li>
+                <li class="grey"><a class="aLogin" style="cursor: pointer;"><span>Login</span></a></li>
+                <li class="orange"><a href="/Login" class="aSignup"><span>Signup </span></a></li>
+            </ul>
+            <ul class="nav right-nav" id="authenticatedUser" style="display: none;">
+                <li class="dark-grey"><a class="aLogout" style="cursor: pointer;">Logout</a></li>
+                <li class="grey"><a href="/faqs.html"><span>Faq's</span></a></li>
+                <li class="orange"><a href="/help.html"><span>Help</span></a></li>
+            </ul>
+            <input name="headerLogin$isDisplayCart" type="hidden" id="headerLogin_isDisplayCart" class="isDisplayCart" value="1">
+            <input name="headerLogin$hdnUserType" type="hidden" id="headerLogin_hdnUserType" class="userType" value="0">
+            <input name="headerLogin$hdnUserName" type="hidden" id="headerLogin_hdnUserName" class="userName" value="0">
+            <input name="headerLogin$hdnUserEmailId" type="hidden" id="headerLogin_hdnUserEmailId" class="userEmailId" value="0">
         </div>
     </div>
-    
-            <!--terms popup start
+    <div class="clear">
+    </div>
+    <div class="fix_cart">
+        <div id="header">
+            <!-- logo -->
+            <h1 class="logo">
+                <a class="goHome" style="cursor: pointer;">
+                    Sponsored Giveaways</a></h1>
+            <!-- cart -->
+            <p class="cart carttab isDisplayCart">
+                <a href="/Sponsor/ViewCart"><strong><span id="headerLogin_cartTotlaPrice" class="cart-total">$0.00 </span></strong><span class="view"><span class="cart-quantity">
+                        <span id="headerLogin_lblCartItemsCount" class="cartItemsCountinTag">0</span>&nbsp;
+                        Item(s) in cart </span></span></a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<!--popup-->
+<div class="spc-ui-LogindialogHeader" style="display: none;">
+    <div class="LoginshieldHeader">
+    </div>
+    <div id="drag_login" class="LoginwindowHeader Loginalpha30Header Loginwindow2Header">
+        <div class="LogincontentHeader">
+            <!--new popup start-->
+            <div class="login_main loginpopupindex">
+                <div class="login_popup_container">
+                    <div class="login_popup_box_hdng">
+                        <div class="login_box_details">
+                            Login
+                        </div>
+                        <div class="popupclosebutton LoginloginPopupCloseHeader">
+                        </div>
+                    </div>
+                    <div class="login_lft">
+                        <h3>
+                            Existing User? Login Now</h3>
+                        <div class=" loginPopupErrorsHeader" style="width: 291px; margin-left: 1px;">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Email ID
+                            </label>
+                            <input type="text" id="txtLoginPopupEmailIdHeader" name="n_name">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Password
+                            </label>
+                            <input type="password" id="txtLoginPopupPasswordHeader" name="n_name">
+                        </div>
+                        <div class="login_sign">
+                            <input type="button" value="Login" id="btnLoginPopupHeader" class="orange_large_button btnLoginPopupHeader" name="Login">
+                            <img id="imgLoginPopupHeader" class="Loading" style="visibility: hidden" src="/Images/SpcLoading.gif" alt="">
+                            <a class="frgot apopupForgot">Forgot Password?</a>
+                        </div>
+                        <!--new forgot -->
+                        <div id="forgotdivErr">
+                        </div>
+                        <div class="popupforgot" style="display: none; overflow: hidden;">
+                            <h3>
+                                Forgot Password?</h3>
+                            <div id="forgotdivReSendMail" style="width: 283px; margin-left: 1px;">
+                            </div>
+                            <div class="login_row">
+                                <label for="n_name">
+                                    Email Id
+                                </label>
+                                <input type="text" id="forgottxtEmailField" name="n_name">
+                            </div>
+                            <div class="login_sign">
+                                <input type="button" value="Send email " id="forgotbtnSendMail" class="orange_large_button" name="Login">
+                                <img id="forgotimgSendMail" style="visibility: hidden" src="/Images/SpcLoading.gif" alt="No Image">
+                            </div>
+                        </div>
+                        <!--new forgot end  -->
+                        <br>
+                    </div>
+                    <div class="login_dvder">
+                        <img src="/Images/logdvider.jpg" width="1" height="177"></div>
+                    <div class="login_rgt">
+                        <h3>
+                            New User? Its Free to Sign up</h3>
+                        <div class="login_rg_cnt">
+                            Don’t have an account? It's free to signup and only takes a minute.</div>
+                        <div class="login_signup">
+                            <input type="button" value="Sign Up" id="btnSignu" class="orange_large_button popupindex" name="Login">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- new popup end-->
+            <!-- new popup start sign up-->
+            <div class="login_main signuppopupindex" style="display: none;">
+                <div class="signuppopup_border">
+                    <div class="paypal_bg">
+                        <div class="login_box_details">
+                            SignUp
+                        </div>
+                        <div class="popupclosebutton LoginloginPopupCloseHeader">
+                        </div>
+                    </div>
+                    <div class="login_lft">
+                        <h3 id="headingSignup">
+                            New User? Its Free to Sign up</h3>
+                        <div id="divSignupErrorsSignpopup" class="signUpErrorsSignpopup" style="width: 287px;
+                            margin-left: 0px;">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                I am
+                            </label>
+                            <select id="selectUserSignpopup" name="i am">
+                                <option selected="selected" value="Selected">Select</option>
+                                <option value="Sponsor">Sponsor</option>
+                                <option value="Publisher">Publisher</option>
+                            </select>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Email Id
+                            </label>
+                            <input type="text" id="txtEmailIdSignpopup" name="n_name">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Name
+                            </label>
+                            <input type="text" id="txtFirstNameSignpopup" name="n_name">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Password
+                            </label>
+                            <input type="password" id="txtPasswordSignpopup" name="n_name">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Repeat
+                            </label>
+                            <input type="password" id="txtRepeatPasswordSignpopup" name="n_name">
+                        </div>
+                        <div class="login_terms">
+                            <label>
+                                &nbsp;</label>
+                            <input type="checkbox" id="n_tacSignpopup" name="n_tac">
+                            <a href="/terms" target="_blank">Terms and Conditions</a></div>
+                        <div class="login_sign">
+                            <input type="button" value="Sign Up" id="btnRegisterSignpopup" class="orange_large_button" name="Login">
+                            <img id="imgRegisterSignpopup" style="visibility: hidden;" src="/Images/SpcLoading.gif" alt="No Image">
+                        </div>
+                    </div>
+                    <div class="login_dvder">
+                        <img src="/Images/logdvider.jpg" width="1" height="177"></div>
+                    <div class="login_rgt">
+                        <h3>
+                            Existing User? Login Now</h3>
+                        <div class="login_rg_cnt">
+                            Already have an account? Login using your registered email address and password.
+                        </div>
+                        <div class="login_signup">
+                            <input type="button" value="Login" id="popupin" class="orange_large_button popupindex" name="Login">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- new popup end signup -->
+        </div>
+    </div>
+</div>
+<div id="feedback" style="display:none;">
+    <a href="javascript:void(0);">feedback</a>
+</div>
+
+<!--terms popup start
                 
     <div class="spc-ui-headerterms">
         <div class="shield">
@@ -708,10 +821,25 @@ Cheyenne,<br> WY 82001-3163.
 					<ul class="links">
 						<li><a href="/">* Home</a></li>
 						<li><a href="/aboutus">* About</a></li>
-						<li><a href="/ContactUs">* Support</a></li>
-						<li><a href="#">* Blog</a></li>
+						<li><a href="/ContactUs">* Support</a></li>						
+						<li><a href="http://blog.sponsoredgiveaways.com">* Blog</a></li>
 					</ul>
-					<p>© 2012 SponsoredGiveaways.com  <a href="/Terms">Terms</a> / <a href="/Privacy">Privacy</a> / <a href="/Refunds">Refunds</a></p>
+					<p>© 2012 - 2013 SponsoredGiveaways.com  <a href="/Terms">Terms</a> / <a href="/Privacy">Privacy</a> / <a href="/Refunds">Refunds</a></p>
+					<!--google analytics-->
+					<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39363501-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- end google analytics -->
 				</div>
 </div>
 
