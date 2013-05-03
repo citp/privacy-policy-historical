@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130153839id_/http%3A//www.experian.com.au/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503164805id_/http%3A//www.experian.com.au/legal/privacy.html) for the most accurate reproduction.*
 
 # Experian Australia | Privacy statement
 
@@ -11,6 +11,8 @@
 This privacy policy statement sets out the data processing practices carried out through your use of this web site by Experian Australia Pty Ltd.("Experian").
 
 If you have any requests concerning your personal information or any queries with regard to these practices please contact us at [privacy@ap.experian.com](mailto:privacy@ap.experian.com).
+
+To read our privacy policy for Experian Australia Credit Services please [click here](https://web.archive.org/legal/credit-services-privacy.html "Credit Services Privacy Policy").
 
 #### Links
 
