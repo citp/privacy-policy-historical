@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viewblackporn.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231135435id_/http%3A//www.viewblackporn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewblackporn.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503214518id_/http%3A//www.viewblackporn.com/privacy.php) for the most accurate reproduction.*
 
-# Free Black Porn Video - Black Porn Pussy Sex
+# Privacy Policy
 
 Last modified on February 5, 2011.  
 For definitions and additional information please see the [Terms and Conditions](https://web.archive.org/terms.php).
