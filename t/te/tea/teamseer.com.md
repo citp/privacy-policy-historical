@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014092427id_/http%3A//www.teamseer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503204153id_/http%3A//www.teamseer.com/privacy-policy) for the most accurate reproduction.*
 
-# TeamSeer | Privacy Statement
+# Privacy Statement
 
 ## Privacy Policy
 
