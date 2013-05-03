@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the noiseaddicts.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021061121id_/http%3A//www.noiseaddicts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noiseaddicts.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503020858id_/http%3A//www.noiseaddicts.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
-## Privacy Policy
-
- **NoiseAddicts Privacy Policy**
+**NoiseAddicts Privacy Policy**
 
 NoiseAddicts respects the privacy of its users. Here is the current privacy policy:
 
@@ -15,7 +13,7 @@ If you have any questions or comments about our privacy policy, please [contact 
 
 Server Logs
 
-The website servers automatically collect statistical information when you visit the website. The information includes IP (internet protocol) address,  ISP (internet service provider, such as AOL or Shaw Cable), the browser (such as Internet Explorer or Firefox), the time, and pages visited. The primary purpose of this information is to make the website more efficient, correct any webpage errors, and assist in making the site better.
+The website servers automatically collect statistical information when you visit the website. The information includes IP (internet protocol) address,Â  ISP (internet service provider, such as AOL or Shaw Cable), the browser (such as Internet Explorer or Firefox), the time, and pages visited. The primary purpose of this information is to make the website more efficient, correct any webpage errors, and assist in making the site better.
 
 Cookies
 
