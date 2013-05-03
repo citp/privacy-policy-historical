@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the twenga.com.au privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023140725id_/http%3A//www.twenga.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503082751id_/http%3A//www.twenga.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
-[ Home ](http://www.twenga.com.au/ "Home") › Privacy policy
+Home › Privacy policy
 
 At Twenga we recognise that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Twenga or its subsidiaries or affiliated companies; collectively, Twenga’s “services”. In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information.
 
-If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.twenga.com.au/contact.php "contact us") through our website.
+If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/contact.php "contact us") through our website.
 
 ## Information we collect and how we use it
 
@@ -64,7 +64,7 @@ Twenga only shares personal information with other companies or individuals outs
 
 If Twenga becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular offer. Such information does not identify you individually.
 
-Please [contact us](http://www.twenga.com.au/contact.php "contact us") for any additional questions about the management or use of personal data.
+Please [contact us](https://web.archive.org/contact.php "contact us") for any additional questions about the management or use of personal data.
 
 [Top of page](http://www.twenga.com.au/privacy.php#about)
 
@@ -90,7 +90,7 @@ When you use Twenga services, we make good faith efforts to provide you with acc
 
 ## Enforcement
 
-Twenga regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Twenga’s treatment of personal information by [contact us](http://www.twenga.com.au/contact.php "contact us") through this web site.
+Twenga regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Twenga’s treatment of personal information by [contact us](https://web.archive.org/contact.php "contact us") through this web site.
 
 [Top of page](http://www.twenga.com.au/privacy.php#about)
 
@@ -98,6 +98,6 @@ Twenga regularly reviews its compliance with this Privacy Policy. Please feel fr
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to [contact us](http://www.twenga.com.au/contact.php "contact us") any time through this web site.
+If you have any additional questions or concerns about this Privacy Policy, please feel free to [contact us](https://web.archive.org/contact.php "contact us") any time through this web site.
 
 [Top of page](http://www.twenga.com.au/privacy.php#about)
