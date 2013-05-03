@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnmyself.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513052114id_/http%3A//www.learnmyself.com/personality.asp%3Fp%3Dsecurity-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnmyself.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503073505id_/http%3A//www.learnmyself.com/personality.asp%3Fp%3Dsecurity-privacy) for the most accurate reproduction.*
 
 # Security and Privacy Policy
 
