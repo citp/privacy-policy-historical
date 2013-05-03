@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101172311id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503081124id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # GET ME IN! Buy & Sell Concert Tickets, Theatre Tickets and Sports Tickets.
 
