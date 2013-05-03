@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livemusicguide.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101051247id_/http%3A//www.livemusicguide.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemusicguide.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503033906id_/http%3A//www.livemusicguide.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Live Music Guide
 
@@ -74,7 +74,7 @@ In the event that the Company is acquired by or merged with a third party entity
 
 _**Changes to this Privacy Policy**_
 
-The Company reserves the right, at its sole discretion, to update, amend and/or change this Privacy Policy without prior notice and at any time. Updates to this Privacy Policy will be posted here. You are encouraged to visit this Privacy Policy from time to time in order to review any changes that have been made. Your continued use of the Website following the posting of any such changes will automatically be deemed to constitute your acceptance of all changes. The Company's last update to this Privacy Policy was made and posted on 11-01-2012.
+The Company reserves the right, at its sole discretion, to update, amend and/or change this Privacy Policy without prior notice and at any time. Updates to this Privacy Policy will be posted here. You are encouraged to visit this Privacy Policy from time to time in order to review any changes that have been made. Your continued use of the Website following the posting of any such changes will automatically be deemed to constitute your acceptance of all changes. The Company's last update to this Privacy Policy was made and posted on 05-02-2013.
 
 _**Questions or Concerns**_
 
