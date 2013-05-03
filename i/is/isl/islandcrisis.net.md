@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703215419id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503080250id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-IslandCrisis.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street  
-address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
+IslandCrisis.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
 ### How we gather information from users.
 
@@ -20,7 +19,10 @@ identify you individually.
 We may use Personally Identifiable Information collected on IslandCrisis.net to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by IslandCrisis.net and other topics we think you might find of interest.
 
 Personally Identifiable Information collected by IslandCrisis.net may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of ecommerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web  
-hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary.  
+hosting service for example) may access such information.
+
+We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary.
+
 Please note we may not provide you with notice prior to disclosure in such cases.
 
 ### Affiliated sites, linked sites and advertisements
@@ -34,9 +36,11 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### Children
 
@@ -49,20 +53,4 @@ We can be reached by email at: kurt@islandcrisis.net
 
 IslandCrisis.net reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-Last updated: February 2011
-
-Connect with us on Facebook to enjoy an better reading experience and share your knowledge with your friends.
-
-* * *
-
-* * *
-
-### Click the LIKE button to join our Facebook Fan Club
-
-### We love to hear from you! Share a comment below..
-
-* * *
-
-### Handpicked Related Articles For You:
-
-* * *
+Last updated: September 2012
