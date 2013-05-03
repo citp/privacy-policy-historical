@@ -1,51 +1,22 @@
-> *The following text is extracted and transformed from the earn3.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221080129id_/http%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earn3.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503073946id_/http%3A//www.superpay.me/privacy) for the most accurate reproduction.*
 
-# Make Money Online With Paid Surveys | Free Cash at CashCrate!
+# SuperPay.Me - Privacy Policy
 
-###### What Our Privacy Policy Covers
+Privacy Policy 
 
-Please read this privacy policy to learn more about:
+The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. 
 
-  1. What personally identifiable information of yours is collected by CashCrate.com (“CashCrate”) or by third-party advertisers (together, the “Third-Parties” or individually a “Third-Party” );
-  2. How the information is used;
-  3. How you can access and change your account information;
-  4. How you will receive notice of changes in this privacy policy; and
-  5. How to contact CashCrate.
+We hold only a minimal amount of information on each registered client. In order to register, we only require a name, email address, username and a password. Prior to sending any payments, we may also require address verification.
 
+We only hold information in order to allow users to log into and run their accounts. 
 
+\- We store your personal data securely   
+\- We DO NOT pass your personal data to third parties, unless you specifically ask us to for a particular purpose (e.g. a competition) or as required by law   
+\- We do not send junk mail (or spam). We send occasional site updates by email, and you can choose the type of mailings you receive by editing your profile. 
 
-###### Information Collected by CashCrate
+Users may request to see any information that we hold on them. This may include transaction information, account totals, contact details and other information. Users may request this information from our support ticket page. 
 
-To become a member of CashCrate, you must join and create an account on the CashCrate website. The only information that CashCrate collects is the information you provide through the CashCrate registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address (“IP address”), and other contact information. Your IP address is recorded when you register, so that CashCrate can enforce its one account per person policy and other provisions of our [Terms of Service](http://www.cashcrate.com/terms).
+If you feel SuperPay.Me is not following its stated information policy, then they may inform us through our support ticket page. 
 
-Other information, that does not personally identify you as an individual, is collected by CashCrate from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by CashCrate. This information can be utilized by CashCrate in such manner as CashCrate, in its sole discretion, deems appropriate.
-
-###### Information Sharing & Disclosure
-
-In the event that you subscribe to or opt-in a Third-Party offer, CashCrate may provide your information to the Third-Party in order to directly faciliate the relationship between you and the advertiser. CashCrate may also, from time to time, provide your information to Third-Party advertisers who have offers that we think you'd be interested in. At any time, you can opt-out of this program simply by contacting support.
-
-Your email address may also be used for tracking purposes, when you complete offers, so that CashCrate can determine that you completed the offers. CashCrate will also use your email address to send you the CashCrate newsletters, unless you have opted out of receiving such newsletters by so indicating on the “E-mail Options” section of the “My Account” page, within the “Members Area” of the CashCrate website. CashCrate may also, from time to time, 
-
-###### Information Provided to Third-Parties or Other Users
-
-CashCrate.com (“CashCrate”) deals in large part with the Third-Parties. You may be asked by the Third-Parties to give them your personally identifiable information, either when you complete an offer, when you use their websites, or by some other means. CashCrate is not responsible for information you provide the Third-Parties, and you should read their privacy policies as well before providing them with any such information. Please note, unless otherwise stated, any offer you complete on CashCrate.com will be with a Third-Party.
-
-Any information you post on the CashCrate website or send through CashCrate’s Message Center may be available to other CashCrate users or viewers of the CashCrate website. CashCrate is not responsible for the information you post on the CashCrate website or for information you provide other CashCrate users, all of which you do at your own risk.
-
-###### Legal Disclaimer
-
-It is possible that CashCrate may need to disclose your personally identifiable information from time to time. Specifically, CashCrate may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if CashCrate has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated CashCrate’s [Terms of Service](http://www.cashcrate.com/terms), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to CashCrate, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend CashCrate’s rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
-
-###### Managing Your Information
-
-You can review the personal information you have provided CashCrate and make any desired changes to that information by logging in to your account on the CashCrate website, clicking on the “My Account” icon in the “Members Area” section of the CashCrate website, by editing the information, and then by submitting the revised information. You should update CashCrate on any changes that occur, which would make the information you have provided CashCrate inaccurate or misleading.
-
-###### Changes to this Privacy Policy
-
-Notice of all changes that materially affect ways in which your personally identifiable information may be used or shared will be emailed to you or posted on the CashCrate website. Your continued use of the CashCrate program after such notices of changes have been sent to you or published on the CashCrate website constitutes your consent to the changes.
-
-###### Questions & Comments
-
-Unless stated otherwise, CashCrate’s current privacy policy applies to all information that CashCrate has about you and your account. If you have any questions or comments regarding your privacy or this privacy policy, you should [contact CashCrate](http://www.cashcrate.com/contact) prior to providing CashCrate any personally identifiable information.
-
-Last Updated: May 10th, 2010
+Cookies  
+We recommend that all users enable cookies in their internet browsers in order to make full use of the site and in order to ensure that any transactions on third party sites are recorded. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their transactions. 
