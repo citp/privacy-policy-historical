@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksat.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513155426id_/http%3A//www.ksat.com/-/478556/4755118/-/wvkaf5z/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksat.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503160821id_/http%3A//www.ksat.com/-/478556/4755118/-/wvkaf5z/-/index.html) for the most accurate reproduction.*
 
 # Home - Privacy policy
 
@@ -104,7 +104,7 @@ If we believe that the security of any user's personal information in our posses
 
 **How can you access and edit your personally identifiable information?**
 
-You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](http://www.click2houston.com/emailnewsletters) (if applicable).
+You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/emailnewsletters) (if applicable).
 
 **What Web sites does this Privacy Policy cover?**
 
@@ -127,3 +127,13 @@ We reserve the right, in our sole discretion, to modify, alter or otherwise upda
 If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@postnewsweek.com).
 
 **Effective: June 15, 2010**
+
+Advertisement
+
+[](https://web.archive.org/news)
+
+[ ](http://abc.go.com/watch?aff=ksat)
+
+Advertisement
+
+[](https://web.archive.org/lifestyle/healthandwellnessexperts/-/2606048/-/nxs35o/-/index.html)
