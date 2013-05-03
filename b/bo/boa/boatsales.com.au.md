@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920041629id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503115231id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Boatsales Privacy Policy - boatsales.com.au
 
@@ -20,10 +20,12 @@ carsales collects personal information that it considers necessary for it, or it
 Personal information collected by carsales may include:
 
   * your name, address and contact details
+
+
   * bank account and credit account details
   * user ID's and passwords
   * the services provided to you
-  * records of communications with carsales including records using Communications Services
+  * records and content of communications with carsales or any other person including records and content using Communications Services (as that term is defined in carsales’ Terms and Conditions of Use).  Please note that such records and content may be stored and scanned by carsales. 
 
 
 
@@ -87,7 +89,7 @@ If you choose not to provide personal information when requested, carsales may n
 **carsales Network, Linked Sites and personal information**
 
 When you visit a website or use an application on the carsales Network, carsales records anonymous information such as IP address, time, date, referring url, pages accessed and documents downloaded, type of browser and operating system.  
-Carsales also uses “cookies”. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (typically between 30and 90 days). Cookies may be used by carsales to provide you with the full range of services it offers, remember your preferences, remember the sites you visit on the carsales Network, measure and analyse usage of the carsales Network and for security. Persistent cookies may be used to identify the sites you visit on the carsales Network and to personalise the advertising that you see when you make future visits to that site or other sites within the carsales Network. You may adjust your Internet browser to disable cookies **.** If cookies are disabled carsales may not be able to provide you with the full range of carsales services. 
+Carsales also uses “cookies”. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (typically between 30and 90 days). Cookies may be used by carsales or by service providers engaged by carsales to provide you with the full range of services it offers, remember your preferences, remember the sites you visit on the carsales Network, measure and analyse usage of the carsales Network and for security. Persistent cookies may be used to identify the sites you visit on the carsales Network and to personalise the advertising that you see when you make future visits to that site or other sites. You may adjust your Internet browser to disable cookies **.** If cookies are disabled carsales may not be able to provide you with the full range of carsales services. 
 
 Cookies may collect and store your personal information. This policy applies to personal information collected via cookies. The carsales Network may include links to third party web sites, co branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). Companies who operate Linked Sites may collect personal information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
 
@@ -113,4 +115,4 @@ This policy may change over time. All changes will be published on this website.
 **About security and personal Information**  
 carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure.
 
-_Version 3 (June 2012)_
+_Version 4 (November 2012)_
