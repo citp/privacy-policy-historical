@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outbacknow.com.au privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016093337id_/http%3A//www.outbacknow.com.au/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbacknow.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503031738id_/http%3A//www.outbacknow.com.au/index.php/privacy) for the most accurate reproduction.*
 
 # Outback Now Privacy Policy - Outback Australia - Australian Outback
 
