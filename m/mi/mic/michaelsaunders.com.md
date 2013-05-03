@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921132702id_/http%3A//www.michaelsaunders.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503085356id_/http%3A//www.michaelsaunders.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Keeping Your Information Safe and Secure - Michael Saunders and Company
+# Privacy Policy | Luxury Sarasota Homes for Sale - Michael Saunders & Company
 
 You can count on us to provide you with the responsive, professional service you deserve, and to protect your privacy and security along the way.
 
@@ -118,4 +118,4 @@ City __________________________ State ____________ Zip ___________
 
 Phone number_______________________________
 
-©2007 All rights reserved - Michael Saunders & Company
+© 2013 All rights reserved - Michael Saunders & Company®
