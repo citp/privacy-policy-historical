@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016083705id_/http%3A//www.boostctr.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503021839id_/http%3A//boostctr.com/Company/Privacy) for the most accurate reproduction.*
 
 # BoostCTR - Privacy
 
