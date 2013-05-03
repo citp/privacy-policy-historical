@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinksales.co.za privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030102041id_/http%3A//www.thinksales.co.za/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinksales.co.za privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503080216id_/http%3A//www.thinksales.co.za/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThinkSales
 
