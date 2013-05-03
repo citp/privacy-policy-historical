@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602032459id_/http%3A//www.mylol.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503112930id_/http%3A//www.mylol.net/privacy.php) for the most accurate reproduction.*
 
 # MyLOL Privacy
 
