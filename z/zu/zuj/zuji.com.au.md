@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192315id_/http%3A//www.zuji.com.au/site/help/corporate/privacy_policy.html%3Fskin%3Denau.zuji.com.au) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503172315id_/http%3A//www.zuji.com.au/site/help/corporate/privacy_policy.html%3Fskin%3Denau.zuji.com.au) for the most accurate reproduction.*
 
 # ZUJI Australia - Travel Your Way
 
