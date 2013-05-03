@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pharmaca.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004200102id_/http%3A//www.pharmaca.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmaca.com privacy policy that was archived on 2013-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504013034id_/http%3A//www.pharmaca.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	
@@ -9,20 +9,20 @@
 
 
     
-</title>        
+</title><!-- No content for name="Site_Head" --> <link rel="alternate" type="application/rss+xml" title="Pharmaca Project Wellness ï¿½ Feed" href="http://feeds.feedburner.com/pharmacablog/PXfB">        
     
     <meta name="Keywords" content="privacy policy">
     <meta name="Description" content="Privacy Policy">
 
     
-<meta name="copyright" content="Pharmaca.com"><meta name="author" content="Pharmaca Integrative Pharmacy"><meta content="global" name="distribution"><link rel="stylesheet" type="text/css" href="http://www.pharmaca.com/App_Themes/css-4115400146.axd?p=829420500,533977020,-1245065662,823519877,-210851138,-1503250216,1595355814,-1446477367,-597105932,-369080911,1493725708,-1807136892,">
+<meta name="copyright" content="Pharmaca.com"><meta name="author" content="Pharmaca Integrative Pharmacy"><meta content="global" name="distribution"><link rel="stylesheet" type="text/css" href="http://www.pharmaca.com/App_Themes/css-4138571240.axd?p=829420500,533977020,-1245065662,823519877,917724123,-210851138,-1503250216,1595355814,-1446477367,355921945,-597105932,-369080911,1493725708,-1993919851,">
 
-    <script type="text/javascript" language="Javascript">
+    <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/651311802887010940/bc.vms4/vms.js"></script><script type="text/javascript" language="Javascript">
         <!--
         /* Functions used throughout site to clear and refill text boxes */
         //function used to clear out text from passed in text field.
         function clearField(obj) {
-            obj.value = "";
+            if (obj.value == obj.title) obj.value = "";
         } //end clearField
         //function used to return original text (found in title/ToolTip attribute) to text field IFF text field is still empty
         function returnField(obj) {
@@ -84,7 +84,7 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script type="text/javascript" src="http://www.pharmaca.com/App_Themes/js-4115400146.axd?p=-333819715,529335818,-1603392076,242513733,-1337350958,-2127311265,777299689,227432419,1252724231,1786764688,"></script>
+<script type="text/javascript" src="http://www.pharmaca.com/App_Themes/js-4138571240.axd?p=1045621660,529335818,-1603392076,399995709,-976009018,-2127311265,777299689,227432419,1786764688,"></script>
 
 
 
@@ -94,7 +94,6 @@ function __doPostBack(eventTarget, eventArgument) {
 //<![CDATA[
 var UUWT_SDC = 'rpt1.uniteu.net/dcslvlcbx00000cduhg3h1bgr_2m3d';//]]>
 </script>
-
 
 
 
@@ -132,9 +131,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
                             
                     </div>  
                     <div id="HeaderLinks" class="right">
-                      	<a id="CustomLink5" class="HeaderLink" href="http://www.pharmaca.com/about.aspx" style="border-left: none;">ABOUT</a>
-                      <a id="BlogLink" class="HeaderLink" href="http://www.pharmacablog.com" target="_blank">BLOG</a>
-			<a id="CustomLink4" class="HeaderLink" href="http://www.pharmaca.com/national-events.aspx">EVENTS</a>
+                    	<a id="CustomLink6" class="HeaderLink" href="http://www.pharmaca.com/customer-service.aspx" style="border-left: none;">CUSTOMER SERVICE</a>
+                      	<a id="CustomLink5" class="HeaderLink" href="http://www.pharmaca.com/about.aspx">ABOUT</a>
+                      <a id="BlogLink" class="HeaderLink" href="http://www.pharmaca.com/projectwellness/">BLOG</a>
+			<a id="CustomLink4" class="HeaderLink" href="http://www.pharmaca.com/events.aspx">EVENTS</a>
                               <a id="CustomLink3" class="HeaderLink" href="http://www.pharmaca.com/stores.aspx">STORES</a>
                         
                                 <a id="LoginView3_HeaderCreateAccount" class="HeaderLink" href="https://secure.pharmaca.com/Secure/CreateAccount.aspx">CREATE ACCOUNT</a>
@@ -144,19 +144,51 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
                       <div class="clear"></div>
                     <div>
                         <div class="left" style="padding: 10px 0px 0px 0px;">
-                            <div id="Search1_HeaderSearchPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'Search1_Search')">
-	
-    <input name="ctl00$ctl00$Search1$searchText" type="text" value="Search" id="Search1_searchText" title="Search" class="formatField" onfocus="clearField(this);" onblur="returnField(this);" style="width:205px;">
-    <input type="image" name="ctl00$ctl00$Search1$Search" id="Search1_Search" src="App_Themes/Default/images/Buttons/btn_go.gif" alt="Go" align="absmiddle" onclick="GotoSearchUrl(&quot;http://www.pharmaca.com/&quot;+MakeUrlFriendly($(&quot;[id$='searchText']&quot;).val(), true)+&quot;/Search&quot;);return false;" style="border-width:0px;">
-    <span id="Search1_SearchAction1"></span>
+                            
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#PhonySearchImage").click(function () {
+                ExecuteSearch();
+            });
+            $('#searchText').keypress(function (e) {
+                if (e.keyCode == 13) {  //enter key = 13
+                    ExecuteSearch();
+                }
+            });
+        });
+        function ExecuteSearch() {
+            if ($("input[name$=searchRadioButton]:checked").val() == "products") {
+                $("#Search").click();
+            } else {
+                $("#SearchBlog").click();
+            }
+            return false;
+        }
+    </script>
+    <div id="HeaderSearchPanel" class="normalSearch inlineBtn">
+        <input name="ctl00$ctl00$Search1$searchText" type="text" value="Search" id="searchText" title="Search" class="formatField" onfocus="clearField(this);" onblur="returnField(this);" style="width:205px;">
+        <input type="image" name="ctl00$ctl00$Search1$Search" id="Search" src="App_Themes/Default/images/Buttons/btn_go.gif" alt="Go" align="absmiddle" onclick="GotoSearchUrl(&quot;http://www.pharmaca.com/&quot;+MakeUrlFriendly($(&quot;[id$='searchText']&quot;).val(), true)+&quot;/Search&quot;);return false;" style="border-width:0px;display: none;">
+        <input type="image" name="ctl00$ctl00$Search1$SearchBlog" id="SearchBlog" src="App_Themes/Default/images/Buttons/btn_go.gif" alt="Go" align="absmiddle" onclick="GotoSearchUrl(&quot;http://www.pharmaca.com/projectwellness?search_freetext=&quot;+MakeUrlFriendly($(&quot;[id$='searchText']&quot;).val(), true)+&quot;&amp;page=blogHome&quot;);return false;" style="border-width:0px;display: none;">
+        <img id="PhonySearchImage" class="searchGoButton" src="App_Themes/Default/images/Buttons/btn_go.gif" alt="Go" align="absmiddle" style="border-width:0px;">
+        <span id="Search1_SearchAction1"></span>
+        <span id="Search1_SearchAction2"></span>
+        <table id="Search1_searchRadioButton" class="searchSelect" border="0">
+	<tbody><tr>
+		<td><input id="Search1_searchRadioButton_0" type="radio" name="ctl00$ctl00$Search1$searchRadioButton" value="products" checked="checked"><label for="Search1_searchRadioButton_0">Search Products</label></td>
+	</tr><tr>
+		<td><input id="Search1_searchRadioButton_1" type="radio" name="ctl00$ctl00$Search1$searchRadioButton" value="articles"><label for="Search1_searchRadioButton_1">Search Articles</label></td>
+	</tr>
+</tbody></table>
+    </div>
 
-</div>
                         </div>
                         <div id="BoldChatImage" class="left">
-							<!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=My Chat Button,Website=Pharmaca.com) -->
+							
+<!-- /BoldChat Live Call Button HTML v4.00 -->
+<!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=My Chat Button,Website=Pharmaca.com) -->
 <div style="text-align: center; white-space: nowrap;">
 	 <a href="https://livechat.boldchat.com/aid/651311802887010940/bc.chat?resize=true&amp;cbdid=5934037516124407915&amp;wdid=3268204154851225558" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat2617456693755614634', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
-	  <div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/651311802887010940/bc.cbi?cbdid=5934037516124407915&amp;wdid=3268204154851225558" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '5934037516124407915', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/651311802887010940/bc.cbi?cbdid=5934037516124407915&amp;wdid=3268204154851225558" border="0" id="0.5612698018131168"></div>
+	  <div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/651311802887010940/bc.cbi?cbdid=5934037516124407915&amp;wdid=3268204154851225558" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '5934037516124407915', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/651311802887010940/bc.cbi?cbdid=5934037516124407915&amp;wdid=3268204154851225558" border="0" id="0.37571512367793614"></div>
 	 </a>
 </div>
 <!-- /BoldChat Live Chat Button HTML v4.00 -->
@@ -349,6 +381,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 					<li class="AspNet-Menu-Leaf level-2 level-2-35">
 						<a href="http://www.pharmaca.com/Quit-Smoking-Support/5795/5004-5795/dept" class="AspNet-Menu-Link link-level-2 link-level-2-35">
 							Quit Smoking Support</a>
+					</li>
+					<li class="AspNet-Menu-Leaf level-2 level-2-36">
+						<a href="http://www.pharmaca.com/Compression/6050/5004-6050/dept" class="AspNet-Menu-Link link-level-2 link-level-2-36">
+							Compression</a>
 					</li>
 				</ul>
 			</li>
@@ -685,8 +721,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 									Bioflavonoid Complex</a>
 							</li>
 							<li class="AspNet-Menu-Leaf level-3 level-3-8">
-								<a href="http://www.pharmaca.com/Quercitin/5974/5013-5954-5974/dept" class="AspNet-Menu-Link link-level-3 link-level-3-8">
-									Quercitin</a>
+								<a href="http://www.pharmaca.com/Quercetin/5974/5013-5954-5974/dept" class="AspNet-Menu-Link link-level-3 link-level-3-8">
+									Quercetin</a>
 							</li>
 							<li class="AspNet-Menu-Leaf level-3 level-3-9">
 								<a href="http://www.pharmaca.com/Other-Vitamins/5975/5013-5954-5975/dept" class="AspNet-Menu-Link link-level-3 link-level-3-9">
@@ -1147,23 +1183,19 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							Antacids</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-4">
-						<a href="http://www.pharmaca.com/Anti-Diarrhea/5040/5011-5040/dept" class="AspNet-Menu-Link link-level-2 link-level-2-4">
-							Anti-Diarrhea</a>
-					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-5">
-						<a href="http://www.pharmaca.com/Antifungal-Nail-Solution/5041/5011-5041/dept" class="AspNet-Menu-Link link-level-2 link-level-2-5">
+						<a href="http://www.pharmaca.com/Antifungal-Nail-Solution/5041/5011-5041/dept" class="AspNet-Menu-Link link-level-2 link-level-2-4">
 							Antifungal Nail Solution</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-6">
-						<a href="http://www.pharmaca.com/Anti-Gas/5042/5011-5042/dept" class="AspNet-Menu-Link link-level-2 link-level-2-6">
+					<li class="AspNet-Menu-Leaf level-2 level-2-5">
+						<a href="http://www.pharmaca.com/Anti-Gas/5042/5011-5042/dept" class="AspNet-Menu-Link link-level-2 link-level-2-5">
 							Anti-Gas</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-7">
-						<a href="http://www.pharmaca.com/Childrens-Cough-Cold-and-Flu/5043/5011-5043/dept" class="AspNet-Menu-Link link-level-2 link-level-2-7">
+					<li class="AspNet-Menu-Leaf level-2 level-2-6">
+						<a href="http://www.pharmaca.com/Childrens-Cough-Cold-and-Flu/5043/5011-5043/dept" class="AspNet-Menu-Link link-level-2 link-level-2-6">
 							Children's Cough, Cold, and Flu</a>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-8">
-						<a href="http://www.pharmaca.com/Childrens-Pain-and-Fever-Relief/5044/5011-5044/dept" class="AspNet-Menu-Link link-level-2 link-level-2-8">
+					<li class="AspNet-Menu-WithChildren level-2 level-2-7">
+						<a href="http://www.pharmaca.com/Childrens-Pain-and-Fever-Relief/5044/5011-5044/dept" class="AspNet-Menu-Link link-level-2 link-level-2-7">
 							Children's Pain and Fever Relief</a>
 						<ul>
 							<li class="AspNet-Menu-Leaf level-3 level-3-1">
@@ -1184,12 +1216,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							</li>
 						</ul>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-9">
-						<a href="http://www.pharmaca.com/Cough-Cold-and-Flu/5045/5011-5045/dept" class="AspNet-Menu-Link link-level-2 link-level-2-9">
+					<li class="AspNet-Menu-Leaf level-2 level-2-8">
+						<a href="http://www.pharmaca.com/Cough-Cold-and-Flu/5045/5011-5045/dept" class="AspNet-Menu-Link link-level-2 link-level-2-8">
 							Cough, Cold, and Flu</a>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-10">
-						<a href="http://www.pharmaca.com/Ear-Care/5046/5011-5046/dept" class="AspNet-Menu-Link link-level-2 link-level-2-10">
+					<li class="AspNet-Menu-WithChildren level-2 level-2-9">
+						<a href="http://www.pharmaca.com/Ear-Care/5046/5011-5046/dept" class="AspNet-Menu-Link link-level-2 link-level-2-9">
 							Ear Care</a>
 						<ul>
 							<li class="AspNet-Menu-Leaf level-3 level-3-1">
@@ -1206,12 +1238,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							</li>
 						</ul>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-11">
-						<a href="http://www.pharmaca.com/Enemas/5047/5011-5047/dept" class="AspNet-Menu-Link link-level-2 link-level-2-11">
+					<li class="AspNet-Menu-Leaf level-2 level-2-10">
+						<a href="http://www.pharmaca.com/Enemas/5047/5011-5047/dept" class="AspNet-Menu-Link link-level-2 link-level-2-10">
 							Enemas</a>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-12">
-						<a href="http://www.pharmaca.com/Eye-Care/5048/5011-5048/dept" class="AspNet-Menu-Link link-level-2 link-level-2-12">
+					<li class="AspNet-Menu-WithChildren level-2 level-2-11">
+						<a href="http://www.pharmaca.com/Eye-Care/5048/5011-5048/dept" class="AspNet-Menu-Link link-level-2 link-level-2-11">
 							Eye Care</a>
 						<ul>
 							<li class="AspNet-Menu-Leaf level-3 level-3-1">
@@ -1236,8 +1268,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							</li>
 						</ul>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-13">
-						<a href="http://www.pharmaca.com/First-Aid/5049/5011-5049/dept" class="AspNet-Menu-Link link-level-2 link-level-2-13">
+					<li class="AspNet-Menu-WithChildren level-2 level-2-12">
+						<a href="http://www.pharmaca.com/First-Aid/5049/5011-5049/dept" class="AspNet-Menu-Link link-level-2 link-level-2-12">
 							First Aid</a>
 						<ul>
 							<li class="AspNet-Menu-Leaf level-3 level-3-1">
@@ -1254,8 +1286,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							</li>
 						</ul>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-14">
-						<a href="http://www.pharmaca.com/Foot-Care/5050/5011-5050/dept" class="AspNet-Menu-Link link-level-2 link-level-2-14">
+					<li class="AspNet-Menu-WithChildren level-2 level-2-13">
+						<a href="http://www.pharmaca.com/Foot-Care/5050/5011-5050/dept" class="AspNet-Menu-Link link-level-2 link-level-2-13">
 							Foot Care</a>
 						<ul>
 							<li class="AspNet-Menu-Leaf level-3 level-3-1">
@@ -1276,50 +1308,24 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							</li>
 						</ul>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-15">
-						<a href="http://www.pharmaca.com/Hemorrhoidal-Preparations/5051/5011-5051/dept" class="AspNet-Menu-Link link-level-2 link-level-2-15">
+					<li class="AspNet-Menu-Leaf level-2 level-2-14">
+						<a href="http://www.pharmaca.com/Hemorrhoidal-Preparations/5051/5011-5051/dept" class="AspNet-Menu-Link link-level-2 link-level-2-14">
 							Hemorrhoidal Preparations</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-16">
-						<a href="http://www.pharmaca.com/Lactose-Intolerance/5052/5011-5052/dept" class="AspNet-Menu-Link link-level-2 link-level-2-16">
-							Lactose Intolerance</a>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-17">
-						<a href="http://www.pharmaca.com/Laxatives/5053/5011-5053/dept" class="AspNet-Menu-Link link-level-2 link-level-2-17">
+					<li class="AspNet-Menu-Leaf level-2 level-2-15">
+						<a href="http://www.pharmaca.com/Laxatives/5053/5011-5053/dept" class="AspNet-Menu-Link link-level-2 link-level-2-15">
 							Laxatives</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Fiber-Tablets/5226/5011-5053-5226/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Fiber-Tablets</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Laxatives-Liquids/5227/5011-5053-5227/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Laxatives-Liquids</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Laxatives-Tabs/5228/5011-5053-5228/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Laxatives-Tabs</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Stool-Softeners/5229/5011-5053-5229/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Stool Softeners</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Suppositories/5230/5011-5053-5230/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Suppositories</a>
-							</li>
-						</ul>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-18">
-						<a href="http://www.pharmaca.com/Motion-Sickness/5054/5011-5054/dept" class="AspNet-Menu-Link link-level-2 link-level-2-18">
+					<li class="AspNet-Menu-Leaf level-2 level-2-16">
+						<a href="http://www.pharmaca.com/Motion-Sickness/5054/5011-5054/dept" class="AspNet-Menu-Link link-level-2 link-level-2-16">
 							Motion Sickness</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-19">
-						<a href="http://www.pharmaca.com/Muscle-and-Arthritis-Rubs/5055/5011-5055/dept" class="AspNet-Menu-Link link-level-2 link-level-2-19">
+					<li class="AspNet-Menu-Leaf level-2 level-2-17">
+						<a href="http://www.pharmaca.com/Muscle-and-Arthritis-Rubs/5055/5011-5055/dept" class="AspNet-Menu-Link link-level-2 link-level-2-17">
 							Muscle and Arthritis Rubs</a>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-20">
-						<a href="http://www.pharmaca.com/Nasal-and-Sinus-Care/5056/5011-5056/dept" class="AspNet-Menu-Link link-level-2 link-level-2-20">
+					<li class="AspNet-Menu-WithChildren level-2 level-2-18">
+						<a href="http://www.pharmaca.com/Nasal-and-Sinus-Care/5056/5011-5056/dept" class="AspNet-Menu-Link link-level-2 link-level-2-18">
 							Nasal and Sinus Care</a>
 						<ul>
 							<li class="AspNet-Menu-Leaf level-3 level-3-1">
@@ -1340,8 +1346,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							</li>
 						</ul>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-21">
-						<a href="http://www.pharmaca.com/Pain-Relief/5057/5011-5057/dept" class="AspNet-Menu-Link link-level-2 link-level-2-21">
+					<li class="AspNet-Menu-WithChildren level-2 level-2-19">
+						<a href="http://www.pharmaca.com/Pain-Relief/5057/5011-5057/dept" class="AspNet-Menu-Link link-level-2 link-level-2-19">
 							Pain Relief</a>
 						<ul>
 							<li class="AspNet-Menu-Leaf level-3 level-3-1">
@@ -1362,28 +1368,24 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							</li>
 						</ul>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-22">
-						<a href="http://www.pharmaca.com/Pill-Organizers/5058/5011-5058/dept" class="AspNet-Menu-Link link-level-2 link-level-2-22">
+					<li class="AspNet-Menu-Leaf level-2 level-2-20">
+						<a href="http://www.pharmaca.com/Pill-Organizers/5058/5011-5058/dept" class="AspNet-Menu-Link link-level-2 link-level-2-20">
 							Pill Organizers</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-23">
-						<a href="http://www.pharmaca.com/Pill-Splitters-and-Medicine-Droppers/5059/5011-5059/dept" class="AspNet-Menu-Link link-level-2 link-level-2-23">
+					<li class="AspNet-Menu-Leaf level-2 level-2-21">
+						<a href="http://www.pharmaca.com/Pill-Splitters-and-Medicine-Droppers/5059/5011-5059/dept" class="AspNet-Menu-Link link-level-2 link-level-2-21">
 							Pill Splitters and Medicine Droppers</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-24">
-						<a href="http://www.pharmaca.com/Respiratory-Rubs/5060/5011-5060/dept" class="AspNet-Menu-Link link-level-2 link-level-2-24">
+					<li class="AspNet-Menu-Leaf level-2 level-2-22">
+						<a href="http://www.pharmaca.com/Respiratory-Rubs/5060/5011-5060/dept" class="AspNet-Menu-Link link-level-2 link-level-2-22">
 							Respiratory Rubs</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-25">
-						<a href="http://www.pharmaca.com/Sleep-Aids/5061/5011-5061/dept" class="AspNet-Menu-Link link-level-2 link-level-2-25">
+					<li class="AspNet-Menu-Leaf level-2 level-2-23">
+						<a href="http://www.pharmaca.com/Sleep-Aids/5061/5011-5061/dept" class="AspNet-Menu-Link link-level-2 link-level-2-23">
 							Sleep Aids</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-26">
-						<a href="http://www.pharmaca.com/Stimulants/5062/5011-5062/dept" class="AspNet-Menu-Link link-level-2 link-level-2-26">
-							Stimulants</a>
-					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-27">
-						<a href="http://www.pharmaca.com/Medical-Instruments/5819/5011-5819/dept" class="AspNet-Menu-Link link-level-2 link-level-2-27">
+					<li class="AspNet-Menu-Leaf level-2 level-2-24">
+						<a href="http://www.pharmaca.com/Medical-Instruments/5819/5011-5819/dept" class="AspNet-Menu-Link link-level-2 link-level-2-24">
 							Medical Instruments</a>
 					</li>
 				</ul>
@@ -1546,6 +1548,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 						<a href="http://www.pharmaca.com/Cold-Sore-Relief/5835/5012-5835/dept" class="AspNet-Menu-Link link-level-2 link-level-2-18">
 							Cold Sore Relief</a>
 					</li>
+					<li class="AspNet-Menu-Leaf level-2 level-2-19">
+						<a href="http://www.pharmaca.com/Compression--Diabetic-Socks/6051/5012-6051/dept" class="AspNet-Menu-Link link-level-2 link-level-2-19">
+							Compression / Diabetic Socks</a>
+					</li>
 				</ul>
 			</li>
 			<li class="AspNet-Menu-WithChildren level-1 level-1-8">
@@ -1583,6 +1589,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							<li class="AspNet-Menu-Leaf level-3 level-3-6">
 								<a href="http://www.pharmaca.com/Tapers/5842/5007-5015-5842/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
 									Tapers</a>
+							</li>
+							<li class="AspNet-Menu-Leaf level-3 level-3-7">
+								<a href="http://www.pharmaca.com/Tealights/6058/5007-5015-6058/dept" class="AspNet-Menu-Link link-level-3 link-level-3-7">
+									Tealights</a>
 							</li>
 						</ul>
 					</li>
@@ -1647,12 +1657,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							Cosmetic Bags</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-9">
-						<a href="http://www.pharmaca.com/Tote-Bags/5724/5007-5724/dept" class="AspNet-Menu-Link link-level-2 link-level-2-9">
-							Tote Bags</a>
+						<a href="http://www.pharmaca.com/Bags/5724/5007-5724/dept" class="AspNet-Menu-Link link-level-2 link-level-2-9">
+							Bags</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-10">
-						<a href="http://www.pharmaca.com/Humidifiers/5726/5007-5726/dept" class="AspNet-Menu-Link link-level-2 link-level-2-10">
-							Humidifiers</a>
+						<a href="http://www.pharmaca.com/Humidifiers--Vaporizers/5726/5007-5726/dept" class="AspNet-Menu-Link link-level-2 link-level-2-10">
+							Humidifiers / Vaporizers</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-11">
 						<a href="http://www.pharmaca.com/Music/5784/5007-5784/dept" class="AspNet-Menu-Link link-level-2 link-level-2-11">
@@ -1663,12 +1673,16 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 							Household Cleaning Supplies</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-13">
-						<a href="http://www.pharmaca.com/Air-PurifiersOdor-Eliminators/5798/5007-5798/dept" class="AspNet-Menu-Link link-level-2 link-level-2-13">
-							Air Purifiers/Odor Eliminators</a>
+						<a href="http://www.pharmaca.com/Air-Purifiers--Odor-Eliminators/5798/5007-5798/dept" class="AspNet-Menu-Link link-level-2 link-level-2-13">
+							Air Purifiers / Odor Eliminators</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-14">
 						<a href="http://www.pharmaca.com/Food-Storage/5807/5007-5807/dept" class="AspNet-Menu-Link link-level-2 link-level-2-14">
 							Food Storage</a>
+					</li>
+					<li class="AspNet-Menu-Leaf level-2 level-2-15">
+						<a href="http://www.pharmaca.com/Lamps/6053/5007-6053/dept" class="AspNet-Menu-Link link-level-2 link-level-2-15">
+							Lamps</a>
 					</li>
 				</ul>
 			</li>
@@ -1775,337 +1789,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 				</ul>
 			</li>
 			<li class="AspNet-Menu-WithChildren level-1 level-1-11">
-				<a href="http://www.pharmaca.com/Vitamins-and-Supps/5855/5855/dept" class="AspNet-Menu-Link link-level-1 link-level-1-11">
-					Vitamins &amp; Supps</a>
-				<ul>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-1">
-						<a href="http://www.pharmaca.com/Multivitamins/5856/5855-5856/dept" class="AspNet-Menu-Link link-level-2 link-level-2-1">
-							Multivitamins</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Multivitamins-with-Iron/5857/5855-5856-5857/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Multivitamins with Iron</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Multivitamins-without-Iron/5858/5855-5856-5858/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Multivitamins without Iron</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Mens-Multivitamins/5859/5855-5856-5859/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Men's Multivitamins</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Womens-Multivitamins/5860/5855-5856-5860/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Women's Multivitamins</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Prenatal-Multivitamins/5861/5855-5856-5861/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Prenatal Multivitamins</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-6">
-								<a href="http://www.pharmaca.com/Childrens-Multivitamins/5862/5855-5856-5862/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
-									Children's Multivitamins</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-7">
-								<a href="http://www.pharmaca.com/Adults-Over-40/5863/5855-5856-5863/dept" class="AspNet-Menu-Link link-level-3 link-level-3-7">
-									Adults Over 40</a>
-							</li>
-						</ul>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-2">
-						<a href="http://www.pharmaca.com/Vitamins/5864/5855-5864/dept" class="AspNet-Menu-Link link-level-2 link-level-2-2">
-							Vitamins</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Vitamin-A/5865/5855-5864-5865/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Vitamin A</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Vitamin-B/5866/5855-5864-5866/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Vitamin B</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Vitamin-C/5867/5855-5864-5867/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Vitamin C</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Vitamin-D/5868/5855-5864-5868/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Vitamin D</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Vitamin-E/5869/5855-5864-5869/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Vitamin E</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-6">
-								<a href="http://www.pharmaca.com/Vitamin-K/5870/5855-5864-5870/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
-									Vitamin K</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-7">
-								<a href="http://www.pharmaca.com/Bioflavonoid-Complex/5871/5855-5864-5871/dept" class="AspNet-Menu-Link link-level-3 link-level-3-7">
-									Bioflavonoid Complex</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-8">
-								<a href="http://www.pharmaca.com/Quercitin/5872/5855-5864-5872/dept" class="AspNet-Menu-Link link-level-3 link-level-3-8">
-									Quercitin</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-9">
-								<a href="http://www.pharmaca.com/Other-Vitamins/5873/5855-5864-5873/dept" class="AspNet-Menu-Link link-level-3 link-level-3-9">
-									Other Vitamins</a>
-							</li>
-						</ul>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-3">
-						<a href="http://www.pharmaca.com/Minerals/5874/5855-5874/dept" class="AspNet-Menu-Link link-level-2 link-level-2-3">
-							Minerals</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Calcium/5875/5855-5874-5875/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Calcium</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Calcium-and-Magnesium/5876/5855-5874-5876/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Calcium &amp; Magnesium</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Chromium/5877/5855-5874-5877/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Chromium</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Iron/5878/5855-5874-5878/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Iron</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Magnesium/5879/5855-5874-5879/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Magnesium</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-6">
-								<a href="http://www.pharmaca.com/Potassium/5880/5855-5874-5880/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
-									Potassium</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-7">
-								<a href="http://www.pharmaca.com/Selenium/5881/5855-5874-5881/dept" class="AspNet-Menu-Link link-level-3 link-level-3-7">
-									Selenium</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-8">
-								<a href="http://www.pharmaca.com/Silver/5882/5855-5874-5882/dept" class="AspNet-Menu-Link link-level-3 link-level-3-8">
-									Silver</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-9">
-								<a href="http://www.pharmaca.com/Zinc/5883/5855-5874-5883/dept" class="AspNet-Menu-Link link-level-3 link-level-3-9">
-									Zinc</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-10">
-								<a href="http://www.pharmaca.com/Multi-Mineral-Formulas/5884/5855-5874-5884/dept" class="AspNet-Menu-Link link-level-3 link-level-3-10">
-									Multi-Mineral Formulas</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-11">
-								<a href="http://www.pharmaca.com/Other-Minerals/5885/5855-5874-5885/dept" class="AspNet-Menu-Link link-level-3 link-level-3-11">
-									Other Minerals</a>
-							</li>
-						</ul>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-4">
-						<a href="http://www.pharmaca.com/Supplements/5886/5855-5886/dept" class="AspNet-Menu-Link link-level-2 link-level-2-4">
-							Supplements</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Amino-Acids/5887/5855-5886-5887/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Amino Acids</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Antioxidant-Formulas/5888/5855-5886-5888/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Antioxidant Formulas</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/CoQ10/5889/5855-5886-5889/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									CoQ10</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/DHEA--Hormone-Creams-and-Formulas/5890/5855-5886-5890/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									DHEA / Hormone Creams &amp; Formulas</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Digestive-Enzymes/5891/5855-5886-5891/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Digestive Enzymes</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-6">
-								<a href="http://www.pharmaca.com/Fibers--Psyllium--Fiber-Formulas/5892/5855-5886-5892/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
-									Fibers / Psyllium / Fiber Formulas</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-7">
-								<a href="http://www.pharmaca.com/Glandular/5893/5855-5886-5893/dept" class="AspNet-Menu-Link link-level-3 link-level-3-7">
-									Glandular</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-8">
-								<a href="http://www.pharmaca.com/Glucosamine--Chondroitin--MSM/5894/5855-5886-5894/dept" class="AspNet-Menu-Link link-level-3 link-level-3-8">
-									Glucosamine / Chondroitin / MSM</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-9">
-								<a href="http://www.pharmaca.com/Green-Foods/5895/5855-5886-5895/dept" class="AspNet-Menu-Link link-level-3 link-level-3-9">
-									Green Foods</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-10">
-								<a href="http://www.pharmaca.com/Omega-3--Fish-Oil--Flaxseed-Oil/5896/5855-5886-5896/dept" class="AspNet-Menu-Link link-level-3 link-level-3-10">
-									Omega-3 / Fish Oil / Flaxseed Oil</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-11">
-								<a href="http://www.pharmaca.com/Probiotics/5897/5855-5886-5897/dept" class="AspNet-Menu-Link link-level-3 link-level-3-11">
-									Probiotics</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-12">
-								<a href="http://www.pharmaca.com/Protein/5898/5855-5886-5898/dept" class="AspNet-Menu-Link link-level-3 link-level-3-12">
-									Protein</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-13">
-								<a href="http://www.pharmaca.com/Sam-E--Melatonin--5-HTP/5899/5855-5886-5899/dept" class="AspNet-Menu-Link link-level-3 link-level-3-13">
-									Sam-E / Melatonin / 5-HTP</a>
-							</li>
-							<li class="AspNet-Menu-WithChildren level-3 level-3-14">
-								<a href="http://www.pharmaca.com/Sexual-Vitality/5900/5855-5886-5900/dept" class="AspNet-Menu-Link link-level-3 link-level-3-14">
-									Sexual Vitality</a>
-								<ul>
-									<li class="AspNet-Menu-Leaf level-4 level-4-1">
-										<a href="http://www.pharmaca.com/For-Her/5901/5855-5886-5900-5901/dept" class="AspNet-Menu-Link link-level-4 link-level-4-1">
-											For Her</a>
-									</li>
-									<li class="AspNet-Menu-Leaf level-4 level-4-2">
-										<a href="http://www.pharmaca.com/For-Him/5902/5855-5886-5900-5902/dept" class="AspNet-Menu-Link link-level-4 link-level-4-2">
-											For Him</a>
-									</li>
-								</ul>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-15">
-								<a href="http://www.pharmaca.com/Weight-Management/5903/5855-5886-5903/dept" class="AspNet-Menu-Link link-level-3 link-level-3-15">
-									Weight Management</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-16">
-								<a href="http://www.pharmaca.com/Other-Supplements/5904/5855-5886-5904/dept" class="AspNet-Menu-Link link-level-3 link-level-3-16">
-									Other Supplements</a>
-							</li>
-						</ul>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-5">
-						<a href="http://www.pharmaca.com/Moms-To-Be/5905/5855-5905/dept" class="AspNet-Menu-Link link-level-2 link-level-2-5">
-							Moms To Be</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Prenatal-Supplements/5906/5855-5905-5906/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Prenatal Supplements</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Lactation-Support/5907/5855-5905-5907/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Lactation Support</a>
-							</li>
-						</ul>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-6">
-						<a href="http://www.pharmaca.com/Kids/5908/5855-5908/dept" class="AspNet-Menu-Link link-level-2 link-level-2-6">
-							Kids</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Digestive-Support/5909/5855-5908-5909/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Digestive Support</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Immune-Support/5910/5855-5908-5910/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Immune Support</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Memory-and-Brain-Support/5911/5855-5908-5911/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Memory &amp; Brain Support</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Multivitamins/5913/5855-5908-5913/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Multivitamins</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Sleep-and-Stress-Support/5914/5855-5908-5914/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Sleep &amp; Stress Support</a>
-							</li>
-						</ul>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-7">
-						<a href="http://www.pharmaca.com/Pets/5915/5855-5915/dept" class="AspNet-Menu-Link link-level-2 link-level-2-7">
-							Pets</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Anxiety/5916/5855-5915-5916/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Anxiety</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Digestion/5917/5855-5915-5917/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Digestion</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Eye-and-Ear-Care/5918/5855-5915-5918/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Eye &amp; Ear Care</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Joint-Care/5919/5855-5915-5919/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Joint Care</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Skin--Coat--Flea-Care/5920/5855-5915-5920/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Skin / Coat / Flea Care</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-6">
-								<a href="http://www.pharmaca.com/Vitamin-Formulas/5921/5855-5915-5921/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
-									Vitamin Formulas</a>
-							</li>
-						</ul>
-					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-8">
-						<a href="http://www.pharmaca.com/Sports-Nutrition/5923/5855-5923/dept" class="AspNet-Menu-Link link-level-2 link-level-2-8">
-							Sports Nutrition</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Endurance-and-Electrolytes/5924/5855-5923-5924/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Endurance &amp; Electrolytes</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Meal-Replacement/5925/5855-5923-5925/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Meal Replacement</a>
-							</li>
-							<li class="AspNet-Menu-WithChildren level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Protein-Powder/5926/5855-5923-5926/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Protein Powder</a>
-								<ul>
-									<li class="AspNet-Menu-Leaf level-4 level-4-1">
-										<a href="http://www.pharmaca.com/Egg-Protein/5931/5855-5923-5926-5931/dept" class="AspNet-Menu-Link link-level-4 link-level-4-1">
-											Egg Protein</a>
-									</li>
-									<li class="AspNet-Menu-Leaf level-4 level-4-2">
-										<a href="http://www.pharmaca.com/Vegan-Protein/5932/5855-5923-5926-5932/dept" class="AspNet-Menu-Link link-level-4 link-level-4-2">
-											Vegan Protein</a>
-									</li>
-									<li class="AspNet-Menu-Leaf level-4 level-4-3">
-										<a href="http://www.pharmaca.com/Whey-Proteins/5933/5855-5923-5926-5933/dept" class="AspNet-Menu-Link link-level-4 link-level-4-3">
-											Whey Proteins</a>
-									</li>
-								</ul>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Pre-Workout/5927/5855-5923-5927/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Pre-Workout</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Post-Workout/5928/5855-5923-5928/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Post-Workout</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-6">
-								<a href="http://www.pharmaca.com/Supplements/5929/5855-5923-5929/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
-									Supplements</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-7">
-								<a href="http://www.pharmaca.com/Blender-Bottles-and-Mixers/5930/5855-5923-5930/dept" class="AspNet-Menu-Link link-level-3 link-level-3-7">
-									Blender Bottles &amp; Mixers</a>
-							</li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li class="AspNet-Menu-WithChildren level-1 level-1-12">
-				<a href="http://www.pharmaca.com/Sports-Nutrition/5934/5934/dept" class="AspNet-Menu-Link link-level-1 link-level-1-12">
+				<a href="http://www.pharmaca.com/Sports-Nutrition/5934/5934/dept" class="AspNet-Menu-Link link-level-1 link-level-1-11">
 					Sports Nutrition</a>
 				<ul>
 					<li class="AspNet-Menu-WithChildren level-2 level-2-1">
@@ -2164,77 +1848,43 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 					</li>
 				</ul>
 			</li>
-			<li class="AspNet-Menu-WithChildren level-1 level-1-13">
-				<a href="http://www.pharmaca.com/Holiday/5945/5945/dept" class="AspNet-Menu-Link link-level-1 link-level-1-13">
-					Holiday</a>
+			<li class="AspNet-Menu-WithChildren level-1 level-1-12">
+				<a href="http://www.pharmaca.com/Clearance/5945/5945/dept" class="AspNet-Menu-Link link-level-1 link-level-1-12">
+					Clearance</a>
 				<ul>
 					<li class="AspNet-Menu-Leaf level-2 level-2-1">
-						<a href="http://www.pharmaca.com/Seasonal-Cards/6034/5945-6034/dept" class="AspNet-Menu-Link link-level-2 link-level-2-1">
-							Seasonal Cards</a>
+						<a href="http://www.pharmaca.com/Vitamins-Supplements-and-Herbs/6068/5945-6068/dept" class="AspNet-Menu-Link link-level-2 link-level-2-1">
+							Vitamins, Supplements &amp; Herbs</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-2">
-						<a href="http://www.pharmaca.com/Gifts-for-Her/6035/5945-6035/dept" class="AspNet-Menu-Link link-level-2 link-level-2-2">
-							Gifts for Her</a>
+						<a href="http://www.pharmaca.com/Beauty-and-Skin-Care/6069/5945-6069/dept" class="AspNet-Menu-Link link-level-2 link-level-2-2">
+							Beauty &amp; Skin Care</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-3">
-						<a href="http://www.pharmaca.com/Gifts-for-Him/6036/5945-6036/dept" class="AspNet-Menu-Link link-level-2 link-level-2-3">
-							Gifts for Him</a>
+						<a href="http://www.pharmaca.com/Personal-Care/6070/5945-6070/dept" class="AspNet-Menu-Link link-level-2 link-level-2-3">
+							Personal Care</a>
 					</li>
 					<li class="AspNet-Menu-Leaf level-2 level-2-4">
-						<a href="http://www.pharmaca.com/Gifts-for-Kids/6037/5945-6037/dept" class="AspNet-Menu-Link link-level-2 link-level-2-4">
-							Gifts for Kids</a>
+						<a href="http://www.pharmaca.com/Babies-Kids-and-Home/6071/5945-6071/dept" class="AspNet-Menu-Link link-level-2 link-level-2-4">
+							Babies, Kids &amp; Home</a>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-5">
-						<a href="http://www.pharmaca.com/Gifts-by-Category/6038/5945-6038/dept" class="AspNet-Menu-Link link-level-2 link-level-2-5">
-							Gifts by Category</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Skincare-Gifts/6044/5945-6038-6044/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Skincare Gifts</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Bath-and-Body-Gifts/6045/5945-6038-6045/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Bath &amp; Body Gifts</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Relaxation-Gifts/6046/5945-6038-6046/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Relaxation Gifts</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-4">
-								<a href="http://www.pharmaca.com/Hostess-Gifts/6047/5945-6038-6047/dept" class="AspNet-Menu-Link link-level-3 link-level-3-4">
-									Hostess Gifts</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-5">
-								<a href="http://www.pharmaca.com/Hanukkah-Gifts/6048/5945-6038-6048/dept" class="AspNet-Menu-Link link-level-3 link-level-3-5">
-									Hanukkah Gifts</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-6">
-								<a href="http://www.pharmaca.com/Pet-Gifts/6049/5945-6038-6049/dept" class="AspNet-Menu-Link link-level-3 link-level-3-6">
-									Pet Gifts</a>
-							</li>
-						</ul>
+				</ul>
+			</li>
+			<li class="AspNet-Menu-WithChildren level-1 level-1-13">
+				<a href="http://www.pharmaca.com/Mothers-Day/6072/6072/dept" class="AspNet-Menu-Link link-level-1 link-level-1-13">
+					Mother's Day</a>
+				<ul>
+					<li class="AspNet-Menu-Leaf level-2 level-2-1">
+						<a href="http://www.pharmaca.com/Mothers-Day-Beauty/6073/6072-6073/dept" class="AspNet-Menu-Link link-level-2 link-level-2-1">
+							Mother's Day Beauty</a>
 					</li>
-					<li class="AspNet-Menu-WithChildren level-2 level-2-6">
-						<a href="http://www.pharmaca.com/Gift-Ideas-to-Fit-Your-Budget/6039/5945-6039/dept" class="AspNet-Menu-Link link-level-2 link-level-2-6">
-							Gift Ideas to Fit Your Budget</a>
-						<ul>
-							<li class="AspNet-Menu-Leaf level-3 level-3-1">
-								<a href="http://www.pharmaca.com/Under-20/6040/5945-6039-6040/dept" class="AspNet-Menu-Link link-level-3 link-level-3-1">
-									Under $20</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-2">
-								<a href="http://www.pharmaca.com/Under-30/6041/5945-6039-6041/dept" class="AspNet-Menu-Link link-level-3 link-level-3-2">
-									Under $30</a>
-							</li>
-							<li class="AspNet-Menu-Leaf level-3 level-3-3">
-								<a href="http://www.pharmaca.com/Under-50/6042/5945-6039-6042/dept" class="AspNet-Menu-Link link-level-3 link-level-3-3">
-									Under $50</a>
-							</li>
-						</ul>
+					<li class="AspNet-Menu-Leaf level-2 level-2-2">
+						<a href="http://www.pharmaca.com/Mothers-Day-Relaxation/6074/6072-6074/dept" class="AspNet-Menu-Link link-level-2 link-level-2-2">
+							Mother's Day Relaxation</a>
 					</li>
-					<li class="AspNet-Menu-Leaf level-2 level-2-7">
-						<a href="http://www.pharmaca.com/Seasonal-Cards/6043/5945-6043/dept" class="AspNet-Menu-Link link-level-2 link-level-2-7">
-							Seasonal Cards</a>
+					<li class="AspNet-Menu-Leaf level-2 level-2-3">
+						<a href="http://www.pharmaca.com/Active-Mom/6075/6072-6075/dept" class="AspNet-Menu-Link link-level-2 link-level-2-3">
+							Active Mom</a>
 					</li>
 				</ul>
 			</li>
@@ -2242,21 +1892,20 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 
 </div>
 </div>
-    
-<div id="aboutMenu" class="PrettyMenu">
-  <a id="_ctrl_0_PharmacyButton" href="http://www.pharmaca.com/pharmacy.aspx"><img id="_ctrl_0_ImageRx" title="Pharmacy Services" src="https://secure.pharmaca.com/Assets/images/pharmacy/pharmacy_button2.jpg" alt="Pharmacy Services" style="border-width:0px;"></a>
+    <div id="aboutMenu" class="PrettyMenu">
+      <a id="_ctrl_0_FreeShipping" href="http://www.pharmaca.com/pharmaca-shipping.aspx"><img id="_ctrl_0_ImageRx" title="Free Shipping" src="https://secure.pharmaca.com/App_Themes/Default/images/free-shipping35.gif" alt="Free Shipping" style="border-width:0px;"></a>
 </div>
                 </div>
                 <!-- BEGIN CONTENT ITEM: Header_Promo_Banner -->
                 <div class="clear">
-                		<script type="text/javascript">
+                	<script type="text/javascript">
 function myFunction ()
 {
-alert("*Sale valid through 11:59pm EST on Sunday, October 7. Valid only for merchandise at pharmaca.com. Excludes Clarisonic, Integrative Therapeutics, jane iredale, Jurlique, Metagenics, Nordic Naturals, Pharmax, Pure Encapsulations, Sanitas, SpaRitual, Thorne Research or Vital Nutrients, gift cards, prior purchases, shipping or purchases at Pharmaca stores. Not redeemable for cash or combinable with any other offer or discount.");
+alert("*Sale valid through 11:59pm EST on Saturday, May 4. Valid only for merchandise at pharmaca.com. Excludes Bluebonnet, Clarisonic, Doctor Greens, Dr. Hauschka, evanhealy, Herb Pharm, Integrative Therapeutics, jane iredale, John Masters, Jurlique, Metagenics, Natura Health Products, Natural Health, Nordic Naturals, Pharmax, Pure Encapsulations, Sanitas, SpaRitual, Suki, Thorne Performance, Thorne Research or Vital Nutrients, gift cards, prior purchases, shipping or purchases at Pharmaca stores. Not redeemable for cash or combinable with any other offer or discount.");
 }
-</script><p></p>
-<div style="padding: 5px 0pt; display: block;">
-	<a href="javascript:void(0);onclick=myFunction();"><img alt="Save 20% sitewide. Use coupon code HEALTHYFALL. Some restrictions apply. Click for details." src="/Assets/images/banners/10.12_HEALTHYFALL.jpg" style="display: block; width: 975px;"></a></div>
+</script>
+<div style="padding-bottom: 5px; padding-left: 0pt; padding-right: 0pt; display: block; padding-top: 5px">
+	<a href="javascript:void(0);onclick=myFunction();"><img alt="Save 15% sitewide. Use coupon code ILOVEMOM. Some restrictions apply. Click for details." src="/Assets/images/home/ilovemom7.jpg" style="width: 977px; display: block"></a></div>
 
                 </div>    
                 <!-- END CONTENT ITEM: Header_Promo_Banner -->
@@ -2267,72 +1916,117 @@ alert("*Sale valid through 11:59pm EST on Sunday, October 7. Valid only for merc
         
     <!-- start #pharmaca-template -->
 <div id="ph-content-sidebar-left" style="border: 1px solid rgb(238, 238, 238); margin: 0px; text-align: left; padding-bottom: 4px; line-height: 120%; width: 180px; padding-right: 0px; display: block; float: left; color: rgb(138, 121, 103);">
-<h4 style="margin: 5px; font-size: 14px;">Customer Service</h4>
-<ul>
-    <li style="list-style-type: none;"><strong><a href="https://secure.pharmaca.com/Secure/Auth/MyOrders.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Track Your Order</strong></a></strong></li>
-    <li style="list-style-type: none;">&nbsp;</li>
-    <li style="list-style-type: none;"><a href="/pharmaca-shipping.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Shipping</strong></a>
-    <ul>
-        <li style="list-style-type: none;">&nbsp;</li>
-    </ul>
-    </li>
-    <li style="list-style-type: none;"><a href="/pharmaca-return-policy.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Return Policy</strong></a>
-    <ul>
-        <li style="list-style-type: none;">&nbsp;</li>
-    </ul>
-    </li>
-    <li style="list-style-type: none;"><a href="/sales-flyer.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Monthly Sales Flyer</strong></a>
-    <ul>
-        <li style="list-style-type: none;">&nbsp;</li>
-    </ul>
-    </li>
-    <li style="list-style-type: none;"><a href="/terms-conditions.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Terms and Conditions</strong></a></li>
-    <li style="list-style-type: none;">&nbsp;</li>
-    <li style="list-style-type: none;"><a href="/privacy-policy.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Privacy Policy</strong></a></li>
-    <li style="list-style-type: none;">&nbsp;</li>
-    <li style="list-style-type: none;"><a href="/contact-us.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Contact Us</strong></a></li>
-</ul>
+	<h4 style="margin: 5px; font-size: 14px;">
+		Customer Service</h4>
+	<ul>
+		<li style="list-style-type: none;">
+			<strong><a href="https://secure.pharmaca.com/Secure/Auth/MyOrders.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Track Your Order</strong></a></strong></li>
+		<li style="list-style-type: none;">
+			&nbsp;</li>
+		<li style="list-style-type: none;">
+			<a href="/pharmaca-shipping.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Shipping</strong></a>
+			<ul>
+				<li style="list-style-type: none;">
+					&nbsp;</li>
+			</ul>
+		</li>
+		<li style="list-style-type: none;">
+			<a href="/pharmaca-return-policy.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Return Policy</strong></a>
+			<ul>
+				<li style="list-style-type: none;">
+					&nbsp;</li>
+			</ul>
+		</li>
+		<li style="list-style-type: none;">
+			<a href="/sales-flyer.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Monthly Sales Flyer</strong></a>
+			<ul>
+				<li style="list-style-type: none;">
+					&nbsp;</li>
+			</ul>
+		</li>
+		<li style="list-style-type: none;">
+			<a href="/terms-conditions.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Terms and Conditions</strong></a></li>
+		<li style="list-style-type: none;">
+			&nbsp;</li>
+		<li style="list-style-type: none;">
+			<a href="/privacy-policy.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Privacy Policy</strong></a></li>
+		<li style="list-style-type: none;">
+			&nbsp;</li>
+		<li style="list-style-type: none;">
+			<a href="/contact-us.aspx" style="text-decoration: none; color: rgb(138, 121, 103);"><strong>Contact Us</strong></a></li>
+	</ul>
 </div>
 <div>
-<div style="float: left; width: 630px; height: 25px;">
-<h1 style="margin: 0pt 0pt 0pt 20px; padding: 0px; float: left;">Privacy Policy</h1>
-</div>
-<div id="ph-content-main-body" style="border-left: 0px solid rgb(204, 204, 204); padding: 0px; position: relative; text-align: left; margin-left: 50px; width: 580px; float: left; margin-right: 80px;">
-<h2>Your privacy is very important to us at Pharmaca Integrative Pharmacy.</h2>
-<p>We recognize your right to confidentiality and are committed to respecting your privacy and recognizing your need for appropriate protection and management of personal information you share with us (the phrase "personal information" means any information by which you can be identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this privacy policy is to inform you what personal information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information.</p>
-<h2>Types of Information Gathered</h2>
-<p>There may be times (such as when you purchase or order a product, or participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, etc. We may also maintain a record of your product purchases.</p>
-<p>Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web site. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications from us.</p>
-<p>In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.</p>
-<h2>Using Information About You</h2>
-<p>We use the personal information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products, services and offers, and providing you with information from and about Pharmaca Integrative Pharmacy</p>
-<p>To serve you better, we may combine information you give us online or in our stores. We may also combine that information with publicly available information. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.</p>
-<p>Any personal information Pharmaca gathers from coupons (such as name, address and information about your purchases) delivered on our website or via email or direct mail will be never be sold. Pharmaca will only share the information with a very limited number of carefully selected partners who are contractually bound to only use the information for the above-mentioned purpose and exclusively with and for Pharmaca. As a pharmacy, Pharmaca Integrative Pharmacy must be in compliance with Federal HIPAA regulations. Therefore, personal data regarding individual customers’ prescription medications will never be viewed, analyzed or shared.</p>
-<p>To provide additional value to our customers, we may allow our vendors to provide offers to a select group of customers that may be interested in their brand(s). To ensure your personal data is protected, Pharmaca will obtain the materials from the supplier and communicate offers directly to our customers. In all instances, the information will only be used to provide information and offers regarding products and services available at Pharmaca.</p>
-<p>Although unlikely, in certain instances we may disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Pharmaca Integrative Pharmacy or to others. We may also disclose your personal information when we believe the law requires it.</p>
-<h2>Information Sharing</h2>
-<p>Pharmaca will not sell or otherwise share personally identifying information with other people or nonaffiliated companies except to provide services to you at your request, or as required by law. <br>
-&nbsp;<br>
-Pharmaca may share aggregate data collected through its website that does not personally identify any party with other business partners in order to provide requested services that we do not provide directly. In these situations, this information will provided only in the aggregate and only to those business partners who agree not to disclose the information to other parties and agree not to use this information to solicit.</p>
-<h2>Editing, Updating, Correcting and Deleting Information About You</h2>
-<p>We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Pharmaca Integrative Pharmacy please let us know by sending us an <a href="javascript:location.href='mailto:'+String.fromCharCode(105,110,102,111,64,112,104,97,114,109,97,99,97,46,99,111,109)+'?'">e-mail</a>. Please be sure to include your e-mail address, mailing address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other personal information with us please contact us the same way.</p>
-<p>Please note that any requests to remove or update your personal information may take up to ten days per e-mail-removal request, and 6-8 weeks per postal mail-removal request.</p>
-<h2>Protecting Children<strong><br>
-</strong></h2>
-<p>Pharmaca Integrative Pharmacy takes special care to protect the safety and privacy of children. Our websites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send e-mail correspondence to anyone who tells us that they are under the age of 13 without their parent's consent.</p>
-<p>Parents should always supervise their children while online. Pharmaca’s website is not designed nor intended to collect personal information from children under the age of thirteen. So that we may comply with the Children's Online Privacy Protection Act, we ask that children under the age of thirteen not provide any personal information on this website.</p>
-<h2>Cookies</h2>
-<p>Our websites use "cookies." A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to remind us of who you are, tailor our products and services to suit your personal interests, estimate our audience size, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns. You can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. Pharmaca Integrative Pharmacy will only use this type data in an aggregate form which does not identify you personally.</p>
-<h2>Security</h2>
-<p>We take precautions, including use of sophisticated encryption and authentication tools, to protect the security of your personal information that you share with us. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our websites, and you do so at your own risk.</p>
-<p>We urge you to keep your password in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.</p>
-<h2>Links to Third Party Sites</h2>
-<p>Our websites may contain links to websites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such site.</p>
-<h2>Policy Changes</h2>
-<p>If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our website. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our website and will replace any prior policies that are inconsistent.</p>
-<p>This policy was posted August 2010.</p>
-<p>&nbsp;</p>
-</div>
+	<div style="float: left; width: 630px; height: 25px;">
+		<h1 style="margin: 0pt 0pt 0pt 20px; padding: 0px; float: left;">
+			Privacy Policy</h1>
+	</div>
+	<div id="ph-content-main-body" style="border-left: 0px solid rgb(204, 204, 204); padding: 0px; position: relative; text-align: left; margin-left: 50px; width: 580px; float: left; margin-right: 80px;">
+		<h2>
+			Your privacy is very important to us at Pharmaca Integrative Pharmacy.</h2>
+		<p>
+			We recognize your right to confidentiality and are committed to respecting your privacy and recognizing your need for appropriate protection and management of personal information you share with us (the phrase "personal information" means any information by which you can be identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this privacy policy is to inform you what personal information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information.</p>
+		<h2>
+			Types of Information Gathered</h2>
+		<p>
+			There may be times (such as when you purchase or order a product, or participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, etc. We may also maintain a record of your product purchases.</p>
+		<p>
+			Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web site. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications from us.</p>
+		<p>
+			In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.</p>
+		<h2>
+			Using Information About You</h2>
+		<p>
+			We use the personal information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products, services and offers, and providing you with information from and about Pharmaca Integrative Pharmacy</p>
+		<p>
+			To serve you better, we may combine information you give us online or in our stores. We may also combine that information with publicly available information. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.</p>
+		<p>
+			Any personal information Pharmaca gathers from coupons (such as name, address and information about your purchases) delivered on our website or via email or direct mail will be never be sold. Pharmaca will only share the information with a very limited number of carefully selected partners who are contractually bound to only use the information for the above-mentioned purpose and exclusively with and for Pharmaca. As a pharmacy, Pharmaca Integrative Pharmacy must be in compliance with Federal HIPAA regulations. Therefore, personal data regarding individual customers’ prescription medications will never be viewed, analyzed or shared.</p>
+		<p>
+			To provide additional value to our customers, we may allow our vendors to provide offers to a select group of customers that may be interested in their brand(s). To ensure your personal data is protected, Pharmaca will obtain the materials from the supplier and communicate offers directly to our customers. In all instances, the information will only be used to provide information and offers regarding products and services available at Pharmaca.</p>
+		<p>
+			Although unlikely, in certain instances we may disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Pharmaca Integrative Pharmacy or to others. We may also disclose your personal information when we believe the law requires it.</p>
+		<h2>
+			Information Sharing</h2>
+		<p>
+			Pharmaca will not sell or otherwise share personally identifying information with other people or nonaffiliated companies except to provide services to you at your request, or as required by law.<br>
+			&nbsp;<br>
+			Pharmaca may share aggregate data collected through its website that does not personally identify any party with other business partners in order to provide requested services that we do not provide directly. In these situations, this information will provided only in the aggregate and only to those business partners who agree not to disclose the information to other parties and agree not to use this information to solicit.</p>
+		<h2>
+			Editing, Updating, Correcting and Deleting Information About You</h2>
+		<p>
+			We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Pharmaca Integrative Pharmacy please let us know by sending us an <a href="javascript:location.href='mailto:'+String.fromCharCode(105,110,102,111,64,112,104,97,114,109,97,99,97,46,99,111,109)+'?'">e-mail</a>. Please be sure to include your e-mail address, mailing address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other personal information with us please contact us the same way.</p>
+		<p>
+			Please note that any requests to remove or update your personal information may take up to ten days per e-mail-removal request, and 6-8 weeks per postal mail-removal request.</p>
+		<h2>
+			Protecting Children</h2>
+		<p>
+			Pharmaca Integrative Pharmacy takes special care to protect the safety and privacy of children. Our websites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send e-mail correspondence to anyone who tells us that they are under the age of 13 without their parent's consent.</p>
+		<p>
+			Parents should always supervise their children while online. Pharmaca’s website is not designed nor intended to collect personal information from children under the age of thirteen. So that we may comply with the Children's Online Privacy Protection Act, we ask that children under the age of thirteen not provide any personal information on this website.</p>
+		<h2>
+			Cookies</h2>
+		<p>
+			Our websites use "cookies." A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to remind us of who you are, tailor our products and services to suit your personal interests, estimate our audience size, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns. You can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. Pharmaca Integrative Pharmacy will only use this type data in an aggregate form which does not identify you personally.</p>
+		<h2>
+			Security</h2>
+		<p>
+			We take precautions, including use of sophisticated encryption and authentication tools, to protect the security of your personal information that you share with us. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our websites, and you do so at your own risk.</p>
+		<p>
+			We urge you to keep your password in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.</p>
+		<h2>
+			Links to Third Party Sites</h2>
+		<p>
+			Our websites may contain links to websites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such site.</p>
+		<h2>
+			Policy Changes</h2>
+		<p>
+			If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our website. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our website and will replace any prior policies that are inconsistent.</p>
+		<p>
+			This policy was posted August 2010.</p>
+		<p>
+			&nbsp;</p>
+	</div>
 </div>
 <!-- end #pharmaca-template -->
 
@@ -2385,21 +2079,25 @@ Pharmaca may share aggregate data collected through its website that does not pe
                     Quality Assurance Practices</a></div>
         
             <div>
-                <a href="http://www.pharmaca.com/news.aspx" title="Pharmaca News">
-                    Newsroom</a></div>
+                <a href="http://www.pharmaca.com/california_transparency_act.aspx" title="">
+                    California Transparency Act</a></div>
         
         
             
+            <div>
+                <a href="http://www.pharmaca.com/news.aspx" title="Pharmaca News">
+                    Newsroom</a></div>
+        
             <div>
                 <a href="http://www.pharmaca.com/customer-comments.aspx" title="Pharmaca Customer Comments">
                     Customer Comments</a></div>
         
+        
+            
             <div>
                 <a href="http://www.pharmaca.com/pharmaca-careers.aspx" title="Pharmaca Career Opportunities">
                     Careers</a></div>
         
-        
-            
             <div>
                 <a href="http://www.pharmaca.com/affiliate-program.aspx" title="Sign up for our affiliate program and start earning commissions today">
                     Affiliate Program</a></div>
@@ -2467,18 +2165,18 @@ Pharmaca may share aggregate data collected through its website that does not pe
         
             
             <div>
-                <a href="http://www.pharmaca.com/Vitamins-and-Supps/5855/5855/dept" title="">
-                    Vitamins &amp; Supps</a></div>
-        
-            <div>
                 <a href="http://www.pharmaca.com/Sports-Nutrition/5934/5934/dept" title="">
                     Sports Nutrition</a></div>
+        
+            <div>
+                <a href="http://www.pharmaca.com/Clearance/5945/5945/dept" title="">
+                    Clearance</a></div>
         
         
             
             <div>
-                <a href="http://www.pharmaca.com/Holiday/5945/5945/dept" title="">
-                    Holiday</a></div>
+                <a href="http://www.pharmaca.com/Mothers-Day/6072/6072/dept" title="">
+                    Mother's Day</a></div>
         
         
             </div>
@@ -2533,30 +2231,50 @@ Pharmaca may share aggregate data collected through its website that does not pe
         
             
             <div>
-                <a href="http://www.pharmacarewards.com" title="Pharmaca Feel Better Rewards Program">
+                <a href="http://www.pharmaca.com/mobileapp.aspx" title="">
+                    Pharmaca's Mobile App</a></div>
+        
+            <div>
+                <a href="https://www.pharmacarewards.com/cp/login.aspx?RGD=90C3391A-AC59-4B3F-A164-0FAB24998D0B" title="Pharmaca Feel Better Rewards Program">
                     Feel Better Rewards</a></div>
+        
+        
+            
+            <div>
+                <a href="http://www.pharmaca.com/transfer-prescription.aspx" title="">
+                    Transfer Your Prescription </a></div>
+        
+            <div>
+                <a href="http://www.pharmaca.com/sitemap.aspx" title="">
+                    Site Map</a></div>
+        
+        
+            
+            <div>
+                <a href="http://www.pharmaca.com/survey" title="">
+                    Pharmaca Customer Satisfaction Survey</a></div>
+        
+            <div>
+                <a href="http://www.fda.gov/ForConsumers/ConsumerUpdates/ucm101653.htm" title="">
+                    Disposing Unused Medicines</a></div>
         
         
             </div>
         
 </div>
 <div id="footer_logos" class="right">
+    <!-- START CONTENT ITEM: Footer_Promo_1 -->
     <div class="title">
-        Stay Connected</div>
-    <br class="clear">
-    <div class="left">
-        <a href="http://twitter.com/PharmacaLife" target="_blank">
-          <img id="_ctrl_1_Image1" title="Follow Us on Twitter" src="https://secure.pharmaca.com/App_Themes/Default/images/twitter.gif" alt="Follow Us on Twitter" style="border-width:0px;"></a>
-        <a href="http://www.facebook.com/pages/Boulder-CO/Pharmaca-Integrative-Pharmacy/149725290568?ref=nf" target="_blank">
-            <img id="_ctrl_1_Image2" title="Join Us on Facebook" src="https://secure.pharmaca.com/App_Themes/Default/images/facebook.gif" alt="Join Us on Facebook" style="border-width:0px;"></a>
-        <a href="http://youtube.com/PharmacaIntegrative" target="_blank">
-            <img id="_ctrl_1_Image3" src="https://secure.pharmaca.com/App_Themes/Default/images/youtube.gif" style="border-width:0px;"></a>
-    </div>
+	Stay Connected</div>
+<div class="left">
+	<a href="http://twitter.com/PharmacaLife" target="_blank"><img alt="Follow Us on Twitter" src="/App_Themes/Default/images/twitter.gif" title="Follow Us on Twitter"></a> <a href="http://www.facebook.com/pages/Boulder-CO/Pharmaca-Integrative-Pharmacy/149725290568?ref=nf" target="_blank"> <img alt="Join Us on Facebook" src="/App_Themes/Default/images/facebook.gif" title="Join Us on Facebook"></a> <a href="http://youtube.com/PharmacaIntegrative" target="_blank"> <img src="/App_Themes/Default/images/youtube.gif"></a> <a href="http://pinterest.com/PharmacaLife" target="_blank"> <img alt="Follow Us on Pinterest" src="/App_Themes/Default/images/pinterest.gif" title="Follow Us on Pinterest"></a> <a href="http://feeds.feedburner.com/pharmacablog/PXfB"> <img alt="RSS" src="/App_Themes/Default/images/rss.gif"></a></div>
+
+    <!-- END CONTENT ITEM: Footer_Promo_1 -->
     <br class="clear">
 </div>
 <div id="pharmacy_checker">
     <a href="javascript: void(0)" onclick="javascript: window.open('http://www.pharmacychecker.com/ProfileRx.asp?PCID=BEF6094A-F90B-4533-B89F-B46203421911','pc','scrollbars=1,toolbar=1,menubar=1,address=1,status=1,resizable=1,width=440, height=' + screen.height * .70 + '');">
-        <img id="_ctrl_1_Image4" title="Pharmacy Checker" src="https://secure.pharmaca.com/App_Themes/Default/images/pharmacychecker.gif" alt="Pharmacy Checker" style="border-width:0px;"></a>
+        <img id="_ctrl_1_Image4" title="Pharmacy Checker" src="App_Themes/Default/images/pharmacychecker.gif" alt="Pharmacy Checker" style="border-width:0px;"></a>
 </div>
 
                 </div>
@@ -2564,7 +2282,25 @@ Pharmaca may share aggregate data collected through its website that does not pe
                 <br>
                 <div id="footer_copy">
                     <!-- BEGIN CONTENT ITEM: SiteDefault_HTMLCopyright -->
-                    <p>The products and claims made about specific products on this site have not been evaluated by Pharmaca.com or the United States Food and Drug Administration and are not approved to diagnose, treat, cure or prevent disease. The information on this site is for educational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. You should not use the information on this site for diagnosis or treatment of any health problem or for prescription of any medication or other treatment. You should consult with a healthcare professional before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a health problem. Pharmaca Integrative Pharmacy will not assume liability for any cross-contamination of ingredients, misprints, or adverse reactions to any ingredients in the products we carry. The products sold here may contain lead and other substances that are known to the state of California to cause cancer and birth defects and other reproductive harm. Prices and promotions are subject to change without notice. All content on this web site is copyrighted by Pharmaca Integrative Pharmacy unless otherwise stated. All online offers and prices are valid for online purchases only, and may be different from those in our retail stores. Free shipping offer may not apply to all orders and all states; see shipping policy for full details. jane iredale logo, text, graphics and photo images: Copyright © 2004 – 2011 by Iredale Mineral Cosmetics, Ltd. All rights reserved. Used by permission.&nbsp; We are not responsible for pricing or typographical errors.©2009-2011 Pharmaca Integrative Pharmacy. All Rights Reserved.</p>
+                    <p>
+	The products and claims made about specific products on this site have not been evaluated by Pharmaca.com or the United States Food and Drug Administration and are not approved to diagnose, treat, cure or prevent disease. The information on this site is for educational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. You should not use the information on this site for diagnosis or treatment of any health problem or for prescription of any medication or other treatment. You should consult with a healthcare professional before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a health problem. Pharmaca Integrative Pharmacy will not assume liability for any cross-contamination of ingredients, misprints, or adverse reactions to any ingredients in the products we carry. The products sold here may contain lead and other substances that are known to the state of California to cause cancer and birth defects and other reproductive harm. Prices and promotions are subject to change without notice. All content on this web site is copyrighted by Pharmaca Integrative Pharmacy unless otherwise stated. All online offers and prices are valid for online purchases only, and may be different from those in our retail stores. Free shipping offer may not apply to all orders and all states; see shipping policy for full details. jane iredale logo, text, graphics and photo images: Copyright © 2004 – 2011 by Iredale Mineral Cosmetics, Ltd. All rights reserved. Used by permission.&nbsp; We are not responsible for pricing or typographical errors.©2009-2011 Pharmaca Integrative Pharmacy. All Rights Reserved.</p>
+
+
+<!-- BoldChat Visitor Monitor HTML v4.00 (Website=Pharmaca.com,Ruleset=My Chat Invites,Floating Chat=My Custom Floating Chat Button --><script type="text/javascript">
+  var _bcvma = _bcvma || [];
+  _bcvma.push(["setAccountID", "651311802887010940"]);
+  _bcvma.push(["setParameter", "WebsiteDefID", "3268204154851225558"]);
+  _bcvma.push(["setParameter", "InvitationDefID", "4108381652599267197"]);
+  _bcvma.push(["addFloat", {type: "chat", id: "645095800826608601"}]);
+  _bcvma.push(["pageViewed"]);
+  (function(){
+    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/651311802887010940/bc.vms4/vms.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+  })();
+</script><noscript>
+<a href="http://www.boldchat.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="https://vms.boldchat.com/aid/651311802887010940/bc.vmi?&amp;wdid=3268204154851225558" border="0" width="1" height="1" /></a>
+</noscript><!-- /BoldChat Visitor Monitor HTML v4.00 -->
                     <!-- END CONTENT ITEM: SiteDefault_HTMLCopyright -->
                 </div>
                 <br>
@@ -2590,13 +2326,13 @@ FollowMeBasket1_FollowMeValSummary.validationGroup = "FollowMeValidation";
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOdXaYQxfmTHElx8kYw2woDA0vOUfpqOAv4cKAJOSdZChdHskOHnLoE3504rKoFmgg5k63kFPxyh999iT5BYIvxBDKfZrncM9wFEIgAR4/wYQ==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAcFx5j3Z4I9qQ83db4JMuI9A0vOUfpqOAv4cKAJOSdZChdHskOHnLoE3504rKoFmgi570B0wqSJ+DiGObwLFl2wOb3EF4GgzzifGd/J9F7uT1+5ogiA9+arUVBtdeasD12pArzibSg2JWRxbqBsRjMeL0PKhFXBPNvn2nx9WrPfE/il+Nlxyy5S8dg+wLfqy3o=">
 </div>
 
 <script type="text/javascript">
 //<![CDATA[
 $(document).ready(function(){
-$('#Search1_searchText').autocomplete({
+$('#searchText').autocomplete({
     source: function (request, response) {
         $.ajax({
             url: '/Services/AutoComplete/SearchAutoComplete?term=' + request.term,
@@ -2609,7 +2345,7 @@ $('#Search1_searchText').autocomplete({
     },
     minLength: 2,
     select: function (event, ui) { GotoSearchUrl("http://www.pharmaca.com/"+MakeUrlFriendly(ui.item.label, true)+"/Search",ui.item.value);$("[id$='searchText']").val(ui.item.label);return false;},
-    focus: function (event, ui) { $('#Search1_searchText').val(ui.item.label);return false;}
+    focus: function (event, ui) { $('#searchText').val(ui.item.label);return false;}
 });
 });
 
@@ -2622,20 +2358,21 @@ $('#Search1_searchText').autocomplete({
         e = null;
     }
 })('FollowMeBasket1_FollowMeValSummary');
-WT.oss="bluebonnet";WT.si_n="ShoppingCart";WT.si_p="Home";UU.pb=0;UU.page_tts=0.0312;wtGetGif();//]]>
+WT.si_n="ShoppingCart";WT.si_p="Home";UU.pb=0;UU.page_tts=0.0156;wtGetGif();//]]>
 </script>
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg3MjA2NzY3Ng9kFgJmD2QWAmYPZBYCAgMPZBYOAgUPDxYCHgtOYXZpZ2F0ZVVybAUYaHR0cDovL3d3dy5waGFybWFjYS5jb20vZGQCCQ8PFgIfAAUiaHR0cDovL3d3dy5waGFybWFjYS5jb20vYWJvdXQuYXNweGRkAgsPDxYCHwAFLGh0dHA6Ly93d3cucGhhcm1hY2EuY29tL25hdGlvbmFsLWV2ZW50cy5hc3B4ZGQCDQ8PFgIfAAUjaHR0cDovL3d3dy5waGFybWFjYS5jb20vc3RvcmVzLmFzcHhkZAIPD2QWAmYPZBYEAgEPDxYCHwAFNWh0dHBzOi8vc2VjdXJlLnBoYXJtYWNhLmNvbS9TZWN1cmUvQ3JlYXRlQWNjb3VudC5hc3B4ZGQCAw8PFgIfAAUiaHR0cDovL3d3dy5waGFybWFjYS5jb20vTG9naW4uYXNweGRkAhEPZBYCZg9kFgQCAQ8PZBYEHgdvbkZvY3VzBRFjbGVhckZpZWxkKHRoaXMpOx4Gb25CbHVyBRJyZXR1cm5GaWVsZCh0aGlzKTtkAgMPDxYCHg1PbkNsaWVudENsaWNrBXZHb3RvU2VhcmNoVXJsKCJodHRwOi8vd3d3LnBoYXJtYWNhLmNvbS8iK01ha2VVcmxGcmllbmRseSgkKCJbaWQkPSdzZWFyY2hUZXh0J10iKS52YWwoKSwgdHJ1ZSkrIi9TZWFyY2giKTtyZXR1cm4gZmFsc2U7ZGQCFw9kFgYCAQ8PFgIfAAUsaHR0cHM6Ly9zZWN1cmUucGhhcm1hY2EuY29tL3Nob3BwaW5nYmFnLmFzcHhkZAIFDw9kZWQCCQ88KwAKAQAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnRmZGQYBAUuY3RsMDAkY3RsMDAkRm9sbG93TWVCYXNrZXQxJGZvbGxvd01lQmFza2V0Vmlldw9nZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFGmN0bDAwJGN0bDAwJFNlYXJjaDEkU2VhcmNoBSFjdGwwMCRjdGwwMCRTZWFyY2gxJFNlYXJjaEFjdGlvbjEPD2RkZAUVY3RsMDAkY3RsMDAkSXRlbUNvdW50D2dk1W0U6SLxi3ONBD3QaV9CmCZ/d6nn5s5bLK+qdL7tSZM=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg3MjA2NzY3Ng9kFgJmD2QWAmYPZBYEAgEPZBYCAgIPFgIeBFRleHQFlgE8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9IlBoYXJtYWNhIFByb2plY3QgV2VsbG5lc3Mgw6/Cv8K9IEZlZWQiIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9waGFybWFjYWJsb2cvUFhmQiIgLz5kAgMPZBYSAgMPD2QPEBYEZgIBAgICAxYEFggeBE5hbWUFCmRhdGFiYXNlSWQeBFR5cGULKVxTeXN0ZW0uVHlwZUNvZGUsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4ORIeDERlZmF1bHRWYWx1ZQUQQjAyOThfUF9waGFybWFjYR4OUGFyYW1ldGVyVmFsdWVkFgYfAQUSZW5jcnlwdGVkQXJndW1lbnRzHhBRdWVyeVN0cmluZ0ZpZWxkBQFkHwRkFggfAQUGbG9jYWxlHwILKwQSHwMFA1VTQR8EZBYGHwEFCXNob3BwZXJJZB4MUHJvcGVydHlOYW1lBQlTaG9wcGVySUQfBGUWBAIDAgQCAwIGZGQCBQ8PFgIeC05hdmlnYXRlVXJsBRhodHRwOi8vd3d3LnBoYXJtYWNhLmNvbS9kZAIJDw8WAh8HBS1odHRwOi8vd3d3LnBoYXJtYWNhLmNvbS9jdXN0b21lci1zZXJ2aWNlLmFzcHhkZAILDw8WAh8HBSJodHRwOi8vd3d3LnBoYXJtYWNhLmNvbS9hYm91dC5hc3B4ZGQCDQ8PFgIfBwUjaHR0cDovL3d3dy5waGFybWFjYS5jb20vZXZlbnRzLmFzcHhkZAIPDw8WAh8HBSNodHRwOi8vd3d3LnBoYXJtYWNhLmNvbS9zdG9yZXMuYXNweGRkAhEPZBYCZg9kFgQCAQ8PFgIfBwU1aHR0cHM6Ly9zZWN1cmUucGhhcm1hY2EuY29tL1NlY3VyZS9DcmVhdGVBY2NvdW50LmFzcHhkZAIDDw8WAh8HBSJodHRwOi8vd3d3LnBoYXJtYWNhLmNvbS9Mb2dpbi5hc3B4ZGQCEw9kFgYCAQ8PZBYEHgdvbkZvY3VzBRFjbGVhckZpZWxkKHRoaXMpOx4Gb25CbHVyBRJyZXR1cm5GaWVsZCh0aGlzKTtkAgMPDxYCHg1PbkNsaWVudENsaWNrBXZHb3RvU2VhcmNoVXJsKCJodHRwOi8vd3d3LnBoYXJtYWNhLmNvbS8iK01ha2VVcmxGcmllbmRseSgkKCJbaWQkPSdzZWFyY2hUZXh0J10iKS52YWwoKSwgdHJ1ZSkrIi9TZWFyY2giKTtyZXR1cm4gZmFsc2U7ZGQCBQ8PFgIfCgWdAUdvdG9TZWFyY2hVcmwoImh0dHA6Ly93d3cucGhhcm1hY2EuY29tL3Byb2plY3R3ZWxsbmVzcz9zZWFyY2hfZnJlZXRleHQ9IitNYWtlVXJsRnJpZW5kbHkoJCgiW2lkJD0nc2VhcmNoVGV4dCddIikudmFsKCksIHRydWUpKyImcGFnZT1ibG9nSG9tZSIpO3JldHVybiBmYWxzZTtkZAIZD2QWBgIBDw8WAh8HBSxodHRwczovL3NlY3VyZS5waGFybWFjYS5jb20vc2hvcHBpbmdiYWcuYXNweGRkAgUPD2RlZAIJDzwrAAoBAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudGZkZBgFBSFjdGwwMCRjdGwwMCRTZWFyY2gxJFNlYXJjaEFjdGlvbjIPD2RkZAUuY3RsMDAkY3RsMDAkRm9sbG93TWVCYXNrZXQxJGZvbGxvd01lQmFza2V0Vmlldw9nZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFGmN0bDAwJGN0bDAwJFNlYXJjaDEkU2VhcmNoBR5jdGwwMCRjdGwwMCRTZWFyY2gxJFNlYXJjaEJsb2cFIWN0bDAwJGN0bDAwJFNlYXJjaDEkU2VhcmNoQWN0aW9uMQ8PZGRkBRVjdGwwMCRjdGwwMCRJdGVtQ291bnQPZ2Q5NASvNEWzjktch/BgtYWCSqt5YVQ6zZKXD1eEKEccPQ==">
 </div>
 </form>
     
+        <script type="text/javascript" src="http://www.pharmaca.com/App_Themes/js-4138571240.axd?p=559287284,1490637328,"></script>
     
     <!-- BEGIN Hidden Thawte Seal -->
     <div id="thawteLoader" style="display: none;">
         
-<script type="text/javascript" src="http://www.pharmaca.com/App_Themes/js-4115400146.axd?p=1490637328,"></script>
+
     </div>
     <!-- END Hidden Thawte Seal -->
 
@@ -2698,7 +2435,7 @@ if (GoogleAccountId != "") {
             var axel = Math.random() + "";
             var a = axel * 10000000000000;
             document.write('<iframe src="https://fls.doubleclick.net/activityi;src=2752805;type=retar236;cat=pharm337;ord=' + a + '?" width="1" height="1" frameborder="0"></iframe>');
-        </script><iframe src="https://fls.doubleclick.net/activityi;src=2752805;type=retar236;cat=pharm337;ord=7129825490193.355?" width="1" height="1" frameborder="0"></iframe>
+        </script><iframe src="https://fls.doubleclick.net/activityi;src=2752805;type=retar236;cat=pharm337;ord=4185358512836.812?" width="1" height="1" frameborder="0"></iframe>
         <noscript>
             <iframe src="https://fls.doubleclick.net/activityi;src=2752805;type=retar236;cat=pharm337;ord=1?"
                 width="1" height="1" frameborder="0"></iframe>
