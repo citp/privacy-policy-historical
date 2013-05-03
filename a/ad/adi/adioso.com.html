@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the adioso.com privacy policy that was archived on 2012-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102060410id_/http%3A//adioso.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adioso.com privacy policy that was archived on 2013-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503221555id_/http%3A//adioso.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta http-equiv="Content-Language" content="en">
     <link rel="icon" type="image/x-icon" href="/media/i/favicon.ico">
@@ -19,119 +21,132 @@
 	<meta property="og:type" content="website">
     <meta property="og:url" content="http://adioso.com/privacy">
     <meta property="og:site_name" content="Adioso">
-    <meta property="fb:admins" content="594131406,667456646">
+    <meta property="fb:admins" content="594131406">
+    <meta property="fb:admins" content="667456646">
+    <meta property="fb:admins" content="713842463">
+    <meta property="fb:admins" content="505113148">
+    <meta property="fb:admins" content="34604334">
+    <meta property="fb:admins" content="2257852">
     <meta property="fb:app_id" content="49866573142">
     <meta property="og:image" content="">
     
     <meta property="og:description" content="Amazing travel search for spontaneous and adventurous travellers. Adioso lets you have the best vacations humanly possible. It lets you search for destinations with flexibility, follow the things you're interested in, then book the best deals.">
     
 
-    <link rel="stylesheet" href="/media/CACHE/css/ee6806aec1a4.css" type="text/css" media="all"><link rel="stylesheet" href="/media/CACHE/css/a370cd9ae4f3.css" type="text/css"><link rel="stylesheet" href="/media/CACHE/css/fc3f501dfe02.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/media/CACHE/css/7d0c51cd276a.css" type="text/css" media="all">
 
     <!--[if gte IE 8]><link rel="stylesheet" type="text/css" href="/media/styles/ie8plus.css?rid=None" media="all" /><![endif]-->
     <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/media/styles/ie8lte.css?rid=None" media="all" /><![endif]-->
 	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/media/styles/ie.css?rid=None" media="all" /><![endif]-->
 
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/CACHE/js/2a3817b6e8dc.js"></script>
+	<script type="text/javascript" async="" id="gauges-tracker" data-site-id="511b15c5613f5d14c9000002" src="//secure.gaug.es/track.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" src="/media/CACHE/js/52a615f77770.js"></script>
+    
+    <script type="text/javascript">
+        Adioso.canonical_url = null;
+        Adioso.hostname = 'adioso.com';
+        Adioso.ajax_hostnames = [
+                                 'http://ajax7.adioso.com',
+                                 
+                                 'http://ajax4.adioso.com',
+                                 
+                                 'http://ajax2.adioso.com',
+                                 
+                                 'http://ajax8.adioso.com',
+                                 
+                                 'http://ajax3.adioso.com',
+                                 
+                                 'http://ajax6.adioso.com',
+                                 
+                                 'http://ajax1.adioso.com',
+                                 
+                                 'http://ajax5.adioso.com'
+                                 ];
+        Adioso._user_currency = 'USD';
+        
+    	$(function(){
+            
+    	});
+    </script>
+
 
     
 
 	
     
-
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&amp;sensor=false"></script>
 
     
     
     <script type="text/javascript">
-
-	    $(document).ready(function() {
-	
-		//sticky
-		$(window).scroll(function(){
-			var topDistance = $('#header').height();
-			var top = $(window).scrollTop();
-			$('div#search_form').toggleClass('sticky', top >= topDistance);    		
-		})
-	
-		if(Modernizr.opacity)
-		{
-			//If we can't use the opacity trick to hide the select box, then
-			//it will do all of the necessary display. I'm looking at you IE8.
-			$('#stops_select').change(function() {
-				var text = $(this).find('option:selected').text();
-				$('#stops_dropdown_container .value').text(text);
-			}).trigger('change');
-		}
-		
-		Adioso.makeHoverable($(".options .list li"));
-		
-		Adioso.makePlaceHolder("#search_form input.text_area");
-		Adioso.makePlaceHolder("#flight_origin");
-		Adioso.makePlaceHolder("#flight_destination");
-		Adioso.makePlaceHolder("#flight_when");
-		Adioso.makePlaceHolder("#flight_trip_length");
-		
-		Adioso.makeDepartingMenu($("#flight_when"));
-		Adioso.makeRoundTripMenu($("#flight_trip_length"),
-					  	      		"Never",
-									function() {
-											 	  var date = Date.parse($("#flight_when").val());
-											 	  if(date == null)
-													  return null;
-											
-												  var yesterday = Date.now().add(-1).day();
-													
-												  if(date < yesterday)
-													  date.add(1).year();
-												  return date;
-											   }
-						 			   );
-		});
-	</script>
+        $(document).ready(function() {
+  
+          
+          Adioso.makePlaceHolder("#search_form input.text_area");
+          Adioso.makePlaceHolder("#flight_origin");
+          Adioso.makePlaceHolder("#flight_destination");
+          Adioso.makePlaceHolder("#flight_when");
+          Adioso.makePlaceHolder("#flight_trip_length");
+          
+          Adioso.makeDepartingMenu($("#flight_when"));
+          Adioso.makeRoundTripMenu($("#flight_trip_length"),
+                                      "One-   y",
+                                      function() {
+                                                    var date = Date.parse($("#flight_when").val());
+                                                    if(date == null) {
+														if( "adioso_date_to_show" in window)
+														    date = adioso_date_to_show;
+														else
+														    return null;
+                                                    }
+                                              
+                                                    var yesterday = Date.now().add(-1).day();
+                                                      
+                                                    if(date < yesterday)
+                                                        date.add(1).year();
+                                                    return date;
+                                                 }
+                                         );
+        });
+    </script>
 
 
     <script type="text/javascript">
 
 	    
     	
-    		ab_user_types = {};
-    		   
-    			ab_user_types['melbourne_home_page_welcome'] = {'type':'original'};
-    		
-    		
-    		//Mark as human
-    		var a=Math.floor(Math.random()*11);
+    	
+			//Mark as human
+			var a=Math.floor(Math.random()*11);
 			var b=Math.floor(Math.random()*11);
 			var x=$.post('/mark_as_human', {a: a, b: b, c: a+b});
-    	
-    
+		
+		
 		var currSymbol = '$';
 		
 	  
     </script>
 
-        
-    <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
-    <script type="text/javascript">
-      try {
-        reinvigorate.track("j3088-6q787067c0");
-      } catch(err) {}
-    </script>
-    
-    <script type="text/javascript">
+	
+  <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+  typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,
+  e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+  mixpanel.init("2f6744b9102051b741f49cc83f3285fd");
+  
+  
+  
+  if ($.cookie('_mp_land') == null) { 
+      // Only record up to 1 landing page per day
+      mixpanel.register({ 'Landing Page': window.location.pathname });
+      $.cookie('_mp_land', true, { path: '/', expires: 1 });
+  }
+  </script><!-- end Mixpanel -->
+
+        <script type="text/javascript">
     
       var _gaq = _gaq || [];
+      var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+      _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
       _gaq.push(['_setAccount', 'UA-17854055-1']);
       _gaq.push(['_setDomainName', '.adioso.com']);
-	  
-	    
-	    _gaq.push(['_setCustomVar',
-	               2,  // Slot ID
-	               'melbourne_home_page_welcome',   // Category
-	               'original',   // Actual user type
-	                               2]); // Session level var
-		
 	  
       
       
@@ -151,7 +166,6 @@
       })();
     
     </script>
-    
 
     
     
@@ -175,130 +189,73 @@
     </noscript>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body id="flatpage"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+    <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+<script type="text/javascript">_atrk_opts = { atrk_acct: "mls9h1aw9w0009", domain:"adioso.com"}; atrk ();</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=mls9h1aw9w0009" style="display:none" height="1" width="1" alt="" /></noscript>
+
 
 	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
+	<script id="fbscript">(function(d, s, id) {
 	  var js, fjs = d.getElementsByTagName(s)[0];
 	  if (d.getElementById(id)) return;
 	  js = d.createElement(s); js.id = id;
 	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
 	  fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));</script>
+    
+    
+    
 
-	<div id="header">
-		<div class="inner">
-			<div id="logo">
-			    <a href="/">
-			        <img title="" alt="Adioso" src="/media/i/header/logo.png">
-			    </a>
-			</div>
-			<span class="tagline">
-				Thinking travel.
-			</span>
-	        <div class="options">
-    <ul class="socket clearfix">
-       <li class="location"><span class="link pseudo_link"><i></i><var><span>Washington</span><ins></ins></var></span>
-           <div class="list hidden">
-               <div class="d_wrap">
-               <div class="container">
-               <form><input type="text" class="" id="search" autocomplete="off" name="" value="Search for your home town/country"></form>
-               <div class="wrap">
-               <div class="delimiter hidden"><div></div></div>
-               </div>
-               <p class="tip hidden">For more results, keep typing</p>
-               </div><!--container -->
-               </div>
-           </div>
-       </li>
-       <li class="currency"><span class="link pseudo_link"><i></i><var><span>AUD</span><ins></ins></var></span>
-           <div class="list hidden">
-               <div class="d_wrap">
-               <div class="container">
-               <ul class="userCurrency" data-cookie="userCurrency">
-               
-                   <li data-id="AUD"><span class="opt">AUD</span></li>
-               
-                   <li data-id="CAD"><span class="opt">CAD</span></li>
-               
-                   <li data-id="CHF"><span class="opt">CHF</span></li>
-               
-                   <li data-id="EUR"><span class="opt">EUR</span></li>
-               
-                   <li data-id="GBP"><span class="opt">GBP</span></li>
-               
-                   <li data-id="INR"><span class="opt">INR</span></li>
-               
-                   <li data-id="IDR"><span class="opt">IDR</span></li>
-               
-                   <li data-id="JPY"><span class="opt">JPY</span></li>
-               
-                   <li data-id="MYR"><span class="opt">MYR</span></li>
-               
-                   <li data-id="NZD"><span class="opt">NZD</span></li>
-               
-                   <li data-id="SGD"><span class="opt">SGD</span></li>
-               
-                   <li data-id="THB"><span class="opt">THB</span></li>
-               
-                   <li data-id="USD"><span class="opt">USD</span></li>
-               
-               </ul>
-               </div>
-               </div>
-           </div>
-       </li>
-    </ul>
-</div>
-		</div>
-	</div>
+    <div id="header">
+        <div class="inner">
+            <div id="logo">
+                <a href="/">
+                    <img title="" alt="Adioso" src="/media/i/header/logo.png">
+                </a>
+            </div>
+            <span class="tagline">
+                Thinking travel.
+            </span>
+            <div class="survey">
+                <a href="https://www.surveymonkey.com/s/AdiosoMay13" target="_blank">Take our survey!</a>
+            </div>
+        </div>
+    </div>
+
+    
+
 	
-	<div id="container">
-		<div id="search_form">
+    <section class="container top">      
+    <div class="breadcrumbwrapper inner ">
+      
+    </div>
 
-			    <form id="flight_search" class="flight_search inner clearfix" method="get" action="/search_form" autocomplete="off">
-			    	<img id="plane_icon" title="" alt="Adioso Plane" src="/media/i/header/plane.png">
-	        
-	        	<ul class="clearfix">
-	        		<li>
-	        			<label for="flight_origin">From</label>
-	        			<input id="flight_origin" class="text_area" type="text" name="origin" value="Washington">
-	        		</li>
-		            <li>
-		            	<label for="flight_destination">To</label>
-		            	<input id="flight_destination" class="text_area" type="text" name="destination" value="Anywhere">
-		            </li>
-		            <li>
-		            	<label for="flight_when">When</label>
-		            	<input id="flight_when" class="text_area" type="text" name="when" value="Anytime">
-		            </li>
-		            <li>
-			            <label for="flight_trip_length">Returning</label>
-			            <input id="flight_trip_length" class="text_area" type="text" name="trip_length" placeholder="Never">
-		            </li>
-		          	<li>
-		          		<label>&nbsp;</label>
-		          		<div id="stops_dropdown_container">
-		          			<span class="value"></span>
-				            <select name="route_opt" id="stops_select">
-				                <option value="direct">Direct</option>
-				                <option value="1 stop">1 stop</option>
-				                <option selected="selected" value="">2+ stops</option>
-				            </select>
-		          		</div>		          		
-		           	</li>
-		            <li class="search">
-		            	<button class="search_button" type="submit"><span class="icon"></span>Search</button>
-		          	</li>
-	          	</ul>
-	        </form>
-        </div>      		
-	    
-	    <div class="inner">
-	        <div id="page_body">
-	        
+           
+        <div class="inner">
+          <div class="titlewrapper">
+            <h1 class="page_title">Privacy Policy</h1>
+          </div>
+        </div> 
+        
+       <!--      
+        <div class="multidesthero" 
+            
+        ></div>      
+         -->
+
+        <div class="vignette"></div>        
+        <div class="searchheader">
+        </div>
+
+
+        
+        
+
+    </section><!-- .container -->
+    <section class="page_body">
+     
 <div id="content">
-	<h1 class="page_title">Privacy Policy</h1>
-	<div class="box flatpage">
+	<div class="flatpage">
 		<p>&nbsp;</p>
 <p><strong>Adioso, Inc.</strong>&nbsp;</p>
 <p>Privacy Policy</p>
@@ -348,98 +305,124 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 	</div>
-    <script type="text/javascript">
-    $(document).ready(function() {
-        var ajax_options = {
-            dataType: "json",
-            resetForm: true,
-            url: $('#feedback').attr('action'),
-            beforeSubmit: function() {
-                if(!$("#feedback_form textarea[name=message]").val())
-                    return false;
-                $("#feedback div.loader").removeClass("hidden");
-            },
-            success: function() {
-                $("#feedback div.loader").addClass("hidden");
-                $("#feedback").html("<br/><h2>Thank you! We'll get in touch as soon as possible.</h2>");
-            }
-        };
-
-        $("#feedback_form").submit(function() {
-            $(this).ajaxSubmit(ajax_options);
-            return false;
-        });
-    });
-</script>
-
-
-<div id="feedback" class="feedback box">
-    <h2>Feedback</h2>
-    <div class="bottom">
-    	
-    	<form id="feedback_form" method="post" action="/api/send_feedback">
-        	<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="062656929cb54de322778838bf0e4250"></div>
-       		<textarea name="message"></textarea>
-        	<div>
-        		<label for="mail">Email (optional)</label>
-        		<input id="mail" type="text" name="email_from">
-        		<input type="submit" value="Send" class=" chrome-button send clickable">
-			</div>
-    	</form>
-    	<div class="loader hidden">
-    	    <div class="wheel"></div>
-    	    <div class="helper"></div>
-    	</div>
-	</div>
 </div>
-
-</div>
-
-	        </div>
-	    </div>
-	</div>
+    
+    </section><!-- .page_body -->
     
 
-        <div id="footer">
     
-        <p> &nbsp; </p>
+    
+    
 
-		<div class="fb-like-box" data-href="http://www.facebook.com/adioso" data-width="570" data-height="290" data-show-faces="true" data-stream="false" data-header="true"></div>        
 
-        <p> &nbsp; </p>
+    
         
-        <p class="tl-nav">
-            <a href="/">Home</a> |
-            <a href="/following/missing_routes">Upcoming Routes</a> |
-            <a href="/following/manage">Manage</a> |
-            <a href="http://blog.adioso.com">Blog</a> |
-            <a href="/about">About</a> |
-            <a href="/help">Help</a> |
-            <a href="/feedback">Contact Us</a> |
-            <a href="/jobs">Work</a>
-        </p>
-        <p class="social">
-            <a href="https://www.facebook.com/adioso" target="_blank"><img src="/media/i/shared/footer-facebook.jpg" alt="Find Adioso on Facebook" title="Find Adioso on Facebook"></a>
-            <a href="https://twitter.com/#!/Adioso" target="_blank"><img src="/media/i/shared/footer-twitter.jpg" alt="Follow Adioso on Twitter" title="Follow Adioso on Twitter"></a>
-            <a href="https://plus.google.com/112976898897909346790?prsrc=3"><img src="/media/i/shared/footer-google.jpg" alt="Follow Adioso on Google+" title="Follow Adioso on Google+"></a>
-        </p>
-        <p class="copyright">
-            <a href="/privacy">Privacy Statement</a> | <a href="/terms">Terms of Use</a> | © 2012 Adioso Inc.
-        </p>
-        <p class="geo-nav">
-            <a href="/us/">USA</a>
-            <a href="/au/">Australia</a>
-            <a href="/my/">Malaysia</a>  
-            <a href="/th/">Thailand</a> 
-            <a href="/nz/">New Zealand</a> 
-            <a href="/uk/">UK</a> 
-            <a href="/de/">Germany</a> 
-            <a href="/cn/">China</a> 
-            <a href="/in/">India</a> 
-            <a href="/vn/">Vietnam</a> 
-            <a href="/jp/">Japan</a>
-        </p>
-    </div>
+   
+    <footer>
+        <div class="inner">
+            
+            <div class="regional">
+                <h5> Regional Settings </h5>            
+                 
+    <ul>
+       <li class="location">
+         <span class="link pseudo_link">Washington</span>
+         <div class="list hidden">
+            <div class="location_select_wrapper">
+             <form><input type="text" class="" id="search" autocomplete="off" name="" value="Search for your home town/country"></form>
+               <div class="wrap">
+                 <div class="delimiter hidden"><div></div></div>
+               </div>
+             <p class="tip hidden">For more results, keep typing</p>
+            </div>
+         </div>
+       </li>
+       <li class="currency">
+        <span class="link pseudo_link">USD</span>
+           <div class="list hidden">
+             <ul class="userCurrency" data-cookie="userCurrency">
+             
+                 <li data-id="AUD"><span class="opt">AUD</span></li>
+             
+                 <li data-id="CAD"><span class="opt">CAD</span></li>
+             
+                 <li data-id="CHF"><span class="opt">CHF</span></li>
+             
+                 <li data-id="EUR"><span class="opt">EUR</span></li>
+             
+                 <li data-id="GBP"><span class="opt">GBP</span></li>
+             
+                 <li data-id="INR"><span class="opt">INR</span></li>
+             
+                 <li data-id="IDR"><span class="opt">IDR</span></li>
+             
+                 <li data-id="JPY"><span class="opt">JPY</span></li>
+             
+                 <li data-id="MYR"><span class="opt">MYR</span></li>
+             
+                 <li data-id="NZD"><span class="opt">NZD</span></li>
+             
+                 <li data-id="SGD"><span class="opt">SGD</span></li>
+             
+                 <li data-id="THB"><span class="opt">THB</span></li>
+             
+                 <li data-id="USD"><span class="opt">USD</span></li>
+             
+             </ul>
+           </div>
+       </li>
+    </ul>
+            </div>
+
+            <nav>
+                <ul>
+                    <li><a href="http://adioso.com/blog/">Blog</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/feedback">Contact</a></li>
+                    <li><a href="/following/manage">Manage</a></li>
+                    <li><a href="/help">Help</a></li>
+                    <li><a href="/terms">Terms</a></li>
+                    <li><a href="/jobs">Work</a></li>
+                    <li><a href="/privacy">Privacy Statement</a></li>
+                    <li><a href="https://www.facebook.com/adioso">Facebook</a></li>
+                    <li><a href="https://twitter.com/#!/Adioso">Twitter</a></li>
+                </ul>
+            </nav>
+
+            <div class="geo_nav">
+                <a href="/us/">USA</a>
+                <a href="/au/">Australia</a>
+                <a href="/my/">Malaysia</a>  
+                <a href="/th/">Thailand</a> 
+                <a href="/nz/">New Zealand</a> 
+                <a href="/uk/">UK</a> 
+                <a href="/de/">Germany</a> 
+                <a href="/cn/">China</a> 
+                <a href="/in/">India</a> 
+                <a href="/vn/">Vietnam</a> 
+                <a href="/jp/">Japan</a>
+            </div>
+
+        </div>
+            <div id="bottom">
+                <div class="inner">    
+                    <div class="copyright_wrapper">
+                        <small class="copyright">
+                            Copyright © 2013 Adioso Inc. <span> Lovingly made by nerds with backpacks. </span>
+                        </small>
+                        <div class="props">
+                            <a href="https://mixpanel.com/f/partner"><img src="http://cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
+                        </div>         
+                    </div>
+                </div>
+            </div>
+        
+    </footer>
+    
+    
+    
+
+
     
     <!-- Adroll retargeting pixel -->
     <script type="text/javascript">
@@ -465,5 +448,35 @@ window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https
 olark.identify('7360-612-10-1127');/*]]>{/literal}*/
 $('#olark').next().css('display', 'block');
 </script><noscript><a href="https://www.olark.com/site/7360-612-10-1127/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript><!-- end olark code -->
+
+    <script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '511b15c5613f5d14c9000002');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+    
+<div class="regional_settings" style="display: none;">
+    <div class="inner">
+        <p class="action_message"></p>
+
+        <div class="user_details">
+          <p class="user_location">
+            Washington, United States
+          </p>
+          <p class="currency">
+            <span class="symbol">$</span> USD
+          </p>
+        </div>
+    </div>
+</div><!-- regional_settings -->    
+
 
 </body></html>
