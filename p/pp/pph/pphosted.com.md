@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pphosted.com privacy policy that was archived on 2012-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120728071319id_/http%3A//www.pphosted.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pphosted.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503025425id_/http%3A//www.pphosted.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Proofpoint Privacy Policy
 
