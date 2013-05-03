@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130074948id_/http%3A//www.vangraaf.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504015215id_/http%3A//www.vangraaf.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
   * [News](http://www.vangraaf.com/en/news/)
-  * [Trend magazine](http://www.vangraaf.com/en/trend-magazine/)
+  * [Magazine](http://www.vangraaf.com/en/magazin/trends-news/2013/)
+  * [Trends](http://www.vangraaf.com/en/trend-magazine/)
   * [Brands](http://www.vangraaf.com/en/brands/)
   * [Service](http://www.vangraaf.com/en/service/)
   * [Locations](http://www.vangraaf.com/en/locations/stores/)
@@ -28,8 +29,6 @@
 
 
 VAN GRAAF attaches high priority to the protection of your personal data and rights to confidentiality and privacy in the Internet. Please read our policy on data security. Our aim is to make clear to you how we handle personal details, which information we store and how we use it.
-
-### Collection and use of personal details
 
 Generally, it is possible to visit our website without giving any personal details. Only information provided voluntarily to us will be used for the purpose you have given us the data (e.g. for answering a question you raised in the feedback form). Your data will not be transferred to third parties without your express consent and treated with utmost confidentiality. 
 
