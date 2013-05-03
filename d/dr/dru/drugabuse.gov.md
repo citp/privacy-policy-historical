@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212620id_/http%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503151354id_/http%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | National Institute on Drug Abuse
 
-Thank you for visiting one of the National Institute on [Drug Abuse](https://web.archive.org/lexicon/nida_notes_glossary#drug_abuse "The use of illegal drugs or the inappropriate use of prescription drugs. Read More") websites.
+Thank you for visiting one of the National Institute on Drug Abuse websites.
 
 Protecting your privacy is very important to us. We do not collect any personally identifiable information (PII) about you during your visit to NIDA Web sites unless you choose to provide it to us. We do, however, collect some data about your visit to our Web site to help us better understand how the public uses the site and how to make it more helpful. We collect information from visitors who read, browse, and/or download information from our Web site. NIDA never collects information for commercial marketing or any purpose unrelated to NIDA's mission and goals.
 
-When visitors send email messages containing personal information to the general NIDA email box [information@nida.nih.gov](mailto:information@nida.nih.gov), NIDA staff responds to the letters and files them. Only designated staff members requiring access to the emails to respond may view or answer them.
+Please [contact us](https://web.archive.org/about-nida/contact-nida). NIDA staff responds to the submissions. Only designated staff members requiring access to the emails to respond may view or answer them.
 
 ##  Types of Information Collected
 
