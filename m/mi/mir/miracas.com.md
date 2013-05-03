@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miracas.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015034023id_/http%3A//miracas.com/cms.php%3Fid_cms%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracas.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503132652id_/http%3A//miracas.com/content/11-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Miracas
 
