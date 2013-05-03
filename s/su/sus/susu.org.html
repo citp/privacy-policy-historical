@@ -1,10 +1,18 @@
-<!--The following is the downloaded HTML source of the susu.org privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102012958id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the susu.org privacy policy that was archived on 2013-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503022704id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
 <meta property="fb:page_id" content="180512555342640">
+
+
+<meta name="viewport" content="width=980, maximum-scale=1, user-scalable=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta names="apple-mobile-web-app-status-bar-style" content="white-translucent">
+
+
+
+
 
 
 <title>SUSU - About - Privacy Policy</title>
@@ -13,54 +21,185 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/czx6utv.js"></script>
+<script type="text/javascript" src="http://use.typekit.com/czx6utv.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-<link rel="stylesheet" href="coreui/reset.css">
-<link rel="stylesheet" href="coreui/text.css">
-<link rel="stylesheet" href="coreui/960.css">
-<link rel="stylesheet" href="coreui/template.css">
-<link rel="stylesheet" href="coreui/buttons.css">
-<link rel="stylesheet" href="coreui/mobile.css">
+<link rel="stylesheet" href="/coreui/reset.css?v=14082012">
+<link rel="stylesheet" href="/coreui/text.css?v=20120904">
+<link rel="stylesheet" href="/coreui/960.css?v=14082012">
+<link rel="stylesheet" href="/coreui/template.css?v=20120904">
+<link rel="stylesheet" href="/coreui/buttons.css?v=14082012">
+<link rel="stylesheet" href="/coreui/mobile.css?v=14082012">
+
+<link rel="stylesheet" href="/css/cookiecuttr.css?v=14082012">
+<link rel="stylesheet" href="/css/bread-nav.css?v=14082012">
+
+
+
 
 <link type="image/x-icon" rel="icon" href="http://www.susu.org/favicon.ico">
 <link type="image/x-icon" rel="shortcut icon" href="http://www.susu.org/favicon.ico">
 
+<link rel="apple-touch-icon" href="/images/logos/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/logos/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/logos/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/logos/touch-icon-ipad-retina.png">
+<link rel="apple-touch-startup-image" href="/images/logos/startup.png">
 
-<script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/jquery.innerfade.js"></script>
+
 <script type="text/javascript">
 	<!--
 	function launchSurge() {
 	window.open( "http://www.surgeradio.co.uk/player/", "Surge Radio",
 	"status = 1, height = 220, width = 340, resizable = 0, scrollbars = 0" )
 	}
+	
+	var news_ticker_interval;
+	
+	function Tick() {
+		$("#news-ticker").animate({opacity: 0}, 500, function() {
+			var current = $("#news-ticker h4:not(.hidden)");
+			current.addClass("hidden");
+			if (current.is(":last-child")) {
+				$("#news-ticker h4.news:first").removeClass("hidden");
+			} else {
+				current.next("h4").removeClass("hidden");
+			}
+			$("#news-ticker").animate({opacity: 1}, 500);
+		});
+	}
+
+	function getRSS() {
+		clearInterval(news_ticker_interval);
+		$.getJSON("/php/news_ticker.php", function(data) {
+			$("#news-ticker").animate({opacity: 0}, 500, function() {
+				$("#news-ticker").html("");
+				
+				for (var x in data) {
+					$("#news-ticker").append("<h4 class=\"news hidden\"><a href=\""+data[x].link+"\">"+data[x].title+"</a></h4>");
+				}
+				
+				$("#news-ticker h4:first").removeClass("hidden");
+				$("#news-ticker").animate({opacity: 1}, 500);
+				news_ticker_interval = setInterval("Tick()", 10000);
+				setTimeout("getRSS()", 300000);
+			});
+		});
+	}
+	
+	$(function() { getRSS(); });
 	//-->
 </script>
+
+<script language="JavaScript" type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/jquery.cookiecuttr.js"></script>
+
+
 <script type="text/javascript">
+	var fader = 0;
+	var last_clicked = "";
+	var delay;
+	
+	function isMobile() {
+		return navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|IEMobile/i) ? true : false
+	}
+	
+	$(document).ready(function() {
+	
+			//	$(document).snowfall({ collection: ".snowcollect", round: true, flakeCount : 200, maxSpeed : 10, minSize: 3, maxSize : 7});
+
+	
+		$("#loginpopup").click(function(event) {
+			if ( $(event.target).closest('#loginform').get(0) == null ) { $("#loginpopup").hide(); }
+		});
+		
+		$('#closelogin').click(function() {
+			$('#loginpopup').hide();
+		});
+		
+				
+		$('#susumenu li a').hover(function() {
+			$("#susumenu li a").addClass("fade");
+			var id = $(this).parent().attr("class");
+			$("#susumenu li:not(."+id+") a").removeClass("hover");
+			$(".sususubmenu:not(."+id+"):not(.selected)").addClass("hidden");
+			$(this).addClass("hover");
+			
+			if (fader != 0) {
+				clearTimeout(fader);
+				fader = 0;
+			}
+			
+			if (!$(this).hasClass("selected")) {
+				$(".sususubmenu."+id).css("z-index", 95).removeClass("hidden");
+			}
+		}, function() {
+			if (!$(this).hasClass("selected")) {
+				var id = $(this).parent().attr("class");
+				fader = setTimeout(function() {
+					$(".sususubmenu."+id).addClass("hidden");
+					$("#susumenu li."+id+" a").removeClass("hover");
+					$("#susumenu li a.selected").addClass("hover");
+					$("#susumenu li a").removeClass("fade");
+				}, 250);
+			} else {
+				$("#susumenu li a").removeClass("fade");
+			}
+		}).click(function(e) {
+			if (isMobile()) {
+				console.log("Mobile");
+				var id = $(this).parent().attr("class");
+				console.log(id, last_clicked);
+				if (last_clicked != id) {
+					last_clicked = id;
+					
+					if ($("#sususubmenu_"+id).html() != "") {
+						e.preventDefault();
+						return false;
+					}
+				}
+			}
+		});
+		
+		$('.sususubmenu').hover(function() {
+			if ($(this).text() != "") {
+				$("#susumenu li a").addClass("fade");
+				if (fader != 0) {
+					clearTimeout(fader);
+					fader = 0;
+				}
+			}
+		}, function() {
+			fader = setTimeout(function() {
+				$(".sususubmenu:not(.selected)").addClass("hidden");
+				$("#susumenu li a").removeClass("hover");
+				$("#susumenu li a.selected").addClass("hover");
+				$("#susumenu li a").removeClass("fade");
+			}, 500);
+		});
+		
+		$.cookieCuttr({
+			cookieAnalytics: false,
+   			cookieMessage: 'We use cookies on our website.  To find out more <a href="{{cookiePolicyLink}}">please click here</a>.  Please click the button to accept our cookies. If you continue without changing your settings, we\'ll assume that you\'re happy to accept cookies.<br/><a href="http://www.allaboutcookies.org" target="_new">What are cookies</a>',
+   			cookiePolicyLink: 'http://www.susu.org/about/privacy-policy.html'
+		});
+	});
+
 	function loginPopup() {
 		$('#loginpopup').show();
 		$('#user').focus();
 	}
 
 	function logout() {
-		$('#loginpopup').load('http://www.susu.org/logout/');
-		location.reload(true);
+		$('#loginpopup').load('http://www.susu.org/logout/', function() {
+			location.reload(true);
+		});
 	}
-
-	$(document).ready(function() {
-
-		$("#loginpopup").click(function(event) {
-			if ( $(event.target).closest('#loginform').get(0) == null ) { $("#loginpopup").hide(); }
-		});
-
-		$('#closelogin').click(function() {
-			$('#loginpopup').hide();
-		});
-
-		
-
-	});
 </script>
+
 </head>
 
 <body>
@@ -150,26 +289,75 @@
 		});
 	});
 </script>
-
 <!-- SUSU HEADER START -->
 <div id="susuheader">
-    <div class="container_12">
-
-        <div class="grid_9" id="header_bg">
-	<div class="susulogo">
-	<a href="http://www.susu.org"><img src="images/logos/susunew.png" alt="SUSU"></a>
+	<div class="container_12">
+		<div id="sidebar_cont">
+					</div>
+		<a class="susulogo" href="/"><img src="images/logos/susunew.png" alt="SUSU"></a>
+		<div id="banner">
+			<!--<img src="images/banners/fresh-test.jpg" alt="Fresher" />-->
+			<ul class="adverts"><li style="background:url(http://images.susu.org/banner/sitebanner/studentstoragedealssouthampton-3.jpg)"><a href="banners/312/"></a></li><li style="background:url(http://images.susu.org/banner/sitebanner/welcome-to-susu-banner.jpg)"><a href="banners/278/"></a></li><li style="background:url(http://images.susu.org/banner/sitebanner/grad-ball-on-sale-now-websitev1.jpg)"><a href="banners/293/"></a></li><li style="background:url(http://images.susu.org/banner/sitebanner/grad-ball-icehouse-website.jpg)"><a href="banners/303/"></a></li></ul>
+<script type="text/javascript">
+	$(document).ready(
+		function(){
+			$(".adverts").innerfade({
+				speed: "1000",
+				timeout: 6000,
+				type: "sequence",
+				containerheight: "130px"
+			});
+		}
+	);
+</script>		</div>
+		<div class="clear"></div>
 	</div>
-        </div>
+	<div class="container_16">
+		<div id="susubar">
+			<div class="grid_3" id="susu-date">
+				<h3>
+				3rd May 2013				</h3>
+			</div>
+			<div class="grid_6" id="susu_news">
+				<img src="coreui/bubble.png">
+				<div id="news-ticker">
+					<!--<h4 class="news">Welcome everyone who is a Fresher!</h4>-->
+				</div>
+			</div>
+			<div class="grid_4" id="susu-user">
+									<span>
+						<a href="/login/" class="icon login">Login</a>
+					</span>
+								
+				<a class="icon fb" href="http://facebook.com/yoursusu" original-title="Facebook">Facebook</a>
+				<a class="icon twitter" href="http://twitter.com/yoursusu" original-title="Twitter">Twitter</a>
+				<a class="icon contact" href="contact.html" original-title="Contact">Contact</a>
+			</div>
+			<div class="grid_3">
+				<span>
+					<form id="searchbox" method="get" action="search/">
+						<input type="text" id="search" class="round" value="" placeholder="Search..." name="q" size="8">
+					</form>
+				</span>
+			</div>
+		</div>
 
-		<div class="grid_3">
-        	<div class="topbox" id="login">
-            	<p>Students &amp; Staff: <a href="login/" onclick="loginPopup(); return false;" class="button yellow">Login</a></p>
-            </div>
+		<div class="clear"></div>
+		<!--<div class="grid_12" id="header_bg">
+			<div class="susulogo" style="float: left;">
+			<a href="http://www.susu.org"><img src="images/logos/susunew.png" alt="SUSU" /></a>
+			</div>
 
-            <form id="searchbox" method="get" action="search/">
-                <input type="text" id="search" class="round" value="" placeholder="SUSU Search..." name="q" size="15">
-            </form>
-        </div>
+			<div style="margin-left: 720px; float: left;">
+				<div class="topbox" id="login">
+					<p>Students &amp; Staff: <a href="/login/" class="button yellow" >Login</a></p>
+				</div>
+
+				<form id="searchbox" method="get" action="search/">
+					<input type="text" id="search" class="round" value="" placeholder="SUSU Search..." name="q" size="15">
+				</form>
+			</div>
+        </div>-->
 	</div>
 </div>
 <!-- SUSU HEADER END -->
@@ -177,17 +365,222 @@
 <div class="container_12">
 
     <!-- SUSU MENU START -->
-    <div class="grid_12" id="header_menu">
+    <div class="grid_12 snowcollect" id="header_menu">
     	<ul id="susumenu">
-    <li class="one"><a href="http://www.susu.org/"><p class="big">Home</p><p>back to SUSU</p></a></li>
-    <li class="two"><a href="http://www.susu.org/calendar/"><p class="big">What's On?</p><p>events day &amp; night</p></a></li>
-    <li class="three"><a href="http://www.susu.org/activities/"><p class="big">Activities</p><p>socs &amp; media</p></a></li>
-    <li class="four"><a href="http://www.susu.org/sport/"><p class="big">Sport</p><p>athletic union</p></a></li>
-    <li class="five"><a href="http://www.susu.org/community-volunteering/"><p class="big">Volunteer</p><p>get involved</p></a></li>
-    <li class="six"><a href="http://www.susu.org/education/"><p class="big">Education</p><p>&amp; representation</p></a></li>
-    <li class="seven"><a href="http://www.susu.org/life/"><p class="big">Life</p><p>help &amp; advice</p></a></li>
-    <li class="eight"><a href="http://www.susu.org/international/"><p class="big">International</p><p>life in the UK</p></a></li>
-    <li class="custom"><a href="http://www.susu.org/elections/"><p class="big">Your Elections</p><p>take over your union</p></a></li>
+	<li class="one"><a href="/" class="selected hover"><p class="big">Home</p><p>back to SUSU</p></a></li>
+	<li class="two"><a href="/calendar/"><p class="big">What's On &amp; Where</p><p>events &amp; places</p></a></li>
+	<li class="three"><a href="/something-for-everyone/"><p class="big">Something for Everyone</p><p>socs, sport, media &amp; volunteering</p></a></li>
+	<li class="four"><a href="/help-and-support/"><p class="big">Help &amp; Support</p><p>advice</p></a></li>
+	<li class="five"><a href="/making-a-difference/"><p class="big">Making a Difference</p><p>what we do for you</p></a></li>
+	<li class="six"><a href="/about/"><p class="big">About SUSU</p><p>who we are</p></a></li>
+	<li class="custom"><a href="/elections/"><p class="big">Your Elections</p><p>run your Union!</p></a></li>
+</ul>
+<ul id="sususubmenu_one" class="one sususubmenu selected"></ul>
+<ul id="sususubmenu_two" class="two sususubmenu hidden">
+	<li class="first" id="sub_two_1">
+		<a href="/calendar/">Calendar</a>
+		<span>Calendar</span>
+	</li>
+	<li id="sub_two_2">
+		<a href="/whats-on-and-where/opening-times">Opening Times</a>
+		<span>Opening Times</span>
+	</li>
+	<li id="sub_two_3">
+		<a href="/whats-on-and-where/eat-drink-shop/">Eat, Drink and Shop</a>
+		<span>Eat, Drink and Shop</span>
+	</li>
+	<!--<li id="sub_two_4">
+		<a href="#">Nightlife</a>
+		<span>Nightlife</span>
+	</li>-->
+	<li id="sub_two_5">
+		<a href="http://www.unionfilms.org/">Union Films</a>
+		<span>Union Films</span>
+	</li>
+	<li id="sub_two_6">
+		<a href="http://boxoffice.susu.org/">Box Office</a>
+		<span>Box Office</span>
+	</li>
+		<li id="sub_two_7">
+		<a href="/whats-on-and-where/graduation-ball/">Graduation Ball</a>
+		<span>Graduation Ball</span>
+	</li>
+	
+	
+		<li id="sub_two_8">
+		<a href="/whats-on-and-where/feeds">Feeds</a>
+		<span>Feeds</span>
+	</li>
+</ul>
+<ul id="sususubmenu_three" class="three sususubmenu hidden">
+	<li class="first" id="sub_three_1">
+		<a href="http://perform.susu.org">Performing Arts</a>
+		<span>Performing Arts</span>
+	</li>
+	<li id="sub_three_2">
+		<a href="/something-for-everyone/societies/">Societies</a>
+		<span>Societies</span>
+	</li>
+	<li id="sub_three_3">
+		<a href="/something-for-everyone/media/">Media</a>
+		<span>Media</span>
+	</li>
+	<li id="sub_three_4">
+		<a href="/something-for-everyone/halls-life/">Halls life</a>
+		<span>Halls life</span>
+	</li>
+	<li id="sub_three_5">
+		<a href="/something-for-everyone/rag/">RAG</a>
+		<span>RAG</span>
+	</li>
+	<li id="sub_three_6">
+		<a href="/something-for-everyone/sports/">Sports</a>
+		<span>Sport</span>
+	</li>
+	<li id="sub_three_7">
+		<a href="/something-for-everyone/community-volunteering/">Community Volunteering</a>
+		<span>Community Volunteering</span>
+	</li>
+	<li id="sub_three_8">
+		<a href="http://www.unionfilms.org/about/get-involved.html">Union Films</a>
+		<span>Union Films</span>
+	</li>
+	<li id="sub_three_9">
+		<a href="/something-for-everyone/community-action/">Community Action</a>
+		<span>Community Action</span>
+	</li>
+</ul>
+<ul id="sususubmenu_four" class="four sususubmenu hidden">
+	<li class="first" id="sub_four_1">
+		<a href="/help-and-support/advice-centre">Advice Centre</a>
+		<span>Advice Centre</span>
+	</li>
+	<li id="sub_four_2">
+		<a href="/help-and-support/international/">Coming from overseas?</a>
+		<span>Coming from overseas?</span>
+	</li>
+	<li id="sub_four_3">
+		<a href="/help-and-support/housing/">Finding a house</a>
+		<span>Finding a house</span>
+	</li>
+	<li id="sub_four_4">
+		<a href="/help-and-support/finances/">Finances</a>
+		<span>Finances</span>
+	</li>
+	<li id="sub_four_5">
+		<a href="http://nightline.susu.org">Nightline</a>
+		<span>Nightline</span>
+	</li>
+	<!--<li id="sub_four_5">
+		<a href="/education/">Studying</a>
+		<span>Studying</span>
+	</li>-->
+	<!--<li id="sub_four_6">
+		<a href="#">Staying healthy</a>
+		<span>Staying healthy</span>
+	</li>-->
+	<li id="sub_four_7">
+		<a href="/help-and-support/safety/">Staying safe</a>
+		<span>Staying safe</span>
+	</li>
+</ul>
+<ul id="sususubmenu_five" class="five sususubmenu hidden">
+	<li class="first" id="sub_five_1">
+		<a href="/making-a-difference/elections/">Your Elections</a>
+		<span>Your Elections</span>
+	</li>
+	<li id="sub_five_2">
+		<a href="/making-a-difference/education/">Your Education</a>
+		<span>Your Education</span>
+	</li>
+	<li id="sub_five_3">
+		<a href="/making-a-difference/running-your-union/">Running your Union</a>
+		<span>Running your Union</span>
+	</li>
+	<li id="sub_five_4">
+		<a href="/making-a-difference/campaigns/">Campaigns</a>
+		<span>Campaigns</span>
+	</li>
+	<li id="sub_five_5">
+		<a href="/making-a-difference/union-awards/">Union Awards</a>
+		<span>Union Awards</span>
+	</li>
+	<li id="sub_five_6">
+		<a href="/making-a-difference/general-meeting/">General Meeting</a>
+		<span>General Meeting</span>
+	</li>
+</ul>
+<ul id="sususubmenu_six" class="six sususubmenu hidden">
+
+
+	<!--<li id="sub_six_3">
+		<a href="/you-decide/general-meeting/">Governance</a>
+		<span>Governance</span>
+	</li>
+	<li id="sub_six_4">
+		<a href="/you-decide/accounts">Trustee Board</a>
+		<span>Trustee Board</span>
+	</li>-->
+	<li id="sub_six_1" class="first">
+		<a href="/about/structure">Structure</a>
+		<span>Structure</span>
+	</li>
+	<li id="sub_six_2">
+		<a href="/about/equality-and-diversity">Equality &amp; Diversity</a>
+		<span>Equality &amp; Diversity</span>
+	</li>
+	
+	<li id="sub_six_3">
+		<a href="/about/union-plan">Union Plan</a>
+		<span>Union Plan</span>
+	</li>
+	
+	
+	<li id="sub_six_4">
+		<a href="/about/annual-review">Annual Review</a>
+		<span>Annual Review</span>
+	</li>
+	
+	<li id="sub_six_5">
+		<a href="/about/facts-and-figures">Facts &amp; Figures</a>
+		<span>Facts &amp; Figures</span>
+	</li>
+	<!--<li id="sub_six_8">
+		<a href="#">History</a>
+		<span>History</span>
+	</li>
+	<li id="sub_six_9">
+		<a href="/winchester/">Sites</a>
+		<span>Sites</span>
+	</li>-->
+</ul>
+<ul id="sususubmenu_custom" class="custom sususubmenu hidden">
+
+	<li id="sub_custom_1" class="first">
+		<a href="making-a-difference/elections/2012/summer/">Summer Elections</a>
+		<span>Spring Elections</span>
+
+	</li>
+		<li id="sub_custom_2">
+		<a href="/making-a-difference/elections/2012/summer/candidates.html">Candidates</a>
+		<span>Candidates</span>
+	</li>
+	<li id="sub_custom_3">
+		<a href="/making-a-difference/elections/2012/summer/positions.html">Positions</a>
+		<span>Positions</span>
+	</li>
+	<li id="sub_custom_4">
+		<a href="http://www.susu.org/vote/">Vote Now</a>
+		<span>Budgets</span>
+	</li>	
+	<li id="sub_custom_5">
+		<a href="/making-a-difference/elections/2012/spring/why-run.html">Why run?</a>
+		<span>Why run?</span>
+	</li>	
+	<li id="sub_custom_6">
+		<a href="/making-a-difference/elections/2012/spring/">Spring Elections</a>
+		<span>Questions</span>
+	</li>	
 </ul>
     </div>
     <!-- SUSU MENU END -->
@@ -198,32 +591,111 @@
 <h2>Privacy Policy</h2>
 
 <p>Southampton University Students’ Union ("SUSU") is committed to safeguarding your privacy online. This Privacy Statement applies to the SUSU.ORG network of websites. Please read the following policy to understand how your personal information will be treated as you make full use of our software and website. We regularly make improvements to our software and website and in order to keep up with these changes, SUSU reserves the right to change this privacy policy from time to time, so please check back periodically. Users may review updates to this Privacy Statement at any time via links on our site. </p>
+
 <h3>Gathering and Use of Personally Identifiable Information. </h3>
 <p>During the SUSU.ORG registration process we gather your name and email address. This personal information is held by us with care and security and is used by us in order to contact you with students’ union news and information about website updates. You may opt-out of receiving future mailings at any time; see the Choice/Opt-Out section below. We do not share your personal data with any outside parties without your express authorization, except in the special circumstances described below.</p>
+
 <h3>Gathering and Use of Non-Personal Information. </h3>
 <p>The SUSU.ORG website also gathers non-personal information including your computer's IP address which may be used in diagnosing server problems and for administration of our website, as well as to provide an audit trail in the case of attempted illegal use of the site and to guard against spamming. Your IP address may also be used to help identify you and your shopping cart and to gather broad demographic information. SUSU does not track or monitor your individual surfing activities.</p>
+
 <h3>Sharing of Aggregate Information. </h3>
 <p>While we will not share personally identifiable data or information with third parties, some of your non-personal information may be shared on an aggregate or statistical basis, for example, statistics that indicate the number of users who registered in February, but such information will not be sufficient to permit the recipient to identify you. </p>
+
 <h3>Information Collected by Our Web Servers. </h3>
 <p>The SUSU.ORG website runs on  web servers which compiles log files of visitors who visit our site so that we can monitor traffic to our site. Information collected is the standard kind of information collected by most web servers, including your IP address, incoming domain, time and date, pages viewed, length of time visiting the site and type of browser you are using.</p>
+
 <h3>Use of Cookies. </h3>
-<p>The SUSU.ORG network of web sites uses cookies to store your log-in information (username, email, and encrypted password) on your local machine.  This allows you to stay logged in at all of the SUSU.ORG network websites. When you log out the cookie is deleted.</p>
-<p>You should be aware, however, that advertisers that we sometimes display ads on our site, and websites which are linked to by the SUSU.ORG website, including our e-commerce storefront, may cause cookies to be placed on your computer for various reasons. These cookies are used by the advertisers running the advertisements or by the websites we have linked to. SUSU does not have access to the information obtained from these cookies. </p>
+<p>The SUSU.ORG network of websites use cookies. A cookie is a small file of letters and numbers that a website transfers to the cookie file on your computer’s hard disk. These cookies help us to provide a tailored experience when browsing our websites and to make improvements.</p>
+
+<table>
+<thead>
+<tr><th>Cookie</th><th>Purpose</th><th>Expiry</th>
+</tr></thead>
+
+<tbody>
+<tr>
+<td>SUSU_ID</td>
+<td>Determines whether a user is logged in, and allows the website to permit access to certain information</td>
+<td>1 year</td>
+</tr>
+
+<tr>
+<td>unionuser</td>
+<td>Legacy cookie from older parts of susu.org, used for login</td>
+<td>2 months</td>
+</tr>
+
+
+<tr>
+<td>_utma</td>
+<td>Google analytics cookie - determines unique visitor to our site</td>
+<td>2 years from set/update.</td>
+</tr>
+
+<tr>
+<td>_utmb</td>
+<td>Google analytics cookie - tracks the time spent and pages viewed on our site </td>
+<td>30 minutes from set/update.</td>
+</tr>
+
+<tr>
+<td>_utmc</td>
+<td>Legacy Google analytics cookie</td>
+<td>N/A</td>
+</tr>
+
+<tr>
+<td>_utmz</td>
+<td>Google analytics cookie - tracks how you were referred to our site</td>
+<td>6 months from set/update</td>
+</tr>
+
+
+</tbody>
+
+</table>
+
+<p>We use session cookies on our sites. These are temporary cookies that remain in the cookie file on your computer until you close your browser, at which point they are deleted. They allow websites to link the actions of a user during a browser session.</p>
+
+<p>For example, we use session cookies to allow us to recognize and count the number of visitors and to see how they move around the site. </p>
+
+<p>We also use persistent cookies on our sites. These remain on your hard drive until you erase them or they expire. Persistent cookies allow the preferences or actions of a user on the website to be remembered across browser sessions. </p>
+
+<p>For example, we use persistent cookies to store your log-in information (username, email and encrypted password) on your local machine. This allows you to stay logged in to all of the SUSU.ORG network websites. When you log out, the cookie is deleted.</p>
+
+<p>Advertisers that we allow to display ads on our site and websites which are linked to by the SUSU.ORG website (including our e-commerce storefront) may also cause cookies to be placed on your computer for various reasons. These cookies are used by the advertisers running the advertisements or by the websites we have linked to. SUSU does not have access to the information obtained from these cookies.</p>
+
+<p>To help us improve our sites we also use Google Analytics to track usage. Google Analytics provide us with statistical information, such as, which pages on our website are visited most frequently and how long visitors spend on them. None of the information can be traced to an individual - we do not know who you are, merely that there are a certain number of people using the website. </p>
+
+<p>For more information about how Google Analytics collects data, please read their privacy policy at: <a href="http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html">http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html</a></p>
+
+<p>The web browsers of most computers are initially set up to accept cookies. If you prefer, you can set your web browser to disable cookies or to inform you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer's cookie file. </p>
+
+<p>If you choose to withdraw consent for use of our cookies on your computer, please note this will impact your experience on using our site.  This includes, but is not limited to, being unable to use online nominations and voting systems, use of the online box office / shop and access to information about your specific academic representatives.</p>
+
+
 <h3>Information Gathered by E-Commerce. </h3>
 <p>If you choose to purchase any products from our website, additional information will be gathered from you in order to complete the credit card transaction. </p>
+
 <h3>Exceptions. </h3>
 <p>SUSU may disclose personally identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) SUSU’s rights or property, other SUSU.ORG users, or anyone else that could be harmed or affected by such activities. SUSU may disclose account information when we believe in good faith that the law requires it. </p>
+
 <h3>Links to Other Sites.  </h3>
 <p>Our website and mailings contain links to various websites. Please be aware that these links and websites are not controlled by SUSU and that SUSU has no responsibility for the content, operation or privacy practices of the websites linked to by us. The websites linked to by SUSU.ORG are not covered by this privacy statement. </p>
+
 <h3>Security Measures to Protect Your Information. </h3>
 <p>Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, SUSU cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make every reasonable effort to ensure its security on our systems. </p>
+
 <h3>When might SUSU contact me? </h3>
 <p>SUSU reserves the right to contact users of the SUSU.ORG website and software regarding account status and changes to the users agreement, privacy policy, or any other relevant policies or agreements. </p>
+
 <h3>What about children's privacy? </h3>
 <p>SUSU does not attempt to collect personal information from children, and it is not our policy to allow children to use our services. </p>
 <p>We encourage parents and other legal guardians to spend time online with their children to become familiar with the types of content available through SUSU.ORG and over the Internet in general, and to regularly oversee their children's use of online facilities. Children should always ask their parents' permission before sending any personal information to us, or anywhere on the Internet. If a child under 13 has in fact registered or begun using SUSU.ORG contrary to our policy, or for other privacy matters, a parent or guardian should contact us by sending email to susuweb@soton.ac.uk.</p>
+
 <h3>Choice/Opt-Out. </h3>
 <p>When you complete the SUSU.ORG registration form, your email address will be added to our registered user database and you may infrequently be sent mailings, for instance, a welcome message to let you know that your registration was completed successfully, or for major announcements about the company or products. If you do not want to receive these messages, you can opt out at any time as described below. The SUSU.ORG registration process also lets you choose to receive the SUSU newsletter by checking the appropriate checkboxes on the registration form. If you do not check these checkboxes, your email address will not be added to these mailing lists and you will not receive these mailings. </p>
+
 <p>Each of these mailing lists are maintained separately, and in order to stop receiving mailings from us you will need to unsubscribe from each of these lists individually. The easiest way to unsubscribe from these mailings is to follow the instructions in the most recent mailing and e-mail a specially coded email address back to the list server. This will automatically unsubscribe you from the mailing list. You can also send us a message at susuweb@soton.ac.uk for further assistance and we'll make every reasonable effort to remove you from the list. To change your name or email address in our mailing list database, just unsubscribe and then resubscribe by going through the SUSU.ORG registration again.</p>
 
 
@@ -243,29 +715,51 @@
 
     
 
+  <!-- smartlook includes
+	<script type="text/javascript"> 
+		var issuuConfig = { 
+			guid: '534d2983-58c4-4b6e-ba02-8016cafc75f6', 
+			domain: '*.susu.org' 
+		}; 
+	</script> 
+	<script type="text/javascript"> 
+		document.write(unescape("%3Cscript src='http://static.issuu.com/smartlook/ISSUU.smartlook.js' type='text/javascript'%3E%3C/script%3E")); 
+	</script> 
+	end smartlook includes --> 
+
+
 
     <div class="clear"></div>
     
     <div class="container_12" id="footer">
+	
+
+	<div class="grid_12" style="text-align:center;"><p class="small"></p></div>
+    <div class="clear"></div>
+
+
         <div class="grid_2">
-            <h1><span class="header">
-	<!--<img src="coreui/speech-bubble.png" alt="SUSU" style="margin-top: 15px;" />-->
-</span></h1>
+
+	<img src="images/logos/fairtrade.png" alt="Fairtrade" id="fairtrade">
+
         </div>
         <div class="grid_8" style="text-align:center;">
 		<ul>
-		<li class="first" style="padding-left: 10px;"><h2><a href="http://www.susu.org/about">Your Union</a></h2></li>
-		<li><h2><a href="http://www.susu.org/contact.html">Contact Us</a></h2></li>
-		<li><h2><a href="http://bookings.susu.org">Room Bookings</a></h2></li>
+		<li class="first" style="padding-left: 80px;"><h2><a href="http://www.susu.org/contact.html">Contact Us</a></h2></li>
+		<li><h2><a href="http://bookings.susu.org">Room/Vehicle Bookings</a></h2></li>
 		<li><h2><a href="http://www.susu.org/work-with-us">Job Vacancies</a></h2></li>
 		</ul>
-	<br>
-		<ul>
-		<li class="first" style="padding-left: 190px;"><h4><a href="about/privacy-policy.html">Privacy Policy</a></h4></li>
+<br>
+		<p style="font-size: 10px;  color: #000; margin-bottom: 5px;">SUSU is a Company limited by guarantee, No. 8034371 &amp; a registered Charity, No. 1148683.</p>
+
+		<ul style="margin-bottom: 10px;">
+		<li class="first" style="padding-left: 140px;"><h4><a href="about/privacy-policy.html">Privacy Policy &amp; Cookies</a></h4></li>
 		<li><h4><a href="about/terms-and-conditions.html">Terms &amp; Conditions</a></h4></li>
 		</ul>
+		
+		
 	<br>	
-		<p style="font-size: 10px;  color: #000">© 2001 - 2011.</p>
+		<p style="font-size: 10px;  color: #000;  margin-bottom: 5px;">© 2001 - 2013.</p>
 
 
         </div>
@@ -274,15 +768,7 @@
 	</div>
     <div class="clear"></div>
 
-<!--	<div class="grid_12">
-        	<p class="smalltext">Designed by The Southampton University Students' Union Web Team &copy; 2001 - 2011. <br />All logos and trademarks are property of their respective organisations.</p>
-            <ul>
-            	<li class="first"><a href="contact.html">contact us</a></li>
-                <li><a href="about/terms-and-conditions.html">terms &amp; conditions</a></li> 
-                <li><a href="about/privacy-policy.html">privacy policy</a></li>             
-            </ul>
 
-	</div>-->
 
     </div>
 
@@ -295,6 +781,9 @@
 <script type="text/javascript" src="js/facebook.js"></script>
 <script type="text/javascript">
 
+if (jQuery.cookie('cc_cookie_decline') == "cc_cookie_decline") {
+
+} else {
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-1440522-1']);
  _gaq.push(['_trackPageview']);
@@ -308,6 +797,7 @@ ga.async = true;
 s.parentNode.insertBefore(ga, s);
  })();
 
+}
 </script>
 
 
