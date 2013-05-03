@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindri.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701225732id_/http%3A//www.mindri.com/generalPage.aspx%3FpageID%3Dprivacy%26sLanguage%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindri.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503120307id_/http%3A//mindri.com/generalPage.aspx%3FpageID%3Dprivacy%26sLanguage%3Den-US) for the most accurate reproduction.*
 
 # הצהרת פרטיות - Mindri
 
