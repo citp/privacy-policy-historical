@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softango.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102064312id_/http%3A//www.softango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softango.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503092932id_/http%3A//www.softango.com/privacy) for the most accurate reproduction.*
 
 # Software for Windows: Softango
 
-##  Privacy policy
+## Privacy policy
 
 Softango regards privacy issues at the utmost seriousness. Softango is firmly commitment to the privacy of its users. The following discloses our information gathering and dissemination practices for this website: Softango.com, operated by Softango, located in Victoria, Seychelles.
 
@@ -10,7 +10,7 @@ During the administration process of the website, Softango needs to gather some 
 
 The clauses of this policy are valid for all kinds of information gathered from Softango users. This privacy policy informs you about the type of personal data that we may collect from you, the way we can use it and the way we protect it.
 
-**Information that we collect**  
+ **Information that we collect**  
 Softango may collect information from its users in three different ways: directly from the user, from traffic references of hosting servers and from cookies.
 
 Information provided directly by the user: when you subscribe to a service provided by Softango, we may ask you about your name, e-mail address or other personal data. For example, when you register to our website or news letter, you are asked to enter your username, e-mail address and password.
@@ -27,13 +27,13 @@ Softango does not provide any personally identifiable information to these third
 
 You need to acknowledge that, whenever you disclose information in public areas on the website, such as message boards (comments) or forums, that information becomes public and can easily be tracked and used by unauthorized persons. Although Softango does its best in order to protect your personal data, we cannot entirely grant you its safety. You should exercise caution when deciding to disclose your personal information. You should also know that you are the only one responsible for guarding your passwords, usernames etc.
 
-**How and when Softango uses collected information**  
+ **How and when Softango uses collected information**  
 Softango uses the information collected from you for several purposes, depending on the type of data collected:  
 \- information provided directly by the user: this information is used only in order to personalize the services that we offer you and to check your identity;  
 \- information from traffic references: this type of info helps us identify the parts of our site of most interest for you. Softango also collects the IP addresses of its users, in order to safely manage our computer system;  
 \- information collected from cookies: Softango uses cookies to help you with our services and with getting statistic information for the services improvement. Cookies allow us to save your passwords and your preferences so that you do not have to introduce them again at your next visit.
 
-**How Softango protects information collected from users** Softango takes confidentiality very seriously. Softango does not offer your personal data to third parties without your explicit consent. Any statistics that we may offer to our partners or to advertisement networks does not include any personal identifying information about any individual user.
+ **How Softango protects information collected from users** Softango takes confidentiality very seriously. Softango does not offer your personal data to third parties without your explicit consent. Any statistics that we may offer to our partners or to advertisement networks does not include any personal identifying information about any individual user.
 
 Your access to certain services on the website is protected by a password. We advise you not to unveil this password to anyone. Softango will never ask a user for the password of his accounts through any kind of messages or unsolicited phone calls. We strongly advise you not to reveal your passwords to those who may ask you to do so. We also advise you to close your browser window when you quit using the sites or the services provided by Softango.
 
@@ -43,10 +43,10 @@ Unfortunately, no data transmission by means of internet can be 100% certain. As
 
 Still, we can grant you that we make our best efforts to ensure the safety of our systems, according to the security standards imposed by International standards. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent intruders from retrieving personal information about our users. Softango staff members check server access logs daily to ensure the above holds true.
 
-**Unsolicited communication**  
+ **Unsolicited communication**  
 Softango will not use your e-mail address in order to send you any kind of unsolicited or promotional mail. It is your choice whether you decide to receive or not newsletters from us. You can always choose to unsubscribe from our newsletter services.
 
-**Who has access to the information collected from you**  
+ **Who has access to the information collected from you**  
 As a rule, Softango will never unveil any sort of personally identifiable information about any of its users, without their prior express consent. On the other hand, Softango may unveil this kind of data when expressly permitted by law or when this measure is necessary in order to protect Softango rights and interests.
 
 As a conclusion, when you access Softango website and are asked to offer information about you, only Softango will have access to them. However, you acknowledge that our site contains links to some partner sites. Softango is not responsible for the privacy practices or the content of such websites.
@@ -57,26 +57,26 @@ We may use an outside ad company to display ads on our site. These ads may conta
 
 Advertisements served by Google, as a third party vendor, use DART cookies. These cookies are used to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**How we can correct errors triggered by data collected from you**  
+ **How we can correct errors triggered by data collected from you**  
 If you create an account to one of our services, we shall send you a confirmation e-mail in which we give you the details of the newly created account. The confirmation message will be sent at the e-mail address that you provided. We strongly advise you to keep this confirmation mail secret, because it contains information that can be useful when you encounter problems in accessing our services.
 
-**Children's Guidelines**  
+ **Children's Guidelines**  
 This site gives children under the age of 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum.
 
-**Notification of Changes**  
+ **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-If you feel that Softango is not abiding by its posted privacy policy, you should first contact Softango. For any suggestions and comments regarding Softango or our Privacy Policy, please contact us at contact@softango.com.
+If you feel that Softango is not abiding by its posted privacy policy, you should first contact Softango. For any suggestions and comments regarding Softango or our Privacy Policy, please contact us at .
 
 This Privacy Policy has been last updated on 24th of January 2010.
 
-**How to Remove Private Data**  
+ **How to Remove Private Data**  
 To Remove your Personal data from our servers please contact us about this by writing or emailing us:
 
 Softango.com  
 15500 SW Jay Street Suite 32118  
 Beaverton, OR, United States 97006  
-Email: support@softango.com 
+Email: 
 
 **Contact Information**  
 You can contact us about this privacy statement by writing or email us at the address below: 
@@ -84,4 +84,4 @@ You can contact us about this privacy statement by writing or email us at the ad
 Softango  
 15500 SW Jay Street Suite 32118  
 Beaverton, OR, United States 97006  
-Email: support@softango.com 
+Email: 
