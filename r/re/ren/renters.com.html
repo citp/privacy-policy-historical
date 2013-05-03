@@ -1,0 +1,530 @@
+<!--The following is the downloaded HTML source of the renters.com privacy policy that was archived on 2013-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503034226id_/http%3A//www.renters.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    
+    <title>Privacy Policy | Renters</title>
+    
+    <meta charset="UTF-8">
+
+
+        <meta name="description" content="Compare renters insurance quotes with the #1 name in Renters Insurance. Get Renters Insurance for less than $10 per month">
+
+        <meta name="keywords" content="Renters, Renters Insurance, Renters Insurance Quotes, Compare Renters Insurance, Renter’s Insurance, Rental Insurance, Rental Insurance Quotes, Renters.com">
+
+   <link rel="shortcut icon" type="image/x-icon" href="../../templates/images/favicon.ico">
+    
+    <link rel="stylesheet" media="screen" href="../../templates/css/style.css">
+    <link rel="stylesheet" href="../../templates/css/colorbox.css">
+	<link rel="stylesheet" href="../../templates/css/fonts.css">
+    
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css">
+    <!--[if IE 6]>
+    <link href="../../templates/ie.css" type="text/css" rel="stylesheet" media="screen" />
+    <![endif]-->
+    
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" src="../../templates/js/jquery-1.7.2.min.js"></script>
+    <script src="../../templates/js/jquery.colorbox.js"></script>
+    <script type="text/javascript" src="../../templates/js/jquery-ui-1.9.0.custom.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
+    <script type="text/javascript" src="../../templates/js/config.js"></script>
+    <script type="text/javascript" src="../../templates/js/homepage.js"></script>
+    <script type="text/javascript" src="../../templates/js/user_homepage.js"></script>
+    <script type="text/javascript" src="../../templates/js/geo_location.js"></script>
+    <script type="text/javascript" src="../../templates/js/google_token.js"></script>
+    <script type="text/javascript" src="../../templates/js/popup.js"></script>
+    <script type="text/javascript" src="../../templates/js/jquery.form.js"></script>
+    
+
+    <!--<script type="text/javascript" src="../../templates/js/back_ground_facebook.js"></script>-->
+    <script type="text/javascript" src="../../templates/js/animation_f_n_b.js"></script>
+    <script type="text/javascript" src="../../templates/js/date_time.js"></script>
+	
+
+    <script src="../../templates/js/update_address.js"></script>
+	
+	<script src="../../templates/js/jsCarousel-2.0.0.js"></script>
+	<link rel="stylesheet" href="../../templates/css/jsCarousel-2.0.0.css">
+	
+	 <script type="text/javascript">
+         function sendRegistrationMsg(){
+             var openGraphUrl = '/me/'+'rentersstaging'+':'+'register'+'?'+'account'+'='+'http://www.renters.com/facebookSignupMsg.php';
+             var scrapeUrl    = '/?ids='+'http://www.renters.com/facebookSignupMsg.php'+'&scrape=true';
+             FB.getLoginStatus(function(response) {
+                 if (response.status === 'connected') {
+                     setTimeout(function(){
+                                 FB.api(scrapeUrl, 'post',
+                                         function(response) {
+                                             if (!response || response.error) {
+                                                 //console.log('scrap: '+response.error.message);
+                                             } else {
+                                                 FB.api(openGraphUrl, 'post',
+                                                         function(response) {
+                                                             if (!response || response.error) {
+                                                                 //console.log('OG: '+response.error.message);
+                                                             } else {
+                                                                 //console.log('Successful! Action ID: ' + response.id);
+                                                             }
+                                                         }
+                                                 );
+                                             }
+                                         });
+                             }
+                             , 5000);
+                 }else{
+                     //not connected, want to connect user???????????
+                     FB.login(function(response) {
+                                 if (response.authResponse) {
+                                     setTimeout(function(){
+                                                 FB.api(scrapeUrl, 'post',
+                                                         function(response) {
+                                                             if (!response || response.error) {
+                                                                // console.log('scrap: '+response.error.message);
+                                                             } else {
+                                                                 FB.api(openGraphUrl, 'post',
+                                                                         function(response) {
+                                                                             if (!response || response.error) {
+                                                                                 //console.log('OG: '+response.error.message);
+                                                                             } else {
+                                                                                 //console.log('Successful! Action ID: ' + response.id);
+                                                                             }
+                                                                         }
+                                                                 );
+                                                             }
+                                                         });
+                                             }
+                                             , 5000);
+                                 }
+
+
+                             }, {scope: 'email,publish_stream,user_about_me,user_location,read_friendlists,offline_access,publish_actions'}
+                     );
+                 }
+             });
+         }
+        $(document).ready(function() {
+            $('#carouselv').jsCarousel({ onthumbnailclick: function(src) { }, autoscroll: false, masked: false, circular: true, itemstodisplay: 3, orientation: 'v' });
+            $('#carouselh').jsCarousel({ onthumbnailclick: function(src) { }, autoscroll: false, circular: true, masked: false, itemstodisplay: 5, orientation: 'h' });
+            $('#carouselhAuto').jsCarousel({ onthumbnailclick: function(src) { }, autoscroll: true, masked: true, itemstodisplay: 5, orientation: 'h' });
+
+        });        
+    </script>
+    
+	
+	<!--script type="text/javascript" src="../../templates/js/jquery.js"></script-->
+	<script type="text/javascript" src="../../templates/js/easySlider1.7.js"></script>
+	
+	<script type="text/javascript">
+		$(document).ready(function(){	
+			$("#slider").easySlider({
+				auto: false,
+				continuous:false,
+				nextId: "slider1next",
+				prevId: "slider1prev"
+			});
+			$("#slider2").easySlider({ 
+				numeric: true
+			});
+		});	
+</script>
+	 <link rel="stylesheet" href="../../templates/css/screen.css">
+	 <!--Fade in out slider for banner-->
+		<script src="../../templates/js/jquery.innerfade.js"></script>
+	  <!--Fade in out slider for banner-->
+    
+        
+
+        <script type="text/javascript" src="../../templates/js/fs-location-map-widget.js"></script>
+        <script type="text/javascript">
+            var prepareFSMarker=[[0,0,0,0]];
+        </script>
+        
+ 
+
+<!-- Start of Woopra Code -->
+<script type="text/javascript">
+function woopraReady(tracker) {
+    tracker.setDomain('renters.com');
+    tracker.setIdleTimeout(1800000);
+    tracker.trackPageview({type:'pageview',url:window.location.pathname+window.location.search,title:document.title});
+    return false;
+}
+(function() {
+    var wsc = document.createElement('script');
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+    wsc.type = 'text/javascript';
+    wsc.async = true;
+    var ssc = document.getElementsByTagName('script')[0];
+    ssc.parentNode.insertBefore(wsc, ssc);
+})();
+</script>
+<!-- End of Woopra Code -->
+
+</head>
+	<!--images loaded-->
+	<body><img style="display:none;" src="../../templates/images/login-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/print-your-rental-history-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/change-now-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/update-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/submit-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/sign-up-hove.png" alt="">
+	<img style="display:none;" src="../../templates/images/set-address-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/add-new-address-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/continue-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/continue-hover.png" alt="">
+	<img style="display:none;" src="../../templates/images/btn-home-hove.png" alt="">
+	<img style="display:none;" src="../../templates/images/send_message_hover.png" alt="">
+	<!--images loaded-->
+
+
+
+<div id="fb-root"></div>
+<literal>
+    <script type="text/javascript">
+        function ogRentersJoinMsg(){
+            try{
+                window.fbAsyncInit = function() {
+                    FB.init({
+                        appId      : '183015318504017', // App ID
+                        channelUrl : 'http://renters.com/user/update_signup.php',
+                        status     : true, // check login status
+                        cookie     : true, // enable cookies to allow the server to access the session
+                        xfbml      : true  // parse XFBML
+                    });
+                    sendRegistrationMsg();
+                };
+            }
+            catch(err)
+            {
+                //console.log("FBinit Error"+err.message);
+            }
+            // Load the SDK Asynchronously
+            (function(d){
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {
+                    return;
+                }
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                d.getElementsByTagName('head')[0].appendChild(js);
+            }(document));
+        }
+    </script>
+</literal>
+
+<style>
+    .menu_active_background
+    {
+        background-color: #000000;
+    }
+</style>
+<div id="header">
+    <div class="wrapper">
+        <div class="header-main">
+            <div class="header-left">
+                <a href="/"><img src="../../templates/images/logo.png" alt="logo"></a>
+            </div>
+            
+            <div class="header-right">
+                <div class="login-nav">
+                    <ul>
+                        <li><a target="_blank" class="f-book" href="https://www.facebook.com/pages/Renterscom/461542347239227">Facebook</a></li>
+                        <li><a class="blog" href="http://www.renters.com/resources/">Resources</a></li>
+                        
+                        <li id="de_active_login"><a href="/login/">Login</a></li>
+                                            </ul>
+                    <div class="clear"></div>
+                </div>
+
+                <div class="top-nav">
+                    <ul>
+                        <li><a class="top-nav-active" href="/">Home</a>
+                            <ul>
+                                <li><a href="/signup/">Become a Member</a></li>
+                                <li><a href="/terms-of-services/">Terms of Service</a></li>
+                                <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                                <li><a href="/pre-screening/">Pre Screening</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/about-us/">About Us</a>
+                            <ul>
+                                <li><a href="/vision-philosophy/">Vision &amp; Philosophy</a></li>
+                                <li><a href="/different/">What Makes us Different</a></li>
+                                
+                                <li><a href="/bells-whistles/">Bells &amp; Whistles</a></li>
+                                <li><a href="/partnership-opportunities/">Partnership Opportunities</a></li>
+                                <!--<li><a href="/pre_screening/">Pre Screening</a></li>-->
+                            </ul>
+                        </li>
+                        <li><a href="/insurance">Insurance</a>
+                            <ul>
+                                <li><a href="/overview/">Overview</a></li>
+                                <li><a href="/how-works/">How it Works</a></li>
+                                <li><a href="/why-renters/">Why Renters.com</a></li>
+                                
+                            </ul>
+                        </li>
+                        <li><a href="/contact-us/">Contact Us</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<!--<script>
+$(document).ready(function() { 
+	$('#image_rotate').innerfade({ 
+		speed: 'slow', 
+		timeout: 4000, 
+		type: 'sequence', 
+		containerheight: '270px'
+	});
+});
+
+</script>
+
+
+	<div class="banner">
+		<div class="banner-wrapper">
+		
+		
+			<ul id="image_rotate" style="list-style: none;">
+			
+				<li>
+					<div class="banner-bg">
+						<div class="banner-left">
+							<div class="banner-left-top">
+								<img src="../../templates/images/bt-1.png" alt=""/>
+							</div>
+							<div class="banner-left-bottom">
+								<img src="../../templates/images/bt-1s.png" alt=""/>
+							</div>
+						</div>
+						
+						
+						<div class="clear"></div>
+					</div>
+				</li>
+				
+				<li>
+					<div class="banner-bg-2">
+						<div class="banner-left">
+							<div class="banner-left-top">
+								<img src="../../templates/images/banner-title-1.png" alt=""/>
+							</div>
+							<div class="banner-left-bottom">
+								<img src="../../templates/images/banner-title-2.png" alt=""/>
+							</div>
+						</div>
+						
+						<div class="clear"></div>
+					</div>
+				</li>
+				
+				<li>
+					<div class="banner-bg-3">
+						<div class="banner-left">
+							<div class="banner-left-top">
+								<img src="../../templates/images/bt-3.jpg" alt=""/>
+							</div>
+							<div class="banner-left-bottom">
+								<img src="../../templates/images/bt-3-s.jpg" alt=""/>
+							</div>
+						</div>
+						
+						<div class="clear"></div>
+					</div>
+				</li>
+
+			</ul>
+			
+			
+
+			<div class="banner-right banner-right-control">
+                <form action="user/get-insurance.php" method="get" class="submit_get_q">
+				<div class="banner-right-top">
+
+					<div class="banner-search" >
+                        <select id="dropdown" name="insurance_type">
+                            <option value="renters">Renters Insurance</option>
+                            <option value="home">Homeowners Insurance</option>
+                            <option value="auto">Auto Insurance</option>
+                            <option value="life">Life Insurance</option>
+                            <option value="health">Health Insurance</option>
+                            <option value="sthealth">Short Term Health Insurance</option>
+                            <option value="group">Group Health Insurance</option>
+                            <option value="student">Student Health Insurance</option>
+                            <option value="dental">Dental Insurance</option>
+                        </select>
+					</div>
+				</div>
+				<div class="banner-right-bottom">
+					
+					<div class="sign-up-tb-position">
+						<input  class="sign-up-tb-position-control" id="zip_code_q" type="text" name="zipcode"  onkeypress="" onclick='if(this.value=="Enter Zip Code")this.value="";' onblur='if(this.value=="")this.value="Enter Zip Code"' value="Enter Zip Code" />
+					</div>
+					
+					<div class="currently-insured">
+						<div class="single-currently-insured">
+							Currently Insured?
+						</div>
+						
+						<div class="single-currently-insured">
+							<div class="single-currently-insured-left">
+								 <input type="radio" checked="true" name="insured" checked value="yes">
+							</div>
+							<div class="single-currently-insured-right">
+								Yes
+							</div>
+							<div class="clear"></div>
+						</div>
+						
+						<div class="single-currently-insured">
+							<div class="single-currently-insured-left">
+								 <input type="radio" name="insured" value="no">
+							</div>
+							<div class="single-currently-insured-right">
+								No
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="clear"></div>
+					</div>
+					
+					<div class="sign-up-button-2">
+
+                            
+                          
+                          <input type="image" src="../../templates/images/get-quotes-2.png">
+					</div>
+				</div>
+            </form>
+			</div>
+
+			
+			<div class="clear"></div>
+		</div>
+	</div>
+
+
+<script type="text/javascript">
+    $(document).ready(
+
+        function()
+        {
+            $(".submit_get_q").submit(
+                    function(e)
+                    {
+                        var zip_code_val = $("#zip_code_q").val();
+                        if(!parseFloat(zip_code_val) || zip_code_val=="Enter Zip Code")
+                        {
+                            $("#zip_code_q").css("border","2px solid red");
+                            e.preventDefault();
+                            alert('Please enter a valid zip code');
+                        }
+                    }
+            );
+
+            $("#zip_code_q").focus(
+                    function()
+                    {
+                        $(this).css("border","none");
+                    }
+            );
+        }
+    );
+</script>
+
+
+
+
+
+
+
+-->
+<div class="wrapper">
+    <!--End header-->
+    <div id="body-container">
+        <div class="content-area">
+
+
+            <div class="main-content-area">
+                <div class="main-content-area-controller">
+                    <div class="solo-page-controller">
+                        <h3>Privacy Policy</h3>
+						<p>Renters.com, managed by Left of The Dot Media Inc. (collectively "Renters.com"), is committed to protecting the privacy of each of its users. We want you to feel free to express yourself within your web pages (within legal limitations) and we are committed to allowing you to feel secure in your own private environment, putting you in control of what you share.</p>
+						<p>Renters.com values the privacy of visitors to its site. This Privacy Policy describes the type of information we collect from you, and what we do with that information. The privacy policy shall be accepted as part of the Terms of Service.</p>
+						<p>Renters.com values the privacy of visitors to its site. This Privacy Policy describes the type of information we collect from you, and what we do with that information. The privacy policy shall be accepted as part of the Terms of Service.</p>
+						<p>Renters.com collects your name and e-mail address, and phone number when you first register on the site. We also ask for additional, optional information through our registration form, including but not limited or restricted to your address, fax number and demographic information.</p>
+						<p>Renters.com uses a standard Internet technology called "cookies" to store and track visitor information/sessions. A cookie is a small text file that a server can automatically store on your computer and retrieve later. We instruct your browser to place a "cookie" into a file on your hard drive when you visit our site. Each time you return to the site, the cookie is re-sent to us so that we may track which of our services you use and what content you view (including advertisements). In addition, we collect the Internet Protocol address of each visitor to our site, which is a number that can be used to identify your internet service provider, among other things.</p>
+						<h4>How does Renters.com use the information it collects?</h4>
+						<p>Renters.com is committed to respecting your privacy. We may disclose information we have collected from you and/or content you have made available on our site in the following circumstances, and also may disclose such information and/or content to others when Renters.com believes in good faith that the law requires it, or to protect the rights or property of Renters.com or its visitors.</p>
+						<p>Upon request Renters.com may disclose your contact information to customers of your website, government agencies, any trademark or copyright owner requiring to contact you in regards to transactions or content on your site.</p>
+						<p>Information submitted by you at the time of registration (including but not limited to your name and e-mail address) may be used but not limited to marketing and promotional purposes by Renters.com.</p>
+						<p>This information may also be shared with other companies who offer a service to Renters.com or co-branded or rebranded versions of our site, who offer services in conjunction with Renters.com, or who are business partners of Renters.com. Renters.com will not otherwise identify you personally to other companies, or to any advertisers. Renters.com provides demographic information in aggregate form to advertisers on our site, without identifying any user personally.</p>
+						<p>Renters.com may disclose your website URL for tracking purposes to other sites that either have referred you to Renters.com or for internal Renters.com promotions.</p>
+						<p>We may use information provided by you when you participate in contests or surveys on our site to send information about Renters.com to you, or to give information to advertisers in aggregate form.</p>
+						<p>We use cookies to determine whether you are logged on to our site, to maintain your session, and to automatically log you out if your computer remains idle for a specified amount of time when using our service. We also use cookies to measure the traffic on our site, track which of our services you use, which content you view (including advertisements) and how long you view it. We collect IP addresses for administrative purposes (such as to help diagnose problems with our server) and to gather aggregate demographic information about our visitors.</p>
+						<p>You agree to allow us to contact you via mail, email and telephone for the purpose of activation, service or billing, even if you are on the Federal Do Not Call List. You agree not to report our email communications to you as SPAM to anyone to any governing body, ISP or service provider since you are able to opt in or opt out of any mailings you request and agree to receive.</p>
+						<p>By using our site and disclosing information to us you expressly consent to the uses described in this Privacy Statement.</p>
+						<h4>How to get more information?</h4>
+						<p>If you have any questions about this Privacy Policy, you may contact us through either the email support feature in your website (log in at "Renters.com", go to "help", "ask at question to support", "other") or through the email help feature on the Renters.com home page (go to 'Contact Us'). Or by mail to: Unit #6, 21409 Lougheed Highway, Maple Ridge, BC, Canada,V2X 2R8</p>
+						<h4>General</h4>
+						<p>If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced. Renters.com's failure to exercise or enforce any right or provision of the Agreement shall not constitute a waiver of such right or provision. You shall not assign this Agreement or any rights or obligations hereunder, by operation of law or otherwise, without prior written approval of Renters.com, and any such attempted assignment shall be void. Renters.com shall have the right to freely assign this Agreement, and its rights and obligations hereunder, to any third party without requiring the consent or notice of you. Subject to the foregoing, this Agreement shall be binding upon and inure to the benefits of the parties hereto, their successors and permitted assigns. This Agreement sets forth the entire understanding and agreement between Renters.com and you with respect to the subject matter hereof. Each party is an independent contractor and not an agent or representative of any other party. No party shall have any right or authority to create any obligation or make any representation or warranty in the name or on behalf of any other party. This Agreement shall not be interpreted or construed to create an association, joint venture or partnership between the parties or to impose any partnership obligation or liability upon any party. The parties acknowledge and agree that this Agreement may be entered into electronically, and without the necessity of written signatures.</p>
+						
+				   </div>
+                </div>
+            </div>
+            <div class="right-sidebr">
+               
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!--End body-container-->
+</div>
+<div class="footer-navigation">
+    <div class="footer-nav-wrapper">
+        <div class="footer-main-navigation">
+            <ul>
+                <li><a href="/">HOME </a></li>
+                <li>|</li>
+                <li><a href="/about-us/">ABOUT US</a></li>
+                <li>|</li>
+                <li><a href="/insurance/">RENTAL INSURANCE</a></li>
+                <li>|</li>
+                <li><a href="http://www.homeowners.com" target="_blank">HOME OWNERS</a></li>
+                <li>|</li>
+                <li><a href="/contact-us/">CONTACT US</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<div id="footer">
+    <div class="footer-wrapper">
+        <div class="copyright">
+            © Copyright 2012. <a href="/"> Renters.com </a> - All rights reserved.
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38806022-1']);
+  _gaq.push(['_setDomainName', 'renters.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+
+</body></html>
