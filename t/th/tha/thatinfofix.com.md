@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatinfofix.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231140523id_/http%3A//www.thatinfofix.com/%3Fpagedb%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatinfofix.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503122050id_/http%3A//www.thatinfofix.com/%3Fpagedb%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Information at ThatInfoFix
 
@@ -47,9 +47,3 @@ This policy and the use of this Site are governed by California law. If a disput
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Modesto, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-**Additionally** :
-
-  * Google Adsense is used as a third party vendor on Thatinfofix.com, and Google Adsense utilizes DART cookies to serve ads at Thatinfofix. Users may opt out of the use of the DART cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-
