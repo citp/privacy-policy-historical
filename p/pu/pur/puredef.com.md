@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puredef.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231043946id_/http%3A//www.puredef.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puredef.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503021413id_/http%3A//www.puredef.com/privacy.html) for the most accurate reproduction.*
 
 # Puredef.com - Get song lyrics, music downloads, and more!
 
@@ -39,13 +39,13 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We currently do not send messages to or collect data from users. If at any time we do contact you, it would only be for support reasons. If in that regard, you would like stop receiving messages or notifications, you can click on an unsubscribe link from any message we provide to no longer receive our messages.
 
-If you would like to be removed from our system, you can contact us at: [support@puredef.com](https://web.archive.org/web/20121231043946id_/http%3A//www.puredef.com/support@puredef.com).
+If you would like to be removed from our system, you can contact us at: [support@puredef.com](mailto:support@puredef.com).
 
 **How Do Toolbars Affect Your Browser And Operating System?**
 
 Toolbars install into your Internet browser and allow you to search the Internet. If you consent to make a toolbar your default search, your Internet browser default search feature will be set and you will access search services (i) by entering queries in your browser search box; (ii) by entering queries in your browser address bar, and/or (iii) in response to misspelled, incorrectly formatted or unresolved DNS submissions in your browser address bar.
 
-Toolbars do not affect your operating system. Toolbars can be removed at any time. For more information regarding toolbars, visit <http://ak.results.myway.com/mw_eula.html>.
+Toolbars do not affect your operating system. Toolbars can be removed at any time. For more information regarding toolbars, visit <http://support.search.us.com/license.php>.
 
 If you would like to reset your browser, follow the General Toolbar Instructions below.
 
@@ -137,7 +137,7 @@ This policy was last modified **June, 15 2012.**
 
 **Contacting Us**
 
-If you have any questions, comments or recommendations about Toolbars, please visit <http://myway2.custhelp.com/app/ask>
+If you have any questions, comments or recommendations about Toolbars, please visit <http://support.search.us.com/about.php>
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
