@@ -1,100 +1,79 @@
-> *The following text is extracted and transformed from the carhoots.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhoots.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503080547id_/http%3A//www.carhoots.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Carhoots | Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## So, what's our Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Carhoots Corporation ltd. is the trading name for Carhoots.com. In this policy, we will refer to Carhoots Corporation as “Carhoots”, “our”, “us”, or “we”. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Carhoots takes your privacy seriously and are providing this policy to ensure you are comfortable with and well informed of what we do with your data in terms of the collection of, use and disclosure of your data. We are committed to being 100 percent transparent with our privacy policy and endeavour to regularly update and modify as required at our own discretion. If you feel we have not covered information you are looking for or if you have a general query, please feel free to contact us at info@carhoots.com and we will aim to respond to your query as soon as possible.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+ **How does Carhoots collects your information?**
 
-**Information Collection and Use**
+Carhoots collects your information in the following instances:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**1\. Signup and registration** \- In order to improve your experience while using Carhoots and to become a registered user of our service, we collect voluntary information provided by you in the following instances:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+a) When you enter an email address on a form in order to receive updates to Carhoots
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+b) When users sign-up and/or register using certain third-party social networking sites (including but not limited to Facebook and Twitter). For example, Carhoots allows you to register and login to the service using your Facebook account credentials through Facebook Connect.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**2\. ‘Log Data’ and ‘cookies’** \- Log Data and cookies collect certain information and are used when you browse or use our service in order to improve your experience. For example, when using our service, if you decide to fill in a contact form to make a general enquiry, should you want to make an additional enquiry then we retain details such as your name and contact number so you don’t have to enter the same details again.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ **So, what information do we collect?**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**a) Personal Information.** When you register with us through the Service to become a registered User of Carhoots, we will ask you for certain information about you that can be used to contact or identify you (“Personal Information”). Personal Information may include, but is not limited to, your name, gender, profile photo, free-form biography, location/hometown, website and email address. If you decide to create your User account by logging into a Social Networking Site via the Service, you are using the Personal Information you have already provided to the Social Networking Site (such as your “real” name, email address and other information you make publicly available via the SNS) to create your User account on our Service; the information we collect may depend on the privacy settings you have with the Social Networking Site, so please consult the Social Networking Sites privacy and data practices. For example, by using Facebook Connect, you are allowing Carhoots to access the Personal Information in your Facebook account pursuant to the Facebook Terms of Use regarding your use of the Service via Facebook. We use your Personal Information (in some cases, in conjunction with your “Non-Identifying Information,” see below) to provide the Service to you. For example:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**b) Account registration.** We create your User account for your use of the Service based upon the Personal Information you provide.
 
-**Security**
+**c) Communications.** We use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or contact us at info@carhoots.com
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**d) Customer service.** We use your Personal Information to respond to your questions and/or inquiries.
 
-**Updating Your Information**
+**4\. Emailing via a Carhoots Account.** As part of the Service, Carhoots Users may communicate with other registered and non-registered Users through use of their Carhoots accounts. Where Users have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Carhoots to those email addresses on their behalf. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**2\. Log Data.** Carhoots servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, your mobile carrier, device and application IDs, and search terms. Other actions, such as interactions with our website, applications and advertisements, may also be included in Log Data. This log data is collected in order to improve the user’s experience whilst using our service. For example, some of this information is collected so that when you visit the Service again, it will recognise you and the information could then be used to serve advertisements and other information appropriate to your interests. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**3\. Cookies.** A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Carhoots uses cookies to help us identify and track visitors, their usage of our website, and their website access preferences. Carhoots visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Carhoots website, bearing in mind that certain features may not function properly without the aid of cookies.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ **How do we share your information?**
 
-      iii.      You may call us at: (480) 505-8800
+**1\. Carhoots users.** When you register on Carhoots and submit personal information such as your name and email address either through Carhoots own registration or through third party social networking sites, other users of the service may see your name/username. If you choose to include additional information in your profile, other Carhoots users will see such additional information, including, but not limited to, your photo, biography, location, website and third party social network profiles. Any additional information you provide is optional and should be in relation to the level of interaction you want to enjoy on whilst using the Carhoots service. We recommend you be diligent in the information you provide and do not include any information you consider confidential or sensitive.
 
-       iv.      You may fax us at: (480) 505-8844
+**2\. Third-party Social Networking Site Users.** Carhoots uses custom built technology to provide a service to its users. One element of the technology uses third-party API’s and data feeds to access and aggregate user generated content and display this content on the Carhoots website. Any data that is aggregated from these third party sites has been done legally, in accordance with the relevant API’s terms and conditions of use and based on the individual's privacy settings for the related social networking site. For example, if a Twitter user was not aware that their Tweets were being used by our website and they wish stop Carhoots accessing their data, they must do so by changing their privacy settings in their personal Twitter account to private. Most social networks privacy settings are public by default. 
 
-**Sending Emails**
+**3\. Aggregate Information and Non-Identifying Information.** We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**4\. Service Providers.** We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services (e.g., maintenance services, database management, web analytics and improvement of the Service’s features) or to assist us in analyzing how our Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**5\. Social Networking Sites.** We may share the information in your Carhoots account (including your Personal Information) with the Social Networking Sites that you have linked to your Carhoots account. These third parties have access to your Personal Information only for this purpose (unless the Social Networking Site has received your Personal Information independently of the Service) and not for other purposes.
 
-**Compliance with Laws and Law Enforcement**
+**a) Facebook Connect and Twitter.** We allow Users to link their Facebook and Twitter accounts to our Service. Users can then post recent activity on our Service back to their Facebook and Twitter accounts. You will be prompted to decide whether or not your activity on the Service will be shared and disclosed on your Facebook/Twitter service. You can disable the foregoing feature at any time by logging into your profile and selecting the option to disable Facebook Connect and/or Twitter. Further, you may be able to edit your privacy settings for the content that you post which appears on Facebook/Twitter by making selections in your “Edit Profile” settings via the Service.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+ **6\. Compliance with Laws and Law Enforcement.** Carhoots cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We can disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process including, but not limited to, subpoenas, to protect the property and rights of Pinterest or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
 
-**Third Party Service Providers**
+**7\. Ads.** Ads appearing on any our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Instagram and does not cover the use of cookies by any advertisers.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**8\. Business Transfers.** Carhoots may sell, divest, transfer, assign, share or otherwise engage in a transaction that involves, some or all of our assets, including any or all of the information described in this Policy, in the course of a corporate divestiture, merger, acquisition, joint venture, bankruptcy, dissolution, reorganisation, or any other similar transaction or proceeding. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**What are your choices regarding privacy and personal information?**
 
-**Supplementation of Information**
+**1\. Email Communications.** If you decide at any time that you no longer wish to receive email communications from us, please follow the unsubscribe instructions provided in any of the communications, update your “preferences” information in your account settings or contact us at info@carhoots.com
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**2\. Cookies.** If you decide at any time that you no longer wish to accept cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Consult your browser’s technical information. If you do not accept cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify cookies, please let us know by contacting us at info@Carhoots.com
 
-**Contests/Surveys**
+**3\. De-Linking SNS.** If you decide at any time that you no longer wish to have your Social Network Site account (e.g., Facebook or Twitter) linked to your Carhoots account, then you may de-link the Social Network Site account in your account settings.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**4\. Changing or Deleting Your Information.** All Users may review, update, correct or delete the Personal Information in their User account by contacting us or by editing their profile via the Service. If you completely delete all of your Personal Information, then your User account may become deactivated. We will use commercially reasonable efforts to honour your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Links to other third party sites and services**
 
-**Tell-A-Friend**
+Carhoots contains links to other third party websites and online services. By clicking and visiting a link you will be directed to that third party’s website or service. We are not affiliated by these third party websites or services and do not endorse them, or any of their privacy and information terms of use, policies or practices. Therefore, Carhoots is not liable/responsible for any actions the third party makes, be it placing their own cookies or other files on your computer or collecting/solicit personal information from you. Carhoots always recommends users read the terms of use and privacy policies of other websites you visit before providing any information you consider sensitive or confidential.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+ **How we store and protect information**
 
-**What Happens to my Personal Information if I Opt Out?**
+We store and process your personal information on our computers in the UK and elsewhere in the world where Carhoots facilities or our service providers are located, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorise access to personal information only for those employees who require it to fulfil their job responsibilities. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**How to contact us**
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions about the Carhoots Policy please contact us at 8 Woodside Crescent, Glasgow, G3 7UL, call us on +44 (0)141 353 1277 or send us an email at info@carhoots.com.
