@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingmarried.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033941id_/http%3A//www.gettingmarried.co.uk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingmarried.co.uk privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503045747id_/http%3A//www.gettingmarried.co.uk/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
