@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laptopscreen.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231155739id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopscreen.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503020920id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | LAPTOP & TABLET SCREEN, LCD panels from $42.
+# Privacy Policy | LAPTOP & TABLET SCREEN, LCD panels from $34.99.
 
 **At LAPTOPSCREEN.COM we respect your privacy.**  
 • We are firm believers in our customer's right to privacy, and therefore we follow the Personal Information Protection and Electronic Documents Act regulations.
