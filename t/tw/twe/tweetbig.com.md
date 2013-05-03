@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetbig.com privacy policy that was archived on 2012-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120716063033id_/http%3A//tweetbig.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetbig.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503102453id_/http%3A//www.tweetbig.com/privacypolicy.php) for the most accurate reproduction.*
 
 # TweetBig - Brilliant Twitter Management & Marketing Tools
 
