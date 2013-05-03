@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104054212id_/http%3A//www.radio-electronics.com/rec-information/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503234601id_/http%3A//www.radio-electronics.com/rec-information/privacy-policy.php) for the most accurate reproduction.*
 
 # Radio-Electronics.Com :: About Usg
 
