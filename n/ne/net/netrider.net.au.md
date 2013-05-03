@@ -1,64 +1,58 @@
-> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024045853id_/http%3A//netrider.net.au%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503175812id_/http%3A//www.netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
 
-# Netrider - connecting riders! Australia's premier motorcycle community. News, Discussion Forums, Links, Classifieds, Articles, Events Calendar, and more...
+# Privacy Policy | Netrider - connecting riders!
 
-Interested in advertising on Netrider? See our [advertising page](https://web.archive.org/?page=advertising) for more information and rates
+Welcome to Netrider! Login or Sign up to interact with the Netrider community.
 
-Netrider Privacy Statement
+Interested in advertising on Netrider? See our [advertising page](https://web.archive.org/pages/advertise) for more information and rates
 
-  
-Netrider is committed to protecting your personal information. Where your personal information may be disclosed, and to the extent that we can, we believe in giving you a choice as to whom we may disclose your personal information, who may use your personal information and how that personal information may be used.
+What information do we collect?
 
-We believe that our Privacy Policy complies with the requirements of the Privacy Act 1988 (Cth).
+In common with other websites, log files are stored on the web server(s) saving details such as the visitor's IP address, browser type, referring page and time of visit. Web logs are not kept indefinitely and are deleted from time to time.
 
-**How we collect, use and disclose your personal information**
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form, participate in our discussion forums, and apply to become a member. When registering on our site, you may be asked to enter your email address, age, location, and other personal information. You may, however, visit our site anonymously.
 
-Generally, Netrider will collect personal information directly from you only to the extent necessary to provide membership service. The type of personal information we may collect from you generally comprises name, address, age group, gender, contact details and information collected as a result of you using or acquiring products or services through Netrider.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Occasionally, we may also collect, use or disclose your personal information for the secondary purpose of facilitating the distribution of marketing materials to you by Netrider or a third party (For example, Daily email summary from website of member posts). We will not do this if you opt for us not to do so.
+What do we use your information for?
 
-We have a duty to keep confidential all personal information we hold about you. Generally, our duty of confidentiality applies except where disclosure of your personal information is:
+Any of the information we collect from you may be used in one of the following ways:  
 
-* Compelled by law
-  
-For example, disclosure to various government departments and agencies such as the Australian Taxation Office, and disclosure to courts under subpoena.
-* In the public interest
-  
-For example, where a crime, fraud or misdemeanour is committed or suspected, and disclosure against the customer's rights to confidentiality is justified.
-* With your consent
-  
-Your consent is important to us. Your consent may be implied or expressed and it may also be verbal or written.
 
-You imply consent where we may reasonably conclude that you have given consent by the actions you take or do not take. For example, where you acquire or use an overseas product, service or agency function (eg. Yahoo!Groups), you consent to that third party storing, using, maintaining and disclosing your personal information to the extent necessary for us to provide that particular Netrider product or service to you.
+  * To personalise your experience (your information helps us to better respond to your individual needs) 
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+  * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested 
+  * To administer a contest, promotion, survey or other site feature 
+  * To send periodic emails. The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. If at any time you would like to unsubscribe from receiving future emails, we include unsubscribe instructions within each email 
 
-If you do not consent to certain uses of your personal information we may not be able to provide that particular Netrider product or service to you.
 
-We reserve the right to make changes to the Netrider Privacy Policy and this Privacy Statement from time to time or as required by law.
 
-**Security of your personal information**
+How do we protect your information?
 
-Netrider takes reasonable steps to protect your personal information from loss, misuse, unauthorised disclosure or destruction. Netrider has in place generally accepted standards of technology and operational security in order to keep your personal information safe.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your details. For security purposes, the exact details cannot be given, but regular checks are undertaken.
 
-**Web site security and privacy**
+Whenever we handle personal information, regardless of where this occurs, we take every precaution to ensure that your information is treated securely, for instance by encrypting the information with SSL and by storing the information in a secure environment. 
 
-The internet has dramatically changed the way we do business. It allows Netrider to provide members products and services to them from the convenience of their own home or office.
+Do we use Digital Signatures?
 
-We understand that you may be concerned about the confidentiality and security of the personal information we collect from you online. Accordingly, we have systems in place to ensure our online dealings with you are as secure and confidential as your dealings with us in person, or on the telephone.
+Yes. We employ various digital signatures to track users that enables the site(s) to recognise your browser and capture and remember certain information, to help create the best possible experience for all users.
 
-**Cookies**
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers (for example, Google Analytics) to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. For more information, refer to [Cookie Usage](https://web.archive.org/help/cookies). 
 
-A "cookie" is a packet of information that allows the Netrider server (the computer that houses our web site) to identify and interact more effectively with your computer.
+Do we disclose any information to outside parties?
 
-When you access our web site, we may send you a "temporary cookie" that gives you a unique identification number. A different identification number is sent each time you use our web site. Cookies do not identify individual users, although they do identify a user's internet browser type and your Internet Service Provider.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-You can configure your internet browser to accept all cookies, reject all cookies or notify you when a cookie is sent. Please note - with some Netrider services such as the picture gallery, "cookies" must be enabled on your internet browser in order to use and access the features of this product.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Shortly after you end your interaction with our web site, the cookie expires or "crumbles". This means it no longer exists on your computer and therefore cannot be used for further identification or access to your computer.
+Our privacy policy only applies to data we collect. We utilise some third party services on this site that may collect data about you. An example of some of the 3rd party companies that we utilise services from are Google, Facebook and Twitter. Please refer to their privacy policies for more info. 
 
-Some Netrider services, such as the discussion forums and picture gallery, enable you to select that your login details are remembered for next time you visit. If you select this option, the cookie will remain on your system.
+By using our site, you consent to our privacy policy. 
 
-**Links to other sites**
+Changes to our Privacy Policy
 
-The Netrider site contains links to other sites. In addition, some of the content appearing on the Netrider web site may be supplied by third parties, for example, by framing third party web sites or the incorporation through "framesets" of content supplied by third party servers.
+If we decide to update our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification. This policy was last modified on March 20th, 2012 
 
-While Netrider will always endeavour to engage in business arrangements with commercial entities of good repute and ethical business practices, we are ultimately not responsible for the privacy practices or the content of such web sites. We encourage you to read and understand the privacy policies on those web sites prior to providing any information to them. 
+If there are any questions regarding this privacy policy you may contact us using the 'Contact Us' link below. 
+
+[ ](http://www.netrider.net.au/)
