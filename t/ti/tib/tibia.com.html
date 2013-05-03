@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tibia.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230054603id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tibia.com privacy policy that was archived on 2013-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503033805id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
   <title>Tibia - Free Multiplayer Online Role Playing Game - Support</title>
@@ -13,30 +13,58 @@
   <link rel="shortcut icon" href="http://static.tibia.com/images/global/general/favicon.ico" type="image/x-icon">
   <link rel="icon" href="http://static.tibia.com/images/global/general/favicon.ico" type="image/x-icon">
 
-  <link href="http://static.tibia.com/styles/basic_d.css?version=be0b996caea6d1f4eba7189e81f725e7" rel="stylesheet" type="text/css">
+  <link href="http://static.tibia.com/styles/basic_d.css?version=5cfed09be89b061f11060fcb9d31f98e" rel="stylesheet" type="text/css">
   
-      <script type="text/javascript" src="http://static.tibia.com/javascripts/generic.js?version=48c645555c0dba301a6c6ff29fa0a1b4"></script>
-    <script type="text/javascript">  var loginStatus=0; loginStatus='false';  var activeSubmenuItem='legaldocuments';  var JS_DIR_IMAGES=0; JS_DIR_IMAGES='http://static.tibia.com/images/';  var JS_DIR_ACCOUNT=0; JS_DIR_ACCOUNT='https://secure.tibia.com/account/';  var g_FormName='';  var g_FormField='';  var g_Deactivated=false;</script><script type="text/javascript">
-<!-- // Framekiller
-setTimeout ("changePage()", 6000);
-function changePage()
-{
-  if (parent.frames.length > 2) {
-    if (browserTyp == "ie") {
-      parent.location=document.location;
-    } else {
-      self.top.location=document.location;
-    }
+  <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://static.tibia.com/javascripts/extern/jquery.js"></script>
+  <script type="text/javascript" src="http://static.tibia.com/javascripts/ajax/ajaxcip.js"></script>
+    <script type="text/javascript" src="http://static.tibia.com/javascripts/generic.js?version=48c645555c0dba301a6c6ff29fa0a1b4"></script>
+    <script type="text/javascript">  var loginStatus=0; loginStatus='false';  var activeSubmenuItem='legaldocuments';  var JS_DIR_IMAGES=0; JS_DIR_IMAGES='http://static.tibia.com/images/';  var JS_DIR_ACCOUNT=0; JS_DIR_ACCOUNT='https://secure.tibia.com/account/';  var g_FormName='';  var g_FormField='';  var g_Deactivated=false;var FB_TryLogin = 0</script><script type="text/javascript">
+  if(top.location != window.location) {
+    top.location = self.location;
   }
-}
-// -->
 </script>
-
-  <script type="text/javascript" src="http://static.tibia.com/javascripts/initialize.js?version=dd88180673fb8462e2300aad6ebf64e1"></script>
+  <script type="text/javascript" src="http://static.tibia.com/javascripts/initialize.js?version=8fef7ec438d94b8b9d3bf33cfa199341"></script>
   
 </head>
 
 <body onbeforeunload="SaveMenu();" onunload="SaveMenu();" onload="SetFormFocus()">
+  <div id="fb-root"></div><script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : 497232093667125, // App ID
+      status     : true,              // check login status
+      cookie     : true,              // enable cookies to allow the server to access the session
+      xfbml      : true               // parse XFBML
+    });
+    FB.Event.subscribe('auth.login', function() {
+      var URLHelper = "?";
+      if (window.location.search.replace("?", "").length > 0) {
+        URLHelper = "&"
+      }
+      if (FB_TryLogin == 1) {
+        window.location = window.location + URLHelper + "step=facebooktrylogin";
+      } else if (FB_TryLogin == 2) {
+        window.location = window.location + URLHelper + "page=facebooktrylogin";
+      } else {
+        window.location.reload();
+      }
+    });
+    FB.Event.subscribe('auth.logout', function(a_Response) {
+      if (a_Response.status !== 'connected') {
+        window.location.href=window.location.href;
+      } else {
+        /* nothing to do here*/
+      }
+    });
+  };
+  (function(d){
+    var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js";
+    ref.parentNode.insertBefore(js, ref);
+  }(document));
+</script>
 
   <a name="top"></a>
 
@@ -53,7 +81,7 @@ function changePage()
       <div id="ContentRow">
           <div id="MenuColumn">
             <div id="LeftArtwork">
-              <a href="http://www.tibia.com/mmorpg/free-multiplayer-online-role-playing-game.php"><img id="TibiaLogoArtworkTop" src="http://static.tibia.com/images/global/header/tibia-logo-artwork-top.gif" alt="logoartwork"></a>
+              <a href="https://secure.tibia.com/mmorpg/free-multiplayer-online-role-playing-game.php"><img id="TibiaLogoArtworkTop" src="http://static.tibia.com/images/global/header/tibia-logo-artwork-top.gif" alt="logoartwork"></a>
               <img id="LogoLink" src="http://static.tibia.com/images/global/header/tibia-logo-artwork-string.gif" onclick="window.location = 'http://www.tibia.com/abouttibia/?subtopic=aboutcipsoft';" alt="logoartwork">
             </div>
             
@@ -425,6 +453,14 @@ function changePage()
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
+<a href="http://forum.tibia.com/forum/?subtopic=councilboards">
+  <div id="submenu_councilboards" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
+    <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
+    <div id="ActiveSubmenuItemIcon_councilboards" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
+    <div id="ActiveSubmenuItemLabel_councilboards" class="SubmenuitemLabel">Council Boards</div>
+    <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
+  </div>
+</a>
 <a href="http://forum.tibia.com/forum/?subtopic=supportboards">
   <div id="submenu_supportboards" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
@@ -593,7 +629,7 @@ function changePage()
     <div class="Border_2">
       <div class="Border_3">
         <div class="BoxContent" style="background-image:url(http://static.tibia.com/images/global/content/scroll.gif);">
-<table width="100%" border="0" cellspacing="1" cellpadding="4"><tbody><tr><td bgcolor="#505050" class="white"><b>Tibia Privacy Policy</b></td></tr><tr><td bgcolor="#D4C0A1"><table border="0" cellspacing="0" cellpadding="8"><tbody><tr><td>CipSoft GmbH, Gabelsbergerstrasse 11, 93047 Regensburg, Germany (referred to herein as "CipSoft") respects the privacy rights of all users and is aware of the importance of protecting stored personal data. Substantial organisational and technical measures have been taken to ensure the security of all personal data that is collected. This privacy policy explains in detail which information is collected and for which purposes it can be processed and used.
+<table width="100%" border="0" cellspacing="1" cellpadding="4"><tbody><tr><td bgcolor="#505050" class="white"><b>Tibia Privacy Policy</b></td></tr><tr><td bgcolor="#D4C0A1"><table border="0" cellspacing="0" cellpadding="8"><tbody><tr><td>CipSoft GmbH, Prüfeninger Straße 20, 93049 Regensburg, Germany (referred to herein as "CipSoft") respects the privacy rights of all users and is aware of the importance of protecting stored personal data. Substantial organisational and technical measures have been taken to ensure the security of all personal data that is collected. This privacy policy explains in detail which information is collected and for which purposes it can be processed and used.
 
 <ol><li>CipSoft collects, processes and uses personal data for the conclusion and execution of a user's service agreement with CipSoft. Personal data comprises stock data such as name, address and date of birth of a user as well as usage data such as account number, password and IP address.</li><br>
 
@@ -628,21 +664,42 @@ Third parties may possibly be based in countries outside of the European Union, 
               <div id="ThemeboxesColumn">
                 <div id="DeactivationContainerThemebox" onclick="DisableDeactivationContainer();"></div>
                 <div id="RightArtwork">
-                  <img id="Monster" src="http://static.tibia.com/images/global/header/monsters/dwarfguard.gif" onclick="window.location = 'http://www.tibia.com/library/?subtopic=creatures&amp;race=dwarfguard';" alt="Monster of the Week">
+                  <img id="Monster" src="http://static.tibia.com/images/global/header/monsters/marid.gif" onclick="window.location = 'http://www.tibia.com/library/?subtopic=creatures&amp;race=marid';" alt="Monster of the Week">
                   <img id="PedestalAndOnline" src="http://static.tibia.com/images/global/header/pedestal-and-online.gif" alt="Monster Pedestal and Players Online Box">
-                  <div id="PlayersOnline" onclick="window.location = 'http://www.tibia.com/community/?subtopic=worlds';">17972<br>Players Online</div>
+                  <div id="PlayersOnline" onclick="window.location = 'http://www.tibia.com/community/?subtopic=worlds';">21470<br>Players Online</div>
                 </div>
                 <div id="Themeboxes">
-                  
-  <div id="PremiumBox" class="Themebox" style="background-image:url(http://static.tibia.com/images/global/themeboxes/premium/premiumbox.gif);">
-        <div class="ThemeboxButton">
-      <div class="BigButton" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton.gif)"><div onmouseover="MouseOverBigButton(this);" onmouseout="MouseOutBigButton(this);"><div class="BigButtonOver" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton_over.gif);"></div><a class="ButtonText" href="http://www.tibia.com/abouttibia/?subtopic=premiumfeatures"><img border="0" src="http://static.tibia.com/images/global/buttons/_sbutton_getpremium.gif" alt="Get Premium"></a></div></div>    </div>
-    <div class="Bottom" style="background-image:url(http://static.tibia.com/images/global/general/box-bottom.gif);"></div>
-  </div>
+                  <!-- premium theme box -->
+<div id="PremiumBox" class="Themebox" style="background-image:url(http://static.tibia.com/images/global/themeboxes/premium/premiumbox.gif);">
+    <div class="ThemeboxButton">
+    <div class="BigButton" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton.gif)"><div onmouseover="MouseOverBigButton(this);" onmouseout="MouseOutBigButton(this);"><div class="BigButtonOver" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton_over.gif);"></div><a class="ButtonText" href="http://www.tibia.com/abouttibia/?subtopic=premiumfeatures"><img border="0" src="http://static.tibia.com/images/global/buttons/_sbutton_getpremium.gif" alt="Get Premium"></a></div></div>  </div>
+  <div class="Bottom" style="background-image:url(http://static.tibia.com/images/global/general/box-bottom.gif);"></div>
+</div>
 
+<!-- networks theme box -->
+<div id="NetworksBox" class="Themebox" style="background-image:url(http://static.tibia.com/images/global/themeboxes/networks/networksbox.png);">
+  <div id="FacebookBlock">
+    <div id="FacebookLikeBox">
+      <div class="fb-like-box" data-href="https://www.facebook.com/tibia" data-width="175" data-height="180" data-show-faces="true" data-stream="false" data-border-color="none" data-header="false"></div>
+    </div>
+    <div id="FacebookSendBox">
+      <div class="fb-send" data-href="https://www.facebook.com/tibia"></div>
+    </div>
+    <div id="FacebookLikes">
+      <div class="fb-like" data-href="https://www.facebook.com/tibia" data-send="false" data-width="225" data-show-faces="false"></div>
+    </div>
+  </div>
+  <div id="TwitterBlock">
+    <a href="https://twitter.com/Tibia" class="twitter-follow-button" data-show-count="false">Follow @Tibia</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+  <div class="Bottom" style="background-image:url(http://static.tibia.com/images/global/general/box-bottom.gif);"></div>
+</div>
+
+    <!-- random fansite theme box -->
     <div id="FansiteBox" class="Themebox" style="background-image:url(http://static.tibia.com/images/global/themeboxes/fansites/fansites_themebox.gif);">
       <div id="FansiteLogoFrame" style="background-image:url(http://static.tibia.com/images/global/themeboxes/fansites/border_supported.gif);">
-        <a href="http://www.funtibia.com" target="_blank"><img id="FansiteLogo" src="http://static.tibia.com/images/community/fansitelogos/FunTibia.com.gif"></a>
+        <a href="http://www.tibiastat.com" target="_blank"><img id="FansiteLogo" src="http://static.tibia.com/images/community/fansitelogos/TibiaStat.com.gif"></a>
       </div>
       <div class="ThemeboxButton">
         <div class="BigButton" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton.gif)"><div onmouseover="MouseOverBigButton(this);" onmouseout="MouseOutBigButton(this);"><div class="BigButtonOver" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton_over.gif);"></div><a class="ButtonText" href="http://www.tibia.com/community/?subtopic=fansites"><img border="0" src="http://static.tibia.com/images/global/buttons/_sbutton_viewallfansites.gif" alt="View all Fansites"></a></div></div>      </div>
@@ -653,7 +710,7 @@ Third parties may possibly be based in countries outside of the European Union, 
             </div>
             </div>
             <div id="Footer">
-              Copyright by CipSoft GmbH. All Rights reserved.<br>
+              Copyright by CipSoft GmbH. All rights reserved.<br>
               <a href="http://www.tibia.com/abouttibia/?subtopic=aboutcipsoft">About CipSoft</a> | <a href="http://www.tibia.com/support/?subtopic=legaldocuments&amp;page=agreement">Service Agreement</a> | <a href="http://www.tibia.com/support/?subtopic=legaldocuments&amp;page=privacy">Privacy Policy</a>
             </div>
           </div>
@@ -679,7 +736,8 @@ Third parties may possibly be based in countries outside of the European Union, 
       document.getElementById('PlayersOnline').setAttribute("onclick", "")
     }
   </script>
-  <div id="HelperDivContainer" style="background-image: url(http://static.tibia.com/images/global/content/scroll.gif);"><div class="HelperDivArrow" style="background-image: url(http://static.tibia.com/images/global/content/helper-div-arrow.png);"></div><div id="HelperDivHeadline"></div><div id="HelperDivText"></div><center><img class="Ornament" src="http://static.tibia.com/images/global/content/ornament.gif"></center><br></div><script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  <div id="HelperDivContainer" style="background-image: url(http://static.tibia.com/images/global/content/scroll.gif);"><div class="HelperDivArrow" style="background-image: url(http://static.tibia.com/images/global/content/helper-div-arrow.png);"></div><div id="HelperDivHeadline"></div><div id="HelperDivText"></div><center><img class="Ornament" src="http://static.tibia.com/images/global/content/ornament.gif"></center><br></div><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -688,5 +746,6 @@ pageTracker._setDomainName("tibia.com");
 pageTracker._initData();
 pageTracker._trackPageview("/support/legaldocuments");
 </script>
+
 
 </body></html>
