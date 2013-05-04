@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the comarch.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101005239id_/http%3A//www.comarch.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comarch.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504110242id_/http%3A//www.comarch.com/company/privacy-policy) for the most accurate reproduction.*
 
 # COMARCH - Privacy Policy in the Comarch Capital Group
 
-**1\. Statement  
+### We have changed our Privacy Policy for cookies and other similar technologies.
+
+ **1\. Statement  
 2\. Terms used in the Policy  
 3\. Personal details  
 4\. Use of the data  
@@ -14,7 +16,7 @@
 4.6 Website Press Office  
 4.7 Electronic advertisements   
 5\. System logs  
-6\. Cookies  
+6\. Cookies **and other similar technologies**  
 7\. Modification of personal details  
 8\. Disclosure required by law  
 9\. Data protection  
@@ -78,8 +80,51 @@ The Comarch Capital Group makes use of services of external entities which parti
  **5.** **System logs**  
 Each visit of a User visiting Comarch Capital Group websites is automatically registered in the server in the so-called system logs. Data saved in this way includes, among other things, date, time of the visit and the IP address. Data from the system logs are used only for purposes of server administration and for managing statistics of website visits.
 
- **6.** **Cookies**  
-Comarch Capital Group websites utilize so-called cookies, or small text files which are saved in the hard disk of the person visiting the website. Cookies are used to save information about the User by way of creating so-called personalised settings and are used by the majority of highly developed websites. Cookies are not used for processing or storing personal details and cannot be used for direct identification of a User. The User can at any time turn off support for cookies in the options of his/her web browser.
+ **6.** **Cookies and other similar technologies**  
+Comarch Capital Group websites utilizes so-called cookies, or information saved by the servers on User devices. This information can be collected every time the device is connected to the server. Comarch Capital Group may use other similar technologies. Under our Privacy Policy, information about cookies can also refer to other similar technologies used within Comarch Capital Group websites. Cookies usually contains the name of the server it was sent from, the time of storing them on Users devices and a unique number. Cookies may be saved on the Users device, and then be used by external suppliers of tools for monitoring traffic and activity on the website, who cooperate with Comarch Capital Group.
+
+Cookies are used by the majority of highly developed websites to help Users navigate their websites efficiently and perform certain functions, including:
+
+  * creating individual content viewing statistics,
+  * personalization of services provided within a website,
+  * maintaining user session,
+  * authentication of people using the service,
+  * providing users with personalized advertising content.
+
+
+
+Comarch Capital Group sites use the following types of cookies:
+
+  * Essential Cookies, which use is essential for the running of our website services, for example to allow the use of sessions,
+  * Functional Cookies, used to remember Users preferences on our websites. This can be anything from remembering Users mobile/classic view, last phrases typed by the User or Users preference on our website,
+  * Analytical Performance Cookies, used to monitor the performance of our websites and how Users use it.
+
+
+
+Cookies are not used for processing or storing personal details, they cannot be used for direct identification of a User, they do not change Users browser options or device configuration.
+
+The User can independently determine and modify browser settings so that they will not accept cookies. If this option is selected many websites may not function properly or at all. It may be possible to set your browser to not accept cookies and ask for Users consent before each cookie used. This gives the User control over what is set on their device, however this has the drawback of slowing down the user’s browsing experience.
+
+In order to manage your cookies, please select your browser from the list below and follow the instructions:
+
+  * [ **Internet Explorer,**](http://support.microsoft.com/kb/196955)
+  * [ **Firefox,**](http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies)
+  * [ **Chrome,**](http://www.google.com/support/chrome/bin/answer.py?answer=95647)
+  * [ **Opera,**](http://www.opera.com/browser/tutorials/security/privacy/)
+  * [ **Safari.**](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
+
+
+
+Mobile devices:
+
+  * [ **Android**](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=169022),
+  * [ **Windows Phone**](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx),
+  * [ **Blackberry,**](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
+  * [ **Safari**](http://support.apple.com/kb/HT1677).
+
+
+
+No change in cookies configuration means they will be set by the User’s devices, therefore Comarch Capital Group will keep information regarding User devices and gain access to this information.
 
  **7.** **Modification of personal details**  
 A User is entitled to become acquainted with his/her details stored by the Comarch Capital Group and, if there is such a necessity, to correct and supplement all incorrect or incomplete personal details. Moreover, the User is entitled at any time to demand the removal of his/her personal details from the Comarch Capital Group database. For this purpose, an electronic message can be sent to the addresses: **[unsubscribe@comarch.pl](mailto:unsubscribe@comarch.pl)** or **[unsubsribe@comarch.com](mailto:unsubsribe@comarch.com)** with a request for modification or removal of personal details.
@@ -107,4 +152,4 @@ Any significant change to this Policy will be published in on the Comarch Capita
  **12.** **Questions related to privacy protection**  
 Questions should be sent to: **[privacy@comarch.pl](mailto:privacy@comarch.pl)** , **[privacy@comarch.com](mailto:privacy@comarch.com)**
 
- _2010.08.03_
+ _2013.03.28_
