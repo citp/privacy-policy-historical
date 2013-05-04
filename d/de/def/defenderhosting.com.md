@@ -1,48 +1,66 @@
-> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309210615id_/http%3A//www1.defenderhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504103235id_/http%3A//www.virtacore.com%3Fpage_id%3D54) for the most accurate reproduction.*
 
-# Defender Hosting - Privacy Policy
+# Virtacore | Privacy Policy
 
-## Privacy Policy
+By accessing Virtacore’s website or enrolling or using any services on such website (collectively the “Services”), you agree to the terms of this Privacy Policy. This Privacy Policy is part of the terms that you must agree to in connection with your use of our site and the Services. If you do not agree to any of the terms in this Privacy Policy, you should not use the Services.
 
-DTG's physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. Billing information is encrypted whenever transmitted or received online. Personal information is accessible only by staff designated to handle online complaints or requests.
+Virtacore reserves the right to change the provisions of this Privacy Policy from time to time at our sole discretion. You should check the Virtacore website from time to time to confirm that you continue to agree with the terms of this Privacy Policy.
 
-All DTG's staff members with access to personal information obtained on the DTG web sites are also bound to adhere to this policy.
+We respect your privacy and security, this Privacy Policy discloses our privacy practices with respect to our website and the Services and it sets forth what personally identifiable information of yours that we may collect, how and when such information is used, how we protect such information, and who has access to the information.
 
-When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
+### Collection of Personal Information
 
-We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to.
+When you create an account and when you use or provision the Services, we will ask you to provide certain information about yourself or your organization (if you are using the Services on behalf of your organization). You will be required to provide your name, address, telephone number, payment account information (a valid credit card or debit card) and a valid email address. We may also ask for your employer, job title and department, telephone and facsimile numbers when you are using the Services on behalf of an organization. We may also require that any other user that you authorize to use the Services provide such information. Further, you will be required to create a password and certain security questions, which may have personal information. Each time you log in to your account and use the Services, you will be required to provide your username or email and password. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to use the Services or access certain parts of our website.
 
-If you contact us for customer support, we may also ask you for information about your operating system, software and other technical matters.
+When you use the Services, you may upload user content that includes your personal information, data and content. Although we do not necessarily intend on reviewing all of such content, we do reserve the right to monitor such content to confirm it complies with applicable terms of service or similar agreements.
 
-When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you.
+### Use of Personal Information
 
-We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See "What is a Cookie" below. We may tie this cookie to the personally identifiable information we have about you.
+We use your personal information to help you use the Services, to bill for the Services, and to send you notices with respect to the Services.
 
-#### Use of Personally Identifiable Information
+In the process of administering our site and in providing the Services, we may maintain and track usage through Web server logs and other network tools. These tools provide such information such as the following:
 
-We will use your personally identifiable information only as follows:
-
-  * For payment purposes and to provide customer support;
-  * To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail;
-  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit. 
-
-
-
-We will not provide any personally identifiable information about you to any other person other than:
-
-  * a law enforcement or regulatory agency at their request;
-  * a person or company who acquires our business;
-  * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
-  * As otherwise needed to protect or enforce our rights or the rights of others.
+  * The date of the visit
+  * The time and length of the visit
+  * The path taken through the Site
+  * The browser being used
+  * A list of files or information downloaded or viewed
+  * The Internet Protocol (IP) address of the machine accessing the Site
+  * Any errors encountered
+  * How many servers are accessed
+  * How much bandwidth is used
+  * How much processing power is performed on any data or content
 
 
 
-We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.
+We do not associate sensitive data, such as race, religion, or political affiliations, with personally identifiable information. We take precautions to segregate any sensitive data a user may provide that references a user’s race, religion, sexual orientation, ethnicity or political affiliations.
 
-#### Use of Non-Personally Identifiable Information
+We use anonymous demographic and other information to aid the technical administration of our website and the Services and to better understand how the website and the Services are functioning for our end-users.
 
-We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
+In some instances, “cookies” or a similar technology may be used. If you do not wish to accept a cookie from our servers, you can adjust the settings on your browser accordingly.
 
-#### What is a Cookie
+### How We Share Your Personal Information
 
-A "cookie" is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit.
+We will not sell, rent or lease to others telephone numbers, e-mail addresses or other personal information. We will share the personal data you provide only with our affiliates and/or business partners who are acting on our behalf to provide the Services.
+
+### Consent
+
+We reserve the right to disclose any and all pertinent customer or user information to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. You consent to the foregoing by using the Services.
+
+### Personal information received from the EU – Safe Harbor compliance
+
+Virtacore complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Virtacore has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/.
+
+In compliance with the US-EU Safe Harbor Principles, Virtacore commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Policy should first contact Virtacore at:
+
+Virtacore  
+ATTN: Compliance Officer  
+21355 Ridgetop Circle  
+Suite 250  
+Sterling, VA 20166
+
+Virtacore has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Virtacore, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+### Privacy related concerns
+
+Should you have questions or concerns relating to this Privacy Policy or compliance with it, please send an e-mail to: safeharbor@virtacore.com.
