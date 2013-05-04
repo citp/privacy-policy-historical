@@ -1,46 +1,64 @@
-> *The following text is extracted and transformed from the investec.co.za privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202052420id_/http%3A//www.investec.co.za/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investec.co.za privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504040957id_/http%3A//www.investec.co.za/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Investec Specialist Bank
 
-## Information Investec Collects from You
+**Cookies set by Third Parties**
 
-### Personal information you volunteer or which we may infer
+To support our website we sometimes embed photos and video content from websites such as YouTube and Flickr. As a result, when you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. Investec does not control the dissemination of these cookies. You should check the third party websites for more information about these.
 
-In general, you can use this Website without giving us any information. Any domain name information that we collect is not used to personally identify you but is instead aggregated to measure the number of visits, average time spent on the Website, pages viewed. We use this information to measure the use of our Website and to improve its contents. However, additional services may be available if we have certain information about you.
+**Website sharing tools**
 
-We may collect the following information:
+Investec website has embedded 'share' buttons to enable users of the site to easily share articles with their friends through a number of popular social networks. These sites may set a cookie when you are also logged in to their service. Investec does not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
 
-  * a list of the products and services you express an interest in when you use the Website;
+**Cookies set by Investec Suppliers**
 
-  * your name and contact information, including email address and company details which you may submit to us when you interact with the Website;
+Investec uses a number of suppliers who also set cookies on Investec website on its behalf.
 
-  * information regarding your personal or professional interests, demographics, experiences with our products and contact preferences in order to provide you with further correspondence about our products and services.
+The following cookies may be set:
 
+**Omniture**
 
+Omniture gathers data on behalf of Investec about visits to Investec sites. Omniture uses cookies, log file data and code which is embedded on Investec websites. Investec uses this information to track volume of usage on our sites and to help improve the services it provides to users. Information (IP addresses and information in other Investec cookies) that Omniture collects is transferred to them in the United States of America. Investec confirms that Omniture satisfies the EU's data protection requirements.
 
+See http://www.omniture.com/en/privacy/2o7 for more information and details of how to opt out.
 
-### We may intercept and monitor your communications
+Omniture provides anonymised statistical information to Investec about users. They process IP addresses and information from other cookies used on Investec's online sites for users, so Investec knows how many page views it has, the number of users, what browsers users are using and in which country, city or region users are located. Omniture is also used to provide similar information for the version of Investec sites for Apple iPad and iPhone users.
 
-Investec may implement systems designed to intercept and monitor your communications with Investec’s Associates, to the extent permissible by law, in which case you consent to such interception and monitoring.
+**Doubleclick**
 
-As part of this process of intercepting and monitoring these communications, we may record such communications for disclosure on the basis set out in this Policy.
+Doubleclick 'Spotlight Tags' are used to measure the effectiveness of online marketing campaigns for Investec. This service gathers information regarding visits made by users which is used to decide on the success of adverts. For information on the cookie set by Doubleclick plus information on how to opt out please go to http://www.doubleclick.com/privacy/dart_adserving.aspx
 
-### Personal information we collect automatically
+**Google Analytics**
 
-When you use the Website, Investec automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested.
+Investec uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of the Investec websites and compile reports for us on activity on the website.
 
-We treat this data as non-Personal Information, except where we are compelled to do otherwise by law or legal authority.
+Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using the Investec websites, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-Investec only uses this data in aggregate form and we may provide this aggregate information to our partners about how our customers, collectively, use the Website, so that our partners may also understand how user make use of the Website.
+For more information on the cookie set by Google Analytics, including information on how to opt out please go to: http://www.google.com/intl/en/privacypolicy.html
 
-### Security
+**Ad serving (non-targeted)**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on line. We use encryption when collecting or transferring sensitive data such as credit card information.
+The Investec advertisements seen by users on other sites are served by a number of third party ad serving providers, including DoubleClick, Atlas (atdmt), Mediaplex (ValueClick) and MediaMind (Eyeblaster), amongst others. The cookies accompanying the ads allow them and their advertisers to monitor the effectiveness of the ads.
 
-### Linking
+If you would like more information about the cookies used by the providers listed above, please see their privacy policies at:
 
-We may link to other Websites which are not within our control. Once you have left our Website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the Website in question.
+http://www.doubleclick.com/privacy/index.aspx
 
-### Cookies
+http://www.mediamind.com/Content.aspx?page=privacy_policy
 
-As we mentioned above, we use cookies on our Website. Cookies are files that store information on your hard drive or browser allowing our Website to recognise that you have visited it before. They make it easier for you to maintain your preferences on the Website, and by seeing how you use the Website, we can tailor the Website around your preferences and measure usability of the Website. You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. You can find out how to do this for your particular browser by clicking "help" on your browser's menu.
+http://www.atlassolutions.com/privacy
+
+http://www.mediaplex.com/mojo-privacy-statement
+
+Ad Serving (targeted) - AudienceScience Inc. (formerly Revenue Science, Inc.)
+
+This company uses cookies to discover general information about the pages on Investec sites that you visit and it also processes IP addresses to collect other non-personally identifiable information in order to place you in a "market segment". This includes data about the country, city or region where you are located and your domain name (e.g. what ISP you use). It then places advertisements onto "Investec.com" which it believes people in your market segment will find relevant. If you would like more information about the cookies used by AudienceScience and how to opt out, please see their Privacy Policy at: http://audiencescience.com/privacy.asp.
+
+Information (IP addresses and information in other cookies on our sites) that AudienceScience collects is transferred to them in the United States of America, and Investec confirm that AudienceScience satisfies the EU's data protection requirements through its registration with the US Department of Commerce's "safe harbor" framework. Data is sometimes shared with AudienceScience's sub-contractors in India who also contractually satisfy the EU's data protection requirements.
+
+**Surveys (Wufoo) – Infinity Box Inc**
+
+This company uses cookies to assist in delivering the Service and to provide a positive and personalized user experience. Their persistent and session ID cookies are used to identify unique visitors to our sites and to provide easy access to files. If you would like more information about the cookies used by Infinity Box and how to opt out, please see their Privacy Policy at: http://wufoo.com/privacy/
+
+Information (IP addresses and information in other cookies on our sites) that Infinity Box collects is transferred to them in the United States of America, and Investec confirm that Infinity Box satisfies the EU's data protection requirements through its registration with the US Department of Commerce's "safe harbor" framework.  
+
