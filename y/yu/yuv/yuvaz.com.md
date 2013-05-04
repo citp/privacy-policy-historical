@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuvaz.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229191515id_/http%3A//yuvaz.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuvaz.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505005825id_/http%3A//yuvaz.com/help/privacy) for the most accurate reproduction.*
 
 # Make New Friends | Share your Views - Privacy Policy
 
