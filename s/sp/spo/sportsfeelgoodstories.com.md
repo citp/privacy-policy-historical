@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101024052id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504045925id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Feel Good Stories
 
@@ -46,3 +46,16 @@ Phone: 651-278-2099
 ###
 
 Again, please let us know if you have any concerns. We hope you enjoy the site.
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy&notes=We%20want%20kids%2C%20teens%20and%20adults%20to%20have%20the%20opportunity%20to%20enjoy%20our%20site%2C%20learn%20something%20along%20the%20way%20and%20to%20be%20safe.%20%20The%20privacy%20of%20our%20visitors%27%20information%20is%20very%20important%20to%20us.%0D%0A%0D%0AGeneral%20Privacy%20Policy%0D%0A%0D%0AFor%20each%20visitor%20to%20our%20Web%20page%2C%20 "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&srcTitle=Sports+Feel+Good+Stories+Inspiration+from+the+world+of+sports "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy&source=Sports+Feel+Good+Stories+Inspiration+from+the+world+of+sports&summary=We%20want%20kids%2C%20teens%20and%20adults%20to%20have%20the%20opportunity%20to%20enjoy%20our%20site%2C%20learn%20something%20along%20the%20way%20and%20to%20be%20safe.%20%20The%20privacy%20of%20our%20visitors%27%20information%20is%20very%20important%20to%20us.%0D%0A%0D%0AGeneral%20Privacy%20Policy%0D%0A%0D%0AFor%20each%20visitor%20to%20our%20Web%20page%2C%20 "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
