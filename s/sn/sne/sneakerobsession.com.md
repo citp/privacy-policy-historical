@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakerobsession.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229161010id_/http%3A//www.sneakerobsession.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerobsession.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504133053id_/http%3A//www.sneakerobsession.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sneaker Obsession
 
