@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chinesemenu.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016011234id_/http%3A//www.chinesemenu.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chinesemenu.com privacy policy that was archived on 2013-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504105041id_/http%3A//www.chinesemenu.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,60 +22,104 @@
 </head>
 <body>
 <div class="box">
-<div class="fullHeader">
-<a href="/">
-<img src="/images/chinesemenu_logo.jpg" alt="Chineesemenu">
-</a>
-<div class="u">
-<span>
-          Order service: <strong title="Phone call">1-888-727-6368</strong>
-</span>,
-        
-        <script language="javascript">
-        	userLoginInfo();
-        </script>
-<a href="javascript:feedback.showDialog()">Feedback</a>
-<a href="/learningcenter/">LearningCenter</a>
-<a href="/help/">Help</a>
-<span id="countryList" onmouseover="document.getElementById('countries').style.visibility='visible'" onmouseout="document.getElementById('countries').style.visibility='hidden'">
-<input type="hidden" name="countryCode" id="countryCode" value="us:USA,
-              ca:Canada,
-              au:Australia,
-              uk:United Kingdom,
-              cn:China,
-              ">
-
-<script type="text/javascript">           
-			writeCountry();            
-          </script>
-<ul id="countries">
+<link href="/css/common_20121226.css" rel="stylesheet">
+<div id="search_header">
+<div id="user_header">
+<ul class="menu_header">
 <li>
-<a href="http://us.chinesemenu.com/">USA</a>
-</li>
-<li>
-<a href="http://ca.chinesemenu.com/">Canada</a>
-</li>
-<li>
-<a href="http://au.chinesemenu.com/">Australia</a>
-</li>
-<li>
-<a href="http://uk.chinesemenu.com/">United Kingdom</a>
-</li>
-<li>
-<a href="http://cn.chinesemenu.com/">China</a>
+                      Order service:<strong title="Phone call">1-888-727-6368</strong>
 </li>
 </ul>
-</span>
+<ul class="login_header">
+<li style="position: relative;">
+<em>|</em>
+<input type="hidden" name="countryCode" id="countryCode" value="us:USA,ca:Canada,au:Australia,uk:United Kingdom,cn:China,">
+<a href="javascript:void(0);">
+<script type="text/javascript">
+                              var HOSTNAME = location.hostname;
+                              HOSTNAME = HOSTNAME.substring(0,HOSTNAME.indexOf(".")).toLowerCase();
+                              if(HOSTNAME=="www"){
+                              HOSTNAME = "us";
+                              }
+                              var cn = 'China';
+                              var us = 'USA';
+                              var au = 'Australia';
+                              var uk = 'United Kingdom';
+                              var ca = 'Canada';
+                              var countryArr = {'cn':cn,'us':us,'au':au,'uk':uk,'ca':ca};
+                              var countries = document.getElementById("countryCode").value.split(",");
+                              document.write(countryArr[HOSTNAME]);
+                          </script>undefined
+<span>▼</span>
+</a>
+<ul>
+<li><a href="http://us.chinesemenu.com/">USA</a></li>
+<li><a href="http://ca.chinesemenu.com/">Canada</a></li>
+<li><a href="http://au.chinesemenu.com/">Australia</a></li>
+<li><a href="http://uk.chinesemenu.com/">United Kingdom</a></li>
+<li><a href="http://cn.chinesemenu.com/">China</a></li>
+</ul>
+</li>
+<li>
+<em>|</em><a href="/help/">Help</a>
+</li>
+<li>
+<em>|</em><a href="/learningcenter/">LearningCenter</a>
+</li>
+<li>
+<em>|</em><a href="javascript:feedback.showDialog()">Feedback</a>
+</li>
+<li>
+<em>|</em>
+<a href="http://us.chinesemenu.com/order/shoppingcart.htm">
+<img src="http://www.9isp.com/images/shopcart.png">Shopping Cart
+                      </a>
+</li>
+<script type="text/javascript"><!--
+                          var HOSTNAME = location.hostname;
+                          HOSTNAME = HOSTNAME.substring(0,HOSTNAME.indexOf(".")).toLowerCase();
+                          if(HOSTNAME=="www"){
+                          HOSTNAME = "us";
+                          }
+                          if($.Cookies.get("dineremail")!="" && $.Cookies.get("dinerpwd")){
+                          document.write("<li><em>|</em><a href='/account/signout.htm'>Sign out</a></li><li><a href='/account/?type=my' class='b'>"+$.Cookies.get("dineremail")+"</a></li>");
+                      }else if($.Cookies.get("resturemail")!="" && $.Cookies.get("resturpwd")){
+                          document.write("<li><em>|</em><a href='/account/signout.htm'>Sign out</a></li><li><a href='http://"+$.Cookies.get("restcountry")+".chinesemenu.com/restboss/?tab=home' class='b'>"+$.Cookies.get("resturemail")+"</a></li>");
+                      }else{
+                      document.write("<li><em>|</em><a href='https://"+location.hostname+"/account/register-"+HOSTNAME+".htm'>Regsiter</a></li><li><a href='https://"+location.hostname+"/account/signin-"+HOSTNAME+".htm'>Sign In</a></li>");
+                      }
+                      -->
+</script>
+</ul>
 </div>
-</div>
-<div class="fullNavSearch">
-<form method="get" action="/search/" style="margin:0; padding:0" onsubmit="this.q.value=this.q.value.trim();if(this.q.value=='')return false">
-<div class="search">
-<img src="/images/home.gif" align="absmiddle">
-<input type="text" name="q" value="" class="q">
-<input type="submit" value="Find Restaurant" class="b">
-</div>
+<script>
+              function search_light(type) {
+              var a = document.getElementById("search_box");
+              var b = document.getElementById("search_input");
+              var c = document.getElementById("search_button");
+              if (type == 1) {
+              a.className = 'light';
+              b.className = 'light';
+              c.className = 'light';
+              } else {
+              a.className = '';
+              b.className = '';
+              c.className = '';
+              }
+              }
+          </script>
+<div id="search_bar">
+<a id="search_logo" href="/">
+<img src="/frontframe/images/chinesemenu_logo.png" alt="Chineesemenu">
+</a>
+<div id="search_box" class="">
+<form id="search_form" method="get" action="/search/" onsubmit="this.q.value=this.q.value.trim();if(this.q.value=='')return false" name="search_form">
+<input id="search_input" type="text" name="q" value="" class="" onfocus="javascript:search_light(1)" onblur="javascript:search_light(0)">
+<input type="hidden" name="lang" value="">
+<input id="search_button" class="" type="submit" value="Search">
 </form>
+</div>
+</div>
 </div>
 <div class="main">
 <div class="left">
@@ -102,10 +146,10 @@
 <a href="/LearningCenter/">LearningCenter</a>
 </dt>
 <dd>
-<a href="/learningcenter/511469057.html">Local Favourites</a>
+<a href="/learningcenter/511469057.html">Local Favorites</a>
 </dd>
 <dd>
-<a href="/learningcenter/511469059.html">Chinese Dinning Culture</a>
+<a href="/learningcenter/511469059.html">Chinese Dining Culture</a>
 </dd>
 <dd>
 <a href="/learningcenter/511469060.html">Arts and Handcrafts</a>
@@ -212,7 +256,7 @@
 <li><a href="#a14">Changes to this Privacy Policy</a></li>
 </ul>
 <p>
-							  Welcome to ChineseMenu.com! We want you to know that we respect the privacy of our customers. We have developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of ChineseMenu.com and our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. This Privacy Policy also applies to transactions made, and data gathered, by ChineseMenu.com's telephone call centers in connection with associated goods and services. All information you provide to our call centers will only be used and disclosed in accordance with this Privacy Policy. This policy describes circumstances in which your use of ChineseMenu.com or our services constitutes your consent for the collection, use and disclosure of your information for the purposes described in this Privacy Policy, as well as other circumstances where your express consent will be obtained. This Privacy Policy is directed towards consumers rather than businesses and is not intended to cover information about businesses or business purpose activities. 
+							  Welcome to ChineseMenu.com! We want you to know that we respect the privacy of our customers. We have developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe to you, as an individual who is a user of ChineseMenu.com and our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. This Privacy Policy also applies to transactions made, and data gathered, by ChineseMenu.com's telephone call centers in connection with associated goods and services. All information you provide to our call centers will only be used and disclosed in accordance with this Privacy Policy. This policy describes circumstances in which your use of ChineseMenu.com or our services constitutes your consent for the collection, use and disclosure of your information for the purposes described in this Privacy Policy, as well as other circumstances where your express consent will be obtained. This Privacy Policy is directed towards consumers rather than businesses and is not intended to cover information about businesses or business purpose activities. 
 							  </p>
 <p>
 							  We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
@@ -222,18 +266,18 @@
 							  </p>
 <h2><span><a name="a2" class="ale">Consent</a><a href="#top" class="atop">Top</a></span></h2>
 <p>
-							  We only collect, use and/or disclose your personal information with your consent. We will ask you for your express consent if you would like to receive offers and/or information from us and/or an event provider. In addition, this Privacy Policy identifies various purposes for which personal information you provide us will be used, such as processing the transaction you requested, processing payment, and preventing fraud. By providing us with your personal information and engaging in a transaction with us, you implicitly consent to our collection and use of your personal information for these identified purposes.
+							  We only collect, use and/or disclose your personal information with your consent. We will ask you for your consent and whether would like to receive offers and/or information from us and/or an event provider. In addition, this Privacy Policy identifies various purposes for which personal information you provide us will be used, such as processing the transaction you requested, processing payment, and preventing fraud. By providing us with your personal information and engaging in a transaction with us, you implicitly consent to our collection and use of your personal information for these identified purposes.
 							  </p>
 <h2><span><a name="a3" class="ale">Information we collect from you</a><a href="#top" class="atop">Top</a></span></h2>
 <p>
-							  In General. Information that we collect from you, either online or through our call centers or retail outlets, can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that is not identified with a specific individual, such as the type of browser being used and what web pages have been accessed. Personally identifiable information ("personal information") is information that you provide to us that is uniquely associated with you, such as your name, address, email address, telephone number, user name and passwords. Unless we specifically tell you we are doing so, we do not associate the anonymous information we collect with your personal information. When you provide personal information through our website, the information may be sent to servers located in Canada, the United States and other countries around the world. Regardless of where your personal information may be kept, it will be protected by the safeguards described in this Policy. 
+							  General Information: Any information that we collect from you, either online or through our call centers or retail outlets, can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that is not identified with a specific individual, such as the type of browser being used and what web pages have been accessed. Personally identifiable information ("personal information") is information that you provide to us that is uniquely associated with you, such as your name, address, email address, telephone number, user name and passwords. Unless we specifically tell you we are doing so, we do not associate the anonymous information we collect with your personal information. When you provide personal information through our website, the information may be sent to servers located in Canada, the United States and other countries around the world. Regardless of where your personal information may be kept, it will be protected by the safeguards described in this Policy. 
 							  </p>
 <p>
 							  Personal information. We may collect and store any personal information you enter on our website, provide through our call centers or otherwise provide to us in some other manner for the purposes described in this Privacy Policy. The information you provide includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit or debit card number, type, expiration date or other financial information). You also may provide information about your interests and activities, your gender and age, and other demographic information. We may also collect anonymous information about you which is described later in this policy. 
 							  </p>
 <h2><span><a name="a4" class="ale">How we use the information we collect</a><a href="#top" class="atop">Top</a></span></h2>
 <p>
-							  In general. By utilizing our services and providing us with your personal information, you consent to our collection and use of your personal information as follows:
+							  General Information: By utilizing our services and providing us with your personal information, you consent to our collection and use of your personal information as follows:
 							  </p>
 <ul>
 <li>
@@ -259,10 +303,10 @@
 							  </li>
 </ul>
 <p>
-							  If you have indicated an interest in receiving information from ChineseMenu.com, either by opting in at the time you purchased products or services or otherwise in connection with your management of your My ChineseMenu.com account, we may use your information to communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or, with your consent, from third parties. Regardless of how we use your personal information it will be protected by the safeguards described in this policy. 
+							  If you have indicated an interest in receiving information from ChineseMenu.com, either by choosing at the time you purchased products or services in connection with the management of your My ChineseMenu.com account, we may use your information to communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or, with your consent, from third parties. Regardless of how we use your personal information ,it will be protected by the safeguards described in this policy. 
 							  </p>
 <p>
-							  Financial information. We may use financial information or payment method to process payment for any purchases or sales made on our website or through our call centers, to enroll you in the discount, rebate, and other programs in which you elect to participate, to facilitate your transactions with our third party marketing partners, to protect against or identify possible fraudulent transactions, and otherwise as may be reasonably needed to manage our business in connection with your transaction.
+							  Financial information. We may use financial information or payment methods to process the payment of any purchases or sales made on our website or through our call centers, to give you  the discount, rebate, and other programs in which you Select to participate, to facilitate your transactions with our third party marketing partners, to protect against or identify possible fraudulent transactions, and otherwise as may be reasonably needed to manage our business in connection with your transaction.
 							  </p>
 <p>
 							  Job applicants. If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions.This information may be shared with third-party service providers (such as third party recruitment agencies) retained by us to collect, maintain and analyze candidate submissions for job postings. 
@@ -349,7 +393,7 @@ You will not have the ability to opt-out of receiving transactional and relation
 							  Other Technologies. We may use standard Internet technology, such as pixel tags, web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. A web beacon is a small file placed on a web page that allows a website to perform various tasks, including count users who have viewed that page or to access cookies. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, or other activities. 
 							  </p>
 <p>
-							  Information collected by third-party advertising companies. We may allow third-party advertising companies, including ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect anonymous information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Anonymous and aggregated information. We may combine anonymous information and/or aggregate information we collect with additional anonymous information collected from other sources. We may share anonymous information (including aggregate information) we collect regarding our users with third parties (such as advisors, advertisers and investors) for various business purposes including developing and delivering targeted advertising on our websites and on websites of third parties, conducting general business analysis, and developing website content and services. 
+							  Information collected by third-party advertising companies. We may allow third-party advertising companies, including ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect anonymous information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about what you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Anonymous and aggregated information. We may combine anonymous information and/or aggregate information we collect with additional anonymous information collected from other sources. We may share anonymous information (including aggregate information) we collect regarding our users with third parties (such as advisors, advertisers and investors) for various business purposes including developing and delivering targeted advertising on our websites and on websites of third parties, conducting general business analysis, and developing website content and services. 
 							  </p>
 <h2><span><a name="a14" class="ale">Changes to this Privacy Policy</a><a href="#top" class="atop">Top</a></span>
 </h2>
@@ -359,30 +403,29 @@ You will not have the ability to opt-out of receiving transactional and relation
 </div>
 </div>
 </div>
-<div class="footer">
-<div class="links">
-<a href="/">Home</a> |
-        <a href="/aboutus.html">About Us</a> | <a href="/contactus.html">Contact Us</a> | <a href="/learningcenter/">LearningCenter</a> | <a href="/help/">Help</a> | <a href="/privacypolicy.html">Privacy Policy</a> | <a href="javascript:feedback.showDialog()">Feedback</a> | <a href="http://top100.chinesemenu.com/" target="_blank">Top100 Restaurant</a>
+<style>
+          #search_bottom{width:100%;height:36px;background:#f5f5f5;margin:0 auto;}
+          #page_footer{color: #959595;height: 36px;line-height: 36px;margin: 0 10px 0 20px;text-align: left;}
+          #page_footer a{color: #959595;}
+          #page_footer span {float: right;font-style: normal;}
+          #page_footer em {color:#ccc;margin:0 4px 0 6px;}
+      </style>
+<div id="search_bottom">
+<div id="page_footer">
+<span>Copyright ©<a href="http://www.chinesemenu.com/">ChineseMenu.com</a> All rights reserved. </span>
+<a href="/aboutus.html">About Us</a><em>|</em>
+<a href="/contactus.html">Contact Us</a><em>|</em>
+<a href="/privacypolicy.html">Privacy Policy</a><em>|</em>
+<a href="/learningcenter/">LearningCenter</a><em>|</em>
+<a href="/help/">Help</a><em>|</em>
+<a href="javascript:feedback.showDialog()">Feedback</a><em>|</em>
+<a target="_blank" href="http://top100.chinesemenu.com/">Top100 Restaurants</a>
+<a href="http://www.flickr.com/photos/chinese_menu/" target="_blank" class="i-4" title="Flickr">Flickr</a>
+<a href="http://www.youtube.com/user/MyChineseMenu/videos" target="_blank" class="i-3" title="YouTube">YouTube</a>
+<a href="https://twitter.com/#!/Chinese_Menu" target="_blank" class="i-2" title="Twitter">Twitter</a>
+<a href="http://www.facebook.com/pages/ChineseMenu%E5%9B%BD%E9%99%85%E4%B8%AD%E9%A4%90%E7%BD%91/209804112457385" target="_blank" class="i-1" title="Facebook中文">Facebook中文</a>
+<a href="http://www.facebook.com/chinesemenupage" target="_blank" class="i-1" title="Facebook">Facebook</a>
 </div>
-<div class="linkicon">
-<a href="http://www.facebook.com/chinesemenupage" target="_blank"><span class="facebook">&nbsp;</span>Facebook</a>
-<a href="http://www.facebook.com/pages/ChineseMenu%E5%9B%BD%E9%99%85%E4%B8%AD%E9%A4%90%E7%BD%91/209804112457385" target="_blank">
-<span class="facebook">&nbsp;</span>Facebook中文</a>
-<a href="https://twitter.com/#!/Chinese_Menu" target="_blank">
-<span class="twitter">&nbsp;</span> Twitter
-        </a>
-<a href="http://www.youtube.com/user/MyChineseMenu/videos" target="_blank">
-<span class="youtube">&nbsp;</span> YouTube
-        </a>
-<a href="http://www.flickr.com/photos/chinese_menu/" target="_blank">
-<span class="flickr">&nbsp;</span> Flickr
-        </a>
-</div>
-<div class="copyright">
-<a href="http://www.frontsql.com" target="_blank">
-<img src="/images/frontsql.gif" align="absmiddle">
-</a>Copyright ©<a href="http://www.chinesemenu.com" target="_blank">ChineseMenu.com</a> All rights reserved.
-      </div>
 </div>
 </div>
 <script type="text/javascript">
