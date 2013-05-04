@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverslab.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031071528id_/http%3A//www.driverslab.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverslab.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504143546id_/http%3A//www.driverslab.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
