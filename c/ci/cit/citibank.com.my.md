@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the citibank.com.my privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026231838id_/http%3A//www.citibank.com.my/english/docs/privacy-policy.htm%3FeOfferCode%3DMYABNPV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.com.my privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505010012id_/http%3A//www.citibank.com.my/english/docs/privacy-policy.htm%3FeOfferCode%3DMYABNPV) for the most accurate reproduction.*
 
 # Citibank Malaysia - Privacy Policy
-
-The Privacy Program was last updated on 2 July 2007.
 
 Our goal is to maintain your trust and confidence when handling personal information about you.
 
@@ -17,7 +15,7 @@ At Citibank we endeavour to keep you informed of the latest marketing and promot
 
 However, you can choose not to receive these materials should you so desire, by calling our 24-Hour CitiPhone Banking or writing in to Citibank Berhad, (Ref: Privacy), P.O. Box 11725, 50754 Kuala Lumpur or logging in to Citibank Online at www.citibank.com.my to email us. Please allow 4 to 5 weeks for your request to take effect. If you would like to be reinstated, simply call our CitiPhone Banking Officers and we will gladly assist you with your request.
 
-Please read Citibank's Internet Privacy Policy as well, which outlines our privacy policy for our Internet site users.
+Please refer to our [Notice and Choice Principle Statement ](https://web.archive.org/privacyEng/PDPA_Eng.pdf)which outlines how we intend to deliver all the rights and protections you are entitled to in respect of your personal data. In addition, please read Citibank's Internet Privacy Policy which further outlines our privacy policy for our Internet site users.
 
 **Citibank's Internet Privacy Policy**
 
@@ -33,3 +31,5 @@ There are instances where certain types of information may be requested from our
 In order to provide better service or to address security hazards, we will occasionally use a "cookie". A cookie is a small piece of information which a Web site stores on your Web browser on your PC and can later retrieve. The cookie cannot be read by a Web site other than the one that set the cookie. We use cookies for a number of administrative purposes; for example, to store your preferences for certain kinds of information. Most cookies last only through a single session, or visit to our site. None will contain information that will enable anyone to contact you via telephone, e-mail, or any other means. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set.
 
 Your browser software may contain a feature which is intended to notify you of the cookie policies of the various web sites you visit. For example, the Microsoft Internet Explorer 6 browser software contained in Microsoft Windows XP contains a version of such a cookie-filtering device, commonly known as P3P. To learn more about P3P and how it may affect your online experience go to www.w3.org/P3P. Citibank has attempted to make citibank.com.my compatible with the P3P privacy filtering tool. However, P3P is still an evolving standard and therefore, we are not responsible for any problems you may experience when using a P3P filter, or any discrepancies between the machine-coded statements of our privacy policy which are read by the P3P tool and the human readable policy which you see here and in the Privacy for Consumers at Citi. This Online Data Policy and the Privacy for Consumers at Citi are the controlling documents to which you should refer if you have questions about Citibank's privacy policies. The human readable privacy policy is the only binding legal statement and prevails over any discrepancies from the machine readable privacy policy. 
+
+This policy was last modified December 28, 2012.
