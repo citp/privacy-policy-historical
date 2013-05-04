@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourepeat.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103205217id_/http%3A//www.yourepeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourepeat.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504131636id_/http%3A//www.yourepeat.com/privacy) for the most accurate reproduction.*
 
 # YouTube Repeat
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy
 
-AVSoftware Ltd ("YouRepeat") takes your privacy very seriously. Please read the following to learn more about YouRepeat's Privacy Policy ("Policy"). This Policy details how YouRepeat receives, collects and uses information in connection with their website located at YouRepeat.com and software provided on the YouRepeat.com website (the website and software collectively referred to herein as "Site").
+YouRepeat.com ("YouRepeat") takes your privacy very seriously. Please read the following to learn more about YouRepeat's Privacy Policy ("Policy"). This Policy details how YouRepeat receives, collects and uses information in connection with their website located at YouRepeat.com and software provided on the YouRepeat.com website (the website and software collectively referred to herein as "Site").
 
 ### Collection and Use of Information
 
