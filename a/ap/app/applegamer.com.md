@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applegamer.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228080858id_/http%3A//www.applegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applegamer.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504120327id_/http%3A//www.applegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - applegamer.com
 
