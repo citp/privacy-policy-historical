@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daportfolio.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503193334id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daportfolio.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504171653id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
 
 # deviantART: Privacy Policy
 
@@ -67,10 +67,3 @@ We may update this Privacy Policy from time to time as our services change and e
 ## Questions
 
 If you have questions about this Statement or our policies, please contact us at:
-
-**deviantART, Inc.  
-7095 Hollywood Blvd #788  
-Hollywood, CA 90028  
-Phone: 888-4DEVART (888-433-8278)  
-Email: [help@deviantart.com](mailto:help@deviantart.com)  
-**
