@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114232521id_/http%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504130816id_/http%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.*
 
 # Australian Good Food and Travel Guide Privacy
 
