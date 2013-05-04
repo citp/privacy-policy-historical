@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpages.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221015251id_/http%3A//www.globalpages.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpages.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504020013id_/http%3A//globalpages.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Global Pages
 
