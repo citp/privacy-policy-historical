@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127085933id_/http%3A//www.cyfuture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504075405id_/http%3A//www.cyfuture.com/privacy.html) for the most accurate reproduction.*
 
-# Appointment Scheduling Software Services, Appointment Scheduling Program
-
-## Privacy
+# Application Development Outsourcing India, Offshore BPO Services India
 
 **Cyber Futuristics (I) Pvt.Ltd.** Privacy Policy Cyber Futuristics (I) Pvt.Ltd herein reffered as Cyfuture knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting any of the sites offered by CyFuture, you are accepting the practices described in this Privacy Notice.** For question on the Privacy Notice please contact support@go4hosting.com
 
