@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapdaemon.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014013817id_/http%3A//www.gapdaemon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapdaemon.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504170736id_/http%3A//www.gapdaemon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gap Daemon for Gap Years: Meet Backpackers, Get Travel Advice, Share in the Community
 
