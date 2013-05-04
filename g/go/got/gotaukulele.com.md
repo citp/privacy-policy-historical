@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotaukulele.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028185215id_/http%3A//www.gotaukulele.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotaukulele.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504205710id_/http%3A//www.gotaukulele.com/p/privacy.html) for the most accurate reproduction.*
 
 # GOT A UKULELE - Uke blog for the beginner: PRIVACY
 
