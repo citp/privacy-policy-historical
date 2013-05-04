@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegrindstone.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919082258id_/http%3A//thegrindstone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrindstone.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504154630id_/http%3A//www.thegrindstone.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | TheGrindstone
 
 Thank you for visiting WWW.THEGRINDSTONE.COM (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. The Site is a website published and maintained by Alloy Digital, LLC.
 
