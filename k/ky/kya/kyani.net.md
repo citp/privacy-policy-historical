@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kyani.net privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221025618id_/http%3A//kyani.net/v2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyani.net privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504043753id_/http%3A//www.kyani.net/public/usa-can/en/privacy) for the most accurate reproduction.*
 
-# Kyani
+# Kyäni : Privacy Policy
 
 ## Kyäni Internet Privacy Policy 
 
