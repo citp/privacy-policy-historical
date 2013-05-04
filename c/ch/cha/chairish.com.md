@@ -1,100 +1,69 @@
-> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504232449id_/http%3A//shop.chairish.com/pages/privacy-security) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy & Security | Chairish
 
-**Go Daddy Respects Your Privacy**
+#### Our Core Principles
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Here at Chairish, we want you to be in control of your information and get the most from it. While this privacy policy is specific about how we collect and use your confirmation, we have the following core principles by which we will abide by. Even as the details in the rest of this privacy policy may change, these core principles will remain constant.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * Your information on the Chairish service belongs to you.
+  * We will help you to control your information.
+  * We will tell you what we do with your information.
+  * We will never spam you or abuse your information.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+#### What types of information are we talking about?
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+1\. Information you provide to us; and
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+2\. Information that we collect when you use our website and Services (Services are defined in our Terms of Service).
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Information You Provide to Us
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**When you register with Chairish** , you provide us information to register and set up an account, including email, name, and billing and credit card information if you are buying or selling items (“Account Data”). We use this information to provide you the Services, send you Service related notices, including any notices required by law. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We also ask your permission to use your email address to send you other messages, such as newsletters, updates to features of the Service, or special offers. If you later want to opt-out or change your mailing preferences, go to http://www.Chairish.com/account.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**If you correspond with Chairish** , we may retain the content of your messages, your email address and our responses. 
 
-**Security**
+**If you invite a friend to try Chairish through our Service** , we will use that friend's email address for the sole purpose of sending your invitation.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+#### Information that we collect when you use the website and Services
 
-**Updating Your Information**
+**When you use the Chairish websites and services (such as this one)** , we use cookies, or similar technologies, to help us improve your experience. Specifically, any information we gather this way will only be used to analyze and improve our Services, diagnose problems, maintain security, remember information so that you will not have to re-enter it during your visit, and provide custom, personalized content and information. While our Services may not operate properly without these technologies, you can set your web browser to refuse all cookies. Chairish cannot personally identify you with this information alone, but if you do log into your Chairish account, we may associate this information with your account and personally identify you in order to provide you better service.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### How We Share Your Information
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Personally Identifiable Information** : Chairish will not rent or sell your personally identifiable information to others and will not share it with others, except as follows: 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * Chairish may disclose such information (a) if we are required to do so by law or subpoena, (b) to enforce our terms and policies; or (c) to exercise or protect the rights, property, or safety of Chairish, our users or others.
+  * We may store information in physical locations outside the direct control of Chairish (for instance, on servers or databases co-located with hosting providers).
+  * Chairish may share your information with third parties who have contracted with Chairish to provide services to Chairish solely for the purpose of providing Services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. 
+  * Chairish may transfer such information if Chairish is acquired as a business or its assets are sold, as is typical when a business is acquired or merged.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+#### How We Protect Your Information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Chairish employs well-established security measures to safeguard our systems and your information. However, we cannot control all the individuals and activities on the internet and elsewhere, and therefore cannot guarantee that such information will never be compromised. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+#### Links to External Servers and other Web Sites and Services
 
-**Compliance with Laws and Law Enforcement**
+When you link to or interact with the External Servers, or other websites or services, our Privacy Policy no longer applies and you are subject to that website's or service’s own rules and policies. Please read over those rules and policies so you understand how they treat your information.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+#### Notification Procedures
 
-**Third Party Service Providers**
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice or through conspicuous posting of such notice on our web page, as determined by Chairish in its sole discretion. We reserve the right to determine the form and means of providing notifications to you.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+#### U.S. Based Service
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Our center of operation is in the United States. Your data is held in the United States and transactions are processed in US Dollars on servers in the United States. As such, all data is held in accordance with United States laws and procedures which differ from those in other regions of the world, such as the European Union. By using this service, you acknowledge that you understand and agree to these data policies.
 
-**Supplementation of Information**
+#### Changes to Our Privacy Policy
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-**Contests/Surveys**
+If you have any questions about this Privacy Policy or our data practices, please contact us at support@chairish.com.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Thank you!
