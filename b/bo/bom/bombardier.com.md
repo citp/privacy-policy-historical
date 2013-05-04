@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bombardier.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220105742id_/http%3A//www.bombardier.com/en/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombardier.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504202914id_/http%3A//bombardier.com/en/corporate/privacy) for the most accurate reproduction.*
 
 # Bombardier > Privacy
 
