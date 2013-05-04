@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatwickexpress.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015150321id_/http%3A//www.gatwickexpress.com/en-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatwickexpress.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504093514id_/http%3A//www.gatwickexpress.com/en-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gatwick Express
 
@@ -6,7 +6,7 @@
 
 Any information you give to us will be stored and used in accordance with our privacy policy set out below. 
 
-## Privacy Policy
+## Company information
 
 This Website is owned and operated by Southern Railway Limited trading as Southern, which is a wholly owned subsidiary of GOVIA Limited and is a part of the Go-Ahead Group Rail Division.
 
@@ -26,7 +26,7 @@ Registered office:
 Newcastle Upon Tyne,  
 NE1 6EE
 
-* * *
+## Privacy Policy
 
 Our privacy policy relates only to information that we obtain from you. If you visit a Website operated by a third party through a link included on this Website, your information might be used differently by the operator of the linked Website.
 
@@ -84,7 +84,7 @@ Should you wish to obtain a copy of the personal data that we hold on you, pleas
 
 If you have a complaint regarding any breach of this privacy policy, write to us at the address above or click on [Contact Us](https://web.archive.org/your-journey/contact-us/ "Follow this link to contact us"). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you within 10 days of receiving your complaint to inform you of the outcome.
 
-When visiting our Webpages, we would like to use tracking technologies, which record information about you automatically with information that does not identify you personally. This can include using a "cookie" which would be stored on your browser. It is possible to configure your Internet browser so that it can disable cookies. For further details, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit the All About Cookies website for further information") If we cannot use such technology it is possible that certain functionality of this site might be affected and you might not be able to access certain Webpages.
+When visiting our Webpages, we would like to use tracking technologies, which record information about you automatically with information that does not identify you personally. This can include using a "cookie" which would be stored on your browser. It is possible to configure your Internet browser so that it can disable cookies. For further details, please visit [allaboutcookies.org](http://www.allaboutcookies.org/ "Visit the All About Cookies website for further information") If we cannot use such technology it is possible that certain functionality of this site might be affected and you might not be able to access certain Webpages.
 
 We automatically collect and store only the following information about your visit:
 
