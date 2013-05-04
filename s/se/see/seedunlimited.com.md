@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedunlimited.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922065101id_/https%3A//www.seedunlimited.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedunlimited.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504123032id_/https%3A//www.seedunlimited.com/privacy.php) for the most accurate reproduction.*
 
 # Seed Unlimited
 
