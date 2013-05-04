@@ -1,0 +1,580 @@
+<!--The following is the downloaded HTML source of the fmclassifieds.com privacy policy that was archived on 2013-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504130744id_/http%3A//www.fmclassifieds.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html><head>
+  <title>fmclassifieds.com - PRIVACY</title><script type="text/javascript">function payerem(){var p = document.carsadform.Email.value;return p;}</script>
+
+<meta name="description" content="Privacy Policy on free ads posted on our website. We respect the confidence of salient data collected from users via our ad forms. We do not divulge such data to any third parties without the express consent of bonafide users.">
+
+   <style type="text/css">
+<!--
+a:link {
+  color: #FF0000;
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: #FF0000;
+}
+a:hover {
+  text-decoration: none;
+  color: #FF0000;
+}
+a:active {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+-->
+a.myClass:link {color: #000000; text-decoration: none;}
+a.myClass:visited {color: #000000; text-decoration: none;}
+a.myClass:hover {text-decoration:underline; color:#000000;}
+a.myClass:active {text-decoration: none; color: #000000;}
+
+.catwidth { width:190px; height:23px;font-size:15px;vertical-align:middle;} .selectclass {width:305px;height:27px;font-size:17px;background-color:#F0FFF0;color:#567894;border:1px white solid;}.txtwidth { width:195px; height:17px;font-size:15px;vertical-align:middle;}
+.contactwidth { width:400px; height:25px;font-size:19px; valign:bottom;}
+
+input.btn2{color:brown; font: bold 100% arial; background-color:#efefef; border-radius:5px; }
+input.telbtn{color:yellow; font: bold 80% arial; background-color:blue }
+input.btn{color:yellow; font: bold 97% arial; background-color:red }
+
+
+
+
+.shadow {
+    -moz-text-shadow: 3px 3px 2px #000000;
+    -webkit-text-shadow: 3px 3px 2px #000000;
+    text-shadow: 2px 2px 3px #000000;
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=160, Color='Color='#000000'0000')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='Color='#000000'00000');
+  }
+
+
+.imgshadow {
+    -moz-box-shadow: 3px 3px 3px #000000;
+    -webkit-box-shadow: 3px 3px 4px #000000;
+    box-shadow: 3px 3px 4px #000000;
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+  }
+
+
+
+.ieshadow {
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='Color='#000000'00000')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='Color='#000000'00000');
+  }
+
+
+.ffshadow {
+    -moz-box-shadow: 3px 3px 3px #000Color='#000000'
+    -webkit-box-shadow: 3px 3px 4px #000Color='#000000'
+    box-shadow: 3px 3px 4px #000000;
+
+  }
+
+
+
+
+table.pretable {min-width: 1000px;}
+
+.minbody {min-width:995px;}
+
+img.logo {width: 40px; height:35px;} .mywidth { width:11%;}
+
+html, body {height: 100%; width:100%}
+#main {overflow:auto; min-width:950px;
+  padding-bottom: 0px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+  margin-top: 0px; /* negative value of footer height */
+  height: -60px; width:100%; min-width:950px;
+  clear:both;}
+
+/*Opera Fix*/
+body:before {
+  content:"";
+  height:100%;
+  float:left;
+  width:0;
+  margin-top:-32767px;/
+}
+
+
+<!--[if !IE 7]>
+  <style type="text/css">
+    #wrap {display:table;height:100%}
+  </style>
+<!--[endif]---->
+
+
+
+
+
+
+
+
+<script language="javascript">
+
+  function checkcontactform(ContactForm){
+
+  var message = "please complete all required fields in red asterisks!";
+  var iChars = "!@#$%^&*()+=[]\\\';,/{}|\":<>";
+  var iChars2 = "!#$%^*[]\\\;{}|\<>?";
+  var allalphas = /^[a-zA-Z]*$/;
+  var allnums = /^[1-9]*$/;
+  var numbers ="123456789";
+  var alphabets = "aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ";
+
+  
+
+  
+  if ((document.ContactForm.Name.value=="") && (document.ContactForm.Email.value=="")
+     && (document.ContactForm.Message.value == null || document.ContactForm.Message.value === '' ))    {
+
+  alert("Please complete all required fields in red asterisks");
+  return false;  }
+
+
+
+ if (document.ContactForm.Name.value=="")
+  {
+  alert("Please enter your NAME");
+  return false;  }
+
+ if (document.ContactForm.Email.value=="")
+  {
+  alert("Please enter your EMAIL address");
+  return false;  }
+
+
+  if (document.ContactForm.Message.value == null || document.ContactForm.Message.value === '' ) {
+  alert("Please enter your MESSAGE.");
+  return false;
+  }
+
+
+for (var i = 0; i < document.ContactForm.Name.value.length; i++) {
+    if (numbers.indexOf(document.ContactForm.Name.value.charAt(i))!= -1) {
+    alert ("Your Name data contains invalid characters.\n Please remove them and try again.");
+    return false;
+    }
+  }
+
+
+  if (allnums.test(document.ContactForm.Name.value)) {
+     alert("Your Name data contains invalid characters.\n Please check and try again");
+     return false;
+    }
+
+
+ for (var i = 0; i < document.ContactForm.Name.value.length; i++) {
+    if (iChars.indexOf(document.ContactForm.Name.value.charAt(i)) != -1) {
+    alert ("Your Name data contains invalid characters.\n Please remove them and try again.");
+    return false;
+    }
+  }
+
+
+
+  for (var i = 0; i < document.ContactForm.Telephone.value.length; i++) {
+    if (iChars.indexOf(document.ContactForm.Telephone.value.charAt(i)) != -1) {
+    alert ("Your Telephone No. contains invalid characters. \nThese are not allowed.\n Please remove them and try again.");
+    return false;
+    }
+  }
+
+
+for (var i = 0; i < document.ContactForm.Telephone.value.length; i++) {
+    if (alphabets.indexOf(document.ContactForm.Telephone.value.charAt(i))!= -1) {
+    alert ("Your Telephone No. contains invalid characters.\n Please remove them and try again.");
+    return false;
+    }
+  }
+
+
+  if (document.ContactForm.Telephone.value!="") {
+  if (allalphas.test(document.ContactForm.Telephone.value)) {
+     alert("Your Telephone No. contains an invalid characters.\n Please check and try again");
+     return false;
+    }
+    }
+
+
+ if (document.ContactForm.Telephone.value!="") {
+  if (document.ContactForm.Telephone.value.length !=11) {
+     alert("Your Telephone No. has the wrong length.\n Please check, remove any spaces and try again");
+     return false;
+    }
+   }
+
+
+ for (var i = 0; i < document.ContactForm.Email.value.length; i++) {
+    if (iChars2.indexOf(document.ContactForm.Email.value.charAt(i)) != -1) {
+    alert ("Your Email address contains invalid characters.\n Please remove them and try again.");
+    return false;
+    }
+  }
+
+
+   if (document.ContactForm.Email.value.length >0) {
+   i=document.ContactForm.Email.value.indexOf("@");
+   j=document.ContactForm.Email.value.indexOf(".",i);
+   k=document.ContactForm.Email.value.indexOf(",");
+   kk=document.ContactForm.Email.value.indexOf(" ");
+   jj=document.ContactForm.Email.value.lastIndexOf(".")+1;
+   len=document.ContactForm.Email.value.length;
+
+   if ((i>0) && (j>(1+1)) && (k==-1) && (kk==-1) && (len-jj >=2) && (len-jj<=3)) {
+   }
+   else {
+     alert("Please enter a valid email address.\n" +
+    "'"+document.ContactForm.Email.value+"'" + " is invalid.");
+    return false;
+   }
+ }
+
+
+return true;
+
+}
+
+
+
+
+function creplace(string) {
+   for (var i=0, output='', valid="0123456789abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ.?£,':()!-"; i<string.length; i++)
+
+      if (valid.indexOf(string.charAt(i))!= -1)
+      {output += string.charAt(i);}
+
+      else { output +=" ";}
+
+    alert("Please Note, any invalid characters in your MESSAGE text\n will be removed automatically, so review your \n text before submitting.");
+    return output;
+
+
+ }
+
+
+
+ function conreplace() {
+     document.ContactForm.Message.value=filterNum(document.ContactForm.Message.value);
+
+     function filterNum(str) {
+
+     var m;
+     var re = /\$|,|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\_|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$/g;
+          // remove special characters like "$" and "," etc...
+          m=str.replace(re, " ");
+          alert("Please Note, invalid characters will be removed,\n so please review your Message text before submitting.");
+          return m;
+     }
+
+     return m;
+}
+
+
+
+function ccheck(string) {
+   for (var i=0, output='', valid="0123456789abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ.£,':()!-+="; i<string.length; i++)
+      if (valid.indexOf(string.charAt(i))!= -1)
+       output += string.charAt(i);
+    alert("There are invalid characters in your MESSAGE text.\n They will be removed automatically, so review your \n text before submitting.");
+    return output;
+ }
+
+
+</script>
+
+<script type="text/javascript">
+<!--
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=800,height=600,scrollbars=yes');
+return false;
+}
+//-->
+
+
+
+function mysubmit() {
+
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==0){document.SearchFormfreemar5_fmsdb.action="selectall.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==1){document.SearchFormfreemar5_fmsdb.action="selectjobs.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==2){document.SearchFormfreemar5_fmsdb.action="selectproperties.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==3){document.SearchFormfreemar5_fmsdb.action="selectrentals.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==4){document.SearchFormfreemar5_fmsdb.action="selectcars.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==5){document.SearchFormfreemar5_fmsdb.action="selectvehicles.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==6){document.SearchFormfreemar5_fmsdb.action="selectbikes.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==7){document.SearchFormfreemar5_fmsdb.action="selectsounds.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==8){document.SearchFormfreemar5_fmsdb.action="selectservices.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==9){document.SearchFormfreemar5_fmsdb.action="selectcomputers.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==10){document.SearchFormfreemar5_fmsdb.action="selectparts.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==11){document.SearchFormfreemar5_fmsdb.action="selecttools.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==12){document.SearchFormfreemar5_fmsdb.action="selectmobiles.php?rgn=";  }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==13){document.SearchFormfreemar5_fmsdb.action="selectbooks.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==14){document.SearchFormfreemar5_fmsdb.action="selectdvds.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==15){document.SearchFormfreemar5_fmsdb.action="selecttvs.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==16){document.SearchFormfreemar5_fmsdb.action="selectelectricals.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==17){document.SearchFormfreemar5_fmsdb.action="selectfurniture.php?rgn=";  }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==18){document.SearchFormfreemar5_fmsdb.action="selectpets.php?rgn=";  }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==19){document.SearchFormfreemar5_fmsdb.action="selectgames.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==20){document.SearchFormfreemar5_fmsdb.action="selectkitchen.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==21){document.SearchFormfreemar5_fmsdb.action="selectsports.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==22){document.SearchFormfreemar5_fmsdb.action="selectmusic.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==23){document.SearchFormfreemar5_fmsdb.action="selectmiscellaneous.php?rgn="; }
+if (document.SearchFormfreemar5_fmsdb.Category.selectedIndex==24){document.SearchFormfreemar5_fmsdb.action="selectfreebies.php?rgn="; }
+
+
+return true;
+}
+
+
+</script>
+
+
+  
+</head><body style="background-image: url('uk.jpg');" leftmargin="0px" topmargin="0px" marginwidth="0px" marginheight="0px" width="100%"> <!-- style="color: rgb(11, 59, 11); background-color: rgb(204, 204, 255);" -->
+
+<div id="wrap">
+
+<div id="main">
+
+
+<!-- FIRST TABLE //-->
+<table cellpading="0" border="0" class="pretable" width="100%">
+
+  <tbody>
+
+ <tr>
+      <td border="0" height="100" align="left" valign="middle">
+      <a href="http://www.fmclassifieds.com">
+
+      <img src="fmslogoglobal.png" alt="fmclassifieds.com" style="border:0px pink solid; height:74px; width:195px;">
+     </a>
+     </td>
+
+<td align="left" height="100" style="vertical-align:middle;">
+<center>
+ <!-- Start of ukbanners code --> 
+<table cellpadding="0" cellspacing="0" width="468" border="0" align="center">
+<tbody><tr><td><iframe src="http://www.ukbanners.com/cgi/banners.cgi?i=1;account=B112170;page=1" width="468" height="60" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></td></tr>
+<tr><td><a href="http://www.ukbanners.com" target="_parent">
+<img src="http://www.ukbanners.com/ukbannersbar.gif" alt="website promotion" width="468" height="14" border="0"></a></td></tr>
+</tbody></table>
+<!-- End of ukbanners code -->
+</center>
+</td>
+
+    <td align="right" valign="bottom">
+<a href="freechat.php">
+<img width="150" height="80" src="fmsworldchat.png" alt="" border="0"></a>
+</td>
+
+</tr>
+     </tbody>
+</table>
+
+<!-- SECOND TABLE //-->
+
+<table border="0" cellpadding="0" background="0" cellspacing="1" width="100%" height="40" class="pretable">
+
+  <tbody>
+    <tr>
+      <td align="center"><img src="bluebarfms.jpg" height="40" style="width:100%;"></td>
+      <td align="center" height="40" style="width:95px;" onclick="location.href=" http:="" www.fmclassifieds.com""=""><a href="http://www.fmclassifieds.com"><img src="bluebarhome.jpg" alt="www.fmclassifieds.com" height="40" width="95" border="0"></a></td>
+
+      <td align="center" height="40" style="width:95px;" onclick="location.href='adtransfer.php'"><a href="adtransfer.php"><img src="bluebarsell.jpg" alt="fmclassifieds.com" height="40" width="95" border="0"></a></td>
+      <td align="center" height="40" style="width:95px;" onclick="location.href='selectfreebies.php?hpcat=Freebies'"><a href="selectfreebies.php?hpcat=Freebies"> <img src="bluebargetfree.jpg" alt="www.fmclassifieds.com" height="40" width="95" border="0"></a></td>
+      <td align="center" height="40" style="width:95px;" onclick="location.href='adtransfer.php'"><a href="adtransfer.php"><img src="bluebargivefree.jpg" height="40" width="95" border="0"></a></td>
+
+      <td align="center" height="40" style="width:95px;" onclick="location.href='login.php'"><a href="login.php"><img src="bluebarmyaccount.jpg" height="40" width="95" border="0"></a></td>
+      <td align="center" height="40" style="width:95px;" onclick="location.href='adtransfer.php'"><a href="adtransfer.php"><img src="buttonpost2.jpg" height="40" width="95" border="0"></a></td>
+      <td align="center" height="40" style="width:95px;" onclick="location.href='contactform.php'"> <a href="contactform.php"><img src="bluebarcontactus2.jpg" height="40" width="95" border="0" alt="fmclassifieds.com"></a></td><td align="center"><img src="bluebarfms.jpg" height="40" style="width:100%;" alt="fmclassifieds.com" border="0"></td>
+
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+<!-- THIRD TABLE - LOOK FOR   -->
+
+ <table background="fmbgfadingash.jpg" border="0" cellpadding="1" cellspacing="1" height="45" width="100%" class="pretable">
+
+    <tbody><tr align="center">
+
+      <td>
+<form method="post" onsubmit="return mysubmit();" name="SearchFormfreemar5_fmsdb">
+      <font color="darkblue" #151b54="" face="arial" size="3">
+      <b>Look for</b></font> <input name="Lookfor" class="txtwidth" type="text" value="">
+<font color="darkblue" #151b54="" face="arial" size="3"><b>&nbsp;Category</b></font>
+
+    <select name="Category" class="catwidth">
+    <option value="">select</option>
+    <option value="Jobs">Jobs</option>
+
+        <option value="Properties For Sale">Properties For Sale</option>
+        <option value="Rentals">Rentals/Accommodation</option>
+        <option value="Cars">Cars</option>
+        <option value="Vehicles">Vehicles</option>
+        <option value="Bikes">Bikes &amp; Bicycles</option>
+        <option value="Sounds">Sounds/Hifis/Radios</option>
+        <option value="Services">Business services</option>
+        <option value="Computers">Computers and Laptops</option>
+        <option value="Parts">Accessories &amp; Parts</option>
+        <option value="Tools">Tools</option>
+        <option value="Mobiles">Phones/Mobiles/iPhones</option>
+        <option value="Books">Books/Antiques/Collectables</option>
+        <option value="DVDs">DVDs/CDs/MP3,etc</option>
+        <option value="Televisions">Televisions</option>
+        <option value="Electricals">Home electricals</option>
+        <option value="Furniture">Furniture/Fixtures/Fittings </option>
+        <option value="Pets">Pets</option>
+        <option value="Games">Games</option>
+        <option value="Kitchen">Kitchen stuff</option>
+         <option value="Sports">Fashion and Design</option>
+        <option value="Miscellaneous">Miscellaneous</option>
+        <option value="Freebies">Freebies</option>
+        </select>
+
+<font color="darkblue" #151b54="" face="arial" size="3"><b>&nbsp;Location</b></font> <input name="Location" class="txtwidth" type="text" value="">
+<input value="SEARCH" type="submit" class="btn"> </form>
+      </td>
+    </tr>
+ </tbody></table>
+
+
+
+ <!-- Fourth TABLE   -->
+
+<table border="0" cellpadding="1" cellspacing="0" align="center" height="45" width="100%" class="pretable">
+  <tbody>
+    <tr>
+    <td width="60" align="right" background="fmbgfadingash.jpg" height="31"><a href="http://www.fmclassifieds.com"><font size="4" color="brown" face="arial" align="right"><b>Home</b></font></a></td>
+      <td width="150" align="left" background="fmbgfadingash.jpg" height="31"><a href="http://www.fmclassifieds.com"><img align="left" src="homepageicon.jpg" alt="" title="homepageicon" width="45" height="27" border="0"></a></td>
+      <td align="center" background="fmbgfadingash.jpg" height="31"><font color="brown" size="4"><b>PRIVACY POLICY</b></font></td>
+      <td background="fmbgfadingash.jpg" height="31" width="200" align="center"><img src="brownevelope.jpg" alt="" title="brownevelope" width="45" height="27" border="0"></td>
+    </tr>
+  </tbody>
+</table>
+
+<table bgcolor="bbddff" width="100%" class="pretable" align="center">  <!-- style="background-color: rgb(204, 204, 255);" -->
+<tbody>
+
+<tr>
+
+<td width="60"></td>
+
+
+
+<td width="90%">
+<font face="arial" size="4" colorblack="">
+<br>
+<center><b><u>OUR PRIVACY POLICY</u></b> <br><br></center>
+
+
+fmclassifieds.com is owned and operated by UK-FREEMARKET LTD, a limited liabilility company incorporated in England and Wales.
+We respect your privacy regarding the personal data we collect from you through our online forms. We do not divulge any
+personal data we hold about you to third parties without your consent, except in certain circumstances where we are legally obliged
+to do so.<br><br>
+
+<u>WHAT DATA WE COLLECT</u> <br><br>
+
+We collect the following data from users through our online forms. <br><br>
+
+1. Name<br>
+2. Email Address<br>
+3. Name of Local Area<br>
+4. Post Code<br>
+5. Gender<br>
+6. Telephone No<br>
+7. Log on password <br><br>
+
+<u>WHERE OUR DATA IS HOSTED</u>  <br><br>
+
+Our website is hosted and supported by JustHost, the No 1 Best Host of the year 2010 and still a top ranking hosting company in the world.
+They always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, to ensure
+the integrity and safety of the data.
+<br><br>
+
+
+<u>WHAT WE DO WITH THE DATA</u>        <br><br>
+
+We use the data we collect for the following purposes. <br><br>
+
+(1) To communicate information to users regarding our services.<br>
+(2) To help resolve complaints and disputes regarding our services.<br>
+(3) To help improve our services.<br>
+(4) To provide information about users' adverts posted on our website. <br><br>
+
+
+<u>WHAT WE DO NOT DO WITH THE DATA</u> <br><br>
+
+We do not sell users' personal data to marketers nor divulge them to third parties without the users' consent. We may only disclose
+such information if obliged to do so for legal reasons.<br><br>
+
+
+<u>HOW WE SECURE THE DATA</u> <br><br>
+
+Webfusion takes customer confidentiality and security very seriously. They have implemented
+appropriate internal security procedures that restrict access to and disclosure of personal data.
+These procedures are reviewed from time to time to determine whether they are being complied with and are effective.<br><br>
+
+
+<u>CHANGES AND MODIFICATIONS TO DATA</u> <br><br>
+
+We have made provision for users to edit or amend their personal and advert details by logging in to their 'My Account' with their email
+address and password. We may also make modifications at users' request. <br><br>
+
+
+<u>AMENDMENTS TO THIS POLICY</u> <br><br>
+
+We may amend this policy as and when necessary to ensure its effectiveness and relevance, or to reflect amendments to applicable laws.
+                                                                                                                        <br><br>
+
+
+</font>
+
+
+</td>
+<td width="50"></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
+<div id="footer"> <!---FOOTER. -->
+
+<table width="100%" border="0" height="60" style="background-color:silver;" align="center" background="fmbgfadingash.jpg">
+<tbody><tr><td align="center"><font size="2" face="arial,tahoma" color="black">&nbsp;<a href="aboutus.php" class="myClass"><font color="black">About Us</font></a>&nbsp;|&nbsp;
+<a href="contactform.php" class="myClass"><font color="black">Contact Us</font></a> &nbsp;|&nbsp;<a href="terms.php" class="myClass" onclick="return popup(this, 'notes')"><font color="black">Our Terms and Conditions</font></a>
+&nbsp;|&nbsp;<a href="privacy.php" class="myClass"><font color="black">Privacy Policy</font></a> &nbsp;|&nbsp;<a href="http://www.legislation.gov.uk/ukpga/1998/29/contents" class="myClass" onclick="return popup(this, 'notes')"><font color="black">Data Protection</font></a>&nbsp;|&nbsp;<a href="safety.php" class="myClass" onclick="return popup(this, 'notes')"><font color="black">Safety Information</font></a> &nbsp;|
+        &nbsp;<a href="contactform.php" class="myClass"><font color="black">Comments and Complaints</font></a> &nbsp;</font></td>
+</tr>
+<tr><td colspan="7" align="center"><font size="2" face="arial,tahoma" color="black">&nbsp;<a href="http://www.fmclassifieds.com" class="myClass"><font color="black">Home</font></a>&nbsp;|&nbsp;<font size="2" face="arial" color="black">Business Registration No:07893838.</font>&nbsp;|&nbsp;<a href="freechat.php" class="myClass"><font size="2" face="arial" color="black">UK FREE CHAT Rooms</font></a></font></td></tr>
+
+
+
+
+
+
+
+</tbody></table></div></body></html>
