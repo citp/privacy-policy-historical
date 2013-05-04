@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsbiggests.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107162729id_/http%3A//www.worldsbiggests.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsbiggests.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504031401id_/http%3A//www.worldsbiggests.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,5 +25,3 @@ This site contains links to other sites. [The World's Biggests](http://www.world
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.worldsbiggests.com/p/contact-us.html).
-
-[**Read more...**](http://www.worldsbiggests.com/p/privacy-policy.html)
