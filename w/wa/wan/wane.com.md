@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wane.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021163604id_/http%3A//www.wane.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wane.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504182048id_/http%3A//www.wane.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
