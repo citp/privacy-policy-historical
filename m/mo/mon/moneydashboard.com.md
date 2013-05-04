@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103122828id_/http%3A//www.moneydashboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504102022id_/http%3A//www.moneydashboard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy — Money Dashboard
 
-## Privacy Policy
+## Privacy Policy - March 2013
 
-This is the privacy policy for The One Place Capital Limited (trading as Money Dashboard), a company registered in Scotland (company number SC301187) with a registered office at 5th Floor, 125 Princes Street, Edinburgh, EH2 4AD (“we”, “us”, “our”) in relation to the use of personal information provided in relation to the use of the website and online account and personal finance management services provided at, www.moneydashboard.com (“the Service”).
+This is the privacy policy for The One Place Capital Limited (trading as Money Dashboard), a company registered in Scotland (company number SC301187) with a registered office at 5th Floor, 125 Princes Street, Edinburgh, EH2 4AD (“we”, “us”, “our”) in relation to the use of personal information provided in relation to the use of the website and online account and personal finance management services provided at, [www.moneydashboard.com]() (“the Service”).
 
 We know that you’ll want to know exactly what information we gather about you as a user of our Service (“User”), and how we intend to use (and just as importantly, not use) that information.
 
 We'll try to keep everything in this document as straightforward as possible, but if there’s anything you don’t understand or you’re not happy about, or if you just want to suggest improvements please get in touch with us by:
 
   * Emailing us at [info@moneydashboard.com](mailto:info@moneydashboard.com)
-  * Writing to the Chief Executive Officer, Money Dashboard, 18 Charlotte Square, Edinburgh EH2 4DF, or
-  * Phoning us on: 0845 119 3300.
+  * Writing to the Chief Executive Officer, Money Dashboard, 18 Charlotte Square, Edinburgh EH2 4DF.
 
 
 
-Money Dashboard has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through [http://www.moneydashboard.com.](https://web.archive.org/web/20121103122828id_/http://www.moneydashboard.com/privacy-and-cookie-policy/)
+Money Dashboard has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through [www.moneydashboard.com](). 
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as indicated above. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -33,18 +32,22 @@ We keep track of the internet addresses from which Users visit us, and track the
 We will use the personal information which we collect for the purposes of registering you as a User of our services, correspondence, or participating in online surveys to help us enhance our services and products for you, and to send a one-time email to your friends about our site upon your request.
 
 We also ask for personal information at registration to enable us to ask security related questions if you later ask us for a new password.  
-In addition we will use your personal information and information from your account aggregation for the purposes of analysing it and making suggestions which may enable you to make savings or consider alternative or additional products to the ones which you are using. These suggestions can be delivered either in the service or by way of email or text messages to you.
+In addition we will use your personal information and information from your account aggregation for the purposes of analysing it and making suggestions which may enable you to make savings or consider alternative or additional products to the ones which you are using. These suggestions can be delivered either in the service or by way of email or text messages to you. This may involve us sending limited details about you (which will not identify you) to our partners so that we can tailor suggested products for you more accurately.
 
-We may perform statistical analyses of Users’ behaviour as a whole. This allows us to measure relative interest in various areas of our site for marketing and advertising purposes. Any information we collect is used to improve the content of the site; to enhance Users' experiences when visiting our site; and to customise the content and/or layout of our pages.
+Any information we collect is used to improve the content of the site; to enhance Users' experiences when visiting our site; and to customise the content and/or layout of our pages.
 
-We do not share, rent or sell personal information for any reason that is not disclosed in this Policy or apparent to you at the time the information is requested.
+We also use personal information in performing statistical analysis of Users’ behaviour as a whole and; and to help in the to creation of anonymised statistical data (which we may use at our discretion (including licensing to third parties). 
+
+We do not share, personal information for any reason that is not disclosed in this Policy or apparent to you at the time the information is requested and we do not sell or rent any personal information.
 
 ### Other people who have to be able to access your information
 
-We use a company called Yodlee Inc. (www.yodlee.com) to provide software that lets you add details of the accounts which you want to include in the service (“account aggregation”). When you aggregate an account Yodlee collects and stores securely your log in details, such as User name and password. This information is never disclosed to us and is subject to Yodlee’s privacy policy. For further information on how Yodlee keeps your information secure please visit [](http://www.yodlee.com/security.html)<http://www.yodlee.com/security.html>  
+We use a company called Yodlee Inc. ([www.yodlee.com](http://www.yodlee.com/)) to provide software that lets you add details of the accounts which you want to include in the service (“account aggregation”). When you aggregate an account Yodlee collects and stores securely your log in details, such as User name and password. This information is never disclosed to us and is subject to Yodlee’s privacy policy. For further information on how Yodlee keeps your information secure please visit [](http://www.yodlee.com/security.html)<http://www.yodlee.com/security.html>  
 Yodlee are headquartered in the USA. They have provided account aggregation to top U.K & U.S financial institutions for more than 10 years. We have a contract with Yodlee which requires them to be bound by our privacy policy and to meet the requirements of the Data Protection Act in just the same way as it applies to us.
 
 ### The information we may have to give to somebody else
+
+We may transfer your personal information to any company within our group from time to time, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
 We may share your personal information in the following ways:
 
@@ -66,6 +69,8 @@ We will retain your information for as long as your account is active or as need
 ### How long we keep your data
 
 Once deleted by you the data will be automatically and immediately deleted from our systems and we cannot access it.
+
+We reserve the right however to continue to use any anonymised statistical data which we created during your use of the Service.
 
 If you delete your account we will automatically and immediately delete all information which we hold on you when we deactivate your account.
 
@@ -98,7 +103,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 We may need to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, prior to the change becoming effective, we will tell you by email, or by a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-## Cookie Policy
+## Cookies and Other Tracking Technologies
 
 The Money Dashboard website uses cookies to enhance your experience of our website. Cookies are small data files which are placed on a website visitor’s computer or mobile device and are stored on the hard drive. The information contained within cookies can only be read by our server. They cannot be used to read or gather personal information that you have not specifically entered by yourself. 
 
@@ -120,4 +125,4 @@ Our website also contains cookies set by third party websites (i.e. Social netwo
 
 More information on how to control or manage cookies can be found at AboutCookies.org .
 
-Last updated: 28th September 2012.
+Last updated: March 2013.
