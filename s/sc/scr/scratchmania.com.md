@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315124147id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504041207id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
-# ScratchMania.com - Privacy and Security policy
+# ScratchMania - Privacy and Security policy
 
-**Privacy and Security policy**
-
-We at ScratchMania.com hold your privacy and security in the highest regard.  
+ We at ScratchMania.com hold your privacy and security in the highest regard.  
 ScratchMania.com is committed to respect and protect your privacy.
 
 **Account Information:**  
@@ -18,7 +16,7 @@ If you register to become a customer of our services, we may use the personal in
 We will only provide these companies that information which is reasonably required to perform the service, and they will be prohibited from using that information for any other purpose. Generally, when any of our third-party contractors or partners collect and/or have access to your personal information we require that they adhere to our stated privacy policies and protect the confidentiality of your personal information. We collect e-mail addresses of those who communicate with us via e-mail.  
 To be unsubscribed from our mailing list, please send our support team (support (at) ScratchMania.com) a blank e-mail with the text "remove" in the subject.  
 Help and support is also available. We have implemented a professional customer support team ready to assist you 24 hours a day, 7 days a week.  
-Please do not hesitate to contact the ScratchMania.com team. Just click on [contact us](https://web.archive.org/contact/contact.html "contact us").
+Please do not hesitate to contact the ScratchMania.com team. Just click on [contact us](http://www.scratchmania.com/contact/contact.html "contact us").
 
 **How Do I Agree to the Privacy Policy?**  
 This Privacy Policy is an integral part of Donateu Limited and ScratchMania.com  
@@ -33,6 +31,3 @@ Our winnings information is stored in a secure operating environment.
 Our payment process is focused on user friendly procedure and comfortable use through a variety of payment methods. ScratchMania.com offers a wide host of deposit options and fast cash outs. All the options are user friendly and highly secure.  
 All credit and debit card transactions are processed by Donateu Limited which is a corporation incorporated under the laws of Cyprus.  
 Naturally you may have additional questions. That’s great. please do not hesitate to contact our Customer Support center at any time, our Customer Service representatives will be more than happy to assist you.
-
-  
-
