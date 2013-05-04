@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231094953id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504160552id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
 
 # Privacy Policy - DivaVillage.com: Fashion, Entertainment, Beauty, Hair, Hot Finds
 
