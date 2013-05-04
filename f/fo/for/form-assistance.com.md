@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the form-assistance.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220223329id_/http%3A//form-assistance.com/privacy.php%3FPPG%3DFA3999%26source%3D%26dn%3DForm-Assistance.com%26d%3DForm-Assistance.com%26t%3D%26TargetSite%3DFORMASSISTCOM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the form-assistance.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504143846id_/http%3A//www.form-assistance.com/privacy.php%3FPPG%3DFA3999%26source%3D%26dn%3DForm-Assistance.com%26d%3DForm-Assistance.com%26t%3D%26TargetSite%3DFORMASSISTCOM) for the most accurate reproduction.*
 
 # Form-Assistance.com
 
