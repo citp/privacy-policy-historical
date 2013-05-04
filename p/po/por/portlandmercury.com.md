@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134147id_/http%3A//www.portlandmercury.com/portland/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504065447id_/http%3A//www.portlandmercury.com/portland/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Privacy Policy | Portland Mercury
 
