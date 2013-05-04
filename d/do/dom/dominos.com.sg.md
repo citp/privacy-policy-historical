@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com.sg privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101023343id_/http%3A//dominos.com.sg/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.sg privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504072343id_/http%3A//www.dominos.com.sg/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # Domino's Pizza Singapore - Privacy
 
