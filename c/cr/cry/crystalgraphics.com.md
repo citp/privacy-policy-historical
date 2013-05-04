@@ -1,110 +1,76 @@
-> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130170320id_/http%3A//privacy-policy.truste.com/verified-policy/www.crystalgraphics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504163027id_/http%3A//www.crystalgraphics.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy for www.crystalgraphics.com
+# CrystalGraphics - Energize your presentations, Videos and Web sites!
 
-Effective on December 31, 2010 
+CrystalGraphics Privacy Policy
 
-This privacy statement describes how CrystalGraphics, Inc. collects and uses the personal information you provide on our Web site: [www.crystalgraphics.com ](http://www.crystalgraphics.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Welcome to CrystalGraphics' Internet website! We are proud to have this opportunity to tell you a little about our products and our company. We are confident you like what you see. But before you begin exploring, we'd like to review the steps we have taken to ensure that on-line visitors of all ages have a safe, enjoyable experience.
 
-**TRUSTe**
+**Our Commitment to Privacy**
 
-CrystalGraphics, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+Your privacy is important to us. At CrystalGraphics, we value our customers’ privacy and have made it our policy to provide on-line content that requires minimal collection of information from our visitors. Furthermore, to better protect your privacy we provide this notice explaining our on-line information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we intend to make it available on our homepage and at every point where personally identifiable information may be requested. Any significant changes to this Privacy Policy shall be printed in blue italics for a period of 30 days.
 
-If you have questions or concerns regarding this policy, you should first contact us at [orders@crystalgraphics.com ](mailto:orders@crystalgraphics.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+**How We Collect Information**
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+Below are some of the ways in which a visitor may provide information to us on-line and how we may use that information.
 
-## Collection and Use of Personal Information
+**Domain Name Recognition**
 
-We collect the following personal information from you
+Our web servers automatically recognizes a visitor's domain name, however, they do not recognize a visitor's e-mail.
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
+**Use of Cookies**
 
+Cookies are small bits of information that a website transfers to an individual's computer for record keeping purposes. We use cookies in a variety of ways to create a more personalized on-line experience for the user. These cookies contain no personal information about you and no one but CrystalGraphics can retrieve the cookies. These cookies are stored within your browser. Information which may be obtained through cookies is not sold, rented or provided to third parties and is not used internally by CrystalGraphics for any purpose other than to learn in the aggregate which websites may have referred our website visitors, as well as to enhance your experience on our website.
 
+**Information Actively Provided by Our Visitors**
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+We do not require visitors to register or provide any information before entering our websites. However, there are several places where visitors may choose to provide personally identifiable information about themselves. CrystalGraphics treats this information as strictly confidential. Unless we tell you otherwise, CrystalGraphics uses the information only for the purpose it was provided and will not give, lease, trade, share or sell this personal information to another entity or person outside of CrystalGraphics. 
 
-We use this information to
+**For example:**
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send you requested product or service information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Conduct research and analysis
-  * Display content based upon your interests
-  * Facilitate your transactions with other users
+  * **E-Newsletters:** Some of our pages permit you to register to receive e-mail newsletters and/or product or promotional update emails in the future by providing your name and e-mail address. We will not give, lease, trade, share or sell these names or email addresses to another entity or person outside of CrystalGraphics. Any e-mail you receive from CrystalGraphics will allow you to "unsubscribe" from this informational service at any time. 
+  * **Free or Trial Product Downloads:** Some of our pages permit you to download free or trial software after providing your name and e-mail address. Generally, just below those name and email fields, you are also provided with an option to receive e-mail newsletters and/or product or promotional update emails in the future. We will not give, lease, trade, share or sell these names or email addresses to another entity or person outside of CrystalGraphics. Any e-mail you receive from CrystalGraphics will allow you to unsubscribe from this informational service at any time.
+  * **Purchase Pages** : You may also buy products on our website, in which case you will be asked for your name, address and credit card or other payment information. This information will be treated by CrystalGraphics as strictly confidential and is used by CrystalGraphics only for the purpose of verifying and collecting the payment and shipping the order to you at the address specified. It is never provided in any form to any person outside CrystalGraphics or to any other company, except that your name and address are provided to our shipping company and, in some cases, to the government for tax purposes, if required by law. Any follow-up or product or promotional e-mail you receive from CrystalGraphics after your purchase will allow you to unsubscribe from this informational service at any time.
+  * **Questions** : On some pages our visitors can submit comments or ask questions. The only personally identifiable information that we collect is the sender’s name and e-mail address. We will not give, lease, trade, share or sell these names or email addresses to another entity or person outside of CrystalGraphics. We do not save any personally identifiable information associated with comments, and we only save e-mail addresses associated with questions in order to respond to those questions.
+  * **Sweepstakes** : We occasionally offer sweepstakes on our pages. We collect the name and email addresses of the people entering the sweepstakes. Rarely, this information may be shared with the company providing the sweepstakes prizes, but if so, this fact will be clearly stated in the online entry form. Otherwise, we will not give, lease, trade, share or sell these names or email addresses to another entity or person outside of CrystalGraphics. Of course, we also collect the information necessary for prize fulfillment from those who win. If a prize is valued at over $600, a social security number will be requested. The first initial, last name, hometown and state of all winners will be included on a Winners List. The Winners List will be provided upon request and as required by law. Information required for tax purposes, email addresses, the Winner’s List or other information required by law is kept as required by law. All other information is deleted within 60 days of the final selection of the sweepstakes’ prize winners.
+  * **Other Features** : There may be other features available on our website which may require some personally identifiable information to use the feature. We only use the personally identifiable information to provide the feature and delete it within a reasonable period of time after the information is no longer necessary.
 
 
 
-**Choice/Opt-Out**
+**Unsubscribing from Our Email List**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [orders@crystalgraphics.com ](mailto:orders@crystalgraphics.com).
+Every promotional e-mail you receive from CrystalGraphics should offer you the means to easily unsubscribe from CrystalGraphics’ mailing list within 72 hours. If you have difficulties using this feature, or want to report any problems with its effectiveness, you may report any such problems and/or request that you be immediately unsubscribed by [contacting us](mailto:%20abuse@CrystalGraphics.com). If you want to find out how and when you got on our mailing list, you may also contact us at this same email address.
 
-**Information Obtained from Third Parties**
+**Aggregate Information**
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+Aggregate information about which pages visitors visit is only used for internal review as we continue to improve our website. 
 
-## Information Sharing
+**Our Commitment to Data Security**
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate and effective physical, electronic, and managerial procedures to safeguard and secure the information we collect on-line.
 
-We may also disclose your personal information
+**This Privacy Policy Is For Our On-line Customers and Website Visitors**
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if CrystalGraphics, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+This Privacy Policy is for our customers and others who visit our website. It does not apply to information which we may collect by means other than over the Internet.
 
+**Links**
 
+Our policy is to occasionally provide electronic links to other sites which may be of interest to visitors to our website. However, content on websites can change quickly, so we cannot always guarantee the appropriateness of the content of sites we link to.
 
-We make your contact information available to other users that you transact with on this site to help complete the transaction.
+**How to Contact Us**
 
-## Cookies and Other Tracking Technologies
+Should you have other questions or concerns about our privacy policy, please don't hesitate to contact us at:
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+[E-mail address](mailto:marketing@CrystalGraphics.com)  
+Phone (408) 496-6175
 
-_Web beacons_
+CrystalGraphics, Inc.  
+Marketing Department  
+3350 Scott Blvd. Building 14  
+Santa Clara, CA USA 95054
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+Your Friends at CrystalGraphics
 
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+Copyright © CrystalGraphics, Inc.
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of CrystalGraphics, Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-## Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can contact us at [orders@crystalgraphics.com ](mailto:orders@crystalgraphics.com)
-
-## Additional Policy Information
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [orders@crystalgraphics.com ](mailto:orders@crystalgraphics.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-CrystalGraphics, Inc. 
-
-3350 Scott Blvd. Building 14 
-
-Santa Clara, CA, United States 95054
-
-Phone: (408) 496-6175 
+**Effective** : **_January 20, 2004_**
