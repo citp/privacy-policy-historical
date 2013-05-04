@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thehypnoticsecret.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429073033id_/http%3A//www.thehypnoticsecret.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehypnoticsecret.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504134338id_/http%3A//www.thehypnoticsecret.com/privacy) for the most accurate reproduction.*
 
 # » Privacy » The Law Of Attraction - Money Can Be Attracted
 
 ## OTC Publishing Website Privacy Statement
 
-This document was last updated on November 29, 2009.
+This document was last updated on December 27,2012.
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**  
 OTC Publishing is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.thehypnoticsecret.com, you acknowledge and fully understand OTC Publishing Company’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
@@ -56,5 +56,5 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 OTC Publishing  
 **Attention: Privacy Statement Personnel**  
-370 West Camino Gardens Blvd, Boca Raton, FL 33432  
+7863 San Marcos Place, Boca Raton, FL 33433  
 OTC Publishing will use commercially reasonable efforts to promptly respond and resolve any problem or question.
