@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219181432id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504231638id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Software for SEO link building, social media marketing and public relations | BuzzStream
+# Privacy Policy - BuzzStream
 
 Last Updated: August 24, 2011
 
