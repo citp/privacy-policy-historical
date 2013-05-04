@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesoleil.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031233947id_/http%3A//bluesoleil.com/company/Default.aspx%3Ftopic%3DPrivac_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesoleil.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504125238id_/http%3A//bluesoleil.com/company/Default.aspx%3Ftopic%3DPrivac_Policy) for the most accurate reproduction.*
 
 # BlueSoleil - Support
 
