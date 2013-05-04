@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weekendnotes.com.au privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429153038id_/http%3A//www.weekendnotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekendnotes.com.au privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504032938id_/http%3A//www.weekendnotes.com.au/wn-privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 **Privacy Policy**
 
