@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mouthhealthy.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103195027id_/http%3A//www.mouthhealthy.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouthhealthy.org privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505012412id_/http%3A//www.mouthhealthy.org/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MouthHealthy
+# Privacy Policy - MouthHealthy - American Dental Association
 
 PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. It explains how the American Dental Association (ADA) and/or its subsidiary and affiliated entities (collectively, "ADA," "we," "us" or "our") collects information about you (whether you're a parent or a child) through our website and how this information is then used or disclosed. This Privacy Policy statement does not apply to those of our websites that do not display or link to this statement or that have their own privacy policy statements or to information we may collect from you or about you in other ways, including through emails you may send to us. We may update this statement from time to time by posting updated terms. You are responsible for periodically reading this statement. If you use the MouthHealthy™ website after we have updated this statement, you acknowledge that you have read the updated terms and consent to our revised privacy practices.
 
