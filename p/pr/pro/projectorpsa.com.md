@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectorpsa.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231081425id_/http%3A//www.projectorpsa.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectorpsa.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505034711id_/http%3A//www.projectorpsa.com/policy.html) for the most accurate reproduction.*
 
 # Professional Services Automation from Projector PSA - Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-We at [Projector PSA, Inc.](https://web.archive.org/) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information that you share with us. This document (the “Privacy Policy”) describes the online privacy practices for this web site (the “Site”) and discloses the types of information that we gather, how we use it, and how to correct or change it. For information on Projector PSA's commitment to handling personal information in accordance with the Safe Harbor Privacy Principles published by the U.S. Department of Commerce please [click here](https://web.archive.org/web/20121231081425id_/http%3A//www.projectorpsa.com/safeharbor.html).
+We at [Projector PSA, Inc.](https://web.archive.org/) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information that you share with us. This document (the “Privacy Policy”) describes the online privacy practices for this web site (the “Site”) and discloses the types of information that we gather, how we use it, and how to correct or change it. For information on Projector PSA's commitment to handling personal information in accordance with the Safe Harbor Privacy Principles published by the U.S. Department of Commerce please [click here](https://web.archive.org/web/20130505034711id_/http%3A//www.projectorpsa.com/safeharbor.html).
 
 ## Changes to the Privacy Policy
 
