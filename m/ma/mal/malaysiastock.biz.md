@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysiastock.biz privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006053708id_/http%3A//www.malaysiastock.biz/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiastock.biz privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505030001id_/http%3A//www.malaysiastock.biz/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - www.malaysiastock.biz
 
