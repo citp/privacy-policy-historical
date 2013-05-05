@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224022106id_/http%3A//fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505040516id_/http%3A//fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
      Saturday, 01 January 2011 20:24 
      Christopher Phillips 
-     Hits: 2009 
+     Hits: 2441 
 
 **What information do we collect?**   
 We collect information from you when you register on our site.
