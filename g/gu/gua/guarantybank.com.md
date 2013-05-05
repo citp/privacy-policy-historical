@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210338id_/http%3A//guarantybank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505054334id_/http%3A//guarantybank.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Guaranty Bank
+# Privacy Notice | Guaranty Bank
 
 **FACTS**
 
-|  **WHAT DOES Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC DO WITH YOUR PERSONAL INFORMATION?**    
+|  **WHAT DOES Guaranty Bank (d/b/a BestBank in Michigan and Georgia) DO WITH YOUR PERSONAL INFORMATION?**    
 ---|---  
   
 **Why?**
@@ -25,9 +25,6 @@ The types of personal information we collect and share depend on the product or 
   * account balances and transaction history
   * payment history and credit history
 
-
-
-When you are _no longer_ our customer, we continue to share your information as described in this notice.  
   
 ---|---  
   
@@ -35,7 +32,7 @@ When you are _no longer_ our customer, we continue to share your information as 
 
 | 
 
-All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC chooses to share; and whether you can limit this sharing.  
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Guaranty Bank (d/b/a BestBank in Michigan and Georgia) chooses to share; and whether you can limit this sharing.  
   
 ---|---  
   
@@ -43,7 +40,7 @@ All financial companies need to share customers’ personal information to run t
 
 | 
 
-**Does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC share?**
+**Does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) share?**
 
 | 
 
@@ -89,11 +86,11 @@ information about your transactions and experiences
 
 | 
 
-YES
+NO
 
 | 
 
-NO  
+We don't share  
   
 **For our affiliates’ everyday business purposes –**
 
@@ -121,19 +118,33 @@ We don’t share
 
 | 
 
-NO
+YES
 
 | 
 
-We don’t share  
+YES  
+  
+**  To limit our sharing**
+
+| 
+
+  * Call 1-800-235-4636
+  * For loan customers, press option 1, 2, 0
+  * For deposit customers, press option 8, 0
+
+
+
+**Please note:**
+
+If you are a _new_ customer, we can begin sharing your information **30** days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in the notice. However, you can contact us at any time to limit our sharing.  
+  
+---|---  
   
 **Questions?**
 
 | 
 
 Call 1-800-235-4636  
-  
----|---  
   
 **Who we are**  
   
@@ -143,19 +154,19 @@ Call 1-800-235-4636
 
 | 
 
-Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC  
+Guaranty Bank (d/b/a BestBank in Michigan and Georgia)  
   
 **What we do**  
   
 ---  
   
-**How does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC protect my personal information?**
+**How does Guaranty Bank (d/b/a BestBank in Michigan and Georgia)  protect my personal information?**
 
 | 
 
 To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
   
-**How does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC collect my personal information?**
+**How does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) collect my personal information?**
 
 | 
 
@@ -183,6 +194,12 @@ Federal law gives you the right to limit only
 
 State laws and individual companies may give you additional rights to limit sharing.  
   
+**What happens I limit sharing for an account I hold jointly with someone?**
+
+| 
+
+ Your choices will apply to everyone on your account.  
+  
 **Definitions**  
   
 ---  
@@ -193,7 +210,7 @@ State laws and individual companies may give you additional rights to limit shar
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _Our affiliates include the following companies – Shelter Mortgage Company LLC and Guaranty Mortgage Services LLC._
+  * _Guaranty Bank (d/b/a BestBank in Michigan and Georgia) has no affiliates._
 
   
   
@@ -203,7 +220,7 @@ Companies related by common ownership or control. They can be financial and nonf
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _Guaranty Bank _does not share_ with nonaffiliates so they can market to you._
+  * _Nonaffiliates we share with can include mortgage companies._
 
   
   
@@ -213,7 +230,7 @@ Companies not related by common ownership or control. They can be financial and 
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
-  * _Our joint marketing partners include companies such as credit card companies, insurance companies and merchant service companies._
+  * _Our joint marketing partners include companies such as credit card companies, insurance companies, merchant service companies and mortgage companies._
 
   
   
