@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017084737id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506000137id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
 
-# Design Style
+# Privacy Policy - Eclipse Mining Consortium
 
+Active Miners | Round Duration | Round Shares | Current Speed | US1 | US2 | US3  
+---|---|---|---|---|---|---  
+1933 | 02:00:26 | 1516959 | 2.86 TH/s | 1321.89 GH/s | 796.82 GH/s | 757.66 GH/s  
+PPS Rate: 0.00000236 /sh | Difficulty: 10076293 | Last Trade: $115.98 | Daily Avg: $114.0034 USD  
+---|---|---|---  
+  
 **What information do we collect?**  
 We collect information from you when you register on our site.   
 When registering on our site, you may be asked to enter your: name, e-mail address, mailing address, phone number, bitcoin or namecoin wallet ID. You may, however, visit our site anonymously.
@@ -33,7 +39,8 @@ We use cookies to help us remember login information and to save your preference
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. 
 
 **Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.   
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. 
+
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
