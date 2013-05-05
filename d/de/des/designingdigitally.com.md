@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2012-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120907193218id_/http%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505102100id_/http%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
 
 # E-Learning Development | Designing Digitally, Inc. Privacy Policy
 
@@ -12,25 +12,25 @@ Designing Digitally may change this policy from time to time by updating this pa
 **What we collect at Designing Digitally, Inc.**  
 We may collect the following information:
 
-  * name and company/business name
-  * email address
-  * phone number
-  * other information such as your commentary & questions on the Request Free Quote page
+  * Name and company/business name
+  * E-mail address
+  * Phone number
+  * Other information such as your commentary & questions on the Request Free Quote page
 
 
 
 **What we do with the information we gather**  
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We require this information to understand your needs and to provide you with better service, and in particular for the following reasons:
 
-  * Internal record keeping of your contact information for future outreach.
+  * Internal record-keeping of your contact information for future outreach.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting, using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
 
 **Security**  
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in-place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 **How we use cookies**  
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
@@ -47,12 +47,12 @@ Our website may contain links to other websites of interest. However, once you h
 **Controlling your personal information**  
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+You may request details on personal information, which we hold about you under the Data Protection Act of1998. A small fee will be payable. If you would like a copy of the information held on you, please write to:
 
 **Designing Digitally, Inc.  
 8401 Claude Thomas Rd.   
-Suite 23   
+Suite 30   
 Franklin, Ohio 45005 **
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at this address: [info@designingdigitally.com](mailto:info@designingdigitally.com). We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at this address: info@designingdigitally.com. We will promptly correct any information found to be incorrect.
