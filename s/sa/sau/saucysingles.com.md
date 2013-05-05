@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104083104id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505034912id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Casual Dating at SaucySingles.com
 
 ### Privacy Policy
 
-(' **We** ') Alcuda Ltd(as subsidiary of Bulova Invest Ltd, company number 1585862 (BVI)) are committed to protecting and respecting your privacy.
+(' **We** ') Alcuda Ltd(as subsidiary of Bulova Invest Ltd, company number 1585862 (British Virgin Islands)) are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
-
-We are the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** ').
 
 **What information do we collect about you?**
 
@@ -71,6 +69,9 @@ We would like to send you information about goods and services offered by us and
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [admin@saucysingles.com](mailto:admin@saucysingles.com)
 
+Our site is SSL secured which means that when you may need to enter information such as your bank details, passwords and addresses - the information cannot be intercepted by a third party as the data gets encrypted and secured.
+
+  
 **Cookies**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Site and to deliver a better and more personalised service. They enable us: 
