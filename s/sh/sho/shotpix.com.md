@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the shotpix.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103065623id_/http%3A//www.shotpix.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotpix.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505063941id_/http%3A//www.shotpix.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Shotpix.com » More Information » Privacy Policy
 
+  
+  
   
 
 
