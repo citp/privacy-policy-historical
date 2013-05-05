@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104073130id_/http%3A//www.peterpanbus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505194246id_/http%3A//peterpanbus.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Peter Pan Bus
 
@@ -75,9 +75,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Peter Pan Bus Lines, inc.  
-www.peterpanbus.com  
 P.O. Box 1776 ,   
-Springfield, MA 01102-1776   
-[customerservice@peterpanbus.com](mailto:customerservice@peterpanbus.com)
+Springfield, MA 01102-1776  
+[Connect with our Customer Care Center here.](http://support.peterpanbus.com/)
 
-Customers requiring ADA assistance for specific schedules may call 800.343.9999 or [email us](mailto:customerservice@peterpanbus.com) to make a reservation 48 hours in advance of your scheduled travel date and time.
+Customers requiring ADA assistance for specific schedules may call us at 1-800-343-9999 for assistance.
