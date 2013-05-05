@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bonusbagging.co.uk privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126180914id_/http%3A//www.bonusbagging.co.uk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonusbagging.co.uk privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505134840id_/http%3A//bonusbagging.co.uk/privacypolicy.php) for the most accurate reproduction.*
 
 # Bonus Bagging Privacy Policy
+
+Bonus Bagging does not store credit card details nor do we share customer details with any 3rd parties.
 
 Bonus Bagging is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Bonus Bagging Web site and governs data collection and usage. By using the Bonus Bagging website, you consent to the data practices described in this statement.
 
@@ -44,4 +46,4 @@ Bonus Bagging will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-Bonus Bagging welcomes your comments regarding this Statement of Privacy. If you believe that Bonus Bagging has not adhered to this Statement, [please contact Bonus Bagging](https://web.archive.org/web/20121126180914id_/http%3A//www.bonusbagging.co.uk/contact_us.php). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Bonus Bagging welcomes your comments regarding this Statement of Privacy. If you believe that Bonus Bagging has not adhered to this Statement, [please contact Bonus Bagging](https://web.archive.org/web/20130505134840id_/http%3A//bonusbagging.co.uk/contact_us.php). We will use commercially reasonable efforts to promptly determine and remedy the problem.
