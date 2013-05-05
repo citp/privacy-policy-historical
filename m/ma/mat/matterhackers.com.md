@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the matterhackers.com privacy policy that was archived on 2012-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120809224925id_/http%3A//www.matterhackers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matterhackers.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505160944id_/http%3A//www.matterhackers.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MatterHackers
-
-The effective date of this policy is February 1, 2012.
 
 MatterHackers, Inc. (the "Company," "we," or "us") created this Privacy Policy for the Web site **www.matterhackers.com** (the "Site"). We want shoppers and other visitors to our Site to know how we use and share their information. We describe that in this policy. Our current operations are intended for users located solely in the United States of America (USA). So, this policy applies only if you are using our Site in the USA. If we expand operations in the future outside the USA, we will develop a privacy policy at that time to apply to those operations.
 
@@ -60,7 +58,7 @@ If you choose to visit the Site, your visit and any dispute over privacy is subj
 
 Questions and Comments. 
 
-If you have any concern about privacy at the Site, please send us a thorough description to [questions.privacypolicy@matterhackers.com](mailto:questions.privacypolicy@matterhackers.com), and we will try to consider and resolve it in a manner that is respectful of your concerns while permitting us to conduct our business.
+If you have any concern about privacy at the Site, please send us a thorough description to [questions@matterhackers.com](mailto:questions@matterhackers.com), and we will try to consider and resolve it in a manner that is respectful of your concerns while permitting us to conduct our business.
 
 Updates and Changes to Privacy Policy; Effective Date.
 
