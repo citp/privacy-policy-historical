@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hackett.co.uk privacy policy that was archived on 2012-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028055732id_/http%3A//www.hackett.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hackett.co.uk privacy policy that was archived on 2013-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505102050id_/http%3A//www.hackett.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy | Hackett</title>
@@ -22,6 +22,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.hackett.com/skin/frontend/enterprise/hackett/css/widgets.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.hackett.com/skin/frontend/enterprise/hackett/js/media_element/mediaelementplayer.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.hackett.com/skin/frontend/enterprise/hackett/css/pod1.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.hackett.com/skin/frontend/enterprise/hackett/css/scrennInner.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.hackett.com/skin/frontend/enterprise/hackett/css/print.css" media="print">
 <script type="text/javascript" src="http://www.hackett.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://www.hackett.com/js/lib/ccard.js"></script>
@@ -73,6 +74,60 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy">
+
+<script type="text/javascript">
+    //<![CDATA[
+
+    var getGlobalMessagesList= function(message){
+        return '<ul class="messages">'+
+                    '<li class="error-msg">'+
+                        '<ul>'+
+                            '<li>'+
+                                '<span>'+message+'</span>'+
+                            '</li>'+
+                        '</ul>'+
+                    '</li>'+
+                '</ul>';  
+    };
+
+    var showGlobalMessagesLayout= function(list){
+        var block=  '<div id="global_messages_overlay"></div>'+
+            '<div id="global_messages">'+
+                '<div id="global_messages_content">'+
+                    '<a id="global_messages_close" href="javascript:void(0)" title="Hide messages"></a>'+
+                    '<div class="messages-top">'+
+                        '<div class="messages-title">'+
+                            '<span>THANK YOU</span>'+
+                        '</div>'+
+                    '</div>'+
+                    list+
+                    '<div class="messages-bottom">'+
+                        '<img class="logo" src="http://www.hackett.com/skin/frontend/enterprise/hackett/images/email/lg_hackett_small.gif">'+
+                    '</div>'+
+                '</div>'+
+            '</div>';
+        
+        jQuery('body').append(block);
+        
+        messages= jQuery('#global_messages_content');
+        messages.css("position","absolute");
+        messages.css("top", Math.max(0, ((jQuery(window).height() - messages.outerHeight()) / 2) + jQuery(window).scrollTop()) + "px");
+        
+        var closeGlobalMessagesLayout= function(){
+            $('global_messages').hide({ duration: 0.2, delay: 0.1 }).remove();
+            $('global_messages_overlay').hide({ duration: 0.2, delay:0.1 }).remove();
+        };
+        Event.observe('global_messages_close', 'click',function() {closeGlobalMessagesLayout();});
+        Event.observe('global_messages_overlay', 'click', function() {closeGlobalMessagesLayout();});
+        Event.observe(window, 'load', function() {
+            setTimeout(function() {closeGlobalMessagesLayout()}, 10000);
+        });
+    };
+    
+    
+    //]]>
+</script>
+
 
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
@@ -270,7 +325,7 @@ return false;
 <div class="nav-container">
     <ul id="nav">
         <li class="level0 nav-1 level-top first parent">
-<a href="http://www.hackett.com/men" class="level-top">
+<a href="http://www.hackett.com/men" class="level-top ">
 <span>Men</span>
 </a>
 <ul class="level0">
@@ -278,171 +333,195 @@ return false;
 <span>Shop By Product</span>
 <ul class="level1">
 <li class="level2 nav-1-1-1 first">
+<a href="http://www.hackett.com/men/shop-by-product/new-arrivals">
+<span>New Arrivals</span>
+</a>
+</li><li class="level2 nav-1-1-2">
 <a href="http://www.hackett.com/men/shop-by-product/coats-jackets">
 <span>Coats &amp; Jackets</span>
 </a>
-</li><li class="level2 nav-1-1-2">
+</li><li class="level2 nav-1-1-3">
 <a href="http://www.hackett.com/men/shop-by-product/casual-shirts">
 <span>Casual Shirts</span>
 </a>
-</li><li class="level2 nav-1-1-3">
+</li><li class="level2 nav-1-1-4">
 <a href="http://www.hackett.com/men/shop-by-product/formal-shirts">
 <span>Formal Shirts</span>
 </a>
-</li><li class="level2 nav-1-1-4">
+</li><li class="level2 nav-1-1-5">
 <a href="http://www.hackett.com/men/shop-by-product/casual-trousers">
 <span>Casual Trousers</span>
 </a>
-</li><li class="level2 nav-1-1-5">
+</li><li class="level2 nav-1-1-6">
 <a href="http://www.hackett.com/men/shop-by-product/formal-trousers">
 <span>Formal Trousers</span>
 </a>
-</li><li class="level2 nav-1-1-6">
+</li><li class="level2 nav-1-1-7">
 <a href="http://www.hackett.com/men/shop-by-product/suits">
 <span>Suits</span>
 </a>
-</li><li class="level2 nav-1-1-7">
+</li><li class="level2 nav-1-1-8">
 <a href="http://www.hackett.com/men/shop-by-product/jackets">
 <span>Jackets</span>
 </a>
-</li><li class="level2 nav-1-1-8">
+</li><li class="level2 nav-1-1-9">
 <a href="http://www.hackett.com/men/shop-by-product/polo-shirts">
 <span>Polo Shirts</span>
 </a>
-</li><li class="level2 nav-1-1-9">
+</li><li class="level2 nav-1-1-10">
 <a href="http://www.hackett.com/men/shop-by-product/rugby-shirts">
 <span>Rugby Shirts</span>
 </a>
-</li><li class="level2 nav-1-1-10">
+</li><li class="level2 nav-1-1-11">
 <a href="http://www.hackett.com/men/shop-by-product/knitwear">
 <span>Knitwear</span>
 </a>
-</li><li class="level2 nav-1-1-11">
+</li><li class="level2 nav-1-1-12">
 <a href="http://www.hackett.com/men/shop-by-product/sweatshirts">
 <span>Sweatshirts</span>
 </a>
-</li><li class="level2 nav-1-1-12">
+</li><li class="level2 nav-1-1-13">
 <a href="http://www.hackett.com/men/shop-by-product/occasionwear">
 <span>Occasionwear</span>
 </a>
-</li><li class="level2 nav-1-1-13 last">
-<a href="http://www.hackett.com/men/shop-by-product/underwear-nightwear">
-<span>Underwear &amp; Nightwear</span>
+</li><li class="level2 nav-1-1-14">
+<a href="http://www.hackett.com/men/shop-by-product/shorts-swimwear">
+<span>Shorts &amp; Swimwear</span>
+</a>
+</li><li class="level2 nav-1-1-15 last">
+<a href="/sale/men-s-sale">
+<span>Sale</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-2 parent">
 <span>Shop By Collection</span>
 <ul class="level1">
-<li class="level2 nav-1-2-14 first">
-<a href="http://www.hackett.com/men/shop-by-collection/modern-prep">
-<span>Modern Prep</span>
-</a>
-</li><li class="level2 nav-1-2-15">
+<li class="level2 nav-1-2-16 first">
 <a href="http://www.hackett.com/men/shop-by-collection/hackett-mayfair">
 <span>Hackett Mayfair</span>
 </a>
-</li><li class="level2 nav-1-2-16">
+</li><li class="level2 nav-1-2-17">
 <a href="http://www.hackett.com/men/shop-by-collection/aston-martin-racing">
 <span>Aston Martin Racing</span>
 </a>
-</li><li class="level2 nav-1-2-17">
-<a href="http://www.hackett.com/men/shop-by-collection/town-country">
-<span>Town &amp; Country</span>
-</a>
 </li><li class="level2 nav-1-2-18">
-<a href="http://www.hackett.com/men/shop-by-collection/jubilee">
-<span>Jubilee</span>
-</a>
-</li><li class="level2 nav-1-2-19 last">
 <a href="/collections/sponsorship-collections/the-london-rowing-club">
 <span>The London Rowing Club</span>
+</a>
+</li><li class="level2 nav-1-2-19">
+<a href="http://www.hackett.com/men/shop-by-collection/the-boat-race">
+<span>The Boat Race</span>
+</a>
+</li><li class="level2 nav-1-2-20">
+<a href="/collections/spring-summer/blues">
+<span>Spring Blues</span>
+</a>
+</li><li class="level2 nav-1-2-21 last">
+<a href="/collections/spring-summer/desert-rally-holding/desert-rally">
+<span>Desert Rally</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-1-3 parent">
 <span>Featured</span>
 <ul class="level1">
-<li class="level2 nav-1-3-20 first">
-<a href="http://www.hackett.com/men/featured/new-arrivals">
-<span>New Arrivals</span>
+<li class="level2 nav-1-3-22 first">
+<a href="http://www.hackett.com/men/featured/spring-summer-2013-lookbook">
+<span>Men's SS13 Lookbook</span>
 </a>
-</li><li class="level2 nav-1-3-21 last">
-<a href="http://www.hackett.com/men/featured/autumn-winter-2012-lookbook">
-<span>Autumn Winter 2012 Lookbook</span>
+</li><li class="level2 nav-1-3-23 last">
+<a href="/mens-ss13-brochure">
+<span>Men's SS13 Brochure</span>
 </a>
 </li>
 </ul>
 </li>
 </ul>
 </li><li class="level0 nav-2 level-top parent">
-<a href="http://www.hackett.com/kids" class="level-top">
+<a href="http://www.hackett.com/kids" class="level-top ">
 <span>Kids</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-2-1 first parent">
-<span>Shop By Product</span>
+<span>Boys - Shop By Product</span>
 <ul class="level1">
 <li class="level2 nav-2-1-1 first">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-coat-jackets">
-<span>Coat &amp; Jackets</span>
+<a href="http://www.hackett.com/kids/shop-by-product/new-arrivals">
+<span>New Arrivals</span>
 </a>
 </li><li class="level2 nav-2-1-2">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-polo-shirts">
-<span>Polo Shirts</span>
+<a href="http://www.hackett.com/kids/shop-by-product/coat-jackets">
+<span>Coats &amp; Jackets</span>
 </a>
 </li><li class="level2 nav-2-1-3">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-rugby-shirts">
-<span>Rugby Shirts</span>
+<a href="http://www.hackett.com/kids/shop-by-product/polo-shirts">
+<span>Polo Shirts</span>
 </a>
 </li><li class="level2 nav-2-1-4">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-shirts">
-<span>Shirts</span>
+<a href="http://www.hackett.com/kids/shop-by-product/rugby-shirts">
+<span>Rugby Shirts</span>
 </a>
 </li><li class="level2 nav-2-1-5">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-knitwear">
-<span>Knitwear</span>
+<a href="http://www.hackett.com/kids/shop-by-product/shirts">
+<span>Shirts</span>
 </a>
 </li><li class="level2 nav-2-1-6">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-trousers">
-<span>Trousers</span>
+<a href="http://www.hackett.com/kids/shop-by-product/knitwear">
+<span>Knitwear</span>
 </a>
 </li><li class="level2 nav-2-1-7">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-sweatshirts">
-<span>Sweatshirts</span>
+<a href="http://www.hackett.com/kids/shop-by-product/trousers">
+<span>Trousers</span>
 </a>
 </li><li class="level2 nav-2-1-8">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-accessories">
-<span>Accessories</span>
+<a href="http://www.hackett.com/kids/shop-by-product/sweatshirts">
+<span>T-Shirts &amp; Sweatshirts</span>
 </a>
 </li><li class="level2 nav-2-1-9">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-tailoring">
+<a href="http://www.hackett.com/kids/shop-by-product/accessories">
+<span>Accessories</span>
+</a>
+</li><li class="level2 nav-2-1-10">
+<a href="http://www.hackett.com/kids/shop-by-product/tailoring">
 <span>Tailoring</span>
 </a>
-</li><li class="level2 nav-2-1-10 last">
-<a href="http://www.hackett.com/kids/shop-by-product/kids-girlswear">
-<span>Girlswear</span>
+</li><li class="level2 nav-2-1-11">
+<a href="http://www.hackett.com/kids/shop-by-product/shorts-swimwear">
+<span>Shorts &amp; Swimwear</span>
+</a>
+</li><li class="level2 nav-2-1-12 last">
+<a href="/sale/kids-sale">
+<span>Sale</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-2-2 parent">
+<span>Girls - Shop By Product</span>
+<ul class="level1">
+<li class="level2 nav-2-2-13 first last">
+<a href="http://www.hackett.com/kids/shop-by-product-girls/girlswear">
+<span>All Girlswear</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-3 parent">
 <span>Featured</span>
 <ul class="level1">
-<li class="level2 nav-2-2-11 first">
-<a href="http://www.hackett.com/kids/featured/new-arrivals">
-<span>New Arrivals</span>
+<li class="level2 nav-2-3-14 first">
+<a href="http://www.hackett.com/kids/featured/collection">
+<span>Little Britons Collection</span>
 </a>
-</li><li class="level2 nav-2-2-12 last">
-<a href="/kids-brochure">
-<span>Kids' Brochure</span>
+</li><li class="level2 nav-2-3-15 last">
+<a href="kids-ss13-brochure">
+<span>Kids' SS13 Brochure</span>
 </a>
 </li>
 </ul>
 </li>
-<li class="top-nav-image"><a href="/seasonal-videos?tab=4"><img src="http://www.hackett.com/media/catalog/category/KIDS_MEGAMENU_IMAGE.jpg" alt="Kids"></a></li>
 </ul>
 </li><li class="level0 nav-3 level-top parent">
-<a href="http://www.hackett.com/accessories" class="level-top">
+<a href="http://www.hackett.com/accessories" class="level-top ">
 <span>Accessories</span>
 </a>
 <ul class="level0">
@@ -450,187 +529,243 @@ return false;
 <span>Shop by product</span>
 <ul class="level1">
 <li class="level2 nav-3-1-1 first">
+<a href="http://www.hackett.com/accessories/shop-by-product/new-arrivals">
+<span>New Arrivals</span>
+</a>
+</li><li class="level2 nav-3-1-2">
 <a href="http://www.hackett.com/accessories/shop-by-product/bags-luggage">
 <span>Bags &amp; Luggage</span>
 </a>
-</li><li class="level2 nav-3-1-2">
+</li><li class="level2 nav-3-1-3">
 <a href="http://www.hackett.com/accessories/shop-by-product/belts-braces">
 <span>Belts &amp; Braces</span>
 </a>
-</li><li class="level2 nav-3-1-3">
+</li><li class="level2 nav-3-1-4">
 <a href="http://www.hackett.com/accessories/shop-by-product/cufflinks">
 <span>Cufflinks</span>
 </a>
-</li><li class="level2 nav-3-1-4">
+</li><li class="level2 nav-3-1-5">
 <a href="http://www.hackett.com/accessories/shop-by-product/leather-accessories">
 <span>Leather Accessories</span>
 </a>
-</li><li class="level2 nav-3-1-5">
+</li><li class="level2 nav-3-1-6">
+<a href="http://www.hackett.com/accessories/shop-by-product/shoes">
+<span>Shoes</span>
+</a>
+</li><li class="level2 nav-3-1-7">
 <a href="http://www.hackett.com/accessories/shop-by-product/socks">
 <span>Socks</span>
 </a>
-</li><li class="level2 nav-3-1-6">
+</li><li class="level2 nav-3-1-8">
 <a href="http://www.hackett.com/accessories/shop-by-product/scarves">
 <span>Scarves</span>
 </a>
-</li><li class="level2 nav-3-1-7">
+</li><li class="level2 nav-3-1-9">
+<a href="http://www.hackett.com/accessories/shop-by-product/hats-gloves">
+<span>Hats</span>
+</a>
+</li><li class="level2 nav-3-1-10">
 <a href="http://www.hackett.com/accessories/shop-by-product/ties-bow-ties">
 <span>Ties &amp; Bow Ties</span>
 </a>
-</li><li class="level2 nav-3-1-8">
+</li><li class="level2 nav-3-1-11">
 <a href="http://www.hackett.com/accessories/shop-by-product/formal-accessories">
 <span>Formal Accessories</span>
 </a>
-</li><li class="level2 nav-3-1-9">
-<a href="http://www.hackett.com/accessories/shop-by-product/luxury-gifts">
-<span>Luxury Gifts</span>
-</a>
-</li><li class="level2 nav-3-1-10 last">
-<a href="http://www.hackett.com/accessories/shop-by-product/handkerchief-pocket-square">
+</li><li class="level2 nav-3-1-12">
+<a href="http://www.hackett.com/accessories/shop-by-product/handkerchiefs-pocket-squares">
 <span>Handkerchiefs &amp; Pocket Squares</span>
 </a>
+</li><li class="level2 nav-3-1-13 last">
+<a href="/sale/accessories-sale">
+<span>Sale</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-3-2 parent">
+<span>Featured</span>
+<ul class="level1">
+<li class="level2 nav-3-2-14 first last">
+<a href="http://www.hackett.com/accessories/featured/luxury-gifts">
+<span>Luxury Gifts</span>
+</a>
 </li>
 </ul>
 </li>
-<li class="top-nav-image"><a href="/seasonal-videos?tab=2"><img src="http://www.hackett.com/media/catalog/category/video_dropdown_placeholder.jpg" alt="Accessories"></a></li>
+<li class="top-nav-image"><a href="/mens-ss13-brochure"><img src="http://www.hackett.com/media/catalog/category/mensbrochure.jpg" alt="Accessories"></a></li>
 </ul>
 </li><li class="level0 nav-4 level-top parent">
-<a href="http://www.hackett.com/collections" class="level-top">
+<a href="http://www.hackett.com/collections" class="level-top ">
 <span>Collections</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-4-1 first parent">
-<span>Autumn Winter</span>
+<span>Spring Summer</span>
 <ul class="level1">
 <li class="level2 nav-4-1-1 first">
-<a href="http://www.hackett.com/collections/autumn-winter/modern-prep">
-<span>Modern Prep</span>
+<a href="/holiday-shop-main/holiday-shop">
+<span>Holiday Shop</span>
 </a>
 </li><li class="level2 nav-4-1-2">
-<a href="http://www.hackett.com/collections/autumn-winter/town-country">
-<span>Town &amp; Country</span>
-</a>
-</li><li class="level2 nav-4-1-3">
-<a href="http://www.hackett.com/collections/autumn-winter/hackett-mayfair">
+<a href="http://www.hackett.com/collections/spring-summer/hackett-mayfair">
 <span>Hackett Mayfair</span>
 </a>
-</li><li class="level2 nav-4-1-4 last">
-<a href="http://www.hackett.com/collections/autumn-winter/jubilee">
-<span>Jubilee</span>
+</li><li class="level2 nav-4-1-3">
+<a href="/desert-rally-category/desert-rally-home">
+<span>Desert Rally</span>
+</a>
+</li><li class="level2 nav-4-1-4">
+<a href="http://www.hackett.com/collections/spring-summer/blues">
+<span>Spring Blues</span>
+</a>
+</li><li class="level2 nav-4-1-5 last">
+<a href="http://www.hackett.com/collections/spring-summer/boat-house-collection-1">
+<span>Boat House</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-4-2 parent">
 <span>Sponsorship Collections</span>
 <ul class="level1">
-<li class="level2 nav-4-2-5 first">
-<a href="http://www.hackett.com/collections/sponsorship-collections/aston-martin-rancing">
+<li class="level2 nav-4-2-6 first">
+<a href="/boat-race-info/boat-race-landing">
+<span>The Boat Race</span>
+</a>
+</li><li class="level2 nav-4-2-7">
+<a href="http://www.hackett.com/collections/sponsorship-collections/aston-martin-racing">
 <span>Aston Martin Racing</span>
 </a>
-</li><li class="level2 nav-4-2-6 last">
+</li><li class="level2 nav-4-2-8">
 <a href="http://www.hackett.com/collections/sponsorship-collections/the-london-rowing-club">
 <span>The London Rowing Club</span>
+</a>
+</li><li class="level2 nav-4-2-9 last">
+<a href="http://www.hackett.com/collections/sponsorship-collections/dubai-polo-shirts">
+<span>Dubai Polo Shirts</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-4-3 parent">
 <span>Seasonal Campaigns</span>
 <ul class="level1">
-<li class="level2 nav-4-3-7 first">
-<a href="/men/featured/lookbook">
-<span>Lookbook</span>
+<li class="level2 nav-4-3-10 first">
+<a href="/mens-ss13-brochure">
+<span>Men's SS13 Brochure</span>
 </a>
-</li><li class="level2 nav-4-3-8">
-<a href="/men-brochure">
-<span>Men's Brochure</span>
+</li><li class="level2 nav-4-3-11">
+<a href="kids-ss13-brochure">
+<span>Kids' SS13 Brochure</span>
 </a>
-</li><li class="level2 nav-4-3-9">
-<a href="/kids-brochure">
-<span>Kids' Brochure</span>
+</li><li class="level2 nav-4-3-12">
+<a href="/seasonal-videos?tab=1">
+<span>Men's SS13 Video</span>
 </a>
-</li><li class="level2 nav-4-3-10">
-<a href="/seasonal-videos?tab=2">
-<span>Men's Autumn Winter Video</span>
+</li><li class="level2 nav-4-3-13">
+<a href="/seasonal-videos?tab=3">
+<span>Kids' SS13 Video</span>
 </a>
-</li><li class="level2 nav-4-3-11 last">
-<a href="/seasonal-videos?tab=4">
-<span>Kids' Autumn Winter Video</span>
+</li><li class="level2 nav-4-3-14 last">
+<a href="/men/featured/spring-summer-2013-lookbook">
+<span>Men's SS13 Lookbook</span>
 </a>
 </li>
 </ul>
 </li>
-<li class="top-nav-image"><a href="/men/featured/lookbook"><img src="http://www.hackett.com/media/catalog/category/lookbook_dropdown_placeholder.jpg" alt="Collections"></a></li>
 </ul>
 </li><li class="level0 nav-5 level-top parent">
-<a href="http://www.hackett.com/hackett-style" class="level-top">
-<span>Hackett Style</span>
+<a href="http://www.hackett.com/hackett-style" class="level-top ">
+<span>Hackett Lifestyle</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-5-1 first parent">
 <span>Features &amp; Articles</span>
 <ul class="level1">
 <li class="level2 nav-5-1-1 first">
+<a href="/sartorial-350 ">
+<span>Sartorial Suggestions</span>
+</a>
+</li><li class="level2 nav-5-1-2">
+<a href="/what-to-wear">
+<span>Summer Style: Jackets</span>
+</a>
+</li><li class="level2 nav-5-1-3">
+<a href="/summer-trousers">
+<span>Summer Style: Trousers</span>
+</a>
+</li><li class="level2 nav-5-1-4">
+<a href="/spring-promotion-cat/spring-promotion-landing">
+<span>Win An Aston Martin</span>
+</a>
+</li><li class="level2 nav-5-1-5">
+<a href="/bafta/bafta-intro">
+<span>BAFTA 2013</span>
+</a>
+</li><li class="level2 nav-5-1-6">
+<a href="/lcm">
+<span>London Collections: MEN</span>
+</a>
+</li><li class="level2 nav-5-1-7">
 <a href="/hackett-in-the-press">
 <span>Hackett In The Press</span>
 </a>
-</li><li class="level2 nav-5-1-2">
-<a href="/advertising-campaigns">
-<span>Advertising Campaigns</span>
-</a>
-</li><li class="level2 nav-5-1-3">
-<a href="/men-brochure">
-<span>Men's Autumn Winter Brochure</span>
-</a>
-</li><li class="level2 nav-5-1-4">
-<a href="/kids-brochure">
-<span>Kids' Autumn Winter Brochure</span>
-</a>
-</li><li class="level2 nav-5-1-5 last">
-<a href="/london-collections-men-video">
-<span>London Collections: MEN Video</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-5-2 parent">
-<span>Get The Look</span>
-<ul class="level1">
-<li class="level2 nav-5-2-6 first">
-<a href="/men/featured/lookbook">
-<span>Lookbook</span>
-</a>
-</li><li class="level2 nav-5-2-7">
+</li><li class="level2 nav-5-1-8">
 <a href="/advises">
 <span>Jeremy Advises</span>
 </a>
-</li><li class="level2 nav-5-2-8 last">
+</li><li class="level2 nav-5-1-9 last">
 <a href="/dressed-in-hackett">
 <span>Dressed In Hackett</span>
 </a>
 </li>
 </ul>
+</li><li class="level1 nav-5-2 parent">
+<span>Seasonal Campaigns</span>
+<ul class="level1">
+<li class="level2 nav-5-2-10 first">
+<a href="/mens-ss13-brochure">
+<span>Men's SS13 Brochure</span>
+</a>
+</li><li class="level2 nav-5-2-11">
+<a href="/kids-ss13-brochure">
+<span>Kids' SS13 Brochure</span>
+</a>
+</li><li class="level2 nav-5-2-12">
+<a href="/seasonal-videos?tab=1">
+<span>Men's SS13 Video</span>
+</a>
+</li><li class="level2 nav-5-2-13">
+<a href="/seasonal-videos?tab=3">
+<span>Kids' SS13 Video</span>
+</a>
+</li><li class="level2 nav-5-2-14 last">
+<a href="/advertising-campaigns">
+<span>Advertising Campaigns</span>
+</a>
 </li>
-<li class="top-nav-image"><a href="/about-us/heritage"><img src="http://www.hackett.com/media/catalog/category/heritage_dropdown_placeholder.jpg" alt="Hackett Style"></a></li>
+</ul>
+</li>
+<li class="top-nav-image"><a href="/about-us/heritage"><img src="http://www.hackett.com/media/catalog/category/heritage_dropdown_placeholder.jpg" alt="Hackett Lifestyle"></a></li>
 </ul>
 </li>    <!--<!-- additional menu ---->
-<li class="level0 nav-6 level-top parent last">
+<li class="level0 nav-9 level-top parent last">
     <a href="http://www.hackett.com/sponsorships-events" class="level-top">
         <span>Sponsorships &amp; Events</span>
     </a>
     <ul class="level0">
-        <li class="level1 nav-6-1 first parent">
+        <li class="level1 nav-9-1 first parent">
             <span>Sponsorships</span>
-            <ul class="level1"><li class="level2 nav-6-1-1 first"><a href="http://www.hackett.com/sponsorships-events/sponsors/aston-martin-racing.html"><span>Aston Martin Racing</span></a></li><li class="level2 nav-6-1-2 "><a href="http://www.hackett.com/sponsorships-events/sponsors/british-army-polo.html"><span>British Army Polo</span></a></li><li class="level2 nav-6-1-3 "><a href="http://www.hackett.com/sponsorships-events/sponsors/sahara-force-india-f1.html"><span>Sahara Force India F1</span></a></li><li class="level2 nav-6-1-4 "><a href="http://www.hackett.com/sponsorships-events/sponsors/klosters-snow-polo.html"><span>Klosters Snow Polo</span></a></li><li class="level2 nav-6-1-5 "><a href="http://www.hackett.com/sponsorships-events/sponsors/the-london-rowing-club.html"><span>The London Rowing Club</span></a></li><li class="level2 nav-6-1-6 "><a href="http://www.hackett.com/sponsorships-events/sponsors/british-polo-day-dubai.html"><span>British Polo Day, Dubai</span></a></li><li class="level2 nav-6-1-7 "><a href="http://www.hackett.com/sponsorships-events/sponsors/the-boat-race.html"><span>The Boat Race</span></a></li><li class="level2 nav-6-1-8 "><a href="http://www.hackett.com/sponsorships-events/sponsors/valencia-500-open-tennis.html"><span>Valencia 500 Open Tennis</span></a></li><li class="level2 nav-6-1-9 "><a href="http://www.hackett.com/sponsorships-events/sponsors/german-open-tennis.html"><span>German Open Tennis</span></a></li><li class="level2 nav-6-1-10 last"><a href="http://www.hackett.com/sponsorships-events/sponsors/bnp-paribas-masters.html"><span>BNP Paribas Masters</span></a></li></ul>
+            <ul class="level1"><li class="level2 nav-9-1-1 first"><a href="http://www.hackett.com/sponsorships-events/sponsors/aston-martin-racing.html"><span>Aston Martin Racing</span></a></li><li class="level2 nav-9-1-2 "><a href="http://www.hackett.com/sponsorships-events/sponsors/british-army-polo.html"><span>British Army Polo</span></a></li><li class="level2 nav-9-1-3 "><a href="http://www.hackett.com/sponsorships-events/sponsors/the-london-rowing-club.html"><span>The London Rowing Club</span></a></li><li class="level2 nav-9-1-4 "><a href="http://www.hackett.com/sponsorships-events/sponsors/british-polo-day-dubai.html"><span>British Polo Day, Dubai</span></a></li><li class="level2 nav-9-1-5 "><a href="http://www.hackett.com/sponsorships-events/sponsors/the-boat-race.html"><span>The Boat Race</span></a></li><li class="level2 nav-9-1-6 "><a href="http://www.hackett.com/sponsorships-events/sponsors/german-open-tennis.html"><span>German Open Tennis</span></a></li><li class="level2 nav-9-1-7 last"><a href="http://www.hackett.com/sponsorships-events/sponsors/bnp-paribas-masters.html"><span>BNP Paribas Masters</span></a></li></ul>
         </li>
-        <li class="level1 nav-6-2 parent">
+        <li class="level1 nav-9-2 parent">
             <span>Featured Events</span>
-            <ul class="level1"><li class="level2 nav-6-2-11 first"><a href="http://www.hackett.com/sponsorships-events/events/aston-martin-gte-racing-silverstone.html"><span>Aston Martin GTE Racing - Silverstone</span></a></li><li class="level2 nav-6-2-12 "><a href="http://www.hackett.com/sponsorships-events/events/aston-martin-gte-racing-sao-paulo.html"><span>Aston Martin GTE Racing - Sao Paulo</span></a></li><li class="level2 nav-6-2-13 "><a href="http://www.hackett.com/sponsorships-events/events/aston-martin-gte-racing-mount-fuji.html"><span>Aston Martin GTE Racing - Mount Fuji</span></a></li><li class="level2 nav-6-2-14 "><a href="http://www.hackett.com/sponsorships-events/events/aston-martin-gte-racing-china.html"><span>Aston Martin GTE Racing - China</span></a></li><li class="level2 nav-6-2-15 "><a href="http://www.hackett.com/sponsorships-events/events/valencia-500-open-tennis.html"><span>Valencia 500 Open Tennis</span></a></li><li class="level2 nav-6-2-16 last"><a href="http://www.hackett.com/sponsorships-events/events/bnp-paribas-masters-tennis-paris.html"><span>BNP Paribas Masters Tennis - Paris</span></a></li></ul>
+            <ul class="level1"><li class="level2 nav-9-2-8 first"><a href="http://www.hackett.com/sponsorships-events/events/aston-martin-gte-racing-sao-paulo.html"><span>Aston Martin GTE Racing - Sao Paulo</span></a></li><li class="level2 nav-9-2-9 "><a href="http://www.hackett.com/sponsorships-events/events/aston-martin-gte-racing-mount-fuji.html"><span>Aston Martin GTE Racing - Mount Fuji</span></a></li><li class="level2 nav-9-2-10 "><a href="http://www.hackett.com/sponsorships-events/events/aston-martin-gte-racing-china.html"><span>Aston Martin GTE Racing - China</span></a></li><li class="level2 nav-9-2-11 last"><a href="http://www.hackett.com/sponsorships-events/events/bnp-paribas-masters-tennis-paris.html"><span>BNP Paribas Masters Tennis - Paris</span></a></li></ul>
         </li>
-        <li class="level1 nav-6-3 parent">
+        <li class="level1 nav-9-3 parent">
             <!--<a href="http://www.hackett.com/sponsorships-events/calendar/">
                 <span>SPORTS & SOCIAL CALENDAR</span>
             </a>-->
             <span>SPORTS &amp; SOCIAL CALENDAR</span>
-            <ul class="level1"><li class="level2 nav-6-3-17 first"><a href="http://www.hackett.com/sponsorships-events/calendar/?month=april"><span>April</span></a></li><li class="level2 nav-6-3-18 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=may"><span>May</span></a></li><li class="level2 nav-6-3-19 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=june"><span>June</span></a></li><li class="level2 nav-6-3-20 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=july"><span>July</span></a></li><li class="level2 nav-6-3-21 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=august"><span>August</span></a></li><li class="level2 nav-6-3-22 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=september"><span>September</span></a></li><li class="level2 nav-6-3-23 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=october"><span>October</span></a></li><li class="level2 nav-6-3-24 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=november"><span>November</span></a></li><li class="level2 nav-6-3-25 last"><a href="http://www.hackett.com/sponsorships-events/calendar/?month=december"><span>December</span></a></li></ul>
+            <ul class="level1"><li class="level2 nav-9-3-12 first"><a href="http://www.hackett.com/sponsorships-events/calendar/?month=april"><span>April</span></a></li><li class="level2 nav-9-3-13 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=may"><span>May</span></a></li><li class="level2 nav-9-3-14 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=june"><span>June</span></a></li><li class="level2 nav-9-3-15 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=july"><span>July</span></a></li><li class="level2 nav-9-3-16 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=august"><span>August</span></a></li><li class="level2 nav-9-3-17 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=september"><span>September</span></a></li><li class="level2 nav-9-3-18 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=october"><span>October</span></a></li><li class="level2 nav-9-3-19 "><a href="http://www.hackett.com/sponsorships-events/calendar/?month=november"><span>November</span></a></li><li class="level2 nav-9-3-20 last"><a href="http://www.hackett.com/sponsorships-events/calendar/?month=december"><span>December</span></a></li></ul>
         </li>
     </ul>
 </li>
@@ -668,7 +803,7 @@ return false;
 <p>For more information about our online shop, please read the the Online Shop <a href="http://www.hackett.com/terms-purchase#terms8" target="_blank">Terms Of Purchase, Privacy Policy</a>.</p></div>            </div>
         </div>
                 </div>         <script type="text/javascript">
-var currentUrlVal = '/men/shop-by-collection/aston-martin-racing?p=2';
+var currentUrlVal = '/kids/shop-by-product/polo-shirts?color_group=677_51_674_60&limit=all&price=__0__%2C__1__';
 </script>
 
 <script type="text/javascript">
@@ -693,13 +828,9 @@ function bindCart(){
 <div id="footerTop">
     <div class="container">
         <div id="footer-top1">
-                    <p><a href="http://www.hackett.com/customer-services/delivery"><img src="http://www.hackett.com/media/wysiwyg/homepage/delivery_box.png" alt="Hackett Outlet"> DELIVERY OPTIONS</a></p>
-<!--<p><a href="http://www.hackett.com/sale"><img src="http://www.hackett.com/media/wysiwyg/homepage/past_season_sale_graphic.jpg" alt="Hackett Sale" /> PAST SEASON SALE</a></p>-->                </div>
+                    <p><a href="http://www.hackett.com/sale"><img src="http://www.hackett.com/media/wysiwyg/sale_homepage.jpg" alt="" width="58"> PAST SEASON SALE</a></p>                </div>
                 <div id="footer-top2">
-                    <!--
-<p><a href="http://www.hackett.com/customer-services/delivery"><img src="http://www.hackett.com/media/wysiwyg/homepage/delivery_box.png" alt="Hackett Outlet" /> DELIVERY OPTIONS</a></p>
-
--->                </div>
+                    <a href="http://www.hackett.com/customer-services/delivery"><img src="http://www.hackett.com/media/wysiwyg/homepage/delivery_box.png" alt="Hackett Outlet">DELIVERY OPTIONS</a><p></p>                </div>
 
                 <div id="footer-top3" class="wide">
                     <p><script type="text/javascript">
@@ -756,7 +887,7 @@ return false;
 <ul>
 <li class="heading">Customer Services</li>
 <li><a href="/customer-services/faqs.html">FAQs</a></li>
-<li><a class="lightwindow" href="/fit-and-sizing-guide">Size &amp; Measuring Guide</a></li>
+<li><a href="http://www.hackett.com/fit-and-sizing-guide">Size &amp; Measuring Guide</a></li>
 <li><a href="http://www.hackett.com/customer-services/store-locator">Store Locator</a></li>
 <li><a href="http://www.hackett.com/customer-services/contact-us">Contact Us</a></li>
 <li><a href="http://www.hackett.com/customer-services/returns">Returns &amp; Exchanges</a></li>
@@ -775,6 +906,7 @@ return false;
 <li><a href="http://www.hackett.com/storelocator/services/view/type/6">Tax Free Shopping</a></li>
 <li><a href="http://www.hackett.com/storelocator/services/view/type/7">Barber Service</a></li>
 <li><a href="/storelocator/services/view/type/9/">Shoe Shining</a></li>
+<li><a href="http://www.hackett.com/storelocator/services/view/type/11">Barber Service - Murdock London At Hackett </a></li>
 </ul>
 </div>
 <div class="column last">
