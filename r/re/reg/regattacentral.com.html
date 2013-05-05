@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the regattacentral.com privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005142359id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the regattacentral.com privacy policy that was archived on 2013-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505174007id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -17,8 +17,8 @@
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">  
 
-<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.9.2.custom.min.js"></script>
 
 <script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
 <script type="text/javascript" src="/js/jquery.metadata.js"></script>
@@ -27,16 +27,19 @@
 <script type="text/javascript" src="/js/placeholder.js"></script>
 <script type="text/javascript" src="/js/login.js?ts=20111013"></script>
 <script type="text/javascript" src="/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="/js/tipped-2.4.3/js/excanvas/excanvas.js"></script>
-<script type="text/javascript" src="/js/tipped-2.4.3/js/spinners/spinners.js"></script>
-<script type="text/javascript" src="/js/tipped-2.4.3/js/tipped/tipped.js"></script>
+<script type="text/javascript" src="/js/tipped-3.1.5/js/excanvas/excanvas.js"></script>
+<script type="text/javascript" src="/js/tipped-3.1.5/js/spinners/spinners.min.js"></script>
+<script type="text/javascript" src="/js/tipped-3.1.5/js/tipped/tipped.js"></script>
+
+<script type="text/javascript" src="/js/uas.js"></script>
 
 <script type="text/javascript" src="/js/moment.min.js"></script>
 
 <script type="text/javascript" src="/js/swfobject.js"></script>
 
-<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css">
-<link rel="stylesheet" type="text/css" href="/js/tipped-2.4.3/css/tipped.css">
+<link rel="stylesheet" type="text/css" href="/css/ui-lightness/jquery-ui-1.9.2.custom.min.css">
+
+<link rel="stylesheet" type="text/css" href="/js/tipped-3.1.5/css/tipped/tipped.css">
 
 <link href="/js/tablesorter/style.css" rel="stylesheet" type="text/css">
 <link href="/css/reset.css" rel="stylesheet" type="text/css">
@@ -48,12 +51,13 @@
 <link href="/css/rc2.css" rel="stylesheet" type="text/css">
 <link href="/css/global.css" rel="stylesheet" type="text/css">
 <link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css/rc4.css" rel="stylesheet" type="text/css">
 
 
 
 
 
-<script type="text/javascript" src="/js/date.js"></script>
+<script type="text/javascript" src="/js/date.js?v=23"></script>
 <script>
  var today = 'Today';
  var tomorrow = 'Tomorrow';
@@ -96,6 +100,8 @@
 
 
 
+
+
 <script type="text/javascript">
   $(document).ready(function() {
     Tipped.create('.tipped',{
@@ -116,6 +122,9 @@
 
 
 
+	
+	
+	
 	
 	
 	<div id="headerWrapper">
@@ -153,7 +162,8 @@
 								</a>
 								<div id="sign_box">
 									
-									<form method="post" id="signinForm" action="/information/privacy.jsp">
+									<form method="post" id="signinForm" action="#">
+									<input type="hidden" name="loc" value="/">
 										
 										<input type="hidden" name="tab" value="merchandise">
 										
@@ -174,18 +184,20 @@
 												</td>
 											</tr>
 											<tr>
-												<td colspan="2"><input style="float:left" type="checkbox" value="true" id="persistent" name="persistent"> <label style="padding-left:3px;padding-bottom:4px;white-space: nowrap" for="persistent">Keep me logged in
+												<td colspan="2"><input style="float:left" type="checkbox" value="true" id="rememberMe" name="rememberMe"> <label style="padding-left:3px;padding-bottom:4px;white-space: nowrap" for="rememberMe">Keep me logged in
 												</label></td>
 											</tr>
 										</tbody></table>
 										<p style="clear:both;padding-top:5px;padding-bottom:5px">
 										</p>
 										<div style="text-align:center;padding-top:3px;clear:both">
-											<input type="submit" value=" Login"> <a href="#" style="color:blue" id="cancelLogin">cancel</a>
+											<input id="loginBtn" type="submit" value=" Login">
+											<img id="loginIco" style="display:none;vertical-align: baseline;margin-bottom:-8px" src="/images/wait.gif" border="0">
+											 <a href="#" style="color:blue" id="cancelLogin">cancel</a>
 										</div>
 									</form>
-									<p style="padding-top:5px">
-										<a onclick="" href="/password.jsp">Forget your password?</a>
+									<p style="padding-top:5px"> 
+										Forgot your <a style="color:blue" id="userNmLink" href="#">username</a> or <a style="color:blue" id="pwdResetLink" href="#">password?</a>
 									</p>
 								</div>
 								
@@ -202,7 +214,7 @@
 				<div style="float:right">
 					
 					
-					<a style="padding-top:5px" href="/servlet/VendorRedirector?vid=51" target="_new"><img src="/images/ads/rn.gif" title="RowingNews" name="ad" width="468" height="60" border="0" align="absbottom" id="ad">
+					<a style="padding-top:5px" href="/servlet/VendorRedirector?vid=60" target="_new"><img src="/images/ads/pnra.gif" title="Princeton National Rowing Assoc" name="ad" width="468" height="60" border="0" align="absbottom" id="ad">
 					</a>
 					
 					
@@ -258,6 +270,27 @@
 			</li>
 		</ul>
 	</div>
+		
+
+	<div style="display:none" id="userNmReminder" title="Username Reminder">
+	<form id="userNmFrm">
+		    <fieldset>
+		 		<label for="name">Email Address</label>
+		        <input id="userNmEmail" type="text" name="email" value="" maxlength="128" size="30">
+		        <input type="hidden" name="csrfToken" value="3563637368548">
+		        </fieldset>
+		        </form>
+	</div>
+	<div style="display:none" id="pwdReset" title="Password Reset">
+		<form id="pwdResetFrm">
+		    <fieldset>
+		        <label for="name">Username</label>
+		        <input id="pwdResetUsername" type="text" name="userName" value="" maxlength="128" size="30">
+		        <input type="hidden" name="csrfToken" value="3563637368548">
+		    </fieldset>
+	    </form>
+	</div>
+
 
 
 		<div id="content">
@@ -389,7 +422,7 @@ ul
 	<tbody><tr>
 	<td>
 	
-		RegattaCentral © 2012 
+		RegattaCentral © 2013 
 		
 	</td>
 	<td align="right">
