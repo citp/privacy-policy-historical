@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digitalcinema.com.au privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016015926id_/http%3A//www.digitalcinema.com.au/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitalcinema.com.au privacy policy that was archived on 2013-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505222232id_/http%3A//www.digitalcinema.com.au/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,7 +12,7 @@
 <link rel="canonical" href="http://www.digitalcinema.com.au/terms_privacy.asp">
 		
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
 
@@ -31,7 +31,7 @@
     var PageText_844 = "items in cart";
 </script>
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_196"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = true;
@@ -49,8 +49,10 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <meta name="msvalidate.01" content="1EA6DD0E1581B2C1D119D6CFBB253AC4">
 <meta name="google-site-verification" content="GzqNMEU0y7g3UhYv5IZ-anRUw1h-_mIuymgWgBgcUBo">
 <meta name="google-site-verification" content="NjjLcT6U_uxzdIjLteTuIxXTxaRC6W4Vu1htSuDjXe0">
+<meta name="google-site-verification" content="c_HrLRAiAVnXrTxitOzqjkwyWT0yi1QFGCz-wREuzR0">
 <meta name="alexaVerifyID" content="9GU9B1mTR2vzAU5AuN0qKB6KjKg">
 <meta name="y_key" content="73b3f69a9b4ee10a">
+<meta itemprop="currency" content="AUD">
 <base target="_top">
 
 <!-- stylesheets -->
@@ -118,9 +120,88 @@ ul.tabs li a {
 		<script type="text/javascript" src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/js/pngfix/supersleight-min.js"></script>
 	<![endif]-->
 	 
-	<!-- Sliding effect -->
-	<script src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/js/slide.js" type="text/javascript"></script>
 
+        <!--promotion Banner Slider effect - added on 2-05-2013 by Adarsh Khatri 
+        <script src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/js/promotionBannerSlider.js" type="text/javascript"></script>-->
+
+<!-- promotion banner slider pannel -->
+<script>
+
+$(document).ready(function() {
+
+	//Set Default State of each portfolio piece
+	$(".paging").show();
+	$(".paging a:first").addClass("active");
+		
+	//Get size of images, how many there are, then determin the size of the image reel.
+	var imageWidth = $(".window").width();
+	var imageSum = $(".image_reel img").size();
+	var imageReelWidth = imageWidth * imageSum;
+	
+	//Adjust the image reel to its new size
+	$(".image_reel").css({'width' : imageReelWidth});
+	
+	//Paging + Slider Function
+	rotate = function(){    
+		var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+		var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+		$(".paging a").removeClass('active'); //Remove all active class
+		$active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+		
+		//Slider Animation
+		$(".image_reel").animate({ 
+			left: -image_reelPosition
+		}, 1000 );
+		
+	}; 
+	
+	//Rotation + Timing Event
+	rotateSwitch = function(){        
+		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+			$active = $('.paging a.active').next();
+			if ( $active.length === 0) { //If paging reaches the end...
+				$active = $('.paging a:first'); //go back to first
+			}
+			rotate(); //Trigger the paging and slider function
+		}, 3000); //Timer speed in milliseconds (3 seconds)
+	};
+	
+	rotateSwitch(); //Run function on launch
+	
+	//On Hover
+	$(".image_reel a").hover(function() {
+		clearInterval(play); //Stop the rotation
+	}, function() {
+		rotateSwitch(); //Resume rotation
+	});    
+	
+	//slide up and down when hover over heading 2
+	$(".window").hover(function(){
+		// slide toggle effect set to slow you can set it to fast too.
+		$(".desc").eq( $('.paging a.active').attr("rel") - 1 ).slideToggle("slow");
+		return true;
+	});
+	
+	//On Click
+	$(".paging a").click(function() {    
+		$active = $(this); //Activate the clicked paging
+		//Reset Timer
+		clearInterval(play); //Stop the rotation
+		rotate(); //Trigger rotation immediately
+		rotateSwitch(); // Resume rotation
+		return false; //Prevent browser jump to link anchor
+	});    
+
+});
+
+</script>
+
+
+
+
+<!-- Sliding effect -->
+	<script src="//www.digitalcinema.com.au/v/vspfiles/assets/scripts/sliding-panel/js/slide.js" type="text/javascript"></script>
 
 <!--Sliding Panel Javascript-->
 <script type="text/javascript">
@@ -139,10 +220,58 @@ $(document).ready(function(){
 
 </script>
 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39588677-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+
+
+
+
+
+
 </head>
 
-<body id="body">
-
+<body id="body" onload="MM_preloadImages('https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_01.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_02.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_03.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_04.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_05.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_06.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_07.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_08.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_09.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_10.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_11.jpg, https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_12.jpg,
+https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_01.png,
+https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_02.png,
+https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_03.png,
+https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_04.png,
+https://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_05.png')">
 <div id="container">
 	<div id="content">
 		<!-- modal content -->
@@ -180,14 +309,28 @@ When it comes to the bottom line, you have to ask yourself how much you want to 
 
 <div id="page_wrapper">
 
+<!--<div style="width: 100%;height:30px;background-color: rgb(223, 24, 24);color: rgb(255, 255, 255);font-family:arial; font-size: 12px; line-height:28px; font-weight:bold;margin: 0 auto;
+vertical-align: middle;box-shadow: 3px 0 5px #000;">&nbsp;&nbsp;EASTER WEEKEND: Friday 29th March | CLOSED <span style="BACKGROUND-COLOR: #ffff00;color:#000;padding:0 4px 0 4px;">Easter Saturday 30th March | OPEN 10.00am - 4.00pm</span>  Easter Sunday 31st March | CLOSED , Easter Monday 1 April | CLOSED</div>-->
+
 <!-- HEADER -->
+
+
+
+
 <div id="header">
     <h1><a href="http://www.digitalcinema.com.au/default.asp" title="Home Theatre"><strong>Home Theatre</strong></a></h1>
+<h2><a href="http://www.digitalcinema.com.au/Articles.asp?ID=251" title="Visit our retail store"><strong>Visit our retail store</strong></a></h2>
+
     
-    <div id="site_tools"> <a href="/shoppingcart.asp"><img src="/v/vspfiles/templates/digitalcinem/images/template/cart.gif" width="11" height="10" alt="Shopping Cart"></a>
+    <div id="site_tools"> <a href="/shoppingcart.asp"><img src="/v/vspfiles/templates/digitalcinem/images/template/cart.gif" alt="Shopping Cart"></a>
     	<a href="/shoppingcart.asp">View Cart</a> |
-        <a href="/myaccount.asp">My Account / Order Status</a>&nbsp;|&nbsp;<a href="http://www.facebook.com/digitalcinema" title="Connect on Facebook" style="text-decoration: none;" target="_blank"><img src="/v/facebook.gif" alt="facebook"></a>&nbsp;<a href="http://twitter.com/digitalcinemau" title="Follow Us on Twitter" style="text-decoration: none;" target="_blank"><img src="/v/twitter.gif" alt="twitter"></a>
-<br><br><div id="fb-root"></div>
+        <a href="/myaccount.asp">My Account / Order Status</a>&nbsp;|&nbsp;<a href="http://www.facebook.com/digitalcinema" title="Connect on Facebook" style="text-decoration: none;" target="_blank"><img src="/v/facebook.gif" alt="facebook"></a><a href="http://twitter.com/digitalcinemau" title="Follow Us on Twitter" style="text-decoration: none;" target="_blank"><img src="/v/twitter.gif" alt="twitter"></a><a href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http://www.digitalcinema.com.au/" title="Google+" style="text-decoration: none;" target="_blank"><img src="/v/google+.gif" alt="google+"></a>
+
+<!--
+<div class="fb-like fb_edge_widget_with_comment fb_iframe_widget" data-href="http://www.facebook.com/digitalcinema" style="left:5px;top:3px;" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false" fb-xfbml-state="rendered"><span style="height: 20px; width: 77px;"><iframe id="f29bcf8f0c" name="f36a6262cc" scrolling="no" style="border: none; overflow: hidden; height: 20px; width: 77px;" title="Like this content on Facebook." class="fb_ltr" src="http://www.facebook.com/plugins/like.php?api_key=&amp;locale=en_US&amp;sdk=joey&amp;channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D19%23cb%3Df89c5b2d%26origin%3Dhttp%253A%252F%252Fwww.digitalcinema.com.au%252Ffbef5b564%26domain%3Dwww.digitalcinema.com.au%26relation%3Dparent.parent&amp;href=http%3A%2F%2Fwww.facebook.com%2Fdigitalcinema&amp;node_type=link&amp;width=110&amp;layout=button_count&amp;colorscheme=light&amp;show_faces=false&amp;send=false&amp;extended_social_context=false"></iframe></span></div>
+
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" style="border: none;" src="http://static.ak.facebook.com/connect/xd_arbiter.php?version=19#channel=fbef5b564&amp;origin=http%3A%2F%2Fwww.digitalcinema.com.au&amp;channel_path=%2FInfocus-Home-Cinema-Projector-Deals-and-Reviews-s%2F56.htm%3Ffb_xd_fragment%23xd_sig%3Df2f58eeaac%26"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" style="border: none;" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=19#channel=fbef5b564&amp;origin=http%3A%2F%2Fwww.digitalcinema.com.au&amp;channel_path=%2FInfocus-Home-Cinema-Projector-Deals-and-Reviews-s%2F56.htm%3Ffb_xd_fragment%23xd_sig%3Df2f58eeaac%26"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>-->
 
 <script type="text/javascript">(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -197,7 +340,7 @@ When it comes to the bottom line, you have to ask yourself how much you want to 
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<g:plusone size="small" width="175" annotation="inline"></g:plusone>&nbsp;<div class="fb-like" data-href="http://www.facebook.com/digitalcinema" style="left:40px;" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false"></div>
+
 </div>
 
 <!-- SHOPPING CART DISPLAY
@@ -210,40 +353,219 @@ When it comes to the bottom line, you have to ask yourself how much you want to 
 		<div id="display_search_wrapper">
 		<div id="display_search">
         <form action="/SearchResults.asp" method="get" name="SearchBoxForm">
-                    <input type="text" value="" name="Search" class="empty" onclick="this.value=''">                    
+                    <input type="text" value="" name="Search" class="empty ui-autocomplete-input" onclick="this.value=''" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">                    
                     <img src="/v/vspfiles/templates/digitalcinem/images/template/btn_go_search.gif" border="0" align="top" style="cursor: pointer;" onclick="document.forms['SearchBoxForm'].submit();">
         </form>
         </div>
     	</div>
-        
+
+<div style="position:absolute;top:0;right:-14px;"><a href="https://www.digitalcinema.com.au/Latest-Promotions-Digital-Cinema-s/461.htm"><img src="/v/vspfiles/templates/digitalcinem/images/template/header-promotion-klipsch-rf.png" border="0"></a>
 
 </div>
 
-<div id="top_nav">
-<table id="Table_01" width="960" height="39" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-			<a id="home" href="http://www.digitalcinema.com.au" title="Home Theatre"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/homepage-navbar_01.png" width="63" height="39" alt="Home Theatre"></a></td>
-		<td>
-			<a id="about-us" href="/aboutus.asp" title="Home Theatre"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/homepage-navbar_02.png" width="93" height="39" alt="About Us"></a></td>
-		<td>
-			<a id="contact-us" href="/articles.asp?ID=132"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/homepage-navbar_03.png" width="122" height="39" alt="Contact Us"></a></td>
-		<td> <a id="contact-us" href="http://www.digitalcinema.com.au/Articles.asp?ID=251"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/homepage-navbar_04.png" width="682" height="39" alt="Home Theatre Retail Store"></a></td>
-	</tr>
-</tbody></table>
+      
+<div style="height:36px; width:418px; position:absolute; top:83px; left:10px;">
+<ul id="nav2">
+		<li>
+			<a href="http://www.digitalcinema.com.au/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_01.png',20)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_01.png" width="50" height="36" style="display:block" id="Image20"></a>
+
+</li>
+		<li>
+			<a href="http://www.digitalcinema.com.au/articles.asp?ID=132" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_02.png',21)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_02.png" width="89" height="36" style="display:block" id="Image21"></a>
+
+		</li>
+		<li>
+			<a href="https://www.digitalcinema.com.au/Articles.asp?ID=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_03.png',22)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_03.png" width="77" height="36" style="display:block" id="Image22"></a>
+		</li>
+		<li>
+			<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_04.png',23)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_04.png" width="88" height="36" style="display:block" id="Image23"></a>
+            
+<ul style="padding:0; margin:0;">
+<div style="background-color: #0166da; padding:10px; margin-top:1px; border-radius:8px; height:465px; width:700px;">
+            <li><div style="float:left;width:140px;">
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Acer" style="padding:4px 10px 4px 10px">Acer</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=AIX+Records" style="padding:4px 10px 4px 10px;">AIX Records</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=AKG" style="padding:4px 10px 4px 10px;">AKG</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Arcam" style="padding:4px 10px 4px 10px;">Arcam</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Audio+Dimension" style="padding:4px 10px 4px 10px;">Audio Dimension</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Audiolab" style="padding:4px 10px 4px 10px;">Audiolab</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=AVF" style="padding:4px 10px 4px 10px;">AVF</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Bello" style="padding:4px 10px 4px 10px;">Bello</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=BenQ" style="padding:4px 10px 4px 10px;">BenQ</a>
+            <a href="https://www.digitalcinema.com.au/Boston-Acoustics-Speakers-Subwoofers-s/127.htm" style="padding:4px 10px 4px 10px;">Boston Acoustics</a>
+            <a href="http://www.digitalcinema.com.au/Bowers-Wilkins-Speakers-and-Subwoofers-s/67.htm" style="padding:4px 10px 4px 10px;">Bowers &amp; Wilkins</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Canon" style="padding:4px 10px 4px 10px;">Canon</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Canton" style="padding:4px 10px 4px 10px;">Canton</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Carson" style="padding:4px 10px 4px 10px;">Carson</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Carson+Screens" style="padding:4px 10px 4px 10px;">Carson Screens</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Casio" style="padding:4px 10px 4px 10px;">Casio</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=ClearAudio" style="padding:4px 10px 4px 10px;">ClearAudio</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Conran+Audio" style="padding:4px 10px 4px 10px;">Conran Audio</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Creek" style="padding:4px 10px 4px 10px;">Creek</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=DALI" style="padding:4px 10px 4px 10px;">DALI</a>
+</div>
+            <div style="float:left;width:140px;">
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Definitive+Technology" style="padding:4px 10px 4px 10px;">Definitive Technology</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Denon" style="padding:4px 10px 4px 10px;">Denon</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Dune+HD" style="padding:4px 10px 4px 10px;">Dune HD</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=ELAN" style="padding:4px 10px 4px 10px">ELAN</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Elegance+Screens" style="padding:4px 10px 4px 10px;">Elegance Screens</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Energy" style="padding:4px 10px 4px 10px;">Energy</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Epos" style="padding:4px 10px 4px 10px;">Epos</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Epoz" style="padding:4px 10px 4px 10px;">Epoz</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Epson" style="padding:4px 10px 4px 10px;">Epson</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Fanny+Wang" style="padding:4px 10px 4px 10px;">Fanny Wang</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Gear4" style="padding:4px 10px 4px 10px;">Gear4</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Harman+Kardon" style="padding:4px 10px 4px 10px;">Harmon Kardon</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=HiVi+Swan" style="padding:4px 10px 4px 10px;">HiVi Swan</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Infocus" style="padding:4px 10px 4px 10px;">Infocus</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Jamo" style="padding:4px 10px 4px 10px;">Jamo</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=JBL" style="padding:4px 10px 4px 10px;">JBL</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Jenson" style="padding:4px 10px 4px 10px;">Jenson</a>
+                        <a href="http://www.digitalcinema.com.au/JVC-Home-Cinema-Projectors-and-Packages-s/52.htm" style="padding:4px 10px 4px 10px;">JVC</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=KEF" style="padding:4px 10px 4px 10px;">KEF</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Kenwood" style="padding:4px 10px 4px 10px;">Kenwood</a>
+            </div>
+                        <div style="float:left;width:140px;">
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Klipsch" style="padding:4px 10px 4px 10px;">Klipsch</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Koss" style="padding:4px 10px 4px 10px;">Koss</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Lehmann+Audio" style="padding:4px 10px 4px 10px;">Lehmann Audio</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Lenehan+Audio" style="padding:4px 10px 4px 10px;">Lelehan Audio</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Logic3" style="padding:4px 10px 4px 10px;">Logic3</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=LP+Morgan" style="padding:4px 10px 4px 10px;">LP Morgan</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Magnat" style="padding:4px 10px 4px 10px">Magnat</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Marantz" style="padding:4px 10px 4px 10px;">Marantz</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MartinLogan" style="padding:4px 10px 4px 10px;">Martin Logan</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MIT" style="padding:4px 10px 4px 10px;">MIT</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Mitsubishi" style="padding:4px 10px 4px 10px;">Mitsubishi</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=MK+Sound" style="padding:4px 10px 4px 10px;">MK Sound</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=NAD" style="padding:4px 10px 4px 10px;">NAD</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Niles" style="padding:4px 10px 4px 10px;">Niles</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=NuForce" style="padding:4px 10px 4px 10px;">NU Force</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=onkyo" style="padding:4px 10px 4px 10px;">Onkyo</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Optoma" style="padding:4px 10px 4px 10px;">Optoma</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Panasonic" style="padding:4px 10px 4px 10px;">Panasonic</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Pioneer" style="padding:4px 10px 4px 10px;">Pioneer</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=PolkAudio" style="padding:4px 10px 4px 10px;">PolkAudio</a>
+                        
+            </div>
+            <div style="float:left;width:140px;">
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=PRO+AV" style="padding:4px 10px 4px 10px;">Pro AV</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=PSB" style="padding:4px 10px 4px 10px;">PSB Speakers</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Pure+Acoustics" style="padding:4px 10px 4px 10px;">Pure Acoustics</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Python" style="padding:4px 10px 4px 10px;">Python</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Q+Acoustics" style="padding:4px 10px 4px 10px;">Q Acoustics</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=REVEL" style="padding:4px 10px 4px 10px;">REVEL</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Runco" style="padding:4px 10px 4px 10px;">Runco</a>
+            <a href="http://www.digitalcinema.com.au/SAMSUNG-Television-s/501.htm" style="padding:4px 10px 4px 10px;">Samsung</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sangean" style="padding:4px 10px 4px 10px;">Sangean</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sanyo" style="padding:4px 10px 4px 10px;">Sanyo</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Scansonic" style="padding:4px 10px 4px 10px">Scansonic</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Screen+Technics" style="padding:4px 10px 4px 10px;">Screen Technics</a>
+            <a href="https://www.digitalcinema.com.au/SENNHEISER-Headphones-s/1866.htm" style="padding:4px 10px 4px 10px;">Sennheiser</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Sharp" style="padding:4px 10px 4px 10px;">Sharp</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=SIM2" style="padding:4px 10px 4px 10px;">SIM2</a>
+            <a href="https://www.digitalcinema.com.au/SearchResults.asp?mfg=Sonorous" style="padding:4px 10px 4px 10px;">Sonorous</a>
+            <a href="http://www.digitalcinema.com.au/Home-Automation-Multi-Room-Sound-Systems-Sonos-s/224.htm" style="padding:4px 10px 4px 10px;">Sonos</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sony" style="padding:4px 10px 4px 10px;">Sony</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Soundcast" style="padding:4px 10px 4px 10px;">Soundcast</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Speakercraft" style="padding:4px 10px 4px 10px;">Speakercraft</a>        
+            </div>
+            
+            <div style="float:left;width:140px;">
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Sunfire" style="padding:4px 10px 4px 10px;">Sunfire</a>   
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Tangent" style="padding:4px 10px 4px 10px;">Tangent</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Tannoy" style="padding:4px 10px 4px 10px;">Tannoy</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Tauris" style="padding:4px 10px 4px 10px;">Tauris</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=TCL" style="padding:4px 10px 4px 10px;">TCL</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Ultralift" style="padding:4px 10px 4px 10px;">Ultralift</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Usher+Audio" style="padding:4px 10px 4px 10px;">Usher Audio</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Velodyne" style="padding:4px 10px 4px 10px;">Velodyne</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Venturi" style="padding:4px 10px 4px 10px;">Venturi</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Vision+One" style="padding:4px 10px 4px 10px;">Vision One</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Vivitek" style="padding:4px 10px 4px 10px;">Vivitek</a>
+                        <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Vogel" style="padding:4px 10px 4px 10px;">Vogel</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Wharfedale" style="padding:4px 10px 4px 10px;">Wharfedale</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Wireworld" style="padding:4px 10px 4px 10px;">Wireworld</a>
+            <a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=Xantech" style="padding:4px 10px 4px 10px;">Xantech</a></div>
+            </li>
+    </div>
+          </ul>
+		</li>
+		<li>
+
+			<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_hover_05.png',24)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/template/nav_bar_05.png" width="114" height="36" style="display:block" id="Image24"></a>
+            <ul>
+            <div style="background-color: #0166da; padding:10px; margin-top:1px; border-radius:8px; height:235px; width:450px;">
+            <li>
+            <div style="float:left;width:150px;">
+            <a href="https://www.digitalcinema.com.au/AV-Accessories-s/112.htm" style="padding:4px 10px 4px 10px;">Accessories</a>
+            <a href="https://www.digitalcinema.com.au/home-cinema-5-1-Channel-AV-Receiver-Speaker-Packages-s/256.htm" style="padding:4px 10px 4px 10px">Audio Packages</a>
+            <a href="https://www.digitalcinema.com.au/Home-Theatre-Hi-Fi-AV-Furniture-s/1087.htm" style="padding:4px 10px 4px 10px;">AV Furniture</a>
+            <a href="https://www.digitalcinema.com.au/Home-Cinema-Blu-Ray-DVD-CD-and-Optical-Disk-Players-s/208.htm" style="padding:4px 10px 4px 10px">Blu ray &amp; DVD Players</a>
+            <a href="https://www.digitalcinema.com.au/Projectors-Business-Projectors-s/357.htm" style="padding:4px 10px 4px 10px;">Business Projectors</a>
+            <a href="https://www.digitalcinema.com.au/Home-Cinema-Projectors-Home-Cinema-Data-Video-Projectors-s/3.htm" style="padding:4px 10px 4px 10px">Cinema Projectors</a>
+            <a href="https://www.digitalcinema.com.au/Digital-Radio-DAB-s/491.htm" style="padding:4px 10px 4px 10px">Digital Radio DAB+</a>
+            <a href="https://www.digitalcinema.com.au/HEADPHONES-s/1620.htm" style="padding:4px 10px 4px 10px">Headphones</a>
+            <a href="https://www.digitalcinema.com.au/home-theatre-home-cinema-Hi-Fi-Components-s/294.htm" style="padding:4px 10px 4px 10px;">HiFi Components</a>
+            <a href="https://www.digitalcinema.com.au/HiFi-HiFi-systems-Stereo-Music-Systems-s/318.htm" style="padding:4px 10px 4px 10px">HiFi Systems</a>
+            </div>
+
+            <div style="float:left;width:150px;">
+            <a href="https://www.digitalcinema.com.au/Home-Automation-s/222.htm" style="padding:4px 10px 4px 10px">Home Automation</a>
+            <a href="https://www.digitalcinema.com.au/HOME-THEATRE-HOME-THEATRE-s/947.htm" style="padding:4px 10px 4px 10px">Home Theatre</a>
+            <a href="https://www.digitalcinema.com.au/LCD-LED-PLASMA-TVs-s/462.htm" style="padding:4px 10px 4px 10px;">LCD, LED, Plasma TVs</a>
+            <a href="https://www.digitalcinema.com.au/Projector-Mounts-and-Brackets-s/14.htm" style="padding:4px 10px 4px 10px;">Mounts &amp; Brackets</a>
+            <a href="https://www.digitalcinema.com.au/Projector-Lamps-s/4.htm" style="padding:4px 10px 4px 10px">Projector Lamps</a>
+            <a href="https://www.digitalcinema.com.au/Home-Cinema-Projector-Packages-s/123.htm" style="padding:4px 10px 4px 10px">Projector Packages</a>
+            <a href="https://www.digitalcinema.com.au/home-cinema-projector-screens-s/5.htm" style="padding:4px 10px 4px 10px;">Projector Screens</a>
+            <a href="https://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-AV-Receivers-Amplifiers-s/58.htm" style="padding:4px 10px 4px 10px;">Receivers &amp; Amplifiers</a>
+            <a href="https://www.digitalcinema.com.au/Soundbars-s/2026.htm" style="padding:4px 10px 4px 10px">Soundbars</a>
+            <a href="https://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-Subwoofers-s/2018.htm" style="padding:4px 10px 4px 10px;">Subwoofers</a>
+            </div>
+
+            <div style="float:left;width:150px;">
+            <a href="https://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-Loudspeakers-Subwoofers-s/60.htm" style="padding:4px 10px 4px 10px;">Speakers</a>
+            <a href="https://www.digitalcinema.com.au/Turntables-s/1484.htm" style="padding:4px 10px 4px 10px;">Turntables</a>
+            <a href="https://www.digitalcinema.com.au/Video-and-Audio-Cables-s/13.htm" style="padding:4px 10px 4px 10px;">Video &amp; Audio Cables</a>
+            <a href="https://www.digitalcinema.com.au/Latest-Promotions-Digital-Cinema-s/461.htm" style="padding:4px 10px 4px 10px;">Lastest Promotions</a>
+            <a href="https://www.digitalcinema.com.au/Clearance-Centre-s/8.htm" style="padding:4px 10px 4px 10px">Clearance Centre</a>
+            <a href="https://www.digitalcinema.com.au/Affordable-Home-Theatre-Packages-Section-Digital-Cinema-s/2017.htm" style="padding:4px 10px 4px 10px">Affordable Packages</a>
+            <a href="https://www.digitalcinema.com.au/Platinum-Home-Theatre-Packages-Section-Digital-Cinema-s/2038.htm" style="padding:4px 10px 4px 10px;">Platinum Packages</a>
+            <a href="https://www.digitalcinema.com.au/Extended-Warranty-Plans-s/229.htm" style="padding:4px 10px 4px 10px">Extented Warranty</a>
+            <a href="https://www.digitalcinema.com.au/Digital-Cinema-Gift-Vouchers-s/17.htm" style="padding:4px 10px 4px 10px;">Gift Vouchers</a>
+            <a href="https://www.digitalcinema.com.au/Flexirent-s/221.htm" style="padding:4px 10px 4px 10px;">Flexirent</a>
+            </div>
+</li>
+</div>
+	</ul>
+</li></ul></div>
+
 </div>
 
-<a href="http://www.digitalcinema.com.au/EPSON-Home-Cinema-Projectors-s/39.htm" title="Epson TW6000w"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/epson-tw6000w.jpg" alt="Epson TW6000w"></a>
 
 
-<div class="clear"></div>
+
+
+
+
+
+<div style="display:block;margin:0 auto;padding:0;"><a href="https://www.digitalcinema.com.au/Articles.asp?ID=274" style="text-decoration:none;"><img src="/v/vspfiles/templates/digitalcinem/images/homepage/boston-red-hot-sale.jpg" alt="Boston Red Hot Sale"></a></div>
+
+
+<!--<div class="clear"></div>-->
 <!-- CONTENT -->
 <div id="content">
 
   <table border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td valign="top" id="left_nav">  
-     
+    
+<!-- Begin Volusion Live Chat -->
+<div align="center" style="padding-top:8px;" id="VolusionLiveChat"><a href="http://www.volusion.com">Ecommerce</a></div>
+<script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=1345259"></script>
+<!-- End Volusion Live Chat -->
+
      <div id="DropDown_ShopBy_Category"><script type="text/javascript">
 function DropDown_ShopBy_Category_onChange(arg_value) {
 	if (arg_value !== "") {
@@ -254,9 +576,9 @@ function DropDown_ShopBy_Category_onChange(arg_value) {
 <form name="ShopByCategory_3" method="get" action="">
 <select name="mfg" onchange="DropDown_ShopBy_Category_onChange(this.options[mfg.selectedIndex].value)">
 <option value="" selected="">Shop By Category</option>
-<option value="http://www.digitalcinema.com.au/Top-Selling-Projectors-s/49.htm">-- Top Selling Projectors --</option>
-<option value="http://www.digitalcinema.com.au/Top-Selling-Receivers-s/73.htm">-- Top Selling Receivers --</option>
-<option value="http://www.digitalcinema.com.au/category-s/258.htm">--Top Selling 5.1 Channel Speakers--</option>
+<option value="https://www.digitalcinema.com.au/Top-Selling-Projectors-s/49.htm">-- Top Selling Projectors --</option>
+<option value="https://www.digitalcinema.com.au/Top-Selling-Receivers-s/73.htm">-- Top Selling Receivers --</option>
+<option value="https://www.digitalcinema.com.au/category-s/258.htm">--Top Selling 5.1 Channel Speakers--</option>
 </select></form></div> 
       <div id="DropDown_ShopBy_Manufacturer"><script type="text/javascript">
 function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
@@ -284,21 +606,24 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Carson">Carson</option>
 <option value="Carson+Screens">Carson Screens</option>
 <option value="Casio">Casio</option>
-<option value="ClearAudio">ClearAudio</option>
+<option value="Chief">Chief</option>
 <option value="Conran+Audio">Conran Audio</option>
 <option value="Creek">Creek</option>
 <option value="DALI">DALI</option>
 <option value="Definitive+Technology">Definitive Technology</option>
 <option value="Denon">Denon</option>
 <option value="Dune+HD">Dune HD</option>
+<option value="DVDO">DVDO</option>
+<option value="ELAN">ELAN</option>
 <option value="Elegance+Screens">Elegance Screens</option>
 <option value="Energy">Energy</option>
 <option value="Epos">Epos</option>
 <option value="Epoz">Epoz</option>
 <option value="Epson">Epson</option>
+<option value="Fanny+Wang">Fanny Wang</option>
+<option value="Gear4">Gear4</option>
 <option value="Harman+Kardon">Harman Kardon</option>
 <option value="HDMI">HDMI</option>
-<option value="HiVi+Swan">HiVi Swan</option>
 <option value="Infocus">Infocus</option>
 <option value="Jamo">Jamo</option>
 <option value="JBL">JBL</option>
@@ -308,26 +633,32 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Kenwood">Kenwood</option>
 <option value="Klipsch">Klipsch</option>
 <option value="Koss">Koss</option>
+<option value="Lehmann+Audio">Lehmann Audio</option>
 <option value="Lenehan+Audio">Lenehan Audio</option>
+<option value="Logic3">Logic3</option>
 <option value="LP+Morgan">LP Morgan</option>
 <option value="Magnat">Magnat</option>
 <option value="Marantz">Marantz</option>
 <option value="MartinLogan">MartinLogan</option>
+<option value="Mission">Mission</option>
+<option value="MIT">MIT</option>
 <option value="Mitsubishi">Mitsubishi</option>
 <option value="MK+Sound">MK Sound</option>
 <option value="NAD">NAD</option>
 <option value="Niles">Niles</option>
 <option value="NuForce">NuForce</option>
-<option value="Oppo">Oppo</option>
+<option value="Onkyo">Onkyo</option>
 <option value="Optoma">Optoma</option>
 <option value="Panasonic">Panasonic</option>
 <option value="Pioneer">Pioneer</option>
+<option value="PolkAudio">PolkAudio</option>
 <option value="PRO+AV">PRO AV</option>
 <option value="PROJECTOR+LAMPS">PROJECTOR LAMPS</option>
 <option value="PSB">PSB</option>
 <option value="Pure+Acoustics">Pure Acoustics</option>
 <option value="Python">Python</option>
 <option value="Q+Acoustics">Q Acoustics</option>
+<option value="REVEL">REVEL</option>
 <option value="Runco">Runco</option>
 <option value="Samsung">Samsung</option>
 <option value="Sangean">Sangean</option>
@@ -336,22 +667,27 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Screen+Technics">Screen Technics</option>
 <option value="SENNHEISER">SENNHEISER</option>
 <option value="Sharp">Sharp</option>
-<option value="SIGNATURE">SIGNATURE</option>
 <option value="SIM2">SIM2</option>
+<option value="Sonorous">Sonorous</option>
 <option value="Sonos">Sonos</option>
 <option value="Sony">Sony</option>
+<option value="Soundcast">Soundcast</option>
 <option value="Sunfire">Sunfire</option>
+<option value="Tangent">Tangent</option>
 <option value="Tannoy">Tannoy</option>
 <option value="Tauris">Tauris</option>
+<option value="TCL">TCL</option>
 <option value="Ultralift">Ultralift</option>
 <option value="Universal+Remote+Control">Universal Remote Control</option>
+<option value="Usher+Audio">Usher Audio</option>
 <option value="Velodyne">Velodyne</option>
 <option value="Venturi">Venturi</option>
-<option value="Vision+One">Vision One</option>
 <option value="Vivitek">Vivitek</option>
 <option value="Vogel">Vogel</option>
 <option value="Wharfedale">Wharfedale</option>
 <option value="Wireworld">Wireworld</option>
+<option value="Wolf+Cinema">Wolf Cinema</option>
+<option value="Xantech">Xantech</option>
 </select></form></div>
       <!--<div id="DropDown_ShopBy_Price"><script type="text/javascript">
 function DropDown_ShopBy_Price_onChange(arg_value) {
@@ -364,8 +700,6 @@ function DropDown_ShopBy_Price_onChange(arg_value) {
 <select name="lowpricedropdown" onChange="DropDown_ShopBy_Price_onChange(this.options[lowpricedropdown.selectedIndex].value)">
 <option value="" selected>Shop By Price</option>
 <option value="0-25">$0 - $25</option><option value="25-50">$25 - $50</option><option value="50-100">$50 - $100</option><option value="100-250">$100 - $250</option><option value="250-500">$250 - $500</option><option value="500-">$500 and up</option></select></form></div>-->
-
-            
 
 <!-- UL LAYOUT -->
         <div id="display_menu_1">
@@ -380,70 +714,73 @@ function mClk1(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Home-Cinema-Projectors-Home-Cinema-Data-Video-Projectors-s/3.htm" title="Home Cinema Projectors, Home Cinema Data/Video Projectors">CINEMA PROJECTORS</a>
+	<a href="https://www.digitalcinema.com.au/AV-Accessories-s/112.htm" title="AV Accessories">ACCESSORIES</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Projectors-Business-Projectors-s/357.htm" title="Projectors | Business Projectors">BUSINESS PROJECTORS</a>
+	<a href="https://www.digitalcinema.com.au/home-cinema-5-1-Channel-AV-Receiver-Speaker-Packages-s/256.htm" title="home cinema 5.1 Channel AV Receiver &amp; Speaker Packages">AUDIO PACKAGES</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Home-Cinema-Projector-Packages-s/123.htm" title="Home Cinema Projector Packages">PROJECTOR PACKAGES</a>
+	<a href="https://www.digitalcinema.com.au/Home-Theatre-Hi-Fi-AV-Furniture-s/1087.htm" title="Home Theatre Hi-Fi AV Furniture">AV FURNITURE</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/home-cinema-projector-screens-s/5.htm" title="home cinema projector screens">PROJECTOR SCREENS</a>
+	<a href="https://www.digitalcinema.com.au/Home-Cinema-Blu-Ray-DVD-CD-and-Optical-Disk-Players-s/208.htm" title="Home Cinema Blu Ray DVD CD and Optical Disk Players">BLU RAY &amp; DVD PLAYERS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/home-cinema-5-1-Channel-AV-Receiver-Speaker-Packages-s/256.htm" title="home cinema 5.1 Channel AV Receiver &amp; Speaker Packages">AUDIO PACKAGES</a>
+	<a href="https://www.digitalcinema.com.au/Projectors-Business-Projectors-s/357.htm" title="Projectors | Business Projectors">BUSINESS PROJECTORS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-AV-Receivers-Amplifiers-s/58.htm" title="Home Theatre Home Cinema AV Receivers &amp; Amplifiers">RECEIVERS &amp; AMPLIFIERS</a>
+	<a href="https://www.digitalcinema.com.au/Home-Cinema-Projectors-Home-Cinema-Data-Video-Projectors-s/3.htm" title="Home Cinema Projectors, Home Cinema Data/Video Projectors">CINEMA PROJECTORS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/HOME-THEATRE-HOME-THEATRE-s/947.htm" title="HOME THEATRE, HOME THEATRE">HOME THEATRE</a>
+	<a href="https://www.digitalcinema.com.au/Digital-Radio-DAB-s/491.htm" title="Digital Radio DAB+">DIGITAL RADIO DAB+</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/home-theatre-home-cinema-Hi-Fi-Components-s/294.htm" title="home theatre home cinema Hi-Fi Components">HI FI COMPONENTS</a>
+	<a href="https://www.digitalcinema.com.au/HEADPHONES-s/1620.htm" title="HEADPHONES">HEADPHONES</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/HiFi-HiFi-systems-Stereo-Music-Systems-s/318.htm" title="HiFi, HiFi systems, Stereo &amp; Music Systems">HI FI SYSTEMS</a>
+	<a href="https://www.digitalcinema.com.au/home-theatre-home-cinema-Hi-Fi-Components-s/294.htm" title="home theatre home cinema Hi-Fi Components">HI FI COMPONENTS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Turntables-s/1484.htm" title="Turntables">TURNTABLES</a>
+	<a href="https://www.digitalcinema.com.au/HiFi-HiFi-systems-Stereo-Music-Systems-s/318.htm" title="HiFi, HiFi systems, Stereo &amp; Music Systems">HI FI SYSTEMS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Home-Cinema-Blu-Ray-DVD-CD-and-Optical-Disk-Players-s/208.htm" title="Home Cinema Blu Ray DVD CD and Optical Disk Players">BLU RAY &amp; DVD PLAYERS</a>
+	<a href="https://www.digitalcinema.com.au/Home-Automation-s/222.htm" title="Home Automation">HOME AUTOMATION</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/LCD-LED-PLASMA-TVs-s/462.htm" title="LCD, LED, PLASMA TVs">LCD, LED, PLASMA TVs</a>
+	<a href="https://www.digitalcinema.com.au/HOME-THEATRE-HOME-THEATRE-s/947.htm" title="HOME THEATRE, HOME THEATRE">HOME THEATRE</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Digital-Radio-DAB-s/491.htm" title="Digital Radio DAB+">DIGITAL RADIO DAB+</a>
+	<a href="https://www.digitalcinema.com.au/LCD-LED-PLASMA-TVs-s/462.htm" title="LCD, LED, PLASMA TVs">LCD, LED, PLASMA TVs</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-Loudspeakers-Subwoofers-s/60.htm" title="Home Theatre Home Cinema Loudspeakers &amp; Subwoofers">SPEAKERS</a>
+	<a href="https://www.digitalcinema.com.au/Projector-Mounts-and-Brackets-s/14.htm" title="Projector Mounts and Brackets">MOUNTS &amp; BRACKETS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Home-Theatre-Hi-Fi-AV-Furniture-s/1087.htm" title="Home Theatre Hi-Fi AV Furniture">AV FURNITURE</a>
+	<a href="https://www.digitalcinema.com.au/Projector-Lamps-s/4.htm" title="Projector Lamps">PROJECTOR LAMPS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Home-Automation-s/222.htm" title="Home Automation">HOME AUTOMATION</a>
+	<a href="https://www.digitalcinema.com.au/Home-Cinema-Projector-Packages-s/123.htm" title="Home Cinema Projector Packages">PROJECTOR PACKAGES</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Projector-Mounts-and-Brackets-s/14.htm" title="Projector Mounts and Brackets">MOUNTS &amp; BRACKETS</a>
+	<a href="https://www.digitalcinema.com.au/home-cinema-projector-screens-s/5.htm" title="home cinema projector screens">PROJECTOR SCREENS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Projector-Lamps-s/4.htm" title="Projector Lamps">PROJECTOR LAMPS</a>
+	<a href="https://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-AV-Receivers-Amplifiers-s/58.htm" title="Home Theatre Home Cinema AV Receivers &amp; Amplifiers">RECEIVERS &amp; AMPLIFIERS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Video-and-Audio-Cables-s/13.htm" title="Video and Audio Cables">VIDEO &amp; AUDIO CABLES</a>
+	<a href="https://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-Subwoofers-s/2018.htm" title="Home Theatre Home Cinema Subwoofers">SUBWOOFERS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/HEADPHONES-s/1620.htm" title="HEADPHONES">HEADPHONES</a>
+	<a href="https://www.digitalcinema.com.au/Soundbars-s/2026.htm" title="Soundbars">SOUNDBARS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/AV-Accessories-s/112.htm" title="AV Accessories">ACCESSORIES</a>
+	<a href="https://www.digitalcinema.com.au/Home-Theatre-Home-Cinema-Loudspeakers-Subwoofers-s/60.htm" title="Home Theatre Home Cinema Loudspeakers &amp; Subwoofers">SPEAKERS</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.digitalcinema.com.au/Clearance-Centre-s/8.htm" title="Clearance Centre">CLEARANCE CENTRE</a>
+	<a href="https://www.digitalcinema.com.au/Turntables-s/1484.htm" title="Turntables">TURNTABLES</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="https://www.digitalcinema.com.au/Video-and-Audio-Cables-s/13.htm" title="Video and Audio Cables">VIDEO &amp; AUDIO CABLES</a>
 </li>
 </ul>
 </div>
@@ -459,40 +796,77 @@ function mClk2(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="/dealoftheday.asp" title="Deal Of The Day | Digitalcinema.com.au"><b><font color="#FF8000">!! DEAL OF THE DAY !!</font></b></a>
+	<a href="https://www.digitalcinema.com.au/Latest-Promotions-Digital-Cinema-s/461.htm" title="Latest Promotions - Digital Cinema"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/latest-promotions.png" alt="Latest Promotions"></a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.digitalcinema.com.au/Latest-Promotions-Digital-Cinema-s/461.htm" title="Latest Promotions - Digital Cinema"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/latest-promotions.png" alt="Latest Promotions"></a>
+	<a href="https://www.digitalcinema.com.au/Clearance-Centre-s/8.htm" title="Clearance Centre">CLEARANCE CENTRE</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.digitalcinema.com.au/Extended-Warranty-Plans-s/229.htm" title="Extended Warranty Plans">EXTENDED WARRANTY</a>
+	<a href="https://www.digitalcinema.com.au/Affordable-Home-Theatre-Packages-Section-Digital-Cinema-s/2017.htm" title="Affordable Home Theatre Packages Section - Digital Cinema">AFFORDABLE PACKAGES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.digitalcinema.com.au/Digital-Cinema-Gift-Vouchers-s/17.htm" title="Digital Cinema Gift Vouchers">GIFT VOUCHERS</a>
+	<a href="https://www.digitalcinema.com.au/Platinum-Home-Theatre-Packages-Section-Digital-Cinema-s/2038.htm" title="Platinum Home Theatre Packages Section - Digital Cinema">PLATINUM PACKAGES</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.digitalcinema.com.au/Flexirent-s/221.htm" title="Flexirent">FLEXIRENT</a>
+	<a href="https://www.digitalcinema.com.au/Extended-Warranty-Plans-s/229.htm" title="Extended Warranty Plans">EXTENDED WARRANTY</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="https://www.digitalcinema.com.au/Digital-Cinema-Gift-Vouchers-s/17.htm" title="Digital Cinema Gift Vouchers">GIFT VOUCHERS</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="https://www.digitalcinema.com.au/Flexirent-s/221.htm" title="Flexirent">FLEXIRENT</a>
 </li>
 </ul>
 </div>
 <div align="center">
-<a href="http://www.digitalcinema.com.au/SearchResults.asp?Search=jvc+dla" title="JVC 3D Projectors"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/Had_DILA.png" alt="Home Theatre"></a>
+<img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/thursday-open.png" alt="Thursday Open">
 <br><br>
-<a href="http://www.digitalcinema.com.au/Arcam-AVR360-FMJ-7-1-AV-Receiver-p/arcam-avr360-fmj-av-receiver.htm" title="Arcam AVR 360"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/arcam_avr360_homepagebanner.jpg" alt="Home Theatre"></a>
+<a href="http://www.digitalcinema.com.au/Denon-Receivers-Amplifiers-s/59.htm"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/denon-sale.png" alt="Home Theatre"></a>
 <br><br>
-<img id="Image-Maps_5201112292302047" src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner.jpg" usemap="#Image-Maps_5201112292302047" border="0" width="140" height="678" alt="Home Theatre">
-<map id="_Image-Maps_5201112292302047" name="Image-Maps_5201112292302047">
-<area shape="rect" coords="0,0,135,63" href="http://www.digitalcinema.com.au/Bowers-Wilkins-Speakers-and-Subwoofers-s/67.htm" title="Bowers Wilkins Speakers and Subwoofers">
-<area shape="rect" coords="0,69,135,118" href="http://www.digitalcinema.com.au/Infocus-Home-Cinema-Projector-Deals-and-Reviews-s/56.htm" title="Infocus Home Cinema Projector Deals and Reviews">
-<area shape="rect" coords="0,123,135,172" href="http://www.digitalcinema.com.au/EPSON-Home-Cinema-Projectors-s/39.htm" title="Epson Home Cinema Projectors">
-<area shape="rect" coords="0,184,135,233" href="http://www.digitalcinema.com.au/Home-Automation-Multi-Room-Sound-Systems-Sonos-s/224.htm" title="Sonos Home Automation Sound Systems">
-<area shape="rect" coords="0,240,135,289" href="http://www.digitalcinema.com.au/Wharfedale-Speakers-s/213.htm" title="Home Theatre">
-<area shape="rect" coords="0,293,135,342" href="http://www.digitalcinema.com.au/Sony-Home-Cinema-Projectors-s/53.htm" alt="sony" title="Sony Home Cinema Projectors">
-<area shape="rect" coords="0,353,135,415" href="http://www.digitalcinema.com.au/kef-home-theatre-home-cinema-speakers-s/701.htm" title="Home Theatre">
-<area shape="rect" coords="0,430,135,492" href="http://www.digitalcinema.com.au/JVC-Home-Cinema-Projectors-and-Packages-s/52.htm" title="JVC Home Cinema Projectors Packages">
-<area shape="rect" coords="0,501,135,612" href="http://www.digitalcinema.com.au/jbl-home-theatre-speakers-s/470.htm" title="Home Theatre">
-<area shape="rect" coords="0,617,135,673" href="http://www.digitalcinema.com.au/Arcam-Home-Theatre-Home-Cinema-Receivers-Amplifiers-s/374.htm" title="Home Theatre">
-</map>
+<a href="http://www.digitalcinema.com.au/SearchResults.asp?mfg=onkyo"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/onkyodlrsmall.jpg" alt="Home Theatre"></a>
+<br><br>
+<a href="http://www.aushifi.com.au/location/digital-cinema/" title="Aus Hi-Fi Association" target="blank"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/aus_hi-fi.png" alt="Home Theatre"></a>
+<br><br>
+<table width="140" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><a href="http://www.digitalcinema.com.au/Arcam-Home-Theatre-Home-Cinema-Receivers-Amplifiers-s/374.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_01.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_01.jpg" width="140" height="71" style="display:block;" id="Image1"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.digitalcinema.com.au/Boston-Acoustics-Speakers-Subwoofers-s/127.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_12.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_12.jpg" width="140" height="71" style="display:block;" id="Image12"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/Bowers-Wilkins-Speakers-and-Subwoofers-s/67.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_02.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_02.jpg" width="140" height="71" style="display:block;" id="Image2"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/EPSON-Home-Cinema-Projectors-s/39.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_03.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_03.jpg" width="140" height="71" style="display:block;" id="Image3"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/Infocus-Home-Cinema-Projector-Deals-and-Reviews-s/56.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_04.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_04.jpg" width="140" height="71" style="display:block;" id="Image4"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/JVC-Home-Cinema-Projectors-and-Packages-s/52.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_05.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_05.jpg" width="140" height="71" style="display:block;" id="Image5"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/jbl-home-theatre-speakers-s/470.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_06.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_06.jpg" width="140" height="71" style="display:block;" id="Image6"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/kef-home-theatre-home-cinema-speakers-s/701.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_07.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_07.jpg" width="140" height="71" style="display:block;" id="Image7"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/Home-Automation-Multi-Room-Sound-Systems-Sonos-s/224.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_08.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_08.jpg" width="140" height="71" style="display:block;" id="Image8"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/SAMSUNG-Television-s/501.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_09.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_09.jpg" width="140" height="71" style="display:block;" id="Image9"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.digitalcinema.com.au/SENNHEISER-Headphones-s/1866.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_10.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_10.jpg" width="140" height="71" style="display:block;" id="Image10"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.digitalcinema.com.au/Wharfedale-Speakers-s/213.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2-hover_11.jpg',1)"><img src="http://www.digitalcinema.com.au/v/vspfiles/templates/digitalcinem/images/homepage/vbanner2_11.jpg" width="140" height="71" style="display:block;" id="Image11"></a></td>
+  </tr>
+</tbody></table>
 
 </div><br>
 <!-- Mailing List Section -->
@@ -1099,8 +1473,6 @@ By using our site, you consent to our privacy policy.<br style="">
   </tbody></table>
 </div>
 
-
-</div>
 <!-- FOOTER -->
 <div id="footer">
 	<div id="footer_top">
@@ -1156,6 +1528,9 @@ Customer has agreed per Volusion’s Terms of Service (http://www.volusion.com/a
 ============================================================================================-->
 	</p></div>
 </div>
+
+</div>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
