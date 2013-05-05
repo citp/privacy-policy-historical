@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 25yearsofprogramming.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210856id_/http%3A//25yearsofprogramming.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 25yearsofprogramming.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505193456id_/http%3A//25yearsofprogramming.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 25yearsofprogramming.com privacy policy
 
@@ -8,7 +8,7 @@ I am located in the United States. The server hosting the website is in the Unit
 
 The site's principal activity is publishing open source software and other content on the internet. It also is the online presence of my consulting business.
 
-For questions or comments about this privacy policy, contact us from the [Feedback](https://web.archive.org/web/20121103210856id_/http%3A//25yearsofprogramming.com/feedback.htm) page. 
+For questions or comments about this privacy policy, contact us from the [Feedback](https://web.archive.org/web/20130505193456id_/http%3A//25yearsofprogramming.com/feedback.htm) page. 
 
   * You can browse this site and use most of its features without disclosing any personal information. 
   * We only receive personal information about you if you choose to provide it. 
@@ -25,7 +25,7 @@ For questions or comments about this privacy policy, contact us from the [Feedba
 
 You can use the site if you are less than 13 years old, but please do not provide personal information about yourself to anyone while you are here.
 
-If you attempt to hack this site or otherwise violate its [Terms of Use](https://web.archive.org/web/20121103210856id_/http%3A//25yearsofprogramming.com/termsofuse.htm "View this site's Terms Of Use"), this privacy policy does not apply to you, and information about you will not be kept confidential.
+If you attempt to hack this site or otherwise violate its [Terms of Use](https://web.archive.org/web/20130505193456id_/http%3A//25yearsofprogramming.com/termsofuse.htm "View this site's Terms Of Use"), this privacy policy does not apply to you, and information about you will not be kept confidential.
 
 ## What information we collect 
 
@@ -68,16 +68,16 @@ Most of our advertisements are served by outside companies such as Google and Am
 
 The owner of 25yearsofprogramming.com, Steven Whitney, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Amazon.com ads use "third party" cookies as described above. 
 
-Google serves ads to our pages from its AdSense program and also from [companies](https://www.google.com/adsense/support/bin/answer.py?answer=94149 "Go to list of Google's third party ad serving companies.") that may use what are known as "tracking cookies". By placing their ads on many websites, and reading and writing their cookie on each visit, they can log which sites and pages a user has visited. This allows them to deliver ads relevant to a user's interests. One of the tracking cookies used by AdSense is the DoubleClick DART cookie. Google provides a way to ["opt out" from the DART cookie](http://www.google.com/privacy_ads.html ""Opt out" at Google.") being used in your browser (on all sites, not just ours). However, the opt out mechanism uses a cookie and therefore requires that cookies be enabled. We provide a much better alternative in [how to block tracking cookies in Internet Explorer and Firefox](https://web.archive.org/web/20121103210856id_/http%3A//25yearsofprogramming.com/blog/2008/20080419.htm "How to block tracking cookies."). 
+Google serves ads to our pages from its AdSense program and also from [companies](https://www.google.com/adsense/support/bin/answer.py?answer=94149 "Go to list of Google's third party ad serving companies.") that may use what are known as "tracking cookies". By placing their ads on many websites, and reading and writing their cookie on each visit, they can log which sites and pages a user has visited. This allows them to deliver ads relevant to a user's interests. One of the tracking cookies used by AdSense is the DoubleClick DART cookie. Google provides a way to ["opt out" from the DART cookie](http://www.google.com/privacy_ads.html ""Opt out" at Google.") being used in your browser (on all sites, not just ours). However, the opt out mechanism uses a cookie and therefore requires that cookies be enabled. We provide a much better alternative in [how to block tracking cookies in Internet Explorer and Firefox](https://web.archive.org/web/20130505193456id_/http%3A//25yearsofprogramming.com/blog/2008/20080419.htm "How to block tracking cookies."). 
 
-Some ads these days are in the form of Flash movies. Flash provides scripting capabilities that can make it a security and privacy hazard. [Google asserts](https://www.google.com/adsense/support/bin/answer.py?answer=94153&topic=14535) that it monitors the ads served through its network so that maliciously scripted ads cannot slip into the system. Nonetheless, such ads have slipped into other advertising networks, and we provide instructions [how to disable Flash](https://web.archive.org/web/20121103210856id_/http%3A//25yearsofprogramming.com/blog/2008/20080524.htm#howtodisableflash "How to disable Shockwave Flash in Internet Explorer."). 
+Some ads these days are in the form of Flash movies. Flash provides scripting capabilities that can make it a security and privacy hazard. [Google asserts](https://www.google.com/adsense/support/bin/answer.py?answer=94153&topic=14535) that it monitors the ads served through its network so that maliciously scripted ads cannot slip into the system. Nonetheless, such ads have slipped into other advertising networks, and we provide instructions [how to disable Flash](https://web.archive.org/web/20130505193456id_/http%3A//25yearsofprogramming.com/blog/2008/20080524.htm#howtodisableflash "How to disable Shockwave Flash in Internet Explorer."). 
 
 ## How personally identifying information is used
 
 ### Active information
 
   1. We will not sell or rent your personal information to anyone.
-  2. We will not otherwise disclose your personal information to any third party without your permission except in situations where a) we are required to do so by a legal obligation or b) a preliminary investigation determines that you may be responsible for a hack attempt or other violation of our [Terms of Use](https://web.archive.org/web/20121103210856id_/http%3A//25yearsofprogramming.com/termsofuse.htm). If you attempt to hack this site or violate its Terms of Use, this privacy policy does not apply to you, and you cannot expect any of your information to be kept confidential.
+  2. We will not otherwise disclose your personal information to any third party without your permission except in situations where a) we are required to do so by a legal obligation or b) a preliminary investigation determines that you may be responsible for a hack attempt or other violation of our [Terms of Use](https://web.archive.org/web/20130505193456id_/http%3A//25yearsofprogramming.com/termsofuse.htm). If you attempt to hack this site or violate its Terms of Use, this privacy policy does not apply to you, and you cannot expect any of your information to be kept confidential.
   3. As a general policy, we will use your personal information only for the purpose for which it appears you provided it.
   4. Completion and support of the current activity. If you provide personal information such as your name and email address in an email and wish a reply, we may use it to reply to your message or respond to your request. 
   5. **Donations privacy**. If you make a donation through PayPal, we receive your email address as part of the transaction confirmation. We won't use it to contact you unless a) some aspect of completing the transaction requires it, or b) you ask us to reply.
@@ -129,7 +129,7 @@ If you are under the age of 13, please do not give personal information about yo
 
 ## Violations of this website's Terms of Use
 
-If you attempt to hack this site or otherwise violate its [Terms of Use](https://web.archive.org/web/20121103210856id_/http%3A//25yearsofprogramming.com/termsofuse.htm "View this site's Terms Of Use"), this privacy policy does not apply to you, and information about you **will not** be kept confidential.
+If you attempt to hack this site or otherwise violate its [Terms of Use](https://web.archive.org/web/20130505193456id_/http%3A//25yearsofprogramming.com/termsofuse.htm "View this site's Terms Of Use"), this privacy policy does not apply to you, and information about you **will not** be kept confidential.
 
 ## Changes to this privacy policy
 
@@ -143,4 +143,7 @@ This site contains links to other websites, including advertisers, that have dif
 
   1. Any information, personal or otherwise, that you post to a message board or forum becomes visible to anyone on the internet. It can be collected and used, or misused, by others. Do not post anything that you do not want to become public. 
 
-
+[](http://validator.w3.org/check?uri=referer) |  |  [](http://jigsaw.w3.org/css-validator/check/referer)  
+---|---|---  
+  
+Copyright ©2012 Steven Whitney. Last modified Sun 07/29/2012 10:04:16 -0700.
