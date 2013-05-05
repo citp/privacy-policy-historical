@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzs.co.uk privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103233657id_/http%3A//www.adzs.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzs.co.uk privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506015009id_/http%3A//www.adzs.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Adzs.co.uk
 
