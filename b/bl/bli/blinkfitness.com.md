@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinkfitness.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102100939id_/http%3A//www.blinkfitness.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkfitness.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506001955id_/http%3A//www.blinkfitness.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Blink Fitness: A new, modern, affordable gym and workout experience | Privacy Policy
 
