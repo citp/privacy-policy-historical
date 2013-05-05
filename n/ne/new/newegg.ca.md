@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130152037id_/http%3A//www.newegg.ca/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505114743id_/http%3A//www.newegg.ca/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Newegg.ca - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
 
