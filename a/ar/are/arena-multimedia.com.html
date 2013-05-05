@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2012-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124223347id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2013-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505053536id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,6 +16,33 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+
+	// fade in #back-top
+	$(function () {
+	$(window).scroll(function () {
+	if ($(this).scrollTop() > 100) {
+	$('#back-top').fadeIn();
+	} else {
+	$('#back-top').fadeOut();
+	}
+	});
+
+	// scroll body to 0px on click
+	$('#back-top a').click(function () {
+	$('body,html').animate({
+	scrollTop: 0
+	}, 800);
+	return false;
+	});
+	});
+
+	});
+</script>
 <script type="text/javascript" src="js/easySlider1.7.js"></script>
 <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="js/jquery.carousel.min.js"></script>
@@ -55,12 +82,25 @@
 
         var selState = document.getElementById('selState').value;
         var hSelCity = document.getElementById('hCityName').value;
-
+        if(selState == '16')
+        {
+          //alert(mode);
+            document.getElementById('dispCityDropdown').innerHTML = "<select><option>SELECT CENTER</option></select>";
+             $.post("centerAddress.aspx", { 'selState': selState, 'hSelCity': hSelCity, 'mode': mode }, function (data) {
+            document.getElementById('dispCityDropdown').innerHTML = data;
+            //$("#selcenterCity").uniform();
+            getCenterAddress();
+        })
+        }
+        else
+        {
         $.post("centerAddress.aspx", { 'selState': selState, 'hSelCity': hSelCity, 'mode': mode }, function (data) {
             document.getElementById('dispCityDropdown').innerHTML = data;
             //$("#selcenterCity").uniform();
             getCenterAddress();
         })
+        }
+//        alert(data);
     }
 
     var cId = "";
@@ -71,15 +111,59 @@
 
         loc = "";
         dispAdd = "";
+//        alert(document.getElementById('selcenterCity').value);
         var selState = document.getElementById('selState').value;
         var selCity = document.getElementById('selcenterCity').value;
-        var mode = 'city';
+        if(selCity=='0')
+        {
+        selState='MAHARASHTRA';
+         selCity ='MUMBAI';
+         mode ='city';
+         document.getElementById('dispFullAddress').innerHTML = "<span class='loading_address'>Loading</span>";
+        $.post("centerAddress.aspx", { 'selState': selState, 'selCity': selCity, 'mode': mode }, function (data) {
+            var arrAddress = data.split("|~|");
+            var lenAddress = arrAddress.length;
+           
+            for (a = 0; a < 1; a++) {
+
+                var getAddress = arrAddress[a].split("|@|");
+               
+                var divSendSms = '<div id="dSendSms' + a + '" style="float:right"><input class="send_sms_each" type="button" value="" onClick=\'open_sms("' + a + '")\' /></div>';
+                divSendSms += '<div id="dsmsMobile' + a + '" class="dMobile1 send_sms_div" style="display:none;"><a href="javascript:void(0)" onClick=\'close_sms("' + a + '")\' id="close">X</a>';
+                divSendSms += '<form name="frmSendSms" method="POST">';
+                divSendSms += '<input type="text" name="txtMobileNo' + a + '" id="txtMobileNo' + a + '" value="enter your mobile no here..." class="dropdown blur-focus enter_num_text" onfocus=\'if(this.value=="enter your mobile no here...") this.value="" \' onblur=\'if(this.value=="") this.value="enter your mobile no here..." \' />';
+                divSendSms += '<input type="button" name="btnGoSms" value="Send" onclick=\'sendSms("' + a + '", "Aptech House, A-65,<br> MIDC, Marol,Andheri (E),<br> Mumbai, Maharashtra, India")\' />';
+                divSendSms += '</form>';
+                divSendSms += '</div>';
+
+                divSendSms += '<div id="thanks_sms_div'+ a + '" class="dMobile1 thanks_sms_div" style="display:none;">';
+                divSendSms += '<a href="javascript:void(0)" onClick=\'close_sms("' + a + '")\' id="close">X</a>';
+                divSendSms += '<p><strong>THANK YOU!</strong> SMS has been sent to your mobile.</p>';
+                divSendSms += '</div>';
+
+                var getAddress = arrAddress[a].split("|@|");
+                //alert("lat==" + getAddress);
+
+                //dispAdd += "<p>" + getAddress[0] + "<br><br></p><input class='send_sms_each' type='button' value='sms'/>";
+                dispAdd += "<div style='float:left; border-bottom:dotted #a9a8a8 1px; padding:10px; margin-bottom:10px;'><p style='width:408px; float:left; padding-bottom:7px;'></p></div>";
+
+                loc += "|*|Aptech House, A-65,<br> MIDC, Marol,Andheri (E),<br> Mumbai, Maharashtra, India|,|19.11730|,|72.88403";
+                singleLat = "19.11730";//getAddress[1];
+                singleLong = "72.88403";//getAddress[2];
+            }
+           // alert(addressArray);
+           
+            document.getElementById('dispFullAddress').innerHTML = dispAdd;
+            initializeMap();
+        })
+        }
+        else
+        {
         document.getElementById('dispFullAddress').innerHTML = "<span class='loading_address'>Loading</span>";
         $.post("centerAddress.aspx", { 'selState': selState, 'selCity': selCity, 'mode': mode }, function (data) {
             var arrAddress = data.split("|~|");
             var lenAddress = arrAddress.length;
            
-
             for (a = 0; a < lenAddress; a++) {
 
                 var getAddress = arrAddress[a].split("|@|");
@@ -109,9 +193,11 @@
 
             }
            // alert(addressArray);
+           
             document.getElementById('dispFullAddress').innerHTML = dispAdd;
             initializeMap();
         })
+       }
 
     }
 
@@ -145,10 +231,10 @@
    // var markerArray = [];
     function initializeMap() {
         //alert(loc);
-       
+        //alert("fghgf");
         var location = loc.split("|*|");
         var lenLocation = location.length;
-       // alert(location);
+        //alert(location);
       
             var map = new google.maps.Map(document.getElementById('map_canvas'), {
             zoom: 10,
@@ -339,7 +425,7 @@ $(document).ready(function(e) {
                         
             </a>
             </div>
-
+<div class="blog"><a href="blog/" title="Arena Blog" target="_blank" hidefocus="true" style="outline: none;">Arena Blog</a><sup class="new_text">new</sup></div>
             <form action="search.aspx" class="searchbox">
             <!--<input type="text" id="textboxid" value="search" title="search" >&nbsp; -->
             <input type="text" class="textboxid" name="srch" id="srch" value="search" title="search" onclick="if(this.value='search') this.value=''" onblur="if(this.value=='') this.value='search'">&nbsp; 
@@ -384,7 +470,7 @@ $(document).ready(function(e) {
                                 <div class="content_div1">
                                 	<a href="animation-with-portfolio-development-aaip.aspx" title="Animation" hidefocus="true" style="outline: none;">Animation</a>
                                     <ul>
-                                    	<li><a href="animation-with-portfolio-development-aaip.aspx" title="Animation with portfolio development: AAIP" hidefocus="true" style="outline: none;">Animation with portfolio development: AAIP</a></li>
+                                    	<li><a href="animation-with-portfolio-development-aaip.aspx" title="Arena Animation International Program (AAIP)" hidefocus="true" style="outline: none;">Arena Animation International Program (AAIP)</a></li>
                                         <!--<li><a href="comprehensive-animation-arena-animation-pro.aspx" title="Comprehensive Animation: Arena Animation Pro">Comprehensive Animation: Arena Animation Pro</a></li> -->
                                         <li><a href="animation-film-making-dae.aspx" title="Animation Film Making: DAE" hidefocus="true" style="outline: none;">Animation Film Making: DAE</a></li>
                                     </ul>
@@ -396,23 +482,42 @@ $(document).ready(function(e) {
                                 <img src="images/navigation/web-designing-media.jpg" alt="Web Designing Courses &amp; Multimedia Courses" title="Web Designing Courses &amp; Multimedia Courses">
                                 </div>
                                 <div class="content_div1">
-                                	<a href="graphics-web-design.aspx" title="Web designing &amp; multimedia" hidefocus="true" style="outline: none;">Web designing &amp; multimedia</a>
+                                	<a href="web-design-development-program.aspx" title="Web designing &amp; multimedia" hidefocus="true" style="outline: none;">Web designing &amp; multimedia</a>
                                     <ul>
-                                    	<li><a href="graphics-web-design.aspx" title="Graphics &amp; Web Design" hidefocus="true" style="outline: none;">Graphics &amp; Web Design</a></li>
-                                        <li><a href="digital-media-pro3.aspx" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></li>
+                                    	<li><a href="web-design-development-program.aspx" title="Web Design &amp; Development Program (WDP)" hidefocus="true" style="outline: none;">Web Design &amp; Development Program</a></li>
+                                    	<li><a href="multimedia-design-program.aspx" title="Multimedia Design Program (MDP)" hidefocus="true" style="outline: none;">Multimedia Design Program (MDP)</a></li>
+                                        <li><a href="graphics-web-design.aspx" title="Graphic &amp; Web Design (GWD)" hidefocus="true" style="outline: none;">Graphic &amp; Web Design (GWD)</a></li>
+                                        <li><a href="design-publishing-program.aspx" title="Design &amp; Publishing Program (DPP)" hidefocus="true" style="outline: none;">Design &amp; Publishing Program (DPP)</a></li>
+                                        <!--<li><a href="digital-media-pro3.aspx" title="Digital Media Pro 3">Digital Media Pro 3</a></li>-->
                                     </ul>
                                 </div>
                             </div>
                             
-                            <div class="nav_img_content">
+                            <!--<div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/universityDegree.jpg" alt="VFX &amp; Animation Degree" title="VFX &amp; Animation Degree">
+                                <img src="images/navigation/universityDegree.jpg" alt="VFX &amp; Animation Degree" title="VFX &amp; Animation Degree" />
                                 </div>
                                 <div class="content_div1 content_div_small_width">
-                                	<a href="ba_vfx_animation.aspx" title="UNIVERSITY DEGREE" hidefocus="true" style="outline: none;">UNIVERSITY DEGREE</a>
+                                	<a href="ba_vfx_animation.aspx" title="UNIVERSITY DEGREE">UNIVERSITY DEGREE</a>
                                     <ul>
                                  
-                                        <li><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation" hidefocus="true" style="outline: none;">B.A. in VFX &amp; Animation</a></li>
+                                        <li><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation">B.A. in VFX &amp; Animation</a></li>
+                                    </ul>
+                                </div>    
+                            </div>-->
+                            
+                            
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/gaming.jpg" alt="Game Design Courses" title="Game Design Courses">
+                                </div>
+                                <div class="content_div1 content_div_small_width">
+                                	<a href="game-art-design.aspx" title="Gaming" hidefocus="true" style="outline: none;">Gaming</a>
+                                    <ul>
+                                 
+                                        <li><a href="game-art-design.aspx" title="Game Art &amp; Design" hidefocus="true" style="outline: none;">Game Art &amp; Design</a></li>
+                                        <!--<li><a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3">Digital Media Pro 3</a></li>-->
                                     </ul>
                                 </div>    
                             </div>
@@ -421,18 +526,18 @@ $(document).ready(function(e) {
                         </div>
                         <div class="right_nav_content">
                         
-                        <div class="nav_img_content content_div_small_width">
+                        <!--<div class="nav_img_content content_div_small_width">
                             	<div class="nav_img">
-                                <img src="images/navigation/gaming.jpg" alt="Game Design Courses" title="Game Design Courses">
+                                <img src="images/navigation/gaming.jpg" alt="Game Design Courses" title="Game Design Courses" />
                                 </div>
                                 <div class="content_div1">
-                                	<a href="game-art-design.aspx" title="Gaming" hidefocus="true" style="outline: none;">Gaming</a>
+                                	<a href="game-art-design.aspx" title="Gaming">Gaming</a>
                                     <ul>
-                                    	<li><a href="game-art-design.aspx" title="Game Art &amp; Design" hidefocus="true" style="outline: none;">Game Art &amp; Design</a></li>
-                                        <li><a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></li>
+                                    	<li><a href="game-art-design.aspx" title="Game Art & Design">Game Art & Design</a></li>
+                                        <li><a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3">Digital Media Pro 3</a></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div>-->
                             
                         <div class="nav_img_content content_div_small_width">
                             	<div class="nav_img">
@@ -784,34 +889,38 @@ function hide_nav_hover(){
               <div class="course-gradient">
               <div class="courses-content">
               <h2><a href="courses.aspx" title="COURSES" hidefocus="true" style="outline: none;">COURSES</a></h2>
-              <div class="acordion">
-              <h3><a href="#" class="cls-current" title="Animation" hidefocus="true" style="outline: none;">ANIMATION</a></h3>
-              <p class="homecourses_link" style="display: block;"><a href="animation-with-portfolio-development-aaip.aspx" title="Animation with portfolio development: AAIP" hidefocus="true" style="outline: none;">Animation with portfolio development: AAIP</a>
+              <div class="acordion2">
+              <h3><a href="#" class="cls-current2" title="Animation" hidefocus="true" style="outline: none;">ANIMATION</a></h3>
+              <p class="homecourses_link" style="display: block;"><a href="animation-with-portfolio-development-aaip.aspx" title="Arena Animation International Program (AAIP)" hidefocus="true" style="outline: none;">Arena Animation International Program (AAIP)</a>
                            <!--<a href="comprehensive-animation-arena-animation-pro.aspx" title="Arena Animation Pro">Arena Animation Pro</a> -->
                            <a href="animation-film-making-dae.aspx" title="Animation Film Making: DAE" hidefocus="true" style="outline: none;">Animation Film Making: DAE</a></p>
                            <div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse" title="WEB DESIGN" hidefocus="true" style="outline: none;">WEB DESIGN</a></h3>
-              <p class="homecourses_link" style="display: none;"><a href="graphics-web-design.aspx" title="Graphics &amp; Web Design" hidefocus="true" style="outline: none;">Graphics &amp; Web Design</a>
-			<a href="digital-media-pro3.aspx" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></p>
+              <h3><a href="#" class="cls-pluse2" title="WEB DESIGN" hidefocus="true" style="outline: none;">WEB DESIGN</a></h3>
+              <p class="homecourses_link" style="display: none;">
+              <a href="web-design-development-program.aspx" title="Web Design &amp; Development Program (WDP)" hidefocus="true" style="outline: none;">Web Design &amp; Development Program</a>
+              <a href="multimedia-design-program.aspx" title="Multimedia Design Program (MDP)" hidefocus="true" style="outline: none;">Multimedia Design Program (MDP)</a>
+              <a href="graphics-web-design.aspx" title="Graphic &amp; Web Design (GWD)" hidefocus="true" style="outline: none;">Graphic &amp; Web Design (GWD)</a>
+              <a href="design-publishing-program.aspx" title="Design &amp; Publishing Program (DPP)" hidefocus="true" style="outline: none;">Design &amp; Publishing Program (DPP)</a>
+			  <!--<a href="digital-media-pro3.aspx" title="Digital Media Pro 3">Digital Media Pro 3</a></p>-->
 
-				<div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse" title="UNIVERSITY DEGREE" hidefocus="true" style="outline: none;">UNIVERSITY DEGREE</a></h3>
-              <p class="homecourses_link" style="display: none;"><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation" hidefocus="true" style="outline: none;">B.A. in VFX &amp; Animation</a>
-              </p>
+				<!--<div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse2" title="UNIVERSITY DEGREE">UNIVERSITY DEGREE</a></h3>
+              <p class="homecourses_link"><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation">B.A. in VFX &amp; Animation</a>
+              </p>-->
               
-              <div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse" title="GAMING" hidefocus="true" style="outline: none;">GAMING</a></h3>
+              </p><div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse2" title="GAMING" hidefocus="true" style="outline: none;">GAMING</a></h3>
               <p class="homecourses_link" style="display: none;"><a href="game-art-design.aspx" title="Game Art &amp; Design" hidefocus="true" style="outline: none;">Game Art &amp; Design</a>
-                  <a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a>
+                  <!--<a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3">Digital Media Pro 3</a>-->
               </p>
               
               <div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse" title="VFX" hidefocus="true" style="outline: none;">VFX</a></h3>
+              <h3><a href="#" class="cls-pluse2" title="VFX" hidefocus="true" style="outline: none;">VFX</a></h3>
               <p class="homecourses_link" style="display: none;"><a href="vfx-pro.aspx" title="VFX pro" hidefocus="true" style="outline: none;">VFX Pro</a>
               <a href="vfx-compositing.aspx" title="VFX Compositing" hidefocus="true" style="outline: none;">VFX Compositing</a>
               </p>
               <div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse" title="E LEARNING" hidefocus="true" style="outline: none;">E–LEARNING</a></h3>
+              <h3><a href="#" class="cls-pluse2" title="E LEARNING" hidefocus="true" style="outline: none;">E–LEARNING</a></h3>
               <p class="homecourses_link" style="display: none;"><a href="digital-media-pro3.aspx?3" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></p>
               <div class="saprater"></div>
               <h3><span><a href="short-term-course.aspx" title="SHORT TERM COURSES" hidefocus="true" style="outline: none;">SHORT TERM COURSES</a></span></h3>   
@@ -909,6 +1018,7 @@ Games development</p>-->
    <footer>
  
      <div class="middbotom">      
+     <p id="back-top" style="display: none;"><a href="#top" hidefocus="true" style="outline: none;"><span>Back to Top</span></a></p>
  <div class="bottom-nav">
  <div class="arena_character">
          	<a href="javascript:void(0);" style="cursor: default; outline: none;" hidefocus="true"><img src="images/arena-character-new1.png" alt="Arena Animation - Character" title="Arena Animation - Character"></a>
@@ -938,7 +1048,7 @@ around the Arena website  </span>
   </nav>
   <div class="tollfreenum">  
   <div class="paddleft3011"><span class="font21">Toll Free:</span><span class="font37">1 800 209 1444</span></div>
-  <div class="font18">(10am to 7pm Mon-Sat)</div>
+  <div class="font18">(9am - 8pm Mon-Sat, 10am - 7pm Sun)</div>
   <div class="font_1em">(If we miss your call, we'll call you back)</div>
   </div>
  </div>
@@ -977,15 +1087,23 @@ around the Arena website  </span>
      <div class="footerinside">
      <div class="toll_free_contact">
      <div class="icon_phone"></div>
-     <div class="vedana_12">Toll Free:&nbsp;</div><span class="verdana_16">1 800 209 1444</span><span class="vedana_12">&nbsp;(10am to 7pm Mon-Sat)</span> <div class="miss-call">(If we miss your call, we'll call you back)</div></div>
+     <div class="vedana_12">Toll Free:&nbsp;</div>
+     <span class="verdana_16">1 800 209 1444</span><span class="vedana_12">&nbsp;(9am - 8pm Mon-Sat, 10am - 7pm Sun)</span> 
+     <div class="miss-call">(If we miss your call, we'll call you back)</div></div>
            <div class="sociallink">
                <ul>
-               <li class="bglight_black leftp"><a href="http://www.facebook.com/arenaanimation" target="_blank" hidefocus="true" style="outline: none;"><img src="images/facebook_1.jpg" alt="Facebook" title="Facebook"></a></li>
-                   <li class="bglight_black"><a href="https://plus.google.com/u/0/b/111450717760654761437/" target="_blank" hidefocus="true" style="outline: none;"><img src="images/gpluse_1.jpg" alt="google pluse" title="Google Pluse"></a></li>
+               <li class="bglight_black leftp"><a href="/blog" target="_blank" hidefocus="true" style="outline: none;"><img src="images/blog_1.png" alt="Arena Blog" title="Arena Blog"></a></li>
+               <li class="bglight_black"><a href="http://www.facebook.com/arenaanimation" target="_blank" hidefocus="true" style="outline: none;"><img src="images/facebook_1.png" alt="Facebook" title="Facebook"></a></li>
+                   <li class="bglight_black"><a href="https://plus.google.com/u/0/b/111450717760654761437/" target="_blank" hidefocus="true" style="outline: none;"><img src="images/gpluse_1.png" alt="google pluse" title="Google Pluse"></a></li>
                    <!--<li class="bglight_black"><a href=""><img src="images/tweeter_1.png" alt="tweeter" title="tweeter"></a></li>-->
                    <li class="bglight_black rightp"><a href="http://www.youtube.com/arenaanimation" target="_blank" hidefocus="true" style="outline: none;"><img src="images/youtube_1.jpg" alt="Youtube" title="Youtube"></a></li>
                    <!--<li class="lightblue"><a id="downloadB" href="#downloadB">DOWNLOAD BROCHURE</a></li>-->
-                   <li class="darkyellow"><a id="livechat" href="javascript:void(0);" title="LIVE CHAT" hidefocus="true" style="outline: none;">LIVE CHAT</a></li>
+                   <li class="darkyellow"><!--<a id="livechat" href="javascript:void(0);" title="LIVE CHAT">LIVE CHAT</a>-->
+                   <!--Non MAAC live2support.com tracking codes starts -->
+<div id="l2s_trk" style="z-index: 99; visibility: hidden;"><a href="http://live2support.com" target="_blank" style="font-size: 1px; outline: none;" hidefocus="true">Live Help Software</a></div><script type="text/javascript"><!-- 
+var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:'; var dept="421"; function l2s_load() { document.write('<scr'+'ipt type="text/javascr'+'ipt" src="'+unescape(l2s_pht)+'//sa.live2support.com/js/lsjs1.php?stid=22223&l2stxt=Y"  defer=true>'+'</scr'+'ipt>'); } l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; //--></script><script type="text/javascript" src="https://sa.live2support.com/js/lsjs1.php?stid=22223&amp;l2stxt=Y" defer="true"></script>
+<!-- Non MAAC live2support.com tracking codes closed -->
+                   </li>
                    <li class="darkred"><a id="contactUs" href="javascript:void(0);" title="CONTACT US" hidefocus="true" style="outline: none;">CONTACT US</a></li>
                </ul>
            </div>
@@ -1144,10 +1262,8 @@ var mobile =
      if (mobile) {
 		$('.footer').css({'position':'relative'});
 	}
-
 </script>
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-6782227-1']);
   _gaq.push(['_trackPageview']);
@@ -1157,7 +1273,6 @@ var mobile =
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
  <!-- FOOTER SECTION END HERE   -->
  <div class="form_fill_popup"></div>
