@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027172225id_/http%3A//www.nextag.com/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505225742id_/http%3A//www.nextag.com/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Nextag - Privacy Policy
 
