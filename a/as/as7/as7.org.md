@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the as7.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103220307id_/http%3A//www.as7.org/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the as7.org privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505193418id_/http%3A//www.as7.org/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy for as7.org - 5ty
+# Privacy Policy for as7.org - as7
 
 Privacy Policy for as7.org 
 
