@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031074928id_/http%3A//www.snapdeal.com/info/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabbon.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505130100id_/http%3A//www.snapdeal.com/info/terms) for the most accurate reproduction.*
 
 # Privacy Policy - Snapdeal.com
 
-**Last updated on May 25, 2012**
+**Last updated on April 01, 2013**
 
 Jasper Infotech Private Limited ("Snapdeal") is concerned about the privacy of its users (hereinafter referred to as "You" "Your" "Yourself") accessing its website located at www.snapdeal.com ("Website") and has provided this Privacy Policy ("Policy") to familiarise You with the manner in which Snapdeal collects, uses and discloses Your information collected through the Website. 
 
@@ -30,59 +30,59 @@ Snapdeal DOES NOT trade or sell Your Personal Information in any manner, except 
 
 Personal Information provided by You is used only:
 
-(a) 
+(a)
 
 to facilitate Your use of the Website;
 
-(b) 
+(b)
 
 to respond to Your inquiries or fulfil Your requests for information about the various services;
 
-(c) 
+(c)
 
-to provide You with information about Snapdeal's products/services and to send You information, materials, and offers from Snapdeal; 
+to provide You with information about Snapdeal's products/services and to send You information, materials, and offers from Snapdeal;
 
-(d) 
+(d)
 
-to send You important information regarding the Website, changes to Snapdeal's terms, conditions, and policies and/or other administrative information; 
+to send You important information regarding the Website, changes to Snapdeal's terms, conditions, and policies and/or other administrative information;
 
-(e) 
+(e)
 
-to send You surveys and marketing communications that Snapdeal believes may be of interest to You; 
+to send You surveys and marketing communications that Snapdeal believes may be of interest to You;
 
-(f) 
+(f)
 
-to personalize Your experience on the Website and Snapdeal's other websites by presenting advertising, products and offers tailored to You; 
+to personalize Your experience on the Website and Snapdeal's other websites by presenting advertising, products and offers tailored to You;
 
-(g) 
+(g)
 
-to help You address Your problems with the Website including addressing any technical problems; 
+to help You address Your problems with the Website including addressing any technical problems;
 
-(h) 
+(h)
 
 if You purchase any content or avail of any service from the Website, to complete and fulfil Your purchase, for example, to have Your payments processed, communicate with You regarding Your purchase and provide You with related customer service; 
 
-(i) 
+(i)
 
-for proper administering of the Website; 
+for proper administering of the Website;
 
-(j) 
+(j)
 
-to conduct internal reviews and data analysis for the Website (e.g., to determine the number of visitors to specific pages within the Website); 
+to conduct internal reviews and data analysis for the Website (e.g., to determine the number of visitors to specific pages within the Website);
 
-(k) 
+(k)
 
-to improve the services, content and advertising on the Website; 
+to improve the services, content and advertising on the Website;
 
-(l) 
+(l)
 
-to protect the integrity of the Website; and 
+to protect the integrity of the Website; and
 
-(m) 
+(m)
 
-to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law. 
+to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law.
 
-You acknowledge that apart from Your Personal Information, if You upload any content on the Website, such content may contain information including Personal Information and the same may be available to the other users of the Website. Snapdeal will not be liable for the disclosure and dissemination of such Personal Information to third parties. 
+You acknowledge that apart from Your Personal Information, if You upload any content on the Website, such content may contain information including Personal Information and the same may be available to the other users of the Website. Snapdeal will not be liable for the disclosure and dissemination of such Personal Information to any third parties. 
 
 Snapdeal may disclose aggregated information about the use of the Website, but it will never contain Personal Information. Snapdeal does not disclose Personal Information to third parties in the normal course of operations. However, in situations when Snapdeal is legally obligated to disclose information to the government or other third parties, Snapdeal will do so.
 
@@ -100,9 +100,9 @@ Extremely sensitive information like Your credit-card details are transacted upo
 
 Links to Third Party Websites
 
-The Website provides third-party advertisements and links to other websites. Snapdeal does not provide any Personal Information to these third-party websites or advertisers.
+The Website and any email sent to You may also contain/display third-party advertisements and links to other websites or products and services. Snapdeal does not provide any Personal Information to these third-party websites or agents or advertisers, however Snapdeal reserves the right to share with You the advertisement mailers on behalf of any other parties.
 
-Snapdeal will contain links to other websites ( **"Linked Site"** ) on the Website which are operated by third parties and are not controlled by, or affiliated to, or associated with, Snapdeal unless expressly specified on the Website. Snapdeal is not responsible for any form of transmission, whatsoever, received by You from any Linked Site. Accordingly, Snapdeal does not make any representations concerning the privacy practices or policies of such third parties or terms of use of such websites, nor does Snapdeal control or guarantee the accuracy, integrity, or quality of the information, data, text, software, music, sound, photographs, graphics, videos, messages or other materials available on such websites. The inclusion or exclusion does not imply any endorsement by Snapdeal of the website, the website's provider, or the information on the website. The information provided by You to such third party websites shall be governed in accordance with the privacy policies of such websites and it is recommended that You review the privacy policy on any such websites prior to using such websites. 
+Snapdeal will contain links to other websites ( **"Linked Site"** ) on emails sent to You and the Website which are operated by third parties and are not controlled by, or affiliated to, or associated with, Snapdeal unless expressly specified on the Website. Snapdeal is not responsible for any form of transmission, whatsoever, received by You from any Linked Site. Accordingly, Snapdeal does not make any representations concerning the privacy practices or policies of such third parties or terms of use of such websites, nor does Snapdeal control or guarantee the accuracy, integrity, or quality of the information, data, text, software, music, sound, photographs, graphics, videos, messages or other materials available on such websites. The inclusion or exclusion does not imply any endorsement by Snapdeal of the website, the website's provider, or the information on the website. The information provided by You to such third party websites shall be governed in accordance with the privacy policies of such websites and it is recommended that You review the privacy policy on any such websites prior to using such websites. 
 
 These third-party websites and advertisers may use technology to send the advertisements that appear on the Website directly to Your browser. In such cases, the third party websites or advertisers automatically receive Your IP address. They may also use cookies, JavaScript, web beacons and other technologies to measure the effectiveness of their advertisements and to personalize advertising content. Snapdeal does not have access to or control over cookies or other features that such third party websites and advertisers may use, and the information practices of these third-party websites and advertisers are not covered by this Policy. Please contact them directly for more information about their privacy practices. 
 
@@ -124,7 +124,7 @@ You can always choose not to provide information and in such cases, if the infor
 
 You can add or update Your Personal Information on a regular basis. When You update information, Snapdeal will keep a copy of the prior version for its records.
 
-Snapdeal may, if You so choose, send direct advertisement mailers to You at the address given by You. You have the option to opt-out of this direct mailer by clicking at the unsubscribed link option attached to e-mail. Snapdeal respects Your privacy and if You do not want to receive e-mail or other communications from Snapdeal, please report to Snapdeal at help@snapdeal.com. 
+Snapdeal may, if You so choose, send direct advertisement mailers to You at the address given by You which could contain details of the products or services displayed on Snapdeal or of any third party not associated with Snapdeal. You have the option to opt-out of this direct or third party mailer by clicking at the unsubscribed link option attached to e-mail. Snapdeal respects Your privacy and if You do not want to receive e-mail or other communications from Snapdeal, please report to Snapdeal at help@snapdeal.com. 
 
 If You do not want Snapdeal to use Personal Information that Snapdeal to You, please report to Snapdeal at help@snapdeal.com. .
 
@@ -143,4 +143,4 @@ If You choose to visit the Website, Your visit and any dispute over privacy is s
 If You have questions or concerns about this Policy, please contact Snapdeal at [help@snapdeal.com](mailto:help@snapdeal.com) with subject line-PRIVACY POLICY].
 
 Copyright © Jasper Infotech Private Limited  
-All rights reserved. 
+All rights reserved.
