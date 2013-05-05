@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010185407id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505212618id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | British Newspaper Archive
 
@@ -46,7 +46,7 @@ You give us permission to use your information for the above purposes in relatio
 
 **Sharing with other websites and applications:** Logging in to the website using Facebook. You can log in to the website using the Facebook Platform. When you log in using Facebook, Facebook shares selective information with us, such as your gender, date of birth, name and location, but we do not share information we hold about you with Facebook through your use of this facility.
 
-Sharing links to articles. By using the ‘Like’ links on the website, you can share your articles with non-members using Facebook and Twitter. The content will remain at all times on the website and only the link and other limited information will appear on Facebook and Twitter. There are restrictions on the sharing of content that we provide to you on the website. You can find out more about these restrictions in our Terms and Conditions [insert hyperlink].
+Sharing links to articles. By using the ‘Like’ links on the website, you can share your articles with non-members using Facebook and Twitter. The content will remain at all times on the website and only the link and other limited information will appear on Facebook and Twitter. There are restrictions on the sharing of content that we provide to you on the website. You can find out more about these restrictions in our [Terms and Conditions](https://www.britishnewspaperarchive.co.uk/content/terms_and_conditions "Terms and Conditions").
 
 **We use high quality security technology and processes:** We keep your details safe when you sign in or pay by using encryption. We always use up-to-date technology security standards and make every effort to keep our systems as secure as they can reasonably be. Please be aware that although our systems are secure, your information might be intercepted on its way to us via the internet, although it is extremely uncommon for this to happen. Keep your sign in details private at all times, and do not share them with anyone.
 
@@ -76,9 +76,11 @@ We reserve the right to access and disclose individually identifiable informatio
 
 **Service emails:** We need to send these to administer the service. Service emails include registration and payment confirmations, warnings that we are about to charge you or that your subscription or credits are about to expire, and welcome emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our Terms & Conditions that we think we need to make you aware of (for legal or simply for courtesy reasons), we may send you a service email.
 
-**Unsubscribing from service emails:** Because of the nature of these emails, we don’t allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. Contact our [Customer Support team](https://web.archive.org/web/20121010185407id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us") to do this.
+**Unsubscribing from service emails:** Because of the nature of these emails, we don’t allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. Contact our [Customer Support team](https://web.archive.org/web/20130505212618id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us") to do this.
 
-**Our use of cookies:** Information gathered on registration. When you register for our service, you provide with information such as your name and email address. We use cookies to store this login information. You can change these details through the [Edit Personal Details](https://www.britishnewspaperarchive.co.uk/account/editdetails "Edit Personal Details") page. Please update your details with relevant changes as soon as possible to ensure we have the correct information for you on your account.
+**Our use of cookies:**
+
+Information gathered on registration: When you register for our service, you provide with information such as your name and email address. We use cookies to store this login information. You can change these details through the [Edit Personal Details](https://www.britishnewspaperarchive.co.uk/account/editdetails "Edit Personal Details") page. Please update your details with relevant changes as soon as possible to ensure we have the correct information for you on your account.
 
 Cookies: We use small text files known as “cookies” to enhance your experience of our service as follows:
 
@@ -102,7 +104,7 @@ Disabling cookies: Most internet browsers are automatically set up to accept coo
 
 **Changes to this Privacy Policy:** We might make changes to this Privacy Policy from time to time – check back here to stay up to date. If we make a major change to it, we’ll usually send you a service email describing the change and what it means for you.
 
-**Contact Us:** We hope that’s clear. If it isn’t or you have another question that isn’t covered, [please contact us](https://web.archive.org/web/20121010185407id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us").
+**Contact Us:** We hope that’s clear. If it isn’t or you have another question that isn’t covered, [please contact us](https://web.archive.org/web/20130505212618id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us").
 
 **Email:** ****[support@britishnewspaperarchive.co.uk](mailto:support@britishnewspaperarchive.co.uk "BNA Customer Support Email")
 
