@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingfatcontent.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222222826id_/http%3A//creatingfatcontent.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingfatcontent.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506004009id_/http%3A//creatingfatcontent.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Creating Fat Content Sites
 
