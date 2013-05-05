@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apics8.org privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104071522id_/http%3A//www.apics8.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics8.org privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505192514id_/http%3A//apics8.org/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. apics8's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-apics8.org is owned by the same business that owns [heavy equipment hauling](http://acmelogistic.com/) and is powered by [online business ideas](http://rmsmallbusiness.com/)
+apics8.org is owned by the same business that owns [heavy haul canada](http://www.acmelogistic.com/) and is powered by [branding services](http://www.brandgineering.org/)
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
