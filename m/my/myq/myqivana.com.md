@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myqivana.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209073052id_/http%3A//www.qivana.com/index.php%3Fp_resource%3Dqivana-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myqivana.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505035516id_/http%3A//www.qivana.com/index.php%3Fp_resource%3Dqivana-privacy) for the most accurate reproduction.*
 
 # Qivana - Privacy Policy
 
@@ -64,7 +64,7 @@ You can exercise this option at any time by sending us an e-mail at support@qiva
 You have the right to request and obtain from Qivana the personal information Qivana has on file about you and request a correction of any data that is inaccurate.  You may also request Qivana to inform you of the type of personal information maintained by Qivana.  Requests for access to and correction of personal data or information about Qivana’s policies and procedures regarding personal data should be addressed in writing to Qivana IBO Support:
 
 Qivana, LLC  
-5255 North Edgewood Drive, Ste 125  
+5255 North Edgewood Drive, Ste 225  
 Provo, UT 84604
 
 Tel: 801-610-4600  
