@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124124734id_/http%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506000512id_/http%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - UT Southwestern
 
 The University of Texas Southwestern Medical Center (UT Southwestern) maintains this Web site as a public service. UT Southwestern is dedicated to protecting the privacy of visitors to this Web site and does not actively share visitors’ personal information. However, UT Southwestern is a public institution subject to the Texas Public Information Act (TPIA), and as such, could be compelled to release some of the information gathered on this Web site pursuant to the TPIA. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from visitors to this Web site and how that information is used.
 
-## Collected information
+## Collected Information
 
 UT Southwestern gathers information through this Web site in several ways:
 
@@ -32,21 +32,21 @@ Occasionally, visitors to this Web site may be asked to participate in an online
 
 This Web site may allow users to pay for products, services or to make donations to UT Southwestern online with a credit card. These transactions are completely encrypted. The information you enter in the transaction will be used solely for the purpose described in the transaction and the information will only be retained by this Web site until the transaction is complete.
 
-## Security and data integrity
+## Security and Data Integrity
 
 UT Southwestern strives to create a safe and secure environment for information collected by this Web site by employing a diverse arrangement of security implementations to protect the privacy and accuracy of the data collected from visitors. All Web pages on this site that collect personal information will use a Secure Socket Layer (SSL) protocol to ensure information is securely stored and transmitted.
 
-## Third-party content and external links
+## Third-Party Content and External Links
 
 UT Southwestern may post links to external sites or use content served from external third parties on this Web site. These links and third-party content are posted as a convenience to our Web site visitors. These external sites are not controlled or monitored by UT Southwestern and are not subject to UT Southwestern’s privacy policies and procedures. UT Southwestern is not responsible for the content or for the privacy policies and procedures of any external entity linked to this Web site. For more information regarding links to external third party Web sites, please read UT Southwestern’s [Website Linking Policy](https://web.archive.org/legal/website-linking-policy.html).
 
-## Notice about Certain Information Laws and Practices
+## Notice About Certain Information Laws and Practices
 
 All information collected from this Web site may be subject to disclosure pursuant to the Texas Public Information Act. With few exceptions, you are entitled to request the information UT Southwestern collects about you. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information. Under Section 559.004 of the Texas Government Code, you are entitled to have UT Southwestern correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in The University of Texas System Policy UTS139, Texas Public Information Act. The information that UT Southwestern collects will be retained and maintained as required by Texas records retention laws (Section 441.180, et. seq. of the Texas Government Code) and rules. Different types of information may be kept for different periods of time.
 
 Any request to receive and review information, or request corrections to it, should be directed to the UT Southwestern Office of the Vice President for Legal Affairs at 214-648-7986.
 
-## Patient confidentiality
+## Patient Confidentiality
 
 UT Southwestern is committed to protecting the confidentiality of medical and personal information of our patients in the manner required by state and federal privacy laws. To learn more about the ways UT Southwestern safeguards confidential patient information, please read UT Southwestern's [Notice of Privacy Practices](http://www.utsouthwestern.edu/media/privacy-practices.pdf).
 
