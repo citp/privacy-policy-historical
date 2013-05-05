@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quarterly.co privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014111531id_/https%3A//quarterly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quarterly.co privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506012849id_/http%3A//quarterly.co/privacy) for the most accurate reproduction.*
 
 # Privacy c/o Quarterly Co.™
 
@@ -90,7 +90,7 @@ Management Procedures. Our partners maintain standard physical and electronic pr
 
 Receiving Communications. If you subscribe to any optional promotional communications, you will be able to unsubscribe from these communications through your account management options or through the emails we send you.
 
-Editing / Deleting Your Account Information. Any member who establishes a Quarterly Service account can view the personally identifiable information we have collected from that member. That information is available at the member’s account page, where members can add, edit, or delete such personally identifiable information as the member sees fit. To completely delete your account and accompanying personal information, or to delete information about you we may have received from a third party in connection with our Gift Subscription Program, please contact us at [support@quarterly.co](https://web.archive.org/web/20121014111531id_/https%3A//quarterly.co/support@quarterly.co). As noted above, though Quarterly does not store payment information for any users, we are able to delete your payment information from our third-party payment provider at your request.
+Editing / Deleting Your Account Information. Any member who establishes a Quarterly Service account can view the personally identifiable information we have collected from that member. That information is available at the member’s account page, where members can add, edit, or delete such personally identifiable information as the member sees fit. To completely delete your account and accompanying personal information, or to delete information about you we may have received from a third party in connection with our Gift Subscription Program, please contact us at [support@quarterly.co](https://web.archive.org/web/20130506012849id_/http%3A//quarterly.co/support@quarterly.co). As noted above, though Quarterly does not store payment information for any users, we are able to delete your payment information from our third-party payment provider at your request.
 
 7: UPDATES TO OUR PRIVACY POLICY
 
