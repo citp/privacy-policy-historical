@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the volvooceanrace.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502064959id_/http%3A//www.volvooceanrace.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvooceanrace.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505185442id_/http%3A//www.volvooceanrace.com/en/privacy.html) for the most accurate reproduction.*
 
-# Volvo Ocean Race 2011-2012 | Privacy Policy
+# Volvo Ocean Race | Privacy Policy
 
 ### Privacy Policy
 
