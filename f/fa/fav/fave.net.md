@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fave.net privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103205418id_/http%3A//fave.net/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fave.net privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505063852id_/http%3A//fave.net/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Faves: Privacy Policy
 
@@ -22,7 +22,7 @@ Your full name and email address may also be used when you send an email notific
 
 #### Transfer of Information
 
-Other than as specified in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information unless we believe we are required to do so by law or have a good faith belief that such access, preservation or disclosure is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or governmental request, (b) enforce the [Terms of Use](https://web.archive.org/web/20121103205418id_/http%3A//fave.net/TermsOfUse.aspx), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) respond to user support requests, or (e) protect the rights or property of Faves, its Users or the public.
+Other than as specified in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information unless we believe we are required to do so by law or have a good faith belief that such access, preservation or disclosure is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or governmental request, (b) enforce the [Terms of Use](https://web.archive.org/web/20130505063852id_/http%3A//fave.net/TermsOfUse.aspx), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) respond to user support requests, or (e) protect the rights or property of Faves, its Users or the public.
 
 User's personal information collected by Faves may be stored and processed in the United States or in any other country in which Faves or its agents maintain facilities. By using Faves’ software and/or website, you consent to any such transfer of information outside of your country. Faves reserves the right to transfer your personal information in the event of a transfer of ownership of Faves, such as an acquisition by or merger with another company. In such an event, Faves will notify you before information is transferred and becomes subject to a different privacy policy.
 
