@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the delhispider.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002222229id_/http%3A//www.delhispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delhispider.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505185558id_/http%3A//www.delhispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DelhiSpider.com privacy policy
+
+  
+  
+  
+
 
 * * *
 
