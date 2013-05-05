@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114183708id_/http%3A//www.blueskyscrubs.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505160433id_/https%3A//www.blueskyscrubs.com/privacy-policy) for the most accurate reproduction.*
 
-# blue sky scrubs Privacy Policy
-
-## blue sky scrubs™ Privacy Policy
+# Privacy Policy
 
 Updated December 8, 2010
 
@@ -30,9 +28,9 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-You may log into [your account]() to update your billing and shipping information, telephone number, email address, and account password.
+You may log into [your account](https://secure.blueskyscrubs.com/account.php "Your blue sky scrubs Account") to update your billing and shipping information, telephone number, email address, and account password.
 
-If you no longer wish to receive our newsletters, you may unsubscribe [here]() or by contacting us, as indicated below.
+If you no longer wish to receive our newsletters, you may unsubscribe [here](http://www.blueskyscrubs.com/unsubscribe.html "Unsubscribe") or by contacting us, as indicated below.
 
 ### How To Contact Us
 
