@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the freemoneywisdom.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210120id_/http%3A//www.freemoneywisdom.com/free-money-wisdom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemoneywisdom.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505074953id_/http%3A//www.freemoneywisdom.com/free-money-wisdom-privacy-policy) for the most accurate reproduction.*
 
 # Free Money Wisdom Privacy Policy -
 
 #### THE CUT AND DRY VERSION
 
-Your privacy is the utmost importance at [Free Money Wisdom.](http://www.freemoneywisdom.com/) You can be assured that I won’t compromise your personal information.  In other words, if you subscribe to Free Money Wisdom, I promise to never spam you or release your email address for compensation.  Also, you can unsubscribe at any time from the [EMAIL](http://feedburner.google.com/fb/a/mailverify?uri=FreeMoneyWisdom) and [RSS](http://feeds.feedburner.com/freemoneywisdom) updates.  I value your privacy.  In fact, I treat your privacy according to **Matthew 7:12 “In everything, therefore, treat other people the same way you want them to treat you, for this is the Law and the Prophets.”**
+Your privacy is the utmost importance at [Free Money Wisdom.](http://www.freemoneywisdom.com/) You can be assured that I won’t compromise your personal information. Â In other words, if you subscribe to Free Money Wisdom, I promise to never spam you or release your email address for compensation. Â Also, you can unsubscribe at any time from the [EMAIL](http://feedburner.google.com/fb/a/mailverify?uri=FreeMoneyWisdom) and [RSS](http://feeds.feedburner.com/freemoneywisdom) updates. Â I value your privacy. Â In fact, I treat your privacy according to **Matthew 7:12 “In everything, therefore, treat other people the same way you want them to treat you, for this is the Law and the Prophets.”**
 
 #### THE EXPANDED VERSION:
 
-Once again, your privacy at Free Money Wisdom is the utmost importance to us.  Here is more detailed information on the privacy policy of Free Money Wisdom.  Your private information will never be sold, leased, given away, or rented to third parties.  Please read the following policy before using Free Money Wisdom, commenting, or submitting personal information.  By using Free Money Wisdom, you accept the practices described here.
+Once again, your privacy at Free Money Wisdom is the utmost importance to us. Â Here is more detailed information on the privacy policy of Free Money Wisdom. Â Your private information will never be sold, leased, given away, or rented to third parties. Â Please read the following policy before using Free Money Wisdom, commenting, or submitting personal information. Â By using Free Money Wisdom, you accept the practices described here.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
@@ -22,18 +22,18 @@ Once again, your privacy at Free Money Wisdom is the utmost importance to us.  
 
 #### LOG FILES:
 
-As with most other websites, we collect and use the data contained in log files.  The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or AT&T), the browser you used to visit our site (such as Firefox, Safari, or Internet Explorer), the time you visited our site and which pages you visited throughout our site.
+As with most other websites, we collect and use the data contained in log files.Â  The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or AT&T), the browser you used to visit our site (such as Firefox, Safari, or Internet Explorer), the time you visited our site and which pages you visited throughout our site.
 
 #### COOKIES/TRACKING TECHNOLOGY:
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit.
 
-  * Google’s use of the DART cookie
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Googleâ€™s use of the DART cookie
+  * Users may opt out of the use of the DART cookie by visiting theÂ [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
-We also use third party advertisements on Free Money Wisdom to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We also use third party advertisements on Free Money Wisdom to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.Â  Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).Â  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.Â  Users may opt out of the use of the DART cookie by visiting theÂ [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
@@ -51,7 +51,7 @@ Your personally identifiable information is kept secure. Only authorized staff o
 
 #### RSS AND EMAIL SUBSCRIPTIONS:
 
-this website records information about how people access our RSS feeds, but does not collect any personally identifying information from or about our RSS subscribers. This website’s feed services collect the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. Individual information about subscribers to this website’s feed is held in strict confidence; we will not release or disclose any specific subscriber information under any circumstances, unless required by law. Aggregated information stripped of any personally identifiable information may be disclosed.
+this website records information about how people access our RSS feeds, but does not collect any personally identifying information from or about our RSS subscribers. This websiteâ€™s feed services collect the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. Individual information about subscribers to this websiteâ€™s feed is held in strict confidence; we will not release or disclose any specific subscriber information under any circumstances, unless required by law. Aggregated information stripped of any personally identifiable information may be disclosed.
 
 #### COMMENTS:
 
