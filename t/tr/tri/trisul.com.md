@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trisul.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508024447id_/http%3A//www.trisul.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trisul.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505152319id_/http%3A//www.trisul.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trisul
 
