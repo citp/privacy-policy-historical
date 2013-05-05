@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tantusinc.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105062113id_/http%3A//tantusinc.com/s.nl/c.1143818/it.I/id.11/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tantusinc.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505144921id_/http%3A//tantusinc.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  [](https://web.archive.org/Email-Campaign-Subscribe-form) |   |   
+|  [](http://eepurl.com/xEgZH) |   |   
   
 **PRIVACY POLICY**
 
