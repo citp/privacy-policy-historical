@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewmenu.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113160920id_/https%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewmenu.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505072842id_/https%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SinglePlatform
 
@@ -6,9 +6,9 @@
 
 ##### 
 
-This Privacy Policy describes the policies and procedures of SinglePlatform, Corp. (“we”, “our” or “us”) on the collection, use and disclosure of your information on http://www.singleplatform.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+This Privacy Policy describes the policies and procedures of SinglePlatform, LLC, a Delaware limited liability company (“we”, “our” or “us”) on the collection, use and disclosure of your information on http://www.singleplatform.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-SinglePlatform, Corp. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.singleplatform.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@singleplatform.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+SinglePlatform, LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.singleplatform.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@singleplatform.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### What Does This Privacy Policy Cover?
 
@@ -130,9 +130,9 @@ If you are a registered user, you can access information associated with your Ac
 
 California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address:
 
-SinglePlatform, Corp  
-32 Broadway, Suite 1104  
-New York, NY 10004
+SinglePlatform, LLC  
+100 Broadway, 6th Floor  
+New York, NY 10005
 
 ### How Can I Delete My Account?
 
