@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005716id_/http%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505192235id_/http%3A//ipswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Ipswitch.com
 
@@ -34,13 +34,15 @@ Our order process is encrypted using an Extended Validation (EV) SSL (Secure Soc
 
 **HOW DOES IPSWITCH USE MY E-MAIL ADDRESS AND CAN I OPT-OUT OF RECEIVING IPSWITCH E-MAIL MESSAGES?**
 
-_Download an evalaution:_ We ask for your e-mail address before downloading a free product evaluation. If at anytime you decide that you do not want to receive further marketing messages from us, each e-mail will include a link to our [unsubscribe page](https://web.archive.org/remove.asp). Your contact information may be forwarded to an authorized Ipswitch reseller in your area, in which case you may need to follow-up with them. Unsubscribing will not interrupt any ongoing conversations you may be having with Ipswitch.
+_Download an evalaution:_ We ask for your e-mail address before downloading a free product evaluation. If at anytime you decide that you do not want to receive further marketing messages from us, each e-mail will include a link to our unsubscribe page. Your contact information may be forwarded to an authorized Ipswitch reseller in your area, in which case you may need to follow-up with them. Unsubscribing will not interrupt any ongoing conversations you may be having with Ipswitch.
 
 _Contacting us for technical or customer support:_ Your e-mail address will be used to respond to your query. In some cases, we may invite you to participate in an online survey to let us know how we are doing.
 
 If you are using the same e-mail address for multiple items above, the e-mail usage information for ‘downloading an evaluation’ takes precedent over all other e-mail usage information.
 
-[You can also remove yourself from our marketing list.](https://web.archive.org/remove.asp)
+[Unsubscribe from WhatsUp Gold emails.](http://info.whatsupgold.com/EmailPreferencesStep1.html)  
+[Unsubscribe from File transfer emails.](http://www.ipswitchft.com/tools/unsubscribe.aspx)  
+[Unsubscribe from Messaging emails.](http://www.imailserver.com/unsubscribe/)
 
 If you opt out or unsubscribe, we may, in compliance with the United States CAN SPAM Act of 2003, run our suppression list (addresses not to be emailed) against another list of names for an Ipswitch mailing or provide our suppression list to a third party for such verification.
 
