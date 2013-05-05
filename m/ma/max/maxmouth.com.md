@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxmouth.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010065841id_/http%3A//www.maxmouth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmouth.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505212029id_/http%3A//www.maxmouth.com/privacy.php) for the most accurate reproduction.*
 
 # MaxMouth
 
