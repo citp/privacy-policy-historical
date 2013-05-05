@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the japantourist.jp privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112003501id_/http%3A//japantourist.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantourist.jp privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505145124id_/http%3A//japantourist.jp/privacy) for the most accurate reproduction.*
 
-# JapanTourist - The Tourist's Portal to Japan
+# Japan Tourist - Map Your Travels
 
-Metropolis K.K. (herein referred to as Metropolis) takes the subject of customer privacy seriously. Please read the following to learn more about our privacy policy.
+Japan Partnership K.K. (herein referred to as Metropolis) takes the subject of customer privacy seriously. Please read the following to learn more about our privacy policy.
 
-JapanTourist.jp is produced by Metropolis K.K., and references to either JapanTourist.jp or Metropolis K.K. and shall in general be interchangeable.
+JapanTourist.jp is produced by Japan Partnership K.K., and references to either JapanTourist.jp or Japan Partnership K.K. and shall in general be interchangeable.
 
 **Privacy**
 
