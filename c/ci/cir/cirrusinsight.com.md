@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819140844id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506114450id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Cirrus Insight - Integrate Salesforce and Gmail | Create Leads, Contacts, Events, and Tasks in Salesforce from Gmail
+# Privacy Policy – Cirrus Insight
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer. The information we collect is used to improve the content of our web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
@@ -11,7 +11,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 #### Information Gathering and Usage
 
-  * Without your explicit authorization, Cirrus Insight cannot access your Salesforce data. You authorize Cirrus Insight by signing into Salesforce with your Salesforce username and password. This authentication process is entirely managed by Salesforce. The result of your authorization is that Salesforce will give Cirrus Insight a private password to your Salesforce account, which we encrypt before saving. Cirrus Insight never sees your Salesforce password. For more information on this, please see: [Security](http://www.cirrusinsight.com/features/security/ "Security").
+  * Without your explicit authorization, Cirrus Insight cannot access your Salesforce data. You authorize Cirrus Insight by signing into Salesforce with your Salesforce username and password. This authentication process is entirely managed by Salesforce. The result of your authorization is that Salesforce will give Cirrus Insight a private password to your Salesforce account, which we encrypt before saving. Cirrus Insight never sees your Salesforce password. For more information on this, please see: [Security](http://www.cirrusinsight.com/features/security/ "Security").
   * When you authorize Cirrus Insight by signing in to Salesforce, we collect your Salesforce username, organization name, organization ID, edition, and other personal information that Salesforce collects such as name, phone number, and email. We also collect information about which browser(s) you use to connect to our service, the date and time you access our service, and your product settings.
   * If you upgrade to a paid Cirrus Insight plan, we collect credit card information. Billing information is used to collect payment for the service. Complete credit card information is never seen or stored by Cirruspath, LLC; it is passed securely to payment processors.
   * We do not store CRM data, with the exception of data that is encrypted and cached briefly for application performance purposes.
@@ -36,4 +36,6 @@ Cirruspath, LLC may periodically update this policy. We will notify you about si
 
 #### Questions
 
-Any questions about this Privacy Policy should be addressed to [insight@cirruspath.com](mailto:insight@cirruspath.com?subject=Privacy%20Policy).
+Any questions about this Privacy Policy should be addressed to [customersupport@cirruspath.com](mailto:customersupport@cirruspath.com?subject=Privacy%20Policy).
+
+Last updated by at January 23, 2013.
