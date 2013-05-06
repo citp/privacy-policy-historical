@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105120609id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506220359id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
 
 # Eagle Creek Official Store
 
@@ -74,7 +74,7 @@ You can access, correct and update certain personal information that you have pr
 
 You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally, you may contact our Customer Service Department or write to us at: 
 
-  Onestop Internet, Inc. 2332 E. Pacifica Place, Rancho Dominguez, CA 90220. 
+  Onestop Internet, Inc. 3040 E Ana St., Rancho Dominguez, CA 90221. 
 
   Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. 
 
