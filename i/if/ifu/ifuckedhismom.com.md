@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ifuckedhismom.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005161138id_/http%3A//support.ifuckedhismom.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2828%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifuckedhismom.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506202354id_/http%3A//www.ifuckedhismom.com/privacy) for the most accurate reproduction.*
 
 # I Fucked His Mom
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
