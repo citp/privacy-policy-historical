@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920030502id_/http%3A//vip.shagbook.com/help/privacy.cfm%3Fwldsite%3D4869) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506093645id_/http%3A//vip.shagbook.com/help/privacy.cfm%3Fwldsite%3D4869) for the most accurate reproduction.*
 
-# Shagbook® :: Privacy Policy
+# Shagbook® :: Shagbook® Member Privacy Policy
 
-## Shagbook® Member Privacy Policy
-
-_Last updated on Wednesday 19th September, 2012_
+_Last updated on Wednesday 16th January, 2013_
 
 ### Data Controller
 
