@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wbcomdesigns.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227144022id_/http%3A//wbcomdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbcomdesigns.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506213234id_/http%3A//wbcomdesigns.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wbcom Designs | WordPress, WPMU & Buddypress Experts
+# Privacy Policy | Wbcom Designs | Hire Wordpress Developer
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
