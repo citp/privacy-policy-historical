@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231024434id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506144735id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.*
 
 # Mstarz
-
-### Privacy Policy:
 
 This is the privacy policy ("Privacy Policy") for mstarnews.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
