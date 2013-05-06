@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014053542id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506124704id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - StarNow.com.au
+# Privacy Policy | StarNow.com.au
 
 [Help](https://web.archive.org/help)>Privacy Policy
 
@@ -16,6 +16,14 @@ You agree that StarNow may use this personal information to assist us to provide
 StarNow may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) as we see fit.
 
 You can access and correct your personal information at any time.
+
+### Cookies
+
+A cookie is a piece of information that is stored on your computer’s hard drive, or on your mobile device. StarNow offers many features that are only accessible when cookies are enabled. Cookies also help us to remember your membership details and preferences.
+
+If you visit StarNow with your browser settings adjusted to accept cookies, we understand that you want to use our products and services. However, you can disable cookies at any time.
+
+Find out more about our [cookie policy](https://web.archive.org/help/CookiePolicy) and learn how to [adjust your cookie settings](http://www.aboutcookies.org/default.aspx?page=1).
 
 ### Third Party Services
 
