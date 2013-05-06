@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcruisejobs.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203121227id_/http%3A//www.allcruisejobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcruisejobs.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506233101id_/http%3A//www.allcruisejobs.com/privacy-policy) for the most accurate reproduction.*
 
 # All Cruise Jobs - Privacy Policy
 
@@ -34,11 +34,18 @@ Unless required to do so by law, we will not otherwise share, sell or distribute
 
 ## Cookies
 
-Cookies are small pieces of information which we store on your computer. Our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our site.
+Cookies are small pieces of information which we store on your computer. Our system will issue cookies to your computer when you log on to the site. Cookies make it possible for you to log on to and use the site during your visit.
 
-There is no personally identifiable information held on cookies. An example of a cookie is below:
+There is no personally identifiable information held on cookies. An example of a cookie is below:  
+PHPSESSID,bc2c1f85d35203b2e415c7e314312d06
 
-user_id,1-1-98461
+We also use cookies to detect which country you are logged in from and which currency is your preferred choice.
+
+Cookies also allow us to monitor website traffic and to personalise the content of the site for you.
+
+Some of the cookies used on this website are set by third party advertising systems such as Google Adsense. They will enable the ad server display ads more relevant to you. You can disable this in your Google account. For more information please follow this link: <http://www.google.co.uk/policies/privacy/ads/>.
+
+You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our site.
 
 ## Data Protection Act
 
