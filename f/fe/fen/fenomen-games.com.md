@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102133808id_/http%3A//www.fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507004903id_/http%3A//www.fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Fenomen Games
 
