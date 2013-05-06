@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficsourcesreviews.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105184236id_/http%3A//trafficsourcesreviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsourcesreviews.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506030625id_/http%3A//trafficsourcesreviews.com/privacy) for the most accurate reproduction.*
 
 # 
 
