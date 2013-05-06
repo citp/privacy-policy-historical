@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigbuttmovieclub.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028164000id_/http%3A//track.bigbuttmovieclub.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbuttmovieclub.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506213024id_/http%3A//track.hdmovieclub.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-**Big Butt Movie Club**
+**HD Movie Club**
 
 **PRIVACY POLICY STATEMENT**  
   
@@ -10,7 +10,7 @@
 
 * * *
 
-has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of bigbuttmovieclub.com. bigbuttmovieclub.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
+has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of hdmovieclub.com. hdmovieclub.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
 
 ### Non-Personal Information and Cookies
 
