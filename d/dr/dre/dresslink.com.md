@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresslink.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120022638id_/http%3A//www.dresslink.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresslink.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506145501id_/http%3A//www.dresslink.com/html/privacy.html) for the most accurate reproduction.*
 
 # Copyright - The world's premier online fashion destination | DRESSLINK.COM | Women's designer clothes, shoes, bags & accessories
 
