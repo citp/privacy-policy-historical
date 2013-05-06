@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myacrobatpdf.com privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825212509id_/http%3A//www.myacrobatpdf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myacrobatpdf.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506051118id_/http%3A//www.myacrobatpdf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Acrobat PDF Files
 
