@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplestuff.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083954id_/http%3A//www.samplestuff.com/2009/01/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplestuff.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506193108id_/http%3A//www.samplestuff.com/2009/01/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sample Stuff.com
 
@@ -24,6 +24,8 @@ We also use third party advertisements on SampleStuff.com to support our site. S
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
+Sponsors
+
 ## About SampleStuff
 
-Hey there! My name's Sam and I'm a full-time college student at the University Of Connecticut. (If you happen to go there and see someone running from one class to the next with a laptop, that's probably me) I started this blog about 3 years ago just as a way of helping my friends and family save money and I can't believe how much it's grown since then. I sincerely thank all our readers for their support whether it's giving me a heads up on deals, spreading the word about us, or even just visiting, so thank you all =) 
+Hey there! My name's Sam and I'm a full-time college student at the University Of Connecticut. (If you happen to go there and see someone running from one class to the next with a laptop, that's probably me) I started this blog about 5 years ago just as a way of helping my friends and family save money and I can't believe how much it's grown since then. I sincerely thank all our readers for their support whether it's giving me a heads up on deals, spreading the word about us, or even just visiting, so thank you all =) 
