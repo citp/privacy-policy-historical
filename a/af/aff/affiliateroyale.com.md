@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateroyale.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102084447id_/http%3A//www.affiliateroyale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateroyale.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506073147id_/http%3A//www.affiliateroyale.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Affiliate Royale
 
@@ -54,8 +54,8 @@ If visitors have any questions about the security on affiliateroyale.com, feel f
 If a visitor’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a visitor no longer desires our service, we provide a way to correct, update or delete/deactivate personally identifiable information. This can usually be done at the ‘Your Account’ page or by contacting our Customer Service. Or, contact us by telephone or postal mail at the contact information listed below.
 
 Caseproof, LLC  
-1953 S 1100 E #521311  
-Salt Lake City, UT 84106  
+12760 South Park Avenue STE# 1245  
+Riverton, UT 84065  
 (801) 921-6928
 
 #### Notification of Changes
