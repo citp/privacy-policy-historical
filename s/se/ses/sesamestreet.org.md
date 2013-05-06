@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006120633id_/http%3A//www.sesamestreet.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506203944id_/http%3A//www.sesamestreet.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sesame Street
 
