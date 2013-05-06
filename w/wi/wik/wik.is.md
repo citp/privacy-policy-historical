@@ -1,20 +1,77 @@
-> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105173350id_/http%3A//www.mindtouch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507003210id_/http%3A//www.mindtouch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MindTouch
 
-Thank you for your interest in the MindTouch website located at www.mindtouch.com (the “Website”) and the services (the “Services”) offered through the Website.  The Website and the Services are operated and owned by MindTouch, Inc. (“MindTouch,” “we,” “our”, or “us”).
+Thank you for visiting one of MindTouch, Inc.’s (“MindTouch”) Internet websites. This Privacy Policy details certain policies implemented throughout MindTouch, governing MindTouch’s use of information, including without limitation personally identifiable information, about users on www.mindtouch.com web site (the “Website”) and users of our cloud based services (“Services”).
 
-We respect our users’ (“users”, “you” or “your”) privacy.  This privacy policy, lets you know how information that MindTouch receives or collects from You is processed, disclosed and used.  This Privacy Policy only governs the Website and the Services but does not govern third party websites or the off-line data collection, disclosure and usage practices of MindTouch, including information received from you other than through this Website.  By using the Website and/or the Services, you acknowledge your consent to this Privacy Policy.  If you do not agree with the terms, do not use the website.
+MindTouch, Inc. (hereinafter referred to as “MindTouch,” “we,” “us” or “our”) complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland (the “Safe Harbor Principles”).  MindTouch has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Principles, the Safe Harbor Principles shall govern. MindTouch’s Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
 
-## What Information Do We Collect and Why?
+This privacy policy outlines our general policy and practices for implementing the Safe Harbor Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information. This privacy policy applies to all personal information received by MindTouch whether in electronic, paper or verbal format.
 
-### Anonymous User Information
+## Definitions
+
+“Personal Information” or “Information” means information that (1) is transferred from the EU to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.
+
+“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+
+## Principles
+
+### Notice
+
+MindTouch shall inform an individual of the purpose for which it collects and uses the Personal Information and the types of non-agent third parties to which the MindTouch discloses or may disclose that Information. MindTouch shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to MindTouch, or as soon as practicable thereafter, and in any event before the MindTouch uses or discloses the Information for a purpose other than for which it was originally collected.
+
+### Choice
+
+MindTouch will offer individuals the opportunity to choose (opt out) whether their Personal Information is (1) to be disclosed to a third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For Sensitive Personal Information, MindTouch will give individuals the opportunity to affirmatively or explicitly (opt out) consent to the disclosure of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. MindTouch shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.
+
+### Onward Transfers
+
+Prior to disclosing Personal Information to a third party, MindTouch shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. MindTouch shall ensure that any third party for which Personal Information may be disclosed subscribes to the Safe Harbor Principles or are subject to law providing the same level of privacy protection as is required by the Safe Harbor Principles and agree in writing to provide an adequate level of privacy protection.
+
+### Data Security
+
+MindTouch shall take reasonable steps to protect the Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. MindTouch has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Information from loss, misuse, unauthorized access or disclosure, alteration or destruction. MindTouch cannot guarantee the security of Information on or transmitted via the Internet.
+
+### Data Integrity
+
+MindTouch shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, MindTouch shall take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
+
+### Access
+
+MindTouch shall allow an individual access to their Personal Information and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated.
+
+### Enforcement
+
+MindTouch uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Safe Harbor Principles.   If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using BBB EU Safe Harbor Program MindTouch’s chosen third party resolution provider.   If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed MindTouch, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints "Safe Harbor Complaints") for more information and to file a complaint.
+
+### Amendments
+
+This privacy policy may be amended from time to time consistent with the requirements of the Safe Harbor. We will post any revised policy on this website.
+
+### Contact Information
+
+Questions, comments or complaints regarding the MindTouch’s Safe Harbor Policy or data collection and processing practices can be mailed or emailed to:
+
+MindTouch, Inc.
+
+Attn: Legal Department
+
+401 West A Street  
+San Diego, CA 92101
+
+[safeharbor@mindtouch.com](mailto:safeharbor@mindtouch.com)
+
+### Information Subject to Other Policies
+
+MindTouch is committed to following the Safe Harbor Principles for all Personal Information within the scope of the Safe Harbor Agreement. However, certain information is subject to policies of MindTouch that may differ in some respects from the general policies set forth in this privacy policy.
+
+## Anonymous User Information 
 
 **Cookies**. We use a feature of Internet web browsers called “cookies”.  Cookies are generated by web servers and stored on your hard drive when you visit practically any website on the Internet.  Cookies enable us to remember users, to store user preferences and to track user trends in general.  We use cookies to improve the quality of the Services we offer and to better understand how users interact with the Website.  In some secured areas of the Website, cookies are required to associate you with your personal information stored in our systems.  We do not and cannot use cookies to retrieve individual personally identifying information about you from your computer unless you knowingly and willingly provided such information.  You can adjust your web browser security settings to refuse all cookies or to indicate when a cookie is being sent.  However, if you disable the use of cookies in your web browser, some features of the Website or Services we offer may not function properly.
 
 **Anonymous Information**. We collect anonymous information about all our users each time they visit the Website so that we can understand how people are using the Website and/ or the Services and improve the overall quality of our users’ online experience.  We record the date and time of your visit, the page you visited, track your path through the Website, your IP address, the Internet service provider you are using, referral data, the type of browser you are using and the type of operating system you are using.  You do not have to register with us before we can collect this anonymous information.
 
-### Personally Identifying Information
+## Personally Identifying Information
 
 **Unique Information**. We do not collect any unique personally identifying information about you such as your name, email address or any other contact information, except when you specifically and knowingly provide such information.
 
@@ -25,8 +82,6 @@ We respect our users’ (“users”, “you” or “your”) privacy.  This p
 **Contact Information**. We may use your email address or other contact information you provide to notify you of changes to the Services, to correspond with you about any questions or concerns you have brought to our attention and to notify you of any financial obligations you have to us.  You may also receive automated messages regarding the Services.
 
 **Correspondence**. If you contact us to provide feedback, comments or inputs or for any other reason, we may keep a record of that correspondence and collect your personal information to process your enquiries, respond to your requests and improve our services.
-
-## With Whom Do We Share Information and What Do We Share?
 
 **Financial Information**. If you order any Services that require the payment of a fee, we transmit your financial information to our financial service providers and banks for processing.  If we ever encounter a problem with your payments, we may review the information with you, our financial service providers and our bank to resolve the issue.
 
@@ -60,12 +115,16 @@ In the event that another company acquires all or substantially all of the asset
 
 ## Users Outside the United States
 
-We make the Website available for users primarily located in the United States of America.   You understand and agree that this privacy policy may not comply with foreign laws.
+We make the Website available for users primarily located in the United States of America.  You understand and agree that this privacy policy may not comply with foreign laws.
 
 ## Changes to Privacy Policy
 
 This privacy policy is subject to change without notice.  We may change our policy at any time by posting a new version of it on the Website.  Please check the Website regularly for information about revisions to this Privacy Policy.  In the event that we change our Privacy Policy, such changes will affect all of the information we collect after any such change.  If you object to the change to our Privacy Policy, then you must contact us in writing regarding your objection.
 
-## Questions and Comments
+## Updating Your Information
 
-If you have any questions or comments about this Privacy Policy, please can contact us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com).
+MindTouch provides You with the ability to review and update user contact information that user provides to MindTouch by accessing and modifying this information in Your account or by submitting a request to MindTouch at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com). We will respond to requests for access to update or delete your account information within 30 days.
+
+If you choose not to receive MindTouch sent emails or newsletters, you can opt-out or unsubscribe by emailing [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com), by following the opt-out instructions in the email or newsletter, or by sending mail to MindTouch, Inc.  (Attn: Legal Department). 401 West A Street San Diego, CA 92101.
+
+Effective date: February 1, 2013
