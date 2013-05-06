@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gubug.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007041846id_/http%3A//www.gubug.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gubug.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506024429id_/http%3A//www.gubug.com/privacy.php) for the most accurate reproduction.*
 
 # GuBug.com - FUN ONLINE GAMES - MOST FUN GAMES
 
@@ -10,7 +10,7 @@ Please review the following terms and conditions concerning the use of this webs
 
 ## COPYRIGHT INFORMATION
 
-Copyright � 2007-12 GUBUG.COM . All Rights Reserved. 
+Copyright � 2007-13 GUBUG.COM . All Rights Reserved. 
 
 ## USE OF WEBSITE INFORMATION
 
