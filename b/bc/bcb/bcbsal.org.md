@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbsal.org privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025084301id_/https%3A//www.bcbsal.org/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsal.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506031047id_/https%3A//www.bcbsal.org/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Blue Cross and Blue Shield of Alabama
 
