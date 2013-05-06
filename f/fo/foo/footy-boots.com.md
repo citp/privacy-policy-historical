@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footy-boots.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020054958id_/http%3A//www.footy-boots.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footy-boots.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507014746id_/http%3A//www.footy-boots.com/privacy-statement) for the most accurate reproduction.*
 
-# Football Boots | Privacy Statement
+# Privacy Statement
 
 This Privacy Policy is applicable to any personal information, which is given by You to Us (“User Information”) via the web site located at www.footy-boots.com (“Site”). This Policy is devised to help you feel more confident about the privacy and security of your personal details.
 
