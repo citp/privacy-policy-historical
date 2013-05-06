@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoretel.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017075331id_/http%3A//www.shoretel.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoretel.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506033648id_/http%3A//www.shoretel.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ShoreTel
 
