@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the linxup.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906041451id_/http%3A//www.linxup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linxup.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506194855id_/http%3A//www.linxup.com/privacy.html) for the most accurate reproduction.*
 
-# Linxup
+# Linxup GPS - Privacy Policy.
 
-| [](https://web.archive.org/web/20120906041451id_/http%3A//www.linxup.com/index.html) |  |  |   
----|---|---|---  
-|   
----  
-|  | 
-
-|  |   
-  
   
 Agilis Systems, LLC (Agilis) understands and respects your concerns about the use of your personal information. We believe that you should know what information about you we collect, as well as how that information is used, maintained, and, in some cases, shared. The following sets forth our privacy practices and policies.
 
@@ -17,12 +9,9 @@ Agilis will collect information about you when you do any of the following: (i) 
 
 As described in greater detail below, we will store and use information about you, including information about who you are, where your wireless device is located at particular points in time, and where and when you browse on our website in order to provide our services to you and to continually improve the quality of our services and this website. Such information may be uploaded to our servers, to be used (generally in an anonymous format) to monitor the status of the communication network and data processing systems. 
 
-We will not sell or disclose to unaffiliated third parties without your consent your location and route information that we collect during your use of our services, except as otherwise provided in this policy. However, from time to time we will disclose, and may sell, to unaffiliated third parties other information that we collect about you, including information that we collect through your registration to be a customer, your participation in one of our promotions, or your request to us or one of our partners for information about our services.   
-  
-Information Collected about You and Our Use of Such Information  
-  
-  
+We will not sell or disclose to unaffiliated third parties without your consent your location and route information that we collect during your use of our services, except as otherwise provided in this policy. However, from time to time we will disclose, and may sell, to unaffiliated third parties other information that we collect about you, including information that we collect through your registration to be a customer, your participation in one of our promotions, or your request to us or one of our partners for information about our services.
 
+Information Collected about You and Our Use of Such Information
 
 The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:   
 _  
@@ -71,40 +60,34 @@ Information we collect through these requests includes your name, phone number, 
 
 _Other Information_
 
-We may retain any data you provide to us in an email inquiry, for the purpose of tracking the types of questions we receive.   
-  
-When Your Information Will Be Shared Or Disclosed  
-  
-  
-We routinely provide your name, billing address, and credit card information, along with the amount to be charged, to the bank that processes your credit card for billing purposes. 
+We may retain any data you provide to us in an email inquiry, for the purpose of tracking the types of questions we receive. 
+
+When Your Information Will Be Shared Or Disclosed
+
+We routinely provide your name, billing address, and credit card information, along with the amount to be charged, to the bank that processes your credit card for billing purposes.
 
 We will comply with any subpoenas, court orders or other legal processes for any of the information about you in our possession, and we may use such information to establish or exercise our legal rights, or to defend against legal claims. 
 
 Information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company. Agilis does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.
 
-Information that we collect about you may also be transferred among our various divisions and affiliated companies around the world, which may involve transfer from countries within the European Economic Area (EEA) to countries outside the EEA. By allowing Agilis to collect this information about you, you consent to these transfers, including transborder transmission of data covered by this privacy policy.   
-  
-Information on Wireless Devices  
-  
-  
-The Agilis software (and any upgrades, modifications, or additions thereto) that is factory installed or downloaded to, and resides upon your wireless device retains your manually entered account number username and password, or reads it from the device. Having your carrier change the assigned phone number for your wireless device does not change the account number we maintain with regard to that device, which will result in your device not being able to access your Agilis account established using the new phone number. If this happens, please continue to use the original number.  
-  
-Other Websites  
-  
-  
-For your convenience, this website contains links to other websites, including some websites administered by Agilis or administered by other companies on behalf of Agilis, as well as to websites unrelated to Agilis. This privacy policy does not apply to these linked websites. Each website should be checked for its own privacy policy.  
-  
-Changes to this Policy  
-  
-  
-Agilis may from time to time update this privacy policy. In the event that Agilis merges with, or is acquired by another company, a change to this privacy policy may result. Whenever a change to this policy is significant, we will place a prominent notice on this website.   
-  
-Governing Law  
-  
-  
-By choosing to visit this website or otherwise provide information to Agilis, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of Missouri. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use, Terms and Conditions of Service, or other applicable agreement we have with you.  
-  
-Update Information / Suggestions  
-  
-  
+Information that we collect about you may also be transferred among our various divisions and affiliated companies around the world, which may involve transfer from countries within the European Economic Area (EEA) to countries outside the EEA. By allowing Agilis to collect this information about you, you consent to these transfers, including transborder transmission of data covered by this privacy policy.
+
+Information on Wireless Devices
+
+The Agilis software (and any upgrades, modifications, or additions thereto) that is factory installed or downloaded to, and resides upon your wireless device retains your manually entered account number username and password, or reads it from the device. Having your carrier change the assigned phone number for your wireless device does not change the account number we maintain with regard to that device, which will result in your device not being able to access your Agilis account established using the new phone number. If this happens, please continue to use the original number.
+
+Other Websites
+
+For your convenience, this website contains links to other websites, including some websites administered by Agilis or administered by other companies on behalf of Agilis, as well as to websites unrelated to Agilis. This privacy policy does not apply to these linked websites. Each website should be checked for its own privacy policy.
+
+Changes to this Policy
+
+Agilis may from time to time update this privacy policy. In the event that Agilis merges with, or is acquired by another company, a change to this privacy policy may result. Whenever a change to this policy is significant, we will place a prominent notice on this website.
+
+Governing Law
+
+By choosing to visit this website or otherwise provide information to Agilis, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of Missouri. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use, Terms and Conditions of Service, or other applicable agreement we have with you.
+
+Update Information / Suggestions
+
 If you would like to update or correct any information that you have provided to Agilis through your use of the Agilis services or this website, or you have suggestions for improving this privacy policy, please send an e-mail to [support@linxup.com](mailto:support@linxup.com).
