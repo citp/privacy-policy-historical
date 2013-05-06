@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233421id_/http%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506213013id_/http%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
