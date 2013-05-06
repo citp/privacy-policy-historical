@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134954id_/http%3A//pckeeper.zeobit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507001347id_/http%3A//pckeeper.zeobit.com/privacy) for the most accurate reproduction.*
 
 # PCKeeper | Privacy Policy
 
 ## Introduction
 
-We, ZeoBIT LLC (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the data protection law of California, United States, regarding your personal information. Our privacy policy applies to:
+We, Kromtech Alliance Corp. (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the all data protection procedures regarding the full security of your personal information. Our privacy policy applies to:
 
   * using the Company’s products and services,
   * visiting the [http://www.PCKeeper.com](http://pckeeper.com/) or [http://PCKeeper.ZeoBIT.com](http://pckeeper.zeobit.com/) websites,
