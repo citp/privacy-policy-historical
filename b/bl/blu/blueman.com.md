@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614004203id_/http%3A//www.blueman.com/business-media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506123358id_/http%3A//blueman.com/business-media/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Blue Man Group
+# Privacy | Official Site of Blue Man Group
 
 Blue Man Group understands and respects the importance of individual privacy. We are committed to protecting your privacy and safeguarding your personal information. The following document outlines our policy on collecting personal information from our website visitors at www.blueman.com and how we utilize that data.
 
