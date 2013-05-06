@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chathostess.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012445id_/http%3A//chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathostess.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506150212id_/http%3A//chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Live Asian Cams and Asian Cam Sex @ ChatHostess.com
 
-PRIVACY POLICY
+**PRIVACY POLICY**
 
 We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our web site. 
 
@@ -49,7 +49,7 @@ There may be times when we need to change the terms of this Privacy Policy. To e
 
 **HOW TO CANCEL YOUR SUBSCRIPTION**
 
-You can cancel your subscription online by visiting the Customer Service section of the site you joined.
+You can cancel your subscription online by visiting the Customer Service section of the site you joined. 
 
 **HOW CAN YOU ACCESS THE INFORMATION WE HAVE COLLECTED FROM YOU?**
 
