@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030073638id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507000545id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy WebmasterCourse.Com
 
@@ -8,28 +8,72 @@ The privacy of our visitors to webmastercourse.com is very crucial to us.
 
 At webmastercourse.com , we realize how important the safety of your personal information is to you. To ease your mind, we would like you to know that we never sell your personal information to third parties. Below is a break-down on what types of personal information we receive and collect when you use visit webmastercourse.com , and how we protect your information. 
 
-Log Files
+Privacy Policy
 
-We gather and use data stored in log files, which most websites do. The log files include such information as the time you visited our site, which pages you visited throughout our site, the browser you used to visit our site (such as Google or Internet Explorer ), your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable).
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
-. 
+When accessing our Website, Bob Pardue Photography will learn certain information about you during your visit.
 
-Cookies and Web Beacons
+Similar to other commercial Web sites, our Web site utilizes a standard technology called cookies (see explanation below, What Are Cookies?) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-Cookies are used to supply data that will help us remember your personal preferences when you frequent our site. With this you would have the ability to login to some of our forums and you would also be viewing only one popup during your visit. 
+DoubleClick Cookie
 
-To help support our site, webmastercourse.com does use third party advertisements. Web beacons, cookies and other technologies may be used by some of these advertisers when they place their ads on our site. With the help of this new age technology, advertisers can be sent your information including the browser you used to visit our site, your Internet service provider and your ISP address. In some cases, the advertisers will know whether you have Flash installed, which is mainly used for showing certain ads based on particular sites visited or geotargeting purposes. For example, showing weight loss ads to a visitor who frequents weight loss sites or showing California real estate ads to someone in California. 
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
 
-The choice is yours whether to inactivate our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. But remember, this can affect your ability to interact with our site as well as other websites. You would also be incapable of logging into programs or services, such as accounts and forums.
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-AdSense Privacy Policy Provided by [http://www.webmastercourse.com](http://www.webmastercourse.com/)
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
 
-* * *
+You can read more about Google's Advertising and Cookies here: http://www.google.com/policies/privacy/ads/
 
-**USE  THIS PRIVACY POLICY FREE!**
+What Are Cookies?
 
-You may use this free privacy policy template for your personal or business website. Just replace the word **webmastercourse.com** with **your own domain name** and it's ready to go.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-The only other requirement is that you leave the link to Webmaster Course intact. Please abide by this rule.  
+IP Addresses
+
+Your computer uses IP addresses every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
+
+Email Information
+
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
+
+How Do We Use the Information That You Provide to Us?
+
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
+
+Bob Pardue Photography will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+
+A Special Note About Children
+
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+
+How Do We Protect Your Information and Secure Information Transmissions?
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+
+Bob Pardue Photography may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, Bob Pardue Photography uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+Policy Changes
+
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+Contact
+
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+
+Bob Pardue Photography
+
+2099 S. Potter Rd., Lancaster, SC, 29720
+
+803-283-2853
+
+bob [at] bobpardue.com  
   
 © Copyright WebMasterCourse.com - All Rights Reserved. - Cheap web design
