@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121183058id_/http%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506020944id_/http%3A//www.nps.org.au/about-this-website/privacy) for the most accurate reproduction.*
 
-# Privacy policy: NPS - Better choices, Better health
+# Privacy policy | NPS MedicineWise
 
 **This policy was updated 1 July 2012.**  
 
@@ -131,8 +131,8 @@ NPS does not supply, sell or rent the personal information it collects to unrela
 NPS operates two phone line services:  
 
 
-  * Medicines Line for consumers which is operated by NPS in collaboration with _healthdirect Australia_
-  * Adverse Medicine Events Line (AME) for consumers wishing to report adverse experiences with their medicines.
+  * [Medicines Line](http://www.nps.org.au/contact-us/medicines-line) for consumers which is operated by NPS in collaboration with _healthdirect Australia._
+  * [Adverse Medicine Events (AME) Line](http://www.nps.org.au/contact-us/adverse-medicines-events) for consumers wishing to report adverse experiences with their medicines.
 
 
 
@@ -157,7 +157,7 @@ For consumers wishing to report an adverse drug reaction to the Therapeutic Good
 
 ## Protection and security
 
-NPS has a privacy officer and a Risk Committee to oversee the management of personal information in accordance with this policy and privacy legislation.
+NPS has a privacy officer and a risk committee to oversee the management of personal information in accordance with this policy and privacy legislation.
 
 NPS maintains the confidentiality and security of personal information by restricting access to only those staff and service providers with a legitimate need to access it. Security measures are in place to prevent the misuse, unauthorised access, modification or disclosure of personal information.
 
@@ -179,17 +179,17 @@ If you believe your personal information is not properly protected, or that ther
 
 NPS takes breaches seriously and has procedures to help identify and resolve a breach, potential breach or complaint as quickly as possible. This includes appropriate escalation processes to the NPS Risk Committee and CEO and notification processes in the event of a breach.
 
-Every complaint is forwarded by the staff member who receives it to the privacy officer. You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a suitable resolution negotiated with you.
+Every complaint is forwarded by the staff member who receives it to the Privacy Officer. You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a suitable resolution negotiated with you.
 
-If you are not satisfied with the resolution of your complaint by NPS you may contact the [Office of the Federal Privacy Commissioner](http://www.privacy.gov.au/contact) (www.privacy.gov.au/contact) who may investigate your complaint and has the power to award compensation against NPS in appropriate circumstances.  
+If you are not satisfied with the resolution of your complaint by NPS you may contact the [Office of the Federal Privacy Commissioner](http://www.privacy.gov.au/contact) who may investigate your complaint and has the power to award compensation against NPS in appropriate circumstances.  
 
 
 ## Further information
 
 For enquiries or feedback about this policy, or for complaints about NPS’s handling of personal information, please [email the privacy officer](mailto:privacy@nps.org.au) or phone 02 8217 8798. You can also fax your enquiry to 02 9211 7578 or mail to:
 
-NPS privacy officer  
-NPS: Better choices, Better health  
+NPS Privacy officer  
+NPS Medicinewise  
 PO Box 1147  
 Strawberry Hills  
 NSW 2012  
