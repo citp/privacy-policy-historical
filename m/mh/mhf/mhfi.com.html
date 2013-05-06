@@ -1,0 +1,771 @@
+<!--The following is the downloaded HTML source of the mhfi.com privacy policy that was archived on 2013-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130506164936id_/http%3A//www.mhfi.com/tools/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+ <meta name="robots" content="archive,index,follow">
+   <!-- <meta name="robots" content="noarchive,nofollow,noindex" /> -->
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <title>McGraw Hill Financial | Corporate Customer Privacy Policy</title>
+
+  <!-- McGraw-Hill CSS -->
+  <link rel="StyleSheet" href="http://www.mhfi.com/includes/screen.css" type="text/css" media="screen">
+  <link rel="StyleSheet" href="http://www.mhfi.com/includes/print.css" type="text/css" media="print">
+
+   <!--[if IE]><link rel="stylesheet" href="http://www.mhfi.com/includes/ie.css" type="text/css" /><![endif]-->
+   <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://www.mhfi.com/includes/ie8.css"><![endif]-->
+   <!--[if IE 7]><link rel="stylesheet" href="http://www.mhfi.com/includes/ie7.css" type="text/css" /><![endif]-->
+   <!-- AddThis CSS -->
+  <link rel="stylesheet" href="http://s7.addthis.com/static/r07/widget082.css" media="screen">
+  <!--[if IE]><script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    	<script async="" src="http://www.mhfi.com/includes/webtrends.min.js"></script><script language="JavaScript1.1" src="http://www.mhfi.com/includes/jquery-1.7.1.js" type="text/javascript"></script>
+  	<script language="JavaScript1.1" src="http://www.mhfi.com/includes/vertiscroll.min.js" type="text/javascript"></script>
+  	<script language="JavaScript1.1" src="http://www.mhfi.com/includes/jquery.bt.js" type="text/javascript"></script>
+  	<script language="JavaScript1.1" src="http://www.mhfi.com/includes/customCarousel.js" type="text/javascript"></script>
+  	<script language="JavaScript1.1" src="http://www.mhfi.com/includes/mhf-custom.js" type="text/javascript"></script>
+  	<script language="JavaScript1.1" src="http://www.mhfi.com/includes/webtrends.min.js" type="text/javascript"></script>
+  <script language="JavaScript1.1" src="http://www.mhfi.com/includes/jquery.jgfeed-min.js" type="text/javascript"></script>
+<script language="JavaScript1.1" src="http://www.mhfi.com/includes/jquery.corner.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+          var newDot2=0;
+        
+         // Fixes the round corner issue on older IE browsers  
+         if(jQuery.browser.msie) 
+            if(jQuery.browser.version < 9)
+               $("#ie8Fix").corner("tl 13px");
+ 
+        /* added to center the nav for slider buttons */
+        if($('.nivo-controlNav A').length > 0) {
+             var myW = $('.nivo-controlNav').width();
+             var myI = $('.nivo-imageLink').width();
+             myLeft = (myI - (myW))/2;
+             myLeft = myLeft + "px";
+             $('.nivo-controlNav').css('left',myLeft);
+        }
+        /* added to center the nav for slider buttons */
+
+        // Fix for Opera Browsers rendering font sizes too big
+        if(jQuery.browser.opera){
+            $('body').css('font-size','0.8em');
+        }
+        $(".span-bottom").css("display","block");
+
+        // Make sure the marketing popu stays in place on resize.
+        $(window).resize(function() { 
+               if ( $("#marketing-intelligence1").is(":visible")) {
+	var wrapWidth = 1066;
+	if ($(window).width() < 1066) wrapWidth = $(window).width();	 	
+	var myLeftWidth = (($(window).width() - wrapWidth)/2 + 95) + "px";
+	$("#marketing-intelligence1").css("left",myLeftWidth);
+                }
+          });
+
+          
+          // TODO - put a condition around this so it only gets loaded when you're on the home page
+
+          //initialize RSS feeds on market intelligence popup
+
+          
+          var feedTitleArray =  new Array();
+          var feedSubTitleArray = new Array();
+          var feedURLArray =  new Array();
+
+          
+                         feedTitleArray[0] = 'Standard & Poor\'s Ratings Services';
+               feedSubTitleArray[0] = 'Credit Market Podcast';
+               feedURLArray[0] = 'http://ratings.standardandpoors.com/feeds/ios-ipad';
+     
+                                         feedTitleArray[1] = 'S&P Dow Jones Indices';
+               feedSubTitleArray[1] = 'Thought Leadership RSS Feed';
+               feedURLArray[1] = 'http://us.spindices.com/rss/rss-details/?rssFeedName=all-thought-leadership';
+     
+                                         feedTitleArray[2] = 'S&P Capital IQ ';
+               feedSubTitleArray[2] = 'All the Latest Press Releases';
+               feedURLArray[2] = 'https://www.capitaliq.com/home/about-us/press-releases/rss.aspx';
+     
+                                         feedTitleArray[3] = 'Platts';
+               feedSubTitleArray[3] = 'What\'s New';
+               feedURLArray[3] = 'http://platts.com/RSSFeedDetail/xml/whatsnewrss';
+     
+                                         feedTitleArray[4] = 'J.D. Power & Associates';
+               feedSubTitleArray[4] = 'Banking Blog';
+               feedURLArray[4] = 'http://www.jdpowercontent.com/bankingblog/feed/';
+     
+                                         feedTitleArray[5] = 'J.D. Power & Associates';
+               feedSubTitleArray[5] = 'Global Automotive Blog';
+               feedURLArray[5] = 'http://www.jdpowercontent.com/globalauto/feed/';
+     
+                                         feedTitleArray[6] = 'McGraw Hill Construction ';
+               feedSubTitleArray[6] = 'Latest Headlines';
+               feedURLArray[6] = 'http://construction.com/rss/construction.xml';
+     
+                                         feedTitleArray[7] = 'Aviation Week';
+               feedSubTitleArray[7] = 'Business Aviation Channel';
+               feedURLArray[7] = 'http://www.aviationweek.com/myaviationweek.aspx?rss=true&key=busav';
+     
+                                         feedTitleArray[8] = 'Aviation Week';
+               feedSubTitleArray[8] = 'MRO';
+               feedURLArray[8] = 'http://www.aviationweek.com/myaviationweek.aspx?rss=true&key=mro';
+     
+                                     
+           // set the first dropdown of buttom - mi
+           //$('body').css('overflow-x', 'hidden'); // hide scrollbars!           
+           $('<div id="overlay"></div>')       
+               .css('top', $(document).scrollTop())       
+               .appendTo('body')
+               .css('visibility', "hidden");
+                  	  
+           window.onload = function() {
+             $(".button-mi").click(function(){
+                 // first make sure all open slider boxes on bottom are closed and bu popups
+                 if($(".tooltip-sp-ratings").is(":visible")) $(".tooltip-sp-ratings").hide();
+                 if($(".tooltip-sp-indices").is(":visible")) $(".tooltip-sp-indices").hide();
+                 if($(".tooltip-CAPIQ").is(":visible")) $(".tooltip-CAPIQ").hide();
+                 if($(".tooltip-platts").is(":visible")) $(".tooltip-platts").hide();
+                 if($(".tooltip-jd-power").is(":visible")) $(".tooltip-jd-power").hide();
+                 if($(".tooltip-mgh-construction").is(":visible")) $(".tooltip-mgh-construction").hide();
+                 if($(".tooltip-aviation-week").is(":visible")) $(".tooltip-aviation-week").hide();                 
+                 for(var i=1; i<8; i++) {
+                     if($(".test" + i).is(":visible")) $(".test" + i).hide();
+                     if(i > 3)  if($(".test" +  i + "-r").is(":visible")) $(".test" + i + "-r").hide();
+                 }
+
+                 $('body').css('overflow-x', 'hidden'); // hide scrollbars!           
+                 $('<div id="overlay"></div>')       
+                     .css('top', $(document).scrollTop()) 
+                 $('#overlay')
+                     .css("visibility", "visible")
+                     .css("opacity", 0.1);
+ 		
+                 $("#marketing-intelligence1").appendTo('body').toggle();
+                 $("#marketing-intelligence1").css("position","absolute");
+                  var wrapWidth = 1066;
+                  if ($(window).width() < 1066) wrapWidth = $(window).width();	 	
+                  var myLeftWidth = (($(window).width() - wrapWidth)/2 + 95) + "px"; 
+				
+                 $("#marketing-intelligence1").css("top","140px");
+                 $("#marketing-intelligence1").css("left",myLeftWidth);				
+				
+                 $('#overlay').click(function(){
+                      $('body').css('overflow-x', 'visible'); // hide scrollbars!           
+                      $("#marketing-intelligence1").hide();
+                      $("#overlay").css("visibility", "hidden")
+                 });
+            
+                 $("#marketing-intelligence1").click(function(e){
+                      e.stopPropagation(); 
+                 });	
+		
+                 // make sure the event 'overlay click' gets fired from above 
+                 // To prevent 'ghosting' two overlay clicks 
+                 $(".right").click(function(){ 
+                      $('#overlay').trigger('click');
+                 });
+             });
+         }
+
+           rssFeedNav(feedTitleArray, feedSubTitleArray, feedURLArray);
+
+           //initialize Indices on market intelligence popup
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+           //loadIndices();
+      });       
+    </script>
+
+</head>
+
+<body id="three-column-layout" class="inner inner-3column">
+<script language="javascript1.2">var trkcid=901238666;var partnerID=1238666; var _hb=1;</script>
+<script language="javascript1.2" src="http://www.mhfi.com/g/g/button/button_1.js"></script>
+
+<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=901270135";_q+="&7=1270135";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=901270135";_qc+="&7=1270135";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=901270135&7=1270135&25=0&18=0.3765595571564415">
+</noscript>
+ 
+<!-- Please Don't Remove the below comment. Used for Clickability Print Utility -->
+<!--startclickprintinclude-->
+
+<div id="wrapper" class="box drop-shadow lifted">
+  <!-- start page header -->
+  <header id="page-header-bu">
+
+    <!-- site navigation -->
+      <nav id="site-nav-businesses">
+      <ul>
+                    	  	    <li><a href="http://ratings.standardandpoors.com" target="_blank">Standard &amp; Poor's Ratings</a></li>
+	             	  	    <li><a href="http://www.spcapitaliq.com/ " target="_blank">S&amp;P Capital IQ</a></li>
+	             	  	    <li><a href="http://www.spindices.com" target="_blank">S&amp;P Dow Jones Indices</a></li>
+	             	  	    <li><a href="http://www.platts.com" target="_blank">Platts</a></li>
+	             	  	    <li><a href="http://www.jdpower.com" target="_blank">J.D. Power</a></li>
+	             	  	    <li><a href="http://www.construction.com" target="_blank">Construction</a></li>
+	             	  	    <li><a href="http://www.aviationweek.com/" target="_blank">Aviation Week</a></li>
+	             	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            	            		</ul>
+        </nav>
+
+        <nav id="site-nav-main-search">
+          <form id="site-search" action="/search" method="post">			<input type="text" id="search_input" name="searchKeywords" placeholder="Search" class="border-standard rounded-left" style="display: inline">
+            <input type="image" src="http://media.mhfi.com/designimages/search-btn.png" name="image" class="input-image">
+          </form>
+        </nav>
+      </header>
+
+      <header id="page-header">
+	    <!-- logo -->
+           <div id="corporate-logo">
+	      <a href="http://www.mhfi.com"><img src="http://media.mhfi.com/designimages/home-logo.png" width="180" height="45" alt="" title="" border="0"></a>
+	    </div>
+
+	<!-- site navigation -->
+        <nav id="site-nav-main">
+			<ul id="site-nav-main-list">
+																														<li><a href="http://www.mhfi.com/about">About</a></li>
+																																				<li><a href="http://www.mhfi.com/careers">Careers</a></li>
+																																				<li><a href="http://www.mhfi.com/corporate-responsibility">Corporate Responsibility</a></li>
+																																				<li><a href="http://www.mhfi.com/investors">Investor Relations</a></li>
+																																																										<li><a href="http://www.mhfi.com/news">News Room</a></li>
+																																				<li><a href="http://www.mhfi.com/contact">Contact Us</a></li>
+																																													          	</ul>
+            </nav>
+
+    </header>
+<!-- end page header --><nav id="site-nav-secondary-wrapper">    	
+						
+								
+								
+				
+											<nav id="site-nav-secondary" class="border-standard rounded effect1">
+				<ul>	
+                                         					<li class="nav-top nav-open"><a href="/about">About</a></li>
+					<ul style="margin2: 0px 0px 5px 0px">
+																			
+														
+																												
+							                                                                                                                                          <li class="category"><a href="/about/our-businesses"> Our Businesses</a>
+                                                                  									<ul class="secondary-nav-sub-items">
+																																				                                  																										<li><a href="/about/our-businesses/sp-ratings">Standard &amp; Poor’s Ratings Services</a></li>      
+																																															                                  																										<li><a href="/about/our-businesses/sp-capital-iq">S&amp;P Capital IQ</a></li>      
+																																															                                  																										<li><a href="/about/our-businesses/sp-indices">S&amp;P Dow Jones Indices</a></li>      
+																																															                                  																										<li><a href="/about/our-businesses/platts">Platts</a></li>      
+																																															                                  																										<li><a href="/about/our-businesses/jdpa">J.D. Power &amp; Associates</a></li>      
+																																															                                  																										<li><a href="/about/our-businesses/mh-construction">McGraw Hill Construction</a></li>      
+																																															                                  																										<li><a href="/about/our-businesses/aviation-week">Aviation Week</a></li>      
+																														</ul>
+								</li>
+                                                               <span class="span-bottom"></span>
+																				
+														
+																												
+							                                                                                                                                          <li class="category"><a href="/about/executive-team"> Executive Profiles</a>
+                                                                  									<ul class="secondary-nav-sub-items">
+																																				                                  																										<li><a href="/about/executive-team/mcgraw">Harold McGraw III</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/callahan">Jack Callahan</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/berisford">John Berisford</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/smyth">Ted Smyth</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/teschner">Charles Teschner</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/vittor">Kenneth Vittor</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/eccleston">Lou Eccleston</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/peterson">Doug Peterson</a></li>      
+																																															                                  																										<li><a href="/about/executive-team/goldberg">Glenn Goldberg</a></li>      
+																														</ul>
+								</li>
+                                                               <span class="span-bottom"></span>
+																				
+														
+																												
+															                                                                  									  <li><a href="/about/our-history"> Our History</a></li>
+
+                                                                          <span class="span-bottom"></span>                                                                  																												
+														
+																					
+																																			
+														
+																												
+							                                                                                                                                          <li class="category"><a href="/about/office-locations"> Office Locations</a>
+                                                                  									<ul class="secondary-nav-sub-items">
+																																				                                  																										<li><a href="/about/office-locations/us-canada">U.S. &amp; Canada</a></li>      
+																																															                                  																										<li><a href="/about/office-locations/asia-pacific">Asia Pacific</a></li>      
+																																															                                  																										<li><a href="/about/office-locations/emea"> Europe, Middle East &amp; Africa</a></li>      
+																																															                                  																										<li><a href="/about/office-locations/latin-america">Latin America</a></li>      
+																														</ul>
+								</li>
+                                                               <span class="span-bottom"></span>
+																				
+														
+																												
+							                                                                                                                                          <li class="category"><a href="/about/diversity"> Diversity &amp; Inclusion</a>
+                                                                  									<ul class="secondary-nav-sub-items">
+																																				                                  																										<li><a href="/about/diversity/our-structure">Our Structure</a></li>      
+																																															                                  																										<li><a href="/about/diversity/our-workforce">Our Workforce </a></li>      
+																																															                                  																										<li><a href="/about/diversity/employee-resource-groups">Employee Resource Groups</a></li>      
+																																															                                  																										<li><a href="/about/diversity/suppliers">Suppliers</a></li>      
+																																															                                  																										<li><a href="/about/diversity/community-outreach">Community Outreach</a></li>      
+																																															                                  																										<li><a href="/about/diversity/awards">Awards</a></li>      
+																														</ul>
+								</li>
+                                                               <span class="span-bottom"></span>
+																				
+														
+																												
+							                                                                                                                                          <li class="category"><a href="/about/mcgraw-prize"> McGraw Prize</a>
+                                                                  									<ul class="secondary-nav-sub-items">
+																																				                                  																										<li><a href="/about/mcgraw-prize/winners">Winners</a></li>      
+																																															                                  																										<li><a href="/about/mcgraw-prize/judges">Judges</a></li>      
+																																															                                  																										<li><a href="/about/mcgraw-prize/harold-mcgraw-jr">Harold W. McGraw, Jr.</a></li>      
+																																															                                  																										<li><a href="/about/mcgraw-prize/nomination-process">Nomination Process</a></li>      
+																														</ul>
+								</li>
+                                                               <span class="span-bottom"></span>
+																				
+														
+																					                                                        							
+															                                                                  									  <li><a href="/about/mcgraw-hill-research-foundation" target="_blank"> McGraw-Hill Research Foundation</a></li>
+
+                                                                          <span class="span-bottom"></span>                                                                  																										</ul>  
+  				</ul>
+			</nav>
+										
+					</nav><div class="three-column-wrapper">
+	<nav id="breadcrumbs">
+	<div>	
+
+	
+						
+	
+ 
+ 
+					<a href="/tools">Tools</a>
+			
+			
+						
+	
+ 
+ 
+					Corporate Customer Privacy Policy
+			
+					</div>
+	</nav>		<!-- Nivo Slider CSS -->
+<link rel="StyleSheet" href="http://www.mhfi.com/includes/nivo-slider2.css" media="screen">
+<style type="text/css">
+    .nivo-controlNav {
+      position: absolute;
+      margin: auto auto 50px 110px;
+    }
+</style>
+<script type="text/javascript" src="http://s7.addthis.com/static/r07/menu106.js"></script>
+<script type="text/javascript" src="http://www.mhfi.com/includes/jquery.nivo.slider.pack.js" language="JavaScript1.1"></script>	<nav class="leaderboard-ad480">
+		<a href="#"></a>
+      	</nav>
+		
+    <article id="primary-content" class="border-standard rounded threecolumn"> 
+						<h1>Corporate Customer Privacy Policy</h1>
+				<script language="text/javascript" src="http://www.mhfi.com/includes/flowplayer.js" type="text/javascript"></script>		<p><a id="section_1" class="section-anchor"></a></p>
+<p class="p1"><strong>Revised and posted May, 2013</strong></p>
+<p>McGraw Hill Financial’s Customer Privacy Policy is an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our Customers. The Policy guides how we collect, store, and use information about Customers and Prospects, and is periodically assessed against new technologies, business practices and our Customers' changing needs.</p>
+<p>McGraw Hill Financial may, from time to time, modify this Customer Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.<strong> </strong></p>
+<p>Please note that Privacy and Cookie Notices advising Customers and Prospects as to the specific uses that are being made of their Personally Identifiable Information by specific businesses within McGraw Hill Financial may also be modified from time to time to reflect changes in business practices. Those changes will appear in the relevant Privacy and Cookie Notice.</p>
+<p>McGraw Hill Financial also complies with applicable non-U.S. laws that impose additional responsibilities on McGraw Hill Financial beyond those stated in this Policy, particularly in connection with the treatment of Personally Identifiable Information about its Customers and Prospects.</p>
+<p>Our Policy recognizes two kinds of personal data that receive protection. <strong>Personally Identifiable Information</strong>, which includes, for example, e-mail addresses, billing information, employment status and "Click Stream" data from the use of cookies or other tools that track user activity on a web site or online service. A subset of that category, <strong>Sensitive Data</strong>, receives additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as specific salary, net worth or individual portfolio information) and information about specific medical conditions.</p>
+<p>McGraw Hill Financial is committed to using all reasonable efforts to abide by the following Policy statement:</p>
+<ol>
+<li><strong>Collection.</strong> Personally Identifiable Information will only be collected to the extent that McGraw Hill Financial deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally Identifiable Information on web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of McGraw Hill Financial.<br><strong><br></strong></li>
+<li><strong>Notification.</strong> Customers and Prospects will be notified (usually at the point where Personally Identifiable Information is collected) as to the uses the business may make of the Personally Identifiable Information collected from them. <br><strong>&nbsp;</strong></li>
+<li><strong>Choice: Opt Out for External Distribution of Personally Identifiable Information.</strong> Customers and Prospects will be given the opportunity to refuse permission for External Distribution of their name, address or other Personally Identifiable Information through an Opt Out mechanism. External Distribution does not include certain limited distributions such as sharing Personally Identifiable Information with an entity working on behalf of McGraw Hill Financial to serve our customers; transfer of Personally Identifiable Information in conjunction with the sale or similar transfer of a business; or the disclosure of Personally Identifiable Information in connection with legal proceedings, investigations of crimes or other wrongdoing. However, sharing Personally Identifiable Information with an entity working on behalf of McGraw Hill Financial or transferring Personally Identifiable Information in conjunction with the sale or similar transfer of a business is considered an Onward Transfer and will be handled as described below. &nbsp;<br><strong>&nbsp;</strong></li>
+<li><strong>Security.</strong> Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally Identifiable Information about our Customers and Prospects. <br><strong>&nbsp;</strong></li>
+<li><strong>Access: Review and Correction.</strong> Procedures have been developed through which Customers and Prospects can, upon request, review and correct the Personally Identifiable Information that has been collected from them by McGraw Hill Financial. &nbsp;These procedures may not, however, compromise the security, integrity and privacy of either McGraw Hill Financial’s own proprietary databases or databases licensed from third-party companies. <br><strong>&nbsp;</strong></li>
+<li><strong>Sensitive Data.</strong> The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. Sensitive Data will not be rented or otherwise made available for External Distribution outside McGraw Hill Financial (although it may be made available through Onward Transfer as described below). Customers and Prospects will be given the opportunity to refuse permission for their Sensitive Data to be distributed outside of the business that collected the Sensitive Data through use of an Opt Out mechanism for Internal Distribution within McGraw Hill Financial. <br><strong>&nbsp;</strong></li>
+<li><strong>Onward Transfer.</strong> Whenever McGraw Hill Financial permits a third party outside of McGraw Hill Financial to access Personally Identifiable Information through either External Distribution or Onward Transfer, commercially appropriate procedures will be followed to help ensure that the Information is used only for authorized purposes and by authorized persons in a manner consistent with the choices Customers and Prospects have made under this Policy, and that the security, integrity and privacy of the information is maintained. Please note that our web sites may contain links to other web sites that have their own privacy policies and practices. While McGraw Hill Financial will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, McGraw Hill Financial cannot make any guarantees with respect to the actions or policies of such third parties.</li>
+</ol>
+<p><strong>Questions and comments?</strong> McGraw Hill Financial’s Customer Privacy Policy has been developed out of respect for the privacy preferences and choices of our Customers and Prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each business within McGraw Hill Financial has designated a Privacy Official to implement our Customer Privacy Policy for its respective Customers and Prospects. The Privacy Official’s contact information is on each of our business’s web sites that collect data from you.</p>
+<p>The Corporation also has a standing Privacy Steering Committee, which oversees implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and Customer expectations.</p>
+<p>The Co-Chairs of the Committee are also charged with handling unresolved Customer concerns. You can reach the Co-Chairs by writing to McGraw Hill Financial’s Privacy Manager at <a href="mailto:privacy@mhfi.com">privacy@mhfi.com</a> or Privacy, McGraw Hill Financial, 1200 G Street, NW, Suite 200, Washington, D.C. 20005. To ensure that we follow our stated Policy, we conduct periodic and random reviews of our web sites and other products and services. The results of our reviews are shared with senior management. In addition, a <a href="/tools/privacy/customer-report">Report to Customers</a> is made available annually.</p>
+<p>Please read our <a href="/tools/privacy/corporate-privacy-and-cookie-notice">Corporate Privacy and Cookie Notice</a>, which applies specifically to any PII that may be collected through our Corporate web site.</p>
+	</article>
+</div>
+<aside id="sidebar-content">
+	
+		    			<div class="border-standard rounded">	
+				
+																					<div class="sidebar-title">Customer Privacy Links</div>
+										<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/corporate-privacy-and-cookie-notice"> Corporate Privacy and Cookie Notice </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/customer-report"> Annual Report on Customer Privacy Policy </a></li>
+					</ul>
+					</nav>
+																						<hr>
+												<div class="sidebar-title">Corporate Privacy Policy Translations </div>
+										<nav class="threecolumn-side">
+					<ul>
+						<li><a href="">  </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-english"> English </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-spanish"> Spanish </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-chinese"> Chinese </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-french"> French </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-german"> German </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-italian"> Italian </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-japanese"> Japanese </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-russian"> Russian </a></li>
+					</ul>
+					</nav>
+														<nav class="threecolumn-side">
+					<ul>
+						<li><a href="/tools/privacy/policy-statement-korean"> Korean </a></li>
+					</ul>
+					</nav>
+							</div>
+				<div class="nopadding">
+        	<div class="banner-ad250">
+          	  
+        	</div>
+    	</div>
+							</aside>
+<div class="clear"></div><!-- Start of Brand Logos -->  
+        <nav id="site-nav-brandlogo">
+				<div class="bu"> 
+						<div class="tooltip-sp-ratings">
+				<div class="close-btn">
+					<img src="http://media.mhfi.com/images/close-btn.png" class="bu-close-button">
+				</div>
+			<div class="content-popUp">
+	 			<a href="http://ratings.standardandpoors.com/" target="_blank"><img src="http://media.mhfi.com/images/branding-images-ratings.jpg" width="520" height="90" alt="" title="" border="0"></a>
+				<div class="content-popUp-left">
+					<h2>Standard &amp; Poor's Ratings Services</h2>
+					<p>With offices in 23 countries and a history that dates back more than 150 years, Standard &amp; Poor’s Ratings Services is a leader in financial-market intelligence. Today, we provide high-quality market intelligence in the form of credit ratings, research, and thought leadership on a variety of topics. </p>
+											<div><a href="http://www.mhfi.com/careers/our-brands/sp-ratings">Careers at Standard &amp; Poor's Ratings Services</a></div>
+									</div>
+				<div class="content-popUp-right">
+					<h2>S&amp;P’s Response to the DOJ Complaint</h2>
+<p>The U.S. Dept. of Justice and some states have filed meritless civil lawsuits against Standard &amp; Poor's challenging some of our 2007 CDO ratings and the underlying RMBS models. Their allegations are simply untrue. Our ratings were issued in good faith. Read <a href="http://ratings.standardandpoors.com/changes/company/SPs-Response-To-The-DOJ-Complaint.html" target="_blank">more</a>.</p>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">Visit the Infrastructure Views blog for our up-to-date commentary on global infrastructure<span style="font-size: 10px;">Visit the </span><a style="font-size: 10px;" href="http://www.infrastructureviews.com/" target="_blank">Infrastructure Views blog</a><span style="font-size: 10px;"> for our up-to-date commentary on global infrastructure</span></div>
+				</div>
+			</div>
+			<div class="pointer"></div>
+			</div>
+ 			<div>
+   				<img src="http://media.mhfi.com/images/home-logo-sp-ratings.png" id="sp-ratings">
+ 			</div>
+                   </div>
+			<div class="bu"> 
+						<div class="tooltip-CAPIQ">
+				<div class="close-btn">
+					<img src="http://media.mhfi.com/images/close-btn.png" class="bu-close-button">
+				</div>
+			<div class="content-popUp">
+	 			<a href="https://www.capitaliq.com/home.aspx" target="_blank"><img src="http://media.mhfi.com/images/branding-images-spcapiq.jpg" width="520" height="90" alt="" title="" border="0"></a>
+				<div class="content-popUp-left">
+					<h2>S&amp;P Capital IQ</h2>
+					<p>S&amp;P Capital IQ is a leading provider of multi-asset class and real-time data, research and analytics to institutional investors, investment and commercial banks, investment advisors and wealth managers, corporations and universities worldwide. Our broad suite of capabilities is designed to help track performance, generate alpha, identify new trading and investment ideas, and perform risk analysis.</p>
+											<div><a href="http://www.mhfi.com/careers/our-brands/sp-capital-iq">Careers at S&amp;P Capital IQ</a></div>
+									</div>
+				<div class="content-popUp-right">
+					<h2>Insightful Events</h2>
+<p>S&amp;P Capital IQ events cover topics ranging from mergers and acquisitions to project finance and infrastructure. Click&nbsp;<a href="https://www.capitaliq.com/home/events.aspx" target="_blank">here&nbsp;</a>for more.</p>
+<h2>Monthly Market Observations</h2>
+<p><a href="https://www.capitaliq.com/home/market-observations.aspx" target="_blank">Market Observations </a>is a monthly compilation of high-level perspectives on M&amp;A, public equity, and private capital. It is based primarily on content available in the S&amp;P Capital IQ Platform.</p>
+				</div>
+			</div>
+			<div class="pointer"></div>
+			</div>
+ 			<div>
+   				<img src="http://media.mhfi.com/images/home-logo-sp-indices.png" id="CAPIQ">
+ 			</div>
+                   </div>
+			<div class="bu"> 
+						<div class="tooltip-sp-indices">
+				<div class="close-btn">
+					<img src="http://media.mhfi.com/images/close-btn.png" class="bu-close-button">
+				</div>
+			<div class="content-popUp">
+	 			<a href="http://us.spindices.com/" target="_blank"><img src="http://media.mhfi.com/images/branding-images-SPDJI.jpg" width="520" height="90" alt="" title="" border="0"></a>
+				<div class="content-popUp-left">
+					<h2>S&amp;P Dow Jones Indices</h2>
+					<p>S&amp;P Dow Jones Indices is the world’s largest, global resource for index-based concepts, data and research. Home to iconic financial market indicators, such as the S&amp;P 500 and the Dow Jones Industrial Average, S&amp;P Dow Jones Indices has over 115 years of experience constructing innovative and transparent solutions that fulfill the needs of institutional and retail investors.</p>
+											<div><a href="http://www.mhfi.com/careers/our-brands/sp-indices">Careers at S&amp;P Dow Jones Indices</a></div>
+									</div>
+				<div class="content-popUp-right">
+					<h2>Housing Market</h2>
+<p>Visit the <a href="http://www.housingviews.com/" target="_blank">Housing Views blog</a> for all the latest on the U.S. housing market</p>
+<h2>Thought Leadership</h2>
+<p>In regular <a href="http://us.spindices.com/resource-center/thought-leadership/research/" target="_blank">video segments</a>, S&amp;P Dow Jones Indices analysts weigh in on all the topics of the day.</p>
+				</div>
+			</div>
+			<div class="pointer"></div>
+			</div>
+ 			<div>
+   				<img src="http://media.mhfi.com/images/home-logo-sp-capiq.png" id="sp-indices">
+ 			</div>
+                   </div>
+			<div class="bu"> 
+						<div class="tooltip-platts">
+				<div class="close-btn">
+					<img src="http://media.mhfi.com/images/close-btn.png" class="bu-close-button">
+				</div>
+			<div class="content-popUp">
+	 			<a href="http://platts.com/" target="_blank"><img src="http://media.mhfi.com/images/branding-images-platts.jpg" width="520" height="90" alt="" title="" border="0"></a>
+				<div class="content-popUp-left">
+					<h2>Platts</h2>
+					<p>Platts is a leading global provider of energy, petrochemicals, metals and agriculture information, and a premier  source of benchmark price assessments for those commodity markets. Platts' information and insights help customers make sound trading and business decisions and enable the commodity markets to perform with greater transparency and efficiency.</p>
+											<div><a href="http://www.mhfi.com/careers/our-brands/platts">Careers at Platts</a></div>
+									</div>
+				<div class="content-popUp-right">
+					<h2>Eye On The Markets</h2>
+<p>From  oil to natural gas, petrochemicals to metals and agriculture, Platts provides daily insights into the markets. Follow the <a href="http://www.platts.com/LatestNewsHeadlines" target="_blank">latest intelligence</a>&nbsp;with Platts’ headlines, podcasts, videos and more.&nbsp;</p>
+<h2>Events</h2>
+<p>Platts brings market participants and industry executives together to explore emerging trends and issues in diverse commodity sectors. Find out <a href="http://www.platts.com/Conference" target="_blank">more</a>.&nbsp;</p>
+				</div>
+			</div>
+			<div class="pointer"></div>
+			</div>
+ 			<div>
+   				<img src="http://media.mhfi.com/images/home-logo-platts.png" id="platts">
+ 			</div>
+                   </div>
+			<div class="bu"> 
+						<div class="tooltip-jd-power">
+				<div class="close-btn">
+					<img src="http://media.mhfi.com/images/close-btn.png" class="bu-close-button">
+				</div>
+			<div class="content-popUp">
+	 			<a href="http://www.jdpower.com/" target="_blank"><img src="http://media.mhfi.com/images/branding-images-JDPA.jpg" width="520" height="90" alt="" title="" border="0"></a>
+				<div class="content-popUp-left">
+					<h2>J.D. Power &amp; Associates</h2>
+					<p>J.D. Power &amp; Associates is a global marketing information services company operating in key business sectors including autos, energy, financial services and more, providing customer satisfaction research, market research,  social media research, and performance improvement programs. </p>
+											<div><a href="http://www.mhfi.com/careers/our-brands/jdpa" target="_blank">Careers at J.D. Power &amp; Associates</a></div>
+									</div>
+				<div class="content-popUp-right">
+					<h2>The Voice of the Customer</h2>
+<p>Since 1968, J.D. Power &amp; Associates has been listening to consumers and business customers;   analyzing their opinions and perceptions; and refining research techniques and study methods to offer advanced product quality, customer satisfaction, and tracking research.</p>
+				</div>
+			</div>
+			<div class="pointer"></div>
+			</div>
+ 			<div>
+   				<img src="http://media.mhfi.com/images/home-logo-jdpower.png" id="jd-power">
+ 			</div>
+                   </div>
+			<div class="bu"> 
+						<div class="tooltip-mgh-construction">
+				<div class="close-btn">
+					<img src="http://media.mhfi.com/images/close-btn.png" class="bu-close-button">
+				</div>
+			<div class="content-popUp">
+	 			<a href="http://www.construction.com" target="_blank"><img src="http://media.mhfi.com/images/branding-images-mhc.jpg" width="520" height="90" alt="" title="" border="0"></a>
+				<div class="content-popUp-left">
+					<h2>Construction</h2>
+					<p>McGraw Hill Construction connects people, projects, and products across the construction industry. For more than a century, it has been North America’s top provider of project and product information, plans and specifications, and industry news, trends, and forecasts. </p>
+											<div><a href="http://www.mhfi.com/careers/our-brands/construction" target="_blank">Careers at McGraw Hill Construction</a></div>
+									</div>
+				<div class="content-popUp-right">
+					<h2>Dodge MarketShare</h2>
+<p>Dodge MarketShare helps building product manufacturers and contractors find new opportunities. It's powered by Dodge Reports data, the construction intelligence&nbsp;standard. Find out <a href="http://www.construction.com/dodge/marketshare.asp" target="_blank">more</a>.</p>
+<h2>Engineering-News Record</h2>
+<p>Engineering News-Record provides the news, analysis, commentary and data that allows industry professionals to work more intelligently. Click&nbsp;<a href="http://enr.construction.com/" target="_blank">here&nbsp;</a>for more.</p>
+				</div>
+			</div>
+			<div class="pointer"></div>
+			</div>
+ 			<div>
+   				<img src="http://media.mhfi.com/images/home-logo-construction.png" id="mgh-construction">
+ 			</div>
+                   </div>
+			<div class="bu"> 
+						<div class="tooltip-aviation-week">
+				<div class="close-btn">
+					<img src="http://media.mhfi.com/images/close-btn.png" class="bu-close-button">
+				</div>
+			<div class="content-popUp">
+	 			<a href="http://www.aviationweek.com" target="_blank"><img src="http://media.mhfi.com/images/branding-images-aw.jpg" width="520" height="90" alt="" title="" border="0"></a>
+				<div class="content-popUp-left">
+					<h2>Aviation Week</h2>
+					<p>Serving over 1.2 million professionals in 185 countries, Aviation Week is the largest information and services provider to the global commercial, defense, maintenance/repair/overhaul, space and business aviation communities. It plays a critical role in connecting industry professionals worldwide. </p>
+											<div><a href="http://www.mhfi.com/careers/our-brands/aviation-week ">Careers at Aviation Week</a></div>
+									</div>
+				<div class="content-popUp-right">
+					<h2>Aviation Week Events</h2>
+<p>From the global MRO Event series to defense technology and civil aviation manufacturing events, Aviation Week is the leading event producer bringing together industry leaders to share essential insights and best practices, connect buyers and sellers and tackle the industry’s most critical issues Here's the <a href="http://events.aviationweek.com/" target="_blank">schedule</a>.</p>
+				</div>
+			</div>
+			<div class="pointer"></div>
+			</div>
+ 			<div>
+   				<img src="http://media.mhfi.com/images/home-logo-aviationweek.png" id="aviation-week">
+ 			</div>
+                   </div>
+	       </nav>
+	<!-- End of Brand Logos --><!-- Page Footer Starts Here -->
+<footer id="home-footer">
+	<div id="footer-wrapper">
+	    						<div>
+													<h3><a href="/about">About</a></h3>
+													   <ul>
+																																							<li><a href="/about/our-businesses">Our Businesses</a></li> 
+																																																				<li><a href="/about/executive-team">Executive Profiles</a></li> 
+																																																				<li><a href="/about/our-history">Our History</a></li> 
+																																																																					<li><a href="/about/office-locations">Office Locations</a></li> 
+																																																				<li><a href="/about/diversity">Diversity &amp; Inclusion</a></li> 
+																																																				<li><a href="/about/mcgraw-prize">McGraw Prize</a></li> 
+																																																				<li><a href="/about/mcgraw-hill-research-foundation" target="_blank">McGraw-Hill Research Foundation</a></li> 
+																							</ul>
+							</div>	
+		        						<div>
+													<h3><a href="/careers">Careers</a></h3>
+													   <ul>
+																																							<li><a href="/careers/job-search" target="_blank">Job Search</a></li> 
+																																																				<li><a href="/careers/our-brands">Our Brands</a></li> 
+																																																				<li><a href="/careers/application-process">Application Process</a></li> 
+																																																				<li><a href="/careers/benefits">Benefits</a></li> 
+																																																				<li><a href="/careers/college">Campus Recruiting</a></li> 
+																																																				<li><a href="/careers/employee-profiles">Employee Profiles</a></li> 
+																							</ul>
+							</div>	
+		        						<div>
+													<h3><a href="/corporate-responsibility">Corporate Responsibility</a></h3>
+													   <ul>
+																																							<li><a href="/corporate-responsibility/community">Community</a></li> 
+																																																				<li><a href="/corporate-responsibility/marketplace">Marketplace</a></li> 
+																																																				<li><a href="/corporate-responsibility/people">People</a></li> 
+																																																				<li><a href="/corporate-responsibility/environment">Environment</a></li> 
+																																																				<li><a href="/corporate-responsibility/governance">Governance</a></li> 
+																																																				<li><a href="/corporate-responsibility/case-studies">Case Studies</a></li> 
+																																																				<li><a href="/corporate-responsibility/policies">Policies and Downloads</a></li> 
+																																																				<li><a href="/corporate-responsibility/recognition">Recognition</a></li> 
+																																																				<li><a href="/corporate-responsibility/gri-index">GRI Index</a></li> 
+																																																				<li><a href="/corporate-responsibility/contacts">CR Contacts</a></li> 
+																							</ul>
+							</div>	
+		        						<div>
+													<h3><a href="/investors">Investor Relations</a></h3>
+													   <ul>
+																																							<li><a href="/investors/overview">Overview</a></li> 
+																																																				<li><a href="/investors/executive-profiles">Executive Profiles</a></li> 
+																																																				<li><a href="/investors/board-of-directors">Board of Directors</a></li> 
+																																																				<li><a href="/investors/corporate-governance">Corporate Governance</a></li> 
+																																																				<li><a href="/investors/investor-fact-book">Investor Fact Book</a></li> 
+																																																				<li><a href="/investors/presentations">Investor Presentations</a></li> 
+																																																				<li><a href="/investors/news-releases">News Releases</a></li> 
+																																																				<li><a href="/investors/quarterly-earnings">Quarterly Earnings</a></li> 
+																																																				<li><a href="/investors/sec-filings">SEC Filings</a></li> 
+																																																				<li><a href="/investors/annual-reports">Annual Reports</a></li> 
+																																																				<li><a href="/investors/proxy-statements">Proxy Statements</a></li> 
+																																																				<li><a href="/investors/stock-quote-and-charts">Stock Quote &amp; Charts</a></li> 
+																																																				<li><a href="/investors/divident-stock-split-history">Dividend &amp; Stock Split History</a></li> 
+																																																				<li><a href="/investors/safe-harbor-statement">Safe Harbor Statement</a></li> 
+																							</ul>
+							</div>	
+		        			        			        						<div>
+													<h3><a href="/news">News Room</a></h3>
+													   <ul>
+																																							<li><a href="/news/news-releases">News Releases</a></li> 
+																																																				<li><a href="/news/media-contacts">Media Contacts</a></li> 
+																																																				<li><a href="/news/social">Social Media Directory</a></li> 
+																																																				<li><a href="/news/fact-sheet">Fact Sheet</a></li> 
+																																																				<li><a href="/news/our-new-look">Our New Look</a></li> 
+																							</ul>
+							</div>	
+		        			        			        			        						<div>
+													<h3><a href="/tools">Tools</a></h3>
+													   <ul>
+																																							<li><a href="/tools/contact">Contact Us</a></li> 
+																																																				<li><a href="/tools/sitemap">Site Map</a></li> 
+																																																				<li><a href="/tools/terms-of-use">Terms of Use</a></li> 
+																																																				<li><a href="/tools/piracy-report">Report Piracy</a></li> 
+																																																				<li><a href="/tools/privacy">Corporate Customer Privacy Policy</a></li> 
+																							</ul>
+							</div>	
+		        </div>
+</footer>
+<!-- Page Footer ends here -->
+  <footer id="copyright-footer">
+
+    <nav id="copyright"> © 2013 McGraw Hill Financial<a href="/tools/terms-of-use">Terms of Use</a><a href="/tools/privacy">Privacy</a><a href="/tools/piracy-report">Report Piracy</a></nav>
+
+     <!-- social links navigation -->
+    <nav id="social">
+      <ul>
+        <li><a href="http://investor.mhfi.com/phoenix.zhtml?c=96562&amp;p=rssSubscription&amp;t=&amp;id=&amp;" target="_blank"><img src="http://media.mhfi.com/designimages/icon-rss.png"></a></li>
+        <li><a href="https://www.facebook.com/mcgrawhill" target="_blank"><img src="http://media.mhfi.com/designimages/icon-facebook.png"></a></li>
+        <li><a href="https://twitter.com/MHFI" target="_blank"><img src="http://media.mhfi.com/designimages/icon-twitter.png"></a></li>
+ 
+         <li><a href="http://mcgrawhillfinancial.tumblr.com" target="_blank"><img src="http://media.mhfi.com/designimages/icon-tumblr.png"></a></li>
+       <li><a href="http://www.youtube.com/user/mcgrawhill" target="_blank"><img src="http://media.mhfi.com/designimages/icon-youtube.png"></a></li>
+<li><a href="http://www.linkedin.com/company/mcgraw-hill-financial" target="_blank"><img src="http://media.mhfi.com/designimages/icon-linkedIn.png"></a></li>    
+   </ul>
+    </nav>
+  </footer>
+
+<!-- close overall wrapper div -->
+</div>
+
+<!-- Please Don't Remove the below comment. Used for Clickability Print Utility -->
+<!--endclickprintinclude-->
+<!-- START OF SmartSource Data Collector TAG v10.2.29 -->
+<!-- Copyright (c) 2012 Webtrends Inc.  All rights reserved. -->
+<script type="text/javascript">
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcs4v65xu6bv0hcdng6gae2kw_2r2h",
+        domain:"statse.webtrendslive.com",
+        timezone:-5,
+        i18n:true,
+        anchor:true,
+        javascript: true,
+        fpcdom:".mcgrawhillfinancial.com",
+        plugins:{
+            hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+        }
+        }).track();
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="http://www.mhfi.com/includes/webtrends.min.js";    
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcs4v65xu6bv0hcdng6gae2kw_2r2h/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.29&amp;dcssip=www.mcgrawhillfinancial.com"/></noscript>
+<!-- END OF SmartSource Data Collector TAG v10.2.29 -->
+
+
+</body></html>
