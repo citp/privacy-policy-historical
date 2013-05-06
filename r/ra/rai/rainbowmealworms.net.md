@@ -1,31 +1,59 @@
-> *The following text is extracted and transformed from the rainbowmealworms.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134550id_/http%3A//www.rainbowmealworms.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowmealworms.net privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506172342id_/http%3A//www.rainbowmealworms.net/privacy-policy) for the most accurate reproduction.*
 
-# Rainbow Mealworms, Inc.
+# Privacy Policy
 
-This notice describes our privacy policy. **By visiting RainbowMealworms.net, ("Rainbow"), you are accepting the policies described in this notice.**
+This Privacy Policy governs the manner in which Rainbow Mealworms, Inc collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.rainbowmealworms.net](http://www.rainbowmealworms.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Rainbow Mealworms, Inc.
 
-## What personal information does Rainbow gather?
+ **Personal identification information**
 
-We gather information we learn from customers to improve your shopping experience. Here are the types of information we gather.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-  * **Information you give us:** any information you enter on our web site or give to us by any other means. You can choose not to provide certain information, but you may not be able to take the advantage of our features.
-  * **Automatic Information:** we store certain types of information whenever you interact with us. Such information as "cookies" or session ids are collected as your browser interacts with our servers.
-  * **Electronic Communications:** Our system will transmit certain email confirmations and electronic newsletters. To do so, we may capture and store information from your email communications with us to better your experience on our site.
+ **Non-personal identification information**
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+ **Web browser cookies**
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+ **How we use collected information**
+
+Rainbow Mealworms, Inc may collect and use Users personal information for the following purposes:
+
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To send periodic emails_  
+We may use the email address to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-## Cookies
+**How we protect your information**
 
-In order to provide a better navigation and shopping experience, rainbowmealworms.net stores small bits of information for security reasons on your browser as 'cookies'. These cookies can only be read by rainbowmealworms.net and are not a risk to your privacy.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-## Rainbow does not share your information
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-Rainbow Mealworms commitment to our customer's privacy comes first and foremost. We will never sell, trade, share, or make public your private information except in compliance with state and federal laws. Access to data on the site by company personnel is on a need to know basis only, and by authorized personnel only.
+ **Sharing your personal information**
 
-## How secure is my information
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-For security purposes rainbowmealworms.net uses 256bit secure sockets layer (SSL) encryption on all sensitive pages including login, checkout, and account editing. This is the same level of encryption and security provided to you by the banking industry and all major, professional level shops on the internet.
+ **Changes to this privacy policy**
 
-## May children visit our site and store information?
+Rainbow Mealworms, Inc has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Rainbow hopes to provide informative information for young and grown alike. However, as a shopping experience, rainbowmealworms.net is to be used by adults of legal age. All children visiting the site must do so with the permission and supervision of the appropriate adult and all purchases and accounts must be owned by legal adults.
+ **Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.rainbowmealworms.net/shipping-returns/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Rainbow Mealworms, Inc](http://www.rainbowmealworms.net/)  
+[http://www.rainbowmealworms.net](http://www.rainbowmealworms.net/)  
+126 E. Spruce Street Compton, CA 90220  
+3106351494  
+gillian.spence@rainbowmealworms.net
+
+This document was last updated on November 29, 2012
