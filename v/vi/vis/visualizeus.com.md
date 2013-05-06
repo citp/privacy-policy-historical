@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualizeus.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504082839id_/http%3A//vi.sualize.us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualizeus.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506203848id_/http%3A//vi.sualize.us/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on VisualizeUs
 
@@ -18,7 +18,7 @@ We are not responsible for the practices employed by websites linked to or from 
 
 ### Our Policy Towards Children
 
-The site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should [contact us](https://web.archive.org/contact). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
+The site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should [contact us](https://web.archive.org/contact/). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
 
 ### Log Files
 
