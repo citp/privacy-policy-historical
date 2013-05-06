@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kidblog.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193102id_/http%3A//kidblog.org/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidblog.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506235117id_/http%3A//kidblog.org/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kidblog
 
 The Kidblog, Inc. Privacy Policy
 
-This Privacy Policy (the “Privacy Polity”) applies to the www.kidblog.org website (the “Service”). The Service is owned and operated by Kidblog, Inc., a corporation under Delaware, United States law (“Kidblog,” “we,” “our”) with offices in Minneapolis, Minnesota. This Privacy Policy applies to all users and visitors of the Service, whether or not they register (“user,” “you,” “your”).
+This Privacy Policy (the “Privacy Policy”) applies to the www.kidblog.org website (the “Service”). The Service is owned and operated by Kidblog, Inc., a corporation under Delaware, United States law (“Kidblog,” “we,” “our”) with offices in Minneapolis, Minnesota. This Privacy Policy applies to all users and visitors of the Service, whether or not they register (“user,” “you,” “your”).
 
 The Service is a web blogging platform intended for use by teachers in an educational setting. The Service is currently free to all users.
 
