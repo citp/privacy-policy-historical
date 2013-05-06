@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006113419id_/http%3A//www.cmj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506184145id_/http%3A//www.cmj.com/privacy-policy) for the most accurate reproduction.*
 
-# CMJ Network, Inc. Privacy Policy | CMJ
+# CMJ Holdings, Corp. Privacy Policy | CMJ
 
-CMJ provides a variety of online services (Services) through its website located at [www.cmj.com](http://atwww.cmj.com/) (the CMJ Site). Furthermore, the CMJ Site provides the opportunity for you to visit additional web sites with  
+CMJ provides a variety of online services (Services) through its website located at [www.cmj.com](http://www.cmj.com/) (the CMJ Site). Furthermore, the CMJ Site provides the opportunity for you to visit additional web sites with  
 which CMJ has established an affiliation (collectively, the Sites).
 
 Your privacy is important to us. As such, we will take all reasonable steps to safeguard your personal information. As part of the operation of the Sites certain information is gathered about those who visit and register to participate. Below are explanations regarding the type of information collected, what we do with it, and how you can correct or change the information gathered.
