@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthstream.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104144551id_/http%3A//www.healthstream.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthstream.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506044854id_/http%3A//healthstream.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # HealthStream :: Privacy Statement
 
