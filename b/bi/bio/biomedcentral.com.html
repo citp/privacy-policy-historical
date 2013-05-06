@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biomedcentral.com privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214200921id_/http%3A//www.biomedcentral.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biomedcentral.com privacy policy that was archived on 2013-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130506020841id_/http%3A//www.biomedcentral.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html id="js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head>
 
@@ -8,18 +8,18 @@
     
     
                                                                                                                                                                                                                                 
-                                    
+                
     
             
 
             
-        <script>window.bmcIsMobile = "classic";</script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>window.bmcIsMobile = "classic";</script>
         
         
     
 <title>BioMed Central | Privacy</title>
 <link rel="shortcut icon" type="image/x-icon" href="/images/icon/9001/favicon.ico">
-<meta http-equiv="X-UA-Compatible" content="IE=7">
+
 
 
     
@@ -30,6 +30,19 @@ document.documentElement.id = "js";
 </script>
 
 
+ 
+    
+    
+                                                                                                                                                                                                                                
+                
+    
+            
+
+            
+        <script>window.bmcIsMobile = "classic";</script>
+        
+        
+    
 
 
 
@@ -63,8 +76,7 @@ document.documentElement.id = "js";
 <!--[if IE 7]>
                     <link rel="stylesheet" type="text/css" href="/css/hacks/ie7-0.css"/>
     <![endif]-->
-
-
+			
 <script type="text/javascript">
     //configuration
     OAS_url = 'http://oas.biomedcentral.com/RealMedia/ads/';
@@ -91,14 +103,23 @@ document.documentElement.id = "js";
 		document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" target="' + OAS_target + '">');
 		document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" border="0"/></a>');
     }
+    
 	function refererTerms(referer) {
+
+	if(referer.match("q=") != null) {
 		referer = referer.split("q=");
 		referer = referer[1].split("&");
 		referer = referer[0];
+	} else {
+		referer = referer;
+	}
+
 		if(referer.match("%20") != null && referer.match("%20").length >= 1) {
 			referer =  referer.replace(/%20/gi,"+");
 			return referer;
-		} else { return referer; }
+		} else { 
+			return referer; 
+		}
 	}
  </script>
 
@@ -114,7 +135,7 @@ document.documentElement.id = "js";
      OAS_version = 10; }
     if (OAS_version >= 11) {
     document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>'); }
-</script><script type="text/javascript" src="http://oas.biomedcentral.com/RealMedia/ads/adstream_mjx.ads/biomedcentral.com/about/1361937650@Top,Bottom,Right1?"></script>
+</script><script type="text/javascript" src="http://oas.biomedcentral.com/RealMedia/ads/adstream_mjx.ads/biomedcentral.com/about/1420071227@Top,Bottom,Right1?"></script>
 	
 <script type="text/javascript">
     document.write('');
@@ -126,6 +147,7 @@ document.documentElement.id = "js";
          OAS_NORMAL(pos);
     }
  </script>
+	
 
 
 
@@ -161,10 +183,31 @@ document.documentElement.id = "js";
 </script>
 
 
+
+
     <link title="Latest articles" rel="alternate" href="http://www.biomedcentral.com/latest/rss" type="application/rss+xml" exposetoheader="true">
     <link title="Most viewed" rel="alternate" href="http://www.biomedcentral.com/mostviewed/rss/" type="application/rss+xml" exposetoheader="true">
     <link title="Latest comments" rel="alternate" href="http://www.biomedcentral.com/latestcomments/rss" type="application/rss+xml" exposetoheader="true">
 
+
+
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-72326-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setLocalRemoteServerMode']);
+
+		_gaq.push(['_trackPageview']); 
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+
+	
+        
 
 
 
@@ -174,7 +217,7 @@ document.documentElement.id = "js";
     
     
                                                                                                                                                                                                                                 
-                                    
+                
     
             
 
@@ -183,7 +226,132 @@ document.documentElement.id = "js";
         
         
     
-<div id="branding">
+<script type="text/javascript">
+
+function createCookie(name,value,days,path) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else{ var expires = "";}
+	if (path!=null)
+	{
+	    document.cookie = name+"="+value+expires+"; path=/";
+	}
+	else
+	{
+	    document.cookie = name+"="+value+expires+";";
+	}
+}
+function createCookie1(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else{ var expires = "";}
+		    document.cookie = name+"="+value+expires;
+	}
+
+function eraseCookie(name) {
+    // path describes the location of the cookie
+    var path= "/";
+	createCookie("database_statistics","",-1,path);
+	// null value as a parameter tells that cookie existing in current application context like cookie in  http://biomedcentral.com.local/about/tandc
+	createCookie("database_statistics_request_id","",-1,null);
+	hidediv();
+}
+function hidediv() 
+{ 
+	if (document.getElementById) 
+	{
+	    document.getElementById('dbstats_main').style.visibility = 'hidden';
+	}
+}
+
+function getCookieExists(c_name)
+{
+    var i,x,y,ARRcookies=document.cookie.split(";");
+    for (i=0;i<ARRcookies.length;i++)
+    {
+          x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+          y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+          x=x.replace(/^\s+|\s+$/g,"");
+          if (x==c_name)
+            {
+                return unescape(y);
+            }
+     }
+}
+
+var request_Id;
+var search_cookie = "database_statistics_request_id" + "="
+var more_dbstats_link;
+//readingDBStatscookie() will be called from JQuery function jQuery(document).ready(function() in behaviour.js which is called on "onload()" event
+// in order to read the data from the lates cookie
+
+function readingDBStatsCookie()
+{
+ if ( getCookieExists("database_statistics")!=null)
+   {	
+	if ( getCookieExists("database_statistics_request_id") != null)
+   {
+        if ( getCookieExists("database_statistics_request_id") != null)
+        {
+            if (document.cookie.length > 0)
+            {
+                // Search for a cookie.
+                offset = document.cookie.indexOf(search_cookie)
+                if (offset != -1)
+                {
+                        offset += search_cookie.length
+                        // set index of beginning of value
+                        end = document.cookie.indexOf(";",offset)
+                        if (end == -1)
+                        {
+                            end = document.cookie.length
+                        }
+                       request_Id=document.cookie.substring(offset, end);
+                       more_dbstats_link = "http://www.biomedcentral.com:80/newjournal/dbstats?content_type=html&request_id="+request_Id;
+			  
+			  createCookie("database_statistics_request_id","",-1);
+				
+                       var link = document.createElement('a');
+                       link.setAttribute('href', more_dbstats_link);
+                       link.innerHTML="<b>More DBStats</b>";
+                       link.title="More dbstats";
+                       //var text = "<a href=\""+more_dbstats_link+"\" >More DB Stats</a>";
+                    document.getElementById('more_dbstats_link').appendChild(link);
+                }
+            }
+        }
+	}
+ }
+}
+  if (getCookieExists("database_statistics")!=null)
+     {
+           document.write( "<div id =\"dbstats_main\" style=\"background-color:white\">"   );
+             document.write("<div id =\"dbstats\" style=\"background-color:lightgray;margin-left:300px;margin-right:300px;margin-top:-10px\">");
+             document.write("<br>");
+                    document.write("<b>DB Stats</b>");
+                    document.write("- consistent gets:");
+                    document.write("<span id = \"consistent_gets\">NA</span> ");
+                    document.write(", physical reads:");
+                    document.write("<span id = \"physical_reads\">NA</span>");
+                    document.write(", bytes sent via SQL*Net to client: ");
+                    document.write("<span id = \"SQL_NET\">NA</span>");
+                    document.write("&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp");
+                    document.write("<span id=\"more_dbstats_link\">");
+                    document.write("</span>	");
+                    document.write("<span id=\"close_dbstats_link\">");
+                    document.write("[<a href='javascript:eraseCookie()' >x</a>]");
+                    document.write("</span>	");
+             document.write("</div>");
+           document.write("</div> ");
+     }
+ </script>
+<div id="branding" role="banner">
             			
 		<dl class="google-ad wide  advert-text">
 	<dt class="hide" style="display: block;">
@@ -207,13 +375,13 @@ document.documentElement.id = "js";
     <dt class="hide"></dt>
     
     <dd>
-        <a href="http://oas.biomedcentral.com/RealMedia/ads/click_nx.ads/biomedcentral.com/about/11403768737@Top?">
-            <img src="http://oas.biomedcentral.com/RealMedia/ads/adstream_nx.ads/biomedcentral.com/about/11872692284@Top?" alt="advert"/>
+        <a href="http://oas.biomedcentral.com/RealMedia/ads/click_nx.ads/biomedcentral.com/about/16539056177@Top?">
+            <img src="http://oas.biomedcentral.com/RealMedia/ads/adstream_nx.ads/biomedcentral.com/about/13190386303@Top?" alt="advert"/>
         </a>
     </dd>
 			</dl>
 		</noscript>
-				    <div class="sup-panel-outer">
+			        <div class="sup-panel-outer">
         <div class="sup-panel-inner">
             <ul id="login" class="login">
             <li id="loginLink"><a href="/logon">Log on</a></li>
@@ -234,7 +402,8 @@ document.documentElement.id = "js";
 			</div>		
 				
                     
-<div class="module search gray small  portalsearch">
+
+<div class="module search gray small  portalsearch" role="search">
     <div class="module-inner padded">
         <form method="get" class="searchForm" action="/search/results ">
             <fieldset class="search">
@@ -246,21 +415,33 @@ document.documentElement.id = "js";
 	<a class="advanced-search" href="/search">Advanced search</a>
 </div> 
 
-            <ul class="primary-nav">
+            <div id="mobile-nav-list">
+<ul class="primary-nav" role="navigation">
     <li><a href="/"><span id="home-tab">Home</span></a></li>
             <li><a href="/journals"><span id="journals-tab">Journals</span></a></li>
         <li><a href="/content"><span id="articles-tab">Articles</span></a></li>
 	                                                                            <li><a href="/gateways"><span id="gateways-tab">Gateways</span></a></li>
                             <li class="current"><a href="/about"><span id="about-tab">About BioMed Central</span></a></li>
         <li><a href="/my"><span id="my-tab">My BioMed Central</span></a></li>
-    </ul>            </div>
-</div>
-<hr class="hide">
+    </ul>
+</div>            </div>
+</div><hr class="hide">
 <div class="container">
 	<div id="content">
 			
+ 
+    
+    
+                                                                                                                                                                                                                                
+                
+    
+            
 
-
+            
+        <script>window.bmcIsMobile = "classic";</script>
+        
+        
+    
 
 <div class="primary-content about-nav">
 <ul class="secondary-nav" id="aboutus-navigation">
@@ -311,18 +492,16 @@ document.documentElement.id = "js";
 	<li>            <a class="active" href="/about/cookies">Cookies</a>
     </li>	
 	<li>            Privacy policy
-    </li>	
-	<li>            <a class="active" href="/about/peerreview">Peer-review policy</a>
-    </li>	
-	<li>            <a class="active" href="/about/copyright">Copyright</a>
+    </li>
+			<li>            <a class="active" href="/about/editorialpolicies">Editorial Policies</a>
+    </li>
+		<li>            <a class="active" href="/about/copyright">Copyright</a>
     </li>   
 	<li>            <a class="active" href="/about/license">License agreement</a>
     </li>	
 	<li>            <a class="active" href="/about/reprintsandperm">Reprints and permissions</a>
     </li>      
 	<li>            <a class="active" href="/about/permanency">Permanency of articles</a>
-    </li>
-	<li>            <a class="active" href="/about/duplicatepublication">Duplicate publication</a>
     </li>
 	<li>            <a class="active" href="/about/commentpolicy">Comments policy</a>
     </li>	
@@ -365,9 +544,14 @@ document.documentElement.id = "js";
 	<li id="events-button"><a href="/events"><span>Events</span></a>
 
             </li>
-            
+        		    
 		
-	<li id="publishingservices-button"><a href="/publishingservices"><span>Publishing services</span></a>
+	<li id="society-partnerships-button"><a href="/society-partnerships"><span>Publishing and society partnerships</span></a>
+
+            </li>
+    		    
+		
+	<li id="additionalservices-button"><a href="/additionalservices"><span>Additional services</span></a>
 
             </li>
             
@@ -377,7 +561,6 @@ document.documentElement.id = "js";
             </li>
     </ul>
 </div>
-
 <div class="secondary-content">
 
 
@@ -457,7 +640,19 @@ please contact our <a href="mailto:info@biomedcentral.com">customer services</a>
 
 <div class="tertiary-content">
 
+ 
+    
+    
+                                                                                                                                                                                                                                
+                
+    
+            
 
+            
+        <script>window.bmcIsMobile = "classic";</script>
+        
+        
+    
 
 			
 		
@@ -518,16 +713,15 @@ please contact our <a href="mailto:info@biomedcentral.com">customer services</a>
     <dt class="hide"><a href="http://www.biomedcentral.com/advertisers/digital_advertising">Advertisement</dt>
     
     <dd>
-        <a href="http://oas.biomedcentral.com/RealMedia/ads/click_nx.ads/biomedcentral.com/about/11373561984@Right1?">
-            <img src="http://oas.biomedcentral.com/RealMedia/ads/adstream_nx.ads/biomedcentral.com/about/12143118962@Right1?" alt="advert"/>
+        <a href="http://oas.biomedcentral.com/RealMedia/ads/click_nx.ads/biomedcentral.com/about/16037838177@Right1?">
+            <img src="http://oas.biomedcentral.com/RealMedia/ads/adstream_nx.ads/biomedcentral.com/about/16266771954@Right1?" alt="advert"/>
         </a>
     </dd>
 			</dl>
 		</noscript>
 				
 
-						
-</div>
+						</div>
 
 		</div>
 </div>
@@ -554,8 +748,8 @@ please contact our <a href="mailto:info@biomedcentral.com">customer services</a>
     <dt class="hide"><a href="http://www.biomedcentral.com/advertisers/digital_advertising">Advertisement</dt>
     
     <dd>
-        <a href="http://oas.biomedcentral.com/RealMedia/ads/click_nx.ads/biomedcentral.com/about/11873323556@Bottom?">
-            <img src="http://oas.biomedcentral.com/RealMedia/ads/adstream_nx.ads/biomedcentral.com/about/12921733703@Bottom?" alt="advert"/>
+        <a href="http://oas.biomedcentral.com/RealMedia/ads/click_nx.ads/biomedcentral.com/about/14644051161@Bottom?">
+            <img src="http://oas.biomedcentral.com/RealMedia/ads/adstream_nx.ads/biomedcentral.com/about/13876260554@Bottom?" alt="advert"/>
         </a>
     </dd>
 			</dl>
@@ -569,7 +763,7 @@ please contact our <a href="mailto:info@biomedcentral.com">customer services</a>
     
     
                                                                                                                                                                                                                                 
-                                    
+                
     
             
 
@@ -603,7 +797,7 @@ please contact our <a href="mailto:info@biomedcentral.com">customer services</a>
 
     
     	    </ul>
-    <p id="copyright">© 2012 
+    <p id="copyright">© 2013 
 	BioMed Central Ltd unless otherwise stated. Part of Springer Science+Business Media.</p>
         </div>
 </div>
@@ -616,30 +810,19 @@ please contact our <a href="mailto:info@biomedcentral.com">customer services</a>
 </div>
 
 
-<div id="analytics">
-		<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
-	
-    <script type="text/javascript">
-        var pageTracker = _gat._getTracker("UA-72326-1");
-		_gat._anonymizeIp();
-        pageTracker._setLocalRemoteServerMode();
-        pageTracker._initData();
-        pageTracker._setCustomVar(1,"Design","new",3);
-        		pageTracker._trackPageview();
-	</script>
-</div>
+<script>
+// getElementsByClassName Polyfill
+var getElementsByClassName=function(e,t,n){if(document.getElementsByClassName){getElementsByClassName=function(e,t,n){n=n||document;var r=n.getElementsByClassName(e),i=t?new RegExp("\\b"+t+"\\b","i"):null,s=[],o;for(var u=0,a=r.length;u<a;u+=1){o=r[u];if(!i||i.test(o.nodeName)){s.push(o)}}return s}}else if(document.evaluate){getElementsByClassName=function(e,t,n){t=t||"*";n=n||document;var r=e.split(" "),i="",s="http://www.w3.org/1999/xhtml",o=document.documentElement.namespaceURI===s?s:null,u=[],a,f;for(var l=0,c=r.length;l<c;l+=1){i+="[contains(concat(' ', @class, ' '), ' "+r[l]+" ')]"}try{a=document.evaluate(".//"+t+i,n,o,0,null)}catch(h){a=document.evaluate(".//"+t+i,n,null,0,null)}while(f=a.iterateNext()){u.push(f)}return u}}else{getElementsByClassName=function(e,t,n){t=t||"*";n=n||document;var r=e.split(" "),i=[],s=t==="*"&&n.all?n.all:n.getElementsByTagName(t),o,u=[],a;for(var f=0,l=r.length;f<l;f+=1){i.push(new RegExp("(^|\\s)"+r[f]+"(\\s|$)"))}for(var c=0,h=s.length;c<h;c+=1){o=s[c];a=false;for(var p=0,d=i.length;p<d;p+=1){a=i[p].test(o.className);if(!a){break}}if(a){u.push(o)}}return u}}return getElementsByClassName(e,t,n)}
+</script>
 
-
-
-        
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
 <script type="text/javascript">
 if (typeof jQuery == 'undefined') { document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/jquery.min.js' type='text/javascript'%3E%3C/script%3E")); }
 
+
 document.documentElement.id = "js";
-
-
 
 var site = {
 			abbreviation: "",
@@ -657,10 +840,11 @@ var site = {
         id: "9001",
 	name: "BioMed Central",
 	plugins: {
-		scrollable: (document.getElementsByClassName("scrollable").length > 0),
-		flowplayer: ((document.getElementById("flowplayer") != null) || (document.getElementsByClassName("myPlayer").length > 0) || (document.getElementById("videoarticle") != null) || (document.getElementsByClassName("flowplayer").length > 0) || (document.getElementById("audio") != null) || (document.getElementById("elifeplayer") != null)),
-		lightbox: ((document.getElementById("image-highlight") != null) || (document.getElementsByClassName("lightbox").length > 0)),
-		thickbox: (document.getElementsByClassName("thickbox").length > 0)
+		scrollable: (getElementsByClassName("scrollable").length > 0),
+		flowplayer: ((document.getElementById("flowplayer") != null) || (getElementsByClassName("myPlayer").length > 0) || (document.getElementById("videoarticle") != null) || (getElementsByClassName("flowplayer").length > 0) || (document.getElementById("audio") != null) || (document.getElementById("elifeplayer") != null)),
+		lightbox: ((document.getElementById("image-highlight") != null) || (getElementsByClassName("lightbox").length > 0)),
+		thickbox: (getElementsByClassName("thickbox").length > 0),
+		altmetric: ((document.getElementById("altmetric") != null) || (getElementsByClassName("altmetric").length > 0))
 	}
 	
 };
@@ -675,6 +859,30 @@ if(typeof quoteSearchUri == "undefined") { quoteSearchUri=null; }
 
 
 
+
+
+
+
+		<script>
+	if (site.plugins.scrollable == true) { 
+		document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/jquery.scrollable-1.0.1.min.js' %3E%3C/script%3E")); 
+		document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/jquery.tools.min.js'%3E%3C/script%3E"));
+	}
+
+	if (site.plugins.flowplayer == true) { 
+		document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/flowplayer-3.2.6.min.js'%3E%3C/script%3E"));
+	}
+
+	if (site.plugins.lightbox == true) { 
+		document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/browse_imagehighlight.js'%3E%3C/script%3E"));
+		document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/jquery.colorbox.js' %3E%3C/script%3E"));
+	}
+
+	if (site.plugins.thickbox == true) { 
+		document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/thickbox-compressed.js' %3E%3C/script%3E"));
+		document.write(decodeURIComponent("%3Cscript src='/javascript/plugins/thickbox-flashhidden-patch.js' %3E%3C/script%3E"));
+	}
+	</script>
 
 
 
