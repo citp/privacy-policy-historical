@@ -1,77 +1,75 @@
-> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205185815id_/http%3A//www.shortstacklab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506195518id_/http%3A//www.shortstack.com/privacy) for the most accurate reproduction.*
 
-# Facebook app privacy policy
+# ShortStack.com Privacy Policy - ShortStack
 
-**Privacy Policy**
+PRIVACY POLICY OF SHORTSTACK.COM
 
-When accessing our Website and ShortStack application, Pancake Laboratories, Inc. will learn certain information about you during your visit.
+This Privacy Policy of ShortStack.com (the “Policy”) is hereby made effective as of October 1, 2012, by Pancake Laboratories, Inc., a Nevada corporation (“Pancake” or “We”), and, without waiving or otherwise releasing any right or obligation under any prior privacy policy or similar document or agreement of ShortStack.com (“ShortStack”), hereby amend and restate any such prior privacy policy.
 
-## **We promise to never sell, exploit or misuse your data in any way. That’s not cool.**
+By using or accessing ShortStack, you thereby (i) agree and acknowledge that you have read and understood this Policy, and (ii) acknowledge and consent to the learning, collection and use of your Personal Information (as hereinafter defined) as described in this Policy. If you do not agree with any portion of this Policy, you are prohibited from using or accessing ShortStack.
 
-**Personal Data:** We collect personal data from You, the user, when You voluntarily choose to register with Pancake Laboratories ( or ShortStack Application). We use the personal data that we collect in order to provide and improve our services, and as otherwise set forth in this Privacy Policy.
+### General
 
-Examples of personal data include:
+When you open an account with ShortStack and use the ShortStack application, you will provide certain information to Pancake and, during your use of ShortStack, Pancake will learn, collect and use certain additional information about you for various purposes, as more fully set forth in this Policy. Even though Pancake will learn, collect and use information about you, Pancake will not lease, sell, share or otherwise provide your Personal Information (as hereinafter defined) to any third party without your consent, except as provided herein.
 
-  * Facebook User ID
-  * First name
-  * Last name,
-  * Email address
-  * Facebook Profile Photo
-  * Billing and credit card information (used only for Billing and Subscription purposes)
+### What We Learn, Collect and Use
 
+Beginning when you register for ShortStack, Pancake will learn, collect and use certain personal data and information about you and, as you use ShortStack will continue to learn, collect and use additional personal data and information (all such personal data and information is collectively referred to herein as, “Personal Information”).
 
+_Registration._ In order to become a user of ShortStack, you must provide us with Personal Information, including, without limitation, name, email address, and, for any subscription account, billing and credit card information. Without providing Personal Information, you can not create a ShortStack account. At the time of registration or when you choose to use certain ShortStack services, Pancake may collect certain other Personal Information from you including, without limitation, demographic information, such as location, age or gender. Pancake may request or collect Personal Information from you during any registration process which Pancake may use to provide or improve ShortStack or may use as is otherwise provided herein. Pancake may store Personal Information, and it may be included in databases owned and maintained by Pancake’s affiliates, agents or service providers.
 
-**Use of Personal Data:** Pancake Laboratories uses the personal data You provide in a manner that is consistent with this Privacy Policy or with any applicable service-specific agreement. If You provide personal data for a certain reason, we may use the personal data in connection with the reason for which it was provided. For instance, we will use the personal data You input during the registration process to administer access to the Site. Pancake Laboratories and its affiliates also use your personal data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand the users of our Site, and to improve our services.
+_Using ShortStack._ When you use and interact with ShortStack, Pancake also receives and stores additional Personal Information, which information may or may not be personally identifying information. Such information includes, without limitation, your internet protocol address, browser types, domain name, and other statistical data involving your use of ShortStack and/or our services. Such information is collected passively using various technologies or may be provided by you through communications with ShortStack or Pancake.
 
-**Personally Non-Identifiable Information:** We may collect personally non-identifiable information from You at the time of registration, or when You choose to use certain services. This information is not, by itself, sufficient to identify or contact you. Examples include demographic data, age, or gender. Pancake Laboratories may store such information, or it may be included in databases owned and maintained by Pancake Laboratories’ affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site and the domain names of our visitors’ Internet service providers. It is important to note that no personal data is available or used in this process.
+_Pancake uses “cookies.”_ A cookie is a piece of information that ShortStack gives to your computer when you access ShortStack. Cookies are used by Pancake to track your usage of ShortStack, trends on the usage of ShortStack and to improve ShortStack and analyze and assess changes to, successes and failures of ShortStack and portions thereof.
 
-**Passively Collected Information:** When You interact with us through the Site, we receive and store certain additional personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Examples include IP addresses, browser types, domain names, and other anonymous statistical data involving your use of the Site and/or our services.
+For security purposes and to ensure the availability of ShortStack, Pancake also uses software programs to monitor network traffic, to identify unauthorized attempts to upload or change information, or otherwise cause damage to ShortStack or Pancake.
 
-## **This type of data just helps up make ShortStack better for ya.**
+Based on how the internet operates, when you visit ShortStack we automatically receive the uniform resource locator of the prior webpage that you were on and of the webpage where you go after ShortStack. Pancake also receives the internet protocol address of your computer, the type of operating system and web browser you are using, your location, date and time of your access, pages viewed on ShortStack and other information related to your visit to Shortstack.
 
-**Cookies:** In operating this Site, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Site gives to your computer when You access a website. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately.
+Pancake also collects information when you interact with ShortStack’s customer service in order to assist you and to improve the operation of ShortStack.
 
-**Pancake Laboratories, Inc. does not knowingly collect information from children under the age of 13**
+### How We Use Your Personal Information
 
-This is not a website directed to children under the age of 13, and Pancake Laboratories, Inc. does not knowingly collect personally identifiable information from children under 13 years of age. If you are under 13 years of age you should not use this website, and under no circumstances should you send information about yourself to Pancake Laboratories, Inc.. If Pancake Laboratories, Inc. discovers that a child under the age of 13 has provided Pancake Laboratories, Inc. with personally identifiable information, Pancake Laboratories, Inc. will immediately delete that child’s personally identifiable information from the website.
+Pancake uses your Personal Information in connection with the operation, development and improvement of ShortStack, the operation and billing of your ShortStack account, and for other uses consistent with this Policy. Pancake may use your Personal Information for any internal purpose, including, without limitation the development and operation of ShortStack and the development of additional services and products by Pancake or its affiliates, and to communicate with you regarding ShortStack, your account or other services or products offered by Pancake. Please be aware that you are responsible for the payment of any fees or costs incurred by you in connection with receipt of communications from Pancake, including data, internet, cellular carrier or other similar fees.
 
-**How we protect your personal information and data:**
+Pancake recognizes the importance of the privacy of its users and does not lease, sell, share or otherwise provide Personal Information to third parties, except as provided herein. Pancake will not disclose or provide your Personal Information to any third party except:
 
-  * Your information will never be shared with others outside of Pancake Laboratories, Inc. unless it is required to be shared by law.
-  * Your information will never be sold to anyone. Never.
-  * Pancake Laboratories, Inc. will collect personal information by lawful and fair means.
-  * Pancake Laboratories, Inc. will only retain your personal information for as long as necessary for the fulfillment of our purposes.
-  * Pancake Laboratories, Inc. will make readily available to customers information about our policies and practices relating to the management of personal information.
-  * Pancake Laboratories, Inc. will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * as otherwise described in this Policy;
+  * as otherwise required by law or to comply with legal process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures;
+  * as reasonably necessary to respond to claims of a violation of the rights of third parties, whether or not the third party is a user, individual, entity or government agency;
+  * for any internal purpose of Pancake, including, without limitation, to manage your ShortStack account, subscription and other billing purposes, to respond to your inquiries, to allow outside vendors to perform services required by ShortStack, and to otherwise manage and operate ShortStack and develop new services and products;
+  * as reasonably necessary to enforce the Terms and Conditions of Service and Use of ShortStack.com (the “Terms and Conditions”);
+  * as reasonably necessary to detect, prevent and address fraud and other illegal activity and to prevent death or imminent bodily harm; or as reasonably necessary to protect the rights and property of Pancake or its officers, directors, shareholders, employees or agents.
+  * Pancake may provide aggregated anonymous data about the usage of ShortStack to third parties for purposes that we deem, in our sole discretion, to be appropriate, including, without limitation, to prospective advertisers or investors.
 
 
 
-**Registration, Accounts and Profiles**
+You acknowledge that any information that you provide to ShortStack to develop your Facebook page will be publicly displayed on your Facebook page when you elect to post and display such information there.
 
-  * Your Facebook user ID will be collected for access, installation and application updating purposes.
-  * Pancake Laboratories, Inc. will collect and use your personal information for the purposes of subscriptions and/or billing.
+Pancake may post and use any testimonials that you have provided about ShortStack, and Pancake may post examples of content created through ShortStack, in connection with the marketing and promotion of ShortStack. Testimonials and other marketing, promotions and advertisements may include obfuscated Personal Information (such as first name and general location) that you have provided to Pancake.
 
+Pancake may also disclose your Personal Information to a third party as part of a sale of the assets of Pancake, as the result of a change in control of the company, or in connection with an investment in Pancake by a third party. Any third party to which Pancake transfers or sells Pancake’s assets will have the right to continue to use your Personal Information.
 
+_Access to and Protection of Your Personal Information._ You have a right to access, modify, correct and request that Pancake internally delete any Personal Information provided to or obtained by ShortStack or Pancake. If you update, modify or correct any Personal Information, we may keep copies of your Personal Information prior to such update, modification or correction for uses provided for in this Policy. You may request internal deletion of your Personal Information at any time by contacting Pancake in the manner provided on ShortStack. Pancake will endeavor to respond to your request in a timely manner. Please note, however that Personal Information you have published on Facebook may remain available even if you request that such information be internally deleted by Pancake.
 
-**Data collected via forms and databases**
+Any Personal Information that you provide to Pancake will be protected in a commercially reasonable manner.
 
-  * The data collected by the forms created and embedded on ShortStack tabs belongs solely to the user. Pancake Laboratories, Inc. makes no claim to the data in any way.
-  * Whatever specific information you give to us will be used only to enable user specific features of the Application Database. We will give your information to no third parties, nor accessed unless requested by the user.
+### User Collected Information
 
+Among other functions of ShortStack, you may create a webpage that collects certain information from customers and other persons that visit your webpage. Should you create any webpage that collects personal information or other information related to any person or party visiting that page (“User Collected Information”), you represent and warrant to Pancake that any and all User Collected Information has been collected in accordance with any applicable laws, rules or regulation and not in violation of any privacy or similar rights of such persons or parties. As a part of ShortStack, Pancake may store such User Collected Information, but asserts, and you hereby agree and acknowledge, that Pancake has no right, title or interest in or to such information, has not participated or been involved in any such collection, and has no responsibility or obligation with respect to the legal compliance of your collection practices with respect to such information. Pancake may disclose any User Collected Information in the same manner, and under the same circumstances, as any Personal Information may be disclosed. You hereby indemnify and hold harmless Pancake, and all of its officers, directors, shareholders, employees and agents, with respect to any claim, suit or liability (including attorney’s fees and related costs), arising from your User Collected Information.
 
+### Safe Harbor Privacy Provisions
 
-**Assessment**
+Pancake respects individual privacy and values the confidence of its customers, employees, consumers, business partners and others. The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that ensures adequate protection for personal information transferred from the European Economic Area (the “EEA”) to the United States (the "U.S.-EU Safe Harbor"). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). The United States Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed on a similar set of principles and frequently asked questions to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States (the “U.S.-Swiss Safe Harbor”). Consistent with its commitment to protect personal privacy, Pancake adheres to the principles set forth in the U.S.-EU Safe Harbor and the U.S.-Swiss Safe Harbor. Pancake’s Safe Harbor Privacy Policy is available [here](https://web.archive.org/safeharbor) and sets forth the privacy principles established by Pancake with respect to transfers of personal information from the EEA and Switzerland to the United States.
 
-  * Pancake Laboratories, Inc. may collect information for interior analysis of ShortStack in order to assess errors and successes.
+### Miscellaneous
 
+Pancake reserves the right to amend, restate or otherwise modify this Policy at any time without notice to you. As a user of ShortStack you are required, and hereby agree, to review the Policy frequently. Should Pancake elect to amend, restate or otherwise modify this Policy in a material manner, Pancake will post a notice of such material amendment, restatement or modification on ShortStack so that you may review the changes to the Policy. If you object to any such changes to the Policy, you may, as your sole right and remedy, close your ShortStack account. By continuing to use ShortStack after such notice has been posted on ShortStack.com, you thereby consent to any such changes to the Policy and agree to be bound by the then current version of this Policy.
 
+In the event that the terms of this Policy conflict with or are inconsistent with any provision of the Terms and Conditions, the Terms and Conditions shall govern.
 
-If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
+Any claim under this Policy or otherwise related to ShortStack or Pancake shall be governed by the laws of the State of Nevada without regard to its conflict of law provisions, and shall be exclusively resolved by a state or federal court located in Washoe County, Nevada. You agree to submit to the personal jurisdiction of the courts located within Washoe County, Nevada, for the purpose of litigating all such claims.
 
-For site security purposes and to ensure that this service remains available to all users, Pancake Laboratories, Inc. uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+If any provision of this Policy is found by a court of competent jurisdiction or arbitrator to be illegal, void, or unenforceable, the unenforceable provision will be modified so as to render it enforceable and effective to the maximum extent possible in order to effect the intention of the provision; and if a court or arbitrator finds the modified provision invalid, illegal, void or unenforceable, the validity, legality and enforceability of the remaining provisions of this Policy will not be affected in any way.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-**Questions?**
-
-Contact us at [contact@shortstacklab.com](mailto:contact@shortstacklab.com)
+Any questions on this Policy or the privacy practices of Pancake or ShortStack should be directed to [contact@shortstacklab.com](mailto:contact@shortstacklab.com).
