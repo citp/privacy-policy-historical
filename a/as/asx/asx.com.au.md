@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101194835id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507005735id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Australian Securities Exchange - ASX
 
-ASX Limited and its related bodies corporate (the “ **ASX Group** ” or “ **ASX** ”) is bound by the National Privacy Principles (“ **NPP** ” or “ **Principles** ”) as set out in the Privacy Act 1988 (Commonwealth). The following Privacy Statement has been published to provide a clear and concise outline of how and when Personal Information is collected, stored and distributed by the ASX Group. 
+ ASX Limited and its related bodies corporate (the “ **ASX Group** ” or “ **ASX** ”) is bound by the National Privacy Principles (“ **NPP** ” or “ **Principles** ”) as set out in the Privacy Act 1988 (Commonwealth). The following Privacy Statement has been published to provide a clear and concise outline of how and when Personal Information is collected, stored and distributed by the ASX Group.
 
   * Why does ASX collect Personal Information?
   * How does ASX collect Personal Information?
@@ -47,23 +47,23 @@ We may collect Personal Information about:
 
 ASX may use or disclose Personal Information for the following purposes:
 
-  * To enable it to discharge its statutory obligations; 
-  * To enable it to discharge its contractual obligations when providing services to third parties; 
-  * To provide investor education services; 
-  * To service shareholders; 
-  * To provide administration for ASX employees; 
-  * To enable the resolution of a concern or complaint; 
-  * To provide ongoing information about our products and services to people that we believe may be interested; 
-  * To consider applications for employment; and 
-  * To provide services. 
+  * To enable it to discharge its statutory obligations;
+  * To enable it to discharge its contractual obligations when providing services to third parties;
+  * To provide investor education services;
+  * To service shareholders;
+  * To provide administration for ASX employees;
+  * To enable the resolution of a concern or complaint;
+  * To provide ongoing information about our products and services to people that we believe may be interested;
+  * To consider applications for employment; and
+  * To provide services.
 
 
 
-ASX will only use your Personal Information for the purpose for which you have provided it. We will not disclose your Personal Information to third parties, unless you consent or in other circumstances where such disclosure is required or authorised by law1.
+ASX will only use your Personal Information for the purpose for which you have provided it. We will not disclose your Personal Information to third parties, unless you consent or in other circumstances where such disclosure is required or authorised by law.
 
 Contracts we enter into with other parties for the provision of services may require us to disclose your Personal Information to them. In those cases, our contracts require other parties providing services to us to observe the terms of this Privacy Statement.
 
-ASX transfers information about an individual to someone who is in a foreign country only if the individual consents to the transfer or otherwise in compliance with the NPPs.
+ASX transfers information about an individual to someone who is in a foreign country only if the individual consents to the transfer or otherwise in compliance with the NPP’s.
 
 ### Does ASX collect sensitive information?
 
@@ -83,7 +83,7 @@ ASX will take reasonable steps to ensure that Personal Information held about yo
 
 ASX Group collects Personal Information from the web site [www.asx.com.au](http://www.asx.com.au/) through receiving subscriptions or registration of courses, games and services. Cookies are used on the web site in the following ways:
 
-  * To authenticate access to certain areas of the web site, such as MyASX section;
+  * To authenticate access to certain areas of the web site, such as MyASX section and ASXOnline;
   * To monitor traffic levels and flows; and
   * From time to time ASX may conduct surveys
 
@@ -101,17 +101,25 @@ This site links to other sites. ASX is not responsible for the privacy practices
 
 ### Contact Us
 
-ASX has appointed a Chief Privacy Officer who can be contacted by phone or post at: 
+ASX has appointed a Chief Privacy Officer who can be contacted by phone, post or email at: 
 
-**Address:**  ASX Limited, Level 7, 20 Bridge Street, SYDNEY NSW 2000  
+**Address:**   
+
+ASX Limited  
+Level 6  
+20 Bridge Street  
+SYDNEY NSW 2000
+
 **Telephone** : 131 279
+
+**Email** : [privacy@asx.com.au](mailto:privacy@asx.com.au) 
 
 You can also obtain information at the Office of the Australian Information Commissioner’s website at [www.oaic.gov.au](http://www.oaic.gov.au/)
 
 ### Updates to this Privacy Statement
 
-This Privacy Statement will be reviewed from time to time as required.
+This Privacy Statement will be reviewed from time to time as required. 
 
-Dated: 16 August 2011
+Dated: March 2013
 
 1 ASX has entered into an agreement with NetRatings Australia Pty Limited (Nielsen Online) which performs auditing functions on the ASX website.  For further information on Netratings Australia, the Netratings Australia auditing system and Netratings Australia’s Privacy Policy, go to <http://www.nielsen-online.com/intl.jsp?country=au>
