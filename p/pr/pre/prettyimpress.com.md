@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettyimpress.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006004624id_/http%3A//prettyimpress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyimpress.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506165908id_/http%3A//prettyimpress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cycling Jersey, Custom Cycling Jersey, Customer Service - Privacy Notice - Free Shipping
 
