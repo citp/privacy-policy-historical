@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wittyandpretty.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219172731id_/http%3A//wittyandpretty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittyandpretty.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506134842id_/http%3A//wittyandpretty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Witty & Pretty
 
@@ -36,6 +36,8 @@ We use the Anonymous Data that we collect in order to display advertisements tha
 
 Further, we may share aggregated information that we have learned from the use of the Anonymous Data with third parties. Such information may include traffic patterns, sales, and other site information. For example, we might share statistics on how many customers viewed or clicked on a particular advertisement.
 
+We belong to ad networks that use your browsing history across websites to choose which ads to display on their sites. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the [Network Advertising Initiative](http://www.networkadvertising.org/) home page. Websites may also offer their own opt-out methods for interest-based advertising.
+
 We do not sell the Anonymous Data to third parties.
 
 **Blogs and Testimonials**
@@ -70,4 +72,4 @@ By visiting our website (shortsalesecrets.co) and/or the website of any of our p
 
 **Effective Date and Governing Law**
 
-This policy was updated on July 12, 2012. This Privacy Policy and any matter relating to this Web Site, shall be governed by the laws of California. If any part of this agreement is deemed to be invalid, illegal or unenforceable, then the invalid or unenforceable part shall be removed without affecting the legality, validity and enforceability of the remainder of this Privacy Policy. Further, the illegal, invalid or unenforceable provision removed shall be replaced by a legal, valid, enforceable provision that most closely reflects the original intent of the original provision.
+This policy was updated on March 25, 2013. This Privacy Policy and any matter relating to this Web Site, shall be governed by the laws of California. If any part of this agreement is deemed to be invalid, illegal or unenforceable, then the invalid or unenforceable part shall be removed without affecting the legality, validity and enforceability of the remainder of this Privacy Policy. Further, the illegal, invalid or unenforceable provision removed shall be replaced by a legal, valid, enforceable provision that most closely reflects the original intent of the original provision.
