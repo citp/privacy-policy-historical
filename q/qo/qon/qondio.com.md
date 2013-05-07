@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015745id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507072250id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Qondio
 
