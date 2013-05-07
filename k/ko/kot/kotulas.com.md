@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184326id_/http%3A//www.kotulas.com/deals/PrivacyView%3FcatalogId%3D10602%26langId%3D-1%26storeId%3D10152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507112755id_/http%3A//www.kotulas.com/deals/PrivacyView%3FcatalogId%3D10602%26langId%3D-1%26storeId%3D10152) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ www.kotulas.com uses a third-party service provider (CoreMetrics) to collect and
 
 ## Opting Out
 
-You may withdraw your personal information from www.kotulas.com at any time. To withdraw your information email, or write us at:
+You may withdraw your personal information from www.kotulas.com at any time. To withdraw your information, email or write us at:
 
 www.kotulas.com  
 Customer Service  
@@ -28,14 +28,15 @@ Burnsville, MN 55306-6936
 
 ## Opting Out of Third-party Services
 
-To learn more about CoreMetrics, their privacy policies or how to opt-out of their services please go to: www.coremetrics.com/privacy.html
+To learn more about CoreMetrics, their privacy policies or how to opt-out of their services please go to: [www.coremetrics.com/privacy.html](http://www.coremetrics.com/privacy.html)
 
 ## Will www.kotulas.com sell my email address?
 
 NO! www.kotulas.com will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer service support, and to update you on www.kotulas.com Internet specials that you have requested.
 
-If you purchase with us, your name may be exchanged with another company whose products and services may interest you. If you do not want your name exchanged, please let us know by email or call 1-800-222-5381. You can also write us at:
+If you purchase with Kotula's, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you. If you would not like us to share your information for this intent, please email us or call 1-800-771-3510.
 
+You can also write us at:   
 Kotula's  
 Customer Service  
 2800 Southcross Drive West  
