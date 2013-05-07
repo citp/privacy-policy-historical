@@ -1,0 +1,635 @@
+<!--The following is the downloaded HTML source of the avert.org privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507113302id_/http%3A//avert.org/disclaimer.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>Disclaimers &amp; Privacy Policy</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="The disclaimer page of AVERT.org, describing the terms under which visitors use the website.">
+    <meta name="keywords" content="Copyright, request, legal, disclaimer">
+    <link rel="canonical" href="disclaimer.htm">
+    <!-- Facebook Metas -->
+    <meta property="og:title" content="Disclaimers &amp; Privacy Policy">
+    <meta property="og:site_name" content="AVERT">
+    <meta property="og:image" content="http://www.avert.org/media/template/navigation/AvertLogo.gif">
+    <!-- JS -->
+<link href="/js/colorbox/colorbox.css" rel="stylesheet" type="text/css" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/colorbox/jquery.colorbox-min.js"></script>
+<!-- GeoIP Deny Access by Region and Redirect Javascript -->
+<script language="JavaScript" src="http://j.maxmind.com/app/country.js">
+
+function addJavascript(jsname,pos) {
+var th = document.getElementsByTagName(pos)[0];
+var s = document.createElement('script');
+s.setAttribute('type','text/javascript');
+s.setAttribute('src',jsname);
+th.appendChild(s);
+}
+
+/*
+GeoIP Deny Access by Region and Redirect Javascript 1.0
+http://wiki.category5.tv/MaxMind_GeoIP_API
+ 
+API (c) MaxMind - www.maxmind.com - used with permission
+ 
+"GeoIP Deny Access by Region" script by Robbie Ferguson, www.Category5.TV
+ 
+You are free to use and share this script, however this notice must remain intact.
+*/
+</script>
+<script type="text/javascript">
+ 
+/* Configuration Options */
+  var country=new Array("GB") /* Regions to deny access, comma-separated, in quotes */
+  var redirect="http://www.google.com/" /* Where to redirect denied traffic */
+/* TM BEGIN from http://api.jquery.com/jQuery.getScript/ */
+
+/* TM END */  
+
+/* do not edit past this line */
+ 
+Array.prototype.Contains = function(q) {
+  for(i in this) {
+    if(this[i] === q) return true;
+  }
+}
+/*if(country.Contains(geoip_country_code())) window.open('pop.html','mywin','left=20,position=absolute,top=50%,left=50%,width=600,height=600,toolbar=0,resizable=0,location=0,menubar=0,scrollbars=0'); */
+                                            
+      if(country.Contains(geoip_country_code())) jQuery.getScript("/js/pell-bales-pop.js", function(){
+
+//alert(country,"Script loaded and executed.");
+   // here you can use anything you defined in the loaded script
+   
+//JK Popup Window Script (version 3.0)- By JavaScript Kit (http://www.javascriptkit.com)
+//Visit JavaScriptKit.com for free JavaScripts
+//This notice must stay intact for legal use
+//Win Type: Pop Up | 14 days period
+    
+//Specify URLs to randomly select from and popup/popunder:
+//To display a single URL, just remove all but the first entry below:
+var popurls=new Array()
+popurls[0]="http://www.avert.org/fundraising/donate-campaign-2012-fundraising.htm?colorbox=1"
+
+function openpopup(popurl){
+//var winpops=window.open(popurl,"","width=600,height=800,position=absolute,top=50%,left=50%")
+    $(document).ready(function() {  
+        window.setTimeout(function() {      
+        $.fn.colorbox({href:"http://www.avert.org/fundraising/donate-campaign-2012-fundraising.htm?colorbox=1", open:true, iframe:true, innerWidth:680, innerHeight:667});  
+        }, /*timeout->*/ 4000);    
+    });  
+}
+
+
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if cookie exists
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1)
+         end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+popfrequency="3 days"
+
+function resetcookie(){
+var expireDate = new Date()
+expireDate.setDate(expireDate.getDate()-10)
+document.cookie = "popcampaign=;path=/;expires=" + expireDate.toGMTString()
+}
+
+function loadornot(){
+if (get_cookie('popcampaign')==''){
+openpopup(popurls[Math.floor(Math.random()*(popurls.length))])
+var expireDate = new Date()
+expireDate.setDate(expireDate.getDate()+parseInt(popfrequency))
+document.cookie = "popcampaign="+parseInt(popfrequency)+";path=/;expires=" + expireDate.toGMTString()
+}
+}
+
+if (get_cookie('popcampaign')!=parseInt(popfrequency))
+resetcookie()
+loadornot()
+
+});
+                                                                      
+                                                                      
+</script>
+<!-- End of GeoIP Deny Script -->     
+    <script type="text/javascript" src="/js/swfobject.js"></script>
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/utilities_styles.css" media="all">
+	<link rel="stylesheet" type="text/css" href="/css/template_desktop.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/css/page.css" media="screen">
+	<!--[if ie 6]><link rel="stylesheet" type="text/css" href="/css/ie6.css" media="screen" /><![endif]-->
+	<!--[if  IE 7]><link rel="stylesheet" type="text/css" href="/css/ie7.css" media="screen" /><![endif]-->
+	       
+    <!-- ColorBox -->
+    <link href="/js/colorbox/colorbox.css" rel="stylesheet" type="text/css" media="screen">
+                <!-- Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-1240026-1']);
+      _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+    jQuery(document).ready(function($) {
+        var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+        var baseHref = '';
+        if (jQuery('base').attr('href') != undefined)
+            baseHref = jQuery('base').attr('href');
+        jQuery('a').each(function() {
+            var href = jQuery(this).attr('href');
+            if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+                jQuery(this).click(function() {
+                    var extLink = href.replace(/^https?\:\/\//i, '');
+                    _gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = href; }, 200);
+                        return false;
+                    }
+                });
+            }
+            else if (href && href.match(/^mailto\:/i)) {
+                jQuery(this).click(function() {
+                    var mailLink = href.replace(/^mailto\:/i, '');
+                    _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+                });
+            }
+            else if (href && href.match(filetypes)) {
+                jQuery(this).click(function() {
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    var filePath = href;
+                    _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = baseHref + href; }, 200);
+                        return false;
+                    }
+                });
+            }
+        });
+    });
+}
+</script>
+    </head>
+    <body>
+        <div id="wrapper" class="disclaimer">
+        <div id="topContainer">
+            <div id="headerGraphic">
+                <div id="topBarContainer">
+                    <div id="topBar" class="UnderlinedLinks round10 squareTop">
+                        <a class="anchor" name="top" id="top"></a>
+                        <div class="logoBox"><a title="home page" href="/"><img width="121" height="72" src="/media/template/layout/blank.gif" alt="blank"></a></div>
+                        <a id="tagLine" title="home page" href="/">International HIV &amp; AIDS charity</a>
+                        <ul>
+                            <li id="fundraisingButtons"><a id="donate" class="smallBt inline" title="Donate to the Charity AVERT" href="/donate.php"><span class="darkRed">Donate</span></a><a id="fundraising" title="Fundraising for AVERT" href="/fundraising-for-aids.htm" class="smallBt inline"><span class="blue">Fundraising</span></a></li>
+                            <li><a title="About the AIDS charity AVERT" href="/aids-hiv-charity-avert.htm">About Us</a></li>
+                                                       <li><a title="Avert's partners in research and community response work" href="/aids-projects.htm">Our Partners</a></li>
+                            <li><a title="Sources of help &amp; advice" href="/help.htm">Help &amp; Advice</a></li>
+                            <li><a title="How to contact AVERT" href="/contact.htm">Contact Us</a></li>
+                        </ul>
+                    </div> <!-- #topBar Ends -->
+                    <div id="topBarExtras">
+                        <a id="facebook" href="http://www.facebook.com/pages/AVERT/127620750605019" title="Avert facebook group" target="_blank"><span>Facebook</span></a>
+                         <a id="in" href="http://www.linkedin.com/groups?gid=4447318&amp;trk=myg_ugrp_ovr" title="Avert Linked in" target="_blank"><span>Linked in</span></a>
+                        <a id="twitter" href="http://twitter.com/#!/avert_org" title="Avert twitter" target="_blank"><span>Twitter</span></a>
+                        <a id="newsletter" class="colorboxLink cboxElement" href="/newsletter-form.php?colorbox=1" title="Sign up to Avert's Newsletter" target="_blank"><span>Newsletter</span></a>
+                    </div> <!-- #topBarExtras Ends -->
+                </div> <!-- #topBarContainer Ends -->
+                <div id="middleContainer">
+                    <div id="copyright" class="hidden">Copyright © AVERT</div>
+                    <a class="hidden" href="#menu">skip to menu</a>
+                    <h1 class="lightGreen shadow">Disclaimers &amp; Privacy Policy</h1>
+                    <div id="contentContainer">
+                        <div class="shadow" id="content">
+                            
+<div class="box bFull">
+    <h2 id="contentTable0">
+        
+<a href="#top" class="blue"><span>back to top</span></a>
+ Copyright
+    </h2>
+    <p>
+        The content of this website is the copyright of AVERT.
+    </p>
+    <p>
+        AVERT hopes that the information provided on its website pages is
+        helpful to readers. Nothing on this website constitutes advice, nor
+        does the transmission, downloading or sending of any information create
+        any contractual relationship. The information is not intended to be a
+        substitute for professional advice.
+    </p>
+    <p>
+        All information made available by AVERT on this website is without
+        warranty of any kind either expressed or implied. AVERT accepts no
+        liability or responsibility for any loss or damage suffered by any user
+        who relies on the information contained on this website. AVERT shall
+        not be responsible for the content of any other website which is linked
+        either to or from its website.
+    </p>
+    <p>
+        Any pages on this website may be downloaded or printed for personal use
+        provided that no alterations to any of the pages are made and that
+        where pages are shown to be part of a numbered set, the full set are
+        printed and used together, and that no use is made of any of the pages
+        in any other work or publication in whatever medium stored. None of the
+        website pages may be distributed or copied for any commercial purposes.
+    </p>
+    <p>
+        If any material shall be downloaded or printed for educational
+        purposes, it shall be the responsibility of the person or body so doing
+        to comply with the laws of the state or nation within which the
+        material shall be used.
+    </p>
+    <p>
+        The terms of this disclaimer will be governed by and construed in
+        accordance with English law and both AVERT and the individual users
+        submit to the non-exclusive jurisdiction of the English courts.
+    </p>
+    <p>
+        © Copyright AVERT 1996-2013
+    </p>
+    <p class="back_top">
+        <a href="#top"><span class="blue">back to top</span></a>
+    </p>
+    <h2 id="contentTable1">
+        
+<a href="#top" class="blue"><span>back to top</span></a>
+ 
+<a href="#top" class="blue"><span>back to top</span></a>
+Cookie Policy
+    </h2>
+    <p>
+        The Information Commissioner's Office (ICO) defines a cookie as "a
+        small file, typically of letters and numbers, downloaded on to a device
+        when the user accesses certain websites". Cookies are sent back to
+        the originating website on each subsequent visit. Cookies are useful
+        because they allow a website to recognise a user’s device.
+    </p>
+    <p>
+        We are currently using a cookie on our website to prevent our Friend of
+        AVERT Campaign pop-up from appearing on your screens more than once
+        within three consecutive days. If you keep on seeing the pop-up more
+        often than once in three days then you have settings that disallow
+        cookies. It is your choice whether you want to enable cookies or
+        disable cookies. Our cookie is only looking for your device so that the
+        pop-up does not reappear within three days. We are not storing any
+        other personal information with this pop-up. We are required by law to
+        provide you with this information.
+    </p>
+    <p>
+        You may find more information about cookies on the ICO's website
+        (http://www.ico.gov.uk/). The ICO is the UK’s independent
+        authority set up to uphold information rights in the public interest,
+        promoting openness by public bodies and data privacy for individuals.
+    </p>
+    <p class="back_top">
+        <a href="#top"><span class="blue">back to top</span></a>
+    </p>
+    <h2 id="contentTable2">
+        
+<a href="#top" class="blue"><span>back to top</span></a>
+ Privacy Policy
+    </h2>
+    <p>
+        AVERT regards the lawful and correct treatment of personal information
+        as important to our successful operations and to the maintenance of
+        confidence of those with whom we deal. This statement applies to any
+        user of our services, irrespective of which country they inhabit.
+    </p>
+    <p>
+        We will ensure that our staff use and disclose personal information
+        lawfully and correctly. To this end we fully endorse and adhere to the
+        principles of data protection, as set out in the UK Data Protection Act
+        1998 (the "Act").
+    </p>
+    <p>
+        AVERT will:<br>
+    </p>
+    <ul>
+        <li>Observe the conditions in the Act regarding the fair collection and
+        use of personal information (please see below regarding personal
+        information collected via our website)
+        </li>
+        <li>Meet our legal obligations to specify the purposes for which we
+        process personal information, this information being set out in our
+        data protection notification particulars which can be found on the
+        Information Commissioner’s website at www.dpr.gov.uk
+        </li>
+        <li>Collect and process appropriate personal information, only to the
+        extent that it is needed to fulfill our operational needs or to comply
+        with any legal requirement
+        </li>
+        <li>Ensure the accuracy of any personal information kept by us
+        </li>
+        <li>Apply checks to determine the length of time personal information
+        is held by us
+        </li>
+        <li>Ensure that the rights of people about whom personal information is
+        held, are able to be exercised fully under the Act
+        </li>
+        <li>Take appropriate technical and organisational security measures to
+        safeguard personal information
+        </li>
+    </ul>
+    <p>
+        If we collect personal information via our website, prior to finally
+        submitting any personal information to our website, we will endeavour
+        to ensure that you are informed as to:<br>
+    </p>
+    <ul>
+        <li>The purpose for collecting the information
+        </li>
+        <li>What the information will be used for
+        </li>
+        <li>How you can request copies of any personal information we hold on
+        you
+        </li>
+    </ul>
+    <p>
+        Please note that where our website contains links to other websites, we
+        are not responsible for the privacy practices of other websites and
+        this statement applies solely to any personal information collected by
+        our website.
+    </p>
+    <p>
+        IP addresses are not linked to personally identifiable information. We
+        only use IP addresses to analyse trends, administer our website, track
+        general user movements, and gather broad demographic information for
+        aggregate use.
+    </p>
+    <p>
+        Furthermore please be aware that we use cookies on our website. We use
+        cookies to track the interests of our users so that we can subsequently
+        enhance their experience on our website. If your browser rejects a
+        cookie, you may still use our website.
+    </p>
+    <p class="back_top">
+        <a href="#top"><span class="blue">back to top</span></a>
+    </p>
+</div>
+
+                            
+
+<div class="box bFull  ">
+    <div class="addthis_toolbox">
+        <div id="socialNet" class="custom_images">
+            <ul>
+                <li><a href="#" class="addthis_button_email"><span class="e" title="Email to a friend">email</span></a></li>
+                <li><a href="#" class="addthis_button_print"><span class="p" title="Print it nicely">print</span></a></li>
+                <li><a href="#" class="addthis_button_twitter"><span class="t" title="Tweet about it">tweet</span></a></li>
+                <li><a href="#" class="addthis_button_expanded"><span class="m" title="More Social Networks">more</span></a></li>
+                <li class="facebookIframe"><iframe src="http://www.facebook.com/plugins/like.php?href='http://www.avert.org/disclaimer.htm&amp;layout=standard&amp;show_faces=false&amp;width=100%&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=23px" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:30px;" allowtransparency="true"></iframe></li>
+                 </ul>
+        </div>
+    </div>
+    <div style="width:140px; position:relative; top:-50px; float:right;"> 
+<img alt="Nominet Winner 2012" src="/media/template/extras/NominetWinner2012.jpg" border="0">
+</div>  
+</div>  
+
+
+       
+<script type="text/javascript">
+    var addthis_config = {data_track_clickback: true}
+</script>
+                                                        <div id="utilities" class="box bFull">
+                                <div class="left" id="wherenext">
+                                    <h2>Where Next?</h2>
+                                    <h3>AVERT.org has more about:</h3>
+                                    <ul class="boxedLinks">
+                                                                                    <li><a href="/index.html">HIV &amp; AIDS Information from AVERT.org</a></li>
+                                                                                    <li><a href="/aids.htm">AIDS</a></li>
+                                                                                    <li><a href="/hiv.htm">HIV</a></li>
+                                                                                    <li><a href="/media-gallery.htm">AVERT's HIV and AIDS Media Gallery</a></li>
+                                                                            </ul>
+                                </div> <!-- #wherenext Ends -->
+                                <ul id="various" class="right">
+                                    <li class="bottomBackTop"><a class="smallBt" href="#top"><span class="blue">Back to top</span></a></li>
+                                    <li><a title="Sign up to Avert's Newsletter" href="/newsletter-form.php" class="smallBt colorboxLink"><span class="blue">Sign up to our Newsletter</span></a></li>
+                                    <li><a class="smallBt" href="/donate.php"><span class="red">Donate</span></a></li>
+                                    <li class="logoBox"><a href="/" class="block" title="home page"><img height="72" width="121" src="/media/template/layout/blank.gif" alt="blank"></a></li>
+                                </ul> <!-- #various Ends -->
+                            </div> <!-- #utilities Ends -->
+                                                        
+
+                        </div><!-- #content -->
+                    </div> <!-- #contentContainer -->
+                    
+
+
+<!-- Menu -->
+<div id="menuWrapper">
+    
+        <p id="languages">
+        <a id="englishSwicth" class="tinyBt inline" href="/" name="englishSwicth"><span class=" lightGreen">english</span></a> <a class="tinyBt inline" id="spanishSwicth" href="/sida-vih.htm" name="spanishSwicth"><span class=" lightGrey">español</span></a>
+    </p>
+        <a class="hidden" href="#content">back to content</a>
+    <div id="menu" class="grey shadow ">
+        
+    <div id="englishMenu" class="blue sections fiveItems "><div id="avertHome" class="tabBox"><a href="/" title="AVERT.org Home page" class="mainMenuBt left"><span class="hidden">home page</span></a></div><div id="hivAidsTopics" class="tabBox "><a href="#" class="mainMenuBt blue left">HIV &amp; AIDS <br>Topics  </a><div class="hoverZone"><ul class="menuGroup veryDarkShadow mediumGrey"><li class="globalHivAidsEpidemic firstItem"><a class="" href="/aids-hiv-epidemic.htm" title="Global HIV/AIDS Epidemic">Epidemic</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent globalEpidemic_sectionContent"><h3>Global Epidemic</h3><ul><li class="aids"><a href="/aids.htm">AIDS</a></li><li class="aidsHivAroundTheWorld"><a href="/aroundworld.htm">AIDS &amp; HIV Around the World</a></li><li class="hiv"><a href="/hiv.htm">HIV</a></li><li class="hivAidsNews"><a href="/aidsnews.htm">HIV &amp; AIDS News</a></li><li class="reflectionsOnTheEpidemic"><a href="/reflections-on-the-epidemic.htm">Reflections on the Epidemic </a></li><li class="worldAidsDay"><a href="/world-aids-day.htm">World AIDS Day</a></li></ul></div><div class="sectionContent odd moneyForHivAids_sectionContent"><h3>Money for HIV/AIDS</h3><ul><li class="fundingForHivAndAids"><a href="/aids-funding.htm">Funding for HIV and AIDS </a></li><li class="moneyForHivAids"><a href="/money-for-hiv-aids.htm">Money for HIV/AIDS</a></li><li class="pepfar"><a href="/pepfar.htm">PEPFAR</a></li><li class="theGlobalFund"><a href="/global-fund.htm">The Global Fund </a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd howDifferentPeopleAreAffectedByHivAndAids_sectionContent"><h3>How different people are affected by HIV and AIDS</h3><ul><li class="menWhoHaveSexWithMenMsm"><a href="/men-sex-men.htm"> Men Who Have Sex with Men (MSM)</a></li><li class="childrenOrphanedByHivAndAids"><a href="/aids-orphans.htm">Children orphaned by HIV and AIDS</a></li><li class="childrenHivAndAids"><a href="/children.htm">Children, HIV and AIDS</a></li><li class="hivAidsAndVulnerableGroups"><a href="/hiv-aids-vulnerable-groups.htm">HIV/AIDS and Vulnerable Groups </a></li><li class="prisonsPrisonersAndHivAids"><a href="/prisons-hiv-aids.htm">Prisons, Prisoners and HIV/AIDS</a></li><li class="transgenderPeopleAndHivAids"><a href="/transgender-hiv.htm">Transgender People and HIV/AIDS</a></li><li class="womenAndHivAids"><a href="/women-hiv-aids.htm">Women and HIV/AIDS</a></li></ul></div><div class="sectionContent issues_sectionContent"><h3>Issues</h3><ul><li class="hivInjectingDrugUsers"><a href="/injecting.htm">HIV &amp; Injecting Drug Users </a></li><li class="hivAidsStigmaAndDiscrimination"><a href="/hiv-aids-stigma.htm">HIV &amp; AIDS Stigma and Discrimination</a></li><li class="hivAndAidsIssues"><a href="/hiv-aids-global-challenges.htm">HIV and AIDS Issues</a></li><li class="hivAndSexWork"><a href="/prostitution-aids.htm">HIV and Sex Work</a></li></ul></div></div></div></div></li><li class="historyOfHivAids"><a class="" href="/hiv-aids-history.htm" title="History of HIV &amp; AIDS">History</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="sectionContent hivAndAidsHistory_sectionContent"><h3>HIV and AIDS History</h3><ul><li class="aidsTimeline"><a href="/aids-timeline.htm">AIDS Timeline</a></li><li class="historyOfAidsUpTo1986"><a href="/aids-history-86.htm">History of AIDS Up to 1986</a></li><li class="historyOfAids19871992"><a href="/aids-history87-92.htm">History of AIDS: 1987-1992</a></li><li class="historyOfAids19931997"><a href="/aids-history93-97.htm">History of AIDS: 1993-1997</a></li><li class="historyOfAids19982002"><a href="/aids-history98-02.htm">History of AIDS: 1998-2002</a></li><li class="historyOfAids20032006"><a href="/aids-history03-06.htm">History of AIDS: 2003-2006</a></li><li class="historyOfAids2007Onwards"><a href="/aids-history07.htm">History of AIDS: 2007 Onwards</a></li></ul></div><div class="sectionContent odd avertHistory_sectionContent"><h3>AVERT History</h3><ul><li class="historyOfTheHivAndAidsCharityAvert"><a href="/avert-history.htm"> History of the HIV and AIDS Charity AVERT </a></li><li class="avertEarly1990sToTheStartOfTheInternet"><a href="/avert-history-publications-internet.htm">AVERT: Early 1990s to the start of the Internet</a></li><li class="avertOverseasProjectsDevelopingAvertOrg"><a href="/avert-history-russia-web.htm">AVERT: Overseas projects &amp; developing AVERT.org</a></li><li class="avertSouthernAfricanProjectsAndAvertOrg"><a href="/avert-history-south-africa-web.htm">AVERT: Southern African projects and AVERT.org</a></li><li class="avertTheFirstFiveYears"><a href="/avert-history-start.htm">AVERT: The First Five Years</a></li></ul></div></div></div></li><li class="livingWithHiv"><a class="" href="/living-hiv.htm" title="Living with HIV">Living with HIV</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="sectionContent livingWithHivAndAids_sectionContent"><h3>Living with HIV and AIDS</h3><ul><li class="amIGoingToDie"><a href="/die.htm">Am I going to die?</a></li><li class="emotionalNeedsAndSupport"><a href="/emotional-needs-support.htm">Emotional Needs and Support</a></li><li class="hivAndPregnancy"><a href="/pregnancy.htm">HIV and Pregnancy</a></li><li class="learningYouAreHivPositive"><a href="/positive.htm">Learning You Are HIV Positive</a></li><li class="livingWithHivStories"><a href="/living-with-hiv-stories.htm">Living with HIV Stories</a></li><li class="whatIsLivingWithHiv"><a href="/living-with-hiv-aids.htm">What is living with HIV?</a></li></ul></div></div></div></li><li class="hivAidsPrevention"><a class="" href="/aids-hiv-prevention.htm" title="HIV &amp; AIDS Prevention">Prevention</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent overviewOfHivPrevention_sectionContent"><h3>Overview of HIV prevention</h3><ul><li class="hivPreventionAroundTheWorld"><a href="/global-hiv-prevention.htm">HIV Prevention Around the World</a></li><li class="introductionToHivPrevention"><a href="/prevent-hiv.htm">Introduction to HIV Prevention</a></li></ul></div><div class="sectionContent odd preventionOfHivTransmissionFromMotherToChild_sectionContent"><h3>Prevention of HIV transmission from mother to child</h3><ul><li class="hivTransmissionFromMotherToChild"><a href="/prevention-of-hiv-transmission-from-mother-to-child.htm">HIV Transmission from Mother-to-child</a></li><li class="preventingMotherToChildTransmissionPmtctInPractice"><a href="/pmtct-hiv.htm">Preventing Mother-to-child Transmission (PMTCT) in Practice</a></li><li class="preventingMotherToChildTransmissionOfHiv"><a href="/motherchild.htm">Preventing Mother-to-child Transmission of HIV </a></li><li class="whoGuidelinesForPmtctBreastfeeding"><a href="/pmtct-guidelines.htm">WHO Guidelines for PMTCT &amp; Breastfeeding</a></li></ul></div><div class="sectionContent preventionOfHivTransmissionThroughBlood_sectionContent"><h3>Prevention of HIV transmission through blood</h3><ul><li class="bloodSafetyAndHiv"><a href="/blood-safety-hiv.htm">Blood Safety and HIV</a></li><li class="needleExchangeAndHarmReduction"><a href="/needle-exchange.htm">Needle Exchange and Harm Reduction</a></li><li class="preventionOfHivTransmissionThroughBlood"><a href="/prevention-of-hiv-transmission-through-blood.htm">Prevention of HIV Transmission through Blood</a></li></ul></div><div class="sectionContent odd aidsAndSexEducation_sectionContent"><h3>AIDS and sex education</h3><ul><li class="abstinenceAndSexEducation"><a href="/abstinence.htm">Abstinence and Sex Education</a></li><li class="hivPreventionThroughSexEducation"><a href="/hiv-prevention-through-sex-education.htm">HIV Prevention through Sex Education</a></li><li class="hivAidsEducationAndYoungPeople"><a href="/aids-young-people.htm">HIV/AIDS Education and Young People</a></li><li class="introductionToHivAndAidsEducation"><a href="/aids-hiv-education.htm">Introduction to HIV and AIDS Education</a></li><li class="lessonsAndActivityPlans"><a href="/lessons.htm">Lessons and Activity Plans</a></li><li class="sexEducationThatWorks"><a href="/sex-education.htm">Sex Education That Works</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd preventionOfSexualTransmissionOfHiv_sectionContent"><h3>Prevention of sexual transmission of HIV</h3><ul><li class="circumcisionHiv"><a href="/circumcision-hiv.htm">Circumcision &amp; HIV</a></li><li class="condomsEffectivenessHistoryAndAvailability"><a href="/condoms.htm">Condoms: Effectiveness, History and Availability</a></li><li class="hivPreventionStrategies"><a href="/abc-hiv.htm">HIV Prevention Strategies</a></li><li class="preventionOfSexualTransmissionOfHiv"><a href="/prevention-of-sexual-transmission-of-hiv.htm">Prevention of Sexual Transmission of HIV</a></li><li class="sexWorkersAndHivPrevention"><a href="/sex-workers.htm">Sex Workers and HIV Prevention</a></li><li class="theFemaleCondom"><a href="/female-condom.htm">The Female Condom</a></li><li class="usingCondomsCondomTypesAndSizes"><a href="/condom.htm">Using Condoms, Condom Types and Sizes</a></li></ul></div><div class="sectionContent hivTreatmentAsPrevention_sectionContent"><h3>HIV treatment as prevention</h3><ul><li class="hivTreatmentAsPrevention"><a href="/hiv-treatment-as-prevention.htm">HIV Treatment As Prevention</a></li><li class="hivTreatmentForPrevention"><a href="/hiv-treatment-for-prevention.htm">HIV Treatment for Prevention</a></li><li class="postExposureProphylaxis"><a href="/pep-prep-hiv.htm">Post-exposure Prophylaxis </a></li><li class="preExposureProphylaxis"><a href="/pre-exposure-prophylaxis.htm">Pre-exposure Prophylaxis</a></li></ul></div></div></div></div></li><li class="hivAidsScience"><a class="" href="/hiv-aids-science.htm" title="HIV &amp; AIDS Science">Science</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="sectionContent hivScience_sectionContent"><h3>HIV science</h3><ul><li class="aCureForAids"><a href="/cure-for-aids.htm">A Cure for AIDS</a></li><li class="aWorldFreeFromHiv"><a href="/protein-aids-cure.htm">A World Free from HIV</a></li><li class="hivAndAidsVaccine"><a href="/aids-vaccine.htm">HIV and AIDS Vaccine</a></li><li class="hivCausesAids"><a href="/hiv-causes-aids.htm">HIV Causes AIDS</a></li><li class="hivDrugsVaccinesAndAnimalTesting"><a href="/hiv-animal-testing.htm">HIV Drugs, Vaccines and Animal Testing</a></li><li class="hivStructureAndLifeCycle"><a href="/hiv-virus.htm">HIV Structure and Life Cycle</a></li><li class="hivTypesSubtypesGroupsAndStrains"><a href="/hiv-types.htm">HIV Types, Subtypes Groups and Strains</a></li><li class="microbicides"><a href="/microbicides.htm">Microbicides</a></li><li class="theOriginOfHivAndAids"><a href="/origin-aids-hiv.htm">The Origin of HIV and AIDS </a></li></ul></div></div></div></li><li class="hivAidsStatisticsFromAroundTheWorld"><a class="" href="/aids-statistics.htm" title="HIV &amp; AIDS Statistics from Around the World">Statistics</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent worldwideHivAidsStatistics_sectionContent"><h3>Worldwide HIV &amp; AIDS Statistics</h3><ul><li class="understandingHivAndAidsStatistics"><a href="/statistics.htm">Understanding HIV and AIDS Statistics</a></li><li class="worldwideHivAidsStatistics"><a href="/worldstats.htm">Worldwide HIV &amp; AIDS Statistics</a></li><li class="worldwideHivAidsStatisticsCommentary"><a href="/worlstatinfo.htm">Worldwide HIV &amp; AIDS Statistics Commentary</a></li></ul></div><div class="sectionContent odd americanHivAidsStatistics_sectionContent"><h3>American HIV &amp; AIDS Statistics</h3><ul><li class="unitedStatesOfAmericaHivAidsStatistics"><a href="/usa-statistics.htm">United States of America HIV &amp; AIDS Statistics </a></li></ul></div><div class="sectionContent canadianHivAidsStatistics_sectionContent"><h3>Canadian HIV &amp; AIDS Statistics</h3><ul><li class="canadaAidsStatisticsByYearAndAge"><a href="/canada-aids.htm">Canada AIDS Statistics by Year and Age</a></li><li class="canadaHivStatisticsSummary"><a href="/canada-hiv.htm">Canada HIV Statistics Summary</a></li></ul></div><div class="sectionContent odd latinAmericanCaribbeanHivAidsStatistics_sectionContent"><h3>Latin American &amp; Caribbean HIV &amp; AIDS Statistics</h3><ul><li class="caribbeanHivAidsStatistics"><a href="/caribbean.htm">Caribbean HIV &amp; AIDS Statistics</a></li><li class="latinAmericaHivAidsStatistics"><a href="/southamerica.htm">Latin America HIV &amp; AIDS Statistics</a></li></ul></div><div class="sectionContent africanHivAidsStatistics_sectionContent"><h3>African HIV &amp; AIDS Statistics</h3><ul><li class="southAfricaHivAidsStatistics"><a href="/south-africa-hiv-aids-statistics.htm">South Africa HIV &amp; AIDS Statistics</a></li><li class="subSaharanAfricaHivAidsStatistics"><a href="/africa-hiv-aids-statistics.htm">Sub-Saharan Africa HIV &amp; AIDS Statistics</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd asianHivAidsStatistics_sectionContent"><h3>Asian HIV &amp; AIDS Statistics</h3><ul><li class="indiaHivAidsStatistics"><a href="/india-hiv-aids-statistics.htm">India HIV &amp; AIDS Statistics</a></li><li class="southEastAsiaHivAidsStatistics"><a href="/aids-hiv-south-east-asia.htm">South East Asia HIV &amp; AIDS Statistics</a></li></ul></div><div class="sectionContent australianHivAidsStatistics_sectionContent"><h3>Australian HIV &amp; AIDS Statistics</h3><ul><li class="australiaHivAidsStatistics"><a href="/aids-hiv-australia.htm">Australia HIV &amp; AIDS Statistics</a></li></ul></div><div class="sectionContent odd europeanHivAidsStatistics_sectionContent"><h3>European HIV &amp; AIDS Statistics</h3><ul><li class="europeanHivAndAidsStatistics"><a href="/hiv-aids-europe.htm">European HIV and AIDS Statistics</a></li><li class="ukHivAndAidsStatistics"><a href="/uk-statistics.htm">UK HIV and AIDS Statistics </a></li></ul></div></div></div></div></li><li class="hivTransmissionTesting"><a class="doubleLine" href="/transmission.htm" title="HIV Transmission &amp; Testing">Transmission <br>&amp; Testing </a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent hivTransmission_sectionContent"><h3>HIV transmission</h3><ul><li class="aidsFearAndAnxiety"><a href="/aids-fear-anxiety.htm">AIDS: Fear and Anxiety</a></li><li class="canYouGetHivFrom"><a href="/can-you-get-hiv-aids.htm">Can You Get HIV From. . . ?</a></li><li class="criminalTransmissionOfHiv"><a href="/criminal-transmission.htm">Criminal Transmission of HIV</a></li><li class="hivAidsSymptoms"><a href="/hiv-symptoms.htm">HIV &amp; AIDS Symptoms</a></li><li class="hivAndBreastfeeding"><a href="/hiv-breastfeeding.htm">HIV and Breastfeeding</a></li><li class="hivTransmissionQuestionsAnswers"><a href="/hiv-aids-transmission.htm">HIV Transmission Questions &amp; Answers</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd hivTesting_sectionContent"><h3>HIV testing</h3><ul><li class="hivTesting"><a href="/testing.htm">HIV Testing</a></li><li class="hivTestingFrequentlyAskedQuestions"><a href="/hivtesting.htm">HIV Testing Frequently Asked Questions</a></li></ul></div></div></div></div></li><li class="hivAndAidsTreatmentCare"><a class="doubleLine" href="/treatment.htm" title="HIV and AIDS Treatment &amp; Care">Treatment <br>&amp; Care </a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent hivAndAidsTreatment_sectionContent"><h3>HIV and AIDS treatment</h3><ul><li class="hivAndAidsTreatment"><a href="/hiv-and-aids-treatment.htm">HIV and AIDS Treatment</a></li><li class="hivAndAidsTreatmentCare"><a href="/treatment.htm">HIV and AIDS Treatment &amp; Care</a></li><li class="hivTreatmentForChildren"><a href="/hiv-children.htm">HIV Treatment for Children</a></li><li class="startingMonitoringSwitchingHivTreatment"><a href="/antiretroviral.htm">Starting, monitoring &amp; switching HIV treatment</a></li></ul></div><div class="sectionContent odd hivAndAidsCare_sectionContent"><h3>HIV and AIDS care</h3><ul><li class="hivAndAidsCare"><a href="/hiv-and-aids-care.htm"> HIV and AIDS Care</a></li><li class="hivAndAidsHomeBasedCare"><a href="/aids-home-care.htm">HIV and AIDS Home Based Care</a></li><li class="hivAidsAndPain"><a href="/aids-pain.htm">HIV/AIDS and Pain</a></li><li class="palliativeCare"><a href="/palliative-care.htm">Palliative Care</a></li></ul></div><div class="sectionContent hivAndAidsDrugs_sectionContent"><h3>HIV and AIDS drugs</h3><ul><li class="antiretroviralDrugSideEffects"><a href="/aids-drug-side-effects.htm">Antiretroviral Drug Side Effects</a></li><li class="antiretroviralDrugsTable"><a href="/aids-drugs-table.htm">Antiretroviral Drugs Table</a></li><li class="hivAndAidsDrugs"><a href="/hiv-and-aids-drugs.htm">HIV and AIDS Drugs</a></li><li class="newAntiretroviralDrugs"><a href="/new-aids-drugs.htm">New Antiretroviral Drugs</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd treatmentAccess_sectionContent"><h3>Treatment access</h3><ul><li class="aidsDrugPricesAndGenericDrugs"><a href="/generic.htm">AIDS, Drug Prices and Generic Drugs</a></li><li class="treatmentAccess"><a href="/treatment-access.htm">Treatment Access</a></li><li class="universalAccessToHivAidsTreatment"><a href="/universal-access.htm">Universal Access to HIV/AIDS Treatment</a></li></ul></div><div class="sectionContent aidsRelatedInfections_sectionContent"><h3>AIDS-related infections</h3><ul><li class="hivOpportunisticInfectionsPreventionAndTreatment"><a href="/hiv-opportunistic-infections.htm">HIV Opportunistic Infections: Prevention and Treatment</a></li><li class="hivAidsRelatedInfections"><a href="/hiv-aids-related-infections.htm">HIV/AIDS &amp; related Infections</a></li><li class="stagesOfHivInfection"><a href="/stages-hiv-aids.htm">Stages of HIV Infection</a></li><li class="tuberculosis"><a href="/tuberculosis.htm">Tuberculosis</a></li></ul></div><div class="sectionContent odd otherTreatmentAndCare_sectionContent"><h3>Other treatment and care</h3><ul><li class="alternativeAndTraditionalMedicineForHiv"><a href="/alternative-medicine-hiv.htm">Alternative and Traditional Medicine for HIV</a></li><li class="hivAndNutrition"><a href="/hiv-nutrition.htm">HIV and Nutrition</a></li></ul></div></div></div></div></li></ul></div></div><div id="hivAidsAroundTheWorld" class="tabBox "><a href="#" class="mainMenuBt blue left">HIV &amp; AIDS <br>Around The World  </a><div class="hoverZone"><ul class="menuGroup veryDarkShadow mediumGrey"><li class="theHivAndAidsEpidemicInAfrica firstItem"><a class="" href="/aids-hiv-africa.htm" title="The HIV and AIDS Epidemic in Africa">Africa</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent theHivAidsEpidemicInAfrica_sectionContent"><h3>The HIV &amp; AIDS epidemic in Africa</h3><ul><li class="gayMenInAfricaAndHivAids"><a href="/gay-africa-hiv-aids.htm">Gay Men in Africa and HIV/AIDS</a></li><li class="hivAndAidsInAfrica"><a href="/hiv-aids-africa.htm">HIV and AIDS in Africa</a></li><li class="hivAndAidsInAfricaQuestions"><a href="/aids-africa-questions.htm">HIV and AIDS in Africa Questions</a></li><li class="theImpactOfHivAidsInAfrica"><a href="/aids-impact-africa.htm">The Impact of HIV &amp; AIDS in Africa</a></li></ul></div><div class="sectionContent odd africanCountries_sectionContent"><h3>African countries</h3><ul><li class="hivAidsInBotswana"><a href="/aids-botswana.htm">HIV &amp; AIDS in Botswana</a></li><li class="hivAidsInMalawi"><a href="/aids-malawi.htm">HIV &amp; AIDS in Malawi</a></li><li class="hivAndAidsInKenya"><a href="/hiv-aids-kenya.htm">HIV and AIDS in Kenya</a></li><li class="hivAndAidsInNigeria"><a href="/aids-nigeria.htm">HIV and AIDS in Nigeria</a></li><li class="hivAndAidsInSouthAfrica"><a href="/aidssouthafrica.htm">HIV and AIDS in South Africa</a></li><li class="hivAndAidsInSwaziland"><a href="/aids-swaziland.htm">HIV and AIDS in Swaziland</a></li><li class="hivAndAidsInTanzania"><a href="/hiv-aids-tanzania.htm">HIV and AIDS in Tanzania</a></li><li class="hivAndAidsInUganda"><a href="/aids-uganda.htm">HIV and AIDS in Uganda</a></li><li class="hivAndAidsInZambia"><a href="/aids-zambia.htm">HIV and AIDS in Zambia</a></li><li class="hivAndAidsInZimbabwe"><a href="/aids-zimbabwe.htm">HIV and AIDS in Zimbabwe</a></li><li class="hivAndAidsInLesotho"><a href="/aids-lesotho.htm">HIV and AIDS&nbsp;in Lesotho</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd historyOfHivAidsInAfrica_sectionContent"><h3>History of HIV &amp; AIDS in Africa</h3><ul><li class="historyOfHivAidsInAfrica"><a href="/history-aids-africa.htm">History of HIV &amp; AIDS in Africa</a></li><li class="historyOfHivAidsInSouthAfrica"><a href="/history-aids-south-africa.htm">History of HIV &amp; AIDS in South Africa</a></li><li class="timelineOfAidsInAfrica"><a href="/africa-aids-timeline.htm">Timeline of AIDS in Africa</a></li></ul></div></div></div></div></li><li class="hivAidsInTheAmericas"><a class="" href="/americas.htm" title="HIV &amp; AIDS in the Americas">Americas</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent hivAidsInTheUnitedStates_sectionContent"><h3>HIV &amp; AIDS in the United States</h3><ul><li class="historyOfHivAidsInTheUnitedStatesOfAmerica"><a href="/aids-history-america.htm">History of HIV &amp; AIDS in the United States of America</a></li><li class="hivAidsInTheUnitedStatesOfAmerica"><a href="/america.htm">HIV &amp; AIDS in the United States of America</a></li><li class="hivAidsTreatmentInTheUnitedStatesOfAmerica"><a href="/aids-treatment-america.htm">HIV &amp; AIDS Treatment in the United States of America</a></li><li class="hivAndAidsAmongAfricanAmericans"><a href="/hiv-african-americans.htm">HIV and AIDS Among African Americans</a></li></ul></div><div class="sectionContent odd helpAndAdviceForHivAndAidsInAmerica_sectionContent"><h3>Help and advice for HIV and AIDS in America</h3><ul><li class="usaHivAidsHelpAndAdvice"><a href="/hiv-usa.htm">USA HIV &amp; AIDS Help and Advice</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd hivAidsInLatinAmericaAndTheCaribbean_sectionContent"><h3>HIV &amp; AIDS in Latin America and the Caribbean</h3><ul><li class="hivAidsInBrazil"><a href="/aids-brazil.htm">HIV &amp; AIDS in Brazil</a></li><li class="hivAndAidsInLatinAmerica"><a href="/aidslatinamerica.htm">HIV and AIDS in Latin America</a></li><li class="hivAndAidsInTheCaribbean"><a href="/aids-caribbean.htm">HIV and AIDS in the Caribbean</a></li></ul></div></div></div></div></li><li class="hivAidsInAsiaEurope"><a class="" href="/aids-hiv-asia-europe.htm" title="HIV &amp; AIDS in Asia &amp; Europe">Asia &amp; Europe</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent hivAidsInAsia_sectionContent"><h3>HIV &amp; AIDS in Asia</h3><ul><li class="hivAidsInChina"><a href="/aidschina.htm">HIV &amp; AIDS in China</a></li><li class="hivAidsInThailand"><a href="/thailand-aids-hiv.htm">HIV &amp; AIDS in Thailand</a></li><li class="hivAndAidsInAsia"><a href="/aids-asia.htm">HIV and AIDS in Asia</a></li><li class="overviewOfHivAndAidsInIndia"><a href="/aidsindia.htm">Overview of HIV and AIDS in India</a></li><li class="timelineOfAidsInAsia"><a href="/asia-aids-timeline.htm">Timeline of AIDS in Asia</a></li><li class="whoIsAffectedByHivAndAidsInIndia"><a href="/hiv-india.htm">Who is Affected by HIV and AIDS in India?</a></li></ul></div><div class="sectionContent odd hivAidsInEurope_sectionContent"><h3>HIV &amp; AIDS in Europe</h3><ul><li class="historyOfHivAidsInTheUk19811995"><a href="/uk-aids-history.htm">History of HIV &amp; AIDS in the UK 1981-1995</a></li><li class="historyOfHivAidsInTheUk1996Onwards"><a href="/ukaids.htm">History of HIV &amp; AIDS in the UK 1996 Onwards</a></li><li class="hivAndAidsInRussiaEasternEuropeCentralAsia"><a href="/aids-russia.htm">HIV and AIDS in Russia, Eastern Europe &amp; Central Asia</a></li><li class="hivAndAidsInTheUk"><a href="/aids-uk.htm">HIV and AIDS in the UK</a></li><li class="hivAndAidsInWesternAndCentralEurope"><a href="/aids-europe.htm">HIV and AIDS in Western and Central Europe</a></li><li class="hivAndAidsTreatmentInTheUk"><a href="/hiv-treatment-uk.htm">HIV and AIDS Treatment in the UK</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd helpAndAdviceInTheUk_sectionContent"><h3>Help and advice in the UK</h3><ul><li class="helpAndAdviceForHivAidsInTheUk"><a href="/aids-help-uk.htm">Help and Advice for HIV/AIDS in the UK</a></li><li class="whoHasToPayForNhsTreatmentInTheUk"><a href="/freenhs.htm">Who Has to Pay for NHS Treatment in the UK?</a></li></ul></div></div></div></div></li></ul></div></div><div id="sexSexualityRelationships" class="tabBox "><a href="#" class="mainMenuBt blue left">Sex, Sexuality <br>&amp; Relationships  </a><div class="hoverZone"><ul class="menuGroup veryDarkShadow mediumGrey"><li class="gayAndLesbian firstItem"><a class="" href="/gay-lesbian.htm" title="Gay and Lesbian">Gay &amp; Lesbian</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent gayLesbian_sectionContent"><h3>Gay &amp; Lesbian</h3><ul><li class="amIGayAreYouBornGayCanYouStopBeingGay"><a href="/being-gay.htm">Am I Gay? Are You Born Gay? Can You Stop Being Gay?</a></li><li class="comingOut"><a href="/coming-out.htm">Coming out</a></li><li class="gayAndLesbian"><a href="/gay-lesbian.htm">Gay and Lesbian</a></li><li class="gaySex"><a href="/gay-sex.htm">Gay Sex</a></li><li class="homophobiaPrejudiceAttitudesToGayMenLesbians"><a href="/homophobia.htm">Homophobia, Prejudice &amp; Attitudes to Gay Men &amp; Lesbians</a></li><li class="homosexualOrGay"><a href="/homosexual.htm">Homosexual or Gay?</a></li><li class="howManyGayPeopleAreThere"><a href="/gay-people.htm">How Many Gay People Are There?</a></li><li class="lesbiansBisexualWomenAndSafeSex"><a href="/lesbians-safe-sex.htm">Lesbians, Bisexual Women and Safe Sex</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd youngGay_sectionContent"><h3>Young &amp; Gay</h3><ul><li class="beingGayAtSchool"><a href="/gay-school.htm">Being Gay at School</a></li><li class="hivAidsAndYoungGayMen"><a href="/young-gay-men.htm">HIV, AIDS and Young Gay Men</a></li></ul></div><div class="sectionContent gayLesbian_sectionContent"><h3>Gay &amp; Lesbian</h3><ul><li class="amIALesbian"><a href="/am-i-lesbian.htm">Am I a Lesbian?</a></li><li class="amIGay"><a href="/am-i-gay.htm">Am I Gay?</a></li><li class="youngGayMenLesbians"><a href="/young-gay-lesbian.htm">Young Gay Men &amp; Lesbians</a></li></ul></div><div class="sectionContent odd resourcesHelp_sectionContent"><h3>Resources &amp; help</h3><ul><li class="resourcesForPeopleWhoAreGayLesbianOrUnsure"><a href="/gaylesbianhelp.htm">Resources for people who are gay, lesbian or unsure</a></li><li class="youngGayMenTalkingBookletPdf"><a href="/media/pdfs/younggaymentalking.pdf">'Young Gay Men Talking' booklet [PDF]</a></li></ul></div></div></div></div></li><li class="sexuallyTransmittedDiseasesInfections"><a class="" href="/std.htm" title="Sexually Transmitted Diseases &amp; Infections ">STDs</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent commonStds_sectionContent"><h3>Common STDs</h3><ul><li class="chlamydia"><a href="/chlamydia.htm">Chlamydia </a></li><li class="genitalWartsHpv"><a href="/genital-warts.htm">Genital Warts HPV</a></li><li class="gonorrhea"><a href="/gonorrhea.htm">Gonorrhea </a></li><li class="hepatitisABC"><a href="/hepatitis.htm">Hepatitis A, B &amp; C</a></li><li class="herpes"><a href="/herpes.htm">Herpes </a></li><li class="stdPictures"><a href="/std-pictures.htm">STD Pictures</a></li><li class="stisOrStds"><a href="/stds.htm">STIs or STDs</a></li><li class="syphilis"><a href="/syphilis.htm">Syphilis</a></li></ul></div><div class="sectionContent odd stdStatistics_sectionContent"><h3>STD Statistics</h3><ul><li class="stdStatisticsWorldwide"><a href="/std-statistics.htm">STD Statistics Worldwide</a></li><li class="stdsInAmerica"><a href="/std-statistics-america.htm">STDs in America</a></li><li class="stdsInTheUk"><a href="/std-statistics-uk.htm">STDs in the UK</a></li></ul></div></div><div class="submenuRight"></div></div></div></li><li class="sexAndHiv"><a class="" href="/sex.htm" title="Sex and HIV">Sex</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="sectionContent informationAboutSex_sectionContent"><h3>Information about sex</h3><ul><li class="condomsSpermicidesQuestions"><a href="/spermicide-condoms.htm"> Condoms &amp; Spermicides questions</a></li><li class="ageOfConsent"><a href="/age-consent.htm">Age of Consent</a></li><li class="contraceptionQuestions"><a href="/contraception-birth-control.htm">Contraception questions</a></li><li class="howToHaveSex"><a href="/how-to-have-sex.htm">How to Have Sex</a></li><li class="oralSex"><a href="/oral-sex.htm">Oral Sex</a></li><li class="pregnancyQuestions"><a href="/get-pregnant.htm">Pregnancy Questions</a></li><li class="sexQuestions"><a href="/sex-questions.htm">Sex Questions</a></li><li class="worldwideAgesOfConsent"><a href="/age-of-consent.htm">Worldwide Ages of Consent</a></li></ul></div></div></div></li><li class="youngPeople"><a class="" href="/teens.htm" title="Young People">Young People</a><div class="subHoverZone"><div class="submenu UnderlinedLinks"><div class="submenuLeft"><div class="sectionContent relationshipsSex_sectionContent"><h3>Relationships &amp; Sex</h3><ul><li class="amIReadyForSex"><a href="/ready-sex.htm">Am I Ready for Sex?</a></li><li class="beingGaySexualityAndAttraction"><a href="/young-gay-sex.htm">Being Gay, Sexuality and Attraction </a></li><li class="havingSex"><a href="/sexual-intercourse.htm">Having Sex</a></li><li class="havingSexForTheFirstTime"><a href="/intercourse-first-time.htm">Having Sex for the First Time</a></li><li class="relationshipsAndFeelings"><a href="/teens-relationships.htm">Relationships and Feelings</a></li><li class="relationshipsAndSex"><a href="/young-people-relationships.htm">Relationships and Sex </a></li></ul></div><div class="sectionContent odd yourBodyAndPuberty_sectionContent"><h3>Your Body and Puberty</h3><ul><li class="pubertyAndBoysBodies"><a href="/puberty-boys.htm">Puberty and Boys' Bodies</a></li><li class="pubertyPeriodsAndGirlsBodies"><a href="/puberty-girls.htm">Puberty, Periods and Girls' Bodies</a></li><li class="yourBodyPubertyAndSexualOrgans"><a href="/puberty-sex.htm">Your Body, Puberty and Sexual Organs </a></li></ul></div><div class="sectionContent havingSaferSex_sectionContent"><h3>Having Safer Sex</h3><ul><li class="aboutHivAidsForYoungPeople"><a href="/aids-information.htm">About HIV/AIDS for Young People</a></li><li class="aboutStisStdsForYoungPeople"><a href="/teens-diseases.htm">About STIs &amp; STDs for Young People</a></li><li class="birthControlAndContraceptionForYoungPeople"><a href="/birth-control-contraception.htm">Birth Control and Contraception for Young People</a></li><li class="condomTipsForYoungPeople"><a href="/teens-condoms.htm">Condom Tips for Young People</a></li><li class="drinkDrugsSex"><a href="/sex-drink-drugs.htm">Drink, Drugs &amp; Sex</a></li><li class="havingSaferSex"><a href="/having-safer-sex.htm">Having Safer Sex</a></li><li class="sexTheInternetAndTechnology"><a href="/teens-sex-internet.htm">Sex, the Internet and Technology</a></li><li class="sexTheLawAndYoungPeople"><a href="/teens-sex-law.htm">Sex, the Law and Young People</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd hivPositiveLife_sectionContent"><h3>HIV-positive Life</h3><ul><li class="beingHivPositiveAndHealthy"><a href="/teens-hiv-healthy.htm">Being HIV-positive and Healthy</a></li><li class="findingOutThatYouReHivPositive"><a href="/teens-hiv-diagnosis.htm">Finding Out That You're HIV-positive</a></li><li class="friendsAttitudesAndHiv"><a href="/teens-friends-hiv.htm">Friends, Attitudes and HIV</a></li><li class="sexAndRelationshipsForHivPositiveYoungPeople"><a href="/young-people-relationships-hiv.htm">Sex and Relationships for HIV-positive Young People</a></li></ul></div><div class="sectionContent faqAboutSex_sectionContent"><h3>FAQ about sex</h3><ul><li class="questionsAboutSexForYoungPeople"><a href="/teens-sex-questions.htm">Questions About Sex for Young People</a></li></ul></div><div class="sectionContent odd otherWebsites_sectionContent"><h3>Other Websites</h3><ul><li class="goAskAlice"><a href="http://www.goaskalice.columbia.edu">Go Ask Alice!</a></li><li class="sexEtc"><a href="http://www.sexetc.org">Sex, Etc.</a></li><li class="bbcTheSurgery"><a href="http://www.bbc.co.uk/surgery">BBC - The Surgery</a></li></ul></div></div></div></div></li></ul></div></div><div id="mediaGamesStories" class="tabBox "><a href="#" class="mainMenuBt blue left">Photos, Videos, <br>Games &amp; Stories  </a><div class="hoverZone"><ul class="menuGroup veryDarkShadow mediumGrey"><li class="avertSGames firstItem"><a class="" href="/games.htm" title="AVERT's Games">Games</a><div class="subHoverZone"><div class="submenu UnderlinedLinks mediaSubmenu playingSubmenu odd">
+    <div class="submenuLeft">
+        <div class="sectionContent">  
+            <p class="UnderlinedLinks">Play our games to test your knowledge and skills, while learning new facts. See how much you know about HIV/AIDS and sexual health, with our AIDS Game, Sex Education Game, Pregnancy Game and Condom Game. Use your mouse to collect the right letters while avoiding the baddies for a chance to appear on our HI-scores table.</p>  
+            <p class="UnderlinedLinks">Give our games a try now, and see how well you can do!</p>  
+        </div>
+    </div>
+    <div class="submenuRight">
+        <div class="sectionContent">
+             <ul class="odd">  
+                <li>
+                    <a class="bt" href="/hiv-aids-game.htm">
+                        <span class="blue">AIDS Game<span class="imageContainer"><img src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span>
+                    </a>
+                </li>  
+                <li>
+                    <a class="bt" href="/pregnancy-game.htm"><span class="blue">Pregnancy Game<span class="imageContainer"><img src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span>
+                    </a>
+                </li>  
+                <li>
+                    <a class="bt" href="/sex-education-game.htm"><span class="blue">Sex Education Game<span class="imageContainer"><img src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span>
+                    </a>
+                </li>  
+                <li>
+                    <a class="bt" href="/condom-game.htm"><span class="blue">Condom Game<span class="imageContainer"><img src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span>
+                    </a>
+                </li>  
+            </ul> 
+        </div>
+    </div> 
+</div>
+</div></li><li class="avertSHivAndAidsMediaGallery"><a class="" href="/media-gallery.htm" title="AVERT's HIV and AIDS Media Gallery">Photos &amp; Videos</a><div class="subHoverZone"><div class="submenu UnderlinedLinks mediaSubmenu gallerySubmenu specialSubmenu">  
+        <div class="submenuLeft">  
+            <div class="sectionContent">  
+                <p>Our media gallery contains hundreds of HIV and AIDS related photos, videos and graphics. You can have a look around, use the search feature, or take a look at some photo selections.</p>
+                <ul class="odd">
+                    <li><a class="smallBt" href="/aids-hiv-people-pictures.htm"><span class="blue">Photo Selections</span></a></li>
+                    <li><a class="smallBt" href="/media-gallery"><span class="blue">Photos &amp; Videos Gallery</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="submenuRight">
+            <div class="sectionContent">
+                <form method="post" action="/media-gallery" id="search_form" class="gallerySearch odd">
+                    <fieldset class="searchOption hidden" id="mediaTypes">
+                        <legend>Media Types</legend>
+                        <input value="1" checked="checked" name="imageTypes[]" id="imageType1" type="checkbox">
+                        <label for="imageType1">Photos</label>
+                        <input checked="checked" value="3" name="imageTypes[]" id="imageType3" type="checkbox">
+                        <label for="imageType3">Graphics</label>
+                        <input value="1" checked="checked" name="mediaTypes[]" id="mediaTypeVideos" type="checkbox">
+                        <label for="mediaTypeVideos">Videos</label>
+                    </fieldset>
+                    <fieldset>
+                    <label for="query">Search the Media Gallery</label>
+                    <input value="" name="query" id="query" type="text">
+                        <span class="tinyBt" id="submitSearch"><input value="Search the Gallery" id="submit" class="blue" type="submit"></span>
+                </fieldset>
+                </form>
+            </div>
+            <div class="sectionContent">
+                <h3>Latest media:</h3>
+                <ul class="latestMedia">
+                    <li class="loadingLatest"></li>
+                    <li class="loadingLatest"></li>
+                    <li class="loadingLatest"></li>
+                </ul>
+            </div>
+        </div>
+</div>
+</div></li><li class="avertSQuizzes"><a class="" href="/quizzes.htm" title="AVERT's Quizzes">Quizzes</a><div class="subHoverZone"><div class="submenu UnderlinedLinks mediaSubmenu playingSubmenu odd"><div class="submenuLeft"><div class="sectionContent">  
+<p class="UnderlinedLinks">Try our quizzes to test your knowledge on all aspects of sexual health and HIV and AIDS. We have a Sex Quiz, Pregnancy Quiz, Condom Quiz and an HIV and AIDS Quiz.</p>  
+<p class="UnderlinedLinks">Just a beginner? Then try the quizzes' easy levels. Think you're an expert? Well try the hard quizzes.</p>  
+</div></div><div class="submenuRight"><div class="sectionContent"><ul class="odd">
+    <li><a class="bt" href="/avert-aids-challenge.htm"><span class="blue">AIDS Challenge <span class="imageContainer"><img id="thumb_challenge" src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span></a></li>  
+    <li><a class="bt" href="/hiv-aids-quiz.php"><span class="blue">HIV and AIDS Quiz <span class="imageContainer"><img id="thumb_hiv" src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span></a></li>  
+<li><a class="bt" href="/pregnancy-quiz.php"><span class="blue">Pregnancy Quiz <span class="imageContainer"><img id="thumb_preg" src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span></a></li>  
+  
+<li><a class="bt" href="/sex-quiz.php"><span class="blue">Sex Education Quiz <span class="imageContainer"><img id="thumb_sex" src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span></a></li>  
+<li><a class="bt" href="/condom-quiz.php"><span class="blue">Condom Quiz <span class="imageContainer"><img id="thumb_condom" src="/media/template/layout/blank.gif" height="70" width="257" alt="blank"></span></span></a></li>  
+</ul></div></div></div>
+</div></li><li class="stories"><a class="" href="/stories.htm" title="Stories">Stories</a><div class="subHoverZone"><div class="submenu UnderlinedLinks storiesSubmenu"><div class="submenuLeft"><div class="sectionContent lesbianAndGayStories_sectionContent"><h3>Lesbian and gay stories</h3><ul><li class="comingOutStories"><a href="/coming-out-stories.htm">Coming out Stories</a></li><li class="youngBisexualAndGayMenPersonalStories"><a href="/gay-men-stories.htm">Young Bisexual and Gay Men: Personal Stories</a></li><li class="youngLesbianAndBisexualPersonalStories"><a href="/young-lesbians.htm">Young Lesbian and Bisexual: Personal Stories</a></li></ul></div><div class="sectionContent odd hivAndAids_sectionContent"><h3>HIV and AIDS</h3><ul><li class="hivAndAidsInTheFamily"><a href="/friend-hiv.htm">HIV and AIDS in the Family</a></li><li class="personalStoriesOfMenLivingWithHiv"><a href="/aids-stories.htm">Personal Stories of Men Living with HIV</a></li><li class="personalStoriesOfWomenLivingWithHiv"><a href="/living-with-hiv.htm">Personal Stories of Women Living with HIV</a></li><li class="personalStoriesOfYoungPeopleLivingWithHiv"><a href="/hiv-stories.htm">Personal Stories of Young People Living with HIV</a></li><li class="storiesFromAroundTheWorld"><a href="/aids-hiv-stories.htm">Stories From Around the World</a></li></ul></div></div><div class="submenuRight"><div class="sectionContent odd talkingAboutSex_sectionContent"><h3>Talking about sex</h3><ul><li class="firstTimeSexStories"><a href="/first-time-sex-stories.htm"> First Time Sex Stories</a></li><li class="storiesOfSexEducation"><a href="/learning-sex.htm">Stories of Sex Education</a></li><li class="submitAStory"><a href="/submit-a-story.htm">Submit a story</a></li></ul></div><div class="sectionContent featuredStory_sectionContent"><h3>Featured Story</h3><ul><li class="featuredStory">  
+
+ <blockquote class="bigquote">
+        <p class="bigquotebodyHomePage">
+            <a href="/first-time-sex-stories.htm" target="_self">at first i thought that i was okay with that cause we had been together for about 5 months, but something just felt wrong...<font size="3" color="red"> - Submitted by Asgley </font></a><br>
+                <font size="3" color="black">Read more &gt;&gt;</font>
+                </p>               
+    </blockquote>
+
+
+
+
+</li></ul></div></div></div></div></li></ul></div></div><div id="feature" class="tabBox">
+    <a href="#" class="mainMenuBt darkBlue left">HIV Prevention<br>Strategies<span class="tabBoxInfo"></span></a>
+    <div id="featImg"></div>
+    <div class="hoverZone">
+        <div class="submenu UnderlinedLinks">
+            <div class="submenuLeft">
+                <div class="sectionContent">
+                <div class="feature-link">                    
+<div class="feature-h3">                    
+<h3>The emergence of tailor-made HIV prevention</h3>                    
+</div>
+                    <p>Increasingly, the complex nature of HIV epidemics is being recognised, and in response, global HIV prevention strategies are changing. Replacing the once leading HIV prevention strategy, 'Abstinence, Be Faithful, Condomise' (ABC), 'Combination Prevention' has been adopted as the leading response to global HIV epidemics.</p>
+
+<p>Find out why the ABC approach, previously so successful in Uganda, failed to be a universal success; and how tailor-made HIV prevention is having a positive impact on communities around the world.</p>                
+                    </div><!-- feature-link -->                
+                    
+                    <div class="innerBox borderTop noMargin left odd">
+                        <a class="smallBt box50 left" href="/abc-hiv.htm"><span class="blue">HIV Prevention Strategies</span></a>
+                         <a class="smallBt box50 right" href="/aids-uganda.htm"><span class="blue">HIV &amp; AIDS in Uganda</span></a>
+                    </div>                      
+                </div><!-- .sectionContent -->
+            </div><!-- .submenuLeft -->
+            <div class="submenuRight">
+                <div class="sectionContent">
+                    <ul>
+                        <li class="video center" style="padding-top:0"><a href="/media-gallery/video-80-construction-workers-in-india-face-hivaids-related-stigma"><img alt="Construction workers face HIV-related stigma in India" src="/apps/media_gallery/files/videos/80/construction_workers_in_india_face_hiv_aids_related_stigma_thumb.jpg"><span>Construction workers face HIV-related stigma in India</span></a></li>
+                    </ul>
+                </div><!-- sectionContent -->
+            </div><!-- submenuRight -->
+        </div><!-- .submenu -->
+    </div><!-- .hoverZone -->
+</div><!-- #feature -->
+</div><div id="spanishMenu" class="blue sections threeItems  hidden"><div id="avertHome" class="tabBox"><a href="/" title="AVERT.org Home page" class="mainMenuBt left"><span class="hidden">home page</span></a></div><div id="temasSobreElVihYElSida" class="tabBox "><a href="#" class="mainMenuBt blue left">Temas sobre <br>el VIH y el SIDA  </a><div class="hoverZone"><div class="submenu UnderlinedLinks"><div class="sectionContent group1_sectionContent"><ul><li class="puedeContraerSidaDe"><a href="/puede-contraer-sida-de.htm">¿Puede Contraer SIDA De. . . ?</a></li><li class="sNtomasDelVihYDelSida"><a href="/sintomas-vih.htm">Síntomas Del VIH Y Del SIDA</a></li><li class="sida"><a href="/sida.htm">SIDA</a></li><li class="vih"><a href="/vih.htm">VIH</a></li></ul></div><div class="sectionContent odd group2_sectionContent"><ul><li class="pruebasDeDetecciNDelVih"><a href="/pruebas-vih.htm">Pruebas De Detección Del VIH</a></li><li class="vihEmbarazoMadresYBebS"><a href="/embarazo-sida.htm">VIH, Embarazo, Madres Y Bebés</a></li><li class="visiNGeneralDeLaPrevenciNDeVih"><a href="/prevencion-vih.htm">Visión General De La Prevención De VIH</a></li></ul></div><div class="sectionContent group3_sectionContent"><ul><li class="introducciNAlTratamientoDeVihYSida"><a href="/tratamiento-vih-sida.htm">Introducción Al Tratamiento De VIH Y SIDA</a></li><li class="laEvidenciaDeQueElVihCausaElSida"><a href="/evidencia-vih-causa-sida.htm">La Evidencia De Que El VIH Causa El SIDA</a></li><li class="lasEstadSticasDelSidaYVihEnElMundo"><a href="/estadisticas-sida.htm">Las Estadísticas Del SIDA Y VIH En El Mundo</a></li></ul></div></div></div></div><div id="sexoSexualidadYLasRelaciones" class="tabBox "><a href="#" class="mainMenuBt blue left">Sexo, sexualidad <br>y las relaciones  </a><div class="hoverZone"><div class="submenu UnderlinedLinks"><div class="sectionContent group1_sectionContent"><ul><li class="cMoSeTieneSexo"><a href="/sexo.htm">¿Cómo Se Tiene Sexo?</a></li><li class="preguntasGeneralesSobreSexo"><a href="/preguntas-sexo.htm">Preguntas Generales Sobre Sexo</a></li><li class="usoDeCondonesTiposYTamaOsDeCondones"><a href="/condones.htm">Uso De Condones, Tipos Y Tamaños De Condones</a></li></ul></div><div class="sectionContent odd group2_sectionContent"><ul><li class="soyGaySeNaceGaySePuedeDejarDeSerGay"><a href="/gay.htm">¿Soy Gay? ¿Se Nace Gay? ¿Se Puede Dejar De Ser Gay?</a></li><li class="enfermedadesDeTransmisiNSexualYSNtomasDeEts"><a href="/ets.htm">Enfermedades De Transmisión Sexual Y Síntomas De ETS</a></li></ul></div></div></div></div><div id="mediaJuegosYConcursos" class="tabBox "><a href="#" class="mainMenuBt blue left">Media, juegos <br>y concursos   </a><div class="hoverZone"><div class="submenu UnderlinedLinks"><div class="sectionContent Array_sectionContent"><ul><li class="fotosYVideos"><a href="/media-gallery">Fotos y Videos</a></li><li class="juegosEnInglS"><a href="/games.htm">Juegos (en Inglés)</a></li></ul></div></div></div></div></div>  
+        <!-- Search Box -->
+        <div class="right" id="searchBox">
+            <!-- Google CSE Search Box Begins -->  
+            <form class="searchForm" action="/search.htm" id="searchbox_005417628306235147370:5kmbmpfhraa">
+                <fieldset>
+                    <input type="hidden" value="005417628306235147370:5kmbmpfhraa" name="cx">
+                    <input type="hidden" value="FORID:11" name="cof">
+                    <label class="SearchLabel" for="search_text">Search Avert.org</label>
+                    <input type="text" id="search_text" onfocus="this.value=''" value="Search Avert.org" name="q" class="text">
+                    <label for="search">Click to search site</label>
+                    <button class="tinyBt" name="search" type="submit" id="search"><span class="blue">search</span></button>
+                </fieldset>
+            </form>
+            <!-- Google CSE Search Box Ends -->
+        </div><!-- Search Box ends -->
+        
+        
+    </div><!-- #menu Ends -->
+    <a class="hidden" href="#content">back to content</a>
+</div><!-- #menuWrapper Ends -->
+<!-- Menu Ends -->
+
+                </div> <!-- #middleContainer Ends -->
+            </div> <!-- #headerGraphic Ends -->
+            <div id="footer" class="UnderlinedLinks">
+                <div id="footerContent">
+                    <ul>
+                        <li><a href="/" title="Avert.org">Home</a></li>
+                        <li><a href="/donate" title="Donate to the Charity AVERT">Donate</a></li>
+                        <li><a href="/aids-hiv-charity-avert.htm" title="About the AIDS charity AVERT">About AVERT</a></li>
+                        <li><a href="/aids-projects.htm" title="AVERT's AIDS Projects">AIDS Projects</a></li>
+                        <li><a href="/fundraising-for-aids.htm" title="Fundraising for AVERT">Fundraising</a></li>
+                        <li><a href="/help.htm" title="Sources of help &amp; advice">Help &amp; Advice</a></li>
+                        <li><a href="/contact.htm" title="How to contact AVERT">Contact Us</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/work-and-careers.htm">Work and Careers</a></li>
+                        <li><a href="/disclaimer.htm">Disclaimer &amp; Privacy Policy</a></li>
+                        <li><a href="/siteinfo.htm">Site information</a></li>
+                        <li><a href="/sitemap.htm">Site map</a></li>
+                        <li><a href="/link.htm">Link to us</a></li>
+                        <li><a href="/facebook-disclaimer.htm">Facebook disclaimer</a></li>
+                    </ul>
+                    <ul id="copyrightFooter">
+                        <li>All material on www.avert.org is copyright © AVERT, 2013 (unless stated otherwise). All rights reserved. Registered UK charity number: 1074849</li><li><a href="/copyright.htm">More about Copyright</a></li>
+                    </ul>
+                </div> <!-- #footerContent Ends -->
+            </div> <!-- #footer Ends -->
+        </div> <!-- #topContainer Ends -->
+    </div> <!-- #wrapper Ends -->
+    <script type="text/javascript" src="/js/avertJS.js"></script>
+<script type="text/javascript" src="/js/menuBar.js"></script>
+        
+    <!-- ColorBox -->
+    <!-- AddThis Button -->
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=avert"></script>
+    <!--[if ie]> <script type="text/javascript" src="/js/supersleight.plugin.js"></script> <![endif]-->
+    <!--[if ie 6]> <script type="text/javascript" src="/js/ie6.js"></script> <![endif]-->
+    
+
+</body></html>
