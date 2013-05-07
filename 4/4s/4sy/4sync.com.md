@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215035410id_/http%3A//www.4sync.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507080815id_/https%3A//www.4sync.com/privacy.jsp) for the most accurate reproduction.*
 
-# 4sync - Privacy
+# 4Sync - Privacy
 
-## 4sync  
-PRIVACY POLICY  
-Last Revised: June 20, 2012
+## 4Sync Privacy Policy  
+Last Revised: March 7, 2013
 
-This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by 4sync Inc. (" **we** " or " **us** ") with respect to your access and use of 4sync's online file storage and sharing service located at [www.4sync.com](http://www.4sync.com/), (the " **Service** ") and our mobile applications ("Apps" or "App"), so you can make an informed decision about using the Service.
+This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by 4Sync Inc. (" **4Sync** ", " **we** " or " **us** ") with respect to your access and use of 4Sync's online file storage and sharing service located at [www.4Sync.com](http://www.4sync.com/), (the " **Service** ") and our mobile applications 4Sync Mobile ("Apps" or "App"), so you can make an informed decision about using the Service. 
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
 
-4sync Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4Sync.com](mailto:support@4Sync.com) or [www.4sync.com](http://www.4sync.com/), 745 Distel Dr., Los Altos, CA 94022. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site.
+4Sync Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4Sync.com](mailto:support@4Sync.com) or 2670 Leavenworth, San Francisco, California. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site.
 
 ## What Is Personal Information?
 
@@ -53,10 +52,10 @@ We will not knowingly share the personally identifiable information we collect f
   * with vendors, consultants, and other service providers such as a credit card processing company to bill you for services, a forum provider for hosting our public forums, and an email service provider to send out emails on our behalf (" **Service Providers** "). When you sign up for our services we will share your personal information only as necessary for the third party to provide that service.;
   * when you give us your consent to do so, including if we notify you on the Service or Apps that the information you provide will be shared in a particular manner and you provide such information;
   * in an aggregated or anonymized form that does not directly identify you;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of 4sync Inc., our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting 4sync Inc. or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service or Apps;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the applicable local laws or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of 4Sync Inc., our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting 4Sync Inc. or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service or Apps;
   * to enforce or apply this Policy, the Terms, or our other policies or agreements;
-  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of 4sync Inc.
+  * and in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of 4Sync Inc.
 
 
 
@@ -74,11 +73,11 @@ We will retain your information for as long as your account is active or as need
 
 ## Tell-A-Friend
 
-If you choose to use our referral service to tell a friend about our Service, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 4sync Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you choose to send a link through the "Share" function to a friend who is not yet a 4Sync user, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 4Sync Inc. stores this information for the sole purpose of sending this one-time email.
 
 ## Open Blogs
 
-We may offer publicly accessible blogs through our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@4Sync.com](mailto:support@4Sync.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may offer publicly accessible blogs our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@4Sync.com](mailto:support@4Sync.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Links to Other Websites
 
@@ -106,6 +105,6 @@ You may "opt out" of receiving marketing or promotional emails from us by follow
 
 ## Questions?
 
-If you have any questions about this Policy, please contact us at [support@4Sync.com](mailto:support@4Sync.com) or via postal mail at [www.4sync.com](http://www.4sync.com/), 745 Distel Dr., Los Altos, CA 94022.
+If you have any questions about this Policy, please contact us at [support@4Sync.com](mailto:support@4Sync.com) or via postal mail at or via postal mail at [4Sync.com](http://www.4sync.com/), 2670 Leavenworth St., Ste. #E, San Francisco, CA 94109.
 
 [ ](https://privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=02b5d674-662b-4fff-8284-cb08d1345af4 "TRUSTe online privacy certification")
