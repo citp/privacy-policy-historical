@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006180614id_/http%3A//www.downloadpass.com/cimages/legal/privacy.html%3Fsite%3Ddownloadpass) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507085607id_/http%3A//www.downloadpass.com/cimages/legal/privacy.html%3Fsite%3Ddownloadpass) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
