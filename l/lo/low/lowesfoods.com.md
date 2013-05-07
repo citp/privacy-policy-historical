@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lowesfoods.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230062224id_/http%3A//www.lowesfoods.com/index.cfm/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowesfoods.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507081303id_/http%3A//www.lowesfoods.com/index.cfm/aboutus/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Lowe's Food Stores, Inc.
+# Privacy Policy
 
 [](http://lowes.mywebgrocer.com/StoreLocator.aspx?f=cir&cc=1&cc=1&s=59831598&g=f6899b01-ba83-4fe9-a007-45f0e27317b5&uc=1BA1B3)
 
