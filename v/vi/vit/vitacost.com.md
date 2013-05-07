@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013082219id_/http%3A//www.vitacost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507110404id_/http%3A//www.vitacost.com/privacy) for the most accurate reproduction.*
 
 # Vitacost.com Web Site Privacy Statment - Vitacost
 
@@ -6,129 +6,67 @@
 
 [](http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_shortname=SC&v_search=http://www.vitacost.com/&x=6&y=5)
 
-Effective on: (03/12/2007)
+Effective on: (03/2/2013)
 
-Vitacost.com, Inc. is committed to your privacy. We disclose our information practices below and we agree to notify you of: 
+Vitacost is committed to your privacy. This notice serves to help you better understand what information Vitacost collects, how it uses that information, and with whom Vitacost may share a limited portion of that information with. The most recent version of Vitacost's privacy policy can be found on this page (http://www.vitacost.com/privacy). If you have questions or concerns regarding this policy, you should contact [Customer Support](https://web.archive.org/survey-contact-us) by email. 
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through www.vitacost.com.
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under vitacost.com control.
-  7. How you can correct any inaccuracies in the information.
+Vitacost knows that you value your personal information, and we protect your privacy as if it were our own. Vitacost's uses of your information is limited to the ways outlined in this notice, except as required by law and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
 
-
-
-If you have questions or concerns regarding these statements, you should contact [Customer Support](https://web.archive.org/LandingPage/ContactUsForm.aspx) by email. 
-
-At Vitacost.com we protect your privacy as if it were our own. We use the information you provide to us for six purposes only: to process your order(s), to reply to your questions, provide our newsletter via email, to provide our print catalog via postal mail, to facilitate a transaction you chose to enter into with our third party partner(s) and to incorporate your feedback into improvements to our Web site. We will not give, sell, or rent your personal information, including email address, or specific account activity to anyone for any reason without your prior consent except as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
-
-Our Secure Ordering.
-
-Vitacost, Inc. uses Secured Sockets Layer (SSL) technology to ensure the privacy of your personal information. When you make an online purchase, our advanced security technology encrypts and scrambles your personal data (including your name, delivery and e-mail addresses and credit card number) before it is sent to us, making it virtually impossible for anyone other than Vitacost, Inc. to read it. To further protect your information, we utilize state of the art back-end systems and restrict employee access to your information. Unless specifically authorized by you, no outside party is able to access or receive any of your personal customer information. 
-
-To make sure you are accessing our secure server before you submit personal financial information, look at the lower left or right corner of your browser, or to the right of the location bar in newer browsers. If you see an unbroken key or a closed lock (depending upon your browser), the SSL is active. To double-check for security, look at the location line or your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https." Some browser versions and some firewalls do not permit communication through a secure server like the ones we use at Vitacost, Inc.. If for any reason you cannot access the secure server, please feel free to place your order with us by phone at 1-800-381-0759. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Vitacost, Inc. wants you to feel completely comfortable. If you have more questions about our security systems, or feel more comfortable ordering by phone, please call 1-800-381-0759 and we will be happy to help you. 
-
-Credit Card Fraud Protection.
-
-All major credit card companies protect cardholders against fraud, subject to a $50 deductible. Vitacost.com will protect you for this $50 portion in the highly unlikely situation that you ever encounter an inappropriate charge involving our company. 
-
-Optional Phone Ordering.
-
-If you are still skeptical about placing your order online, you may place your order over the phone at 1-800-381-0759 or via fax at 1-800-347-6898 during customer service hours: Monday through Thursday from 9am-9pm EST; Friday from 9am-6pm EST and Saturday from 10am-3pm EST. 
-
-Information We Collect.
-
-In designing our website, we started with the simple belief that customer service is our number one priority. Therefore the customer information we collect is used to enhance our services to you, our customer. 
-
-**When you visit our website, we collect non-personal information about your visit.** We collect your IP address, browser type, domain name, and we log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on our website and the emails you receive from us (should you grant us permission to send to you). We keep this information for our internal use; we do not share it with others. This information is in no way tied to your personal information, including your email address. 
-
-**Our Web site uses cookies to store information between users' visits to our site and for the duration of the visit, also known as a session.** Cookies are a mechanism to remember information about a visitor when he or she navigates from one Web page to another. Our Web site uses cookies to hold users' unique session identifiers, allowing our Web server to serve correct information back to the user. Such information includes the user's shopping cart items, or whether he or she is logged in when requesting to view or modify personal information, including your email address, which may have been stored in our database in the past. Our Web site cookies do not hold any personal identifiable information. Disabling or rejecting cookies will prevent users from adding items to the cart and checking out; however, standard browsing on our Web site does not require cookies. 
-
-**Vitacost.com uses tracking technologies** to send anonymous information about your browsing habits to a third party company. Links in our email communications to recipients are tracked via Web Beacons once you land on our website. Web Beacons appear on our website as 1x1 transparent images which transmit information such as your operating system, browser, resolution, geographical location, products ordered, and order total. This information is used to help our webmasters and marketers understand the behavior of visitors to our website and understand the effectiveness of online and email messages. Your information is submitted anonymously, and no sensitive or personally identifiable information is transmitted. 
-
-**When you subscribe to our newsletters, Vitacost.com, Inc. asks you for contact information** (your name and email address). When you sign up for our newsletters we use your name and email address to send you our health newsletters and to inform you of sales and special offers. When you submit a product review on our website, you are required to log into your customer account. Your comments, first name, city, and state will be displayed. However, no information that would allow others to contact you will be disclosed by Vitacost.com. Your information will be used for no other purpose than to allow you to submit product reviews. 
-
-Recommend product to a friend.
-
-The information collected (friend's name and email address) is used to send a one time only email to the friend letting them know about the product that the user recommends. 
-
-**If you place an online order, our secure order form requests contact, billing, and financial information** (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information, including email address, is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us, as described in the opt-out section below. The credit card information we collect is used to bill you for products you purchase, and if you provide prior consent, this information may also be shared with a third party partner. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You may also place a Set & Save order that will allow you to receive products on a regular basis without the need to reenter that order every time. You may cancel this order at anytime by sending an email to [Customer Support](https://web.archive.org/LandingPage/ContactUsForm.aspx) or calling 1-800-381-0759. You will automatically be registered to receive our weekly newsletter unless you opt-out at the time of purchase. You may opt-out at any later time by following the unsubscribe instructions in the newsletter or sending an email to ">newsletter@vitacost.com with the word UNSUBSCRIBE followed by your email address in the subject of the email (example: UNSUBSCRIBE youremail@emailaddress.com). 
-
-We have several types of third-party relationships.
-
-  1. We have an affiliate program that allows other websites to earn money by directing people (through links) to our website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to a third party who activates your affiliate status and pays you based on the sales you generate for Vitacost.com, Inc. The third-party affiliate manager (LinkShare) has its own privacy policy (<http://www.linkshare.com/legal/privacy/>). Please be aware that when signing up as an affiliate you are entering information on a the third party's website (not vitacost.com's site) even though our logo frames the Web page you are visiting.
-  2. We use third-party intermediaries. When you purchase from us, we send your credit card information, name, and billing address to credit card companies for verification and to authorize your purchase.
-  3. We use outside shipping companies to fulfill orders. These companies do not retain, share, store or use personally identifiable information, including email address, for any other purposes.
-  4. We provide certain third party offers for your consideration. Should you choose to place an order with one of these partners, in some cases we will share certain information, including email address, necessary to facilitate your transaction with them. We will always ask for your consent prior to sharing your information with anyone.
-  5. Vitacost.com handles the sending of order related and customer service related messages internally, as well as advertising related emails. Vitacost service providers do not retain nor use your personal information, including your email address for any other purpose except to provide the service on our behalf.
-  6. We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[ click here.](http://www.networkadvertising.org/managing/opt_out.asp)
+  1. What kind of information about me does Vitacost collect?
+  2. How does Vitacost use this information?
+  3. What information can I access or modify?
+  4. How does Vitacost secure my information?
+  5. Can I opt-out?
 
 
 
-Our affiliates may have access to transaction-level data.
+What kind of information about me does Vitacost collect?
 
-Our third-party affiliate program offers a feature that may allow a small number of selected affiliates to gain access to individual user transaction information that originates from links on their websites. These affiliates generally include, but are not limited to, rebate sites, member sites, charity fund-raising sites, school fund-raising sites, and association sites. To properly track and credit the customer's transaction, these sites may give each of their members a unique code, which will uniquely identify the member or the member's organization. This code is activated only when the customer links directly from the affiliate site to Vitacost.com, Inc. Any transactions made at Vitacost.com, Inc. while the code is active will be reported back to the affiliate. Vitacost.com, Inc. never passes on personal data as part of this feature. We will provide only the date of the transaction, the amount of the transaction, and the product purchased. To further protect the privacy of our customers, we require all affiliates requesting this feature to sign a statement promising to inform users beforehand of any such data collection, and to guarantee that any data collected will be used solely to reward users (or their selected charities) for their purchases. If you are concerned about having your purchase tracked in this manner, you may avoid it by visiting Vitacost.com, Inc. directly (without linking from an affiliate site). If the affiliate site has not made its tracking procedures clear to you, please notify us by e-mail. 
+Vitacost collects information about you in these ways: 
 
-**We occasionally run our own online surveys** and we ask visitors for contact information (such as email address) and demographic information (such as zip code, age, or income level). We use contact data from our surveys to send users information about our company. You may opt-out of the survey and also opt-out of any future mailings at the time of the survey. The demographic information is used to learn more about the types of people who visit our site. This information is not shared with any other parties currently. We reserve the right to share this information with other parties in the future in an aggregated format that would not disclose any personally identifiable information. 
-
-Opt-Out.
-
-If you decide that you would like to opt-out from receiving newsletters from us, our emails provide you with the opportunity to stop receiving these communications. Simply click on the unsubscribe link at the bottom of each email. You may also opt-out by sending an email to [Customer Support](https://web.archive.org/LandingPage/ContactUsForm.aspx). Simply type in the word "unsubscribe" followed by your email address in the subject line of the email (example: UNSUBSCRIBE youremail@emailaddress.com). Please note: You will continue to receive transactional-related emails (such as order confirmations) whenever you place an order. 
-
-Links.
-
-This site contains links to other sites. Vitacost.com is not responsible for the privacy practices or the content of such Web sites. 
-
-Delete/Deactivate.
-
-This site gives you the following options for removing your information, including email address, from our database, to not receive future communications, or to no longer receive our service. 
-
-  1. You can send email to Customer Support.
-  2. You can send mail to the following postal address: 
-
-Vitacost.com  
-130 Lexington Parkway  
-Lexington, NC 27295 
-
-  3. You can call the following telephone number: 1-800-381-0759
+  1. **Order information you give us:** If you place an online order, our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. 
+  2. **Account information:** If you choose to create a Vitacost account, your login information is stored with any other information you associate with your account. 
+  3. **Non-personal information we receive automatically:** Like most websites, Vitacost utilizes cookies. Cookies are a mechanism to remember information about you when you navigate from one web page to another. Our website uses cookies to hold a user's unique session identifiers, allowing us to serve correct information back to the user. Such information includes your shopping cart items, or whether you are logged in. Our website cookies do not hold any personally identifiable information. Vitacost may use other similar technologies which allow us to collect non-personally identifiable information about your visit to help us better your experience. 
+  4. **Mobile information:** When you utilize our iPhone® or Android® phone apps, we may receive non-personally identifiable information, such as a unique identifier for your device letting us know what type of phone you are using. 
 
 
 
-Change/Modify.
-
-Our site provides you the opportunity to correct or update your account information, including email address. You can do this by: 
-
-  1. Accessing the "[My Account](https://web.archive.org/MyAccount/MyAccountHome.aspx)" page and clicking on the "Billing, payment and password settings" link.
-  2. Send mail to the following postal address: 
-
-Vitacost.com  
-130 Lexington Parkway  
-Lexington, NC 27295
-
-  3. You can call the following telephone number: 1-800-381-0759
+back to top  
 
 
+How does Vitacost use this information?
 
-When You Send Email to our Customer Service Department.
+Vitacost uses information collected in these ways: 
 
-We provide email links on our "[Customer Service](https://web.archive.org/LandingPage/ContactUsForm.aspx)" page that allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. The information you send us is used to respond directly to your questions and comments. We also keep your email correspondence on file so that we may better serve you should you have additional questions in the future. Your personal information is shared with third parties (such as manufacturers) only with your explicit permission. 
+  1. **Order processing and customer service:** After placing an online order, your contact information including your email address will be used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. Your credit card information is transmitted securely to our third part processing provider in compliance with Payment Card Industry standards. You will automatically be registered to receive our email newsletter, which are you able to opt out of at any time by accessing your user account, following the unsubscribe link found in the email newsletter, or sending an email to newsletter@vitacost.com with the word UNSUBSCRIBE followed by your email address in the subject of the email (example: UNSUBSCRIBE youremail@emailaddress.com).
+  2. **Third-party service providers:** Vitacost works closely with other companies and individuals to facilitate transactions and better your experience. Examples of third-party service provider services include shipping orders, analyzing data, providing accurate search results and links, processing credit card payments, affiliate marketing, and newsletters. Any information that Vitacost shares with a third-party service provider is done so safely, securely, and under a contractual relationship with that provider to protect your data.
+  3. **Promotional offers:** From time to time we or a service provider acting on our behalf may use your name, email address, and/or mailing address to send you an offer for a Vitacost product or service we believe to be of interest to you.
+  4. **Other information you provide us:** Information you provide us for specific offers or services is only used for the limited purpose for which the information is being given. Examples of these offers or services include Refer-A-Friend, Email to a Friend, surveys, and sweepstakes. 
 
-How We Notify You of Changes to our Privacy Policy.
 
-Whenever we change our privacy policy, we will post a notice on our website indicating that a new version is available. If Vitacost.com changes how it uses a user's personally identifiable information, including email address, the user will be notified by email and they may opt-out at that time. However, if you have opted-out of all communication with the site you will not be contacted, nor will your personally identifiable information be used in this new manner. 
 
-Contacting the Web Site.
+back to top  
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Customer Service
+What information can I access or modify?
 
-Vitacost.com  
-130 Lexington Parkway  
-Lexington, NC 27295
+If you are a registered customer, you may log into your account and view or modify the account information on file, including personally identifiable information, recent orders, payment settings, shopping lists, and Set & Save settings. In order to protect your personal information, only the last four numbers of any saved credit cards are viewable. 
 
-Phone: 1-800-381-0759
+back to top  
 
-Fax: 1-800-347-6898
+
+How does Vitacost secure my information?
+
+Vitacost utilizes technologies including Transport Layer Security (TLS) and database encryption to ensure the privacy of your personal information. When you make an online purchase, our advanced security technology uses strong secure protocols to send your personal data to us, making it practically impossible for someone to intercept and extract that data. To further protect your information, we utilize state of the art back-end systems and restrict employee access to your information. Any time we share your information with a third party consistent with this Privacy Policy, we utilize technological and contractual safeguards to keep your information safe. 
+
+While we are confident ordering online is safe and secure, if for any reason you cannot access the secure server or feel uncomfortable ordering online, please feel free to place your order with us by phone at 1-800-381-0759. As a general practice, it is important for you to protect against unauthorized access to your password and to your computer. If using a shared computer, be sure to log out of your account prior to leaving the computer. 
+
+back to top  
+
+
+Can I opt-out?
+
+At any time you can adjust your communication preferences, including opting out of promotional mailings, from within your Vitacost account. You additionally have the right to remove your account, and any personally identifiable information associated with it, from the Vitacost database. To do so, you may call or email [Customer Service](https://web.archive.org/survey-contact-us). 
+
+back to top  
+
