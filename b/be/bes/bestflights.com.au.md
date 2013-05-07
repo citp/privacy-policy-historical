@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003943id_/http%3A//www.bestflights.com.au/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507115821id_/http%3A//www.bestflights.com.au/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Flights respects your privacy
 
