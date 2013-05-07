@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceitapps.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322132144id_/http%3A//appsorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceitapps.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507233205id_/http%3A//appsorama.com/privacy) for the most accurate reproduction.*
 
 # Apps-O-Rama - Privacy Policy
 
