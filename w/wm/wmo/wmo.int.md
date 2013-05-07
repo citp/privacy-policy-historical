@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wmo.int privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027210439id_/http%3A//www.wmo.int/pages/disclaimer/privacy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmo.int privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507104446id_/https%3A//www.wmo.int/pages/disclaimer/privacy_en.html) for the most accurate reproduction.*
 
 # World Meterological Organization (WMO) - Privacy
 
 Privacy policy  |   
 ---|---  
-[Home](https://web.archive.org/web/20121027210439id_/http%3A//www.wmo.int/pages/index_en.html) >
+[Home](https://web.archive.org/web/20130507104446id_/https%3A//www.wmo.int/pages/index_en.html) >
 
 ## Privacy policy
 
