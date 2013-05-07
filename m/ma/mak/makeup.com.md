@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106092000id_/http%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508004549id_/http%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Makeup.com
+# Privacy Policy
 
 We have adopted this statement (the “Privacy Policy”) in order to inform you of its policies with respect to information collected from the website, [www.makeup.com](http://www.makeup.com/) (the “Site”).
 
