@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the retro64.com privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716223717id_/http%3A//www.retro64.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retro64.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507095223id_/http%3A//www.retro64.com/privacy.asp) for the most accurate reproduction.*
 
 # Our Strict Privacy Policy at Retro64
+
+**Our Privacy Policy  
+**  
+**Short Version:**  
+Retro64, Inc. keeps your personal information strictly confidential and never sells any of your information to third parties. 
 
 **  
 Long Version:**  
