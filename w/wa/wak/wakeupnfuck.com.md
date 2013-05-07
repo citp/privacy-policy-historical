@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeupnfuck.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234209id_/http%3A//www.wakeupnfuck.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeupnfuck.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507133914id_/http%3A//www.wakeupnfuck.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
