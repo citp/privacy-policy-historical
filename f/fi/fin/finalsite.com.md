@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the finalsite.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126011923id_/http%3A//www.finalsite.com/page.cfm%3Fp%3D514) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalsite.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507104641id_/http%3A//www.finalsite.com/page.cfm%3Fp%3D514) for the most accurate reproduction.*
 
 # finalsite: web software and services for schools - Private School Websites, Independent School Websites, School Content Management System, Education Content Management System, School Website Design, Private School Software, CMS: Website Privacy Policy
-
-  
-  
-| 
 
 [](https://privacy.truste.com/privacy-seal/Active-Internet-Technologies/validation?rid=d283ed33-bffe-44e8-96a3-281f46c042f5 "TRUSTe European Safe Harbor certification")
 
@@ -81,7 +77,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 #### Links to Other Sites
 
-Our policy discloses the privacy practices for the finalsite website. However, we do provide links to other websites. When you leave [www.finalsite.com](https://web.archive.org/web/20121126011923id_/http%3A/) you will go to sites outside of our control.  These external sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for finalsite do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy.
+Our policy discloses the privacy practices for the finalsite website. However, we do provide links to other websites. When you leave [www.finalsite.com](http://www.finalsite.com/) you will go to sites outside of our control.  These external sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for finalsite do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy.
 
 #### Security
 
@@ -103,6 +99,4 @@ If we decide to change our privacy practices, we will post those changes to this
 
 #### Contact Us
 
-Feel free to contact us regarding this privacy statement at [education@finalsite.com](mailto:education@finalsite.com), by telephone at 860.289.3507, or by postal mail at finalsite, 809 Main Street, East Hartford, CT  06108.   
-  
----|---
+Feel free to contact us regarding this privacy statement at [education@finalsite.com](mailto:education@finalsite.com), by telephone at 860.289.3507, or by postal mail at finalsite, 809 Main Street, East Hartford, CT  06108. 
