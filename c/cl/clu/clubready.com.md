@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubready.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224205332id_/https%3A//www.clubready.com/clubready_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubready.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507042012id_/https%3A//www.clubready.com/clubready_privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
