@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the earthfiles.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023022456id_/http%3A//www.earthfiles.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earthfiles.com privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507081138id_/http%3A//www.earthfiles.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title>Earthfiles.com About Us</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -70,238 +70,6 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-
-
-function WAAddError(formElement,errorMsg,focusIt,stopIt)  {
-  if (document.WAFV_Error)  {
-	  document.WAFV_Error += "\n" + errorMsg;
-  }
-  else  {
-    document.WAFV_Error = errorMsg;
-  }
-  if (!document.WAFV_InvalidArray)  {
-    document.WAFV_InvalidArray = new Array();
-  }
-  document.WAFV_InvalidArray[document.WAFV_InvalidArray.length] = formElement;
-  if (focusIt && !document.WAFV_Focus)  {
-	document.WAFV_Focus = focusIt;
-  }
-
-  if (stopIt == 1)  {
-	document.WAFV_Stop = true;
-  }
-  else if (stopIt == 2)  {
-	formElement.WAFV_Continue = true;
-  }
-  else if (stopIt == 3)  {
-	formElement.WAFV_Stop = true;
-	formElement.WAFV_Continue = false;
-  }
-}
-
-function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumbers,allowSpace,extraChars,focusIt,stopIt,required)  {
-  var isValid = true;
-  extraChars = extraChars.replace(/&quot;/g,'"');
-  if ((!document.WAFV_Stop && !formElement.WAFV_Stop) || formElement.WAFV_Continue)  {
-    for (var x=0; x<value.length; x++)  {
-	  var charGood = false;
-	  var nextChar = value.charAt(x);
-	  var charCode = value.charCodeAt(x);
-	  if (allowLower)  {
-	    if (charCode >= 97 && charCode <= 122)  {
-		  charGood = true;
-		}
-	  }
-	  if (allowUpper)  {
-	    if (charCode >= 65 && charCode <= 90)  {
-		  charGood = true;
-		}
-	  }
-	  if (allowNumbers)  {
-	    if (charCode >= 48 && charCode <= 57)  {
-		  charGood = true;
-		}
-	  }
-	  if (allowSpace)  {
-	    if (nextChar == " ")  {
-		  charGood = true;
-		}
-	  }
-	  if (extraChars)  {
-	    if (unescape(extraChars).indexOf(nextChar) >= 0)  {
-		  charGood = true;
-		}
-	  }
-	  if (!charGood)  {
-	    isValid = false;
-		x = value.length;
-	  }
-	}
-	if (required && value=="")
-	  isValid = false;
-  }
-  if (!isValid)  {
-    WAAddError(formElement,errorMsg,focusIt,stopIt);
-  }
-}
-
-function WAValidatePN(formElement,errorMsg,areaCode,international,reformat,focusIt,stopIt,required)  {
-  var value = formElement.value;
-  var isValid = true;
-  var allowed = "*() -./_\n\r+";
-  var newVal = "";
-  if ((!document.WAFV_Stop && !formElement.WAFV_Stop) && !(!required && value==""))  {
-    for (var x=0; x<value.length; x++)  {
-      var z = value.charAt(x);
-      if ((z >= "0") && (z <= "9")) {
-	    newVal += z;
-	  }
-	  else  {
-		if (allowed.indexOf(z) < 0)  {
-		  isValid = false;
-		}
-	  }
-    }	
-	if (international)  {
-	  if  (newVal.length < 5)  {
-	    isValid = false;
-	  }
-	}
-	else if (newVal.length == 11)  {
-	  if (newVal.charAt(0) != "1")	{
-		isValid = false;
-	  }
-	}
-	else if ((newVal.length != 10 && newVal.length != 7) || (newVal.length==7 && areaCode)) {
-	  isValid = false;
-	}
-  }
-  if (!isValid)  {
-    WAAddError(formElement,errorMsg,focusIt,stopIt);
-  }
-  else  {
-    formElement.WAValid = true;
-    if (reformat != "" && newVal != "")  {
-      for (var x=0; x<newVal.length; x++)  {
-	    reformat = reformat.substring(0,reformat.lastIndexOf("x")) + newVal.charAt(newVal.length-(x+1)) + reformat.substring(reformat.lastIndexOf("x")+1);
-	  }
-	  if (reformat.indexOf("x")>=0)  {
-	    reformat = reformat.substring(reformat.lastIndexOf("x")+1);
-        z = reformat.charAt(0);
-	    while (((z < "0") || (z > "9")) && z != "(")  {
-	      reformat = reformat.substring(1);
-		  z = reformat.charAt(0);
-		}
-	  }
-      formElement.value = reformat;
-	}
-  }
-}
-
-function WAValidateEM(formElement,value,errorMsg,focusIt,stopIt,required) {
-  var isValid = true;
-  if ((!document.WAFV_Stop && !formElement.WAFV_Stop) && !(!required && value==""))  {
-    var knownDomsPat = /^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum)$/;
-    var emailPat = /^(.+)@(.+)$/;
-    var accepted = "\[^\\s\\(\\)><@,;:\\\\\\\"\\.\\[\\]\]+";
-    var quotedUser = "(\"[^\"]*\")";
-    var ipDomainPat = /^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
-    var section = "(" + accepted + "|" + quotedUser + ")";
-    var userPat = new RegExp("^" + section + "(\\." + section + ")*$");
-    var domainPat = new RegExp("^" + accepted + "(\\." + accepted +")*$");
-    var theMatch = value.match(emailPat);
-    var acceptedPat = new RegExp("^" + accepted + "$");
-    var userName = "";
-    var domainName = "";
-    if (theMatch==null) {
-      isValid = false;
-    }
-    else  {
-      userName = theMatch[1];
-      domainName = theMatch[2];
-	  var domArr = domainName.split(".");
-	  var IPArray = domainName.match(ipDomainPat);
-      for (x=0; x < userName.length; x++) {
-        if ((userName.charCodeAt(x) > 127 && userName.charCodeAt(x) < 192) || userName.charCodeAt(x) > 255) {
-          isValid = false;
-        }
-      }
-      for (x=0; x < domainName.length; x++) {
-        if ((domainName.charCodeAt(x) > 127 && domainName.charCodeAt(x) < 192) || domainName.charCodeAt(x) > 255) {
-          isValid = false;
-        }
-      }
-      if (userName.match(userPat) == null) {
-        isValid = false;
-      }
-      if (IPArray != null) {
-        for (var x=1; x<=4; x++) {
-          if (IPArray[x] > 255) {
-            isValid = false;
-          }
-        }
-      }
-      for (x=0; x < domArr.length; x++) {
-        if (domArr[x].search(acceptedPat) == -1 || domArr[x].length == 0 || (domArr[x].length < 2 && x >= domArr.length-2)) {
-          isValid = false;
-        }
-      }
-      if (domArr[domArr.length-1].length !=2 && domArr[domArr.length-1].search(knownDomsPat) == -1) {
-        isValid = false;
-      }
-      if (domArr.length < 2) {
-        isValid = false;
-      }
-    }
-  }
-// add q.com
-if (domainName == 'q.com') { isValid = true; }
-  if (!isValid)  {
-    WAAddError(formElement,errorMsg,focusIt,stopIt);
-  }
-}
-
-function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  { 
-  if (!document.WAFV_StopAlert)  { 
-	  document.WAFV_StopAlert = true;
-	  if (document.WAFV_InvalidArray)  {  
-	    document.WAFV_Stop = true;
-        var errorMsg = document.WAFV_Error;
-	    if (errorHead!="")
-		  errorMsg = errorHead + "\n" + errorMsg;
-		if (errorFoot!="")
-		  errorMsg += "\n" + errorFoot;
-		document.MM_returnValue = false;
-		if (document.WAFV_Error!="")
-		  alert(errorMsg.replace(/&quot;/g,'"'));
-		else if (submitForm)
-		  submitForm.submit();
-	    if (setFocus && document.WAFV_Focus)  {
-		  document.tempFocus = document.WAFV_Focus;
-          setTimeout("document.tempFocus.focus();setTimeout('document.WAFV_Stop = false;document.WAFV_StopAlert = false;',1)",1); 
-        }
-        else {
-          document.WAFV_Stop = false;
-          document.WAFV_StopAlert = false;
-        }
-        for (var x=0; x<document.WAFV_InvalidArray.length; x++)  {
-	      document.WAFV_InvalidArray[x].WAFV_Stop = false;
-	    }
-	  }
-	  else  {
-        document.WAFV_Stop = false;
-        document.WAFV_StopAlert = false;
-	    if (submitForm)  {
-	      submitForm.submit();
-	    }
-	    document.MM_returnValue = true;
-	  }
-      document.WAFV_Focus = false;
-	  document.WAFV_Error = false;
-	  document.WAFV_InvalidArray = false;
-  }
-}
-
 // -->
 </script></head>
 <body bgcolor="#6789aa" text="#000066">
@@ -327,9 +95,9 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 	<input type="hidden" name="sYear" value="1998">
 	<input type="hidden" name="sMonth" value="01">
 	<input type="hidden" name="sDay" value="01">
-	<input type="hidden" name="eYear" value="2012">
-	<input type="hidden" name="eMonth" value="10">
-	<input type="hidden" name="eDay" value="22">
+	<input type="hidden" name="eYear" value="2013">
+	<input type="hidden" name="eMonth" value="05">
+	<input type="hidden" name="eDay" value="07">
   </td>
   <td align="left" width="40" height="27"><img src="/images/transpix.gif" width="3" height="1" border="0">
     <input type="image" name="Submit" src="/images/go_up.gif"></td>
@@ -379,7 +147,7 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
   
   <tr>
     <td><a href="subscription.php" onmouseover="MM_swapImage('membership','','/images/membership-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="membership" src="/images/membership.gif" width="150" height="20" border="0"></a>
-	<br><!--<img src="images/menu-40dollars.gif" alt="$40 U.S. per year." width="150" height="20" />--></td>
+	<br><img src="images/menu-sub-cost.gif" alt="$45 U.S. per year." width="150" height="20"></td>
   </tr>
   
   <tr>
@@ -501,7 +269,7 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 		  	<br><br>
 			<!-- ---------- CONTENT : CREDITS ---------- -->
 		  	<b><font size="3">Credits &nbsp; </font></b><br>
-            <div align="center"> <b>Copyright © 1999 - 2012 by Linda Moulton Howe</b><br>
+            <div align="center"> <b>Copyright © 1999 - 2013 by Linda Moulton Howe</b><br>
                 <b>All Rights Reserved.</b><br>
                 <a href="http://www.earthfiles.com/">www.earthfiles.com</a><br>
                 <a href="mailto:earthfiles@earthfiles.com">earthfiles@earthfiles.com</a> <br>
@@ -535,7 +303,7 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 <!-- BEGIN COPYRIGHT -->
 <center>
 	<font color="#ffffff" face="verdana, arial" size="-2"><b>
-Copyright © 1999 - 2012, <a href="http://www.earthfiles.com/" class="COPYRIGHT">Earthfiles.com</a> / <a href="http://www.digitaleyecandy.ca/" class="COPYRIGHT">Digital Eye Candy</a><br>
+Copyright © 1999 - 2013, <a href="http://www.earthfiles.com/" class="COPYRIGHT">Earthfiles.com</a> / <a href="http://www.digitaleyecandy.ca/" class="COPYRIGHT">Digital Eye Candy</a><br>
 All rights reserved.
 	</b></font>
 </center><br>
