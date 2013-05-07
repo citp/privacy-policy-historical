@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xinureturns.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192046id_/http%3A//www.sitetrail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xinureturns.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507092833id_/http%3A//www.sitetrail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
