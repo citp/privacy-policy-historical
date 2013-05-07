@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083805id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507110311id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
