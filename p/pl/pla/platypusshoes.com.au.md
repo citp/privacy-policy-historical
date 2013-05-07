@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platypusshoes.com.au privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001212351id_/http%3A//www.platypusshoes.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platypusshoes.com.au privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507123259id_/http%3A//www.platypusshoes.com.au/privacy.html) for the most accurate reproduction.*
 
 # Platypus | Exclusive Sneakers and Fashion Footwear | Mens | Womens | Kids | Privacy
 
