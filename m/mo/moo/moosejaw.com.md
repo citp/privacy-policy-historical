@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218193422id_/http%3A//www.moosejaw.com/moosejaw/shop/content_privacy____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507134928id_/http%3A//www.moosejaw.com/moosejaw/shop/content_privacy____) for the most accurate reproduction.*
 
 # Moosejaw Privacy Policy at Moosejaw.com
-
-## PRIVACY POLICY
 
 New Moosejaw, LLC ("Moosejaw") is committed to protecting online user privacy because we love you. In order to ensure your privacy, information Moosejaw collects through the Moosejaw.com web site at www.moosejaw.com ("Site") is used only in the manner and for the purposes described in this Moosejaw.com Privacy Policy ("Privacy Policy.")
 
