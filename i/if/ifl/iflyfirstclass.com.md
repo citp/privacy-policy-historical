@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iflyfirstclass.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730001418id_/http%3A//www.iflyfirstclass.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflyfirstclass.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507095917id_/http%3A//www.iflyfirstclass.com/privacy_policy.html) for the most accurate reproduction.*
 
 # I Fly First Class. Privacy Policy.
 
@@ -20,7 +20,7 @@
 >  **  
 >  A cookie is a small file placed on the hard drive of your computer. Most websites use cookies. We use cookies to track your use of the Website and the I FLY FIRST CLASS Services, provide you with a more personalized user experience, and to allow you to login and begin use of the I FLY FIRST CLASS Services automatically when you visit the Website.
 > 
-> A web beacon is an often-transparent graphic image, usually no larger than a 1�1 pixel that is placed on a web page or in an e-mail that is used to monitor the behavior of the user visiting the Website or receiving the e-mail.
+> A web beacon is an often-transparent graphic image, usually no larger than a 1? pixel that is placed on a web page or in an e-mail that is used to monitor the behavior of the user visiting the Website or receiving the e-mail.
 > 
 > Cookies and web beacons used by I FLY FIRST CLASS and our online partners are not linked to Personal Information. We have no access to or control over these cookies and web beacons. This Privacy Policy covers the use of cookies and web beacons by I FLY FIRST CLASS and our online partners only and does not cover the use of cookies or web beacons by any other third party.
 > 
