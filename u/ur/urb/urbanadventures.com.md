@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108014428id_/http%3A//www.urbanadventures.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507124828id_/https%3A//www.urbanadventures.com/privacy_statement) for the most accurate reproduction.*
 
 # Urban Adventures - Day tours, with a local. - Privacy Statement
 
