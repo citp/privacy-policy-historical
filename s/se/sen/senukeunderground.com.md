@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the senukeunderground.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125055223id_/http%3A//www.senukeunderground.com/disclaimers/1718) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senukeunderground.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507193914id_/http%3A//www.seowisely.com/disclaimers/4494) for the most accurate reproduction.*
 
 # 
 
-## **Privacy Policy**
+**Privacy Policy**
 
-  
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
@@ -75,4 +74,4 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 We may change this Privacy Policy from time to time.  We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
  This policy was created August 19, 2009.  
-If you have any questions or concerns regarding our privacy policy please direct them to www.SENukeUnderground.com.
+If you have any questions or concerns regarding our privacy policy please direct them to www.Seowisely.com.
