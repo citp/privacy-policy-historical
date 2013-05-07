@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106200015id_/http%3A//www.superbreak.com/info/privacyandterms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507052946id_/http%3A//www.superbreak.com/info/privacyandterms.htm) for the most accurate reproduction.*
 
 # Superbreak Privacy & Terms - Customer Help Section - Superbreak
 
@@ -324,7 +324,7 @@ Registered in England: No. 1674987
 
 #### 25\. ABTA Statement
 
-Superbreak Mini-Holidays Ltd is a member of ABTA with membership number Y1453. ABTA and ABTA members help holidaymakers to get the most from their travel and assist them when things do not go according to plan. We are obliged to maintain a high standard of service to you by ABTA’s Code of Conduct.
+Superbreak Mini-Holidays Ltd is a member of ABTA with membership number Y1453. ABTA and ABTA members help holidaymakers to get the most from their travel and assist them when things do not go according to plan. We are obliged to maintain a high standard of service to you by ABTA's Code of Conduct.
 
 For further information about ABTA, the Code of Conduct and the arbitration scheme available to you if you have a complaint, contact ABTA, 30 Park Street, London SE1 9EQ. Tel: 020 3117 0500 or [www.abta.com](http://www.abta.com/).
 
