@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitegroup2012.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003040011id_/http%3A//elitegroup2012.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitegroup2012.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507071700id_/http%3A//elitegroup2012.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Elite Group 2012
 
