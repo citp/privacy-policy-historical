@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025124652id_/http%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507152811id_/http%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - RentalCarGroup car hire, car rental with all-inclusive rates
 
-  * [ Car Rental ](https://web.archive.org/web/20121025124652id_/http%3A//www.rentalcargroup.com/ "Car Rental") >
+  * [ Car Rental ](https://web.archive.org/web/20130507152811id_/http%3A//www.rentalcargroup.com/ "Car Rental") >
   * Privacy Policy 
 
 
