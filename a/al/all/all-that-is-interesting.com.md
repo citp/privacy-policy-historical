@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the all-that-is-interesting.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116231953id_/http%3A//www.pbh-network.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-that-is-interesting.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507081005id_/http%3A//www.pbh-network.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « The PBH Network
 
 Effective 1/1/09
 
