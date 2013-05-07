@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randstad.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107184424id_/http%3A//www.randstad.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstad.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507082612id_/http%3A//www.randstad.com/privacy-statement) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -20,9 +20,7 @@ As mentioned on the list some of these Companies are located outside the Europea
 
 ### 3\. How we use cookies
 
-A cookie is a piece of text which is placed on your computer's hard drive. Your browser adds that text in a small file. In this file various information can be stored, from pages visited on the site, to information voluntarily given to the site. When you revisit the site days or weeks later, the site can recognize you by matching the cookie on your computer with the counterpart in its database. 
-
-We only use cookies for users who have been re-directed to [www.randstad.com](https://web.archive.org/) from [www.us.randstad.com](http://www.us.randstad.com/). Any users that has been mistakenly re-directed to [www.us.randstad.com](http://www.us.randstad.com/) will have a cookie placed onto the their hard drive, which identifies the user as coming from a US IP address but wanting to visit [www.randstad.com](https://web.archive.org/) and not [www.us.randstad.com](http://www.us.randstad.com/).
+[See our cookie statement](https://web.archive.org/cookies).
 
 ### 4\. Security 
 
