@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsgame.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116022243id_/http%3A//www.wsgame.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsgame.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508013447id_/http%3A//www.wsgame.com/about/privacy) for the most accurate reproduction.*
 
 # WSGame| Hosts of SOG, COG and LOL | fun and free MMORPG
 
