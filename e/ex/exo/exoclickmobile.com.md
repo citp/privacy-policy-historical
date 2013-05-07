@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoclickmobile.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109152939id_/http%3A//www.exoclickmobile.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoclickmobile.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507041807id_/http%3A//www.exoclickmobile.com/privacy.php) for the most accurate reproduction.*
 
 # ExoClickMobile.com - Privacy Policy
 
@@ -62,7 +62,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use persistent cookies to make it easier for you to navigate our site.
 
 Our Web site includes Widgets, such as AddThis, which are interactive mini-programs that run on our site to provide specific services from another company. Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
