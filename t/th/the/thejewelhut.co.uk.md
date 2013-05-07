@@ -1,52 +1,45 @@
-> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116035755id_/http%3A//www.thejewelhut.co.uk/info/privacy-statement-jh.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507071122id_/http%3A//www.thejewelhut.co.uk/info/privacy-statement-jh.htm) for the most accurate reproduction.*
 
 # Privacy Statement The Jewel Hut
 
-This notice describes our privacy policy, which outlines our commitment to protecting and respecting your privacy. By visiting our website you are accepting and consenting to the views and practices described in this notice.
+The Jewel Hut privacy policy outlines our commitment to protecting and respecting your privacy. We regularly review this policy to ensure the best possible service to customers. By visiting our website you are accepting and consenting to the views and practices described in this notice.
 
- **Controllers of Personal Information:**
+Controllers of Personal Information
 
-Any personal information provided to or gathered by us is controlled primarily by T. H. Baker and Co Ltd of 95 High Street, Brierley Hill, West Midlands, England, United Kingdom, DY5 3AU.  
-  
- **Collection and Use of Personal Information About Customers:**
+Any personal information provided to or gathered by us is controlled by T. H. Baker and Co Ltd of 95 High Street, Brierley Hill, West Midlands, England, United Kingdom, DY5 3AU.
 
-When you place an order with us you will be asked to enter your name, address, email address and a contact phone number as well as a password. This will create a user account for you which will allow you to track the progress of your order and will enable you to make future purchases more easily. By submitting your personal data, you agree to the transfer and storing or processing of this information. We do not ask you for your payment card information at this point, so no financial information is stored in your user account. 
+Collection and Use of Personal Information About Customers
 
-The information we learn from customers when they place an order helps us personalise and forever improve your shopping experience with us. We use personal information we collect from you, or that you provide to us, to: handle orders; deliver products and services; process payments; contact you about orders, products, services, special offers and promotional activities; update our records; to improve our store and platform; prevent or detect fraud or abuses of our website; and to enable third parties to carry out technical, logistical or other functions on our behalf. Any third parties must use the information in accordance with this privacy notice and as permitted by the UK's Data Protection Act 1998. Please note that you can unsubscribe from our mailing list at any time by clicking the link available in all outgoing e-mails.
+When you place an order with us you will be asked to enter your name, address, email address and a contact phone number as well as a password. This will create a user account for you which will allow you to track the progress of your order and will enable you to make future purchases more easily. By submitting your personal data, you agree to the transfer and storing or processing of this information. By ticking the tick box to receive promotional e-mails, you agree to receive marketing communications from T. H. Baker and associated companies. We do not ask you for your payment card information at this point, so no financial information is stored in your user account.
+
+The information we learn from customers when they place an order helps us personalise and forever improve your shopping experience with us. We use personal information we collect from you, or that you provide to us, to: handle orders; deliver products and services; process payments; contact you about orders, products, services, special offers and promotional activities; update our records; to improve our store and platform; prevent or detect fraud or abuses of our website; and to enable third parties to carry out technical, logistical or other functions on our behalf. Any third parties must use the information in accordance with this privacy notice and as permitted by the UK's Data Protection Act 1998.
+
+Confidentiality
 
 We will only release personal information when we feel it is appropriate to comply with law, to enforce or apply our conditions of use and other agreements, or to protect the rights, property or safety of thejewelhut.co.uk, our users or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction. However, this does not include selling, sharing or otherwise disclosing personal information about customers for commercial purposes.
 
-Please be assured that information about our customers is an important part in the running of our business and we will not sell it on to other parties. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. If you have given us permission, we will send you emails with special offers and promotions. If you wish to stop receiving these marketing messages, please either click the unsubscribe link on the email that you have been sent or alternatively contact us at:
+Controlling Your Personal Information
 
-TH Baker/ The Jewel Hut,
+You may choose to restrict the use of your personal information and opt out of receiving direct email marketing communications from us. When you are asked to provide information on the website, look for a tick box that you can tick or untick to indicate your preferences.
 
-95 High Street,
+Alternatively, if you have already signed up to receive emails from The Jewel Hut, please note that you can unsubscribe from our mailing list at any time by clicking the link available in all outgoing e-mails. Otherwise, you can request to be removed from our mailing list by emailing sales@thejewelhut.co.uk, calling us on 01384 78431 or making the request in writing to the following address:
 
-Brierley Hill,
+T. H. Baker / The Jewel Hut  
+95 High Street  
+Brierley Hill  
+West Midlands  
+DY5 3AU 
 
-West Midlands,
+Please be assured that information about our customers is an important part in the running of our business and we will not sell on this information to other parties. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-DY5 3AU
+Cookies
 
-or email us at customerservice@thbaker.co.uk or phone us on 01384 78431.  
+Cookies are small software files generated by a Web server and stored in your computer, ready for future access. These files are contained in the HTML information which flows backwards and forwards between your computer or mobile device and the servers.
 
-
-Any changes we make to our privacy policy in the future will be posted on this page.  
-  
- **Cookies:**  
-Cookies are pieces of information generated by a Web server and stored in your computer, ready for future access. These small software files are contained in the HTML information which flows backwards and forwards between your computer or mobile device and the servers.
-
-Cookies are used to personalise Web search engines and to store shopping lists of items a user has selected while browsing through an online shop. Essentially, cookies make use of user-specific information transmitted by the Web server onto your computer so that the information might be available for later access by itself or other servers.
-
-We use session cookies on our website to keep track of the contents of your shopping basket to the checkout. By using cookies in this way, we are able to make the shopping process easier for you as they allow you to place items in your shopping basket and store them there for future visits until you purchase them or remove them.
+Cookies are used by The Jewel Hut to deliver the best possible shopping experience for customers. They help the website store important information, such as the session cookies that remember items placed in the shopping basket during browsing.
 
 Our use of session/tracking and analytics cookies is unobtrusive and intended as a means of improving the experience of the website for consumers. Some parts of the website will run less efficiently if personal privacy settings block cookies. However, it is entirely within your rights to refuse to accept cookies; you can do this by activating the setting on your internet browser which allows you to refuse the setting of cookies.
 
-Please note this website allows:  
-• Third party vendors, including Google, to show this website's ads on sites on the internet.  
-• Third party vendors, including Google, to use cookies to serve ads based on a user's prior visits to this website.   
-• Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page. (Alternatively you can opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page.)  
-  
- **Payment Information:**  
-  
-All payments are processed over a secure server and are fully encrypted, using SSL technology, by our payment provider PROTX/HSBC. All of your sensitive card information is encrypted and is not held in clear text on any site. The payment provider will use the information you provide to run security and fraud checks as necessary. Because this information is encrypted and handled by our payment providers we do not store any of this information on our website nor do we have access to your complete card details at any time.
+Please note this website allows cookies from carefully selected third parties, including Google, to further enhance the shopping experience – for example, by enabling us to provide users with relevant advertising based on a user’s prior visits to the website.
+
+For a more comprehensive overview of cookies and how to manage and/or them, please visit our Cookie Policy & Your Privacy page.
