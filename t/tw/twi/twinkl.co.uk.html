@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the twinkl.co.uk privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101172333id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twinkl.co.uk privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507112327id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <title>Primary Resources - FREE for Early Years (EYFS) KS1 &amp; KS2 | twinkl</title>
 <meta name="keywords" content="primary resources, twinkl, worksheets, lesson plans, maths games, primary school, printable, phonics, posters, labels, signs, EYFS, numbers, displays, signs, roleplay, early years, foundation stage, infant, primary, school, teaching, resources, downloads, free, maths, math, primaryresources, primary education, activities for kids, numeracy, literacy, primary games, primary resources, ks1, key stage one, ks2, foundation stage, teaching, ideas, lesson, plans, resource primary, primary resource, primary teaching resource, free teaching resources, primary teachers, elementary teachers">
 <meta name="description" content="twinkl Primary Resources - worksheets, lesson plans, activities, literacy, numeracy - 1000s of FREE Early Years (EYFS), KS1 &amp; KS2 Primary School Resources">
 <link rel="stylesheet" href="/css/normalize.min.css" media="screen" type="text/css">
-<link rel="stylesheet" href="/css/screen.min.css#1" media="screen, all" type="text/css">
+<link rel="stylesheet" href="/css/screen.min.css?version=1.50" media="screen, all" type="text/css">
 <link rel="stylesheet" href="/css/print.min.css" media="print" type="text/css">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/ie.min.css" media="screen" type="text/css" />
+<![endif]-->
 <!--[if IE 7]>
 <link rel="stylesheet" href="/css/ie7.min.css" media="screen" type="text/css" />
 <![endif]-->
@@ -34,17 +38,28 @@ var OA_zones = {
 'zone_9' : 10,
 'zone_6' : 6
 }
-</script>
-<script type="text/javascript" src="/ads/www/delivery/spcjs.php"></script><script type="text/javascript" src="https://web.archive.org/web/20120502034715/https://www.twinkl.co.uk/ads/www/delivery/spc.php?zones=zone_3%3D3%7Czone_2%3D2%7Czone_1%3D1%7Czone_5%3D5%7Czone_8%3D8%7Czone_4%3D4%7Czone_9%3D10%7Czone_6%3D6%7C&amp;nz=1&amp;source=&amp;r=96817084&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121101172333id_/http%253A//www.twinkl.co.uk/privacy-policy"></script><script type="text/javascript" src="http://www.twinkl.co.uk/ads/www/delivery/fl.js"></script>
-
+					function resizeIframe(height)
+					{
+						// "+60" is a general rule of thumb to allow for differences in
+						// IE & and FF height reporting, can be adjusted as required..
+						document.getElementById('iFrame').height = parseInt(height)+80;
+					}</script>
+<script type="text/javascript" src="http://fe1.twinkl.co.uk/ads/www/delivery/spcjs.php"></script>
 <link rel="alternate" type="application/rss+xml" title="twinkl Resources RSS Feed" href="http://www.twinkl.co.uk/resources.rss">
 <base href="http://www.twinkl.co.uk">
-<!-- TradeDoubler site verification 1855668 -->
 </head>
 <body>
 <div id="sky"></div>
+<div id="clouds"></div>
 <div id="overlay"></div>
 <div id="container">
+<div id="sun"></div>
+<div id="balloons"></div>
+<div id="birds_left_top"></div>
+<div id="bee_bg"></div>
+<div id="birds_left_bottom"></div>
+<div id="birds_right_top"></div>
+<div id="birds_right_bottom"></div>
 <div id="main" class="clearfix">
 <div id="header">
 <div id="logo">
@@ -58,17 +73,11 @@ OA_show('zone_6');
 // ]]> --></script>
 </div>
 <ul id="login_options" class="not-logged-in">
-<li class="avatar">
-<a href="/sign-in">
-<img src="/image/avatar_smaller/default_avatar.gif" alt="Sign In">
-</a>
-</li>
-<li class="user_menu">
+<li class="user_menu notLoggedInTop">
 <span>
-<strong><a href="/sign-in">Sign In</a> · <a href="/sign-up">Sign Up</a></strong>
+<strong><a href="/sign-in">Sign In</a> or <a href="/sign-up" id="signUpLink">Sign Up</a></strong>
 </span>
-</li>
-<li class="user_basket">
+<span>
 <div id="basket_wrapper">
 <a href="/checkout">
 <span id="basket_quantity">
@@ -82,25 +91,37 @@ Check Out
 </span>
 </a>
 </div>
+</span>
+</li>
+<li class="user_basket notLoggedInBottom">
+<form action="https://www.twinkl.co.uk/sign-in" method="post">
+							<input type="text" placeholder="Username" id="user_name" name="username">
+							<input type="password" placeholder="Password" id="pass_word" name="password">
+							<input name="action" type="hidden" value="process">
+							<button title="click to login" type="submit" class="button pink">Go!</button>
+						</form>
+						
 </li>
 </ul>
-<ul id="keystage_toggle">
-<li>
-<div>
-<span></span> KS1 &amp; KS2
-</div>
-<ul>
-<li class="point"></li>
-<li class="odd"><a href="javascript: setKeyStagePreference(0);">Show me all resources</a></li>
-<li class="even"><a href="javascript: setKeyStagePreference(2);">Just show me KS2 resources</a></li>
-</ul>
-</li>
-</ul>
-<div id="community_links">
+
+		<ul id="keystage_toggle">
+			<li>
+				<div>
+					<span></span> Children's Age?
+				</div>
+				<ul>
+					<li class="point"></li>
+					<li class="odd"><a href="javascript: setKeyStagePreference(0);">Show All</a></li>
+					<li class="even"><a href="javascript: setKeyStagePreference(1);">EYFS - (3-5 Years)</a></li>
+					<li class="odd"><a href="javascript: setKeyStagePreference(2);">KS1 - (5-7 Years)</a></li>
+					<li class="even"><a href="javascript: setKeyStagePreference(3);">KS2 - (7-11 Years)</a></li>
+				</ul>
+			</li>
+		</ul><div id="community_links">
 <div class="text"><span>Join the community</span></div>
 <div class="arrow"></div>
 <div class="addthis_toolbox addthis_vertical_style">
-<a onclick="javascript: getFacebookReward(); return true;" class="addthis_button_facebook_follow first" addthis:userid="twinkl"></a>
+<a onclick="javascript: getFacebookReward(); return true;" class="addthis_button_facebook_follow first" addthis:userid="twinklteachingresources"></a>
 <a onclick="javascript: getTwitterReward(); return true;" class="addthis_button_twitter_follow" addthis:userid="twinklresources"></a>
 <a title="Follow on LinkedIn" class="community_links_custom_link" target="_blank" href="http://www.linkedin.com/companies/twinkl-ltd"><img style="border : none" src="http://cache.addthiscdn.com/icons/v1/thumbs/linkedin.gif"> <span>LinkedIn</span></a>
 <a class="addthis_button_google_follow" addthis:userid="103959975485873280862"></a>
@@ -111,100 +132,103 @@ Check Out
 <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=twinkl"></script>
 </div>
 <div id="search_box">
-<form action="search_lijit.php" name="search_form" onsubmit="return validate_search_form();" method="get">
-<input type="text" id="phrase" name="lijit_q" value="Search lovely resources..." onclick="javascript: if(this.value=='Search lovely resources...'){this.value=''};">
-<button title="click to search" type="submit" class="button pink"><span></span></button>
-</form>
-</div>
+		<form action="/search" name="search_form" method="post">
+			<input type="text" id="phrase" name="term" placeholder="Search lovely resources...">
+			<button title="click to search" type="submit" class="button pink"><span></span></button>
+		</form></div>
 <ul id="nav" class="menu_keystage_0">
+<li class="nav_love">
+<a href="/love-twinkl"><img src="/images/love-heart.png" alt="">&nbsp;Twinkl</a>
+</li>
 <li class="nav_resource">
 <a href="/resources">Resources</a>
 <ul class="category_menu">
 <li>
 <div class="menu_col" id="menu_col_1">
-<h2 class="normal top"><a href="/resources/literacy">Literacy</a></h2>
-<span><a href="/resources/literacy/display-letters-and-words" title="Display Letters and Words">Display Letters and Word...</a></span>
+<section id="menu_holder_1924" class="menuHolder"><h2 class="normal top"><a href="/resources/new-primary-topic-resources">You'll Love ...</a></h2>
+<span><a href="/resources/new-primary-topic-resources/under-the-sea-1" title="* Under the Sea">* Under the Sea</a></span>
+<span><a href="/resources/new-primary-topic-resources/seaside-topic-resources" title="* The Seaside">* The Seaside</a></span>
+<span><a href="/resources/new-primary-topic-resources/minibeast-resources" title="* Minibeasts">* Minibeasts</a></span>
+<span><a href="/resources/new-primary-topic-resources/story-book-teaching-resources" title="* Story Books">* Story Books</a></span>
+<span><a href="/resources/new-primary-topic-resources/avatar-creator" title="^ Avatar Creator ^">^ Avatar Creator ^</a></span>
+</section><section id="menu_holder_1" class="menuHolder"><h2 class="normal"><a href="/resources/literacy">Literacy</a></h2>
+<span><a href="/resources/literacy/display-letters-and-words" title="Display Letters and Words">Display Letters an...</a></span>
 <span><a href="/resources/literacy/spelling" title="Spelling">Spelling</a></span>
 <span><a href="/resources/literacy/reading" title="Reading">Reading</a></span>
-<span><a href="/resources/literacy/writing-and-grammar" title="Writing">Writing</a></span>
 <span><a href="/resources/literacy/grammar" title="Grammar">Grammar</a></span>
-<span><a href="/resources/literacy/letters-and-sounds" title="DfES Letters and Sounds">DfES Letters and Sounds</a></span>
+<span><a href="/resources/literacy/letters-and-sounds" title="DfES Letters and Sounds">DfES Letters and S...</a></span>
 <span><a href="/resources/literacy/alphabet" title="Alphabet">Alphabet</a></span>
 <span><a href="/resources/literacy/words-and-vocab" title="Words and Vocab">Words and Vocab</a></span>
-<span><a href="/resources/literacy/writing-and-letter-formation" title="Writing and Letter Formation">Writing and Letter Forma...</a></span>
 <span><a href="/resources/literacy/playdough-mats-literacy" title="Playdough Mats">Playdough Mats</a></span>
-<span><a href="/resources/literacy/display-lettering" title="Display Lettering">Display Lettering</a></span>
-<span><a href="/resources/literacy/stories-story" title="Stories">Stories</a></span>
-<span><a href="/resources/literacy/literacy-certificates-rewards" title="Literacy Certificates &amp; Awards">Literacy Certificates &amp;...</a></span>
-<h2 class="normal"><a href="/resources/numeracy-maths">Numeracy / Maths</a></h2>
+<span><a href="/resources/literacy/story-resources" title="Story Resources">Story Resources</a></span>
+<span><a href="/resources/literacy/literacy-certificates-and-awards" title="Literacy Certificates &amp; Awards">Literacy Certifica...</a></span>
+<span><a href="/resources/literacy/writing-and-grammar" title="Writing">Writing</a></span>
+</section><section id="menu_holder_2" class="menuHolder"><h2 class="normal"><a href="/resources/numeracy-maths">Numeracy / Maths</a></h2>
 <span><a href="/resources/numeracy-maths/maths-vocab-cards" title="Vocab Cards">Vocab Cards</a></span>
+</section></div>
+<div class="menu_col" id="menu_col_2"><section id="menu_holder_2" class="menuHolder">
 <span><a href="/resources/numeracy-maths/general-numeracy" title="General Numeracy">General Numeracy</a></span>
 <span><a href="/resources/numeracy-maths/data-analysis" title="Data Analysis">Data Analysis</a></span>
-<span><a href="/resources/numeracy-maths/numbers-number-system" title="Numbers &amp; Number System">Numbers &amp; Number System</a></span>
+<span><a href="/resources/numeracy-maths/numbers-number-system" title="Numbers &amp; Number System">Numbers &amp; Number S...</a></span>
 <span><a href="/resources/numeracy-maths/counting" title="Counting">Counting</a></span>
-</div>
-<div class="menu_col" id="menu_col_2">
-<span><a href="/resources/numeracy-maths/calculating" title="Calculating / Calculations">Calculating / Calculatio...</a></span>
-<span><a href="/resources/numeracy-maths/shape-spaces-and-measures" title="Shape, Spaces and Measures">Shape, Spaces and Measur...</a></span>
+<span><a href="/resources/numeracy-maths/calculating" title="Calculating / Calculations">Calculating / Calc...</a></span>
+<span><a href="/resources/numeracy-maths/shape-spaces-and-measures" title="Shape, Spaces and Measures">Shape, Spaces and...</a></span>
 <span><a href="/resources/numeracy-maths/money-coins" title="Money &amp; Coins">Money &amp; Coins</a></span>
 <span><a href="/resources/numeracy-maths/number-formation" title="Number Formation">Number Formation</a></span>
 <span><a href="/resources/numeracy-maths/playdough-mats-numeracy" title="Playdough Mats">Playdough Mats</a></span>
 <span><a href="/resources/numeracy-maths/fractions" title="Fractions">Fractions</a></span>
-<h2 class="normal"><a href="/resources/class-management">Class Management</a></h2>
-<span><a href="/resources/class-management/back-to-school" title="Back to School">Back to School</a></span>
-<span><a href="/resources/class-management/assessment-targets" title="Assessment &amp; Targets">Assessment &amp; Targets</a></span>
-<span><a href="/resources/class-management/certificates-and-awards" title="Certificates and Awards">Certificates and Awards</a></span>
-<span><a href="/resources/class-management/sen-and-pshe" title="Additional Needs (SEN) and PSHE">Additional Needs (SEN) a...</a></span>
-<span><a href="/resources/class-management/daily-routine" title="Daily Routine">Daily Routine</a></span>
-<span><a href="/resources/class-management/rules-and-behaviour" title="Rules and Behaviour">Rules and Behaviour</a></span>
+</section><section id="menu_holder_5" class="menuHolder"><h2 class="normal"><a href="/resources/class-management">Class Management</a></h2>
+<span><a href="/resources/class-management/rules-and-behaviour" title="Rules and Behaviour">Rules and Behaviou...</a></span>
+<span><a href="/resources/class-management/certificates-and-awards" title="Certificates and Awards">Certificates and A...</a></span>
+<span><a href="/resources/class-management/assessment-targets" title="Assessment &amp; Targets">Assessment &amp; Targe...</a></span>
 <span><a href="/resources/class-management/calendars" title="Calendars">Calendars</a></span>
-<span><a href="/resources/class-management/wet-play-activities" title="Wet Play Activities">Wet Play Activities</a></span>
-<h2 class="normal"><a href="/resources/topics">Topics</a></h2>
+<span><a href="/resources/class-management/daily-routine" title="Daily Routine">Daily Routine</a></span>
+<span><a href="/resources/class-management/back-to-school" title="Back to School">Back to School</a></span>
+<span><a href="/resources/class-management/sen-and-pshe" title="SEN (Additional Needs)">SEN (Additional Ne...</a></span>
+</section><section id="menu_holder_3" class="menuHolder"><h2 class="normal"><a href="/resources/topics">Topics</a></h2>
+<span><a href="/resources/topics/powerpoint-presentations" title="Powerpoints">Powerpoints</a></span>
+</section></div>
+<div class="menu_col" id="menu_col_3"><section id="menu_holder_3" class="menuHolder">
+<span><a href="/resources/topics/pshe" title="PSHE">PSHE</a></span>
+<span><a href="/resources/topics/ourselves-all-about-me" title="Ourselves - All About Me">Ourselves - All Ab...</a></span>
 <span><a href="/resources/topics/places" title="Places">Places</a></span>
-<span><a href="/resources/topics/ourselves-all-about-me" title="Ourselves - All About Me">Ourselves - All About Me</a></span>
 <span><a href="/resources/topics/geography" title="Geography">Geography</a></span>
 <span><a href="/resources/topics/music" title="Music">Music</a></span>
-</div>
-<div class="menu_col" id="menu_col_3">
-<span><a href="/resources/topics/science-investigation" title="Science &amp; Investigation">Science &amp; Investigation</a></span>
+<span><a href="/resources/topics/science-investigation" title="Science &amp; Investigation">Science &amp; Investig...</a></span>
 <span><a href="/resources/topics/everyday-life" title="Everyday Life">Everyday Life</a></span>
 <span><a href="/resources/topics/playdough-mats-topic" title="Playdough Mats">Playdough Mats</a></span>
-<span><a href="/resources/topics/ks2-ict-area" title="ICT">ICT</a></span>
+<span><a href="/resources/topics/ict" title="ICT">ICT</a></span>
 <span><a href="/resources/topics/role-play" title="Role Play">Role Play</a></span>
-<span><a href="/resources/topics/ks2-sen-and-pshe" title="PSHE">PSHE</a></span>
-<span><a href="/resources/topics/festivals-and-cultural-celebrations" title="Festivals &amp; Cultural Celebrations">Festivals &amp; Cultural Cel...</a></span>
+<span><a href="/resources/topics/festivals-and-cultural-celebrations" title="Festivals &amp; Cultural Celebrations">Festivals &amp; Cultur...</a></span>
+<span><a href="/resources/topics/pirates" title="Pirates">Pirates</a></span>
 <span><a href="/resources/topics/religion" title="Religion">Religion</a></span>
 <span><a href="/resources/topics/languages" title="Languages">Languages</a></span>
-<span><a href="/resources/topics/weather-and-seasons" title="Weather and Seasons">Weather and Seasons</a></span>
+<span><a href="/resources/topics/weather-and-seasons" title="Weather and Seasons">Weather and Season...</a></span>
 <span><a href="/resources/topics/history" title="History">History</a></span>
 <span><a href="/resources/topics/art-and-design" title="Art">Art</a></span>
-<span><a href="/resources/topics/design-and-technology" title="Design &amp; Technology">Design &amp; Technology</a></span>
+<span><a href="/resources/topics/design-and-technology" title="Design &amp; Technology">Design &amp; Technolog...</a></span>
 <span><a href="/resources/topics/fantasy" title="Fantasy">Fantasy</a></span>
 <span><a href="/resources/topics/sports" title="Sports &amp; PE">Sports &amp; PE</a></span>
-<h2 class="normal"><a href="/resources/display-classroom-signs-and-labels">Classroom Signs and Labels</a></h2>
-<span><a href="/resources/display-classroom-signs-and-labels/classroom-signs" title="Classroom Signs">Classroom Signs</a></span>
-<span><a href="/resources/display-classroom-signs-and-labels/themed-classroom-signs" title="Themed Classroom Signs">Themed Classroom Signs</a></span>
-<span><a href="/resources/display-classroom-signs-and-labels/classroom-labels" title="Classroom Labels">Classroom Labels</a></span>
-<span><a href="/resources/display-classroom-signs-and-labels/other-signs-and-labels" title="Other Signs and Labels">Other Signs and Labels</a></span>
-</div>
-<div class="menu_col" id="menu_col_4">
-<span><a href="/resources/display-classroom-signs-and-labels/editable-signs-and-labels" title="Editable Signs and Labels">Editable Signs and Label...</a></span>
-<span><a href="/resources/display-classroom-signs-and-labels/display-borders" title="Display Borders">Display Borders</a></span>
-<span><a href="/resources/display-classroom-signs-and-labels/display-lettering" title="Display Lettering">Display Lettering</a></span>
-<span><a href="/resources/display-classroom-signs-and-labels/display-numbers" title="Display Numbers">Display Numbers</a></span>
-<span><a href="/resources/display-classroom-signs-and-labels/birthday" title="Birthday Displays">Birthday Displays</a></span>
-<h2 class="normal"><a href="/resources/parents">Parents</a></h2>
-<span><a href="/resources/parents/parents-educational-teaching-guides" title="Parents' Educational Guides">Parents' Educational Gui...</a></span>
-<span><a href="/resources/parents/parents-behaviour-management" title="Behaviour Management">Behaviour Management</a></span>
-<span><a href="/resources/parents/parents-home-routine-and-timetable" title="Home Routine and Timetable">Home Routine and Timetab...</a></span>
-<span><a href="/resources/parents/parents-reading-and-writing" title="Reading and Writing">Reading and Writing</a></span>
+</section></div>
+<div class="menu_col" id="menu_col_4"><section id="menu_holder_3" class="menuHolder">
+</section><section id="menu_holder_4" class="menuHolder"><h2 class="normal"><a href="/resources/classroom-signs-and-labels">Classroom Signs and Labels</a></h2>
+<span><a href="/resources/classroom-signs-and-labels/classroom-signs" title="Classroom Signs">Classroom Signs</a></span>
+<span><a href="/resources/classroom-signs-and-labels/classroom-labels" title="Classroom Labels">Classroom Labels</a></span>
+<span><a href="/resources/classroom-signs-and-labels/classroom-areas" title="Classroom Areas">Classroom Areas</a></span>
+<span><a href="/resources/classroom-signs-and-labels/themed-signs-and-labels" title="Themed Signs and Labels">Themed Signs and L...</a></span>
+<span><a href="/resources/classroom-signs-and-labels/general-display-resources" title="General Display Resources">General Display Re...</a></span>
+</section><section id="menu_holder_1470" class="menuHolder"><h2 class="normal"><a href="/resources/parents">Parents</a></h2>
+<span><a href="/resources/parents/parents-educational-teaching-guides" title="Parents' Educational Guides">Parents' Education...</a></span>
+<span><a href="/resources/parents/parents-behaviour-management" title="Behaviour Management">Behaviour Manageme...</a></span>
+<span><a href="/resources/parents/parents-home-routine-and-timetable" title="Home Routine and Timetable">Home Routine and T...</a></span>
+<span><a href="/resources/parents/parents-reading-and-writing" title="Reading and Writing">Reading and Writin...</a></span>
 <span><a href="/resources/parents/parents-number-work" title="Number">Number</a></span>
 <span><a href="/resources/parents/parents-motor-skills" title="Fine Motor Skills">Fine Motor Skills</a></span>
 <span><a href="/resources/parents/parents- home-activities" title="Activities">Activities</a></span>
 <span><a href="/resources/parents/parents-around-the-home" title="Around the Home">Around the Home</a></span>
-<span><a href="/resources/parents/parents-additional-needs" title="Additional Needs">Additional Needs</a></span>
+<span><a href="/resources/parents/parents-additional-needs" title="SEN and PSHE (Additional Needs)">SEN and PSHE (Addi...</a></span>
 <span><a href="/resources/parents/parents-school-preparation" title="School Preparation">School Preparation</a></span>
-<h2 class="special first"><a href="/resource-packs">Resource Packs</a></h2>
+</section><h2 class="special first"><a href="/resource-packs">Resource Packs</a></h2>
 <h2 class="special"><a href="/resources/newest">Newest Resources</a></h2>
 <h2 class="special"><a href="/share-a-resource">Share a Resource</a></h2>
 <h2 class="special last"><a href="/suggest-a-resource">Suggest a Resource</a></h2>
@@ -212,127 +236,39 @@ Check Out
 </li>
 </ul>
 </li>
+<li class="nav_tools">
+<a href="#">Handy Tools</a>
+<ul class="tools_menu" style="padding-top:10px">
+<li><a href="/page/welcome-to-twinkl">Getting Started!</a></li>
+<li><a href="/jobs">Twinkl Jobs</a></li>
+<li><a href="/">My Twinkl</a></li>
+<li><a href="/calendar">Calendar</a></li>
+<li><a href="/news">Primary News</a></li>
+<li><a href="/classroom-display-photos">Classroom Displays</a></li>
+<li><a href="/book-list">Book List</a></li>
+<li><a href="/my-bookmarks">My Bookmarks</a></li>
+<li><a href="/avatar">Avatar Creator</a></li>
+<li><a href="/resource-packs">Resource Packs</a></li>
+<li><a href="/help">FAQ and Help</a></li>
+<li><a href="/help/help-videos">Help Videos</a></li>
+<li><a href="/page/twinkl-apps">Apps</a></li>
+<li><a href="/rewards">Rewards</a></li>
+<li><a href="/page/twinklbar">Twinklbar</a></li>
+<li><a rel="nofollow" href="http://www.facebook.com/twinklteachingresources?fref=ts">Stay Updated</a></li>
+</ul>
+</li>
+<li class="nav_forum">
+<a href="/forum">Forum</a>
+</li>
+<li class="nav_blog">
+<a href="/blog">Blog</a>
+</li>
 <li class="nav_store">
 <a href="/store">Store</a>
-<ul class="store_menu">
-<li>
-<a href="/store/twinkl-reward-stickers">Twinkl Stickers</a>
-<ul>
-<li>
-<a href="/store/twinkl-reward-stickers-30mm">Twinkl Reward Sticker Pads (30mm)</a>
 </li>
-<li>
-<a href="/store/twinkl-reward-stickers-15mm">Twinkl Reward Sticker Pads (15mm)</a>
+<li class="nav_premium">
+<a href="/premium"><img src="/images/premium-star.png" alt="">&nbsp;Premium</a>
 </li>
-<li>
-<a href="/store/twinkl-reward-sticker-sheets-15mm">Twinkl Reward Sticker Sheets (15mm)</a>
-</li>
-<li>
-<a href="/store/twinkl-reward-sticker-sheets-30mm">Twinkl Reward Sticker Sheets (30mm)</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/store/avery-sticky-stuff-for-schools">Avery Sticky Stuff for Schools</a>
-<ul>
-<li>
-<a href="/store/write-and-wipe-boards-avery-sticky-stuff-for-schools">Write and Wipe Sheets</a>
-</li>
-<li>
-<a href="/store/prelaminated-sheets-avery-sticky-stuff-for-schools">Prelaminated Sheets</a>
-</li>
-<li>
-<a href="/store/stickers-avery-sticky-stuff-for-schools">Stickers</a>
-</li>
-<li>
-<a href="/store/removable-labels-avery-sticky-stuff-for-schools">Removable Labels</a>
-</li>
-<li>
-<a href="/store/durable-labels-avery-sticky-stuff-for-schools">Durable Labels</a>
-</li>
-<li>
-<a href="/store/changeable-sign-slots-avery-sticky-stuff-for-schools">Changeable Sign Slots</a>
-</li>
-<li>
-<a href="/store/self-cling-sheets-avery-sticky-stuff-for-schools">Self Cling Sheets</a>
-</li>
-<li>
-<a href="/store/t-shirt-transfers-avery-sticky-stuff-for-schools">T-shirt Transfers</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="nav_book">
-<a href="/book-list">Book List</a>
-<ul class="book_menu">
-<li><a href="/book-list/fantasy-books">Fantasy</a></li>
-<li><a href="/book-list/animals">Animals</a></li>
-<li><a href="/book-list/back-to-school">Back to School</a></li>
-<li><a href="/book-list/bears">Bears</a></li>
-<li><a href="/book-list/christmas">Christmas</a></li>
-<li><a href="/book-list/colour-books">Colour</a></li>
-<li><a href="/book-list/different-culture-books">Different Cultures</a></li>
-<li><a href="/book-list/festivals-and-cultural-celebrations">Festivals &amp; Cultural Celebrations</a></li>
-<li><a href="/book-list/food">Food</a></li>
-<li><a href="/book-list/houses-and-homes">Houses &amp; Homes</a></li>
-<li><a href="/book-list/jungle">Jungle</a></li>
-<li><a href="/book-list/letters-and-sounds">Letters &amp; Sounds</a></li>
-<li><a href="/book-list/minibeasts">Minibeasts</a></li>
-<li><a href="/book-list/numbers-and-counting">Numbers, Counting &amp; Sequencing</a></li>
-<li><a href="/book-list/ourselves-all-about-me">Ourselves</a></li>
-<li><a href="/book-list/people-who-help-us-books">People Who Help Us</a></li>
-<li><a href="/book-list/pirates">Pirates</a></li>
-<li><a href="/book-list/plants-and-growth">Plants &amp; Growth</a></li>
-<li><a href="/book-list/popular-stories-poetry-and-rhyme">Popular Stories (Poetry &amp; Rhyme)</a></li>
-<li><a href="/book-list/personal-social-health-economic-PSHE">SEN &amp; PSHE</a></li>
-<li><a href="/book-list/space-books">Space</a></li>
-<li><a href="/book-list/seaside-under-the-sea">Seaside / Under the Sea</a></li>
-<li><a href="/book-list/seasons">Seasons</a></li>
-<li><a href="/book-list/traditional-tales">Traditional Tales</a></li>
-<li><a href="/book-list/travel-and-transport">Travel &amp; Transport</a></li>
-<li><h2 class="special"><a href="suggest-a-book">Suggest a Book</a></h2></li>
-</ul>
-</li>
-<li class="nav_display">
-<a href="/classroom-display-photos">Gallery</a>
-<ul class="display_menu">
-<li><a href="/classroom-display-photos/animals">Animals</a></li>
-<li><a href="/classroom-display-photos/art-colour">Art &amp; Colour</a></li>
-<li><a href="/classroom-display-photos/christmas">Christmas</a></li>
-<li><a href="/classroom-display-photos/design-and-technology">Design and Technology</a></li>
-<li><a href="/classroom-display-photos/festivals-cultural-celebrations">Festivals and Cultural Celebrations</a></li>
-<li><a href="/classroom-display-photos/geography">Geography</a></li>
-<li><a href="/classroom-display-photos/history">History</a></li>
-<li><a href="/classroom-display-photos/ict-computer">ICT</a></li>
-<li><a href="/classroom-display-photos/literacy">Literacy</a></li>
-<li><a href="/classroom-display-photos/minibeasts">Minibeasts</a></li>
-<li><a href="/classroom-display-photos/modern-foreign-languages">Modern Foreign Languages</a></li>
-<li><a href="/classroom-display-photos/music">Music</a></li>
-<li><a href="/classroom-display-photos/numeracy">Numeracy</a></li>
-<li><a href="/classroom-display-photos/nursery-rhymes">Nursery Rhymes</a></li>
-<li><a href="/classroom-display-photos/ourselves">Ourselves</a></li>
-<li><a href="/classroom-display-photos/outdoor-area">Outdoor Area</a></li>
-<li><a href="/classroom-display-photos/people-who-help-us">People Who Help Us</a></li>
-<li><a href="/classroom-display-photos/pirates">Pirates</a></li>
-<li><a href="/classroom-display-photos/places">Places</a></li>
-<li><a href="/classroom-display-photos/plants">Plants</a></li>
-<li><a href="/classroom-display-photos/pshe-rules">PSHE &amp; Rules</a></li>
-<li><a href="/classroom-display-photos/religion">Religion</a></li>
-<li><a href="/classroom-display-photos/roleplay">Role Play</a></li>
-<li><a href="/classroom-display-photos/science-investigation">Science and Investigation</a></li>
-<li><a href="/classroom-display-photos/sen">SEN</a></li>
-<li><a href="/classroom-display-photos/space">Space</a></li>
-<li><a href="/classroom-display-photos/stories-tales">Stories &amp; Tales</a></li>
-<li><a href="/classroom-display-photos/weather-seasons">Weather and the Seasons</a></li>
-<li><a href="/classroom-display-photos/international-primary-curriculum-IPC">International Primary Curriculum (IPC)</a></li>
-<li><a href="/classroom-display-photos/role-play-corner">Role Play Corner</a></li>
-<li><h2 class="special"><a href="submit-a-display">Submit a Display</a></h2></li>
-</ul>
-</li>
-<li class="nav_calendar"><a href="/calendar">Calendar</a></li>
-<li class="nav_blog"><a href="/blog">Blog</a></li>
-<li class="nav_premium"><a href="/premium">Premium</a></li>
 </ul>
 </div>
 <div class="spacer"></div>
@@ -399,29 +335,34 @@ Check Out
 </div>
 </div>
 <div id="footer">
-<div id="footer_inner">
+<a href="/help" id="help_bird" target="blank"><img src="/images/help-bird-small.png" alt="Let Birdy Help!" title="Let Birdy Help!"></a><div id="footer_inner">
+<div id="trees_left"></div>
+<div id="trees_right"></div>
 <div id="footer_col_new_1">
-<h2 id="footer_whatistwinkl"><a href="/page/what-is-twinkl"><span>What is twinkl?</span></a></h2>
+<h2 id="footer_whatistwinkl"><a href="/page/what-is-twinkl"><span>What is Twinkl?</span></a></h2>
 <ul>
-<li><a href="premium">twinkl Premium</a></li>
+<li><a href="what-we-believe">What we Believe</a></li>
+<li><a href="premium">Twinkl Premium</a></li>
+<li><a href="love-twinkl">Love Twinkl</a></li>
+<li><a href="motivation">Why we Love You</a></li>
 <li><a href="page/meet-the-team">Meet the Team</a></li>
-<li><a href="page/twinklbar">Introducing the twinklbar</a></li>
-<li><a href="page/welcome-to-twinkl">Welcome to twinkl</a></li>
-<li><a href="page/changes-at-twinkl">Exciting New Features</a></li>
+<li><a href="page/twinklbar">Introducing the Twinklbar</a></li>
+<li><a href="page/welcome-to-twinkl">Welcome to Twinkl</a></li>
 <li><a href="page/twinkl-apps">Twinkl Teaching Apps</a></li>
 <li><a href="page/share-twinkl">Share Twinkl</a></li>
-<li><a href="page/printing-service">Printing Service</a></li>
+<li><a href="page/advertise-with-twinkl">Advertise with twinkl</a></li>
 <li><a href="/help">FAQ &amp; Technical Help</a></li>
 </ul>
 </div>
 <div id="footer_col_new_2">
-<h2 id="footer_resources"><a href="/resources"><span>Resources</span></a></h2>
+<h2 id="footer_resources"><a href="/resources"><span>Lovely Resources</span></a></h2>
 <ul>
+<li><a href="resources/new-primary-topic-resources">You'll Love ...</a></li>
 <li><a href="resources/literacy">Literacy</a></li>
 <li><a href="resources/numeracy-maths">Numeracy / Maths</a></li>
 <li><a href="resources/class-management">Class Management</a></li>
 <li><a href="resources/topics">Topics</a></li>
-<li><a href="resources/display-classroom-signs-and-labels">Classroom Signs and Labels</a></li>
+<li><a href="resources/classroom-signs-and-labels">Classroom Signs and Labels</a></li>
 <li><a href="resources/parents">Parents</a></li>
 <li><a href="resource-packs">Resource Packs</a></li>
 <li><a href="resources/newest">Newest Resources</a></li>
@@ -429,16 +370,15 @@ Check Out
 </ul>
 </div>
 <div id="footer_col_new_3">
-<h2 id="footer_getintouch"><a href="page/contact-us"><span>Get in touch</span></a></h2>
+<h2 id="footer_getintouch"><a href="page/contact-us"><span>Say Hello</span></a></h2>
 <ul>
 <li><a href="/page/contact-us">Contact Us</a></li>
 <li><a href="/page/press-and-media">Press / Media</a></li>
-<li><a href="/page/advertise-with-twinkl">Looking to advertise?</a></li>
-<li>Skype <strong>twinkl_resources</strong></li>
+<li><a href="/page/advertise-with-twinkl">Looking to Advertise?</a></li>
 </ul>
 </div>
 <div id="footer_col_new_4">
-<h2 id="footer_generalinfo"><span>General Info</span></h2>
+<h2 id="footer_generalinfo"><span>More Info</span></h2>
 <ul>
 <li><a href="privacy-policy">Privacy Policy</a></li>
 <li><a href="copyright">Copyright</a></li>
@@ -447,15 +387,16 @@ Check Out
 </ul>
 </div>
 <div id="footer_credits">
-<span>© 2012 twinkl Ltd</span> <span>Registered in England #07201458</span> <br>
+<span>© 2013 twinkl Ltd</span> <span>Registered in England #07201458. VAT No: 124 0979 18</span> <br>
 <span>Website by <a href="http://www.resounddesign.co.uk/" target="new" title="Web Design Sheffield" rel="nofollow">Web Design Sheffield</a> IT from <a href="http://www.resolvesolutions.co.uk/" target="new" rel="nofollow">IT Support Sheffield</a></span>
 </div>
 <div id="footer_box_logos">
+<img src="/images/bettawards.png" alt="bett awards 2013 finalist" style="width:110px;margin-left:-90px;">
 <img src="/images/homeschool_2012_top100.gif" alt="Homeschool.com 2012 Top 100">
 <div id="footer_security">
 <span id="ss_img_wrapper_115-55_image_en"><a href="http://www.alphassl.com/ssl-certificates/wildcard-ssl.html" target="_blank" title="SSL Certificates"><img alt="Wildcard SSL Certificates" id="ss_img" src="//seal.alphassl.com/SiteSeal/images/alpha_noscript_115-55_en.gif" title="SSL Certificate"></a></span><script type="text/javascript" src="//seal.alphassl.com/SiteSeal/alpha_image_115-55_en.js"></script>
 <span></span>
-<p><a href="security">More about your security</a></p>
+<p><a href="security">More About Your Security</a></p>
 </div>
 </div>
 </div>
@@ -470,6 +411,14 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
+<script type="text/javascript">
+var sc_project=8378951;
+var sc_invisible=1;
+var sc_security="d7aba968";
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="web analytics" href="http://statcounter.com/" target="_blank">
+<img class="statcounter" src="http://c.statcounter.com/8378951/0/d7aba968/1/" alt="web analytics"></a></div></noscript>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.lijit.com/blog_wijits?json=0&amp;id=recentviewswijit&amp;uri=http%3A%2F%2Fwww.lijit.com%2Fusers%2Fbenjwalker&amp;js=1"></script>
 <script type="text/javascript">
@@ -540,6 +489,11 @@ document.body.appendChild(element);
 
 
 var element = document.createElement("script");
+element.src = "/js/jquery.placeholder.min.js";
+document.body.appendChild(element);
+
+
+var element = document.createElement("script");
 element.src = "/js/jquery-ui-1.8.18.custom.min.js";
 document.body.appendChild(element);
 
@@ -550,7 +504,17 @@ document.body.appendChild(element);
 
 
 var element = document.createElement("script");
+element.src = "/js/jscript.new.js?version=1.50";
+document.body.appendChild(element);
+
+
+var element = document.createElement("script");
 element.src = "/js/jquery.smoothDivScroll-1.2.js";
+document.body.appendChild(element);
+
+
+var element = document.createElement("script");
+element.src = "/forum_folder/js/script.min.js?version=1.50";
 document.body.appendChild(element);
 
 
@@ -565,7 +529,7 @@ document.body.appendChild(element);
 
 
 var element = document.createElement("script");
-element.src = "/js/jscript.min.js";
+element.src = "/js/jscript.min.js?version=1.50";
 document.body.appendChild(element);
 
 
@@ -576,6 +540,24 @@ else if (window.attachEvent)
 window.attachEvent("onload", downloadJSAtOnload);
 else window.onload = downloadJSAtOnload;
 </script>
+<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  window.webengageWidgetInit = window.webengageWidgetInit || function(){
+    webengage.init({
+      licenseCode:"~71680c2b"
+    }).onReady(function(){
+      webengage.render();
+    });
+  };
 
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +
+              "/js/widget/webengage-min-v-3.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>		
 
-<script src="/js/translate.js"></script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><script src="/js/hoverIntent.js"></script><script src="/js/superfish.js"></script><script src="/js/apprise-1.5.min.js"></script><script src="/js/autoresize.jquery.min.js"></script><script src="/js/jquery.easing-1.3.min.js"></script><script src="/uploadify/swfobject.js"></script><script src="/uploadify/jquery.uploadify.v2.1.4.min.js"></script><script src="/js/jquery.zclip.min.js"></script><script src="/js/jquery.scrollTo-1.4.2-min.js"></script><script src="/js/jquery.li-scroller.1.0.js"></script><script src="/js/modernizr.js"></script><script src="/js/jquery-ui-1.8.18.custom.min.js"></script><script src="/js/jquery.mousewheel.min.js"></script><script src="/js/jquery.smoothDivScroll-1.2.js"></script><script src="/js/jquery-ui-autocomplete.js"></script><script src="/js/jquery.select-to-autocomplete.js"></script><script src="/js/jscript.min.js"></script></body></html>
+<script src="/js/translate.js"></script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><script src="/js/hoverIntent.js"></script><script src="/js/superfish.js"></script><script src="/js/apprise-1.5.min.js"></script><script src="/js/autoresize.jquery.min.js"></script><script src="/js/jquery.easing-1.3.min.js"></script><script src="/uploadify/swfobject.js"></script><script src="/uploadify/jquery.uploadify.v2.1.4.min.js"></script><script src="/js/jquery.zclip.min.js"></script><script src="/js/jquery.scrollTo-1.4.2-min.js"></script><script src="/js/jquery.li-scroller.1.0.js"></script><script src="/js/modernizr.js"></script><script src="/js/jquery.placeholder.min.js"></script><script src="/js/jquery-ui-1.8.18.custom.min.js"></script><script src="/js/jquery.mousewheel.min.js"></script><script src="/js/jscript.new.js?version=1.50"></script><script src="/js/jquery.smoothDivScroll-1.2.js"></script><script src="/forum_folder/js/script.min.js?version=1.50"></script><script src="/js/jquery-ui-autocomplete.js"></script><script src="/js/jquery.select-to-autocomplete.js"></script><script src="/js/jscript.min.js?version=1.50"></script></body></html>
