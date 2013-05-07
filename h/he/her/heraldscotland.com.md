@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the heraldscotland.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009200447id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldscotland.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507075749id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
 
-# Herald Scotland | Misc | Privacy Policy
+# Privacy Policy | Herald Scotland
 
-**Privacy Policy**
+This site is owned and operated by the Herald & Times Group. We are committed to protecting your right to personal privacy. That is why we have drafted this notice to explain the type of information we collect on this web site (the "Site") and how we use this information. In this Privacy Policy, when we say "Site" we mean the digital information network regardless of how you access it, including but not limited to the World Wide Web, mobile phone, mobile apps, email alerts and RSS feeds. This Policy also explains the choices that you can make about the way your information is collected and used.
 
-This site is owned and operated by the Herald & Times Group. We are committed to protecting your right to personal privacy. That is why we have drafted this notice to explain the type of information we collect on this web site (the "Site") and how we use this information. This Policy also explains the choices that you can make about the way your information is collected and used.
+By using this web site you are deemed as agreeing to use of these details as described in this Policy. We appreciate that this Policy may seem long, however, we have created a thorough privacy statement to fully explain our information handling practices. Should you have any questions however, please feel free to direct these to [support@heraldandtimes.co.uk](mailto:support@heraldandtimes.co.uk)
 
-By using this web site you are deemed as agreeing to use of these details as described in this Policy. We appreciate that this Policy may seem long, however, we have created a thorough privacy statement to fully explain our information handling practices. Should you have any questions however, please feel free to direct these to support@heraldandtimes.co.uk  
-**  
-Information we collect – personally identifiable information**
+###  Information we collect – personally identifiable information
 
 We request identifying information from you for specific purposes. Typically, identifying information is collected:
 
@@ -20,13 +18,13 @@ We request identifying information from you for specific purposes. Typically, id
 
 
 
-**Information we collect – non-personally identifiable information**
+###  Information we collect – non-personally identifiable information
 
 We collect non-personally identifiable data, known as ‘click-stream data’, across the portfolio of web sites owned by the Herald and Times Group. This click stream data is anonymous, and includes information such as IP address, which pages have been visited and what actions have been taken.
 
-We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence.
+We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence. [Find out more about how we use cookies](https://web.archive.org/about-cookies).
 
-**The way we use information**
+###  The way we use information
 
 We may occasionally request your postcode details in order to ensure that we only deliver information relevant to you and only where we have obtained your prior express permission to do so. We will NOT use your postcode information to generate a full postal address (where completion of full address fields are not requested), nor will we mail out literature related to our websites unless you specifically request us to do so.
 
@@ -40,15 +38,17 @@ You will have the opportunity to forward pages or information on the Site to fri
 
 We make every practical effort to avoid excessive or irrelevant collection of data. If you believe the Site has collected excessive information, we encourage you to contact us at support@heraldandtimes.co.uk
 
-**Unsubscribe / Delete**
+###  Unsubscribe / Delete
 
 You have the right to access personal data which you have submitted through the Site. We give you the following options for managing or removing your information from our database:
 
-Manage Your Profile: Within the "my account" section you have the option to manage your personal profile. The management system allows you to update your information on our database. We also allow you to subscribe or unsubscribe to any of the email updates you've requested from the site.   
-Send us mail:  Herald & Times Group, 200 Renfield Street, Glasgow, G2 3QB, Scotland. Be sure to include your name and clear instructions on what you would like us to do.   
+Manage Your Profile: Within the "my account" section you have the option to manage your personal profile. The management system allows you to update your information on our database. We also allow you to subscribe or unsubscribe to any of the email updates you've requested from the site.
+
+Send us mail:  Herald & Times Group, 200 Renfield Street, Glasgow, G2 3QB, Scotland. Be sure to include your name and clear instructions on what you would like us to do.
+
 Send us an email: at support@heraldandtimes.co.uk. Be sure to include your name and clear instructions on what you would like us to do.
 
-**Our Privacy Practices with Third Parties**
+###  Our Privacy Practices with Third Parties
 
 It is our policy to only disclose information to third parties under the following circumstances:
 
@@ -62,22 +62,22 @@ We share aggregate, non-personally identifiable information about our users with
 
 Our intention is never to use or share personally identifiable information provided to us in ways that are different than the ways described above without also providing you with an opportunity to "unsubscribe" or prohibit such unrelated uses.
 
-**Links to Other Sites**
+###  Links to Other Sites
 
 Because we want your experience of the Site to be as informative and useful as possible, we provide a number of links to third party sites. Always be aware of where you end up. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. We assume no responsibility for the information practices of sites that you are able to access through ours, and we encourage you to review each site's privacy policy before disclosing any personally identifiable information.
 
-**Our Commitment to Data Security**
+###  Our Commitment to Data Security
 
 We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk. Note that some parts of our service, such as commenting, requires the storage of some of your information outside the European Union.
 
-**Changes in Our Policy**
+###  **Changes in Our Policy**
 
-We reserve the right to change or remove this Privacy Policy at our discretion. If we decide to change our Privacy Policy we will post those changes here. We encourage you to visit this area frequently so as to stay informed. If there is any material change in the type of personally identifiable information we collect we will obtain your permission before we attempt to collect the additional personal information. We will not make any changes that allow us to give personal information to a third party without obtaining permission from you first.
+**We reserve the right to change or remove this Privacy Policy at our discretion. If we decide to change our Privacy Policy we will post those changes here. We encourage you to visit this area frequently so as to stay informed. If there is any material change in the type of personally identifiable information we collect we will obtain your permission before we attempt to collect the additional personal information. We will not make any changes that allow us to give personal information to a third party without obtaining permission from you first.**
 
-**Your Consent to this Privacy Policy**
+###  **Your Consent to this Privacy Policy**
 
-By using the Site, you signify your agreement to be bound by this Privacy Policy. If you do not agree with any term in this Policy, please do not use the Site or submit any personally identifiable information.  
-**  
-How to Contact Us**
+**By using the Site, you signify your agreement to be bound by this Privacy Policy. If you do not agree with any term in this Policy, please do not use the Site or submit any personally identifiable information.**
 
-Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at support@heraldandtimes.co.uk
+###  **How to Contact Us**
+
+**Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at support@heraldandtimes.co.uk**
