@@ -1,0 +1,505 @@
+<!--The following is the downloaded HTML source of the fmemodules.com privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507125849id_/http%3A//www.fmemodules.com/en/content/3-privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+		<title>Privacy Policy - Prestashop Modules and Addons</title>
+		<meta name="description" content="Our terms and conditions of use">
+		<meta name="keywords" content="conditions, terms, use, sell">
+		<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
+		<meta http-equiv="content-language" content="en-de-fr-nl">
+		<meta name="generator" content="PrestaShop">
+		<meta name="robots" content="index,follow">
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1363234623">
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1363234623">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?y0Zb5xnPNyPYawxZ0kQSte8rRObOUWKz" type="text/javascript"></script><script type="text/javascript">
+			var baseDir = 'http://www.fmemodules.com/';
+			var baseUri = '/';
+			var static_token = '3737a47c2cd20342e211649861d973df';
+			var token = '0cfb5f40678722424ba8af04735d18cb';
+			var priceDisplayPrecision = 0;
+			var priceDisplayMethod = 0;
+			var roundMode = 2;
+		</script>
+		<link href="http://www.fmemodules.com/themes/fme/cache/8d1437c44533637df93e1bb4dc0c1249_all.css" rel="stylesheet" type="text/css" media="all">
+			<script type="text/javascript" src="/js/jquery/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.easing.js"></script>
+		<script type="text/javascript" src="/js/tools.js"></script>
+		<script type="text/javascript" src="/themes/fme/js/cms.js"></script>
+		<script type="text/javascript" src="/modules/blockcart/ajax-cart.js"></script>
+		<script type="text/javascript" src="/themes/fme/js/tools/treeManagement.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+		<script type="text/javascript" src="/modules/favoriteproducts/favoriteproducts.js"></script>
+		<script type="text/javascript" src="/modules/fmebacktotop/js/fmebacktotop.js"></script>
+		<script type="text/javascript" src="/modules/blocktopmenu/js/hoverIntent.js"></script>
+		<script type="text/javascript" src="/modules/blocktopmenu/js/superfish-modified.js"></script>
+	<link href="http://www.fmemodules.com/themes/fme/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.fmemodules.com/themes/fme/css/menu.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript">
+	var favorite_products_url_add = 'http://www.fmemodules.com/en/module/favoriteproducts/actions?process=add';
+	var favorite_products_url_remove = 'http://www.fmemodules.com/en/module/favoriteproducts/actions?process=remove';
+ 
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Privacy Policy - Prestashop Modules and Addons" href="http://www.fmemodules.com/modules/feeder/rss.php?id_category=0&amp;orderby=date_add&amp;orderway=desc"><script type="text/javascript">
+$(document).ready( function() {
+
+	$('#payment_paypal_express_checkout').click(function() {
+		$('#paypal_payment_form').submit();
+		return false;
+	});
+
+	$('#paypal_payment_form').live('submit', function() {
+		var nb = $('#quantity_wanted').val();
+		var id = $('#idCombination').val();
+
+		$('#paypal_payment_form input[name=quantity]').val(nb);
+		$('#paypal_payment_form input[name=id_p_attr]').val(id);
+	});
+
+	function displayExpressCheckoutShortcut() {
+		var id_product = $('input[name="id_product"]').val();
+		var id_product_attribute = $('input[name="id_product_attribute"]').val();
+
+		$.ajax({
+			type: "GET",
+			url: baseDir+'/modules/paypal/express_checkout/ajax.php',
+			data: { get_qty: "1", id_product: id_product, id_product_attribute: id_product_attribute}
+		}).success(function(result) {
+			if (result >= '1')
+				$('#container_express_checkout').slideDown();
+			else
+				$('#container_express_checkout').slideUp();
+			return true;
+		});
+	}
+
+	$('select[name^="group_"]').change(function () {
+		displayExpressCheckoutShortcut();
+	});
+
+	$('.color_pick').click(function () {
+		displayExpressCheckoutShortcut();
+	});
+	
+	
+			
+
+	var hostname = 'http://' + window.location.hostname + '/';
+	var modulePath = 'modules/paypal';
+	var subFolder = '/integral_evolution';
+	var fullPath = hostname + modulePath + subFolder;
+	var confirmTimer = false;
+		
+	if ($('form[target="hss_iframe"]').length == 0) {
+		if ($('select[name^="group_"]').length > 0)
+			displayExpressCheckoutShortcut();
+		return false;
+	} else {
+		checkOrder();
+	}
+
+	function checkOrder() {
+		confirmTimer = setInterval(getOrdersCount, 1000);
+	}
+
+	});
+
+
+</script>
+        <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?y0Zb5xnPNyPYawxZ0kQSte8rRObOUWKz';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+
+function zc_toggle() { $zopim.livechat.window.toggle();};
+$zopim(function() {$zopim.livechat.setOnStatus(change_chat_img);});
+
+function change_chat_img(status) {
+var img = document.getElementById('zopimChatimg');
+if (status=='online')
+img.src = 'http://www.fmemodules.com/themes/fme/img/support_buttonlive.png';
+else if (status=='away')
+img.src = 'http://www.fmemodules.com/themes/fme/img/support_buttonoff.png';
+else if (status=='offline')
+img.src = 'http://www.fmemodules.com/themes/fme/img/support_buttonoff.png';
+};
+
+</script>
+<!--End of Zopim Live Chat Script-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38322048-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</head>
+	
+	<body id="cms" class=" ">
+    <img src="http://www.fmemodules.com/themes/fme/img/support_buttonlive.png" style="position:fixed; left:0; top:28%; z-index:800; cursor:pointer" id="zopimChatimg" alt=" " onclick="zc_toggle()">
+    <a href="http://support.fmemodules.com" target="_blank" title="Submit a ticket" style="position:fixed; left:0; top:48%; z-index:800; cursor:pointer"><img src="http://www.fmemodules.com/themes/fme/img/support_button.png" alt=" "></a>
+<script type="text/javascript">
+
+jQuery(document).ready(function()
+{
+var $top1= jQuery('#navigation_container').offset().top;   
+var $mid1 =  Math.floor(jQuery(window).height() / 2);
+jQuery(window).scroll(function()
+{   
+		if (jQuery(window).scrollTop()>$top1)   
+		{
+		 jQuery('#navigation_container').addClass('floater');
+		 jQuery('#fme_thumb').show();
+		 
+		}
+		else
+		{
+		 jQuery('#navigation_container').removeClass('floater');
+		 jQuery('#fme_thumb').hide();
+		 } 
+});});
+
+</script>
+
+			        
+        <div id="wrapper_header">
+        	<div id="header_logocart">
+            <div class="logo_div"><a href="http://www.fmemodules.com/" title="Prestashop Modules and Addons"><img class="logo" src="/img/logo-1.jpg?1363234623" alt="Prestashop Modules and Addons" width="193" height="90"></a></div>
+                <div class="header_right"> 
+                
+
+
+
+<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var img_dir = 'http://www.fmemodules.com/themes/fme/img/';
+</script>
+<script type="text/javascript">
+var customizationIdMessage = 'Customization #';
+var removingLinkText = 'remove this product from my cart';
+var freeShippingTranslation = 'Free shipping!';
+var freeProductTranslation = 'Free!';
+var delete_txt = 'Delete';
+</script>
+
+
+<!-- MODULE Block cart -->
+<div id="cart_block" class="block exclusive">
+	<h4>
+		<a href="http://www.fmemodules.com/en/quick-order">Cart</a>
+				<span id="block_cart_expand" class="hidden">&nbsp;</span>
+		<span id="block_cart_collapse">&nbsp;</span>
+			</h4>
+	<div class="block_content">
+	<!-- block summary -->
+	<div id="cart_block_summary" class="collapsed">
+		<span class="ajax_cart_quantity" style="display:none;">0</span>
+		<span class="ajax_cart_product_txt_s" style="display:none">products</span>
+		<span class="ajax_cart_product_txt">product</span>
+		<span class="ajax_cart_total" style="display:none">
+					</span>
+		<span class="ajax_cart_no_product">(empty)</span>
+	</div>
+	<!-- block list of products -->
+	<div id="cart_block_list" class="expanded">
+			<p id="cart_block_no_products">No products</p>
+			
+		<p id="cart-prices">
+			<!--<span id="cart_block_shipping_cost" class="price ajax_cart_shipping_cost">€0</span>
+			<span>Shipping</span>-->
+			
+									<span id="cart_block_total" class="price ajax_block_cart_total">€0</span>
+			<span>Total</span>
+		</p>
+				<p id="cart-buttons">
+						<a href="http://www.fmemodules.com/en/quick-order" id="button_order_cart" class="exclusive_large" title="Check out"><span></span>Check out</a>
+		</p>
+	</div>
+	</div>
+</div>
+<!-- /MODULE Block cart -->
+
+<div class="links">
+<ul>
+<li><a href="http://www.fmemodules.com/en/authentication">Log In</a></li>
+ 
+  
+  <li>|</li>
+  <li><a href="http://www.fmemodules.com/en/order">Checkout</a></li>
+  <li>|</li>
+  <li><a href="http://www.fmemodules.com/quick-order" id="cartLink">My Cart</a></li>
+  <li>|</li>
+  <li><a href="http://www.fmemodules.com/en/my-account">My Account</a></li>
+</ul>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery("#cartLink, #cart_block").hover(
+function () {
+jQuery("#cart_block").show();
+});
+jQuery("#cart_block,#cartLink").mouseleave(
+function () {
+jQuery("#cart_block").hide();
+});
+});
+</script>
+</div>
+
+
+<!-- Block languages module -->
+<div id="languages_block_top">
+	<div id="countries">
+	
+			<p class="selected_language">
+			<img src="http://www.fmemodules.com/img/l/1.jpg" alt="en" width="16" height="11">
+		</p>
+						<ul id="first-languages" class="countries_ul">
+					<li class="selected_language">
+								<img src="http://www.fmemodules.com/img/l/1.jpg" alt="en" width="16" height="11">
+						</li>
+					<li>
+																<a href="http://www.fmemodules.com/de/content/3-allgemeine-nutzungsbedingungen" title="Deutsch (German)">
+												<img src="http://www.fmemodules.com/img/l/3.jpg" alt="de" width="16" height="11">
+							</a>
+						</li>
+					<li>
+																<a href="http://www.fmemodules.com/fr/content/3-conditions-generales-de-ventes" title="Français (French)">
+												<img src="http://www.fmemodules.com/img/l/5.jpg" alt="fr" width="16" height="11">
+							</a>
+						</li>
+					<li>
+																<a href="http://www.fmemodules.com/nl/content/3-privacy-policy" title="Dutch">
+												<img src="http://www.fmemodules.com/img/l/7.jpg" alt="nl" width="16" height="11">
+							</a>
+						</li>
+				</ul>
+	</div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+	$("#countries").mouseover(function(){
+		$(this).addClass("countries_hover");
+		$(".countries_ul").addClass("countries_ul_hover");
+	});
+	$("#countries").mouseout(function(){
+		$(this).removeClass("countries_hover");
+		$(".countries_ul").removeClass("countries_ul_hover");
+	});
+
+});
+</script>
+<!-- /Block languages module -->
+<div class="language">
+<ul>
+  <li><a href="javascript:setCurrency(1);" title="Dollar">$</a></li>
+  <li><a href="javascript:setCurrency(2);" title="Euro" class="selected">€</a></li>
+  <li><a href="javascript:setCurrency(3);" title="Pound">£</a></li>
+</ul>
+</div>
+
+<!-- block seach mobile -->
+<div class="search">
+<div class="inner">
+  <form method="get" action="http://www.fmemodules.com/en/search" id="searchbox">
+  			<input type="hidden" name="controller" value="search">
+			<input type="hidden" name="orderby" value="position">
+			<input type="hidden" name="orderway" value="desc">
+  <input class="search_query input ac_input" type="text" id="search_query_top" name="search_query" value="Search entire store .." onfocus="if(this.value == 'Search entire store ..') { this.value = ''; }" autocomplete="off">
+  
+    <input type="submit" class="btn">
+  </form>
+  	<script type="text/javascript">
+	// <![CDATA[
+		$('document').ready( function() {
+			$("#search_query_top")
+				.autocomplete(
+					'http://www.fmemodules.com/en/search', {
+						minChars: 3,
+						max: 10,
+						width: 500,
+						selectFirst: false,
+						scroll: false,
+						dataType: "json",
+						formatItem: function(data, i, max, value, term) {
+							return value;
+						},
+						parse: function(data) {
+							var mytab = new Array();
+							for (var i = 0; i < data.length; i++)
+								mytab[mytab.length] = { data: data[i], value: data[i].cname + ' > ' + data[i].pname };
+							return mytab;
+						},
+						extraParams: {
+							ajaxSearch: 1,
+							id_lang: 1
+						}
+					}
+				)
+				.result(function(event, data, formatted) {
+					$('#search_query_top').val(data.pname);
+					document.location.href = data.product_link;
+				})
+		});
+	// ]]>
+	</script>
+
+  <div class="clear"></div>
+</div>
+</div>
+
+<!-- /Block search module TOP -->
+</div>
+</div>
+<script src="http://www.fmemodules.com/themes/fme/js/menu.js" type="text/javascript"></script>
+<div id="navigation_container"><!--##  NAVIGATION AREA ##-->
+  
+  <div class="navigation">
+    <ul id="topnav">
+      <li id="fme_thumb" style="display:none; margin-right:8px; margin-left:0px"><a href="http://www.fmemodules.com/"><img src="http://www.fmemodules.com/themes/fme/img/fme_thumb.png" alt=" "></a></li>
+      <li class="li_first"><a href="http://www.fmemodules.com/en/3-prestashop-modules" class=""><span class="smenu_left"><span class="smenu_right">Modules</span></span></a><div class="sub"><ul><li class="li_first"><a href="http://www.fmemodules.com/en/6-prestashop-administration-tools" class=""><span class="smenu_left"><span class="smenu_right">Administration Tools</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/7-prestashop-advertising-marketing" class=""><span class="smenu_left"><span class="smenu_right">Advertising &amp; Marketing </span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/13-prestashop-catalog" class=""><span class="smenu_left"><span class="smenu_right">Catalog</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/8-prestashop-checkout" class=""><span class="smenu_left"><span class="smenu_right">Checkout</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/9-prestashop-content-management" class=""><span class="smenu_left"><span class="smenu_right">Content Management</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/10-prestashop-media" class=""><span class="smenu_left"><span class="smenu_right">Media</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/11-prestashop-seo" class=""><span class="smenu_left"><span class="smenu_right">Seo</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/12-prestashop-revenue-drivers" class=""><span class="smenu_left"><span class="smenu_right">Revenue Drivers</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/14-prestashop-prices-promotions" class=""><span class="smenu_left"><span class="smenu_right">Prices &amp; Promotions</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/16-prestashop-social-networks" class=""><span class="smenu_left"><span class="smenu_right">Social Networks</span></span></a></li></ul></div></li><li class="li_first"><a href="http://www.fmemodules.com/en/4-prestashop-themes" class=""><span class="smenu_left"><span class="smenu_right">Themes</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/5-free-prestashop-stuff" class=""><span class="smenu_left"><span class="smenu_right">Free Stuff</span></span></a><div class="sub"><ul><li class="li_first"><a href="http://www.fmemodules.com/en/17-free-prestashop-modules" class=""><span class="smenu_left"><span class="smenu_right">Modules</span></span></a></li><li class="li_first"><a href="http://www.fmemodules.com/en/18-free-prestashop-themes" class=""><span class="smenu_left"><span class="smenu_right">Themes</span></span></a></li></ul></div></li><li class="li_first"><a href="http://www.fmemodules.com/en/19-prestashop-services" class=""><span class="smenu_left"><span class="smenu_right">Services</span></span></a></li>
+      <li class="li_first"><a href="http://www.fmemodules.com/module/fmeportfolio/Portfolio"><span class="smenu_left"><span class="smenu_right">Portfolio</span></span></a></li>
+      <li class="li_first"><a href="http://www.fmemodules.com/content/6-support"><span class="smenu_left"><span class="smenu_right">Support</span></span></a>
+        <div class="sub">
+          <ul>
+            <li class="li_first"><a href="http://support.fmemodules.com" target="_blank"><span class="smenu_left"><span class="smenu_right">Submit Ticket</span></span></a></li>
+            <li class="li_first"><a href="http://www.fmemodules.com/contact-us"><span class="smenu_left"><span class="smenu_right">Contact Us</span></span></a></li>
+            <li class="li_first"><a href="http://www.fmemodules.com/module/fmefaqs/Topics"><span class="smenu_left"><span class="smenu_right">FAQS</span></span></a></li>
+          </ul>
+        </div>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+        </div>
+        
+<div id="content_container">
+	<div id="main_content">
+        
+
+		
+<!-- Breadcrumb -->
+
+<!-- /Breadcrumb -->
+		<div class="rte">
+		<div class="about_us">
+<h2>Privacy Policy</h2>
+<p>Your privacy is extremely important to us and it serves the bases of how we collect and use your information. To give you better idea about our policy, read below mentioned privacy policy which summarizes how do we collect and use any personal identifiable information. Please spend few moments to read our privacy practices, in case you have any concerns you can contact us freely.</p>
+<h3>Information Collection</h3>
+<p>We only collect personal information which you provide voluntarily through our website or by email correspondence. Example of personal identifiable information is as below,</p>
+<ul>
+<li>Name</li>
+<li>Company Name</li>
+<li>Contact Information</li>
+<li>Telephone</li>
+<li>Email address,</li>
+</ul>
+<p>&nbsp;</p>
+<p>We may collect that information to improve our service and provide better options to customers based on their preferences such as below,</p>
+<ul>
+<li>Region and Language</li>
+<li>Type of Browser</li>
+<li>What content you requested</li>
+<li>Type of Operating System</li>
+<li>Domain Name</li>
+</ul>
+<p>&nbsp;</p>
+<p>Information collection also helps us to avoid web spam, spam orders at the most.</p>
+<h3>Use of Information</h3>
+<p>Our use of your personal identifiable information serves the following purposes,</p>
+<ul>
+<li>Our primary purpose of requesting and using your personal information is to fulfill your order against our products and services. This information helps us to respond to your queries properly.</li>
+<li>Whenever we have any promotion or update, we use your information to send you the latest news, updates and promotions. In case you do not wish to be contacted, we will stop sending any such information based on your consent.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Other Important Information</h3>
+<ul>
+<li>For any outgoing link from our site we do not undertake any responsibility for the content or privacy policies of those websites.</li>
+<li>We might use cookies which are data store on your computer by your browser. These cookies are just meant to recognize your location, browsing preferences and to recognize you in future by our servers. You can disable these cookies from your browser settings.</li>
+<li>In case of any legal requirements your information may be released for judicial or governmental investigations.</li>
+</ul>
+<p>&nbsp;</p>
+<p><em><strong>We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications on these Web pages.</strong></em></p>
+</div>
+	</div>
+<br>
+	 
+						                	</div>
+</div>
+<div id="footer_container">
+  <div class="footer_nav">
+  <div class="footer">
+  <div class="footer_links">
+<p>Company</p>
+<ul>
+<li><a href="http://www.fmemodules.com/en/content/4-fme-modules-about-us" title="FME Modules - About Us">FME Modules - About Us</a></li>
+<li><a href="http://www.fmemodules.com/en/content/1-terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li><a href="http://www.fmemodules.com/en/content/3-privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="http://www.fmemodules.com/contact-us">Contact Us</a></li>
+<li class="last"><a href="http://www.fmemodules.com/module/fmetestimonials/Testimonials">Testimonials</a></li>
+</ul>
+</div>
+<div class="footer_links">
+<p>Prestashop Services</p>
+<ul>
+  <li><a href="http://www.fmemodules.com/20-prestashop-consultancy.html">Prestashop Consultancy</a></li>
+  <li><a href="http://www.fmemodules.com/17-prestashop-module-development.html">Prestashop Module Development</a></li>
+  <li><a href="http://www.fmemodules.com/9-prestashop-custom-development.html">Prestashop Custom Development</a></li>
+  <li><a href="http://www.fmemodules.com/18-prestashop-e-commerce-store-design.html">E-Commerce Store Design</a></li>
+  <li><a href="http://www.fmemodules.com/15-prestashop-dedicated-developer.html">Prestashop Dedicated Developer</a></li>
+ <li class="last"><a href="http://www.fmemodules.com/19-prestashop-theme-installation.html">Prestashop Theme Installation</a></li>
+</ul>
+</div>
+
+
+<div class="footer_links">
+<p>Prestashop Themes</p>
+<ul>
+  <li><a href="http://www.fmemodules.com/8-camera-spot.html">Camera spot</a></li>
+  <li><a href="http://www.fmemodules.com/21-nature-first-prestashop-theme.html">Nature First</a></li>
+  <li><a href="http://www.fmemodules.com/22-apparel-shop-prestashop-theme.html">Apparel Shop</a></li>
+  <li><a href="http://www.fmemodules.com/23-style-row-prestashop-theme.html">Style Row</a></li>
+  <li><a href="http://www.fmemodules.com/24-spectacles-prestashop-theme.html">Spectacles</a></li>
+  <li class="last"><a href="http://www.fmemodules.com/25-fashion-store-prestashop-theme.html">Fashion Store</a></li>
+</ul>
+</div>
+<div class="foot_nav">
+        <p>Call Now</p>        <p class="phone">+1 512 333 2114</p>        <p>Lets Get Social</p>
+        <div class="social">
+        <a href="https://www.facebook.com/FmeModules" target="_blank"><img src="http://www.fmemodules.com/themes/fme/img/foot_icon1.gif" width="36" height="36" alt=""></a>
+        <a href="https://twitter.com/FMEModules" target="_blank"><img src="http://www.fmemodules.com/themes/fme/img/foot_icon2.gif" width="36" height="36" alt=""></a>
+        <a href="https://pinterest.com/fmemodules" target="_blank"><img src="http://www.fmemodules.com/themes/fme/img/pinterest.gif" width="36" height="36" alt=""></a>
+        <a href="http://www.linkedin.com/company/2849590" target="_blank"><img src="http://www.fmemodules.com/themes/fme/img/foot_icon4.gif" width="36" height="36" alt=""></a>
+
+        <img src="http://www.fmemodules.com/themes/fme/img/paypal.png" width="94" height="54" alt="" class="foot_paypal"> <img src="http://www.fmemodules.com/themes/fme/img/skrill_logo.jpg" alt="Pay with Skrill" class="foot_paypal" style="padding-left:7px; padding-top:2px"></div>
+</div>
+<br class="clear">
+<p class="copyright">© 2013 fmemodules.com. All Rights Reserved.</p>
+<!-- Back to Top Module -->
+
+<a href="javascript:void(0);" id="toTop" title="Scroll to Top" style="display: none;"></a>
+
+<!-- /Back to Top Module --> 
+
+<!-- FME Share and Follow Module -->
+<!-- /FME Share and Follow Module -->
+
+  </div>
+	</div>
+</div>
+		
+
+
+</body></html>
