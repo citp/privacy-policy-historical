@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516161755id_/http%3A//uspresswire.com/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507082521id_/http%3A//www.uspresswire.com/pages/open/Privacy%2520Policy) for the most accurate reproduction.*
 
-# US PRESSWIRE :: Privacy Policy
+# USA TODAY Sports Images
 
-The following Website Privacy Policy (the "Privacy Policy") governs your use of the website located at www.uspresswire.com (the "Website"), which is owned and operated by US Presswire, LLC ("US Presswire," "we," "our" or "us"). 
+The following Website Privacy Policy (the "Privacy Policy") governs your use of the website located at www.usatodaysportsimages.com (the "Website"), which is owned and operated by USA TODAY Sports Images ("USA TODAY Sports Images," "we," "our" or "us").
 
-The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Please read the information below to learn more about our collection policies and practices. 
+The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Please read the information below to learn more about our collection policies and practices.
 
-When this Privacy Policy uses the term "personally identifiable information" we mean information that identifies a particular individual, such as your name, street address or email address. When other information is associated with personally identifiable information, it also becomes personally identifiable information for the purposes of this Privacy Policy. 
+When this Privacy Policy uses the term "personally identifiable information" we mean information that identifies a particular individual, such as your name, street address or email address. When other information is associated with personally identifiable information, it also becomes personally identifiable information for the purposes of this Privacy Policy.
 
 #### 1\. TYPES OF INFORMATION THAT MAY BE COLLECTED
 
-We may collect the following types of information: 
+We may collect the following types of information:
 
-Information You Provide To Us: In the course of using the Website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number or fax number; unique identifiers, such as your username and user password; demographic information, such as your date of birth, age, gender, education, household income, occupation; or other similar information. 
+Information You Provide To Us: In the course of using the Website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number or fax number; unique identifiers, such as your username and user password; demographic information, such as your date of birth, age, gender, education, household income, occupation; or other similar information.
 
-Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and your IP address. See the "IP Addresses and Click Stream Data" section below. 
+Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and your IP address. See the "IP Addresses and Click Stream Data" section below.
 
-Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you. Additionally, we keep a record of what communications you have opted to receive or not to receive. 
+Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
 #### 2\. HOW INFORMATION MAY BE COLLECTED
 
@@ -78,7 +78,7 @@ By using the Website, you signify your agreement to the terms of this Privacy Po
 
 #### 9\. CORRECTING / UPDATING PERSONALLY IDENTIFIABLE INFORMATION
 
-If your personally identifiable information changes or if you no longer desire to access the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by sending an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 1230 Peachtree Street NE, Suite 1900, Atlanta, GA 30309, Attn: Internet Dept. 
+If your personally identifiable information changes or if you no longer desire to access the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by sending an email to picturedesk@usatodaysportsimages.com or you may write us at USA TODAY Sports Images, 1440 Broadway, 17th Floor, New York, NY 10018, Attn: Internet Dept.
 
 #### 10\. YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -88,10 +88,10 @@ As explained in this Privacy Policy, whenever you agree to let us collect person
 
 Because the Website has a comprehensive Privacy Policy and provides you with details on how you may opt-out of the use of your personally identifiable information by third parties for direct marketing purposes, we are not required to provide you with this information. 
 
-If you are a California resident and have questions about our compliance with this law, please send an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 1230 Peachtree Street NE, Suite 1900, Atlanta, GA 30309, Attn.: Internet Dept. - California Privacy Rights. 
+If you are a California resident and have questions about our compliance with this law, please send an email to picturedesk@usatodaysportsimages.com or you may write us at USA TODAY Sports Images, 1440 Broadway, 17th Floor, New York, NY 10018, Attn.: Internet Dept. - California Privacy Rights. 
 
 #### 11\. QUESTIONS ABOUT THIS PRIVACY POLICY
 
-If you have any questions about this Privacy Policy or the privacy practices of the Website, please send an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 1230 Peachtree Street NE, Suite 1900, Atlanta, GA 30309, Attn: Internet Dept. - Privacy Policy. 
+If you have any questions about this Privacy Policy or the privacy practices of the Website, please send an email to picturedesk@usatodaysportsimages.com or you may write us at USA TODAY Sports Images, 1440 Broadway, 17th Floor, New York, NY 10018,  Attn: Internet Dept. - Privacy Policy. 
 
-Last Modified: September, 2006. Copyright 2006 US Presswire, LLC 
+Last Modified: December, 2012. Copyright 2012 USA TODAY Sports Images 
