@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridablue.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118065009id_/http%3A//www3.bcbsfl.com/wps/portal/bcbsfl/content%3FWCM_GLOBAL_CONTEXT%3D/wps/wcm/connect/www_content/SI_BCBSFL/SA_General/CT_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridablue.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507135400id_/http%3A//www3.bcbsfl.com/wps/portal/bcbsfl/content%3FWCM_GLOBAL_CONTEXT%3D/wps/wcm/connect/www_content/SI_BCBSFL/SA_General/CT_Privacy) for the most accurate reproduction.*
 
 # Internet Privacy Statement | BCBSF
 
@@ -62,7 +62,7 @@ This site is not intended for use by children (children under the age of 13).
 
 ### Links to Other Sites
 
-BCBSF may provide links to other websites. Please be aware that once you leave our website and enter another website, you may be subject to different privacy practices and policies over which BCBSF has no control and for which BCBSF is not responsible. Please use prudence in utilizing such links and in disclosing any personal information on those sites.
+BCBSF may provide links to other websites. Please be aware that once you leave our website and enter another website, you may be subject to different privacy practices and policies over which BCBSF has no control and for which BCBSF is not responsible. Please use test1 prudence in utilizing such links and in disclosing any personal information on those sites.
 
 ### Changes to this Internet Privacy Statement
 
