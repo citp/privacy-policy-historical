@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vchatter.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025062158id_/http%3A//www.vchatter.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vchatter.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507054959id_/http%3A//www.vchatter.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Fun Video Chat Groups
 
@@ -56,7 +56,7 @@ vChatter is about connecting you with other users and groups. This requires user
 
 ### Defined Terms
 
-"Us," "we," "our,", "vChatter", "Services", "Content", "you", and "your" have the same meaning as they do in our [Terms of Use](https://web.archive.org/web/20121025062158id_/http%3A//www.vchatter.com/welcome/terms.html).
+"Us," "we," "our,", "vChatter", "Services", "Content", "you", and "your" have the same meaning as they do in our [Terms of Use](https://web.archive.org/web/20130507054959id_/http%3A//www.vchatter.com/welcome/terms.html).
 
 ### Changes to this Policy
 
