@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businesstoday.in privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629024059id_/http%3A//specials.indiatoday.com/common/privacypolicy/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesstoday.in privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507120428id_/http%3A//specials.indiatoday.com/common/privacypolicy/privacy.phtml) for the most accurate reproduction.*
 
 # INDIA TODAY GROUP | India Today , Business Today, Aaj Tak, Care Today, Today, Cosmopolitan, Reader's Digest, India Today Conclave
 
-India Today Group Online is committed to protecting the privacy of Internet users. This statement discloses the privacy practices for India Today Group Online, located at [www.itgo.in.](http://www.itgo.in/)
+India Today Group Online is committed to protecting the privacy of Internet users. This statement discloses the privacy practices for India Today Group Online, located at [www.intoday.in](http://www.intoday.in/)
 
 Questions regarding this statement should be directed to India Today Group Online at [itgo@intoday.com](mailto:itgo@intoday.com) or by contacting India Today Group Online, A-61, Sector 57, Noida \- 201 301 or by calling our main number at (91) 0120-4078000.
 
