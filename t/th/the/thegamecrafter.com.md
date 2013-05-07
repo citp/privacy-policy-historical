@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamecrafter.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104091140id_/https%3A//community.thegamecrafter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecrafter.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507085241id_/https%3A//community.thegamecrafter.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Game Crafter - The world leader in print on demand board games and board game parts.
 
