@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403112017id_/http%3A//www.helperchoice.com/privacy.php%3FLa%3DE%26C%3D%26T%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507123756id_/http%3A//www.helperchoice.com/privacy.php%3FLa%3DE%26T%3D) for the most accurate reproduction.*
 
-# Helper Choice : Find a domestic helper in Hong Kong
-
-  
-  
-| 
-
-| 
-
-* * *
+# PRIVACY POLICY
 
 This Privacy Policy covers the collection, usage, and disclosure of information that may be collected by helperchoice.com anytime you interact with us, such as when you make inquiries. Our Privacy Policy covers both privacy and confidentiality measures taken with our clients and any direct end-user. Our customer’s privacy is a priority at HelperChoice, and we are committed to protecting all parties who use our services.  Please read further to learn more about our practices, including (a) what type of information is collected, (b) how the information is used and to whom we disclose the information, and (c) how we maintain security with shared information.
 
