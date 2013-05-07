@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majaa.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014045330id_/http%3A//www.majaa.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majaa.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508001218id_/http%3A//www.majaa.net/privacy_policy.php) for the most accurate reproduction.*
 
 # MaJaa.NET - Privacy Policy
 
