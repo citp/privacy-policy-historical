@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the yachtworld.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010111713id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yachtworld.com privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507121807id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
 
 
@@ -102,13 +102,13 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="/core/cached/includes/css/stylesheet-intl.css?11.5-Build-117-SNAPSHOT&amp;locale=us">
+<link rel="stylesheet" type="text/css" href="/core/cached/includes/css/stylesheet-intl.css?12.29-Build-121-SNAPSHOT&amp;locale=us">
 <noscript>
-<link rel="stylesheet" type="text/css" href="/core/cached/includes/css/stylesheet-print.css?11.5-Build-117-SNAPSHOT" media="print" />
+<link rel="stylesheet" type="text/css" href="/core/cached/includes/css/stylesheet-print.css?12.29-Build-121-SNAPSHOT" media="print" />
 </noscript>
 
 
-		<script type="text/javascript" src="/core/N550923963/bundles/ywTemplateBundle.js"></script>
+		<script type="text/javascript" src="/core/929706746/bundles/ywTemplateBundle.js"></script>
 
 	
 
@@ -133,6 +133,7 @@
 
 
 
+   
 
 
 
@@ -141,7 +142,7 @@
 <!--
 OAS_url = 'http://oascentral.dominionenterprises.com/RealMedia/ads/';
 OAS_sitepage = 'www.yachtworld.com/en/aboutus.html';
-OAS_listpos = 'Top1,Right1';
+OAS_listpos = 'Top1,x21,x25';
 OAS_query = 'null&o=null';
 OAS_target = '_top';
 OAS_version = 10;
@@ -168,7 +169,7 @@ if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.ind
 if (OAS_version >= 11)
 	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.dominionenterprises.com/RealMedia/ads/adstream_mjx.ads/www.yachtworld.com/en/aboutus.html/1873733074@Top1,Right1?null&amp;o=null"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.dominionenterprises.com/RealMedia/ads/adstream_mjx.ads/www.yachtworld.com/en/aboutus.html/1193484803@Top1,x21,x25?null&amp;o=null"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -189,7 +190,7 @@ function OAS_AD(pos)
 
 
 
-	<link type="text/css" rel="stylesheet" href="/core/cached/includes/css/stylesheet-print.css?11.5-Build-117-SNAPSHOT" media="print"></head><body class="internal intl">
+	<link type="text/css" rel="stylesheet" href="/core/cached/includes/css/stylesheet-print.css?12.29-Build-121-SNAPSHOT" media="print"></head><body class="internal intl">
 
 
 
@@ -200,12 +201,12 @@ function OAS_AD(pos)
 
 <div id="frame">
 
-<div id="printLogo"><div style="position:absolute;"><img src="http://newimages.yachtworld.com/images/logo_yw_print.gif?11.5-Build-117-SNAPSHOT" border="0"></div></div>
+<div id="printLogo"><div style="position:absolute;"><img src="http://newimages.yachtworld.com/images/logo_yw_print.gif?12.29-Build-121-SNAPSHOT" border="0"></div></div>
 
 
 	<div id="logo_header">
 		<div id="top_logo">
-			<a href="/index.html"><img src="http://newimages.yachtworld.com/images/logo_yw.gif?11.5-Build-117-SNAPSHOT" width="390" height="80" vspace="0" hspace="0" border="0" alt="Boats for Sale"></a> 
+			<a href="/index.html"><img src="http://newimages.yachtworld.com/images/logo_yw.gif?12.29-Build-121-SNAPSHOT" width="390" height="80" vspace="0" hspace="0" border="0" alt="Boats for Sale"></a> 
 		</div>
 		<div id="top_nav">
 			<div id="top_small_menu">
@@ -229,10 +230,25 @@ function changeLocale(locale, toHost) {
 		if (pageUrl)
 			toUrl += pageUrl;
 	}
-
+        
+        if(toUrl.indexOf('us_msg=true') != -1){
+            
+            if(toUrl.indexOf('&us_msg=true') != -1) {
+                toUrl = toUrl.replace('&us_msg=true', ''); 
+            } else {
+                if(toUrl.indexOf('us_msg=true&') != -1) {
+                    toUrl = toUrl.replace('us_msg=true&', ''); 
+                } else {
+                    if(toUrl.indexOf('?us_msg=true') != -1) {
+                        toUrl = toUrl.replace('?us_msg=true', ''); 
+                    }
+                }  
+            }                         
+        } 
 	// redirect
 	window.location = toUrl;
 }
+
 </script>
 
 <div class="localeSelector">
@@ -403,7 +419,7 @@ function changeLocale(locale, toHost) {
 			<li><a onclick="menuClick(this,'ServicesUS:Yacht Brokers')" href="/byp/categories/BrokerageSales/YachtBrokerageFirms.html.en"><span>Yacht Brokers</span></a></li>
 			<li><a onclick="menuClick(this,'ServicesUS:Boat Dealers')" href="/byp/categories/BrokerageSales/BoatDealers.html.en"><span>Boat Dealers</span></a></li>
 			<li><a onclick="menuClick(this,'ServicesUS:Surveyors')" href="/byp/categories/Surveyors/index.html.en"><span>Surveyors</span></a></li>			
-		    <li><a onclick="menuClick(this,'ServicesUS:Boat Loans')" href="http://boats.com/boat-loans/index.jsp?"><span>Boat Loans</span></a></li>
+		    <li><a onclick="menuClick(this,'ServicesUS:Boat Loans')" href="https://www.yachtworld.com/boat-loans/index.jsp?"><span>Boat Loans</span></a></li>
 			<li><a onclick="menuClick(this,'ServicesUS:Insurance')" href="/boat-content/insurance/"><span>Insurance</span></a></li>
 			<li><a onclick="menuClick(this,'ServicesUS:Transport')" href="http://www.boats.com/boat-transport/index.jsp?source=yachtworld&amp;yw_country=US"><span>Transport</span></a></li>
 			
@@ -478,7 +494,8 @@ OAS_AD('Top1');
 </div>			
 	</div>
 	
-
+        <!-- Include localization pop up -->  
+        
 	
 	
 	<div id="content_main">
@@ -494,7 +511,7 @@ OAS_AD('Top1');
 We use third-party advertising companies to provide advertisements to you when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to show you advertisements tailored to your interests on this and other websites and other interactive media and/or to keep track of your response to each ad. For more information on this practice, or to opt out of having this information used by these companies, please visit the Network Advertising Initiative here: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.<p></p><p> </p><h3>Correcting/Updating Personal Information:</h3>  If a Site Visitor's personal information changes, we have provided a way to correct, update or remove personal information. Site Visitors can have their personal information updated, changed or removed by contacting a customer service representative at <a href="mailto:cs@yachtworld.com">cs@yachtworld.com</a>.<p></p> <p> </p><h3>Links to Other Web Sites:</h3>  The Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites that we link to. We encourage Site Visitors to be alert when they leave the Web site and to review the privacy statements of each and every Web site that they visit before disclosing personal information. <p></p> <p> </p><h2>Security:</h2>  Please note that we do not guarantee the security of any personal information you transmit to us and you do so at your own risk.  If you have any questions about the security at the Web site, you can send an e-mail message to <a href="mailto:policies@yachtworld.com">policies@yachtworld.com</a>. <p></p> <p> </p><h3>Children's Use of Web site:</h3> We do not knowingly acknowledge or accept orders, registrations or requests for any goods or services from persons under the age of 13. If it comes to our attention that a request has come from a person under the age of 13, we will not respond to such a request. Instead we will delete any information provided by that child.<p></p> <p> </p><h3>Notification of Changes:</h3> It is the Site Visitors responsibility to follow our privacy link, so Site Visitors are always aware of our current practices. There will always be a link to our privacy statement on our home page so that Site Visitors are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If our privacy practices change in way that would allow us to use non-public personal information in a manner not previously allowed by the terms of our privacy statement, Site Visitors will have an opportunity to choose whether to let us use their non-public personal information in the newly proposed manner. <p></p> <p> </p><h3>Copyright:</h3>  Copyright ©2012 Dominion Enterprises. All rights reserved.<br>Revised April 2012<p></p>
 
 
-
+                
 	</div>
 	<!-- Right Column -->
 	<div id="content_right">
@@ -502,11 +519,21 @@ We use third-party advertising companies to provide advertisements to you when y
 <!-- Tower Ad -->
 <script language="JavaScript">
 <!--
-OAS_AD('Right1');
+OAS_AD('x21');
 //-->
 </script>
 
 	</div><br>
+        
+<div id="bottomAd">
+    <script language="JavaScript">
+<!--
+OAS_AD('x25');
+//-->
+</script>
+    
+</div>
+
 	<div id="content_footer">
 		
 
@@ -546,7 +573,7 @@ OAS_AD('Right1');
 		
 		
 		
-			| <a href="http://yachtworldfoundation.com/">yachtworld foundation</a>
+			| <a href="http://yachtworldheroes.com/">yachtworld heroes</a>
 		
 		
 		<br>
@@ -555,9 +582,10 @@ OAS_AD('Right1');
 		YachtWorld.com, West Lake Union Center, 1505 Westlake Ave North, Suite 510, Seattle WA 98109<br>
 
 
-		<a href="/core/globalnav/copyright.jsp" title="Version: 11.5-Build-117-SNAPSHOT, Textual Content: Downloaded from QA on Tue Oct 09 09:08:23 PDT 2012">copyright © 2012 Dominion Enterprises</a> All Rights Reserved. 		
+		<a href="/core/globalnav/copyright.jsp" title="Version: 12.29-Build-121-SNAPSHOT, Textual Content: Downloaded from QA on Wed May 01 08:00:57 PDT 2013">copyright © 2013 Dominion Enterprises</a> All Rights Reserved. 		
 		| <a href="/core/globalnav/termOfUse.jsp">terms of use</a> | 
-		<a href="/core/globalnav/privacy.jsp" title="privacy">privacy</a><br>
+		<a href="/core/globalnav/privacy.jsp" title="privacy">privacy</a> | 
+                 <a href="/core/globalnav/cookies.jsp" title="cookies">cookies</a><br>
 		</div>
 
 	</div>
@@ -568,7 +596,7 @@ OAS_AD('Right1');
 
 
 <!-- SERVER_NAME:ywapp07 -->
-<!-- PROCESS_TIME:22 -->
+<!-- PROCESS_TIME:23 -->
 <!-- CACHE_STATE:READY -->
 
 </div>
@@ -584,11 +612,14 @@ OAS_AD('Right1');
 
 
 
+
+
+
 <!-- SiteCatalyst code version: H.15.1.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://newimagesgz.yachtworld.com/includes/js/omniture/s_code.js?11.5-Build-117-SNAPSHOT-sprint-18"></script>
-<script language="JavaScript" type="text/javascript" src="http://newimagesgz.yachtworld.com/includes/js/omniture/atm_code.js?11.5-Build-117-SNAPSHOT-sprint-2"></script>
+<script language="JavaScript" type="text/javascript" src="http://newimagesgz.yachtworld.com/includes/js/omniture/s_code.js?12.29-Build-121-SNAPSHOT-sprint-18"></script>
+<script language="JavaScript" type="text/javascript" src="http://newimagesgz.yachtworld.com/includes/js/omniture/atm_code.js?12.29-Build-121-SNAPSHOT-sprint-2"></script>
 
 
 <script language="JavaScript" type="text/javascript">
@@ -692,7 +723,7 @@ var newWindowOnload = function() {
 	var cssNode = document.createElement('link');
 	cssNode.type = 'text/css';
 	cssNode.rel = 'stylesheet';
-	cssNode.href = '/core/cached/includes/css/stylesheet-print.css?11.5-Build-117-SNAPSHOT';
+	cssNode.href = '/core/cached/includes/css/stylesheet-print.css?12.29-Build-121-SNAPSHOT';
 	cssNode.media = 'print';
 	document.getElementsByTagName("head")[0].appendChild(cssNode);
 	}
