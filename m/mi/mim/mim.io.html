@@ -1,21 +1,522 @@
-<!--The following is the downloaded HTML source of the mim.io privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615124835id_/http%3A//madmimi.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mim.io privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507030647id_/https%3A//madmimi.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=7">
-	<link rel="icon" href="/images/favicon.png" type="image/x-png">
-    <title>Mad Mimi Email Marketing</title>
+<!DOCTYPE html><html lang="en" class="js" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36" data-platform="Linux x86_64"><!--<![endif]--><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+  <script>
+  	var b = document.documentElement;
+  	b.className = b.className.replace('no-js','js');
+  	b.setAttribute("data-useragent",  navigator.userAgent);
+  	b.setAttribute("data-platform", navigator.platform );
+    var Mimi = Mimi || {
+      SIZE_MAP: {
+        'l': 'master',
+        's': 'small',
+        't': 'tiny'
+      },
+      getParameterByName: function(name, url) {
+        var match = RegExp('[?&]' + name + '=([^&]*)').exec(url || window.location.search);
+        return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+      },
+      fallbackImage: function(image) {
+        if(image.src.indexOf('thumbs.php') > 0) {
+          var size = Mimi.getParameterByName('size', image.src),
+              fallback = "/images/promotion_thumb_" + Mimi.SIZE_MAP[size] + ".png";
+        } else {
+          var parts = image.src.split("/"),
+              size = parts[parts.length - 1],
+              fallback = "/images/promotion_thumb_" + size;
+        }
+        image.src = fallback;
+        image.onerror = null;
+      }
+    };
+  </script>
 
-    <link href="/stylesheets/mimibasecss_packaged.css?1306845490" media="screen" rel="stylesheet" type="text/css"> 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/mimibasejs_packaged.js?1306845490" type="text/javascript"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Language" content="en-US">
+  <meta http-equiv="Cache-control" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Copyright" content="Mad Mimi LLC">
+  <meta name="Author" content="Mad Mimi LLC">
+  <meta name="description" content="Mad Mimi specializes in email marketing software for small businesses shops, non-profits, and more. Learn how to easily create html email newsletters today! " property="og:description">
+  <meta content="index,follow,archive" name="robots">
+  <meta name="google-site-verification" content="CEt-lNx5BzIrp7pd1Sod186_PTztmhMdoWsrW6ouP54">
+  <meta name="keywords" content="email marketing, html email, newsletter templates">
+  <meta name="google-site-verification" content="WjTib5tXH2FqPRFN0RxHgJc_EAZ_tfhasy6cGkrVd1g">
+  <meta name="google-site-verification" content="8QybOOpevHX_tt9-8YCRlyCoL8aJWDHtlst-7Pd3ltA">
+  <meta property="og:title" content="Mad Mimi Email Marketing">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://madmimi.com">
+  <meta property="og:image" content="https://s3.amazonaws.com/mimi-css/og_logo.png">
+  <meta property="og:site_name" content="Mad Mimi">
+  <meta property="fb:page_id" content="15073826052">
+  <meta property="fb:admins" content="15073826052">
+  <link rel="alternate" type="application/atom+xml" title="My Weblog feed" href="/feed/">
+  <link rel="search" type="application/opensearchdescription+xml" title="My Weblog search" href="opensearch.xml">
+  <link rel="icon" href="/img/favicon.png" type="image/x-png">
+  <link href="https://cloud.webtype.com/css/f45a21db-2069-412c-8597-ce604de2d23f.css" rel="stylesheet" type="text/css">
+
+    <link href="https://d2vnkn0bfhsarv.cloudfront.net/stylesheets/application_home.css?1367872544" media="screen" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+    <link href="https://d2vnkn0bfhsarv.cloudfront.net/stylesheets/ie.css?1367872090" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if lt IE 9]><script>document.execCommand("BackgroundImageCache", false, true);</script><![endif]-->
+  <!--[if IE 7 ]><link href="https://d2vnkn0bfhsarv.cloudfront.net/stylesheets/ie7.css?1367872090" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if IE 8 ]><link href="https://d2vnkn0bfhsarv.cloudfront.net/stylesheets/ie8.css?1367872090" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if IE 9 ]><link href="https://d1lggihq2bt4jo.cloudfront.net/stylesheets/ie9.css?1367872090" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  
+	<script src="https://d1lggihq2bt4jo.cloudfront.net/scripts/modernizr.min.js?1357739113" type="text/javascript"></script>
+
+	<script>
+		if( !Modernizr.fontface  ){
+			document.write(unescape("%3Cscript src='" + "/cufon/cufon-yui.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='" + "/cufon/shag-mystery_400.font.js' type='text/javascript'%3E%3C/script%3E"));
+		}
+	</script>
+	<script>
+		if( !Modernizr.fontface  ){
+			Cufon.replace('h1'); // Works without a selector engine
+			Cufon.replace('h2');
+			Cufon.replace('h3');
+			Cufon.replace('dt');
+		}
+	</script>
+
+  <title>Mad Mimi Email Marketing : Create, Send, And Track HTML Email Newsletters</title>
+
+</head>
+
+<body class="home ">
+
+  
+
+  <header class="global">
+    <div class="masthead" itemscope="" itemtype="http://schema.org/WebApplication">
+      <h1>
+        <a href="/" title="Mad Mimi Home" class="identity" itemprop="author">
+          Mad Mimi, LLC
+        </a>
+      </h1>
+      
+
+<nav id="nav_global">
+  <ul>
     
+      <li class="">
+        <a href="/contact">Contact</a>
+      </li>
+
+      <li class="">
+        <a href="/praise">Praise</a>
+      </li>
+
+      <li class="blog ">
+        <a title="Blog" href="http://blog.madmimi.com">Blog</a>
+      </li>
+
+      <li class="">
+        <a href="/service_agreements/choose_plan">Pricing</a>
+      </li>
+
+      
+
+      <li class="signin" id="account_signin">
+        
+
+        <a href="/session/new" id="account_signin_link">Login</a>
+
+        <div class="signin" id="account_signin_form">
+          <form action="/session" method="post">            <fieldset>
+
+            <div class=" field">
+	<span class="half small">
+		<a href="/auth/facebook" title="Login with Facebook" class="btn facebook fb">
+			<span>via Facebook</span>
+		</a>
+	</span>
+	<span class="half small">
+		<a href="/auth/twitter" title="Log in with Twitter" class="btn twitter tw">
+			<span>via Twitter</span>
+		</a>
+	</span>
+</div>
+
+
+              <div class="field">
+                <span class="half">
+                  <label for="email">Your Email</label>
+                  <input class="text" id="email" name="email" type="email">
+                </span>
+                <span class="half">
+                  <label for="password">Password</label>
+                  <input id="password" name="password" type="password">
+                  <a href="/forgot" class="forgot">Forgot?</a>
+                </span>
+              </div>
+              <p class="actions">
+                <span class="left">
+                  <input id="remember_me_global" name="remember_me_global" type="checkbox" value="classcheckbox">
+                  <span class="check"></span>
+                  <label for="remember_me_global">Remember me</label>
+                </span>
+                <span class="right">
+                  <button class="btn primary" name="proceed" type="submit">
+                    <span>Login</span>
+                  </button>
+                </span>
+              </p>
+            </fieldset>
+          </form>        </div>
+      </li>
+
+      
     
+  </ul>
+</nav>
+
+      <section id="introduction" itemscope="">
+	<h1 itemprop="alternativeHeadline">Simple. Lovely. Email Marketing.</h1>
+	<p itemprop="comment">
+		<span class="usr-quote">“Simple and Beautiful email marketing”</span> — Mashable
+	</p>
+	
+  	<a href="/service_agreements/signup/48" class="btn primary mega"><span>Sign up free today!</span></a>
+  
+</section>
+
+<p class="help">
+	<span>Need Help?</span>
+	<a href="#" onclick="return SnapABug.startLink();" class="chat">
+		Let’s chat!
+	</a>
+</p>
+
+<img alt="Header_mimi_v2" class="mimi" itemprop="image" itemtype="Organization" src="https://d2vnkn0bfhsarv.cloudfront.net/img/header_mimi_v2.png?1357739113">
+
+    </div>
+    <span class="bg"></span>
+
+  </header>
+
+  <div id="main" class="with_sidebar">
+    <span class="bg"></span>
+    <section>
+      <nav id="nav_main">
+	<ul class="tabs">
+		
+			<li class="">
+			  <a href="/">Home</a>
+			</li>
+			
+			<li class="">
+			  <a href="/about">About</a>
+			</li>
+			
+			<li class="">
+			  <a href="/features">Features</a>
+			</li>
+			
+			<li class="">
+			  <a href="/service_agreements/choose_plan">Pricing</a>
+			</li>
+			
+			<li class="">
+			  <a href="/gallery">Gallery</a>
+			</li>
+		
+	</ul>
+</nav>
+
+      
+
+      <aside>
+
+	<section class="qna"> 
+	
+
+			<h3>Questions?</h3> 
+	
+	
+		<ul class="qna"> 
+			<li> 
+				<a href="#answer1" class="question"> 
+					<span>What do you mean by <em>permission</em>?</span> 
+				</a>	
+				<div class="answer" name="answer1"> 
+					<p>What constitutes "permission" can vary but a simply summary of it is
+                    that your recipients should have given you direct permissions to email
+                    them or be a recent customer of yours.  Email us anytime if you're not
+                    sure if your list is permission based and we'll figure it out with you.</p>
+				</div> 
+			</li> 
+			<li> 
+				<a href="#answer2" class="question">		
+					<span>Can I send to old lists?</span> 
+ 				</a> 
+				<div class="answer" name="answer2"> 
+					<p>Sending to old and non-responsive emails is a drag on your delivery and
+                    an old list can cause more trouble than good but there are some
+                    techniques to send safely. Send only to those who've been actively in
+                    contact with you and receptive to your emails in the last year or so.</p>
+				</div> 				
+			</li> 
+			<li> 
+				<a href="#answer3" class="question"> 
+					<span>How do I know if my list is legit?</span> 
+ 				</a>
+				<div class="answer" name="answer3"> 
+					<p>Let's discuss this! Email us anytime with some details about how you
+                    collected your contacts and we'll help out. If the answer to "Did they
+                    signup directly with you to receive emails?" is a resounding "Yes!"
+                    then you're good to go!</p>
+				</div> 
+			</li> 
+		</ul> 
+	</section> 
+	<span class="truste" id="44a9d2f9-8ef7-44ff-b7e0-ff325314ce63">
+  <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Mad-Mimi,-LLC/asc?rid=44a9d2f9-8ef7-44ff-b7e0-ff325314ce63"></script>
+  <a href="//privacy.truste.com/privacy-seal/Mad-Mimi,-LLC/validation?rid=73a12d95-7d5c-4b03-96b9-c2623647895b" title="TRUSTe online privacy certification" target="_blank">
+    <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Mad-Mimi,-LLC/seal?rid=73a12d95-7d5c-4b03-96b9-c2623647895b" alt="TRUSTe online privacy certification">
+  </a>
+</span>
+</aside>
+
+<section class="main">
+  
+<h1>Privacy and Permissions<small>In Mimi Land, we're all about the inbox.</small></h1>
+
+	<p>Effective date: December 5th, 2012</p>
+
+	<p>At Mad Mimi we believe that respecting your recipients is important.
+    These policies aim to make sending emails effective and receiving
+    emails a joy.</p>
+
+  <p>This privacy policy applies to <a href="https://www.madmimi.com">madmimi.com</a> owned and operated by Mad Mimi, LLC. This privacy policy describes how Mad Mimi, LLC collects and uses the personal information you provide on our website:  <a href="https://www.madmimi.com">madmimi.com</a>.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information</p>
+	
+	<p>Mad Mimi's privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through <a href="https://www.madmimi.com">madmimi.com</a> does not cover information that may be collected behind the log in on our website. If you have questions or complaints regarding our privacy policy or practices, please <a href="/contact">contact us</a>. You may also  <a href="http://watchdog.truste.com/pvr.php?page=complaint">contact TRUSTe</a>.</p>
+
+	<h2>Permission Policy</h2>
+
+	<p>Mad Mimi is <em>permission based</em>.  That means that the people who receive your emails must have given you permission to email them somehow, usually by signing up directly or as active customers of yours. Our <a href="/legal/terms">Terms of Use</a> conform to Can Spam regulations and more importantly, adhere to the best practices laid out by ISP's.</p>
+
+	<p>To send mailings using Mad Mimi, you must follow the content, privacy, and permission guidelines set by the postmasters of the domains you are sending to. You may only send emails that are designed with care and are the type of emails your recipients have asked for.</p>
+
+	  <p>In addition, you should regularly remove subscribers who do not read your emails or interact with you, or your business, for more than 18 months.</p>
+
+<h2>Safety of your personal information</h2>
+	  
+	  <p>Mad Mimi collects certain information about you in order to allow your account to function properly. At any time, you may log in and change this information, or remove it. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or deactivate it by making the change on your account page or plans page, or by emailing our customer support <a href="/contact">here</a>.  We will respond to your request to access within 2 days. We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+
+
+<h2>Protecting your customer lists and data</h2>
+	  <p>
+	  Although we reserve the right to monitor your lists, content and response data from time to time to make sure they comply with our Terms of Use, we will never share, sell or rent your customer data to anyone for any reason.<br>
+	  </p>
+
+<h2>Tracking Technologies</h2>
+<p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for longer, and are used for the porposes or remembering your settings, local storage, for example making sure you don't lose your text while you're composing an emaail campaign, and "remember me" option. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. Here is <a href="http://en.wikipedia.org/wiki/HTTP_cookie">more information about cookies</a>.
+If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.</p>
+
+<p>The use of cookies by our tracking utility company, for example, Google Analytics and service providers like <a href="snapengage.com">SnapEngage Live Chat</a>, is not covered by our privacy policy.  We do not have access or control over these cookies. These providers use both session ID and persistent cookies to make it easier for you to use our live chat and for us to log general website traffic. 
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers’ or users’ personally identifiable information.</p>
+	
+<h3>Adhering to the Safe Harbor privacy principles of the U.S.-EU and U.S.-Swiss Safe Harbor Framework</h3>
+
+    <p>Mad Mimi complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth
+    by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European
+    member countries and Switzerland.  Mad Mimi has certified that it adheres to the Safe Harbor Privacy Principles of notice,
+    choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program,
+    and to view Mad Mimi's certification, please <a href="http://export.gov/safeharbor" title="United States Department of Commerce's Safe Harbor directory" target="_blank">click here</a>.</p>
+
+    <p>Mad Mimi uses self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. Mad Mimi has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mad Mimi's certification, please visit <a href="http://export.gov/safeharbor" title="United States Department of Commerce's Safe Harbor directory" target="_blank">http://www.export.gov/safeharbor/</a>.</p>
+
+		<p>Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.</p>
+
+	<p>Direct any Safe Harbor inquiries or requests in writing if via email to:<br>
+	<br>
+	Mad Mimi, LLC
+	<br>
+	172 Fifth Ave.
+	<br>
+	Suite 131
+	<br>
+	Brooklyn, New York 11217
+	<br>
+	support@madmimi.com</p>
+	 
+<h2>Periodic emails from Mad Mimi</h2>
+
+
+	  <p>From time to time you may receive from us emails related to your account or your use of Mad Mimi. Every email will contain a link for you to be able to opt-out of receiving it.
+	  </p>
+	  
+	  
+	  
+	 <h2>Ensuring secure billing transactions</h2>
+
+	  <p>You are asked to supply certain credit card and billing information in order to purchase Mad Mimi's services. That information is transferred, using the most secure transmission technology, to a trusted third party for processing. The information is then encrypted and securely stored to handle your transactions.
+	  </p>
+	
+		<h3>We will not sell or rent your email address. Ever.</h3>
+
+		<p>We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.</p>
+
+		<p>If Mad Mimi, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
+
+		<h2>Testimonials</h2>
+		<p>We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at support@madmimi.com.</p>
+
+		<h2>Links to 3rd party sites</h2>
+		<p>Our site includes links to other websites whose privacy practices may differ from those of Mad Mimi, LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to read the privacy policy of any website you visit.</p>
+
+		<p>Our website includes social media features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social media features are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
+
+		<p>You can also log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.&nbsp; Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+
+		<h2>Changes to this Policy</h2>
+		<p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+
+</section>
+				
+
+      
+      <div class="defibrillator"><!--clear!--></div>
+    </section>
+  </div>
+
+  <div class="side_switch">
+    <section>
+    <ul>
+      
+      <li class="twitter">
+        <a href="https://twitter.com/madmimi" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @madmimi</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </li>
+      <li class="facebook">
+        <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fmadmimi&amp;send=false&amp;layout=button_count&amp;show_faces=true&amp;font=lucida+grande&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=152926008054123" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe>
+      </li>
+      <li class="plusone">
+        <div class="g-plusone" data-size="medium" data-annotation="none" data-href="http://madmimi.com"></div>
+        <script type="text/javascript">
+        (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+        </script>
+      </li>
+    </ul>
+      <span>Share</span>
+    </section>
+  </div>
+
+  <footer class="global"> 
+	<span class="bg"></span>
+
+<section>
+  
+    <nav id="nav_footer">
+      <ul>
+        <li>
+          <a title="Mad Mimi on Twitter" target="_blank" class="btn twitter" href="https://twitter.com/madmimi"><span>Twitter</span></a>
+        </li>
+
+        <li>
+          <a title="Mad Mimi on Facebook" target="_blank" class="btn facebook" href="https://facebook.com/madmimi"><span>Facebook</span></a>
+        </li>
+
+        <li>
+          <a title="Mad Mimi on Pinterest" target="_blank" class="btn pinterest" href="https://pinterest.com/madmimi"><span>Pinterest</span></a>
+        </li>
+
+        <li>
+          <a title="Mad Mimi on Google+" target="_blank" rel="publisher" class="btn plusone" href="https://plus.google.com/+madmimi"><span>Google+</span></a>
+        </li>
+      </ul>
+
+      <ul>
+
+        <li>
+          <a href="/contact" class="btn subtle"><span>Contact</span></a>
+        </li>
+
+        <li>
+          <a title="Blog" href="http://blog.madmimi.com" class="btn subtle"><span>Blog</span></a>
+        </li>
+
+        <li>
+          <a href="/press" class="btn subtle"><span>Press</span></a>
+        </li>
+
+        <li>
+          <a href="/legal/terms" class="btn subtle"><span>TOS</span></a>
+        </li>
+
+        <li>
+          <a href="/legal/privacy" class="btn subtle"><span>Privacy</span></a>
+        </li>
+
+        <li>
+          <a href="/developer" class="btn subtle"><span>API</span></a>
+        </li>
+
+        <li>
+          <a title="Help" href="http://help.madmimi.com" target="_blank" class="btn subtle"><span>Help</span></a>
+        </li>
+      </ul>
+    </nav>
+
+    <p class="membership subtle">
+      <span class="maawg">We're members of the
+      <a href="https://maawg.org" title="Messaging Anti-Abuse Working Group" target="_blank">
+        Messaging Anti-Abuse Working Group</a>.
+      Read Mad Mimi's
+      <a href="/legal/privacy">Email Permissions Policy</a>.</span>
+    </p>
+
+    <p class="membership subtle">
+      <span class="bbb">We're accredited members of the <a href="http://www.bbb.org/new-york-city/business-reviews/internet-marketing-services/mad-mimi-llc-in-brooklyn-ny-108588">Better Business Bureau</a>.</span></p>
+
+  
+  <p class="membership copy subtle">
+      © 2008-2013 Mad Mimi, LLC
+  </p>
+</section>
+</footer>
+
+	<script type="text/javascript">
+		if( !Modernizr.fontface  ){ Cufon.now(); }</script>
+  <script src="https://d1lggihq2bt4jo.cloudfront.net/sprockets.js?1367872528" type="text/javascript"></script>
+
+  <script>
     
-    
-    
-    
-      <script type="text/javascript" charset="utf-8">
+        (function() {
+          var s = document.getElementById("account_signin"), l = document.getElementById("account_signin_link");
+          function onSignin(e) {
+            if(!e) e = window.event;
+            s.className == "signin" ? s.className = "signin open" : s.className = "signin"
+            try { document.getElementById("email").focus(); } catch(ex) {};
+            if(e.preventDefault) e.preventDefault();
+            e.returnValue = false;
+            return false;
+          }
+          if(window.addEventListener) {
+            l.addEventListener("click", onSignin);
+          } else if(window.attachEvent) {
+            l.attachEvent("onclick", onSignin);
+          }
+        })();
+      
+
+Widget.MimiFlash.MESSAGES = {};
+
+
+  </script>
+
+
+  
+    <script type="text/javascript" charset="utf-8">
   var _gaq = _gaq || [];
   _gaq.push(["_setAccount", "UA-2630743-1"]);
   _gaq.push(['_setDomainName', '.madmimi.com']);
@@ -29,206 +530,41 @@
   var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-    
-    
-  </head>
-  <body class="application ">
-    <div id="masthead">
-      <div id="headerwrapper">
-        <div id="header">
-          
-          <div id="account_navigation">
-	<!--[if gte IE 7]> <div class="ie-nav-fix"><![endif]-->
-		<ul>
-				
-				<li class="first"><a href="http://madmimi.com/home/contact">Contact</a></li>
-				<li><a href="http://madmimi.com/home/buzz">Buzz</a></li>
-				<li><a title="Blog" href="http://blog.madmimi.com">Blog</a></li>	
-				<li><a href="http://madmimi.com/tour/gallery">Gallery</a></li>
-				<li class="chat-img-hack"><a href="http://madmimi.com/service_agreements/choose_plan">Pricing</a></li> 
-				
-			
-		</ul>
-	<!--[if gte IE 7]></div> <![endif]-->
-</div>
-   
-		        
-          
-<div id="main_navigation">
-	
-	<ul class="nav">
-		
-		
-	   	
-			  		
-			<li class="home-nav nav">
-			
-			<a href="http://madmimi.com/">Home</a>
-			</li>
-			
-				
-			<li class="about-nav nav">
-			
-			<a href="http://madmimi.com/home/about">About</a>
-			</li>
-			
-				   	
-			<li class="tour-nav nav">
-			
-			<a href="http://madmimi.com/tour/features">Features</a>
-			</li>
-			
-			
-			<li class="login-nav nav">
-			
-			
-			<a href="HTTPS://madmimi.com/session/new">Login</a>
-			</li>
-			
-			
-			<li class="pricing-nav nav">
-	   	
-	
-			<a href="http://madmimi.com/service_agreements/choose_plan">Pricing &amp; Sign-up</a>
-			</li>
-			
-		
-	</ul>
-</div>
 
 
-        </div>
-      </div>
-    </div>
-    <div id="container">
-      <div id="main_sidebar">
-
-        
-				&nbsp;
-				
-      </div>
-      
-      <div id="main">
-          <div id="primary">
-						
-<div id="flash" class="no-message"></div>
-
-
-            
-          </div>
-        <div id="content">
-          	<div id="application-sub">
-<h1 class="main-header">Mad Mimi's privacy and permission policy</h1>
-	<p>At Mad Mimi, protecting your privacy and the privacy of anyone receiving your email is very important. These policies are for the purpose of making Mad Mimi safe and appropriate for all.</p>
-
-	
-	<h3>Policy on permission</h3>
-	
-	<p>Mad Mimi is permission-based. That means you need permission to send to the people who receive your emails. Mad Mimi's permission policy is part of the Terms of Use agreed to by every Mad Mimi subscriber, and conforms to Can-Spam regulations.</p>
-	<p>To send an email to someone using Mad Mimi, that recipient must be either someone who is a customer, member or subscriber of your business or organization or who has specifically asked to receive your emails by opting in or signing up in some way, or someone who has bought a product or service from you in the past 18 months.
-		<br>
-</p>
-	
-<h3>Sender Responsibility</h3>
-	  
-	  <p>To send mailings using Mad Mimi, you must follow the guidelines set by the domains you are sending to regarding list management, promotion content, and sending practices.</p>
-          <p>In order to prevent your mailing from being blocked, throttled, or ending up in the spam folder at recipient email providers, you must take all necessary actions to keep your subscriber list sufficiently responsive, follow the email providers' accepted email coding practices (if you use your own custom email code), and make an effort to avoid sending promotions that are likely to be interpreted by the provider as 'spam.'</p>
-          <p>If your mailings do not follow these guidelines they may be considered in violation of the Mad Mimi privacy and permission policy.</p>
-
-<h4>Safety of your personal information</h4>
-	  
-	  <p>Mad Mimi collects certain information about you in order to allow your account to function properly. At any time, you may log in and change this information, or remove it. Under no circumstances will we share your personal information with any third party.</p>
-
-
-<h4>Protecting your customer lists and data</h4>
-	  <p>
-	  Although we reserve the right to monitor your lists, content and response data from time to time to make sure they comply with our Terms of Use, we will never share, sell or rent your customer data to anyone for any reason.<br>
-	  </p>
-	
-<h4>Adhering to the Safe Harbor privacy principles of the U.S. - EU Safe Harbor Framework</h4>
-
-	<p>Mad Mimi adheres to Safe Harbor privacy principles, designed to provide U.S. companies with guidance on how to provide protection of personal information from Europe as required by the European Union's Directive on Data Protection. Recourse is handled through the EU Data Protection Authorities. The United States Department of Commerce's Safe Harbor lists Mad Mimi in a directory of self-certifying companies <a href="http://export.gov/safeharbor" title="United States Department of Commerce's Safe Harbor directory" target="_blank">here</a>.</p><p>
-
-	</p><p>Direct any Safe Harbor inquiries or requests to:<br>
-	Mad Mimi, LLC<br>
-	1 Prospect Park SW<br> 
-	Suite 4N<br>
-	Brooklyn, New York 11215<br>
-	support@madmimi.com</p>
-	 
-<h4>Periodic emails from Mad Mimi</h4>
-
-
-	  <p>From time to time you may receive from us emails related to your account or your use of Mad Mimi. Every email will contain a link for you to be able to opt-out of receiving it.
-	  </p>
-	  
-	<h5>We will not sell or rent your email address. Ever.</h5>
-	  
-	 <h4>Ensuring secure billing transactions</h4>
-
-	  <p>You are asked to supply certain credit card and billing information in order to purchase Mad Mimi's services. That information is transferred, using the most secure transmission technology, to a trusted third party for processing. The information is then encrypted and securely stored to handle your transactions.
-	  </p>
-
-
-</div>
-			
-				
-				
-				
-				
-			
-				
-
-        </div>
-      
-    
-      </div>
-      
-      <div id="secondary_sidebar">
-        
-					&nbsp;
-				
-      </div>
-</div>
-        <div id="footerwrap">
-    <div id="footer">
-	<div id="footer_navigation">
-		
-		<ul>
-			<li><a title="Mad Mimi on Twitter" target="_blank" href="http://twitter.com/madmimi">Twitter</a></li>
-			<li><a title="Mad Mimi on Facebook" target="_blank" href="http://facebook.com/madmimi">Facebook</a></li>
-		
-			<li><a href="http://madmimi.com/home/contact">Contact</a></li>
-			<li><a title="Blog" href="http://blog.madmimi.com">Blog</a></li>
-			<li><a href="http://madmimi.com/legal/terms">TOS</a></li>
-			
-			<li><a href="http://madmimi.com/legal/privacy">Privacy</a></li>
-			<li><a href="http://developer.madmimi.com">Developer API</a></li>
-			<li><a title="Help" href="http://help.madmimi.com" target="_blank">Help</a></li>
-		 	<li><a href="http://madmimi.com/legal/abuse">Abuse Desk</a></li>
-		</ul>
-		
-	
-</div>
-
-	<div id="trust">
-	<p>
-		
-		<a href="http://www.maawg.org/" target="_blank" title="Mad Mimi is a proud member of the Messaging Anti-Abuse Working Group"><img alt="Maawg" src="/images/maawg.png?1306845490"></a> 
-	</p> 
-
-		<p>Invented by Mad Mimi, LLC. Copyright © 2011. All rights reserved.</p> 
-</div>
-</div>
-        </div>
-    
-    
-    
-    
-    
-    
-		  
-    
+<script type="text/javascript">
+var _sf_async_config={uid:46877,domain:"madmimi.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
   
 
-</body></html>
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://www.snapengage.com":"http://www.snapengage.com") + "/snapengage-madmimi.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://www.snapengage.com/snapengage-madmimi.js" type="text/javascript"></script>
+<script type="text/javascript">
+SnapABug.init("d46657f1-9090-4f30-b32f-ffcbbcba91f3");SnapABug.allowOffline(false);
+</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","f43160eaa5","5575","cQxbQBEOXw0HSh1VUVUCWRsTE1oXA1tL",18,57,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
