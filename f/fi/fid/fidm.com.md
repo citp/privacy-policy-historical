@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203213858id_/http%3A//fidm.edu/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507112337id_/http%3A//fidm.edu/en/about/privacy) for the most accurate reproduction.*
 
-# About : FIDM
+# FIDM.edu
 
 FIDM is committed to protecting your privacy. This FIDM Statement of Privacy applies to FIDM's family of web sites and governs online data collection and usage at all FIDM sites and services. Please read the FIDM Statement of Privacy below and any supplementary information at the end of this statement for additional details about particular FIDM sites and services that you may use.
 
