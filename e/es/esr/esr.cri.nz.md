@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212043832id_/http%3A//www.esr.cri.nz/aboutus/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508011250id_/http%3A//www.esr.cri.nz/aboutus/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Environmental Science & Research
+# About us - Privacy Policy
 
 ##### Modern information and communication technologies play a fundamental role in the activities of organisations today. These technologies can impact on your personal privacy.
 
