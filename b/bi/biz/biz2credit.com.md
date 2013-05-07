@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118025759id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507175425id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Biz2credit
 
@@ -153,7 +153,7 @@ If you have any questions about this Policy or our information-handling practice
 
 Or you can write to us at:  
 Privacy Officer   
-Biz2Credit, Inc   
-121 West 27th Street  
+Biz2Credit Inc   
+18th Floor, 333, 7th Avenue   
 New York, NY 10001   
 © 2012 Biz2Credit, Inc. All rights reserved. 
