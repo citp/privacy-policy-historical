@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffnangx.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121143436id_/http%3A//www.nuffnangx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnangx.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507080932id_/http%3A//www.nuffnangx.com/privacy-policy) for the most accurate reproduction.*
 
 # NuffnangX | Privacy Policy
 
