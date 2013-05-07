@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003123id_/http%3A//returnscenter.smartlabel.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507023750id_/http%3A//returnscenter.smartlabel.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Newgistics Privacy Policy
+# Take A Look At Our Privacy Policy| Newgistics Package Shipping
 
 Newgistics has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web sites. The following document discloses our information gathering and dissemination practices for [ www.newgistics.com ](https://web.archive.org/) (collectively, the "Site"). Newgistics reserves the right to change this policy at any time by posting a new privacy policy at this location. Any such change will be effective immediately upon posting.
 
