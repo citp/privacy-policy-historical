@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083821id_/http%3A//www.deancare.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508002925id_/http%3A//www.deancare.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Dean - WI
+# Privacy Policy- Dean - WI
 
 ## Web Privacy
 
@@ -18,13 +18,13 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 ### Notice of Privacy Practices — For Patients of Dean Clinic
 
-Dean Clinic is legally required to protect the privacy of each patient's health information, and doing so is of utmost importance to Dean Clinic. We call this information "protected health information" or PHI. This information includes your personal and demographic information that identifies you and that relates to your past, present or future physical or mental health condition and related health care services. Please read [Dean Clinic's Notice of Privacy Practices](https://web.archive.org/pdf/aboutus/clinic/privacy_deanclinic.pdf) (PDF) for more information.
+Dean Clinic is legally required to protect the privacy of each patient's health information, and doing so is of utmost importance to Dean Clinic. We call this information "protected health information" or PHI. This information includes your personal and demographic information that identifies you and that relates to your past, present or future physical or mental health condition and related health care services. Please read [Dean Clinic's Notice of Privacy Practices](https://web.archive.org/app/files/public/3498/pdf-aboutus-clinic-privacy_deanclinic.pdf) (PDF) for more information.
 
 ### Notice of Privacy Practices — For Members of Dean Health Plan
 
 The privacy of your nonpublic personal health and financial information (collectively referred to as "nonpublic personal information") is of utmost importance to Dean Health Plan. Dean Health Plan protects the confidentiality of the nonpublic personal information we receive on all members, including former members.
 
-Dean Health Plan will not disclose your nonpublic personal information unless we are allowed or required by law to make the disclosure. Please read [Dean Health Plan's Notice of Privacy Practices](https://web.archive.org/pdf/aboutus/plan/privacy_deanhealthplan.pdf) (PDF) for more information. If you have any questions about our privacy policies, please feel free to call Dean Health Plan at 1-800-279-1301.
+Dean Health Plan will not disclose your nonpublic personal information unless we are allowed or required by law to make the disclosure. Please read [Dean Health Plan's Notice of Privacy Practices](https://web.archive.org/app/files/public/3484/pdf-aboutus-plan-privacy_deanhealthplan.pdf) (PDF) for more information. If you have any questions about our privacy policies, please feel free to call Dean Health Plan at 1-800-279-1301.
 
 Dean Health Plan has policies to direct, and procedures to limit, the access of a member's information only to those who have a need and legal right to see that information. We also have a Privacy Committee that has overall responsibility for training, oversight, and enforcement of privacy policies and procedures to safeguard against inappropriate access, use, and disclosure consistent with applicable law.
 
