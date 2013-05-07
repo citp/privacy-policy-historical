@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the dezzain.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004031650id_/http%3A//www.dezzain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dezzain.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507095636id_/http%3A//www.dezzain.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dezzain Studio
+# Privacy Policy - Dezzain.com
+
+[](http://www.dezzain.com/ "Dezzain.com - WordPress and BuddyPress Developer")
+
+
+
 
 At **Dezzain.com** we have no intention of trying to capture any of your personal information, and we do not use cookies to track your online activity. You have no reason to be concerned about the use of your personal information because we’ll never ask you for it.
 
