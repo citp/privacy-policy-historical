@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129070117id_/http%3A//shop.fruit.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507083718id_/http%3A//shop.fruit.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fruit of the Loom
 
