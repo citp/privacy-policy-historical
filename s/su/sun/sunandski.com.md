@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206055522id_/http%3A//www.sunandski.com/Privacy_a/5.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507113417id_/http%3A//www.sunandski.com/Privacy_a/5.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 #### Do we disclose the information we collect to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Sun And Ski Sports. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include www.sunandski.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
