@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycorporation.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227092212id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycorporation.com privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507120442id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<meta charset="UTF-8">
@@ -7,7 +7,8 @@
 	<meta name="description" content="View MyCorporations privacy policies, how we use your information, and more.">
 	<meta name="keywords" content="Privacy Policy, Information Sharing, Legal, Third Party, mycorporation">
 	
-	<!--[if lt IE 9]>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]--><!-- html5 support for internet explorer -->
 
@@ -29,18 +30,38 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/master2012.js"></script>
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:700,400" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:800,700,400" rel="stylesheet" type="text/css">
 <script src="/js/referdetect.js"></script>
 
 
+
+<script type="text/javascript">
+$(document).ready(function() {	
+var mobileChoice = getCookie("mobile");
+if(mobileChoice == null || mobileChoice == false){
+	if( /Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+	var url=confirm("Would you like to use our mobile site?");
+	if (url==true)
+		{
+		var url = window.location.href = 'http://m.mycorporation.com';
+		url.show(); 
+		}
+	else
+		{
+		setCookie("mobile",false,1);
+		}
+	}
+}	
+});	
+</script>
+
 <meta property="og:title" content="Incorporate Online, Incorporation Services, LLC, Trademark &amp; Copyrights | MyCorporation.com">
 <meta property="og:type" content="company">
-<meta property="og:url" content="http://www.mycorporation.com/">
+<meta property="og:url" content="http://www.mycorporation.com/privacy.jsp">
 <meta property="og:image" content="http://www.mycorporation.com/images_2012/common/mycorpBlueLogo.png">
 <meta property="og:site_name" content="MyCorporation Incorporation Services">
 <meta property="fb:admins" content="1738937898">
 <meta property="og:description" content="The Small Business Filing Experts, MyCorporation Helps You Form And Maintain Your Business Quickly And Easily Online.">
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
 <noscript>
 		<link href="/css/noscript.css" type="text/css" rel="stylesheet"/>
 </noscript>
@@ -49,19 +70,16 @@
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=313461732015308";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-<a id="top"></a>
-		
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=313461732015308";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<a id="top"></a>
+	
 
 
 
@@ -72,27 +90,29 @@
 <header>
 	<div id="headerContent">	
 		<div id="logoHeader">
-			<a href="/"><img src="/images_2012/common/mycorporation-logo.png" alt="Incorporate Online, Incorporation Services, LLC, File A Trademark, And Copyrights" title="MyCorporation Incorporation Services"></a>
+			<a href="/"><img src="/images_2012/common/mycorporation-logo.png" alt="Incorporate Online, Incorporation Services, LLC, File A Trademark, And Copyrights" title="MyCorporation Incorporation Services" width="264px"></a>
 		</div> 
 		<div id="headerRight">
 			<div id="headerQuicklinks">
 				<ul>
-					<li><a href="/mycorpweb/start.jsp?_flowId=userAccountInfo-flow&amp;priorityCode=0273400000" title="Log In To Continue A Business Filing Order">MyOrder</a></li>
-					<li><a href="/affiliates.jsp" title="Log In To Place An Order As A MyCorporation Affiliate">MyAffiliate Login</a></li>
-					<li><a href="http://www.mycorpvault.com" title="Online Business Document File Storage - MyCorpVault.com">MyCorpVault</a></li>
-					<li><a href="http://social.mycorporation.com" title="Social Networking Information Designed For Small Business">MyCorpSocial</a></li>
-					<li><a href="http://blog.mycorporation.com" title="Get valuable business tips from the MyCorporation business blog" target="_blank">MyBusiness Blog</a></li>
+					<li><a href="/mycorpweb/start.jsp?_flowId=userAccountInfo-flow&amp;priorityCode=0273400000" title="Log In To Continue A Business Filing Order" class="first" target="_blank">MyOrder</a></li>
+					<li><a href="/affiliates.jsp" title="Log In To Place An Order As A MyCorporation Affiliate" target="_blank">MyAffiliate Login</a></li>
+					<li><a href="http://www.mycorpvault.com" title="Online Business Document File Storage - MyCorpVault.com" target="_blank">MyCorpVault®</a></li>
+					<li><a href="http://social.mycorporation.com" title="Social Networking Information Designed For Small Business" target="_blank">MyCorpSocial®</a></li>
+					<li><a href="http://blog.mycorporation.com" title="Get valuable business tips from the MyCorporation business blog" target="_blank" class="last">MyBusiness Blog</a></li>
 				</ul>
 			</div><!-- headerQuicklinks -->
-			<a href="/contactus.jsp" id="phoneNumberHead" title="Contact MyCorporation Online Business Document Filing Services - Monday Through Friday 7am To 5pm PT - 1(877)692-692-6772"></a><!-- end phoneNumberHead -->
+			<div id="phoneHead">
+				<h2>1(877) 692-6772</h2>
+				<p>Call M-F 7am - 5pm PT (Se Habla Español)</p>
+			</div>
 			<div id="socialIcons">
 				<div id="socialRecommendations">
-					<a id="facebookBtn" href="http://www.facebook.com/MyCorp">Follow MyCorporation On FaceBook</a>
-					<a id="twitterBtn" href="https://twitter.com/mycorporation">Follow MyCorporation On Twitter</a>
-					<a id="linkedinBtn" href="http://www.linkedin.com/company/mycorporation">Find MyCorporation On LinkedIn</a>
-					<a id="googleBtn" href="https://plus.google.com/101517830013120964531/posts">Add Us On Google Plus</a>
-					<a id="youtubeBtn" href="http://www.youtube.com/mycorp8">Watch Our Small Business Youtube Channel</a>
-					<a id="rssBtn" href="http://blog.mycorporation.com/rss">Get The MyCorporation Rss Feed</a>
+					<a class="facebookBtn" href="http://www.facebook.com/MyCorp" target="_blank" title="Official MyCorporation® Facebook Page">Follow MyCorporation® On FaceBook</a>
+					<a class="twitterBtn" href="https://twitter.com/mycorporation" target="_blank" title="Follow MyCorporation® On Twitter">Follow MyCorporation® On Twitter</a>
+					<a class="linkedinBtn" href="http://www.linkedin.com/company/mycorporation" target="_blank" title="MyCorporation® LinkedIn Profile">Find MyCorporation® On LinkedIn</a>
+					<a class="googleBtn" href="https://plus.google.com/101517830013120964531/posts" target="_blank" title="MyCorporation® Google+ Profil">Add Us On Google Plus</a>
+					<a class="rssBtn" href="http://blog.mycorporation.com" style="margin-right:0px;" target="_blank" title="Get Valuable Information and Tips From Our Small Business Blog">Read Our Small Business Blog</a>
 					<!--  <a href="/mycorpweb/order/Incorporation/start.jspx?_flowId=Incorporation-flow&page=quote&priorityCode=0273400000" id="startABusinessBtn" title="Incorporate Or Form An LLC With MyCorporation Business Document Filing Services">Start Your Business</a> -->
 					
 				</div><!-- socialRecommendations -->
@@ -101,11 +121,10 @@
 	</div><!-- end headerContent -->
 </header>
 	
-		<nav>
+	<nav>
 <div class="white" id="whiteContainer"> 
 <div id="navContainer">
 <ul id="mega-menu-9" class="mega-menu" style="overflow: hidden;">
-	
 	<li><a href="/business-formations/" class="main">Start a Business</a>
 		
 		<ul>
@@ -131,7 +150,7 @@
 					<li><a href="/corporation-llc-documents/corporate_kits.jsp">Corporate Kit, Seal, Embosser</a></li>
 					<li><a href="http://www.startersuccess.com/mycorp/bplan/default.asp?Affid=d791fd69-90cc-47f5-b1e6-138563fe5f1a" target="_blank">Business Plan Builder</a></li>
 					<li><a href="/business-formations/s-corporations.jsp">S Corporation Election</a></li>
-					<li><a href="/business-formations/business-name-availability.jsp"><strong>Free</strong> Business Name Check</a></li>
+					<li><a href="/business-formations/business-name-availability.jsp">Free Business Name Check</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -225,14 +244,14 @@
 					<li><a href="/learningcenter/separate-business-entity.jsp">Separate Owner and Entity</a></li>
 					<li><h2>Learning Resources</h2></li>
 					<li><a href="http://archive.constantcontact.com/fs088/1102909337298/archive/1105189707319.html" target="_blank">Business Newsletter Archive</a></li>
+					<li><a href="/free-startup-consultation/" target="_blank">Get a Free Consultation</a></li>
 				</ul>
 			</li>
-			
 		</ul>
 	</li>
 	<li><a href="/partners/" class="main">Partners</a>
 		<ul>
-			<li><a href="/partners/" class="menu-title" title="Valuable Business Tools Included With Every Incorporation Package">Partner with MyCorporation® and view special small business offers</a>
+			<li><a href="https://turbotaxcpaselect.intuit.com/?utm_content=MyCorp-Vertical%20Placement%201A&amp;utm_medium=Display&amp;utm_source=MyCorporation+Business+Services%2C+Inc&amp;utm_campaign=Vertical%20Placement%201&amp;utm_term=230x120p%20logo&amp;transaction_id=10227376eacb783e1698c74e016ef3" class="menu-title" title="Valuable Business Tools Included With Every Incorporation Package">Partner with MyCorporation® and view special small business offers</a>
 				<ul>
 					<li><h2>Affilate Program</h2></li>
 					<li><a href="/business-advisors/">Affiliates &amp; Affiliate Program</a></li>
@@ -249,8 +268,7 @@
 					<li><a href="/partners/partners_marketing.jsp">Marketing Your Business</a></li>
 					<li><a href="/partners/partners_business.jsp">Business Planning Tools</a></li>
 					<li><a href="/partners/partners_guidance.jsp">Guidance And Resources</a></li>
-					<li><a href="/partners/partners_credit.jsp">Credit Partners</a></li>
-					<li id="featuredPartner" title="Featured Business Partner Offer"><a href="/partners/"></a></li>
+					<li id="featuredPartner" title="Featured Business Partner Offer"><a href="http://www.paloalto.com/business_plan_software?affiliate=4c51ec7643968&amp;a_bid=3a065ca7" target="_blank"></a></li>
 				</ul>
 			</li>
 		</ul>
@@ -268,11 +286,11 @@
 </div> 
 </div><!-- end white -->
 </nav>
-		<div class="whiteContent">
-			<div class="whiteContentInner">
-				 	
+	<div class="whiteContent">
+		<div class="whiteContentInner">
+			 	
+			
 				
-					
 
 
 
@@ -404,33 +422,29 @@
 
 <a href="#top">Back To Top</a>
 				
+			<br class="clearFloat"> 
+			<div id="topBanner">
+				
+					<ul id="breadcrumb">
+						<li class="last"><a href="/" title="MyCorporation Home Page">Home&nbsp; ›</a></li>
 						
-			   		<br class="clearFloat"> 
-					<div id="topBanner">
-						
-						<ul id="breadcrumb">
-							<li class="last"><a href="/" title="MyCorporation Home Page">Home&nbsp; ›</a></li>
-					 		
-							<li class="noLink">Privacy Policy</li>
-						</ul><!-- end breadcrumb -->
-							
-					</div><!-- topBanner -->
-					<br class="clearFloat">
-			</div><!-- end whiteContentInner -->
-			<div class="whiteBottom"></div>	
-		</div><!-- end whiteContent -->
-		
+						<li class="noLink">Privacy Policy</li>
+					</ul><!-- end breadcrumb -->
+					
+			</div><!-- topBanner -->
+			<br class="clearFloat">
+		</div><!-- end whiteContentInner -->	
+	</div><!-- end whiteContent -->
+	
 
 
 
-
+				<div id="footerShadow"></div>
 				<!-- Start Footer -->
 				<footer>
-					<div id="footerShadow"></div>
 						<div id="footerContent">
 							<div id="footerNavigationMain">
 								<ul>
-									
 									<li><a href="/contactus.jsp" class="first">Contact Us</a></li>
 									<li><a href="/aboutus.jsp">About Us</a></li>
 									<li><a href="/faq/">FAQ</a></li>
@@ -439,8 +453,8 @@
 									<li><a href="/privacy.jsp">Privacy Notice</a></li>
 									<li><a href="/support.jsp">Support</a></li>
 									<li><a href="/press.jsp">Press</a></li>
-									<li><a href="/careers/" class="last">Careers</a></li>
-									<li id="consultLi"><a href="#consultationdialog" id="consultationButton" name="modal">Free Startup Consultation</a></li>
+									<li><a href="/careers/">Careers</a></li>
+									<li><a href="/free-startup-consultation/" class="last">Free Startup Consultation</a></li>
 									
 								</ul>
 							</div><!-- footerNavigationMain -->
@@ -498,19 +512,35 @@
 								<br>
 								<a href="http://www.la.bbb.org/business-reviews/Incorporating-Companies/MyCorporationCom-in-Calabasas-CA-13100989" class="bbbLink"></a>
 							</div><!-- footerRight -->
-							
-							
 							<div class="fineprint">
 							<br>
 								<p>
 									Terms and conditions, features, support, pricing and service options subject to change without notice.
 									Intuit and QuickBooks are registered trademarks of Intuit, Inc.
-									Copyright © 1997-2012, MyCorporation All Rights Reserved.
+									Copyright © 1997-2013, MyCorporation All Rights Reserved.
 									MyCorporation is a Document Filing Service and CANNOT provide you with legal or financial advice. The information on the website is designed to provide accurate and authoritative information in regard to the subject matter covered. It is presented with the understanding that MyCorporation is not engaged in rendering legal, accounting or other professional services. If legal advice or other professional assistance is required, the services of a competent professional person should be sought. From a Declaration of Principles jointly adopted by a Committee of the American Bar Association and a Committee of Publishers and Associations.</p>
 							</div><!--end fineprint-->
 						</div><!-- footerContent -->
 						
 				</footer>
+				<div id="socialShareFooter">
+					<div class="container">
+						<div id="socialShareFooterContent">
+							<span class="st_facebook_hcount" displaytext="Facebook"></span>
+							<span class="st_twitter_hcount" st_via="MyCorporation" displaytext="Tweet"></span>
+							<span class="st_linkedin_hcount" displaytext="LinkedIn"></span>
+							<span class="st_googleplus_hcount" displaytext="Google +"></span>
+							<span class="st_email_hcount" displaytext="Email"></span>
+						</div>
+						<div id="socialLinksGlobal">
+							<a class="facebookBtn" href="http://www.facebook.com/MyCorp" target="_blank">Follow MyCorporation On FaceBook</a>
+							<a class="twitterBtn" href="https://twitter.com/mycorporation" target="_blank">Follow MyCorporation On Twitter</a>
+							<a class="linkedinBtn" href="http://www.linkedin.com/company/mycorporation" target="_blank">Find MyCorporation On LinkedIn</a>
+							<a class="googleBtn" href="https://plus.google.com/101517830013120964531/posts" target="_blank">Add Us On Google Plus</a>
+							<a class="rssBtn" href="http://blog.mycorporation.com" style="margin-right:0px;" target="_blank">Read Our Small Business Blog</a>
+						</div>
+					</div>
+				</div>
 				<!-- End Footer -->
 				
 
@@ -599,64 +629,40 @@
  </div>
 </div>
 				
-
-<!-- Modal Window-->
-<script type="text/javascript">
-$(function() {
-	$('#freeConsultation #defaultReal').realperson({includeNumbers: true});
-});
+<!-- NavMenu-->
+<script>
+	$(document).ready(function($){
+	$('#mega-menu-9').dcMegaMenu({
+		rowItems: '3',
+		speed: 'fast',
+		effect: 'fade',
+		arrow:'false',
+		onLoad : function(){
+			// Check for Ui Utems that need to be hidden //	
+			document.getElementById("mega-menu-9").style.overflow = 'visible';
+			document.getElementById("whiteContainer").style.position = 'static';
+			if(document.getElementById("slidcont")){
+				document.getElementById("slidcont").style.visibility = 'visible';
+			}
+			if(document.getElementById("dropdownInputs")){
+				document.getElementById("dropdownInputs").style.visibility = 'visible';
+			}
+			if(document.getElementById("outerMyCorpSearch")){
+				document.getElementById("outerMyCorpSearch").style.visibility = 'visible';
+			}
+			}
+	});
+	});
 </script>
-<div class="boxes">
-    <!-- #customize your modal window here -->
-    <div id="consultationdialog" class="window">
-    <p class="consultationModalPanelHeader">Free Business Start Up Consultation </p>
-    <a href="#" class="close" onclick="formReset(freeConsultation);">Close</a> 
-    <div class="consultationModalContent">
-      <p>Please fill out the following information to schedule your completely <strong>FREE</strong> consultation.</p>
-      <p>All form fields are required.</p> 
-      <div id="validationErrors-freeConsultation"></div>
-		<form id="freeConsultation" method="post" action="/emailsender/" onsubmit="return validateConsulationForm(this);">
-			<div class="dropdownContainer">
-			<table>
-				<tbody><tr>
-					<td><label for="customerName">Name:</label></td>
-					<td><input type="text" name="customerName" id="customerName" size="22"></td>
-				</tr>
-				<tr>
-					<td><label for="customerEmail">Email:</label></td>
-					<td><input type="text" name="customerEmail" id="customerEmail" size="22"></td>
-				</tr>
-				<tr>
-					<td><label for="customerPhone">Phone Number:</label></td>
-					<td><input type="text" name="customerPhone" id="customerPhone" size="22"></td>
-				</tr>
-				<tr>
-					<td class="alignTop"><label for="customerMessage">Message:</label></td>
-					<td><textarea id="customerMessage" name="customerMessage" rows="3"></textarea></td>
-				</tr>
-			<tr><td class="alignTop"><label>Enter the letters shown:</label></td>
-     		<td><input type="text" id="defaultReal" name="defaultReal"></td></tr>
-	        </tbody></table>	  
-			
-			<input type="hidden" id="sel1" name="sel1" value="1">
-			<input type="hidden" id="sel2" name="sel2" value="1">
-			<input type="hidden" id="confURL" name="confURL" value="/thankyou/thank-you.jsp">	
-			<input type="hidden" name="location" id="location" value="https://web.archive.org/web/20121227092212id_/http%3A//www.mycorporation.com/privacy.jsp">
-		<script>
-			document.getElementById('location').value = window.location.href;
-		</script>
-	   <input id="consultationSubmit" name="submit" type="submit" value="Submit" class="consultationModalWindowButton">
-	   <h5 class="needAssistance">Need Help? <span class="number">Call
-		1-877-692-6772</span></h5>
-		<br class="clearFloat">
-	    </div>
-	    </form>
-	    </div>       
-		<!-- close button is defined as close class -->
- </div>
-</div>
-				
-<!--activate mega menu, then set it visible with call back-->
+<!-- End NavMenu-->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 
 <script type="text/javascript" src="/js/common.js"></script>
 <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
@@ -683,43 +689,93 @@ window.onload = function(){
 </script><!-- addroll -->
 <script type="text/javascript" src="/js/master2012.js"></script>
 <script type="text/javascript" src="/js/captcha-2012.js"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "97b16732-458f-4014-99c6-671089cc690e", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 <!-- Steelhouse retargeting pixel: -->
-<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9246&amp;cb=7124601033933271"></script><script type="text/javascript">
-// tracking pixel
-var aid='9246';
-var additional = ''; // add additional arguments here. please start off with '&'
-(function(){steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d)}else if(a.attachEvent){a.attachEvent("on"+b,c)}},load:function(){var a;if(typeof a=='undefined'){a=Math.random()*10000000000000000}var b=document.createElement('script');var c='px.steelhousemedia.com/st?aid='+aid+'&cb='+a+additional;b.type='text/javascript';b.src=('https:'==document.location.protocol?'https://':'http://')+c;var d=document.getElementsByTagName('script');var e=Number(d.length)-1;var f=document.getElementsByTagName('script')[e];f.parentNode.insertBefore(b,f)}};steelhouse.load();})();
-</script>
+	<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9246&amp;cb=4984008580104979"></script><script type="text/javascript">
+	// tracking pixel
+	var aid='9246';
+	var additional = ''; // add additional arguments here. please start off with '&'
+	(function(){steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d)}else if(a.attachEvent){a.attachEvent("on"+b,c)}},load:function(){var a;if(typeof a=='undefined'){a=Math.random()*10000000000000000}var b=document.createElement('script');var c='px.steelhousemedia.com/st?aid='+aid+'&cb='+a+additional;b.type='text/javascript';b.src=('https:'==document.location.protocol?'https://':'http://')+c;var d=document.getElementsByTagName('script');var e=Number(d.length)-1;var f=document.getElementsByTagName('script')[e];f.parentNode.insertBefore(b,f)}};steelhouse.load();})();
+	</script>
+<!-- End Steelhouse retargeting pixel: -->	
 
 
 
 				
 
 
+	<!--  Business Slide Out Panel -->
+	<div class="panelPop">
+		<h2 class="freeConsultationTitle">Free Consultation</h2>
+		<p>Contact us today and we can answer your incorporation questions for free and help you start your business today.</p>
 		
-		
+
+
 <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<script>
-	$(document).ready(function($){
-	$('#mega-menu-9').dcMegaMenu({
-		rowItems: '3',
-		speed: 'fast',
-		effect: 'fade',
-		arrow:'false',
-		onLoad : function(){
-			document.getElementById("mega-menu-9").style.overflow = 'visible';
-			document.getElementById("whiteContainer").style.position = 'static';
-			}
-	});
+	$(function() {
+		$('#freeConsultation #defaultReal').realperson({includeNumbers: true});
 	});
 </script>
+
+      
+		<form id="freeConsultation" method="post" action="/emailsender/" onsubmit="return validateConsulationForm(this);">
+			<div class="dropdownContainer">
+				<table>
+					<tbody><tr>
+						<td><label for="customerName">Name:</label></td>
+						<td><input type="text" name="customerName" id="customerName" size="25"></td>
+					</tr>
+					<tr>
+						<td><label for="customerEmail">Email:</label></td>
+						<td><input type="text" name="customerEmail" id="customerEmail" size="25"></td>
+					</tr>
+					<tr>
+						<td><label for="customerPhone">Phone:</label></td>
+						<td><input type="text" name="customerPhone" id="customerPhone" size="25"></td>
+					</tr>
+					<tr>
+						<td class="alignTop"><label for="customerMessage">Message:</label></td>
+						<td><textarea id="customerMessage" name="customerMessage" rows="3"></textarea></td>
+					</tr>
+					<tr>
+						<td class="alignTop" style="padding-right:10px;"><label>Enter Captcha:</label></td>
+	    				<td><input type="text" id="defaultReal" name="defaultReal"></td>
+	    			</tr>
+	    			<tr>
+						<td class="alignTop"></td>
+	    				<td><input id="consultationSubmit" name="submit" type="submit" value="Ask For Free!" class="consultationModalWindowButton"></td>
+	    			</tr>
+		        </tbody></table>	  
+			
+				<input type="hidden" id="sel1" name="sel1" value="1">
+				<input type="hidden" id="sel2" name="sel2" value="1">
+				<input type="hidden" id="confURL" name="confURL" value="/thankyou/thank-you.jsp">	
+				<input type="hidden" name="location" id="location" value="https://web.archive.org/web/20130507120442id_/http%3A//www.mycorporation.com/privacy.jsp">
+				<script>
+					document.getElementById('location').value = window.location.href;
+				</script>
+	   		
+			<br class="clearFloat">
+	    </div>
+	    <div id="validationErrors-freeConsultation"></div>
+	  	</form>      
+
+		
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$(".trigger").click(function(){
+			$(".panelPop").toggle("fast");
+			$(this).toggleClass("active");
+			return false;
+		});
+	});
+	</script>
+<!-- end Business Slide Out Panel-->
+<a class="trigger" href="#">Need Help?&nbsp;<span>Click Here</span></a>
 
 
 
