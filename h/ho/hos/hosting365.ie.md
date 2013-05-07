@@ -1,48 +1,83 @@
-> *The following text is extracted and transformed from the hosting365.ie privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424013138id_/http%3A//www.sungardas.ie/Company/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting365.ie privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508000527id_/http%3A//www.register365.com/company-privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Register365
 
-**Privacy  
-** This web site (“Site”) is operated by SunGard Availability Services (Ireland) Limited (company number 350330) The registered office of the company is Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland
+### GENERAL
 
-We take privacy very seriously. Please read this Statement carefully to see how we will treat any information about you that you provide to us. Once you use this Site you will be regarded as having accepted this privacy policy. If you do not accept this privacy policy do not use this Site.
+This privacy statement discloses the privacy practices for Namesco Ireland Limited in relation to this Register 365 website ("the Website"):
 
-**The information you provide  
-** Apart from the information we collect about visits to our Site described in ‘Cookies’ below or by becoming a customer, also described below, we collect information from you only when you submit a Contact Form to us.
+"we", "us" and "our" refer collectively to Namesco Ireland Limited ("Namesco") (Company number 456946) trading as Register365 ("Register 365") having its registered office at South Bank House, Barrow Street, Dublin 4 and its Group Companies (from time to time). "Group Companies" means Namesco, its Holding Companies, its Subsidiaries and the Subsidiaries of any of its Holding Companies from time to time ("Holding Company" and "Subsidiary" having the meanings set out in Section 155 of the Companies Act 1963). Namesco Limited is part of the Dada group of companies.
 
-If you submit a Contact Form we then ask you to give us enough information to enable us to respond to your request. If you are enquiring on behalf of your company about our products or services, we will also ask you to provide us with your company’s name and address and your job title.
+Your privacy is important to us. This privacy policy is intended to give you confidence in the privacy and security of the personal information we obtain from you whether you upload information to this Website, download it, or are merely visiting.
 
-By using this website you consent to us using your data in this way.
+Please note that we are not responsible for any use of your personal information you provide to third party websites that may be accessed via this Website. You will therefore need to review the privacy policy of any third party websites that you use.
 
-**Cookies**  
-We use cookies to collect information about visits to our Site to help us provide a better service. We keep track of the domains from which people visit our Site and measure visitor activity on our Site, but do so in a way that keeps the information anonymous. An individual is not identified unless he or she voluntarily gives us personal identification online. We use the information to analyse visits to our Sites so that we may measure the traffic through our servers, the level of interest in topics, and make our Sites more useful to visitors.
+### COLLECTION OF PERSONAL INFORMATION
 
-A cookie is an element of text that is sent to your computer and identifies your computer. You can set your computer to disable cookies if you wish.
+When you use this Website you may be asked for personally identifiable information such as your name, address, date of birth, email address and telephone number. You may also be asked for financial information for billing and payment purposes. By giving us such information you agree to our using it in the manner described in this policy. 
 
-**How we use the information  
-** We use the information you provide to us to respond to your enquiry (information from cookies is used as described above). Your information is not sold to or shared with unaffiliated third parties for their independent marketing purposes.
+You may withdraw your consent to our use of your personal information for this purpose at any time by emailing us at support@register365.com and we will aim to process this request within 5 days of receipt of your withdrawal of consent.
 
-If you have enquired about products or services, we may wish to send you information from time to time about us and our products and services. Similarly, other companies in the SunGard group of companies may wish to send you information about them or their products and services. If you do not wish to receive this information please write to: C/O SunGard Availability Services Ireland, Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland.
+Cookie information, pages you have requested and your IP address may also be recorded by us from your browser as set out in this Privacy Policy.
 
-We will not use your information for purposes that are not clear when you provide your details and we will not disclose it outside of SunGard except in very limited circumstances, for example, with your agreement or if we are legally obliged to do so.
+### OUR CAPACITY AS DATA PROCESSOR
 
-We take reasonable care to keep any information provided to us secure and to prevent any unauthorised access or use of it.
+As part of the services we provide to you, we may host and store the personal data of your customers (for example through our provision of web hosting, e-mail transmission and data storage services to you). This is done in our capacity as a data processor and we are not ultimately in control of what happens to this data. Our processing of such personal data will be in accordance with the Data Protection Acts 1988 and 2003 and any agreement with the relevant data processor.
 
-**Customers  
-** If you become a customer of ours and you wish to register to use our dedicated customer website at support.sungardas.ie, we will provide you with your initial password which you will be required to change when using that site for the first time. You are responsible for all actions taken by using that password and shall only use or utilise the site by using your own password. You must use every effort to keep your password safe and must not disclose it to any other person under any circumstances whatsoever unless you obtain our prior written agreement. You shall not transfer or sell your password to any other person or company. You shall also not permit, either directly or indirectly, any other person to utilise your password.  You must notify us immediately if you become aware of any unauthorised use of your password.
+### USE OF PERSONAL INFORMATION
 
-You warrant, represent and undertake that any information which you provide when you register as a user shall be up to date, true and accurate in all respects, and you agree to notify us immediately of any changes to such information.
+We may use your information to process your service requests, provide access to secure areas of the Website, to personalise your visit to the Website and to enable us to review, develop and continually improve the services we provide online. We also use this information to prevent or detect fraud or abuses of our Website and to enable third parties to carry out technical, logistical or other functions on our behalf.
 
-You agree to indemnify and hold us and our affiliates and agents and our and their officers, directors and employees harmless from any liabilities, costs (including legal fees), expenses, demands and damages (direct, indirect or consequential) of any nature howsoever incurred and arising out of or in any way related to any unauthorised use of your password through your failure to maintain the secrecy of your password and / or other security details.
+If you do not wish to continue to receive such information from Register365 and its Group Companies or third parties, please e-mail support@register365.com or alternatively when we send you an e-mail, follow the instructions at the end of the message explaining how you can opt-out of receiving any further information from us.
 
-**Right to access the information  
-** You can ask us whether we are keeping personal information about you, and you can request a copy of that information. You may do this by contacting C/O SunGard Availability Services Ireland ,Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland for an application form. We may require you to provide verification of your identity and to pay an administrative fee (which is currently €10) to provide a copy of the information that we hold. Please note that in certain circumstances we may withhold access to this information where we have the right to do so under current data protection legislation, for example, where disclosing the information may reveal the identity of a third party.
+### DISCLOSURE OF PERSONAL INFORMATION
 
-**Updating your information  
-** In the event that there is a change to any information that you provide to us, please let us know of this by writing to The Marketing Dept, SunGard Availability Services, Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland so that we can keep your information up to date and accurate.
+Any disclosure of personal information will be strictly controlled and made fully in accordance with current Irish legislation, in particular the Data Protection Acts 1988 and 2003. 
 
-**Changes to and queries about the Privacy Statement  
-** We may change this Privacy Statement from time to time. We will put a notice on our home page advising when this happens.
+We may provide information about you to third parties, our employees and agents in order to administer any accounts and services provided to you by Register365 and its Group Companies. Any access to or use by third parties of personal information provided by you will only be to perform functions on our behalf related to purposes set out in this Privacy Policy and may not be used for any other purpose.
 
-If you have any queries about our Privacy Statement, please contact SunGard Availability Services, Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland  
+Should you breach our terms and conditions or any Website terms of use or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose your information to a relevant authority. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
+We may share aggregated statistical demographic information about you with our partners and advertisers. This information is anonymised.
+
+You agree that we may disclose your personal information to third parties in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets and their advisers. Any disclosure of personal information will be strictly controlled and made fully in accordance with the Data Protection Acts 1988 and 2003.
+
+### TRANSFER OF YOUR DATA OUTSIDE OF THE EEA
+
+As part of the services offered to you through this Website, the information you provide to us may be transferred to countries outside of the European Economic Area ("EEA"). These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
+
+### RIGHT TO ACCESS YOUR PERSONAL INFORMATION
+
+The Data Protection Act 1998 gives you the right to access information held about you. You can obtain access to your personal information held by us by sending a cheque for €10 (to cover administration costs for collating this information), made payable to "Register365", to: Data Protection Officer, South Bank House, Barrow Street, Dublin 4. If you have any questions about Register365’s Data Protection Policy please write to our Data Protection Officer or e-mail us at support@register365.com. We may ask you to give evidence of your identity before providing such access.
+
+We always endeavour to make sure that the information we hold about you is accurate and up to date, if you believe that any information we are holding on you is incorrect or incomplete, please write to us or e-mail us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+### COOKIES AND LOG FILES
+
+We may create and access cookies (a piece of information which is stored on your computer and allows us to identify if you have visited the site before) on your PC. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read them and personal information cannot be gathered from them. They are simply an identifier shared between you and us to allow us to improve the services we offer to you through our Website. 
+
+If you do not wish cookies to be placed on your PC, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your use of our Website as well as other websites and interactive services.
+
+We use IP addresses to analyse trends, administer the Website and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+
+### SECURITY
+
+We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+
+When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting staff or a customer care representative) are granted access to personally identifiable information.
+
+If you have any further concerns about security, please email our Customer Service team at support@register365.com
+
+### E-MAIL
+
+Wherever possible, Register365 and its Group Companies sets security standards to prevent any unauthorised access to your personal data. However any information and personal data carried over the Internet and by e-mail is not secure and is liable to interception, loss, redirection and corruption by other people unless it is encrypted by you. 
+
+### OPT – OUT
+
+If you use this Website to purchase services you may occasionally receive information on products, services, special deals, and a newsletter. If you no longer wish to receive our newsletter or promotional materials from our partners you may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or by contacting us directly.
+
+### POLICY CHANGES
+
+Changes in this policy will be posted on our Website. You are advised to check our Website regularly to view our most recent privacy policy.
