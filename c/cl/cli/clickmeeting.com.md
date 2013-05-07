@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickmeeting.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202152914id_/http%3A//www.clickmeeting.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmeeting.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507064632id_/http%3A//www.clickmeeting.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Video Conferencing, Web Conference - Privacy Policy - ClickMeeting
 
@@ -150,4 +150,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 We need the user's help in keeping the Personal Information they have shared with us accurate and up-to-date.
 
-For additional inquiries about the privacy of the user's information, they can always contact Implix via email at [support@clickmeeting.com](https://web.archive.org/web/20121202152914id_/http%3A//www.clickmeeting.com/support@clickmeeting.com), by calling 1-877-725-425-2.
+For additional inquiries about the privacy of the user's information, they can always contact Implix via email at [support@clickmeeting.com](https://web.archive.org/web/20130507064632id_/http%3A//www.clickmeeting.com/support@clickmeeting.com), by calling 1-877-725-425-2.
