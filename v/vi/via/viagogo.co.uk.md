@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113212531id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507091906id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
 # 
 
@@ -82,7 +82,7 @@ You can always submit concerns regarding our Privacy Policy or our privacy pract
 
 **viagogo**  
 Attn: Privacy Team  
-viagogo, Rue de Jargonnant 2, 1207 Geneva, CH 
+viagogo AG, Avenue industrielle 4-6, 1227 Carouge GE, Switzerland 
 
 Thank you for using viagogo! 
 
