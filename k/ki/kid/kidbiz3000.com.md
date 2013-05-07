@@ -1,59 +1,28 @@
-> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106201719id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508005933id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Achieve3000® is committed to assuring the privacy of its subscribers and users. Our privacy policy is designed to protect your information and create a safe browsing experience on our Website.
+Achieve3000 is committed to assuring the privacy of its subscribers and users.
 
-**What information do we collect?**
+All Achieve3000 subscribers are provided with a private user name and password, which allows students to gain access to the websites to which they are subscribed and teachers to track student progress and assignments.
 
-We collect information from you when you register on our site or fill out a form.
+#### Individually Identifiable Personal Information
 
-When registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways:
-
-  * To personalize your experience — Your information helps us to better respond to your individual needs
-  * To improve our Website — We continually strive to improve our Website offerings based on the information and feedback we receive from you
-  * To send periodic e-mails — The e-mail address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. (Note: If at any time you would like to unsubscribe from receiving future -emails, we include detailed unsubscribe instructions at the bottom of each e-mail)
-
+  * Achieve3000 complies with applicable provisions of the Children's Online Privacy Protection Act (CPPA), which regulates how the operators of commercial websites directed to children may collect, use and disclose individually identifiable personal information concerning children under the age of 13.
+  * Educational institutions that use our products must comply with applicable provisions of the Family Educational Rights and Privacy Act (FERPA) which gives parents certain rights with respect to a school’s use of their children's education records.
+  * Achieve3000 provides website user names and passwords to students under the age of 13 only after the student's school has obtained verifiable parental consent for Achieve3000 to collect, use and disclose individually identifiable personal information concerning such students.
+  * In order to enable Achieve3000 to provide student users of our websites individualized content, and teachers and school administrators reports on individual students' academic progress during their use of these services, schools provide Achieve3000 certain individually identifiable information about student users of these services - including students' names and academic levels. This information is used by Achieve3000 and its agents solely for these internal purposes.
+  * Achieve3000 does not collect any more personal information than reasonably necessary to provide individualized content, to enable participation in student contests and to generate reports on individual student academic progress.
+  * Achieve3000 does not request individually identifiable information from children other than in response to their requests for a subscription or to participate in a student contest, and does not condition participation in student contests on students disclosing more information than is reasonably necessary for their participation.
+  * Nor does Achieve3000 collect any individually identifiable information through the use of cookie technology or sell or otherwise transfer any student personal information to any third party (other than to Achieve3000 subcontractors who are contractually obligated to use such information only to provide Achieve3000 services).
+  * Parents can review the information that Achieve3000 has collected from their child, withdraw their consent to Achieve3000's further use of such information or direct the deletion of such information by contacting [office@achieve3000.com](mailto:office@achieve3000.com).
 
 
-**How do we protect your information?**
 
-We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential.
+Achieve3000 ensures that all information that it receives is secure against unauthorized access by maintaining it on a secure system that is isolated from direct connection to the Internet.
 
-**Do we use cookies?**
+It is Achieve3000's policy to limit student identity information posted on its sites to the student's first name, first initial of last name, state, and age or grade.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Throughout our web sites we include links to other web sites. Our privacy policy does not apply to these external links, and we make no representations concerning the privacy policies followed by those websites. We urge parents and teachers to learn more about protecting children on the Internet by visiting the following sites: [U.S. Dept. of Education's Internet Safety](http://www.ed.gov/edblogs/technology/) and [SafeKids.com](http://www.safekids.com/).
 
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our Website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
-
-**Children's Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our Website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our Website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-[www.achieve3000.com](https://web.archive.org/web/20121106201719id_/)   
-1985 Cedar Bridge Ave   
-Lakewood, NJ 08701  
-United States  
-[support@achieve3000.com](mailto:support@achieve3000.com)
+Please feel free to contact us if you have any questions regarding this policy.
