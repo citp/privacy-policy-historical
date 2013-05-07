@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114053209id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507133847id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : 7Tune.com
 
   
 
-
-Your ads will be inserted here by
-
- **[Easy AdSense Pro](http://buy.thulasidas.com/easy-adsense "The most popular AdSense Plugin for WordPress")**.
-
-Please go to the plugin admin page to paste your ad code.
 
 PRIVACY POLICY for www.7tune.com  
 At 7Tune we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by “<http://www.legalcentre.co.uk/ecommerce/privacy-policy-template.php>” website privacy policy provider LegalCentre.co.uk.  
@@ -56,16 +50,3 @@ You mind find links to third party websites on our website. These websites shoul
 
 **Contacting Us**  
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. [Please do not hesitate to contact us](http://www.7tune.com/contact-page/).
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=PRIVACY%20POLICY%20for%20www.7tune.com%0D%0AAt%207Tune%20we%20are%20dedicated%20to%20safeguarding%20and%20preserving%20your%20privacy%20when%20visiting%20our%20site%20or%20communicating%20electronically%20with%20us.%20Our%20Privacy%20Policy%20has%20been%20provided%20and%20approved%20by%20%22http%3A%2F%2Fwww.legalcentre.co.uk "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&srcTitle=7Tune.com+Japanese+Cars%2C+News%2C+Rumors+and+Events+direct+from+Japan. "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&source=7Tune.com+Japanese+Cars%2C+News%2C+Rumors+and+Events+direct+from+Japan.&summary=PRIVACY%20POLICY%20for%20www.7tune.com%0D%0AAt%207Tune%20we%20are%20dedicated%20to%20safeguarding%20and%20preserving%20your%20privacy%20when%20visiting%20our%20site%20or%20communicating%20electronically%20with%20us.%20Our%20Privacy%20Policy%20has%20been%20provided%20and%20approved%20by%20%22http%3A%2F%2Fwww.legalcentre.co.uk "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
