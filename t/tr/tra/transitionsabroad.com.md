@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023112849id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507051115id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
 
-# TransitionsAbroad.com Privacy Policy
+# www.TransitionsAbroad.com Privacy Policy
 
 Transitions Abroad Publishing, Inc. 
 
 Privacy Policy Statement 
 
-This statement discloses the privacy practices for Web sites maintained by **Transitions Abroad Publishing,** including **TransitionsAbroad.com** and **WorkingTraveler.com**. For further information please contact us at [webmaster@TransitionsAbroad.com](mailto:webmaster@TransitionsAbroad.com). 
+This statement discloses the privacy practices for website maintained by **Transitions Abroad Publishing** , **Inc**., named www.TransitionsAbroad.com. For further information please contact us at [webmaster@TransitionsAbroad.com](mailto:webmaster@TransitionsAbroad.com). 
 
 Since Internet technologies and standards are changing rapidly, these guidelines are subject to change. Changes will be posted to this page as they occur. 
 
-The privacy of our visitors to TransitionsAbroad.com is important to us.
+The privacy of our visitors to www.TransitionsAbroad.com is important to us. We do not send out out, for example, newsletters to those who have not signed up for the service with us, nor do we pass such information on to others.
 
-At TransitionsAbroad.com we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TransitionsAbroad.com, and how we safeguard your information. We never sell your personal information to third parties.
+At www.TransitionsAbroad.com we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.TransitionsAbroad.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 Log Files
 
@@ -20,20 +20,20 @@ As with most other websites, we collect and use the data contained in log files.
 
 **Cookies and Web Beacons**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. 
+www,TransitionsAbroad.com uses cookies to store information , but no personally identifiable information when you visit our site. 
 
-We also use third party advertisements on TransitionsAbroad.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing work abroad opportunities outside the U.S. to someone living in the U.S., for example) or showing certain ads based on specific sites visited (such as showing travel ads to someone who frequents travel sites).
-
-**DoubleClick DART cookies**
-
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Paris, you may see Paris hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does **NOT** track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx)  
+We do use third party advertisements on www.TransitionsAbroad.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing work abroad opportunities outside the U.S. to someone living in the U.S., for example) or showing certain ads based on specific sites visited (such as showing travel ads to someone who frequents travel sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Deleting cookies also does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/).
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
+  * You may also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+  * Vist the [Google Privacy Policy](http://www.google.com/policies/privacy/) page for more information.
 
-**Shout Out**
 
-Thanks to [AdrienTNT](http://www.adriantnt.com/) for the buttons. 
+
+The cookies of other [third-party vendors or ad networks](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=94149) may also be used to serve ads on our site. You may visit third-party vendors or ad networks to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
