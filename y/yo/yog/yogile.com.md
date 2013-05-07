@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yogile.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192521id_/http%3A//www.yogile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogile.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507091014id_/http%3A//www.yogile.com/privacy) for the most accurate reproduction.*
 
 # Yogile - Easy photo sharing!
 
 ### What information do we collect?
 
-Nyana ("Yogile", "we," "us," "our") collects information from you when you register on our site or place an order.
+Monon B.V. ("Yogile", "we," "us," "our") collects information from you when you register on our site or place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously.
 
