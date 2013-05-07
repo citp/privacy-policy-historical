@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicycling.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217031207id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicycling.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508013710id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
@@ -57,7 +57,7 @@ The information we collect allows us to customize the content and/or layout of o
 In addition, Rodale may make certain PII and other information available to trusted third parties that work with us to provide products and services to our customers, that help us with marketing campaigns, or that intend to market products and services to you directly. These companies are obligated to protect the information they receive.
 
 **Your California Privacy Rights**  
-As described above, from time to time, we make your PII available to third parties. If you do not want us to share your PII with other companies or organizations, you may opt-out of this information sharing by doing any one of the following: 1) accessing the form at <http://www.rodale.com/cs/privacy.html>; 2) calling us at 866-387-0509; or writing to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098. This notice is designed to comply with California's "Shine the Light" law, but the opt-out option is available to all of our users.
+As described above, from time to time, we make your PII available to third parties. If you do not want us to share your PII with other companies or organizations, you may opt-out of this information sharing by doing any one of the following: 1) accessing the form at <http://www.rodale.com/cs/customer_contact_form.php>; 2) calling us at 866-387-0509; or writing to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098. This notice is designed to comply with California's "Shine the Light" law, but the opt-out option is available to all of our users.
 
 **Updating Your Account and Contact Information**  
 Upon request, we will update your personal account information (e.g., customer number), access your account status (outstanding balance), and update your contact information (i.e., name, address, phone number). For more information or to update an account, please visit <http://www.rodaleinc.com/customer-service>. If you prefer, you may write to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
