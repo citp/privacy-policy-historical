@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016102126id_/http%3A//www.impactradius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507075011id_/http%3A//www.impactradius.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Impact Radius
 
@@ -72,6 +72,8 @@ If in the future you decide that you do not want us to email you regarding new p
 **7\. Cookies** _(a) All visitors_ "Cookies" are small text files that contain a string of alpha-numeric characters and are used to associate an action taken by a browser with subsequent actions taken by that browser. Web beacons are small strings of HTML code that are placed in a Web page, and are sometimes called "clear GIFs" (Graphics Interchange Format) or "pixel tags." Web beacons are most often used in conjunction with cookies. 
 
 We place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver Impact Radius web content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on the Impact Radius website. 
+
+You can remove cookies by following directions provided in your Internet browser’s “help” file. In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust. Cookies from Impact Radius may be stored under one or more of the following domains: impactradius.com, 7eer.net, evyy.net and/or ojrq.net. 
 
 _(b) Minors_ Impact Radius does not knowingly collect any personal information about individuals under eighteen (18) years of age. If Impact Radius obtains actual knowledge that it has collected personal data about an individual under eighteen (18) years of age, that personal data will be immediately deleted from its database. 
 
