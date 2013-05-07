@@ -1,36 +1,20 @@
-> *The following text is extracted and transformed from the tamilstylez.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624164235id_/http%3A//tamilstylez.net/forum/page.php%3Ftsz%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilstylez.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508001218id_/http%3A//www.majaa.net/privacy_policy.php) for the most accurate reproduction.*
 
-# TamilStyleZ.Net - Privacy Policy
+# MaJaa.NET - Privacy Policy
 
-The time now is Sun Jun 24, 2007 4:42 pm 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@majaa.net.  
+At MaJaa.NET, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.majaa.net and how it is used.  
+Log Files  
+Like many other Web sites, http://www.majaa.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
+Cookies and Web Beacons  
+http://www.majaa.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.   
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on http://www.majaa.net.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to http://www.majaa.net and other sites on the Internet   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense
 
- 
-
-| TamilStyleZ.Net - Privacy Policy  
----  
-  
-### TamilStyleZ.Net Privacy Policy
-
-At TamilStyleZ.Net we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use TamilStyleZ.Net's forum, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
-
-### Personal information and other data we collect
-
-* TamilStyleZ.Net collects personal information when you register for a TamilStyleZ.Net service or otherwise voluntarily provide such information.  
-* TamilStyleZ.Net uses cookies and other technologies to enhance your online experience.  
-* TamilStyleZ.Net's servers automatically record information when you visit our website, including the URL, IP address, browser type and the date and time of your request.
-
-### Uses
-
-* We may use personal information for auditing, research and analysis to operate and improve TamilStyleZ.Net technologies.  
-* We may share aggregated non-personal information with third parties outside of TamilStyleZ.Net.  
-* When we use third parties to assist us in processing your personal information, we require that they comply with our [Privacy Policy](https://web.archive.org/web/20070624164235id_/http%3A//tamilstylez.net/forum/page.php?tsz=privacy) and any other appropriate confidentiality and security measures.  
-* We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network.
-
-### Your choices
-
-* You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.  
-* We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
-
-### More information
-
-For more information about our privacy practices, please [contact us](https://web.archive.org/web/20070624164235id_/http%3A//tamilstylez.net/forum/page.php?tsz=support) any time. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.majaa.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+MaJaa.NET has no access to or control over these cookies that are used by third-party advertisers.  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.majaa.net privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
