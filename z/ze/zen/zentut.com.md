@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107125355id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508003146id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,3 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 If we decide to change our privacy policy, we will post those changes on our homepage.
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
-
-### ZenTut
-
-Web Technologist and Software Engineer with experience in Web development and ERP.
