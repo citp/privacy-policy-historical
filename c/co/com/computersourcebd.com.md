@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computersourcebd.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816124017id_/http%3A//www.computersourcebd.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computersourcebd.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507112451id_/http%3A//www.computersourcebd.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Computer Source | Privacy Policy
 
