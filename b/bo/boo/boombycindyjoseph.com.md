@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boombycindyjoseph.com privacy policy that was archived on 2012-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120705005743id_/http%3A//www.boombycindyjoseph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boombycindyjoseph.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507111740id_/http%3A//www.boombycindyjoseph.com/privacy) for the most accurate reproduction.*
 
 # BOOM! By Cindy Joseph - Privacy
 
