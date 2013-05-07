@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wahgifts.com privacy policy that was archived on 2012-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104120755id_/http%3A//www.wahgifts.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wahgifts.com privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507025631id_/http%3A//wahgifts.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <base href="http://www.wahgifts.com/">
@@ -8,14 +8,14 @@
 <meta name="Author" content="WoodpeckerTechnologies.com">
 <meta name="Keywords" content="">
 <meta name="Description" content="">
-<link href="assets/css/style.css" rel="stylesheet" type="text/css">
+<link href="assets/css/style.css?time=1367895391" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<style type="text/css">
 		body
 		{
 			background-color:#1775c3;
-			background:url("admin/themes/diwali/diwali-bg.gif");
-		}
+							background:url("uploads/themes/default/default-bg.jpg");
+						}
 		a.WahGiftsLogo
 		{
 			float:left;	
@@ -23,7 +23,7 @@
 			height:128px;
 			display:block;
 			text-indent:-9999px;
-			background:url("admin/themes/diwali/diwali-logo.gif") no-repeat;
+			background:url("uploads/themes/default/default-logo.gif") no-repeat;
 		}
 	</style>
 	<link media="only screen and (max-device-width: 480px)" href="assets/css/mstyle.css" type="text/css" rel="stylesheet">
@@ -34,6 +34,7 @@
 <script type="text/javascript">
 	function getGetsValue(PageLocation)
 	{
+		return true;
 		$.ajax({url:"dbbyajax.php?&Mode=getGetValues&PageLocation="+encodeURIComponent(PageLocation),success: function(GetValue)
 		{
 			if(GetValue != 'Error')
@@ -68,6 +69,7 @@
 	{ 		   
 		var RowNo			= $(".ProductContainer:last").attr("row-no");
 		var SQLCondition	= $("#SQLCondition").attr("value");
+		var GetVariables	= $("#SQLCondition").attr("GetVariables");
 		var TotalProductsListed	=	$(".ProductContainerAnchor").length;
 		
 		var LoadNoOfProductsOnScrolling =  '';
@@ -83,13 +85,13 @@
 		}
 		
 		$('div#LastProductLoader').html('<img src="assets/images/loader.gif" style="margin-top:70px; margin-bottom:70px;">');
-		$.get("dbbyajax.php","&Mode=LoadDynamicData&RowNo="+RowNo+"&SQLCondition="+SQLCondition+"&TotalProductsListed="+TotalProductsListed+"&LoadNoOfProductsOnScrolling="+LoadNoOfProductsOnScrolling+"&ShowCorporatePrice="+ShowCorporatePrice,
+		$.get("dbbyajax.php","&Mode=LoadDynamicData&RowNo="+RowNo+"&SQLCondition="+SQLCondition+"&GetVariables="+GetVariables+"&TotalProductsListed="+TotalProductsListed+"&LoadNoOfProductsOnScrolling="+LoadNoOfProductsOnScrolling+"&ShowCorporatePrice="+ShowCorporatePrice,
 		function(data)
 		{
 			if (data != "")
 			{
 				$(".ProductContainerAnchor:last").after(data);	
-				document.getElementById('IsAjaxLoaded').value	=	1;
+				document.getElementById('IsAjaxLoaded').value =	1;
 				
 				$("img.lazy").lazyload({
 					event: "load",
@@ -206,18 +208,30 @@
 	}); 
 
 	function CallLoadPageFunction()
-	{
-		var RelValStr	=	document.getElementById('Relation').value;
-		var RelValArr	=	RelValStr.split('-::-');
-		var RelCod		=	RelValArr[0];
-		var RelID		=	RelValArr[1];
-		if(RelID  == 'undefined' || RelID == null)
-		{
-			RelID = "";
-		}
-		var UrlString	=	'searchresults.php?&RID='+RelCod+'&ReID='+RelID+'&CID='+document.getElementById('Category').value+'&Range='+document.getElementById('PriceRange').value+'&OID='+document.getElementById('Occasion').value;
-
-		LoadPage(UrlString);
+	{		
+		var Occasion = document.getElementById('Occasion').value;
+		var Relation = document.getElementById('Relation').value;
+		var Category = document.getElementById('Category').value;
+		var PriceRange = document.getElementById('PriceRange').value;
+	
+		var UrlString =	"";
+					if(Occasion != null && Occasion != '')
+			{
+				UrlString += '/'+Occasion;
+			}
+			if(Relation != null && Relation != '')
+			{
+				UrlString += '/'+Relation;
+			}
+			if(Category != null && Category != '')
+			{
+				UrlString += '/'+Category;
+			}
+			if(PriceRange != null && PriceRange != '')
+			{
+				UrlString += '/'+PriceRange;
+			}
+					LoadPage(UrlString);
 	}
 	function strrpos (haystack, needle)
 	{
@@ -282,7 +296,7 @@
 				{
 					PageLocation = PageLocation+"?DonotInclude=Yes";
 				}
-				//PageLocation = PageLocation+"";
+				/*PageLocation = PageLocation+"";*/
 				
 				$('#PageContentLoading').show();
 				$.ajax({url:PageLocation,success: function(data)
@@ -349,7 +363,7 @@
 				
 				$('#PageContentLoading').show();
 
-				$.ajax({url:PageLocation,success: function(data)
+				$.ajax({url:PageLocation+"?&DonotInclude=Yes",success: function(data)
 				{
 					$('#PageContentLoading').hide();
 					$('#ContentContainer').empty().html(data);
@@ -398,9 +412,11 @@
 <script src="assets/colorbox/jquery.colorbox.js"></script>
 <script>
 	$(document).ready(function(){
-		$(".AddToCart").colorbox({iframe:true, width:"800px", height:"452px"});
+		$(".AddToCart").colorbox({iframe:true, width:"940px", height:"465px"});
 		$(".Login").colorbox({inline:true, width:"630px", height:"273px",scrolling:false,onComplete:function(){$('#PopupLoginEmail').focus();}});
 		$(".Signup").colorbox({inline:true, width:"630px", height:"314px",scrolling:false,onComplete:function(){$('#RegEmail').focus();}});
+		$(".CheckCODAvailability").colorbox({inline:true, width:"630px", height:"314px",scrolling:false,onComplete:function(){$('#CheckCODZipCode').focus();},onClosed:function(){$('#CheckCODZipCode').val('');$('#CODZipCodeAvailabilityErrorWrapper').html('');}});
+		$(".SendProductEnquiry").colorbox({inline:true, width:"440px", height:"350px",scrolling:false,onComplete:function(){SendProductEnquiryFocus();},onClosed:function(){SendProductEnquiryClear();}});
 		$("body").addClass("historypushed");
 	});
 </script>
@@ -424,6 +440,7 @@
 
 				lastXhr = $.getJSON( "search.php", request, function( data, status, xhr ) {
 					cache[ term ] = data;
+					console.debug(data);
 					if ( xhr === lastXhr ) {
 						response( data );
 					}
@@ -431,6 +448,15 @@
 			}
 		});
 	});
+
+	function GotToURL()
+	{
+		var ServerUrl = 'http://www.wahgifts.com';
+		var ServerURI = '/privacy-policy';
+		//alert(ServerUrl+ServerURI);
+		window.location.href=ServerUrl+ServerURI;
+		//RefererURL='.base64_encode("http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']).'
+	}
 </script>
 	<!--Start of Zopim Live Chat Script-->
 	<script type="text/javascript">
@@ -454,18 +480,18 @@
 	}(document, 'script', 'facebook-jssdk'));</script>
 
 		<center>
-		<div class="TopColorFullStrip"></div>
+				<div class="TopColorFullStrip"></div>
 		<div class="BlueFullStrip">
 			<div class="Container">
 				<span class="CallUs">Call Us : +91- 78 38 32 66 88</span>
 				<!-- <span class="CallTimings">Timings : 9:00am to 9:00pm(7 days)</span> -->
-				<span class="CallTimings" style="background:url('test_image.gif') no-repeat; background-position: center left; width:350px;">All India Shipping and Cash On Delivery FREE</span>
+				<span class="CallTimings" style="background:url('test_image.gif') no-repeat; background-position: center left; width:420px;">All India Shipping and COD FREE for orders above Rs. 500</span>
 				<div class="TopFBLikeButton"><fb:like href="http://www.facebook.com/WahGifts" send="false" layout="button_count" width="100" height="18" show_faces="false" font="arial" style="border:none; overflow:hidden;"></fb:like></div>
 				<div class="SignupNLoginTopLinkWrapper" style="float:right;">
 										<div id="UnLoggedInDiv" style="display:block; width:180px;">
-						<a href="#SignupContainer" class="Signup LightGrayText">Signup</a>
+						<a href="#SignupContainer" class="Signup LightGrayText" title="Signup">Signup</a>
 						<span class="RefundPolicy LightGrayText"> | </span>
-						<a href="#LoginContainer" class="Login LightGrayText">Login</a>
+						<a href="#LoginContainer" class="Login LightGrayText" title="Login">Login</a>
 						<br class="clear">
 					</div>
 					<div id="LoggedInDiv" style="display:none;">
@@ -479,11 +505,11 @@
 						<div class="LoggedInUserDropDownMenuContainer" style="display:none; z-index:9;">
 							
 <ul>
-	<li><a href="my_account.php">My Account</a></li>
-	<li><a href="orders.php">My Orders</a></li>
-	<li><a href="wishlist.php">My Wishlist</a></li>
-	<li><a href="recommendations_for_me.php">Recommendations For You</a></li>
-	<li><a href="index.php?logout=1">Logout</a></li>
+	<li><a href="account">My Account</a></li>
+	<li><a href="my-orders">My Orders</a></li>
+	<li><a href="wishlist">My Wishlist</a></li>
+	<li><a href="recommendations-for-you">Recommendations For You</a></li>
+	<li><a href="/?logout=1">Logout</a></li>
 </ul>						</div>
 					</div>
 				</div>
@@ -494,8 +520,28 @@
 			</div>
 		</div>
 		<div class="Container">
-								<div style="position:relative;">
-					<a href="index.php" class="WahGiftsLogo" title="WahGifts.com">WahGifts.com Logo</a>
+				<style>
+	#ApplySearchChangesDiv
+	{
+		position:absolute;
+		z-index:999999;
+		background-color:#b5e026;
+		border:2px solid #fff;
+		border-top:0px;
+		padding:5px 10px;
+		top:11px;
+		left:400px;
+		box-shadow:  0px 4px 10px 1px #e9e9e9 #000;
+		-moz-box-shadow:  0px 4px 10px 1px #e9e9e9;
+		-o-box-shadow:  0px 4px 10px 1px #e9e9e9;
+		/*-webkit-box-shadow: 1px 0px 10px 2px rgba(0, 0, 0, 0.2);*/
+		/*-webkit-box-shadow: 0px 4px 10px 1px #e9e9e9*/
+		-webkit-box-shadow: 0px 4px 10px 1px #d1d1d1;
+		display:none;
+	}
+</style>
+				<div style="position:relative;">
+					<a href="/" class="WahGiftsLogo" title="WahGifts.com">WahGifts.com Logo</a>
 					<div class="MyCartContainer" style="z-index:1; margin-top:15px;">
 						<a href="viewcart.php" class="MyCart AddToCart">
 							<div class="ItemsInMyCart" id="ItemsInMyCart">0</div>
@@ -517,7 +563,7 @@
 											<br class="clear">
 										</td>
 										<td align="right" width="14" valign="top">
-											<a href="javascript:void(0);" class="CloseCartInfoToolContainer"></a>									
+											<a href="javascript:void(0);" class="CloseCartInfoToolContainer"></a>
 										</td>
 									</tr>
 								</tbody></table>
@@ -527,7 +573,7 @@
 											<a href="viewcart.php" class="CartInfoToolViewCartLink AddToCart">View Shopping Cart</a>
 										</td>
 										<td align="right">
-											<a href="checklogin.php" class="Button Blue" style="padding:5px 4px 5px 4px;">CheckOut</a>
+											<a href="checkout" class="Button Blue" style="padding:5px 4px 5px 4px;">CheckOut</a>
 										</td>
 									</tr>
 								</tbody></table>
@@ -545,7 +591,7 @@
 	}
 </style>
 <div class="NavigationBarWrapper">
-	<a href="index.php" class="Home" title="Home"> Home </a>
+	<a href="/" class="Home" title="Home"> Home </a>
 	<div class="NavigationCenter">				
 		<table border="0" cellpadding="0" cellspacing="0" align="center">
 			<tbody><tr>
@@ -553,40 +599,37 @@
 					<div id="dropmenu1_a" class="dropmenudiv_a">
 						<table border="0" cellpadding="0" cellspacing="5" width="100%" onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';" class="DropDownBG">
 							<tbody><tr>
-							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="searchresults.php?OID=ANVD" title="Anniversary" rev="tag">Anniversary</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=BDJ" title="Bhai Duj" rev="tag">Bhai Duj</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=BDAY" title="Birthday" rev="tag">Birthday</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=BRD" title="Brother's Day" rev="tag">Brother's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=CRD" title="Children's Day" rev="tag">Children's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=CHCD" title="Chocolate Day" rev="tag">Chocolate Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=CRS" title="Christmas" rev="tag">Christmas</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=DRD" title="Daughter's Day" rev="tag">Daughter's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=DWL" title="Diwali" rev="tag">Diwali</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=EID" title="Eid" rev="tag">Eid</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=FRD" title="Father's Day" rev="tag">Father's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=FND" title="Friendship Day" rev="tag">Friendship Day</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="searchresults.php?OID=GNC" title="Ganesh Chaturthi" rev="tag">Ganesh Chaturthi</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=HL" title="Holi" rev="tag">Holi</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=HW" title="House Warming" rev="tag">House Warming</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=KRC" title="Karva Chauth" rev="tag">Karva Chauth</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=LTCD" title="Literacy Day" rev="tag">Literacy Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=MRGD" title="Marriage" rev="tag">Marriage</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=RCPD" title="Marriage Reception" rev="tag">Marriage Reception</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=MUD" title="Miss U Day" rev="tag">Miss U Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=MRD" title="Mother's Day" rev="tag">Mother's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=NYD" title="New Years" rev="tag">New Years</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=RBN" title="Raksha Bandhan" rev="tag">Raksha Bandhan</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=RNGD" title="Ring Ceremony" rev="tag">Ring Ceremony</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="searchresults.php?OID=RKCD" title="Roka Ceremony" rev="tag">Roka Ceremony</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=RSD" title="Rose Day" rev="tag">Rose Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=SRD" title="Sister's Day" rev="tag">Sister's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=SND" title="Son's Day" rev="tag">Son's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=SYD" title="Sorry Day" rev="tag">Sorry Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=TRD" title="Teacher's Day" rev="tag">Teacher's Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=TDY" title="Teddy Day" rev="tag">Teddy Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=TYD" title="Thank You Day" rev="tag">Thank You Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=TGD" title="Thanks Giving Day" rev="tag">Thanks Giving Day</a></td></tr>
-																<tr><td valign="top"><a href="searchresults.php?OID=VND" title="Valentine's Day" rev="tag">Valentine's Day</a></td></tr>
+							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="anniversary" title="Anniversary" rev="tag">Anniversary</a></td></tr>
+																<tr><td valign="top"><a href="bhai-duj" title="Bhai Duj" rev="tag">Bhai Duj</a></td></tr>
+																<tr><td valign="top"><a href="birthday" title="Birthday" rev="tag">Birthday</a></td></tr>
+																<tr><td valign="top"><a href="brothers-day" title="Brother's Day" rev="tag">Brother's Day</a></td></tr>
+																<tr><td valign="top"><a href="childrens-day" title="Children's Day" rev="tag">Children's Day</a></td></tr>
+																<tr><td valign="top"><a href="chocolate-day" title="Chocolate Day" rev="tag">Chocolate Day</a></td></tr>
+																<tr><td valign="top"><a href="christmas" title="Christmas" rev="tag">Christmas</a></td></tr>
+																<tr><td valign="top"><a href="daughters-day" title="Daughter's Day" rev="tag">Daughter's Day</a></td></tr>
+																<tr><td valign="top"><a href="diwali" title="Diwali" rev="tag">Diwali</a></td></tr>
+																<tr><td valign="top"><a href="eid" title="Eid" rev="tag">Eid</a></td></tr>
+																<tr><td valign="top"><a href="fathers-day" title="Father's Day" rev="tag">Father's Day</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="friendship-day" title="Friendship Day" rev="tag">Friendship Day</a></td></tr>
+																<tr><td valign="top"><a href="ganesh-chaturthi" title="Ganesh Chaturthi" rev="tag">Ganesh Chaturthi</a></td></tr>
+																<tr><td valign="top"><a href="holi" title="Holi" rev="tag">Holi</a></td></tr>
+																<tr><td valign="top"><a href="house-warming" title="House Warming" rev="tag">House Warming</a></td></tr>
+																<tr><td valign="top"><a href="karva-chauth" title="Karva Chauth" rev="tag">Karva Chauth</a></td></tr>
+																<tr><td valign="top"><a href="marriage" title="Marriage" rev="tag">Marriage</a></td></tr>
+																<tr><td valign="top"><a href="marriage-reception" title="Marriage Reception" rev="tag">Marriage Reception</a></td></tr>
+																<tr><td valign="top"><a href="miss-u-day" title="Miss U Day" rev="tag">Miss U Day</a></td></tr>
+																<tr><td valign="top"><a href="mothers-day" title="Mother's Day" rev="tag">Mother's Day</a></td></tr>
+																<tr><td valign="top"><a href="new-years" title="New Years" rev="tag">New Years</a></td></tr>
+																<tr><td valign="top"><a href="raksha-bandhan" title="Raksha Bandhan" rev="tag">Raksha Bandhan</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="ring-ceremony" title="Ring Ceremony" rev="tag">Ring Ceremony</a></td></tr>
+																<tr><td valign="top"><a href="roka-ceremony" title="Roka Ceremony" rev="tag">Roka Ceremony</a></td></tr>
+																<tr><td valign="top"><a href="rose-day" title="Rose Day" rev="tag">Rose Day</a></td></tr>
+																<tr><td valign="top"><a href="sisters-day" title="Sister's Day" rev="tag">Sister's Day</a></td></tr>
+																<tr><td valign="top"><a href="sons-day" title="Son's Day" rev="tag">Son's Day</a></td></tr>
+																<tr><td valign="top"><a href="sorry-day" title="Sorry Day" rev="tag">Sorry Day</a></td></tr>
+																<tr><td valign="top"><a href="teachers-day" title="Teacher's Day" rev="tag">Teacher's Day</a></td></tr>
+																<tr><td valign="top"><a href="thank-you-day" title="Thank You Day" rev="tag">Thank You Day</a></td></tr>
+																<tr><td valign="top"><a href="valentines-day" title="Valentine's Day" rev="tag">Valentine's Day</a></td></tr>
 								</tbody></table></td>							</tr>
 						</tbody></table>
 						<!-- <div onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';">
@@ -599,54 +642,54 @@
 					<div id="dropmenu2_a" class="dropmenudiv_a">
 						<table border="0" cellpadding="0" cellspacing="5" width="100%" onmouseover="document.getElementById('Nav2').className='selected';" onmouseout="document.getElementById('Nav2').className='';" class="DropDownBG">
 							<tbody><tr>
-							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=6" title="Aunt" rev="tag">Aunt</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SINL&amp;ReID=35" title="Bhabhi" rev="tag">Bhabhi</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=OFFF&amp;ReID=29" title="Boss-Female" rev="tag">Boss-Female</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=OFFM&amp;ReID=28" title="Boss-Male " rev="tag">Boss-Male </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=BF&amp;ReID=50" title="Boyfriend" rev="tag">Boyfriend</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=BNL&amp;ReID=11" title="Brother-in-Law" rev="tag">Brother-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=BR&amp;ReID=3" title="Brother/Bhai" rev="tag">Brother/Bhai</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=30" title="Bua Ji" rev="tag">Bua Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=47" title="Chacha Ji" rev="tag">Chacha Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=32" title="Chachi Ji" rev="tag">Chachi Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=OFFF&amp;ReID=41" title="Colleague-Female" rev="tag">Colleague-Female</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=OFFM&amp;ReID=40" title="Colleague-Male" rev="tag">Colleague-Male</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=BR&amp;ReID=43" title="Cousin-Brother" rev="tag">Cousin-Brother</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SR&amp;ReID=42" title="Cousin-Sister" rev="tag">Cousin-Sister</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=DNL&amp;ReID=10" title="Daughter-in-Law" rev="tag">Daughter-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=DR&amp;ReID=7" title="Daughter/Beti" rev="tag">Daughter/Beti</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?RID=FIL&amp;ReID=27" title="Father-in-Law" rev="tag">Father-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=FR&amp;ReID=1" title="Father/Papa" rev="tag">Father/Papa</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=FRNDF&amp;ReID=51" title="Friend-Female" rev="tag">Friend-Female</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=FRNDM&amp;ReID=22" title="Friend-Male" rev="tag">Friend-Male</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=49" title="Fuffar/Fufa Ji" rev="tag">Fuffar/Fufa Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=GF&amp;ReID=26" title="Girl Friend" rev="tag">Girl Friend</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=GDR&amp;ReID=16" title="Granddaughter/Poti/Doti" rev="tag">Granddaughter/Poti/Doti</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=GFR&amp;ReID=13" title="Grandfather/Dada/Nana" rev="tag">Grandfather/Dada/Nana</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=GMR&amp;ReID=14" title="Grandmother/Dadi/Naani" rev="tag">Grandmother/Dadi/Naani</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=GSN&amp;ReID=15" title="Grandson/Pota/Dota" rev="tag">Grandson/Pota/Dota</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=HBD&amp;ReID=17" title="Husband" rev="tag">Husband</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SNL&amp;ReID=38" title="Jija Ji" rev="tag">Jija Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=46" title="Maama Ji" rev="tag">Maama Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=33" title="Maami Ji" rev="tag">Maami Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=48" title="Massar/Mausa Ji" rev="tag">Massar/Mausa Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=31" title="Massi/Mausi Ji" rev="tag">Massi/Mausi Ji</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?RID=MR&amp;ReID=2" title="Mother/Maa/Mummy" rev="tag">Mother/Maa/Mummy</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=NPW&amp;ReID=20" title="Nephew" rev="tag">Nephew</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=NIC&amp;ReID=21" title="Niece" rev="tag">Niece</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=OFFF&amp;ReID=44" title="Official-Female" rev="tag">Official-Female</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=OFFM&amp;ReID=39" title="Official-Male" rev="tag">Official-Male</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SNL&amp;ReID=37" title="Saala" rev="tag">Saala</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SINL&amp;ReID=36" title="Saali" rev="tag">Saali</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SINL&amp;ReID=12" title="Sister-in-Law" rev="tag">Sister-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SR&amp;ReID=4" title="Sister/Behan" rev="tag">Sister/Behan</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SNL&amp;ReID=9" title="Son-in-Law" rev="tag">Son-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=SN&amp;ReID=8" title="Son/Beta" rev="tag">Son/Beta</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=45" title="Taya Ji" rev="tag">Taya Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=AN&amp;ReID=34" title="Tayi Ji" rev="tag">Tayi Ji</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=TR&amp;ReID=24" title="Teacher" rev="tag">Teacher</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=UL&amp;ReID=5" title="Uncle" rev="tag">Uncle</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?RID=WF&amp;ReID=18" title="Wife" rev="tag">Wife</a></td></tr>
+							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="aunt" title="Aunt" rev="tag">Aunt</a></td></tr>
+																<tr><td class="Value"><a href="bhabhi" title="Bhabhi" rev="tag">Bhabhi</a></td></tr>
+																<tr><td class="Value"><a href="boss-female" title="Boss-Female" rev="tag">Boss-Female</a></td></tr>
+																<tr><td class="Value"><a href="boss-male" title="Boss-Male" rev="tag">Boss-Male</a></td></tr>
+																<tr><td class="Value"><a href="boyfriend" title="Boyfriend" rev="tag">Boyfriend</a></td></tr>
+																<tr><td class="Value"><a href="brother-in-law" title="Brother-in-Law" rev="tag">Brother-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="brother-or-bhai" title="Brother/Bhai" rev="tag">Brother/Bhai</a></td></tr>
+																<tr><td class="Value"><a href="bua-ji" title="Bua Ji" rev="tag">Bua Ji</a></td></tr>
+																<tr><td class="Value"><a href="chacha-ji" title="Chacha Ji" rev="tag">Chacha Ji</a></td></tr>
+																<tr><td class="Value"><a href="chachi-ji" title="Chachi Ji" rev="tag">Chachi Ji</a></td></tr>
+																<tr><td class="Value"><a href="colleague-female" title="Colleague-Female" rev="tag">Colleague-Female</a></td></tr>
+																<tr><td class="Value"><a href="colleague-male" title="Colleague-Male" rev="tag">Colleague-Male</a></td></tr>
+																<tr><td class="Value"><a href="cousin-brother" title="Cousin-Brother" rev="tag">Cousin-Brother</a></td></tr>
+																<tr><td class="Value"><a href="cousin-sister" title="Cousin-Sister" rev="tag">Cousin-Sister</a></td></tr>
+																<tr><td class="Value"><a href="daughter-in-law" title="Daughter-in-Law" rev="tag">Daughter-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="daughter-or-beti" title="Daughter/Beti" rev="tag">Daughter/Beti</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="father-in-law" title="Father-in-Law" rev="tag">Father-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="father-or-papa" title="Father/Papa" rev="tag">Father/Papa</a></td></tr>
+																<tr><td class="Value"><a href="friend-female" title="Friend-Female" rev="tag">Friend-Female</a></td></tr>
+																<tr><td class="Value"><a href="friend-male" title="Friend-Male" rev="tag">Friend-Male</a></td></tr>
+																<tr><td class="Value"><a href="fuffar-or-fufa-ji" title="Fuffar/Fufa Ji" rev="tag">Fuffar/Fufa Ji</a></td></tr>
+																<tr><td class="Value"><a href="girl-friend" title="Girl Friend" rev="tag">Girl Friend</a></td></tr>
+																<tr><td class="Value"><a href="granddaughter-or-poti-or-doti" title="Granddaughter/Poti/Doti" rev="tag">Granddaughter/Poti/Doti</a></td></tr>
+																<tr><td class="Value"><a href="grandfather-or-dada-or-nana" title="Grandfather/Dada/Nana" rev="tag">Grandfather/Dada/Nana</a></td></tr>
+																<tr><td class="Value"><a href="grandmother-or-dadi-or-naani" title="Grandmother/Dadi/Naani" rev="tag">Grandmother/Dadi/Naani</a></td></tr>
+																<tr><td class="Value"><a href="grandson-or-pota-or-dota" title="Grandson/Pota/Dota" rev="tag">Grandson/Pota/Dota</a></td></tr>
+																<tr><td class="Value"><a href="husband" title="Husband" rev="tag">Husband</a></td></tr>
+																<tr><td class="Value"><a href="jija-ji" title="Jija Ji" rev="tag">Jija Ji</a></td></tr>
+																<tr><td class="Value"><a href="maama-ji" title="Maama Ji" rev="tag">Maama Ji</a></td></tr>
+																<tr><td class="Value"><a href="maami-ji" title="Maami Ji" rev="tag">Maami Ji</a></td></tr>
+																<tr><td class="Value"><a href="massar-or-mausa-ji" title="Massar/Mausa Ji" rev="tag">Massar/Mausa Ji</a></td></tr>
+																<tr><td class="Value"><a href="massi-or-mausi-ji" title="Massi/Mausi Ji" rev="tag">Massi/Mausi Ji</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="mother-or-maa-or-mummy" title="Mother/Maa/Mummy" rev="tag">Mother/Maa/Mummy</a></td></tr>
+																<tr><td class="Value"><a href="nephew" title="Nephew" rev="tag">Nephew</a></td></tr>
+																<tr><td class="Value"><a href="niece" title="Niece" rev="tag">Niece</a></td></tr>
+																<tr><td class="Value"><a href="official-female" title="Official-Female" rev="tag">Official-Female</a></td></tr>
+																<tr><td class="Value"><a href="official-male" title="Official-Male" rev="tag">Official-Male</a></td></tr>
+																<tr><td class="Value"><a href="saala" title="Saala" rev="tag">Saala</a></td></tr>
+																<tr><td class="Value"><a href="saali" title="Saali" rev="tag">Saali</a></td></tr>
+																<tr><td class="Value"><a href="sister-in-law" title="Sister-in-Law" rev="tag">Sister-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="sister-or-behan" title="Sister/Behan" rev="tag">Sister/Behan</a></td></tr>
+																<tr><td class="Value"><a href="son-in-law" title="Son-in-Law" rev="tag">Son-in-Law</a></td></tr>
+																<tr><td class="Value"><a href="son-or-beta" title="Son/Beta" rev="tag">Son/Beta</a></td></tr>
+																<tr><td class="Value"><a href="taya-ji" title="Taya Ji" rev="tag">Taya Ji</a></td></tr>
+																<tr><td class="Value"><a href="tayi-ji" title="Tayi Ji" rev="tag">Tayi Ji</a></td></tr>
+																<tr><td class="Value"><a href="teacher" title="Teacher" rev="tag">Teacher</a></td></tr>
+																<tr><td class="Value"><a href="uncle" title="Uncle" rev="tag">Uncle</a></td></tr>
+																<tr><td class="Value"><a href="wife" title="Wife" rev="tag">Wife</a></td></tr>
 								</tbody></table></td>							</tr>
 						</tbody></table>
 						<!-- <div onmouseover="document.getElementById('Nav2').className='selected';" onmouseout="document.getElementById('Nav2').className='';">
@@ -659,34 +702,47 @@
 					<div id="dropmenu3_a" class="dropmenudiv_a">
 						<table border="0" cellpadding="0" cellspacing="0" width="100%" onmouseover="document.getElementById('Nav3').className='selected';" onmouseout="document.getElementById('Nav3').className='';" class="DropDownBG">
 							<tbody><tr>
-							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=APPM" title="Apparels - Men " rev="tag">Apparels - Men </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=APPF" title="Apparels - Women " rev="tag">Apparels - Women </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=BA" title="Bags " rev="tag">Bags </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=BO" title="Boxes" rev="tag">Boxes</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=CADI" title="Candles/Diyas" rev="tag">Candles/Diyas</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=CAR" title="Car Accessories " rev="tag">Car Accessories </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=CHC" title="Chocolates " rev="tag">Chocolates </a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=CO" title="Coasters" rev="tag">Coasters</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=CRKY" title="Crockery" rev="tag">Crockery</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=DP" title="Decorating Pieces " rev="tag">Decorating Pieces </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=DM" title="Door Mats" rev="tag">Door Mats</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=FW" title="Footwear " rev="tag">Footwear </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=GC" title="Greeting Cards" rev="tag">Greeting Cards</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=HC" title="Handicrafts " rev="tag">Handicrafts </a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=HD" title="Home Decor " rev="tag">Home Decor </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=HFU" title="Home Furnishings " rev="tag">Home Furnishings </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=IS" title="Idols &amp; Sculptures " rev="tag">Idols &amp; Sculptures </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=JW" title="Jewellery " rev="tag">Jewellery </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=MKU" title="Make-Up " rev="tag">Make-Up </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=MU" title="Mugs " rev="tag">Mugs </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=NAG" title="Naughty/Adult Gifts" rev="tag">Naughty/Adult Gifts</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="searchresults.php?CID=PT" title="Paintings " rev="tag">Paintings </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=PF" title="Photo Frames " rev="tag">Photo Frames </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=STN" title="Stationery " rev="tag">Stationery </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=TP" title="Time Pieces " rev="tag">Time Pieces </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=TR" title="Trays" rev="tag">Trays</a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=UTL" title="Utilities " rev="tag">Utilities </a></td></tr>
-																<tr><td class="Value"><a href="searchresults.php?CID=WEDA" title="Wedding Accessories" rev="tag">Wedding Accessories</a></td></tr>
+							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="apparels-men" title="Apparels - Men" rev="tag">Apparels - Men</a></td></tr>
+																<tr><td class="Value"><a href="apparels-women" title="Apparels - Women" rev="tag">Apparels - Women</a></td></tr>
+																<tr><td class="Value"><a href="bags" title="Bags" rev="tag">Bags</a></td></tr>
+																<tr><td class="Value"><a href="body-and-skin-care" title="Body &amp; Skin Care" rev="tag">Body &amp; Skin Care</a></td></tr>
+																<tr><td class="Value"><a href="boxes" title="Boxes" rev="tag">Boxes</a></td></tr>
+																<tr><td class="Value"><a href="candles-or-diyas" title="Candles/Diyas" rev="tag">Candles/Diyas</a></td></tr>
+																<tr><td class="Value"><a href="car-accessories" title="Car Accessories" rev="tag">Car Accessories</a></td></tr>
+																<tr><td class="Value"><a href="chocolates" title="Chocolates" rev="tag">Chocolates</a></td></tr>
+																<tr><td class="Value"><a href="coasters" title="Coasters" rev="tag">Coasters</a></td></tr>
+																<tr><td class="Value"><a href="crockery" title="Crockery" rev="tag">Crockery</a></td></tr>
+																<tr><td class="Value"><a href="decorating-pieces" title="Decorating Pieces" rev="tag">Decorating Pieces</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="dining-and-bar" title="Dining &amp; Bar" rev="tag">Dining &amp; Bar</a></td></tr>
+																<tr><td class="Value"><a href="door-mats" title="Door Mats" rev="tag">Door Mats</a></td></tr>
+																<tr><td class="Value"><a href="eye-wear" title="Eye Wear" rev="tag">Eye Wear</a></td></tr>
+																<tr><td class="Value"><a href="footwear" title="Footwear" rev="tag">Footwear</a></td></tr>
+																<tr><td class="Value"><a href="fragrances" title="Fragrances" rev="tag">Fragrances</a></td></tr>
+																<tr><td class="Value"><a href="gents-wallets" title="Gents Wallets" rev="tag">Gents Wallets</a></td></tr>
+																<tr><td class="Value"><a href="gift-items" title="Gift Items" rev="tag">Gift Items</a></td></tr>
+																<tr><td class="Value"><a href="handbags-or-clutches-or-purses" title="Handbags/clutches/purses" rev="tag">Handbags/clutches/purses</a></td></tr>
+																<tr><td class="Value"><a href="handicrafts" title="Handicrafts" rev="tag">Handicrafts</a></td></tr>
+																<tr><td class="Value"><a href="home-appliances" title="Home Appliances" rev="tag">Home Appliances</a></td></tr>
+																<tr><td class="Value"><a href="home-decor" title="Home Decor" rev="tag">Home Decor</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="home-furnishings" title="Home Furnishings" rev="tag">Home Furnishings</a></td></tr>
+																<tr><td class="Value"><a href="idols-and-sculptures" title="Idols &amp; Sculptures" rev="tag">Idols &amp; Sculptures</a></td></tr>
+																<tr><td class="Value"><a href="jewellery" title="Jewellery" rev="tag">Jewellery</a></td></tr>
+																<tr><td class="Value"><a href="kids" title="Kids" rev="tag">Kids</a></td></tr>
+																<tr><td class="Value"><a href="kitchenware" title="Kitchenware" rev="tag">Kitchenware</a></td></tr>
+																<tr><td class="Value"><a href="ladies-wallet" title="Ladies Wallet" rev="tag">Ladies Wallet</a></td></tr>
+																<tr><td class="Value"><a href="laptop-bag" title="Laptop Bag" rev="tag">Laptop Bag</a></td></tr>
+																<tr><td class="Value"><a href="mens-accessories" title="Men's Accessories" rev="tag">Men's Accessories</a></td></tr>
+																<tr><td class="Value"><a href="mobiles" title="Mobiles" rev="tag">Mobiles</a></td></tr>
+																<tr><td class="Value"><a href="mugs" title="Mugs" rev="tag">Mugs</a></td></tr>
+																<tr><td class="Value"><a href="paintings" title="Paintings" rev="tag">Paintings</a></td></tr>
+								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="photo-frames" title="Photo Frames" rev="tag">Photo Frames</a></td></tr>
+																<tr><td class="Value"><a href="purse" title="Purse" rev="tag">Purse</a></td></tr>
+																<tr><td class="Value"><a href="stationery" title="Stationery" rev="tag">Stationery</a></td></tr>
+																<tr><td class="Value"><a href="trays" title="Trays" rev="tag">Trays</a></td></tr>
+																<tr><td class="Value"><a href="utilities" title="Utilities" rev="tag">Utilities</a></td></tr>
+																<tr><td class="Value"><a href="wall-clocks" title="Wall Clocks" rev="tag">Wall Clocks</a></td></tr>
+																<tr><td class="Value"><a href="watches" title="Watches" rev="tag">Watches</a></td></tr>
+																<tr><td class="Value"><a href="wedding-accessories" title="Wedding Accessories" rev="tag">Wedding Accessories</a></td></tr>
 								</tbody></table></td>							</tr>
 						</tbody></table>
 					</div>
@@ -694,12 +750,13 @@
 						<li id="Nav1"><a href="javascript:void(0);" rel="dropmenu1_a"><b>Gifts By Occasion</b></a></li>
 						<li id="Nav2"><a href="javascript:void(0);" rel="dropmenu2_a"><b>Gifts By Relation</b></a></li>
 						<li id="Nav3"><a href="javascript:void(0);" rel="dropmenu3_a"><b>Gifts By Category</b></a></li>
-						<!-- <li id="Nav4" class="highlighted"><a href='javascript:void(0);' onclick="CreateYourWishList();"><b>Create Your Wishlist</b></a></li> -->
-						<li id="Nav4" class="highlighted"><a href="tracking-order.php"><b>Track Your Order</b></a></li>
-														<li id="Nav5"><a href="new-arrivals.php"><b>Newly Arrived Gifts</b></a></li>
-																<li id="Nav6"><a href="faqs.php"><b>FAQs</b></a></li>
-																<li id="Nav7"><a href="http://www.wahgifts.com/blog/"><b>Blog</b></a></li>
-																<li id="Nav8"><a href="contact-us.php"><b>Contact Us</b></a></li>
+						<!-- <li id="Nav4" class="highlighted"><a href='javascript:void(0);' onclick="CreateYourWishList();"><b>Create Your Wishlist</b></a></li>
+						<li id="Nav4" class="highlighted"><a href='tracking-order.php'><b>Track Your Order</b></a></li> -->
+														<li id="Nav4" class="highlighted"><a href="track-your-order"><b>Track Your Order</b></a></li>
+																<li id="Nav5"><a href="newly-arrived-gifts"><b>Newly Arrived Gifts</b></a></li>
+																<li id="Nav6"><a href="faqs"><b>FAQs</b></a></li>
+																<li id="Nav7"><a href="blog"><b>Blog</b></a></li>
+																<li id="Nav8"><a href="contact-us"><b>Contact Us</b></a></li>
 														<br class="clear">
 					</ul>
 				</td>
@@ -712,150 +769,160 @@
 
 <script type="text/javascript">
 	//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
-	tabdropdown.init("nav-menu", "auto")
+	tabdropdown.init("nav-menu", "-1")
 </script>					<div class="SearchContainer">
 						<div class="SearchLeftBG"></div>
 						<div class="SearchMidBG">
-							<div class="FindAGift"> Find A Gift</div>
+							<div class="FindAGift">Find A Gift</div>
 							<div class="OccasionDropDown">
-								<select name="Occasion" id="Occasion" onchange="CallLoadPageFunction();">
+								<select name="Occasion" id="Occasion" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
 									<option value="">Choose an occasion</option>
-																			<option value="ANVD">Anniversary</option>
-																				<option value="BDJ">Bhai Duj</option>
-																				<option value="BDAY">Birthday</option>
-																				<option value="BRD">Brother's Day</option>
-																				<option value="CRD">Children's Day</option>
-																				<option value="CHCD">Chocolate Day</option>
-																				<option value="CRS">Christmas</option>
-																				<option value="DRD">Daughter's Day</option>
-																				<option value="DWL">Diwali</option>
-																				<option value="EID">Eid</option>
-																				<option value="FRD">Father's Day</option>
-																				<option value="FND">Friendship Day</option>
-																				<option value="GNC">Ganesh Chaturthi</option>
-																				<option value="HL">Holi</option>
-																				<option value="HW">House Warming</option>
-																				<option value="KRC">Karva Chauth</option>
-																				<option value="LTCD">Literacy Day</option>
-																				<option value="MRGD">Marriage</option>
-																				<option value="RCPD">Marriage Reception</option>
-																				<option value="MUD">Miss U Day</option>
-																				<option value="MRD">Mother's Day</option>
-																				<option value="NYD">New Years</option>
-																				<option value="RBN">Raksha Bandhan</option>
-																				<option value="RNGD">Ring Ceremony</option>
-																				<option value="RKCD">Roka Ceremony</option>
-																				<option value="RSD">Rose Day</option>
-																				<option value="SRD">Sister's Day</option>
-																				<option value="SND">Son's Day</option>
-																				<option value="SYD">Sorry Day</option>
-																				<option value="TRD">Teacher's Day</option>
-																				<option value="TDY">Teddy Day</option>
-																				<option value="TYD">Thank You Day</option>
-																				<option value="TGD">Thanks Giving Day</option>
-																				<option value="VND">Valentine's Day</option>
+																			<option value="anniversary">Anniversary</option>
+																				<option value="bhai-duj">Bhai Duj</option>
+																				<option value="birthday">Birthday</option>
+																				<option value="brothers-day">Brother's Day</option>
+																				<option value="childrens-day">Children's Day</option>
+																				<option value="chocolate-day">Chocolate Day</option>
+																				<option value="christmas">Christmas</option>
+																				<option value="daughters-day">Daughter's Day</option>
+																				<option value="diwali">Diwali</option>
+																				<option value="eid">Eid</option>
+																				<option value="fathers-day">Father's Day</option>
+																				<option value="friendship-day">Friendship Day</option>
+																				<option value="ganesh-chaturthi">Ganesh Chaturthi</option>
+																				<option value="holi">Holi</option>
+																				<option value="house-warming">House Warming</option>
+																				<option value="karva-chauth">Karva Chauth</option>
+																				<option value="marriage">Marriage</option>
+																				<option value="marriage-reception">Marriage Reception</option>
+																				<option value="miss-u-day">Miss U Day</option>
+																				<option value="mothers-day">Mother's Day</option>
+																				<option value="new-years">New Years</option>
+																				<option value="raksha-bandhan">Raksha Bandhan</option>
+																				<option value="ring-ceremony">Ring Ceremony</option>
+																				<option value="roka-ceremony">Roka Ceremony</option>
+																				<option value="rose-day">Rose Day</option>
+																				<option value="sisters-day">Sister's Day</option>
+																				<option value="sons-day">Son's Day</option>
+																				<option value="sorry-day">Sorry Day</option>
+																				<option value="teachers-day">Teacher's Day</option>
+																				<option value="thank-you-day">Thank You Day</option>
+																				<option value="valentines-day">Valentine's Day</option>
 																		</select>
 							</div>
 							<div class="RelationDropDown">
-								<select name="Relation" id="Relation" onchange="CallLoadPageFunction();">
-									<option value="">Select a relation</option>
-																			<option value="AN-::-6">Aunt</option>
-																				<option value="SINL-::-35">Bhabhi</option>
-																				<option value="OFFF-::-29">Boss-Female</option>
-																				<option value="OFFM-::-28">Boss-Male </option>
-																				<option value="BF-::-50">Boyfriend</option>
-																				<option value="BNL-::-11">Brother-in-Law</option>
-																				<option value="BR-::-3">Brother/Bhai</option>
-																				<option value="AN-::-30">Bua Ji</option>
-																				<option value="UL-::-47">Chacha Ji</option>
-																				<option value="AN-::-32">Chachi Ji</option>
-																				<option value="OFFF-::-41">Colleague-Female</option>
-																				<option value="OFFM-::-40">Colleague-Male</option>
-																				<option value="BR-::-43">Cousin-Brother</option>
-																				<option value="SR-::-42">Cousin-Sister</option>
-																				<option value="DNL-::-10">Daughter-in-Law</option>
-																				<option value="DR-::-7">Daughter/Beti</option>
-																				<option value="FIL-::-27">Father-in-Law</option>
-																				<option value="FR-::-1">Father/Papa</option>
-																				<option value="FRNDF-::-51">Friend-Female</option>
-																				<option value="FRNDM-::-22">Friend-Male</option>
-																				<option value="UL-::-49">Fuffar/Fufa Ji</option>
-																				<option value="GF-::-26">Girl Friend</option>
-																				<option value="GDR-::-16">Granddaughter/Poti/Doti</option>
-																				<option value="GFR-::-13">Grandfather/Dada/Nana</option>
-																				<option value="GMR-::-14">Grandmother/Dadi/Naani</option>
-																				<option value="GSN-::-15">Grandson/Pota/Dota</option>
-																				<option value="HBD-::-17">Husband</option>
-																				<option value="SNL-::-38">Jija Ji</option>
-																				<option value="UL-::-46">Maama Ji</option>
-																				<option value="AN-::-33">Maami Ji</option>
-																				<option value="UL-::-48">Massar/Mausa Ji</option>
-																				<option value="AN-::-31">Massi/Mausi Ji</option>
-																				<option value="MR-::-2">Mother/Maa/Mummy</option>
-																				<option value="NPW-::-20">Nephew</option>
-																				<option value="NIC-::-21">Niece</option>
-																				<option value="OFFF-::-44">Official-Female</option>
-																				<option value="OFFM-::-39">Official-Male</option>
-																				<option value="SNL-::-37">Saala</option>
-																				<option value="SINL-::-36">Saali</option>
-																				<option value="SINL-::-12">Sister-in-Law</option>
-																				<option value="SR-::-4">Sister/Behan</option>
-																				<option value="SNL-::-9">Son-in-Law</option>
-																				<option value="SN-::-8">Son/Beta</option>
-																				<option value="UL-::-45">Taya Ji</option>
-																				<option value="AN-::-34">Tayi Ji</option>
-																				<option value="TR-::-24">Teacher</option>
-																				<option value="UL-::-5">Uncle</option>
-																				<option value="WF-::-18">Wife</option>
+								<select name="Relation" id="Relation" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
+									<option value="">Choose a relation</option>
+																			<option value="aunt">Aunt</option>
+																				<option value="bhabhi">Bhabhi</option>
+																				<option value="boss-female">Boss-Female</option>
+																				<option value="boss-male">Boss-Male</option>
+																				<option value="boyfriend">Boyfriend</option>
+																				<option value="brother-in-law">Brother-in-Law</option>
+																				<option value="brother-or-bhai">Brother/Bhai</option>
+																				<option value="bua-ji">Bua Ji</option>
+																				<option value="chacha-ji">Chacha Ji</option>
+																				<option value="chachi-ji">Chachi Ji</option>
+																				<option value="colleague-female">Colleague-Female</option>
+																				<option value="colleague-male">Colleague-Male</option>
+																				<option value="cousin-brother">Cousin-Brother</option>
+																				<option value="cousin-sister">Cousin-Sister</option>
+																				<option value="daughter-in-law">Daughter-in-Law</option>
+																				<option value="daughter-or-beti">Daughter/Beti</option>
+																				<option value="father-in-law">Father-in-Law</option>
+																				<option value="father-or-papa">Father/Papa</option>
+																				<option value="friend-female">Friend-Female</option>
+																				<option value="friend-male">Friend-Male</option>
+																				<option value="fuffar-or-fufa-ji">Fuffar/Fufa Ji</option>
+																				<option value="girl-friend">Girl Friend</option>
+																				<option value="granddaughter-or-poti-or-doti">Granddaughter/Poti/Doti</option>
+																				<option value="grandfather-or-dada-or-nana">Grandfather/Dada/Nana</option>
+																				<option value="grandmother-or-dadi-or-naani">Grandmother/Dadi/Naani</option>
+																				<option value="grandson-or-pota-or-dota">Grandson/Pota/Dota</option>
+																				<option value="husband">Husband</option>
+																				<option value="jija-ji">Jija Ji</option>
+																				<option value="maama-ji">Maama Ji</option>
+																				<option value="maami-ji">Maami Ji</option>
+																				<option value="massar-or-mausa-ji">Massar/Mausa Ji</option>
+																				<option value="massi-or-mausi-ji">Massi/Mausi Ji</option>
+																				<option value="mother-or-maa-or-mummy">Mother/Maa/Mummy</option>
+																				<option value="nephew">Nephew</option>
+																				<option value="niece">Niece</option>
+																				<option value="official-female">Official-Female</option>
+																				<option value="official-male">Official-Male</option>
+																				<option value="saala">Saala</option>
+																				<option value="saali">Saali</option>
+																				<option value="sister-in-law">Sister-in-Law</option>
+																				<option value="sister-or-behan">Sister/Behan</option>
+																				<option value="son-in-law">Son-in-Law</option>
+																				<option value="son-or-beta">Son/Beta</option>
+																				<option value="taya-ji">Taya Ji</option>
+																				<option value="tayi-ji">Tayi Ji</option>
+																				<option value="teacher">Teacher</option>
+																				<option value="uncle">Uncle</option>
+																				<option value="wife">Wife</option>
 																		</select>
 							</div>
 							<div class="CategoryDropDown">
-								<select name="Category" id="Category" onchange="CallLoadPageFunction();">
-									<option value="">Select a Category</option>
-																			<option value="APPM">Apparels - Men </option>
-																				<option value="APPF">Apparels - Women </option>
-																				<option value="BA">Bags </option>
-																				<option value="BO">Boxes</option>
-																				<option value="CADI">Candles/Diyas</option>
-																				<option value="CAR">Car Accessories </option>
-																				<option value="CHC">Chocolates </option>
-																				<option value="CO">Coasters</option>
-																				<option value="CRKY">Crockery</option>
-																				<option value="DP">Decorating Pieces </option>
-																				<option value="DM">Door Mats</option>
-																				<option value="FW">Footwear </option>
-																				<option value="GC">Greeting Cards</option>
-																				<option value="HC">Handicrafts </option>
-																				<option value="HD">Home Decor </option>
-																				<option value="HFU">Home Furnishings </option>
-																				<option value="IS">Idols &amp; Sculptures </option>
-																				<option value="JW">Jewellery </option>
-																				<option value="MKU">Make-Up </option>
-																				<option value="MU">Mugs </option>
-																				<option value="NAG">Naughty/Adult Gifts</option>
-																				<option value="PT">Paintings </option>
-																				<option value="PF">Photo Frames </option>
-																				<option value="STN">Stationery </option>
-																				<option value="TP">Time Pieces </option>
-																				<option value="TR">Trays</option>
-																				<option value="UTL">Utilities </option>
-																				<option value="WEDA">Wedding Accessories</option>
+								<select name="Category" id="Category" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
+									<option value="">Choose a Category</option>
+																			<option value="apparels-men">Apparels - Men</option>
+																				<option value="apparels-women">Apparels - Women</option>
+																				<option value="bags">Bags</option>
+																				<option value="body-and-skin-care">Body &amp; Skin Care</option>
+																				<option value="boxes">Boxes</option>
+																				<option value="candles-or-diyas">Candles/Diyas</option>
+																				<option value="car-accessories">Car Accessories</option>
+																				<option value="chocolates">Chocolates</option>
+																				<option value="coasters">Coasters</option>
+																				<option value="crockery">Crockery</option>
+																				<option value="decorating-pieces">Decorating Pieces</option>
+																				<option value="dining-and-bar">Dining &amp; Bar</option>
+																				<option value="door-mats">Door Mats</option>
+																				<option value="eye-wear">Eye Wear</option>
+																				<option value="footwear">Footwear</option>
+																				<option value="fragrances">Fragrances</option>
+																				<option value="gents-wallets">Gents Wallets</option>
+																				<option value="gift-items">Gift Items</option>
+																				<option value="handbags-or-clutches-or-purses">Handbags/clutches/purses</option>
+																				<option value="handicrafts">Handicrafts</option>
+																				<option value="home-appliances">Home Appliances</option>
+																				<option value="home-decor">Home Decor</option>
+																				<option value="home-furnishings">Home Furnishings</option>
+																				<option value="idols-and-sculptures">Idols &amp; Sculptures</option>
+																				<option value="jewellery">Jewellery</option>
+																				<option value="kids">Kids</option>
+																				<option value="kitchenware">Kitchenware</option>
+																				<option value="ladies-wallet">Ladies Wallet</option>
+																				<option value="laptop-bag">Laptop Bag</option>
+																				<option value="mens-accessories">Men's Accessories</option>
+																				<option value="mobiles">Mobiles</option>
+																				<option value="mugs">Mugs</option>
+																				<option value="paintings">Paintings</option>
+																				<option value="photo-frames">Photo Frames</option>
+																				<option value="purse">Purse</option>
+																				<option value="stationery">Stationery</option>
+																				<option value="trays">Trays</option>
+																				<option value="utilities">Utilities</option>
+																				<option value="wall-clocks">Wall Clocks</option>
+																				<option value="watches">Watches</option>
+																				<option value="wedding-accessories">Wedding Accessories</option>
 																		</select>
 							</div>
 							<div class="PriceRangeDropDown">
-								<select name="PriceRange" id="PriceRange" onchange="CallLoadPageFunction();">
+								<select name="PriceRange" id="PriceRange" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
 									<option value="">Choose a price range</option>
-																			<option value="Upto-500">Upto-500</option>
+																			<option value="upto-500">Upto-500</option>
 																				<option value="500-1000">500-1000</option>
 																				<option value="1000-1500">1000-1500</option>
 																				<option value="1500-2000">1500-2000</option>
 																				<option value="2000-2500">2000-2500</option>
 																				<option value="2500-3000">2500-3000</option>
-																				<option value="3000-Above">3000-Above</option>
+																				<option value="3000-above">3000-Above</option>
 																		</select>
 							</div>
-							<div class="FindAGift" style="margin-right:4px;"> OR </div>
-														<form style="float:left;" method="get" action="" name="FindRegistrySearch" id="FindRegistrySearch" onsubmit="return ValidateKeywordSearch('Keyword','Enter Keyword/Code');">
+							<div class="OR">OR</div>
+														<form style="float:left;" method="get" action="" name="FindRegistrySearch" id="FindRegistrySearch" onsubmit="return ValidateKeywordSearch('Keyword','Enter Keyword/Code',1);">
 								<!-- <input type="hidden" name="KeywordSearchSubmitted" id='KeywordSearchSubmitted' value='1' /> -->
 								<div class="KeywordSearch">
 									<input type="text" name="Keyword" id="Keyword" value="Enter Keyword/Code" onclick="blankthis('Keyword','Enter Keyword/Code');" onblur="default_message('Keyword','Enter Keyword/Code')" border="0">
@@ -866,6 +933,12 @@
 								<br class="clear">
 							</form>
 							<br class="clear">
+							<div style="position:relative;">
+								<div id="ApplySearchChangesDiv">
+									<div align="right" style="width:16px; height:16px; display:block; background:url('assets/images/close.png') no-repeat; position:absolute; top:-4px; right:0px; cursor:pointer;" onclick="$('#ApplySearchChangesDiv').slideUp('slow');"></div>
+									<input type="button" class="Button Blue Small" value="Apply Search Changes" onclick="$('#ApplySearchChangesDiv').slideUp('slow'); CallLoadPageFunction();">
+								</div>
+							</div>
 						</div>
 						<div class="SearchRightBG"></div>
 						<br class="clear">
@@ -968,11 +1041,12 @@
 								<div class="FooterMasterLink"><a href="help">Help</a></div>
 									<div class="FooterSubLinks">
 																					<!-- <a href="javascript:void(0);" onclick="TrackOrderStatus1();">Track Your Order</a> <br /> -->
-											<a href="tracking-order.php">Track Your Order</a> <br>
-																							<a href="shipping-policy.php">Shipping</a> <br>
-																								<a href="refund-policy.php">Cancellation &amp; Returns</a> <br>
-																								<a href="same-day-delivery.php">Same Day Delivery</a> <br>
-																								<a href="faqs.php">FAQ</a> <br>
+											<!-- <a href="tracking-order.php">Track Your Order</a> <br /> -->
+																							<a href="track-your-order">Track Your Order</a> <br>
+																								<a href="shipping-policy">Shipping Policy</a> <br>
+																								<a href="refund-policy">Refund Policy</a> <br>
+																								<a href="same-day-delivery">Same Day Delivery</a> <br>
+																								<a href="faqs">FAQs</a> <br>
 																					</div>
 																</td>
 															<td width="70" align="center">
@@ -981,14 +1055,14 @@
 									</div>
 								</td>
 															<td valign="top" align="left">
-								<div class="FooterMasterLink"><a href="about-us.php">About</a></div>
+								<div class="FooterMasterLink"><a href="about">About</a></div>
 									<div class="FooterSubLinks">
-																						<a href="about-us.php">About Us</a> <br>
-																								<a href="careers.php">Careers</a> <br>
-																								<a href="http://www.wahgifts.com/blog/">Blog</a> <br>
-																								<a href="contact-us.php">Contact Us</a> <br>
-																								<a href="terms-conditions.php">Terms &amp; Conditions</a> <br>
-																								<a href="privacy-policy.php">Privacy Policy</a> <br>
+																						<a href="about-us">About Us</a> <br>
+																								<a href="careers">Careers</a> <br>
+																								<a href="blog">Blog</a> <br>
+																								<a href="contact-us">Contact Us</a> <br>
+																								<a href="terms-and-conditions">Terms &amp; Conditions</a> <br>
+																								<a href="privacy-policy">Privacy Policy</a> <br>
 																					</div>
 																</td>
 															<td width="70" align="center">
@@ -997,17 +1071,19 @@
 									</div>
 								</td>
 															<td valign="top" align="left">
-								<div class="FooterMasterLink"><a href="do_more">Do More</a></div>
+								<div class="FooterMasterLink"><a href="do-more">Do More</a></div>
 									<div class="FooterSubLinks">
-																						<a href="referfriends.php">Refer A Friend</a> <br>
+																						<a href="refer-a-friend">Refer A Friend</a> <br>
 																					</div>
 																			<div style="margin-top:7px;">
 											<a href="https://www.facebook.com/pages/WahGiftscom/230412783746564" title="Facebook" style="width:38px; height:38px; background:url('assets/images/fb.png') no-repeat; display:block; float:left;">&nbsp;</a>
 											<a href="https://twitter.com/#!/WahGiftscom" target="_blank" title="Twitter" style="width:38px; height:38px; background:url('assets/images/twitter.png') no-repeat; display:block; float:left; margin-left:5px;">&nbsp;</a>
 										</div>
 										<div class="PaymentModes">Payment Modes</div>
-										<div class="PaymentModesImages">VISA, Master Card</div>
-										<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=3W9YEgEPdODMLQ2Ocb2vCt4fsjuaTEBJ4FlFBlE6UCnk8grNb8IhCbjJ"></script></span>
+										<div class="PaymentModesImages" title="VISA &amp; Master Card">VISA &amp; Master Card</div>
+										<div style="margin-top:5px;" title="Verified &amp; Secured">
+											<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=3W9YEgEPdODMLQ2Ocb2vCt4fsjuaTEBJ4FlFBlE6UCnk8grNb8IhCbjJ"></script></span>
+										</div>
 																	</td>
 												<td valign="top" align="right" width="327">
 						<!-- <div class="TestimonialsTitle">Customer Testimonials</div>
@@ -1016,7 +1092,7 @@
 						</div> -->
 						<!-- <a href="javascript:void(0);" title="Twitter" class="Twitter">Twitter</a>
 						<a href="javascript:void(0);" title="Facebook" class="Facebook">Facebook</a> -->
-						<a href="/shipping_policy" style="width:206px; height:170px; background:url('freeshipping-icon.jpg') no-repeat; display:block;">
+						<a href="shipping-policy" style="width:206px; height:170px; background:url('freeshipping-icon.jpg') no-repeat; display:block;" title="Free Shipping">
 						</a>
 					</td>
 				</tr>
@@ -1203,7 +1279,7 @@
 	</center>
 
 	<p id="BackToTop">
-		<a href="#GreenPattern">Back to Top</a>
+		<a href="#GreenPattern" title="Back To Top">Back to Top</a>
 	</p>
 	<script type="text/javascript" src="assets/js/MM_preloadImages.js"></script>
 	<script type="text/javascript" src="assets/js/common.js"></script>
@@ -1250,6 +1326,18 @@
 		});
 	</script>
 	<script type="text/javascript">
+		function UpdatePrice(I,AttrValue)
+		{
+			var ValArr = AttrValue.split('-::-');
+			var AdditionalPrice  = ValArr[1];
+			if(AdditionalPrice == null)
+			{
+				AdditionalPrice = 0;
+			}
+			var Price = $.trim($(".PriceAttribute"+I).attr('price'));
+			Price = Number(Price) + Number(AdditionalPrice);
+			$.trim($(".PriceAttribute"+I).html(Price+'/-'));
+		}
 		function Login()
 		{
 			var PopupLoginEmail		= $.trim($('#PopupLoginEmail').val());
@@ -1402,56 +1490,126 @@
 			}
 		}
 		function AddToCart(I,CanUserDesireDelivery,HrefLink,AttributeName)
-		{ 
-			if(AttributeName != '' && CanUserDesireDelivery == 1)
+		{
+			var Str	=	'';
+			var NewHrefLink	=	'';
+			var CanUserUpload = $.trim($("#CanUserUpload"+I).val());
+
+			/*if(AttributeName != '' && CanUserDesireDelivery == 1)
 			{
 				var AttributeValue = $('#UserChoiceAttributeValue'+I).val();
+				var ValArr = AttributeValue.split('-::-');
+				var AttributeValue  = ValArr[0];
+			
 				var Date1 = $('#UserChoiceDeliveryDate'+I).val();
-				var Str	=	'';
 				if(Date1 == '' || Date1 == null)
 				{
-					Str  = "Please select desired delivery date first. \n";
+					Str  += "Please select desired delivery date first. \n";
 				}
 				if(AttributeValue == '' || AttributeValue == null)
 				{
 					Str += "Please select "+AttributeName+" first. \n";
 				}
-				if(Str != '')
+				if($.trim(Str) == '')
 				{
-					alert(Str);
+					HrefLink = decodeURIComponent(HrefLink+"&AttributeValue="+AttributeValue+"&AttributeName="+AttributeName+"&DesiredDeliveryTime="+Date1);
+				}
+			}*/
+			if(AttributeName != '')
+			{
+				var AttributeValue = $('#UserChoiceAttributeValue'+I).val();
+				var ValArr = AttributeValue.split('-::-');
+				var AttributeValue  = ValArr[0];
+
+				if(AttributeValue == '' || AttributeValue == null)
+				{
+					Str  += "Please select "+AttributeName+" first. \n";
 				}
 				else
 				{
-					$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink+"&AttributeValue="+AttributeValue+"&AttributeName="+AttributeName+"&DesiredDeliveryTime="+Date1)});
+					if($.trim(Str) == '')
+					{
+						NewHrefLink += "&AttributeValue="+AttributeValue+"&AttributeName="+AttributeName;
+					}
 				}
 			}
-			else if(CanUserDesireDelivery == 1)
+			if(CanUserDesireDelivery == 1)
 			{
 				var Date1 = $('#UserChoiceDeliveryDate'+I).val();
 				if(Date1 == '' || Date1 == null)
 				{
-					alert("Please select desired delivery date first.");
+					Str  += "Please select desired delivery date first. \n";
 				}
 				else
 				{
-					$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink+"&DesiredDeliveryTime="+Date1)});
+					if($.trim(Str) == '')
+					{
+						NewHrefLink += "&DesiredDeliveryTime="+Date1;
+					}
 				}
 			}
-			else if(AttributeName != '')
+			if($.trim(Str) != '')
 			{
-				var AttributeValue = $('#UserChoiceAttributeValue'+I).val();
-				if(AttributeValue == '' || AttributeValue == null)
-				{
-					alert("Please select "+AttributeName+" first.");
-				}
-				else
-				{
-					$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink+"&AttributeValue="+AttributeValue+"&AttributeName="+AttributeName)});
-				}
+				alert(Str);
 			}
 			else
 			{
-				$.colorbox({iframe:true, width:"800px", height:"452px", href:decodeURIComponent(HrefLink)});
+				if(CanUserUpload == 1)
+				{
+					var MinImages	= $.trim($('#UserMinImages'+I).val());
+					var MaxImages	= $.trim($('#UserMaxImages'+I).val());
+
+					if($.trim($("#ValidFileUpload"+I).val()) == 0 && MinImages > 0)
+					{
+						var SKUCode		= $.trim($('#SKUCode').val());
+
+						var Data = '&Mode=CheckTempOrderImages&SKUCode='+encodeURIComponent(SKUCode)+'&MinImages='+encodeURIComponent(MinImages)+'&MaxImages='+encodeURIComponent(MaxImages);
+
+						$.ajax({
+							type: "GET",
+							url: "dbbyajax.php",
+							cache: false,
+							data: Data,
+							success: function(Response){
+								var ResArr	= Response.split('-::-');
+								var Type	= ResArr[0];
+								var Msg		= ResArr[1];
+
+								if(Type == 'Success')
+								{
+									$("#ValidFileUpload"+I).val('1');
+									AddToCart(I,CanUserDesireDelivery,HrefLink,AttributeName);
+								}
+								else
+								{
+									$("#ValidFileUpload"+I).val('0');
+									if(Msg != null)
+									{
+										Str  += Msg+'\n';
+										alert(Str);
+									}
+								}
+								return false;
+							}
+						});
+					}
+					if(MinImages == 0)
+					{
+						$("#ValidFileUpload"+I).val('1');
+					}
+				}
+				else
+				{
+					$("#ValidFileUpload"+I).val('1');
+				}
+				if($.trim($("#ValidFileUpload"+I).val()) == 1)
+				{
+					if($.trim(NewHrefLink) != '')
+					{
+						HrefLink = HrefLink+''+NewHrefLink
+					}
+					$.colorbox({iframe:true, width:"940px", height:"465px", href:decodeURIComponent(HrefLink)});
+				}
 			}
 		}
 		function EditUserChoiceDeliveryDate(I)
@@ -1461,7 +1619,9 @@
 		}
 		function SaveUserChoiceAttribute(I,AttributeName)
 		{
-			var Value	= $("#UserChoiceAttributeValue"+I).val();
+			var Value  = $("#UserChoiceAttributeValue"+I).val();
+			var ValArr = Value.split('-::-');
+			var AttributeValue  = ValArr[0];
 
 			if(Value == '')
 			{
@@ -1489,6 +1649,7 @@
 			var Day		= $("#UserDeliveryDate"+I+"_Day_ID").val();
 			var Year	= $("#UserDeliveryDate"+I+"_Year_ID").val();
 			var Hrs		= $("#UserDeliveryDateHour"+I).val();
+			Hrs			= '00';
 			/*var Mins	= $("#UserDeliveryDateMinutes"+I).val();*/
 			if(Hrs == '')
 			{
@@ -1740,7 +1901,7 @@
 		}
 		function FacebookLogin()
 		{
-			/*window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy.php&state=bfc4294538a0b95d4722342a0928694a&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
+			/*window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy&state=6b0a95808cca749feb296eb6b463c030&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
 			return false;*/
 			var Msg = '';
 			var Data = 'Mode=FacebookLogin';
@@ -1752,7 +1913,7 @@
 				success: function(Response){
 					if(Response == 'Success')
 					{			
-						window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy.php&state=bfc4294538a0b95d4722342a0928694a&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
+						window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy&state=6b0a95808cca749feb296eb6b463c030&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
 						return false;
 					}
 					else
