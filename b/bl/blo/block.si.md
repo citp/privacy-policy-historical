@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the block.si privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322115957id_/http%3A//www.block.si/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the block.si privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507111113id_/http%3A//block.si/privacy.html) for the most accurate reproduction.*
 
 # Privacy-Policy
 
-Thank you for visiting Blocksi. We are committed to protecting our visitors’ and members’ privacy. This Privacy Policy explains what information of yours will be collected by Blocksi, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
+Thank you for visiting Blocksi. We are committed to protecting our visitorsâ€™ and membersâ€™ privacy. This Privacy Policy explains what information of yours will be collected by Blocksi, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
-This document is for your information only. The “Company”, “Blocksi”, “us”, “we” or “our” refers to Askend d.o.o., the owner of Blocksi, a company registered in Slovenia.
+This document is for your information only. The â€œCompanyâ€, â€œBlocksiâ€, â€œusâ€, â€œweâ€ or â€œourâ€ refers to Askend d.o.o., the owner of Blocksi, a company registered in Slovenia.
 
 BY USING OUR WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY.
 
@@ -32,7 +32,7 @@ We cannot, however, ensure or warrant the security of any information you transm
 
 ## User Content and Message Confidentiality
 
-Your user content is kept private in your Network. Blocksi does not monitor the user  log content. We do not have administrative tools to view our users’ messages, and access to the database is only granted to our technicians on a case-by-case basis to troubleshoot specific technical issues, or as may be required by law. Each such instance is logged.
+Your user content is kept private in your Network. Blocksi does not monitor the user  log content. We do not have administrative tools to view our usersâ€™ messages, and access to the database is only granted to our technicians on a case-by-case basis to troubleshoot specific technical issues, or as may be required by law. Each such instance is logged.
 
 ## Personally Identifiable Information
 
