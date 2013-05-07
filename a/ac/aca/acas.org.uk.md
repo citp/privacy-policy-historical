@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183532id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507083403id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
 
 # Acas - Acas privacy policy
 
@@ -51,7 +51,7 @@ Cookies are small pieces of data sent to your computer when you visit the Websit
 
 Although your browser may be set up to allow the creation of cookies, you can specify that you wish to be prompted before a website puts a cookie on your hard drive, so that you can decide whether to allow it. Alternatively, you can set your computer not to accept any cookies. Please refer to your browser instructions or help screen for information about how to do this. If you disable cookies, you may not have access to certain features that make your experience of the Website more efficient and some of Our Services may not function properly, such as placing an online order. Visitors who disable cookies can still place orders over the telephone and by email and fax.
 
-Further information on [Our use of cookies](http://www.acas.co.uk/index.aspx?articleid=3341 "Our use of cookies") is available.
+Further information on [Our use of cookies](http://www.acas.org.uk/index.aspx?articleid=3341 "Our use of cookies") is available.
 
 ## Social networking
 
