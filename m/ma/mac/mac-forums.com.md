@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mac-forums.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221092749id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mac-forums.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508005847id_/http%3A//www.mac-forums.com/blog/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | iNET Interactive
+# Privacy | Mac-Forums BlogMac-Forums Blog
 
 This Privacy Policy governs the manner in which iNET Interactive collects, uses, maintains and discloses information collected from users (each, a “User”) of any of the websites within the iNET Interactive network (the “Websites”). 
 
@@ -29,7 +29,7 @@ iNET Interactive is not designed to attract individuals under the age of 18. In 
 
 **Interest-based Advertising**  
 iNET Interactive uses advanced ad serving technology to offer interest-based advertising. This platform uses unique cookies to identify and collect data such as web browser type, browsing habits etc. and to store that data for advertising purposes, including interest-based advertising. The data we collect with this targeting is considered non-personally identifiable information (Non-PII). Non-PII data is information that cannot be used to identify, contact or locate a particular individual or entity. We use this data in order to deliver you more relevant advertising and to enhance your experience. We also offer a method for you to opt-out of this advanced targeting by clicking the button below.  
-[Click here to opt-out of interest-based advertising](http://dpmsrv.com/opt-out)
+[Click here to opt-out of interest based advertising from our third-party advertising partners](http://www.networkadvertising.org/choices/)
 
 **Privacy Policy Revisions**  
 iNET Interactive reserves the right to periodically revise this policy. In the event we modify our policy, we will give reasonable notice of the change on our home page. Since notice of any such policy change will not appear on our website indefinitely and may only be posted for a limited time, it will be incumbent upon you to check our Privacy Policy regularly to see if we have made any modifications. 
