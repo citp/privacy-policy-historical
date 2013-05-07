@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getthelabel.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020174951id_/http%3A//www.getthelabel.com/fcp/content/privacy-policy/customerservices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getthelabel.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507101913id_/http%3A//www.getthelabel.com/fcp/content/privacy-policy/customerservices) for the most accurate reproduction.*
 
 # Get The Label - Customer Services
 
