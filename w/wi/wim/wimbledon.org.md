@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wimbledon.org privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019071003id_/http%3A//www.wimbledon.com/en_GB/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimbledon.org privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507104000id_/http%3A//www.wimbledon.com/en_GB/privacy/index.html) for the most accurate reproduction.*
 
-# The Championships, Wimbledon 2012 - Official Site by IBM - Your Privacy
+# The Championships, Wimbledon 2013 - Official Site by IBM - Your Privacy
 
 **Introduction**  
 This statement discloses the privacy policy of the official website of The All England Lawn Tennis Club (Championships) Limited (‘AELTC’) and of The Championships, Wimbledon.
