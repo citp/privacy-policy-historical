@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharedreviews.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919232027id_/http%3A//sharedreviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedreviews.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507030818id_/http%3A//sharedreviews.com/privacy) for the most accurate reproduction.*
 
 # Sharedreviews Privacy Policy
 
