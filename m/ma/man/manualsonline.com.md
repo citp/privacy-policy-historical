@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118032852id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507112337id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
 
 # Free User Manuals | ManualsOnline.com
 
@@ -15,7 +15,7 @@ If you have questions or concerns regarding this statement, you should first con
 If you believe that ManualsOnline has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of personal information by ManualsOnline, you may send a written notice of complaint to: 
 
 **ManualsOnline.com** **c/o OwnerIQ, Inc.  
-**320 Congress Street  
+**27-43 Wormwood Street 4th Fl  
 Boston, MA 02210  
 Attention: Doug Shattuck  
 E-mail: [webmaster@owneriq.com ](mailto:webmaster@owneriq.com)
@@ -64,7 +64,7 @@ Member Information: ManualOnline collects member information supplied by visitor
 • Accumulating and reporting anonymous, aggregate, statistical information on Web site and content usage to our partners and customers  
 • Determining which features visitors like best to help us improve our content and site, personalize your user experience, and measure overall site effectiveness  
 • Displaying the most appropriate advertising or content based on your interests.  
-ManualsOnline uses OwnerIQ, Inc. to place advertisements for products and services of third parties on the Site. OwnerIQ uses cookies and other technologies such as Web beacons or tags to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on ManualsOnline, as well as on third-party sites where you may visit. To support this interest based advertising solution, OwnerIQ may use anonymous information about your visits to our and other Web sites. The information collected and used by OwnerIQ is always anonymous, and does not enable any third-party to identify you individually. For more information about OwnerIQ's Privacy Policy, please click [[here](http://www.owneriq.com/tech-service-privacy-policy)]. 
+ManualsOnline uses OwnerIQ, Inc. to place advertisements for products and services of third parties on the Site. OwnerIQ uses cookies and other technologies such as Web beacons or tags to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on ManualsOnline, as well as on third-party sites where you may visit. To support this interest based advertising solution, OwnerIQ may use anonymous information about your visits to our and other Web sites. The information collected and used by OwnerIQ is always anonymous, and does not enable any third-party to identify you individually. For more information about OwnerIQ's Privacy Policy, please click [[here](http://www.owneriq.com/privacy-policy.php)]. 
 
 Opting out of OwnerIQ Service. Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered by OwnerIQ, you can always opt-out of this activity by clicking [[here](http://www.owneriq.com/opt-out.php)]. OwnerIQ is also part of the Network Advertising Initiative (NAI), and you may opt-out of the OwnerIQ service by visiting <http://www.networkadvertising.org/managing/opt_out.asp>   
 **  
