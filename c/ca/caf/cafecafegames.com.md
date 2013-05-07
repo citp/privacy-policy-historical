@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafecafegames.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124044549id_/http%3A//www.cafecafegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafecafegames.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507084456id_/http%3A//www.cafecafegames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
