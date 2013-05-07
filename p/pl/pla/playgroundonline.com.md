@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008143401id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507170815id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Playgroundonline: online shopping India | buy sports goods, apparel, shoes, health & fitness, Toys & games.
 
