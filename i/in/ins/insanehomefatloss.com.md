@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120232148id_/http%3A//insanehomefatloss.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507135953id_/http%3A//insanehomefatloss.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Lose Belly Fat - Insane Home Fat Loss
 
@@ -75,15 +75,15 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.insanehomefatloss.com  
-11011 Domain Drive #8148  
+8900 SHOAL CREEK #105  
 Austin, TX 78738  
 USA  
 mike@sixpackshortcuts.com
 
-### **512-201-4651**
+### **1(800) 655-8576**
 
 if you calling within the US or 
 
-### **1(800) 655-8576**
+### **512-201-4651**
 
 for outside of the US.
