@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103234222id_/http%3A//www.teenspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507134143id_/http%3A//www.teenspot.com/privacy) for the most accurate reproduction.*
 
 # TeenSpot.com - Privacy Policy
 
