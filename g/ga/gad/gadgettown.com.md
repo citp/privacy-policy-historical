@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgettown.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102015723id_/http%3A//www.gadgettown.com/help/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgettown.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507173759id_/http%3A//www.gadgettown.com/help/Privacy-Notice) for the most accurate reproduction.*
 
 # Privacy Notice : GadgetTown.com
 
