@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devot-ee.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106182652id_/http%3A//devot-ee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devot-ee.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507202933id_/http%3A//devot-ee.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Devot:ee - Devoted to ExpressionEngine
+# Privacy Policy - devot:ee - Devoted to ExpressionEngine
 
 ##  Privacy
 
@@ -10,7 +10,7 @@ This is devot:ee’s online privacy policy. Thank you for visiting devot:ee ("de
 
 ####  Personal Information Gathering and Use
 
-devot:ee asks that customers supply certain personal data when registering and placing orders, including name, physical address, email address, and credit card information. This data is used only for the purpose of fulfilling orders or communicating with customers, or partners (such as add-on developers) regarding orders. Guests may browse devot-ee.com for free, without having to enter or supply any personal information.
+We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. devot:ee asks that customers supply certain personal data when registering and placing orders, including name, physical address, email address, and credit card information. This data is used only for the purpose of fulfilling orders or communicating with customers, or partners (such as add-on developers) regarding orders. Guests may browse devot-ee.com for free, without having to enter or supply any personal information.
 
 ####  Cookies
 
@@ -18,7 +18,7 @@ Like many other websites, devot:ee may use "cookies" (small text files stored lo
 
 ####  Sharing Personal Information
 
-devot:ee may share your personal information with partners or suppliers in order for them to fulfill the service or product you have ordered. This may include the maker or provider of the product you have purchased, companies used to process credit card or other payment types, deliver packages, provide customer service, or otherwise provide services that enable us to serve you. These organizations will have access only to the information required to permit them to perform their obligations to us. We make order information available to add-on developers through an API so that they are better able to support you after having purchased their item(s).
+devot:ee may share your personal information with partners or suppliers in order for them to fulfill the service or product you have ordered. This may include the maker or provider of the product you have purchased, companies used to process credit card or other payment types, deliver packages, provide customer service, or otherwise provide services that enable us to serve you. These organizations will have access only to the information required to permit them to perform their obligations to us. We make order information available to add-on developers through an API so that they are better able to support you after having purchased their item(s), which may include your name, email, and company name. For complete information on what is shared in our Orders API, see the [API documentation](https://web.archive.org/sell/orders-api).
 
 Beyond these mentioned disclosures, we will only disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority, to prevent harm to yourself or others, or to protect against fraud. We may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which devot:ee participates or to a purchaser of all or substantially all of devot:ee’s assets. Such successor entity shall be bound by the terms and conditions of this privacy policy.
 
