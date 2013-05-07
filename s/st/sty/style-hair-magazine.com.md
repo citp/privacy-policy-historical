@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the style-hair-magazine.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509214801id_/http%3A//www.style-hair-magazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the style-hair-magazine.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507094309id_/http%3A//www.style-hair-magazine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,12 @@ We may serve third-party advertisements that use cookies and web beacons in the 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
+
+### Notice Regarding Online Behavioral Advertising
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. 
+
+To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>. 
 
 ### Children's Online Privacy Protection Act
 
