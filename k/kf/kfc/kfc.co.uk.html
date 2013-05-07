@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kfc.co.uk privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023054031id_/http%3A//www.kfc.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kfc.co.uk privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507090231id_/http%3A//www.kfc.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" class=" webkit chrome linux js"><head>
 		<title>Privacy Policy - KFC.co.uk</title>
@@ -67,11 +67,12 @@ personal information and security">
 
 		window.fbAsyncInit = function() {
 			FB.init({
-				appId : '258050517636341', 
+				appId : '318548951580670', 
 				status : true,
 				cookie : true,
 				xfbml : true,
-				oauth : true
+				oauth : true,
+				frictionlessRequests: true
 			});
 			// run once with current status and whenever the status changes
 			FB.getLoginStatus(updateButton);
@@ -93,6 +94,27 @@ personal information and security">
 			} else {
 			}
 		}
+		
+		
+		function sendRequestToRecipients() {
+	        var user_ids = document.getElementsByName("user_ids")[0].value;
+	        FB.ui({method: 'apprequests',
+	          message: 'My Great Request',
+	          to: user_ids
+	        }, requestCallback);
+	      }
+
+	      function sendRequestViaMultiFriendSelector() {
+	        FB.ui({method: 'apprequests',
+	          message: 'My Great Request'
+	        }, requestCallback);
+	      }
+	      
+	      function requestCallback(response) {
+	        // Handle callback here
+	      }
+
+		
 		var onsuperclick= function (){
 			window.location='/dontworryeathappy/viewStory/8';
 		};
@@ -101,9 +123,7 @@ personal information and security">
 	
 	    
 	
-	
-		
-		<!-- main div start -->
+	<!-- main div start -->
 	<div class=" ">
 	
 		<noscript>
@@ -133,6 +153,8 @@ personal information and security">
 			<!--Main wrapper start-->
 			<div class="mainWrapper" style="top: 83px;">
 				
+
+
 
 
 
@@ -197,7 +219,7 @@ function setHeaderSearchAction(){
 			
 							<li class="saladsMenu"><a id="menu.salads" href="http://www.kfc.co.uk/our-food/salads" title="Salads">Salads</a></li>	
 			
-							<li class="snacksMenu"><a id="menu.snacks" href="http://www.kfc.co.uk/our-food/snacks" title="Snacks">Snacks</a></li>	
+							<li class="streetwise-snacksMenu"><a id="menu.streetwise-snacks" href="http://www.kfc.co.uk/our-food/streetwise-snacks" title="Streetwise Snacks">Streetwise Snacks</a></li>	
 			
 							<li class="drinksMenu"><a id="menu.drinks" href="http://www.kfc.co.uk/our-food/drinks" title="Drinks">Drinks</a></li>	
 			
@@ -210,6 +232,8 @@ function setHeaderSearchAction(){
 							<li class="deli-deluxe-rangeMenu"><a id="menu.deli-deluxe-range" href="http://www.kfc.co.uk/our-food/deli-deluxe-range" title="Deli Deluxe Range">Deli Deluxe Range</a></li>	
 			
 							<li class="grilled-bbq-rancher-rangeMenu"><a id="menu.grilled-bbq-rancher-range" href="http://www.kfc.co.uk/our-food/grilled-bbq-rancher-range" title="Grilled BBQ Rancher Range">Grilled BBQ Rancher Range</a></li>	
+			
+							<li class="dessertsMenu"><a id="menu.desserts" href="http://www.kfc.co.uk/our-food/desserts" title="Desserts">Desserts</a></li>	
 			
 			
                     	 
@@ -230,9 +254,6 @@ function setHeaderSearchAction(){
 				<div class="subMenu">
                 	<div class="innerWrap">
                     	<ul>
-			
-                    	<li class="newsMenu"><a id="menu.news" href="http://www.kfc.co.uk/about-kfc/news" title="News">News</a></li>
-			
 			
                     	<li class="imggalleryMenu"><a id="menu.imggallery" href="http://www.kfc.co.uk/about-kfc/image-library" title="Image Library">Image Library</a></li>
 			
@@ -376,6 +397,7 @@ function setHeaderSearchAction(){
 	</span>
 
 </div>
+
 
 
 			    
@@ -620,7 +642,7 @@ function setHeaderSearchAction(){
 
 
 <div class="footer">
-	<div class="copyTxt">© Copyright 2012 KFC. All Rights Reserved </div>
+	<div class="copyTxt">© Copyright 2013 KFC. All Rights Reserved </div>
 	<div class="footerLinks">
     	<ul>
         	<li><a href="http://www.kfc.co.uk/our-restaurants/find-a-kfc" title="Find a KFC">Find a KFC</a></li>
@@ -633,11 +655,15 @@ function setHeaderSearchAction(){
         </ul>
     </div>
     <div class="clear"></div>
+
     <div class="fb-footer fb-footer-loggedin">
-    <div id="fb-facepile">
-    <div class="fb-facepile" data-href="http://www.facebook.com/kfc.uk" data-size="small" data-max-rows="1" data-width="380"></div>
-    </div>
-    	<span><a href="http://www.facebook.com/KFC.UK">FB</a></span>
+        <div class="toppanel"></div>
+        <div class="expandable">
+            <div id="fb-facepile">
+                <div class="fb-facepile" data-href="http://www.facebook.com/kfc.uk" data-size="small" data-max-rows="1" data-width="325"></div>
+            </div>
+            <span><a href="http://www.facebook.com/KFC.UK">FB</a></span>
+        </div>
     </div>
     
 </div>
@@ -691,7 +717,7 @@ function setHeaderSearchAction(){
 		
 		<div>
 			<div id="light" class="youtube_content"></div>
-			<div id="closeButton">
+			<div id="closeButton" onclick="closeVideo();">
 				<img src="/resources/img/img-close.png" onclick="closeVideo();" alt="Close Video">
 			</div>
 			<div style="clear: both"></div>
@@ -744,4 +770,4 @@ function setHeaderSearchAction(){
 		</div>
 		<!-- main div end -->
 	
-<div id="superbox-overlay" style="display: none;"></div><div id="superbox-wrapper" style="display: none;"><div id="superbox-container"><div id="superbox"><p class="close"><a><strong><span>Close</span></strong></a></p><span onclick="onsuperclick()"></span><div id="superbox-innerbox"></div><p class="nextprev" style="display: none;"><a class="prev"><strong><span>Previous</span></strong></a><a class="next"><strong><span>Next</span></strong></a></p></div><p class="loading" style="display: none;">Loading...</p></div></div><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20121023051818/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121023054031id_%2Fhttp%253A%2F%2Fwww.kfc.co.uk%2Fprivacy-policy&amp;jsref=&amp;rnd=1580384638125" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20121023051818/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
+<div id="superbox-overlay" style="display: none;"></div><div id="superbox-wrapper" style="display: none;"><div id="superbox-container"><div id="superbox"><p class="close"><a><strong><span>Close</span></strong></a></p><span onclick="onsuperclick()"></span><div id="superbox-innerbox"></div><p class="nextprev" style="display: none;"><a class="prev"><strong><span>Previous</span></strong></a><a class="next"><strong><span>Next</span></strong></a></p></div><p class="loading" style="display: none;">Loading...</p></div></div><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20121023051818/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130507090231id_%2Fhttp%253A%2F%2Fwww.kfc.co.uk%2Fprivacy-policy&amp;jsref=&amp;rnd=1580384638394" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20121023051818/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
