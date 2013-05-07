@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdev.net privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026070606id_/http%3A//www.keycorrespondents.org/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdev.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508013835id_/http%3A//www.keycorrespondents.org/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Key Correspondents
 
