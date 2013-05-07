@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkbuilderworkroom.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003003213id_/http%3A//linkbuilderworkroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbuilderworkroom.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507194350id_/http%3A//linkbuilderworkroom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LinkBuilderWorkroom
+# Privacy Policy
 
 Like most website operators, LinkBuilderWorkroom.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. LinkBuilderWorkroom.com’s purpose in collecting non-personally identifying information is to better understand how LinkBuilderWorkroom.com’s visitors use its website. From time to time, LinkBuilderWorkroom.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
