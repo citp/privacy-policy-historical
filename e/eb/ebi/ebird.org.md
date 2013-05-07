@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207111121id_/http%3A//ebird.org/content/ebird/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507042315id_/http%3A//ebird.org/content/ebird/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — eBird
 
@@ -23,6 +23,10 @@ As conservation organizations, the Cornell Lab of Ornithology and the National A
 Cookies are pieces of data that we store on your computer to tie your information to the eBird program. Cookies allow you to store your login information, so that you will not be required to log in each time you visit the eBird web site.
 
 Internet browsers allow you to determine whether or not to accept cookies (check under the preferences or options in the browser menu). If you decide not to accept cookies, you can still use the eBird site, but you will need to re-enter login information each time you visit.
+
+**Great Backyard Bird Count**
+
+Participants in the Great Backyard Bird Count may wish to review the [GBBC privacy policy](http://www.birdsource.org/gbbc/faqs-1/privacy) as well.
 
 ### Changes to This Privacy Policy
 
