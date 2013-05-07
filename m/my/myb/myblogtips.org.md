@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118161230id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507135706id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Blogger Tips and Tricks-Latest Tips for Beginners Bloggers: Privacy Policy
+# Blogger Tips and Tricks: Privacy Policy
 
 **Privacy Policy for www.myblogtips.org**  
 
