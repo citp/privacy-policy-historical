@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105184223id_/http%3A//www.classmarker.com/online-testing/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507060452id_/http%3A//www.classmarker.com/online-testing/privacy) for the most accurate reproduction.*
 
 # Privacy ClassMarker
 
