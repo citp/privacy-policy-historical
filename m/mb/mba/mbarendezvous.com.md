@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106065749id_/http%3A//www.mbarendezvous.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507151655id_/http%3A//www.mbarendezvous.com/privacypolicy.php) for the most accurate reproduction.*
 
 # MBARendezvous.com Privacy Policy | MBARendezvous.com India's only Content Lead Portal
 
