@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022013502id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507131849id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
 
 # Learn More | Privacy Policy - ArcLight Cinemas
 
@@ -34,3 +34,26 @@ ArcLightCinemas.com may also contain links to other web sites and advertising. T
 
 ArcLightCinemas.com reserves the right to change or modify this Privacy Policy in its discretion at any time without notice to the users of our site, except that ArcLightCinemas.com will post the changed or modified Privacy Policy on our site as soon as practicable as such changes or modifications are implemented.  
 
+
+$1 or more off your next ticket! 
+
+## Join ArcLight’s community of moviegoers
+
+It's fast, free, and easy to join. Plus, we never sell your info to third parties and we promise you won't hear from us unless you want to. 
+
+### Benefits include:
+
+  * Member admission pricing: save $1.00 off each online ticket.
+  * Points awarded for expenditures made throughout ArcLight. Points are redeemable for discounts and items at the café, concessions, coffee bar and retail, and even free admission tickets. 
+  * Advance notice via email of films, presentations and events before the general public. 
+  * Special members-only invitations to select private screenings, Q&As and other events.
+
+
+
+### Thank You For Registering!
+
+### Want to keep working on your profile?
+
+50% Complete
+
+[CONTINUE](https://web.archive.org/Membership/Edit-Profile) SKIP THIS STEP
