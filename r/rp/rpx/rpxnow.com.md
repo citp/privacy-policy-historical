@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpxnow.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017132641id_/https%3A//rpxnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpxnow.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507185429id_/https%3A//rpxnow.com/privacy) for the most accurate reproduction.*
 
 # Janrain: User management platform for the social web
 
