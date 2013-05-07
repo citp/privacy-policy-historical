@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017025154id_/https%3A//www.utilitywarehouse.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507084136id_/https%3A//www.utilitywarehouse.co.uk/static/privacy) for the most accurate reproduction.*
 
 # Utility Warehouse
 
