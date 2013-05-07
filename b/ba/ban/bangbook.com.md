@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000418id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507140102id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
 
 # We bang, harder! - Adult personals, swingers and sex dating | Bangbook.com
 
@@ -7,7 +7,7 @@ THIS POLICY WAS LAST UPDATED ON 1st January 2010
 
 **BangBook Privacy Policy**
 
-Thermea Entertainment Group Ltd ("we" or " BangBook ") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the BangBook.com website, transactions for purchasing BangBook subscription services, and activities or communications that occur using the BangBook service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between BangBook.com, BangBook, or any other company, and consumers. This policy was implemented on January 1, 2010 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
+Thermea Entertainment Group Ltd, Gladstones, 120 Foloune Building, Flat/Office D1, Limassol Cyprus P.C. 3032 Tel: 877-597-3436 ("we" or " BangBook ") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the BangBook.com website, transactions for purchasing BangBook subscription services, and activities or communications that occur using the BangBook service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between BangBook.com, BangBook, or any other company, and consumers. This policy was implemented on January 1, 2010 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
 **Your IP Address**
 
