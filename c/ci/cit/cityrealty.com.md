@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204115735id_/http%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507093049id_/http%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CityRealty
 
@@ -69,7 +69,7 @@ You also have choices with respect to cookies. By modifying your browser prefere
 
 Back to top
 
-You may edit your CityRealty Web Site Preferences and your public CityRealty Web Site Profile at any time by using your CityRealty ID and password. If you have forgotten your password, please [click here](https://web.archive.org/my-cityrealty/forgot-password) to request a new password. For all other problems signing in to the CityRealty Web Site, please click here and complete this form. Some information that you provide to CityRealty, such as survey responses and clickstream data, may not be accessible in your CityRealty Web Site Preferences or Profile.
+You may edit your CityRealty Web Site Preferences and your public CityRealty Web Site Profile at any time by using your CityRealty ID and password. If you have forgotten your password, please [click here](https://web.archive.org/my-cityrealty/reset-password) to request a new password. For all other problems signing in to the CityRealty Web Site, please click here and complete this form. Some information that you provide to CityRealty, such as survey responses and clickstream data, may not be accessible in your CityRealty Web Site Preferences or Profile.
 
 Your CityRealty Web Site Profile can be deleted or deactivated, but doing so will result in your not being able to access any clients-only area of the CityRealty Web Site, including your CityRealty Web Site Portfolio (if you have one). If you saved the confirmation email you received when you first created your CityRealty Web Site account, you can use the URL provided in that message to delete your account at any time. Please call CityRealty at 212.755.5544 or email: [deactivate@cityrealty.com](mailto:deactivate@cityrealty.com) for further instructions about deleting or deactivating your CityRealty account. Residual information will remain within our archive records and may be used by CityRealty in accordance with this Privacy Policy.
 
