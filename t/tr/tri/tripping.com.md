@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tripping.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023183302id_/https%3A//www.tripping.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripping.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507112608id_/https%3A//www.tripping.com/about/legal/privacy) for the most accurate reproduction.*
 
-# Tripping Privacy Policy
-
-## Tripping Privacy Policy
+# Tripping Privacy Policy | Tripping.com
 
 Last Updated: 16 August 2011
 
