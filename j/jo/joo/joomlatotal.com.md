@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlatotal.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108152555id_/http%3A//joomlatotal.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlatotal.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508011854id_/http%3A//joomlatotal.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
