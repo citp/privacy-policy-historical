@@ -1,27 +1,51 @@
-<!--The following is the downloaded HTML source of the cityrealty.com privacy policy that was archived on 2012-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204115735id_/http%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityrealty.com privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507093049id_/http%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
-		<title>Privacy Policy | CityRealty</title>
+				<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+				<title>Privacy Policy | CityRealty</title>
 		<meta name="googlebot" content="noarchive">
 				
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/rhv5enl.js"></script>
-		<script type="text/javascript"> try{Typekit.load( {				  
-																												active: function() {
-																												  Core.add_nav_distribute_support();
-																												}
-																											});}catch(e){}
+		<script type="text/javascript"> 
+			var typekit_is_ready = false;
+			var distributed = false;
+			
+			try{
+				Typekit.load({				  
+											active: function(){
+												try{
+													document.fireEvent('typekitIsReady');
+													typekit_is_ready = true;
+													
+													window.load = function(){
+														if(typeof(Core) != 'undefined' && !distributed){
+														  Core.add_nav_distribute_support();
+														  distributed = true;
+														}
+													};
+													
+													window.addEvent('domready', function()
+													{
+													  if(typeof(Core) != 'undefined' && !distributed){
+														  Core.add_nav_distribute_support();
+														  distributed = true;
+														}
+													});
+												}catch(e){}
+											}
+										});
+			}catch(e){}
+			
 		</script>
 		
-		<!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'> -->
-    <link type="text/css" rel="stylesheet" href="http://resources.cityrealty.com/c/y/b/style.css?crv2.1" media="all">
+    <link type="text/css" rel="stylesheet" href="http://resources.cityrealty.com/c/y/b/style.css?crv2.1.190" media="all">
     <!--[if IE]>
-      <link rel="stylesheet" type="text/css" href="http://resources.cityrealty.com/c/y/b/ie.css?crv2.1" media="all" />
+      <link rel="stylesheet" type="text/css" href="http://resources.cityrealty.com/c/y/b/ie.css?crv2.1.190" media="all" />
     <![endif]-->
     <!--[if lte IE 7]>
-      <link rel="stylesheet" type="text/css" href="http://resources.cityrealty.com/c/y/b/ie7.css?crv2.1" media="all" />
+      <link rel="stylesheet" type="text/css" href="http://resources.cityrealty.com/c/y/b/ie7.css?crv2.1.190" media="all" />
     <![endif]-->
         
 		<link rel="shortcut icon" type="image/x-icon" href="http://resources.cityrealty.com/i/l/favicon.ico">
@@ -38,9 +62,6 @@
 			//]]>
 		</script>
 		<script type="text/javascript" src="http://resources.cityrealty.com/j/y/b/mootools.js"></script>
-		
-		
-		
 	</head>
 	
   <body id="gen" data-widgets="">
@@ -50,65 +71,51 @@
 	<a class="branding left" href="/">
 		<img alt="CityRealty Logo" src="http://resources.cityrealty.com/i/l/logo.gif" width="211" height="41">
 	</a>
-	
-  <div class="header_info right">					
-    <div class="header_block tk_header bold">
-			<span>
-				<a class="w_blimp_email" onclick="_gaq.push(['_trackEvent', 'Contact', 'Loaded', 'header']);" href="#/rpc/email-us-form">Email Us</a> or Call Us: 212.755.5544			</span> 
-      <span class="divider">&nbsp;</span>
-      <span>
-									<a class="w_blimp_signin" href="#/rpc/login-form">Sign In</a> or <a href="/my-cityrealty/register">Sign Up</a>
-							</span>
+
+	<div class="header_info">					
+		<div class="header_block tk_header clearfix">
+						<div class="signin">
+				<a class="w_blimp_signin" href="#/rpc/login-form">Sign In</a>
+			</div>
+			<div class="signup">
+				<a href="/my-cityrealty/register">Sign Up</a>
+			</div>
+			
+			<div class="divider">&nbsp;</div>
+
+			<div class="phone">
+				212.755.5544			</div>
+
+			<div class="email">
+				<a class="w_blimp_email" onclick="_gaq.push(['_trackEvent', 'Contact', 'Loaded', 'header']);" href="#/rpc/email-us-form">Email Us</a>
+			</div>
 		</div>
 
 		<div class="header_block clearfix">					          
-      <div class="w_search right">              
-        <form class="w_limousine clearfix" method="GET" action="/building/search" id="w_limousine">
-           
-          <label for="query"></label>
-          <input type="text" class="w_limousine_autocomplete left" name="query" id="query" title="Search for a Building by Name or Address" self-overtext="true">
-          <input type="submit" class="w_limousine_btn button _small left" name="" id="submit" value="SEARCH">
-          
-          <div class="w_limousine_config hidden" data-form-action="/rpc/building-suggest"></div>
-        </form>
-      </div>          	  
+			<div class="w_search right">              
+				<form class="w_limousine clearfix" method="GET" action="/building/search" id="w_limousine">
+
+					<label for="query"></label>
+					<input type="text" class="w_limousine_autocomplete left" name="query" id="query" title="Search for a Building by Name or Address" self-overtext="true" data-overtext="Search for a Building by Name or Address">
+					<input type="submit" class="w_limousine_btn" name="" id="submit" value="">
+
+					<div class="w_limousine_config hidden" data-form-action="/rpc/building-suggest"></div>
+				</form>
+			</div>          	  
 		</div>          
 	</div>
 
-	<!-- <div id="mycr_popup" class="w_popup _simple none">
-		<div class="w_popup_header">
-			<div class="w_popup_title">My CityRealty</div>
-			<a class="w_popup_close" href="#" title="close">Close</a>
-		</div>
-		<div class="w_popup_body wysiwyg"></div>
-	</div> -->
 </div>      
       <div id="nav" class="w_nav _main tk_header">
-	<ul class="_no_disc bold clearfix w_distributor">
-		<li id="nav_buy" class="main w_distributor_element"><a href="/nyc/apartments-for-sale">Buy</a></li>
-		<li id="nav_rent" class="main w_distributor_element"><a href="/nyc/rentals-directory">Rent</a></li>
-		<li id="nav_sell" class="main w_distributor_element"><a href="/nyc/sell">Sell</a></li>
-		<li id="nav_buildings" class="main w_distributor_element"><a href="/nyc/coop-condo-directory">Building Ratings &amp; Reviews</a></li>
-		<li id="nav_newdevelopments" class="main w_distributor_element"><a href="/nyc/property-developments">New Developments</a></li>
-		<li id="nav_localinfo" class="main w_distributor_element"><a class="tk_header" href="/nyc">Neighborhoods</a></li>
-		<li id="nav_nycguide" class="has_dropdown main w_distributor_element last">
-			<a href="/nyc/real-estate-resources/how-cityrealty-works">Guides &amp; Resources</a>
-			<div class="w_sbm_wrapper">
-				<div class="w_sbm _right">
-					<ul class="_no_disc clearfix">
-						<li><a href="/nyc/real-estate-resources/how-cityrealty-works">How CityRealty Works<span class="raquo">&nbsp;</span></a></li>
-						<li><a href="/nyc/real-estate-resources/international-buyers-guide">International Buyer's Guide<span class="raquo">&nbsp;</span></a></li>
-						<li><a href="/nyc/real-estate-resources/buyers-guide">Buyer's &amp; Renter's Guides<span class="raquo">&nbsp;</span></a></li>
-					</ul>
-					<ul class="_no_disc clearfix">
-						<li><a href="/nyc/real-estate/carters-view">Carter’s View<span class="raquo">&nbsp;</span></a></li>
-						<li><a href="/nyc/real-estate-insider">CityRealty Insider<span class="raquo">&nbsp;</span></a></li>
-						<li><a href="/buildings/top-ten">Top 10 Lists<span class="raquo">&nbsp;</span></a></li>
-					</ul>
-				</div>
-			</div>
-		</li>
-	</ul>
+	<div class="w_nav_wrapper clearfix">
+		<ul class="_no_disc clearfix w_distributor">
+			<li id="nav_buy"><a href="/nyc/apartments-for-sale">Buy</a></li>
+			<li id="nav_rent"><a href="/nyc/rentals-directory">Rent</a></li>
+			<li id="nav_buildings"><a href="/nyc/ratings-reviews-sale-data">Ratings, Reviews &amp; Sales Data</a></li>
+			<li id="nav_newdevelopments"><a href="/nyc/property-developments">New Condos</a></li>
+			<li id="nav_localinfo"><a class="tk_header" href="/nyc">Neighborhoods</a></li>
+		</ul>
+	</div>
 </div>      
 
 <div id="main" class="content container_32 clearfix">
@@ -119,8 +126,10 @@
     
     <div class="content_main grid_24 alpha clearfix main">
       
-<div class="page_title grid_32">
-	<h1 class="tk_header">Privacy Policy</h1>
+<div class="grid_32">
+	<div class="page_title">
+		<h1 class="tk_header">Privacy Policy</h1>
+	</div>
 </div>
 
 <div class="grid_24 alpha omega">
@@ -196,7 +205,7 @@
 
 			<a name="sec_7"></a>
 			<h3 class="tk_header">How you can access, update, or delete your information?</h3>
-			<p>You may edit your CityRealty Web Site Preferences and your public CityRealty Web Site Profile at any time by using your CityRealty ID and password. If you have forgotten your password, please <a href="/my-cityrealty/forgot-password">click here</a> to request a new password. For all other problems signing in to the CityRealty Web Site, please <a class="w_blimp_form" href="#/rpc/email-us-form">click here</a> and complete this form. Some information that you provide to CityRealty, such as survey responses and clickstream data, may not be accessible in your CityRealty Web Site Preferences or Profile.</p>
+			<p>You may edit your CityRealty Web Site Preferences and your public CityRealty Web Site Profile at any time by using your CityRealty ID and password. If you have forgotten your password, please <a href="/my-cityrealty/reset-password">click here</a> to request a new password. For all other problems signing in to the CityRealty Web Site, please <a class="w_blimp_form" href="#/rpc/email-us-form">click here</a> and complete this form. Some information that you provide to CityRealty, such as survey responses and clickstream data, may not be accessible in your CityRealty Web Site Preferences or Profile.</p>
 			<p>Your CityRealty Web Site Profile can be deleted or deactivated, but doing so will result in your not being able to access any clients-only area of the CityRealty Web Site, including your CityRealty Web Site Portfolio (if you have one). If you saved the confirmation email you received when you first created your CityRealty Web Site account, you can use the URL provided in that message to delete your account at any time. Please call CityRealty at 212.755.5544 or email: <a href="mailto:deactivate@cityrealty.com">deactivate@cityrealty.com</a> for further instructions about deleting or deactivating your CityRealty account. Residual information will remain within our archive records and may be used by CityRealty in accordance with this Privacy Policy.</p>
 			<p><a href="#top">Back to top</a></p>
 
@@ -228,7 +237,7 @@
  
     <div class="content_aside grid_8 omega main">
       
-      <div class="aside_find w_side_acc grid_8 alpha omega">
+      <div class="aside_find w_side_acc">
 		<div class="w_side_acc_header tk_header">Find a NYC Apartment</div>
 	
   <div class="w_side_acc_body">
@@ -269,17 +278,21 @@
   <div class="w_side_acc_footer w_links">
     <ul class="_no_disc bold">
       <li><a href="/nyc/real-estate-resources/how-cityrealty-works">How CityRealty Works<span>&nbsp;</span></a></li>
-      <li><a href="/nyc/coop-condo-directory">Building Ratings &amp; Reviews<span>&nbsp;</span></a></li>
+      <li><a href="/nyc/ratings-reviews-sale-data">Ratings, Reviews &amp; Sales Data<span>&nbsp;</span></a></li>
       <li><a href="/site/find-an-expert">Find an Expert NYC Agent<span>&nbsp;</span></a></li>
       <li><a href="/nyc/real-estate-resources/international-buyers-guide">For International Buyers<span>&nbsp;</span></a></li>
     </ul>
   </div>          
 </div>      
-      <div class="aside_ad w_ad_container grid_8 alpha omega main">
+      <div class="aside_ad w_ad_container">
     <div class="w_ad">
-    <a href="http://www.cityrealty.com/ad-server/?id=2463&amp;adg=B&amp;url=http%3A%2F%2Fwww.manhattanskyline.com%2F%3Futm_source%3DOMGCRBan%26utm_medium%3DOMGCRBan%26utm_campaign%3DOMGCRBan&amp;p=1&amp;i=7" target="_blank" rel="nofollow" onclick="javascript:urchinTracker('/site-privacy-page/http%3A%2F%2Fwww.manhattanskyline.com%2F%3Futm_source%3DOMGCRBan%26utm_medium%3DOMGCRBan%26utm_campaign%3DOMGCRBan')"><img src="http://www.cityrealty.com/rent/images/msl_cityrealty_240x500_v6aa.jpg"></a>  </div>
+    
+<script type="text/javascript">_gaq.push( [ "_trackEvent", "Ad View", "View", "/ad-view/id/2463/group/B/position/1/page-id/7/section/site-privacy-page/url/http%3A%2F%2Fwww.manhattanskyline.com%2F%3Futm_source%3DOMGCRBan%26utm_medium%3DOMGCRBan%26utm_campaign%3DOMGCRBan"] );</script>
+<a href="http://www.cityrealty.com/ad-server/?id=2463&amp;adg=B&amp;url=http%3A%2F%2Fwww.manhattanskyline.com%2F%3Futm_source%3DOMGCRBan%26utm_medium%3DOMGCRBan%26utm_campaign%3DOMGCRBan&amp;p=1&amp;i=7" target="_blank" rel="nofollow" data-track-link="true" data-track-category="Ad Click" data-track-action="Loaded" data-track-label="ID: 2463 - http%3A%2F%2Fwww.manhattanskyline.com%2F%3Futm_source%3DOMGCRBan%26utm_medium%3DOMGCRBan%26utm_campaign%3DOMGCRBan - Group: B - Position: 1 - PageID: 7 - Section: site-privacy-page"><img src="http://www.cityrealty.com/rent/images/msl_cityrealty_240x500_v6aa.jpg"></a>  </div>
     <div class="w_ad">
-    <a href="http://www.cityrealty.com/ad-server/?id=3161&amp;adg=B&amp;url=http%3A%2F%2Fbettinaequities.com%2F%3Futm_source%3DCRbanner%26utm_medium%3DCRbanner%26utm_campaign%3DCRbanner&amp;p=2&amp;i=7" target="_blank" rel="nofollow" onclick="javascript:urchinTracker('/site-privacy-page/http%3A%2F%2Fbettinaequities.com%2F%3Futm_source%3DCRbanner%26utm_medium%3DCRbanner%26utm_campaign%3DCRbanner')"><img src="http://www.cityrealty.com/rent/images/Bettina-v3.jpg"></a>  </div>
+    
+<script type="text/javascript">_gaq.push( [ "_trackEvent", "Ad View", "View", "/ad-view/id/5612/group/B/position/2/page-id/7/section/site-privacy-page/url/http%3A%2F%2Fwww.equityapartments.com%2Fnew-york%2Fnew-york-city-apartments%2Fmidtown%2Farchstone-west-54th-apartments.aspx"] );</script>
+<a href="http://www.cityrealty.com/ad-server/?id=5612&amp;adg=B&amp;url=http%3A%2F%2Fwww.equityapartments.com%2Fnew-york%2Fnew-york-city-apartments%2Fmidtown%2Farchstone-west-54th-apartments.aspx&amp;p=2&amp;i=7" target="_blank" rel="nofollow" data-track-link="true" data-track-category="Ad Click" data-track-action="Loaded" data-track-label="ID: 5612 - http%3A%2F%2Fwww.equityapartments.com%2Fnew-york%2Fnew-york-city-apartments%2Fmidtown%2Farchstone-west-54th-apartments.aspx - Group: B - Position: 2 - PageID: 7 - Section: site-privacy-page"><img src="http://www.cityrealty.com/rent/images/asn_54th.jpg"></a>  </div>
   </div>        
     </div>   <!-- aside -->
     
@@ -287,52 +300,101 @@
 </div><!--#content -->
 
 
-<div id="footer" class="footer">
-  <div class="siteinfo">
-		<ul class="siteinfo_nav">
-			<li class="first"><a href="/site/about">About CityRealty</a></li>
-			<li><a href="/site/advertise">Advertise With CityRealty</a></li>
-			<li><a href="/site/agent-information">Agent Information</a></li>
-			<li><a href="/site/terms-of-use">Terms of Use</a></li>
-			<li><a href="/site/privacy-policy">Privacy Policy</a></li>
-			<li class="last"><a href="#/rpc/home-contact-us-form" onclick="_gaq.push(['_trackEvent', 'Contact', 'Loaded', 'footer']);" class="w_blimp_contact_us">Contact Us</a></li>
-					</ul>
-    
-    <div class="siteinfo_extra clearfix">
-			<div class="left">
+	<div id="footer" class="footer tk_header">
+		<div class="siteinfo clearfix">
+			<div class="col_1">
 				<a href="/"><img src="http://resources.cityrealty.com/i/l/small_stamp.png"></a>
 			</div>
-			<div class="right">
-				<div>
-					<div class="siteinfo_social">
-						<ul class="clearfix">
-							<li class="first"><a class="facebook" href="http://www.facebook.com/cityrealtyny?ref=ts" target="_blank">Facebook</a></li>
-							<li><a class="twitter" href="http://www.twitter.com/cityrealty_" target="_blank">Twitter</a></li>
-							<li class="last"><a class="google" href="https://plus.google.com/u/0/105790946122997930623">Google</a></li>
-						</ul>
-					</div>
-					<div class="disclaimer">
-						All information furnished regarding New York City property for sale, rental or financing is from sources deemed reliable, but no warranty or representation is made as to the accuracy thereof and same is submitted subject to errors, omissions, change of price, rental or other conditions, prior sale, lease or financing or withdrawal without notice. All dimensions are approximate. For exact dimensions, you must hire your own architect or engineer.
-					</div>
-				</div>
-				<div class="clearfix">
-					<span class="copyright">© 2012 CityRealty.com, LLC</span>
-					<span class="equal_housing">An equal housing opportunity.</span>
-					<span class="right" style="width: 20%; text-align: right; margin-right: 125px;">Developed by <a href="http://reol.com/">REOL Services</a></span>
-				</div>
-			</div>
-    </div>
 
-  </div><!-- .siteinfo -->
-</div>
+			<div class="col_2">
+				<ul class="siteinfo_nav clearfix">
+					<li class="first"><a href="/site/about">About CityRealty</a></li>
+					<li><a href="/site/advertise">Advertise With CityRealty</a></li>
+					<li><a href="/site/agent-information">Agent Information</a></li>
+					<li class="last"><a href="#/rpc/home-contact-us-form" onclick="_gaq.push(['_trackEvent', 'Contact', 'Loaded', 'footer']);" class="w_blimp_contact_us">Contact Us</a></li>
+				</ul>
+
+				<div class="disclaimer">
+					<p>All information furnished regarding property for sale, rental or financing is from sources deemed reliable, but no warranty or representation is made as to the accuracy thereof and same is submitted subject to errors, omissions, change of price, rental or other conditions, prior sale, lease or financing or withdrawal without notice. All dimensions are approximate. For exact dimensions, you must hire your own architect or engineer and for no listing shall the number of bedrooms listed be considered a legal conclusion.</p>
+					<p>All closed sales data has been provided by the New York City Department of Finance via the Automated City Register Information System (ACRIS). No warranty or representation is made as to the accuracy of any data provided by ACRIS or any other sources.</p>
+				</div>
+
+				<a href="/site/terms-of-use">Terms of Service</a>
+				<span class="amp">&amp;</span>
+				<a href="/site/privacy-policy">Privacy Policy</a>
+
+				<span class="copyright">© 2013 CityRealty.com, LLC</span>
+
+				<div class="equal_housing">An equal housing opportunity</div>
+			</div>
+
+			<div class="col_3">
+				<a class="sell" href="/nyc/sell">Sell Your Apartment</a>
+				<div class="guides">
+					Guides + Resources
+					<div class="guides_menu">
+						<ul>
+							<li class="works">
+								<a href="/nyc/real-estate-resources/how-cityrealty-works">How CityRealty Works<span class="raquo">&nbsp;</span></a>
+							</li>
+							<li class="carter">
+								<a href="/nyc/real-estate/carters-view">Carter’s View<span class="raquo">&nbsp;</span></a>
+							</li>
+							<li class="international_guide">
+								<a href="/nyc/real-estate-resources/international-buyers-guide">International Buyer's Guide<span class="raquo">&nbsp;</span></a>
+							</li>
+							<li class="insider">
+								<a href="/nyc/real-estate-insider">CityRealty Insider<span class="raquo">&nbsp;</span></a>
+							</li>
+							<li class="buyers_guide">
+								<a href="/nyc/real-estate-resources/buyers-guide">Buyer's &amp; Renter's Guides<span class="raquo">&nbsp;</span></a>
+							</li>
+							<li class="top">
+								<a href="/buildings/top-ten">Top 10 Lists<span class="raquo">&nbsp;</span></a>
+							</li>
+						</ul>
+						<div class="pointer">&nbsp;</div>
+					</div>
+				</div>
+
+				<div class="siteinfo_social">
+					<ul class="clearfix">
+						<li class="first">
+							<a class="facebook" href="http://www.facebook.com/cityrealtyny?ref=ts" target="_blank">&nbsp;</a>
+						</li>
+						<li>
+							<a class="twitter" href="http://www.twitter.com/cityrealty_" target="_blank">&nbsp;</a>
+						</li>
+						<li class="last">
+							<a class="google" href="https://plus.google.com/u/0/105790946122997930623" target="_blank">&nbsp;</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="reol">Developed by <a href="http://reol.com/">REOL Services</a></div>
+			</div>
+		</div><!-- .siteinfo -->
+	</div><!-- .footer -->
 
 </div><!-- .page -->
+
+<script type="text/javascript">
+$$('a[data-track-link]').addEvent('click', function(e) {
+	e.preventDefault();
+	var _anchor = document.id(this);
+
+	_gaq.push( [ "_trackEvent", _anchor.getAttribute('data-track-category'), _anchor.getAttribute('data-track-action'), _anchor.getAttribute('data-track-label')] );
+	setTimeout(function() {
+		location.href = _anchor.getProperty('href');
+	}, 200);
+});
+</script>
 
 <!-- Start Quantcast Tag -->
 
 <!-- End Quantcast tag -->
 
-<script type="text/javascript" src="http://resources.cityrealty.com/j/y/b/script.js?crv2.1"></script>
+<script type="text/javascript" src="http://resources.cityrealty.com/j/y/b/script.js?crv2.1.190"></script>
 <script type="text/javascript">//<![CDATA[
 var Gv = Gv || [];
 Gv = Object.merge(Gv, {
