@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the designconnected.com privacy policy that was archived on 2012-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106175358id_/http%3A//www.designconnected.com/page/view/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designconnected.com privacy policy that was archived on 2013-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507203021id_/http%3A//www.designconnected.com/page/view/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>Privacy policy</title>
 <meta http-equiv="Content-Type" content="text/html charset=utf-8">
@@ -44,7 +44,7 @@
 	</style>
 <![endif]-->
 </head>
-<body>
+<body class="en">
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 			var js, fjs = d.getElementsByTagName(s)[0];
@@ -72,18 +72,26 @@
 <div class="clear"></div>
   <ul class="sub_top">
     <li class="sub_top">
-    	<a href="/en/page/view/privacy_policy" class="sub selected">English</a>
+    	<a href="/en/page/view/privacy_policy" class="sub selected" onclick="ChangeLanguage(1); return false;">English</a>
     </li>
     <li class="sub_top">
-    	<a href="/it/page/view/privacy_policy" class="sub ">Italiano</a>
+    	<a href="/it/page/view/privacy_policy" class="sub " onclick="ChangeLanguage(2); return false;">Italiano</a>
     </li>
     <li class="sub_top">
-    	<a href="/fr/page/view/privacy_policy" class="sub ">Français</a>
+    	<a href="/fr/page/view/privacy_policy" class="sub " onclick="ChangeLanguage(7); return false;">Français</a>
     </li>
     <li class="sub_top">
-    	<a href="/de/page/view/privacy_policy" class="sub ">Deutsch</a>
+    	<a href="/de/page/view/privacy_policy" class="sub " onclick="ChangeLanguage(8); return false;">Deutsch</a>
     </li>
   </ul>
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+function ChangeLanguage(lang_id) { 
+  if(!lang_id) return;
+  ajaxRPC.call('/home/lang_change/'+ lang_id);
+}				
+/* ]]> */
+</script>
  </div>
 		        <div id="top_curr" class="left top_menus"> 
 <a href="javascript:void(0);" class="top_menu">EUR</a>
@@ -135,7 +143,7 @@ function ChangeCurrency(currency_id) {
 					<a href="javascript:ShowFeedback()">Feedback</a>
 					<a href="javascript:void(0)" onclick="javascript:ShowNewsletter(this)">Newsletter</a>
 					<a href="/faq">Help</a>
-					<a href="/page/view/about_us">About us</a>
+					<a href="/page/view/about_us" class="last">About us</a>
 				</div>
 				
     	<div class="right account">
@@ -153,7 +161,7 @@ function ChangeCurrency(currency_id) {
 		<div id="ac_options" class="hide">
 			<input type="checkbox" name="opt[p]" value="p"><label for="">Product name</label>
 			<input type="checkbox" name="opt[m]" value="m"><label for="">Manufacturer</label>
-			<input type="checkbox" name="opt[d]" value="d"><label for="">Designner</label>
+			<input type="checkbox" name="opt[d]" value="d"><label for="">Designer</label>
 			<input type="checkbox" name="opt[i]" value="i"><label for="">DC model ID</label>
 		</div>
 	</form>
@@ -259,7 +267,6 @@ $(document).ready(function() {
     <li class="main"><a href="/catalog/productslist/cats" class="main models">3D Models</a>
         <ul class="sub">
           <li class="sub"><a href="/catalog/productslist/cats" class="sub">Browse all models</a></li>
-          <li class="sub"><a href="/catalog/productslist/bestsellers" class="sub">Bestsellers</a></li>
           <li class="sub"><a href="/catalog/productslist/free/Free-3D-Models" class="sub">Free models</a></li>
         </ul>
     </li>
@@ -353,14 +360,15 @@ We shall not reveal any personal data and shall not provide or transfer the coll
 		</div>
 		<div class="left linkbox">
 			<a href="/catalog/productslist/cats" class="firstelem">3D Models</a>
-			<a href="/catalog/productslist/filter/free_c12/cats">Free 3d models</a>
-			<a href="/catalog/pdf">Download PDF catalogs</a>
-			<a href="/page/view/model_compatibility">Model compatibility</a>
-			<a href="/catalog/manufacturers_3d_pages/official-Manufacturers-Free-3D-Models">Official free 3D models pages</a>
+			<a href="/catalog/productslist/filter/free_c12/cats" class="foot_link">Free 3d models</a>
+			<a href="/catalog/pdf" class="foot_link">Download PDF catalogs</a>
+			<a href="/page/view/model_compatibility" class="foot_link">Model compatibility</a>
+			<a href="/catalog/manufacturers_3d_pages/official-Manufacturers-Free-3D-Models" class="foot_link final">Official free 3D models pages</a>
 		</div>
 		<div class="left linkbox">
-			<div class="firstelem" style="color: #cccccc;">Blog</div><a href="javascript:showModal('modal-newsletter');">Newsletter</a>
-			<a href="javascript:ShowFeedback();">Feedback</a>
+			<div class="firstelem" style="color: #cccccc;">Blog</div>
+			<a href="javascript:showModal('modal-newsletter');" class="foot_link">Newsletter</a>
+			<a href="javascript:ShowFeedback();" class="foot_link">Feedback</a>
 			<span class="block">Follow us:</span>
 			<div class="follow">
 				<a href="/rss/latest_models"><img border="0" alt="rss" title="rss" src="/img/rss.gif"></a>
@@ -372,13 +380,13 @@ We shall not reveal any personal data and shall not provide or transfer the coll
 		</div>
 		<div class="left linkbox end">
  	    	<a href="/page/view/about_us" class="firstelem">About us</a>
-      		<a href="/page/view/who_uses_our_models">Gallery</a>
-			<a href="/page/view/why_designconnected">Why Designconnected?</a>
-      		<a href="/faq">Faq and Support</a>
-			<a href="/page/view/affiliate_program">Affiliate program</a>
+      		<a href="/page/view/who_uses_our_models" class="foot_link">Gallery</a>
+			<a href="/page/view/why_designconnected" class="foot_link">Why Designconnected?</a>
+      		<a href="/faq" class="foot_link">Faq and Support</a>
+			<a href="/page/view/affiliate_program" class="foot_link final">Affiliate program</a>
 		</div>
 		<div class="right logos">
-			<img src="/img/logos.png" alt="Designconnected 3D Studio" border="0">
+			<img src="/img/logos2.png" alt="Designconnected 3D Studio" border="0">
 			<div id="mcafeesecure">
 		        <!-- START SCANALERT CODE --> 
 		        <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.designconnected.com" rel="nofollow">
@@ -554,7 +562,7 @@ We shall not reveal any personal data and shall not provide or transfer the coll
 		<input id="newsletter-button" class="zdButton" type="button" onclick="ajaxRPC.validate('subscription');" value="Subscribe">
 	</div>
 	<div class="clear"></div>
-	<a href="/newsletter_preview/latest" class="arrowSmallButton">View latest newsletter</a>
+	<a href="/newsletter_preview/latest" class="arrowSmallButton" target="_blank">View latest newsletter</a>
 	<div class="clear"></div>
 	<a class="arrowSmallButton" href="javascript:showModal('modal-newsletter-unsubscribe');">Unsubscribe</a>
 	<div class="clear"></div>
@@ -579,7 +587,7 @@ We shall not reveal any personal data and shall not provide or transfer the coll
 <form name="subscription_single" id="subscription_single" method="post" class="req" action="/newsletter_subscription/subscription">
 	<label for="email">Subscribe to Newsletter</label>
 	<input type="text" onfocus="this.value=''" class="field" name="email" id="email" size="20" value="your email">
-	<a href="/newsletter_preview/latest" class="arrowSmallButton">View latest newsletter</a>
+	<a href="/newsletter_preview/latest" class="arrowSmallButton" target="_blank">View latest newsletter</a>
 	<div class="clear"></div>
 	<a class="arrowSmallButton unsubscribe" href="javascript:showModal('modal-newsletter-unsubscribe');">Unsubscribe</a>
 	<div class="clear"></div>
@@ -658,84 +666,7 @@ Thank you for singing up for DesignConnected newsletter!<br>
     <div class="box">
     	<div class="content">
         	<div class="closeBox"><a href="javascript:hideModal('modal-request')"><span class="close">Close</span></a></div>        	
-        	<div class="wrapper"><script type="text/javascript">
-/* <![CDATA[ */
-	function setValField_(field_id, message)
-	{
-		if(document.getElementById('val_'+field_id) == undefined)
-		{
-			var image = document.createElement('IMG');
-			//image.setAttribute('src', '/img/icons/validator_error.gif');
-			image.setAttribute('id', 'val_'+field_id);
-			image.setAttribute('class', 'vmiddle');
-			$('#'+field_id).after(image)
-		}
-		if(message)
-		{
-			$('#val_'+field_id).attr({src: '/img/icons/validator_error.gif', alt: message, title: message});
-		}
-		else
-		{
-			$('#val_'+field_id).attr({src: '/img/icons/validator_okay.gif', alt: 'Field is correct', title: 'Field is correct'});
-			//$('#val_'+field_id).attr('alt', 'Ready');
-		}
-	}
-/* ]]> */
-</script>
-<h1 class="title">Submit model request</h1>
-<form action="/request/submit_model" name="actionmodel" id="actionmodel" method="post" class="req" enctype="multipart/form-data">
-	<ul>
-		<li>
-			<div>Here you can submit a FREE request for an interior product <br>you'd like to see in 3d.</div>
-		</li>
-		<li>
-			<div>Please note that every model request should be checked and then <br>verified by our team and it can be rejected for any reasons.</div>
-		</li>
-		<li>
-			<div>If we decide to fulfil your request you will receive a confirmation <br>email with the expected delivery date.</div>
-		</li>
-	</ul>
-	<!-- <span id="required_descr" style="color:#FF0000"></span> -->
-	<label for="model_description">Description (Model name, Year, Designer, etc..)</label>
-	<textarea class="field" rows="5" cols="40" id="model_description" name="model_description"></textarea>
-	<!-- <span id="required_sources" style="color:#FF0000"></span> -->
-	<label for="model_sources" class="fmar">Web links</label>
-	<textarea class="field" rows="5" cols="40" id="model_sources" name="model_sources"></textarea>
-	<div class="block">References</div>
-	<input class="field" id="upload_1" name="upload_1" type="file"><br>
-	<input class="field" id="upload_2" name="upload_2" type="file"><br>
-	<input class="field nomar" id="upload_3" type="file"><br>
-	<div class="textData">
-       	
-	</div>
-	<div class="zdButton-wrap">
-		<div class="lzdButton">&nbsp;</div>
-		<input type="button" class="zdButton" value="Submit" onclick="ajaxRPC.validate('actionmodel');">
-	</div>
-	<div class="clear"></div>
-</form>
-<script language="javascript" type="text/javascript">
-function checkSubmit()
-{
-	if(document.getElementById('model_description').value.length < 1)
-	{
-		document.getElementById('required_descr').innerHTML = 'The description is required';
-		if(document.getElementById('model_sources').value.length < 1)
-		{
-			document.getElementById('required_sources').innerHTML = 'The sources are required';
-			return false;
-		}
-		return false;
-	}
-	if(document.getElementById('model_sources').value.length < 1)
-	{
-		document.getElementById('required_sources').innerHTML = 'The sources are required';
-		return false;
-	}
-  ajaxRPC.validate('actionmodel');
-	//document.actionmodel.submit();
-}
-</script></div>         
+        	<div class="wrapper">Access Denied</div>         
         </div>
     </div>
 </div>
@@ -858,7 +789,7 @@ $(document).ready(function() {
 <div id="pss">0</div>
 <script type="text/javascript">
 /* <![CDATA[ */
-	var lang_code = '';
+	var lang_code = 'en';
 	var ulin = '0';
 	ShoppingCart.Initialize(0, 0);
 /* ]]> */
@@ -866,12 +797,6 @@ $(document).ready(function() {
 <script type="text/javascript" language="javascript">
 /* <![CDATA[ */
 $(document).ready( function() {
-/*
-	//set footer height fix 
-  if($("body").height() < $(window).height()){
-    $(".footerWrapperFix").offset({ top: $(".footerWrapperFix").offset().top + ( $(window).height() - $("body").height()), left: 0 });
-  }
-*/
   //set zIndex IE fix 
   $(function() {
    if($.browser.msie && ($.browser.version.substr(0,1) < 8)){//
@@ -901,6 +826,9 @@ if ($.browser.opera) {
 }
 if ($.browser.mozilla) {
 	    $('body').attr('id', 'fixFF');
+}
+if (lang_code) {
+	    $('body').attr('class', lang_code);
 }
 /* ]]> */
 </script>
