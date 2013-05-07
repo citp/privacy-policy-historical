@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028022457id_/http%3A//partitionwizard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507135135id_/http%3A//partitionwizard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of MiniTool Solution Ltd.
 
@@ -28,17 +28,16 @@ In order to better understand what services are valuable to our customers, we us
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages.
 
 **Changes to the Privacy Policy**  
-Minitool Solution Ltd may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted. 
+MiniTool Solution Ltd may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted. 
 
 **Contact Us**  
 If you have any questions or suggestions regarding our Privacy Policy, please email us at [support@minitool.ca](mailto:support@minitool.ca).
 
 **Address**  
-MINITOOL SOLUTION LTD.  
-8329 158 STREET  
-SURREY, B.C. V4N0R4  
-CANADA
+701 West Georgia Street, Suite 1500,  
+Vancouver, British Columbia, V7Y 1C6,  
+Canada
 
-Phone: +1-(778)823-3233  
-Fax: +1-(604)756-1847  
+Tel: 778 823 3233  
+Fax: 604 756 1847  
 E-Mail: [support@minitool.ca](mailto:support@minitool.ca)
