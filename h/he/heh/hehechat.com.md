@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hehechat.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017164529id_/http%3A//hehechat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hehechat.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507140003id_/http%3A//hehechat.com/privacy) for the most accurate reproduction.*
 
-# Free Online Chat Rooms - HeheChat - Privacy Policy
+# Privacy Policy - HeheChat
 
 Privacy Policy
 
@@ -19,4 +19,4 @@ The information collected is for statistical purposes. HeheChat may use software
 
 For site security purposes and to ensure that this service remains available to all users, HeheChat uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-HeheChat will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+HeheChat will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. 
