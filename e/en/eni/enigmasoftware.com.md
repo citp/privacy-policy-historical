@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the enigmasoftware.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116121551id_/http%3A//www.enigmasoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enigmasoftware.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508125421id_/http%3A//www.enigmasoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Remove Spyware & Malware with SpyHunter - Enigma Software Group USA LLC
 
-Enigma Software Group USA, LLC, 2643 Gulf to Bay Boulevard, Suite 1560 #446, Clearwater, FL 33759, USA ("ESG") is dedicated to establishing a trusting relationships with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained by ESG, including but not limited to www.enigmasoftware.com. We want to demonstrate its commitment to our users’ privacy and establish our users’ trust in our ability to protect their data. Therefore, we are disclosing:
+Enigma Software Group USA, LLC, 2803 Gulf to Bay Boulevard, Suite #446, Clearwater, FL 33759, USA ("ESG") is dedicated to establishing a trusting relationships with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained by ESG, including but not limited to www.enigmasoftware.com. We want to demonstrate its commitment to our users’ privacy and establish our users’ trust in our ability to protect their data. Therefore, we are disclosing:
 
   1. What personally identifiable information ESG collects.
   2. How ESG uses the information.
@@ -107,7 +107,7 @@ If you have any concerns about privacy at enigmasoftware.com, please fill out th
 
 **Enigma Software Group USA, LLC.  
 Attn: Customer Service Department**  
-2643 Gulf to Bay Blvd.  
-Suite 1560 #446  
+2803 Gulf to Bay Blvd.  
+Suite #446  
 Clearwater, FL 33759  
 USA 
