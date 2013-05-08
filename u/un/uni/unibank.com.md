@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unibank.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513021950id_/https%3A//www.unibank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibank.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508215545id_/https%3A//www.unibank.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - UniBank
+# Privacy Policy
 
   **FACTS**
 
@@ -32,7 +32,8 @@ The types of personal information we collect and share depend on the product or 
 
 | 
 
-All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons UniBankchooses to share; and whether you can limit this sharing.  
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons UniBank chooses to share; and whether you can limit this sharing.  
+  
   
 **Reasons we can share your personal information**
 
@@ -46,7 +47,8 @@ All financial companies need to share customers’ personal information to run t
   
 ---|---|---  
   
-**For our everyday business purposes—** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+**For our everyday business purposes** —such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  
+
 
 | 
 
@@ -116,21 +118,16 @@ All financial companies need to share customers’ personal information to run t
 
 **NO**  
   
-**To limit**
-
+**To limit**  
  **our sharing**
 
 | 
 
-  * Call **800) 578-4270** —our menu will prompt you through your choice(s)
-  * Visit us online: **www.unibank.com** **or**
-  *  Mail the formbelow
-
-
-
- **Please note:**
-
-If you are a _new_ customer, we can begin sharing your information 30days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.  However, you can contact us at any time to limit our sharing.   
+• **Call (800) 578-4270** —our menu will prompt you through your choice(s)  
+• Visit us online: **www.unibank.com** or  
+• Mail the form below  
+Please note:   
+If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
   
 ---|---  
   
@@ -197,7 +194,8 @@ Whitinsville, MA 01588
 
 | 
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+To protect your personal information from unauthorized access and use, we use security measures that comply with state and federal law. These measures include computer safeguards and secured files and buildings.  
+  
   
 **How does **UniBank** **collect my personal information?****
 
@@ -241,7 +239,7 @@ Your choices will apply to everyone on your account.
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _UniBank, UniBank Fiscal Advisory Services, Inc., and Sterling Associates_
+  * _UniPayDirect, Inc. UniBank Fiscal Advisory Services, Inc., and Sterling Associates_
 
   
   
@@ -257,4 +255,4 @@ Companies not related by common ownership or control. They can be financial and 
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.   
   
-[Click Here](https://web.archive.org/_resources/common/userfiles/file/privacy%20notice%202011-web%20version_Layout%201.pdf) for the pdf version of the UniBank Opt Out Form
+[Click Here](https://web.archive.org/_resources/common/userfiles/file/UniBankPrivacyNotice2012.pdf) for the pdf version of the UniBank Opt Out Form
