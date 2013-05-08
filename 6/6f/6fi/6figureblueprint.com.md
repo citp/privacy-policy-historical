@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6figureblueprint.com privacy policy that was archived on 2012-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120112083308id_/http%3A//www.6figureblueprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6figureblueprint.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508030047id_/http%3A//www.6figureblueprint.com/privacy.html) for the most accurate reproduction.*
 
 # 6 Figure Blueprint | Contact Us
 
