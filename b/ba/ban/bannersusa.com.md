@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannersusa.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011022803id_/http%3A//www.bannersusa.com/All%2520Products/Privacy%2520Policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannersusa.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508170037id_/http%3A//www.bannersusa.com/All%2520Products/Privacy%2520Policy/index.php) for the most accurate reproduction.*
 
 # BannersUSA ll Banner Stand SetUp Guides
 
