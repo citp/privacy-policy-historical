@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000234id_/http%3A//www.higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508231023id_/http%3A//www.higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.*
 
 # Privacy Policy
 
