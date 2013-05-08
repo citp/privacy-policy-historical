@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetside2.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209014351id_/http%3A//www.station.sony.com/en_US/sonyonline/privacy.vm%3Flocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetside2.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508185617id_/http%3A//www.soe.com/sonyonline/privacy.vm) for the most accurate reproduction.*
 
-# Sony Online Entertainment
+# SOE - Privacy Policy
 
 #### Your Privacy Rights
 
