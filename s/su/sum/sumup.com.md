@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumup.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019070537id_/https%3A//sumup.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumup.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509012042id_/https%3A//sumup.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
-# SumUp – Privacy Policy
+# Card Payments for Everyone via iPhone, Android or iPad – SumUp – Privacy Policy
 
 ## Privacy Policy
 
@@ -10,7 +10,7 @@ Our Privacy Policy
 
 Sumup Ltd. (incorporated and existing under the laws of Ireland, company No. 505893) with its registered office at Hospitality House, 16-20 South Cumberland Street, Dublin 2, Ireland (“we” or “us”) are committed to protecting your information and respecting your privacy. We are registered with and are subject to supervision by the Irish Data Comissioner. 
 
-This Privacy Policy together with the SumUp Terms of Use (and any other documents referred to therein) set out the basis on which any personal data we collect from you, or which you provide to us, through our website www.sumup.com (“Website”) or in connection with your SumUp Account (as defined in the SumUp Terms of Use) will be processed by us. When you complete any form, speak with our staff or submit any details to us or using our Website, we will collect, use and disclose your personal information in the manner described in this Privacy Policy.
+This Privacy Policy together with the SumUp Terms of Use (and any other documents referred to therein) set out the basis on which any personal data we collect from you, or which you provide to us, through our website www.sumup.ie (“Website”) or in connection with your SumUp Account (as defined in the SumUp Terms of Use) will be processed by us. When you complete any form, speak with our staff or submit any details to us or using our Website, we will collect, use and disclose your personal information in the manner described in this Privacy Policy.
 
 Please read this Privacy Policy carefully to understand our views and practices regarding your personal data, how we use it and how we will treat it. If you do not agree with this Privacy Policy, please do not use our services.
 
@@ -134,7 +134,7 @@ Our Website may, from time to time, contain links to and from the websites of ou
 
 If your personal or professional details (such as your name, address, or telephone number) change you must update your details in the “Profile” section of your SumUp Account or by contacting Customer Services via the “Contact” section of the Website as soon as you can. We shall not be liable for any loss arising out of your failure to keep your personal details up to date. Your address and phone number can only be changed once in any 3 month period. In order to deactivate your SumUp Account, please refer to the SumUp Terms of Use.
 
-You have the right to access information that we hold about you. To do so, please contact us at the address given at the end of this policy. Access may be subject to a fee of up to £10.
+You have the right to access information that we hold about you. To do so, please contact us at the address given at the end of this policy. Access may be subject to a fee of up to €10.
 
 ## Cookies
 
@@ -166,6 +166,6 @@ You can block cookies by activating the setting on your browser which allows you
 
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to:
 
-Email: support@sumup.com
+Email: support@sumup.ie
 
 Post: Data Protection Officer, SumUp Ltd, Hospitality House, 16-20 South Cumberland Street, Dublin 2, Ireland
