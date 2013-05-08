@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213113618id_/http%3A//www.nomorerack.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508182939id_/http%3A//nomorerack.com/info/privacy_policy) for the most accurate reproduction.*
 
 # nomorerack.com
 
-nomorerack Retail Group, Inc. ("Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information. By visiting the nomorerack website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Nomorerack.com Inc. ("Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information. By visiting the nomorerack website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you are accessing Company's Website and when you use Company services.
 
@@ -50,9 +50,8 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to info@nomorerack.com and we will make every effort to resolve your concerns. You may also write to us at:
 
-nomorerack Retail Group  
-#154-1917 West 4th Avenue  
-Vancouver, BC V6J 1M7   
+Nomorerack.com Inc,  
+381 Park Avenue South,  
+New York, NY 10016 
 
-
-Effective Date: November 2, 2010
+Effective Date: December 9, 2012
