@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003808id_/http%3A//getinternetmarketingstrategies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinternetmarketingstrategies.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509011230id_/http%3A//getinternetmarketingstrategies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JR's Internet Marketing Strategies
+# Privacy Policy
 
 **The following describes the Privacy Policy for http://getinternetmarketingstrategies.com/**
 
@@ -18,7 +18,7 @@ To opt out of the DART cookies you may visit the Google ad and content network p
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
 
 **[Links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "Links") to Third Party Websites**  
-We have included [links](http://getinternetmarketingstrategies.com/2011/09/47-premium-link-building-strategies/ "links") on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
+We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
 
 **Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....**  
 Google Adsense  
@@ -68,5 +68,3 @@ While we are staunch privacy advocates at http://getinternetmarketingstrategies.
 COPYRIGHT WARNING: The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at http://getinternetmarketingstrategies.com/ have paid to license the use of these legal notices and administrative pages on http://getinternetmarketingstrategies.com/ for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so via our [contact page](http://getinternetmarketingstrategies.com/contact-me/).
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fgetinternetmarketingstrategies.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
