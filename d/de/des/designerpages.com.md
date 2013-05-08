@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219083911id_/http%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508132937id_/https%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
 
 # Designer Pages: Privacy Policy
 
