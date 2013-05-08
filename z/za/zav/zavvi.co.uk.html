@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the zavvi.co.uk privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227082905id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zavvi.co.uk privacy policy that was archived on 2013-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508180141id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-gb" dir="ltr" class="js"><head>
 
 
-<!-- Webserver =  || www.zavvi.com || 10.10.1.27 -->
+<!-- Webserver =  || www.zavvi.com || 10.10.1.35 -->
 
 
 
@@ -168,24 +168,13 @@
 
 
 
-	<link rel="stylesheet" href="/common/css/base.css?v=1.0" type="text/css" media="screen">
 
 
 
-	
-	
-		
+<link rel="stylesheet" href="css/screen.css?v=10" type="text/css" media="screen">
 
 
 
-
-<link rel="stylesheet" href="css/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
-<link rel="stylesheet" href="css/screen.css?v=7" type="text/css" media="screen">
-
-
-
-
-	
 
 
 
@@ -207,29 +196,56 @@
 
 
 
- 
 
 
 
 
-<script type="text/javascript" async="" src="//zavvi.peerius.com/tracker/peerius.page"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	document.getElementsByTagName('html')[0].className = 'js';
 
 	var siteObj = {
 			siteCode: 'zavvi',
 			siteNonSecureURL: 'http://www.zavvi.com/',
-			siteSecureURL: 'https://www.zavvi.com/zavvi',
+			siteSecureURL: 'https://www.zavvi.com/zavvi/',
 			siteBasketURL: 'https://www.zavvi.com/zavvi/my.basket',
+			siteCheckoutURL: 'https://www.zavvi.com/zavvi/checkoutStart.secure?newCheckout=true',
 			productImagePrefix: 'http://thehut.pantherssl.com/',
 			siteID: 23,
-			serverIP: '10.10.1.27',
+			siteURL: '//www.zavvi.com/',
+			serverIP: '10.10.1.35',
 			siteDefaultLocale: 'en_GB',
 			subsiteCode: (true ? null : ''),
 			dept: '',
 			
 			
-			
-			date: 'Thu Dec 27 08:29:05 GMT 2012',
+			date: 'Wed May 08 19:01:42 BST 2013',
+			features: {
+				facets : {
+					rowsize : 3
+				},
+				listitem : {
+					freeDelivery : false,
+					showRRP : false,
+					saving : {
+						show: false,
+						percent: false,
+						amount: false
+					},
+					quickview : {
+						show : false,
+						style : "icon"
+					},
+					pap : {
+						icon : false,
+						message: false
+					}
+				}
+			},
+			mvt: {
+				newfacets: false,
+				jsfonts: true
+			},
 			props: {
 				product: {
 					viewLargerImageLinkText: "View Larger Image",
@@ -260,17 +276,17 @@
 						basketTotal: "",
 						basketClose: "Close",
 						basketContinue: "Continue Shopping",
-						basketSave: "Save:"
+						basketSave: "Save:",
+						basketRRP: "RRP:"
 					}
-
 				},
+				quickview: {
+					text : "Quick View"
+				},	
 				bundles: {
-					normalSellingPrice: "Normal Selling Price",
-					addToBundle: "Add",
-					removeFromBundle: "Remove",
-					noneSelected: "None Selected",
 					pleaseSelectEnoughProducts: "Please make sure you have selected enough products",
-					somethingWentWrong: "Something Went Wrong"
+					pleaseSelect: "please select"
+					
 				},
 				account: {
 					ajaxFAQs: {
@@ -284,9 +300,20 @@
 				sli: {
 					siteName: "",
 					formAction: ""
+				},
+				listItem : {
+					defaultItem : {
+						rrp : "RRP:",
+						youSave : "Save:"
+					}
 				}
 			}
 		},
+
+		
+
+		
+
 		showExtras = false,
 		showFlashBanner = false,
 		strTrailerWidth = '400',
@@ -299,7 +326,43 @@
 
 	
 		
-			siteObj.affiliate = 'thgemail';
+			siteObj.affiliate = '';
+		
+		
+	
+
+	
+		siteObj.features.listitem.rowsize = 3;
+	
+
+	
+		siteObj.features.listitem.freeDelivery = true;
+	
+	
+	
+		siteObj.features.listitem.saving.show = true;
+	
+	
+	
+		siteObj.features.listitem.pap.icon = true;
+	
+	
+		siteObj.features.listitem.pap.message = true;
+	
+	
+		siteObj.features.listitem.saving.amount = true;
+	
+	
+	
+
+	
+	    siteObj.mvt.ordernumber = {
+	        enabled : true,
+	        value : ''
+	    };
+ 	
+	
+		
 		
 		
 	
@@ -307,6 +370,26 @@
 </script>
 
 
+
+
+	
+	
+
+
+
+
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+	var _vwo_code=(function(){
+	var account_id=19978,
+	settings_tolerance=2000,
+	library_tolerance=1500,
+	use_existing_jquery=false,
+	// DO NOT EDIT BELOW THIS LINE
+	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130508180141id_%2Fhttp%253A%2F%2Fwww.zavvi.com%2Fprivacy-policy.info&amp;r=0.9216930044811327" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
 
 
 	
@@ -337,36 +420,36 @@
 		
 		
 		
+				
+		
+		
+			
+		
 			
 			
+			
+				_gaq.push(['_trackPageview']);
+			
+		
+		
+		
+		
+			
+			
+			
+			
+			
 				
 					
+						_gaq.push(['_setCustomVar', 1, 'Page Type', 'info']);
 					
 					
-						_gaq.push(['_trackPageview']);
-					
-				
-				
-				
-				
-					
-					
-					
-					
-					
-						
-							
-								_gaq.push(['_setCustomVar', 1, 'Page Type', 'info']);
-							
-							
-						
-					
-				
-								
 				
 			
 		
-
+						
+		
+		
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -375,28 +458,6 @@
 		
 	</script>
 
-
-
-	
-	
-
-
-
-
-
-
-
-<!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">
-	var _vwo_code=(function(){
-	var account_id=19978,
-	settings_tolerance=2000,
-	library_tolerance=1500,
-	use_existing_jquery=false,
-	// DO NOT EDIT BELOW THIS LINE
-	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121227082905id_%2Fhttp%253A%2F%2Fwww.zavvi.com%2Fprivacy-policy.info&amp;r=0.6197880501689272" type="text/javascript"></script>
-<!-- End Visual Website Optimizer Asynchronous Code -->
 
 
 	
@@ -448,6 +509,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_07_300x250', [300, 25
 googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_08_300x250', [300, 250], 'div-gpt-ad-1340696893763-17').addService(googletag.pubads());
 googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 250], 'div-gpt-ad-1340696893763-18').addService(googletag.pubads());
 
+
 					googletag.pubads().enableSingleRequest();
 					googletag.pubads().collapseEmptyDivs();
 					
@@ -471,6 +533,14 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 						
 							googletag.pubads().setTargeting('bsktstatus', 'noproducts');
 							googletag.pubads().setTargeting('bsktitems', '0');
+						
+					
+					
+						
+						
+							googletag.pubads().setTargeting('searchterm', '');
+							googletag.pubads().setTargeting('searchres', '');
+							googletag.pubads().setTargeting('hassearchr', '');
 						
 					
 					googletag.enableServices();
@@ -497,7 +567,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 	
 
 
-	
+
 
 
 
@@ -549,11 +619,12 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 
 
 
+
+
 <!--
 
 
 -->
-
 
 <div class="preheader-area cf">
 	<div class="social-links">
@@ -588,9 +659,9 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 		<li>
 			<a title="Login to your Account" href="https://www.zavvi.com/zavvi/accountHome.secure" rel="nofollow">My Account</a>
 		</li>
-        
-        	<li><a title="Rewardz" href="http://www.zavvi.com/rewardz.info" rel="nofollow">Rewardz</a></li>
-        
+		
+			<li><a title="Rewardz" href="http://www.zavvi.com/rewardz.info" rel="nofollow">Rewardz</a></li>
+		
 	</ul>
 </div>
 
@@ -659,14 +730,15 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 		</div>
 	
 
+
 	<div id="nav">
 		<ul>
 			<li class="first">
-				<a accesskey="1" class="home" href="http://www.zavvi.com/home.dept" title="Go to the Homepage">Home</a>
+				<a accesskey="1" class="home tab" href="http://www.zavvi.com/home.dept" title="Go to the Homepage">Home</a>
 			</li>
-            
+			
 			<li>
-				<a accesskey="2" class="dvd" href="http://www.zavvi.com/dvd.dept" title="Go to the DVD page">DVD</a>
+				<a accesskey="2" class="dvd tab" href="http://www.zavvi.com/dvd.dept" title="Go to the DVD page">DVD</a>
 				
 					<div class="dropdown">
 						<div class="mega-section">
@@ -683,28 +755,27 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								<dd><a href="dvd/chart/film-chart.list">Film</a></dd>
 								<dd><a href="dvd/chart/tv-chart.list">TV</a></dd>
 							</dl>
-							<dl>
+                            
+                            
+                            <dl>
 							<dt>Shops</dt>
-								<dd><a href="shops/3d.list">3D Shop</a></dd>
-								<dd><a href="shops/tv.list">TV Shop</a></dd>
-								<dd><a href="dvd/offers/best-of-the-bbc.list">Best Of BBC</a></dd>
+								
+								<dd>
+									<a title="3D Shop" href="http://www.zavvi.com/shops/3d.list">3D Shop</a>
+								</dd>
+								
+								<dd>
+									<a title="Xbox" href="http://www.zavvi.com/shops/xbox.list">Xbox</a>
+								</dd>
+								
 							</dl>
-							
+                            
+                            
 								
 									<dl class="dvd-offers">
 									<dt><a href="dvd/offers.list">Offers</a></dt>
 								
-										<dd><a title="20th Century Fox DVD &amp; Blu-ray" href="http://www.zavvi.com/dvd/offers/20th-century-fox-dvd-blu-ray.list">20th Century Fox DVD &amp; Blu-ray</a></dd>
-								
-								
-							
-								
 										<dd><a title="Best Of British TV" href="http://www.zavvi.com/dvd/offers/best-of-british-tv.list">Best Of British TV</a></dd>
-								
-								
-							
-								
-										<dd><a title="Blockbuster Movies" href="http://www.zavvi.com/dvd/offers/blockbuster-movies.list">Blockbuster Movies</a></dd>
 								
 								
 							
@@ -716,16 +787,6 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								
 										<dd><a title="Comedy Film &amp; TV" href="http://www.zavvi.com/dvd/offers/comedy-film-tv.list">Comedy Film &amp; TV</a></dd>
 								
-									
-										</dl>
-										<dl class="inner-nav-list">
-									
-								
-								
-							
-								
-										<dd><a title="Doctor Who" href="http://www.zavvi.com/dvd/offers/doctor-who.list">Doctor Who</a></dd>
-								
 								
 							
 								
@@ -734,17 +795,37 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								
 							
 								
-										<dd><a title="Girls Night In" href="http://www.zavvi.com/dvd/offers/girls-night-in.list">Girls Night In</a></dd>
+										<dd><a title="Gay &amp; Lesbian" href="http://www.zavvi.com/dvd/offers/gay-lesbian.list">Gay &amp; Lesbian</a></dd>
 								
-								
-							
-								
-										<dd><a title="Kids Animation" href="http://www.zavvi.com/dvd/offers/kids-animation.list">Kids Animation</a></dd>
+									
+										</dl>
+										<dl class="inner-nav-list">
+									
 								
 								
 							
 								
 										<dd><a title="Movie Box Sets" href="http://www.zavvi.com/dvd/offers/movie-box-sets.list">Movie Box Sets</a></dd>
+								
+								
+							
+								
+										<dd><a title="Retro TV Classics" href="http://www.zavvi.com/dvd/offers/retro-tv-classics.list">Retro TV Classics</a></dd>
+								
+								
+							
+								
+										<dd><a title="Teen TV Box Sets" href="http://www.zavvi.com/dvd/offers/teen-tv-box-sets.list">Teen TV Box Sets</a></dd>
+								
+								
+							
+								
+										<dd><a title="TV Complete Series Box Sets" href="http://www.zavvi.com/dvd/offers/tv-complete-series-box-sets.list">TV Complete Series Box Sets</a></dd>
+								
+								
+							
+								
+										<dd><a title="US TV" href="http://www.zavvi.com/dvd/offers/us-tv.list">US TV</a></dd>
 								
 									
 								
@@ -758,7 +839,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 				
 			</li>
 			<li>
-				<a accesskey="3" class="blu-ray" href="http://www.zavvi.com/blu-ray.dept" title="Go to the Blu-ray page">Blu-ray</a>
+				<a accesskey="3" class="blu-ray tab" href="http://www.zavvi.com/blu-ray.dept" title="Go to the Blu-ray page">Blu-ray</a>
 				
 					<div class="dropdown">
 						<div class="mega-section">
@@ -768,6 +849,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								<dd><a href="blu-ray/box-sets.list">Box Sets</a></dd>
 								<dd><a href="blu-ray/coming-soon.list">Coming Soon</a></dd>
 								<dd><a href="blu-ray/latest-releases.list">Latest Releases</a></dd>
+                                <dd><a href="offers/steelbooks.list">Steelbooks</a></dd>
 							</dl>
 							<dl>
 							<dt>Charts</dt>
@@ -775,13 +857,22 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								<dd><a href="blu-ray/chart/film-chart.list">Film</a></dd>
 								<dd><a href="blu-ray/chart/tv-chart.list">TV</a></dd>
 							</dl>
-							<dl>
+                            
+                            
+                            <dl>
 							<dt>Shops</dt>
-								<dd><a href="shops/3d.list">3D Shop</a></dd>
-								<dd><a href="shops/tv.list">TV Shop</a></dd>
-								<dd><a href="shops/hbo.list">HBO</a></dd>
+								
+								<dd>
+									<a title="3D Shop" href="http://www.zavvi.com/shops/3d.list">3D Shop</a>
+								</dd>
+								
+								<dd>
+									<a title="Xbox" href="http://www.zavvi.com/shops/xbox.list">Xbox</a>
+								</dd>
+								
 							</dl>
-							
+                            
+                            
 								
 									<dl class="blu-ray-offers">
 									<dt><a href="blu-ray/offers.list">Offers</a></dt>
@@ -796,17 +887,17 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								
 							
 								
-										<dd><a title="Blockbuster Movies" href="http://www.zavvi.com/blu-ray/offers/blockbuster-movies.list">Blockbuster Movies</a></dd>
-								
-								
-							
-								
 										<dd><a title="Blu ray Box Sets" href="http://www.zavvi.com/blu-ray/offers/blu-ray-box-sets.list">Blu ray Box Sets</a></dd>
 								
 								
 							
 								
 										<dd><a title="Comedy Film &amp; TV" href="http://www.zavvi.com/blu-ray/offers/comedy-film-tv.list">Comedy Film &amp; TV</a></dd>
+								
+								
+							
+								
+										<dd><a title="Family Favourites" href="http://www.zavvi.com/blu-ray/offers/family-favourites.list">Family Favourites</a></dd>
 								
 									
 										</dl>
@@ -816,27 +907,27 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								
 							
 								
-										<dd><a title="Doctor Who" href="http://www.zavvi.com/blu-ray/offers/doctor-who.list">Doctor Who</a></dd>
+										<dd><a title="Gay &amp; Lesbian" href="http://www.zavvi.com/blu-ray/offers/gay-lesbian.list">Gay &amp; Lesbian</a></dd>
 								
 								
 							
 								
-										<dd><a title="Family Favourites" href="http://www.zavvi.com/blu-ray/offers/family-favourites.list">Family Favourites</a></dd>
+										<dd><a title="Movie Box Sets" href="http://www.zavvi.com/blu-ray/offers/movie-box-sets.list">Movie Box Sets</a></dd>
 								
 								
 							
 								
-										<dd><a title="Girls Night In" href="http://www.zavvi.com/blu-ray/offers/girls-night-in.list">Girls Night In</a></dd>
+										<dd><a title="Steelbooks" href="http://www.zavvi.com/blu-ray/offers/steelbooks.list">Steelbooks</a></dd>
 								
 								
 							
 								
-										<dd><a title="Horror" href="http://www.zavvi.com/blu-ray/offers/horror.list">Horror</a></dd>
+										<dd><a title="TV Complete Series Box Sets" href="http://www.zavvi.com/blu-ray/offers/tv-complete-series-box-sets.list">TV Complete Series Box Sets</a></dd>
 								
 								
 							
 								
-										<dd><a title="Kids Animation" href="http://www.zavvi.com/blu-ray/offers/kids-animation.list">Kids Animation</a></dd>
+										<dd><a title="US TV" href="http://www.zavvi.com/blu-ray/offers/us-tv.list">US TV</a></dd>
 								
 									
 								
@@ -849,8 +940,8 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 					</div>
 				
 			</li>
-            <li>
-				<a accesskey="4" class="games" href="http://www.zavvi.com/games.dept" title="Go to the Games page">Games</a>
+			<li>
+				<a accesskey="4" class="games tab" href="http://www.zavvi.com/games.dept" title="Go to the Games page">Games</a>
 				
 					<div class="dropdown">
 						<div class="mega-section cf">
@@ -890,240 +981,202 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								</dd>
 								
 								<dd><a href="blu-ray.dept">Blu-rays</a></dd>
-								<dd><a class="show-all-department" href="games/platforms/ps3.dept">View all</a></dd>
 							</dl>
 							<dl>
-							<dt><a href="games/platforms/xbox-360.dept">Xbox 360</a></dt>
-							
+								<dt><a href="games/platforms/ps4.dept">PS4</a></dt>
+								
 								<dd>
-									<a title="Best Selling" href="http://www.zavvi.com/games/platforms/xbox-360/best-selling.list">Best Selling</a>
+									<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/ps4/coming-soon.list">Coming Soon</a>
 								</dd>
-							
+								
 								<dd>
-									<a title="Consoles" href="http://www.zavvi.com/games/platforms/xbox-360/consoles.list">Consoles</a>
+									<a title="Consoles" href="http://www.zavvi.com/games/platforms/ps4/consoles.list">Consoles</a>
 								</dd>
-							
-								<dd>
-									<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/xbox-360/coming-soon.list">Coming Soon</a>
-								</dd>
-							
-								<dd>
-									<a title="Chart" href="http://www.zavvi.com/games/platforms/xbox-360/chart.list">Chart</a>
-								</dd>
-							
-								<dd>
-									<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/xbox-360/latest-releases.list">Latest Releases</a>
-								</dd>
-							
-								<dd>
-									<a title="Offers" href="http://www.zavvi.com/games/platforms/xbox-360/offers.list">Offers</a>
-								</dd>
-							
-								<dd>
-									<a title="Game Guides" href="http://www.zavvi.com/games/platforms/xbox-360/game-guides.list">Game Guides</a>
-								</dd>
-							
-								<dd>
-									<a title="Accessories" href="http://www.zavvi.com/games/platforms/xbox-360/accessories.list">Accessories</a>
-								</dd>
-							
-								<dd><a class="show-all-department" href="games/platforms/xbox-360.dept">View all</a></dd>
+								
 							</dl>
-							
 							<dl>
-							<dt><a href="games/platforms/wii-u.dept">Nintendo Wii U</a></dt>
-							
-								<dd>
-									<a title="Best Selling" href="http://www.zavvi.com/games/platforms/wii-u/best-selling.list">Best Selling</a>
-								</dd>
-							
-								<dd>
-									<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/wii-u/coming-soon.list">Coming Soon</a>
-								</dd>
-							
-								<dd>
-									<a title="Consoles" href="http://www.zavvi.com/games/platforms/wii-u/consoles.list">Consoles</a>
-								</dd>
-							
-								<dd>
-									<a title="Accessories" href="http://www.zavvi.com/games/platforms/wii-u/accessories.list">Accessories</a>
-								</dd>
-							
-								<dd><a class="show-all-department" href="games/platforms/wii-u.dept">View all</a></dd>
-							
-							<dt class="dropdown-child-list-even"><a href="games/platforms/nintendo-wii.dept">Nintendo Wii</a></dt>
-							
-								<dd>
-									<a title="Best Selling" href="http://www.zavvi.com/games/platforms/nintendo-wii/best-selling.list">Best Selling</a>
-								</dd>
-							
-								<dd>
-									<a title="Consoles" href="http://www.zavvi.com/games/platforms/nintendo-wii/consoles.list">Consoles</a>
-								</dd>
-							
-								<dd>
-									<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/nintendo-wii/coming-soon.list">Coming Soon</a>
-								</dd>
-							
-								<dd>
-									<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/nintendo-wii/latest-releases.list">Latest Releases</a>
-								</dd>
-							
-								<dd>
-									<a title="Accessories" href="http://www.zavvi.com/games/platforms/nintendo-wii/accessories.list">Accessories</a>
-								</dd>
-							
-								<dd><a class="show-all-department" href="games/platforms/nintendo-wii.dept">View all</a></dd>
+								<dt><a href="games/platforms/xbox-360.dept">Xbox 360</a></dt>
+								
+									<dd>
+										<a title="Best Selling" href="http://www.zavvi.com/games/platforms/xbox-360/best-selling.list">Best Selling</a>
+									</dd>
+								
+									<dd>
+										<a title="Consoles" href="http://www.zavvi.com/games/platforms/xbox-360/consoles.list">Consoles</a>
+									</dd>
+								
+									<dd>
+										<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/xbox-360/coming-soon.list">Coming Soon</a>
+									</dd>
+								
+									<dd>
+										<a title="Chart" href="http://www.zavvi.com/games/platforms/xbox-360/chart.list">Chart</a>
+									</dd>
+								
+									<dd>
+										<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/xbox-360/latest-releases.list">Latest Releases</a>
+									</dd>
+								
+									<dd>
+										<a title="Offers" href="http://www.zavvi.com/games/platforms/xbox-360/offers.list">Offers</a>
+									</dd>
+								
+									<dd>
+										<a title="Game Guides" href="http://www.zavvi.com/games/platforms/xbox-360/game-guides.list">Game Guides</a>
+									</dd>
+								
+									<dd>
+										<a title="Accessories" href="http://www.zavvi.com/games/platforms/xbox-360/accessories.list">Accessories</a>
+									</dd>
+								
 							</dl>
 							
 							<dl>
-							<dt><a href="games/platforms/pc.dept">PC Games</a></dt>
-							
-								<dd>
-									<a title="Best Selling" href="http://www.zavvi.com/games/platforms/pc/best-selling.list">Best Selling</a>
-								</dd>
-							
-								<dd>
-									<a title="Software" href="http://www.zavvi.com/games/platforms/pc/software.list">Software</a>
-								</dd>
-							
-								<dd>
-									<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/pc/coming-soon.list">Coming Soon</a>
-								</dd>
-							
-								<dd>
-									<a title="Chart" href="http://www.zavvi.com/games/platforms/pc/chart.list">Chart</a>
-								</dd>
-							
-								<dd>
-									<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/pc/latest-releases.list">Latest Releases</a>
-								</dd>
-							
-								<dd>
-									<a title="Offers" href="http://www.zavvi.com/games/platforms/pc/offers.list">Offers</a>
-								</dd>
-							
-								<dd>
-									<a title="Game Guides" href="http://www.zavvi.com/games/platforms/pc/game-guides.list">Game Guides</a>
-								</dd>
-							
-								<dd>
-									<a title="Accessories" href="http://www.zavvi.com/games/platforms/pc/accessories.list">Accessories</a>
-								</dd>
-							
-								<dd><a class="show-all-department" href="games/platforms/pc.dept">View all</a></dd>
+								<dt><a href="games/platforms/pc.dept">PC Games</a></dt>
+								
+									<dd>
+										<a title="Best Selling" href="http://www.zavvi.com/games/platforms/pc/best-selling.list">Best Selling</a>
+									</dd>
+								
+									<dd>
+										<a title="Software" href="http://www.zavvi.com/games/platforms/pc/software.list">Software</a>
+									</dd>
+								
+									<dd>
+										<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/pc/coming-soon.list">Coming Soon</a>
+									</dd>
+								
+									<dd>
+										<a title="Chart" href="http://www.zavvi.com/games/platforms/pc/chart.list">Chart</a>
+									</dd>
+								
+									<dd>
+										<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/pc/latest-releases.list">Latest Releases</a>
+									</dd>
+								
+									<dd>
+										<a title="Offers" href="http://www.zavvi.com/games/platforms/pc/offers.list">Offers</a>
+									</dd>
+								
+									<dd>
+										<a title="Game Guides" href="http://www.zavvi.com/games/platforms/pc/game-guides.list">Game Guides</a>
+									</dd>
+								
+									<dd>
+										<a title="Accessories" href="http://www.zavvi.com/games/platforms/pc/accessories.list">Accessories</a>
+									</dd>
+								
 							</dl>
-							
+
 							<dl>
-							<dt><a href="games/platforms/nintendo-3ds.dept">Nintendo 3DS</a></dt>
-							
-								<dd>
-									<a title="Best Selling" href="http://www.zavvi.com/games/platforms/nintendo-3ds/best-selling.list">Best Selling</a>
-								</dd>
-							
-								<dd>
-									<a title="Consoles" href="http://www.zavvi.com/games/platforms/nintendo-3ds/consoles.list">Consoles</a>
-								</dd>
-							
-								<dd>
-									<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/nintendo-3ds/coming-soon.list">Coming Soon</a>
-								</dd>
-							
-								<dd>
-									<a title="Chart" href="http://www.zavvi.com/games/platforms/nintendo-3ds/chart.list">Chart</a>
-								</dd>
-							
-								<dd>
-									<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/nintendo-3ds/latest-releases.list">Latest Releases</a>
-								</dd>
-							
-								<dd>
-									<a title="Offers" href="http://www.zavvi.com/games/platforms/nintendo-3ds/offers.list">Offers</a>
-								</dd>
-							
-								<dd>
-									<a title="Games Guides" href="http://www.zavvi.com/games/platforms/nintendo-3ds/games-guides.list">Games Guides</a>
-								</dd>
-							
-								<dd>
-									<a title="Accessories" href="http://www.zavvi.com/games/platforms/nintendo-3ds/accessories.list">Accessories</a>
-								</dd>
-							
-								<dd><a class="show-all-department" href="games/platforms/nintendo-3ds.dept">View all</a></dd>
-							</dl>
-							<dl>
-							<dt><a href="games/platforms/ps-vita.dept">PS Vita</a></dt>
-							
-								<dd>
-									<a title="Best Selling" href="http://www.zavvi.com/games/platforms/ps-vita/best-selling.list">Best Selling</a>
-								</dd>
-							
-								<dd>
-									<a title="Consoles" href="http://www.zavvi.com/games/platforms/ps-vita/consoles.list">Consoles</a>
-								</dd>
-							
-								<dd>
-									<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/ps-vita/coming-soon.list">Coming Soon</a>
-								</dd>
-							
-								<dd>
-									<a title="Chart" href="http://www.zavvi.com/games/platforms/ps-vita/chart.list">Chart</a>
-								</dd>
-							
-								<dd>
-									<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/ps-vita/latest-releases.list">Latest Releases</a>
-								</dd>
-							
-								<dd>
-									<a title="Offers" href="http://www.zavvi.com/games/platforms/ps-vita/offers.list">Offers</a>
-								</dd>
-							
-								<dd>
-									<a title="Game Guides" href="http://www.zavvi.com/games/platforms/ps-vita/game-guides.list">Game Guides</a>
-								</dd>
-							
-								<dd>
-									<a title="Accessories" href="http://www.zavvi.com/games/platforms/ps-vita/accessories.list">Accessories</a>
-								</dd>
-							
-								<dd><a class="show-all-department" href="games/platforms/ps-vita.dept">View all</a></dd>
+								<dt><a href="games/platforms/ps-vita.dept">PS Vita</a></dt>
+								
+									<dd>
+										<a title="Best Selling" href="http://www.zavvi.com/games/platforms/ps-vita/best-selling.list">Best Selling</a>
+									</dd>
+								
+									<dd>
+										<a title="Consoles" href="http://www.zavvi.com/games/platforms/ps-vita/consoles.list">Consoles</a>
+									</dd>
+								
+									<dd>
+										<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/ps-vita/coming-soon.list">Coming Soon</a>
+									</dd>
+								
+									<dd>
+										<a title="Chart" href="http://www.zavvi.com/games/platforms/ps-vita/chart.list">Chart</a>
+									</dd>
+								
+									<dd>
+										<a title="Latest Releases" href="http://www.zavvi.com/games/platforms/ps-vita/latest-releases.list">Latest Releases</a>
+									</dd>
+								
+									<dd>
+										<a title="Offers" href="http://www.zavvi.com/games/platforms/ps-vita/offers.list">Offers</a>
+									</dd>
+								
+									<dd>
+										<a title="Game Guides" href="http://www.zavvi.com/games/platforms/ps-vita/game-guides.list">Game Guides</a>
+									</dd>
+								
+									<dd>
+										<a title="Accessories" href="http://www.zavvi.com/games/platforms/ps-vita/accessories.list">Accessories</a>
+									</dd>
+								
 							</dl>
 						</div>
 						<hr>
 						<div class="mega-section cf">
 							<dl>
+								<dt><a href="games/platforms/wii-u.dept">Nintendo Wii U</a></dt>
+								
+									<dd>
+										<a title="Best Selling" href="http://www.zavvi.com/games/platforms/wii-u/best-selling.list">Best Selling</a>
+									</dd>
+								
+									<dd>
+										<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/wii-u/coming-soon.list">Coming Soon</a>
+									</dd>
+								
+									<dd>
+										<a title="Consoles" href="http://www.zavvi.com/games/platforms/wii-u/consoles.list">Consoles</a>
+									</dd>
+								
+									<dd>
+										<a title="Accessories" href="http://www.zavvi.com/games/platforms/wii-u/accessories.list">Accessories</a>
+									</dd>
+								
+							</dl>
+							<dl>
+								<dt><a href="games/platforms/nintendo-3ds.dept">Nintendo 3DS</a></dt>
+								
+									<dd>
+										<a title="Best Selling" href="http://www.zavvi.com/games/platforms/nintendo-3ds/best-selling.list">Best Selling</a>
+									</dd>
+								
+									<dd>
+										<a title="Consoles" href="http://www.zavvi.com/games/platforms/nintendo-3ds/consoles.list">Consoles</a>
+									</dd>
+								
+									<dd>
+										<a title="Coming Soon" href="http://www.zavvi.com/games/platforms/nintendo-3ds/coming-soon.list">Coming Soon</a>
+									</dd>
+								
+									<dd>
+										<a title="Chart" href="http://www.zavvi.com/games/platforms/nintendo-3ds/chart.list">Chart</a>
+									</dd>
+								
+							</dl>
+							<dl>
 								<dt>Other Formats</dt>
+								<dd><a href="games/platforms/nintendo-wii.dept">Wii</a></dd>
 								<dd><a href="games/platforms/nintendo-ds.dept">NDS</a></dd>
-								<dd><a href="games/platforms/psp.dept">PSP</a></dd>
-								<dd><a href="games/platforms/ps2.dept">PS2</a></dd>
 							</dl>
 							<dl>
 								<dt>Genre</dt>
 								<dd><a href="games/elysium.search?search=&amp;searchFilters=R2FtZXMjZGVwYXJ0bWVudDpnYW1lcyohRlBTI2dlbnJlbHZsMV9jb250ZW50OkZQUyE%3D">FPS</a></dd>
 								<dd><a href="games/elysium.search?search=&amp;searchFilters=R2FtZXMjZGVwYXJ0bWVudDpnYW1lcyohUlBHI2dlbnJlbHZsMV9jb250ZW50OlJQRyE%3D">RPG</a></dd>
-								<dd><a href="games/elysium.search?search=&amp;searchFilters=R2FtZXMjZGVwYXJ0bWVudDpnYW1lcyohRHJpdmluZy9SYWNpbmcjZ2VucmVsdmwxX2NvbnRlbnQ6RHJpdmluZy9SYWNpbmch">Driving</a></dd>
+								<dd><a href="games/elysium.search?search=&amp;searchFilters=R2FtZXMjZGVwYXJ0bWVudDpnYW1lcyohRHJpdmluZy9SYWNpbmcjZ2VucmVsdmwxX2NvbnRlbnQ6RHJpdmluZy9SYWNpbmch">Racing</a></dd>
 								<dd><a href="games/elysium.search?search=&amp;searchFilters=R2FtZXMjZGVwYXJ0bWVudDpnYW1lcyohU2ltdWxhdGlvbiNnZW5yZWx2bDFfY29udGVudDpTaW11bGF0aW9uIQ%3D%3D">Simulation</a></dd>
-								<dd><a href="games/elysium.search?search=&amp;searchFilters=R2FtZXMjZGVwYXJ0bWVudDpnYW1lcyohU3BvcnQjZ2VucmVsdmwxX2NvbnRlbnQ6U3BvcnQh">Sport</a></dd>
 							</dl>
 							<dl>
 								<dt>Offers</dt>
-                                <dd><a href="shops/ea-extras-club.list">EA Extras Club</a></dd>
-                                <dd><a href="offers/2-for-25.list">2 For £25</a></dd>
+								<dd><a href="shops/ea-extras-club.list">EA Extras Club</a></dd>
+								<dd><a href="offers/2-for-25.list">2 For £25</a></dd>
 								<dd><a href="offers/games-3-for-10.list">PC 3 For £10</a></dd>
-								<dd><a href="offers/3-for-18.list">3 For £18</a></dd>	
-                            </dl>
+							</dl>
 						</div>
 						
 					</div>
 				
 			</li>
 			<li>
-				<a accesskey="5" class="technology" href="http://www.zavvi.com/technology.dept" title="Go to the Technology page">Technology</a>
+				<a accesskey="5" class="technology tab" href="http://www.zavvi.com/technology.dept" title="Go to the Technology page">Technology</a>
 				
 					<div class="dropdown">
 					<div>
 						<dl>
-	                        <dt><a href="technology/headphones-earphones.list">Headphones &amp; Earphones</a></dt>
+							<dt><a href="technology/headphones-earphones.list">Headphones &amp; Earphones</a></dt>
 								
 									<dd>
 										<a title="In Ear" href="http://www.zavvi.com/technology/headphones-earphones/in-ear.list">In Ear</a>
@@ -1134,7 +1187,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 									</dd>
 								
 								<dd><a class="show-all-department" href="technology/headphones-earphones.list">View all</a></dd>
-	                        
+							
 							<dt><a href="technology/audio.list">Audio</a></dt>
 								
 									<dd>
@@ -1207,25 +1260,25 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								</dd>
 							
 								<dd>
-									<a title="TV's &amp; Monitors" href="http://www.zavvi.com/technology/home-entertainment/tv-s-monitors.list">TV's &amp; Monitors</a>
+									<a title="Optical Drives" href="http://www.zavvi.com/technology/home-entertainment/optical-drives.list">Optical Drives</a>
 								</dd>
-							
-                            <dd><a class="show-all-department" href="technology/home-entertainment.list">View all</a></dd>
-                            
-                        </dl>    
-						<dl>
-							<dt class="dropdown-child-list"><a href="technology/pc-laptops.list">PC &amp; Laptops</a></dt>
 							
 								<dd>
-									<a title="View All" href="http://www.zavvi.com/technology/pc-laptops/view-all.list">View All</a>
+									<a title="TVs &amp; Monitors" href="http://www.zavvi.com/technology/home-entertainment/tvs-monitors.list">TVs &amp; Monitors</a>
 								</dd>
+							
+							<dd><a class="show-all-department" href="technology/home-entertainment.list">View all</a></dd>
+							
+						</dl>    
+						<dl>
+							<dt class="dropdown-child-list"><a href="technology/pc-laptops.list">PC &amp; Laptops</a></dt>
 							
 								<dd>
 									<a title="Laptops" href="http://www.zavvi.com/technology/pc-laptops/laptops.list">Laptops</a>
 								</dd>
 							
 								<dd>
-									<a title="PC &amp; Laptop Acessories" href="http://www.zavvi.com/technology/pc-laptops/pc-laptop-acessories.list">PC &amp; Laptop Acessories</a>
+									<a title="PC &amp; Laptop Accessories" href="http://www.zavvi.com/technology/pc-laptops/pc-laptop-accessories.list">PC &amp; Laptop Accessories</a>
 								</dd>
 							
 								<dd>
@@ -1245,7 +1298,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								</dd>
 							
 							<dd><a class="show-all-department" href="technology/pc-laptops.list">View all</a></dd>
-                            
+							
 						</dl>
 						<dl>
 							<dt><a href="technology/ipads-tablets-ereaders.list">iPads, Tablets &amp; eReaders</a></dt>
@@ -1274,7 +1327,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 				
 			</li>
 			<li>
-				<a accesskey="6" class="clothing" href="http://www.zavvi.com/clothing.dept" title="Go to the Clothing page">Clothing</a>
+				<a accesskey="6" class="clothing tab" href="http://www.zavvi.com/clothing.dept" title="Go to the Clothing page">Clothing</a>
 				
 					<div class="dropdown">
 						<div class="mega-section">
@@ -1286,7 +1339,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 									</dd>
 								
 									<dd>
-										<a title="Jackets" href="http://www.zavvi.com/clothing/men/clothing/product-types/jackets-waistcoats.list">Jackets</a>
+										<a title="Jackets &amp; Coats" href="http://www.zavvi.com/clothing/men/clothing/product-types/jackets-waistcoats.list">Jackets &amp; Coats</a>
 									</dd>
 								
 									<dd>
@@ -1298,15 +1351,15 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 									</dd>
 								
 									<dd>
+										<a title="Polo Shirts" href="http://www.zavvi.com/clothing/men/clothing/product-types/polo-shirts.list">Polo Shirts</a>
+									</dd>
+								
+									<dd>
 										<a title="Shirts" href="http://www.zavvi.com/clothing/men/clothing/product-types/shirts.list">Shirts</a>
 									</dd>
 								
 									<dd>
-										<a title="Sweatshirts" href="http://www.zavvi.com/clothing/men/clothing/product-types/sweatshirts.list">Sweatshirts</a>
-									</dd>
-								
-									<dd>
-										<a title="T-Shirts &amp; Tops" href="http://www.zavvi.com/clothing/men/clothing/product-types/t-shirts-tops.list">T-Shirts &amp; Tops</a>
+										<a title="Shorts" href="http://www.zavvi.com/clothing/men/clothing/product-types/shorts.list">Shorts</a>
 									</dd>
 								
 								<dd><a class="show-all-department" href="clothing/men.dept">View all Men's</a></dd>
@@ -1353,6 +1406,18 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 								<dt>Men's Brands</dt>
 								
 									<dd>
+										<a title="Atticus" href="http://www.zavvi.com/clothing/men/clothing/brands/atticus.list">Atticus</a>
+									</dd>
+								
+									<dd>
+										<a title="Bench" href="http://www.zavvi.com/clothing/men/clothing/brands/bench.list">Bench</a>
+									</dd>
+								
+									<dd>
+										<a title="Everlast" href="http://www.zavvi.com/clothing/men/clothing/brands/everlast.list">Everlast</a>
+									</dd>
+								
+									<dd>
 										<a title="Iron Fist" href="http://www.zavvi.com/clothing/men/clothing/brands/iron-fist.list">Iron Fist</a>
 									</dd>
 								
@@ -1361,23 +1426,11 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 									</dd>
 								
 									<dd>
-										<a title="Atticus" href="http://www.zavvi.com/clothing/men/clothing/brands/atticus.list">Atticus</a>
-									</dd>
-								
-									<dd>
-										<a title="Everlast" href="http://www.zavvi.com/clothing/men/clothing/brands/everlast.list">Everlast</a>
-									</dd>
-								
-									<dd>
-										<a title="Bench" href="http://www.zavvi.com/clothing/men/clothing/brands/bench.list">Bench</a>
-									</dd>
-								
-									<dd>
-										<a title="Helly Hansen" href="http://www.zavvi.com/clothing/men/clothing/brands/helly-hansen.list">Helly Hansen</a>
-									</dd>
-								
-									<dd>
 										<a title="Tokyo Laundry" href="http://www.zavvi.com/clothing/men/clothing/brands/tokyo-laundry.list">Tokyo Laundry</a>
+									</dd>
+								
+									<dd>
+										<a title="55 Soul" href="http://www.zavvi.com/clothing/men/clothing/brands/55-soul.list">55 Soul</a>
 									</dd>
 								
 							</dl>
@@ -1448,24 +1501,16 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 									</dd>
 								
 									<dd>
-										<a title="Briefs" href="http://www.zavvi.com/clothing/women/lingerie/product-types/briefs.list">Briefs</a>
+										<a title="Knickers" href="http://www.zavvi.com/clothing/women/lingerie/product-types/knickers.list">Knickers</a>
 									</dd>
 								
 									<dd>
 										<a title="Loungewear" href="http://www.zavvi.com/clothing/women/lingerie/product-types/loungewear.list">Loungewear</a>
 									</dd>
 								
-									<dd>
-										<a title="Swimwear" href="http://www.zavvi.com/clothing/women/lingerie/product-types/swimwear.list">Swimwear</a>
-									</dd>
-								
 								<dd><a class="show-all-department" href="clothing/women/lingerie.dept">View all</a></dd>
 	
 								<dt class="dropdown-child-list-even women-brands">Women's Brands</dt>
-								
-									<dd>
-										<a title="55Soul" href="http://www.zavvi.com/clothing/women/clothing/brands/55soul.list">55Soul</a>
-									</dd>
 								
 									<dd>
 										<a title="Bench" href="http://www.zavvi.com/clothing/women/clothing/brands/bench.list">Bench</a>
@@ -1484,11 +1529,15 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 									</dd>
 								
 									<dd>
-										<a title="Firetrap" href="http://www.zavvi.com/clothing/women/clothing/brands/firetrap.list">Firetrap</a>
+										<a title="Influence" href="http://www.zavvi.com/clothing/women/clothing/brands/influence.list">Influence</a>
 									</dd>
 								
 									<dd>
-										<a title="French Connection" href="http://www.zavvi.com/clothing/women/clothing/brands/french-connection.list">French Connection</a>
+										<a title="John Galliano" href="http://www.zavvi.com/clothing/women/clothing/brands/john-galliano.list">John Galliano</a>
+									</dd>
+								
+									<dd>
+										<a title="Just Cavalli" href="http://www.zavvi.com/clothing/women/clothing/brands/just-cavalli.list">Just Cavalli</a>
 									</dd>
 								
 							</dl>
@@ -1496,81 +1545,9 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 					</div>  	
 				
 			</li>
+				
 			<li>
-				<a accesskey="7" class="sports" href="http://www.zavvi.com/sports.dept" title="Go to the Sports page">Sports</a>
-				
-					<div class="dropdown">
-						<div class="mega-section">
-							<dl>
-							<dt>Football</dt>
-								<dd><a href="http://www.zavvi.com/sports/football/equipment-and-accessories.list" title="Accessories">Accessories</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/football/football-boots.list" title="Boots">Boots</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/football/football-clothing.list" title="Clothing">Clothing</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/football/football-fanwear.list" title="Fanwear">Fanwear</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/football/football-gifts.list" title="Gifts">Gifts</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/football/football-goalkeeper.list" title="Goalkeeper">Goalkeeper</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/football/football-shirts.list" title="Shirts">Shirts</a></dd>
-							</dl>
-							<dl>						
-							<dt>Rugby</dt>
-								<dd><a href="http://www.zavvi.com/sports/rugby/6-nations-rugby.list" title="6 Nations Rugby">6 Nations Rugby</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/rugby/clothing.list" title="Clothing">Clothing</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/rugby/equipment-and-accessories.list" title="Accessories">Accessories</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/rugby/rugby-shirts.list" title="Rugby Shirts">Rugby Shirts</a></dd>
-							</dl>
-							<dl>
-							<dt>Running</dt>
-								<dd><a href="http://www.zavvi.com/sports/running/clothing.list" title="Clothing">Clothing</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/running/equipment-accessories.list" title="Equipment &amp; Accessories">Equipment &amp; Accessories</a></dd>
-							</dl>
-							<dl>	
-							<dt>Fitness</dt>
-								<dd><a href="http://www.zavvi.com/sports/fitness/fitness-accessories.list" title="Accessories">Accessories</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/fitness/fitness-clothing.list" title="Clothing">Clothing</a></dd>
-							</dl>
-							<dl>
-							<dt>Cricket</dt>
-								<dd><a href="http://www.zavvi.com/sports/cricket/cricket-apparel.list" title="Apparel">Apparel</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/cricket/cricket-bat-ball-stump-sets.list" title="Bat &amp; Ball Stump Sets">Bat &amp; Ball Stump Sets</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/cricket/cricket-gloves.list" title="Gloves">Gloves</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/cricket/cricket-pads.list" title="Pads">Pads</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/cricket/cricket-shoes.list" title="Shoes">Shoes</a></dd>
-								<dd><a href="http://www.zavvi.com/sports/cricket/equipment-and-accessories.list" title="Accessories">Accessories</a></dd>
-							</dl>
-							<dl>
-							<dt>Brands</dt>
-								
-									<dd>
-										<a title="Adidas" href="http://www.zavvi.com/sports/brands/adidas.list">Adidas</a>
-									</dd>
-								
-									<dd>
-										<a title="Converse" href="http://www.zavvi.com/sports/brands/converse.list">Converse</a>
-									</dd>
-								
-									<dd>
-										<a title="Digiflite" href="http://www.zavvi.com/sports/brands/digiflite.list">Digiflite</a>
-									</dd>
-								
-									<dd>
-										<a title="Dunlop" href="http://www.zavvi.com/sports/brands/dunlop.list">Dunlop</a>
-									</dd>
-								
-									<dd>
-										<a title="Gola" href="http://www.zavvi.com/sports/brands/gola.list">Gola</a>
-									</dd>
-								
-									<dd>
-										<a title="Gray Nicolls" href="http://www.zavvi.com/sports/brands/gray-nicolls.list">Gray Nicolls</a>
-									</dd>
-								
-							</dl>
-						</div>
-					</div>
-				
-			</li>	
-            <li>
-				<a accesskey="8" class="toys" href="http://www.zavvi.com/toys.dept" title="Go to the Toys page">Toys</a>
+				<a accesskey="8" class="toys tab" href="http://www.zavvi.com/toys.dept" title="Go to the Toys page">Toys</a>
 				<ul>
 						
 							<li><a title="Most Wanted" href="http://www.zavvi.com/toys/most-wanted.list">Most Wanted</a></li>
@@ -1582,31 +1559,19 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 					</ul>
 			</li>
 			<li>
-				<a accesskey="9" class="outlet" href="http://www.zavvi.com/offers/outlet.list" title="Go to the Zavvi Outlet">Zavvi Outlet</a>
+				<a accesskey="9" class="outlet tab" href="http://www.zavvi.com/offers/outlet.list" title="Go to the Zavvi Outlet">Zavvi Outlet</a>
 				<ul>
+					
+						<li><a title="Games" href="http://www.zavvi.com/offers/outlet/games.list">Games</a></li>
 					
 						<li><a title="Blu-ray" href="http://www.zavvi.com/offers/outlet/blu-ray.list">Blu-ray</a></li>
 					
 						<li><a title="DVD" href="http://www.zavvi.com/offers/outlet/dvd.list">DVD</a></li>
 					
-						<li><a title="Games" href="http://www.zavvi.com/offers/outlet/games.list">Games</a></li>
-					
-						<li><a title="Gifts" href="http://www.zavvi.com/offers/outlet/gifts.list">Gifts</a></li>
-					
-						<li><a title="Men's Clothing" href="http://www.zavvi.com/offers/outlet/men-s-clothing.list">Men's Clothing</a></li>
-					
-						<li><a title="Music" href="http://www.zavvi.com/offers/outlet/music.list">Music</a></li>
-					
-						<li><a title="Sports" href="http://www.zavvi.com/offers/outlet/sports.list">Sports</a></li>
-					
-						<li><a title="Technology" href="http://www.zavvi.com/offers/outlet/technology.list">Technology</a></li>
-					
-						<li><a title="Toys" href="http://www.zavvi.com/offers/outlet/toys.list">Toys</a></li>
-					
 				</ul>
 			</li>
 			<li>
-				<a accesskey="10" class="gifts" href="http://www.zavvi.com/gifts.dept" title="Go to the Gifts page">Gifts</a>
+				<a accesskey="10" class="gifts tab" href="http://www.zavvi.com/gifts.dept" title="Go to the Gifts page">Gifts</a>
 				
 					<div class="dropdown">
 						<div class="mega-section">
@@ -1806,36 +1771,36 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 				
 			</li>
 			<li>
-				<a accesskey="11" class="offers" href="http://www.zavvi.com/offers.dept" title="Go to the Offers page">Offers</a>
+				<a accesskey="11" class="offers tab" href="http://www.zavvi.com/offers.dept" title="Go to the Offers page">Offers</a>
 				
 					<ul>
 						
-							<li><a title="Consoles" href="http://www.zavvi.com/offers/consoles.list">Consoles</a></li>
+							<li><a title="Buy 2 Save 5" href="http://www.zavvi.com/offers/buy-2-save-5.list">Buy 2 Save 5</a></li>
 						
-							<li><a title="Disney Magical Gifts" href="http://www.zavvi.com/offers/disney-magical-gifts.list">Disney Magical Gifts</a></li>
+							<li><a title="Games Under £25" href="http://www.zavvi.com/offers/games-under-25.list">Games Under £25</a></li>
 						
-							<li><a title="Games 3 for £10 " href="http://www.zavvi.com/offers/games-3-for-10.list">Games 3 for £10 </a></li>
+							<li><a title="Sir Alex Ferguson" href="http://www.zavvi.com/offers/sir-alex-ferguson.list">Sir Alex Ferguson</a></li>
 						
-							<li><a title="Games Under £10" href="http://www.zavvi.com/offers/games-under-10.list">Games Under £10</a></li>
+							<li><a title="DVD and Blu-ray Boxsets" href="http://www.zavvi.com/offers/dvd-and-blu-ray-boxsets.list">DVD and Blu-ray Boxsets</a></li>
+						
+							<li><a title="2 Games for £25" href="http://www.zavvi.com/offers/2-for-25.list">2 Games for £25</a></li>
+						
+							<li><a title="3 PC Games for £10" href="http://www.zavvi.com/offers/games-3-for-10.list">3 PC Games for £10</a></li>
 						
 							<li><a title="Great Value Games" href="http://www.zavvi.com/offers/great-value-games.list">Great Value Games</a></li>
 						
-							<li><a title="JRPG" href="http://www.zavvi.com/offers/jrpg.list">JRPG</a></li>
+							<li><a title="Platinum &amp; Classics" href="http://www.zavvi.com/offers/platinum-classics.list">Platinum &amp; Classics</a></li>
 						
-							<li><a title="Kids Corner" href="http://www.zavvi.com/offers/kids-corner.list">Kids Corner</a></li>
-						
-							<li><a title="Lego Offer" href="http://www.zavvi.com/offers/lego-offer.list">Lego Offer</a></li>
-						
-							<li><a title="Manga DVD &amp; Blu ray" href="http://www.zavvi.com/offers/manga-dvd-blu-ray.list">Manga DVD &amp; Blu ray</a></li>
+							<li><a title="Consoles" href="http://www.zavvi.com/offers/consoles.list">Consoles</a></li>
 						
 					</ul>
 				
 			</li>          
-            
+			
 		</ul>
 		<ul id="second-nav">
 			<li>
-				<a accesskey="12" class="blog" href="http://www.zavvi.com/blog/" title="Go to zavvi Blog">Blog</a>
+				<a accesskey="12" class="blog tab" href="http://www.zavvi.com/blog/" title="Go to zavvi Blog">Blog</a>
 			</li>
 		</ul>
 	</div>
@@ -2005,15 +1970,10 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 
 	
 
-
   
 	
   
 	
-  
-	
-  
-  	
   
   	
   
@@ -2032,7 +1992,6 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 
 
 
-
 	
   
   
@@ -2042,7 +2001,6 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
   
 
   
-   
   
   
   
@@ -2087,22 +2045,12 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
  
   
   
-  
-  
-  
 
     
-  
-  
-  
 
 
 
   
-
-
-
-
 
 
 
@@ -2123,7 +2071,6 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 			
 			
 			
-			
             
 			
 			
@@ -2189,6 +2136,8 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
             
             
             
+			
+			
 			
 			
 			
@@ -2209,7 +2158,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 
 
 
-<div class="panel">
+<div class="panel content-inner">
 	<div class="panel-head">
 		<h1><span>Privacy Policy</span></h1>
 	</div>
@@ -2231,21 +2180,14 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 <table width="135" align="center" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 	<tbody><tr>
 		<td width="135" align="center" valign="top">
-			
-            
-            	
-                
-				
-                
-                <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.zavvi.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-			
+			<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.zavvi.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
 			<br>
-            
 			
-            
-            	<a href="http://www.verisign.com/ssl-certificate/" target="_blank" id="ssllink">ABOUT SSL CERTIFICATES</a>
-            
-            
+				
+				
+					<a href="http://www.verisign.com/ssl-certificate/" target="_blank" id="ssllink">ABOUT SSL CERTIFICATES</a>
+				
+			
 		</td>
 	</tr>
 </tbody></table>
@@ -2281,7 +2223,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 			<p>In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.</p>
 			<p>We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.</p>
 			<h2>Contact Us</h2>
-			<p>If you have any queries on any aspect of the above policy, please <a href="https://www.zavvi.com/zavvi/customerQuery.secure?skeletonAccount=true">contact us</a>.</p>
+			<p>If you have any queries on any aspect of the above policy, please <a href="https://www.zavvi.com/zavvi/customerQuery.secure?action=postQuery&amp;skeletonAccount=true">contact us</a>.</p>
 			
 		</div>
 	</div>
@@ -2392,12 +2334,6 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 				<dd><a href="http://www.zavvi.com/blu-ray/coming-soon.list" title="Blu-ray Coming Soon">Blu-ray Coming Soon</a></dd>
 			</dl>
 			<dl>
-				<dt><a href="http://www.zavvi.com/cd.dept" title="Music">Music</a></dt>
-				<dd><a href="http://www.zavvi.com/cd/latest-releases.list" title="New Music">New Music</a></dd>
-				<dd><a href="http://www.zavvi.com/cd/chart/artist-chart.list" title="Music Chart">Artist Chart</a></dd>
-				<dd><a href="http://www.zavvi.com/cd/chart/compilation-chart.list" title="Compilation Music">Compilation Music</a></dd>
-			</dl>
-			<dl>
 				<dt><a href="http://www.zavvi.com/games.dept" title="Games">Games</a></dt>
 				<dd><a href="http://www.zavvi.com/games/platforms/xbox-360.dept" title="Xbox 360 Games">Xbox 360 Games</a></dd>
 				<dd><a href="http://www.zavvi.com/games/platforms/ps3.dept" title="PS3 Games">PS3 Games</a></dd>
@@ -2409,33 +2345,30 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
             <dl>
 				<dt><a href="http://www.zavvi.com/games.dept" title="Hot Games">Hot Games</a></dt>
 				
-					<dd><a title="Assassin Creed 3" href="http://www.zavvi.com/games/hot-games/assassin-creed-3.list">Assassin Creed 3</a></dd>
+					<dd><a title="Crysis 3" href="http://www.zavvi.com/games/hot-games/crysis-3.list">Crysis 3</a></dd>
 				
-					<dd><a title="Call of Duty: Black Ops 2" href="http://www.zavvi.com/games/hot-games/call-of-duty-black-ops-2.list">Call of Duty: Black Ops 2</a></dd>
+					<dd><a title="Rainbow 6 Patriots" href="http://www.zavvi.com/games/hot-games/rainbow-6-patriots.list">Rainbow 6 Patriots</a></dd>
 				
-					<dd><a title="Fifa 13" href="http://www.zavvi.com/games/hot-games/fifa-13.list">Fifa 13</a></dd>
+					<dd><a title="Splinter Cell Blacklist" href="http://www.zavvi.com/games/hot-games/splinter-cell-blacklist.list">Splinter Cell Blacklist</a></dd>
 				
-					<dd><a title="Hitman Absolution" href="http://www.zavvi.com/games/hot-games/hitman-absolution.list">Hitman Absolution</a></dd>
+					<dd><a title="Tomb Raider" href="http://www.zavvi.com/games/hot-games/tomb-raider.list">Tomb Raider</a></dd>
 				
-					<dd><a title="Medal Of Honor: Warfighter" href="http://www.zavvi.com/games/hot-games/medal-of-honor-warfighter.list">Medal Of Honor: Warfighter</a></dd>
+					<dd><a title="Walking Dead" href="http://www.zavvi.com/games/hot-games/walking-dead.list">Walking Dead</a></dd>
 				
 			</dl>
 			<dl>
-				<dt><a href="http://www.zavvi.com/electronics.dept" title="Electronics">Electronics</a></dt>
-				<dd><a href="http://www.zavvi.com/electronics/headphones.list" title="Headphones">Headphones</a></dd>
-				<dd><a href="http://www.zavvi.com/electronics/sat-nav.list" title="Sat Nav Systems">Sat Nav Systems</a></dd>
-				<dd><a href="http://www.zavvi.com/electronics/dvd-blu-ray-players/blu-ray-players.list" title="Blu-ray Players">Blu-ray Players</a></dd>
-				<dd><a href="http://www.zavvi.com/electronics/ipods-mp3-mp4-players/ipod-speaker-docks.list" title="iPod Speakers">iPod Speakers</a></dd>
-				<dd><a href="http://www.zavvi.com/electronics/cables/hdmi.list" title="HDMI Cables">HDMI Cables</a></dd>
-				<dd><a href="http://www.zavvi.com/electronics/ipods-mp3-mp4-players/ipods.list" title="iPod">iPod</a></dd>
-			</dl>
-			<dl>
-				<dt><a href="http://www.zavvi.com/computing.dept" title="Computing">Computing</a></dt>
-				<dd><a href="http://www.zavvi.com/computing/peripherals/webcams.list" title="Web Cams">Web Cams</a></dd>
-				<dd><a href="http://www.zavvi.com/computing/memory/usb-flash-drives.list" title="Flash Drives">Flash Drives</a></dd>
-				<dd><a href="http://www.zavvi.com/computing/computers/laptops/laptops.list" title="Acer Laptops">Acer Laptops</a></dd>
-				<dd><a href="http://www.zavvi.com/electronics/creative-labs-shop.list" title="Creative Labs">Creative Labs</a></dd>
-				<dd><a href="http://www.zavvi.com/computing/computers/samsung-laptops.list" title="Samsung Laptops">Samsung Laptops</a></dd>
+				<dt><a href="http://www.zavvi.com/technology.dept" title="Technology">Technology</a></dt>
+				
+					<dd><a title="Headphones &amp; Earphones" href="http://www.zavvi.com/technology/headphones-earphones.list">Headphones &amp; Earphones</a></dd>
+				
+					<dd><a title="Cameras, Photo &amp; Accessories" href="http://www.zavvi.com/technology/cameras-photo-accessories.list">Cameras, Photo &amp; Accessories</a></dd>
+				
+					<dd><a title="Home Entertainment" href="http://www.zavvi.com/technology/home-entertainment.list">Home Entertainment</a></dd>
+				
+					<dd><a title="iPods, MP3 &amp; MP4" href="http://www.zavvi.com/technology/ipods-mp3-mp4.list">iPods, MP3 &amp; MP4</a></dd>
+				
+					<dd><a title="Storage Devices " href="http://www.zavvi.com/technology/storage-devices.list">Storage Devices </a></dd>
+				
 			</dl>
 			<dl>
 				<dt><a href="http://www.zavvi.com/clothing.dept" title="Clothing">Clothing</a></dt>
@@ -2459,6 +2392,16 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 				<dd><a href="http://www.zavvi.com/toys/elysium.search?searchFilters=VG95cyNkZXBhcnRtZW50OnRveXMh&amp;search=board+game" title="Board Games">Board Games</a></dd>
 				<dd><a href="http://www.zavvi.com/toys/elysium.search?searchFilters=VG95cyNkZXBhcnRtZW50OnRveXMh&amp;search=hello+kitty" title="Hello Kitty">Hello Kitty</a></dd>
 				<dd><a href="http://www.zavvi.com/toys/elysium.search?searchFilters=VG95cyNkZXBhcnRtZW50OnRveXMh&amp;search=paper+jamz" title="Paper Jamz">Paper Jamz</a></dd>
+			</dl>
+			<dl>
+				<dt><a href="http://www.zavvi.com/offers/outlet.list" title="Outlet">Outlet</a></dt>
+				
+					<dd><a title="Games" href="http://www.zavvi.com/offers/outlet/games.list">Games</a></dd>
+				
+					<dd><a title="Blu-ray" href="http://www.zavvi.com/offers/outlet/blu-ray.list">Blu-ray</a></dd>
+				
+					<dd><a title="DVD" href="http://www.zavvi.com/offers/outlet/dvd.list">DVD</a></dd>
+				
 			</dl>
 			
 				<dl>
@@ -2506,7 +2449,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 			
 					</ul>
 		</div>
-		<p class="copyright">© 2012 The Hut.com Ltd, a company registered in England and Wales (company number 5016010) whose registered office is at Meridian House, Gadbrook Park, Gadbrook Way, Rudheath, Northwich, Cheshire, UK, CW9 7RA.</p>
+		<p class="copyright">© 2013 The Hut.com Ltd, a company registered in England and Wales (company number 5016010) whose registered office is at Meridian House, Gadbrook Park, Gadbrook Way, Rudheath, Northwich, Cheshire, UK, CW9 7RA.</p>
 		<p id="hutgroup-message">zavvi.com - Part of The Hut Group</p>
 	</div>
 </div>
@@ -2533,18 +2476,17 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 	
 	
 		<script type="text/javascript" src="/common/scripts/plugins/jquery.swfobject.1-0-9.min.js"></script>
+		<script type="text/javascript" src="/common/scripts/plugins/jquery.hint.js"></script>
 		<script type="text/javascript" src="/common/scripts/common.js?v=1.1"></script>
 	
 
 
 
+	<script type="text/javascript" src="/common/scripts/plugins/mtabs.2.2.min.js"></script>
 
 
-	
 
-	
 
-	
 
 	
 
@@ -2553,21 +2495,21 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 	
 
 	
+
+	
+
+	
+
+	
+		
 		
 		
 		<script type="text/javascript" src="/common/scripts/plugins/jquery.cycle.all.min.js"></script>
 		<script type="text/javascript" src="/common/scripts/plugins/jquery.fancybox-1.3.4.min.js"></script>
 		
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.mtabs.1.2.5.min.js"></script>
-		<script type="text/javascript" src="scripts/zavvi.js?v=12"></script>
+		<script type="text/javascript" src="scripts/zavvi.js?v=13"></script>
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
@@ -2616,91 +2558,6 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 
 
 
-
-	
-	
-    
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-	
-	
-
-	
-		
-		
-		
-		
-		
-		
-		
-			
-		
-	
-
-	
-		<!-- Peerius Tracking -->
-		<script type="text/javascript">
-			var PeeriusCallbacks={
-				track:{
-					'type':'other', 
-					'location':'en-gb'
-				}, recommendations:function(widget,jsonArray) {
-				
-				}, error:function(code,msg) {
-				
-				}, debug:function(msg) {
-				
-				}
-			}				
-		
-			PeeriusCallbacks.track={
-				'type': 'other',
-				'location': 'en-gb'
-				
-				
-					
-					
-					
-					
-					
-					
-				
-			}
-		</script>
-	
-	
-	
-	
-		
-			<script type="text/javascript">
-				(function() {
-					var peeriusjs = document.createElement('script'); peeriusjs.type = 'text/javascript'; peeriusjs.async = true;
-					peeriusjs.src = '//zavvi.peerius.com/tracker/peerius.page';
-					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(peeriusjs, s);
-				})();
-			</script>
-		
-		
-	
-	<!-- End Of Peerius Tracking -->
-
-
-	
 	
 	
 	
@@ -2729,7 +2586,6 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 			
 			
 			
-			
 				
 			
 		
@@ -2781,44 +2637,7 @@ googletag.defineSlot('/42135855/ZAVVI_EN_GB_Right_Rail_MPU_09_300x250', [300, 25
 
 	
 	
-
-	
-	
-	
-	
 		
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-	
-	
-
-	
-		
-	
-	
-
-
-
-
-
-
-
- 
-	<script src="//www.dwin1.com/2549.js" type="text/javascript" defer="defer"></script>
-
-
-	
 	
 	
 
