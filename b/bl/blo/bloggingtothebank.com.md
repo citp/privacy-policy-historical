@@ -1,64 +1,65 @@
-> *The following text is extracted and transformed from the bloggingtothebank.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212110747id_/http%3A//bloggingtothebank.com/bttbmembers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingtothebank.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508104359id_/http%3A//bloggingtothebank.com/bttbmembers/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-This privacy policy sets out how **BTTB Ltd **uses and protects any information that you give **BTTB Ltd** when you use this website.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on this site and other sites part or our network. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
-**BTTB Ltd** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+## Information We Collect From You
 
-**BTTB Ltd** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
+Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber’s name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address(es), referring website information, browser information, and other related data may be collected.
 
-**What we collect**
+## Use of Personal Information
 
-We may collect the following information:
+We may use “cookies” and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. The site may also automatically collect traffic and click-through data as well as information regarding the online behaviour of subscribers by the use of “cookies” or other programming means – any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites. If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database. If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database. Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+## Disclosures of Information
 
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary fulfill technical requirement or to comply with applicable law, to cooperate with law enforcement and the court system.
 
+## Financial Information
 
-**What we do with the information we gather**
+All financial data will only be shared with the site’s third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Subscriber’s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+## Security of Information
 
+We has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
 
+While we uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
 
-**Security**
+## Advertisements
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or “action tags” to measure advertising effectiveness on an “anonymous basis”. Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser’s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers’ websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers’ website(s).
 
-**How we use cookies**
+## OPT-IN EMAIL OFFERS
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+By accepting membership to this site, the subscriber expressly and specifically acknowledges and agrees that it may receive from time to time, email communications from this site or from third-party services. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site. Thru this process, the subscriber’s personal information and data may be disclosed to third-party services.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+## Disclaimer
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+By the subscriber’s use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+By the subscriber’s use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
 
-**Links to other websites**
+All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
 
-**Controlling your personal information**
+Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **[Support](http://www.bloggingtothebank.com/helpdesk)**
+A subscriber’s IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites.
 
+### Changes and Modification to the Privacy Policy
 
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+### Changes in the Ownership of the Sites
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **[Support](http://www.bloggingtothebank.com/helpdesk).**
+We are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+### Terms and Conditions of the Sites
+
+Each subscriber should carefully read each of the terms and conditions of the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
