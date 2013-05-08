@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231606id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508165048id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for BatteriesPlus.com
 
@@ -27,20 +27,20 @@ The amount and type of information we collect from you depends on your activitie
 > We may collect information contained in “cookies,” such as your purchases and login data, to personalize your shopping experience. Your browser may be required to accept cookies if you wish to add items to a shopping cart.
 > 
 > When you create an e-Account on our web site   
-> We collect your user name, password, bill-to- address, and e-mail address. You can help us ensure your privacy by not sharing your user name or password. 
+> We collect your user name, password, bill-to address, and email address. You can help us ensure your privacy by not sharing your user name or password. 
 > 
-> When you subscribe to our e-mail newsletter through our web site 
+> When you subscribe to our email newsletter through our web site 
 > 
-> We use your e-mail information to deliver newsletters, company information and promotions. Your e-mail information may be used in conjunction with any purchases you make at BatteriesPlus.com to provide customized offers or promotions.  You may unsubscribe by visiting [www.batteriesplus.com/t-unsubscribeform.aspx](http://www.batteriesplus.com/t-unsubscribeform.aspx) and following the instructions therein. 
+> We use your email information to deliver newsletters, company information and promotions. Your email information may be used in conjunction with any purchases you make at BatteriesPlus.com to provide customized offers or promotions.  You may unsubscribe by visiting [www.batteriesplus.com/t-unsubscribeform.aspx](http://www.batteriesplus.com/t-unsubscribeform.aspx) and following the instructions therein. 
 > 
 > When you e-mail a friend  
-> If you use our site to send something to a friend, we will ask you for the friend’s name and e-mail address. We may automatically send your friend an email inviting him/her to visit the site. We store this information for the sole purpose of sending this one-time, automatically generated email to your friend and to track the success of our referral program. Your friend may visit [www.batteriesplus.com/t-unsubscribeform.aspx](http://www.batteriesplus.com/t-unsubscribeform.aspx) to remove this information from our database.
+> If you use our site to send something to a friend, we will ask you for the friend’s name and email address. We may automatically send your friend an email inviting him/her to visit the site. We store this information for the sole purpose of sending this one-time, automatically generated email to your friend and to track the success of our referral program. Your friend may visit [www.batteriesplus.com/t-unsubscribeform.aspx](http://www.batteriesplus.com/t-unsubscribeform.aspx) to remove this information from our database.
 > 
 > When you communicate with us through our web site   
-> We collect your e-mail address and the other information that you provide in order to respond to your communication.
+> We collect your email address and the other information that you provide in order to respond to your communication.
 > 
 > When you enter contests, participate in surveys, or register for other activities on our web site   
-> We collect your name, e-mail address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity. 
+> We collect your name, email address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity. 
 > 
 > Our business partners may co-sponsor contests on our site. If you enter one of these contests our co-sponsors may receive the information collected or may collect the information directly. In these situations, we will tell you who is collecting your information, how they may use it and how to contact them.
 > 
@@ -52,7 +52,8 @@ The amount and type of information we collect from you depends on your activitie
 
 ##### How is my personal and account information used?
 
-We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.  
+We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.
+
 We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by following the instructions in the e-mail communication.
 
 In addition, in order to measure how we are doing and to better understand how we can improve our product offerings, we or one of our service providers or strategic partners may contact you by telephone or e-mail and solicit your participation in research. Your participation is voluntary.
@@ -61,7 +62,7 @@ If you become our customer, we may send you updates on important information abo
 
 ##### How is my personal and account information shared?
 
-We restrict access to your personal and account information to those who need access to use it as set forth in this policy, which includes franchisees and service providers who are restricted by confidentiality obligations. Only authorized personnel are permitted to see your E-Account password. 
+We restrict access to your personal and account information to those who need access to use it as set forth in this policy, which includes franchisees and service providers who are restricted by confidentiality obligations. Only authorized personnel are permitted to see your E-Account password.
 
 We may share your personal and account information with our third party services providers, including but not limited to our credit card processors, web site developers and hosts, advertising agencies, third party shippers and other services providers, whose use of your information is limited to providing services to us. We do not sell, trade, rent or otherwise share your personal information with others. 
 
