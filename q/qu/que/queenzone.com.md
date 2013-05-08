@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queenzone.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107133456id_/http%3A//www.queenzone.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queenzone.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508172057id_/http%3A//www.queenzone.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
