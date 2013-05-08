@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlineuniversities.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091420id_/http%3A//www.onlineuniversities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineuniversities.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508105823id_/http%3A//www.onlineuniversities.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Universities.com
+# Privacy Policy - OnlineUniversities.com
 
 This privacy policy give users insight into OnlineUniversities.com’s information collection, usage, and sharing policies and practices. It is advised that users check it on occasion to remain current with OnlineUniversities.com’s information policies.
 
