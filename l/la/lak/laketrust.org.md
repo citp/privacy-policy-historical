@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103103104id_/http%3A//www.laketrust.org/Privacy-24.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508073918id_/https%3A//www.laketrust.org/help/privacy) for the most accurate reproduction.*
 
-# Privacy - Lake Trust Credit Union
+# Privacy Information - Lake Trust Credit Union
 
 At Lake Trust Credit Union, we believe that respecting and protecting the privacy of our members is an essential part of the services we provide. We invite you to read through this privacy notice, which explains Lake Trust's privacy policy and practices related to the personal information we collect and disclose about our members. You'll also find information about the parties who receive personal and sometimes nonpublic information from us as we conduct the business of the Credit Union.
 
@@ -11,8 +11,9 @@ Lake Trust Credit Union
 501 S. Capitol Avenue  
 Lansing, MI 48933-2320
 
-## [Lake Trust Credit Union Privacy Notice](https://web.archive.org/files/ltrust/1/file/Disclosures/Privacy%20Notice.pdf)
+**[Click Here to Download Lake Trust Credit Union Privacy Notice](https://web.archive.org/PageFiles/34/Privacy%20Notice.pdf)**
 
+###   
 What Members Can Do to Help
 
 Lake Trust Credit Union is committed to protecting the privacy of its members. Members can help by following these simple guidelines:
@@ -24,7 +25,7 @@ Lake Trust Credit Union is committed to protecting the privacy of its members. M
 
 
 
-## Internet Security: Information Collected and Stored Automatically
+### Internet Security: Information Collected and Stored Automatically
 
 For site security purposes and to ensure that this service remains available to all users, Lake Trust employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
@@ -39,7 +40,6 @@ We automatically collect and store only the following information about your vis
 
 
 
-## Third Party Sites
+### Third Party Sites
 
-For your convenience, Lake Trust Credit Union offers various links to third party sites. These sites are not owned, operated, or maintained by Lake Trust. We don't endorse nor are we responsible for the products or services they promote. You are responsible for viewing and abiding by the privacy statements and other terms and disclosures posted on the third party sites.  
- 
+For your convenience, Lake Trust Credit Union offers various links to third party sites. These sites are not owned, operated, or maintained by Lake Trust. We don't endorse nor are we responsible for the products or services they promote. You are responsible for viewing and abiding by the privacy statements and other terms and disclosures posted on the third party sites.
