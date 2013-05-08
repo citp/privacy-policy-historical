@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bulkreefsupply.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022213933id_/http%3A//www.bulkreefsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkreefsupply.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508112717id_/http%3A//www.bulkreefsupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulk Reef Supply
-
-  * 
-
 
 All information collected on the site is used solely by BulkReefSupply.com and will never ever be shared with any other entity. This includes your email address. We hate spam just as much as you do. Bulk Reef Supply has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information.
 
