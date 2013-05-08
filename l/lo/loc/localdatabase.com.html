@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the localdatabase.com privacy policy that was archived on 2009-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090314201132id_/http%3A//www.localdatabase.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localdatabase.com privacy policy that was archived on 2013-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508231802id_/http%3A//www.localdatabase.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy - LocalDatabase.com</title>
@@ -12,7 +12,10 @@
 
 <meta name="keywords" content="">
 <meta name="description" content="Local Database Privacy Policy">
+<meta name="botwspider">
 <link href="/theme/resource/style.css" rel="stylesheet" type="text/css">
+
+
 <meta name="verify-v1" content="IhbWzl4pL6I5kqPobVd84eh534j4Cr4HNs5MGfbbDMU=">
 <meta name="verify-v1" content="FPFls/tt34KhQJn88rxwUZhJhVp/9LiQUA/fcfSufRM=">
 <meta name="y_key" content="7778aa1a12e85826">
@@ -43,7 +46,7 @@
 
 <link rel="icon" type="image/ico" href="/theme/images/favicon.ico">
 
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body>
 
 <!-- END TOP MENU -->
@@ -54,23 +57,24 @@
 		<a href="/"><div class="localdatabase"></div></a>
 
 					<div style="float: right; position: relative; margin: 10px 30px 0px 0px;">
-									<div id="openlogin">Welcome Guest, Please click here to <a href="/forum/register.php" class="c0">register</a>/<a href="/" class="c0">login</a></div>
+									<div id="openlogin">Welcome Guest, Please click here to <a href="/users/?register" class="c0">register</a>/<a href="/users/?login" class="c0">login</a></div>
 					<div class="hidden" id="toplogin" style="z-index:50; border: 2px solid black; width: 200px; height: 130px; padding:10px 0px 0px 20px; position:absolute; background-color:white;">
 						<form action="/forum/login.php?do=login" method="post">
 							Username:<input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101"><br>
 							Password:<input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102"><br>
 							<input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me.
-							<input type="submit" class="button" value="Log in" tabindex="104" accesskey="s">
+							<input type="submit" class="button" value="Log In" tabindex="104" accesskey="s">
 							<input type="hidden" name="s" value="">
 							<input type="hidden" name="do" value="login">
 							<input type="hidden" name="vb_login_md5password">
 							<input type="hidden" name="vb_login_md5password_utf">
 						</form>
-						<a href="/forum/register.php" class="c0">register</a><br><br>
+						<a href="/users/?register" class="c0">register</a><br><br>
 						<center>
-						<span class="fbconnect" style="height:21px">
-						<img src="http://static.ak.fbcdn.net/images/loaders/indicator_white_small.gif" alt="Connect with Facebook" border="0">
-						</span>
+						<div id="fb-root"></div>
+							<div class="fb-login-button" data-scope="email">
+								Login with Facebook
+							</div>
 						</center>
 					</div>
 								</div>
@@ -82,8 +86,8 @@
 				<input class="input" type="text" name="s_query" value="">
 
 				<div class="label">Location</div>
-				<input class="input" type="text" name="s_location" value="Seattle, Washington">
-				<input type="hidden" name="s_page" value="/privacy.html/">
+				<input class="input" type="text" name="s_location" value="San Francisco, California">
+				<input type="hidden" name="s_page" value="">
 
 				<input type="submit" class="searchbutton" value="">
 
@@ -100,7 +104,8 @@
 <div class="navigation_panel">
 			<div class="navigation_main c1">You Are Here:</div>
 
-				<a class="navigation_link" href="/">home</a><div class="navigation_separator c1">»</div><a class="navigation_link" href="/privacy.html">Privacy</a>
+				<a class="navigation_link" href="/">Home</a><div class="navigation_separator c1">»</div><a class="navigation_link" href="/privacy.html">Privacy</a>
+
 			</div>
 
 			<div class="clear"></div>
@@ -108,12 +113,19 @@
 		<div class="ldbcolB" style="margin:6px 0px 0px 12px">
 
 			<div class="panel">
-				<div class="bordertop1 b1" style="border:1px solid #308FBF">
+				<div style="background-position: left top; background-image:url('/theme/images/corners.png');">
+				<div style="background-position: right top; background-image:url('/theme/images/corners.png');">
+					<div style="background-color:#CEE6F2;background-image:none;height:5px;margin:0 5px; border-top: 1px solid #308FBF"></div>
+				</div>
+			</div>
+
+			<div style="background-color: #CEE6F2; border-left: 1px solid #308FBF; border-right: 1px solid #308FBF;">
+
 											<div class="header0 c1">Welcome Guest</div>
 						<div class="gencontents">
 							Welcome to Local Database.  We have your local data, business listings, reviews and discussion covered!
 							<br><br>
-							Your hometown is <a href="///" style="text-transform:capitalize;"></a>
+							Your hometown is <a href="/california/San_Francisco/" style="text-transform:capitalize;">San Francisco</a>
 							<form action="/forum/login.php?do=login" method="post">
 								<table>
 									<tbody><tr>
@@ -124,7 +136,7 @@
 									</tr>
 									<tr>
 										<td><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me.</td>
-										<td><input type="submit" class="button" value="Log in" tabindex="104" accesskey="s"></td>
+										<td><input type="submit" class="button" value="Log In" tabindex="104" accesskey="s"></td>
 									</tr>
 									<input type="hidden" name="s" value="">
 									<input type="hidden" name="do" value="login">
@@ -134,10 +146,17 @@
 							</form>
 							<br><a href="/users/?register">Register</a>
 						</div>
-								    </div>
+					
+				</div>
+
+			<div style="background-position: left bottom; background-image:url('/theme/images/corners.png');">
+				<div style="background-position: right bottom; background-image:url('/theme/images/corners.png');">
+					<div style="background-color:#CEE6F2;background-image:none;height:5px;margin:0 5px; border-bottom: 1px solid #308FBF"></div>
+				</div>
+			</div>
 			</div>
 
-			
+
 
 						<div class="panel">
 				<div align="center"><script type="text/javascript">
@@ -154,7 +173,7 @@
 				<p>
 This site is owned and operated by LocalDatabase.com. Your privacy on the Internet is of the utmost importance to us. At LocalDatabase.com, we want to make your experience online pleasant and safe. </p>
 <p>
-Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
+Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 </p>
 <p>
 LocalDatabase.com gathers two types of information about users: <br><br>
@@ -215,7 +234,7 @@ LocalDatabase.com sometimes tracks and catalogs the search terms that users ente
 <br>
 
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. LocalDatabase.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. 
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. LocalDatabase.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. <br>
 <br>
 
@@ -264,12 +283,12 @@ Opting not to participate in certain interactive areas, which completely allevia
 <br>
 
 
-By using this site, you consent to the collection and use of this information by LocalDatabase.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. </p>	
+By using this site, you consent to the collection and use of this information by LocalDatabase.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. </p>
 				</div>
 			<div class="clear"></div>
 			</div></div>
 
-		
+
 
 
 
@@ -285,28 +304,52 @@ By using this site, you consent to the collection and use of this information by
 
 <!-- FOOTER -->
 <div class="mainfooter">
-Copyright ©2008, LocalDatabase.com <br>
-<a href="http://www.localdatabase.com" style="color:#FFFFFF; text-decoration:underline">Home</a> - <a href="http://www.localdatabase.com/forum/" style="color:#FFFFFF; text-decoration:underline">Local Forums</a> - <a href="http://www.localdatabase.com/about.html" style="color:#FFFFFF; text-decoration:underline" rel="nofollow">About Us</a> - <a href="http://www.localdatabase.com/privacy.html" style="color:#FFFFFF; text-decoration:underline" rel="nofollow">Privacy Policy</a> - <a href="http://www.localdatabase.com/forum/sendmessage.php" style="color:#FFFFFF; text-decoration:underline" rel="nofollow">Contact Us</a> - <a href="http://www.localdatabase.com/users/?register" style="color:#FFFFFF; text-decoration:underline" rel="nofollow">Register</a><br>
-<a href="http://www.localdatabase.com/plans.html" style="color:#FFFFFF; font-size:14px; font-weight:bold; text-decoration:underline" rel="nofollow">Add Your Business Listing (Free)</a>
+Copyright © 2013, LocalDatabase.com <br>
+<a href="http://www.localdatabase.com" style="color:#FFFFFF; text-decoration:underline">Home</a> - <a href="http://www.localdatabase.com/about.html" style="color:#FFFFFF; text-decoration:underline">About Us</a> - <a href="http://www.localdatabase.com/partners.html" style="color:#FFFFFF; text-decoration:underline">Partners</a> - <a href="http://www.localdatabase.com/privacy.html" style="color:#FFFFFF; text-decoration:underline">Privacy Policy</a> - <a href="http://www.localdatabase.com/forum/sendmessage.php" style="color:#FFFFFF; text-decoration:underline">Contact Us</a> - <a href="http://www.localdatabase.com/users/?register" style="color:#FFFFFF; text-decoration:underline">Register</a><br>
+<a href="http://www.localdatabase.com/plans.html" style="color:#FFFFFF; font-size:14px; font-weight:bold; text-decoration:underline">Add Your Business Listing (Free)</a>
 </div>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
 
-<script type="text/javascript" src="/theme/resource/lib.1.js?v=5"></script>
-<script type="text/javascript" src="/theme/resource/source.1.js?v=4"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+	<script src="//maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAEuB-rlsF3gzljvNbN4uNYhThi7_kH9vZeoxy1cAylLwiW-WWdxTx4Qzm2Azk_K8G1Vjcm4NnmjMv6Q" type="text/javascript"></script>
+
 
 <script type="text/javascript">
 <!--
 	var bburl = 'http://www.localdatabase.com/forum';
 //-->
 </script>
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-<script src="http://www.localdatabase.com/forum/clientscript/fbconnect.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-	// Main Facebook Connect Javascript Initialization
-	FB.init("6a116b513246fae727f05ca18575b112", "/forum/xd_receiver.htm");
-//-->
+
+
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+	appId      : '6a116b513246fae727f05ca18575b112',
+	status     : true, 
+	cookie     : true,
+	xfbml      : true,
+	oauth      : true,
+  });
+
+  FB.Event.subscribe('auth.login', function(response) {
+	//window.location.reload();
+	window.location = "/forum/fblogin.php";
+  });
+};
+
+
+(function(d){
+   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   d.getElementsByTagName('head')[0].appendChild(js);
+ }(document));
 </script>
+
+<script type="text/javascript" src="/theme/resource/lib.1.js?v=5"></script>
+<script type="text/javascript" src="/theme/resource/source.1.js?v=7"></script>
+
+
+
 
 
 <script type="text/javascript">
