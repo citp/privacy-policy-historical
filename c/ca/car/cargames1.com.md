@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargames1.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105050548id_/http%3A//www.cargames1.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargames1.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508184734id_/http%3A//cargames1.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Cargames1.com - Privacy Policy
 
