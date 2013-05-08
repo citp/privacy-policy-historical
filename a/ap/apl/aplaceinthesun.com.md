@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218201619id_/http%3A//www.aplaceinthesun.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508180816id_/http%3A//aplaceinthesun.com/privacy.aspx) for the most accurate reproduction.*
 
 # A Place in the Sun | Privacy Policy
 
