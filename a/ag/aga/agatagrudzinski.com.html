@@ -1,23 +1,73 @@
-<!--The following is the downloaded HTML source of the agatagrudzinski.com privacy policy that was archived on 2012-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112144052id_/http%3A//m.agatagrudzinski.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the agatagrudzinski.com privacy policy that was archived on 2013-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508082544id_/http%3A//m.agatagrudzinski.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <title>Destin Real Estate</title>
+   <title>Mobile Website Mobile Website Destin Real Estate</title>
     <meta http-equiv="Cache-Control" content="max-age=600">
-   <meta name="keywords" content="Destin Real Estate">
-   <meta name="description" content="Mobile Website Destin Real Estate">
+   <meta name="keywords" content="Mobile Website Destin Real Estate">
+   <meta name="description" content="Mobile Website Mobile Website Destin Real Estate">
    <meta name="robots" content="index, follow, all">
    <meta name="HandheldFriendly" content="true">
    <meta name="MobileOptimized" content="width">
    <meta name="viewport" content="initial-scale=1.0">
    <link rel="stylesheet" href="theme/css/style.css" type="text/css" media="screen">
+   
+<script>
+function showUser(str)
+{
+if (str=="")
+  {
+  document.getElementById("txtHint").innerHTML="";
+  return;
+  } 
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	data=xmlhttp.responseText;
+	streets=data.split('|');
+	n=streets.length;
+	var opt='';
+	for (i=0;i<n-1;i++)
+	opt = opt+'<div><label onClick="SelectStreet(this)">'+streets[i]+'</label></div>';
+	if (document.getElementById('street').value!='')
+    	document.getElementById("txtHint").innerHTML=opt;
+	else
+		document.getElementById('txtHint').innerHTML='';
+    }
+  }
+if (str!='')
+{
+xmlhttp.open("GET","getstreet.php?q="+str,true);
+xmlhttp.send();
+}
+else
+document.getElementById('txtHint').innerHTML='';
+}
+function SelectStreet(street)
+{
+document.getElementById('street').value=street.innerHTML;
+document.getElementById('txtHint').innerHTML='';
+}
+</script>
+<style type="text/css">
+#txtHint div{padding:3px 10px}
+</style>
 </head>
 <body>
 <div id="container">
    <div id="top">
-      <p id="sitename"><a href="index.php">Agata Grudzinski Destin Florida Real Estate Mobile Website</a></p>
-      <p id="logo"><img src="theme/images/logo-black.gif" width="100%"></p>
+      <p id="sitename"></p>
+      <p id="logo"><a href="http://m.agatagrudzinski.com"><img src="theme/images/logo-black-mobile1.gif" width="100%"></a></p>
       <div id="callbutton">
 	 <p id="call"><a href="tel:850-708-7724">Tap to Call</a></p>
       </div>
@@ -127,7 +177,7 @@
     
 	<p id="bottomtxt">
 		Listing information deemed reliable but not guaranteed.<br>
-		©2012 Agata Grudzinski Destin Florida Real Estate Mobile Website<br>
+		©2013 Agata Grudzinski Destin Florida Real Estate Mobile Website<br>
 		<span id="btmaddr">4039E Hwy 30-A Santa Rosa Beach, FL 32549</span><br><br>
 		
 		<a href="index.php?page=privacy" id="privacylink">Privacy Policy</a>
