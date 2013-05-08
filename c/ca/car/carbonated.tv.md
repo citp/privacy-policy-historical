@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127160804id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508182933id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
 
 # Carbonated TV
 
-|  | 
-
-Privacy Policy 
-
-Carbonated.TV respects the privacy rights of our users and is committed to protecting the information collected through its online services and websites. We have adopted this privacy policy to explain how we collect, store and use the information collected in connection with our Online Services (the "Privacy Policy"). This Privacy Policy detailed below has been created to protect our user's privacy as well as to inform our users of the Carbonated.TV policy regarding privacy. This policy governs usage of the Carbonated.TV Website ("Site", "Website", "Carbonated", "Carbonated, Inc.", "Carbonated Site", "Carbonated.TV", or "Carbonated Website") found at the following URL: www.carbonated.tv and any other sites owned by Carbonated.TV (collectively, "Site"). 
+Carbonated.TV respects the privacy rights of our users and is committed to protecting the information collected through its online services and websites. We have adopted this privacy policy to explain how we collect, store and use the information collected in connection with our Online Services (the "Privacy Policy"). This Privacy Policy detailed below has been created to protect our user's privacy as well as to inform our users of the Carbonated.TV policy regarding privacy. This policy governs usage of the Carbonated.TV Website ("Site", "Website", "Carbonated", "Carbonated, Inc.", "Carbonated Site", "Carbonated.TV", or "Carbonated Website") found at the following URL: [www.carbonated.tv](http://www.carbonated.tv/) and any other sites owned by Carbonated.TV (collectively, "Site"). 
 
 This Privacy Policy is subject to the Carbonated.TV Terms & Conditions. Any issues or disagreements with this Privacy Policy or the Terms & Conditions are not to use the Carbonated.TV website and not upload or post any media, videos, comments, pictures, or any data whatsoever. The use of the Site after the Privacy Policy or Terms & Conditions has been modified, usage will signify acceptance of the changes that have been made and thus the new changes will govern usage and interaction with the Site. 
 
@@ -16,13 +12,14 @@ Through the usage of the Carbonated.TV Website or downloading from the Site, use
 
 Personal information is information that identifies users and that may be used to contact one online or offline. Carbonated.TV collects personal information on a voluntary basis. When users submit personal information to Carbonated.TV, it will usually take the form of: 
 
-• Registration for websites, jobs, online services, contests and special events;   
-• Subscribing to newsletters or alerts;   
-• Posting in or commenting on our message boards, forums, news blogs, chat rooms or other online services;   
-• Requesting technical support;   
-• Downloading demos, programs, or other software;   
-• Participating in polls, surveys, and questionnaires; or   
-• Otherwise through use of our software, mobile products, online products or online services where personal information is required for use and/or participation   
+  * Registration for websites, jobs, online services, contests and special events; 
+  * Subscribing to newsletters or alerts; 
+  * Posting in or commenting on our message boards, forums, news blogs, chat rooms or other online services; 
+  * Requesting technical support; 
+  * Downloading demos, programs, or other software; 
+  * Participating in polls, surveys, and questionnaires; or 
+  * Otherwise through use of our software, mobile products, online products or online services where personal information is required for use and/or participation 
+
 
 
 The types of information collected in connection with the activities listed above will vary depending on the activity. The information we collect may include personal information such as first and/or last name, e-mail address, phone number, photo and mailing address. In addition, we may collect demographic information such as age or date of birth. If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with personal information for record keeping purposes. 
@@ -30,6 +27,9 @@ The types of information collected in connection with the activities listed abov
 When a user uploads any video, image, or other content onto the Carbonated.TV Website it becomes published content and would no longer be considered personally identifiable information subject to this Privacy Policy. 
 
 When using some features of the Website, users may be required to submit certain personal information including, but not limited to, your full name, user ID, password, and email address. The Site may also gather or receive additional non-personally identifiable usage information specifically related to the use of a specific feature or offering on the Site, and responses to the advertisements and offerings presented on the Site. Carbonated.TV may also gather or receive (in some cases as part of the internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a Carbonated.TV client is used. 
+
+  
+
 
 ###  Privacy Information Usage 
 
@@ -41,9 +41,7 @@ Notwithstanding the foregoing, your information may be accessed and disclosed if
 
 ###  What Is the Policy Regarding Links to Other Sites? 
 
-Users should be aware that while on our website one could be directed to other sites that are beyond our control. The fact that we link to a website is not an endorsement, authorization, or representation of our affiliation with that third-party. Because we cannot guarantee that the privacy policies of these websites meet our high standards, we recommend reading the privacy policy of the website link before submitting any personal information. 
-
-###  Third Party Advertisements 
+Users should be aware that while on our website one could be directed to other sites that are beyond our control. The fact that we link to a website is not an endorsement, authorization, or representation of our affiliation with that third-party. Because we cannot guarantee that the privacy policies of these websites meet our high standards, we recommend reading the privacy policy of the website link before submitting any personal information. Third Party Advertisements 
 
 Carbonated.TV or advertisers that run their online ads on the Carbonated.TV Website may use other companies known as third party ad servers to aid in the process of placing online ads on the Site. These third party ad servers may use cookies (or other technologies that are similar to cookies) to aid in their online ad placements as well as to research the effectiveness of their ads. It is important to note that these third party ad severs are subject to their own privacy policies and not the Carbonated.TV Privacy Policy, thus the third party ad servers' use of cookies and similar technologies is subject to their own privacy policies. 
 
@@ -63,11 +61,11 @@ Carbonated does not knowingly collect or maintain personally identifiable inform
 
 ###  Modifying or Deleting Personally Identifiable Information 
 
-**Modification.** Users can modify or update their personally identifiable information by accessing the Website or application interface. For help, users can email us at [support@carbonated.tv](mailto:support@carbonated.tv). Please note that deletion of user's personally identifiable information from Carbonated.TV's database will not prevent Carbonated.TV from using gathered anonymous information. 
+Modification. Users can modify or update their personally identifiable information by accessing the Website or application interface. For help, users can email us at [support@carbonated.tv](mailto:support@carbonated.tv). Please note that deletion of user's personally identifiable information from Carbonated.TV's database will not prevent Carbonated.TV from using gathered anonymous information. 
 
-**Deletion (Opt-Out).** Users can simply email Carbonated.TV at [support@carbonated.tv](mailto:support@carbonated.tv) and express that they would like their personally identifiable information or any part thereof contained at our databases to be deleted. 
+Deletion (Opt-Out).Users can simply email Carbonated.TV at [support@carbonated.tv](mailto:support@carbonated.tv) and express that they would like their personally identifiable information or any part thereof contained at our databases to be deleted. 
 
-**Third Parties' Practices.** It should be noted that this aforementioned Privacy Policy does not cover the practices of other websites, companies/people, advertisers, or providers of products/services that Carbonated.TV does not own or control, or does not employ or manage. 
+Third Parties' Practices.It should be noted that this aforementioned Privacy Policy does not cover the practices of other websites, companies/people, advertisers, or providers of products/services that Carbonated.TV does not own or control, or does not employ or manage. 
 
 ###  Foreign Users 
 
@@ -79,10 +77,6 @@ Use of our services may be subject to other terms, conditions and disclosures pr
 
 ###  Further Inquiries 
 
-Carbonated.TV’s Privacy Policy is to share personal information only with the owner’s informed consent. With your consent, from time-to-time, Carbonated may provide its business partners with contact details for direct marketing purposes of relevant services, products and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding Carbonated.TV's information sharing practices, please contact our Public Relations Manager, Ali Bhatti, at (925) 543-7763. 
+Carbonated.TV's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Carbonated may provide its business partners with contact details for direct marketing purposes of relevant services, products and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding Carbonated.TV's information sharing practices, please contact our Public Relations Manager, Ali Bhatti, at (925) 543-7763. 
 
-**Last updated: April 29, 2010**
-
-  
-|   
----|---|---
+###  Last updated: April 29, 2010 
