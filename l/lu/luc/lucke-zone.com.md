@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucke-zone.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023031330id_/https%3A//www.lucke-zone.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucke-zone.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508232602id_/https%3A//www.lucke-zone.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Lucke-Zone: Privacy
 
