@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630041911id_/http%3A//mixmag.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508094040id_/http%3A//www.mixmag.net/privacy-policy) for the most accurate reproduction.*
 
-# Mixmag | Privacy Policy
+# Mixmag | PRIVACY POLICY
 
 Information submitted to MIXMAG through forms of this website is governed by the following Electronic Personal Information Privacy Policy (the "Policy"). Please read the following policy to understand how your personal information will be treated as you make full use of MIXMAG’s service. This Policy may be updated from time to time. Therefore, we ask you to check back periodically. This Policy discloses the privacy practices for MIXMAG’s website and describes the information MIXMAG collects about you and what may happen to such information.
 
