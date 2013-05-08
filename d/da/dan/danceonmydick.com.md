@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danceonmydick.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506065027id_/http%3A//secure.danceonmydick.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danceonmydick.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509015404id_/http%3A//track.danceonmydick.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
