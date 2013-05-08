@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kedna.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629235431id_/http%3A//www.kedna.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kedna.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010623id_/http%3A//www.kedna.com/privacy.html) for the most accurate reproduction.*
 
 # Kedna | Privacy Policy
 
