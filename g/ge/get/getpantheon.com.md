@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getpantheon.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010172234id_/https%3A//www.getpantheon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpantheon.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010939id_/https%3A//www.getpantheon.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Pantheon
+# Privacy | Pantheon
 
 ### Pantheon Systems, Inc. ("Pantheon") Privacy Policy
 
-This Privacy Policy ("Privacy Policy") covers the information practices of [http://www.getpantheon.com](http://www.getpantheon.com/ "http://www.getpantheon.com"). Questions regarding this statement should be e-mailed to [privacy@getpantheon.com](mailto:privacy@getpantheon.com)
+This Privacy Policy ("Privacy Policy") covers the information practices of [http://www.getpantheon.com](http://www.getpantheon.com/ "http://www.getpantheon.com"). Questions regarding this statement should be e-mailed to [privacy@getpantheon.com](mailto:privacy@getpantheon.com)
 
 Pantheon has created this Privacy Policy ("Privacy Policy") to demonstrate our commitment to user and visitor privacy at our web site (the "Site") and within the services (the "Services") delivered by Pantheon. This Privacy Policy describes our information-gathering and dissemination practices. By visiting the Site or using the Services, you are agreeing to the collection and use of information in the manner described below.
 
@@ -12,7 +12,7 @@ Pantheon has created this Privacy Policy ("Privacy Policy") to demonstrate our c
 
 Pantheon uses the information that we collect to set up the Services for users and to improve the Site. We may also use the information to contact users and visitors to further discuss their interest in the Site and the Services, or to send users and visitors information regarding Pantheon or its partners, such as new features, promotions and events. To opt out of receiving such information, information to unsubscribe is included in every communication. We may also e-mail to users information regarding updates to the Services or the Site.
 
-All financial and billing information collected through the Site is used solely to check the qualifications of prospective users and to bill for the Services. This billing information is not used by Pantheon for marketing or promotional purposes. Other third parties, such as content providers, may provide content on the Site or the Services, but they are not permitted to collect any information; nor does Pantheon share any user or visitor information with these parties. 
+All financial and billing information collected through the Site is used solely to check the qualifications of prospective users and to bill for the Services. This billing information is not used by Pantheon for marketing or promotional purposes. Other third parties, such as content providers, may provide content on the Site or the Services, but they are not permitted to collect any information; nor does Pantheon share any user or visitor information with these parties.
 
 ### Information Gathered
 
@@ -20,7 +20,7 @@ Registration and Billing Information: When a visitor to the Site registers to be
 
 Log Data and Activity Tracking: Pantheon collects certain information from visitors to the Site and users of the Services, such as Internet addresses, browser types, referring domains, time stamps (time page accessed as well as time spent per web page), as well as the specific pages the visitor has requested. This information is logged for to help deliver a better user experience, diagnose technical problems, marketing purposes and so that we may better administer the Site and the Services in order to constantly improve the quality of the Services. We may also track and analyze non-identifying activity and aggregate usage-and-volume statistical information from visitors and users, and provide such information to third parties.
 
-Cookies: Cookies are files that Web browsers place on a computer's hard drive. Pantheon uses cookies to tell us whether users and visitors have previously visited the Site or the Services. Pantheon uses both session-based and persistent cookies. Session cookies exist only during one session, and disappear when you close your browser. Persistent cookies remain on your computer after you close your browser or turn off your computer. If the cookie is rejected, access to and usage of the Services may be denied or otherwise limited. 
+Cookies: Cookies are files that Web browsers place on a computer's hard drive. Pantheon uses cookies to tell us whether users and visitors have previously visited the Site or the Services. Pantheon uses both session-based and persistent cookies. Session cookies exist only during one session, and disappear when you close your browser. Persistent cookies remain on your computer after you close your browser or turn off your computer. If the cookie is rejected, access to and usage of the Services may be denied or otherwise limited.
 
 ### Stored Data
 
@@ -40,7 +40,7 @@ Other than as expressly described in this Privacy Policy, Pantheon will not shar
 
 ### Security
 
-Pantheon uses appropriate administrative, technical, and physical security measures to protect our users' and visitors' information and data against loss, misuse and alteration. We use standard industry practices to help prevent unauthorized use of, access to or alteration of visitor and user information and hosted data. These practices include the appropriate use of firewalls, SSL encryption, limiting storage of financial information to a PCI compliant third party provider, system redundancies, and co-location at a 24/7 secured, controlled environment. 
+Pantheon uses appropriate administrative, technical, and physical security measures to protect our users' and visitors' information and data against loss, misuse and alteration. We use standard industry practices to help prevent unauthorized use of, access to or alteration of visitor and user information and hosted data. These practices include the appropriate use of firewalls, SSL encryption, limiting storage of financial information to a PCI compliant third party provider, system redundancies, and co-location at a 24/7 secured, controlled environment.
 
 ### Choice/Opt-out
 
