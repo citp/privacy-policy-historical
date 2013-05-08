@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asian-girls-online.com privacy policy that was archived on 2012-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106225636id_/http%3A//www.asian-girls-online.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asian-girls-online.com privacy policy that was archived on 2013-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508163355id_/http%3A//www.asian-girls-online.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,7 +19,7 @@
     
         <link rel="stylesheet" type="text/css" href="/css/invitation.css">
         <link rel="stylesheet" type="text/css" href="/js/yui/build/container/assets/skins/sam/container.css">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
         <script type="text/javascript" src="/js/jquery-ui-1.7.2/jquery-ui-1.7.2.custom.min.js"></script>
         <script type="text/javascript" src="/js/jquery.tmpl.min.js"></script>
         <script type="text/javascript" src="/js/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
@@ -57,14 +57,15 @@
             <div class="invite"
                 data-userid="${userid}"
                 data-displayname="${displayname}"
-                data-time="${timestamp}">
+                data-time="${timestamp}"
+								data-chatmessage="${chatmessage}">
                 <div class="profile_pic">
-                    <a href="#"><img src="/images/profilebox/photo-overlay.gif" style="background-image:url('${picture}');" border="0"></a>
+                    <a href="#"  class="chat-online chat" onclick="Modal('${photo}', '${displayname}', 'chat')"><img src="/images/profilebox/photo-overlay.gif" style="background-image:url('${picture}');" border="0"></a>
                 </div>
                 <div class="chat_info">
                     <span><p>${displayname} is online right now!</p></span>
-                    <a href="#" class="chat-now chat">
-                        <img src="/images/chat_now_bg.gif" alt="Chat Now" border="0" />
+                    <a href="#" class="chat-online chat" onclick="Modal('${photo}', '${displayname}', 'chat')">
+                        <img src="/images/chat_now_bg.gif"  border="0" />
                     </a>
                     <span class="goto_prof_btns">
                         <a href="/${userid}.php">
@@ -80,6 +81,7 @@
                              <div class="filledbar"></div>
                         </div>
                     </span>
+										
                 </div>
             </div>
         </script>
@@ -109,18 +111,26 @@
             return false;
 
         }
-        function Modal(path) {
+        function Modal(path, name, chatorprofile) {
+            
             var src = 'http://www.asian-girls-online.com' + path;
             jQuery('#signuppopup #modalportrait').attr("src",src);
+            
+            if (chatorprofile == 'chat') {
+                jQuery('div.modalmessage #modalmessagetext').html("Live Chat is available to registered members only. <br/>To start live chat with <span id='girlname'></span> please register or log in to Asian-Girls-Online.");
+                jQuery('#signuppopup #girlname').html(name);
+            }
+            
+            if (chatorprofile == 'profile') {
+                jQuery('div.modalmessage #modalmessagetext').html("Profile is available to registered members only.");
+            }
+     
             jQuery('#signuppopup').modal({
                 overlayClose: false,
                 escClose: false,
                 onClose: function () {
                     jQuery.modal.close();
                     jq("input:checkbox, input:radio, input:file, textarea, input:text, input:password").not('.no_uni').uniform();
-                    jQuery("select").removeClass("chzn-done").css('display', 'inline').data('chosen', null);
-                    jQuery("*[class*=chzn]").remove();
-                    $('#country_id2').chosen();
                 }
             });
         }
@@ -129,6 +139,20 @@
 </head>
 <body class="yui-skin-sam">
     
+<script type="text/javascript">
+ 
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38911602-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
     <table id="asian-women-online"><tbody><tr><td style="padding:0px" align="center">
         <div id="asian-girls-body">
             <div id="tempheader">
@@ -154,6 +178,9 @@
                 	<div id="logo" onclick="window.location='http://www.asian-girls-online.com'">Asian-Girls-Online.com</div>
                 	<div id="headerphone"><img src="/images/header-phone-icon.png"><h2>+1(888)746-0414</h2></div>
                 	<h1>Meet Beautiful Asian Brides Now!</h1>
+                		<div style="height:29px;">                			
+                			<!-- welcome -->
+                    </div>
                     
                     <!-- <form class="headerform" method="post" action="https://www.asian-girls-online.com/member/index.php"> -->
                         <!-- login -->
@@ -161,6 +188,13 @@
                         <span class="middle">&nbsp;Password</span> <input class="agoi middle" type=password name="Member_password" value="" />
                         <input class="headerfield" type=submit value="Sign In" />
                     </form> -->
+                    <div style="margin-left:8px;" id="signed-out">
+                        <a href="http://www.asian-girls-online.com/index.php">Home</a>
+                        <a href="http://www.asian-girls-online.com/gallery-qian/page1">Women Gallery</a>
+                        <a href="https://www.asian-girls-online.com/3day-trial">Start Free Trial</a>
+                        <a href="https://www.asian-girls-online.com/signup.php">Sign Up</a>
+                        <a style="width: 160px;" href="http://www.asian-girls-online.com/search-girls">Search</a>
+                    </div>
                     
                 </div>
                 <div id="asian-girls-content" align="center" style="clear:both;width:816px;">
@@ -173,6 +207,9 @@
                         <tbody><tr>
                             <td class="left-repeat" valign="top"><img src="/images/bg-shadow-left.png"></td>
                             <td class="contentbody" valign="top">
+								<div style="height: 30px;">
+								<!-- spacer -->
+								</div>
                                 
                                
                                 
@@ -205,11 +242,579 @@
                                                 </a>
                                             </span>
                                         </div>
-                                    </div>                                            
+                                    </div>  
+
                                 </div>
-                            
+                                <script>
+                                    $(function() {
+                                        $('a#autochatinviteclose').click(function() {
+                                            $('div.auto-girl-chat-invite').hide();
+                                        });
+                                    });
+                                </script>
+                                
                                 <div class="clear"></div>
+  
                                 <!--<a href="https://www.asian-girls-online.com/member/feedbacksurvey.php"><img id="feedbackbutton" src="http://www.asian-girls-online.com/images/feedbackBTN.png"/></a>-->
+                                
+    <div id="signuppopup" style="display: none;">
+        <h2>Free Registration</h2>
+            <div class="modalmessage">
+            <img src="/images/icon-information.png">
+            <span id="modalmessagetext"></span>
+            </div>
+        <div id="firstname"></div>
+        <img id="modalportrait" style="width: 224px;" src="">
+        <div class="formwrapper">
+            <form action="https://www.asian-girls-online.com/signup.php" method="POST">
+                <p>
+                    <label for="username" class="labelfloat">Username:</label>
+                    <input id="username" name="member_login" type="text">
+                </p>
+                <p>
+                    <label for="email" class="labelfloat">Email:</label>
+                    <input id="email" name="member_email" type="text">
+                </p>
+                <p>
+                    <label for="password" class="labelfloat">Password:</label>
+                    <input id="password" name="member_password" type="password">
+                </p>
+                <p>
+                    <label for="rpassword" class="labelfloat">Confirm Password:</label>
+                    <input id="rpassword" name="confirm" type="password">
+                </p>
+                <p>
+                    <label for="country_id2" class="labelfloat">Country:</label>
+                    <select id="country_id2" name="country" data-placeholder="Select Country" style="width: 203px;">
+                        <option value=""></option>
+                        <option value="US">
+                              United States
+                        </option><option value="GB">
+                              United Kingdom
+                        </option><option value="CA">
+                              Canada
+                        </option><option value="AU">
+                              Australia
+                        </option><option value="SE">
+                              Sweden
+                        </option><option value="DK">
+                              Denmark
+                        </option><option value="NO">
+                              Norway
+                        </option><option value="FR">
+                              France
+                        </option><option value="BE">
+                              Belgium
+                        </option><option value="IT">
+                              Italy
+                        </option><option value="">
+                              -------------------------------
+                        </option><option value="AF">
+                              Afghanistan
+                        </option><option value="AL">
+                              Albania
+                        </option><option value="DZ">
+                              Algeria
+                        </option><option value="AS">
+                              American Samoa
+                        </option><option value="AD">
+                              Andorra
+                        </option><option value="AO">
+                              Angola
+                        </option><option value="AI">
+                              Anguilla
+                        </option><option value="AQ">
+                              Antarctica
+                        </option><option value="AG">
+                              Antigua and Barbuda
+                        </option><option value="AR">
+                              Argentina
+                        </option><option value="AM">
+                              Armenia
+                        </option><option value="AW">
+                              Aruba
+                        </option><option value="AT">
+                              Austria
+                        </option><option value="AZ">
+                              Azerbaijan
+                        </option><option value="BH">
+                              Bahrain
+                        </option><option value="PU">
+                              Baker Island
+                        </option><option value="BD">
+                              Bangladesh
+                        </option><option value="BB">
+                              Barbados
+                        </option><option value="BY">
+                              Belarus
+                        </option><option value="BZ">
+                              Belize
+                        </option><option value="BJ">
+                              Benin
+                        </option><option value="BM">
+                              Bermuda
+                        </option><option value="BT">
+                              Bhutan
+                        </option><option value="BO">
+                              Bolivia
+                        </option><option value="BA">
+                              Bosnia and Herzegovina
+                        </option><option value="BW">
+                              Botswana
+                        </option><option value="BV">
+                              Bouvet Island
+                        </option><option value="BR">
+                              Brazil
+                        </option><option value="VG">
+                              British Virgin Islands
+                        </option><option value="BN">
+                              Brunei
+                        </option><option value="BG">
+                              Bulgaria
+                        </option><option value="BF">
+                              Burkina Faso
+                        </option><option value="BI">
+                              Burundi
+                        </option><option value="KH">
+                              Cambodia
+                        </option><option value="CM">
+                              Cameroon
+                        </option><option value="CV">
+                              Cape Verde
+                        </option><option value="KY">
+                              Cayman Islands
+                        </option><option value="CF">
+                              Central African Republic
+                        </option><option value="TD">
+                              Chad
+                        </option><option value="CL">
+                              Chile
+                        </option><option value="CN">
+                              China
+                        </option><option value="CX">
+                              Christmas Island
+                        </option><option value="CP">
+                              Clipperton Island
+                        </option><option value="CC">
+                              Cocos Islands
+                        </option><option value="CO">
+                              Colombia
+                        </option><option value="KM">
+                              Comoros
+                        </option><option value="CK">
+                              Cook Islands
+                        </option><option value="CR">
+                              Costa Rica
+                        </option><option value="CI">
+                              Cote dIvoire
+                        </option><option value="HR">
+                              Croatia
+                        </option><option value="CU">
+                              Cuba
+                        </option><option value="CY">
+                              Cyprus
+                        </option><option value="CZ">
+                              Czech Republic
+                        </option><option value="CD">
+                              Democratic Republic of the Congo
+                        </option><option value="DJ">
+                              Djibouti
+                        </option><option value="DM">
+                              Dominica
+                        </option><option value="DO">
+                              Dominican Republic
+                        </option><option value="EC">
+                              Ecuador
+                        </option><option value="EG">
+                              Egypt
+                        </option><option value="SV">
+                              El Salvador
+                        </option><option value="GQ">
+                              Equatorial Guinea
+                        </option><option value="ER">
+                              Eritrea
+                        </option><option value="EE">
+                              Estonia
+                        </option><option value="ET">
+                              Ethiopia
+                        </option><option value="FK">
+                              Falkland Islands
+                        </option><option value="FO">
+                              Faroe Islands
+                        </option><option value="FM">
+                              Federated States of Micronesia
+                        </option><option value="FJ">
+                              Fiji
+                        </option><option value="FI">
+                              Finland
+                        </option><option value="GF">
+                              French Guiana
+                        </option><option value="PF">
+                              French Polynesia
+                        </option><option value="TF">
+                              French Southern And Antarctic Lands
+                        </option><option value="GA">
+                              Gabon
+                        </option><option value="PS">
+                              Gaza Strip
+                        </option><option value="GE">
+                              Georgia
+                        </option><option value="DE">
+                              Germany
+                        </option><option value="GH">
+                              Ghana
+                        </option><option value="GI">
+                              Gibraltar
+                        </option><option value="GR">
+                              Greece
+                        </option><option value="GL">
+                              Greenland
+                        </option><option value="GD">
+                              Grenada
+                        </option><option value="GP">
+                              Guadeloupe
+                        </option><option value="GU">
+                              Guam
+                        </option><option value="GT">
+                              Guatemala
+                        </option><option value="GG">
+                              Guernsey
+                        </option><option value="GN">
+                              Guinea
+                        </option><option value="GW">
+                              Guinea-Bissau
+                        </option><option value="GY">
+                              Guyana
+                        </option><option value="HT">
+                              Haiti
+                        </option><option value="HM">
+                              Heard Island and McDonald Islands
+                        </option><option value="HN">
+                              Honduras
+                        </option><option value="HK">
+                              Hong Kong
+                        </option><option value="HU">
+                              Hungary
+                        </option><option value="IS">
+                              Iceland
+                        </option><option value="IN">
+                              India
+                        </option><option value="ID">
+                              Indonesia
+                        </option><option value="IR">
+                              Iran
+                        </option><option value="IQ">
+                              Iraq
+                        </option><option value="IE">
+                              Ireland
+                        </option><option value="IM">
+                              Isle of Man
+                        </option><option value="IL">
+                              Israel
+                        </option><option value="JM">
+                              Jamaica
+                        </option><option value="JP">
+                              Japan
+                        </option><option value="JE">
+                              Jersey
+                        </option><option value="JO">
+                              Jordan
+                        </option><option value="KZ">
+                              Kazakhstan
+                        </option><option value="KE">
+                              Kenya
+                        </option><option value="KI">
+                              Kiribati
+                        </option><option value="XK">
+                              Kosovo
+                        </option><option value="KW">
+                              Kuwait
+                        </option><option value="KG">
+                              Kyrgyzstan
+                        </option><option value="LA">
+                              Laos
+                        </option><option value="LV">
+                              Latvia
+                        </option><option value="LB">
+                              Lebanon
+                        </option><option value="LS">
+                              Lesotho
+                        </option><option value="LR">
+                              Liberia
+                        </option><option value="LY">
+                              Libya
+                        </option><option value="LI">
+                              Liechtenstein
+                        </option><option value="LT">
+                              Lithuania
+                        </option><option value="LU">
+                              Luxembourg
+                        </option><option value="MO">
+                              Macau
+                        </option><option value="MK">
+                              Macedonia
+                        </option><option value="MG">
+                              Madagascar
+                        </option><option value="MW">
+                              Malawi
+                        </option><option value="MY">
+                              Malaysia
+                        </option><option value="MV">
+                              Maldives
+                        </option><option value="ML">
+                              Mali
+                        </option><option value="MT">
+                              Malta
+                        </option><option value="MH">
+                              Marshall Islands
+                        </option><option value="MQ">
+                              Martinique
+                        </option><option value="MR">
+                              Mauritania
+                        </option><option value="MU">
+                              Mauritius
+                        </option><option value="YT">
+                              Mayotte
+                        </option><option value="MX">
+                              Mexico
+                        </option><option value="MD">
+                              Moldova
+                        </option><option value="MC">
+                              Monaco
+                        </option><option value="MN">
+                              Mongolia
+                        </option><option value="ME">
+                              Montenegro
+                        </option><option value="MS">
+                              Montserrat
+                        </option><option value="MA">
+                              Morocco
+                        </option><option value="MZ">
+                              Mozambique
+                        </option><option value="NA">
+                              Namibia
+                        </option><option value="NR">
+                              Nauru
+                        </option><option value="UM">
+                              Navassa Island
+                        </option><option value="NP">
+                              Nepal
+                        </option><option value="NL">
+                              Netherlands
+                        </option><option value="AN">
+                              Netherlands Antilles
+                        </option><option value="NC">
+                              New Caledonia
+                        </option><option value="NZ">
+                              New Zealand
+                        </option><option value="NI">
+                              Nicaragua
+                        </option><option value="NE">
+                              Niger
+                        </option><option value="NG">
+                              Nigeria
+                        </option><option value="NU">
+                              Niue
+                        </option><option value="NF">
+                              Norfolk Island
+                        </option><option value="KP">
+                              North Korea
+                        </option><option value="MP">
+                              Northern Mariana Islands
+                        </option><option value="OM">
+                              Oman
+                        </option><option value="PK">
+                              Pakistan
+                        </option><option value="PW">
+                              Palau
+                        </option><option value="PA">
+                              Panama
+                        </option><option value="PG">
+                              Papua New Guinea
+                        </option><option value="PY">
+                              Paraguay
+                        </option><option value="PE">
+                              Peru
+                        </option><option value="PH">
+                              Philippines
+                        </option><option value="PN">
+                              Pitcairn Islands
+                        </option><option value="PL">
+                              Poland
+                        </option><option value="PT">
+                              Portugal
+                        </option><option value="PR">
+                              Puerto Rico
+                        </option><option value="QA">
+                              Qatar
+                        </option><option value="CG">
+                              Republic of the Congo
+                        </option><option value="RE">
+                              Reunion
+                        </option><option value="RO">
+                              Romania
+                        </option><option value="RU">
+                              Russia
+                        </option><option value="RW">
+                              Ruwanda
+                        </option><option value="BL">
+                              Saint Barthelemy
+                        </option><option value="SH">
+                              Saint Helena
+                        </option><option value="KN">
+                              Saint Kitts and Nevis
+                        </option><option value="LC">
+                              Saint Lucia
+                        </option><option value="SX">
+                              Saint Martin
+                        </option><option value="PM">
+                              Saint Pierre and Miquelon
+                        </option><option value="VC">
+                              Saint Vincent and Grenadines
+                        </option><option value="WS">
+                              Samoa
+                        </option><option value="SM">
+                              San Marino
+                        </option><option value="ST">
+                              Sao Tome and Principe
+                        </option><option value="SA">
+                              Saudi Arabia
+                        </option><option value="SN">
+                              Senegal
+                        </option><option value="RS">
+                              Serbia
+                        </option><option value="SC">
+                              Seychelles
+                        </option><option value="SL">
+                              Sierra Leone
+                        </option><option value="SG">
+                              Singapore
+                        </option><option value="SK">
+                              Slovakia
+                        </option><option value="SI">
+                              Slovenia
+                        </option><option value="SB">
+                              Solomon Islands
+                        </option><option value="SO">
+                              Somalia
+                        </option><option value="ZA">
+                              South Africa
+                        </option><option value="GS">
+                              South Georgia and South Sandwich Islands
+                        </option><option value="KR">
+                              South Korea
+                        </option><option value="ES">
+                              Spain
+                        </option><option value="LK">
+                              Sri Lanka
+                        </option><option value="SD">
+                              Sudan
+                        </option><option value="SR">
+                              Suriname
+                        </option><option value="SJ">
+                              Svalbard
+                        </option><option value="SZ">
+                              Swaziland
+                        </option><option value="CH">
+                              Switzerland
+                        </option><option value="SY">
+                              Syria
+                        </option><option value="TW">
+                              Taiwan
+                        </option><option value="TJ">
+                              Tajikistan
+                        </option><option value="TZ">
+                              Tanzania
+                        </option><option value="TH">
+                              Thailand
+                        </option><option value="BS">
+                              The Bahamas
+                        </option><option value="GM">
+                              The Gambia
+                        </option><option value="TL">
+                              Timor-Leste
+                        </option><option value="TG">
+                              Togo
+                        </option><option value="TK">
+                              Tokelau
+                        </option><option value="TO">
+                              Tonga
+                        </option><option value="TT">
+                              Trinidad and Tobago
+                        </option><option value="TN">
+                              Tunisia
+                        </option><option value="TR">
+                              Turkey
+                        </option><option value="TM">
+                              Turkmenistan
+                        </option><option value="TC">
+                              Turks and Caicos Islands
+                        </option><option value="TV">
+                              Tuvalu
+                        </option><option value="UG">
+                              Uganda
+                        </option><option value="UA">
+                              Ukraine
+                        </option><option value="AE">
+                              United Arab Emirates
+                        </option><option value="VI">
+                              United States Virgin Islands
+                        </option><option value="UY">
+                              Uruguay
+                        </option><option value="UZ">
+                              Uzbekistan
+                        </option><option value="VU">
+                              Vanuatu
+                        </option><option value="VA">
+                              Vatican City
+                        </option><option value="VE">
+                              Venezuela
+                        </option><option value="VN">
+                              Vietnam
+                        </option><option value="WF">
+                              Wallis and Futuna
+                        </option><option value="EH">
+                              Western Sahara
+                        </option><option value="YE">
+                              Yemen
+                        </option><option value="ZM">
+                              Zambia
+                        </option><option value="ZW">
+                              Zimbabwe
+                        </option>
+                    </select> 
+                </p>
+                <p style="margin-bottom: 8px; font-size: .80em; margin-top: 22px;">
+                    <input class="radio" type="checkbox" id="i_agree" name="termsAndConditions" value="true">
+                    <label for="i_agree" class="small" id="ig" style="top: 1px;">
+                        I have read and fully understood the Asian Girls Online <a href="http://www.asian-girls-online.com/terms" target="blank">Terms and Conditions</a>. 
+                    </label>
+                </p>
+                <p style="font-size: .80em;">
+                    <input id="family_of_sites" name="family_of_sites" type="checkbox" checked="">
+                    <label for="family_of_sites" class="small" id="registerlabel" style="top: 1px;">Register me with the Asian Girls Online Family of sites.</label>
+                </p>
+                <div style="text-align: center; margin-top: 4px;">
+                    <input type="hidden" name="__tcAction" value="checkSignup">
+                    <input type="image" id="submit_button" alt="Submit" src="/images/modal_join_free.jpg">
+                    <p style="margin-bottom: 6px; font-size: .85em; margin-top: 12px;">
+                        Already Registered? <a href="http://www.asian-girls-online.com/member-login">Log In Here</a><br>
+                        If you can not register, please <a href="http://www.asian-girls-online.com/contact-us">Contact Us</a>
+                    </p>
+                </div>
+            </form>
+            
+        </div>
+    </div>
+    
+    <div id="signuppopup2" class="modalalert" style="display: none;">
+        <span class="stringmessage">You must become a member to </span>    
+          <form action="https://www.asian-girls-online.com/signup.php" method="post">
+                <input type="submit" value="Sign Up Now" id="submitbuttonalert">
+          </form>
+            <a class="simplemodal-close" style="color: blue;">No thanks, maybe later</a>
+    </div>  
+    
 
 
 
@@ -264,6 +869,7 @@
         </div>
     </div>
 
+            	<div id="bottom_menu_bg_top" style="margin-left: -19px;"></div>
             <div id="bottom_menu_bg" style="margin-left: -19px;">
                 <table width="856" height="56" bgimage="/images/index_bottom_menu_bg.jpg" border="0" id="bottom_menu" cellpadding="0" cellspacing="0">
                     <tbody><tr>
@@ -275,7 +881,7 @@
                         </td>    
                         <td valign="middle" align="center">
                             <a href="http://www.asian-girls-online.com/live-chat">Live Chat</a>
-                        </td>    
+                        </td>
                         <td valign="middle" align="center">
                             <a href="http://www.asian-girls-online.com/live-video">Live Video Streaming</a>
                         </td>    
@@ -290,7 +896,10 @@
                         </td>    
                         <td valign="middle" align="center">
                             <a href="http://www.asian-girls-online.com/faq">FAQ</a>
-                        </td>    
+                        </td>     
+                        <td valign="middle" align="center">
+                            <a href="http://www.asian-girls-online.com/search-girls">Search</a>
+                        </td>
                         <td valign="middle" align="center">
                             <a href="http://www.asian-girls-online.com/gallery-qian/page1">Browse</a>
                         </td>
@@ -312,7 +921,7 @@
             <img src="/images/rapidssl_ssl_certificate.gif" border="0" alt="">
         </div>
         <div id="copyright" align="center">
-        <p>© Copyright Asian-Girls-Online.com 2008. All rights reserved</p>      
+        <p>© 2003-2013 Asian-Girls-Online.com ® TM</p>      
         <!--[if lt IE 7]>
         <![if gte IE 5.5]>
         <style>
