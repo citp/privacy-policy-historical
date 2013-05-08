@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebonyclipss.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106031246id_/http%3A//ebonyclipss.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebonyclipss.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508194410id_/http%3A//www.ebonyclipss.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
