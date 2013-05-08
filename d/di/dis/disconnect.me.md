@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182449id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509015421id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Disconnect
 
@@ -10,9 +10,9 @@ We’re committed to protecting your privacy and collecting only the minimum amo
 
 Nothing in this policy contradicts the following statements:
 
-  1. We don’t collect your personal info, including your IP address, unless you give us your email address to correspond. 
+  1. We don’t collect your personal info, including your IP address, unless you give us your email address to log in or correspond. 
   2. We don’t sell your personal info to advertisers or other third parties. 
-  3. We share your personal info only when legally required.
+  3. We share your personal info only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
   4. We retain your personal info, excluding info you make public, for no more than 30 days after you request deletion. 
 
 
@@ -21,11 +21,13 @@ Nothing in this policy contradicts the following statements:
 
 As used in this policy, “Personal Info” is data that can identify a particular person. Aggregate data isn’t considered Personal Info. 
 
-######  1\. Disconnect never collects your Personal Info except to communicate 
+######  1\. Disconnect never collects your Personal Info except to log you in or communicate with you 
 
 Our browser extensions don’t collect any of your Personal Info. Unlike most websites, our site doesn’t collect your IP address. 
 
 We may request your email address or a username to communicate with you. This info is used only as you’d expect and deleted upon request. 
+
+Optionally, you may provide your email address and a username to take credit for your work when applying [privacy icons](https://icons.disconnect.me/). 
 
 We use MailChimp to manage our newsletter and other email lists. There’s no third-party tracking in messages we send through MailChimp besides MailChimp’s own analytics, which may aggregate how many subscribers open a message or click the links inside. MailChimp’s privacy policy is available at <http://mailchimp.com/legal/privacy>. 
 
