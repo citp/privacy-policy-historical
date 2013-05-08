@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zen.co.uk privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221071012id_/http%3A//www.zen.co.uk/policies.aspx%3Fpage%3D10674) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen.co.uk privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508033819id_/http%3A//www.zen.co.uk/policies.aspx%3Fpage%3D10674) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | Zen Internet
 
