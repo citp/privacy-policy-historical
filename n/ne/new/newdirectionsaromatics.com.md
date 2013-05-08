@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819050147id_/http%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508055949id_/http%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Essential Oils, Aromatherapy, Candle, Soap, Cosmetic & Spa Supplies
 
