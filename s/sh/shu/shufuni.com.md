@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shufuni.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015071834id_/http%3A//www.shufuni.com/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shufuni.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163254id_/http%3A//www.shufuni.com/doc/privacy.html) for the most accurate reproduction.*
 
-# Shufuni.com
+# Free Porn, Sex Videos | Shufuni
 
 We know that protecting your privacy is very important to you. 
 
@@ -67,6 +67,26 @@ If you have any questions about this Privacy Policy, you can contact us at: [inf
 
   
 
+
+### Join Shufuni
+
+All fields are required
+
+Username:
+
+Username Already In Use Your username may not contain the combination of letters you chose
+
+Email:
+
+This Email Already In Use
+
+By clicking Join button you accept our [Terms of Use](https://web.archive.org/doc/agreement.html)
+
+Username:
+
+Username Already In Use
+
+OK
 
 ### Forgot password?
 
