@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agatagrudzinski.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112144052id_/http%3A//m.agatagrudzinski.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agatagrudzinski.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508082544id_/http%3A//m.agatagrudzinski.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Destin Real Estate
+# Mobile Website Mobile Website Destin Real Estate
 
  At agatagrudzinski.com ("WEBSITE") we know you care about your personal privacy and about the TERMS AND CONDITIONS that govern your use of our web site or service (the "Service"). Because we are dedicated to serving your needs and respecting your preferences, we have adopted the policies and practices described in this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. By accessing or using the Service, you ("You" or "Your" as applicable) are bound by the notices, terms and conditions in this Privacy Policy.
 
