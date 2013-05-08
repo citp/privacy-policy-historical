@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016033813id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508111937id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
-# Bitcoin, Namecoin, Litecoin, Devcoin, IXCoin, I0Coin, Liquidcoin (BTC/NMC/LTC/DVC/I0C/IXC/LQC) Exchange and Trading Platform
+# Bitcoin, Namecoin, Litecoin, Devcoin, IXCoin, PPCoin, Terracoin (BTC/NMC/LTC/DVC/IXC/PPC/TRC,FTC) Exchange and Trading Platform
 
 Date of last revision: 30th October 2011
 
