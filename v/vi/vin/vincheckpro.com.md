@@ -1,100 +1,76 @@
-> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508052859id_/http%3A//www.vincheckpro.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# VINCheckPro.com Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Effective Date: April 03, 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## This Policy Covers the Following:
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This policy covers how VINCheckPro.com ("Website", "we", "us", "our") handles any and all personal information received, which includes but is not limited to past usage of the site and/or additional products and services. Personal information regards to information about you that is identifiable such as your name, residence, debit or credit number, e-mail address, contact phone number which otherwise may not be available publicly. The policy does not cover practices of companies or 3rd parties that are not owned or controlled by us or the action of people that are not employed or managed by VINCheckPro.com. This policy does not apply or relate to the information stored relating to our people search databases. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## Usage of Information
 
-**Information Collection and Use**
+  * In order to properly process searches and manage our business affairs, we may gather personal information about visitors to the website. This includes information that is provided when you register, when you use the website or any of our products and services as well any interaction your browser may carry with us. Information gathered by us may be combined with information that is obtained from our business partners or additional 3rd party companies, such as data and billing providing companies and services.
+  * Information gathered regarding your person may include but is not limited solely to: name, residence, e-mail address, IP address and search history. Once you become a registered member and login to your account, you are no longer anonymous to us.
+  * By providing your e-mail address on our registration page, you are agreeing to receive mail from our completely free newsletter and e-mail alerting services. You comprehend that you may receive additional messages that are commercial in nature. You can stop receiving these messages at any point by simply following the "unsubscribe" link provided in any of these messages.
+  * Information is supplied automatically received and recorded on our servers from your browser, which includes IP address as well as cookies and page requests.
+  * Information is used for any number of general purposes which includes customizing advertising and content for you, provide better products and services, contacting your directly, market research, statistics gathering and reporting services for internal and external usage.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## Disclosure of Information
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We do not sell, rent or share personal information regarding your person with other people or non-affiliated companies and\or organizations unless to provide you with products and\or services that you have requested with your permission or in any of the following: 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * Information is provided to trusted partners who work with us or on our behalf. These companies may utilize your personal information to help provide you with information regarding offers from us or our marketing partners. This includes billing companies that may expedite payments or companies that may help protect you from identity theft
+  * We respond to court orders, legal proceedings etc as well as establish our legal rights to defend against any legal claims.
+  * We reserve the right to upload judgment and share information in order to investigate or prevent any action that may resort in any illegal activity, fraud or anything that may place any individual under potential threats or harm their wellbeing as well as violations to our terms and conditions or any other situations required by law.
+  * We do not provide any information to advertisers when you are displayed a targeted advertisement through our website, services or products. However, you are agreeing to allow advertisers on making the assumption that you meet their criteria’s to display advertisements.
+  * In order to protect and minimize cases of frauds and\or misuse of the website or any of its services, we analyze purchases as well as attempted purchases, repeated or high-volume search activities, or any use on the website or any of its underlining services to help identify, intercept, interrupt or block individuals or suspected individuals involved in fraudulent or malicious activity involving the website and any our services. In addition we may use this information with any of our security partners as well as any law enforcement agency to assist any group or individual we have reason to believe was victimized or was about to be victimized by such misuse of our website.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+## Cookies
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * Cookies on your local end machine may be set and accessed by us. We may use cookies, for example, to keep track of your preferences and profile information.
+  * Companies that display advertisements on our pages may set and access their cookies on your local end machine. Other companies that store cookies on your machine are subject to their privacy policy, not ours. Such companies do not gain access to our cookies. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+  * Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+  * Information that can be used to identify your person, such as names, residence, passwords and such will not be stored in our cookies.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## Editing, Deleting and Accessing Your Information and Preferences
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * You may edit or delete information regarding your account within our member’s area, by simply clicking on the "My Account" and then followed by clicking "Make Changes".
+  * To remove yourself from any commercial e-mails or alerts sent to you by us, you can simply do so by following the unsubscribe link provided by any and all commercial messages sent to your e-mail.
+  * We reserve the right to send you information and communication relating to our service, such as service announcements, administration related messages, customer receipts and so forth without providing an opt-out option of receiving them. If you wish to no longer receive these emails please contact us by clicking here or at [support@vincheckpro.com](mailto:support@vincheckpro.com). We provide an option of opting-out of our living people searches completely free. Simply contact our [support staff](https://web.archive.org/web/20130508052859id_/http%3A//www.vincheckpro.com/support) to do so.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+## Security and Confidentiality
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * Access to your personal information is limited solely to employees and contractors who are assured to have reasons to come into contact with your personal information in order to perform their job or functionality.
+  * We utilize proper safeguards of a physical, electronic and procedural nature that comply with federal regulations and common security best practices to protect your personal information. This includes the use of 128-bit SSL encryption of all credit and debit card transactions between you and our servers and our partners' servers. All sensitive customer related data is protected by using encryption devices with full PCI DSS compliant audit logging as well as dedicated networks. All data is stored within secure location allowing access solely to the minimal required authorized personnel who can pass a multi layered identification process.
+  * If you use any of our internal forums, you should be made aware that any information that you provide that may personally identify you, can be read or shared by other users. We are not responsible for such information you wish to submit on your own. You can request the removal of your personal information from our forum, by contacting us at [support@vincheckpro.com](mailto:support@vincheckpro.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Data Retention
 
-**Third Party Service Providers**
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Links to Other Web Sites
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Our Site includes links to other Web sites whose privacy practices may differ from those of VINCheckPro.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-**Supplementation of Information**
+## Social Media Widgets
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Twitter button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-**Contests/Surveys**
+## Changes to this Privacy Policy
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page prior to the changes taking effect 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## Contacting Us
 
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have additional questions or concerns regarding our privacy policy or on any other subject, you can contact us through support@vincheckpro.com, or writing to us at VINCheckPro.com, Attn: Privacy Dept., Portland, OR 97208-4120, PO Box 4120 #24811. 
