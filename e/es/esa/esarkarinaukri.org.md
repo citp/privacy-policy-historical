@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esarkarinaukri.org privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107034645id_/http%3A//www.esarkarinaukri.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esarkarinaukri.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508075610id_/http%3A//www.esarkarinaukri.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
