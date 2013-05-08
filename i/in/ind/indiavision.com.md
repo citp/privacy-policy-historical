@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiavision.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120185859id_/http%3A//www.indiavision.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiavision.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508162855id_/http%3A//www.indiavision.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | IndiaVision India News Video Trade Tour Food Film TV Sports
 
