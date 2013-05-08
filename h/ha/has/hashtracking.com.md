@@ -1,37 +1,35 @@
-> *The following text is extracted and transformed from the hashtracking.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213104418id_/http%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashtracking.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508111516id_/https%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.*
 
-# HashTracking.com | Privacy Policy
+# Powerful Tracking for Hashtags | Hashtracking.com
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers (whether logged into the service or not) access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+Hashtracking, Inc. ("Hashtracking," "we," "us,") respects your privacy, and recognizes your concern for the way your personal information is handled and shared. We want to ensure that you are aware of our practices and know how to contact us if you have a concern. Please review our privacy policy below and note that we may occasionally update it to reflect new technologies or company procedures. You should therefore review this policy regularly. 
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of  Terms of Service, or as otherwise required by law.
-  * We transfer information about you if  Hash Tracking is acquired by or merged with another company. In this event, Hash Tracking will notify you before information about you is transferred and becomes subject to a different privacy policy.
+## What Information Do We Collect?
 
+Hashtracking may collect certain personal Information as you view this website. The information we collect is used to improve the content of our web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission. 
 
+If you register for a Hashtracking account, we collect your name, email address, your billing address, telephone number and credit card information, as well as other pertinent information we need in order to provide you the best possible service experience. If you post a comment within our blog, we collect your name and email address. 
 
-## Information Gathering and Usage
+Hashtracking may collect technical information to improve its website operation. This may include your internet protocol address or information about the browser that you are using. We may also use technical tools to facilitate statistical analysis of how our website is used. By itself, this technical information does not identify you individually. 
 
-  * When you register for Hash Tracking we ask for information such as your name, company name, email address, billing address, credit card information.
-  * Hash Tracking uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+We may use cookies to help you move more efficiently through our website. A cookie is a small text file that is stored on your computer when you visit our site. It does not identify you personally, but only tracks the settings, preferences, pages, or features associated with a particular website. When you return to our site, the cookie lets your browser notify our site in order to customize your visit. You are required to log in to the Hashtracking website after a certain period of time has elapsed to protect you from others accidentally accessing your account. 
 
+Because the Hashtracking website is directed to business people, we do not expect anyone under age 18 to use this website. 
 
+## How Do We Use Your Information?
 
-## Cookies
+We may use information that we collect about you to verify your identity when accessing Hashtracking. We may also use your information to inform you about Hashtracking news or system information. You always have the option of asking us not to contact you about such news or to remove your personal information from our database. 
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
-  * Cookies are required to use the Hash Tracking service.
-  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Hash Tracking reports after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+If your personal information has changed, or if you want to correct or remove information that we maintain about you, please contact us via our Support section at [http://support.hashtracking.com](http://support.hashtracking.com/) or via email at [support@hashtracking.com](mailto:support@hashtracking.com). 
 
+We rely on standard industry practices to protect the security and confidentiality of your personal information. We do not guarantee that your information will not be lost or misused, but we make a sincere effort to ensure that it remains secure and confidential. 
 
+If Hashtracking is acquired by or merged with another company, we will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-## Data Storage
+We will comply with law enforcement if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. 
 
-Hash Tracking uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Hash Tracking.  Although Hash Tracking owns the code, databases, and all rights to the Hash Tracking application, you retain all rights to your data.  Disclosure.  Hash Tracking may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate our Terms of Service.
+## Feedback
 
-## Changes
+We welcome your feedback concerning this Privacy Policy. Please contact us at [legal@hashtracking.com](mailto:legal@hashtracking.com). 
 
-Hash Tracking may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your Hash Tracking account or by placing a prominent notice on our site.
-
-## Questions
-
-Any questions about this Privacy Policy should be addressed to support@hashtracking.com.
+Last updated: January 15, 2013
