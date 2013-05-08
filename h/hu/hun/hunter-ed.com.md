@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104190155id_/http%3A//www.hunter-ed.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508211249id_/http%3A//www.hunter-ed.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Today's Hunter Rider, Official Site for Hunter Safety Education
 
@@ -52,6 +52,6 @@ Telephone: 214-351-0461
 
 **Hunter Ed** hopes this document answers your questions and concerns about our privacy policy. **Hunter Ed** is committed to protecting the privacy of our students.
 
-Read Hunter Ed's [copyright notice](https://web.archive.org/web/20121104190155id_/http%3A//www.hunter-ed.com/copyright.html).
+Read Hunter Ed's [copyright notice](https://web.archive.org/web/20130508211249id_/http%3A//www.hunter-ed.com/copyright.html).
 
 Send mail to the Hunter Ed Webmaster at webmaster@hunterbbt-ed.com with questions or comments about this website.
