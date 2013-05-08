@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frostburg.edu privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107123050id_/http%3A//www.frostburg.edu/computing/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frostburg.edu privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163142id_/http%3A//www.frostburg.edu/computing/web/privacy) for the most accurate reproduction.*
 
 # Privacy - Frostburg State University
 
