@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fopping.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107120036id_/http%3A//www.fopping.com/content.aspx%3Fpgid%3D117009) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fopping.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509001602id_/http%3A//www.fopping.com/content.aspx%3Fpgid%3D117009) for the most accurate reproduction.*
 
 # Privacy Policy
 
