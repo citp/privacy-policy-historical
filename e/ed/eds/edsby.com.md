@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the edsby.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504074049id_/http%3A//edsby.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsby.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163321id_/http%3A//edsby.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Security | Edsby.
+# Privacy Policy | Edsby.
 
-#### CoreFour Inc.’s Privacy Policy for Edsby
+#### CoreFour Inc.’s Privacy Policy for Edsby
 
 **Date of last revision of this policy: November 16 th, 2011**
 
-**Edsby** (the “Site”) is a website that is owned and operated by **[CoreFour Inc.](http://corefour.com/) ** We are committed to protecting the privacy of our visitors while they interact with the content, products and services on Edsby.  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather and store certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of Edsby signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use Edsby.
+**Edsby** (the “Site”) is a website that is owned and operated by **CoreFour Inc.  ** We are committed to protecting the privacy of our visitors while they interact with the content, products and services on Edsby.  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather and store certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of Edsby signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use Edsby.
 
 For the purposes of this document the term “ **Parents** ” will be used to refer to the parents, guardians, and others such as aunts, uncles, step-parents, grandparents that are specifically approved by someone legally responsible for a child to have access to information in Edsby regarding that child.
 
@@ -16,27 +16,21 @@ Edsby provides a suite of services to the stakeholders of education organization
 
 We collect and store three kinds of information on your behalf: i) your personal information, ii) content you provide, and iii) information related to your usage of the Site
 
-  1. Your Personal Information.
-
-
+Your Personal Information.
 
 Our Site has the ability to store your name, userid, password, address, telephone numbers, and email addresses. Most or all of this information is provided by your education organization when your account is created. It is updated from time to time by your education organization as it changes. Parents, Teachers and Administrators may have the ability to enter/modify/update some of the above information directly; that is at the discretion of your education organization. Students are never allowed enter/modify/update their own personal information directly.
 
-  2. Content You Provide
-
-
+Content You Provide
 
 Edsby enables you to provide a wide range of digital content including text, images, audio, video, and web links. This digital content can be placed in messages, profiles, private notes, calendar events, gradebooks, and postings in shared places. Edsby stores this information on your behalf and tracks the fact that you provided that information. Note that files that you upload into the Site may have metadata associated with them. This metadata is preserved by the Site and will be available to anyone that has the ability to view or download the file you have uploaded.
 
-  3. Information Related to Your Usage of the Site
-
-
+Information Related to Your Usage of the Site
 
 _Site Access details:_ Each time you log in to Edsby we store information about that session including the time of login, the duration of the session, information about the type of computing device being used, the IP address of the computing device, and the type of browser or application software being used to access Edsby.
 
 _Content Usage details:_ Edsby stores information about your usage of the Site including which areas of the Site you have visited and which items you have viewed.
 
-_Cookies:_ A cookie is a piece of data stored on the user’s computer tied to information about the user. Edsby **** uses cookies to store a secure encrypted token that is used to optimize performance and reduce the number of times a user needs to re-authenticate from the same computer.  Personal information is not collected or stored in this cookie.
+_Cookies:_ A cookie is a piece of data stored on the user’s computer tied to information about the user. Edsby **** uses cookies to store a secure encrypted token that is used to optimize performance and reduce the number of times a user needs to re-authenticate from the same computer.  Personal information is not collected or stored in this cookie.
 
 **2)   How We Use the Information We Collect and Store**
 
@@ -60,13 +54,13 @@ We may share the information we collect and store with parent companies, subsidi
 
 We use non-identifying and aggregate information to better design the Site and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
 
-WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN FORUMS SUCH AS A SHARED COMMUNICATIONS PLACE, MESSAGES, CHAT ROOM OR ANY OTHER AREA OF THE SITE THAT IS ACCESSIBLE TO OTHER USERS. **__**
+WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN FORUMS SUCH AS A SHARED COMMUNICATIONS PLACE, MESSAGES, CHAT ROOM OR ANY OTHER AREA OF THE SITE THAT IS ACCESSIBLE TO OTHER USERS.
 
 **3) How We Protect Your Information**
 
 We are committed to protecting the information and content we store on your behalf. We take appropriate security measures to protect your information against unauthorised access, alteration, disclosure or destruction. To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on the Site. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
-**4) Advertising** __
+**4) Advertising** _ _
 
 Your education organization may authorize the use of advertising to the Parents and staff of their community on Edsby. Advertising is never provided to students. If so **** we may use a subset of your personal information such as your city, postal code, gender, and interests to improve the relevance of the advertising directed toward you. No information that directly indentifies you (such as name, email address, street address, phone number) will be provided to advertisers.
 
@@ -88,12 +82,10 @@ No security measures are perfect. We cannot guarantee or warrant the security of
 
 **8) Notification of Changes**
 
-**[CoreFour Inc.](http://corefour.com/) **reserves the right to change this Privacy Policy from time to time at its sole discretion. Our most current Privacy Policy applies to all the information we have about you unless we specifically state exceptions to this. Your continued use of the Site indicates your assent to the Privacy Policy as posted on this site.
+**CoreFour Inc.** reserves the right to change this Privacy Policy from time to time at its sole discretion. Our most current Privacy Policy applies to all the information we have about you unless we specifically state exceptions to this. Your continued use of the Site indicates your assent to the Privacy Policy as posted on this site.
 
 We **** reserve the right to contact you regarding matters relevant to the underlying service provided by Edsby and the applicable privacy policy.
 
-**9)   Contact Information**
+**9)   CONTACT INFORMATION:**
 
-If you have any questions or concerns regarding this Privacy Policy please email us at:
-
-**[privacy@corefour.com](mailto:privacy@corefour.com)**
+If you have any questions or concerns regarding this Privacy Policy please email us at:  **[privacy@corefour.com](mailto:privacy@corefour.com)**
