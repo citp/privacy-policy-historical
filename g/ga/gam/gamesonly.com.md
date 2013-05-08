@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesonly.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107034633id_/http%3A//www.gamesonly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesonly.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508072915id_/http%3A//www.gamesonly.com/privacy-policy) for the most accurate reproduction.*
 
 # Play Free Online Games at GamesOnly.com!
 
