@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210124341id_/http%3A//store.themodernman.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508080417id_/http%3A//store.themodernman.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - The Modern Man
 
@@ -6,7 +6,7 @@ This Privacy Policy applies to all personal information collected by TheModernMa
 
 **How to contact us about privacy**
 
-Your privacy is very important to us. For that reason, please read the following details carefully and [contact us](https://web.archive.org/contact_us.php) if you have any further queries. You can contact us by submitting your query [here](https://web.archive.org/contact_us.php). TheModernMan.com is committed to protecting the privacy of our site visitors and customers. We fully understand that you may wish to keep your research into the topic of 'women & dating' a private matter.
+Your privacy is very important to us. For that reason, please read the following details carefully and [contact us](https://web.archive.org/contact_us.html) if you have any further queries. You can contact us by submitting your query [here](https://web.archive.org/contact_us.html). TheModernMan.com is committed to protecting the privacy of our site visitors and customers. We fully understand that you may wish to keep your research into the topic of 'women & dating' a private matter.
 
 **Collection and Purpose**
 
