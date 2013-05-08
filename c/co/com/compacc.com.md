@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214140942id_/http%3A//www.compacc.com/e/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508233713id_/http%3A//www.compacc.com/e/Privacy-Statement) for the most accurate reproduction.*
 
 # 
 
@@ -32,6 +32,6 @@ Suite 105
 
 Rock Hill, SC 29730
 
-supervisors@compacc.com
+cservice@compacc.com
 
 1-800-543-6321
