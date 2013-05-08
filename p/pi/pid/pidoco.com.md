@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pidoco.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015012211id_/https%3A//pidoco.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pidoco.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508190339id_/https%3A//pidoco.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Pidoco wireframing tool - by Pidoco
 
