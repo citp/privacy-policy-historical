@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersecret.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922101209id_/http%3A//www.supersecret.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersecret.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508225854id_/http%3A//www.supersecret.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - SuperSecret
 
