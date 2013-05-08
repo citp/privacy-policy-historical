@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104075646id_/http%3A//www.buffalotech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508212324id_/http%3A//buffalotech.com/privacy) for the most accurate reproduction.*
 
 # Buffalo Technology privacy policy
 
