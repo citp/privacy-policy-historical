@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025011951id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163318id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy | Security and Privocy
 
