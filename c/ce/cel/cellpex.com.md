@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cellpex.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020134330id_/http%3A//www.cellpex.com/index.php%3Ffuseaction%3Dblog.article%26id%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellpex.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163922id_/http%3A//www.cellpex.com/index.php%3Ffuseaction%3Dblog.article%26id%3D33) for the most accurate reproduction.*
 
 # Privacy Policy | Support | Cellpex
 
-[Privacy Policy](https://web.archive.org/index.php?fuseaction=blog.article&id=33 "Privacy Policy") Posted by: Cellpex Administrator (Updated Nov 11, 2009) Category: [Support](https://web.archive.org/index.php?fuseaction=blog.articles&id=4) Aug 28, 2005
+[Privacy Policy](https://web.archive.org/index.php?fuseaction=blog.article&id=33 "Privacy Policy") Support by [admin](https://web.archive.org/suppliers-wholesalers-dealers-detail/30) on Aug 28, 2005 (Updated Nov 11, 2009)     [](https://web.archive.org/index.php?fuseaction=blog.article&id=33)
 
 |   
 We consider and respect any individual's privacy seriously and importantly. The fundamental purpose of the services that [Cellpex.com](http://www.cellpex.com/) provides you; for example, Offerboard enabling exchanges of trade leads, offers and inquiries, listing through the [Cellpex.com](http://www.cellpex.com/) and search engines, etc., requires that we gather, process, use and distribute the member's information which also you provide directly; for example, your company name, contact information, and homepage, etc. Therefore, [Cellpex.com](http://www.cellpex.com/) does not guarantee that your information will be protected from exposure in any particular party or group. If you wish to remove your company or update your company's information, please [Contact Us](https://web.archive.org/index.php?fuseaction=site.contact).  
@@ -47,6 +47,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
   
 
 
-  
-  
-|  
+**[ADVERTISE ON CELLPEX](https://web.archive.org/index.php?fuseaction=blog.article&id=36)  
+Spend $25, Get $100 Free **
