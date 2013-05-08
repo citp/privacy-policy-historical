@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savvis.net privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028131546id_/http%3A//www.savvis.com/en-us/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvis.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508151630id_/http%3A//www.savvis.com/en-us/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Savvis, A CenturyLink Company
+# Privacy Policy | Savvis, Inc
 
 ## Savvis is a Global IT Utility Provider that Offers Hosting, Networking, and Application Services.
 
@@ -69,4 +69,4 @@ Effective Date: September 10 2010
 
 * * *
 
-Privacy Policy Page
+Privacy Policy Page ​​ 
