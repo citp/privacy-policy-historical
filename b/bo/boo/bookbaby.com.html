@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookbaby.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016125823id_/http%3A//www.bookbaby.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookbaby.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509012640id_/http%3A//www.bookbaby.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	BookBaby Privacy Policy
@@ -18,8 +18,19 @@
 		$(function () {
 			$('ul.sf-menu').superfish();
 
-			$("#login-link").click(function () {
-				$("#login-container").slideToggle();
+			$("#login-link").click(function (e) {
+			    $("#login-container").slideToggle();
+			    e.stopPropagation();
+			});
+
+            // prevent login-container from closing when html.click is fired by capturing click
+			$("#login-container").click(function (e) {
+			    e.stopPropagation();
+			});
+
+			$('body').click(function (e) {
+			    // close "open" menus if we click outside
+			   $("#login-container").slideUp();
 			});
 		});
 	</script>
@@ -129,9 +140,9 @@
 <body>
 
 	<form name="aspnetForm" method="post" action="/privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRktfa7CM70LGn7gx3GLcctvB5GObI=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkVX3RR1AF/CsBMsqSUu1SS7MetKEsdnPwunLQeoglAug=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLOz+GXCQKA0uytCAKBubTEBgKSoovYCgL3n8qFAwKH65e7AaBMQa6MaiCGqwGTNm4I6sx2w7a6">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKx66eVBwKA0uytCAKBubTEBgKSoovYCgL3n8qFAwKH65e7AT+4c42h/qPJ2zWbizcFlLmA+li9WaceMQDuWyRiRIv8">
 	
 		&nbsp;
 	 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
@@ -232,19 +243,15 @@
                 <li><a href="/services/coverdesign">Cover Design</a></li>
                 <li><a href="/services/book-printing">Book Printing</a></li>
                 <li><a href="/services/authorwebsites">Author Websites</a></li>
+                <li><a href="/services/book-editing-services">Editing Services</a></li>
+                <li><a href="/services/book-scanning-services">Book Scanning Services</a></li>
+                <li><a href="/services/book-press-release">eBook Press Release</a></li>
             </ul>
         </li>
                   
-	    <li style="margin-left:15px;">
-        	<a id="ctl00_ucNavigation_hlPricing" class="sf-with-ul">Pricing<span class="sf-sub-indicator"> »</span></a>
-            <ul style="width: 160px; display: none; visibility: hidden;">
-                <li><a href="/pricing">Pricing - All Items</a></li>
-                <li><a href="/services/ebook-publishing-credits">Bulk Pricing</a></li>
-            </ul>
-        </li>
+	    <li style="margin-left:15px;"><a id="ctl00_ucNavigation_hlPricing" href="/pricing">Pricing</a></li>
         
-        
-	    <li style="margin-left:20px;"><a id="ctl00_ucNavigation_hlPartners" class="sf-with-ul">eBook Retailers<span class="sf-sub-indicator"> »</span></a>
+	    <li style="margin-left:35px;"><a id="ctl00_ucNavigation_hlPartners" class="sf-with-ul">eBook Retailers<span class="sf-sub-indicator"> »</span></a>
             <ul style="width: 225px; display: none; visibility: hidden;">
                 <li><a href="/ebook-retailers/appleibookstore">Apple iBookstore (for iPad)</a></li>
                 <li><a href="/ebook-retailers/amazon">Amazon (for Kindle)</a></li>
@@ -255,6 +262,8 @@
                 <li><a href="/ebook-retailers/gardners">Gardners</a></li>
                 <li><a href="/ebook-retailers/bakerandtaylor">Baker &amp; Taylor</a></li>
                 <li><a href="/ebook-retailers/ebookpie">eBookPie</a></li>
+                <li><a href="/ebook-retailers/esentral">eSentral</a></li>
+                <li><a href="/ebook-retailers/scribd">Scribd</a></li>
 
             </ul>
         </li>
@@ -408,8 +417,10 @@ We provide Information, (i) to the content owners (e.g., authors and publishers)
                  <li><a href="/howitworks">How it Works</a></li>
                  <li><a href="/why-choose-bookbaby">Why Choose BookBaby?</a></li>
                 <li><a href="/pricing">Pricing</a></li>
+                 <li><a href="/reviews">Customer Support Reviews</a></li>
                 <li><a href="/press">Press</a></li>
-                <li><a href="/brandguidelines">Brand Guidelines</a></li>
+                <li><a href="/privacy">Privacy Policy</a></li>
+                <li><a href="/terms-of-service">Terms of Service</a></li>
                 <li><a href="/sitemap">Sitemap</a></li>
                 <li><a href="/contact">Contact Us</a></li>
                 <li><a href="/about-bookbaby">About BookBaby</a></li>
@@ -427,6 +438,9 @@ We provide Information, (i) to the content owners (e.g., authors and publishers)
                 <li><a href="/services/accounting">Accounting Dashboard</a></li>
                <li><a href="/services/distribution-for-publishers">Distribution for Publishers</a></li>
                <li><a href="/services/government-agencies">Distribution for Government Agencies</a></li>
+               <li><a href="/services/book-editing-services">Editing Services</a></li>
+               <li><a href="/services/book-scanning-services">Book Scanning Services</a></li>
+               <li><a href="/services/book-press-release">eBook Press Release</a></li>
             </ul>
             <ul id="footer-ebookretailers" style="width:180px;">
                 <lh>eBook Retailers</lh>
@@ -439,23 +453,25 @@ We provide Information, (i) to the content owners (e.g., authors and publishers)
                 <li><a href="/ebook-retailers/gardners">Gardners</a></li>
                 <li><a href="/ebook-retailers/bakerandtaylor">Baker &amp; Taylor</a></li>
                 <li><a href="/ebook-retailers/ebookpie">eBookPie</a></li>
+                <li><a href="/ebook-retailers/esentral">eSentral</a></li>
+                <li><a href="/ebook-retailers/scribd">Scribd</a></li>
             </ul>
 			<ul id="footer-resources" style="width:140px;">
             	<lh>Help</lh>
-                <li><a href="/help/faq">FAQ</a></li>
+              <li><a href="/help/faq">FAQ</a></li>
                 <li><a href="/help/how-to-make-an-ebook">How To Make An eBook</a></li>
                 <li><a href="/help/preparing-for-conversion">Preparing for Conversion</a></li>
                 <lh style="margin-top:15px">Resources</lh>
                 <li><a href="http://blog.bookbaby.com">Blog</a></li>
-                <li><a href="/privacy">Privacy Policy</a></li>
-                <li><a href="/terms-of-service">Terms of Service</a></li>
+                  <li><a href="/friends-of-bookbaby">Friends of BookBaby</a></li>
+                <li><a href="/brandguidelines">Brand Guidelines</a></li>
                 <li><a href="/free-publishing-guides">Free Guides</a></li>
                 <li><a href="/upcomingevents">Upcoming Events</a></li>
             </ul>
             <ul id="footer-community">
                 <lh>Our Community</lh>
                    <li><a href="http://print.bookbaby.com" target="_blank">BookBaby Book Printing</a></li>
-                    <li><a href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=78486" target="_blank">BookBaby Affiliate Program</a></li>
+                    <li><a href="/bookbaby-affiliate-program" target="_blank">BookBaby Affiliate Program</a></li>
                     <li><a href="http://www.cdbaby.com" target="_blank">CD Baby Music Store</a></li>
                 <li><a href="http://members.cdbaby.com" target="_blank">CD Baby: Sell Music Online</a></li>
                 <li><a href="http://www.cdbaby.biz" target="_blank">CD Baby Affiliate Program</a></li>
@@ -496,21 +512,13 @@ We provide Information, (i) to the content owners (e.g., authors and publishers)
 	</div>
 
 	<div id="overlay" class="avlModalHideClass">
-		<h1>Enter to win the BookBaby Bestseller Sweepstakes!</h1>
+		<h1>Welcome to BookBaby, home of eBook Publishing made easy.</h1>
 		
-		<img src="/Images/overlay-sweepstakes.jpg" width="240" height="297" alt="Enter to win the BookBaby Bestseller Sweepstakes!" style="float:left; margin-right:10px; margin-top:10px;">
+		<img src="/Images/overlay-making-money.jpg" width="240" height="297" alt="Making Money With Your eBook" style="float:left; margin-right:40px; margin-left:50px; margin-top:30px;">
 		<div id="overlay-copy">
-			<h3><strong>Prize includes:</strong></h3>
-			<ul>
-			<li>eBook Premium Publishing Package</li>
-<li>Global eBook distribution to Amazon, iBookstore, and more</li>
-<li>Book editing </li>
-<li>Deluxe Cover Design for your eBook and printed books</li>
-<li>250 custom-printed books with interior book design</li> 
-<li>Author’s Website Hosting for one year</li> 
-<li>And much more!</li>
-</ul>
-			<a id="btn-enternow" title="Enter now!" href="/campaigns/sweepstakes?Source=BBWEB&amp;Dest=http://www.pages04.net/discmakers-cdbaby/BookBaby_Sweeps_Sept2012/"></a>
+			<h2>Sell Your eBook<br> Like a Pro!</h2>
+			<h3>Download the "Making Money <br>With Your eBook" Guide and learn <br>to think like a marketer.</h3>
+			<a id="btn-enternow" title="Download now!" href="/campaigns/request-making-money-with-ebook-guide?Source=MONEY-BBOVLY&amp;Dest=http://www.pages04.net/discmakers-cdbaby/Web_Leads_Masterlist/Making_Money_With_Your_eBook_Guide"></a>
 			<a href="javascript:;" class="overlay-close" title="close" onclick="$.closeModal({target:'#overlay'})"></a>
 		</div><!--overlay-copy-->     
 	</div><!--overlay-->
@@ -530,6 +538,8 @@ We provide Information, (i) to the content owners (e.g., authors and publishers)
 	<img src="/plugins/avlmodal/images/overlay.png" height="1" width="1" alt="">
 	<img src="/images/async-loader.gif" height="1" width="1" alt="">
 	<img src="/images/buttons/btn-SignIn-60x20.png" height="1" width="1" alt="">
+
+
 
 
 
