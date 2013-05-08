@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203204941id_/http%3A//www.onetravel.com/travel/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508035431id_/http%3A//www.onetravel.com/travel/privacy-policy.asp) for the most accurate reproduction.*
 
 # OneTravel Privacy Policy
 
