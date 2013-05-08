@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ahappyhippymom.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015192139id_/http%3A//www.ahappyhippymom.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahappyhippymom.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508161645id_/http%3A//www.ahappyhippymom.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - A Happy Hippy Mom
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ahappyhippymom.com%2Fdisclosure-policy%2Fprivacy-policy&&description=Privacy+Policy)
+"This article may contain a product sample and/or outside link. See website policy for additional details." 
 
 **What information do we collect?**
 
