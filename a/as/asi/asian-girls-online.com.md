@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asian-girls-online.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106225636id_/http%3A//www.asian-girls-online.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asian-girls-online.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163355id_/http%3A//www.asian-girls-online.com/privacy) for the most accurate reproduction.*
 
 # Find your missing Oriental piece in one of our women
 
