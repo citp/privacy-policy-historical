@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upubuntu.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117040926id_/http%3A//www.upubuntu.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upubuntu.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508072715id_/http%3A//www.upubuntu.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,4 +39,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-4/04/2012 05:58:00 PM 
+Wednesday, April 04, 2012 
