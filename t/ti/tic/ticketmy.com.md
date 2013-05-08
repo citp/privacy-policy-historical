@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the ticketmy.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014115200id_/http%3A//www.ticketmy.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmy.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508063320id_/http%3A//www.ticketmy.com/policies.php) for the most accurate reproduction.*
 
 # Policies: TicketMY
 
-For Less Corp. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.   
-If you have questions or concerns regarding this statement, you should first contact Sara Jones at [sara@ticketmy.com](mailto:sara@TicketMy.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).   
-For Less Corp. is firmly committed to protecting your privacy while you are visiting our Web site. The following Privacy Policy discloses the information gathering and dissemination practices for 
-
-[www.Ticketmy.com](http://www.ticketmy.com/)
-
+  
 **INFORMATION THIS SITE GATHERS/TRACKS**   
 We use your IP address and browser type to help diagnose problems with our server and to administer our Web site. This means that a user's session will be tracked, but the user will remain anonymous. This means that your session is never associated with any of your personal information.   
 The Contact Us form has the following mandatory fields:
