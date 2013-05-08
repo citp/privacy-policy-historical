@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appbistro.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915033908id_/http%3A//appbistro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbistro.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509003434id_/http%3A//appbistro.com/privacy) for the most accurate reproduction.*
 
 # Appbistro Facebook App Directory | Facebook Timeline Apps & Business Tools
 
