@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capezio.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104083423id_/http%3A//www.capezio.com/all-access/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capezio.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508075534id_/http%3A//www.capezio.com/all-access/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Capezio Brands
+# Privacy Policy - Capezio All Access
 
 Thank you for visiting! Capezio wants to assure you that your privacy is safe at Capezio.com. This Privacy Policy covers the treatment of personal information that this site gathers when you access or use the Capezio.com online store. For more details please read below.
 
