@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218021947id_/http%3A//www.newsweaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508082927id_/http%3A//www.newsweaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Software that Drives Engagement | Newsweaver
-
-## Privacy Policy
+# Privacy Policy | Software that Drives Engagement
 
 We take the privacy of visitors to our website seriously and have set out in this policy documenting how we collect, use and disclose personally identifiable information provided via this website. By visiting the Newsweaver [email marketing](http://www.newsweaver.com/ "email marketing") website, or signing up to email newsletters created and sent through the Newsweaver technology, you are accepting the terms of this privacy policy, so we encourage you to read this entire privacy policy before using or submitting information to this site.
 
