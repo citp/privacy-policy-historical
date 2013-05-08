@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919093506id_/http%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508215207id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.*
 
 # 
 
