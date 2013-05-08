@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlez.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015221837id_/http%3A//www.articlez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlez.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508113743id_/http%3A//www.articlez.com/privacy) for the most accurate reproduction.*
 
 # Articlez.com Privacy Policy
 
@@ -51,10 +51,6 @@ _Articlez.com makes no claim as to the accuracy of information provided by third
 ### Surveys:
 
 From time to time Articlez.com may ask you to participate in surveys. Any information you provide via these surveys is totally optional, and 100% anonymous and is only used to gather data relating to providing better services to our customers.
-
-### Articlez.com Affiliate Program:
-
-The Articlez.com affiliate program requires you to provide name, address, state and or country where you reside, as well as any relevant tax documentation. This information is held in the strictest confidence and is not shared with anyone. It is only used in the process of paying you for any commissions earned through the Articlez.com affiliate program and for providing you relevant tax documentation of any such earnings.
 
 ### Legal:
 
