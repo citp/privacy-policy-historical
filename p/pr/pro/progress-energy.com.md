@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023033010id_/https%3A//www.progress-energy.com/shared/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508074424id_/https%3A//www.progress-energy.com/shared/privacy.page) for the most accurate reproduction.*
 
 # Privacy Statement
 
 _[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.duke-energy.com&sealid=101)_
 
-_Last updated  October 2012_
+_Last updated  April 2013_
 
 Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way your information is collected and used.
 
-Duke Energy Business Services LLC, the service company subsidiary of Duke Energy Corporation (Duke Energy Corporation and its subsidiaries referred to herein, individually and collectively, as “Duke Energy”, “we”, “us” or “our”) that maintains Duke Energy’s Web site, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement and the TRUSTe program only covers the online information practices and the choices you can make about the way your information is collected and used via the [www.duke-energy.com](http://www.duke-energy.com/) and [www.progress-energy.com](file:///C:/Documents%20and%20Settings/meholli/Desktop/Policy%20review/www.progress-energy.com) Web sites and mobile Web sites. 
+Duke Energy Business Services LLC, the service company subsidiary of Duke Energy Corporation (Duke Energy Corporation and its subsidiaries referred to herein, individually and collectively, as “Duke Energy”, “we”, “us” or “our”) that maintains Duke Energy’s Web site, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement and the TRUSTe program only covers the online information practices and the choices you can make about the way your information is collected and used via the [duke-energy.com](http://www.duke-energy.com/) and [progress-energy.com](https://www.progress-energy.com/) Web sites and mobile Web sites. 
 
-If you have questions or concerns regarding this statement, please communicate with us through [Contact Us](https://www.duke-energy.com/contact/contact.asp "This link goes to an external Web site and opens in a new window.") .  If you do not receive acknowledgement of your inquiry or if your inquiry is not satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or concerns regarding this statement, please communicate with us through [Contact Us](https://www.duke-energy.com/contact/contact.asp "This link goes to an external Web site and opens in a new window."). If you do not receive acknowledgement of your inquiry or if your inquiry is not satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **The Information We Collect**
 
 We do not collect personal information about you through our Web sites or mobile Web site unless you voluntarily provide it. We may collect personal information when you create or modify your online account, respond to surveys, contact us via the Web or mobile device, or complete any self-service transaction with us online.  For example, if you choose to use online or mobile customer services, including account access, e-bill and product or service enrollment, you will be asked to provide personal information.
 
-At any time, you may opt out of providing such personal information by simply not providing it or by discontinuing your use of our Web site or mobile Web site. (Please note:  Even if you choose not to have an online account with us, we will still store some of your personal information in our billing system if you are our customer.  If you choose not to provide this information, we may not be able to provide you with the requested service or complete your transaction.)
+At any time, you may opt out of providing such personal information by simply not providing it or by discontinuing your use of our Web site or mobile Web site. (Please note:  Even if you choose not to have an online account with us, we will still store some of your personal information in our billing system if you are our customer. If you choose not to provide this information, we may not be able to provide you with the requested service or complete your transaction.)
 
-Personal information is information that identifies you specifically.  Examples of information that you may provide to us while using our site include, whether personal information, demographic information or other, include: 
+Personal information is information that identifies you specifically. Examples of information that you may provide to us while using our site include, whether personal information, demographic information or other, include: 
 
   * Account number (if you are a current customer) 
   * Name 
@@ -53,6 +53,8 @@ We receive and store certain types of information when you interact with our web
 Examples include Internet protocol (IP) addresses or similar identifiers, browser type, Internet service provider (ISP), referring websites, exit pages, operating system, date/time stamp, and clickstream data meaning the path you take to navigate through our Web pages. 
 
 To collect this information, we use tracking technologies like cookies and clear gifs (a.k.a. Web Beacons/Web Bugs).  These technologies may be invisible to you, and we analyze the information collected only in the aggregate; it is not associated with any specific individuals.  We use these tracking technologies at the point of collection of your personal information, not in e-mails that you receive from us.  We also use a third-party tracking service that uses these technologies to track non-personal information about visitors to our site.  This information is collected in the aggregate and is used to track usage and volume statistics.
+
+These third-party technologies may also be used to collect  non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may [opt-out by clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 We use “cookies” to recognize you as you use or return to our website or mobile Web site. This is done so that we can provide a continuous and more personalized experience for you. A cookie is a small text file that a website or e-mail may save to your browser and store on your hard drive.
 
@@ -126,7 +128,7 @@ In some instances, Duke Energy will co-brand with another company.  Please be a
 
 **Information Protection**
 
-The privacy, security and integrity of your information is very important to us.  Duke Energy uses industry-standard practices to protect your personal information from loss, misuse, alteration and destruction.  Such measures include, but are not limited to, firewalls, intrusion monitoring, and Secure Sockets Layers (SSL) to encrypt and protect certain sensitive transmissions of information.     However, no security system is fail-safe, and Duke Energy cannot guarantee the information you provide will never be obtained by unauthorized persons.  You should protect the confidentiality of your information such as your customer account number, e-mail address and password. 
+The privacy, security and integrity of your information is very important to us.  Duke Energy uses industry-standard practices to protect your personal information from loss, misuse, alteration and destruction.  Such measures include, but are not limited to, firewalls, intrusion monitoring, and Secure Sockets Layers (SSL) to encrypt and protect certain sensitive transmissions of information. However, no security system is fail-safe, and Duke Energy cannot guarantee the information you provide will never be obtained by unauthorized persons.  You should protect the confidentiality of your information such as your customer account number, e-mail address and password. 
 
 **Password Protection**
 
@@ -138,13 +140,13 @@ We do not intend to collect any personal information from children through this 
 
 **Access**
 
-If you wish to correct or edit your information or e-mail address online, please log into your account and access your online profile.  To request removal of your personal information from our blog or community forum, contact us through one of the methods listed below.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you wish to correct or edit your information or e-mail address online, please log into your account and access your online profile. To request removal of your personal information from our blog or community forum, contact us through one of the methods listed below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 If you wish to obtain a copy of the personal information or e-mail addresses that we have obtained from you through your use of this site or mobile Web site for any reason, including if you believe it is in error, please contact us using the information below:
 
 **How to Reach Us**
 
- | Duke Energy|  **Progress Energy**  
+ | Duke Energy|  **Duke Energy Progress**  
 ---|---|---  
 **General  
 Correspondence  
@@ -156,18 +158,27 @@ Charlotte, NC 28202 | P.O. Box 1551
 Raleigh, N.C. 27602-1551  
 **Customer  
 Service  
-Email/Web** | [Contact Us](https://www.duke-energy.com/contact/contact.asp "This link goes to an external Web site and opens in a new window.") | 
+Email/Web** | 
 
-[Carolinas Contact Us](https://www.progress-energy.com/carolinas/support/contact-us/index.page?)
+[Contact Us](https://www.duke-energy.com/contact/contact.asp "This link goes to an external Web site and opens in a new window.")
 
-[Florida Contact Us](https://www.progress-energy.com/florida/support/contact-us/index.page?)  
+[Florida Contact Us](https://www.progress-energy.com/florida/support/contact-us/index.page?)
+
+| 
+
+[Carolinas Contact Us](https://www.progress-energy.com/carolinas/support/contact-us/index.page?)  
   
 **Customer  
 Service  
-Telephone** | Carolinas - 1-800-777-9898  
-Indiana - 1-800-521-2232   
-Ohio and Kentucky - 1-800-544-6900 | Carolinas - 1-800-452-2777  
+Telephone** | 
+
+Carolinas - 1-800-777-9898  
 Florida - 1-800-700-8744  
+Indiana - 1-800-521-2232   
+Ohio and Kentucky - 1-800-544-6900
+
+| Carolinas - 1-800-452-2777  
+  
   
   
 If you have questions or concerns regarding this Privacy Policy or believe we have not followed this Privacy Policy in any instance, please contact our business ethics officer by e-mail at [ethicsofficer@duke-energy.com](mailto:ethicsofficer@duke-energy.com).
