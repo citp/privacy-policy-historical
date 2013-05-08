@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smsbunch.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234407id_/http%3A//www.smsbunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsbunch.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508050244id_/http%3A//www.smsbunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Advertisement:  
+Advertisement  
 
 
 **Privacy Policy** for SMSBunch.com
@@ -34,25 +34,22 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Children’s Privacy**  
 Some Portions of the Web site may be used by children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our web site.
 
-Advertisement:  
+Advertisement  
 
 
 #### People also searches: 
 
-  * Powered by Article Dashboard medium hair cuts
-  * Powered by Article Dashboard medium length hair styles
-  * Powered by Article Dashboard clip art children
-  * Powered by Article Dashboard medium
-  * Powered by Article Dashboard medium hair styles
-  * Powered by Article Dashboard types of communication medium
-  * Powered by Article Dashboard the medium
-  * Powered by Article Dashboard medium hairstyles
-  * Powered by Article Dashboard info on
   * Powered by Article Dashboard medium haircuts
-  * Powered by Article Dashboard information on
-  * Powered by Article Dashboard science for kids
-  * Powered by Article Dashboard communication medium
-  * Powered by Article Dashboard teaching children mathematics
-  * Powered by Article Dashboard help with hair
+  * Powered by Article Dashboard medium hair cuts
+  * Powered by Article Dashboard fun toys
+  * Powered by Article Dashboard collection letter
+  * Powered by Article Dashboard children toys birthday parties
+  * Powered by Article Dashboard medium length hair styles
+  * powered by myBB medium haircuts
+  * Powered by Article Dashboard free games for boys
+  * Powered by Article Dashboard medium
+  * powered by myBB define
+  * Powered by Article Dashboard types of communication medium
+  * Powered by Article Dashboard clip art children
 
 
