@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freearticlestore.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227013727id_/http%3A//www.freearticlestore.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticlestore.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508033044id_/http%3A//freearticlestore.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy-Policy - FreeArticleStore.com
 
