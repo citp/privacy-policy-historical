@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220081504id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508060041id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
 
 # Shop Womens & Mens Clothes and Accessories Online from L.A.'s Ron Herman Boutique (www.RonHerman.com)
 
