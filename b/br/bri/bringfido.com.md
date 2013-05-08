@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringfido.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231605id_/http%3A//www.bringfido.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringfido.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508170700id_/http%3A//www.bringfido.com/privacy) for the most accurate reproduction.*
 
 # BringFido.com Privacy Policy
 
