@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readinghorizons.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920001116id_/http%3A//www.readinghorizons.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readinghorizons.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508075518id_/http%3A//readinghorizons.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Reading Horizons Privacy Policys - Reading Horizons
 
