@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resource.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014120457id_/https%3A//public.resource.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resource.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508174840id_/https%3A//public.resource.org/privacy_policy.html) for the most accurate reproduction.*
 
 # The Public.Resource.Org Privacy Policy
 
