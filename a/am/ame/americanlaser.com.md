@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanlaser.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015010315id_/http%3A//www.americanlaser.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlaser.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508193105id_/http%3A//www.americanlaser.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | American Laser Skincare
 
@@ -44,4 +44,4 @@ All information submitted to the American Laser Skincare Web site may be reviewe
 
 If American Laser Skincare changes this privacy statement, we will post those changes on the Web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Any such changes shall be effective as of the date they are posted on the Web site.
 
-[ ](http://www.americanlaser.com~/media/Files/PDF/Notice of Privacy Practices 2012.ashx) [Click Here to View Notice of Privacy Practices](https://web.archive.org/web/20121015010315id_/http%3A//www.americanlaser.com/~/media/Files/PDF/Notice%20of%20Privacy%20Practices%202012.ashx) 
+[ ](http://www.americanlaser.com~/media/Files/PDF/Notice of Privacy Practices 2012.ashx) [Click Here to View Notice of Privacy Practices](https://web.archive.org/web/20130508193105id_/http%3A//www.americanlaser.com/~/media/Files/PDF/Notice%20of%20Privacy%20Practices%202012.ashx) 
