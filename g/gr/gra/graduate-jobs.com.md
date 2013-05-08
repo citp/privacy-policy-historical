@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017050448id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508132943id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
 
-# graduate-jobs.com - Graduate Jobs UK and graduate recruitment
+# graduate-jobs.com Privacy Policy | Graduate Jobs UK and Graduate Schemes graduate-jobs.com
 
 ## Privacy Policy
 
@@ -72,7 +72,7 @@ We may also use your data, or permit selected third parties to use your data, to
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please click on the unsubscribe link in any of the automated emails we send to you.
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
 ### Disclosure Of Your Information
 
