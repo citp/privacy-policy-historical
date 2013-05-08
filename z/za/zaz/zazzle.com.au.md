@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121235645id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508232707id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
@@ -130,14 +130,14 @@ Parents of children under the age of 13 have the option to consent to the collec
 
 Zazzle Inc.  
 Attn: Privacy  
-1900 Seaport Blvd, 4th Floor  
+1800 Seaport Blvd  
 Redwood City, CA 94063  
 [coppa@zazzle.com.au](mailto:coppa@zazzle.com.au)  
 +1-408-983-2800 
 
 #### How can I change, delete, or update my information?
 
-Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com.au](mailto:privacy@zazzle.com.au) or Privacy c/o Zazzle Inc., 1900 Seaport Blvd., 4th Floor, Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com.au](mailto:privacy@zazzle.com.au) or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
 Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
