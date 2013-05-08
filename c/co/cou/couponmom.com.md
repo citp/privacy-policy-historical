@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponmom.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003637id_/http%3A//www.couponmom.com/index.php%3Fcid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmom.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508103337id_/http%3A//www.couponmom.com/index.php%3Fcid%3D22) for the most accurate reproduction.*
 
 # Coupons, Grocery Coupons, The Coupon Mom
 
