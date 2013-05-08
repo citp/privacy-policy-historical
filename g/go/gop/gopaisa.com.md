@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921104308id_/http%3A//www.gopaisa.com/%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508162858id_/http%3A//www.gopaisa.com/privacy-policy) for the most accurate reproduction.*
 
-# Cash Back Online Shopping Websites | Discount Coupons | Top Online Stores | Gopaisa.com
+# Privacy Policy | Gopaisa.com
 
 At GoPaisa, we understand the value of your privacy and make every possible effort to ensure that all your personal information remains secure at all times.
 
