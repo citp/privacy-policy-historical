@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231165953id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508040020id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
 
 # Your right to privacy
 
@@ -6,7 +6,7 @@
 
 ## What is privacy
 
-The legislation under which the department operates authorises the collection of personal information in order to provide you (and, where relevant, third parties) with services and to ensure that you are paid correctly and receive the services to which you are entitled. You have a right to have your personal information kept private. The department is bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law. These provisions limit how the department uses your information and when and to whom it can be released. 
+The legislation under which the department operates authorises the collection of personal information in order to provide you (and, where relevant, third parties) with services and to ensure that you are paid correctly and receive the services to which you are entitled. You have a right to have your personal information kept private. The department is bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law. These provisions limit how the department uses your information and when and to whom it can be released.
 
 ## Your right to privacy
 
@@ -20,6 +20,10 @@ The department is also covered by the _Privacy Act 1988_ (the Privacy Act). The 
   * if you believe your privacy has been infringed you can make a complaint to the department.
 
 
+
+## Privacy notice for Express Plus mobile apps
+
+This statement about the [Privacy notice for Express Plus mobile apps](https://web.archive.org/customer/information/privacy-notice-for-express-plus-mobile-apps)[1] outlines how the department will manage any records it handles containing personal information about you in connection with the Express Plus mobile applications.
 
 ## Tax File Numbers
 
@@ -75,12 +79,13 @@ The department may also disclose your information in the process of seeking info
 
 If you are concerned about how the department has collected or managed your personal information, please call Customer Relations on **1800 050 004** or the TTY phone on **1800 000 567**.
 
-For more information about general privacy, you can go to the [Office of the Australian Information Commissioner’s (OAIC)](http://www.oaic.gov.au/)[1] website. OAIC can be contacted via their web site or by telephoning **1300 363 992**.
+For more information about general privacy, you can go to the [Office of the Australian Information Commissioner’s (OAIC)](http://www.oaic.gov.au/)[2] website. OAIC can be contacted via their web site or by telephoning **1300 363 992**.
 
 If you are not satisfied with how the department has handled your privacy concerns you can also contact the OAIC directly. The OAIC is independent of the department and has the power to investigate complaints about possible interferences with your privacy. Please note that it is usually best to contact the department first. While it is possible for the first contact to be with the OAIC, they will generally ask the department to conduct its own inquiry first and pass any findings on to the OAIC.
 
 ## Link references
 
-  1. http:/ / www.oaic.gov.au/
+  1. https:/ / web.archive.org/ customer/ information/ privacy-notice-for-express-plus-mobile-apps
+  2. http:/ / www.oaic.gov.au/
 
 
