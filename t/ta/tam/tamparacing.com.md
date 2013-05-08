@@ -1,65 +1,38 @@
-> *The following text is extracted and transformed from the tamparacing.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613190820id_/http%3A//www.tamparacing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamparacing.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508112540id_/http%3A//www.internetbrands.com/ib/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-How To Contact Us
+## Privacy Policy Highlights
 
-**Our Commitment To Privacy**
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20130508174017id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20130508174017id_/http://www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+  * ### Personal Information
 
-**The Information We Collect:**
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
 
-This notice applies to all information collected or submitted on the [company name] website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+  * ### Your Choices
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.) 
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20130508174017id_/http://www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
+
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
+
+  * ### How to Contact Us
+
+    * Use our Privacy [Contact form](https://web.archive.org/web/20130508174017id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+  
+
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
+
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-Name   
-Address   
-Phone Number   
-(etc.) 
-
-
-**The Way We Use Information:**
-
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
-
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
-
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
-
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
-
-**Our Commitment To Data Security**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-**Our Commitment To Children's Privacy:**
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-**How You Can Access Or Correct Your Information**
-
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information. 
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies send us an email at admin@tamparacing.com. 
