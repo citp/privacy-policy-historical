@@ -1,54 +1,91 @@
-> *The following text is extracted and transformed from the lfpress.ca privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704161017id_/http%3A//www.lfpress.ca/cgi-bin/publish.cgi%3Fs%3Dcontactus%26h%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfpress.ca privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508233502id_/http%3A//www.lfpress.com/privacy) for the most accurate reproduction.*
 
-# London Free Press: : Articles
+# Privacy | The London Free Press
 
-| 
+* ## Welcome to The London Free Press (the "Site").
 
-**London Free Press Privacy Statement**
+We understand that privacy online is important to users of our Site, especially when conducting business. 
 
-The London Free Press respects the privacy of its subscribers, readers and those who enter our contests and promotions. As part of our commitment to you, we want to clarify why we may ask for your personal information (such as your name, address and phone number). 
+This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by The London Free Press (collectively, "Services") ("Authorized Customers"). 
 
-If you are a subscriber or advertiser, we collect personal information in order to set up an account, verify creditworthiness, to maintain a satisfactory relationship and to provide you with ongoing service. For example, we collect information that allows us to process your subscription, confirm your identity and address so we can accurately deliver your newspaper or print your advertisement and accurately bill and collect. We may collect credit card or bank account information if you prefer the convenience of pre-authorized payment or we require pre-payment. We or another company acting with our authority may contact you to conduct surveys or determine your preferences in order to better serve you and provide you with the newspaper content or other products or services that you may wish to receive. We may share your personal information with our affiliate businesses or with selected third parties who act on our behalf as our agents, suppliers or service providers. (We may also make our subscription list available to specific reputable businesses whose products or services may be of interest to you.)
+* ## "Personally Identifiable Information"
 
-If you enter a contest or participate in a promotion, we collect personal information to process your application and administer the contest. On occasion, we undertake contests or promotions with sponsors or we use third parties to assist us in administering a contest or promotion. In these cases we share your personal information with these sponsors or administrators in order that they can assist us in undertaking and administering the contest or promotion. In addition, if you enter a contest or participate in a promotion that involves or relates to specific products or activities we or our sponsors may send you material that relates to such products or activities. 
+Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
-From time to time we may revise this privacy policy. To view our current privacy policy please log on to [www.lfpress.com](http://www.lfpress.com/) and click the privacy policy link.
+* ## What Personally Identifiable Information is collected?
 
-We will honour any request you may make to have access to or review your personal information that we have obtained as referred to above.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
 
-If you have any questions or concerns about our privacy practices or you do not wish to allow us to use your personal information in any manner discussed above you may call 519-679-1111 or 1-800-265-4167 or contact us in writing at the following address:
+* ## What organizations are collecting the information?
 
-The London Free Press - Privacy Officer  
-369 York Street  
-London, Ontario N6A 4G1
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
 
-**Lfpress.com Online Privacy Statement**  
+* ## How does the Site use Personally Identifiable Information?
+
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+
+* ## With whom may the information may be shared?
+
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+
+* ## How is Personally Identifiable Information stored?
+
+Personally Identifiable Information collected by The London Free Press is securely stored and is not accessible to third parties or employees of The London Free Press except for use as indicated above. 
+
+* ## What choices are available to Visitors regarding collection, use and distribution of the information?
+
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
+
+* ## Are Cookies Used on the Site?
+
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. 
+
+* ## How does The London Free Press use login information?
+
+The London Free Press uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+
+* ## What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
+
+The London Free Press has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. 
+
+Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. 
+
+Our privacy policy does not cover their collection or use of this information. 
+
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+
+* ## How does the Site keep Personally Identifiable Information secure?
+
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+
+* ## How can Visitors correct any inaccuracies in Personally Identifiable Information?
+
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
+
+* ## Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
+
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+
+* ## What happens if the Privacy Policy Changes?
+
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+
+* ## Links:
+
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+
+* ## Contacting the privacy manager:
+
+  * The Privacy Manager
+  * Sun Media Corporation
+  * 333 King Street East
+  * Toronto, Ontario
+  * M5A 3X5
+  * E-Mail: [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
 
 
-| 
 
-|  |  LFPRESS.COM (LFP) is committed to upholding fundamental principles of honesty and integrity in our relationship with visitors to our website. Our objective is to build an enduring relationship between CANOE and our users based on a foundation of integrity and trust. 
+Any rights not expressly granted herein are reserved.  
+© 2012 The London Free Press, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of The London Free Press RSS feeds is strictly forbidden. 
 
-To that end, LFP has adopted rigorous standards of privacy and makes the following promise to every visitor to our Web site: 
-
-* When a visitor to LFP is required to submit registration information as a prerequisite for accessing any content area of LFP or to use any of its interactive services, contests or newsgroups, e-commerce applications, LFP will not share or sell that personal information about our users to any outside agency, advertiser or other third party unless the user was made aware of this possibility prior to submitting their personal information. 
-
-* Although LFP will use "cookies" to track user patterns on its web site, LFP will not use cookies to learn the identity of its users, nor attempt to track users after they leave the LFP site. Further, cookies will not be used by LFP to gather specific personal information about individual users. The usage patterns tracked by individual cookies will remain confidential, and LFP will not participate in any external site tracking programs. Nor will we share any cookie-generated information about individual users or user patterns with outside agencies or advertisers. A LFP advertiser may be given summaries of collective user patterns. For example, an advertiser might be told their ad was viewed by 6,000 users on a particular day and 100 clicked on the ad. But an advertiser will never be given information about individual users or their browsing habits. 
-
-* LFP will not send unsolicited e-mail to its users. Nor will the use of cookies by LFP result in an LFP user receiving unsolicited e-mail from LFP or its advertisers. LFP will not supply e-mail addresses to any third party without having obtained the consent of a user. 
-
-* When LFP asks its users to supply optional, personal information for contests, survey, e-commerce applications, or for any other purpose, that information will remain private and not be shared with any outside agency, advertiser or third party unless the user was made aware of this possibility prior to submitting their personal information. 
-
-* LFP will compile site-wide demographic information that it will share with advertisers, but it will not compile profiles of individual users, including the gathering of names, addresses, e-mail addresses and other personal information, to be shared with an advertiser unless the user has consented to the compilation of this material and submitted it freely in a registration form or survey. 
-
-* LFP tracks user IP addresses for the purposes of systems administration, demographic profiling and traffic logging, but LFP will not use IP addresses to try to identify individual users of LFP. 
-
-* LFP will abide by all court orders, valid search warrants and subpoenae. 
-
-2003-05-07
-
-**  [Questions about LFP's privacy statement should be sent to feedback@lfpress.com. ](mailto:feedback@lfpress.com)  
-**   
-
-
-| 
+COPYRIGHT NOTICE. © 1999-2012 [PriorityDigital.com](http://209.204.219.152/) Prepared for: The London Free Press, All rights reserved. 
