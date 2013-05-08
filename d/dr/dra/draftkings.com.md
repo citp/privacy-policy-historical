@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the draftkings.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023053356id_/https%3A//www.draftkings.com/Help/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftkings.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508113641id_/https%3A//www.draftkings.com/help/privacynotice) for the most accurate reproduction.*
 
-# Privacy Policy - Daily Fantasy Sports for Cash
+# DraftKings - Daily Fantasy Sports for Cash
 
 ## Our Commitment to Privacy
 
