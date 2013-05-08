@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111055244id_/http%3A//www.kvia.com/news/Privacy-Policy/-/391068/559096/-/9k8vaw/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508125927id_/http%3A//www.kvia.com/news/Privacy-Policy/-/391068/559096/-/9k8vaw/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | News - Home
 
@@ -17,3 +17,8 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+Advertisement
+
+[](http://www.kvia.com/demolition/-/19700846/-/139ctsyz/-/index.html)  
+
