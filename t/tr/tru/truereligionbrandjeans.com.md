@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024064544id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508154455id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
 
-# - True Religion Brand Jeans Official Website - Shop now for Denim, Jeans, Skirts, Joey, Bobby, Corduroy, Skirts. Fashion for the Senses.
+# - True Religion Brand Jeans - Men's & Women's Denim & Fashion Clothing
 
   
 **Effective Date 2009**
 
 Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with truereligionbrandjeans.com. ("truereligionbrandjeans.com"). Both Onestop and truereligionbrandjeans.com ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site .
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/os/feedback.aspx)** in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
+Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/feedback.aspx)** in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 
-If you have any questions regarding this Privacy Policy, you should contact our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/os/feedback.aspx)**.
+If you have any questions regarding this Privacy Policy, you should contact our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/feedback.aspx)**.
 
  **What Information About Me Is Collected and Stored?**
 
@@ -37,20 +37,20 @@ As with any business, it is possible that as our business develops, we might sel
 
  **What Steps Are Taken To Keep My Information Secure?**
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/os/feedback.aspx)**.  
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/feedback.aspx)**.  
   
  **How Can I Access, Correct and Update My Personal Information?**
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "[ **My Account**](https://secure.truereligionbrandjeans.com/store/os/myaccount.aspx)" area of this Web site.
+You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "[ **My Account**](https://secure.truereligionbrandjeans.com/store/myaccount.aspx)" area of this Web site.
 
  **Can I Indicate Whether or Not I Want To Receive Promotional Communications?**
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/os/feedback.aspx)**..
+You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our **[Customer Service Department](https://secure.truereligionbrandjeans.com/store/feedback.aspx)**..
 
 or write to us at:
 
 True Religion Brand Jeans, Online Customer Service  
-2346 E. Pacifica Place, Rancho Dominguez, CA 90220.
+3040 E Ana St., Rancho Dominguez, CA 90221.
 
 Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
 
