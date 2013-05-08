@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213103158id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163751id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Winamp
 
@@ -113,7 +113,7 @@ Winamp has established safeguards to help prevent unauthorized access to or misu
 
 #### How to Contact Us
 
-If you have any questions or concerns about the Winamp Privacy Policy or its implementation, you may contact us by clicking [here](mailto:support@winamp.com?subject=Privacy20Inquiry) to send an email. Please be sure to include "Privacy Policy" within the subject line.
+If you have any questions or concerns about the Winamp Privacy Policy or its implementation, you may contact us by clicking [here](mailto:support@winamp.com?subject=Privacy%20Policy%20Inquiry) to send an email. Please be sure to include "Privacy Policy Inquiry" within the subject line.
 
 #### Changes to this Privacy Policy
 
