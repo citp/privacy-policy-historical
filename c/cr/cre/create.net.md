@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the create.net privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923135258id_/http%3A//www.create.net/privacy.phtml%23l_footer-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the create.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508111904id_/http%3A//www.create.net/privacy.phtml%23l_footer-privacy) for the most accurate reproduction.*
 
 # Our privacy and cookies policy
 
@@ -95,4 +95,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Contact**
 
-Your questions, comments and requests regarding this privacy policy are welcomed and can be sent to us through our [Contact Form](https://web.archive.org/web/20120923135258id_/http%3A//www.create.net/contact.phtml).
+Your questions, comments and requests regarding this privacy policy are welcomed and can be sent to us through our [Contact Form](https://web.archive.org/web/20130508111904id_/http%3A//www.create.net/contact.phtml).
