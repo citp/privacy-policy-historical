@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919024921id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509014801id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
 
 # DLA Piper, Global Law Firm | Online Privacy Policy
 
