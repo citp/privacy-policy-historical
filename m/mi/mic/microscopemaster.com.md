@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microscopemaster.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228212701id_/http%3A//www.microscopemaster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microscopemaster.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508133638id_/http%3A//www.microscopemaster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,8 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 ### Use of Cookies and Web Beacons
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables (website/company name) to recall your specific information on subsequent visits. 
+
+Amazon.com and other advertisers may serve content and advertisements, collect information directly from visitors, and place or recognize cookies on visitors’ browsers. 
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
 
@@ -44,7 +46,7 @@ If MicroscopeMaster.com is sold, the information we have obtained from you throu
 
 ### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of ourcommitment to protect your personal information. If you havesubmitted personal information through our website and wouldlike that information deleted from our records or would liketo update or correct that information, please use our [Contact Us](http://www.microscopemaster.com/contact-us.html) page. 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](http://www.microscopemaster.com/contact-us.html) page. 
 
 ### Updates and Effective Date
 
