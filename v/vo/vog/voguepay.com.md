@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguepay.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006145439id_/https%3A//voguepay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguepay.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508191031id_/https%3A//voguepay.com/privacy-policy) for the most accurate reproduction.*
 
 # VoguePay - Voguepay - Privacy policy
 
@@ -82,15 +82,3 @@ VoguePay.com may amend this Policy from time-to-time. We suggest you visit this 
 ### VoguePay.com's Contact Information
 
 If you have questions or comments or would like to contact us concerning our Privacy Statement, please contact us online at [our help center](https://voguepay.com/menu-help) . 
-
-  
-
-
-* * *
-
-## Register now and see how simple we've made online payments!
-
-* * *
-
-  
-
