@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055304id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508134147id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
 
 # GEMPLER'S - Privacy and Security | Gempler's
 
@@ -30,13 +30,13 @@ We use the information that is collected from Site visitors and customers, or ot
 Among our various subsidiaries, divisions, affiliates, parent organizations, and brands; | No  
 With third parties, such as suppliers, financial institutions, and others who perform services on our behalf; | No  
 With any successor to Specialty Brands’ interest, or otherwise in connection with a merger, sale, or transfer of all or part of our business operations; | No  
-With third parties whose products or services might be of interest to you or for joint promotional purposes; | No  
+With third parties whose products or services might be of interest to you or for joint promotional purposes; | Yes  
 In response to subpoenas, investigative requests (with or without subpoena) and other legal process, to exercise Our legal rights and defend against legal claims; and, | No  
 For other reasons as may be described to you, for example in some situations We will share information with a marketing partner who is working with us to provide you with a program or service. | In some circumstances  
   
 **Your Choices**  
 Recipients of our marketing messages can unsubscribe from receiving promotional e-mail by using the unsubscribe instructions located at the bottom of the message, or by sending a request with “unsubscribe” in the subject line to [customerservice@gemplers.com](mailto:customerservice@gemplers.com).    
-Site visitors can also request that their personal information not be shared with third parties solely for e-mail marketing purposes by sending their request with “do not share” in the subject line to [customerservice@gemplers.com](mailto:customerservice@gemplers.com). Because mailing lists are prepared in advance of each promotion, you may be sent a couple of promotions before the change is effective.   
+Site visitors can also request that their personal information not be shared with third parties solely for marketing purposes by sending their request with “do not share” in the subject line to [customerservice@gemplers.com](mailto:customerservice@gemplers.com). Because mailing lists are prepared in advance of each promotion, you may be sent a couple of promotions before the change is effective.   
 We may also work with online advertising companies to provide you with advertising that are tailored to your interests. These ads may be served on our websites and other third party sites that you visit. These ads may be based on information gathered as you browse our website. They may also be based on information from your transactions with us. The companies we work with participate in the Self-Regulatory Program for Online Behavioral Advertising. This program provides users with the ability to opt-out of receiving online behavioral advertising by visiting [http://www.aboutads.info/choices](http://www.aboutads.info/choices/). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.  
 You can turn off cookies in your browser settings, but by blocking these cookies you may not be able to access certain functionality on our websites.
 
