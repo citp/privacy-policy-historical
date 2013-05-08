@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bface.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906081723id_/http%3A//www.b2bface.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bface.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508122546id_/http%3A//www.b2bface.com/privacy.php) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -30,5 +30,5 @@ We may change the information of it from time to time.If there is anything wrong
 Please contact us as soon as possible.
 
 d. Feedback  
-Welcome to leave your word.Or you can contact with us through [CONTACT US](https://web.archive.org/web/20120906081723id_/http%3A//www.b2bface.com/contactus.php).  
+Welcome to leave your word.Or you can contact with us through [CONTACT US](https://web.archive.org/web/20130508122546id_/http%3A//www.b2bface.com/contactus.php).  
 
