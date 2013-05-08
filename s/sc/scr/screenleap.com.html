@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the screenleap.com privacy policy that was archived on 2012-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116112410id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the screenleap.com privacy policy that was archived on 2013-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508082538id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html><html><head>
 <title>Privacy Policy | Screenleap</title>
 <meta name="robots" content="index, follow">
 <meta name="description" content="Screenleap's Privacy Policy explains how we gather, use, and manage the data for users of the Screenleap service.">
 <meta property="og:site_name" content="Screenleap">
 <meta property="og:image" content="http://www.screenleap.com/img/facebook_thumbnail.png">
-<link rel="stylesheet" href="https://d2e4kn0wu3avrd.cloudfront.net/css/1353015736000/style.css" type="text/css" media="screen"><link rel="shortcut icon" type="image/png" href="/favicon.ico">
+<link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367664366000/style.css" type="text/css" media="screen"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1363252036000/print.css" type="text/css" media="print"><!--[if lt IE 10]>
+    <link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/desktop.css" type="text/css" media="screen"><![endif]-->
+<link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/desktop.css" type="text/css" media="only screen and (min-device-width: 769px)"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/mobile.css" type="text/css" media="only screen and (max-device-width: 356px)"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/tablet.css" type="text/css" media="only screen and (min-device-width: 357px) and (max-device-width: 768px)"><link rel="shortcut icon" type="image/png" href="/favicon.ico">
 </head>
 <body id="" class="marketing linux ">
-<a name="top"></a>
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
         try {
         window.onerror = function(){return true};
@@ -22,34 +24,35 @@
             window.onload = func;
         else {
             var oldOnload = window.onload;
-            window.onload = function(){oldOnload();func();}
+            window.onload = function(){try{oldOnload()}catch(e){logException(e)}func();}
         }
     }
 </script>
-<div id="header">
-    <div id="headerBannerTop"></div>
+<div id="topBar">
+    <div id="topBarBannerTop"></div>
     <div class="w960px">
         <div class="margin">
             <div class="float-right">
                 <ul>
-                    <li><form action="/web.application/redirectviewertoappserver" method="post" accept-charset="utf-8" enctype="application/x-www-form-urlencoded" id="viewForm" onsubmit="return viewScreen()"><input type="hidden" name="authenticityToken" value="4ad28e6fd71ef702530a50229b1d6b097ff7641e">
-<input name="screenShareCode" type="text" id="screenShareCode" value="" placeholder="Have a share code?" autocomplete="off" onkeyup="return formatPin(event, this)" onfocus="return hideScreenCodePlaceholder(this)" onblur="return showScreenCodePlaceholder(this)">
+                    <li class="hide-on-handheld"><form action="/web.application/redirectviewertoappserver" method="post" accept-charset="utf-8" enctype="application/x-www-form-urlencoded" id="viewForm" onsubmit="return viewScreen()"><input type="hidden" name="authenticityToken" value="a79e58a7ef0e443af731b5f495a9cb1a5e7bb5c0">
+<input name="screenShareCode" type="text" id="screenShareCode" value="" placeholder="Have a share code?" autocomplete="off" onkeyup="return shareCodeFieldKeyUp(event, this)" onfocus="return hideScreenCodePlaceholder(this)" onblur="return showScreenCodePlaceholder(this)">
 </form></li>
-                    <li id="joinLinkDiv"><a href="#" onclick="$('#viewForm').submit();return false">Join screen share</a></li>
+                    <li class="hide-on-handheld nav-separator"><a href="#" onclick="$('#viewForm').submit();return false">Join screen share</a></li>
+                                                            <li class="nav-separator"><a href="/signup">Sign up</a></li>
                     <li><a href="/login">Sign in</a></li>
-                </ul>
+                                    </ul>
             </div>
             <div id="logo">
-                <a href="/">Screenleap</a>
+                <a href="/" class="screenleap-logo">Screenleap</a>
             </div>
         </div>
     </div>
-    <div id="headerBannerBottom"></div>
+    <div id="topBarBannerBottom" class="hide-on-handheld"></div>
 </div>
 <div class="relative">
-    <div id="headerBanner">
+    <div id="topBarBanner">
         <div class="w960px">
-            <div class="margin"><div id="shareButtonDiv"><button id="shareButton" onclick="checkAndStartSharing('')"></button></div><div class="page-title">Privacy Policy</div></div>
+            <div class="margin"><div id="shareButtonDiv" class="hide-on-handheld"><button id="shareButton" onclick="checkAndStartSharing('')"></button></div><div class="page-title">Privacy Policy</div></div>
         </div>
     </div>
 </div>
@@ -57,11 +60,10 @@
     <div class="w960px">
         <div class="content">
             <div class="legal">
-
     <br>
     <p class="float-right gray italic">Last updated September 28, 2012</p>
     <p class="gray italic">Effective November 1, 2011</p>
-    <p>We at ScreenLeap, Inc. know that you care about how your personal information  is used and shared, and we take
+    <p>We at Screenleap that you care about how your personal information  is used and shared, and we take
         your privacy seriously.  Please read the following to learn more about our Privacy Policy.  <strong>By visiting
         or using our various websites (collectively, the "Website"), API ("API"), or services (collectively, the "Services"),
         acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby
@@ -73,7 +75,7 @@
         that we do not own or control, or to individuals that we do not employ or manage.  This policy also does not
         apply to information you choose to disclose publicly on the Website (i.e., information which is viewable to other
         Website users), which will not be considered Personal Information.</p>
-    <h2>II. What Personal Information Does Screenleap, Inc. Collect?</h2>
+    <h2>II. What Personal Information Does Screenleap Collect?</h2>
 
     <p>The information we gather from customers enables us to personalize and improve our services and to allow our
         users to set up a user account and profile that can be used to interact with other users through the Website.
@@ -89,8 +91,8 @@
         your browser including your IP address, "cookie" information, and the page you requested.</p>
     <p>"Cookies" are identifiers we transfer to your computer through your browser that allow us to recognize your
         browser and tell us how and when pages in our site are visited and by how many people.  You may be able to
-        change the preferences on your browser to prevent or limit your computer’s acceptance of cookies, but this may
-        prevent you from taking advantage of our Website’s best features.  Our advertising partners may also transmit
+        change the preferences on your browser to prevent or limit your computer's acceptance of cookies, but this may
+        prevent you from taking advantage of our Website's best features.  Our advertising partners may also transmit
         cookies to your computer, when you click on ads that appear on our site.  This Privacy Policy does not cover
         the use of cookies by any advertisers.</p>
     <p>When we collect usage information (such as the numbers and frequency of visitors to our site), we only use this
@@ -105,7 +107,7 @@
         interesting and improve our service.  If you do not want to receive email or other mail from us, please indicate
         your preference by opting out of our email notification services.</p>
 
-    <h2>III. Will Screenleap, Inc. Share Any of the Personal Information it Receives?</h2>
+    <h2>III. Will Screenleap Share Any of the Personal Information it Receives?</h2>
     <p>We neither rent nor sell your Personal Information to anyone.  We share your Personal Information in personally
         identifiable form only as described below.</p>
     <p><strong>A. Advertisers:</strong> We allow advertisers to choose the demographic information of users who will see
@@ -114,7 +116,7 @@
         advertisements. For example, we might use the fact you are located in San Francisco to show you ads for San
         Francisco businesses, but we will not willingly or knowingly tell such businesses who you are or provide them
         with any of your personally identifying information.</p>
-    <p><strong>B. Affiliated Businesses We Do Not Control:</strong> In certain situations, businesses  we’re affiliated
+    <p><strong>B. Affiliated Businesses We Do Not Control:</strong> In certain situations, businesses  we're affiliated
         with may sell items or provide services to you through the Website (either alone or jointly with us).  You can
         recognize when an affiliated business is associated with such a transaction, and we will share your Personal
         Information with that affiliated business only to the extent that it is related to such transaction.</p>
@@ -131,14 +133,14 @@
     <p><strong>F. Promotional Offers:</strong> We may send offers to certain users on behalf of other businesses. However,
         when we do so, we do not give the other business your name and address. If you do not wish to receive these offers,
         please opt out of our email communication services.</p>
-    <p><strong>G. Business Transfers:</strong> We may choose to buy or sell assets.  In these types of transactions,
-        customer information is typically one of the business assets that is transferred.  Also, if we (or substantially
-        all of our assets) are acquired, or if we go out of business or enter bankruptcy, Personal Information would be
-        one of the assets transferred to or acquired by a third party. </p>
+    <p><strong>G. Business Transfers:</strong> We may choose to buy or sell screenshots.  In these types of transactions,
+        customer information is typically one of the business screenshots that is transferred.  Also, if we (or substantially
+        all of our screenshots) are acquired, or if we go out of business or enter bankruptcy, Personal Information would be
+        one of the screenshots transferred to or acquired by a third party. </p>
 
-    <p><strong>H. Protection of Screenleap, Inc. and Others:</strong> We may release Personal Information when we believe
+    <p><strong>H. Protection of Screenleap and Others:</strong> We may release Personal Information when we believe
         in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other
-        agreements; or protect the rights, property, or safety of Screenleap, Inc, our employees, our users, or others.
+        agreements; or protect the rights, property, or safety of Screenleap, our employees, our users, or others.
         This includes exchanging information with other companies and organizations for fraud protection and credit risk
         reduction.</p>
     <p><strong>I. With Your Consent:</strong> Except as set forth above, you will be notified when your Personal
@@ -149,7 +151,7 @@
         cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors,
         may compromise the security of user information at any time. </p>
     <p>The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on
-        other sites. When linking to another site you should read that site’s privacy policy.</p>
+        other sites. When linking to another site you should read that site's privacy policy.</p>
 
     <h2>V. What personal information can I access?</h2>
     <p>You can always view or update the information we have on file about you, by contacting us using our <a href="/support">Support</a> page.</p>
@@ -185,43 +187,62 @@
 </div>
 <div id="footer">
     <div class="w960px">
-        <div class="margin">
-            <div class="inline-block float-right" id="social"><div class="inline-block relative"><div id="fb-root"></div><fb:like href="http://www.screenleap.com/" layout="button_count" width="100" show_faces="false" font="arial"></fb:like></div><div class="inline-block relative" style="top:3px"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.screenleap.com/" data-text="Free instant screen sharing: ">Tweet</a></div></div>
-            <ul class="clearfix">
-                <li><a href="/how-to-share-your-screen">Getting Started</a></li>
-                <li><a href="/faq">FAQ</a></li>
-                <li><a href="/support">Support</a></li>
-                <li>|</li>
-                <li><a href="/about">About</a></li>
-                <li><a href="http://blog.screenleap.com/">Blog</a></li>
-                <li><a href="/press">Press</a></li>
-                <li>|</li>
-                <li><a href="/terms">Terms</a></li>
-                <li><a href="/privacy">Privacy</a></li>
-            </ul>
-            <div id="copyright">Copyright © 2012 Screenleap, Inc. All rights reserved.</div>
-                    </div>
+        <div class="margin"><ul class="clearfix">
+    <li><a href="/how-to-share-your-screen">Products</a></li>
+    <li>|</li>
+    <li><a href="/support">Support</a></li>
+    <li>|</li>
+    <li><a href="/api">API</a></li>
+    <li>|</li>
+    <li><a href="/about">Company</a></li>
+    <li>|</li>
+    <li><a href="http://blog.screenleap.com/" class="primary">Blog</a></li>
+    <li>|</li>
+    <li><a href="/terms">Terms</a></li>
+    <li><a href="/privacy">Privacy</a></li>
+</ul>
+<div class="inline-block float-right" id="social"><div class="inline-block relative"><div id="fb-root"></div><fb:like href="http://www.screenleap.com/" layout="button_count" width="100" show_faces="false" font="arial"></fb:like></div> <div class="inline-block relative" style="top:3px"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.screenleap.com/" data-text="Free instant screen sharing: ">Tweet</a></div></div>
+<div id="copyright">Copyright © 2012 Screenleap, Inc. All rights reserved.</div>
+</div>
     </div>
 </div>
+<div id="screenleapExtensionProperties" style="display:none"><!-- used for communication with screenleap extension --></div>
 <span id="currentPath">/privacy</span>
 <div id="mBar" class="m-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideUserMessage('mBar');return false" class="button">OK</a></div><div id="mBarMsg"></div></div></div></div>
 <div id="wBar" class="w-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideWarningMessage('wBar');return false" class="button">OK</a></div><div id="wBarMsg"></div></div></div></div>
 <div id="eBar" class="e-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideErrorMessage('eBar');return false" class="button">OK</a></div><div id="eBarMsg"></div></div></div></div>
-<script src="https://d2e4kn0wu3avrd.cloudfront.net/js/1350941804000/jquery.min.js" type="text/javascript"></script><script src="https://d2e4kn0wu3avrd.cloudfront.net/js/1350941804000/jquery-ui.min.js" type="text/javascript"></script><script src="https://d2e4kn0wu3avrd.cloudfront.net/js/1350941804000/backbone-min.js" type="text/javascript"></script><script src="https://d2e4kn0wu3avrd.cloudfront.net/js/1352923824000/tools.min.js" type="text/javascript"></script><script src="https://d2e4kn0wu3avrd.cloudfront.net/js/1352773948000/dev.min.js" type="text/javascript"></script><script src="https://d2e4kn0wu3avrd.cloudfront.net/js/1352773948000/main.min.js" type="text/javascript"></script><script type="text/javascript">
+<div id="progressBar"><span id="progressBarText"></span>...<img src="/img/indicator.gif" class="indicator" alt=""></div>
+<script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1350941804000/jquery.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1350941804000/jquery-ui.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1354184199000/underscore.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1354086280000/backbone.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1367213718000/tools.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1367664366000/screenleap-api.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1364622087000/dev.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1366437710000/main.min.js" type="text/javascript"></script><script type="text/javascript">
         addOnload(function(){
         window.onerror = reportJavaScriptError;
-        debug = false;
+        isDebugEnabled = false;
     });
         var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-7169850-14']);
     _gaq.push(['_setDomainName', 'screenleap.com']);
     _gaq.push(['_addIgnoredRef', 'screenleap.com']);
     _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+    try {
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    }
+    catch (e){}
+    addOnload(function(){
+        (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
+        b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+        '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
+        d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
+        var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+        Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+        f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+        'track_forms','register','register_once','unregister','identify','alias','name_tag','set_config',
+        'people.set','people.set_once','people.increment','people.track_charge','people.append'];
+        for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
+        mixpanel.init("5ea941313b8258887dc0c648cca2d328");
+            });
             </script>
 <script type="text/javascript">
     addOnload(function(){
