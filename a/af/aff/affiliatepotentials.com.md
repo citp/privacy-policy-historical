@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatepotentials.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127031554id_/http%3A//www.wolomarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatepotentials.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508050014id_/http%3A//www.wolomarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Wolo Marketing Privacy Policy
 
