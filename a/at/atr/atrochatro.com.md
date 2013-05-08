@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atrochatro.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006072101id_/http%3A//www.atrochatro.com/faq_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atrochatro.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509011039id_/http%3A//www.atrochatro.com/faq_privacy.html) for the most accurate reproduction.*
 
 # Frequently Asked Questions > Privacy Policy
 
@@ -44,7 +44,7 @@
 > In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 > 
 > **Related Questions!**  
-> [I need help, where can i contact you?](https://web.archive.org/web/20121006072101id_/http%3A//www.atrochatro.com/faq_contact.html)  
-> [About Us](https://web.archive.org/web/20121006072101id_/http%3A//www.atrochatro.com/faq_about.html)  
-> [Terms & Conditions](https://web.archive.org/web/20121006072101id_/http%3A//www.atrochatro.com/faq_terms.html)  
-> [What is Opt-In messaging?](https://web.archive.org/web/20121006072101id_/http%3A//www.atrochatro.com/faq_opt_in.html)
+> [I need help, where can i contact you?](https://web.archive.org/web/20130509011039id_/http%3A//www.atrochatro.com/faq_contact.html)  
+> [About Us](https://web.archive.org/web/20130509011039id_/http%3A//www.atrochatro.com/faq_about.html)  
+> [Terms & Conditions](https://web.archive.org/web/20130509011039id_/http%3A//www.atrochatro.com/faq_terms.html)  
+> [What is Opt-In messaging?](https://web.archive.org/web/20130509011039id_/http%3A//www.atrochatro.com/faq_opt_in.html)
