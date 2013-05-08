@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204133645id_/http%3A//www.juicycouture.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508181402id_/http%3A//www.juicycouture.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Juicy | Privacy Policy
 
 ##### **Privacy Policy**
 
-Last updated January, 2012
+Last updated January, 2013
 
 Juicy Couture, Inc. and/or Fifth & Pacific Companies, Inc. and each of their respective subsidiary, parent and affiliated companies (collectively referred to herein as "Juicy") is deemed to operate this Website (the " **Website** ").Juicy (" **we** " or " **us** ") recognizes that you care how information about you is used and shared. We have created this Privacy Policy to inform you what information we collect on the Website, how we use your information and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully.Your use of the Website indicates that you have read and accepted our privacy practices, as outlined in this Privacy Policy.In addition, please read our [Terms of Use](http://www.juicycouture.com/privacy?section=termsofuse "Terms of Use") which also govern your use of this Website.Please be advised that the practices described in this Privacy Policy apply to information gathered by us or our subsidiaries, affiliates or agents: (i) through this Website, (ii) where applicable, through our Customer Service Department in connection with this Website, (iii) through information provided to us in our free standing retail stores, and (iv) through information provided to us in conjunction with marketing promotions and sweepstakes. 
 
@@ -151,7 +151,7 @@ COLLECTION IN AND TRANSFER TO THE UNITED STATES
 
 This Website is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be collected in or transferred to the United States. By using our Website, participating in any of our services and/or providing us with your information, you consent to this transfer.Please see our EU Safe Harbor Privacy Policy for how we treat information that is collected in the European Union and then transferred to the United States.
 
-© 2012 Fifth & Pacific Companies, Inc. All rights reserved. 
+© 2013 Fifth & Pacific Companies, Inc. All rights reserved. 
 
   
 
