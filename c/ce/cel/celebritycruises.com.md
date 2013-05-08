@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004002744id_/http%3A//www.celebritycruises.com/footer/legalInformation.do%3Fpagename%3Dfooter_pages_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508130448id_/http%3A//www.celebritycruises.com/footer/legalInformation.do%3Fpagename%3Dfooter_pages_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Pages | Celebrity Cruises
 
-  *  | [Email Sign-Up](http://www.celebritycruises.com/specials/promotions.do?pagename=limited_time_offers_gateway&tab=signupemail&cS=GlobalHeader)
-  * [ Online Check-in ](http://www.celebritycruises.com/beforeyourcruise/onlineDocumentation/home.do?&cS=Footer&ICID=Cel_10Q4_web_hp_hdr_checkin)
-  * [ Already Booked? ](http://www.celebritycruises.com/planAndBook/beforeYouGo/tabLanding.do?pagename=before_you_go_gateway) | 
-  * [Login](https://secure.celebritycruises.com/mycelebrity/login.do?cS=GlobalHeader) | 
+  * [Login](https://secure.celebritycruises.com/mycelebrity/login.do?cS=GlobalHeader)
+  * [ My Celebrity ](http://www.celebritycruises.com/mycelebrity/home.do)
+  * [ FAQ ](http://www.celebritycruises.com/footer/faq.do?pagename=footer_pages_faq)
+  * [Sign Up for Special Offers](http://www.celebritycruises.com/specials/promotions.do?pagename=limited_time_offers_gateway&tab=signupemail&cS=GlobalHeader)
+  * [ Specials ](http://www.celebritycruises.com/specials/promotions.do?pagename=limited_time_offers_gateway)
 
 
 
