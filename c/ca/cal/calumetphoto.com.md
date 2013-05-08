@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calumetphoto.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101083223id_/http%3A//www.calumetphoto.com/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calumetphoto.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508075033id_/http%3A//www.calumetphoto.com/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
 
 # Digital cameras, lenses and photo gear at calumetphoto.com
 
