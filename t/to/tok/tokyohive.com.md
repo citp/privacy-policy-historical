@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120223223id_/http%3A//www.tokyohive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508162952id_/http%3A//www.tokyohive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
