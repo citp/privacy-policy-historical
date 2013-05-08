@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rlmseo.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104130406id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rlmseo.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508170312id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RLM
+# Privacy Policy | Cincinnati SEO, Web Design, Pay Per Click by Razorlight Media
 
 Your privacy is important to us. That’s why we will never share your contact information with any third parties unless you want us to. We also hate spam just as much as you do and will never use your email address for anything other than what you tell us is ok.
 
