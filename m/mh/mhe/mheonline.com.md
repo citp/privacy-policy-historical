@@ -1,41 +1,48 @@
-> *The following text is extracted and transformed from the mheonline.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101080145id_/https%3A//www.mheonline.com/pages/display/privacynotice_view) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheonline.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508150948id_/https%3A//www.mheonline.com/pages/display/privacynotice_view) for the most accurate reproduction.*
 
 # MHEonline.com
 
-At McGraw-Hill Education, we are committed to protecting your privacy. Please [click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) to see the McGraw-Hill Companies Customer Privacy Policy. Please read on to learn how the McGraw-Hill Education portal site implements that policy.
+WHAT PERSONALLY IDENTIFIABLE INFORMATION ("PII") DOES McGRAW-HILL SCHOOL EDUCATION (U.S.) COLLECT ABOUT YOU?
 
-**McGraw-Hill School Education Group Privacy Notice**
+We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
 
-What information do we collect? How do we use it?
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [seg_privacy@mcgraw-hill.com](mailto:seg_privacy@mcgraw-hill.com "seg_privacy@mcgraw-hill.com") or Privacy Official, McGraw-Hill School Education, 8787 Orion Place, Columbus, Ohio 43240. 
 
-When you submit an online form to request a catalog, to respond to a survey, or to communicate with us for any other reason through a McGraw-Hill School Education Group website, the information we collect from you (e.g., your name, address, email address) is added to our electronic mailing list so that we may notify you, our customer, of updates to our Web sites or of products and services that may be of interest to you. If you place an order with us, you will receive transactional email updates regarding your order, even if you did not enroll in an email update service, or have unsubscribed from an email update service. We only use the credit card or payment information we acquire from you to fulfill your order. This information will be maintained in a secure database in the U.S. and accessed only by authorized persons.
+**Please note that by using this web site (the "Site"), you consent to the use of the cookies described below.**
 
-Occasionally, and subject to applicable laws, McGraw-Hill School Education Group also makes contact information available to other business units within The McGraw-Hill Companies whose products or services we feel may be of interest to you. From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. McGraw-Hill School Education Group does not share information we collect from you with companies outside the family of The McGraw-Hill Companies.
+McGraw-Hill School Education (U.S.) or our third-party service providers may use cookies (or other tracking technologies that identify your computer or device (like its IP address) and track your use of the Site) when you visit our Site. We do not collect personally identifying information in this way, but if you've provided us with personally identifying information we may associate that information with the information that is collected automatically. 
 
-What about Cookies?
+A "cookie" is a small text file placed on your computer or device, which helps our Site function better. We may use the following types of cookies on this Site:
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive or in its memory. Some areas of the McGraw-Hill Education Web site may use cookies and our subscription products use "session" cookies; in those areas, an explanation of the use of cookies can be reached by clicking on the Privacy Notice links on the affected Web pages. A "session" cookie is a cookie that is erased when a visitor's browser closes.
+"Strictly necessary" cookies, which have to be set to allow us to deliver the Site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include: 
 
-Customers may choose not to accept cookies. In order to change cookie preferences, you must change your browser's preferences to disable or delete cookies.
+  * account log-in
+  * shopping basket/online store
+  * billing
+  * comments/blog features
 
-Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies; In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked.
 
-What about IP addresses
 
-An IP address is a number that's automatically assigned to your computer. Web servers automatically identify your computer by its IP address. We collect IP addresses for the purposes of system administration and to audit the use of our site. When visitors request pages from MHE, our services log the visitors' IP addresses. IP addresses are not linked to personally identifiable information, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms of service or to protect our service, site, customers, or others.
+"Performance" or "Analytics" cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements. Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally.
 
-Parents and Kids under 13
+"Functionality" cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the Site. They are not used to track your browsing activity on other Web sites.
 
-We encourage you to spend time online with your kids. No information should be submitted to or posted to MHE by children under 13 years of age. Children 13 and over can participate in providing us with feedback.
+You can change your Web browser's Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
 
-Answering your questions and concerns
+[Internet Explorer](http://support.microsoft.com/kb/196955)  
+[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)  
+[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
+[Safari](http://support.apple.com/kb/PH5042)  
+[Opera](http://www.opera.com/browser/tutorials/security/privacy/)
 
-If you have questions about the information we've collected from you on this Web site, have questions or concerns about our Privacy Notice, or wish to change your privacy preferences, please contact the McGraw-Hill School Education Group Privacy Official at:
+If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer's instructions on how to manage cookies.
 
-Privacy Official  
-McGraw-Hill School Education Group  
-8787 Orion Place  
-Columbus, Ohio 43240  
-[seg_privacy@mcgraw-hill.com](mailto:seg_privacy@mcgraw-hill.com)
+Write to us at: [seg_privacy@mcgraw-hill.com](mailto:seg_privacy@mcgraw-hill.com "seg_privacy@mcgraw-hill.com") or Privacy Official, McGraw-Hill School Education, 8787 Orion Place, Columbus, Ohio 43240and let us know if you no longer wish to be contacted for marketing purposes by e-mail, mail, telephone or fax - or by any method.
 
-Last updated - March 2010
+We do not knowingly collect personally identifiable information from children under the age of 13. If you are under 13, please do not give us any personally identifiable information.
+
+[Click here](https://www.mheonline.com/pages/view/educational_institutions "Scoreboard") for information about how we use information about students provided by educational institutions. 
+
+[Click here](http://www.mheducation.com/customer-privacy-policy "www.mcgraw-hill.com") for more information about McGraw-Hill Education's Customer Privacy Policy. 
+
+Last updated: April 2013. Future revisions to this Privacy and Cookie Notice will be posted at this location.
