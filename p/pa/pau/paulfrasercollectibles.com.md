@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulfrasercollectibles.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181225id_/http%3A//www.paulfrasercollectibles.com/Privacy-%2526-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulfrasercollectibles.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508165642id_/http%3A//www.paulfrasercollectibles.com/Privacy-%2526-Cookie-Policy) for the most accurate reproduction.*
 
-# Paul Fraser Collectibles | Privacy & Cookie Policy
+# Privacy & Cookie Policy
 
 **_"Tika Lifestyles Limited"_   **
 
