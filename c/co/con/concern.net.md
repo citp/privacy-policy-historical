@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104185725id_/http%3A//www.concern.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508135042id_/https%3A//www.concern.net/privacy) for the most accurate reproduction.*
 
-# Privacy - Concern Worldwide
+# Privacy - Concern Privacy Statement - Concern Worldwide
 
-#### 
-
-Concern Worldwide (registered number 39647, registered charity number CHY5745, place of registration: Dublin, Ireland) is committed to protecting the privacy of our supporters. The following Concern Worldwide Privacy Statement will explain to you how we collect, store and use personal information submitted to us.
-
-We value and respect all individuals and organisations seeking to donate time, money or resources to our work with the poorest of the poor in the developing world. We endeavour to protect our users' information, through compliance with the Data Protection Acts 1988 and 2003 (as amended). When our supporters submit personal and sensitive information, this information is protected by a secure system both online and offline. 
+We value and respect all individuals and organisations seeking to donate time, money or resources to our work with the poorest of the poor in the developing world. We endeavour to protect our users' information, through compliance with the Data Protection Acts 1988 and 2003 (as amended). When our supporters submit personal and sensitive information, this information is protected by a secure system both online and offline.
 
 When you contact Concern Worldwide regarding an event, activity, campaign, send or receive information or make a donation, you can provide us with your personal information. This data is stored on our secure computerised database to enable us to respond to your requests, keep you updated and informed about our work and how your donation(s) is being used. In the future, we may communicate with you by mail, email or telephone.
 
