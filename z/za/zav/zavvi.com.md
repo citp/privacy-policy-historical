@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227082905id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508180141id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy | Zavvi.com
 
@@ -30,4 +30,4 @@ We take the risk of internet fraud very seriously. With the volume of fraudulent
 
 ## Contact Us
 
-If you have any queries on any aspect of the above policy, please [contact us](https://www.zavvi.com/zavvi/customerQuery.secure?skeletonAccount=true).
+If you have any queries on any aspect of the above policy, please [contact us](https://www.zavvi.com/zavvi/customerQuery.secure?action=postQuery&skeletonAccount=true).
