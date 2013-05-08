@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingdressonlineshop.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015111456id_/http%3A//www.weddingdressonlineshop.co.uk/content/19-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingdressonlineshop.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010756id_/http%3A//www.weddingdressonlineshop.co.uk/content/19-privacy-policy) for the most accurate reproduction.*
 
 # Wedding dress online shop - Privacy Policy
 
@@ -46,5 +46,3 @@ You can correct or update your personal information through the online Customer 
 **Updates to This Policy**
 
 To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. If you have any questions about the Privacy Policy, please email us at [service@weddingdressonlineshop.co.uk](mailto:service@weddingdressonlineshop.co.uk).
-
-[](http://www.weddingdressonlineshop.co.uk/ "Home")[Home](http://www.weddingdressonlineshop.co.uk/ "Home")
