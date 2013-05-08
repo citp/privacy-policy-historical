@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokersource.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106211914id_/http%3A//www.pokersource.com/pso/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokersource.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508042137id_/http%3A//www.pokersource.com/pso/privacy.asp) for the most accurate reproduction.*
 
 # PokerSource Privacy Policy
 
