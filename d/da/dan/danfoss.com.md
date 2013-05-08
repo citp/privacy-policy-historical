@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028000949id_/http%3A//www.danfoss.com/Terms/PrivacyPolicy.htm%23Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508201735id_/http%3A//www.danfoss.com/Terms/PrivacyPolicy.htm%23Cookies) for the most accurate reproduction.*
 
 # Privacy Policy - Danfoss
 
@@ -50,4 +50,4 @@ Other relevant links for your information:
 Cookie definition - 1st and 3rd party:   
 <http://en.wikipedia.org/wiki/HTTP_cookie>   
 <http://www.ehow.com/info_8087985_definition-tracking-cookies.html>   
-Danfoss CSR: <http://www.danfoss.com/AboutUs/Corporate+Citizenship/>
+Danfoss CSR: [http://www.danfoss.com/AboutUs/Corporate+Citizenship/](http://www.danfoss.com/AboutUs/Sustainability/)
