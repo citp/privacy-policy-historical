@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktradionetwork.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729040051id_/http%3A//media.ktradionetwork.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktradionetwork.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508194652id_/http%3A//media.ktradionetwork.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ We reserve the right to change this Privacy Policy at any time, and without adva
 Nothing herein waives, limits or in any way modifies our Terms & Conditions or Release.
 
 **_“Opt Out Rights”_**  
-If, at any time after visiting the site, you change your mind about receiving information from the site or sharing your Personal Information as described in this Privacy Policy, you may request an opt out, by contacting us at 28 E. Jackson, Building #10-A940, Chicago, IL 60604.
+If, at any time after visiting the site, you change your mind about receiving information from the site or sharing your Personal Information as described in this Privacy Policy, you may request an opt out, by contacting us.
 
 **_No Children Under 18_** __  
 This site is not directed to, nor does it knowingly collect any personal information from children under 18.   If a child who we know to be under age 18 sends personal information to us online, we will only use that information to respond directly to that child, notify parents or seek parental consent.
