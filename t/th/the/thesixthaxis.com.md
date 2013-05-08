@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212053057id_/http%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508123547id_/http%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheSixthAxis - We Know PlayStation
 
