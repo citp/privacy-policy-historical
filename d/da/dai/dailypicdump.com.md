@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypicdump.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218022934id_/http%3A//dailypicdump.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypicdump.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163136id_/http%3A//dailypicdump.com/privacy) for the most accurate reproduction.*
 
 # Daily Picdump - Privacy Policy
 
