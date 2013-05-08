@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigrock.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014102322id_/http%3A//www.bigrock.in/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigrock.in privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508073437id_/http%3A//www.bigrock.in/support/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - BigRock
 
 At BigRock.in we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us ("BigRock.in Services").
 
