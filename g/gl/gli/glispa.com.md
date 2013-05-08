@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025030837id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508211144id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | glispa :: Performance Marketing
 
