@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livefyre.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132614id_/http%3A//www.livefyre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefyre.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508234257id_/http%3A//www.livefyre.com/privacy) for the most accurate reproduction.*
 
 # Livefyre | Privacy Policy
 
@@ -133,8 +133,8 @@ Privacy Complaints by European Union Citizens:
 In compliance with the Safe Harbor Principles, Livefyre commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Livefyre at:
 
 > Jenna Langer  
->  [support@livefyre.com](mailto:support@livefyre.com)  
->  580 Howard Street  
->  Suite 401, San Francisco, CA 94105
+>  [privacy@livefyre.com](mailto:privacy@livefyre.com)  
+>  23 Geary Street, Suite 400  
+>  San Francisco, CA 94108
 
 Livefyre has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Livefyre, please visit the [BBB EU SAFE HARBOR web site](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
