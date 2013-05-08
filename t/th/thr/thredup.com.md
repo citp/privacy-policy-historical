@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095413id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508103906id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
 
-# Swap Kids Clothing on thredUP - Privacy Policy
+# Shop for Practically New Clothing on thredUP - Privacy Policy
 
 This policy covers how thredUP, Inc. ("thredUP") treats personally identifying information that thredUP collects and receives, including information related to your past use of thredUP products and services. thredUP may be referred to in this Privacy Policy as "thredUP" or "we". Personally identifying information is information about you that allows someone to personally identify you, like your name, address, email address, phone number, and preferences that you identify and that are not otherwise publicly available (for example, your clothing size and brand preferences). This policy does not apply to the practices of companies or websites that thredUP does not own or control, or to people that thredUP does not employ or manage. This policy does not apply to information that does not allow someone to personally identify you. 
 
@@ -26,13 +26,12 @@ We limit access to personal information about you to employees who we believe re
 
 ### Accessing, Changing and Protecting Your Information
 
-You can access and edit your thredUP account information at any time. While you are a thredUP member, we will send you certain communications relating to the thredUP service, such as service announcements, administrative messages and a thredUP Newsletter. These communications are considered part of your thredUP account, and you can only opt-out of receiving them by deleting your thredUP account. You can delete your account by contacting thredUP . If you believe that personal information that we have about you is incorrect, and you are unable to correct that information by editing your account yourself, you may notify us by email via the thredUP Customer Support page and we will use reasonable efforts to correct such information.
+You can access and edit your thredUP account information at any time. While you are a thredUP member, we will send you certain communications relating to the thredUP service, such as service announcements, administrative messages and a thredUP Newsletter. These communications are considered part of your thredUP account, and you can only opt-out of receiving them by deleting your thredUP account. You can delete your account by contacting thredUP or visiting your MyAccount page. If you believe that personal information that we have about you is incorrect, and you are unable to correct that information by editing your account yourself, you may notify us by email via the thredUP Customer Support page and we will use reasonable efforts to correct such information.
 
 ### Disclosure of Your Personal Information
 
 thredUP will disclose your personal information only under the following circumstances: 
 
-  * to provide your mailing address in order to allow other members and the United States Postal Service to send you items that you've requested or are required to have to us the service;
   * to provide your email address to thredUP marketing partners who may send you email communications about products or services that may be of interest to you;
   * to provide the information to third parties who work on behalf of or with thredUP to provide products or services to you under confidentiality agreements. These third parties may use your personal information to help thredUP communicate with you about offers from thredUP and from our marketing partners.
   * to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
@@ -45,8 +44,8 @@ Notwithstanding the above, if your username reveals your identity, or if you sub
 
 ### Policy Updates
 
-This Privacy Policy forms part of, and is subject to, thredUP's Terms of Use. thredUP may update this Privacy Policy at any time in its sole discretion. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your thredUP account or by placing a prominent notice on our website. If you do not agree with the terms of the updated Privacy Policy, then you should cease use of thredUP Site at that time. We will treat personal information collected in accordance with the privacy policy in effect when it was collected.
+This Privacy Policy forms part of, and is subject to, thredUP’s Terms of Use. thredUP may update this Privacy Policy at any time in its sole discretion. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your thredUP account or by placing a prominent notice on our website. If you do not agree with the terms of the updated Privacy Policy, then you should cease use of thredUP Site at that time. We will treat personal information collected in accordance with the privacy policy in effect when it was collected.
 
-Effective Date of Policy: **July 1st, 2010**
+Effective Date of Policy: **April 4, 2012**
 
 return to top
