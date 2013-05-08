@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the postling.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029143338id_/https%3A//www.postling.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postling.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508065524id_/https%3A//postling.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Postling :: Privacy Policy
 
 **PRIVACY POLICY**
 
-This Privacy Policy will advise you about waffl.com, Inc.'s ("waffl") guidelines concerning the use of your personal information, including the efforts we make to protect your personal information in accordance with these guidelines. The current version of the Privacy Policy, along with the current version of the Terms of Service, form the "Agreement" between you and waffl.
+This Privacy Policy will advise you about LocalVox Media Inc.'s ("LocalVox") guidelines concerning the use of your personal information, including the efforts we make to protect your personal information in accordance with these guidelines. The current version of the Privacy Policy, along with the current version of the Terms of Service, form the "Agreement" between you and LocalVox.
 
 Please refer back to this Privacy Policy regularly. This policy will be continuously assessed against new technologies, business practices and our users' needs.
 
@@ -70,13 +70,13 @@ We may change this Privacy Policy from time to time, with or without notice. If 
 
 We may need to change this Privacy Policy from time to time in order to address new issues and reflect changes to our Website. We will post those changes here so that you will always know our current policies regarding what information we gather, how we might use that information, and whether and how we will disclose that information to others. .
 
-The current version of the Privacy Policy will discuss, address and control waffl's privacy practices. All changes to the Privacy Policy are prospective, which means should a question or dispute arise regarding the Privacy Policy or waffl's privacy practices, the version of the Privacy Policy that controls is the version of the Privacy Policy that was current as of the date that the actions or omissions giving rise to the question or dispute occurred.
+The current version of the Privacy Policy will discuss, address and control LocalVox's privacy practices. All changes to the Privacy Policy are prospective, which means should a question or dispute arise regarding the Privacy Policy or LocalVox's privacy practices, the version of the Privacy Policy that controls is the version of the Privacy Policy that was current as of the date that the actions or omissions giving rise to the question or dispute occurred.
 
 **How to Contact Us**
 
-Should you have questions or concerns about this Privacy Policy, the Terms of Service or any other matter pertaining to our business or privacy practices, please send an e-mail to the following address: (info@waffl.com). You may also send us a letter to the following address:
+Should you have questions or concerns about this Privacy Policy, the Terms of Service or any other matter pertaining to our business or privacy practices, please send an e-mail to the following address: (info@postling.com). You may also send us a letter to the following address:
 
-waffl.com, Inc.   
-5-11 Coles St #5, Jersey City, NJ 07002 
+LocalVox Media, Inc.   
+5 Hanover Square, New York, NY, 10005, United States 
 
-Last Updated: July 30, 2009 
+Last Updated: Dec 28, 2012 
