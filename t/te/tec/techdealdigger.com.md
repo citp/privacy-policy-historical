@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdealdigger.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005175531id_/http%3A//www.techdealdigger.com/page.php%3Fpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdealdigger.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508231722id_/http%3A//www.techdealdigger.com/page.php%3Fpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # TechDealDigger
 
