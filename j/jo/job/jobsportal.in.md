@@ -1,0 +1,10 @@
+> *The following text is extracted and transformed from the jobsportal.in privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508195210id_/http%3A//www.jobsportal.in/p/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+  
+
+
+We at JobsPortal.in take more care to secure our visitors privacy and provide secure browsing at all circumstance. Like all other websites we had enabled Google Analytics to collect log data such as Demographics, Behavior, Technology and Visitor Flow over our site. These data doesn't collect any personal information of any users. Email addresses collected from visitors are to send updates from our site. These email address will not be enclosed with any third persons and we make it very confidential. Also we had provided an option to unsubscribe from email updates. Contents available in this site is written and managed by JobsPortal.in team. Copying contents from here and providing in any other websites without prior permission from author will be complained to Google under DMCA.
+
+We at JobsPortal.in allow third party ad networks to serve advertisement in our website. These third party ad networks make use of java scripts to serve ads. They may automatically receive your IP address when these ads occur in your browser through our site; these are done to measure their effectiveness of advertising strategies. Google Adsense is our main ad network who serves ads over here; these ads are setup by us that completely follows the rules and guidelines of Google. We at JobsPortal.in do not use cookies to collect personal information about users who visit our site. But the above said third party ad network may use cookies to collect information about user’s demographic location and area of interest. These ad networks do not collect any personal information about any visitors. If you are not willing to allow cookies you can disable cookies functions using the settings allowed in your browser. For more information about privacy over ads can be accessed by following http://www.google.com/privacy_ads.html. 
