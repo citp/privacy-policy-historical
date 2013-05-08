@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camwithher.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021000924id_/http%3A//www.camwithher.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camwithher.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508081437id_/http%3A//www.camwithher.com/privacy.php) for the most accurate reproduction.*
 
-# Cam Girls - CamWithHer - High End Female Model Webcam Site
+# CamWithHer Privacy Policy
 
 SNR Productions, Inc. will never sell/give/rent your information to any other party. You can rest assured no SPAM will come from submitting your information through us. You may receive a promotional email from us from time to time where you will have the option to cancel/unsubscribe from them. Please continue reading for more detailed information on our policy. 
 
