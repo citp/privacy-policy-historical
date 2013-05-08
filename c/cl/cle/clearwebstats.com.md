@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clearwebstats.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022143853id_/http%3A//www.clearwebstats.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearwebstats.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508134756id_/http%3A//www.clearwebstats.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Clearwebstats.com - Information About Every Site.
+# Privacy Policy - ClearWebStats.com
 
 _The privacy of our visitors to ClearWebStats.com is important to us._
 
