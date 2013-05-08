@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bepress.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231145id_/http%3A//www.bepress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bepress.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163814id_/http%3A//www.bepress.com/privacy.html) for the most accurate reproduction.*
 
 # bepress | Privacy Policy
 
