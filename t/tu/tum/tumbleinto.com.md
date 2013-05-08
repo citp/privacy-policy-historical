@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumbleinto.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111015131id_/http%3A//www.tumbleinto.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumbleinto.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508083423id_/http%3A//www.tumbleinto.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,7 +31,7 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20121111015131id_/http%3A//www.tumbleinto.com/contact.aspx). **Effective Date: Privacy Notice last modified February 11, 2008.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20130508083423id_/http%3A//www.tumbleinto.com/contact.aspx). **Effective Date: Privacy Notice last modified February 11, 2008.**
 
 © 2008 Tumbleinto.com 
 
