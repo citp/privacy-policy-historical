@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120063252id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508162244id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
 # BradsDeals Privacy Policy
 
@@ -52,7 +52,7 @@ Employee Access, Training and Expectations. Our corporate values, ethical standa
 
 ### Communication Opt Out
 
-If you wish to opt out of receiving offers directly from Shop Smart, Inc. network or business partners, you can unsubscribe at [www.bradsdeals.com/my/unsubscribe](http://www.bradsdeals.com/my/unsubscribe) or follow the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 7195 Commerce Drive, Mentor, OH 44060, or by phone at 877.970.0707. You can email us at suggestions@bradsdeals.com with questions, comments or suggestions.
+If you wish to opt out of receiving offers directly from Shop Smart LLC network or business partners, you can unsubscribe at [www.bradsdeals.com/my/unsubscribe](http://www.bradsdeals.com/my/unsubscribe) or follow the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 640 N LaSalle Suite 556 Chicago, IL 60654, or by phone at 877.970.0707. You can email us at suggestions@bradsdeals.com with questions, comments or suggestions.
 
 ### Do We Disclose Information to Outside Parties?
 
@@ -66,4 +66,4 @@ We may disclose information when legally compelled to do so, in other words, whe
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.
 
-Shop Smart Holdings Inc. has financial relationships with some of the merchants included on our site. Shop Smart Holdings Inc. may be compensated if consumers choose to apply for or purchase products or services via the links on our site.
+Shop Smart LLC has financial relationships with some of the merchants included on our site. Shop Smart LLC may be compensated if consumers choose to apply for or purchase products or services via the links on our site.
