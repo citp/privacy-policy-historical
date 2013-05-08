@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618002802id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508233429id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Ontario Universities' Application Centre
 
@@ -8,12 +8,12 @@ The Ontario Universities’ Application Centre (OUAC) is committed to protecting
 
 ### Division-specific Declaration and Notice of Collection, Use, Disclosure and Treatment of Your Personal Information
 
-  * OMSAS: [OMSAS (Ontario Medical School Application Service)](https://web.archive.org/web/20120618002802id_/http%3A//www.ouac.on.ca/omsas-declaration)
-  * OLSAS: [OLSAS (Ontario Law School Application Service)](https://web.archive.org/web/20120618002802id_/http%3A//www.ouac.on.ca/olsas-declaration)
-  * TEAS: [TEAS (Ontario Faculties of Education)](https://web.archive.org/web/20120618002802id_/http%3A//www.ouac.on.ca/teas-declaration)
-  * ORPAS: [ORPAS (Ontario Rehabilitation Sciences Programs Application Service)](https://web.archive.org/web/20120618002802id_/http%3A//www.ouac.on.ca/orpas-declaration)
-  * OUAC 105: [105 (Ontario University[ies] Undergraduate Program[s] [105])](https://web.archive.org/web/20120618002802id_/http%3A//www.ouac.on.ca/105-declaration)
-  * OUAC 101: [101 (Ontario University[ies] Undergraduate Program[s] [101])](https://web.archive.org/web/20120618002802id_/http%3A//www.ouac.on.ca/101-declaration)
+  * OMSAS: [OMSAS (Ontario Medical School Application Service)](https://web.archive.org/web/20130508233429id_/http://www.ouac.on.ca/privacy/omsas-declaration)
+  * OLSAS: [OLSAS (Ontario Law School Application Service)](https://web.archive.org/web/20130508233429id_/http://www.ouac.on.ca/privacy/olsas-declaration)
+  * TEAS: [TEAS (Ontario Faculties of Education)](https://web.archive.org/web/20130508233429id_/http://www.ouac.on.ca/privacy/teas-declaration)
+  * ORPAS: [ORPAS (Ontario Rehabilitation Sciences Programs Application Service)](https://web.archive.org/web/20130508233429id_/http://www.ouac.on.ca/privacy/orpas-declaration)
+  * OUAC 105: [105 (Ontario University[ies] Undergraduate Program[s] [105])](https://web.archive.org/web/20130508233429id_/http://www.ouac.on.ca/privacy/105-declaration)
+  * OUAC 101: [101 (Ontario University[ies] Undergraduate Program[s] [101])](https://web.archive.org/web/20130508233429id_/http://www.ouac.on.ca/privacy/101-declaration)
 
 
 
@@ -44,7 +44,7 @@ The OUAC collects personal information when you:
 
 ##### Creating your Personal Account:
 
-To apply for a university program through any of the OUAC’s online application processes, you must create the required OUAC online application account, some using specific university websites, for some graduate and undergraduate part-time applications. When you create your account, the OUAC collects personal information, such as your name, email address, password and, if applicable, secondary school number.
+To apply for a university program through any of the OUAC’s online application processes, you must create the required OUAC online application account, some using specific university websites, to direct you to the graduate and undergraduate part-time applications. When you create your account, the OUAC collects personal information, such as your name, email address, password and, if applicable, secondary school number.
 
 ##### Applications:
 
@@ -106,7 +106,7 @@ The OUAC discloses your application information to the university(ies) of your c
 
 Certain personal information may be transferred to third parties for the purposes of processing electronic transcript requests, test scores or credit card authorizations. For example, if you request an Ontario college transcript in support of a university application, the OUAC sends the information necessary to identify you to the OCAS. The OCAS is responsible for managing and requesting Ontario college transcripts on your behalf. Some electronic transcripts may be obtained from other jurisdictions in Canada or the United States. In addition, where an admission test score is required for an application, the OUAC may provide the information necessary to identify you to the test score providers (for example AAMC, LSAC) in order to obtain your test result. These test score providers may be situated in other jurisdictions outside Ontario.
 
-The OUAC may also make available your personal information, as required, to third parties who provide services on our behalf, such as audits to protect our systems and your personal information. In addition, the OUAC discloses to credit card companies the personal information of those who are paying for applications to university programs, as required, in order to obtain authorizations.
+The OUAC may also make available your personal information, as required, to third parties who provide services on our behalf, such as audits to protect our systems and your personal information. In addition, you will be required to directly provide credit card companies with the personal information of those who are paying for applications to university programs, as required, in order to obtain payment authorizations. The OUAC does not retain any credit card information on its systems.
 
 The OUAC’s service providers are required to maintain the confidentiality and security of your personal information and to use it only in compliance with applicable privacy laws, and are prohibited from using or disclosing your personal information for any purpose other than providing the services on our behalf or as otherwise required by applicable law.
 
@@ -122,7 +122,7 @@ In addition, as specified in the privacy notices accompanying each application, 
 
 #### Third-Party Websites
 
-Our websites may provide links to third-party websites that may be of relevance to the university application process. These third-party websites could include the websites for Ontario universities, the Ontario Student Assistance Program (OSAP), the Ministry of Education, the Ministry of Training, Colleges and Universities (MTCU), and, in the case of application to joint college/university programs, the Ontario College Application Services (OCAS) and admission test score providers (e.g., AAMC, LSAC).
+Our websites may provide links to third-party websites that may be of relevance to the university application process. These third-party websites could include the websites for Ontario universities; the Ontario Student Assistance Program (OSAP); the Ministry of Education; the Ministry of Training, Colleges and Universities (MTCU); and in the case of application to joint college/university programs, the Ontario College Application Services (OCAS) and admission test score providers (e.g., AAMC, LSAC).
 
 The inclusion of any hyperlink does not imply our endorsement of any other organization, its website, or its services. These linked websites have separate and independent privacy policies, which we recommend you read carefully. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use, disclose or otherwise treat your personal information.
 
@@ -136,17 +136,17 @@ The OUAC is dedicated to using a high level of security during the transfer of a
 
 #### Accessing and Correcting Your Personal Information
 
-We will keep your personal information as accurate and up-to-date as reasonably possible. We retain your electronically stored personal information in identifiable form until all processing and reporting has been completed. During an application cycle, you are able to access your personal information online and, in most cases, make corrections online where required. In some circumstances (e.g., after deadlines have passed for medical school, law school or rehabilitation sciences applications) changes to your personal information must be done in writing to the appropriate OUAC application division.
+We will keep your personal information as accurate and up-to-date as reasonably possible. We retain your electronically stored personal information in identifiable form until all processing and reporting has been completed. During an application cycle, you are able to access your personal information online and, in most cases, make corrections online where required. In some circumstances (e.g., after deadlines have passed for medical school, law school or rehabilitation sciences applications) changes to your personal information must be done by electronic notification via secure applicant messaging for the appropriate OUAC application.
 
 To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections to your personal information.
 
 #### Retention and Disposal of Personal Information
 
-All information collected by the OUAC, as part of the application processing services provided for the universities, will be transferred to the applicants’ selected universities of choice during the application process as described in the application instructions. Copies of paper documents collected on behalf of the universities, as specified in the application instructions, will be transferred as photocopies or as digital images to the universities selected by the applicant. Unsolicited documents will normally not be accepted by the OUAC and will be returned to the sender.
+All information collected by the OUAC, as part of the application processing services provided for the universities, will be transferred to the applicants’ selected universities of choice during the application process as described in the application instructions. Copies of paper documents collected on behalf of the universities, as specified in the application instructions, will be transferred as digital images to the universities selected by the applicant. Unsolicited documents will normally not be accepted by the OUAC and will be returned to the sender.
 
-We retain your electronically stored personal application information (demographic, academic and choice data) in identifiable form for seven years after the completion of your application cycle. Following this period, we maintain information related to your application(s) in non-identifiable form for research purposes in accordance with each application’s published Declaration and Notice of Collection, Use, Disclosure and Treatment of Personal Information for your application types.
+We retain your electronically stored personal application information (demographic, academic and choice data) in identifiable form for the current application cycle plus seven additional annual application cycles. Following this period, we maintain information related to your application(s) in non-identifiable form for research purposes in accordance with each application’s published Declaration and Notice of Collection, Use, Disclosure and Treatment of Personal Information for your application types.
 
-Paper documents collected on behalf of the universities and as specified in the application instructions will be forwarded to the university at which you register. As stipulated in the application instructions, paper documents cannot be returned or maintained in our files for future consideration. Also, paper documents, autobiographic submissions and supplementary material not required by the OUAC for the application process (or in the event that you do not register at an Ontario university) will be destroyed prior to the beginning of the next year’s application cycle.
+Paper documents collected on behalf of the universities and as specified in the application instructions will be forwarded to the university at which you register, at their request. As stipulated in the application instructions, paper documents cannot be returned or maintained in our files for future consideration. Also, paper documents, autobiographic submissions and supplementary material not required by the OUAC for the application process (or in the event that you do not register at an Ontario university) will be destroyed prior to the beginning of the next year’s application cycle.
 
 #### Changes to This Privacy Statement
 
@@ -164,4 +164,4 @@ Feel free to contact our Applicant Services department at any time if:
 
 Visit [www.ouac.on.ca/contact/](http://www.ouac.on.ca/contact/) for details about how to contact us.
 
-Last updated: July 27, 2010
+Last updated: December 1, 2012
