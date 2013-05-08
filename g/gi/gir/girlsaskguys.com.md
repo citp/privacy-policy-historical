@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010131107id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508063155id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Girls Ask Guys Privacy Policy
 
@@ -44,7 +44,9 @@ Our default privacy settings limit the information displayed in your profile to 
 
 The username, thumbnail image and location may be displayed in various parts of the website including but not limited to search results, members lists and user account pages. Such member information is displayed so that other members can see who answered or asked a question or so that friends can find friends in our website. Also note that the extent of the personal information displayed is limited to what users choose to display.
 
-The information we collect will not be used to create customer profiles based on browsing or purchasing history. We will not supplement information collected at our Web site with data from other sources. We may use profile information based on age, gender and location to promote news updates or products to display relevant advertisements or announcements. Users will not be solicited via email based on this information and nor will such information will be shared with such content providers.
+The information we collect will not be used to create customer profiles based on browsing or purchasing history. We will not supplement information collected at our Web site with data from other sources. We may use profile information based on age, gender and location to promote news updates or products to display relevant advertisements or announcements. 
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>. 
 
 We offer links to other Web sites. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours. GirlsAskGuys is not responsible for the content, terms or policies of any site that we link to.
 
