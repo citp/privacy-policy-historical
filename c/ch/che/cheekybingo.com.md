@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104093048id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508103143id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
 
-# Cheeky Bingo FREE BINGO - Join and get £20 free to play online bingo.
+# Privacy Policy - CheekyBingo.com
 
 The brands on this website (the "Website") are owned by Cashcade Ltd (the "Brand Owner"). The Website and the services offered on it are powered by a software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services.
 
