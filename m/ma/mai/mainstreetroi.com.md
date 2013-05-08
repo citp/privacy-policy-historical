@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231143059id_/http%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508021320id_/http%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy | Main Street ROI
 
@@ -76,9 +76,4 @@ This policy was last modified on March 24, 2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://www.mainstreetroi.com
-
-61 West 62nd Street 17A  
-New York, New York 10023
+If there are any questions regarding this privacy policy you may [contact us using the information listed on this page](http://www.mainstreetroi.com/contact).
