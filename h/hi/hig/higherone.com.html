@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the higherone.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920000234id_/http%3A//www.higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the higherone.com privacy policy that was archived on 2013-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508231023id_/http%3A//higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 <meta name="google-site-verification" content="P0A-UOtSfBz12xsOJPibsx5USc65z6LvvLar5cTbeG8"> 
@@ -11,94 +11,47 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy</title>
   <link href="/templates/Default/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="http://higherone.com/modules/mod_jw_latesttweets/tmpl/css/style.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/2j_tabs/2j_tabs.css" type="text/css">
+  <link rel="stylesheet" href="http://www.higherone.com/modules/mod_jw_latesttweets/tmpl/css/style.css" type="text/css">
+  <script type="text/javascript" src="/plugins/system/2j_tabs/jq_last.js"></script>
+  <script type="text/javascript" src="/plugins/system/2j_tabs/2j.ui.base.js"></script>
+  <script type="text/javascript" src="/plugins/system/2j_tabs/2j.ui.tabs.js"></script>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/swfobject.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/avreloaded.js"></script>
-  <!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+  <script type="text/javascript" src="http://www.higherone.com/modules/mod_jw_latesttweets/includes/js/behaviour.js"></script>
+  <script type="text/javascript">
 
-<script type="text/javascript">
-	//<![CDATA[
-	function twitterCallbackId93(twitters) {
-
-	  var statusHTML = [];
-	  for (var i=0; i<twitters.length; i++){
-	    var username = twitters[i].user.screen_name;
-	    var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
-	      return '<a href="'+url+'">'+url+'</a>';
-	    }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
-	      return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
-	    });
-	    
-	    if(i%2==1) var liClass = 'Even'; else var liClass = 'Odd';
-	    
-	    var liOutput = '\
-		    <li class="lt'+liClass+'">\
-			    <span class="ltUserStatus">'+status+'</span>\
-			    <br />\
-			    <a class="ltStatusTimestamp" href="http://twitter.com/'+username+'/statuses/'+twitters[i].id+'">\
-			    	'+relative_time(twitters[i].created_at)+'\
-			    </a>\
-		    </li>\
-	    ';
-	    
-	    statusHTML.push(liOutput);
-	  }
-	  
-	  setTimeout(function(){document.getElementById('ltUpdateId93').innerHTML = statusHTML.join('');},2000);
-	}
-	
-	function relative_time(time_value) {
-	  var values = time_value.split(" ");
-	  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
-	  var parsed_date = Date.parse(time_value);
-	  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
-	  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
-	  delta = delta + (relative_to.getTimezoneOffset() * 60);
-	
-	  if (delta < 60) {
-	    return 'less than a minute ago';
-	  } else if(delta < 120) {
-	    return 'about a minute ago';
-	  } else if(delta < (60*60)) {
-	    return (parseInt(delta / 60)).toString() + ' minutes ago';
-	  } else if(delta < (120*60)) {
-	    return 'about an hour ago';
-	  } else if(delta < (24*60*60)) {
-	    return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
-	  } else if(delta < (48*60*60)) {
-	    return '1 day ago';
-	  } else {
-	    return (parseInt(delta / 86400)).toString() + ' days ago';
-	  }
-	}
-	//]]>
-</script>
-<script type="text/javascript">
-	//<![CDATA[
-	window.addEvent('domready', function() {
-	  var twitterJson = 'http://twitter.com/statuses/user_timeline/mileshigherone.json?callback=twitterCallbackId93&count=3';
-		var twitterScript = document.createElement('script');
-		twitterScript.setAttribute('charset','utf-8');
-		twitterScript.setAttribute('type','text/javascript');
-		twitterScript.setAttribute('src',twitterJson);
-		var b = document.getElementsByTagName('body')[0];
-		b.appendChild(twitterScript);
+	jwLatestTweets.ready(function(){
+		jwLatestTweets.lang = {
+			lessthanaminute: "less than a minute ago",
+			minute: "about a minute ago",
+			minutes: "minutes ago",
+			hour: "about an hour ago",
+			hours: "hours ago",
+			day: "1 day ago",
+			days: "days ago"
+		};
+		jwLatestTweets.fetchTweets({
+			screen_name: 'mileshigherone',
+			count: '3',
+			callback: 'jwLtCb93',
+			moduleID: 'ltUpdateId93',
+			timeout: 2000
+		});
 	});
-	//]]>
-</script>
 
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
+  </script>
 
 
-<link rel="stylesheet" href="http://higherone.com/templates/system/css/system.css" type="text/css">
-<link rel="stylesheet" href="http://higherone.com/templates/system/css/general.css" type="text/css">
-<link rel="stylesheet" href="http://higherone.com/templates/Default/css/editor.css" type="text/css">
-<link rel="stylesheet" href="http://higherone.com/templates/Default/css/template.css" type="text/css">
-<link rel="stylesheet" href="http://higherone.com/templates/Default/css/typo.css" type="text/css">
+<link rel="stylesheet" href="http://www.higherone.com/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="http://www.higherone.com/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="http://www.higherone.com/templates/Default/css/editor.css" type="text/css">
+<link rel="stylesheet" href="http://www.higherone.com/templates/Default/css/template.css" type="text/css">
+<link rel="stylesheet" href="http://www.higherone.com/templates/Default/css/typo.css" type="text/css">
 
 
 <!-- START OF GOOGLE ANALYTICS -->
@@ -114,13 +67,13 @@ urchinTracker();
 
 
 
-<script language="javascript" type="text/javascript" src="http://higherone.com/templates/Default/js/ja.script.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.higherone.com/templates/Default/js/ja.script.js"></script>
 
 <!-- Menu head -->
-			<link href="http://higherone.com/templates/Default/ja_menus/ja_moomenu/ja.moomenu.css" rel="stylesheet" type="text/css">
-			<script src="http://higherone.com/templates/Default/ja_menus/ja_moomenu/ja.moomenu.js" language="javascript" type="text/javascript"></script>
+			<link href="http://www.higherone.com/templates/Default/ja_menus/ja_moomenu/ja.moomenu.css" rel="stylesheet" type="text/css">
+			<script src="http://www.higherone.com/templates/Default/ja_menus/ja_moomenu/ja.moomenu.js" language="javascript" type="text/javascript"></script>
 			
-<link href="http://higherone.com/templates/Default/css/colors/default.css" rel="stylesheet" type="text/css">
+<link href="http://www.higherone.com/templates/Default/css/colors/default.css" rel="stylesheet" type="text/css">
 
 <!--[if lte IE 6]>
 <style type="text/css">
@@ -137,7 +90,7 @@ img {border: none;}
 
 
 <!--[if gt IE 7]>
-<link href="http://higherone.com/templates/Default/css/ie8.css" rel="stylesheet" type="text/css" />
+<link href="http://www.higherone.com/templates/Default/css/ie8.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script><script type="text/javascript" src="/modules/mod_arisexylightbox/includes/js/jquery.noconflict.js"></script><script type="text/javascript" src="/modules/mod_arisexylightbox/includes/js/jquery.easing.js"></script><script type="text/javascript" src="/modules/mod_arisexylightbox/includes/js/jquery.sexylightbox.min.js"></script><script type="text/javascript">;(window["jQueryASL"] || jQuery)(document).ready(function(){ SexyLightbox.initialize({"movieAutoPlay":true,"dir":"\/modules\/mod_arisexylightbox\/includes\/js\/sexyimages"}); });</script><!--[if lt IE 7]><link rel="stylesheet" href="/modules/mod_arisexylightbox/includes/js/sexylightbox.ie6.css" type="text/css" /><![endif]--><link rel="stylesheet" href="/modules/mod_arisexylightbox/includes/js/sexylightbox.css" type="text/css"><!--[if IE]><link rel="stylesheet" href="/modules/mod_arisexylightbox/includes/js/sexylightbox.ie.css" type="text/css" /><![endif]--></head>
 
@@ -186,7 +139,7 @@ img {border: none;}
 
 	<div id="ja-mainnav">
 		<ul id="ja-cssmenu" class="clearfix">
-<li><a href="http://higherone.com/" class="menu-item0 first-item" id="menu20" title="Home"><span class="menu-title">Home</span></a></li> 
+<li><a href="http://www.higherone.com/" class="menu-item0 first-item" id="menu20" title="Home"><span class="menu-title">Home</span></a></li> 
 <li class="havechild"><a href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=13" class="menu-item1" id="menu13" title="About Us"><span class="menu-title">About Us</span></a><ul><li><a href="/index.php?option=com_content&amp;view=article&amp;id=16&amp;Itemid=26" class=" first-item" id="menu26" title="Higher One Philosophy"><span class="menu-title">Higher One Philosophy</span></a></li> 
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=345&amp;Itemid=27" id="menu27" title="Working with Students"><span class="menu-title">Working with Students</span></a></li> 
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=28" id="menu28" title="Community"><span class="menu-title">Community</span></a></li> 
@@ -197,13 +150,15 @@ img {border: none;}
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=248&amp;Itemid=163" id="menu163" title="Higher101"><span class="menu-title">Higher101</span></a></li> 
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=290&amp;Itemid=175" class=" last-item" id="menu175" title="Financial Literacy"><span class="menu-title">Financial Literacy</span></a></li> 
 </ul></li> 
-<li class="havechild"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=14" class="menu-item2" id="menu14" title="Products &amp; Services"><span class="menu-title">Products &amp; Services</span></a><ul><li><a href="/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=80" class=" first-item" id="menu80" title="OneDisburse<sup>®</sup> Refund Management<sup>®</sup>"><span class="menu-title">OneDisburse<sup>®</sup> Refund Management<sup>®</sup></span></a></li> 
-<li><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=81" id="menu81" title="CASHNet<sup>®</sup> Suite of Payment Products"><span class="menu-title">CASHNet<sup>®</sup> Suite of Payment Products</span></a></li> 
-<li><a href="/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=96" id="menu96" title="OneDisburse<sup>®</sup> Payroll"><span class="menu-title">OneDisburse<sup>®</sup> Payroll</span></a></li> 
+<li class="havechild"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=14" class="menu-item2" id="menu14" title="Products &amp; Services"><span class="menu-title">Products &amp; Services</span></a><ul><li><a href="/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=80" class=" first-item" id="menu80" title="OneDisburse Refund Management"><span class="menu-title">OneDisburse Refund Management</span></a></li> 
+<li><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=81" id="menu81" title="CASHNet Suite of Payment Products"><span class="menu-title">CASHNet Suite of Payment Products</span></a></li> 
+<li><a href="/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=96" id="menu96" title="OneDisburse Payroll"><span class="menu-title">OneDisburse Payroll</span></a></li> 
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=77&amp;Itemid=90" id="menu90" title="Financial Intelligence"><span class="menu-title">Financial Intelligence</span></a></li> 
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=44&amp;Itemid=82" id="menu82" title="OneAccount"><span class="menu-title">OneAccount</span></a></li> 
-<li><a href="http://www.campuslabs.com/products" id="menu325" title="Campus Labs"><span class="menu-title">Campus Labs</span></a></li> 
-<li><a href="/index.php?option=com_content&amp;view=article&amp;id=171&amp;Itemid=151" class=" last-item" id="menu151" title="All You<sup>SM</sup> Service"><span class="menu-title">All You<sup>SM</sup> Service</span></a></li> 
+<li><a href="http://www.campuslabs.com/index.php/products/" target="_blank" id="menu325" title="Campus Labs"><span class="menu-title">Campus Labs</span></a></li> 
+<li><a href="/index.php?option=com_content&amp;view=article&amp;id=1657&amp;Itemid=345" id="menu345" title="Alert!"><span class="menu-title">Alert!</span></a></li> 
+<li><a href="/index.php?option=com_content&amp;view=article&amp;id=1205&amp;Itemid=337" id="menu337" title="VendorPay"><span class="menu-title">VendorPay</span></a></li> 
+<li><a href="/index.php?option=com_content&amp;view=article&amp;id=171&amp;Itemid=151" class=" last-item" id="menu151" title="All You Service"><span class="menu-title">All You Service</span></a></li> 
 </ul></li> 
 <li class="havechild"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=13&amp;Itemid=17" class="menu-item3" id="menu17" title="Media Relations"><span class="menu-title">Media Relations</span></a><ul><li><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=13&amp;Itemid=85" class=" first-item" id="menu85" title="Press Releases"><span class="menu-title">Press Releases</span></a></li> 
 <li><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=21&amp;Itemid=187" class=" last-item" id="menu187" title="In The News"><span class="menu-title">In The News</span></a></li> 
@@ -216,9 +171,7 @@ img {border: none;}
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=53&amp;Itemid=76" id="menu76" title="Media Relations"><span class="menu-title">Media Relations</span></a></li> 
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=108&amp;Itemid=95" class=" last-item" id="menu95" title="Business Opportunities"><span class="menu-title">Business Opportunities</span></a></li> 
 </ul></li> 
-<li class="havechild"><a href="/index.php?option=com_content&amp;view=article&amp;id=289&amp;Itemid=32" class="menu-item6" id="menu32" title="Events"><span class="menu-title">Events</span></a><ul><li><a href="/index.php?option=com_content&amp;view=article&amp;id=289&amp;Itemid=180" class=" first-item" id="menu180" title="Upcoming Events"><span class="menu-title">Upcoming Events</span></a></li> 
-<li><a href="/index.php?option=com_content&amp;view=article&amp;id=373&amp;Itemid=199" id="menu199" title="HUG"><span class="menu-title">HUG</span></a></li> 
-<li><a href="/index.php?option=com_content&amp;view=article&amp;id=1349&amp;Itemid=326" class=" last-item" id="menu326" title="Dominican University OneEvent"><span class="menu-title">Dominican University OneEvent</span></a></li> 
+<li class="havechild"><a href="/index.php?option=com_content&amp;view=article&amp;id=1414&amp;Itemid=32" class="menu-item6" id="menu32" title="Events"><span class="menu-title">Events</span></a><ul><li><a href="/index.php?option=com_content&amp;view=article&amp;id=1414&amp;Itemid=180" class=" first-item" id="menu180" title="Upcoming Events"><span class="menu-title">Upcoming Events</span></a></li> 
 </ul></li> 
 <li><a href="/index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=21" class="menu-item7 last-item" id="menu21" title="Careers"><span class="menu-title">Careers</span></a></li> 
 </ul>
@@ -261,7 +214,7 @@ img {border: none;}
 		<a href="/index.php?view=article&amp;catid=7%3Awhat-we-do&amp;id=107%3Aprivacy-policy&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=94" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"></a>		</td>
 		
 				<td align="right" width="100%" class="buttonheading">
-		<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL2hpZ2hlcm9uZS5jb20vaW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MTA3OnByaXZhY3ktcG9saWN5JmNhdGlkPTc6d2hhdC13ZS1kbyZJdGVtaWQ9OTQ=" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"></a>		</td>
+		<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy5oaWdoZXJvbmUuY29tL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTEwNzpwcml2YWN5LXBvbGljeSZjYXRpZD03OndoYXQtd2UtZG8mSXRlbWlkPTk0" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"></a>		</td>
 					</tr>
 </tbody></table>
 
@@ -301,10 +254,10 @@ img {border: none;}
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy30467 = 'pr&#105;v&#97;cy' + '&#64;';
- addy30467 = addy30467 + 'h&#105;gh&#101;r&#111;n&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy30467 + suffix + '\'' + attribs + '>' );
- document.write( addy30467 );
+ var addy22435 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy22435 = addy22435 + 'h&#105;gh&#101;r&#111;n&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy22435 + suffix + '\'' + attribs + '>' );
+ document.write( addy22435 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:privacy@higherone.com">privacy@higherone.com</a> <script language="JavaScript" type="text/javascript">
@@ -336,10 +289,10 @@ img {border: none;}
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy84468 = 'pr&#105;v&#97;cy' + '&#64;';
- addy84468 = addy84468 + 'h&#105;gh&#101;r&#111;n&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy84468 + suffix + '\'' + attribs + '>' );
- document.write( addy84468 );
+ var addy37528 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy37528 = addy37528 + 'h&#105;gh&#101;r&#111;n&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy37528 + suffix + '\'' + attribs + '>' );
+ document.write( addy37528 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:privacy@higherone.com">privacy@higherone.com</a> <script language="JavaScript" type="text/javascript">
@@ -396,7 +349,7 @@ img {border: none;}
 					<h3>Tweets From Miles Lasater</h3>
 					
 
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+<!-- JoomlaWorks "Latest Tweets" Module (v1.3) starts here -->
 
 <div class="ltBlock">
 	<ul id="ltUpdateId93" class="ltBlockList">
@@ -409,7 +362,7 @@ img {border: none;}
 	</div>
 </div>
 
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
+<!-- JoomlaWorks "Latest Tweets" Module (v1.3) ends here -->
 
 		</div>
 	
@@ -421,7 +374,7 @@ img {border: none;}
 <!-- BEGIN: PATHWAY -->
 <div id="ja-pathway">
 	<strong>You are here &nbsp;:</strong><span class="breadcrumbs pathway">
-<a href="http://higherone.com/" class="pathway">Home</a> <img src="/templates/Default/images/arrow.png" alt=""> Privacy Policy</span>
+<a href="http://www.higherone.com/" class="pathway">Home</a> <img src="/templates/Default/images/arrow.png" alt=""> Privacy Policy</span>
 
 </div>
 <!-- END: PATHWAY -->
@@ -460,7 +413,7 @@ img {border: none;}
 <div id="ja-footer" class="clearfix">
 
 	<ul class="menu"><li class="item34"><a href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=34"><span>About Us</span></a></li><li class="item35"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=35"><span>Products &amp; Services</span></a></li><li class="item37"><a href="/index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=37"><span>Careers</span></a></li><li class="item38"><a href="/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=38"><span>Support</span></a></li><li class="item48"><a href="/index.php?option=com_content&amp;view=article&amp;id=21&amp;Itemid=48"><span>FDIC</span></a></li><li class="item84"><a href="/index.php?option=com_xmap&amp;sitemap=1&amp;Itemid=84"><span>Site Map</span></a></li><li id="current" class="active item94"><a href="/index.php?option=com_content&amp;view=article&amp;id=107&amp;Itemid=94"><span>Privacy Policy</span></a></li></ul>
-	<small>Copyright © 2012 . All Rights Reserved. Designed by 
+	<small>Copyright © 2013 . All Rights Reserved. Designed by 
 <a href="http://www.higherone.com/" title="Visit HigherOne.com!" target="blank">HigherOne.com</a>.</small>
 <!--<small><a href="http://www.joomla.org">Joomla!</a> is Free Software released under the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU/GPL License.</a></small> -->
 
