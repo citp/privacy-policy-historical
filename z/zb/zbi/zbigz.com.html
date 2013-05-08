@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919093506id_/http%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2013-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508215207id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -466,7 +466,9 @@ SmartAjax_load('js/smartajax/', function(){
 			</label>
 		</div>
 	</div>
-</div>		<!-- header -->
+</div>
+
+		<!-- header -->
 <div id="header">
 	<div id="header-radius-bg"></div>
 	
@@ -531,6 +533,7 @@ Zbigz.com may update this privacy policy at any time without additional notifica
 
                         var _gaq = _gaq || [];
                         _gaq.push(['_setAccount', 'UA-20549564-4']);
+                        _gaq.push(['_setDomainName', 'zbigz.com']);
                         _gaq.push(['_trackPageview']);
 
                         (function() {
@@ -538,6 +541,10 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
                             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                         })();
+                                                function regPayClk(t) {
+                            return _gaq.push(['_trackEvent', 'Payment btn click '+t,t]);
+                        }
+
                     </script>
 		</div>
                 <!-- footer -->
@@ -571,5 +578,6 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                         <li class="gp"><a href="">Google +</a></li>  -->
                 </ul>
         </div>
-</div>                	
+</div>                                   
+	
 </body></html>
