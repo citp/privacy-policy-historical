@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkpsystem.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022162533id_/http%3A//www.dkpsystem.com/dynpage.php%3Fid%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkpsystem.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508174745id_/http%3A//www.dkpsystem.com/dynpage.php%3Fid%3D63) for the most accurate reproduction.*
 
 # DKPSystem.com - Privacy Policy
 
@@ -36,4 +36,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please see our [Contact Us](https://web.archive.org/web/20121022162533id_/http%3A//www.dkpsystem.com/contactus.php) page. 
+Should you have other questions or concerns about these privacy policies, please see our [Contact Us](https://web.archive.org/web/20130508174745id_/http%3A//www.dkpsystem.com/contactus.php) page. 
