@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysite.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828134949id_/http%3A//www.mysite.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysite.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508112654id_/http%3A//www.mysite.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
