@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsnshop.in privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101102623id_/http%3A//www.newsnshop.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnshop.in privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508035121id_/http%3A//www.newsnshop.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy »
+# Privacy Policy
 
 **Newsnshop.in Privacy policy:**
 
@@ -18,6 +18,3 @@
 **11.** Entering in any sweepstakes, contests or other promotions means you agree the rules , regulations and terms and conditions of Newsnshop.in  
 **12.** We can disclose your information if we need to answer any law enforcement agencies.  
 **13.** If you don’t want our newsletters, you can unsubscribe by given link in newsletter.
-
-**Published:** August 30th, 2012 at 16:57  
-**Categories:**
