@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231012927id_/http%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509005923id_/http%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
 
 # K&N Engineering, Inc. Privacy Policy
+
+#### 
 
 AutomotiveMotorcycle & ATVAll
 
@@ -12,4 +14,4 @@ We use third-party services to monitor pages of our website for the purpose of r
 You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). You can also opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Consent**  
-By using this website, you consent to the collection and use of information by K&N Engineering, Inc. Changes to our privacy policy will be posted on this page. If you have any questions or comments regarding this policy, please [contact](https://web.archive.org/web/20121231012927id_/http%3A//www.knfilters.com/contact.htm) us.
+By using this website, you consent to the collection and use of information by K&N Engineering, Inc. Changes to our privacy policy will be posted on this page. If you have any questions or comments regarding this policy, please [contact](https://web.archive.org/web/20130509005923id_/http%3A//www.knfilters.com/contact.htm) us.
