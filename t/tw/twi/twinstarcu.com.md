@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031040015id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508152231id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TwinStar Credit Union
 
@@ -75,15 +75,13 @@ State laws and individual companies may give you additional rights to limit shar
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * Affiliates CUSTOM, Inc., is a data processing company, Financial Services Management Group LLC provides financial services, and The Paragon Consulting Group provides audit/compliance services.
-
-
+Our affiliates include companies providing data processing, auditing, compliance and financial services.
 
 #### Nonaffiliates 
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * TwinStar Credit Union does not share with nonaffiliates so they can market to you.
+  * _TwinStar Credit Union does not share with nonaffiliates so they can market to you._
 
 
 
@@ -91,16 +89,16 @@ Companies not related by common ownership or control. They can be financial and 
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
-  * TwinStar Credit Union does not jointly market.
+  * _TwinStar Credit Union does not jointly market._
 
 
 
 ### Other important information
 
-Privacy Policy Inquiries: TwinStar Credit Union is owned by its members and governed by a Board of Directors that you elect. You can be confident that your financial privacy is a top priority of your credit union. We are required by law to provide you with this privacy notice to explain how we collect, use, and safeguard your personal financial information. If you have any questions about our privacy practices, contact us by calling 360.357.9917 or at 1.800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
+Privacy Policy Inquiries: TwinStar Credit Union is owned by its members and governed by a Board of Directors that you elect. You can be confident that your financial privacy is a top priority of your credit union. We are required by law to provide you with this privacy notice to explain how we collect, use, and safeguard your personal financial information. If you have any questions about our privacy practices, contact us by calling 1.800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
 
-Rev. 11/2011
+Rev. 11/2012
 
 Attachment| Size  
 ---|---  
-[055-TwinStarPrivacyNotice.pdf](https://www.twinstarcu.com/sites/default/files/055-TwinStarPrivacyNotice.pdf)| 63.33 KB
+[055-TwinStarPrivacyNotice 112012.pdf](https://www.twinstarcu.com/sites/default/files/055-TwinStarPrivacyNotice%20112012.pdf)| 376.46 KB
