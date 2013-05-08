@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018112805id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508063155id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of EngineersGarage
 
