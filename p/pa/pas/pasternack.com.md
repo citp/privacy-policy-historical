@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pasternack.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103072127id_/http%3A//www.pasternack.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pasternack.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508114232id_/http%3A//www.pasternack.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Pasternack Enterprises Privacy Policy
+# Pasternack Enterprises Privacy Policy
 
 At Pasternack Enterprises, we respect your right to know how your information is gathered and shared. We appreciate your trust that we will respect your information and privacy. This statement explains our privacy policy. Questions regarding this Privacy Statement should be directed to our [webmaster](mailto:WebMaster@pasternack.com).
 
@@ -49,7 +47,7 @@ No. We do not store customer credit card numbers. To ensure the security of cust
   
 
   6. **Use of Cookies**  
-A "cookie" is a piece of information that our website sends to your browser, which then stores this information on your system. A cookie allows our website to "remember" information about your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies to help them navigate a website as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender with personal or other information from your computer.
+A "cookie" is a piece of information that our website sends to your browser, which then stores this information on your system. A cookie allows our website to "remember" information about your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies to help them navigate a website as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender with personal or other information from your computer. Google, DoubleClick and other third parties may use cookie information to present advertising material that is of more interest based on web pages visited.
   
 
   7. **License and Site Access**  
