@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-upload.info privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215637id_/http%3A//easy-upload.info/Privacy-Policy.html%3Fsid%3DULILyc%252CHvCCMywumzu-4aTkW8M2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-upload.info privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510001831id_/http%3A//www.easy-upload.info/Privacy-Policy.html%3Fsid%3DSH-n0gInQj60oyn-c7ls5bQ-ms8) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Upload
 
