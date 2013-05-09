@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914150541id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510000431id_/http%3A//www.gaiam.com/privacy-policy/privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Gaiam.com Privacy Policy - Gaiam
 
@@ -20,7 +20,7 @@ We use the information collected on our Website for a variety of purposes, inclu
 
 You can remove your e-mail address from our e-mail list at any time by following the procedures set forth in the “Opt Out Procedures” section below or by clicking on the "unsubscribe" link in every Gaiam e-mail. In addition, you can modify your information or change your preferences, as set forth in the "Reviewing or Changing Your Information" section below.
 
-Information obtained through our Website may be intermingled with and used in conjunction with information obtained through sources other than our Website, including both offline and online sources. 
+Information obtained through our Website may be intermingled with and used in conjunction with information obtained through sources other than our Website, including both offline and online sources.
 
 4\. Discussions and Community Tools
 
@@ -56,7 +56,7 @@ This Privacy Policy applies only to Gaiam’s Website and does not address the p
 
 In order to provide you with the information, products or services which you have requested, we may share or transfer your personal information with our affiliates or subsidiaries, or third party agents acting on their behalf.
 
-Gaiam may be obligated to cooperate with various law enforcement inquiries. Gaiam reserves the right to disclose or transfer personal information and non-personal information about you and your activities on our Website in order to comply with a legal requirement or request from law enforcement or other government officials, administrative agencies or third parties as we, in our sole discretion, determine necessary or appropriate for the administration of justice, or in connection with an investigation of fraud, intellectual property infringements or violations of any other law, rule or regulation, our Gaiam.com Terms and Conditions of Use or other rules or policies of our Website, the rights of third parties, or an investigation of any other activity that may expose us or you to legal liability, or to investigate any suspected conduct which Gaiam in its sole discretion deems improper. 
+Gaiam may be obligated to cooperate with various law enforcement inquiries. Gaiam reserves the right to disclose or transfer personal information and non-personal information about you and your activities on our Website in order to comply with a legal requirement or request from law enforcement or other government officials, administrative agencies or third parties as we, in our sole discretion, determine necessary or appropriate for the administration of justice, or in connection with an investigation of fraud, intellectual property infringements or violations of any other law, rule or regulation, our Gaiam.com Terms and Conditions of Use or other rules or policies of our Website, the rights of third parties, or an investigation of any other activity that may expose us or you to legal liability, or to investigate any suspected conduct which Gaiam in its sole discretion deems improper.
 
 10\. Security
 
@@ -78,4 +78,4 @@ By using our Website and providing your personal information to us, you also aut
 
 We may amend our Privacy Policy at any time, without notice to you, by posting such revised Privacy Policy on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. Any changes will only apply to information collected after the change is posted.
 
-This Privacy Policy was last updated on April 21, 2009. 
+_This Privacy Policy was last updated on September 17, 2012._
