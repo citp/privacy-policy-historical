@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818045056id_/http%3A//www.healthinsurance.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509072245id_/http%3A//www.healthinsurance.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
