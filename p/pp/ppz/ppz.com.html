@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the ppz.com privacy policy that was archived on 2012-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112003627id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ppz.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509175215id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy and Guarantee</title>
 <meta name="keywords" content="Return Policy and Guarantee ,milky way jewelry ,beads supplier">
 <meta name="description" content="Milky Way Jewelry ( Gets.cn ) is serious about privacy - beads, gemstone beads, jewelry beads, pearl beads">
-<link href="http://w1.gets.cn/css/css_new.css?120917" rel="stylesheet" type="text/css">
-<link rel="icon" href="http://w1.gets.cn/favicon.ico?1" type="image/x-icon">
+<link href="http://w1.gets.cn/css/css_new.css?130425" rel="stylesheet" type="text/css">
+<link rel="icon" href="http://w1.gets.cn/favicon.ico?130129" type="image/x-icon">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-483678-3']);
@@ -18,7 +18,33 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+	function checkTopSearch(){
+		if(document.getElementById('searchinput').value==''){
+			alert('Sorry.Please enter keyword !');
+			document.getElementById('searchinput').focus();
+			return false;
+		}else{
+			var re= /(['])|([\"])|(<\/?[^>]*>)|(.*?((truncate)|(exec)).*?){2,}/i;
+			var re1	= /^[\x20-\x2F]+$/;
+			if(re.test(document.getElementById('searchinput').value))
+			{ 
+				alert("Illegal keywords!");
+				document.getElementById('searchinput').focus();
+				return false;
+			}else if(re1.test(document.getElementById('searchinput').value)){
+				alert("Illegal keywords!");
+				document.getElementById('searchinput').focus();
+				return false;
+			}
+		}
+	}
+	//防止重复提交表单
+	function noSubmitAgain(btnKey){
+		var currentBtn=document.getElementById(btnKey);
+		currentBtn.disabled	= true;
+		currentBtn.style.filter	= 'Gray';
+		currentBtn.style.cursor	= 'auto';
+	}
 </script>
 </head>
 <body>
@@ -51,9 +77,9 @@
 		<li class="navbr"><a href="http://www.gets.cn/sales_promotion.php" title="Sales promotion,Beads discount">Sale Promotion</a></li>
 		<li class="pl10"><a href="http://www.gets.cn/produce.php" title="china beads,wholesale beads">New Arrival</a></li>
 		<li class="navForm">
-			<form name="prodsearch" action="/search.php" method="get" target="_blank">
+			<form name="prodsearch" action="/search.php" method="get" onsubmit="noSubmitAgain('topSearchSubmit');">
 				<input onfocus="this.value=''" value="Search Gets.cn" name="keywords" id="searchinput">
-				<button type="submit" id="topSearchSubmit" class="ti-9" onclick="if(document.getElementById('searchinput').value==''){alert('Sorry.Please enter keyword !');document.getElementById('searchinput').focus();return false;}">Search</button>
+				<button type="submit" id="topSearchSubmit" class="ti-9" onclick="return checkTopSearch()">Search</button>
 			</form>
 		</li>	
 	</ul>		
@@ -110,12 +136,12 @@
 	</div>
 </div>
 <div class="foot">
-	<div class="pt5 tc fb">
+	<div class="pt5 tc fb fs12">
 	    <a href="http://www.gets.cn/" target="_top" rel="nofollow">Home</a> |     
         <a href="http://www.gets.cn/catalog.php" target="_top">Catalog</a> |   
-		<a href="http://www.gets.cn/stocks.php" target="_top">Stocks</a> |    
 		<a href="http://www.gets.cn/top-selling/" target="_top">Top Selling</a> |  
-		<a href="http://www.gets.cn/renewCatalog.php" target="_top">Renew Catalog</a>
+		<a href="http://www.gets.cn/renewCatalog.php" target="_top">Renew Catalog</a> |
+		<a title="help center" href="http://help.gets.cn/" target="_top" rel="nofollow">Help</a>
 		<br>
 		<a href="http://www.gets.cn/about_us.php" target="_top" rel="nofollow">About us</a> |   
 		<a href="http://www.gets.cn/contact_us.php" target="_top" rel="nofollow">Contact us</a> |   
@@ -125,10 +151,9 @@
 		<a href="http://www.gets.cn/Privacy_Policy.php" target="_top" rel="nofollow">Privacy notice</a> |   
 		<a href="http://www.gets.cn/attention_care.php" target="_top" rel="nofollow">Attention &amp; Care</a> |   
 		<a href="http://www.gets.cn/discount_policy.php" target="_top" rel="nofollow">Discount Policy</a> |   
-		<a title="currency rate" href="http://www.gets.cn/currency_rate.php" target="_top" rel="nofollow">Currency Rate</a> |
-        <a title="help center" href="http://help.gets.cn/" target="_top" rel="nofollow">Help</a>
+		<a title="currency rate" href="http://www.gets.cn/currency_rate.php" target="_top" rel="nofollow">Currency Rate</a>       
 	</div>
-	<div class="pt5 fs14 tc">Copyright ©2004- 2012 Milky Way Jewelry Ltd. - china wholesale beads.  All rights reserved.</div>
+	<div class="pt5 fs14 tc">Copyright ©2004- 2013 Milky Way Jewelry Ltd. - china wholesale beads.  All rights reserved.</div>
 	<div class="tc pt5">
 		<a href="http://www.gets.cn/return.php" target="_blank" rel="nofollow"><img src="http://w1.gets.cn/images_new/30day.jpg" width="70" height="70" alt="Credit guarantee policy" align="middle"></a> <img src="http://w1.gets.cn/images_new/biaoshi.gif" alt="Professional enterprise certification" align="middle"> <img src="http://w1.gets.cn/images_new/PaypalVerify.gif" alt="Paypal verified" align="middle"> 
 	</div>
@@ -137,5 +162,5 @@
 		<br>China wholesale beads, wholesale beads from China, buy wholesale beads from Chinese beads wholesaler
 	</div>
 </div>
-<script type="text/javascript" src="http://w1.gets.cn/js/global.js?120917"></script>
+<script type="text/javascript" src="http://w1.gets.cn/js/global.js?130408"></script>
 </body></html>
