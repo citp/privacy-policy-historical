@@ -1,0 +1,53 @@
+> *The following text is extracted and transformed from the theapplicantmanager.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509174312id_/https%3A//theapplicantmanager.com/privacy) for the most accurate reproduction.*
+
+# The Applicant Manager | Applicant Tracking System | Recruiting Software
+
+**This Privacy Policy is effective as of January 1, 2012.**
+
+This policy covers the website at http://www.theapplicantmanager.com (the "Site") and explains our information practices, data security practices, defines your privacy options and describes how your information is collected and used by The Applicant Manager ("TAM"). 
+
+By using this Site, you agree to the collection and use of information in the manner described by this policy. TAM shall have the right at any time and without prior notice, at its sole discretion, to revise this policy. Such revisions and additions shall be effective immediately upon notice, which may be given by any means, including but not limited to posting the revised or additional terms and conditions on this Site. You are responsible for reviewing the Site periodically for any modification to this policy. 
+
+**Personal Information we Collect**
+
+This policy applies to all information collected on this Site and any information you provide to us as a client of TAM. In addition it applies to any applicants who provide resumes, cover letters, references, applications for employment, or any other information when applying for positions with our clients. The personal information we collect from our clients will include, but is not limited to: user name, password, first and last name, and email address. The personal information we collect from our clients' applicants will be dictated by our clients as they configure online employment applications. 
+
+**Non-Personal Information we may Collect**
+
+In addition to the personal information you supply, we may collect certain information to evaluate how visitors use our Site. We collect data to make our service work better for you by improving the design of the Site, by providing personalization of the Site and to evaluate the performance of our marketing programs. The technologies we use to gather this non-personal information may include IP addresses, cookies, clear gifs, browser detection, and weblogs. We further use this information to provide a better experience on our website and to give us useful business information. 
+
+"IP" addresses define the Internet location of computers and help us better understand the geographic distribution of our members and manage the performance of the Site. "Cookies" are tiny files placed onto the hard drive of your computer when you visit the Site, so we can immediately recognize you when you return to the site and deliver content specific to your interests. You may modify your browser preferences to accept all cookies, be notified when a cookie is set, or reject all cookies. Please consult your browser instructions for information on how to modify your choices about cookies. 
+
+We may also use a technology called "clear gifs". Clear gifs are tiny graphics with unique identifiers that are used to track emails and online movements, helping us understand what marketing campaigns and content are effective. 
+
+We may detect the type of web browser you are using to optimize the performance of our website and to understand the mix of browsers used by our clients and visitors. To learn about how people use our site, we examine weblogs, which show the paths people take through our site and how long they spend in certain areas. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and clients. 
+
+**How we use Information**
+
+Our primary goal in collecting your customer information is to provide you with a personalized, relevant, and positive experience with the Site. We use the information that we collect to set up Services for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Services that we provide, and to send information regarding our company or partners, such as promotions and events. 
+
+Customer email addresses and any personal customer information will not be distributed or shared with any third parties. We may email information regarding updates to the Service. Except as we explicitly state at the time we request information, or as provided for in the TAM Terms of Use, we do not disclose to any third-party the information provided. 
+
+**Data Security**
+
+We follow industry-standard technical and organizational measures to protect the security of our users' and applicants' personal information. Our site is hosted on secure, fire-walled servers. We use 256-bit SSL (Secure Socket Layer) encryption for all data transfers. Access to our clients' data is controlled by user names and passwords, both of which are further encrypted by a complex hashing routine. Clients are responsible for maintaining the confidentiality and security of their user names and passwords. All client data is backed up daily. Only authorized TAM employees have access to clients' data and we never share that data with other clients. 
+
+**Communications with our clients**
+
+When you sign up as a registered TAM user, you may elect to have TAM provide you with marketing communications such as e-mail newsletters, product and service updates and promotions. Our clients generally find this type of information useful. If you do not want to continue to receive such communications, you can select the "unsubscribe" link at the bottom of any marketing communication email and follow the opt-out instructions. 
+
+**TAM Service Providers**
+
+We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, website hosting and maintenance, customer relationship management, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. 
+
+**Disclosure of Information**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process. It is also possible that TAM would sell all or substantially all of its assets and business. In any transaction of this kind, customer information, including your personally identifiable information, may be among the assets that are transferred. If we decide to so transfer your personally identifiable information, you will be notified by email. 
+
+**Link to Other Websites**
+
+The Site may contain links to other websites. TAM is not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites may be co-branded with our trademarks and those of our business partners. This policy only applies to information collected by TAM. 
+
+**How to Contact Us**
+
+Should you have privacy questions or concerns, please call us at 855-254-1277, send an email to admin@theapplicantmanager.com, or snail mail to The Applicant Manager, 369-B 3rd St, Suite 655, San Rafael, CA 94901. 
