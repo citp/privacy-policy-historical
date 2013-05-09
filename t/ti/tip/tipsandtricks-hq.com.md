@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipsandtricks-hq.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214200835id_/http%3A//www.tipsandtricks-hq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsandtricks-hq.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509130326id_/http%3A//www.tipsandtricks-hq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tips and Tricks
+# Privacy Policy
 
 Tips and Tricks HQ respects your privacy. At Tips and Tricks HQ, we are aware of the trust you place in us and our responsibility to protect your privacy. Below is a list of the information that Tips and Tricks HQ gathers, how it’s used, and how you can “opt-out”.
 
