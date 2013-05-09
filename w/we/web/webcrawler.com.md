@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920060209id_/http%3A//www.webcrawler.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509224522id_/http%3A//www.webcrawler.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,7 +79,7 @@ It is possible that by fraud or deception we may receive information given to us
 
 Questions regarding children's privacy should be directed to:   
 InfoSpace, Inc.   
-601 108th Avenue NE, Suite 1200   
+10900 NE 8th Street, Ste. 800   
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax 
