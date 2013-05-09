@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231232135id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509024800id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
 
 # Legals - Free delivery, Hype DC
 
