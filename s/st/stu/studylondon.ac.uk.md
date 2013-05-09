@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919101855id_/http%3A//www.studylondon.ac.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509072655id_/http%3A//www.studylondon.ac.uk/information/privacy) for the most accurate reproduction.*
 
 # Study London privacy policy - Study London
 
@@ -8,7 +8,7 @@ Please read this privacy policy carefully, as once you use our website or our se
 
 ## Data Protection Act 1998
 
-London & Partners Limited is the data controller of your data. We are registered under the Data Protection Act 1998, registration number  **Z9917922** , and comply with the Act in all our dealings with your personal data.
+London & Partners Limited is the data controller of your data. We are registered under the Data Protection Act 1998, registration number  **Z2650570** , and comply with the Act in all our dealings with your personal data.
 
 Your personal information is safe with us.
 
@@ -141,7 +141,7 @@ We use:
 
  **Banner Adverts**
 
-We partly fund our site by showing adverts as you browse our site. These adverts are managed by a partner specialising in providing adverts for multiple sites. Invariably these partners place cookies to collect anonymous data about the websites you visit so they can personalise the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working. Our partner is: Hi-Media
+We partly fund our site by showing adverts as you browse our site. These adverts are managed by a partner specialising in providing adverts for multiple sites. Invariably these partners place cookies to collect anonymous data about the websites you visit so they can personalise the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working. Our partner is: Ad2One
 
  **Turning Cookies Off**
 
