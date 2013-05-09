@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mileageplus.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129155119id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileageplus.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509125605id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
 
 # United Airlines - Privacy Policy
 
-[Home](https://web.archive.org/web/en-US/Default.aspx? "United Airlines - Airline Tickets, Vacations Packages, Travel Deals, and Company Information on united.com") > **Privacy Policy**
+[Home](https://web.archive.org/web/en-US/Default.aspx?SID=011D3C0F62AF462DB8A680C8F2B46325 "United Airlines – Airline Tickets, Travel Deals and Flights on united.com") > **Privacy Policy**
 
 ### Your privacy is important to us
 
@@ -16,7 +16,7 @@ United collects and maintains personally identifiable information about customer
 
 #### MileagePlus® information
 
-When you [enroll in MileagePlus](https://web.archive.org/web/20121129155119id_/http%3A//www.united.com/web/en-US/apps/account/enroll.aspx), or if you are already a MileagePlus member, we collect specific information such as your name, address, phone numbers, email address, MileagePlus number, password and a password reminder.
+When you [enroll in MileagePlus](https://web.archive.org/web/20130509125605id_/http%3A//www.united.com/web/en-US/apps/account/enroll.aspx?SID=011D3C0F62AF462DB8A680C8F2B46325), or if you are already a MileagePlus member, we collect specific information such as your name, address, phone numbers, email address, MileagePlus number, password and a password reminder.
 
 #### Traveler’s profile information
 
@@ -112,7 +112,7 @@ United may disclose personal information if required to do so by law, court orde
 
 ### How can you access your information?
 
-If you are registered on one of our websites, you can create, view or update your [Traveler’s Profile](https://web.archive.org/web/20121129155119id_/http%3A//www.united.com/web/en-US/apps/account/account.aspx) and MileagePlus account by accessing them through the United family website Log-in. If you are not registered on one of our websites, you can review and request changes to your personally identifiable information collected by United by calling 1-800-421-4655. 
+If you are registered on one of our websites, you can create, view or update your [Traveler’s Profile](https://web.archive.org/web/20130509125605id_/http%3A//www.united.com/web/en-US/apps/account/account.aspx?SID=011D3C0F62AF462DB8A680C8F2B46325) and MileagePlus account by accessing them through the United family website Log-in. If you are not registered on one of our websites, you can review and request changes to your personally identifiable information collected by United by calling 1-800-421-4655. 
 
 ### How is the information collected online protected?
 
