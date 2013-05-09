@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920102106id_/http%3A//www.badgeville.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509200246id_/http%3A//badgeville.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | badgeville.com
 
-#### Badgeville Privacy Policy
+####  Badgeville Privacy Policy
 
 Badgeville, Inc. ("Badgeville", "we" or "us") knows that you care about how your information is collected, used and shared. This Privacy Policy explains what information we collect when you use the [www.badgeville.com](http://www.badgeville.com/ "www.badgeville.com") website (the "Site"), how that information may be used, and how you can control the collection, and/or deletion of that information.
 
@@ -52,10 +52,8 @@ If we change our privacy policy we will post those changes at this URL: [www.bad
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [marketing@badgeville.com](mailto:marketing@badgeville.com), or send mail to:
 
-Badgeville, Inc.
-
-1134 Crane Street, Suite 200
-
-Menlo Park, CA 94025
+Badgeville, Inc.  
+1400B Seaport Blvd.  
+Redwood City, CA 94063
 
 This Privacy Policy does not apply to any third party site or service that is not owned or operated by Badgeville but through which you may access or engage with the Badgeville services.
