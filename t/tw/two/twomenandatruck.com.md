@@ -1,27 +1,22 @@
-> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513231941id_/http%3A//www.twomenandatruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509152420id_/http%3A//www.twomenandatruck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## INTRODUCTION:
-
-The purpose of this Web site is to provide visitors useful information and allow them to request additional information regarding moving/relocation needs.  
-We want our visitors to be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
+The purpose of this website is to provide visitors useful information and to allow them the opportunity to request additional information regarding moving/relocation needs. Our visitors have the right to be aware of any information collected and used and under what circumstances, if any, information is disclosed.
 
 ## INFORMATION COLLECTION AND USE
 
-This site does not collect cookies. ([Definition of Cookies](http://www.netlingo.com/right.cfm?term=cookies))
+**Registration is not required to enter our site.**
 
- **Registration is not required to enter our site.**
+We respect each website visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this privacy policy. This statement applies solely to information collected on this website.
 
-We respect each Web site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this privacy policy. This statement applies solely to information collected on this Web site.
+For each visitor to our website, the web server automatically recognizes the visitor's domain name only; it does not recognize email addresses. The information we collect is used for internal review and to improve or enhance our website’s content. Under no circumstances is data shared with third party organizations for commercial purposes.
 
-For each visitor to our Web site, the web server automatically recognizes the visitor's domain name only, it does not recognize the e-mail address. The information we collect is used for internal review and to improve the content of our website. It is not shared with any other third party organizations for commercial purposes.
+Individuals may choose to submit either estimate request forms or customer service inquiry forms. During completion of these forms, users must include certain contact information. This information is never sold or shared with any third party organizations. It is gathered only for the purposes of contacting visitors regarding services for which interest has been expressed. 
 
-An individual may choose to fill out a estimate request form, a customer service inquiry form, or a request for licensing information form. During completion of these forms, a user must give certain contact information. We do not sell or give away this information to any other third party organization. It is only gathered to contact the visitor about services on our Web site for which s/he has expressed interest. It is optional for the visitor to provide demographic information (income level, gender) and unique identifiers (username, password). Giving additional information helps provide a more personalized experience on our Web site but is not required.
+**We do not have an order form.** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information collected by us from our website.
 
- **We do not have an order form.** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our Web site.
-
- **From time to time, our Web site operates online surveys. During these times, we do not sell or share our subscribers' e-mail addresses.**
+**From time to time, we engage our visitors through online surveys. On these occasions, we do not sell or share our subscribers' email addresses.** ****
 
 ## NOTIFICATION OF CHANGES
 
@@ -29,9 +24,9 @@ We reserve the right to revise our privacy policy at any time without advance no
 
 ## CONFLICT RESOLUTION
 
-We are committed to resolving disputes within five (5) business days. If problems arise, visitors may contact us by mail, e-mail, telephone or fax. 
+We are committed to resolving disputes within five (5) business days. If problems arise, visitors may contact us by mail, email, telephone or fax.
 
-## WEB SITE ADMINISTRATION/CONTACT INFORMATION
+## WEBSITE ADMINISTRATION/CONTACT INFORMATION
 
 Business name: | **TWO MEN AND A TRUCK®/INTERNATIONAL, Inc.**  
 ---|---  
