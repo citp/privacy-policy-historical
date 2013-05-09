@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021175328id_/http%3A//www.allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509060831id_/http%3A//www.allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
