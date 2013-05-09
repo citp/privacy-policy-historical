@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seminarprojects.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225185518id_/http%3A//www.seminarprojects.com/Thread-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seminarprojects.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509083318id_/http%3A//www.seminarprojects.com/Thread-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy (1) General Discussion
 
