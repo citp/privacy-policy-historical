@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130005745id_/http%3A//www.headphone.com/support/your-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509214734id_/http%3A//www.headphone.com/support/your-privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -62,7 +62,7 @@ Legal Disclaimer Though we make every effort to preserve user privacy, we may ne
 
 ****Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@headphone.com. We also offer an opt-out mechanism on the member log-in pages or the user may contact us at 406-587-9466, support@headphone.com, or mail us at 2020 Gilkerson Drive, Bozeman, MT 59715 to opt-out. ****
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@headphone.com. We also offer an opt-out mechanism on the member log-in pages or the user may contact us at 406-587-9466, support@headphone.com, or mail us at 619 N. Church Ave, #1, Bozeman, MT 59715 to opt-out.
 
 **Links**
 
@@ -104,6 +104,8 @@ email [support@headphone.com](mailto:support@headphone.com) , [sales@headphone.c
 
 **Postal Address:**
 
-2020 Gilkerson Drive, Bozeman, MT 59715
+HeadRoom Corporation
+
+619 N. Church Unit 1, Bozeman, MT 59715
 
 Web site URL http://www.headphone.com
