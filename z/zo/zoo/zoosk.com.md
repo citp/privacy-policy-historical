@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoosk.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005015817id_/https%3A//www.zoosk.com/privacy.php%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoosk.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093654id_/https%3A//www.zoosk.com/privacy.php%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # Zoosk Privacy Policy | Zoosk.com
 
