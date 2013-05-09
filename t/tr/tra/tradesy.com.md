@@ -1,36 +1,93 @@
-> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824231444id_/http%3A//www.tradesy.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509020835id_/http%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
 
-# Tradesy - PrivacyPolicy Site
+# Privacy Policy | Tradesy
 
-Tradesy.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. This privacy statement discloses the privacy practices for the Tradesy.com website, and explains how we use the information collected from visitors to our site. When you visit the Tradesy website, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared, if at all. What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. The following discloses the information gathering and dissemination practices for this website, www.Tradesy.com:   
-Information Collected   
-You may visit Tradesy without providing us any personal information. If you wish to participate in buying and selling, we require the disclosure of minimal personal contact information, including your name, e-mail address, state of residence and ZIP code. At the user's request, we use the contact information from the registration form to send the user information about our company and to notify them of new items. Customer's contact information is also used to contact the visitor when necessary, such as for notification of site changes, prize giveaways, unusual activity in their account or inappropriate content in their ads. Tradesy collects information when you register to join by logging into an account that you already have with certain third-party social networking sites ("SNS") (including but not limited to Facebook and Twitter) via Tradesy. For example, our service allows you to create an account and login to Tradesy using your Facebook account credentials through Facebook Connect. If you are not currently registered as a User on Tradesy and you click on "Sign in With Facebook�, you may be asked to enter your Facebook credentials and then be given the option to register and join Tradesy. When you register or log in with a SNS, we may obtain additional information about you or members of your social network, including but not limited to your gender, birthday, and "likes�. Demographic and additional personal data are also collected on our site, but is optional and does not have to be disclosed in order to become a member. Optional questions include your gender, wedding spending habits and yearly household income. We use this data to tailor the visitor's experience on our site, showing them items that we think they might be interested in, and displaying items according to their preferences. We also use this information to make changes and upgrades to the site that will better serve our members. Information Sharing and Disclosure   
-Tradesy.com does not share your personal information with third parties without your consent, except when:   
-� Required by law.   
-� We have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.   
-� To protect the safety or property of ourselves (founders and employees of Tradesy) or the users of our website.   
-� You violate our Terms of Use. If you violate the rules of our website, we may share your personal information with third party law enforcement agencies or officers.   
-� It is relevant to share broad demographic information with our partners or advertisers, in which case your information will be included as part of a larger statistical report and will not be linked to any personally identifiable information.   
-Navigational Data   
-Like most standard website servers we use log files. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. Log files are not linked to personally identifiable information.   
-Cookies   
-We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. Tradesy.com does not receive any information about you from these cookies. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set advertisements on our site.   
-Links   
-This website contains links to other sites. Please be aware that Tradesy.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. In addition, some portions of our website are framed to look like our website however the information is being collected by another website.   
-Security   
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. We also do everything in our power to protect user-information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desks. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.   
-Choice/Opt-out   
-Our site provides users the opportunity to opt-in or opt-out of receiving e-newsletters and e-mail alerts from us from within Your Account. Our site lets users unsubscribe to Tradesy.com news by sending us e-mail.   
-Change/Modify   
-If a user's personally identifiable information changes (such as your ZIP code or e-mail address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done from within the user's personal account. You may also contact us via regular mail at the address below to cancel your membership and delete your account.   
-Consent and Notification of Changes   
-This is the Privacy Policy for Tradesy.com. Our [Terms and Conditions](https://web.archive.org/TermsAndConditions) take precedence over any conflicting Policy provision. We may change our Privacy and Security Policy at any time by posting a new version of the policy on this page which it is your responsibility to review frequently.   
-Third-party Advertising   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp   
-Contacting Tradesy   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via e-mail, or by regular mail at:   
-Tradesy   
-2700 Neilson Way, Suite 126   
-Santa Monica, CA 90405   
-(323) 356-0649   
+This Privacy Policy governs the manner in which Recycled Media Inc collects, uses, maintains and discloses information collected from users (each, a "User") of the www.tradesy.com website ("Site").This privacy policy applies to the Site and all products and services offered by Recycled Media Inc.
 
+## Personal identification information
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously.We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+## Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+## Web browser cookies
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## How we use collected information
+
+Recycled Media Inc may collect and use Users personal information for the following purposes:
+
+### To improve customer service
+
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+
+### To personalize user experience
+
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+### To improve our Site
+
+We may use feedback you provide to improve our products and services.
+
+### To process payments
+
+We may use the information Users provide about themselves when placing an order only to provide service to that order.We do not share this information with outside parties except to the extent necessary to provide the service.
+
+### To run a promotion, contest, survey or other Site feature
+
+To send Users information they agreed to receive about topics we think will be of interest to them.
+
+### To send periodic emails
+
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+## How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+## Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others.We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys.We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+## Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties.We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing.These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+## Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies.These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer.This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.This privacy policy does not cover the use of cookies by any advertisers.
+
+## Google Adsense
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc.You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/ privacy_ads.html](http://www.google.com/%20privacy_ads.html)
+
+## Changes to this privacy policy
+
+Recycled Media Inc has the discretion to update this privacy policy at any time.When we do, we will revise the updated date at the bottom of this page.We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site.Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Recycled Media Inc
+
+2700 Neilson Way, Suite 126
+
+￼￼￼
+
+Santa Monica, CA 90405 
+
+323.356.0649 
+
+team@tradesy.com
+
+This document was last updated on October 11, 2012
