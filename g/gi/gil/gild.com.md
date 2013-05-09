@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228164706id_/http%3A//www.gild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509074153id_/http%3A//www.gild.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -6,12 +6,16 @@ Gild understands that privacy is important. This Privacy Policy applies to any a
 
 By using the Gild Service, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Gild Service Terms of Use.  Your use of the Gild Service and any personal information you provide through the Gild Service are subject at all times to this Privacy Policy and the Terms of Use.
 
+ 
+
 ## Table of Contents
+
+ 
 
   1. The Information Gild Collects
   2. The Way Gild Uses Information
   3. When Gild Discloses Information
-  4. [Your Choices](https://web.archive.org/#4 "Your Choices")
+  4. Your Choices
   5. Advertisers
   6. Data Security
   7. Children’s Privacy
@@ -22,7 +26,7 @@ By using the Gild Service, you expressly consent to the information handling pra
   12. Effective Date, Date Last Modified
   13. Gild Contact Information
 
-
+ 
 
 ### ****
 
@@ -37,7 +41,9 @@ By using the Gild Service, you expressly consent to the information handling pra
   * “Pixel Tags” or “Clear Gifs”: A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Gild Service but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
   * Information from Other Sources:  We may also obtain information, including personal information, from third parties and sources other than the Gild Service. If we combine or associate information from such other sources with personal information that we collect through the Gild Service, we will treat the combined information as personal information in accordance with this Privacy Policy.
 
+ 
 
+### ****
 
 ### The Way Gild Uses Information:
 
@@ -48,11 +54,11 @@ back to top ^
   * Gild uses the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Gild Service works and looks, to create new features and functionality.
   * Gild may use “Automatically Collected” information and “Cookies” information to:  (a) automatically update the Gild application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Gild Service; (c) provide customized third-party advertisements, content and information; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities.
 
-
+ 
 
 ### When Gild Discloses Information:
 
-back to top ^
+****back to top ^
 
   * Gild does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent.  Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Gild Service becomes publicly available and may be collected and used by others without restriction.
   * Additionally, in order to enable potential hiring parties to find and hire you, the Gild Service allows recruiters, employers, hiring managers, headhunters, and human resources professionals to view and search user profiles on the Gild Service. The information shared with such entities may include the information you have provided to us or that we have otherwise collected about you, as well as any Assessments you have taken on the Gild Service.
@@ -61,19 +67,23 @@ back to top ^
   * Gild may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. copyright or trademark law) or respond to a court order, subpoena, judicial or other government requirement, or warrant in the manner required by the requesting entity.
   * Gild also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; protect Gild from fraudulent, abusive, or unlawful uses; to initiate, render, bill and collect for amount owed to Gild; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Gild Service; or to protect the rights, property, or personal safety of Gild, our Users, or others.
 
+ 
 
+### ****
 
 ### Your Choices and Access to your Personal Information:
 
-back to top ^
+****back to top ^
 
 You may, of course, decline to share your personally-identifiable information with Gild, in which case Gild will not be able to provide to you some of the features and functionality found on the Gild Service. Additionally, please be aware that even if you do not provide us with personal information directly, we may nonetheless have prepared a user profile pertaining to you that we have collected from third-party sources.  You may view, update, correct, or delete your user information and preferences, including any user profile that we maintain about you, by contacting us at privacy@gild.com. We may take steps to verify your identity before providing you access to view, update, correct, or delete your personal information. Gild reserves the right to retain and use the information that we collect in a way that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; or protect Gild or its users from fraudulent, abusive, or unlawful uses.
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information.  You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
+ 
+
 ### **Advertisers:**
 
-back to top ^
+****back to top ^
 
 Gild allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Gild Service.  These third-party ad servers or ad networks may use technology to send, directly to your browser, the advertisements that appear within the Gild Service and they automatically receive your IP Address and other log file information when this happens.  Such third-party ad servers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
 
@@ -81,17 +91,21 @@ Gild does not provide your personally identifiable information to these third-pa
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks.  This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Gild reserves the right the add or remove third-party ad networks or ad servers in its discretion and Gild may not at all times list such updated ad network or ad server partners in this Privacy Policy.
 
+ 
+
 ### **Our Commitment to Data Security:**
 
-back to top ^
+****back to top ^
 
 Gild uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you transmit to Gild, and you do so at your own risk.  Once we receive your transmission of information, Gild makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 If Gild learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Gild may post a notice on the Gild Service if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach you should notify us at [privacy@gild.com](mailto:privacy@gild.com).
 
+ 
+
 ### **Our Commitment to Children’s Privacy:**
 
-back to top ^
+****back to top ^
 
 You must be over the age of 18 to use and/or access the Gild Service.
 
@@ -101,40 +115,52 @@ Protecting the privacy of young children is especially important.  For that rea
 
 If you are the parent or legal guardian of a child under 13 who has become a Gild Service member, then please contact Gild at [privacy@gild.com](mailto:privacy@gild.com) to have that child’s account terminated and information deleted.
 
+ 
+
 ### **International Visitors:**
 
-back to top ^
+****back to top ^
 
 For Users visiting the Gild Service from the European Union or other non-U.S. territories, please note that any data you enter into the Gild Service will be transferred outside the European Union or such other non-U.S. territory for use by Gild and its affiliates for any of the purposes described herein.  In addition, because Gild operates globally, we may make information we gather available to worldwide business units and affiliates.  By providing any data on the Gild Service, you hereby expressly consent to such transfers of your data to the United States or other countries.
 
+ 
+
 ### **In the Event of Merger or Sale:**
 
-back to top ^
+****back to top ^
 
 In the event that Gild is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
 
+ 
+
 ### **Third Parties:**
 
-back to top ^
+****back to top ^
 
 Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from you or that you disclose to us. If you disclose your information to others besides Gild, whether they are users of the Gild Service or on other sites or services, different rules may apply to their use or disclosure of the information you disclose to them. Gild does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
 
+ 
+
 ### **Changes and Updates to this Privacy Policy:**
 
-back to top ^
+****back to top ^
 
 This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a “last modified” date below.  Please revisit this page to stay aware of any changes.  In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information.  Your continued use of the Gild Service constitutes your agreement to this Privacy Policy and any future revisions.
 
 For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
 
+ 
+
 ### **Effective Date, Date Last Modified:**
 
-back to top ^
+****back to top ^
 
 Privacy Policy last modified on May 9, 2012.
 
+ 
+
 ### **Gild Contact Information:**
 
-back to top ^
+****back to top ^
 
-Please contact Gild with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 660 Third Street, San Francisco, CA or by email: [privacy@gild.com](mailto:privacy@gild.com).  We will respond to your inquiry within 30 days of its receipt.
+Please contact Gild with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 221 Main Street Suite 970, San Francisco, CA or by email: [privacy@gild.com](mailto:privacy@gild.com).  We will respond to your inquiry within 30 days of its receipt.
