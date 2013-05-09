@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mwave.com.au privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017181321id_/http%3A//www.mwave.com.au/privacy.asp%3FCartID%3DmAU%40SSCIQ9N8P2K295I6MCJNKS4EJKR74OPCGTYREBB9E37DO6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwave.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509162814id_/http%3A//www.mwave.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Buy Computer Parts, PC Components, Notebooks, Digital Cameras and Elec
+# Customer Service Help & Support Centre
+
+##  Privacy Policy
 
 This privacy statement discloses the privacy practices for Mwave Australia. If you have questions or concerns regarding this statement, please e-mail us at [sales@mwave.com.au](mailto:sales@mwave.com.au)
 
@@ -18,7 +20,8 @@ Mwave Australia uses the industry standard security protocol Secure Sockets Laye
 
 More Privacy Terms...
 
-Mwave Australia has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Mwave Australia. Any changes or updates to our privacy practices will be updated through our website.   
+Mwave Australia has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Mwave Australia. Any changes or updates to our privacy practices will be updated through our website. 
+
 **Registration**  
 Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor in the event of a problem when processing an order. For example, problems with credit card verification, product availability, etc. Users have a choice of receiving future mailings; during the registration process. 
 
@@ -26,14 +29,14 @@ Our site's registration form requires users to give us contact information (like
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), and financial information (like their account or credit card numbers). The customer's contact information is used to get in touch with the visitor when necessary. i.e, in the event there is a problem processing an order, corporate changes, or changes in privacy practices. Financial information that is collected is used to bill the user for products and services. The customer ID numbers are assigned to Web site visitors to verify the user's identity and for use as account numbers in our record system. 
 
   
-**Links/3rd Parties**  
+**Links/3rd Parties**   
 This site contains links to other sites. Mwave Australia is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
   
 Mwave Australia is the sole collector of information, and is not shared with any 3rd parties. However, we do offer printable rebate forms and warranty information. Mwave Australia is not responsible for the privacy practices of those companies. Please review their respective privacy statements. 
 
   
-**Security**  
+**Security**   
 This website takes every precaution to protect our users information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just surfing. 
 
   
@@ -55,7 +58,7 @@ You can send email to: [sales@mwave.com.au](mailto:sales@mwave.com.au)
   
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.   
-web site: [Update/Modify Account Information](https://web.archive.org/web/20121017181321id_/http%3A//www.mwave.com.au/myaccount.asp?)   
+web site: [Update/Modify Account Information](https://web.archive.org/myaccount/settings)   
 email: [sales@mwave.com.au](mailto:sales@mwave.com.au)
 
   
