@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zeemind.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031014056id_/http%3A//www.zeemind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeemind.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509061956id_/http%3A//www.zeemind.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-The following privacy policy is licensed under the [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ### Website Visitors
 
@@ -47,3 +45,5 @@ Third party vendors, including Google, use cookies to serve ads based on your pr
 Although most changes are likely to be minor, Zeemind may change its Privacy Policy from time to time, and in Zeemind’s sole discretion. Zeemind encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 Thanks for reading our privacy policy. Don't forget to check out [Automattic](http://automattic.com/), purveyors of only the finest web software. For example, [Wordpress](http://www.wordpress.com/) is a handy free blog service with reasonably-priced upgrades. 
+
+This privacy policy is licensed under the [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/).
