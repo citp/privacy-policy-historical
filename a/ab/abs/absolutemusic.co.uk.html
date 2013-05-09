@@ -1,613 +1,1031 @@
-<!--The following is the downloaded HTML source of the absolutemusic.co.uk privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223090812id_/http%3A//www.absolutemusic.co.uk/store/info/privacy-policy-4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the absolutemusic.co.uk privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509025102id_/http%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<title>Privacy Policy - Absolute Music UK Online Store</title>
-<base href="http://www.absolutemusic.co.uk/store/"><!--[if IE]></base><![endif]-->
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Absolute Music Privacy Policy">
-<meta name="keywords" content="recording, music, live sound, pa, synths, modules, korg, roland, yamaha, gibson, washburn">
-
-<meta property="og:title" content="Privacy Policy - Absolute Music UK Online Store">
- <meta property="og:site_name" content="Absolute Music Online Store">
- <meta property="fb:admins" content="634295466,110757378953492">
-  <meta property="fb:app_id" content="110757378953492">
- <meta property="og:description" content="Absolute Music Online Store and Community ">
-
-
-
-<link rel="SHORTCUT ICON" href="/store/images/AMS/favicon.ico">
-
-<!-- TradeDoubler site verification 1842296 -->
-
-
-
-<script language="javascript" type="text/javascript">
-<!-- prevent validation errors and older browser freak-outs :-)
-//Products Slideshow
-//Homepage Slideshow
-
-var homeimages=new Array()
-homeimages[0]=["/store/images/slides/warrantydelivery.jpg", "http://www.absolutemusic.co.uk/store/info/delivery-7", ""]
-homeimages[1]=["/store/images/slides/warrantydelivery.jpg", "http://www.absolutemusic.co.uk/store/info/delivery-7", ""]
-homeimages[2]=["/store/images/slides/xmasstore.jpg", "http://www.absolutemusic.co.uk/store/christmas-store-51/", ""]
-homeimages[3]=["/store/images/slides/hire2.jpg", "http://www.absolutemusic.co.uk/store/info/hire-32", ""]
-homeimages[4]=["/store/images/slides/financexmas.jpg", "http://www.absolutemusic.co.uk/community/content/40-0-percent-Finance-from-Roland", ""]
-homeimages[5]=["/store/images/slides/palmtrack.jpg", "http://www.absolutemusic.co.uk/store/recording-47/2-track-recording-478/alesis-palmtrack-portable-stereo-recorder-17495", ""]
-homeimages[6]=["/store/images/slides/videotrack.jpg", "http://www.absolutemusic.co.uk/store/recording-47/2-track-recording-478/alesis-videotrack-17531", ""]
-homeimages[7]=["/store/images/slides/abletonxmas2.jpg", "http://www.absolutemusic.co.uk/store/?searchStr=cc4_live8&_a=viewCat", ""]
-homeimages[8]=["/store/images/slides/sontronics2.jpg", "http://www.absolutemusic.co.uk/store/?searchStr=cc4_capsuleoffer&_a=viewCat", ""]
-homeimages[9]=["/store/images/slides/warrantydelivery.jpg", "http://www.absolutemusic.co.uk/store/info/delivery-7", ""]
-
-var fadebgcolor=""
-
-var fadearray=new Array() //array to cache fadeshow instances
-var fadeclear=new Array() //array to cache corresponding clearinterval pointers
- 
-var dom=(document.getElementById) //modern dom browsers
-var iebrowser=document.all
- 
-function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
-this.pausecheck=pause
-this.mouseovercheck=0
-this.delay=delay
-this.degree=10 //initial opacity degree (10%)
-this.curimageindex=0
-this.nextimageindex=1
-fadearray[fadearray.length]=this
-this.slideshowid=fadearray.length-1
-this.canvasbase="canvas"+this.slideshowid
-this.curcanvas=this.canvasbase+"_0"
-if (typeof displayorder!="undefined")
-theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
-this.theimages=theimages
-this.imageborder=parseInt(borderwidth)
-this.postimages=new Array() //preload images
-for (p=0;p<theimages.length;p++){
-this.postimages[p]=new Image()
-this.postimages[p].src=theimages[p][0]
-}
- 
-var fadewidth=fadewidth+this.imageborder*2
-var fadeheight=fadeheight+this.imageborder*2
- 
-if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
-document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden; border: 0;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'; border: 0;"><\/div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'; border: 0;"><\/div><\/div>')
-else
-document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'" border="0"><\/div>')
- 
-if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
-this.startit()
-else{
-this.curimageindex++
-setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
-}
-}
-
-function fadepic(obj){
-if (obj.degree<100){
-obj.degree+=10
-if (obj.tempobj.filters&&obj.tempobj.filters[0]){
-if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
-obj.tempobj.filters[0].opacity=obj.degree
-else //else if IE5.5-
-obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
-}
-else if (obj.tempobj.style.MozOpacity)
-obj.tempobj.style.MozOpacity=obj.degree/101
-else if (obj.tempobj.style.KhtmlOpacity)
-obj.tempobj.style.KhtmlOpacity=obj.degree/100
-else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
-obj.tempobj.style.opacity=obj.degree/101
-}
-else{
-clearInterval(fadeclear[obj.slideshowid])
-obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
-obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
-obj.populateslide(obj.tempobj, obj.nextimageindex)
-obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
-setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
-}
-}
- 
-fadeshow.prototype.populateslide=function(picobj, picindex){
-var slideHTML=""
-if (this.theimages[picindex][1]!="") //if associated link exists for image
-slideHTML='<a href="'+this.theimages[picindex][1]+'">'
-slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
-if (this.theimages[picindex][1]!="") //if associated link exists for image
-slideHTML+='<\/a>'
-slideHTML+='<br />'
-
-picobj.innerHTML=slideHTML
-}
- 
- 
-fadeshow.prototype.rotateimage=function(){
-if (this.pausecheck==1) //if pause onMouseover enabled, cache object
-var cacheobj=this
-if (this.mouseovercheck==1)
-setTimeout(function(){cacheobj.rotateimage()}, 100)
-else if (iebrowser&&dom||dom){
-this.resetit()
-var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
-crossobj.style.zIndex++
-fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
-this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
-}
-else{
-var ns4imgobj=document.images['defaultslide'+this.slideshowid]
-ns4imgobj.src=this.postimages[this.curimageindex].src
-}
-this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
-}
- 
-fadeshow.prototype.resetit=function(){
-this.degree=10
-var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
-if (crossobj.filters&&crossobj.filters[0]){
-if (typeof crossobj.filters[0].opacity=="number") //if IE6+
-crossobj.filters(0).opacity=this.degree
-else //else if IE5.5-
-crossobj.style.filter="alpha(opacity="+this.degree+")"
-}
-else if (crossobj.style.MozOpacity)
-crossobj.style.MozOpacity=this.degree/101
-else if (crossobj.style.KhtmlOpacity)
-crossobj.style.KhtmlOpacity=this.degree/100
-else if (crossobj.style.opacity&&!crossobj.filters)
-crossobj.style.opacity=this.degree/101
-}
- 
- 
-fadeshow.prototype.startit=function(){
-var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
-this.populateslide(crossobj, this.curimageindex)
-if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
-var cacheobj=this
-var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
-{crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}}
-{crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}}
-}
-this.rotateimage()
-}
--->
-</script>
-
-
-<link href="skins/Neutrino/php/compress.php?get=../styleSheets/layout.css||../styleSheets/fancy.css" rel="stylesheet" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="Absolute Music New Products" href="feed://www.absolutemusic.co.uk/store/rss2.php?maxdesc=500&amp;limit=10&amp;thumb">
-<script type="text/javascript" src="suggestivesearch/suggestivesearch.js"></script>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Absolute Music | privacy polcy</title>
+<meta name="description" content="Welcome to Absolute Music. We are one of the UK's leading retailers of specialist recording and musical equipment. Based in the south of England we deliver to clients throughout the UK and Europe.">
+<meta name="keywords" content="recording, music, live sound, pa, synths, modules, studios, rehearsal studios, Ableton, Access, Acousti Pro, Adam, Akai, Akg, Alesis, Allen &amp; Heath, Allparts, Altavoz, Alto, Ampeg, Ams Neve, Animazoo, Antares, Apc, Aphex, Apogee, Apple, Arkaos, Arobas, Art, Arturia, Ashdown, Ask Video, Audioease, Audiotechnica, Audix, Auralex, Avalon, Avl Solutions, Backbeat, Benedetto, Best Service, Beyerdynamic, Bias, Big Fish Audio, Bitshift, Blade, Blue, Blue Sky, Bodyglove, Bornemark, Boss, Bricasti, Bryston, Bss, Buzz Audio, C-Lab, Cakewalk, Canopus, Carl Martin, Carlsbro, Cb Drums, Celemony, Celestion, China Cones, Clavia, Clavia Nord, Clayton, Cme, Coda, Cort, Creamware, Csl Musitrak, Cycling ‘74, D’addario, Danelectro, Dave Smith, David Eden, Db Technologies, Dbx, Denon, Dgc, Digidesign, Digitech, Direct Sound, Dk Technologies, Dpa, zzz no, Dr Bott, Dr Strings, Drumcore, Dunlop, Dynamix, Dynaudio, E-Lab, Eastwest, Eaw, Echo, Edirol, Egosys, Electroharmonix, Electrovoice, Elixir, Emagic, Emu, Eno, Epiphone, Equipped Music, Ernie Ball, Esi, Etek, Event, Evolution, Exspect, Fabfilter, Fender, Fishman, Focusrite, Formac, Fostex, Freestyle, Frontier Design, Fulltone, Fun, Furman, Fxpansion, G Force, Garritan, Gator, Genelec, Ghs, Gibraltar, Gibson, Gigskinz, Graphtech, Gretsch, Grm Tools, Groove Tubes, Guild, Guvnor, Hafler, Hagstrom, Hamer, Hartke, Hartmann, Hercules, Hhb, Hiscox, Hk Audio, Horizon, Hosa, Hughes &amp; Kettner, I3, Ibanez, Ik Multimedia, Ilio, Ion, Izotope, Jetflash, Jhs, Johnson, Kawai, Keeley, Kenton, Keytosound, Kingston, Kluson, Konig And Meyer, Korg, Krk, Kurzweil, Kyser, La Cie, Laney, Lem, Lexicon, Line 6, Linplug, Logic, Loopmasters, Lucid, M-Audio, Mach, Mackie, Magma, Manley, Marantz, Marshall, Martin, Martin Professional, May, Mcdsp, Metric Halo Labs, Mimic, Mission Pro, Morley, Motu, Mtr, Muse, Music Man, Musiclab, Musicman, Mxl Marshall Electronics, Mxr, Native Instruments, Neumann, Neutrik, New Sampling Generation, Nht Pro, Nine Volt Audio, Novation, Numark, On Stage, Opcode, Orange, Pace, Parker, Patrick Eggle, Paul Reed Smith, Pedulla, Philips, Phonic, Plane Quiet, Planet Waves, Plugsound, Pmc, Presonus, Primacoustic, Primesound, Proco, Prodipe, Proel, Propellerhead, Prs, Pvdj, Quested, Quiklok, Rally, Rcf, Realtraps, Rickenbacker, Ritter, Rks, Rme, Rob Papen, Rode, Roger Linn, Roksak, Roland, Roth Audio, Rotosound, Rupert Neve, Samplelab, Samson, Samsung, Scanner, Scarbee, SE Electronics, Seagate, Secrets Of The Pros, Seiko, Sennheiser, Serato, Seymour Duncan, Shine, Shubb, Shure, Sibelius, Signex, Sonic Implants, Sontronics, Sony Oxford, Sony Pictures, Sound Devices, Soundcraft, Soundtech, Soundtoys, Spectrasonics, Sperzel, Spirit, Spl, Ssl, Stagg, Stedman, Steinberg, Steinberg Mtm, Studiomaster, Superlux, Symetrics, Synchro Arts, Synthogy, Tacoma, Tannoy, Tascam, Taylor, TC Electronic, Tc-Helicon, Tech 21, Technics, Tekniks, Terratec, Tf Pro, Thd, Tkl, Tl Audio, Tobias, Tom Anderson, Toneworks, Toontrack, Transcebd, Transcend, Traps, Turtle Beach, U&amp;I, Ueberschall, Ultimate, Ultimate Sound Bank, Ultimate Support, Universal Audio, Vdc, Vic Firth, Vienna, Vienna Vsl, Violet Design, Virsyn, Void Acoustics, Vox, Vsl, Waldorf, Warwick, Washburn, Wave Machine Labs, Waves, Wizoo, Xix, Xln, Xxl Inside, Yamaha, Yellow Tools, Zaolla, Zero-G, Zinky, Zon, Zoom, Elites, Schaller, Kinsman, Dixon, Rufus' Stuff, Rufus 2, Mesa Boogie, Radial, Jbl, Sound City, Way Out Ware, Telefunken, Softube, Eventide, Paiste, Serenade, Amt, G&amp;L, Alembic, Steinberger, Markbass, Centrance, Wave Arts, Fujitsu, Cover Over Covers, Remo, Showtec, Eks, Modulus, Blue Coconut, Sample Logic, Esp, Acoustic Energy, Peterson, Paul Cochrane, Barber, Euphonix, Casio, Alvarez, Bach, Buffet, Jupiter, Prelude By Selmer, Prelude By Bach, Tapco, Encore, Pearl, Electro-Voice, Selmer, Elkhart, Adler, Gemeinhardt, E-Mu, Yanagisawa, Aria, Joe Meek, Motion Sound, Gallien-Krueger, Chanson, Crate, Hammond, Superscope, Arbiter, Mapex, Brunswick, Lag, Brian May, G-Technology, Bose, Stanton, Studiologic, Prodipe, Qsc, Michael Kelly, Blackheart, Mutekki, Ebow, Pioneer, Olympus, Leslie, Falcon, Moog, Acme, Bck, Isolution, Visio, Ledj, Protex, Equinox, Use Audio, Earthfire, Omnirax, Rhino, Empirical, Sonic Core, Lorenzo, G-Technology, Rhodes, Electrix, Huss &amp; Dalton, Jazzmutant, Gould, Giraffe, Drawmer, Schertler, Trantec, Ns Design, Kensington, Turbosound, Musictech , Ghost, Rosendahl, Sho-Bud, Bigsby, Vir2, Project Sam, Overwater, Heavyocity, Supreme, Global Truss, Jackson, Kramer, Bigdog, Overloud, Test, Grover, Tyrestor, Lucida, Fernandez, Mania, Honer, Perris Leather, Z, Pro-Signal, Ld Systems, String Swing, Brian Moore Guitars, Prism, Hao, Way Huge Electronics, Randall, Sonic Reality, Wittner, Rane, Dynacord, 2box, Focal, Mtd, Peavey, Genart, Guitarman, Collings, Joeco, Sabian, Avantone, Roscoe, Pignose, , Bayquest, Glyph, Lr Baggs, Dpd, Notion, Sadowsky, Skytec, Skb, Sony, Memory, Crown, Fogtec, Adam Hall, Hewlett Packard, Microsoft, Toshiba, N-Tune, F Bass, Swanflight, Transcension, Larrivee, Gotoh, Itab, Jamhub, National, Ca, Hohner, Morpheus, Rocknroller, Godin, Cpc, Zt, Api, Flightcase Warehouse, Road Ready Cases, Surgex, Audiospares, Warrior Audio, Brace Audio, Eigenlabs, Music Sales, Throbak, Menatone, Buddah, Catalinbread, Blackstar, Mc2, Xcg, Sterling By Music Man, Aeromic, Cpc, Medialas, Rebeat, Dean, Avid, Breedlove, Jenart, Sample Magic, Poole Percussion, not in use, EBS, Spector, Big Jd, Evans, Prosound, Puresound, De Gregorio, Vater, Ludwig, Cad, Natal, Br Distribution, Shaw, Protection Racket, Roc N Soc, Groove Juice, Aquarian, Powerdrive, Music Safe Pro, Alpine, Steven Slate Drums Ssd, Slate Digital, Meinl, Music Shipping, , Dobro, Craig Blundell, Alan Parsons, Gen16 By Zildjan, Abm, Ikey Audio, Gemini, Ahead, Granite, Jerry Jones, Dap Audio, Kickport, SuperNova, Crane, Pigtronix, Zvex, Dw - Drum Workshop, Test3, Test4, Test5, Test7, Worldmax, Timbertones, Logjam Music, Wuhan, Flix, Gope, G7th, Techtonic, Mono, Toca, Levys Leather, , Duende, Sonodyne, Crash Pad, Istanbul, Walton, Voodoo Lab, Softapads, Neo Instruments, Two Notes,  Hearos, Futz, Nino, Dav Electronics, , Percussion Plus, Drumdial, Drumport, Woodstock, Vestax, Promark, Emedia, Zildjian, Freshtone, Fusion, Premier Drums, Latch Lake, Tube-Tech, Lavry, Chalklin, Hardcase, Eagle Mountain, Sonoma, Universal Acoustics, Ampetronic, Pocketlabworks, Overtone Labs, Cympad, E.w.s., Froggy Bottom, Pedaltrain, Latin Percussion, Tanglewood, Qcn, bfpo">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/favicon.ico" type="image/x-icon">
+<link href="//fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://media.absolutemusic.co.uk/media/css/d773076eca58cbc5a488bb09e080d8fd.css">
+<link rel="stylesheet" type="text/css" href="http://media.absolutemusic.co.uk/media/css/7575343b13ddadef963137a428992def.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://media.absolutemusic.co.uk/media/css/a6552e64dfd4a9c42b772e6ffd10bab2.css" media="print">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all/debug.js"></script><script type="text/javascript" src="http://media.absolutemusic.co.uk/media/js/ba7b64fb180884fc267d64d2590fdd3f.js"></script>
 <script type="text/javascript">
-<!--
-window.onload=function() { document.onclick=function() { document.getElementById('suggestivesearch').style.display='none'; }; };
-//-->
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.absolutemusic.co.uk';
+//]]>
 </script>
-
-<script language="javascript" type="text/javascript">
-	// Don't edit these variables!
-	var rootRel = "/store/";
-	var gridViewPath = rootRel + "skins/Neutrino/php/compress.php?get=../styleSheets/gridView.css";
-</script>
-<script type="text/javascript" src="skins/Neutrino/php/compress.php?get=../javascript/jslibrary.js||../javascript/jquery.js||../javascript/jquery.form.js||../javascript/jquery.cookie.js||../javascript/jquery.fancybox-1.2.1.js||../javascript/shopdev_effects.js"></script>
-<script type="text/javascript" src="skins/Neutrino/php/compress.php?get=../javascript/jquery.min.js||../javascript/fadeslideshow.js"></script>
-<!-- start mod - Common code for: Text Input Mod, Force Selection of Product Options, Fully Flexible Contact Forms -->
-<script type="text/javascript" src="modules/3rdparty/Estelles_Mod_Store/js/jquery.validate.pack.js"></script>
-<link rel="stylesheet" type="text/css" href="modules/3rdparty/Estelles_Mod_Store/css/validation.css">
-<!-- end mod - Common code - http://cubecart.expandingbrain.com -->
-
-<!-- start mod - Common code for: Fully Flexible Contact Forms, Advanced Contact Forms -->
-<script type="text/javascript" src="modules/3rdparty/Estelles_Mod_Store/js/set_selection.js"></script>
-<!-- end mod - Common code - http://cubecart.expandingbrain.com -->
-
-<!--[if lte IE 6]>
-<link href="skins/Neutrino/php/compress.php?get=../styleSheets/ie6.css" rel="stylesheet" type="text/css" />
-<script language="javascript" type="text/javascript"> 
-    $(document).ready(function(){ 
-        $(':visible').hover(function() {
-          $(this).addClass('hover');
-        }, function() {
-          $(this).removeClass('hover');
-        });
-    });
-</script> 
-<![endif]-->
-<!--[if IE 7]>
-<link href="skins/Neutrino/php/compress.php?get=../styleSheets/ie7.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<style type="text/css">
-<!--
-#pageSurround .footer p a {
-	text-align: center;
-}
--->
-</style>
-
-
 <script type="text/javascript">
-
-var mygallery=new fadeSlideShow({
-	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
-	dimensions: [175, 177], //width/height of gallery in pixels. Should reflect dimensions of largest image
-	imagearray: [
-		["/store/images/AMS/adverts/mdf5_vox2.jpg", "/store/?searchStr=cc4_mini3&amp;_a=viewCat", "", "VOX MINI3 - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_bose2.jpg", "/store/?searchStr=cc4_bose_mdf&amp;_a=viewCat", "", "BOSE - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_mxr2.jpg", "/store/?searchStr=cc4_mxr_pedal&_a=viewCat&amp;_a=viewCat", "", "MXR PEDALS - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_rode2.jpg", "/store/?searchStr=cc4_nt1a&_a=viewCat", "", "RODE - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_komplete2.jpg", "/store/?searchStr=cc4_komplete7&amp;_a=viewCat", "", "KOMPLETE7 - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_saffire2.jpg", "/store/?searchStr=cc4_saffire&amp;_a=viewCat", "", "FOCUSRITE SAFFIRE - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_voxguard2.jpg", "/store/?searchStr=cc4_voxguard&_a=viewCat", "", "VOXGUARD - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_line62.jpg", "/store/?searchStr=cc4_podhd&amp;_a=viewCat", "", "LINE 6 POD HD - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_steinberg2.jpg", "/store/?searchStr=cc4_steinberg_usb&_a=viewCat", "", "STEINBERG USB INTERFACES - CLICK FOR DETAILS!"],
-		["/store/images/AMS/adverts/mdf5_mackie2.jpg", "/store/live-sound-light-48/pa-speakers-481/active-pa-speakers-4811/mackie-hd1221-2-way-active-pa-speaker-600w-rms-23853","MACKIE HD1221!"],
-		["/store/images/AMS/adverts/mdf5_voodoo2.jpg", "/store/?searchStr=cc4_voodoo&amp;_a=viewCat", "", "SE ELECTRONICS VOODOO - CLICK FOR DETAILS!"]
-	],
-	displaymode: {type:'auto', pause:2500, cycles:0, wraparound:false, randomize:true},
-	persist: true, //remember last viewed slide and recall within same session?
-	fadeduration: 500, //transition duration (milliseconds)
-	descreveal: "ondemand",
-	togglerid: ""
-})
-
-
+//<![CDATA[
+optionalZipCountries = ["IE"];
+//]]>
 </script>
-
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=9969963"></script></head><body onload="initialiseMenu();">
-<div id="pageSurround">
-  <div id="subSurround">
-    <div id="topHeader"> <a href="http://www.absolutemusic.co.uk/store/" title="Home"> <img src="images/getLogo.php?skin=Neutrino" alt="Home" style="position:absolute; left:4px; top:0px; border:none;"> </a>
-      <div id="shoppingCart"> <a href="http://www.absolutemusic.co.uk/store/shopping-cart/" title="Shopping Cart"> <img src="skins/Neutrino/styleImages/IE6/itemsInCart.gif" alt="Shopping Cart" style="border:none; float:right; padding-top:0px; padding-left:6px;" width="155" height="56"> </a> <span id="ajaxCart" style="display:block;">
-<a href="http://www.absolutemusic.co.uk/store/shopping-cart/" style="display:block;" class="ajaxCart">0</a>
-</span> <a href="http://www.absolutemusic.co.uk/store/shopping-cart/" title="Shopping Cart"> <img src="skins/Neutrino/styleImages/IE6/cartIcon.gif" alt="Shopping Cart" id="cartIcon" style="border:none; float:right; padding-right:5px; padding-top:4px;" width="36" height="44"> </a> </div>
-    </div>
-    <div id="topMenu">
-      <ul id="siteDocs">
-        <li><a href="http://www.absolutemusic.co.uk/store/" class="current" target="_self">Shop</a></li>
-<li><a href="../community/content.php" target="_self">News</a></li>
-<li><a href="../community/blog.php" target="_self">Blog</a></li>
-<li><a href="../community/forum.php" target="_self">Forum</a></li><li>
-</li><li><a href="http://www.absolutemusic.co.uk/store/info/about-1">About</a></li>
-
-<li><a href="http://www.absolutemusic.co.uk/store/info/contact-2">Contact</a></li>
-
-<li><a href="http://www.absolutemusic.co.uk/store/info/delivery-7">Delivery</a></li>
-
-<li><a href="http://www.absolutemusic.co.uk/store/info/service-18">Service</a></li>
-
-<li><a href="http://www.absolutemusic.co.uk/store/info/events-31">Events</a></li>
-
-<li><a href="http://www.absolutemusic.co.uk/store/info/hire-32">Hire</a></li>
-
-        
-
-<li><a href="http://www.absolutemusic.co.uk/store/account/login?redir=%2Fstore%2Findex.php%3F_a%3DviewDoc%26docId%3D4" class="btnLogin">Login</a></li>
-<li><a href="http://www.absolutemusic.co.uk/store/account/new-user?redir=%2Fstore%2Findex.php%3F_a%3DviewDoc%26docId%3D4" class="btnRegister">Register</a></li>
-<br clear="all">
-
-
-
-
-      </ul>
-      
-<div id="searchForm">
-<form action="http://www.absolutemusic.co.uk/store/" method="get" name="searchForm" id="searcher">
-<input name="searchStr" autocomplete="off" onkeyup="showResult(this.value)" type="text" class="searchInput" id="searchStr" onfocus="if(this.value=='search...') this.value='';" onblur="if(this.value=='') this.value='search...';" value="search..." size="20">
-<input type="hidden" name="_a" value="viewCat">
-<br><div class="iesfix"><div id="suggestivesearch" class="suggestivesearch"></div></div>
-</form>
-</div>
- </div>
-    <div class="colLeft"> 
-    <div id="fadeshow1"></div><br>
-      <div class="sidebox">
-<div class="boxTitleLeft"><img src="skins/Neutrino/styleImages/backgrounds/sideBox_Products.png" width="175" height="26" alt="Shop by Category" class="noCollapse"><div class="expand"></div></div>
-<div class="boxContentLeft">
-  <ul class="mainmenu-nav">
-    
-        
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/christmas-store-51/" class="txtDefault">Christmas Store</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/brands-46139/" class="txtDefault">Brands</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/computer-music-46/" class="txtDefault">Computer music</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/dj-gear-30/" class="txtDefault">DJ Gear</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/drums-20/" class="txtDefault">Drums</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/ex-display-secondhand-600/" class="txtDefault">Ex-display &amp; secondhand</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/guitar-department-45/" class="txtDefault">Guitar Department</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/fender-guitars-2/" class="txtDefault">Fender Guitars</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/epiphone-guitars-1/" class="txtDefault">Epiphone Guitars</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/gibson-guitars-3/" class="txtDefault">Gibson Guitars</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/gretsch-guitars-4/" class="txtDefault">Gretsch Guitars</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/keyboards-10/" class="txtDefault">Keyboards</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/live-sound-light-48/" class="txtDefault">Live sound &amp; light</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/miscellaneous-49/" class="txtDefault">Miscellaneous</a>
-            </li>
-      
-      
-    
-    
-            <li class="li-nav">
-      
-      	<a href="http://www.absolutemusic.co.uk/store/recording-47/" class="txtDefault">Recording</a>
-            </li>
-      
-      
-    
-    
-        <li class="li-nav"><a href="http://www.absolutemusic.co.uk/store/sale-items/" class="txtDefault">Sale Items</a></li>
-    
-  </ul>
-  <br clear="all">
-</div>
-<div class="sideBoxBottom"></div>
-</div>
-
-      
-
-<div class="sidebox">
-
-<div class="boxTitleLeft"><img src="skins/Neutrino/styleImages/backgrounds/sidebox_useful.png" width="175" height="26" alt=""><div class="expand"></div>
-</div>
-  <div class="boxContentLeft">
-    <div style="margin:5px; font-size:11px; color:#7E7E7E;">
-        <a href="/store/index.php/email-signup/i_36.html">Subscribe &amp; Save!</a><br>
-        <a href="/store/index.php/about/i_1.html">About Us</a><br>
-        <a href="/store/index.php/Terms-and-Conditions/i_3.html">Terms and Conditions</a><br>
-        <a href="/store/index.php/WEEE/i_26.html">WEEE Information</a><br>
-        <a href="/store/index.php/Affiliate-Scheme/i_27.html">Affiliate Scheme</a><br>
-		<a href="/community/content.php">News</a><br>
-		<a href="/store/index.php/Repair-Service/i_29.html">Repair Service</a><br>
-		<a href="/store/index.php/Customer-Comments/i_35.html">Customer Comments</a><br>
-		<br>
-		<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.absolutemusic.co.uk&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
-<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
-</tr>
-</tbody></table>
-		<img src="/store/images/AMS/payment.jpg" alt="payment options - secure transactions">
-		<center> <a href="http://www.shopwiki.co.uk/store-644300" target="_blank" title="Absolute Music Solutions Ltd is a ShopWiki Approved Store"><img src="https://staticssl.shopwiki.com/static/images/approved/Shopwiki_Certified_EN.gif" alt="Absolute Music Solutions Ltd is a ShopWiki Approved Store" border="0"></a> </center> <br>
-        <a href="http://twitter.com/absolutemusicuk" target="_self" title="Follow us on TWITTER!"><img src="/store/images/AMS/twitter_button.jpg" border="0" alt="Follow us on Facebook!"></a> <br>
-        <a href="http://www.facebook.com/#!/pages/Absolute-Music/110757378953492" target="_self" title="Follow us on FACEBOOK!"><img src="/store/images/AMS/facebook_button.jpg" border="0" alt="Follow us on Facebook!"></a> <br>
-        <center><iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.absolutemusic.co.uk%2Fstore&amp;layout=standard&amp;show_faces=true&amp;width=150&amp;action=like&amp;font=tahoma&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:125px; height:80px;" allowtransparency="true"></iframe></center>        
-        </div>
-     </div>
-  <div class="sideBoxBottom"></div>
-</div>
-
-      <div class="sidebox">
-<div class="boxTitleLeft"><img src="skins/Neutrino/styleImages/backgrounds/sideBox_Popular.png" width="175" height="26" alt="Popular Products"><div class="expand"></div></div>
-<div class="boxContentLeft popular">
-<div class="togglePopular">
-	<ol>
-				<li><a href="http://www.absolutemusic.co.uk/store/recording-47/mic-accessories-4710/pop-shields-47103/se-electronics-metal-pop-shield-with-gooseneck-1090" class="txtPopular" title="SE Electronics Metal Pop shield with gooseneck " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">SE Electronics Metal Pop shield with gooseneck  £49.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/recording-47/2-track-recording-478/tascam-dr-07-portable-stereo-recorder-3528" class="txtPopular" title="Tascam DR-07 portable stereo recorder  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Tascam DR-07 portable stereo recorder   £129.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/live-sound-light-48/pa-speakers-481/active-pa-speakers-4811/mackie-srm450v2-active-pa-speaker-black-17268" class="txtPopular" title="Mackie SRM450v2 active PA speaker (black)  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Mackie SRM450v2 active PA speaker (black)   £480.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/miscellaneous-49/acoustic-treatment-492/auralex-mopads-studio-monitor-isolation-pads-402" class="txtPopular" title="Auralex MoPads studio monitor isolation pads " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Auralex MoPads studio monitor isolation pads  £32.50</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/guitar-department-45/effect-pedals-454/guitar-stomp-boxes-4542/boss-rc-2-loop-station-guitar-pedal-1526" class="txtPopular" title="Boss RC-2 loop station guitar pedal " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Boss RC-2 loop station guitar pedal  £152.15</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/drums-20/electronic-kits-201/alesis-dm10-studio-kit-17417" class="txtPopular" title="Alesis DM10 Studio Kit  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Alesis DM10 Studio Kit   £699.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/recording-47/microphones-471/condenser-mics-4711/se-electronics-se2200a-plus-reflexion-filter-pro-bundle-dual-pro-popshield-23180" class="txtPopular" title="SE Electronics SE2200A plus Reflexion Filter Pro bundle + Dual Pro Popshield  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">SE Electronics SE2200A plus Reflexion Filter Pro bundle + Dual Pro Popshield   £298.99</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/miscellaneous-49/stands-racks-495/proel-fre300bk-aluminium-speaker-stands-with-carry-bag-pair-black-748" class="txtPopular" title="Proel FRE300BK aluminium speaker stands with carry bag (pair, black) " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Proel FRE300BK aluminium speaker stands with carry bag (pair, black)  £62.99</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/recording-47/microphones-471/condenser-mics-4711/se-electronics-se-x1-plus-project-studio-rf-bundle-with-free-popshield-23179" class="txtPopular" title="SE Electronics SE X1 plus Project Studio RF bundle with FREE Popshield  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">SE Electronics SE X1 plus Project Studio RF bundle with FREE Popshield   £149.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/computer-music-46/hardware-4612/usb-interfaces-46123/m-audio-pro-tools-recording-studio-fast-track-and-m-powered-essential-24348" class="txtPopular" title="M-Audio Pro Tools Recording Studio (Fast Track and M-Powered Essential)  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">M-Audio Pro Tools Recording Studio (Fast Track and M-Powered Essential)   £64.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/recording-47/microphones-471/condenser-mics-4711/se-electronics-se-x1-plus-project-studio-rf-bundle-4417" class="txtPopular" title="SE Electronics SE X1 plus Project Studio RF bundle  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">SE Electronics SE X1 plus Project Studio RF bundle   £149.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/live-sound-light-48/radio-systems-483/sennheiser-freeport-fp35-vocal-set-handheld-uhf-radio-mic-system-1003" class="txtPopular" title="Sennheiser Freeport FP35 Vocal Set handheld UHF radio mic system " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Sennheiser Freeport FP35 Vocal Set handheld UHF radio mic system  £125.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/recording-47/monitors-472/krk-vxt6-active-studio-monitors-pair-with-free-auralex-mopads-17727" class="txtPopular" title="KRK VXT6 Active Studio Monitors (Pair) with FREE Auralex MoPads  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">KRK VXT6 Active Studio Monitors (Pair) with FREE Auralex MoPads   £679.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/recording-47/mic-accessories-4710/pop-shields-47103/se-electronics-dual-pro-pop-shield-with-metal-fabric-shields-and-gooseneck-3324" class="txtPopular" title="SE Electronics Dual Pro Pop shield with metal/fabric shields and gooseneck  " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">SE Electronics Dual Pro Pop shield with metal/fabric shields and gooseneck   £99.00</a></li>
-		
-		<li><a href="http://www.absolutemusic.co.uk/store/recording-47/multitrack-recorders-474/boss-micro-br-palmtop-recording-studio-1309" class="txtPopular" title="Boss Micro BR palmtop recording studio " onclick="pageTracker._trackEvent('FrontPage', 'Navigation', 'PopularProducts', );">Boss Micro BR palmtop recording studio  £157.25</a></li>
-		
-	</ol>
-</div>
-</div>
-<div class="sideBoxBottom"></div>
-</div>
-
-      
-<div class="sidebox">
-<div class="boxTitleLeft"><img src="skins/Neutrino/styleImages/backgrounds/sideBox_Currency.png" width="175" height="26" alt="Currency" class="collapsed"><div class="expand"></div></div>
-<div class="boxContentLeft">
-	<select name="lang" class="dropDownBox" style="margin-top:5px; margin-left:5px; margin-right:5px;" onchange="jumpMenu('parent',this,0)">
-		
-		<option value="index.php?_g=sw&amp;r=%2Fstore%2Findex.php%3F_a%3DviewDoc%26amp%3BdocId%3D4%26amp%3BcatId%3D0&amp;currency=GBP" selected="selected">British Pounds</option>
-		
-		<option value="index.php?_g=sw&amp;r=%2Fstore%2Findex.php%3F_a%3DviewDoc%26amp%3BdocId%3D4%26amp%3BcatId%3D0&amp;currency=EUR">Euro</option>
-		
-	</select>
-</div>
-<div class="sideBoxBottom"></div>
-</div>
-      
-    </div>
-    <div class="colMid"> 
-
-<center>
-<div style="text-align: center; margin: 0px; padding: 0px; width: 709px; height: 177px; z-index: 0; position: relative; overflow: hidden; margin-bottom: 6px; border: 0;">
-<script language="javascript" type="text/javascript">
-<!--
-new fadeshow(homeimages, 709, 177, 0, 5000, 1)
--->
-</script><div id="master0" style="position:relative;width:709px;height:177px;overflow:hidden; border: 0;"><div id="canvas0_0" style="position: absolute; width: 709px; height: 177px; top: 0px; left: 0px; opacity: 0.990099; border: 0px; z-index: 1;"><a href="http://www.absolutemusic.co.uk/store/info/delivery-7"><img src="http://www.absolutemusic.co.uk/store/images/slides/warrantydelivery.jpg" border="0px"></a><br></div><div id="canvas0_1" style="position:absolute;width:709px;height:177px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:; border: 0;"><a href="http://www.absolutemusic.co.uk/store/info/delivery-7"><img src="http://www.absolutemusic.co.uk/store/images/slides/warrantydelivery.jpg" border="0px"></a><br></div></div>
-</div>
-</center>
-
-
+<meta property="fb:app_id" content="358412484235790">
+<meta property="og:site_name" content="Absolute Music">
+<link rel="alternate" type="application/rss+xml" title="Absolute Music Community - RSS Feed" href="http://www.absolutemusic.co.uk/community/feed">
+<meta property="og:title" content="privacy polcy">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.absolutemusic.co.uk/privacy-policy/">
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" defer="" src="http://www.absolutemusic.co.uk/absolutemusic/index/brand/"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=9969963"></script></head>
+<body class=" cms-page-view cms-privacy-policy">
  
-<div class="boxContent">
-<h1>Privacy Policy</h1>
-<div class="docBody">
-<p><strong>OUR COMMITMENT TO PRIVACY</strong>  Thank you for visiting the Absolute Music website.  Protecting consumer privacy is very important to us. Our Online Privacy Statement is available to inform you about our collection and use of personal information so that you can make informed choices about how your own information is collected and used. This Online Privacy Statement reflects the Absolute Music policies covering personal information collected at this website on or after the effective date shown above.  We believe that information used responsibly benefits consumers and the economy, whether it is information we house on behalf of consumers conducting transactions or information we collect on behalf of our business clients. For example, we use consumer information every day to ensure fast and accurate processing of hundreds of thousands of money transfers. In addition, Absolute Music strives to better serve our customers by offering goods and services that we believe fit their needs and interests. When identifying an opportunity, Absolute Music may use consumer information it has collected in an effort to identify consumers who may be interested in that opportunity. For more than few years, consumers and businesses have relied on Absolute Music for safe and reliable service. The relationships we have developed through the years have been established based on mutual trust. Each day we and employees and agents strive to reinforce our commitment to our clients and consumers. Central to that commitment is ensuring that we abide by a set of privacy policies, which are outlined below. These policies guide us in the collection and use of information as well as employee responsibilities in protecting your privacy. We use personal information about consumers only in a manner consistent with these policies.  <strong>COLLECTION OF INFORMATION</strong> Absolute Music collects personal information in order to offer or provide goods and services to consumers and our customers. We may obtain this information from a variety of sources:   · Directly from customer applications, questionnaires and other materials submitted to us by customers;  · From transactions in which Absolute Music and consumers are involved;  · From clickthru activity on our web sites; and  · From a variety of third-party sources, such as our business customers, government repositories, consumer reporting agencies and other financial institutions.  <strong>DISCLOSURE OF INFORMATION</strong> Absolute Music does not disclose customer information to third parties without first giving customers an opportunity to opt-out of certain kinds of disclosures. There are some disclosures to third parties that are not subject to the opt-out, such as disclosures necessary to effect, administer or enforce a transaction requested by you, to companies that perform services for us or to prevent fraud.  Finally, Absolute Music may disclose information about former customers to third parties and companies with which Absolute Music is affiliated, as well as unaffiliated third parties. Those disclosures may consist of the following:  · Financial background information describing a customer's financial status;  · Identification information, such as name and address data;  · Transaction information, such as account activity, debit activity or credit activity; and  · Other information relating to financial matters.  <strong>RECIPIENTS OF INFORMATION</strong> Absolute Music may disclose consumer information to companies affiliated with Absolute Music and to companies or other parties not affiliated with Absolute Music (subject to consumers' opt-out rights)  These recipients include:  · Financial institutions, such as banks, credit card companies and brokerage houses;   · Companies that process transactions or provide other services for us;  · Government agencies; and  · In addition, under {country} law Absolute Music is permitted to disclose customer information to certain recipients, like credit reporting.  <strong>WE ARE COMMITTED TO PROTECTING THE CONFIDENTIALITY OF PERSONAL CONSUMER INFORMATION.</strong> Absolute Music limits access to personal information to those employees of Absolute Music and its affiliates who need it to fulfill their business responsibilities.  Employees must adhere to Absolute Music privacy policies. Employees violating these policies may be subject to disciplinary action, up to and including dismissal.  Vendors and other outside contractors we engage are subject to our contractual requirements to ensure that sensitive personal information is safeguarded.  <strong>WE USE APPROPRIATE SECURITY SAFEGUARDS.</strong> At Absolute Music, security is a priority. We employ appropriate measures to protect consumer information against unauthorized access, disclosure, alteration or destruction. These may include, among others, encryption, physical access security and other appropriate technologies. Absolute Music continually reviews and enhances its security systems, as necessary.  <strong>WE MAINTAIN PROCEDURES TO ASSURE THE QUALITY OF INFORMATION WE COLLECT AND WHERE APPLICABLE, WE WILL INFORM CONSUMERS ABOUT HOW THEY CAN ACCESS THEIR PERSONAL INFORMATION AND MAKE CORRECTIONS, IF NECESSARY.</strong> Absolute Music employs appropriate measures to assure the quality of information we collect directly from consumers. Where Absolute Music collects information directly from consumers or sources other than our business customers, we permit them, if possible, to dispute or correct any erroneous or out-of-date personally identifiable information. Of course, this correction would not be possible if the information is proprietary to one of our business customers, reflects historical transaction information or if correction would violate the privacy or legal rights of a third party. Where applicable, we abide by laws related to such information. You can correct factual errors in your personally identifiable information by sending us a written request that credibly shows error. We reserve the right to independently verify claims made. To protect your privacy and security, we also will take reasonable steps to verify your identity before making corrections. We reserve the right to assess a service charge for providing you any information in connection with your request.  <strong>THE Absolute Music WEBSITE IS NOT DIRECTED AT CHILDREN UNDER THE AGE OF 13.</strong> Our website is not directed at children under the age of 13 and Absolute Music does not collect or maintain information at our website from those we actually know are under the age of 13.  <strong>WEBSITE MAY BE LINKED TO OTHER WEBSITES</strong> Absolute Music may create links to third party websites. Absolute Music is not responsible for the content or privacy practices employed by websites that are linked from our website.  <strong>OPT OUT RIGHT</strong> Absolute Music may disclose consumer information to third parties as described earlier in this notice. Many of these disclosures are beneficial to consumers because they permit goods and services of interest to consumers to be offered to consumers at attractive rates. We strive to give consumers choices about how their data will be used. You have the right to opt-out of (direct us not to make) these disclosures when the consumer information is about you. Of course, there are some disclosures to third parties that are not subject to the opt-out, such as disclosures necessary to effect, administer or enforce a transaction requested by you, to companies that perform services for us or to prevent fraud. When you use this service, you will be asked whether you wish to opt out. If you wish to opt out, simply check the appropriate box and submit your choice.  If you have any questions or indeed comments about our Online Privacy Statement,or for some reason believe we have not adhered to our statement, please contact:  Absolute Music Data Protection Officer: <a href="mailto:shop@absolutemusic.co.uk">{Absolute Music}</a>   We may alter this statement as needed for certain products and services and to abide by local laws or regulations around the world. Absolute Music reserves the right to amend or modify this statement from time to time. We urge you to review this statement whenever you visit in order to obtain the most current statement. You may change your choices at any time.</p>
-</div>
-</div>
- </div>
-    <br clear="all">
-    <br clear="all">
-  </div>
-  <div class="spacer"></div>
-  <div class="footer">
-    <p><a href="http://www.absolutemusic.co.uk/store/info/about-1">About Us</a> | <a href="http://www.absolutemusic.co.uk/store/info/contact-2">Contact</a> | <a href="http://www.absolutemusic.co.uk/store/info/terms-and-conditions-3">Terms and Conditions</a> | <a href="http://www.absolutemusic.co.uk/store/info/weee-26">WEEE Information</a> | <a href="http://www.absolutemusic.co.uk/store/info/delivery-7">Delivery</a> | <a href="http://www.absolutemusic.co.uk/store/info/privacy-policy-4">Privacy</a> | <a href="http://www.absolutemusic.co.uk/store/info/service-18">Customer Service</a> | <a href="http://www.absolutemusic.co.uk/store/info/subscribe-20">Subscribe</a></p>
-    <center>
-      <div id="googleCheckoutLogo"></div>
-      <script src="https://checkout.google.com/buttons/logos?merchant_id=951075984387831&amp;loc=en_GB&amp;f=png"></script>
-    </center>
-    <p>Absolute Music Solutions Ltd - 58 Nuffield Road - Poole - Dorset - BH17 0RT - UK <br clear="all">
-      All prices and stock information correct E&amp;OE. <br clear="all">
-      This web page is Copyright © 2009 Absolute Music Solutions Ltd and protected under UK and international law. All rights reserved. <br clear="all">
-      <!-- You may only edit or remove this if you have purchased a "Copyright Removal License" from ShopDev.  -->
-      Website Designed by <a href="http://www.shopdev.co.uk">ShopDev</a></p>
-  </div>
-</div>
-
-
-
-<script src="https://www.dwin1.com/2712.js" type="text/javascript" defer="defer"></script>
-
-
-<!-- Google Code for CC4list Remarketing List -->
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1071421741;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "D0SSCO2E3AEQrbLy_gM";
-var google_conversion_value = 0;
-/* ]]> */
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+
+    var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-1788859-1']);
+_gaq.push(['_trackPageview']);
+
+
+//]]>
 </script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
+ <div id="wrapper">
 <noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071421741/?label=D0SSCO2E3AEQrbLy_gM&amp;guid=ON&amp;script=0" />
+<div class="noscript">
+<div class="noscript-inner">
+<p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+<p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+</div>
 </div>
 </noscript>
-<!-- BEGIN LivePerson Button Code -->
-<div id="lpButDivID-1289399474433"></div>
-<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/9969963/?cmd=mTagRepstate&amp;site=9969963&amp;buttonID=2&amp;divID=lpButDivID-1289399474433&amp;bt=1&amp;c=1"></script>
-<!-- END LivePerson Button code -->
-
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "9969963",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-
-
-
-<!-- start mod - Google Analytics - by Estelle - http://cubecart.expandingbrain.com -->
+<div class="page">
+<header>
+<div class="page-width">
+<div class="call-us"><span class="call-us-line1">Call Us: <strong>01202 597180</strong></span><br> <span class="call-us-line2">We're open: Monday - Saturday 10am - 6pm<br> Closed Sundays and bank holidays</span></div><br> <nav class="site-navigation">
+<ul id="header-first-nav">
+ 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+var WRInitTime=(new Date()).getTime();
+</script>
+ 
+<li><a href="http://www.absolutemusic.co.uk/">Home</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/super-store/">Superstore</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/about/">About</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/community/category/general-news">News</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/community/category/events">Events</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/delivery/">Delivery</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/service/">Service</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/rehearsal-studios/">Studios</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/hire/">Hire</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/contacts/">Contact</a></li> </ul>
+<div id="header-basket">
+<a href="http://www.absolutemusic.co.uk/checkout/cart/" class="header-basket-link orange-arrow-grey-bg-link">
+<img src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/images/icons/arrow-large-orange.png" width="10" height="13" alt="Arrow Large White">
+</a>
+<a href="http://www.absolutemusic.co.uk/checkout/cart/" class="header-basket-text">
+<span class="header-basket-title">My Basket:</span>
+<span class="header-basket-items">0 items,</span>
+<span class="header-basket-price"><span class="price">£0.00</span></span>
+</a>
+<img src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/images/icons/icon-basket.gif" width="19" height="21" alt="Icon Basket">
+</div>
+<ul id="header-secondary-nav">
+<li><a href="https://www.absolutemusic.co.uk/customer/account/">My Account</a><span>/</span></li>
+<li><a href="https://www.absolutemusic.co.uk/wishlist/">My Wish List</a><span>/</span></li>
+<li><a href="https://www.absolutemusic.co.uk/checkout/onepage/">Checkout</a><span>/</span></li>
+<li><a href="https://www.absolutemusic.co.uk/customer/account/login/">Log in</a></li>
+</ul>
+</nav>
+<div id="header-orange-row">
+<a href="http://www.absolutemusic.co.uk/"><h1 id="logo">AbsoluteMusic</h1></a>
+<form id="search_mini_form" action="http://www.absolutemusic.co.uk/catalogsearch/result/" method="get">
+<div class="header-styled-select">
+<select class="orange-drop-down" name="category" tabindex="1" style="display:none;">
+<option value="categoryROOT">All departments</option>
+<option value="categoryROOT|Offers">Offers</option>
+<option value="categoryROOT|Guitar Dept">Guitar Dept</option>
+<option value="categoryROOT|Computer Music">Computer Music</option>
+<option value="categoryROOT|Recording">Recording</option>
+<option value="categoryROOT|Live sound">Live sound</option>
+<option value="categoryROOT|Keyboards">Keyboards</option>
+<option value="categoryROOT|Drum Dept">Drum Dept</option>
+<option value="categoryROOT|Microphones">Microphones</option>
+<option value="categoryROOT|DJ Gear">DJ Gear</option>
+<option value="categoryROOT|accessories">accessories</option>
+</select>
+</div>
+<a class="advanced-search" href="http://www.absolutemusic.co.uk/catalogsearch/advanced/">Advanced Search</a>
+<div class="orange-styled-search">
+<input type="text" id="search" name="q" value="" class="orange-styled-input ff-basic-autocomplete" onfocus="if (this.value==this.defaultValue) this.value = ''" onblur="if (this.value=='') this.value = this.defaultValue">
+<input type="submit" value="SEARCH" class="orange-styled-submit">
+</div>
+<div id="search_autocomplete" class="search-autocomplete advanced-suggest"></div>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1788859-2");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script> 
+        //<![CDATA[
+        
+            var loadDataCallback = function(data) {
+                // Internationalization lookup:
+                // Add a new anonymous object for every string you want to internationalize (with the property being the string).
+                // These objects consist of one string for each locale, where the property is the locale code.
+                var i18n = {
+                                    };
+                var translate = function(string) {
+                    if(i18n[string] == undefined)
+                        return string;
+                    else
+                        return i18n[string];
+                }
 
-<!-- end mod - Google Analytics - by Estelle - http://cubecart.expandingbrain.com -->
+                var content = '<ul>';
+                content += '<li style="display: none" class="selected selectable-item"></li>';
+                var currentChannel = '';
+                                    if(data.length) {
+                        if(data[0].channel == 'live_absolutemusic_co_uk') {
+                            content += '<li class="delimiter">Products</li>';
+                        } else {
+                            content += '<li class="delimiter">' + translate('Channel: ' + data[0].channel) + '</li>';
+                        }
+                        currentChannel = data[0].channel;
+                    }
+                    
+                for(var i = 0; i < data.length; i++) {
+                    var item = data[i];
+                    if(item.channel != undefined && item.channel != currentChannel)
+                    {
+                        content += '<li class="delimiter">' + translate('Channel: ' + item.channel) + '</li>';
+                        currentChannel = item.channel;
+                    }
+                    var temp = '';
+                    temp += '<li title="' + item.query + '" class="selectable-item ' + item.type + '">';
+                    if(item.imageURL)
+                    {
+                        temp += '<img src="' + item.imageURL + '" title="' + item.query + '"  style="height: 40px; width: 40px;" class="thumbnail"/>';
+                    }
+                    temp += "<span class='query'>" + item.query + "</span>";
+                    switch(item.type) {
+                        case 'productName':
+                            temp += '<span class="item-type product-name">Product Name</span>';
+                            break;
+                        case 'brand':
+                            temp += '<span class="item-type brand">Brand</span>';
+                            temp += '<span class="amount">' + (item.hitCount == 0 ? '' : item.hitCount + ' products') + '</span>';
+                            break;
+                        case 'category':
+                            temp += '<span class="item-type category">Category</span>';
+                            temp += '<span class="amount">' + (item.hitCount == 0 ? '' : item.hitCount + ' products') + '</span>';
+                            break;
+                        default:
+                            temp += '<span class="item-type search">Search Term</span>';
+                            temp += '<span class="amount">' + (item.hitCount == 0 ? '' : item.hitCount + ' results') + '</span>';
+                    }
+                    temp += '</li>';
+                    content += temp;
+                }
+                content += '</ul>';
+                return content;
+            };
+
+            var searchForm = new FactFinderSuggest('search_mini_form', 'search', 'Search entire shop here...', loadDataCallback);
+            searchForm.initAutocomplete('http://www.absolutemusic.co.uk/factfinder/proxy/suggest/', 'search_autocomplete');
+
+            $('search').observe("keyup", function(e) {
+                if (e.keyCode == 13) {
+                    searchForm.form.submit();
+                }
+            });
+                //]]>
+    </script>
+</form>
+</div>
+<nav class="catagories-navigation">
+<ul>
+<li>
+<a href="http://www.absolutemusic.co.uk/offers.html" data="cat303" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/offers_main.jpg" class="level1">
+Offers
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="top-deals">
+<a data="cat302" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/topdeals.jpg" href="http://www.absolutemusic.co.uk/offers/sale-items.html">
+Top Deals
+</a></li>
+<li class="b-stock">
+<a data="cat34" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/bstock.jpg" href="http://www.absolutemusic.co.uk/offers/ex-display-secondhand.html">
+B-Stock
+</a></li>
+<li class="pre-owned-guitars">
+<a data="cat316" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/preowned_guitars.jpg" href="http://www.absolutemusic.co.uk/offers/pre-owned-guitars.html">
+Pre-Owned Guitars
+</a></li>
+<li class="bargains">
+<a data="cat343" data-image="" href="http://www.absolutemusic.co.uk/offers/bargains.html">
+Bargains
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/guitar-department.html" data="cat3" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/_DSC0255.jpg" class="level1">
+Guitar Dept
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="acoustic-guitars">
+<a data="cat294" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/acoustic_guitars.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/acoustic-guitars.html">
+Acoustic guitars
+</a></li>
+<li class="bass-amps">
+<a data="cat8" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/bass_amps.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/bass-amps.html">
+Bass amps
+</a></li>
+<li class="bass-guitars">
+<a data="cat6" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/bass_guitars.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/bass-guitars.html">
+Bass guitars
+</a></li>
+<li class="effects-pedals">
+<a data="cat295" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/guitar_pedals.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/effects-pedals.html">
+Effects pedals
+</a></li>
+<li class="electric-guitars">
+<a data="cat5" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/electric_guitars.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/electric-guitars.html">
+Electric guitars
+</a></li>
+<li class="guitar-accessories">
+<a data="cat9" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/guitar_accessories.jpg" href="http://www.absolutemusic.co.uk/guitar-department/guitar-accessories.html">
+Guitar accessories
+</a></li>
+<li class="guitar-amps">
+<a data="cat7" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/guitar_amps.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/guitar-amps.html">
+Guitar amps
+</a></li>
+<li class="guitar-strings">
+<a data="cat30" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/strings.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/guitar-strings.html">
+Guitar strings
+</a></li>
+<li class="ukuleles,-banjos-&amp;-mandolins">
+<a data="cat296" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/ukuleles.jpeg" href="http://www.absolutemusic.co.uk/guitar-department/ukuleles.html">
+Ukuleles, Banjos &amp; Mandolins
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/computer-music.html" data="cat11" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/pro_tools.jpg" class="level1">
+Computer Music
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="usb-interfaces">
+<a data="cat71" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/usb_interfaces.jpg" href="http://www.absolutemusic.co.uk/computer-music/usb-interfaces.html">
+USB Interfaces
+</a></li>
+<li class="firewire-interfaces">
+<a data="cat70" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/firewire_interfaces.jpg" href="http://www.absolutemusic.co.uk/computer-music/firewire-interfaces.html">
+Firewire Interfaces
+</a></li>
+<li class="midi-controllers">
+<a data="cat61" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/midi_controllers.jpg" href="http://www.absolutemusic.co.uk/computer-music/midi-controllers.html">
+Midi Controllers
+</a></li>
+<li class="audio-and-midi-recording-software">
+<a data="cat76" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/audio_midi_software.jpg" href="http://www.absolutemusic.co.uk/computer-music/audio-midi-recording.html">
+Audio and MIDI Recording Software
+</a></li>
+<li class="virtual-instruments">
+<a data="cat77" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/virtual_instruments.jpg" href="http://www.absolutemusic.co.uk/computer-music/virtual-instruments-samplers.html">
+Virtual Instruments
+</a></li>
+<li class="effects-plug-ins">
+<a data="cat78" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/effects_plugins.jpg" href="http://www.absolutemusic.co.uk/computer-music/effects-plug-ins.html">
+Effects plug-ins
+</a></li>
+<li class="pro-tools-hd">
+<a data="cat74" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/pro_tools_hd.jpg" href="http://www.absolutemusic.co.uk/computer-music/pro-tools-hd.html">
+Pro Tools HD
+</a></li>
+<li class="pci-cards">
+<a data="cat72" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/pci_cards.jpg" href="http://www.absolutemusic.co.uk/computer-music/pci-cards.html">
+PCI Cards
+</a></li>
+<li class="dsp">
+<a data="cat73" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dsp_1.jpg" href="http://www.absolutemusic.co.uk/computer-music/dsp.html">
+DSP
+</a></li>
+<li class="ipad-and-iphone-accessories">
+<a data="cat115" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/ipad_iphone.jpg" href="http://www.absolutemusic.co.uk/computer-music/ipad-iphone-accessories.html">
+iPad and iPhone Accessories
+</a></li>
+<li class="computer-accessories">
+<a data="cat31" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/computer_accessories.jpeg" href="http://www.absolutemusic.co.uk/computer-music/computer-accessories.html">
+Computer accessories
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/recording.html" data="cat12" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/monitor_room_tim_-_Version_2.jpg" class="level1">
+Recording
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="monitors">
+<a data="cat14" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/monitors.jpeg" href="http://www.absolutemusic.co.uk/recording/monitors.html">
+Monitors
+</a></li>
+<li class="two-track-recording">
+<a data="cat173" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/two_track_recording.jpeg" href="http://www.absolutemusic.co.uk/recording/2-track-recording.html">
+Two Track recording
+</a></li>
+<li class="video">
+<a data="cat126" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/video.jpg" href="http://www.absolutemusic.co.uk/recording/video.html">
+Video
+</a></li>
+<li class="headphones">
+<a data="cat23" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/headphones_2.jpg" href="http://www.absolutemusic.co.uk/recording/headphones.html">
+Headphones
+</a></li>
+<li class="outboard-and-effects">
+<a data="cat17" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/outboard_effects.jpeg" href="http://www.absolutemusic.co.uk/recording/outboard-effects.html">
+Outboard and effects
+</a></li>
+<li class="multitrack-recorders">
+<a data="cat16" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/multitrack_recording.jpeg" href="http://www.absolutemusic.co.uk/recording/multitrack-recorders.html">
+Multitrack recorders
+</a></li>
+<li class="studio-mixing-desks">
+<a data="cat15" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/studio_mixing_desks.jpeg" href="http://www.absolutemusic.co.uk/recording/mixers.html">
+Studio Mixing Desks
+</a></li>
+<li class="acoustic-treatment">
+<a data="cat25" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/acoustic_treatment.jpeg" href="http://www.absolutemusic.co.uk/recording/acoustic-treatment.html">
+Acoustic treatment
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/live-sound-light.html" data="cat18" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/pa_speakers_2.jpeg" class="level1">
+Live sound
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="lighting">
+<a data="cat21" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/lighting.jpeg" href="http://www.absolutemusic.co.uk/live-sound-light/lighting.html">
+Lighting
+</a></li>
+<li class="mixers">
+<a data="cat88" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/live_mixers.jpeg" href="http://www.absolutemusic.co.uk/live-sound-light/mixers.html">
+Mixers
+</a></li>
+<li class="pa-speakers">
+<a data="cat19" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/pa_speakers.jpeg" href="http://www.absolutemusic.co.uk/live-sound-light/pa-speakers.html">
+PA speakers
+</a></li>
+<li class="power-amps">
+<a data="cat32" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/power_amps.jpeg" href="http://www.absolutemusic.co.uk/live-sound-light/power-amps.html">
+Power amps
+</a></li>
+<li class="smoke-machines">
+<a data="cat299" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/smoke_machines.jpeg" href="http://www.absolutemusic.co.uk/live-sound-light/smoke-machines.html">
+Smoke Machines
+</a></li>
+<li class="wireless-systems">
+<a data="cat20" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/wireless_mics.jpeg" href="http://www.absolutemusic.co.uk/live-sound-light/wireless-systems.html">
+Wireless systems
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/keyboards.html" data="cat38" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/stage_pianos_2.jpeg" class="level1">
+Keyboards
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="keyboard-accessories">
+<a data="cat87" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/keyboard_accessories.jpg" href="http://www.absolutemusic.co.uk/keyboards/keyboard-accessories.html">
+Keyboard Accessories
+</a></li>
+<li class="arranger-keyboards">
+<a data="cat110" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/arranger_keyboards.jpeg" href="http://www.absolutemusic.co.uk/keyboards/arranger-keyboards.html">
+Arranger Keyboards
+</a></li>
+<li class="digital-pianos">
+<a data="cat60" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/digital_pianos.jpg" href="http://www.absolutemusic.co.uk/keyboards/digital-pianos.html">
+Digital Pianos
+</a></li>
+<li class="keyboard-amps">
+<a data="cat99" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/keyboard_amps.jpeg" href="http://www.absolutemusic.co.uk/keyboards/keyboard-amps.html">
+Keyboard Amps
+</a></li>
+<li class="modules">
+<a data="cat59" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/synth_modules_2.jpeg" href="http://www.absolutemusic.co.uk/keyboards/modules.html">
+Modules
+</a></li>
+<li class="samplers">
+<a data="cat62" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/samplers-1.jpeg" href="http://www.absolutemusic.co.uk/keyboards/samplers.html">
+Samplers
+</a></li>
+<li class="stage-pianos">
+<a data="cat109" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/stage_pianos.jpeg" href="http://www.absolutemusic.co.uk/keyboards/stage-pianos.html">
+Stage Pianos
+</a></li>
+<li class="synths">
+<a data="cat58" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/synths.jpeg" href="http://www.absolutemusic.co.uk/keyboards/synths.html">
+Synths
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/drums.html" data="cat39" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/_DSC0279.jpg" class="level1">
+Drum Dept
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="acoustic-drums">
+<a data="cat93" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/acoustic_drums.jpeg" href="http://www.absolutemusic.co.uk/drums/acoustic-drums.html">
+Acoustic Drums
+</a></li>
+<li class="cymbals">
+<a data="cat140" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/cymbals.jpeg" href="http://www.absolutemusic.co.uk/drums/cymbals.html">
+Cymbals
+</a></li>
+<li class="drum-accessories">
+<a data="cat94" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/drum_accessories.jpeg" href="http://www.absolutemusic.co.uk/drums/drum-accessories.html">
+Drum Accessories
+</a></li>
+<li class="drum-hardware">
+<a data="cat138" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/drum_hardware.jpeg" href="http://www.absolutemusic.co.uk/drums/drum-hardware.html">
+Drum Hardware
+</a></li>
+<li class="drum-machines">
+<a data="cat92" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/drum_machines.jpeg" href="http://www.absolutemusic.co.uk/drums/drum-machines.html">
+Drum Machines
+</a></li>
+<li class="drum-microphone-kits">
+<a data="cat125" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/drum_microphones.jpeg" href="http://www.absolutemusic.co.uk/drums/drum-microphone-kits.html">
+Drum Microphone Kits
+</a></li>
+<li class="electronic-drums">
+<a data="cat300" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/electronic_drums.jpg" href="http://www.absolutemusic.co.uk/drums/electronic-drums.html">
+Electronic Drums
+</a></li>
+<li class="percussion">
+<a data="cat108" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/percussion.jpeg" href="http://www.absolutemusic.co.uk/drums/percussion.html">
+Percussion
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/microphones.html" data="cat13" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/microphones_2.jpg" class="level1">
+Microphones
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="ribbon-mics">
+<a data="cat118" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/sotdelta_1.jpg" href="http://www.absolutemusic.co.uk/microphones/ribbon-mics.html">
+Ribbon Mics
+</a></li>
+<li class="usb-mics">
+<a data="cat119" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/apomic_5.jpg" href="http://www.absolutemusic.co.uk/microphones/usb-mics.html">
+USB Mics
+</a></li>
+<li class="large-diaphragm-condenser">
+<a data="cat317" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/neuu87ea87n_1.jpg" href="http://www.absolutemusic.co.uk/microphones/large-diaphragm-condenser.html">
+Large Diaphragm Condenser
+</a></li>
+<li class="small-diaphragm-condenser">
+<a data="cat318" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/seese4st_2.jpg" href="http://www.absolutemusic.co.uk/microphones/small-diaphragm-condenser.html">
+Small Diaphragm Condenser
+</a></li>
+<li class="handheld-vocal-mics">
+<a data="cat319" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/shusm58s_1.jpg" href="http://www.absolutemusic.co.uk/microphones/handheld-vocal-mics.html">
+Handheld Vocal Mics
+</a></li>
+<li class="drum-mics">
+<a data="cat320" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/akgd112.jpg" href="http://www.absolutemusic.co.uk/microphones/drum-mics.html">
+Drum Mics
+</a></li>
+<li class="lavalier/miniature-mics">
+<a data="cat321" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/akgc519ml.jpg" href="http://www.absolutemusic.co.uk/microphones/lavalier-miniature-mics.html">
+Lavalier/Miniature Mics
+</a></li>
+<li class="dynamic-instrument-mics">
+<a data="cat322" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/sothalo.jpg" href="http://www.absolutemusic.co.uk/microphones/dynamic-instrument-mics.html">
+Dynamic Instrument Mics
+</a></li>
+<li class="headset-mics-">
+<a data="cat323" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/akgc520l_1.jpg" href="http://www.absolutemusic.co.uk/microphones/headset-mics.html">
+Headset Mics
+</a></li>
+<li class="mic-capsules">
+<a data="cat324" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/akgck94.jpg" href="http://www.absolutemusic.co.uk/microphones/mic-capsules.html">
+Mic Capsules
+</a></li>
+<li class="video/reporters-mics">
+<a data="cat325" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/rodvideomic.jpg" href="http://www.absolutemusic.co.uk/microphones/video-reporters-mics.html">
+Video/Reporters Mics
+</a></li>
+<li class="shotgun-mics">
+<a data="cat326" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/rodntg2_1.jpg" href="http://www.absolutemusic.co.uk/microphones/shotgun-mics.html">
+Shotgun Mics
+</a></li>
+<li class="boundary-mics">
+<a data="cat327" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/shubeta91a_1.jpg" href="http://www.absolutemusic.co.uk/microphones/boundary-mics.html">
+Boundary Mics
+</a></li>
+<li class="mic-accessories">
+<a data="cat98" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/mic_accessories.jpg" href="http://www.absolutemusic.co.uk/microphones/mic-accessories.html">
+Mic Accessories
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/dj-gear.html" data="cat40" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_main.jpg" class="level1">
+DJ Gear
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="cd-and-mp3-players">
+<a data="cat163" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/cd_mp3_players.jpeg" href="http://www.absolutemusic.co.uk/dj-gear/cd-and-mp3-players.html">
+CD and MP3 Players
+</a></li>
+<li class="dj-accessories">
+<a data="cat166" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_accessories.jpg" href="http://www.absolutemusic.co.uk/dj-gear/dj-accessories.html">
+DJ Accessories
+</a></li>
+<li class="dj-control-surfaces-and-interfaces">
+<a data="cat165" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_controllers.jpeg" href="http://www.absolutemusic.co.uk/dj-gear/dj-control-surfaces-interfaces.html">
+DJ Control Surfaces and Interfaces
+</a></li>
+<li class="dj-headphones">
+<a data="cat97" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_headphones.jpeg" href="http://www.absolutemusic.co.uk/dj-gear/dj-headphones.html">
+DJ Headphones
+</a></li>
+<li class="dj-mixers">
+<a data="cat95" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_mixers.jpeg" href="http://www.absolutemusic.co.uk/dj-gear/dj-mixers.html">
+DJ Mixers
+</a></li>
+<li class="dj-software">
+<a data="cat164" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_software.jpeg" href="http://www.absolutemusic.co.uk/dj-gear/dj-software.html">
+DJ Software
+</a></li>
+<li class="dj-software/hardware-packages">
+<a data="cat96" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_software-hardware.jpeg" href="http://www.absolutemusic.co.uk/dj-gear/dj-software-hardware-packages.html">
+DJ Software/Hardware Packages
+</a></li>
+<li class="turntables">
+<a data="cat162" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/dj_turntables.jpeg" href="http://www.absolutemusic.co.uk/dj-gear/turntables.html">
+Turntables
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li><li>
+<a href="http://www.absolutemusic.co.uk/miscellaneous.html" data="cat22" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/cables_connectors_2.jpeg" class="level1">
+accessories
+</a>
+<ul class="mega-menu-wrapper">
+<li class="mega-menu-catagories">
+<span class="title">Categories</span>
+<ul class="mega-menu-links">
+<li class="cables-and-connectors">
+<a data="cat29" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/cables_connectors.jpeg" href="http://www.absolutemusic.co.uk/miscellaneous/cables-connectors.html">
+Cables and connectors
+</a></li>
+<li class="flightcases-and-bags">
+<a data="cat24" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/flightcases_bags.jpeg" href="http://www.absolutemusic.co.uk/miscellaneous/flightcases-bags.html">
+Flightcases and bags
+</a></li>
+<li class="furniture">
+<a data="cat26" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/furniture-1.jpeg" href="http://www.absolutemusic.co.uk/miscellaneous/furniture.html">
+Furniture
+</a></li>
+<li class="media">
+<a data="cat27" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/media.jpeg" href="http://www.absolutemusic.co.uk/miscellaneous/media.html">
+Media
+</a></li>
+<li class="books-and-dvds">
+<a data="cat80" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/books_dvds.jpg" href="http://www.absolutemusic.co.uk/miscellaneous/books-dvds.html">
+Books and DVDs
+</a></li>
+<li class="sheet-music">
+<a data="cat130" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/sheet_music.jpeg" href="http://www.absolutemusic.co.uk/miscellaneous/sheet-music.html">
+Sheet Music
+</a></li>
+<li class="stands-and-racks">
+<a data="cat28" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/stands_racks.jpeg" href="http://www.absolutemusic.co.uk/miscellaneous/stands-racks.html">
+Stands and racks
+</a></li>
+<li class="others">
+<a data="cat33" data-image="http://media.absolutemusic.co.uk/media/meanbee_util_resized/225x220/catalog/category/others.jpeg" href="http://www.absolutemusic.co.uk/miscellaneous/others.html">
+Others
+</a></li>
+</ul></li>
+<li class="mega-menu-brands">
+<ul class="mega-menu-links">
+</ul></li>
+<li class="mega-menu-images"><img class="brand-image" src="">
+</li></ul></li> </ul>
+</nav>
+</div>
+</header>
+<div id="main" role="main" class="main-container col1-layout">
+<div class="page-width">
+<div class="col-main">
+<div class="col-main-inner">
+<div class="std"><p><strong>OUR COMMITMENT TO PRIVACY</strong></p>
+<p> Thank you for visiting the Absolute Music website. Protecting consumer privacy is very important to us. Our Online Privacy Statement is available to inform you about our collection and use of personal information so that you can make informed choices about how your own information is collected and used. This Online Privacy Statement reflects the Absolute Music policies covering personal information collected at this website on or after the effective date shown above. We believe that information used responsibly benefits consumers and the economy, whether it is information we house on behalf of consumers conducting transactions or information we collect on behalf of our business clients. For example, we use consumer information every day to ensure fast and accurate processing of hundreds of thousands of money transfers. In addition, Absolute Music strives to better serve our customers by offering goods and services that we believe fit their needs and interests. When identifying an opportunity, Absolute Music may use consumer information it has collected in an effort to identify consumers who may be interested in that opportunity. For more than few years, consumers and businesses have relied on Absolute Music for safe and reliable service. The relationships we have developed through the years have been established based on mutual trust. Each day we and employees and agents strive to reinforce our commitment to our clients and consumers. Central to that commitment is ensuring that we abide by a set of privacy policies, which are outlined below. These policies guide us in the collection and use of information as well as employee responsibilities in protecting your privacy. We use personal information about consumers only in a manner consistent with these policies. </p>
+<p><strong>COLLECTION OF INFORMATION</strong> </p>
+<p>Absolute Music collects personal information in order to offer or provide goods and services to consumers and our customers. We may obtain this information from a variety of sources: · Directly from customer applications, questionnaires and other materials submitted to us by customers; · From transactions in which Absolute Music and consumers are involved; · From clickthru activity on our web sites; and · From a variety of third-party sources, such as our business customers, government repositories, consumer reporting agencies and other financial institutions. </p>
+<p><strong>DISCLOSURE OF INFORMATION</strong> </p>
+<p>Absolute Music does not disclose customer information to third parties without first giving customers an opportunity to opt-out of certain kinds of disclosures. There are some disclosures to third parties that are not subject to the opt-out, such as disclosures necessary to effect, administer or enforce a transaction requested by you, to companies that perform services for us or to prevent fraud. Finally, Absolute Music may disclose information about former customers to third parties and companies with which Absolute Music is affiliated, as well as unaffiliated third parties. Those disclosures may consist of the following: · Financial background information describing a customer's financial status; · Identification information, such as name and address data; · Transaction information, such as account activity, debit activity or credit activity; and · Other information relating to financial matters. </p>
+<p><strong>RECIPIENTS OF INFORMATION</strong> </p>
+<p>Absolute Music may disclose consumer information to companies affiliated with Absolute Music and to companies or other parties not affiliated with Absolute Music (subject to consumers' opt-out rights) These recipients include: · Financial institutions, such as banks, credit card companies and brokerage houses; · Companies that process transactions or provide other services for us; · Government agencies; and · In addition, under {country} law Absolute Music is permitted to disclose customer information to certain recipients, like credit reporting. </p>
+<p><strong>WE ARE COMMITTED TO PROTECTING THE CONFIDENTIALITY OF PERSONAL CONSUMER INFORMATION.</strong> </p>
+<p>Absolute Music limits access to personal information to those employees of Absolute Music and its affiliates who need it to fulfill their business responsibilities. Employees must adhere to Absolute Music privacy policies. Employees violating these policies may be subject to disciplinary action, up to and including dismissal. Vendors and other outside contractors we engage are subject to our contractual requirements to ensure that sensitive personal information is safeguarded. </p>
+<p><strong>WE USE APPROPRIATE SECURITY SAFEGUARDS.</strong> </p>
+<p>At Absolute Music, security is a priority. We employ appropriate measures to protect consumer information against unauthorized access, disclosure, alteration or destruction. These may include, among others, encryption, physical access security and other appropriate technologies. Absolute Music continually reviews and enhances its security systems, as necessary. </p>
+<p><strong>WE MAINTAIN PROCEDURES TO ASSURE THE QUALITY OF INFORMATION WE COLLECT AND WHERE APPLICABLE, WE WILL INFORM CONSUMERS ABOUT HOW THEY CAN ACCESS THEIR PERSONAL INFORMATION AND MAKE CORRECTIONS, IF NECESSARY.</strong> </p>
+<p>Absolute Music employs appropriate measures to assure the quality of information we collect directly from consumers. Where Absolute Music collects information directly from consumers or sources other than our business customers, we permit them, if possible, to dispute or correct any erroneous or out-of-date personally identifiable information. Of course, this correction would not be possible if the information is proprietary to one of our business customers, reflects historical transaction information or if correction would violate the privacy or legal rights of a third party. Where applicable, we abide by laws related to such information. You can correct factual errors in your personally identifiable information by sending us a written request that credibly shows error. We reserve the right to independently verify claims made. To protect your privacy and security, we also will take reasonable steps to verify your identity before making corrections. We reserve the right to assess a service charge for providing you any information in connection with your request. </p>
+<p><strong>THE Absolute Music WEBSITE IS NOT DIRECTED AT CHILDREN UNDER THE AGE OF 13.</strong></p>
+<p> Our website is not directed at children under the age of 13 and Absolute Music does not collect or maintain information at our website from those we actually know are under the age of 13. </p>
+<p><strong>WEBSITE MAY BE LINKED TO OTHER WEBSITES</strong> </p>
+<p>Absolute Music may create links to third party websites. Absolute Music is not responsible for the content or privacy practices employed by websites that are linked from our website. </p>
+<p><strong>OPT OUT RIGHT</strong> </p>
+<p>Absolute Music may disclose consumer information to third parties as described earlier in this notice. Many of these disclosures are beneficial to consumers because they permit goods and services of interest to consumers to be offered to consumers at attractive rates. We strive to give consumers choices about how their data will be used. You have the right to opt-out of (direct us not to make) these disclosures when the consumer information is about you. Of course, there are some disclosures to third parties that are not subject to the opt-out, such as disclosures necessary to effect, administer or enforce a transaction requested by you, to companies that perform services for us or to prevent fraud. When you use this service, you will be asked whether you wish to opt out. If you wish to opt out, simply check the appropriate box and submit your choice. If you have any questions or indeed comments about our Online Privacy Statement,or for some reason believe we have not adhered to our statement, please contact: Absolute Music Data Protection Officer: <a href="mailto:shop@absolutemusic.co.uk">EMAIL</a> We may alter this statement as needed for certain products and services and to abide by local laws or regulations around the world. Absolute Music reserves the right to amend or modify this statement from time to time. We urge you to review this statement whenever you visit in order to obtain the most current statement. You may change your choices at any time.</p></div>
+<script type="text/javascript">
+//<![CDATA[
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+Calendar._DN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]; // full day names
+Calendar._SDN = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]; // short day names
+Calendar._FD = 1; // First day of the week. "0" means display Sunday first, "1" means display Monday first, etc.
+Calendar._MN = ["January","February","March","April","May","June","July","August","September","October","November","December"]; // full month names
+Calendar._SMN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; // short month names
+Calendar._am = "AM"; // am/pm
+Calendar._pm = "PM";
+
+// tooltips
+Calendar._TT = {};
+Calendar._TT["INFO"] = "About the calendar";
+
+Calendar._TT["ABOUT"] =
+"DHTML Date/Time Selector\n" +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL. See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Date selection:\n" +
+"- Use the \xab, \xbb buttons to select year\n" +
+"- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
+"- Hold mouse button on any of the above buttons for faster selection.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+Calendar._TT["PREV_YEAR"] = "Prev. year (hold for menu)";
+Calendar._TT["PREV_MONTH"] = "Prev. month (hold for menu)";
+Calendar._TT["GO_TODAY"] = "Go Today";
+Calendar._TT["NEXT_MONTH"] = "Next month (hold for menu)";
+Calendar._TT["NEXT_YEAR"] = "Next year (hold for menu)";
+Calendar._TT["SEL_DATE"] = "Select date";
+Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";
+Calendar._TT["PART_TODAY"] = ' (' + "Today" + ')';
+
+// the following is to inform that "%s" is to be the first day of week
+Calendar._TT["DAY_FIRST"] = "Display %s first";
+
+// This may be locale-dependent. It specifies the week-end days, as an array
+// of comma-separated numbers. The numbers are from 0 to 6: 0 means Sunday, 1
+// means Monday, etc.
+Calendar._TT["WEEKEND"] = "0,6";
+
+Calendar._TT["CLOSE"] = "Close";
+Calendar._TT["TODAY"] = "Today";
+Calendar._TT["TIME_PART"] = "(Shift-)Click or drag to change value";
+
+// date formats
+Calendar._TT["DEF_DATE_FORMAT"] = "%e %b %Y";
+Calendar._TT["TT_DATE_FORMAT"] = "%e %B %Y";
+
+Calendar._TT["WK"] = "Week";
+Calendar._TT["TIME"] = "Time:";
+//]]>
+</script>
+<script>
+tinyMCE.init({
+	theme : "advanced",
+	theme_advanced_toolbar_location : "top",
+	theme_advanced_toolbar_align : "left",
+	theme_advanced_statusbar_location : "bottom",
+	theme_advanced_resizing : true,
+	theme_advanced_disable : "help,styleselect",
+	mode : "specific_textareas",
+	editor_selector : "mceEditor"
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div id="footer-orange-bar">
+<div class="page-width">
+<form action="https://www.absolutemusic.co.uk/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+<span class="footer-mailing-list-text">Join our newsletter for special offers:</span>
+<div class="orange-styled-search">
+<input type="text" name="email" placeholder="Your email address" class="required-entry validate-email orange-styled-input">
+<input type="submit" value="SIGN UP" class="orange-styled-submit">
+</div>
+</form>
+<script type="text/javascript">
+        //<![CDATA[
+            var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+        //]]>
+        </script>
+<div class="call-us"><span class="call-us-line1">Call Us: <strong>01202 597180</strong></span></div> </div>
+</div> <div id="footer-3cols">
+<div class="page-width">
+<div class="footer-column">
+<div class="footer-social-section"><span class="title">Reviews</span>
+<p>Expert insights and top tests of some of the latest gear... <a href="http://www.absolutemusic.co.uk/community/category/depth-product-reviews/">› Read more</a></p>
+<img src="https://www.absolutemusic.co.uk/media/wysiwyg/Blog_links_from_footer/moogerfooger.jpg" alt="Absolute Music: Moogerfooger Cluster Flux Review" width="272" height="166">
+<p class="review-title"><strong>Absolute Music: Moogerfooger Cluster Flux</strong></p>
+<p class="review-info">From: absolutemusicuk | Aug 26, 2011 | 992 views</p>
+<a class="social-link" href="http://www.absolutemusic.co.uk/community/category/depth-product-reviews/">See all Reviews</a></div>
+</div>
+<div class="footer-column footer-column-middle">
+<div class="footer-social-section"><span class="title">Follow us</span>
+<p>Keep up to date with all our latest news, giveaways and competitions... </p>
+<ul id="social-media">
+<li><a href="https://www.facebook.com/absolutemusicuk"></a></li>
+<li><a href="http://www.youtube.com/user/absolutemusicuk/"></a></li>
+<li><a href="https://twitter.com/absolutemusicuk"></a></li>
+<li><a href="http://plus.google.com"></a></li>
+</ul>
+</div>
+<div class="footer-social-section">
+<span class="title">Blog</span>
+<p class="blog-title"><strong>FOCUSRITE INTRODUCE SCARLETT 6i6 &amp; 18i8</strong></p>
+<p class="blog-info">by Joe Stachowiak on May 7, 2013</p>
+<p>Focusrite have just this instant announced two new USB 2.0 interfaces: the Scarlett 6i6 and 18i8. These beautiful looking devices join the existing (and very popular) family of Scarlett interfaces to make a range that should have a product to suit the needs of almost everybody!
+As you can probably guess, the Scarlett 6i6 is a 6-in, 6-out device, whereas the Scarlett 18i8 is &nbsp;an 18-in, 8-out interface, with both being aimed at artists, producers, bands and home-studio owners. Of course, both feature a number of Focusrite's award-winning mic preamps and 24bit/96kHz conversion and both will also work with iOS devices such as the iPad using an optional Apple Camera Connection Kit (sold separately).
+<a href="http://www.absolutemusic.co.uk/community/computer-music/focusrite-introduce-scarlett-6i6-18i8">› Read more</a></p>
+<a class="social-link" href="http://www.absolutemusic.co.uk/community/">View Recent Blog Posts</a>
+</div>
+</div>
+<div class="footer-column">
+<div class="footer-social-section"><span class="title">Help &amp; support</span>
+<p>Need some advice? Want some expert help? These links should help...</p>
+<ul id="help-support">
+<li><a class="social-link" href="http://www.absolutemusic.co.uk/community/category/how-to-guides/">How to Guides</a></li>
+<li><a class="social-link" href="http://www.absolutemusic.co.uk/repair-service/">Repair Service</a></li>
+<li><a class="social-link" href="http://www.absolutemusic.co.uk/guitar-workshop/">Guitar Workshop</a></li>
+<li><a class="social-link" href="http://www.absolutemusic.co.uk/terms-and-conditions/">Terms &amp; Conditions</a></li>
+</ul>
+</div>
+<div class="footer-social-section"><span class="title">Contact us</span>
+<p>We're always glad to hear from customers, whatever your enquiry, so please get in touch...</p>
+<span class="contact-orange-large"> 05603 572006 </span><br>
+<p><span class="contact-orange-small">Sales: Option 1<br> Sales Support : Option 2 <br>Service &amp; Returns: Option 3 <br> </span> We're open Monday to Saturday 10am - 6pm / Service &amp; returns Mon-Fri 10am-6pm<br>
+Closed Sundays and Bank holidays</p><p><span class="contact-orange-large">Studios and Tuition: 01202 572948 </span></p>
+<a class="social-link" href="http://www.absolutemusic.co.uk/contacts/">More ways to contact us</a></div>
+</div>
+</div>
+</div>
+ <script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "9969963",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script> 
+ 
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(1738,0.3,"www14");
+</script>
+  <div id="footer-links-carbon">
+<div class="page-width">
+<dl class="footer-products">
+<dt>Brands</dt>
+<dd><a href="http://www.absolutemusic.co.uk/gibson-guitars">Gibson Guitars</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/focusrite">Focusrite</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/rme">RME</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/adam-audio">Adam Audio</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/fender">Fender</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/korg">Korg</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/mcpherson">McPherson</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/akg">AKG</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/boss">Boss</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/roland">Roland</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/yamaha">Yamaha</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/brands/sennheiser">Sennheiser</a></dd>
+</dl>
+<dl class="footer-useful-links">
+<dt>Useful Links</dt>
+<dd><a href="http://www.absolutemusic.co.uk/vip-club/">VIP Club!</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/loyalty_points/">Loyalty Points</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/delivery/">Delivery</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/about/">About Us</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/community/category/general-news">News</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/contacts/">Contact us</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/terms-and-conditions/">Terms &amp; Conditions</a></dd>
+<dd><a href="http://www.feefo.com/reviews/Absolute-Music/?logon=www.absolutemusic.co.uk" target="_blank">Customer Comments</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/weee-regulations/">WEEE information</a></dd>
+<dd><a href="http://www.absolutemusic.co.uk/privacy-policy/">Privacy Policy</a></dd>
+</dl>
+</div>
+</div>
+<div id="footer-legal">
+<div class="page-width">
+<ul id="footer-site-nav">
+ 
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+ 
+<li><a href="http://www.absolutemusic.co.uk/">Home</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/super-store/">Superstore</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/about/">About</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/community/category/general-news">News</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/community/category/events">Events</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/delivery/">Delivery</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/service/">Service</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/rehearsal-studios/">Studios</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/hire/">Hire</a><span>/</span></li>
+<li><a href="http://www.absolutemusic.co.uk/contacts/">Contact</a></li> </ul>
+<div id="footer-currency">
+<label>CURRENCY</label>
+<select name="currency" title="Select Your Currency" onchange="setLocation(this.value)">
+<option value="http://www.absolutemusic.co.uk/directory/currency/switch/currency/GBP/uenc/aHR0cDovL3d3dy5hYnNvbHV0ZW11c2ljLmNvLnVrL21pY3JvcGhvbmVzL2RydW0tbWljcy5odG1s/" selected="selected">
+British Pound Sterling </option>
+<option value="http://www.absolutemusic.co.uk/directory/currency/switch/currency/EUR/uenc/aHR0cDovL3d3dy5hYnNvbHV0ZW11c2ljLmNvLnVrL21pY3JvcGhvbmVzL2RydW0tbWljcy5odG1s/">
+Euro </option>
+<option value="http://www.absolutemusic.co.uk/directory/currency/switch/currency/USD/uenc/aHR0cDovL3d3dy5hYnNvbHV0ZW11c2ljLmNvLnVrL21pY3JvcGhvbmVzL2RydW0tbWljcy5odG1s/">
+US Dollar </option>
+</select>
+</div>
+<p class="legal-text">
+Copyright © 2012 Absolute Music Solutions Ltd. All rights reserved.<br>
+<br clear="all">
+Absolute Music Solutions Ltd - Units 3-5 Knighton Heath Estate - <br> 855 Ringwood Road - Bournemouth - Dorset - BH11 8NE - UK
+<br>
+All prices include VAT @ 20% <br clear="all">
+Registered in England and Wales No 4827522 <br clear="all">
+VAT Number 816 0959 18<br>
+All prices and stock information correct E&amp;OE.
+</p>
+<ul id="payment-icons">
+<li><img src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/images/icons/payment-methods.png" alt="Payment Methods" height="" width=""></li>
+<li>
+<div id="googleCheckoutLogo"></div><script src="https://checkout.google.com/buttons/logos?merchant_id=951075984387831&amp;loc=en_GB&amp;f=png"></script>
+<img src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/images/icons/shopwiki-verisign.png" width="" height="" alt="Verified by Visa and Certified by Shop Wiki">
+<script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.absolutemusic.co.uk&amp;size=M&amp;lang=en"></script>
+</li>
+</ul>
+<p id="footer-site-by">Website by <a href="http://www.refreshedmedia.com/">Refreshed Media</a> and <a href="http://www.meanbee.com">Meanbee</a></p>
+<ul class="messages cookie-message">
+<li class="error-msg">
+<ul>
+<li>
+<span>
+We are currently storing cookies on your computer in order to improve our website. To find out more, see our <a href="">privacy policy</a>.
+</span>
+<button>Delete Cookies and Opt-out</button>
+</li>
+</ul>
+</li>
+</ul> </div>
+</div>
+</footer>
+<div id="fb-root"></div>
+<script language="JavaScript" type="text/javascript">
+/*<![CDATA[*/
+window.fbAsyncInit = function() {
+	FB.init({appId: '358412484235790',             
+	    status     : true, 
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true});
+
+	FB.getLoginStatus(function(response) {
+	   if (response.status == 'connected') {
+	    	   }
+	});
+};
+
+(function(d, debug){
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_GB/all" + (debug ? "/debug" : "") + ".js";
+        ref.parentNode.insertBefore(js, ref);
+}(document, /*debug*/ true));
+
+function login(){
+	   document.location.href="http://www.absolutemusic.co.uk/facebookfree/customer/login/?referer=aHR0cDovL3d3dy5hYnNvbHV0ZW11c2ljLmNvLnVrL3ByaXZhY3ktcG9saWN5Lw,,";
+	}
+	function logout(){
+	   document.location.href="http://www.absolutemusic.co.uk/facebookfree/customer/logout/";
+	}
+	function greet(id){
+	   FB.api('/me', function(response) {
+		var src = 'https://graph.facebook.com/'+id+'/picture';
+		if($$('.welcome-msg').size() > 0)  {
+            $$('.welcome-msg')[0].insert('<img height="20" src="'+src+'"/>');
+	    }
+       });
+	}
+
+    function fblogin(){
+        FB.login(function(response) {
+
+           if (response.status == 'connected') {
+                login();
+            } else {
+                // user is not logged in
+                window.location.reload();
+            }
+        }, {scope:'email,publish_stream'});
+        return false;
+    }
+/*]]>*/
+</script>
+<script type="text/javascript">
+window.oldFbAsyncInit = window.fbAsyncInit || function(){};
+window.fbAsyncInit = function() {
+	window.oldFbAsyncInit();
+
+	var notification_elem = $('facebook-like-rewards-notification');
+	var flr = new FacebookLikeReward('http://www.absolutemusic.co.uk/rewardssocial/facebook_like/onLike/', $('facebook-like-rewards-notification-content'), '9G4i/Zkq1+6pQBDHZ7z5iuSfzHsPh0s7', $('facebook-like-rewards-ajax-loading'));
+
+	eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('7.2.3(\'c.d\',4(1){7.2.3(\'a.e\',4(1){9.b()});7.2.3(\'a.f\',4(1){9.g()});l(5){m 6=k.j(\'h\')[0].8;6.8.i(5,6);5.n()}});',24,24,'|response|Event|subscribe|function|notification_elem|likeButton|FB|parentNode|flr|edge|onLike|xfbml|render|create|remove|onUnLike|fb_iframe_widget|insertBefore|getElementsByClassName|document|if|var|show'.split('|'),0,{}));
+
+};
+
+</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.absolutemusic.co.uk/js/jquery-1.7.2.js"><\/script>')</script><script src="http://www.absolutemusic.co.uk/js/jquery-1.7.2.js"></script>
+<script type="text/javascript">$j = jQuery.noConflict();</script>
+ 
+<script defer="" src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/js/plugins.js"></script>
+<script defer="" src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/js/script.js"></script>
+ 
+<script type="text/javascript">document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https" : "http") + "://cdn.mouseflow.com/projects/50ea9eb0-c01a-437f-bd0f-7c7cbcdfc9fb.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://cdn.mouseflow.com/projects/50ea9eb0-c01a-437f-bd0f-7c7cbcdfc9fb.js" type="text/javascript"></script>
+<script src="http://www.absolutemusic.co.uk/js/jquery.jcarousel.min.js"></script>
+<script src="http://www.absolutemusic.co.uk/js/jquery.dropkick-1.0.0.js"></script>
+<script src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/js/meanbee.js"></script>
+<script src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/js/brands.js"></script>
+<script src="http://skin.absolutemusic.co.uk/skin/frontend/absolutemusic/default/js/catalog/category.js"></script>
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 
 </body></html>
