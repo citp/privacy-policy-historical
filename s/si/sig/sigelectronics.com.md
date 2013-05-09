@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014131242id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509230907id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
 
 # SIG Electronics, Privacy Policies
 
@@ -56,7 +56,7 @@ We may employ third party companies to perform functions on our behalf. These fu
 
 | Canada Post | Purolator | USPS  
 ---|---|---  
-4567 Dixie Rd | 5995 Avebury Road | 475 L’Enfant Plaza, SW  
+4567 Dixie Rd | 5995 Avebury Road | 475 L'Enfant Plaza, SW  
 Mississauga, Ontario | Mississauga, Ontario | Washington, DC  
 L4W 1S2  | L5R 3T8  | 20260-2202  
 1-866-607-6301 | 1-888-744-7123 | 1-800-222-1811  
@@ -82,15 +82,15 @@ Back to Top
 
 **CHILDREN**
 
-SIG Electronics does not sell products for purchase by children. We sell children’s products for purchase by adults. If you are under the age of 18, you may only use SIG Electronics.com in the presence of a consenting parent or guardian. We will not knowingly or intentionally collect personal information via the Internet from children under the age of 13. SIG Electronics is committed to protecting the welfare and privacy of children.
+SIG Electronics does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under the age of 18, you may only use SIG Electronics.com in the presence of a consenting parent or guardian. We will not knowingly or intentionally collect personal information via the Internet from children under the age of 13. SIG Electronics is committed to protecting the welfare and privacy of children.
 
 Back to Top
 
 **SECURITY**
 
-SIG Electronics takes precautions to protect its customers’ information. When you submit sensitive information via the website, your information is protected both online and offline.
+SIG Electronics takes precautions to protect its customers' information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the webpage. 
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the webpage. 
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
@@ -110,7 +110,7 @@ Back to Top
 
 **TERMS AND CONDITIONS, NOTICES, AND REVISIONS**
 
-If you choose to visit SIG Electronics.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law. If you have any concern about privacy at SIG Electronics.com, please contact us ([webmaster@sigelectronics.com](mailto:webmaster@sigelectronics.com)) and we’ll try to resolve it.
+If you choose to visit SIG Electronics.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law. If you have any concern about privacy at SIG Electronics.com, please contact us ([webmaster@sigelectronics.com](mailto:webmaster@sigelectronics.com)) and we'll try to resolve it.
 
 Our business changes constantly, and our Privacy Policy and the Terms and Conditions will change also. We will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected.
 
