@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109010040id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509153324id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Skinny Ms.
+# Privacy Policy
 
 This is the web site of SkinnyMs., LLC.
 
@@ -42,6 +42,8 @@ Upon request Skinny Ms. LLC provides site visitors with access to communications
 Consumers can access this information by e-mailing Skinny Ms. LLC at the above address.
 
 Consumers can have this information corrected by sending Skinny Ms. LLC e-mail at the above address.
+
+**Third Party Cookie Disclosure Notice:** In some instances, third parties may be placing and reading cookies on the web browsers of visitors to this website, or using web beacons to collect information as a result of ad serving on this website. Such cookies do _not_ attempt to collect information of a sensitive or personally identifiable nature.
 
 **With respect to security:**  
 When Skinny Ms. LLC transfers and receives certain types of sensitive information such as financial information, we redirect visitors to a secure server via our shopping cart, or by redirecting you to Amazon.com (our affiliate account) or PayPal.com (for direct payments).
