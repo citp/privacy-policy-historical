@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the mazdigital.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113210241id_/http%3A//www.mazdigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazdigital.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093847id_/http%3A//www.mazdigital.com/privacy) for the most accurate reproduction.*
 
-# MAZ
+# 
 
-**PRIVACY POLICY**
-
-**Last Updated: 12/4/11**
-
-Welcome to _MAZ_ , also referred to as MagAppZine, which is operated by MAZ Digital LLC (" _Company_ ", " _we_ ", " _us_ " or " _our_ "). This is the privacy policy (" _Privacy Policy_ ") for (a) the website located at www.mazdigital.com and magappzine.com and all corresponding web pages associated with the foregoing URL ("Site"), and (b) any content, information, features, functionality and services offered by us through the Site (collectively, and together with the Site, the " _Services_ "). Please review our [Terms of Service Agreement](http://www.mazdigital.com/terms) which governs your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have the meaning ascribed in the [Terms of Service Agreement](http://www.mazdigital.com/terms).
+Welcome to _MAZ_ , also referred to as MagAppZine, which is operated by MAZ Digital Inc. (" _Company_ ", " _we_ ", " _us_ " or " _our_ "). This is the privacy policy (" _Privacy Policy_ ") for (a) the website located at www.mazdigital.com and magappzine.com and all corresponding web pages associated with the foregoing URL ("Site"), and (b) any content, information, features, functionality and services offered by us through the Site (collectively, and together with the Site, the " _Services_ "). Please review our [Terms of Service Agreement](https://web.archive.org/terms) which governs your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have the meaning ascribed in the [Terms of Service Agreement](https://web.archive.org/terms).
 
 This Privacy Policy will remain in full force and effect, even if your use of or participation in the Services or any other particular service, feature, function or promotional activity offered on or in connection with the Services terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Services which require your personal information.
 
@@ -74,7 +70,7 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
 
 4.3 **Service Providers.** We also have the right to disclose your Personal Information and other information to third parties and affiliates for the purpose of administering and maintaining the Services, and other features, functions and operations in connection therewith. We will refer to these parties in this context as "Site service providers". We use Site service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Information to Site service providers for the purpose of providing services to us. These Site service providers may temporarily store some information on their servers, but they may only use your Personal Information to provide us with a specific service and not for any other purpose and agree to keep such Personal Information secure and confidential.
 
-4.4 **Additional Disclosures.** There may be instances when we may access or disclose Information without providing you a choice in the following circumstances: (a) to protect or defend the legal rights or property of Company, our affiliated companies or their employees, agents and contractors (including enforcement of our agreements); (b) to protect the safety and security of our Site, the Services and users; (c) protect against fraud or for risk management purposes; (d) if we believe your actions violate the [Terms of Service Agreement](http://www.mazdigital.com/terms), this Privacy Policy, or any Additional Terms; or (e) to comply with law or legal process. In addition, if Company sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business or any other similar transaction, Company may transfer your Personal Information to the party or parties involved in the transaction as part of that transaction who may use that Information for the purposes set forth in this Privacy Policy.
+4.4 **Additional Disclosures.** There may be instances when we may access or disclose Information without providing you a choice in the following circumstances: (a) to protect or defend the legal rights or property of Company, our affiliated companies or their employees, agents and contractors (including enforcement of our agreements); (b) to protect the safety and security of our Site, the Services and users; (c) protect against fraud or for risk management purposes; (d) if we believe your actions violate the [Terms of Service Agreement](https://web.archive.org/terms), this Privacy Policy, or any Additional Terms; or (e) to comply with law or legal process. In addition, if Company sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business or any other similar transaction, Company may transfer your Personal Information to the party or parties involved in the transaction as part of that transaction who may use that Information for the purposes set forth in this Privacy Policy.
 
 **5\. USER CHOICE, WITHDRAWAL OF CONSENT AND ACCESS**
 
@@ -86,7 +82,7 @@ While no data transmission over the Internet is 100% secure from intrusion, we m
 
 **7\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
-If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal Information by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [support@mazdigital.com](mailto:support@mazdigital.com) or by postal mail to MAZ Digital LLC, PO Box 134, Pleasantville, NY 10570, Attn: Your California Privacy Rights.
+If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal Information by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [support@mazdigital.com](mailto:support@mazdigital.com) or by postal mail to MAZ Digital Inc., PO Box 134, Pleasantville, NY 10570, Attn: Your California Privacy Rights.
 
 All requests must be labeled "Your California Privacy Rights" on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
@@ -114,7 +110,7 @@ Email: [support@mazdigital.com](mailto:support@mazdigital.com)
 
 OR
 
-Mail: MAZ Digital LLC  
+Mail: MAZ Digital Inc.  
 Attn: Privacy Concerns  
 PO Box 134  
 Pleasantville, NY 10570  
@@ -125,4 +121,4 @@ Pleasantville, NY 10570
 This document is the sole statement of the Privacy Policy for the Services and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2012 MAZ Digital LLC
+Copyright © 2012 MAZ Digital Inc.
