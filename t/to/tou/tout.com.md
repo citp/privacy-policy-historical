@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tout.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602194821id_/http%3A//www.tout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tout.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509152049id_/http%3A//www.tout.com/privacy) for the most accurate reproduction.*
 
-# TOUT | Life's Moments
+# TOUT | Tout It Out!
 
 Our privacy policy explains how personal information is collected, used and disclosed by Tout with respect to your access and use of Tout's site (located at www.Tout.com) and Tout's social networking services (available via Tout's site and Tout's Mobile application). Our privacy policy may be modified from time-to-time. We will alert you that changes have been made by indicating on our privacy policy the date it was last updated.
 
@@ -69,4 +69,4 @@ Learn more about copyright
 
 ### Problems or Technical Support
 
-To contact Team Tout regarding any support, product help or technical issues around the Tout apps or website, please use the "FEEDBACK" button or email us directly at [help@tout.com](mailto:%20help@tout.com)
+To contact Team Tout regarding any support, product help or technical issues around the Tout apps or website, please use the "FEEDBACK" button or visit our [Customer Support Page](http://www.getsatisfaction.com/tout)
