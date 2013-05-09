@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107125308id_/http%3A//allfreelogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509200846id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,8 +30,8 @@ If you feel that this site is not following its stated information policy, you m
 
 In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at <http://lcweb.loc.gov/copyright/>, AllFreeLogo will respond expeditiously to claims of copyright infringement that are reported to AllFreeLogo. If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to AllFreeLogo by providing all the necessary information to info[at]allfreelogo.com. 
 
-### [What to Expect from Your Logo Designer](https://web.archive.org/article/what-to-expect-from-your-logo-designer.html "What to Expect from Your Logo Designer")
+### [Good Logos Make Great Sales Tools](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")
 
-**Angelina O'Connor**
+**Chris Smith**
 
-I recently had my website designed, and my new logo created for my company. I would like to use it, but my printer can't use the file he gave me! I just got business cards printed from it, but they didn't look good. I don't know what to do. {[Read Full Article](https://web.archive.org/article/what-to-expect-from-your-logo-designer.html "What to Expect from Your Logo Designer")}
+A logo is a unique visual image that represents a company or its products. It aims to create a positive and memorable impression in the minds of the people who see it. In addition, a good logo can make a sale by saying something about the company to customers when there is no sales person present. {[Read Full Article](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")}
