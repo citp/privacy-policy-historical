@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycitydeal.co.za privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012153025id_/http%3A//www.groupon.co.za/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycitydeal.co.za privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509071812id_/http%3A//www.groupon.co.za/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, travel, shopping - Groupon.co.za
 
