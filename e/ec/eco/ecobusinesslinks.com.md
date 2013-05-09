@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecobusinesslinks.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106014445id_/http%3A//www.ecobusinesslinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobusinesslinks.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509233912id_/http%3A//www.ecobusinesslinks.com/privacy-policy) for the most accurate reproduction.*
 
 # EcoBusinessLinks – Privacy Policy | EcoBusinessLinks
 
-Last Updated: 11/03/2012
+Last Updated: 05/09/2013
 
 EcoBusinessLinks is committed to protecting the privacy of website visitors. Any information provided to EcoBusinessLinks will be for internal use only. Personal information submitted to this website, including contact information and email addresses, will not be provided to any third-party, except for legal purposes if necessary.
 
