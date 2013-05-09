@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dropshipaccess.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010144735id_/http%3A//www.dropshipaccess.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dropshipaccess.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509150453id_/http%3A//www.dropshipaccess.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy Policy | Drop Ship Access</title>
@@ -27,15 +27,25 @@ div#sidebar2 {
 }
 </style>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//static.hubspot.com/js/fm.js"></script><script src="includes/preload.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//static.hubspot.com/js/fm.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=358761874939"></script><script src="includes/preload.js" type="text/javascript"></script>
 </head>
 <body>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=358761874939";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 <div class="mainbody">
 <div id="header">
 <a href="http://www.dropshipaccess.com/index.php"><img id="logo" src="images/dsalogo.gif" alt="Drop Ship"></a>
-<img id="creditcards" src="images/cc.gif">
+<div style="margin-right:10px;overflow:hidden" class="fb-like" data-href="http://www.dropshipaccess.com" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div><img id="creditcards" src="images/cc.gif">
 	
 	<a href="https://www.dropshipaccess.com/login.php">Customer Login</a>
 
@@ -44,8 +54,6 @@ div#sidebar2 {
 </div>
 
 <ul id="menu" style="margin-left:140px">
-
-
 
 <li class=""><img src="images/menuleft.jpg" class="menuleft"><a href="http://www.dropshipaccess.com/index.php">Drop Ship</a><img src="images/menuright.jpg" class="menuright"></li>
 <li class=""><img src="images/menuleft.jpg" class="menuleft"><a href="http://www.dropshipaccess.com/products.php">Products</a><img src="images/menuright.jpg" class="menuright"></li>
@@ -144,12 +152,12 @@ constitutes acceptance of our
 
 <div id="sidebar" style="">
 <font style="color:grey;">Access to over <br>
-<span style="font-size:22px;">1,700,000 products</span> <br>
+<span style="font-size:22px;">1,889,735 products</span> <br>
 at wholesale prices</font>
 <br>
 <a href="http://www.dropshipaccess.com/products.php">See Products</a>
 <br><br><br>
-<font style="font-size:22px;color:grey;">Over 10,000 clients</font> <br>
+<font style="font-size:22px;color:grey;">Over 14,000 clients</font> <br>
 <a href="http://www.dropshipaccess.com/dropship_review.php">Read Testimonials</a>
 <br><br><br>
 <font style="color:grey;">Includes Major Brands</font><br>
@@ -161,7 +169,9 @@ at wholesale prices</font>
 <img class="logo" src="images/yahoologo.gif"><br>
 <a href="http://www.dropshipaccess.com/drop_ship_store.php">Learn more</a>
 <br><br>
-<img class="logo" border="0" src="images/bbb_111x100.png" alt="Drop Ship Access is accredited with the Better Business Bureau" width="78" height="70">
+<a href="http://www.bbb.org/toledo/business-reviews/mailing-services-drop-shipper/drop-ship-access-in-monroe-mi-20000681" target="_blank" rel="nofollow">
+<img class="logo" border="0" src="images/bbb_111x100_nograde.png" alt="Drop Ship Access is accredited with the Better Business Bureau" width="78" height="70">
+</a>
 <br>
 </div>
 </div>
@@ -178,7 +188,7 @@ at wholesale prices</font>
   <a href="http://www.dropshipaccess.com/contact_us.php" rel="nofollow">Contact Us</a> | 
   <a href="http://www.dropshipaccess.com/privacy.php" rel="nofollow">Privacy Policy</a> |
   <a href="http://www.dropshipaccess.com/sitemap.php">Site Map</a> <br>
-Copyright © 2011 dropshipaccess.com. All rights reserved.
+Copyright © 2013 dropshipaccess.com. All rights reserved.
 
 
 <!-- hubspot.com follow code -->
@@ -199,11 +209,13 @@ window.onload = function() {
 
 	var links = document.getElementsByTagName("a");
 	for (var i=0; i<links.length; i++) {
-	if (links[i].getAttribute("href").indexOf("youtube")>0 || links[i].getAttribute("href").indexOf("twitter")>0 || links[i].getAttribute("href").indexOf("google")>0) {
-	 links[i].onclick = function() {
-	    return !window.open(this.href);
-	 }
-	}
+		if(links[i].hasAttribute("href")){
+			if (links[i].getAttribute("href").indexOf("youtube")>0 || links[i].getAttribute("href").indexOf("twitter")>0 || links[i].getAttribute("href").indexOf("google")>0) {
+			 links[i].onclick = function() {
+			    return !window.open(this.href);
+			 }
+			}
+		}
 	}
 }
 
