@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localbuzz.com.au privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029105240id_/http%3A//www.localbuzz.com.au/cms.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbuzz.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509152453id_/http%3A//www.localbuzz.com.au/cms.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy : LocalBuzz!
 
@@ -64,9 +64,9 @@ Our purpose in collecting information about you is to:
 
 If you do not provide requested information, LocalBuzz! may not be able to provide you with access to or full use of sections of the LocalBuzz! website.
 
-**Third Parties.** We may distribute your submissions to third parties, as permitted pursuant to our Terms of Use. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name (but not your personal information unless you include your personal information in your submissions).
+**Third Parties.** We may distribute your submissions to third parties, as permitted pursuant to our Terms of Use. The third [christian louboutin shoes](http://tiklouboutin.blog.co.uk/) parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name (but not your personal information unless you include your personal information in your submissions).
 
-We may share your personal information with third parties to provide you with services that we offer through the LocalBuzz Sites, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.
+We may share your personal information with third parties to provide you with services that we offer through the LocalBuzz Sites, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your [hermes outlet](http://hermesoutlet.xp3.biz/) instructions. These third parties are required not to use your personal information other than to provide the services requested by you.
 
 **Affiliates.** We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** ") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
 
@@ -108,4 +108,4 @@ The LocalBuzz Sites may contain links to third party websites to which we have n
 
 **5\. Future changes**
 
-Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features. Because of this, from time to time, our policies will be reviewed and may be revised. LocalBuzz! reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each LocalBuzz! website.[Breitling Bentley](http://www.qualityreplica.biz/breitling/bentley) The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
+Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features. Because of this, from time to time, our policies will be reviewed and may be revised. LocalBuzz! reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each LocalBuzz! website. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
