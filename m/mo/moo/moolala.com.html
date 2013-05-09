@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the moolala.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919220151id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moolala.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509035830id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
     
     <meta name="title" content="Moolala: Great Deals, Amazing Rewards">
@@ -13,8 +14,8 @@
 
     <script src="http://www.moolala.com/Scripts/jquery.min.js" type="text/javascript"></script>
     <script src="http://www.moolala.com/Scripts/cufon-yui.js" type="text/javascript"></script>
-    <script src="http://www.moolala.com/Scripts/common.js?date=20110615" type="text/javascript"></script>
-    <script src="http://www.moolala.com/Scripts/dialog.js?v=469054CA98" type="text/javascript"></script>
+    <script src="http://www.moolala.com/Scripts/common.js" type="text/javascript"></script>
+    <script src="http://www.moolala.com/Scripts/dialog.js" type="text/javascript"></script>
     <script src="http://www.moolala.com/Scripts/jquery.colorbox-min.js" type="text/javascript"></script>
 
     
@@ -24,7 +25,7 @@
     
 
     <link rel="stylesheet" href="http://www.moolala.com/Content/common.css" type="text/css">
-    <link rel="stylesheet" href="http://www.moolala.com/Content/moolala.css?v=469054CA98" type="text/css">
+    <link rel="stylesheet" href="http://www.moolala.com/Content/moolala.css?release=20130220" type="text/css">
     <link rel="stylesheet" href="http://www.moolala.com/Content/colorbox_white.css" type="text/css">
     <link rel="shortcut icon" type="image/x-icon" href="http://files.moolala.com/favicon.ico">
 
@@ -72,7 +73,7 @@
         refreshCufonFonts();
         $(function() {
             
-                Cufon.replace('#headernav .label a', { hover: true, fontFamily: 'regular1' });
+                Cufon.replace('.headernav .label a', { hover: true, fontFamily: 'regular1' });
             
                 Cufon.replace('#topSignupForm h4', { hover: true, fontFamily: 'regular1' });
             
@@ -90,6 +91,9 @@
         });
     </script>
 
+    
+            <script src="//cdn.optimizely.com/js/122344000.js"></script>
+    
 <script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script></head>
 
 
@@ -100,7 +104,7 @@
         <!--script src="http://connect.facebook.net/en_US/all.js"></script-->
         <script type="text/javascript" language="javascript">
 
-            function afterFacebookConnect() {
+            function afterFacebookConnect(returnUrl) {
                 FB.getLoginStatus(function (response) {
                     /*if (response.status == 'connected') {
                         var uid = response.authResponse.userID;
@@ -112,7 +116,7 @@
                         alert('user not logged on fb');
                     }*/
                     if (response.authResponse) {
-                        window.location = "../Facebook/Login?token=" + response.authResponse.accessToken;
+                        window.location = "/Facebook/Login?ReturnUrl="+ returnUrl +"&token=" + response.authResponse.accessToken;
                     } else {
                         // user clicked Cancel
                     }
@@ -150,7 +154,7 @@
             <div class="left topSignupFormAndResult">
                 <div id="topSignupForm" class="topSignupForm">
                     <form action="/Signup/TopSignup" id="topSignupForm" method="post">
-                        <input type="hidden" name="TopSignupReturnURL" value="/Docs/Privacy">
+                        <input type="hidden" name="TopSignupReturnURL" value="/docs/privacy">
                         
                         <div class="right">
                             <input class="topSignupButton" type="submit" value="" onclick="this.blur();return topSignupBarSubmit();">
@@ -212,7 +216,7 @@
                 loadTopSignupBarCountriesPopup();
             }
         });
-        var topSignupBarCurrentLocationID = 830;
+        var topSignupBarCurrentLocationID = 835;
         function loadTopSignupBarCountriesPopup() {
             var href = '/Location/TopSignupBarCountriesPopup/?ajax=1';
             $.colorbox({ opacity: 0.5, href: href });
@@ -295,52 +299,56 @@
         loadTopSignupBar();
     </script>
     
+
 <div id="bodybkg">
 <div id="main">
+    
     <header>
         <div id="headerbkg">
             <div id="headercontainer">
                 <div id="headerleft">
                     
-                    <a href="http://www.moolala.com/"><img src="http://files.moolala.com/images/header-logo-2.png" alt="Moolala - Logo" width="224" height="90" border="0"></a>
+                    <a href="http://www.moolala.com/"><img src="/Images/header-logo-2.png" alt="Moolala - Logo" width="224" height="90" border="0"></a>
                 </div>
-                <div id="headerright">
-                    <ul id="logininfonav">
-                        
-                                <li><a href="https://www.moolala.com/Signup">SIGN UP</a></li>
-                                <li><a href="https://www.moolala.com/Login?ReturnUrl=/Docs/Privacy">LOG IN</a></li>
-                               
-                    </ul>
-                    <div class="clear"></div>
-
-                    <div id="topLocationContainer">
-                    
-                    </div>
-                    
-                    
-                        <div id="headernav" class="left" style="width:665px;">
-                            <div class="left">
-                                <div class="arrow"><div class="arrowright" onclick="location.href='http://www.moolala.com/Deals';"></div></div>
-                                <div class="label" style="margin-right:25px;"><a href="http://www.moolala.com/Deals" onclick="this.blur();">Today's Deal</a></div>
-                                <div class="arrow"><div class="arrowright" onclick="location.href='http://www.moolala.com/About/HowItWorks';"></div></div>
-                                <div class="label"><a href="http://www.moolala.com/About/HowItWorks" onclick="this.blur();">How It Works</a></div>
-                                <div class="clear"></div>
-                            </div>
-                            <div class="right">
-                                <div class="arrow"><div class="arrowright" onclick="location.href='http://www.moolala.com/Member/Paymatrix';"></div></div>
-                                <div class="label"><a href="http://www.moolala.com/Member/Paymatrix" onclick="this.blur();">My Paymatrix</a></div>
-                                <div class="clear"></div>
-                            </div>
-                            <div class="clear"></div>
+                <div id="headermiddle">
+                    <div style="float:left; width:370px;">
+                        <div id="topLocationContainer">
+                            
                         </div>
                         
+
+                            <div class="headernav left" style="width:300px;">
+                                <div class="left">
+                                    <div class="arrow"><div class="arrowright" onclick="location.href='http://www.moolala.com/Deals';"></div></div>
+                                    <div class="label" style="margin-right:25px;"><a href="http://www.moolala.com/Deals" onclick="this.blur();">Today's Deal</a></div>
+                                    <div class="arrow"><div class="arrowright" onclick="location.href='http://www.moolala.com/About/HowItWorks';"></div></div>
+                                    <div class="label"><a href="http://www.moolala.com/About/HowItWorks" onclick="this.blur();">How It Works</a></div>
+                                    <div class="clr"></div>
+                                </div>
+                                <div class="clr"></div>
+                            </div>
+
+                        
+                    </div>
+                    <a id="iPhoneAppBadge" style="" target="itunes" href="http://itunes.apple.com/us/app/moolala/id477464692?mt=8"></a>
+                    <div class="clr"></div>
                 </div>
-                <div class="clear"></div>
+                <div id="headerright">
+                    <div id="logininfonav">
+                        
+                                <a id="LogInLink" style="margin-left:60px;" href="https://www.moolala.com/Login?ReturnUrl=/docs/privacy">LOG IN</a>
+                                <a href="https://www.moolala.com/Signup">SIGN UP</a>
+                               
+                        <div class="clr"></div>
+                    </div>
+
+                    
+                </div>
 
             </div>
         </div>
     </header>
-
+    
 
     <div id="content">
         
@@ -456,7 +464,7 @@
     <div id="footerbkg"></div>
     <div id="footerbox">
         <div class="left">
-            <a href="http://www.moolala.com/"><img src="http://files.moolala.com/images/foot-logo.png" alt="Moolala - Logo"></a><br>
+            <a href="http://www.moolala.com/"><img src="/Images/foot-logo.png" alt="Moolala - Logo"></a><br>
             
         </div>
         <div id="footerNav">
@@ -475,13 +483,14 @@
                 <ul class="second">
                     <li><a href="http://www.moolala.com/Docs/Privacy">Privacy Policy</a></li>
                     <li><a href="http://www.moolala.com/Docs/TermsOfUseAndTermsOfSale">The Terms</a></li>
+                    <li><a href="http://www.moolala.com/Docs/DealRefundPolicy">Deal Refund Policy</a></li>
                     <li><a href="http://www.moolala.com/Docs/MembershipAgreement">Membership Agreement</a></li>
                     <li><a href="http://getfeatured.moolala.com" target="_blank">Moolala for Your Business</a></li>
                     <li><a href="http://www.moolala.com/About/ReferABusiness">Refer a Business</a></li>
                     <li><a href="http://www.moolala.com/Give">Non-Profit Partnerships</a></li>
                 </ul>
         <div class="copyright"><p>© 2010-2011 Moolala, Inc. Patent pending. All rights reserved.</p>
-                  <div class="tab"><a href="http://www.facebook.com/Moolala" target="_blank"><img src="http://files.moolala.com/images/footer-facebook-36.png" alt="Find us on Facebook"></a><a href="http://twitter.com/moolala" target="_blank"><img src="http://files.moolala.com/images/footer-twitter-36.png" alt="twitter"></a></div>
+                  <div class="tab"><a href="http://www.facebook.com/Moolala" target="_blank"><img src="/Images/footer-facebook-36.png" alt="Find us on Facebook"></a><a href="http://twitter.com/moolala" target="_blank"><img src="/Images/footer-twitter-36.png" alt="twitter"></a></div>
                 </div>
             </div>   
         </div>
@@ -508,7 +517,7 @@
     </script>
 
 <div id="supportDogEar">
-    <a class="supportDogEarLink" href="#"><img src="http://files.moolala.com/images/support-dogear.png" alt=""></a>
+    <a class="supportDogEarLink" href="#"><img src="/Images/support-dogear.png" alt=""></a>
 </div>
 
 <div style="display:none">
@@ -531,27 +540,6 @@
     </div>
 </div>
 
-
-<div id="SnapABug_W"></div>
-<div id="SnapABug_WP"></div>
-<div id="SnapABug_Applet"></div>
-      
-<script type="text/javascript">
-    document.write(unescape("%3Cscript src='" + ((document.location.protocol == "https:") ? "https:" : "http:") + "//snapabug.appspot.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script>
-<script type="text/javascript">
-    SnapABug.setDomain('.moolala.com');
-    SnapABug.initAsync('72b9767e-cbe7-47e4-9530-554b8b1c9179');
-
-    
-    var img = $('<img />').attr('src', ((document.location.protocol == "https:") ? "https:" : "http:") + '//snapabug.appspot.com/statusImage?w=72b9767e-cbe7-47e4-9530-554b8b1c9179').load(function() {
-        try {
-            if (this.naturalWidth <= 1)
-                $('.chat').hide();
-        } catch (err) { }            
-    });
-    
-</script>
 
 
 
