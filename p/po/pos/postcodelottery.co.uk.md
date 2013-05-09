@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the postcodelottery.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016051611id_/http%3A//www.postcodelottery.co.uk/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodelottery.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509081701id_/http%3A//www.postcodelottery.co.uk/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # People's Postcode Lottery UK - Privacy Policy
-
-## Privacy Policy
 
 People's Postcode Lottery is committed to protecting the personal information of all its service users. We recognise our obligation to keep personal information secure and believe that it is important for our customers to know how we treat their personal information. This policy applies to personal information collected by People's Postcode Lottery Ltd. about applicants to, and players of, the People's Postcode Lottery and visitors to its website[s]. The lottery is administered by People's Postcode Lottery Limited, a member of the Novamedia group of companies, which is the data controller of the information collected for the purposes of the lottery.
 
