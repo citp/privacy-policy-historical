@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515053152id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509215950id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
 
 # BrightNest | Privacy Policy
 
@@ -31,7 +31,7 @@ In order to better understand your preferences and better serve you, we may comb
 
 To provide you with certain social features, we may collect information about your contacts or friends from third party websites that provide access to this information. We respect and follow the privacy policies of those third party services with regard to the data we collect from them.
 
-You may also provide information about your home by inputting such information in our “homefolio” feature that allows us to customize our To-Do's and your user experience. You can enter (and we store) information about paint color, types of appliances, and other home related info.
+You may also provide information about your home by inputting such information in our “homefolio” feature that allows us to customize our To-Dos and your user experience. You can enter (and we store) information about paint color, types of appliances, and other home related info.
 
 **USING INFORMATION**
 
