@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919213713id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509135644id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
@@ -164,5 +164,5 @@ MindField Online c/o McMillion Research LLC.
 1012 Kanawha Blvd. East, Suite 301  
 Charleston, WV 25301
 
-©2008 MindField Internet Panels, a division of [McMillion Research LLC](http://www.mcmillionresearch.com/). Toll free: 800.969.9235  
+©2004-2013 MindField Internet Panels, a division of [McMillion Research LLC](http://www.mcmillionresearch.com/). Toll free: 800.969.9235  
 All rights reserved - Site Design: The Creative Team of MindField Online & McMillion Research 
