@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sswitt.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003091840id_/http%3A//www.sswitt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sswitt.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510001831id_/http%3A//sswitt.com/privacy.html) for the most accurate reproduction.*
 
 # Super Switt Links Directory - Privacy Policy
 
