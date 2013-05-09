@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thinreport.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201125210id_/http%3A//www.thinreport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinreport.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509072107id_/http%3A//www.thinreport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### Introduction
 
-[ThinReport.com](http://www.thinreport.com/) respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at **ThinReport.com** ’s Web site.
+[ThinReport.com](http://www.thinreport.com/ "ThinReport.com") respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at **ThinReport.com** ’s Web site.
 
 #### Information Collection
 
@@ -12,7 +12,7 @@ ThinReport.com collects referrer information from visitors to our website. This 
 
 We verify the accuracy of this information using complex proprietary tracking software.
 
-We may or may not employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable [ThinReport.com](http://www.thinreport.com/) to track usage patterns and deliver customized content to users. Our cookies may or may not have an expiration date. Our cookies may or may not collect personally identifiable information.
+We may or may not employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable [ThinReport.com](http://www.thinreport.com/ "ThinReport.com") to track usage patterns and deliver customized content to users. Our cookies may or may not have an expiration date. Our cookies may or may not collect personally identifiable information.
 
 #### Information Usage
 
@@ -50,10 +50,10 @@ Any personal information (E-mail address, Phone numbers, fax numbers, physical a
 
 #### Google Adsense and Third Party Advertising
 
-We use [Google AdSense](http://en.wikipedia.org/wiki/AdSense) and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please click here: <http://www.google.com/privacy.html>
+We use [Google AdSense](http://en.wikipedia.org/wiki/AdSense "Google AdSense") and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please click here: <http://www.google.com/privacy.html>
 
 #### DoubleClick Dart Cookies
 
 Google AdSense uses the DoubleClick DART cookie to gather the information specified above. In the course of serving advertisements to this site, our third-party advertiser may place or recognize cookies on your browser. You may decline to provide personal information to them and/or refuse cookies in your browser, although some of features may not function properly as a result. For more information on the DoubleClick DART cookie and privacy: <http://www.doubleclick.com/privacy/faq.aspx>
 
-[](http://www.doubleclick.com/privacy/faq.aspx)This Privacy Policy was last updated on 03-18-2009
+[](http://www.doubleclick.com/privacy/faq.aspx "doubleclick.com")This Privacy Policy was last updated on 03-18-2009
