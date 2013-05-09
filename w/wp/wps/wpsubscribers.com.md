@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsubscribers.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827111734id_/http%3A//www.wpsubscribers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsubscribers.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510001822id_/http%3A//www.wpsubscribers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPSubscribers - Premium Wordpress Subscription Plugin
 
