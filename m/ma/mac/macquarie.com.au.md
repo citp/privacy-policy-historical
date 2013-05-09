@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120072914id_/http%3A//www.macquarie.com.au/mgl/au/sitewide/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509153900id_/http%3A//www.macquarie.com.au/mgl/au/sitewide/privacy-policy) for the most accurate reproduction.*
 
-# Macquarie Group Privacy Policy
+# None
 
 Central to the success of Macquarie Group (being Macquarie Group Limited and its related bodies corporate globally) is our commitment to our clients. We honour without reservation our obligation to respect and protect the privacy of the personal information of individuals with whom we deal. 
 
