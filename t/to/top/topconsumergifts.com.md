@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topconsumergifts.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521020512id_/http%3A//topconsumergifts.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14862%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topconsumergifts.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509111413id_/http%3A//topconsumergifts.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14862%26gift%3D71) for the most accurate reproduction.*
 
 # Topconsumergifts
 
