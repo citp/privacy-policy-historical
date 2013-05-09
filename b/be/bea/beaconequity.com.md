@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaconequity.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222185059id_/http%3A//www.beaconequity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaconequity.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509023755id_/http%3A//www.beaconequity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beacon Equity: Penny Stocks, Stock Alerts
 
@@ -37,4 +37,4 @@ At any time you may request to be removed from our mailing list by clicking the 
 
 If you have any questions regarding our policies please feel free to contact us at the following URL:
 
-[http://www.beaconequity.com/contact/](https://web.archive.org/web/20121222185059id_/http://www.beaconequity.com/contact/)
+[http://www.beaconequity.com/contact/](https://web.archive.org/web/20130509023755id_/http://www.beaconequity.com/contact/)
