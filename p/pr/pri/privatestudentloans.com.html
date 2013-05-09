@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the privatestudentloans.com privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214215001id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the privatestudentloans.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509062304id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>	
 		    
@@ -76,7 +76,8 @@
 </script>
 <!-- END Google Analytics tracking --> 
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.1.1.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">	
@@ -85,44 +86,42 @@ stLight.options({
 		publisher: "3eec62ca-3857-4d52-82c8-6a939b7a8fca"
 });
 
-// add functions to run when the buttons get clicked
-//jQuery(window).load(function() {	
 
-		function myCallbackFunction(event,service)
-		{
-				// push the social event to global GA
-				_gaq.push(['global._trackSocial', service, event, 'http://www.privatestudentloans.com/privacy.php']);				
-				
-				//PSL and SP use the g'darn www. on their own local tracking - account for this
-								
-				// push the social event to domain GA
-				_gaq.push(['._trackSocial', service, event, 'http://www.privatestudentloans.com/privacy.php']);
-	
-				// fire a tracking pixel
-				jQuery('body').append('<iframe src="http://tracking.edvisors.com/SL1w?adv_sub=' + service + '_' + event + '" scrolling="no" frameborder="0" width="1" height="1"></iframe>');
-		}
+	function myCallbackFunction(event,service) {
+
+		// push the social event to global GA
+		_gaq.push(['global._trackSocial', service, event, 'http://www.privatestudentloans.com/privacy.php']);				
 		
-		// This is the custom function to do the Google Plusone tracking
-		function trackPlusOne(obj) {
-				
-				obj.state = (obj.state == 'off') ? '-1' : '+1';
+		// push the social event to domain GA
+		_gaq.push(['._trackSocial', service, event, 'http://www.privatestudentloans.com/privacy.php']);
+		
+		// fire a tracking pixel
+		jQuery('body').append('<iframe src="http://tracking.edvisors.com/SL1w?adv_sub=' + service + '_' + event + '" scrolling="no" frameborder="0" width="1" height="1"></iframe>');
 
-				// push the social event to global GA
-				_gaq.push(['global._trackSocial', 'Google', obj.state, 'http://www.privatestudentloans.com/privacy.php']);				
-				
-				//PSL and SP use the g'darn www. on their own local tracking - account for this
-								
-				// push the social event to domain GA
-				_gaq.push(['._trackSocial', 'Google', obj.state, 'http://www.privatestudentloans.com/privacy.php']);
+		// is there a custom callback added?
+			}
 	
-				// fire a tracking pixel
-				jQuery('body').append('<iframe src="http://tracking.edvisors.com/SL1w?adv_sub=' + 'Google+1' + '_' + obj.state + '" scrolling="no" frameborder="0" width="1" height="1"></iframe>');		
+	// This is the custom function to do the Google Plusone tracking
+	function trackPlusOne(obj) {
+	
+		obj.state = (obj.state == 'off') ? '-1' : '+1';
+
+		// push the social event to global GA
+		_gaq.push(['global._trackSocial', 'Google', obj.state, 'http://www.privatestudentloans.com/privacy.php']);				
+			
+			
+		// push the social event to domain GA
+		if ((false) || ('-1' == obj.state)) {
+			_gaq.push(['._trackSocial', 'Google', obj.state, 'http://www.privatestudentloans.com/privacy.php']);
 		}
+
+		// fire a tracking pixel
+		jQuery('body').append('<iframe src="http://tracking.edvisors.com/SL1w?adv_sub=' + 'Google+1' + '_' + obj.state + '" scrolling="no" frameborder="0" width="1" height="1"></iframe>');		
+	}
+
+	//register the callback function with sharethis 
+	stLight.subscribe("click", myCallbackFunction); 
 	
-		//register the callback function with sharethis 
-		stLight.subscribe("click", myCallbackFunction); 
-	
-//});
 </script>	</head>
 	<body>
 		<!-- bof #wrapper -->
@@ -151,7 +150,7 @@ stLight.options({
 	      </div>
 	      <!-- eof #header -->
 			
-				<ul id="nav">
+		<ul id="nav">
 		
 	<li>
 		<a class="first" href="http://www.privatestudentloans.com/overview.php" title="Private Student Loan Overview">Private Loan Overview</a>
@@ -203,11 +202,9 @@ stLight.options({
 	<p><a href="http://www.privatestudentloans.com/lenders/wells-fargo.php" title="Wells Fargo Private Loan">Wells Fargo</a></p>
 	<p><a href="http://www.privatestudentloans.com/lenders/sallie-mae.php" title="Sallie Mae Private Loan">Sallie Mae</a></p>
 	<p><a href="http://www.privatestudentloans.com/lenders/suntrust.php" title="SunTrust Private Loan">SunTrust</a></p>
-	<p><a href="http://www.privatestudentloans.com/lenders/citi.php" title="CitiAssist Private Loan">Citi</a></p>
 	<p><a href="http://www.privatestudentloans.com/lenders/pnc.php" title="PNC Private Student Loan">PNC</a></p>
 	<p><a href="http://www.privatestudentloans.com/lenders/citizens-bank.php" title="Citizens Bank Private Loan">Citizens Bank</a></p>
 	<p><a href="http://www.privatestudentloans.com/lenders/discover.php" title="Discover Private Student Loan">Discover</a></p>
-	<p><a href="http://www.privatestudentloans.com/lenders/union-federal-savings-bank.php" title="Union Federal Private Student Loan">Union Federal</a></p>
 	<p><a href="http://www.privatestudentloans.com/lenders/charter-one.php" title="Charter One Private Loan">Charter One</a></p>
 	<p><a href="http://www.privatestudentloans.com/lenders/cu-student-loans.php" title="cuStudentLoans Private Loan">cuStudentLoans</a></p>
 
@@ -358,32 +355,32 @@ stLight.options({
 			
 								
 			<!-- bof #footer -->
-<div id="footer">
-    <div id="footerLeft">
-        <a target="_blank" title="Click here for BBB Business Review" href="http://www.bbb.org/boston/business-reviews/insurance-companies/edvisors-network-inc-in-quincy-ma-88239/#bbbonlineclick"><img alt="Click here for BBB Business Review" border="0" src="http://media.privatestudentloans.com/global/images/bbb-seal.png"></a>
-    </div>
+<div id="footer"><!-- no whitespace
 
-    <div id="footerRight">
-        <p>This Private Student Loan website is a service of <a href="http://www.studentloannetwork.com/" title="Student Loan Network" target="_blank">Student Loan Network</a>, an Edvisors <a href="http://www.edvisors.com/" title="Online Education Programs" target="_blank">Online Education</a> company.
-            <br>
-            © 2012 Edvisors. All rights reserved. 1250 Hancock Street, Suite 703N, Quincy, MA 02169.
-            <br>
-            <a href="http://www.privatestudentloans.com/contact.php" title="Contact Private Student Loans">Contact Us</a>
-            &nbsp;|&nbsp;
-            <a href="http://www.privatestudentloans.com/about.php" title="About PrivateStudentLoans.com">About Us</a>
-            &nbsp;|&nbsp;
-            <a href="http://www.privatestudentloans.com/privacy.php" title="Private Student Loans Privacy Policy">Privacy Policy</a>
-            &nbsp;|&nbsp;
-            <a href="http://www.privatestudentloans.com/sitemap.php" title="Private Student Loans Site Map">Site Map</a>
-            &nbsp;|&nbsp;
-            <a href="http://www.edvisors.com/advertising/" title="College Student Advertising and Marketing" target="_blank">Advertise</a>
-            &nbsp;|&nbsp;
-            <a href="http://www.privatestudentloans.com/affiliates.php" title="Private Student Loans Affiliate Program">Affiliates</a>
-        </p>
+	--><div id="footerLeft">
+		<a target="_blank" title="Click here for BBB Business Review" href="http://www.bbb.org/boston/Business-Reviews/scholarships-and-financial-aid/edvisors-network-inc-in-quincy-ma-88239/"><img alt="Click here for BBB Business Review" border="0" src="http://media.privatestudentloans.com/global/images/bbb-seal.png"></a>
+	</div><!-- no whitespace
 
-            </div>
-    <div class="clear"></div>
-</div>
+	--><div id="footerRight">
+		<p>
+			This Private Student Loan website is a service of 
+			<a href="http://www.studentloannetwork.com/" title="Student Loan Network" target="_blank">Student Loan Network</a>, an Edvisors 
+			<a href="http://www.edvisors.com/" title="Online Education Programs" target="_blank">Online Education</a> company.
+			<br>
+			© 2013 Edvisors. All rights reserved. 1250 Hancock Street, Suite 703N, Quincy, MA 02169.
+			<br>
+			<a href="http://www.privatestudentloans.com/contact.php" title="Contact Private Student Loans">Contact Us</a>
+			| <a href="http://www.privatestudentloans.com/about.php" title="About PrivateStudentLoans.com">About Us</a>
+			| <a href="http://www.privatestudentloans.com/privacy.php" title="Private Student Loans Privacy Policy">Privacy Policy</a>
+			| <a href="http://www.privatestudentloans.com/sitemap.php" title="Private Student Loans Site Map">Site Map</a>
+			| <a href="http://www.edvisors.com/advertising/" title="College Student Advertising and Marketing" target="_blank">Advertise</a>
+			| <a href="http://www.privatestudentloans.com/affiliates.php" title="Private Student Loans Affiliate Program">Affiliates</a>
+		</p>
+
+
+	</div><!-- no whitespace
+
+--></div>
 <!-- eof #footer -->			
 		</div>
 		<!-- eof #site_wrapper -->
@@ -391,33 +388,6 @@ stLight.options({
 	<!-- eof #wrapper -->		
 	
 	<!-- Start HTML body close -->
-
-	<!-- banner ad -->
-	<div id="container" style="display:none">
-		<div id="cbody">
-
-			<!--/* OpenX Javascript Tag v2.8.5 */-->
-			
-			<script type="text/javascript">
-			   var m3_u = (location.protocol=='https:'?'https://www.edvisors.net/www/delivery/ajs.php':'http://www.edvisors.net/www/delivery/ajs.php');
-			   var m3_r = Math.floor(Math.random()*99999999999);
-			   if (!document.MAX_used) document.MAX_used = ',';
-			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-			   document.write ("?zoneid=185");
-			   document.write ('&amp;cb=' + m3_r);
-			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-			   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-			   document.write ("&amp;loc=" + escape(window.location));
-			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-			   if (document.context) document.write ("&context=" + escape(document.context));
-			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-			   document.write ("'><\/scr"+"ipt>");
-			</script><script type="text/javascript" src="https://www.edvisors.net/www/delivery/ajs.php?zoneid=185&amp;cb=33688423016&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121214215001id_/http%253A//www.privatestudentloans.com/privacy.php"></script>
-		
-		</div>
-		<div id="cclose"><span><a id="hideContainer">[X] Close</a></span></div>
-	</div>
-	<!-- end of banner -->
 	
 	<!-- bof Google AdWords Re-Marketing Code for PSL -->
 	<script type="text/javascript">
@@ -451,8 +421,6 @@ stLight.options({
 <![endif]-->
 
 
-
-<script src="//media.privatestudentloans.com/includes/javascript/containerController.js"></script>
 
 	
 </body></html>
