@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkingdeadforums.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111052317id_/http%3A//www.walkingdeadforums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkingdeadforums.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509103856id_/http%3A//www.walkingdeadforums.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,3 +27,5 @@ We provide links to Web sites outside of our web sites, as well as to third part
 
 **Problems or questions**  
 If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](http://www.walkingdeadforums.com/contact-us/).
+
+#### Related Content from ZergNet:
