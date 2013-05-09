@@ -1,14 +1,26 @@
-> *The following text is extracted and transformed from the battleofthebands.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130172437id_/http%3A//warped.battleofthebands.com/info/privacy.eb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleofthebands.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509164326id_/http%3A//www.battleofthebands.com/info/privacy) for the most accurate reproduction.*
 
-# Battle of the Bands
+# Privacy - Battle Of The Bands
 
-## Privacy Policy
+  * [1\. Information Collected](http://www.battleofthebands.com/info/privacy#1)
+  * [2\. Personal Data](http://www.battleofthebands.com/info/privacy#2)
+  * [3\. Aggregated Information](http://www.battleofthebands.com/info/privacy#3)
+  * [4\. Use of Cookies](http://www.battleofthebands.com/info/privacy#4)
+  * [5\. Use of Information Collected](http://www.battleofthebands.com/info/privacy#5)
+  * [6\. Children and Privacy](http://www.battleofthebands.com/info/privacy#6)
+  * [7\. Individuals Under 13](http://www.battleofthebands.com/info/privacy#7)
+  * [8\. Individuals 13 Through 17](http://www.battleofthebands.com/info/privacy#8)
+  * [9\. Message Boards and Comments](http://www.battleofthebands.com/info/privacy#9)
+  * [10\. Links to Other Sites](http://www.battleofthebands.com/info/privacy#10)
+  * [11\. Additional Information](http://www.battleofthebands.com/info/privacy#11)
 
-Your privacy on the Internet is important to us. As part of our operations, we gather certain types of information about BattleoftheBands.com users, and we would like to explain the types of information we gather, what we do with it and how to correct or change the information.
+
+
+Your privacy on the Internet is important to us. As part of our operations, we gather certain types of information about www.battleofthebands.com users, and we would like to explain the types of information we gather, what we do with it and how to correct or change the information.
 
 ### 1\. Information Collected
 
-We collect two types of personally identifying information from users: personal data (such as names and e-mail addresses); and aggregated data (such as information about traffic patterns on Battle of the Bands, for example how many users log into Battle of the Bands on a daily basis).
+We collect two types of personally identifying information from users: personal data (such as names and e-mail addresses); and aggregated data (such as information about traffic patterns on Battle Of The Bands, for example how many users log into Battle of the Bands on a daily basis).
 
 ### 2\. Personal Data
 
@@ -50,7 +62,7 @@ Ernie Ball requests that children under the age of 18 do not submit or post info
 
 ### 9\. Message Boards and Comments
 
-Please remember that information posted to message boards and comment areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using comments or message boards. As set forth in Ernie Ball's [Terms and Conditions](http://warped.battleofthebands.com/info/tos.eb) of Use, users of comments and message boards must follow acceptable standards of behavior when posting messages online.
+Please remember that information posted to message boards and comment areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using comments or message boards. As set forth in Ernie Ball's [Terms and Conditions](http://www.battleofthebands.com/info/tos.eb) of Use, users of comments and message boards must follow acceptable standards of behavior when posting messages online.
 
 ### 10\. Links to Other Sites
 
