@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4gltesolution.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915072328id_/http%3A//www.4gltesolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4gltesolution.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509092737id_/http%3A//www.4glteway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ The 4G LTE Solution web site may contain links to other web sites. Please be awa
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at:
 
-**Email** : sales@4gltesolution.com
+**Email** : sales@4glteway.com
 
 **Tel**  : 852 69499341 Fax : 852 24201212
 
