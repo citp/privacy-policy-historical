@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180753id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509225657id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
@@ -62,14 +62,20 @@ Like this on Facebook:
 
 * * *
 
-[](http://www.gonomad.com/features/1208/vermont-northeast-kingdom-tree-climbing.html)
+[](http://sightsandsoul.com/vietnamoverview)
 
+  
+
+
+  
 | 
 
 [](http://www.gonomad.com/airfares.html)
 
-[an error occurred while processing this directive]  
+  
+[Follow @gonomad](https://twitter.com/gonomad)   
+  
   
 ---|---|---  
   
-@Copyright 2012 GoNOMAD.com - All Rights Reserved. 
+@Copyright 2000-2013 GoNOMAD.com Travel- All Rights Reserved. 
