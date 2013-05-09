@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218200042id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509094416id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
 
-# Phixr - Online Photo Editor
+# Phixr - Online Photo Editor [Legal]
 
 Phixr Terms of Use
 
@@ -12,7 +12,7 @@ By using any of the Phixr websites (hereinafter "the Site") you are agreeing to 
   * You must not create or submit unwanted email to anyone ("spam").
   * You must not transmit any worms or viruses or any code of a destructive nature.
   * You are responsible for any activity that occurs under your user name.
-  * You are responsible for keeping your password secure and secret.
+  * You are responsible for keeping your password secure and secret. Making your account data public will lead to account termination.
   * You are solely responsible for your conduct and any data, text, information, user names, files, links ("Content") that you submit and post on the Site.
   * You must not modify, adapt or hack the Site or modify another website so as to falsely imply that it is associated with the Site.
 
@@ -82,11 +82,9 @@ Facebook permissions
 
 For Phixr to provide all its Facebook-related services, it needs permissions to access your Facebook data. Here is which permissions are needed and what Phixr uses them for:
 
-  * **"Access my public information"** : Phixr only uses _your name_ for tagging yourself in a photo, and the _list of your friends_ for tagging them and accessing their photos. No other information is accessed or used.
-  * **"Post to my Wall"** : As dangerous as this might sound, in fact, this is only needed to _upload photos_ to your albums. Phixr does not "post" anything "to your wall".
-  * **"Access my photos and videos"** : This is for allowing Phixr to _download your photos_ from Facebook, including photo tags. Phixr does not even touch your videos.
-  * **"Access my friends’ information"** : This is for accessing (speak: reading) photo tags in your photos and for being able to _download your friends’ photos_. No other action is performed.
-  * **"Offline access"** : This permission is required if you use Phixr as a stand-alone website, and not from within Facebook. Phixr also only asks for this permission if the authorization is initiated from within Phixr.
+  * **"Your basic info"** : Phixr only uses _your name_ for tagging yourself in a photo, and the _list of your friends_ for tagging them and accessing their photos. No other information is accessed or used.
+  * **"Your Photos" and "Photos shared with you"** : This is for allowing Phixr to _download your photos_ from Facebook, including photo tags.
+  * **"Post on your behalf"** : As dangerous as this might sound, in fact, this is only needed to _upload photos_ to your albums. Phixr does not "post" anything to your wall.
 
 
 
@@ -122,7 +120,7 @@ e-mail:
 
 Trademarks and Acknowledgements
 
-Phixr and the Phixr logo are trademarks of Dr. Thomas Winischhofer. No material from this site may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way without prior written consent of Dr. Thomas Winischhofer.
+Phixr and the Phixr logo are trademarks of . No material from this site may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way without his prior written consent.
 
 Facebook and the Facebook logo are (registered) trademarks of Facebook. Used by permission (in accordance to the general permission stated [here](http://developers.facebook.com/documentation.php?doc=login_web) and to Section 6 of Facebook's "Developer Terms of Service" dated July 25, 2007).  
 Flickr and the flickr logo are (registered) trademarks of Yahoo! Inc. Used by express permission.  
@@ -133,7 +131,6 @@ Picasa and the Picasa logo are (registered) trademarks of Google Inc. Used by pe
 SmugMug and the SmugMug logo are (registered) trademarks of SmugMug, Inc. Used by express permission.  
 Twitter and the Twitter logo are (registered) trademarks of Twitter, Inc. Used by express permission.  
 Webs and the webs logo are (registered) trademarks of Webs, Inc. Permission request pending.  
-Webshots and the Webshots logo are (registered) trademarks of CNET Networks, Inc. Used by obligation / express permission.  
 
 
 This product uses the Flickr API and other APIs, but is not endorsed or certified by Flickr and/or Yahoo! Inc and/or any other of the companies named above.
