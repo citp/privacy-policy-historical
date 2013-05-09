@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sayvings.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021193136id_/http%3A//www.sayvings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayvings.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509231544id_/http%3A//www.sayvings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Information, Registration, Requests, Personal Information
 
