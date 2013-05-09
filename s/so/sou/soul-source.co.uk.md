@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016133207id_/http%3A//www.soul-source.co.uk/_/articles/soul-articles/privacycookies-policy-soul-source-r504) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509185356id_/http%3A//www.soul-source.co.uk/soulforum/privacypolicy) for the most accurate reproduction.*
 
-# Privacy/Cookies Policy - Soul Source - Soul Articles - Soul Source
-
- by  mike         11772   0      in [Soul Articles](http://www.soul-source.co.uk/_/articles/soul-articles/) on 13 Jul 2006
+# Cookies/Privacy Policy - Soul Source Rare and Northern Soul
 
 **Cookies**
 
@@ -20,7 +18,7 @@ Full info and opt out details can be found on their respective websites
 
 **Continued use of this site is taken to mean that your are agreeing to the above information to be gathered.**
 
-You can find out more about the way cookies work and how to disable them on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "External link")
+You can find out more about the way cookies work and how to disable them on[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 **Privacy Policy**
 
@@ -30,7 +28,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 As with all websites, log files are maintained of all requests for files on this website's web servers. Log files capture your IP address, but do not capture any other personal information. This IP address is automatically recognised by our web servers and can only be used to personally identify you by your Internet Service Provider, and not by the administrators of this website.
 
-Telasource understands and respects the rights of individuals' privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
+Telasource understands and respects the rights of individualsÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
 
 **Use of Information, Data Protection and Internet Privacy**
 
