@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advent.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915015735id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advent.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509092058id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.*
 
 # Email Publication and Website Privacy Policy
 
