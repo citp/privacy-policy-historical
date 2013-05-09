@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the eventim.co.uk privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004083445id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventim.co.uk privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509032803id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head>
+<!DOCTYPE html><html class="  js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en-GB" xmlns:fb="http://www.facebook.com/2008/fbml" style=""><!--<![endif]--><head><script async="" src="https://connect.facebook.net/en_GB/all.js?_=1582524538212"></script>
+<!--[if lt IE 9]>
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<![endif]-->
 
 	
 			
@@ -67,6 +70,7 @@
 								
 			
 				
+
 
 
 
@@ -138,21 +142,22 @@
 <meta http-equiv="content-language" content="en">
 <meta name="language" content="en">
 <meta name="revisit-after" content="7 days">
-
-	<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow">
 <meta name="publisher" content="EVENTIM http://www.eventim.co.uk">
 <meta name="copyright" content="Copyright 2009 by EVENTIM http://www.eventim.co.uk">
 <meta name="author" content="EVENTIM http://www.eventim.co.uk">
-		<meta property="fb:admins" content="556994103,100002365596888">
-	<meta property="fb:page_id" content="110114015731428">
+<meta property="fb:admins" content="556994103,100002365596888">
+<meta property="fb:page_id" content="110114015731428">
 	<link rel="shortcut icon" type="image/gif" title="" href="/obj/media/UK-eventim/specialLogos/animated_favicon.gif">
 <link rel="home" href="http://www.eventim.co.uk/">
 <link rel="author" href="http://www.eventim.co.uk/">
 <link rel="copyright" href="http://www.eventim.co.uk/">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta http-equiv="imagetoolbar" content="false">	
-<link rel="stylesheet" href="/obj/advanced/default/layout/en/css/screen.css" type="text/css" media="screen">
+
+
 <link rel="stylesheet" href="/obj/advanced/default/layout/css/screen.packed.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/obj/advanced/default/feature/singleSignOn/css/singleSignOn.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/obj/advanced/default/layout/css/print.css" type="text/css" media="print">
 	
 <link rel="stylesheet" href="/obj/advanced/default/layout/css/modular.packed.css" type="text/css" media="screen"><link rel="stylesheet" href="/obj/advanced/default/layout/GB_en/css/modular.css" type="text/css" media="screen">
@@ -214,14 +219,14 @@
 				var tmpTarget = cfg.el.getAttribute("target");
 				var tmpHref = cfg.el.getAttribute('href') || '';
 				if(tmpTarget == "_blank"){
-					if(tmpClass != "languageLink") {
+					if(tmpClass.indexOf('languageLink') < 0){
 						window.open(tmpHref, tmpTarget);
 					}
 				}
 				else {
 					/** Sprachwechsel URL wird per changeScript gesetzt, href darf nicht verwendet werden */
-					if(tmpHref.indexOf('language=') < 0){
-						window.location.href = window.tracking.url; 
+					if(tmpHref.indexOf('language=') < 0 && tmpClass.indexOf('filter') < 0){
+						window.location.href = window.tracking.url;
 					}
 				}
 			} else{ 
@@ -262,32 +267,110 @@
 // --> ]]>
 </script>
 
-<script src="/obj/advanced/default/layout/js/setup.packed.js" type="text/javascript"></script>
 
-<script src="/obj/advanced/default/layout/js/jquery.packed.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/jquery.popupwindow.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/js/eventim.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/modernizr.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/extensions/global/layout/js/setup.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/extensions/global/layout/js/jquery.packed.js" type="text/javascript"></script><script src="/obj/advanced/extensions/global/layout/js/jquery.popupwindow.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/eventim.packed.js" type="text/javascript"></script>
 
 <script src="/obj/advanced/default/layout/js/jquery.autocomplete.packed.js" type="text/javascript"></script>
 
 <script src="/obj/advanced/default/layout/js/jquery.validate.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/en/js/jquery.validate.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/jquery.validateCustoms.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/en/js/jquery.validate.js" type="text/javascript"></script><script src="/obj/advanced/extensions/global/layout/js/jquery.validateCustoms.packed.js" type="text/javascript"></script>
 
-<script src="/obj/advanced/default/layout/en/js/Eve.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/Eve.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/js/Eve/RegisterCards.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/js/Eve/AbstractTexts.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/js/Eve/DynamicLayers.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/js/Eve/ReadMore.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/js/Eve/ItemPager.packed.js" type="text/javascript"></script>
-<script src="/obj/advanced/default/layout/js/Eve/Tooltipps.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/en/js/Eve.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/Eve.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/Eve/RegisterCards.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/Eve/AbstractTexts.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/Eve/DynamicLayers.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/Eve/ReadMore.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/Eve/ItemPager.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/Eve/Tooltipps.packed.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="/obj/advanced/default/layout/css/eve.popupLayer.packed.css" type="text/css" media="screen">
 <script src="/obj/advanced/default/layout/js/eve.popupLayer.packed.js" type="text/javascript"></script>
 <script src="/obj/advanced/default/layout/js/eve.metaNavSyncCachedSites.packed.js" type="text/javascript"></script>
 
 <script src="/obj/advanced/default/layout/js/jquery.fullcalendar.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/jquery.qtip.js" type="text/javascript"></script>
 
+<script src="/obj/advanced/extensions/global/layout/js/knockout-2.2.0.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/knockout.mapping-latest.js" type="text/javascript"></script>
+<script src="/obj/advanced/extensions/global/layout/js/knockout-plugins.js" type="text/javascript"></script>
 
+<script src="/obj/advanced/extensions/global/layout/js/reflection.js" type="text/javascript"></script>
 
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="/obj/advanced/extensions/global/layout/js/selectivizr.js"></script>
+<![endif]-->
+
+	<script>
+//forces firefox to reload javascript on browser back
+window.onunload = function(){};
+
+jQuery.fn.preventDoubleSubmit = function() {
+  jQuery(this).submit(function() {
+    if (this.beenSubmitted){
+	  return false;
+	} else{
+      this.beenSubmitted = true;
+	 }
+  });
+};
+
+jQuery(function(){
+
+	jQuery('#mainCustomer,#cardAssignmentFormular,#external,#savedCreditcardForm,#savedDebitForm,[name="payment"],[name="paymentCredit"],[name="pruefung"],[data="preventMultipleSubmit"]').preventDoubleSubmit();
+
+});
+</script>
+<script type="text/javascript" language="javascript">
+
+	jQuery(function() {
+    	jQuery('form[method="POST"]').each(function() {
+    		var XSRFToken = "";
+
+    		jQuery('<input>').attr({
+    			type: 'hidden',
+    			value: XSRFToken,
+    			name: 'token'
+    		}).appendTo(this);
+    	});
+	});
+	
+</script>
+
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
+
+	jQuery(function() {
+	
+		jQuery(".filterCatLinkElement, .filterLinkElement, .filterCatHeadline, .languageLink").each(function(){
+    		jQuery(this).mouseover(function() {
+    			jQuery(this).addClass('activeHover');
+    		});
+    		jQuery(this).mouseout(function() {
+    			jQuery(this).removeClass('activeHover');
+    		});
+    	});
+	
+    	jQuery(".filterHeadline").each(function(){
+    		jQuery(this).mouseover(function() {
+    			jQuery(this).parent().parent().addClass('activeHover');
+    		});
+    		jQuery(this).mouseout(function() {
+    			jQuery(this).parent().parent().removeClass('activeHover');
+    		});
+    	});
+
+	});
+	
+// --> ]]>
+</script>	
+
+	
+	
 <script type="text/javascript" language="javascript">
 // <![CDATA[ <!--
 
@@ -335,6 +418,7 @@
 
 
 <link media="screen" rel="stylesheet" href="/obj/advanced/default/layout/css/jquery.autocomplete.packed.css" type="text/css">
+	<link media="screen" rel="stylesheet" href="/obj/advanced/default/layout/css/leftAlign.css" type="text/css">
 <script type="text/javascript" language="JavaScript">
 <!--
 
@@ -425,18 +509,21 @@
 //-->
 </script>
 
-
-	<link rel="stylesheet" href="/obj/advanced/default/legacy/css/screen.packed.css" type="text/css" media="screen">
-
-		
+<link rel="stylesheet" href="/obj/advanced/default/legacy/css/screen.packed.css" type="text/css" media="screen">		
 <script type="text/javascript" async="" src="/obj/advanced/default/tracking/UK-eventim/js/xtcore.js"></script></head>
-
 <body>
 <!-- Wrapper -->
 <div id="wrapper">
 	
 					
+	
 
+
+
+	
+															
+											
+	
 
 <a name="top"></a>      
 	
@@ -473,11 +560,11 @@
 </h1>
 				<div class="rightHead">  
 			<ul id="metaNav">
-				<li class="cart"><a href="Tickets.html?affiliate=EUK&amp;doc=shoppingCart&amp;fun=wkb" title="Shopping Cart" name="&amp;lid=header_shoppingcart">Shopping Cart <span id="shoppingCart">0</span></a></li>
+				<li class="cart"><a href="Tickets.html?affiliate=EUK&amp;doc=shoppingCart&amp;fun=wkb" title="Shopping Cart" name="&amp;lid=header_shoppingcart">Shopping Cart <span id="shoppingCart"></span></a></li>
 				
-													<li class="leaflet"><a href="Tickets.html?affiliate=EUK&amp;doc=feature/login" title="Watch list" name="header_watchlist">Watch list <span id="notice">0</span></a></li>					
+													<li class="leaflet"><a href="Tickets.html?affiliate=EUK&amp;doc=feature/login" title="Watch list" name="header_watchlist">Watch list <span id="notice"></span></a></li>					
 <li class="myEventimLogin">
-		<a href="Tickets.html?affiliate=EUK&amp;doc=feature/login" name="header_myeventim" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'metaNavLogin', offsetY:2, offsetX:1, offsetElReference:'br', layerReference:'tr', triggerCss:'active', profile:'simpleLayer' });" title="MyEVENTIM Login">
+		<a id="XPage_ToLogin_Link" href="Tickets.html?affiliate=EUK&amp;doc=feature/login" name="header_myeventim" title="MyEVENTIM Login">
 		<span class="left">
 			<span class="txt1">MyEVENTIM</span>
 			<span class="txt2"></span>
@@ -488,29 +575,74 @@
 			
 										<div class="mods">
 					<div class="reset">	
-																		
-<div id="metaNavLogin" class="flyoutnavi" style="display:none;">
-		<!--<div id="mainNavPlaces" class="flyoutnavi">-->
-		
-	<div class="mods">
-		<div class="reset">
-			<div class="formulars">
-				<form autocomplete="off" action="https://secure.eventim.co.uk/tnl.dll" method="post" id="qlForm" class="ignoreBecauseLayer">
-						<input type="hidden" name="fun" value="customer" class="set">
-						<input type="hidden" name="action" value="login" class="set">
-						<input type="hidden" name="affiliate" value="EUK" class="set">
-						<input type="hidden" name="id" value="EUK437621349339042Q" class="set">
-						<input type="hidden" name="doc" value="feature/login" class="set">
-						<input type="hidden" name="errordoc" value="globalError" class="set">
-						<input type="hidden" name="nextdoc" value="feature/login" class="set">										
-						<div>
-							<label for="qlusername">Username or Email address</label>
-							<input name="username" id="qlusername" type="text" class="input required set" alt="">
-						</div>										
-						<div class="last">
-							<label for="qlpassword">Password</label>
-							<input type="password" name="password" id="qlpassword" class="input required set" alt="">
-								
+						﻿	
+    <script>	
+    jQuery(function(){
+    	jQuery(".myEventimLogin").qtip({
+        		content : jQuery("#metaNavLogin"),
+        		position : {
+        			corner : {
+        				target : 'bottomRight',
+        				tooltip : 'topRight'
+        			},
+    				adjust: {
+						x : -40,
+						y : 0
+    				}
+        		},
+    			show : {
+        			solo : true
+        		},
+        		hide: { 
+        			fixed: true,
+        			delay: 100
+        		},
+    			style: {
+            	    classes: {
+            	    	tooltip: 'metaNaviLogin'
+            	    }
+        		},
+    			api: {
+    				onShow: function()
+                    {
+    					jQuery("#header #metaNav li.myEventimLogin a").addClass("active");
+						
+    				},
+                     onHide: function()
+                     {
+    				 	jQuery("#header #metaNav li.myEventimLogin a").removeClass("active");
+    				 }
+    			}
+    		
+    	});
+    
+    });
+    </script>
+	
+				
+    <div id="metaNavLogin" class="filterLayer flyoutnavi" style="display:none;">
+    		<!--<div id="mainNavPlaces" class="flyoutnavi">-->
+    		
+    	<div class="mods">
+    			<div class="formulars">
+    				<form autocomplete="off" action="https://secure.eventim.co.uk/tnl.dll" method="post" id="qlForm" class="ignoreBecauseLayer">
+    					<input type="hidden" name="fun" value="customer" class="set">
+    					<input type="hidden" name="action" value="login" class="set">
+    					<input type="hidden" name="affiliate" value="EUK" class="set">
+    					<input type="hidden" name="id" value="" class="set">
+    					<input type="hidden" name="doc" value="feature/login" class="set">
+    					<input type="hidden" name="errordoc" value="globalError" class="set">
+    					<input type="hidden" name="nextdoc" value="feature/login" class="set">										
+    					<div>
+    						<label for="qlusername">Username or Email address</label>
+    						<input name="username" id="qlusername" type="text" class="input required set" alt="">
+    					</div>										
+    					<div>
+    						<label for="qlpassword">Password</label>
+    						<input type="password" name="password" id="qlpassword" class="input required set" alt="">
+    					</div>
+    					<div class="last">
+    							
 			
 			
 			
@@ -521,27 +653,55 @@
 			<input type="submit" value="Login" class="submit">
 		</span>
 				
-									</div>
-
-						<script type="text/javascript" language="javascript">
-						<!--									
-														jQuery(function() {										
-								if (!jQuery.browser.msie) return;										
-								jQuery('#qlpassword, #qlusername').keyup(function(e) {											
-									if ((e.keyCode || 0) == 13) jQuery('#qlForm').submit();
-								});
-							});									
-						//-->
-						</script>
-				</form>
-			</div>
+			    					</div>
+    					<script type="text/javascript" language="javascript">
+    					<!--									
+    						    						jQuery(function() {										
+    							if (!jQuery.browser.msie) return;										
+    							jQuery('#qlpassword, #qlusername').keyup(function(e) {											
+    								if ((e.keyCode || 0) == 13) jQuery('#qlForm').submit();
+    							});
+    						});									
+    					//-->
+    					</script>
+    				<input type="hidden" value="" name="token"></form>
+    			</div>
+    		<div class="clearFloat"></div>
+    	</div>
+    	<ul>
+    		<li><a onclick="return xt_click(false, 'C', '8', 'Login::Forgotten Password', 'A');" href="Tickets.html?affiliate=EUK&amp;doc=feature/forgotPassword" class="popupwindow" title="Forgotten your login data?" target="_blank">Forgotten your password?</a></li>
+    		<li><a href="Tickets.html?affiliate=EUK&amp;doc=feature/customerRegistration" title="I am a new customer">I am a new customer</a></li>
+    		<div class="clearFloat"></div>
+    	</ul>
+		    		<div id="fbFlyout">
+            	            	            		
+			
+		<div class="ssoContainerHeadline">
+			<span class="info">
+				I want to use an external login connection			</span>
 		</div>
-	</div>
-	<ul>
-		<li><a onclick="return xt_click(false, 'C', '8', 'Login::Forgotten Password', 'A');" href="Tickets.html?affiliate=EUK&amp;doc=feature/forgotPassword" class="popupwindow" title="Forgotten your login data?" target="_blank">Forgotten your password?</a></li>
-		<li><a href="Tickets.html?affiliate=EUK&amp;doc=feature/customerRegistration" title="I am a new customer">I am a new customer</a></li>
-	</ul>
-</div>
+		<div class="ssoContainerBody">
+			<div class="subheadline">
+									Login with your preferred network.
+							</div>
+			<div class="abstand_h10"></div>
+    		<div id="SingleSignOnContainer">
+                  		  			            		                    																								            			<div id="SingleSignOnFacebook" class="ssoProviderBox last">
+            				<div id="fb-root"></div>
+    <span class="" id="iLoginContainer"></span>
+	    <a id="fbLayerLogin-connected" style="display:none;" class="fb-button" href="https://graph.facebook.com/oauth/authorize?client_id=486084221413558&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Fsecure.eventim.co.uk%2Ftickets.html%3Ffun%3Dsinglesignon%26action%3Dsso%26affiliate%3DEUK%26ssoProviderId%3D66%26doc%3Dfeature%252Flogin&amp;scope=email" target="_parent">
+    	<span class="fb-button-left"></span>
+    	<span class="fb-button-center">Login with facebook</span>
+    	<span class="fb-button-right"></span>	
+    </a>   
+    <fb:login-button id="fbIframeButtonLogin" size="large" scope="email" onlogin="window.top.location='https://graph.facebook.com/oauth/authorize?client_id=486084221413558&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Fsecure.eventim.co.uk%2Ftickets.html%3Ffun%3Dsinglesignon%26action%3Dsso%26affiliate%3DEUK%26ssoProviderId%3D66%26doc%3Dfeature%252Flogin&amp;scope=email';">
+        Login with facebook    </fb:login-button>
+            			</div>
+                	        		            </div>
+		</div>
+			        		<div class="clearFloat"></div>
+    		</div>
+		    </div>
 					</div>
 				</div>
 					</div>
@@ -556,7 +716,7 @@
 	
 		var eveMetaNav = new MetaNavigation({
 		
-			'loginCode'                    : "<li class=\"leaflet\"><a href=\"Tickets.html?affiliate=EUK&amp;doc=feature%2FmyNotepad%2Fwatchlist&amp;fun=merk&amp;action=mymerklist\" title=\"Watch list\" name=\"header_watchlist_isLoggedIn\">Watch list <span id=\"notice\">0</span></a></li><li class=\"my_eventimLoggedin\"><a href=\"Tickets.html?affiliate=EUK&amp;doc=feature/login\" title=\"MyEVENTIM Login\" name=\"header_myeventim_isLoggedIn\">MyEVENTIM</a></li><li class=\"log\"><a href=\"Tickets.html?affiliate=EUK&amp;doc=feature%2Flogout&amp;fun=tlogoff\" title=\"Logout\" name=\"header_logout_isLoggedIn\">Logout</a></li>",
+			'loginCode'                    : "<li class=\"leaflet\"><a href=\"Tickets.html?affiliate=EUK&amp;doc=feature%2FmyNotepad%2Fwatchlist&amp;fun=merk&amp;action=mymerklist\" title=\"Watch list\" name=\"header_watchlist_isLoggedIn\">Watch list <span id=\"notice\"></span></a></li><li class=\"my_eventimLoggedin\"><a id=\"XPage_ToOverview_Link\" href=\"Tickets.html?affiliate=EUK&amp;doc=feature/login\" title=\"MyEVENTIM Login\" name=\"header_myeventim_isLoggedIn\">MyEVENTIM</a></li><li class=\"log\"><a href=\"Tickets.html?affiliate=EUK&amp;doc=feature%2Flogout&amp;fun=tlogoff\" title=\"Logout\" name=\"header_logout_isLoggedIn\">Logout</a></li>",
 			'leafletSelector'              : "#metaNav .leaflet",
 			'loginSelector'                : "#metaNav .myEventimLogin",
 			'shoppincCartSpanSelector'     : "#metaNav #shoppingCart",
@@ -615,7 +775,6 @@
 				if(!(language || false)) return false;
 				if(!(affiliate || false)) return false;
 			
-				console.log(requests);
 				//hidden inputs erzeugen
 				addHiddenForm(requests);
 				
@@ -727,7 +886,7 @@
 				
 				
 		<div class="dropdownBtn">
-					<a href="Tickets.html?affiliate=EUK&amp;doc=categoryOverview" id="mainNavCategoriesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCategoriesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCategoriesLayerBtnId', offsetEl : '' });" name="&amp;lid=header_mainNav_categoryOverview"><span><span>All Event Categories</span></span></a>
+					<a href="Tickets.html?affiliate=EUK&amp;doc=categoryOverview" id="mainNavCategoriesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCategoriesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCategoriesLayerBtnId', offsetEl : '' });" name="header_mainNav_categoryOverview"><span><span>All Event Categories</span></span></a>
 			</div>
 	
 			<div id="mainNavCategoriesLayer" class="" style="display:none;">
@@ -754,41 +913,41 @@
     							    							    							
     								    							
     								    								
-    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    								<div>
     									
     									    									    									    									
+    									    									    																			    									
     									    									    									    									
-    									    									    									    									
-										    									<h3><a name="&amp;lid=layerCategories_kategorie_13" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Concerts <span>(1216)</span></a></h3>
+										    									<h3><a class="filterCatHeadline" name="layerCategories_kategorie_13" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Concerts <span>(1057)</span></a></h3>
     								
     									<ul>
     										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1A" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Rock and Pop</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1A" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Rock and Pop</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Alternative and Indie</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Alternative and Indie</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1L" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1L&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Classical</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1L" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1L&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Classical</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1D" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Clubs and Dance</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1D" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Clubs and Dance</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1E" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Country and Folk</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1E" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Country and Folk</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1F" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Festivals</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1F" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Festivals</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1G" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Hard Rock and Metal</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1G" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Hard Rock and Metal</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1C" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Hip-hop and Rap</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1C" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Hip-hop and Rap</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1I" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jazz, Blues &amp; Soul</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_13_1I" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jazz, Blues &amp; Soul</a></li>
     											    										    									</ul>
     								</div>
     							
@@ -806,26 +965,26 @@
     							    							    							
     								    							
     								    								
-    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    								<div>
     									
     									    									    									    									
+    									    									    																			    									
     									    									    									    									
-    									    									    									    									
-										    									<h3><a name="&amp;lid=layerCategories_kategorie_14" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Sport <span>(15)</span></a></h3>
+										    									<h3><a class="filterCatHeadline" name="layerCategories_kategorie_14" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Sport <span>(23)</span></a></h3>
     								
     									<ul>
     										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_14_2P" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2P&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Darts</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_14_2P" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2P&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Darts</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_14_2B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Basketball</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_14_2B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Basketball</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_14_3H" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=3H&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Boxing</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_14_3H" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=3H&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Boxing</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_14_2K" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2K&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Motorsport</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_14_2K" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2K&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Motorsport</a></li>
     											    										    									</ul>
     								</div>
     							
@@ -843,26 +1002,20 @@
     							    							    							
     								    							
     								    								
-    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    								<div>
     									
     									    									    									    									
+    									    									    																			    									
     									    									    									    									
-    									    									    									    									
-										    									<h3><a name="&amp;lid=layerCategories_kategorie_15" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Theatre <span>(1628)</span></a></h3>
+										    									<h3><a class="filterCatHeadline" name="layerCategories_kategorie_15" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Theatre <span>(1459)</span></a></h3>
     								
     									<ul>
     										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Cabaret</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_15_3C" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Comedy</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3C" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Comedy</a></li>
-    											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3E" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Musicals</a></li>
-    											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3G" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Plays</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_15_3E" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Musicals</a></li>
     											    										    									</ul>
     								</div>
     							
@@ -880,23 +1033,23 @@
     							    							    							
     								    							
     								    								
-    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    								<div>
     									
     									    									    									    									
+    									    									    																			    									
     									    									    									    									
-    									    									    									    									
-										    									<h3><a name="&amp;lid=layerCategories_kategorie_16" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Family and Attra... <span>(1980)</span></a></h3>
+										    									<h3><a class="filterCatHeadline" name="layerCategories_kategorie_16" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Family and Attra... <span>(2491)</span></a></h3>
     								
     									<ul>
     										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_16_4B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Family Shows</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_16_4B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Family Shows</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_16_4F" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Museums and Exhibitions</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_16_4F" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Museums and Exhibitions</a></li>
     											    										    											
-    											    											    											    											
-    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_16_4H" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4H&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Tourist Attractions</a></li>
+    											    											    																							    											
+    											    											    											    												<li><a class="filterCatLinkElement" name="layerCategories_kategorie_16_4H" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4H&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Tourist Attractions</a></li>
     											    										    									</ul>
     								</div>
     							
@@ -968,7 +1121,7 @@
 				
 				
 		<div class="dropdownBtn">
-					<a href="javascript:void(0);" id="mainNavCitiesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCitiesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCitiesLayerBtnId', offsetEl : '' });" name="&amp;lid=header_mainNav_cityOverview"><span><span>All Cities</span></span></a>
+					<a href="javascript:void(0);" id="mainNavCitiesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCitiesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCitiesLayerBtnId', offsetEl : '' });" name="header_mainNav_cityOverview"><span><span>All Cities</span></span></a>
 			</div>
 	
 			<div id="mainNavCitiesLayer" class="" style="display:none;">
@@ -982,105 +1135,109 @@
 									<ul>
 						
 								
-									 <li class="first"><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+									 <li class="first"><div><ul>
     									
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_262" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=262&amp;tipps=yes">Aberdeen</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_262" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=262&amp;tipps=yes">Aberdeen</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_186" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=186&amp;tipps=yes">Birmingham</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_186" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=186&amp;tipps=yes">Birmingham</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_255" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=255&amp;tipps=yes">Bournemouth</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_255" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=255&amp;tipps=yes">Bournemouth</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_192" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=192&amp;tipps=yes">Brighton</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_192" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=192&amp;tipps=yes">Brighton</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_184" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=184&amp;tipps=yes">Bristol</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_184" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=184&amp;tipps=yes">Bristol</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_256" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=256&amp;tipps=yes">Cambridge</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_256" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=256&amp;tipps=yes">Cambridge</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_185" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=185&amp;tipps=yes">Cardiff</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_185" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=185&amp;tipps=yes">Cardiff</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_263" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=263&amp;tipps=yes">Derby</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_263" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=263&amp;tipps=yes">Derby</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_270" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=270&amp;tipps=yes">Doncaster</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_270" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=270&amp;tipps=yes">Doncaster</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_261" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=261&amp;tipps=yes">Edinburgh</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_261" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=261&amp;tipps=yes">Edinburgh</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_183" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=183&amp;tipps=yes">Glasgow</a></li>
-					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_274" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=274&amp;tipps=yes">Falmouth</a></li>
+					    				</ul></div></li>									<li><div><ul>
     									
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_264" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=264&amp;tipps=yes">Grimsby</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_183" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=183&amp;tipps=yes">Glasgow</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_254" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=254&amp;tipps=yes">Holmfirth</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_264" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=264&amp;tipps=yes">Grimsby</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_187" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=187&amp;tipps=yes">Leeds</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_254" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=254&amp;tipps=yes">Holmfirth</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_191" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=191&amp;tipps=yes">Leicester</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_187" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=187&amp;tipps=yes">Leeds</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_190" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=190&amp;tipps=yes">Liverpool</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_191" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=191&amp;tipps=yes">Leicester</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_181" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=181&amp;tipps=yes">London</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_190" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=190&amp;tipps=yes">Liverpool</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_182" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=182&amp;tipps=yes">Manchester</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_181" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=181&amp;tipps=yes">London</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_265" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=265&amp;tipps=yes">Milton Keynes</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_182" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=182&amp;tipps=yes">Manchester</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_194" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=194&amp;tipps=yes">Newcastle</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_265" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=265&amp;tipps=yes">Milton Keynes</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_266" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=266&amp;tipps=yes">Norwich</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_194" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=194&amp;tipps=yes">Newcastle</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_189" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=189&amp;tipps=yes">Nottingham</a></li>
-					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_266" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=266&amp;tipps=yes">Norwich</a></li>
+					    				</ul></div></li>									<li><div><ul>
     									
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_258" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=258&amp;tipps=yes">Oxford</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_189" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=189&amp;tipps=yes">Nottingham</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_271" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=271&amp;tipps=yes">Plymouth</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_258" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=258&amp;tipps=yes">Oxford</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_253" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=253&amp;tipps=yes">Portsmouth</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_275" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=275&amp;tipps=yes">Penzance</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_268" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=268&amp;tipps=yes">Reading</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_271" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=271&amp;tipps=yes">Plymouth</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_188" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=188&amp;tipps=yes">Sheffield</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_253" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=253&amp;tipps=yes">Portsmouth</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_259" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=259&amp;tipps=yes">Southampton</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_268" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=268&amp;tipps=yes">Reading</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_269" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=269&amp;tipps=yes">Stoke</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_188" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=188&amp;tipps=yes">Sheffield</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_260" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=260&amp;tipps=yes">Wolverhampton</a></li>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_259" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=259&amp;tipps=yes">Southampton</a></li>
 					    																		
 										
-					<li><a name="&amp;lid=header_layerCities_ortId_257" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=257&amp;tipps=yes">York</a></li>
-											        				                            <li><div class="cityLayerPadding">&nbsp;</div></li>				
-						                            <li><div class="cityLayerPadding">&nbsp;</div></li>				
-											    				</ul></div></li>							</ul>
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_269" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=269&amp;tipps=yes">Stoke</a></li>
+					    																		
+										
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_260" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=260&amp;tipps=yes">Wolverhampton</a></li>
+					    																		
+										
+					<li><a class="filterLinkElement" name="header_layerCities_ortId_257" href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=257&amp;tipps=yes">York</a></li>
+					    				</ul></div></li>							</ul>
 						
 			<div class="mods">
 				<div class="reset">
@@ -1140,28 +1297,23 @@ jQuery(function() {
 		return row[0].replace(/(<.+?>)/gi, '');
 	}
 
-	jQuery("#suchbegriff").autocomplete("suggestionSearch.html?affiliate=EUK&fun=search&action=suggestion&doc=search/issuance/suggestion&fuzzy=yes", {
+	jQuery("#QuickSearch_SearchText_Input").autocomplete("suggestionSearch.html?affiliate=EUK&fun=search&action=suggestion&doc=search/issuance/suggestion&fuzzy=yes", {
 			max: 8,
 			minChars: 2,
-			width: eval(jQuery("#suchbegriff").width()+14),    			
+			width: eval(jQuery("#QuickSearch_SearchText_Input").width()+14),    			
 			scroll: false,
 			selectFirst: false,
 			matchSubset: false,
 			suggestHeaderTitle: 'Search suggestions'
-
-
 	});
 	
-	jQuery("#suchbegriff").result(function(event, data, formatted){		
-		if (data) {
-				$(this).parent().next().find("input").val(data[1]);		
-				$(this).closest("form").submit();		
+	jQuery("#QuickSearch_SearchText_Input").result(function(event, data, formatted){		
+		if (data) {				
+				jQuery(this).parent().find("input").val(data[0]);										
+				jQuery(this).closest("form").submit();		
 		}
-	});
-		
-	
+	});	
 });
-
 //-->
 </script>
 <div class="quickSearch notToBePrinted">
@@ -1182,7 +1334,7 @@ jQuery(function() {
 								
 				<br>
 				
-							    <input type="text" id="suchbegriff" class="input required ac_input" alt="Search for artists and events" name="suchbegriff" value="" autocomplete="off">
+							    <input type="text" id="QuickSearch_SearchText_Input" class="input required" alt="Search for artists and events" name="suchbegriff" value="">
 			</div>
 			
 			<div class="quickSearchBtn">
@@ -1194,7 +1346,7 @@ jQuery(function() {
 			
 						
 		<span class="defSubmit defSubmitInherit floatRight">
-			<input type="submit" value="Search" class="submit">
+			<input type="submit" value="Search" class="submit" id="QuickSearch_SearchButton_Button">
 		</span>
 				
 						</div>
@@ -1395,7 +1547,6 @@ jQuery(function() {
     					
 		</div></div>
 		
-				
 	</div></div><div class="clearFloat"></div>
 	<!-- /Content -->
 
@@ -1408,7 +1559,7 @@ jQuery(function() {
 	
 				
 				
-				
+					
 	<script language="javascript" type="text/javascript">
 	<!--
 		xtnv = document; 				//parent.document or top.document or document 
@@ -1418,8 +1569,10 @@ jQuery(function() {
 		xtpage = "dataProtection"; //page name (with the use of :: to create chapters) 
 		xt_multc = "&x4=advanced/euktemp/&x5=EUK&x6=false&x7=en-GB"; 			//customised indicators 
 		xt_an = "";       		//numeric identifier  
-		xt_ac = "";       		//category 
 		
+		//category
+					xt_ac = "";
+				
 				xtidmod = ""; //ClickZone model id 
 		xtergo = "0"; //0 to deactivate ClickZone
 		
@@ -1428,7 +1581,7 @@ jQuery(function() {
 		else{window.xtparam = "&ac="+xt_ac+"&an="+xt_an+xt_multc;};
 	//-->
 	</script>
-			<script type="text/javascript" src="/obj/advanced/default/tracking/UK-eventim/js/xtclicks.js"></script>
+			<script type="text/javascript" src="/obj/advanced/extensions/global/tracking//xtclicks.js"></script>	
 		
 	<script type="text/javascript">
     <!--
@@ -1436,10 +1589,11 @@ jQuery(function() {
     -->
     </script> 
 	<noscript> 
-	<img width="1" height="1" src="https://logs1125.xiti.com/hit.xiti?s=469353&s2=8&p=dataProtection&ac=&an=" > 
+	<img width="1" height="1" src="https://logs1125.xiti.com/hit.xiti?s=469353&s2=8&p=dataProtection&ac=&an=" /> 
 	</noscript>
 			
 <!-- Footer -->
+<script src="/obj/advanced/extensions/global/layout/js/jquery.bootstrapSwitch.js" type="text/javascript"></script>
 
 
 
@@ -1476,11 +1630,11 @@ jQuery(function() {
 				<h5>EVENTIM</h5>
                 
 				<ul>
-                	                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=investor&amp;doc=eventim/default/info/en/investor" target="_self" title="Investor Relations" onclick="" class="" rel="">Investor Relations</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/international" target="_self" title="EVENTIM International" onclick="" class="" rel="">EVENTIM International</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=info/terms" target="_self" title="Terms and Conditions of Sale" onclick="" class="" rel="">Terms and Conditions of Sale</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=info/dataProtection" target="_self" title="Privacy Policy" onclick="" class="" rel="">Privacy Policy</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=info/imprint" target="_self" title="Company Information" onclick="" class="" rel="">Company Information</a></li>
+                	                    	                			<li><a id="XPage_FooterLink_investorRelations" href="tickets.html?affiliate=EUK&amp;fun=investor&amp;doc=eventim/default/info/en/investor" target="_self" title="Investor Relations" onclick="" class="" rel="">Investor Relations</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_international" href="tickets.html?affiliate=EUK&amp;doc=feature/international" target="_self" title="EVENTIM International" onclick="" class="" rel="">EVENTIM International</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_terms" href="tickets.html?affiliate=EUK&amp;doc=info/terms" target="_self" title="Terms and Conditions of Sale" onclick="" class="" rel="">Terms and Conditions of Sale</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_dataProtection" href="tickets.html?affiliate=EUK&amp;doc=info/dataProtection" target="_self" title="Privacy Policy" onclick="" class="" rel="">Privacy Policy</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_imprint" href="tickets.html?affiliate=EUK&amp;doc=info/imprint" target="_self" title="Company Information" onclick="" class="" rel="">Company Information</a></li>
                         					                    
                 </ul>
 				
@@ -1516,7 +1670,7 @@ jQuery(function() {
 				<h5>B2B</h5>
                 
 				<ul>
-                	                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/partner" target="_self" title="Partner" onclick="" class="" rel="">Partner</a></li>
+                	                    	                			<li><a id="XPage_FooterLink_partner" href="tickets.html?affiliate=EUK&amp;doc=feature/partner" target="_self" title="Partner" onclick="" class="" rel="">Partner</a></li>
                         					                    
                 </ul>
 				
@@ -1544,15 +1698,20 @@ jQuery(function() {
 
 
 
+
+
+
+
     
     			<div>
         			
 				<h5>Customer Services</h5>
                 
 				<ul>
-                	                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=thelp&amp;doc=feature/helpContact/start&amp;fun=thelp" target="_self" title="FAQ" onclick="" class="" rel="">FAQ</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=campaign&amp;campaign=dispatch" target="_self" title="Dispatch Information" onclick="" class="" rel="">Dispatch Information</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=thelpcontent&amp;doc=feature/helpContact/details&amp;hilfeid=6306" target="_self" title="Customer Services Department" onclick="" class="" rel="">Customer Services Department</a></li>
+                	                    	                			<li><a id="XPage_FooterLink_helpContact" href="tickets.html?affiliate=EUK&amp;fun=thelp&amp;doc=feature/helpContact/start&amp;fun=thelp" target="_self" title="FAQ" onclick="" class="" rel="">FAQ</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_helpContact" href="tickets.html?affiliate=EUK&amp;&amp;doc=popup/dynamicPopup&amp;content=popup/cookies" target="_blank" title="Cookie Policy" onclick="" class="" rel="">Cookie Policy</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_helpContact" href="tickets.html?affiliate=EUK&amp;doc=campaign&amp;campaign=dispatch" target="_self" title="Dispatch Information" onclick="" class="" rel="">Dispatch Information</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_helpContact" href="tickets.html?affiliate=EUK&amp;fun=thelpcontent&amp;doc=feature/helpContact/details&amp;hilfeid=6306" target="_self" title="Customer Services Department" onclick="" class="" rel="">Customer Services Department</a></li>
                         					                    
                 </ul>
 				
@@ -1597,6 +1756,10 @@ jQuery(function() {
 
 
 
+
+
+
+
                                            
 
  
@@ -1618,10 +1781,12 @@ jQuery(function() {
 				<h5>Services</h5>
                 
 				<ul>
-                	                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/ticketAlarm&amp;action=show&amp;fun=newsletter" target="_self" title="Ticket Alarm" onclick="" class="" rel="">Ticket Alarm</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=newsletter&amp;doc=feature/newsletter&amp;action=show" target="_self" title="Newsletter" onclick="" class="" rel="">Newsletter</a></li>
-                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=repstart&amp;doc=feature/fanReport/start" target="_self" title="Fan Report" onclick="" class="" rel="">Fan Report</a></li>
-                        					                    	                			<li><a href="http://ticketnews.eventim.co.uk/" target="_blank" title="Latest News and Announcements" onclick="" class="" rel="">Latest News and Announcements</a></li>
+                	                    	                			<li><a id="XPage_FooterLink_appsandspecials" href="/iphone" target="_self" title="iPhone App" onclick="" class="" rel="">iPhone App</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_international" href="/international" target="_self" title="International Events" onclick="" class="" rel="">International Events</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_ticketAlarm" href="tickets.html?affiliate=EUK&amp;doc=feature/ticketAlarm&amp;action=show&amp;fun=newsletter" target="_self" title="Ticket Alarm" onclick="" class="" rel="">Ticket Alarm</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_newsletter" href="tickets.html?affiliate=EUK&amp;fun=newsletter&amp;doc=feature/newsletter&amp;action=show" target="_self" title="Newsletter" onclick="" class="" rel="">Newsletter</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_fanReport" href="tickets.html?affiliate=EUK&amp;fun=repstart&amp;doc=feature/fanReport/start" target="_self" title="Fan Report" onclick="" class="" rel="">Fan Report</a></li>
+                        					                    	                			<li><a id="XPage_FooterLink_eventimInfo" href="http://ticketnews.eventim.co.uk/" target="_blank" title="Latest News and Announcements" onclick="" class="" rel="">Latest News and Announcements</a></li>
                         					                    
                 </ul>
 				
@@ -1638,9 +1803,102 @@ jQuery(function() {
 
 
 
+	
 
+
+
+
+
+	<script id="FB-singleSignOn">
+    window.fbAsyncInit = function() {
+    	FB.init({
+    		appId: '486084221413558',
+			cookie: true,
+			xfbml: true,
+    		channelUrl : 'https://secure.eventim.co.uk/facebookAccount?aff=EUK&doc=feature/singleSignOn/channel',
+    		status: true
+    	});
+	 
+		FB.getLoginStatus(function(response) {
+            
+			container = document.getElementById('iLoginContainer');
+            container.innerHTML = "";
+
+            if (response.status === 'connected') {
+				var uid = response.authResponse.userID;
+				var accessToken = response.authResponse.accessToken;							
+				FB.XFBML.parse(container);
+
+				jQuery('#fb-disconnect').click(function(e) {
+					
+					var deleteURL = jQuery(this).attr("href");
+        			e.preventDefault();                  	
+					var ajaxURL =  "https://graph.facebook.com/"+ uid +"/permissions";
+
+					jQuery.ajax({
+                          url: ajaxURL,
+    					  type: 'POST',
+                          cache: false,
+    					  data: "method=delete&access_token="+accessToken,
+                          dataType: 'jsonp',
+    					  success: function(data){
+    							window.location=deleteURL;							
+    							return true;
+                          }
+                    });
+	
+                });
+                               
+                jQuery("#fbLayer-connected, #fbLayerLogin-connected, #fbLayerLoginLink-connected").show();
+                jQuery("#fbIframeButton,#fbIframeButtonLogin").hide().remove();
+            }                       
+		}, true);			
+
+    };
+</script>
+
+
+
+<style type="text/css">
+    #fbIframeButton span, 
+    #fbIframeButton iframe,
+	#fbIframeButtonLogin span, 
+    #fbIframeButtonLogin iframe,
+	#fbIframeButton_myData span,
+	#fbIframeButton_myData iframe {
+        width: 188px! important;
+        height: 25px! important;
+    }
+    
+    .turned #fbIframeButton span, 
+    .turned #fbIframeButton iframe,
+	.turned #fbIframeButtonLogin span, 
+    .turned #fbIframeButtonLogin iframe,
+	.turned #fbIframeButton_myData span,
+	.turned #fbIframeButton_myData iframe {
+        width: 200px! important;
+        height: 25px! important;
+        text-align:left;
+    }
+    
+    .ie9.turned #fbIframeButton span, 
+    .ie9.turned #fbIframeButton iframe,
+	.ie9.turned #fbIframeButtonLogin span, 
+    .ie9.turned #fbIframeButtonLogin iframe,
+	.ie9.turned #fbIframeButton_myData span,
+	.ie9.turned #fbIframeButton_myData iframe {
+        width: 210px! important;
+    }
+</style>    <script>
+        (function() {
+        	var e = document.createElement('script'); e.async = true;
+        	e.src = document.location.protocol + '//connect.facebook.net/en_GB/all.js';	
+        	jQuery('#fb-root').append(e);
+        }());
+    </script>
 <!-- ec: 0 --><!-- /Footer -->
+<span id="DataProtectionPage"></span>
 
 
-<!--04.10.2012 10:34:46:125 Generiert vom www22 in 79 ms (s = 0; f = 1; p = 78; Request-Nr = 1648595 RequestId = 1348847259170033522; Version = 3.4.2.010a; Parser = 1);-->
+<!--09.05.2013 05:28:04:037 Generiert vom www11 in 117 ms (s = 1; f = 0; p = 116; Request-Nr = 505201 RequestId = 1367940634051174111; Version = 3.6.1.006; Parser = 1; ec = 0);-->
 </body></html>
