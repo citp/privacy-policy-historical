@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915043826id_/http%3A//vexxhost.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509214509id_/http%3A//vexxhost.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # WEB HOSTING : Privacy Policy : Affordable & Reliable | vexxhost.com
 
@@ -21,3 +21,9 @@ VEXXHOST, Inc. could share with it's own partners or third parties a non-persona
 ### Orders
 
 We request information from the user when using our order form. A user must provide their personal information (ex: name, address) & financial information (credit card number, expiration date), this information is all encrypted and will only be used for billing purposes and completing the order itself.
+
+### Tracking
+
+This website uses Google AdWords, Google Analytics, and the Google Display Network together to serve ads to you on other websites after you’ve visited our website. This practice is known as remarketing and is a tool that Google offers to businesses. If you would like to know more about the program, [you can do so here](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2611268&topic=2611283&ctx=topic). But here are the basics: we, along with third-party vendors, Google and DoubleClick, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+
+If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the [Google Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en). Also, Google recommends installing the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/).
