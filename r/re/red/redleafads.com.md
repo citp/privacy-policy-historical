@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the redleafads.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208111622id_/http%3A//www.redleafads.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redleafads.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509102616id_/http%3A//www.redleafads.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
-
- 
 
 RedLeafAds.com has established its privacy policy to explain how your information within the purview of RedLeafAds.com is protected, collected and used. This policy may be updated by RedLeafAds.com. RedLeafAds.com will post notices of its policy changes on the RedLeafAds.com site at: <http://www.redleafads.com/help-privacy.html>  
 
@@ -33,5 +31,3 @@ RedLeafAds.com may disclose information about its users if required to do so by 
 By providing us with data and by visiting RedLeafAds.com you acknowledge and agree that due to the global use of RedLeafAds.com we may use the data collected in the course of your use of our site and/or services for the purposes identified in this policy or in our other communications to you, including the transmission of information outside your resident jurisdiction. Data provided to RedLeafAds.com may be stored on servers throughout different jurisdictions. User agrees to consent to transfer of such data to different locations.  
 
 **IF YOU DO NOT AGREE WITH RedLeafAds.com PRIVACY POLICY PLEASE LEAVE THIS WEBSITE**
-
- 
