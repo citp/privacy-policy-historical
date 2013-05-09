@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatheringmagic.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029122145id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatheringmagic.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509033310id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy | GatheringMagic.com - Magic: The Gathering Website
 
