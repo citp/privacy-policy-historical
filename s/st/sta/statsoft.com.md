@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219053617id_/http%3A//www.statsoft.com/home/ctl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510012247id_/http%3A//www.statsoft.com/home/ctl/privacy) for the most accurate reproduction.*
 
 # Big Data Analytics, Enterprise Analytics, Data Mining Software, Statistical Analysis, Predictive Analtyics
 
@@ -44,4 +44,4 @@ www.statsoft.com will occasionally update this Statement of Privacy to reflect c
 
 Contact Information
 
-www.statsoft.com welcomes your comments regarding this Statement of Privacy. If you believe that www.statsoft.com has not adhered to this Statement, please contact www.statsoft.com at [websiteregistrations@statsoft.com](mailto:websiteregistrations@statsoft.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+www.statsoft.com welcomes your comments regarding this Statement of Privacy. If you believe that www.statsoft.com has not adhered to this Statement, please contact www.statsoft.com at [websiteregistrations@statsoft.com](mailto:websiteregistrations@statsoft.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
