@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122182254id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509034058id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Globat's Privacy Policy
 
@@ -82,6 +82,6 @@ Please note: Globat reserves the right to send you email communications that rel
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20121122182254id_/http%3A//www.globat.com/legal/legal_privacy.bml?showchanges=1)  
+This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20130509034058id_/http%3A//www.globat.com/legal/legal_privacy.bml?showchanges=1)  
   
 ---|---
