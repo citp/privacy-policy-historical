@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017005207id_/http%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509052757id_/http%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
 
 # Sales Tracking and Online CRM Privacy & Security Policy for PipelineDeals
 
 Effective May 1, 2006
-
-### Our Commitment to Privacy
 
 In short, PipelineDeals.com will never sell, rent, lease or otherwise monetize your personal information. We do not and will not violate our customer’s trust. For further details, please read on.
 
