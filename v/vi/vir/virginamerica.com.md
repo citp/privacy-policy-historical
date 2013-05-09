@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginamerica.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014080033id_/http%3A//www.virginamerica.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginamerica.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509030520id_/http%3A//www.virginamerica.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin America
 
@@ -34,7 +34,7 @@ As part of the Service, we intend to create features to enable you to send e-mai
 If you would like to continue to receive Virgin America/Elevate marketing and promotion emails and avoid having them be classified as spam, please add info@fly.virginamerica.com to your address book or safe list now.
 
 **Unsubscribe**  
-We realize you are a VIP and your email inbox might be quite full. If you would like to stop receiving our marketing and promotion emails, [click here](https://www.virginamerica.com/unsubscribe.html) to update your preferences and simply enter and confirm your email address or you can send an email to [unsubscribe@virginamerica.com](mailto:unsubscribe@virginamerica.com), or contact us via post at Attn: Virgin America Guest Care, PO Box 4271, Burlingame, CA 94010. We will promptly update your contact preferences. However, please note that any request to update your personal information may take up to 10 days for your electronic request and 6-8 weeks for your postal mail request.
+We realize you are a VIP and your email inbox might be quite full. If you would like to stop receiving our marketing and promotion emails, [click here](https://www.virginamerica.com/unsubscribe.html) to update your preferences and simply enter and confirm your email address or you can send an email to [unsubscribe@virginamerica.com](mailto:unsubscribe@virginamerica.com), or contact us via post at Attn: Virgin America Guest Relations, 555 Airport Blvd, Suite 500, Burlingame, CA 94010. We will promptly update your contact preferences. However, please note that any request to update your personal information may take up to 10 days for your electronic request and 6-8 weeks for your postal mail request.
 
 Regardless of your preferences for marketing and promotion emails, when you book a flight on virginamerica.com, you will still receive email notifications of your flight confirmation, schedule changes or other status updates. Please do not reply to the info@fly.virginamerica.com email address because it is an unmonitored alias. If you have web site-related questions, suggestions, or comments, please e-mail us at [webteam@virginamerica.com](mailto:webteam@virginamerica.com).
 
