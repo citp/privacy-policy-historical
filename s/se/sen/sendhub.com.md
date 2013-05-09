@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004073953id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093808id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SendHub
 
 Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
 We may amend this policy at any time. All amended terms automatically take effect 10 days after they are initially posted on the Website. You agree that notice on the Website of changes to the policy is sufficient notice. Your continued use of the Website following the posting of changes to this policy will mean that you accept those changes.
+
+Notwithstanding anything to the contrary in this Privacy Policy our Terms of Use, we retain the right to review your account in order to determine whether or not there has been a violation of our Terms of Use. In such case that we determine there has been a violation of our Terms of Use, we retain the right to suspend or delete your account without prior notice.
 
 Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
 
