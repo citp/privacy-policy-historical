@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109022354id_/http%3A//www.kitepackaging.co.uk/sitepage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509165805id_/http%3A//www.kitepackaging.co.uk/sitepage/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Kite Packaging
 
