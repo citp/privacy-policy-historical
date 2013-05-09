@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majortests.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017033307id_/http%3A//www.majortests.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majortests.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509110831id_/http%3A//www.majortests.com/privacy.php) for the most accurate reproduction.*
 
 # majortests.com : Privacy information
 
