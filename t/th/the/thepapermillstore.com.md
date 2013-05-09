@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepapermillstore.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016124558id_/http%3A//www.thepapermillstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepapermillstore.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509044735id_/http%3A//www.thepapermillstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,11 @@ You are under no obligation to provide Personal Information, with the caveat tha
 **(a) Traffic Data and Information Gathered Using Cookies**  
 
 
-The Paper Mill Store analyzes Traffic Data and information gathered using Cookies to help The Paper Mill Store better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, The Paper Mill Store is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements. From time to time, The Paper Mill Store may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. The Paper Mill Store does not attempt to link information gathered using Cookies to Personal Information.
+The Paper Mill Store analyzes Traffic Data and information gathered using Cookies to help The Paper Mill Store better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, The Paper Mill Store is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements. 
+
+The Paper Mill Store and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on Your past visits to the Website. Third-party vendors, including Google, will utilize this information to show You specific ads on sites across the Internet for remarketing purposes. You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/) or by utilizing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
+
+From time to time, The Paper Mill Store may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. The Paper Mill Store does not attempt to link information gathered using Cookies to Personal Information.
 
 **(b) Personal Information**
 
