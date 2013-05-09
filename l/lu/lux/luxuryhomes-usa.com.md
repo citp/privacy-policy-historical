@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxuryhomes-usa.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623110339id_/http%3A//luxuryhomes-usa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryhomes-usa.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509081541id_/http%3A//luxuryhomes-usa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Luxury Homes for sale
+# Privacy Policy | Luxury Homes for sale in the USA
 
 Privacy Policy for [Luxury Homes for sale](http://luxuryhomes-usa.com/ "Luxury Homes for sale").
 
