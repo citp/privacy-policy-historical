@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113073755id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509214538id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
 
 # Photos.com - Privacy Policy | Photos.com Royalty-Free Subscription Stock Photos
 
@@ -54,35 +54,29 @@ If you choose not to receive marketing emails, please be advised that you may co
 
 ## Use of Cookies and Other Technologies
 
-\ 
-
 Photos.com uses "cookies" to enable you to sign in to our services and to help personalize and improve your online experience. A cookie is a small text file that is placed on your hard drive or device. Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, and your navigational and purchase history. 
 
 Cookies offer you many conveniences: 
 
-\ 
-
 They allow us to identify registered users when they return to the site so that they can retrieve previous image search results, access Lightboxes and shopping carts and view their previous invoices. 
 
-Cookies save you time by eliminating the need to repeatedly enter the same information. 
-
 \ 
+
+Cookies save you time by eliminating the need to repeatedly enter the same information. 
 
 Cookies allow us to deliver personalized content to you, including search results and targeted advertising. 
 
 Cookies help to protect your security by checking your login details and may help prevent fraud. 
 
-\ 
+Cookies remember your preferences when using the site. \ 
 
-Cookies remember your preferences when using the site. 
-
-Cookies also identify particular customers in the event such customer would like assistance from a live, online customer service representative. 
+Cookies also identify particular customers in the event such customer would like assistance from a live, online customer service representative. \ 
 
 We strive to make this site user-friendly and relevant. Our goal is to deliver more personalized products and services to you. 
 
 For this purpose, Photos.com also works with third-party partners, who use cookies on our site to: 
 
-Measure and analyze aggregate usage and volume statistical information from our users on our site. Information gathered may include, but is not limited to the following: activity of the user browser when the user is visiting the site, the site path of users, general information regarding the visitor's internet service provider and host, and the time users come to the site. 
+Measure and analyze aggregate usage and volume statistical information from our users on our site. Information gathered may include, but is not limited to the following: activity of the user browser when the user is visiting the site, the site path of users, general information regarding the visitor's internet service provider and host, and the time users come to the site. \ 
 
 Remember our users' previous search of products and services, and dynamically display more relevant content to them. 
 
