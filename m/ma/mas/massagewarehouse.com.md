@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012041040id_/http%3A//www.massagewarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509104629id_/http%3A//www.massagewarehouse.com/service/privacy) for the most accurate reproduction.*
 
 # Massage Warehouse Privacy Policy - Massage Warehouse Privacy Information - Massage Warehouse Customer Privacy | Massage Warehouse
 
