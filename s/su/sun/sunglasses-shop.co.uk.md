@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglasses-shop.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010062602id_/http%3A//www.sunglasses-shop.co.uk/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasses-shop.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509150522id_/http%3A//www.sunglasses-shop.co.uk/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sunglasses Shop Privacy Information : Shop For Sunglasses
 
@@ -55,30 +55,3 @@ United Kingdom
 SS1 1JE
 
 ## What's New From Ray-Ban
-
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/2140/havana-grey-beige-azure-110796/37018.aspx "Ray-Ban 2140 Havana Grey Beige Azure 110796")
-
-£117.00
-
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/4179/matte-brown-88173/36976.aspx "Ray-Ban 4179 Matte Brown 881/73")
-
-£153.00
-
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/4179/matte-green-polarised/36975.aspx "Ray-Ban 4179 Matte Green Polarised")
-
-£153.00
-
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/4105/tortoise-71051/36930.aspx "Ray-Ban 4105 71051 Tortoise 710/51")
-
-£113.00
-
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/meteor/black-and-havana-107614/36929.aspx "Ray-Ban 4168 107614 Black and Havana 107614")
-
-£122.00
-
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/3445/matte-gunmetal-0293k/36925.aspx "Ray-Ban 3445 0293k Matte Gunmetal 029/3K")
-
-£99.00
-
-
-
