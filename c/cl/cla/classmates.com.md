@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classmates.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018075936id_/http%3A//www.classmates.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmates.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509054120id_/http%3A//www.classmates.com/about/privacy) for the most accurate reproduction.*
 
-# Memory Lane | Step back in time - Previously Classmates.com
+# Classmates - Find your school, yearbooks and alumni online
 
 **1\. COLLECTION AND USE OF YOUR INFORMATION**
 
