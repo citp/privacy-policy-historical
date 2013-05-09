@@ -1,26 +1,46 @@
-<!--The following is the downloaded HTML source of the pandawhale.com privacy policy that was archived on 2012-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126160625id_/http%3A//pandawhale.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pandawhale.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509233056id_/http%3A//pandawhale.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!-- head prefix is used for Facebook Open Graph integration --><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# pandawhale: http://ogp.me/ns/fb/pandawhale#">
 <title>Privacy Policy - PandaWhale</title>
-<link rel="stylesheet" href="/css/pandawhale_browser.css?mt=1352945743" type="text/css" media="screen" charset="utf-8">
-<link rel="stylesheet" href="/dojo/dijit/themes/tundra/tundra.css?mt=1353546245" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/css/pandawhale_browser.css?mt=1365471945" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/dojo/dijit/themes/tundra/tundra.css?mt=1365472019" type="text/css" media="screen" charset="utf-8">
 <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=18981369756"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//swiftype.com/embed.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script src="/dojo/dojo/dojo.js?mt=1353546264" type="text/javascript" data-dojo-config="parseOnLoad: true, async: true"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=18981369756"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script src="/dojo/dojo/dojo.js?mt=1365472060" type="text/javascript" data-dojo-config="parseOnLoad: true, async: true"></script>
 <script type="text/javascript">
 
 require(
 [
     "dojo/ready",
-    "dojo/cookie"
+    "dojo/cookie",
+    "dojo/_base/lang",
+    "dojo/_base/event",
+    "dojo/on",
+    "dojo/dom",
+    "dojo/query"
 ],
 
 function(
     ready,
-    cookie
+    cookie,
+    lang,
+    event,
+    on,
+    dom,
+    query
 ) {
 ready(function() {
+    // override form behavior
+    query(".searchbox-form").forEach(lang.hitch(this, function(form) {
+        on(form, "submit", lang.hitch(this, function(e) {
+            event.stop(e);
+            var terms = form.querySelector(".searchbox-input").value;
+            terms = terms.replace(/ /g, "-");
+            window.location = "/search/"+encodeURIComponent(terms);
+        }));
+    }));
+
     var loginPlatform = cookie("login-platform");
     if (loginPlatform) {
         // user just logged in
@@ -50,33 +70,21 @@ ready(function() {
 </head>
 <body class="tundra">
 <div class="main_wrapper">
-<div class="signupbanner"><a class="signupbannerlink" href="/login.php?banner=v2">Sign up and get the BEST of PandaWhale!</a> <a href="/login.php?banner=signup">Sign Up</a> <a href="/login.php?banner=login">Login</a></div>
-<div class="navlist_wrapper">
+<div class="signupbanner"><a class="signupbannerlink" href="https://pandawhale.com/login.php?banner=v4">Sign up FAST!</a> <a href="https://pandawhale.com/login.php?banner=signup">Sign Up</a> <a href="https://pandawhale.com/login.php?banner=login">Login</a></div>
+<div class="banner_wrapper">
     <a href="http://pandawhale.com"><img id="banner-image" src="/images/pandawhale-logo-small.png?mt=1348006528"></a>
+    
 </div>
-<div class="swiftTypeBoxContainer">
-<form>
-  <input type="text" id="st-search-input" class="st-search-input">
-</form>
-<div id="st-results-container"></div>
-<script type="text/javascript">
-  var Swiftype = window.Swiftype || {};
-  (function() {
-    Swiftype.key = 'K6vszyQprsyrAeQGQNuq';
-    Swiftype.inputElement = '#st-search-input';
-    Swiftype.resultContainingElement = '#st-results-container';
-    Swiftype.attachElement = '#st-search-input';
-    Swiftype.renderStyle = "overlay";
-
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.async = true;
-    script.src = "//swiftype.com/embed.js";
-    var entry = document.getElementsByTagName('script')[0];
-    entry.parentNode.insertBefore(script, entry);
-  }());
-</script>
+<div class="navmenuwrapper">
+  <ul class="navmenu">
+  <li><a href="/"><img src="/images/HomeGray.png" alt="Home"></a></li>
+  <li><a href="/login.php"><img src="/images/ProfileGray.png" alt="Profile"></a></li>
+  <li><a href="/login.php"><img src="/images/MessagesGray.png" alt="Messages"></a></li>
+  <li><a href="/login.php"><img src="/images/CreateOrange.png" alt="Create Page"></a></li>
+  </ul>
+  <div class="searchbox-container">  <form action="searchresults.php" method="GET" class="searchbox-form"><input type="text" name="query" class="searchbox-input"><label class="searchbox-input-label mobile_display_none">Search</label></form></div>
 </div>
+<div class="clear_both"></div>
 <div class="clear_both"></div><div class="stashlist_wrapper">
 <h2>PandaWhale Privacy Policy</h2>
 
@@ -133,9 +141,10 @@ ready(function() {
     <a href="/about/story">About</a> |
     <a href="/about/tos">Terms</a> |
     <a href="/about/privacy">Privacy</a> |
-    <a href="/login.php">Log In</a> |
+    <a href="https://pandawhale.com/login.php">Log In</a> |
+    <a href="http://m.pandawhale.com/force-browse-mode.php?mode=mobile&amp;next=%2Fabout%2Fprivacy">Mobile</a> |
     <a href="/about/goodies" class="red">Browser Extensions</a> |
-    © PandaWhale, Inc. 2012. All rights reserved.
+    © PandaWhale, Inc. 2013. All rights reserved.
 </div>
 </div><!-- Close main_wrapper -->
 <script type="text/javascript">
@@ -178,6 +187,7 @@ if (typeof mixpanel !== 'undefined') {
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=18981369756";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
 
 
 </body></html>
