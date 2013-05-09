@@ -1,544 +1,1068 @@
-<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503214325id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509182400id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Alawar Online Privacy Policy | Alawar Entertainment</title>
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="ROBOTS" content="ALL">
+<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head>
+	<meta charset="utf-8">
+<!--[if lt IE 9]><script defer src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-	
-		<link rel="alternate" type="application/rss+xml" title="New Game Releases" href="http://www.alawar.com/export/rss_xml/new.xml">
-	<link rel="alternate" type="application/rss+xml" title="Top Rank Games" href="http://www.alawar.com/export/rss_xml/top.xml">
-	<link rel="alternate" type="application/rss+xml" title="Arcade Games" href="http://www.alawar.com/export/rss_xml/arcade.xml">
-	<link rel="alternate" type="application/rss+xml" title="Arkanoid Games" href="http://www.alawar.com/export/rss_xml/arkanoid.xml">
-	<link rel="alternate" type="application/rss+xml" title="Puzzle &amp; Logic" href="http://www.alawar.com/export/rss_xml/puzzle.xml">
-	<link rel="alternate" type="application/rss+xml" title="Shooter &amp; Action" href="http://www.alawar.com/export/rss_xml/shooter.xml">
-	<link rel="alternate" type="application/rss+xml" title="Hidden Object" href="http://www.alawar.com/export/rss_xml/hidden-object.xml">
-	<link rel="alternate" type="application/rss+xml" title="Match 3" href="http://www.alawar.com/export/rss_xml/match-3.xml">
-	<link href="/bitrix/templates/alawar6-en-promo/styles.css?1243485808" type="text/css" rel="stylesheet">
-<link href="/bitrix/templates/alawar6-en-promo/template_styles.css?1335948241" type="text/css" rel="stylesheet">
-<script src="/bitrix/js/jQuery/jquery-1.3.1.min.js"></script>
-<script src="/bitrix/templates/alawar6-en-promo/js.js"></script>
-<script src="/bitrix/templates/alawar6-en-promo/bottom_banner_lib.js"></script>
-<script src="/bitrix/templates/alawar6-en-promo/js/user-info.js"></script>
-<script src="/bitrix/js/jQuery/jquery.cookie.js"></script>
-<script src="/bitrix/templates/alawar6-en-promo/iepngfix_tilebg.js"></script>
-<script src="/bitrix/templates/alawar6-en-promo/js/swfObject.js"></script>
-	<script type="text/javascript">
-		document.write('\<script type="text/javascript" src="http://en.skin.partner.services.alawar.com/skin.js?lang=en&code=&pid=1660&skinHit=' + getCookie( 'ALAWAR_SKIN_HIT' ) + '&skinHash=' + getCookie( 'ALAWAR_SKIN_HASH' ) + '&rand=' + Math.round( Math.random() * 10000 ) + '"\>\</script\>');
-	</script><script type="text/javascript" src="http://en.skin.partner.services.alawar.com/skin.js?lang=en&amp;code=&amp;pid=1660&amp;skinHit=null&amp;skinHash=null&amp;rand=7135"></script>
-	<!--[if ie 6]>
-	<style>
-		.index-body-background{height: 880px;}
-		.div-index-banner{margin-bottom:21px!important;}
-		.buttons { right:-10px;}
-		.mainmenu .n{
-			margin-right: 5px;
+<title>Alawar Online Privacy Policy</title>
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="http://s3.al.s.ru.a7.ala.bz/themes/alawar7/css/www.alawar.com/36abf5b0b7131ab3db1862331f8865a3.css">
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s6.al.s.ru.a7.ala.bz/themes/alawar7/js/www.alawar.com/27b935f5204df0f0b8377a30772b4524.js"></script>
+
+<link rel="stylesheet" href="/themes/alawar7/bem/blocks/b-icon-font/b-icon-font.css">
+
+<!--Автокомплит для поиска-->
+<script type="text/javascript">
+//Делаем переход при клике на подгруженный вариант
+$.widget( "custom.clickcomplete", $.ui.autocomplete, {
+	/*Формируем группы*/
+	_renderMenu: function( ul, items ) {
+		var self = this,
+			currentCategory = "";
+		$.each( items, function( index, item ) {
+			if ( item.category != currentCategory ) {
+				ul.append( "<li class='ui-menu-item_cat'>" + item.category + "</li>" );
+				currentCategory = item.category;
+			}
+			self._renderItem( ul, item );
+		});
+	},
+	/*Если есть ссылка, добавляем*/
+	_renderItem: function( ul, item ) {
+		return $( "<li></li>" )
+			.data( "item.autocomplete", item )
+			.append( '<a href="' + (item.url != "undefined" ? item.url : '') + '">' + item.label + '</a>' )
+			.appendTo( ul );
+	}
+});
+
+$(function() {
+	$( ".b-search__input" ).clickcomplete({
+		delay: 100
+		,source: function( request, response ) {
+			var platform = $('[name=platform]', this.element.parent('form')).val();
+			var device = $('[name=device]', this.element.parent('form')).val();
+			$.ajax({
+				url: "/search/autocomplete?q=" + encodeURIComponent(request.term)
+					+ (platform != undefined ? '&platform=' + platform : '' )
+					+ (device != undefined ? '&device=' + device : '' ),
+				success: function( data ) {
+					response( data );
+				}
+			});
 		}
-
-	</style>
-	<style>
-		body { behavior: url("/bitrix/templates/alawar6-en-promo/csshover3.htc"); }
-		img, div, a, h1 { behavior: url("/bitrix/templates/alawar6-en-promo/iepngfix.htc") }
-	</style>
-	<![endif]-->
-
-	<script type="text/javascript">
-		var onloadTrackerPID = $.cookie('ALAWAR_SM_ALAWAR_PID');
-		SetPartnerIdForUser(1660);
-	</script>
-
-
-
-<meta name="application-name" content="Alawar.com">
-<meta name="msapplication-navbutton-color" content="#3480C0">
-<meta name="msapplication-tooltip" content="Play Free Online Games, Free Game Downloads and more...">
-
-<meta name="msapplication-task" content="name=Featured games; action-uri=http://www.alawar.com/; icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=New Games; action-uri=http://www.alawar.com/new-games/; icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Top 50; action-uri=http://www.alawar.com/top50/; icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Online Games; action-uri=http://www.alawar.com/online/; icon-uri=/favicon.ico">
-
-
-<script>
-$(document).ready(function(){
-    try {
-
-        if (window.external.msIsSiteMode()) {
-            window.external.msSiteModeClearJumpList();
-            window.external.msSiteModeCreateJumpList('Genres');
-                $(".genre .buttons,.ac_genre .content01 a").each(function(k, v){
-                    var title = unescape($(this).text());
-                    var href = 'http://www.alawar.com'+$(this).attr('href');
-	            var code = $(this).attr('href').replace('catalog','').replace(/\//g,'');
-	            window.external.msSiteModeAddJumpListItem(title, href, "http://www.alawar.com/bitrix/templates/alawar6-en-promo/images/mspinned/en/"+code+".ico", "self");
-                });
-        }
-    } catch (ex) {}
+		,minLength: 2
+		//При ширине вып. списка > поля ввода, расширяем влево
+		,position: {my : "right top", at: "right bottom" }
+		/*Если есть ссылка, по нажатию переходим*/
+		,select: function(event, ui) {
+			if ( ui.item.url != "" ) {
+				window.location.href =  ui.item.url;
+			}
+		}
+	}).clickcomplete("widget").addClass("b-autocomplete");
 });
 </script>
 
+<script type="text/javascript">
+	$(function() {
+		$('.game__raiting').rater({ postHref: '/stars/rate/', units: 5, step: 0.7 });
+	});
 
-</head>
-<body>
+	var defaultAlawar7PartnerId = 24436;
+	var onloadTrackerPID = A7.getPid();
+	A7.setPartnerIdForUser(defaultAlawar7PartnerId);
+	SetCookieSubPartnerID();
+	SetGateway4AffiliatesUIDCookie();
 
+	A7.setTimezoneOffset();
+</script>
 
-
-<div class="top-promo-bg">
-	<div class="index-body-background">		<!--[if IE]>
-<style>
-	.only_ie {
-		display: block;
+<!-- GoogleAnalitics begin -->
+<script type="text/javascript">
+//гугл аналитика для англ версии А7
+var PageTracker = {
+	init: function() {
+                //по умолчанию трэкаем события в Новый дизайн alawar.com [DEFAULT] (UA-32854758-1)
+		_gaq.push(['_setAccount', 'UA-32854758-1']);
+		_gaq.push(['_trackPageview']);		
+	},
+	push: function (event, pagename, eventtype, eventlabel)
+	{
+                eventlabel = eventlabel || '';
+		_gaq.push([event, pagename, eventtype]);		
 	}
-</style>
-<![endif]-->
+}
 
-<div class="top_panel">
-	<a class="homepage only_ie" id="link1" href="javascript:el=document.getElementById('link1'); el.style.behavior='url(#default#homepage)'; el.setHomePage('http://www.alawar.com');">Make <br> homepage</a>
-	<a class="bookmark" rel="sidebar" href="http://www.alawar.com" onclick="myBookMark('http://www.alawar.com','Best mini-games: Alawar.com!')" title="Best mini-games: Alawar.com!">Add to <br> bookmarks</a>
-		<a class="rss" href="/rss.php"></a>
-				<a class="twitt" href="http://twitter.com/AlawarGames" target="_blank"></a>
-		
-	<div class="lang_switch">
+var hasGaq = typeof(_gaq) !== "undefined";
+var _gaq = _gaq || [];
+PageTracker.init();
+if (hasGaq == false) {
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+}
+</script>
+<!-- GoogleAnalitics end -->
+<script type="text/javascript">
+// newbies at a7
+var cookieName = "ALAWAR_DESIGN";
+var cookieExp = 365;
+var cookieVal = getCookie(cookieName);
 
-		<script language="JavaScript">
-		<!--
-		function selChange(seln)
-		{
-			selNum = seln.chooselang.selectedIndex;
-			selValue = seln.chooselang.options[selNum].value;
-//			setRedirectCookie( selValue );
-			window.document.location.href = selValue;
-		}
-		//-->
-		</script>
-		<form class="langform">
-			Lang:			<select style="padding:0;" name="chooselang" onchange="selChange(this.form)">
-<option value="http://alawar.com.br/?rd=1">Brazilian - Português</option>
-<option value="http://www.alawar.fr/?rd=1">Canadian - Français</option>
-<option value="http://www.alawar.cn/?rd=1">Chinese - 中文</option>
-<option value="http://www.alawar.com.hr/?rd=1">Croatian - Hrvatski</option>
-<option value="http://www.alawarhry.cz/?rd=1">Czech - Česky</option>
-<option value="http://www.alawar.nl/?rd=1">Dutch - Nederlands</option>
-<option value="http://www.alawar.com/?rd=1" selected="selected">English - English</option>
-<option value="http://alawar.co.ee/?rd=1">Estonian - Eesti</option>
-<option value="http://www.alawar.fr/?rd=1">French - Français</option>
-<option value="http://www.alawarspiele.de/?rd=1">German - Deutsch</option>
-<option value="http://www.alawar.gr/?rd=1">Greek - ελληνικά</option>
-<option value="http://alawar.co.il/?rd=1">Hebrew - עברית</option>
-<option value="http://www.alawar.hu/?rd=1">Hungarian - Magyar</option>
-<option value="http://id.alawar.com/?rd=1">Indonesian - Bahasa Indonesia</option>
-<option value="http://www.alawar.it/?rd=1">Italian - Italiano</option>
-<option value="http://www.alawar.jp/?rd=1">Japanese - 日本語</option>
-<option value="http://www.alawar.kr/?rd=1">Korean - 한국어</option>
-<option value="http://www.alawar.md/?rd=1">Moldovan - Română</option>
-<option value="http://www.alawar.mn/?rd=1">Mongolian - Монгол</option>
-<option value="http://www.alawar.pl/?rd=1">Polish - Polski</option>
-<option value="http://alawar.com.pt/?rd=1">Portuguese - Português</option>
-<option value="http://www.alawar.ro/?rd=1">Romanian - Română</option>
-<option value="http://www.alawar.ru/?rd=1">Russian - Русский</option>
-<option value="http://www.alawar.rs/?rd=1">Serbian - Српски</option>
-<option value="http://www.alawar.si/?rd=1">Slovene - Slovenščina</option>
-<option value="http://www.alawar.es/?rd=1">Spanish - Español</option>
-<option value="http://www.alawar.se/?rd=1">Swedish - Svenska</option>
-<option value="http://www.alawar.com.tr/?rd=1">Turkish - Türkçe</option>
-<option value="http://www.alawar.ua/?rd=1">Ukrainian - Українською</option>
-			</select>
-		</form>
+if (cookieVal)
+{
+	setCookie(cookieName, cookieVal, cookieExp);
+}
+else
+{
+	setCookie(cookieName, 10, cookieExp);
+}
+
+// from a7 to a6
+function changeDesignToA6()
+{
+	PageTracker.push('_trackEvent', '/design/to-a6/click', 'clicked');
+	setCookie("ALAWAR_DESIGN", 12, 365);
+	window.location = "/?refresh=2"
+	return true;
+}
+
+</script>
+
+
+<meta name="application-name" content="Alawar games">
+<meta name="msapplication-navbutton-color" content="#3480C0">
+<meta name="msapplication-tooltip" content="Alawar games">
+
+<meta name="msapplication-task" content="name=Hit games; action-uri=http://www.alawar.ru/; icon-uri=/favicon.ico">
+<meta name="msapplication-task" content="name=New games; action-uri=http://www.alawar.ru/new-games/; icon-uri=/favicon.ico">
+<meta name="msapplication-task" content="name=Top 50; action-uri=http://www.alawar.ru/top50/; icon-uri=/favicon.ico">
+<meta name="msapplication-task" content="name=Online games; action-uri=http://www.alawar.ru/online/; icon-uri=/favicon.ico">
+
+<meta name="yandex-verification" content="67fa56065045b11a">
+<script type="text/javascript">if (window.location.hash == '#_=_')window.location.hash = '';</script>
+<!--  Ссылка на лого для VK -->
+<link rel="image_src" href="http://s7.al.s.ru.a7.ala.bz/themes/alawar7/bem/blocks/b-logo/logo.png"></head>
+<body class="b-skin">
+  <div class="b-skin__wrap">
+    <div class="b-skin__push">
+
+<!--b-bar_alawar_toold Уведомляющий бар _АЛАВАР-В-СТАРЫЙ начало-->
+<div class="b-bar b-bar_alw_toold" style="display: none;" id="alawar-top-bar-change-design">
+	<div class="b-bar__shadow">
+		<div class="b-bar__wrap">
+			<div class="b-bar__close b-bar__close_btn"></div>
+			<a href="#" onclick="return changeDesignToA6()">← I prefer the old design.</a> Let me use it instead.		</div>
 	</div>
 </div>
-		<div class="flash_interactive" id="top-promo-skin"></div>
-
-	<div id="auto" style="height: 0px; width: 900px; margin-top: -170px; z-index:-5"></div>
-
-	<div id="auto" class="div-index-banner"></div>
-	<script type="text/javascript">
-	
-		function skinCorrector( result )
-		{
-			if ( !result )
-			{
-				$('.skin-top-fixer').css('margin-top', '-15px');
-			}
-			else
-			{
-				$('.skin-top-fixer').css('margin-top', '-60px');
-				$('.top_panel').css({
-						    'background': 'url(/bitrix/templates/alawar6/images/toppanel/top_panel_skin.png) no-repeat center top',
-						    'margin-bottom': '0px'
-						    });
-			}
-																										}
-																											
-																											
-		if ( function_exists('writeSkinSwfObject') )
-		{
-			writeSkinSwfObject( 'top-promo-skin', skinCorrector );
-		}
-	</script>
-
-<!-- start banner -->
-	
-<!-- end banner -->
 
 
-<!-- Start Main Menu -->
-
-<div class="mainmenu" id="auto">
-
-<div class="buttons" style="border: 0 !important">
-	
+<div class="b-header">
 
 
-
-
-
-
-
-<a class="png" href="/online/">Online games</a>
-<a class="png" href="/top50/">Top 50</a>
-<a class="png" href="/new-games/">New Games</a>
-<a class="png" href="/">Home</a>
+<!--b-hmenu_alw-top Горизонтальное меню _Алавар-Верхнее начало-->
+<div id="b-hmenu_alw-top" class="b-hmenu_alw-top-panel">
+	<ul class="b-hmenu b-block b-hmenu_alw-top">
+		<li class="b-hmenu__item_right">
+			<ul class="b-hmenu_alw-top__tools">
+								<li class="b-hmenu__item" style="display: none;" id="alawar-top-hmenu-change-design"><a href="#" onclick="return changeDesignToA6()">Use the old site</a></li>
+								<li class="b-hmenu__item"><div class="b-drdown b-drdown_lang"><span id="text-language">Language:</span>
+					<div class="b-drdown__options b-drdown_lang__options">
+						<a href="http://id.alawar.com/?rd=1" class="b-drdown__options__item" title="Indonesian">Bahasa Indonesia</a>
+						<a href="http://www.alawarhry.cz/?rd=1" class="b-drdown__options__item" title="Czech">Česky</a>
+						<a href="http://www.alawar.de/?rd=1" class="b-drdown__options__item" title="German">Deutsch</a>
+						<a href="http://alawar.co.ee/?rd=1" class="b-drdown__options__item" title="Estonian">Eesti</a>
+						<a href="http://www.alawar.com/?rd=1" class="b-drdown__options__item b-drdown__options__item_active" title="English">English</a>
+						<a href="http://www.alawar.es/?rd=1" class="b-drdown__options__item" title="Spanish">Español</a>
+						<a href="http://www.alawar.fr/?rd=1" class="b-drdown__options__item" title="French (Canada)">Français (Canada)</a>
+						<a href="http://www.alawar.fr/?rd=1" class="b-drdown__options__item" title="French (France)">Français (France)</a>
+						<a href="http://www.alawar.kr/?rd=1" class="b-drdown__options__item" title="Korean">한국어</a>
+						<a href="http://alawar.com.hr/?rd=1" class="b-drdown__options__item" title="Croatian">Hrvatski</a>
+						<a href="http://www.alawar.it/?rd=1" class="b-drdown__options__item" title="Italian">Italiano</a>
+						<a href="http://www.alawar.hu/?rd=1" class="b-drdown__options__item" title="Hungarian">Magyar</a>
+						<a href="http://www.alawar.nl/?rd=1" class="b-drdown__options__item" title="Dutch">Nederlands</a>
+						<a href="http://www.alawar.jp/?rd=1" class="b-drdown__options__item" title="Japanese">日本語</a>
+						<a href="http://www.alawar.pl/?rd=1" class="b-drdown__options__item" title="Polish">Polski</a>
+						<a href="http://alawar.com.br/?rd=1" class="b-drdown__options__item" title="Portuguese (Brazil)">Português (Brasil)</a>
+						<a href="http://alawar.com.pt/?rd=1" class="b-drdown__options__item" title="Portuguese (Portugal)">Português (Portugal)</a>
+						<a href="http://www.alawar.md/?rd=1" class="b-drdown__options__item" title="Romanian (Moldova)">Română (Moldova)</a>
+						<a href="http://www.alawar.ro/?rd=1" class="b-drdown__options__item" title="Romanian (Romania)">Română (Romania)</a>
+						<a href="http://www.alawar.ru/?rd=1" class="b-drdown__options__item" title="Russian">Русский</a>
+						<a href="http://www.alawar.si/?rd=1" class="b-drdown__options__item" title="Slovene">Slovenščina</a>
+						<a href="http://www.alawar.se/?rd=1" class="b-drdown__options__item" title="Swedish">Svenska</a>
+						<a href="http://alawar.com.tr/?rd=1" class="b-drdown__options__item" title="Turkish">Türkçe</a>
+						<a href="http://www.alawar.cn/?rd=1" class="b-drdown__options__item" title="Chinese">中文</a>
+						<a href="http://www.alawar.gr/?rd=1" class="b-drdown__options__item" title="Greek">ελληνικά</a>
+						<a href="http://www.alawar.mn/?rd=1" class="b-drdown__options__item" title="Mongolian">Монгол</a>
+						<a href="http://www.alawar.rs/?rd=1" class="b-drdown__options__item" title="Serbian">Српски</a>
+						<a href="http://www.alawar.ua/?rd=1" class="b-drdown__options__item" title="Ukrainian">Українською</a>
+						<a href="http://alawar.co.il/?rd=1" class="b-drdown__options__item" title="Hebrew">עברית</a>
+					</div>
+					<a class="b-drdown__trigger" href="#">English<ins class="b-drdown__icon"></ins></a>
+				</div></li>
+				<li class="b-hmenu__item b-hmenu__item_sep">&nbsp;</li>
+						
+						
+				<li class="b-hmenu__item">	<a href="#b-login" class="b-popup-tr b-modal i-declarative" onclick="return {
+      bModal: {
+        target: '#b-login',
+        modifiers: ['nopadding']
+      }
+    }"><ins class="b-icon b-icon_login"><ins></ins></ins>Login or register</a>
+</li>
+			</ul>
+		</li><li class="b-hmenu__item b-hmenu_alw-top__nav b-hmenu__item_active">Windows</li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/mac/" title="Games for Mac">Mac</a></li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/iphone/" title="Games for iPhone">iPhone</a></li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/ipad/" title="Games for iPad">iPad</a></li><li class="b-hmenu__item b-hmenu_alw-top__nav"><a href="/promo/android/" title="Games for Android">Android</a></li>	</ul>
 </div>
 
-<div class="right content_top png"></div>
+<script type="text/javascript">
+lang = getBrowserLanguage()
+window.document.getElementById('text-language').innerHTML = translateLang( lang )
+</script>
+
+<!--b-hmenu_alw-top Горизонтальное меню _Алавар-Верхнее конец-->
+<!--Шапка начало-->
+	<div class="b-block b-head_tbl">
+		<table class="b-head_tbl__table">
+			<tbody><tr>
+				<td class="b-head_tbl__table__logo">
+					<a href="/" class="b-logo b-logo_mod"><img class="b-logo__img" src="http://s7.al.s.ru.a7.ala.bz/themes/alawar7/bem/blocks/b-logo/logo.png" alt="Alawar Entertainment"></a>
+				</td>
+				<td class="b-head_tbl__table_center">
+					<ul class="b-hmenu b-hmenu_alw-main i-declarative" onclick="return { bHmenu: {} }">
+							<li class="b-hmenu__item b-hmenu_alw-main__item_new"><a href="/new-games/" title="Novelties from Alawar">New games</a></li><li class="b-hmenu__item b-hmenu_alw-main__item_hit"><a href="/top50/" title="Hit games">Top 50</a></li><li class="b-hmenu__item"><a href="/catalog/hidden-object/" title="Games of genre Hidden Object">Hidden Object</a></li><li class="b-hmenu__item"><a href="/catalog/arkanoid/" title="Games of genre Arkanoid">Arkanoid</a></li><li class="b-hmenu__item"><a href="/catalog/puzzle/" title="Games of genre Puzzle">Puzzle</a></li><li class="b-hmenu__item"><a href="/catalog/arcade/" title="Games of genre Arcade">Arcade</a></li><li class="b-hmenu__item"><a href="/catalog/shooter/" title="Games of genre Shooter">Shooter</a></li><li class="b-hmenu__item"><a href="/catalog/match-3/" title="Games of genre Match 3">Match 3</a></li><li class="b-hmenu__item"><a href="/online/" title="Online games">Online games</a></li>
+
+					</ul>
+				</td>
+				<td class="b-head_tbl__table__search">
+					<form action="/search/search" class="b-search b-search_opacity line" id="b-search-1">
+						<input type="text" placeholder="Search" name="q" class="b-search__input b-search_opacity__input i-declarative" onclick="return {
+						placeholderFunction: 'input-focus'
+					}" id="minisearch"><button class="b-search__submit b-search_opacity__submit" type="submit"></button>
+					<script>if($.browser.webkit) $('#minisearch').attr('x-webkit-speech', 'x-webkit-speech');</script>
+					</form>
+				</td>
+			</tr>
+		</tbody></table>
+					</div>
+
+<!--Шапка конец-->
 
 </div>
-<!-- End Main Menu -->
 
-<div class="container" id="auto">
-
-<!-- Start Left Column -->
-<div class="left" id="menu_div">
-	<a href="/" class="home_link" id="home_link">&nbsp;</a>
-<!--[if lte IE 7]>
-<style>
-#home_link_new_year_2010 { margin-top: -16px; }
-</style>
-<![endif]-->
-
-	<div id="home_link_new_year_2010" style="display: none;top:-12px;position:relative;"></div>
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-<div class="genre"><a href="/catalog/arcade/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/arcade.gif"></a><a href="/catalog/arcade/" class="buttons">Arcade Games</a></div>
-<div class="genre"><a href="/catalog/arkanoid/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/arkanoid.gif"></a><a href="/catalog/arkanoid/" class="buttons">Arkanoid Games</a></div>
-<div class="genre"><a href="/catalog/puzzle/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/puzzle.gif"></a><a href="/catalog/puzzle/" class="buttons">Puzzle &amp; Logic</a></div>
-<div class="genre"><a href="/catalog/shooter/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/shooter.gif"></a><a href="/catalog/shooter/" class="buttons">Shooter &amp; Action</a></div>
-<div class="genre"><a href="/catalog/hidden-object/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/hidden-object.gif"></a><a href="/catalog/hidden-object/" class="buttons">Hidden Object</a></div>
-<div class="genre"><a href="/catalog/match-3/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/match-3.gif"></a><a href="/catalog/match-3/" class="buttons">Match 3</a></div>
-	
-		
-	<div class="block01">
-		<div><img src="/bitrix/templates/alawar6-en-promo/images/block_b_01.gif" width="210" height="15"></div>
-		<div class="content02">
-			<h2><img src="/bitrix/templates/alawar6-en-promo/images/ico_search.gif" width="24" height="24"> Search</h2>
-			<form action="/search/">
-			<p><input name="q" type="text" id="subscribe" style="width: 170px;" value=""></p>
-			<p align="center"><input name="search" type="submit" class="input_back" style="width: 90px; border: solid 1px #333333;" value="Search"></p>
-			</form>
-		</div>
-		<div><img src="/bitrix/templates/alawar6-en-promo/images/block_b_03.gif" width="210" height="15"></div>
-	</div>
-	
-<a name="vote">&nbsp;</a>
-<div class="unlimited_block">
-	<p>
-	Why limit yourself to a few hours with a few games?
-    </p>
-	<div class="unlimited_button"><form action="/unlimited.php"><input type="hidden" name="rd" value="1"><input type="submit" value="Read now" style="width: 65px;" class="input_back" name="sign"></form></div>
+<!--Информационные разделы начало-->
+    <div class="b-block b-info">
+<div class="unit b-block__leftcol">
+	<ul class="b-submenu_vertical">
+		<li class="b-submenu_vertical__item">
+			<a href="/feedback.php">
+				<span class="b-button b-button_gray_arrow">
+					<span class="b-button__wrap">Customer Support</span>
+				</span>
+			</a>
+		</li>
+		<li class="b-submenu_vertical__item">
+			<a href="/support/website">
+				<span class="b-button b-button_gray_arrow">
+					<span class="b-button__wrap">Questions about this site</span>
+				</span>
+			</a>
+		</li>
+		<li class="b-submenu_vertical__item">
+			<a href="/support/account">
+				<span class="b-button b-button_gray_arrow">
+					<span class="b-button__wrap">Payments and registration</span>
+				</span>
+			</a>
+		</li>
+		<li class="b-submenu_vertical__item">
+			<a href="/support/unlimited">
+				<span class="b-button b-button_gray_arrow">
+					<span class="b-button__wrap">Alawar Unlimited</span>
+				</span>
+			</a>
+		</li>
+		<li class="b-submenu_vertical__item">
+			<a href="/support/technical">
+				<span class="b-button b-button_gray_arrow">
+					<span class="b-button__wrap">Technical questions</span>
+				</span>
+			</a>
+		</li>
+		<li class="b-submenu_vertical__item">
+			<a href="/support/mmo">
+				<span class="b-button b-button_gray_arrow">
+					<span class="b-button__wrap">Questions about online games</span>
+				</span>
+			</a>
+		</li>
+		<li class="b-submenu_vertical__item">
+			<a href="/support/helpful">
+				<span class="b-button b-button_gray_arrow">
+					<span class="b-button__wrap">Good to know!</span>
+				</span>
+			</a>
+		</li>
+	</ul>
 </div>
+		<div class="lastUnit">
+			<div class="b-content">
 
-	
-		<div class="block01">
-	<div><img src="/bitrix/templates/alawar6/images/block_b_01.gif" width="210" height="15"></div>
-	<div class="content02">
-	<h2><img src="/bitrix/templates/alawar6/images/ico_news.gif" width="33" height="24"> Newsletter</h2>
-	<p>Subscribe to our newsletter to receive the latest news about game releases every week:</p>
-
-
-						<form action="/subscr_edit.php">
-						<input type="hidden" value="subscribe" name="action">
-	<input type="hidden" name="sf_RUB_ID[]" value="1">	<table border="0" cellspacing="0" cellpadding="0" style="margin-top: 10px;">
-	<tbody><tr>
-			<td width="100"><input type="text" id="subscribe" style="width: 100px;" name="sf_EMAIL" value=""></td>
-		<td width="80"><div style="float: right; border: solid 1px #333333;"><input name="sign" type="submit" class="input_back" style="width: 65px;" value="Sign Up"></div></td>
-		</tr>
-	</tbody></table>
-						<input value="subscribe" name="act" type="hidden">
-						<input type="hidden" name="format" value="html" checked="">
-						</form>
-	</div>
-	<div><img src="/bitrix/templates/alawar6/images/block_b_03.gif" width="210" height="15"></div>
-	</div>
-
-	
-
-	<div style="clear:both; height:0; font-size:0; line-height:0;"></div>
-	<div class="left_column_bottom"></div></div>
-<!-- End Left Column -->
-
-<!-- Start Right Column -->
-<div class="right">
-
-<div class="middle" id="middle_div">
-
-	<!-- Start Location -->
-	
-	
-	<!-- End Location -->
 <h1>Alawar Online Privacy Policy</h1>
 
-<br>
-<b>A. INTRODUCTION</b>
-<p>
-This privacy statement was last updated on [14th September 2005]. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, <a href="http://www.alawar.com">www.alawar.com</a> and <a href="http://www.alawargroup.com">www.alawargroup.com</a> (collectively, "Website").  While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
-</p><ol>
-<li>What personally identifiable information of yours or third party personally identifiable information is collected from you through the Website.
+<h2>A. INTRODUCTION</h2>
+<p>This privacy statement was last updated on [14th September 2005]. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, <a href="http://www.alawar.com">www.alawar.com</a> and <a href="http://www.alawargroup.com">www.alawargroup.com</a> (collectively, "Website").  While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:</p>
+<ol>
+<li>What personally identifiable information of yours or third party personally identifiable information is collected from you through the Website.</li>
+<li>The organization collecting the information.</li>
+<li>How the information is used.</li>
+<li>With whom the information may be shared.</li>
+<li>What choices are available to you regarding collection, use and distribution of the information.</li>
+<li>Information relating to the use of this Website by children, and how parents can access their children's information.</li>
+<li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Alawar's control.</li>
+<li>How you can access and correct any inaccuracies in the information collected about you.</li>
+</ol>
+<p>Questions regarding this statement should be directed to the Alawar site coordinator by emailing [privacy@alawar.com] or writing to us at the following address:</p>
+<p>[Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314]</p>
+<p>To return to the Alawar home page, please use the "Back" button on your browser.</p>
+<p>If you have any concerns or feel that there are certain issues relating to compliance with the policies outlined in this privacy statement, please submit a report at [privacy@alawar.com].</p>
+<p><b>Word from the Company</b></p>
+<p>Alawar has a strong commitment to providing superior service to all of our customers and visitors of this Website and particularly respecting your concerns about privacy. We understand that you may have questions about how this Website collects and uses information and we have prepared this statement to inform you of the privacy principles that govern the Website (the "Privacy Policy").  We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Part C below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy.</p>
+<p>This Privacy Policy contains numerous general and technical details about the steps we take to respect your privacy concerns.  We have organized this Privacy Policy by major processes and areas so that you can quickly link to the information of most interest to you.  The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.</p>
+<p>Personal information on this Website is collected by Alawar and if after reviewing this Privacy Policy you have any questions or privacy concerns please send an e-mail to [privacy@alawar.com].</p>
+<p><b>Changes in Privacy Policy</b></p>
+<p>Alawar wants you to be always aware of what personal information we collect, how we use it and under what circumstances we disclose it.   All personal information, as further described in Part B, that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection.  Alawar reserves the right to change the Privacy Policy from time to time at its sole discretion, and will prominently post any material changes on the home page of the Website.  You will be given the opportunity to opt-out.  If as the result of such changes, you want to alter the ways in which Alawar is allowed to use your personal information, you can do so by following the procedure described in Section Creating and Updating Your Personal Account and Preferences.  You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Website after such notice has been posted for thirty (30) days with the following exception: if at the time you provide personal information to Alawar you limit how such information will be used to communicate with you, either by Alawar or by third parties, Alawar will not change your preference in this regard without your express consent.</p>
+<p><b>Third Party Websites</b></p>
+<p>Alawar does not control the information collection and distribution policies on Internet domains other than those Internet domains that are under the control of Alawar itself. When you are on the Alawar Website, you may be directed to other sites that are beyond our control. These other sites may independently collect data, solicit personal information, or send their own cookies to you. Alawar is not responsible for any use of the information including click-stream data created when using such third party sites.</p>
+<p><b>Legal Issues</b></p>
+<p>This is a United States website and is subject to the laws of the United States.  Alawar will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Alawar guests, visitors, associates, or property (including this Website), or to others.  As mentioned above, laws related to personal identifiable information vary by country.  For example, personally identifiable information collected in the European Union is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data.</p>
+<p>Alawar may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. Alawar may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute.</p>
+<h2>B. COLLECTED INFORMATION</h2>
+<p><b>Browsing</b></p>
+<p>This Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers.  This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information.  When you request a page from our Website, our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the time of the request, the URL of your request and other information.  We collect such information in order to make our Website function correctly and provide you the functionality that you see on this Website, as our servers use this information to deliver to you the pages on this Website. We also use this information to better understand how visitors use our Website and how we can better tune our Website, its contents and functionality to meet your needs.</p>
+<p><b>Information We Collect</b></p>
+<p>As a visitor to this Website, you can engage in many activities without providing any personal information as described above in Section Browsing above.  In connection with other activities, such as subscribing to the services offered on the Website, subscribing to periodic newsletters sent by Alawar, requesting customer support, downloading trial versions of software, utilizing online software applications or purchasing any of the products and services available on the Website, Alawar may ask you to voluntarily supply us with certain information about yourself by filling out and submitting an online form.  It is completely optional for you to engage in these activities and/or make any purchases.  If you elect to engage in these activities or make purchases, however, Alawar may ask that you provide us personal information, defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including but not limited to your first and last name, mailing address (including ZIP code), e-mail address, employer, and other personal information.  This information is requested in conjunction with the purchase and registration of our Products or Services.  In addition, as noted below, minimum information is requested if you choose to subscribe to our newsletter service.</p>
+<p>You never have to answer any questions, and you can decline this exchange of information at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.  Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary.  If you do not provide the mandatory data with respect to a particular activity or purchase, you will not be able to engage in that activity or make such a purchase.</p>
+<p>Alawar is the sole owner of the information it gathers on the Website.  Alawar will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Website.</p>
+<p>When you use the Website, Alawar or third parties authorized by Alawar may also collect certain technical and routing information about your computer to facilitate your use of the Website and its services. When you surf the Internet, your Internet browser (such as Mozilla Firefox or Microsoft Internet Explorer) automatically transmits some information to Alawar every time you access content on one of our internet domains within the Website.  Examples of such information include the URL of the Web page you were just on (known as the "Refer"), the IP (or Internet Protocol) address of the computer you are using, or the browser version you are using to access our site.  All of this information may be collected by Alawar and used to help improve our offerings to you.</p>
+<p>We use such data to facilitate and track your use of the Website and its services.  Alawar also uses such environmental variables to measure traffic patterns on the Website.  Without expressly informing you in each particular circumstance, we do not match such information with any of your personal information.</p>
+<p>When you place an order for software or services online, you may be re-directed to a third-party Website.  Any third-party company administers its own Privacy Policy that is not under the control of Alawar.  Prior to placing an online order, please review the Privacy Policy on that Website.</p>
+<p>Credit Card information is not retained as part of the registration process.  This information is processed during the purchase process and is then immediately destroyed.  You are provided an opportunity on the Alawar Website to subscribe to a periodic newsletter.  This newsletter is a marketing tool that allows Alawar to inform you of new Products and Services, as well as other news relevant to the company.  The subscription service requires you to provide your first and last name as well as your email address.  Optionally, you are asked to provide the name of the company you represent.  You are given the opportunity to choose the type of information we provide to you.</p>
+<p>[<b><i>While the subscription list is maintained by a trusted third party affiliate, the list remains the sole exclusive property of Alawar.  Your name and email address is not shared with any third party and will not be used to send you unsolicited communications.  A link is provided to allow you to change your subscription preferences, including cancellation of your subscription.</i></b>]</p>
+<p>When you submit personal information to Alawar through this Website, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which Alawar and its affiliates and subsidiaries maintain offices.  You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of Alawar.  Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.</p>
+<p>Alawar may establish relationships with various service providers whose services may become available to you from this Website or from other websites that are linked to this Website.  Typically, these providers would offer services that Alawar customers might find useful, such as those that can be used in conjunction with Alawar services and products.  In order to use those services, you may be required to provide personal information to the providers.  Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Website will be subject to the privacy policy posted on such site, and personal information that you provide while on this Website in conjunction with a provider's service will be subject to this Privacy Policy.  You should be aware that our agreements with these service providers often provide that they will share with Alawar personal information collected from you.  In such instances, Alawar may use this information in a manner consistent with this Privacy Policy.</p>
+<p><b>Information for Affiliates and Software Developers </b></p>
+<p>From time to time, companies or individuals who develop software may access this Website in an effort to enter into a business relationship with Alawar.  In addition, owners of third-party websites may access this Website in an effort to affiliate with Alawar.  Contact information for this purpose is posted on our Website.  For these individuals and entities, in addition to information related to your business, Alawar reserves the right to request personal information including but not limited to your full name, physical address, email address, telephone contact number, employer, etc.  This information will normally be requested only in those situations where you are not contacting Alawar in the capacity of an agent or representative of an established business, and only in those circumstances where the information is required in order to consummate a business relationship.  You may elect not to provide personal identifying information.  However, failure to provide the requested information may hinder Alawar's ability to do business with you.</p>
+<p><b>Accessing and Updating Your Personal Preferences</b></p>
+<p>You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Alawar or third parties) by writing Alawar at [privacy@alawar.com].</p>
+<p><b>Information Relating to Children</b></p>
+<p>The Alawar Website and any products or services available on that site are not directed at children under 13 years of age and, therefore, the Children's Online Privacy Protection Act ("COPPA") does not apply.  However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter, purchase products and services, or download trial versions of software programs.  The collection of information is covered above.</p>
+<p>Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so in one of two ways.  If you know the user name and password or email address, follow the instructions below regarding Choices Available to You or you may contact us by letter, phone or email using the address information provided at the bottom of this page.</p>
+<p><b>Securing the Transmission and Storage of Information</b></p>
+<p>Alawar operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our users. Even your registration account password is encrypted before it is sent to our computers. Any other particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is also encrypted prior to transmission.</p>
+<p>Alawar takes steps to ensure that your information is treated securely and in accordance with our Terms of Service and this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us or from our online products or services, and you use these services at your own risk.</p>
+<p>We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches Alawar it is stored on a server with physical and electronic security features as customary in the industry, including utilization of login/password procedures and electronic firewalls designed to block unauthorized access from outside of Alawar. Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this Privacy Policy is processed and stored in the United States and also in other countries where Alawar and its service providers conduct business.  All Alawar employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs.</p>
+<h2>C. USE AND DISCLOSURE OF INFORMATION</h2>
+<p><b>How your personal information is used</b></p>
+<p>Alawar collects your information in order to record and support your participation in the activities you select.  We will use your e-mail address to send a confirmation and, if necessary, might use the other information to contact you for help to process the purchase or service you have selected.  If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users.  Your personal information is also used to keep you informed about product upgrades, patches, special offers, and other products and services of Alawar and selected third parties if you have so opted to receive such communications.</p>
+<p>Alawar may collect information about the use of the Website, such as the types of services used and how many users we receive daily.  This information is collected in aggregate form, without identifying any user individually. Alawar may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.</p>
+<p>Alawar recognizes and appreciates the importance of responsible use of information collected on this Website. Without your consent, Alawar will not communicate any information to you regarding products, services, and special offers available from Alawar or its affiliates, although we may find it necessary to communicate with you regarding your use of the services on this Website.  Except in the particular circumstances described in this Privacy Policy, Alawar will also not provide your name to other companies or organizations without your consent.</p>
+<p><b>Disclosure of Information to Third Parties</b></p>
+<p>Alawar does use the services of third parties, such as e-mail service providers, purchase and order processing merchants and marketing companies that act as independent contractors on behalf of Alawar.  These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Alawar specifies.  We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us.  We prohibit the sale or transfer of personal information to entities outside of the Alawar's affiliates for their use without your approval.</p>
+<p>Alawar may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. Alawar may also disclose personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service, this Privacy Policy or to protect the safety of our users and the public or under confidentiality and licensing agreements with certain third parties which assist us in developing, operating and maintaining the Website and its content.</p>
+<p>In the event that all or substantially all of Alawar's stock and/or assets are transferred or sold to another entity, Alawar may transfer personally identifiable information to the acquiring entity. If, as a result of such a business transition, your personally identifiable information will be used in a materially different manner, you will be given choice consistent with our policy regarding notification of changes.</p>
+<p><b>Choices available to you</b></p>
+<p>You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Alawar Website. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.</p>
+<p>You can choose at anytime to opt out of receiving emails from Alawar or from having your personally identifiable information shared with selected companies. If you want to opt out, you can do so by editing your preferences with respect to email or the sharing of information. If you elect to "opt out" we will not, as applicable, share your personal information with third parties or send you emails.  However, we may continue to use your personal information for internal purposes, to enhance your user experience or as necessary to administer the site or comply with applicable law.</p>
+<p>We reserve the right to send a one-time registration confirmation email, and infrequent Service Alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status.  We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our Terms of Service or applicable licensing agreements.</p>
+<p>Alawar is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare.</p>
+<p>If you wish to opt out of receiving emails, newsletters, the sharing or retention of any personal identification information, or otherwise change your personal preferences, you must contact Alawar either by email at [privacy@alawar.com] or regular mail at [Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314].</p>
+<p>To ensure that your request is honored, you must provide Alawar with information sufficient for us to accurately identify and access your records.  The information we require is your full name, address and the email address you provided to Alawar when you requested services or products.  Alawar reserves the right to contact you to verify that we have accurately identified your record.</p>
+<p><b>Cookies</b></p>
+<p>Our Website uses "cookie" technology.  "Cookies" are short pieces of data generated by a web server that a website stores on a user's computer.  Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together.  Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us.  In addition, cookies are used to:</p>
+<ul>
+<li>allow registered users to sign in without typing their sign in name each time;</li>
+<li>measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access; and</li>
+<li>provide functionality such as online orders, Alawar's services and other functionality that we believe would be of interest and value to you.</li>
+</ul>
+<p>The types of cookies that we use are referred to as "session" cookies and "persistent" cookies.  Session cookies are temporary and are automatically deleted once you leave the Website.  Persistent cookies remain on your computer hard drive until you delete them.  We do not use cookies to gather information concerning your visits to other websites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Alawar.  Cookies do not, under ordinary circumstances, corrupt or damage your computer, programs, or computer files.</p>
+<p>In addition, the service providers we use to serve and host our advertisements, and/or deliver our e-mails, use session and persistent cookies, to track the number of times the Website is accessed and whether the site was accessed from an advertisement.  There are no cookies in the advertisement or e-mail.  A cookie is placed on your computer only if and when you click on an advertisement or open the e-mail.  The cookie generated from the advertisement or e-mail does not contain any personally identifiable information and will remain on your hard drive until you delete it.</p>
+<p>You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so may adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Website.</p>
+<h2>D.  PRIVACY-RELATED INQUIRIES AND COMPLAINTS</h2>
+<p>Alawar takes and addresses its users' privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Alawar at [law@alawar.com] or [Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314].</p>
+<p>In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Alawar Online Privacy Policy has not been complied with.  We will investigate your inquiry or complaint promptly.</p>
+<p>Please note that if you provide Alawar with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Alawar cannot guarantee that your most recent privacy preference will be honored.</p>
 
-</li><li>The organization collecting the information. 
+			</div>
+		</div>
 
-</li><li>How the information is used. 
-
-</li><li>With whom the information may be shared. 
-
-</li><li>What choices are available to you regarding collection, use and distribution of the information. 
-
-</li><li>Information relating to the use of this Website by children, and how parents can access their children's information.
-
-</li><li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Alawar's control. 
-
-</li><li>How you can access and correct any inaccuracies in the information collected about you.
-</li></ol> 
-
-Questions regarding this statement should be directed to the Alawar site coordinator by emailing [privacy@alawar.com] or writing to us at the following address:
-<p>
-[Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314] 
-</p><p>
-To return to the Alawar home page, please use the "Back" button on your browser.
-</p><p>
-
-If you have any concerns or feel that there are certain issues relating to compliance with the policies outlined in this privacy statement, please submit a report at [privacy@alawar.com].
-</p><p>
-<b>Word from the Company</b>
-</p><p>
-Alawar has a strong commitment to providing superior service to all of our customers and visitors of this Website and particularly respecting your concerns about privacy. We understand that you may have questions about how this Website collects and uses information and we have prepared this statement to inform you of the privacy principles that govern the Website (the "Privacy Policy").  We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Part C below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy.
-</p><p>
-This Privacy Policy contains numerous general and technical details about the steps we take to respect your privacy concerns.  We have organized this Privacy Policy by major processes and areas so that you can quickly link to the information of most interest to you.  The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.
-</p><p>
-Personal information on this Website is collected by Alawar and if after reviewing this Privacy Policy you have any questions or privacy concerns please send an e-mail to [privacy@alawar.com].
-</p><p>
-<b>Changes in Privacy Policy</b>
-</p><p>
-Alawar wants you to be always aware of what personal information we collect, how we use it and under what circumstances we disclose it.   All personal information, as further described in Part B, that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection.  Alawar reserves the right to change the Privacy Policy from time to time at its sole discretion, and will prominently post any material changes on the home page of the Website.  You will be given the opportunity to opt-out.  If as the result of such changes, you want to alter the ways in which Alawar is allowed to use your personal information, you can do so by following the procedure described in Section Creating and Updating Your Personal Account and Preferences.  You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Website after such notice has been posted for thirty (30) days with the following exception: if at the time you provide personal information to Alawar you limit how such information will be used to communicate with you, either by Alawar or by third parties, Alawar will not change your preference in this regard without your express consent.
-</p><p>
-<b>Third Party Websites</b>
-</p><p>
-Alawar does not control the information collection and distribution policies on Internet domains other than those Internet domains that are under the control of Alawar itself. When you are on the Alawar Website, you may be directed to other sites that are beyond our control. These other sites may independently collect data, solicit personal information, or send their own cookies to you. Alawar is not responsible for any use of the information including click-stream data created when using such third party sites.
-</p><p>
-<b>Legal Issues</b>
-</p><p>
-This is a United States website and is subject to the laws of the United States.  Alawar will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Alawar guests, visitors, associates, or property (including this Website), or to others.  As mentioned above, laws related to personal identifiable information vary by country.  For example, personally identifiable information collected in the European Union is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
-</p><p>
-Alawar may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. Alawar may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute.
-</p><p><br>
-<b>B. COLLECTED INFORMATION</b>
-</p><p>
-<b>Browsing</b>
-</p><p>
-This Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers.  This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information.  When you request a page from our Website, our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the time of the request, the URL of your request and other information.  We collect such information in order to make our Website function correctly and provide you the functionality that you see on this Website, as our servers use this information to deliver to you the pages on this Website. We also use this information to better understand how visitors use our Website and how we can better tune our Website, its contents and functionality to meet your needs.
-</p><p>
-<b>Information We Collect</b>
-</p><p>
-As a visitor to this Website, you can engage in many activities without providing any personal information as described above in Section Browsing above.  In connection with other activities, such as subscribing to the services offered on the Website, subscribing to periodic newsletters sent by Alawar, requesting customer support, downloading trial versions of software, utilizing online software applications or purchasing any of the products and services available on the Website, Alawar may ask you to voluntarily supply us with certain information about yourself by filling out and submitting an online form.  It is completely optional for you to engage in these activities and/or make any purchases.  If you elect to engage in these activities or make purchases, however, Alawar may ask that you provide us personal information, defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including but not limited to your first and last name, mailing address (including ZIP code), e-mail address, employer, and other personal information.  This information is requested in conjunction with the purchase and registration of our Products or Services.  In addition, as noted below, minimum information is requested if you choose to subscribe to our newsletter service.
-</p><p>
-You never have to answer any questions, and you can decline this exchange of information at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.  Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary.  If you do not provide the mandatory data with respect to a particular activity or purchase, you will not be able to engage in that activity or make such a purchase.
-</p><p>
-Alawar is the sole owner of the information it gathers on the Website.  Alawar will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Website.
-</p><p>
-When you use the Website, Alawar or third parties authorized by Alawar may also collect certain technical and routing information about your computer to facilitate your use of the Website and its services. When you surf the Internet, your Internet browser (such as Mozilla Firefox or Microsoft Internet Explorer) automatically transmits some information to Alawar every time you access content on one of our internet domains within the Website.  Examples of such information include the URL of the Web page you were just on (known as the "Refer"), the IP (or Internet Protocol) address of the computer you are using, or the browser version you are using to access our site.  All of this information may be collected by Alawar and used to help improve our offerings to you.
-</p><p>
-We use such data to facilitate and track your use of the Website and its services.  Alawar also uses such environmental variables to measure traffic patterns on the Website.  Without expressly informing you in each particular circumstance, we do not match such information with any of your personal information.
-</p><p>
-When you place an order for software or services online, you may be re-directed to a third-party Website.  Any third-party company administers its own Privacy Policy that is not under the control of Alawar.  Prior to placing an online order, please review the Privacy Policy on that Website.  
-</p><p>
-Credit Card information is not retained as part of the registration process.  This information is processed during the purchase process and is then immediately destroyed.  You are provided an opportunity on the Alawar Website to subscribe to a periodic newsletter.  This newsletter is a marketing tool that allows Alawar to inform you of new Products and Services, as well as other news relevant to the company.  The subscription service requires you to provide your first and last name as well as your email address.  Optionally, you are asked to provide the name of the company you represent.  You are given the opportunity to choose the type of information we provide to you.
-</p><p>
-[<b><i>While the subscription list is maintained by a trusted third party affiliate, the list remains the sole exclusive property of Alawar.  Your name and email address is not shared with any third party and will not be used to send you unsolicited communications.  A link is provided to allow you to change your subscription preferences, including cancellation of your subscription.</i></b>]
-</p><p>
-When you submit personal information to Alawar through this Website, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which Alawar and its affiliates and subsidiaries maintain offices.  You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of Alawar.  Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.  
-</p><p>
-Alawar may establish relationships with various service providers whose services may become available to you from this Website or from other websites that are linked to this Website.  Typically, these providers would offer services that Alawar customers might find useful, such as those that can be used in conjunction with Alawar services and products.  In order to use those services, you may be required to provide personal information to the providers.  Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Website will be subject to the privacy policy posted on such site, and personal information that you provide while on this Website in conjunction with a provider's service will be subject to this Privacy Policy.  You should be aware that our agreements with these service providers often provide that they will share with Alawar personal information collected from you.  In such instances, Alawar may use this information in a manner consistent with this Privacy Policy.
-</p><p>
-<b>Information for Affiliates and Software Developers </b>
-</p><p>
-From time to time, companies or individuals who develop software may access this Website in an effort to enter into a business relationship with Alawar.  In addition, owners of third-party websites may access this Website in an effort to affiliate with Alawar.  Contact information for this purpose is posted on our Website.  For these individuals and entities, in addition to information related to your business, Alawar reserves the right to request personal information including but not limited to your full name, physical address, email address, telephone contact number, employer, etc.  This information will normally be requested only in those situations where you are not contacting Alawar in the capacity of an agent or representative of an established business, and only in those circumstances where the information is required in order to consummate a business relationship.  You may elect not to provide personal identifying information.  However, failure to provide the requested information may hinder Alawar's ability to do business with you.    
-</p><p>
-<b>Accessing and Updating Your Personal Preferences</b>
-</p><p>
-You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Alawar or third parties) by writing Alawar at [privacy@alawar.com].
-</p><p>
-<b>Information Relating to Children</b>
-</p><p>
-The Alawar Website and any products or services available on that site are not directed at children under 13 years of age and, therefore, the Children's Online Privacy Protection Act ("COPPA") does not apply.  However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter, purchase products and services, or download trial versions of software programs.  The collection of information is covered above.  
-</p><p>
-Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so in one of two ways.  If you know the user name and password or email address, follow the instructions below regarding Choices Available to You or you may contact us by letter, phone or email using the address information provided at the bottom of this page.
-</p><p> 
-<b>Securing the Transmission and Storage of Information</b>
-</p><p>
-Alawar operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our users. Even your registration account password is encrypted before it is sent to our computers. Any other particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is also encrypted prior to transmission.
-</p><p>
-Alawar takes steps to ensure that your information is treated securely and in accordance with our Terms of Service and this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us or from our online products or services, and you use these services at your own risk.   
-</p><p>
-We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches Alawar it is stored on a server with physical and electronic security features as customary in the industry, including utilization of login/password procedures and electronic firewalls designed to block unauthorized access from outside of Alawar. Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this Privacy Policy is processed and stored in the United States and also in other countries where Alawar and its service providers conduct business.  All Alawar employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs.
-</p><p><br>
-<b>C. USE AND DISCLOSURE OF INFORMATION</b>
-</p><p>
-<b>How your personal information is used</b>
-</p><p>
-Alawar collects your information in order to record and support your participation in the activities you select.  We will use your e-mail address to send a confirmation and, if necessary, might use the other information to contact you for help to process the purchase or service you have selected.  If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users.  Your personal information is also used to keep you informed about product upgrades, patches, special offers, and other products and services of Alawar and selected third parties if you have so opted to receive such communications.
-</p><p>
-Alawar may collect information about the use of the Website, such as the types of services used and how many users we receive daily.  This information is collected in aggregate form, without identifying any user individually. Alawar may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
-</p><p>
-Alawar recognizes and appreciates the importance of responsible use of information collected on this Website. Without your consent, Alawar will not communicate any information to you regarding products, services, and special offers available from Alawar or its affiliates, although we may find it necessary to communicate with you regarding your use of the services on this Website.  Except in the particular circumstances described in this Privacy Policy, Alawar will also not provide your name to other companies or organizations without your consent.
-</p><p>
-<b>Disclosure of Information to Third Parties</b>
-</p><p>
-Alawar does use the services of third parties, such as e-mail service providers, purchase and order processing merchants and marketing companies that act as independent contractors on behalf of Alawar.  These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Alawar specifies.  We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us.  We prohibit the sale or transfer of personal information to entities outside of the Alawar's affiliates for their use without your approval.
-</p><p>
-Alawar may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. Alawar may also disclose personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service, this Privacy Policy or to protect the safety of our users and the public or under confidentiality and licensing agreements with certain third parties which assist us in developing, operating and maintaining the Website and its content.
-</p><p>
-In the event that all or substantially all of Alawar's stock and/or assets are transferred or sold to another entity, Alawar may transfer personally identifiable information to the acquiring entity. If, as a result of such a business transition, your personally identifiable information will be used in a materially different manner, you will be given choice consistent with our policy regarding notification of changes.
-</p><p>
-<b>Choices available to you</b>
-</p><p>
-You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Alawar Website. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.  
-</p><p>
-You can choose at anytime to opt out of receiving emails from Alawar or from having your personally identifiable information shared with selected companies. If you want to opt out, you can do so by editing your preferences with respect to email or the sharing of information. If you elect to "opt out" we will not, as applicable, share your personal information with third parties or send you emails.  However, we may continue to use your personal information for internal purposes, to enhance your user experience or as necessary to administer the site or comply with applicable law.
-</p><p>
-We reserve the right to send a one-time registration confirmation email, and infrequent Service Alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status.  We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our Terms of Service or applicable licensing agreements. 
- </p><p>
-Alawar is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare. 
-</p><p>
-If you wish to opt out of receiving emails, newsletters, the sharing or retention of any personal identification information, or otherwise change your personal preferences, you must contact Alawar either by email at [privacy@alawar.com] or regular mail at [Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314].  
-</p><p>
-To ensure that your request is honored, you must provide Alawar with information sufficient for us to accurately identify and access your records.  The information we require is your full name, address and the email address you provided to Alawar when you requested services or products.  Alawar reserves the right to contact you to verify that we have accurately identified your record.
-</p><p>
-<b>Cookies</b>
-</p><p>
-Our Website uses "cookie" technology.  "Cookies" are short pieces of data generated by a web server that a website stores on a user's computer.  Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together.  Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us.  In addition, cookies are used to: 
-</p><ul>
-<li>allow registered users to sign in without typing their sign in name each time; 
-
-</li><li>measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access; and 
-
-</li><li>provide functionality such as online orders, Alawar's services and other functionality that we believe would be of interest and value to you. 
-</li></ul>
-The types of cookies that we use are referred to as "session" cookies and "persistent" cookies.  Session cookies are temporary and are automatically deleted once you leave the Website.  Persistent cookies remain on your computer hard drive until you delete them.  We do not use cookies to gather information concerning your visits to other websites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Alawar.  Cookies do not, under ordinary circumstances, corrupt or damage your computer, programs, or computer files.
-<p>
-In addition, the service providers we use to serve and host our advertisements, and/or deliver our e-mails, use session and persistent cookies, to track the number of times the Website is accessed and whether the site was accessed from an advertisement.  There are no cookies in the advertisement or e-mail.  A cookie is placed on your computer only if and when you click on an advertisement or open the e-mail.  The cookie generated from the advertisement or e-mail does not contain any personally identifiable information and will remain on your hard drive until you delete it.
-</p><p>
-You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so may adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Website.  
-</p><p><br>
-<b>D.  PRIVACY-RELATED INQUIRIES AND COMPLAINTS</b>
-</p><p>
-Alawar takes and addresses its users' privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Alawar at [law@alawar.com] or [Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314].
-</p><p>
-In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Alawar Online Privacy Policy has not been complied with.  We will investigate your inquiry or complaint promptly. 
-</p><p>
-Please note that if you provide Alawar with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Alawar cannot guarantee that your most recent privacy preference will be honored.
-</p><p>
-<br>
-
- 
-</p></div><div class="bottom content_bottom png"></div>
-
+	</div>
+<!--Информационные разделы конец-->
+<!-- Нужно здесь передать адрес страницы загрузки на А7 -->
+<div class="b-fastinstall" style="display:none">
+	<div class="b-fastinstall__close"></div>
+	<div class="b-fastinstall__wrapper">
+		<div class="b-fastinstall__game">
+			<span class="b-fastinstall__game__wrap">
+				<span class="b-fastinstall__game__thumbnail__wrap">
+					<img src="data:image/png," class="b-fastinstall__game__thumbnail" alt="">
+				</span>
+				<span class="b-fastinstall__title"></span>
+			</span>
+		</div>
+		<div class="b-fastinstall__license">
+			Fastinstall licence text		</div>
+		<div class="b-fastinstall__right">
+			<a href="#" class="b-button-a b-fastinstall__download b-fastinstall__download_type_fast">
+				<span class="b-button b-button_block b-button_green b-button_big">
+					<span class="b-button__wrap">Download and play</span>
+				</span>
+			</a>
+			<a href="#" class="b-button-a b-fastinstall__download b-fastinstall__download_type_slow">
+				<span class="b-button b-button_block b-button_green b-button_big">
+					<span class="b-button__wrap">Download and play</span>
+				</span>
+			</a>
+			<div class="b-fastinstall__agree">
+				Pressing this button you confirm licence			</div>
+		</div>
+		<div class="b-fastinstall__left">
+			<label class="b-fastinstall__toggle">
+				<input type="checkbox" checked="checked" name="type" class="b-fastinstall__toggle__checkbox">
+				Fastinstall without questions			</label>
+			<div class="b-fastinstall__bonus">
+					Bonus:
+					<div class="b-pseudo-link b-fastinstall__bonus__link">
+						Yandex services						<div class="b-fastinstall__tooltip">
+							<div class="b-fastinstall__tooltip__arrow"></div>
+							<ul class="b-fastinstall__bonus__list">
+								<li>
+									Install Yandex.Browser								</li>
+								<li>
+									Install Yandex Elements								</li>
+								<li>
+									Make homepage								</li>
+								<li>
+									Make yandex as default search								</li>
+							</ul>
+						</div>
+					</div>
+			</div>
+		</div>
+	</div>
 </div>
-<!-- End Right Column -->
+<!--PopUp --></div>
 
+<!--Подвал начало-->
+<div class="b-footer">
+	<div class="b-footer__wrapper">
+		<div class="b-footer__logo"></div>
+		<ul class="b-footer__columns">
+			<li class="b-footer__columns__column">
+				<div class="b-subscribe i-declarative b-footer__subscribe" onclick="return { bSubscribe: {} }">
+					<form action="/site/subscribe" id="subscribeForm" class="b-form i-declarative b-subscribe__form" onclick="return { bForm: {} }">
+						<span class="b-form__field b-form__field_text b-subscribe__form__field">
+							<span class="b-form__field__wrap">
+								<input type="text" name="getmail" id="getmail" class="b-form__field__control b-subscribe__email" placeholder="Subscribe to the newsletter">
+							</span>
+						</span>
+							<button class="b-button b-button_purple b-subscribe__button" type="submit">Subscribe</button>
+						<div class="b-subscribe__error_tooltip">
+							enter your e-mail							<div class="b-subscribe__error_tooltip__arrow_top"></div>
+						</div>
+					</form>
+					<div class="b-subscribe__success_message">You are now subscribed!</div>
+				</div>
+				<ul class="b-footer__link-list">
+					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/activity/publisher.php" target="_blank" class="b-footer__link">Game publishing</a></li>
+					<li class="b-footer__link-list__item"><a href="http://affiliate.alawar.com/" target="_blank" class="b-footer__link">Games catalog on your website</a></li>
+					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#contacts" target="_blank" class="b-footer__link">Your game on this website</a></li>
+					<li class="b-footer__link-list__item"><a href="http://affiliate.alawar.com/" target="_blank" class="b-footer__link">Games for your website</a></li>
+				</ul>
+			</li>
+			<li class="b-footer__columns__column">
+				<div class="b-footer__social">
+					<span class="b-footer__social__wrapper b-social b-social_24 b-social_white">
+						<a target="_blank" href="http://twitter.com/AlawarGames" class="b-social__item b-icon-font b-icon-font_twitter" title="twitter.com"></a>
+						<a target="_blank" href="http://www.facebook.com/AlawarEntertainment" class="b-social__item b-icon-font b-icon-font_facebook" title="facebook.com"></a>
+					</span>
+				</div>
+				<ul class="b-footer__link-list">
+					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#about" target="_blank" class="b-footer__link">About the company</a></li>
+					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#contacts" target="_blank" class="b-footer__link">Game distribution</a></li>
+					<li class="b-footer__link-list__item"><a href="http://affiliate.alawar.com/" target="_blank" class="b-footer__link">Affiliate Program</a></li>
+					<li class="b-footer__link-list__item"><a href="http://company.alawar.com/#contacts" target="_blank" class="b-footer__link">Contacts</a></li>
+				</ul>
+			</li>
+			<li class="b-footer__columns__column">
+				<div class="b-footer__support">
+					<a href="/feedback.php" class="b-footer__link b-footer__link_support"><span class="b-footer__icon b-footer__icon_support"></span>Customer Support Team</a>
+				</div>
+				<ul class="b-footer__link-list">
+					<li class="b-footer__link-list__item"><a href="/privacy_policy.php" class="b-footer__link">Privacy policy</a></li>
+					<li class="b-footer__link-list__item"><a href="/terms_of_use.php" class="b-footer__link">Terms of use</a></li>
+				</ul>
+				<a href="http://alawardigital.com" class="b-footer__digital" title="Alawar Digital">
+					Powered by <span class="b-footer__digital__logo" title="Alawar Digital"></span>
+				</a>
+			</li>
+			<li class="b-footer__columns__column b-footer__copyright">
+				© Alawar, 2003–2013. All trademarks are the property of their respective owners. 			</li>
+		</ul>
+	</div>
 </div>
-<div style="clear:both;"></div>
-
-<!-- Start Copyright -->
-<div class="copy" id="auto"><div class="container"><div class="content01 png"></div><div class="content02">
-
-	©&nbsp;2003 - 2012&nbsp;
-		Alawar Entertainment.
-		All rights reserved. ™ and ® indicate trademarks or registered trademarks of their respective owners. 
-		<a href="/privacy_policy.php">Privacy Policy</a> and <a href="/terms_of_use.php">Terms of Use</a>. 
-		Powered by Bitrix Site Manager
-		<p style="text-align:right; font-size:0.8em; color:#7FC6FC;">Promo pages: 
-		    <a style="color: #7FC6FC;" href="http://www.alawar.fr/articles/french.html">French</a>
-		    <a style="color: #7FC6FC;" href="http://www.alawar.it/articles/italian.html">Italian</a>
-		    <a style="color: #7FC6FC;" href="http://www.alawar.de/articles/german.html">German</a>
-		    <a style="color: #7FC6FC;" href="http://www.alawar.jp/articles/japanese.html">Japanese</a>
-		    <a style="color: #7FC6FC;" href="http://www.alawar.kr/articles/korean.html">Korean</a>
-		    <a style="color: #7FC6FC;" href="http://www.alawar.com.pt/articles/portuguese.html">Portuguese</a>
-		    <a style="color: #7FC6FC;" href="http://www.alawar.es/articles/spanish.html">Spanish</a>
-		    <a style="color: #7FC6FC;" href="http://www.alawar.pl/articles/polish.html">Polish</a>
-		</p>
-	
-		<div class="line" style="margin-bottom: 5px;"></div>
-		<table width="630" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-		<td width="185"><a href="http://company.alawar.com"><img src="/bitrix/templates/alawar6-en-promo/images/copy_logo.gif" alt="Alawar Entertainment" name="img_indent" width="176" height="42" border="0" id="img_indent2"></a></td>
-		<td><a href="http://company.alawar.com/">Company overview, Philosophy, Addresses...</a><br>
-		<a href="http://company.alawar.com/activity/">For Game Developers...</a><br>
-		<a href="http://affiliate.alawar.com">Affiliate Program</a><br>
-		<a href="/support.php">Technical Support</a><br>
-		<a href="http://www.alawar.com/promo/android/">Alawar Games for Android</a><br>
-		<a href="http://mac.alawar.com/">Alawar Games for Mac</a><br>
-		<a href="http://iphone.alawar.com/">Alawar Games for iPhone/iPad </a>
-		</td>
-
-		</tr>
-	</tbody></table>
-
-
-</div><div class="bottom png"></div>
+<!--Подвал конец-->
+<!--PopUp Вход, регистрация начало-->
+<div id="b-login" class="b-auth-composite  b-modal__target b-tabs i-declarative" onclick="return {
+	bAuthComposite: {}, bTabs: { defaultTab: 1 }
+}">
+<!-- recovery begin -->
+<div class="b-tabs__content-item">
+	<div class="b-auth-recover i-declarative" onclick="return { bAuthRecover: {} }">
+		<div class="b-auth-recover__title">Recover password</div>
+		<div class="b-auth-recover__info b-auth-recover__success b-auth-composite__info"></div>
+		<form action="/widget/authRecovery/recovery/" method="post" class="b-form b-auth-recover__form i-declarative" onclick="return { bForm: {
+			fields: {
+				login: {
+					required: 'Enter email or phone number'
+				}
+			},
+			forwardGlobalErrorsToField: 'login',
+			ajax: true
+		} }">
+			<div class="b-auth-recover__line">
+				<span class="b-auth-recover__field b-form__field b-form__field_text">
+					<span class="b-form__field__wrap">
+						<input type="text" placeholder="Email or phone number" name="login" class="b-form__field__control b-account-link__input">
+					</span>
+				</span>
+			</div>
+			<div class="b-auth-recover__info">
+				We will send your new password to the provided email or phone number.			</div>
+			<button type="submit" class="b-button b-button_purple b-button_medium b-account-link__send">Recover password</button>
+			<span class="b-spinner b-form__spinner"></span>
+		</form>
+	</div>
+	<div class="b-auth-composite__footer">
+		Recovered your password?		<span class="b-button b-button_medium b-button_blue" data-b-tabs-navigate="1">Login</span>
+	</div>
 </div>
+<!-- recovery end --><!-- login begin -->
+<div class="b-tabs__content-item">
+	<div class="b-auth-login i-declarative" onclick="return {
+		bAuthLogin: {
+			refreshPageOnSuccess: true		}
+	}">
+		<div class="b-auth-login__title">Login</div>
+		<form action="/widget/authLogin/login/" method="post" class="b-form b-auth-login__form i-declarative" onclick="return { bForm: {
+			fields: {
+				login: {
+					required: 'Enter email or phone number'
+				},
+				password: {
+					required: 'Enter password'
+				}
+			},
+			forwardGlobalErrorsToField: 'password',
+			ajax: true
+		} }">
+			<div class="b-auth-login__line">
+				<span class="b-auth-login__field b-form__field b-form__field_text">
+					<span class="b-form__field__wrap">
+						<input type="text" placeholder="Email or phone number" name="login" class="b-form__field__control b-account-link__input">
+					</span>
+				</span>
+			</div>
+			<div class="b-auth-login__line">
+				<span class="b-auth-login__field b-form__field b-form__field_password b-form__field_password-visible">
+					<span class="b-form__field__wrap">
+						<input type="text" name="password" class="b-form__field__control" placeholder="Password">
+						<span aria-hidden="true" class="b-form__field__password-hide b-icon-font b-icon-font_eye"></span>
+						<span aria-hidden="true" class="b-form__field__password-show b-icon-font b-icon-font_eye-blocked"></span>
+					</span>
+				</span>
+				<span class="b-pseudo-link b-auth-login__forgot" data-b-tabs-navigate="0">Forgot your password?</span>
+			</div>
+			<button type="submit" class="b-button b-button_purple b-button_medium b-account-link__send">Enter</button>
 
+			<label class="b-form__label b-auth-login__not-my-device">
+				<span class="b-form__field b-form__field_checkbox">
+					<span class="b-form__field__wrap">
+						<input type="checkbox" name="notMyDevice" class="b-form__field__control">
+						<span class="b-form__field__standin"></span>
+						<span class="b-form__field__decorator"></span>
+					</span>
+				</span>
+				Shared PC			</label>
+			<span class="b-spinner b-form__spinner"></span>
+		</form>
+		<!--Вход через внешние системы начало-->
+		<div class="b-auth-login__social">
+	<div class="b-auth-login__subtitle">Login via social network</div>
+	<span class="b-social b-social_32 b-social_colorized">
+		<a href="/widget/AuthSocial/SocialLogin/?service=facebook" aria-hidden="true" title="Facebook" class="b-icon-font b-icon-font_facebook b-social__item b-social__item_facebook"></a><a href="/widget/AuthSocial/SocialLogin/?service=google" aria-hidden="true" title="Google" class="b-icon-font b-icon-font_google b-social__item b-social__item_google"></a><a href="/widget/AuthSocial/SocialLogin/?service=twitter" aria-hidden="true" title="Twitter" class="b-icon-font b-icon-font_twitter b-social__item b-social__item_twitter"></a>	</span>
+</div>		<!--Вход через внешние системы конец-->
+	</div>
+	<div class="b-auth-composite__footer">
+		NOT REGISTERED YET?		<span class="b-button b-button_medium b-button_blue" data-b-tabs-navigate="2">Register</span>
+	</div>
 </div>
-<!-- Yandex.Metrika counter -->
-<div style="display:none;"><script type="text/javascript">
-(function(w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter11939908 = new Ya.Metrika({id:11939908, enableAll: true, webvisor:true});
-}
-catch(e) { }
+<!-- login end --><!-- register begin -->
+<div class="b-tabs__content-item">
+	<div class="b-auth-login__title">Register</div>
+	<div class="b-auth-composite__footer">
+		ALREADY REGISTERED?		<span class="b-button b-button_medium b-button_blue" data-b-tabs-navigate="1">Enter</span>
+	</div>
+
+	<div class="b-tabs i-declarative b-auth-composite__registration-tabs" onclick="return { bTabs: {} }">
+		<div class="b-auth-composite__steps">
+			<div class="b-auth-composite__step" data-b-tabs-navigate="0">1</div>
+			<div class="b-auth-composite__step">2</div>
+			<div class="b-auth-composite__step">3</div>
+		</div>
+		<div class="b-tabs__content-item">
+			<div class="b-auth-login__line">
+				<div class="b-auth-login__subtitle">Choose your registration preference</div>
+			</div>
+			<div class="b-auth-login__line">
+				<span class="b-button b-button_medium b-button_blue" data-b-tabs-navigate="1">
+					<span aria-hidden="true" class="b-icon-font b-icon-font_mobile"></span>
+					Phone				</span>
+			</div>
+			<div class="b-auth-login__line">
+				<span class="b-button b-button_medium b-button_blue" data-b-tabs-navigate="2">
+					<span aria-hidden="true" class="b-icon-font b-icon-font_envelope"></span>
+					Email				</span>
+			</div>
+		</div>
+		<div class="b-tabs__content-item">
+			<div class="b-auth-composite__register b-auth-register b-auth-register_phone b-auth-register_step_add i-declarative" onclick="return { bAuthRegister: {
+				refreshPageOnSuccess: true			} }">
+				<div class="b-auth-register__add">
+					<div class="b-auth-login__subtitle">Enter phone number</div>
+					<form action="/widget/authReg/register/" method="post" class="b-form b-auth-register__form-add i-declarative" onclick="return { bForm: {
+						fields: {
+							countryCode: {
+								formatter: function(value, $el) { return '+' + value; }
+							},
+							phoneNumber: {
+								required: 'Enter phone number without the country code',
+								validator: 'phoneWithoutCountryCode'
+							}
+						},
+						forwardGlobalErrorsToField: 'phoneNumber',
+						ajax: true
+					} }">
+						<div class="b-auth-register__line">
+							<span class="b-form__field b-form__field_select b-form__field_left b-auth-register__country">
+								<span class="b-form__field__wrap">
+									<span class="b-form__field__standin"></span>
+									<span class="b-form__field__decorator"></span>
+									<select name="countryCode" class="b-form__field__control b-auth-register__input">
+																					<option value="93">Afghanistan +93</option>
+																						<option value="355">Albania +355</option>
+																						<option value="21">Algeria +21</option>
+																						<option value="684">American Samoa +684</option>
+																						<option value="376">Andorra +376</option>
+																						<option value="244">Angola +244</option>
+																						<option value="1-264">Anguilla +1-264</option>
+																						<option value="1-268">Antigua and Barbuda +1-268</option>
+																						<option value="54">Argentina +54</option>
+																						<option value="374">Armenia +374</option>
+																						<option value="297">Aruba +297</option>
+																						<option value="247">Ascension +247</option>
+																						<option value="61">Australia +61</option>
+																						<option value="672">Australian External Territories +672</option>
+																						<option value="43">Austria +43</option>
+																						<option value="994">Azerbaijan +994</option>
+																						<option value="351">Azores +351</option>
+																						<option value="1-242">Bahamas +1-242</option>
+																						<option value="973">Bahrain +973</option>
+																						<option value="880">Bangladesh +880</option>
+																						<option value="1-246">Barbados +1-246</option>
+																						<option value="375">Belarus +375</option>
+																						<option value="32">Belgium +32</option>
+																						<option value="501">Belize +501</option>
+																						<option value="229">Benin +229</option>
+																						<option value="1-441">Bermuda +1-441</option>
+																						<option value="975">Bhutan +975</option>
+																						<option value="591">Bolivia +591</option>
+																						<option value="387">Bosnia and Herzegovina +387</option>
+																						<option value="267">Botswana +267</option>
+																						<option value="55">Brazil +55</option>
+																						<option value="1-284">British Virgin Islands +1-284</option>
+																						<option value="673">Brunei +673</option>
+																						<option value="359">Bulgaria +359</option>
+																						<option value="226">Burkina Faso +226</option>
+																						<option value="257">Burundi +257</option>
+																						<option value="855">Cambodia +855</option>
+																						<option value="237">Cameroon +237</option>
+																						<option value="1">Canada +1</option>
+																						<option value="238">Cape Verde +238</option>
+																						<option value="1-345">Cayman Islands +1-345</option>
+																						<option value="236">Central African Republic +236</option>
+																						<option value="235">Chad +235</option>
+																						<option value="56">Chile +56</option>
+																						<option value="86">China +86</option>
+																						<option value="672">Christmas Island +672</option>
+																						<option value="672">Cocos Islands +672</option>
+																						<option value="57">Colombia +57</option>
+																						<option value="1-670">Commonwealth of the Northern M +1-670</option>
+																						<option value="269">Comoros and Mayotte Island +269</option>
+																						<option value="242">Congo +242</option>
+																						<option value="682">Cook Islands +682</option>
+																						<option value="506">Costa Rica +506</option>
+																						<option value="385">Croatia +385</option>
+																						<option value="53">Cuba +53</option>
+																						<option value="357">Cyprus +357</option>
+																						<option value="420">Czech Republic +420</option>
+																						<option value="243">Democratic Republic (ex. Zaire) +243</option>
+																						<option value="45">Denmark +45</option>
+																						<option value="246">Diego Garcia +246</option>
+																						<option value="253">Djibouti +253</option>
+																						<option value="1-767">Dominica +1-767</option>
+																						<option value="1-809">Dominican Republic +1-809</option>
+																						<option value="62">East Timor +62</option>
+																						<option value="593">Ecuador +593</option>
+																						<option value="20">Egypt +20</option>
+																						<option value="503">El Salvador +503</option>
+																						<option value="240">Equatorial Guinea +240</option>
+																						<option value="291">Eritrea +291</option>
+																						<option value="372">Estonia +372</option>
+																						<option value="251">Ethiopia +251</option>
+																						<option value="298">Faeroe Islands +298</option>
+																						<option value="500">Falkland Islands +500</option>
+																						<option value="679">Fiji +679</option>
+																						<option value="358">Finland +358</option>
+																						<option value="33">France +33</option>
+																						<option value="590">French Antilles +590</option>
+																						<option value="594">French Guiana +594</option>
+																						<option value="689">French Polynesia +689</option>
+																						<option value="241">Gabonese Republic +241</option>
+																						<option value="220">Gambia +220</option>
+																						<option value="995">Georgia +995</option>
+																						<option value="49">Germany +49</option>
+																						<option value="233">Ghana +233</option>
+																						<option value="350">Gibraltar +350</option>
+																						<option value="30">Greece +30</option>
+																						<option value="299">Greenland +299</option>
+																						<option value="1-473">Grenada +1-473</option>
+																						<option value="671">Guam +671</option>
+																						<option value="502">Guatemala +502</option>
+																						<option value="224">Guinea +224</option>
+																						<option value="245">Guinea-Bissau +245</option>
+																						<option value="592">Guyana +592</option>
+																						<option value="509">Haiti +509</option>
+																						<option value="504">Honduras +504</option>
+																						<option value="852">Hong Kong +852</option>
+																						<option value="36">Hungary +36</option>
+																						<option value="354">Iceland +354</option>
+																						<option value="91">India +91</option>
+																						<option value="62">Indonesia +62</option>
+																						<option value="98">Iran +98</option>
+																						<option value="964">Iraq +964</option>
+																						<option value="353">Irish Republic +353</option>
+																						<option value="972">Israel +972</option>
+																						<option value="39">Italy +39</option>
+																						<option value="225">Ivory Coast +225</option>
+																						<option value="1-876">Jamaica +1-876</option>
+																						<option value="81">Japan +81</option>
+																						<option value="962">Jordan +962</option>
+																						<option value="7">Kazakhstan +7</option>
+																						<option value="254">Kenya +254</option>
+																						<option value="686">Kiribati Republic +686</option>
+																						<option value="82">Korea Republic +82</option>
+																						<option value="850">Korea, Dem. Peoples Republic +850</option>
+																						<option value="965">Kuwait +965</option>
+																						<option value="996">Kyrgyzstan +996</option>
+																						<option value="856">Laos +856</option>
+																						<option value="371">Latvia +371</option>
+																						<option value="961">Lebanon +961</option>
+																						<option value="266">Lesotho +266</option>
+																						<option value="231">Liberia +231</option>
+																						<option value="21">Libya +21</option>
+																						<option value="41">Liechtenstein +41</option>
+																						<option value="370">Lithuania +370</option>
+																						<option value="352">Luxembourg +352</option>
+																						<option value="853">Macau +853</option>
+																						<option value="389">Macedonia +389</option>
+																						<option value="261">Madagascar +261</option>
+																						<option value="265">Malawi +265</option>
+																						<option value="60">Malaysia +60</option>
+																						<option value="960">Maldives +960</option>
+																						<option value="223">Mali +223</option>
+																						<option value="356">Malta +356</option>
+																						<option value="692">Marshall Islands +692</option>
+																						<option value="596">Martinique +596</option>
+																						<option value="222">Mauritania +222</option>
+																						<option value="230">Mauritius +230</option>
+																						<option value="52">Mexico +52</option>
+																						<option value="691">Micronesia +691</option>
+																						<option value="373">Moldova +373</option>
+																						<option value="377">Monaco +377</option>
+																						<option value="976">Mongolia +976</option>
+																						<option value="1-664">Montserrat +1-664</option>
+																						<option value="212">Morocco +212</option>
+																						<option value="258">Mozambique +258</option>
+																						<option value="95">Myanmar +95</option>
+																						<option value="264">Namibia +264</option>
+																						<option value="674">Nauru +674</option>
+																						<option value="977">Nepal +977</option>
+																						<option value="31">Netherlands +31</option>
+																						<option value="599">Netherlands Antilles +599</option>
+																						<option value="687">New Caledonia +687</option>
+																						<option value="64">New Zealand +64</option>
+																						<option value="505">Nicaragua +505</option>
+																						<option value="227">Niger +227</option>
+																						<option value="234">Nigeria +234</option>
+																						<option value="683">Niue Islands +683</option>
+																						<option value="672">Norfolk Island +672</option>
+																						<option value="670">Northern Mariana Islands +670</option>
+																						<option value="47">Norway +47</option>
+																						<option value="968">Oman +968</option>
+																						<option value="92">Pakistan +92</option>
+																						<option value="680">Palau +680</option>
+																						<option value="507">Panama +507</option>
+																						<option value="675">Papua New Guinea +675</option>
+																						<option value="595">Paraguay +595</option>
+																						<option value="51">Peru +51</option>
+																						<option value="63">Philippines +63</option>
+																						<option value="48">Poland +48</option>
+																						<option value="351">Portugal +351</option>
+																						<option value="1-787">Puerto Rico +1-787</option>
+																						<option value="974">Qatar +974</option>
+																						<option value="378">Republic of San Marino +378</option>
+																						<option value="262">Reunion Islands +262</option>
+																						<option value="40">Romania +40</option>
+																						<option value="7">Russia +7</option>
+																						<option value="250">Rwandese Republic +250</option>
+																						<option value="247">Saint Helena and Ascension Isl +247</option>
+																						<option value="508">Saint Pierre et Miquelon +508</option>
+																						<option value="39">San Marino +39</option>
+																						<option value="239">Sao Tome e Principe +239</option>
+																						<option value="966">Saudi Arabia +966</option>
+																						<option value="221">Senegal +221</option>
+																						<option value="248">Seychelles +248</option>
+																						<option value="232">Sierra Leone +232</option>
+																						<option value="65">Singapore +65</option>
+																						<option value="421">Slovak Republic +421</option>
+																						<option value="386">Slovenia +386</option>
+																						<option value="677">Solomon Islands +677</option>
+																						<option value="252">Somalia +252</option>
+																						<option value="27">South Africa +27</option>
+																						<option value="34">Spain +34</option>
+																						<option value="94">Sri Lanka +94</option>
+																						<option value="1-869">St. Kitts and Nevis +1-869</option>
+																						<option value="1-758">St. Lucia +1-758</option>
+																						<option value="1-784">St. Vincent and the Grenadines +1-784</option>
+																						<option value="249">Sudan +249</option>
+																						<option value="597">Suriname +597</option>
+																						<option value="47">Svalbard and Jan Mayen Islands +47</option>
+																						<option value="268">Swaziland +268</option>
+																						<option value="46">Sweden +46</option>
+																						<option value="41">Switzerland +41</option>
+																						<option value="963">Syria +963</option>
+																						<option value="886">Taiwan +886</option>
+																						<option value="992">Tajikistan +992</option>
+																						<option value="255">Tanzania +255</option>
+																						<option value="66">Thailand +66</option>
+																						<option value="228">Togolese Republic +228</option>
+																						<option value="690">Tokelau +690</option>
+																						<option value="676">Tonga +676</option>
+																						<option value="1-868">Trinidad and Tobago +1-868</option>
+																						<option value="21">Tunisia +21</option>
+																						<option value="90">Turkey +90</option>
+																						<option value="993">Turkmenistan +993</option>
+																						<option value="1-649">Turks &amp; Caicos Islands +1-649</option>
+																						<option value="688">Tuvalu +688</option>
+																						<option value="256">Uganda +256</option>
+																						<option value="380">Ukraine +380</option>
+																						<option value="971">United Arab Emirates +971</option>
+																						<option value="44">United Kingdom +44</option>
+																						<option value="598">Uruguay +598</option>
+																						<option value="1-340">US Virgin Islands +1-340</option>
+																						<option value="1" selected="selected">USA +1</option>
+																						<option value="998">Uzbekistan +998</option>
+																						<option value="678">Vanuatu +678</option>
+																						<option value="39">Vatican City State +39</option>
+																						<option value="58">Venezuela +58</option>
+																						<option value="84">Vietnam +84</option>
+																						<option value="681">Wallis and Futuna +681</option>
+																						<option value="21">Western Sahara +21</option>
+																						<option value="685">Western Samoa +685</option>
+																						<option value="967">Yemen, North +967</option>
+																						<option value="969">Yemen, South +969</option>
+																						<option value="381">Yugoslavia +381</option>
+																						<option value="243">Zaire +243</option>
+																						<option value="260">Zambia +260</option>
+																						<option value="259">Zanzibar +259</option>
+																						<option value="263">Zimbabwe +263</option>
+																				</select>
+								</span>
+							</span><span class="b-form__field b-form__field_text b-form__field_right">
+								<span class="b-form__field__wrap">
+									<input type="text" placeholder="Phone" name="phoneNumber" class="b-form__field__control b-auth-register__input">
+								</span>
+							</span>
+						</div>
+						<input type="hidden" name="type" value="phone">
+												<button type="submit" class="b-button b-button_blue b-button_medium b-auth-register__send">Register</button>
+						<span class="b-spinner b-form__spinner"></span>
+					</form>
+				</div>
+				<div class="b-auth-register__confirm">
+					<div class="b-auth-login__subtitle">Enter the password received by SMS</div>
+					<form action="/widget/authLogin/login/" method="post" class="b-form b-auth-register__form-validate i-declarative" onclick="return { bForm: {
+						fields: {
+							password: {
+								required: 'Enter the password received by SMS'
+							}
+						},
+						forwardGlobalErrorsToField: 'password',
+						ajax: true
+					} }">
+						<div class="b-auth-register__line">
+							<span class="b-form__field b-form__field_text">
+								<span class="b-form__field__wrap">
+									<input type="text" name="login" readonly="" class="b-form__field__control b-auth-register__input b-auth-register__confirm__login">
+								</span>
+							</span>
+							<span class="b-pseudo-link b-auth-register__confirm__back">Change</span>
+						</div>
+						<div class="b-auth-register__line">
+							<span class=""></span>
+						</div>
+						<div class="b-auth-register__line">
+							<span class="b-form__field b-form__field_password b-form__field_password-visible">
+								<span class="b-form__field__wrap">
+									<input type="text" name="password" class="b-form__field__control b-auth-register__input" placeholder="SMS password">
+									<span aria-hidden="true" class="b-form__field__password-hide b-icon-font b-icon-font_eye"></span>
+									<span aria-hidden="true" class="b-form__field__password-show b-icon-font b-icon-font_eye-blocked"></span>
+								</span>
+							</span>
+							<span class="b-pseudo-link b-auth-register__resend">Resend SMS</span>
+						</div>
+						<button type="submit" class="b-button b-button_blue b-button_medium b-auth-register__validate">Login or register</button>
+						<span class="b-spinner b-form__spinner"></span>
+						<span class="b-spinner b-auth-register__spinner"></span>
+					</form>
+				</div>
+				<div class="b-auth-register__success">
+					Thank you for registering!				</div>
+			</div>
+		</div>
+		<div class="b-tabs__content-item">
+			<div class="b-auth-composite__register b-auth-register b-auth-register_email b-auth-register_step_add i-declarative" onclick="return { bAuthRegister: {} }">
+				<div class="b-auth-register__add">
+					<div class="b-auth-login__subtitle">Enter email and password</div>
+					<form action="/widget/authReg/register/" method="post" class="b-form b-auth-register__form-add i-declarative" onclick="return { bForm: {
+						fields: {
+							login: {
+								required: 'Enter email',
+								validator: 'email'
+							},
+							password: {
+								required: 'Enter password'
+							}
+						},
+						forwardGlobalErrorsToField: $.fn.bAuthRegister.errorRouter,
+						ajax: true
+					} }">
+						<div class="b-auth-register__line">
+							<span class="b-form__field b-form__field_text">
+								<span class="b-form__field__wrap">
+									<input type="text" placeholder="mail@example.com" name="login" class="b-form__field__control b-auth-register__input">
+								</span>
+							</span>
+						</div>
+						<div class="b-auth-register__line">
+							<span class="b-auth-login__field b-form__field b-form__field_password b-form__field_password-visible">
+								<span class="b-form__field__wrap">
+									<input type="text" name="password" class="b-form__field__control" placeholder="Password">
+									<span aria-hidden="true" class="b-form__field__password-hide b-icon-font b-icon-font_eye"></span>
+									<span aria-hidden="true" class="b-form__field__password-show b-icon-font b-icon-font_eye-blocked"></span>
+								</span>
+							</span>
+						</div>
+						<input type="hidden" name="type" value="email">
+												<div class="b-auth-register__line">
+						    <label class="b-form__label b-auth-login__not-my-device" to="subscribe">
+						        <span class="b-form__field b-form__field_checkbox">
+						            <span class="b-form__field__wrap">
+						                <input type="checkbox" name="subscribe" class="b-form__field__control" checked="">
+						                <span class="b-form__field__standin"></span>
+						                <span class="b-form__field__decorator"></span>
+						            </span>
+						        </span>
+						        Subscribe to our newsletter						    </label>
+						</div>
+						<button type="submit" class="b-button b-button_blue b-button_medium b-auth-register__send">Register</button>
+						<span class="b-spinner b-form__spinner"></span>
+					</form>
+				</div>
+				<div class="b-auth-register__confirm">
+					<div class="b-auth-composite__info">
+						You will receive an email with further instructions within minutes					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- register end --></div>
+<!--PopUp Вход, регистрация конец-->
+
+<!-- CrossDomain Auth BEGIN -->
+<!-- CrossDomain Auth END -->
+
+<script type="text/javascript">
+// anchors support
+$(document).ready(function(){
+        var url = document.location.toString();
+        if (url.match('#')) { // the URL contains an anchor
+                var anchor = '#' + url.split('#')[1];
+				if ( anchor.length > 1 )
+				{
+                	$('a[href="' + anchor + '"]').click();
+				}
+        }
+
+	if (getCookie("ALAWAR_DESIGN_REMEMBER") == null) {
+		$("#alawar-top-bar-change-design").show();
+	} else {
+		$("#alawar-top-hmenu-change-design").show();
+	}
 });
-})(window, "yandex_metrika_callbacks");
-</script></div>
-<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
-<noscript><div><img src="//mc.yandex.ru/watch/11939908" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-<!-- End Copyright -->
-<!-- monitor OK -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2469285-2");
-pageTracker._initData();
-pageTracker._trackPageview();
-pageTracker._trackPageview("/info_stat/partners/pid:" + (onloadTrackerPID == null ? 'none' : onloadTrackerPID) );
 </script>
-</div></div><!-- div-body-index /div-->
-<div id="page-bottom" style="clear:both"></div>
 
+<!-- SiteHart begin -->
+<!-- SiteHart end -->
+
+<!-- Counters begin -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter15547795 = new Ya.Metrika({id:15547795, enableAll: true, webvisor:true});
+        } catch(e) {}
+    });
+        var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/15547795" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type="text/javascript" src="http://en.data.counter.services.alawar.com/gcounter_alawar.js"></script>
+<!-- Counters end --></div>
+<!-- monitor OK -->
 
 </body></html>
