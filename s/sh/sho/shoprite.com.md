@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014090853id_/http%3A//www.shoprite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510011539id_/http%3A//www.shoprite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ShopRite
+# ShopRite Privacy Policy » ShopRite
 
-This Privacy Policy is a part of the Terms & Conditions of this website (the “Website”) which are binding on all Website users and participants in the ShopRite® Price Plus® Club. The ShopRite®, ShopRite Partners in Caring®, Price Rite®, and Wakefern Food Corp. websites are operated by MyWebGrocer on behalf of Wakefern Food Corp. (“Wakefern”). Please review MyWebGrocer’s privacy policy posted at [**http://shoprite.mywebgrocer.com/privacy.aspx**](http://shoprite.mywebgrocer.com/privacy.aspx) to understand how your information is collected and used by MyWebGrocer on our sites
+This Privacy Policy is a part of the Terms & Conditions of this website (the “Website”) which are binding on all Website users and participants in the ShopRite® Price Plus® Club. The ShopRite®, ShopRite Partners in Caring®, Price Rite®, and Wakefern Food Corp. websites are operated by MyWebGrocer on behalf of Wakefern Food Corp. (“Wakefern”). Please review MyWebGrocer’s privacy policy posted at [**http://www.shoprite.com/mywebgrocer-privacy-policy/**](http://www.shoprite.com/mywebgrocer-privacy-policy/) to understand how your information is collected and used by MyWebGrocer on our sites
 
 Wakefern’s policy is to respect and protect your privacy. Wakefern therefore exercises precautions to maintain the confidentiality of information that you provide to us.
 
