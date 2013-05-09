@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idahopower.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231233425id_/http%3A//www.idahopower.com/AboutUs/CompanyInformation/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idahopower.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509141919id_/http%3A//www.idahopower.com/AboutUs/CompanyInformation/privacy.cfm) for the most accurate reproduction.*
 
 # Idaho Power - Privacy Policy
 
@@ -27,6 +27,10 @@ E-mail gives Idaho Power another convenient way to communicate with its customer
 ### Use of cookies
 
 The use of "cookies" is standard when offering online services. A "cookie" is a piece of data stored by each user's browser that contains information about the user of the computer. It is a small-encrypted data string the Company's server writes to your hard drive. This data string contains your unique User ID for the Idaho Power Web site and helps the Web site recognize return visitors and allows the Company to deliver Web content in accordance with your interests. Cookies allow Idaho Power to track and target the interests of users and better tailor the Company's Web site to match your preferences. When you visit the Company's Web site, the Company will recognize you by your Internet cookie and customize your experience accordingly. You can use your Internet browser to erase cookies from your hard drive, block cookies or give you a warning before a cookie is stored. Please refer to your browser's instructions for help with these options. Please note the placement of cookies may be necessary in order to register for any of Idaho Power's online products or services. It will be your choice to accept these services and the use of cookies.
+
+### Third-party cookies
+
+Idaho Power allows third-party companies to collect certain information when you visit its website and to use that information to serve ads for Idaho Power services when you visit this website or other websites. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites to provide advertisements about services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information. 
 
 ### Security
 
