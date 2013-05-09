@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlsjr.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005201026id_/http%3A//www.carlsjr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlsjr.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509072904id_/http%3A//www.carlsjr.com/privacy) for the most accurate reproduction.*
 
 # Carl’s Jr.®
 
