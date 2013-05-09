@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vast.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014190453id_/http%3A//www.vast.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vast.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509062756id_/http%3A//www.vast.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vast
 
