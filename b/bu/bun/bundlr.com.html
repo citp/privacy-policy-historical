@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the bundlr.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919231655id_/http%3A//bundlr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bundlr.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509161051id_/http%3A//bundlr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
   <title>Bundlr - Privacy Policy</title>
 <meta name="description" content="Privacy terms to take in account when using the Bundle service.">
 
-<meta name="keywords" content="social bookmarking,organize bookmarks,curation,social media tools,web content"> 
-<meta name="robots" content="index,follow"> 
+<meta name="keywords" content="social bookmarking,organize bookmarks,curation,social media tools,web content">
+<meta name="robots" content="index,follow">
 
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="Privacy terms to take in account when using the Bundle service.">
@@ -24,13 +24,16 @@
 
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/caokcfodlgbkajhgeeocooagaaklafmj">
 
+<link rel="http://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml" href="http://bundlr.com/oexchange.xrd">
 
-  <link href="/assets/app.css?1348051779" media="screen" rel="stylesheet" type="text/css">
-  <script src="/assets/defaults.js?1348051779" type="text/javascript"></script>
+
+
+  <link href="/assets/app.css?1368049427" media="screen" rel="stylesheet" type="text/css">
+  <script src="/assets/defaults.js?1368049427" type="text/javascript"></script>
   
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="VNQaFLjXJJT+QAlwebiGduUMlbplUaoLFH9tLuwO4Sg=" name="csrf-token">
+<meta content="n3a3sdyFNea3Qhuv5LL9SLQMapTTuuV4pDzytqdl/Yk=" name="csrf-token">
 
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -56,6 +59,7 @@ mixpanel.init("f755d72520e5497ebd3ee499534101a2");
 <!-- end Mixpanel -->
 
 
+
 </head>
 
 <body data-logged-in="false">
@@ -66,29 +70,45 @@ mixpanel.init("f755d72520e5497ebd3ee499534101a2");
 
   
 
-  <div id="topbar" class="navbar navbar-fixed-top">
+<div id="topbar" class="navbar navbar-fixed-top">
+
+  <!-- Start discount bar-->
+  <!--End discount bar -->
+
     <div class="navbar-inner">
       <div class="container">
         <a class="brand" href="/">
           <img id="logo" src="/images/logo_red_small.png" alt="Bundlr logo">
         </a>
 
-          <form id="search" action="/search" method="get" class="navbar-search pull-left">
+        <div class="pull-left">
+            <form id="search" action="/search" method="get" class="navbar-search">
   <input type="submit" title="search" value="" disabled="disabled" class="icon-search">
-  <input type="text" name="q" class="search-query" placeholder="Search bundles">
+  <input type="text" name="q" class="search-query" placeholder="Search Bundlr">
   
 
-  <!--<ul id="search-dropdown" class="typeahead dropdown-menu" style="visibility: hidden;"><li></li></ul>-->
+  <ul id="search-dropdown" class="typeahead dropdown-menu" style="visibility: hidden;"><li></li></ul>
 </form>
 
+        </div>
+
         <ul class="nav pull-right">
-          <li><a href="/explore">Explore</a></li>
+
+          <li>
+            <a href="/explore" class="topbar-explore">Explore</a>
+          </li>
+
           <li class="divider-vertical"></li>
 
 
             <li>
               <a data-toggle="modal" data-target="#modal-signin" data-backdrop="true" data-keyboard="true" href="#">Login</a>
             </li>
+
+
+          <a href="#" class="scroll-to-top" style="display: none;" rel="tooltip" title="Back to top" data-placement="bottom">
+            <i class="icon-chevron-up"></i>
+          </a>
 
         </ul>
 
@@ -205,20 +225,20 @@ mixpanel.init("f755d72520e5497ebd3ee499534101a2");
     <div class="push"></div>
   </div>
 
-  
+
   <div id="collab-requests-wrapper">
   </div>
 
 
-  
+
     <div class="footer">
       <div class="container">
         <div class="row show-grid">
           <div class="span4">
             <h3>Bundlr</h3>
             <ul>
+                <li><a href="/premium" onclick="_gaq.push(['_trackEvent', 'UX', 'premium', 'footer link']);">Premium <span class="label label-info">pro</span></a></li>
               <li><a href="/tutorial">Browser button</a></li>
-              <li><a href="/premium" onclick="_gaq.push(['_trackEvent', 'UX', 'premium', 'footer link']);">Premium</a></li>
               <li><a href="/activity/suggestions">Suggestions</a></li>
               <li><a href="/terms">Terms of service</a></li>
               <li><a href="/privacy">Privacy policy</a></li>
@@ -300,13 +320,15 @@ mixpanel.init("f755d72520e5497ebd3ee499534101a2");
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","8b73b7b314",325129,"dF4IRxRfDgkDFk1XRlhfEhwWQgsTBwcb",0.0,44,new Date().getTime(),"","","","",""])</script>
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","1f610d5048","1401124","c1cMTBFXXlVcQhoFFl9WFhcTSltPWFNM",31,308,new Date().getTime(),"","","","",""]);</script>
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
