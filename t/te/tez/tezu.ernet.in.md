@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the tezu.ernet.in privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509025811id_/http%3A//www.tezu.ernet.in/privacy-policy) for the most accurate reproduction.*
+
+# Tezpur University
+
+** Tezpur University, Tezpur ,Assam Privacy Policy**
+
+We at Tezpur University value your privacy and understand how important it is for you. To that effect, we have the following privacy policy in place with regard to the collection, use and dissemination of personal information submitted to this website. This document will help you understand the terms and conditions under which personal information is provided to this website. Please note that this policy is effective only within Tezpur University domain, and does not apply to websites that may be accessible from external links suggested at various pages of this website. Please note that due to the very nature of internet technology and evolving threats, this policy may be updated from time to time. All such updates will be posted in the privacy policy page. By using this website, you indicate your acceptance of the terms and policies mentioned here.
+
+** Information Collection and Use**
+
+While you can use parts of this website without providing any personal information, certain sections will only be accessible after you have registered with the website by providing specific data. These sections include, but are not limited to Donations, Registration for academic courses, Books, Journals and Alumni Profiles. The information collected by Tezpur University will be used strictly for the purpose stated at the time of collection. Such information **will not** be sold, traded, rented or in any way transferred to a third party, including direct marketing companies and similar organizations for commercial purposes. However, Tezpur University may reveal the collected information to its selected employees, agents, consultants and others who the Tezpur University believes should know. The Institute may also divulge the information to law enforcement authorities, courts and such others if need arises. 
+
+** System Information Including IP Addresses**
+
+Information that is not personal in nature, i.e., IP addresses, web browsers and operating system details, browsing habits, demographical and geographic data and other similar information may be logged and used to analyze and extrapolate information about general user behavior within the Tezpur University website. Such extrapolations and statistics may be made public. However, they cannot be tracked to individual users. IP addresses are not linked to anything that can help identify the user. Neither are IP addresses, except in rare occasions, handed out to a third party. 
+
+** Cookies**
+
+This website uses cookies to track usage and manage services on the website. Cookies are small bits of data that may be transferred to the user's hard drive when they log in or access a particular part of the website. These are used for a variety of purposes including authentication and can be blocked by reconfiguring the appropriate settings in user�s web browser. Doing so, however, may restrict access to certain parts of the website. Through their browser options the user can remove the cookies from their hard disk. Information collected through cookies cannot be traced back to the user as it contains no personally identifiable data like name, address or phone number.
+
+** Online Forms**
+
+The Tezpur University website uses online forms where you may be asked to provide certain bits of personal information. This is necessary to access certain services in the website (e.g. academic courses, donations, registrations, books and Journals) or to take part in surveys. By filling out and submitting the form you are understood to have consented to Tezpur University storing and using the information for the purposes for which it has been collected.
+
+** Security**
+
+At Tezpur University, we take every possible precaution to ensure that your data is safe and secure barring circumstances beyond our control. Unfortunately, we cannot guarantee control over the medium of transmission i.e., internet. Though you have to supply the necessary information at your own risk, Tezpur University will always try to ensure the security and safety of the same. Once we receive the data, we will strive to keep it secure using the latest technology, constant upgrades to our digital security infrastructure and restricted access. All information you provide us will be stored in Tezpur University secured servers within Tezpur University premises. 
