@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treat.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004084411id_/http%3A//www.treat.com/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treat.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510002432id_/http%3A//www.treat.com/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Treat Privacy and Security
 
