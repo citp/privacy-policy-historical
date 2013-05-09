@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clozette.co privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003001924id_/http%3A//www.clozette.co/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clozette.co privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509051257id_/http%3A//www.clozette.co/info/privacy) for the most accurate reproduction.*
 
 # :: Clozette ::
 
-|  |  |  Privacy Policy  
+Privacy Policy  
 ---  
   
 This Privacy Policy applies to all information collected by Clozette Pte Ltd and its subsidiary and associated companies (collectively, " **Clozette** ") under **Clause 1** below.
