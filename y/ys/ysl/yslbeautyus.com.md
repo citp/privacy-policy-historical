@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024153519id_/http%3A//www.yslbeautyus.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509172331id_/http%3A//www.yslbeautyus.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# YSL Beauty US by Yves Saint Laurent – Official Online Store
+# Privacy Policy | YSL Beauty US by Yves Saint Laurent – Official Online Store
 
 Thank you for visiting www.yslbeautyus.com, the US online store of YSL Beauté (the “Site“). YSL Beauté (“we/us/our”) is committed to protecting your privacy. Among other things, this Privacy Policy describes the personal information collected about you through the Site, why YSL Beauté collects it, how we use it and when we share it with third parties.
 
