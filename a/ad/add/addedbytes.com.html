@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the addedbytes.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231083629id_/http%3A//www.addedbytes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addedbytes.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509142549id_/http%3A//www.addedbytes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-GB"><head>
 
@@ -24,12 +24,12 @@
                         <link href="/stylesheets/jquery.mSimpleSlidebox.css" rel="stylesheet" type="text/css" media="screen">
                         <script type="text/javascript" src="/javascripts/javascript.js"></script>
                         <!--<script type="text/javascript" src="/javascripts/livefavatars.js"></script>-->
-                        <script async="" type="text/javascript" src="/javascripts/navbar.js"></script>
-                        <script async="" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-                        <script async="" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
-                        <script async="" type="text/javascript" src="/javascripts/jquery.snippet.js"></script>
-                        <script async="" type="text/javascript" src="/javascripts/jquery.jscroll.min.js"></script>
-                        <script async="" type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+                        <script type="text/javascript" src="/javascripts/navbar.js"></script>
+                        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+                        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+                        <script type="text/javascript" src="/javascripts/jquery.snippet.js"></script>
+                        <script type="text/javascript" src="/javascripts/jquery.jscroll.min.js"></script>
+                        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
 		<!--<![endif]-->
 		<!--[if gte IE 7]>
 			<script async type="text/javascript" src="/javascripts/IEWidths.js"></script>
@@ -65,10 +65,25 @@
         $("pre.php").snippet("php",{style:"darkblue"});
         $("pre.sql").snippet("sql",{style:"darkblue"});
         $("pre.html").snippet("html",{style:"darkblue"});
-        $("#sidebar .enquiries").jScroll();
+        /*$("#sidebar .enquiries").jScroll();*/
         $("#comment-form").validate();
         $("#checkoutform").validate();
         $("#ContactForm").validate();
+
+        // Fix background positions for tall boxes or short images
+        var work_items = $('.work_item');
+        work_items.each(function(i) {
+            // Get background image height
+            var actualImage = new Image();
+            var thisDiv = this;
+            actualImage.src = $(this).find('div').first().css('background-image').replace(/"/g,"").replace(/url\(|\)$/ig, "");
+            actualImage.onload = function() {
+                var bgImgHeight = this.height + 20;
+                if ($(thisDiv).height() > bgImgHeight) {
+                    $(thisDiv).find('div').first().css({backgroundPosition: 'bottom right'});
+                }
+            }
+        });
     });
 </script>
 
@@ -87,41 +102,31 @@
 
 
     <div style="float: right; margin: 15px 30px 0 0;">
-<a href="feeds/" class="imagelink rss_icon"><img style="vertical-align: middle;" width="16" height="16" src="/images/v8/feeds1.png" alt="RSS"></a> RSS: <a href="http://feeds.addedbytes.com/added_bytes_full">Full</a> | <a href="http://feeds.addedbytes.com/added_bytes_partial">Partial</a> | <a href="feeds/">More Feeds</a>
-
-<!-- Begin TranslateThis Button -->
-<p class="translatebox" style="float: right; border-bottom: 0; margin: 2px 0 0 30px;" id="translate-this"><a href="http://translateth.is/" class="translate-this-button">Translate</a></p>
-
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript" src="http://x.translateth.is/translate-this.js"></script>
-<script type="text/javascript">
-TranslateThis({
-    GA : true
-});
-</script>
-
-<!-- End TranslateThis Button -->
+        <span class="contact_title">T</span> 
+        <span class="contact_item">+44 1273 906 908</span> 
+        <span class="contact_title">E</span> 
+        <span class="contact_item"><a href="mailto:hi@addedbytes.com">hi@addedbytes.com</a></span> 
     </div>
 
 		<a id="logolink" href="/" class="imagelink"><img width="211" height="42" border="0" alt="Added Bytes" src="/images/v9/logo.png"></a>
 		<nav><div id="mainmenu_inner">
 			<ul><li><a href="http://www.addedbytes.com/" title="Dave Child, Freelance Web Developer"><span>Home</span></a></li>
-<li><a href="/services/" title="Services"><span>Services</span></a><ul><li><a href="/services/e-commerce/" title="e-Commerce"><span>e-Commerce</span></a></li>
-<li><a href="/services/web-development/" title="Web Development"><span>Web Development</span></a></li>
-<li class="last"><a href="/services/cms-development/" title="CMS Development"><span>CMS Development</span></a></li>
+<li><a href="/work/" title="What We Do"><span>What We Do</span></a><ul><li><a href="/work/e-commerce/" title="E-commerce Development"><span>E-commerce Development</span></a></li>
+<li><a href="/work/web-development/" title="Web Development"><span>Web Development</span></a></li>
+<li><a href="/work/online-marketing/" title="Online Marketing and SEO"><span>Online Marketing and SEO</span></a></li>
+<li><a href="/work/cms-development/" title="CMS Development"><span>CMS Development</span></a></li>
+<li class="last"><a href="/work/website-and-logo-design/" title="Website and Logo Design"><span>Website and Logo Design</span></a></li>
 </ul></li>
 <li><a href="/portfolio/" title="Portfolio"><span>Portfolio</span></a></li>
 <li><a href="/blog/" title="Blog"><span>Blog</span></a><ul><li><a href="/blog/" title="Latest Posts"><span>Latest Posts</span></a></li>
+<li><a href="/articles/" title="Articles"><span>Articles</span></a></li>
 <li><a href="/blog/code/" title="Code"><span>Code</span></a></li>
 <li><a href="/blog/recommended/" title="Recommended"><span>Recommended</span></a></li>
 <li><a href="/blog/most-popular/" title="Most Popular"><span>Most Popular</span></a></li>
 <li><a href="/blog/most-comments/" title="Most Comments"><span>Most Comments</span></a></li>
 <li class="last"><a href="/blog/latest-comments/" title="Latest Comments"><span>Latest Comments</span></a></li>
 </ul></li>
-<li><a href="/articles/" title="Articles"><span>Articles</span></a><ul><li><a href="/articles/for-beginners/" title="For Beginners"><span>For Beginners</span></a></li>
-<li><a href="/articles/online-marketing/" title="Online Marketing"><span>Online Marketing</span></a></li>
-<li class="last"><a href="/articles/writing-secure-php/" title="Writing Secure PHP"><span>Writing Secure PHP</span></a></li>
-</ul></li>
+<li><a href="/resources/" title="Resources"><span>Resources</span></a></li>
 <li class="last"><a href="/cheat-sheets/" title="Cheat Sheets"><span>Cheat Sheets</span></a></li>
 </ul>
 
@@ -170,20 +175,39 @@ TranslateThis({
     <footer><div class="footer_inner" id="footer_inner">
         <div class="triptych1">
             <h3>Hi!</h3>
-            <a href="about/" class="imagelink rss_icon" style="box-shadow: 1px 1px 3px #000; line-height: 0.5; padding: 0; float: left; margin: 0 20px 110px 0;"><img width="50" src="http://www.gravatar.com/avatar/fd7e3b77a3f3007ff30d932b65084851&amp;s=50" alt="Dave"></a> I'm Dave, a freelance web developer from Brighton, UK. I build awesome websites using <a href="services/web-development/magento-development/">Magento</a>, <a href="services/web-development/modx-development/">MODX</a>, <a href="services/web-development/drupal-development/">Drupal</a> and <a href="services/web-development/bespoke-development/">more</a>. Read more <a href="/about/">about me</a> or <a href="portfolio/">my work</a>, or <a href="mailto:dave@addedbytes.com">get in touch</a>!
+            <p><a href="about/" class="imagelink rss_icon" style="box-shadow: 1px 1px 3px #000; line-height: 0.5; padding: 0; float: left; margin: 0 20px 110px 0;"><img width="50" src="http://www.gravatar.com/avatar/fd7e3b77a3f3007ff30d932b65084851&amp;s=50" alt="Dave"></a> I'm Dave, a freelance web developer from Brighton, UK. I build awesome websites using <a href="work/web-development/magento-development/">Magento</a>, <a href="work/web-development/modx-development/">MODX</a>, <a href="work/web-development/drupal-development/">Drupal</a> and <a href="work/web-development/bespoke-development/">more</a>. Read more <a href="/about/">about me</a> or <a href="portfolio/">my work</a>, or <a href="mailto:dave@addedbytes.com">get in touch</a>!</p>
+
+            <h3>Contact Dave</h3>
+            <p>
+            <span class="contactLabel">Phone:</span> +44 (0) 1273 906908<br>
+            <span class="contactLabel">Twitter:</span> @<a href="http://www.twitter.com/AddedBytes">AddedBytes</a><br>
+            <span class="contactLabel">Email:</span> <a href="mailto:hi@addedbytes.com">hi@addedbytes.com</a></p>
         </div> 
 
         <div class="triptych2">
-            <h3>Contact Added Bytes</h3>
+            <h3>Services</h3>
             <p>
-            <span class="contactLabel">Phone:</span> +44 (0) 1273 906908<br>
-            <span class="contactLabel">Twitter:</span> @<a href="http://www.twitter.com/AddedBytes">AddedBytes</a> @<a href="http://www.twitter.com/Dave_Child">Dave_Child</a><br>
-            <span class="contactLabel">Email:</span> <a href="mailto:hi@addedbytes.com">hi@addedbytes.com</a></p>
+                <strong>Website Development</strong><br>
+                - <a href="work/web-development/magento-development/">Magento Website Development</a><br>
+                - <a href="work/web-development/modx-development/">MODX Website Development</a><br>
+                - <a href="work/web-development/opencart-development/">OpenCart Website Development</a><br>
+                - <a href="work/web-development/wordpress-development/">Wordpress Website Development</a><br>
+                - <a href="work/web-development/drupal-development/">Drupal Website Development</a><br>
+                - <a href="work/web-development/bespoke-development/">Bespoke Website Development</a><br>
+                <br>
+                <strong>Design</strong><br>
+                - <a href="work/web-development/drupal-development/">Website Design</a><br>
+                - <a href="work/website-and-logo-design/logo-design/">Logo Design</a><br>
+                <br>
+                <strong>Online Marketing</strong><br>
+                - <a href="work/online-marketing/search-engine-optimisation/">Search Engine Optimisation</a><br>
+                - <a href="work/online-marketing/social-media-marketing/">Social Media Marketing</a><br>
+            </p>
         </div>
 
         <div class="triptych3">
             <h3>Looking for a new website?</h3>
-            <p>Tell us about your project!</p>
+            <p>Tell me about your project!</p>
             
  
 <form method="post" action="about/privacy-policy/#ContactForm" id="ContactForm">
@@ -227,7 +251,7 @@ TranslateThis({
     <div id="links"><div id="links_inner">
 
         <div class="copyright">
-            <div style="float: left; margin: 0 0 0 20px;">© 2003 – 2012 Added Bytes Ltd (Company 8026399)</div>
+            <div style="float: left; margin: 0 0 0 20px;">© 2003 – 2013 Added Bytes Ltd (Company 8026399)</div>
             <div style="float: right; margin: 0 20px 0 0;"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/">Creative Commons License</a> &nbsp; | &nbsp; 
             <a href="/privacy-policy/">Privacy Policy</a> &nbsp; | &nbsp; <a href="/tags/">Tags</a>  &nbsp; | &nbsp; <a href="/site-map/">Site Map</a></div>
 <div class="clear"></div>
