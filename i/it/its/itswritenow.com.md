@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itswritenow.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005257id_/http%3A//www.itswritenow.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itswritenow.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509223537id_/http%3A//www.itswritenow.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | It's Write Now!
+# Privacy Policy | It's Write Now
 
 At [www.itswritenow.com](http://www.itswritenow.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [www.itswritenow.com](http://www.itswritenow.com/) and how it is used.
 
@@ -13,8 +13,8 @@ Like many other Web sites, [www.itswritenow.com](http://www.itswritenow.com/) ma
 **DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on [www.itswritenow.com](http://www.itswritenow.com/).
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.itswritenow.com](http://www.itswritenow.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.itswritenow.com](http://www.itswritenow.com/) and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
 
@@ -22,8 +22,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 [www.itswritenow.com](http://www.itswritenow.com/) has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.itswritenow.com's](http://www.itswritenow.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.itswritenow.com’s](http://www.itswritenow.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
