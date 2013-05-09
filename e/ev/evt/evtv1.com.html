@@ -1,36 +1,42 @@
-<!--The following is the downloaded HTML source of the evtv1.com privacy policy that was archived on 2012-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213045227id_/http%3A//www.evtv1.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evtv1.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509020816id_/http%3A//www.evtv1.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="height:100%;"><head><title>
 	EVTV1.com &gt; Privacy Policy
-</title><link rel="Stylesheet" href="StyleSheet.css" type="text/css">
+</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-    <script src="js/global.js" type="text/javascript"></script>
-    <script src="js/jquery.rolloverimage.src.js" type="text/javascript"></script>
     
 
     <script type="text/javascript">
-        $(document).ready(function () {
-            $(".channel").mouseover(function () {
-                $(this).css("background-color", "#2973B4");
-                $(this).css("color", "white");
-            }).mouseout(function () {
-                $(this).css("background-color", "");
-                $(this).css("color", "");
-            }).click(function () {
-                document.location.href = this.id + ".aspx";
-            });
-        });
+    	function vote(e, t, n) { $.ajax({ url: "/AjaxFunctions.asmx/Vote", type: "POST", contentType: "application/json", data: "{VideoID:" + e + ",Value:" + t + "}", success: function (e) { $("#" + n).html(e.d) } }) } $.fn.rolloverimage = function (e) { var t = $.extend({ ext: ".png" }, e); this.mouseover(function () { var e = $(this).attr("src").match(/[^\.]+/) + "over" + t.ext; $(this).attr("src", e) }); this.mouseout(function () { var e = $(this).attr("src").replace("over" + t.ext, t.ext); $(this).attr("src", e) }); return this };$(document).ready(function () { $(".channel").mouseover(function () { $(this).css("background-color", "#2973B4"); $(this).css("color", "white") }).mouseout(function () { $(this).css("background-color", ""); $(this).css("color", "") }).click(function () { document.location.href = this.id + ".aspx" }); $(".rolloverimage").each(function () { $(this).rolloverimage() }); Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(PageLoaded); function PageLoaded() { $(".asyncLoader").show(); } })
     </script>
+	<style type="text/css">
+		@font-face {font-family: Aller;src: url(fonts/Aller_Rg.ttf);}
+		@font-face {font-family: Aller;src: url(fonts/Aller_It.ttf);font-style: italic;}
+		@font-face {font-family: Aller;src: url(fonts/Aller_Bd.ttf);font-weight:bold;}
+		@font-face {font-family: Aller;src: url(fonts/Aller_BdIt.ttf);font-weight:bold;font-style:italic;}
+		body{background: #b9b9b9;font-family: Aller, Verdana;}
+		.clearfix {display: inline-block;}
+		.clearfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+		#navigation a{color:White;text-decoration: none;}
+		#navigation a:hover{text-decoration: underline;}
+		.title a{color:#000;text-decoration: none;}
+		.title a:hover{text-decoration: underline;}
+		.channel{cursor:pointer;}
+		.asyncLoader{display: none;}
+		.videothumb{width:120px;height:90px;}
+	</style>
 </head>
 <body style="margin: 0;height:100%;">
-    <form method="post" action="Privacy.aspx" id="form1" style="height:100%;">
+    <form method="post" action="/Privacy.aspx" id="form1" style="height:100%;">
+<input type="hidden" name="srcScript_HiddenField" id="srcScript_HiddenField" value="">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcxMTE3ODU5OA9kFgJmD2QWAgIDD2QWAgIHD2QWAgIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIFZBgFBTtjdGwwMCRTaWRlYmFyJFRvcFZpZGVvczEkcnB0VG9wVmlkZW9zJGN0bDAyJGN0bDAwJG11bEZvcm1hdA8PZAIBZAU7Y3RsMDAkU2lkZWJhciRUb3BWaWRlb3MxJHJwdFRvcFZpZGVvcyRjdGwwNCRjdGwwMCRtdWxGb3JtYXQPD2QCAWQFO2N0bDAwJFNpZGViYXIkVG9wVmlkZW9zMSRycHRUb3BWaWRlb3MkY3RsMDAkY3RsMDAkbXVsRm9ybWF0Dw9kAgFkBTtjdGwwMCRTaWRlYmFyJFRvcFZpZGVvczEkcnB0VG9wVmlkZW9zJGN0bDA4JGN0bDAwJG11bEZvcm1hdA8PZAIBZAU7Y3RsMDAkU2lkZWJhciRUb3BWaWRlb3MxJHJwdFRvcFZpZGVvcyRjdGwwNiRjdGwwMCRtdWxGb3JtYXQPD2QCAWS4oGlfIY4ozd8mejHp4XpaR52wlDRa7abQFZkcf+NkGg==">
 
 
-<script src="/ScriptResource.axd?d=sEXPFvdTsQhWMZbyfh-pqKhiYV7Qretoy23KlHUgTyPOir9M075n2uuyCG7GCDDhhLPwCbqiExudypO2-jsWOyh4fDsDHj0iPdP2uUNU6Hs4kVCjziWYdwZCgyWPOIED0&amp;t=ffffffffbad362a4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=sEXPFvdTsQhWMZbyfh-pqKhiYV7Qretoy23KlHUgTyPOir9M075n2uuyCG7GCDDhhLPwCbqiExudypO2-jsWOyh4fDsDHj0iPdP2uUNU6Hs4kVCjziWYdwZCgyWPOIED0&amp;t=48e38e19" type="text/javascript"></script>
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLDyPXEAQLE5ML0AqJapmg6iHCjgr3MR0IEDXXHSaWEXAkB/ZZTbNyQIXry">
 		<div style="min-height: 100%;position:relative;">
+			
 			
 			<div style="background: #EDEDED; width: 1030px;margin:0 auto;">
 				<div class="clearfix" style="width: 100%; height: 80px;">
@@ -62,9 +68,12 @@
 							<div style="float: left;padding:5px;margin: 4px 0;border-right:1px solid #b9b9b9;" id="music" class="channel">
 								Music
 							</div>
-							<div style="float: left;padding:5px;margin: 4px 0;" id="historynews" class="channel">
+							<div style="float: left;padding:5px;margin: 4px 0;border-right:1px solid #b9b9b9;" id="historynews" class="channel">
 								History/News
 							</div>
+                            <div style="float:left;padding:5px;margin:4px 0;" id="travel" class="channel">
+                                Travel
+                            </div>
 						</div>
 					</div>
 					<div style="float: right;background-color:#b9b9b9; padding: 5px;border-top-left-radius:5px;border-bottom-left-radius:5px; width: 320px;">
@@ -107,9 +116,9 @@
 
         <h5 style="margin-top:0px; margin-bottom: 5px;" class="title"><a href="/video/The_Orangutan_and_the_Hound.aspx">The Orangutan and the Hound</a></h5>
         <div class="clearfix">
-            <div style="float:left; width: 120px; text-align: center;">
-                <div style="background-image: url(Image.ashx?src=http://i1.ytimg.com/vi/d79ArrL8VRg/hqdefault.jpg&amp;w=120&amp;h=90);width:120px; height:90px;">
-                    <a href="/video/The_Orangutan_and_the_Hound.aspx"><img src="images/playarrow.png" alt="The Orangutan and the Hound" style="border:0;margin-top:13px;">
+            <div style="float:left; width: 120px; text-align: center;display:none;" class="asyncLoader">
+                <div style="width:120px; height:90px;">
+                    <a href="/video/The_Orangutan_and_the_Hound.aspx"><img src="Image.ashx?src=http://i1.ytimg.com/vi/d79ArrL8VRg/hqdefault.jpg&amp;w=120&amp;h=90&amp;playbtn=true" alt="The Orangutan and the Hound" style="border:0;margin-top:13px;">
                 </a></div><a href="/video/The_Orangutan_and_the_Hound.aspx"><br>
                 <img src="/images/watchvideo.png" alt="Watch Video" style="border:0;margin-top:5px;" class="rolloverimage"></a>
             </div>
@@ -117,7 +126,7 @@
                 Rating:<br>
                 <div class="clearfix">
                     <div style="float: left;">
-                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_0_lblRatingSmall_0">45</span>
+                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_0_lblRatingSmall_0">56</span>
                     </div>
                     <div style="float: left;">
                         <a href="javascript:vote(110,true,'Sidebar_TopVideos1_rptTopVideos_ctl00_0_lblRatingSmall_0')"><img src="/images/upvote_blue.png" alt="UpVote" style="margin-bottom: 2px;border:0;"></a><br>
@@ -132,9 +141,9 @@
     
         <h5 style="margin-top:0px; margin-bottom: 5px;" class="title"><a href="/video/Enthusiastic_Drummer.aspx">Enthusiastic Drummer</a></h5>
         <div class="clearfix">
-            <div style="float:left; width: 120px; text-align: center;">
-                <div style="background-image: url(Image.ashx?src=http://i2.ytimg.com/vi/ItZyaOlrb7E/hqdefault.jpg&amp;w=120&amp;h=90);width:120px; height:90px;">
-                    <a href="/video/Enthusiastic_Drummer.aspx"><img src="images/playarrow.png" alt="Enthusiastic Drummer" style="border:0;margin-top:13px;">
+            <div style="float:left; width: 120px; text-align: center;display:none;" class="asyncLoader">
+                <div style="width:120px; height:90px;">
+                    <a href="/video/Enthusiastic_Drummer.aspx"><img src="Image.ashx?src=http://i2.ytimg.com/vi/ItZyaOlrb7E/hqdefault.jpg&amp;w=120&amp;h=90&amp;playbtn=true" alt="Enthusiastic Drummer" style="border:0;margin-top:13px;">
                 </a></div><a href="/video/Enthusiastic_Drummer.aspx"><br>
                 <img src="/images/watchvideo.png" alt="Watch Video" style="border:0;margin-top:5px;" class="rolloverimage"></a>
             </div>
@@ -142,7 +151,7 @@
                 Rating:<br>
                 <div class="clearfix">
                     <div style="float: left;">
-                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_1_lblRatingSmall_1">30</span>
+                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_1_lblRatingSmall_1">45</span>
                     </div>
                     <div style="float: left;">
                         <a href="javascript:vote(88,true,'Sidebar_TopVideos1_rptTopVideos_ctl00_1_lblRatingSmall_1')"><img src="/images/upvote_blue.png" alt="UpVote" style="margin-bottom: 2px;border:0;"></a><br>
@@ -157,9 +166,9 @@
     
         <h5 style="margin-top:0px; margin-bottom: 5px;" class="title"><a href="/video/Baby_Jaguar.aspx">Baby Jaguar</a></h5>
         <div class="clearfix">
-            <div style="float:left; width: 120px; text-align: center;">
-                <div style="background-image: url(Image.ashx?src=http://i2.ytimg.com/vi/UWkIMUfamxI/hqdefault.jpg&amp;w=120&amp;h=90);width:120px; height:90px;">
-                    <a href="/video/Baby_Jaguar.aspx"><img src="images/playarrow.png" alt="Baby Jaguar" style="border:0;margin-top:13px;">
+            <div style="float:left; width: 120px; text-align: center;display:none;" class="asyncLoader">
+                <div style="width:120px; height:90px;">
+                    <a href="/video/Baby_Jaguar.aspx"><img src="Image.ashx?src=http://i2.ytimg.com/vi/UWkIMUfamxI/hqdefault.jpg&amp;w=120&amp;h=90&amp;playbtn=true" alt="Baby Jaguar" style="border:0;margin-top:13px;">
                 </a></div><a href="/video/Baby_Jaguar.aspx"><br>
                 <img src="/images/watchvideo.png" alt="Watch Video" style="border:0;margin-top:5px;" class="rolloverimage"></a>
             </div>
@@ -167,7 +176,7 @@
                 Rating:<br>
                 <div class="clearfix">
                     <div style="float: left;">
-                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_2_lblRatingSmall_2">27</span>
+                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_2_lblRatingSmall_2">28</span>
                     </div>
                     <div style="float: left;">
                         <a href="javascript:vote(139,true,'Sidebar_TopVideos1_rptTopVideos_ctl00_2_lblRatingSmall_2')"><img src="/images/upvote_blue.png" alt="UpVote" style="margin-bottom: 2px;border:0;"></a><br>
@@ -180,23 +189,23 @@
 
         <hr>
     
-        <h5 style="margin-top:0px; margin-bottom: 5px;" class="title"><a href="/video/How_Ants_Communicate_And_Learn.aspx">How Ants Communicate (And Learn)</a></h5>
+        <h5 style="margin-top:0px; margin-bottom: 5px;" class="title"><a href="/video/Insane_Dog_Tricks.aspx">Insane Dog Tricks</a></h5>
         <div class="clearfix">
-            <div style="float:left; width: 120px; text-align: center;">
-                <div style="background-image: url(Image.ashx?src=http://i3.ytimg.com/vi/FOMWse6P-9M/hqdefault.jpg&amp;w=120&amp;h=90);width:120px; height:90px;">
-                    <a href="/video/How_Ants_Communicate_And_Learn.aspx"><img src="images/playarrow.png" alt="How Ants Communicate (And Learn)" style="border:0;margin-top:13px;">
-                </a></div><a href="/video/How_Ants_Communicate_And_Learn.aspx"><br>
+            <div style="float:left; width: 120px; text-align: center;display:none;" class="asyncLoader">
+                <div style="width:120px; height:90px;">
+                    <a href="/video/Insane_Dog_Tricks.aspx"><img src="Image.ashx?src=http://i1.ytimg.com/vi/lZNPYBVUMe8/hqdefault.jpg&amp;w=120&amp;h=90&amp;playbtn=true" alt="Insane Dog Tricks" style="border:0;margin-top:13px;">
+                </a></div><a href="/video/Insane_Dog_Tricks.aspx"><br>
                 <img src="/images/watchvideo.png" alt="Watch Video" style="border:0;margin-top:5px;" class="rolloverimage"></a>
             </div>
             <div style="float: left; padding: 40px 0; margin-left: 10px;">
                 Rating:<br>
                 <div class="clearfix">
                     <div style="float: left;">
-                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_3_lblRatingSmall_3">25</span>
+                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_3_lblRatingSmall_3">27</span>
                     </div>
                     <div style="float: left;">
-                        <a href="javascript:vote(80,true,'Sidebar_TopVideos1_rptTopVideos_ctl00_3_lblRatingSmall_3')"><img src="/images/upvote_blue.png" alt="UpVote" style="margin-bottom: 2px;border:0;"></a><br>
-                        <a href="javascript:vote(80,false,'Sidebar_TopVideos1_rptTopVideos_ctl00_3_lblRatingSmall_3')"><img src="/images/downvote_orng.png" alt="DownVote" style="border:0;"></a>
+                        <a href="javascript:vote(305,true,'Sidebar_TopVideos1_rptTopVideos_ctl00_3_lblRatingSmall_3')"><img src="/images/upvote_blue.png" alt="UpVote" style="margin-bottom: 2px;border:0;"></a><br>
+                        <a href="javascript:vote(305,false,'Sidebar_TopVideos1_rptTopVideos_ctl00_3_lblRatingSmall_3')"><img src="/images/downvote_orng.png" alt="DownVote" style="border:0;"></a>
                     </div>
                 </div>
             </div>
@@ -207,9 +216,9 @@
     
         <h5 style="margin-top:0px; margin-bottom: 5px;" class="title"><a href="/video/Muhammad_Ali___The_Greatest_Tribute.aspx">Muhammad Ali - The Greatest Tribute</a></h5>
         <div class="clearfix">
-            <div style="float:left; width: 120px; text-align: center;">
-                <div style="background-image: url(Image.ashx?src=http://i4.ytimg.com/vi/G3dquMQKyms/hqdefault.jpg&amp;w=120&amp;h=90);width:120px; height:90px;">
-                    <a href="/video/Muhammad_Ali___The_Greatest_Tribute.aspx"><img src="images/playarrow.png" alt="Muhammad Ali - The Greatest Tribute" style="border:0;margin-top:13px;">
+            <div style="float:left; width: 120px; text-align: center;display:none;" class="asyncLoader">
+                <div style="width:120px; height:90px;">
+                    <a href="/video/Muhammad_Ali___The_Greatest_Tribute.aspx"><img src="Image.ashx?src=http://i4.ytimg.com/vi/G3dquMQKyms/hqdefault.jpg&amp;w=120&amp;h=90&amp;playbtn=true" alt="Muhammad Ali - The Greatest Tribute" style="border:0;margin-top:13px;">
                 </a></div><a href="/video/Muhammad_Ali___The_Greatest_Tribute.aspx"><br>
                 <img src="/images/watchvideo.png" alt="Watch Video" style="border:0;margin-top:5px;" class="rolloverimage"></a>
             </div>
@@ -217,7 +226,7 @@
                 Rating:<br>
                 <div class="clearfix">
                     <div style="float: left;">
-                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_4_lblRatingSmall_4">17</span>
+                        <span id="Sidebar_TopVideos1_rptTopVideos_ctl00_4_lblRatingSmall_4">21</span>
                     </div>
                     <div style="float: left;">
                         <a href="javascript:vote(73,true,'Sidebar_TopVideos1_rptTopVideos_ctl00_4_lblRatingSmall_4')"><img src="/images/upvote_blue.png" alt="UpVote" style="margin-bottom: 2px;border:0;"></a><br>
@@ -246,20 +255,26 @@
 						</div>
 						<div style="float:left;" id="navigation">
 							<em>Navigation</em><br>
-							<a href="Funny.aspx">Funny</a> | <a href="Animals.aspx">Animals</a> | <a href="Cool.aspx">Cool</a> | <a href="Entertainment.aspx">Entertainment</a> | <a href="Extreme.aspx">Extreme</a> | <a href="Music.aspx">Music</a> | <a href="historynews.aspx">History/News</a>
+							<a href="Funny.aspx">Funny</a> | <a href="Animals.aspx">Animals</a> | <a href="Cool.aspx">Cool</a> | <a href="Entertainment.aspx">Entertainment</a> | <a href="Extreme.aspx">Extreme</a> | <a href="Music.aspx">Music</a> | <a href="historynews.aspx">History/News</a> | <a href="travel.aspx">Travel</a>
 							<br><br>
 							<em>EVTV1</em><br>
 							<a href="AboutUs.aspx">About Us</a> | <a href="TOC.aspx">Terms of Service</a> | <a href="Privacy.aspx">Privacy Policy</a> | <a href="ContactUs.aspx">Contact Us</a>
 							<hr>
 							<p style="text-align: center;">
-								Copyright 2012 © EVTV1
+								Copyright 2013 © EVTV1
 							</p> 
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-    </form>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("srcScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
 
 
 </body></html>
