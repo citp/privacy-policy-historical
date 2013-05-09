@@ -1,51 +1,76 @@
-> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193434id_/http%3A//menmedia.co.uk/manchestereveningnews/about_us/s/1241122_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509083131id_/http%3A//www.manchestereveningnews.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Manchester Evening News - menmedia.co.uk
+# Manchester Evening News: Number one for news, opinion, sport & celebrity gossip
 
-At MENMedia we collect information about our users for two main reasons:
+## Privacy Policy
 
-1\. To help us continually improve the service we offer.
+**IN RELATION TO ALL WEB SITE SERVICES OFFERED BY NCJ MEDIA LIMITED HERE ON THIS WEB SITE**
 
-2\. To use the details of our users for commercial and marketing purposes.
+We are committed to: protecting the personal information you give us telling you how we use the information we gather about you getting your consent to our disclosure of your personal information.
 
-**Our principles**
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. NCJ MEDIA LIMITED is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group.
 
-We are absolutely committed to protecting your privacy. Our policy can be summarised in one sentence: we will not share your information with others without your prior consent. We have also established the following four principles:
+**WHY WE COLLECT INFORMATION ABOUT YOU**  
 
-1\. We will continue to invest in the best quality security available and do our utmost to protect user privacy.
 
-2\. We will respect your e-mail privacy, and will send you unsolicited mail from MENMedia only if you have agreed to this.
+We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.
 
-3\. We will not pass on any individual user details (including your e-mail address) unless we have your prior consent.
+Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free.
 
-4\. Otherwise, we will only share aggregate statistics about our users, sales and traffic patterns with our advertisers.
+In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you.
 
-**What information do we collect?**
+We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.
 
-If you register to use the personalised areas of our sites, we will collect some basic information from you. This will include your name and email address, and, if you choose to supply them, your address, postcode and date of birth.
+**WHAT INFORMATION DO WE COLLECT FROM YOU?**  
 
-We also ask some further, voluntary questions so we can gain a clearer understanding of our users.
 
-When you enter a competition or other promotional feature, we may ask for personal details and e-mail.
+We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-**FAQs**
+We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our Cookie Policy which forms part of this Privacy Policy.
 
-How does MENMedia protect customer information?
+Where it is lawful, we may monitor emails you send and receive.
 
-We invest in market leading security and do our upmost to protect user privacy. UK Data Protection Legislation means we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
+**YOUR CONSENT**  
 
-Why does MENMedia use "cookies"?
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to identify registered users without needing to ask for registration details every time you access one of our sites.
+We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information.
 
-Will MENMedia disclose the information it collects to outside parties?
+If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email.
 
-MENMedia will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Also, MENMedia may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. MENMedia follow the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information.
+**HOW WE ENSURE PRIVACY IS MAINTAINED**  
 
-What if you change your policy in future?
 
-Any changes to our policy will be posted here.
+We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
 
-Tell us what you think.
+Please be aware that if you disclose information on chat areas, your Profile page, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
 
-MENMedia welcomes your questions and comments. Please email [webfeedback@menmedia.co.uk](mailto:webfeedback@menmedia.co.uk)
+Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information.
+
+Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us.
+
+**DISCLOSING YOUR INFORMATION AND YOUR CONSENT**  
+
+
+The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions. We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
+
+We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
+
+We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
+
+Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein
+
+**REALMEDIA AD SERVING TECHNOLOGY**  
+
+
+We use ad serving technology to display the ads on our web pages. We use the cookie feature of this technology to anonymously manage and report on the effectiveness of the ads that you see. No personal data such as your name, address or email address are used during this process.
+
+If you do not wish this to happen, you can either Click Here to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
+
+More information on this can be found in the "Help" section of the browser that you are using.
+
+ **OMNITURE ANALYTICS**  
+
+
+NCJMedia Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. NCJMedia Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of NCJMedia Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to NCJMedia Limited may be reassociated by NCJMedia Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
+
+Further information regarding Omniture's privacy statement can be found by clicking here.
