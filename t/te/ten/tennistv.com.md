@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108130939id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509161150id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TennisTV.com
 
