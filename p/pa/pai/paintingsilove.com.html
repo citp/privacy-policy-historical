@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paintingsilove.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230184352id_/http%3A//www.paintingsilove.com/home/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paintingsilove.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509150856id_/http%3A//paintingsilove.com/home/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <script type="text/javascript">var pil_startload = (new Date()).getTime()</script>
@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
+     <meta name="apple-mobile-web-app-title" content="PIL">
        
     
     <title>
@@ -18,14 +19,14 @@
     <meta name="description" content="Privacy - An art social network site to give you friendly feedback on your paintings and drawings.">
     
     
-    <link href="http://css.pilpix.com/Default-73.min.css" rel="stylesheet" type="text/css">
+    <link href="http://css.pilpix.com/Default-87.min.css" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]> <link href="http://css.pilpix.com/IE-2.css" rel="stylesheet" type="text/css"> <![endif]-->
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 
     
 
-    <script type="text/javascript" src="http://js.pilpix.com/Utils-59.min.js"></script>
+    <script type="text/javascript" src="http://js.pilpix.com/Utils-71.min.js"></script>
 
     
 </head>
@@ -38,24 +39,13 @@
                 to run properly.</h2>
         </noscript>
         
-
-<script type="text/javascript">
-    var vwd1 = 'Vie';
-    var vwd2 = 'wed';
-    function vwd() { document.write(vwd1); document.write(vwd2); }
-    var rtd1 = 'Ra';
-    var rtd2 = 'ted';
-    function rtd() { document.write(rtd1); document.write(rtd2); }
-</script>
-
 <div class="Header">
     <div class="HeaderTopMenu">
         <div>
             
-            <a href="/account/register" title="Register as a new member">join</a> | <a href="/account/signin" title="Log in to your account">sign in</a> | <a href="/home/page/help">help</a>
+            <a href="/account/register" title="Register as a new member">join</a> | <a href="/account/signin" title="Log in to your account">sign in</a> | <a href="http://paintingsilove.uservoice.com/knowledgebase">help</a><span id="goldHeader" style="display:none;"> | <a href="/home/goldmemberships" title="Upgrade to a Gold Membership"><span style="color:#c26527">upgrade</span></a></span>
             
         </div>
-
     </div>
     <div class="HeaderMenu HeaderMenu1" style="clear: both;">
         <ul class="sf-menu">
@@ -107,6 +97,7 @@
                             <li><a href="/group/groupswithyourpictures">Groups with Your Pictures</a></li>
                         </ul>
                     </li>
+                    <li><a href="/group/Sets">Popular Sets</a></li>
                     
                         
                     <li><a href="/group/challenges">Challenges</a></li>
@@ -148,21 +139,12 @@
                     <li><a class="GenreLink" href="/group/show/2215/most-favorited-artists" title="Artists in the most number of Special Favorited lists">Most Favorited Artists</a></li>
                 
                     <li><a href="/group/show/7/all-time-highest-rated-pictures" class="GenreLink" title="Pictures with the highest average rating">
-                        All Time Highest
-
-                        <script>                            rtd();</script>Rated
-
+                        All Time Highest Rated
                     </a></li>
-                    <li><a class="GenreLink" href="/group/show/554/highest-rated-artists" title="Artists with highest overall star average">Highest
-
-                        <script>                            rtd();</script>Rated
-
-                        Artists</a></li>
-                    <li><a class="GenreLink" href="/group/show/18/most-viewed-pictures-of-the-last-7-days" title="Pictures with the most views over the last 7 days">Most
-
-                        <script>                            vwd();</script>Viewed
-
-                        Pictures</a></li>
+                    <li><a class="GenreLink" href="/group/show/554/highest-rated-artists" title="Artists with highest overall star average">Highest Rated Artists</a></li>
+                    <li><a class="GenreLink" href="/group/show/18/most-viewed-pictures-of-the-last-7-days" title="Pictures with the most views over the last 7 days">Most Viewed Pictures</a></li>
+                    <li><a href="/group/show/4204/interesting-questions" title="Pictures with questions that have generated some discussion">Interesting Questions</a></li>
+                    
                 </ul>
             </li>
         </ul>
@@ -171,14 +153,21 @@
     </div>
     <div id="headerLogo">
         <a href="/">
-            <img src="http://images.pilpix.com/logo11.png"></a>
+            <img src="http://images.pilpix.com/logo13.png"></a>
     </div>
 
     <script type="text/javascript">
         $(function()
         {
             jQuery('ul.sf-menu').superfish();
+
+            if ($(window).width() >= 400 && $.cookie('gm') != '1')
+            {
+                $('#goldHeader').show();
+            }
+
         });
+        
     </script>
 
 </div>
@@ -190,15 +179,13 @@
     <div class="TopMenuDiv">
         <ul class="HorizontalList">
                 
-            <li><span class="TopMenuItem "><a class="GenreLink" href="/popular" title="The most recent highly rated pictures on the site.">
-                Popular</a></span> </li>
+             <li><span class="TopMenuItem "><a class="GenreLink" href="/favorited" title="Most recently favorited artists">Favorited</a></span>            
+            </li>
             <li><span class="TopMenuItem "><a class="GenreLink" href="/recommendations" title="Pictures you may like based on yours and others' ratings.">
                 Recommended</a></span> </li>
-                
+            <li><span class="TopMenuItem "><a class="GenreLink" href="/popular" title="The most recent highly rated pictures on the site.">
+                Popular</a></span> </li>                
         
-             <li><span class="TopMenuItem "><a class="GenreLink" href="/favorited" title="Most recently favorited artists">Favorited</a></span>
-            
-            </li>
             <li><span class="TopMenuItem "><a class="GenreLink" href="/newmembers" title="Pictures from new members">New Members</a></span>
                 </li><li><span class="TopMenuItem "><a class="GenreLink" href="/latest" title="Pictures recently uploaded">New&nbsp;Pictures</a></span>
                 </li>
@@ -270,7 +257,7 @@
 <div id="thumbnailPopup">
     <div style="text-align: center;">
         <a href="" id="thumbnailPicLink" class="PictureLink" data-image="thumbnail popup">
-            <img id="thumbnailPopupImage" class="Bordered" style="max-width: 200px; max-height: 200px;" alt="Loading" src="http://images.pilpix.com/logo80c.png"></a>
+            <img id="thumbnailPopupImage" class="Bordered" style="max-width: 200px; max-height: 200px;" alt="Loading" src="http://images.pilpix.com/logo80d.png"></a>
     </div>
     <div id="picImageDiv" style="margin:8px 8px 0 8px;">
         <div style="float: left; width: 60%">
@@ -316,70 +303,63 @@
             <li><a href="/popular" class="GenreLink">Popular pictures</a></li>
             <li><a href="/newmembers" class="GenreLink">New members</a></li>
             <li><a href="/latest" class="GenreLink">New pictures</a></li>
-            
-            <li><a href="/random" class="GenreLink">Random pictures</a></li>
-            
         </ul>
     </div>
     <div class="FooterMenu">
         <ul>
             <li><a href="/favorited">Favorited artists</a></li>        
-            <li><a href="/group/toprated" class="GenreLink">Top
-
-                <script>                    rtd();</script>Rated
-
-                pictures</a></li>
-            <li><a href="/group/popular">Popular groups</a></li>
-            <li><a href="/group/latest">New groups</a></li>
+            <li><a href="/group/toprated" class="GenreLink">Top rated pictures</a></li>
             <li><a href="/group/names">List of all groups</a></li>
             <li><a href="/group/groupsyouadminister">Your groups</a></li>
             <li><a href="/group/comments">Comment Generator</a> </li>
-            <li><a href="/titlegenerator">Title Generator</a></li>
         </ul>
     </div>
     <div class="FooterMenu">
         <ul>
-            <li><a href="/group/challenges">Challenges</a></li>
-            <li><a href="/critiques" title="In-depth critiques">Critique Corner</a></li>
+            <li><a href="/group/show/4204/interesting-questions">Interesting Questions</a></li>
             <li><a href="/recommendations" class="GenreLink">Recommendations</a></li>
+            <li><a href="/critiques" title="In-depth critiques">Critique Corner</a></li>
+            <li><a href="/group/challenges">Challenges</a></li>
+            <li><a href="/group/set">Sets</a></li>
         </ul>
     </div>
     <div class="FooterMenu">
         <ul>
             <li><a href="/home/goldmemberships" id="footerGold">Gold Memberships</a></li>
             <li id="footerRenew"><a href="/account/renew">Renew Membership</a></li>
-            <li><a href="/home/page/help">Help</a></li>
+            <li><a href="http://paintingsilove.uservoice.com/knowledgebase">Help</a></li>
             <li><a href="/home/page/terms">Terms &amp; Conditions</a></li>
             <li><a href="/home/page/privacy">Privacy</a></li>
-            
-            <li><a href="/home/page/advertise">Advertise</a></li>
             <li><a href="/home/page/help#contact">Contact us</a></li>
+            
         </ul>
     </div>
     <div class="clear">
     </div>
+
+
+
 </div>
 <div class="Footer">
     ©
-    2012
+    2013
     Seraline Pty Ltd. All rights reserved.<br>
     "Paintings I Love" and "Get Painting, Get Talking, Get Inspired" are trademarks
     of Seraline P/L.<br>
     Paintings and drawings are © their artist.<br>
     <span style="font-size: 80%">
-        Page created 30 Dec 18:43:52 GMT
-         0:004
+        Page created 09 May 15:08:56 GMT
+         0:003
 
-        <script type="text/javascript">
-            document.write(((new Date()).getTime() - pil_startload) / 1000);
-        </script>0.072
-
+            <span id="pilpageload"></span>
     </span>
 </div>
 
 <script type="text/javascript">
     $(function()
     {
+        $( '#pilpageload' ).text(( ( new Date() ).getTime() - pil_startload ) / 1000 );
+
         if ($.cookie('gm') != '1')
         {
             $('#footerGold').addClass('GoldHighlight');
