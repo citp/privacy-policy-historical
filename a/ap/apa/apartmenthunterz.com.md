@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223221454id_/http%3A//www.apartmenthunterz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509235218id_/http%3A//www.apartmenthunterz.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Apartment Hunters, California
 
@@ -120,9 +120,5 @@ Apartment Hunters is a general audience web site. Children should always ask a p
 ## Changes to this privacy policy
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-Apartment Hunters Inc.  
-201 N. Robertson Blvd. Ste. 210  
-Beverly Hills, CA 90211 
 
 ↑ back to top
