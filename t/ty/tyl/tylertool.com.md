@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylertool.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016194132id_/http%3A//www.tylertool.com/on/demandware.store/Sites-tyler-tool-Site/default/PrivacyPolicy-Show) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylertool.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509105247id_/http%3A//www.tylertool.com/on/demandware.store/Sites-tyler-tool-Site/default/PrivacyPolicy-Show) for the most accurate reproduction.*
 
 # Tyler Tool Privacy Policy
 
