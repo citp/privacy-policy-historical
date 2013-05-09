@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015105212id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509022514id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
 
 # AllBookstores.com Privacy Policy
 
@@ -20,4 +20,4 @@ Ads served by Google:
 
 
 
-© 1999-2012, AllBookstores.com | Portions of this page Copyright 1948-2012 Muze Inc. For personal non-commercial use only. All rights reserved. | [Sitemap](http://www.allbookstores.com/sitemap)
+© 1999-2013, AllBookstores.com | Portions of this page Copyright 1948-2013 Muze Inc. For personal non-commercial use only. All rights reserved. | [Sitemap](http://www.allbookstores.com/sitemap)
