@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iambic.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127093544id_/http%3A//www.iambic.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iambic.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509155318id_/http%3A//www.iambic.com/about/privacy.asp) for the most accurate reproduction.*
 
 # iambic, Inc. - Privacy Policy
 
