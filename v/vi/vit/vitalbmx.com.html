@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2012-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120909044203id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509122933id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="bmx" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--[if lte IE 8]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 <link href="http://assets.vitalmedianet.com/images/_bmx/favicon.ico" rel="shortcut icon"> 
 
 
@@ -40,20 +43,20 @@
     waitSeconds: 2
   });
 </script>
-<script src="http://assets.vitalmedianet.com/javascripts/vital.apps.js?1339632657" type="text/javascript"></script>
+
+<script type="text/javascript" src="/javascripts/vital.apps.js?1366225774"></script>
 <script type="text/javascript" charset="utf-8">
   require([
        "order!http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0.beta2/handlebars.min.js",
 	"order!underscore.js/1.3.1/underscore-min",
-	"120305_vital.comments",
 	"http://platform.twitter.com/widgets.js"
   ], function() {});
 
   if (window.location.pathname == '/') {
       var float_ad = false;
-      require(["111223_vital.homepage.min"]);
   }
 </script>
+
 
 <script type="text/javascript" charset="utf-8">
 (function(j$) {
@@ -62,7 +65,7 @@
 	$j.extend($j.user, null);
 })(jQuery);
 </script>
-<link href="http://assets.vitalmedianet.com/stylesheets/120111_main.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets.vitalmedianet.com/stylesheets/120111_main.min.css?1368077587" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <link href="http://assets.vitalmedianet.com/stylesheets/120305_comments.min.css " media="screen" rel="stylesheet" type="text/css">
 
@@ -92,6 +95,8 @@ s.parentNode.insertBefore(po, s);
 <meta property="og:site_name" content="Vital BMX"> 
 <meta property="og:image" content="http://assets.vitalmedianet.com/images/_bmx/vital_logo_90x90.gif"> 
 
+<meta property="og:type" content="article">
+
 
 
 
@@ -119,7 +124,7 @@ var addthis_config = {
 
   GA_googleAddSlot("ca-pub-6522912635984550", "BMX_features_main_300x600");
 
-  GA_googleAddSlot("ca-pub-6522912635984550", "BMX_homepage_bottom_728");
+  GA_googleAddSlot("ca-pub-6522912635984550", "BMX_homepage_bottom_728x300");
 
 
   GA_googleAddSlot("ca-pub-6522912635984550", "BMX_wallpaper_left_ROS_600x1080");
@@ -256,7 +261,7 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
 </div>
 <div id="main_nav_wrapper">
   <div id="main_nav">
-    <ul>
+    <ul class="clearfix">
       
       <li id="main_nav_home">
         
@@ -267,8 +272,18 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
       
       <li id="main_nav_community">
         
-        <a href="/community/main">Community</a>
+        <a href="/community/main">Bike Checks</a>
         
+        
+        <ul>
+        
+        <li><a href="/community/main">All Member Bike Checks</a></li>
+        
+        <li><a href="/community/bike_checks_leaderboard">Top Bike Checks</a></li>
+        
+        <li><a href="/profile_manager/setup_checks">Add Your Bike</a></li>
+        
+        </ul>
         
       </li>
       
@@ -283,7 +298,6 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         
         <li><a href="/profile_manager/photo_albums">Add Photos</a></li>
         
-        <div class="clearfix"></div>
         </ul>
         
       </li>
@@ -311,6 +325,8 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         
         <li><a href="/interbike2011">Interbike 2011</a></li>
         
+        <li><a href="/interbike2012">Interbike 2012</a></li>
+        
         <li><a href="/videos/mirracomustsee">Mirraco Must See</a></li>
         
         <li><a href="/videos/powerhour">Power Hour</a></li>
@@ -321,7 +337,6 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         
         <li><a href="/videos/new">Add Videos</a></li>
         
-        <div class="clearfix"></div>
         </ul>
         
       </li>
@@ -339,13 +354,12 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         
         <li><a href="/product/main">All BMX Parts</a></li>
         
-        <li><a href="/product/category/Bikes,6">BMX Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,6">BMX Bikes</a></li>
         
-        <li><a href="/product/category/Frames,7">Frames</a></li>
+        <li class="is_indented"><a href="/product/category/Frames,7">Frames</a></li>
         
-        <li><a href="/product/category/Cranks,10">Cranks</a></li>
+        <li class="is_indented"><a href="/product/category/Cranks,10">Cranks</a></li>
         
-        <div class="clearfix"></div>
         </ul>
         
       </li>
@@ -424,6 +438,8 @@ else vitalPage.showWallpaperAd();
   
   
   
+
+
 <div class="fb_share_info:hide_tmp" id="message_bar"> 
   <div class="inner"> 
 	<a href="https://graph.facebook.com/oauth/authorize?client_id=128366617182442&amp;redirect_uri=http://www.vitalbmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://assets.vitalmedianet.com/images/4li2k73z.gif" width="169"></a> &nbsp; 
@@ -437,6 +453,8 @@ else vitalPage.showWallpaperAd();
 <script type="text/javascript"> 
 vitalPage.messageBarInit();
 </script>
+
+
 
   <div class="content">
     
@@ -570,11 +588,26 @@ Irvine, CA 92612
 
 
   <script type="text/javascript"> 
-    GA_googleFillSlot("BMX_homepage_bottom_728");
+    GA_googleFillSlot("BMX_homepage_bottom_728x300");
   </script>
 
 </div>
 	
+	
+
+<script type="text/javascript">
+  $j('.footer_spotlights a').mouseover(function(){
+		var item = $j(this).parents('li');
+		item.find('.photo a').addClass('mouse-over');
+		item.find('a.link').addClass('mouse-over');
+	});
+	
+	$j('.footer_spotlights a').mouseout(function(){
+		var item = $j(this).parents('li');
+		item.find('.photo a').removeClass('mouse-over');
+		item.find('a.link').removeClass('mouse-over');
+	});
+</script>
 <div id="site_wide_links">
   <a href="/terms-of-use" rel="nofollow">Terms &amp; Conditions</a> | 
   <a href="/privacy-policy" rel="nofollow">Privacy Policy</a> | 
@@ -595,34 +628,14 @@ Irvine, CA 92612
 </ul>
 </div>
 
-<script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=vitalbrad"></script>
+<script src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=vitalbrad"></script>
+
   
 </div>
 <script type="text/javascript">
 vitalPage.adjustBgAdHeight();
 prepOutboundLinks();
 </script>
-
-<!-- Begin comScore Tag -->
-<script>
-    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-
-<script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:7514436,
-    c3:"",
-    c4:"",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7514436&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" />
-</noscript>
-<!-- End comScore Tag -->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
@@ -660,7 +673,7 @@ qacct:"p-5bUjnbj6Bo8KU"
   })();
 </script>
 <!-- Handlebars templates -->
-<script type="text/x-handlebars-template" id="user-widget-new-tmpl"><div class="user_widget"><div class="user_widget__inner"><div class="widget_header"><div class="widget_header__userpic"><a href="{{url}}" title="View{{nickname}}'s profile"><img alt="{{nickname}}" src="{{userpic}}" width="48" height="48"></a></div><div class="widget_header__username"><p class="cmmnt_username"><a href="{{url}}" title="View{{nickname}}'s profile">{{nickname}}</a></p><p class="cmmnt_timestamp timestamp">Member since:{{member_since}}</p></div><div class="x_close_link"><a title="Hide">Close</a></div></div><div class="widget_section">{{#if location}}<p>Location: <strong>{{location}}</strong></p>{{/if}}{{#if summary.stories}}<p>Posts: <a href="{{url}}#stories">{{summary.stories}}</a></p>{{/if}}{{#if summary.friends}}<p>Friends: <a href="{{url}}#friends">{{summary.friends}}</a></p>{{/if}}{{#if summary.photos}}<p>Photos: <a href="{{url}}#photos">{{summary.photos}}</a></p>{{/if}}{{#if summary.videos}}<p>Videos: <a href="{{url}}#videos">{{summary.videos}}</a></p>{{/if}}{{#if summary.setup_link}}<p>Setup: <a href="{{summary.setup_link}}">view</a></p>{{/if}}{{#if summary.forum_new_topics}}<p>Forum topics started: <a href="{{url}}#forum">{{summary.forum_new_topics}}</a></p>{{/if}}{{#if summary.forum_replies}}<p>Forum replies: <a href="{{url}}#forum">{{summary.forum_replies}}</a></p>{{/if}}{{#if summary.comments}}<p>Comments: <a href="{{url}}#comments">{{summary.comments}}</a></p>{{/if}}{{#if summary.reviews}}<p>Reviews: <a href="{{url}}#reviews">{{summary.reviews}}</a></p>{{/if}}{{#if summary.profile_comments}}<p>Profile comments: <a href="{{url}}#profile-comments">{{summary.profile_comments}}</a></p>{{/if}}</div>{{#if send_message_url}}<div class="widget_section"><p><a href="{{send_message_url}}" class="admin_link"><span>Send Message</span></a></p></div>{{/if}}</div></div></script>
+<script type="text/x-handlebars-template" id="user-widget-new-tmpl"><div class="user_widget"><div class="user_widget__inner"><div class="widget_header"><div class="widget_header__userpic"><a href="{{url}}" title="View{{nickname}}'s profile"><img alt="{{nickname}}" src="{{userpic}}" width="48" height="48"></a></div><div class="widget_header__username"><p class="cmmnt_username"><a href="{{url}}" title="View{{nickname}}'s profile">{{nickname}}</a></p><p class="cmmnt_timestamp timestamp">Member since:{{member_since}}</p></div><div class="x_close_link"><a title="Hide">Close</a></div></div><div class="widget_section">{{#if location}}<p>Location: <strong>{{location}}</strong></p>{{/if}}{{#if summary.stories}}<p>Posts: <a href="{{url}}#stories">{{summary.stories}}</a></p>{{/if}}{{#if summary.friends}}<p>Friends: <a href="{{url}}#friends">{{summary.friends}}</a></p>{{/if}}{{#if summary.photos}}<p>Photos: <a href="{{url}}#photos">{{summary.photos}}</a></p>{{/if}}{{#if summary.videos}}<p>Videos: <a href="{{url}}#videos">{{summary.videos}}</a></p>{{/if}}{{#if summary.setup_link}}<p>Bike Check: <a href="{{summary.setup_link}}">view</a></p>{{/if}}{{#if summary.forum_new_topics}}<p>Forum topics started: <a href="{{url}}#forum">{{summary.forum_new_topics}}</a></p>{{/if}}{{#if summary.forum_replies}}<p>Forum replies: <a href="{{url}}#forum">{{summary.forum_replies}}</a></p>{{/if}}{{#if summary.comments}}<p>Comments: <a href="{{url}}#comments">{{summary.comments}}</a></p>{{/if}}{{#if summary.reviews}}<p>Reviews: <a href="{{url}}#reviews">{{summary.reviews}}</a></p>{{/if}}{{#if summary.profile_comments}}<p>Profile comments: <a href="{{url}}#profile-comments">{{summary.profile_comments}}</a></p>{{/if}}</div>{{#if send_message_url}}<div class="widget_section"><p><a href="{{send_message_url}}" class="admin_link"><span>Send Message</span></a></p></div>{{/if}}</div></div></script>
 
 
 
