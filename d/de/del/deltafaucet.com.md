@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011204527id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509032924id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Delta Faucet
 
@@ -120,7 +120,7 @@ In some cases, we may provide hosting services for websites operated by third pa
 
 ### Third Party Advertisers
 
-We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Site and other websites, based on information relating to your access to and use of the Site and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [http://www.aboutads.info/](https://web.archive.org/web/20121011204527id_/http%3A//www.deltafaucet.com/www.aboutads.info/).
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Site and other websites, based on information relating to your access to and use of the Site and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [http://www.aboutads.info/](https://web.archive.org/web/20130509032924id_/http%3A//www.deltafaucet.com/www.aboutads.info/).
 
 ### Security
 
@@ -140,7 +140,7 @@ We will try to comply with your request(s) as soon as reasonably practicable. Pl
 
 **How you can access, change or suppress your Personal Information**
 
-If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, or object to the processing of the Personal Information you have provided to us, you may contact us by contacting Delta Faucet Company Help Line at 1-800-345-DELTA (3358) or [customerservice@deltafaucet.com](mailto:customerservice@deltafaucet.com).
+If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, or object to the processing of the Personal Information you have provided to us, you may contact us by contacting Delta Faucet Company Help Line at 1-800-345-DELTA (3358) or [customerservice@deltafaucet.com](mailto:customerservice@deltafaucet.com). If you want to opt-out of our SMS functionality, please view our [SMS Terms and Conditions](https://web.archive.org/sms-terms.html).
 
 In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
