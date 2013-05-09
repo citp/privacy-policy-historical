@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103010828id_/http%3A//www.younglife.org/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509164843id_/http%3A//www.younglife.org/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Young Life Privacy Policy and Conditions of Use
 
@@ -14,7 +14,7 @@ Young Life uses information you provide to better serve your requests. We do not
 
 **Security**
 
-To safeguard and secure the information we collect online, Young Life has applied appropriate physical, electronic and managerial procedures to prevent unauthorized access and maintain data accuracy. Internet encryption software, Secure Socket Layer (SSL) protocol, is utilized to protect sensitive data transmissions with credit card information. The padlock icon in the bottom of your browser’s window or a blue line around the window signifies that a site is secure. Sometimes password protection is used to protect your privacy and security.
+To safeguard and secure the information we collect online, Young Life has applied appropriate physical, electronic and managerial procedures to prevent unauthorized access and maintain data accuracy. Internet encryption software, Secure Socket Layer (SSL) protocol, is utilized to protect sensitive data transmissions with banking or credit card information. The padlock icon in the bottom of your browser’s window or a blue line around the window signifies that a site is secure. Sometimes password protection is used to protect your privacy and security.
 
 **Site Access –  Commercial Use**
 
