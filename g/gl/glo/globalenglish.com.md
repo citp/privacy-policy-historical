@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221132915id_/http%3A//www.globalenglish.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509030534id_/http%3A//www.globalenglish.com/privacy_policy/%3Fref%3DfooterPrivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | July 2012 | GlobalEnglish
 
@@ -127,8 +127,8 @@ If you have any questions, comments or concerns regarding our Privacy Policy and
 
 GlobalEnglish  
 Attn: Privacy Concerns/Legal Department  
-8000 Marina Boulevard, Suite 810  
-Brisbane, California 94005 USA
+2000 Sierra Point Parkway, Suite 300  
+Brisbane, CA 94005 USA
 
 ##    
 Safe Harbor
