@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116095604id_/http%3A//www.linkmarketservices.com.au/corporate/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509182437id_/http%3A//www.linkmarketservices.com.au/corporate/Privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -94,8 +94,8 @@ To provide you with access to personal information we collected under the AML/CT
 
 To access and/or correct such information, you may write to or call Link on the following:
 
-**Telephone:** | Sydney (02) 8280 7111  | Melbourne (03) 9615 9800   
----|---|---  
+**Telephone:** | 1300 554 474   
+---|---  
 **In writing:** | Level 12, 680 George Street,   
 SYDNEY NSW 2000  | Level 1, 333 Collins Street,   
 MELBOURNE VIC 3000   
