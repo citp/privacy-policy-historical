@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angryduck.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010172941id_/http%3A//www.angryduck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryduck.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509074619id_/http%3A//www.angryduck.com/privacy.htm) for the most accurate reproduction.*
 
 # Angry Duck Privacy Policy
 
