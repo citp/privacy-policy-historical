@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectacles.com privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204160720id_/http%3A//spectacles.com/%3Fpage_id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectacles.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509145210id_/http%3A//spectacles.com/%3Fpage_id%3D8) for the most accurate reproduction.*
 
 # Spectacles.com Privacy Policy
 
