@@ -1,81 +1,99 @@
-> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629192146id_/http%3A//www.woome.com/woome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093654id_/https%3A//www.zoosk.com/privacy.php%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
-# WooMe.com | Meet People Live in Voice and Video Online Speed Dating Sessions
+# Zoosk Privacy Policy | Zoosk.com
 
-WooMe's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using WooMe, located at [www.woome.com](http://www.woome.com/) and its directly associated domains (collectively, "WooMe" or "Website").
+## PRIVACY POLICY
 
-By using or accessing WooMe, you are accepting the practices described in this Privacy Policy.
+This Privacy Policy ("Policy") explains how information about you is collected, used and disclosed by Zoosk, Inc. and its subsidiaries and affiliates ("Zoosk," "we" or "us"). This Policy applies to all of the websites (including www.zoosk.com), products, applications (including mobile applications and applications and pages operated by Zoosk and available on social networking sites and other platforms and our downloadable products) and services offered by Zoosk wherever this Policy is displayed (collectively, the "Services").
 
-## The Information We Collect
+Please note that we are based in the United States of America. As such, any personal information you provide us with or is collected by us as detailed below is transferred to and processed by us in the United States of America (or other countries). By registering or subscribing to the Services, you agree to this transfer and processing.
 
-When you visit WooMe you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
+  1. ### INFORMATION WE COLLECT
 
-When you register with WooMe, you provide us with certain personal information, such as your name, your email address, your gender, schools attended and any other personal or preference information that you provide to us.
+    1. **Information You Provide.** When you register or subscribe to any of our Services, we may collect a variety of information, including your name, birth date, photographs, email address, password, phone number, including mobile phone number, billing information, credit card information and other contact or demographic information you provide. We also collect other profile data such as your personal interests and background, gender, age, geographical location and physical characteristics and any content or other communications you provide or make in connection with your use of the Services. We may also obtain information from other sources and combine that with information we collect through our Services.
 
-When you enter WooMe, we collect your browser type and IP address. This information is gathered for all WooMe visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to WooMe. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.
+    2. **Information Automatically Collected.** When you access our Services, our servers automatically record information that your browser sends whenever you visit a website, such as your IP address, browser type, Internet service provider, platform type, the site from which you came and the site to which you are going when you leave our website, date and time stamp and one or more cookies that may uniquely identify your browser or your account. When you access our Services using a mobile device, we may receive or collect your mobile device ID (often referred to as UDID), mobile carrier, device manufacturer and phone number. We also collect information about your usage of, and activity on, our Services. We may associate information we automatically collect with your personal information. We and service providers acting on our behalf, such as Google Analytics, use this information to understand and analyze trends, to administer our Services, to gather demographic information about our user base and to deliver you a more personalized experience.
 
-When you use WooMe, you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up sessions, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+    3. **Cookies and Other Technologies.** Our Services, email messages and advertisements may use "cookies" and other technologies such as pixel tags and Web beacons. "Cookies" are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Services and your experience. We use cookies to see which areas and features are popular and to count visits to our websites. We may also use cookies and other technologies to serve advertisements to you on our Services or on sites other than our websites. Web beacons and pixel tags are electronic images that may be used on our Services or in our emails. We use Web beacons and pixel tags to deliver cookies, count visits, understand usage and campaign effectiveness, prevent fraud and to tell if an email or advertisement has been opened and acted upon.
 
-You post User Content (as defined in the WooMe Terms of Use) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+    4. **Third Party Advertisers.** Any advertisers and advertising networks (which include third party ad servers, ad agencies, ad technology vendors and research firms) that serve ads or provide offers to our users, on our Services or on sites other than our websites, may also use their own cookies, web beacons, pixels and other tracking technologies. Such tracking technologies are governed by the privacy policies of the entities placing the ads, and are not subject to this Policy. You can visit networkadvertising.org [hyperlink] to see a list of advertising networks that typically serve these kinds of ads and to exercise your choice for those advertising networks. We do not control these advertisers or advertising networks or any other third parties whose websites may be linked from our Services or their practices. We recommend that your review the privacy statements of all third-party websites you visit.
 
-Any improper collection or misuse of information provided on WooMe is a violation of the WooMe Terms of Service and should be reported to [privacy@woome.com](mailto:privacy@woome.com).
+    5. **Social Networking Sites.** When you use our Services through a social networking site (a "Social Networking Site"), such as Facebook, where our Services are also referred to as an "application", you permit Zoosk to access certain information from your profile for that site. The information you permit Zoosk to access varies by Social Networking Site and is affected by the privacy settings you establish at such site. By using our Services through a Social Networking Site, you are authorizing Zoosk to collect, store, retain and use indefinitely, in accordance with this Privacy Policy, any and all information that you agreed the Social Networking Site could provide to Zoosk through the Social Networking Site application programming interface. Your agreement takes place when you "accept" or "allow" (or other similar terms) our application on a Social Networking Site.
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend email or instant messages inviting him or her to visit the site. WooMe stores this information to send invitations, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [info@woome.com](mailto:info@woome.com) to request that we remove this information from our database.
+  2. ### USE OF PERSONAL INFORMATION WE COLLECT
 
-WooMe may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the WooMe service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.
+We use the personal information we collect for purposes described in this Policy or disclosed to you on or in connection with our Services. Ways we may use information about you include:
 
-By using WooMe, you are consenting to have your personal data transferred to and processed in the United States.
+    * to operate, provide, maintain, develop, deliver, protect and improve our Services, products, applications, content and advertising and develop new products and services;
 
-## Children Under Age 18
+    * to maintain and administer your Zoosk account;
 
-WooMe does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register. If you are under 18, please do not attempt to register for WooMe or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 may provide any personal information to or on WooMe. In the event that we learn that we have collected personal information from a child under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at [info@woome.com](mailto:info@woome.com).
+    * to maintain and display your Zoosk profile;
 
-## Use of Information Obtained by WooMe
+    * to respond to your comments and questions and provide customer service;
 
-When you register with WooMe, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on WooMe. We may occasionally use your name and email address to send you notifications regarding new services offered by WooMe that we think you may find valuable.
+    * to detect and prevent abusive, fraudulent, malicious or potentially illegal activities, and to protect the rights, safety or property of Zoosk or our users;
 
-Profile information is used by WooMe primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it (i.e. What People Say About Me), other WooMe users may be able to supplement your profile.
+    * to enforce our Terms of Use Agreement;
 
-Profile information you submit to WooMe will be available to users of WooMe who belong to at least one of the networks you allow to access the information through your privacy settings (e.g., school, geography, friends of friends). Your name, woo names, and profile picture thumbnail will be available in search results across the WooMe network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you (friend, friend of friend, member of your networks, etc.) that allows such access based on your privacy settings.
+    * to keep you posted on our latest product or service announcements, software updates, security alerts and any technical notices;
 
-WooMe may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message or poke, or someone posts on your wall, you may receive an email alerting you to that fact.
+    * to communicate with you about new contests, promotions and rewards, upcoming events and other news about products and services offered by Zoosk and our selected partners;
 
-Generally, you may opt out of such emails here, though WooMe reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+    * to provide you with confirmation of purchases, invoices, support and administrative messages or notice about changes to our terms, conditions or policies;
 
-WooMe may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you WooMe. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they're more likely to be interesting to you. For example, if you put a favorite movie in your profile, we might serve you an advertisement highlighting a screening of a similar one in your town. But we don't tell the movie company who you are.
+    * to administer any contests or promotions;
 
-We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, WooMe Platform developers and other users of WooMe, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile (e.g., removing photo tag links).
+    * to perform other functions as otherwise described to you at the time of collection; and
 
-## Sharing Your Information with Third Parties
+    * to link or combine information about you with other information we get from third parties to help understand your needs and provide you with better service.
 
-WooMe is about sharing information with others — friends and people in your networks — while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends and networks through WooMe. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:
+Zoosk may store and process personal information in the United States and other countries.
 
-  * We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about WooMe, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the WooMe-specified purposes.
-  * If you, your friends, or members of your groups use any third-party applications developed using the WooMe Platform ("Platform Applications"), those Platform Applications may access and share certain information about you with others in accordance with your privacy settings. You may opt-out of any sharing of certain or all information through Platform Applications on the Privacy Settings page. In addition, third party developers who have created and operate Platform Applications ("Platform Developers"), may also have access to your personal information (excluding your contact information) if you permit Platform Applications to access your data. Before allowing any Platform Developer to make any Platform Application available to you, WooMe requires the Platform Developer to enter into an agreement which, among other things, requires them to respect your privacy settings and strictly limits their collection, use, and storage of your information. However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such Platform Developers, we of course cannot and do not guarantee that all Platform Developers will abide by such agreements. Please note that WooMe does not screen or approve Platform Developers and cannot control how such Platform Developers use any personal information that they may obtain in connection with Platform Applications. In addition, Platform Developers may require you to sign up to their own terms of service, privacy policies or other policies, which may give them additional rights or impose additional obligations on you, so please make sure to review these terms and policies carefully before using any Platform Application. You can report any suspected misuse of information through the WooMe Platform and we will investigate any such claim and take appropriate action against the Platform Developer up to and including terminating their participation in the WooMe Platform and/or other formal legal action.
-  * We occasionally provide demonstration accounts that allow non-users a glimpse into the WooMe world. Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse.
-  * We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the WooMe service or using the WooMe name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
-  * We let you choose to share information with marketers or electronic commerce providers through sponsored groups or other on-site offers.
-  * We may offer stores or provide services jointly with other companies on WooMe. You can tell when another company is involved in any store or service provided on WooMe, and we may share customer information with that company in connection with your use of that store or service.
-  * If the ownership of all or substantially all of the WooMe business, or individual business units owned by WooMe, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
+  3. ### SHARING PERSONAL INFORMATION WITH THIRD PARTIES
+
+Our Services allow you to share information about yourself with other individuals and other companies. Consider your own privacy and personal safety when sharing your information with anyone. Please review our [Online Dating Safety Tips](https://www.zoosk.com/safety.php?from=privacy) for tips. Also, when sharing information about others, please consider their safety and privacy and get their consent for that sharing.
+
+We do not share your personal information with third parties other than as follows:
+
+    * with your consent; for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
+
+    * to (i) satisfy any applicable law, regulation, subpoena, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of Zoosk, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address fraud, security or technical issues;
+
+    * in connection with any merger, sale of company assets, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy; and
+
+    * with third party vendors, consultants and other service providers that perform services on our behalf, in order to carry out their work for us.
+
+We may also share information with others in an aggregated form that does not directly identify you.
+
+  4. ### CHOICES
+
+    1. **Communications from Us.** You can opt out of receiving promotional messages from us such as emails, text messages and telephone calls by visiting the "settings" page of your account. If you opt out of our promotional communications, we may still send you non-promotional messages about your account or our ongoing business relations.
+
+    2. **Cookies.** You can generally remove or block most cookies using the settings in your browser. In some cases, however, our third party vendors may employ "Flash" cookies to help us detect fraudulent or abusive uses of the Services and we or our third party advertisers may also use these cookies. Flash cookies are managed through a different interface than your web browser and you can access your Flash cookie settings [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you choose to disable cookies, however, it may impact your ability to use our Services.
+
+    3. **Advertising.** Some advertising networks that display ads through our Services, or to our users on other sites, may be members of the National Advertising Initiative. To learn how to opt out of advertising targeting from its members visit [networkadvertising.org](http://www.networkadvertising.org/).
+
+    4. **Access to Your Information.** You may access and change your contact preferences and your information by visiting the "Profile" and "settings" sections of your account or by writing to us at the address provided below.
+
+  5. ### SECURITY
+
+Zoosk takes reasonable measures to help protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
+
+  6. ### PERSONS UNDER THE AGE OF 18
+
+Persons under the age of 18 are not eligible to use our Services.
+
+  7. ### UPDATES TO THIS POLICY
+
+We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the "Last Revision" date below and will post the updated Policy on this page.
+
+  8. ### CONTACTING ZOOSK
+
+If you have questions about this Policy, please contact us at privacy@zoosk.com or by writing to us at: Zoosk, Inc., Attn: Privacy Matters, 989 Market Street, San Francisco, CA 94103 
+  9. ### LAST REVISION DATE
+
+This Policy was last revised on August 11, 2011.
 
 
 
-When you use WooMe, certain information you post or share with third parties (e.g., a friend or someone in your network), such as personal information, comments, messages, photos, videos, Marketplace listings or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, Marketplace listings or other items , this information may become publicly available.
-
-WooMe will not sell, license or disclose registered users business contact information to third parties for marketing purposes without the registered user's consent. WooMe may occasionally send promotional email messages to registered users on behalf of third party businesses without disclosing registered user information to the third party businesses on whose behalf the promotional emails are sent.
-
-## Links
-
-WooMe may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by WooMe.
-
-## Security
-
-WooMe takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of WooMe Web Site, please contact us at [privacy@woome.com](mailto:privacy@woome.com).
-
-## Terms of Use, Notices and Revisions
-
-Your use of WooMe, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
-
-## Contacting the Web Site
-
-If you have any questions about this privacy policy, please contact us at [privacy@woome.com](mailto:privacy@woome.com). You may also contact us by snailmail at 3832 Hemmingway, Irvine, CA 92606.
