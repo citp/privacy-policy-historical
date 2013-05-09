@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the aphrodite1994.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015110737id_/http%3A//www.aphrodite1994.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aphrodite1994.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509032707id_/http%3A//www.aphrodite1994.com/privacy-policy) for the most accurate reproduction.*
 
-# Aphrodite Clothing Privacy Policy - Mens Designer Clothes - Aphrodite
+# Privacy Policy
 
-## Privacy Statement
-
-This privacy statement covers the site www.aphrodite1994.co.uk. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices, If users have questions or concerns regarding this statement, they should first contact Aphrodite Limited by email on privacy@aphrodite1994.co.uk
+This privacy statement covers the site www.aphrodite1994.com an online retailer of [mens designer clothes](http://www.aphrodite1994.com/ "Mens Designer Clothes"). Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices, If users have questions or concerns regarding this statement, they should first contact Aphrodite Limited by email on privacy@aphrodite1994.co.uk
 
 ## Information Collection and Use
 
