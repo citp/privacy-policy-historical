@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webprofits.com.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130190731id_/http%3A//privacy-policy.truste.com/verified-policy/www.webprofits.com.au) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webprofits.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509083717id_/http%3A//privacy-policy.truste.com/verified-policy/www.webprofits.com.au) for the most accurate reproduction.*
 
 # Privacy Policy for www.webprofits.com.au
 
