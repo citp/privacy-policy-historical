@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmwblog.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004052059id_/http%3A//www.bmwblog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwblog.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509114730id_/http%3A//www.bmwblog.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BMW BLOG
+# Privacy Policy
 
 **BMW BLOG** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
