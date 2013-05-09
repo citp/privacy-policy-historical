@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014140016id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509171223id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,15 +25,18 @@ The Teaching Ideas site does not collect any personal information from visitors 
 
 **The information that others collect:**
 
-Teaching Ideas uses a number of third party services to provide additional functionality to the site and its users. These services may use cookies. Find out more about cookies on our [cookies page](https://web.archive.org/web/20121014140016id_/http%3A//www.teachingideas.co.uk/cookies.htm). The third party services used on Teaching Ideas are:
+Teaching Ideas uses a number of third party services to provide additional functionality to the site and its users. These services may use cookies. Find out more about cookies on our [cookies page](https://web.archive.org/web/20130509171223id_/http%3A//www.teachingideas.co.uk/cookies.htm). The third party services used on Teaching Ideas are:
 
   * **Google Analytics** \- Teaching Ideas uses Google Analytics to track and monitor statistics about visitors to the site. You can read the [Google Analytics Privacy Overview here](http://www.google.com/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, Google provide [this browser add-on](http://tools.google.com/dlpage/gaoptout) which you can install on your computers.
   * **Advertisers** \- In order to provide free lesson ideas and educational resources, Teaching Ideas shows advertising, which are provided by the following services: 
     * Google Adsense and DFP - Read Google's Privacy information and opt out of targeted advertising [here](http://www.google.com/privacy/ads/).
     * Specific Media - Read Specific Media's Privacy policy and opt out of their user interest targeting cookie [here](http://www.specificmedia.com/privacy).
-    * Tango Media - Read Tango Media's Privacy Policy [here](http://tangomedia.co.uk/privacy.html).
     * Amazon.co.uk Affiliates - Read Amazon.co.uk's Privacy Notice [here](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502584).
     * Payloadz Affiliates - Read Payloadz Privacy Policy [here](https://www.payloadz.com/privacy.asp).
+    * Criteo - Read Criteo's Privacy information (and opt out of their advertising) [here](http://www.criteo.com/us/privacy-policy).
+    * TradeDoubler - Read [TradeDoubler's Privacy Notice](https://www.tradedoubler.co.uk/uk-en/legal/privacy.html) and set your [TradeDoubler targeting preferences](https://www.tradedoubler.co.uk/uk-en/legal/targeting.html).
+    * Lijit - Read Lijit's Privacy information [here](http://www.lijit.com/company/privacy-policy) and opt out of their targeted advertising [here](http://www.lijit.com/choices).
+    * Affiliate Window - Read Affiliate Window's Privacy Policy [here](http://blog.affiliatewindow.com/wp-content/uploads/2012/05/Digital-Window-Privacy-Policy-May-2012.pdf).
   * **Disqus Comments** \- Teaching Ideas uses a service from Disqus to allow visitors to comment on lesson ideas and share their own ideas / opinions. Comments are moderated and may be deleted if inappropriate / unsuitable for use on the site. Read Disqus' privacy policy [here](http://docs.disqus.com/help/30/).
   * **RSS / Email subscriptions** \- Visitors may subscribe to the site (for free) and receive information about the latest additions to Teaching Ideas by RSS and / or email. This service is provided by Google Feedburner. Find out more about Google's privacy principles at the [Google Privacy Center](http://www.google.com/intl/en/privacy/).
   * **Outbrain** \- Teaching Ideas uses Outbrain to provide users with links to relevant articles and resources across the site. Read Outbrain's privacy policy [here](http://www.outbrain.com/privacy).
