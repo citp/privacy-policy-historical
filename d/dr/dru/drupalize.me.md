@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalize.me privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223204328id_/http%3A//drupalize.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalize.me privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509082425id_/http%3A//drupalize.me/privacy) for the most accurate reproduction.*
 
 # Lullabot, Inc. Privacy Policy | Drupalize.Me
 
