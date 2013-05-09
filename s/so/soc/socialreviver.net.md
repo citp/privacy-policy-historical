@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920081634id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509224110id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for socialreviver.net ~ SocialReviver: The way YOU want Facebook to be!
 
@@ -10,9 +10,9 @@ Please note that the domains socialreviver.net, socialreviver.com, socialreviver
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at <https://www.vittgam.net/support/open.php?type=6>.
 
-An Italian version of the privacy policy for Italian users is available [here](http://www.socialreviver.net/it/privacy).
+An Italian version of the privacy policy for Italian users is available [here](https://secure.socialreviver.net/it/privacy).
 
-_This privacy policy only applies to this website. To see the terms of use for the extension please[click here](http://www.socialreviver.net/terms)._
+_This privacy policy only applies to this website. To see the terms of use for the extension please[click here](https://secure.socialreviver.net/terms)._
 
 ### Log Files
 
@@ -22,7 +22,7 @@ Like many other Web sites, socialreviver.net makes use of log files. The informa
 
 socialreviver.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. To do so, socialreviver.net uses cookies from Piwik (hosted by us) and Google Analytics (hosted by Google).
 
-Please [click here](http://www.socialreviver.net/cookie-info) to learn more about cookies in general and how to disable them.
+Please [click here](https://secure.socialreviver.net/cookie-info) to learn more about cookies in general and how to disable them.
 
 ### DoubleClick DART Cookie
 
