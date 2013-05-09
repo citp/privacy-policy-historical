@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eogn.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185945id_/http%3A//blog.eogn.com/eastmans_online_genealogy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eogn.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509224345id_/http%3A//blog.eogn.com/eastmans_online_genealogy/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Eastman's Online Genealogy Newsletter
 
