@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the orgie.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121104134id_/http%3A//www.freewebcamsex.com/privacy.html%3FAFNO%3D1-81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgie.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509235351id_/http%3A//www.freewebcamsex.com/privacy.html%3FAFNO%3D1-81) for the most accurate reproduction.*
 
 # Free Webcam Sex | Privacy
 
-[Home](http://www.freewebcamsex.com/) / Privacy Policy
+[Home](http://www.freewebcamsex.com/?AFNO=1-81) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
