@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rdxglobal.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015075642id_/http%3A//www.rdxglobal.com/privacy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdxglobal.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509035035id_/http%3A//www.rdxglobal.com/privacy-terms-conditions/index.html) for the most accurate reproduction.*
 
 # Privacy, Terms & Conditions | RDX Hotel Distribution Management Software
-
-## Privacy, Terms & Conditions
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this website. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
