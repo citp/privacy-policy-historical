@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102202206id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509154810id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy - Acxiom
 
@@ -12,10 +12,9 @@ Highlights and full privacy policy
 
 **Scope:**
 
-This policy applies to information collected on www.acxiomdigital.com. Acxiom Digital is a wholly owned subsidiary of Acxiom Corporation.
-
-| **[](http://www.truste.org/ivalidate.php?url=www.acxiomdigital.com&sealid=101)**  
----|---  
+This policy applies to information collected on www.acxiomdigital.com. Acxiom Digital is a wholly owned subsidiary of Acxiom Corporation.  
+  
+---  
 **Information Collection and Use:**  
   
   * This website allows you to request information from Acxiom, register for special offers, seminars or demonstrations, participate in surveys and contests, download thought leadership papers, and subscribe to some of Acxiom’s products and services. The information you provide about you and your company will be used to support your relationship with Acxiom. 
@@ -49,9 +48,7 @@ This privacy statement applies solely to information collected by Acxiom on www.
 
 **Compliance**
 
-Acxiom is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.acxiomdigital.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Acxiom at [privacy@acxiom.com](mailto:privacy@acxiom.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Acxiom at [privacy@acxiom.com](mailto:privacy@acxiom.com).
 
 **INFORMATION COLLECTION AND USE**
 
@@ -127,6 +124,6 @@ If at any point we decide to use personally identifiable information in a manner
 
 In the event Acxiom is purchased, data collected on this site will be one of the transferred assets.
 
-[**Acxiom's P3P Privacy Summary**](https://web.archive.org/web/20110102202206id_/http%3A//www.acxiomdigital.com/p3p_privacy.asp) provides descriptions of information collection activities performed by Acxiom on behalf of our clients using our email marketing ASP products. The summary also addresses information collected on client websites by Acxiom on behalf of clients using Acxiom's web page-hosting services and/or website tracking and analysis service.
+[**Acxiom's P3P Privacy Summary**](https://web.archive.org/web/20130509154810id_/http%3A//www.acxiomdigital.com/p3p_privacy.asp) provides descriptions of information collection activities performed by Acxiom on behalf of our clients using our email marketing ASP products. The summary also addresses information collected on client websites by Acxiom on behalf of clients using Acxiom's web page-hosting services and/or website tracking and analysis service.
 
 Effective Date: October 7, 2009
