@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the driverguide.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015015806id_/http%3A//www.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driverguide.com privacy policy that was archived on 2013-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509085006id_/http%3A//www.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy Policy</title>
@@ -36,372 +36,142 @@ video driver,
 soundcard drivers,">
 <meta name="google-site-verification" content="biZuilyZT3JqoBP9vSAU4PNrFbClS8m7_u-pzZUwe7s">
 <meta name="msvalidate.01" content="24CB29CAD58E186FD4BBB1FB4E845B12">
-<link rel="stylesheet" href="http://members.driverguide.com/css/multi.php?c0=common&amp;c1=common_v3"><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://members.driverguide.com/javascripts/?j0=javascripts%2Fcommon.js&amp;j1=javascripts%2Finline%2FActionQueue.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
+<link rel="stylesheet" href="http://members.driverguide.com/css/multi.php?c0=common&amp;c1=common_v3"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript"><!--
+/**
+ * Specify and instantiate a queue for running actions.
+ *
+ * Copyright 2012 iCentric Corporation, All Rights Reserved.
+ **/
+function icx_ActionQueue () {
+    var self = this;
+
+    /** Actions to be run when the body's onLoad event occurs. **/
+    var _bodyOnLoad = [];
+
+    /** ID to be used for the next body onLoad action. **/
+    var _nextBodyOnLoadId = 0;
+
+    /** Associative keys specify features disabled for debugging. **/
+    var _disabled = {};
+    
+    /**
+     * Adds the given action to the queue to be run when the body's
+     * onLoad event occurs or when other conditions are met.  The
+     * params argument is optional and can be set to an object whose
+     * properties further specify behavior.  Valid properties within
+     * the params argument include:
+     *
+     *   waitTimeout - Timeout, in milliseconds, after which the
+     *     action will be run if the onLoad event has not occurred
+     *     yet.  An action will run at most once.
+     *
+     *   order - Order that the action should be run in with respect
+     *     to other actions.  Lower order numbers are run first.  50
+     *     is the default for regular code.  Numbers 5 and below are
+     *     reserved for special usage.  Actions with the same order
+     *     number are run in the order added.
+     *
+     * @return the ID of the action's entry in the queue
+     **/
+    self.addBodyOnLoad = function (action, params) {
+        
+        // short circuit if the onLoad event has already occurred
+        
+        if (_bodyOnLoad == null) {
+            if (!_disabled.runBodyOnLoad) action();
+            return;
+        }
+        
+        // add to queue
+        
+        if (typeof(params) != "object") params = {};
+        if (typeof(params.order) != "number") params.order = 50;
+        var id = _nextBodyOnLoadId++;
+        _bodyOnLoad.push([id, action, params]);
+        
+        // add timeout
+        
+        if (typeof(params.waitTimeout) == "number" &&
+            params.waitTimeout > 0) {
+            var runSooner = function() {
+                if (!_disabled.bodyOnLoadWaitTimeout &&
+                    self.removeBodyOnLoad(id) != null) {
+                    action();
+                }
+            }
+            window.setTimeout(runSooner, params.waitTimeout);
+        }
+    }
+    
+    /**
+     * Removes the action with the given queue ID from the queue to be
+     * run when the body's onLoad event occurs.
+     *
+     * @return the action which was removed, or null
+     **/
+    self.removeBodyOnLoad = function (actionQueueId) {
+        if (_bodyOnLoad == null) return null;
+        for (var actionIndex = 0; actionIndex < _bodyOnLoad.length; actionIndex++) {
+            var actionHolder = _bodyOnLoad[actionIndex];
+            if (actionHolder[0] == actionQueueId) {
+                _bodyOnLoad.splice(actionIndex, 1);
+                return actionHolder[1];
+            }
+        }
+        return null;
+    }
+    
+    /**
+     * Runs actions that were queued to be run when the body's onLoad
+     * event occurs and removes those actions from the queue.  This
+     * method should be called from the "body" "onload" HTML
+     * attribute, ideally at the very beginning and ideally as the
+     * only code run.  It should be called exactly once for a document
+     * once the onLoad event occurs.
+     **/
+    self.runBodyOnLoad = function () {
+        if (_bodyOnLoad == null) return;
+        if (_disabled.runBodyOnLoad) return;
+        var queue = _bodyOnLoad;
+        _bodyOnLoad = null;
+        var compare = function (entry1, entry2) {
+            if (entry1[2].order < entry2[2].order) return -1;
+            if (entry1[2].order > entry2[2].order) return  1;
+            if (entry1[0] < entry2[0]) return -1;
+            if (entry1[0] > entry2[0]) return  1;
+            return 0;
+        };
+        queue.sort(compare);
+        for (var actionIndex = 0; actionIndex < queue.length; actionIndex++) {
+            var action = queue[actionIndex][1];
+            try {
+                action();
+            } catch (err) {
+            }
+        }
+    }
+    
+    /**
+     * @return boolean flag indicating whether the method
+     *         runBodyOnLoad() has been called yet.
+     **/
+    self.isRunBodyOnLoadCalled = function () {
+        if (_bodyOnLoad == null) return true;
+        else return false;
+    }
+
+    /** Disables the named feature, for debugging purposes. **/
+    self.disable = function (feature) {
+        _disabled[feature] = true;
+    }
+
+}
+
+if (typeof icx == "undefined") icx = {};
+icx.actionQueue = new icx_ActionQueue();
 icx.actionQueue.addBodyOnLoad(function(){StatDisplayOnLoad();});
 // --></script>
 <link rel="search" type="application/opensearchdescription+xml" title="DriverGuide" href="http://members.driverguide.com/opensearch.php">
-<script language="JavaScript">
-<!--
-
-/**
- * JavaScript light chat observer Copyright 2006 iCentric Corporation,
- * All Rights Reserved.
- **/
-
-// initialize configuration options
-
-var MAX_TICK_TIME = 1 * 60 * 60 * 1000; // 1 hour
-var MIN_TICK_TIME = 100; // 1/10 second
-var UPDATING_TICK_TIME = 500; // 1/2 second
-var EVENT_DELAY = 3 * 60 * 1000; // 3 minutes
-var POLL_TIME = ( 2 * 60 + 45 ) * 1000; // 2 minutes 45 seconds
-var COORDINATION_TIME =  2500; // 2.5 seconds
-var CHAT_COOKIE_TIMEOUT = 90 * 1000; // 90 seconds
-var FULL_CHAT_URL = "http://chat.driverguide.com/chat/?1=1";
-
-// initialize state variables
-
-var timeDefecit = 0;
-var firstEvent = null;
-var lastEvent = null;
-var incomingEvents = null;
-var incomingEventsRequest = null;
-var chatDiv = null;
-var nickList = null;
-var request = null;
-var lastUpdateAt = 0;
-var maxSerial = null;
-var chatVisible = true;
-var fullChatWindow = null;
-var authoritativeTick = 0;
-
-/**
- * Initializes and starts the light chat observer.
- *
- * @return nothing
- **/
-function startChatObserver () {
-    chatObserverTick(0);
-    var container = document.getElementById("pfc_container");
-    container.style.backgroundColor = "#ffffff";
-    container.style.backgroundImage = "url('http://members.driverguide.com/images/phpfreechat/shade.png')";
-}
-
-/**
- * Handles intermittent actions necessary for updating the light chat
- * observer.
- *
- * @return nothing
- **/
-function chatObserverTick (tickId) {
-    if (tickId != authoritativeTick) return;
-    var sleepTime = MAX_TICK_TIME;
-    var potentialSleepTime;
-    potentialSleepTime = updateCoordination();
-    if (potentialSleepTime < sleepTime) sleepTime = potentialSleepTime;
-    potentialSleepTime = handleEvents();
-    if (potentialSleepTime < sleepTime) sleepTime = potentialSleepTime;
-    potentialSleepTime = fetchUpdate();
-    if (potentialSleepTime < sleepTime) sleepTime = potentialSleepTime;
-    if (sleepTime < MIN_TICK_TIME) sleepTime = MIN_TICK_TIME;
-    setTimeout("chatObserverTick("+tickId+")", sleepTime);
-}
-
-/**
- * Processes previously retrieved events.
- *
- * @return the maximum sleep time before this or any other update
- *         method should be called again
- **/
-function handleEvents () {
-    
-    // append new events
-    
-    if (incomingEvents != null) {
-        for (var i = 0; i < incomingEvents.length; i++) {
-            var eventNode = incomingEvents[i];
-            if (firstEvent == null) {
-                firstEvent = Array(eventNode, null, incomingEventsRequest);
-                lastEvent = firstEvent;
-            } else {
-                lastEvent[1] = Array(eventNode, null, incomingEventsRequest);
-                lastEvent = lastEvent[1];
-            }
-        }
-        incomingEvents = null;
-    }
-
-    // pick out events that are old enough
-
-    var now = new Date().getTime() + timeDefecit;
-    while (firstEvent != null) {
-        var eventNode = firstEvent[0];
-        var eventTime = eventNode.getAttribute("time");
-        if (now - eventTime < EVENT_DELAY) break;
-        
-        // process the event
-        
-        var eventType = eventNode.getAttribute("type");
-        if (eventType == "addMessage") {
-            var message = document.createElement('div');
-            message.innerHTML = eventNode.firstChild.nodeValue;
-            chatDiv.appendChild(message);
-            chatDiv.scrollTop += chatDiv.offsetHeight+2;
-        } else if (eventType == "addNick") {
-            var nick = document.createElement('div');
-            nick.innerHTML = eventNode.firstChild.nodeValue;
-            nickList.appendChild(nick);
-        } else if (eventType == "removeById") {
-            var toRemove = document.getElementById(eventNode.getAttribute("idToRemove"));
-            if (toRemove != null) {
-                toRemove.parentNode.removeChild(toRemove);
-            }
-        } else if (eventType == "removeAllNicks") {
-            while (nickList.lastChild != null) {
-                nickList.removeChild(nickList.lastChild);
-            }
-        } else {
-            handleError("Unknown event type: "+eventType);
-        }
-        
-        // remove event from queue
-        
-        firstEvent = firstEvent[1];
-        if (firstEvent == null) {
-            lastEvent = null;
-        }
-    }
-
-    // determine the relevant sleep time
-
-    if (firstEvent == null) return MAX_TICK_TIME;
-    var eventNode = firstEvent[0];
-    var eventTime = eventNode.getAttribute("time");
-    now = new Date().getTime() + timeDefecit;
-    return  EVENT_DELAY - (now - eventTime);
-}
-
-/**
- * Handles errors.
- *
- * @return nothing
- **/
-function handleError (error) {
-    //alert(error);
-}
-
-/**
- * Processes previously retrieved events.
- *
- * @return the maximum sleep time before this or any other update
- *         method should be called again
- **/
-function fetchUpdate () {
-
-    // if a fetch is in progress, update frequently
-
-    if (request != null) return UPDATING_TICK_TIME;
-
-    // can't update yet if last update hasn't been processed yet
-
-    if (incomingEvents != null) return UPDATING_TICK_TIME;
-
-    // determine if an update is needed now
-
-    var remaining = POLL_TIME - (new Date().getTime() - lastUpdateAt);
-    if (remaining > 0) return remaining;
-    
-    // create the request object
-    
-    if (window.XMLHttpRequest) {
-        request = new XMLHttpRequest();
-    } else if (window.ActiveXObject) {
-        request = new ActiveXObject("Microsoft.XMLHTTP");
-    }
-    if (request == null) {
-        handleError("Support not found for XMLHttpRequest");
-        return MAX_TICK_TIME;
-    }
-    
-    // issue the request
-
-    lastUpdateAt = new Date().getTime();
-    request.onreadystatechange = handleServerResponse;
-    var url = "/chat/get_update_xml.php?ac=" + new Date().getTime();
-    url = url + "&language=" + document.light_chat_launcher.language_select.options[document.light_chat_launcher.language_select.selectedIndex].value;
-    if (maxSerial != null) url = url + "&after=" + maxSerial;
-    request.open("GET", url, true);
-    request.send("");
-    return UPDATING_TICK_TIME;
-}
-
-/**
- * Asynchronously processes the XML returned from the server.
- *
- * @return nothing
- **/
-function handleServerResponse () {
-    if (request == null) return;
-    if (request.readyState != 4) return;
-    if (request.status != 200) return;
-    incomingEvents = request.responseXML.getElementsByTagName("event");
-    incomingEventsRequest = request;
-    var nowLocal = new Date().getTime();
-    lastUpdateAt = nowLocal;
-    var topNode = request.responseXML.getElementsByTagName("update");
-    if (topNode.length > 0) {
-        topNode = topNode[0];
-        timeDefecit = topNode.getAttribute("time") - nowLocal;
-        maxSerial = topNode.getAttribute("maxSerialNumber");
-    }
-    request = null;
-}
-
-/**
- * Updates the display based on whether the full chat window is currently being shown.
- *
- * @return the maximum sleep time before this or any other update
- *         method should be called again
- **/
-function updateCoordination () {
-
-    // determine whether the real chat window is open
-
-    var realChat = getFullChatWindow();
-    var realChatOpen = realChat != null;
-    var cookies = document.cookie;
-    cookies = cookies.split("; ");
-    for (var i = 0; i < cookies.length; i++) {
-        var cookie = cookies[i].split("=");
-        if (cookie[0] == "chat") {
-            if (cookie[1] == "0") {
-                realChatOpen = false;
-            } else {
-                if (new Date().getTime() - cookie[1] < CHAT_COOKIE_TIMEOUT) {
-                    realChatOpen = true;
-                }
-            }
-            break;
-        }
-    }
-    
-    // change the chat display, if needed
-    
-    if (realChatOpen == chatVisible) {
-        var container = document.getElementById("pfc_container");
-        if (realChatOpen) {
-            container.style.display = "none";
-            chatVisible = false;
-        } else {
-            container.style.display = "block";
-            chatVisible = true;
-            chatDiv.scrollTop += chatDiv.offsetHeight+2;
-        }
-    }
-
-    // change the refocus display, if needed
-
-    var refocusElement = document.getElementById("pfc_refocus");
-    var refocusDisplay = "none";
-    if (realChat != null && realChatOpen) refocusDisplay = "block";
-    if (refocusElement.style.display != refocusDisplay) {
-        refocusElement.style.display = refocusDisplay;
-    }
-
-    // update on a regular basis
-    
-    return COORDINATION_TIME;
-}
-
-/**
- * Shows the full chat in another window.
- *
- * @return nothing
- **/
-function showFullChat () {
-    fullChatWindow = getFullChatWindow();
-    if (fullChatWindow == null) {
-        var url = FULL_CHAT_URL;
-        url = url + "&icx_accept_language=" + document.light_chat_launcher.language_select.options[document.light_chat_launcher.language_select.selectedIndex].value;
-        fullChatWindow = window.open(url, "icx_phpfreechat");
-    }
-    if (fullChatWindow != null) {
-        fullChatWindow.focus();
-    }
-}
-
-/**
- * Validates and returns the reference to the full chat window or null
- * if no valid reference is available.
- *
- * @return a reference to the full chat window or null
- **/
-function getFullChatWindow () {
-    if (fullChatWindow == null) return null;
-    if (fullChatWindow.closed) return null;
-    /*
-    
-    This is disabled because it does not work with different host names
-    
-    @:NOTE: if this is ever re-instated, the language/room should be considered as well
-    
-    try {
-        if (fullChatWindow.location != FULL_CHAT_URL) return null;
-    } catch (e) {
-        return null;
-    }
-    */
-    return fullChatWindow;
-}
-
-/**
- * This function is called to notify this page that the full chat
- * window has been closed.
- *
- * @return nothing
- **/
-function fullChatClosed () {
-    fullChatWindow = null;
-}
-
-/**
- * This function should be called when the user changes the language
- * selection.
- *
- * @return nothing
- **/
-function updateLanguage () {
-
-    // reset state
-
-    while (nickList.lastChild != null) {
-        nickList.removeChild(nickList.lastChild);
-    }
-    while (chatDiv.lastChild != null) {
-        chatDiv.removeChild(chatDiv.lastChild);
-    }
-    incomingEvents = null;
-    request = null;
-    lastUpdateAt = 0;
-    maxSerial = null;
-    
-    // start monitoring new room
-    
-    setTimeout("chatObserverTick("+(++authoritativeTick)+")", 200);
-
-    // save the choice of language - @:NOTE: similar code exists one
-    // other place (in a phpFreeChat template)
-
-    var now = new Date();
-    var expiresAt = new Date();
-    expiresAt.setTime(now.getTime() + 90 * 24 * 60 * 60 * 1000); // 90 days
-    var cookieValue = document.light_chat_launcher.language_select.options[document.light_chat_launcher.language_select.selectedIndex].value;
-    document.cookie = "icx_accept_language=" + cookieValue + "; expires=" + expiresAt.toGMTString() + "; domain=driverguide.com; path=/";
-}
-
-// -->
-</script>
 
 
 
@@ -425,7 +195,7 @@ function updateLanguage () {
 </head>
 <body onload="icx.actionQueue.runBodyOnLoad();" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <!--INFOLINKS_OFF-->
-<div id="no-itxt"><div id="infobar"><a href="http://members.driverguide.com/ums/index.php?action=rc&amp;ib=1"><p>Register now to join the DriverGuide community - It's FREE!!! &nbsp;&nbsp;To register please click here...</p></a></div></div>
+<div id="infobar2"><a href="http://members.driverguide.com/index.php?action=doc&amp;page=docs__premium__pro__ib"><p><strong>GO PREMIUM!</strong> &nbsp;DriverGuide Premium Members get <strong>Direct Downloads</strong> and browse <strong>Ad Free</strong>!  &nbsp;Only $14.95/year. &nbsp;30 day money back guarantee.  &nbsp;<strong>Limited Time Special Offer!</strong></p></a></div>
 
 
 <div id="DGcontent">
@@ -478,15 +248,10 @@ function StatDisplayOnLoad() {
     color: #fff;     
     
 }
-    /*width: 250px;
-    text-align:right;*/
-.ooheaderSearchText {
-    width: 300px;
-}
 .headerSearchInput {
     font-style:italic;
-    width: 175px;
-    font-size:10px;
+    width: 240px;
+    font-size:15px;
     font-family:Arial, Helvetica, sans-serif;
     color: #000; 
 float: right;    
@@ -499,15 +264,17 @@ float: right;
     margin-left: 3px;
 }
 .headerSearchSubmitInput {
-    width: 50px;
+    width: 70px;
     float: right;
-    font-size:10px;
+    font-size:16px;
+    margin-left: 3px;
     font-family:Arial, Helvetica, sans-serif;
     color: #000;     
 }
 </style>
 <form action="http://members.driverguide.com/driver_search.php" method="GET" onsubmit="if (this.q.value != this.q.defaultValue &amp;&amp; this.q.value != '') return true; alert('Please enter a model name/number'); return false;">
     <input type="hidden" name="initial" value="1">
+    <input type="hidden" name="ref" value="h2">
     <div class="headerSearch">
 	    <div class="headerSearchSubmit"><input class="headerSearchSubmitInput" type="submit" value="Search"></div>
 	    <div class="headerSearchText"><label for="name"></label> <input class="headerSearchInput" type="text" id="headerSearchName" name="q" value="Enter device model name/number" onblur="" onfocus="if (this.value == this.defaultValue) this.value='';"></div>	    
@@ -519,9 +286,8 @@ float: right;
                    <ul class="tabs">  
                    <li class="selected"><a href="http://www.driverguide.com/">Home</a></li>  
                    <li class=""><a href="http://scan.driverguide.com/scan.php">Scan Your PC</a></li>  
-                   <li class=""><a href="http://members.driverguide.com/guide/index.php">Guides</a></li>  
                    <li class=""><a href="http://members.driverguide.com/index.php?action=wizard_step_1">Browse</a></li>
-                   <li class=""><a href="http://members.driverguide.com/community/">Community</a></li>  
+                   <li class=""><a href="http://forums.driverguide.com">Forums</a></li>  
                    <li class=""><a href="http://members.driverguide.com/support/">Support</a></li>    
                    <li class=""><a href="http://members.driverguide.com/my/">My DG</a></li> 
                    </ul>
@@ -700,7 +466,7 @@ For questions about DriverGuide Premium Memberships, please use our <a href="htt
 
 
 </tbody></table>
-<br><br><br><br><br><br><div class="google300x250BoxFooter">
+<br><br><br><br><br><br><br>
 <script type="text/javascript"><!--
 google_ad_client = "pub-4727129938051271";
 /* 300x250, created 8/1/08 */
@@ -711,102 +477,8 @@ google_ad_height = 250;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-</div>
-
-<br clear="all">
-<div class="google300x250TextFooter">
-Advertisement
-</div>
-
-<!--
-
-  Begin chat section
-
-  HTML of chat section derived from phpFreeChat, Copyright 2006
-  Stephane Gully.  See style sheet note above for downloading and
-  licensing information.
-
--->
-
-<br clear="all">
-<div id="pfc_container">
- 
-  <div id="pfc_content_expandable">                
-
-  <div id="pfc_channels">
-    <ul id="pfc_channels_list"><li></li>
 
 
-    <li class="selected" classname="selected">
-      <div>
-        <span id="pfc_tabtitle">
-Driver Chat
-        </span>
-      </div>
-    </li>
-
-
-    </ul><div id="pfc_channels_content">
-
-
-<div id="pfc_chat_div" class="pfc_chat" classname="pfc_chat" style="display: block;">
-</div>
-
-<div id="pfc_online" class="pfc_online" classname="pfc_online" style="display: block; z-index: 100;">
-    <ul id="pfc_nick_list">
-    </ul>
-</div>
-    </div>
-
-
-
-  </div>
-
-  </div>
-
-&nbsp;<br>
-<center>
-<form onsubmit="return false;" name="light_chat_launcher">
-<select name="language_select" onchange="updateLanguage()">
-<option value="en" selected="">English</option>
-<option value="pt">Português</option>
-<option value="es">Español</option>
-<option value="tr">Türkçe</option>
-<option value="nl">Nederlands</option>
-<option value="it">Italiano</option>
-<option value="fr">Français</option>
-</select>
-
-<input type="submit" style="border: 1px solid #555555;" onclick="showFullChat()" value="                 Click to Chat                 ">
-</form>
-</center>
-
-</div>
-
-<!--
-
-  End phpFreeChat derived HTML
-
--->
-
-<div id="pfc_refocus" style="display: none; border: 1px solid #555555; padding: 30px; text-align: center;">
-Chat launched in another window.
-<br>&nbsp;<br>
-<form onsubmit="return false;">
-<input type="submit" style="border: 1px solid #555555;" onclick="showFullChat()" value="                              Click to Go to Chat Window                              ">
-</form>
-</div>
-
-<script language="JavaScript">
-<!--
-var chatDiv = document.getElementById("pfc_chat_div");
-var nickList = document.getElementById("pfc_nick_list");
-icx.actionQueue.addBodyOnLoad(function(){startChatObserver();},
-                              {waitTimeout: 15 * 1000, order: 60});
-// -->
-</script>
-
-<br>
 </td></tr>
 </tbody></table>
 
@@ -832,9 +504,7 @@ icx.actionQueue.addBodyOnLoad(function(){startChatObserver();},
                        <li class="DGfirst">Site</li>
                        <li><a href="http://members.driverguide.com/index.php?action=begin">Beginner's Guide</a></li>
                        <li><a href="http://members.driverguide.com/index.php?action=faq">F.A.Q.</a></li>
-                       <li><a href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__advertising">Advertise with us</a></li>
-                       <li><a href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__hiring">Now
-                           Hiring</a></li>
+                       <li><a href="http://blog.driverguide.com">Blog</a></li>
                        <li><a href="http://members.driverguide.com/ums/unsubscribe.php">Unsubscribe</a></li>
                        </ul>
            </div>
@@ -844,11 +514,9 @@ icx.actionQueue.addBodyOnLoad(function(){startChatObserver();},
           <div class="DGfooterInRight">
                        <ul style="DGfooterLinks" type="none">
                        <li class="DGfirst">About Us</li>
-                       <li><a href="http://blog.driverguide.com/">Our Blog</a></li>
                        <li><a href="http://members.driverguide.com/index.php?action=doc&amp;page=home__about">Overview</a></li>
                        <li><a href="http://members.driverguide.com/index.php?action=feedback">Contact Us</a></li>
                        <li><a href="http://members.driverguide.com/index.php?action=site_survey">Take our Site Survey</a></li>
-                       <li><a href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__awards">Awards</a></li>
                        <li><a href="http://members.driverguide.com/index.php?action=testimonials">Testimonials</a></li>
                        <li><a href="http://myupdates.com/">Update your Software</a></li>
                        </ul>
@@ -857,7 +525,7 @@ icx.actionQueue.addBodyOnLoad(function(){startChatObserver();},
           <div class="DGfooterRight"></div>
     <div class="DGbar"><font class="DGfooterText"><script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020 DriverGuide is an iCentric Corporation Company.</font> &nbsp;&nbsp;&nbsp; <font class="DGfooterText">All rights reserved.</font> &nbsp;&nbsp;&nbsp;</div>
     <div class="alignRight"><a href="/index.php?action=doc&amp;page=home__docs__privacy">Privacy Policy</a></div>
-<font size="-2" face="Arial, Helvetica, sans-serif" color="#E6F5FF" id="icxServerUsedInfo">server: web2, load: 0.95</font>
+<font size="-2" face="Arial, Helvetica, sans-serif" color="#E6F5FF" id="icxServerUsedInfo">server: web2, load: 1.34</font>
 
 </div> 
 </div>     
@@ -868,7 +536,6 @@ icx.actionQueue.addBodyOnLoad(function(){startChatObserver();},
 document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script>
 <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=9747024&cv=2.0&cj=1" /></noscript>
 <!-- End comScore Tag -->
-
 
 
 
