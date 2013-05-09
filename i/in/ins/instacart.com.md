@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221817id_/http%3A//instacart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509231051id_/https%3A//www.instacart.com/privacy) for the most accurate reproduction.*
 
 # Instacart - Same day grocery delivery in San Francisco, Palo Alto and Mountain View
 
