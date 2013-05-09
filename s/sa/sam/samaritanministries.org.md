@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103204646id_/http%3A//samaritanministries.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509173453id_/http%3A//samaritanministries.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Samaritan Ministries International
+
+## **Privacy Policy**
 
 Samaritan Ministries International Christian Health Care Newsletter (hereafter SMI) is committed to protecting your privacy. We endeavor to maintain industry standard safeguards to protect information you provide to us.
 
