@@ -1,98 +1,147 @@
-> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004131646id_/http%3A//www.billeo.com/web/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509192424id_/http%3A//www.billeo.com/web/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Billeo Inc.
+# Billeo, Inc. Privacy Policy - Billeo Inc.
 
 ## Your Privacy is Our Priority
 
-At Billeo, Inc. your security and privacy is a top priority and we are committed to protecting your privacy online. This pledge outlines the steps we’ve taken to ensure that you have a great experience at Billeo.com, and also provides details on how we treat any personal information you may submit to us.
+At Billeo, Inc. your security and privacy is a top priority and we are committed to protecting your privacy online. This pledge outlines the steps we’ve taken to ensure that you have a great experience with Billeo Services, and also provides details on how we treat any personal information you may submit to us.
 
-Billeo, Inc. is a licensee of the TRUSTe Privacy Program. Billeo.com adheres to the strict requirements set forth by the TRUSTe Privacy Program. TRUSTe is an independent non-profit organization, whose mission is to build users’ trust and confidence on the Internet, by promoting use of fair information practices. The privacy statement covers the site [www.billeo.com](https://web.archive.org/page/homepage.jsp?sitename=billeo). Because this website wants to demonstrate its commitment to privacy, it has agreed to disclose its information practices and have its privacy practices reviewed by the compliance by TRUSTe.
+## Privacy Policy
 
-If you have questions or concerns about the TRUSTe Privacy Program, please contact us at . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/pvr.php?page=complaint](http://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+Billeo takes your privacy seriously, and we want you to know how we collect, use, share and protect your information.  
+**This Privacy Policy tells you:**
 
-The TRUSTe program covers information that is collected through the Browser App and the website.
-
-## What information do we collect?
-
-We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-
-When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-
-We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-
-Like many websites, we use “cookies” to enhance your experience and gather information about visitors and visits to our websites. Please refer to the “Do we use cookies?” section below for information about cookies and how we use them.
-
-Other information we collect is limited to non-personally identifying information such as how you use our product on the biller Web sites you visit using Browser App. The information we learn from users helps us continually improve the experience for the entire Billeo user community.
-
-Periodically, the Browser App contacts our servers to see if you are running the most current version. If necessary, we will automatically provide you with the latest updates to the Browser App.
-
-## How do we use your information?
-
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested
-  * To allow us to better service you in responding to your customer service requests
-  * To quickly process your transactions
-  * To administer a contest, promotion, survey or other site feature
-  * To continually improve the experience for the entire Billeo user community
+  * What information we collect
+  * How we use that information
+  * How we may share that information
+  * How we protect your information
+  * Your choices regarding your personal information
 
 
 
-If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the “How can you opt-out, remove or modify information you have provided to us?” section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and ‘members-only’ content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+We may post additional information if more details are needed to explain our privacy practices.
 
-## How do we protect visitor information?
+## INFORMATION WE COLLECT
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+**Information You Give Us**  
+We receive and may store any information you enter while using our Services.
 
-## Do we use “cookies”?
+The information we collect from you includes things like:
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+  * Your name
+  * Your mailing address
+  * Your e-mail address
+  * Your phone number
+  * Your credit card details and billing information
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Some of our business partners also use cookies and web beacons on our site. We have no access to or control over these cookies or web beacons. Yahoo uses web beacons to remember items placed in a shopping cart during transactions. If you reject these tracking technologies, you may still use our site, but your ability to use some areas will be limited.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+We also collect information on the purchases you have made, such as product details, confirmation numbers, and payment instrument used.
 
-## Third Party Cookies
+We will only store payment credentials if you explicitly decide to store them with our Services.  Other information, such as Order Details, will be stored for customer care and to make available to you, the user, to check on your orders.
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+For more information about how we secure your stored information, see the section entitled “How we protect the information we collect.”
 
-This privacy statement covers the use of cookies by Billeo.com only and does not cover the use of cookies by any business partners.
+**Information from Open Authorization Sources**
 
-## Do we disclose the information we collect to outside parties?
+If you register using an Open Authorization source, such as Facebook, we will gather available payment and address information (as described above) from that source directly.  That information will be treated as if you had given us the information directly.  For example, if you register using Facebook, we will gather your e-mail address from Facebook and will treat that information as if you had given it to us directly.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Billeo, Inc. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+**Cookies**
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not use or place cookies.
 
-## Idle-Time Protection
+**Automatic Information**  
+To help us understand and enhance our interactions with users of our Services, we may collect information on our service using automated tools. These tools will only collect data for analysis purposes on aggregate, not individual, information.
 
-The default setting is to automatically sign you into the service anytime you open a browser. You can turn this feature off, and optionally set an inactivity timer to suit your convenience. After the chosen minutes of inactivity on your browser, you will be automatically logged out of Billeo. This helps protect you, if you forget to logout.
+## HOW WE USE THE INFORMATION WE COLLECT
 
-How can you opt-out, remove or modify information you have provided to us?
+We use the information we collect for things like:
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "Preferences" section. Please note that due to e-mail production schedules you may receive any e-mails already in production.
+  * Placing and Confirming orders with Merchants
+  * Establishing and managing your accounts with us
+  * Conducting research and analysis
+  * Operating, evaluating and improving our business
 
-To delete all of your online account information from our database, sign into the "Preferences" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-If you’re personally identifiable information changes you may correct, update, or delete it by making the change on our member profile page or by e-mailing us at  
-[support@billeo.com](https://web.archive.org/web/20121004131646id_/http://www.billeo.com/web/privacypolicy/support@billeo.com).
 
-If you no longer desire our service, you may uninstall the Browser App and cancel your account at any time using the Uninstall menu option in the Browser App or by using the Add/Remove programs function on your PC. Doing so removes the Browser App and all of its associated files except for the Vault files that contain your private information (i.e. your encrypted password, contact and payment information which you stored using the Billeo service). The vault files are not removed during the uninstallation, as you would need these files if you should want to have access to your information again later (e.g., you are planning to reinstall Billeo later). If you wish to remove these files permanently please follow the steps defined in [this FAQ](https://web.archive.org/faq/faq_remove_vault.html).
+**Data Retention**  
+We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## Third party links
+## HOW WE SHARE THE INFORMATION WE COLLECT
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+Billeo, Inc. does not sell, rent or trade your personal information to third parties.
 
-## Changes to our policy
+We share your information with Merchants with whom you are purchasing a product, so that they may:
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. This policy was last modified on May 31, 2012.
+  * Complete the Purchase
+  * Fulfill orders
+  * Deliver packages
+  * Schedule and perform installations
+  * Service products
+  * Conduct research and analysis
+  * Apply for credit cards and processing credit card payments
 
-## Questions and feedback
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-## Online Policy Only
+We also share some of your information with the entities such as a shopping site, mobile app, or other service through which you accessed the Billeo Services.  These entities will receive information on your purchases, what payment instruments you have used, and other purchase related information, except of payment details.  They will not receive from us any of the secure payment details that you have explicitly shared with Billeo.
 
-This online privacy policy applies only to information collected through our Web site and not to information collected offline.
+Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it’s necessary to comply with the law. We may also share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of Billeo, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.
+
+We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
+
+## HOW WE PROTECT THE INFORMATION WE COLLECT
+
+We are PCI level 1 compliant, which means that we use security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. Billeo, Inc. cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+
+We use a variety of information security measures to protect your online transactions with us. Billeo, Inc. use encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit such as ordering information, including your name, address and credit card number.
+
+## YOUR CHOICES REGARDING THE INFORMATION WE COLLECT
+
+You may choose to:
+
+  * Update and correct your personal information
+  * Cancel your account or request that we no longer use your information to provide you services
+
+
+
+To do any of these, let us know by one of these methods:
+
+  * Follow the directions on an offer you receive from us.
+  * Go to your user profile at the site you are using the Billeo Services and edit/delete your personal information
+  * Send an e-mail with your request and current contact information to: [support@billeo.com](mailto:support@billeo.com)
+  * Send a letter with your request and current contact information to:  
+Billeo, Inc.  
+Attn: Customer Care/Privacy  
+2933 Bunker Hill Lane, Suite 140  
+Santa Clara, CA 95054
+
+
+
+**PROTECTING CHILDREN’S PRIVACY**
+
+Billeo’s Services are not for use by children. The Services are for adults to quickly purchase products or make payments. If you are under 18, you may use Billeo’s Services only with the involvement of a parent or guardian.
+
+**LINKS from OTHER WEBSITES**
+
+Our service is accessible via a variety of shopping services, including online and mobile websites, and social and mobile apps, many of which have their own privacy policies. Be sure to review the privacy policy on the site you’re visiting.
+
+**PRIVACY POLICY UPDATES**
+
+We may need to update our Privacy Policy as Billeo, Inc. and our customers grow and evolve. If we make significant changes to the Privacy Policy, we’ll post a prominent message on our website(s).
+
+**HAVE QUESTIONS?**
+
+If you have any questions about our Privacy Policy, we’ll do our best to answer them. Here’s how to contact us:
+
+**E-mail:**
+
+[support@billeo.com](mailto:support@billeo.com)
+
+**Address:**
+
+Billeo, Inc.  
+Attn: Customer Care/Privacy  
+7601 Penn Avenue South  
+Richfield, MN 55423-3645
+
+Last Updated: 2/18/2013
