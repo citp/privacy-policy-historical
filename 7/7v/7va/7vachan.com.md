@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7vachan.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012020943id_/http%3A//www.7vachan.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7vachan.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509034032id_/http%3A//www.7vachan.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to 7vachan
 
