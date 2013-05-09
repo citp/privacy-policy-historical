@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluefur.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203500id_/http%3A//www.bluefur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefur.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509102101id_/http%3A//www.bluefur.com/privacy-policy) for the most accurate reproduction.*
 
 # BlueFur - Canada Web Hosting - Privacy Policy
 
