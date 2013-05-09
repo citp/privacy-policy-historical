@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018112508id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509131031id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Minyanville Privacy Statement
 
@@ -32,6 +32,8 @@ One of our goals in collecting user information is to enhance your experience on
 
 Minyanville.com derives revenue from advertising. In order to attract and retain advertisers we may use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. 
 
+We may use third-party advertisers to serve ads and collect information when you visit Minyanville.com. When online advertisements are displayed to you, one or more cookies may be placed on your computer. Some of these companies may use information (not including personally identifiable information such as your name or email address) about your visits to our website and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/choices/).
+
 We do not disclose personally identifying information about our users. 
 
 Minyanville.com may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. 
@@ -44,7 +46,7 @@ Please be aware that advertisers or websites that have links on our site may col
 
 This statement may change from time to time, so please check back periodically. 
 
-_© 2009 Minyanville Media, Inc._
+_© 2013 Minyanville Media, Inc._
 
  **DEFINITIONS:**
 
