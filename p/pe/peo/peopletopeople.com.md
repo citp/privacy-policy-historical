@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopletopeople.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210205107id_/http%3A//peopletopeople.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopletopeople.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509235058id_/http%3A//peopletopeople.com/privacy.php) for the most accurate reproduction.*
 
 # – People to People Ambassador Programs
 
