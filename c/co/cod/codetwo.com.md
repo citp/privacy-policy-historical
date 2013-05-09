@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codetwo.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231025709id_/http%3A//www.codetwo.com/regulations/privacy.php%3Fref%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetwo.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510011652id_/http%3A//www.codetwo.com/regulations/privacy.php%3Fref%3Df) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ By placing the order for our software or downloading any of CodeTwo free program
 
 The web page of CodeTwo supports the so-called 'cookies', i.e. small files containing information saved to your hard drive. This is done so that we can gather basic knowledge on how often you visit our web page and which areas are of particular interest to you, etc. This information is collected for statistical reasons only. You have the full right to stop cookies from being saved to your hard drive. Each browser is equipped with a capability to disable cookies. For instance, in IE, the most popular browser, you choose Tools, Internet Options, Privacy, Advanced, Block cookies. You may also delete cookies stored on your computer by choosing Tools, Internet Options, General, Delete cookies in IE and in Firefox by choosing Tools, Clear Private Data, check Cookies and Clear Now. 
 
-We reserve the right to amend this Privacy Policy. Each amendment to the Privacy Policy will signed with the date of publishing. 
+We reserve the right to amend this Privacy Policy. Each amendment to the Privacy Policy will be signed with the date of publishing. 
 
 If you have any questions or doubts related to our privacy policy, write to mail
 
