@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offerupnow.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921051629id_/http%3A//offerupnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerupnow.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509152629id_/http%3A//offerupnow.com/privacy) for the most accurate reproduction.*
 
-# OfferUp - buy. sell. simple.
+# OfferUp - Privacy
 
 Your privacy is important to us, so Ideal Technologies has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites and mobile applications. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control. 
 
@@ -35,6 +35,7 @@ In addition to Personally Identifiable Information you provide at registration o
   * Correspondence. Correspondence between you and the other party initiated through our site, and correspondence to us.
   * "Anonymous Information" such as your IP address, the type of browser you use, the pages on our Sites that you visit, the search terms that you enter and the advertisements that you click. This information is used to help us diagnose problems, administer the site and otherwise improve our service to you. 
   * We may provide Badge programs from time to time. If you choose to participate in a Badge program, we may collect the information you've provided to us in connection with granting you a Badge (e.g., your age for a Badge intended for seniors).
+  * When you use or connect to OfferUp's website or download the OfferUp mobile app by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.
 
 
 
@@ -60,6 +61,7 @@ We may use the information you disclosed to us to:
   * Prevent potentially prohibited or illegal activities.
   * Enforce our Terms of Use.
   * Review and use the information you provide to us in connection with our administration of any Badge program.
+  * We will share some of the information we collect from you upon install of our mobile app with vendors and other service providers who are engaged by or working with us in connection with the operation of the services we provide to you and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify you.” 
 
 
 
@@ -85,4 +87,4 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ### More Questions?
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at abuse@offerupnow.com. 
+If you have any questions about this Privacy Policy or want to opt out of our services or 3rd parties we use to provide you our service then please contact us at privacy@offerupnow.com. 
