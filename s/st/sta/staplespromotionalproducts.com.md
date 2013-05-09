@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204012551id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509180924id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
@@ -105,10 +105,20 @@ Most browsers are initially set up to accept cookies. You may decide to reset yo
 
 To opt out of Staples advertising-related cookies, follow the links for our partners below:
 
-**Coremetrics**
+**SteelHouse Retargeting**
 
-  * Opt-out: [www.coremetrics.com/company/privacy.php#optout](http://www.coremetrics.com/company/privacy.php#optout)
-  * More information: <http://www.coremetrics.com/company/privacy.php>
+We partner with SteelHouse to deliver offers that are relevant to your interests based on what you’ve viewed on our site. SteelHouse’s cookies only collect Non-Personally Identifiable Information for online marketing purposes. This information is anonymous and cannot be traced back to any individual. To learn more, please visit SteelHouse’s [Privacy Policy](http://www.steelhouse.com/privacy-policy). To receive less relevant offers and decline to be included in our online offers through SteelHouse, clck here. To opt-out of all online marketing provided by members of the Network Advertising Initiative (NAI) of which SteelHouse is a member, click here.”
+
+  * Privacy Policy: [www.steelhouse.com/privacy-policy](http://www.steelhouse.com/privacy-policy)
+  * Opt-out: www.steelhouse.com/opt-out
+  * Network Advertising Initiative: www.networkadvertising.org
+
+
+
+**Adobe Omniture**
+
+  * Opt-out: [www.adobe.com/privacy/analytics.html#8](http://www.adobe.com/privacy/analytics.html#8)
+  * More information: [www.adobe.com/privacy/analytics.html](http://www.adobe.com/privacy/analytics.html)
 
 
 
