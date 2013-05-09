@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneysavingmichele.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222052551id_/http%3A//moneysavingmichele.com/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingmichele.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509132605id_/http%3A//moneysavingmichele.com/disclosure/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Money $aving Michele
 
    
 Privacy Policy for www.moneysavingmichele.com
