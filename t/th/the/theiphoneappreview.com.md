@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiphoneappreview.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005127id_/http%3A//www.theiphoneappreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiphoneappreview.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509111204id_/http%3A//www.theiphoneappreview.com/privacy-policy) for the most accurate reproduction.*
 
 # TheiPhoneAppReview Privacy Policy | The iPhone App Review : iPhone, iPod Touch and iPad App Reviews
 
