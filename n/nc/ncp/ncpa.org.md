@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231165036id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093847id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for NCPA Websites | NCPA
-
-## Privacy Policy for NCPA Websites
 
 National Center For Policy Analysis has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites.
 
