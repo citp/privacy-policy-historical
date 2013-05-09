@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024025459id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509173445id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
 
 # SyberPlace | Privacy Policy
 
 **Personal Information**
 
-SyberPlace respects your privacy on the Internet. Whenever and wherever possible, SyberPlace will treat the information about you received on the Internet with utmost care and confidentiality. SyberPlace uses information provided by you to measure the use of our site and to improve its content. We may use this information to respond to your requests, or to contact you to advise of new products, services or promotions via post, e-mail or phone. If you place an order for a product, request a service or submit content to this site, we may need to contact you for additional information. We will not sell, share, or rent this information to others in ways not specified or disclosed in this statement. The personal information we collect is used only to respond to your enquiry, process an order or allow you to access specific account information. At times, cookies may be used to provide you with certain information. A cookie is a tiny element of data that a Website can send to your browser. It may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
+**SyberPlace** respects your privacy on the Internet. Whenever and wherever possible, **SyberPlace** will treat the information about you received on the Internet with utmost care and confidentiality. **SyberPlace** uses information provided by you to measure the use of our site and to improve its content. We may use this information to respond to your requests, or to contact you to advise of new products, services or promotions via post, e-mail or phone. If you place an order for a product, request a service or submit content to this site, we may need to contact you for additional information. We will not sell, share, or rent this information to others in ways not specified or disclosed in this statement. The personal information we collect is used only to respond to your enquiry, process an order or allow you to access specific account information. At times, cookies may be used to provide you with certain information. A cookie is a tiny element of data that a Website can send to your browser. It may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
 
 **Surveys and Competitions**
 
@@ -20,4 +20,4 @@ We may change this Privacy Policy, or change, modify or withdraw access to this 
 
 **External Links**
 
-SyberPlace.com contains links to other sites, whilst we try to link only to sites that share our high standards and our respect for privacy, we cannot be responsible for the content or the privacy practices employed by other sites.
+**SyberPlace.com** contains links to other sites, whilst we try to link only to sites that share our high standards and our respect for privacy, we cannot be responsible for the content or the privacy practices employed by other sites.
