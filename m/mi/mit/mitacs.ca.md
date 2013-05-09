@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219010631id_/https%3A//www.mitacs.ca/resources-faculty/policies-forms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509094034id_/https%3A//www.mitacs.ca/resources-faculty/policies-forms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mitacs – Inspiring innovation in Canada
 
