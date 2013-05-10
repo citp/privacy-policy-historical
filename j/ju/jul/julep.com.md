@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819152617id_/http%3A//www.julep.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510091835id_/http%3A//www.julep.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Julep
 
 Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.    
 
@@ -36,12 +36,14 @@ Facebook's "Like" feature is a good example. (Other third parties have or may ha
 
 We use technology that tracks anonymous (non personally-identifiable) traffic data on Julep.com. This technology uses 1st party (Julep.com) "cookies" that collect anonymous information about how the site is used by our customers. We do this in order to improve both the experience on Julep.com and how we serve our customers in general. These cookies do NOT collect, store, or transmit any personally-identifying information. For example, your email address, billing information, or IP address are NOT collected by these cookies.
 
+We also use Display Advertising and Remarketing through Google Analytics on our website. Google and other third-party vendors show our ads on sites across the internet based on first-party and third-party cookies. You may customize your Google Display Network ads or opt-out of Google Analytics for Display Advertising at any time:[ Ads Preferences Manager](https://www.google.com/settings/u/0/ads/?hl=en&sig=ACi0TCjasfQGA9U7Pib_d4PIxLl7MoW9xrUpXQP1RzCd4Nf_--QArHKRPMaQEONIViG40XjsukC2DNsCWoIt2QOZ5ZD_C_wt8JT0fvRwP_OszrxUCVIdwe2Gds_ehw7CwGB8TXRr9VUCBNpRo4FzCxkp7zWYUgD7YJn-FHNhm9s2ou7l7lSA0Zs).
+
 **Questions About This Policy**
 
 If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact Julep directly at: 
 
 [www.julep.com](http://www.julep.com/) or  
-Julep Nail Parlor Company  
-Privacy  
+Julep Beauty  
+c/o Privacy  
 P.O. Box 19523  
 Seattle, WA 98109  
