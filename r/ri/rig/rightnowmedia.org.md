@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightnowmedia.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103131809id_/http%3A//www.rightnowmedia.org/clkn/http/www.rightnowtraining.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnowmedia.org privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510235112id_/http%3A//www.rightnowmedia.org/clkn/http/www.rightnowmedia.org/privacy) for the most accurate reproduction.*
 
 # RightNow Media - Instantly watch video Bible Studies featuring Francis Chan, Max Lucado and more
 
