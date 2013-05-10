@@ -1,490 +1,225 @@
-<!--The following is the downloaded HTML source of the bcorporation.net privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230215343id_/http%3A//www.bcorporation.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcorporation.net privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510031040id_/http%3A//www.bcorporation.net/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
-
-  <base href="http://www.bcorporation.net/privacy-policy">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="robots" content="index, follow">
-  <meta name="keywords" content="b corporation, b lab, bcorporations, b corporations, b corps, bcorps, b corp, b corp, public benefit">
-  <meta name="title" content="Privacy Policy">
-  <meta name="author" content="Administrator">
-  <meta name="description" content=" Effective from July 5th, 2011. General Information B Lab takes your privacy seriously.">
-  <title>Privacy Policy - B Corporation</title>
-  <link href="/templates/bcorp/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="http://www.bcorporation.net/plugins/system/jceutilities/css/jceutilities-200.css" type="text/css">
-  <link rel="stylesheet" href="http://www.bcorporation.net/plugins/system/jceutilities/tmpl/squeezebox/css/style.css" type="text/css">
-  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=162910028992"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.bcorporation.net/plugins/system/jceutilities/js/embed.js"></script>
-  <script type="text/javascript" src="http://www.bcorporation.net/plugins/system/jceutilities/js/jquery-126.js"></script>
-  <script type="text/javascript" src="http://www.bcorporation.net/plugins/system/jceutilities/js/jceutilities-200.js"></script>
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
-  <script type="text/javascript" src="/media/system/js/caption.js"></script>
-  <script type="text/javascript" src="/media/system/js/validate.js"></script>
-  <script type="text/javascript" src="/components/com_jsfsubmit/assets/bfvalidate.js"></script>
-  <script type="text/javascript">
-	var jcexhtmlembed=1;jQuery(document).ready(function(){jceutilities({'popup':{'legacy':0,'convert':0,'resize':1,'icons':1,'overlay':1,'overlayopacity':0.8,'overlaycolor':"#000000",'fadespeed':400,'scalespeed':400,'template':"squeezebox",'templatecustom':"",'templatepath':"plugins/system/jceutilities/tmpl"},'tootlip':{'classname':"tooltip",'opacity':1,'speed':150,'position':"br",'offsets':"{'x': 16, 'y': 16}"},'imgpath':"plugins/system/jceutilities/img",'pngfix':0,'wmode':0});});
-var scroller;
-var validationErrorMsg = 'Please confirm all required information is correct';
-
-window.addEvent('domready', function(){
-	scroller = new Fx.Scroll(window, {
-		duration:   1500,
-		onStart:    function() {
-			displayWarning(validationErrorMsg, 'page');
-		}
-	});
-});
-/*
- * Display a warning message
- */
-function displayWarning(message, position) {
-	// destroy old messages
-	if ($('system-message')) {
-		$('system-message').remove();
-	}
-
-	var dl = new Element('dl', { 'id': 'system-message', 'styles': {'opacity':0, 'display':'none', 'visibility':'hidden'} });
-	var dt = new Element('dt', { 'class': 'error' }).injectInside(dl).innerHTML='Error';
-	var dd = new Element('dd', { 'class': 'error message fade' }).injectInside(dl);
-	var ul = new Element('ul').injectInside(dd);
-	var li = new Element('li').injectInside(ul).innerHTML=message;
-
-	dl.injectTop($(position));
-	var fadeIn = new Fx.Style(dl, 'opacity', {onStart:function(){dl.setStyle('display', 'block');}, duration:1500}).start(0,1);;
-}
-/**
- * Form validation
- */
-function myValidate(f)
-{
-	if (document.formvalidator.isValid(f)) {
-		return true;
-	}
-	scroller.toTop();
-	return false;
-}
-
-		window.addEvent('domready', function(){ var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false}); });
-  </script>
-
-
-<!-- Load Mootools and other System js -->
-
-<!-- Load Stylesheets -->
-<link rel="stylesheet" href="http://www.bcorporation.net/templates/bcorp/960gs/css/960.css" type="text/css">
-<link rel="stylesheet" href="http://www.bcorporation.net/templates/system/css/reset.min.css" type="text/css">
-<link rel="stylesheet" href="http://www.bcorporation.net/templates/system/css/soapbox.min.css" type="text/css">
-<link rel="stylesheet" href="http://www.bcorporation.net/templates/system/css/soapboxTypography.min.css" type="text/css">
-<link rel="stylesheet" href="http://www.bcorporation.net/templates/bcorp/css/style.css" type="text/css">
-<link rel="stylesheet" href="http://www.bcorporation.net/templates/bcorp/css/typography.css" type="text/css">
-<link rel="stylesheet" href="http://www.bcorporation.net/templates/bcorp/css/bthechange.css" type="text/css">
-
-
-<link rel="stylesheet" href="http://www.bcorporation.net/storage/css/bcorp.css" type="text/css">
-
-
-<!--[if IE 7]>
-	<link href="http://www.bcorporation.net/templates/bcorp/css/ie7.css" rel="stylesheet" type="text/css" />
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><head>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="http://www.bcorporation.net/sites/all/themes/adaptivetheme/bcorp/favicon.ico" type="image/vnd.microsoft.icon">
+<meta content="Privacy Policy" about="/privacy-policy" property="dc:title">
+<link rel="canonical" href="/privacy-policy">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="shortlink" href="/node/131">
+<title>Privacy Policy | B Corporation</title>
+<link type="text/css" rel="stylesheet" href="http://www.bcorporation.net/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bcorporation.net/sites/default/files/css/css_UqOoffvk-FuWbV_8eQT7rRkyNlgHbJYnIPpRiPfBsCw.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bcorporation.net/sites/default/files/css/css_KpHsFsHL5G3x9EUJr5pMqQKsGs4fdCXEGrY6HhOgLHA.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://www.bcorporation.net/sites/default/files/css/css_GpoqO1H_YKBzOUVTKzK4d9W18v7xNMiFHpOi_Fjx5zo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bcorporation.net/sites/default/files/css/css_vBKJ_qMIv9oq-tQ-b64rEB3LDPY2a-e1alrHAZkkv1g.css" media="all">
+<style>.url-textfield{display:none !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.bcorporation.net/sites/default/files/css/css_B6FrEhSzQ-LYsV2O2mZz_ffSgb9IB6S14sl6kaS-SZ0.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bcorporation.net/sites/default/files/css/css_u_6ymx6X6DM83_G0KpBTc_6bZtxFFw8PjklU8dmeKD0.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/adaptivetheme/bcorp/css/print.css" media="print">
+<!--[if lt IE 9]>
+<script src="http://www.bcorporation.net/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?mmi6ww"></script>
 <![endif]-->
-
-<!--Load Favicon -->
-<link href="http://www.bcorporation.net/templates/bcorp/favicon.ico" rel="icon">
-<link href="http://www.bcorporation.net/templates/bcorp/favicon.ico" rel="shortcut icon">
-<link href="http://www.bcorporation.net/templates/bcorp/favicon.ico" rel="shortcut icon" type="image/x-icon">
-
-<!--Load SBX Scripts -->
-<script language="javascript" type="text/javascript" src="http://www.bcorporation.net/templates/system/js/sbx.script.js"></script>
-
-
-
-
-
-<script type="text/javascript" src="http://use.typekit.com/utw3zuw.js"></script>
+<link rel="apple-touch-icon" href="/sites/all/themes/adaptivetheme/bcorp/apple-touch-icon.png">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.net/utw3zuw.js"></script> 
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-
-<script type="text/javascript">
-var _gaq = _gaq || [];
-
-_gaq.push(
-	['_setAccount', 'UA-15633041-5'],
-	['_setSessionCookieTimeout', '3600000'],
-	['_setDomain', 'BCorporation.net'],
-	['_setCustomVar', 1, 'User Type', 'Anonymous', 2],
-	['_setCustomVar', 2, 'Username', 'Anonymous', 2],
-	['_trackPageview']
-);
-
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-window.addEvent('domready', function() {
-	if (_gaq) {
-	$$('a').each(function(el) {
-		el.addEvent('click', function() {
-				var port = -1 == el.host.lastIndexOf(":") ? el.host.length : el.host.lastIndexOf(":");
-				var host = el.host.slice(0, port)
-				if (el.protocol == 'mailto:') {
-					var label = (el.title) ? el.title : el.href.replace(/mailto:/i, '');
-					_gaq.push(['_trackEvent', 'Email', 'Contact', label]);
-				} else if (host != document.location.host) {
-					var label = (el.title) ? el.title : el.href;
-					_gaq.push(['_trackEvent', 'External', 'Exit', label]);
-				}
-
-				var ext   = el.pathname.substr(el.pathname.lastIndexOf(".")+1, el.pathname.length);
-				var label = (el.title) ? el.title : el.pathname.replace(/^\//,'');
-				if (ext.match(/(bmp|csv|doc|epg|gif|ico|jpg|odg|odp|ods|odt|pdf|png|ppt|swf|txt|xcf|zip|gz|tar|exe)/i)) {
-					_gaq.push(['_trackEvent', 'Download', ext, label]);
-				}
-			}.bind(this));
-		});
-	}
-});
-
-window.addEvent('domready', function() {
-	if(_gaq) {
-		$$('a.modal').each(function(el) {
-			el.addEvent('click', function() {
-				var label = (el.title) ? el.title : el.pathname;
-				_gaq.push(['_trackEvent', 'Pop-Up', 'View', label]);
-			}.bind(this));
-		});
-	}
-});
-</script>
 </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-131 node-type-page site-name-hidden">
+	<div id="skip-link">
+		<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+	</div>
 
-<body id="bd" class="ff-meta  ">
+	<!-- Fixed Social Links -->
+	<div class="fixed-social-links">
+	  <p>Follow</p>
+	  <ul class="clearfix">
+	    <li><a href="http://www.facebook.com/pages/B-Corporation/23516382545" target="_blank" title="Facebook"><img alt="Facebook" src="/sites/all/themes/adaptivetheme/bcorp/images/social/facebook-icon.png"></a></li>
+	    <li><a href="http://www.twitter.com/bcorporation/" target="_blank" title="Twitter"><img alt="Twitter" src="/sites/all/themes/adaptivetheme/bcorp/images/social/twitter-icon.png"></a></li>
+	    <li><a href="http://www.linkedin.com/groups?gid=1121967" target="_blank" title="Linkedin"><img alt="Linked In" src="/sites/all/themes/adaptivetheme/bcorp/images/social/linkedin-icon.png"></a></li>
+	    <li><a href="http://www.youtube.com/user/bcorporations" target="_blank" title="Youtube"><img alt="RSS" src="/sites/all/themes/adaptivetheme/bcorp/images/social/youtube-icon.png"></a></li>
+	    <li><a href="https://plus.google.com/u/0/110082126017667346054/posts" target="_blank" title="GooglePlus"><img src="/sites/all/themes/adaptivetheme/bcorp/images/social/googleplus-icon.png"></a></li>
+	    <li><a href="http://instagram.com/bcorporation" target="_blank" title="Instagram"><img alt="Instagram" src="/sites/all/themes/adaptivetheme/bcorp/images/social/instagram-icon.png"></a></li>
+	    <li><a href="http://pinterest.com/bcorporation/" target="_blank" title="Pinterest"><img alt="Pinterest" src="/sites/all/themes/adaptivetheme/bcorp/images/social/pinterest-icon.png"></a></li>
+	  </ul>
+	</div>
+	
+		<!-- region: Leaderboard -->
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=162910028992";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<a name="Top" id="Top"></a>
-
-<div class="social-sidebar hidden-phone"><h6>Follow</h6>
-<!-- AddThis Follow BEGIN -->
-<div class="addthis_toolbox addthis_floating_style addthis_32x32_style"><a href="http://www.facebook.com/pages/B-Corporation/23516382545" target="_blank"><img src="/templates/bcorp/images/addthis-facebook.png"></a> <a href="http://www.twitter.com/bcorporation/" target="_blank"><img src="/templates/bcorp/images/addthis-twitter.png"></a> <a href="http://www.linkedin.com/groups?gid=1121967" target="_blank"><img src="/templates/bcorp/images/addthis-linkedin.png"></a> <a href="http://www.youtube.com/user/bcorporations" target="_blank"><img src="/storage/images/thumbnails/addthis-youtube.png"></a>
+<!-- region: Secondary Header -->
+<div class="region region-header-secondary"><div class="region-inner clearfix"><div id="block-search-form" class="block block-search no-title" role="search"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><form action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<!-- AddThis Follow END --></div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-F4uVsFVSnX5PDe7aTaap3-s5SZFE9u9U7u2aPIlVB8w">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form></div>
+  </div></div><nav id="block-system-user-menu" class="block block-system block-menu no-title" role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-1343"><a href="/user/login?destination=community/b-corp-portal" title="Access services and more.">B Corp Login</a></li><li class="last leaf menu-depth-1 menu-item-1342"><a href="http://b-lab.force.com/bcorp" title="Assessment Login">Assessment Login</a></li></ul></div>
+  </div></nav></div></div>
+<div id="page" class="container page">
 
-<div id="sbx-wrapper" class="fs4">
+  <header id="header" class="clearfix" role="banner">
 
-	<!-- !BEGIN: TOOLBAR -->
-	<div id="toolbar">
-		<div id="toolbar-inner" class="container_12"><div class="mod-search-google">
-<div id="cse-search-form" style="width: 100%;">Loading</div>
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
-  google.setOnLoadCallback(function() {
-    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
-      '016702492447488580906:8hg4d1viiac', customSearchOptions);
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    var options = new google.search.DrawOptions();
-    options.setAutoComplete(true);
-    customSearchControl.setAutoCompletionId('016702492447488580906:8hg4d1viiac+qptype:3');
-    options.enableSearchboxOnly("http://www.bcorporation.net/search-results");
-    customSearchControl.draw('cse-search-form', options);
-  }, true);
-</script>
-</div><ul class="menu-gm"><li class=" item43  first-item last-item "><a href="http://b-lab.force.com/bcorp" class="mainlevel-gm" id="menulink_1-gm" title="Assessment Login"><span>Assessment Login</span></a></li></ul></div>
-	</div>
-	<!-- !END: TOOLBAR -->
-	
-	
-	<div id="mainarea">
-		<div class="container_16">
-	
-			<!-- !BEGIN: HEADER -->
-			<div id="header" class="grid_16 clearfix">
-				<a id="logo" href="/index.php" title="Non-Profit Soapbox"><img src="http://www.bcorporation.net/templates/bcorp/images/logo.png"></a>
-				<div id="nav" class="clearfix"><script type="text/javascript" language="JavaScript" src="/templates/system/js/ja.cssmenu.js"></script> <ul class="menuhorz clearfix" id="ja-cssmenu"><li class="havechild item4  first-item  "> <a id="menu4" class="menu-item4" href="/what-are-b-corps" title="What are B Corps?"> <span class="menu-title">What are B Corps?</span> </a> <ul><li class=" item9  first-item  "> <a id="menu9" class="menu-item9" href="/what-are-b-corps/why-b-corps-matter" title="Why B Corps Matter"> <span class="menu-title">Why B Corps Matter</span> </a>  </li><li class=" item10    "> <a id="menu10" class="menu-item10" href="/what-are-b-corps/the-b-corp-declaration" title="The B Corp Declaration"> <span class="menu-title">The B Corp Declaration</span> </a>  </li><li class=" item11    "> <a id="menu11" class="menu-item11" href="/what-are-b-corps/the-non-profit-behind-b-corps" title="The Non-Profit Behind B Corps"> <span class="menu-title">The Non-Profit Behind B Corps</span> </a>  </li><li class=" item12   last-item "> <a id="menu12" class="menu-item12" href="/what-are-b-corps/legislation" title="Passing Legislation"> <span class="menu-title">Passing Legislation</span> </a>  </li></ul> </li><li class="havechild item5    "> <a id="menu5" class="menu-item5" href="/become-a-b-corp" title="Become a B Corp"> <span class="menu-title">Become a B Corp</span> </a> <ul><li class="havesubchild item13  first-item  "> <a id="menu13" class="menu-item13" href="/become-a-b-corp/why-become-a-b-corp" title="Why Become a B Corp?"> <span class="menu-title">Why Become a B Corp?</span> </a>  </li><li class=" item14    "> <a id="menu14" class="menu-item14" href="/become-a-b-corp/how-to-become-a-b-corp" title="How to Become a B Corp"> <span class="menu-title">How to Become a B Corp</span> </a>  </li><li class=" item15   last-item "> <a id="menu15" class="menu-item15" href="/become-a-b-corp/not-sure" title="Not Sure?"> <span class="menu-title">Not Sure?</span> </a>  </li></ul> </li><li class="havechild item6    "> <a id="menu6" class="menu-item6" href="/community" title="B Corp Community"> <span class="menu-title">B Corp Community</span> </a> <ul><li class=" item24  first-item  "> <a id="menu24" class="menu-item24" href="/community/directory" title="B Corp Search"> <span class="menu-title">B Corp Search</span> </a>  </li><li class=" item22    "> <a id="menu22" class="menu-item22" href="/community/founding-b-corps" title="Founding B Corps"> <span class="menu-title">Founding B Corps</span> </a>  </li><li class=" item23    "> <a id="menu23" class="menu-item23" href="/community/b-corp-partners" title="B Corp Partners"> <span class="menu-title">B Corp Partners</span> </a>  </li><li class=" item27    "> <a id="menu27" class="menu-item27" href="/community/b-corp-jobs" title="B Corp Jobs"> <span class="menu-title">B Corp Jobs</span> </a>  </li><li class=" item25   last-item "> <a id="menu25" class="menu-item25" href="/community/b-corp-calendar" title="B Corp Calendar"> <span class="menu-title">B Corp Calendar</span> </a>  </li></ul> </li><li class=" item7    "> <a id="menu7" class="menu-item7" href="/bthechange" title="B the Change"> <span class="menu-title">B the Change</span> </a>  </li><li class="havechild item8   last-item "> <a id="menu8" class="menu-item8" href="/news-and-media" title="News &amp; Media"> <span class="menu-title">News &amp; Media</span> </a> <ul><li class=" item30  first-item  "> <a id="menu30" class="menu-item30" href="/news-and-media/in-the-news" title="In the News"> <span class="menu-title">In the News</span> </a>  </li><li class=" item56    "> <a id="menu56" class="menu-item56" href="/news-and-media/2012-annual-report" title="2012 Annual Report"> <span class="menu-title">2012 Annual Report</span> </a>  </li><li class=" item32    "> <a id="menu32" class="menu-item32" href="/news-and-media/2011-annual-report" title="2011 Annual Report"> <span class="menu-title">2011 Annual Report</span> </a>  </li><li class=" item33   last-item "> <a id="menu33" class="menu-item33" href="/news-and-media/2009-annual-report" title="2009 Annual Report"> <span class="menu-title">2009 Annual Report</span> </a>  </li></ul> </li></ul></div>
-			</div>
-			<!-- !END: HEADER -->
-			
-			<!-- !BEGIN: BODY -->
-			<div id="container-wrap">
-				<div id="container-fr" class="cw clearfix">
-							
-						
-							
-														
-								<div id="sidenav" class="grid_2 alpha omega">
-										<div class="sbxMod sbxModTable-postit mod-left-2" id="Mod201">
-				<div class="sbxMod-content"><h3><a href="http://b-lab.force.com/bcorp/BCorpRegistration"><span class="text-color3">What's Your Impact?</span></a></h3>
-<div>
-<p><strong><a href="http://b-lab.force.com/bcorp/BCorpRegistration">Check out this Free, Confidential tool to compare your company's impact</a><br><br></strong></p>
-</div></div>
-	</div>
-		<div class="sbxMod sbxModTable-searchforbcorps mod-left-3 mod-left-last" id="Mod202">
-				<div class="sbxMod-content"><a href="/community/directory"><img src="/templates/bcorp/images/mod-searchforbcorps.jpg"></a></div>
-	</div>
-	
-								</div>
-								<div id="mainbody-fr" class="mb grid_14">
-									<div id="mainbody-content">
-										
-										
-										
+          <!-- start: Branding -->
+      <div id="branding" class="branding-elements clearfix">
 
-<div id="page" class="com_content contentArticle article-layDefault ">
+                  <div id="logo">
+            <a href="/" title="Home page"><img class="site-logo image-style-none" typeof="foaf:Image" src="http://www.bcorporation.net/sites/default/files/logo.png" alt="B Corporation"></a>          </div>
+        
+                  <!-- start: Site name and Slogan hgroup -->
+          <hgroup class="element-invisible" id="name-and-slogan">
 
-	
-		<div class="article-title clearfix">
-	     	     <h2 class="contentheading chBtns-none">
-	     		     		     		Privacy Policy	     		     </h2>
-	     	     
-	</div>
-	
-	<div class="page-content">
+                          <h1 class="element-invisible" id="site-name"><a href="/" title="Home page">B Corporation</a></h1>
+            
+            
+          </hgroup><!-- /end #name-and-slogan -->
+        
+      </div><!-- /end #branding -->
+    
+    <!-- region: Header -->
+    <div class="region region-header"><div class="region-inner clearfix"><nav id="block-superfish-1" class="block block-superfish no-title"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul id="superfish-1" class="sf-menu main-menu sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-5 sf-single-items-1"><li id="menu-218-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1 ">Home</a></li><li id="menu-503-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/what-are-b-corps" title="What are B Corps?" class="sf-depth-1  menuparent">What are B Corps?</a><ul><li id="menu-539-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/what-are-b-corps/why-b-corps-matter" title="Why B Corps Matter" class="sf-depth-2 ">Why B Corps Matter</a></li><li id="menu-540-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/what-are-b-corps/the-b-corp-declaration" class="sf-depth-2 ">The B Corp Declaration</a></li><li id="menu-541-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/what-are-b-corps/legislation" title="Passing Legislation" class="sf-depth-2 ">Passing Legislation</a></li><li id="menu-542-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/what-are-b-corps/the-non-profit-behind-b-corps" class="sf-depth-2 ">The Non-Profit Behind B Corps</a></li></ul></li><li id="menu-504-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/become-a-b-corp" title="Become a B Corp" class="sf-depth-1  menuparent">Become a B Corp</a><ul><li id="menu-543-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/become-a-b-corp/why-become-a-b-corp" title="Why Become a B Corp?" class="sf-depth-2 ">Why Become a B Corp?</a></li><li id="menu-544-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/become-a-b-corp/how-to-become-a-b-corp" class="sf-depth-2 ">How to Become a B Corp</a></li><li id="menu-545-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/become-a-b-corp/not-sure" title="Not Sure?" class="sf-depth-2 ">Not Sure?</a></li></ul></li><li id="menu-536-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/b-corp-community" title="B Corp Community" class="active-trail sf-depth-1 menuparent">B Corp Community</a><ul><li id="menu-927-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/community/find-a-b-corp" title="Find a B Corp" class="sf-depth-2 ">Find a B Corp</a></li><li id="menu-658-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/community/founding-b-corps" title="Founding B Corps" class="sf-depth-2 ">Founding B Corps</a></li><li id="menu-550-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/community/b-corp-calendar" title="B Corp Calendar" class="sf-depth-2 ">B Corp Calendar</a></li><li id="menu-1110-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/community/jobs-board" title="The B Corp Jobs Board" class="sf-depth-2 ">B Corp Jobs Board</a></li><li id="menu-1340-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/community/community-partners" title="Community Partners" class="sf-depth-2 ">Community Partners</a></li></ul></li><li id="menu-537-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/b-the-change" title="B the Change" class="sf-depth-1  menuparent">B the Change</a><ul><li id="menu-720-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/b-the-change/b-social" title="" class="sf-depth-2 ">B Social</a></li><li id="menu-721-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://www.thepetitionsite.com/takeaction/293/537/354/" title="" class="sf-depth-2 ">B Counted</a></li><li id="menu-722-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/b-the-change/b-creative" class="sf-depth-2 ">B Creative</a></li><li id="menu-723-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/b-the-change/b-a-changemaker" class="sf-depth-2 ">B a Changemaker</a></li><li id="menu-725-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/b-the-change/b-a-recruiter" class="sf-depth-2 ">B a Recruiter</a></li></ul></li><li id="menu-538-1" class="last even sf-item-6 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/news-media" title="News &amp; Media" class="sf-depth-1  menuparent">News &amp; Media</a><ul><li id="menu-594-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/blog" title="The Blog" class="sf-depth-2 ">The Blog</a></li><li id="menu-877-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/news-media/videos" class="sf-depth-2 ">Videos</a></li><li id="menu-557-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/news-and-media/annual-report-2012" title="Annual Report 2012" class="sf-depth-2 ">Annual Report 2012</a></li><li id="menu-558-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/news-and-media/annual-report-2011" title="Annual Report 2011" class="sf-depth-2 ">Annual Report 2011</a></li><li id="menu-559-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/news-and-media/annual-report-2009" title="Annual Report 2009" class="sf-depth-2 ">Annual Report 2009</a></li></ul></li></ul></div>
+  </div></nav></div></div>
+    <!-- Navigation elements -->
+            
+  </header>
 
-		
-		
-		
-		<div class="article-content">
-						<div>
-<p>Effective from July 5th, 2011.</p>
-<h3>General Information</h3>
-<p>B Lab takes your privacy seriously. Please read the following information to learn more about our privacy practices.</p>
-<p>This policy covers what personally identifiable information B Lab collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the <a href="http://bcorporation.net">http://bcorporation.net</a> web site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.</p>
-<p>This policy only applies to <a href="http://bcorporation.net">http://bcorporation.net</a> and does not extend to the practices of other web sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.</p>
-<h3>Contact Information</h3>
-<p>We invite you to contact us if you have questions about this privacy policy.</p>
-<p>B Lab<br>8 Walnut Ave.<br>Berwyn, PA 19312<br>USA</p>
-<p>You may contact us by e-mail at 
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = 'm&#97;&#105;lt&#111;:';
- var suffix = '';
- var attribs = '';
- var path = 'hr' + 'ef' + '=';
- var addy36697 = 'th&#101;l&#97;b' + '&#64;';
- addy36697 = addy36697 + 'bc&#111;rp&#111;r&#97;t&#105;&#111;n' + '&#46;' + 'n&#101;t';
- document.write( '<a ' + path + '\'' + prefix + addy36697 + suffix + '\'' + attribs + '>' );
- document.write( addy36697 );
- document.write( '<\/a>' );
- //-->
- </script><a href="mailto:thelab@bcorporation.net">thelab@bcorporation.net</a><script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span><br>You may contact us by phone at 610-296-8283</p>
-<h3>Dispute Resolution</h3>
-<p>B Lab is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors.</p>
-<h3>Information Collection</h3>
-<p>When visiting bcorporation.net certain information about you and your computer can sometimes be collected. This section explains what information B Lab collects, and how it is used.</p>
-<p>Information Collected - What information do we collect and why?</p>
-<p>We collect the following identifiable information about our visitors:</p>
-<p>• user.first-name (optional)</p>
-<p>• user.last-name (optional)</p>
-<p>• user.business-info.online.email (optional)</p>
-<p>• user.company name (optional)</p>
-<p>• user.jobtitle (optional)</p>
-<p>• user.business-info.postal (optional)</p>
-<p>• user.business-info.telecom.telephone (optional)</p>
-<p>• dynamic.clickstream</p>
-<p>• dynamic.http</p>
-<p>• dynamic.searchtext</p>
-<p>• dynamic.miscdata</p>
-<p>We collect identifiable information for the following reasons:</p>
-<p>• Completion and Support of Current Activity</p>
-<p>• Web Site and System Administration</p>
-<p>• Research and Development</p>
-<p>Collecting your information will allow us to help you through the B Impact Assessment process. B Lab respects your privacy and will not sell or transfer your identifiable information to any third party without prior consent, unless required to do so in order to comply with applicable laws or regulations.</p>
-<p>Our Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors.</p>
-<h3>Information Recipients - Who has access to the information collected?</h3>
-<p>Ourselves and/or other entities acting as our agents or entities for which we are acting as an agent. These entities may be located in jurisdictions that provide different levels of statutory protection for your information.</p>
-<p>For users of the GIIRS Impact Assessment, Certified B Corporations and GIIRS Rated Companies, please see the Terms and Condtions of Use and your signed term sheet for additional information regarding information reciepients, data usage and privacy.</p>
-<h3>Information Retention - How long is this information retained?</h3>
-<p>We do not have a retention policy for this area of the Web Site.</p>
+  <!-- Breadcrumbs -->
+  <!---->
+
+  <!-- Messages and Help -->
+    
+  <!-- region: Secondary Content -->
+  
+  <div id="columns" class="columns clearfix">
+    <div id="content-column" class="content-column" role="main">
+      <div class="content-inner">
+
+        <!-- region: Highlighted -->
+                
+        <!-- Content Shadow -->
+        <div class="main-shadow">
+          <section id="main-content" class="clearfix">
+
+            <!-- start: Pre Main Content -->
+            
+            
+                          <header id="main-content-header" class="clearfix">
+
+                                  <h1 id="page-title">
+                    Privacy Policy                  </h1>
+                
+                
+              </header>
+            
+            <!-- region: Main Content -->
+                          <div id="content" class="region">
+                <div id="block-system-main" class="block block-system no-title">  
+  
+  
+<article id="node-131" class="node node-page article clearfix" about="/privacy-policy" typeof="foaf:Document" role="article">
+  
+  <div class="node-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Effective from July 5th, 2011.</p><h6>General Information</h6><p>B Lab takes your privacy seriously. Please read the following information to learn more about our privacy practices.</p><p>This policy covers what personally identifiable information B Lab collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the <a href="/" title="bcorporation.net">http://bcorporation.net</a> web site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.</p><p>This policy only applies to <a href="/" title="bcorporation.net">http://bcorporation.net</a> and does not extend to the practices of other web sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.</p><h6>Contact Information</h6><p>We invite you to contact us if you have questions about this privacy policy.</p><p>B Lab<br>155 E Lancaster Avenue, Second Floor<br>Wayne, PA 19087<br>USA</p><p>You may contact us by e-mail at <a href="mailto:thelab@bcorporation.net" title="Email Us">thelab@bcorporation.net</a><br>You may contact us by phone at 610-293-0299.</p><h6>Dispute Resolution</h6><p>B Lab is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors.</p><h6>Dispute Resolution</h6><p>B Lab is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors.</p><h6>Information Collection</h6><p>When visiting bcorporation.net certain information about you and your computer can sometimes be collected. This section explains what information B Lab collects, and how it is used.</p><p>Information Collected - What information do we collect and why?</p><p>We collect the following identifiable information about our visitors:</p><ul><li><p>user.first-name (optional)</p></li><li><p>user.last-name (optional)</p></li><li><p>user.business-info.online.email (optional)</p></li><li><p>user.company name (optional)</p></li><li><p>user.jobtitle (optional)</p></li><li><p>user.business-info.postal (optional)</p></li><li><p>user.business-info.telecom.telephone (optional)</p></li><li><p>dynamic.clickstream</p></li><li><p>dynamic.http</p></li><li><p>dynamic.searchtext</p></li><li><p>dynamic.miscdata</p></li></ul><p>We collect identifiable information for the following reasons:</p><ul><li><p>Completion and Support of Current Activity</p></li><li><p>Web Site and System Administration</p></li><li><p>Research and Development</p></li></ul><p>Collecting your information will allow us to help you through the B Impact Assessment process. B Lab respects your privacy and will not sell or transfer your identifiable information to any third party without prior consent, unless required to do so in order to comply with applicable laws or regulations.</p><p>Our Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors.</p><h6>Information Recipients - Who has access to the information collected?</h6><p>Ourselves and/or other entities acting as our agents or entities for which we are acting as an agent. These entities may be located in jurisdictions that provide different levels of statutory protection for your information.</p><p>For users of the GIIRS Impact Assessment, Certified B Corporations and GIIRS Rated Companies, please see the Terms and Condtions of Use and your signed term sheet for additional information regarding information reciepients, data usage and privacy.</p><h6>Information Retention - How long is this information retained?</h6><p>We do not have a retention policy for this area of the Web Site.</p></div></div></div>  </div>
+
+  
+  
+  
+  </article>
+
+  </div>              </div>
+            
+            <!-- Feed icons (RSS, Atom icons etc -->
+            
+            
+          </section><!-- /end #main-content -->
+        </div>
+
+      </div><!-- /end .content-inner -->
+    </div><!-- /end #content-column -->
+
+    <!-- regions: Sidebar first and Sidebar second -->
+    <div class="region region-sidebar-first sidebar"><div class="region-inner clearfix"><div id="block-block-3" class="block block-block no-title"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><a href="http://b-lab.force.com/bcorp/AssessmentReg" title="Bcorp Registration" class="impact-note-sidebar" target="_blank">
+<p>A Free and Confidential Tool to Compare Your Company’s Impact.</p>
+</a></div>
+  </div></div><div id="block-block-4" class="block block-block no-title"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><a href="/community/find-a-b-corp" title="Search for B Corps" class="search-block-link">Search for a B Corp</a></div>
+  </div></div><div id="block-block-10" class="block block-block no-title"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><a href="https://npo1.networkforgood.org/Donate/Donate.aspx?npoSubscriptionId=1006355&amp;uniqueID=634947066062748558" class="donate-now" title="Donate Now" target="_blank">Donate Now</a></div>
+  </div></div></div></div>    
+  </div><!-- /end #columns -->
 </div>
 
-		</div>
+<!-- region: Content Aside -->
 
-		
-		
-		<span class="article_separator">&nbsp;</span>
-
-	</div>
-
+<!-- region: Tertiary Content -->
+<div class="region region-tertiary-content"><div class="region-inner clearfix"><section id="block-webform-client-block-18004201" class="block block-webform"><div class="block-inner clearfix">  
+      <h2 class="block-title">Get Quarterly News</h2>
+  
+  <div class="block-content content"><form class="webform-client-form" enctype="multipart/form-data" action="/get-quarterly-news" method="post" id="webform-client-form-18004201" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-email" id="webform-component-email-address">
+ <input class="email form-text form-email required" type="email" id="edit-submitted-email-address" name="submitted[email_address]" value="Your Email Address" size="60">
+ <div class="description">Your Email Address</div>
 </div>
-										
-									</div>
-								</div>
-								<div class="clear"></div>
-																
-														
-
-				</div>
-			</div>
-			<!-- !END: BODY -->		
-		
-		
-		</div>
-	</div>
-	
-	
-	<!-- !BEGIN: BOTTOM -->
-	<div id="bottom">
-		<div id="bottom-inner" class="container_16 clearfix">
-			<div id="bottom-left" class="grid_12">	<div class="sbxMod sbxModTable-followus mod-bottomleft-1 mod-bottomleft-first mod-bottomleft-last" id="Mod55">
-				<p>Follow us on:</p>
-<ul>
-<li><a href="http://www.facebook.com/pages/B-Corporation/23516382545" target="_blank"><img src="/templates/bcorp/images/bot-facebook.png" alt="Facebook"></a></li>
-<li><a href="http://www.twitter.com/bcorporation/" target="_blank"><img src="/templates/bcorp/images/bot-twitter.png" alt="Twitter"></a></li>
-<li><a href="http://www.linkedin.com/groups?gid=1121967" target="_blank"><img src="/templates/bcorp/images/bot-linkedin.png" alt="Linked In"></a></li>
-<li><a href="http://www.youtube.com/user/bcorporations" target="_blank"><img src="/templates/bcorp/images/bot-youtube.png" alt="RSS"></a></li>
-<li><a href="/news-and-media/the-blog?format=feed&amp;type=rss" target="_blank"><img src="/templates/bcorp/images/bot-rss.png" alt="RSS"></a></li>
-</ul>	</div>
-	</div>
-			<div id="bottom-right" class="grid_4">	<div class="sbxMod sbxModTable-getmonthly mod-bottomright-1 mod-bottomright-first mod-bottomright-last" id="Mod256">
-				<h3 class="sbxMod-title"><span>Get Monthly News</span></h3>
-				<style>.sbx-jsfsubmit-extended {display:none;}</style>
-<!-- !BEGIN: JSF SUBMIT COMPONENT -->
-<div class="mod mod-jsfsubmit mod-jsfsubmit-sbm mod-jsfsubmit-newsletter-signup-submit clearfix" id="jsfsubmit-top">
-		<div class="component-title jsfSubmitComp-title">
-		<h4 class="mod-contentTitle mod-jsfSubmitContentTitle"><span></span></h4>
-	</div>
-	
-
-			<!-- BEGIN: PAGE DESCRIPTION TOP -->
-			<div class="compDesc-wrap compDescIntro-wrap jsfsubmit-intro" id="jsfsubmitIntro-wrap">
-			     <div class="compDesc-content compDescIntro-content jsfsubmitIntro-content" id="jsfsubmitIntro-content">
-			     	<p></p>
-			     </div>
-			</div>
-			<!-- END: PAGE DESCRIPTION TOP -->
-
-			<!-- BEGIN: FORM -->
-			<form action="/privacy-policy" method="post" id="form-jsfsubmit" name="jsfsubmitFRM" class="jForm form-jsfsubmit form-validate" onsubmit="return myValidate(this);" enctype="multipart/form-data">
-				<input type="hidden" name="form_ID" value="3">
-				<input type="hidden" name="option" value="com_jsfsubmit">
-				<input type="hidden" name="view" value="jsfsubmit">
-				<input type="hidden" name="task" value="process">
-				<input type="hidden" name="1bea0e70c15f958ed1fe69304b726588" value="1">
-				<input type="hidden" name="extensionType" id="form_extensionType" value="module">
-												<input type="hidden" name="Lead_RecordTypeId" value="012C0000000M0LGIA0">
-				
-				<!-- BEGIN: SECTION WRAPPER -->
-				<div class="compSect-wrap jsfsubmitForm" id="sectJsfSubmit-wrap">
-
-					<!-- BEGIN: SECTION CONTENT WRAPPER -->
-					<div class="compSect-contentwrap" id="sectJsfSubmit-contentwrap">
-						<!-- BEGIN: SECTION CONTENT -->
-						<div class="compSect-content" id="sectJsfSubmit-content">
-
-							<ul class="compList compList-defaultLabel compList-formVert" id="sectJsfSubmit-formUL">
-								<input type="hidden" name="Lead_Company" value="B Corp Newsletter" id="Lead_Company" class="">
-<input type="hidden" name="Lead_LastName" value="unknown" id="Lead_LastName" class="">
-<li id="" class="item-email">
-	<label for="Lead_Email" class="desc"><span class="req">*</span></label>
-	<div class="cntr"><input type="text" id="Lead_Email" name="Lead_Email" value="Your Email Address" maxlength="80" class="field text medium validate-email required"></div>
-</li>
-<input type="hidden" name="Lead_LeadSource" value="Web" id="Lead_LeadSource" class="">
-<input type="hidden" name="Lead_Company" value="B Corp Newsletter" id="Lead_Company" class="">
-<input type="hidden" name="Lead_LastName" value="unknown" id="Lead_LastName" class="">
-<li id="" class="sbx-jsfsubmit-extended">
-	<label for="Lead_Email" class="desc"></label>
-	<div class="cntr"><input type="text" id="Email" name="Email" class="field text medium"></div>
-</li>
-<input type="hidden" name="Lead_LeadSource" value="Web" id="Lead_LeadSource" class="">
-							</ul>
-
-						</div>
-						<!-- END: SECTION CONTENT -->
-
-					</div>
-					<!-- END: SECTION CONTENT WRAPPER -->
-
-				</div>
-				<!-- END: SECTION WRAPPER -->
-
-				<!-- BEGIN: SECTION BUTTON WRAPPER -->
-				<div class="compSectBtns-wrap jsfsubmitBtns" id="sectBtns-wrap">
-
-				     <!-- BEGIN: SECTION BUTTON CONTAINER -->
-				     <div class="compSectBtns-contentwrap" id="sectBtns-contentwrap">
-
-				     	<!-- BEGIN: SECTION CONTENT -->
-				     	<div class="compSectBtns-content" id="sectBtns-content">
-				     		<ul class="compList compList-btns compList-formBtns" id="sectBtns-formUL">
-				     			<li class="buttons">
-				     				<button id="btnSubmit" type="submit" class="button"><span>Save</span></button>
-				     								     				<span id="reqLine" class="req">Fields marked with an asterisk (*) are required.</span>
-				     			</li>
-				     		</ul>
-				     	</div>
-				     	<!-- END: SECTION CONTENT -->
-
-				     </div>
-				     <!-- END: SECTION BUTTON CONTAINER -->
-
-				</div>
-				<!-- END: SECTION BUTTON WRAPPER -->
-
-			</form>
-			<!-- END: FORM -->
-
-			<!-- BEGIN: PAGE DESCRIPTION BOTTOM -->
-			<div class="compDesc-wrap compDescOutro-wrap jsfsubmit-outro" id="jsfsubmitOutro-wrap">
-			     <div class="compDesc-content compDescOutro-content jsfsubmitOutro-content" id="jsfsubmitOutro-content">
-			     	<p></p>
-			     </div>
-			</div>
-			<!-- END: PAGE DESCRIPTION BOTTOM -->
-
+<input type="hidden" name="details[sid]" value="">
+<input type="hidden" name="details[page_num]" value="1">
+<input type="hidden" name="details[page_count]" value="1">
+<input type="hidden" name="details[finished]" value="0">
+<input type="hidden" name="form_build_id" value="form-zg5jUrwf0F2_bagTygSdrPOVypnUbYq_fxQ_8x6Fzfo">
+<input type="hidden" name="form_id" value="webform_client_form_18004201">
+<input type="hidden" name="honeypot_time" value="1368155439">
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text">
 </div>
-<!-- !END: JSF SUBMIT COMPONENT -->
-	</div>
-	</div>	
-		</div>
-	</div>
-	<!-- !END: BOTTOM -->		
-		
-	<!-- !BEGIN: FOOTER -->
-	<div id="footer">
-		<div id="footer-inner" class="container_16 clearfix">
-			<div id="footer-topleft" class="grid_12">	<div class="sbxMod sbxModTable-fm mod-footernav-1 mod-footernav-first mod-footernav-last" id="Mod56">
-				<ul class="menu-fm"><li class="parent item4  first-item  "><a href="/what-are-b-corps" class="mainlevel-fm" id="menulink_1-fm" title="What are B Corps?"><span>What are B Corps?</span></a><ul><li class=" item9  first-item  "><a href="/what-are-b-corps/why-b-corps-matter" class="sublevel-fm" id="menulink_1_1-fm" title="Why B Corps Matter"><span>Why B Corps Matter</span></a></li><li class=" item10    "><a href="/what-are-b-corps/the-b-corp-declaration" class="sublevel-fm" id="menulink_1_2-fm" title="The B Corp Declaration"><span>The B Corp Declaration</span></a></li><li class=" item11    "><a href="/what-are-b-corps/the-non-profit-behind-b-corps" class="sublevel-fm" id="menulink_1_3-fm" title="The Non-Profit Behind B Corps"><span>The Non-Profit Behind B Corps</span></a></li><li class=" item12   last-item "><a href="/what-are-b-corps/legislation" class="sublevel-fm" id="menulink_1_4-fm" title="Passing Legislation"><span>Passing Legislation</span></a></li></ul></li><li class="parent item5    "><a href="/become-a-b-corp" class="mainlevel-fm" id="menulink_2-fm" title="Become a B Corp"><span>Become a B Corp</span></a><ul><li class="parent item13  first-item  "><a href="/become-a-b-corp/why-become-a-b-corp" class="sublevel-fm" id="menulink_2_1-fm" title="Why Become a B Corp?"><span>Why Become a B Corp?</span></a></li><li class=" item14    "><a href="/become-a-b-corp/how-to-become-a-b-corp" class="sublevel-fm" id="menulink_2_2-fm" title="How to Become a B Corp"><span>How to Become a B Corp</span></a></li><li class=" item15   last-item "><a href="/become-a-b-corp/not-sure" class="sublevel-fm" id="menulink_2_3-fm" title="Not Sure?"><span>Not Sure?</span></a></li></ul></li><li class="parent item6    "><a href="/community" class="mainlevel-fm" id="menulink_3-fm" title="B Corp Community"><span>B Corp Community</span></a><ul><li class=" item24  first-item  "><a href="/community/directory" class="sublevel-fm" id="menulink_3_1-fm" title="B Corp Search"><span>B Corp Search</span></a></li><li class=" item22    "><a href="/community/founding-b-corps" class="sublevel-fm" id="menulink_3_2-fm" title="Founding B Corps"><span>Founding B Corps</span></a></li><li class=" item23    "><a href="/community/b-corp-partners" class="sublevel-fm" id="menulink_3_3-fm" title="B Corp Partners"><span>B Corp Partners</span></a></li><li class=" item27    "><a href="/community/b-corp-jobs" class="sublevel-fm" id="menulink_3_4-fm" title="B Corp Jobs"><span>B Corp Jobs</span></a></li><li class=" item25   last-item "><a href="/community/b-corp-calendar" class="sublevel-fm" id="menulink_3_5-fm" title="B Corp Calendar"><span>B Corp Calendar</span></a></li></ul></li><li class=" item7    "><a href="/bthechange" class="mainlevel-fm" id="menulink_4-fm" title="B the Change"><span>B the Change</span></a></li><li class="parent item8   last-item "><a href="/news-and-media" class="mainlevel-fm" id="menulink_5-fm" title="News &amp; Media"><span>News &amp; Media</span></a><ul><li class=" item30  first-item  "><a href="/news-and-media/in-the-news" class="sublevel-fm" id="menulink_5_1-fm" title="In the News"><span>In the News</span></a></li><li class=" item56    "><a href="/news-and-media/2012-annual-report" class="sublevel-fm" id="menulink_5_2-fm" title="2012 Annual Report"><span>2012 Annual Report</span></a></li><li class=" item32    "><a href="/news-and-media/2011-annual-report" class="sublevel-fm" id="menulink_5_3-fm" title="2011 Annual Report"><span>2011 Annual Report</span></a></li><li class=" item33   last-item "><a href="/news-and-media/2009-annual-report" class="sublevel-fm" id="menulink_5_4-fm" title="2009 Annual Report"><span>2009 Annual Report</span></a></li></ul></li></ul>	</div>
-	</div>
-			<div id="footer-topright" class="grid_4">	<div class="sbxMod sbxModTable-blab mod-footer-1 mod-footer-first mod-footer-last" id="Mod57">
-				<img src="/templates/bcorp/images/foot-blab.gif" alt="Powered by Blab" class="img-left"><p>B Lab is a nonprofit organization dedicated to using the power of business to solve social and environmental problems.</p>	</div>
-	</div>
-			<div class="clear"></div>
-			<div id="footer-botleft" class="grid_12">	<div class="sbxMod sbxModTable-fmsm mod-footernavsm-1 mod-footernavsm-first mod-footernavsm-last" id="Mod33">
-				<ul class="menu-fmsm"><li class=" item36  first-item  "><a href="/terms-of-use" class="mainlevel-fmsm" id="menulink_1-fmsm" title="Terms of Use"><span>Terms of Use</span></a></li><li class=" active item37    " id="current"><a href="/privacy-policy" class="mainlevel_current-fmsm" id="menulink_2-fmsm" title="Privacy Policy"><span>Privacy Policy</span></a></li><li class=" item38    "><a href="/sitemap?sitemap=1" class="mainlevel-fmsm" id="menulink_3-fmsm" title="Sitemap"><span>Sitemap</span></a></li><li class=" item39    "><a href="/what-are-b-corps/the-non-profit-behind-b-corps" class="mainlevel-fmsm" id="menulink_4-fmsm" title="About B Lab"><span>About B Lab</span></a></li><li class=" item40    "><a href="/contact-us" class="mainlevel-fmsm" id="menulink_5-fmsm" title="Contact Us"><span>Contact Us</span></a></li><li class=" item104   last-item "><a href="/complaints" class="mainlevel-fmsm" id="menulink_6-fmsm" title="Complaints"><span>Complaints</span></a></li></ul>	</div>
-	</div>
-			<div id="footer-botright" class="grid_4">	<div class="sbxMod sbxModTable-copyright mod-footercopy-1 mod-footercopy-first mod-footercopy-last" id="Mod59">
-				© Copyright 2012 B Lab. All rights reserved	</div>
-	</div>
-			<div class="clear"></div>	
-		</div>
-	</div>
-	<!-- !END: FOOTER -->	
-	
-
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit"></div></div></form></div>
+  </div></section><div id="block-block-5" class="block block-block no-title"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><p>Follow us on:</p><ul class="clearfix"><li><a href="http://www.facebook.com/pages/B-Corporation/23516382545" target="_blank" title="Facebook"><img alt="Facebook" src="/sites/all/themes/adaptivetheme/bcorp/images/social/facebook-icon.png"></a></li><li><a href="http://www.twitter.com/bcorporation/" target="_blank" title="Twitter"><img alt="Twitter" src="/sites/all/themes/adaptivetheme/bcorp/images/social/twitter-icon.png"></a></li><li><a href="http://www.linkedin.com/groups?gid=1121967" target="_blank" title="Linkedin"><img alt="Linked In" src="/sites/all/themes/adaptivetheme/bcorp/images/social/linkedin-icon.png"></a></li><li><a href="http://www.youtube.com/user/bcorporations" target="_blank" title="Youtube"><img alt="RSS" src="/sites/all/themes/adaptivetheme/bcorp/images/social/youtube-icon.png"></a></li><li><a href="https://plus.google.com/u/0/110082126017667346054/posts" target="_blank" title="GooglePlus"><img src="/sites/all/themes/adaptivetheme/bcorp/images/social/googleplus-icon.png"></a></li><li><a href="http://instagram.com/bcorporation" target="_blank" title="Instagram"><img alt="Instagram" src="/sites/all/themes/adaptivetheme/bcorp/images/social/instagram-icon.png"></a></li><li><a href="http://pinterest.com/bcorporation/" target="_blank" title="Pinterest"><img alt="Pinterest" src="/sites/all/themes/adaptivetheme/bcorp/images/social/pinterest-icon.png"></a></li></ul></div>
+  </div></div></div></div>
+<!-- region: Footer -->
+<footer id="footer" class="clearfix" role="contentinfo">
+  <div class="region region-footer"><div class="region-inner clearfix"><nav id="block-menu-block-3" class="block block-menu-block no-title" role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix"><li class="first leaf menu-mlid-218 menu-depth-1 menu-item-218"><a href="/" title="">Home</a></li><li class="expanded menu-mlid-503 menu-depth-1 menu-item-503"><a href="/what-are-b-corps" title="What are B Corps?">What are B Corps?</a><ul class="menu clearfix"><li class="first leaf menu-mlid-539 menu-depth-2 menu-item-539"><a href="/what-are-b-corps/why-b-corps-matter" title="Why B Corps Matter">Why B Corps Matter</a></li><li class="leaf menu-mlid-540 menu-depth-2 menu-item-540"><a href="/what-are-b-corps/the-b-corp-declaration">The B Corp Declaration</a></li><li class="leaf menu-mlid-541 menu-depth-2 menu-item-541"><a href="/what-are-b-corps/legislation" title="Passing Legislation">Passing Legislation</a></li><li class="last leaf has-children menu-mlid-542 menu-depth-2 menu-item-542"><a href="/what-are-b-corps/the-non-profit-behind-b-corps">The Non-Profit Behind B Corps</a></li></ul></li><li class="expanded menu-mlid-504 menu-depth-1 menu-item-504"><a href="/become-a-b-corp" title="Become a B Corp">Become a B Corp</a><ul class="menu clearfix"><li class="first leaf has-children menu-mlid-543 menu-depth-2 menu-item-543"><a href="/become-a-b-corp/why-become-a-b-corp" title="Why Become a B Corp?">Why Become a B Corp?</a></li><li class="leaf has-children menu-mlid-544 menu-depth-2 menu-item-544"><a href="/become-a-b-corp/how-to-become-a-b-corp">How to Become a B Corp</a></li><li class="last leaf menu-mlid-545 menu-depth-2 menu-item-545"><a href="/become-a-b-corp/not-sure" title="Not Sure?">Not Sure?</a></li></ul></li><li class="expanded menu-mlid-536 menu-depth-1 menu-item-536"><a href="/b-corp-community" title="B Corp Community">B Corp Community</a><ul class="menu clearfix"><li class="first leaf menu-mlid-927 menu-depth-2 menu-item-927"><a href="/community/find-a-b-corp" title="Find a B Corp">Find a B Corp</a></li><li class="leaf menu-mlid-658 menu-depth-2 menu-item-658"><a href="/community/founding-b-corps" title="Founding B Corps">Founding B Corps</a></li><li class="leaf menu-mlid-550 menu-depth-2 menu-item-550"><a href="/community/b-corp-calendar" title="B Corp Calendar">B Corp Calendar</a></li><li class="leaf menu-mlid-1110 menu-depth-2 menu-item-1110"><a href="/community/jobs-board" title="The B Corp Jobs Board">B Corp Jobs Board</a></li><li class="last leaf menu-mlid-1340 menu-depth-2 menu-item-1340"><a href="/community/community-partners" title="Community Partners">Community Partners</a></li></ul></li><li class="expanded menu-mlid-537 menu-depth-1 menu-item-537"><a href="/b-the-change" title="B the Change">B the Change</a><ul class="menu clearfix"><li class="first leaf has-children menu-mlid-720 menu-depth-2 menu-item-720"><a href="/b-the-change/b-social" title="">B Social</a></li><li class="leaf menu-mlid-721 menu-depth-2 menu-item-721"><a href="http://www.thepetitionsite.com/takeaction/293/537/354/" title="">B Counted</a></li><li class="leaf menu-mlid-722 menu-depth-2 menu-item-722"><a href="/b-the-change/b-creative">B Creative</a></li><li class="leaf menu-mlid-723 menu-depth-2 menu-item-723"><a href="/b-the-change/b-a-changemaker">B a Changemaker</a></li><li class="last leaf menu-mlid-725 menu-depth-2 menu-item-725"><a href="/b-the-change/b-a-recruiter">B a Recruiter</a></li></ul></li><li class="last expanded menu-mlid-538 menu-depth-1 menu-item-538"><a href="/news-media" title="News &amp; Media">News &amp; Media</a><ul class="menu clearfix"><li class="first leaf menu-mlid-594 menu-depth-2 menu-item-594"><a href="/blog" title="The Blog">The Blog</a></li><li class="leaf menu-mlid-877 menu-depth-2 menu-item-877"><a href="/news-media/videos">Videos</a></li><li class="leaf has-children menu-mlid-557 menu-depth-2 menu-item-557"><a href="/news-and-media/annual-report-2012" title="Annual Report 2012">Annual Report 2012</a></li><li class="leaf menu-mlid-558 menu-depth-2 menu-item-558"><a href="/news-and-media/annual-report-2011" title="Annual Report 2011">Annual Report 2011</a></li><li class="last leaf menu-mlid-559 menu-depth-2 menu-item-559"><a href="/news-and-media/annual-report-2009" title="Annual Report 2009">Annual Report 2009</a></li></ul></li></ul></div>
 </div>
-
-
-
-
-
+  </div></nav><div id="block-block-1" class="block block-block no-title"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><a href="/what-are-b-corps/the-non-profit-behind-b-corps" title="The Non-Profit Behind B Corps"><p>B Lab is a nonprofit organization dedicated to using the power of business to solve social and environmental problems.</p></a></div>
+  </div></div></div></div>  <div class="region region-footer-secondary"><div class="region-inner clearfix"><div id="block-menu-menu-sub-footer" class="block block-menu no-title" role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-563"><a href="/terms-of-use" title="">Terms of Use</a></li><li class="leaf active-trail menu-depth-1 menu-item-564"><a href="/privacy-policy" title="" class="active-trail active">Privacy Policy</a></li><li class="leaf menu-depth-1 menu-item-565"><a href="/site-map" title="">Site Map</a></li><li class="leaf menu-depth-1 menu-item-566"><a href="/what-are-b-corps/the-non-profit-behind-b-corps" title="">About B Lab</a></li><li class="leaf menu-depth-1 menu-item-876"><a href="/contact" title="">Contact Us</a></li><li class="last leaf menu-depth-1 menu-item-567"><a href="/complaints" title="">Complaints</a></li></ul></div>
+  </div></div><div id="block-block-2" class="block block-block no-title"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><p>© Copyright 2013 B Lab. All rights reserved</p></div>
+  </div></div></div></div></footer>
+		<script src="http://www.bcorporation.net/sites/all/libraries/modernizr/modernizr.custom.84967.js?mmi6ww"></script>
+<script src="http://www.bcorporation.net/sites/default/files/js/js_YG98FuAkznGpfUVD7la3EObWLhNr4zOIqZcdXzZxHVI.js"></script>
+<script src="http://www.bcorporation.net/sites/default/files/js/js_QbKRy0XNKOTV4U2UTLWU9oaNHxmBxgG6VLm5DG76sHA.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-15633041-5"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://www.bcorporation.net/sites/default/files/js/js_GjkgNMYZawG9CEMma96KMNNoS4Hwu4qZmudeFi21AnU.js"></script>
+<script>jQuery(function(){
+jQuery('#superfish-1').supersubs({minWidth: 12, maxWidth: 27, extraWidth: 1}).superfish({
+animation: {opacity:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true});
+});</script>
+<script src="http://www.bcorporation.net/sites/default/files/js/js_-IsPR_nEsG-MiEopzxh4-zGVyK3CPP8CrIXnjWCKwvY.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bcorp","theme_token":"q5kdVC7jsDHxhcuvJJKCDWtPbN5mg3HZl2G6aMxpijQ","js":{"sites\/all\/libraries\/modernizr\/modernizr.custom.84967.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/chosen\/chosen.js":1,"sites\/all\/modules\/fancybox\/fancybox.js":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.pack.js":1,"sites\/all\/libraries\/fancybox\/lib\/jquery.mousewheel-3.0.6.pack.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/adaptivetheme\/bcorp\/scripts\/advisory-tabs.js":1,"1":1,"sites\/all\/themes\/adaptivetheme\/bcorp\/scripts\/search-text.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"0":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/adaptivetheme\/bcorp\/css\/global.base.css":1,"sites\/all\/themes\/adaptivetheme\/bcorp\/css\/global.styles.css":1,"public:\/\/adaptivetheme\/bcorp_files\/bcorp.default.layout.css":1}},"chosen":{"selector":"select","minimum":"5"},"fancybox":{"selectors":[".various, .fancybox"]},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.bcorporation.net"]}});</script>
 
 
 </body></html>
