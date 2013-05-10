@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224025859id_/http%3A//www.ja.org/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510093031id_/http%3A//ja.org/about/privacy.shtml) for the most accurate reproduction.*
 
 # About JA - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 _This statement discloses the privacy practices of Junior Achievement USA® and JA Worldwide® for our Website at "ja.org" and our products and services. You acknowledge this privacy policy is part of our Terms of Use, and by accessing our Website or using our products and services, you agree to be bound by all of the Terms of Use and understand this privacy policy. We refer to ourselves as "Junior Achievement" in this policy. Questions pertaining to this policy should be directed to:[newmedia@ja.org](mailto:newmedia@ja.org) for clarification._
 
-[Website Terms and Conditions](https://web.archive.org/web/20121224025859id_/http%3A//www.ja.org/about/terms.shtml)
+[Website Terms and Conditions](https://web.archive.org/web/20130510093031id_/http%3A//ja.org/about/terms.shtml)
 
 Our Privacy Vow
 
@@ -56,6 +56,6 @@ Updates to Policy
 
 Periodically, we may change, modify, make additions to or deletions from this policy, without giving you prior notice, or any notice. Any modifications to this policy will be posted as part of this policy. We suggest that you review and update yourself regarding this policy. Your continued use of our Website or products and services after any changes or modifications constitutes your agreement to follow and be bound by any changes or modifications. 
 
-[ ](https://web.archive.org/web/20121224025859id_/http%3A//www.ja.org/about/about_res_stan.shtml)Individuals may opt-out of communications, thereby terminating all existing information he or she may have registered with Junior Achievement. This is done by sending an email to [newmedia@ja.org](mailto:newmedia@ja.org) and requesting a removal from our database.
+[ ](https://web.archive.org/web/20130510093031id_/http%3A//ja.org/about/about_res_stan.shtml)Individuals may opt-out of communications, thereby terminating all existing information he or she may have registered with Junior Achievement. This is done by sending an email to [newmedia@ja.org](mailto:newmedia@ja.org) and requesting a removal from our database.
 
 Any modifications to this policy will be posted in this space. We welcome any questions or comments you have. 
