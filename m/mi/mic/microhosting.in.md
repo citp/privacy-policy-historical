@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microhosting.in privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231154320id_/http%3A//www.microhosting.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microhosting.in privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510094354id_/http%3A//www.microhosting.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MicroHosting
 
@@ -89,10 +89,10 @@ To review and update your personal information to ensure it is accurate, you may
 **Contact Information**  
 You can contact us about this privacy statement by writing or email us at the address below:  
 **MicroHosting**  
-Sector 63  
+B-149, Sector 63  
 Noida  
 Uttar Pradesh  
 201301  
 India   
-91-0120-4124000  
+91-0120-4840000  
 Email: [info@microhosting.in](mailto:info@microhosting.in)
