@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183650id_/http%3A//www.thelimited.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510061425id_/http%3A//www.thelimited.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy | THE LIMITED
 
@@ -85,7 +85,7 @@ If you provide us your email address after March 12, 2010 (including updating yo
 
 When you send an email from THELIMITED.com to a friend, we will send your selected recipient your email address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from THELIMITED.com. 
 
-World Financial Network Bank (WFNNB) issues and owns The Limited Credit Card accounts. If you apply online for a The Limited Credit Card with WFNNB and, once opened, you elect to pay your account online, you will be providing your personal information directly to WFNNB and the information you provide to WFNNB would be subject to WFNNB's privacy policies. 
+Comenity Bank issues and owns The Limited Credit Card accounts. If you apply online for a The Limited Credit Card with Comenity Bank and, once opened, you elect to pay your account online, you will be providing your personal information directly to Comenity Bank and the information you provide to Comenity Bank would be subject to Comenity Bank's privacy policies. 
 
 There is a possibility that The Limited could merge with, acquire, or be acquired by another business entity, or be involved in a corporate reorganization or other change of control. If such an action occurs, some or all of the personal information collected about you could be shared with this entity, and may also be retained by The Limited. 
 
