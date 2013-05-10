@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local.pk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014025656id_/http%3A//info.local.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local.pk privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510235230id_/http%3A//info.local.pk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Local.pk
 
