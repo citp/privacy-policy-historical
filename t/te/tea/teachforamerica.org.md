@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachforamerica.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127200711id_/http%3A//www.teachforamerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachforamerica.org privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510043711id_/https%3A//www.teachforamerica.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teach For America
 
