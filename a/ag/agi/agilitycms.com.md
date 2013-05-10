@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016022159id_/http%3A//www.agilitycms.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211322id_/http%3A//www.agilitycms.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Cloud Content Management System (CMS) for Media Sites and Corporate Sites
 
