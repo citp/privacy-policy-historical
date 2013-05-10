@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doit.im privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235746id_/http%3A//doit.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doit.im privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204520id_/http%3A//doit.im/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Time and Task Management System, Always Online, Always With You!
+# Privacy Policy | Best Online GTD Service for Getting Things Done, Always Online, Always With You!
 
 ## Privacy Policy
 
