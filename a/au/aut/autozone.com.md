@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2011-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110729012126id_/http%3A//www.autozone.com/autozone/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510111424id_/http%3A//www.autozone.com/autozone/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
 
 # AutoZone.com | Privacy Policy
 
@@ -12,17 +12,7 @@ We may collect certain personally identifiable information, including but not li
 
 The Web Site may use third party products and services to gather anonymous traffic statistics using cookies and web beacons. A cookie is a small piece of information stored with your browser that helps web sites and multiple servers recognize you. AutoZone and its third party service providers may also use pixels, or transparent GIF files, for web site management and user tracking.
 
-You may opt out of receiving Omniture's cookies at
-
-[http://www.omniture.com/en/privacy/product](http://www.websidestory.com/privacy). 
-
-You may opt out of DoubleClick's tracking mechanisms at
-
-[http://optout.doubleclick.net/dclk/optout-success.html](http://www.doubleclick.net/us/corporate/privacy). 
-
-You may opt out of Akamai's tracking mechanisms at
-
-<http://www.networkadvertising.org/managing/opt_out.asp>. 
+AutoZone.com trasmits non-personally identifiable user information about visitors to the servers of reputable third parties for the purpose of targeting our internet banner advertisements on other sites. To do this, we use Web Beacons in conjunction with cookie level data. To opt out of having non-personal information or cookies used to target ads to you by the party service providers, please [Click Here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### Information Use
 
