@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the therabreath.com privacy policy that was archived on 2012-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102065057id_/http%3A//www.therabreath.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the therabreath.com privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510044430id_/http%3A//www.therabreath.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="/jquery/jquery-1.5.min.js"></script>
@@ -138,7 +138,6 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 	,['Afghanistan','TheraBreath','1']
 	,['Albania','California Breath or TetroBreath','0','#FFFFAA']
 	,['Algeria','TheraBreath','1']
-	,['American Samoa','TheraBreath','1']
 	,['Andorra','California Breath or TetroBreath','0','#FFFFAA']
 	,['Angola','TheraBreath','1']
 	,['Anguilla','TheraBreath','1']
@@ -164,7 +163,6 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 	,['Bonaire','TheraBreath','1']
 	,['Bosnia Herzogovina','California Breath or TetroBreath','0','#FFFFAA']
 	,['Botswana','TheraBreath','1']
-	,['Brazil','TheraBreath','1']
 	,['Brunei','TheraBreath','1']
 	,['Bulgaria','California Breath or TetroBreath','0','#FFFFAA']
 	,['Burundi','TheraBreath','1']
@@ -212,7 +210,6 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 	,['Greenland','TheraBreath','1']
 	,['Grenada','TheraBreath','1']
 	,['Guadeloupe','TheraBreath','1']
-	,['Guam','TheraBreath','1']
 	,['Guatemala','TheraBreath','1']
 	,['Guernsey','California Breath','0','#FFAAAA']
 	,['Guyana','TheraBreath','1']
@@ -282,7 +279,6 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 	,['Norway','TetroBreath','0','#AAFFAA']
 	,['Oman','TheraBreath','1']
 	,['Pakistan','TheraBreath','1']
-	,['Palau','TheraBreath','1']
 	,['Panama','TheraBreath','1']
 	,['Papua New Guinea','TheraBreath','1']
 	,['Paraguay','TheraBreath','1']
@@ -290,7 +286,6 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 	,['Philippines','TheraBreath','1']
 	,['Poland','TetroBreath','0','#AAFFAA']
 	,['Portugal','TetroBreath','0','#AAFFAA']
-	,['Puerto Rico','TheraBreath','1']
 	,['Qatar','TheraBreath','1']
 	,['Reunion Island','TheraBreath','1']
 	,['Romania','California Breath or TetroBreath','0','#FFFFAA']
@@ -337,14 +332,12 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 	,['Uganda','TheraBreath','1']
 	,['Ukraine','California Breath or TetroBreath','0','#FFFFAA']
 	,['United Arab Emirates','TheraBreath','1']
-	,['United States Minor Outlying Islands','TheraBreath','1']
 	,['Uruguay','TheraBreath','1']
 	,['Uzbekistan','TheraBreath','1']
 	,['Vatican City','TetroBreath','0','#AAFFAA']
 	,['Venezuela','TheraBreath','1']
 	,['Vietnam','TheraBreath','1']
 	,['Virgin Islands (Br.)','TheraBreath','1']
-	,['Virgin Islands (US)','TheraBreath','1']
 	,['Wales, UK','California Breath','0','#FFAAAA']
 	,['Western Sahara','TheraBreath','1']
 	,['Yemen','TheraBreath','1']
@@ -375,7 +368,13 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 			}
 			else
 			{	
-				msg="<div style=\"width:370px; text-align:left; line-height:1.5em\">Dr Harold Katz, LLC distributes its formulas Internationally through  Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name. We  will now redirect you to your regional distributors web site. You are  now leaving the TheraBreath (US) Web Site and understand Dr Harold  Katz, LLC is not responsible for further content. " + redirectURL + "</div>";				
+				if (country == "Mexico") {
+					msg="<div style=\"width:370px; text-align:left; line-height:1.5em\">Dr. Harold Katz, LLC distribuye sus productos atravez de distribuidores independientes en varios paises. En <b>M&eacute;xico</b>, nuestra marca se vende como <b>TheraBreath</b>. Ahora te vamos a redirigir a las oficinas de <b>TheraBreath M&eacute;xico</b>. De estas oficinas se distribuye a todo M&eacute;xico. En este momento estas saliendo del sitio web de TheraBreath (US) y enti&eacute;ndase que Dr. Harold Katz, LLC no se hace responsable del contenido en otros sitios. Gracias por tu visita.<BR><center><a href=\""+url+"\">He le&iacute;do la declaraci&oacute;n; haz click para continuar...</a></center><br/><br/>Dr. Harold Katz, LLC distributes its formulas Internationally through Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name. We  will now redirect you to your regional distributors web site. You are  now leaving the TheraBreath (US) Web Site and understand Dr. Harold  Katz, LLC is not responsible for further content. " + redirectURL + "</div>"
+				}
+				else
+				{
+				msg="<div style=\"width:370px; text-align:left; line-height:1.5em\">Dr. Harold Katz, LLC distributes its formulas Internationally through Independent Distributors under several other brand names. In <b>"+ getPrefix(country) + country + "</b> our products are sold under the <b>" + brand + "</b> brand name. We will now redirect you to your regional distributors web site. You are  now leaving the TheraBreath (US) Web Site and understand Dr. Harold Katz, LLC is not responsible for further content. " + redirectURL + "</div>";			
+				}
 			}
 			if (country.toLowerCase().indexOf("europe")>=0 || overideHide == 1 || CountryBrandList[country].hide == 0)		
 			{
@@ -484,12 +483,12 @@ function googleTranslateElementInit() {
 				<table cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td valign="middle" class="toptab" style="height:25px; background:#cc0000 url('/images/topnav-cart-bg.gif') 0 0 repeat-x;padding:0px 10px;">
-							<a href="http://www.therabreath.com/shop/cart.asp" style="text-decoration:none;">
+							<a href="https://www.therabreath.com/shop/cart.asp" style="text-decoration:none;">
               <img align="left" src="/images/header-cart-icon.gif" border="0" alt="Shopping Cart">
-							0 items ($0.00)</a> <a href="http://www.therabreath.com/shop/cart.asp"><strong>Cart</strong></a>
+							0 items ($0.00)</a> <a href="https://www.therabreath.com/shop/cart.asp"><strong>Cart</strong></a>
 						</td>
 						<!--td class="toptab" style="background-color:#cc0000; background-image:url('/images/topnav-cart-bg.gif'); background-repeat: repeat-x">
-							<a href="http://www.therabreath.com/shop/cart.asp"><strong>Cart</strong></a>
+							<a href="https://www.therabreath.com/shop/cart.asp"><strong>Cart</strong></a>
 						</td-->
                         </tr>
 				
@@ -499,7 +498,7 @@ function googleTranslateElementInit() {
 				
                         
 							<a href="http://www.therabreath.com/contactus.asp">Contact Us</a>
-							<!--a href="http://www.therabreath.com/shop/signin.asp">Log in/Register</a-->
+							<!--a href="https://www.therabreath.com/shop/signin.asp">Log in/Register</a-->
                             
 						
 			</td>	
@@ -524,7 +523,7 @@ function googleTranslateElementInit() {
 		
 		<td width="328" rowspan="2" align="center" valign="middle">			
 			<span class="testimonial-title">Bad Breath Testimonials</span>
-			<img src="/images/testimonials/Test-229.gif"></td>
+			<img src="/images/testimonials/Test-123.gif"></td>
 		<!-- TESTIMONIAL END -->
 		<td rowspan="2">
 			<img src="/images/therabreath-mid_04.gif" width="19" height="95"></td>
@@ -613,6 +612,21 @@ I'm <strong>Dr. Harold Katz</strong>, founder of <em>The California Breath Clini
 	}
 //-->	
 </script>
+  <!-- start google translate --> 
+  <div id="google_translate_element" style="font:10px Arial, Helvetica, sans-serif; padding-bottom:5px; background-color:#FFF;"></div>
+  <script>
+  function googleTranslateElementInit() {
+  
+    new google.translate.TranslateElement({
+  
+      pageLanguage: 'en'
+  
+    }, 'google_translate_element');
+  }
+  </script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+  <style type="text/css">.goog-te-combo {font-size:11px;}</style>
+  <!-- end google translate -->   
 <!-- Phone Number -->
 <div style="background-color:#fff; padding:5px 0px 5px 0px; font-size:11px;  text-align:center;overflow:hidden;width:100%;"> Questions? Ordering by Phone?<br>
   <div align="center">
@@ -687,7 +701,7 @@ I'm <strong>Dr. Harold Katz</strong>, founder of <em>The California Breath Clini
     </tr>
   </tbody></table>
 </div>
-
+  
 <!-- Shop By Category -->
 <div style="background-color:#00549c; padding:5px 0px 5px 0px; text-align:center"> <a href="/category.asp"><img src="/images/leftnav-products-title.gif" border="0" height="12" alt="View All Products"></a> </div>
 <!--Shop by Products-->
@@ -695,180 +709,109 @@ I'm <strong>Dr. Harold Katz</strong>, founder of <em>The California Breath Clini
   <table width="159" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td style="color:#fff">
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left" valign="top" style="padding-top:5px"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/docs/bpaknov12.asp" title="Bonus Pak Sale  SAVE 60%+ NOW" style="font-size:11px; font-family:tahoma; font-weight:normal; color:#0070ba;"><b>Bonus Pak Sale</b></a>&nbsp;<span style="color:red; font-size:10px; font-family:tahoma; font-weight:bold; text-decoration:none"><br>
-              SAVE 60%+ NOW</span></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
+        <table cellspacing="0" cellpadding="0" border="0" width="159">
           <tbody><tr>
             <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/starter-kits/" title="Starter Kits for preventing bad breath" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Starter Kits</a></td>
+            <td valign="middle" align="left"><a href="/starter-kits/" title="Starter Kits">Starter Kits</a></td>
           </tr>
           <tr>
             <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
           </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/mouthwash/" title="Mouthwashes" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Mouthwash</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/toothpaste/" title="Toothpaste and Tooth Gels" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Toothpaste</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/sprays-drops/" title="Sprays and Drops" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Sprays and Drops</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/gum-mints-strips/" title="Gums Mints and Strips" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Gum and Mints</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/family-size-paks/" title="Family Size Paks" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Family Size Paks</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/oral-care-probiotics/" title="Aktiv-K12 ProBiotics" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Oral Care Probiotics</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/teeth-whitening/" title="Teeth Bleaching" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Teeth Whitening</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/oral-care-accessories/" title="Oral Care Accessories" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Oral Care Accessories</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/travel-size/" title="" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Travel Size</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/tonsil-stones/" title="Tonsil Stone Solutions from TheraBreath" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Tonsil Stones Solutions</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/pet-products/" title="Pet Products" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Pet Products</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/breath-products/" title="Other Breath Products" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Other Breath Products</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>
-        </tbody></table>
-        
-        <table cellspacing="0" cellpadding="0" border="0">
-        
-          <tbody><tr>
-            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/deal-of-the-day.asp" title="Deal Of The Day Special" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Deal Of The Day</a></td>
-          </tr>
-          <tr>
-            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>          
-          
+
           <tr>
             <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/docs/offeredproducts.asp" title="Sales and Specials" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Sales &amp; Specials</a></td>
+            <td valign="middle" align="left"><a href="/mouthwash/" title="Mouthwash">Mouthwash</a></td>
           </tr>
           <tr>
             <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
-          </tr>        
-        </tbody></table>
-        
-         <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
+          </tr>
+
+          <tr>
             <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
-            <td valign="middle" align="left"><a href="/case-pack-specials.asp" title="TheraBreath's Case Pack Specials" style="font-size:12px; font-family:tahoma; font-weight:normal; color:#0070ba;">Case Pack Specials</a></td>
+            <td valign="middle" align="left"><a href="/toothpaste/" title="Toothpaste">Toothpaste</a></td>
           </tr>
           <tr>
             <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
           </tr>
-          </tbody></table>              
-                    
-                    
-                    </td>
-    </tr>
-  </tbody></table>
+
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/sprays-drops/" title="Sprays and Drops">Sprays and Drops</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/gum-mints-strips/" title="Gum and Mints">Gum and Mints</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+
+        
+
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/money-saving-bonus-paks/" title="Money-Saving Bonus Paks">Money-Saving Bonus Paks</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+
+        
+
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/family-size-paks/" title="Family Size Paks">Family Size Paks</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/oral-care-probiotics/" title="Oral Care Probiotics">Oral Care Probiotics</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/teeth-whitening/" title="Teeth Whitening">Teeth Whitening</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/travel-size/" title="Travel Size">Travel Size</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+        
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/accessories-and-more/" title="Accessories and More">Accessories and More</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+        
+          <tr>
+            <td width="8" align="left"><img src="/images/leftnav-arrow-icon.gif" border="0" width="8" hspace="2"></td>
+            <td valign="middle" align="left"><a href="/special-offers/" title="Special Offers">Special Offers</a></td>
+          </tr>
+          <tr>
+            <td style="padding:0px"><img src="/images/spacer.gif" border="0" height="7"></td>
+          </tr>
+        </tbody></table>	
+</td></tr>
+</tbody></table>        
 </div>
 <!-- Shop by Solutions -->
 
@@ -1099,16 +1042,13 @@ var google_conversion_value = 0;
 			<div align="left" style="width:510px" id="printReady">
                 <div style="width:510px;text-align:center;padding-top:10px;">
                 
-<div style="width:520px; padding-top:3px;" align="center"> 
-<!--a href="docs/bpakjan11.asp"> <img src="images/bp/bonus-pak-jan-2011-1.jpg" width="520" height="205" alt="Bonus Pak Sale - Save up to 60% today on the most popular TheraBreath Formulas. Up to $157 in FREE items with every Bonus Pak"  border="0"></a-->
-<!--img src="/ads/employee-pricing-event.jpg" border="0" /-->
-<div style="width:520px;overflow:visible;"><a href="/ads/files/adtrack.asp?url=http%3A%2F%2Fwww%2Etherabreath%2Ecom%2Fdocs%2Fbpaknov12%2Easp&amp;image=/ads/bonus-pak-sale-june-2012-1.jpg" target="_self"><img src="/ads/bonus-pak-sale-june-2012-1.jpg" alt="TheraBreath's Semi-Annual Bonus Pak Sale is going on now! Save up to 60% plus receive up to $172 in free items and free shipping to anywhere in the USA and now Canada, too! Hurry, this is a limited time offer so click here to start shopping now to save." border="0"></a></div>
-<!-- Display banner ad rotation for bonus pak -->
-
-<br>
-  
-</div>
-
+		<div style="width:520px; padding-bottom:8px;" align="center">
+        <a href="http://www.therabreath.com/facefiles/product-freeshipping.asp" rel="facebox[.fbpopup]"><img src="/images/free-shipping-usa-canada-99-dollars.gif" border="0" alt="Free Ground Shipping on All Orders over $99 to anywhere in the USA and Canada"></a>
+        </div>
+        <div style="width:520px;" align="center">
+        <img src="/images/banners/mothers-day-special-therabreath-offer.jpg" alt="Happy Mother's Day! Save 20% plus free shipping on every order $25 or more with coupon code." title="Happy Mother's Day! Save 20% plus free shipping on every order $25 or more with coupon code." border="0">
+        </div>
+        
                 </div>
 				<div class="art-header" style="padding-top:10px;">
 					<h1 class="art-title">
@@ -1204,7 +1144,7 @@ var google_conversion_value = 0;
 					<td width="350" style="line-height:1.35em"> 
 						<table width="350" cellspacing="0" cellpadding="0" border="0">
 							<tbody><tr>
-								<td width="28%" style="line-height:1.5em">
+								<td width="28%" valign="top" style="line-height:1.5em">
 									<a href="http://www.therabreath.com/" style="font-size:11px; font-family:tahoma; color:#0070ba">Home</a><br>
 									<a href="http://www.therabreath.com/category.asp" style="font-size:11px; font-family:tahoma; color:#0070ba">Products</a><br>
 									<a href="http://www.therabreath.com/articles.html" style="font-size:11px; font-family:tahoma; color:#0070ba">Research</a><br>
@@ -1216,7 +1156,8 @@ var google_conversion_value = 0;
 									<a href="http://www.therabreath.com/about/faq.asp" style="font-size:11px; font-family:tahoma; color:#0070ba">FAQs</a><br>
 									<a href="http://www.therabreath.com/about/" style="font-size:11px; font-family:tahoma; color:#0070ba">About TheraBreath</a><br>
 									<a href="http://www.therabreath.com/articles/news/" style="font-size:11px; font-family:tahoma; color:#0070ba">Oral Health News</a><br>
-<a href="http://www.therabreath.com/guides/" style="font-size:11px; font-family:tahoma; color:#0070ba">Guides</a>
+<a href="http://www.therabreath.com/guides/" style="font-size:11px; font-family:tahoma; color:#0070ba">Guides</a><br>
+<a href="http://www.therabreath.com/press/" style="font-size:11px; font-family:tahoma; color:#0070ba">Press Releases</a>
 								</td>
 								<td width="40%" style="line-height:1.5em" valign="top">						
 									<a href="http://www.therabreath.com/associate/" style="font-size:11px; font-family:tahoma; color:#0070ba">Affiliate/Partner Programs</a><br>
@@ -1224,13 +1165,13 @@ var google_conversion_value = 0;
 									<a href="http://www.therabreath.com/loc_distributor.asp" style="font-size:11px; font-family:tahoma; color:#0070ba">TheraBreath Global</a><br>
 									<a href="http://www.therabreath.com/articles/blog/" style="font-size:11px; font-family:tahoma; color:#0070ba">Oral Care Information</a><br>
 									<a href="http://www.therabreath.com/privacy.asp" style="font-size:11px; font-family:tahoma; color:#0070ba">Privacy Policy</a><br>
-
+									<a href="http://www.therabreath.com/terms.asp" style="font-size:11px; font-family:tahoma; color:#0070ba">Terms &amp; Conditions</a><br>
 								</td>
 							</tr>							
 							<tr>
 								<td colspan="3" style="font-size:11px; font-family:tahoma; padding-top:10px; line-height:1.55em">
 									
-									©&nbsp;2012&nbsp;Dr. Harold Katz, LLC. All International Rights Reserved.<br>
+									©&nbsp;2013&nbsp;Dr. Harold Katz, LLC. All International Rights Reserved.<br>
 									
 																<!--<span style="font-size:10px; color:#999; text-decoration:none; cursor:text">Bad Breath | Halitosis</span>-->
 																
@@ -1254,7 +1195,7 @@ var google_conversion_value = 0;
 		<td align="left" style="background-color:#f5f5f5; line-height:1.35em">
 <table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td style="border:1px solid #333;"><img src="/images/social/socialize-with-us.jpg" alt="Socialize with us:" width="141" height="42" border="0"><a href="http://www.therabreath.com/ts/facebook.asp" target="_blank" rel="nofollow"><img src="/images/social/facebook.jpg" alt="Facebook" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/twitter.asp" target="_blank" rel="nofollow"><img src="/images/social/twitter.jpg" alt="Twitter" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/myspace.asp" target="_blank" rel="nofollow"><img src="/images/social/myspace.jpg" alt="MySpace" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/youtube.asp" target="_blank" rel="nofollow"><img src="/images/social/youtube.jpg" alt="YouTube" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/viddler.asp" target="_blank" rel="nofollow"><img src="/images/social/viddler.jpg" alt="Viddler" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/itunes.asp" target="_blank" rel="nofollow"><img src="/images/social/itunes.jpg" alt="iTunes" width="50" height="42" border="0"></a><a href="http://blog.therabreath.com/"><img src="/images/social/blog.jpg" alt="TheraBreath Blog" width="41" height="42" border="0"></a><a href="http://www.therabreath.com/ts/pinterest.asp" rel="nofollow"><img src="/images/social/pinterest.jpg" target="_blank" alt="Pinterest" width="44" height="42" border="0"></a></td>
+    <td style="border:1px solid #333;background-color:#999;"><img src="/images/social/socialize-with-us.jpg" alt="Socialize with us:" width="141" height="42" border="0"><a href="http://www.therabreath.com/ts/facebook.asp" target="_blank" rel="nofollow"><img src="/images/social/facebook.jpg" alt="Facebook" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/twitter.asp" target="_blank" rel="nofollow"><img src="/images/social/twitter.jpg" alt="Twitter" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/myspace.asp" target="_blank" rel="nofollow"><img src="/images/social/myspace.jpg" alt="MySpace" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/youtube.asp" target="_blank" rel="nofollow"><img src="/images/social/youtube.jpg" alt="YouTube" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/viddler.asp" target="_blank" rel="nofollow"><img src="/images/social/viddler.jpg" alt="Viddler" width="50" height="42" border="0"></a><a href="http://www.therabreath.com/ts/itunes.asp" target="_blank" rel="nofollow"><img src="/images/social/itunes.jpg" alt="iTunes" width="50" height="42" border="0"></a><a href="http://blog.therabreath.com/"><img src="/images/social/blog.jpg" alt="TheraBreath Blog" width="41" height="42" border="0"></a><a href="http://www.therabreath.com/ts/pinterest.asp" rel="nofollow"><img src="/images/social/pinterest.jpg" target="_blank" alt="Pinterest" width="44" height="42" border="0"></a></td>
   </tr>
 
 </tbody></table>
