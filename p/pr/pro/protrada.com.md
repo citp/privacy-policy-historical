@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protrada.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004160512id_/http%3A//www.protrada.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protrada.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510215702id_/http%3A//www.protrada.com/general/privacy) for the most accurate reproduction.*
 
-# Protrada - The Domain Exchange
+# Protrada – The Domain Exchange
 
 [](https://privacy.truste.com/privacy-seal/Winged-Media/validation?rid=bc8f95cd-f27e-4997-bb60-ea0343e109ea "TRUSTe online privacy certification")
 
@@ -35,8 +35,6 @@ If you wish to sign up for our affiliate program you will be redirected to our a
 
 C. Networking Monitoring  
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. The information collected is for statistical purposes. Protrada uses software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
-
-The Protrada site also uses the ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. Protrada uses the information collected by ClickTale service to identify opportunities to further improve the user interface. You can choose to disable the Service at http://www.clicktale.net/disable.html. 
 
 D. Cookies   
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
