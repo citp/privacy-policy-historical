@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622031932id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510120925id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
 
-# America’s Test Kitchen :: Privacy
+# Privacy Policy - America's Test Kitchen
 
 We at America’s Test Kitchen (and related brands including _Cook’s Illustrated_ and _Cook’s Country_ ) are committed to respecting your privacy. We recognize the need for appropriate protection of personally identifiable information (any information by which you can be identified, including name, address, e-mail address, or credit card information). The purpose of this privacy policy is to inform you of what personally identifiable information or personal information we may collect from you when you visit our websites, and how we use such information. This policy applies only to users accessing our websites from the United States.
 
