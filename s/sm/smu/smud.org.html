@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the smud.org privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920005217id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smud.org privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510225652id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/headContent.js"></script>
   <meta charset="utf-8">
 
   <!-- Use the .htaccess and remove these lines to avoid edge case issues.
@@ -13,7 +14,7 @@
   <meta name="author" content="">
 
   <!-- Mobile viewport optimized: j.mp/bplateviewport -->
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=960">
 
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
 
@@ -35,7 +36,7 @@
   <!-- All JavaScript at the bottom, except for Modernizr / Respond.
        Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
        For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/libs/modernizr-2.0.6.min.js"></script>
+  <script src="/scripts/libs/modernizr-custom.js"></script>
 
 <link href="/scripts/popbox/popbox.css" media="screen" rel="stylesheet" type="text/css">
   <script src="/scripts/jquery.js" type="text/javascript"></script>
@@ -61,81 +62,108 @@ jQuery(document).ready(function($) {
 	  })();
 </script>
 
+<script type="text/javascript"> 
+var monthtext=['January','February','March','April','May','June','July','August','September','October','November','December'];
+function populatedropdown(monthfield, dayfield, yearfield){
+var today=new Date()
+var monthfield=document.getElementById(monthfield)
+var dayfield=document.getElementById(dayfield)
+var yearfield=document.getElementById(yearfield)
+for (var i=0; i<31; i++)
+dayfield.options[i]=new Option(i, i+1)
+dayfield.options[today.getDate()]=new Option(today.getDate(), today.getDate(), true, true) //select today's day
+for (var m=0; m<12; m++)
+monthfield.options[m]=new Option(monthtext[m], monthtext[m])
+monthfield.options[today.getMonth()]=new Option(monthtext[today.getMonth()], monthtext[today.getMonth()], true, true) //select today's month
+var thisyear=today.getFullYear()
+for (var y=0; y<2; y++){
+yearfield.options[y]=new Option(thisyear, thisyear)
+thisyear+=1
+}
+yearfield.options[0]=new Option(today.getFullYear(), today.getFullYear(), true, true) //select today's year
+}
+</script>
+
 </head>
 
 <body class="about">
     <div id="container">
 	  <div id="innercontainer">
-<header id="globalheader">
-	<nav id="globalnav"> <iframe id="loginFrame" src="https://myaccount.smud.org/sub/HeaderLoginIframe.aspx" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-		<ul>
-	    	<li><a href="/en/outages/">Outages</a></li>
-			<li><a href="/en/about-smud/careers/">Careers</a></li>
-			<li><a href="/en/do-business-with-smud/">Do Business with SMUD</a></li>
-			<li><a href="/en/about-smud/contact-us/">Contact Us</a></li>
-			<li><a href="/es/">En Español</a></li>
-		</ul>
-	</nav>
-<div id="mainnav">
-	<!-- Begin Search Box -->
-<div id="gsearchbox">
-	<div id="cse-search-form" style="width: 125px; height: 19px; position: relative; left:774px; top: 29px;">Loading</div>
-    <div id="searchLabel">Search:</div>
-	<script src="https://www.google.com/jsapi" type="text/javascript"></script>
-	<script type="text/javascript"> 
-		google.load('search', '1', {language : 'en', style : google.loader.themes.DEFAULT});
-		google.setOnLoadCallback(function() {
-		var customSearchControl = new google.search.CustomSearchControl('014008767893774884428:glsazfqpcte');
-		customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-		var options = new google.search.DrawOptions();
-		options.enableSearchboxOnly("/en/results.htm");
-		customSearchControl.draw('cse-search-form', options);
-		}, true);
-	</script>
-</div>
-<!-- End Search Box -->
-<a href="/" id="logo">SMUD</a>
-	<nav>
-		<ul>
-			<li class="home"><a href="/">Home Page</a></li>
-			<li class="residential"><a href="/en/residential/">Residential</a>
+		<header id="globalheader">
+			<nav id="globalnav">
+				<iframe id="loginFrame" src="https://myaccount.smud.org/sub/HeaderLoginIframe.aspx" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 				<ul>
-	                <li><a href="/en/residential/customer-service/">Customer Service</a></li>
-	                <li><a href="/en/residential/save-energy/">Save Energy &amp; Money</a></li>
-	                <li><a href="/en/residential/environment/">Environment</a></li>
-	                <li><a href="/en/residential/education-safety/">Education &amp; Safety</a></li>
-                 </ul>
-             </li>
-	         <li class="business"><a href="/en/business/">Business</a>
-	             <ul>
-	                <li><a href="/en/business/customer-service/">Customer Service</a></li>
-	                <li><a href="/en/business/save-energy/">Save Energy &amp; Money</a></li>
-	                <li><a href="/en/business/environment/">Environment</a></li>
-	                <li><a href="/en/business/education-safety/">Education &amp; Safety</a></li>
-                 </ul>
-              </li>
-	          <li class="aboutsmud"><a href="/en/about-smud/" class="selected">About SMUD</a>
-	             <ul>
-	                <li><a href="/en/about-smud/company-information/">Company Information</a></li>
-	                <li><a href="/en/about-smud/news-media/">News &amp; Media</a></li>
-	                <li><a href="/en/about-smud/community/">Community</a></li>
-	                <li><a href="/en/about-smud/environment/">Environment</a></li>
-	                <li><a href="/en/about-smud/careers/">Careers</a></li>
-                 </ul>
-              </li>
-	          <li class="myaccount"><a href="/en/my-account/">My Account</a>
-              <ul>
-	            <li><a href="https://myaccount.smud.org/eBillPay/oneTimePayment.aspx?pType=one">Pay Bill</a></li>
-	            <li><a href="https://myaccount.smud.org/BillHistory/GetImage.aspx?v=t">View Current Bill</a></li>
-		  <li><a href="https://myaccount.smud.org/informational/EnergyUsage.aspx">View Electricity Use</a></li>
-		  <li><a href="https://myaccount.smud.org/">Manage Online Account</a></li>
-                    <li><a href="https://myaccount.smud.org/UnEnrolledPayment/AcctValidation.aspx">Make a Loan Payment</a></li>
-                 </ul>
-</li>
-		</ul>
-	</nav>
-</div>
-</header><div id="main" role="main">
+					<li><a href="/en/outages/">Outages</a></li>
+					<li><a href="/en/about-smud/careers/">Careers</a></li>
+					<li><a href="/en/do-business-with-smud/">Do Business with SMUD</a></li>
+					<li><a href="/en/about-smud/contact-us/">Contact Us</a></li>
+					<li><a href="/es/">En Español</a></li>
+				</ul>
+				<div class="hidden" id="mobileRedirectLink"><a href="" onclick="redirectToMobile(true); return false;">Go Mobile</a></div>
+			</nav>
+			<div id="mainnav">
+				<!-- Begin Search Box -->
+				<div id="gsearchbox">
+					<div id="cse-search-form" style="width: 125px; height: 19px; position: relative; left:774px; top: 29px;">Loading</div>
+					<div id="searchLabel">Search:</div>
+					<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+					<script type="text/javascript"> 
+						google.load('search', '1', {language : 'en', style : google.loader.themes.DEFAULT});
+						google.setOnLoadCallback(function() {
+						var customSearchControl = new google.search.CustomSearchControl('014008767893774884428:glsazfqpcte');
+						customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+						var options = new google.search.DrawOptions();
+						options.enableSearchboxOnly("/en/results.htm");
+						customSearchControl.draw('cse-search-form', options);
+						}, true);
+					</script>
+				</div>
+				<!-- End Search Box -->
+				<a href="/" id="logo">SMUD</a>
+				<nav>
+					<ul>
+						<li class="home"><a href="/">Home Page</a></li>
+						<li class="residential"><a href="/en/residential/">Residential</a>
+							<ul>
+								<li><a href="/en/residential/customer-service/">Customer Service</a></li>
+								<li><a href="/en/residential/save-energy/">Save Energy &amp; Money</a></li>
+								<li><a href="/en/residential/environment/">Environment</a></li>
+								<li><a href="/en/residential/education-safety/">Education &amp; Safety</a></li>
+							 </ul>
+						 </li>
+						 <li class="business"><a href="/en/business/">Business</a>
+							 <ul>
+								<li><a href="/en/business/customer-service/">Customer Service</a></li>
+								<li><a href="/en/business/save-energy/">Save Energy &amp; Money</a></li>
+								<li><a href="/en/business/environment/">Environment</a></li>
+								<li><a href="/en/business/education-safety/">Education &amp; Safety</a></li>
+							 </ul>
+						  </li>
+						  <li class="aboutsmud"><a href="/en/about-smud/">About SMUD</a>
+							 <ul>
+								<li><a href="/en/about-smud/company-information/">Company Information</a></li>
+								<li><a href="/en/about-smud/news-media/">News &amp; Media</a></li>
+								<li><a href="/en/about-smud/community/">Community</a></li>
+								<li><a href="/en/about-smud/environment/">Environment</a></li>
+								<li><a href="/en/about-smud/careers/">Careers</a></li>
+							 </ul>
+						  </li>
+						  <li class="myaccount"><a href="/en/my-account/">My Account</a>
+							<ul>
+								<li><a href="https://myaccount.smud.org/eBillPay/oneTimePayment.aspx?pType=one">Pay Bill</a></li>
+								<li><a href="https://myaccount.smud.org/BillHistory/GetImage.aspx?v=t">View Current Bill</a></li>
+								<li><a href="https://myaccount.smud.org/informational/EnergyUsage.aspx">View Electricity Use</a></li>
+								<li><a href="https://myaccount.smud.org/">Manage Online Account</a></li>
+								<li><a href="https://myaccount.smud.org/UnEnrolledPayment/AcctValidation.aspx">Make a Loan Payment</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+<script type="text/javascript" src="/scripts/navHighlight.js"></script> <!-- must come after the include to be able to apply to the inserted HTML -->
+<div id="main" role="main">
    	  <div id="content">
 	    		<header id="contentheader" class="leftpad">
 
@@ -187,7 +215,7 @@ jQuery(document).ready(function($) {
 <li>This site may use cookies to deliver personalized content, remember your entries on interactive pages, surveys, or passwords. </li>
 <li>E-mail addresses will only be used to respond to specific customer requests.</li></ol>
 <p>Users have the opportunity to opt-out of receiving communications from SMUD at the point where we request the information. Users may review, modify, or delete their personal information by sending a request to the operator for SMUD's Web site: </p>
-<p><br><strong>Ralph Frattura</strong><br>Sacramento Municipal Utility District<br>P.O. Box 15830 MS-B401<br>Sacramento, CA 95852-1830<br>916-732-5681<br><u><a href="mailto:rfrattu@smud.org">rfrattu@smud.org</a></u></p><br>
+<p><br><strong>Ralph Frattura</strong><br>Sacramento Municipal Utility District<br>P.O. Box 15830 MS-B401<br>Sacramento, CA 95852-1830<br>916-732-5681<br><a href="mailto:rfrattu@smud.org">rfrattu@smud.org</a></p><br>
 <h3>Children's privacy notice for parents</h3>
 
 <p>This Web site complies with guidelines specified by the Children's Online Privacy Rule which became effective on April 20, 2000. The FTC maintains a special <a title="" href="http://www.ftc.gov/privacy/privacyinitiatives/childrens.html" target="_blank">Web page </a>with more information for children and parents. <br>Currently, this Web site does not collect personal information from children under 13 years of age. Students who are 12 and younger may request information or register to attend SMUD's Science on Saturday or Summer Science classes in the Energy &amp; Technology Center by mail. </p>
@@ -209,7 +237,7 @@ jQuery(document).ready(function($) {
 <p>Collected information is not stored on the Web server. All student information is maintained by:</p><br><strong>Alan Sulieman</strong><br>SMUD Energy &amp; Technology Center<br>6301 S Street, MS A226<br>Sacramento, CA 95817 <br>916-732-6834<br><a href="mailto:asuleim@smud.org">asuleim@smud.org</a> 
 <p></p><br>
 <p>SMUD does not disclose information collected from children to third parties. Parents can review their child's personal information, ask to have it deleted and refuse to allow any further collection or use of the child's information by contacting SMUD's Web site operator: </p>
-<p><br><strong>Ralph Frattura</strong><br>Sacramento Municipal Utility District<br>P.O. Box 15830 MS-B401<br>Sacramento, CA 95852-1830 <br>916-732-5681<br><u><a href="mailto:rfrattu@smud.org">rfrattu@smud.org</a></u> </p>
+<p><br><strong>Ralph Frattura</strong><br>Sacramento Municipal Utility District<br>P.O. Box 15830 MS-B401<br>Sacramento, CA 95852-1830 <br>916-732-5681<br><a href="mailto:rfrattu@smud.org">rfrattu@smud.org</a> </p>
 
 <p></p>
 <p> </p>
@@ -219,100 +247,116 @@ jQuery(document).ready(function($) {
 <p><br>As a result, we cannot guarantee the security of any information you transmit using our Web site, and you transmit such information at your own risk. SMUD further does not assume responsbility for use or disclosure of your information that are the result of unauthorized or illegal access to our systems or those of our vendors or partners.<br>SSL security is implemented at any stage of the information gather process that requires personal information. <br>Secure Socket Layer, SSL is a security protocol used for securing communications on the Web. This protocol was originally developed by Netscape Communications and has now become an industry standard. <br>A protocol is a set of rules or procedures.</p>
 <p><br>SSL technology takes a message and runs it through a set of steps that "scramble" the message. This is done so that the message cannot be read while it is being transferred. This "scrambling" is called Encryption. When the message is received by the intended recipient, SSL unscrambles the message, checks that it came from the correct sender ["Server Authentication"] and then verifies that it has not been tampered with ["Message Integrity"]. Your browser will give an indication that SSL security is being used by showing some sort of icon in the status bar area (e.g., a blue key or a closed lock icon) of your screen. See your browser's documentation for more information. If you have any questions about this security statement or the practices of this site, you can contact:</p><br><strong>Ralph Frattura</strong><br>
 
-<p>Sacramento Municipal Utility District<br>P.O. Box 15830 MS-B401<br>Sacramento, CA 95852-1830 <br>916-732-5681<br><u><a href="mailto:rfrattu@smud.org">rfrattu@smud.org</a></u></p><br>
+<p>Sacramento Municipal Utility District<br>P.O. Box 15830 MS-B401<br>Sacramento, CA 95852-1830 <br>916-732-5681<br><a href="mailto:rfrattu@smud.org">rfrattu@smud.org</a></p><br>
 <h3>Policy updates</h3>
 <p>Changes to SMUD legal notices and Web policies will be posted on this page.</p><br>
 <h3>Accessibility</h3>
 <p>It is intended that all information on this Web site be accessible to all visitors. If you use a voice browser you may request a text version of PDF files and the Greenergy® Power Content label. Send requests for text files and report other page formatting problems to <a href="mailto:webstaff@smud.org">webstaff@smud.org</a>. </p>
 
 					</article>
-					<ul class="pagination" style="background: transparent url('/en/images/background-paginationwide.png') no-repeat bottom left !important;">
-                    	<li class="prev">&nbsp;</li>
-						<li><a href="terms.htm" class="next">Terms and conditions &gt;</a></li>
-					</ul>
-		    	</div>
-		    	<div id="rightrail" class="hiddenDiv">
-		    		<div class="bluebox">
-			    		<h2>Content Highlight</h2>
-			    		<p>
+					
+					<footer class="articlefooter hiddenDiv">
+						<div class="articlelinks">
+							<h2>More Like This</h2>
 
-				    		Lorem ipsum dolor amet, contetuer adipiscing elit, diam euisd tincidunt ut laoreet dolore magna
-				    	</p>
-						Learn More
-		    		</div>
-					<div class="yellowbox">
-	    				<img src="/en/images/box-marketinghighlight0.png">
-	    				<div class="box_inner">
-	    					<h2>Marketing Highlight</h2>
+							<ul>
+								<li>
+									<img src="/en/images/box-article0.png" class="bordered">
+									<div class="list_inner">
+										<h3>Articles title</h3>
+										[Description] Lorem ipsum dolor sit amet. aliquam in 
+									</div>
+									<div class="clear"></div>
+								</li>
 
-	    					<p>
-								Lorem ipsum dolor ipsiscing elit, diam nosit amet, con-sectetuer adipiscing elit, sed diam nonmummy nibh.
-							</p>
-							Learn More
+								<li>
+									<img src="/en/images/box-article0.png" class="bordered">
+									<div class="list_inner">
+										<h3>Articles title</h3>
+										[Description] Lorem ipsum dolor sit amet. aliquam in
+									</div>
+									<div class="clear"></div>
+								</li>
+							</ul>
+
 						</div>
-					</div>
+						<div class="relatedtopics">
+							<h2>Related Topics</h2>
+							<ul>
+								<li>The District offers programs to provide equal opportunity to all segments of the business community.</li>
+								<li>SMUD is nationally recognized as a leader in renewable resources and electric transportation.</li>
+							</ul>
+
+						</div>
+						<div class="clear"></div>
+					</footer>
 		    	</div>
+        
 		    	<div class="clear"></div>
 		    </div>
 
 	    </div>
-<footer>
-	<div id="footerleft">
-		<div id="updatesForm"><strong>Sign up for monthly email updates.</strong>
-			<form id="signup" action="#####" method="get">
-			<input type="text" id="input-email" value="Enter email address"><input type="submit" value="Join >" id="button-join">
-			</form></div>
-		<div id="sociallinks">
-Join the Conversation <a href="http://twitter.com/SMUDUpdates" class="twitter" target="_blank">twitter</a><a href="http://www.facebook.com/pages/SMUD/312101029809" class="facebook" target="_blank">facebook</a>
-<span style="margin-left: 25px;">
-Watch videos <a href="/en/video/cc-tabbed-rebranded.html" class="video" target="_blank">videos</a></span>
-		</div>
-	</div>
-		<ul id="footernav">
-			<li><strong>My Account</strong>
-				<ul>
-					<li><a href="https://myaccount.smud.org/eBillPay/oneTimePayment.aspx?pType=one">Pay Bill</a></li>
-					<li><a href="https://myaccount.smud.org/BillHistory/GetImage.aspx?v=t">View Current Bill</a></li>
-					<li><a href="https://myaccount.smud.org/informational/EnergyUsage.aspx">View Your Electricity Usage</a></li>
-					<li><a href="https://myaccount.smud.org/">Manage Online Account</a></li>
-                    <li><a href="https://myaccount.smud.org/UnEnrolledPayment/AcctValidation.aspx">Make a Loan Payment</a></li>
-                 </ul>
-			</li>
-			<li><strong>Service Requests</strong>
-				<ul>
-					<li><a href="https://myaccount.smud.org/mimo/ChangeBegin.aspx">Start, Stop, Move Service</a></li>
-					<li><a href="/en/business/customer-service/support-and-services/construction-services.htm">Construction Services</a></li>
-					<li><a href="/en/outages/">Report a Problem</a></li>
-					 
-				</ul>
-			</li>
-			<li><strong>Company Links</strong>
-				<ul>
-					<li><a href="/en/about-smud/contact-us/">Contact Us</a></li>
-					<li><a href="/en/about-smud/">About SMUD</a></li>
-					<li><a href="/en/about-smud/news-media/">News &amp; Media</a></li>
-					<li><a href="/en/about-smud/company-information/board-of-directors/">Board of Directors</a></li>
-				</ul>
-			</li>
-		</ul>
-		<div class="clear"></div>
-</footer></div>
+		<footer>
+			<div id="footerleft">
+				<div id="updatesForm"><strong>Sign up for monthly email updates.</strong>
+					<form id="signup" action="#####" method="get">
+					<input type="text" id="input-email" value="Enter email address"><input type="submit" value="Join >" id="button-join">
+					</form></div>
+				<div id="sociallinks">
+				Join the Conversation <a href="http://twitter.com/SMUDUpdates" class="twitter" target="_blank">twitter</a><a href="http://www.facebook.com/pages/SMUD/312101029809" class="facebook" target="_blank">facebook</a>
+		<span style="margin-left: 25px;">Watch videos <a href="/en/video/cc-tabbed-rebranded.html" class="video" target="_blank">videos</a></span>
+				</div>
+			</div>
+			<ul id="footernav">
+				<li><strong>My Account</strong>
+					<ul>
+						<li><a href="https://myaccount.smud.org/eBillPay/oneTimePayment.aspx?pType=one">Pay Bill</a></li>
+						<li><a href="https://myaccount.smud.org/BillHistory/GetImage.aspx?v=t">View Current Bill</a></li>
+						<li><a href="https://myaccount.smud.org/informational/EnergyUsage.aspx">View Your Electricity Usage</a></li>
+						<li><a href="https://myaccount.smud.org/">Manage Online Account</a></li>
+						<li><a href="https://myaccount.smud.org/UnEnrolledPayment/AcctValidation.aspx">Make a Loan Payment</a></li>
+					 </ul>
+				</li>
+				<li><strong>Service Requests</strong>
+					<ul>
+						<li><a href="https://myaccount.smud.org/mimo/ChangeBegin.aspx">Start, Stop, Move Service</a></li>
+						<li><a href="/en/business/customer-service/support-and-services/construction-services.htm">Construction Services</a></li>
+						<li><a href="/en/outages/">Report a Problem</a></li>
+						 
+					</ul>
+				</li>
+				<li><strong>Company Links</strong>
+					<ul>
+						<li><a href="/en/about-smud/contact-us/">Contact Us</a></li>
+						<li><a href="/en/about-smud/">About SMUD</a></li>
+						<li><a href="/en/about-smud/news-media/">News &amp; Media</a></li>
+						<li><a href="/en/about-smud/company-information/board-of-directors/">Board of Directors</a></li>
+					</ul>
+				</li>
+			</ul>
+			<div class="clear"></div>
+		</footer>
+</div>
 <div id="subfooter">
 	<ul>
 		<li><a href="/en/about-smud/privacy.htm">Privacy Policy</a></li>
 		<li class="last"><a href="/en/about-smud/terms.htm">Terms and Conditions</a></li>
 	</ul>
-		<div id="copyright">© 2012 Sacramento Municipal Utility District</div>
-</div></div><!--! end of #container -->
+		<div id="copyright">© <script type="text/javascript">
+		var theDate=new Date()
+		document.write(theDate.getFullYear())
+		</script>2020
+		 Sacramento Municipal Utility District</div>
+</div>
+</div><!--! end of #container -->
 
   <!-- JavaScript at the bottom for fast page loading -->
 
-  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
-  <script src="/scripts/libs/jquery-1.6.2.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/scripts/libs/jquery-1.6.2.min.js"><\/script>')</script>
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline 
+<script src="/scripts/libs/jquery-1.6.2.min.js"></script> 
+<script>window.jQuery || document.write('<script src="/scripts/libs/jquery-1.6.2.min.js"><\/script>')</script> -->
 
-
-  <!-- scripts concatenated and minified via ant build script-->
+<!-- scripts concatenated and minified via ant build script-->
   <script defer="" src="/scripts/plugins.js"></script>
 
   	<!-- include the Tools -->
@@ -331,5 +375,25 @@ Watch videos <a href="/en/video/cc-tabbed-rebranded.html" class="video" target="
     <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
   <![endif]-->
   
+<!-- GOOGLE CONVERSION CODE -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1008504407;
+var google_conversion_language = "en";
+var google_conversion_format = "2";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "uINJCNHn3gEQ15zy4AM"; var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" 
+src="https://www.googleadservices.com/pagead/conversion/1008504407/?label=uINJCNHn3gEQ15zy4AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- GOOGLE CONVERSION CODE -->
+
 
     <div id="popbox" style="display:none;">       <div class="popup">         <table>           <tbody>             <tr>               <td class="tl"></td><td class="top"></td><td class="tr"></td>             </tr>             <tr>               <td class="lt"></td>               <td class="body">                 <div class="content">                 </div>                 <div class="footer">                   <a href="#" class="close">                     <img src="/scripts/popbox/closelabel.gif" title="close" class="close_image">                   </a>                 </div>               </td>               <td class="rt"></td>             </tr>             <tr>               <td class="bl"></td><td class="bot"></td><td class="br"></td>             </tr>           </tbody>         </table>       </div>     </div></body></html>
