@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenprophet.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109105055id_/http%3A//www.greenprophet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenprophet.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510174324id_/http%3A//www.greenprophet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Green Prophet
 
