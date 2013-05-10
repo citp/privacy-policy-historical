@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikifeet.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920024707id_/http%3A//wikifeet.com/pwstatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikifeet.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510175646id_/http%3A//www.wikifeet.com/pwstatement.html) for the most accurate reproduction.*
 
 # Draft Privacy Statement
 
