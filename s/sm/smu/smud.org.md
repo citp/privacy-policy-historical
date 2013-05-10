@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005217id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510225652id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.*
 
 # smud.org
 
@@ -42,7 +42,7 @@ Sacramento Municipal Utility District
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830  
 916-732-5681  
- _[rfrattu@smud.org](mailto:rfrattu@smud.org)_
+[rfrattu@smud.org](mailto:rfrattu@smud.org)
 
   
 
@@ -96,7 +96,7 @@ Sacramento Municipal Utility District
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830   
 916-732-5681  
- _[rfrattu@smud.org](mailto:rfrattu@smud.org)_
+[rfrattu@smud.org](mailto:rfrattu@smud.org)
 
 Identity of the requesting parent will be verified by SMUD using your account number by e-mail, phone call, or written letter. Cookies may be used for remembering user input on interactive pages, such as games.  
 SMUD [Children's Online Privacy Policy.](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
@@ -121,7 +121,7 @@ Sacramento Municipal Utility District
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830   
 916-732-5681  
- _[rfrattu@smud.org](mailto:rfrattu@smud.org)_
+[rfrattu@smud.org](mailto:rfrattu@smud.org)
 
   
 
