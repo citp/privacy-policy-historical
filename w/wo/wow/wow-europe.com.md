@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow-europe.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508012657id_/http%3A//eu.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-europe.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510063407id_/http%3A//eu.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Blizzard Entertainment Inc. (referred to herein as "Blizzard"), a US company located at 16215 Alton Parkway,Irvine, CA 92618, United States adhering to the Safe Harbor principles (for more information [click here](http://www.export.gov/safeharbor/SH_Overview.asp)), its parent company and its subsidiary companies, including Blizzard Entertainment SAS in France, respect the privacy rights of their on-line visitors and recognize the importance of providing a secure environment for the information they collect.
 
-It is therefore important to make available to on-line visitors an explanatory document outlining how their personal details are collected, processed and utilized (hereafter the "Privacy Policy"). This Priva-cy Policy explains the ways in which Blizzard safeguards the privacy rights of its on-line visitors. By using this website, you accept this Privacy Policy. Please note that the Blizzard Privacy Policy does not apply when you access other sites via the web links located on Blizzard internet sites, as we have no control over the activities of these other sites. Furthermore, this Privacy Policy may vary from time to time; please consult this document periodically so that you are aware of any changes. The date of the last update, shown at the top of this page, indicates the date of the most recent modifications. 
+It is therefore important to make available to on-line visitors an explanatory document outlining how their personal details are collected, processed and utilized (hereafter the "Privacy Policy"). This Priva-cy Policy explains the ways in which Blizzard safeguards the privacy rights of its on-line visitors. By using this website, you accept this Privacy Policy. Please note that the Blizzard Privacy Policy does not apply when you access other sites via the web links located on Blizzard internet sites, as we have no control over the activities of these other sites. Furthermore, this Privacy Policy may vary from time to time; please consult this document periodically so that you are aware of any changes. The date of the last update indicates the date of the most recent modifications. 
 
 This Privacy Policy respects all applicable laws on data protection. 
 
@@ -56,7 +56,7 @@ When you visit a Blizzard site and you are asked to provide information, you onl
 
 The information you enter on forms on Blizzard’s websites will only be sent to Blizzard once you have clicked the "Send" or the "OK" button. You can halt the transfer of data at any time by quitting the form screen, i.e. by closing your web browser prior to clicking the "Send" or the "OK" buttons; no in-formation will then be sent to Blizzard. 
 
-Please bear in mind that message boards and Internet sites linked to our sites could obtain some of your personal information. We would remind you that Blizzard's Privacy Policy does not apply to these message boards or to these other sites, as we have no control over their activities. 
+Please bear in mind that message boards and Internet sites linked to our sites could obtain some of your personal information. We would remind you that Blizzard’s Privacy Policy does not apply to these message boards or to these other sites, as we have no control over their activities. 
 
 ### How your personal information could be used?
 
@@ -78,7 +78,7 @@ Real ID friends can see each other’s real-life name and can see each other’s
 
 When you and a friend mutually agree to become Real ID friends, you will have access to a number of additional features, including the following: 
 
-  * Real Names for Friends: Your Real ID friends will appear under their real-life names on your friends list, when chatting, communicating in-game, or viewing a character's profile.
+  * Real Names for Friends: Your Real ID friends will appear under their real-life names on your friends list, when chatting, communicating in-game, or viewing a character’s profile.
   * Cross-Realm and Cross-Game Chat: With Real ID, friends can chat cross-realm, cross-faction, and cross-game using Blizzard’s products and services.
   * Rich Presence: You will see additional info on your friends list about what your Real ID friends are up to in Blizzard’s products and services in real time.
 
@@ -89,7 +89,12 @@ When you and a friend mutually agree to become Real ID friends, you will have ac
   
 As a general rule, Blizzard will not forward your information to a third party without your permission. However, we may divulge this data to third party vendors in response to a product order or to add you to a vendor’s commercial bulletin circulation list. In some cases, we can also disclose this information if our License Agreements or Terms of Service have been violated or if, in all good faith, we judge it is legally justified 
 
-As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, in the event of a merger, acquisition, reorganization, bank-ruptcy, or other similar event, your personal information may be transferred to Blizzard 's successor or assignee. 
+As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, in the event of a merger, acquisition, reorganization, bank-ruptcy, or other similar event, your personal information may be transferred to Blizzard ’s successor or assignee. 
+
+### What is Global Play?
+
+  
+Certain Blizzard games playable on Blizzard’s Battle.net service feature “Global Play,” which allows you to play with other players who are outside of the region associated with the creation of your Battle.net account. The Global Play feature requires that some or all of the personal information that you provided when you created your Battle.net account be transferred to servers operated by Blizzard in the regions where you wish to play. Your personal information shall be kept safe and under an adequate level of protection within Blizzard and/or its contractor’s facilities. 
 
 ### What your rights are concerning the collection, use and distribution of your personal data?
 
@@ -98,7 +103,7 @@ Blizzard allows you to monitor the way in which we use the personal information 
 
 You can also contact us if you wish to change the way in which we use your personal information, i.e. whether Blizzard, the parent company or any subsidiary company can send you e-mails or standard mail regarding our products or services. 
 
-You can contact us at the following address: Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex France. You can also reach us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please state which services or publications you no longer wish to receive so that we can respond to your needs more effectively. 
+You can contact us at the following address: Blizzard Entertainment SAS, TSA 60 001, 78008 Versailles Cedex France. You can also reach us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please state which services or publications you no longer wish to receive so that we can respond to your needs more effectively. 
 
 ### What level of security is applied to your personal information?
 
@@ -108,12 +113,12 @@ Blizzard deems it a point of honour that the information you send us should be p
 ### What you should do if you wish to amend or review your personal information?
 
   
-If, for any reason, you are concerned about the way in which we collect your personal information, if you wish to access, amend or correct it, or if you want us to delete it from our servers, please contact Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex, France. You can also contact us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please note that the deletion of your data will lead to the termination of your account and applicable services. 
+If, for any reason, you are concerned about the way in which we collect your personal information, if you wish to access, amend or correct it, or if you want us to delete it from our servers, please contact Blizzard Entertainment SAS, TSA 60 001, 78008 Versailles Cedex, France. You can also contact us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please note that the deletion of your data will lead to the termination of your account and applicable services. 
 
 ### What you should do if you have any questions or complaints?
 
   
-If you have any questions or complaints, please write a letter to: Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy-Villacoublay Cedex, France. 
+If you have any questions or complaints, please write a letter to: Blizzard Entertainment SAS, TSA 60 001, 78008 Versailles Cedex, France. 
 
 ### Note to parents
 
@@ -124,8 +129,8 @@ Adolescents aged 13-17 years should ask their parents to read our Privacy Policy
 
 Minors under 18 years of age should not order or subscribe to any paid service on-line without the permission of their parents or guardians. We would ask parents and guardians to be particularly vigilant and to ensure that their minors do not transgress when using our sites or on-line services. 
 
-Visiting the Blizzard Internet sites and using our on-line services indicates your acceptance of Blizzard's Privacy Policy. If you do not accept this Privacy Policy, please do not visit our Internet sites or use our on-line services. 
+Visiting the Blizzard Internet sites and using our on-line services indicates your acceptance of Blizzard’s Privacy Policy. If you do not accept this Privacy Policy, please do not visit our Internet sites or use our on-line services. 
 
-Visiting the Blizzard Internet sites and using our on-line services indicates your acceptance of Blizzard's Privacy Policy. If you do not accept this Privacy Policy, please do not visit our Internet sites or use our on-line services. 
+Visiting the Blizzard Internet sites and using our on-line services indicates your acceptance of Blizzard’s Privacy Policy. If you do not accept this Privacy Policy, please do not visit our Internet sites or use our on-line services. 
 
 This Privacy Policy was last updated on **July 5, 2010**. 
