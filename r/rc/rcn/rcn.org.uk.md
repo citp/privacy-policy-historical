@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913021229id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204241id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - RCN
 
-The Royal College of Nursing of the United Kingdom, RCN Publishing Company Ltd, RCN Membership Services Ltd and RCN Licensing Ltd, and their affiliates (together "RCN") are the data controllers of your information under the Data Protection Act 1998 ("the DPA").
+The Royal College of Nursing of the United Kingdom, RCN Publishing Company Ltd, and their affiliates (together "RCN") are the data controllers of your information under the Data Protection Act 1998 ("the DPA").
 
   1. All RCN employees and representatives, whether permanent or temporary, must be aware of the requirements of the Data Protection Act when they collect or handle data about an individual.
   2. They must not disclose data except where the disclosure complies with the requirements of the DPA, or, where relevant, statutory guidance issued by the Information Commissioner's Office ("the ICO"). Data sent to outside agencies to process on RCN's behalf must always be protected by a written contract.
