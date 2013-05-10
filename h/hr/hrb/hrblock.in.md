@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hrblock.in privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827231938id_/http%3A//hrblock.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.in privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510121813id_/http%3A//www.hrblock.in/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# H&R Block India, Online Privacy Practices and Principles
+# Privacy Policy
+
+## H&R Block Online Privacy Practices and Principles
 
 H & R Block (India) Private Limited ("H&R Block") offers a wide range of tax services, including tax preparation, tax planning, and business services in India. Because we offer a variety of services both online (via the Internet) and throughout H&R Block's nationwide network of offices, H&R Block's privacy practices may vary depending on how you interact with H&R Block. The following guidelines set forth general privacy principles that apply to information collected on the www.hrblock.in web site, independent of any particular business relationship you enter into with H&R Block. If you enter into a business relationship with H&R Block as our customer (such as when you are utilizing our tax preparation or other software or online tax preparation tools), we will make you aware of the privacy practices that apply to that particular business or relationship.
 
@@ -20,7 +22,8 @@ Information we may collect from the tax authorities, our franchisees, our affili
 
 Web technologies. We may collect information through the following Web technologies: We utilize a software technology called "cookies". Internet cookies allow us to customize our Website for you by placing small files on your computer as you visit various components of www.hrblock.in. Through the use of cookies, we can display only those items that may be of interest to you on a particular site, or make it easier for you to access your account information. In most cases, however, information we collect through Internet cookies does not identify you personally.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To opt-out of this type of advertising, please complete the form at http://www.networkadvertising.org/managing/opt_out.asp
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To opt-out of this type of advertising, please complete the form at   
+http://www.networkadvertising.org/managing/opt_out.asp 
 
 Like most standard Web site servers, H&R Block uses log files. Information collected in log files may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We utilize this information to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. This information is not personally identifiable. When you use certain online tax services, IP addresses are tied to personally identifiable information to enable users to file or transmit tax returns to the tax authorities.
 
@@ -28,13 +31,13 @@ When you use calculators and other tools on our Web sites that do not require re
 
 When you use our office locator service, we may collect data such as address or zip code information you provide so that we can better assess the level of interest in our services in a particular area, and the effectiveness of the locator tool at helping clients actually use our services.
 
-## How We May Disclose Your Information 
+## How We May Disclose Your Information
 
 Tax return information that H&R Block collects from you is controlled by the Information Technology Act, 2000, certain other laws, and H&R Block policies. Any information that is collected from you as part of your customer relationship(s) with H&R Block, either online or through a retail office will be governed by the privacy notice that will be provided to you when you become a customer of the specific H&R Block business.
 
 For information collected on www.hrblock.in (as described above), H&R Block may use and disclose such information to the following categories of persons unless you expressly in writing request H&R Block not to do so:
 
-**Uses and Disclosures by H &R Block**. Where permitted by law, H&R Block may use the information collected on this website to make you aware of products and services offered by H&R Block and its affiliated companies.
+**Uses and Disclosures by H &R Block.** Where permitted by law, H&R Block may use the information collected on this website to make you aware of products and services offered by H&R Block and its affiliated companies.
 
 **Third Parties.** We do not share your personal information with non-affiliated third parties for marketing purposes except as permitted by applicable law or with your consent. We do not sell or rent your personal information to third party direct marketers.
 
@@ -62,12 +65,10 @@ As an example, we may have special offers for dial-up or broadband internet serv
 
 If we make a material change to the "H&R Block Online Privacy Practices and Principles", including a material change in the way we use any personal information collected on www.hrblock.in, we will notify you by using one of the following methods at least thirty (30) days prior to the effective date of such change: (1) we will post a notice on our Web site describing the change; or (2) we will send you electronic mail notifying you of the change. However, it is your sole responsibility to keep yourself duly updated about such changes in our privacy practices and principles from time to time. By entering the website and using its content it will be implied that you have accepted our privacy practices and principles and that you are bound by it. In no case will H&R Block be responsible for any loss/ harm to you on account of you not being updated with any changes in our privacy practices and principles.
 
-## Security 
+## Security
 
 H&R Block has implemented generally accepted standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration or destruction. All H&R employees follow a network-wide security policy. Only authorised H&R Block personnel are provided access to personally identifiable information and these employees have agreed to ensure confidentiality of this information. H&R's policy is to use secure socket layer technology for the protection of your information provided to us through the web or otherwise. Fulfillment agents of H&R Block are also required to comply with this policy.
 
 ## Contacting Us With Questions Or Updating Your Information
 
-If you have questions or concerns or grievances regarding this privacy policy or if at any time you wish to limit the communication you receive from H&R Block, email H&R Block at [contactus@hrbindia.com](mailto:contactus@hrbindia.com?subject=Enquiry%20from%20Website\[www.hrbindia.com\])
-
-Updated: 03/2012 
+If you have questions or concerns or grievances regarding this privacy policy or if at any time you wish to limit the communication you receive from H&R Block, email H&R Block at contactus@hrbindia.com
