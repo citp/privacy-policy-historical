@@ -1,0 +1,896 @@
+<!--The following is the downloaded HTML source of the llbeanvisa.com privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510100534id_/http%3A//www.llbeanvisa.com/app/ccsite/legal/privacyDynamic.jsp) for the most accurate reproduction.-->
+
+<html><head>
+        <title>Privacy and Security</title>
+
+        <!-- yui styles -->
+        
+        
+
+        <!-- Individual YUI CSS files --> 
+        <link rel="stylesheet" type="text/css" href="https://www.llbeanvisa.com/app/ccsite/js/yui/assets/skins/sam/skin.css">
+        <link rel="stylesheet" type="text/css" href="https://www.llbeanvisa.com/app/ccsite/js/yui/assets/skins/sam/container.css">
+        <link rel="stylesheet" type="text/css" href="https://www.llbeanvisa.com/app/ccsite/js/yui/assets/skins/sam/button.css">
+        <link rel="stylesheet" type="text/css" href="https://www.llbeanvisa.com/app/ccsite/js/yui/calendar/assets/skins/sam/calendar.css"> 
+
+        <!-- Individual YUI JS files --> 	
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/utilities/utilities.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/container/container-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/calendar/calendar-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/menu/menu-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/button/button-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/cookie/cookie-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/datasource/datasource-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/paginator/paginator-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/datatable/datatable-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/json/json-min.js"></script> 
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/tabview/tabview-min.js"></script>
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/carousel/carousel-min.js"></script>
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/calendar/calendar-min.js"></script>	
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/element/element-min.js"></script>
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/dragdrop/dragdrop-min.js"></script>
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/animation/animation-min.js"></script>
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/yui/selector/selector-min.js"></script>
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/underDash.js"></script>
+
+        <!--
+         privacyDynamic.jsp
+        -->
+        
+
+
+        
+
+        <link rel="stylesheet" type="text/css" href="https://www.llbeanvisa.com/app/ccsite/styles/yui/reset-fonts-grids.css">
+
+        
+        <link rel="stylesheet" type="text/css" href="https://www.llbeanvisa.com/app/ccsite/styles/llb.jsp">
+        
+        
+        
+        <script type="text/javascript">
+            function NewWindow(mypage, myname, w, h, scroll, toolbar, resize) {
+	newwinprops = 'height='+h+',width='+w+',scrollbars='+scroll+',toolbar='+toolbar+',resizable='+resize+',menubar,status';
+	newWin = window.open(mypage, myname,newwinprops)
+}
+
+        </script>
+
+        
+        
+        
+
+
+
+
+        <script type="text/javascript" src="https://www.llbeanvisa.com/app/ccsite/js/CalendarPopup.js"></script>
+        
+
+        
+        
+    </head>
+    <body class="yui-skin-sam">
+
+        
+
+        
+
+
+<script type="text/javascript">
+var pavPageName;
+
+YAHOO.namespace("PAV.container");
+	var handleJsonSuccess = function(o) {
+		var response = ""+o.responseText;
+		response = response.split("<!")[0];
+			try {
+					var banks = YAHOO.lang.JSON.parse(o.responseText);
+					var jspUrl=banks.jspUrl;
+					var showPop=banks.showPop;
+					var isPAV=banks.isPAV;
+					if(!isPAV) { hideLink();return;}
+					//alert(jspUrl);
+					if(showPop==true)
+					{
+						makeJspCall(jspUrl);
+						
+					}
+					// add the code to get the isPAV showPop etc from the banks variable
+				}
+			catch (e) {
+					//alert("Session Timed out");
+					//var url = "https://www.llbeanvisa.com/app/ccsite/errors/timeout.jsp"
+			//location=url;	
+				}
+			
+
+		YAHOO.PAV.container.dialogFraud.render();
+		YAHOO.PAV.container.dialogFraud.hideEvent.subscribe(showPavWarn);
+//		document.getElementById("myID").innerHTML = response;
+		YAHOO.PAV.container.dialogFraud.hide(true);
+		
+		document.getElementById("showFraud").style.display = "block";
+		document.getElementById("showHeader").style.display = "block";
+		document.getElementById("showWarning").style.display = "none";
+
+		
+	};
+	
+	function hideLink()
+	{
+		//alert ("inside Hide link");
+		document.getElementById("showFraud").style.display = "none";
+
+	}
+
+	var handleJsonFailure = function(o) {
+		alert("Submission failed: " + o.status);
+	};
+	
+	
+	var handleJspSuccess=function(o) {
+		var response = ""+o.responseText;
+		response = response.split("<!")[0];
+		YAHOO.PAV.container.dialogFraud.render();
+		document.getElementById("myID").innerHTML = response;
+		YAHOO.PAV.container.dialogFraud.show(true);
+		document.getElementById("showFraud").style.display = "none";
+		
+		pavPageName = document.getElementById("pavPageName").value;
+		s.pageName='LLB:PAV Alert:'+ pavPageName;
+		s.channel="CCSite:LLB:PAV Alert";
+		s.prop11="LLB";
+		s.t();
+		
+		
+		};
+	var handleJspFailure = function(o) {
+		alert("Submission failed: " + o.status);
+	};
+
+		var showFraudTranSuccess=function(o) {
+		var response = ""+o.responseText;
+		response = response.split("<!")[0];
+		YAHOO.PAV.container.dialogFraud.render();
+		document.getElementById("myID").innerHTML = response;
+		YAHOO.PAV.container.dialogFraud.show(true);
+		document.getElementById("showFraud").style.display = "none";
+		
+		pavPageName = document.getElementById("pavPageName").value;
+		s.pageName='LLB:PAV Alert:'+ pavPageName;
+		s.channel="CCSite:LLB:PAV Alert";
+		s.prop11="LLB";
+		s.t();
+		
+		
+		tooltipInit();
+		
+		};
+		
+var jsonCallBack={
+            success:handleJsonSuccess,
+            failure:handleJsonFailure
+        };
+
+
+var jspCallBack={
+            success:handleJspSuccess,
+            failure:handleJspFailure
+        };
+
+var showFraudTran={
+			success:showFraudTranSuccess,
+            failure:handleJspFailure
+        };
+		
+		
+function init() {
+	
+	// Define various event handlers for Dialog
+	var handleSubmit = function() {
+		this.submit();
+	};
+	var handleCancel = function() {
+		this.cancel();
+	};
+
+
+	// Instantiate the dialogFraud
+	
+	YAHOO.PAV.container.dialogFraud = new YAHOO.widget.Dialog("dialogFraud", 
+							{ width : "800px",
+							  xy : [150, 150],
+							  fixedcenter : false,
+							  visible : false, 
+							  constraintoviewport : true,
+							  effect:{effect:YAHOO.widget.ContainerEffect.FADE, duration:0.25}, 
+							  zIndex : 888,
+							  iframe : true,
+							  close : true,
+							  underlay : "matte",
+							  modal : true,
+							  buttons : []
+
+							});
+						
+							
+	// Render the DialogReview
+
+
+
+	//YAHOO.util.Event.addListener("show", "click", YAHOO.PAV.container.dialogFraud.show, YAHOO.PAV.container.dialogFraud, true);
+	YAHOO.util.Event.addListener("hide", "click", YAHOO.PAV.container.dialogFraud.hide, YAHOO.PAV.container.dialogFraud, true);
+//	var closeEl = YAHOO.util.Dom.getElementsByClassName("container-close");	
+//	YAHOO.util.Event.on(closeEl, "click", function(){alert("Click Added via DOM")});
+
+	
+}
+
+YAHOO.util.Event.onDOMReady(init);
+
+function makeJsonCall(url)
+{
+	//alert('url called is '+url);
+	
+	YAHOO.util.Connect.asyncRequest('GET', url, jsonCallBack) ;
+}
+
+function makeJspCall(url)
+{
+	YAHOO.util.Connect.asyncRequest('GET', url, jspCallBack) ;
+}
+
+function makeJspCall2(url,formObject)
+{
+	YAHOO.util.Connect.setForm(formObject);  
+	YAHOO.util.Connect.asyncRequest('POST', url, showFraudTran) ;
+	document.getElementById("showHeader").style.display = "block";
+	document.getElementById("showWarning").style.display = "none";
+	//YAHOO.util.Connect.setForm(null);  
+	
+}
+
+function checkSelected(selectedObject,url,formobj,errorId)
+{
+	//alert(selectedObject);
+	for (var i=0;i<selectedObject.length;i++)
+	{
+		//alert(selectedObject[i].checked);
+		if(selectedObject[i].checked == true) 
+		{
+		//alert("the form obj is " +formobj);
+			makeJspCall2(url,formobj);
+			return;
+		}
+	}
+	YAHOO.util.Dom.setStyle(errorId,'display','block');
+	
+	return false;
+}
+
+function verifyChecked(selectedObject,url,formobj,errorId)
+{
+		//alert(selectedObject[i].checked);
+		if(selectedObject.checked == true) 
+		{
+			makeJspCall(url);
+			return;
+		}
+	YAHOO.util.Dom.setStyle(errorId,'display','block');
+	
+	return false;
+}
+
+function hideDialog() {
+YAHOO.PAV.container.dialogFraud.hide(true)
+}
+
+var overlayPAV;
+function tooltipInit() {
+	
+	var nodes = YAHOO.util.Dom.getElementsByClassName('expand_button', 'div');
+	YAHOO.util.Event.on(nodes, "click", fnCallbackInit);
+	var tooltipNodes = YAHOO.util.Dom.getElementsByClassName('merchant_loc_ttip', 'div');
+
+	var DialogZindex = (YAHOO.util.Dom.getStyle('dialogFraud_c','z-index')) + 1;
+	//alert(DialogZindex);
+
+	overlayPAV = new YAHOO.widget.Overlay("overlayPAV3", {visible:false,width:"200px",zIndex:DialogZindex});
+	overlayPAV.setHeader("Merchant Location");
+	overlayPAV.setBody("The location may not match the physical address where you made your purchase.  It is common for merchants to use the address of a central branch, headquarters, etc.");
+	overlayPAV.setFooter("&nbsp;");
+	overlayPAV.render(document.body);
+
+	YAHOO.util.Event.on(tooltipNodes, "mouseover", showTooltipInit);
+	YAHOO.util.Event.on(tooltipNodes, "mouseout", hideTooltipInit);
+	YAHOO.util.Dom.addClass(overlayPAV.element, "roll-over-tip");
+}
+
+
+
+
+function showTooltipInit(e){
+	var targ = YAHOO.util.Event.getTarget(e);
+	var wid = YAHOO.util.Dom.getStyle(overlayPAV.element, "width");
+	
+		var x_coord = YAHOO.util.Dom.getX(targ) -  parseInt(wid);
+	
+	if(YAHOO.util.Dom.getDocumentScrollLeft() >= 115){
+		x_coord = YAHOO.util.Dom.getDocumentScrollLeft();
+	}
+	overlayPAV.moveTo(x_coord, YAHOO.util.Dom.getY(targ) + 15);
+	overlayPAV.show();
+}
+function hideTooltipInit(e){
+	overlayPAV.hide();
+}
+function fnCallbackInit(e) {
+	var targ = YAHOO.util.Event.getTarget(e);
+	var parent = YAHOO.util.Dom.getAncestorByClassName(targ, "transaction_line");
+	var sibling = YAHOO.util.Dom.getNextSibling(parent);
+	toggleVisibilityInit(sibling, targ);
+}
+function toggleVisibilityInit(ele, targ){
+	//expand
+	var curState = YAHOO.util.Dom.getStyle(ele, 'display');
+	if(curState == 'none'){
+		var redisp = YAHOO.env.ua.ie > 0 && YAHOO.env.ua.ie <= 8 ? 'block':'table-row';
+		YAHOO.util.Dom.setStyle(ele, 'display', redisp);
+		YAHOO.util.Dom.setStyle(targ, 'background-position', '0px -11px');
+	}else{
+		YAHOO.util.Dom.setStyle(ele, 'display', 'none');
+		YAHOO.util.Dom.setStyle(targ, 'background-position', '0px 0px');
+	}
+}
+
+function showPavWarn()
+{
+	document.getElementById("showFraud").style.display = "block";
+	var showWarn=document.getElementById("pavwarn");
+	
+	document.getElementById("showWarning").style.display = "block";
+	document.getElementById("showHeader").style.display = "none";
+	var showWarnUrl="https://www.llbeanvisa.com/app/ccsite/action/doPavWebVerify?actionCode=getWarn";
+	
+	pavPageName = document.getElementById("pavPageName").value;
+	s.pageName='LLB:PAV Alert:'+ pavPageName;
+	s.channel="CCSite:LLB:PAV Alert";
+	s.prop11="LLB";
+	s.t();
+	
+	//alert(showWarnUrl);
+
+	if(showWarn!=null)
+	{
+		makeJspCall(showWarnUrl);
+		return false;
+	}
+
+	
+}
+
+</script>
+
+<style type="text/css">
+
+		/*  Styles for the expanded transaction info*/
+		#overlayPAV
+		.yui-overlay { border:1px solid #666 ;padding:1px;margin:10px; } 
+		.yui-overlay .hd { background:#666; text-align: center;}
+
+		
+		.roll-over-tip{position: absolute;}
+		.expanded_info_tr{
+			display: none;
+		}
+		.expanded_info_div{
+			padding: 5px 0px 5px 70px;
+		}
+		.expand_button{
+			background-image: url("https://www.llbeanrewards.com:443/images/plus_minus.png");
+			background-repeat: no-repeat;
+			overflow: hidden;
+			cursor: pointer;
+		}
+		.general{
+			height: 11px;
+			width: 11px;
+			margin: 5px;
+		}
+		.merchant_loc_ttip{
+			background-image: url("https://www.llbeanrewards.com:443/images/llb/applyInfoi.gif");
+			height: 15px;
+			width: 15px;
+			background-repeat: no-repeat;
+		}
+                #udCell1 {
+                  text-align: left;
+               }
+               #udCell2 {
+                 text-align: right;
+               }
+	</style>
+
+
+
+        
+
+        <div id="dialogFraud">
+            <div class="hd" id="showHeader" style="display:none;"><div class="tl"></div><span>Important Customer Security Alert</span><div class="tr"></div></div>
+            <div class="hd" id="showWarning" style="display:none;"><div class="tl"></div><span>WARNING!</span><div class="tr"></div></div>
+            <div class="bd" id="myID"></div>
+        </div>
+
+
+        <div id="page" class="dashboard_page Psidesection"> <div id="sidesection">
+                    
+                        
+                         
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+<!-- SiteCatalyst code version: H.20.2.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script language="JavaScript" type="text/javascript" src="/app/ccsite/js/analytics/s_code.js"></script>
+
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+
+
+s.pageName="LLB:PrivacySecurity:Privacy Policy"
+s.channel="CCSite:LLB:PrivacySecurity"
+s.hier2="PrivacySecurity:Privacy Policy"
+s.server=window.location.hostname;
+s.prop3=""
+s.prop5="logged out"
+
+/*events */
+s.events="event17"
+
+/*Props */
+s.prop11="LLB"
+s.prop22=""
+s.prop23=""
+
+
+s.eVar24=""
+
+s.eVar49="/legal/privacyDynamic.jsp"
+
+s.products=""
+
+
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.2. -->
+
+                    
+                    
+                    
+                        
+                    
+                    	
+                    <div id="mainlogo"><a href="http://www.llbean.com?src=oap" onclick="NewWindow(this.href,'SubLogo','820','800','yes','yes');return false"><img src="https://www.llbeanrewards.com:443/images/llb/logos/llbHomeLogo.gif" border="0" align="absbottom">  </a></div>
+                            
+
+                    <div id="subLogo"></div>				
+
+                    
+
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+    #honeyCard { display: block; width: 200px; height: 66px; background: url("https://www.llbeanrewards.com:443/images/new/misc/legacy.png") no-repeat 0 0; margin:0px 0 10px 0; float:left; cursor: pointer; cursor: hand; }
+</style>
+
+	<script>
+			var prevent = function () {
+				this.click = false;
+				this.doubleClick = function (url) {
+					if (!this.click) {
+						this.click = true;
+						location.href = url;
+						return true;
+					} else {
+						return false;
+					}
+				}
+			};
+
+			var link1 = new prevent();
+	</script>
+
+                                    
+                    
+                    <div style="display:none;">
+                        
+                    </div>
+                    <div style="clear:both;"></div>
+                    
+
+                    <div id="alerts">		
+                        
+
+
+
+
+
+
+
+
+
+<div id="subnavigation">
+<ul>
+<li><strong>Privacy Policy</strong></li>
+<li><a href="securityDynamic.jsp">Security Statement</a></li>
+<li><a href="termsDynamic.jsp">Terms of Use</a></li>
+</ul>
+</div>
+		
+                    </div>
+                    <div style="clear:both;"></div>
+
+                    
+                        <div id="sublogo"><a href="http://www.llbean.com/webapp/wcs/stores/servlet/ShowOAPLander?storeId=1&amp;langId=-1&amp;psnl=2" onclick="NewWindow(this.href,'SubLogo','820','800','yes','yes');return false"><img src="https://www.llbeanrewards.com:443/images/llb/misc/llbcouponlookup.jpg" border="0"></a></div>
+                            
+                            
+                            
+                    
+
+                    <!-- ad server supersedes logout card art tip. see WSM config for how to re-enable -->
+                    	
+                    <div style="clear:both;"></div>
+                </div>
+
+                <div id="mainArea" class="dashboard_mainArea">
+                    <div id="topnav">
+                        <div id="ccphone">1-866-484-2614</div>
+                        <div id="tnlist">
+
+
+
+
+<script src="/app/ccsite/js/cookies.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+   function redirect(href){
+    deleteCookie('bjpopup_consumer');
+	  deleteCookie('bjpopup_business');
+	  document.location = href;
+   }
+ </script>
+
+<a href="https://www.llbeanvisa.com">Home</a> | 
+
+	<a href="https://www.llbeanvisa.com/app/ccsite/logon/secureLogonRedirect.jsp">Secure Login</a> | 
+
+
+
+
+<a href="https://www.llbeanvisa.com/app/ccsite/help/emailDynamic.jsp" target="_top">Contact Us</a> |
+
+ <a href="https://www.llbeanvisa.com/app/ccsite/help/helpfaqDynamic.jsp" target="_top">FAQs</a> 
+</div>
+                        
+                        <div id="llbdsc" style="visibility: hidden;">L.L.Bean Visa Card is issued by Barclays Bank Delaware</div>
+                        				
+                        
+
+                    </div>
+
+                    <div id="title">
+                        PRIVACY AND SECURITY
+                    </div>
+                    <div id="bodyArea" class="page">
+                        
+
+
+
+
+
+
+
+
+
+
+
+<style>
+h2, h3 {font-weight:bold; }
+th{text-align:left;font-size:.9em;padding:4px;vertical-align:top;}
+li{margin-top:3px;}
+.pdf {text-align:right; padding:2em 0em; }
+</style>
+
+
+<table width="95%">
+<tbody><tr>
+<td width="20">&nbsp;</td>
+<td>
+<a name="top"></a>
+<div class="pdf"><a href="https://www.llbeanrewards.com:443/images/new/legal/web_BCUS_2013_PP.pdf">Download our Privacy Policy (PDF)</a> to learn more about your Privacy &amp; Security.</div>
+<h2 class="subtitleText">Privacy Policy Overview—Revised as of December 2011</h2>
+
+<p class="text">
+At Barclays Bank Delaware ("Barclaycard") we respect your right to personal privacy, online and off. Our Privacy Policy is designed to provide you with protection and value. And it's written in "plain English." Here are the highlights: 
+</p><ul class="text">
+	<li>We do not sell information about you, your Accounts or your transactions. </li>			
+	<li>When we share information, it is only according to the guidelines described in our Privacy Policy. </li>
+	<li>We do not share information with third party marketers unless you expressly authorize us to share the information. </li>
+	<li>You control how we contact you. As described in our Privacy Policy, credit card customers may exercise their options online, by mail or by phone.</li>
+	<li>We have developed industry standard security to protect against the misuse of your information. </li>
+</ul>
+<p></p>
+ 
+
+<p class="text">
+This Privacy Policy applies to personally identifiable information about a consumer or a consumer's current or former customer relationship with us. Our Privacy Policy will evolve to meet the changing world in which we operate and we will promptly advise you of any changes to it as required by applicable law.
+</p>
+ 
+
+<p class="text">
+I invite you to read our Privacy Policy. If you have any questions or if anything is unclear, credit card customers can email us at <a href="mailto:privacy@barclaycardus.com">privacy@BarclaycardUS.com</a>. If you would like to modify your privacy options, log in and select ALERTS/PROFILE and then PROFILE or call 1-866-698-0236. 
+</p>
+   
+
+<p class="text">
+Larry Drexler<br>
+Chief Privacy Officer, Barclays Bank Delaware<br>
+</p>
+
+
+<h2 class="text">Privacy Is Important to Us</h2>
+<p class="text">
+We believe that Privacy is a cornerstone of our customer relationship. In designing our business, we strive to find methods to guard your privacy while affording you opportunities to save time and money.
+</p>
+ 
+<ul class="text">
+<li>We do not sell information about our customers, their Accounts, or transactions to others for their use.</li>
+<li>We do not share information about you, except in the limited circumstances described in our Privacy Policy. </li>
+<li>When we do share information it is limited to the information necessary for the particular circumstance. </li>
+<li>We restrict access to the information we obtain about you, only to appropriate employees and service providers for business purposes only. </li>
+<li>We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard against misuse of the information we obtain.</li>
+</ul>
+ 
+<h2 class="text">Cookies</h2>
+<p class="text">
+"Cookies" are small computer files that are automatically placed on your computer's hard drive when you are connected to a website or remote server so that the website can recognize you upon your return to the website and tailor your experience based on your earlier use of the site and, in some cases, your earlier use of other sites. Our cookie does not collect information from your hard drive; rather, it allows us to recognize you and know how you navigated through our site. It is also part of our effort to detect and stop fraud. "Action tags" (also known as Web Beacons, Trackers, or Bugs) are invisible pixel .gif files placed on web pages that are used to track web navigation to those pages. 
+</p>
+ 
+<p class="text">
+We use a cookie for each computer that visits our site. The cookie is integral to the customer experience and is necessary to use our online services. It allows us to customize the website presentation based on your Accounts. While cookies, including ours, can be disabled, if you disable our cookie you will not be able to use our website. 
+</p>
+
+<p class="text">
+Cookies may also be used by our partners who have links on our website. These cookies allow those partners to recognize you and monitor your use of the site. The partners will not get personal information about you unless, and until, you provide your information to them when visiting the partner's site. For more information about partners' use of cookies see their privacy policies.
+</p>
+
+<p class="text">
+Companies that place our banner ads on other websites ("ad servers") also use action tags to understand how a person navigates on our site after responding to one of our banner ads. Any information collected is never linked to an individual and is only used in aggregate with other information generated by visitors to our site. You have the right to elect not to participate in this anonymous tracking of information, which is used to select which ads to display when you visit certain websites. In order to determine your comfort level with these companies' information practices you should review their privacy policies. Click on the advertiser name below to go to its website to learn more about that agency's privacy policy, its use of cookies and action tags, and the options available to you in relation to those cookies.
+</p>
+ 
+<p class="text">
+<a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E" target="_blank">Time</a><br>
+<a href="http://www.completehome.com/Content.aspx?content=help%2fprivacy" target="_blank">CompleteHome</a><br>
+<a href="https://www.greatfunonline.com/store/common/privacypolicy.jsp?title=privacypolicy" target="_blank">Great Fun</a><br>
+<a href="https://www.shoppersadvantage.com/store/common/privacypolicy.jsp?title=privacypolicy" target="_blank">Shoppers Advantage</a><br>
+<a href="http://wallet.google.com/files/privacy.html" target="_blank">Google</a>
+</p>
+
+<p class="text">
+At present, we do not allow third-party serving of advertising on our website. If we do allow such activities in the future, we will post a link from our Online Privacy Statement to the privacy policy of the company or partner that is associated with each advertisement. We recommend that you review each company or partner’s privacy policy including their use of cookies to understand their information handling practices and your options.
+</p>
+
+<p class="text">
+<a href="#top">Back to top</a>
+</p>
+
+
+	
+
+
+
+
+
+
+
+
+              
+              
+                  
+              
+              
+              
+			  
+            
+			  
+        
+         
+        
+
+
+
+ <div id="footer">
+    <div id="footerSection_hr">&nbsp;</div> 
+    <table border="0" cellspacing="0" cellpadding="0" align="right">
+    
+    
+        <tbody><tr valign="bottom" style="font-size: 13px;">
+            <td align="right" class="btmfooter">
+                <span id="copyright" style="cursor:default" href="/app/ccsite" title="Copyright 2000–2009 Barclays Bank Delaware. All rights reserved.">©</span>
+
+
+
+    
+
+            <a href="https://www.llbeanvisa.com/app/ccsite/legal/privacyDynamic.jsp" class="btmfooteron">Privacy &amp; Security</a> 
+
+
+
+	
+
+
+	
+             |  <a href="http://www.aboutbarclaycardus.com/" target="_blank">About Us</a>&nbsp;&nbsp; 
+        </td>
+    
+    
+
+        <td align="right"> 
+            <img src="https://www.llbeanrewards.com:443/images/llb/home/fdic.gif" width="39" height="18" alt="FDIC" border="0" hspace="2">
+            <img src="https://www.llbeanrewards.com:443/images/barclays/home/bbb_logo.gif" border="0" hspace="2">
+			<script type="text/javascript" language="javascript">
+				seal_gif_url="https://www.llbeanrewards.com:443/images/llb/home/verisign_logo.png";
+				  /* DON'T CHANGE BELOW */
+  // dn field is your server host name that hosts the seal that must also 
+  // match the SSL certificate common name 
+  dn="www.barclaycardus.com"
+  sap="getnortonsealimage.js";
+  splash_url="https://trustsealinfo.verisign.com";
+  tpt="transparent";
+
+  language="en";
+  u1=splash_url+"/splash?form_file=fdf/splash.fdf&dn="+dn+"&lang="+language;
+
+  function vrsn_splash() {
+    tbar = "location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500";
+    sw = window.open(u1,'VRSN_Splash',tbar);
+    sw.focus();
+  }
+
+  {
+    var ver=-1;
+    var v_ua=navigator.userAgent.toLowerCase();
+    var re=new RegExp("msie ([0-9]{1,}[\.0-9]{0,})");
+    if (re.exec(v_ua) != null)
+     ver = parseFloat( RegExp.$1 );
+    var v_old_ie=(v_ua.indexOf("msie")!=-1);
+    if (v_old_ie) {
+     v_old_ie = ver < 5;
+    }
+
+    function maction(e){
+      if (document.addEventListener) {
+        var seal=(e.target.name=="seal");
+        if (seal) { vrsn_splash(); return false; }
+      } else if(document.captureEvents) {
+        var tgt=e.target.toString(); 
+        var seal=(tgt.indexOf("splash")!=-1);
+        if (seal){ vrsn_splash(); return false; }
+      }
+      return true;
+    }
+
+    function mouseDown() {
+      if (event.button==1){
+        if (v_old_ie) { return true; } else { vrsn_splash(); return false; }
+      } else if (event.button==2) { vrsn_splash(); return false; }
+    }
+
+    document.write("<a HREF=\""+u1+"\" onmousedown=\"return mouseDown();\" target=\"VRSN_Splash\"><IMG NAME=\"seal\" BORDER=\"false\" style=\"margin:0px 0px 0px 0px;position:relative;bottom:-3px;\" SRC=\""+seal_gif_url+"\" oncontextmenu=\"return false;\"></A>");
+
+    if((v_ua.indexOf("msie")!=-1) && (ver>=7)) {
+      var plat=-1;
+      var re=new RegExp("windows nt ([0-9]{1,}[\.0-9]{0,})");
+      if (re.exec(v_ua) != null)
+        plat = parseFloat( RegExp.$1 );
+
+      if (plat >= 5.1) {
+       document.write("<div style='display:none'>");
+       document.write("<img src='https://extended-validation-ssl.verisign.com/dot_clear.gif'/>");
+       document.write("</div>");
+      }
+    }
+
+    if (document.addEventListener){ 
+      document.addEventListener('mouseup', maction, true); 
+    } else {
+      if (document.layers){
+        document.captureEvents(Event.MOUSEDOWN); document.onmousedown=maction;
+      }
+    }
+
+    function resized(){
+      if(pageWidth!=innerWidth || pageHeight!=innerHeight){
+        self.history.go(0);
+      }
+    }
+
+    if(document.layers){
+      pageWidth=innerWidth; pageHeight=innerHeight; window.onresize=resized;
+    }
+  }
+
+			</script><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.barclaycardus.com&amp;lang=en" onmousedown="return mouseDown();" target="VRSN_Splash"><img name="seal" border="false" style="margin:0px 0px 0px 0px;position:relative;bottom:-3px;" src="https://www.llbeanrewards.com:443/images/llb/home/verisign_logo.png" oncontextmenu="return false;"></a>
+			<a href="http://www.rsasecurity.com/" target="_blank" title="RSA Security"><img src="https://www.llbeanrewards.com:443/images/barclays/ffiec/pmlogo.gif" alt="RSA Security" border="0" hspace="2"></a>
+        </td>
+
+    </tr>
+ 
+</tbody></table>
+</div>
+<br clear="all">&nbsp;
+
+
+
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+                        
+                        <br clear="all">
+                    </div>
+                </div>
+
+                
+                
+
+
+
+                
+            </div>
+            
+    
+
+
+</body></html>
