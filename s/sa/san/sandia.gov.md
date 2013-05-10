@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandia.gov privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014213236id_/http%3A//www.sandia.gov/general/privacy-security/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandia.gov privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510183135id_/http%3A//www.sandia.gov/general/privacy-security/index.html) for the most accurate reproduction.*
 
 # Sandia National Laboratories: Privacy and Security
 
@@ -6,7 +6,7 @@
 
 This notice applies to all visitors to websites under the control of Sandia Corporation. Some Sandia websites may provide more detailed privacy, security or disclaimer notices, in which case those notices take precedence over this notice. 
 
-We collect no personal information about you when you visit a Department of Energy website, unless otherwise stated or unless you choose to provide this information to us. However, we collect and store the following information automatically and through the use of Google Analytics:
+We collect no personal information about you when you visit a Department of Energy website, unless otherwise stated or unless you choose to provide this information to us. However, we collect and store the following information automatically and through the use of:
 
   * The Internet Protocol (IP) address of the domain from which you access the Internet (i.e., 123.456.789.012) whether yours individually or provided as a proxy by your Internet Service Provider (ISP) 
   * The date and time you access our site
