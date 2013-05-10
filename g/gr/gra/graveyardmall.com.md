@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019071439id_/http%3A//www.graveyardmall.com/pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510214704id_/http%3A//www.graveyardmall.com/pages/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
