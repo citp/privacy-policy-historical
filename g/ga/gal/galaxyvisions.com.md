@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203153335id_/http%3A//galaxyvisions.com/index.php/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510091248id_/http%3A//www.galaxyvisions.com/index.php/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Galaxyvisions
 
@@ -75,11 +75,11 @@ This policy was last modified on May, 15 2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**www.GalaxyVisions.com**  
+**GalaxyVisions**  
 882 3rd Ave , 8th Floor  
 Brooklyn, NY 11232  
 United States  
-[](mailto:info@galaxyvisions.com)[info@galaxyvisions.com](mailto:info@galaxyvisions.com)  
+[info@galaxyvisions.com](mailto:info@galaxyvisions.com)  
 Phone (201) 227-2072
 
 ##  Privacy Policy Customer Pledge
