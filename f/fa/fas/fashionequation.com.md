@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionequation.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915071319id_/http%3A//www.fashionequation.com/pages/Privacy-Policy/pgid-55717.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionequation.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212800id_/http%3A//www.fashionequation.com/pages/Privacy-Policy/pgid-55717.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
