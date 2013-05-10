@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damntheradio.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230092659id_/http%3A//www.fanbridge.com/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damntheradio.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510233631id_/http%3A//www.fanbridge.com/policies/privacy.php%3Fref%3Dpublic_site_footer) for the most accurate reproduction.*
 
 # Privacy Policy - FanBridge
 
