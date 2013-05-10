@@ -1,80 +1,161 @@
-> *The following text is extracted and transformed from the futureadvisor.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063603id_/https%3A//www.futureadvisor.com/legal/FutureAdvisor%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureadvisor.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510144004id_/https%3A//www.futureadvisor.com/legal/FutureAdvisor-Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# 
+# PRIVACY POLICY
 
-                          NOTICE OF PRIVACY POLICY                                   Rev. 6/2011
-FACTS          WHAT DOES FUTUREADVISOR (XULU, INC.)
-               DO WITH YOUR PERSONAL INFORMATION?
-Why?           Financial companies choose how they share your personal information. Fed-
-               eral law gives consumers the right to limit some but not all sharing. Federal
-               law also requires us to tell you how we collect, share, and protect your personal
-               information. Please read this notice carefully to understand what we do.
-What?          The types of personal information we collect and share depend on the product
-               or service you have with us. This information can include:
-                       x Social Security number, income, investment experience, risk tolerance.
-                       x Information you provide us through futureadvisor.com.
-                       x Brokerage/custodial account information and account balances.
-                       x Retirement and other employee benefits plan documents and assets.
-                       x Account transactions and transaction costs.
-                       x Wire transfer information.
-How?           All financial institutions need to share customers’ personal information to run
-               their everyday business. In the section below, we list the reasons financial com-
-               panies can share their customers’ personal information; the reasons
-               FutureAdvisor chooses to share; and whether you can limit this sharing.
-Reasons we can share your personal                                Does         Can you limit this
-information                                                 FutureAdvisor           sharing?
-                                                                 share?
-For our everyday business —
-Such as to transfer accounts to FutureAdvisor, obtain
-your “Client Information,” place account trades,                Yes                 No
-maintain your account(s), meet compliance require-
-ments, respond to court orders and legal investiga-
-tions, or to report to credit bureaus.
-For our marketing purposes —
-To offer our products and services to you.                        Yes                 No
-For joint marketing with other companies.                          No                 Yes
-For our affiliates’ everyday business purposes
-— Information about your transactions and experi-                N/A                 Yes
-ences.
-For our affiliates’ everyday business purposes                   N/A                 Yes
-— Information about your creditworthiness.
-For our affiliates to market to you.                              N/A                 Yes
-For non-affiliates to market to you.                               No                 Yes
-                            Please call Bo Lu at 425-922-7323 or by email at
-Questions?
-                            founders@futureadvisor.com.
+                                                PRIVACY POLICY
+                                  This Privacy Policy was last updated on May 5, 2013.
+Our Policy:
+Welcome to the web site (the “Site”) of Xulu, Inc. (“FutureAdvisor”, “we”, “us” and/or “our”). This Site is
+operated by FutureAdvisor and has been created to provide information about our company and our investment
+advisory services (the “Services”) to our users (“you”, “your”). This Privacy Policy sets forth FutureAdvisor’s
+policy with respect to information including personally identifiable data (“Personal Data”) and other information
+that is collected from Site visitors and users of the Services.
+If you are a client, prospective client, or former client of FutureAdvisor, please also see the Privacy Notice section
+of our Terms of Use accessible at https://www.futureadvisor.com/legal/FutureAdvisor-Terms-of-Use.pdf, which we
+are required to provide under federal law to clients of our advisory services.
+Information We Collect:
+When you interact with us through the Site or the Services, we may collect Personal Data and other information
+from you, as further described below:
+           Personal Data That You Provide Through the Site: We collect Personal Data from you when you
+voluntarily provide such information such as when you register for access to the Services, use certain Services,
+contact us with inquiries or respond to one of our surveys. Wherever FutureAdvisor collects Personal Data we make
+an effort to provide a link to this Privacy Policy.
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this
+Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be
+transferred from your current location to the offices and servers of FutureAdvisor and the authorized third
+parties referred to herein located in the United States.
+           Non-Identifiable or Aggregated Data: When you interact with FutureAdvisor through the Site or
+Services, we receive and store certain personally non-identifiable information. Such information, which is collected
+passively using various technologies, cannot presently be used to specifically identify you. FutureAdvisor may store
+such information itself or such information may be included in databases owned and maintained by FutureAdvisor
+affiliates, agents or service providers. This Site may use such information and pool it with other information to track,
+for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain
+names of our visitors' Internet service providers, and how our users use and interact with the FutureAdvisor Service.
+Also, in an ongoing effort to better understand and serve the users of the Services, FutureAdvisor often conducts
+research on its customer demographics, interests and behavior based on the Personal Data and other information
+provided to us. This research may be compiled and analyzed on an aggregate basis. FutureAdvisor may share this
+non-identifiable and aggregate data with its affiliates, agents and business partners, but this type of non-identifiable
+and aggregate information does not identify you personally. FutureAdvisor may also disclose aggregated user
+statistics in order to describe our services to current and prospective business partners, and to other third parties for
+other lawful purposes.
+           In operating this Site, we may also use a technology called "cookies." A cookie is a piece of information
+that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide
+additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a
+cookie on your browser that allows you to access the Site without needing to remember and then enter a password
+more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data
+except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to
+this section for information on how to receive notification when you are receiving a new cookie and how to turn
+cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of
+the Site’s features.
+                                                        1
 
 
-Page 2
-What we are
-Who is providing this notice? FutureAdvisor (advisory business name of XULU, Inc.)
-What we do
-How does FutureAdvisor        To protect your personal information from unauthorized access
-protect my Personal informa- and use, we use security measures that comply with federal law.
-tion?                         These measures include computer safeguards and secured files
-                              and buildings.
-How does FutureAdvisor        We collect your personal information, for example, when you:
-collect my personal             x Open an account with us.
-information?                    x Invest additional assets into your account.
-                                x Authorize us to communicate with the broker-dealer or
-                                   custodian for your account; third-party advis0rs; or your
-                                   other service providers.
-                                x Inform us of any changes to your personal financial or other
-                                   circumstances.
-Why can’t I limit all        Federal law gives you the right to limit only:
-sharing?                        x Sharing for affiliates’ everyday business purposes —
-                                   information about your creditworthiness.
-                                x Affiliates from using your information to market to you.
-                                x Sharing for non-affiliates to market to you.
-                              State laws may give your additional rights to limit sharing.
-What happens when I limit     Your choices will apply to everyone on your account — unless
-sharing for an account I hold you tell us otherwise.
-jointly with someone else?
-Definitions
-Affiliates                    Companies related by common ownership or control. They can
-                              be financial and nonfinancial companies.
-Non-affiliates                Companies not related by common ownership or control. They
-                              can be financial and nonfinancial companies.
-Joint marketing               A formal agreement between nonaffiliated financial companies
-                              that together market financial products or services to you.
-Other Important Information
+Google Analytics:
+We use Remarketing with Google Analytics to advertise online, and we have implemented and use the Remarketing
+feature of Google Analytics for Display Advertising. Third-party vendors, including Google, display our ads on sites
+across the Internet. FutureAdvisor and other third-party vendors, including Google, use first-party cookies (such as
+the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize,
+and serve ads based on visitors’ past visits to our Site. Visitors can opt-out of Google Analytics for Display
+Advertisers and customize Google Display Network ads using the Ads Preferences Manager at
+http://www.google.com/ads/preferences.
+Our Use of Your Personal Data and Other Information:
+FutureAdvisor uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you
+provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it
+was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your
+question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we
+will use your Personal Data to provide you with access to such services and to monitor your use of such services.
+FutureAdvisor and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and
+other personally non-identifiable information collected through the Site to help us improve the content and
+functionality of the Site, to better understand our users and to improve the Services. FutureAdvisor and its Related
+Companies may use this information to communicate with you regarding the Services or to tell you about services
+we believe will be of interest to you. If we do so, each marketing communication we send you will contain
+instructions permitting you to "opt-out" of receiving future marketing communications. Note however that as user of
+the Service you cannot opt-out of some administrative communications that are reasonably necessary to the Service,
+such as billing or service notifications. In addition, if at any time you wish not to receive any future
+communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+If FutureAdvisor intends on using any Personal Data in any manner that is not consistent with this Privacy Policy,
+you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+Our Disclosure of Your Personal Data and Other Information:
+FutureAdvisor is not in the business of selling your information. We consider this information to be a vital part of
+our relationship with you. There are, however, certain circumstances in which we may share your Personal Data
+with certain third parties without further notice to you, as set forth below:
+          Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of
+a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred
+assets.
+          Related Companies: We may also share your Personal Data with our Related Companies for purposes
+consistent with this Privacy Policy.
+          Agents, Consultants and Related Third Parties: FutureAdvisor, like many businesses, sometimes hires
+other companies to perform certain business-related functions. Examples of such functions include mailing
+information, maintaining databases and processing payments. When we employ another company to perform a
+function of this nature, we only provide them with the information that they need to perform their specific function.
+          Legal Requirements: FutureAdvisor may disclose your Personal Data if required to do so by law or in the
+good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights
+or property of FutureAdvisor, (iii) act in urgent circumstances to protect the personal safety of users of the Site or
+the public, or (iv) protect against legal liability.
+Your Choices:
+You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may
+not be able to use certain Services.
+Exclusions:
+This Privacy Policy does not apply to any Personal Data collected by FutureAdvisor other than Personal Data
+collected through the Site or Services. This Privacy Policy shall not apply to any unsolicited information you
+provide to FutureAdvisor through this Site or through any other means. This includes, but is not limited to,
+                                                        2
+
+
+information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas
+for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited
+Information”). All Unsolicited Information shall be deemed to be non-confidential and FutureAdvisor shall be free
+to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
+Children:
+FutureAdvisor does not knowingly collect Personal Data from children under the age of 13. If you are under the age
+of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to
+monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to
+provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age
+of 13 has provided Personal Data to FutureAdvisor through this Site, please contact us, and we will endeavor to
+delete that information from our databases.
+Integrating Third Party Services:
+One of the special features of the Service is that it allows you to enable or log in to the Services via various online
+third party services, such as social networking services like Facebook (“Integrated Services”). By directly
+integrating these services, we make your online experiences richer and more personalized. To take advantage of this
+feature, we will ask you to provide us your username and password for the relevant Integrated Service. By enabling
+or logging in via such Integrated Services, you are allowing us to pass your log-in information to these service
+providers for this purpose. When you add an Integrated Services account to the Service or log into the Service using
+your Integrated Services account, we will collect your login information and other relevant information necessary to
+enable the Service to access that Integrated Service and your data contained within that Integrated Service. As part
+of such integration, the Integrated Service will provide us with access to certain information that you have provided
+to such Integrated Service, and we will use, store and disclose such information in accordance with this Privacy
+Policy. However, please remember that the manner in which Integrated Services use, store and disclose your
+information is governed by the policies of such third parties, and FutureAdvisor shall have no liability or
+responsibility for the privacy practices or other actions of any Integrated Services that may be enabled within the
+Service.
+Links to Other Web Sites:
+This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled
+by FutureAdvisor (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third
+Party Sites. The links from this Site do not imply that FutureAdvisor endorses or has reviewed the Third Party Sites.
+We suggest contacting those sites directly for information on their privacy policies.
+Security:
+FutureAdvisor takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and
+unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic
+transmission is ever fully secure or error free, so you should take special care in deciding what information you send
+to us in this way.
+Other Terms and Conditions:
+Your access to and use of this Site is subject to our Terms of Use accessible at
+https://www.futureadvisor.com/legal/FutureAdvisor-Terms-of-Use.pdf.
+Changes to FutureAdvisor’s Privacy Policy:
+The Site and our business may change from time to time. As a result, at times it may be necessary for FutureAdvisor
+to make changes to this Privacy Policy. FutureAdvisor reserves the right to update or modify this Privacy Policy at
+any time and from time to time without prior notice. Please review this policy periodically, and especially before
+you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued
+use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of
+such revised Privacy Policy.
+                                                        3
+
+
+Access to Information; Contacting FutureAdvisor:
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take
+reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this
+Site or Services.
+Please also feel free to contact us if you have any questions about FutureAdvisor’s Privacy Policy or the information
+practices of this Site.
+You may contact us via email at help@futureadvisor.com
+                                                       4
