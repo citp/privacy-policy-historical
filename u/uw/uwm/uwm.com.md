@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwm.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111104511id_/http%3A//www.uwm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwm.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510061516id_/http%3A//www.uwm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wholesale Mortgage | Wholesale Lenders | United Wholesale Mortgage
 
@@ -121,9 +121,11 @@ Should you still have questions regarding UWM’s use of your information and th
 
 United Wholesale Mortgage
 
-555 South Adams Road
+1414 E Maple Rd
 
-Birmingham, MI 48009
+Third Floor
+
+Troy, MI 48083
 
 info@uwm.com
 
