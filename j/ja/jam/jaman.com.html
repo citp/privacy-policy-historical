@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jaman.com privacy policy that was archived on 2012-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127020433id_/http%3A//www.jaman.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jaman.com privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510053926id_/http%3A//www.jaman.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Jaman - Jaman Privacy Policy</title>
@@ -8,7 +8,6 @@
 <meta name="keywords" content="download movies, movie downloads, watch movies online, free movies, new movies, downloadable movies, streaming video, free download film, free films, hollywood movies, foreign movies, independent movies">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
-
 <link rel="stylesheet" href="/v6/wwwpages/mktStyle.css" type="text/css">
 <link rel="stylesheet" href="/v1/css/stylePackage.css" type="text/css">
 <link rel="stylesheet" href="/m/branding/www.css" type="text/css">
@@ -22,200 +21,160 @@ VN_JAVASCRIPT = "1";
 VN_FLASHPLAYER = "1";
 VN_CSS = "1";
 </script>
-
-
 <script src="http://yui.yahooapis.com/combo?2.7.0/build/utilities/utilities.js&amp;2.7.0/build/button/button-min.js&amp;2.7.0/build/json/json-min.js&amp;2.7.0/build/datasource/datasource-min.js&amp;2.7.0/build/autocomplete/autocomplete-min.js" type="text/javascript"></script>
 <script src="/v1/javascript/MochiKit/MochiKitPackage.js" type="text/javascript"></script>
 <script src="/v1/javascript/jsPackage1.js" type="text/javascript"></script>
 </head>
 <body class="yui-skin-sam">
 <div id="mainContainer">
-    
 <div class="page-header" id="page-header">
-        <a class="page-header-logo" id="page-header-logo" href="http://www.jaman.com/"><div></div></a>
-    <div class="line"></div>
-
-
-    <div class="nav-bar" id="nav-bar">
-                <div class="selectedNavTab" id="selectedNavTab" style="display:none;">
-            <div id="selectedLeftBorder"></div>
-            <div id="selectedRightBorder"></div>
-            <div class="clear"></div>
-        </div>
-
-        <div id="navBarCover"></div>
-        <ul class="primaryNavBar" id="primaryNavBar">
-        <li id="navbar.home_li" style="width:65px"><div><a href="http://www.jaman.com/">Home</a></div></li><li class="divider"></li><li id="navbar.movies_li" style="width:70px"><div><a href="/movies/">Movies</a></div></li><li class="divider"></li><li id="navbar.community_li" style="width:99px"><div><a href="/community/">Community</a></div></li><li class="divider"></li><li id="navbar.myjaman_li" style="width:92px"><div><a href="/dashboard/">My Jaman</a></div></li><li class="divider"></li><li id="navbar.welcome_li" style="width:129px"><div><a href="/about/what-is-jaman/">What is Jaman?</a></div></li>        </ul>
-                <ul class="secondaryNavBar hidden" id="navbar.movies_sec">
-        <li><a href="/movies/">Movies Home</a></li><li class="divider" id="divider">|</li><li><a href="/movies/free-movies/">Free Movies</a></li><li class="divider" id="divider">|</li><li><a href="/movies/new-arrivals/">New Arrivals</a></li><li class="divider" id="divider">|</li><li><a href="/movies/popular-movies/">Popular Movies</a></li><li class="divider" id="divider">|</li><li><a href="/movies/staff-picks/">Staff Picks</a></li><li class="divider" id="divider">|</li><li><a href="/movies/world-map/">World Map</a></li><li class="divider" id="divider">|</li><li><a href="/movies/trailer-theater/">Theatrical Trailers</a></li>        </ul>
-                <ul class="secondaryNavBar hidden" id="navbar.community_sec">
-        <li><a href="/community/">Overview</a></li><li class="divider" id="divider">|</li><li><a href="/community/people/">People</a></li><li class="divider" id="divider">|</li><li><a href="/community/connect/">Connect to Jaman</a></li><li class="divider" id="divider">|</li><li><a href="/community/arcade/">Arcade</a></li>        </ul>
-                <ul class="secondaryNavBar hidden" id="navbar.myjaman_sec">
-        <li><a href="/dashboard/">Dashboard</a></li><li class="divider" id="divider">|</li><li><a href="/userProfile/?username=">My Public Profile</a></li><li class="divider" id="divider">|</li><li><a href="/recommendations/?username=">Recommendations</a></li><li class="divider" id="divider">|</li><li><a href="/library/">My Library</a></li><li class="divider" id="divider">|</li><li><a href="/messages/">Messages</a></li><li class="divider" id="divider">|</li><li><a href="/account/">Account Settings</a></li>        </ul>
-                <div class="clear"></div>
-    </div>
-    <div class="user-box">
-        <ul>
-                        <li>Not a member yet? <a href="#" onclick="VideoLib.openRegisterPopup(); return false;">Join Now</a></li>
-                                                <li><a href="#" onclick="VideoLib.handleSignIn(); return false;">Sign In</a></li>
-                                    </ul>
-    </div>
-    <div id="searchContainer" class="page-header-search">
-<a href="#" onclick="VideoLib.handleSearchAll(); return false;" id="gb0_A" class="graphicButton graphicButton_md"><strong><strong><strong>Search</strong></strong></strong></a>	    		<form id="searchForm" method="POST" onsubmit="VideoLib.handleSearchAll(); return false">
-    		<div class="yui-skin-sam">
-				<div id="searchBlock">
-	    			<input id="search_text" type="text" name="search_text" onkeypress="return window.VideoLib.handleKeypressEnter(this, event, window.VideoLib.handleSearchAll);" value="Movies, actors, directors..." class="searchPrompt" onfocus="this.value=''; this.className='searchText'; this.onfocus=null; return true;">
-				<div></div> 
-	    			<div id="autocomplete">
-	    			</div>
-				</div>
-			</div>
-		</form>
-    </div>
+<a class="page-header-logo" id="page-header-logo" href="http://www.jaman.com/"><div></div></a>
+<div class="line"></div>
+<div class="nav-bar" id="nav-bar">
+<div class="selectedNavTab" id="selectedNavTab" style="display:none;">
+<div id="selectedLeftBorder"></div>
+<div id="selectedRightBorder"></div>
+<div class="clear"></div>
 </div>
-
+<div id="navBarCover"></div>
+<ul class="primaryNavBar" id="primaryNavBar">
+<li id="navbar.home_li" style="width:65px"><div><a href="http://www.jaman.com/">Home</a></div></li><li class="divider"></li><li id="navbar.movies_li" style="width:70px"><div><a href="/movies/">Movies</a></div></li><li class="divider"></li><li id="navbar.community_li" style="width:99px"><div><a href="/community/">Community</a></div></li><li class="divider"></li><li id="navbar.myjaman_li" style="width:92px"><div><a href="/dashboard/">My Jaman</a></div></li><li class="divider"></li><li id="navbar.welcome_li" style="width:129px"><div><a href="/about/what-is-jaman/">What is Jaman?</a></div></li> </ul>
+<ul class="secondaryNavBar hidden" id="navbar.movies_sec">
+<li><a href="/movies/">Movies Home</a></li><li class="divider" id="divider">|</li><li><a href="/movies/free-movies/">Free Movies</a></li><li class="divider" id="divider">|</li><li><a href="/movies/new-arrivals/">New Arrivals</a></li><li class="divider" id="divider">|</li><li><a href="/movies/popular-movies/">Popular Movies</a></li><li class="divider" id="divider">|</li><li><a href="/movies/staff-picks/">Staff Picks</a></li><li class="divider" id="divider">|</li><li><a href="/movies/world-map/">World Map</a></li><li class="divider" id="divider">|</li><li><a href="/movies/trailer-theater/">Theatrical Trailers</a></li> </ul>
+<ul class="secondaryNavBar hidden" id="navbar.community_sec">
+<li><a href="/community/">Overview</a></li><li class="divider" id="divider">|</li><li><a href="/community/people/">People</a></li><li class="divider" id="divider">|</li><li><a href="/community/connect/">Connect to Jaman</a></li><li class="divider" id="divider">|</li><li><a href="/community/arcade/">Arcade</a></li> </ul>
+<ul class="secondaryNavBar hidden" id="navbar.myjaman_sec">
+<li><a href="/dashboard/">Dashboard</a></li><li class="divider" id="divider">|</li><li><a href="/userProfile/?username=">My Public Profile</a></li><li class="divider" id="divider">|</li><li><a href="/recommendations/?username=">Recommendations</a></li><li class="divider" id="divider">|</li><li><a href="/library/">My Library</a></li><li class="divider" id="divider">|</li><li><a href="/messages/">Messages</a></li><li class="divider" id="divider">|</li><li><a href="/account/">Account Settings</a></li> </ul>
+<div class="clear"></div>
+</div>
+<div class="user-box">
+<ul>
+<li>Not a member yet? <a href="#" onclick="VideoLib.openRegisterPopup(); return false;">Join Now</a></li>
+<li><a href="#" onclick="VideoLib.handleSignIn(); return false;">Sign In</a></li>
+</ul>
+</div>
+<div id="searchContainer" class="page-header-search">
+<a href="#" onclick="VideoLib.handleSearchAll(); return false;" id="gb0_A" class="graphicButton graphicButton_md"><strong><strong><strong>Search</strong></strong></strong></a> <form id="searchForm" method="POST" onsubmit="VideoLib.handleSearchAll(); return false">
+<div class="yui-skin-sam">
+<div id="searchBlock">
+<input id="search_text" type="text" name="search_text" onkeypress="return window.VideoLib.handleKeypressEnter(this, event, window.VideoLib.handleSearchAll);" value="Movies, actors, directors..." class="searchPrompt" onfocus="this.value=''; this.className='searchText'; this.onfocus=null; return true;">
+<div></div>
+<div id="autocomplete">
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
 <div id="generalErr" class="infoBar" style=" display:none">
-    </div>
-
-
+</div>
 <script style="text/javascript">
 </script>
-        <div id="contentContainer">
-        
+<div id="contentContainer">
 <h1 class="pageTitle1">Jaman Privacy Policy</h1>
 <div class="hr" style="margin-bottom: 3px;">&nbsp;</div>
 <div><img class="spacer" src="/v1/images/blank.gif" height="5" width="1"></div>
-
-
 <table width="100%" border="0">
 <tbody><tr>
 <td width="100%">
-    <div><img class="spacer" src="/v1/images/blank.gif" width="646" height="1"></div>
-    <div class="displayText">
-        <style>
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin:0in;
-	margin-bottom:.0001pt;
-    }
-</style>
-
+<div><img class="spacer" src="/v1/images/blank.gif" width="646" height="1"></div>
+<div class="displayText">
+<style>p.MsoNormal,li.MsoNormal,div.MsoNormal{margin:0in;margin-bottom:.0001pt;}</style>
 <p class="MediumBodyText2"><a href="http://www.truste.org/ivalidate.php?url=www.jaman.com&amp;sealid=101" target="_blank"><img src="/wwwimages/truste_seal_ctv.gif" width="68" height="95" border="0" style="float:right; margin:0px 0px 20px 20px"></a>Jaman.com, Inc. ("Jaman") recognizes that its customers, visitors, Members, and others who use www.jaman.com (the "Jaman Site") (collectively or individually "Members") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Jaman Site. Jaman provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Jaman Site. This Privacy Notice is incorporated into and is subject to the Jaman Terms of Use. Your use of the Jaman Site and any personal information you provide on the Jaman Site remains subject to the terms of this Privacy Notice and our Terms of Use.</p>
 <p class="MediumBodyText2">Please note that any video, image, or other content posted at the direction of Members onto the Jaman Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.</p>
 <p class="MediumBodyText2"><strong>Newsletters and Mailing Lists</strong><span class="MediumBodyText2" style="font-family:ArialMT; "><br>
 </span><span class="MediumBodyText2" style="font-family:Arial; ">When you sign up for the Jaman service, you are automatically signed up for Jaman's newsletters and special offers targeted for your interests from Jaman.com, . If you wish to be excluded from these promotional mailings from Jaman.com, go to your account page and turn off email notifications. You will be excluded from future mailings. If you have questions about your subscription to the mailing list, please fill out our </span><span class="MediumBodyText2"><a href="/feedback">Customer Service Form</a></span> </p>
-
 <p class="MediumBodyText2"><strong>The Information Jaman Collects</strong><span class="MediumBodyText2" style="font-family:Arial-BoldMT; "><strong><br>
 </strong></span><span class="MediumBodyText2" style="font-family:Arial; "><em>Account Information:</em> You provide certain personally identifiable information (such as your name, email address, credit card information –including billing address--, and age) to Jaman in order to participate in various activities on the Jaman Site such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or receiving newsletters or other mailing lists.</span></p>
 <p class="MediumBodyText2"><em>Profile:</em> You may also elect to provide information about yourself in your profile. Jaman does not require you to fill out a profile in order to participate in the service or community.&nbsp; Jaman makes no claims about the privacy of publicly available profile information.</p>
 <p class="MediumBodyText2">Members of the Jaman Community have the ability to post reviews and comments on the Jaman web site which may contain personally identifiable information such as the users' name, if they choose to use their own name as their Jaman community user name. We obtain the users consent to post their name prior to their posting.&nbsp;</p>
 <p class="MediumBodyText2"><em>Cookies Information:</em> When you visit the Jaman Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Jaman uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Jaman Site may not function properly if the ability to accept cookies is disabled. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
-
 <p class="MediumBodyText2"><em>Log File Information:</em> When you use the Jaman Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</p>
 <p class="MediumBodyText2"><em>Clear GIFs Information:</em> When you use the Jaman Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Members anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our Members to track which emails are opened by recipients.</p>
 <p><em>Online Surveys and Polls: </em>Jaman values opinions and comments from members, so we may conduct online surveys. Participation in these surveys is entirely optional. Typically, the information is aggregated and used to make improvements to Jaman and to develop appealing content, features and promotions for members. Survey participants are anonymous unless otherwise stated in the survey.</p>
 <p class="MediumBodyText2"><strong>The Way Jaman Uses Information</strong><span class="MediumBodyText2" style="font-family:ArialMT; "><br>
 </span><span class="MediumBodyText2" style="font-family:Arial; ">If you submit personally identifiable information to us through the Jaman Site, we use your personal information to operate, maintain, and provide to you the features and functionality of the Jaman Site.</span></p>
-
 <p class="MediumBodyText2"><strong><em>Details:</em></strong><span class="MediumBodyText2" style="font-family:ArialMT; "><br>
 </span><span class="MediumBodyText2" style="font-family:Arial; "><em>Account information:</em> Your account information (for example, full name, email address, birth date, credit card number, and rental/purchase history) are collected for basic Jaman service.&nbsp; Jaman will use this information to fulfill our service to you as follows:</span></p>
 <ul style="margin-top:0in;" type="disc">
-  <li class="MediumBodyText2">Your full name      will be used to personalize communications to you and identify you in our      system (for user searches, etc)</li>
-  <li class="MediumBodyText2">Your email      address will be used for identity verification, system messages, personal      Jaman messages (unsubscribe available in “User Preferences”), newsletter      (unsubscribe available in “User Preferences”), and other Jaman      communications. </li>
-
-  <li class="MediumBodyText2">Your birth date      is used to determine whether you are of legal age to view mature content.</li>
-  <li class="MediumBodyText2">Your credit card      information, including your billing address, will be used when you buy or      rent films.</li>
-  <li class="MediumBodyText2">Your      rental/purchase history is used to establish licensing of films and      provide insight into the kinds of movies Jaman may want to offer in the      future.</li>
+<li class="MediumBodyText2">Your full name will be used to personalize communications to you and identify you in our system (for user searches, etc)</li>
+<li class="MediumBodyText2">Your email address will be used for identity verification, system messages, personal Jaman messages (unsubscribe available in “User Preferences”), newsletter (unsubscribe available in “User Preferences”), and other Jaman communications. </li>
+<li class="MediumBodyText2">Your birth date is used to determine whether you are of legal age to view mature content.</li>
+<li class="MediumBodyText2">Your credit card information, including your billing address, will be used when you buy or rent films.</li>
+<li class="MediumBodyText2">Your rental/purchase history is used to establish licensing of films and provide insight into the kinds of movies Jaman may want to offer in the future.</li>
 </ul>
 <p class="MediumBodyText2"><em>Profile Information:</em>&nbsp; You elect to share as much or as little information about yourself in your personal profile.&nbsp; Jaman makes no claims on the privacy of information that you have elected to make public.</p>
 <p class="MediumBodyText2">Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Members when you upload videos or send messages through the Jaman Site and other Members can contact you through messages and comments. Any videos that you submit to the Jaman Site may be redistributed through the Internet and other media channels, and may be viewed by the general public.</p>
-
 <p class="MediumBodyText2"><em>Community Involvement: </em>&nbsp;If you use groups, reviews, or film blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.&nbsp; We are not responsible for the personally identifiable information you choose to submit in these forums or by private message to other users.</p>
 <p class="MediumBodyText2">We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out (for example, our newsletter). We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Jaman Site changes or for customer service purposes).</p>
 <p class="MediumBodyText2">We will send you account and service-related announcements &nbsp;from time to time when it is necessary to do so.&nbsp; For instance, if our service is temporarily suspended for maintenance, we might send you an email.&nbsp; Generally, you may not opt-out of these communications, which are not promotional in nature.&nbsp; If you do not wish to receive them, you have the option to deactivate your account.</p>
 <p class="MediumBodyText2">We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Jaman Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.</p>
-
 <p class="MediumBodyText2">We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Jaman Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.</p>
 <p class="MediumBodyText2"><strong><em>Important Note About Your Flash Viewing History</em></strong><br>
-  Jaman stores information about which films you preview in streaming flash format.&nbsp; This information is currently not used but may be used in the future without notice to determine site usage patterns.</p>
+Jaman stores information about which films you preview in streaming flash format.&nbsp; This information is currently not used but may be used in the future without notice to determine site usage patterns.</p>
 <p class="MediumBodyText2"><strong>When Jaman Discloses Information</strong> </p>
 <ul>
-  <li class="MediumBodyText2">We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.</li>
-  <li class="MediumBodyText2">We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</li>
-
-  <li class="MediumBodyText2">We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Jaman Site.</li>
-  <li class="MediumBodyText2">We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.</li>
-  <li class="MediumBodyText2">Jaman also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that Jaman believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Jaman, our Members or others.&nbsp;</li>
+<li class="MediumBodyText2">We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.</li>
+<li class="MediumBodyText2">We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</li>
+<li class="MediumBodyText2">We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Jaman Site.</li>
+<li class="MediumBodyText2">We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.</li>
+<li class="MediumBodyText2">Jaman also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that Jaman believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Jaman, our Members or others.&nbsp;</li>
 </ul>
 <p class="MediumBodyText2"><strong>Your Choices</strong><span class="MediumBodyText2" style="font-family:Arial-BoldMT; "><strong><br>
-</strong></span><span class="MediumBodyText2" style="font-family:Arial; ">You may, of course, decline to submit personally identifiable information through the Jaman Site, in which case Jaman may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. You can also request that your personal information be updated or deleted at any time through our <a href="/feedback/">Customer Service Form</a>.  Updates, inaccuracies, and requests for deletion will be responded to within 72 hours. Please note that media files uploaded by Members to the Jaman Site may not be able to be removed and remain subject to our Terms of Use.&nbsp;</span></p>
+</strong></span><span class="MediumBodyText2" style="font-family:Arial; ">You may, of course, decline to submit personally identifiable information through the Jaman Site, in which case Jaman may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. You can also request that your personal information be updated or deleted at any time through our <a href="/feedback/">Customer Service Form</a>. Updates, inaccuracies, and requests for deletion will be responded to within 72 hours. Please note that media files uploaded by Members to the Jaman Site may not be able to be removed and remain subject to our Terms of Use.&nbsp;</span></p>
 <p class="MediumBodyText2">To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.&nbsp;</p>
-
 <p class="MediumBodyText2">Please contact Jaman with any questions or comments about this Privacy Notice, your personal information, your consent, or if you need help with your opt-in or opt-out choices (provided on the website) by filling out our <span class="MediumBodyText2" style="font-family:ArialMT; "><a href="/feedback/"><span style="font-family:Arial; ">Customer Service Form</span></a></span><span class="MediumBodyText2" style="font-family:Arial; ">.&nbsp;</span></p>
 <p class="MediumBodyText2"><strong>Third-party Companies</strong><span class="MediumBodyText2" style="font-family:Arial-BoldMT; "><strong><br>
-</strong></span><!--<span class="MediumBodyText2" style="font-family:Arial; ">Jaman may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Jaman Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Jaman Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.</span></p>
-<p class="MediumBodyText2">Jaman does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Jaman to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Jaman Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.&nbsp;</p>
-<p class="MediumBodyText2">You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Jaman's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.&nbsp;</p>-->
+</strong></span> 
 </p><p class="MediumBodyText2">Jaman has a relationship with the following third-party mailing list service:</p>
 <ol style="margin-top:0in;" start="1" type="1">
-  <li class="MediumBodyText2">ExactTarget<span class="MediumBodyText2" style="font-family:ArialMT; "><br>
-
-      <a href="http://email.exacttarget.com/ETWeb/company_blog.aspx?id=82" target="_blank"><span style="font-family:Arial; ">http://email.exacttarget.com/ETWeb/company_blog.aspx?id=82</span></a></span> </li>
+<li class="MediumBodyText2">ExactTarget<span class="MediumBodyText2" style="font-family:ArialMT; "><br>
+<a href="http://email.exacttarget.com/ETWeb/company_blog.aspx?id=82" target="_blank"><span style="font-family:Arial; ">http://email.exacttarget.com/ETWeb/company_blog.aspx?id=82</span></a></span> </li>
 </ol>
 <p class="MediumBodyText2">Jaman uses ExactTarget to collect and store data for the purpose of mailing list management and distribution.&nbsp; They store, on our behalf, the information you provide (for example, full name, email address, etc) and use it for the express purposes of fulfilling mailing list service to Jaman, in accordance with their terms of service and privacy policy, above.&nbsp; They will not use your information in ways other than those specified on their privacy policy.&nbsp; All non-required information (for example, how you heard about Jaman) is for our information only so that we may know more about you.</p>
 <p class="MediumBodyText2"><strong>Tell-A-Friend</strong><span class="MediumBodyText2" style="font-family:Arial-BoldMT; "><strong><br>
 </strong></span><span class="MediumBodyText2" style="font-family:Arial; ">If you choose to use our referral service to tell a friend about our site (or the referral service of ExactTarget, our mailing list provider), we will ask you for your friend's name and email address.&nbsp; We will automatically send your friend a one-time email inviting him or her to visit the site.&nbsp; Jaman stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.&nbsp; </span></p>
-
 <p class="MediumBodyText2">Your friend may contact us through our <span class="MediumBodyText2" style="font-family:Arial-BoldMT; "><a href="/feedback/"><span style="font-family:Arial; ">Customer Service Form</span></a></span><span class="MediumBodyText2" style="font-family:Arial; "> to request that we remove this information from our database.</span></p>
 <p class="MediumBodyText2"><strong>Agents </strong>&nbsp;<br>
-  We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.</p>
+We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.</p>
 <p class="MediumBodyText2"><strong>Our Commitment To Data Security</strong><span class="MediumBodyText2" style="font-family:ArialMT; "><br>
 </span><span class="MediumBodyText2" style="font-family:Arial; ">Jaman uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Jaman and you do so at your own risk. Once we receive your transmission of information, Jaman makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</span></p>
 <p class="MediumBodyText2">If Jaman learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Jaman may post a notice on the Jaman Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by filling out our <span class="MediumBodyText2"><a href="/feedback/">Customer Service Form</a></span>.</p>
-
 <p class="MediumBodyText2">The security of your personal information is important to us.&nbsp; When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).</p>
 <p class="MediumBodyText2"><strong>Our Commitment To Childrens' Privacy</strong>&nbsp;<span class="MediumBodyText2" style="font-family:ArialMT; "><br>
 </span><span class="MediumBodyText2" style="font-family:Arial; ">Protecting the privacy of young children is especially important. For that reason, Jaman does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Jaman Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, <strong>then please do not use or access the Jaman Site at any time or in any manner</strong>. If Jaman learns that personally identifiable information of persons less than 13 years of age has been collected on the Jaman Site without verified parental consent, then Jaman will take the appropriate steps to delete this information.&nbsp;</span></p>
-
 <p class="MediumBodyText2"><strong>Safe Harbor</strong>&nbsp;<span class="MediumBodyText2" style="font-family:ArialMT; "><br>
 </span><span class="MediumBodyText2" style="font-family:Arial; ">Jaman complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.&nbsp;</span></p>
-
 <p class="MediumBodyText2"><strong>Special Note to International Members</strong><span class="MediumBodyText2" style="font-family:Arial-BoldMT; "><strong><br>
 </strong></span><span class="MediumBodyText2" style="font-family:Arial; ">The Jaman Site are hosted in the United States and are intended for and directed to Members in the United States. If you are a User accessing the Jaman Site from the Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Jaman Site, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.</span></p>
 <p class="MediumBodyText2"><strong>Business Transitions<br>
 </strong>In the event Jaman goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.&nbsp; You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.&nbsp;</p>
-
 <p class="MediumBodyText2"><strong>Changes and updates to this Privacy Notice</strong><span class="MediumBodyText2" style="font-family:Arial-BoldMT; "><strong><br>
 </strong></span><span class="MediumBodyText2" style="font-family:Arial; ">&nbsp;If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.&nbsp; </span></p>
 <p class="MediumBodyText2">We reserve the right to modify this privacy statement at any time, so please review it frequently.&nbsp; If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.</p>
-
 <p class="MediumBodyText2"><strong>About TRUSTe Verification</strong><br>
-  Jaman is a licensee of the TRUSTe Privacy Program.&nbsp; TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.&nbsp; This privacy statement covers the Web site http://www.jaman.com.&nbsp; Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
+Jaman is a licensee of the TRUSTe Privacy Program.&nbsp; TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.&nbsp; This privacy statement covers the Web site http://www.jaman.com.&nbsp; Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
 <p class="MediumBodyText2">If you have questions or concerns regarding this statement, you should first contact Jaman Support by filling out our customer service form.&nbsp; If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
 <p class="MediumBodyText2">The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.</p>
 <p class="MediumBodyText2"><strong>Date Last Modified:</strong> This Privacy Notice was last modified December 3, 2007.</p>
 <p class="MediumBodyText2"><strong>Contact Information: </strong><br>
-
-    Address: 2955 Campus Dr, Suite 250, San Mateo, CA 94403<br>
-    Phone: (650) 525-3500</p>
-<p class="MediumBodyText2">We will respond  to requests to update user information, correct inaccuracies, or request profile/message deletion within 30 days. </p>
-    </div>
+Address: 2955 Campus Dr, Suite 250, San Mateo, CA 94403<br>
+Phone: (650) 525-3500</p>
+<p class="MediumBodyText2">We will respond to requests to update user information, correct inaccuracies, or request profile/message deletion within 30 days. </p>
+</div>
 </td>
-
-  <td>
-    <div><img class="spacer" src="/v1/images/blank.gif" width="332" height="1"></div>
-  </td>
-
-
+<td>
+<div><img class="spacer" src="/v1/images/blank.gif" width="332" height="1"></div>
+</td>
 </tr>
 </tbody></table>
-    </div>
-        <div id="footerContainer">
-        <img class="spacer" src="/v1/images/blank.gif" height="50" width="1">
+</div>
+<div id="footerContainer">
+<img class="spacer" src="/v1/images/blank.gif" height="50" width="1">
 <div class="hr" style="margin-bottom:6px"></div>
 <div style="white-space: nowrap; padding-left: 10px">
 <div class="mediumBodyText2 footerText" style="white-space: nowrap">
-<!-- <a href="/download-player/">Download the Jaman Player</a>
-<span class="footerBar">|</span> -->
+ 
 <a href="/wwwpages/submit.html">For Filmmakers</a>
 <span class="footerBar">|</span>
 <a href="/faq/">Help &amp; FAQ</a>
@@ -230,9 +189,7 @@ VN_CSS = "1";
 <span class="footerBar">|</span>
 <a href="/sitemap/">Site Map</a>
 </div>
-
 <p>
-
 </p><div class="mediumBodyText2 footerText" style="white-space: nowrap">
 <a href="/contact-us/">Contact Us</a>
 <span class="footerBar">|</span>
@@ -246,11 +203,9 @@ VN_CSS = "1";
 <span class="footerBar">|</span>
 <a href="/news/">Press</a>
 </div>
-
 <p>
-
 </p><div class="mediumBodyText2 footerText">
-Copyright © 2012 jaman.com, Inc.  All rights reserved.
+Copyright © 2013 jaman.com, Inc. All rights reserved.
 <span class="footerBar">|</span>
 <a href="/community-guidelines/">Community Guidelines</a>
 <span class="footerBar">|</span>
@@ -258,84 +213,69 @@ Copyright © 2012 jaman.com, Inc.  All rights reserved.
 <span class="footerBar">|</span>
 <a href="http://www.jaman.com/privacy-policy/" target="_blank">Privacy Policy</a>
 </div>
-
 <br>
 <div class="hr" style="margin: 6px 0px; border-style: dotted;"></div>
 <div class="mediumBodyText2 footerText" style="padding-right:12px">Popular Features on Jaman:</div>
 <table border="0" class="popularFeatures">
 <tbody><tr style="padding-right:12px">
-
 <td class="mediumBodyText2 footerText" style="padding-right:20px" valign="top">
-  <a href="/community/?theAction=recentactivities">Recent Activity on Jaman</a><br>
-  <a href="/movies/most-watched/">Most Downloaded Movies</a><br>
-  <a href="/movies/top-rated/">Top Rated Movies</a><br>
-  <a href="/browse/?tags=newfree">Free Movies</a><br>
-  <a href="/movies/togo/">Movies to Go</a><br>
- </td>
-  
-<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
-  <a href="/movies/most-discussed/">Most Discussed Movies</a><br>
-  <a href="/movies/Hollywood/">Hollywood Blockbusters</a><br>
-  <a href="/movies/trailer-theater/">Movie Trailers</a><br>
-  <a href="/movies/American-Independent/">U.S. Indie Movies</a><br>
-  <a href="/movies/Documentary/">Documentaries</a><br>
-  <a href="/search-movies/Suspense-Thrillers/">Suspense Thrillers</a><br>
-  </td>
-
-<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px"> 
-  <a href="/movies/Award-Winners/">Award Winning Films</a><br>
-  <a href="/movies/Kung-Fu/">Kung Fu Movies</a><br>
-  <a href="/country/Denmark/">Danish Movies</a><br>
-  <a href="/country/China/">Chinese Movies</a><br>
-  <a href="/country/Japan/">Japanese Movies</a><br>
-  </td>
-
-<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
-  <a href="/country/Hong-Kong/">Hong Kong Movies</a><br>
-  <a href="/country/Germany/">German Movies</a><br>  
-  <a href="/country/Italy/">Italian Movies</a><br>
-  <a href="/country/France/">French Movies</a><br>
-  <a href="/country/United-Kingdom/">British Movies</a><br>
-  <a href="/country/Brazil/">Brazilian Movies</a><br>
+<a href="/community/?theAction=recentactivities">Recent Activity on Jaman</a><br>
+<a href="/movies/most-watched/">Most Downloaded Movies</a><br>
+<a href="/movies/top-rated/">Top Rated Movies</a><br>
+<a href="/browse/?tags=newfree">Free Movies</a><br>
+<a href="/movies/togo/">Movies to Go</a><br>
 </td>
-  
 <td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
-  <a href="/country/India/">Indian Movies</a><br>
-  <a href="/country/United-States/">American Movies</a><br>  
-  <a href="/country/Mexico/">Mexican Movies</a><br>
-  <a href="/country/Australia/">Australian Movies</a><br>
-  <a href="/country/Argentina/">Argentinian Movies</a><br> 
- 
-  </td>
-  
-<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px"> 
-  <a href="/search-movies/sundance/">Sundance Film Festival</a><br>
-  <a href="/festival/cannes/">Cannes Film Festival</a><br>
-  <a href="/search-movies/venice-film-festival/">Venice Film Festival</a><br> 
-  <a href="/search-movies/Jackie-Chan/">Jackie Chan Movies</a><br>
+<a href="/movies/most-discussed/">Most Discussed Movies</a><br>
+<a href="/movies/Hollywood/">Hollywood Blockbusters</a><br>
+<a href="/movies/trailer-theater/">Movie Trailers</a><br>
+<a href="/movies/American-Independent/">U.S. Indie Movies</a><br>
+<a href="/movies/Documentary/">Documentaries</a><br>
+<a href="/search-movies/Suspense-Thrillers/">Suspense Thrillers</a><br>
 </td>
-  
 <td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
-  </td></tr>
-  </tbody></table>
-
+<a href="/movies/Award-Winners/">Award Winning Films</a><br>
+<a href="/movies/Kung-Fu/">Kung Fu Movies</a><br>
+<a href="/country/Denmark/">Danish Movies</a><br>
+<a href="/country/China/">Chinese Movies</a><br>
+<a href="/country/Japan/">Japanese Movies</a><br>
+</td>
+<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
+<a href="/country/Hong-Kong/">Hong Kong Movies</a><br>
+<a href="/country/Germany/">German Movies</a><br>
+<a href="/country/Italy/">Italian Movies</a><br>
+<a href="/country/France/">French Movies</a><br>
+<a href="/country/United-Kingdom/">British Movies</a><br>
+<a href="/country/Brazil/">Brazilian Movies</a><br>
+</td>
+<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
+<a href="/country/India/">Indian Movies</a><br>
+<a href="/country/United-States/">American Movies</a><br>
+<a href="/country/Mexico/">Mexican Movies</a><br>
+<a href="/country/Australia/">Australian Movies</a><br>
+<a href="/country/Argentina/">Argentinian Movies</a><br>
+</td>
+<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
+<a href="/search-movies/sundance/">Sundance Film Festival</a><br>
+<a href="/festival/cannes/">Cannes Film Festival</a><br>
+<a href="/search-movies/venice-film-festival/">Venice Film Festival</a><br>
+<a href="/search-movies/Jackie-Chan/">Jackie Chan Movies</a><br>
+</td>
+<td class="mediumBodyText2 footerText" valign="top" style="padding-right:20px">
+</td></tr>
+</tbody></table>
 <p>
 </p><div class="mediumBodyText2 footerText" style="white-space: normal; width: 966px;">
-Enjoy films from around the world with Jaman. We're your home for online cinema with thousands of movies to download, own, or watch free instantly online. Explore a wide range of films, preview blockbuster movie trailers, share movie reviews, and find other film fans from around the globe.  With fast and easy movie downloads and streaming, you can watch Bollywood, anime, animation, documentaries, indie films and more within minutes!  Join today and and get a free movie rental!
+Enjoy films from around the world with Jaman. We're your home for online cinema with thousands of movies to download, own, or watch free instantly online. Explore a wide range of films, preview blockbuster movie trailers, share movie reviews, and find other film fans from around the globe. With fast and easy movie downloads and streaming, you can watch Bollywood, anime, animation, documentaries, indie films and more within minutes! Join today and and get a free movie rental!
 </div><p></p>
-
 <br>
 <div class="mediumBodyText2 footerText">Having issues? <a href="/feedback/">Contact Customer Service</a></div>
 <br>
-
 <div class="mediumBodyText2 poweredBy">
 <a href="http://www.jaman.net/"><img src="/v1/images/misc/powered_jaman_networks.png" alt="Powered by Jaman Networks"></a>
 </div>
-
 </div>
-
-<!-- 1 -->
-
+ 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -346,7 +286,7 @@ var pageTracker = _gat._getTracker("UA-962280-1");
 pageTracker._trackPageview();
 } catch (err) {}
 </script>
-    </div>  
+</div>
 </div> <div id="popupsDiv"></div>
 <script src="/v1/javascript/jaman/jsPackage2.js" type="text/javascript"></script>
 <script>
