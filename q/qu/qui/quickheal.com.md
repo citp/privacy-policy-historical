@@ -1,18 +1,9 @@
-> *The following text is extracted and transformed from the quickheal.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919202224id_/http%3A//www.quickheal.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204701id_/http%3A//www.quickheal.com/privacy-policy) for the most accurate reproduction.*
 
-# Quick Heal
+# Privacy Policy
 
-| › | [About Us ](https://web.archive.org/web/20120919202224id_/http%3A//www.quickheal.com/about.asp)  
----|---  
-|   
-› | [Contact](https://web.archive.org/web/20120919202224id_/http%3A//www.quickheal.com/contact.asp)  
-|   
-› | [Sitemap ](https://web.archive.org/web/20120919202224id_/http%3A//www.quickheal.com/sitemap.asp)  
-|   
-  |    
-  | 
+Privacy Policy
 
-  
 The following statement discloses Quick Heal Technologies (P) Ltd.’s privacy policies for its web site. We do update our policy periodically without notice so please check occasionally for any changes.
 
 What information we gather
@@ -34,7 +25,7 @@ We use personal information in the following ways:
 
   * To assist us in creating better products and services to meet your needs.
   * To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select.
-  * To provide better/adequate/fast support over Telephone/E-mail/Fax etc,
+  * To provide better/adequate/fast support over Telephone/E-mail/Fax etc.
 
 
 
@@ -58,30 +49,21 @@ Contact information
 
 If you have any questions or comments, please contact us:
 
-| 
-
 International Support Centre
 
-|   |    
+**Company** | **:** | Quick Heal Technologies (P) Ltd.  
 ---|---|---  
- | Company   
-| :  |  Quick Heal Technologies (P) Ltd.  
+**Address** | **:** | 
+
+Office No. 101, Shree Sai Narayan Apartment,
+
+Ganjave Chowk, Navi Peth,
+
+Opposite Patrakar Bhavan, LBS Road  
   
- | Address  
-| :  |  Office No. 101, Shree Sai Narayan Apartment,  
- |  |  |  Ganjave Chowk, Navi Peth,  
- |  |  |  Opposite Patrakar Bhavan, LBS Road  
- |  City  
-| :  |  Pune  
- |  Pincode  
-| :  |  411030  
- |  State  
-| :  |  Maharashtra  
- |  Country  
-| :  |  India  
- |  Email  
-| :  |  [ support@quickheal.com](mailto:support@quickheal.com)  
- |  Website  
-| :  |  [ http://www.quickheal.com](http://www.quickheal.com/)  
-  
- 
+**City** | **:** | Pune  
+**Pincode** | **:** | 411030  
+**State** | **:** | Maharashtra  
+**Country** | **:** | India  
+**Email** | **:** | [support@quickheal.com](mailto:support@quickheal.com)  
+**Website** | **:** | [http://www.quickheal.com](http://www.quickheal.com/) 
