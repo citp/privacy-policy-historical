@@ -1,54 +1,84 @@
-> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608092031id_/https%3A//www.capitaliq.com/home/privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212720id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
 
-# Capital IQ - Privacy Notice
+# Privacy Notice for S&P Capital IQ and S&P Indices
 
-Privacy Notice
+| 
 
-**WHAT PERSONALLY IDENTIFIABLE INFORMATION ("PII") DOES CAPITAL IQ COLLECT ABOUT YOU?**  
-Contact information that you provide to us including: your name, title and organization, address, telephone number, fax number, and e-mail address.
+**  
+WHAT PERSONALLY IDENTIFIABLE INFORMATION (“PII”) DOES S &P CAPITAL IQ ("SPCIQ" AND S&P DOW JONES INDICES ("SPDJI") COLLECT ABOUT YOU? **
 
-We also track your use of our Web site at [www.capitaliq.com](http://www.capitaliq.com/) through the use of cookies and other tracking mechanisms. A cookie is a text-only string of information that a Web site transfers to the cookie file of the browser on your computer's hard disk so that the Web site can remember you and your preferences. "Session" cookies are erased from memory when your browser closes. "Persistent" cookies help identify you and your preferences upon your return to the Web site.
+Contact information that you provide to us such as: your name, title and organization, address, telephone number, fax number, and e-mail address.
 
-You must change your browser's preferences to disable or delete cookies.
+**WHY DOES SPCIQ AND S PDJI COLLECT PII?**
 
-Note that disabling cookies for some services may affect the ability to use that service.  Security information is specific to each browser and operating system.  Please check with your browser's specific company for more information.   For example, to change your browser's preference in Internet Explorer, go to Tools > Internet Options > Privacy.  The setting has to be set to Block All Cookies. In Firefox (versions 2 and higher), this option is listed under _Tools > Options > Privacy_. Check the "Accept Cookies from Sites" checkbox in the Cookie Section. You may opt out of a third party vendor's use of cookies by visiting the Network Advertising initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+To process your transactions, maintain your account, ensure your adherence to our [Terms of Use](http://www.standardandpoors.com/terms-of-use/en/us/), and respond to your inquiries.
 
-Third party vendors show capitaliq.com advertisements on sites on the Internet. Third party vendors use cookies to serve ads based on your prior visits to capitaliq.com. You can opt out of such use of cookies by visiting the third party vendors' sites or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+To provide you with information about services and products that we believe may be of interest to you offered by SPCIQ and SPDJI and other parts of our parent company, McGraw Hill Financial ("MHF").  
+  
 
-**WHY DOES CAPITAL IQ COLLECT THIS INFORMATION?**  
-To process your registration, maintain your account and respond to your inquiries.
 
-To provide you with information about services and products that we believe may be of interest to you offered by Capital IQ and other parts of our parent company, The McGraw-Hill Companies, Inc.
+**HOW DOES SPCIQ AND S PDJI SHARE YOUR PII?**
 
-**HOW DOES CAPITAL IQ SHARE YOUR PII?  
-** With our vendors to perform services on our behalf.
+  * With our vendors to perform services on our behalf; 
+  * With Standard & Poor’s Ratings Services;
+  * With other parts of McGraw Hill Financial whose services and products might be of interest to you;
+  * With CUSIP Global Services (which is managed on behalf of the American Bankers Association by SPCIQ);
+  * Potentially in conjunction with a sale or similar transfer of a business; and
+  * When legally compelled or for other legal purposes.
 
-In conjunction with a sale or similar transfer of a business.
 
-When legally compelled or for other legal purposes.
 
-With other parts of McGraw-Hill whose services and products might be of interest to you.
+**IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**
 
-**IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:  
-** Write to us at: [privacy@capitaliq.com](mailto:privacy@capitaliq.com) or to Privacy Official, Capital IQ, 55 Water Street, 49th Floor, New York, NY 10041 with the following instructions:
+Indicate your preferences as noted below or write to us at [privacy.spcapitaliq.spindices@standardandpoors.com](mailto:privacy.spcapitaliq.spindices@standardandpoors.com) or Privacy Official, S&P Capital IQ and S&P Dow Jones Indices, 55 Water Street, NY, NY 10041 with the following instructions:
 
-I do not want to be contacted by Capital IQ via these methods for marketing purposes:
+I do not want to be contacted by SPCIQ and SPDJI via these methods for marketing purposes:
 
-Mail            ______  
-Telephone   ______  
-Fax            ______  
-E-mail        ______
+_*_ Required information
 
-______I do not want to be contacted by Capital IQ through any method for marketing purposes.
-
-______I do not want to be contacted by other parts of McGraw-Hill through any method for marketing purposes.
-
-______I do not want my information shared with companies outside of McGraw-Hill.
+**SECURITY AND ACCURACY  
+**
 
 We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
 
-To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [privacy@capitaliq.com](mailto:privacy@capitaliq.com) or Privacy Official, Capital IQ, 55 Water Street, 49th Floor, New York, NY 10041 **.**
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to [privacy.spcapitaliq.spindices@standardandpoors.com](mailto:privacy.spcapitaliq.spindices@standardandpoors.com) or Privacy Official, SPCIQ and SPDJI, 55 Water Street, NY, NY 10041.
 
-[Click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw-Hill Companies Customer Privacy Policy.
+**COOKIE USAGE**
 
-Last updated: January 10, 2011. Future revisions to this Privacy Notice will be posted at this location.
+**Please note that by using this site, you consent to the use of the cookies described below.**
+
+S&P Capital IQ and S&P Dow Jones Indices or our third-party service providers may use cookies (or other anonymous tracking technologies that do not collect personally identifiable information) when you visit our web site. A “cookie” is a small text file placed on your computer or device, which helps our web site function better.  We may use the following types of cookies on this web site:
+
+“Strictly necessary” cookies, which have to be set to allow us to deliver the site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include: 
+
+  * account log-in
+
+  * shopping basket/online store
+
+  * billing
+
+  * comments/blog features
+
+
+
+
+  
+“Performance” or “Analytics” cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements.  Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally.
+
+“Functionality” cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other web sites.   
+
+You can change your web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
+
+ [Internet Explorer](http://support.microsoft.com/kb/196955)  
+[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)  
+[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
+[Safari](http://support.apple.com/kb/PH5042)  
+[Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+
+If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer’s instructions on how to manage cookies.
+
+[Click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw Hill Financial's Customer Privacy Policy.
+
+Last updated: May 2013. Future revisions to this Privacy and Cookie Notice will be posted at this location.
+
+| 
