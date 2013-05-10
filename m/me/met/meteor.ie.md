@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101085822id_/http%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510184311id_/http%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
@@ -74,6 +74,8 @@ Invoices & Statements | 6 years plus current year for invoices and statements.
 The call detail element of your standard bill will be severed and deleted after 6 months, as described above.   
   
 ## Cookies
+
+For full details of our Cookie Policy, please refer to: <http://www.meteor.ie/Cookies-Policy>
 
 A cookie is a small unique text file that is saved on your hard desk by a web site. The cookie is used by the website to identify your computer whenever you visit that web site. We may use cookies to map usage patterns to enhance our service to you.
 
