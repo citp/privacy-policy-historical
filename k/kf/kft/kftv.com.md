@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002233627id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510121813id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilmington Group plc
 
@@ -14,7 +14,7 @@
 
 ### What does this policy cover?
 
-This policy covers the processing of personal data by Wilmington Group plc and its associated companies ("Wilmington Group") whose registered office is at 19 - 21 Christopher Street, London EC2A 2BS. Wilmington Group can be contacted at [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk).
+This policy covers the processing of personal data by Wilmington Group plc and its associated companies ("Wilmington Group") whose registered office is at 6-14 Underwood Street, London N1 7JQ. Wilmington Group can be contacted at [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk).
 
 This policy will help you understand how Wilmington Group (or its successors in title) will treat your personal information. This policy may change from time to time so please check back regularly.
 
