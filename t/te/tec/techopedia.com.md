@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622084519id_/http%3A//www.techopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510105024id_/http%3A//www.techopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Techopedia.com
 
@@ -30,13 +30,13 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 ## Use of Personal Information with Marketing Partners and Co-Registration
 
-In instances where Techopedia.com and a marketing partner are offering a special value (i.e., a free offering) to our users, we may share your personal information with such partners By signing up to receive items through these promotions, you are expressly consenting to Techopedia.com sharing your personal information (“co-registration”) with such partners and you will become subject to their privacy policies, which may vary from those of Techopedia.com. In the event that you would like to opt-out of receiving offers from these partners, you must do so directly with them. If you have any problems contacting one of our partners, [contact us](https://web.archive.org/about/Contact.aspx) and we will help you resolve the situation. 
+In instances where Techopedia.com and a marketing partner are offering a special value (i.e., a free offering) to our users, we may share your personal information with such partners By signing up to receive items through these promotions, you are expressly consenting to Techopedia.com sharing your personal information (“co-registration”) with such partners and you will become subject to their privacy policies, which may vary from those of Techopedia.com. In the event that you would like to opt-out of receiving offers from these partners, you must do so directly with them. If you have any problems contacting one of our partners, [contact us](https://web.archive.org/about/contact.aspx) and we will help you resolve the situation. 
 
-In addition, you are expressly consenting to Techopedia.com that the use of certain personally identifiable User data may be processed and shared between applicable third party social network and/or identity providers. User accounts with such third party Providers shall be subject to such third party Providers’ then-current terms of use and privacy policies (“Third Party Policies”) and ForexDictionary.com shall not be responsible for any violation of their Policies.  You are allowing Techopedia.com to user and store certain of this user data for its own business purposes.
+In addition, you are expressly consenting to Techopedia.com that the use of certain personally identifiable User data may be processed and shared between applicable third party social network and/or identity providers. User accounts with such third party Providers shall be subject to such third party Providers' then-current terms of use and privacy policies ("Third Party Policies") and Techopedia.com shall not be responsible for any violation of their Policies.  You are allowing Techopedia.com to user and store certain of this user data for its own business purposes.
 
 ## Newsletters and Alerts
 
-If you wish to subscribe to our newsletter(s) or alert system, we will use your name and email address to send the newsletter or alert to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by [ contacting us](https://web.archive.org/about/Contact.aspx). We also offer an opportunity to opt-out of certain communications on your Edit Profile page. 
+If you wish to subscribe to our newsletter(s) or alert system, we will use your name and email address to send the newsletter or alert to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by [ contacting us](https://web.archive.org/about/contact.aspx). We also offer an opportunity to opt-out of certain communications on your Edit Profile page. 
 
 ## Use of Personal Information Posted on Forums
 
@@ -92,10 +92,10 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Comments
 
-If you have questions or suggestions, please complete the form on our [Contact Us](https://web.archive.org/about/Contact.aspx) page or write us at: 
+If you have questions or suggestions, please complete the form on our [Contact Us](https://web.archive.org/about/contact.aspx) page or write us at: 
 
 Janalta Interactive Inc. o/a Techopedia.com  
-Suite 104, 4207 – 98 Street NW  
+Suite 104, 4207 - 98 Street NW  
 Edmonton, Alberta Canada T6E 5R7  
-Last updated January 12, 2011  
+Last updated Saturday, May 04, 2013  
 
