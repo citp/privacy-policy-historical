@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flybuys.com.au privacy policy that was archived on 2012-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120908024921id_/https%3A//www.flybuys.com.au/flybuys/content/about/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flybuys.com.au privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510134922id_/https%3A//www.flybuys.com.au/flybuys/content/about/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,17 +13,16 @@
 <meta http-equiv="Expires" content="-1">
 
 <!-- favicon -->
-<link rel="icon" href="/export/sites/default/flybuys/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/export/sites/default/flybuys/favicon.ico?v=20120423" type="image/x-icon">
+<link rel="icon" href="https://register.flybuys.com.au/cdn/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://register.flybuys.com.au/cdn/favicon.ico?v=20120423" type="image/x-icon">
 
 <!-- common style sheet, implemented in just about every page -->
-<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/style.css">
+<link rel="stylesheet" type="text/css" href="/export/sites/default/flybuys/include/style.css">
 
 <!-- there could be stuff in head-includes that expect jquery. in a perfect world we would have a body include and all js calls would go there!!! --> 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
 <!-- POP LOAD FIRST - END -->
-
 
 
 
@@ -67,15 +66,15 @@ $(document).ready(
 <!-- POP LOAD LAST - START -->
 
 <!--[if IE 9]>
-        <link href="/opencms/opencms/flybuys/include/new_ie9.css" rel="stylesheet" type="text/css" />
+        <link href="/export/sites/default/flybuys/include/new_ie9.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 <!--[if IE 8]>
-	<link href="/opencms/opencms/flybuys/include/new_ie8.css" rel="stylesheet" type="text/css" />
+	<link href="/export/sites/default/flybuys/include/new_ie8.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 <!--[if lte IE 7]>
-	<link href="/opencms/opencms/flybuys/include/new_ie.css" rel="stylesheet" type="text/css" />
+	<link href="/export/sites/default/flybuys/include/new_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 <!-- POP LOAD LAST - END -->
@@ -112,33 +111,50 @@ $(document).ready(
 
 
 
-
-
-
 <a name="top"></a>
 
-<div id="nav_blue">
-	<div id="nav_blue_container">
-		<div class="nav_links_left"><a href="/flybuys/content/" style="color:#ffffff">Home</a> &nbsp; | &nbsp; <a href="/flybuys/content/about/whatisflybuys.html" style="color:#ffffff">About</a> &nbsp; | &nbsp; <a href="/flybuys/content/about/contactus.html" style="color:#ffffff">FAQs</a></div>
-		<div class="nav_links_right">
-		
-		 	
-			
 
-				
-				 	
-						Need to register or activate in the new flybuys? Click <a href="https://register.flybuys.com.au/" style="color:#ffffff">here</a>.
-				 	
-				 	
-				
-			
-		
-		</div>		
-		<div class="clear" style="clear:both"></div>
-	</div>
-</div>
+	
+	
+		<div id="nav_blue" class="logged_not">
+			<div id="nav_blue_container">
+				<div class="nav_links_left">
+					<a href="/flybuys/content/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/flybuys/content/about/whatisflybuys.html">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/flybuys/content/about/contactus.html">FAQs</a>
+				</div>
+				<div class="nav_links_center">
+					&nbsp;
+				</div>
+				<div class="nav_links_right">
+					<a href="/flybuys/content/register/card_number">Register for flybuys</a> or <a href="/flybuys/content/register/card_number">activate your membership.</a>
+				</div>
+				<div class="clear" style="clear:both"></div>
+			</div>
+		</div>    
 	
 
+
+<script>
+	var toolbarArray = new Array();
+	function ToolBarInit(toolbar) {
+		var inArray = false;
+		for (i=0;i<toolbarArray.length;i++){
+		  if (toolbar.UserID == toolbarArray[i].UserID) {
+		   inArray = true;
+		  }
+		}
+		if (!inArray) {
+		  toolbarArray.push(toolbar);
+		  if (toolbar.toolid==101036 || toolbar.toolid==100967) {
+		    var newUserName = "";
+		    if (newUserName && toolbar.sessionUser!=newUserName)
+		    {
+			    toolbar.Options.Authenticated(newUserName, "1", "1", true);
+			    toolbar.Reload();
+		    }
+		  }
+		}
+	}
+</script>
 			
     <!-- start container div -->
 	<div id="container" style="clear: both;">
@@ -259,7 +275,7 @@ $(document).ready(
 						
 							
 							<option value="5">
-								Dining and Wine
+								Dining
 							</option>
 							
 						
@@ -283,7 +299,7 @@ $(document).ready(
 						
 							
 							<option value="9">
-								Gift Cards/Credit for Points
+								Money off with your points &amp; Gift Cards
 							</option>
 							
 						
@@ -354,6 +370,18 @@ $(document).ready(
 							
 						
 							
+							<option value="21">
+								Liquor
+							</option>
+							
+						
+							
+							<option value="22">
+								Curtis Stone's Kitchen Solutions
+							</option>
+							
+						
+							
 						
 					</select>
 					<br>
@@ -403,7 +431,7 @@ $(document).ready(
 
 
 
-
+<!-- This is new prod! -->
 		
 		
 
@@ -445,7 +473,6 @@ $(document).ready(
 
 
 
-
 	<div id="firstpane" class="menu_list">
 
 	
@@ -460,9 +487,15 @@ $(document).ready(
 	    
 	    
 		
-		<p class="menu_head dynamicNav " id="What_is_flybuys" onclick="updateNavMenu('What_is_flybuys');">
-			<a class="menu_head_link" href="/flybuys/content/about/whatisflybuys.html">What is flybuys</a>
-		</p>
+		
+			
+			
+				<p class="menu_head dynamicNav " id="What_is_flybuys" onclick="updateNavMenu('What_is_flybuys');">
+					<a class="menu_head_link" href="/flybuys/content/about/whatisflybuys.html">What is flybuys</a>
+				</p>
+			
+		
+		
 		
 		<!--
 		<div class="menu_body">
@@ -486,9 +519,15 @@ $(document).ready(
 	    
 	    
 		
-		<p class="menu_head dynamicNav " id="flybuys_Terms_&amp;_Conditions" onclick="updateNavMenu('flybuys_Terms_&amp;_Conditions');">
-			<a class="menu_head_link" href="/flybuys/content/about/flybuys-terms_and_conditions.html">flybuys Terms &amp; Conditions</a>
-		</p>
+		
+			
+			
+				<p class="menu_head dynamicNav " id="flybuys_Terms_&amp;_Conditions" onclick="updateNavMenu('flybuys_Terms_&amp;_Conditions');">
+					<a class="menu_head_link" href="/flybuys/content/about/flybuys-terms_and_conditions.html">flybuys Terms &amp; Conditions</a>
+				</p>
+			
+		
+		
 		
 		<!--
 		<div class="menu_body">
@@ -512,9 +551,15 @@ $(document).ready(
 	    
 	    
 		
-		<p class="menu_head dynamicNav " id="flybuys_Privacy_Statement" onclick="updateNavMenu('flybuys_Privacy_Statement');">
-			<a class="menu_head_link" href="/flybuys/content/about/privacy.html">flybuys Privacy Statement</a>
-		</p>
+		
+			
+			
+				<p class="menu_head dynamicNav " id="flybuys_Privacy_Statement" onclick="updateNavMenu('flybuys_Privacy_Statement');">
+					<a class="menu_head_link" href="/flybuys/content/about/privacy.html">flybuys Privacy Statement</a>
+				</p>
+			
+		
+		
 		
 		<!--
 		<div class="menu_body">
@@ -540,9 +585,15 @@ $(document).ready(
 	    
 	    
 		
-		<p class="menu_head dynamicNav current" id="flybuys_Privacy_Policy" onclick="updateNavMenu('flybuys_Privacy_Policy');">
-			<a class="menu_head_link" href="/flybuys/content/about/policy.html">flybuys Privacy Policy</a>
-		</p>
+		
+			
+			
+				<p class="menu_head dynamicNav current" id="flybuys_Privacy_Policy" onclick="updateNavMenu('flybuys_Privacy_Policy');">
+					<a class="menu_head_link" href="/flybuys/content/about/policy.html">flybuys Privacy Policy</a>
+				</p>
+			
+		
+		
 		
 		<!--
 		<div class="menu_body">
@@ -566,9 +617,15 @@ $(document).ready(
 	    
 	    
 		
-		<p class="menu_head dynamicNav " id="Contact_Us" onclick="updateNavMenu('Contact_Us');">
-			<a class="menu_head_link" href="/flybuys/content/about/contactus.html">Contact Us</a>
-		</p>
+		
+			
+			
+				<p class="menu_head dynamicNav " id="Contact_Us" onclick="updateNavMenu('Contact_Us');">
+					<a class="menu_head_link" href="/flybuys/content/about/contactus.html">Contact Us</a>
+				</p>
+			
+		
+		
 		
 		<!--
 		<div class="menu_body">
@@ -592,9 +649,15 @@ $(document).ready(
 	    
 	    
 		
-		<p class="menu_head dynamicNav " id="FAQs" onclick="updateNavMenu('FAQs');">
-			<a class="menu_head_link" href="/flybuys/content/about/flybuys-faq.html">FAQs</a>
-		</p>
+		
+			
+			
+				<p class="menu_head dynamicNav " id="FAQs" onclick="updateNavMenu('FAQs');">
+					<a class="menu_head_link" href="/flybuys/content/about/flybuys-faq.html">FAQs</a>
+				</p>
+			
+		
+		
 		
 		<!--
 		<div class="menu_body">
@@ -739,7 +802,6 @@ Loyalty Pacific Pty Ltd (‘flybuys’)</p>
 
 <div class="footer_links_left">
 <h2 style="font-size:18px;color:#0099cc;line-height:18px;">Benefits</h2><br>
-<a href="/flybuys/content/benefits/my5atcoles.html" style="color:#204a9d">my5 at Coles</a><br>
 <a href="/flybuys/content/benefits/morebenefits.html" style="color:#204a9d">Make the most of flybuys</a><br>
 <a href="/flybuys/content/benefits/howtoearn.html" style="color:#204a9d">How to earn flybuys points</a><br>
 <a href="/flybuys/content/benefits/extrapointsatcoles.html" style="color:#204a9d">EXTRA POINTS at Coles</a><br>
@@ -761,13 +823,13 @@ Loyalty Pacific Pty Ltd (‘flybuys’)</p>
 <a href="/flybuys/content/partners/partners/coles_express.html" style="color:#204a9d">Coles Express</a><br>
 <a href="/flybuys/content/partners/partners/coles_insurance.html" style="color:#204a9d">Coles Insurance</a><br>
 <a href="/flybuys/content/partners/partners/coles_mastercard.html" style="color:#204a9d">Coles MasterCard</a><br>
+<a href="/flybuys/content/partners/partners/flybuys_boxoffice.html" style="color:#204a9d">flybuys Box Office</a><br>
 </div>
 
 <!-- Partners column 2 -->
 
 <div class="footer_links_left">
 <h2 style="font-size:18px;color:#0099cc;line-height:18px;">&nbsp;</h2><br>
-<a href="/flybuys/content/partners/partners/flybuys_boxoffice.html" style="color:#204a9d">flybuys Box Office</a><br>
 <a href="/flybuys/content/partners/partners/jetset.html" style="color:#204a9d">Jetset Travel</a><br>
 <a href="/flybuys/content/partners/partners/kmart.html" style="color:#204a9d">Kmart</a><br>
 <a href="/flybuys/content/partners/partners/kmart_tyre_auto.html" style="color:#204a9d">Kmart Tyre &amp; Auto Service</a><br>
@@ -777,6 +839,7 @@ Loyalty Pacific Pty Ltd (‘flybuys’)</p>
 <a href="/flybuys/content/partners/partners/telstra.html" style="color:#204a9d">Telstra</a><br>
 <a href="/flybuys/content/partners/partners/travelworld.html" style="color:#204a9d">Travelworld</a><br>
 <a href="/flybuys/content/partners/partners/webjet.html" style="color:#204a9d">Webjet</a><br>
+<a href="/flybuys/content/partners/partners/yahoo7.html" style="color:#204a9d">Yahoo!7</a><br>
 </div>
 
 <!-- Rewards -->
@@ -784,19 +847,23 @@ Loyalty Pacific Pty Ltd (‘flybuys’)</p>
 <div class="footer_links_left">
 <h2 style="font-size:18px;color:#0099cc;line-height:18px;">Rewards</h2><br>
 <a href="/flybuys/content/awards/" style="color:#204a9d">flybuys Rewards</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=22&amp;subCat=84" style="color:#204a9d">Curtis Stone's Kitchen Solutions</a><br>
 <a href="/flybuys/content/awards/search_results?categoryId=17&amp;subCat=76" style="color:#204a9d">flybuys Dollars</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=0" style="color:#204a9d">Audio visual</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=1" style="color:#204a9d">For the home</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=2" style="color:#204a9d">Just for kids</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=9" style="color:#204a9d">Gift cards</a><br>
-<a href="/flybuys/content/awards/travelLanding.html" style="color:#204a9d">Travel &amp; accommodation</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=0" style="color:#204a9d">Audio Visual</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=1" style="color:#204a9d">For the Home</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=2" style="color:#204a9d">Just for Kids</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=9" style="color:#204a9d">Gift Cards</a><br>
+<a href="/flybuys/content/awards/travelLanding.html" style="color:#204a9d">Travel and Accommodation</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=20" style="color:#204a9d">Apparel</a><br>
 <a href="/flybuys/content/awards/search_results?categoryId=3" style="color:#204a9d">Entertainment</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=4" style="color:#204a9d">Sports &amp; leisure</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=4" style="color:#204a9d">Sports and Leisure</a><br>
 <a href="/flybuys/content/awards/search_results?categoryId=18&amp;subCat=77" style="color:#204a9d">Fuel</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=5" style="color:#204a9d">Dining &amp; wine</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=6" style="color:#204a9d">Treats &amp; gifts</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=7" style="color:#204a9d">Personal items</a><br>
-<a href="/flybuys/content/awards/search_results?categoryId=8" style="color:#204a9d">Luxury items</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=5" style="color:#204a9d">Dining</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=21" style="color:#204a9d">Liquor</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=6" style="color:#204a9d">Treats and Gifts</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=7" style="color:#204a9d">Personal Items</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=8" style="color:#204a9d">Luxury Items</a><br>
+<a href="/flybuys/content/awards/search_results?categoryId=14&amp;subCat=63" style="color:#204a9d">Community Involvement</a><br>
 <a href="/flybuys/content/Specials/" style="color:#204a9d">Reward Specials</a><br>
 <a href="/flybuys/content/awards/sub/flights_and_holidays" style="color:#204a9d">Flights</a><br>
 </div>
@@ -806,10 +873,10 @@ Loyalty Pacific Pty Ltd (‘flybuys’)</p>
 <div class="footer_links_right">
 <h2 style="font-size:18px;color:#0099cc;line-height:18px;">About</h2><br>
 <a href="/flybuys/content/about/whatisflybuys.html" style="color:#204a9d">What is flybuys?</a><br>
-<a href="/flybuys/content/about/flybuys-terms_and_conditions.html" style="color:#204a9d">Terms &amp; Conditions</a><br>
+<a href="/flybuys/content/about/flybuys-terms_and_conditions.html" style="color:#204a9d">Terms and Conditions</a><br>
 <a href="/flybuys/content/about/privacy.html" style="color:#204a9d">Privacy Statement</a><br>
 <a href="/flybuys/content/about/policy.html" style="color:#204a9d">Privacy Policy</a><br>
-<a href="/flybuys/content/about/contactus.html" style="color:#204a9d">Contact us</a><br>
+<a href="/flybuys/content/about/contactus.html" style="color:#204a9d">Contact Us</a><br>
 <a href="/flybuys/content/about/flybuys-faq.html" style="color:#204a9d">FAQs</a><br>
 </div>
 
@@ -822,7 +889,7 @@ Loyalty Pacific Pty Ltd (‘flybuys’)</p>
 
 <div id="coles_logo_fill"></div>
 <div class="clear" style="clear:both"></div>
-<div id="copyright">Copyright © 2012 Loyalty Pacific Pty Ltd. All rights reserved.</div>
+<div id="copyright">Copyright © 2013 Loyalty Pacific Pty Ltd. All rights reserved.</div>
 
 <div class="flybuys_logo_footer"> </div>
 
@@ -843,6 +910,7 @@ Loyalty Pacific Pty Ltd (‘flybuys’)</p>
 
 
 
+
 <script type="text/javascript">
 var gaPageName = '/flybuys/content/about/policy.html'; 
 var gaPageParams = '';
@@ -850,6 +918,10 @@ var gaPageParamsIndex = window.location.href.indexOf("?");
 if ( gaPageParamsIndex > -1 ){
 	gaPageParams = window.location.href.substr(gaPageParamsIndex);
 }
+
+// Check for login actions - recorded in request context variable gaLoginAction
+
+
 </script> 
 
 		
@@ -950,6 +1022,22 @@ if ( gaPageParamsIndex > -1 ){
 	if (typeof gaRETCategory != 'undefined') {
 		pageTracker._trackEvent(gaRETCategory, gaRETAction, gaRETLabel, gaRETValue);
 	}
+
+	// login Event Tracking
+	if (typeof gaLoginActions != 'undefined') {
+		// Iterate through array of actions
+		for (var i = 0; i < gaLoginActions.length; i++) 
+		{
+			// Assume each action is of form category,action
+			var arr = gaLoginActions[i].split(",");
+			if (arr != null && arr.length == 2)
+			{
+				// alert('Login event tracking cat=' + arr[0] + ' action=' + arr[1]);
+				pageTracker._trackEvent(arr[0], arr[1]);
+			}
+		}
+	}
+
 
 	// Transaction Tracking
 	if (typeof transObject != 'undefined')
