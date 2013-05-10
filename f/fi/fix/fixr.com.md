@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017094128id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510063721id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fixr.com
 
@@ -145,8 +145,8 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact Us
 
-Mailing address:\ FIXR, Inc\ 2711 Centerville Rd #120\ Wilmington, DE 19808
+Mailing address:\ FIXR, Inc\ 2711 Centerville Rd #120\ Wilmington, DE 19808\
 
-If you would like to speak with a customer service representative\ please call us at **(866) 953-5377**
+If you would like to speak with a customer service representative please call us at **(866) 953-5377**
 
 Or by email at info@Fixr.com
