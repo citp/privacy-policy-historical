@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softsia.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006063628id_/http%3A//www.softsia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsia.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511004336id_/http%3A//www.softsia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
