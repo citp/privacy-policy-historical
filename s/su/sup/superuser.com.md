@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superuser.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915054148id_/http%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superuser.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510114855id_/http%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stack Exchange
 
@@ -94,8 +94,8 @@ We’re here if you need us.  |  If you have any questions about this policy or 
 Who writes letters? Like with stamps and stuff? Ugh.  |  Written Inquiries can be sent to: 
 
 Stack Exchange, Inc.  
-One Exchange Plaza, 26th Floor  
-New York, NY 10006  
+110 William St, 28th Floor  
+New York, NY 10038  
 USA   
   
 | 
