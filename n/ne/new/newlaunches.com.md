@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newlaunches.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224120550id_/http%3A//www.newlaunches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlaunches.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511002311id_/http%3A//www.newlaunches.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
-
-## [ Privacy Policy ](http://www.newlaunches.com/privacy-policy)
+# Privacy Policy
 
 User Information
 
