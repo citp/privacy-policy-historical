@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thisnext.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101101522id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thisnext.com privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510073524id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>Privacy Policy - ThisNext</title>
@@ -9,7 +9,7 @@
     
   
 	
-	<link rel="stylesheet" type="text/css" href="http://s8.thisnext.com/css/20121031120935/combined.css" media="screen, projection, print">
+	<link rel="stylesheet" type="text/css" href="http://s5.thisnext.com/css/20130503155308/combined.css" media="screen, projection, print">
 
 
   <link rel="stylesheet" type="text/css" href="http://s8.thisnext.com/css/20111102150940/company.css" media="screen, projection, print">
@@ -55,7 +55,7 @@
 	<script type="text/javascript" src="http://s3.thisnext.com/js/20110609123957/lib/jquery/jquery-ui-1.8.11.min.js"></script>
 	<script>jQuery.noConflict();</script>
 		
-	<script type="text/javascript" src="http://s7.thisnext.com/js/20121031120933/combined.js"></script>
+	<script type="text/javascript" src="http://s5.thisnext.com/js/20130503155307/combined.js"></script>
 	
 
 	<script type="text/javascript" src="http://cdn.extensions.buzznet.com/topscript.js.php?siteToken=TN"></script>
@@ -379,12 +379,8 @@
 
 
 
-
-
 <div id="content">
 
-
-	
 	<div id="fb-root"></div>
 <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 <script defer="defer">	
@@ -398,110 +394,10 @@
 			xfbml  : true,  // parse XFBML
 			oauth  : true,
 			channelUrl: channelUrl
-		});		
-		jQuery(document).ready(function(){
-			joinWithFacebook();
 		});
 	};
-	
-	
-	function joinWithFacebook(){
-		COOKIEEXPIRATION = 30; //NUMBER OF DAYS
-		COOKIENAME = 'joinWithFacebook';
-		
-		var showLightBox = null;
 
-		//DO NOT ATTEMPT TO SHOW THE LIGHTBOX IN OLD VERSIONS OF IE
-		if(jQuery.browser.msie && jQuery.browser.version < 9){
-			showLightBox = false;			
-		}else{
-			showLightBox = eval(jQuery.cookie(COOKIENAME));	
-			if(showLightBox == null) showLightBox = true;		
-		}
-		
-		if(showLightBox){
-			
-			var userObj = new User();
-			var user = userObj.getCurrentUser();
-			var authenticated = isAuthenticated();
-			
-			FB.getLoginStatus(function(response){
-							
-				if((response.status == 'connected' && !user.fb_user_id) || !authenticated){
-									
-					jQuery('#joinWithFacebook').remove();
-					
-					var html = '';
-					
-					html += '<div id="joinWithFacebook">';
-					html += 	'<h2>Connect with Facebook!</h2>';
-					html +=		'<p>';
-					
-					if(authenticated){
-						html +=	'We love Facebook as much as you do. And now it\'s easier than ever to link your ThisNext and Facebook accounts.';	
-					}else{
-						html +=	'We love Facebook as much as you do. And now it\'s easier than ever to join ThisNext using your Facebook account.';						
-					};
-					
-					html +=		'</p>';
-					html += 	'<ul>';
-					html += 		'<li>Log in instantly!</li>';
-					html += 		'<li>Share Shopping Guides with Facebook friends.</li>';
-					html += 		'<li>Find the perfect gift.</li>';
-					html += 		'<li>Shop socially!</li>';
-					html += 	'</ul>';
-					html +=		'<img alt="Connect With Facebook" src="http://s9.thisnext.com/img/20110907224818/facebook/fb-connect-btn.png" class="fbConnectBtn">';
-					html += '</div>';
-					
-					jQuery('body').append(html);
-					
-					var div = jQuery('#joinWithFacebook');
-					var joinBtn = div.find('.fbConnectBtn');
-					
-					div.tnLightBox({modal:true}).show();
-					
-					var closeBtn = div.siblings('.lightBoxCloseBtn').click(function(){
-						jQuery.cookie(COOKIENAME, 'false', { expires: COOKIEEXPIRATION, path: '/' });				
-					});
-					
-					joinBtn.click(function(){
-						div.tnLightBox({modal:true}).hide();	
-						
-						fbLogin(function(){
-							//success
-							location.href = location.href;
-						},function(){
-							//failure						
-						});
-					});
-				};			
-			});
-		
-		};
-	};
 </script>
-
-<style>
-	#joinWithFacebook{
-		width:300px;
-		height:220px;
-		background-color:#f2f2f2;		
-	}
-	
-	#joinWithFacebook h2{
-		font-size:20px;		
-	}
-	
-	#joinWithFacebook .fbConnectBtn{
-		margin:10px 0px 0px 32px;		
-		cursor:pointer;
-		width:225px;
-		height:38px;
-	}
-</style>
-
-
-
 
 
 	
@@ -889,7 +785,7 @@ disputes and application of California state law.
 
 		
 
-<link rel="stylesheet" type="text/css" href="http://s8.thisnext.com/css/20110907224818/footer.css" media="screen, projection, print">
+<link rel="stylesheet" type="text/css" href="http://s7.thisnext.com/css/20130124161113/footer.css" media="screen, projection, print">
 
 <div id="footer">
 
@@ -945,6 +841,7 @@ disputes and application of California state law.
 					<li><a target="_top" href="/community/editors/">ThisNext Editors</a></li>
 					<li><a target="_top" href="/giveaways/">Contests</a></li>
 					<li><a target="_top" href="/newsletter/">Newsletter</a></li>
+					<li><a target="_top" href="http://www.wordever.com/">Wordever</a></li>
 				</ul>
 		</div>
 	</div>
@@ -960,7 +857,8 @@ disputes and application of California state law.
 		<li><a href="/sitemap-list/">Lists Sitemap</a></li>
 		<li><a href="/sitemap-tag/">Tag Sitemap</a></li>
 		<li><a href="/advice/">Advice</a></li>
-		<li class="last"><a href="http://www.stylehive.com">Stylehive</a></li>
+		<li><a href="http://www.stylehive.com">Stylehive</a></li>
+		<li class="last"><a href="http://glossi.com/?q=tn_footer">Glossi</a></li>
 	</ul>
 	
 	<div id="footerSocial">
@@ -968,7 +866,10 @@ disputes and application of California state law.
 		<a href="http://twitter.com/thisnext" target="_blank"><img src="http://s6.thisnext.com/img/20110822160115/common/social-twitter.png" alt="Twitter"></a>
 	</div>
 	
-	<p>© 2012 ThisNext, Inc. ThisNext is a member of BUZZMEDIA Entertainment, a division of BUZZMEDIA.</p>
+	<p>
+		© 2013 ThisNext, Inc. ThisNext is a member of BUZZMEDIA Entertainment, a division of BUZZMEDIA.<br>
+		<a href="http://glossi.com/?q=tn_footer">Create your own free digital magazine at our new site Glossi.com</a>
+	</p>
 	<hr>
 </div>
 
