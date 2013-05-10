@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnbokma.com privacy policy that was archived on 2012-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120912002610id_/http%3A//johnbokma.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnbokma.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204235id_/http%3A//johnbokma.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for John Bokma dot com
 
