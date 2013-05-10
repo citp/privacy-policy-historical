@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609025905id_/http%3A//www.heartfoundation.org.au/Important-info/Pages/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510042259id_/http%3A//www.heartfoundation.org.au/Important-info/Pages/Privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
