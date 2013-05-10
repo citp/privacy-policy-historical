@@ -1,237 +1,215 @@
-<!--The following is the downloaded HTML source of the newyorkcitytheatre.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015091257id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newyorkcitytheatre.com privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510215545id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-   <title>New York Theater - Privacy</title>
+   <title>New York City Theater - Privacy</title>
 	 <meta property="fb:admins" content="889925073">	 
       <base href="http://www.newyorkcitytheatre.com/">
-      
-	<link rel="stylesheet" type="text/css" href="styles/theatreland.css">
-	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="styles/theatreland_ie6.css" /><![endif]-->
-		<link rel="stylesheet" type="text/css" href="styles/calendar.css">
-		<link rel="stylesheet" type="text/css" href="/promotions/promotions.css">
-   		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="js/CalendarPopup.js"></script>
-<!--[if lte IE 6]>
-	<script type="text/javascript" src="js/supersleight-min.js"></script>
-<![endif]-->
-	<script src="js/swfobject_modified.js" type="text/javascript"></script> 
-</head>
-<body>
-
-<div id="outerShadow">
-
-  <div id="all">
-
-	<!-- top banner -->
+	
+	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/theatreland.curran.css">
+	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/newyorkcitytheatre.com.css">
+	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/calendar.curran.css">
+	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/widget.curran.css">
+	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/custom-theme/jquery-ui-1.8.9.custom.css">	
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/theatreland_ie6.css" /><![endif]-->
+	<style type="text/css">
+		@media only screen and (max-device-width: 1024px) {
+			.top { margin-left: 10px; width: 170px;}
+			.dontmiss { margin-left: 10px; width: 469px;}
+			.facebookLike {left:-115px;}
+			.google {margin-right:20px;}			
+		}
+	</style>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>	
+	<script type="text/javascript" src="http://static.newyorkcitytheatre.com/js/CalendarPopup.js"></script>
+	
 	<script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
+	$(document).ready(function() {$('.hoverBar').toggle(openNav, closeNav);});
+	$(document).ready(function() {
+			
+			$('.hoverBar').hover(function() {
+	      $('.linkHide').addClass('linkHideOn');
+	    }, function() {
+	      $('.linkHide').removeClass('linkHideOn');
+	    });		
+			
+			$('.hoverBar').hover(function() {
+	      $('.linkBtn').addClass('linkBtnOn');
+	    }, function() {
+	      $('.linkBtn').removeClass('linkBtnOn');
+	    });
+		
+	});
+	var handler = function() {return false;};
+	function openNav(){
+		_gaq.push(['a._trackEvent', 'Primary Navigation', 'Open']);
+		$('.navHover').animate({"top": 0}, 360);
+		$('#hoverBarId').toggleClass("hoverBar hoverBarOpen");
+		//Close on click anywhere other than the details section
+		$(document).click(function() { closeNav();});
+		$(".details").click(handler);
+		$(".details a").click( function(event) {
+		    event.stopPropagation();
+		} );
+	}
+	function closeNav(){
+		_gaq.push(['a._trackEvent', 'Primary Navigation', 'Close']);
+		$(document).unbind('click');
+		$(".details").unbind('click', handler);
+		$('#hoverBarId').toggleClass("hoverBarOpen hoverBar");
+		$('.navHover').animate({"top": -320}, 360);
+	}
+	function recordTicketRequest(link, eventName, venueName, value) {
+		_gaq.push(['a._trackEvent', 'Other Ticket request', eventName, venueName, value]);
+		_gaq.push(['b._trackEvent', 'Other Ticket request', eventName, 'site: nyct venue: ' + venueName, value]); 		
+		if (link.target.toLowerCase() == '_blank') {
+			setTimeout('window.open("' + link.href + '","_blank")', 100);
+		} else setTimeout('document.location = "' + link.href + '"', 100);	
+	}		
+	function recordOutboundLink(link, cat, act, jsNewWindow) {
+		if (!cat) var cat = 'Outgoing';
+		if (!act) var act = 'Link';
+		if (!jsNewWindow) var jsNewWindow = true;
+		_gaq.push(['a._trackEvent', cat, act, link.href]); 
+		_gaq.push(['b._trackEvent', cat, act, 'site: nyct link: ' + link.href]); 		
+		if (link.target.toLowerCase() == '_blank' && jsNewWindow.toLowerCase() == true) {
+			setTimeout('window.open("' + link.href + '","_blank")', 100);
+		} else setTimeout('document.location = "' + link.href + '"', 100);
+	}
+	$.widget( "custom.catcomplete", $.ui.autocomplete, {
+		_renderMenu: function( ul, items ) {
+			var self = this,
+				currentCategory = "";
+			$.each( items, function( index, item ) {
+				if ( item.category != currentCategory ) {
+					ul.append( "<li class='ui-autocomplete-category'>" + item.category + "</li>" );
+					currentCategory = item.category;
+				}
+				self._renderItem( ul, item );
+			});
+		}
+	});
+	$(function() {
+		$( "#searchBox" ).catcomplete({
+			delay: 0,
+			source: '/rootincludes/search_data_process.php',
+			minLength: 2,
+			select: function( event, ui ) {
+				document.location.href = 'http://' + document.location.hostname + '/' + ui.item.url + '?q=' + ui.item.label + '&cat=' + ui.item.category;
+			}
+		});
+	});
+</script>	
+	<script src="http://static.newyorkcitytheatre.com/js/swfobject_modified.js" type="text/javascript"></script> 
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['a._setAccount', 'UA-30538326-1']);
+	_gaq.push(['a._setDomainName', 'newyorkcitytheatre.com']);
+	_gaq.push(['a._setAllowLinker', true]);  
+	_gaq.push(['a._trackPageview']);
+	
+	_gaq.push(['b._setAccount', 'UA-56287-3']);
+	_gaq.push(['b._setDomainName', 'newyorkcitytheatre.com']);
+	_gaq.push(['b._setAllowLinker', true]);   
+	_gaq.push(['b._trackPageview']);
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
 <script type="text/javascript">
 googletag.cmd.push(function() {
-googletag.defineSlot('/1305719/nyct_all_bottom_right_160x600', [160, 600], 'div-gpt-ad-1326108906143-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
+	googletag.defineSlot('/1305719/nyct_all_bottom_right_160x600', [160, 600], 'nyct_ad_bottom_right').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
 });
-</script>
-  <!--Banner + Nav Start -->
-    <div href="http://www.newyorkcitytheatre.com" id="banner" class="bannerNyct">
-		<a href="http://www.newyorkcitytheatre.com"><div class="homeButton"></div></a>
-        <div id="navPosition" class="overlay">
+</script></head>
+<body>
 
-      <div id="navFind" class="navBg">
-       <div href="#_self" class="ttLeft">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_arrow.gif" width="6" height="21" class="searchIcon" alt="" title="">
-      <p class="nav">FIND A SHOW <span class="gradient"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_banner_gradient.gif" width="980" height="10" alt="" title=""></span>IN NEW YORK</p>
-      <span class="gradient"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_banner_gradient.gif" width="980" height="10" alt="" title=""></span><span class="tooltipTopLeft">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon_on.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_arrow_on.gif" width="9" height="21" class="searchIcon" alt="" title="">
-      <p class="navOn">FIND A SHOW IN NEW YORK</p>
-      </span>
-      <span class="tooltip">
-      <div class="searchContent">
-
-      <div class="topShows">
-      <p class="mainNavTitle">Our Top Shows</p>
-
-     <div class="topShowBlock">
-      <a href="/theaters/eugeneoneilltheater/theater.php"><img border="0" src="http://static.newyorkcitytheatre.com/images/events/small/event_03411_small.jpg" width="100" height="100" class="pic100MainNav" alt="Book of Mormon" title="Book of Mormon">
-      <p>Book of Mormon»</p></a>
-      </div>
-      
-       <div class="topShowBlock">
-      <a href="http://www.newyorkcitytheatre.com/theaters/gershwintheater/wicked.php"><img border="0" src="http://static.newyorkcitytheatre.com/images/events/small/event_wicked_small.jpg" width="100" height="100" class="pic100MainNav" alt="Wicked" title="Wicked">
-      <p>Wicked»</p></a>
-      </div>
-      
-      <div class="topShowBlock">
-      <a href="/theaters/augustwilsontheater/jersey-boys.php"><img border="0" src="http://static.newyorkcitytheatre.com/images/events/small/event_00379_small.jpg" width="100" height="100" class="pic100MainNav" alt="Jersey Boys" title="Jersey Boys">
-      <p>Jersey Boys»</p></a>
-      </div>
-      <div class="topShowBlock">
-      <a href="/theaters/minskofftheater/theater.php"><img border="0" src="http://static.newyorkcitytheatre.com/images/events/small/event_00380_small.jpg" width="100" height="100" class="pic100MainNav" alt="The Lion King" title="The Lion King">
-      <p>The Lion King»</p></a>
-      </div>
-      <div id="clear"></div>
-
-      <div class="viewLink"><a href="http://www.newyorkcitytheatre.com/" class="white">View all Shows »</a></div>
-       </div>
-
-
-       <div id="clear"></div>
-
-       <div id="genreBlock">
-      <h5>Categories</h5>
-      <p><a href="http://www.newyorkcitytheatre.com/index_musicals.php">Musicals »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/index_plays.php">Plays »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/index_comedy.php">Comedy »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/index_off_broadway.php">Off-Broadway »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/index_holidays.php">Holiday Shows »</a></p>
-      </div>
-
-      <div id="genreBlockLight">
-      <h5>Critic's Picks</h5>
-     
-      <p><a href="/theaters/eugeneoneilltheater/book-of-mormon.php">Book of Mormon »</a></p>
-      <p><a href="/theaters/bernardbjacobstheater/once.php">Once »</a></p>
-      <p><a href="/theaters/brooksatkinsontheater/peter-and-the-starcatcher.php">Peter &amp; Starcatcher »</a></p>
-  
-      <p><a href="/theaters/helenhayestheater/rock-of-ages.php">Rock of Ages »</a></p>
-
-     
-      
- 
-      </div>
-
-      <div id="genreBlockLight">
-      <h5>Celebs On Stage</h5>
-      <p><a href="/theaters/geraldschoenfeldtheater/glengarry-glen-ross.php">Al Pacino »</a></p>   
-      <p><a href="/theaters/walterkerrtheater/the-heiress.php">Jessica Schastain »</a></p>     
-
-      <p><a href="/theaters/lyceumtheater/the-anarchist.php">Patty LuPone »</a></p>           
-     <p><a href="/theaters/geraldschoenfeldtheater/the-best-man.php">James Earl Jones »</a></p> 
-        <p><a href="/theaters/ambassadortheater/theater.php">Billy Ray Cyrus »</a></p>
-        <p><a href="/theaters/corttheater/grace.php">Paul Rudd »</a></p>
-
-
-      
-      
-    
-   
-
-     
-     
- 
-      </div>
-      </div>
-      </span>
-      </div>
-      </div>
-
-
-      <div id="navSearch" class="navBg">
-       <div href="#_self" class="ttRight">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_arrow.gif" width="6" height="21" class="searchIcon" alt="" title="">
-      <p class="nav">FIND A THEATER IN NEW YORK</p>
-      <span class="tooltipTopRight">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon_on.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_arrow_on.gif" width="9" height="21" class="searchIcon" alt="" title="">
-      <p class="navOn">FIND A THEATER IN NEW YORK</p>
-      </span>
-      <span class="tooltip">
-      <div class="searchContent">
-
-      <div class="topShows">
-      <p class="mainNavTitle">Find a Theater in New York</p>
-
-
-      <div id="alphabetBlock" class="alphabetBlockBg">
-		  	<h1 class="alphabetText">		 <a id="lnA" href="/theatres.php?letter=a">A</a> <a id="lnB" href="/theatres.php?letter=b">B </a><a id="lnC" href="/theatres.php?letter=c">C</a>
-				 <a id="lnD" href="/theatres.php?letter=d">D </a><a id="lnE" href="/theatres.php?letter=e">E </a><a id="lnF" href="/theatres.php?letter=f">F </a><a id="lnG" href="/theatres.php?letter=g">G</a>
-				 <a id="lnH" href="/theatres.php?letter=h">H </a><a id="lnI" href="/theatres.php?letter=i">I </a><a id="lnJ" href="/theatres.php?letter=j">J </a><a id="lnK" href="/theatres.php?letter=k">K</a>
-				 <a id="lnL" href="/theatres.php?letter=l">L </a><a id="lnM" href="/theatres.php?letter=m">M </a><a id="lnN" href="/theatres.php?letter=n">N </a><br>
-				 <a id="lnO" href="/theatres.php?letter=o">O</a>
-				 <a id="lnP" href="/theatres.php?letter=p">P </a><a id="lnQ" href="/theatres.php?letter=q">Q </a><a id="lnR" href="/theatres.php?letter=r">R </a><a id="lnS" href="/theatres.php?letter=s">S</a>
-				 <a id="lnT" href="/theatres.php?letter=t">T </a><a id="lnU" href="/theatres.php?letter=u">U </a><a id="lnV" href="/theatres.php?letter=v">V </a><a id="lnW" href="/theatres.php?letter=w">W</a>
-				 <a id="lnX" href="/theatres.php?letter=x">X </a><a id="lnY" href="/theatres.php?letter=y">Y </a><a id="lnZ" href="/theatres.php?letter=z">Z </a><a id="ln0" href="/theatres.php?letter=0">0-9</a>
-			</h1>
-      </div>
-
-      <div id="clear"></div>
-
-      <div class="viewLink"><a href="http://www.newyorkcitytheatre.com/theatres.php" class="white">View all Theatres »</a></div>
-       </div>
-
-
-
-
-       <div id="clear"></div>
-
-       <div id="genreBlockTheatre">
-      <h5>Broadway</h5>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/gershwintheater/theater.php">Gershwin Theater »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/newamsterdamtheater/theater.php">New Amsterdam Theater »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/majestictheater/theater.php">Majestic Theater »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/imperialtheater/theater.php">Imperial Theater »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/vivianbeaumonttheater/theater.php">Vivian Beaumont Theater »</a></p>
-      </div>
-
-      <div id="genreBlockLight">
-      <h5>Concert Venues</h5>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/radiocitymusichall/theater.php">Radio City Music Hall »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/madisonsquaregarden/theater.php">Madison Square Garden</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/metropolitanoperahouse/theater.php">Metropolitan Opera House »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/beacontheater/theater.php">Beacon Theater »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/carnegie-hall/theater.php">Carnegie Hall »</a></p>
-      <p><a href="http://www.newyorkcitytheatre.com/theaters/lincoln-center-for-the-performing-arts/theater.php">Lincoln Center »</a></p>
-      
-    
-      </div>
-
-      <div id="genreBlockLight">
-      <h5>Off-Broadway</h5>
-      <p><a href="/theaters/newworldstages1/theater.php">New World Stages »</a></p>
-	  <p><a href="/theaters/acorntheater/theater.php">Theater Row »</a></p>
-      <p><a href="/theaters/nycitycenter/theater.php">New York City Center »</a></p>
-      <p><a href="/theaters/harveylichtensteintheater/theater.php">Brooklyn Academy »</a></p>
-      <p><a href="/theaters/westsidetheaterdownstairs/theater.php">Westside Theater »</a></p>
-      <p><a href="/theaters/publictheater/theater.php">Public Theater »</a></p>
-      <p><a href="/theaters/laurapelstheater/theater.php">Laura Pels Theater »</a></p>
-      </div>
-
-      </div>
-
-      </span>
-      </div>
-      </div>
-
-   </div>
-  </div>
-
- <!--Banner + Nav Finish -->
-
-    <div class="gradient"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_banner_gradient.gif" width="980" height="10" alt="" title=""></div>
+	<!-- top banner -->
+	<!-- new nav start -->
+<div class="bannerInf bannernyct">
+	<div class="navHover"> <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon_close.gif" class="searchIconClose">
+		<div class="details">
+			<div class="innerBlock top">
+				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">CATEGORIES</h2>
+				<p><a href="/index.php">Top Shows</a></p>
+				<p><a href="/index_musical.php">Musicals</a></p>
+				<p><a href="/index_play.php">Plays</a></p>
+				<p><a href="/index_comedy_theatre.php">Comedy Theatre</a></p>
+				<p><a href="/index_off_broadway.php">Off Broadway</a></p>
+				<p><a href="/index_concert.php">Concerts</a></p>
+				<p><a href="/index_family.php">Family Shows</a></p>
+			</div>
+			<div class="innerBlock season">
+				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">CURRENT HIGHLIGHTS ON BROADWAY</h2>
+				<div class="smallPoster"><a href="/theaters/eugeneoneilltheater/book-of-mormon.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/03411_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/shuberttheater/matilda.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/07879_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/booththeater/ill-eat-you-last-a-chat-with-sue-mengers.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08624_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/luntfontannetheater/motown-the-musical.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08001_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/broadhursttheater/lucky-guy.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08241_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/lyceumtheater/the-nance.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08277_show_portrait_small.jpg">MAY '13</a></div>			</div>
+			<div class="innerBlock dontmiss">
+				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">DON'T MISS!</h2>
+				<p><a href="/index_critics_pick.php">Critics Picks</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_celeb_on_stage.php">Stars on Stage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_tony_winner.php">Tony Award Winners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_comedy.php">Stand-Up</a></p>
+			</div>
+			<div class="innerBlock search">
+				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">SEARCH</h2>
+				<img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon_btn2.gif" class="searchIcon2" alt="search">
+				<input id="searchBox" type="text" class="formField">
+			</div>
+		</div>
+		<div class="hoverBar">
+			<div class="linkBtnContainer">
+				<div class="linkHide2"></div>
+				<div class="linkHide"></div>
+				<div class="linkBtn">
+					<img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_arrow_hover2.gif" class="searchIconHover">
+					<h2 class="heading1 hov">FIND A SHOW OR VENUE</h2>
+					<img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon2.gif" class="searchIconGlass">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="helpline">
+		<p>Order by Phone</p>
+		<h2><a href="tel:(800) 901-4092">(800) 901-4092</a></h2>
+		<img src="http://static.newyorkcitytheatre.com/images/ico-phone.png">
+	</div>	
+</div>
+<!-- new nav finish -->
 	<!-- /top banner -->
-	<!-- main theatre block -->
+
+	<div id="all">
+		<!--Banner + Nav Start -->
+		<div id="banner"> 
+			<a href="http://www.newyorkcitytheatre.com"><div class="homeButton"></div></a>
+		</div>
+		<!--Banner + Nav Finish -->
+		<div class="gradient"></div>	
+
+
 		<div id="contentLeft">
+
+
+
+   
     <div class="contentHeader">
 				<h1>PRIVACY POLICY</h1>
-                <p><a href="http://www.newyorkcitytheatre.com/">www.newyorkcitytheatre.com</a> is firmly committed to protecting your privacy while you are visiting our Web site. The following Privacy Policy discloses the information gathering and dissemination practices for&nbsp;<a href="http://www.newyorkcitytheatre.com/">www.newyorkcitytheatre.com</a>.&nbsp;</p>
+                <p><a href="http://www.newyorkcitytheatre.com/">New York City Theater</a> is firmly committed to protecting your privacy while you are visiting our Web site. The following Privacy Policy discloses the information gathering and dissemination practices for&nbsp;<a href="http://www.newyorkcitytheatre.com/">www.newyorkcitytheatre.com</a>.&nbsp;</p>
                 <br>
 				</div>
 	
@@ -270,7 +248,7 @@ googletag.enableServices();
 <div id="clear"></div>
 <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
 <div class="faqAnswer">
-<p>Our site uses cookies to keep track of your shopping cart. Upon your request we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site.</p>
+<p>Our site uses cookies to keep track of your shopping cart. Upon your request we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site. For details on Cookies and how they benefit you <a href="/common/privacy_cookies.php">click here</a>.</p>
 </div>
 <div id="clear"></div>
 </div>
@@ -282,7 +260,7 @@ googletag.enableServices();
 <div id="clear"></div>
 <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
 <div class="faqAnswer">
-<p>This site contains links to other sites. <a href="http://www.newyorkcitytheatre.com/">www.newyorkcitytheatre.com</a> is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site. We will not share any specific information that you provide to us without your explicit permission to share it.</p>
+<p>This site contains links to other sites. <a href="http://www.newyorkcitytheatre.com/">New York City Theater</a> is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site. We will not share any specific information that you provide to us without your explicit permission to share it.</p>
 </div>
 <div id="clear"></div>
 </div>
@@ -294,12 +272,12 @@ googletag.enableServices();
 <div id="clear"></div>
 <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
 <div class="faqAnswer">
-<p>This Web site uses the internet's leading ticket reseller <a href="http://www.ticketnetwork.com">TicketsNetwork.com</a> for the purchase of tickets. Please refer to <a href="http://www.ticketnetwork.com">TicketsNetwork.com</a> for their privacy policy</p>
+<p>This Web site uses the internet's leading ticket reseller <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for the purchase of tickets. Please refer to <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for their privacy policy</p>
 </div>
 <div id="clear"></div>
 </div>
 <!--posting finish --->
-
+  
 <!--posting start --->
 <div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
 <h3 class="iconTitle">SECURITY</h3>
@@ -318,7 +296,7 @@ googletag.enableServices();
 <div id="clear"></div>
 <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
 <div class="faqAnswer">
-<p>You may choose to opt-out of receiving future communications from www.newyorkcitytheatre.com. If you do not want to receive our event newsletters or special offers, simply fill out the <a href="http://www.newyorkcitytheatre.com/users/unsubscribe.php?email=">unsubscribe form</a>.</p>
+<p>You may choose to opt-out of receiving future communications from New York City Theater. If you do not want to receive our event newsletters or special offers, simply fill out the <a href="http://www.newyorkcitytheatre.com/users/unsubscribe.php?email=">unsubscribe form</a>.</p>
 </div>
 
 <div id="clear"></div>
@@ -339,6 +317,7 @@ googletag.enableServices();
           
           <div id="clear"></div>
         </div>
+        
         <div id="clear"></div>
       </div>
     
@@ -346,169 +325,100 @@ googletag.enableServices();
 	<!---/main theatre block -->
 	<!-- right banner -->
 	<div id="contentRight" class="contentRight">
-		      <div id="whatsOn" class="whatsOnBg"> <img src="http://static.newyorkcitytheatre.com/images/headings/tl_heading_whatson.gif" class="heading1" alt="WHAT'S ON" title="">
-
-        <p class="white">View all events on:</p>
-		<div style="margin-top: 14px; margin-bottom: 14px; height:135px; width: 144px; background-color:#FFFFFF;" id="eventsCalendar" name="eventsCalendar"></div>
-		<a id="eventsCalendarA" name="eventsCalendarA"></a><a>
-        </a><p class="findShow"><a>
-        	<img src="http://static.newyorkcitytheatre.com/images/misc/tl_help_icon.gif" class="helpIcon" alt="" title="">
-        	</a><a href="customer-support/index.php" class="white">Need help with<br>your purchase? »</a>
-        </p>
-      </div>
-      <div id="adRightLarge" class="adRightBg">
-	      <script>
-function PromotionItem(sAlt, sImage, sLink) {
-  this.alttag   = sAlt;
-  this.image    = "http://www.newyorkcitytheatre.com/images/show/" + sImage;
-  this.hlink   = sLink;
- }
-
- var aPromotionItems  = new Array();
-aPromotionItems[1] = new PromotionItem('Buy tickets for Wicked the Musical at the Gershwin Theater, Broadway','00378_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/gershwintheater/theater.php');
-aPromotionItems[2] = new PromotionItem('Buy tickets for the War Horse','02202_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/vivianbeaumonttheater/war-horse.php');
-aPromotionItems[3] = new PromotionItem('Buy tickets for Evita at Marquis Theater, Broadway','05649_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/marquistheater/evita.php');
-aPromotionItems[4] = new PromotionItem('Buy tickets for Jersey Boys at August Wilson Theater, Broadway','00379_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/augustwilsontheater/jersey-boys.php');
-aPromotionItems[5] = new PromotionItem('Buy tickets for One Man, Two Guvnors at Music Box Theater, Broadway','06486_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/musicboxtheater/one-man-two-guvnors.php');
-aPromotionItems[6] = new PromotionItem('Buy tickets for Cirque du Soleil - Zarkana at Radio City Music Hall, Broadway','03758_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/radiocitymusichall/cirque-du-soleil-zarkana.php');
-aPromotionItems[7] = new PromotionItem('Buy tickets for Book of Mormon at Eugene ONeill Theatre','03411_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/eugeneoneilltheater/book-of-mormon.php');
-aPromotionItems[8] = new PromotionItem('Buy tickets for Barbra Streisand At Barclays Center','00020_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/barclays-center/barbra-streisand.php');
-aPromotionItems[9] = new PromotionItem('Buy tickets for Mary Poppins at New Amsterdam Theater','01045_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/newamsterdamtheater/mary-poppins.php');
- aPromotionItems[10] = new PromotionItem('Buy tickets for Ghost The Musical at Lunt Fontanne Theater','05956_ad_portrait.jpg','http://www.newyorkcitytheatre.com/theaters/luntfontannetheater/ghost-the-musical.php');
- 
- 
-
-
-
- var nImageNumber = 10;
- var nRandomNumber = Math.random();
- nRandomNumber = Math.round((nImageNumber-1) * nRandomNumber) + 1;
- var oRandomItem = aPromotionItems[nRandomNumber];
- document.write('<a href="' + oRandomItem.hlink + '"><img src="' + oRandomItem.image + '" border="0" class="adRightLarge" alt="' + oRandomItem.alttag + '" title="' + oRandomItem.alttag + '"></a>');
-</script><a href="http://www.newyorkcitytheatre.com/theaters/eugeneoneilltheater/book-of-mormon.php"><img src="http://www.newyorkcitytheatre.com/images/show/03411_ad_portrait.jpg" border="0" class="adRightLarge" alt="Buy tickets for Book of Mormon at Eugene ONeill Theatre" title="Buy tickets for Book of Mormon at Eugene ONeill Theatre"></a>
-      </div>
-      
-
-
+		  <div id="whatsOn"> <h2 class="heading1">WHAT'S ON</h2>
+    <p class="white">View all events on:</p>
+	<div style="margin-top: 5px; margin-bottom: 14px; height:120px; width: 144px; background-color:#FFFFFF;" id="eventsCalendar" name="eventsCalendar"></div>
+	<a id="eventsCalendarA" name="eventsCalendarA"></a><a>
+    </a><p class="findShow"><a>
+    	<img src="http://static.newyorkcitytheatre.com/images/misc/tl_help_icon_red.gif" class="helpIcon" alt="" title="">
+    	</a><a href="/customer-support/booking_tickets.php" class="white">Need help with<br>your purchase? »</a>
+    </p>
+  </div>
+			<a href="/theaters/johngoldentheater/vanya-and-sonia-and-masha-and-spike.php">		<div id="adRightLarge">			<img src="http://static.newyorkcitytheatre.com/images/show/08626_show_square_poster.jpg" class="adRightLarge" alt="Buy tickets for Vanya and Sonia and Masha and Spike at John Golden Theater" title="Buy tickets for Vanya and Sonia and Masha and Spike at John Golden Theater">			<div class="adContent"><p class="nowshowing">NOW SHOWING</p><p class="book">BOOK TICKETS</p>			</div>		</div>	</a>	<div id="eNews"> <h2 class="heading1">NEWSLETTER</h2>
+		<form method="POST" action="/users/newsletters/subscribe.php" name="fENews">
+		<input onclick="this.select();" name="address" id="address" class="inputBox" type="text" value="Email Address" size="19">
+		<p><a href="javascript:submitENews();" class="white">Sign Up »</a></p>
+	</form>
+	<script>
+		function submitENews() {
+			if (document.fENews.address.value=="") {
+				alert("Please enter your email address");
+				return;
+	 		}
+	 		document.fENews.submit();
+	 	}
+	 </script>
+	</div>
+	<div id="clear"></div>
+	<a onclick="recordOutboundLink(this,'Dining','21 Right Navigation',false);return true;" target="_blank" href="http://www.21club.com/web/onyc/prixfixe_pretheatre.jsp?c=websites&amp;p=nyctheatres&amp;cr=21_dining_rha">		
+		<div id="adRightLarge">			
+				<img src="http://static.newyorkcitytheatre.com/images/misc/ad_onyc_163x200_2.jpg" alt="Pre-Theatre Pre-Fixe Dining with reduced parking at '21'">
+		</div>
        
-     
-           
-           
-           
-      <div style="padding: 5px 0 0 5px" id="adRightLarge" class="adRightBg">
-			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="163" height="200" id="FlashID5" title="'Dine at 21 Club, West 52nd St. NY">
-			  <param name="movie" value="images/ad_right/ad_onyc_163x200_2.swf">
-			  <param name="quality" value="high">
-			  <param name="wmode" value="opaque">
-			  <param name="swfversion" value="8.0.35.0">
-			  <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don?t want users to see the prompt. -->
-			  <param name="expressinstall" value="images/swf/expressInstall.swf">
-			  <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
-			  <!--[if !IE]>-->
-			  <object type="application/x-shockwave-flash" data="images/ad_right/ad_onyc_163x200_2.swf" width="163" height="200">
-				<!--<![endif]-->
-				<param name="quality" value="high">
-				<param name="wmode" value="opaque">
-				<param name="swfversion" value="8.0.35.0">
-				<param name="expressinstall" value="images/swf/expressInstall.swf">
-				<!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
-				<div>
-				  <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
-				  <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33"></a></p>
-				</div>
-				<!--[if !IE]>-->
-			  </object>
-			  <!--<![endif]-->
-			</object>
-
-      </div>
-      
-  
-      <div id="eNews" class="eNewsBg"> <img src="http://static.newyorkcitytheatre.com/images/headings/tl_heading_enews.gif" class="heading1" alt="E-NEWS SIGN UP" title="">
-      	<form method="GET" action="/users/newsletters/subscribe.php" name="fENews">
-			<input onclick="this.select();" name="email" id="email" class="inputBox" type="text" value="Email Address" size="19">
-			<p><a href="javascript:submitENews();" class="white">Sign Up »</a></p>
-        </form>
-        <script>
-        	function submitENews() {
-				if (document.fENews.email.value=="") {
-					alert("Please enter your email address");
-					return;
-		 		}
-		 		document.fENews.submit();
-		 	}
-		 </script>
-      </div>
-      <div id="clear"></div>
-      <div id="adRightFeature" class="adRightFeatureBg">
-      	<img src="http://static.newyorkcitytheatre.com/images/misc/tl_star_black.gif" class="star" alt="" title="">
-        <p class="findShow"><a target="_blank" href="http://www.21club.com/web/onyc/broadway.jsp?c=websites&amp;p=nyctheatres&amp;cr=21_dining_web" class="black">Pre-Show Dinner »</a></p>
-        <div id="clear"></div>
-      	<img src="http://static.newyorkcitytheatre.com/images/misc/tl_star_black.gif" class="star" alt="" title="">
-        <p class="findShow"><a href="http://www.newyorkcitytheatre.com/new-york-limo.php" class="black">Hire a Limo »</a></p>
-        <div id="clear"></div>
-        <img src="http://static.newyorkcitytheatre.com/images/misc/tl_star_black.gif" class="star" alt="" title="">
-        <p class="findShow"><a href="http://www.newyorkcitytheatre.com/hotels_and_guides.php" class="black">Book a Hotel »</a></p>
-        <div id="clear"></div>
-        <img src="http://static.newyorkcitytheatre.com/images/misc/tl_star_black.gif" class="star" alt="" title="">
-        <p class="findShow"><a href="http://www.newyorkcitytheatre.com/new-york-sightseeing.php" class="black">Sight Seeing Pass »</a></p>
-        <div id="clear"></div>
-        <img src="http://static.newyorkcitytheatre.com/images/misc/tl_star_black.gif" class="star" alt="" title="">
-        <p class="findShow"><a href="http://www.newyorkcitytheatre.com/new-york-guide-books.php" class="black">Guide Books »</a></p>
-      </div>
-      	<script type="text/javascript">
-	  		<!--
-	  		swfobject.registerObject("FlashID5");
-	  		//-->
-		</script>
-      <div id="adRightGoogle">
-		<!-- nyct_all_bottom_right_160x600 -->
-		<div id="div-gpt-ad-1326108906143-0" style="width:160px; height:600px;">
+	</a>
+    
+       
+    <div id="adRightGoogle">
+		<div id="nyct_ad_bottom_right" style="width:160px; height:600px;">
 		<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326108906143-0'); });
+		googletag.cmd.push(function() { googletag.display('nyct_ad_bottom_right'); });
 		</script>
 		</div>
-	  </div>
-      <div id="clear"></div>
-			
+	</div>
+
+
 	</div>
 	<!-- //right banner -->
     <div id="clear"></div>
   </div>
-</div>
+
 <!-- base navigation -->
-	<div class="baseLinks">
-  <p>
-	<a href="hotels_and_guides.php" class="white">Hotels</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/sitemap.php" class="white">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/faqs.php" class="white">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/about_us.php" class="white">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="/users/newsletters/subscribe.php" class="white">Newsletter</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/privacy.php" class="white">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="promotions/index.php" class="white">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="customer-support/index.php" class="white">Customer Support</a>
-</p>
-  <p>
-  	Theater Cities in:
-	<a href="/common/theatreland-collection-us-east-coast.php" class="white">East Coast »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="/common/theatreland-collection-us-west-coast.php" class="white">West Coast »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="/common/theatreland-collection-us-central.php" class="white">Central »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/common/theatreland-collection-canada.php" class="white">Canada »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/common/theatreland-collection-uk-london.php" class="white">London »</a>
-</p>
-<p><strong>Please note:</strong> This site is independently owned and operated and in no way affiliated to any venue or production company</p>
+	<!--footer -->
+<div class="footer">
+<div class="baseLinks">
+    <a href="/common/worry_free_guarantee.php">
+             <div class="worryFree">		
+				<h4 class="worry-free"><span>Worry-free guarantee</span></h4>
+				<ul>
+					<li>Certified secure checkout</li>
+					<li class="even">Phone customer support</li>
+					<li>125% money back guarantee</li>
+				</ul>
+             </div>
+     </a> 
+     <div class="footerBlock quickLinks">
+      <h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">Quick Links</h2>
+      <p><a href="/common/about_us.php">About Us</a></p>
+      <p><a href="/common/faqs.php">FAQs</a></p>
+      <p><a href="/common/privacy.php">Privacy Policy</a></p>
+      <p><a href="/common/terms.php">Terms &amp; Conditions</a></p>
+      <!--<p><a href="#">Terms & Conditions</a></p>-->
+      <p></p>
+      <p><a href="/promotions/">List Your Show</a></p>
+      <p><a href="/common/advertise.php">Advertise</a></p>
+      <p></p>
+      <p><a href="/users/newsletters/subscribe.php">Subscribe For Updates</a></p>
+      <p><a href="/customer-support/index.php">Contact Us</a></p>
+
+    </div>
+
+    <div class="footerBlock tl"><a href="/common/theatreland-collection.php"> <img src="http://static.newyorkcitytheatre.com/images/misc/tl_theatreland_logo.gif" alt="theatreland logo"></a>
+
+      <p><a href="/common/theatreland-collection.php">New York City Theater is part of the Theatreland Ltd Collection. Established in 2003, Theatreland offers the largest individual collection of websites providing complete, impartial guides to all the theatrical, musical and performance arts events and venues in the world's greatest theatre cities, from New York's Broadway to London's West End and from the showrooms of Las Vegas to Shakespeare's Globe Theatre.</a></p>
+
+    </div>
+
+    <div id="clear"></div>
+
+    <p>Please note: This site is independently owned and operated and in no way affiliated to any venue or production company</p>
+
+    <div id="clear"></div>
+
+  </div>
+
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-56287-3");
-pageTracker._setDomainName('none');
-pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+
 <script>
 	var now = new Date();
 	now.setDate(now.getDate()-1);
@@ -522,7 +432,30 @@ pageTracker._trackPageview();
 		document.location ='/common/events_calendar.php?year='+year+'&month='+month+'&day='+day;
 	}
 </script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
 
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-WQ0LtHe5Ux_dq"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-WQ0LtHe5Ux_dq.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 <!-- /base navigation -->
 
 
