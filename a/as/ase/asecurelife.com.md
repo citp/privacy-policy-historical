@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asecurelife.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014225359id_/http%3A//www.asecurelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asecurelife.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510232651id_/http%3A//www.asecurelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASecureLife.com
 
-_Last Updated On: 8 September 2012_
+_Last Updated On: 8 April 2013_
 
 ##  Protecting Your Privacy
 
@@ -64,9 +64,11 @@ You are solely responsible for the information and other content you post on or 
 
 ##  Online Comment, Forum and Disclosure Policy
 
-Cover Story Media, Inc. welcomes reader feedback to its online content, but it is not responsible for the information contained in reader comments. We reserve the right to reject or delete comments in full or in part at any time.
+Cover Story Media, Inc. welcomes reader feedback to its online content, but it is not responsible for the information contained in reader comments. We reserve the right to reject, edit or delete comments in full or in part at any time.
 
 Comments should not be abusive, libelous or in bad taste. They should not contain vulgar language. We prefer comments that express an opinion rather than ones that deal in personalities.
+
+While we strive to keep our research as up to date and accurate as possible, due to the dynamic nature of the industry, we will occasionally make errors or fail to keep content current. If you find inaccuracies in our content, please [contact us](https://web.archive.org/contact) and we will do our best to resolve the errors as soon as possible. Corrections sent via the comment form may not been implemented in a timely fashion.
 
 We reserve the right to reproduce information sent to us via our [contact form](https://web.archive.org/contact), in full or in part, on our Site, regardless of the medium used.
 
