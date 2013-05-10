@@ -1,63 +1,154 @@
-> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615082832id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510213759id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
 
-# Fine Stationery.com // Personalized Stationery, Wedding Invitations, Birth Announcements, Party Invitations, Moving Announcements, Cards &amp; more
+# Fine Stationery.com // Personalized Stationery, Wedding Invitations, Birth Announcements, Party Invitations, Moving Announcements, Cards & more
 
-**Our Promise to You**   
-We believe that stationery, invitations and announcements represent the most personal and private means of communication. FineStationery.com is committed to protecting that privacy and building a foundation of trust with our clientele by adhering to the strictest Internet privacy standards and deploying the most sophisticated security measures available. At FineStationery.com, we are dedicated to respecting your privacy and ensuring your security on our site. The following privacy and security policy is to inform you about how and why we collect any information about you, and what we use this information for on our website. 
+## FineStationery.com Privacy Policy
 
-**Information We Collect and How We Use it  
-** FineStationery.com collects from our users only the information that is necessary to complete an order - billing information and credit card. FineStationery.com is the solitary holder of the information collected on this site. We will not sell, share or rent this information to others in any ways other than disclosed in this privacy statement.
+_Privacy Policy last updated 08/27/2012._
 
-**Registration  
-** Registration is not required in order to use our site. Users have the option required to give their contact information (such as name and email address). This information is then used to contact the user about the products and services on our site for which they have expressed interest. 
+FineStationery®, recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
-**'My Account' Functionality  
-**Registration allows customers to utilize 'saved design' functionality on the website. Users can customize an unlimited number of stationery items. The text on these saved designs may contain personal information including addresses, contact information or dates of personal events. This information is only available to the registered user. The customer also has the ability to 'share their saved designs.' This is available so that a customer can allow other people to view or comment on their saved stationery designs. FineStationery.com will provide a link to the invitee to view the saved stationery. Saved designs are not available to any other parties. 
+  * the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, use our mobile applications, place orders through social media applications (such as our Facebook App) or otherwise contact us via telephone, email, fax or mail (collectively, our "Services"), 
+  * why we gather information from you, 
+  * how we collect it, 
+  * how we use it, and 
+  * the choices you have regarding our use of personal information you have provided.
 
-**Your Order**   
-We request information from the user on our order form. Here a user must provide contact information (like name, phone number and shipping address) and billing information (like credit card number, expiration date). This information is used for billing purposes and to fill the customer's order. If we have trouble processing an order, this contact information is used to get in touch with the user. If you submit a different address for shipping than for billing, that personal information is only used for the purpose of shipping the package. The shipping recipient will not be added to any marketing distribution list or future correspondence. **
 
-Orders Sent as Gifts
 
-** If you submit a different address for shipping than for billing, that personal information is only used for the purpose of shipping the package. The shipping recipient will not be 'opted-in' to any marketing distribution lists or future correspondence. You will have the ability to specify an email address for the recipient if you wish for FineStationery.com to send them an email notification 'gift message.' This gift notification is the only correspondence FineStationery.com will have with the recipient. 
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/s_aboutus_TermsofUse.cfm?), which governs your use of our Web Site located at www.finestationery.com (or the "Web Site"). The Services are owned by 1-800-Flowers.com, Inc. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores. 
 
-**Cookies  
-** A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+Note: You must be 18 years or older and the age of majority in your place of residence to use, subscribe or register as a member of FineStationey.com® (or 21 years or older in the event that you place a request for transmission of an order for a product containing alcohol). The Service is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under 13 years of age. 
 
-FineStationery.com also employs a third party clickstream tracking company. This provider is used to aggregate the visitor's site navigation and identify exit pages where customers leave the site. No personal identifying information is recorded by this tool, and only FineStationery.com has access to the summarized data. FineStationery.com does not share any of this information with other partners or vendors. 
+**Why do we gather information?**
 
-**Log Files  
-** We use IP addresses to analyze trends, administer the site, track the user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+FineStationery.com® gathers personal information to help improve our products and customer service, to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from us, our affiliated brands and selected third parties. 
 
-**Newsletter  
-** If a user wishes to subscribe to any future newsletter, we ask only for contact information such as name and email address. You may subscribe to the newsletter simply by sending an email to [info@finestationery.com](mailto:info@finestationery.com). You may unsubscribe by sending an email to the same address. 
+**What information do we gather?**
 
-**Security**   
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and offline. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing.' While we use encryption to protect sensitive information online, we also do everything in our power to protect user-information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. If you have any questions about the security at our website, you can send an email to:[customerservice@finestationery.com](mailto:customerservice@finestationery.com)
+We collect information through our Web Site, emails, mail, fax, telephone, mobile applications and social media applications (such as our Facebook App) including when you: 
 
-**Special Offers**   
-We send all new registered members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice policy below. 
+  * place an order, 
+  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and 
+  * engage in other activities, services, products and resources we make accessible to our customers, members or users.
 
-**Service Providers**   
-We co-brand a portion of our site with SurveyMonkey.com. Our Catalog Request page is framed to look like the FineStationery.com website, but SurveyMonkey.com is actually collecting the users shipping address, name, and email when a catalog request is submitted. SurveyMonkey.com only uses the information collected to consolidate our mailing list. Users will not receive any correspondence from SurveyMonkey.com. FineStationery.com uses the SurveyMonkey.com collected information to send out catalog requests.
 
-We have an in-house fulfillment department to ship orders and in-house, secure electronic transaction processing software to charge users for goods and services. These entities do not retain, share, store or use personally identifiable information for any secondary purposes, and are prohibited from using the data for any other purposes. 
 
-**Correction/Updating Personal Information:  
-** If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by emailing our Customer Support at [customerservice@finestationery.com](mailto:customerservice@finestationery.com)
+Depending on how you are interact with us, we collect some or all of the following types of information: 
 
-**Choice  
-** Registered users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications. Simply reply to the message and enter the word unsubscribe as the subject line. You may also unsubscribe by emailing us at [customerservice@FineStationery.com](mailto:customerservice@FineStationery.com). Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+  * your name, address, telephone number, email address, 
+  * billing information (credit/debit card number, expiration date, alternate or additional billing information and billing address), 
+  * gender and birth date, if you choose, or are otherwise required to, enter such information, 
+  * products purchased and occasion type (for example, Mother's Day), 
+  * any promotion or gift card code and related information (for example, if you are claiming frequent flyer miles), 
+  * Message and gift recipients' names, addresses, telephone numbers and email addresses, and 
+  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/s_aboutus_TermsofUse.cfm?)).
 
-**Notification of Changes**   
-If we change our privacy policy, we will post those changes on our website homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will only use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email at least 30 days prior to such change. In addition, the change to the privacy policy will be posted at the top of this page on the website. 
 
-**Legal Disclaimer  
-** Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website. 
 
-**Privacy Confirmation**   
-We agree to notify you of: 
+Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Other Members do not have the right to view and edit your Address Book entries. 
 
-If you have questions or concerns regarding this statement, you should first contact Customer Service at: 
+**How we use "Cookies" and "Action Tags".**
 
-Privacy Policy last updated 12/15/2009.
+A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the Services, such as the shopping basket, may not function properly. 
+
+We have relationships with third parties who may receive non-personal information directly from the cookies placed by our Services on your computer to assist in analyzing our business and customers. 
+
+Our Services may also use a common web technology "called "action tags" (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags may be used to provide data to third parties for tracking purposes. However, our Services do not use action tags to collect or transfer personal information. In addition, third parties may set their own cookies and tags through our Services (such as through interest-based advertising, described below). We do not control such third parties or their privacy practices. If you do not want third parties to be able to use such methods, you should modify your browser settings to limit such access. 
+
+**Interest-based advertising**
+
+Other services
+
+Advertisements for our products and services may appear on third party websites around the Internet. Some websites and services deliver these advertisements based upon data that has been previously collected about your past behavior online. For example, if you have viewed websites about gift baskets, these websites or services may display to you an advertisement for our gift baskets. This kind of targeted advertising is sometimes called interest-based or online behavioral advertising. It is generally not based upon your personal information, but rather, upon your online activities. 
+
+We do not control such third party websites or services on which these advertisements appear. Further, we do not control how they collect and use data about your online activities. However, you may opt-out of being tracked online by certain companies by visiting <http://www.aboutads.info/choices/> OR <http://www.networkadvertising.org/managing/opt_out.asp>. If you opt-out, you will still receive advertisements, but they will not be delivered to you based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, so if you delete your cookies or use a different computer, you will have to repeat this process. 
+
+Our Services
+
+In addition, from time-to-time, our Services may also carry advertisements from other companies. Some of these advertisements may be personalized, meaning that they are intended to be relevant to you based, for example, on commercial interests you have expressed during your online activities. You may opt-out of receiving this type of targeted advertising by visiting <http://www.aboutads.info/choices/> OR <http://www.networkadvertising.org/managing/opt_out.asp> to learn more about online behavioral advertising and how to opt-out from interest-based advertising ads served by some or all participating companies. Once again, if you opt-out, you will still receive advertisements, but they will not be delivered to you based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, so if you delete your cookies or use a different computer, you will have to repeat this process. 
+
+**How we use the information we collect**
+
+We use information we collect to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience, to inform you and your gift and message recipients of offers and discounts from FineStationery.com® and our affiliated brands and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. In addition, we may make such information (except for credit/debit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes. 
+
+However, without your consent, we do not make your, or your gift or message recipients' email addresses, available to “third parties” (as that term is defined and limited below). For example, we may make your postal address available to third parties for marketing purposes, however we would not share your email address without your consent. In addition, you may instruct that other personal information about you or your message or gift recipients' that you have provided to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below. 
+
+Our Affiliates, subcontractors, and agents, and any successors or assignees to our business (if we ever sell, lease, license or assign some or all of our business), are not considered to be third parties under this Policy. We may provide your information to our Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Policy, they are required to comply with this Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, 1-800-Flowers.com, Inc. 
+
+We may combine information we receive from you via our Services with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy. 
+
+We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Services, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/s_aboutus_TermsofUse.cfm?)). 
+
+**Please note that any personal information you reveal or post on one of our public forums (as defined in the[Terms of Use](https://web.archive.org/s_aboutus_TermsofUse.cfm?)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us and with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
+
+**Consent to Transfer and Submission**
+
+Our Services are operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to and stored in the United States. By using the Services or otherwise providing us with information, you hereby consent to this transfer. 
+
+Although personal information collected by us through the our Services will be used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries. 
+
+**Links to Other Services**
+
+FineStationery.com® wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party services, you will be subject to the privacy policies and terms of use of those services, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other service. 
+
+**Security and Passwords**
+
+If you place an order on our Web site, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft IE®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
+
+Portions of the Services (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Services (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts. 
+
+We may provide you with the ability to log into our Services using a social media account, such as Facebook Connect. We do not control the activities of such social media services and have no control over the data they collect or their privacy practices. You should review their privacy practices before using any such social media service. 
+
+**How to Limit the Use of Personal Information**
+
+We want to communicate with you only to the extent you want to hear from us. If you prefer not to have personal information collected from you via the Services shared with third parties, or to set your preferences concerning promotional communications, please follow the directions below. 
+
+**_From Third Parties_**
+
+We do not share email addresses you provide with third parties without your consent. In addition, if you prefer that other personal information provided by you not be shared with third parties, please let us know by emailing, writing or calling us as described below and identify the personal information that you would prefer not to be shared. Your instructions will be processed as soon as reasonably practicable and in accordance with law. 
+
+Emailing us at: [remove@finestationery.com](mailto:remove@finestationery.com) from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or 
+
+Writing us at:  
+Customer Satisfaction Department  
+FineStationery.com  
+201 West 14th Street, Suite 100  
+Wilmington, DE 19801  
+
+
+Telephoning us at 1-888.808.FINE (3463) 
+
+(Please, include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call). 
+
+**_From our Affiliates_**
+
+If you also prefer not to have us provide personal information about you to our Affiliates, please indicate in your email or letter that you wish your instructions to apply to our "Affiliates." 
+
+**_From FineStationery.com_**
+
+If you also prefer that we not use the personal information you have provided to contact you or your message or gift recipients for our own marketing and promotional purposes, please indicate in your email or letter that you wish your instructions to apply to "Fine Stationery." These instructions, however, do not apply to non-promotional transactional messages from us. 
+
+Please note that your instructions (above) do not govern the use of information you have provided directly to our Affiliates or to third parties (including any merchants referenced or accessible via our Service). The use of information you have provided directly to our Affiliates or to third parties is governed by their respective privacy policies and terms of use. 
+
+Any promotional email we send to you or your gift or message recipients will include a link to our Privacy Policy and a link to use to opt-out of receiving further promotional emails from the sender. 
+
+**Corrections**
+
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [update@finestationery.com](mailto:update@finestationery.com). 
+
+Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page. 
+
+**Your Consent and Changes to this Policy**
+
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy and Terms of Use from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will endeavor to post any material changes to the Privacy Policy and/or Terms of Use on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. 
+
+The date on which the current Privacy Policy and overall Terms of Use took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each). 
+
+By using FineStationery.com®, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part. 
+
+**Your Comments**
+
+FineStationery.com® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [feedback@finestationery.com](mailto:feedback@finestationery.com). 
+
+_Privacy Policy last updated 08/27/2012._
