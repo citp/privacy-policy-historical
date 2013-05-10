@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the govexec.com privacy policy that was archived on 2012-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106225616id_/http%3A//www.govexec.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the govexec.com privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510173420id_/http%3A//www.govexec.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>Privacy Policy - GovExec.com</title>
@@ -10,8 +10,9 @@
     
     
 
-    <link media="all" rel="stylesheet" type="text/css" href="http://cdn.govexec.com/css/all.css?v=1.3.5.1">
+    <link media="all" rel="stylesheet" type="text/css" href="http://cdn.govexec.com/css/all.css?v=1.4.3">
     <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://cdn.govexec.com/css/ie.css?v=1.2.8.6" /><![endif]-->
+
 
 
 
@@ -25,39 +26,47 @@
     <script type="text/javascript" src="http://cdn.govexec.com/js/omniture/s-code.js?v=1.1"></script>
     <script type="text/javascript" src="http://cdn.govexec.com/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="http://cdn.govexec.com/js/jquery-ui-1.8.21.custom.min.js"></script><!-- custom download: Core, Effects Core, Effect "Fade" -->
-    <script type="text/javascript" src="http://cdn.govexec.com/js/jquery.main.js?v=1.3.5"></script>
+    <script type="text/javascript" src="http://cdn.govexec.com/js/jquery.main.js?v=1.3.14"></script>
+    <script type="text/javascript" src="http://cdn.govexec.com/js/ad-toggle.js"></script>
 
 
 
 
 
 
-   <script type="text/javascript">
-   //<![CDATA[
-     var isiPad = navigator.userAgent.match(/iPad/i) != null;
-     // iPad detection and  check for onswipe_redirect=never in the URL
-     if (isiPad && !$.cookie("desktopPreferred")) {
-       function getUrlVar(key){
-         var result = new RegExp(key + "=([^&]*)", "i").exec(window.location.search);
-         return result && encodeURIComponent(result[1]) || "";
-       }
-       if (getUrlVar("onswipe_redirect") == "never") {
-         // set cookie to enable welcome ad for iPad
-         $.cookie("desktopPreferred", "1");
-       }
-     }
-     if (!$.cookie("welcomeAdViewed") && (!isiPad || isiPad && $.cookie("desktopPreferred"))) {
-       $.cookie("cookiesEnabled", "1");
-       if ($.cookie("cookiesEnabled"))	{
-         $.removeCookie("cookiesEnabled");
-         currentDate = new Date();
-         eod = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 23, 59, 0, 0);
-         $.cookie("welcomeAdViewed", "1", Math.round((eod.getTime() - currentDate.getTime()) / 1000));
-         window.location = 'http://cdn.govexec.com/interstitial.html?rf='+encodeURIComponent(window.location);
-       }
-     }
-   //]]>
-   </script>
+  <script type="text/javascript">
+    //<![CDATA[
+    
+      var suppressWelcomeAd = false;
+    
+
+    var isiPad = navigator.userAgent.match(/iPad/i) != null;
+    // iPad detection and  check for onswipe_redirect=never in the URL
+    if (isiPad && !$.cookie("desktopPreferred")) {
+      function getUrlVar(key){
+        var result = new RegExp(key + "=([^&]*)", "i").exec(window.location.search);
+        return result && encodeURIComponent(result[1]) || "";
+      }
+      if (getUrlVar("onswipe_redirect") == "never") {
+        // set cookie to enable welcome ad for iPad
+        $.cookie("desktopPreferred", "1");
+      }
+    }
+    if (!$.cookie("welcomeAdViewed") && (!isiPad || isiPad && $.cookie("desktopPreferred"))) {
+      $.cookie("cookiesEnabled", "1");
+      if ($.cookie("cookiesEnabled"))	{
+        $.removeCookie("cookiesEnabled");
+        currentDate = new Date();
+        eod = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 23, 59, 0, 0);
+        $.cookie("welcomeAdViewed", "1", Math.round((eod.getTime() - currentDate.getTime()) / 1000));
+
+        if (!suppressWelcomeAd) {
+          window.location = 'http://cdn.govexec.com/interstitial.html?rf='+encodeURIComponent(window.location);
+        }
+      }
+    }
+    //]]>
+  </script>
 
    <script type="text/javascript">
    //<![CDATA[
@@ -156,7 +165,7 @@ s.hier1="static/privacy policy"
 s.hier2=""
 s.hier3=""
 
-if (adblock || $.cookie("aDisabled")) {
+if (adblock) {
   s.prop32 = "True";
 }
 
@@ -201,6 +210,7 @@ height="1" width="1" alt="" /></a>
               <li><a href="/events/">EVENTS</a></li>
               <li><a href="/magazine/">MAGAZINE</a></li>
               <li><a href="/mailbag/">MAILBAG</a></li>
+              <li><a href="http://jobs.govexec.com/home/">JOBS</a></li>
             </ul>
           </div>
         </div>
@@ -208,58 +218,88 @@ height="1" width="1" alt="" /></a>
 
 
 
+
   <div class="box">
-    <a href="/management/2012-election/58058/?oref=skybox">
-      <img src="http://cdn.govexec.com/media/img/upload/2012/09/12/091212votehereGE/skybox.jpg" alt="" title="" height="89" width="148">
+    
+  		<div>
+  	
+    <a href="/oversight/2013/05/play-day-air-hockey-diplomacy-late-night-video-comedy/63093/?oref=skybox">
+      <img src="http://cdn.govexec.com/media/img/upload/2013/05/10/051013putinkerryGE/skybox.jpg" alt="" title="" height="89" width="148">
 
 
-      <strong class="title">Special Report: The 2012 Election</strong>
+      <strong class="title">Video: Leno on Air Hockey Diplomacy</strong>
     </a>
+	</div>
   </div>
 
+
   <div class="box">
-    <a href="/pay-benefits/2012/11/retirement-backlog-down-39-percent-january/59286/?oref=skybox">
-      <img src="http://cdn.govexec.com/media/img/upload/2012/11/05/110512retirementbacklogGE/skybox.jpg" alt="" title="" height="89" width="148">
+    
+  		<div>
+  	
+    <a href="/management/2013/05/bring-federal-conferences-back-las-vegas-lawmakers-say/63081/?oref=skybox">
+      <img src="http://cdn.govexec.com/media/img/upload/2013/05/09/050913lasvegasGE/skybox.jpg" alt="" title="" height="89" width="148">
 
 
-      <strong class="title">Retirement Backlog Shrinks Some More</strong>
+      <strong class="title">More Fed Conferences in Las Vegas?</strong>
     </a>
+	</div>
   </div>
 
+
   <div class="box">
-    <a href="/contracting/2012/11/contractors-eye-post-election-musical-chairs-senate-panel/59266/?oref=skybox">
-      <img src="http://cdn.govexec.com/media/img/upload/2012/11/05/110512claireGE/skybox.jpg" alt="Sen. Claire McCaskill, D-Mo., has been facing a tight reelection bid." title="Sen. Claire McCaskill, D-Mo., has been facing a tight reelection bid." height="89" width="148">
+    
+  		<div>
+  	
+    <a href="/pay-benefits/2013/05/sequester-postal-departures-weigh-retirement-claims-backlog/63083/?oref=skybox">
+      <img src="http://cdn.govexec.com/media/img/upload/2013/05/09/050913paperworkGE/skybox.jpg" alt="" title="" height="89" width="148">
 
 
-      <strong class="title">Federal Contractors Watch the Senate</strong>
+      <strong class="title">Sequester, USPS Weigh on Retirement Backlog</strong>
     </a>
+	</div>
   </div>
 
+
   <div class="box">
-    <a href="/pay-benefits/2012/11/four-former-lawmakers-receiving-six-figure-pensions/59272/?oref=skybox">
-      <img src="http://cdn.govexec.com/media/img/upload/2012/11/05/110512yoderGE/skybox.jpg" alt="Rep. Kevin Yoder, R-Kan." title="Rep. Kevin Yoder, R-Kan." height="89" width="148">
+    
+  		<div>
+  	
+    <a href="/excellence/promising-practices/2013/05/shorter-your-first-name-bigger-your-paycheck/63012/?oref=skybox">
+      <img src="http://cdn.govexec.com/media/img/upload/2013/05/07/shutterstock_100249865/skybox.jpg" alt="" title="" height="89" width="148">
 
 
-      <strong class="title">Sweet Lawmaker Pensions</strong>
+      <strong class="title">Shorter the Name, Bigger the Paycheck</strong>
     </a>
+	</div>
   </div>
 
+
   <div class="box">
-    <a href="/excellence/promising-practices/2012/11/infographic-who-actually-votes-america/59254/?oref=skybox">
-      <img src="http://cdn.govexec.com/media/img/upload/2012/11/05/shutterstock_114656170/skybox.jpg" alt="" title="" height="89" width="148">
+    
+  		<div>
+  	
+    <a href="http://www.nextgov.com/cio-briefing/bold-awards/61734/">
+      <img src="http://cdn.govexec.com/media/img/upload/2013/05/08/trek03_4/skybox.jpg" alt="" title="" height="89" width="148">
 
 
-      <strong class="title">Infographic: Who Actually Votes in America? </strong>
+      <strong class="title">Boldly Go Where No Fed's Gone Before</strong>
     </a>
+	</div>
   </div>
 
+
   <div class="box">
-    <a href="http://www.govexec.com/management/2012/09/obama-v-romney-federal-pay-size-government-and-management/57950/">
-      <img src="http://cdn.govexec.com/media/img/upload/2012/10/31/103112debateGE/skybox.jpg" alt="" title="" height="89" width="148">
+    
+  		<div>
+  	
+    <a href="/federal-news/fedblog/2013/05/sale-air-force-one/63082/?oref=skybox">
+      <img src="http://cdn.govexec.com/media/img/upload/2013/05/09/050913airforceoneFB/skybox.jpg" alt="" title="" height="89" width="148">
 
 
-      <strong class="title">Obama v. Romney on Federal Employee Issues</strong>
+      <strong class="title">For Sale: Air Force One </strong>
     </a>
+	</div>
   </div>
 
         </div>
@@ -280,7 +320,7 @@ var this_ad_link = 'http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=to
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=topleader;sz=728x90;tile=1;ord=034099144?"></script>
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=topleader;sz=728x90;tile=1;ord=968272264?"></script>
     
       <noscript>
       <a href="http://ad.doubleclick.net/N617/jump/govexec.com/about ;pos=topleader;sz=728x90;tile=2;" title="">
@@ -313,40 +353,43 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <div class="top-story">
                 
                   <div class="holder">
-                    <strong class="heading"><a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown">TOP STORY</a></strong>
+                    <strong class="heading"><a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown">TOP STORY</a></strong>
                     <div class="block">
-                      <a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2012/11/06/110612pennvoteGE/thumb-large.jpg" alt="A sign shows voters the poling place in Scranton." title="A sign shows voters the poling place in Scranton." height="131" width="218"></a>
+                      <a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2013/05/10/051013postalserviceGE/thumb-large.jpg" alt="U.S. Postal Service letter carrier of 12 years, Jamesa Euler, turns down the flag on a mailbox while delivering mail in Atlanta." title="U.S. Postal Service letter carrier of 12 years, Jamesa Euler, turns down the flag on a mailbox while delivering mail in Atlanta." height="131" width="218"></a>
                       <div class="text-box">
-                        <strong class="title"><a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown">Voting has been particularly confusing in battleground states</a></strong>
+                        <strong class="title"><a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown">Postal Service Loses Nearly $2 Billion in Second Quarter</a></strong>
                         <div class="story-info">
-                          <em class="date">4:42 PM ET</em>
-                          <a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_59312">comments</a>
+                          <em class="date">12:25 PM ET</em>
+                          <a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_63099">comments</a>
                         </div>
                         <p>
-                           Pennsylvania voter-identification law  is not in effect, but has caused delays.
+                           Losses are less than last year, but USPS needs Congress' help to reach solvency, officials say.
                         </p>
                         <div class="wrap">
-                          <a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown" class="more">READ MORE</a>
+                          <a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown" class="more">READ MORE</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 
                 </div>
+                
+                
+                
                 <div class="news full-width">
                   <div class="latest-news">
                     <strong class="heading"><a href="/federal-news/?oref=dropdown">LATEST NEWS</a></strong>
                     <ul>
                       
-                      <li><strong class="title"><a href="/oversight/2012/11/are-feds-really-free-make-campaign-contributions/59310/?oref=dropdown">Are feds really free to make campaign contributions?</a></strong><em class="date">3:42 PM ET</em></li>
+                      <li><strong class="title"><a href="/management/2013/05/tea-party-gets-apology-irs/63100/?oref=dropdown">Tea Party Gets an Apology From the IRS</a></strong><em class="date">12:22 PM ET</em></li>
                       
-                      <li><strong class="title"><a href="/oversight/2012/11/top-10-democratic-presidential-contenders-2016/59308/?oref=dropdown">Top 10 Democratic presidential contenders for 2016</a></strong><em class="date">2:16 PM ET</em></li>
+                      <li><strong class="title"><a href="/defense/2013/05/obama-seeks-senate-confirmation-top-arms-control-post-state/63097/?oref=dropdown">Obama Seeks Senate Confirmation for Top Arms Control Post at State</a></strong><em class="date">10:20 AM ET</em></li>
                       
-                      <li><strong class="title"><a href="/oversight/2012/11/top-10-republican-presidential-contenders-2016/59305/?oref=dropdown">Top 10 Republican presidential contenders for 2016</a></strong><em class="date">2:02 PM ET</em></li>
+                      <li><strong class="title"><a href="/oversight/2013/05/analysis-why-cheap-regulation-creates-expensive-crises/63095/?oref=dropdown">Analysis: Why Cheap Regulation Creates Expensive Crises</a></strong><em class="date">9:59 AM ET</em></li>
                       
                     </ul>
-                  </div>
-			  
+                  </div>  
+                  
                 </div>
                 
               </div>
@@ -365,40 +408,43 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <div class="top-story">
                 
                   <div class="holder">
-                    <strong class="heading"><a href="/management/2012/11/capitol-christmas-tree-en-route-washington/59304/?oref=dropdown">TOP STORY</a></strong>
+                    <strong class="heading"><a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown">TOP STORY</a></strong>
                     <div class="block">
-                      <a href="/management/2012/11/capitol-christmas-tree-en-route-washington/59304/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2012/11/06/110612captreeGE/thumb-large.jpg" alt="The tree was lit last year by John Boehner." title="The tree was lit last year by John Boehner." height="131" width="218"></a>
+                      <a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2013/05/10/051013postalserviceGE/thumb-large.jpg" alt="U.S. Postal Service letter carrier of 12 years, Jamesa Euler, turns down the flag on a mailbox while delivering mail in Atlanta." title="U.S. Postal Service letter carrier of 12 years, Jamesa Euler, turns down the flag on a mailbox while delivering mail in Atlanta." height="131" width="218"></a>
                       <div class="text-box">
-                        <strong class="title"><a href="/management/2012/11/capitol-christmas-tree-en-route-washington/59304/?oref=dropdown">Capitol Christmas tree en route to Washington</a></strong>
+                        <strong class="title"><a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown">Postal Service Loses Nearly $2 Billion in Second Quarter</a></strong>
                         <div class="story-info">
-                          <em class="date">1:25 PM ET</em>
-                          <a href="/management/2012/11/capitol-christmas-tree-en-route-washington/59304/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_59304">comments</a>
+                          <em class="date">12:25 PM ET</em>
+                          <a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_63099">comments</a>
                         </div>
                         <p>
-                           'The People's Tree' will be displayed in towns in Colorado, Texas and New Mexico on its way.
+                           Losses are less than last year, but USPS needs Congress' help to reach solvency, officials say.
                         </p>
                         <div class="wrap">
-                          <a href="/management/2012/11/capitol-christmas-tree-en-route-washington/59304/?oref=dropdown" class="more">READ MORE</a>
+                          <a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown" class="more">READ MORE</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 
                 </div>
+                
+                
+                
                 <div class="news full-width">
                   <div class="latest-news">
                     <strong class="heading"><a href="/management/?oref=dropdown">LATEST NEWS</a></strong>
                     <ul>
                       
-                      <li><strong class="title"><a href="/excellence/promising-practices/2012/11/see-facebooks-map-election-day-voting-real-time/59317/?oref=dropdown">See Facebook's Map of Election Day Voting in Real-Time</a></strong><em class="date">5:15 PM ET</em></li>
+                      <li><strong class="title"><a href="/management/2013/05/tea-party-gets-apology-irs/63100/?oref=dropdown">Tea Party Gets an Apology From the IRS</a></strong><em class="date">12:22 PM ET</em></li>
                       
-                      <li><strong class="title"><a href="/excellence/promising-practices/2012/11/post-election-blues-your-first-step-toward-recovery-electoral-insanity/59309/?oref=dropdown">Post-Election Blues: How to Recover from Electoral Insanity</a></strong><em class="date">4:00 PM ET</em></li>
+                      <li><strong class="title"><a href="/excellence/promising-practices/2013/05/why-ses-doesnt-work-and-how-fix-it/63096/?oref=dropdown">Why the SES Doesn’t Work, And How to Fix It</a></strong><em class="date">10:17 AM ET</em></li>
                       
-                      <li><strong class="title"><a href="/excellence/promising-practices/2012/11/exercising-leadership-obamas-mental-emotional-fitness/59306/?oref=dropdown">Exercising Leadership: Obama’s Mental &amp; Emotional Fitness</a></strong><em class="date">2:36 PM ET</em></li>
+                      <li><strong class="title"><a href="/excellence/promising-practices/2013/05/executive-summary-how-prepare-summer-intern-and-more/63088/?oref=dropdown">Executive Summary: 5 Best Management Tips of the Week</a></strong><em class="date">May 9, 2013</em></li>
                       
                     </ul>
-                  </div>
-			  
+                  </div>  
+                  
                 </div>
                 
               </div>
@@ -417,40 +463,44 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <div class="top-story">
                 
                   <div class="holder">
-                    <strong class="heading"><a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown">TOP STORY</a></strong>
+                    <strong class="heading"><a href="/oversight/2013/05/analysis-why-cheap-regulation-creates-expensive-crises/63095/?oref=dropdown">TOP STORY</a></strong>
                     <div class="block">
-                      <a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2012/11/06/110612pennvoteGE/thumb-large.jpg" alt="A sign shows voters the poling place in Scranton." title="A sign shows voters the poling place in Scranton." height="131" width="218"></a>
+                      <a href="/oversight/2013/05/analysis-why-cheap-regulation-creates-expensive-crises/63095/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2013/05/10/051013boeingGE/thumb-large.jpg" alt="" title="" height="131" width="218"></a>
                       <div class="text-box">
-                        <strong class="title"><a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown">Voting has been particularly confusing in battleground states</a></strong>
+                        <strong class="title"><a href="/oversight/2013/05/analysis-why-cheap-regulation-creates-expensive-crises/63095/?oref=dropdown">Analysis: Why Cheap Regulation Creates Expensive Crises</a></strong>
                         <div class="story-info">
-                          <em class="date">4:42 PM ET</em>
-                          <a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_59312">comments</a>
+                          <em class="date">9:59 AM ET</em>
+                          <a href="/oversight/2013/05/analysis-why-cheap-regulation-creates-expensive-crises/63095/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_63095">comments</a>
                         </div>
                         <p>
-                           Pennsylvania voter-identification law  is not in effect, but has caused delays.
+                           Do you want Boeing deciding if its airplanes are safe? Or JPMorgan deciding if its bets are sensible?
+
                         </p>
                         <div class="wrap">
-                          <a href="/oversight/2012/11/voting-has-been-particularly-confusing-battleground-states/59312/?oref=dropdown" class="more">READ MORE</a>
+                          <a href="/oversight/2013/05/analysis-why-cheap-regulation-creates-expensive-crises/63095/?oref=dropdown" class="more">READ MORE</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 
                 </div>
+                
+                
+                
                 <div class="news full-width">
                   <div class="latest-news">
                     <strong class="heading"><a href="/oversight/?oref=dropdown">LATEST NEWS</a></strong>
                     <ul>
                       
-                      <li><strong class="title"><a href="/oversight/2012/11/are-feds-really-free-make-campaign-contributions/59310/?oref=dropdown">Are feds really free to make campaign contributions?</a></strong><em class="date">3:42 PM ET</em></li>
+                      <li><strong class="title"><a href="/oversight/2013/05/play-day-air-hockey-diplomacy-late-night-video-comedy/63093/?oref=dropdown">Play of the Day: Air Hockey Diplomacy</a></strong><em class="date">9:42 AM ET</em></li>
                       
-                      <li><strong class="title"><a href="/oversight/2012/11/top-10-democratic-presidential-contenders-2016/59308/?oref=dropdown">Top 10 Democratic presidential contenders for 2016</a></strong><em class="date">2:16 PM ET</em></li>
+                      <li><strong class="title"><a href="/oversight/2013/05/coming-gop-civil-war-over-climate-change/63091/?oref=dropdown">The Coming GOP Civil War Over Climate Change</a></strong><em class="date">9:28 AM ET</em></li>
                       
-                      <li><strong class="title"><a href="/oversight/2012/11/top-10-republican-presidential-contenders-2016/59305/?oref=dropdown">Top 10 Republican presidential contenders for 2016</a></strong><em class="date">2:02 PM ET</em></li>
+                      <li><strong class="title"><a href="/pay-benefits/2013/05/sequester-postal-departures-weigh-retirement-claims-backlog/63083/?oref=dropdown">Sequester, Postal Departures Weigh on Retirement Claims Backlog </a></strong><em class="date">May 9, 2013</em></li>
                       
                     </ul>
-                  </div>
-			  
+                  </div>  
+                  
                 </div>
                 
               </div>
@@ -469,40 +519,43 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <div class="top-story">
                 
                   <div class="holder">
-                    <strong class="heading"><a href="/defense/2012/11/syrian-rebel-leader-pulling-romney/59297/?oref=dropdown">TOP STORY</a></strong>
+                    <strong class="heading"><a href="/defense/2013/05/obama-seeks-senate-confirmation-top-arms-control-post-state/63097/?oref=dropdown">TOP STORY</a></strong>
                     <div class="block">
-                      <a href="/defense/2012/11/syrian-rebel-leader-pulling-romney/59297/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2012/11/06/110612syrianrebelsGE/thumb-large.jpg" alt="Nov. 04, 2012, a rebel fighter aims a missile toward a building where Syrian troops are hiding." title="Nov. 04, 2012, a rebel fighter aims a missile toward a building where Syrian troops are hiding." height="131" width="218"></a>
+                      <a href="/defense/2013/05/obama-seeks-senate-confirmation-top-arms-control-post-state/63097/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2013/05/10/051013roseGE/thumb-large.jpg" alt="Rose Gottemoeller" title="Rose Gottemoeller" height="131" width="218"></a>
                       <div class="text-box">
-                        <strong class="title"><a href="/defense/2012/11/syrian-rebel-leader-pulling-romney/59297/?oref=dropdown">Syrian rebel leader is pulling for Romney</a></strong>
+                        <strong class="title"><a href="/defense/2013/05/obama-seeks-senate-confirmation-top-arms-control-post-state/63097/?oref=dropdown">Obama Seeks Senate Confirmation for Top Arms Control Post at State</a></strong>
                         <div class="story-info">
-                          <em class="date">12:00 PM ET</em>
-                          <a href="/defense/2012/11/syrian-rebel-leader-pulling-romney/59297/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_59297">comments</a>
+                          <em class="date">10:20 AM ET</em>
+                          <a href="/defense/2013/05/obama-seeks-senate-confirmation-top-arms-control-post-state/63097/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_63097">comments</a>
                         </div>
                         <p>
-                           A general on the rebel's military council believes Mitt Romney is more likely to intervene in their conflict
+                           Rose Gottemoeller tapped to succeed Ellen Tauscher. 
                         </p>
                         <div class="wrap">
-                          <a href="/defense/2012/11/syrian-rebel-leader-pulling-romney/59297/?oref=dropdown" class="more">READ MORE</a>
+                          <a href="/defense/2013/05/obama-seeks-senate-confirmation-top-arms-control-post-state/63097/?oref=dropdown" class="more">READ MORE</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 
                 </div>
+                
+                
+                
                 <div class="news full-width">
                   <div class="latest-news">
                     <strong class="heading"><a href="/defense/?oref=dropdown">LATEST NEWS</a></strong>
                     <ul>
                       
-                      <li><strong class="title"><a href="/defense/2012/11/gop-lawmakers-say-thousands-military-votes-will-not-be-counted/59293/?oref=dropdown">GOP lawmakers say ‘thousands’ of military votes will not be counted</a></strong><em class="date">9:04 AM ET</em></li>
+                      <li><strong class="title"><a href="/defense/2013/05/border-hawks-have-already-won/63094/?oref=dropdown">The Border Hawks Have Already Won</a></strong><em class="date">9:51 AM ET</em></li>
                       
-                      <li><strong class="title"><a href="/contracting/2012/11/contractors-eye-post-election-musical-chairs-senate-panel/59266/?oref=dropdown">Contractors eye post-election musical chairs on Senate panel</a></strong><em class="date">November 5, 2012</em></li>
+                      <li><strong class="title"><a href="http://www.nextgov.com/defense/2013/05/hagel-presses-air-force-details-discipline-nuclear-missile-staffers/63074/?oref=dropdown">Hagel Presses Air Force for Details on Discipline of Nuclear Missile Staffers</a></strong><em class="date">May 9, 2013</em></li>
                       
-                      <li><strong class="title"><a href="http://www.nextgov.com/defense/2012/11/dewatering-swat-team-has-been-pumping-out-more-olympic-size-pool-minute/59263/?oref=dropdown">Dewatering SWAT Team has been pumping out more than an Olympic-size pool per minute</a></strong><em class="date">November 5, 2012</em></li>
+                      <li><strong class="title"><a href="/defense/2013/05/transparency-and-accountability-dont-hurt-securitytheyre-crucial-it/63060/?oref=dropdown">Transparency and Accountability Don't Hurt Security—They're Crucial to It</a></strong><em class="date">May 9, 2013</em></li>
                       
                     </ul>
-                  </div>
-			  
+                  </div>  
+                  
                 </div>
                 
               </div>
@@ -521,40 +574,43 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <div class="top-story">
                 
                   <div class="holder">
-                    <strong class="heading"><a href="/technology/2012/11/false-alarm-triggers-rare-book-scare-library-congress/59287/?oref=dropdown">TOP STORY</a></strong>
+                    <strong class="heading"><a href="/technology/2013/05/future-public-roads-private-hands/62984/?oref=dropdown">TOP STORY</a></strong>
                     <div class="block">
-                      <a href="/technology/2012/11/false-alarm-triggers-rare-book-scare-library-congress/59287/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2012/11/05/110512locGE/thumb-large.jpg" alt="" title="" height="131" width="218"></a>
+                      <a href="/technology/2013/05/future-public-roads-private-hands/62984/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2013/05/06/050613highwaysGE/thumb-large.jpg" alt="" title="" height="131" width="218"></a>
                       <div class="text-box">
-                        <strong class="title"><a href="/technology/2012/11/false-alarm-triggers-rare-book-scare-library-congress/59287/?oref=dropdown">False alarm triggers rare book scare at Library of Congress</a></strong>
+                        <strong class="title"><a href="/technology/2013/05/future-public-roads-private-hands/62984/?oref=dropdown">The Future of Public Roads Is in Private Hands</a></strong>
                         <div class="story-info">
-                          <em class="date">November 5, 2012</em>
-                          <a href="/technology/2012/11/false-alarm-triggers-rare-book-scare-library-congress/59287/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_59287">comments</a>
+                          <em class="date">May 6, 2013</em>
+                          <a href="/technology/2013/05/future-public-roads-private-hands/62984/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_62984">comments</a>
                         </div>
                         <p>
-                           The Architect of the Capitol is investigating. 
+                           More and more states are privatizing highways and roads. Whether that's a good thing or a bad thing is a matter of increasing debate.
                         </p>
                         <div class="wrap">
-                          <a href="/technology/2012/11/false-alarm-triggers-rare-book-scare-library-congress/59287/?oref=dropdown" class="more">READ MORE</a>
+                          <a href="/technology/2013/05/future-public-roads-private-hands/62984/?oref=dropdown" class="more">READ MORE</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 
                 </div>
+                
+                
+                
                 <div class="news full-width">
                   <div class="latest-news">
                     <strong class="heading"><a href="/technology/?oref=dropdown">LATEST NEWS</a></strong>
                     <ul>
                       
-                      <li><strong class="title"><a href="/technology/2012/11/dhs-secretary-issues-waiver-so-ships-can-take-fuel-disaster-areas/59242/?oref=dropdown">DHS secretary issues waiver so ships can take fuel to disaster areas</a></strong><em class="date">November 2, 2012</em></li>
+                      <li><strong class="title"><a href="/technology/2013/05/white-house-convenes-scientists-discuss-worlds-new-ocean/62976/?oref=dropdown">The White House Convenes Scientists to Discuss the World's New Ocean</a></strong><em class="date">May 3, 2013</em></li>
                       
-                      <li><strong class="title"><a href="/technology/2012/10/what-national-unwatering-swat-team-does/59135/?oref=dropdown">This is what the National Unwatering SWAT Team does</a></strong><em class="date">October 30, 2012</em></li>
+                      <li><strong class="title"><a href="/technology/2013/05/nearly-200-federal-buildings-grow-less-green/62968/?oref=dropdown">Nearly 200 Federal Buildings Grow Less Green</a></strong><em class="date">May 3, 2013</em></li>
                       
-                      <li><strong class="title"><a href="/pay-benefits/2012/10/thrift-savings-plan-closed-hurricane-sandy-along-financial-markets/59125/?oref=dropdown">Thrift Savings Plan closed for Hurricane Sandy, along with the financial markets</a></strong><em class="date">October 30, 2012</em></li>
+                      <li><strong class="title"><a href="/technology/2013/05/faa-puts-plan-air-controllers-report-weather/62948/?oref=dropdown">FAA Puts Off Plan for Air Controllers to Report on Weather</a></strong><em class="date">May 2, 2013</em></li>
                       
                     </ul>
-                  </div>
-			  
+                  </div>  
+                  
                 </div>
                 
               </div>
@@ -573,51 +629,44 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <div class="top-story">
                 
                   <div class="holder">
-                    <strong class="heading"><a href="/contracting/2012/11/contractors-eye-post-election-musical-chairs-senate-panel/59266/?oref=dropdown">TOP STORY</a></strong>
+                    <strong class="heading"><a href="/contracting/2013/05/most-top-contractors-increased-business-federal-government-2012/63049/?oref=dropdown">TOP STORY</a></strong>
                     <div class="block">
-                      <a href="/contracting/2012/11/contractors-eye-post-election-musical-chairs-senate-panel/59266/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2012/11/05/110512claireGE/thumb-large.jpg" alt="Sen. Claire McCaskill, D-Mo., has been facing a tight reelection bid." title="Sen. Claire McCaskill, D-Mo., has been facing a tight reelection bid." height="131" width="218"></a>
+                      <a href="/contracting/2013/05/most-top-contractors-increased-business-federal-government-2012/63049/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2013/05/08/050813northropGE/thumb-large.jpg" alt="A contractor is silhouetted at the Singapore Airshow in 2009. Northrop Grumman is a top federal contractor. " title="A contractor is silhouetted at the Singapore Airshow in 2009. Northrop Grumman is a top federal contractor. " height="131" width="218"></a>
                       <div class="text-box">
-                        <strong class="title"><a href="/contracting/2012/11/contractors-eye-post-election-musical-chairs-senate-panel/59266/?oref=dropdown">Contractors eye post-election musical chairs on Senate panel</a></strong>
+                        <strong class="title"><a href="/contracting/2013/05/most-top-contractors-increased-business-federal-government-2012/63049/?oref=dropdown">Most Top Contractors Increased Business With Federal Government in 2012</a></strong>
                         <div class="story-info">
-                          <em class="date">November 5, 2012</em>
-                          <a href="/contracting/2012/11/contractors-eye-post-election-musical-chairs-senate-panel/59266/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_59266">comments</a>
+                          <em class="date">May 8, 2013</em>
+                          <a href="/contracting/2013/05/most-top-contractors-increased-business-federal-government-2012/63049/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_63049">comments</a>
                         </div>
                         <p>
-                           Claire McCaskill’s temporary oversight committee faces uncertain future.
+                           Despite downtick in overall contract spending, large companies found ways to increase revenues. 
                         </p>
                         <div class="wrap">
-                          <a href="/contracting/2012/11/contractors-eye-post-election-musical-chairs-senate-panel/59266/?oref=dropdown" class="more">READ MORE</a>
+                          <a href="/contracting/2013/05/most-top-contractors-increased-business-federal-government-2012/63049/?oref=dropdown" class="more">READ MORE</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 
                 </div>
-                <div class="news">
+                
+                
+                
+                <div class="news full-width">
                   <div class="latest-news">
                     <strong class="heading"><a href="/contracting/?oref=dropdown">LATEST NEWS</a></strong>
                     <ul>
                       
-                      <li><strong class="title"><a href="http://www.nextgov.com/defense/2012/11/dhs-contractor-allegedly-fixed-airplane-paper-clips/59201/?oref=dropdown">DHS contractor allegedly fixed an airplane with paper clips</a></strong><em class="date">November 1, 2012</em></li>
+                      <li><strong class="title"><a href="/defense/2013/05/longtime-dcaa-whistleblower-keeps-discontent-alive/63027/?oref=dropdown">Longtime Whistleblower at the Defense Contract Audit Agency Keeps Discontent Alive</a></strong><em class="date">May 8, 2013</em></li>
                       
-                      <li><strong class="title"><a href="/contracting/2012/10/gsa-rushes-supplies-sandy-response-teams/59173/?oref=dropdown">GSA rushes supplies to Sandy response teams</a></strong><em class="date">October 31, 2012</em></li>
+                      <li><strong class="title"><a href="/contracting/2013/05/defense-contract-awards-down-52-percent-april/63016/?oref=dropdown">Defense Contract Awards Down 52 Percent in April</a></strong><em class="date">May 7, 2013</em></li>
                       
-                      <li><strong class="title"><a href="http://www.nextgov.com/defense/2012/10/pentagon-withholds-47-million-lockheed-f-35/59160/?oref=dropdown">Pentagon withholds $47 million from Lockheed on F-35</a></strong><em class="date">October 31, 2012</em></li>
+                      <li><strong class="title"><a href="/contracting/2013/04/tired-poorly-trained-guard-dogs-could-endanger-nuclear-arms-site/62865/?oref=dropdown">Tired, Poorly Trained Guard Dogs Could Endanger Nuclear Arms Site</a></strong><em class="date">April 29, 2013</em></li>
                       
                     </ul>
-                  </div>
-			  
+                  </div>  
+                  
                 </div>
-                
-                  <div class="sponsored">
-                    <div class="holder">
-                        <strong class="heading"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=46819655&amp;iu=/617/govexec.com/homepage" rel="external">SPONSORED BY</a></strong>
-                        <a href="http://pubads.g.doubleclick.net/gampad/clk?id=46819655&amp;iu=/617/govexec.com/homepage" rel="external"><img src="http://cdn.govexec.com/media/img/upload/2012/04/16/GSA_LOGO/thumb-autosized.jpg" alt="" title=""></a>
-                        <p>
-                          
-                        </p>
-                    </div>
-                  </div>
                 
               </div>
               <div class="b"></div>
@@ -635,40 +684,43 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <div class="top-story">
                 
                   <div class="holder">
-                    <strong class="heading"><a href="/pay-benefits/2012/11/retirement-backlog-down-39-percent-january/59286/?oref=dropdown">TOP STORY</a></strong>
+                    <strong class="heading"><a href="/pay-benefits/2013/05/sequester-postal-departures-weigh-retirement-claims-backlog/63083/?oref=dropdown">TOP STORY</a></strong>
                     <div class="block">
-                      <a href="/pay-benefits/2012/11/retirement-backlog-down-39-percent-january/59286/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2012/11/05/110512retirementbacklogGE/thumb-large.jpg" alt="" title="" height="131" width="218"></a>
+                      <a href="/pay-benefits/2013/05/sequester-postal-departures-weigh-retirement-claims-backlog/63083/?oref=dropdown"><img src="http://cdn.govexec.com/media/img/upload/2013/05/09/050913paperworkGE/thumb-large.jpg" alt="" title="" height="131" width="218"></a>
                       <div class="text-box">
-                        <strong class="title"><a href="/pay-benefits/2012/11/retirement-backlog-down-39-percent-january/59286/?oref=dropdown">Retirement backlog is down 39 percent since January</a></strong>
+                        <strong class="title"><a href="/pay-benefits/2013/05/sequester-postal-departures-weigh-retirement-claims-backlog/63083/?oref=dropdown">Sequester, Postal Departures Weigh on Retirement Claims Backlog </a></strong>
                         <div class="story-info">
-                          <em class="date">November 5, 2012</em>
-                          <a href="/pay-benefits/2012/11/retirement-backlog-down-39-percent-january/59286/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_59286">comments</a>
+                          <em class="date">May 9, 2013</em>
+                          <a href="/pay-benefits/2013/05/sequester-postal-departures-weigh-retirement-claims-backlog/63083/?oref=dropdown#disqus_thread" class="comments" data-disqus-identifier="post_63083">comments</a>
                         </div>
                         <p>
-                           OPM processed more than 12,000 claims in October.
+                           OPM will likely fall short of reduction goals. 
                         </p>
                         <div class="wrap">
-                          <a href="/pay-benefits/2012/11/retirement-backlog-down-39-percent-january/59286/?oref=dropdown" class="more">READ MORE</a>
+                          <a href="/pay-benefits/2013/05/sequester-postal-departures-weigh-retirement-claims-backlog/63083/?oref=dropdown" class="more">READ MORE</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 
                 </div>
+                
+                
+                
                 <div class="news full-width">
                   <div class="latest-news">
                     <strong class="heading"><a href="/pay-benefits/?oref=dropdown">LATEST NEWS</a></strong>
                     <ul>
                       
-                      <li><strong class="title"><a href="/pay-benefits/2012/11/opm-director-allows-disaster-relief-fundraisers-sandy/59275/?oref=dropdown">OPM director allows disaster relief fundraisers for Sandy</a></strong><em class="date">November 5, 2012</em></li>
+                      <li><strong class="title"><a href="/management/2013/05/postal-service-loses-nearly-2-billion-second-quarter/63099/?oref=dropdown">Postal Service Loses Nearly $2 Billion in Second Quarter</a></strong><em class="date">12:25 PM ET</em></li>
                       
-                      <li><strong class="title"><a href="/pay-benefits/2012/11/four-former-lawmakers-receiving-six-figure-pensions/59272/?oref=dropdown">More than 100 former lawmakers receiving six-figure pensions</a></strong><em class="date">November 5, 2012</em></li>
+                      <li><strong class="title"><a href="/pay-benefits/2013/05/heading-coming-retirement-disaster/63085/?oref=dropdown">Heading Off the Coming Retirement Disaster</a></strong><em class="date">May 9, 2013</em></li>
                       
-                      <li><strong class="title"><a href="/pay-benefits/2012/11/opm-posts-videos-webcasts-help-feds-open-season-benefits-choices/59248/?oref=dropdown">OPM to post videos, webcasts to help feds with open season benefits choices</a></strong><em class="date">November 2, 2012</em></li>
+                      <li><strong class="title"><a href="/management/2013/05/bring-federal-conferences-back-las-vegas-lawmakers-say/63081/?oref=dropdown">Bring Federal Conferences Back to Las Vegas, Lawmakers Say</a></strong><em class="date">May 9, 2013</em></li>
                       
                     </ul>
-                  </div>
-			  
+                  </div>  
+                  
                 </div>
                 
               </div>
@@ -696,7 +748,7 @@ var this_ad_link = 'http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=gu
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=gutter;sz=460x800;tile=5;ord=034099144?"></script>
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=gutter;sz=460x800;tile=5;ord=968272264?"></script>
     
 	</div>
 </div>
@@ -807,14 +859,14 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                     </div>
                     <div class="wrap parent">
                       <div class="img-box">
-                        <a href="http://www.govexec.com/reports/5-ways-make-digital-government-smarter/58548/" rel="external"><img src="http://cdn.govexec.com/media/img/upload/2012/10/31/ebayink/highlight.jpg" alt="" title="" class="img-link" height="77" width="128">
+                        <a href="http://www.nextgov.com/bold-awards" rel="external"><img src="http://cdn.govexec.com/media/img/upload/2013/05/09/Bold_458x276_js_1/highlight.png" alt="" title="" class="img-link" height="77" width="128">
 
 </a>
                       </div>
                       <div class="text-box">
-                        <h2><a href="http://www.govexec.com/reports/5-ways-make-digital-government-smarter/58548/" rel="external">5 Ways to Make Digital Government Smarter</a></h2>
+                        <h2><a href="http://www.nextgov.com/bold-awards" rel="external">Nominations Close May 17th!</a></h2>
                         <p>
-                          
+                          Get Your Agency's Success Recognized
                         </p>
                       </div>
                     </div>
@@ -839,7 +891,7 @@ var this_ad_link = 'http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=to
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=topblock;sz=300x250,300x1000,300x600;tile=9;ord=034099144?"></script>
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/govexec.com/about ;pos=topblock;sz=300x250,300x1000,300x600;tile=9;ord=968272264?"></script>
     
       <noscript>
       <a href="http://ad.doubleclick.net/N617/jump/govexec.com/about ;pos=topblock;sz=300x250,300x1000,300x600;tile=10;" title="">
@@ -885,7 +937,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                           </div>
                           <div class="row">
                             <input type="checkbox" name="field:eig" id="field:eig" class="check" value="1">
-                            <label for="field:eig">Excellence in Government</label>
+                            <label for="field:nextgov_mobility">Nextgov Mobility</label>
                             <a href="/newsletters/" class="more">SEE ALL</a>
                           </div>
 
@@ -921,7 +973,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 if (typeof window.dart_random_ord == 'undefined') {
 	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
 }
-if ($('#topblock-ad script[src*="widgetserver"]').length == 0 && top_right_ad_size_check_called == false && $("#topblock-ad").height() < 600) {
+if ($('#topblock-ad script[src*="widgetserver"]').length == 0 && $('#topblock-ad script[src*="flite"]').length == 0 && top_right_ad_size_check_called == false && $("#topblock-ad").height() < 600) {
       if ($("#topblock-ad").height() < 250) {
           top_right_ad_size_check();
       }
@@ -957,22 +1009,21 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                     
                     <div class="wrap">
                       <div class="img-box">
-                        <a href="/magazine/?oref=mag-module"><img width="132" src="http://cdn.govexec.com/media/magazine/1112cover.jpg" alt="Government Executive : Vol. 44 No. 12 (11/1/12) Magazine Cover"></a>
+                        <a href="/magazine/?oref=mag-module"><img width="132" src="http://cdn.govexec.com/media/magazine/0313coverweb.jpg" alt="Government Executive : Vol. 45 No. 2 (March/April 2013)  Magazine Cover"></a>
                       </div>
                       <div class="text-box">
                         
-                        <strong class="title"><a href="/magazine/features/2012/11/facing-hurdles/59138/?oref=mag-module">Facing Hurdles</a></strong>
+                        <strong class="title"><a href="/magazine/features/2013/04/welcome-data-driven-world/62196/?oref=mag-module">Welcome to the Data Driven World	</a></strong>
                         <p>
-                          To keep up, executives must tackle four important trends.
+                          The government’s big investment in big data is changing what we know and how we know it.
                         </p>
                           
                         
-                        <strong class="title"><a href="/magazine/features/2012/11/technology-hand-/59139/?oref=mag-module">Technology Hand-Off</a></strong>
+                        <strong class="title"><a href="/magazine/features/2013/04/what-reinvention-wrought/62197/?oref=mag-module">What Reinvention Wrought</a></strong>
                         <p>
-                          Federal IT is tipping the balance of power.
+                          Two decades ago, Al Gore set out to remake government. How did that work out?
                         </p>
                           
-                        
                         </div>
                     </div>
                     <div class="wrap">
@@ -1002,12 +1053,12 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               <a href="/excellence/promising-practices/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/promising-practices.png" width="40" height="53" alt="Promising Practices"></a>
             </div>
             <div class="text-box">
-              <h2><a href="/excellence/promising-practices/2012/11/see-facebooks-map-election-day-voting-real-time/59317/?oref=voices-module">See Facebook's Map of Election Day Voting in Real-Time</a></h2>
+              <h2><a href="/excellence/promising-practices/2013/05/why-ses-doesnt-work-and-how-fix-it/63096/?oref=voices-module">Why the SES Doesn’t Work, And How to Fix It</a></h2>
               <p>
                 <strong>Promising Practices</strong> by 
   
     
-    Mark Micheli
+    John Kamensky
     
               </p>
             </div>
@@ -1018,12 +1069,12 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               <a href="/federal-news/fedblog/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/fedblog.png" width="40" height="53" alt="Fedblog"></a>
             </div>
             <div class="text-box">
-              <h2><a href="/federal-news/fedblog/2012/11/election-night-live-blog/59319/?oref=voices-module">Election Night Live Blog</a></h2>
+              <h2><a href="/federal-news/fedblog/2013/05/sale-air-force-one/63082/?oref=voices-module">For Sale: Air Force One </a></h2>
               <p>
                 <strong>Fedblog</strong> by 
   
     
-    Tom Shoop
+    Eric Katz
     
               </p>
             </div>
@@ -1034,7 +1085,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               <a href="/excellence/executive-coach/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/executive-coach.png" width="40" height="53" alt="Executive Coach"></a>
             </div>
             <div class="text-box">
-              <h2><a href="/excellence/executive-coach/2012/10/five-things-learn-bloomberg-about-crisis-communications/59137/?oref=voices-module">Five Things to Learn from Bloomberg About Crisis Communications</a></h2>
+              <h2><a href="/excellence/executive-coach/2013/05/why-good-leaders-dont-care/63062/?oref=voices-module">Why Good Leaders Don't Care</a></h2>
               <p>
                 <strong>Executive Coach</strong> by 
   
@@ -1047,26 +1098,10 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         
           <li>
             <div class="img-box">
-              <a href="/excellence/management-matters/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/management-matters.png" width="40" height="53" alt="Management Matters"></a>
-            </div>
-            <div class="text-box">
-              <h2><a href="/excellence/management-matters/2012/11/making-auditors-part-solution/59314/?oref=voices-module">Making IGs part of the solution</a></h2>
-              <p>
-                <strong>Management Matters</strong> by 
-  
-    
-    Gadi Dechter
-    
-              </p>
-            </div>
-          </li>
-        
-          <li>
-            <div class="img-box">
               <a href="/oversight/on-politics/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/on-politics.png" width="40" height="53" alt="On Politics"></a>
             </div>
             <div class="text-box">
-              <h2><a href="/oversight/on-politics/2012/11/obama-can-thank-early-negative-ads-his-advantage/59268/?oref=voices-module">Obama Can Thank Early Negative Ads for His Advantage </a></h2>
+              <h2><a href="/oversight/on-politics/2013/05/fight-millennials/62995/?oref=voices-module">The Fight for Millennials</a></h2>
               <p>
                 <strong>On Politics</strong> by 
   
@@ -1082,7 +1117,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               <a href="/pay-benefits/pay-benefits-watch/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/pay-benefits-watch.png" width="40" height="53" alt="Pay &amp; Benefits Watch"></a>
             </div>
             <div class="text-box">
-              <h2><a href="/pay-benefits/pay-benefits-watch/2012/11/overpaid-or-underpaid-feds-had-extraordinary-week/59176/?oref=voices-module">Overpaid or Underpaid, Feds Had Quite a Week</a></h2>
+              <h2><a href="/pay-benefits/pay-benefits-watch/2013/05/doing-math-unpaid-leave/63048/?oref=voices-module">Doing the Math on Unpaid Leave</a></h2>
               <p>
                 <strong>Pay &amp; Benefits Watch</strong> by 
   
@@ -1098,7 +1133,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               <a href="/pay-benefits/retirement-planning/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/retirement-planning.png" width="40" height="53" alt="Retirement Planning"></a>
             </div>
             <div class="text-box">
-              <h2><a href="/pay-benefits/retirement-planning/2012/11/are-you-ready-apply/59217/?oref=voices-module">Are You Ready to Apply?</a></h2>
+              <h2><a href="/pay-benefits/retirement-planning/2013/05/picking-very-best-date-retire/63089/?oref=voices-module">Picking the Very Best Date to Retire</a></h2>
               <p>
                 <strong>Retirement Planning</strong> by 
   
@@ -1111,31 +1146,15 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         
           <li>
             <div class="img-box">
-              <a href="/technology/wired-workplace/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/wired-workplace.png" width="40" height="53" alt="Wired Workplace"></a>
-            </div>
-            <div class="text-box">
-              <h2><a href="/technology/wired-workplace/2012/11/six-desks-every-10-workers-future/59234/?oref=voices-module">Six Desks for Every 10 Workers of the Future? </a></h2>
-              <p>
-                <strong>Wired Workplace</strong> by 
-  
-    
-    Brittany Ballenstedt
-    
-              </p>
-            </div>
-          </li>
-        
-          <li>
-            <div class="img-box">
               <a href="/management/cutting-costs/?oref=voices-module"><img src="http://cdn.govexec.com/images/voices/cutting-costs.png" width="40" height="53" alt="Cutting Costs"></a>
             </div>
             <div class="text-box">
-              <h2><a href="/management/cutting-costs/2012/10/agencies-cut-billions-it-spending/59059/?oref=voices-module">Agencies Cut Billions in IT Spending</a></h2>
+              <h2><a href="/management/cutting-costs/2013/04/no-oncologists-are-not-going-broke/62726/?oref=voices-module">No, Oncologists Are Not Going Broke</a></h2>
               <p>
                 <strong>Cutting Costs</strong> by 
   
     
-    Joseph Marks
+    Margot Sanger-Katz
     
               </p>
             </div>
@@ -1167,27 +1186,18 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
   
 
-                      <li><strong class="title"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=50044775&amp;iu=/617/govexec.com/emailads" rel="external">Maintaining Your Legacy, Adopting New Technologies: Integrating the Cloud</a></strong>
-                          Keys to Adopting the New Federal Cloud Computing Strategy  <img width="4" height="8" src="http://cdn.govexec.com/images/arrow02.png" alt="">
-                          <a href="http://pubads.g.doubleclick.net/gampad/clk?id=50044775&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/IndustryPerspectives</a>
+                      <li><strong class="title"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=58366655&amp;iu=/617/govexec.com/homepage" rel="external">Acquisition Excellence 2013 – March 21st at the Grand Hyatt Washington</a></strong>
+                          Hosted by GSA &amp; the American Council for Technology-Industry Advisory Council <img width="4" height="8" src="http://cdn.govexec.com/images/arrow02.png" alt="">
+                          <a href="http://pubads.g.doubleclick.net/gampad/clk?id=58366655&amp;iu=/617/govexec.com/homepage" rel="external">www.actgov.org</a>
                       </li>
 
   
     
   
 
-                      <li><strong class="title"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=49826975&amp;iu=/617/govexec.com/emailads" rel="external">Tactics to Clear the Top 5 Health IT Hurdles</a></strong>
-                          Keys to Success in Implementing Health IT Mandates <img width="4" height="8" src="http://cdn.govexec.com/images/arrow02.png" alt="">
-                          <a href="http://pubads.g.doubleclick.net/gampad/clk?id=49826975&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/HealthIT</a>
-                      </li>
-
-  
-    
-  
-
-                      <li><strong class="title"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=50043695&amp;iu=/617/govexec.com/emailads" rel="external">Tapping into Big Data to Detect Fraud and Improve Performance</a></strong>
-                          View this on demand webcast actionable tactics to succeed with Big Data. <img width="4" height="8" src="http://cdn.govexec.com/images/arrow02.png" alt="">
-                          <a href="http://pubads.g.doubleclick.net/gampad/clk?id=50043695&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/BigDataWebcast</a>
+                      <li><strong class="title"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=59088695&amp;iu=/617/govexec.com/emailads" rel="external">2013 Management of Change, May 19–21 / Hyatt Regency / Cambridge, MD</a></strong>
+                          Hosted by the American Council for Technology-Industry Advisory Council <img width="4" height="8" src="http://cdn.govexec.com/images/arrow02.png" alt="">
+                          <a href="http://pubads.g.doubleclick.net/gampad/clk?id=59088695&amp;iu=/617/govexec.com/emailads" rel="external">www.actgov.org</a>
                       </li>
 
   
@@ -1197,6 +1207,15 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                       <li><strong class="title"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=50770655&amp;iu=/617/govexec.com/homepage" rel="external">Harvard Kennedy School Executive Education</a></strong>
                           Lifelong learning for today’s senior leaders.  <img width="4" height="8" src="http://cdn.govexec.com/images/arrow02.png" alt="">
                           <a href="http://pubads.g.doubleclick.net/gampad/clk?id=50770655&amp;iu=/617/govexec.com/homepage" rel="external">www.hks.harvard.edu/ee</a>
+                      </li>
+
+  
+    
+  
+
+                      <li><strong class="title"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56689295&amp;iu=/617/govexec.com" rel="external">Excellence in Government 2013</a></strong>
+                          May 13 &amp; 14, Washington DC <img width="4" height="8" src="http://cdn.govexec.com/images/arrow02.png" alt="">
+                          <a href="http://pubads.g.doubleclick.net/gampad/clk?id=56689295&amp;iu=/617/govexec.com" rel="external">www.GovExec.com/Excellence</a>
                       </li>
 
                     </ul>
@@ -1241,8 +1260,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <li><a href="http://www.theatlanticwire.com/" rel="external">The Atlantic Wire</a></li>
             <li><a href="http://www.theatlanticcities.com/" rel="external">The Atlantic Cities</a></li>
           </ul>
-          <p>
-            © 2012 by National Journal Group, Inc. All rights reserved.
+          <p class="copyright">
+            © 2013 by National Journal Group, Inc. All rights reserved. | <a href="http://www.edgecast.com/">CDN</a> powered by Edgecast Networks
           </p>
         </div>
       </div>
@@ -1258,7 +1277,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 
 <script type="text/javascript" src="http://cdn.govexec.com/js/jquery.form.js"></script>
 
-<script type="text/javascript" src="http://cdn.govexec.com/js/newsletter.form.js?v=1.3.5"></script>
+<script type="text/javascript" src="http://cdn.govexec.com/js/newsletter.form.js?v=1.3.16"></script>
     
   
 
@@ -1323,13 +1342,24 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     //]]>
     </script>
     <script type="text/javascript">
-_bizo_data_partner_id = "2528";
+_bizo_data_partner_id = "1016";
 </script>
 <script type="text/javascript">
-(function(){var b,a,u;a=document.createElement("script");a.type="text/javascript";a.async=true;u=(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";a.src=u;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();
+(function() {
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";
+b.async = true;
+b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+s.parentNode.insertBefore(b, s);
+})();
 </script>
+<noscript>
+<img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=1016&fmt=gif" />
+</noscript>
   
   <script type="text/javascript">
+    //<![CDATA[
     var disqus_shortname = 'govexec';
     (function () {
         var scriptElement = document.createElement('script'); scriptElement.async = true;
@@ -1337,6 +1367,7 @@ _bizo_data_partner_id = "2528";
         scriptElement.src = 'http://cdn.govexec.com/js/custom_disqus_count_ge.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(scriptElement);
     }());
+    //]]>
 </script>
 
 
