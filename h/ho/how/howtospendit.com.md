@@ -1,25 +1,35 @@
-> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423033842id_/http%3A//www.howtospendit.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510214720id_/http%3A//howtospendit.ft.com/privacy) for the most accurate reproduction.*
 
-# how to spend it - FINANCIAL TIMES
+# Privacy - How To Spend It
 
-Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of The Financial Times Limited (FT) trading as How To Spend It (HTSI), in relation to [www.HowToSpendIt.com](http://www.howtospendit.com/ "www.HowToSpendIt.com") (our Site). If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com "privacy.officer@ft.com").
+Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com "Click here to send an email to the Privacy Officer at privacy.officer@ft.com").
 
 Our sites contain links to third party sites which are not subject to this privacy policy. We recommend that you read the privacy policy of any such sites that you visit.
 
-## Information Collected
+### Information Collected
 
-Personal information is collected by FT. FT is registered with the UK’s Information Commission as a Data Controller in accordance with the Data Protection Act 1998. 
+Personal information is collected by the FT companies listed below on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments). Each of these FT companies are registered with the UK’s Information Commission as Data Controllers in accordance with the Data Protection Act 1998. References in this privacy policy to “FT”, “we”, “us”, “our” or similar refer to the FT group company operating the relevant website and references to “FT sites” refer to any of our websites from which you have accessed this privacy policy. 
 
-  * Company: The Financial Times Ltd
-  * Registered Office: Number One Southwark Bridge, London SE1 9HL
-  * Registered Number: 227590
-  * Data Protection Registration: Number - Z7087146
+Company: | The Financial Times Ltd  
+---|---  
+Registered Office: | Number One Southwark Bridge, London SE1 9HL  
+Registered Number: | 227590  
+Data Protection Registration Number: | Z7087146  
+Company: | FT Personal Finance Ltd  
+---|---  
+Registered Office: | Number One Southwark Bridge, London SE1 9HL  
+Registered Number: | 3855520  
+Data Protection Registration Number: | Z7670392  
+Company: | The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe  
+---|---  
+Registered Office: | Number One Southwark Bridge, London SE1 9HL  
+Registered Number: | 1398449  
+Data Protection Registration Number: | ZVK463  
+  
+We collect personally identifiable information about you (your "Data") through:
 
-
-
-We collect personally identifiable information about you (your Data) through:
-
-  * the use of enquiry and registration pages
+  * the use of enquiry and registration forms
+  * your purchase of any our products or services
   * the provision of your details to us either online or offline.
 
 
@@ -27,30 +37,44 @@ We collect personally identifiable information about you (your Data) through:
 The elements of your Data that we collect may include:
 
   * Name
-  * Postal address
+  * Job title
+  * Company name
+  * Company address, phone and fax number
+  * Home address and phone number
+  * Mobile telephone number
   * E-mail address
-  * Telephone number
+  * Payment details such as credit card information
+  * Date of birth
+  * Educational history, work experience and other information from your CV if you provide this to us
+  * Market research data such as readership patterns
+  * Usage statistics
 
 
 
-If you are a user of our Site we may also collect information that we request from you regarding your use of the service or that we collect automatically about your visit to our Site. Please see the Use of Cookies section for more details.
+We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our [Cookies Policy](http://www.ft.com/cookiepolicy) for more details.
 
-Back to top
+Back to the top
 
-## Use and Disclosure of Personal Information
+### Use and Disclosure of Personal Information
 
 We use your Data for purposes which may include:
 
   * providing our users with a personalised service
   * processing orders, registrations and enquiries
   * conducting market research surveys
+  * allowing users to participate in interactive features of our service, where they choose to do so
+  * providing reports to our Clients containing information about usage under corporate licenses
   * running competitions, prize draws and promotions
   * providing you with information about products and services we offer (if you agree to receive such information)
-  * if you're a HTSI Auction Room User, your details will be retained by Auctionair for the purposes of fulfilment and to contact you in relation to your HTSI Auction Room account
+  * sharing your Data with third party organisations who offer products or services which we feel may be of interest to you (if you agree to receive such information)
+  * contacting you about specific recruitment opportunities if you register search criteria information on our recruitment sites.
+  * monitoring compliance with our [Terms and Conditions](http://www.ft.com/servicestools/help/terms) and [Copyright Policy](http://www.ft.com/servicestools/help/copyright)
 
 
 
-See the [Use of Cookies section](https://web.archive.org/web/20120423033842id_/http%3A//www.howtospendit.com/terms.html ">Use of Cookies section") for more details.
+See our [Cookies Policy](http://www.ft.com/cookiepolicy "Click here to view the Use of Cookies section") for more details.
+
+If you wish to receive information about FT group products or services or from other carefully selected organisations about products or services they offer, please indicate your preferences using the consent boxes when providing us with your Data.
 
 We may also disclose your information to business partners and to third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or in accordance with a properly executed court order or as otherwise required to do so by law. We reserve the right to fully co-operate with any law enforcement authorities or court order requiring or requesting us to disclose the identity or other usage details of any user of our sites.
 
@@ -59,70 +83,86 @@ We also use information in aggregate form (so that no individual user is identif
   * to build up marketing profiles
   * to aid strategic development
   * to manage our relationship with advertisers
-  * to audit usage of the Site.
+  * to audit usage of the site.
 
 
 
-Back to top
+We use technology on the registration, subscription and manage my account pages of some of our websites, which may record user movements, including page scrolling, mouse clicks and text entered. It will not record financial information such as credit or debit card details. The data we collect in this way helps us to identify usability issues, to improve the assistance and technical support we can provide to users and is also used for aggregated and statistical reporting purposes.
 
-## Use of Cookies and Other Tracking Devices 
+Back to the top
 
-We use cookies to help personalise your use of our Site. A cookie is a small piece of information which is sent to your computer's hard drive by the web server so that the website can remember who you are. This information may include information relating to your use of our sites, information about your computer such as the computer's IP address and browser type, demographic data and, if you arrived at our Site via a link from third party site, the URL of the linking page. If you are a registered user this may include your name and email address, which may be transferred to data processors for registered user or subscriber verification purposes.
+### Use of Cookies and Other Tracking Devices
 
-We use information from cookies for purposes which may include:
+Please refer to our [Cookies Policy](http://www.ft.com/cookiepolicy "Click here to view the Use of Cookies section").
 
-  * identifying returning users and registrants and to allow them to be presented with a personalised version of the Site 
-  * enabling you to move more easily around our Site
-  * tracking your use of our Site to better develop it in accordance with your requirements
-  * building up a profile based on your browsing patterns across our Site and third party websites, which enables us to make advertisements available to you that are more relevant to your interests
+Back to the top
 
+### Security Policy
 
+Financial Times businesses have appropriate measures in place to ensure that our usersâ€™ Data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. User Data may be transferred outside the FT group to data processors such as fulfilment houses but they will act only on our instructions to provide the services required.
 
-You can delete cookies from your hard drive at any time however this will mean that any settings such as your stored username and password will have to be reset. You can set your internet browser so that it will not allow cookies to be stored on your computer. This may reduce functionality of the Site, prevent access to registration-only areas of the Site and mean that certain features or content will not be available to you. Further information on how to prevent cookies from being stored on your computer can be found on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "http://www.allaboutcookies.org") under the "manage cookies" section. Alternatively go to the help menu within your internet browser.
+Back to the top
 
-From time to time we may permit third party companies to set cookies on our sites for purposes which may include market research, serving advertisements, revenue tracking or to improve functionality of the Site.
+### Transfer of Data
 
-Back to top
+The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the FT sites and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your Data to third party organisations for them to send you details of products and services offered (as detailed above) you are deemed to provide your consent to any transfer of your Data to organisations based outside the European Economic Area.
 
-Our website may use pixels, or transparent GIF files, to help manage online advertising. These GIF files may be provided by our Ad Management Partner DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The information that DoubleClick collects via cookies is anonymous. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about their use of Spotlight Technology, and how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>. 
+Back to the top
 
-Our website also may use web analytics services provided by Google, Inc.which uses cookies to help us to analyse how users use our Site. The information generated by the cookie about your use of our Site (including your IP address) will be transmitted to and stored on servers in the United States and/or United Kingdom Google, Inc will use this information for the purpose of evaluating your use of our sites, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google, Inc may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf. Google, Inc will not associate your IP address with any other data held by them. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our Site. By using this website, you consent to the processing of data about you by those service providers in the manner and for the purposes set out above.
+### User Access and Control of Data
 
-Some of the advertisements you see on our Site are generated by third party service providers. Some of these third parties generate cookies for statistical purposes on behalf of FT, for example, for tracking how many unique users have seen a particular advertisement, and how many times they have seen it, and for providing you with advertisements that are more relevant to your interests. They do not contain personal information such as your name or email address. Audience Science, who generate these cookies have their own privacy policy at <http://www.audiencescience.com/privacy.asp>. FT do not have access to these cookies, although, in order to provide you with a better user experience, we may use statistical information arising from the cookies provided by Audience Science to build up a profile based on your browsing patterns across the FT sites and third party websites that are part of the Audience Science network. This profile enables us to make advertisements available to you that are more relevant and tailored to your interests.
+If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact [help@ft.com](mailto:help@ft.com) visit the "[Contact Us](http://www.ft.com/servicestools/help/contactus)" section of our website (excluding Investors Chronicle, FDI Intelligence, FT Adviser, Exec-Appointments, MBA-Direct.com, Non-execs.com, Ignites Europe and Mandatewire.com websites).
 
-Back to top
+_Investors Chronicle_
 
-## Security Policy
+If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact [ic.cs@ft.com](mailto:ic.cs@ft.com), visit [manage account](https://www.investorschronicle.co.uk/my-account "www.investorschronicle.co.uk") or phone +44(0)844 848 0106. Calls made to these numbers may be recorded for training and quality control purposes.
 
-FT has appropriate measures in place to ensure that our users’ Data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. User Data may be transferred outside the FT group to data processors such as fulfillment houses but they will act only on our instructions to provide the services required.
+_FDI Intelligence_
 
-## Transfer of Data
+If you are a user of FDI products and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact [fdiintelligence@ft.com](mailto:fdiintelligence@ft.com), visit [manage my account](https://www.fdiintelligence.com/user/login) or ph +44 (0)20 7775 6896.
 
-The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing our Site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
+_FT Adviser_
 
-## User Access and Control of Data
+If you are an FT Adviser user and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact [ftadviser.enquiries@ft.com](mailto:ftadviser.enquiries@ft.com), phone 0845 456 1516 or visit [manage my account](http://www.ftadviser.com/myAccount)
 
-If you wish to amend any of the Data which we hold about you, or update your contact preferences, please contact [howtospendit@ft.com](mailto:howtospendit@ft.com "howtospendit@ft.com").
+_Exec-Appointments, MBA-Direct.com and Non-execs.com_
 
-In accordance with the Data Protection Act 1998, you may request a copy of the personal information we hold about you by contacting the Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com "privacy.officer@ft.com") or writing to:
+If you wish to amend any of the Data that we hold about you or update your marketing preferences, please sign into your account below and go to your personal profile or phone +44 (0) 207 873 4909.
 
-Company Secretary The Financial Times Ltd Number One Southwark Bridge London SE1 9HL United Kingdom 
+[exec-appointments.com](http://www.exec-appointments.com/Executive/Account.aspx) account
+
+[mba-direct.com](http://www.mba-direct.com/Executive/EditAccount.aspx) account
+
+[non-execs.com](http://www.non-execs.com/executive/account.asp) account
+
+_Ignites Europe_
+
+If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please visit the â€œ[Preferences](http://www.igniteseurope.com/user/preferences "www.igniteseurope.com")â€ or â€œ[Contact Us](http://www.igniteseurope.com/user/email)â€ section of our website or phone UK +44 (0) 20 7775 6668 or US +1 212 542 1245.
+
+Calls made to these numbers may be recorded for training and quality control purposes.
+
+_Mandatewire_
+
+If you wish to amend any of the date which we hold about you, or update your marketing preferences, please contact [contact.mandatewire@ft.com](mailto:contact.mandatewire@ft.com) or phone (UK)+44 (0)20 7775 6080 or (NYC) +1212-542-1245
+
+_All users_
+
+In accordance with the Data Protection Act 1998, you may request a copy of the personal information we hold about you by contacting the Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com) or writing to:
+
+Company Secretary The Financial Times Ltd Number One Southwark Bridge London SE1 9HL United Kingdom
 
 We may charge the statutory allowable fee for provision of this information.
 
-## Children Under 14
+Back to the top
+
+### Children Under 14
 
 We do not intentionally collect any information on children under 14 years of age. We will undertake to delete any details of such users where a parent or guardian has notified us that any such details have been obtained.
 
-## Changes to this Policy
+Back to the top
 
-This policy is effective from 3rd October 2009. From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.
+### Changes to this Policy
 
-Back to top
+This policy is effective from 22nd May 2012. From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.enhancements.
 
-  * [©2011](https://web.archive.org/web/20120423033842id_/http%3A//www.howtospendit.com/copyright.html "©2011") |
-  * [Privacy](https://web.archive.org/web/20120423033842id_/http%3A//www.howtospendit.com/priv.html "Privacy") |
-  * [Terms](https://web.archive.org/web/20120423033842id_/http%3A//www.howtospendit.com/terms.html "Terms") |
-  * [Disclaimer](https://web.archive.org/web/20120423033842id_/http%3A//www.howtospendit.com/disclaimer.html "Disclaimer")
-
-
+Back to the top
