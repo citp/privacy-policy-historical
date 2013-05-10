@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026175332id_/http%3A//www.carrabbas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510221841id_/http%3A//www.carrabbas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Carrabba's Italian Grill
+# Privacy Policy
 
 Carrabba’s takes your privacy seriously both online and offline. This Privacy Policy applies to information collected online through our website, social media sites, and mobile applications, as well as information collected offline through promotions and at Carrabba’s restaurants.  
 Our Privacy Policy explains:
