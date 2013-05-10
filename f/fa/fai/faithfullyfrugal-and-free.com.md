@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithfullyfrugal-and-free.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027002437id_/http%3A//www.faithfullyfrugal-and-free.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfullyfrugal-and-free.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510041649id_/http%3A//www.faithfullyfrugal-and-free.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY - Faithfully Frugal & Free
 
@@ -54,7 +54,8 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may [contact us](http://www.faithfullyfrugal-and-free.com/contact "contact us") using the information below.
 
-keepinitcheap@hotmail.com  
-Privacy Policy Created by Free Privacy Policy
+UPDATE:  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-Find this article interesting? Please share it with your friends. Thanks for stopping by. 
+shasta@faithfullyfree.com  
+Privacy Policy Created by Free Privacy Policy
