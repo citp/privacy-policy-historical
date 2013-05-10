@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019051358id_/http%3A//www.zoomin.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510052015id_/http%3A//www.zoomin.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We may also use aggregate data obtained from your photos meta information to pro
 
 ###  How Do We Use the Information That You Provide to Us?
 
-Broadly speaking, the Publisher uses personal information for purposes of administering and expanding its business activities, providing customer service and making available other products and services to its customers and prospective customers. Occasionally, the Publisher may also use the information it collects to notify you about important changes to the Site and new services and special offers the Publisher thinks you will find valuable. You may notify the Publisher at any time if you do not wish to receive these offers by emailing us at our [Helpdesk](http://help.zoomin.com/)
+Broadly speaking, the Publisher uses personal information for purposes of administering and expanding its business activities, providing customer service and making available other products and services to its customers and prospective customers. Occasionally, the Publisher may also use the information it collects to notify you about important changes to the Site and new services and special offers the Publisher thinks you will find valuable. You may notify the Publisher at any time if you do not wish to receive these offers by emailing us at our [ Helpdesk](http://help.zoomin.com/)
 
 The Site is set up so that you can control who can view the Content and Material in your Account. The Publisher is committed to keeping your Content and Material private and secure. The Publisher will never make your Content and Material publicly accessible, except as otherwise noted in this Privacy Policy, by your explicit authorization. Please note that if you choose to post a hyperlink to your Content and Material on your own or other’s websites, or you share your Content and Material with your friends or family members and they post your share invitation on a website or forward it to other individuals, these pictures may be accessible to others who view the email invitation or visit these websites. The Publisher will therefore not be liable for any publication of your Content and Material made otherwise than by a direct disclosure by the Publisher. It is clarified that mere hosting of Content and Material on the Site shall not be construed as a direct disclosure of such Content and Material without a specific reference to such Content and Material made by the Publisher in any communication with any third party.
 
@@ -54,7 +54,7 @@ Occasionally, the Publisher may also use the information collected to notify you
 
 ###  How Do We Secure Information Transmissions?
 
-Email is not recognized as a secure medium of communication. For this reason, you are requested not to send private information to the Publisher by email. Some of the information you may enter on the Site may be transmitted securely via Secure Sockets Layer SSL, 128-bit encryption services, which are enabled by **Thawte DV SSL CA.** Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please visit our [Helpdesk](http://help.zoomin.com/) if you have any questions or concerns in this regard.
+Email is not recognized as a secure medium of communication. For this reason, you are requested not to send private information to the Publisher by email. Some of the information you may enter on the Site may be transmitted securely via Secure Sockets Layer SSL, 128-bit encryption services, which are enabled by **Thawte DV SSL CA.** Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please visit our [ Helpdesk](http://help.zoomin.com/) if you have any questions or concerns in this regard.
 
 ###  How Can You Access and Correct Your Information?
 
@@ -74,13 +74,13 @@ Please remember that when you use a link to go from the Site to another web site
 
 By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If the Publisher changes its Privacy Policy and procedures, the Publisher will post those changes on the Site to keep you aware of what information the Publisher collects, how such information is used and under what circumstances the Publisher may disclose it.
 
-### Postcards from Zoomin
+###  Postcards from Zoomin
 
 Your privacy matters and is very important to us. We implement strict policies to ensure the privacy and security of personal information that we may collect on Postcards from Zoomin.
 
 By using Postcards from Zoomin on Facebook, you consent to the collection and use of your information as outlined in this privacy policy. Since this policy may be updated from time to time, please visit this section periodically to review any changes to the Privacy Policy.
 
-### Information Collection
+###  Information Collection
 
 When you use Postcards from Zoomin, our servers gain access to information about you from Facebook, including but not limited to your profile, birth-date, name, gender, photos, and friend lists. This data is then analyzed and rendered to you in accordance with the Postcards from Zoomin’s purpose and design.
 
@@ -88,14 +88,14 @@ We do not collect or have access to Facebook usernames and passwords. However, w
 
 Any images that are selected by you for use by Postcards from Zoomin are uploaded on our servers. These images remain private to you only and are not available publicly until you post them to your Facebook wall/profile/feed.
 
-### Certain Disclosures
+###  Certain Disclosures
 
 The information we collect may be disclosed if required to do so by law or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on Zoomin or its Affiliated Parties; (b) protect and defend Zoomin’s rights and property, the Site, the users of the Site, and/or its Affiliated Parties; or (c) act under circumstances to protect the safety of Users of the Site, the Publisher, or third parties. We may also have to disclose information to Facebook in case they require anything, because our apps run on the Facebook platform.
 
-### Prohibitions
+###  Prohibitions
 
-You may not use any content that is deemed prohibited by Facebook. Such content includes but is not limited to photos that indicate alcohol content; are hateful, threatening, defamatory, or pornographic; incite violence; or contain nudity or graphic or gratuitous violence. We reserve the right to delete any such images, and deny services to such users. We also reserve the right to report such offenses to the appropriate authorities.
+You may not use any content that includes but is not limited to photos that indicate alcohol content; are hateful, threatening, defamatory, or pornographic; incite violence; or contain nudity or graphic or gratuitous violence. We reserve the right to delete any such images, and deny services to such users. We also reserve the right to report such offenses to the appropriate authorities.
 
 We reserve the right to change this Privacy Policy and any other guidelines at any time, so please check periodically for changes.
 
-If you have any questions or concerns regarding this policy, please write to our support desk at [http://help.zoomin.com](http://help.zoomin.com/). 
+If you have any questions or concerns regarding this policy, please write to our support desk at [ http://help.zoomin.com](http://help.zoomin.com/). 
