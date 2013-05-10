@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the prometheanworld.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029041833id_/http%3A//www.prometheanworld.com/en-us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometheanworld.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510203030id_/http%3A//www.prometheanworld.com/us/english/education/privacy-policy) for the most accurate reproduction.*
 
-# Promethean World - Privacy Policy
+# Privacy Policy
+
+Last updated: 5th March 2013
+
+This policy (together with Our [Term](https://web.archive.org/us/english/education/terms-and-conditions/) of Use and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it.
+
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Promethean World Plc (registered in England and Wales company number 07115000) of Promethean House, Lower Philips Road, Whitebirk Industrial Estate, Blackburn, Lancashire, BB1 5TH, United Kingdom.
 
 #### 1\. INFORMATION WE MAY COLLECT FROM YOU
 
@@ -8,7 +14,7 @@
 
   1. Information that you provide by filling in forms on Our Site. This includes information provided at the time of registering to use Our Site, posting material in the Planet forums or blogs or requesting further service, products or downloads. We may also ask you for information when you enter a competition or promotion, and when you report a problem with Our Site.
   2. If you contact Us, We may keep a record of that correspondence.
-  3. Details of transactions you carry out through Our Site and of the fulfilment of your orders.
+  3. Details of transactions you carry out through Our Site and of the fulfillment of your orders.
   4. Details of your visits to Our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for Our own billing purposes or otherwise and the resources that you access.
 
 
@@ -80,9 +86,4 @@ Any changes We may make to our privacy policy in the future will be posted on th
 
 Questions, comments and requests regarding this privacy policy should be addressed to [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com "Email Webmaster")
 
-* * *
-
-Site operated by  
-Promethean Limited  
-Company number 1308938  
-Registered Office – Promethean Limited, Promethean House, Lower Philips Road, Whitebirk Industrial Estate, Blackburn, Lancashire BB1 5TH.
+ 
