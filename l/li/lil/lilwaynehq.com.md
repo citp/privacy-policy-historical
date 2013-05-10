@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilwaynehq.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105235103id_/http%3A//www.lilwaynehq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilwaynehq.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510150328id_/http%3A//www.lilwaynehq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for LilWayneHQ.com
 
@@ -55,3 +55,5 @@ This policy was last modified on: _5/21/2012_
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using this form [here](http://www.lilwaynehq.com/contact "Contact LilWayneHQ.com").
+
+Rating: 7.0/ **10** (23 votes cast)
