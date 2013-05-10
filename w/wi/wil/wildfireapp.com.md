@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215194145id_/http%3A//www.wildfireapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212352id_/http%3A//www.wildfireapp.com/privacy) for the most accurate reproduction.*
 
 # Wildfire
 
-_Last Updated: October 26, 2012_
+_Last Updated: February 27, 2013_
 
 Your privacy is important to Wildfire Interactive, Inc. ("Wildfire"). This privacy policy ("Policy") applies to the Wildfire Web sites ("Sites"). This Policy explains how your personal information is collected, used, and disclosed by Wildfire.
 
 We also make services and technology available to our customers that allow them to promote their brands and products to consumers (“Applications”). If we collect information (including personal information) through our Applications for a customer, we may store and process that information for the customer. This Policy does not apply to the collection of information through our Applications. To learn about how a Wildfire customer uses the information it collects through our Applications, please see its privacy policy.
-
-Wildfire Interactive, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@wildfireapp.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this website, [www.wildfireapp.com](http://www.wildfireapp.com/) and does not cover information that may be collected through Applications.
-
-Wildfire Interactive, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Wildfire Interactive, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Wildfire Interactive, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Personal Information Collected
 
