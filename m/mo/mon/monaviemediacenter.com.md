@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monaviemediacenter.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006101910id_/http%3A//www.monavie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monaviemediacenter.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510172015id_/http%3A//www.monavie.com/privacy-policy) for the most accurate reproduction.*
 
 # MonaVie Privacy Policy | MonaVie
 
