@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012100554id_/http%3A//www.jobstreet.com.ph/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510203633id_/http%3A//www.jobstreet.com.ph/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # JobStreet.com - Privacy Policy
 
