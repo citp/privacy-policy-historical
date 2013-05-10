@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chillcreations.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015111543id_/http%3A//www.chillcreations.com/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chillcreations.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212830id_/http%3A//www.chillcreations.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy & Disclaimer
+# Privacy Policy & Disclaimer - Chill Creations
+
+For our [refund policy](http://www.chillcreations.com/presale-questions#canigetarefund), please see the presale questions.
 
 **Privacy policy**
 
 This privacy policy sets out how Chill Creations uses and protects any information that you give Chill Creations when you use this website. When visiting www.chillcreations.com the site records on behalf of Chill Creations customer data for internal record keeping. Chill Creations may use the information to improve our products and services.
-
-_**We will never share your details with any third parties.**_
 
 Chill Creations is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
