@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032238id_/http%3A//www.fvap.gov/global/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/global/disclaimers.html) for the most accurate reproduction.*
 
 # Federal Voting Assistance Program - Disclaimers
 
@@ -22,7 +22,7 @@
   
 
 
-[Click here to view sample information that is collected](https://web.archive.org/web/20121231032238id_/http%3A//www.fvap.gov/global/disclaimers2.html)
+[Click here to view sample information that is collected](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/global/disclaimers2.html)
 
 We use this information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals.
 
@@ -43,7 +43,23 @@ We use this information to help us make our site more useful to visitors - to le
 
 We maintain a variety of physical, electronic and procedural safeguards to protect your personal information. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-If you have any questions or comments about the information presented here, please forward them to us using the [Contact Us](https://web.archive.org/web/20121231032238id_/http%3A//www.fvap.gov/contact/index.html) page.
+**Use of Measurement and Customization Technology (i.e., “cookies”)** \- This website uses measurement and customization technology known as a "cookies." Cookies are used to remember a user's online interactions with a website or online application in order to conduct measurement and analysis of usage or to customize the user's experience.  These cookies are enabled by default once the user enters the FVAP.gov website, as the information gathered by the statistics aggregator depends on them.  Opt-out instructions for those wishing to disable cookies can be found below.
+
+There are two kinds of cookies used on this website. A persistent or multi-session cookie (Tier 2) is saved to a file on a user's hard drive and is called up the next time that user visits a website. Session-based cookies are temporary in nature and assist users with the use of FVAP’s automated tools and are deleted once the visitor closes the browser. 
+
+Tier 2 cookies are used to distinguish between summary statistics for users who have been to the site before and those that are visiting the site for the first time. The Federal Voting Assistance Program does not gather, request, record, require, collect or track any Internet users' personally identifiable information (PII) through these processes. FVAP.gov uses Tier 2 cookies to remember whether a website visitor prefers to view the default homepage or an alternative page geared towards more specific content.
+
+Session-based cookies are used to tie together a user with his/her data as the user steps through the automated tools for completion of the Federal Post Card Application and Federal Write-In Absentee Ballot.  Upon closing the browser, all session-based cookies are deleted. 
+
+The Federal Voting Assistance Program does not gather, request, record, require, collect or track any Internet users' PII through either of these processes. 
+
+FVAP.gov collects aggregate statistics of website visitor characteristics, traffic, and activity. This information is used to assess what content is of most and least interest, determine technical design specifications, and identify system performance or problem areas. The software records a variety of data, including IP addresses (the locations of computers or networks on the Internet), unique visits, page views, hits, referring websites, and which hyperlinks have been clicked. Tier 2 cookies are used to distinguish between summary statistics for users who have been to the site before and those that are visiting the site for the first time.
+
+The Federal Voting Assistance Program does not use the information associated with cookies to track individual user activity on the Internet outside Defense Department websites, and without the user's explicit consent, nor does FVAP share the data obtained through such technologies with other departments or agencies. The Federal Voting Assistance Program does not keep a database of information obtained from the use of cookies. 
+
+**Opting Out** \- Cookies are enabled by default once the user enters the FVAP.gov website, as the information gathered by the statistics aggregator depends on them. However, users can choose not to accept the use of these cookies by changing the settings on their local computer's web browser. _Please Note:   By changing your settings and opting out of the use of cookies, some functions of the FVAP.gov website may be disabled to include use of the FPCA and FWAB automated tools.  This is due to functionality of the tools requiring the use of session-based cookies to tie individual users to data on the server as information is submitted.  If these session-based cookies are blocked, the user will be unable to advance past the first page of the automated tool._
+
+The USA.gov website, [ http://www.usa.gov/optout_instructions.shtml](http://www.usa.gov/optout_instructions.shtml), provides general instructions on how to opt out of cookies and other commonly used web measurement and customization technologies. Opting out of cookies still permits users to access comparable information and services; however, it may take longer to navigate or interact with the website if a user is required to fill out certain information repeatedly. 
 
 ## Copyright Notice
 
@@ -52,6 +68,8 @@ The Federal Voting Assistance Program provides information presented on this web
 Only government works prepared by officers and employees of the U.S. Government as part of their official duties are not protected by copyright in the U.S. (17 USC � 105). Be advised that government works may contain a privately created work (e.g. quote, photograph, chart, drawing, etc.) used with permission; incorporation in a U.S. Government work does not place the private work in the public domain. 
 
 Contractors and grantees are not considered Government employees; generally they hold copyright to works they produce for the Government. The Government is granted a nonexclusive, irrevocable, paid-up royalty-free worldwide license to use, modify, reproduce, release, perform, display or disclose these works by or on behalf of the Government. 
+
+If you have any questions or comments about the information presented here, please forward them to us using the [Contact Us](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/contact/index.html) page.
 
 ## Cookie Disclaimer
 
@@ -100,7 +118,7 @@ The Federal Voting Assistance Program encourages links to our web pages. No perm
 
 This site provides external links as a convenience to our users and all links provided are consistent with the mission of the Federal Voting Assistance Program. The appearance of external hyperlinks on the Federal Voting Assistance Program website does not constitute endorsement by the Federal Voting Assistance Program or the Department of Defense of the linked websites, or the information, products or services contained therein. The Federal Voting Assistance Program does not exercise any editorial control over the information you may find at these locations.
 
-Please let us know about existing external links which you believe are inappropriate by [contacting us](https://web.archive.org/web/20121231032238id_/http%3A//www.fvap.gov/contact/index.html).
+Please let us know about existing external links which you believe are inappropriate by [contacting us](https://web.archive.org/web/20130510090332id_/http%3A//www.fvap.gov/contact/index.html).
 
 ## Links to Government Websites
 
