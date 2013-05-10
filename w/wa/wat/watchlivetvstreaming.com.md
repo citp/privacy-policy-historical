@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchlivetvstreaming.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122155303id_/http%3A//www.watchlivetvstreaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchlivetvstreaming.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510110357id_/http%3A//www.watchlivetvstreaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Live TV
 
