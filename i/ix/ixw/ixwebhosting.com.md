@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227010446id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510073123id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Web Hosting Privacy Policy | IX Web Hosting
 
@@ -57,6 +57,8 @@ Ecommerce may also disclose aggregate, anonymous data based on information colle
 Ecommerce may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by Ecommerce from its customers. In all such cases, third party service providers will be required to treat all such data with the same degree of care as Ecommerce and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy. 
 
 We use various credit card processing companies to bill you for our services. These companies do not retain, share, store or use personally identifiable information for any other purposes. No other third party services are used to provide the services you purchase from us, thusly no personally identifiable information is provided beyond our service. 
+
+We have implemented and use Display Advertising (e.g., Remarketing) to advertise online. You can opt-out of Google Analytics for Display Advertising using the Ads Preferences Manager. Third-party vendors, including Google, may show our ads on sites across the Internet using first & third party cookies. 
 
 [](http://www.ixwebhosting.com/privacy-policy#top)
 
