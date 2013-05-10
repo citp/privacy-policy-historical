@@ -1,29 +1,36 @@
-<!--The following is the downloaded HTML source of the forestry.gov.uk privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628064831id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forestry.gov.uk privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510204111id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-gb" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta http-equiv="x-ua-compatible" content="IE=8"><title>Forestry Commission - Privacy Policy</title><link rel="stylesheet" type="text/css" href="/website/fcwide.nsf/standard.css?OpenPage" media="screen"><link rel="stylesheet" href="/website/recreation.nsf/jd.gallery.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" type="text/css" href="/website/fcwide.nsf/fcPrint.css?OpenPage" media="print"><meta name="eGMS.subject.category" lang="eng" content="agriculture, environment and natural resources, forestry">
+<meta http-equiv="x-ua-compatible" content="IE=8"><title>Forestry Commission - Privacy Policy</title><link rel="stylesheet" type="text/css" href="/website/fcwide.nsf/fcPrint.css?OpenPage" media="print"><link rel="stylesheet" type="text/css" href="/website/fcwide.nsf/common.css?OpenPage" media="screen">
+<link rel="stylesheet" type="text/css" href="/website/forestry.nsf/fullcalendar.css">
+<link rel="stylesheet" type="text/css" href="/website/fcwide.nsf/vag.css?OpenPage" media="screen"><link rel="stylesheet" type="text/css" href="/website/forestry.nsf/gallery.css">
+<meta name="eGMS.subject.category" lang="eng" content="agriculture, environment and natural resources, forestry">
 <meta name="DC.Date.Created" scheme="ISO8601" content="2001-09-27">
 <meta name="DC.Creator" lang="eng" content="Forestry Commission, GB">
 <meta name="description" content="Forestry Commission's privacy policy">
 <meta name="DC.Description" lang="eng" content="Forestry Commission's privacy policy">
-<meta http-equiv="Expires" content="Thu, 28 June 2012 7:33:46 GMT">
+<meta http-equiv="Expires" content="Fri, 10 May 2013 21:39:40 GMT">
 <meta name="DC.Format" lang="eng" scheme="IMT" content="html/text">
 <meta name="DC.Date.Issued" scheme="ISO8601" content="2003-12-23">
 <meta name="eGMS.subject.keyword" lang="eng" content="forestry, forest, tree, forestry commission, forrestry, comission, wood, timber, places to go, GB, things to do, grants, licences, publications, research, leaf, broadleaves, conifers, arbortum, pinetum, Forestry Commission">
 <meta name="keywords" content="forestry, forest, tree, wood, timber, conifers, woodlands, broadleaves, Forestry Commission">
 <meta name="DC.Language" scheme="ISO 639-2/B" content="eng">
-<meta name="DC.Date.Modified" scheme="ISO8601" content="2012-06-18">
+<meta name="DC.Date.Modified" scheme="ISO8601" content="2013-03-25">
 <meta name="DC.Publisher" lang="eng" content="Forestry Commission, 231 Corstorphine Road, Edinburgh EH12 7AT, Tel: 0131 334 0303">
 <meta name="e-GMS.disposal.review" content="2013-04-17">
 <meta name="DC.Rights.Copyright" lang="eng" content="Crown Copyright">
 <meta name="DC.Title" lang="eng" content="Forestry Commission - Privacy Policy">
 <meta name="DC.identifier" lang="eng" content="http://www.forestry.gov.uk/website/forestry.nsf/byunique/infd-52ybs4">
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" language="JavaScript"></script>
+<script language="javascript" src="/website/forestry.nsf/geotools.js"></script><script type="text/javascript" src="/website/forestry.nsf/jquery-1.7.1.min.js"></script>
+ <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+ <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/website/forestry.nsf/fullcalendar.js"></script>
+<script type="text/javascript" src="/website/forestry.nsf/webform.js"></script>
+<script type="text/javascript" src="/website/forestry.nsf/slides.jquery.js"></script><script type="text/javascript" language="JavaScript"></script>
 <script language="JavaScript" type="text/javascript">
 <!-- 
 document._domino_target = "_self";
@@ -40,6 +47,46 @@ function _doClick(v, o, t) {
   }
   return returnValue;
 }
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+var cloned=false;
+$(function(){
+	var iCycleCnt=0;
+  	$("#slides").slides({
+    		play: 5000,
+    		generateNextPrev: false,
+    		animationComplete: function(cnt) {
+			if (cnt==ssimgcnt)
+			{
+				if (++iCycleCnt>2) // stop after the animation has gone round 3 (>2) times.
+				{
+					clearInterval($('#slides').data('interval'));  // only way I could get it to stop
+				}
+			}
+		}
+  	});
+  	$('#awhatshere').click(function() { 
+  		if (!cloned)
+  		{
+  			cloned=true;
+	  		$('#facclone').clone().find("ul").attr("id","iconsnojs").appendTo('#dlgFAC');
+	  	}
+		$( "#dlgFAC" ).dialog({height:500});
+		return false; 
+	}); 
+});
+/**
+ * jQuery.browser.mobile (http://detectmobilebrowser.com/)
+ *
+ * jQuery.browser.mobile will be true if the browser is a mobile device
+ *
+
+(function(a){jQuery.browser.mobile=/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))})(navigator.userAgent||navigator.vendor||window.opera);
+ **/
+
 // -->
 </script>
 
@@ -149,10 +196,33 @@ function timerClose(id)
 
 // -->
 </script>
-</head>
-<body text="#000000" bgcolor="#FFFFFF">
 
-<form action=""></form>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function procChange(el)
+{
+	if (el.selectedIndex==0)
+		$(".nptp").css("display","");
+	else
+	{
+		$(".nptp").css("display","none");
+		$("#tablepage").attr("checked",false);
+	}
+}
+
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" class="engb">
+
+<form action="">
+<script>
+//var mobile=jQuery.browser.mobile;
+var locinf=false;
+var ssimgcnt=0;
+</script>
+</form>
+<input type="hidden" id="unid" value="8025799F003911EE80256AD4002DB6ED"><!-- unid  -->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -182,7 +252,7 @@ addLinkerEvents();
   
 <!-- div to centre the web page on the screen-->
 <div id="centrepage">
-<!-- UNIVERSAL BANNER -->
+<!-- UNIVERSAL BANNER (not Wales) -->
   <div id="lidtoponeuni"><a href="http://www.forestry.gov.uk"><img src="/images/universaltopleft.gif/$file/universaltopleft.gif" alt="to Forestry Commission home page" width="240" height="29" border="0" style="float:left"></a>
     <ul id="universalbanner">
       <div class="universalverticalrule"></div><li><a href="http://www.forestry.gov.uk" accesskey="1">Home</a></li>
@@ -192,37 +262,8 @@ addLinkerEvents();
       
     </ul>
 </div>
+<script src="/website/fcwide.nsf/contextual.js" type="text/javascript"></script>
 <script type="text/javascript">
-var nav4 = window.Event ? true : false;
-function showKey(e,f) {
-  if (nav4) // Navigator 4.0x
-  {
-    var whichCode = e.which
-  }
-  else // Internet Explorer 4.0x
-  {
-    if (e.type == "keypress") // the user entered a character
-      var whichCode = e.keyCode
-    else
-      var whichCode = e.button;
-  }
-  if (whichCode==13)
-  {
-    if (f=="ls")
-        ls();
-    else
-    {
-        if (f=="google")
-            doGoogle();
-        else if (f=="googlefr")
-            doGoogle("fr");
-        else
-             opensearch("");
-    }
-    return false;
-  }
-    return true;
-}
 function opensearch(sSubsite)
 {  
   var sCountry="gb";
@@ -237,32 +278,23 @@ function opensearch(sSubsite)
     window.open("/website/searchall.nsf/SearchTemplate"+sSubsite+"?OpenForm&amp;Country="+sCountry+";Areas="+sAreas+";query=%22"+document.getElementById("SearchInput").value.replace(/^\s*|\s*$/g,"")+"%22"+sCntQual+";","_self");
   else
 window.open("/website/searchall.nsf/SearchTemplate?OpenForm"+sSubsiteUse+"&amp;Country="+sCountry+";Areas="+sAreas+";query=%22"+document.getElementById("SearchInput").value.replace(/^\s*|\s*$/g,"")+"%22"+sCntQual+";","_self");
-//  window.open("/website/searchall.nsf/SearchTemplate"+sSubsite+"?OpenForm&c="+sCountry+"&Areas="+
-//  sAreas+";query="+ document.forms[0].item("SearchInput").value+sCntQual+";","_self")
-}
-function ls()
-{
-window.open("/tools/lucene.nsf/LuceneAdv?Open&query=%2b("+document.getElementById("SearchInput").value.replace(/^\s*|\s*$/g,"")+")","_self");
-}
-function doGoogle(s)
-{
-	el=document.getElementById("SearchInput");
-	if (el==null)
-		return;
-         	if (s=="fr")
-window.open("/website/searchall.nsf/GoogleResultsFR?open=&cx=001774383426470524382:up0y5skrqss&cof=FORID:10&ie=UTF-8&q="+el.value,"_self");
-	else window.open("/website/searchall.nsf/GoogleResults?open=&cx=001774383426470524382%3Aclf4ufhjvw0&cof=FORID%3A9&ie=UTF-8&q="+el.value,"_self");
-	//window.open("http://www.google.com/cse?cx=001774383426470524382%3Atoxdzmmc_3u&ie=UTF-8&q="+el.value,"_self");
 }
 </script>
-<input type="hidden" name="CountryJS" value="gb"><input type="hidden" name="return" value="/website/searchall.nsf/SearchTemplate?OpenForm&amp;Country=gb;Areas=General+Information:Recreation+and+Wild+Woods:News+Releases:Publications:public+register+of+planting+and+felling+applications:Public+Register+of+planting+and+felling+applications:Learning:Forest+Research"><input type="hidden" name="Areas" value="General Information:Recreation and Wild Woods:News Releases:Publications:public register of planting and felling applications:Public Register of planting and felling applications:Learning:Forest Research"><input type="hidden" name="SubsiteUse" value="">
-  <div id="gblidtoptwo"><a href="http://www.forestry.gov.uk/forestry/hcou-4u4hzm"><img src="/images/gbtitleleft09.gif/$file/gbtitleleft09.gif" alt="to Great Britain home page" width="240" height="41" border="0" style="float:left"></a>
+<input type="hidden" name="CountryJS" value="gb">
+<input type="hidden" name="return" value="/website/searchall.nsf/SearchTemplate?OpenForm&amp;Country=gb;Areas=General+Information:Recreation+and+Wild+Woods:News+Releases:Publications:public+register+of+planting+and+felling+applications:Public+Register+of+planting+and+felling+applications:Learning:Forest+Research">
+<input type="hidden" name="Areas" value="General Information:Recreation and Wild Woods:News Releases:Publications:public register of planting and felling applications:Public Register of planting and felling applications:Learning:Forest Research">
+<input type="hidden" name="SubsiteUse" value="">
+<!-- WALES -->
+  <div id="gblidtoptwo"><a href="http://www.forestry.gov.uk/forestry/hcou-4u4hzm"></a>
+<!-- zzz gb - gb -->
+<!-- Common -->
     <ul id="gbbanner">
-      <div class="gbverticalrule"></div><li><a href="/forestry/hcou-4u4hzt">About&nbsp;us</a></li>
+      <div class="gbverticalrule" style="margin-left: 240px"></div><li><a href="/forestry/hcou-4u4hzt">About&nbsp;us</a></li>
       <div class="gbverticalrule"></div><li><a href="/forestry/hcou-4ubhr3" accesskey="7">Contact&nbsp;us</a></li>
       <div class="gbverticalrule"></div><li><a href="/newsrele.nsf/web-highlights">News</a></li>
+<!-- FR specific -->
+
       <div class="gbverticalrule"></div>
-<!-- Block for external site -->
       <li>
 	<div id="searchnonjs" style="padding-left: 0.6em; padding-top: 0.2em; display: none;"><label for="SearchInput"><a accesskey="4" href="/website/searchall.nsf/SearchFormGoogle" class="whitetext9">Search</a></label></div>
       </li>
@@ -272,23 +304,12 @@ window.open("/website/searchall.nsf/GoogleResultsFR?open=&cx=0017743834264705243
         <input type="button" name="sa" id="searchgo" style="display: inline;" value="Search" onclick="doGoogle(&quot;&quot;)">
       </div>
         </li>
-<!-- End Block -->
     </ul>
 </div>
 <script>
-el=document.getElementById("SearchInput");
-if (el!=null)
-{
-	el.style.display='inline';
-}
-el=document.getElementById("searchgo");
-if (el!=null)
-	el.style.display='inline';
-el=document.getElementById("searchnonjs");
-if (el!=null)
-	el.style.display='none';
+showHideSearch();
 </script>
-
+ <!-- Breadcrumbs -->
 
 
 <!-- HOLD THE PAGE WIDTH FOR DEFAULT 1024X768 RESOLUTION DISPLAY -->
@@ -300,26 +321,31 @@ if (el!=null)
 
 
 <ul>
-<li class="lihead"><a href="/forestry/INFD-7VVEC8"><div class="delta">Δ</div>Website policies&nbsp;</a></li>
-<li><a href="/website/forestry.nsf/byunique/hcou-4ubehr">Accessibility statement and policy</a></li> <li><a href="/website/forestry.nsf/byunique/infd-7vvegr">Browser support policy</a></li> <li><span class="MENUCURPAGE">Privacy and cookie policy</span></li> <li><a href="/website/forestry.nsf/byunique/infd-7pmj6r">User comment policy</a></li><!--### Accessibility statement and policy+Browser support policy+Privacy and cookie policy+User comment policy ~ website/forestry.nsf/ByUnique/HCOU-4UBEHR*website/forestry.nsf/ByUnique/INFD-7VVEGR*website/forestry.nsf/ByUnique/INFD-52YBS4*website/forestry.nsf/ByUnique/INFD-7PMJ6R -->
+
+<li class="lihead"><a href="/forestry/INFD-7VVEC8">Website policies</a></li>
+<li><a class="" href="/forestry/hcou-4ubehr">Accessibility statement and policy</a></li> <li><a class="" href="/forestry/infd-7vvegr">Browser support policy</a></li> <li><span class="MENUCURPAGE">Privacy and cookie policy</span></li> <li><a class="" href="/forestry/infd-7pmj6r">User comment policy</a></li><!--### Accessibility statement and policy+Browser support policy+Privacy and cookie policy+User comment policy ~ website/forestry.nsf/ByUnique/HCOU-4UBEHR*website/forestry.nsf/ByUnique/INFD-7VVEGR*website/forestry.nsf/ByUnique/INFD-52YBS4*website/forestry.nsf/ByUnique/INFD-7PMJ6R --> <!-- latest version 13/01/28 - must use comp file name due to use url but check for discrep between no. titles and links-->
 </ul>
+ <!-- social media -->
+
+
 
 
 
 
     </div>
 <!-- HOLD THE MAIN CONTENT AND RIGHT HAND CONTENT TOGETHER-->	
-<div id="contentholder">
+<div id="contentholder"><!-- jj: 0 -->
 
- <div style="margin-left: 20px; margin-bottom: 21px"><h1 class="subsection">Privacy and cookie policy</h1></div>
-<!-- THE MAIN PAGE CONTENT -->
-  <div id="maincontent" class="widecol middlecol">
-    <a name="content" style="display:none"></a>
+ <div style="margin-left: 20px; margin-bottom: 0"><h1 class="vah1noborder subsection bannerheading" style="margin-top:0;clear:both; margin-left:0;padding-top:5px">Privacy and cookie policy</h1></div><!-- sx -->
+<!-- THE MAIN PAGE CONTENT --> 
+ <div id="maincontent" class="widecol middlecol">
+    <a name="content" style="display:none"></a> <!-- rating -->
 
+ <!-- Autumn colours -->
 
   
 
-    <p>This page explains how the Forestry Commission, uses any information you give to us through our website, and the ways in which we protect your privacy.</p>
+    <p>This page explains how we use any information you give to us through our website, and the ways in which we protect your privacy.</p>
 <ul>
 <li><a href="#DPA" target="_self">The Data Protection Act</a></li>
 <li><a href="#Cookies" target="_self">Cookies</a> 
@@ -352,7 +378,7 @@ if (el!=null)
 <p>You can manage these small files yourself and learn more about them through &nbsp;"<a rel="external" href="http://www.direct.gov.uk/managingcookies" target="_blank">Internet browser cookies - what they are and how to manage them</a>"</p>
 <p>If you'd like to learn how to remove cookies set on your device, visit '<a rel="external" href="http://www.aboutcookies.org/Default.aspx?page=1" target="_blank">Our use of cookies</a>'</p>
 <h3>Picture Library</h3>
-<p>On this site&nbsp;we use cookies in the&nbsp;Picture Library&nbsp;to store your lightbox for your next visit.&nbsp;The Forestry Commission&nbsp;does not collect any information about you using cookies.</p>
+<p>On this site&nbsp;we use cookies in the&nbsp;Picture Library&nbsp;to store your lightbox for your next visit.&nbsp;We do not collect any information about you using cookies.</p>
 <table style="width: 480px;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -608,16 +634,19 @@ if (el!=null)
 <p>www.forestry.gov.uk contains links to other websites, both those of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information. We do not pass on any personal information you have given us to any other site.</p>
 <p><a href="#top" target="_self">Back to top</a></p>
 <h2><a name="Contact"></a>Access to your information and contacting us</h2>
-<p>You can change your registration information by contacting us. If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by e-mail, phone or post:</p>
+<p>You can change your registration information by contacting us. If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us:</p>
 <p>e-mail: <a href="mailto:web_master@forestry.gsi.gov.uk">Web_master@forestry.gsi.gov.uk</a></p>
-<p>Phone: 0131 314 6555</p>
-<p>Post:</p>
+<p>0131 314 6555</p>
 <p class="ntleft">The Webmaster<br>Communications Branch<br>Forestry Commission<br>231 Corstorphine Road<br>Edinburgh<br>EH12 7AT<br>United Kingdom</p>
 <p>If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.</p>
 <p><a href="#top" target="_self">Back to top</a></p>
+ <!-- Go Ape: TODO -->
+<!-- Eval text -->
 
 
 <!-- mmscript = , error= --> <!-- SWF stuff -->
+
+ <!-- Gallery -->
 
 
 
@@ -625,9 +654,11 @@ if (el!=null)
 </div>
 <!-- THE RIGHT HAND CONTENT -->
 <div id="righthandcontent" class="rhswide" style="display:none">
+<!-- debug:  RHS Location_33 --> 
+<!-- debug:  RHS Contact_31 --> 
 <!-- debug:  RHS UsefulLinks_13 --> 
 <!-- debug:  RHS Name_xx --> 
-<!-- debug: RHS Twitter_27 -->
+<!-- debug: RHS Twitter_35 -->
 </div>
 </div>
 </div>
@@ -636,44 +667,101 @@ if (el!=null)
 <br clear="all">
 <div id="pagefooter" style="padding-bottom:40px">
 <ul>
-Last updated<li>: <b>06/18/2012</b></li>
+Last updated<li>: <b>03/25/2013</b></li>
 
 <li><a href="/forestry/infd-52ybs4" class="footer">Privacy&nbsp;&amp;&nbsp;cookie&nbsp;policy</a></li>
 <li>| <a href="/forestry/hcou-4ubekm" class="footer">Disclaimers</a>
-</li><li>| <a href="/forestry/HCOU-4UBEJZ" class="footer">©&nbsp;Crown&nbsp;Copyright&nbsp;2012</a></li>
-</ul><div id="pagefooterlogo"><a href="http://www.direct.gov.uk/en"><img src="/images/directgovlogowhite.gif/$file/directgovlogowhite.gif" alt="DirectGov" width="140" height="46" style="border:0;vertical-align: top"></a></div></div></div><script type="text/javascript">addLinkerEvents();</script><!--INFD-52YBS4xwww.forestry.gov.ukThumbImg_12;AnyField_24;RelatedPages_10;pdf_9;UsefulLinks_13;Facebook_28;Twitter_27 $$WebClient-->
-<form>
-<script src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
-<script src="/website/forestry.nsf/cookieControl-4.1sg.min.js" type="text/javascript"></script>
-<script type="text/javascript">//<![CDATA[
-if ("www.forestry.gov.uk"!="fcnotes" && "www.forestry.gov.uk"!="fcnotestest")
-  cookieControl({
-      introText:'<p>This site uses some unobtrusive cookies to store information on your computer.</p>',
-      fullText:'<p>Some cookies on this site are essential, and the site won\'t work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.</p><p>We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you\'re not happy with this, we won\'t set these cookies but some nice features of the site may be unavailable.</p><p>By using our site you accept the terms of our <a href="http://www.forestry.gov.uk/forestry/infd-52ybs4#Cookies">Privacy Policy</a>.</p>',
-      position:'left', // left or right
-      shape:'diamond', // triangle or diamond
-      theme:'light', // light or dark
-      startOpen:true,
-      autoHide:6000,
-      subdomains:true,
-      onAccept:function(){ccAddAnalytics()},
-      onReady:function(){
-	if (!CookieControl.maySendCookies())
-		if ($(".nofccookie"))  $(".nofccookie").remove();
-      },
-      onCookiesAllowed:function(){ccAddAnalytics()},
-      onCookiesNotAllowed:function(){},
-      countries:'United Kingdom' // Or supply a list ['United Kingdom', 'Greece']
-      });
- 
-      function ccAddAnalytics() {
-        jQuery.getScript("http://www.google-analytics.com/ga.js", function() {
-          var GATracker = _gat._createTracker('UA-568932-1');
-          GATracker._trackPageview();
-        });
-      }
-   //]]>
-</script>  </form>
+</li><li>| <a href="/forestry/HCOU-4UBEJZ" class="footer">©&nbsp;Crown&nbsp;Copyright&nbsp;2013</a></li>
+</ul><div id="pagefooterlogo"></div></div></div><script type="text/javascript">addLinkerEvents();</script><!--INFD-52YBS4xwww.forestry.gov.ukThumbImg_12;Location_33;Contact_31;AnyField_24;RelatedPages_10;pdf_9;UsefulLinks_13;;;Facebook_28;Twitter_35 $$WebClient-->
+<div id="dialog-form" title="Add New Page" style="display:none">
+	<form>
+<input type="hidden" name="webdb" id="webdb" value="website/forestry.nsf">
+	<fieldset>
+		<label for="name">Template</label><br>
+		<select id="sel" onchange="procChange(this)">
+		  <option value="Generic">Generic</option>
+		  <option value="Place">Place</option>
+		  <option value="Event">Event</option>
+		  <option value="Activity">Trail</option>
+		  <option value="OtherRec">Other Recreation</option>
+		</select>
+		<div style="padding-top:10px">
+		<label for="position" style="padding-top:10px">Navigation position</label><br>
+		
+		<select id="position">
+		  <option value="menu">Page appears as a menu link</option>
+		  <option value="page">Page will be linked from the centre</option>
+		</select>
+		</div>
+		<div style="padding-top:10px">
+		<div class="nptp">Page Layout</div>
+		<input class="nptp" type="checkbox" name="tablepage" id="tablepage"> <label class="nptp" for="tablepage">Table page (no RHS column)</label>
+		</div>
+	</fieldset>
+	</form>
+</div>
+<div id="dialog-pubmenu" title="Publisher Menu" style="font-size:0.8em; display:none;overflow:hidden;">
+<table>
+	<tbody><tr>
+		<td>Status:</td>
+		<td>This document is published</td>
+	</tr>
+	<tr>
+		<td>Owner:</td>
+		<td>Helene Cornu</td>
+	</tr>
+	<tr>
+		<td>Unique:</td>
+		<td>INFD-52YBS4</td>
+	</tr>
+	<tr>
+		<td>Shortcut:</td>
+		<td>None</td>
+	</tr>
+	<tr>
+		<td>Template:</td>
+		<td>Generic</td>
+	</tr>
+	<tr>
+		<td>Menu Links:</td>
+		<td>4</td>
+	</tr>
+	<tr valign="top">
+		<td>Actions:
+		</td>
+		<td>
+<ul>
+<li class="unpublished">You are not authorised to link from this page or edit it.  Please contact Helene Cornu to do so.</li>
+
+
+<!-- Menu Count: 4 -->
+
+
+</ul>
+		</td>
+	</tr>
+</tbody></table></div>
+<div id="dlgFAC" title="What's here">
+</div>
+<div id="dlgLocation" title="How to get here" style="display:none">
+<div>
+
+</div>
+</div>
+<script>
+    /*$('#pbGallery').galleria({
+        	width:740,
+	autoplay: 4000,
+	carousel: false,
+	showCounter: false,
+	thumbnails: false,
+	transition: 'fade',
+	transitionSpeed: 800,
+        	height:300
+    });*/
+</script>
+<form><!-- INFD-52YBS4 -->
+</form>
 
 
 </body></html>
