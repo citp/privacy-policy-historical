@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025170617id_/http%3A//findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510220827id_/http%3A//findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FindSomeone
+# FindSomeone
 
 ## Privacy Policy
 
@@ -16,7 +16,7 @@ We have designed a thorough privacy policy with these things in mind.
 
 If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer through our [contact form](https://web.archive.org/contactform.aspx).
 
-This privacy policy was last updated on 1st May 2012.
+This privacy policy was last updated on 17th April 2013.
 
 ### Collection and use of your information
 
@@ -59,11 +59,11 @@ Customer service phone conversations may be recorded for internal training and q
 
   6. FindSomeone usage information.
 
-We may collect information on how you use FindSomeone for the purposes of improving our services. This includes collecting and storing information relating to features you use and pages you visit on FindSomeone. See also the section on "Cookies" below. This information is mainly used for our own purposes. However, members may have the ability to see which other members have viewed their profile and saved them as a favourite. 
+We collect information on your usage of FindSomeone for the purposes of providing and improving our services, researching users' use of FindSomeone, demographics, interests, and behaviour, and to better understand and serve you and our community. 
 
-We use additional information to do internal research on our users' demographics, interests, and behaviour to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. 
+We collect information about the features you use and pages you visit on FindSomeone, the URL that you just came from when you arrive at FindSomeone, the URL you next go to when you leave FindSomeone, your browser and device information, and your IP address. See also the section on "Cookies" below. This information is used by us internally, and to enable features on FindSomeone such as allowing members to see which other members have viewed their profile or saved them as a favourite. 
 
-Users who login have their IP addresses recorded. This information will only be provided to legal authorities in cases of suspected fraud or for law enforcement purposes. This information is stored securely and will not be provided to other members or non-authorised parties. 
+Users who log in have their IP addresses recorded. This information will only be provided to legal authorities in cases of suspected fraud or for law enforcement purposes. This information is stored securely and will not be provided to other members or non-authorised parties. 
 
 If you choose to post messages on our Message Board, we will collect the information you provide.
 
@@ -82,7 +82,7 @@ We have a policy of enabling you to control the emails you receive and to opt-ou
 
 ### Control of your password
 
-You are responsible for protecting your login details (your email address and password). Do not disclose this information to third parties. If you choose to share your login details with third-parties for other services, you are responsible for all actions taken with this information. We strongly recommend using different passwords on different sites and that you review the privacy policy of any parties to whom you provide an email address and password. 
+You are responsible for protecting your log in details (your email address and password). Do not disclose this information to third parties. If you choose to share your log in details with third-parties for other services, you are responsible for all actions taken with this information. We strongly recommend using different passwords on different sites and that you review the privacy policy of any parties to whom you provide an email address and password. 
 
 FindSomeone will never ask you for your address or password by email.
 
