@@ -1,59 +1,32 @@
-> *The following text is extracted and transformed from the ten.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016022916id_/http%3A//www.ten.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ten.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212658id_/http%3A//www.ten.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-  
+**LFP Internet Group, LLC. ("LFP")** has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by us.
 
+**IP Addresses:** when visitors access our websites, we automatically capture the IP address of the source computer, the referring site and the destination site. We use this information to control access to our websites, and to optimize the presentation of our websites. IP addresses may also be used to help identify users and to gather broad demographic information. We also capture data on which pages have been accessed by visitors, and the frequency with which they are accessed.This information is used to understand our visitors� preferences and to balance the load on our servers.
 
-Thank you for visiting http://ten.com, a New Frontier Media (NOOF) Web site. Your privacy rights are important to us. To allow you to make an informed decision concerning your privacy, we are providing this notice as a means of explaining our online information practices and any choices you can make about the way your information is collected and handled. 
+**Cookies:** "Cookies" are small files of data that reside on visitors� computers. Cookies allow us to recognize visitors, customize their experience, and offer efficiencies related to login and access. We set a "Session Cookie" upon visitor login to enable them to access multiple domains without having to re-enter login information. Once a user closes their browser, Session Cookies become inactive. We may also set longer-lasting cookies to make login procedures more efficient for returning members. These may contain email addresses or usernames which are encrypted so they can be interpreted only by LFP. From time to time we may share cookie information with third-party partners with whom we have an official relationship. This is done to make the establishment of new accounts more efficient, and to facilitate special offers. Most browsers have settings that enable users to disable cookies on their machines. If cookies are disabled, certain website services or functionality may not function properly.
 
-**You Are Giving Your Consent…**  
-By accessing our site, you consent to our right to collect and use the information described in this Privacy Policy. Any changes to this Privacy Policy will be reflected on this page. 
+**Third-Party Websites:** LFP websites often contain links to websites operated by other companies that are not controlled by LFP. LFP therefore has no responsibility or liability for the policies, activities or content of these sites. Nonetheless, we seek to provide our visitors with a positive experience, so we welcome any feedback about these sites.
 
-**It's All About You…**  
-We may collect personally identifiable information about you. For most persons accessing our site, this information concerns basic, non-personally identifiable information, such as the type of browser you are using (e.g., Internet Explorer, Opera), the type of operating system you are using, (e.g., Windows XP, Mac OS) and the domain name of your Internet service provider (e.g., MSN, Earthlink). This information is collected in greater detail if you join our site as a Member, and in most parts of most of our sites, only Members will be able to order programs and services or otherwise participate in the site's activities and offerings. Information collected from our Members may include: name, address, e-mail address, telephone number, fax number, and information about our Members interests in and use of various products, programs, and services and credit card information from our billing providers. 
+**Public Forums:** websites operated by LFP may contain chat rooms, forums, message boards, and/or news groups. LFP prohibits the posting of illegal or defamatory content in its chat rooms, forums, message boards, and/or news groups, and reserves the right to remove any user-posted content at LFP�s sole discretion. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when disclosing personal information.
 
-**How We Use Your Information…**  
-Personally identifiable information submitted by our Members is stored in our Members' database and is used to fulfill your requests for services, programs and, from time to time, any products we may offer. No personal information will be shared with any third parties without your permission. 
+**Financial Information:** financial information, such as a credit card number or bank account number, is captured when users place an order or make a purchase. Financial information is used to check the purchaser�s qualifications and to process payment(s) for products and services ordered. Financial data is only captured on web pages that reside on secure servers. Transmission of financial data over the Internet is always fully encrypted. Storage of financial information is only handled by third-party PCI-compliant payment processors. After a transaction, no financial data resides on LFP servers.  Financial information is never shared with any parties other than the financial institutions directly involved in processing the transaction.
 
-Data received from casual visitors, who have not yet decided to become Members, is stored in log files located on our servers and is now in the process of becoming part of an overall database which includes information received from visitors and Members, alike. 
+**Personal Information:** personal information such as a person�s first name, last name or billing address, is captured when a user places an order or makes a purchase. This information is used to check the purchaser�s qualifications and to process payment(s) for products and services ordered. This information is also used for customer support purposes. We may disclose personal information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process. We may also disclose personal information in the course of investigating suspected fraud or other illegal activity. Outside of the aforementioned legal processes, personal information is never shared with any parties other than the financial institutions directly involved in processing the transaction.
 
-Occasionally, we receive special information from non-Members, such as requests from those persons who are interested in receiving daily e-mails containing special communications, such as solicitations and other offers. This information may be kept in our own databases or transmitted to third-parties which specialize in routinely providing such information. 
+**Customer Information:** customer information such as a username, password or email address can be captured when a customer registers on a website, places an order, subscribes to a newsletter, responds to a survey, or otherwise enters information into a form on one of our websites. Customer information is primarily used to manage access to our websites and to communicate with customers when necessary about membership, product, billing or other support-related concerns. We may retain correspondence such as e-mails or faxes for the purpose of customer support reference and improvement. Customer information may also be used to convey company news, administer a contest, conduct a survey, communicate a special offer from a preferred partner, or promote internal programs. All promotional emails contain an easy and automated way to unsubscribe from receiving future emails. Alternatively, recipients can also unsubscribe from receiving future emails by sending a request to [unsubscribe@hustleremail.com](mailto:unsubscribe@hustleremail.com).
 
-As a general rule, we maintain the above information as a means of communicating with you, marketing to you and improving the interactive experience of our Web sites. For example, we may sometimes use the above information to notify you when you have won one of our contests or when we make changes to our subscriber agreements, or to contact you about your account with us. 
+**Consent:** by accepting the Terms and Conditions during registration, website visitors expressly consent to the use and disclosure of personal information in the manner described in this Privacy Policy.
 
-Periodically, we may use the non-personally identifiable information that we collect to improve the design and content of our sites, to enable us to personalize your Internet experience, or to assist us in statistical analysis. 
+**Questions:** If there are any questions regarding this privacy policy you may email us at [support@hustler.com](mailto:support@hustler.com), or send a letter to: 
 
-We reserve the right to disclose personally identifiable information in response to a court order or a subpoena or in response to a law enforcement agency's request. 
+LFP Internet Group, LLC  
+8484 Wilshire Blvd Suite #900  
+Beverly Hills, CA 90211  
+USA
 
-The Web sites covered by this Privacy Policy will, from time to time, make personally identifiable information available to third-parties in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+**Version:** LFP reserves the right to update its privacy policy at its own discretion. Upon making changes to our privacy policy, we will publish a new "last modified" date below.
 
-**No Minors, Please!**  
-Our Web sites and their material are not suitable for minors, nor, obviously, are they directed to children below the age of 18. We do not permit, and wherever possible, we actively seek to prevent or dissuade registration from persons below these ages. We do not knowingly collect personally identifiable information from children under 18 years of age. 
-
-****Cookies…**  
-We use "cookies" to enhance your experience with our sites and to enable us to market to you products, services and other Web sites which we think you will find to be of interest. Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, becoming a registered Member at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
-
-Cookies help us to determine if you are a repeat visitor, determine the number of page views and entry points to our sites and in some cases, help us to gauge the overall flow and design of our Web sites to aid you and other visitors in your future enjoyment. 
-
-Should you prefer not to permit the collection of information through the use of cookies, many browsers offer preferences allowing users to accept and reject cookies. 
-
-**Our Commitment to Security…**  
-We take reasonable precautions when it comes to providing the proper levels of physical, electronic, and managerial support to safeguard and help prevent unauthorized access, maintain data security, and to correctly use the information we collect online. 
-
-Although we take what we consider appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
-
-**How to Contact Us…**  
-If you have any specific questions or concerns about our Privacy Policy or if you believe we have obtained certain data about you which you believe is erroneous, you may make any inquiries or send any corrections by writing to us at: 
-
-Attn: Privacy Policy  
-10 Arkless Grove  
-The Grove, County Durham  
-Consett DH8 8AB  
-United Kingdom
-
-We reserve the right to seek verification of your identity before giving out information.
-
-Effective: July 28, 2004. 
-
-**
+This policy was last modified on November 4, 2009.
