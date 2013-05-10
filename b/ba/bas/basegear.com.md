@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017051143id_/http%3A//www.basegear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510203859id_/http%3A//www.basegear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Base Gear | Privacy Policy
 
