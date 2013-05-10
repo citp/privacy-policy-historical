@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmovs.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016143304id_/http%3A//www.coolmovs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmovs.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511002003id_/http%3A//www.coolmovs.com/privacy.html) for the most accurate reproduction.*
 
 # XXX Sex Movies, Free Porno Tube, Online HD Videos, Streaming Sex Clips and Free Porn Vids
 
