@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barefeetonthedashboard.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022055427id_/http%3A//www.barefeetonthedashboard.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefeetonthedashboard.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510112118id_/http%3A//www.barefeetonthedashboard.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # bare feet on the dashboard: Privacy Policy
 
