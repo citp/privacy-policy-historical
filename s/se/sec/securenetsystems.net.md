@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securenetsystems.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005253id_/http%3A//www.securenetsystems.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securenetsystems.net privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510102544id_/http%3A//www.securenetsystems.net/company/privacy) for the most accurate reproduction.*
 
 # Securenet Systems’ Online Privacy Policy
 
