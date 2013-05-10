@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathlinks.ro privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630172257id_/http%3A//www.artofproblemsolving.com/Company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathlinks.ro privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510065045id_/http%3A//www.artofproblemsolving.com/Company/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
