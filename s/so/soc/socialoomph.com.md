@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialoomph.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212075508id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialoomph.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510095302id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » SocialOomph.com
 
@@ -34,7 +34,7 @@ In addition to the uses identified elsewhere in this privacy policy, we may use 
 
 (b) send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology;
 
-(c) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by using the opt-out link(s) that are included in all our email communications with you);
+(c) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by using the opt-out link(s) that are included in all our email communications with you);
 
 (d) provide other companies with statistical information about our users - but this information will not be used to identify any individual user.
 
@@ -42,7 +42,7 @@ We will not without your express consent provide your personal information to an
 
 ### Facebook Privacy
 
-When you add your Facebook account to our application, we store only the unique identifier (UID) of your account. In addition, we access your first name, last name, and profile picture as required for display purposes on your logged-in member pages, but these data elements are not stored in our system.
+When you add your Facebook account to our application, we access your first name, last name, and profile picture as required for display purposes on your logged-in member pages.
 
 When you revoke access to your Facebook account from our system, our application immediately ceases to make calls to Facebook on your account.
 
