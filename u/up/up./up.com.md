@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511003017id_/http%3A//www.up.com/uprr/aboutup/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510130041id_/http%3A//www.up.com/up/aboutup/corporate_info/privacy/index.htm) for the most accurate reproduction.*
 
-# UP:Website Privacy Policy
+# UP: Website Privacy Policy
 
   * Our Commitment to Privacy
   * Information Collected and How We Use It
