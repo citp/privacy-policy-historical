@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caplinked.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922022308id_/https%3A//secure.caplinked.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caplinked.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510083616id_/https%3A//secure.caplinked.com/about/privacy) for the most accurate reproduction.*
 
 # CapLinked | About | Privacy
 
@@ -23,7 +23,7 @@ To enhance your security:
 
 Here's what you can do: 
 
-  * Protect access to your account. Only you should access it
+  * Protect access to your account, only you should access it
   * Only share information with people you trust
   * Remind people of confidentiality, security and privacy rules
 
