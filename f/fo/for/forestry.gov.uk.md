@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628064831id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204111id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
-This page explains how the Forestry Commission, uses any information you give to us through our website, and the ways in which we protect your privacy.
+This page explains how we use any information you give to us through our website, and the ways in which we protect your privacy.
 
   * The Data Protection Act
   * Cookies
@@ -45,7 +45,7 @@ If you'd like to learn how to remove cookies set on your device, visit '[Our use
 
 ### Picture Library
 
-On this site we use cookies in the Picture Library to store your lightbox for your next visit. The Forestry Commission does not collect any information about you using cookies.
+On this site we use cookies in the Picture Library to store your lightbox for your next visit. We do not collect any information about you using cookies.
 
 Cookie| Typical content| Duration  
 ---|---|---  
@@ -191,13 +191,11 @@ Back to top
 
 ## Access to your information and contacting us
 
-You can change your registration information by contacting us. If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by e-mail, phone or post:
+You can change your registration information by contacting us. If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us:
 
 e-mail: [Web_master@forestry.gsi.gov.uk](mailto:web_master@forestry.gsi.gov.uk)
 
-Phone: 0131 314 6555
-
-Post:
+0131 314 6555
 
 The Webmaster  
 Communications Branch  
