@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121120338id_/http%3A//www.lightingafrica.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510094745id_/http%3A//www.lightingafrica.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Lighting Africa - Privacy Policy
+
+**Effective Date: December 1, 2008**  
+Your use of the Lighting Africa web portal (Site) and the services provided in connection with the Site (the "Services") constitutes your acknowledgement and acceptance of these new terms.  All capitalized terms not otherwise defined herein have the meanings set forth in the Terms of Use.
+
+We at the World Bank Group (the "WBG") respect your concerns about privacy.  The WBG is comprised of IBRD (International Bank for Reconstruction and Development); IDA (International Development Association); IFC (International Finance Corporation); MIGA (Multilateral Guarantee Agency); and ICSID (International Centre for Settlement of Investment Disputes).  This Privacy Policy is designed to make you aware of what information we collect when you use our Site, how your information is used and the steps we take to safeguard your information.  
+
+This policy answers the following questions:
+
+  * **What information do we collect about you and how do we use it?**
+  * **Will we share your personal information with third parties?**
+  * **What choices do you have about the collection and use of your personal information?**
+  * **What security measures do we take to safeguard your personal information?**
+
+
 
 This policy applies to the information the WBG collects about you as a result of your use of the Site, the Services, and the websites operated by our licensors, sponsors, and partners.  It does not apply to information about you collected through any related website or any third party website or offering linked to or otherwise accessible from the Site.  Please consult the privacy policies applicable to those sites and offerings.
 
@@ -9,23 +23,25 @@ In connection with the use of the Site and the Services, we collect certain pers
 
 Depending on how you use the Site, we may collect certain personal and non-personal information from you in the following ways:
 
- **Registration:**   There are many aspects of the Site that can be enjoyed as a visitor, but you need to register in order to utilize certain features and access certain content in the Site and to take advantage of many of the Services on the Site.  Registration is entirely optional. In the course of registration, you are required to provide us with certain personal information such as your e-mail address.   The information required to be provided in connection with registration, such as your name, is not made available to other users of the Site, unless you elect to do so.
+ **Registration:** There are many aspects of the Site that can be enjoyed as a visitor, but you need to register in order to utilize certain features and access certain content in the Site and to take advantage of many of the Services on the Site.  Registration is entirely optional. In the course of registration, you are required to provide us with certain personal information such as your e-mail address.   The information required to be provided in connection with registration, such as your name, is not made available to other users of the Site, unless you elect to do so.
 
- **Business Information:**   Registered users of the Site may elect to also fill out an extended profile with business information to help us customize features for you.  You may also opt to publish this business information in the Member Directory on the Site so other users can find you.  Filling out the business information form and publishing in the Member Directory are entirely optional.  If published on the Site, this information will be displayed to other users of the Site and other related country-specific websites.  Registered users may also elect to create a personalized web page for their business.
+ **Business Information:** Registered users of the Site may elect to also fill out an extended profile with business information to help us customize features for you.  You may also opt to publish this business information in the Member Directory on the Site so other users can find you.  Filling out the business information form and publishing in the Member Directory are entirely optional.  If published on the Site, this information will be displayed to other users of the Site and other related country-specific websites.  Registered users may also elect to create a personalized web page for their business.
 
- **Other Information:**   In addition, in the course of your interactions with the Site, we may collect other non-personal information such as browser type, IP address and pages visited or information about the Services you use, the searches you perform, the results of those searches, and other information related to your use of a particular Site or Service.  We also may use cookies, beacons and other technologies to better manage our Site and offer you a more personalized experience with the Site.
+ **Other Information:** In addition, in the course of your interactions with the Site, we may collect other non-personal information such as browser type, IP address and pages visited or information about the Services you use, the searches you perform, the results of those searches, and other information related to your use of a particular Site or Service.  We also may use cookies, beacons and other technologies to better manage our Site and offer you a more personalized experience with the Site.
 
  **Special Note for Parents:** This Site is a general audience website and not designed or intended to attract children younger than 13. We do not collect personal information from any person we actually know is younger than 13.
 
- **II.                   Information disclosure to third parties**  
-We know how important it is to keep the personal information you've provided to us confidential. We will not rent, sell or share personal information about you with third parties except under certain circumstances as described herein. In all other cases, we will ask for your permission before we disclose your personal information.  
+ **II. Information disclosure to third parties**  
+We know how important it is to keep the personal information you've provided to us confidential. We will not rent, sell or share personal information about you with third parties except under certain circumstances as described herein. In all other cases, we will ask for your permission before we disclose your personal information.
+
 Affiliates and Partners: We may share the information you provide with companies and websites affiliated with the WBG in connection with the Lighting Africa initiative.
 
  **Disclosure for legal reasons:** We may release personal information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, or illegal conduct. In the event that we are legally compelled to disclose your personal information to a third party, we will make reasonable efforts to notify you unless doing so would violate the law or court order.
 
  **Agents and contractors:** Contractors sometimes have access to your personal information in the course of assisting in operating our business and providing products or services to you. These contractors include vendors and suppliers that provide us with technology, services, and/or content for the operation and maintenance of our site.
 
- **Aggregated, non-personal information:** We may share aggregated information with third parties. This is information that is combined with the non-personal information of other users and does not allow you to be identified or contacted.  Depending on the circumstances, we may or may not charge third parties for this aggregated information.  We also may not limit the third parties' use of the aggregated information.    
+ **Aggregated, non-personal information:** We may share aggregated information with third parties. This is information that is combined with the non-personal information of other users and does not allow you to be identified or contacted.  Depending on the circumstances, we may or may not charge third parties for this aggregated information.  We also may not limit the third parties' use of the aggregated information.
+
 Changes in our corporate structure: If all or part of our company is sold, merged or otherwise transferred to another entity, the personal information you have provided at this site may be transferred as part of that transaction.
 
  **III. Choice and control over your personal information**  
@@ -39,7 +55,8 @@ Newsletters, promotions, alerts and reminders: At various places on the Site, yo
  **Private messages:** Private messaging enables you to send emails through the Site forums to other registered Site users without revealing your email address. Only your nick-name (the nick-name you select for yourself when you register) will be visible to recipients of the email. We will not share your email address with other users unless you choose to make it viewable by others. You have the ability to not participate in private messaging and to opt-out of the receipt of private messages.  
 
  **V.** **Topic-Oriented Forums**  
-The Site features areas where people with similar business interests can share information and support one another.  Please remember that any information that you post in public areas is, by design, open to third parties.  
+The Site features areas where people with similar business interests can share information and support one another.  Please remember that any information that you post in public areas is, by design, open to third parties.
+
 Forum and chat postings and comments: By default, when you post to a forum your post will be associated with your nick-name and will include the attachments you provide.
 
  **VI.   Efforts we take to safeguard your personal information**  
