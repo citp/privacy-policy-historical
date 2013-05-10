@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221083629id_/http%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510162250id_/http%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PickTheBrain | Motivation and Self Improvement
+# Privacy Policy - Pick the Brain | Motivation and Self Improvement
 
 PickTheBrain knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the PickTheBrain Web site, you are accepting the practices outlined in this Privacy Policy.
 
