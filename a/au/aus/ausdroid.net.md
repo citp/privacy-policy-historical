@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226150300id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510020500id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Ausdroid
 
 **Privacy policy**
 
-This website is owned and operated by Ausdroid Pty Ltd ABN 33 149 532 847  (Ausdroid, we, us or our).
+This website is owned and operated by Ausdroid Media Pty Ltd, ABN 93 162 673 789 (Ausdroid, we, us or our).
 
-Ausdroid is not bound by the National Privacy Principles (NPPs) in the Privacy Act 1988. This is because we are a small company with an annual turnover below the threshold.
+Ausdroid is not bound by the National Privacy Principles (NPPs) in the Privacy Act 1988. This is because we are a small organisation with an annual turnover well below the threshold.
 
 However, we choose to comply with them as best we can, and this Privacy Policy applies to Ausdroid and the websites it operates.
 
@@ -91,7 +91,7 @@ If you have any questions or comments about this privacy policy, or if you wish 
 
 We review our privacy policy from time to time to make sure it is complying with legislative requirements and is in line with our users’ expectations. We reserve the right to change the policy accordingly.
 
-This policy was last updated in February 2010.
+This policy was last updated in March 2013.
 
 **Annexure A: Journalism Privacy Standards**
 
@@ -99,7 +99,7 @@ This policy was last updated in February 2010.
 
 The National Privacy Principles contained in the Privacy Act 1988 do not apply to “acts done or practices engaged in by a media organisation in the course of journalism”, so long as that media organisation is publicly committed to observing standards that deal with privacy in the context of its activities and those standards have been published in writing by the organisation.
 
-Ausdroid acts as a media organisation to the extent that it operates websites (Website). These Journalism Privacy Standards (Standards) outline how Ausdroid’s employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
+Ausdroid is a media organisation to the extent that it operates a news website. These Journalism Privacy Standards (Standards) outline how Ausdroid’s employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
 
 The objective of these Standards is to balance the right of a person to privacy against the media’s right to inform the public about newsworthy matters and other matters of public interest.
 
