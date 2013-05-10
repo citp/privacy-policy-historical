@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011341id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510133416id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | One Green Planet
+# One Green Planet | One Green Planet
 
 The privacy of our visitors is very important to us. This privacy policy describes what types of information we receive and collect when you use and visit OneGreenPlanet.org and how we safeguard your information.
 
