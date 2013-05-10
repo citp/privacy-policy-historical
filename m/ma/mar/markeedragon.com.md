@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020436id_/http%3A//www.markeedragon.com/page.php%3Fid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510205724id_/http%3A//www.markeedragon.com/page.php%3Fid%3D20) for the most accurate reproduction.*
 
 # Markee Dragon Game Codes
 
@@ -8,7 +8,7 @@ For the purposes of this Privacy Policy, unless otherwise noted, all references 
 
 [www.markeedragon.com](https://web.archive.org/web/), MDGC and [www.markeedragon.net](http://www.markeedragon.net/).
 
-The MDGC website is a ecommerce site. By using the MDGC website, you consent to the data practices described in this statement.
+The MDGC website is a ecommerce site owned and operated by Dragon Media Entertainment LLC.. By using the MDGC website, you consent to the data practices described in this statement.
 
 **Collection of your Personal Information**
 
@@ -78,9 +78,7 @@ MDGC welcomes your questions or comments regarding this Statement of Privacy. If
 
  _ **Markee Dragon Game Codes**_
 
-1636 Popps Ferry Rd. #110
-
-Biloxi MS.39532
+Hereford, Arizona, USA 85615
 
 Email Address: [support@markeedragon.com](mailto:support@markeedragon.com)
 
