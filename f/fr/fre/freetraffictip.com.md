@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125002018id_/http%3A//www.freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510121918id_/http%3A//www.freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Free Traffic Tips
+# Free Traffic Tips - Free Traffic Methods and Marketing Tips from Tinu Abayomi-Paul.
 
 ### Privacy
 
@@ -23,3 +23,13 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information send any blank email to at staff @ freetraffictip.com for instructions.
+
+Send to Kindle
+
+[](http://www.viperchill.com/viperbar/)
+
+_Loading..._
+
+Get our free Zero Gridlock newsletter for more free tips and resources!
+
+We never share your email. Ever.
