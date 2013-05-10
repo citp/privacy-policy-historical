@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htfr.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501071335id_/http%3A//www.htfr.com/pages/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htfr.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510195106id_/http%3A//www.htfr.com/pages/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: How we use and protect your information
 
@@ -44,7 +44,11 @@ We are committed to ensuring that your information is secure. In order to preven
 
 A cookie is a small file on your computer allowing web applications to respond to you as an individual. We use cookies to log website traffic and general user preferences. We also use them to maintain your basket should you wish to purchase later.
 
-You can choose to accept or decline cookies, but most web browsers are set to automatically accept them. Declining cookies may prevent you from taking full advantage of the website.
+We do not use cookies to store any personal information that could be traced back to you as an individual.
+
+By using this website, you implicitly consent to the use of cookies.
+
+Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
 
 **Links to other websites**
 
