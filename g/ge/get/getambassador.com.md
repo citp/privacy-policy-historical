@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getambassador.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004171924id_/https%3A//getambassador.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getambassador.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511014547id_/https%3A//getambassador.com/privacy) for the most accurate reproduction.*
 
-# Customer Referral Tracking and Referral Rewards | Privacy Policy
+# Privacy Policy | Ambassador
 
 In order to sign up for Ambassador we require a few specific pieces of information. This information is necessary for your experience at getAmbassador.com. This information also may also be used in your user profile. 
 
