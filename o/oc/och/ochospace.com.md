@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ochospace.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017133648id_/https%3A//ochospace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochospace.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204517id_/https%3A//ochospace.com/privacy.html) for the most accurate reproduction.*
 
 # Ocho Space|Everyone's Playing.
 
@@ -6,7 +6,7 @@
 
 This Statement of Privacy Principles describes the policies and procedures of TYLER Projects for the collection, use, and dissemination of personally identifiable information about our consumers in both the online and offline world.
 
-This Policy applies to all web sites and services owned or provided by TYLER Projects, including its subsidiaries (collectively "TYLER Websites"). TYLER Websites include, but are not limited to, [Mobileweapon.net](http://mobileweapon.net/), [Tylerprojects.com](http://tylerprojects.com/), [Tylerproject.com](http://tylerproject.com/), [Chocopets.com](http://chocopets.com/), [Pocketcafe.net](http://pocketcafe.net/), LOTGD.com as well as other TYLER-branded services. New sites, domain names, or services that we add to the TYLER Websites will be subject to this Policy.
+This Policy applies to all web sites and services owned or provided by TYLER Projects, including its subsidiaries (collectively "TYLER Websites"). TYLER Websites include, but are not limited to, [Ochospace.com](http://ochospace.com/), [Mobileweapon.net](http://mobileweapon.net/), [Tylerprojects.com](http://tylerprojects.com/), [Tylerproject.com](http://tylerproject.com/), [Chocopets.com](http://chocopets.com/) as well as other TYLER-branded services. New sites, domain names, or services that we add to the TYLER Websites will be subject to this Policy.
 
 The TYLER Websites are general audience web sites, and TYLER Projects does not knowingly collect PII from children under 13 years of age.
 
@@ -91,4 +91,4 @@ If you want to update your email address or stop receiving these types of promot
 
 **REMEDIES AND COMPLIANCE: How to Contact TYLER Projects About Privacy Concerns**
 
-If you have any other questions, comments or complaints about this Policy, please email us at [_support@tylerproject.com_](mailto:support@tylerproject.com) or write to us at:
+If you have any other questions, comments or complaints about this Policy, please email us at [_support@tylerproject.com_](mailto:support@tylerproject.com).
