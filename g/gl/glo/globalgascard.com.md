@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgascard.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004081333id_/http%3A//www.globalgascard.com/privacypolicy0312.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgascard.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510203256id_/http%3A//www.globalgascard.com/privacypolicy0312.pdf) for the most accurate reproduction.*
 
 # Global Gas Card
 
