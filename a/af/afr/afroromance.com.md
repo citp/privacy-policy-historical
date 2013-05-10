@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028143938id_/http%3A//www.afroromance.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204526id_/http%3A//www.afroromance.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
 
 # BLACK AND WHITE DATING - Specialists in Interracial Dating
 
@@ -28,6 +28,7 @@ Use of cookies and other technologies to collect information. We use various tec
   * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. 
   * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or promotional or other e-mail messages or to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
   * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, Chellaul companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org). 
+  * **Remarketing.** This website uses Google Adwords features such as; Remarketing, interest categories and similar audiences to target our online advertising. We also use third party vendors, including Google (whom can use cookies) to serve and remarket our ads to visitors based on previous website behaviour and/or audience interests. Visibility and control over interest categories: Through Google [Ads Preferences Manager](http://www.google.com/ads/preferences/), users can view, add, and remove the categories that are used to show them interest-based ads across the Google Display Network. We don't use sensitive interest categories such as health or financial information, and categories designed for children. Opt-out options: With the [Ads Preferences Manager](http://www.google.com/ads/preferences/), users can opt out of interest-based ads, including remarketing. This means, however, that you'll probably see advertising that's less relevant across the Google Display Network.
 
 
 
@@ -131,7 +132,7 @@ Suite 209
 Reno, NV, 89502   
 USA 
 
-(C) 2012 Chellaul Corporation. All rights reserved. 
+(C) 2013 Chellaul Corporation. All rights reserved. 
 
 ## Linked information:
 
