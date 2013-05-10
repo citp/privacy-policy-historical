@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidocastingcall.ca privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817233754id_/http%3A//www.fido.ca/web/content/terms/privacy_policy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidocastingcall.ca privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511011008id_/http%3A//www.fido.ca/web/content/terms/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fido.ca
 
@@ -13,6 +13,7 @@
   * [YouTube Comment Policy](https://web.archive.org/web/content/terms/youtube_comment_policy "YouTube Comment Policy")
   * [Fido Facebook Comment Policy](https://web.archive.org/web/content/terms/facebook_comment_policy "Fido Facebook Comment Policy")
   * [Fido Google+ Page Comment Policy](https://web.archive.org/web/content/terms/google_plus_comment_policy "Fido Google+ Page Comment Policy")
+  * [Pinterest Engagement Guidelines](https://web.archive.org/web/content/terms/pinterest_engagement_guidelines "Pinterest Engagement Guidelines")
 
 
 
@@ -24,6 +25,8 @@
   * [Privacy Policy](https://web.archive.org/web/content/terms/privacy_policy "Privacy Policy")
   * [FidoREWARDS Program Terms and Conditions](https://web.archive.org/web/content/terms/fido_rewards_program "FidoREWARDS Program Terms and Conditions")
   * [FidoTRADE™ Terms and Conditions](https://web.archive.org/web/content/terms/fido_trade "FidoTRADE Terms and Conditions")
+  * [Fido Device Protection Plan Terms and Conditions](https://web.archive.org/web/content/terms/device_protection "Fido Device Protection Plan Terms and Conditions")
+  * [_Fido TechXpert™_ Terms and Conditions](https://web.archive.org/web/content/terms/techxpert "Fido TechXpert Terms and Conditions")
   * [Get to know Fido Guide](https://web.archive.org/cms/pdf/GET_TO_KNOW_FIDO_GUIDE_EN.pdf "Get to know Fido")
 
 
