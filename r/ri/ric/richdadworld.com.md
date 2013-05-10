@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005112608id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510214708id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
 
 # Rich Dad World PowerPack Privacy Statement | Rich Dad World PowerPack
 
@@ -59,3 +59,5 @@ This site contains links to other sites. www.richdadworld.com is not responsible
 Our business changes constantly. This privacy statement will change also, and use of information that we gather now is subject to the privacy and security statement in effect at the time of collection. You should check our Web site frequently to see recent changes. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection, we will notify users by posting a notice on our Web site for 30 days.
 
 If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this Web site, please contact us using one of the methods above.
+
+ 
