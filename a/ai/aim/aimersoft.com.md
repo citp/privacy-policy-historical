@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimersoft.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003234603id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimersoft.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510213010id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Aimersoft Software Privacy Policy
 
@@ -27,12 +27,12 @@ From time to time we may conduct surveys in respect of our products and services
 
 ## 3\. How do the 3rd party credit card processors protect customer information?
 
-Aimersoft software uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.   
+Aimersoft software uses secure server hosted by Avangate and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.   
 Credit card information in encrypted during the ordering process and is deleted as soon as your order is completed. All other personal information (name, address and product ordered) is held to assist product registration. 
 
-## 4\. SWREG?
+## 4\. Avangate?
 
-SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. Aimersoft Studio uses SWREG to provide you with very secure and fast online purchase. 
+Avangate is an advanced secure online payment service for software registration. Aimersoft Studio uses Avangate to provide you with very secure and fast online purchase. 
 
 ## 5\. What is the purpose for Aimersoft to use the information?
 
@@ -51,4 +51,4 @@ We may use the information you provide us with for our own internal statistical 
 In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.   
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. 
 
-[Check The End User License Agreement >>](https://web.archive.org/web/20121003234603id_/http%3A//www.aimersoft.com/other/end-user-license-agreement.html)
+[Check The End User License Agreement >>](https://web.archive.org/web/20130510213010id_/http%3A//www.aimersoft.com/other/end-user-license-agreement.html)
