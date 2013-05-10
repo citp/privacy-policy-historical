@@ -1,27 +1,32 @@
-<!--The following is the downloaded HTML source of the storeya.com privacy policy that was archived on 2012-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113123635id_/http%3A//www.storeya.com/public/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storeya.com privacy policy that was archived on 2013-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511014906id_/http%3A//www.storeya.com/public/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Privacy Statement - StoreYa.com</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <link href="/common/css/stylePublic.css?v=20121101" rel="stylesheet" type="text/css">
-    <link href="/common/css/bootstrapMy.css?v=20121101" rel="stylesheet" type="text/css">
-     <link href="/common/css/styleFooterPublic.css?v=20121101" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/common/js/jquery-1.4.4.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="/common/js/menu.js"></script>
-    <script type="text/javascript" src="/common/js/dropDown.js"></script>
-    <script type="text/javascript" src="/common/js/global.js"></script>
-</head>
+    <link href="/common/css/stylePublic.css?v=20130502-2" rel="stylesheet" type="text/css">
+    <link href="/common/css/styleFooterPublic.css?v=20130502-2" rel="stylesheet" type="text/css">
+    <link href="/common/css/twt/bootstrap.min.css?v=20130502-2" rel="stylesheet" type="text/css">
+     <link href="/common/css/global.css?v=20130502-2" rel="stylesheet" type="text/css">
+    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/common/js/jquery-1.8.1.min.js?v=20130502-2"></script>
+    <script type="text/javascript" src="/common/js/global.js?v=20130502-2"></script>
+    <script type="text/javascript" src="/common/js/signuppopup.js?v=20130502-2"></script>
 
+    
+</head>
 <body class="inner_bg">
         <div id="headerContainer">
         <div id="header">
-            <div class="logo">
-                <a href="/">
-                <img class="png" alt="Facebook Store | Create your facebook shop using StoreYa" src="/common/images/logo.png"></a>
-            </div>
+        <a href="/">
+            <span class="logo">
+                
+                
+                
+            </span>
+            </a>
             <div class="header_right">
                 <div class="menu">
         <ul>
@@ -31,16 +36,14 @@
                 &amp; Pricing</span></a></li>
                             <li><a href="http://storeya.zendesk.com/home" target="_blank" rel="nofollow"><span>
                 Support</span></a></li>
-
-            <li><a href="#" class="none">
-                <img id="fbLogin" src="/common/images/facbook.gif" alt="create facebook store"></a></li>
         </ul>
+        <div class="loginlinks"><a href="#" class="signup-popup"> Sign up</a><span class="signuploginsep"> | </span><a href="#" class="login-popup"> Log in</a></div>
         <div id="fb-root">
         </div>
         <script>
             window.fbAsyncInit = function () {
                 FB.init({
-                    appId: '149696141763776', // App ID channelUrl: '//WWW.YOUR_DOMAIN.COM/channel.html', // Channel File
+                    appId: '149696141763776', // App ID channelUrl: 
                     status: true, // check login status
                     cookie: true, // enable cookies to allow the server to access the session
                     xfbml: true  // parse XFBML
@@ -48,14 +51,7 @@
 
                 // Additional initialization code here
                 $('#fbLogin,#freeTrialBtn').click(function () {
-                    FB.login(function (response) {
-                        if (response.authResponse) {
-                            window.location = '/Account/LogMeIn'
-                        } else {
-                            // user cancelled login
-                            window.location = '/Account/WhyLogin'
-                        }
-                    }, { scope: "email" });
+                    return ShowSignUpPopup();
                 });
             };
 
@@ -73,13 +69,16 @@
             </div>
         </div>
     </div>    
-    
+
     <div id="layout">
         <div id="main">
-            <div id="body_container" class="inner_container">
+            <div id="body_container" class="greybk">
+   <div class="body_shadow">
+   <div class="product_container">
+   <div class="header-placeholder"></div>
     <div id="left_container">
-        <h2>
-            Privacy Statement</h2>
+        <h1>
+            Privacy Statement</h1>
 <p>StoreYa Feed LTD. ("StoreYa") is serious about protecting your privacy and recognizes that you care how information about you is used and shared. We appreciate your trust that we will do so carefully and sensibly. This notice (this "Privacy Policy") describes how we may collect personal information about you, how we may use it, what choices you have regarding it, and how we protect it. This Privacy Policy is incorporated into and is a part of the Terms of Use of this StoreYa Web site (Facebook App or the "Site") and we encourage you to become familiar with the terms and conditions contained herein. By accessing and using this Site and the StoreYa Service, you agree that you have read and agree to this Privacy Policy, and that you accept and consent to the privacy practices described in this Privacy Policy.</p>
         <h5>
             What Information Do We Collect?</h5>
@@ -103,32 +102,8 @@
 <h5>Who Can You Contact For More Information?</h5>
 <p>If you wish to contact StoreYa about privacy related issues, you may do so by sending an email to: Legal@StoreYa.com</p>
 
-        <div class="fbbtn">
-            <a id="fbLoginBig" class="btn-fbconnect" title="Connect with Facebook" href="#">
-</a>
-<script type="text/javascript">
-    $('#fbLoginBig').click(function () {
+       <div class="banner-placeholder"></div>
 
-            popupLogin();
-    });
-
-    function goDashboard() {
-        window.location = '/home/dashboard';
-    }
-
-    function popupLogin() {
-        FB.login(function (response) {
-                if (response.authResponse) {
-                    window.location = '/Account/LogMeIn'
-                } else {
-                    // user cancelled login
-                    window.location = '/Account/WhyLogin'
-                }
-            }, { scope: "email" });
-    }
-</script>
-
-                </div>
     </div>
     <div id="right_container">
         <div class="common_section mar">
@@ -141,12 +116,24 @@
         </div>
       </div>
 </div>
-    </div>
+    </div><br style="clear:both;">
 </div>
+
+<div class="banner-openshop"><div class="bannerleft"></div><div class="bannerright"></div><div class="bannercenter">
+<span>A quick &amp; easy set up. Create a Facebook shop for Free!</span>
+<a href="#" class="btn facebook btn-large getstarted" style="color: White;position: relative;">
+               Get started now</a></div></div>
+</div>
+</div>
+<script type="text/javascript">
+    $('.getstarted').click(function () {
+        return ShowSignUpPopup();
+    });
+</script>
         </div>
-     </div>
-        <div id="footer">
-            <div id="outer_footer">
+    </div>
+    <div id="footer">
+        <div id="outer_footer">
             <div id="footer">
                
                     <div class="left_cloud">
@@ -221,8 +208,7 @@
                
             </div>
         </div>
-        </div>
-    
+    </div>
         <script type="text/javascript">
 
         var _gaq = _gaq || [];
@@ -246,6 +232,24 @@
         </script>
         <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
         <!-- End of StatCounter Code -->    
+
+    <script type="text/javascript" src="/common/js/qapopup.js?v=20130502-2"></script>
+    <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
+    <style type="text/css" media="screen, projection">
+    @import url(//assets.zendesk.com/external/zenbox/v2.5/zenbox.css);
+    </style>
+    <script type="text/javascript">
+        if (typeof (Zenbox) !== "undefined") {
+            Zenbox.init({
+                dropboxID: "20088156",
+                url: "https://storeya.zendesk.com",
+                tabID: "Ask Us",
+                tabColor: "#1F84A8",
+                tabPosition: "Right"
+            });
+        }
+    </script>
+
 
 
 
