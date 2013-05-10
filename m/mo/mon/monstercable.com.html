@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the monstercable.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214034146id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monstercable.com privacy policy that was archived on 2013-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510072457id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Monster Cable - Privacy Policy</title>
 <link rel="stylesheet" href="/css/monster.css" type="text/css">
 <link rel="stylesheet" href="/css/press.css" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.leadanywhere.com/la_resource.php?c=16&amp;g=77"></script><script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/glossary.js"></script>
 <script type="text/javascript" src="/js/top_nav.js"></script><style type="text/css">.textForm {FONT-FAMILY: Verdana, Arial, sans-serif; FONT-SIZE: 8pt;}</style>
 <script type="text/javascript">	
@@ -40,328 +40,251 @@ function init(){
 window.onload = init;
 
 </script>
-	<link rel="stylesheet" type="text/css" href="/css/accordion-menu-Press.css">
+<script>
+    //Ed:  -
+    !window.jQuery && document.write('<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"><\/script>');
+</script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.min.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/accordion-menu-Press.css">
+<script type="text/javascript">
+    //var verificationWind;
+    //	function openbeatsserialverificationwin()
+    //	{
+    //		//verificationWind = window.open('http://www.beatsbydre.com/support/verifyProduct.aspx?fbcontent=fb','verwind','width=520,height=500,toolbar=0,scrollbars=yes,resizable=no,location=0,statusbar=0,menubar=0,left=300,top=200');
+    //        //if (window.focus){verificationWind.focus()}
+    //		//return false;
+    //	};
 
-    <script type="text/javascript">
-	var verificationWind;
-	function openbeatsserialverificationwin()
-	{
-		verificationWind = window.open('http://www.beatsbydre.com/support/verifyProduct.aspx?fbcontent=fb','verwind','width=520,height=500,toolbar=0,scrollbars=yes,resizable=no,location=0,statusbar=0,menubar=0,left=300,top=200');
-		if (window.focus){verificationWind.focus()}
-		return false;
+    function openLiveChat() {
+        if (navigator.userAgent.toLowerCase().indexOf('opera') != -1 && window.event.preventDefault)
+            window.event.preventDefault();
+        yapit('?l=en&s=monstersupport&g=77&c=16', 'la_window', 'width=500,height=500');
+        return false;
+    };
+
+    //Ed: added this to overcome some quirky DOM issue where link doesn't trigger fbox        
+    function SN_VerifyClick() {
+        $(".fboxVerify").trigger("click");
+        return false;
+    };
+	
+	function getParameterByName(name){
+	  name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+	  var regexS = "[\\?&]" + name + "=([^&#]*)";
+	  var regex = new RegExp(regexS);
+	  var results = regex.exec(window.location.search);
+	  if(results == null)
+		return "";
+	  else
+		return decodeURIComponent(results[1].replace(/\+/g, " "));
 	}
-	
-	function openLiveChat(){
-		if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 && window.event.preventDefault) 
-			window.event.preventDefault(); 
-		yapit('?l=en&s=monstersupport&g=77&c=16','la_window','width=500,height=500'); 
-		return false;
-	}
-    </script>
-	<!-- leadanywhere -->
-		<script type="text/javascript">(function() { var la = document.createElement('script');    la.type = 'text/javascript'; la.async = true; la.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://yap') + '.leadanywhere.com/la_resource.php?c=16&g=77'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(la, s);})(); var la_sid = ''; </script>
-	<!-- / leadanywhere -->
-	
-	<script type="text/javascript" src="/Scripts/accordion-menu-Press.js"></script>
 
-	<style type="text/css">
-		.hover{background-color:#cddded;}
-	</style>
 
-	
-</head>
-<body>
-		<script type="text/javascript" src="http://use.typekit.com/zmb2sef.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    $(document).ready(function () {
+        //global header is +/- 60px
+        var _h = $(window).height();
+        $(".fboxVerify").fancybox({
+            'width': 400,
+            'height': (_h - 90 > 630) ? 570 : 400,
+            'autoScale': false,
+            'transitionIn': 'fade',
+            'transitionOut': 'fade',
+            'type': 'iframe',
+            'padding': 3,
+            'overlayColor': '#888',
+            'overlayOpacity': 0.5,
+            'centerOnScroll': true
+        });
+		
+		if(getParameterByName('verifyserial') != ''){
+			$('.fboxVerify').click();	
+		}
+       
+    });
 
+
+</script>
+<script type="text/javascript" src="/Scripts/accordion-menu-Press.js"></script>
 <style type="text/css">
-	.dvHeader{font-weight:bold;background-color:#ccc;border-bottom:solid 0px #bbbbbb;padding:2px 5px 0px 5px;height:20px;}
-    .dvCell{padding:0px 0px 0px 3px;border-top:0px solid #ccc;text-align:left;font-size:11px;line-height:14px;}
-    .dvColumn{float:left;width:176px;height:100%;border-right:0px solid #ccc;}
+    .hover
+    {
+        background-color: #cddded;
+    }
 </style>
 
-<div id="hiddenModalContent" style="display:none;padding:0px;">
-<div style="display:block;position:relative;width:890px;margin:0px auto;">
-	<div id="TB_closeAjaxWindow" style="position:absolute;width:120px;text-align:right;font-weight:bold;top:-10px;right:0px;z-index:190300;">
-        <div style="float:right;width:65px;padding:6px 0px 0px 0px;">or Esc Key</div>
-		<div style="float:right;width:30px"><a href="#" id="TB_closeWindowButton" style="text-decoration:none;color:#000;"><img src="/videolightbox/engine/images/close.png" alt="close"></a></div>
-		<div class="cldv">&nbsp;</div>
-    </div>
-    <div style="padding:0px 0px 0px 0px;width:890px;margin:0px auto;">
-        <div style="padding:0px 0px 5px 0px;">
-        	<img src="/images/callout/header.jpg" alt="" style="text-align:center;">
-        	
-        </div>
-        <div style="float:left;width:420px;padding:5px 0px 10px 0px;">
-        Only purchases from authorized Monster dealers include the full Monster warranty on our cable, headphone and power products. 
-        If you're not buying from an authorized dealer you are not covered by our warranty!
-        </div>
-        <div style="float:left;width:420px;padding:5px 0px 10px 20px;">
-        And many unauthorized dealers sell <b>fake Monster products!</b> These counterfeit cables and headphones do not meet the Monster standards and 
-        may easily break causing damage!
-        </div>
-        <div class="cldv">&nbsp;</div>
-        <div style="width:100%;margin:0px auto;">
-            <div style="border:solid 1px #bbbbbb;height:190px;">
-                <div class="dvHeader">
-                    <div style="float:left;width:200px;">The Blacklist (Avoid These Sites)!</div>
-                    <div style="float: right; width: 300px;text-align:right;"><a href="/counterfeit/dealers_blk.asp">See all Blacklisted Monster dealers</a></div>
-	                <div class="cldv">&nbsp;</div>
-                </div>
-                <div class="dvColumn">  
-                	<div class="dvCell">eBay.com </div>
-					<div class="dvCell">Craigslist.org </div>
-                    
-                           	<div class="dvCell">7dayshop.com</div>
+</head>
+<body>
+	
+<!--monstercable.com-->
+<script type="text/javascript" src="http://use.typekit.com/zmb2sef.js"></script>
+<script type="text/javascript">    try { Typekit.load(); } catch (e) { }</script>
 
-                           	<div class="dvCell">allgoods.us</div>
-
-                           	<div class="dvCell">bags-ireland.com</div>
-
-                           	<div class="dvCell">beatsbydrdre.us.com</div>
-
-                           	<div class="dvCell">beatsbydrea.com</div>
-
-                           	<div class="dvCell">beatsbydreheadphones.org</div>
-
-                           	<div class="dvCell">beatsbydres.net</div>
-
-                           	<div class="dvCell">beatsbydrestudio.biz.</div>
-
-                           	<div class="dvCell">beatsdreheadphone.com</div>
-
-                           	<div class="dvCell">beatspower.com</div>
-
-                            	</div>
-								<div class="dvColumn">
-
-                           	<div class="dvCell">bidsauce.com</div>
-
-                           	<div class="dvCell">bose-in-ear.info</div>
-
-                           	<div class="dvCell">bst.com/24WKMR</div>
-
-                           	<div class="dvCell">buyonair.com</div>
-
-                           	<div class="dvCell">cheapbeatsbydresale.org</div>
-
-                           	<div class="dvCell">chinaorwholesale.com</div>
-
-                           	<div class="dvCell">cowboom.com</div>
-
-                           	<div class="dvCell">deals.woot.com</div>
-
-                           	<div class="dvCell">dodogotobuy.com</div>
-
-                           	<div class="dvCell">drdreheadphone2011@hotmail.com</div>
-
-                           	<div class="dvCell">drdreuk.org</div>
-
-                           	<div class="dvCell">drheadphones.net</div>
-
-                            	</div>
-								<div class="dvColumn">
-
-                           	<div class="dvCell">eeshops.com</div>
-
-                           	<div class="dvCell">everbuying.com</div>
-
-                           	<div class="dvCell">freebeatsloops.com</div>
-
-                           	<div class="dvCell">gobeatsbydre.com</div>
-
-                           	<div class="dvCell">headphoneaccessoriesworld.co.c...</div>
-
-                           	<div class="dvCell">headphoneshotsale.com</div>
-
-                           	<div class="dvCell">hisupplier.com</div>
-
-                           	<div class="dvCell">ilikejerseys.us</div>
-
-                           	<div class="dvCell">kaskus.us</div>
-
-                           	<div class="dvCell">likeheadphones.com</div>
-
-                           	<div class="dvCell">malumpera.de</div>
-
-                           	<div class="dvCell">monste-beats.com</div>
-
-                            	</div>
-								<div class="dvColumn">
-
-                           	<div class="dvCell">monster-beatsbydres.com</div>
-
-                           	<div class="dvCell">monsterbeats-outlet.com</div>
-
-                           	<div class="dvCell">monstercablebeats.com</div>
-
-                           	<div class="dvCell">monster-earphones.info</div>
-
-                           	<div class="dvCell">monsterphonesshow.com</div>
-
-                           	<div class="dvCell">mymonsterplaza.com</div>
-
-                           	<div class="dvCell">nowsupplier.com</div>
-
-                           	<div class="dvCell">pickegg.com</div>
-
-                           	<div class="dvCell">proxyglype.com</div>
-
-                           	<div class="dvCell">salemonsterheadphones.com</div>
-
-                           	<div class="dvCell">shop.ebay.co.uk</div>
-
-                           	<div class="dvCell">smartphone-offers.com</div>
-
-                            	</div>
-								<div class="dvColumn">
-
-                           	<div class="dvCell">stores.ebay.co.uk</div>
-
-                           	<div class="dvCell">techtrd.ecrater.com</div>
-
-                           	<div class="dvCell">tootoomart.com</div>
-
-                           	<div class="dvCell">Tradevv.com</div>
-
-                           	<div class="dvCell">ukdrdreheadphones.co.uk&nbsp;&nbsp;</div>
-
-                           	<div class="dvCell">vankle.com</div>
-
-                           	<div class="dvCell">wholesalewheel-rims.dhgate.com</div>
-
-                           	<div class="dvCell">www.beatsbydrebestbuy.com</div>
-
-                           	<div class="dvCell">www.cuffiebeats.com</div>
-
-                           	<div class="dvCell">www.fake-monsterbeatsbydre.com</div>
-
-                           	<div class="dvCell">www.mentadi.com</div>
-
-                           	<div class="dvCell">www.shopatonlinesales.com/</div>
-   
-                </div>
-                <div class="cldv">&nbsp;</div>
-            </div>   
-            <div>&nbsp;</div>
-            <div style="border: solid 1px #bbbbbb;">
-                <div class="dvHeader">
-                    <div style="float:left;width:200px;">Authorized Dealers</div>
-                    <div style="float: right; width: 300px;text-align:right;"><a href="/where_to_buy/default.asp">See all authorized Monster dealers</a></div>
-                <div class="cldv">&nbsp;</div>
-                </div>
-				<div style="padding: 7px; font-size: 13px;font-weight:bold;">
-                
-                    Amazon | Apple | Best Buy | Crutchfield | Headphones.com | InMotion Entertainment | Your Electronic Warehouse | Wildwest Electronics
-                    
-                </div>
-            </div>
-            <div class="cldv">&nbsp;</div>
-            <div style="float:left;width:420px;padding:10px 0px 10px 0px;">
-                Beware of fake sites trying to fool you as well. All sites containing <br>
-                "Beats" or "Monster" other than <a href="/default.asp">www.MonsterCable.com</a> and <a href="http://www.beatsbydre.com">www.BeatsbyDre.com</a> are unauthorized and likely sell fake products.        
-            </div>
-            <div style="float:left;width:420px;padding:10px 0px 10px 20px;">
-                Do not buy any Monster products on the Internet unless you're buying from an Authorized Monster Internet Dealer. <b style="font-size:14px;">Don't be fooled.</b> 
-                Many Internet sellers will say they are authorized Monster dealers, but they are not.  
-            </div>
-            <div class="cldv">&nbsp;</div>
-        </div>    
-            <div style="padding-top:5px;">
-                <div style="float:right;width:368px;text-align:right;">Learn More: <a href="/counterfeit/" style="font-size:14px;">Counterfeit Education Center</a></div>
-                <div style="float:left;width:368px;"><img src="/images/callout/monster_logo.jpg" alt="" style="text-align:center;"></div>
-            </div>
-        </div>  
-    </div>
-</div>
-
+<script type="text/javascript">
+    //SLI Code
+    var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+    document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E'));
+    document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'monstercable.resultspage.com/rac/sli-rac.css?rev=95745" /%3E'));
+    
+    _gaq.push(['_setAllowHash', false]);
+    _gaq.push(['setAllowAnchor', true]);
+    
+</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="https://monstercable.resultspage.com/rac/sli-rac.css?rev=95745">
+<script type="text/javascript">
+    //Ed (10/5): Load jquery only if not previously loaded (e.g. head)
+    if (typeof jQuery === "undefined") {
+        document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+</script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
+<script src="/js/jquery-ui-1.8.16.custom.min.js"></script>
 <script type="text/javascript" src="/js/monster.js"></script>
 
 <!--For The ThickBox-->
 <link href="/css/ThickBox.css" rel="stylesheet" type="text/css" media="screen">
-<script type="text/javascript">
-	//Ed (10/5): Load jquery only if not previously loaded (e.g. head)
-	if (typeof jQuery === "undefined"){
-		document.write(unescape("%3Cscript src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
-		}
-</script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
 <script src="/js/thickbox.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+    function winHolidayDelivery() {
+        winDelivery = window.open('/Deliverydate.asp', 'myWindow', 'scrollbars=no,status=yes,width=650,height=280');
+		winDelivery.focus();
+    }
+
+    $(document).ready(function () {
+        $('#checkoutMenuBut').hover(
+            function () {
+                //hover over
+                $(this).attr("src", "/images_home/menu/checkout_on.gif");
+            },
+            function () {
+                //hover out
+                $(this).attr("src", "/images_home/menu/checkout_off.gif");
+            }
+        );
+    });
+</script>
 <!--For The ThickBox-->
-<div style="position:relative;z-index:2000;">
+<div style="position: relative; z-index: 2000;">
     <div id="headerBackground" style="">
         <div id="headerOuter" style="">
             <div id="HeaderMonsterLogo" style="">
-                <a href="/default.asp"><img src="/images_home/menu/monster_logo_45.png" alt="Monster®"></a>
-            </div>
-            <div id="HeaderLinks" style="">
-                <div style="padding-left:50px;position:relative;height:24px;">
+                <!--width: 231px;float:left;-->
+                <div>
+                    <a href="/">
+                        <img src="/images_home/menu/monster_logo_45.png" style="padding-top:0px;" alt="Monster®"></a></div>
                 
-                    <div style="position:relative;z-index:2;background-color:#000000;height:24px;width:500px;">
-                        <div style="float:left;width:49px;"><img src="/images_home/menu/utility_nav_left.gif" alt=""></div>
-                        <div style="float:left;width:69px;padding:7px 10px 0px 0px"> <a href="/service/default.asp"><img id="supportBTN" onmouseover="this.style.backgroundPosition = '0px 0px'" onmouseout="this.style.backgroundPosition = '0px -8px'" src="/gl_images/spacer.gif" alt="support"></a></div>
-                        <div style="float:left;width:110px;padding:7px 10px 0px 0px"> <a href="/where_to_buy/?mysite="><img id="whereBTN" onmouseover="this.style.backgroundPosition = '0px -16px'" onmouseout="this.style.backgroundPosition = '0px -24px'" src="/gl_images/spacer.gif" alt="Where to buy"></a></div>
-                        <div style="float:right;width:93px;padding:6px 0px 0px 0px">
+                <div style="color: #ccc; font-size: 11px; font-weight: bold;">
+                </div>
+                
+            </div>
+            &nbsp;
+            <div id="HeaderLinks" style="">
+                <div class="HeaderLinksOuter">
+                    <div class="HeaderLinksInner">
+                        <div class="HeaderLinksSpacerLeft" style=""><img src="/images_home/menu/utility_nav_left.gif" alt=""></div>
                         
-                        <a href="http://store.monstercable.com/productcart/pc/checkout.asp"><img src="/images_home/menu/check_out.gif" alt="check out"></a>
+                        <div class="HeaderLinksSupport" style="">
+                            <a href="/service/default.asp"><img id="supportBTN" onmouseover="this.style.backgroundPosition = '0px 0px'" onmouseout="this.style.backgroundPosition = '0px -8px'" src="/gl_images/spacer.gif" alt="support"></a></div>
+                        <div class="HeaderLinksWTB" style="">
+                            <a href="/where_to_buy/?mysite="><img id="whereBTN" onmouseover="this.style.backgroundPosition = '0px -16px'" onmouseout="this.style.backgroundPosition = '0px -24px'" src="/gl_images/spacer.gif" alt="Where to buy"></a></div>
                         
+                        <div class="HeaderLinksTrack">
+                            <a href="http://store.monstercable.com/productcart/pc/CustviewPast.asp"><img id="trackorderBTN" onmouseover="this.style.backgroundPosition = '0px -44px'" onmouseout="this.style.backgroundPosition = '0px -50px'" src="/gl_images/spacer.gif" alt="Track Order"></a></div>
+                        <div class="HeaderLinksLogin">
+                            <a href="http://store.monstercable.com/ProductCart/pc/custpref.asp"><img id="loginBTN" onmouseover="this.style.backgroundPosition = '0px -56px'" onmouseout="this.style.backgroundPosition = '0px -62px'" src="/gl_images/spacer.gif" alt="login"></a>
                         </div>
-                        <div style="float:right;width:130px;padding:5px 10px 0px 0px;color:#ffffff;font-size:10px;">
                         
-                        <a href="http://store.monstercable.com/productcart/pc/viewCart.asp"><img id="viewCartBTN" onmouseover="this.style.backgroundPosition = '0px -32px'" onmouseout="this.style.backgroundPosition = '0px -38px'" src="/gl_images/spacer.gif" alt="view cart"></a>&nbsp;
-                        (0) &nbsp;<img src="/images_home/menu/items.gif" alt="items"></div>
+                       
+                        <div class="HeaderLinksViewCart">
+                            
+                                <div style="width:65px;float:left;padding:9px 10px 0 0;"><a href="http://store.monstercable.com/productcart/pc/viewCart.asp"><img id="viewCartBTN" onmouseover="this.style.backgroundPosition = '0px -32px'" onmouseout="this.style.backgroundPosition = '0px -38px'" src="/gl_images/spacer.gif" alt="view cart"></a></div>
+                       
+                                
+                                    <div style="width:10px;float:left;padding:6px 5px 0 0;">&nbsp;(0)&nbsp;&nbsp;</div>
+                                    <div style="width:45px;float:left;padding:9px 0 0 0px;"><img src="/images_home/menu/items.gif" alt="items"></div>
+                                
+                        </div>
+                         <div class="HeaderLinksCheckout">
+                            
+                            <a href="http://store.monstercable.com/productcart/pc/checkout.asp" style="text-decoration:none;"><input type="image" src="/images_home/menu/checkout_off.gif" alt="check out" id="checkoutMenuBut"></a>
+                            
+                        </div>
                         <div class="cldv">&nbsp;</div>
                     </div>
-                    <div style="position:absolute;width:63px;height:24px;z-index:1;background-color:#000000;right:-35px;top:0px;background-image:url(/images_home/menu/utility_nav_right.gif);background-repeat:no-repeat;background-position:right;"></div>
-                </div>
-                <div>
-                    <div style="float:left;width:200px;padding:5px 0px 0px 100px;">&nbsp;
-                    
-                    </div>
-                    <div style="float:right;width:250px;">
-                    <form style="vertical-align:bottom;margin:0px;padding:0px;" method="post" name="search" action="/productShowResultsAdv.asp">
+                   <!-- <div class="HeaderLinksInnerRight"> &nbsp;</div>-->
+                <!--</div>
+                <div>-->
+                    <!--<div style="float: left;  padding: 5px 0px 0px 20px;">&nbsp;</div>-->
+                    <div style="float: right;">
+                        <form style="vertical-align: bottom; margin: 0px; padding: 0px;" name="searchform" action="http://electronics.monsterproducts.com/search" method="get" onsubmit="_gaq.push(['_linkByPost', this, true]);">
                         <input type="hidden" name="site" value="allsites">
-                        <div style="width:82px;float:right;padding-top:5px;"><input type="image" src="/images_home/menu/search_01.jpg" style="width:82px;height:22px;"></div>
-                        <div style="width:120px;float:right;padding:7px 15px 0px 0px;"><input type="text" name="daCall" maxlength="255" value="" style="font-family: Verdana, Arial, sans-serif; font-size:8pt;width:119px;vertical-align:bottom;"></div>
+                        <div style=" float: right; padding-top: 5px;">
+                            <input type="image" src="/images_home/menu/search.jpg" alt="Search" style="padding:2px 5px 2px 5px !important;">
+                        </div>
+                        <div style="width: 120px; float: right; padding: 8px 15px 0 0;">
+                            <input type="hidden" name="asug">
+                            <input type="hidden" name="view" value="grid">
+                            <input type="text" name="w" value="" onfocus="this.value=''" id="sli_search_1" placeholder="" autocomplete="off" maxlength="90" style="font-family: Verdana, Arial, sans-serif;
+                                font-size: 11px; width: 125px; height: 17px; line-height: 16px; border-width: 0;
+                                padding: 0 2px; border-radius: 0px;">
+                        </div>
                         </form>
                     </div>
-                    <div class="cldv">&nbsp;</div>
+                    
                 </div>
             </div>
-            <div class="cldv">&nbsp;</div>
+            <div class="cldv">
+                &nbsp;</div>
         </div>
     </div>
 </div>
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="/js/ec/constants.min.js"></script>
+<script type="text/javascript" src="/js/geoLocation.js"></script>
+
 <div class="Page03">
-<div class="belowHeaderBC"><div class="BreadCrums03">&nbsp;</div></div>
 
 <link rel="stylesheet" type="text/css" href="/css/global_menu1.css">
+
+
 <script type="text/javascript" src="/js/globalmenu1.js"></script>
+
 
 <div id="GlobalMenu" style="">
     <div>
         <div id="FirstLevel" style="">
             <div id="AllTopMenu" style="">
+               
                 <div id="topMenuSep_01" class="menuCatSep"></div>
+                 
                 <div id="topMenu_1" class="menuCat" title="SHOP">SHOP</div>
                 <div id="topMenuSep_12" class="menuCatSep">|</div>
+                
                 <div id="topMenu_2" class="menuCat" title="HOME THEATER">HOME THEATER</div>
                 <div id="topMenuSep_23" class="menuCatSep">|</div>
-                <div id="topMenu_3" class="menuCat" title="HEADPHONES"><a href="/headphones/">HEADPHONES &amp; SPEAKERS</a></div>
+                <div id="topMenu_3" class="menuCat" title="HEADPHONES"><a href="/headphones/">HEADPHONES</a></div>
                 <div id="topMenuSep_34" class="menuCatSep">|</div>
-                <div id="topMenu_4" class="menuCat" title=""><a href="/MP3/ipod_iphone_mp3_players.asp">MOBILE</a></div>
+                <div id="topMenu_4" class="menuCat" title="SPEAKERS"><a href="/speakers/">SPEAKERS</a></div>
                 <div id="topMenuSep_45" class="menuCatSep">|</div>
-                <div id="topMenu_5" class="menuCat" title="AUTOMOTIVE"><a href="/mpc/default.asp">AUTOMOTIVE</a></div>
+                <div id="topMenu_5" class="menuCat" title=""><a href="/MP3/ipod_iphone_mp3_players.asp">MOBILE</a></div>
                 <div id="topMenuSep_56" class="menuCatSep">|</div>
-                <div id="topMenu_6" class="menuCat" title="COMPUTER"><a href="/digital_life/default.asp">COMPUTER</a></div>
+                <div id="topMenu_6" class="menuCat" title="AUTOMOTIVE">AUTOMOTIVE</div>
                 <div id="topMenuSep_67" class="menuCatSep">|</div>
-                <div id="topMenu_7" class="menuCat" title="PRO MUSICIAN"><a href="/pro_audio/professional_audio_equipment.asp">PRO MUSICIAN</a></div>
+                <div id="topMenu_7" class="menuCat" title="ESSENTIALS"><a href="/essentials/">ESSENTIALS</a></div>
                 <div id="topMenuSep_78" class="menuCatSep">|</div>
-                <div id="topMenu_8" class="menuCat" title="More from Monster">More</div>
-                <div id="topMenuSep_89" class="menuCatSep"></div>
+                <div id="topMenu_8" class="menuCat" title="PRO MUSICIAN"><a href="/pro_audio/professional_audio_equipment.asp">PRO MUSICIAN</a></div>
+                <div id="topMenuSep_89" class="menuCatSep">|</div>
+                <div id="topMenu_9" class="menuCat" title="More from Monster">More</div>
+                <div id="topMenuSep_910" class="menuCatSep"></div>
                 <div class="cldv">&nbsp;</div>
             </div>
         </div>
+        <div id="SecondLevel">
         <div id="AllSubMenu">
+        <div class="BreadCrums03a"></div>	
+        <div id="freeshippingMenu">
+        	<div></div>
+		</div>
         	<div id="submenu_1" class="subMenu1" style="left:0px;">
                 <ul class="shopSub">
                 	<li>&nbsp;</li>
@@ -382,12 +305,12 @@ window.onload = init;
                     <li id="sub1_78" class="subSep"><div><div>|</div></div></li>
                     <li id="sub1_8" rel="cat"><div><div>Music &amp; Video</div></div></li>
                     <li id="sub1_89" class="subSep"><div><div>|</div></div></li>
-                    <li id="sub1_9" rel="cat"><div><div>Holiday</div></div></li>
+                    <li id="sub1_9" rel="outlet"><div><div><a href="/outletstore/">Outlet Store</a></div></div></li>
                     <li id="sub1_910" class="subSep"><div><div></div></div></li>
                     <li>&nbsp;</li>
                 </ul>
             </div>
-           	<div id="submenu_2" class="subMenu1" style="left:30px;">
+           	<div id="submenu_2" class="subMenu1" style="left:0px;">
                 <ul class="InfoSub">
                    	<li>&nbsp;</li>
                     <li id="sub2A"><div><a href="/hdmi/hdmi.asp">HDMI</a></div><span>|</span></li>
@@ -397,22 +320,30 @@ window.onload = init;
 					<li id="sub2E"><div><a href="/monstergame/">Gaming</a></div><span>|</span></li>                    
                     <li id="sub2F"><div><a href="/screenclean/monster_screenclean.asp">Screenclean</a></div><span>|</span></li>
                     <li id="sub2G"><div><a href="/MCCS/home_automation.asp">Remotes</a></div><span>|</span></li>
-                    <li id="sub2H"><div><a href="/max3d/default.asp">3D Glasses</a></div><span>|</span></li>
-                    <li id="sub2I"><div><a href="/digital_life/categories/internet.asp">Internet Access</a></div><span>|</span></li>
+                    <!--<li id="sub2H"><div><a href="/max3d/default.asp">3D Glasses</a></div><span>|</span></li>-->
+                    <li id="sub2I"><div><a href="/digital_life/default.asp">Internet Access</a></div><span>|</span></li>
                     <li id="sub2J"><div><a href="/custom_install/default.asp">Custom Install</a></div></li>
                    	<li>&nbsp;</li>
                 </ul>
             </div>
             <div id="submenu_3" class="subMenu1" style=""></div>
             <div id="submenu_4" class="subMenu1" style=""></div>
-            <div id="submenu_5" class="subMenu1" style=""></div>
-            <div id="submenu_6" class="subMenu1" style=""></div>
+            <div id="submenu_5" class="subMenu1"></div>
+            <div id="submenu_6" class="subMenu1" style="right:200px;">
+            	<ul class="InfoSub">
+                	<li>&nbsp;</li>
+                    <li id="sub5A"><div><a href="/mpc/">Performance Car</a></div><span>|</span></li>
+                    <li id="sub5B"><div><a href="http://www.monsterwestcoastcustoms.com/">West Coast Customs Car Care</a></div></li>
+                    <li>&nbsp;</li>
+                </ul></div>
             <div id="submenu_7" class="subMenu1" style=""></div>
-            <div id="submenu_8" class="subMenu1" style="right:0px;">
+            <div id="submenu_8" class="subMenu1" style=""></div>
+            <div id="submenu_9" class="subMenu1" style="right:0px;">
             	<ul class="InfoSub">
                		<li>&nbsp;</li>
-                    <li id="sub8A"><div><a href="/famous/default.asp">Famous Monster</a></div><span>|</span></li>
-                    <li id="sub8B"><div><a href="http://www.monsterdj.com/">Monster DJ</a></div><span>|</span></li>
+                    <li id="sub8A"><div><a href="/artistroster/">Monster Artist Roster</a></div><span>|</span></li>
+<!--                    <li id="sub8G"><div><a href="/emerging/default.asp">Emerging Famous Monsters</a></div><span>|</span></li>
+                    <li id="sub8B"><div><a href=".monsterdj.com/">Monster DJ</a></div><span>|</span></li> -->
                     <li id="sub8C"><div><a href="http://www.monstermusic.com/">Monster Music</a></div><span>|</span></li>
                     <li id="sub8D"><div><a href="/press/">News &amp; Press</a></div><span>|</span></li>
                     <li id="sub8E"><div><a href="/company_info/">Company Info</a></div><span>|</span></li>
@@ -422,6 +353,7 @@ window.onload = init;
             </div>
             
             
+        </div>
         </div>
         <div id="AllFlyOut" style="">
         	<div id="flyout_1_1" class="flyout_outside" style="">
@@ -470,35 +402,46 @@ window.onload = init;
                             <div class="foH1"><div>POWER</div></div>
                             <div class="foH2">A/V Powercenters</div>
                             <div><ul class="foUL">
-                                <li><a href="/power/home_theater/signature_series_power_centers.asp">Signature Series</a></li>
-                                <li><a href="/power/home_theater/reference_home_theater_power.asp">Reference</a></li>
-                                <li><a href="/power/home_theater/high_definition_powercenters.asp">High Definition</a></li>
-                                <li><a href="/power/greenpower.asp">Green Power</a></li>
-                                <li><a href="/power/home_theater/compact_power_centers.asp">Compact PowerCenters</a></li>
-                                <li><a href="/power/home_theater/flatscreen_power.asp">Flatscreen</a></li>
-                                <li><a href="/power/home_theater/powerbars.asp">Surge protection power strips</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=1001">Signature Series</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=1002">Reference</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=1003">High Definition</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=13001">Green Power</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=1005">Powerbars</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=1006">Compact PowerCenters</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=1007">Flatscreen Power</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=1008">Power Cords</a></li>
                                 
                             </ul></div>
                             <div class="foH2">Voltage Stabilizers</div>
                             <div>
                             <ul class="foUL">
-                                <li><a href="/power/voltage_stabilizers/signature_series.asp">Signature Series</a></li>
-                                <li><a href="/power/voltage_stabilizers/home_theater_reference.asp">Reference</a></li>
-                                <li><a href="/power/voltage_stabilizers/pro_musician.asp">Pro Audio</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=2001">Signature Series</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=2002">Reference</a></li>
+                                <li><a href="/power/linelist/Powerlist.asp?cat=2003">Pro Musician</a></li>
                             </ul>
                             </div>
                             <div class="foH2">Uninterruptible Power Supplies</div>
                             <div>
                                 <ul class="foUL">
-                                    <li><a href="/power/uninterruptible_power_supplies.asp">Reference</a></li>
+                                    <li><a href="/power/linelist/Powerlist.asp?cat=4001">Reference</a></li>
                                 </ul>
                             </div>
                             <div class="foH2">Additional Products</div>
                             <div>
                                 <ul class="foUL">
-                                    <li><a href="/power/home_theater/power_cords.asp">Power Cords</a></li>
+                                    <li><a href="/power/linelist/Powerlist.asp?cat=1008">Power Cords</a></li>
                                 </ul>
                             </div>
+                            <div class="foH2">SPEAKER SYSTEMS</div>
+							<div>
+                            	<ul class="foUL">
+                                	<li><a href="/mp3/ipod/speakers.asp?CAT=2">iPad, iPhone, iPod Docking Stations</a></li>
+                                    <li><a href="/productdisplay.asp?pin=6563">Multimedia Monitors</a></li>
+                                </ul>
+                            </div>
+                            
+                            
+                            
 						</div>                    
                     </div>
                     <div class="flyout_33">
@@ -513,15 +456,15 @@ window.onload = init;
                                     <li><a href="/flatscreen/mountsbysize.asp?CAT=2">Mounts up to 46"</a></li>
                                     <li><a href="/flatscreen/mountsbysize.asp?CAT=3">Mounts up to 63"</a></li>
                                     <li><a href="/flatscreen/mountsbysize.asp?CAT=4">Mounts up to 104"</a></li>
-                                    <li><a href="/max3d/3dglasses.asp">3D Glasses</a></li>
+                                    <!--<li><a href="/max3d/3dglasses.asp">3D Glasses</a></li>-->
                                     <li><a href="/productdisplay.asp?pin=4186">Screenclean</a></li>
                                 </ul>
                             </div>
                             <div class="foH2">Remotes</div>
                             <div>
                                 <ul class="foUL">
-                                    <li><a href="/MCCS/control_systems.asp">Control Systems</a></li>
-                                    <li><a href="/MCCS/lighting_systems.asp">Lighting Systems</a></li>
+                                    <li><a href="/MCCS/linelist/remotelist.asp?cat=2001">Control Systems</a></li>
+                                    <li><a href="/MCCS/linelist/remotelist.asp?cat=2002">Lighting Systems</a></li>
                                 </ul>
                             </div>
                             <div class="foH2">Internet Connectivity</div>
@@ -554,9 +497,10 @@ window.onload = init;
                             <div>
                                 <ul class="foUL">
                                     <li><a href="/headphones/headphoneslist.asp">All</a></li>
-                                    <li><a href="/headphones/headphoneslist.asp?SUBCAT2=30000">Over-Ear</a></li>
-                                    <li><a href="/headphones/headphoneslist.asp?SUBCAT2=4000">In-Ear</a></li>
-                                    <li><a href="/headphones/supertips.asp">SuperTips</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?CATID=200">Over-Ear</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?CATID=300">On-Ear</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?CATID=400">In-Ear</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?custom=5">SuperTips</a></li>
                                 </ul>
                             </div>
 						</div>
@@ -566,10 +510,17 @@ window.onload = init;
                             <div class="foH1"><div>COLLECTIONS</div></div>
                             <div>
                                 <ul class="foUL">
-                                    <li><a href="/headphones/headphonescollection.asp?coll=a">Artist Series</a></li>
-                                    <li><a href="/headphones/headphonescollection.asp?coll=b">Beats by Dr. Dre</a></li>
-                                    <li><a href="/headphones/headphonescollection.asp?coll=g">Gaming</a></li>
-                                    <li><a href="/headphones/headphonescollection.asp?coll=h">Harajuku</a></li>
+                                	<li><a href="/headphones/headphoneslist.asp?catid=200">Inspiration</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?custom=dna">DNA</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?custom=ncredible">NCredible</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?custom=monstergame">Gaming</a></li>
+                                </ul>
+                            </div>
+                            <div class="foH1"><div>INSPIRATION ACCESSORIES</div></div>
+                            <div>
+                                <ul class="foUL">
+                                	<li><a href="/headphones/headphoneslist.asp?CATID=900&amp;SUBCAT1=1200">Fashion Headbands</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?CATID=900&amp;SUBCAT1=1100">Country Headbands</a></li>
                                     
                                 </ul>
                             </div>
@@ -620,6 +571,12 @@ window.onload = init;
                                 <ul class="foUL">
                                     <li><a href="/digital_life/categories/greenpower.asp">Green Power</a></li>
                                     <li><a href="/digital_life/categories/powercenters.asp">Surge protection power strips</a></li>
+                                </ul>
+                            </div>
+							<div class="foH1"><div>MEMORY</div></div>
+                            <div>
+                                <ul class="foUL">
+                                    <li><a href="/digital_life/categories/memorycards.asp">Memory Cards</a></li>
                                 </ul>
                             </div>
                             <div class="foH1"><div>INTERNET CONNECTIVITY</div></div>
@@ -677,12 +634,19 @@ window.onload = init;
                                     <li><a href="/mp3/ipod/speakers.asp?CAT=2">iPad, iPhone, iPod Docking Stations</a></li>
                                     <li><a href="/mp3/ipod/speakers.asp?CAT=1">Bluetooth® Speaker Systems</a></li>
                                 </ul>
+                            	<div style="height:35px;">&nbsp; </div>
                             </div>
-                            <div style="height:28px;">&nbsp;</div>
+                            
                             <div class="foH1"><div>POWER</div></div>
                             <div>
                                 <ul class="foUL">
                                     <li><a href="/power/travel_power/outlets_to_go.asp">Power Outlets to Go®</a></li>
+                                </ul>
+                            </div>
+                            <div class="foH1"><div>MEMORY</div></div>
+                            <div>
+                                <ul class="foUL">
+                                    <li><a href="/digital_life/categories/memorycards.asp">Memory Cards</a></li>
                                 </ul>
                             </div>
                             <div class="foH1"><div>MAINTENANCE</div></div>
@@ -768,11 +732,12 @@ window.onload = init;
                             <div class="foH1"><div>CABLES</div></div>
                             <div>
                                 <ul class="foUL">
-                                    <li><a href="/monstergame/ps3_cables.asp">PS3</a></li>
-                                    <li><a href="/monstergame/xbox_360_cables.asp">Xbox 360</a></li>
-                                    <li><a href="/monstergame/wii_cables.asp">Wii</a></li>
-                                    <li><a href="/monstergame/ps2_cables.asp">PS2</a></li>
-                                    <li><a href="/monstergame/psp_cables.asp">PSP</a></li>
+                                    <li><a href="/monstergame/linelist/gamelist.asp?cat=4001">PS3</a></li>
+                                    <li><a href="/monstergame/linelist/gamelist.asp?cat=4002">Xbox 360</a></li>
+                                    <li><a href="/monstergame/linelist/gamelist.asp?cat=4003">Wii</a></li>
+                                    <li><a href="/monstergame/linelist/gamelist.asp?cat=4004">PS2</a></li>
+                                    <li><a href="/monstergame/linelist/gamelist.asp?cat=4005">PSP</a></li>
+                                    <li><a href="/monstergame/linelist/gamelist.asp?cat=4006">Xbox</a></li>
                                 </ul>
                             </div>
 						</div>
@@ -945,19 +910,20 @@ window.onload = init;
     	<div id="apLeftNav">
 			<div class="menu">
 	<div style="font-weight:bold;font-size:14px;padding:10px 0px 0px 0px;border-bottom:solid 1px #b2b2b2;"><a href="/service/default.asp" class="menuLinkTop" style="font-size:13px;">SUPPORT</a></div>
-    <div class="linkDivTop" id="SN1" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/faqs/default.asp" class="menuLinkTop">FAQS</a></div>
-      
-    <div class="linkDivTop" id="SN2" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/service/contact.asp" class="menuLinkTop">CONTACT US</a></div>
-    <div class="linkDivTop" id="SN3" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/manuals/default.asp" class="menuLinkTop">PRODUCT MANUALS</a></div>    
-  	
-    <div class="linkDivTop" id="SN9" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/rma/default.asp" class="menuLinkTop">RETURN MATERIAL AUTHORIZATION</a></div>    
-    <div class="linkDivTop" id="SN6" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/headphones/spare.asp" class="menuLinkTop">REPLACEMENT PARTS</a></div>    
-    <div class="linkDivTop" id="SN7" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="#" onclick="openbeatsserialverificationwin();return false;" class="menuLinkTop">SERIAL NUMBER VERIFICATION</a></div>    
-    <div class="linkDivTop" id="SN8" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/ProductRegistration/default.asp" class="menuLinkTop">PRODUCT REGISTRATION</a></div>    
-    <div class="linkDivTop" id="SN5" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/warranty/default.asp" class="menuLinkTop">WARRANTY INFO</a></div>
-    <div class="linkDivTop" id="SN10" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/privacy/default.asp" class="menuLinkTop">PRIVACY STATEMENT</a></div>    
+	<div class="linkDivTop" id="SN1" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/faqs/default.asp" class="menuLinkTop">FAQS</a></div>
+	  
+	<div class="linkDivTop" id="SN2" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/service/contact.asp" class="menuLinkTop">CONTACT US</a></div>
+	<div class="linkDivTop" id="SN3" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/manuals/default.asp" class="menuLinkTop">PRODUCT MANUALS</a></div>    
+	<div class="linkDivTop" id="SN9" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/rma/default.asp" class="menuLinkTop">RETURN MATERIAL AUTHORIZATION</a></div>    
+	<!--<div class="linkDivTop" id="SN6" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/headphones/spare.asp" class="menuLinkTop">REPLACEMENT PARTS</a></div>-->
+	<div class="linkDivTop" id="SN7" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id);"><a href="#" id="a_snv_hack" class="menuLinkTop" onclick="SN_VerifyClick();">SERIAL NUMBER VERIFICATION</a></div>
+	<div class="linkDivTop" id="SN8" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/ProductRegistration/default.asp" class="menuLinkTop">PRODUCT REGISTRATION</a></div>    
+	<div class="linkDivTop" id="SN5" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/warranty/default.asp" class="menuLinkTop">WARRANTY INFO</a></div>
+    <div class="linkDivTop" id="SN11" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/service/shipping-policies.asp" class="menuLinkTop">SHIPPING POLICIES</a></div>
+	<div class="linkDivTop" id="SN10" onmouseover="HoverBG(this.id);" onmouseout="RestoreBGTop(this.id)"><a href="/privacy/default.asp" class="menuLinkTop">PRIVACY STATEMENT</a></div>    
 </div>
 <div style="clear:both"></div>
+<div id="snv_hack" style="display: none;"><a href="/productregistration/verifySerial.asp" class="fboxVerify">verify</a></div>
 
 
         </div>
@@ -969,23 +935,20 @@ window.onload = init;
                     <div style="font-weight:bold;padding:0px 0px 20px 0px">
                         <div style="font-size:16px;">MONSTER CABLE PRODUCTS, INC.</div>
                         <div style="">Web Site Privacy Statement</div>
-                    	<div style="font-size:11px;color:#999999;">Effective Date: January 20, 2011</div>
+                    	<div style="font-size:11px;color:#999999;">Effective Date: February 21, 2012</div>
                     </div>
                 </div>
-                <div style="float:right;width:75px;padding-bottom:10px;"> <a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.monstercable.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.monstercable.com/seal_m.png" alt="Validate TRUSTe privacy certification"></a> </div>
+                <div style="float:right;width:75px;padding-bottom:10px;"> 
+						 
+				</div>
                 <div class="cldv">&nbsp;</div>
               	<div class="" style="">
 					<div style="font-size:12px;line-height:inherit;">
 						<p> Monster Cable Products, Inc. and its corporate affiliates ("Monster" or "we") provide this Web Site Privacy Statement in order to demonstrate our commitment to respect your privacy. 
-						This Web Site Privacy Statement explains how we collect certain personal information at our Web Site at <a href="http://www.monstercable.com">www.monstercable.com</a> and any permutations thereof that directly link to this Website Privacy Statement ("Web Site"). 
-						This Web Site Privacy Statement also explains how we use and disclose such information â€“ it does not, however, apply to our use of data that we collect otherwise (e.g., offline or through web sites of our foreign subsidiaries). 
+						This Web Site Privacy Statement explains how we collect certain personal information at our Web Site at <a href="http://www.monsterproducts.com">www.monsterproducts.com</a> and any permutations thereof that directly link to this Website Privacy Statement ("Web Site"). 
+						This Web Site Privacy Statement also explains how we use and disclose such information - it does not, however, apply to our use of data that we collect otherwise (e.g., offline or through web sites of our foreign subsidiaries). 
 						If you do not agree with this Web Site Privacy Statement, please do not access or use our Web Site. </p>
-						<p>
-						Monster has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  
-						The TRUSTe program does not cover information that may be collected through downloadable software.   
-						TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. <br>
-						If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:webmaster@monstercable.com">webmaster@monstercable.com</a>.<br>  
-						If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>. </p>
+						
 						<p class="PPheader"> Personal and Non-Personal Information </p>
 						<p>Generally, you can visit Monster on the Web without telling us who you are or revealing any personally identifiable information about yourself. We collect no such information about you when you visit our Web Site unless you choose to provide that information to us. Monster may request or collect certain personally identifiable information from or about you ("Personal Information") in certain circumstances, as described in this Web Site Privacy Statement and in specific privacy notices (described at the end of this Web Site Privacy Statement under the header "Situations in Which you Submit Personal Information"). </p>
 						<p class="PPheader">Log Files and Aggregate Information </p>
@@ -995,6 +958,11 @@ window.onload = init;
 						<p>Your browser is probably set to accept cookies. If you would prefer not to receive cookies, however, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our sites will not function properly when you view them. </p>
 						<p>Third parties employ a software technology called  Web beacons or clear, that help us better manage content on our site by informing us what content is effective.  Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user's computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. Third parties do not tie the information gathered by Web beacons to our customers' personally identifiable information. </p>
 						<p>We use a third-party tracking service that uses cookies and Web beacons to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics to improve our Web Site. We have no access or control of these third party tracking technologies. </p>
+						<p class="PPheader">Social Media (Features) and Widgets.</p>
+						<p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+						
+						
+						
 						<p class="PPheader">Situations in Which You Submit Personal Information </p>
 						<p>In certain situations, we will ask you to submit Personal Information. We will use this Personal Information only as described under the header "Use and Transfer of Personal Information." </p>
 						<p>
@@ -1021,7 +989,7 @@ window.onload = init;
 						</p><ul>
 						  <li>We do share Personal Information within the Monster affiliated companies to offer you products and information that may be of interest to you with your consent.</li>
 						  <li>In addition, we may need to transfer Personal Information to third parties who perform services on our behalf in your interest. For example, we may release personal information to third parties to fulfill customer orders, send Monster marketing communications, deliver packages, fulfill subscriptions, schedule and perform installation and servicing, conduct research or surveys, send regular mail and e-mail on behalf of Monster, or to process credit card payments. These third party service providers may not use your information for their own marketing purposes. </li>
-						  <li>If you do not wish to receive communications from us, you can send an e-mail to <a href="mailto:webmaster@monstercable.com">webmaster@monstercable.com</a> with the subject stating "UNSUBSCRIBE",  simply opt out during the checkout process, or follow the unsubscribe instructions included in each promotional email. </li>
+						  <li>If you do not wish to receive communications from us, you can send an e-mail to <a href="mailto:webmaster@monsterproducts.com">webmaster@monsterproducts.com</a> with the subject stating "UNSUBSCRIBE",  simply opt out during the checkout process, or follow the unsubscribe instructions included in each promotional email. </li>
 						</ul>
 						<p></p>
 						<p>We generally reserve the right, however, to transfer any non-personal information without restrictions and to transfer Personal Information in connection with a merger, acquisition, reorganization, and/or sale of all or substantially all of our assets. Also, we may use or disclose Personal Information as required or permitted by law and/or if we believe that such action is necessary to comply with a legal requirement, a court order, request by law enforcement officials, or other legal process, or to protect the rights, property, and safety of others or ourselves. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. </p>
@@ -1032,14 +1000,14 @@ window.onload = init;
 						<p>Our Web Site may contain links to other sites. Please be aware that Monster is not responsible for the privacy practices of such other sites, and this Web Site Privacy Statement does not apply to such sites.  For example as stated above, when you are on the Career section that links from our Web Site you are on a page hosted by a third party which also has its own privacy policy.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. </p>
 						<p class="PPheader">Security </p>
 						<p>Monster endeavors to take reasonable technical and organizational measures to protect the security of our users' Personal Information. When you enter sensitive information (such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL </p>
-						<p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  We do not, however, warrant or represent that your Personal Information is completely safe from hackers and other security threats. If you have questions about the security of this Web Site, please send an email to <a href="mailto:webmaster@monstercable.com">webmaster@monstercable.com</a>. </p>
+						<p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  We do not, however, warrant or represent that your Personal Information is completely safe from hackers and other security threats. If you have questions about the security of this Web Site, please send an email to <a href="mailto:webmaster@monsterproducts.com">webmaster@monsterproducts.com</a>. </p>
 						<p class="PPheader">Changes to this Web Site Privacy Statement </p>
 						<p>If we decide to change this Web Site Privacy Statement â€“ which we reserve the right to do, at any time, effective immediately â€“ we will post the revised policy at this location, or at another location that is accessible via link from our homepage, so that users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it, on any given day. If at any point we decide to use Personal Information in a manner that is substantially different from that stated at the time it was collected, we will notify users by way of an email or a prominent notice on our Web site, and provide users with a choice as to whether or not we use their information in this different manner. </p>
 						<p class="PPheader">Data Retention </p>
-						<p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:webmaster@monstercable.com">webmaster@monstercable.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+						<p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:webmaster@monsterproducts.com">webmaster@monsterproducts.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 						<p class="PPheader">Obtain and Modify Information </p>
-						<p>We intend to protect the quality and integrity of your Personal Information and try to keep information accurate and complete. Please contact us at <a href="mailto:webmaster@monstercable.com">webmaster@monstercable.com</a> to find out if and what Personal Information we may have related to you. Also, if any of your Personal Information changes (such as zip code, phone, email or postal address), please let us know at <a href="mailto:webmaster@monstercable.com">webmaster@monstercable.com</a>. We will respond to your request for access within 30 days. </p>
-						<p>If you have any questions or suggestions regarding our privacy policy, please contact us at <a href="mailto:webmaster@monstercable.com">webmaster@monstercable.com</a>. </p>
+						<p>We intend to protect the quality and integrity of your Personal Information and try to keep information accurate and complete. Please contact us at <a href="mailto:webmaster@monsterproducts.com">webmaster@monsterproducts.com</a> to find out if and what Personal Information we may have related to you. Also, if any of your Personal Information changes (such as zip code, phone, email or postal address), or if you would like delete the Personal Information that we maintain about you, please let us know at <a href="mailto:webmaster@monsterproducts.com">webmaster@monsterproducts.com</a>. We will respond to your request for access within 30 days. </p>
+						<p>If you have any questions or suggestions regarding our privacy policy, please contact us at <a href="mailto:webmaster@monsterproducts.com">webmaster@monsterproducts.com</a>. </p>
 						<p>455 Valley Drive, Brisbane CA 94005 </p>
 					</div>
               	</div>
@@ -1057,32 +1025,19 @@ window.onload = init;
   <div style="padding:20px 0px 40px 0px">
     <div class="subtitle3" style="font-size:14px;margin-top: 10px;">FOLLOW MONSTER</div>
     <div><a href="http://www.youtube.com/monstercableproducts" target="_blank"><img src="/images/Company_info/youtube_badge.gif" width="160" height="68" alt="Monster on Youtube" title="Monster on Youtube" style="border-width:0px;"></a></div>
-    <div style="padding-top:20px;"><a href="http://www.facebook.com/pages/Monster-Cable/7727784175" target="_blank"><img src="/images/Company_info/facebook_badge.gif" width="160" height="32" alt="Monster on Facebook" title="Monster on Facebook" style="border-width:0px;"></a></div>
+    <div style="padding-top:20px;"><a href="http://www.facebook.com/monsterproducts" target="_blank"><img src="/images/Company_info/facebook_badge.gif" width="160" height="32" alt="Monster on Facebook" title="Monster on Facebook" style="border-width:0px;"></a></div>
     <div style="padding-top:20px;"><a href="http://www.linkedin.com/company/monster-cable-products?trk=fc_badge"><img src="/images/Company_info/linkedin_badge.gif" locale="en" alt="Monster Cable Products on LinkedIn" width="160" height="24"></a></div>
-    <div style="padding-top:20px;"><a href="http://twitter.com/monstercable" target="_blank"><img src="/images/Company_info/twitter_badge.gif" alt="Monster on Twitter" width="160" height="36" border="0"></a></div>
+    <div style="padding-top:20px;"><a href="http://twitter.com/monsterproducts" target="_blank"><img src="/images/Company_info/twitter_badge.gif" alt="Monster on Twitter" width="160" height="36" border="0"></a></div>
   </div>
 
   
-  <div class="small" style="display:none;">
-    <div class="subtitle3" style="padding-top:10px;">PRODUCT PROBLEMS</div>
-    <div style="padding-top:10px;display:none">If you have a problem with a defective Monster product, please call 1 877 800-8989. </div>
-    <div style="padding-top:10px;display:block;"> Want a faster Return Authorization?<br>
-      Get the fastest service by using the convenient <br>
-      <a href="/rma/default.asp" class="small">Online Return Authorization Tool</a>. </div>
-    <div style="padding-top:10px;display:block;"> Currently this service only handles <span style="font-weight:bold;">Monster Power or iPod &amp; MP3 product</span> that do not have a connected equipment claim. 
-      Information on <strong>other claims</strong> can be found <a href="javascript:animatedcollapse.toggle('dvInfo')" class="small">here</a>. </div>
-    <div id="dvInfo" style="display:none;">
-      <div style="padding-top:10px;"> If you have a problem with a defective Monster product,<br>
-        please call <span style="font-weight:bold;">1 877 800-8989</span>. </div>
-    </div>
-    <div style="padding-top:10px;"> Or visit our <a href="/faqs/default.asp" class="small" target="_top">FAQ section</a></div>
-    <div style="padding-top:10px;"> Many Monster product manuals are available online.<br>
-      <br>
-      Find  your products using the search field at the top of this page to look for manuals and other downloads.<br>
-    </div>
-    <!--                <div style="padding:15px 0px 5px 0px;"><img src="/gl_images/monsterous_contacts.jpg"></div>--> 
+
+
+
+
+
     
-  </div>
+
 </div>
             <div style="clear:both"></div>
             <div style="clear:both"></div>
@@ -1097,243 +1052,292 @@ window.onload = init;
   </div>
   <div style="clear:both;line-height:0px;"></div>
     
-	<script type="text/javascript">
-        function validateSubscribe(){
-            var emailfilter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-            
-            var Email = document.getElementById("email").value;
-            var errorMsg = document.getElementById("divError");
-            
-            if(!emailfilter.test(Email)){
-                errorMsg.innerHTML = "<br />Please provide a valid email";
-                document.getElementById("email").value = "provide a valid email"
-                document.getElementById("email").focus();
-                document.getElementById("email").select();
-        //		errorMsg.style.display = "inline";
-                
-                return false;
-            }
-            
-          return true;
-        }
-		
-		
 
-		
-       
-    </script>
-<div style="padding-top: 60px;">
-<div id="ttt"></div>
-  <!-- Show all server variables -->
-	<a name="regFooter"></a>
-    <div class="footer2">
-        <div class="footerTopOuter">
-            <div class="footerTopInner">
-            	<div style="width:515px;padding:6px 0px 0px 0px;"><a href="/outletstore"><img src="/images_home/footer/outlet_store_button.jpg" width="180" height="49" alt="Monster Outlet Store"></a></div>
-                <div style="width:150px;padding:10px 10px 0px 0px;"><a href="/social"><img src="/images_home/footer/social_monster_button.gif" width="150" height="38" alt="Social Monsters"></a></div>
-                <div style="width:43px;padding:10px 0px 0px 0px;"><a href="http://www.Youtube.com/monstercableproducts" target="_blank"><img src="/images_home/footer/youtube_button.gif" width="38" height="38" alt="Youtube"></a></div>
-                <div style="width:43px;padding:10px 0px 0px 0px;"><a href="http://www.Twitter.com/monstercable" target="_blank"><img src="/images_home/footer/twit_button.gif" width="38" height="38" alt="Twitter"></a></div>
-                <div style="width:58px;padding:10px 0px 0px 0px;"><a href="http://www.Facebook.com/monstercable" target="_blank"><img src="/images_home/footer/facebook_button.gif" width="38" height="38" alt="Facebook"></a></div>
-                <div style="width:130px;padding:10px 0px 0px 0px;background-color:transparent">
-                    <div class="name_block">
-                        <a target="_blank" href="http://www.facebook.com/monstercable"><span class="name">Monster</span> on Facebook</a>
-                    </div>
-                    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmonstercable&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21&amp;appId=208645232536136" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>                
-				</div>	                
-                
-                <div class="cldv">&nbsp;</div>
-            </div>
-        </div>	
 
-        <div class="footerSubOuter">
-        	<div class="footerSubInner">
-				<div id="footerSubscribe">
-					<form action="/gl_include/footer_subscribe.asp" method="post" onsubmit="return validateSubscribe();">
-                    	<input type="hidden" name="Pageurl" id="Pageurl" value="/privacy/Default.asp">
-				        
-                	    <div class="footerSubLabel">Get the latest news and special offers!  Sign up for email updates &amp; event invitations. <span id="divError" class="footerError"></span></div>
-                        <div class="footerSubInput"><input type="text" name="email" id="email" class="footerSubsribeInputField"></div>
-                        <div class="footerSubButton"><input type="image" src="/images_home/footer/signup_button.gif" class="footerSubsribeInputImg" alt="Sign Up"></div>
-                        
-					</form>
-                    <div class="cldv">&nbsp;</div>
-            	</div>
-			</div>
-        </div>
-        <div style="position:relative;width:950px;margin:0px auto;">
-        <div class="footerMenuOuter" id="" style="">
-        	<div class="footerMenuInner">
-            	<div>
-                	<div class="footerH1">HOME THEATER</div>
-                    <div>
-						 <ul class="footerUL">
-                            <li><a href="/hdmi/hdmi.asp">HDMI Cables</a></li>
-                            <li><a href="/home_av/home_theater.asp">Audio Cables</a></li>
-                            <li><a href="/home_av/home_theater.asp">Video Cables</a></li>
-                        	<li><a href="/power/Monster_Power.asp">A/V PowerCenters</a></li>
-							<li><a href="/power/Monster_Power.asp">Voltage Stabilizers</a></li>
-							<li><a href="/power/uninterruptible_power_supplies.asp">Uninterruptible Power Supplies</a></li>
-    						<li><a href="/power/home_theater/power_cords.asp">Power Cords</a></li>
-                            <li><a href="/flatscreen/cable_management.asp">Cable Management</a></li>
-                            <li><a href="/flatscreen/mounts.asp">Flatscreen Mounts</a></li>
-                            <li><a href="/max3d/3dglasses.asp">3D Glasses</a></li>
-                            <li><a href="/MCCS/">Remote Control Systems</a></li>
-                            <li><a href="/custom_install/custom_installation.asp">Custom Install products</a></li>
-                        </ul>                    
-                	</div>
-                    <div class="footerH1">Gaming</div>
-                    <div>
-						 <ul class="footerUL">
-							<li><a href="/headphones/headphonescollection.asp?coll=g">Headphones</a></li>
-							<li><a href="/monstergame/ps3_cables.asp">PS3</a></li>
-                            <li><a href="/monstergame/xbox_360_cables.asp">Xbox 360</a></li>
-                            <li><a href="/monstergame/wii_cables.asp">Wii</a></li>
-						</ul>                    
-                	</div>
-                </div>
-                <div>
-                	<div class="footerH1">Headphones</div>
-                    <div>
-						 <ul class="footerUL">
-                         	<li><a href="/headphones/headphoneslist.asp?SUBCAT2=30000">Over-Ear</a></li>
-                            <li><a href="/headphones/headphoneslist.asp?SUBCAT2=4000">In-Ear</a></li>
-                            <li><a href="/headphones/supertips.asp">SuperTips</a></li>
-							<li><a href="/headphones/headphonescollection.asp?coll=a">Artist Series</a></li>
-                            <li><a href="/headphones/headphonescollection.asp?coll=b">Beats by Dr. Dre</a></li>
-                            <li><a href="/headphones/headphonescollection.asp?coll=g">Gaming</a></li>
-                            <li><a href="/headphones/headphonescollection.asp?coll=h">Harajuku</a></li>
-                        </ul>                    
-                	</div>
-                    <div class="footerH1">Computer</div>
-                    <div>
-						 <ul class="footerUL">
-							<li><a href="/digital_life/categories/usb.asp">USB Cables</a></li>
-                            <li><a href="/digital_life/categories/ethernet.asp">Ethernet Cables</a></li>
-                            <li><a href="/digital_life/categories/vga.asp">VGA Cables</a></li>
-                            <li><a href="/digital_life/categories/dvi.asp">DVI Cables</a></li>
-                            <li><a href="/digital_life/categories/hdmi.asp">HDMI Cables</a></li>
-                            <li><a href="/digital_life/categories/displayport.asp">Display Port Cables</a></li>
-                            <li><a href="/digital_life/categories/Adaptors.asp">Cables Adaptors</a></li>                         
-                            <li><a href="/digital_life/categories/greenpower.asp">Green Power</a></li>
-                            <li><a href="/digital_life/categories/powercenters.asp">Surge protection power strips</a></li>
-                            <li><a href="/digital_life/categories/internet.asp">Powerline Ethernet Connections</a></li>
-                            <li><a href="/hpmonster/default.asp">HP Monster</a></li>
-                        </ul>                    
-                	</div>
-                </div>
-                <div>
-                	<div class="footerH1">Mobile/MP3</div>
-                    <div>
-						 <ul class="footerUL">
-							<li><a href="/mp3/ipod/transmitters.asp">iPad, iPhone, iPod FM Transmitters</a></li>
-                            <li><a href="/mp3/ipod/chargers.asp">iPad, iPhone, iPod Chargers</a></li>
-                            <li><a href="/mp3/ipod/chargersusb.asp">USB Chargers</a></li>
-                            <li><a href="/mp3/ipod/cassette.asp">Cassette Adapters</a></li>                        
-                            <li><a href="/mp3/ipod/cables.asp">iPad, iPhone, iPod Audio Cables</a></li>
-							<li><a href="/headphones/headphoneslist.asp">Headphones</a></li>
-                            <li><a href="/headphones/supertips.asp">SuperTips</a></li>
-                            <li><a href="/mp3/ipod/speakers.asp?CAT=2">iPad, iPhone, iPod Docking Stations</a></li>
-							<li><a href="/mp3/ipod/speakers.asp?CAT=1">Bluetooth® Speaker Systems</a></li>
-                            <li><a href="/power/travel_power/outlets_to_go.asp">Power Outlets to Go</a></li>
-						</ul>                    
-                	</div>
-                	<div class="footerH1">Music &amp; Video</div>
-                    <div>
-						 <ul class="footerUL">
-                            <li><a href="/music/superaudiocd">Super Audio CDs</a></li>
-                            <li><a href="/music/videosuperdisc">Video SuperDiscs</a></li>
-                        </ul>                    
-                	</div>
-                	<div class="footerH1">Automotive</div>
-                    <div>
-						 <ul class="footerUL">
-                         	<li><a href="/mpc">Speaker Wire</a></li>
-                            <li><a href="/mpc">Power</a></li>
- 							<li><a href="/wcc/products.asp">Cleaning and Care</a></li>
-                            <li><a href="/mp3/">Mobile Device Connections</a></li>
-                         </ul>                    
-                	</div>
-                </div>
-                <div>
-                	<div class="footerH1">Pro Audio</div>
-                    <div>
-						 <ul class="footerUL">
-                                    <li><a href="/pro_audio/instrument_cables.asp">Instrument Cables</a></li>
-                                    <li><a href="/pro_audio/microphone_cables.asp">Microphone Cables</a></li>
-                                    <li><a href="/pro_audio/keyboard_and_midi.asp">Keyboard and MIDI Cables</a></li>
-                                    <li><a href="/pro_audio/dj_cables.asp">DJ Cables</a></li>
-                                    <li><a href="/pro_audio/speaker_cables.asp">Speaker Cables</a></li>
-                                    <li><a href="/pro_audio/snakes_and_patch_cables.asp">Snakes and Patch Cables</a></li>
-                                    <li><a href="/pro_audio/analog_interconnects.asp">Analog Interconnect Cables</a></li>
-                                    <li><a href="/pro_audio/digital_interconnects.asp">Digital Interconnect Cables</a></li>
-                                    <li><a href="/pro_audio/splitters_and_adapters.asp">Cable Splitters and Adapters</a></li>
-                                    <li><a href="/pro_audio/monster_pro_power.asp">Monster Pro Power</a></li>
-                                    <li><a href="/pro_audio/performance_pack.asp">Performance Packs</a></li>
-                        </ul>                    
-                	</div>
-                    <div class="footerH1">Monster Family</div>
-                    <div>
-						 <ul class="footerUL">
-							<li><div><a href="http://www.monsterdj.com/">Monster DJ</a></div></li>
-                    		<li><div><a href="/famous/default.asp">Famous Monster</a></div></li>
-                    		<li><div><a href="/social/">Social Monster</a></div></li>
-                    		<li><div><a href="http://www.Facebook.com/monstercable">Monster on Facebook</a></div></li>
-                    		<li><div><a href="http://www.Youtube.com/monstercableproducts">Monster Youtube</a></div></li>
-                    </ul>                    
-                	</div>
-                </div>
-                <div class="cldv">&nbsp;</div>
-            </div>
-        </div>
-        </div>
+<footer>
+    <div id="footer">
+        <div class="footer2" style="background-image:url(/images/footer-v5-bg.jpg); background-repeat:repeat-x;">        
         
-        <div class="footerLinksOuter">
-        	<div class="footerLinksInner">
-              	<div class="footerLinks_v2">
-                	<ul>
-                        <li><div><a href="/" target="_top">Home</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/service/" target="_top">Customer Support</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/FAQS/" target="_top">FAQ</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/international/" target="_top">International</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/warranty/" target="_top">Warranty</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/productregistration/" target="_top">Product Registration</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/community/default.asp" target="_top">Community</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/company_info/careers.asp" target="_top">Careers</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/press/" target="_top">Press</a></div></li>
-                        <li class="sep"><div>I</div></li>
-                        <li><div><a href="/company_info/" target="_top">Company Info</a></div></li>
-                    </ul>
-                    <div class="cldv">&nbsp;</div>
+            
+   
+            <div id="wrapper-footerlist" style="min-height:inherit;">
+                <div class="footerMenuOuter" style="width: 980px">
+                    <div style="margin:0; padding-top:15px;clear:both;">Visit the <a href="/outletstore/" title="Outlet Store" class="footer-outletStore-link">MONSTER OUTLET STORE</a><img src="/gl_images/outlet_arrows.png" title="MONSTER OUTLET STORE" style="margin:0 0 1px 5px;height:6px;"></div>
+                    <div class="footerMenuInner" style="width: 980px; padding-top: 5px;">
+                        <div style="width: 170px;">
+ 
+                            <h3>HOME THEATER</h3>
+                            <div>
+                                <ul class="footerUL">
+                                    <li><a href="/hdmi/hdmi.asp">HDMI Cables</a></li>
+                                    <li><a href="/home_av/home_theater.asp">Audio Cables</a></li>
+                                    <li><a href="/home_av/home_theater.asp">Video Cables</a></li>
+                                    <li><a href="/power/Monster_Power.asp">A/V PowerCenters</a></li>
+                                    <li><a href="/power/Monster_Power.asp">Voltage Stabilizers</a></li>
+                                    <li><a href="/power/uninterruptible_power_supplies.asp">Uninterruptible Power Supplies</a></li>
+                                    <li><a href="/power/home_theater/power_cords.asp">Power Cords</a></li>
+                                    <li><a href="/flatscreen/cable_management.asp">Cable Management</a></li>
+                                    <li><a href="/flatscreen/mounts.asp">Flatscreen Mounts</a></li>
+                                    <!--<li><a href="/max3d/3dglasses.asp">3D Glasses</a></li>-->
+                                    <li><a href="/MCCS/">Remote Control Systems</a></li>
+                                    <li><a href="/custom_install/custom_installation.asp">Custom Install products</a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        <div style="width: 140px;">
+                            
+                            <h3>Headphones</h3>
+                            <div>
+                                <ul class="footerUL">
+                                    <li><a href="/headphones/headphoneslist.asp?catid=200">Over-Ear</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?catid=300">On-Ear</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?catid=400">In-Ear</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?catid=500">Noise Cancelling</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?catid=700">Sport</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?custom=5">SuperTips</a></li>
+                                    <li><a href="/headphones/headphoneslist.asp?catid=900&amp;subcat1=1200">Inspiration Headbands</a></li>    
+                                </ul>
+                            </div>
+                            
+                            <h3>Speakers</h3>
+                            <div>
+                                <ul class="footerUL">
+                                	<li><a href="/speakers/">Speakers Overview</a></li>
+                                    <li><a href="/speakers/speakerslist.asp?custom=hometheaterspeakers">Home Theater Speakers</a></li>
+                                    <li><a href="/speakers/speakerslist.asp?custom=mobilespeakers">Mobile Speakers</a></li>           
+                                </ul>
+                            </div>
+
+                        </div>
+                        <div style="width: 195px;">
+                            
+                            <h3>Mobile/MP3</h3>
+                            <div>
+                                <ul class="footerUL">
+                                    <li><a href="/mp3/ipod/transmitters.asp">iPad, iPhone, iPod FM Transmitters</a></li>
+                                    <li><a href="/mp3/ipod/chargers.asp">iPad, iPhone, iPod Chargers</a></li>
+                                    <li><a href="/mp3/ipod/cassette.asp">Cassette Adapters</a></li>
+                                    <li><a href="/mp3/ipod/cables.asp">iPad, iPhone, iPod Audio Cables</a></li>
+                                    <li><a href="/mp3/ipod/speakers.asp?CAT=2">iPad, iPhone, iPod Docking Stations</a></li>
+                                    <li><a href="/mp3/ipod/speakers.asp?CAT=1">Bluetooth® Speaker Systems</a></li>
+                                    <li><a href="/power/travel_power/outlets_to_go.asp">Power Outlets to Go</a></li>
+                                    <li><a href="/digital_life/categories/memorycards.asp">Memory Cards</a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        <div style="width: 175px;">
+                            
+                            <h3>Pro Audio</h3>
+                            <div>
+                                <ul class="footerUL">
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-instrument-cables">Instrument Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-microphone-cables">Microphone Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-keyboard-and-midi-cables">Keyboard and MIDI Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-dj-cables">DJ Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-speaker-cables">Speaker Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-snakes-and-patch-cables">Snakes and Patch Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-analog-interconnect-cables">Analog Interconnect Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-digital-interconnect-cables">Digital Interconnect Cables</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=professional-splitters-and-adapters">Cable Splitters and Adapters</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=monster-pro-power">Monster Pro Power</a></li>
+                                    <li><a href="/pro_audio/pro_audiolist.asp?category=performance-pack">Performance Packs</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div style="width: 140px;">
+                            
+                            <h3>Essentials</h3>
+                            <div>
+                                <ul class="footerUL">
+                                	<li><a href="/essentials/">Essentials Overview</a></li>
+                                    <li><a href="/essentials/essentials-list.asp?category=connect-it">Connect It</a></li>
+                                    <li><a href="/essentials/essentials-list.asp?category=protect-it">Protect It</a></li>
+                                    <li><a href="/essentials/essentials-list.asp?category=clean-it">Clean It</a></li>
+                                    <li><a href="/essentials/essentials-list.asp?category=organize-it">Organize It</a></li>
+                                </ul>
+                            </div>
+                            
+                            <h3>Music &amp; Video</h3>
+                            <div>
+                                <ul class="footerUL">
+                                    <li><a href="/music/superaudiocd">Super Audio CDs</a></li>
+                                    <li><a href="/music/videosuperdisc">Video SuperDiscs</a></li>
+                                </ul>
+                            </div>
+   
+                        </div>
+                        
+                        <div style="width: 140px; float: left;">
+                        
+                            <h3>Monster Family</h3>
+                            <div>
+                                <ul class="footerUL">
+                                    <li><div><a href="/artistroster/">Monster Artist Roster</a></div></li>
+                                    <li><div><a href="/social/">Social Monster</a></div></li>
+                                    <li><div><a href="http://www.Facebook.com/monsterproducts">Monster on Facebook</a></div></li>
+                                    <li><div><a href="http://www.Youtube.com/monstercableproducts">Monster Youtube</a></div></li>
+                                </ul>
+                            </div> 
+                        </div>
+                        <div class="cldv">&nbsp;</div>
+                    </div>   
                 </div>
-              	<div class="footerApplelegal2">iPad, iPhone, iPod, iPod classic, iPod nano, iPod shuffle, and iPod touch are trademarks of Apple Inc., registered in the U.S. and other countries.</div>
-               	<div class="footerCopyright2">©1997-2011 Monster Cable Products, Inc. · <a href="/privacy/" class="">Privacy Statement</a> · 455 Valley Drive, Brisbane, CA 94005 : 415 840-2000 · Fax: 415 468-0311 </div>
             </div>
-        </div>
-        <div class="footerBadgesOuter">
-        	<div class="footerBadgesInner">
-                <div style="float:left;width:120px;padding:0px 0px 0px 0px;">
-                    <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.monstercable.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.monstercable.com/32.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" align="middle"></a>&nbsp;&nbsp;
-                </div>   
-                 <div style="float:left;width:230px;padding:0px 10px 0px 10px;">
-                    <a href="#TB_inline?&amp;height=480&amp;width=900&amp;&amp;inlineId=hiddenModalContent" class="thickbox" title=""><img src="/images_home/footer/beware_counterfeit.jpg" alt="Beware of Counterfeit, Don't be fooled. Learn more"></a>
-                </div>
-                <div style="float:left;width:153px;padding:0px 0px 0px 0px;">
-                    <a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.monstercable.com/seal_m" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.monstercable.com/seal_m.png" alt="TRUSTe online privacy certification"></a>
-                </div> 
-                <div class="cldv">&nbsp;</div>
+            
+
+            
+            
+            
+            <script type="text/javascript">
+				$(document).ready(function () {
+					
+					$('#email-newsletter').click(function(){
+						$(this).val('');
+					});
+					
+					$('#newsletter-subscribe').submit(function(e) {
+						
+						$('#newsletter-warning').removeClass('form-warning');
+						$('#newsletter-indicator').show();
+				
+						$.ajax({
+						   type: "POST",
+						   url: "/ajax/specialoffers-signup.asp",
+						   data: $("#newsletter-subscribe").serialize(),
+						   success: function(msg) {
+							   
+							  switch(msg) {
+							  case 'Invalid Email':
+								  $('#email-newsletter').addClass('form-warning');
+								  $('#email-newsletter').val('provide a valid email');
+								  $('#newsletter-indicator').hide();	
+								break;
+							  case 'Duplicate':
+								  $('#email-newsletter').addClass('form-warning');
+								  $('#email-newsletter').val('You are already signed up!');
+								  $('#newsletter-indicator').hide();	
+								break;
+							  default:
+							      $('#newsletter-indicator').hide();
+								  $('#newsletter-subscribe, .newsletter-signup-header').hide();
+								  $('#newsletter-result').show('slow');	
+								  $('#newsletter-result').html('<span style="color: #c00;">THANK YOU!</span> WELCOME TO MONSTER!');
+								  
+							  }				 
+						   }
+						 });
+			
+						e.preventDefault();
+					});	
+				});
+			</script>
+            
+            <div class="footerLinksOuter">
+            	<div class="footerLinksInner">
+                    <div id="wrapper-socialbottom" style="margin-bottom: 6px;">
+                        <ul id="social" style="margin: 0;">
+                            <li class="icons-social"><a href="http://www.facebook.com/monsterproducts" target="_blank">Facebook</a></li>
+                            <li class="icons-social twitter"><a href="http://twitter.com/monsterproducts" target="_blank">Twitter</a></li>
+                            <li class="icons-social youtube"><a href="http://www.youtube.com/monstercableproducts" target="_blank">YouTube</a></li>
+                            <li class="icons-social instagram"><a href="http://web.stagram.com/n/monsterproducts" target="_blank">Instagram</a></li>
+                            <li class="icons-social pinterest"><a href="http://pinterest.com/monsterproducts" target="_blank">Pinterest</a></li>
+                        </ul>
+                        
+                    	<h2 class="social-header" style="float:left; margin:17px 0 0 10px;">Follow us @MONSTERPRODUCTS</h2>
+                        
+				<div style="float:right; margin-top: -12px; padding: 0;">
+                		<h3 class="newsletter-signup-header">Sign Up for Updates and Event Invitations</h3>
+						<form action="/gl_include/footer_subscribe.asp" method="post" name="newsletter-subscribe" id="newsletter-subscribe">
+      						<input type="hidden" name="Pageurl" id="Pageurl" value="/privacy/Default.asp">
+                            <div style="position: relative;">
+                                <input type="text" name="email-newsletter" id="email-newsletter" style="padding: 4px; width: 200px; border: 1px solid white; 
+                                background-color: #808080; margin:0; color: #fff; " value="ENTER YOUR EMAIL">
+                                <input type="image" src="/images/grey-arrow-signup.gif" style=" position: absolute; left: 190px; top: 4px; z-index: 9999;">
+                                <img src="/images/indicator-blackbg.gif" width="24" height="24" id="newsletter-indicator" style=" position: absolute; left: 220px; top: 0;">
+              					
+                            </div>
+                        </form> 
+                        
+                        <div id="newsletter-result"></div>
+                    </div>
+                    
+                       
+           		  </div>                
+			    </div>
             </div>
-        </div>
-        <div class="cldv">&nbsp;</div>
-    </div>
+            
+ 			<div class="cldv">&nbsp;</div> 
+            <div class="footerLinksOuter">
+                <div class="footerLinksInner">
+                    <div class="footerLinks_v2">
+                        <ul style="text-align:left;">
+                            <li class="first"><a href="/">Home</a></li>
+                            <li><a href="/service/">Customer Support</a></li>
+                            <li><a href="/FAQS/">FAQ</a></li>
+                            <li><a href="/international/">International</a></li>
+                            <li><a href="/warranty/">Warranty</a></li>
+                            <li><a href="/productregistration/">Product Registration</a></li>
+                            <li><a href="/community/default.asp">Community</a></li>
+                            <li><a href="/company_info/careers.asp">Careers</a></li>
+                            <li><a href="/press/">Press</a></li>
+                            <li><a href="/company_info/">Company Info</a></li>
+                        </ul>
+                        <div class="cldv">&nbsp;</div>
+                    </div>
+                    
+                 
+                 <div class="footerLinksVerify" style="padding: 13px 0 18px 0;">
+                     <ul style="text-align:left; margin:0;">
+                         <li class="first" style="padding: 0 10px 0 0;"><a href="/gl_include/utilities/callout_list-v2.asp" class="fancybox-beware">BEWARE OF COUNTERFEITS, DON'T BE FOOLED</a></li>
+                         <li><a href="/service/?verifyserial=true">VERIFY YOUR PRODUCT BEFORE YOU BUY</a></li>
+                     </ul>   
+                 </div>
+                    
+                    
+                    
+                    
+<div class="footerApplelegal2">
+iPad, iPhone, iPod, iPod classic, iPod nano, iPod shuffle, and iPod touch are trademarks of Apple Inc., registered in the U.S. and other countries.
 </div>
+
+                        
+                    <div class="footerCopyright2" style="text-align:left; margin:0;">
+                        ©1997-2013
+                        Monster Cable Products, Inc. · <a href="/privacy/" class="">Privacy Statement</a>
+                        · 455 Valley Drive, Brisbane, CA 94005 : 415 840-2000 · Fax: 415 468-0311
+                    </div>
+                    
+                    <div style="text-align:left; margin: 20px 0">
+                        <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.monstercable.com">
+                            <img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.monstercable.com/32.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" align="middle"></a>&nbsp;&nbsp; 
+                    </div>
+                </div>
+            </div>
+
+            <div class="cldv">&nbsp;</div>
+        </div>
+    </div>
+</footer>
+<script type="text/javascript">
+    // SLI code
+    var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+    document.write(unescape('%3Cscript src="' + sliJsHost + 'monstercable.resultspage.com/rac/sli-rac.config.js?rev=95745" type="text/javascript"%3E%3C/script%3E'));
+    jQuery(window).load(function () {
+        if (window.sliAutocomplete !== undefined && window.sliAutocomplete.input !== undefined && window.sliAutocomplete.input.opts !== undefined) {
+            window.sliAutocomplete.input.opts.base = 'http://electronics.monsterproducts.com/search?ts=rac&ref=electronics.monstercable.com&w=';
+        }
+    });
+	
+</script><script src="https://monstercable.resultspage.com/rac/sli-rac.config.js?rev=95745" type="text/javascript"></script>
+
+<!-- BEGIN JS SEGMENT TAG â€“ BazaarVoice DO NOT MODIFY -->
+<script src="http://ad1.bv-rp.com/ansn-creative/dynads/ServeS3.ashx/autotag.js" type="text/javascript"></script>
+<!-- END Bazaarvoice TAG -->
+
+
 </div>
 
 
