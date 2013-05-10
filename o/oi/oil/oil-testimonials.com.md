@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oil-testimonials.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017065844id_/http%3A//www.oil-testimonials.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oil-testimonials.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212553id_/http%3A//www.oil-testimonials.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.oil-testimonials.com/images/assets/featured-image-1.jpg "About Us")
 
 This privacy policy sets out how Oil-Testimonials.com uses and protects any information that you give Oil-Testimonials.com when you use this website.
 
