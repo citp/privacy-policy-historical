@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218015920id_/http%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510104606id_/http%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
 
 # Information - Privacy | Macgamestore.com
 
