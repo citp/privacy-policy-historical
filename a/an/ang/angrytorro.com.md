@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angrytorro.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108004925id_/http%3A//angrytorro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angrytorro.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510111740id_/http%3A//angrytorro.com/privacy) for the most accurate reproduction.*
 
 # Angry Torro - Fun fun fun !
 
