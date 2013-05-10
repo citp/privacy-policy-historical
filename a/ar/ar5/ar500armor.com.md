@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ar500armor.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209032132id_/http%3A//www.ar500armor.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ar500armor.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510123248id_/http%3A//www.ar500armor.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D7) for the most accurate reproduction.*
 
 # AR500 Armor Privacy Policy
 
