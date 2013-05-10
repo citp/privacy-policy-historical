@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926053212id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211422id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# OnTheGo™ - Live. Laugh. Love. Custom Sports Wear & Accessories | SHOP ONLINE NOW!
-
-### FeelGood! News
-
-**Most of the news nowadays is boring, tedious and repetitive.**
-
-**We are one of Australia's fastest growing brands. Sign up for our newsletter to add some fun back into your life.**
-
-### Womens Fresh Racerback Singlet - Baby Blue
-
-AUD $36.35
-
-The new Womens Fresh Racerback Singlet is one of a kind. Designed with our lightest fabrics, this garment promotes healthy air flow to... 
-
-[](https://web.archive.org/6/101902/Custom.ashx?a.tag=purchase) [](https://web.archive.org/all-products/womens-fresh-racerback-singlet-baby-blue.aspx)
+# OnTheGo® - Ideas that move people. Sports Wear | Sports Accessories | Custom Branded Gear
 
 In this policy, “us”, “we”, or “our” means OnTheGo Advertising, operators of this website.
 
@@ -158,4 +144,4 @@ Please choose carefully.  We do not normally give refunds if you simply change 
 
 **14\. SECURITY POLICY  **
 
-When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20120926053212id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
+When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20130510211422id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
