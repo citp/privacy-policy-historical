@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enzasbargains.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109112305id_/http%3A//www.enzasbargains.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enzasbargains.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510181510id_/http%3A//www.enzasbargains.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
-# enza's bargains - Privacy Policy - enza's bargains
+# enza's bargains - Privacy Policy
 
 Enza’s Bargains respects your privacy.
 
