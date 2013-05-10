@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214103716id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511004624id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy CardRatings.com Privacy Statement
 
-**LAST UPDATED:  **July 31, 2012
+**LAST UPDATED:  February 1, 2013**
 
-**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
+**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy.
 
 **CERTIFICATIONS**
 
@@ -38,6 +38,7 @@ We may use Personal Information:
   * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
   * to send you surveys and marketing communications that we believe may be of interest to you.
   * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you.
+  * to present you with advertisements tailored to you on certain third party websites, including on Facebook.
   * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
   * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
   * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
