@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021171811id_/http%3A//www.apmex.com/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510080205id_/http%3A//www.apmex.com/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -32,15 +32,17 @@ Use of Information Gathered
 
 The American Precious Metals Exchange will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Examples of such information are: name, postal address, email address, phone number, and credit card information. This is needed in order to complete your orders. The American Precious Metals Exchange may share non-personal aggregate or summary information regarding its customers with partners or other third parties, but The American Precious Metals Exchange does not sell or share any information at the individual customer level.
 
-We may use cookies, pixel tags or other means to collect anonymous data related to your use of our website, including, but not limited to, your IP address, pages viewed, sale transactions, and other anonymous shopping data. We may allow third parties to collect this anonymous data on our behalf and to retain and use this data themselves. In addition, we may share this anonymous data with other third parties. Anonymous data may be used for purposes including delivering to you banner advertisements and other advertising tailored to your interests when you visit certain websites and selecting offers and products to display to you when you visit our website.
+We may use cookies, pixel tags or other means to collect anonymous data related to your use of our website, including, but not limited to, your IP address, pages viewed, sale transactions, and other anonymous shopping data. This information allows us to gauge the effectiveness of our websites, improve our online operations and focus our marketing efforts to better meet the needs of our customers. We may allow third parties to collect this anonymous data on our behalf and to retain and use this data themselves. In addition, we may share this anonymous data with other third parties. APMEX has implemented and uses Google Analytics for Display Advertisers and Google Display Network (DoubleClick). Google Analytics collects anonymous data about your interaction with our website via the DoubleClick cookie and through the standard Google Analytics implementation. Anonymous data may be used for purposes including delivering to you banner advertisements and other advertising tailored to your interests when you visit certain websites and selecting offers and products to display to you when you visit our website.
 
 Opt-Out Features
 
 The American Precious Metals Exchange puts control over communications directed to you where it belongs, in your hands. Every time we collect name and address information about you: 
 
   * You can tell us if you do not want to receive communication from The American Precious Metals Exchange such as email newsletters announcing specials or new features.
-  * You can stop receiving any messages sent by The American Precious Metals Exchange by either calling us at 1-800-375-9006 or by sending an email to [remove@APMEX.com](mailto:remove@APMEX.com) with the word "Remove" as the subject header.
-  * You can opt out of attribution modeling by [clicking here](http://www.convertro.com/optout).
+  * You can stop receiving any messages sent by The American Precious Metals Exchange by either calling us at 1-800-375-9006 or by sending an email to [ remove@APMEX.com](mailto:remove@APMEX.com) with the word "Remove" as the subject header.
+  * You can opt out of attribution modeling by [ clicking here](http://www.convertro.com/optout).
+  * You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [ Ads Preferences Manager ](https://www.google.com/settings/ads/onweb/). 
+  * You can find out more about how Google uses cookies in advertising and opt-out via the following links: [ Google Display Network (DoubleClick)](http://www.google.com/policies/privacy/ads/) & [ Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
 
 
 
