@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107111010id_/http%3A//oculusvr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511012624id_/http%3A//www.oculusvr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Oculus Rift - A Virtual Reality Headset for Immersive 3D Gaming
+# Privacy Policy | Oculus Rift - Virtual Reality Headset for 3D Games
 
 _Effective Date: August 1, 2012_
 
@@ -66,10 +66,8 @@ We will use reasonable efforts to comply with this Policy and will take prompt c
 
   * You can always opt not to disclose information to use, but keep in mind some information may be needed to take advantage of some of the Services or special features of the Services.
   * You may be able to add or update certain information as explained above. When you update i­nformation, however, we may maintain a copy of the unrevised information in our records.
-  * You may request deletion of your certain of your personal information by sending an e-mail to [privacy@oculusvr.com  
-](mailto:privacy@oculusvr.com%3Cbr%20/%3E). Please note that some information may remain in our private records after deletion of your account.
-  * If you do not otherwise wish to receive email or other communications from us, please contact us at [privacy@oculusvr.com  
-](mailto:privacy@oculusvr.com%3Cbr%20/%3E).
+  * You may request deletion of your certain of your personal information by sending an e-mail to [privacy@oculusvr.com](mailto:privacy@oculusvr.com). Please note that some information may remain in our private records after deletion of your account.
+  * If you do not otherwise wish to receive email or other communications from us, please contact us at [privacy@oculusvr.com](mailto:privacy@oculusvr.com).
 
 
 
@@ -79,5 +77,4 @@ Oculus reserves the right to modify this Policy at any time. When we do so, we w
 
 ## Contact Us
 
-If you have questions regarding this Policy, please send an e-mail message to: [privacy@oculusvr.com  
-](mailto:privacy@oculusvr.com%3Cbr%20/%3E)
+If you have questions regarding this Policy, please send an e-mail message to: [privacy@oculusvr.com](mailto:privacy@oculusvr.com).
