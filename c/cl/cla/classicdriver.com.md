@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107153259id_/http%3A//www.classicdriver.com/uk/service/6600.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510052238id_/http%3A//www.classicdriver.com/uk/service/6600.asp) for the most accurate reproduction.*
 
 # 
 
