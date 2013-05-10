@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617203204id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510100828id_/http%3A//applebees.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Applebee's - There's No Place Like The Neighborhood
-
-## Privacy Policyprint this page
+# Applebee's - See You Tomorrow
 
 ### Applebee's Services, Inc.
 
@@ -18,7 +16,7 @@ Please note that this Privacy Policy does not apply to (a) employment applicatio
 
 #### What information does Applebee's collect from me?
 
-Applebee's may collect information about you, such as your name, postal address, email address, zip code, phone number and dining preferences through any of the following: online email address submissions, in-restaurant surveys, research surveys, dining frequency cards, online gift card purchases, guest relations communications and online restaurant location searches or other voluntary activities.
+Applebee's may collect information about you, such as your name, postal address, email address, zip code, phone number and dining preferences through any of the following: online email address submissions, in-restaurant surveys, research surveys, dining frequency cards, online gift card purchases, guest relations communications and online restaurant location searches or other voluntary activities. Additionally, use of the Applebee’s mobile application may also result in the collection of additional information such as your user name and password, your birthday, and information related to an Applebee’s GPS location.
 
 #### Can I remain anonymous when I provide information to Applebee's?
 
