@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desk.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204173813id_/http%3A//www.desk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desk.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510073730id_/http%3A//www.desk.com/privacy) for the most accurate reproduction.*
 
 # Desk.com | Privacy Policy
 
@@ -94,7 +94,7 @@ As stated previously, you can always opt not to disclose information, even thoug
 
 You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
 
-Desk.com accounts may be deactivated by the billing administrator for an account, at which point the account and the data stored therein is treated in accordance with our [Deletion Policy](https://web.archive.org/web/20121204173813id_/http%3A//www.desk.com/deletion-policy). 
+Desk.com accounts may be deactivated by the billing administrator for an account, at which point the account and the data stored therein is treated in accordance with our [Deletion Policy](http://www.desk.com/deletion-policy). 
 
 If you are not the administrator of your Desk.com account, please consult your account Administrator for updating or removing your account. 
 
