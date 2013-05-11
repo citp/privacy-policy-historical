@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the ebates.ca privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101063221id_/http%3A//www.ebates.ca/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.ca privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511134201id_/http%3A//www.ebates.ca/help/privacy-policy) for the most accurate reproduction.*
 
-# Coupons, Promo Codes and Cash Back Savings - Ebates canada
+# Coupons, Promo Codes and Cash Back Savings - Ebates Canada
 
 ## Privacy Policy
 
 Ebates was founded by two former Deputy District Attorneys who take privacy and security very seriously. We at Ebates Canada know that these issues are essential to making this site a success for us and our members. Rest assured that privacy, security and integrity are first and foremost at Ebates Canada.
 
-[What data we collect and why](http://www.ebates.ca/help/privacy-policy#collect)  
-[Who sees your personal information](http://www.ebates.ca/help/privacy-policy#personal)  
-[How we keep your information secure](http://www.ebates.ca/help/privacy-policy#secure)  
-[Your privacy with Ebates Canada](http://www.ebates.ca/help/privacy-policy#ebates)  
-[Your privacy with our stores and advertisers](http://www.ebates.ca/help/privacy-policy#ad)  
-[Our policies on email](http://www.ebates.ca/help/privacy-policy#email)  
-[Cookies and how are they used](http://www.ebates.ca/help/privacy-policy#cookies)  
-[Your choices and responsibilities](http://www.ebates.ca/help/privacy-policy#responsibilities)  
-[Integrity](http://www.ebates.ca/help/privacy-policy#integrity)  
-[Third-party verification](http://www.ebates.ca/help/privacy-policy#verification)
+[What data we collect and why](https://web.archive.org/help/privacy-policy#collect)  
+[Who sees your personal information](https://web.archive.org/help/privacy-policy#personal)  
+[How we keep your information secure](https://web.archive.org/help/privacy-policy#secure)  
+[Your privacy with Ebates Canada](https://web.archive.org/help/privacy-policy#ebates)  
+[Your privacy with our stores and advertisers](https://web.archive.org/help/privacy-policy#ad)  
+[Our policies on email](https://web.archive.org/help/privacy-policy#email)  
+[Cookies and how are they used](https://web.archive.org/help/privacy-policy#cookies)  
+[Your choices and responsibilities](https://web.archive.org/help/privacy-policy#responsibilities)  
+[Integrity](https://web.archive.org/help/privacy-policy#integrity)  
+[Third-party verification](https://web.archive.org/help/privacy-policy#verification)
 
 ### What data we collect and why
 
