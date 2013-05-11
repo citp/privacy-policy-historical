@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018130615id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511194922id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Hot Hits Live from LA
-
-### Privacy Policy
+# New Music - Music Videos | Music Charts | Countdown the Hottest Songs - The Hot Hits
 
 ### Version 1.0 – Last updated [30 May 2006]
 
