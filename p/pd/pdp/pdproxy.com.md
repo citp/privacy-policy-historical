@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pdproxy.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511171542id_/http%3A//www.pdproxy.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdproxy.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511172052id_/http%3A//www.pdproxy.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy
 
 PD-Proxy VPN is committed in providing a safe and secure web experience. We are dedicated to safeguarding all personal information collected online and to helping our users learn how to exercise control over personal information while exploring the Internet. To help ensure a rewarding online experience for all users, we provide this summary of our information practices. This privacy notice governs the collection and use of information at www.pdproxy.com. 
 
