@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gadgetfolder.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203175243id_/http%3A//www.gadgetfolder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetfolder.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511082144id_/http%3A//www.gadgetfolder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Page GadgetFolder.Com
-
-## Privacy Policy
+# Privacy Policy | Page of GadgetFolder.Com
 
 **GadgetFolder.Com Privacy Statement**
 
@@ -42,11 +40,3 @@ When **GadgetFolder.Com** makes changes to this privacy policy we will post thos
 
 **Contact Information**  
 If you have any questions regarding our privacy policy, please contact us.
-
-#### Sign up Free Email Newsletter
-
-Stay Updates with this Blog. Get Free email newsletter updates, **Enter your Email here:**
-
-Don't forget to confirm your email subcription
-
-[](https://plus.google.com/117071497990214841121?prsrc=1) [](http://www.facebook.com/gadgetfoldercom) [](http://twitter.com/gadgetfolder) [](http://feeds.feedburner.com/gadgetfolder)
