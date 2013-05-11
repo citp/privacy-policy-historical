@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomez.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117055242id_/http%3A//www.compuware.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomez.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511224350id_/http%3A//www.compuware.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Compuware
 
@@ -7,6 +7,7 @@ Compuware Corporation respects your right to privacy and is committed to protect
   * The Collection of Personal Data
   * How We Use the Information Collected
   * Cookies
+  * Internet Marketing
   * Opt-out
   * Links to Non-Compuware Websites
   * Commitment to Data Security
@@ -19,7 +20,7 @@ Compuware Corporation respects your right to privacy and is committed to protect
 
 ### The Collection of Personal Data
 
-You may visit a Compuware website without identifying yourself or sharing any personal information.  Compuware does collect certain domain information in order to improve and customize your experience on its site(s).  Specifically, Compuware may collect the following types of information when you use any Compuware or Compuware-affiliated website:
+You may visit a Compuware website without identifying yourself or sharing any personal information.  Compuware does collect certain domain information in order to improve and customize your experience on its site(s).  Specifically, Compuware may collect the following types of information when you use any Compuware or Compuware-affiliated website: 
 
   * Information you provide directly, including personally identifiable information, when you complete an online registration form for offers, events, user groups, training, trials, demos, etc. or submit an inquiry via email, direct mail, phone or fax.
   * Information you provide directly, including personally identifiable information, by submitting an online job application.Usage data, collected via Google Analytics, such as IP address, web browser type/version, operating system and website visit information such as date, time and pages viewed.
@@ -53,7 +54,7 @@ Compuware values your business and strives to protect your privacy.  Compuware 
 
 Compuware is a global company with customers and partners all over the world.  Accordingly, the information we collect may be used, stored and/or processed in the USA or in any other country in which Compuware does business.  By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Compuware does business (including those with less adequate levels of protection). 
 
-### Top 
+Top
 
 ### Cookies
 
@@ -68,6 +69,14 @@ Compuware uses two types of cookies:
 
 A cookie cannot be executed as code or deliver viruses.  Compuware uses both session and persistent cookies to collect and store information that allows us to offer better customer service and ensure easy navigation through our website(s).  
 You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
+
+Top
+
+### Internet Marketing
+
+In some instances, Compuware uses third-party advertising companies to serve ads on our behalf across the Internet. These third-party companies employ cookie and web beacon (also referred to as single pixel gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. Cookies are also used to help us track usage patterns in order to improve or manage our site, to ensure the integrity of the registration process, and to help provide personalized service and deliver content specific to your interests. You can find more information about cookies and Compuware’s use of them in the Cookie Section above.  Web beacons may also be used to deliver cookies and to compile statistics about our website, such as how many people visited a particular page or clicked on certain links. While your particular use of our site will not be revealed and no personally identifying information will be collected, this anonymous information may be used for online preference marketing purposes, and Compuware’s third party advertising companies may use the information about your visit to the website(s) in order to provide ads about goods and services that may be of interest to you. This information can include: date/time of banner ad shown, related cookie, and the first three octets of the IP address. Compuware may share aggregated statistics about the use of our website with third parties.
+
+To learn more about our third-party advertising companies, cookies, and how to "opt-out" of receiving future Compuware advertisements, please go to <http://www.networkadvertising.org/consumer/opt_out.asp>.
 
 Top
 
@@ -119,6 +128,6 @@ Our goal is to respect your privacy. If you seek resolution to any privacy or da
 
 Compuware may modify or update this Privacy Statement at any time without prior notice.  We encourage you to check this Statement often so that you are aware of how we are protecting your personal information.  Your continued use of this website constitutes your consent to the contents of this Privacy Statement.
 
-Last Updated 10/10/2012
+Last Updated 02/14/2013
 
 Top
