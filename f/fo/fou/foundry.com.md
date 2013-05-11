@@ -1,49 +1,33 @@
-> *The following text is extracted and transformed from the foundry.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725080343id_/http%3A//foundry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundry.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511194617id_/http%3A//www.brocade.com/privacy/index.page) for the most accurate reproduction.*
 
-# Foundry Networks - Privacy Policy
+# Company
 
-## Privacy Policy
+**Privacy Statement**   
+Privacy is important to Brocade Communications Systems, Inc. ("Brocade" or "we"). This privacy policy explains Brocade's web site and services (collectively, the "Service"). Effective Date: June 17, 2004. 
 
-This Privacy Policy is made available to you in order to make you aware of how Foundry Networks, Inc. ("Foundry") collects and uses personal information you provide to us or collected via your visit to the Foundry website.
+If you feel that Brocade is not abiding by this privacy policy, you should contact the Webmaster at [privacy@brocade.com](mailto:privacy@brocade.com). 
 
-By accessing the Foundry website, you consent to the terms of our Privacy Policy and to Foundry's processing of Personal Information for the purposes given below, as well as those that may appear on the web pages where you provide your Personal Information to us. For additional restrictions on your use of the website, please see our [Terms of Use](https://web.archive.org/terms-use.html) and our [Trademarks and Logo Usage Policy](https://web.archive.org/trademark-policy.html).
+**Information Collection and Use**  
+We collect the following personally identifiable information about our users: name, e-mail address, telephone number, business address, shipping address, social security number, preferred means of communication, credit card information and other information voluntarily provided. This personally identifiable information is typically provided when users register for online services, purchase products online, or participate in contests, surveys or sweepstakes. We also collect information about users regarding web pages accessed, traffic patterns and site usage.   
+We, our service providers and our vendors may use any information collected by users: to operate the Service; to effect users' transactions; to provide better services, products and opportunities to users; to notify users about services, products and opportunities that may be of interest to such users; to create and share reports about users' transactions; and for other marketing purposes. We may also trade, sell, rent or otherwise share your personally identifiable information with other third parties, including our business partners.
 
-#### 1\. Personal Information
+**Cookies**  
+Cookies are pieces of information stored on your hard drive containing information about you. These pieces of information allow the Service to remember important information that will make your use of the Service more useful. Brocade uses cookies for a variety of purposes. For instance, we use cookies to allow your automated login and to track your preferences and usage. You can choose to reject or turn off the cookies through your browser settings. If you reject or turn off the cookies, you may still use the Service. The only drawback to this is that you will be limited in some areas of the Service. For example, you will not be able to participate in any of our sweepstakes, contests or monthly drawings that we may offer.
 
-Your "Personal Information" is information that enables us to identify you, such as your email address, name and mailing address.
+**Log Files**  
+We use IP addresses to analyze trends, administer the Service, track users' movements, and gather demographic information.
 
-#### 2\. Collection and Use of Personal Information
+**Security**  
+We use security measures, such as firewalls and Security Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information. Information we collect about our users is stored on secured servers. However, "perfect security" does not exist. If you have any questions about the security of the Service, please send an e-mail to [privacy@brocade.com](mailto:privacy@brocade.com).
 
-When you browse our website, you do so anonymously, unless you have previously indicated that you wish Foundry to remember your login and password or you expressly provide Personal Information to us. Foundry may record information about your website visit, such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed.
+**Minors**  
+Minors (individuals below the age of 18) are not eligible to use the Service and no portion of the Service is directed towards minors. We do not knowingly solicit any information about minors or market to minors.
 
-Foundry collects Personal Information when you register with Foundry for a Foundry account, when you use certain Foundry products or services, when you register to attend a training session or class, when you ask to be included in an email or other mailing list, when you request information about Foundry products or services, or when you submit your information to Foundry for any other reason. 
+**Disclosure Required by Law**  
+We cooperate with law enforcement agencies in identifying those who use the Service for illegal activities. Therefore, we respond to subpoenas, warrants or other court orders regarding information concerning any users. We will, at our discretion, disclose information if we believe that we are required to do so by law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.
 
-Foundry may use information you provide to us to contact you or your company for marketing purposes. If you choose to provide us with your Personal Information on the website, we may transfer that information within Foundry or to Foundry's third party service providers, across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+**Correction/Updating Personally Identifiable Information**  
+If your personally identifiable information changes, or if you no longer desire Brocade's services, we will endeavor to provide a way to correct, update or remove the data you provided to us. This can usually be done at the member information page or by sending an e-mail to [privacy@brocade.com](mailto:privacy@brocade.com).
 
-#### 3\. Your Control over Your Personal Information
-
-New registrants may choose to limit use of their Personal Information. We will always give you the opportunity to "opt out" of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Privacy Policy, unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, we will provide you with the opportunity to "opt in." This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted.
-
-When you sign up for an email list, you will be given instructions at that time on how to remove yourself from that list.
-
-Certain of Foundry's webpages require a login and password for access. The use of those webpages and the information or programs downloadable from those pages are governed by a written agreement between your employer and/or Foundry and the [Terms of Use](https://web.archive.org/terms-use.html). Your Personal Information may be retained by Foundry to verify compliance with the agreements, track software downloaded from those pages and track use of other applications available on the Foundry website. 
-
-#### 4\. Security of Your Personal Information
-
-Foundry is committed to taking reasonable steps to protect the Personal Information that you provide to us.
-
-#### 5\. Corrections to Your Personal Information
-
-The accuracy of your Personal Information is important to Foundry. You may contact us at the following e-mail addresses to request a change to your personally identifying information: [info@foundrynet.com](mailto:info@foundrynet.com) or [webmaster@foundrynet.com](mailto:webmaster@foundrynet.com). We will make a sincere effort to honor your wishes. Please allow up to four weeks to process your request. 
-
-#### 6\. Use of Cookies
-
-Cookies are small text files that our web sites ask to place on your computer's hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer's hard drive. We use cookie technology to tailor the content of our website to your preferences and to help us analyze web traffic in general. Cookies may be used in interactions where you request something from Foundry, including literature, CD-ROMs, technical support and seminar registrations. We use third parties to monitor web traffic, statistics, advertisement 'click-through', and other activities on Foundry's websites. Where authorized by Foundry, such third parties may use cookies and other monitoring technologies to compile anonymous aggregate statistics on Foundry's website visitors. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies, or to warn you before a cookie is placed.
-
-#### 7\. Links to other Websites
-
-Foundry's website contains links to other sites. Foundry does not share your Personal Information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies directly from them.
-
-#### 8\. Not directed towards Children
-
-Foundry does not knowingly seek to attract children to its website or solicit data from children. Foundry does not knowingly market to children. 
+**Your Consent; Notification of Changes**  
+By using the Service, you consent to Brocade's collection and use of the information described in this privacy policy. If we decide to change this privacy policy, we will post those changes via our homepage so our users are aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an e-mail. Please check this policy from time to time to make sure that you are aware of our latest privacy policy.
