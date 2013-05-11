@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231064054id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511133042id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
 
 # Privacy - Ernst & Young - United States
-
-|  | 
-
-## Privacy statement
 
 Ernst & Young intends for ey.com to complement the services that the firm provides. This statement, set forth below, is our privacy statement for the United States Web site. Also, set forth below is our [Safe Harbor statement](https://web.archive.org/US/en/Home/Privacy_Safe_Harbor) which concerns the transfer of personal data from the European Union to the United States. These privacy statements describe the practices we follow to respect the privacy of all visitors to this site.
 
@@ -87,22 +83,3 @@ The registration form and the supplier database are maintained by a third party,
 **Changes to This Policy**. Ernst & Young may change this policy statement as needed. If changes to the statement are made, please note that it may take up to 30 business days before new privacy practices are implemented. Check this page periodically if you would like to monitor changes.
 
 **Consumer Recourse**. If you have any questions or concerns regarding your privacy while using ey.com, please contact our site manager.
-
-| |   
----  
-  
-Read our Safe Harbor Data Privacy Statement. 
-
-### Governed web sites
-
-This privacy statement covers the public Web site of Ernst & Young in the United States. The US site consists of pages beginning with http://www.ey.com/global/ content.nsf/US/Home or [http://webcast.ey.com](http://webcast.ey.com/).
-
-### Social Security Numbers
-
-Ernst & Young LLP works to protect the confidentiality and security of Social Security Numbers (SSNs) that we obtain in the course of our business. We limit access to SSNs and maintain policies and procedures designed to safeguard SSNs from loss, misuse, and improper disclosure.
-
-### Need to unsubscribe?
-
- **ey.com Email Alerts**. If you have registered for ey.com/us email alerts, and do not wish to receive future e-mails, please visit our unsubscribe page.
-
- **Ernst & Young Thought Center Webcast Alerts**. If you are receiving email announcements from our Thought Center Webcast section, and would like to discontinue, please open one of the previous Thought Center Webcast emails you have received, and click the link (or copy and paste the URL) at the bottom of email: "To remove yourself from the mailing list..." If you do not have a previous email to access this URL, please request to be removed from the email list through the ["update your profile"](http://www.ey.com/webcast?action=update_profile) function, where you can also submit any changes to your personal profile.
