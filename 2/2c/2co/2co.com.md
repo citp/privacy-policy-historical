@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018120922id_/http%3A//www.2checkout.com/documentation/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511082148id_/https%3A//www.2checkout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - 2Checkout.com
+# Privacy Policy - 2Checkout Blog
 
 Last Updated March 2012 ([Previous Version](http://www.2checkout.com/documentation/privacy.20100727.html))
 
@@ -223,10 +223,12 @@ If you have questions or concerns related to this Privacy Statement, you may con
 
 Attn: Privacy Officer
 
-2Checkout.com, Inc.
+2Checkout, Inc.
 
-1785 O'Brien Road
+855 Grandview Avenue
 
-Columbus, OH 43228
+Suite 110
+
+Columbus, OH 43215
 
 USA
