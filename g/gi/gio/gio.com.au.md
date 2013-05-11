@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015095731id_/http%3A//www.gio.com.au/your-privacy-protected) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511211639id_/http%3A//www.gio.com.au/your-privacy-protected) for the most accurate reproduction.*
 
-# Privacy | GIO
+# Group Privacy Policy - GIO
 
 [ ](https://web.archive.org/ "GIO Home")
 
 ##  Group Privacy Policy
 
-GIO is a member of the Suncorp Group. [Click here to read the Suncorp Group Privacy Policy](https://web.archive.org/sites/default/files/fm/pdf/Suncorp-Group-Privacy-Policy.pdf).
+GIO is a member of the Suncorp Group. [Click here to read the Suncorp Group Privacy Policy](http://www.suncorp.com.au/corporate/legal/privacy-policy).
 
 ##  GIO Privacy Statement
 
@@ -87,3 +87,4 @@ Please feel free to contact us to:
 You can contact us by calling 13 10 10
 
 Our Privacy Policy can also be found on our website at [gio.com.au](https://web.archive.org/)
+
