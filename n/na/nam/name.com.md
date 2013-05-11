@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025133141id_/http%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511135932id_/https%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
