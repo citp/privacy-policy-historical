@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grameenphone.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919224444id_/http%3A//www.grameenphone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grameenphone.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511121311id_/http%3A//grameenphone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameenphone
 
