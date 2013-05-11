@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the forceindiaf1.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109221935id_/http%3A//www.forceindiaf1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forceindiaf1.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511201303id_/http%3A//www.forceindiaf1.com/privacy-policy) for the most accurate reproduction.*
 
 # Sahara Force India - Privacy Policy
 
-###  [ 2012 ETIHAD AIRWAYS ABU DHABI GRAND PRIX ](http://www.forceindiaf1.com/results-standings)
+###  [ 2013 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX ](http://www.forceindiaf1.com/results-standings)
 
-#### 02-04 Nov | Yas Marina
+#### 19-21 Apr | Sakhir
 
 **Results**  
 ---  
-(P9) Paul Di Resta | +24.1 secs  
-(P24) Nico Hülkenberg | DNF  
+(P4) Paul Di Resta | +21.7 secs  
+(P13) Adrian Sutil | +76.7 secs  
 [View results](http://www.forceindiaf1.com/results-standings)
 
 ### Privacy Policy
