@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the whitedovebooks.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203143725id_/http%3A//www.whitedovebooks.co.uk/site-design/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitedovebooks.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511022421id_/http%3A//www.whitedovebooks.co.uk/site-design/privacy.htm) for the most accurate reproduction.*
 
 # White Dove Books - Privacy Policy
 
-Our Newsletter was started in 2005 as a way of providing useful information including tips and techniques for living life to the full, interesting articles and free inspirational eBooks to our members.
-
 The White Dove Partnership has a simple Privacy Policy. We respect your privacy & will _never_ abuse your trust. Your email address is 100% safe with us! It will never be passed on to anyone for any reason whatsoever!
+
+Our Newsletter was started in 2005 as a way of providing useful information including tips and techniques for living life to the full, interesting articles and free inspirational eBooks to our members.
 
 The information we collect is never sold, rented, or leased to any party. It is used for our Newsletter and eCourse mailings; and each of our mailings provides a simple method of complete removal from our database.
 
-**Members of** **Inspiration** **receive a great Newsletter and eBook every single week** **; and, from time to time, they receive genuine special offers from our online Store.**  
-  
----  
-  
+**Members of** **Inspiration** **receive a great Newsletter and eBook every single week** **; and, from time to time, they receive genuine special offers from our online Store. Join the Inspiration Newsletter here ...**
+
 Here's What our Readers Say ...
 
 > __ **"I just love White Dove Books. Your Newsletter is excellent and the books are outstanding" -** **Phil** Gerbyshak
@@ -27,8 +25,14 @@ Here's What our Readers Say ...
 > __ "Thanks for the outstanding value of your life coaching programme. I am making some radical changes." - Colin A. Guthrie
 > 
 > __ "I see your email in my inbox and I get a flutter, because I know there will be something uplifting." - Rosemarie (Bermuda)
+> 
+> We recently conducted a survey of our readers. Here's what they said.
 
-**We use Google to serve relevant advertising at this site.**
+**Use of Cookies**
+
+**Following the introduction of the UK Cookie Law, we decided to stop using cookies except where strictly necessary for functionality.**
+
+** However, we use Google Adsense to serve relevant advertising at this site.**
 
   * Ads by Google make use of the DART cookie to serve ads
   * Google's use of the cookie enables it to serve ads based on visitor interest
