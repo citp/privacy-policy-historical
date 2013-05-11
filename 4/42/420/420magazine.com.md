@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106225041id_/http%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511204525id_/http%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : 420 MAGAZINE
+# Privacy Policy : 420 MAGAZINE ®
 
 Here at 420Magazine.com we value your business. This brief privacy statement discusses what information we collect about you and what we do with that information.
 
