@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stubhub.co.uk privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109061237id_/http%3A//www.stubhub.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubhub.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511190637id_/http%3A//www.stubhub.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy
 
-_This Policy is effective 5 June 2012_
+_This Policy is effective 18 April 2013_
 
 This Privacy Policy tells you about StubHub practices for the collection, use and disclosure of information we collect about you through our sites and services, including the website www.stubhub.co.uk. By using our sites and services, you agree to the terms of this Privacy Policy and you consent to the processing of information about you as described here.
 
@@ -24,7 +24,7 @@ _Information you give to us.
 _ When you register and buy or sell tickets, we ask you for the following information:
 
   * Name and physical delivery, contact and payment addresses
-  * Email address and telephone number
+  * Email address and telephone number (including a mobile telephone number)
   * Payment card information
   * Email address and password
 
@@ -53,6 +53,8 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 You may choose to provide us with access to certain personal information stored by third parties such as social media sites (such as by way of example only, and not limitation, Facebook and Twitter). The information we have access to varies by site and is controlled by your privacy settings on that site and your authorisation. By associating an account managed by a third party with your StubHub account and authorising StubHub to have access to this information, you agree that StubHub may collect, store and use this information in accordance with this Privacy Policy.
 
+MyThings are our service providers who use cookies to help us deliver our advertising. We require these companies to use the information they collect only to provide us with these services under contract. You can block these cookies by adjusting your browsers privacy settings. Learn more about MyThings business practices and privacy policies, including how to decline participation in their programme here [http://www.mythings.com/optout.html](http://www.mythings.com/Optout.html)
+
 **How we share information**
 
 We share information between our buyers and sellers that allows them to complete a ticket sale, like name, delivery address and other information that might be included on the ticket. We may also disclose personal information to respond to legal requirements (for example, a court order) or in the good-faith belief that disclosure is legally required, enforce our policies, establish or exercise our legal rights or protect anyone's rights, property or safety. We may also share your personal information with:
@@ -74,7 +76,7 @@ When you first use our Site and Services, StubHub may send a cookie to your comp
 
 You can access and change your account information in My Account. There, you can change your address, telephone number, email address, password, payment card information and privacy and communications preferences.
 
-We may communicate with you at various times, with administrative emails or phone calls, about transactions and service announcements, customer service responses and promotional emails like special offers, newsletters and updates. You can choose to stop receiving promotional emails from us at any time simply by changing your preferences, unsubscribing on the website or using an email's unsubscribe function. You may not opt out of receiving administrative messages or customer service responses. If you have agreed to receive marketing communications through checkout with our partners, you must change your communication preferences with them directly.
+We may communicate with you at various times, with administrative emails, phone calls or SMS messages, about transactions and service announcements, customer service responses and promotional emails like special offers, newsletters and updates. You can choose to stop receiving promotional emails from us at any time simply by changing your preferences, unsubscribing on the website or using an email's unsubscribe function. You may not opt out of receiving administrative messages or customer service responses. However, you can use the unsubscribe feature in SMS messages to stop receiving such messages, even if administrative. If you have agreed to receive marketing communications through checkout with our partners, you must change your communication preferences with them directly.
 
 If you choose to use our referral services, we ask you for your friend's name and email address. We will automatically send your friend a copy of the email. StubHub or our service providers store this information for the sole purpose of sending this one-time email. Your friend may contact us at customerservice@stubhub.co.uk to request that we remove this information from our database.
 
