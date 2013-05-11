@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222132716id_/http%3A//www.thehut.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511070252id_/http%3A//www.thehut.com/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy | TheHut.com
 
@@ -30,4 +30,4 @@ We take the risk of internet fraud very seriously. With the volume of fraudulent
 
 ## Contact Us
 
-If you have any queries on any aspect of the above policy, please [contact us](https://www.thehut.com/hutint/customerQuery.secure?skeletonAccount=true).
+If you have any queries on any aspect of the above policy, please [contact us](https://www.thehut.com/hutint/customerQuery.secure?action=postQuery&skeletonAccount=true).
