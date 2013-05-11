@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the activeyou.co.uk privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227203619id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the activeyou.co.uk privacy policy that was archived on 2013-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511185445id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!--[if (gte IE 9)|(gt IEMobile 7)]><!--><!--<![endif]--><head>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><!--[if (gte IE 9)|(gt IEMobile 7)]><!--><!--<![endif]--><head>
 <meta charset="utf-8">
 <title>Active You - Play.Win.Save</title>
-<meta name="description" content="Enter our FREE competitions and benefit from weekly discounts &amp; savings!">
+<meta name="description" content="ActiveYou runs exclusive competitions to over 2 million active members, winners are drawn every week and £££'s has been given away in prize money.">
 <meta name="author" content="">
 
 <!-- http://t.co/dKP3o1e 
@@ -13,24 +13,195 @@
 <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">-->
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="../css/stylev2.css">
-<link rel="stylesheet" media="print" href="../css/print.css">
+<link rel="stylesheet" href="/css/stylev2.css">
+<link rel="stylesheet" media="print" href="/css/print.css">
 
 <!--[if (lt IE 9) & (!IEMobile)]>
 <script src="../js/libs/selectivizr-min.js"></script>
 <![endif]-->
 <!-- Scripts -->
-<script src="//ssl.google-analytics.com/ga.js"></script><script src="../js/libs/jquery-1.6.2.min.js"></script>
-<script src="../js/plugins.js"></script>
-<script src="../js/script.js"></script>
-<script src="../js/mylibs/helper.js"></script>
-<script src="../js/signuppopup.js"></script>
+<script src="//ssl.google-analytics.com/ga.js"></script><script src="../js/libs/respond.min.js"></script><script src="/js/libs/jquery-1.6.2.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/script.js"></script>
+<script src="/js/mylibs/helper.js"></script>
+<script src="/js/signuppopup.js"></script>
+<script src="/js/bpopup.js"></script>
+<script src="/js/si.files.js"></script>
+<!-- Sign In Script -->
+<script>
+	$(document).ready(function(){
+		
+		
+	function numberWithCommas(n) {
+		var parts=n.toString().split(".");
+		return parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",") + (parts[1] ? "." + parts[1] : "");
+	}
+		
+		
+		setInterval(function() {
+			$.ajax({
+				type: "GET",
+				dataType: 'html',
+				url: 'http://www.activeyou.co.uk/includes/member_counts.php',
+				success: function(data){	
+					//$('#memberCountNumber').html(data);
+					if(data != $('#memberCountNumber').text()) {
+						//$('#memberCountNumber').html(numberWithCommas(data)).fadeOut().fadeIn('fast');
+						
+						//$('#memberCountNumber').html(numberWithCommas(data)).fadeOut(1000);
+						$('#memberCountNumber').html(numberWithCommas(data)).fadeIn(1000);
+						
+						
+						
+						
+						
+					}
+
+					
+					
+				}
+			})
+	}, 10000);
+	
+	
+		$('#logoutbutton').click(function(){
+			$.ajax({
+				type: "POST",
+				url: "/logout.php",
+				success: function(){
+					window.location.reload();
+				}
+			})
+		});
+		signinon = 0;
+		$('#loginbutton').live('click' , function(){
+			if(signinon == 0){
+				$('#SignInPopup').fadeIn();
+				signinon = 1;
+				fpassword = 0;
+			}else{
+				$('#SignInPopup').fadeOut();
+				signinon = 0;
+			}
+			$('#signinform').html('\
+				<fieldset>\
+					<label>EMAIL</label><input id="email" type="text" value=""><br>\
+				</fieldset>\
+				<fieldset>\
+					<label>PASSWORD</label><input id="password" type="password">\
+				</fieldset>\
+				<p id="SignInPopupForgot">I forgot my Password\</p>\
+				<img id="signinbutton" src="/img/signingreen.png" alt="ContactUs" style="float: right; margin-right: 15px;" border="0">\
+				<img id="signinbutton2" src="/img/signinremind.png" alt="ContactUs" style="float: right; cursor:pointer; margin-right: 15px; display: none;" border="0">\
+				<div id="junk">Please check your junk/spam folder</div>\
+				<p id="LoginMessage"></p>\
+			');
+		});
+		$('#loginbutton2').live('click' , function(){
+			if(signinon == 0){
+				$('#SignInPopup').fadeIn();
+				signinon = 1;
+				fpassword = 0;
+			}else{
+				$('#SignInPopup').fadeOut();
+				signinon = 0;
+			}
+			$('#signinform').html('\
+				<fieldset>\
+					<label>EMAIL</label><input id="email" type="text" value=""><br>\
+				</fieldset>\
+				<fieldset>\
+					<label>PASSWORD</label><input id="password" type="password">\
+				</fieldset>\
+				<p id="SignInPopupForgot">I forgot my Password</p>\
+				<img id="signinbutton" src="/img/signingreen.png" alt="ContactUs" style="float: right; margin-right: 15px;" border="0">\
+				<img id="signinbutton2" src="/img/signinremind.png" alt="ContactUs" style="float: right; margin-right: 15px; display: none;" border="0">\
+				<p id="LoginMessage"></p>\
+			');
+		});		
+		$('#signinbutton').live('click' , function(){
+			email = $('#signinform').find('#email').val();
+			password = $('#signinform').find('#password').val();
+			$.ajax({
+				type: "POST",
+				url: "/login.php",
+				data: "email="+email+"&password="+password,
+				success: function(html){
+					if(html == 'LoggedIn'){
+						window.location.reload();
+					}else{
+						$('#LoginMessage').html(html);
+					}
+				}
+			});
+		});
+		//Forgot Password
+		$('#SignInPopupForgot').live('click' , function(){
+			$('#password').parent().hide();
+			$('#signinbutton').hide();
+			$('#signinbutton2').show();
+			$('#junk').show();
+			$('#LoginMessage').html('');
+		});
+		//Forgot Password
+		$('#SignInPopupForgot2').live('click' , function(){
+			$('#password').parent().hide();
+			$('#signinbutton').hide();
+			$('#signinbutton2').show();
+			$('#junk').show();
+			$('#LoginMessage').html('');
+		});
+		$('#signinbutton2').live('click' , function(){
+			email = $('#email').val();
+			email_check = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,6}$/i;
+			if(email_check.test(email)){
+				$.ajax({
+					type: "GET",
+					url: "/forgotpassword.php",
+					data: "email="+email,
+					success: function(html){
+						if(html == 'Confirmation email Has been send'){
+							alert('Password reset email has been sent.');
+							window.location.reload();
+						}else{
+							$('#LoginMessage').html(html);
+						}
+					}
+				});
+			}else{
+				alert("Please provide a valid email address");
+			}
+		});
+		$('#password').live('keypress' , function(e){
+			var code = (e.keyCode ? e.keyCode : e.which);
+			if(code == 13) { //Enter keycode
+				email = $('#signinform').find('#email').val();
+				password = $('#signinform').find('#password').val();
+				$.ajax({
+					type: "POST",
+					url: "/login.php",
+					data: "email="+email+"&password="+password,
+					success: function(html){
+						if(html == 'LoggedIn'){
+							window.location.reload();
+						}else{
+							$('#LoginMessage').html(html);
+						}
+					}
+				});
+			}
+		});
+	});
+</script>
 	
 <!--[if (lt IE 9) & (!IEMobile)]>
 <script src="js/libs/imgsizer.js"></script>
 <![endif]-->
 <!-- JavaScript -->
-<script src="../js/libs/modernizr-2.0.6.min.js"></script>
+<script src="/js/libs/modernizr-2.0.6.min.js"></script>
+
+<script src="/js/jquery.fileupload.js"></script>
 
 <!-- For iPhone 4 -->
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/h/apple-touch-icon.png">
@@ -55,22 +226,30 @@
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>-->
 
 </head>
-<body class="group" style="background: url(/img/bgv3.png)">
-
-	<div id="popupContact">
+<body class="group" style="background: #bfefff; /* Old browsers */
+background: -moz-linear-gradient(top,  #bfefff 0%, #ffffff 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bfefff), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #bfefff 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #bfefff 0%,#ffffff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #bfefff 0%,#ffffff 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #bfefff 0%,#ffffff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfefff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+">
+	<!-- CONTACT POPUP -->
+	<!--<div id="popupContact">
 		<a id="popupContactClose" style="float: right; font-size: 14pt; font-weight: 900; margin-top: -30px; margin-right: 10px; cursor: pointer;">x</a>
 		<div style="background: #00c0ff; height: 5px;"></div>
 		<div id="popupContactLeft">
-			<img src="/img/activeyoubig.png">
-			<p style="color: #00c0ff; font-size: 10pt; width: 200px; font-weight: 600;">"I had never won anything before in my life... I can't say that anymore. I won the holiday of a lifetime to the Maldives."<br><span style="font-size: 9pt; font-weight: 300;">Harriet Roberts, 27 / Sheffield</span></p>
-			<p style="color: #333132; font-size: 8pt; margin-top: 7px; text-align:left;">*sign up to receive the <br>latest information &amp; deals</p>
+			<img src="/img/activeyoubig.png" />
+			<p style="color: #00c0ff; font-size: 10pt; width: 200px; font-weight: 600;">"I had never won anything before in my life... I can't say that anymore. I won the holiday of a lifetime to the Maldives."<br /><span style="font-size: 9pt; font-weight: 300;">Harriet Roberts, 27 / Sheffield</span></p>
+			<p style="color: #333132; font-size: 8pt; margin-top: 7px; text-align:left;">*sign up to receive the <br />latest information & deals</p>
 			
 		</div>
 		<div id="popupContactRight">
-			<p>Enter your email below to access<br><i>ActiveYou's</i> amazing deals!</p>
-			<form id="signupForm" action="/add-email.php" method="POST">
-				<b>Email Address:</b><br><br>
-				<input type="text" id="emailaddress" name="emailaddress" style="width: 250px;">
+			<p>Enter your email below to access<br /><i>ActiveYou's</i> amazing deals!</p>
+			<form id="signupForm" action="/add-email.php" method="POST" >
+				<b>Email Address:</b><br /><br />
+				<input type="text" id="emailaddress" name="emailaddress" style="width: 250px;" />
 				<script>
 					$(document).ready(function(){
 						$('#signup').click(function(){
@@ -97,12 +276,12 @@
 					})
 				</script>
 				
-				<br>
+				<br/>
 				
 				
 				<div> 
 				<div style="float:left; margin-top:80px; width:50px; height:100px;">
-					<input name="tandc" id="tandc" value="1" type="checkbox">
+					<input name="tandc" id="tandc" value="1" type="checkbox" />
 				</div>
 				
 				<div style="float:left; margin-left: 10px; width: 200px; margin-left:0px; margin-bottom:10px; text-align: center; font-size:11px;" id="tText">
@@ -115,39 +294,124 @@
 				
 				</div>
 				
-				<br><br>
-				<input type="submit" id="signup" value="">
+				<br /><br />
+				<input type="submit" id="signup" value="" />
 			</form>
-			
+			</script>
 		</div>
 		<div style="clear: both;"></div>
 	</div>
 	<div id="backgroundPopup"></div>
+	-->
+	<!--^ CONTACT POPUP ^-->
+<div id="titlebar_holder" style="background-color: #ffffff; height: 70px;">
 	<div id="titlebar" style="width: 830px;">
-		<div id="titlebarsignup">
-			<img src="/img/signupv3.png" alt="signup" border="0">
+	
+		
+	
+		<div id="memberCount">
+			<div id="memberCountNumber">
+			2,054,317</div> <span class="greenText">Registered Members.</span>
 		</div>
-		<div id="titlebarcontact">
-			<a href="contact.php"><img src="/img/contactusv3.png" alt="ContactUs" border="0"></a>
+	
+		<div id="titlebarsignup">
+			<a href="/offers/user-registration/"><img src="/img/signupv3.png" alt="signup" border="0"></a>		</div>
+		<div id="titlebarsignin">
+			<img id="loginbutton" src="/img/signin.png" alt="signin" border="0">		</div>
+		<!--<div id="titlebarcontact">
+			<a href="/contact.php"><img src="/img/contactusv3.png" alt="ContactUs" border="0" /></a>
+		</div>-->
+		<div id="titlebarshare">
+			<!--<p style="font-size: 11pt;">Follow us:</p>-->
+			<a href="https://twitter.com/ActiveYou" target="_blank"><img src="/img/twittermini.png" alt="facebook"></a>
+			<a href="https://www.facebook.com/ActiveYou.co.uk" target="_blank"><img src="/img/facebookmini.png" alt="facebook"></a>
+			<div style="clear: both;"></div>
 		</div>
 		<div style="clear: both;"></div>
+		<!-- SIGN IN POPUP -->
+		<div id="SignInPopup" style="display: none;">
+			<form action="" id="signinform">
+				<fieldset>
+					<label>EMAIL</label><input type="text" id="email" value=""><br>
+				</fieldset>
+				<fieldset>
+					<label>PASSWORD</label><input type="password" id="password">
+				</fieldset>
+				<p id="SignInPopupForgot">I forgot my Password</p>
+				<img id="signinbutton" src="/img/signingreen.png" alt="ContactUs" border="0" style="float: right; margin-right: 15px;">
+				<img id="signinbutton2" src="/img/signinremind.png" alt="ContactUs" border="0" style="float: right; margin-right: 15px; display: none;">
+				<p id="LoginMessage"></p>
+			</form>
+		</div>
 	</div>
-	<div class="homeContent group">
-		<div id="sidebar" style="margin-top: -50px; width: 210px;">
-			<div id="logoholderv3">
-				<a href="/"><img src="/img/aylogov3.jpg" alt="ActiveYou" border="0"></a>
+	<div id="arrow">
 			</div>
-			<ul id="menuholderv3">
+</div>
+	<div class="homeContent group">
+		<div id="sidebar" style="margin-top: -85px; width: 210px;">
+			<div id="logoholderv3">
+				<a href="/" style="position: relative; z-index: 1;"><img src="/img/active_you_logo.png" alt="ActiveYou" border="0" width="180"></a>
+			</div>
+				<ul id="menuholderv3" style="margin-top: 5px;">
 				<a href="/"><li class="menuholderitemv3" style="border-radius: 5px 5px 0px 0px;">HOME</li></a>
-				<!--<a href="all-offers.php"><li class="menuholderitemv3">ALL OFFERS</li></a>-->
-				<a href="handpicked-deals.php"><li class="menuholderitemv3">HANDPICKED DEALS</li></a>
-				<a href="terms.php"><li class="menuholderitemv3">COMPETITION TERMS</li></a>
-				<a href="privacy.php"><li class="menuholderitemv3">PRIVACY POLICY</li></a>
+				<a href="/about-us.php"><li class="menuholderitemv3">ABOUT US</li></a>
+				<a href="/all-competitions.php"><li class="menuholderitemv3">ALL OFFERS</li></a>
+				<!--<a href="/handpicked-deals.php"><li class="menuholderitemv3">HANDPICKED DEALS</li></a>-->
+				<a href="/broadband-deals.php"><li class="menuholderitemv3">BROADBAND DEALS</li></a>
+				<a href="/winners.php"><li class="menuholderitemlast">LATEST WINNERS</li></a>
+				<a href="/claiming-prizes.php"><li class="menuholderitemv3">CLAIM YOUR PRIZE</li></a>
+				<!--<a href="winners.php"><li class="menuholderitemv3">COMP WINNERS</li></a>-->
+				<a href="/safe-senders.php"><li class="menuholderitemv3">SAFE SENDERS</li></a>
+				<a href="/terms.php"><li class="menuholderitemv3">COMPETITION TERMS</li></a>
+				<a href="/privacy.php"><li class="menuholderitemlast">PRIVACY POLICY</li></a>
 				<!--<a href="sponsors.php"><li class="menuholderitemv3">COMP SPONSORS</li></a>--->
-				<a href="winners.php"><li class="menuholderitemv3">COMP WINNERS</li></a>
-				<a href="safe-senders.php"><li class="menuholderitemv3">SAFE SENDERS</li></a>
-				<a href="unsubscribe.php"><li class="menuholderitemlast" style="border-radius: 0px 0px 5px 5px;">UNSUBSCRIBE</li></a>
+				<!--<a href="unsubscribe.php"><li class="menuholderitemlast" style="border-radius: 0px 0px 5px 5px;">UNSUBSCRIBE</li></a>-->
 			</ul>
+			
+			<div id="recentWinnersv3">
+				<p style="text-align: center; font-size: 11pt; background: #00C0FF; margin: 0px; padding: 5px 0px;">COMPETITION WINNERS</p>
+				
+							<div class="recentWinner" style="border-bottom: 1px solid #00C0FF; padding: 5px; background: #ffffff;">
+								<div class="rwname">
+									Karolyn Papaspyridis
+								</div>
+								<div class="rwdate">
+									18th May 2013
+								</div>
+								<div style="clear: both;"></div>
+								<div class="rwcomp">
+									Win a years supply of nappies
+								</div>
+							</div>
+						
+							<div class="recentWinner" style="border-bottom: 1px solid #00C0FF; padding: 5px; background: #ffffff;">
+								<div class="rwname">
+									Sue Abc
+								</div>
+								<div class="rwdate">
+									18th May 2013
+								</div>
+								<div style="clear: both;"></div>
+								<div class="rwcomp">
+									Win £300 of to spend in Superdrug
+								</div>
+							</div>
+						
+							<div class="recentWinner" style="border-bottom: 1px solid #00C0FF; padding: 5px; background: #ffffff;">
+								<div class="rwname">
+									Sue Abc
+								</div>
+								<div class="rwdate">
+									18th May 2013
+								</div>
+								<div style="clear: both;"></div>
+								<div class="rwcomp">
+									Win £300 of to spend in Superdrug
+								</div>
+							</div>
+										<p style="text-align: center; font-size: 11pt; background: #00C0FF; margin: 0px; padding: 5px 0px;"><a href="winners.php" style="color: #ffffff; font-size: 10pt; text-decoration: none;">See More Winners &gt;</a></p>
+			</div>
+			
 					<!--<div id="winnerholderv3">
 				<img src="/img/compwinnerimagev3.jpg" alt="CompetitionWinner" />
 				<a href="winners.php"><img src="/img/viewmorewinnnersv3.jpg" alt="CompetitionWinnerClick" style="margin-top: -4px;" /></a>
@@ -156,7 +420,7 @@
 				<a href="https://www.facebook.com/activeyou.co.uk" target="_blank"><img src="/img/fbimagev3.jpg" alt="Like Us on Facebook" style="margin-top: 5px;"></a>
 			</div>
 			<div id="winnerholderv3">
-				<img src="/img/collectstars.png" alt="Collect 4 Stars" style="margin-top: 5px;">
+				<img src="/img/collecttokens.jpg" alt="Collect 4 Stars" style="margin-top: 5px;">
 			</div>
 			<!--<div id="winnerholder">
 				<a href="http://www.facebook.com/ActiveYou.co.uk?fref=ts" target="_blank" style="margin: 20px 0px 15px 20px;" ><img src="/img/AY_facebook_image.jpg" alt="Facebook" style="margin-top: 10px;"/></a>
@@ -166,7 +430,7 @@
 		
 		<div role="main" class="main">
 			<div id="main_heading">
-				<p>Enter our FREE competitions online for your chance to win! It's quick &amp; simple</p>
+				<!--<p>Enter our FREE competitions online for your chance to win! It's quick &amp; simple</p>-->
 			</div>
 			<div id="main_content">
 				<h1>Privacy Policy - last updated on November 30th, 2012</h1>
@@ -238,20 +502,23 @@
 					
 					<div class="privacyheading" id="sponsors">SPONSORS</div>
 					<div class="privacycontent" id="sponsorscontent">
-						<p>Below is a list of our data sponsors as of 09.10.12.</p>
-						<br>Marketing Craze<br>Talk Talk
-						<p></p>
+						<p>Below is a list of our data sponsors as of 02.04.2013</p>
+						<br>Cheapflights, part of Momondo Group Limited.
+						<br><br>
+						Mighty Deals
+						<br>
 						<br>
 						<p>For more information please contact us at <a href="mailto:hello@digitalbox.com">hello@digitalbox.com</a></p>
 					</div>
 					
 					<div class="privacyheading" id="sponsorstc">SPONSORS TERMS &amp; CONDITIONS</div>
 					<div class="privacycontent" id="sponsorstccontent">
-						<p>Marketing Craze - Lotto By Text:</p>
-						<br>
-						<p>To enter the offer reply YES to the text message to get your 5 FREE lines PLUS WIN £300 in our Monthly Sweepstake when you stay with us for 4 consecutive weeks. Your mobile number is entry proof.</p>
-						<br>
-						<p>Trial - keep the same 5 Free Lines for every Wed, Fri &amp; Sat draws &amp; play for just £4.50 per week for the Lotto results. To end the subscription at anytime text STOP to 87770 or call 0207 081 0976.</p>
+						<p>n/a</p>
+						<!--<p>Marketing Craze - Lotto By Text:</p>
+						<br />
+						<p>To enter the offer reply YES to the text message to get your 5 FREE lines PLUS WIN &pound;300 in our Monthly Sweepstake when you stay with us for 4 consecutive weeks. Your mobile number is entry proof.</p>
+						<br />
+						<p>Trial - keep the same 5 Free Lines for every Wed, Fri &amp; Sat draws &amp; play for just &pound;4.50 per week for the Lotto results. To end the subscription at anytime text STOP to 87770 or call 0207 081 0976.</p>-->
 					</div>
 					
 					<div class="privacyheading" id="howtocontactus">HOW TO CONTACT US</div>
@@ -280,13 +547,16 @@
 				<p><a href="http://new.activeyou.co.uk/privacy.php">PRIVACY POLICY</a></p>
 				<p><a href="http://new.activeyou.co.uk/terms.php">COMPETITION TERMS</a></p>
 				<p><a href="http://new.activeyou.co.uk/anti-spam.php">ANTI SPAM POLICY</a></p>
-				<p><a href="contact.php">CONTACT US</a></p>
+				<p><a href="http://new.activeyou.co.uk/unsubscribe.php">UNSUBSCRIBE</a></p>
+				<p><a href="http://new.activeyou.co.uk/advertise.php">ADVERTISE</a></p>
+				<p><a href="http://new.activeyou.co.uk/contact.php">CONTACT US</a></p>
 			</div>
 			<div id="homepage_footer_right">
-				<a href="http://www.dma.org.uk/"><img src="/img/dmalogo.jpg" alt="dma" style="margin-top: 10px;"></a>
+				<a href="http://www.dma.org.uk/"><img src="/img/dmalogo.png" alt="dma" style="margin-top: 10px;"></a>
 				<a href="http://www.ico.gov.uk/"><img src="/img/icologo.png" alt="dma"></a>
-				<a href="http://www.iabuk.net/"><img src="/img/iablogo.jpg" alt="dma"></a>
-				<img src="/img/antispamlogo.jpg" alt="dma">
+				<a href="http://www.iabuk.net/"><img src="/img/iablogo.png" alt="dma"></a>
+				<a href="http://www.reviewcentre.com/Competition-Websites/ActiveYou-www-activeyou-co-uk-reviews_1904939" target="_blank"><img src="/img/reviewcentrelogo.jpg" alt="ReviewCenter"></a>
+								<!--<img src="/img/antispamlogo.jpg" alt="dma" />-->
 			</div>
 			<div style="clear:both;"></div>
 		</div>
