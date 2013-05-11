@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028201302id_/http%3A//www.multcolib.org/about/pol-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511191431id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
 
-# Library Policies: Privacy and Confidentiality of Library Records - Multnomah County Library
+# Statement on privacy and confidentiality of library records | Multnomah County Library
 
-[About the library](https://web.archive.org/about/index.html) > [Policies](https://web.archive.org/about/i-policies.html) > Privacy & confidentiality 
+Last revised 08.29.2012
 
-Last revised 9.12.07
-
-### I. Introduction
+## I. Introduction
 
 Multnomah County Library protects the privacy and confidentiality of all library users, no matter their age.
 
-_Oregon Revised Statute_ 192.502 (22) exempts from disclosure under open records law: The records of a library, including: (a) Circulation records, showing use of specific library material by a named person; (b) The name of a library patron together with the address or telephone number of the patron; and (c) The electronic mail address of a patron. Multnomah County Library's privacy and confidentiality policies are in compliance with applicable federal, state, and local laws.
+Oregon Revised Statute 192.502 (22) exempts from disclosure under open records law: The records of a library, including: (a) Circulation records, showing use of specific library material by a named person; (b) The name of a library patron together with the address or telephone number of the patron; and (c) The electronic mail address of a patron. Multnomah County Library's privacy and confidentiality policies are in compliance with applicable federal, state, and local laws.
 
 Our commitment to your privacy and confidentiality has deep roots not only in the law but also in the ethics and practices of librarianship. In accordance with the American Library Association's Code of Ethics: "We protect each library user's right to privacy and confidentiality with respect to information sought or received and resources consulted, borrowed, acquired, or transmitted."
 
 This privacy statement explains your privacy and confidentiality rights and responsibilities, the steps Multnomah County Library takes to respect and protect your privacy when you use library resources, and how we deal with personally identifiable information we collect from our users.
+
+Multnomah County Library has entered into an agreement with BiblioCommons to provide an online service that will make it easier to track your holds and renewals and find the titles you are looking for. In addition, you may also choose to use this service to share ratings and commentary about the titles you find at Multnomah County Library, and to connect with other BiblioCommons users. When you use the pages in Multnomah County Library's catalog that say "Powered by BiblioCommons" in the lower left-hand corner of the screen, you are using what is referred to here as the "BiblioCommons Service" and these [BiblioCommons Terms of Use](http://multcolib.bibliocommons.com/info/terms) apply. Your use of the BiblioCommons Service is subject to the BiblioCommons Terms of Use, and indicates that you accept these Terms of Use, which includes the [BiblioCommons Privacy Statement](http://multcolib.bibliocommons.com/info/privacy); together they are the only documents that govern your relationship with BiblioCommons. You may not use the BiblioCommons Service if you do not accept the Terms of Use; please read them carefully.
 
 ## II. Privacy and Confidentiality Practices
 
@@ -24,15 +24,32 @@ We post publicly the library's privacy and information-gathering practices. When
 
 We avoid creating unnecessary records, we avoid retaining records not needed for library business purposes, and we do not engage in practices that might place information on public view.
 
-Information we may gather and retain about current library users includes the following:
+**Information the Library may gather and retain about current library users includes the following:**
 
-  * Information required to register for a library card or use the John Wilson special collections (e.g. name, address, telephone number, e-mail address, birthdate.)
-  * Records of material checked out, charges owed, payments made 
-  * Electronic access information 
+  * Information required to register for a library card or use the John Wilson special collections (e.g. name,  address, telephone number, email address, birthdate.)
+  * Records of material checked out, charges owed, payments made
+  * Electronic access information
   * Requests for interlibrary loan or reference service
   * Sign-up information for library classes, programs, Sterling Room for Writers
+  * Information about topics a person searches for that does not contain any personal information about the person searching.
 
 
+
+**If you choose to participate in the BiblioCommons community by creating a My MCL account, BiblioCommons may gather:**
+
+  * Personal information
+  * Borrowing information
+  * Shared content
+  * Feedback and suggestions
+  * Non-identifying information
+
+
+  * Personal information when you knowingly provide it, including when you register for the site, provide feedback, or request information
+  * Non-personally identifiable information, such as your Internet Protocol address, browser type, browser language, the date and time of your request, and the web page you have visited immediately prior to visiting the site
+
+
+
+Please refer to the [AddThis Terms of Service](http://www.addthis.com/tos) and [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy).
 
 ### Choice and Consent
 
@@ -68,7 +85,7 @@ Items placed on hold for library users are shelved by the user's last name for p
 
 ### Third Party Security
 
-We ensure that the library's contracts, licenses, and offsite computer service arrangements reflect our policies and legal obligations concerning user privacy and confidentiality. Our agreements address appropriate restrictions on the use, aggregation, dissemination, and sale of that information, particularly information about minors. 
+We ensure that the library's contracts, licenses, and offsite computer service arrangements reflect our policies and legal obligations concerning user privacy and confidentiality. Our agreements address appropriate restrictions on the use, aggregation, dissemination, and sale of that information, particularly information about minors.
 
 When connecting to licensed databases outside the library, we release only information that authenticates users as registered Multnomah County Library borrowers. Nevertheless, users must be aware, when accessing remote sites, that there are limits to the privacy protection the library can provide.
 
@@ -92,8 +109,8 @@ If you have a question, concern, or complaint about our handling of your privacy
 
 The Director of Libraries is custodian of library records and is the only party authorized to receive or comply with public records requests or inquiries from law enforcement officers. The Director may delegate this authority to designated members of the library's management team. The Director confers with the County Attorney before determining the proper response to any request for records. We will not make library records available to any agency of state, federal, or local government unless a subpoena, warrant, court order or other investigatory document is issued by a court of competent jurisdiction, showing good cause and in proper form. We have trained all library staff and volunteers to refer any law enforcement inquiries to the Office of the Director of Libraries.
 
+For questions and concerns regarding your privacy when using BiblioCommons, contact the BiblioCommons Privacy Officer at [privacy@bibliocommons.com](mailto:privacy@bibliocommons.com). [More information can be found here](http://multcolib.bibliocommons.com/info/privacy).
+
 ### Illegal Activity Prohibited and Not Protected
 
-Users may conduct only legal activity while using library resources and services. Nothing in this statement prevents the library from exercising its right to enforce its Rules of Behavior, protect its facilities, network and equipment from harm, or prevent the use of library facilities and equipment for illegal purposes. The library can electronically monitor public computers and external access to its network and reserves the right to do so when a violation of law or library policy is suspected. Staff is authorized to take immediate action to protect the security of library users, staff, facilities, computers and the network. This includes contacting law enforcement authorities and providing information that may identify the individual(s) perpetrating a violation. 
-
-top of page
+Users may conduct only legal activity while using library resources and services. Nothing in this statement prevents the library from exercising its right to enforce its Rules of Behavior, protect its facilities, network and equipment from harm, or prevent the use of library facilities and equipment for illegal purposes. The library can electronically monitor public computers and external access to its network and reserves the right to do so when a violation of law or library policy is suspected. Staff is authorized to take immediate action to protect the security of library users, staff, facilities, computers and the network. This includes contacting law enforcement authorities and providing information that may identify the individual(s) perpetrating a violation.
