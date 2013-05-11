@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111072940id_/http%3A//www.thesba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511215007id_/http%3A//www.thesba.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Newtek Services ::..
+# PRIVACY POLICY | Newtek Business Services ::..
 
 **Dear The Small Business Authority Customer,**
 
 We know that your privacy is important to you. At The Small Business Authority, we are committed to protecting it.
 
- **Protecting your privacy is a priority to us.** The Small Business Authority does not share nonpublic information about you with third-party marketers outside Newtek family of companies — those related to us by some form of common control or ownership — without your consent, except as explained in our Privacy Policy. We do share customer information within Newtek family.
+**Protecting your privacy is a priority to us.** The Small Business Authority does not share nonpublic information about you with third-party marketers outside Newtek family of companies — those related to us by some form of common control or ownership — without your consent, except as explained in our Privacy Policy. We do share customer information within Newtek family.
 
- **The security of your information is a priority to us.** We maintain physical, electronic, and procedural safeguards that comply fully with current federal law and standards to protect customer information. In addition, in those states where applicable laws are more restrictive than our Privacy Policy, we will restrict our sharing of your information to comply with those state laws.
+**The security of your information is a priority to us.** We maintain physical, electronic, and procedural safeguards that comply fully with current federal law and standards to protect customer information. In addition, in those states where applicable laws are more restrictive than our Privacy Policy, we will restrict our sharing of your information to comply with those state laws.
 
- **And, we want to make sure you know how we protect your privacy.** If you have questions about our Privacy Policy, please [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/).
+**And, we want to make sure you know how we protect your privacy.** If you have questions about our Privacy Policy, please [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/).
 
 Thank you for doing business with The Small Business Authority.
 
- **Privacy Policy**
+**Privacy Policy**
 
 Newtek Business Services, Inc. (“Newtek”) is a publicly traded financial and business services company offering electronic merchant processing, insurance services, bookkeeping and tax services, and small business lending, as well as data back-up and storage and customized websites for organizations. The Small Business Authority provides compelling marketing tools that help clients attract new customers and retain existing customers. An essential element of our commitment to our customers is to conduct all of our business with integrity and respect. The Small Business Authority will adhere to the highest standards for use of any information that you may provide to us.
 
@@ -22,7 +22,7 @@ This Privacy Policy has been created to inform our customers and all visitors to
 
 [Back to top](https://web.archive.org/privacy-policy#top)
 
- **How We Gather Information**
+**How We Gather Information**
 
 As part of providing you with The Small Business Authority products or services, we may obtain information about you from the following sources:
 
@@ -33,7 +33,7 @@ As part of providing you with The Small Business Authority products or services,
 
 
 
- **The Information We Collect**
+**The Information We Collect**
 
 The types of personal information collected are:
 
@@ -50,17 +50,17 @@ The types of personal information collected are:
 
 When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor’s browser.
 
- **Use of Cookies**
+**Use of Cookies**
 
 If registration is required to use resources contained within a particular website, we will gather information from you, prior to allowing access to those resources. This information includes, but is not limited to, your name, postal address as well as e-mail address. The information obtained from the original registration is used to provide better services and products to meet the needs of our clients. Each visit to any Newtek, including The Small Business Authority, website enables us to collect the following information: your Internet service provider’s address, a record of your activity on our site, and the web page that was used to reach our site. This information is not used to identify you personally. Many Newtek websites also include the use of “Cookies.” A cookie is a piece of data stored on your computer hard drive containing information about you. The use of cookies is now an industry standard that users will find on most major websites. Cookies can save information such as home server, domain, e-mail address, name, mailing address, and telephone number. When a user revisits the site, Newtek, or The Small Business Authority, recognizes the user by the cookie and customizes the user’s web experience. Usage of a cookie is in no way linked to any additional personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by receiving a cookie from our website site, a user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners may use cookies on their sites, however we have no access to or control over those cookies.
 
 [Back to top](https://web.archive.org/privacy-policy#top)
 
- **Log Files**
+**Log Files**
 
 We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
- **Sharing Information Outside the Newtek Family of Companies**
+**Sharing Information Outside the Newtek Family of Companies**
 
 Unless you authorize us to do so, Newtek and the Newtek companies do not provide non-public information about you to anyone to market their products and services except as provided for in this policy under sections titled “Sharing Information within the Newtek Family” and “Sharing Information with Newtek Alliance Members.”
 
@@ -76,7 +76,7 @@ If you are a consumer and not a business client, we will not share your non-publ
 
 In addition, we may provide all the information we gather about you to our service providers and third parties referring you to us. These may include statement, billing, and telephone service companies, companies that help us perform marketing services as well as attorneys, insurers and third parties referring you to us.
 
- **Sharing Information within the Newtek Family**
+**Sharing Information within the Newtek Family**
 
 We also may share information about you within our family of companies serving small businesses. These companies include Newtek Small Business Finance, Newtek Merchant Solutions, Newtek Financial Information Systems, Newtek Tax Services, Newtek Insurance Agency, Newtek Data Storage, Newtek Web Hosting and other members of the Newtek family.
 
@@ -84,7 +84,7 @@ Since The Small Business Authority’s primary customer base is small businesses
 
 [Back to top](https://web.archive.org/privacy-policy#top)
 
- **Sharing Information with our Alliance Partners**
+**Sharing Information with our Alliance Partners**
 
 The Small Business Authority has many alliances with third party organizations and businesses to assist them in serving the financial needs of their small business clients. As an example, The Small Business Authority has an alliance agreement with a major credit union association to assist its 9,000 credit unions in bringing business services to their members.
 
@@ -92,41 +92,41 @@ When you are referred to us by one of these alliances, either directly or throug
 
 We do not share with our alliance partners personal consumer credit related information that is not public information but do share demographic information so that they may analyze the impact they are having on the small business community.
 
- **How You Can Access or Correct Your Information**
+**How You Can Access or Correct Your Information**
 
 If you would like to verify and/or edit or update the personal information we have on file for you, please [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/) providing details on the information you would like to review and/or edit or update and contact information so that we can talk with you and get the information to you for review.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before providing such information or making requested corrections.
 
- **Security Practices**
+**Security Practices**
 
 We have implemented and maintain reasonable physical, electronic and procedural safeguards to protect your non-public personal information. Your personal information is never shared outside the company without your permission, except under conditions explained above. Your personally-identifiable data is stored in our password-controlled servers with limited access.
 
- **Our Commitment to Children’s Privacy**
+**Our Commitment to Children’s Privacy**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we know are under 13, and no part of our website is structured to attract anyone under 13.
 
- **Links and Linked Internet Websites:**
+**Links and Linked Internet Websites:**
 
 Websites of the Newtek family of companies may provide links to sites that are separate from ours. These external sites may have their own privacy provisions in place that are different from those provisions listed in this document. Newtek and its affiliates are not responsible for the collection, use or disclosure of information collected on these external sites and we expressly disclaim any and all liability related to any collection, disclosure or use of such information. In addition, we encourage visitors to seek out and read the privacy policies of any and all sites they visit on the internet.
 
 [Back to top](https://web.archive.org/privacy-policy#top)
 
- **Consent**
+**Consent**
 
 By registering your personal details, you consent to the use of your information as set out in this Privacy Policy and agree to be bound by the terms of this Privacy Policy.
 
- **Notice to Insurance Consumer – Customers**
+**Notice to Insurance Consumer – Customers**
 
 If you are a consumer instead of a business and you are interested in the insurance products our agency can provide, we may in addition to the information described above collect either medical information about you or information about your creditworthiness. This additional information will only be used for the purpose of underwriting or administering your insurance. We do not share such medical or creditworthiness information with third parties. If we wish to share this information with any of the Newtek family of companies we will not do so without your express written consent.
 
 If you are a resident of **California** or **Vermont** , there are additional requirements regarding the sharing of certain of your information. We will provide you with notices required under California or Vermont law and will if so required obtain your consent to the sharing of your information. For example, in California we may not share any information about you with third parties without your prior consent. In addition, if other states in the future adopt privacy restrictions more restrictive than those under Federal law we will comply with those applicable provisions.
 
- **Other information**
+**Other information**
 
 We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive.
 
- **How To Contact Us**
+**How To Contact Us**
 
 Should you have other questions or concerns about our Privacy Policy, please contact us as follows:
 
@@ -137,6 +137,6 @@ Should you have other questions or concerns about our Privacy Policy, please con
 
 You may also contact us for a copy of any policy or to answer any questions you may have about these policies.
 
- **Enforcement and Dispute Resolution**
+**Enforcement and Dispute Resolution**
 
 Should you perceive that Newtek or its affiliates are failing to follow the above guidelines, you have several courses of action. First and foremost would be to please contact The Small Business Authority at the above mentioned toll-free phone number or via the email address provided.
