@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the kogan.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108140234id_/http%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511150648id_/http%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Kogan Privacy Policy - Kogan Australia
 
-  * [ **LivePrice™** Prepay & save ](https://web.archive.org/au/shop/?collection=live-price)
-  * [ **Sale** Hot Stock! ](https://web.archive.org/au/shop/?collection=on-sale)
+  * [ **Hot Deals** Amazing Prices! ](https://web.archive.org/au/shop/collection/hot-deals/?view=grid)
 
 
 
@@ -72,6 +71,14 @@ The Kogan website may use "cookies" to help personalise your online experience a
 
 Kogan reserves the right to modify this Privacy Policy in whole or in part from time to time without notice and amendments will be effective immediately upon posting of the amended Privacy Policy on the Kogan website.
 
-We're having some problems reaching our server, so some of the features on this page might not be working properly.
+Kogan is on Google+
 
-This problem has been reported and we hope to have it fixed soon.
+[ ](https://plus.google.com/101585797969029846696?prsrc=3)
+
+Safe & easy online payment
+
+ 
+
+###### 100% Australian Owned
+
+Best prices on technology, world wide.
