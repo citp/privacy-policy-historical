@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yotreat.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230115018id_/http%3A//www.yotreat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotreat.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511111706id_/http%3A//www.yotreat.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Yotreat: Privacy Policy
+# Privacy Policy| Yotreat
 
 ## Yotreat.com Privacy Policy
 
