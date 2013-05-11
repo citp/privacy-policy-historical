@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talksport.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914071036id_/http%3A//www.talksport.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511202843id_/http%3A//www.talksport.com/en/privacy) for the most accurate reproduction.*
 
 # Free live commentary and all information, real time updates and changes in the Barclays Premier League and all table, fixture and result information -on talkSPORT.com Register now with talkSPORT by connecting with your preferred social network. Once registered you may be interested in reviewing the the guidelines on the privacy of talkSPORT accounts.
 
