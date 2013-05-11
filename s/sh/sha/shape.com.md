@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117033317id_/http%3A//www.shape.com/newsletters/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511062547id_/http%3A//www.shape.com/newsletters/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shape Magazine
 
@@ -6,7 +6,7 @@ PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective November, 2010.
 
 If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at [privacy@amilink.com](mailto:privacy@amilink.com).
 
- _(Effective November, 2010)_
+_(Effective November, 2010)_
 
 Welcome to [www.shape.com](http://www.shape.com/),  Internet news and media websites offered by connection with American Media, Inc., Weider Publications LLC, and Radar Online LLC  (collectively, the "Website", "we", "us" or "our"). The singular term "Website" includes all websites listed above and web pages within the Website as well as any equivalent, mirror, replacement, substitute or backup websites and web pages that are associated with the Website.
 
@@ -19,7 +19,7 @@ This Privacy Policy, together with the [Terms of Use](https://web.archive.org/su
 We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
 
   
-**A. INFORMATION WE COLLECT**
+ **A. INFORMATION WE COLLECT**
 
 Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you that we automatically collect when you visit our Website or that you provide us.
 
