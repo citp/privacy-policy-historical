@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecmint.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109204621id_/http%3A//www.tecmint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecmint.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023549id_/http%3A//www.tecmint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
