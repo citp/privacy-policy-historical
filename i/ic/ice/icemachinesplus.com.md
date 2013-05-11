@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icemachinesplus.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155250id_/http%3A//www.icemachinesplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icemachinesplus.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511170204id_/http%3A//www.icemachinesplus.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at Ice Machines Plus
 
 ## Privacy Policy
 
