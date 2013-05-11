@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030081028id_/http%3A//www.kcra.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511234853id_/http%3A//www.kcra.com/connect/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
