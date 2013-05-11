@@ -1,108 +1,145 @@
-> *The following text is extracted and transformed from the ticketsnow.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111145832id_/http%3A//www.ticketsnow.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsnow.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511194227id_/http%3A//www.ticketsnow.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-TICKETSNOW.COM PRIVACY POLICY    REVISED 7/29/2010
+**Live Nation Entertainment Privacy Policy - Your Privacy Rights     Last Updated: March 5, 2013**
 
-Welcome to TicketsNow! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.ticketsnow.com and our services, and to any information provided to us. By using our Web site, you are accepting the practices we describe here.
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](http://www.ticketmaster.ca/h/privacy.html).
 
-INFORMATION THIS SITE GATHERS/TRACKS  
-We use your IP address and browser type to help diagnose problems with our server and to administer our Web site. This means that a user's session will be tracked, but the user will remain anonymous. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. This means that although your IP address may be associated during your session, it is not permanently associated with any of your personal information.
+**We collect information from and about you.**
 
-INFORMATION SHARING AND DISCLOSURE
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-Personally Identifiable Information (PII):  
-**In General.** We may collect personally identifiable information (PII) that can identify you such as your name and email address and other information that does not identify you.
+**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
 
-**Information you provide.** We may collect and store any personal information you enter on our Web site or provide to us in some other manner. This includes identifying information, such as your name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information).
+**Information you post.** For example, we collect information you post in a public space on our website or on a third-party social media site.
 
-**Information from other sources.** We may also periodically obtain both personal and non-personal information about you from our business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
+**Demographic information.** We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.
 
-**How we use the information we collect**
+**Other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location or your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
 
-In general. We may use information that we collect about you to:  
-•deliver the products and services that you have requested;  
-• manage your account and provide you with customer support;  
-• perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others; or  
-• communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or from other third parties.
+**We collect information in different ways.**
 
-**With whom we share your information**
+**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our Web site or while using our services.
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click here.
 
-**Personal information.** We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-• Authorized service providers. We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our Web site functionality, and supporting contests, sweepstakes, surveys and other features offered through our Web site. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+**We use information as disclosed and described here.**
 
-• Affiliated companies. We may share information we collect, including personal information, with Ticketmaster-owned or affiliated businesses. For a complete list of all Ticketmaster businesses, visit [www.ticketmaster.com/h/about_us.html](http://www.ticketmaster.com/h/about_us.html). Sharing information with our affiliates enables us to provide you with information about a variety of products and services that might interest you. All Ticketmaster companies comply with applicable privacy and security laws, and, at a minimum, in any commercial email they send to you, will give you the opportunity to choose not to receive such email messages in the future.
+**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. If you give us your friend's information, we will only use it to provide services you requested.
 
-• Event providers. When you buy tickets through our Web site, you consent to our providing your personal information to the event providers involved in the event and their contractors. Sharing this information with event providers allows them to contact you using the email address or other contact information you provided.
+**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
 
-**Other Situations.** We also may disclose your information:
+**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-• In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
-• When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Web site terms and conditions or other agreements or policies.
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the choices section below.
 
-**Aggregated and non-personal information.** Aggregated and non-personal information. Aggregated and non-personal information, which helps us optimize the usability of our site, is collected via Service Provider cookie or log files.We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to assist us in analyzing the aggregate information about the visitors on our site and to assist us to develop and deliver targeted advertising on our Web site and on Web sites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Web site and the most popular features or services accessed. This information does not contain any personal information and may be used to develop Web site content and services that we hope you and other users will find of interest and to target content and advertising.. To learn more about the use of this information or choose not to have this information used by our third-party advertising partner by opting out please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
+**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
 
-COOKIES  
-We use cookies to keep track of your shopping cart, customize your future shopping, and to assist your needs. Upon your request, we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site.
+**We use information as otherwise permitted by law.**
 
-LINKS  
-This site contains links to other sites. TicketsNow.com is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site.
+**We may share information with third parties.**
 
-ORDER FORM  
-This Web site uses an order form for customers to request information, products, and services. We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, fulfilling orders, delivering packages, sending email and postal mail, and analyzing data for the purposes of data scrubbing and marketing assistance. They have access to personal information needed to perform their functions but may not use it for other purposes.
+**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
 
-CONTESTS/PROMOTIONS  
-Occasionally, we host contests and promotions. In these contests or promotions, online or otherwise, we may ask visitors for contact information. We use this contact data to send users information regarding the specific contest or promotion. This personal information is also used to contact the customer when necessary.
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-BULLETIN BOARDS/CHAT ROOMS  
-TicketsNow is not responsible for any content you choose to submit in these forums. Any content, including personally identifiable information, you submit there could be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.
 
-CHILDREN'S PRIVACY  
-Our Web site is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
-SECURITY  
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow [this link](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.TICKETSNOW.COM&lang=en).
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**We may share your information for reasons not described in this policy.** We will tell you before we do this.
 
-If you have any questions about security on our Web site, you can email us at [legal@ticketmaster.com](mailto:legal@ticketmaster.com).
+**You have certain choices about how we use your information.**
 
-REGISTRATION  
-You can browse our site without entering any personal information and, therefore, remain anonymous during your visit. However, we hope that all of our visitors will register with us so that we can learn more about our valuable customers. Our site's optional registration form requires users to give us contact information (such as their name and email address). We use customer contact information from the registration form to send the user relevant newsletters and special offers. This information is also used to contact the customer if necessary. If you would rather not receive newsletters and/or special offers, please indicate your preference by marking the appropriate boxes in the Membership Account Maintenance section of our site. Users may opt-out of receiving any communications from our company at any time. Please review our Opt-Out Policy below.
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click [here](https://www.ticketsnow.com/myTicketsNow/Home.aspx) or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-REFERRALS  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him/her to visit the site. TicketsNow stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. He/she may contact us [here](https://web.archive.org/myTicketsNow/EmailNewsLetterSignup.aspx) to request that we remove this information from our database.
+**You can modify information you have given us.** To modify or delete information you gave us, click on [My TicketsNow](https://www.ticketsnow.com/myTicketsNow/Home.aspx), as applicable, and follow the instructions to modify your profile. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
 
-OPT-OUT POLICY  
-If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or by contacting us [here](https://web.archive.org/myTicketsNow/EmailNewsLetterSignup.aspx). We also offer an opportunity to opt-out of certain communications in our member information area or you may contact us at the contact information listed at the bottom of this policy. You are not able to opt-out of emails related to a specific order (confirmation emails).
+**You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click here.
 
-ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION  
-If your personally identifiable information changes, you may correct or update it by making the change(s) in our [member information area](https://web.archive.org/web/20111111145832id_/http%3A//www.ticketsnow.com/myTicketsNow/Home.aspx), by emailing Customer Care at [Manager@TicketsNow.com](mailto:Manager@TicketsNow.com), or by contacting us by telephone or postal mail at the contact information listed below.
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
 
-YOUR CALIFORNIA PRIVACY RIGHTS  
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+**Your California Privacy Rights.**
 
-• the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-• the names and addresses of the third parties that received that information; and
+To exercise your rights, you can [email us](mailto:privacy@livenation.com) or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
 
-• if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.  
-We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [legal@TicketsNow.com](mailto:legal@ticketmaster.com). 
+**These sites and apps are not intended for children.**
 
-CHANGES TO THIS PRIVACY POLICY  
-We will occasionally update this privacy policy to reflect changes in our practices and services. When we post changes to this privacy policy, we ill revise the "last updated" date at the top of this privacy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address) and/or by prominently posting notice of the changes on our Web site. We recommend that you check our Web site from time to time to inform yourself of any changes in this privacy policy or any of our other policies.
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-CONTACT US  
-If you have any questions about this privacy policy or the security practices of this site, please contact:
+Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy).
 
-Customer Care  
-TicketsNow  
-Toll free: (800) 927-2770  
-Español: (800) 927-2795  
-Local: (815) 444-9800  
-Email: [sales@TicketsNow.com](mailto:sales@TicketsNow.com)  
-EFFECTIVE DATE: 7/29/2010
+**We use standard security measures.**
+
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+**We are TRUSTe certified.**
+
+TRUSTe has awarded TicketsNow the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on TicketsNow sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements). The seal applies to our practices for information collected on U.S., UK, Ireland sites and apps.
+
+We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
+
+**We store information both in and outside of the United States.**
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
+
+Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit <http://www.export.gov/safeharbor>.
+
+**We may link to third party sites or services we don't control.**
+
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+
+**Feel free to contact us if you have more questions.**
+
+If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@livenation.com](mailto:privacy@livenation.com). Please do not include your credit card number or other sensitive information in your email. You can also write us at:
+
+Live Nation Entertainment, Inc.  
+9348 Civic Center Drive  
+Beverly Hills, CA 90210  
+Attention: Privacy Officer, Legal
+
+If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+
+**What we will do if there is an update to this policy.**
+
+From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+**Ad Choices**
+
+**We use common tracking technologies.**
+
+We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:
+
+  * To recognize new or past customers.
+  * To store your password if you are registered on our sites.
+  * To improve our website.
+  * To serve you with advertising content in which we think you will be interested. To do so, we may observe your behaviors on this website and other websites. We may also collect information about your browsing history.
+  * To better understand the interests of our customers and our website visitors.
+
+
+
+**You can control tracking tools.**
+
+Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
+
+If you block cookies on your browser, certain features on our sites may not work.
+
+**Some ads may be served based on tracking.**
+
+We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites. This second type of advertising is called "online behavioral advertising."
+
+**You can opt-out of online behavioral advertising.**
+
+To opt out of having your online behavioral advertising, click [here](http://www.aboutads.info/choices).
+
+  
+
