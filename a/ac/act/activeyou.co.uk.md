@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227203619id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511185445id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Active You - Play.Win.Save
 
