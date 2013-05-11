@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215161312id_/http%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511092739id_/http%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
 
-# Pluginboutique VST Plugins, Synth Presets and Virtual Instruments, Effects and Studio Tools Online
+# VST Plugins, Synth Presets, Effects, Virtual Instruments, Music Plugins from Pluginboutique
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
