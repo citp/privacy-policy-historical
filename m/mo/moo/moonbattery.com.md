@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127171123id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511081245id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Moonbattery Privacy Statement
+
+  
+
 
 Moonbattery collects the name, IP address, and email address (if provided; email addresses are not displayed) of readers who leave comments. When commenters leave a URL, their names will be hyperlinked to it when the comment is displayed, and the URL will be stored.
 
