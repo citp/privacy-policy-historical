@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181109id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511213025id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - BLICK art materials
 
