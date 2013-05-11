@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104205837id_/http%3A//www.originpc.com/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511072117id_/http%3A//www.originpc.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ORIGIN PC Build Your Custom Gaming PC, Custom Gaming Laptop, or Workstation | Customize Your Power
+# Privacy Policy | ORIGIN PC
 
-ORIGIN PC knows that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
+ORIGIN PC knows that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below.
 
-**1\. What Personal Information Do We Collect?**
+### 1\. What Personal Information Do We Collect?
 
   * **Information You Provide.** We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.
   * **Cookies.** Like many websites, we use "cookies". Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the "help" button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
@@ -13,7 +13,7 @@ ORIGIN PC knows that you care how your information is used, and we appreciate yo
 
 
 
-**2\. How Do We Use Your Information?**
+### 2\. How Do We Use Your Information? 
 
   * **Customized Shopping.** We use your information to better serve you by providing a customized shopping experience. As noted above, you may visit and shop anonymously without logging in.
   * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
@@ -22,7 +22,7 @@ ORIGIN PC knows that you care how your information is used, and we appreciate yo
 
 
 
-**3\. How Do We Protect the Security of Your Information?**
+### 3\. How Do We Protect the Security of Your Information? 
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We use encryption to protect your information contained in our customer list. 
@@ -34,19 +34,19 @@ ORIGIN PC knows that you care how your information is used, and we appreciate yo
 
 
 
-**4\. Your Choice: Opt-in or Opt-out.**
+### 4\. Your Choice: Opt-in or Opt-out. 
 
 It is your choice whether to receive emails or special offers from us.
 
-**5\. Children**
+### 5\. Children 
 
 We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
 
-**6\. Other Websites**
+### 6\. Other Websites 
 
 Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
 
-**7\. Contact Us**
+### 7\. Contact Us 
 
 If you would like to learn more about our privacy policy, you may contact us at [info@originpc.com](mailto:info@originpc.com).
 
