@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512013312id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511180539id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
 
 # Domainmonster Privacy Policy
 
@@ -79,5 +79,5 @@ Please note that We will continue to have the right to change Our privacy policy
 
 If You have any questions or concerns about this privacy policy, the practices of the Site, or Your dealings with the Site, You can contact Us at [legal@meshdigital.com](mailto:legal@meshdigital.com "legal@meshdigital.com") or You can also send Us post to: Privacy Officer, Legal Department, Mesh Digital Ltd, The Old Forge, Shackstead Lane, Godalming, Surrey, GU7 1RJ United Kingdom.
 
-*exc. ICANN fee of 20 cents per domain name year & based on maximum bulk discounts. **based on maximum bulk discounts. †subject to registry imposed fees.  
+*exc. ICANN fee of 18 cents per domain name year & based on maximum bulk discounts. **based on maximum bulk discounts. †subject to registry imposed fees.  
 Telephone orders charged small premium. Please refer to [domains price list](http://www.domainmonster.com/domains/). 
