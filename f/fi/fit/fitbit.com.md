@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitbit.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231538id_/http%3A//www.fitbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitbit.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511162837id_/http%3A//www.fitbit.com/privacy) for the most accurate reproduction.*
 
 # Fitbit Privacy Policy
 
@@ -28,7 +28,7 @@ Fitbit uses your personal information to:
   * Deliver to you any administrative notices and communications relevant to your use of the Fitbit Products and Service;
   * Provide you with updates regarding Fitbit Products and Services;
   * Perform internal market research, project planning, troubleshooting problems, and to detect and protect against error, fraud or other criminal activity;
-  * Enforce the Fitbit Terms of Use; and
+  * Enforce the Fitbit Terms of Use.
 
 
 
