@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108143226id_/http%3A//www.lawsociety.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511170843id_/http%3A//www.lawsociety.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement - The Law Society
 
@@ -27,7 +27,7 @@ We use up-to-date industry procedures to keep personal data as safe and secure a
 
 The Act gives you the right to access details that we hold about you. Your right of access can be exercised in accordance with the Act. A small fee may be payable in respect of any access request. 
 
-For more information please refer to our Data Protection Policy. 
+For more information please refer to our [Data Protection Policy](https://web.archive.org/get-in-touch/data-protection/ "Data Protection Policy"). 
 
 ## Information we may collect from you 
 
@@ -49,13 +49,12 @@ We may also collect and process information provided by you at the time of posti
 We may use information held about you in the following ways: 
 
   * to ensure that content from the Website is presented in the most effective manner for you and for your computer
-  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes
   * to allow you to participate in interactive features of our service, when you choose to do so, and 
   * to notify you about changes to our service.
 
 
 
-We may also use your data for the purposes of advertising, marketing and public relations, so as to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone. 
+We may also use your data for the purposes of advertising, marketing and public relations, so as to provide you with information about goods and services which may be of interest to you.
 
 If you do not want us to use your data in this way, please email [webteam@lawsociety.org.uk](mailto:webteam@lawsociety.org.uk)
 
