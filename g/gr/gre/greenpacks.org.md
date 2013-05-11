@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the greenpacks.org privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110030234id_/http%3A//www.greenpacks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpacks.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511171539id_/http%3A//www.greenpacks.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GreenPacks
+# Privacy Policy - GreenPacks.org - GreenPacks
+
+## [Privacy Policy](http://www.greenpacks.org/privacy-policy/)
 
 At www.greenpacks.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.greenpacks.org and how it is used.
 
