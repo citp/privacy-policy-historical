@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029052954id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binpress.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511142701id_/http%3A//www.binpress.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Binpress
 
-_Last revised on August 11, 2010_
+_Last revised on Jan 1st, 2013_
 
-We at Lionite Ltd value your privacy and understand that some users may not wish for their personal information to be spread across the world, and therefore have set up this Privacy Policy. We also have opened a dedicated account for complaints relating to privacy, which is [privacy@binpress.com](mailto:privacy@binpress.com) where you can contact us and ask more questions.
+We at Binpress Inc. value your privacy and understand that some users may not wish for their personal information to be spread across the world, and therefore have set up this Privacy Policy. We also have opened a dedicated account for complaints relating to privacy, which is [privacy@binpress.com](mailto:privacy@binpress.com) where you can contact us and ask more questions.
 
 In general, please note the following:
 
@@ -61,7 +61,7 @@ You can correct or change any errors in the information we retain either by cont
 
 We use industry standards for securing our servers and apply best efforts to maintain them safe. Moreover, and use only SSL when submitting sensitive information to our site, meaning that no one could copy the information you submit to the server. We also do not retain credit card information, but use them only for clearing. We require our employees and contractors to undergo privacy instructions and security checks and we do not store your passwords but only an irreversible hash. Please note that while we take best efforts to secure your information, due to the nature of the internet we cannot guarantee that the information will be 100% secure, accurate and we provide no warranty to the secrecy of your information.
 
-## Can Lionite contact me with promotional offers?
+## Can Binpress contact me with promotional offers?
 
 While we are intolerant of Spam, we will send you, from time to time, news regarding our website and upcoming projects, as well as updates on Software you purchased if you allow us to do so. You may opt-out of this service at any time by clicking here.
 
