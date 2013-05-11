@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softaculous.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223040347id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softaculous.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511233409id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  |  | [](http://www.softaculous.com/) |  [Products](http://www.softaculous.com/products) |  [Buy](http://www.softaculous.com/buy) |  [Downloads](http://www.softaculous.com/downloads) |  [Support](http://www.softaculous.com/support) |  [Forums](http://www.softaculous.com/board) |  [Contact](http://www.softaculous.com/contact) |  [Company](http://www.softaculous.com/company) |  [Blog](http://www.softaculous.com/news)  
----|---|---|---|---|---|---|---|---  
+  |  | [](http://www.softaculous.com/) |  [Products](http://www.softaculous.com/products) |  [Client Area](http://www.softaculous.com/clients) |  [Buy](http://www.softaculous.com/buy) |  [Downloads](http://www.softaculous.com/downloads) |  [Support](http://www.softaculous.com/support) |  [Forums](http://www.softaculous.com/board) |  [Contact](http://www.softaculous.com/contact) |  [Company](http://www.softaculous.com/company) |  [Blog](http://www.softaculous.com/blog) |  [News](http://www.softaculous.com/news)  
+---|---|---|---|---|---|---|---|---|---|---  
   
 
 
@@ -45,7 +45,7 @@ Tools
 
 Information
 
-[About Us](http://www.softaculous.com/about) [Information to Buy](http://www.softaculous.com/buyinginfo) [NOC Plans](http://www.softaculous.com/NOCs) [Scripts in Free Version](http://www.softaculous.com/scripts_in_free) [Terms of Use](http://www.softaculous.com/license) [Privacy Policy](http://www.softaculous.com/privacy) [Refund Policy](http://www.softaculous.com/pricing#refund) [Our Team](http://www.softaculous.com/team.php) | 
+[About Us](http://www.softaculous.com/about) [Information to Buy](http://www.softaculous.com/buyinginfo) [NOC Plans](http://www.softaculous.com/NOCs) [Scripts in Free Version](http://www.softaculous.com/scripts_in_free) [Auto Upgrade apps](http://www.softaculous.com/softaculous/auto_upgrade) [Apps Requirements](http://www.softaculous.com/softaculous/php_requirements) [Terms of Use](http://www.softaculous.com/license) [Privacy Policy](http://www.softaculous.com/privacy) [Refund Policy](http://www.softaculous.com/pricing#refund) [Our Team](http://www.softaculous.com/team.php) | 
 
 Get in touch
 
@@ -53,7 +53,7 @@ Get in touch
 
 Blogs
 
-[Softaculous News](http://www.softaculous.com/board/?fid=1) [Scripts News](http://www.softaculous.com/news) [AMPPS Blog](http://www.ampps.com/blog) [Webuzo Blog](http://www.webuzo.com/blog) [Virtualizor Blog](http://www.virtualizor.com/blog) [Virtualizor News](http://www.virtualizor.com/forums/index.php?board=1.0)  
+[Softaculous News](http://www.softaculous.com/board/?fid=1) [Scripts News](http://www.softaculous.com/news) [Softaculous Blog](http://www.softaculous.com/blog) [AMPPS Blog](http://www.ampps.com/blog) [Webuzo Blog](http://www.webuzo.com/blog) [Virtualizor Blog](http://www.virtualizor.com/blog) [Virtualizor News](http://www.virtualizor.com/forums/index.php?board=1.0)  
 ---|---|---|---|---|---  
-© 2012 [Softaculous Ltd.](http://www.softaculous.com/)    All trademarks and logos are the property of their respective owners!   
+© 2013 [Softaculous Ltd.](http://www.softaculous.com/)    All trademarks and logos are the property of their respective owners!   
  
