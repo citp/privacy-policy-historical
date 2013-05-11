@@ -1,47 +1,86 @@
-> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430045906id_/http%3A//www.villarenters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511110748id_/http%3A//www.villarenters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement
 
-**Statement of Intent**
+**Effective from: 24th May 2012**
 
-Rentalsystems.com Ltd (“we”, “us” or “our”) is committed to supplying you with the best possible information and also to protecting your privacy. In order for us to do this we will occasionally require you to supply us with some personal information and this privacy policy explains how we handle this information.
+ **This privacy policy applies only to this website (the “Site”).  
+If you do not accept this privacy policy, you must not use the Site.**
 
-**Collection of Information**
+## Collection of Personal Information
 
-There are three types of information Rentalsystems.com Ltd collects:  
-**  
-1) Cookies:** these are small text files that are saved to your computer (if you allow them) that will note your route around the website. They may also hold some personalisation details (for example your saved searches or short-listed properties). This information is solely for the purpose of keeping the website relevant to your needs. To ensure your privacy there is no link between these cookies and any other collected information, in fact you can disable cookies on your browser and visit our site completely anonymously (however you won't be able to access any personalisation features on the site).
+We collect personal information from you (such as name, address, telephone number, email address etc) when you fill in registration forms, submit comments to the Site, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. 
 
-**2) Site Visit Statistics:** Visitor statistics are automatically logged by our web server. This information may include your IP address, where you have come from, your operating system, your browser make and version and your service provider. This information is used solely to build up a picture of how our website is being used by the visitors.  
-**  
-3) Contact Details:** Email addresses and other contact information are collected in order to supply you with services that you have requested, such as your holiday accommodation and newsletter subscriptions
+## Collection of Other Information
 
-**Use of Personal Information and 3rd Parties**
+### Use of Cookies
 
-Any personal information you supply to Rentalsystems.com Ltd will only be used by Rentalsystems.com Ltd and we will never share user information to any third party without your permission unless we are required by law to do so.
+In addition to personal information you provide, we may also collect information about you automatically when you visit the Site or access content in our electronic communications with you.
 
-If you have subscribed to our e-mail service or have made a booking for, or an enquiry about, the services we offer, we may send you information and targeted promotional e-mails about the services and special deals that you request from us, or which we feel may interest you, where you have consented to be contacted for such purposes. 
+The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site or within electronic communications. A cookie is a small text file that is placed on your computer’s hard drive by your browser. Cookies allow us to identify your computer and find out details about your visit and browsing habits so that we can offer you a more personalised experience and manage, monitor and improve services.
 
-You have the right to opt out of receiving further communications from us at any time by choosing to unsubscribe and following the instructions.
+Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site.
 
-**Third Parties:** We will use the contact details you have provided us to correspond with you in relation to your booking or enquiry.  We will also need to pass your details to the third parties who need to know them so that your chosen accommodation can be provided or your enquiry can be dealt with.  The owner of the accommodation you have booked with or enquired about may contact you direct using the details you have given us. Your details may be passed to third parties in countries outside of the European Economic Area if necessary in order to arrange for your booking to be provided or enquiry answered.  These countries may not provide the same level of protection for your personal data as in the UK.  By submitting your booking or your enquiry to us, you agree to your personal details being processed in this way.
+The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 
-**Storage of Personal Information**
+Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
 
-We will securely store your personal information for as long as it is required to supply you with the information you have requested. 
+For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site [click here](https://web.archive.org/privacy-policy/cookie-vr.aspx).
 
-**Access to Personal Information**
+You can learn more about cookies and how to reject cookies using different types of browser by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/). Separate tools are also available for managing local shared objects or ‘Flash cookies’ from the [Adobe](http://www.adobe.com/) website. These cookies may be used to manage the effective delivery of services using video or other flash related content.
 
-You have the right to access your information at any time and alter or remove it if required. You are generally entitled to ask us (by letter or e-mail) what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed.  We will charge a fee to respond to such a request.  We promise to respond to your request within 40 days of receiving your written request and fee.  In certain limited circumstances we are entitled to refuse your request.
+### Use of Your Information
 
-You can request that your information be removed from our system by contacting [thesupportdesk@rentalsystems.com](mailto:thesupportdesk@rentalsystems.com) at anytime
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):
 
-**Liability**
+  * personalising your visits to the Site to improve the services provided to you;
+  * informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting;
+  * customer service and support;
+  * communicating (and personalising such communication) with you;
+  * enabling you to share our content with others e.g. using an ‘Email a friend’ or ‘Share this’ functionality;
+  * conducting market research; and/or
+  * carrying out technical and statistical analysis to measure the performance of our services and the Site.
 
-Rentalsystems.com Ltd has used reasonable care and skill in compiling the content of the Rentalsystems.com Ltd sites.  Part of the information on the Rentalsystems.com Ltd sites is received from 3rd parties.  Rentalsystems.com Ltd specifically does not warrant the accuracy or completeness of any information contained in the Rentalsystems.com Ltd sites.
 
-This privacy statement covers websites owned and controlled by us only.  Links to other websites and any information collected by these sites are not covered by this privacy statement. As our privacy statement may change due to developments in the law we would encourage you to reread our privacy policy from time to time so that you are aware of any changes in how we gather and use personal information.
 
-**Changes to this Policy**
+### Sharing Your Information
 
-We reserve the right to make changes to this privacy policy from time to time.  Any changes will be notified on this Website. The privacy policy will always be easily accessible online through the website.
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
+
+We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group.
+
+Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group. 
+
+Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
+
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information.
+
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+
+### Keeping Your Personal Information Secure
+
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England.
+
+### Accessing Your Personal Information
+
+If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address:  
+
+
+Villarenters.com  
+Rentalsystems.com Ltd  
+2 Derry Street  
+Kensington  
+London  
+W8 5TT
+
++44 (0)203 6150030
+
+We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
+
+### Unsubscribing from emails
+
+If you wish to unsubscribe from emails from Villarenters, please click on the unsubscribe link in your email or email [info@villarenters.com](mailto:info@villarenters.com) with ‘unsubscribe’ in the subject line. 
+
+## Changes to this Privacy Policy
+
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.
