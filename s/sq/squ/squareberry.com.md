@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squareberry.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021141920id_/http%3A//squareberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squareberry.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511213457id_/http%3A//squareberry.com/privacy-policy) for the most accurate reproduction.*
 
 # Mobile and Social Marketing Platform | Privacy Policy
 
