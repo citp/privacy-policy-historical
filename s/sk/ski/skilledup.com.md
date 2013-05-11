@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skilledup.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017040504id_/http%3A//www.skilledup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilledup.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511151204id_/http%3A//www.skilledup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SkilledUp.com
 
@@ -68,16 +68,12 @@ By using our site, you consent to our website’s privacy policy (this page)
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 8/1/2012
+This policy was last modified on 11/1/2012
 
 ## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 SkilledUp LLC
-
-134 West 29th Street, #906
-
-New York, NY 10001
 
 legal@skilledup.com
