@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531011613id_/http%3A//www.2gb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D26%26Itemid%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511201914id_/http%3A//www.2gb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sydney Talkback Radio 2GB 873AM - 2GB.com - News, Talk, Sport, Entertainment
+# Privacy Policy | 2GB
 
 Macquarie Media Network Pty Limited (MMN) owns and operates 2gb.com
 
@@ -10,13 +10,15 @@ MMN respects the privacy of its users, advertisers and other people we do busine
 
 MMN needs to collect personal information in order to conduct its business.
 
-Website users
+**Website users**
 
 MMN collects personal information from users through our 2gb.com website (for example, if a user registers as a user of 2gb.com, or enters a competition, or provides feedback online).
 
-Our policy is only to use personal information collected from the users of MMN’s website for the business purpose for which it was collected, and for any other purpose for which the user provides its consent.
+Our policy is only to use personal information collected from the users of MMN's website for the business purpose for which it was collected, and for any other purpose for which the user provides its consent.
 
-Advertisers
+If you provide feedback using our feedback form, your feedback along with identification of your name and suburb, may be broadcast by 2GB as part of its programming.
+
+**Advertisers**
 
 If you or your company purchases advertising from MMN or a related company of MMN, we will collect your business contact details. We need this personal information in order to provide you or your company with our services, and to provide you with information about our services and future promotions. Unless you tell us otherwise, we will use personal information about you to market our services to you or your company.
 
@@ -44,7 +46,7 @@ We will assume (unless you tell us otherwise) that your request relates to our c
 
 We may change this Privacy Policy at any time. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our websites.
 
-For further information about privacy issues, see the Australian Federal Privacy Commissioner's website at http://www.privacy.gov.au
+For further information about privacy issues, see the Australian Federal Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/)
 
 If you feel that MMN is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Chief Operating Officer (using the following contact details):
 
@@ -52,6 +54,6 @@ Telephone on 02 8570 0111
 
 Facsimile on 02 8570 0222
 
-Email Us
+[Email Us](http://www.2gb.com/contact)
 
 Mail to Level 1, Building C, 33-35 Saunders St, PYRMONT, NSW, 2099
