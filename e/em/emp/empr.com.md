@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empr.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109072632id_/http%3A//www.empr.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empr.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511201254id_/http%3A//www.empr.com/privacypolicy) for the most accurate reproduction.*
 
 # MPR: Concise prescription and OTC drug information, side effects and interactions for medical professionals - MPR
 
