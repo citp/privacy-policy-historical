@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107115622id_/http%3A//www.digimarc.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511052519id_/http%3A//www.digimarc.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “Site”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-Copyright ©2012 Digimarc Corporation  
+Copyright ©2013 Digimarc Corporation  
 PRIVACY POLICY LAST UPDATED: April 16, 2012
 
 ## Personal Information
@@ -154,6 +154,3 @@ USA
 ATTN: Privacy Officer
 
 Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
-
-  
-
