@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commission-crusher.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125111946id_/http%3A//www.commission-crusher.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commission-crusher.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511020747id_/http%3A//commissioncrusher.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,9 +33,7 @@ You may also turn off cookies through your web browser.  However, this may affe
 
 You may contact us for questions or concerns about our privacy practices by writing to us at:   
 Privacy Officer  
-BPM 322220, Rue Gabriel Lippmann 34  
-Munsbach, 5365  
-Luxembourg
+Rue Gabriel Lippmann 34 BPM 322220 | Munsbach, na 5365, Luxembourg
 
   
 
