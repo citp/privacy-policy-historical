@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208054311id_/http%3A//wordpress.live.subhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023258id_/http%3A//www.subhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | subhub.com
+
+Transform your operations with SubHub’s membership management solution. SubHub can apply its membership expertise to help your organization:
+
+  * Reduce costs
+  * Gain efficiency
+  * Eliminate confusion
+  * Increase member retention
+  * Generate revenue from members and non-members
+
+
+
+SubHub understands what your organization needs to make the most of its membership data, while making it simple for staff to manage.
 
 **END USER PRIVACY AND COOKIE POLICY**
 
