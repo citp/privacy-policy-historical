@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the gotomeeting.co.uk privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004084224id_/http%3A//www.citrixonline.com/collaboration/privacy_policy_overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomeeting.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511101604id_/http%3A//www.citrixonline.com/collaboration/privacy_policy_overview) for the most accurate reproduction.*
 
 # Privacy Policy Overview | Citrix Online
-
-[ ](https://privacy.truste.com/privacy-seal/Citrix-Systems,-Inc-/validation?rid=1d5a0c5d-4797-4e1e-8972-9635479fc6dc&width=770&height=380 "TRUSTe European Safe Harbor certification")
-
-## Privacy – Updated
-
-**Our privacy policy has been updated effective 09/07/2012.** This update allows us to share information among the companies within the Citrix enterprise. This update makes your customer experience more seamless and efficient. All of the Citrix companies value your privacy and we stand by our commitment to keeping your personal information safe. If you have questions about this change, please contact us at [privacy@citrixonline.com](mailto:privacy@citrixonline.com).
 
 Last Updated on 09/07/2012
 
@@ -49,7 +43,7 @@ This Privacy Policy Overview provides a short summary of our complete [Citrix On
 
   * In order to conduct business it is necessary that we share some of your information with third parties, such as for credit card processing.
   * Third parties must process your personal information in accordance with our privacy policy.
-  * We may need to disclosure your information as required by law to protect our rights or comply with judicial proceedings.
+  * We may need to disclose your information as required by law to protect our rights or comply with judicial proceedings.
   * To learn more about Citrix Online’s information sharing practices, please read our complete [Citrix Online Privacy Policy](https://web.archive.org/collaboration/privacy_policy?locale=en_US).
 
 
