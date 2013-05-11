@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817134427id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511185344id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
 
@@ -74,4 +74,10 @@ If you have any questions about the Math.com Privacy Policy, the practices of th
 
 * **Third Party Cookies**
   
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser or use web beacons to collect information. You can manage your cookies preferences through the relevant mechanisms in your web browser (see the preferences or options menus). Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  |    | 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser or use web beacons to collect information. You can manage your cookies preferences through the relevant mechanisms in your web browser (see the preferences or options menus). Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+* **Third Party Advertising and Content**
+  
+Third parties (including us and other advertisers) may serve content and advertisements, collect information directly from users, and place or recognize cookies in connection with this site. These third parties may also collect device-specific information (such as your hardware model, operating system version, unique device identifiers and mobile network information, including phone number). Google may associate your device identifiers or phone number with your Google Account. When you use a location-enabled service, third parties may collect and process information about your actual location, such as GPS signals sent by a mobile device. They may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and mobile towers. 
+* **Behavioral Advertising and Content**
+  
+Third parties (including us and other advertisers) may serve content and advertisements, collect information directly from users, and place or recognize cookies in connection with this site for behavioral advertising. To opt out, visit [the NAI opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).  |    | 
