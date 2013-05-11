@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fragrancex.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203132842id_/http%3A//www.fragrancex.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancex.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511050123id_/http%3A//www.fragrancex.com/customerservice/privacy.html) for the most accurate reproduction.*
 
 # FragranceX.com - Security and Privacy
 
-Security and Privacy
-
-Security and Privacy Guaranteed 100%
+## Security and Privacy Guaranteed 100%
 
 We are committed to your privacy and security. When you shop at fragranceX.com your security and privacy is 100% guaranteed. Your personal information is used to process your order, and fragranceX.com Inc. will not share or exchange online information that you provide us with a third party unless you provide prior consent. 
 
@@ -12,8 +10,6 @@ All transactions are 100% safe and secure. Order details are encrypted with Secu
 
 If you have any questions regarding our privacy policy and practices, please contact us. 
 
-Information for persons residing outside the USA
+## Information for persons residing outside the USA
 
 Transfer of Personal Information outside the EEA. We process Personal Information in the United States of America and in other countries. In some cases, we process Personal Information on a server outside your own country. We use the highest encryption standards and best practices to protect your Personal Information. When you place an order with FragranceX.com, you consent to us transferring and hosting/storing your Personal information outside the EEA. 
-
-Shop with confidence, we offer a 30 day money back guarantee. 
