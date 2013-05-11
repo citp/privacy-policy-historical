@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the setf.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029073838id_/https%3A//www.setf.com/home/privacypolicy/privacypolicy/sb.cn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setf.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511065715id_/http%3A//www.setf.com/home/privacypolicy/privacypolicy/sb.cn) for the most accurate reproduction.*
 
 # Southeast Toyota Finance - Privacy Policy
 
+
 | 
+
+  * [Home](https://web.archive.org/)
+  *  > [Privacy Policy](https://web.archive.org/home/privacypolicy/privacypolicy/sb.cn)
+
+
 
   
 
@@ -90,11 +96,7 @@ What happens when I limit sharing for an account I hold jointly with someone els
 Definitions  
 ---  
 Affiliates  
-| Companies related by common ownership or control. They can be financial and nonfinancial companies. 
-
-  * _World Omni/Southeast Toyota Finance does not share with our affiliates._
-
-  
+| Companies related by common ownership or control. They can be financial and nonfinancial companies.  
 Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
   * _Nonaffiliates we share with can include motor vehicle dealers in Alabama, Florida, Georgia, North Carolina and South Carolina._
