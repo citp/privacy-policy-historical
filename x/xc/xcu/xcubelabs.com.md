@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014035758id_/http%3A//www.xcubelabs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512011722id_/http%3A//www.xcubelabs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # [x]cube LABS - Mobile Application Development Company - Privacy Statement
 
