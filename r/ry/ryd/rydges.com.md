@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102130350id_/http%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511033908id_/http%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rydges Hotels & Resorts
+# Privacy Policy | Rydges Hotels & Resorts - AHL
 
   
 
@@ -43,6 +43,10 @@ Once we receive personal information from you, we take all reasonable steps to e
 We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at [privacy@ahl.com.au](mailto:privacy@ahl.com.au) or by mail addressed to: Privacy, AHL, 49 Market Street, Sydney NSW 2000.
 
 You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If AHL does not allow you to access your personal information we will provide you with the reasons for our decision.
+
+**Use of Cookies:**
+
+****We collect cookie information when you visit our websites. Cookies are pieces of information that a website can transfer to an individual’s computer hard drive for record keeping. The use of cookies is an industry standard and many websites use them. Cookies are useful for facilitating a user’s access to and use of a site. They allow us to track usage patterns and compile data that can help us improve our services to you. Cookie information is used in aggregated form – we do not use it to identify you as an individual. However, if you do not wish any information to be collected through the use of cookies you can change the functions in most web browsers to deny the cookie feature. You can also delete cookies from your hard drive at any time.
 
 **AHL operated brands include:**
 
