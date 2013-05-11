@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterdownload.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205094109id_/http%3A//www.afterdownload.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterdownload.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511054849id_/http%3A//www.afterdownload.com/pages/privacy) for the most accurate reproduction.*
 
 # AfterDownload - Monetize your After Download pages, Maximize your site revenue potential!
 
