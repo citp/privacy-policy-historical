@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221094115id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511021411id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic #1 Rated Traffic Exchange For Signups To Your Pages!
 
@@ -13,23 +13,23 @@
 
 Member Earnings  
 Since 03-22-04  
-**$115,116.24**  
+**$128,817.94**  
 
 
 **_Live Site Stats_**
 
 **Total Members:  
-136676**
+146994**
 
 **New  
 Members Last  
 7 Days:  
-681**
+424**
 
 **New  
 Members Last  
 30 Days:  
-3426**
+2015**
 
   
 
