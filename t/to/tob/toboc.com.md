@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toboc.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820051205id_/http%3A//toboc.com/Pprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toboc.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511165306id_/http%3A//www.toboc.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Toboc Privacy Policy | B2B Directory Services |International Trade
+# Privacy Policy,B2B Directory Services,International B2B Trade
 
   *   
 TOBOC.COM, a business-to-business platform of exchange of information between international service and/or product suppliers, is committed to protecting the integrity and privacy of your personally identifiable information ("PII"), whether such information may be tracked to you, as an individual, or to your company’s identity, transactions, products and/or services. _________________________________________________________________________________________________________________________________________
