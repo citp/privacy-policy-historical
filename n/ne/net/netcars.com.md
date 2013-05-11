@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcars.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022135838id_/http%3A//www.netcars.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcars.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512014502id_/http%3A//www.netcars.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Netcars.com
 
@@ -6,7 +6,7 @@ This Privacy Policy explains how we use the information we collect about you, ho
 
 ## Who we are
 
-For the purpose of the Data Protection Act 1998 ("Act"), the data controller is JLR Digital Limited trading as Netcars (Company Number 06961248) ("Netcars").
+For the purpose of the Data Protection Act 1998 ("Act"), the data controller is Redwood Cars Limited trading as Netcars (Company Number 08370931) ("Netcars").
 
 ## The information we collect
 
