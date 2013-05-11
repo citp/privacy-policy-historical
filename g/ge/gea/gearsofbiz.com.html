@@ -1,0 +1,261 @@
+<!--The following is the downloaded HTML source of the gearsofbiz.com privacy policy that was archived on 2013-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130512003400id_/http%3A//gearsofbiz.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy | Gears of Biz</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://gearsofbiz.com/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="Gears of Biz » Feed" href="http://gearsofbiz.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Gears of Biz » Comments Feed" href="http://gearsofbiz.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Gears of Biz » Privacy Policy Comments Feed" href="http://gearsofbiz.com/privacy-policy/feed/">
+<link rel="stylesheet" id="debut-style-css" href="http://gearsofbiz.com/wp-content/themes/debut/style.css?ver=3.4.1" type="text/css" media="all">
+<script type="text/javascript" src="http://gearsofbiz.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://gearsofbiz.com/wp-content/themes/debut/js/debut.js?ver=3.4.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gearsofbiz.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gearsofbiz.com/wp-includes/wlwmanifest.xml"> 
+<link rel="next" title="Disclaimer" href="http://gearsofbiz.com/disclaimer/">
+<meta name="generator" content="WordPress 3.4.1">
+<link rel="canonical" href="http://gearsofbiz.com/privacy-policy/">
+<link rel="stylesheet" href="http://gearsofbiz.com/wp-content/plugins/digg-digg/include/../css/diggdigg-style.css?ver=5.2.9" type="text/css" media="screen">
+<!-- platinum seo pack 1.3.7 -->
+<meta name="robots" content="index,follow,noodp,noydir">
+<meta name="description" content="Your PrivacyYour privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices">
+<link rel="canonical" href="http://gearsofbiz.com/privacy-policy/">
+<!-- /platinum one seo pack -->
+<script type="text/javascript" src="http://gearsofbiz.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+		<script type="text/javascript">
+			function quick_contact_send() { //Send Message Ajax Call
+				//Deactivate submit button 
+				var submit_button = document.getElementById('quick_contact_submit');
+				submit_button.disabled = true;
+				//Get Input Fields (Clear them if they are the autofill message)
+				var name = document.getElementById('quick_contact_name').value;
+				if(name == "Please enter your name...")
+					name = "";
+				var email = document.getElementById('quick_contact_email').value;
+				if(email == "So that we can reply to you...")
+					email = "";
+				var phone = document.getElementById('quick_contact_phone').value;
+				if(phone == "So that we can reply to you...")
+					phone = "";
+				var message = document.getElementById('quick_contact_message').value;
+				if(message == "Questions? Comments? Enter them here (no HTML please)...")
+					message = "";
+				var captcha = document.getElementById('quick_contact_captcha_text').value;
+				if(captcha == "Type text at left...")
+					captcha = "";
+				//Ensure that there is at least a name and an email or phone
+				var error_default = "Please fill out the following before submitting:\n";
+				var error = error_default;
+				if(name == "" || name == null)
+					error += "  - Please enter your name.\n";
+				if((email == "" || email == null) && (phone == "" || phone == null)) 
+					if(error != "") error += "  - Please enter either a phone number or email for us to contact you.\n";
+				if(captcha == "" || captcha == null)
+					error += "  - Please enter the text from the image.\n";
+				if(error != error_default) {
+					submit_button.disabled = false;
+					alert(error);
+					return;
+				}
+				//If the message is empty ask the user to conferm that they ment to hit the submit button
+				if(message == "" && !confirm("Are you sure you want to send without entering a message?")) {
+					submit_button.disabled = false;
+					return;
+				}
+				//Display processing message
+				submit_message = document.getElementById('quick_contact_submit_message');
+				submit_message.className = "quick_contact_message";
+				submit_message.innerHTML = "Submitting Message, Please Wait...";
+				//Build SACK Call
+				var mysack = new sack("http://gearsofbiz.com/wp-content/plugins/quick-contact/quick-contact.php");
+				mysack.execute = 1;
+				mysack.method = 'POST';
+				mysack.setVar("quick_contact_name",name);
+				mysack.setVar("quick_contact_email",email);
+				mysack.setVar("quick_contact_phone",phone);
+				mysack.setVar("quick_contact_message",message);
+				mysack.setVar("quick_contact_captcha",captcha);
+				mysack.setVar("quick_contact_action","send_message");
+				mysack.onError = function() { alert('An ajax error occured while sending your message. Please reload the page and try again.') };
+				mysack.runAJAX();//excecute
+				return;
+			}
+			
+			function quick_contact_reset_form() { //Reset Form Javascript Call
+				document.getElementById('quick_contact_form').innerHTML = '<table width=\'100%\'  border=\'0\' cellspacing=\'0\' cellpadding=\'0\'><tr><th>Name:</th><td><input type=\'text\' id=\'quick_contact_name\' class=\'quick_contact_faded\' value=\'Please enter your name...\' maxlength=\'100\' onFocus=\'if(this.value == "Please enter your name..."){ this.value = ""; this.className = "quick_contact_focused"; }\'/></td></tr><tr><th>Email:</th><td><input type=\'text\' id=\'quick_contact_email\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'150\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Phone:</th><td><input type=\'text\' id=\'quick_contact_phone\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'100\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Message:</th><td><textarea id=\'quick_contact_message\' class=\'quick_contact_faded\' onFocus=\'if(this.value == "Questions? Comments? Enter them here (no HTML please)..."){ this.value = ""; this.className = "quick_contact_focused"; };\'>Questions? Comments? Enter them here (no HTML please)...</textarea></td></tr><tr><th><img id=\'quick_contact_captcha\' src=\'?quick_contact_action=get_captcha\' align=\'right\'/></th><td><input type=\'text\' id=\'quick_contact_captcha_text\' class=\'quick_contact_faded\' style=\'width:110px;\' value=\'Type text at left...\' maxlength=\'20\' onFocus=\'if(this.value == "Type text at left..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/> <small><a href=\'javascript:quick_contact_reset_captcha();\'>I can\'t read the text, please reset it.</a></small></td></tr><tr><th>&nbsp;</th><td style=\'padding-top:2px;\'><input type=\'submit\' id=\'quick_contact_submit\' value=\'Send\' onClick=\'quick_contact_send(); return false;\' style=\'width:50px;\'><input type=\'button\' id=\'quick_contact_cancel\' value=\'Cancel\' style=\'width:60px;\' onClick=\'quick_contact_reset_form();\'> <span style=\'font-size:0.7em;\'>Powered by <a href=\'http://quickcontact.squarecompass.com/\'>Quick Contact</a></span><br/><div id=\'quick_contact_submit_message\'>&nbsp;</div></td></tr><tr><th>&nbsp;</th><td></td></tr></table>';
+			}
+			
+			var quick_contact_reset_captcha_count = 0;
+			function quick_contact_reset_captcha() { //Reset Form Javascript Call
+				quick_contact_reset_captcha_count++;
+				document.getElementById('quick_contact_captcha').src = 'http://gearsofbiz.com/wp-content/plugins/quick-contact/quick-contact.php?quick_contact_action=get_captcha&count='+quick_contact_reset_captcha_count;
+			}
+		</script>
+		<!--[if lt IE 9]>
+	<script src="http://gearsofbiz.com/wp-content/themes/debut/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<!-- Debut customizer CSS -->
+	<style>
+		body {
+			border-color: ;
+		}
+		a, a:visited {
+			color: ;
+		}
+		.main-navigation a:hover,
+		.main-navigation a:focus,
+		.main-navigation a:active,
+		.main-navigation .current-menu-item > a,
+		.debut-lang:hover {
+			background-color: ;
+		}
+	</style>
+</head>
+
+<body class="page page-id-7 page-template-default">
+<div id="page" class="hfeed site">
+
+	<header id="masthead" class="site-header" role="banner">
+		
+				<nav role="navigation" class="site-navigation small-navigation">
+			<h1 class="assistive-text">Menu</h1>
+			<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+			<button class="menu-button">Menu</button>
+			<div class="menu"><ul><li><a href="http://gearsofbiz.com/" title="Home">Home</a></li><li class="page_item page-item-10"><a href="http://gearsofbiz.com/contact-us/">Contact Us</a></li><li class="page_item page-item-8"><a href="http://gearsofbiz.com/disclaimer/">Disclaimer</a></li><li class="page_item page-item-7 current_page_item"><a href="http://gearsofbiz.com/privacy-policy/">Privacy Policy</a></li></ul></div>
+		</nav>
+
+		
+		<hgroup>
+			<h1 class="site-title"><a href="http://gearsofbiz.com/" title="Gears of Biz" rel="home">Gears of Biz</a></h1>
+			<h2 class="site-description">Latest Gadget and Gizmo Trend and News</h2>
+		</hgroup>
+
+		
+				<div id="tertiary" class="widget-area" role="complementary">
+			
+				<aside id="search" class="widget widget_search">
+						<form method="get" class="searchform" action="http://gearsofbiz.com/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search …">
+		<input type="submit" class="submit searchsubmit" name="submit" value="Search">
+	</form>
+				</aside>
+
+					</div><!-- #tertiary .widget-area -->
+
+	</header><!-- #masthead .site-header -->
+	
+	<nav role="navigation" class="site-navigation main-navigation">
+		<h1 class="assistive-text">Menu</h1>
+		<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+		<div class="menu"><ul><li><a href="http://gearsofbiz.com/" title="Home">Home</a></li><li class="page_item page-item-10"><a href="http://gearsofbiz.com/contact-us/">Contact Us</a></li><li class="page_item page-item-8"><a href="http://gearsofbiz.com/disclaimer/">Disclaimer</a></li><li class="page_item page-item-7 current_page_item"><a href="http://gearsofbiz.com/privacy-policy/">Privacy Policy</a></li></ul></div>
+	</nav>
+
+	<div id="main">
+		<div id="primary" class="site-content">
+			<div id="content" role="main">
+
+				
+					
+<article id="post-7" class="post-7 page type-page status-publish hentry">
+	<header class="entry-header">
+				<h1 class="entry-title">Privacy Policy</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><strong>Your Privacy</strong><br>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+</p><p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.</p>
+<p>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
+<p>Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Windows 8 Free Download has no access or control over these cookies that may be used by third party advertisers.
+</p><p><strong>Collection of Personal Information</strong><br>When visiting Windows 8 Free Download, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.</p>
+<p><strong>Links to third party Websites</strong><br>We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. </p>
+<p><strong>Changes to this Privacy Statement</strong><br>The contents of this statement may be altered at any time, at our discretion. </p>
+					</div><!-- .entry-content -->
+</article><!-- #post-7 -->
+
+					
+
+	<div id="comments" class="comments-area">
+
+	
+	
+									
+</div><!-- #comments .comments-area -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary .site-content -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+								<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+				<li><a href="http://gearsofbiz.com/simcity-5-free-download-full-version-offline-for-pc-gears-of-biz/" title="SimCity 5 Free Download Full Version Offline For PC | Gears of Biz">SimCity 5 Free Download Full Version Offline For PC | Gears of Biz</a></li>
+				<li><a href="http://gearsofbiz.com/weekend-open-forum-whats-the-last-pc-game-you-preordered/" title="Weekend Open Forum: What’s the last PC game you preordered?">Weekend Open Forum: What’s the last PC game you preordered?</a></li>
+				<li><a href="http://gearsofbiz.com/watch-wrestlemania-29-2013-online-live-streaming-free-in-hd/" title="Watch Wrestlemania 29 (2013) Online Live Streaming Free in HD">Watch Wrestlemania 29 (2013) Online Live Streaming Free in HD</a></li>
+				<li><a href="http://gearsofbiz.com/ivy-bridge-driver-update-brings-10-performance-boost-opencl-1-2/" title="Ivy Bridge driver update brings 10% performance boost, OpenCL 1.2">Ivy Bridge driver update brings 10% performance boost, OpenCL 1.2</a></li>
+				<li><a href="http://gearsofbiz.com/lenovo-reportedly-in-talks-to-purchase-necs-mobile-phone-division/" title="Lenovo reportedly in talks to purchase NEC’s mobile phone division">Lenovo reportedly in talks to purchase NEC’s mobile phone division</a></li>
+				<li><a href="http://gearsofbiz.com/weekend-tech-reading-are-you-giving-up-your-privacy-too-easily/" title="Weekend tech reading: Are you giving up your privacy too easily?">Weekend tech reading: Are you giving up your privacy too easily?</a></li>
+				<li><a href="http://gearsofbiz.com/download-bioshock-infinite-full-version-free-for-pc-torrent/" title="Download Bioshock Infinite Full Version Free For PC (Torrent)">Download Bioshock Infinite Full Version Free For PC (Torrent)</a></li>
+				<li><a href="http://gearsofbiz.com/our-analysis-of-the-xbox-kinect-console/" title="Our Analysis Of The Xbox Kinect Console!">Our Analysis Of The Xbox Kinect Console!</a></li>
+				<li><a href="http://gearsofbiz.com/obtaining-probably-the-most-from-your-xbox-kinect-sensor/" title="Obtaining Probably The Most From Your Xbox Kinect Sensor">Obtaining Probably The Most From Your Xbox Kinect Sensor</a></li>
+				<li><a href="http://gearsofbiz.com/fallout-3-skilled-assessment/" title="Fallout 3 Skilled Assessment">Fallout 3 Skilled Assessment</a></li>
+				</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
+			<li><a href="http://gearsofbiz.com/2013/04/" title="April 2013">April 2013</a></li>
+	<li><a href="http://gearsofbiz.com/2013/03/" title="March 2013">March 2013</a></li>
+	<li><a href="http://gearsofbiz.com/2013/02/" title="February 2013">February 2013</a></li>
+	<li><a href="http://gearsofbiz.com/2013/01/" title="January 2013">January 2013</a></li>
+	<li><a href="http://gearsofbiz.com/2012/12/" title="December 2012">December 2012</a></li>
+		</ul>
+</aside><aside id="linkcat-2" class="widget widget_links"><h1 class="widget-title">Blogroll</h1>
+	<ul class="xoxo blogroll">
+<li><a href="http://thegamingsheep.com/simcity-5-2013-full-version-free-download-pc/" title="Simcity 2013 Full Version ">Simcity 2013 Full Version</a></li>
+<li><a href="http://www.sportsgameupdate.com/watch-wwe-wrestlemania-29-2013-live-streaming-online-hd/" title="Watch Wrestlemania 29 Online Free" target="_blank">Watch Wrestlemania 29 Online</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-142" class="widget widget_links"><h1 class="widget-title">Featured Content</h1>
+	<ul class="xoxo blogroll">
+<li><a href="http://gearsofbiz.com/watch-wrestlemania-29-2013-online-live-streaming-free-in-hd/" title="Wrestlemania 29 Live Online">Wrestlemania 29 Live Online</a></li>
+
+	</ul>
+</aside>
+<aside id="pages-2" class="widget widget_pages"><h1 class="widget-title">Pages</h1>		<ul>
+			<li class="page_item page-item-10"><a href="http://gearsofbiz.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-8"><a href="http://gearsofbiz.com/disclaimer/">Disclaimer</a></li>
+<li class="page_item page-item-7 current_page_item"><a href="http://gearsofbiz.com/privacy-policy/">Privacy Policy</a></li>
+		</ul>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="widget-area footer-left" role="complementary">
+					</div>
+		<div class="widget-area footer-center" role="complementary">
+					</div>
+		<div class="widget-area footer-right" role="complementary">
+							<p class="debut-credit">
+					Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a>. <a href="https://github.com/kwight/debut/" target="_blank">Debut</a> theme by kwight.				</p>
+					</div>
+	</footer><!-- #colophon .site-footer -->
+
+</div><!-- #page -->
+
+	<!-- Start of StatCounter Code -->
+	<script type="text/javascript">
+	<!-- 
+		var sc_project=8821155; 
+		var sc_security="26e49e96"; 
+	//-->
+	</script>
+	<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><a title="web analytics" href="http://statcounter.com/"><img class="statcounter" src="http://c.statcounter.com/8821155/0/26e49e96/0/" alt="web analytics" /></a></div></noscript>	
+	<!-- End of StatCounter Code -->
+
+
+</body></html>
