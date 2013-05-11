@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markswebcams.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109190618id_/http%3A//www.markswebcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markswebcams.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023559id_/http%3A//www.markswebcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # MarksWebCams - Privacy
 
