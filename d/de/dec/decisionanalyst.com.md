@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829120923id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511185142id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,14 +11,14 @@ We believe that consumers have an inalienable right to privacy. We protect your 
   * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eg_main_018236.asp) as developed by the U.S. Department of Commerce in consultation with the European Commission. 
   
 
-  * [Children's Online Privacy Protection Rule](http://www.coppa.org/coppa.htm) issued by the Federal Trade Commission (FTC). 
+  * [Children's Online Privacy Protection Rule](http://www.coppa.org/coppa.htm) issued by the Federal Trade Commission (FTC).
 
 
 
-We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
+We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us.
 
 **Who We Are**  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20120829120923id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20120829120923id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20130511185142id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20130511185142id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
 
 **Information We Collect From You**  
 We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and STATS™ 2.0 Statistical Software. Tell me more.
@@ -30,28 +30,28 @@ We use the information you provide us to measure our advertising efforts and for
 We don’t share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone. Tell me more.
 
 **Use Of Internet Technology (“Cookies” and Log Files)**  
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20120829120923id_/http%3A//www.decisionanalyst.com/index.dai) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20120829120923id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files.  Tell me more.
+We use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20130511185142id_/http%3A//www.decisionanalyst.com/index.dai) corporate site to track anonymous traffic data. Cookies are also used to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20130511185142id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files. Tell me more.
+
+**Third Party Vendors**  
+Decision Analyst uses third party vendors, including Google, Microsoft AdCenter, to show ads on other websites on the Internet.  Tell me more.
 
 **Links To Outside Sites**  
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
 
 **Questions And Concerns**  
-We welcome questions or concerns regarding our data-protection practices and our Privacy Policy. Tell me more.
+We welcome questions or concerns regarding our data-protection practices and our Privacy Policy. Tell me more.  
+
 
 * * *
 
 **Who We Are**
 
-The www.DecisionAnalyst.com website is owned and operated by [ Decision Analyst, Inc](http://www.decisionanalyst.com/)., a leading international marketing research and marketing consulting company in the United States, located in the Dallas-Fort Worth area. We subscribe to the privacy, confidentiality, and ethics policies of these professional marketing and marketing research organizations:
+The www.DecisionAnalyst.com website is owned and operated by [Decision Analyst, Inc](http://www.decisionanalyst.com/)., a leading international marketing research and marketing consulting company in the United States, located in the Dallas-Fort Worth area. We subscribe to the privacy, confidentiality, and ethics policies of these professional marketing and marketing research organizations:
 
   * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/codeofstandards.cfm)
-
   * [Council for Marketing and Opinion Research (CMOR)](http://www.cmor.org/)
-
   * [Marketing Research Association (MRA)](http://www.mra-net.org/)
-
   * [World Association of Research Professionals (ESOMAR)](http://www.esomar.org/)
-
 
 
 
@@ -59,7 +59,7 @@ Back to top
 
 **Information We Collect From You**
 
-The only information that we collect from you is the information you voluntarily give to us when you download marketing research data, white papers, and STATS™ 2.0 Statistical Software. 
+The only information that we collect from you is the information you voluntarily give to us when you download marketing research data, white papers, and STATS™ 2.0 Statistical Software.
 
   * We collect your name, company name, company phone number, company fax number, mailing address, and email address.
 
@@ -84,27 +84,33 @@ Back to top
 
 **We Do Not Share Your Information**
 
-We do not share your personal information with any third parties-no client, no business partner, or other organization. Decision Analyst does not sell or rent the information you give us . 
+We do not share your personal information with any third parties-no client, no business partner, or other organization. Decision Analyst does not sell or rent the information you give us.
 
 Back to top
 
 **Use Of Internet Technology (“Cookies” And Log Files)**
 
-  * “Cookies” are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies are used by thousands of websites to make your life as a web user much easier. Cookies are not used on our corporate website; however, there are occasions where we may use cookies for American Consumer Opinion® website. For example in the Affiliate Program, we may use cookies to track registrations back to any affiliate site that may have referred American Consumer Opinion® panel members, and we may use cookies to track other advertising efforts for American Consumer Opinion®. Some of this tracking is routed through the [ www.decisionanalyst.com](http://www.decisionanalyst.com/) website.
+  * “Cookies” are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies are used by thousands of websites to make your life as a web user much easier. Decision Analyst uses third party tracking cookies, from vendors such as Google, to track anonymous traffic data. The use of cookies is so we can track advertising results. Also, we may use use cookies for American Consumer Opinion® website. For example in the Affiliate Program, we may use cookies to track registrations back to any affiliate site that may have referred American Consumer Opinion® panel members, and we may use cookies to track other advertising efforts for American Consumer Opinion®. Some of this tracking is routed through the [ www.decisionanalyst.com](http://www.decisionanalyst.com/) website.
   * Like many website servers we gather information in our log files. Information gathered in log files includes Internet protocol (IP) address, browser type, Internet service provider (ISP), referring and exit pages, platform type, date and time stamp, and number of clicks while onsite.
   * Log-file information is not linked to any individually identifiable information and is used only to administer our systems, to make improvements to our website, and to determine the success of advertising campaigns.
 
 
 
+**Third Party Vendors**
+
+Decision Analyst uses third party vendors, including Google, Microsoft AdCenter, to show ads on other websites on the Internet. Some of these vendors, including Google use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s used of cookies by visiting the [Google Adverting Opt-Out Page](http://www.google.com/policies/privacy/ads/) or the [Network Advertising Initiative Opt-Out Page](http://www.networkadvertising.org/choices/).
+
+Back to top
+
 **Legal Disclaimer**
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law in the rare occurrence wherein we have a good-faith belief that such action is necessary to company with a current judicial proceeding, a court order, or a legal process served on us in connection with a website we own. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law in the rare occurrence wherein we have a good-faith belief that such action is necessary to company with a current judicial proceeding, a court order, or a legal process served on us in connection with a website we own.
 
 Back to top
 
 **Links To Outside Sites**
 
-The www.decisionanalyst.com website contains links to other websites. While these websites might be of interest to you, please note that their privacy policies may differ from ours. We encourage you to read the privacy statement of each site you visit. 
+The www.decisionanalyst.com website contains links to other websites. While these websites might be of interest to you, please note that their privacy policies may differ from ours. We encourage you to read the privacy statement of each site you visit.
 
 Back to top
 
@@ -122,7 +128,7 @@ For more information, questions or concerns regarding our data-protection practi
 >  International, 1-817-640-6166  
 >  Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?Subject=Question%20Regarding%20www.DecisionAnalyst.com%20Privacy%20Policy)
 
-For more information about Internet privacy and the privacy guidelines we follow: 
+For more information about Internet privacy and the privacy guidelines we follow:
 
   * [Safe Harbor Overview](http://www.export.gov/safeharbor/)
 
@@ -132,7 +138,7 @@ Back to top
 
 **Enforcement Of Privacy Policy**
 
-If you believe we have violated our stated Privacy Policy with respect to any personal information you have entrusted to us, you have options: 
+If you believe we have violated our stated Privacy Policy with respect to any personal information you have entrusted to us, you have options:
 
   * We urge you to contact our [Internet Systems Department](mailto:privacy@decisionanalyst.com?Subject=Question%20Regarding%20DAI%20Corporate%20Site%20Privacy%20Policy) so we may investigate your complaint.
   
