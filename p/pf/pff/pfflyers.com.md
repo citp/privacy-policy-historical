@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103193445id_/http%3A//www.pfflyers.com/CustomerCare/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023617id_/http%3A//www.pfflyers.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Last Updated: December 19, 2011
 
-Thank you for placing your trust in PF Flyers. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. The Privacy Policy applies to "www.pfflyers.com" (the "Service") operated by NB Web Express, LLC and its affiliates ("PF Flyers", "we", "us", or "our"), whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time.
+Thank you for placing your trust in PF Flyers. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. The Privacy Policy applies to "www.pfflyers.com" (the "Service") operated by New Balance Athletic Shoe, Inc.a and its affiliates ("PF Flyers", "we", "us", or "our"), whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time.
 
 ## What information does PF Flyers collect about me?
 
@@ -98,4 +98,4 @@ Accounts may be created during the ordering process. You can login to or manage 
 
 ## What if I have more questions about the PF Flyers Privacy Policy?
 
-If you have any questions or concerns including a request to be added to or taken off a list, please contact us at Customer Care Center toll-free at 1-866-355-6227 or email Customer Care at [customercare@pfflyers.com](mailto:customercare@pfflyers.com?subject=Question%20about%20Privacy%20Policy).
+If you have any questions or concerns including a request to be added to or taken off a list, please contact us at Customer Care Center toll-free at 1-866-355-6227 or email Customer Care at [CustomerCare@pfflyers.com](mailto:customercare@pfflyers.com?subject=Question%20about%20Privacy%20Policy).
