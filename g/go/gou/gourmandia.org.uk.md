@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmandia.org.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628085103id_/http%3A//www.gourmandia.org.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmandia.org.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511145454id_/http%3A//www.gourmandia.org.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # Gourmet Recipe videos from Michelin Ranked Epicurean Chefs- Gourmandia
 
@@ -53,3 +53,7 @@ Children are not eligible to use Gourmandia.com's services, and we ask that mino
 ##### Opting Out, Corrections and Cancellations.
 
 Upon request, Gourmandia.com will: (a) remove you and your personal information from our database, thereby canceling your registration; (b) correct personal information that you state is erroneous; or (c) permit you remove your information from being searched, while still allowing access to the site. To request a correction or cancellation, please contact Gourmandia.com.
+
+##### Notice Regarding Online Behavioral Advertising.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](https://web.archive.org/web/20130511145454id_/http%3A//www.gourmandia.org.uk/www.networkadvertising.org).
