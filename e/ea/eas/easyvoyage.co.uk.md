@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111213533id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512014619id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
 
 # Easyvoyage newsletter
 
@@ -21,7 +21,7 @@ The charter aims to define, firstly, the various personal data collected from yo
 
 By subscribing to the Easyvoyage newsletters, you authorise us to establish, maintain and update a file of the personal information you have provided us with, whilst understanding that this file is limited to your registration information (first name, surname, email address, etc.).
 
-In accordance with Act No. 78-17 from January 6, 1978 of the Data Protection Act, You have the right to access and rectify personal data that you provide as part of your Easyvoyage subscription. If at any time you wish to exercise your right to access and rectify personal information that concerns You, please send an email to contact@easyvoyage.fr, specifying your email address, or in writing by sending your request to Easyvoyage Group, 71 rue Desnouettes, 75015 Paris.
+In accordance with Act No. 78-17 from January 6, 1978 of the Data Protection Act, You have the right to access and rectify personal data that you provide as part of your Easyvoyage subscription. If at any time you wish to exercise your right to access and rectify personal information that concerns You, please send an email to [contactuk@easyvoyage.fr](mailto:%63%6F%6E%74%61%63%74%75%6B%40%65%61%73%79%76%6F%79%61%67%65%2E%66%72), specifying your email address, or in writing by sending your request to Easyvoyage Group, 71 rue Desnouettes, 75015 Paris.
 
 The treatment of personal data used with regard to Easyvoyage newsletters are registered with the National Commission for Computing and Liberties under the number 1298016.
 
