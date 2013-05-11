@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106091535id_/http%3A//www.bluetooth.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512001256id_/http%3A//www.bluetooth.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Bluetooth Technology Website
 
 ## Committed to Privacy
 
