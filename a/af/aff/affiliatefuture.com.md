@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefuture.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010215457id_/http%3A//www.affiliatefuture.co.uk/faq/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuture.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511024345id_/http%3A//www.affiliatefuture.co.uk/faq/Privacy.asp) for the most accurate reproduction.*
 
 # AffiliateFuture
 
