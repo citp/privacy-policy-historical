@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emailsherlock.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010151649id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailsherlock.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511042307id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.*
 
-# EmailSherlock.com - Free Email Search - Lookup any address
+# 
 
 **Privacy Policy**
 
