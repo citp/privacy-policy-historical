@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228151926id_/http%3A//www.dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511123632id_/http%3A//www.dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
