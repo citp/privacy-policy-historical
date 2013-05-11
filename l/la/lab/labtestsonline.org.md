@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113160029id_/http%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511233409id_/http%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
 
 # Policies
 
@@ -17,4 +17,4 @@ If you would no longer like to receive email updates from us, please complete ou
 
 You may also [use this same form](http://labtestsonline.org/contact/?gc=33) to send us any questions you may have about our privacy policy. It will be helpful if you would select "privacy" as your subject.
 
-[« Prev](http://labtestsonline.org/site/policies/start/3 "Prev")
+[« Prev](http://labtestsonline.org/site/policies/start/3 "Prev") |  [Next »](http://labtestsonline.org/site/policies/start/5 "Next")
