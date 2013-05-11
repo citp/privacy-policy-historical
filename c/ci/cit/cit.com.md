@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214012109id_/http%3A//www.cit.com/utility/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511150626id_/http%3A//www.cit.com/utility/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # 
 
 CIT Online Privacy Practices Policy: US
 
-## Last Updated: September 26, 2011
+## Last Updated: January 3, 2013
 
 ## Introduction 
 
@@ -31,12 +31,6 @@ When you visit the CIT site, we automatically collect certain non-personal infor
 ## Children
 
 CIT operates general audience web sites that are accessible by the public. This website is not intended for visitors under 18 years of age. We do not knowingly solicit or collect personal information from or about children, nor do we knowingly market our products or services to children.
-
-## Foreign non-United States users
-
-If you are visiting this site from outside the United States, please do not provide any personal information through this site or by email, as this Privacy Policy may not comply with your local law. Please consult CIT websites established in your jurisdiction instead. For CIT Privacy Policies that apply to non-US locations, click 
-
-[here](http://www.cit.com/utility/privacy-policy/non-us/index.htm).
 
 ## How we use the information we collect
 
