@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010151649id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2013-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511042307id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.emailsherlock.com/">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>EmailSherlock.com - Free Email Search - Lookup any address</title>
+	<title></title>
 	<link href="templates/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
 	<link href="templates/styles/style.css" rel="stylesheet" type="text/css">
     
@@ -22,7 +22,45 @@
 <script type="text/javascript" src="socialshare/inc/js/jquery.site.js"></script>
 <script type="text/javascript" src="socialshare/js/jquery.social.share.2.1.min.js"></script>
 
+	<script type="text/javascript" src="javascripts/jquery-ui-1.8.13.custom.min.js"></script>
+	<script type="text/javascript" src="javascripts/jquery.multi-open-accordion-1.5.3.min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('#acc1, #acc2, #acc3, #acc4, #acc5, #acc6').multiOpenAccordion({
+				active: [0],
+				click: function(event, ui) {
+					//console.log('clicked')
+				},
+				init: function(event, ui) {
+					//console.log('whoooooha')
+				},
+				tabShown: function(event, ui) {
+					//console.log('shown')
+				},
+				tabHidden: function(event, ui) {
+					//console.log('hidden')
+				}
+			});
+			$('#acc1, #acc2, #acc3, #acc4, #acc5, #acc6').multiOpenAccordion("option", "active", [9999999]);
+		});
+	</script>
+
+
 <script language="javascript">
+
+$("#morelocations").live ( "click", function () {
+	$.ajax({
+	   type: "GET",
+	   url: "moreLocations.php",
+	   data: "searchemail=",
+	   success: function(msg){
+		 $(".searchresults:last").after(msg);
+		 $("#morelocations").hide();
+	   }
+	 });
+	return false;
+});
+
 
 	function getResults(query) {
 		if (query == undefined) { query = ''; }
@@ -44,6 +82,7 @@
 						scrollTop: $(".results").offset().top},
 						'slow');
 					$('.friendslist a img').tipsy({title: 'alt', fade: true, html: true, gravity: 's'});
+						addResults();
 						}
 			});
 		}
@@ -54,6 +93,7 @@
 $(document).ready(function (){
 
 	getResults();
+	
 // social share code
 
 	$('#social-share').dcSocialShare({
@@ -89,7 +129,8 @@ $(document).ready(function (){
 
 </script>
 
-    
+<script language="javascript" src="javascripts/custom.js"></script>
+   
 </head>
 <body>
 
@@ -100,7 +141,7 @@ $(document).ready(function (){
         <img src="http://www.emailsherlock.com/templates/images/header_logo.png" style="position:absolute; left:-1000px;">
 		<div id="content">
 
-			<div class="counter"><span>27,808</span> searches so far</div>
+			<div class="counter"><span>1,088,057</span> searches so far</div>
             
 		
 
@@ -114,8 +155,10 @@ $(document).ready(function (){
 			</div>
             
             <div class="recentsearches">
-            <strong>Recent searches:</strong> 
+            <strong>Recent searches:</strong> <a href="emailsearch/mark@fischerorgancompany.com/">mark@fischerorgancompany.com</a> <a href="emailsearch/valterdojr@gmail.com/">valterdojr@gmail.com</a> <a href="emailsearch/kwallington@kme.co.uk/">kwallington@kme.co.uk</a> <a href="emailsearch/suzjlance@cox.net/">suzjlance@cox.net</a> <a href="emailsearch/bluemoon4u@mchsi.com/">bluemoon4u@mchsi.com</a> 
             </div>
+<br><br>
+
             
 
 
@@ -264,10 +307,12 @@ Effective Date: June 19, 2012
 
 </div></div></div>
 
-<div id="footer">
+<div id="footer">	<div class="mobile-apps clearfix">		<a class="app-store" href="https://itunes.apple.com/us/app/emailsherlock.com/id582983221?mt=8" target="_blank">Available on the App Store</a>		<a class="android-market" href="https://play.google.com/store/apps/details?id=com.app.emailsherlock" target="_blank">Available on the Android Market</a>	</div>	<br><br>
 	<div class="nav"><a href="http://www.emailsherlock.com/">Email Search</a> | <a href="email-statistics.html">Email Statistics</a> | <a href="terms.html">Terms of Service</a> | <a href="privacy.html">Privacy Policy</a> | <a href="contact.html">Contact Us</a> | <a href="sitemap.xml" target="_blank">Sitemap</a></div>
 	<div class="copy">© EmailSherlock.com </div>
+    
 </div>
+
 
 <!-- social share code -->
 
