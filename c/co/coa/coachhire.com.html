@@ -1,42 +1,141 @@
-<!--The following is the downloaded HTML source of the coachhire.com privacy policy that was archived on 2012-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111175033id_/http%3A//coachhire.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coachhire.com privacy policy that was archived on 2013-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511223734id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<link rel="stylesheet" href="http://www.thelondonminibuscompany.com/css/ecm.css" type="text/css">
-<link type="text/css" rel="stylesheet" href="http://www.coachhire.com/css/css.css?v=5">
-<link href="http://www.coachhire.com/css/blitzer/jquery-ui-1.8.9.custom.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://www.coachhire.com/css/validationEngine.jquery.css" type="text/css">
+<link rel="stylesheet" href="http://cdn-b.ecoachmanager.com/css/ecm.css" type="text/css">
+<!-- Google Analytics Content Experiment code 
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='48204214-0',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+
+<link rel="stylesheet" type="text/css" href="http://www.coachhire.com/css/main.css?v=23">
+<link rel="stylesheet" type="text/css" href="http://www.coachhire.com/css/quote.css?v=22">
+<!--[if lte IE 7]>
+<style>
+.box_cover {
+}
+.box_top {
+	background:#ECF0F3;
+}
+
+.box_content
+, .box_car
+, .tabplace 
+, .menu_right
+ {
+	background:#F3F3F3;
+}
+#findlocation { 
+	position:fixed;
+    left:30%;
+    top:20%;
+}
+#footer {
+	background:#DCDCD8;
+}
+</style>
+<![endif]-->
+<!--[if ie 8]>
+<style>
+#findlocation { 
+	position:fixed;
+    left:30%;
+    top:20%;
+}
+</style>
+<![endif]-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<link href="http://cdn-b.ecoachmanager.com/css/redmond/jquery-ui-1.8.13.custom.css" rel="stylesheet" type="text/css">
+<link href="http://www.coachhire.com/css/validationEngine.jquery.css" rel="stylesheet" type="text/css">
+
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.coachhire.com/js/jquery.tools.min.25.js"></script>
 <script type="text/javascript" src="http://www.coachhire.com/js/jquery.form.js"></script>
 <script type="text/javascript" src="http://www.coachhire.com/js/jquery.validationEngine-en.js"></script> 
 <script type="text/javascript" src="http://www.coachhire.com/js/jquery.validationEngine.js"></script> 
-<!--[if lt IE 7]>
-	<script type='text/javascript'>
-    alert("You are using MS Internet Explorer 6 which is almost a decade old and struggles with modern websites.\n\nAlthough you can view this website using this browser, for full functionality we recommend that you upgrade to a more recent web browser\n\nThis site works best in Chrome, Firefox, Safari, Opera and IE9");
-    </script>
-<![endif]-->
+
+<script src="http://www.coachhire.com/js/placeholder/jquery.placeholder.js"></script>
+
+<script src="http://www.coachhire.com/js/jpaging/js/imtech_pager.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.coachhire.com/js/jpaging/css/main.css">
+
 <script type="text/javascript">
-function staticLoadScript(url)
+function setTabBox(tab)
 {
-document.write('<script src="', url,'" type="text/JavaScript"><\/script>');
+	$("#tabbox > div").removeClass("active");
+	$("#tabbox"+tab).addClass("active");
+	$("#tabbar > li").removeClass("active");
+	$("#tabbar"+tab).addClass("active");
 }
-//staticLoadScript("http://www.t1.admeter.co.uk/trax26.js.aspx?default=0845 834 0218&NumberWhite1=5&NumberWhite2=8&TagetID1=TelNum&base=" + location.search.substring(1,location.search.length));
 </script>
-<script type="text/javascript" src="http://wt.admeter.co.uk/wt-min.js"></script>
 <script>
-  WebTracker.Tracker = "wt.26.4";
-  WebTracker.NumberAreas = ["TelNum",];
+jQuery('#form1').ajaxForm({
+	target: '#main_content' , /* override target */
+	url: 'http://www.coachhire.com/lib/get-content.php?p=quotation-form.php',
+	type: 'post',
+	data: {ajax:1},
+	beforeSubmit: function(arr, $form, options) { 
+		_gaq.push(['_trackEvent', 'Quote form', '1st stage',,, false]);
+		jQuery('#quotenext').val('Loading...');
+		$("#mainquote").html("Please complete your request on the left hand side...");
+	}
+	
+});	
+
+jQuery(document).ready(function(){ 
+	//preloadSm();
+	objImg = new Image();
+	var screen_w = $(this).width(); //alert(screen_w);
+	var bg_size = '';
+	if(screen_w<=1300) bg_size = 'bg_1300.jpg'; else bg_size = 'bg_large.jpg'; 
+	objImg.src = 'http://www.coachhire.com/images/'+bg_size;
+	objImg.onload = function() { //alert('big image loaded complete');
+		$("body").css("background", "url(http://www.coachhire.com/images/"+bg_size+") 50% 0 no-repeat fixed"); // full quality
+	} 
+	
+	showHide_1();
+	
+	$("#tabbox1 .scrollable").scrollable({ 
+				vertical: true, 
+				mousewheel: true,
+				circular: true,
+				speed: 500
+			}).autoscroll({ interval: 3500 });
+			
+	$('#Checkbox2').click(function(){
+			$('div.date2 div.title').hide();
+	});
+	
+	
+});
 </script>
+
+
+		<title>Privacy Policy | Coach Hire.com</title>
+		<meta name="Keywords" content="privacy policy, coach hire
+">
+		<meta name="Description" content="Read our Privacy Policy.
+">
+		
 <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script> 
-<script type="text/javascript" src="http://www.coachhire.com/js/jquery-ui-1.8.9.custom.min.js"></script> 
-<script type="text/javascript" src="http://www.coachhire.com/js/timepicker.js"></script> 
-<script type="text/javascript" src="http://www.coachhire.com/js/jquery.livesearch.js"></script> 
-<script type="text/javascript"> 
-$(document).ready(function() { 
-			$('#date1').datepicker({  
+<script type="text/javascript" src="http://cdn.ecoachmanager.com/js/jquery-ui-1.8.9.custom.min.js"></script>
+<script type="text/javascript" src="http://cdn.ecoachmanager.com/js/jquery.livesearch.js"></script>
+<script type="text/javascript" src="http://cdn.ecoachmanager.com/js/timepicker.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+			jQuery('#date1').datepicker({  
 				duration: '',  
 				dateFormat: 'dd-mm-yy',
 				constrainInput: false, 
@@ -45,7 +144,7 @@ $(document).ready(function() {
 				minDate: +0
 			 });  
 			 
-			$('#date2').datepicker({  
+			jQuery('#date2').datepicker({  
 				duration: '',  
 				dateFormat: 'dd-mm-yy',
 				constrainInput: false,  
@@ -53,80 +152,83 @@ $(document).ready(function() {
 				changeYear: true, 
 				minDate: +0
 			 });  
-			/*
-			$('#date1').datetimepicker({  
-				duration: '',  
-				dateFormat: 'dd-mm-yy',
-				timeFormat: 'hh:mm',
-				ampm: false
-			 });  
-			 
-			$('#date2').datetimepicker({  
-				duration: '',  
-				dateFormat: 'dd-mm-yy',
-				timeFormat: 'hh:mm',
-				ampm: false
-			 });  */
-			 
-			 $("#extradropsbox").sortable();
-			 
-			 $("#form1").ajaxForm({
-				target: "#mainquote" ,
-				url: "http://www.coachhire.com/lib/get-content.php?p=quotation-form.php",
-				type: "post",
-				data: {ajax:1},
-				beforeSubmit: function(arr, $form, options) { 
-					$("#quotenext").val("Loading...");
-				}
+					 
+		 jQuery('#date1').change(function(){ // dif from kendo
+				var date_val = jQuery('#date1').val();
+				if(date_val=='' || date_val.search('-')==-1) return ;
+				var date_sp = date_val.split('-');
+				
+				//alert(year+','+date_sp[1]+' '+date_sp[0]);
+ 				 clearMinDate2();
+				 jQuery('#date2').datepicker('option', 'minDate', new Date(date_sp[2]+','+date_sp[1]+' '+date_sp[0]) );
+				 jQuery('#date2').val(' '); // hide text
 			 });
 			 
-			 //$('#address').liveSearch({url: 'http://www.coachhire.com/lib/perform_function.php?d=livesearch&f=destinations.php&t=address&q='});
-			 //$('#destination').liveSearch({url: 'http://www.coachhire.com/lib/perform_function.php?d=livesearch&f=destinations.php&t=destination&q='});
-			 //$('#extradrop').liveSearch({url: 'http://www.coachhire.com/lib/perform_function.php?d=livesearch&f=destinations.php&t=extradrop&q='});
-	   load(); 
+			 jQuery('#extradropsbox').sortable();			 
+			 jQuery('#address').liveSearch({url: 'http://www.coachhire.com/lib/perform_function.php?d=livesearch&f=destinations.php&t=address&q='});
+			 jQuery('#destination').liveSearch({url: 'http://www.coachhire.com/lib/perform_function.php?d=livesearch&f=destinations.php&t=destination&q='});
+			 jQuery('#extradrop').liveSearch({url: 'http://www.coachhire.com/lib/perform_function.php?d=livesearch&f=destinations.php&t=extradrop&q='});
+
+	   load();
 });
- 
 var dropcount = 1;
- 
+function autoDrop()
+		{
+			if ($('#extradrop').val() != '')
+			{
+				var loc = $('#extradrop').val();
+				var latlng = $('#extradrop-latlng').val();
+				
+				$('#extradropsbox').append("<p class='drop' id='drop"+dropcount+"'>"+loc+"<input type='hidden' name='drop[]' value='"+loc+"'><input type='hidden' name='droplatlng[]' value='"+latlng+"'><input type='hidden' id='journey"+dropcount+"' name='dropjourney[]' value='3'><br><input type='radio' name='journey"+dropcount+"' value='1' onclick='$('#journey"+dropcount+"').val($(this).val());'>Outward Journey <input type='radio' name='journey"+dropcount+"' value='2' onclick='$(\'#journey"+dropcount+"\').val($(this).val());'>Return Journey <input type='radio' name='journey"+dropcount+"' value='3' checked onclick='$(\'#journey"+dropcount+"\').val($(this).val());'>Both Journeys</span><br><img src='../images/16x16/delete_item.png' alt='Delete drop' onclick='$(\'#drop"+dropcount+"\').remove();' style='float:right; cursor:pointer;'>"+"</p>");
+				dropcount++;
+				$('#extradrop').val('');
+				$('#extradrop-latlng').val('');
+			}	
+		}
+
 function closeLocate()
 {
-	if ($("#extradrop").val() != "")
+	if (jQuery('#extradrop').val() != '')
 	{
-		var loc = $("#extradrop").val();
-		var latlng = $("#extradrop-latlng").val();
+		var loc = jQuery('#extradrop').val();
+		var latlng = jQuery('#extradrop-latlng').val();
 		
-		if ($("#Checkbox2:checked").val()==null){hideOpts = " style='display:none;' ";}else{var hideOpts = "";}
+		if (jQuery('#Checkbox2:checked').val()==null){hideOpts = " style='display:none;' ";}else{var hideOpts = '';}
 		
-		$("#extradropsbox").append("<p class='drop' id='drop"+dropcount+"'>"+loc+"<input type='hidden' name='drop[]' value='"+loc+"'><input type='hidden' name='droplatlng[]' value='"+latlng+"'><input type='hidden' id='journey"+dropcount+"' name='dropjourney[]' value='3'><img src='images/16x16/delete_item.png' alt='Delete drop' onclick='$(\"#drop"+dropcount+"\").remove();' style='float:right; cursor:pointer;'><br><span id='hideOpts'"+hideOpts+"> <input type='radio' name='journey"+dropcount+"' value='1' onclick='$(\"#journey"+dropcount+"\").val($(this).val());'>Outward Journey<br> <input type='radio' name='journey"+dropcount+"' value='2' onclick='$(\"#journey"+dropcount+"\").val($(this).val());'>Return Journey<br> <input type='radio' name='journey"+dropcount+"' value='3' checked onclick='$(\"#journey"+dropcount+"\").val($(this).val());'>Both Journeys</span>"+"</p>");
+		jQuery('#extradropsbox').append("<p class='drop' id='drop"+dropcount+"'>"+loc+"<input type='hidden' name='drop[]' value='"+loc+"'><input type='hidden' name='droplatlng[]' value='"+latlng+"'><input type='hidden' id='journey"+dropcount+"' name='dropjourney[]' value='3'><br><span id='hideOpts'"+hideOpts+"> <input type='radio' name='journey"+dropcount+"' value='1' onclick='jQuery(\"#journey"+dropcount+"\").val(jQuery(this).val());'>Outward Journey<br> <input type='radio' name='journey"+dropcount+"' value='2' onclick='jQuery(\"#journey"+dropcount+"\").val(jQuery(this).val());'>Return Journey<br> <input type='radio' name='journey"+dropcount+"' value='3' checked onclick='jQuery(\"#journey"+dropcount+"\").val(jQuery(this).val());'>Both Journeys</span><img src='images/16x16/delete_item.png' alt='Delete drop' onclick='jQuery(\"#drop"+dropcount+"\").remove();' style='float:right; cursor:pointer;'>"+"</p>");
 		dropcount++;
-		$("#extradrop").val("");
-		$("#extradrop-latlng").val("");
-		$("#extradropsbox").show();
+		jQuery('#extradrop').val('');
+		jQuery('#extradrop-latlng').val('');
 	}
-	$('#findlocation').addClass('hidden');	
+	jQuery('#findlocation').addClass('hidden');	
 }
- 
+
 function showHide_1()
 {
-    if($("#Checkbox1:checked").val()!=null)
+    if(jQuery('#Checkbox1:checked').val()!=null)
     {
-		$(".hide_return").hide();
-		$("#hideOpts").hide();
+    	jQuery('#date2').val(' ');
+    	var date2 = jQuery('#date2').datepicker();//.val(' '); // hide text
+    	$.datepicker._clearDate(date2);
+    	jQuery('#date2').val(' ');
+		jQuery('.hide_return').hide();
+		jQuery('#hideOpts').hide();
+		
      }
 }
 		
 function showHide_2()
 {
-    if($("#Checkbox2:checked").val()!=null)
+    if(jQuery('#Checkbox2:checked').val()!=null)
     {
-		$('.hide_return').show();
-		$('#hideOpts').show();
+		jQuery('.hide_return').show();
+		jQuery('#hideOpts').show();
     }
 }
 		
 function setReturn()
 {
-	if((document.getElementById('Checkbox2').checked)&&(jQuery('#date2').val()==""))
+	if((document.getElementById('Checkbox2').attr('checked'))&&(jQuery('#date2').val()==''))
     {
 		var today = jQuery('#date1').val();
 		jQuery('#date2').val(today);
@@ -134,20 +236,73 @@ function setReturn()
 }
 function validateDate(){
 	var valid = true;
+	var hastime = jQuery('#time1');
+	var time1 = '';
+	var error_text = "Please check required info!\n";
 	
-	var time1 = $("#date1").val().split(" ");
-	if (time1[1] == "00:00"){valid = confirm("Are you departing at midnight? \n Press OK to confirm or cancel to correct the time.");}
-	
-	if (($("#Checkbox2:checked").val() !== null)&&(valid == true)) {
-		var time2 = $("#date2").val().split(" ");
-		if (time2[1] == "00:00"){valid = confirm("Are you returning at midnight? \n Press OK to confirm or cancel to correct the time.");}
+	if(jQuery('#date1').val()=='') {
+		error_text += "\nPickup date";	
+		valid = false;
 	}
-	return valid;
-}
- 
-</script> 
+					
+	if(jQuery('#Checkbox2:checked').val() != null && jQuery('#date2').val()=='') {
+		error_text+= "\nReturn Date";	
+		valid = false;
+	}
 
-<script type="text/javascript"> 
+	if(jQuery('#address').val()=='' || jQuery('#address').val()=='Collection address') {
+		error_text+= "\nCollection Address";
+		valid = false;
+	}
+	
+	 if(jQuery('#destination').val()=='' || jQuery('#destination').val()=='Destination Address') {
+		error_text+= "\nDestination Address"; 
+		valid = false;
+	 }
+	
+	if(valid==false) {
+		alert(error_text);
+		return false;	
+	} 
+	else {
+			if (hastime == null){var time1sp = jQuery('#date1').val().split(' ');time1 = time1sp[1];}
+			else{
+				if(jQuery('#time1').val() == null){time1='00:00';}else{time1 = jQuery('#time1').val();}
+			}
+		
+			if (time1 == '00:00'){valid = confirm('Are you departing at midnight? \n Press OK to confirm or cancel to correct the time.');}
+			
+			if ((jQuery('#Checkbox2:checked').val() != null)&&(valid == true)) {
+				var hastime2 = jQuery('#time2');
+				var time2 = '';
+				if (hastime2 == null){var time2sp = jQuery('#date2').val().split(' ');time2 = time2sp[1];}
+				else{
+					if(jQuery('#time2').val() == null){time2='00:00';}else{time2 = jQuery('#time2').val();}
+				}
+				if (time2 == '00:00'){valid = confirm('Are you returning at midnight? \n Press OK to confirm or cancel to correct the time.');}
+			}
+			
+		return valid;	
+	}
+}
+
+function clearMinDate2() {
+	  var date_val = jQuery('#date1').val();
+	  if(date_val=='') return;
+	  var date_sp = date_val.split('-');
+	  var time1 = new Date(date_sp[2]+','+date_sp[1]+' '+date_sp[0]).getTime(); //alert(time1);
+
+	  var date_val = jQuery('#date2').val();
+	  if(date_val=='' || date_val.search('-')==-1) return ;
+	  var date_sp = date_val.split('-');
+	  var time2 = new Date(date_sp[2]+','+date_sp[1]+' '+date_sp[0]).getTime(); //alert(time1);
+	
+	  if(time1>time2) { 
+		  jQuery('#date2').val(' ');	
+	  } 
+}
+
+</script><script type="text/javascript"> 
         var map;
         var geo;
 	var markersArray = [];
@@ -194,7 +349,7 @@ function validateDate(){
 		if (id == 1){field = "address";}else if (id == 2){field = "destination";}else if (id == 3){field = "extradrop";}
 		var search = document.getElementById(field).value;
 		if (search==""){search="London";}
-		document.getElementById(field).focus();
+if(search.indexOf('UK') ==-1){search = search+', UK';}		document.getElementById(field).focus();
             	showAddressB(search);
 		$("#findlocation").removeClass("hidden");
           }
@@ -202,7 +357,7 @@ function validateDate(){
           function showAddressB(search) {
         
             // ====== Perform the Geocoding ======        
-            geo.geocode({'address': search, 'region': 'GB'}, function (result, status)
+            geo.geocode({'address': search, 'region': 'UK'}, function (result, status)
               {
                 clearOverlays(); 
                 if (status == "OK") {
@@ -210,58 +365,69 @@ function validateDate(){
                   place(p.lat(),p.lng());
                   var search = document.getElementById(field).value = result[0].formatted_address;
 
-                  if (result.length > 1) {
-                    var dym = "Did you mean:";
+                  if (result.length > 1) { 
+                    document.getElementById("message").innerHTML = "Did you mean:";
                     for (var i=0; i<result.length; i++) { 
- 			dym += "<br>"+(i+1)+": <a href='javascript:showAddressB(\"" +result[i].formatted_address+"\")'>"+ result[i].formatted_address+"<\/a>";
+ 			document.getElementById("message").innerHTML += "<br>"+(i+1)+":<a href='javascript:showAddressB(\"" +addr+"\")'>"+ result[i].formatted_address+"<\/a>";
                     }
-                    document.getElementById("message").innerHTML = dym;
 		  }
                 }
                 else {alert('Could not find "'+search+ '": ' + status);}
               }
 	    );
           }
-        
- 
+
 		//<![CDATA[
 		
 		if(document.createStyleSheet) {
-			document.createStyleSheet('http://www.coachhire.com/css/showJS.css');
+			document.createStyleSheet("http://www.coachhire.com/css/showJS.css");
 		}
 		
 		else {
 			var styles = "@import url('http://www.coachhire.com/css/showJS.css');";
 			var newSS=document.createElement('link');
-			newSS.rel='stylesheet';
+			newSS.rel="stylesheet";
 			newSS.href='data:text/css,'+escape(styles);
 			document.getElementsByTagName("head")[0].appendChild(newSS);
 		}
 		
 		//]]>
 		
-</script><link rel="stylesheet" href="data:text/css,@import%20url%28%27http%3A//www.coachhire.com/css/showJS.css%27%29%3B"> 
-
+</script><link rel="stylesheet" href="data:text/css,@import%20url%28%27http%3A//www.coachhire.com/css/showJS.css%27%29%3B">
 <!--[if lt IE 9]>
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
 <![endif]-->
-<link rel="shortcut icon" href="favicon.ico" type="x-icon">
-
-		<title>Coachhire privacy and policy</title>
-		<meta name="Keywords" content="">
-		<meta name="Description" content="">
-		</head>
+</head>
 <body>
+<div class="wrap">
+<!-- left -->
+<div class="col_left">
 
-
-
-<div id="wrap">
-<div id="content">
-	<div id="main">
-	
-	<div id="breadcrumbs"><ul><li><a href="http://www.coachhire.com/">Homepage</a> &gt;</li><li class="page_now">Privacy Policy</li></ul></div><div style="clear:both"></div>
-<h1>
-	Business privacy policy</h1>
+<div class="box_cover">
+	<div class="box_top box_radius_bor">
+    	<div class="left"><a href="#"><img src="http://www.coachhire.com/images/coachhire_logo.png" style="vertical-align:middle;height:100px;"></a>
+        	<span class="phone_no"><img src="http://www.coachhire.com/images/phone_ic.png"> 		<span id="TelNum">0800 033 7159</span></span>
+        </div>
+        <div class="right tcenter"><!--<img src="images/live_support.png" />--><!-- LiveZilla Chat Button Link Code (ALWAYS PLACE IN BODY ELEMENT) --><a href="javascript:void(window.open('http://www.thelondonminibuscompany.com/livezilla/chat.php','','width=590,height=580,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">
+<img src="http://www.thelondonminibuscompany.com/livezilla/image.php?id=04&amp;type=inlay" width="136" height="56" border="0" alt="LiveZilla Live Help"></a><!-- http://www.LiveZilla.net Chat Button Link Code --><!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) --><div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://www.thelondonminibuscompany.com/livezilla/server.php?request=track&amp;output=jcrpt&amp;nse=0.8121646884663514"></script></div><script type="text/javascript">
+var script = document.createElement("script");script.type="text/javascript";var src = "http://www.thelondonminibuscompany.com/livezilla/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);
+</script><noscript><img src="http://www.thelondonminibuscompany.com/livezilla/server.php?request=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt="" /></noscript><!-- http://www.LiveZilla.net Tracking Code --><br><a href="http://www.facebook.com/CoachHireUK" target="_blank"><img src="images/fb.png"></a> <a href="http://twitter.com/CoachHire_com"><img src="images/twitter.png"></a> <a href="skype:paullumbar.tlmc?call"><img src="images/skype.png"></a></div>
+    </div>
+</div>   
+    
+    
+    <div id="top_menu" class="box_radius_bor">
+  			<ul id="menu1" class="menu"><li><a href="http://www.coachhire.com/" title="">Home</a></li><li class="sub"><a href="http://www.coachhire.com/Airport-Transfers" title="">Airport Transfers</a><ul><li class="sub"><a href="http://www.coachhire.com/Airport-Transfers/Heathrow-Airport" title="">Heathrow Airport</a><ul><li><a href="http://www.coachhire.com/Heathrow-Airport/Meet-and-Greet" title="">Meet and Greet</a></li></ul></li><li><a href="http://www.coachhire.com/Airport-Transfers/Gatwick-Airport" title="">Gatwick Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Manchester-Airport" title="">Manchester Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Stansted-Airport" title="">Stansted Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Luton-Airport" title="">Luton Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Edinburgh-Airport" title="">Edinburgh Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Birmingham-Airport" title="">Birmingham Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Glasgow-Airport" title="">Glasgow Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Liverpool-Airport" title="">Liverpool Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/City-Airport" title="">City Airport</a></li></ul></li><li class="sub"><a href="http://www.coachhire.com/Coach-Hire" title="">Coach Hire</a><ul><li><a href="http://www.coachhire.com/Coach-Hire/Events-and-Conferences" title="">Events and Conferences</a></li><li><a href="http://www.coachhire.com/Coach-Hire/School-Coach-Hire" title="">School Coach Hire</a></li><li><a href="http://www.coachhire.com/Coach-Hire/VIP-Executive-Coaches" title="">VIP Executive Coaches</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Royal-Ascot" title="">Royal Ascot</a></li><li><a href="http://coachhire.com/car-gallery" title="">Fleet Gallery</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Bus-Charter" title="">Bus Charter</a></li></ul></li><li><a href="http://www.coachhire.com/Coach-Hire-Prices" title="">Coach Hire Prices</a></li><li><a href="http://coachhire.com/contact-us" title="">Contact Us</a></li></ul>    </div>
+   <div class="banner_cover">
+   		<div class="big_banner"><img src="http://www.coachhire.com/images/car_top.jpg" width="695"></div>
+   </div>     
+    
+    <div class="box_cover">
+    <div class="box_content box_radius_bor opacity_div">
+    	<div id="main_content" class="padding20">
+    	
+<h1 style="text-align: center; ">
+	<img alt="" src="http://www.thelondonminibuscompany.com/images/7081Privacy-Policy.jpg" style="margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px; float: left; width: 160px; height: 106px; ">Business privacy policy</h1>
 <p>
 	This privacy policy sets out how Coachhire.com uses and protects any information that you give&nbsp;<strong>Coachhire.com</strong>&nbsp;when you use this website.</p>
 <p>
@@ -326,55 +492,71 @@ function validateDate(){
 	You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to&nbsp;<strong>Coachhire.com</strong>&nbsp;, 83 Desford Way, Ashford, Middlesex. TW15 3AS</p>
 <p>
 	If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
-<!--Standard page-->
- 	<div id="form_area">
-		<div id="mainquote"><form id="form1" name="form1" method="post" action="http://www.coachhire.com/quotation-form">
-  <h3 class="quote_head">Online Quote</h3>
- <table>
-  <tbody><tr class="isreturn">
-    <td class="title">&nbsp;</td>
-    <td class="entry"><input name="single" type="radio" id="Checkbox1" value="1" onclick="showHide_1();"> One way <input name="single" type="radio" id="Checkbox2" value="2" onclick="showHide_2();" checked="checked"> Return</td>
-    </tr>
-  <tr class="date1">
-    <td class="title">Pickup Date</td>
-    <td class="entry"><input name="date1" type="text" class="datepicker" id="date1" value="" onchange="setReturn();"><select name="time1" id="time1"><option value="00:00">00:00</option><option value="00:15">00:15</option><option value="00:30">00:30</option><option value="00:45">00:45</option><option value="01:00">01:00</option><option value="01:15">01:15</option><option value="01:30">01:30</option><option value="01:45">01:45</option><option value="02:00">02:00</option><option value="02:15">02:15</option><option value="02:30">02:30</option><option value="02:45">02:45</option><option value="03:00">03:00</option><option value="03:15">03:15</option><option value="03:30">03:30</option><option value="03:45">03:45</option><option value="04:00">04:00</option><option value="04:15">04:15</option><option value="04:30">04:30</option><option value="04:45">04:45</option><option value="05:00">05:00</option><option value="05:15">05:15</option><option value="05:30">05:30</option><option value="05:45">05:45</option><option value="06:00">06:00</option><option value="06:15">06:15</option><option value="06:30">06:30</option><option value="06:45">06:45</option><option value="07:00">07:00</option><option value="07:15">07:15</option><option value="07:30">07:30</option><option value="07:45">07:45</option><option value="08:00">08:00</option><option value="08:15">08:15</option><option value="08:30">08:30</option><option value="08:45">08:45</option><option value="09:00">09:00</option><option value="09:15">09:15</option><option value="09:30">09:30</option><option value="09:45">09:45</option><option value="10:00">10:00</option><option value="10:15">10:15</option><option value="10:30">10:30</option><option value="10:45">10:45</option><option value="11:00">11:00</option><option value="11:15">11:15</option><option value="11:30">11:30</option><option value="11:45">11:45</option><option value="12:00">12:00</option><option value="12:15">12:15</option><option value="12:30">12:30</option><option value="12:45">12:45</option><option value="13:00">13:00</option><option value="13:15">13:15</option><option value="13:30">13:30</option><option value="13:45">13:45</option><option value="14:00">14:00</option><option value="14:15">14:15</option><option value="14:30">14:30</option><option value="14:45">14:45</option><option value="15:00">15:00</option><option value="15:15">15:15</option><option value="15:30">15:30</option><option value="15:45">15:45</option><option value="16:00">16:00</option><option value="16:15">16:15</option><option value="16:30">16:30</option><option value="16:45">16:45</option><option value="17:00">17:00</option><option value="17:15">17:15</option><option value="17:30">17:30</option><option value="17:45">17:45</option><option value="18:00">18:00</option><option value="18:15">18:15</option><option value="18:30">18:30</option><option value="18:45">18:45</option><option value="19:00">19:00</option><option value="19:15">19:15</option><option value="19:30">19:30</option><option value="19:45">19:45</option><option value="20:00">20:00</option><option value="20:15">20:15</option><option value="20:30">20:30</option><option value="20:45">20:45</option><option value="21:00">21:00</option><option value="21:15">21:15</option><option value="21:30">21:30</option><option value="21:45">21:45</option><option value="22:00">22:00</option><option value="22:15">22:15</option><option value="22:30">22:30</option><option value="22:45">22:45</option><option value="23:00">23:00</option><option value="23:15">23:15</option><option value="23:30">23:30</option><option value="23:45">23:45</option></select></td>
-    </tr>
-  <tr class="date2">
-    <td class="hide_return title"><strong>Return Date</strong></td>
-    <td class="hide_return entry"><input name="date2" type="Text" class="datepicker" id="date2" value=""><select name="time2" id="time2"><option value="00:00">00:00</option><option value="00:15">00:15</option><option value="00:30">00:30</option><option value="00:45">00:45</option><option value="01:00">01:00</option><option value="01:15">01:15</option><option value="01:30">01:30</option><option value="01:45">01:45</option><option value="02:00">02:00</option><option value="02:15">02:15</option><option value="02:30">02:30</option><option value="02:45">02:45</option><option value="03:00">03:00</option><option value="03:15">03:15</option><option value="03:30">03:30</option><option value="03:45">03:45</option><option value="04:00">04:00</option><option value="04:15">04:15</option><option value="04:30">04:30</option><option value="04:45">04:45</option><option value="05:00">05:00</option><option value="05:15">05:15</option><option value="05:30">05:30</option><option value="05:45">05:45</option><option value="06:00">06:00</option><option value="06:15">06:15</option><option value="06:30">06:30</option><option value="06:45">06:45</option><option value="07:00">07:00</option><option value="07:15">07:15</option><option value="07:30">07:30</option><option value="07:45">07:45</option><option value="08:00">08:00</option><option value="08:15">08:15</option><option value="08:30">08:30</option><option value="08:45">08:45</option><option value="09:00">09:00</option><option value="09:15">09:15</option><option value="09:30">09:30</option><option value="09:45">09:45</option><option value="10:00">10:00</option><option value="10:15">10:15</option><option value="10:30">10:30</option><option value="10:45">10:45</option><option value="11:00">11:00</option><option value="11:15">11:15</option><option value="11:30">11:30</option><option value="11:45">11:45</option><option value="12:00">12:00</option><option value="12:15">12:15</option><option value="12:30">12:30</option><option value="12:45">12:45</option><option value="13:00">13:00</option><option value="13:15">13:15</option><option value="13:30">13:30</option><option value="13:45">13:45</option><option value="14:00">14:00</option><option value="14:15">14:15</option><option value="14:30">14:30</option><option value="14:45">14:45</option><option value="15:00">15:00</option><option value="15:15">15:15</option><option value="15:30">15:30</option><option value="15:45">15:45</option><option value="16:00">16:00</option><option value="16:15">16:15</option><option value="16:30">16:30</option><option value="16:45">16:45</option><option value="17:00">17:00</option><option value="17:15">17:15</option><option value="17:30">17:30</option><option value="17:45">17:45</option><option value="18:00">18:00</option><option value="18:15">18:15</option><option value="18:30">18:30</option><option value="18:45">18:45</option><option value="19:00">19:00</option><option value="19:15">19:15</option><option value="19:30">19:30</option><option value="19:45">19:45</option><option value="20:00">20:00</option><option value="20:15">20:15</option><option value="20:30">20:30</option><option value="20:45">20:45</option><option value="21:00">21:00</option><option value="21:15">21:15</option><option value="21:30">21:30</option><option value="21:45">21:45</option><option value="22:00">22:00</option><option value="22:15">22:15</option><option value="22:30">22:30</option><option value="22:45">22:45</option><option value="23:00">23:00</option><option value="23:15">23:15</option><option value="23:30">23:30</option><option value="23:45">23:45</option></select></td>
-    </tr>
-  <tr class="address">
-    <td class="title">Collection address<br><a href="#" id="extradroplink" onclick="jQuery('#extra_drops').show(); jQuery('#extradroplink').remove(); return false;" class="hideNoJS">Extra Drops</a></td>
-    <td class="entry"><input type="button" onclick="showAddress('1'); return false;" value="Find" style="float:right" class="hideNoJS">
-      <textarea name="address" cols="30" rows="2" class="input_text_area" id="address"></textarea>      
-      <input name="address-latlng" id="address-latlng" type="hidden" value=""></td>
-    </tr>
-  <tr id="extra_drops" class="drops" style="display:none;">
-    <td class="title">Extra Drop</td>
-    <td class="entry"><input type="button" onclick="showAddress('3'); return false;" value="Find" style="float:right" class="hideNoJS">
-      <textarea name="dontsend" cols="30" rows="2" class="input_text_area" id="extradrop"></textarea>      
+</div>    
+	</div>
+    </div>
+    
+    <div class="box_cover">
+    <div class="box_car box_radius_bor opacity_div">
+    	<div class="tcenter padding20">
+        <div class="left" style="width:33%"><img src="http://www.coachhire.com/images/car_center1.png"><br><h3>Coaches</h3></div>
+        <div class="left" style="width:33%"> <img src="http://www.coachhire.com/images/car_center2.png"><br><h3>Mini Coaches</h3></div>
+         <div class="left" style="width:33%"><img src="http://www.coachhire.com/images/car_center3.png"><br><h3>Mini Buses</h3></div>
+        </div>
+    </div>
+    </div>
+</div>
+
+<!-- right -->
+<div class="col_right">
+	<div class="box_cover">
+	<div class="box_quote box_radius opacity_div">
+    	<div class="padding15">
+       		<div id="mainquote"><form id="form1" name="form1" method="post" action="http://www.coachhire.com/quotation-form">
+  <h3 class="quote_head">GET A QUOTE</h3>
+  <div class="mainquote_body">
+  <div class="isreturn">
+    <div class="entry"><input name="single" type="radio" id="Checkbox1" value="1" onclick="showHide_1();"> One way <input name="single" type="radio" id="Checkbox2" value="2" onclick="showHide_2();" checked="checked"> Return</div>
+ </div>
+  <div class="date1">
+    <div class="title">Pickup Date</div>
+    <div class="entry"><input name="date1" type="text" class="datepicker" id="date1" value="" onchange="setReturn();" placeholder="Pickup Date"><select name="time1" id="time1"><option value="00:00">00:00</option><option value="00:15">00:15</option><option value="00:30">00:30</option><option value="00:45">00:45</option><option value="01:00">01:00</option><option value="01:15">01:15</option><option value="01:30">01:30</option><option value="01:45">01:45</option><option value="02:00">02:00</option><option value="02:15">02:15</option><option value="02:30">02:30</option><option value="02:45">02:45</option><option value="03:00">03:00</option><option value="03:15">03:15</option><option value="03:30">03:30</option><option value="03:45">03:45</option><option value="04:00">04:00</option><option value="04:15">04:15</option><option value="04:30">04:30</option><option value="04:45">04:45</option><option value="05:00">05:00</option><option value="05:15">05:15</option><option value="05:30">05:30</option><option value="05:45">05:45</option><option value="06:00">06:00</option><option value="06:15">06:15</option><option value="06:30">06:30</option><option value="06:45">06:45</option><option value="07:00">07:00</option><option value="07:15">07:15</option><option value="07:30">07:30</option><option value="07:45">07:45</option><option value="08:00">08:00</option><option value="08:15">08:15</option><option value="08:30">08:30</option><option value="08:45">08:45</option><option value="09:00">09:00</option><option value="09:15">09:15</option><option value="09:30">09:30</option><option value="09:45">09:45</option><option value="10:00">10:00</option><option value="10:15">10:15</option><option value="10:30">10:30</option><option value="10:45">10:45</option><option value="11:00">11:00</option><option value="11:15">11:15</option><option value="11:30">11:30</option><option value="11:45">11:45</option><option value="12:00">12:00</option><option value="12:15">12:15</option><option value="12:30">12:30</option><option value="12:45">12:45</option><option value="13:00">13:00</option><option value="13:15">13:15</option><option value="13:30">13:30</option><option value="13:45">13:45</option><option value="14:00">14:00</option><option value="14:15">14:15</option><option value="14:30">14:30</option><option value="14:45">14:45</option><option value="15:00">15:00</option><option value="15:15">15:15</option><option value="15:30">15:30</option><option value="15:45">15:45</option><option value="16:00">16:00</option><option value="16:15">16:15</option><option value="16:30">16:30</option><option value="16:45">16:45</option><option value="17:00">17:00</option><option value="17:15">17:15</option><option value="17:30">17:30</option><option value="17:45">17:45</option><option value="18:00">18:00</option><option value="18:15">18:15</option><option value="18:30">18:30</option><option value="18:45">18:45</option><option value="19:00">19:00</option><option value="19:15">19:15</option><option value="19:30">19:30</option><option value="19:45">19:45</option><option value="20:00">20:00</option><option value="20:15">20:15</option><option value="20:30">20:30</option><option value="20:45">20:45</option><option value="21:00">21:00</option><option value="21:15">21:15</option><option value="21:30">21:30</option><option value="21:45">21:45</option><option value="22:00">22:00</option><option value="22:15">22:15</option><option value="22:30">22:30</option><option value="22:45">22:45</option><option value="23:00">23:00</option><option value="23:15">23:15</option><option value="23:30">23:30</option><option value="23:45">23:45</option></select></div>
+    </div>
+  <div class="date2">
+    <div class="hide_return title"><strong>Return Date</strong></div>
+    <div class="hide_return entry"><input name="date2" type="Text" class="datepicker" id="date2" value="" placeholder="Return Date"><select name="time2" id="time2"><option value="00:00">00:00</option><option value="00:15">00:15</option><option value="00:30">00:30</option><option value="00:45">00:45</option><option value="01:00">01:00</option><option value="01:15">01:15</option><option value="01:30">01:30</option><option value="01:45">01:45</option><option value="02:00">02:00</option><option value="02:15">02:15</option><option value="02:30">02:30</option><option value="02:45">02:45</option><option value="03:00">03:00</option><option value="03:15">03:15</option><option value="03:30">03:30</option><option value="03:45">03:45</option><option value="04:00">04:00</option><option value="04:15">04:15</option><option value="04:30">04:30</option><option value="04:45">04:45</option><option value="05:00">05:00</option><option value="05:15">05:15</option><option value="05:30">05:30</option><option value="05:45">05:45</option><option value="06:00">06:00</option><option value="06:15">06:15</option><option value="06:30">06:30</option><option value="06:45">06:45</option><option value="07:00">07:00</option><option value="07:15">07:15</option><option value="07:30">07:30</option><option value="07:45">07:45</option><option value="08:00">08:00</option><option value="08:15">08:15</option><option value="08:30">08:30</option><option value="08:45">08:45</option><option value="09:00">09:00</option><option value="09:15">09:15</option><option value="09:30">09:30</option><option value="09:45">09:45</option><option value="10:00">10:00</option><option value="10:15">10:15</option><option value="10:30">10:30</option><option value="10:45">10:45</option><option value="11:00">11:00</option><option value="11:15">11:15</option><option value="11:30">11:30</option><option value="11:45">11:45</option><option value="12:00">12:00</option><option value="12:15">12:15</option><option value="12:30">12:30</option><option value="12:45">12:45</option><option value="13:00">13:00</option><option value="13:15">13:15</option><option value="13:30">13:30</option><option value="13:45">13:45</option><option value="14:00">14:00</option><option value="14:15">14:15</option><option value="14:30">14:30</option><option value="14:45">14:45</option><option value="15:00">15:00</option><option value="15:15">15:15</option><option value="15:30">15:30</option><option value="15:45">15:45</option><option value="16:00">16:00</option><option value="16:15">16:15</option><option value="16:30">16:30</option><option value="16:45">16:45</option><option value="17:00">17:00</option><option value="17:15">17:15</option><option value="17:30">17:30</option><option value="17:45">17:45</option><option value="18:00">18:00</option><option value="18:15">18:15</option><option value="18:30">18:30</option><option value="18:45">18:45</option><option value="19:00">19:00</option><option value="19:15">19:15</option><option value="19:30">19:30</option><option value="19:45">19:45</option><option value="20:00">20:00</option><option value="20:15">20:15</option><option value="20:30">20:30</option><option value="20:45">20:45</option><option value="21:00">21:00</option><option value="21:15">21:15</option><option value="21:30">21:30</option><option value="21:45">21:45</option><option value="22:00">22:00</option><option value="22:15">22:15</option><option value="22:30">22:30</option><option value="22:45">22:45</option><option value="23:00">23:00</option><option value="23:15">23:15</option><option value="23:30">23:30</option><option value="23:45">23:45</option></select></div>
+    </div>
+  <div class="address">
+    <div class="title">Collection address<br><a href="#" id="extradroplink" onclick="jQuery('#extra_drops').show(); jQuery('#extradroplink').remove(); return false;" class="hideNoJS">Extra Drops</a></div>
+    <div class="entry"><input type="button" onclick="showAddress('1'); return false;" value="Find" style="float:right" class="hideNoJS">
+      <textarea name="address" cols="30" rows="2" class="input_text_area" id="address" placeholder="Collection address"></textarea>      
+      <input name="address-latlng" id="address-latlng" type="hidden" value=""></div>
+    </div>
+  <div id="extra_drops" class="drops" style="display:none;">
+    <div class="title">Extra Drop</div>
+    <div class="entry"><input type="button" onclick="showAddress('3'); return false;" value="Find" style="float:right" class="hideNoJS">
+      <textarea name="dontsend" cols="30" rows="2" class="input_text_area" id="extradrop" placeholder="Extra Drop"></textarea>      
       <input name="extradrop-latlng" id="extradrop-latlng" type="hidden" value=""><br style="clear:both;">
       <div id="extradropsbox"></div>
-      </td>
-    </tr>
-  <tr class="dest">
-    <td class="title">Destination address</td>
-    <td class="entry"><input type="button" onclick="showAddress('2'); return false;" value="Find" style="float:right;" class="hideNoJS">
-      <textarea name="destination" cols="30" rows="2" class="input_text_area" id="destination"></textarea>     
-      <input name="destination-latlng" id="destination-latlng" type="hidden" value=""></td>
-    </tr>
+      </div>
+    </div>
+  <div class="dest">
+    <div class="title">Destination address</div>
+    <div class="entry"><input type="button" onclick="showAddress('2'); return false;" value="Find" style="float:right;" class="hideNoJS">
+      <textarea name="destination" cols="30" rows="2" class="input_text_area" id="destination" placeholder="Destination Address"></textarea>     
+      <input name="destination-latlng" id="destination-latlng" type="hidden" value=""></div>
+    </div>
 
-  <tr class="phone">
-    <td class="title">Phone number</td>
-    <td class="entry"><input name="phone_h" type="text" id="phone_h" class="input_text" value=""></td>
-    </tr>
-
-  <tr class="submit">
-    <td class="title">&nbsp;</td>
-    <td class="entry"> <div id="error"></div><input name="input" id="quotenext" value="Next" onclick="return validateDate();" type="submit"></td>
-    </tr>
-</tbody></table>
- 
+  <div class="phone">
+    <div class="title">Phone number</div>
+    <div class="entry"><input name="phone_h" type="text" id="phone_h" class="input_text" value="" placeholder="Phone number"></div>
+  </div>
+  
+  <div class="submit">
+    <div class="title">&nbsp;</div>
+    <div class="entry"> <div id="error"></div><input name="input" id="quotenext" value="Next" onclick="return validateDate();" type="submit"></div>
+    </div>
+</div>
 <div id="findlocation" class="hidden">
     You may drag the marker on the map to find your exact location<br>
     <div id="message" class="hideNoJS"></div> 
@@ -384,69 +566,231 @@ function validateDate(){
 </div>
 <div class="clear"></div>
  </form>
-</div>	</div>
-	</div>
-	<div id="left">
-	  	<a id="coachhiremenu" href="http://www.coachhire.com/">Coach Hire</a>
-		<ul id="sidemenu">
-			<li><a href="http://www.coachhire.com/Airport-Transfers">Airport Transfers</a></li>
-			<li><a href="http://www.coachhire.com/London">Coach Hire London</a></li>
+</div>    	</div>
+    </div>
+    </div>
+    
+    <div class="box_cover">
+    <div class="menu_right box_radius_bor opacity_div testtt">
+    <ul>
+	<li>
+		<div>
+			<img height="32" src="/images/park_icli.png" width="33"></div>
+		<a href="http://www.coachhire.com/Alton-Towers">THEME PARKS</a></li>
+	<li>
+		<div>
+			<img height="25" src="/images/church_icli.png" width="33"></div>
+		<a href="http://www.coachhire.com/Coach-Hire/Church-Groups">CHURCH GROUPS</a></li>
+	<li>
+		<div>
+			<img height="36" src="/images/tour_icli.png" width="49"></div>
+		<a href="http://www.coachhire.com/Coach-Hire/Coach-Hire-Days-Out">TOURS</a></li>
+	<li>
+		<div>
+			<img height="34" src="/images/city_icli.png" width="34"></div>
+		<a href="http://www.coachhire.com/London">TOP CITIES</a></li>
+</ul>
+    	<!--<ul>
+        	<li><div><img src="http://www.coachhire.com/images/park_icli.png" width="33" height="32" /></div> <a href="#">THEME PARKS</a></li>
+            <li><div><img src="http://www.coachhire.com/images/church_icli.png" width="33" height="25" /></div> <a href="#">CHURCH GROUPS</a></li>
+            <li><div><img src="http://www.coachhire.com/images/tour_icli.png" width="49" height="36" /></div> <a href="#">TOURS</a></li>
+            <li><div><img src="http://www.coachhire.com/images/city_icli.png" width="34" height="34" /></div> <a href="#">TOP CITIES</a></li>
+        </ul>-->
+    </div>
+    </div>
+    
+   <div class="box_cover"> 
+   <div id="hometabs" class="tabplace box_radius_bor opacity_div">
+		<ul id="tabbar">
+			<li id="tabbar1" onclick="setTabBox(1);" class="active">Testimonials</li>
+			<li id="tabbar2" onclick="setTabBox(2);">Top cities</li>
+			<li id="tabbar3" onclick="setTabBox(3);">Airports</li>
 		</ul>
-		<div id="content-testimonials">
-			<h3>Testimonials</h3>
-			<div class="t-block">
-            <p><a href="http://www.coachhire.com/Testimonials/Thanks-a-lot-for-excellent-service-for-these-two-trips">Dear Paul
+		<div id="tabbox">
+			<div id="tabbox1" class="active">
+            	<div class="scrollable vertical">
+           		<div class="items">
+                    <div class="itembox"><h5>Bus Hire Sony </h5>Coach Hire
+........... the price and the service was great.
+
+The driver was really accommodating and came as collected us early </div><div class="itembox"><h5>Barbara Bennett</h5>I just wanted to let you know how pleased we were with our hire last week.  The driver, Alan Cox, was extremely helpful and helped to make our visit run smoothly.
+</div><div class="itembox"><h5>Thanks a lot for excellent service for these two trips</h5>Dear Paul
 
 I just wanted to say thanks a lot for excellent service for these two trips we had with coachhire.com over the last wkend in London.
 
-Everyone was very pleased ...   so Iâ€˜m quite sure next time the Tottenham supporters Club will come to UK ,   we will contact you again for  airport â€“ hotel â€“ airport ride.</a></p><p class="author">Thanks a lot for excellent service for these two trips</p>			
-				<a href="http://www.coachhire.com/testimonials">Read More Testimonials</a>
+Everyone was very pleased ...   so Iâ€˜m quite sure next time the Tottenham supporters Club will come to UK ,   we will contact you again for  airport â€“ hotel â€“ airport ride.</div><div class="itembox"><h5>Mike</h5>Hi there,
+
+Couldn't fault the service, driver was punctual and really accommodating with us taking over the stereo. Great value all round.
+
+Thanks!
+
+Mike</div><div class="itembox"><h5>Jean Johnson</h5>Richard,
+
+ 
+
+Thank you for saving the day.
+
+ 
+
+You have handled this matter with great efficiency and professional.
+
+ 
+
+I will spread the word on behalf of your company.
+
+ 
+
+Thanks
+
+ 
+
+Jean Johnson
+
+ </div><div class="itembox"><h5>Bruno</h5>Thanks! Yes, everything went very well! The vehicle and driver were fantastic.</div><div class="itembox"><h5>Angela McDermott</h5>I would like to express my sincere gratitude for the brilliant service you provided right from our initial enquiry. The coach was hired for a funeral and therefore it was imperative that everything ran smoothly. This was certainly the case and we had absolutely no fault with any part of the booking.</div><div class="itembox"><h5>Shirley Cupit</h5>Many thanks for our coach hire today. We had a lovely trip and it all went like clockwork.
+We really appreciated how good your driver Nevinne was - it was a very smooth drive and he coped with terrible weather and traffic jams on the way home.
+I'm sure we will be back in touch for future trips.
+
+Kind regards,
+
+</div><div class="itembox"><h5>Kerry Spain</h5>I just wanted to say a quick Thank You, everything went very smoothly, the drivers were great and were on time.</div><div class="itembox"><h5>Tracy</h5>I am more than happy to give you some feedback.  The price that you offered was very reasonable (my friends were over the moon) and the service that you provided was excellent.  </div><div class="itembox"><h5>Kerry Spain</h5>I just wanted to say a quick Thank You, everything went very smoothly, the drivers were great and were on time.</div><div class="itembox"><h5>Marcello</h5>The trip last week went very well and the gentlemen were extremely happy with the service and the driver especially.</div>	
+  			</div>
+         </div>
+       </div>
+			<div id="tabbox2">
+				<div id="content">
+                <p><a href="http://www.coachhire.com/Coach-Hire-London">Coach Hire London</a></p>
+				<p><a href="http://www.coachhire.com/Birmingham">Coach Hire Birmingham</a></p>
+				<p><a href="http://www.coachhire.com/Edinburgh">Coach Hire Edinburgh</a></p>
+				<p><a href="http://www.coachhire.com/Glasgow">Coach Hire Glasgow</a></p>
+				<p><a href="http://www.coachhire.com/Leeds">Coach Hire Leeds</a></p>
+				<p><a href="http://www.coachhire.com/Manchester">Coach Hire Manchester</a></p>
+				<p><a href="http://www.coachhire.com/Sheffield">Coach Hire Sheffield</a></p>
+                </div>
+                <div id="pagingControls"></div>
+			</div>
+			<div id="tabbox3">
+            	<div id="content2">
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Heathrow-Airport">Coach Hire Heathrow Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Gatwick-Airport">Coach Hire Gatwick Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Stansted-Airport">Coach Hire Stansted Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/City-Airport">Coach Hire City Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Luton-Airport">Coach Hire Luton Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Manchester-Airport">Coach Hire Manchester Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Birmingham-Airport">Coach Hire Birmingham Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Glasgow-Airport">Coach Hire Glasgow Airport</a></p>
+				<p><a href="http://www.coachhire.com/Airport-Transfers/Edinburgh-Airport">Coach Hire Edinburgh Airport</a></p>
+                <p><a href="#">Aberdeen</a></p>
+                <p><a href="#">Barra</a></p>
+               	<p><a href="#">Benbecula</a></p>
+                <p><a href="#">Blackbushe</a></p>
+                <p><a href="#">Blackpool</a></p>
+               	<p><a href="#">Bournemouth</a></p>
+                <p><a href="#">Bristol International</a></p>
+                <p><a href="#">Cambridge City</a></p>
+                <p><a href="#">Campbeltown</a></p>
+                <p><a href="#">Cardiff International</a></p>
+                </div>
+                 <div id="pagingControls2"></div>
 			</div>
 		</div>
-<a name="plusone"></a>
-<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=262637513762257&amp;xfbml=1"></script><fb:like href="" send="true" layout="box_count" width="150" data-show-faces="true" data-stream="false" action="like" font="arial"></fb:like>
-<div class="g-plusone" data-annotation="inline"></div>
-	</div>      
-
-	<div id="footer">
-	  <div id="footbar">
-	    <p class="left">© Copyright 2012 CoachHire.com</p>
-	    <p class="right"><a href="http://coachhire.com/Terms">Terms &amp; Conditions</a> | <a href="http://coachhire.com/Privacy-Policy">Privacy Policy</a> | </p>
-	  </div>
+		<br style="clear:right;">
 	</div>
-</div>
-<div id="header">
-	<div id="logo">
-	<a href="http://www.coachhire.com/" title="CoachHire.com" id="logo_link"></a>	
-        <div id="phone">
-	   <div class="phone-block">
-		<p class="phone-title">Sales</p>
-		<span>
-		<div id="TelNum">0800 033 7159</div>		</span>
-	   </div>
-	   <div class="phone-block">
-		<p class="phone-title">Existing Bookings</p>
-		<div>0330 088 2577</div>
-		<p class="phone-title">Low rate, even from mobiles</p>	
-	   </div>
-	</div>
-	<div id="mainmenu">
-        	<ul id="menu1" class="menu"><li><a href="http://www.coachhire.com/" title="">Home</a></li><li class="sub"><a href="http://www.coachhire.com/Airport-Transfers" title="">Airport Transfers</a><ul><li><a href="http://www.coachhire.com/Airport-Transfers/Heathrow-Airport" title="">Heathrow Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Gatwick-Airport" title="">Gatwick Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Manchester-Airport" title="">Manchester Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Stansted-Airport" title="">Stansted Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Luton-Airport" title="">Luton Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Edinburgh-Airport" title="">Edinburgh Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Birmingham-Airport" title="">Birmingham Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Glasgow-Airport" title="">Glasgow Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/Liverpool-Airport" title="">Liverpool Airport</a></li><li><a href="http://www.coachhire.com/Airport-Transfers/City-Airport" title="">City Airport</a></li></ul></li><li class="sub"><a href="http://www.coachhire.com/Coach-Hire" title="">Coach Hire</a><ul><li><a href="http://www.coachhire.com/Coach-Hire/Events-and-Conferences" title="">Events and Conferences</a></li><li><a href="http://www.coachhire.com/Coach-Hire/School-Coach-Hire" title="">School Coach Hire</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Green-Urban-Coaches" title="">Green Urban Coaches</a></li><li><a href="http://www.coachhire.com/Coach-Hire/VIP-Executive-Coaches" title="">VIP Executive Coaches</a></li><li><a href="http://www.coachhire.com/Coach-Hire/British-Grand-Prix" title="">British Grand Prix</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Royal-Ascot" title="">Royal Ascot</a></li><li><a href="http://coachhire.com/car-gallery" title="">Fleet Gallery</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Coach-Hire-Days-Out" title="">Coach Hire Days Out</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Coach-companies" title="">Coach companies</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Bus-Charter" title="">Bus Charter</a></li><li><a href="http://www.coachhire.com/Coach-Hire/Christmas-Parties" title="">Christmas Parties</a></li></ul></li><li><a href="http://www.coachhire.com/Coach-Hire-Prices" title="">Coach Hire Prices</a></li><li><a href="/coachtrip/" title="">Football Trips</a></li><li><a href="http://coachhire.com/contact-us" title="">Contact Us</a></li></ul>        </div>
-	</div>
-	    <div id="banner"></div>
-    	
+    </div> <!-- box cover -->
+    
+    </div>
+    <!-- end right -->
 	
+    <div id="footer" class="box_radius_bor opacity_div">
+    	<div class="padding15">
+        <div class="left"><a href="http://www.coachhire.com/"><img src="http://www.coachhire.com/images/ecm_footer.png"></a>
+        © 2013 Coach Hire Compare Ltd. <a href="http://www.coachhire.com/terms">Terms and conditions</a> - <a href="http://www.coachhire.com/privacy">Privacy</a> - <a href="http://coachhire.com/Supplier-terms.pdf">Supplier Terms and conditions</a></div>
+         
+        <div class="right"><img src="http://www.coachhire.com/images/paybycredit.png"></div>
+        </div>
+    </div>
+    <!--[if lt IE 10]>
+<script type="text/javascript" src="css/PIE.js"></script>
+<![endif]-->
+<script>
+$(function() {
+    if (window.PIE) {
+        $('.box_radius_bor').each(function() {
+            PIE.attach(this);
+        });
+		$('.ie_radius').each(function() {
+            PIE.attach(this);
+        });
+    }
+});
+</script>
+    <div class="bottom">&nbsp;</div>
+</div>
+<!--[if lte IE 8]>
+<script type="text/javascript" src="js/transifiy/transify.js"></script> 
+<script> $('.opacity_div').transify({opacityOrig:.8,opacityNew:1,fadeSpeed:200});</script>
+<![endif]-->
+
+<script language="javascript">
+ jQuery('input[placeholder], textarea[placeholder]').placeholder();
+</script>
+
+
+<script> 
+var airport_per_page = 5;
+ jQuery(document).ready(function(){
+	var content_height = 0;
+	content_height += $('.box_content').height()+40+8; // content .. padding .. margin
+	content_height += 168+8; // box car
+	//alert(content_height);
 	
-</div>
+	var right_height = 0;
+	right_height += 307+8 // menu right
+	//alert(right_height);	
 
-</div>
-
-
-<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>	
+	if(content_height>right_height) {
+		final_box = content_height-right_height;
+		//alert(final_box);
+		jQuery('#hometabs').height(final_box+40);
+		jQuery('#tabbox1 .items').height(final_box-25);
+		jQuery('.scrollable.vertical').height(final_box-25);
+		jQuery('#tabbox2 #content').height(final_box-60);
+		jQuery('#tabbox3 #content2').height(final_box-60);
+		airport_per_page = Math.round(((final_box-60)/20)/2); //alert('airport num:'+airport_per_page);
+	}	
+	else { //alert('content low');
+		right_height+=jQuery('#hometabs').height();
+		left_box = right_height-content_height+20; //alert(left_box);
+		jQuery('.box_content').height(left_box);	
+	}
+ });
+ 
+ </script>
+ 
 <script type="text/javascript">
+var pager = new Imtech.Pager();
+jQuery(document).ready(function(){
+	pager.paragraphsPerPage = airport_per_page; // set amount elements per page
+    pager.pagingContainer = jQuery('#content'); // set of main container
+    pager.paragraphs = jQuery('p', pager.pagingContainer); // set of required containers
+    pager.showPage(1);
+});
+</script>
 
-swfobject.registerObject("FlashID");
+<script src="http://www.coachhire.com/js/jpaging/js/imtech_pager2.js"></script>
+<script type="text/javascript">
+var pager2 = new Imtech2.Pager();
 
+jQuery(document).ready(function(){
+	pager2.paragraphsPerPage = airport_per_page; // set amount elements per page
+    pager2.pagingContainer = jQuery('#content2'); // set of main container
+    pager2.paragraphs = jQuery('p', pager2.pagingContainer); // set of required containers
+    pager2.showPage(1); 
+});
+
+
+</script>	
+
+<script type="text/javascript">
 $(function() {			
  	window.___gcfg = {lang: 'en-GB'};
 
@@ -466,11 +810,15 @@ $(function() {
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
-
-
 </script>
 
+<script type="text/javascript" src="http://wt.admeter.co.uk/wt-min.js"></script>
+<script>
+  WebTracker.Tracker = "wt.26.4";
+  WebTracker.NumberAreas = ["TelNum",];
+</script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/41/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","560dcaaa60",223207,"M1QDMhRVDUNUAhBdDQoeNBQPGwpeUQQcGhIMQQ==",0,263,new Date().getTime()]);</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","560dcaaa60","223207","M1QDMhRVDUNUAhBdDQoeNBQPGwpeUQQcGhIMQQ==",0,203,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/41/eum/rum.js"></script></body></html>
+
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
