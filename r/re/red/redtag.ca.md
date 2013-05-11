@@ -1,50 +1,75 @@
-> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011091355id_/http%3A//www.redtag.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511164025id_/http%3A//www.redtag.ca/privacy.php) for the most accurate reproduction.*
 
-# Red Tag Vacations - Shop, Compare and Pay Less
-
-[HOME](http://www.redtag.ca/) • PRIVACY / SECURITY
+# Red Tag Vacations - Privacy Policy
 
 Privacy
 
-Your privacy is important to us. Any information that we collect online or via the telephone is done to provide you with the best website experience possible. We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+At Redtag.ca we take great care in ensuring the privacy, security and confidentially of our customers and web users. It is of the utmost importance that we are able to hold the trust of everyone who visits Redtag.ca, while at the same time obtaining the ability to ensure that our site is as efficient and user friendly as possible.
 
-This site contains links to other sites. [www.redtag.ca](http://www.redtag.ca/) is not responsible for the privacy practices or the content of such Web sites. 
+## When booking/purchasing travel on Redtag.ca: Why information is collected
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their E-mail address), financial information like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+When selecting a vacation package we require personal information in order to proceed. It is necessary to have the full names of all passengers (as they appear on travel documents), the dates of birth for each passenger and the address of the person making the booking for travel planning and security protocols and a valid email address of the main booking client. Credit card information (full number, expiry date and security access code) is gathered for all purchases made online or through a telephone booking with one of our Travel Specialists. All this information is considered “personal information”.
 
-Our online surveys ask visitors for contact information (like their E-mail address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+All personal information collected during the booking process is protected by our secure network using SSL technology protocols and normal private network security systems. SSL technology also encrypts your credit card information before it is sent to the supplier / tour operator.
 
-Security
+It is necessary to obtain your email address so we can send all itinerary information, e-tickets and other documents you may require for travel.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. As soon as you purchase something via redtag.ca, your credit card will be protected against all non-authorized usage. If non-authorized fees are charged to your credit card within the 12 months following your transaction with RedTag.ca. This responsibility will be limited to a maximum of $50 (under certain reasonable conditions). 
+## Booking on the phone or in person: How information is collected and stored
 
-With a single click you can access redtag.ca and see all your transactions protected by SSL technology protocols and normal private network security systems. SSL technology scrambles your credit card information before it even gets to the net. This renders Internet purchases as safe as telephone purchases. We will protect the security of your credit card. 
+Our travel specialists and online support staff are consummate professionals who take the handling of personal and sensitive information very seriously. Whether a client is dealing with their representative in person, over the phone or by email, our privacy policy remains the same. Information is transferred into its permanent digital home where files are protected and encrypted. Hardcopies with personal information are disposed of safely and as quickly as possible.
 
-Our site uses the secure server environment of : sirevb.sirev.com which utilizes Stronghold/Apache SSL Server Software. This Security Certificate was issued by: Secure Server Certification Authority RSA Data Security, Inc. US 
+Phone calls are recorded for quality assurance and training purposes and are kept temporarily on an internal secure server.
 
-Choice/Opt-Out
+## When personal information is shared within and outside of Redtag.ca
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Travel specialists and web reservation assistants at Redtag.ca use third party software and databases to process travel arrangements and also share information with the tour operator/company and with airlines or hotel providers providing the travel product (e.g., Air Canada, Nolitours, Transat, Hotels.com, etc.), as well as payment processors. Networks used to access these travel partners are highly secure and our partners only use client information such as names, dates of birth, secured credit card information, etc. for the purposes of administration with travel plans, processing payments, fraud verification, account collection (when applicable) and  to enforce security protocols.  Procedures when accessing external databases and our internal travel and accounting database are stringent, with security being the main priority.
 
-  1. You can send E-mail to  [unsubscribe@redtag.ca](mailto:unsubscribe@redtag.ca)
-  2. You can call the following telephone number: 905-283-6020 ext 2047  
+## How sensitive personal information is handled:
 
+This site has security measures in place to protect the loss, misuse and alteration of information that is under our control. We use special encryption tools to protect your information, so the information you share in order to purchase services will only be seen by you, by us - here at Redtag.ca and with the tour operator or airline in order to complete your travel plans. Your information will only be viewed by the online representative who is processing your file and preparing your travel documents. Furthermore, a Redtag.ca IT support worker may have brief access to your file should an issue arise with your booking. Full credit card numbers are _not_ visible on our end. 
 
+Should Red Tag need to charge a further amount or re-charge a credit card due to an error, then the customer will be notified before any actions are taken.
 
+## How information is collected and used for marketing purposes
 
-Contacting the Website
+A request for continued email communications relating to marketing correspondence with our customers is an opt-in choice and is not mandatory to complete a booking.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+When entering a contest on Redtag.ca, we require an email address and basic contact information, so we may notify participants in the event that they have won. We also use email addresses collected in this way to inform users of new products, services and travel updates. Our email newsletter contains a “web beacon pixel” which can tell us whether emails are being opened and which links are being clicked on. You can opt to receive emails in HTML form (plain text) by selecting that option using your email service provider or simply choose not to activate the “view/download photos” option, in which case the beacon pixel/analytics software will not be activated.
 
-Webmaster, redtag.ca   
-5450 Explorer Dr.   
-Mississauga, Ontario,   
-Canada   
-[webmaster@redtag.ca](mailto:webmaster@redtag.ca)
+If you choose not to receive future marketing communications from us:  you can send an E-mail to _unsubscribe@redtag.ca_ or click the unsubscribe link at the bottom of the newsletter (email communications). In the event that you may win one of our contests, we reserve the right to publish your full name and city of origin on our website.
 
-1-866-573-3824
+All contest rules & regulations are posted with every contest conducted.
 
-Got a question? Give us a call or visit our [customer support](http://www.redtag.ca/customer-support.php) page. 
+Redtag.ca does not record or monitor your web browser cookies or your IP address during routine visits to our site. Using analytic tools we are able to note the internet browser you are using to view our site. We use this information in order to optimize the functionality of our site for specific web browsers only.
 
-  
+IP addresses are only noted (not stored) when a travel purchase is made. This is done to guard against possible fraudulent behaviour. This information is not shared with a third party.
 
+Parameters involved with external advertising featured on the site (outside links, web cookies, etc.) are not under the control of Redtag.ca and are covered under separate private policies. In order to control / monitor pop-ups, web cookies, etc., please view the tool options available to you on your web browser.
+
+Redtag.ca is not responsible for the privacy practices or the content of outside websites. The extended reach of Redtag.ca on social platforms such as Facebook and Twitter, is not governed by the Red Tag Privacy Policy, and instead follows the rules, regulations and privacy policies of those external sites. 
+
+## Who is authorized to make purchases on Redtag.ca 
+
+Although this site is suitable for people of all ages, only adults over 18 years of age are able to book travel services online. If you are under 18 years of age you may purchase travel services over the phone with a legal guardian present or by coming into our offices with a letter of consent from a parent or legal guardian.
+
+If you are booking travel for someone else it is up to you to obtain consent from that individual to share their personal information (e.g. contact details, credit card numbers, etc.). Our verification procedures keep any unwanted charges from occurring on yours or a third party’s credit card.
+
+All fraudulent purchases will be investigated and prosecuted.
+
+## Other uses for information collected through our site:
+
+Other uses for information collected through our site may include: preventing potential illegal activity, collecting fees, resolving disputes and enforcing our Terms of Use.
+
+We may update this Privacy Policy in the future. We will notify our users through either email communications or by placing an easily visible notice on our site.
+
+If you would prefer to arrange travel plans “offline”, please call one of our knowledgeable travel specialists at 1-866-573-3824.
+
+If you have any questions about the Red Tag Privacy Policy or the practices of this site, you may contact our Privacy Officer via email at: _[privacy@redtag.ca](mailto:privacy@redtag.ca)_
+
+Or by mail at:
+
+Privacy Officer  
+Red Label Vacations  
+5450 Explorer Dr.  
+Mississauga, Ontario,  
+Canada
