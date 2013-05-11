@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the castrolfootball.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014123148id_/http%3A//www.castrolfootball.com/about/uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castrolfootball.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511151106id_/http%3A//www.castrolfootball.com/about/uk/privacy.php) for the most accurate reproduction.*
 
-# | Castrol Football | Official Sponsor UEFA EURO 2012™
+# | Castrol Football | Official Sponsor FIFA World Cup 2014™
 
 ## Information about our Organisation and Website 
 
