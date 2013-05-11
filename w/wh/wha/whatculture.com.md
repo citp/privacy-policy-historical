@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatculture.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110230925id_/http%3A//whatculture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatculture.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511103920id_/http%3A//whatculture.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WhatCulture!
+# Privacy Policy - WhatCulture!
 
 
 
@@ -75,6 +75,6 @@ This policy was last modified on 13th July 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://whatculture.com
+editor [at] whatculture.com
 
-01138150693
+07414765252
