@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123045026id_/http%3A//www.exodus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511101849id_/http%3A//www.exodus.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Statement of Cookies | Exodus
 
@@ -279,9 +279,11 @@ Google](http://www.google.com/policies/privacy/)
 [Yahoo](http://info.yahoo.com/privacy/us/yahoo/details.html)  
 [MSN](http://privacy.microsoft.com/en-us/fullnotice.mspx)  
 [Facebook](https://www.facebook.com/about/privacy/)  
-[iCrossing ](http://www.icrossing.com/icrossing-privacy-policy)
+[iCrossing   
+Affiliate Window  
+](https://web.archive.org/uk.affiliatewindow.com/homepage/about-us/)
 
-**_Privacy Policy & Cookie Statement: May 2012_**
+ ** _Privacy Policy & Cookie Statement: May 2012_**
 
 Exodus Travels Ltd  
 Grange Mills  
