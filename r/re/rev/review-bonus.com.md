@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110013617id_/http%3A//review-bonus.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511155037id_/http%3A//review-bonus.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # R&Bl Privacy Policy
 
@@ -64,13 +64,13 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions:**
 
-Please also visit our [Terms and Conditions section](https://web.archive.org/web/20121110013617id_/http%3A//review-bonus.com/terms-and-conditions.html) establishing the use, disclaimers, and limitations of liability governing the use of our website at http://review-bonus.com.
+Please also visit our [Terms and Conditions section](https://web.archive.org/web/20130511155037id_/http%3A//review-bonus.com/terms-and-conditions.html) establishing the use, disclaimers, and limitations of liability governing the use of our website at http://review-bonus.com.
 
 **Your Consent:**
 
 By using our site, you consent to our privacy policy.
 
-**Changes to our Privacy Policy: (Last update 11/21/2011)**
+**Changes to our Privacy Policy: (Last update 19/03/2013)**
 
 If we decide to change our privacy policy, we will send an email notifying you of any changes.
 
@@ -78,20 +78,10 @@ If we decide to change our privacy policy, we will send an email notifying you o
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**Name: Amine Kitmane**
+**R &B Creative Inc.**
 
-**Email: admin(at)review-bonus.com**
+**Copyright © 2009 - 2013**
 
-**Tel: +212535674492**
+**POWER BY R &B Creative, Inc.**
 
-**Adress: Derb Azzouz Rbaiz N 12**
-
-**City: Taza**
-
-**State: Taza-Al Hoceima-Taounate**
-
-**ZIP/Postal Code : 35000**
-
-**Country: Morocco**
-
-**Designed by Review-Bonus.com**
+**All Rights Reserved.**
