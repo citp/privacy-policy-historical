@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bible.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215094922id_/http%3A//www.bible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bible.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511155353id_/https%3A//www.bible.com/privacy) for the most accurate reproduction.*
 
 # YouVersion Privacy Policy | The New Bible.com
 
@@ -20,7 +20,7 @@ When you access the YouVersion Bible Application, we may collect your Unique Dev
 
   * ##### LifeChurch.tv cookies
 
-When you visit [www.youversion.com](https://web.archive.org/web/20121215094922id_/http%3A//www.bible.com/www.youversion.com), we may send one or more cookies to your computer, so that we may uniquely identify your browser. (A cookie is simply a tiny text file containing a string of characters.) Accepting our cookies allows you to keep your user preferences from session to session. Although most browsers accept cookies by default, you can set your browser to refuse all cookies, or to tell you when you're being sent a cookie. Some YouVersion features and services may not function properly if you have cookies disabled.
+When you visit [www.bible.com](https://www.bible.com/), we may send one or more cookies to your computer, so that we may uniquely identify your browser. (A cookie is simply a tiny text file containing a string of characters.) Accepting our cookies allows you to keep your user preferences from session to session. Although most browsers accept cookies by default, you can set your browser to refuse all cookies, or to tell you when you're being sent a cookie. Some YouVersion features and services may not function properly if you have cookies disabled.
 
   * ##### Log information
 
@@ -28,7 +28,7 @@ When you use YouVersion, our servers automatically record information that your 
 
   * ##### User communications
 
-Personal information or requests that you submit via [www.youversion.com/live](https://web.archive.org/web/20121215094922id_/http%3A//www.bible.com/www.youversion.com/live) will be sent to the group administrator. The group administrator and/or one of their members will have access to this information. When you send email or other communication to any LifeChurch.tv owned website, we may retain those communications to process your inquiries, respond to your requests and improve our services.
+Personal information or requests that you submit via [www.bible.com/live](https://www.bible.com/live) will be sent to the group administrator. The group administrator and/or one of their members will have access to this information. When you send email or other communication to any LifeChurch.tv owned website, we may retain those communications to process your inquiries, respond to your requests and improve our services.
 
   * ##### Third party sites
 
@@ -43,7 +43,7 @@ When you sign up for a particular service that requires registration, we ask you
 
 #### How do we protect your information?
 
-LifeChurch.tv does not share your personal information with other institutions outside of LifeChurch.tv without your explicit consent. LifeChurch.tv may share your personal information only if it has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms Of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of LifeChurch.tv, its users or the public as required or permitted by law.LifeChurch.tv takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. including internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. Unless explicit permission is obtained from you, LifeChurch.tve restricts access to personal information to its employees, contractors and agents who need to know that information to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+LifeChurch.tv does not share your personal information with other institutions outside of LifeChurch.tv without your explicit consent. LifeChurch.tv may share your personal information only if it has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms Of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of LifeChurch.tv, its users or the public as required or permitted by law.LifeChurch.tv takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. including internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. Unless explicit permission is obtained from you, LifeChurch.tv restricts access to personal information to its employees, contractors and agents who need to know that information to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 #### Data Integrity
 
