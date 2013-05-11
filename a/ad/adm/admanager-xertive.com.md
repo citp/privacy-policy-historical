@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admanager-xertive.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113182014id_/http%3A//xertivemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admanager-xertive.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511165720id_/http%3A//www.xertivemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Xertive Media - Privacy Policy
 
