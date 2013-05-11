@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onextrapixel.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130235250id_/http%3A//www.onextrapixel.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onextrapixel.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511043750id_/http%3A//www.onextrapixel.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # OXP Disclaimer and Privacy Policy | Onextrapixel - Web Design & Development Online Magazine
 
