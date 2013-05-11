@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tubeautomator.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026142614id_/http%3A//www.tubeautomator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeautomator.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511052930id_/http%3A//www.tubeautomator.com/privacy.php) for the most accurate reproduction.*
 
-# Tube Automator - Privacy Policy
+# Privacy | Tube Automator - Increase Youtube Views | YouTube Views Increaser | Buy Youtube Views | Tube Toolbox | Youtube Bot - Make your Video Popular
 
 Novasoft Inc, and its affiliates are committed to protecting the privacy of all our visitors. Your right to privacy is very important to us. When you choose to provide us with information about yourself, we recognize that you trust us to act in a responsible manner.   
 It is our belief that this information should only be used to help us provide you with better products and services.
@@ -14,14 +14,14 @@ Any information you provide to us is maintained and accessible only by our Websi
   
 **Sharing of Information  
 **Novasoft Inc does not sell, rent, lease or share any user information that it has collected over this website.  
- 
+
 
 **Opt-Out from mail list**  
 At any time you may request to be removed from our mailing list by clicking the unsubscribe link provided in each mail   
- 
+
 
 **Advertisers  
 **This site  uses the services of Advertising companies for the serving and/or targeting of ads, promotions and other marketing messages. To do this, this company collects anonymous data through the use of cookies. 
 
 **All updates to our privacy statement will appear in this location. It is important to us that your experience using our network of sites is positive.**  
- 
+
