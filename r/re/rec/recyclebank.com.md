@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recyclebank.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025200456id_/https%3A//www.recyclebank.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recyclebank.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511035125id_/https%3A//www.recyclebank.com/get-help/privacy-policy) for the most accurate reproduction.*
 
-# Recyclebank Privacy Policy
+# Privacy Policy
 
 This Privacy Policy is provided by RecycleRewards, Inc. and its wholly-owned subsidiaries, including, Recyclebank, LLC and Recycle Rewards Limited, which are referred within the policy collectively as "Recyclebank", "we", "us" and/or "our".
 
@@ -12,9 +12,15 @@ Recyclebank is committed to protecting our members' privacy. The following Priva
 
 Please read this Privacy Policy and send us any questions, concerns and suggestions you may have. To contact us, please see the contact information provided below under "Contact Us". 
 
+  
+
+
 ### What Recyclebank's Privacy Policy Covers:
 
 Click on any of the questions below for the answers you need on everything relating to our Privacy Policy. 
+
+  
+
 
   * What information does Recyclebank collect?
   * Why does Recyclebank collect information about you and how do we use it?
@@ -25,12 +31,16 @@ Click on any of the questions below for the answers you need on everything relat
   * Are there any other issues to consider? 
   * Updates to the Privacy Policy.
 
+  
 
 
-## 1\. What Information Does Recyclebank Collect? 
+### 1\. What Information Does Recyclebank Collect? 
 
 **A. Information You Provide:**  
-In order for you to participate in the Recyclebank Rewards Program (which includes our home recycling programs, Gconomy Visa Card, and many other contests and activities) you first must become a Recyclebank Member and agree to the [Recyclebank Membership Agreement](http://www.recyclebank.com/about-us/membership-agreement1). Through this registration process you provide us with:
+In order for you to participate in the Recyclebank Rewards Program (which includes our home recycling programs, Gconomy Visa Card, and many other contests and activities) you first must become a Recyclebank Member and agree to the [Recyclebank Membership Agreement](https://www.recyclebank.com/about-us/membership-agreement1). Through this registration process you provide us with:
+
+  
+
 
   * (i) Personally identifiable information ("PII") such as your name, street address, phone number, or e-mail address, which we use to enroll you in our program and communicate with you. 
   * (ii) Information about you and your household (such as your age, education, household composition), which we use to verify your eligibility for our program as well as to provide a more personalized experience
@@ -77,7 +87,10 @@ Additionally, when you access our Site by using a mobile device, we may collect 
 **D. Customer Service:**  
 We also collect information when you interact with our Customer Care Call Center in order to appropriately track, research and respond to member inquiries. 
 
-##  2\. Why Does Recyclebank Collect Information About You and How Do We Use It?
+  
+
+
+###  2\. Why Does Recyclebank Collect Information About You and How Do We Use It?
 
 Recyclebank uses the information described above to provide you with a superior member experience and, as necessary, to administer our business through the Recyclebank Rewards Program. For example, we collect various types of information that allow us to:
 
@@ -96,11 +109,15 @@ Recyclebank uses the information described above to provide you with a superior 
   * communicate with you about special offers, events, or new products or services.   
 
 
+  
 
 
-## 3\. Who Does Recyclebank Share Your Information With and Why? 
+### 3\. Who Does Recyclebank Share Your Information With and Why? 
 
 Recyclebank is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your PII with certain third parties with or without further notice to you, as set forth below:
+
+  
+
 
   * **With your Consent:** We may share or disclose your PII or program activity with third parties with your express consent. Should an event arise which we deem appropriate to obtain your express consent, we will contact you directly using the contact information we have on file for you. It is important that you maintain all your information with us current and accurate. 
   * **Law and Harm:** We may disclose your PII if we are required to comply with a law, regulation or legal request; to protect the safety of any of our Site users, any person or the general public; to address fraud, security or technical issues; or to protect Recyclebank's rights or property.
@@ -109,35 +126,52 @@ Recyclebank is not in the business of selling your information. We consider this
   * **Advertisers:** We may provide aggregate anonymous information concerning member usage of our Site to third parties, such as in the case of advertisers, for purposes we deem, in our sole discretion, to be appropriate regarding our Rewards Program. 
   * **Recycling Programs/Non-Personal Aggregate Data:** In order to participate in any of our Recycling Programs, Recyclebank may record household recycling habits, redemption habits, and other information about you associated with our Recycling Programs. For example, we may record the frequency with which you recycle and the weight or volume of the materials you recycle. Occasionally in the United States, we may disclose individual level data corresponding to your address and location as well as aggregate recycling data to municipalities and haulers upon request if we determine this information will benefit the general public, promote further green actions within communities or if we are contractually obligated to do so as part of providing the Recycling Program in that community. In the United Kingdom, we may disclose individual level data corresponding to your address and location to local councils or collection providers in order to service your account; otherwise, only aggregate information is shared with the local council. We do not share information about the content of the material recycled without your consent. We also do not share any individual information with our recycling partners other than weight and pick-up data, unless we have explicit consent from you.
 
+  
 
 
-## 4\. How Can You Change Your Privacy Preferences or Account Information? 
+### 4\. How Can You Change Your Privacy Preferences or Account Information? 
 
 If, at any point during your membership with Recyclebank, you decide that you do not wish to receive specific program notices or messages, you can update your account profile and communication preferences at any time through the Site or by contacting Recyclebank's Customer Care Call Center as indicated below under "Contact Us". 
 
 We encourage you to keep your information with us current and up to date. You can make corrections, updates or deletions to your account information by accessing your online profile and visiting the "Account" Section of the Site.
 
-## 5\. What Information Is Collected Through Integration With Third Party Services? 
+  
+
+
+### 5\. What Information Is Collected Through Integration With Third Party Services? 
+
+  
+
 
   * **Social Networking Sites:** One of the special features of this Site and the Recyclebank Rewards Programs is that we enable you to log in to your online profile with us via various online third party services, such as social media and social networking services like Facebook and Twitter. By directly integrating our services with other online third party services, we make your online experience richer and more personalized. To take advantage of this feature we will ask you to log in to the relevant social networking service. When you add any social networking service to your Recyclebank online profile or log into this Site through your other social networking account(s), Recyclebank will collect relevant information necessary to enable this Site to access and collect your data contained within that particular social networking service ( _e.g._ such as your Facebook profile information). Please remember however that the manner in which such third party social network provider uses, stores and discloses your information is governed solely by that provider's policies, and Recyclebank will have no liability or responsibility for the privacy practices or other actions of any third party site or provider that you may enable and link to your online experience with Recyclebank.
   * **Recyclebank Rewards Program Sponsors:** A key component of the Rewards Program is the member being able to earn and redeem Reward Points with featured sponsors. These featured sponsors are linked to our Rewards Program both outside and through our Site and integrated into member accounts to allow for maximum member ease in both earning and redeeming Rewards Points. This integration of featured sponsors does include Recyclebank making available certain aggregated member information which is anonymous as to any specific member. This allows Recyclebank to continue to incentivize members to engage in its Rewards Program while also maintaining individual member PII confidentiality. 
 
+  
 
 
-## 6\. Third Party Links and Websites: 
+### 6\. Third Party Links and Websites: 
 
 This Privacy Policy applies only to the Site and Recyclebank services. This Site and e-mails received from Recyclebank may contain advertisements for and links to other websites not operated or controlled by Recyclebank. The policies and procedures we describe here do not apply to those third party sites. The links to third party websites available on this Site or in any e-mails sent to you by Recyclebank do not imply that Recyclebank endorses or has reviewed those third party sites. We suggest contacting those sites directly for information on their privacy policies.
 
-## 7\. Are There Any Other Issues To Consider?
+  
+
+
+### 7\. Are There Any Other Issues To Consider?
 
 Recyclebank takes all reasonable and appropriate steps to protect all information received from our members and provided via our Site and programs from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any information to Recyclebank via the Internet. You are also responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your e-mail communications at all times. 
 
-## 8\. Updates to the Privacy Policy
+  
+
+
+### 8\. Updates to the Privacy Policy
 
 The Site and our Rewards Program may change from time to time. As a result, it may be necessary for Recyclebank to make changes to this Privacy Policy. We reserve the right to update this Privacy Policy at any time, with or without advance notice. In the event there are significant changes in the manner in which we maintain and treat PII or the terms of this Privacy Policy, we will display a notice on our Site or send you an email to inform you of these changes. If you object to this Privacy Policy or to any future update of this policy or no longer wish to participate in the Recyclebank Rewards Program, you may close your account by contacting us. Unless otherwise stated, this Privacy Policy applies to all the information we possess about you and your membership with Recyclebank. This Privacy Policy was last updated on the date indicated below. We encourage you to periodically review this Privacy Policy to stay informed about how we are helping to protect the PII we receive from you. Your continued use of this Site or participation in any of the programs Recyclebank offers shall constitute your agreement to this Privacy Policy and any of its updates.  
 
 
-## 9\. Contact Us
+  
+
+
+### 9\. Contact Us
 
 Should you have any questions or comments about our Privacy Policy, please contact us at:
 
