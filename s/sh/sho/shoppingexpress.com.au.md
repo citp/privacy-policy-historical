@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoppingexpress.com.au privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104001459id_/http%3A//www.shoppingexpress.com.au/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingexpress.com.au privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511182238id_/http%3A//www.shoppingexpress.com.au/view/privacy-policy) for the most accurate reproduction.*
 
-# | Buy Cheap, Online, Australia
+# Online Privacy Policy – Secure Online Shopping| Shopping Express
 
   * [Home](http://www.shoppingexpress.com.au/)
   * [Privacy Policy](http://www.shoppingexpress.com.au/view/privacy-policy)
