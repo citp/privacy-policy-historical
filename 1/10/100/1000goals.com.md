@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128045438id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511045028id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | Football highlights - 1000Goals
 
@@ -18,29 +18,29 @@ This site contains links to other sites. 1000goals.com is not responsible for th
 
 ### Latest Football News
 
-[ ](http://www.1000goals.com/news/zico-distant-himself-from-vacant-brazil-job)
+[ ](http://www.1000goals.com/news/mazzari-coy-on-future-with-napoli)
 
-Former Brazilian super star who is currently coaching Iraq national team, Zico, has distant himself from the vacant Brazil coach position, stating that he is now focusing on his current job first. Zico also believes that appointing him would be unfair for the coaches in Brazilian league who have been working hard in delivering results…
+Napoli may have already secured their spot for next season Champions League football, but they apparently still haven't secure the future of their current tactician Walter Mazzarri as the head coach recently coy on whether he will stay or not at San Paolo next season. Speaking to the press in recent press conference, Mazzarri revealed…
 
-[ ](http://www.1000goals.com/news/chelsea-voiced-out-regrets-on-clattenburg-case)
+[ ](http://www.1000goals.com/news/alex-unsure-about-ancelottis-future-at-psg)
 
-Chelsea have finally voiced out their regrets regarding the treatment for Mark Clattenbug's case stating  it in joint statement between the club, Premier League and match officials representatives. After recent meetings between those parties, there's a statement revealed that Chelsea have regret their decision in not taking more consideration before filing their complaints on the…
+Paris Saint-Germain are close to seal their French League 1 title this season, but the future of their current tactician, Carlo Ancelotti remains unclear as rumors are running high stating on his potential departure. Things aren't getting any clearer when PSG players themselves don't really know much about the situation, just as what Brazilian defender,…
 
-[ ](http://www.1000goals.com/news/leverkusen-expecting-tough-encounter-against-bremen)
+[ ](http://www.1000goals.com/news/thiago-wants-barcelona-players-to-focus-on-clinching-la-liga-title)
 
-Bayer Leverkusen head coach Sami Hyypia is expecting another tough game when his side clash with Werder Bremen in Bundesliga midweek fixtures on Wednesday. Hyppia said that in order to get a positive result against Bremen, Leverkusen players must put on a much better performance compared to what they showed against Hoffenheim last Sunday. The…
+Barcelona failure in reaching the final stage of Champions League after being demolished by Bayern Munich triggered several rumors about potential departure next summer, but the Catalan young talent, Thiago Alcantara refused to comment about the media freenzy as he stated his team are fully focusing on confirming their La Liga win this weekend. Alcantara…
 
-[ ](http://www.1000goals.com/news/madrid-star-xabi-alonso-believes-the-team-are-backing-mourinho)
+[ ](http://www.1000goals.com/news/man-united-confirmed-moyes-fergusons-replacement)
 
-Real Madrid star midfielder Xabi Alonso backs his coach Jose Mourinho, stating that he and his teammates should be the being criticized first should they picked up a bad result, such as the latest league defeat against Real Madrid. Alonso said that they also value the manager's criticism on their performance highly as he consider…
+It's been something that many people have been predicting, but still an official confirmation was needed to confirm David Moyes' role as new manager for Manchester United, in place of Sir Alex Ferguson. After being tipped for quite some time, United have finally revealed that Moyes will indeed be in charged of the Red Devils…
 
-[ ](http://www.1000goals.com/news/west-brom-ready-for-tough-clash-against-swansea)
+[ ](http://www.1000goals.com/news/man-utd-keen-on-keeping-rooney-at-old-trafford)
 
-West Bromwich Albion maybe sitting pretty in the third place of Premier League table at the moment, but they're not planning to underestimate their upcoming opponent, Swansea City, who are in ninth place. West Brom manager, Steve Clarke considers their midweek clash against Swansea as a difficult encounter considering they will be playing an away…
+The resigning of Sir Alex Ferguson has been causing plenty of news in recent days and topping that off there were another reports stating that Wayne Rooney has once again asking to leave the club soon after Fergie's retiring confirmation occurred. However, Man United have immediately washed away that rumors, stating that their star striker…
 
 ### Be Our Facebook Fan
 
-[](http://online.titanbet.com/promoRedirect?key=ej0yMTg1MDA2OTE2Jmw9MCZwPTE5MzA3== "Free Bonus at Titan Bet")
+[](http://www.kitdos.com/ "Dedicated and VPS servers")
 
 ### Football Scores & Highlights
 
