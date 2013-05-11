@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecity.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105031710id_/http%3A//www.costumecity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecity.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511201222id_/http%3A//www.costumecity.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,5 +71,5 @@ CostumeCity.Com welcomes your questions and comments about privacy.
 Please e-mail us at [Ops@CostumeCity.Com](mailto:Ops@CostumeCity.Com).
 
 CostumeCity.Com  
-641 Strander Blvd.  
+374 Upland Dr.  
 Tukwila WA 98188
