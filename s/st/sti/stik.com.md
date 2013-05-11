@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stik.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219061534id_/http%3A//www.stik.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stik.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511083445id_/http%3A//www.stik.com/privacy) for the most accurate reproduction.*
 
-# Stik.com - Privacy Policy
+# Stik.com
 
-This Privacy Policy describes Stik's policies and procedures on the collection, use and disclosure of your information when you use the Stik Service. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/web/20121219061534id_/http%3A//www.stik.com/terms.html).
+This Privacy Policy describes Stik's policies and procedures on the collection, use and disclosure of your information when you use the Stik Service. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/web/20130511083445id_/http%3A//www.stik.com/terms.html).
 
 * ## Information Collection and Use
 
@@ -76,4 +76,4 @@ We are not responsible for the practices employed by websites linked to or from 
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@stik.com](mailto:privacy@stik.com) or send mail to: Stik, Attention: Privacy, 2903 Scott Street, San Francisco, CA 94123.
+If you have any questions about this Privacy Policy, please contact us at [privacy@stik.com](mailto:privacy@stik.com) or send mail to: Stik, Attention: Privacy, 1555 Broadway, Detroit, MI 48226.
