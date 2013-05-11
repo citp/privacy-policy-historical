@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113123614id_/http%3A//www.independenttraveler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511111324id_/http%3A//www.independenttraveler.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IndependentTraveler.com
 
