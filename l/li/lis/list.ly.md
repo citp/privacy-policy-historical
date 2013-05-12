@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the list.ly privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114070612id_/http%3A//list.ly/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list.ly privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512064623id_/http%3A//list.ly/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Listly
+
+## Listly Privacy Policy
 
 By using Listly (the “Website”), you are agreeing to the collection and use of your personal information as described below. We will notify all active accounts of any significant changes to this policy. 
 
@@ -44,4 +46,4 @@ This Privacy Policy may change from time to time. Listly will post those changes
 
 Questions about this Privacy Policy, including account deletion requests, may be emailed to support@list.ly 
 
-Last updated: November 1, 2012. 
+Last updated: May 1, 2013. 
