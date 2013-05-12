@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the volusion.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220053115id_/http%3A//www.volusion.com/safeharbor-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volusion.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512104752id_/http%3A//www.volusion.com/safeharbor-privacy) for the most accurate reproduction.*
 
 # Safe Harbor Customer Privacy Policy
 
-Volusion, Ltd., and its parents, affiliates and subsidiaries ("Volusion") has created this Safe Harbor Customer Privacy Policy (the "Policy") to help you learn about how we handle Personal Information that is collected by entities located in the European Economic Area (collectively, the EEA) and transferred to Volusion in the United States. This Safe Harbor Customer Privacy Policy supplements the VolusionPrivacyPolicy. Unless specifically defined in this policy, the terms in this Safe Harbor Customer Privacy Policy have the same meaning as in the Volusion Privacy Policy. Volusion, protects all Personal Information that we receive from the EEA, however, this Safe Harbor Customer Privacy Policy applies only to Personal Information received from the EEA that is not otherwise covered by an alternative mechanism such as the Terms of Service.
+Volusion, Ltd., and its parents, affiliates and subsidiaries ("Volusion") has created this Safe Harbor Customer Privacy Policy (the "Policy") to help you learn about how we handle Personal Information that is collected by entities located in Switzerland and the European Economic Area (collectively, the EEA) and transferred to Volusion in the United States. This Safe Harbor Customer Privacy Policy supplements the VolusionPrivacyPolicy. Unless specifically defined in this policy, the terms in this Safe Harbor Customer Privacy Policy have the same meaning as in the Volusion Privacy Policy. Volusion, protects all Personal Information that we receive from the EEA, however, this Safe Harbor Customer Privacy Policy applies only to Personal Information received from the EEA that is not otherwise covered by an alternative mechanism such as the Terms of Service.
 
-Volusion has subscribed to and adheres to the U.S.-EU Safe Harbor program (Safe Harbor Program) by adopting and implementing the Safe Harbor Privacy Principles. More information about the Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>.
+Volusion has subscribed to and adheres to the U.S.-EU and US-Swiss Safe Harbor program (Safe Harbor Program) by adopting and implementing the Safe Harbor Privacy Principles. More information about the Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>.
 
 Volusion acquires Personal Information when data is entered by you in the course of an ecommerce transaction with a Volusion customer.
 
@@ -32,7 +32,7 @@ Volusion uses a browser feature known as a cookie, which assigns a unique identi
 
 #### Agents and Service Providers
 
-We sometimes contract with other companies and individuals to perform functions or services. These agents and service providers may have access to Personal Information needed to perform their functions, but are restricted from using the Personal Information for purposes other than providing services for us. VOLUSION requires that its agents and service providers that have access to Personal Information received from the EEA either subscribe to the Safe Harbor Principles or are subject to the EU Privacy Directive or another adequacy finding or enter into a written agreement with us that requires them to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles.
+We sometimes contract with other companies and individuals to perform functions or services. These agents and service providers may have access to Personal Information needed to perform their functions, but are restricted from using the Personal Information for purposes other than providing services for us. VOLUSION requires that its agents and service providers that have access to Personal Information received from the EEA either subscribe to the Safe Harbor Principles or are subject to the EU or Swiss Privacy Directive or another adequacy finding or enter into a written agreement with us that requires them to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles.
 
 #### Data Security
 
@@ -46,9 +46,18 @@ We take reasonable steps to ensure that Personal Information we process is relia
 
 If you have any questions or concerns about this Policy or the Safe Harbor practices of Volusion, please write to us at the address listed below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the Safe Harbor Principles.
 
-Compliance Officer Volusion, Inc. 8911 N. Captial of Texas Highway, Ste. 1200 Austin, TX 78759 (p) 1.800.646.3517 (f) 512.686.3761 Email: Legal@volusion.com
+Compliance Officer  
+Volusion, Inc.  
+9300 United Drive, Suite 180  
+Austin, TX 78758  
+(f) 512.686.3761  
+Email: [Legal@volusion.com](mailto:Legal@volusion.com)
 
 If after contacting the EEA Client and Volusion, an individual's complaint or dispute has not been resolved, s/he can contact the International Centre for Dispute Resolution of the American Arbitration Association at www.adr.org. This organization will provide independent dispute resolution.
+
+#### Swiss Harbor Framework
+
+Volusion complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Volusion has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Volusion's certification, please visit <http://www.export.gov/safeharbor/>.
 
 #### Amendments
 
