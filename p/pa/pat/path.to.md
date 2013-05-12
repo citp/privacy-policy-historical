@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the path.to privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028204819id_/https%3A//www.path.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path.to privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512021111id_/https%3A//www.path.to/privacy-policy) for the most accurate reproduction.*
 
 # Path.To : Privacy Policy
 
@@ -38,4 +38,4 @@ Path.To does not knowingly collect personal information from children (13 yrs. o
 
 ### Further Information
 
-Path.To has in place procedures for training employees in implementation of this Privacy Policy and disciplining them for failure to follow it. Path.To has in place internal procedures for periodically conducting objective reviews of compliance with our Privacy Policy. If you want to know more about our commitment to Privacy, please contact us at [privacy@path.to](mailto:privacy@path.to).
+Path.To has in place procedures for training employees in implementation of this Privacy Policy and disciplining them for failure to follow it. Path.To has in place internal procedures for periodically conducting objective reviews of compliance with our Privacy Policy. If you want to know more about our commitment to Privacy, please contact us at [help@path.to](mailto:help@path.to).
