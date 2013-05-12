@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulmihaipavel.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031030117id_/http%3A//paulmihaipavel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulmihaipavel.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512083907id_/http%3A//paulmihaipavel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Marketing Blog
 
