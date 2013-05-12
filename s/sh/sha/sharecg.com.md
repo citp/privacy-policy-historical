@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214084253id_/http%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512200333id_/http%3A//www10.sharecg.com/policy/privacy_policy.php%3FPSID%3Dacb338aea3829f7174ca92aa79a03861) for the most accurate reproduction.*
 
 # IBSystems, Inc., Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy
 
-Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: www.sharecg.com, www.shareaec.com, www.sharemcad.com, www.edacafe.com, www.mcadcafe.com, www.giscafe.com, www.aeccafe.com, www.pcbcafe.com, www.dcccafe.com, www.nanotechcafe.com, and www.careerscafe.com.)
+Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: [www.ShareCG.com](http://www.sharecg.com/),[www.ShareAEC.com](http://www.shareaec.com/), [www.MechSpot.com](http://www.mechspot.com/), [www.edacafe.com](http://www.edacafe.com/), [www.mcadcafe.com](http://www.mcadcafe.com/), [www.giscafe.com](http://www.giscafe.com/), [www.aeccafe.com](http://www.aeccafe.com/), [www.nanotechcafe.com](http://www.nanotechcafe.com/), and [www.careerscafe.com](http://www.careerscafe.com/).)
 
 #### What This Privacy Policy Covers
 
