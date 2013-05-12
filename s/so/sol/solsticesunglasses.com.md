@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solsticesunglasses.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201061941id_/http%3A//www.solsticesunglasses.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solsticesunglasses.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512060856id_/http%3A//www.solsticesunglasses.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Solstice Sunglasses
 
 Privacy Statement
 
