@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213082220id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512044656id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResourceNation
 
-[](http://www.truste.org/ivalidate.php?url=www.resourcenation.com&sealid=101)
-
-Last updated on December 14, 2009
+Last updated on December 14, 2012
 
 OVERVIEW
 
@@ -77,7 +75,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 Resource Nation is the sole owner of the information collected on ResourceNation.com. Resource Nation collects personally identifiable information from our website visitors at several different points on our Web site.
 
 **YOUR ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [info@ResourceNation.com](mailto:info@ResourceNation.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [info@ResourceNation.com](mailto:info@ResourceNation.com "\[GMCP\] Compose a new mail to info@ResourceNation.com") or by contacting us by telephone or postal mail at the contact information listed below.
 
 **LINKS TO OTHER SITES**  
 This Web site contains links to other sites that are not owned or controlled by Resource Nation. Please be aware that we, Resource Nation, are not responsible for the privacy practices of such other sites.
@@ -91,7 +89,7 @@ The security of your personal information is important to Resource Nation.
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at [info@ResourceNation.com](mailto:info@ResourceNation.com).
+If you have any questions about security on our Web site, you can send email us at [info@ResourceNation.com](mailto:info@ResourceNation.com "\[GMCP\] Compose a new mail to info@ResourceNation.com").
 
 **BUSINESS TRANSITIONS**  
 In the event Resource Nation goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.
@@ -99,18 +97,13 @@ In the event Resource Nation goes through a business transition, such as a merge
 **CHOICE / OPT-OUT**  
 ResourceNation may send eNewsletters to you with educational information, announcements, and special offers.
 
-If you wish not to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at [info@ResourceNation.com](mailto:info@ResourceNation.com), or you may call us at (888) 713-3221.
+If you wish not to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at [info@ResourceNation.com](mailto:info@ResourceNation.com "\[GMCP\] Compose a new mail to info@ResourceNation.com"), or you may call us at (888) 713-3221.
 
 **CHANGES IN THIS PRIVACY POLICY**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this Privacy Policy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify by email or by means of a notice on our Privacy Policy Statement.
 
-**TRUSTe**  
-Resource Nation is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.ResourceNation.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Ryan White at info@resourcenation.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
 **CONTACT US**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@ResourceNation.com](mailto:info@ResourceNation.com) or (888) 713-3221 or mail to 777 S Coast Hwy 101, Suite 105, Solana Beach, CA 92075.  
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@ResourceNation.com](mailto:info@ResourceNation.com "\[GMCP\] Compose a new mail to info@ResourceNation.com") or (888) 713-3221 or mail to 777 S Coast Hwy 101, Suite 105, Solana Beach, CA 92075.  
 (888) 713-3221.
