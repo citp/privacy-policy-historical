@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspeninstitute.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109190021id_/http%3A//www.aspeninstitute.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspeninstitute.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513005839id_/http%3A//www.aspeninstitute.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Aspen Institute
 
@@ -16,6 +16,9 @@ The Institute operates secure data networks protected by firewall and password p
 **OPT-OUT POLICY AND REMOVAL OF PERSONALLY IDENTIFIABLE INFORMATION**  
 The Institute gives users practical options to remove themselves from Institute mailing lists and from participation in certain interactive areas of the Institute’s websites.  You may correct, update or deactivate your personally identifiable information by e-mailing us at [info@aspeninstitute.org](mailto:info@aspeninstitute.org), or by contacting us by telephone or postal mail at the contact information listed below.
 
+**COMMENTING POLICY**  
+In keeping with our mission to provide a nonpartisan venue for dealing with and discussing critical issues, the Aspen Institute welcomes comments on our website and across its other social media and online platforms. We welcome strong opinions and comments. The opinions expressed in these comments are not necessarily those of the Aspen Institute. Comments that the Institute deems to include profanity, hate speech, personal attacks, or libelous, defamatory, discriminatory, obscene, pornographic, abusive or otherwise illegal (including violations of copyright or trademark laws) or unacceptable material may be removed. We reserve the right to block or remove the posting privileges of commenters who violate these standards of decorum at any time.
+
 **CHILDREN**  
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
@@ -27,7 +30,7 @@ The Institute reserves the right to modify this privacy statement at any time. 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Jim Spiegelman  
-Vice President of Communications  
+Vice President of Communications and Public Affairs  
 The Aspen Institute  
 One Dupont Circle, NW, Suite 700  
 Washington, D.C. 20036  
