@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174753id_/http%3A//www.appsecinc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512114806id_/http%3A//www.appsecinc.com/privacy.shtml) for the most accurate reproduction.*
 
-# Application Security Inc. - Securing Business by Securing Enterprise Applications
+# Application Security Inc., Database Activity Monitoring, Vulnerability Assessment, Auditing and Scanning.
 
 **Application Security, Inc. (AppSecInc) Privacy Statement  
 Effective June 1, 2009 **
