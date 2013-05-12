@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsbestcams.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109184411id_/http%3A//www.worldsbestcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsbestcams.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512140152id_/http%3A//www.worldsbestcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # WorldsBestCams - Privacy
 
