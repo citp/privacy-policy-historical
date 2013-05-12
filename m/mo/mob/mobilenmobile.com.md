@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilenmobile.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109145649id_/http%3A//mobilenmobile.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilenmobile.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512144837id_/http%3A//mobilenmobile.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Online Mobile Shop in Pakistan - Karachi, Lahore, Faisalabad. Huge stock of Mobiles and Tablet PC
 
