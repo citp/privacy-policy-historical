@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604103811id_/http%3A//www.attracta.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512033237id_/https%3A//www.attracta.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,9 +116,9 @@ Adherence by Attracta to these Safe Harbor Principles may be limited (a) to the 
 Questions or comments regarding this Policy should be submitted by mail to the Attracta Privacy Office:
 
 Attracta Privacy Policy Office  
-Online Brand Builder, Inc.  
-625 Imperial Way, Suite 6  
-Napa, CA 94559
+Attracta Online Services, Inc.  
+860 Napa Valley Corporate Way, Suite R  
+Napa, CA 94558
 
 Or by e-mail at privacy [at] attracta.com
 
