@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtvforum.info privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015023411id_/http%3A//www.dtvforum.info/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtvforum.info privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512042803id_/http%3A//www.dtvforum.info/index.php%3Fs%3De19d066f271c8c2b97d0b297b8cbc54d%26app%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - DTV Forum Australia - The leading audio visual and home theatre forum
 
