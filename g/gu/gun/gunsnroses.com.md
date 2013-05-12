@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107160715id_/http%3A//www.gunsnroses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513005616id_/http%3A//gunsnroses.com/privacy) for the most accurate reproduction.*
 
-# home : Guns N Roses
+# Home : Guns N Roses
 
 This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
 
@@ -61,9 +61,9 @@ This privacy policy is provided in conformity with the [Children’s Online Priv
 
 If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:
 
-808 R Street, Suite 201
+120 K. Street Suite 3rd Floor
 
-Sacramento, CA 95811
+Sacramento, CA 95814
 
 Toll Free: 1 (877) GND-CTRL
 
@@ -139,9 +139,9 @@ Your use of this web site and our network, and any disputes arising from it, is 
 
 If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
-808 R Street, Suite 201
+120 K. Street Suite 3rd Floor
 
-Sacramento, CA 95811
+Sacramento, CA 95814
 
 Toll Free: 1 (877) GND-CTRL
 
