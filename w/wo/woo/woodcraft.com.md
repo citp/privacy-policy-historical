@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105025720id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513003501id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Woodcraft's Privacy Policy
 
@@ -36,19 +36,6 @@ How do we protect customer information?
 Personal information is collected when an account is set up for a purchase transaction using SSL encryption. Only that information which is needed to complete the transaction is required. Your account is password protected, and you can access it at anytime. 
 
 Woodcraft maintains a strict "no-spam" policy. Your e-mail address will never be sold to a third party. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems. We restrict access to personal information to Woodcraft employees, contractors and agents who need to know that information in order to operate, develop or improve our services. 
-
-Woodcraft also offers a buyer bond or guaranteed purchase through buySAFE. buySAFE provides shoppers with ultimate peace of mind by giving them a confident and guaranteed shopping experience when they buy from a buySAFE Merchant. buySAFE offers you a 3-in-1 Guarantee for Total Peace of Mind with a 30 day guarantee that includes: 
-
-> 1\. A Purchase Guarantee.  
->      Full 3rd party guarantee of your purchase terms of sale.  
->      If you paid for the Guarantee, a Guarantee of up to $25,000 is provided.  
->      If you received the Guarantee for free from the merchant (i.e. Woodcraft), a Purchase Guarantee of up to $1,000 is provided  
->  2\. ID Theft Protection up to $10,000.   
->      Comprehensive identity theft coverage to safeguard your personal information.  
->  3\. Lowest Price Guarantee up to $100.   
->      If the same store's published price drops within 30 days of a purchase, buySAFE pays the difference
-
-To learn more about the buySAFE program, click [here](http://www.buysafe.com/buyer_benefits/overview.html). To view your bond / guarantee click [here](http://www.buysafe.com/web/ViewYourBond/ViewYourBond.aspx). 
 
 What about "cookies"? 
 
