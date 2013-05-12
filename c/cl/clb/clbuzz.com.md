@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clbuzz.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127170616id_/http%3A//www.clbuzz.com/x-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clbuzz.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512180810id_/http%3A//www.clbuzz.com/x-privacy-policy) for the most accurate reproduction.*
 
 # CLBuzz – Complete Sports Buzz » x-privacy policy
 
