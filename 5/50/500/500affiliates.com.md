@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 500affiliates.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605163251id_/http%3A//www.500affiliates.com/Help/PrivacyPolicyAgreement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500affiliates.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512060349id_/http%3A//www.500affiliates.com/Help/PrivacyPolicyAgreement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Agreement | +500Affiliates™
+
+## Privacy Policy Agreement
 
 This website is operated by Plus500 ("we, us or our”). It is our policy to respect the confidentiality of information and the privacy of individuals. We are also bound by principles contained in the Data Protection Act 1998. This Privacy Policy Statement outlines how we manage and protect the personal information you give us and hold about our customers and others (“The Policy”). By visiting our website and using our services you agree to this Policy.
 
