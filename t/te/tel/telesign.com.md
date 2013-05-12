@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010082617id_/http%3A//telesign.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512171101id_/http%3A//www.telesign.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TeleSign | Phone Verification & Identity Authentication Service
+# Privacy Policy | TeleSign
 
 This policy was last updated on August 1, 2012
 
