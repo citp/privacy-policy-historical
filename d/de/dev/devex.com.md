@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122125527id_/http%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512205301id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
 
 # International Development
 
@@ -52,7 +52,7 @@ We provide you with the option of posting your personal profile including your s
 
 **Opt-in and Opt-out**
 
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. YYou can still view certain content and use certain services offered by our website without registering. We also give users the following options 
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view certain content and use certain services offered by our website without registering. We also give users the following options 
 
   * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us and
   * Opting not to provide certain personal information when registering for a website, provided, however, that you may not be able to use some of our services without providing us with certain information.
