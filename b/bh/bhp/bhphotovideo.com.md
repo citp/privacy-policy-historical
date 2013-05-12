@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004180031id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512034624id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
 
-# Privacy & Security | B&H Photo Video
+# Privacy and Security | B&H Photo Video
 
 Security:
 
@@ -26,7 +26,7 @@ In order to identify who you are, we suggest that you register and log-in when y
 
 How to access and/or correct Your Information:
 
-You can access all the personally identifiable information that we collect online and maintain by phoning 800-606-6969 or 212-444-6615, mail ( 420 Ninth Avenue, New York, NY 10001, USA), or via [e-mail](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=status%40bhphotovideo.com&mode=edu). We use this procedure to safeguard your information. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows the error. 
+You can access all the personally identifiable information that we collect online and maintain by phoning 800-606-6969 or 212-444-6615, mail ( 420 Ninth Avenue, New York, NY 10001, USA), or via [e-mail](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=status%40bhphotovideo.com). We use this procedure to safeguard your information. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows the error. 
 
 If you place an order with a ship-to address that differs from your bill-to address, we retain this information as well. You can modify or correct this information by following the procedure described above. Such information is used at your request to ship purchased merchandise and may also be used for marketing purposes, but will not be sold to any third parties. 
 
@@ -56,7 +56,7 @@ We may retain outside companies to assist us in managing our customer informatio
 
 B&H has carefully selected a few companies to assist us in better understanding how our customers use our site. We will place cookies on your computer to collect information. The information that is collected through these cookies tells us things, such as which search engine referred you, how you navigated around our site, which pages you browsed, what you purchased and what traffic is driven by banner ads and e-mails. The companies analyze the information they collect from our site and return it to us through a secure connection. We use this information to help us understand your interests in our site and how to better serve you. It also helps us provide you with more personalized product offerings. 
 
-For more information about the companies with whom B&H shares customer information, please [contact us](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=websupport&mode=edu).
+For more information about the companies with whom B&H shares customer information, please [contact us](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=websupport).
 
 BBBOnLine U.S./E.U. Safe Harbor Dispute Resolution Program:
 
@@ -87,7 +87,7 @@ We may use your information in a number of ways, including the following:
 
 Mail & SPAM Issues:
 
-You may request to receive the B&H catalogue, brochure periodically by mail or e-mail notification of specials that may be of interest to you. B&H will never SPAM or send unsolicited materials based on information collected at our site. Registrants may opt out of receiving materials from us at any time by contacting us with such request. Please contact us via [e-mail](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=brochure&mode=edu), by telephone 800-606-6969 or 212-444-6615, By Fax 212-239-7549, or via mail ( 420 Ninth Avenue , New York , NY 10001 . Enclose a copy of the mailing label). Include your name, address, and other information as it appears on the mailing label, and indicate "Do not mail". 
+You may request to receive the B&H catalogue, brochure periodically by mail or e-mail notification of specials that may be of interest to you. B&H will never SPAM or send unsolicited materials based on information collected at our site. Registrants may opt out of receiving materials from us at any time by contacting us with such request. Please contact us via [e-mail](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=brochure), by telephone 800-606-6969 or 212-444-6615, By Fax 212-239-7549, or via mail ( 420 Ninth Avenue , New York , NY 10001 . Enclose a copy of the mailing label). Include your name, address, and other information as it appears on the mailing label, and indicate "Do not mail". 
 
 Our Commitment to Children's Privacy:
 
@@ -95,7 +95,7 @@ We never collect or maintain information at our website from those we actually k
 
 If Security or privacy is still of concern to you
 
-If you do not want to receive promotional email from B&H, please [ click here](https://secure.bhphotovideo.com/bnh/controller/home?O=privacy&A=changeSubscribtion&Q=&&mode=edu)
+If you do not want to receive promotional email from B&H, please [ click here](https://secure.bhphotovideo.com/bnh/controller/home?O=privacy&A=changeSubscribtion&Q=)
 
 Note: Once you have submitted your request you should assume that it has been successfully received and your request is being processed. Please allow us a reasonable period from when the request was received to complete the removal.
 
@@ -107,15 +107,15 @@ Our transaction security, combined with our privacy guarantee, should satisfy yo
 
 
 
-If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this web site, you can [contact our Web Support Team](http://www.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&A=getpage&Q=contactForm.jsp&destination=websupport&mode=edu).
+If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this web site, you can [contact our Web Support Team](http://www.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&A=getpage&Q=contactForm.jsp&destination=websupport).
 
 Changes to B&H Privacy Policy:
 
 By visiting our site you consent to our collection and use of your information as described in this policy. We reserve the right to modify this privacy policy and related business practices at any time by posting updated text on this site. 
 
   
-Your California Privacy Rights
+California Privacy Rights
 
-If you are a California resident, you have the right to receive: (a) information identifying all third party companies to whom B&H may have disclosed, within the past year, personal information pertaining to you and your family for that company’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain this information, please e-mail your request to:[Click here](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=status&mode=edu)
+If you are a California resident, you have the right to receive: (a) information identifying all third party companies to whom B&H may have disclosed, within the past year, personal information pertaining to you and your family for that company’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain this information, please e-mail your request to:[Click here](http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&A=getpage&Q=contactForm.jsp&destination=status)
 
 Please allow 30 days for a response. 
