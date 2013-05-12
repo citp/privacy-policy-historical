@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005182713id_/http%3A//www.burnworld.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512042126id_/http%3A//www.burnworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BurnWorld.com
+# Privacy Policy |
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
