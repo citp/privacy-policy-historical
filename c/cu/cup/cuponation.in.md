@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cuponation.in privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227100338id_/http%3A//www.cuponation.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuponation.in privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512110416id_/http%3A//www.cuponation.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Deals, sales, coupons and discount vouchers at CupoNation
+# Privacy Policy - Sales and Discount Vouchers at CupoNation
 
-##  Make big savings at the stores you love
+### Privacy Policy
 
 Please read the following Privacy Policy carefully since your use of the www.cuponation.in Website and its services signifies your acceptance of the same. If you do not agree to the terms of this Policy, in whole or part, you should not use this Website or services of CupoNation.   
 
