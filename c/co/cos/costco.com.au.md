@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103193957id_/http%3A//www.costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512231148id_/http%3A//costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
 
 # Costco Wholesale Corporation - Privacy Statement
 
@@ -51,7 +51,7 @@ In addition, we may disclose personal information in the good faith belief that 
 
 ##  Protection of Personal Information 
 
-We have put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorised access. 
+We have put into place security measures in an effort to protect personal information from loss, misuse or alteration. Personal information we collect is stored electronically and in hard copy form and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorised access. This information may be stored in a jurisdiction outside Australia and/or shared with service providers and other Costco companies. Any company, including other Costco companies, must use the information only for the purpose for which we share it, and we endeavour to make sure that any recipient of your information also has adequate measures in place to protect your information against unauthorised access. 
 
 ##  Choice 
 
