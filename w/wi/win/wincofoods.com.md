@@ -1,166 +1,77 @@
-> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229202552id_/http%3A//www.wincofoods.com/hippa.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513002547id_/http%3A//www.wincofoods.com/privacy-policy) for the most accurate reproduction.*
 
-# WinCo Foods - Privacy Practices
+# Privacy Policy | WinCo Foods
 
-|  [ Home](http://www.wincofoods.com/)  
----  
-[ Who Is WinCo Foods](https://web.archive.org/web/20091229202552id_/http%3A//www.wincofoods.com/whois.htm)  
-[ Our History](https://web.archive.org/web/20091229202552id_/http%3A//www.wincofoods.com/history.htm)  
-[ Benefits](https://web.archive.org/web/20091229202552id_/http%3A//www.wincofoods.com/benefits.htm)  
-[ ESOP](https://web.archive.org/web/20091229202552id_/http%3A//www.wincofoods.com/esop.htm)  
-[ WinCo Employees](https://web.archive.org/web/20091229202552id_/http%3A//www.wincofoods.com/employees.htm)  
-[ WinCo Locations](https://web.archive.org/web/20091229202552id_/http%3A//www.wincofoods.com/locations.htm)  
-  
-This summary is provided to assist you in understanding
+Effective Date: Dec. 9, 2011
 
-the attached Notice of Privacy Practices
+At WinCo Foods, we are very sensitive to the privacy concerns of visitors to all of our websites, including our pages and applications on third-party social-networking services such as Facebook or Twitter and our applications on mobile devices. This Privacy Policy explains our online information practices at this website and the choices that you, as a visitor to this website, can make about the collection and use of your information.
 
-The attached Notice of Privacy Practices contains a detailed description of how our company benefits plan will protect your health information, your rights as a plan participant and our common practices in dealing with your health information.  Please refer to that Notice for further information.
+**Personal information we may ask you for and how we might use it**  
+When you visit our website, we may request personal information from you (such as your name, address, phone number, e-mail address, etc.) and only if you voluntarily provide it to us. Depending on the purpose for which the information was provided, we may use the information to communicate with you regarding our products, services, and promotions, to provide you with other information or materials that you request, to customize your interactive experience, and/or to improve our product and service offerings.
 
-**Uses and Disclosures of Health Information.**   We will use and disclose your health information in order to assist health care providers in treating you.  We will also use and disclose your health information in order to make payment for health care services or to allow insurance companies to process insurance claims for services rendered to you.  Finally, we may disclose your health information for certain limited operational activities such as quality assessment, utilization review and claim review.
+Here are the circumstances in which we might ask for personal information from our consumers though our website, the types of information we obtain, and how we might use the information:
 
-**Uses and Disclosures Based on Your Authorization.**   Except as stated in more detail in the Notice of Privacy Practices, we will not use or disclose your health information without your written authorization.
+  * If you contact one of our Consumer Services Representatives through our website, we may ask you for personal information such as your name, address, phone number, or e-mail address so that we can respond to your questions or comments. (Of course, if you send us an e-mail, we will at a minimum obtain your e-mail address.)
+  * You may be asked to provide personal information if you:
+    * register as a user of our website or post content to our website;
+    * agree or ask to receive an online newsletter or other information or material from us;
+    * register for a sweepstakes, contest, or other promotion;
+    * register to receive coupons through our website;
+    * participate in a survey, a consumer research panel, or similar type of activity; or
+    * otherwise participate in features of our website that ask for personal information.
 
-**Uses and Disclosures Not Requiring Your Authorization.   **In the following circumstances, we may disclose your health information without your written authorization:
 
-·        To family members or close friends who are involved in your health care;
 
-·        For certain limited research purposes;
+Your participation in any of these activities is entirely voluntary. We may use the information you provide to respond to your questions or comments, to administer our promotions and websites, to fulfill your request, subscription, or order, to provide you with a customized interactive experience, or to otherwise provide or improve our products and services. Based on the information you provide, we also may obtain additional information about you, such as U.S. Postal Service address change data or demographic information, from commercially available sources.
 
-·        For purposes of public health and safety;
+We will not send you any online newsletter or similar e-mail communication unless you expressly consent to receive such a communication from us. And if you do choose to receive any such e-mail communication from us, you will always have the opportunity to “unsubscribe” from receiving the e-mail at any time.
 
-·        To Government agencies for purposes of their audits, investigations and other oversight activities;
+**How do we use cookies, web beacons, or similar technologies?**  
+We may employ cookie technology, web beacons, transparent GIF images, and similar devices to facilitate website administration and navigation and to provide an enhanced online experience for our visitors. Information tracked through these mechanisms includes but is not limited to (1) a user’s IP address (2) the type of web browser and operating system being used, (3) the pages of the website a user visits, and (4) other websites a user visited before visiting our website. These devices may also be used on our behalf by third parties managing our advertising on other websites to enable us to learn which advertisements bring visitors to our websites and to otherwise improve our online advertising.
 
-·        To government authorities to prevent child abuse or domestic violence;
+Most browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. Please note that if you disable cookies, you may be unable to access some customized features on our website.
 
-·        To the FDA to report product defects or incidents;
+Devices like web beacons and transparent GIF images are tiny or transparent graphics that allow us to count the number of users who have visited a particular web page or to access certain cookies. We may use these graphics on our websites to count users and to recognize users by accessing our cookies. Being able to access our cookies allows us to personalize our website and improve your experience at our website. We may also include these graphics in HTML-formatted e-mail messages that we send to determine which e-mail messages were opened.
 
-·        To law enforcement authorities to protect public safety or to assist in apprehending criminal offenders;
+**When we might provide other parties with your personal information**  
+Except as set forth in this Privacy Policy, WinCo Foods will not share your personal information with other unaffiliated companies.
 
-·        When required by court orders, search warrants, subpoenas and as otherwise required by the law.
+We may provide your personal information to third parties who provide services on our behalf. These parties may use the information solely in conjunction with the specific services they provide for us (e.g., fulfillment of an order, responding to your question or comment, providing a sweepstakes prize, deployment of a consumer survey, investigation of a complaint, etc.).
 
-**Plan Participant Rights.**   As a plan participant, you have the following rights:
+Some of these third parties may be involved in administering or supplementing our databases and will need to have access to the information in order to do so.
 
-·        To have access to and/or a copy of your health information;
+WinCo will not transfer or sell any information except in the event of a sale of of our business or assets to a third party. We also reserve the right to share information within WinCo Foods among our various businesses.
 
-·        To receive an accounting of certain disclosures we have made of your health information;
+We reserve the right to disclose any personal information as needed if such information is requested by law enforcement agencies or if we are required to do so by law, regulation, subpoena, court order, or by a government entity. We also may disclose personal information to third parties if we have reason to believe that disclosing such information is necessary to conduct investigations of possible breaches of law or legal rights, to cooperate in any legal investigation, or to identify, contact, or bring legal action against someone who may be violating the terms of use of our website or any other terms applicable to any activity or feature of our website.
 
-·        To request restrictions as to how your health information is used or disclosed;
+**Personal information we may receive from third-party social-networking services**  
+If you choose to access or make use of third-party social-networking services (such as Facebook or Twitter), we may receive personal information about you that you have made available to those services, including information about your contacts on those services. For example, some social-networking services allow you to push content from our website to your contacts or to pull information about your contacts so you can connect with them on our website. Some social-networking services facilitate your registration for our website or enhance or personalize your experience on our website. Your decision to use a social-networking service will always be voluntary. However, you should make sure you are comfortable with the information your third-party social-networking services may make available to our website by visiting those services’ privacy policies and by modifying your privacy settings directly on those services. Any personal information we receive through third-party social-networking services may be used as described above.
 
-·        To request that we communicate with you in confidence;
+**Links to other sites**  
+Our website may contain links to the websites of our subsidiaries and affiliates, and to websites that are owned and operated by third parties. These other websites may have their own privacy policies and are not be governed by this Privacy Policy. We are not responsible for the privacy practices or the content of websites owned and operated by any such third parties. Other websites may collect and treat information collected differently, so we encourage you to carefully read and review the privacy policy for each website you visit.
 
-·        To request that we amend your health information;
+**User-generated content and public profile features**  
+This website may, from time to time, contain interactive areas where website users might submit comments or other content (including information about the user that might be displayed in the user’s public profile within an online community) that may be posted on the website or otherwise published. Users who do this should be aware that when they voluntarily disclose personally identifiable information (e.g., name, e-mail address, etc.) in content submitted for posting or publication, the information can be read and used by others. This may result in unsolicited messages from other posters or parties. We make no representations and undertake no obligations as to the security or use of information you voluntarily include when submitting content.
 
-·        To receive notice of our privacy practices.
+**Send-to-a-friend tools**  
+This website may, from time to time, include a send-to-a-friend application that makes it easy for you to forward information or materials from our website to friends or family by e-mail. In order to address your e-mail message, the application may ask you to input the recipient’s e-mail address and/or similar information (including your e-mail address). This information is only used by the application to address your message so that it can be properly sent. The information will not be retained for any other purpose.
 
-If you have a question, concern or complaint regarding our privacy practices, please refer to the attached Notice of Privacy Practices for the person or persons whom you may contact.
+**Children’s privacy**  
+This website is not directed to children and we will not request any information from children under 13 at this website.
 
-**WinCo Foods, Inc.**
+**United States only**  
+This website is intended for use by residents of the United States of America only. All matters relating to this website are governed by the laws of the United States. If you are located outside of the United States and you contact us, please be advised that any information you provide to us will be transferred to the United States and that by submitting information you explicitly authorize this transfer and the processing of this information within the United States.
 
-**NOTICE OF PRIVACY PRACTICES**
+**Changes in our online privacy policy**  
+We reserve the right to change or replace this Privacy Policy at our sole discretion at any time. Please check back from time to time to ensure that you are aware of any updates or changes in this Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information gathered via this website.
 
-**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.**
+**Your consent to the terms of this privacy policy**  
+By using this website, you signify your assent to all of the terms of this Privacy Policy and this website’s Terms of Use. If you do not agree with any term of this Privacy Policy or our Terms of Use, please do not use this website or submit any personally identifiable information.
 
-**PLEASE REVIEW IT CAREFULLY.   THE PRIVACY OF YOUR MEDICAL INFORMATION IS IMPORTANT TO US.**
+**Your control over your information**  
+You always have the right to review and update the information that you previously provided to us at this website. You may contact us as described immediately below in order to arrange this or to ask us to remove you from our list of email addresses to which we send email newsletters. All of our email newsletters also contain an “unsubscribe” link that you can click through to unsubscribe from future emails.
 
-**_Our Legal Duty_**
+**How to contact us**  
+If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/contact). You may also reach us by telephone at 800.824.1706 weekdays from 8:30 a.m. – 5:30 p.m. Mountain Time.
 
-We are required by applicable federal and state laws to maintain the privacy of your protected health information.  We are also required to give you this notice about our privacy practices, our legal duties, and your rights concerning your protected health information.  We must follow the privacy practices that are described in this notice while it is in effect.  This notice takes effect ** April 14, 2003**, and will remain in effect until we replace it.
-
-We reserve the right to change our privacy practices and the terms of this notice at any time, provided that such changes are permitted by applicable law.  We reserve the right to make the changes in our privacy practices and the new terms of our notice effective for all protected health information that we maintain, including medical information we created or received before we made the changes.
-
-You may request a copy of our notice (or any subsequent revised notice) at any time.  For more information about our privacy practices, or for additional copies of this notice, please contact us using the information listed at the end of this notice
-
-**Uses and Disclosures of Protected Health Information**
-
-We will use and disclose your protected health information about you for treatment, payment, and health care operations. 
-
-Following are examples of the types of uses and disclosures of your protected health care information that may occur. These examples are not meant to be exhaustive, but to describe the types of uses and disclosures that may be made by our office. 
-
-** Treatment:**  We may disclose your medical information to a doctor or a hospital which asks us for it to assist in your treatment.
-
-** Payment:  ** We may use and disclose your medical information to pay claims from doctors, hospitals and other providers for services delivered to you that are covered by your health plan, to determine your eligibility for benefits, to coordinate benefits, to examine medical necessity, to obtain premiums, to issue explanations of benefits to the person who subscribes to the health plan in which you participate, and the like.
-
-** Health Care Operations:**  We may use and disclose your medical information to rate our risk, to conduct quality assessment and improvement activities, to credential providers, to engage in care coordination or case management, to manage our business, and the like.
-
-We will share your protected health information with third party “business associates” that perform various activities (e.g., billing, transcription services) for the Company. Whenever an arrangement between our office and a business associate involves the use or disclosure of your protected health information, we will have a written contract that contains terms that will protect the privacy of your protected health information. 
-
-We may use or disclose your protected health information, as necessary, to provide you with information about treatment alternatives or other health-related benefits and services that may be of interest to you. We may also use and disclose your protected health information for other marketing activities. For example, your name and address may be used to send you a newsletter about benefits available to you under the Company benefits plan. We may also send you information about products or services that we believe may be beneficial to you. You may contact us to request that these materials not be sent to you. 
-
-** Uses and Disclosures Based On Your Written Authorization:  ** Other uses and disclosures of your protected health information will be made only with your authorization, unless otherwise permitted or required by law as described below.
-
-You may give us written authorization to use your protected health information or to disclose it to anyone for any purpose.  If you give us an authorization, you may revoke it in writing at any time.  Your revocation will not affect any use or disclosures permitted by your authorization while it was in effect.  Without your written authorization, we will not disclose your health care information except as described in this notice.
-
-** WinCo Foods, Inc. Personnel:**  We may disclose your medical information to Company personnel to permit them to perform plan administration functions.  Please see your group health plan document for a full explanation of the limited uses and disclosures that the Company may make of your medical information in providing plan administration.
-
-** Others Involved in Your Health Care:** Unless you object, we may disclose to a member of your family, a relative, a close friend or any other person you identify, your protected health information that directly relates to that person’s involvement in your health care. If you are unable to agree or object to such a disclosure, we may disclose such information as necessary if we determine that it is in your best interest based on our professional judgment. We may use or disclose protected health information to notify or assist in notifying a family member, personal representative or any other person that is responsible for your care of your location, general condition or death.
-
-**Marketing:   ** We may use your protected health information to contact you with information about treatment alternatives that may be of interest to you.  We may disclose your protected health information to a business associate to assist us in these activities.  Unless the information is provided to you by a general newsletter or in person or is for products or services of nominal value, you may opt out of receiving further such information by telling us using the contact information listed at the end of this notice.
-
-**Coroners or Funeral Directors:**   We may disclose the protected health information of a deceased person to a coroner, protected health examiner, funeral director or organ procurement organization for certain purposes.
-
-**Public Health and Safety:   **We may disclose your protected health information to the extent necessary to avert a serious and imminent threat to your health or safety, or the health or safety of others.  We may disclose your protected health information to a government agency authorized to oversee the health care system or government programs or its contractors, and to public health authorities for public health purposes.
-
-** Health Oversight:** We may disclose protected health information to a health oversight agency for activities authorized by law, such as audits, investigations and inspections. Oversight agencies seeking this information include government agencies that oversee the health care system, government benefit programs, other government regulatory programs and civil rights laws. 
-
-** Abuse or Neglect:** We may disclose your protected health information to a public health authority that is authorized by law to receive reports of child abuse or neglect. In addition, we may disclose your protected health information if we believe that you have been a victim of abuse, neglect or domestic violence to the governmental entity or agency authorized to receive such information. In this case, the disclosure will be made consistent with the requirements of applicable federal and state laws. 
-
-** Food and Drug Administration:** We may disclose your protected health information to a person or company required by the Food and Drug Administration to report adverse events, product defects or problems, biologic product deviations, to track products; to enable product recalls; to make repairs or replacements; or to conduct post marketing surveillance, as required. 
-
-** Criminal Activity:** Consistent with applicable federal and state laws, we may disclose your protected health information, if we believe that the use or disclosure is necessary to prevent or lessen a serious and imminent threat to the health or safety of a person or the public. We may also disclose protected health information if it is necessary for law enforcement authorities to identify or apprehend an individual. 
-
-**Required by Law:   ** We may use or disclose your protected health information when we are required to do so by law.  For example, we must disclose your protected health information to the U.S. Department of Health and Human Services upon request for purposes of determining whether we are in compliance with federal privacy laws.  We may disclose your protected health information when authorized by workers’ compensation or similar laws.
-
-**Process and Proceedings:**   We may disclose your protected health information in response to a court or administrative order, subpoena, discovery request or other lawful process, under certain circumstances.  Under limited circumstances, such as a court order, warrant or grand jury subpoena, we may disclose your protected health information to law enforcement officials.
-
-**Law Enforcement:**   We may disclose limited information to a law enforcement official concerning the protected health information of a suspect, fugitive, material witness, crime victim or missing person.   We may disclose the protected health information of an inmate or other person in lawful custody to a law enforcement official or correctional institution under certain circumstances.  We may disclose protected health information where necessary to assist law enforcement officials to capture an individual who has admitted to participation in a crime or has escaped from lawful custody. 
-
-#####  Plan Participant Rights
-
-**         Access:**  You have the right to look at or get copies of your protected health information, with limited exceptions. You must make a request in writing to the contact person listed herein to obtain access to your protected health information. You may also request access by sending us a letter to the address at the end of this notice.  If you request copies, we will charge you .25¢ for each page, $15.00 per hour for staff time to locate and copy your protected health information, and postage if you want the copies mailed to you. If you prefer, we will prepare a summary or an explanation of your protected health information for a fee.  Contact us using the information listed at the end of this notice for a full explanation of our fee structure.
-
-**Accounting of Disclosures:   **You have the right to receive a list of instances in which we or our business associates disclosed your protected health information for purposes other than treatment, payment, health care operations and certain other activities after April 14, 2003. After April 14, 2009, the accounting will be provided for the past six (6) years.  We will provide you with the date on which we made the disclosure, the name of the person or entity to whom we disclosed your protected health information, a description of the protected health information we disclosed, the reason for the disclosure, and certain other information.  If you request this list more than once in a 12-month period, we may charge you a reasonable, cost-based fee for responding to these additional requests.  Contact us using the information listed at the end of this notice for a full explanation of our fee structure.
-
-**Restriction Requests:   **You have the right to request that we place additional restrictions on our use or disclosure of your protected health information.  We are not required to agree to these additional restrictions, but if we do, we will abide by our agreement (except in an emergency).  Any agreement we may make to a request for additional restrictions must be in writing signed by a person authorized to make such an agreement on our behalf.  We will not be bound unless our agreement is so memorialized in writing.
-
-**Confidential Communication:   **You have the right to request that we communicate with you in confidence about your protected health information by alternative means or to an alternative location.  You must make your request in writing. **** We must accommodate your request if it is reasonable, specifies the alternative means or location, and continues to permit us to bill and collect payment from you.
-
-**Amendment:   ** You have the right to request that we amend your protected health information.  Your request must be in writing, and it must explain why the information should be amended.  We may deny your request if we did not create the information you want amended or for certain other reasons.  If we deny your request, we will provide you a written explanation.  You may respond with a statement of disagreement to be appended to the information you wanted amended.  If we accept your request to amend the information, we will make reasonable efforts to inform others, including people or entities you name, of the amendment and to include the changes in any future disclosures of that information.
-
-**Electronic Notice:   ** If you receive this notice on our website or by electronic mail (e-mail), you are entitled to receive this notice in written form.  Please contact us using the information listed at the end of this notice to obtain this notice in written form.
-
-        If you want more information about our privacy practices or have questions or concerns, please contact us using the information below.
-
-If you believe that we may have violated your privacy rights, or you disagree with a decision we made about access to your protected health information or in response to a request you made, you may complain to us using the contact information below.  You also may submit a written complaint to the U.S. Department of Health and Human Services.  We will provide you with the address to file your complaint with the U.S. Department of Health and Human Services upon request.
-
-We support your right to protect the privacy of your protected health information.  We will not retaliate in any way if you choose to file a complaint with us or with the U.S. Department of Health and Human Services.
-
-**Name of Contact Person: Ray Sagarik**
-
-**Telephone:   (208) 377-0110              Fax:  (208) 377-0474          **
-
-**Confidential faxes can be sent (effective May 1, 2003) to:   (208) 672-2025**
-
-**Address:   650 N. Armstrong Place, Boise, Idaho  83704**
-
-            **Under Washington State Law, you have these additional rights and restrictions:**
-
-**             **_No Charges for Copies of Your Health Records_.  If you request a copy of your health record as maintained by the company benefits department, we will not charge you for the first set of such copies.  In the alternative, we can provide you with the records and ask that you copy them at your own expense.  For additional sets of copies, we may charge you for the actual cost of copying the records, including labor, and postage if you ask us to mail the records to you.  These charges will not exceed .65¢ for pages 1 through 30, and .50¢ per page for pages 31 and over.  The labor fee will not exceed $15.00 per request.  (The above charges may be adjusted biennially pursuant to the Consumer Price Index.) 
-
-            _Expiration of Authorization_.  Any authorization you sign for the release of your health information will expire automatically within ninety (90) days if you have not put a different expiration date on the authorization form. 
-
-            _Access to Your Health Information_.  We will provide you with access to your health information within fifteen (15) working days from the date of your written request, unless we are prevented from doing so by extenuating and unusual circumstances.  If you so request, we will also allow access to your designated representative pursuant to your written request. 
-
-            **Under California State Law, you have these additional rights and restrictions:**
-
-**             **_No Re-Disclosure of Your Health Information_.  We will not re-disclose your health information which we have received by means of your written authorization except as authorized by you in writing, or except as allowed by state and federal law. 
-
-            _Communication of Limitations in Your Authorization to Release Records_.  If we disclose your health information pursuant to your written authorization which includes some limitation upon the recipient’s use or  disclosure of that information, we will communicate that limitation to the recipient of your health information. 
-
-            _No Discrimination for Refusing to Sign an Authorization_.  We will not discriminate against you for refusing to sign an authorization for release of your health information. 
-
-            _Disclosure of Employee Health Information_.  We will not use or disclose your health information without your written authorization except where:  (a) we are compelled to do so by a court order or administrative process; (b) the health information is relevant to a lawsuit, arbitration or grievance to which you and the company are parties and in which you have put your mental or physical condition at issue; in such event, your health information may be disclosed only in connection with that proceeding; (c) your health information must be used to administer the company’s employee benefit plan; and (d) your health information is necessary to be disclosed to a health care provider, health care professional or health care facility to aid in your diagnosis or treatment and you are unable to authorize the disclosure.  Otherwise, we will not disclose your health information except pursuant to a valid authorization. 
-
-            _Charges for Copies of Your Records_.  If you request a copy of your medical records, we may charge for the cost of the copies, including labor to make the copies.  These charges will not exceed .25¢ per page for copies, and actual labor.
-
-| 
+Comments are closed.
