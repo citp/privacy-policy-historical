@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231140155id_/http%3A//www.nrcc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513015634id_/http%3A//www.nrcc.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - National Republican Congressional Committee
+# Privacy Policy - National Republican Congressional Committee www.nrcc.org
 
 Welcome to the official Web site of the National Republican Congressional Committee. The NRCC knows your right to privacy is important, especially online. This privacy policy has been created to answer any questions you may have regarding the NRCC’s data collection and protection policies.
 
