@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031210304id_/http%3A//www.asa.org.uk/General/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512023957id_/http%3A//www.asa.org.uk/General/Privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Advertising Standards Authority
 
@@ -8,9 +8,9 @@
 
 This is the Privacy Policy of the Advertising Standards Authority Limited (ASA), Mid City Place, 71 High Holborn, London WC1V 6QT.
 
-The ASA takes its responsibilities on the confidentiality of your personal information very seriously. To comply with the Data Protection Act, processing by the Advertising Standards Authority (ASA), the Advertising Standards Authority (Broadcast) Ltd (ASA(B)), the Committee of Advertising Practice (CAP) and the Broadcast Committee of Advertising Practice (BCAP) Ltd is covered by notifications with the Information Commissioner’s Office.
+The ASA takes its responsibilities on the confidentiality of your personal information very seriously. To comply with the Data Protection Act, processing by the Advertising Standards Authority Ltd (ASA), the Advertising Standards Authority (Broadcast) Ltd (ASA(B)), the Committee of Advertising Practice Ltd (CAP) and the Broadcast Committee of Advertising Practice Ltd (BCAP) is covered by notifications with the Information Commissioner’s Office.
 
-Our Privacy Policy is set out below. Please read this Policy with care; it describes how we will process your data. If you have any questions or comments, e-mail [data.protection@asa.org.uk](mailto:data.protection@asa.org.uk).
+Our Privacy Policy is set out below. Please read this Policy with care; it describes how we will process your data. If you have any questions or comments, email [data.protection@asa.org.uk](mailto:data.protection@asa.org.uk).
 
 ### Where your data is held
 
@@ -26,7 +26,7 @@ As well as name and contact details, we ask you to supply information about the 
 
 ### What we do with your data and what we don’t do
 
-We shall process the data you supply to give you information and advice about your complaint. If you have given your consent, we may communicate with you via e-mail, SMS, post or telephone about the activities of the ASA, ASA(B), CAP and BCAP.  We will not share your data for marketing purposes outside the ASA, ASA (Broadcast), CAP and BCAP.
+We shall process the data you supply to give you information and advice about your complaint. If you have given your consent, we may communicate with you via e-mail, SMS, post or telephone about the activities of the ASA, ASA(B), CAP and BCAP.  We will not share your data for marketing purposes outside the ASA, ASA(B), CAP and BCAP.
 
 This website explains how to subscribe to ASA and CAP communications. If you want to update your personal data and preferences for communications from us please go to login and go to My Account. 
 
@@ -40,7 +40,11 @@ You have the right to ask ASA for a copy of the personal information ASA, ASA(B)
 
 ### Cookie Policy
 
-The ASA website cookie can be found [here](https://web.archive.org/General/Cookie-Policy.aspx) and informs users what cookies are used on this site and how to manage them.
+The ASA website cookie policy can be found [here](https://web.archive.org/General/Cookie-Policy.aspx) and informs users what cookies are used on this site and how to manage them.
+
+### Newsletters 
+
+Our e-newsletters will be used to inform you of news related to ASA and CAP, including events. Our subscription lists will not be sold, rented or leased to any third-parties. We use code within our e-newsletter template to identify open rates and click through rates. This enables us to identify which individuals have opened the message or clicked on links within it and better tailor any follow-up communications. You can remove your name from the subscription lists at any time by logging in to My Account or clicking on the unsubscribe link within the newsletter.
 
 ### Copyright
 
