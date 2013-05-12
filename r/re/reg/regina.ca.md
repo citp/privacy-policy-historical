@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109171328id_/http%3A//regina.ca/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512125238id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
 
 # Regina.ca Privacy Policy - City of Regina
 
@@ -67,13 +67,13 @@ Regina, SK S4P 3C8
 
 The City relies on your assistance to help maintain the accuracy and completeness of your personal information. Your information is retained for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required or permitted by law.
 
-You can help ensure that your contact information is accurate, complete, and up to date by contacting Service Regina at 777-7000 or by using the [Contact Us form](https://web.archive.org/site/contact/online-request-form/index.html "contact us form").
+You can help ensure that your contact information is accurate, complete, and up to date by contacting Service Regina at 306-777-7000 or by using the [Contact Us form](https://web.archive.org/site/contact/online-request-form/index.html "contact us form").
 
 ## How do I access my personal information at the City?
 
-If you have questions about your personal information or would like access to your information please feel free to contact Service Regina at 777-7000 and they can assist you.
+If you have questions about your personal information or would like access to your information please feel free to contact Service Regina at 306-777-7000 and they can assist you.
 
-If your request for information appears to require a disproportionate technical effort, jeopardize the privacy of others, seems extremely impractical or if there is concern over whether or not the request is permitted by law, you may be directed to make a Freedom of Information (FOI) Request. Information regarding the freedom of information process at the City of Regina as well as a downloadable application form is available on our [website](https://web.archive.org/residents/council-committees/learn-city-clerk/access_to_information_and_protection_of_privacy/) or by contacting the Access to Information and Privacy Coordinator (777-7070) at the City of Regina.
+If your request for information appears to require a disproportionate technical effort, jeopardize the privacy of others, seems extremely impractical or if there is concern over whether or not the request is permitted by law, you may be directed to make a Freedom of Information (FOI) Request. Information regarding the freedom of information process at the City of Regina as well as a downloadable application form is available on our [website](https://web.archive.org/residents/council-committees/learn-city-clerk/access_to_information_and_protection_of_privacy/) or by contacting the Access to Information and Privacy Coordinator (306-777-7070) at the City of Regina.
 
 ## Links
 
@@ -89,5 +89,6 @@ Follow these program links for additional information on how the City protects y
 
   * [Licence your Dog ](https://web.archive.org/residents/licences/licence-your-dog/)
   * [Licence your Cat ](https://web.archive.org/residents/licences/license-your-cat/)
+  * [Cameras on Regina Transit ](http://www.regina.ca/residents/transit-services/)
 
 
