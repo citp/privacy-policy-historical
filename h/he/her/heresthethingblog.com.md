@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heresthethingblog.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018131826id_/http%3A//heresthethingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heresthethingblog.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512161207id_/http%3A//heresthethingblog.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | here's the thing
 
@@ -8,21 +8,21 @@ Ben Patterson and Here’s the Thing (“HTT”), realize the importance of feel
 
 PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE HTT SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
-1\. [How HTT Collects Information](http://heresthethingblog.com/privacy-policy/#one)
+1\. How HTT Collects Information
 
 A. Personal Data You Provide  
 B. Information HTT Collects
 
-2\. [Our Use of Your Information](http://heresthethingblog.com/privacy-policy/#two)  
-3\. [Disclosure of Personally Identifiable Information to Third Parties](http://heresthethingblog.com/privacy-policy/#three)  
-4\. [HTT Opt-in/Opt-out Policy](http://heresthethingblog.com/privacy-policy/#four)  
-5\. [Third-Party Advertising and Links to Other Sites](http://heresthethingblog.com/privacy-policy/#five)  
-6\. [Guidelines Regarding Children](http://heresthethingblog.com/privacy-policy/#six)  
-7\. [Public Forums/Chat Rooms/Message Boards/Bulletin Boards/Social Networking](http://heresthethingblog.com/privacy-policy/#seven)  
-8\. [How We Protect and Secure Your Information](http://heresthethingblog.com/privacy-policy/#eight)  
-9\. [Applicable Law](http://heresthethingblog.com/privacy-policy/#nine)  
-10\. [Changes to This Privacy Policy](http://heresthethingblog.com/privacy-policy/#ten)  
-11\. [Contact Information](http://heresthethingblog.com/privacy-policy/#eleven)
+2\. Our Use of Your Information  
+3\. Disclosure of Personally Identifiable Information to Third Parties  
+4\. HTT Opt-in/Opt-out Policy  
+5\. Third-Party Advertising and Links to Other Sites  
+6\. Guidelines Regarding Children  
+7\. Public Forums/Chat Rooms/Message Boards/Bulletin Boards/Social Networking  
+8\. How We Protect and Secure Your Information  
+9\. Applicable Law  
+10\. Changes to This Privacy Policy  
+11\. Contact Information
 
 **1.How HTT Collects Information**
 
