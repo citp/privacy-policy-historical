@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanewspost.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213063114id_/http%3A//www.africanewspost.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanewspost.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512063130id_/http%3A//www.africanewspost.com/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy | AFRICA NEWS POST
 
@@ -32,11 +32,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+[](http://www.linkwithin.com/)
+
 ## Disclaimer
-
-_The views expressed on this op-ed/blog are solely those of the author and do not reflect the opinions of Africa Newspost, or any other_ ___individual_ _, organization, or institution. The content on this op-ed/blog is not intended to malign any religion,_ ___ethnic group_ _, club, organization, company, or individual. The author himself is_ ___responsible for_ ___the content of the posts on this op-ed/blog, not any other organization or institution which he might be seen to represent. The author is not responsible, nor will he be held liable, for any statements made by others on this op-ed/blog in the op-ed blog comments, nor_ ___the laws_ ___which they may_ _break_ ___in this country or their own, through their comments’ content, implication, and intent. The author reserves the right to delete comments if and when necessary. The author is not responsible for the content or_ _activities_ ___of any sites linked from this op-ed/blog. Unless otherwise indicated, all translations and other content on here are original works of the op-ed/blog author and the_ ___copyrights_ ___for those works belong to the author._
-
-  
-
 
 [ ](https://www.blogger.com/rearrange?blogID=7504661666009118330&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
