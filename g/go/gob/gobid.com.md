@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gobid.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024183245id_/http%3A//unseat.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobid.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512044740id_/http%3A//unseat.me/privacy-policy) for the most accurate reproduction.*
 
 # Share Tickets | unseat.me
 
 ## Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to the unseat.me and unseat.me, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to unseat.me, Inc. include unseat.me, unseat.me, unseatme.com and unseatme.com. The unseat.me website is a Social Network site. By using the unseat.me website, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to the unseat.me and unseat.me, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to unseat.me, Inc. include unseat.me, unseat.me, unseatme.com and unseatme.com. The unseat.me website is a Social Network and marketplace site. By using the unseat.me website, you consent to the data practices described in this statement.
 
 ### Collection of your Personal Information
 
-unseat.me may collect personally identifiable information, such as your name. If you purchase unseat.me's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. unseat.me may also collect anonymous demographic information, which is not unique to you, such as your age. We may gather additional personal or non-personal information in the future.
+unseat.me may collect personally identifiable information, such as your name and email address. If you purchase unseat.me's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. unseat.me may also collect anonymous demographic information, which is not unique to you, such as your age. We may gather additional personal or non-personal information in the future.
 
 Information about your computer hardware and software may be automatically collected by unseat.me. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the unseat.me website.
 
@@ -48,7 +48,7 @@ unseat.me does not knowingly collect personally identifiable information from ch
 
 ### Opt-Out & Unsubscribe
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from unseat.me by contacting us using the contact information provided below.
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from unseat.me via tools on your account settings page.
 
 ### Changes to this Statement
 
@@ -59,7 +59,7 @@ unseat.me will occasionally update this Statement of Privacy to reflect company 
 unseat.me welcomes your questions or comments regarding this Statement of Privacy. If you believe that unseat.me has not adhered to this Statement, please contact unseat.me at:
 
 unseat.me, Inc.  
-2130 Fillmore Street #212  
+2184 Sutter Street #212  
 San Francisco, California 94115
 
 Email Address:  
