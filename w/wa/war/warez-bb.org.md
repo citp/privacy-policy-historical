@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warez-bb.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214024712id_/http%3A//www.warez-bb.org/profile.php%3Fmode%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warez-bb.org privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512141234id_/http%3A//www.warez-bb.org/profile.php%3Fmode%3Dpp) for the most accurate reproduction.*
 
 # :: Warez-BB.org
 
