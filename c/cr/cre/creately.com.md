@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the creately.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043336id_/http%3A//creately.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creately.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512103124id_/http%3A//creately.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Creately
 
 ### Introduction
 
-Cinergix is committed to protecting your privacy and maintaining the security of any personal information received from you. We take the privacy and security of your personal information seriously and will only use such information as set out in this Privacy Statement.
+[](https://privacy.truste.com/privacy-seal/Cinergix-Pty-Ltd/validation?validationId=b0bb1969-02c2-402b-b63c-174f4b106f96 "Cinergix Pty Ltd Privacy Seal Certification")Cinergix is committed to protecting your privacy and maintaining the security of any personal information received from you. We take the privacy and security of your personal information seriously and will only use such information as set out in this Privacy Statement.
 
 References in this Privacy Statement to the Website are references to the websites [www.creately.com](http://creately.com/) and [www.cinergix.com](http://cinergix.com/), as applicable, together with any subsequent URL used by Cinergix from time to time.
 
