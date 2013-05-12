@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevenalan.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024233116id_/http%3A//www.stevenalan.com/Privacy-Policy-Terms/cs-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenalan.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512112821id_/http%3A//www.stevenalan.com/Privacy-Policy-Terms/cs-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Steven Alan - Privacy Policy & Terms
 
