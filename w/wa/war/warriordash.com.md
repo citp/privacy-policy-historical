@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the warriordash.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203042025id_/http%3A//www.warriordash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriordash.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512022849id_/http%3A//www.warriordash.com/privacy.php) for the most accurate reproduction.*
 
-# Warrior Dash | Information
-
-**PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
+# Privacy Policies | Warrior Dash
 
 This site is owned and operated by RED FROG EVENTS, LLC ("RFE"). Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.
 
