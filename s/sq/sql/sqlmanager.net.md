@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511120156id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512135414id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
 
 # EMS SQL Manager - Privacy Policy
 
@@ -63,5 +63,5 @@ The EMS Customer Privacy Policy is subject to change at any time. We encourage y
 **Contact Information**  
 EMS welcomes your comments regarding this privacy policy, please contact us at [privacy@SQLManager.net](mailto:privacy@sqlmanager.net)
 
-Last updated - 2012  
-© 1999-2012 EMS Database Management Solutions, Inc. All rights reserved.
+Last updated - 2013  
+© 1999-2013 EMS Database Management Solutions, Inc. All rights reserved.
