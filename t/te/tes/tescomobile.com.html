@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tescomobile.com privacy policy that was archived on 2012-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613024750id_/http%3A//phone-shop.tesco.com/tesco-mobile/about-us/terms-paym-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tescomobile.com privacy policy that was archived on 2013-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130512210403id_/http%3A//phone-shop.tesco.com/tesco-mobile/about-us/terms-paym-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <!--TagMan Implementation-->
@@ -19,7 +19,6 @@
         tmParam["total_items"] = "0";
         tmParam["currency"] = "GBP";
         tmParam["product_price_string"] = "";
-
         TMAN.addContainer(new TMAN.Container('tescom', tmPageId, { host: 'http://pfa.levexis.com', async: false, tagsTimeout: 0, attribution: true, landingPageMins: 0, param: tmParam, _serverCall: 'tman.cgi' }));
         TMAN.doTags(TMAN.position.TOP_HEAD);
     </script>
@@ -74,14 +73,86 @@
     <link rel="shortcut icon" href="/tesco-mobile/favicon.ico">
 </head>
 <body>
+	<!------------------------------- Cookie Banner ------------------------>
+    
+<div id="tesco_cookie_widget" style="text-align: center; font-size: 12px;
+    color:#ffffff;line-height: 100%; position: relative; width:982px; margin: 0 auto 5px auto; padding: 5px 10px;
+    background: #b5e5f1; z-index: 100000; overflow:hidden; color:#000">
+    
+        <span>We use cookies to give you the best possible experience on our site. By continuing 
+        to use the site you agree to our use of cookies. <a href="/tesco-mobile/about-us/privacy-and-cookies-policy.aspx#section5" target="_blank" title="Find out more">Find out more.</a></span>
+
+        <button id="tesco_cookie_accept" onclick="tesco_cookie_accept();return false;">
+            Close</button>
+    
+        
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+    var tesco_cookie_timeout = 0;
+    var tesco_cookie_functions = [];
+    var tesco_cookie_widget = document.getElementById('tesco_cookie_widget');
+    var results = document.cookie.match('(^|;) ?tesco_cookie_widget=([^;]*)(;|$)');
+    if (results) {
+        if (1 == unescape(results[2])) {
+            tesco_cookie_accept();
+        }
+    } else {
+        window.onload = function () {
+            for (var i = 0; i < document.links.length; i++) {
+                var link_href = document.links[i].getAttribute('href');
+                if ('privacy' != document.links[i].getAttribute('rel') && (!/^[\w]+:/.test(link_href) || (new RegExp('^[\\w]+://[\\w\\d\\-\\.]*' + window.location.host)).test(link_href))) {
+                    var current_onclick = document.links[i].onclick;
+                    document.links[i].onclick = function () { tesco_cookie_accept(); if (Object.prototype.toString.call(current_onclick) == '[object Function]') { current_onclick(); } };
+                }
+            }
+        };
+    }
+
+    var tesco_cookie_timer;
+    if (tesco_cookie_timeout > 0) {
+        tesco_cookie_timer = setTimeout('tesco_cookie_tick()', 1000);
+    } else {
+        var tesco_cookie_wait = document.getElementById('tesco_cookie_wait');
+        if (null != tesco_cookie_wait) {
+            tesco_cookie_wait.parentNode.removeChild(tesco_cookie_wait);
+        }
+    }
+    function tesco_cookie_tick() {
+        if (0 >= --tesco_cookie_timeout) {
+            tesco_cookie_accept();
+            return;
+        }
+        var tesco_cookie_accept_button = document.getElementById('tesco_cookie_accept');
+        if (null != tesco_cookie_accept_button) {
+            tesco_cookie_accept_button.innerHTML = 'Yes (' + tesco_cookie_timeout + ')';
+            tesco_cookie_timer = setTimeout('tesco_cookie_tick()', 1000);
+        }
+    }
+
+
+    function tesco_cookie_accept() {
+        clearTimeout(tesco_cookie_timer);
+        document.cookie = 'tesco_cookie_widget=1; path=/; expires=Mon, 18 Jan 2038 03:14:00 GMT';
+        tesco_cookie_widget.parentNode.removeChild(tesco_cookie_widget);
+        for (var i = 0; i < tesco_cookie_functions.length; i++) {
+            tesco_cookie_functions[i]();
+        }
+    }
+//]]>
+</script>
+
+<!------------------------------- End Cookie Banner ------------------------>
     <!--TagMan Implementation-->
     <script type="text/javascript">        TMAN.doTags(TMAN.position.TOP_BODY);</script>
     <!--TagMan End -->
     <form name="formMain" method="post" action="/tesco-mobile/about-us/terms-paym-privacy.aspx" id="formMain">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzODk2NTc2NDNkZD+z9xvvUG04hpapnwxIVvmJYY6m">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE2OTQ1NTUyMmRk7otfw8aypXX+r8qo77NDbxbxLXQ=">
 
 
-<script src="/tesco-mobile/ScriptResource.axd?d=eNATBQXFCtKhrg8KxhdzY8IEIipkBmll87AguIVmS00sN_2I5UGQum2L62aZrkMbRmDXnqXgR-08bWF9Atr94_GNXfBJeqVFxSAQ8IshF_A2rTl3Q917TirrErE_IY72bX1C5tB2_xLKep47bOOM9DSncyw1&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script src="/tesco-mobile/ScriptResource.axd?d=eNATBQXFCtKhrg8KxhdzY8IEIipkBmll87AguIVmS00sN_2I5UGQum2L62aZrkMbRmDXnqXgR-08bWF9Atr94_GNXfBJeqVFxSAQ8IshF_A2rTl3Q917TirrErE_IY72bX1C5tB2_xLKep47bOOM9DSncyw1&amp;t=3284cfe3" type="text/javascript"></script>
     
     <div class="pageContainer">
         <div class="header">
@@ -236,15 +307,15 @@
         <div class="footerCol">
             <h3>Shop</h3>
             <ul>
-                <li><a href="http://shop.tescomobile.com/mobile-phones/pay-monthly" title="Pay monthly deals">Pay monthly deals</a></li>
-                <li><a href="http://shop.tescomobile.com/mobile-phones/pay-as-you-go" title="Pay as you go deals">Pay as you go deals</a></li>
-                <li><a href="http://shop.tescomobile.com/sim-only" title="SIM only deals">SIM only deals</a></li>
+                <li><a href="http://shop.tescomobile.com/mobile-phones/pay-monthly" title="Pay monthly phones">Pay monthly phones</a></li>
+                <li><a href="http://shop.tescomobile.com/mobile-phones/pay-as-you-go" title="Pay as you go phones">Pay as you go phones</a></li>
+                <li><a href="http://shop.tescomobile.com/sim-only" title="SIM only ">SIM only </a></li>
                 <li><a href="/tesco-mobile/shop/tariffs.aspx" title="Our tariffs">Our tariffs</a></li>
-                <li><a href="http://download.tesco-mobile.com/" title="Ringtones &amp; games" target="_blank">Ringtones &amp; games</a></li>
                 <li><a href="/tesco-mobile/help-and-support/ways-to-top-up.aspx" title="Ways to top-up">Ways to top-up</a></li>
                 <li><a href="/tesco-mobile/about-us/terms-home.aspx" title="Bulk purchase">Bulk purchase</a></li>
                 <li><a href="https://www.tescomobilerecycle.com/" title="Mobile recycling">Mobile recycling</a></li>
                 <li><a href="/tesco-mobile/existing-customers/upgrading-and-switching.aspx" title="Upgrading &amp; switching">Upgrading &amp; switching</a></li>
+                <li><a href="/tesco-mobile/help-and-support/delivery-info.aspx" title="Delivery information">Delivery information</a></li>
             </ul>
         </div>
         <div class="footerCol">
@@ -258,7 +329,7 @@
                 <li><a href="/tesco-mobile/about-us/returns-policy.aspx" title="Returns policy">Returns policy</a></li>
                 <li><a href="http://www.tesco.com/storeLocator/" title="Store locator">Store locator</a></li>
                 <li><a href="/tesco-mobile/help-and-support/site-map.aspx" title="Site map">Site map</a></li>
-                <li><a href="/tesco-mobile/help-and-support/delivery-info.aspx" title="Delivery information">Delivery information</a></li>
+                <li><a href="/tesco-mobile/about-us/4G.aspx" title="4G">4G</a></li>
             </ul>
         </div>
         <div class="footerCol">
@@ -269,8 +340,8 @@
                 <li><a href="/tesco-mobile/about-us/press-releases.aspx" title="Press releases">Press releases</a></li>
                 <li><a href="/tesco-mobile/about-us/terms-home.aspx" title="Terms &amp; conditions">Terms &amp; conditions</a></li>
                 <li><a href="/tesco-mobile/about-us/terms-paym-privacy.aspx" title="Privacy policy">Privacy policy</a></li>
-                <li><a href="/tesco-mobile/about-us/terms-codeofpractice.aspx" title="Code of practice" target="_blank">Code of practice</a></li>
-                <li><a href="/tesco-mobile/help-and-support/call-charges.aspx" title="Call charges">Call charges</a></li>
+                <li><a href="/tesco-mobile/about-us/terms-codeofpractice.aspx" title="Code of practice " target="_blank">Code of practice </a></li>
+                <li><a href="/tesco-mobile/about-us/terms-codeofpractice.aspx#section17" title="Complaints handling ">Complaints handling </a></li>
                 <li><a href="http://www.tesco.com/help/accessibility/" title="Accessibility" target="_blank">Accessibility</a></li>
                 <li><a href="http://www.o2.co.uk/coveragechecker" title="Network coverage" target="_blank">Network coverage</a></li>
             </ul>
@@ -279,8 +350,12 @@
         	<p>
         		<a href="http://www.tescophoneshop.com/" target="_blank" title="Tesco Phone Shop">Tesco Phone Shop</a> | 
         		<a href="http://direct.tesco.com/" target="_blank" title="Tesco Direct">Tesco Direct</a> | 
-        		<a href="http://www.tescobroadband.com/" target="_blank" title="Tesco Broadband">Tesco Broadband</a> | 
+        		<a href="http://www.tescobroadband.com/?icid=1006" target="_blank" title="Tesco Broadband">Tesco Broadband</a> | 
         		<a href="http://www.tesco.com/" target="_blank" title="Tesco.com">Tesco.com</a>
+        	</p>
+        	<p>
+        		<a href="https://www.facebook.com/tescomobile" target="_blank" title="Join us on Facebook">Join us on Facebook</a> | 
+        		<a href="https://twitter.com/tescomobilecare" target="_blank" title="Follow us on Twitter">Follow us on Twitter</a>
         	</p>
         	<p class="last">Copyright © 2012 Tesco Plc. All rights reserved.</p>
         </div>
