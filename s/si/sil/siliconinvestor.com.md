@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104122316id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512031156id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
 
-# Silicon Investor (SI) -- Invest This!
+# Silicon Investor (SI) -- The First Internet Community
 
+Privacy Policy | [Terms of Use](https://web.archive.org/web/20130512031156id_/http%3A//www.siliconinvestor.com/terms.aspx)   
+  
+  
 Silicon Investor is strongly committed to protecting the privacy of its user community.   
 The intent of this privacy policy is to detail the information Silicon Investor may gather about individuals who visit its Web sites, how that information is used, and Silicon Investor's disclosure practices. Please note that this policy applies only to Silicon Investor's Web sites and not to the Web sites of other companies or organizations to which we provide links. 
 
@@ -9,10 +12,6 @@ The intent of this privacy policy is to detail the information Silicon Investor 
 Silicon Investor gathers "site usage" information from all visitors to the Silicon Investor Web sites. Such data is used in the aggregate, to help determine general usage patterns and fine tune layout in order to ensure that our sites are as useful and enjoyable as possible. This "site usage" and statistical information may be made public information at Silicon Investor's discretion. 
 
 Please note that Silicon Investor does not control all HTML served in conjunction with its sites. Silicon Investor sites may include content from other parties that may perform user activity tracking other than that described herein. In particular, some of our partners may use "cookies" in ways that we do not. 
-
-**Third Party Advertising**
-
-We do not use third-party advertising companies. 
 
 **Special Notification with respect to Children's Privacy (Users under the age of 13)**  
 In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with Silicon Investor policy and COPPA regulations, we DO NOT: 
@@ -26,9 +25,9 @@ In response to concerns about protecting children's privacy online, Congress ena
 
 Questions regarding Silicon Invstor's privacy policy should be directed to: 
 
-Email: [silicon.admin@gmail.com](mailto:silicon.admin@gmail.com)
+Email: 
 
 **Disclosure**  
 Silicon Investor reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Silicon Investor will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties.  
   
-Copyright © 2011 Snurf LLC. All rights reserved.
+Copyright © 1995-2013 Knight Sac Media. All rights reserved.
