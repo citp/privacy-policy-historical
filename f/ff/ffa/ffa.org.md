@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606151737id_/https%3A//www.ffa.org/help/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512071134id_/https%3A//www.ffa.org/help/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # National FFA Organization - Help
 
 The National FFA Organization (the "Organization") and the National FFA Foundation (the "Foundation") are committed to respecting the privacy of FFA members and stakeholders. Our privacy policy governs the collection and use of personal information, whether gathered by our staff, from program participants, website visitors or through correspondence, and it reflects our approach to gathering and disseminating data. Our policy is to only use data collected for purposes that are integral to furthering the mission of FFA and agricultural education.
 
-### Who We Are  
+### Who We Are
 
-The National FFA Organization is a nonprofit 501(c)3 organization with a mission of developing the potential of students for premier leadership, personal growth and career success through agricultural education. FFA is an integral component of agricultural education at local, state and national levels. The National FFA Foundation is a nonprofit 501(c)3 organization with a mission of building partnerships with industry, education, government, other foundations and individuals to secure financial resources that fund FFA activities, recognize member achievements, develop student leaders and support the future of agricultural education. Both the Organization and the Foundation collaborate closely with allied organizations within the framework of the National Council for Agricultural Education. 
+The National FFA Organization is a nonprofit 501(c)3 organization with a mission of developing the potential of students for premier leadership, personal growth and career success through agricultural education. FFA is an integral component of agricultural education at local, state and national levels. The National FFA Foundation is a nonprofit 501(c)3 organization with a mission of building partnerships with industry, education, government, other foundations and individuals to secure financial resources that fund FFA activities, recognize member achievements, develop student leaders and support the future of agricultural education. Both the Organization and the Foundation collaborate closely with allied organizations within the framework of the National Council for Agricultural Education.
 
 ### Information Collection and Use
 
@@ -24,9 +24,11 @@ Strong, supportive relationships between the National FFA Organization, National
 
 ### Privacy of Children
 
+The Organization and the Foundation provide additional privacy protections when children visit the website. We do not knowingly collect, maintain or store personal information from or about children under the age of 13 without a parent's and/or legal guardian’s consent, except in limited circumstances authorized by law and described in this notice. [If you are under the age of 18, please read this privacy policy with a parent or legal guardian. If you are under the age of 13, your FFA advisor and the National FFA Organization must have your parent’s or legal guardian’s consent before collecting any personal information](https://web.archive.org/Help/Pages/Children's-Online-Privacy-Protection.aspx).
+
 Information collected from children consists of membership roster data including name, home address, age, e-mail addresses, phone numbers, birthdate, gender, ethnicity, race, residence type, high school graduation year, grade level and t-shirt size. This information, which may be shared with state associations and local chapters, is used to help students complete applications for awards and recognition, create participation portfolios, deliver the FFA magazine to students’ home addresses and notify students and their parents and/or guardians of opportunities supportive of the educational mission and objectives of the FFA. We do not require a child to disclose more information than is reasonably necessary to participate in the foregoing activities. We do not disclose information collected from children to unaffiliated third parties.
 
-Parents and legal guardians may review personal information we have collected about their child, request deletion or refuse to allow further collection or use of the information. To do so, please contact the National FFA Organization, 6060 FFA Drive, Indianapolis, IN 46268, privacy@ffa.org, 317-802-6060.
+Parents and legal guardians may review personal information we have collected about their child, request deletion or refuse to allow further collection or use of the information. To do so, please contact the National FFA Organization, 6060 FFA Drive, Indianapolis, IN 46268, [privacy@ffa.org](mailto:privacy@ffa.org), 317-802-6060.
 
 ### Information Security
 
@@ -34,11 +36,15 @@ In order to protect against loss, misuse or alteration of information collected,
 
 ### Browser Cookies
 
-A "cookie" is a unique data set or "signature" deposited on a user’s computer hard drive by the website that the user is accessing. The websites of the National FFA Organization and the National FFA Foundation utilize browser cookies for the purposes of caching user credentials for faster login, retaining shopping cart data for up to 30 days prior to sale, allowing faster return access to the site and allowing access to certain functions that might otherwise be inaccessible. Cookies from our websites are not linked in any way to personally identifiable information.
+A "cookie" is a unique data set or "signature" deposited on a user’s computer hard drive by the website that the user is accessing. The websites of the National FFA Organization and the National FFA Foundation utilize browser cookies for the purposes of caching user credentials for faster login, retaining shopping cart data for up to 30 days prior to sale, allowing faster return access to the site, providing relevant marketing and promotional information, and allowing access to certain functions that might otherwise be inaccessible. Cookies from our websites are not linked in any way to personally identifiable information.
+
+In addition to the cookies we deliver to your computer, certain third parties may deliver cookies for a variety of reasons, for example, web analytics or to follow-up on purchases. Other third parties may deliver cookies for the purpose of tracking your online behaviors across FFA websites and/or nonaffiliated websites and delivering targeted advertisements.
+
+Neither the Organization nor the Foundation has access to, nor control over, all cookies of third-party service providers or advertisers. However, you have choices about the collection of information by third parties on our websites. If you would like to opt-out of having interest-based information collected by certain entities during your visits to this or other sites, browse to <http://www.aboutads.info/choices/>. You will be directed to an industry-developed website that contains mechanisms for choosing whether each participating entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this website do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and/or deletion of cookies. Please consult the “Help” section of your browser for more information.
 
 ### Links to Other Websites
 
-The Organization and Foundation websites often provide links to other websites that may be of interest to the students and stakeholders we serve. Although we work hard to ensure we provide links to appropriate sites and we take full responsibility for the content of our site and our own privacy policy, we are not responsible for the privacy practices or the content of sites to which we link. No notice will be issued when a visitor has accessed a link to a website outside the realm of the Organization and Foundation websites.
+The Organization and Foundation websites often provide links to other websites that may be of interest to the students and stakeholders we serve. Although we work hard to ensure we provide links to appropriate sites and we take full responsibility for the content of our site and our own privacy policy, we are not responsible for the privacy practices or the content of sites to which we link. No notice will be issued when a visitor has accessed a link to a website outside the realm of the Organization and Foundation websites. We encourage you to read the privacy policies of all third-party sites that are linked from any FFA website before submitting your personal information. The use of any personal data you choose to disclose to third-party websites will not be covered by this privacy policy.
 
 ### Disclaimer
 
@@ -48,10 +54,10 @@ All information presented on the websites of the Organization and Foundation is 
 
 Questions regarding this privacy policy can be directed to the Organization and Foundation by regular mail, e-mail or phone. Additionally, stakeholders may prevent their information from being used for purposes other than those for which it was originally collected by contacting us. Upon request, we offer stakeholders the ability to have inaccuracies corrected in contact information, unique identifiers and communications that they direct to our site. Stakeholders can have their information corrected by contacting us through the following:
 
-  * Mail:  6060 FFA Drive, Indianapolis, IN  46278
-  * E-mail:  privacy@ffa.org
-  * Telephone:  317-802-6060
-
+>   * Mail: 6060 FFA Drive, Indianapolis, IN 46278.
+>   * E-mail: [privacy@ffa.org](mailto:privacy@ffa.org)
+>   * Telephone: 317-802-6060
+> 
 
 
 ### Policy Updates
