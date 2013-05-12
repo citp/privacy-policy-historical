@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617233332id_/http%3A//economistgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512142218id_/http%3A//economistgroup.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -11,8 +11,9 @@
 "The Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:
 
   * The Economist
-  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
+  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Events and Economist Corporate Network
   * CQ-Roll Call Group (including Capitol Advantage, Congressional Quarterly and Roll Call)
+  * Bazian
   * Clearstate
   * EuroFinance Conferences
   * European Voice
