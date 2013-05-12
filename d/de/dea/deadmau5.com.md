@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadmau5.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202233153id_/http%3A//www.emimusic.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadmau5.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512040337id_/http%3A//www.emimusic.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie policy | EMI Music
 
