@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the onebigphoto.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214015418id_/http%3A//onebigphoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebigphoto.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512025134id_/http%3A//onebigphoto.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy » one big photo | one big photo
+# privacy policy » One Big Photo | One Big Photo
 
 **OneBigPhoto.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 **You Want Your Photo To Be Removed?**  
-We use photographs send by our visitors, if you found your photo here and you want photo to be removed please [contact us](http://onebigphoto.com/contact-us/) imminently with URL where your photo is located.
+We use photographs sent by our visitors, if you found your photo here and you want photo to be removed please [contact us](http://onebigphoto.com/contact-us/) immediately with URL where your photo is located.
 
 **Photos are not for sale!**  
 We don’t own rights for photos and we don’t sell prints.
