@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508011139id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512160143id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
 
 # Days of Wonder Privacy Policy - Play different.™ | Days of Wonder
 
@@ -20,7 +20,7 @@ We do not collect personal information online from children under 13 without the
 
 To protect their privacy online, your child may use a "Login Name" that is not their real name.
 
-If you no longer wish your child to participate in any website activities that require the collection or use of personal information, contact our [Customer Service](http://www.daysofwonder.com/en/about/contact/). Upon proper identification, parents may review the personal information we have collected about their child, request deletion, or refuse to allow further collection or use. You may also write to us at Days of Wonder, Inc, Attn: Children's Online Privacy Protection Act, 334 State Street, Suite 203, Los Altos, CA 94022. However, if you ask us to delete your child's information, we may have to ask your child not to participate in our activities.
+If you no longer wish your child to participate in any website activities that require the collection or use of personal information, contact our [Customer Service](http://www.daysofwonder.com/en/contact/). Upon proper identification, parents may review the personal information we have collected about their child, request deletion, or refuse to allow further collection or use. You may also write to us at Days of Wonder, Inc, Attn: Children's Online Privacy Protection Act, 334 State Street, Suite 203, Los Altos, CA 94022. However, if you ask us to delete your child's information, we may have to ask your child not to participate in our activities.
 
 The Children's Online Privacy Protection Act, effective April 21, 2000, applies to the online collection of personal information from children under 13. The new rules spell out what a Web site operator must include in a privacy policy, when and how to seek verifiable consent from a parent and what responsibilities an operator has to protect children's privacy and safety online.
 
@@ -28,7 +28,7 @@ For more information, visit the US Federal Trade Commission web site at: <http:/
 
 ## Our Use of Collected Information
 
-We use the personal information we collect for the purposes indicated at the time you or your teenager or child (with your consent) provides such information. For instance, if you register in a contest, we will use the registration information to notify contest winners, or if you purchase a product, we will use the information to fulfill the order. Occasionally, and only with consent at the time we ask for information, we might also e-mail or mail you or your teenager or your child to provide information on upcoming Days of Wonder products, Web site updates and promotions. If you want to stop receiving such updates and product information from Days of Wonder or our affiliates at any time, just contact our [Customer Service](http://www.daysofwonder.com/en/about/contact/). Our mailings and e-mails will also include information allowing you to ask not to receive such information in the future.
+We use the personal information we collect for the purposes indicated at the time you or your teenager or child (with your consent) provides such information. For instance, if you register in a contest, we will use the registration information to notify contest winners, or if you purchase a product, we will use the information to fulfill the order. Occasionally, and only with consent at the time we ask for information, we might also e-mail or mail you or your teenager or your child to provide information on upcoming Days of Wonder products, Web site updates and promotions. If you want to stop receiving such updates and product information from Days of Wonder or our affiliates at any time, just contact our [Customer Service](http://www.daysofwonder.com/en/contact/). Our mailings and e-mails will also include information allowing you to ask not to receive such information in the future.
 
 ## The Sharing of Personal Information
 
@@ -57,7 +57,7 @@ Los Altos, CA 94022, USA
 fax: 415-480-1314  
 [customerservice@daysofwonder.com](mailto:customerservice@daysofwonder.com)
 
-or use the [Contact us](https://web.archive.org/en/about/contact) page for a faster response.
+or use the [Contact us](https://web.archive.org/en/contact) page for a faster response.
 
 |   
 ---|---|---|---
