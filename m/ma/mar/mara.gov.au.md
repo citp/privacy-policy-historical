@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mara.gov.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063118id_/https%3A//www.mara.gov.au/About-Us/Privacy-Policy/Privacy-Policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mara.gov.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512133631id_/https%3A//www.mara.gov.au/About-Us/Privacy-Policy/Privacy-Policy/default.aspx) for the most accurate reproduction.*
 
 # Freedom of Information & Privacy - Office of the MARA
 
