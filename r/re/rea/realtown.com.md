@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtown.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525065909id_/http%3A//www.realtown.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtown.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512082819id_/https%3A//www.realtown.com/privacy-statement) for the most accurate reproduction.*
 
 # 
 
