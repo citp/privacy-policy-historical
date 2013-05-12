@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trickscentral.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021211533id_/http%3A//etechniques.blogspot.com/2012/03/privacy-poliicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickscentral.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512044807id_/http%3A//www.trickscentral.com/2012/03/privacy-poliicy.html) for the most accurate reproduction.*
 
-# Privacy Poliicy | The world of techniques
+# Privacy Poliicy ~ Tricks Central
 
 **Privacy Policy for etechniques.blogspot.com**  
 
