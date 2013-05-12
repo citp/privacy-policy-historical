@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018090148id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512123534id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
 
 # OASIS Privacy and Security - Oasis Womens Fashion Clothing Shop UK - www.Oasis-Stores.com
 
