@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220063751id_/http%3A//www.backblaze.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512115844id_/http%3A//www.backblaze.com/privacy.html) for the most accurate reproduction.*
 
 # Backblaze - Online backup privacy policy
 
-Updated 4/13/12
+Updated 3/6/13 to add Backblaze Mobile paragraph.
 
 This Privacy Policy explains what personal information is collected and how it is used and protected by Backblaze Inc., its websites (including www.backblaze.com), products and services (collectively, the “Service” or “Services”.) Backblaze defines Personal Information as your name, email address or billing information, or other data which can be reasonably linked to such information.   
 By using the Services, you expressly consent to the use of data as described in this Privacy Policy.
@@ -22,7 +22,9 @@ When you visit [www.backblaze.com](http://www.backblaze.com/) and other Backblaz
 You may provide information such as your name, email address, or other requested information to purchase or use the service. You may also provide us information when you email or call us, or through feedback and other forms on the website.   
 **Backup Service**  
 By using the online backup service, the system automatically encrypts and transfers your files to Backblaze servers. Certain information will be available to Backblaze such as type of operating system, file types, or sizes to enable Backblaze to provide the service or help support you. Backblaze will never look at your actual files.  
-Backblaze does not intentionally gather information about visitors under the age of 13.
+Backblaze does not intentionally gather information about visitors under the age of 13.  
+**Backup Mobile**  
+If you choose to use Backblaze Mobile, we will post the operating system of the device, the "hguid", and the Backblaze Mobile app version to our data centers. The hguid is a unique customer identifier for Backblaze. This information is logged and used for customer support and product improvement activities. This information is not public. 
 
 Sharing and Disclosures
 
