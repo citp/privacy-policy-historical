@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oasisdentalcare.co.uk privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005110548id_/http%3A//www1.thedentalpeople.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasisdentalcare.co.uk privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512052714id_/http%3A//www1.thedentalpeople.co.uk/privacy.aspx) for the most accurate reproduction.*
 
-# Oasis Dental Care Ltd | privacy
+# privacy - Oasis Dental Care
 
 This policy will help you understand why we may collect your personal information, how it is used and what your rights are. It will enable you to make an informed decision as to whether you give us your personal information via the websites.
 
