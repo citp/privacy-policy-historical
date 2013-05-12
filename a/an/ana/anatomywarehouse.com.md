@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anatomywarehouse.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717194900id_/http%3A//www.anatomywarehouse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anatomywarehouse.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513012428id_/http%3A//www.anatomywarehouse.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,5 +38,5 @@ By Phone: 312-224-4772
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
 Anatomical Worldwide LLC  
-8120 Monticello Ave.  
+8111 St. Louis Ave Unit 1-D.  
 Skokie IL 60076
