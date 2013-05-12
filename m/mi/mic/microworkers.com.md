@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122142937id_/http%3A//www.microworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512232031id_/http%3A//www.microworkers.com/privacy.php) for the most accurate reproduction.*
 
 # Microworkers
 
-This policy is effective as of March 1, 2009.
+This policy is effective as of February 26, 2013.
 
-Welcome to the Microworkers Service, a web service utility that connects employers and workers on a micro level. The Microworkers service is operated by Anaking, Inc. and its subsidiaries and affiliates ("us," "we",  "Microworkers", “site” or “Microworkers.com”). By using or accessing the Microworkers Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Microworkers Service after any such changes constitutes your acceptance of the new Terms.
+Welcome to the Microworkers Service, a web service utility that connects employers and workers on a micro level. The Microworkers service is operated by Weblabcentercom, Inc. and its subsidiaries and affiliates ("us," "we",  "Microworkers", “site” or “Microworkers.com”). By using or accessing the Microworkers Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Microworkers Service after any such changes constitutes your acceptance of the new Terms.
 
 **Microworkers Principles**
 
@@ -36,13 +36,9 @@ Microworkers may also collect information about you from other sources, such as 
 
 By using Microworkers, you are consenting to have your personal data transferred to and processed in the United States and EU countries.
 
-**Children Under Age 13**
+**Users Under Age 18**
 
-Microworkers does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Microworkers or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Microworkers. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us through the Contact us form or via Microworkers’ email which are both available on the Site.
-
-**Children Between the Ages of 13 and 18**
-
-We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
+Microworkers does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register. If you are under 18, please do not attempt to register for Microworkers or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 may provide any personal information to or on Microworkers. In the event that we learn that we have collected personal information from a user under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a user under 18, please contact us through the Contact us form or via Microworkers’ email which are both available on the Site.
 
 **Use of Information Obtained by Microworkers**
 
