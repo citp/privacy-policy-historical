@@ -1,43 +1,54 @@
-> *The following text is extracted and transformed from the sabrehospitality.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904160522id_/http%3A//www.sabrehospitality.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabrehospitality.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512063834id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Internet Marketingfor the Hospitality Industry | Sabre Hospitality Solutions Privacy Policy
+# None
 
-### 1\. Who is Sabre Hospitality Solutions?
+Thank you for taking the time to review our privacy policy for this Web site. Sabre Inc. under the Sabre Holdings brand, operates the sabre-holdings.com site to communicate corporate news and information, information about our brands and to provide a tool for communicating with our many customers and vendors. Investor information, news releases, product overviews, registration processing for Sabre Inc. organized and sponsored events and career opportunity information are all provided through this Web site. If you are already familiar with our Corporate Data Privacy Policy, which immediately follows and also appears on other Sabre Inc.-affiliated web sites (and would like to only review the policy covering this specific site), please go to the sabre-holdings.com web site policy below.
 
-Sabre Hospitality Solutions headquarters is located at 3150 Sabre Drive, Southlake, Texas 76092. Our corporate web site URL address is www.Sabre Hospitality Solutions.com. You may direct any question about the Sabre Hospitality Solutions privacy policy to [privacy@sabre.com](mailto:privacy@sabre.com). 
+## Sabre Inc. Data Privacy Policy
 
-### 2\. How Does Sabre Hospitality Solutions Use My Personal Information?
+Click here to view Sabre Inc.'s Data Privacy Policy (English)  
+Datenschutzregelung von Sabre Inc. (German)   
+Politica di Sabre Inc. sulla riservatezza dei dati (Italian)  
+Politique de Sabre Inc. en matière de confidentialité des données (French)   
+Normas de privacidad sobre información de Sabre Inc. (Spanish)  
+PolÃ­tica de privacidade de dados do Sabre Inc. (Portuguese)   
+Sabre Inc. datasekretesspolicy (Swedish)   
+Δήλωση προστασίας προσωπικών δεδομένων της Sabre Inc. (Greek)   
+Sabre Inc. 情報に関するプライバシーポリシー ( (Japanese)
 
-Personal Identifying Information "Personal Information" is information through which you can be identified. In order to provide you with reservation services, Sabre Hospitality Solutions collects certain Personal Information as described below.   
-Visitors using the Sabre Hospitality Solutions booking system accessed through a web site or using any of the other services of our partner hotels have the ability to search for rates and availability at the hotel without providing any Personal Information. However, once you have decided to book, you will be asked to provide Personal Information. This will include your name, address, email address and other contact information, as well as a credit card number, billing address, and the card's expiration date. The credit card number will be used solely to make and secure your reservation as detailed in the hotel's reservation, cancellation, deposit and late arrival guarantee policies. Most all hotels post these policies on our web site on the page where you indicate your wish to accept a reservation. If these policies are not on our web site you may obtain them by making an inquiry to the hotel.   
-Your Personal Information is required by the hotel to complete a proper business record of the reservation contract between you and the hotel. Your Personal Information contained in that record is subject to the privacy policy of the hotel. You can obtain the hotel's privacy policy from its web site or by directly contacting the hotel. 
+## Sabre-holdings.com Policy
 
-Sabre Hospitality Solutions will also retain your personal information and the confirmation of the reservation as its business record of the transaction. Your Personal Information contained in that record is subject to this privacy policy.   
-We do not sell or exchange your Personal Information. We do not provide your Personal Information to any other persons except in the following situations:   
-(1) to establish your reservation (and to arrange for the purchase of other services, such as dining or recreation arrangements you have requested); (2) to enable businesses such as a guest's travel agent, group or tour operator, and companies that process credit card transactions, to communicate on behalf of our hotels and their guests in connection with a reservation; (3) to comply with a court order, subpoena, search warrant or other legal process and to comply with legal, regulatory or administrative requirements of any governmental authorities; (4) to protect and defend Sabre Hospitality Solutions, its subsidiaries and affiliates, and all of their officers, directors, employees, attorneys, agents, contractors, and partners, in connection with any legal action, claim or dispute; (5) to enforce the Terms of Service of the Sabre Hospitality Solutions web site; (6) to prevent imminent physical harm; (7) to effect a transfer of Personal Information in connection with the sale, assignment, or transfer of any hotel property or web site, and (8) to protect the interests of the guest and the hotel and (9) for the purposes described in section 6 of this policy. 
+Sabre-holdings.com is a site operated by Sabre Inc. to provide information about the corporation and our businesses. You will find corporate news, investor relations information, event registration, information on products and services, partner and business development opportunities and career opportunities information. You may be asked to provide information depending on the service or information you are requesting. You will find specific information regarding any personal information you provide on this site at each section where you are requested to input information.
 
-### 3\. Recognition of Repeat Visitors
+Sabre Inc.'s host computer and servers are located in the United States. By your use of the sabre-holdings.com web site you consent to your data being transferred to and processed in the United States.
 
-As a convenience to you and the hotel (or to the chain of hotels of which it is an affiliate) our booking system may be configured to recognize that you are a return guest. This feature displays earlier Personal Information entered by you, a travel agent or partner hotel staff allowing the system to skip those parts of the Personal Information reentry process and immediately begin to check availability and rates quickly to more promptly book a reservation. As a security measure we will require reentry of the credit card or other payment information when you are ready to book. We do this to shorten the time required for inquiries and bookings at hotels and chains where you have previously stayed and for no other purpose. 
+These policies do not constitute contracts. By use of the sabre-holdings.com web site, you acknowledge that you do not intend either privacy policy to form a contract.
 
-### 4\. Security
+## How Information Is Gathered
 
-Personal Information collected by Sabre Hospitality Solutions is stored on servers that are protected by standard security procedures. Sabre Hospitality Solutions takes measures to prevent unauthorized access to confidential information. The secure servers are protected from access by unauthorized third parties but you should be aware that Sabre Hospitality Solutions cannot give an absolute guarantee or assurance in this regard. You should also remain mindful that, as with all e-mail sent via the Internet, your information may be intercepted. You acknowledge that Sabre Hospitality Solutions will not be responsible for any intercepted information sent via the Internet, and you release us from any claims arising out of or related to the use of intercepted information in any unauthorized manner. 
+Voluntary Information may be collected from you in several instances when you are on the sabre-holdings.com web site. When you request information to be sent to you on various products and services, investor information or when you provide us information regarding potential business opportunities, you will be asked to complete an online form or submit information via e-mail. Information collected will include names, postal addresses, e-mail addresses, telephone numbers, credit card information and certain preferences you have depending on the services or information you are requesting.
 
-### 5\. Use of Your Information
+The information you provide will never be used for purposes other than for the reasons it was given without your permission.
 
-Sabre Hospitality Solutions may use the information collected by us to: (1) process and make a record of reservations; (2) process purchases and make a record of purchases; (3) enable us to contact you with updated information about your reservation; (4) to respond to inquiries and (5) for Sabre Hospitality Solutions' internal business purposes. We or our affiliates (including those affiliates partly owned by third parties) may use personal travel information for individuals that we acquired through the use of any of our products or services for marketing analysis. This analysis may include comparison with other demographic and personal information from other affiliated companies and could result in your receipt of offers from travel related suppliers of products and services that should be of interest to you. 
+Cookies are data placed on your computer to enable us to know on future visits your preferences concerning the site. Sabre-holdings.com may use cookies to determine your preferences as to screen or presentation choices while you are visiting the site. We never use cookies to gather any personally identifiable information. Cookies are not utilized by third party services Sabre Inc. engages to process information while you are on the sabre-holdings.com site. No clickstream data is gathered at this site.
 
-### 6\. Access
+## How is the Information Used
 
-The Personal Information that is maintained by Sabre Hospitality Solutions is limited to that which is accessible to you when you revisit a hotel or affiliate of a hotel where you have stayed before and are again linked to our system. You have the ability to change any of the Personal Information displayed on our web site when our site recognizes your email address and displays the data. Notwithstanding this, if you believe that any information or business record held by Sabre Hospitality Solutions about you is not correct and you cannot access it, please mail a letter to Operations Department, Sabre Hospitality Solutions, a division of Sabre Inc., 3150 Sabre Drive, Southlake, Texas 76092. 
+Information collected will be used to fulfill your request and provide you with the services or information you have requested. When information concerning registration for events is collected it will be used to provide you with a better experience at the event. However, this information is not used beyond Sabre Inc. RÃ©sumÃ© information will be used in determining if career opportunities may be available to you at Sabre Inc. or its affiliates. Information you provide us regarding business opportunities and ideas will be used to evaluate those proposals.
 
-### 7\. Sale of the Business or Assets
+## How We Use Third Parties
 
-Nothing in this Privacy Policy is intended to interfere with Sabre Hospitality Solutions' ability to transfer all or part of its business and/or assets (including the booking system and web site) to an affiliate or independent third party that is in the business of managing reservations for lodging goods and services, or a similar or related business, at any time, for any purpose, without any limitation. Sabre Hospitality Solutions specifically reserves the right to transfer Personal Information collected from its web site or any other partner hotel service to the buyer of that portion of its business as a business record that is a part of the business or assets sold or conveyed. 
+In certain cases, Sabre Inc. will use third party vendors to support fulfillment of your request or for the service you are taking advantage of. Career information, event registration, investor information and marketing information requests are processed by outside services. As stated in our corporate policy, Sabre Inc. will not engage fulfillment firms who do not comply with our data privacy requirements.
 
-### 8\. Cookies
+### How is Information Shared
 
-Our web site may collect information about you that is not personally identifiable through the use of cookie technology. A cookie is a small file that contains information sent by our web site to your hard disk by your computer's browser. Cookies store information that our web site may use to facilitate your future visits and gather web site statistical data, such as the type of browser used by you and which of our pages you visit and your Internet provider's domain name and country. 
+Information you provide may be shared internally with other Sabre Inc. departments, affiliates or brands in order to process your request for information or services. Information is not shared outside of Sabre Inc. or its affiliates unless your permission has been obtained.
 
-We also may use cookies to provide a unique identifier to your computer so that we can generate statistics regarding usage of the Sabre Hospitality Solutions web site, such as the percentage of repeat visitors and other general statistics. The unique identifiers are not matched with any Personal Information. Moreover, cookies used by Sabre Hospitality Solutions do not store or obtain any Personal Information about you. 
+### Concerns or Questions Concerning Your Privacy
+
+This web site provides information and services for many different businesses within Sabre Inc. Any questions or issues about your privacy or information you provide us should be sent to the appropriate e-mail address below.
+
+Marketing Information - [contact.us@sabre.com](mailto:contact.us@sabre.com)  
+General sabre.com Inquiries - [contact.us@sabre.com](mailto:contact.us@sabre.com)   
+Business Opportunities - [opportunities@sabre.com](mailto:opportunities@sabre.com)   
+Event Planning Registration - [event.marketing@sabre.com](mailto:event.marketing@sabre.com)
