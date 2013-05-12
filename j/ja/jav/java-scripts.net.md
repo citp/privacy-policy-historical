@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-scripts.net privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002202722id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-scripts.net privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512195435id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.*
 
 # Javascripts by Java-Scripts.net: Free javascripts, tutorials, examples, and resources.
 
@@ -11,6 +11,5 @@ In the course of serving advertisements to this site, our third-party advertiser
 **Managing Cookies**  
 You can adjust your own personal cookie settings in your browser. Please access your browsers "Help" section and search for "cookie" to manage how your browser handles cookies. You should be able to do everything from allowing all cookies to blocking all cookies. 
 
-© 2012 [Javascripts](http://www.java-scripts.net/)   
-Proudly Hosted by [HostDeparment](http://www.hostdepartment.com/)  
-Now Viewing **[](http://www.java-scripts.net/privacy.phtml)**
+© 2013 [Javascripts](http://www.java-scripts.net/)  
+
