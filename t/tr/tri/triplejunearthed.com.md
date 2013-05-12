@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005105203id_/http%3A//triplejunearthed.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512173023id_/http%3A//triplejunearthed.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - triple j Unearthed - free music | new Australian music | independent music
 
