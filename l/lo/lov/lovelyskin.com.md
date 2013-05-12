@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelyskin.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115044833id_/http%3A//www.lovelyskin.com/customerservice/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelyskin.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512110836id_/http%3A//www.lovelyskin.com/customerservice/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at LovelySkin.com
 
