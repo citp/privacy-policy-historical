@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiggly.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208005755id_/http%3A//www.squiggly.com/gb/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiggly.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512091830id_/http%3A//www.squiggly.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Squiggly Swatch Watches and Straps - Online Watch Store || Swatch Originals / Skin / Irony / Flik Flak
 
@@ -38,7 +38,7 @@
 > 
 > * through the feedback form  
 > 
-> * by phone: ..31-10-2330690
+> * by phone: ..31-85 4892010
 > * by letter to this address: Squiggly Swatch watches, Willebrordusstraat 16, 3037TR Rotterdam, The Netherlands
 >   
 > 
