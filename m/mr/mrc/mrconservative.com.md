@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrconservative.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610070655id_/http%3A//www.mrconservative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrconservative.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512045016id_/http%3A//www.mrconservative.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy // Mr. Conservative
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder mrconservative.com .)
 
