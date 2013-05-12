@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xactlycorp.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007011248id_/http%3A//www.xactlycorp.com/trust/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xactlycorp.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512052655id_/http%3A//www.xactlycorp.com/trust/privacy/index.php) for the most accurate reproduction.*
 
 # Trust | Xactly
 
@@ -20,7 +20,7 @@ We use IP addresses to analyze trends, administer the Site, track user's movemen
 
 ## Users Outside of the United States
 
-While we make every effort to honor the laws and wishes of all users, this Site is available for users located primarily in the United States of America and therefore may not recognize foreign laws.
+While we make every effort to honor the laws and wishes of all users, this Site is available for users located primarily in the United States of America and therefore may or may not address privacy requirements contained in non-domestic legislation.
 
 ## Security
 
@@ -28,7 +28,48 @@ Xactly takes substantial precautions to protect data and information under its c
 
 ## Links to Third-Party Sites
 
-The Site contains links to external web sites. Xactly is not responsible for the privacy practices or the content of these external web sites. Visitors are therefore advised to check the policy statements of linked web sites to understand their policies. Depending on those policies, customers and visitors who access a linked site may potentially disclose private information. It is the sole responsibility of the users to keep such information private and confidential.
+The Site contains links to other Web Sites. Xactly is not responsible for the privacy practices or the content of these other Web Sites. Visitors are advised to check the policy statement of other Web Sites to understand their policies. Accessing a linked site may expose your private information.
+
+## Safe Harbor
+
+Xactly complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+
+Xactly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+## Notice
+
+Through this Privacy Policy. Xactly hereby informs you of the purpose for which it collects and uses personal information. Xactly will notify you in the event of any unintentional disclosure of your personal information to a third party. You have the option to limit the use of any personal information through the means described herein.
+
+## Choice
+
+Xactly provides you with a choice to opt out of disclosure of your personal information to a third party or the use of personal information for something other than it was originally collected.
+
+## Onward Transfers
+
+Before disclosing personal information to a third party, Xactly will notify you of the intended disclosure and provide you with the option to opt out of such disclosure.
+
+## Data Integrity
+
+Xactly shall use information collected for its relevant and intended purpose only. If there is any change of use of the personal information collected, Xactly shall inform you and gain your approval before making such changes of the use of the personal information collected. Further, Xactly shall take reasonable steps to ensure that the personal information collected is accurate and reliable for its intended use.
+
+## Access to Personal Information Received
+
+Xactly shall provide you with reasonable access, as required by law, to your personal information in order to confirm that it is correct or to amend or delete inaccurate information. If you need to correct, update, or remove personal information provided to Xactly, please contact Xactly at: [support@xactlycorp.com](mailto:support@xactlycorp.com).
+
+## Enforcement
+
+Xactly has established internal mechanisms to verify its ongoing adherence to its privacy policy, including the Safe Harbor Principles. Xactly encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting Xactly at [support@xactlycorp.com](mailto:support@xactlycorp.com). After a complaint or concern is received, Xactly will work internally to resolve the issue. Further, Xactly agrees to participate in the dispute resolution program provided by the European Data Protection Authorities or the Swiss Federal Data Protection and Information Commissioner.
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Xactly commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Xactly at:  
+Xactly Corporation  
+225 W. Santa Clara Street, Suite 1200  
+San Jose, CA 95113
+
+Xactly has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your business name), please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information or to file a complaint.
+
+## Amendment
+
+This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Privacy Principles. Appropriate notice of any material amendments will be posted at [www.xactlycorp.com/trust/privacy/index.php](http://www.xactlycorp.com/trust/privacy/index.php).
 
 ## Questions or Comments Regarding the Privacy Policy
 
