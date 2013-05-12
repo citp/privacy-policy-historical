@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sockshare.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016091639id_/http%3A//www.sockshare.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sockshare.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512235408id_/http%3A//www.sockshare.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # SockShare - Privacy Policy
 
