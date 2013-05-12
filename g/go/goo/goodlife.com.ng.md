@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlife.com.ng privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014112958id_/http%3A//www.goodlife.com.ng/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlife.com.ng privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512202459id_/http%3A//www.goodlife.com.ng/privacy_policy.php) for the most accurate reproduction.*
 
 # Goodlife: Business Directory Nigeria, Best Hotels in Lagos, Online Jobs Search Lagos Nigeria
 
@@ -32,3 +32,5 @@ Name Email address used to register Username (if applicable)
 
 Goodlife promotions   
 Back to the top
+
+1.    PLEASE BARE WITH US, THE BANNER ADVERTISING SYSTEM ON OUR WEBSITE IS CURRENTLY BEING UPGRADED AND UPDATED, THIS MAY TAKE A FEW DAYS AND YOU MAY EXPERIENCE ADVERTS THAT HAVE LONG EXPIRED, PLEASE DON'T BE ALARMED, WE ARE AWARE AND IN FULL CONTROL OF THE SITUATION, THANK YOU FOR YOUR PATIENCE AND WHEN THE EXERCISE IS COMPLETED WE ALL SHALL LOOK FORWARD TO A MORE ROBUST AND EFFICIENT BANNER ADVERTISING SYSTEM.    
