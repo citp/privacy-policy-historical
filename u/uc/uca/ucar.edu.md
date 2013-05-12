@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820025149id_/http%3A//www.ucar.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512134926id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UCAR
+# Privacy Policy | UCAR - University Corporation for Atmospheric Research
 
-This privacy policy covers UCAR’s treatment of personal information. Please review the UCAR General Privacy Policy so that you can understand your options in using the UCAR Web site. Use of this Web site signifies your agreement to the General Privacy Policy.  Within this Site you may access other UCAR-sponsored sites and services.  Some of these sites and services are governed by their own privacy policies.  In the absence of a referenced Privacy Policy, this General Privacy Policy shall apply.
+Within this Site you may access a number of UCAR-sponsored sites and services.  Some of these sites and services are governed by their own privacy policies.  In the absence of a referenced privacy policy, this General Privacy Policy shall apply. Your use of this web site signifies your agreement to this privacy policy.
 
 **1.   What Personal Information Does UCAR Collect?** You can visit most UCAR Web sites  and access most of our services without identifying who you are, or revealing personal information such as your name, birth date, e-mail address or mailing address, that can be used to identify you.  However, some services may require registration. When you register with us, you may need to complete certain fields (some are required and some are optional), as well as choose a user name and password. In these situations, if you choose to withhold any personal information requested by us, it may not be possible for you to gain access to certain services or parts of a specific Web site.
 
