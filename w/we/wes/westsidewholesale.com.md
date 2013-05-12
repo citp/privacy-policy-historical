@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109143813id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512091438id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,18 +8,12 @@ Westside Wholesale uses the latest security software to ensure the security your
 
 **Our postal address is:**
 
-  
-East Coast Distribution Center  
-7765 National Turnpike  
-Louisville, KY 40214 suite 140
-
-|    |  **Please send Returned Merchandise to our Las Vegas Distribution Center**  
+**Please send Returned Merchandise to our Las Vegas Distribution Center**  
 West Coast Distribution Center  
 4170 W. Harmon Avenue #5  
-Las Vegas, NV 89103  
----|---|---  
-  
-We can be reached via e-mail at: [info@westsidewholesale.com](mailto:info@westsidewholesale.com?subject=Question%20about%20Privacy%20Policy) or you can reach us by telephone at 877-939-7979.
+Las Vegas, NV 89103
+
+We can be reached via e-mail at: [info@westsidewholesale.com](mailto:info@westsidewholesale.com?subject=Question%20about%20Privacy%20Policy) or you can reach us by telephone at 877-998-9378.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
