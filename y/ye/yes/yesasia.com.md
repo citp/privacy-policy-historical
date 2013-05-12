@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesasia.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113124425id_/http%3A//www.yesasia.com/us/customer-support/0-0-0-hti.814-en/question-answer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesasia.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512203107id_/http%3A//www.yesasia.com/us/customer-support/0-0-0-hti.814-en/question-answer.html) for the most accurate reproduction.*
 
 # YESASIA: Customer Support - Privacy & Security - YesAsia.com's Privacy Policy - North America Site
 
@@ -75,7 +75,7 @@ If you have any questions or suggestions, please contact us at [privacy@yesasia.
 
 Privacy Director  
 YesAsia.com Limited  
-9/F., Watson Centre,  
-16-22 Kung Yip Street,  
-Kwai Chung, N.T.  
+19/F., Wyler Centre Phase II,  
+192-200 Tai Lin Pai Road,  
+Kwai Chung, New Territories,  
 Hong Kong
