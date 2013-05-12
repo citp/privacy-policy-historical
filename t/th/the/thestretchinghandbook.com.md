@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016040408id_/http%3A//www.thestretchinghandbook.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513003017id_/http%3A//injuryfix.com/legal.php%23privacy) for the most accurate reproduction.*
 
-# The Stretching Institute™ - Legal Information, Policies and Disclaimers
+# Injury Fix™ - Legal Information, Policies and Disclaimers
 
 Trademark  
-The Stretching Institute™ is a registered trademark of Walkerbout Health Pty Ltd. International Trademark #: 1 005 350. (United States Trademark Reg. No. 3,752,544) Any unauthorized use of this trademark will be aggressively defended though the appropriate legal processes.
+Injury Fix™ and The Stretching Institute™ are registered trademarks of Walkerbout Health Pty Ltd. International Trademark #: 1 005 350. (United States Trademark Reg. No. 3,752,544) Any unauthorized use of this trademark will be aggressively defended though the appropriate legal processes.
 
 Copyright  
-This website and all its content are owned by Walkerbout Health Pty Ltd (Doing Business As) The Stretching Institute. Copyright © 1995-2012. All rights reserved.
+This website and all its content are owned by Walkerbout Health Pty Ltd (Doing Business As) The Stretching Institute and Injury Fix. Copyright © 1995-2012. All rights reserved.
 
-Unless otherwise indicated, all content and materials on this website, including but not limited to the logo, designs, text, graphics, pictures, information, data, software, sound files, other files and the selection and arrangement thereof (collectively, "Website Content") are the proprietary property of The Stretching Institute or its affiliates, licensors, suppliers or users and are protected by U.S. and international copyright laws.
+Unless otherwise indicated, all content and materials on this website, including but not limited to the logo, designs, text, graphics, pictures, information, data, software, sound files, other files and the selection and arrangement thereof (collectively, "Website Content") are the proprietary property of Walkerbout Health Pty Ltd or its affiliates, licensors, suppliers or users and are protected by U.S. and international copyright laws.
 
 The content on this website is monitored and protected by [Copyscape's plagiarism checking software](http://www.copyscape.com/plagiarism-software/). DO NOT COPY OUR CONTENT. If our copyrighted content is found to be published on another website without our prior written approval we will issue a [DMCA](http://en.wikipedia.org/wiki/Dmca) (Digital Millennium Copyright Act) Infringement Notification with the offenders hosting provider, and also with [Google](http://www.google.com/support/bin/request.py?contact_type=lr_dmca&product=websearch), [Yahoo!](http://info.yahoo.com/copyright/us/details.html) and [Bing](http://www.microsoft.com/info/cpyrtInfrg.htm).
 
@@ -16,7 +16,7 @@ Disclaimer
 The health and fitness information presented on this website is intended as an educational resource and is not intended as a substitute for proper medical advice. Please consult your physician or physical therapist before performing any of the exercises described on this website, particularly if you are pregnant, elderly or have any chronic or recurring muscle or joint pain. Discontinue any exercise that causes you pain or severe discomfort and consult a medical expert.
 
 Privacy Policy  
-Our clients and visitors privacy is an issue we take very seriously at The Stretching Institute. We understand your concerns about the use of your personal and company data, and have formulated this policy to reassure you of how your data will be utilized by us.
+Our clients and visitors privacy is an issue we take very seriously. We understand your concerns about the use of your personal and company data, and have formulated this policy to reassure you of how your data will be utilized by us.
 
 What information do we collect?  
 We collect information from you when you register on our website, subscribe to our newsletter or fill out a form.
@@ -42,12 +42,12 @@ The email address you provide for order processing, will only be used to send yo
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
 Opt-Out, Unsubscribe and Removal from our database  
-Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20121016040408id_/http%3A//www.thestretchinghandbook.com/help/index.php?a=add) and one of our staff will remove you from our database.
+Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20130513003017id_/http%3A//injuryfix.com/help/index.php?a=add) and one of our staff will remove you from our database.
 
 If you do submit a ticket via our help desk, please make sure you include the email address that you used when you subscribed, purchased one of our products or requested information from us: You can find this address at the bottom of every email we send to you.
 
 Do we use cookies?  
-Yes (Cookies are small files that a website or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the websites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a website or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the websites or service providers systems to recognize your browser and capture and remember certain information.
 
   * Third party vendors, including Google, show our ads on websites on the internet.
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
@@ -73,15 +73,16 @@ By using our website, you consent to our privacy policy.
 Changes to our Privacy Policy  
 If we decide to change our privacy policy we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on April 13, 2012.
+This policy was last modified on October 18, 2012.
 
 Contacting Us  
-If there are any questions regarding this privacy policy you may contact us by [submitting an inquiry via our help desk](https://web.archive.org/web/20121016040408id_/http%3A//www.thestretchinghandbook.com/help/index.php?a=add), or using the information below.
+If there are any questions regarding this privacy policy you may contact us by [submitting an inquiry via our help desk](https://web.archive.org/web/20130513003017id_/http%3A//injuryfix.com/help/index.php?a=add), or using the information below.
 
 **Phone:** | 1-877-580-7771  
 ---|---  
 **Fax:** | 1-646-329-9820  
-**Mailing Address:** | The Stretching Institute  
-47-47 36th Street, Suite # 3208  
+**Mailing Address:** | Injury Fix  
+4747 36th Street  
+Suite 3208  
 Long Island City, NY 11101  
 United States
