@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamspark.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184831id_/https%3A//www.dreamspark.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamspark.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512174434id_/https%3A//www.dreamspark.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Microsoft DreamSpark - Privacy Policy
 
@@ -20,9 +20,9 @@ Except as otherwise described in this statement, personal information you provid
 
 Access to Your Personal Information 
 
-Customer information is collected by Fast Track Team, Inc., a Microsoft vendor. It is stored at Fast Track Team, Inc., and also sent back to Microsoft. You can review and edit the personal information you provided at this Site by [contacting](https://web.archive.org/web/20120919184831id_/https%3A//www.dreamspark.com/Support/Default.aspx?ShowContactDiv=true#ContactContent) the DreamSpark Program Team. 
+Customer information is collected by Fast Track Team, Inc., a Microsoft vendor. It is stored at Fast Track Team, Inc., and also sent back to Microsoft. You can review and edit the personal information you provided at this Site by [contacting](https://web.archive.org/web/20130512174434id_/https%3A//www.dreamspark.com/Support/Default.aspx?ShowContactDiv=true#ContactContent) the DreamSpark Program Team. 
 
-contacting the DreamSpark Program Team. \-->
+\-->
 
 Security of Your Personal Information 
 
