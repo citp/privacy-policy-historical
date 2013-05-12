@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plug.dj privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017103246id_/http%3A//www.plug.dj/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plug.dj privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512050854id_/http%3A//plug.dj/privacy) for the most accurate reproduction.*
 
-# plug.dj -privacy policy
+# plug.dj – privacy policy
 
 _Last Updated: February 17, 2012_
 
