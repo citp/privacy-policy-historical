@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chiefarchitect.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203222445id_/http%3A//www.chiefarchitect.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefarchitect.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512200539id_/http%3A//www.chiefarchitect.com/company/privacy.html) for the most accurate reproduction.*
 
-# Home Design Software - Privacy Policy
+# Chief Architect - Privacy Policy
 
 Chief Architect, Inc. makes every effort to ensure the full protection of privacy of its users and the information it gathers about them. We consider such website visitor and customer information to be private, and therefore we do not share user information with third parties.
 
