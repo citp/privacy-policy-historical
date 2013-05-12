@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinerealgames.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205094934id_/http%3A//www.onlinerealgames.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinerealgames.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512061329id_/http%3A//www.onlinerealgames.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at onlinerealgames.com
 
