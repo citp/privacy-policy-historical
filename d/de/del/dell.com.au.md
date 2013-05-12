@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920004451id_/http%3A//dell.com.au/content/topics/topic.aspx/ap/policy/en/privacy%3Fc%3Dau%26l%3Den%26s%3Dgen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512203112id_/http%3A//dell.com.au/content/topics/topic.aspx/ap/policy/en/privacy%3Fc%3Dau%26l%3Den%26s%3Dgen) for the most accurate reproduction.*
 
 # Dell's Privacy Policy | Dell Australia
 
