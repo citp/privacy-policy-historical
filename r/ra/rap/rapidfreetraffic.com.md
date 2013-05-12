@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidfreetraffic.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024225229id_/http%3A//www.rapidfreetraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidfreetraffic.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512230837id_/http%3A//www.rapidfreetraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Article Marketing Automation
 
