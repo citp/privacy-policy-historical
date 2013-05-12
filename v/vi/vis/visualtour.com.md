@@ -1,0 +1,125 @@
+> *The following text is extracted and transformed from the visualtour.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512063750id_/http%3A//www.visualtour.com/legal/privacy.aspx) for the most accurate reproduction.*
+
+# VisualTour Privacy Statement
+
+VisualTour is pleased to share its online privacy policy with you. We encourage you to read carefully the following important information, and scroll down the page as necessary to view the entire document.
+
+### Introduction
+
+At VisualTour, the basis of each customer relationship is trust. You have chosen to visit our website and do business with VisualTour, Inc. and we honor that relationship with great care, beginning with the information that you may choose to share with us. We strongly believe that your privacy should not be compromised. At the same time, we want to provide you with the array of products and services you need. We also want to be able to respond to your requests, customize our website for you, improve your online experience, and communicate with you.
+
+You should refer back to this document from time to time to make sure that you are aware of any changes or modifications that may be made to this policy. If any such changes are made, they will be posted at this site.
+
+### Overview
+
+Technology and new marketing practices have increased the amount of customer information collected and shared in today's marketplace. Consumers are concerned about the impact this development has or might have on their privacy and reputation. At VisualTour, we are sensitive to the importance of these concerns. We want to serve consumers as effectively and conveniently as possible, and such service involves making use of technology and customer information. But we also want our customers to be confident that their relationship with VisualTour is treated with the appropriate confidentiality. We therefore commit to customers that we will take reasonable steps to protect the privacy of the information shared with us in accordance with this Privacy Policy.
+
+### Recognition of a Customer's Expectation of Privacy
+
+We recognize your right to privacy at VisualTour. Thus, we recognize that you have a right to expect that your personal information will remain private and secure. We will maintain standards to ensure that any information that is requested by us is held private and secure at all times. The same standards apply regardless of whether you are a current or former customer of VisualTour.
+
+### Types of Customer Information
+
+Information about you may be accumulated from a variety of sources. For example, we may collect nonpublic personal information about you from:
+
+  * Applications or other forms that you may fill out
+  * Your transactional history with us, our affiliates, or others
+  * Email communications that you send us or confirmations that we receive when you open you email from us
+  * Comparison of our customer lists to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers
+  * Consumer reporting agencies
+  * Other sources for reasons such as improving personalization of our service. For example, we may try to provide you with product recommendations or special offers that we think will interest you
+
+
+
+All of these pieces of information will be referred to collectively throughout this policy as "Customer Information."
+
+We will limit the use and collection of Customer Information to that which is necessary to administer our business, provide superior service to you, and to offer opportunities that we think will be of interest to you. This also means that we will use the Customer Information to help us identify and mitigate potential risks or loss to VisualTour which ultimately benefits you. Of course, we will use this information only in accordance with the principles set out in this Privacy Policy.
+
+### Disclosure of Customer Information
+
+There are times when we are required to disclose your Customer Information, while at other times, with your prior consent, we may voluntarily provide your Customer Information to carefully screened third parties in order to provide you with the high quality services that you have come to expect from VisualTour. In any event, we will always carefully control the way in which any Customer Information is shared.
+
+For example, we must disclose your Customer Information if ordered to do so by court order. On the other hand, after we obtain your consent to do so, we may disclose such information:
+
+  * To certain providers with which VisualTour has an ongoing relationship, such as a joint marketing agreement
+  * To companies that participate with VisualTour in supplying products and services to customers
+  * To companies that promote products and services on our behalf
+  * To other companies and individuals who perform functions on our behalf. Functions may include fulfilling software orders, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service
+  * To certain business transferees. As we continue to develop our business, we might sell or buy businesses, portions of businesses, or assets. In such transactions, Customer Information generally is one of the transferred business assets. Also, in the unlikely event that VisualTour, Inc. or substantially all of its assets are acquired, Customer Information will of course be one of the transferred assets
+  * To enforce or apply any of the terms and conditions of any agreements between you and VisualTour; or protect the rights, property, or safety of VisualTour, our customers, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction
+  * With your consent. Other than as set forth above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+
+
+
+Whenever we disclose any Customer Information to other companies, we require that they honor and adhere to our commitment of customer privacy. Nonetheless, in the event that you do not wish to have your Customer Information revealed to such companies, you may "opt out" of these disclosures, that is, you may direct us not to make those disclosures (other than disclosures permitted by law). For more information about opting out of such disclosures, please read our "Opt Out Option" below.
+
+### "Opt Out" Option
+
+As described above, you have an "opt out" option to allow you to choose whether or not you want your Customer Information to be shared with third parties. If you wish to exercise your right to "opt out", you may request this by emailing us at [Privacy@VisualTour.com](mailto:Privacy@VisualTour.com) or writing to us at:
+
+TRF Systems, Inc.  
+2703B Gateway Drive  
+Pompano Beach, FL 33069  
+Attn: Privacy Matters
+
+### VisualTour Employees
+
+Keeping your information secure is one of our most important responsibilities. To that end, VisualTour employees are informed of their responsibility to protect confidential customer information, and are bound by this Privacy Policy. They are governed by a code of conduct that includes the responsibility to protect the confidentiality of Customer Information.
+
+We also restrict access to your Customer Information to only those employees who need to know such information in order to provide products or services to you.
+
+### Keeping Your Information Secure
+
+We safeguard information according to established security standards and procedures, and we continually assess new technology for protecting information. Our employees are trained to understand and comply with these information safeguard principles.
+
+Whenever we ask for personal information on our website, we use encryption technology to encrypt the data while it is transferred to our servers. This makes it virtually impossible for anyone other than VisualTour to read your transmitted data.
+
+You can also help maintain the security of your information by not sharing your I.D. or password with anyone, and by changing your password regularly.
+
+### Accuracy of Information
+
+VisualTour.com gives you access to your account information at www.VisualTour.com for the limited purpose of viewing and, in some cases, updating, your account information to ensure its accuracy.
+
+VisualTour also employs reasonable measures to ensure the accuracy, timeliness and completeness of our Customer Information. If we become aware of inaccuracies in our records, we will take prompt steps to make appropriate corrections.
+
+### Privacy on the Internet
+
+Customers may have special privacy concerns regarding VisualTour, Inc.'s services on the Internet. In particular, customers might be anxious to ensure that their information is secure, that such information is also covered by our Privacy Policy, and that they are aware of and can control VisualTour's use of their personal information in the Internet environment. VisualTour is equally concerned about customer privacy in the Internet world and is committed to its protection.
+
+In order to provide better service, we will occasionally use a "cookie." A cookie is a small amount of data which our website stores on your computer, and which we can later retrieve. The cookie cannot be read by any site other than ours.
+
+We may use cookies for a number of administrative purposes; for example, to store your preferences for certain kinds of information or to store a password so that you do not have to input it every time you visit our site. No cookie will contain information that will allow anyone to contact you via telephone, e-mail, or any other means. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services of our website. VisualTour will at all times treat the information supplied through cookies with the same security and privacy protection as any other Customer Information we receive.
+
+### Linking From Our Site
+
+On occasion VisualTour may provide links on its website to other websites operated by third parties. If you use these links, you will leave VisualTour's website, and your browser will be re-directed to websites over which VisualTour has no control. You should acquaint yourself with these other websites, as they may have privacy policies that differ significantly from ours.
+
+### Affiliate Websites
+
+As an added benefit to our VisualTour providers and agents, we have affiliated ourselves with several popular portal websites. These sites provide increased exposure for our providers and agents, and also help customers locate VisualTour's services on the Web.
+
+As part of this affiliation, we may supply the portal sites with certain agent information. Although the scope of the information that we provide may differ depending on the needs of the portal site, generally we provide the following business information:
+
+  * Agent name
+  * Agent business telephone number
+  * Agent business address and business email address
+
+
+
+Unless you tell us otherwise, we assume that you want to take advantage of the increased exposure provided by this affiliation service. However, if you do not want us to share your business contact information with our affiliated portal websites, you may "opt out" of this service by deselecting the "tour distribution" option when you set up your account with VisualTour.com. Keep in mind, however, that if you "opt out" of this service, your contact information will not be shared with the millions of potential customers that visit the portal websites.
+
+If you "opt out" of our affiliate linking program, you may at any time "opt in" by visiting the VisualTour.com website and selecting the "tour distribution" option in your account setup screen.
+
+A list of affiliated portal websites can be found by logging into your account on VisualTour.com and selecting "Auto-Link Setup". Remember, each portal website may have its own terms and conditions of usage, as well as its own privacy policy. Therefore, you should acquaint yourself with the policies of our affiliated portal websites.
+
+### Protecting our Children
+
+VisualTour does not sell products for purchase by children. We do not knowingly solicit data from children, and we do not knowingly market to children. We recognize that protecting children's identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. The only situation in which VisualTour might collect personal information from a child would be if a child includes the information in a question he or she submits to us-which we ask children not to do. If VisualTour receives such information, we delete the information as soon as we discover it and do not use it for any purpose. We also do not disclose it to third parties.
+
+### Count on our Commitment to your Privacy
+
+You can count on us to keep you informed about how we protect your privacy and limit the sharing of information you provide to us. Our use of Customer Information is subject to the Privacy Policy in effect at the time of use of the Customer Information. If you choose to visit the website of VisualTour, your visit and any dispute over privacy will be resolved using Florida's laws, and you agree that Florida state and federal courts shall have exclusive venue and jurisdiction over any such controversy.
+
+If for some reason you believe VisualTour, Inc. has not adhered to the principles set forth in this Privacy Policy, please notify us at [Privacy@VisualTour.com](mailto:Privacy@VisualTour.com) and we will do our best to determine and correct the problem promptly. Be certain to insert the words Privacy Policy in the subject line of your email.
+
+If you have any questions regarding this Privacy Policy, please contact us at [Privacy@VisualTour.com](mailto:Privacy@VisualTour.com).
