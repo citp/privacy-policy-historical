@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gobid.com privacy policy that was archived on 2012-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121024183245id_/http%3A//unseat.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gobid.com privacy policy that was archived on 2013-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130512044740id_/http%3A//unseat.me/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head><style type="text/css"></style>
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/53452408.js"></script>
@@ -24,6 +24,12 @@
         <meta property="og:site_name" content="unseat.me">
         <meta property="fb:app_id" content="118541558234067 ">
         
+                          <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@unseatme">
+        <meta name="twitter:title" content="Share tickets with your social network">
+        <meta name="twitter:description" content="Sell your tickets to your friends">
+        <meta name="twitter:domain" content="http://unseat.me">
+                
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="apple-touch-icon" href="/apple-touch-icon.png">
         <!--
@@ -32,15 +38,16 @@
              - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
              - Transparency is not recommended (iOS will put a black BG behind the icon)
         -->
-        <link rel="stylesheet" href="/css/reset.css">
-<link rel="stylesheet" href="/css/core.css">
-<link rel="stylesheet" href="/css/ui-themes/aristo/jquery.ui.all.css">
-<link rel="stylesheet" href="/js/libs/colorpicker/css/colorpicker.css">
-<link rel="stylesheet" href="/css/colorbox/colorbox.css">
-<link rel="stylesheet" href="/css/main.css">
-<link rel="stylesheet" href="/css/media.css">
-<link rel="stylesheet" href="/css/uploadify/uploadify.css">
-<link rel="stylesheet" href="/css/multiselect/jquery.multiselect.css">
+        <link rel="stylesheet" href="/css/reset.css?v=2.2">
+<link rel="stylesheet" href="/css/core.css?v=2.2">
+<link rel="stylesheet" href="/css/ui-themes/aristo/jquery.ui.all.css?v=2.2">
+<link rel="stylesheet" href="/js/libs/colorpicker/css/colorpicker.css?v=2.2">
+<link rel="stylesheet" href="/css/colorbox/colorbox.css?v=2.2">
+<link rel="stylesheet" href="/css/main.css?v=2.2">
+<link rel="stylesheet" href="/css/media.css?v=2.2">
+<link rel="stylesheet" href="/css/uploadify/uploadify.css?v=2.2">
+<link rel="stylesheet" href="/css/multiselect/jquery.multiselect.css?v=2.2">
+<link rel="stylesheet" href="/css/bootstrap.css?v=2.2">
 <!--[if lt IE 9 ]> <link rel="stylesheet" href="/css/_patches/win-ie-all.css"> <![endif]-->		
 <!-- IE hack for em-based font-sizing - http://www.alistapart.com/articles/howtosizetextincss/ -->
 <!--[if !IE]--><style type="text/css">body { font-size:16px; }</style><!--[endif]-->
@@ -59,25 +66,32 @@
         <div id="main-wrapper" class="border-radius-16">
             <div id="inner-wrapper" class="border-radius-8">
                 <header class="clearfix" role="banner">
-					<h1><a href="/"><span class="logo-text">unseat.me</span><img width="183" height="18" src="/images/small-logo.png"></a></h1>
+					<h1><a href="/" id="site-small-logo"><span class="logo-text">unseat.me</span>&nbsp;</a></h1>
 <nav>
     <ul>
-                	<li><a href="/">Register</a></li>
+                	<li><a href="/signup">Register</a></li>
         	<li>|</li>
             <li><a href="/login">Login</a></li>
                 <li>|</li>
         <li><a href="/contact-us">Contact Us</a></li>
     </ul>
 </nav>
+
+
 				</header>
                
                 <nav id="primary" class="clearfix">
-        <ul id="search-menu">
-            <form name="search-tickets-form" action="/search" method="post">
+          <ul id="main-menu">
+          <li><a href="/search" class="showAt760">Find Tickets</a></li>
+      </ul>    
+        
+          <ul id="search-menu" class="hideme">
+          <form name="search-tickets-form" action="/search" method="post">
       <fieldset class="clearfix">
-          <input type="hidden" name="ticket[_csrf_token]" value="0da4aa5b02d12ca6abdd36d871144902" id="ticket__csrf_token">          <div id="event-option-div" class="box-18">
+                    <div id="event-option-div" class="box-18">
               <label for="ticket_event_option">Choose a Sport</label>              <select name="ticket[event_option]" class="event-option-input" id="ticket_event_option">
 <option value="1">MLB Baseball</option>
+<option value="14">MLS Soccer</option>
 <option value="2">NBA Basketball</option>
 <option value="6">NCAA Basketball</option>
 <option value="5">NCAA Football</option>
@@ -124,8 +138,8 @@
           </div>
 
       </fieldset>
-  </form>        </ul>
-</nav>
+  </form>      </ul>
+    </nav>
                 
                 
 
@@ -133,11 +147,11 @@
     
     <h2>Privacy Policy</h2> 
   
-	<p>Protecting your private information is our priority. This Statement of Privacy applies to the unseat.me and unseat.me, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to unseat.me, Inc. include unseat.me, unseat.me, unseatme.com and unseatme.com. The unseat.me website is a Social Network site. By using the unseat.me website, you consent to the data practices described in this statement.</p> 
+	<p>Protecting your private information is our priority. This Statement of Privacy applies to the unseat.me and unseat.me, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to unseat.me, Inc. include unseat.me, unseat.me, unseatme.com and unseatme.com. The unseat.me website is a Social Network and marketplace site. By using the unseat.me website, you consent to the data practices described in this statement.</p> 
   
 	<h3>Collection of your Personal Information</h3>
 	
-	<p>unseat.me may collect personally identifiable information, such as your name. If you purchase unseat.me's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. unseat.me may also collect anonymous demographic information, which is not unique to you, such as your age. We may gather additional personal or non-personal information in the future.</p>
+	<p>unseat.me may collect personally identifiable information, such as your name and email address. If you purchase unseat.me's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. unseat.me may also collect anonymous demographic information, which is not unique to you, such as your age. We may gather additional personal or non-personal information in the future.</p>
   
 	<p>Information about your computer hardware and software may be automatically collected by unseat.me. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the unseat.me website.</p>
   
@@ -177,7 +191,7 @@
   
 	<h3>Opt-Out &amp; Unsubscribe</h3>
 
-	<p>We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from unseat.me by contacting us using the contact information provided below.</p>
+	<p>We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from unseat.me via tools on your account settings page.</p>
   
 	<h3>Changes to this Statement</h3>
 
@@ -188,7 +202,7 @@
 	<p>unseat.me welcomes your questions or comments regarding this Statement of Privacy. If you believe that unseat.me has not adhered to this Statement, please contact unseat.me at:</p>
   
 	<p>unseat.me, Inc.<br>
-	2130 Fillmore Street #212<br> 
+	2184 Sutter Street #212<br> 
 	San Francisco, California 94115</p> 
   
 	<p>Email Address:<br>
@@ -204,15 +218,15 @@
         <!-- Main Wrapper Ends -->
         
             		<footer class="clearfix" role="contentinfo">
-	<small>Copyright © 2012 unseat.me</small>
+	<small>Copyright © 2013 unseat.me</small>
     	<nav>
 		<ul>
 			<li><small><a href="http://blog.unseat.me">News</a></small></li>
-			<li>|</li>
+			<li class="hideme-480">|</li>
 			<li><small><a href="http://jobs.unseat.me">Jobs</a></small></li>
-			<li>|</li>
+			<li class="hideme-480">|</li>
 			<li><small><a href="/terms-of-use">Terms of Use</a></small></li>
-			<li>|</li>
+			<li class="hideme-480">|</li>
 			<li><small><a href="/privacy-policy">Privacy Policy</a></small></li>
 		</ul>
 	</nav>
@@ -256,7 +270,8 @@
 <script src="/js/libs/uploadify/jquery.uploadify.min.js"></script>
 <script src="/js/libs/uploadify/swfobject.js"></script>
 
-
+<script src="/js/libs/zeroclipboard/zeroclipboard.min.js"></script>
+<script src="/js/libs/bootstrap.min.js"></script>
 <script src="/js/unseatme.js"></script>
 
 <!--[if lt IE 7 ]>
@@ -264,7 +279,9 @@
 <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
 <![endif]-->
 
-
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
 
         
                 
