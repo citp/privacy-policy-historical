@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118134251id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512114008id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
-**Effective November, 2011**
+**Effective April 25, 2013**
 
 OpenTable, Inc., along with its subsidiaries or affiliated companies ("OpenTable"), is committed to safeguarding your privacy. This Privacy Policy describes OpenTable’s policies and procedures on the collection, use and disclosure of the information collected through OpenTable's websites, which include [www.opentable.com](http://www.opentable.com/), [www.opentable.co.uk](http://www.opentable.co.uk/), [www.opentable.jp](http://www.opentable.jp/), [www.opentable.de](http://www.opentable.de/), and mobile applications as well as any other sites owned or operated by OpenTable (hereinafter referred to collectively as the "OpenTable Websites").
 
@@ -20,7 +20,7 @@ There are two ways you can make restaurant reservations online using the OpenTab
 
 **_Unregistered Users:_**
 
-As an **Unregistered User** , you will be asked to provide a name and a telephone number in order to complete the reservation, as you usually would be when making a reservation over the phone. In addition, you will be asked to provide an email address to which OpenTable will send automated service messages pertaining to your reservation. OpenTable will use this email address for no other purpose unless you have consented to receive marketing communications from either OpenTable or from restaurants at which you've made online reservations. Unregistered Users cannot earn OpenTable Dining Rewards points or save their dining preferences for future visits.
+As an **Unregistered User** , you will be asked to provide a name and a telephone number in order to complete the reservation, as you usually would be when making a reservation over the phone. In addition, you will be asked to provide an email address to which OpenTable will send automated service messages pertaining to your reservation. Unless you have consented to receive marketing communications from either OpenTable or from restaurants at which you've made online reservations, OpenTable will not send marketing communications to this email. Unregistered Users cannot earn OpenTable Dining Rewards points or save their dining preferences for future visits.
 
 **_Registered Users:_**
 
@@ -130,7 +130,7 @@ For questions regarding how to access and change your personal information visit
 
 For questions or opinions on OpenTable's privacy policy, contact OpenTable via email at 
 
-[http://support.opentable.com/](http://support.opentable.com/app/ask/c/) or by mail at: OpenTable, Attn: Legal Department, 799 Market Street 4th Floor, San Francisco, CA 94103.
+[http://support.opentable.com/](http://support.opentable.com/app/ask/c/) or by mail at: OpenTable, Attn: Legal Department, One Montgomery 7th Floor, San Francisco, CA 94104.
 
 **_Japan_**
 
@@ -148,3 +148,9 @@ OpenTable is a participant in the U.S.-EU Safe Harbor program and the U.S.-Swiss
 In compliance with the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles, OpenTable commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact OpenTable via email at info@opentable.com or by mail at: OpenTable, Attn: Legal Department, 799 Market Street 4th Floor, San Francisco, CA 94103.
 
 OpenTable has further committed to refer unresolved privacy complaints under the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by OpenTable, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+**NOTICE TO CALIFORNIA RESIDENTS**
+
+**Your California Privacy Rights** **(As Provided by California Civil Code section 1798.83).**
+
+A California resident who has provided Personal Data to a business with whom he/she has established a business relationship for personal, family, or household purposes (a “California Customer”) may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes, subject to certain exceptions. In general, again, subject to certain exceptions, if the business has made such a disclosure of Personal Data, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom Personal Data was disclosed in the preceding calendar year, as well as a list of the categories of Personal Data that were disclosed. Under the exceptions, OpenTable may instead provide California Customers a cost free means to opt-out of these disclosures. Any customer may request to opt-out of these disclosures by contacting OpenTable as described above. California Customers may also request further information about our compliance with this law by contacting us at our address below.
