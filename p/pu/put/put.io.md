@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126063251id_/http%3A//put.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512221040id_/https%3A//put.io/privacy) for the most accurate reproduction.*
 
 # online storage re-imagined | put.io
 
@@ -50,7 +50,7 @@ Put.io may place links to other web sites operated by other parties and from tim
 
 ## 7\. Information storage
 
-You understand and agree that Put.io stores and processes your information on computers located in Netherlands, and by providing any data to Put.io, you consent to the transfer of such information to Netherlands.
+You understand and agree that Put.io stores and processes your information on computers located in Netherlands, and by providing any data to Put.io, you consent to the transfer of such information to Netherlands. When you a delete a file from your Put.io account, no link will remain between you and that file. Deleted files may stay cached in Put.io servers to save bandwidth in case other people request them.
 
 ## 8\. How to Contact Us
 
