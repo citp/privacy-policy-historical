@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficjunky.net privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028071157id_/https%3A//www.trafficjunky.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficjunky.net privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512054437id_/https%3A//www.trafficjunky.net/privacy_policy) for the most accurate reproduction.*
 
 # TrafficJunky Advertisers - Privacy Policy
 
@@ -36,6 +36,6 @@ We may change this policy as new services are added or old ones are changed. Suc
 
 ## 9\. International Payment Processing
 
-Bridco Trading Ltd,  
+Bridco Trading Ltd.  
 33 Larnakos Avenue 1st Floor/Suite 101  
-Nicosia, Cyprus 1046 
+Nicosia, Cyprus 1046
