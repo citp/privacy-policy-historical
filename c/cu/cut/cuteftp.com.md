@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the cuteftp.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101030648id_/http%3A//www.cuteftp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteftp.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512074520id_/http%3A//www.cuteftp.com/privacy.aspx) for the most accurate reproduction.*
 
 # CuteFTP
 
 We want you to know that we take your privacy seriously. We collect industry standard information to help us provide you with better software and services as described below. 
 
 **Personal Information**   
-We may ask you for personal information when you download our software, register for a trial license, purchase a permanent license, or at all of these times. For example, we may ask you for your e-mail address, your name, company name, address, and credit card billing information. 
-
-We use your e-mail address to send registration reminders, to notify you of new software releases, updates, special offers, news, and possibly to send investor communications. For your convenience, each announcement contains instructions on how to be removed from all future mailings. 
+We may ask you for personal information when you download our software, register for a trial license, purchase a permanent license, or at all of these times. For example, we may ask you for your e-mail address, your name, company name, address, and credit card billing information. We use your e-mail address to send registration reminders, to notify you of new software releases, updates, special offers, news, and possibly to send investor communications. For your convenience, each announcement contains instructions on how to be removed from all future mailings. 
 
 We use your name and other personal information to identify you as a registered user in order to give you the full benefits of registration including technical support and upgrade eligibility. 
 
