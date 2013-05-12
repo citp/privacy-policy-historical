@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014091314id_/http%3A//www.instantfundas.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512070614id_/http%3A//www.instantfundas.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Instant Fundas - All Things Technology and More
-
-by 
 
 Instant Fundas respect your privacy and we are committed to safeguarding it while you are online at our site. The following privacy policy is to help you understand what information we collect, how it is used and who will have access to that information.
 
@@ -35,5 +33,3 @@ While we do not intend to make changes to this policy very often, we reserve the
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Email: admin@instantfundas.com
-
-* * *
