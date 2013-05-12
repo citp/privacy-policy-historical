@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techhew.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107151223id_/http%3A//www.techhew.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techhew.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512133957id_/http%3A//www.techhew.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for TechHew.com - TechHew
+# Privacy Policy for TechHew.com
 
 At TechHew.com your privacy is of utmost importance to us. We do not gather any information regarding our users like their phone no., Social Security numbers, Bank Account No. and nor any credit card information.
 
@@ -19,6 +19,16 @@ TechHew.com does not collect any sensitive data like credit card information or 
 TechHew.com works with third parties to serve ads and promotions through this site as well as to assist us in managing customer information and to communicate with you. To find out more about how these third parties manage the privacy of information in conjunction with serving ads on this site, please visit the privacy policy on their web sites.
 
 When you are accessing TechHew.com you may promotion through an advertising vehicle, and are asked for personal information, you are not sharing that information with TechHew.com. Promotions, surveys and other sweepstakes offerings may be sponsored, or co-sponsored, by another company. Some or all of the data collected during such a program may be shared with the marketing partner. Your participation is always voluntary.
+
+**DoubleClick Cookie**
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
+
+You can read more about Google’s Advertising and Cookies here: <http://www.google.com/policies/privacy/ads/>
 
 **Email Addresses**
 
