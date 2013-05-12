@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121014624id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512064148id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,6 +34,8 @@ If we have reason to believe that a Member is in breach of the Terms of Use Agre
 
 We use "cookies" to store specific information about you and track your visits to our Site. It is not uncommon for websites to use cookies to enhance identification of their users. A "cookie" is a small amount of data that is sent to your browser and stored on your computer's hard drive. A cookie can be sent to your computer's hard drive only if you access our Site using the computer. If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we may have knowledge of your visit and the pattern of your usage. Generally, we use cookies to identify you and enable us to access your Registration Information or Publishing Information so you do not have to re-enter it; gather statistical information about usage by Members; research visiting patterns and help target advertisements based on Member interests; assist our partners to track Member visits to the Site and process orders; and track progress and participation in promotions.
 
+Third parties also serve or use cookies through this website. These cookies do not carry any personally identifiable information and are used to show our advertisements on various sites across the Internet. The third party remarketing vendors concerned use cookies to inform, optimize, and serve ads based on your past visits to our website. 
+
 You can determine if and how a cookie will be accepted by configuring your browser's which is installed in the computer you are using to access the Site. If you desire, you can change those configurations in your browser. By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies. If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter your information on our Site more often and certain features of our Site may be unavailable.
 
 ## Minors
@@ -58,8 +60,8 @@ You can access, view and edit your Registration Information and Publishing Infor
 
 ## Your feedback
 
-GlobalMarket welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [service@globalmarket.com](mailto:service@globalmarket.com)
+GlobalMarket welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may responses to call our buyer service center +86-20-86002299 or send your comments to our Buyer Service Executive [buyerservice@globalmarket.com](mailto:buyerservice@globalmarket.com). By postal mail, you can write to our headquarter: 17F, Tower A, Victory Plaza, No.103, Tiyu Xi Road, Guangzhou, P.R.C.
 
 ## Choice and Opt-Out 
 
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [service@globalmarket.com](mailto:service@globalmarket.com).
+When you subscribe our email services, you will be given the option to opt-out of subscribing to our regular update service. We will send you e mail alerts for new products & manufacturer information, features, industry & tradeshow updates, contests, events of interest. Such alerts may include marketing information about GlobalMarket.com, our subsidiaries or selected business partners. If you no longer wish to receive GlobalMarket's promotional communications and email services, you may "opt-out" of receiving them any time by an easy automated unsubscribe link, which included in each email we send to you. If you have any trouble in unsubscribing, you can contact our Buyer Service Executive by [buyerservice@globalmarket.com](mailto:buyerservice@globalmarket.com).
