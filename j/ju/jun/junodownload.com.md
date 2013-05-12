@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junodownload.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193131id_/http%3A//www.junodownload.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junodownload.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512114029id_/http%3A//www.junodownload.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Help > Privacy Policy
 
