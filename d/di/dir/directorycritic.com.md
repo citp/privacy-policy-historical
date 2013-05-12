@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorycritic.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003211321id_/http%3A//www.directorycritic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorycritic.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512042207id_/http%3A//www.directorycritic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Directory Critic
 
