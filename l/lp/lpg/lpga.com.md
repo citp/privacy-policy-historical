@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014042158id_/http%3A//www.lpga.com/corporate/ladies-golf/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512025134id_/http%3A//www.lpga.com/corporate/ladies-golf/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Professional Golfers | Tour Schedule, Leaderboard & News | LPGA
 
@@ -10,7 +10,7 @@ The LPGA and its Internet partner, Winnercomm, (hereafter collectively referred 
 
 Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from the LPGA and/or any third parties. 
 
-LPGA.com is sharing personally identifiable information with WebSideStory (acting as its site traffic gathering agent for this limited purpose) for the sole purpose of gathering statistical data on visitors to the site and the pages viewed by those visitors. If you wish to opt out, [visit WebSideStory's privacy center.](http://www.websidestory.com/privacy/)
+LPGA.com is sharing personally identifiable information with Google Analytics (acting as its site traffic gathering agent for this limited purpose) for the sole purpose of gathering statistical data on visitors to the site and the pages viewed by those visitors. If you wish to opt out, [visit Google Analytics' privacy center.](http://www.google.com/analytics/)
 
 Further, notwithstanding any opt out of promotional information by the user, the LPGA reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected.
 
