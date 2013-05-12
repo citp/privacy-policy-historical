@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytscstore.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514042512id_/http%3A//www.tractorsupply.com/content/home/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytscstore.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512083400id_/http%3A//www.tractorsupply.com/content_customer-solutions_tsc-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
   1. Our Customer Pledge
   2. Collection and Use of Personal Information
@@ -18,7 +18,7 @@
 
 We at Tractor Supply Company, including our affiliated and subsidiary companies (collectively " ** _Tractor Supply_** ") protect the personal information you provide us in accordance with this Privacy and Security Policy (" **Privacy Policy** "). We have prepared this Privacy Policy to let you know how we collect, use, disclose and otherwise manage the personal information you provide to us at any of our Tractor Supply stores (the " ** _Stores_** "), through any Tractor Supply Customer Call Centers (the " ** _Customer Call Centers_** "), through the tractorsupply.com website and other sites that may be established by Tractor Supply (the " ** _Sites_** ").
 
-When you provide personal information at our Stores, to our Customer Call Centers, or through our Sites or email, you are consenting to the manner in which Tractor Supply will collect, use, disclose and otherwise manage your personal information, as described below. Tractor Supply does engage third party service providers (" ** _Service Providers_** ") with whom your information may be shared. Service Providers have their own security policies and Tractor Supply is not responsible for their conduct.  Unless explicitly stated otherwise, any current, updated and new products and services shall be subject to this Privacy Policy, as well as the Terms and Conditions of Use (“ ** _Terms and Conditions_** ”). By using the services provided at the Stores or the Customer Call Centers or by using the Sites you agree to be bound by this Privacy Policy and the Terms and Conditions.
+When you provide personal information at our Stores, to our Customer Call Centers, or through our Sites or email, you are consenting to the manner in which Tractor Supply will collect, use, disclose and otherwise manage your personal information, as described below. Tractor Supply does engage third party service providers (" ** _Service Providers_** ") with whom your information may be shared. Service Providers have their own security policies and Tractor Supply is not responsible for their conduct. Unless explicitly stated otherwise, any current, updated and new products and services shall be subject to this Privacy Policy, as well as the Terms and Conditions of Use (“ ** _Terms and Conditions_** ”). By using the services provided at the Stores or the Customer Call Centers or by using the Sites you agree to be bound by this Privacy Policy and the Terms and Conditions.
 
 Tractor Supply cares about online privacy. If you have any questions concerning this Privacy Policy, please email us at [websupport@tractorsupply.com](mailto:websupport@tractorsupply.com)
 
@@ -30,18 +30,18 @@ Tractor Supply will collect, use, disclose and otherwise manage your personal in
 
 Tractor Supply may collect and use personal information that you provide us when you:
 
-  * Purchase, order, return, exchange or request certain information about Tractor Supply's products and services; 
-  * Request warranty or tax exempt information; 
-  * Contact a Customer Call Center or customer service desk; 
-  * Visit, register on, or participate in the features of one of Tractor Supply's Sites, such as a bulletin board or community; 
-  * Enter into a contest or sweepstakes or respond to one of Tractor Supply's surveys; 
-  * Provide Tractor Supply with comments or suggestions; 
-  * Provide Tractor Supply with any information contributed to our Sites on your behalf; or 
-  * Provide Tractor Supply other contact information. 
+  * Purchase, order, return, exchange or request certain information about Tractor Supply's products and services;
+  * Request warranty or tax exempt information;
+  * Contact a Customer Call Center or customer service desk;
+  * Visit, register on, or participate in the features of one of Tractor Supply's Sites, such as a bulletin board or community;
+  * Enter into a contest or sweepstakes or respond to one of Tractor Supply's surveys;
+  * Provide Tractor Supply with comments or suggestions;
+  * Provide Tractor Supply with any information contributed to our Sites on your behalf; or
+  * Provide Tractor Supply other contact information.
 
 
 
-When you use one of our Sites or communicate with us by email, certain additional information is collected without you being prompted to provide it. This information includes, but is not limited to, non-personally-identifiable information such as IP address, cookies, profile information, click tracking and tracer tags, which are covered below.  This data is used to improve the website services, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. Tractor Supply will not use the information collected to market directly to that person. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to Users. User IP addresses are recorded for security and monitoring purposes.
+When you use one of our Sites or communicate with us by email, certain additional information is collected without you being prompted to provide it. This information includes, but is not limited to, non-personally-identifiable information such as IP address, cookies, profile information, click tracking and tracer tags, which are covered below. This data is used to improve the website services, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. Tractor Supply will not use the information collected to market directly to that person. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to Users. User IP addresses are recorded for security and monitoring purposes.
 
  **1\. Shopping at Tractor Supply Company  
 ** When you purchase products and services at one of Tractor Supply's Stores, you may do so anonymously when you pay with cash. If you use a credit or debit card for any of your purchases, whether on a Site or in a Store, Tractor Supply will collect your credit or debit card information and keep a history of your purchases. Tractor Supply uses this information to process your orders, to ensure proper delivery, to better assist you when you visit or call us as well as to improve our product and service offerings.
@@ -109,8 +109,8 @@ If at anytime you would like to be removed from any/all Tractor Supply marketing
 
 As a registered user with our Sites, you can access your profile information at any time by:
 
-  * Clicking on the "Sign In" (link) button at the top of any page on the Sites on which you registered, then 
-  * Clicking on the "Your Account" (link) button on the page header or on the "Your Account" link under Customer Support. 
+  * Clicking on the "Sign In" (link) button at the top of any page on the Sites on which you registered, then
+  * Clicking on the "Your Account" (link) button on the page header or on the "Your Account" link under Customer Support.
 
 
 
@@ -122,9 +122,9 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 
  **G. Children's Privacy Policy** (back to top)
 
-Please do not allow children under the age of 18 to purchase any goods through the Sites. Tractor Supply does not intend to collect any personally identifiable information from children under the age of 13 through the Tractor Supply Sites. All children under the age of 13 are not permitted to provide any personally identifiable information or participate in programs or communities related to our Sites. If we determine that a child under 13 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 13, please notify us by contacting a Tractor Supply Customer Call Center in any of the ways identified in Section J. Please be certain to include in the subject line Privacy Policy Request 
+Please do not allow children under the age of 18 to purchase any goods through the Sites. Tractor Supply does not intend to collect any personally identifiable information from children under the age of 13 through the Tractor Supply Sites. All children under the age of 13 are not permitted to provide any personally identifiable information or participate in programs or communities related to our Sites. If we determine that a child under 13 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 13, please notify us by contacting a Tractor Supply Customer Call Center in any of the ways identified in Section J. Please be certain to include in the subject line Privacy Policy Request
 
-**H. Security Limitations** (back to top)
+ **H. Security Limitations** (back to top)
 
 No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from unauthorized access, use or disclosure, Tractor Supply cannot ensure or warrant the security of any information you transmit to us on our Sites.
 
@@ -154,4 +154,4 @@ We may change this Privacy Policy at any time in our sole discretion. Any update
 
 Last update: February 14, 2011
 
-Copyright © 2011 Tractor Supply Company, Inc. All Rights Reserved.
+Copyright © 2013 Tractor Supply Company, Inc. All Rights Reserved.
