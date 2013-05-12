@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510124230id_/http%3A//www.jaguars.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512125240id_/http%3A//www.jaguars.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - jaguars.com
 
@@ -17,7 +17,7 @@ When this privacy policy uses the term "personally identifiable information" or 
 
 The Jacksonville Jaguars is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent,non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.jaguars.com/](http://prod.www.jaguars.clubs.nfl.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Bruce Swindell at [privacy@jaguars.com](mailto:privacy@jaguars.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
+If you have questions or concerns regarding this statement, you should first contact us via email at [privacy@jaguars.com](mailto:privacy@jaguars.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
 
 TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -136,10 +136,10 @@ We will only use personally identifiable information collected on jaguars.com/mb
 
 We may amend this privacy policy at any time. We will send an email or postal notice regarding material changes in the way we collect, use, and/or share children's personal information to parents who have granted permission for us to collect their children's personally identifiable information. Please note that parents should always update their personal information to provide us with current contact information.
 
-If you have questions or comments about this website, please send an email to privacy@jaguars.com or contact us by regular mail at:
+If you have questions or comments about this website, please send an email to [privacy@jaguars.com](mailto:privacy@jaguars.com) or contact us by regular mail at:
 
-Jacksonville Jaguars, LTD  
-1 ALLTEL Stadium Place  
+Jacksonville Jaguars, LLC  
+One EverBank Field Drive  
 Jacksonville, FL 32202  
 (904) 633-6000  
 Please mark your envelope "ATTN: Children's Website Privacy."
@@ -164,11 +164,11 @@ If you are a California resident and you would like to make such a request, plea
 
 ##### Questions About This Privacy Policy
 
-If you have any questions about this privacy policy or the privacy practices of this Website, contact privacy@jaguars.com.
+If you have any questions about this privacy policy or the privacy practices of this Website, contact [privacy@jaguars.com](mailto:privacy@jaguars.com).
 
 Questions regarding this statement should be directed to:
 
-Bruce Swindell Attn: Website Privacy Policy  
+Attn: Website Privacy Policy  
 Jacksonville Jaguars  
-One Stadium Place  
+One EverBank Field Drive  
 Jacksonville, FL 32202
