@@ -1,5 +1,61 @@
-> *The following text is extracted and transformed from the freeclassifieds2.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521163330id_/http%3A//www.freeclassifieds2.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclassifieds2.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512163015id_/http%3A//www.freeclassifieds2.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
-Privacy Policy www.FreeClassifieds2.com has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by www.FreeClassifieds2.com from time to time. 1\. Protecting your privacy We don't share your information with third parties for marketing purposes. We offer email anonymization, to reduce 3rd party harvesting & spam. To reduce user exposure we don’t require a user account to post or read ads. www.FreeClassifieds2.com, or people who post on www.FreeClassifieds2.com, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. 2\. Data we collect We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc. For paid job postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes. www.FreeClassifieds2.com does not store credit card information. Credit card transactions are transmitted to a financial gateway We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on www.FreeClassifieds2.com’s classifieds that you expect to keep private. Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the www.FreeClassifieds2.com site, and to otherwise provide our service to you. 3\. Data we store All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere. Our web logs and other records are stored indefinitely. Registered job posters can access and update their account information through the account homepage. Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security. 4\. Archiving and display of www.FreeClassifieds2.com postings by search engines and other sites Search engines and other sites not affiliated with www.FreeClassifieds2.com - archive or otherwise make available www.FreeClassifieds2.com postings, including resumes 5\. Circumstances in which www.FreeClassifieds2.com may release information www.FreeClassifieds2.com may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. www.FreeClassifieds2.com may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of www.FreeClassifieds2.com, its users or the general public. 6\. International Users By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of www.FreeClassifieds2.com we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. By providing us with your data, you consent to the transfer of such data. 
+Privacy Policy This Privacy Policy governs the manner in which www.Freeclassifieds2.com collects, uses, maintains and discloses information collected from users (each, a "User") of the www.freeclassifieds2.com website ("Site"). This privacy policy applies to the Site and all products and services offered by www.Freeclassifieds2.com.
+
+**Personal identification information**
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+**Non-personal identification information**
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+**Web browser cookies**
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+**How we use collected information**
+
+Freeclassifieds2.com may collect and use Users personal information for the following purposes:
+
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Google Adsense**
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Compliance with children's online privacy protection act**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**Changes to this privacy policy**
+
+Freeclassifieds2.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.freeclassifieds2.com/terms.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[admin@Freeclassifieds2.com](mailto:admin@Freeclassifieds2.com)
+
+This document was last updated on December 03, 2012
