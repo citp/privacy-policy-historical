@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kleenex.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222143435id_/http%3A//kleenex.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleenex.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512123826id_/http%3A//kleenex.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Kleenex®
 
@@ -16,7 +16,7 @@ Information is collected from you directly and with your knowledge. There are so
 
 ### What We Do with Your Information
 
-When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list. If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting this [page](https://web.archive.org/?deeplink=unsubscribe), or by calling 1-888-525-8373. With your permission, we may share information such as your name, email address and street address with carefully selected companies ("partners") whose offers may be of interest to you. Your permission is given by "opting in" to programs with partners. Even if you "opt in", your date of birth, the dates of birth of your family members and credit card information are never shared. You may "opt out" of partner offers and programs at any time by updating your [User Profile](https://web.archive.org/web/20121222143435id_/http%3A//kleenex.com/MyAccount.aspx?module=newsletter), [Contacting Us](https://web.archive.org/web/20121222143435id_/http%3A//kleenex.com/contactus.aspx) or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence. Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).
+When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list. If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting this [page](https://web.archive.org/?deeplink=unsubscribe), or by calling 1-888-525-8373. With your permission, we may share information such as your name, email address and street address with carefully selected companies ("partners") whose offers may be of interest to you. Your permission is given by "opting in" to programs with partners. Even if you "opt in", your date of birth, the dates of birth of your family members and credit card information are never shared. You may "opt out" of partner offers and programs at any time by updating your [User Profile](https://web.archive.org/web/20130512123826id_/http%3A//kleenex.com/MyAccount.aspx?module=newsletter), [Contacting Us](https://web.archive.org/web/20130512123826id_/http%3A//kleenex.com/contactus.aspx) or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence. Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).
 
 ### Interest-Based Advertising
 
@@ -48,7 +48,7 @@ Like many companies, Kimberly-Clark uses "cookie" technology on our Site. Cookie
 
 ### Contact Us
 
-If you have any questions about our Privacy Policy, you can contact us via [Contacting Us](https://web.archive.org/web/20121222143435id_/http%3A//kleenex.com/contactus.aspx) or phone us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, you can contact us via [Contacting Us](https://web.archive.org/web/20130512123826id_/http%3A//kleenex.com/contactus.aspx) or phone us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). For postal mail, please write to us at:
 
 Kimberly-Clark Corporation  
 P.O. Box 2020  
