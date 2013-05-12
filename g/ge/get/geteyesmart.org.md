@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019233638id_/http%3A//www.geteyesmart.org/eyesmart/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512225753id_/http%3A//www.geteyesmart.org/eyesmart/privacy-policy.cfm) for the most accurate reproduction.*
 
 # EyeSmart Privacy Policy-Eye M.D.-approved information from EyeSmart
 
