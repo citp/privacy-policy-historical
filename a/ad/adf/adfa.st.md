@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfa.st privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118034644id_/http%3A//adfa.st/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfa.st privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512074224id_/http%3A//adfa.st/en/privacy.html) for the most accurate reproduction.*
 
 # AdFa.st - Privacy
 
