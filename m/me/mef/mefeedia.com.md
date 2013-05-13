@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230164251id_/http%3A//www.mefeedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513224812id_/http%3A//www.mefeedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,7 +46,7 @@ We do not knowingly collect any personal information from children under the age
 
 ### Opt-Out
 
-The Mefeedia Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, click here to send an email indicating that you no longer wish to receive such communications. Please provide your name and physical and/or email address(es) at which you are receiving the unwanted communications. 
+The Mefeedia Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, [click here ](http://support.mefeedia.com/)to send an email indicating that you no longer wish to receive such communications. Please provide your name and physical and/or email address(es) at which you are receiving the unwanted communications. 
 
 ### Notice for Users Outside of the United States
 
