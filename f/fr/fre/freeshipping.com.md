@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2012-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120731232211id_/https%3A//www.freeshipping.com/policy.asp%3Fref%3Dft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513122734id_/https%3A//freeshipping.com/policy.asp%3Fref%3Dft) for the most accurate reproduction.*
 
 # FreeShipping.com | Privacy Policy
 
 ### Freeshipping.com Privacy Policy
+
+* * *
 
 _Effective Date: March 15, 2011_
 
@@ -14,7 +16,7 @@ I. INFORMATION WE COLLECT
 
 Information Provided by You.
 
-Registration and Membership.We will collect personal information from you when you visit our Site, sign up for our Services, interact with our Site, register with us, or use various features of our Site.In order to register on our Site, you must first complete the registration form providing contact information (such as name, email, and address).To become a member you must also provide billing information (such as credit and/or debit card account information). This information is used for enrollment and billing purposes; to verify customer membership; and to fill customer orders. If we have trouble processing an order, the information may be used to contact you. When you provide us with information in connection with a particular activity or otherwise register for our Services or provide your contact information, including an email address or telephone number in connection with that activity, product or service, you agree that this action constitutes a purchase or inquiry establishing a business relationship with us.You expressly consent to our communicating with you regarding future information about our Services using the information you provided to us.You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you.This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
+Registration and Membership. We will collect personal information from you when you visit our Site, sign up for our Services, interact with our Site, register with us, or use various features of our Site.In order to register on our Site, you must first complete the registration form providing contact information (such as name, email, and address).To become a member you must also provide billing information (such as credit and/or debit card account information). This information is used for enrollment and billing purposes; to verify customer membership; and to fill customer orders. If we have trouble processing an order, the information may be used to contact you. When you provide us with information in connection with a particular activity or otherwise register for our Services or provide your contact information, including an email address or telephone number in connection with that activity, product or service, you agree that this action constitutes a purchase or inquiry establishing a business relationship with us.You expressly consent to our communicating with you regarding future information about our Services using the information you provided to us. You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
 
 Surveys and Sweepstakes. From time-to-time we may request information from users or members via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information. Contact information may be used to notify the winners and award prizes and file winners as required by law. Survey information will be used for purpose of the survey, including for the monitoring or improvement of the use and satisfaction of the Site. 
 
@@ -80,4 +82,6 @@ Contacting Us. If you have any questions about this Privacy Policy, or the pract
 >  Wethersfield, CT 06129-0728  
 > 
 
-Copyright 2012 Clarus Marketing Group. All rights reserved.
+* * *
+
+Copyright 2013 Clarus Marketing Group. All rights reserved.
