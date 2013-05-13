@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215135702id_/http%3A//www.mtv.co.uk/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513141450id_/http%3A//www.mtv.co.uk/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MTV UK
 
@@ -26,9 +26,9 @@ We collect your information in the following ways.
 
 o   provide information about yourself to enter one of our competitions or promotions
 
-o   order products or services from us such as video clips from our WAP site (see our **_Mobile Terms of Use_** for more information on the use of our mobile services)
+o   order products or services from us or one of our partners such as video clips from our WAP site (see our Mobile Terms of Use for more information on the use of our mobile services);
 
-o   register as a new member of one of our online communities (See our **_Online Communities and Social Project_ **section below and our [**Website Terms of Use**](http://www.mtv.co.uk/terms/website) for more information on this registration process)
+o   register as a new member of one of our online communities (See our Online Communities and Social Project section below and our [Website Terms of Use](http://www.mtv.co.uk/terms/website) for more information on this registration process)
 
 o   opt in to receive any of our newsletters or other marketing information
 
@@ -38,15 +38,15 @@ o   cast a vote on anything within our online services
 
 o   register to access paid premium content on our MTV OD service
 
-·       If it is passed to us by Social Project Inc. when you join one of our online communities from another community within the Social Project Network (see [**Our Online Communities and Social Project**](http://www.mtv.co.uk/terms/privacy#socialproject) section below and the [**SP Privacy Policy**](http://www.socialproject.com/PrivacyPolicy.html) for more details on this) 
+·       If it is passed to us by Social Project Inc. when you join one of our online communities from another community within the Social Project Network (see [**Our Online Communities and Social Project**](http://www.mtv.co.uk/terms/privacy#socialproject) section below and the [**SP Privacy Policy**](http://www.socialproject.com/PrivacyPolicy.html) for more details on this). 
 
-·       If it passed to us by our affiliates, partners or other third parties with your consent
+·       If it passed to us by our affiliates, partners or other third parties with your consent.
 
 ·       Automatically using “cookies”, web beacons and other tracking systems (see our **_Cookie Policy_** for more details on how we use cookies and how you can disable them if you choose to do so). 
 
 **4.      ****HOW WE USE AND DISCLOSE YOUR INFORMATION**
 
-We use your information operationally to:
+We use your information operationally (either directly ourselves or through one of our partners) to:
 
 ·       process any requests or orders for goods or services that you may have requested or purchased
 
@@ -70,13 +70,13 @@ In addition and with your consent we (and if applicable, our partners or other t
 
 ·       to conduct market research, for example by asking you to participate in a survey about topical issues conducted by us or trusted partners or third parties. We will always try to tell you before you participate in the survey how any information you provide in the survey will be used 
 
-·       to enable us and third parties acting on our behalf to analyse your information, in a non-identifying form, (generally in the form of statistics), so that we can identify trends about usage of our online or other services and improve them 
+In addition, we use your information to enable us and third parties acting on our behalf to analyse your information, in a non-identifying form, (generally in the form of statistics), so that we can identify trends about usage of our online or other services and improve them. 
 
 We also reserve the right to access and disclose your personal information in order to comply with applicable laws, to comply with lawful requests from governments, law enforcement agencies or parties whose request we reasonably consider to be justified in connection with any allegations by any party about your abuse of our services, to operate our systems properly or to protect ourselves or our users. 
 
 Some of the partners and third parties with whom we share your information for the purposes set out above may be outside of the European Union and in countries which may provide a lower standard of protection for personal data, by using our online services you consent to the transfer of your personal information outside of the EU.
 
-Please be advised that your personal information may be transferred to and processed by our affiliates in the United States.  These affiliates comply with the U.S.-EU Safe Harbor.  Please see the Safe Harbor Privacy Policy [http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harb...](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf "http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf") for detailed information on these affiliates' privacy practices.
+Please be advised that your personal information may be transferred to and processed by our affiliates in the United States.  These affiliates comply with the U.S.-EU Safe Harbor.  Please see the Safe Harbor Privacy Policy [**http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harb...**](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf "http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf") for detailed information on these affiliates' privacy practices.
 
 **5.      ****OUR ONLINE COMMUNITIES AND SOCIAL PROJECT**
 
@@ -120,4 +120,4 @@ We have taken steps to ensure that your personal information is secure, includin
 
 In the unlikely event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of and you consent to such transfer. 
 
-This policy was last updated on 7 September 2012.
+This policy was last updated on 23 January 2013.
