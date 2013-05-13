@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the nationjob.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101123802id_/http%3A//nationjob.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationjob.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514012338id_/http%3A//nationjob.com/privacy) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">/* <![CDATA[ */_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
 _cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
 _cf_jsonprefix='//';
-_cf_clientid='188958A650C43882FDF35FAB0149E987';/* ]]> */</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+_cf_clientid='77FA6504D333E790F09AC2AEF3093899';/* ]]> */</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
@@ -35,21 +35,21 @@ body, html {
 </style>
 
 <script type="text/javascript">/* <![CDATA[ */
-	ColdFusion.Ajax.initSelect('CITYNum','CITYID','CITY');
+	ColdFusion.Ajax.initSelect('CITYNAME','CITYNAME','CITYNAME');
 /* ]]> */</script>
 
 <script type="text/javascript">/* <![CDATA[ */
-	_cf_bind_init_1351773482973=function()
+	_cf_bind_init_1368494618540=function()
 	{
-		ColdFusion.Bind.register([['STATE','CFForm_1','change']],{'bindTo':'CITYNum','bindToAttr':'value','cfc':'/cfcs/states.cfc','cfcFunction':'getcities','_cf_ajaxproxytoken':'4116B8679F','bindExpr':[['ABB','STATE','CFForm_1','value']]},ColdFusion.Bind.cfcBindHandler,false);
-	};ColdFusion.Event.registerOnLoad(_cf_bind_init_1351773482973);
+		ColdFusion.Bind.register([['STATE','CFForm_1','change']],{'bindTo':'CITYNAME','bindToAttr':'value','cfc':'/cfcs/ZipGood.cfc','cfcFunction':'getCitiesInState','_cf_ajaxproxytoken':'668488449B','bindExpr':[['state','STATE','CFForm_1','value']]},ColdFusion.Bind.cfcBindHandler,false);
+	};ColdFusion.Event.registerOnLoad(_cf_bind_init_1368494618540);
 /* ]]> */</script>
 
 <script type="text/javascript">/* <![CDATA[ */
-	_cf_bind_init_1351773482974=function()
+	_cf_bind_init_1368494618541=function()
 	{
-		ColdFusion.Bind.register([['CITYNum','CFForm_1','change']],{'bindTo':'ZIP','bindToAttr':'value','cfc':'/cfcs/states.cfc','cfcFunction':'getzip','_cf_ajaxproxytoken':'4116B8679F','bindExpr':[['cityid','CITYNum','CFForm_1','value']]},ColdFusion.Bind.cfcBindHandler,false);
-	};ColdFusion.Event.registerOnLoad(_cf_bind_init_1351773482974);
+		ColdFusion.Bind.register([['CITYNAME','CFForm_1','change'],['STATE','CFForm_1','change']],{'bindTo':'ZIP','bindToAttr':'value','cfc':'/cfcs/ZipGood.cfc','cfcFunction':'getZipsInCityState','_cf_ajaxproxytoken':'668488449B','bindExpr':[['city','CITYNAME','CFForm_1','value'],['state','STATE','CFForm_1','value'],['allOrOne','ONE']]},ColdFusion.Bind.cfcBindHandler,false);
+	};ColdFusion.Event.registerOnLoad(_cf_bind_init_1368494618541);
 /* ]]> */</script>
 <script type="text/javascript">
 <!--
@@ -115,30 +115,34 @@ body, html {
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" height="100%"><span></span>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
   <tbody><tr>
-    <td><table width="1000" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><table border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="318" bgcolor="#FFFFFF">
-        	<a href="/"><img src="/v2/images/Logo-Header.gif" alt="Back to Home Page" width="318" height="83" border="0"></a>
-        </td>
-        <td align="right" width="685" height="83" valign="middle">
-	        <script type="text/javascript"><!--
-				google_ad_client = "pub-3953067418047661";
-				/* 468x60, created 7/18/08 */
-				google_ad_slot = "9988194611";
-				google_ad_width = 468;
-				google_ad_height = 60;
-				//-->
-			</script>
-			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-       </td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td background="/v2/Images/MenuSpacer.gif">
-    	<table border="0" cellspacing="0" cellpadding="0">
+    <td><script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+
+
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="318" bgcolor="#FFFFFF">
+						<a href="/"><img src="/v2/images/Logo-Header.gif" alt="Back to Home Page" width="318" height="83" border="0"></a>
+					</td>
+					<td align="right" width="685" height="83" valign="middle">
+						<script type="text/javascript">
+							google_ad_client = "pub-3953067418047661";
+							/* 468x60, created 7/18/08 */
+							google_ad_slot = "9988194611";
+							google_ad_width = 468;
+							google_ad_height = 60;
+						</script>
+						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td background="/v2/Images/MenuSpacer.gif">
+			<table border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td bgcolor="#FFFFFF"><img src="/images/Spacer.gif" width="10" height="47"></td>
 		<td><img src="/images/spacer.gif" width="12"><a href="/Communities" style="font:16pt Arial; color:#FFFFFF; font-weight:bold;">Communities</a></td>
@@ -154,18 +158,19 @@ body, html {
 	</tr>
 </tbody></table>
 
-    </td>
-  </tr>
-  <tr>
-    <td><img src="/v2/Images/Header-HR.gif" width="1000" height="1"></td>
-  </tr>
-  <tr>
-    <td><table width="1000" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="10"><img src="/images/Spacer.gif" width="10" height="79"></td>
-        <td width="133" valign="bottom"><img src="/v2/Images/JobSearch.gif" width="135" height="79"></td>
-        <td height="79" background="/v2/images/BCK-JobSearch.gif" bgcolor="#00A7E6">
-        	<form id="CFForm_1" action="/jobsearch/" method="get" onsubmit="return _CF_checkCFForm_1(this)">
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/v2/Images/Header-HR.gif" width="1000" height="1"></td>
+	</tr>
+	<tr>
+		<td>
+			<table width="1000" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="10"><img src="/images/Spacer.gif" width="10" height="79"></td>
+					<td width="133" valign="bottom"><img src="/v2/Images/JobSearch.gif" width="135" height="79"></td>
+					<td height="79" background="/v2/images/BCK-JobSearch.gif" bgcolor="#00A7E6">
+						<form id="CFForm_1" action="/jobsearch/" method="get" onsubmit="return _CF_checkCFForm_1(this)">
 	<table>
 		<tbody><tr>
 			<td valign="bottom" class="small">Keywords  <span class="footer">(e.g. nurse, sales)</span><input type="hidden" name="searchnow" value="1"></td>
@@ -178,11 +183,11 @@ body, html {
 			</td>
 		</tr>
 		<tr>
-			<td valign="top"><input name="keywords" type="text" size="40"></td>
+			<td valign="top"><input name="keywords" id="keywords" type="text" size="40"></td>
 			<td valign="top">
 				<select name="pos" id="pos">
 
-				 <option value="NA" selected="selected" style="font-size:10px; color:#CCCCCC;">--Any Category--</option>
+				<option value="NA" selected="selected" style="font-size:10px; color:grey;">--Any Category--</option>
 				    <option value="1">Accounting / Finance / Banking</option>
     <option value="2">Administrative / Office</option>
     <option value="3">Agriculture / Agribusiness / Biotech / Biofuels</option>
@@ -224,18 +229,24 @@ body, html {
 			</td>
 			<td valign="top">
 				<select name="STATE" id="STATEID" class="txt">
-    <option value="">Select State</option>
+    <option value="">--Any State--</option>
     <option value="AL">Alabama</option>
     <option value="AK">Alaska</option>
+    <option value="AS">American Samoa</option>
     <option value="AZ">Arizona</option>
     <option value="AR">Arkansas</option>
+    <option value="AA">Armed Forces - Americas</option>
+    <option value="AE">Armed Forces - Europe/Africa/Canada</option>
+    <option value="AP">Armed Forces - Pacific</option>
     <option value="CA">California</option>
     <option value="CO">Colorado</option>
     <option value="CT">Connecticut</option>
     <option value="DE">Delaware</option>
     <option value="DC">District of Columbia</option>
+    <option value="FM">Federated States of Micronesia</option>
     <option value="FL">Florida</option>
     <option value="GA">Georgia</option>
+    <option value="GU">Guam</option>
     <option value="HI">Hawaii</option>
     <option value="ID">Idaho</option>
     <option value="IL">Illinois</option>
@@ -245,6 +256,7 @@ body, html {
     <option value="KY">Kentucky</option>
     <option value="LA">Louisiana</option>
     <option value="ME">Maine</option>
+    <option value="MH">Marshall Islands</option>
     <option value="MD">Maryland</option>
     <option value="MA">Massachusetts</option>
     <option value="MI">Michigan</option>
@@ -260,10 +272,13 @@ body, html {
     <option value="NY">New York</option>
     <option value="NC">North Carolina</option>
     <option value="ND">North Dakota</option>
+    <option value="MP">Northern Mariana Islands</option>
     <option value="OH">Ohio</option>
     <option value="OK">Oklahoma</option>
     <option value="OR">Oregon</option>
+    <option value="PW">Palau</option>
     <option value="PA">Pennsylvania</option>
+    <option value="PR">Puerto Rico</option>
     <option value="RI">Rhode Island</option>
     <option value="SC">South Carolina</option>
     <option value="SD">South Dakota</option>
@@ -271,17 +286,16 @@ body, html {
     <option value="TX">Texas</option>
     <option value="UT">Utah</option>
     <option value="VT">Vermont</option>
+    <option value="VI">Virgin Islands</option>
     <option value="VA">Virginia</option>
     <option value="WA">Washington</option>
     <option value="WV">West Virginia</option>
     <option value="WI">Wisconsin</option>
     <option value="WY">Wyoming</option>
-    <option value="IT">International</option>
-    <option value="US">Nationwide</option>
 </select>
 			</td>
 			<td valign="top">
-				<select name="CITYNum" id="CITYNum" class="txt">
+				<select name="CITYNAME" id="CITYNAME" class="txt">
 </select> <input name="ZIP" id="ZIP" type="hidden" value="zipcode" display="zipCode" class="txt">
 			</td>
 			<td valign="top">
@@ -291,13 +305,21 @@ body, html {
 	</tbody></table>
 </form>
 
-        </td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td><img src="/Images/spacer.gif" width="1000" height="20"></td>
-  </tr>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#keywords").focus();
+	});
+</script>
+
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/Images/spacer.gif" width="1000" height="20"></td>
+	</tr>
 </tbody></table>
 </td>
   </tr>
@@ -493,7 +515,7 @@ NationJob's Policy on Personal Privacy</b>
          </tbody></table>
          <table width="100%" border="0" height="20" cellspacing="0" cellpadding="0">
           <tbody><tr>
-           <td width="100%" height="20" align="left" valign="middle"><span class="footer">&nbsp;&nbsp;&nbsp;&nbsp;Electronic Recruitment since 1988. Copyright 1995-2012 NationJob, Inc. All rights reserved.</span></td>
+           <td width="100%" height="20" align="left" valign="middle"><span class="footer">&nbsp;&nbsp;&nbsp;&nbsp;Electronic Recruitment since 1988. Copyright 1995-2013 NationJob, Inc. All rights reserved.</span></td>
           </tr>
          </tbody></table>
         </td>
