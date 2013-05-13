@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126224455id_/http%3A//www.surveyjury.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513212609id_/http%3A//www.surveyjury.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Survey Jury
 
