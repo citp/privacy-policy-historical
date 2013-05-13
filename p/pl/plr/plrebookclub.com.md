@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrebookclub.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227021805id_/http%3A//www.plrebookclub.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrebookclub.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513141710id_/http%3A//www.plrebookclub.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PLRe Book Club
 
