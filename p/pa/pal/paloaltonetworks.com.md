@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paloaltonetworks.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015032759id_/http%3A//www.paloaltonetworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloaltonetworks.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513120909id_/http%3A//www.paloaltonetworks.com/privacy.html) for the most accurate reproduction.*
 
 # Palo Alto Networks Privacy Policy
 
