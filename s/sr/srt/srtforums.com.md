@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the srtforums.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213061522id_/http%3A//www.srtforums.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srtforums.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513184543id_/http%3A//www.srtforums.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # SRTforums.com - Dodge SRT Forums - SRT4, SRT6, SRT8, SRT10 and Dodge Forum - Privacy Policy
 
-[Register](http://www.srtforums.com/forums/register.php) | [Home](http://www.srtforums.com/) | [Forum](http://www.srtforums.com/forums/) | [Photo Gallery](http://gallery.srtforums.com/photopost) | [Active Topics](http://www.srtforums.com/index.php?page=active_topics) [(D)](http://www.srtforums.com/forums/usercp.php) | [Chat](http://www.srtforums.com/index.php?page=chat) | [VBay [9]](https://web.archive.org/web/20071213061522id_/http%3A//forums/vbay.php) | [Mark Forums Read](http://www.srtforums.com/forums/forumdisplay.php?do=markread)  
----|---|---|---|---|---|---|---  
-  
   
   
 
@@ -12,6 +9,24 @@
 |  **» Site Navigation**  
 ---  
   
+» [Homepage](http://www.srtforums.com/index.php)
+
+» [Dodge SRT Insurance Results](http://www.srtforums.com/index.php?page=dodge-srt-insurance-results)
+
+» [Dodge SRT Insurance](http://www.srtforums.com/index.php?page=dodge-srt-insurance)
+
+» [Content Wrapper](http://www.srtforums.com/index.php?page=content_wrapper)
+
+» [Include](http://www.srtforums.com/index.php?page=include)
+
+» [Active Topics](http://www.srtforums.com/index.php?page=active_topics)
+
+» [Chat](http://www.srtforums.com/index.php?page=chat)
+
+» [Site Search](http://www.srtforums.com/index.php?page=search)
+
+» [**Privacy Policy**](http://www.srtforums.com/index.php?page=privacy)
+
 » [Home](http://www.srtforums.com/)
 
 » [Forum](http://www.srtforums.com/forums/)
@@ -28,33 +43,58 @@
 
 » 
 
+» [AutoGuide.com Links](http://www.autoguide.com/index.html)
+
+ > [Car Reviews](http://www.autoguide.com/index.html)
+
+ > [Dodge Car Reviews](http://www.autoguide.com/manufacturer/dodge-reviews.html)
+
+ > [New Cars](http://www.autoguide.com/new-cars/index.html)
+
+ > [2013 Dodge Cars](http://www.autoguide.com/new-cars/dodge/index.html)
+
+ > [Used Cars](http://www.autoguide.com/used-cars/index.html)
+
+ > [Auto News](http://www.autoguide.com/auto-news/)
+
+» 
+
  > Other Vehicles
 
- > [Dodge Charger](http://www.chargerforums.com/)
+ > [Dodge Dart Forum](http://www.dartforums.com/)
 
- > [Charger SRT8](http://www.chargerforums.com/)
+ > [Dodge Challenger Forum](http://www.challengertalk.com/)
 
- > [Chrysler 300C](http://www.300cforums.com/)
+ > [Dodge Charger Forum](http://www.chargerforums.com/)
 
- > [300C SRT8](http://www.300cforums.com/)
+ > [Charger SRT8 Forum](http://www.chargerforums.com/)
 
- > [Dodge Ram SRT10](http://www.srt10forum.com/)
+ > [Chrysler 300C Forum](http://www.300cforums.com/)
 
- > [Grand Cherokee SRT8](http://www.cherokeesrt8.com/)
+ > [300C SRT8 Forum](http://www.300cforums.com/)
 
- > [Dodge Caliber](http://www.caliberforums.com/)
+ > [Ram SRT10 Forum](http://www.srt10forum.com/)
 
- > [Caliber SRT4](http://www.caliberforums.com/)
+ > [Cherokee SRT8 Forum](http://www.cherokeesrt8.com/)
 
- > [Dodge Challenger](http://www.challengertalk.com/)
+ > [Dodge Caliber Forum](http://www.caliberforums.com/)
 
- > [Dodge Nitro](http://www.dodge-nitro.com/)  
+ > [Caliber SRT4 Forum](http://www.caliberforums.com/)
+
+ > [Dodge Nitro Forum](http://www.dodge-nitro.com/)
+
+ > [Dodge Diesel Forum](http://www.cumminsforum.com/)
+
+ > [Dodge Avenger Forum](http://www.avengerforum.com/)  
   
-** Google Links **  
+** » Wheel & Tire Center**  
 ---  
   
 
 
+**» Auto Insurance**  
+---  
+  
 **» Log in**  
 ---  
   
@@ -67,18 +107,21 @@ Remember Me?
 Not a member yet?  
 [Register Now!](http://www.srtforums.com/forums/register.php)  
   
-** Tire Rack Upgrade Garage**  
+**» Network Links**  
 ---  
-[](http://www.tirerack.com/affiliates/live/index.jsp?AFFCODE=BO6)  
+| »| [Motorcycle Reviews](http://www.motorcycle.com/index.html)  
+---|---  
+»| [Motorcycle Classifieds](http://www.motorcycle.com/classifieds/motorcycle-classifieds.html)  
+»| [ATV Reviews](http://www.atv.com/index.html)  
+»| [Jetski Reviews](http://www.personalwatercraft.com/index.html)  
+»| [Snowmobile Reviews](http://www.snowmobile.com/index.html)  
+»| [Dodge Dart Forum](http://www.dartforums.com/)  
+»| [Check Your Credit](http://ad.au.doubleclick.net/clk%3B263941073%3B89632439%3Bs)  
+»| [Neon Body Kits at Andy's](http://www.andysautosport.com/body_kits/dodge_neon.html)  
   
-** Sponsors**  
+**» Sponsor Links**  
 ---  
   
-** Sponsors**  
----  
-  
-
-
 |  **» Privacy Policy**  
 ---  
 This is how we will handle information that we learn about you from your visit to our Web site. The information we receive depends upon what you do when visiting our site.
@@ -116,43 +159,47 @@ Loading...
   
 **» Stats**  
 ---  
-Members: 59,189  
-Threads: 297,823  
-Posts: 4,572,509  
-Top Poster: [kortERHorse_281](http://www.srtforums.com/forums/members/13819.html) (28,745)  
+Members: 92,247  
+Threads: 560,110  
+Posts: 8,802,954  
+Top Poster: [castrol](http://www.srtforums.com/forums/members/1102.html) (75,856)  
   
-Welcome to our newest member, [BigBird03](http://www.srtforums.com/forums/members/60153.html)  
+Welcome to our newest member, [James1058](http://www.srtforums.com/forums/members/93224.html)  
   
 **» Current Poll**  
 ---  
-What type of racing do you prefer to do?  
-Drag Race - 50.99%  
+How much have you spent on Aftermarket Accessories for your SRT-4?  
   
-Autocross - 6.42%  
+$0-$1500 - 20.58%  
   
-Road Race - 20.62%  
+$1500-$3000 - 20.91%  
   
-All of the above - 15.81%  
+$3000-$4500 - 14.21%  
   
-None of the above - 3.54%  
+$4500-$6000 - 11.06%  
   
-Rally Racing - 2.63%  
+$6000-$7500 - 6.69%  
   
-**Total Votes: 4,909**  
+$7500-$9000 - 6.08%  
+  
+$9000-$10,500 - 3.32%  
+  
+$10,500+ - 17.15%  
+  
+**Total Votes: 1,808**  
 You may not vote on this poll.  
   
-» [View Poll Results](http://www.srtforums.com/forums/f53/poll-1162-what-type-racing-do-you-prefer-do.html)
-
-» [Discuss This Poll](http://www.srtforums.com/forums/newreply.php?t=121199)
-
-» [This Poll Has 197 Replies](http://www.srtforums.com/forums/f53/what-form-racing-do-you-prefer-participate-121199/)  
+» [View Poll Results](http://www.srtforums.com/forums/f53/poll-3434-how-much-have-you-spent-aftermarket-accessories-your-srt-4.html)   
+» [Comment On This Poll](http://www.srtforums.com/forums/newreply.php?t=551084)   
+» [This Poll Has 459 Replies](http://www.srtforums.com/forums/f53/how-much-have-you-spent-upgrades-pt-2-a-551084/)  
   
-** Sponsors**  
+**» Quick Moderation**  
 ---  
   
+[Members](http://www.srtforums.com/forums/admincp/user.php?do=moderate) (996)  
   
-  
-All times are GMT -6. The time now is 12:17 AM.
+All times are GMT -6. The time now is 12:45 PM.
 
+  
   
 
