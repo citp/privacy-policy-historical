@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityhollywoodgossip.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108034620id_/http%3A//celebrityhollywoodgossip.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityhollywoodgossip.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513184600id_/http%3A//celebrityhollywoodgossip.com/privacy-notice) for the most accurate reproduction.*
 
 # Celebrity Gossip & Hollywood News | Celebrity News | Privacy Policy
 
@@ -53,6 +53,8 @@ Your information may be transferred to and maintained on computers located outsi
 ### LINKS TO OTHER SITES
 
 The Site and Services may contain links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ### CONTACT US
 
