@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026072406id_/http%3A//www.bhf.org.uk/privacy-statement.aspx%3Fsc_id%3DFrontNAV-Footer-Privacy%2520Policy%26utm_source%3DFrontNAV-Footer-Privacy%2520Policy%26utm_medium%3DFrontNAV-Footer-Privacy%2520Policy%26utm_campaign%3DFrontNAV-Footer-Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513193603id_/http%3A//www.bhf.org.uk/privacy-statement.aspx%3Fsc_id%3DFrontNAV-Footer-Privacy%2520Policy%26utm_source%3DFrontNAV-Footer-Privacy%2520Policy%26utm_medium%3DFrontNAV-Footer-Privacy%2520Policy%26utm_campaign%3DFrontNAV-Footer-Privacy%2520Policy) for the most accurate reproduction.*
 
 # British Heart Foundation - Privacy Statement
 
@@ -125,7 +125,7 @@ Call: 0845 246 4050 (Mon - Fri 9am - 5pm)
 
 You can edit your BHF account Information, including your address and contact details at any time. You cannot directly change the name, address, contact details and other details of existing orders, but can contact the BHF to change order details if you need to.
 
-[Contact our customer care team.](https://www.bhf.org.uk/contact-us.aspx)
+[Contact our customer care team.](http://www.bhf.org.uk/contact-us.aspx)
 
 We may send you certain service or administrative communications relating to the BHF website relating to your account, regardless of your opt-out preferences. If you cancel your BHF Account you will no longer be sent these messages.
 
