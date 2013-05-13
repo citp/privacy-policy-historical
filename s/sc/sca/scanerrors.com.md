@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112035912id_/http%3A//www.scanerrors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513022110id_/http%3A//www.scanerrors.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,12 +43,12 @@ ScanErrors.com may occasionally update this Privacy Policy. Any changes will be 
 
 **6\. CONTACT INFORMATION**
 
-For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20121112035912id_/http%3A//www.scanerrors.com/contact.php).
+For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20130513022110id_/http%3A//www.scanerrors.com/contact.php).
 
 **7\. OPT OUT INSTRUCTIONS**
 
-To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20121112035912id_/http%3A//www.scanerrors.com/contact.php).
+To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20130513022110id_/http%3A//www.scanerrors.com/contact.php).
 
 Copyright © ScanErrors.com. All Rights Reserved.
 
-Trademarks: Microsoft and Windows are registered trademarks of Microsoft Corporation. Disclaimer: ScanErrors.com is not affiliated with Microsoft Corporation, nor claim any such implied or direct affiliation. The information contained on this site is for informational purposes only. The owners of this site are compensated by relationships with the recommended software products.
+Trademarks: Microsoft and Windows are registered trademarks of Microsoft Corporation. Other registered trademarks are trademarks oftheir respective owners. Disclaimer: ScanErrors.com is not affiliated with Microsoft Corporation, nor claim any such implied or direct affiliation. The information contained on this site is for informational purposes only. The owners of this site are compensated by relationships with the recommended software products.
