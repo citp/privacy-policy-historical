@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010063455id_/http%3A//www.americanbar.org/utility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513102831id_/http%3A//www.americanbar.org/content/aba/utility/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ Once collected, we may use your Personally Identifiable Information in a variety
 
 ### How to Manage The Sharing Of Your Personally Identifiable Information
 
-You can manage your profile and email preferences, including opting out of Email either [online](http://apps.americanbar.org/aba_timssnet/demographics/aba_addressupdate.cfm) or by [contacting us](http://www.americanbar.org/utility/about_the_aba/contact.html). Additionally, if you prefer to receive mailings only from the ABA and have your name and address removed from the list provided to our business partners, please [contact us](http://www.americanbar.org/utility/about_the_aba/contact.html). For California residents, please consult the “Your Privacy Rights” for additional considerations.
+You can manage your profile and email preferences, including opting out of Email either [online](https://apps.americanbar.org/abanet/common/limit/home.cfm) or by [contacting us](http://www.americanbar.org/utility/about_the_aba/contact.html). Additionally, if you prefer to receive mailings only from the ABA and have your name and address removed from the list provided to our business partners, please [contact us](http://www.americanbar.org/utility/about_the_aba/contact.html). For California residents, please consult the “Your Privacy Rights” for additional considerations.
 
 ### How We May Use and Share Non-Personal Data
 
