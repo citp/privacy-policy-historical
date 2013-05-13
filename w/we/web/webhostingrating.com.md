@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webhostingrating.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925160352id_/http%3A//webhostingrating.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingrating.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513100130id_/http%3A//www.webhostingrating.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WebHostingRating.com
+# Privacy Policy | WebHostingRating.net
 
 ## PRIVACY POLICY
 
-Hanei Marketing Ltd. (hereinafter, referred to as “Company” or “We” or “Us” or “Our”) owns, manages, and operates WebHostingRating.com (hereinafter, referred to as “Website”) The Company respects the online privacy of the users of this Website (hereinafter, referred to as “You” or “Your’). This Privacy Policy (hereinafter, referred to as “Policy”) outlines Our practices on how We collect, retain, use, disclose and protect Your personal and non-personal information while You browse through this Website.
+WebhostingRating GmbH (hereinafter, referred to as “Company” or “We” or “Us” or “Our”) owns, manages, and operates WebhostingRating.net (hereinafter, referred to as “Website”) The Company respects the online privacy of the users of this Website (hereinafter, referred to as “You” or “Your’). This Privacy Policy (hereinafter, referred to as “Policy”) outlines Our practices on how We collect, retain, use, disclose and protect Your personal and non-personal information while You browse through this Website.
 
 ### Personal Information - Collection, Retention, and Usage
 
@@ -30,7 +30,7 @@ For the collection of non-personal information, this Website employs cookies, wh
 
 We also use cookies to detect manipulation of webhost ratings and multiple reviews submissions.
 
-In addition, advertisers, affiliates, and/ or partners that place their advertisements on this Website may also use their own cookies. We shall not be liable for any information collected by them from the users of this Website by using their own cookies. **    
+In addition, advertisers, affiliates, and/ or partners that place their advertisements on this Website may also use their own cookies. We shall not be liable for any information collected by them from the users of this Website by using their own cookies. **  
 **
 
 ### Third-Party Links
@@ -64,4 +64,4 @@ We reserve the right to change and update any portion of this Privacy Policy, in
 
 ### Contact
 
-Please free to contact us in case of doubts on this Privacy Policy by email (mailbox@webhostingrating.com).
+Please free to contact us in case of doubts on this Privacy Policy by email (mailbox@WebhostingRating.net).
