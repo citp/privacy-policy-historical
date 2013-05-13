@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtitsmate.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109190302id_/http%3A//www.bigtitsmate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitsmate.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513042902id_/http%3A//www.bigtitsmate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # BigTitsMate - Privacy
 
