@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113062356id_/http%3A//www.goaheadtours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513115157id_/http%3A//www.goaheadtours.com/privacy) for the most accurate reproduction.*
 
 # Go Ahead Tours
 
@@ -52,7 +52,7 @@ Please be aware that Go Ahead advertisers or websites to which our site has link
 
 Go Ahead does not sell or rent user information to anyone. If you opt in for the service, Go Ahead may send you email about products and services that we feel will be of interest to you. You may opt out of these mailings at any time by visiting this page: [goaheadtours.com/unsubscribe](https://web.archive.org/email)
 
-You can also update or correct factual information about your account by [contacting us online](https://web.archive.org/about/contact) or by calling 1-800-597-0350. 
+You can also update or correct factual information about your account by [contacting us online](https://web.archive.org/leadpage) or by calling 1-800-597-0350. 
 
 ### your consent 
 
