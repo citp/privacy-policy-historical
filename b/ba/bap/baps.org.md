@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111124648id_/http%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513031232id_/http%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,8 +27,7 @@ You are in control of any personal information you provide to us on-line. If at 
 
 You can also ask to review any personal information we have about you or ask us to delete that information or stop further use of it by writing to us at the same postal address.
 
-Cookies  
-"Cookies" are pieces of information that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies allow the website to remember important information that will make your use of the site more convenient. Like most websites, www.BAPS.Org uses cookies for a variety of purposes in order to improve your on-line experience and so that we can better serve you when you return to our site.
+Cookies"Cookies" are pieces of information that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies allow the website to remember important information that will make your use of the site more convenient. Like most websites, www.BAPS.Org uses cookies for a variety of purposes in order to improve your on-line experience and so that we can better serve you when you return to our site.
 
 You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not. If you disable all cookies, you may not be able to take advantage of all the features of this website.
 
@@ -40,7 +39,7 @@ If you have any questions about the www.BAPS.Org Internet Privacy Policy, please
 
 www.BAPS.Org  
 BAPS Swaminarayan Mandir,  
-Shahibaug Road,   
+Shahibaug Road,  
 Ahmedabad, 380004  
 Gujarat, India  
 Email: [info@swaminarayan.org ](mailto:info@swaminarayan.org)
