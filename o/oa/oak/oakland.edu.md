@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231150026id_/http%3A//www.oakland.edu%3Fid%3D1645%26sid%3D205) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513101618id_/http%3A//www.oakland.edu/web-privacy) for the most accurate reproduction.*
 
 # OU Web Privacy Statement - Policies and Regulations - Oakland University
 
@@ -11,7 +11,7 @@ We may ask you for information to answer a request that you have submitted to Oa
 
 You may be asked to enter your name, address, telephone number, e-mail address or other information on an Oakland University website. This information may be kept and used for future communications. 
 
-The university may release your personal information to third parties under provisions of [OU's Administrative Policies and Procedures](http://www2.oakland.edu/audit "link to OU's Administrative Policies and Procedures"). The [Federal Educational Rights and Privacy Act](https://web.archive.org/?id=1464&sid=75 "link to Federal Educational Rights and Privacy Act") governs student data and information, and usage of website information must comply with this law. 
+The university may release your personal information to third parties under provisions of [OU's Administrative Policies and Procedures](https://web.archive.org/policies "link to OU's Administrative Policies and Procedures"). The [Federal Educational Rights and Privacy Act](https://web.archive.org/?id=1464&sid=75 "link to Federal Educational Rights and Privacy Act") governs student data and information, and usage of website information must comply with this law. 
 
 Collection of Other Information   
 Most information we gather does not identify you personally. We automatically collect information such as the type and identity of the Internet service provider you are using, your Internet protocol (IP) address, the time spent on the website, or the navigation path you took on the website. We use the gathered information to improve the navigation, flow and content of the website to provide you with the best possible information service. 
