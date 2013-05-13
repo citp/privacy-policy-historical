@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starmometer.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028084517id_/http%3A//www.starmometer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmometer.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513024741id_/http%3A//www.starmometer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Starmometer – Your Total Entertainment Blog
+# Privacy Policy : Starmometer
 
 Your privacy is of utmost importance to us here at Starmometer.com. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
