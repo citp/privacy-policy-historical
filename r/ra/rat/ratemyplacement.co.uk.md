@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122171208id_/http%3A//articles.ratemyplacement.co.uk/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514014825id_/http%3A//articles.ratemyplacement.co.uk/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RateMyPlacement | RateMyPlacement Blog
 
 #### Privacy Policy
 
-Protecting your personal details on our website Last updated: 8 March 2012 **R M P Enterprise Ltd (Registered number 6331665), whose registered office is at Vintage House 37 Albert Embankment London SE17TL, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions (“Website Terms”).** By accepting our Website Terms or by visiting www.ratemyplacement.co.uk (“the Website”) you are accepting and consenting to the practices described in this Privacy Policy. The Website is brought to you by R M P Enterprise Ltd. R M P Enterprise Ltd believes it is important to protect your Personal Data (as defined in the Data Protection Act 1998) and we are committed to giving you a personalised service that meets your needs in a way that also protects your privacy. This policy explains how we may collect Personal Data about you. It also explains some of the security measures we take to protect your Personal Data, and tells you certain things we will do and not do. You should read this policy in conjunction with the Website Terms. When we first obtain Personal Data from you, or when you take a new service or product from us, we will give you the opportunity to tell us if you do or do not want to receive information from us about other services or products (as applicable). You can normally do this by ticking a box on an application form or contract. You may change your mind at any time by emailing us at the address below. Some of the Personal Data we hold about you may be ‘sensitive personal data’ within the meaning of the Data Protection Act 1998, for example, information about your health or ethnic origin. 
+Protecting your personal details on our website  
+Last updated: 8 March 2012
+
+**RMP Enterprise Ltd (Registered number 6331665), whose registered office is at 22-26 Albert Embankment, London, SE1 7TJ knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions (“Website Terms”).**
+
+By accepting our Website Terms or by visiting www.ratemyplacement.co.uk (“the Website”) you are accepting and consenting to the practices described in this Privacy Policy.
+
+The Website is brought to you by R M P Enterprise Ltd. R M P Enterprise Ltd believes it is important to protect your Personal Data (as defined in the Data Protection Act 1998) and we are committed to giving you a personalised service that meets your needs in a way that also protects your privacy. This policy explains how we may collect Personal Data about you. It also explains some of the security measures we take to protect your Personal Data, and tells you certain things we will do and not do. You should read this policy in conjunction with the Website Terms.
+
+When we first obtain Personal Data from you, or when you take a new service or product from us, we will give you the opportunity to tell us if you do or do not want to receive information from us about other services or products (as applicable). You can normally do this by ticking a box on an application form or contract. You may change your mind at any time by emailing us at the address below.  
+Some of the Personal Data we hold about you may be ‘sensitive personal data’ within the meaning of the Data Protection Act 1998, for example, information about your health or ethnic origin.
 
 ##### 1\. Collecting Information
 
-We may collect Personal Data about you from a number of sources, including the following: 
+We may collect Personal Data about you from a number of sources, including the following:
 
 1.1 From you when you agree to take a service or product from us, in which case this may include your contact details, date of birth, how you will pay for the product or service and your bank details.
 
@@ -58,7 +68,7 @@ We may collect Personal Data about you from a number of sources, including the f
 
 ##### 3\. Protecting Information
 
-We have strict security measures to protect Personal Data. 
+We have strict security measures to protect Personal Data.
 
 3.1. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
@@ -107,7 +117,7 @@ Google Analytics (3 Cookies) | We use Google Analytics to monitor our site traff
   
 ##### 7\. Further Information
 
-7.1. If you would like any more information or you have any comments about our Privacy Policy, please either write to us at Data Protection Manager, R M P Enterprise Ltd, Vintage House 37 Albert Embankment London SE17TL, or email us at enquiries@ratemyplacement.co.uk.
+7.1. If you would like any more information or you have any comments about our Privacy Policy, please either write to us at Data Protection Manager, RMP Enterprise Ltd, 22-26 Albert Embankment, London, SE1 7TJ, or email us at enquiries@ratemyplacement.co.uk.
 
 7.2. We may amend this Privacy Policy from time to time without notice to you, in which case, we will publish the amended version on the Website. You confirm that we shall not be liable to you or any third party for any change to this Privacy Policy from time to time. It is your responsibility to check regularly to determine whether this Privacy Policy has changed.
 
@@ -117,6 +127,4 @@ Google Analytics (3 Cookies) | We use Google Analytics to monitor our site traff
 
 7.5. We aim to keep the Personal Data we hold about you accurate and up to date. If you tell us that we are holding any inaccurate Personal Data about you, we will delete it or correct it promptly. Please email us at enquiries@ratemyplacement.co.uk or write to us at the address above to update your Personal Data.
 
- 
-
- **R M P Enterprise Ltd is registered with the ICO Data Protection Register – Number: Z1066396**
+  **R M P Enterprise Ltd is registered with the ICO Data Protection Register – Number: Z1066396**
