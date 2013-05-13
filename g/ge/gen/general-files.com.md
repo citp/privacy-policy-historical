@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the general-files.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220022526id_/http%3A//www.general-world.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the general-files.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513104815id_/http%3A//www.general-world.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - General World
 
@@ -8,7 +8,7 @@ We provide this Privacy Policy to inform you of our policies and procedures rega
 
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently. By continuing to use the GW Services you agree with the latest available version. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service.
 
-The purpose of the GW Services is to provide its users with an infrastructure which enables the users to search files in various file sharing and uploading sites like RapidShare.com, Uploading.com, Turbobit.net etc. The GW links its users with the file-sharing and torrent networks. None of the torrent files, peers or content is controlled by the GW administrators or servers. The same applies to the third party file hosting services. None of the files stored remotely, nor the users who have uploaded them are controlled by the GW. You agree to provide us certain information, which we collect in order to allow you to benefit from the GW Services. 
+The purpose of the GW Services is to provide its users with an infrastructure which enables the users to search files in various file sharing and uploading sites like Mediafire.com, Uploading.com, Turbobit.net etc. The GW links its users with the file-sharing and torrent networks. None of the torrent files, peers or content is controlled by the GW administrators or servers. The same applies to the third party file hosting services. None of the files stored remotely, nor the users who have uploaded them are controlled by the GW. You agree to provide us certain information, which we collect in order to allow you to benefit from the GW Services. 
 
 ## The GW Services and third party websites
 
