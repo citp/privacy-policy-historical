@@ -1,47 +1,60 @@
-> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017021339id_/http%3A//www.boldchat.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514001100id_/http%3A//www.boldchat.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | BoldChat
 
+| 
+
+  
+|   
+---  
 |  | 
 
   
-We are committed to protecting your privacy. We adhere to and comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce concerning the transfer, storage, processing and securing of data from European Union member countries and Switzerland. BoldChat has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. You can learn more about the Safe Harbor program and view our certification by visiting [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). If you are at all concerned it is your responsibility to review the remainder of this Privacy Policy and the Safe Harbor website before you go further in your visit to our website or use any of our tools or services. 
-
-BoldChat provides real time communication tools to website owners who want to interact with visitors on their website. Part of the service enhances the website owner's understanding of who is on their website and reports to them that information. Naturally, we use our products, so what you read below applies to visitors to our website as well. 
-
-We use "Cookies." Our cookies are designed to help us and our customers provide better service to visitors on our websites by recognizing a returning visitor and noting that in our agent interface software. A session "Cookie" is written to a visitor's browser for the purpose of maintaining an understanding of that visitor during the current visit and on any subsequent visit. Any visitor on a website may turn off "Cookies" by adjusting the appropriate setting on their browser. Please note, if a visitor turns off cookies the visitor and/or the website owner may find some of the functionality of the BoldChat products, to be reduced or impaired. 
-
-Just like a brick and mortar business pays attention to people in it's store, so do we. We use (and provide to our customers) code that helps us "see" who is in our store and what part of our store they are in. Providing such data to our customers is an inherent part of the service we provide. In addition to visit-related information, on behalf of our customers we may provide and store chat, email, trouble ticket and contact information so our customers may be able to better provide aid to visitors to their websites for the products and/or services our customers offer. We may aggregate and analyze non-personal tracking data to better understand customer behavior and may share aggregated data with our customers to help our customers serve their customers more effectively. 
-
-If a visitor to our website or our customers' website(s) decides to interact with the website owner using our products, the visitor may be asked for identifying information including their name, phone number, and other pertinent information. We store that information as well as the transcript of the live chat (if one occurs) on behalf of our customers. 
-
-In order to create an account or user login to use our service or access certain documents or portions of our website, you may be required to complete online registration forms that provide us with contact information such as your name and street address, your email address, and your phone numbers. In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes. We may also use your email and IP address to automatically recognize you should you contact us or use our tools and services. Groups of email and IP addresses are also gathered so that we may have broad demographic information. 
-
-If you provide us your email address for any reason, we may, from time to time, send you emails regarding our service so that we can directly communicate with you regarding issues we determine to be relevant. We may also provide you with promotional information about our tools and services, as well as tools and services offered by our partners. These emails or our website may contain links to other sites which may be maintained by third parties. We are not responsible for the privacy practices or the content of such web sites. An opt-out procedure is provided with each mailing regarding general offers or information. You must accept emails from us that deal with specific issues regarding your account or membership. This is because we may need to contact you if there is a change in the service that we are providing you or if we need to respond to an inquiry that you have sent us regarding a customer service issue or other important concern. 
-
-Naturally, should you purchase a product or service from us, we will require sufficient information from you so that we can complete the transaction. Such information could include a credit card number and related account and billing information, invoice related information, and other data required for processing the order. We will also update such data should you grant us permission to bill you or your credit card for recurring charges, such as monthly or other types of periodic payments. All information of this nature is maintained by us in a secure database and transmitted across the Internet from you to us using secured transmission encryption. 
-
-We protect our customers' data from loss, misuse, unauthorized access, alteration, or destruction on secure servers and utilize unique usernames with required passwords to ensure our customers only view their own data. 
-
-We will never reveal any information you provided us nor information in your commercial use of our services as described above to any third party or entity for any reason except under the following circumstances:
-
-  * If a governmental agency, or court, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.  
-
-  * If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter.
 
 
+Privacy Policy  
+LogMeIn, Inc. and its subsidiaries (together hereinafter referred to as “LogMeIn,” “we,” “us” or “our”), respect your privacy and are committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. This policy describes how we collect and use your personal information when we need your personal information to provide services that you request or when you choose to provide us with your personal information through our LogMeIn.com website (the “Website”) or our applications (“Apps”).  
+Information Collection  
+Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, company name, email address, telephone number, postal or other physical address, birth date, gender, occupation, a credit card number (including expiration date) to process payment for products, Apps and/or services and such other information when needed to provide a service that you requested. Certain of our products, Apps and services also store connection or session information such as time/date and length of collection, IP address, chat logs and technician information.  
+As you navigate through this Website and/or use our Apps, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your internet browser automatically transmits some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer or mobile device is currently using; the date and time you access the Website and the pages that you access while at the Website. This information is used for internal/external marketing purposes, to analyze trends and to improve our Website, products, Apps and services. Our Website may also collect anonymous information from your computer or mobile device through cookies and internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this Website might not work without cookies.  
+LogMeIn collects personal information when you elect to use our software on a free trial basis or purchase an App, subscription or an upgrade. LogMeIn only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy and applicable laws.  
+Choice/Opt-Out  
+You may elect to "opt out" of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Policy unless you take affirmative action to opt out at the point of collection. Opt-out is the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by the opt-out choice. You may opt out at the point of collection when personal information is collected, or you may do so at any time by sending an email request to support@LogMeIn.com (please indicate "Opt Out" in the subject line) or by sending a written request to the address provided below. In some cases, we will provide you with the opportunity to "opt in". This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted.  
+Cookies and Tracking Technology  
+A “Cookie” is a small data file that certain websites write to your hard drive when you visit them. Cookies cannot be used to run programs or deliver viruses to your computer. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies save you time, for example, if you personalize a web page, or navigate within a website, a cookie recalls your specific information on subsequent visits. LogMeIn also uses cookies to track user traffic patterns. We do this in order to determine the usefulness of our Website information to our users and to see how effective our navigational structure is in helping users reach that information. You may accept or decline cookies. Most web browsers automatically accept cookies, however you can modify your browser setting to decline cookies.  Please note however, if a visitor turns off cookies such visitor and/or the website owner may find some of the functionality of our website and/or products our, to be reduced or impaired.   
+In addition to cookies, our Website uses a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. LogMeIn also uses these technical methods to analyze the traffic patterns on our Website, such as the frequency with which our users visit various parts of our Website.  
+How We Use Information Collected  
+LogMeIn uses personally identifiable information for several general purposes: to fulfill your requests for certain products and services, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you promotional materials about goods and services (including special offers and promotions) either offered by LogMeIn or offered by third parties. You may opt out of receiving these communications.  
+Information Sharing and Disclosure  
+Our Website and Apps provides you the opportunity to opt-out of receiving communications from us when you elect to use our Apps or software on a free-trial basis, or purchase a new subscription or an upgrade. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communication or to change your information.  
+Unless you opt-in, LogMeIn will not transfer your personal information to third parties, except we may transfer your personal information without your consent to the extent required to do so by law or in the good faith belief that such action is necessary to: (i) conform to the edicts of law or comply with legal process served on LogMeIn or the site; (ii) protect or defend the rights or property of LogMeIn; (iii) act in urgent circumstances to protect the personal safety, property, or privacy of LogMeIn's employees, users of LogMeIn's products or service, or members of the public; or (iv) effect a transaction, restructuring or proceeding that transfers to a third party the assets or line of business to which the information pertains. If you choose to provide us with your personal information, we may transfer that information within LogMeIn or to LogMeIn's third party service providers with your permission. In addition, LogMeIn may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of LogMeIn to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners (unless you have opted out of these types of communications).  
+In addition, we may share non-identifiable aggregate information about our users (for example, the proportion of male and female users) with advertisers, business partners, and other third parties in an effort to customize or enhance the content and advertising on our Website for our users.  
+Your Ability to Review and Delete Information  
+You can always ask to review any personal information that we have collected from you, have us update, correct or delete this information and/or instruct us not to use this information in the future. If you wish to exercise this right, simply contact us.  
+Data Security  
+Your personal information is protected for your privacy and security. LogMeIn safeguards the security and confidentiality of the data you send us with physical, technical, and managerial procedures. Please be aware that, despite our best efforts, no security measures are perfect or impenetrable. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.  
+Our Website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a LogMeIn logo, even though they are not operated or maintained by LogMeIn. Although we choose our business partners carefully, LogMeIn is not responsible for the privacy practices of websites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.  
+Changes to this Privacy Policy  
+LogMeIn may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.  
+Children's Privacy  
+Our website is a general audience site that does not target and is not intended for children under the age of 13. LogMeIn does not knowingly solicit or maintain personal information pertaining to children under the age of 13.  
+International Privacy Protection  
+Personal information that we maintain may be controlled and processed in the United States of America and/or other countries, which might not provide the same level of privacy protections as in your country of residence. For personally identifiable information collected from users in the European Economic Area and Switzerland, LogMeIn adheres to the Safe Harbor Privacy Principles administered by the U.S. Department of Commerce.  
+Contact Information  
+LogMeIn welcomes your comments regarding this privacy statement. If you believe that LogMeIn has not adhered to this privacy statement, please contact us electronically at legal@LogMeIn.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-Please contact us here if you should have any questions, comments or concerns about this Privacy Policy. 
-
-You may write us via surface mail:  
-BoldChat, by LogMeIn, Inc.  
-2024 N. Woodlawn, Suite 350  
-Wichita, Kansas 67208 
-
-You may phone us:  
-316-462-7190
-
-We may modify this Privacy Policy without prior notice to you. By visiting our website and/or using our products or services, you agree to inform yourself of modifications to our Privacy Policy by reviewing it on our website from time to time. 
+LogMeIn, Inc.  
+Attention: General Counsel   
+320 Summer St.  
+Suite 100  
+Boston, MA 02210-1701
 
 |   
----|---|---
+---|---|---  
+   
+  
+
+
+  
+  
+
