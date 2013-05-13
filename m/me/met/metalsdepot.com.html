@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metalsdepot.com privacy policy that was archived on 2012-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111125313id_/http%3A//www.metalsdepot.com/privacy_policy.phtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metalsdepot.com privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513050607id_/http%3A//www.metalsdepot.com/privacy_policy.phtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy</title>
@@ -12,9 +12,36 @@
 	    <!--[if IE 6]><link href="http://www.metalsdepot.com/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
     <!--[if IE 7]><link href="http://www.metalsdepot.com/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
     <!--[if lt IE 9]><link href="http://www.metalsdepot.com/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
+    <link href="http://www.metalsdepot.com/siteadmin/includes/javascript/jquery.modal/css/1.8.22/jquery-ui-1.8.22.custom.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.metalsdepot.com/jquery.js"></script>
     <script src="http://www.metalsdepot.com/common_js.js"></script>
-	</head>
+	<script src="/login.js"></script>
+	<script src="http://www.metalsdepot.com/menu.js"></script>
+		
+	<script type="text/javascript">
+	/******** Load jQuery if not present *********/
+	if (typeof jQuery === "undefined") {
+		var path = 'http://www.metalsdepot.com/siteadmin/includes/javascript/jquery.js';
+		var script_tag = document.createElement('script');
+		script_tag.setAttribute("type","text/javascript");
+		script_tag.setAttribute("src", path)
+		script_tag.onload = main; //Run main() once jQuery has loaded
+		script_tag.onreadystatechange = function () { //Same thing but for IE
+			if (this.readyState == 'complete' || this.readyState == 'loaded') main();
+		} //onreadystatechange.function
+		document.getElementsByTagName("head")[0].appendChild(script_tag);
+	} else {
+		main();
+	} //if.jQuery
+
+	function main() {
+		$(document).ready(function() {
+			//console.log('jQuery Library Loaded');
+		});
+	} //function.main
+	</script><script type="text/javascript" src="http://www.metalsdepot.com/siteadmin/includes/javascript/jquery.js"></script>
+	<script src="http://www.metalsdepot.com/siteadmin/includes/javascript/jquery.modal/js/jquery-ui-1.8.22.custom.min.js"></script>
+</head>
 <body class="body">
     <div id="container">
     	<div id="shop-categories">
@@ -141,7 +168,7 @@
         </div><!-- end shop-categories -->
         <div id="header">
         	<div class="homelink"><div><a href="http://www.metalsdepot.com/"><img src="http://www.metalsdepot.com/images/home_icon2.png" width="20"> Online Metal Store</a></div></div>
-        	<div class="otherlinks"><div><a href="http://www.metalsdepot.com/dealer_info.phtml">Dealers/Affilates</a></div><div><a href="http://www.metalsdepot.com/free_catalog.php"><span class="catalogfree">FREE! </span>Catalog</a></div><div><a href="http://www.metalsdepot.com/shop_services.phtml">Service Center</a></div><div><a href="http://www.metalsdepot.com/fast_quote.php">Quick Quote</a></div></div>
+        	<div class="otherlinks"><div><a href="http://www.metalsdepot.com/dealer_info.phtml">Dealers/Affiliates</a></div><div><a href="http://www.metalsdepot.com/free_catalog.php"><span class="catalogfree">FREE! </span>Catalog</a></div><div><a href="http://www.metalsdepot.com/shop_services.phtml">Service Center</a></div><div><a href="http://www.metalsdepot.com/fast_quote.php">Quick Quote</a></div></div>
         	<div id="header-left" class="left">
                 <div id="logo">
                     <h1 id="logo-h1"><a href="http://www.metalsdepot.com/index.php" title="Home"><span class="none">Metals Depot - America's Metal Superstore!</span></a></h1>
@@ -157,12 +184,42 @@
             </div><!-- end header-left -->
             <div id="header-rightv2" class="right">
             	<div id="header-toolbar">
+					<div id="header-toolbar-left-overlay">&nbsp;</div>
                 	<div id="header-toolbar-content">
                 		<a class="track" href="http://www.metalsdepot.com/track_order.php" title="Track Order">Track Order</a> | 
                         <a class="cart" href="http://www.metalsdepot.com/catalog_cart_view.php" title="View Cart">View Cart</a> | 
                         <a class="history" href="http://www.metalsdepot.com/catalog_account.php">My Account</a> | 
 						                        
-							<a class="login" href="http://www.metalsdepot.com/catalog_account.php">Account Login</a>
+							<a id="login" class="login" href="http://www.metalsdepot.com/catalog_account.php">Account Login</a>
+
+							<!--*********BEGIN LOGIN POP-UP DIALOG*********-->
+							<div id="login_popup" title="Log In">
+								<form name="frm_login" id="frm_login" action="./catalog_account.php" method="POST">
+									<input name="whatareyoudoing" type="hidden" value="iamalogingin">
+									<div>
+										<span id="span_bgtextemail" style="position:absolute;padding:3px 0px 0px 5px;color:grey;display:none">Email Address</span>
+										<input class="bgtextemail" name="username" id="username" style="width:100%;" alt="Email Address" value="" placeholder="Email Address">
+									</div>
+									<div>
+										<span id="span_bgtextpassword" style="position:absolute;padding:5px 0px 0px 5px;color:grey;display:none">Password</span>
+										<input class="bgtextpassword" type="password" name="password" id="password" style="width:100%" alt="Password" value="" placeholder="Password">
+									</div>
+									<div>
+										<a style="float:right;" href="./members_reset_password.php"><span style="font-size:9px;color:white">Forgot Password</span></a>
+										<a href="./members_sign_up.php"><span style="float:left;font-weight:bold !important;color:white !important;display:none">Sign Up</span></a>
+									</div>
+									<div style="clear:left;padding-top:10px;vertical-align:bottom;position:absolute;bottom:6px;">
+										<label for="remember_me">Remember Me</label>
+										<input type="checkbox" name="remember_me" value="true" id="remember_me" checked="checked">
+									</div>
+									<div style="clear:left;position:absolute;bottom:6px;right:10px;">
+										<input id="btn_login" type="button" class="button" value="Log In" style="background:gold;">
+										<input id="btn_cancel" type="button" class="button" value="Cancel" style="background:gold;">
+									</div>
+								</form>
+							</div>
+							<!--*********END LOGIN POP-UP DIALOG*********-->
+
 							                    </div>
                 </div>
                 <div id="header-right-contentv2">
@@ -187,87 +244,49 @@
             </div><!-- end header-right -->
             <div id="nav" class="menu">
                 <ul>
-                		                    <li class="top-drop" id="nav-1"><a id="link1" href="http://www.metalsdepot.com/hrsteel2.html" title="Steel"><span>Steel</span></a>
-	                    <ul>								<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=angle&amp;LimAcc=%20&amp;aident=">Steel Angle</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=channel&amp;LimAcc=%20&amp;aident=">Steel Channel</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=steel beam&amp;LimAcc=%20&amp;aident=">Steel Beam</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Steel Flat Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Steel Square Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Steel Round Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=sqtube&amp;LimAcc=%20&amp;aident=">Steel Square Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=rttube&amp;LimAcc=%20&amp;aident=">Steel Rectangle Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=rndtube&amp;LimAcc=%20&amp;aident=">Steel Round Tube - DOM</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=welded round tube&amp;LimAcc=%20&amp;aident=">Steel Round Tube - Welded</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=pipe&amp;LimAcc=%20&amp;aident=">Steel Pipe</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Steel Sheet</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=plate&amp;LimAcc=%20&amp;aident=">Steel Plate</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=steel floor plate&amp;LimAcc=%20&amp;aident=">Steel Floor Plate</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=expanded&amp;LimAcc=%20&amp;aident=">Steel Expanded Metal</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=steelgrating&amp;LimAcc=%20&amp;aident=">Steel Bar Grating</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=perforated steel sheet&amp;LimAcc=%20&amp;aident=">Steel Perforated Sheet</a></li>
-																<li><a href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=Steel Safety Grating&amp;LimAcc=%20&amp;aident=">Steel Safety Grating</a></li>
-								</ul></li>
-	                    <li class="top-drop" id="nav-2"><a id="link2" href="http://www.metalsdepot.com/alum2.html" title="Aluminum"><span>Aluminum</span></a>
-	                    <ul>								<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=sangle&amp;LimAcc=%20&amp;aident=">Aluminum Angle - 6061</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=aangle&amp;LimAcc=%20&amp;aident=">Aluminum Angle - 6063</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=channel&amp;LimAcc=%20&amp;aident=">Aluminum Channel - 6061</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=6063 aluminum channel&amp;LimAcc=%20&amp;aident=">Aluminum Channel - 6063</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=aluminum beam&amp;LimAcc=%20&amp;aident=">Aluminum Beams</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Aluminum Flat Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Aluminum Square Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Aluminum Round Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=tube&amp;LimAcc=%20&amp;aident=">Aluminum Square Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=aluminum rectangle tube&amp;LimAcc=%20&amp;aident=">Aluminum Rectangle Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=rndtube&amp;LimAcc=%20&amp;aident=">Aluminum Round Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=pipe&amp;LimAcc=%20&amp;aident=">Aluminum Pipe</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Aluminum Sheet</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=plate&amp;LimAcc=%20&amp;aident=">Aluminum Plate</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=tread&amp;LimAcc=%20&amp;aident=">Aluminum Diamond Plate</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=Aluminum Expanded Metal&amp;LimAcc=%20&amp;aident=">Aluminum Expanded Metal</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alum2.phtml?page=Perforated Aluminum Sheet&amp;LimAcc=%20&amp;aident=">Aluminum Perforated Sheet</a></li>
-								</ul></li>
-	                    <li class="top-drop" id="nav-3"><a id="link3" href="http://www.metalsdepot.com/stainless2.html" title="Stainless"><span>Stainless</span></a>
-	                    <ul>								<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=angle&amp;LimAcc=%20&amp;aident=">Stainless Steel Angle</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless channel&amp;LimAcc=%20&amp;aident=">Stainless Steel Channel</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Stainless Steel Flat</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Stainless Steel Square</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Stainless Steel Round</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=TGP Shafting&amp;LimAcc=%20&amp;aident=">Stainless Steel TGP Shafting</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=sqtube&amp;LimAcc=%20&amp;aident=">Stainless Steel Square Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless rectangle tube&amp;LimAcc=%20&amp;aident=">Stainless Rectangle Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless round tube&amp;LimAcc=%20&amp;aident=">Stainless Steel Round Tube</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless pipe&amp;LimAcc=%20&amp;aident=">Stainless Steel Pipe</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Stainless Steel Sheet &amp; Plate</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=Floor Plate&amp;LimAcc=%20&amp;aident=">Stainless Steel Floor Plate</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=expanded&amp;LimAcc=%20&amp;aident=">Stainless Expanded Metal</a></li>
-																<li><a href="http://www.metalsdepot.com/products/stainless2.phtml?page=Perforated Stainless Sheet&amp;LimAcc=%20&amp;aident=">Stainless Perforated Sheet</a></li>
-								</ul></li>
-	                    <li class="top-drop" id="nav-4"><a id="link4" href="http://www.metalsdepot.com/brass2.html" title="Brass"><span>Brass</span></a>
-	                    <ul>								<li><a href="http://www.metalsdepot.com/products/brass2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Brass Flat Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/brass2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Brass Square Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/brass2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Brass Round Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/brass2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Brass Sheet &amp; Plate</a></li>
-								</ul></li>
-	                    <li class="top-drop" id="nav-5"><a id="link5" href="http://www.metalsdepot.com/coldfin2.html" title="Cold Finish"><span>Cold Finish</span></a>
-	                    <ul>								<li><a href="http://www.metalsdepot.com/products/coldfin2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Flat</a></li>
-																<li><a href="http://www.metalsdepot.com/products/coldfin2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Round</a></li>
-																<li><a href="http://www.metalsdepot.com/products/coldfin2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Square</a></li>
-																<li><a href="http://www.metalsdepot.com/products/coldfin2.phtml?page=1018 Hexagon&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Hexagon</a></li>
-																<li><a href="http://www.metalsdepot.com/products/coldfin2.phtml?page=cdround&amp;LimAcc=%20&amp;aident=">1045 TGP Steel Shafting</a></li>
-								</ul></li>
-	                    <li class="top-drop" id="nav-6"><a id="link6" href="http://www.metalsdepot.com/toolsteel.html" title="Tool Steel"><span>Tool Steel</span></a>
-	                    <ul>								<li><a href="http://www.metalsdepot.com/products/toolsteel.phtml?page=a2rod&amp;LimAcc=%20&amp;aident=">A2 Drill Rod</a></li>
-																<li><a href="http://www.metalsdepot.com/products/toolsteel.phtml?page=o1rod&amp;LimAcc=%20&amp;aident=">O1 Drill Rod</a></li>
-																<li><a href="http://www.metalsdepot.com/products/toolsteel.phtml?page=w1rod&amp;LimAcc=%20&amp;aident=">W1 Drill Rod</a></li>
-																<li><a href="http://www.metalsdepot.com/products/toolsteel.phtml?page=a2flat&amp;LimAcc=%20&amp;aident=">A2 Steel Flat</a></li>
-																<li><a href="http://www.metalsdepot.com/products/toolsteel.phtml?page=o1flat&amp;LimAcc=%20&amp;aident=">O1 Steel Flat</a></li>
-																<li><a href="http://www.metalsdepot.com/products/toolsteel.phtml?page=d2flat&amp;LimAcc=%20&amp;aident=">D2 Steel Flat</a></li>
-								</ul></li>
-	                    <li class="top-drop" id="nav-7"><a id="link7" href="http://www.metalsdepot.com/alloysteel.html" title="Alloy Steel"><span>Alloy Steel</span></a>
-	                    <ul class="last">								<li><a href="http://www.metalsdepot.com/products/alloysteel.phtml?page=around&amp;LimAcc=%20&amp;aident=">4140 Alloy Round Bar</a></li>
-																<li><a href="http://www.metalsdepot.com/products/alloysteel.phtml?page=aflat&amp;LimAcc=%20&amp;aident=">4140 Alloy Flat Bar</a></li>
-								</ul></li>
-                </ul>
+                		                    <li class="top-drop" id="nav-1">
+	                    	<a id="link1" href="http://www.metalsdepot.com/hrsteel2.html" title="Steel"><span>Steel</span></a>
+	                    	<div class=" ">
+								<ul class="col" style="clear:both;left:0px;height:260px"><li><a class="tiplink" data-image-id="1032" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=angle&amp;LimAcc=%20&amp;aident=">Steel Angle</a></li><li><a class="tiplink" data-image-id="1036" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=channel&amp;LimAcc=%20&amp;aident=">Steel Channel</a></li><li><a class="tiplink" data-image-id="452" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=steel beam&amp;LimAcc=%20&amp;aident=">Steel Beam</a></li><li><a class="tiplink" data-image-id="1056" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Steel Flat Bar</a></li><li><a class="tiplink" data-image-id="1052" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Steel Square Bar</a></li><li><a class="tiplink" data-image-id="1044" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Steel Round Bar</a></li><li><a class="tiplink" data-image-id="1060" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=sqtube&amp;LimAcc=%20&amp;aident=">Steel Square Tube</a></li><li><a class="tiplink" data-image-id="1064" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=rttube&amp;LimAcc=%20&amp;aident=">Steel Rectangle Tube</a></li><li><a class="tiplink" data-image-id="1068" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=rndtube&amp;LimAcc=%20&amp;aident=">Steel Round Tube - DOM</a></li><li><a class="tiplink" data-image-id="844" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=welded round tube&amp;LimAcc=%20&amp;aident=">Steel Round Tube - Welded</a></li></ul><ul class="col" style="clear:both;left:220px;height:260px"><li><a class="tiplink" data-image-id="1076" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=pipe&amp;LimAcc=%20&amp;aident=">Steel Pipe</a></li><li><a class="tiplink" data-image-id="1196" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Steel Sheet</a></li><li><a class="tiplink" data-image-id="1128" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=plate&amp;LimAcc=%20&amp;aident=">Steel Plate</a></li><li><a class="tiplink" data-image-id="1136" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=steel floor plate&amp;LimAcc=%20&amp;aident=">Steel Floor Plate</a></li><li><a class="tiplink" data-image-id="1004" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=expanded&amp;LimAcc=%20&amp;aident=">Steel Expanded Metal</a></li><li><a class="tiplink" data-image-id="608" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=steelgrating&amp;LimAcc=%20&amp;aident=">Steel Bar Grating</a></li><li><a class="tiplink" data-image-id="1354" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=perforated steel sheet&amp;LimAcc=%20&amp;aident=">Steel Perforated Sheet</a></li><li><a class="tiplink" data-image-id="1366" href="http://www.metalsdepot.com/products/hrsteel2.phtml?page=Steel Safety Grating&amp;LimAcc=%20&amp;aident=">Steel Safety Grating</a></li></ul>								<div style="clear:both"></div>
+							</div>
+						</li>
+							                    <li class="top-drop" id="nav-2">
+	                    	<a id="link2" href="http://www.metalsdepot.com/alum2.html" title="Aluminum"><span>Aluminum</span></a>
+	                    	<div class=" ">
+								<ul class="col" style="clear:both;left:0px;height:260px"><li><a class="tiplink" data-image-id="696" href="http://www.metalsdepot.com/products/alum2.phtml?page=sangle&amp;LimAcc=%20&amp;aident=">Aluminum Angle - 6061</a></li><li><a class="tiplink" data-image-id="684" href="http://www.metalsdepot.com/products/alum2.phtml?page=aangle&amp;LimAcc=%20&amp;aident=">Aluminum Angle - 6063</a></li><li><a class="tiplink" data-image-id="1092" href="http://www.metalsdepot.com/products/alum2.phtml?page=channel&amp;LimAcc=%20&amp;aident=">Aluminum Channel - 6061</a></li><li><a class="tiplink" data-image-id="680" href="http://www.metalsdepot.com/products/alum2.phtml?page=6063 aluminum channel&amp;LimAcc=%20&amp;aident=">Aluminum Channel - 6063</a></li><li><a class="tiplink" data-image-id="1370" href="http://www.metalsdepot.com/products/alum2.phtml?page=aluminum beam&amp;LimAcc=%20&amp;aident=">Aluminum Beams</a></li><li><a class="tiplink" data-image-id="700" href="http://www.metalsdepot.com/products/alum2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Aluminum Flat Bar</a></li><li><a class="tiplink" data-image-id="708" href="http://www.metalsdepot.com/products/alum2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Aluminum Square Bar</a></li><li><a class="tiplink" data-image-id="716" href="http://www.metalsdepot.com/products/alum2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Aluminum Round Bar</a></li><li><a class="tiplink" data-image-id="720" href="http://www.metalsdepot.com/products/alum2.phtml?page=tube&amp;LimAcc=%20&amp;aident=">Aluminum Square Tube</a></li><li><a class="tiplink" data-image-id="1208" href="http://www.metalsdepot.com/products/alum2.phtml?page=aluminum rectangle tube&amp;LimAcc=%20&amp;aident=">Aluminum Rectangle Tube</a></li></ul><ul class="col" style="clear:both;left:220px;height:260px"><li><a class="tiplink" data-image-id="812" href="http://www.metalsdepot.com/products/alum2.phtml?page=rndtube&amp;LimAcc=%20&amp;aident=">Aluminum Round Tube</a></li><li><a class="tiplink" data-image-id="828" href="http://www.metalsdepot.com/products/alum2.phtml?page=pipe&amp;LimAcc=%20&amp;aident=">Aluminum Pipe</a></li><li><a class="tiplink" data-image-id="1188" href="http://www.metalsdepot.com/products/alum2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Aluminum Sheet</a></li><li><a class="tiplink" data-image-id="1112" href="http://www.metalsdepot.com/products/alum2.phtml?page=plate&amp;LimAcc=%20&amp;aident=">Aluminum Plate</a></li><li><a class="tiplink" data-image-id="1316" href="http://www.metalsdepot.com/products/alum2.phtml?page=tread&amp;LimAcc=%20&amp;aident=">Aluminum Diamond Plate</a></li><li><a class="tiplink" data-image-id="1000" href="http://www.metalsdepot.com/products/alum2.phtml?page=Aluminum Expanded Metal&amp;LimAcc=%20&amp;aident=">Aluminum Expanded Metal</a></li><li><a class="tiplink" data-image-id="1350" href="http://www.metalsdepot.com/products/alum2.phtml?page=Perforated Aluminum Sheet&amp;LimAcc=%20&amp;aident=">Aluminum Perforated Sheet</a></li></ul>								<div style="clear:both"></div>
+							</div>
+						</li>
+							                    <li class="top-drop" id="nav-3">
+	                    	<a id="link3" href="http://www.metalsdepot.com/stainless2.html" title="Stainless"><span>Stainless</span></a>
+	                    	<div class=" ">
+								<ul class="col" style="clear:both;left:0px;height:260px"><li><a class="tiplink" data-image-id="984" href="http://www.metalsdepot.com/products/stainless2.phtml?page=angle&amp;LimAcc=%20&amp;aident=">Stainless Steel Angle</a></li><li><a class="tiplink" data-image-id="1308" href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless channel&amp;LimAcc=%20&amp;aident=">Stainless Steel Channel</a></li><li><a class="tiplink" data-image-id="988" href="http://www.metalsdepot.com/products/stainless2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Stainless Steel Flat</a></li><li><a class="tiplink" data-image-id="972" href="http://www.metalsdepot.com/products/stainless2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Stainless Steel Square</a></li><li><a class="tiplink" data-image-id="1212" href="http://www.metalsdepot.com/products/stainless2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Stainless Steel Round</a></li><li><a class="tiplink" data-image-id="976" href="http://www.metalsdepot.com/products/stainless2.phtml?page=TGP Shafting&amp;LimAcc=%20&amp;aident=">Stainless Steel TGP Shafting</a></li><li><a class="tiplink" data-image-id="992" href="http://www.metalsdepot.com/products/stainless2.phtml?page=sqtube&amp;LimAcc=%20&amp;aident=">Stainless Steel Square Tube</a></li><li><a class="tiplink" data-image-id="1048" href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless rectangle tube&amp;LimAcc=%20&amp;aident=">Stainless Rectangle Tube</a></li><li><a class="tiplink" data-image-id="1280" href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless round tube&amp;LimAcc=%20&amp;aident=">Stainless Steel Round Tube</a></li><li><a class="tiplink" data-image-id="1292" href="http://www.metalsdepot.com/products/stainless2.phtml?page=stainless pipe&amp;LimAcc=%20&amp;aident=">Stainless Steel Pipe</a></li></ul><ul class="col" style="clear:both;left:220px;height:260px"><li><a class="tiplink" data-image-id="1192" href="http://www.metalsdepot.com/products/stainless2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Stainless Steel Sheet &amp; Plate</a></li><li><a class="tiplink" data-image-id="1152" href="http://www.metalsdepot.com/products/stainless2.phtml?page=Floor Plate&amp;LimAcc=%20&amp;aident=">Stainless Steel Floor Plate</a></li><li><a class="tiplink" data-image-id="996" href="http://www.metalsdepot.com/products/stainless2.phtml?page=expanded&amp;LimAcc=%20&amp;aident=">Stainless Expanded Metal</a></li><li><a class="tiplink" data-image-id="1346" href="http://www.metalsdepot.com/products/stainless2.phtml?page=Perforated Stainless Sheet&amp;LimAcc=%20&amp;aident=">Stainless Perforated Sheet</a></li></ul>								<div style="clear:both"></div>
+							</div>
+						</li>
+							                    <li class="top-drop" id="nav-4">
+	                    	<a id="link4" href="http://www.metalsdepot.com/brass2.html" title="Brass"><span>Brass</span></a>
+	                    	<div class=" ">
+								<ul class="col" style="clear:both;left:0px;height:104px"><li><a class="tiplink" data-image-id="1024" href="http://www.metalsdepot.com/products/brass2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Brass Flat Bar</a></li><li><a class="tiplink" data-image-id="1016" href="http://www.metalsdepot.com/products/brass2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Brass Square Bar</a></li><li><a class="tiplink" data-image-id="1020" href="http://www.metalsdepot.com/products/brass2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Brass Round Bar</a></li><li><a class="tiplink" data-image-id="536" href="http://www.metalsdepot.com/products/brass2.phtml?page=sheet&amp;LimAcc=%20&amp;aident=">Brass Sheet &amp; Plate</a></li></ul>								<div style="clear:both"></div>
+							</div>
+						</li>
+							                    <li class="top-drop" id="nav-5">
+	                    	<a id="link5" href="http://www.metalsdepot.com/coldfin2.html" title="Cold Finish"><span>Cold Finish</span></a>
+	                    	<div class=" ">
+								<ul class="col" style="clear:both;left:0px;height:130px"><li><a class="tiplink" data-image-id="916" href="http://www.metalsdepot.com/products/coldfin2.phtml?page=flat&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Flat</a></li><li><a class="tiplink" data-image-id="752" href="http://www.metalsdepot.com/products/coldfin2.phtml?page=round&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Round</a></li><li><a class="tiplink" data-image-id="908" href="http://www.metalsdepot.com/products/coldfin2.phtml?page=square&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Square</a></li><li><a class="tiplink" data-image-id="748" href="http://www.metalsdepot.com/products/coldfin2.phtml?page=1018 Hexagon&amp;LimAcc=%20&amp;aident=">Cold Finish Steel Hexagon</a></li><li><a class="tiplink" data-image-id="736" href="http://www.metalsdepot.com/products/coldfin2.phtml?page=cdround&amp;LimAcc=%20&amp;aident=">1045 TGP Steel Shafting</a></li></ul>								<div style="clear:both"></div>
+							</div>
+						</li>
+							                    <li class="top-drop" id="nav-6">
+	                    	<a id="link6" href="http://www.metalsdepot.com/toolsteel.html" title="Tool Steel"><span>Tool Steel</span></a>
+	                    	<div class=" ">
+								<ul class="col" style="clear:both;left:0px;height:156px"><li><a class="tiplink" data-image-id="788" href="http://www.metalsdepot.com/products/toolsteel.phtml?page=a2rod&amp;LimAcc=%20&amp;aident=">A2 Drill Rod</a></li><li><a class="tiplink" data-image-id="792" href="http://www.metalsdepot.com/products/toolsteel.phtml?page=o1rod&amp;LimAcc=%20&amp;aident=">O1 Drill Rod</a></li><li><a class="tiplink" data-image-id="776" href="http://www.metalsdepot.com/products/toolsteel.phtml?page=w1rod&amp;LimAcc=%20&amp;aident=">W1 Drill Rod</a></li><li><a class="tiplink" data-image-id="796" href="http://www.metalsdepot.com/products/toolsteel.phtml?page=a2flat&amp;LimAcc=%20&amp;aident=">A2 Steel Flat</a></li><li><a class="tiplink" data-image-id="800" href="http://www.metalsdepot.com/products/toolsteel.phtml?page=o1flat&amp;LimAcc=%20&amp;aident=">O1 Steel Flat</a></li><li><a class="tiplink" data-image-id="804" href="http://www.metalsdepot.com/products/toolsteel.phtml?page=d2flat&amp;LimAcc=%20&amp;aident=">D2 Steel Flat</a></li></ul>								<div style="clear:both"></div>
+							</div>
+						</li>
+							                    <li class="top-drop" id="nav-7">
+	                    	<a id="link7" href="http://www.metalsdepot.com/alloysteel.html" title="Alloy Steel"><span>Alloy Steel</span></a>
+	                    	<div class=" lastulgroup">
+								<ul class="col" style="clear:both;left:0px;height:52px"><li><a class="tiplink" data-image-id="744" href="http://www.metalsdepot.com/products/alloysteel.phtml?page=around&amp;LimAcc=%20&amp;aident=">4140 Alloy Round Bar</a></li><li><a class="tiplink" data-image-id="856" href="http://www.metalsdepot.com/products/alloysteel.phtml?page=aflat&amp;LimAcc=%20&amp;aident=">4140 Alloy Flat Bar</a></li></ul>								<div style="clear:both"></div>
+							</div>
+						</li>
+						                </ul>
             </div><!-- end nav -->
             <div style="clear: both;"></div>        
         </div><!-- end header -->
@@ -406,7 +425,7 @@
             <p class="copyright">Copyright© 1999-2012, MetalsDepot is a Registered Trademark of ELCO Inc., All rights reserved.</p>
         </div>
         <div id="verisignlogo">
-        	<img src="http://www.metalsdepot.com/images/verisignlogo.png">
+        	<img src="http://www.metalsdepot.com/images/secure-seal.jpg">
         </div>        
         <!-- end footer-copy -->
     </div><!-- end footer -->
