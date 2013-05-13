@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113173217id_/http%3A//www.bowl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513222700id_/http%3A//www.bowl.com/privacy) for the most accurate reproduction.*
 
 # BOWL.com | Privacy
 
