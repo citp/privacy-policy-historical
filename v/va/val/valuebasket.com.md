@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valuebasket.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013937id_/http%3A//www.valuebasket.com/display/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuebasket.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513213958id_/http%3A//www.valuebasket.com/display/view/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | ValueBasket
+# Privacy Policy and how we use your data | ValueBasket
 
-Last Updated: 10th April 2012 
+Last Updated: 15th Nov 2012 
 
 At ValueBasket.com, we know that you value how your information is used and shared, and we value your trust in us that we do so with considered care and professionalism. ValueBasket.com will never materially change our policies and practices to make them less protective of previous collected customer information without the consent of the affected customers. 
 
@@ -33,6 +33,7 @@ The information we collect will help us to provide a more personalized and conti
 
   * Cookies are small files stored by your browser on your computer and do not give ValueBasket.com any access to your computer.
   * Cookies do help us to provide you with a website for your browsing and shopping experience.
+  * From time-to-time, ValueBasket.com engages third parties to track and analyze non-personally identifiable information from individuals who visit the website from a link, such as from an email or from an advertisement. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after they receive it. This information is used to analyse the performance of email and advertising campaigns, and to provide a better website experience.
   * Web browsers normally accept safe cookies automatically. However, you may choose to decline cookies from ValueBasket.com if you wish, but this will prevent you from taking full advantage of the features embedded in our website.
 
 
