@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atoznewtips.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627013459id_/http%3A//www.atoznewtips.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atoznewtips.com privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513233409id_/http%3A//www.atoznewtips.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta name="y_key" content="95ec1c192d191384">
@@ -19,282 +19,8 @@
 <![endif]-->
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.atoznewtips.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.atoznewtips.com/wp-includes/wlwmanifest.xml"> 
-<script type="text/javascript" src="http://www.atoznewtips.com/wp-includes/js/jquery/jquery.js?ver=1.2.6"></script>
 <meta name="generator" content="WordPress 2.7.1">
 
- 
-	<style type="text/css" media="screen">
-	
-		/* Clear floats without structural markup
-		   courtesy of htmldog.com/positioniseverything.net */
-		.clearfix:after {
-			content: "."; 
-			display: block; 
-			height: 0; 
-			clear: both; 
-			visibility: hidden;
-		}
-		
-		/* Hides from IE-mac \*/
-		* html .clearfix { height: 1%; }
-		/* End hide from IE-mac */
-		
-		div.intouch {
-			margin: 20px auto 40px auto;
-		}
-		
-		div.intouch  form {
-			float: left;
-			width: 100%;
-		}
-		
-		div.intouch div.inputfield { 
-			padding: 4px 0px;
-			position: relative;
-		}
-		
-		div.intouch label { 
-			display: block;
-			float: left;
-			clear: left;
-			width: 25%; 
-			text-align: right;
-		}
-		
-		div.intouch div.inputfield input, div.intouch div.inputfield textarea {
-			float: left;
-			margin-left: 10px;
-		}
-		
-		div.intouch div.inputfield input {
-			width: 40%;
-		}
-		
-		div.intouch div.inputfield textarea {
-			width: 50%;
-		}
-
-		div.intouch div.inputfield input.submitbutton {
-			width: auto !important;
-			padding: 2px;
-			margin-left: 10px;
-			left: 25%;
-			position: absolute;
-		}
-		
-		div.intouch div#usermessage {
-			margin-bottom: 10px;
-			text-align: center;
-		}
-		
-		div.intouch .error {
-			border: 1px solid #FF0000 !important;
-			padding: 1px;
-		}
-	
-	</style> 
-	<script type="text/javascript">
-		<!--//--><![CDATA[//><!--
-				
-		// remote scripting library
-		// (c) copyright 2005 modernmethod, inc
-		var sajax_debug_mode = false;
-		var sajax_request_type = "GET";
-		
-		function sajax_debug(text) {
-			if (sajax_debug_mode)
-				alert("RSD: " + text)
-		}
- 		function sajax_init_object() {
- 			sajax_debug("sajax_init_object() called..")
- 			
- 			var A;
-			try {
-				A=new ActiveXObject("Msxml2.XMLHTTP");
-			} catch (e) {
-				try {
-					A=new ActiveXObject("Microsoft.XMLHTTP");
-				} catch (oc) {
-					A=null;
-				}
-			}
-			if(!A && typeof XMLHttpRequest != "undefined")
-				A = new XMLHttpRequest();
-			if (!A)
-				sajax_debug("Could not create connection object.");
-			return A;
-		}
-		function sajax_do_call(func_name, args) {
-			var i, x, n;
-			var uri;
-			var post_data;
-			
-			uri = "";
-			if (sajax_request_type == "GET") {
-				if (uri.indexOf("?") == -1) 
-					uri = uri + "?rs=" + escape(func_name);
-				else
-					uri = uri + "&rs=" + escape(func_name);
-				for (i = 0; i < args.length-1; i++) 
-					uri = uri + "&rsargs[]=" + escape(args[i]);
-				uri = uri + "&rsrnd=" + new Date().getTime();
-				post_data = null;
-			} else {
-				post_data = "rs=" + escape(func_name);
-				for (i = 0; i < args.length-1; i++) 
-					post_data = post_data + "&rsargs[]=" + escape(args[i]);
-			}
-			
-			x = sajax_init_object();
-			x.open(sajax_request_type, uri, true);
-			if (sajax_request_type == "POST") {
-				x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
-				x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-			}
-			x.onreadystatechange = function() {
-				if (x.readyState != 4) 
-					return;
-				sajax_debug("received " + x.responseText);
-				
-				var status;
-				var data;
-				status = x.responseText.charAt(0);
-				data = x.responseText.substring(2);
-				if (status == "-") 
-					alert("Error: " + data);
-				else  
-					args[args.length-1](data);
-			}
-			x.send(post_data);
-			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
-			sajax_debug(func_name + " waiting..");
-			delete x;
-		}
-		
-				
-		// wrapper for intouch_submitcomment		
-		function x_intouch_submitcomment() {
-			sajax_do_call("intouch_submitcomment",
-				x_intouch_submitcomment.arguments);
-		}
-		
-				
-		function intouch_submitcomment() {
-			var regexp = new RegExp('[$][#][$]', ['g']);
-		
-			 
-					
-			var var_1 = document.getElementById('field_1').value.replace(regexp, '$');
-				
-				 
-					
-			var var_2 = document.getElementById('field_2').value.replace(regexp, '$');
-				
-				 
-					
-			var var_3 = document.getElementById('field_3').value.replace(regexp, '$');
-				
-				 
-					
-			var var_4 = document.getElementById('field_4').value.replace(regexp, '$');
-				
-							
-			x_intouch_submitcomment('' + var_1 + '$#$' + var_2 + '$#$' + var_3 + '$#$' + var_4 + '', intouch_setsuccessmessage);
-		}
-			
-		function intouch_setsuccessmessage(message) {
-			document.getElementById('intouchform').reset();
-			doInnerXHTML('usermessage', message);
-		}
-		
-		function intouch_validate() {
-			if(doInnerXHTML('usermessage', 'Please wait...')) {
-			
-				var all_valid = true;
-				
-				if(document.getElementById('field_1').value == '') {
-					document.getElementById('field_1').className = "error";
-					all_valid = false;
-				}
-				else {
-					document.getElementById('field_1').className = "default";
-				}
-				
-				var regexp = new RegExp('^[\\w-_\.]+@[\\w-_]+[\.][\\w-_\.]+$');
-								
-				if(document.getElementById('field_2').value == '' || ! document.getElementById('field_2').value.match(regexp)) {
-					document.getElementById('field_2').className = "error";
-					all_valid = false;
-				}
-				else {
-					document.getElementById('field_2').className = "default";
-				}
-				
-								
-				if(document.getElementById('field_3').value == '') {
-					document.getElementById('field_3').className = "error";
-					all_valid = false;
-				}
-				else {
-					document.getElementById('field_3').className = "default";
-				}
-				
-								
-				if(document.getElementById('field_4').value == '') {
-					document.getElementById('field_4').className = "error";
-					all_valid = false;
-				}
-				else {
-					document.getElementById('field_4').className = "default";
-				}
-				
-								
-				if(all_valid) {
-					intouch_submitcomment();
-				}
-				else {
-					doInnerXHTML('usermessage', 'Please fill in all the required fields.');
-				}
-				
-				return false;
-			}
-			else {
-				return true;
-			}
-		}
-		
-		// fallback if DOMParser and innerHTML are not working
-		function doInnerXHTML(elementId, stringXHTML) {
-			try {
-				var elem = document.getElementById(elementId);
-				var children =  elem.childNodes;
-			
-				for (var i = 0; i < children.length; i++) {
-					elem.removeChild(children[i]);
-				}
-			
-				var nodes = new DOMParser().parseFromString('<span>' + stringXHTML + '</span>', 'text/xml');
-				var range = document.createRange();
-				range.selectNodeContents(document.getElementById(elementId));
-				range.deleteContents();
-				
-				for (var i = 0; i < nodes.childNodes.length; i++) {
-					document.getElementById(elementId).appendChild(nodes.childNodes[i]);
-				}
-				return true;
-			} catch (e) {
-				try {
-					document.getElementById(elementId).innerHTML = stringXHTML;
-					return true;
-				}
-				catch(ee) {
-					return false;
-				}
-			}
-		}
-		
-		//--><!]]>
-	</script>
 
 <style type="text/css">
 #topi {
@@ -333,37 +59,44 @@
 	</ul>
 </div>
 </div>
- 
- 
- <br> 
- 
+<center>
+
 <script type="text/javascript"><!--
-google_ad_client = "ca-pub-7097050145435992";
-/* 728x15, created 10/5/11 */
-google_ad_slot = "4231639667";
+
+google_ad_client = "ca-pub-0865121303863514";
+
+/* 728 slibaba */
+
+google_ad_slot = "9795805296";
+
 google_ad_width = 728;
+
 google_ad_height = 15;
+
 //-->
+
 </script>
+
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<div id="page">
+
+</script> 
+  <div id="page">
 <div id="left">
 <hr>
 <div id="content" class="narrowcolumn">
 <input type="hidden" name="IL_RELATED_TAGS" value="1">
+<br>
 <script type="text/javascript">
 ch_client = "DwiSantoso";
 ch_width = 500;
 ch_height = 250;
 ch_type = "mpu";
 ch_sid = "Chitika Default";
-ch_backfill = 1;
-ch_color_site_link = "#F5190A";
-ch_color_title = "#F5190A";
-ch_color_border = "#FFFFFF";
-ch_color_text = "#000000";
-ch_color_bg = "#FFFDF6";
+ch_color_site_link = "F70D05";
+ch_color_title = "F70D05";
+ch_color_border = "FFFDF6";
+ch_color_text = "000000";
+ch_color_bg = "FFFDF6";
 </script>
 <script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
 </script>
@@ -398,18 +131,18 @@ Links</p>
           </div>
   </div>
     <input type="hidden" name="IL_RELATED_TAGS" value="1">
+<br>
 <script type="text/javascript">
 ch_client = "DwiSantoso";
 ch_width = 500;
 ch_height = 250;
 ch_type = "mpu";
 ch_sid = "Chitika Default";
-ch_backfill = 1;
-ch_color_site_link = "#F5190A";
-ch_color_title = "#F5190A";
-ch_color_border = "#FFFFFF";
-ch_color_text = "#000000";
-ch_color_bg = "#FFFDF6";
+ch_color_site_link = "F70D05";
+ch_color_title = "F70D05";
+ch_color_border = "FFFDF6";
+ch_color_text = "000000";
+ch_color_bg = "FFFDF6";
 </script>
 <script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
 </script>
@@ -417,7 +150,24 @@ ch_color_bg = "#FFFDF6";
 <div class="side1">
 <div class="gap">
 <ul>
-	  <li id="categories-181503011" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+	  		<li id="text-1501898201" class="widget widget_text">			<h2 class="widgettitle">Sponsored Links</h2>
+			<div class="textwidget"> 
+<script type="text/javascript">
+ch_client = "DwiSantoso";
+ch_width = 120;
+ch_height = 600;
+ch_type = "mpu";
+ch_sid = "Chitika Default";
+ch_color_site_link = "CC1306";
+ch_color_title = "CC1306";
+ch_color_border = "FFFDF6";
+ch_color_text = "000000";
+ch_color_bg = "FFFDF6";
+</script>
+<script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
+</script></div>
+		</li>
+<li id="categories-181503011" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
 		<ul>
 			<li class="cat-item cat-item-446"><a href="http://www.atoznewtips.com/category/accounting-jobs/" title="View all posts filed under Accounting jobs">Accounting jobs</a>
 </li>
@@ -527,62 +277,7 @@ ch_color_bg = "#FFFDF6";
 </li>
 		</ul>
 </li>
-		<li id="text-1259292291" class="widget widget_text">						<div class="textwidget"><input type="hidden" name="IL_RELATED_TAGS" value="1"></div>
-		</li>
-<li id="search" class="widget widget_search"><form method="get" id="searchform" action="http://www.atoznewtips.com/">
-<div><input type="text" value="" name="s" id="s" onfocus="if (this.value == 'Type and hit enter...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Type and hit enter...';}">
-</div>
-</form>
-</li>
-<li><h2>Recent Searches</h2>
-
-<a href="http://www.atoznewtips.com/search/sample+CV+for+new+graduate+in+nursing">sample CV for new graduate in nursing</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+accounting">application letter accounting</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+new+nurses">application letter for new nurses</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+nurse">application letter for nurse</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+new+nurses">application letter for new nurses</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+new+nurses">application letter for new nurses</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+nurse">application letter for nurse</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+new+nurses">application letter for new nurses</a> 
-<a href="http://www.atoznewtips.com/search/resignation+letter">resignation letter</a> 
-<a href="http://www.atoznewtips.com/search/resignation+letter">resignation letter</a> 
-<a href="http://www.atoznewtips.com/search/sample+fresh+graduate+nurse+resume">sample fresh graduate nurse resume</a> 
-<a href="http://www.atoznewtips.com/search/resignation+letter">resignation letter</a> 
-<a href="http://www.atoznewtips.com/search/cover+letter+for+teacher">cover letter for teacher</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+working+student">application letter for working student</a> 
-<a href="http://www.atoznewtips.com/search/resignation+letter">resignation letter</a> 
-<a href="http://www.atoznewtips.com/search/example+of+application+letter">example of application letter</a> 
-<a href="http://www.atoznewtips.com/search/free+sample+resume+optician">free sample resume optician</a> 
-<a href="http://www.atoznewtips.com/search/resignation+letter">resignation letter</a> 
-<a href="http://www.atoznewtips.com/search/SAMPLE+RESUME+FOR+NURSES">SAMPLE RESUME FOR NURSES</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+working+student">application letter for working student</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+working+student">application letter for working student</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+working+student">application letter for working student</a> 
-<a href="http://www.atoznewtips.com/search/2009%2F03%2F01%2Fcategory%2Fcover-letter-samples">2009/03/01/category/cover-letter-samples</a> 
-<a href="http://www.atoznewtips.com/search/MCDONALDS+JOB+APPLICATION+NY">MCDONALDS JOB APPLICATION NY</a> 
-<a href="http://www.atoznewtips.com/search/cover+letter+for+driver">cover letter for driver</a> 
-&nbsp;
-
-</li><li><h2>Popular Searches</h2>
-
-<a href="http://www.atoznewtips.com/search/application+letter+for+new+nurses">application letter for new nurses</a> 
-<a href="http://www.atoznewtips.com/search/resignation+letter">resignation letter</a> 
-<a href="http://www.atoznewtips.com/search/example+of+application+letter">example of application letter</a> 
-<a href="http://www.atoznewtips.com/search/sample+new+and+fresh+graduate+nurse+resume">sample new and fresh graduate nurse resume</a> 
-<a href="http://www.atoznewtips.com/search/sample+resume+for+nurses">sample resume for nurses</a> 
-<a href="http://www.atoznewtips.com/search/mcdonalds+apply+online+application+form">mcdonalds apply online application form</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+nurse">application letter for nurse</a> 
-<a href="http://www.atoznewtips.com/search/fresh+graduate+application+letter">fresh graduate application letter</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+volunteer+nurse">application letter for volunteer nurse</a> 
-<a href="http://www.atoznewtips.com/search/school+teacher">school teacher</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+fresh+graduate+nurses">application letter for fresh graduate nurses</a> 
-<a href="http://www.atoznewtips.com/search/application+letter+for+working+student">application letter for working student</a> 
-<a href="http://www.atoznewtips.com/search/MCDONALDS+JOB+APPLICATION+NY">MCDONALDS JOB APPLICATION NY</a> 
-<a href="http://www.atoznewtips.com/search/fresh+graduate+business+administration+CV+sample">fresh graduate business administration CV sample</a> 
-<a href="http://www.atoznewtips.com/search/cover+letter+for+driver">cover letter for driver</a> 
-&nbsp;
-
-</li></ul>
+</ul>
 </div>
 </div>
 </div> <!-- End Left -->
@@ -590,24 +285,12 @@ ch_color_bg = "#FFFDF6";
   <div class="side2">
   <div class="gap">
     <ul>
-	  		<li id="text-830608271" class="widget widget_text">			<h2 class="widgettitle">Sponsored Links</h2>
-			<div class="textwidget">                                                                     
-                                                                     
-                                                                     
-                                             
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-7097050145435992";
-/* 160x600, created 4/24/10 */
-google_ad_slot = "3408223242";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
-		</li>
-		<li id="recent-posts" class="widget widget_recent_entries">			<h2 class="widgettitle">Recent Posts</h2>
+	  		<li id="recent-posts" class="widget widget_recent_entries">			<h2 class="widgettitle">Recent Posts</h2>
 			<ul>
+						<li><a href="http://www.atoznewtips.com/2012/09/06/registered-nurse-rn-and-nursing-cover-letter-job-application/">Registered Nurse (RN) and Nursing Cover Letter Job Application </a></li>
+						<li><a href="http://www.atoznewtips.com/2012/08/22/what-is-in-a-cover-letter-tips-to-write-a-selling-cover-letter/">What is in a cover letter ? Tips to write a selling cover letter. </a></li>
+						<li><a href="http://www.atoznewtips.com/2012/08/22/how-to-write-an-effective-cover-letter-for-a-job/">How to Write an Effective Cover Letter for a Job </a></li>
+						<li><a href="http://www.atoznewtips.com/2012/08/05/nurse-rn-cover-letter-samples/">Nurse RN Cover Letter Samples </a></li>
 						<li><a href="http://www.atoznewtips.com/2012/04/01/sample-letter-of-invitation-for-award-recipients/">Sample Letter of Invitation for Award Recipients </a></li>
 						<li><a href="http://www.atoznewtips.com/2012/04/01/entry-level-business-analyst-resume-cover-letter-sample/">Entry Level Business Analyst Resume Cover Letter Sample </a></li>
 						<li><a href="http://www.atoznewtips.com/2011/06/16/sample-advertising-resume-cover-letter-with-good-format/">Sample Advertising Resume Cover Letter with Good Format </a></li>
@@ -619,12 +302,13 @@ google_ad_height = 600;
 						<li><a href="http://www.atoznewtips.com/2011/03/22/sample-resume-cover-letter-for-developmental-educator-format-and-template/">Sample Resume Cover Letter for Developmental Educator Format and Template </a></li>
 						<li><a href="http://www.atoznewtips.com/2011/03/22/sample-resume-cover-letter-for-daycare-worker-format-and-template/">Sample Resume Cover Letter for Daycare Worker Format and Template </a></li>
 						<li><a href="http://www.atoznewtips.com/2011/03/22/sample-resume-cover-letter-for-computer-teacher-format-and-template/">Sample Resume Cover Letter for Computer Teacher Format and Template </a></li>
-						<li><a href="http://www.atoznewtips.com/2011/03/22/sample-resume-cover-letter-for-college-professor-format-and-template/">Sample Resume Cover Letter for College Professor Format and Template </a></li>
-						<li><a href="http://www.atoznewtips.com/2011/03/22/sample-resume-cover-letter-for-coach-format-and-template/">Sample Resume Cover Letter for Coach Format and Template </a></li>
-						<li><a href="http://www.atoznewtips.com/2011/03/22/sample-resume-cover-letter-for-assistant-dean-of-students-format-and-template/">Sample Resume Cover Letter for Assistant Dean of Students Format and Template </a></li>
-						<li><a href="http://www.atoznewtips.com/2011/03/22/sample-resume-cover-letter-for-art-instructor-format-and-template/">Sample Resume Cover Letter for  Art Instructor Format and Template </a></li>
 						</ul>
 		</li>
+<li id="search" class="widget widget_search"><form method="get" id="searchform" action="http://www.atoznewtips.com/">
+<div><input type="text" value="" name="s" id="s" onfocus="if (this.value == 'Type and hit enter...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Type and hit enter...';}">
+</div>
+</form>
+</li>
 <li id="tag_cloud" class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2>
 <a href="http://www.atoznewtips.com/tag/123-456-7890/" class="tag-link-4092" title="252 topics" rel="tag" style="font-size: 14.4898785425pt;">(123)-456 7890</a>
 <a href="http://www.atoznewtips.com/tag/abc/" class="tag-link-3576" title="242 topics" rel="tag" style="font-size: 14.2064777328pt;">ABC</a>
@@ -636,7 +320,7 @@ google_ad_height = 600;
 <a href="http://www.atoznewtips.com/tag/career/" class="tag-link-198" title="26 topics" rel="tag" style="font-size: 8.08502024291pt;">career</a>
 <a href="http://www.atoznewtips.com/tag/carlisle/" class="tag-link-4089" title="302 topics" rel="tag" style="font-size: 15.9068825911pt;">Carlisle</a>
 <a href="http://www.atoznewtips.com/tag/cellular-telephone/" class="tag-link-1964" title="70 topics" rel="tag" style="font-size: 9.33198380567pt;">cellular telephone</a>
-<a href="http://www.atoznewtips.com/tag/cover-letter/" class="tag-link-2725" title="74 topics" rel="tag" style="font-size: 9.44534412955pt;">Cover Letter</a>
+<a href="http://www.atoznewtips.com/tag/cover-letter/" class="tag-link-2725" title="75 topics" rel="tag" style="font-size: 9.47368421053pt;">Cover Letter</a>
 <a href="http://www.atoznewtips.com/tag/cover-letter-job/" class="tag-link-4622" title="46 topics" rel="tag" style="font-size: 8.65182186235pt;">Cover Letter-Job</a>
 <a href="http://www.atoznewtips.com/tag/cover-letter-samples/" class="tag-link-2722" title="37 topics" rel="tag" style="font-size: 8.3967611336pt;">Cover Letter Samples</a>
 <a href="http://www.atoznewtips.com/tag/cristiano-batistuta/" class="tag-link-7068" title="44 topics" rel="tag" style="font-size: 8.5951417004pt;">Cristiano Batistuta</a>
@@ -654,7 +338,7 @@ google_ad_height = 600;
 <a href="http://www.atoznewtips.com/tag/microsoft-corporation/" class="tag-link-5022" title="23 topics" rel="tag" style="font-size: 8pt;">Microsoft Corporation</a>
 <a href="http://www.atoznewtips.com/tag/new-york/" class="tag-link-623" title="189 topics" rel="tag" style="font-size: 12.7044534413pt;">New York</a>
 <a href="http://www.atoznewtips.com/tag/new-york-times/" class="tag-link-2973" title="99 topics" rel="tag" style="font-size: 10.1538461538pt;">New York Times</a>
-<a href="http://www.atoznewtips.com/tag/nurse/" class="tag-link-44" title="35 topics" rel="tag" style="font-size: 8.34008097166pt;">Nurse</a>
+<a href="http://www.atoznewtips.com/tag/nurse/" class="tag-link-44" title="36 topics" rel="tag" style="font-size: 8.36842105263pt;">Nurse</a>
 <a href="http://www.atoznewtips.com/tag/personal-manager/" class="tag-link-6660" title="113 topics" rel="tag" style="font-size: 10.5506072874pt;">Personal Manager</a>
 <a href="http://www.atoznewtips.com/tag/personnel-manager/" class="tag-link-5698" title="72 topics" rel="tag" style="font-size: 9.38866396761pt;">Personnel Manager</a>
 <a href="http://www.atoznewtips.com/tag/registered-nurse/" class="tag-link-38" title="29 topics" rel="tag" style="font-size: 8.17004048583pt;">Registered Nurse</a>
@@ -685,7 +369,7 @@ google_ad_height = 600;
     Job Vacancies    </strong>© 2007 All Rights Reserved. Using <a href="http://wordpress.org/">WordPress 2.7.1</a> Engine
 
     <br><span class="rss"><a href="http://www.atoznewtips.com/feed/">Entries</a></span> and <span class="rss"><a href="http://www.atoznewtips.com/comments/feed/">Comments</a><span>. 
-    <!--23 queries. 0.634 seconds. -->
+    <!--21 queries. 0.453 seconds. -->
   </span></span></p>
   <p class="right"> <span><a href="http://www.jauhari.net/themes/prosumer" title="Prosumer 1.4">Prosumer 1.4</a> made by <a href="http://www.jauhari.net/">Nurudin Jauhari</a></span> </p>
   <br class="clear">
@@ -733,9 +417,10 @@ google_ad_height = 600;
 </center>
 
 <script type="text/javascript">
-var infolink_pid = 41860;
-var infolink_wsid = 1;
+    var infolinks_pid = 41860;
+    var infolinks_wsid = 0;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+                
 		
-</body></html>
+</center></body></html>
