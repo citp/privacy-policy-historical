@@ -1,140 +1,172 @@
-> *The following text is extracted and transformed from the taca.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102193008id_/http%3A//www.taca.com/eng/fo2/pri/priprivac.asp%3Fid%3D34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taca.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513035617id_/http%3A//www.taca.com/eng/fo2/pri/priprivac.asp%3Fid%3D34) for the most accurate reproduction.*
 
 # Taca.com
 
-Privacy Policy
+General Privacy Policy
 
-This Privacy Notice describes the information that **TACA Airlines** (domiciled in Avenida El Espino entre Boulevard Sur y Calle El Almendro, Urbanización Madre Selva, Antiguo Cuscatlán La Libertad, El Salvador) collects about users and visitors to the e-commerce platform and the **_BAC Credomatic Network_** system which is directly responsible for the data collected. It is important that our users know how we handle and use the personal information we collect, and we provide all this information, as required by law, in the policy below. 
+ **1\. Who We Are**
 
-**Taca.com** safeguards all information obtained from users for the provision of passenger air transportation services. Therefore, we present In this document we detail the usage, privacy and confidentiality policies that govern this information. These policies apply to all users, once consent is given by buying and / or browsing our website.
+The airlines **Aerovías del Continente Americano S.A. Avianca** , and **Tampa Cargo S.A.** , organized in the Republic of Colombia,  **Aerolíneas Galápagos S.A. Aerogal** , organized in the Republic of Ecuador, and the airlines comprising Grupo Taca:   **Taca International Airlines S.A.** , organized in the Republic of El Salvador, **Líneas Aéreas Costarricenses S.A. Lacsa** , organized in the Republic of Costa Rica, **Trans American Airlines S.A**., organized in the Republic of Peru, **Aviateca, S.A.,** organized under Guatemala law, hereinafter called both individually and collectively THE AIRLINES, which includes products and services provided by other companies related to any of the airlines above, who, for the provision and commercialization of air transportation services for passengers and related products and services, such as tourism packages, air or land cargo transportation, express courier services and other courier services, airport services, technical and professional training services, and loyalty programs, may act under the commercial brands AVIANCA, AEROGAL, AVIATECA, LACSA, TACA, TACA PERU, TACA REGIONAL, TACA CARGO, TAMPA CARGO, AVIANCA CARGO, AVIANCA SERVICES, AVIANCA TOURS, AVIANCA EXPRESS, FLYBOX, DEPRISA, LIFEMILES, PREFERENCIA “Programa para viajes empresariales” (“Company Travel Program”) or solely under the commercial brand **AVIANCA** , all of them being respectively responsible for the handling of personal data.
 
-At all times we strive to protect personal identifiable information from users of **Taca.com** and its proper use, using proven hardware, software and telecommunications technologies. We also use transfer protocols, electronic data encryption and security certificates issued by **COMODO High Assurance Secure Server CA** , one of the industry leading certification authorities.
+Avianca Holdings S.A. (formerly Avianca Taca Holding S.A.), is a Panamanian company, organized as an investment firm and as an instrument to perform the shareholders’ agreement that led to THE AIRLINES’ integration process.
 
-Personal data we collect
+**2\. Purpose of THE AIRLINES’ Personal Information and Data Handling Terms and Conditions**
 
-Taca.com is a publicly accessible website, without no access restrictions for users and without subscriptions or registration requirements to use. However, to purchase a ticket you must provide the following information:
+This document contains our personal information and data handling policy; its purpose is to communicate what information we gather when providing our services and for what purpose, how we handle that information, when we share it, and how we protect it, as well as to explain the rights to which the owners of such information are entitled and the procedures for exercising such rights.
 
- 
-  * Personal information of Passengers (First Names and Last Names).
-  * Date of Birth.
-  * Contact phone numbers (personal and/or work).
-  * Email.
-  * Credit card information (number, security code, expiry date).
-  * Personal information of the cardholder (First Names and Last Names).
-  * Address where the cardholder receives their bank statements.
-  * The customer IP address, obtained using cookies.
+We, THE AIRLINES, acknowledge how important it is to keep the personal data furnished by our passengers, customers, and users through our product and service commercialization channels (such as websites, sales offices, and call centers) secure, private, and confidential and we are committed to protecting and properly handling that data, pursuant to applicable personal data protection laws and regulations in each territory where we operate.
 
+This document discusses handling the information that we receive from our passengers, customers, and users at each one of our business units: Deprisa, Avianca Tours, LifeMiles, PREFERENCIA “Programa para viajes empresariales”  (“Company Travel Programs”), Avianca Services, Avianca Cargo and Avianca Express, and it constitutes the general reference framework of the specific policies stated in [www.avianca.com](http://www.avianca.com/), [www.taca.com](http://www.taca.com/), [www.deprisa.com](http://www.deprisa.com/), [www.lifemiles.com](http://www.lifemiles.com/), [www.preferenciacorporativo.com](http://www.preferenciacorporativo.com/), [www.aviancaservices.com](http://www.aviancaservices.com/), [www.tampacargo.com](http://www.tampacargo.com/), [www.aerogal.com.ec](http://www.aerogal.com.ec/), [www.tacaregional.com](http://www.tacaregional.com/), [www.flybox.co](http://www.flybox.co/), [www.aviancaexpress.com](http://www.aviancaexpress.com/), [link.avianca.com](http://link.avianca.com/), [www.sociosyamigos.com](http://www.sociosyamigos.com/). Each one of these websites also contains the terms and conditions applicable to the products and services offered therein, which may be consulted for further information at any time. 
 
+The above websites may be deactivated or changed to a new domain, after implementing reorganization processes. Such changes will be promptly notified to our passengers, customers, and users 
 
-Information Management
+**3\. Personal Information and Data Obtained**
 
-The main use for the information is to convert it into a useful tool for the provision of our passenger air transportation services. However, in our ongoing effort to improve our services, we need to analyze information from our users to better serve them.
-
-We use the data obtained through our Website to personalize promotions, special offers and deals or to send information about our products and services to email addresses registered by users.
-
-Another piece of the information we collect is the IP address, so we can know where users to our site come from and website activity of our users. This information is used to improve the services offered on Taca.com, the site security and to tailor the site to the behaviors and preferences of those people who use our services.
-
-Information relating to the payment method is used to request authorization of charges to financial institutions. At no time does TACA retain this information. Because of the sensitivity of this information, we strictly follow security standards regarding its management. The personal data of the cardholder is also sent to private entities that provide credit information. Confidentiality agreements have been signed with any third party that receives forwarded information.
-
-TACA, Credomatic or Atento do not verify or assume any obligation to verify the identity of the user, the veracity, validity, sufficiency and authenticity of the data that the user provides and are, therefore, excluded from all liability for damages of any kind that may occur due to lack of accuracy, timeliness, adequacy or reliability of the information. This includes damages of any kind due to the impersonation by a user of another user regarding any service of any type from our Website.
-
-  
-**Among the service providers who collect information directly from the user are:**
+We, THE AIRLINES collect personal information and data from our passengers, customers, and users, which may include the following data among others, in full or in part, according to the requirements of each product and/or service:
 
  
-  * **Credomatic** : which has its Regional Operations Center located in San Jose, Costa Rica (Escazú, Centro Empresarial Plaza Roble, Edificio Terrazas B). It is a financial institution with over 30 years experience in issuing and accepting credit and debit cards as well as in the provision of banking services, dedicated to facilitating the exchange and financing of goods and services, by providing means of payment and financing innovative and cost-effective solutions to help improve the quality of life of customers, employees and shareholders. The development of financial products and services, combined with advanced technological resources and the quality of their teams, have allowed them to occupy a leading position in the Central American financial market. More information is available at  [www.credomatic.com](http://www.credomatic.com/) and [www.bac.net](http://www.bac.net/).
+  * Full name
+  * Identification document type and number
+  * Nationality and country of residence 
+  * Date of birth and sex
+  * Marital status and/or relation to minors or disabled persons requesting our services 
+  * Fixed and mobile contact telephone numbers (home and/or work) 
+  * Mailing address and e-mail address (home and/or work) 
+  * Fax number (home and/or work)
+  * Credit card information (number, banking institution, expiration date)
+  * Cardholder personal data (First and last names and Identification type and number)
+  * Mailing address where the cardholder receives his or her bank statements 
+  * Customer IP, through cookies 
+  * Profession or job 
+  * Company where the customer works and job title 
+  * Frequent Flyer Card number and information on any transactions or activities related to the LifeMiles Frequent Flyer Program 
+  * Necessary information to expedite the flight or other services, including the names of travel companions, emergency contacts in the event of accidents or other contingencies, seat preference, special diets or medical requirements 
+  * Purchase channel information (such as travel agencies, direct sales points or representative or agency sales points, call center, and websites) 
+  * Use of products and services (such as self-check-in machines, flight status notifications, and online check-in) 
+  * Personal information and data collected through surveys, focus groups or other market research methods 
+  * Information required by sales representatives or customer service representatives, for attending requests or claims 
+  * Biometric data.
 
-Credomatic performs credit and / or debit card processing for TACA, in the different sales channels the Carrier offers its customers and guarantees the non-disclosure of sensitive cardholder information according to the highest levels of security with certification from the Payment Card Industry Data Security Standard. Additionally, it is certified ISO 9001:2008, ISO 14001:2004 and OHSAS 18001.
-
-  * **Atento** : has its center of operations for TACA located in San Salvador, El Salvador (63 AV Sur Alameda Roosevelt Centro Financiero Gigante, torre “D” nivel 8). It is a multinational Customer Relationship Management (CRM) service provider within the Business Process Outsourcing (BPO) sector and leader in the Latin American market and the second largest in the world in terms of revenue. Since 1999, the company has developed its business model in 17 countries employing over 156,000 people. It currently serves more than 560 companies offering a wide range of services through multichannel platforms and their clients include leaders in industries as varied as airlines, telecommunications, finance, healthcare, technology, insurance, F&B and governments, among others. More information is available at [www.atento.com](http://www.atento.com/)
-
-Atento provides front and back end processes, which ensure the proper use of customer information to support the internal processes of the Carrier and guarantees non-disclosure of this information through special safeguards and careful personnel selection, confidentiality agreements and applying the highest security standards (SSAE-16, PCI, etc.) in all its processes, thereby ensuring proper handling of sensitive information and compliance with security policies 
 
 
+This data may be stored and/or processed in IT center servers, either owned by THE AIRLINES or by third-party providers, located in different countries, as authorized by our passengers, customers, and users upon acceptance of this Privacy Policy.
 
+In addition, for security reasons, THE AIRLINES may gather, store, keep, share, and check with national or international control and surveillance administration authorities and with police or judicial authorities biometric data regarding our passengers, customers, and users obtained through image, audio or video recording devices, located in our facilities, such as administration offices, sales points, VIP lounges, airport service counters and kiosks, and call centers, among others. We, THE AIRLINES, will notify the above to the public at large by publishing Privacy Notices located in data collection areas.
 
-Limitation on use and disclosure of information
+Personal Information and Data Handling Effective Term
 
-In our notification system for promotions, offers and services via email, only TACA has access to collected information. This type of advertising is done through advertisements and promotional e-mail messages, which will only be sent to registered users. Users can unsubscribe at any time.
+Information furnished by passengers, customers, and users will remain stored for up to ten (10) years as of the last data handling date, to allow THE AIRLINES’ compliance with legal or contractual obligations especially regarding accounting, fiscal and tax matters. 
 
-Use of cookies and web beacons 
+Information Veracity
 
-Cookies are text files that are automatically downloaded and stored on the hard disk of the user’s computer to browse a specific website. These allow the Internet server to store information about the user, including their preferences for viewing pages on that server, user names and passwords.
+Passengers, customers, and users must furnish true personal information and data to validate their reservation and to enable service provision; they must also do so to receive any other service that they may require, one of the conditions being that they must accept to furnish any required information for the particular service.
 
-Web beacons are images embedded in a web page or email, which can be used to monitor the behavior of a visitor, such as storing information about the user's IP address, duration of interaction time on a page and the type of browser used, among others.
+We, THE AIRLINES, assume that the information furnished is true. We do not verify it nor do we assume the obligation of verifying the identity of the passengers, customers, and users or the veracity, validity, sufficiency and authenticity of the data that each of them furnishes. Therefore, we will not be held responsible for losses and/or damages of any nature that may stem from the lack of veracity, validity, sufficiency or authenticity of such information, including any losses or damages due to homonymy or identity theft.
 
-On our website we use cookies and web beacons to collect personal information, such as:
+Information regarding Children and Underage Adolescents 
+
+Boys, girls, and underage adolescents may use the products and services we offer, provided that they are acting through or are properly authorized by their parents or legal guardians. 
+
+We, THE AIRLINES, will see to the proper use of personal data regarding children and underage adolescents, ensuring their best interests and their fundamental rights when handling their data, and, whenever possible, taking into account their opinion as they are the owners of their personal data.
+
+**4\. Purpose of Personal Data Handling**
+
+The information gathered is used to process, confirm, conduct, and provide the services and/or products purchased directly and/or with the participation of other airlines or third-party product or service providers, as well as to promote and advertise our activities, products and services, make transactions, report to different national or international control and surveillance administration authorities, police or judicial authorities, banking institutions and/or insurance companies, for internal administrative and/or commercial purposes, such as market research, auditing, accounting reports, statistics analyses, billing, and offering and/or acknowledging loyalty program benefits.
+
+Due to our commercial activity, we, THE AIRLINES, are bound to furnish certain data regarding passengers, cargo, express courier or other courier services to aeronautics authorities, immigration and customs authorities, and to the national and international government authorities that regulate them or security agencies before flight departure or landing in the territory of each destination or at any moment after the transportation contract has been performed. In general, “information” refers to the identity data of the passengers on board, as well as to the contents of their respective travel documentation (passport, visa) or data relating to the merchandize being transported. 
+
+Upon accepting this General Privacy Policy, our passengers, customers, and users, as owners of the gathered data, authorize THE AIRLINES to handle that data, in part or in whole, including third-party country collection, storage, recording, usage, dissemination, processing, deletion, transmission and/or transfer of the furnished data, for the purpose of carrying out the activities related to the purchased products and services, such as reservations, modifications, cancelations and schedule changes, reimbursements, queries, complaints and claims, compensation and indemnity payments, accounting reports, mail, processing and verification of credit cards, debit cards and any other payment method, fraud and asset laundering identification and the prevention of other illicit activities, and/or for loyalty programs and the other purposes indicated herein.
+
+We hereby inform that third party providers may be involved in the above-mentioned activities (such as flight reservation system providers, bank transaction security tool providers, call centers, and tourism service operators), banking institutions, insurance companies, our representatives or agents, and that such activities may be supplied in countries other than the country in which the service or the product was purchased, and without prejudice to any other purpose stated herein and under the terms and conditions of each one of the products and services offered by each one of our business units. 
+
+In addition, upon accepting this General Privacy Policy, our passengers, customers, and users, as owners of the gathered data, authorize us to:
 
  
-  * The type of browser and operating system.
-  * The websites you visit.
-  * The links you click on.
-  * The IP address.
-  * The site you visited prior to ours.
+  * Use passenger, customer, and user data furnished electronically, through websites, and Smartphone apps, among others, to send the boarding pass or the document confirming the transaction to their registered e-mail. 
+  * Use the information received for marketing our products and services, and for marketing the products and services of third parties with which THE AIRLINES maintain a business relation. 
+  * Share personal data with commercial representatives, tourism operators, and hotels, among others, as required, for handling travel plan reservations or services such as car rentals or hotel room reservations. 
+  * Supply personal data to national or international control and surveillance administration authorities, and to police or judicial authorities pursuant to legal requirements, and/or use or disclose personal information and data to defend passenger, customer, and user rights and/or assets if such defense is related to the products and services purchased by the passengers, customers, and users. 
+  * Allow personal information and data access to auditors or third parties hired to carry out internal or external auditing processes proper to our commercial activity. 
+  * Query and update personal data, at any time, to keep such information updated. 
+  * Hire third-party services for personal information and data storage and/or processing, for the proper performance of airline contracts, under the security and confidentiality standards to which we are bound. 
+  * Transfer and transmit personal data to countries other than the country in which the service or the product was purchased; to do so, THE AIRLINES will see to the protection of such data pursuant to the security and confidentiality standards set forth herein. 
+  * Transfer personal data to a potential buyer in one of our business units; to do so, we will promptly notify our passengers, customers, and users, as they are the owners of the gathered data, for them to exercise their right to update, modify and delete personal data, pursuant to applicable law. 
 
 
 
-These cookies and other technologies may be disabled and deleted by the user as and when they wish. Check the help section on your Internet browser to learn how to do this.
+**5\. Cookie and Web Beacon Use**
 
-Confidentiality of information
-
-Upon receipt of the data provided by the user, we do everything possible to safeguard its security on our systems. To accomplish this we have focused our efforts on implementing the latest and most up-to-date technology to provide the highest possible levels of security.
-
-How does the user access, modify, limit the use and disclosure of personal data, delete or object to its use?
-
-The user has the right to access their personal information that we hold and the details regarding its management and use and to correct inaccurate or incomplete details. They can delete them when they consider they are not required for any of the purposes identified in this privacy policy, when they are being used for unauthorized purposes or have finished the contract or service, or to oppose their use for specific purposes.
-
-You can send this request by email to [edesk@taca.com](mailto:edesk@taca.com) or through our Website using the [suggestions and complaints](http://res.taca.com/et/esp/cus/fdb/fdbconsug.asp?id=54) service. Please include the following information in your request:
+We, THE AIRLINES, may use cookies, web beacons, and other similar technology in our websites and the electronic devices used to access them, to know the location, activities, and preferences of our passengers, customers, and users when surfing the web, to increase website functionality and accessibility, to verify that users comply with the required criteria to process their requests, and to adapt our products and services to user needs, by obtaining the following general information:
 
  
-  * First Names and Last Names
-  * Document number and type
-  * Phone number
-  * Email
+  * Type of navigator and operating system used 
+  * Device language
+  * Websites visited
+  * Links accessed
+  * IP address
+  * Website visited before going to Avianca.com
+  * Time spent surfing
+
+
+
+Users may disable and delete the cookies, web beacons and other similar technology at any time. To do so, users may query and/or request help from the Internet navigator he or she uses. 
+
+**6\. Information Protection, Security and Confidentiality**
+
+Passenger, customer, and user information is of vital importance to THE AIRLINES. We have established information security policies, procedures, and standards aimed at protecting and preserving information integrity, confidentiality and availability, no matter what the means or format of the information, its temporary or permanent location, or how it may be transmitted. Along those lines, we have the support of security technology tools and we implement acknowledged industry security practices, including sensitive information transmission and storage using secure mechanisms, such as ciphering, security protocol usage, technology component assurance, restriction of information access to authorized personnel only, information backups, and secure software development practices, among others. 
+
+Third parties contracted by THE AIRLINES are equally bound to adhere to and comply with information security policies and manuals, as well as with the security protocols we apply in all of our processes. 
+
+Every contract between THE AIRLINES and third parties (contractors, external consultants, temporary employee services, etc…) that entails handling personal information and data includes a Confidentiality Clause that states in detail their commitment to the protection, care, security, and preservation of information confidentiality, integrity and privacy.
+
+**7\. Procedure for the Owners of the Information to Exercise Their Rights**
+
+Passengers, customers, and users are entitled to access their personal data under our control and to exercise their rights as owners of the information, under the terms of applicable data protection laws and regulations and pursuant to the provisions herein.
+
+For personal data handled in Colombia, the procedures for exercising information owner rights are set forth in 2012 Law 1581. 
+
+Passengers, customers, and users have the right to query and become familiar with the details of our personal data handling process, as well as to rectify the data that is inaccurate or incomplete and to cancel unused data, pursuant to legal or contractual purposes and terms or pursuant to the purposes and terms contemplated herein.
+
+To make their rights effective, passengers, customers, and users may exercise their right to know, update, rectify, and delete their personal data by sending a request to e-mail address  [contactenos@avianca.com](mailto:contactenos@avianca.com) or by using the Suggestions and Claims service at [www.avianca.com](http://www.avianca.com/)  or through the Call Center from Bogotá calling 4013434 or from other cities in Colombia calling 018000953434, pursuant to the provisions herein.
+
+The request must include the following data:
+
+ 
+  * Full name
+  * Identification document type
+  * Identification number 
+  * Telephone number
+  * e-mail address
   * Country
-  * Subject 
+  * Request
 
 
 
-Changes to this privacy policy
-
-We reserve the right to modify the terms and conditions of this Privacy Policy at any time due to new legislation, internal policies or new requirements for providing or offering our services or products.
-
-These changes will be publicly available through: advertisements visible in our stores or customer service centers, on our website (Privacy Policy) or we will send them via email to our users using the last email address they provided.
-
-Glossary
+Should any passenger, customer, user or third party consider that the content used in any of our contact and commercialization channels, such as websites, Smartphone apps, and service kiosks, violates his or her intellectual property rights, he or she must send a notice containing the information below to the above-mentioned addresses.
 
  
-  * Reissue: Ticket change (Contract of Carriage) that cannot be done through a renewal re-validation and requires that a new ticket be issued.
-  * Re-validation: Authorization stamped or written on the ticket of the Passenger, which shows that this has been officially changed by the carrier which cannot be a change of origin, destination, stopover or fare.
-  * Reissue (Issue for lost ticket): Consists of the reissuing of the ticket for reasons including loss or deterioration. Only tickets with TACA code will be reissued. 
+  * Personal data: name, address, telephone number, and e-mail of the claimant 
+  * Handwritten authenticated signature, with the personal data of the person authorized to act in the name of and on behalf of the owner of the intellectual property rights that were infringed 
+  * Precise, complete description and location of the content protected by the intellectual property rights that were infringed 
+  * Clear express statement that the indicated content was used without the consent of the owner of the intellectual property rights that were infringed 
+  * Clear express statement, under the responsibility of the claimant, that the information provided in the notice is accurate and that the use of the content constitutes a violation of his or her intellectual property rights.
 
 
 
-Procedure for claims regarding intellectual property infringements
+This type of claim will be submitted for handling and resolution to applicable judicial procedures, according to their nature and scope.
 
-If any user or third party believes in good faith that content on the website infringes their intellectual property rights, they must send us a written communication which contains the following information:
+**8\. Modifications to the Privacy Policy**
 
- 
-  * Personal information: name, address, phone number and email address of the claimant .
-  * Handwritten signature, with the personal data of the holder of the claimed infringed intellectual property rights or the person authorized to act on behalf of the owner of the claimed infringed intellectual property rights. 
-  * A precise and complete description of the content you claim has been infringed, and its location on the Website. .
-  * An express and clear statement that the use of the content indicated is made without the consent of the owner of the intellectual property rights. 
-  * An express and clear statement made by the claimant that the information provided in the notification is accurate and that the use of the content constitutes a violation of their intellectual property rights.
+THE AIRLINES reserve their right to make modifications or updates to this Privacy Policy at any time, in compliance with new laws, internal policy or new requirements for providing or offering products or services.
 
+Such modifications will be made available to the public using the following means: visible notices in airline establishments or customer service centers, our airline websites, Smartphone apps or e- kiosks (Privacy Notice) or a message sent to the last e-mail address provided by our passengers, customers, and users.
 
+**9\. Acceptance of the Privacy Policy**
 
-These notices must be sent to:
+Each passenger, customer or user accepts the handling of his or her personal data pursuant to the terms set forth herein, when he or she furnishes data through our service or sales points, including all call centers, or when he or she purchases or uses any of our products and services or when he or she clicks on the button “Aceptar” (“OK”) or navigates through our websites [www.avianca.com](http://www.avianca.com/), [www.taca.com](http://www.taca.com/), [www.deprisa.com](http://www.deprisa.com/), [www.lifemiles.com](http://www.lifemiles.com/), [www.preferenciacorporativo.com](http://www.preferenciacorporativo.com/), [www.aviancaservices.com](http://www.aviancaservices.com/), [www.tampacargo.com](http://www.tampacargo.com/), [www.aerogal.com.ec](http://www.aerogal.com.ec/), [www.tacaregional.com](http://www.tacaregional.com/), [www.flybox.co](http://www.flybox.co/), [www.aviancaexpress.com](http://www.aviancaexpress.com/), [link.avianca.com](http://link.avianca.com/), [www.sociosyamigos.com](http://www.sociosyamigos.com/).
 
-Email: [edesk@taca.com](mailto:edesk@taca.com)  
-Postal Address: Avenida El Espino entre Boulevard Sur y Calle El Almendro, Urbanización Madre Selva, Antiguo Cuscatlán La Libertad, El Salvador.
+**10\. Term**
 
-All claims arising from this notice shall be subject to the applicable laws and procedures according to the nature and scope thereof.
+This Privacy Policy is effective as of the date on which it is published.
 
-Acceptance of Terms
-
-The assertion of confidentiality / privacy is subject to the terms and conditions of our Website, which constitutes a legal agreement between the user and TACA Airlines.
-
-If the user accesses and uses our online services (for purchases, Web Check-In, to check flight schedules, flights status, ticket status, etc.), it means they have read, understood and agree to the terms stated therein. Otherwise, the user should not provide any personal information, or use these services.
-
-_Last update: September 20, 2012._
+The latest revision was published on April 17, 2013.
