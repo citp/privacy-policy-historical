@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipegirl.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183708id_/http%3A//www.recipegirl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipegirl.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513204823id_/http%3A//www.recipegirl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Recipe Girl
 
