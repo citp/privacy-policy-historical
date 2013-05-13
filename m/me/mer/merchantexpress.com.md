@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantexpress.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017120550id_/http%3A//www.merchantexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantexpress.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513050652id_/http%3A//www.merchantexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Merchant Express
 
@@ -21,6 +21,5 @@ We use AdWords remarketing to market our sites across the web. We place a cookie
 
 MERCHANT EXPRESS reserves the right to modify and update this privacy policy at any time. If you are concerned about use of your information, you may contact MERCHANT EXPRESS at 888-845-9457.
 
-Please Verify the Highlighted  
-Fields Before We Can Continue  
-Your Request 
+Please Verify the Highlighted Fields  
+Before We Can Continue Your Request 
