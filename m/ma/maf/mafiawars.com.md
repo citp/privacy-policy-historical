@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mafiawars.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204093753id_/https%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mafiawars.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513025955id_/https%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Zynga
 
