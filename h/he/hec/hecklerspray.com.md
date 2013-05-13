@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010113754id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513070255id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 This privacy policy describes in detail the types of personal information collected and recorded by **HecklerSpray.com** and how it’s used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
- **Log Files:**
+**Log Files:**
 
 Like many other websites, this site makes use of log files. These files merely logs visitors to the site, usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information, are not linked to any information that is personally identifiable.
 
- **Third Party Ads, Cookies, and Web Beacons:**
+**Third Party Ads, Cookies, and Web Beacons:**
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
@@ -19,11 +19,17 @@ These third-party advert servers or advertising networks use technology in their
 
 This website has no access to or control over these cookies that are used by third-party advertisers.
 
- **Third Party Privacy Policies:**
+**Third Party Privacy Policies:**
 
 You should consult the respective privacy policies of third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This website’s privacy policy does not apply to those third parties, and cannot control the activities of other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options.
 
 By using this website, you hereby consent to its privacy policy and agree to its terms.  
+
+
+  * [Share on Facebook.](http://www.facebook.com/sharer.php?u=http://www.hecklerspray.com/privacy&locale=en_US&t=Privacy%20Policy)
+  *   * [Share on Google+](https://plus.google.com/share?url=http://www.hecklerspray.com/privacy)
+  * [Share on Twitter.](http://twitter.com/hecklerspray)
+
 
