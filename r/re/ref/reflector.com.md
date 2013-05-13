@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112023854id_/http%3A//reflector.cookepublishing.net/customerservice/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513042913id_/http%3A//reflector.cookepublishing.net/customerservice/privacypolicy) for the most accurate reproduction.*
 
 # The Daily Reflector
 
