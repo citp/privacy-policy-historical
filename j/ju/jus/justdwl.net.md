@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justdwl.net privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110153624id_/http%3A//justdwl.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdwl.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513020723id_/http%3A//justdwl.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Just DWL | The Ultimate Trolling | Mind Games | Funny Photos
 
