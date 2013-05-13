@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014022948id_/http%3A//www.squattypotty.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513124514id_/http%3A//www.squattypotty.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
+
+Squatty Potty® is  
+Doctor Recommended  
+& Endorsed!
+
+Relieve Constipation  
+End Hemorrhoids  
+Improve Colon Health  
+Easier, Faster Elimination  
+Less Straining & Bloating
+
+[](https://web.archive.org/product-p/sp-gm-60.htm)
+
+[](https://web.archive.org/Eau-de-Toilet-Potty-Spray-s/1828.htm)
+
+  
+
 
 **Privacy Policy**
 
