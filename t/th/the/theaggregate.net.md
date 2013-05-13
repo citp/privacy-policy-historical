@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theaggregate.net privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925101930id_/http%3A//www.theaggregate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaggregate.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513112602id_/http%3A//cultso.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Aggregate
+# Privacy Policy | Cultso
 
 **Sleyt Digital Privacy Policy**
 
@@ -25,13 +25,17 @@ browser type, time and date, subject of advertisements clicked or scrolled over)
 
 **Notice Regarding Online Behavioral Advertising**
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+****We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit  [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, Sleyt Digital may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Sleyt Digital websites.
 
 **Business Transitions**  
 In the event Sleyt Digital goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+
+**User Posting  **
+
+In submitting content for Cultso.com, you are either sourcing where you received it or guaranteeing it as your own. No content will be accepted without accreditation to the owner of the intellectual property. If something that you submit turns out to be not your own, yet you give us permission to use it, you will be held responsible for any and all litigation that results. Cultso.com will not be held responsible for being misled on the content of stolen intellectual property.
 
 **Links**  
 The Sleyt Digital websites contain links to other sites. Please be aware that Sleyt Digital is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Sleyt Digital
