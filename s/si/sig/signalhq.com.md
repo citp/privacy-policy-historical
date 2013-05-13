@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signalhq.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221234253id_/http%3A//www.signalhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signalhq.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513211031id_/http%3A//www.signalhq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Signal
+# None
 
 The following Privacy Statement (“Statement”) sets forth the policies for, the collection and use of personally identifiable information (“Information”) by Message Mediums, LLC, DBA Signal (“Signal”). This Statement covers the operation of its Web Site[ http://www.signalhq.com](http://www.signalhq.com/) (the “Site”) and its private label services, operated on behalf of third parties (its “Customers”) and supersedes any previous statement of such policies. (The Site and private label service, are referred to collectively as the “Business” in this Statement.) Signal takes its obligations regarding privacy very seriously, and it wants to ensure Customers are fully informed about the Information they are providing. “Personally identifiable Information” refers to information that can identify an individual such as a name, or email address. 
 
