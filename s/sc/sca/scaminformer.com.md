@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the scaminformer.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102022835id_/http%3A//www.scaminformer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scaminformer.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513043931id_/http%3A//www.scamexposure.com/privacy-policy.html) for the most accurate reproduction.*
 
-# scam Protection, scam Reports, Email List, Report scam Email, scam News and Information | scamInformer.com
+# scam Protection, scam Reports, Email List, Report scam Email, scam News and Information | scamExposure.com
 
 ## Scam Informer Privacy Policy
 
   
 At Scam Informer we provide the intelligent connection of customers and businesses. Whether you are a consumer seeking a deal or a merchant trying to acquire or keep customers, we want to keep offering you outstanding value so that you continue to use our services. We believe you should be able to share and collaborate on our platform in a secure hosted environment. 
 
-Because we want you to understand the collections and uses of data that are necessary and possible on the Scam Informer platform, and to show our respect for your privacy, we have established this privacy policy. We reserve the right to change this Statement and will provide notification of any material change via a posting to the ScamInformer.com website. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. 
+Because we want you to understand the collections and uses of data that are necessary and possible on the Scam Informer platform, and to show our respect for your privacy, we have established this privacy policy. We reserve the right to change this Statement and will provide notification of any material change via a posting to the ScamExposure.com website. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. 
 
 ### **Collected Information**
 
