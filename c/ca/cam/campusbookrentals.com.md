@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the campusbookrentals.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110204735id_/http%3A//www.campusbookrentals.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbookrentals.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513092845id_/http%3A//www.campusbookrentals.com/Home/Privacy) for the most accurate reproduction.*
 
 # Rent a Text Book | Textbook Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.campusbookrentals.com&sealid=101)
+[ ](http://www.truste.org/ivalidate.php?url=www.campusbookrentals.com&sealid=101)
 
-**Effective:** 8 April 2009
-
-Updated May 4, 2010
+**Effective 8 April 2009**  
+Updated 4 May 2010 
 
 CampusBookRentals.com is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.CampusBookRentals.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -61,10 +60,9 @@ In addition, cookies are used by default on certain pages and fields of our site
 From time-to-time our site may request information from users via surveys, contests or for a particular service (e.g. testimonial). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your opinions, feedback, testimonials, etc. In the event of a contest, we will use the contact information to notify winners. We will not publish winners' details on the site. If the survey or contest has a sponsor then we will share information given by entrants with the sponsor. 
 
 **Payment Policies:**   
-In order to process payments online we require the billing address for the credit card used and our external payment provider, Internet Secure, requires your credit card number and details. This is all done on a secure Internet Secure server using SSL (secure sockets layer) technology. For additional information on Internet Secure, logon to www.internetsecure.com and read their terms and conditions and policies. 
+In order to process payments online we require the billing address for the credit card used and our external payment provider, Internet Secure, requires your credit card number and details. This is all done on a secure Internet Secure server using SSL (secure sockets layer) technology. For additional information on Internet Secure, logon to www.internetsecure.com and read their terms and conditions and policies.
 
-**Customer Names and Shipping Addresses**
-
+**Customer Names and Shipping Addresses**   
 CampusBookRentals.com uses third party providers to package and deliver books to its customers. Customer names and shipping addresses are shared with our suppliers and shipping providers in order to complete the delivery process. 
 
 **3\. Our Use of Your Information**   
@@ -105,14 +103,14 @@ You must promptly update your information if it changes. Once posted, you cannot
 Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. 
 
 **9\. Security**   
-In order to process and protect your credit card details, our payment provider, Internet Secure uses SSL (secure sockets layer) encryption. The secure server is hosted by Authorize.net and not CampusBookRentals.com™. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+In order to process and protect your credit card details, our payment provider, Internet Secure uses SSL (secure sockets layer) encryption. The secure server is hosted by Authorize.net and not CampusBookRentals.com™. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 **10\. Changes to Privacy Policy**   
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email, prior to making such changes. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice, before changes go into affect, on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-Physical Address  
+**Physical Address**   
 2805 S 1900 W  
 Ogden, UT 84401
 
-Email address  
-info@campusbookrentals.com 
+**Email address**  
+[info@campusbookrentals.com](mailto:info@campusbookrentals.com)
