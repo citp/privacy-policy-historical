@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostcabi.net privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110235828id_/http%3A//hostcabi.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcabi.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513031357id_/http%3A//hostcabi.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HostCabi.net
 
