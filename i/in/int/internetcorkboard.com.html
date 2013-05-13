@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the internetcorkboard.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101120750id_/http%3A//www.internetcorkboard.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internetcorkboard.com privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513091208id_/http%3A//www.internetcorkboard.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:meebo="http://www.meebo.com/"><head>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="EN">
 <title>Privacy Policy</title>
 <meta name="description" content="This is the privacy policy for Internet Corkboard.">
-<link rel="stylesheet" type="text/css" href="http://files.internetcorkboard.com/css/minify/frame@global@else!20120926.css">
-<script async="" type="text/javascript" src="//dpp750yjcl65g.cloudfront.net/m/valueclickbrands/ae.js"></script><script type="text/javascript" src="http://files.internetcorkboard.com/js/minify/jquery@main!20120926.js"></script>
+<link rel="stylesheet" type="text/css" href="http://files.internetcorkboard.com/css/minify/frame@global@else!20130427.css">
+<script async="" type="text/javascript" src="//dpp750yjcl65g.cloudfront.net/m/valueclickbrands/ae.js"></script><script type="text/javascript" src="http://files.internetcorkboard.com/js/minify/jquery@main!20130427.js"></script>
 <!--[if ie]>
 <link href="http://files.internetcorkboard.com/css/IE.css" type="text/css" rel="stylesheet" />
 <![endif]-->
@@ -31,6 +32,31 @@ window.google_analytics_uacct = "UA-10602262-3";
 	})(document, 'script')
 </script>
 <!-- End GA Tracking Code -->
+
+<script type="text/javascript">
+function getRenderedAds(type){
+    var rendered_ads = null;
+    var list = { 'search' : { 'default' : [[null, 'googlecsa', 'mid-1']]}, 
+				'category' : { 'miva' : null,
+    	    				'default' : [[null, 'googleafc', 'mid-1'], [null, 'googleafc', 'bot-1']]}, 
+				'article' : { 'miva' : null,
+    	    				'default' : [[null, 'googleafc', 'mid-1'], [null, 'googleafc', 'bot-1']]}};
+	switch(type){
+		case "search":
+    		rendered_ads = list[type]['default'];
+	    	break;
+	    case "category":
+	    case "article":
+		    if('' == 'miva'){
+		    	rendered_ads = list[type]['miva'];
+	    	}else{
+	    		rendered_ads = list[type]['default'];
+	    	}
+        	break;
+    }
+	return rendered_ads;
+}
+</script>
 
 
 </head>
@@ -63,11 +89,10 @@ window.google_analytics_uacct = "UA-10602262-3";
                 <a href="/computers-electronics/networking/">Networking</a></li>
 			          </ul>
                  </div>
-    <form action="/dosearch.php" method="get">
-        <div class="searchBox"><input name="q" type="text" class="inputBox" maxlength="150" value=""></div>
+    <form action="/sitesearch.php" method="get">
+        <div class="searchBox"><input name="st" type="text" class="inputBox" maxlength="150" value=""></div>
         <input id="textbox" class="butSearch" type="submit" value="">
     </form>
-
   </div>
 </div>
 <!--end header-->
@@ -131,16 +156,16 @@ window.google_analytics_uacct = "UA-10602262-3";
 
 			
 	
-			<li> <address>Copyright © 2012, InternetCorkboard.com</address></li>
+			<li> <address>Copyright © 2013, InternetCorkboard.com</address></li>
 		</ul>
    </div>
 
 <!-- start minify footer js -->
-<script type="text/javascript" src="http://files.internetcorkboard.com/js/minify/t!20120926.js"></script>
+<script type="text/javascript" src="http://files.internetcorkboard.com/js/minify/t!20130427.js"></script>
 <!-- end minify footer js -->
 <script type="text/javascript">
-    var sessionId = '870d3036e510e1d3c35a8e105388a7be';
-    var requestId = 'f1da140b0f5d6cdea423858847b35c97';
+    var sessionId = '534e2df4ab3830c89fd77ee87806a6f9';
+    var requestId = 'ca00e48c6300908c18609a66f7d4561c';
     track(requestId, sessionId);
 </script>
 
