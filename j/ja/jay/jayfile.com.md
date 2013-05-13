@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayfile.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205144756id_/http%3A//www.jayfile.com/page.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayfile.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514012246id_/http%3A//www.jayfile.com/page.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Jayfile- Business Directory Classified
 
@@ -7,7 +7,7 @@
 
 Privacy Policy
 
-This Privacy Policy governs the manner in which Murjah collects, uses, maintains and discloses information collected from users (each, a "User") of the [jayfile.com](https://web.archive.org/web/20121205144756id_/http%3A//www.jayfile.com/jayfile.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Murjah.
+This Privacy Policy governs the manner in which Murjah collects, uses, maintains and discloses information collected from users (each, a "User") of the [jayfile.com](https://web.archive.org/web/20130514012246id_/http%3A//www.jayfile.com/jayfile.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Murjah.
 
 **Personal identification information**
 
@@ -62,15 +62,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Jayfile.com 
 
-This document was last updated on May 06, 2012
+This document was last updated on March, 18 , 2013
 
 |    
-
-
-|   
----  
-  
-[](http://ezinearticles.com/?expert=Monique_Hanson "Monique Hanson, EzineArticles Expert Author")  
-  
   
 
