@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the cam.ac.uk privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213052232id_/http%3A//www.cam.ac.uk/site/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam.ac.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513050941id_/http%3A//www.cam.ac.uk/about-this-site/privacy-policy) for the most accurate reproduction.*
 
-# About this site: Privacy Policy for the University Central Web Site (www.cam.ac.uk)
+# Privacy policy | University of Cambridge
 
-## General
+##  General
 
 This policy explains what information we gather when you visit the University's central web site, and explains how that information is used.
 
-It is important for you to appreciate that the central web site provides extensive links to other independent sites, both within the University and elsewhere. This policy applies only to direct accesses to the central web site - URLs starting http://www.cam.ac.uk/. You will need to consult the appropriate information on other sites for information on their policies.
+It is important for you to appreciate that the central web site provides extensive links to other independent sites, both within the University and elsewhere. This policy applies only to direct accesses to the central web site - URLs starting <http://www.cam.ac.uk/>. You will need to consult the appropriate information on other sites for information on their policies.
 
-## Cookies
+##  Cookies
 
 This website uses cookies, which are small pieces of information that are issued to your computer or other internet-enabled device when you visit the website. Cookies are stored by your browser and hard drive and are used to distinguish you from other visitors to the site.
 
-For more details about cookies, how to disable them and the cookies we use (including Google Analytics cookies), there is a [separate cookie policy](https://web.archive.org/web/20121213052232id_/http%3A//www.cam.ac.uk/site/cookie-policy.html) for pages with URLs starting http://www.cam.ac.uk/.
+For more details about cookies, how to disable them and the cookies we use (including Google Analytics cookies), there is a [separate cookie policy](http://www.cam.ac.uk/about-this-site/cookies) for pages with URLs starting <http://www.cam.ac.uk/>.
 
-## Data collected
+##  Data collected
 
 In common with most web sites, this site automatically logs certain information about every request made of it (see below for more details). This information is used for system administration, for bug tracking, and for producing usage statistics. The logged information may be kept for up to two years.
 
@@ -25,7 +25,7 @@ We may collect and process the following data about you:
 
 
 
-## Logged data
+##  Logged data
 
 The following data is automatically collected for each request:
 
@@ -51,7 +51,7 @@ In addition, the computers on which the web site is hosted keep records of attem
 
 
 
-## Disclosure and uses of personal information
+##  Disclosure and uses of personal information
 
 We use information held about you in the following ways:
 
@@ -68,21 +68,16 @@ We may disclose your personal information to third parties in the following circ
 
 
 
-Relevant subsets of this data may be passed to computer security teams as part of investigations of computer misuse involving this site or other computing equipment in the University. 
+Relevant subsets of this data may be passed to computer security teams as part of investigations of computer misuse involving this site or other computing equipment in the University.
 
-In addition, this site uses Google Analytics to help us analyse site usage and to improve it. To support this, selected information about your interaction with the site is sent to Google for them to analyse on our behalf. For more information about Google Analytics see <http://www.google.com/analytics/>.
+In addition, this site uses Google Analytics to help us analyse site usage and to improve it. To support this, selected information about your interaction with the site is sent to Google for them to analyse on our behalf. For more information about Google Analytics see <http://www.google.com/analytics/>.
 
-## Links to other websites
+##  Links to other websites
 
-This website contains links to and from third-party sites. This policy only covers use of cookies on this site. You should consult privacy and cookie policies on third-party sites before you submit and personal data. The University of Cambridge is not responsible for any cookies that may be set by third party websites that are linked to from pages on www.cam.ac.uk.
+This website contains links to and from third-party sites. This policy only covers use of cookies on this site. You should consult privacy and cookie policies on third-party sites before you submit and personal data. The University of Cambridge is not responsible for any cookies that may be set by third party websites that are linked to from pages on [www.cam.ac.uk](http://www.cam.ac.uk/).
 
-## Access to personal data
+##  Access to personal data
 
-For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for the processing of data collected by this site is the University of Cambridge, and the point of contact for subject access requests is the University Data Protection Officer (The Old Schools, Trinity Lane, Cambridge CB2 1TN, tel. 01223 332320, fax 01223 332332 E-mail: [`data.protection@admin.cam.ac.uk`](mailto:data.protection@admin.cam.ac.uk)).
+For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for the processing of data collected by this site is the University of Cambridge, and the point of contact for subject access requests is the University Data Protection Officer (The Old Schools, Trinity Lane, Cambridge CB2 1TN, tel. 01223 332320, fax 01223 332332 E-mail: [`data.protection@admin.cam.ac.uk`](mailto:data.protection@admin.cam.ac.uk)).
 
 The University is also Data Controller in respect of any personal data served as content by this site.
-
-The title of this document is: About this site: Privacy Policy for the University Central Web Site (www.cam.ac.uk)   
-URL: http://www.cam.ac.uk/site/privacy-policy.html 
-
-_Last updated:_ 1 August 2012
