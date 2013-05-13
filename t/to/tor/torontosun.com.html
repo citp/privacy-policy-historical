@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the torontosun.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014065247id_/http%3A//www.torontosun.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torontosun.com privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513220541id_/http%3A//www.torontosun.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 	<!--  CHARTBEAT First script -->
 	
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	
-	 <!--  This page was generated on Sun Oct 14 02:25:45 EDT 2012  -->
+	 <!--  This page was generated on Mon May 13 17:41:58 EDT 2013  -->
     
     
     	
@@ -55,8 +55,8 @@
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	
-	<link rel="stylesheet" type="text/css" href="http://www.torontosun.com/assets/css/style.css?1346903991654" media="all">
-	<link rel="stylesheet" type="text/css" href="http://www.torontosun.com/assets/css/print.css?1346903991654" media="print">
+	<link rel="stylesheet" type="text/css" href="http://www.torontosun.com/assets/css/style.css?1365691709840" media="all">
+	<link rel="stylesheet" type="text/css" href="http://www.torontosun.com/assets/css/print.css?1365691709840" media="print">
 	
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
     <script>window.jQuery || document.write('<script src="http://www.torontosun.com/assets/js/jquery/jquery-1.7.1.min.js">\x3C/script>')</script><script src="http://www.torontosun.com/assets/js/jquery/jquery-1.7.1.min.js"></script>
@@ -66,47 +66,195 @@
     <script src="http://www.torontosun.com/assets/js/jquery/jquery.cookie.min.js"></script>
     <script src="http://www.torontosun.com/assets/js/date.js"></script>
     <script src="http://www.torontosun.com/assets/js/iepp.min.js"></script>
-    <script src="http://www.torontosun.com/assets/js/script.js?1346903991654"></script>
+    <script src="http://www.torontosun.com/assets/js/script.js?1365691709840"></script>
+    <script src="http://www.torontosun.com/assets/js/dfp.js?1365691709840"></script>
     <script src="http://videolib.api.canoe.ca/js/standalone/canoe-video-standalone-2.0.prod.js"></script>
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-    
+    <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
     <script>
+    	
 		window.Sunrise = $.extend(window.Sunrise || {}, {
 			baseUrl: "http://www.torontosun.com"
 		});
 	</script>
     
 	
+		<script src="http://www.torontosun.com/assets/js/pw/pw.min.js?stamp=1365691709840"></script>
+		<script src="http://www.torontosun.com/assets/js/pw/swfobject-2.2.min.js"></script>
+		<script src="http://www.torontosun.com/assets/js/jquery/jquery.ba-postmessage-v0.5.js"></script>
+		<script src="http://www.torontosun.com/assets/js/jquery/jquery.base64.js"></script>
+		<script src="https://premium.sunmedia.ca/theme/resources/js/api/authentication-client-v1.0.js?stamp=1365691709840"></script>
+		<script src="https://premium.sunmedia.ca/theme/resources/js/api/member-client-v1.0.js?stamp=1365691709840"></script>
+		<script>
+			window.Sunrise.Paywall = $.extend(window.Sunrise.Paywall || {}, {
+				controlCacheMinutes: "30",
+				monthlyLimit: eval(20),
+				publication: "tos",
+				debug : eval(false)
+			});
+				
+		 	if(window.SunMediaAuthClient) {
+				window.SunMediaAuthClient.Config = $.extend(window.SunMediaAuthClient.Config || {}, {
+					debug : window.Sunrise.Paywall.debug,
+					protocol : "https",
+					domain : "premium.sunmedia.ca", 
+					publication : Sunrise.Paywall.publication,
+					locale : SunMediaAuthClient.Locale.en,
+					clientBaseUrl: "http://www.torontosun.com",//window.location
+			 		colorborContainerClass : ".authenticationContainer",
+					returnUrl : window.location.href
+				});
+			 	if(window.SunMediaCheckoutClient) {
+				 	window.SunMediaCheckoutClient.Config = $.extend(window.SunMediaCheckoutClient.Config || {}, {
+				 		debug: window.Sunrise.Paywall.debug,
+				 		protocol : "https",
+				 		domain : "premium.sunmedia.ca",
+				 		context : "member",
+				 		locale : SunMediaAuthClient.Locale.en,
+				 		publication : Sunrise.Paywall.publication,
+				 		clientBaseUrl : SunMediaAuthClient.Config.clientBaseUrl,
+				 		colorborContainerClass : ".authenticationContainer"
+				 	});
+			 	} 
+		 	}
+		 	function toggleUserAuthenticated(){
+	 			if(window.SunMediaAuthClient) {
+					if (!SunMediaAuthClient.isUserAuthenticated) {
+		 				$('#sunMediaLogout').hide();
+		 				$('#accountActivationInfo').hide();
+		 				$('#TopNavigation #sunMediaLogin').html('<a href="javascript:void(0);" onClick="_gaq.push([&#39_link&#39, &#39&#39])" class="login">SUN+ Login</a>');
+		 			}else{
+		 				$('#sunMediaLogout').show();
+		 				$('#sunMediaLogin').html('<div class="userName">Hello <span>' + SunMediaAuthClient.UserInfo.firstName + ' </span><span class="pointe"></span></div>');
+		 			
+		 				$('div#myAccountPanel:not(.dropdownNF)').die('click');
+		 				$('div#myAccountPanel:not(.dropdownNF)').live('click', function()
+		 				{
+		 			  		$('ul.AccountPanel').toggle();
+		 			 		
+		 			 		var getWidthName = $('#myAccountPanel').width();
+		 	 				var addPadding = 20;
+
+
+		 	 				$('ul.AccountPanel').width(getWidthName + 20);
+		 	 				$('ul.AccountPanel li').width(getWidthName + 10);
+
+
+		 			  		if($('ul.AccountPanel').is(':visible'))
+		 			  		{
+		 			    		$(this).addClass('active');
+		 			  		}
+		 			  		else
+		 			  		{
+		 			    		$(this).removeClass('active');
+		 			  		}
+		 				});
+
+
+		 				$('ul.AccountPanel').addClass('small_nav');
+		 				$('div#myAccountPanel').addClass('small_nav');
+		 			
+		 			
+		 				if(SunMediaAuthClient.UserInfo.status == "NA") {
+			 				$('#accountActivationInfo').show();
+		 				}
+		 			}
+	 			}
+			}	
+		 	$(function() {
+		 		if(window.SunMediaAuthClient && window.SunMediaCheckoutClient) {
+			 		//Authentification client initialization
+			 		SunMediaAuthClient.init();
+			 		
+			 		//Update of the login/logout block
+			 		toggleUserAuthenticated();
+			 		
+			 		//Event listeners
+			 		$("a.logout").click(function(){
+			 			SunMediaAuthClient.logout();
+			 		});
+			 		$('a.login').live('click', function(){
+			 			SunMediaAuthClient.showSignInForm(window.location.href);			
+			 		});
+			 		$('a.userProfile').live('click', function(){
+			 			SunMediaCheckoutClient.showPersonnalInfoPage();
+			 		});
+			 		$(".showProductsPage").click(function(e){
+			 			SunMediaCheckoutClient.showProductsPage();
+			 		});
+			 		$(".showProductsPagePaper").click(function(){
+			 			SunMediaCheckoutClient.showProductsPage('sectionPapier');
+			 		});
+			 		$(".showProductsPageAnchor").click(function(){
+			 			SunMediaCheckoutClient.showProductsPage('anchor');
+			 		});
+					$(document).bind(SunMediaAuthClient.Events.afterLoginCompleted, function() {
+						toggleUserAuthenticated();
+						//removing request params after account activation or reset password post login
+						if(window.location.href.indexOf("sunmediaAuthAction=EmailActivation") > -1 
+								|| window.location.href.indexOf("sunmediaAuthAction=ResetPassword") > -1) {
+							window.location.replace(window.location.href.substring(0, window.location.href.indexOf("?")));
+						}
+					});
+					$(document).bind(SunMediaAuthClient.Events.afterLogoutCompleted, function() {
+						//removing request params after logout
+						if(window.location.href.indexOf("sunmediaAuthAction=Logout") > -1) {
+							window.location.replace(window.location.href.substring(0, window.location.href.indexOf("?")));
+						}
+					});
+					$(document).bind(SunMediaAuthClient.Events.afterLogout, function() {
+						toggleUserAuthenticated();
+					});
+		 		}
+		 	});
+		 	
+		  </script>
+	
 	
     
 		
-		
+			
 			
 			
 				
 			
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  	
+  
+
+
+<script>
+	var networkCode  = "7548";
+	var dfpSiteKey = "SMCO_ENUR_TSUN_EN_WEB";
+	var  url = "/misc";
+    Sunrise.Dfp.pageDfpTags = new Sunrise.Dfp.DFPPageTags(dfpSiteKey,url,networkCode);
+    
+    Sunrise.Dfp.prefixTest = "";
+</script> 		
+		
+		
+			
+				
+            
+			
 			
 		
-		
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-	<script>
-		Sunrise.pageDfpTags = new Sunrise.DFPPageTags("can.en.smc.torontosun", "privacy", "", "news", false);
-	</script> 
-
+			
+		<meta name="title" content="Toronto Sun">
 	
 		
 		
@@ -125,37 +273,15 @@
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-22200044-1']); 
 		_gaq.push(['_setDomainName', '.torontosun.com']); 
+		_gaq.push(['_setAllowLinker', true]);
 		
 		_gaq.push(['_trackPageview']);
-		_gaq.push(['_trackPageLoadTime']);
-		
-		_gaq.push(['sunGlobal._setAccount', 'UA-22892640-1']); 
-		_gaq.push(['sunGlobal._setDomainName', 'none']);
-		_gaq.push(['sunGlobal._setAllowLinker', true]);
-		_gaq.push(['sunGlobal._setAllowHash', false]);
-		_gaq.push(['sunGlobal._setCookiePath', '/22892640/']);
-		_gaq.push(['sunGlobal._setSessionCookieTimeout',  1800000]);
-		_gaq.push(['sunGlobal._setCampaignCookieTimeout', 2592000000]);
-		_gaq.push(['sunGlobal._setVisitorCookieTimeout', 63072000000]);
-		_gaq.push(['sunGlobal._trackPageview']);
-		_gaq.push(['sunGlobal._trackPageLoadTime']);
-		
-		_gaq.push(['masterGlobal._setAccount', 'UA-21910987-1']);
-		_gaq.push(['masterGlobal._setDomainName', 'none']);
-		_gaq.push(['masterGlobal._setAllowLinker', true]);
-		_gaq.push(['masterGlobal._setAllowHash', false]);
-		_gaq.push(['masterGlobal._setCookiePath', '/21910987/']);
-		_gaq.push(['masterGlobal._setSessionCookieTimeout',  1800000]);
-		_gaq.push(['masterGlobal._setCampaignCookieTimeout', 2592000000]);
-		_gaq.push(['masterGlobal._setVisitorCookieTimeout', 63072000000]);
-		_gaq.push(['masterGlobal._trackPageview']);
-		_gaq.push(['masterGlobal._trackPageLoadTime']);
-		
-		 (function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		 })();
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
 
 		
 		//comscore begins
@@ -172,7 +298,7 @@
 		".scorecardresearch.com/beacon.js?" + __cs_params +"' %3E%3C/script%3E"));
 		//comscore ends
 		
-	</script><script src="https://sb.scorecardresearch.com/beacon.js?c1=2&amp;c2=3005667&amp;c3=3005667&amp;c4=https://web.archive.org/web/20121014065247id_/http%3A//www.torontosun.com/privacy&amp;c5=&amp;c6=&amp;c15="></script>
+	</script><script src="https://sb.scorecardresearch.com/beacon.js?c1=2&amp;c2=3005667&amp;c3=3005667&amp;c4=https://web.archive.org/web/20130513220541id_/http%3A//www.torontosun.com/privacy&amp;c5=&amp;c6=&amp;c15="></script>
 
    	<script src="http://www.torontosun.com/assets/js/ga_social_tracking.js"></script>
    	<script>
@@ -227,9 +353,19 @@
 
 
 
+
 	<div id="TopNavigation" class="clearfix">
 	
 		<!-- If Not connected display this message -->
+        
+       	
+			<div id="myAccountPanel" class="small_nav">
+				<div id="sunMediaLogin" class="left myAccount">
+			
+				</div>
+			</div>
+			
+			
 		
 		
 		
@@ -250,14 +386,14 @@
 				<script src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 				
 			<ul>
-	            <li><a href="http://torontosun.autonet.ca">Autos</a></li>
+	            <li><a href="http://torontosun.autonet.ca" onclick="gaTrackEvent('Services Click', 'Autos', window.location.pathname);">Autos</a></li>
 	            
 	            
-	            	<li><a href="http://homeandgarden.homes-extra.ca/">Home and Garden</a></li>
+	            	<li><a href="http://homeandgarden.homes-extra.ca/" onclick="gaTrackEvent('Services Click', 'Homes', window.location.pathname);">Homes</a></li>
 	            
-	            <li><a href="http://torontosun.classifiedextra.ca">Classifieds</a></li>
-	            <li><a href="http://torontosun.jobboom.com/mod-bin/prod/index.pl">Careers</a></li>
-	            <li><a href="http://yourlifemoments.ca/sitepages/setCityZone.asp?id=44">Obituaries</a></li>
+	            <li><a href="http://classifieds.torontosun.com" onclick="gaTrackEvent('Services Click', 'Classifieds', window.location.pathname);">Classifieds</a></li>
+	            <li><a href="http://torontosun.jobboom.com/mod-bin/prod/index.pl" onclick="gaTrackEvent('Services Click', 'Careers', window.location.pathname);">Careers</a></li>
+	            <li><a href="http://yourlifemoments.ca/sitepages/setCityZone.asp?id=44" onclick="gaTrackEvent('Services Click', 'Obituaries', window.location.pathname);">Obituaries</a></li>
 	            
 	        </ul>        
 			
@@ -281,7 +417,10 @@
 
 
 
+
+
  
+
 
 
 
@@ -300,14 +439,20 @@
 		
 			
 		
-		<time datetime="2012-10-14T06:12:46Z">
-			Sunday
+		<time datetime="2013-05-13T21:46:18Z">
+			Monday
 			<br>
-			October 14
+			May 13
 			<br>
-			2012
+			2013
 		</time>
     </a>
+       		
+				<ul class="AccountPanel small_nav">
+					<li><a href="javascript:void(0);" class="userProfile">My SUN+ account</a></li>
+					<li><a href="javascript:void(0);" class="logout">Logout</a></li>
+				</ul>
+			
 		</div>
 	
 
@@ -333,29 +478,27 @@
 
 
 
-
-
-
-
-
-
-	
-	
-	
-		
-		
-	
-
 	<script>
-		if(Sunrise.pageDfpTags) {
-			Sunrise.writePubAdd(Sunrise.pageDfpTags.addDfpTag('leaderboard', '728x90', true));
+		if(Sunrise.Dfp.pageDfpTags) {
+			var dfpTagSetCall=Sunrise.Dfp.pageDfpTags.addDfpAdUnit('leaderboard');
+            googletag.cmd.push(function() {
+                googletag.defineSlot(Sunrise.Dfp.pageDfpTags.getUnitName(), [728,90],dfpTagSetCall.divId).addService(googletag.pubads());
+                // On définit la propriété d'affichage pos uniquement pour le premier bloc publicitaire de type combination
+                if(dfpTagSetCall.divId=='combination-1') {
+                    googletag.pubads().setTargeting("pos", "top");                	
+                }
+                googletag.pubads().enableSyncRendering();
+                googletag.enableServices();
+            });
+
+			document.write('<div id="'+dfpTagSetCall.divId+'"><scr'+'ipt type="text/javascript">googletag.cmd.push(function() { googletag.display("'+dfpTagSetCall.divId+'"); })<\/scr'+'ipt></div>');
 		}
 	</script>
-
 	
 </div>
 
 	</div>
+
 
 
 
@@ -460,7 +603,13 @@
 											<dd>
 												
 												
-												<a href="http://scores.torontosun.com/merge/tsnform.aspx?c=sun-toronto&amp;page=nfl/stand/allstandingssn.aspx">Scoreboard</a>
+												<a href="http://pool.torontosun.com">Playoff Pool</a>
+											</dd>
+										
+											<dd>
+												
+												
+												<a href="http://scores.torontosun.com/">Scoreboard</a>
 											</dd>
 										
 											<dd>
@@ -473,6 +622,18 @@
 												
 												
 												<a href="http://www.torontosun.com/sports/bluejays">Blue Jays</a>
+											</dd>
+										
+											<dd>
+												
+												
+												<a href="http://www.torontosun.com/sports/raptors">Raptors</a>
+											</dd>
+										
+											<dd>
+												
+												
+												<a href="http://www.torontosun.com/sports/rock">Toronto Rock</a>
 											</dd>
 										
 											<dd>
@@ -491,6 +652,12 @@
 												
 												
 												<a href="http://www.torontosun.com/sports/hockey">Hockey</a>
+											</dd>
+										
+											<dd>
+												
+												
+												<a href="/sports/golf">Golf</a>
 											</dd>
 										
 											<dd>
@@ -515,12 +682,6 @@
 												
 												
 												<a href="http://www.torontosun.com/sports/soccer">Soccer</a>
-											</dd>
-										
-											<dd>
-												
-												
-												<a href="http://www.torontosun.com/sports/golf">Golf</a>
 											</dd>
 										
 											<dd>
@@ -672,7 +833,7 @@
 											<dd>
 												
 												
-												<a href="http://www.torontosun.com/life/green-planet">Green Planet</a>
+												<a href="http://www.torontosun.com/life/sun_in_the_community">Sun in the Community</a>
 											</dd>
 										
 											<dd>
@@ -784,6 +945,12 @@
 												
 												
 												<a href="http://www.torontosun.com/travel/ontario">Ontario</a>
+											</dd>
+										
+											<dd>
+												
+												
+												<a href="http://www.torontosun.com/niagaraspotlight">Your Niagara</a>
 											</dd>
 										
 											<dd>
@@ -979,6 +1146,12 @@
 											<dd>
 												
 												
+												<a href="http://www.torontosun.com/sunshine-girl/calendar/2013">Calendar 2013</a>
+											</dd>
+										
+											<dd>
+												
+												
 												<a href="http://www.torontosun.com/sunshine-girl/swimsuit/2012">Sunshine Girl Swimsuit Issue 2012</a>
 											</dd>
 										
@@ -1012,13 +1185,25 @@
 								<li>
 									
 									
+									<a href="http://www.torontosun.com/sports/golf"><span>Golf</span></a>
+								</li>
+							
+								<li>
+									
+									
+									<a href="/sports/golf/golf-course-directory"><span>Golf Directory</span></a>
+								</li>
+							
+								<li>
+									
+									
 									<a href="http://www.torontosun.com/weather"><span>Weather</span></a>
 								</li>
 							
 								<li>
 									
 									
-									<a href="http://torontosun.profootball.upickem.net/profootball/registration/login.asp"><span>Football Challenge</span></a>
+									<a href="http://www.torontosun.com/sun-news-network"><span>Watch Sun News</span></a>
 								</li>
 							
 								<li>
@@ -1066,13 +1251,19 @@
 								<li>
 									
 									
-									<a href="http://www.torontosun.com/entertainment/tiff"><span>TIFF</span></a>
+									<a href="http://www.torontosun.com/torontofashionweek"><span>Fashion Week</span></a>
 								</li>
 							
 								<li>
 									
 									
-									<a href="http://www.torontosun.com/torontofashionweek"><span>Fashion Week</span></a>
+									<a href="http://torontosun.com/subscribe/manage"><span>Manage my account</span></a>
+								</li>
+							
+								<li>
+									
+									
+									<a href="http://eedition.torontosun.com"><span>Read E-edition</span></a>
 								</li>
 							
 						</ul>
@@ -1082,7 +1273,7 @@
 	    </ul>
 	</nav>
 
-<!-- MAIN NAV: 0.297 seconds -->
+<!-- MAIN NAV: 0.417 seconds -->
 
 
 				
@@ -1109,6 +1300,11 @@
 					
 					
 					
+			    		<div id="accountActivationInfo" style="display:none;" class="warnBox">
+			    			<p>Your email associated with your SUN+ account has not been validated. If you have received your validation email, please click the link provided to validate now. To receive a new validation email go to your SUN+ account and follow the instructions.</p>
+			    		</div>
+			    		<div id="logoutMessage" class="victoryBox" style="display:none;"><p></p></div>
+		    		
 					
 					
 					
@@ -1177,23 +1373,30 @@
 
 
 	
-		
-	
-	
-
-
-
-	
-
-
-
-
-
-
-
 	
 		
-						<div class="primary">	
+	
+
+
+
+	
+
+
+
+
+
+
+
+	
+			<script type="text/javascript">
+				_gaq.push(['_trackEvent', 'See an article', 'Free', gaFindStoryPath(window.location.pathname)]);    
+				$(function() {
+					$(document).trigger(Sunrise.Paywall.Events.contentToggled);
+				});
+			</script>
+		
+						<div class="primary">
+							
 												<div class="primary">
                     <div role="main" class="col650 clearfix">
 <h2>Privacy Policy</h2>
@@ -1290,25 +1493,22 @@
 
 
 
-
-
-
-
-
-
-	
-	
-	
-		
-		
-	
-
 	<script>
-		if(Sunrise.pageDfpTags) {
-			Sunrise.writePubAdd(Sunrise.pageDfpTags.addDfpTag('bigbox', '300x250', false));
+		if(Sunrise.Dfp.pageDfpTags) {
+			var dfpTagSetCall=Sunrise.Dfp.pageDfpTags.addDfpAdUnit('bigbox');
+            googletag.cmd.push(function() {
+                googletag.defineSlot(Sunrise.Dfp.pageDfpTags.getUnitName(), [300,250],dfpTagSetCall.divId).addService(googletag.pubads());
+                // On définit la propriété d'affichage pos uniquement pour le premier bloc publicitaire de type combination
+                if(dfpTagSetCall.divId=='combination-1') {
+                    googletag.pubads().setTargeting("pos", "top");                	
+                }
+                googletag.pubads().enableSyncRendering();
+                googletag.enableServices();
+            });
+
+			document.write('<div id="'+dfpTagSetCall.divId+'"><scr'+'ipt type="text/javascript">googletag.cmd.push(function() { googletag.display("'+dfpTagSetCall.divId+'"); })<\/scr'+'ipt></div>');
 		}
 	</script>
-
 		</div>
 	</aside>
 
@@ -1345,25 +1545,22 @@
 
 
 
-
-
-
-
-
-
-	
-	
-	
-		
-		
-	
-
 	<script>
-		if(Sunrise.pageDfpTags) {
-			Sunrise.writePubAdd(Sunrise.pageDfpTags.addDfpTag('bigbox', '300x250', false));
+		if(Sunrise.Dfp.pageDfpTags) {
+			var dfpTagSetCall=Sunrise.Dfp.pageDfpTags.addDfpAdUnit('bigbox');
+            googletag.cmd.push(function() {
+                googletag.defineSlot(Sunrise.Dfp.pageDfpTags.getUnitName(), [300,250],dfpTagSetCall.divId).addService(googletag.pubads());
+                // On définit la propriété d'affichage pos uniquement pour le premier bloc publicitaire de type combination
+                if(dfpTagSetCall.divId=='combination-1') {
+                    googletag.pubads().setTargeting("pos", "top");                	
+                }
+                googletag.pubads().enableSyncRendering();
+                googletag.enableServices();
+            });
+
+			document.write('<div id="'+dfpTagSetCall.divId+'"><scr'+'ipt type="text/javascript">googletag.cmd.push(function() { googletag.display("'+dfpTagSetCall.divId+'"); })<\/scr'+'ipt></div>');
 		}
 	</script>
-
 		</div>
 	</aside>
 
@@ -1375,7 +1572,7 @@
 				
 				
 				<script type="text/javascript">
-					fctDcopt();
+				    Sunrise.Dfp.fctDcopt();
 				</script>
 				
 				
@@ -1384,6 +1581,7 @@
 				
 					
 				
+
 
 
 
@@ -1405,8 +1603,6 @@
 	        	<li><a href="http://www.torontosun.com/home">Home</a></li>
 	            <li class="mobile"><a rel="alternate" href="http://www.torontosun.com/mobile">Mobile version</a></li>
 	        </ul>
-    		
-	        
 			
 		</div>
 	    <div class="primary clearfix">
@@ -1476,7 +1672,12 @@
 					            					
 						            				
 						            				
-					            					<dd><a href="http://scores.torontosun.com/merge/tsnform.aspx?c=sun-toronto&amp;page=nfl/stand/allstandingssn.aspx">Scoreboard</a></dd>
+					            					<dd><a href="http://pool.torontosun.com">Playoff Pool</a></dd>
+			            						
+					            					
+						            				
+						            				
+					            					<dd><a href="http://scores.torontosun.com/">Scoreboard</a></dd>
 			            						
 					            					
 						            				
@@ -1487,6 +1688,16 @@
 						            				
 						            				
 					            					<dd><a href="http://www.torontosun.com/sports/bluejays">Blue Jays</a></dd>
+			            						
+					            					
+						            				
+						            				
+					            					<dd><a href="http://www.torontosun.com/sports/raptors">Raptors</a></dd>
+			            						
+					            					
+						            				
+						            				
+					            					<dd><a href="http://www.torontosun.com/sports/rock">Toronto Rock</a></dd>
 			            						
 					            					
 						            				
@@ -1502,6 +1713,11 @@
 						            				
 						            				
 					            					<dd><a href="http://www.torontosun.com/sports/hockey">Hockey</a></dd>
+			            						
+					            					
+						            				
+						            				
+					            					<dd><a href="/sports/golf">Golf</a></dd>
 			            						
 					            					
 						            				
@@ -1522,11 +1738,6 @@
 						            				
 						            				
 					            					<dd><a href="http://www.torontosun.com/sports/soccer">Soccer</a></dd>
-			            						
-					            					
-						            				
-						            				
-					            					<dd><a href="http://www.torontosun.com/sports/golf">Golf</a></dd>
 			            						
 					            					
 						            				
@@ -1649,7 +1860,7 @@
 					            					
 						            				
 						            				
-					            					<dd><a href="http://www.torontosun.com/life/green-planet">Green Planet</a></dd>
+					            					<dd><a href="http://www.torontosun.com/life/sun_in_the_community">Sun in the Community</a></dd>
 			            						
 					            					
 						            				
@@ -1741,6 +1952,11 @@
 						            				
 						            				
 					            					<dd><a href="http://www.torontosun.com/travel/ontario">Ontario</a></dd>
+			            						
+					            					
+						            				
+						            				
+					            					<dd><a href="http://www.torontosun.com/niagaraspotlight">Your Niagara</a></dd>
 			            						
 					            					
 						            				
@@ -1901,12 +2117,22 @@
 					
 					
 					
+					<li class="More"><a href="http://www.torontosun.com/sports/golf">Golf</a></li>
+				
+					
+					
+					
+					<li class="More"><a href="/sports/golf/golf-course-directory">Golf Directory</a></li>
+				
+					
+					
+					
 					<li class="More"><a href="http://www.torontosun.com/weather">Weather</a></li>
 				
 					
 					
 					
-					<li class="More"><a href="http://torontosun.profootball.upickem.net/profootball/registration/login.asp">Football Challenge</a></li>
+					<li class="More"><a href="http://www.torontosun.com/sun-news-network">Watch Sun News</a></li>
 				
 					
 					
@@ -1946,12 +2172,17 @@
 					
 					
 					
-					<li class="More"><a href="http://www.torontosun.com/entertainment/tiff">TIFF</a></li>
+					<li class="More"><a href="http://www.torontosun.com/torontofashionweek">Fashion Week</a></li>
 				
 					
 					
 					
-					<li class="More"><a href="http://www.torontosun.com/torontofashionweek">Fashion Week</a></li>
+					<li class="More"><a href="http://torontosun.com/subscribe/manage">Manage my account</a></li>
+				
+					
+					
+					
+					<li class="More"><a href="http://eedition.torontosun.com">Read E-edition</a></li>
 				
 			</ul>
 			
@@ -2007,7 +2238,7 @@
 											
 											
 											<dd>
-												<a rel="bookmark" href="http://www.torontosun.com/sunshine-girl/2012/10/13/rachel">
+												<a rel="bookmark" href="http://www.torontosun.com/sunshine-girl/2013/05/13/ashley">
 													
 
 
@@ -2085,7 +2316,7 @@
 
 
 
-<img src="http://storage.canoe.ca/v1/dynamic_resize/sws_path/suns-prod-images/1297324898208_SG_LARGE_PROFILE.jpg?quality=80&amp;stmp=1350169206726&amp;size=100x" alt="Rachel Landing" title="" class="photo">
+<img src="http://storage.canoe.ca/v1/dynamic_resize/sws_path/suns-prod-images/1297415782045_SG_LARGE_PROFILE.jpg?quality=80&amp;stmp=1368467607743&amp;size=100x" alt="Ashley Landing" title="" class="photo">
 
 	
 
@@ -2116,8 +2347,10 @@
 	            <li>
 	                <dl>
 	                	<dt>Subscribe</dt>
-	                    <dd><a rel="alternate" href="http://www.torontosun.com/subscribe">Print</a></dd>
-	                    <dd><a rel="alternate" target="_blank" href="http://eedition.torontosun.com/epaper/viewer.aspx">e-edition</a></dd>
+	                	<dd><a rel="alternate" href="http://www.torontosun.com/subscribe?url=premium">Sun+</a></dd>
+	                    <dd><a rel="alternate" href="http://www.torontosun.com/subscribe?url=premium">Print</a></dd>
+	                    <dd><a rel="alternate" href="http://www.torontosun.com/mobile">mobile</a></dd>
+	                    <dd><a rel="alternate" href="http://www.torontosun.com/subscribe/manage">Manage my account</a></dd>
 	                </dl>
 	                <dl>
 	                	<dt>Buy SUN items</dt>
@@ -2140,11 +2373,11 @@
 	            <li>
 	                <dl>
 	                	<dt>Online</dt>
-	                    <dd><a href="http://torontosun.autonet.ca">Autos</a></dd>
-	                    <dd><a href="">Homes</a></dd>
-	                    <dd><a href="http://torontosun.classifiedextra.ca">Classifieds</a></dd>
-	                    <dd><a href="http://torontosun.jobboom.com/mod-bin/prod/index.pl">Careers</a></dd>
-	                    <dd><a href="http://yourlifemoments.ca/sitepages/setCityZone.asp?id=44/">Obituaries</a></dd>
+	                    <dd><a href="http://torontosun.autonet.ca" onclick="gaTrackEvent('Services Click', 'Autos', window.location.pathname);">Autos</a></dd>
+	                    <dd><a href="" onclick="gaTrackEvent('Services Click', 'Homes', window.location.pathname);">Homes</a></dd>
+	                    <dd><a href="http://classifieds.torontosun.com" onclick="gaTrackEvent('Services Click', 'Classifieds', window.location.pathname);">Classifieds</a></dd>
+	                    <dd><a href="http://torontosun.jobboom.com/mod-bin/prod/index.pl" onclick="gaTrackEvent('Services Click', 'Careers', window.location.pathname);">Careers</a></dd>
+	                    <dd><a href="http://yourlifemoments.ca/sitepages/setCityZone.asp?id=44/" onclick="gaTrackEvent('Services Click', 'Obituaries', window.location.pathname);">Obituaries</a></dd>
 	                </dl>
 	            </li>
 	            <li>
@@ -2186,11 +2419,11 @@
 	            <li><a href="http://www.torontosun.com/netiquette">Netiquette</a></li>
 	            <li>Powered by Fatwire</li>
 	        </ul>
-	        <p class="left"><span>Copyright © 2012 All rights reserved &nbsp;&nbsp;&nbsp; The Toronto Sun is a member of <a href="http://www.canoe.ca">Canoe Sun Media</a> Urban Newspapers.</span></p>
+	        <p class="left"><span>Copyright © 2013 All rights reserved &nbsp;&nbsp;&nbsp; The Toronto Sun is a member of <a href="http://www.canoe.ca">Canoe Sun Media</a> Urban Newspapers.</span></p>
 	    </div>  
 	</footer>
 
-<!-- FOOTER: 0.588 seconds -->
+<!-- FOOTER: 0.443 seconds -->
 
 
 			</div>
@@ -2225,7 +2458,58 @@
 <!-- Suns divs -->
 
 
+
+	<script>
+		window.Sunrise.Paywall = $.extend(window.Sunrise.Paywall || {}, {
+			updateMeteredAccessInfo : function(nbArticlesRead) {
+				var htmlStr = 'You have read '+(nbArticlesRead)+' of '+Sunrise.Paywall.monthlyLimit+' complimentary SUN+ Articles. ';
+				$('#meteredAccessTitle').html(htmlStr);
+				var toDisplay = [1,5,10,15,20];
+				if($.inArray(nbArticlesRead, toDisplay) > -1) {
+					$('#remaining').show();				
+				}
+			}
+		});
+	</script>
 	
+
+	<div id="remaining" style="display:none;">
+		<div class="logo">
+			<h2 id="meteredAccessTitle"></h2>
+			<div class="toBeRemoved"><p><a href="javascript:void(0);" class="showProductsPage">Subscribe</a> to a SUN+ package now or <a class="getDetails" href="javascript:void(0);">get more details here</a>.</p></div>
+			<div class="remainningShow" style="display:none;">
+				<h3><a class="getDetails" href="http://www.torontosun.com/subscribe?url=premium">Subscribe now</a>! Toronto Sun SUN+ account includes:</h3>
+				<ul class="greenCheckList clearfix">
+					<li>In-depth Local News</li>
+					<li>Insider Sports Live</li>
+					<li>Edgy Columnists</li>
+					<li>Closed Door Coverage</li>
+					<li>Sunshine Girls</li>
+					<li>Everything Under the SUN...</li>
+				</ul>
+				
+				<div class="clearfix" style="width:100%;">
+					<a class="button left" href="http://www.torontosun.com/subscribe?url=premium">View our Subscription Offers</a>
+				</div>
+				
+			</div>
+		</div>
+		<a class="closeButton" href="javascript:void(0);"></a>
+	</div>
+
+
+
+	
+	<!--  prise en compte du OOP -->
+	<div id="div-gpt-ad-1353017042839-0-oop">
+		<script type="text/javascript">
+          googletag.cmd.push(function() {
+              googletag.defineOutOfPageSlot(Sunrise.Dfp.pageDfpTags.getUnitName(), "div-gpt-ad-1353017042839-0-oop").addService(googletag.pubads());
+              googletag.pubads().enableSyncRendering();
+              googletag.display('div-gpt-ad-1353017042839-0-oop'); 
+          });
+		</script>
+	</div>	
 	<!--  CHARTBEAT Second Script -->
 	
 		<script type="text/javascript">
@@ -2252,6 +2536,7 @@
 			    })();
 		</script>
 	
+
 
 
 
