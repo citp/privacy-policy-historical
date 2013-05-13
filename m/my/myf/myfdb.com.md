@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myfdb.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122140328id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfdb.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514010212id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyFDB
 
-If you have questions or concerns regarding this statement, you should first contact MyFDB via electronic mail at help@MyFDB.com or by mail directed to: 
+If you have questions or concerns regarding this statement, you should first contact MyFDB via electronic mail at [info@myfdb.com](mailto:info@myfdb.com) or by mail directed to: 
 
 My Fashion Database, LLC  
 Attn: Privacy Policy Questions 17530 Ventura Boulevard, Suite 201  
@@ -30,9 +30,9 @@ During the transaction process, we will endeavor to permit you to review, change
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  * By logging into your account at www.myfdb.com.
-  * You can send email to help@myfdb.com
-  * You can send mail to the following postal address:  Customer Service My Fashion Database, LLC  
+  * By logging into your account at [www.myfdb.com](https://web.archive.org/).
+  * You can send email to [info@myfdb.com](mailto:info@myfdb.com)
+  * You can send mail to the following postal address:  My Fashion Database, LLC  
 Attn: Customer Information Update  
 17530 Ventura Boulevard, Suite 201  
 Encino, California 91316  
@@ -40,7 +40,7 @@ Encino, California 91316
 
 
 
-We welcome your questions and comments. Please send e-mails to help@MyFDB.com 
+We welcome your questions and comments. Please send e-mails to [info@myfdb.com](mailto:info@myfdb.com). 
 
 ## Privacy Changes
 
@@ -57,7 +57,7 @@ If you have any questions about the terms, provisions and conditions set forth h
 My Fashion Database, LLC  
 17530 Ventura Boulevard, Suite 201  
 Encino, California 91316  
-help@MyFDB.com  
+info@MyFDB.com  
 
 
-Last modified: May 8, 2009 
+Last modified: May 8, 2009
