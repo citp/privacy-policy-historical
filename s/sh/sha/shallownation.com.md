@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234314id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513234457id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shallow Nation
 
@@ -8,7 +8,7 @@ This is the web site of Shallow Nation.
 
 We can be reached via e-mail at info [at] shallownation [dot] com
 
- **Summary**
+**Summary**
 
 This site collects no more data about you than most other websites.
 
@@ -20,7 +20,7 @@ Public data and publishing**
 
 Browsing this site doesn’t reveal your identity publicly, though see Private Logging later in this document for more information.
 
- **Author identification**
+**Author identification**
 
 When posting a comment, a name and email address are required. You do not have to select your real name. Your email address will not published.
 
@@ -36,7 +36,7 @@ WordPress, which this site runs, uses cookies if you comment on the blog. This i
 
 You may wish to clear these cookies and the browser cache if you wish to refrain from revealing any identifying information, especially if you are using a public or shared computer.
 
- **Private logging**
+**Private logging**
 
 Any time you visit a page on the internet, you send quite a bit of information to the server. The webservers that host this site maintain access logs with the information that you send. This information is used to provide site statistics and to get an idea of popular pages and what sites link here. We do not intend to use these logs to identify legitimate users.
 
@@ -44,7 +44,7 @@ The data logged may be used by us to solve technical problems with the site and,
 
 Again, if you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
 
- **Data release policy**
+**Data release policy**
 
 Our policy is to only release the data we collect in the following circumstances:
 
@@ -55,7 +55,7 @@ Our policy is to only release the data we collect in the following circumstances
 * If necessary to defend legal claims against us by third parties.  
 * When we deem it necessary to protect the property or rights of the user community, or this website.
 
- **No selling of information**
+**No selling of information**
 
 We will not sell information collected via this site, such as your email address, to third parties.  
 **  
@@ -82,7 +82,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
- **Links**  
+**Links**  
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above email addresses or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
