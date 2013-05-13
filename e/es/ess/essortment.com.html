@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the essortment.com privacy policy that was archived on 2012-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219063415id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the essortment.com privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513103845id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
 
+
+
 	<meta name="date" content="1986-05-16 00:00:00">
 	<meta charset="utf-8">
-	<meta name="msvalidate.01" content="5F1B06EBE88583F1C05B9114514366ED">
+	<meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3">
 	<meta property="og:site_name" content="Essortment">
 	<meta property="fb:app_id" content="141718515877590">
 	<meta property="fb:admins" content="">
@@ -22,7 +24,7 @@
 	<script type="text/javascript" src="http://www.essortment.com/adsense.js"></script>
 	<!-- End Custom JS to render Google AdSense ads -->
 	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <!--	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script> -->
 	<script type="text/javascript" src="http://www.essortment.com/jquery.scrollto.min.js"></script>
 
@@ -49,6 +51,29 @@
 		else
 		return results[1];
 	}
+
+		function doAutoSearch()
+		{
+			if ('referrer' in document && 'host' in location && (getParameterByName('afsforce', document.location.search) == 1 || document.referrer.length > 0) && document.referrer.substring(0, location.host.length + 7) != 'http://' + location.host)
+			{
+				var utm_medium = decodeURIComponent(getParameterByName('utm_medium', document.location.search)).replace(/\+/g, " ");
+				var utm_source = decodeURIComponent(getParameterByName('utm_source', document.location.search)).replace(/\+/g, " ");
+				var keywords = decodeURIComponent(getParameterByName('q', document.location.search)).replace(/\+/g, " ");
+				if (keywords.length > 0 && utm_medium.length > 0)
+				{
+					if (utm_source.length > 0)
+					{
+						$('#cse-search-box').append('<input type="hidden" name="utm_source" value="' + utm_source + '" />');
+					}
+					if (utm_medium.length > 0)
+					{
+						$('#cse-search-box').append('<input type="hidden" name="channel" value="' + utm_medium + '" />');
+					}
+					$('#cse-search-box input[name="q"]').val(keywords);
+					$('#cse-search-box').submit();
+				}
+			}
+		}
 	</script>
 
 	<script src="//cdn.optimizely.com/js/7970001.js"></script>
@@ -76,6 +101,7 @@
 </head>
 <body>
 
+
 	<div id="master">
 	<div id="header" class="flc">
 		
@@ -88,15 +114,19 @@
 	<!-- BEGIN Google Search Code -->
 			<form action="/search.htm" id="cse-search-box">
 				<div>
-					<input type="hidden" name="cx" value="partner-pub-6167988213978292:2fh5d1-ontm">
 					<input type="hidden" name="cof" value="FORID:10">
-					<input type="hidden" name="ie" value="ISO-8859-1">
 					<input type="text" name="q" size="31">
 					<input type="submit" name="sa" value="Search">
+
+                    <input type="hidden" name="cx" value="partner-pub-6167988213978292:6447045120">
+                    <input type="hidden" name="ie" value="UTF-8">
+
+					<!-- <input type="hidden" name="cx" value="partner-pub-6167988213978292:2fh5d1-ontm" /> -->
+					<!-- <input type="hidden" name="ie" value="ISO-8859-1" /> -->
 				</div>
 			</form>
-			<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-			<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css">
+			<script type="text/javascript">doAutoSearch();</script>
+			<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 	<!-- END Google Search Code -->
 		</div>
 	</div><!-- /#header -->
@@ -238,6 +268,9 @@
 							provide an opt-out mechanism, please click here: </span><a href="http://www.networkadvertising.org/consumer/opt_out.asp"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext">http://www.networkadvertising.org/consumer/opt_out.asp</span></b></a><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="color:#595753">. The information collected by third party cookies is
 							subject to the privacy policy of the third party, not Demand Media's privacy
 							policy.</span></span></p>
+
+<div style="margin-left:20px;padding:15px 0 0px 0;"><a id="_bapw-link-private" style="border:1px solid #ccc;padding:7px;-moz-border-radius:5px;-webkit-border-radius:5px;-o-border-radius:5px;border-radius:5px;">Click here to adjust your advertising preferences</a></div>
+<script>(function(){var e=document,b,a=(e.location.protocol=="https:"?"https":"http"),c=(a=="https"?"https://info.evidon.com/c/betrad/pub/":"http://cdn.betrad.com/pub/");e.getElementById("_bapw-link-private").onclick=function(){var f=this;function d(i,l){var j=e.getElementsByTagName("head")[0]||e.documentElement,h=false,g=e.createElement("script");function k(){g.onload=g.onreadystatechange=null;j.removeChild(g);l()}g.src=i;g.onreadystatechange=function(){if(!h&&(this.readyState=="loaded"||this.readyState=="complete")){h=true;k()}};g.onload=k;j.insertBefore(g,j.firstChild)}this.onclick="return false";d(a+"://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",function(){d(c+"pub1.js",function(){BAPW.i(f,{pid:46,ocid:374},false)})});return false};b=new Image();b.src=a+"://l.betrad.com/pub/p.gif?pid=46&ocid=374&ii=1&r="+Math.random()}());</script>
 
 							<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;background:
 							white"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
@@ -614,7 +647,7 @@
 
 			document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
 
-			//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=94844&amp;u=essortment.com&amp;f=1&amp;id=1736556887.2299256"></script>
+			//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=94844&amp;u=essortment.com&amp;f=1&amp;id=1736557394.5748322"></script>
 
 			<!-- Casale Media 2008 (C) -->
 			<script src="http://vs.dmtracker.com/tags/vsboone.js"></script>    
@@ -625,6 +658,13 @@
 		<script type="text/javascript">
 			request_google_ads();
 		</script>
+		
+        <script type="text/javascript">
+        var infolinks_pid = 1496668;
+        var infolinks_wsid = 1;
+        </script>
+        <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
 		<script type="text/javascript" src="http://www.essortment.com/common.js"></script>
 		<script type="text/javascript">
 			(function(){var e=document,b,a=(e.location.protocol=="https:"?"https":"http"),c=(a=="https"?"https://info.evidon.com/c/betrad/pub/":"http://cdn.betrad.com/pub/");e.getElementById("_bapw-icon").src=c+"icon1.png";
