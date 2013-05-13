@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107133434id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513150354id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
