@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the yourpfpro.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113020657id_/http%3A//yourpfpro.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourpfpro.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514002911id_/http%3A//yourpfpro.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
 
 # Your Personal Finance Pro - Personal Financial Advice for Young Professionals
 
 [Home](http://yourpfpro.com/) » Disclosures and Privacy Policy
+
+## Disclosures and Privacy Policy
 
 **Disclosures**  
 “Please note that www.yourPFpro.com has financial relationships with some of the merchants mentioned here.  www.yourPFpro.com may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.”
@@ -32,3 +34,5 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 **Contact Information**
 
 Concerns or questions can be directed to [yourPFpro at gmail dot com](mailto:youremail@youremail.com) for further clarification.
+
+This blog is for informational purposes only. Any advice given does not constitute a relationship and is by no means fact. The information and advice given on this site is only an opinion and should be confirmed with a finance or tax professional. 
