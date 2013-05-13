@@ -1,0 +1,55 @@
+> *The following text is extracted and transformed from the cpaflash.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513032335id_/http%3A//cpaflash.com/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy | CPA Flash
+
+## Privacy
+
+**Company Practices  
+** The following statement describes the overall company practices of Revenue Vision LLC., including advertising on our network of websites, as well as across other internal sites, and products and services that are offered by Revenue Vision LLC. This policy does not apply to the practices of companies that Revenue Vision LLC does not own or control, or to people that Revenue Vision LLC does not employ. 
+
+**Information Collected by Revenue Vision LLC**
+
+**Non-Personally Identifiable Consumer Data  
+** Revenue Vision LLC delivers advertisements across multiple channels and media, including to web surfers who visit any of the thousands of websites that are a part of Revenue Vision LLC 's network. With respect to individuals who visit those sites, we, and/or one or more of our third party advertising technology vendors, may collect what is known as "Click Stream Data." Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time, domain type, and responses by a web surfer to an advertisement delivered by us or a third party advertising technology vendor. We, and/or a third party advertising technology vendor, may use different types of technologies to collect this type of information, including cookies and web beacons (1x1 pixels). (Please refer to the FAQ section for more details). In addition to the Click Stream Data collected across our web network, Revenue Vision LLC owns numerous websites and services, and often runs promotions and sweepstakes offers through various Internet channels (collectively referred to as "Revenuevision.llc Properties"), and collects information at those sites. As a part of the registration process at the Revenue Vision LLC Properties, we may request and collect additional non-personally identifiable information about the visitor. Examples of the non-personally identifiable data that may be requested include age, gender, and interests. None of the foregoing information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual. Web surfers may elect not to provide Click Stream Data by following the Cookie Opt-Out procedures set forth below. In addition, web surfers who have provided registration data to Revenuevision.llc may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by following the Data Opt-Out procedures set forth below. Personally identifiable information that is collected at the Revenue Vision LLC Properties is discussed immediately below. 
+
+**Personally Identifiable Consumer Data  
+** At some of the Revenue Vision LLC Properties, we ask people to register and provide personally identifiable data. Revenue Vision LLC is committed to making sure that clear notice and choice is provided to all consumers before the personally identifiable data is collected, and that they have opted-in to our use of their data. Examples of personally identifiable data that may be requested include name, address, and email address. Web surfers who have provided personally identifiable data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by following the Data Opt-Out procedures set forth below.   
+
+
+**Other Information that is Collected  
+** At some Revenuevision.llc Properties, including this one, Revenue Vision LLC collects personal information on individuals and companies who want to enter into business relationships with Revenuevision.llc ("business information"). An example of this would include web publishers who want to become a part of Revenue Vision LLC 's web network. We maintain business information for purposes of administering the program, such as maintaining account information, sending payments, etc. We may share business information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.   
+
+
+**How Collected Information is Used  
+** The non-personally identifiable data that Revenue Vision LLC and/or its third party advertising technology vendors collect are used for marketing and sales efforts to better target advertisements to people across the different websites they visit. Revenue Vision LLC may also use the non-personally identifiable data to better target content to individuals in an effort to create a personally relevant experience for each person. The data are also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. If a consumer elects to provide Revenue Vision LLC with personally identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to assist with targeting ads to that consumer's preferences and behaviors, and for other Revenuevision.llc sales and marketing efforts.   
+
+
+**Sharing With Third Parties  
+** All personally identifiable data provided by individuals is maintained in confidence by Revenue Vision LLC. There are instances, however, in which personally identifiable and non-personally identifiable information is shared with third parties, as described below. The non-personally identifiable data may be shared with third-party partners of Revenue Vision LLC on an anonymous basis. 
+
+With respect to personally identifiable information, Revenue Vision LLC may, from time to time, provide information to certain third-party administrative vendors for efficiency purposes in providing administrative services such as billing, delivery and pay-outs, or for other services related to providing an Revenuevision.llc product or service. Any third-party vendor so used will be required to enter into a confidentiality agreement with Revenue Vision LLC. 
+
+Revenue Vision LLC may also share personally identifiable information with third parties who enter into business relationships with us. These business partners may include financial service providers (including credit bureaus and insurance agents); non-financial companies (including retailers, online and offline advertisers, membership list vendors, direct marketers and publishers); companies that perform marketing services on our behalf, and others such as non-profit organizations. We may also disclose information to a third party who provides substantially similar services as the original service signed up for, if we decide to stop providing such services ourselves. In such situations, we will provide our subscribers with an opportunity to opt-out of such sharing. Please be aware that Revenue Vision LLC is very careful about which companies it does business with. 
+
+In addition to the above, there is also the possibility that Revenue Vision LLC, or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information. Finally, Revenue Vision LLC may share information on individuals as it deems necessary to comply with a court order or to cooperate with government and law enforcement officials. 
+
+### **Miscellaneous**
+
+**Children's Privacy  
+** Revenue Vision LLC is very sensitive to the issue of children's privacy. Revenue Vision LLC's websites, products, and services are neither developed for, nor directed at, children. If you believe your child has provided Revenuevision.llc with personally identifiable data, or registered at one of Revenue Vision LLC's websites, and you would like to have the data removed, please contact us.   
+
+
+**Changes to Our Privacy Policy  
+** The issue of privacy is an evolving one. Advertising.com is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its Privacy Policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.   
+
+
+**Contacting Us  
+** For more information, or if you have questions or concerns regarding Advertising.com's Privacy Policy, please contact us, or you can send correspondence to the following address: 
+
+Privacy   
+Revenue Vision LLC   
+3522 2nd street, North, Apt #16   
+Fargo, ND 58102 
+
+**Effective Date  
+** This Privacy Policy has been in effect since Jan 26, 2009. 
