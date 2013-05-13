@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the nextgov.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230184531id_/http%3A//www.nextgov.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextgov.com privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513183327id_/http%3A//www.nextgov.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+  
+
 	<meta charset="utf-8">
 	<title>Privacy Policy</title>
-	<link media="all" rel="stylesheet" href="http://cdn.govexec.com/nextgov/css/all.css?v=1.3.9">
+	<link media="all" rel="stylesheet" href="http://cdn.govexec.com/nextgov/css/all.css?v=1.4.0">
     
     <link rel="canonical" href="http://www.nextgov.com/about/privacy-policy/">
     
@@ -14,24 +16,43 @@
 	<script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.govexec.com/nextgov/js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="http://cdn.govexec.com/js/jquery-ui-1.8.21.custom.min.js"></script><!-- custom download: Core, Effects Core, Effect "Fade" -->
     <script type="text/javascript" src="http://cdn.govexec.com/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="http://cdn.govexec.com/nextgov/js/jquery.main.js?v=1.3.6"></script>
-    <script type="text/javascript" src="http://cdn.govexec.com/js/newsletter.form.js?v=1.3.6"></script>
+    <script type="text/javascript" src="http://cdn.govexec.com/nextgov/js/jquery.main.js?v=1.3.14"></script>
+    <script type="text/javascript" src="http://cdn.govexec.com/js/newsletter.form.js?v=1.3.16"></script>
     <script type="text/javascript" src="http://cdn.govexec.com/js/jquery.form.js"></script>
     <script type="text/javascript" src="http://cdn.govexec.com/nextgov/js/omniture/s-code.js?v=1.1"></script>
     
+    
     <script type="text/javascript">
-       //<![CDATA[
-       if (!$.cookie("welcomeAdViewed")) {
-         $.cookie("cookiesEnabled", "1");
-         if ($.cookie("cookiesEnabled"))	{
-           $.removeCookie("cookiesEnabled");
-           currentDate = new Date();
-           eod = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 23, 59, 0, 0);
-           $.cookie("welcomeAdViewed", "1", Math.round((eod.getTime() - currentDate.getTime()) / 1000));
-           window.location = 'http://cdn.nextgov.com/nextgov/interstitial.html?rf=' + encodeURIComponent(window.location);
-         }
-       }
-     //]]>
+      //<![CDATA[
+      
+        var suppressWelcomeAd = false;
+      
+      var isiPad = navigator.userAgent.match(/iPad/i) != null;
+      // iPad detection and  check for onswipe_redirect=never in the URL
+      if (isiPad && !$.cookie("desktopPreferred")) {
+        function getUrlVar(key){
+          var result = new RegExp(key + "=([^&]*)", "i").exec(window.location.search);
+          return result && encodeURIComponent(result[1]) || "";
+        }
+        if (getUrlVar("onswipe_redirect") == "never") {
+          // set cookie to enable welcome ad for iPad
+          $.cookie("desktopPreferred", "1");
+        }
+      }
+      if (!$.cookie("welcomeAdViewed") && (!isiPad || isiPad && $.cookie("desktopPreferred"))) {
+        $.cookie("cookiesEnabled", "1");
+        if ($.cookie("cookiesEnabled"))	{
+          $.removeCookie("cookiesEnabled");
+          currentDate = new Date();
+          eod = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 23, 59, 0, 0);
+          $.cookie("welcomeAdViewed", "1", Math.round((eod.getTime() - currentDate.getTime()) / 1000));
+
+          if (!suppressWelcomeAd) {
+            window.location = 'http://cdn.nextgov.com/nextgov/interstitial.html?rf=' + encodeURIComponent(window.location);
+          }
+        }
+      }
+      //]]>
     </script>
     
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="http://cdn.govexec.com/nextgov/css/ie-all.css" media="screen"/><![endif]-->
@@ -89,7 +110,7 @@
     
 
 <script async="" type="text/javascript" src="http://cdn.govexec.com/js/custom_disqus_count_ng.js"></script></head>
-<body>
+<body class="">
 
 
 <script type="text/javascript">
@@ -169,7 +190,7 @@ var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=top
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topleader;sz=728x90;tile=1;ord=522546389?"></script>
+	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topleader;sz=728x90;tile=1;ord=313523376?"></script>
   
     <noscript>
       <a href="http://ad.doubleclick.net/N617/jump/nextgov.com/about;pos=topleader;sz=728x90;tile=2;" title="">
@@ -188,17 +209,17 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								<span class="text">TRENDING</span>
 								<ul class="menu" id="menu">
 								
-									<li><a href="/emerging-tech/we-people/59510/?oref=ng-trending">We The People</a></li>
+									<li><a href="/emerging-tech/2013/04/timeline-crowdsourcing-law-enforcement/62668/?oref=ng-trending">Boston</a></li>
+								
+									<li><a href="http://legislation.nextgov.com/">IT Acquisition Reform</a></li>
+								
+									<li><a href="/cio-briefing/bold-awards/61734/?oref=ng-trending">Bold Awards</a></li>
 								
 									<li><a href="/defense/broken-warriors/55403/?oref=ng-trending">Broken Warriors</a></li>
 								
-									<li><a href="/mobile/bring-your-own-devices/58829/?oref=ng-trending">BYOD</a></li>
+									<li><a href="/emerging-tech/we-people/59510/?oref=ng-trending">We The People</a></li>
 								
-									<li><a href="/mobile/grading-government-apps/59768/?oref=ng-trending">Building Better Apps</a></li>
-								
-									<li><a href="/defense/unmanned-aerial-vehicle/55563/?oref=ng-trending">UAVs</a></li>
-								
-									<li class="last-child"><a href="/emerging-tech/2012/11/moon-rocks-apollo-11-are-discovered-minnesota-national-guard-storage-area/59747/?oref=ng-trending">Moon Rocks</a></li>
+									<li class="last-child"><a href="/mobile/bring-your-own-devices/58829/?oref=ng-trending">BYOD</a></li>
 								
 								</ul>
 							</nav>
@@ -211,11 +232,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 									
 											<div>
 										
-									<a href="/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/?oref=ng-skybox">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812capitolNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+									<a href="/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/?oref=ng-skybox">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/05/13/051313gasmaskNG_1/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
 
 
-										<span class="text-holder"><span>Warrantless Wiretapping Lives On</span></span>
+										<span class="text-holder"><span class="text-holder-inner">Combatting Nerve Gas</span></span>
 									</a>
 								</div></li>
 							
@@ -224,11 +245,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 									
 											<div>
 										
-									<a href="/big-data/2012/12/how-big-data-can-solve-americas-gun-problem/60376/?oref=ng-skybox">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812gunsNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+									<a href="/mobile/2013/05/dhs-looks-iphones-and-tablets-can-id-bomber-fingerprints/63130/?oref=ng-skybox">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/05/13/051313fingerprintNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
 
 
-										<span class="text-holder"><span>Big Data Can Solve Gun Problem</span></span>
+										<span class="text-holder"><span class="text-holder-inner">DHS Wants Gear to ID Fingerprint</span></span>
 									</a>
 								</div></li>
 							
@@ -237,11 +258,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 									
 											<div>
 										
-									<a href="/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/?oref=ng-skybox">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812telephoneNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+									<a href="http://www.nextgov.com/cio-briefing/bold-awards/61734/">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/05/08/050813trekNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
 
 
-										<span class="text-holder"><span>Demise Of The Land Line</span></span>
+										<span class="text-holder"><span class="text-holder-inner">Boldly Go Where No Fed's Gone Before</span></span>
 									</a>
 								</div></li>
 							
@@ -250,11 +271,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 									
 											<div>
 										
-									<a href="/health/2012/12/what-you-need-know-about-epas-carbon-rules/60372/?oref=ng-skybox">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812carbonemissionsGE/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
+									<a href="/cio-briefing/2013/05/cios-say-they-want-creative-employees-rate-their-own-staffs-poorly/63036/?oref=ng-skybox">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/05/08/050813cioproblemsolvingNG/nextgov-skybox.jpg" alt="" title="" height="108" width="235">
 
 
-										<span class="text-holder"><span>EPA's War On Carbon </span></span>
+										<span class="text-holder"><span class="text-holder-inner">Wanted: Innovative IT Workers</span></span>
 									</a>
 								</div></li>
 							
@@ -279,25 +300,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/?oref=ng-dropdown">
+              <a href="/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812emailNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/13/051313gasmaskNG_1/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Senate drops effort to prevent warrantless email monitoring
+                  Army Awards <span class="font-override">$</span>156.6 Million Anti-Nerve Gas Agent Contract 
                 </header>
               </a>
               
-                <p>In approving a non-controversial bill about video-rental records, Congress had the chance to stop warrantless email searches, but they passed it up.</p>
+                <p>‘Bioscavenger’ agent won’t be fielded for six years.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/" st_title="Senate drops effort to prevent warrantless email monitoring" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/#disqus_thread" data-disqus-identifier="post_60379">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/" st_title="Army Awards $156.6 Million Anti-Nerve Gas Agent Contract " st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/#disqus_thread" data-disqus-identifier="post_63134">Comments</a></li>
                 </ul>
-                <span class="date">// December 28, 2012</span>
+                <span class="date">// 12:26 PM ET</span>
               </div>
             </div>
             
@@ -309,11 +330,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/emerging-tech/emerging-tech-blog/2012/12/white-house-responds-russian-adoption-petitions/60386/?oref=ng-dropdown"><strong>White House responds to Russian adoption petitions</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/mobile/2013/05/ice-wants-one-supplier-all-its-mobile-needs/63135/?oref=ng-dropdown"><strong>ICE Wants One Supplier for All Its Mobile Needs </strong> <span class="date">// 1:54 PM ET</span></a></li>
                 
-                  <li><a href="/health/health-it/2012/12/health-it-investigation-finds-gaping-security-holes/60382/?oref=ng-dropdown"><strong>Health IT investigation finds ‘gaping security holes’  </strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/technology-news/tech-insider/2013/05/all-datas-not-equal/63133/?oref=ng-dropdown"><strong>Not All Data’s Is Equal</strong> <span class="date">// 12:33 PM ET</span></a></li>
                 
-                  <li><a href="/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/?oref=ng-dropdown"><strong>FISA passes: Warrantless wiretapping will live on</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/mobile/2013/05/dhs-looks-iphones-and-tablets-can-id-bomber-fingerprints/63130/?oref=ng-dropdown"><strong>DHS Looks for iPhones and Tablets That Can ID Bomber Fingerprints</strong> <span class="date">// 11:20 AM ET</span></a></li>
                 
               </ul>
               
@@ -335,25 +356,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/?oref=ng-dropdown">
+              <a href="/cio-briefing/2013/05/cios-say-they-want-creative-employees-rate-their-own-staffs-poorly/63036/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812emailNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/08/050813cioproblemsolvingNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Senate drops effort to prevent warrantless email monitoring
+                  CIOs Say They Want Creative Employees, But Most Rate Their Own Staffs Poorly 
                 </header>
               </a>
               
-                <p>In approving a non-controversial bill about video-rental records, Congress had the chance to stop warrantless email searches, but they passed it up.</p>
+                <p>Budget cuts and pay freezes are causing major problems in IT shops across government, survey shows. </p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/" st_title="Senate drops effort to prevent warrantless email monitoring" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/#disqus_thread" data-disqus-identifier="post_60379">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cio-briefing/2013/05/cios-say-they-want-creative-employees-rate-their-own-staffs-poorly/63036/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cio-briefing/2013/05/cios-say-they-want-creative-employees-rate-their-own-staffs-poorly/63036/" st_title="CIOs Say They Want Creative Employees, But Most Rate Their Own Staffs Poorly " st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cio-briefing/2013/05/cios-say-they-want-creative-employees-rate-their-own-staffs-poorly/63036/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/cio-briefing/2013/05/cios-say-they-want-creative-employees-rate-their-own-staffs-poorly/63036/#disqus_thread" data-disqus-identifier="post_63036">Comments</a></li>
                 </ul>
-                <span class="date">// December 28, 2012</span>
+                <span class="date">// May 8, 2013</span>
               </div>
             </div>
             
@@ -365,11 +386,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/?oref=ng-dropdown"><strong>More than half of American homes don't use a landline</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/mobile/2013/05/ice-wants-one-supplier-all-its-mobile-needs/63135/?oref=ng-dropdown"><strong>ICE Wants One Supplier for All Its Mobile Needs </strong> <span class="date">// 1:54 PM ET</span></a></li>
                 
-                  <li><a href="/mobile/2012/12/commentary-mobility-key-transforming-federal-operations-more-austere-future/60337/?oref=ng-dropdown"><strong>Commentary: Mobility is key to transforming federal operations for a more austere future </strong> <span class="date">// December 21, 2012</span></a></li>
+                  <li><a href="/cio-briefing/wired-workplace/2013/05/telework-honor-roll/63120/?oref=ng-dropdown"><strong>Telework Honor Roll</strong> <span class="date">// 9:26 AM ET</span></a></li>
                 
-                  <li><a href="/cio-briefing/wired-workplace/2012/12/teleworkers-say-they-work-harder-office-bound-peers-some-doubt-it/60319/?oref=ng-dropdown"><strong>Teleworkers say they work harder than office-bound peers, but some doubt it  </strong> <span class="date">// December 21, 2012</span></a></li>
+                  <li><a href="/cio-briefing/wired-workplace/2013/05/fema-ramps-telework-mobility/63111/?oref=ng-dropdown"><strong>FEMA Ramps Up Telework, Mobility</strong> <span class="date">// May 10, 2013</span></a></li>
                 
               </ul>
               
@@ -391,25 +412,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/emerging-tech/2012/12/obama-responds-we-people-gun-control-petition/60321/?oref=ng-dropdown">
+              <a href="/emerging-tech/2013/05/how-defense-distributed-already-upended-world/63126/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/21/122112gunsGE/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/13/051313defdistroNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Obama responds to We the People gun control petition 
+                  Analysis<span class="font-override">:</span> How Defense Distributed Already Upended the World
                 </header>
               </a>
               
-                <p>A new White House webpage seeks input on reducing gun violence. </p>
+                <p>Company claims that the idea is out there and online sharing will do the rest.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/emerging-tech/2012/12/obama-responds-we-people-gun-control-petition/60321/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/emerging-tech/2012/12/obama-responds-we-people-gun-control-petition/60321/" st_title="Obama responds to We the People gun control petition " st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/emerging-tech/2012/12/obama-responds-we-people-gun-control-petition/60321/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/emerging-tech/2012/12/obama-responds-we-people-gun-control-petition/60321/#disqus_thread" data-disqus-identifier="post_60321">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/emerging-tech/2013/05/how-defense-distributed-already-upended-world/63126/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/emerging-tech/2013/05/how-defense-distributed-already-upended-world/63126/" st_title="Analysis: How Defense Distributed Already Upended the World" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/emerging-tech/2013/05/how-defense-distributed-already-upended-world/63126/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/emerging-tech/2013/05/how-defense-distributed-already-upended-world/63126/#disqus_thread" data-disqus-identifier="post_63126">Comments</a></li>
                 </ul>
-                <span class="date">// December 21, 2012</span>
+                <span class="date">// 10:48 AM ET</span>
               </div>
             </div>
             
@@ -421,11 +442,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/emerging-tech/emerging-tech-blog/2012/12/white-house-responds-russian-adoption-petitions/60386/?oref=ng-dropdown"><strong>White House responds to Russian adoption petitions</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/emerging-tech/emerging-tech-blog/2013/05/new-one-stop-shop-state-mobile-apps/63127/?oref=ng-dropdown"><strong>A New One-Stop Shop for State-Level Mobile Apps</strong> <span class="date">// 11:12 AM ET</span></a></li>
                 
-                  <li><a href="/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/?oref=ng-dropdown"><strong>More than half of American homes don't use a landline</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/emerging-tech/2013/05/astronauts-international-space-station-successfully-fixed-leaky-pump/63125/?oref=ng-dropdown"><strong>Astronauts at the International Space Station Successfully Fixed Leaky Pump</strong> <span class="date">// 10:31 AM ET</span></a></li>
                 
-                  <li><a href="/emerging-tech/2012/12/video-boeing-used-20000-lbs-potatoes-test-its-flight-wifi/60315/?oref=ng-dropdown"><strong>Video: Boeing used 20,000 lbs of potatoes to test its in-flight Wi-Fi</strong> <span class="date">// December 21, 2012</span></a></li>
+                  <li><a href="/emerging-tech/emerging-tech-blog/2013/05/how-youtube-can-make-your-congressional-hearing-hit/63115/?oref=ng-dropdown"><strong>How YouTube Can Make Your Congressional Hearing a Hit</strong> <span class="date">// May 10, 2013</span></a></li>
                 
               </ul>
               
@@ -447,74 +468,46 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cloud-computing/2012/12/north-koreas-bunk-satellite-could-float-out-control-years/60245/?oref=ng-dropdown">
+              <a href="/cloud-computing/2013/05/how-do-you-protect-undersea-internet-cables-anyway/63076/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/18/121812northkorearocketNG/thumb-large.jpg" alt="North Koreans applaud near a slogan which reads “(we) fervently celebrate the successful launch of the second version of the Kwangmyongsong-3 satellite 2nd version&quot; during a mass rally in Pyongyang." title="North Koreans applaud near a slogan which reads “(we) fervently celebrate the successful launch of the second version of the Kwangmyongsong-3 satellite 2nd version&quot; during a mass rally in Pyongyang." height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/09/050913oceanNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  North Korea's bunk satellite could float out of control for years
+                  How Do You Protect Undersea Internet Cables, Anyway?
                 </header>
               </a>
               
-                <p>The rogue country's recent launch is now considered space junk. </p>
+                <p>Not very well, evidently.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cloud-computing/2012/12/north-koreas-bunk-satellite-could-float-out-control-years/60245/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cloud-computing/2012/12/north-koreas-bunk-satellite-could-float-out-control-years/60245/" st_title="North Korea's bunk satellite could float out of control for years" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cloud-computing/2012/12/north-koreas-bunk-satellite-could-float-out-control-years/60245/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cloud-computing/2012/12/north-koreas-bunk-satellite-could-float-out-control-years/60245/#disqus_thread" data-disqus-identifier="post_60245">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cloud-computing/2013/05/how-do-you-protect-undersea-internet-cables-anyway/63076/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cloud-computing/2013/05/how-do-you-protect-undersea-internet-cables-anyway/63076/" st_title="How Do You Protect Undersea Internet Cables, Anyway?" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cloud-computing/2013/05/how-do-you-protect-undersea-internet-cables-anyway/63076/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/cloud-computing/2013/05/how-do-you-protect-undersea-internet-cables-anyway/63076/#disqus_thread" data-disqus-identifier="post_63076">Comments</a></li>
                 </ul>
-                <span class="date">// December 18, 2012</span>
+                <span class="date">// May 9, 2013</span>
               </div>
             </div>
             
             
             
-            <div class="news-block">
+            <div class="news-block full-width">
               <header class="heading">
                 <strong class="title">LATEST NEWS</strong>
               </header>
               <ul>
                 
-                  <li><a href="/cybersecurity/2012/12/small-nc-cloud-company-nabs-first-fedramp-security-certification/60363/?oref=ng-dropdown"><strong>Small N.C. cloud company nabs first FedRAMP security certification</strong> <span class="date">// December 27, 2012</span></a></li>
+                  <li><a href="/cloud-computing/2013/05/technology-africa-ensures-cloud-works-when-your-connection-doesnt/63034/?oref=ng-dropdown"><strong>Technology from Africa Ensures the Cloud Works When Your Connection Doesn’t</strong> <span class="date">// May 8, 2013</span></a></li>
                 
-                  <li><a href="/emerging-tech/2012/12/datagov-will-soon-move-open-source-platform/60272/?oref=ng-dropdown"><strong>Data.gov moving to an open source platform </strong> <span class="date">// December 19, 2012</span></a></li>
+                  <li><a href="/cloud-computing/2013/05/meet-nicole-wong-obamas-new-internet-privacy-czar/63030/?oref=ng-dropdown"><strong>Meet Nicole Wong, Obama's New Internet Privacy Czar</strong> <span class="date">// May 8, 2013</span></a></li>
                 
-                  <li><a href="/cloud-computing/2012/12/video-astronaut-guided-tour-most-amazing-house-ever-built/60220/?oref=ng-dropdown"><strong>Video: An astronaut-guided tour of the most amazing house ever built</strong> <span class="date">// December 17, 2012</span></a></li>
+                  <li><a href="/cloud-computing/2013/05/interior-storage-heads-cloud/63018/?oref=ng-dropdown"><strong>Interior Storage Heads to the Cloud</strong> <span class="date">// May 7, 2013</span></a></li>
                 
               </ul>
               
             </div>
             
-			  <div class="sponsored">
-				<div class="holder">
-					<div class="ad ad-dropdown" id="dropdown-ad-4">
-	
-	<div class="ad-container">
-		<script type="text/javascript">
-//<![CDATA[
-if (typeof window.dart_random_ord == 'undefined') {
-	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
-}
-
-var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/section_cloudcomputing;pos=dropdown;sz=160x130;tile=5;ord=' + window.dart_random_ord + '?';
-document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
-
-//]]>
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/section_cloudcomputing;pos=dropdown;sz=160x130;tile=5;ord=522546389?"></script>
-    
-      <noscript>
-      <a href="http://ad.doubleclick.net/N617/jump/nextgov.com/section_cloudcomputing;pos=dropdown;sz=160x130;tile=6;" title="">
-        <img src="http://ad.doubleclick.net/N617/ad/nextgov.com/section_cloudcomputing;pos=dropdown;sz=160x130;tile=7;" alt="" />
-      </a>
-      </noscript>
-    
-	</div>
-</div>
-				</div>
-			  </div>
-			
 		
             
             
@@ -531,25 +524,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/cybersecurity/2012/12/small-nc-cloud-company-nabs-first-fedramp-security-certification/60363/?oref=ng-dropdown">
+              <a href="/cybersecurity/2013/05/china-isnt-wrong-call-us-real-hacking-empire/63067/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/27/122712nccloudNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/09/050913cyberUSNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  Small N.C. cloud company nabs first FedRAMP security certification
+                  China Isn’t Wrong to Call the U.S. "The Real Hacking Empire"
                 </header>
               </a>
               
-                <p>Any federal agency can now tap Autonomic Resources’ remote networks without testing security.</p>
+                <p>America has some of the most powerful cyber warfare resources in the world.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cybersecurity/2012/12/small-nc-cloud-company-nabs-first-fedramp-security-certification/60363/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cybersecurity/2012/12/small-nc-cloud-company-nabs-first-fedramp-security-certification/60363/" st_title="Small N.C. cloud company nabs first FedRAMP security certification" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cybersecurity/2012/12/small-nc-cloud-company-nabs-first-fedramp-security-certification/60363/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/cybersecurity/2012/12/small-nc-cloud-company-nabs-first-fedramp-security-certification/60363/#disqus_thread" data-disqus-identifier="post_60363">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cybersecurity/2013/05/china-isnt-wrong-call-us-real-hacking-empire/63067/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cybersecurity/2013/05/china-isnt-wrong-call-us-real-hacking-empire/63067/" st_title="China Isn’t Wrong to Call the U.S. &quot;The Real Hacking Empire&quot;" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cybersecurity/2013/05/china-isnt-wrong-call-us-real-hacking-empire/63067/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/cybersecurity/2013/05/china-isnt-wrong-call-us-real-hacking-empire/63067/#disqus_thread" data-disqus-identifier="post_63067">Comments</a></li>
                 </ul>
-                <span class="date">// December 27, 2012</span>
+                <span class="date">// May 9, 2013</span>
               </div>
             </div>
             
@@ -561,11 +554,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/cio-briefing/2012/12/senate-drops-effort-prevent-warrantless-email-monitoring/60379/?oref=ng-dropdown"><strong>Senate drops effort to prevent warrantless email monitoring</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/cybersecurity/cybersecurity-report/2013/05/how-hack-google-one-nsas-top-cyberspies/63071/?oref=ng-dropdown"><strong>How to Hack Google Like One of NSA's Top Cyberspies</strong> <span class="date">// May 9, 2013</span></a></li>
                 
-                  <li><a href="/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/?oref=ng-dropdown"><strong>FISA passes: Warrantless wiretapping will live on</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/cybersecurity/2013/05/massive-hacker-strike-against-us-government-and-banks-turned-out-be-dud/63042/?oref=ng-dropdown"><strong>Massive Hacker Strike Against US Government and Banks Turned Out to Be a Dud</strong> <span class="date">// May 8, 2013</span></a></li>
                 
-                  <li><a href="/cybersecurity/2012/12/fbi-lookout-financial-losses-unrelated-fiscal-cliff/60352/?oref=ng-dropdown"><strong>FBI is on the lookout for financial losses unrelated to fiscal cliff</strong> <span class="date">// December 27, 2012</span></a></li>
+                  <li><a href="/cybersecurity/2013/05/its-not-just-about-china-and-americasmaller-countries-want-wage-cyberwar-too/63013/?oref=ng-dropdown"><strong>It’s Not Just About China and America—Smaller Countries Want to Wage Cyberwar too</strong> <span class="date">// May 7, 2013</span></a></li>
                 
               </ul>
               
@@ -587,25 +580,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/?oref=ng-dropdown">
+              <a href="/mobile/2013/05/dhs-looks-iphones-and-tablets-can-id-bomber-fingerprints/63130/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812telephoneNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/13/051313fingerprintNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  More than half of American homes don't use a landline
+                  DHS Looks for iPhones and Tablets That Can ID Bomber Fingerprints
                 </header>
               </a>
               
-                <p>With the ascent of mobile, landlines dip back to World War II-era penetration.</p>
+                <p>Hunt for biometric mobile devices is one of several civilian and military smartphone surveillance efforts. </p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/" st_title="More than half of American homes don't use a landline" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/mobile/2012/12/more-half-american-homes-dont-use-landline/60377/#disqus_thread" data-disqus-identifier="post_60377">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/mobile/2013/05/dhs-looks-iphones-and-tablets-can-id-bomber-fingerprints/63130/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/mobile/2013/05/dhs-looks-iphones-and-tablets-can-id-bomber-fingerprints/63130/" st_title="DHS Looks for iPhones and Tablets That Can ID Bomber Fingerprints" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/mobile/2013/05/dhs-looks-iphones-and-tablets-can-id-bomber-fingerprints/63130/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/mobile/2013/05/dhs-looks-iphones-and-tablets-can-id-bomber-fingerprints/63130/#disqus_thread" data-disqus-identifier="post_63130">Comments</a></li>
                 </ul>
-                <span class="date">// December 28, 2012</span>
+                <span class="date">// 11:20 AM ET</span>
               </div>
             </div>
             
@@ -617,11 +610,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/mobile/2012/12/commentary-mobility-key-transforming-federal-operations-more-austere-future/60337/?oref=ng-dropdown"><strong>Commentary: Mobility is key to transforming federal operations for a more austere future </strong> <span class="date">// December 21, 2012</span></a></li>
+                  <li><a href="/mobile/2013/05/ice-wants-one-supplier-all-its-mobile-needs/63135/?oref=ng-dropdown"><strong>ICE Wants One Supplier for All Its Mobile Needs </strong> <span class="date">// 1:54 PM ET</span></a></li>
                 
-                  <li><a href="/mobile/2012/12/new-online-privacy-loophole-lets-facebook-advertise-kids/60291/?oref=ng-dropdown"><strong>New online privacy loophole lets Facebook advertise to kids</strong> <span class="date">// December 20, 2012</span></a></li>
+                  <li><a href="/emerging-tech/emerging-tech-blog/2013/05/new-one-stop-shop-state-mobile-apps/63127/?oref=ng-dropdown"><strong>A New One-Stop Shop for State-Level Mobile Apps</strong> <span class="date">// 11:12 AM ET</span></a></li>
                 
-                  <li><a href="/big-data/2012/12/best-open-data-rreleases-2012/60268/?oref=ng-dropdown"><strong>The best open data releases of 2012</strong> <span class="date">// December 19, 2012</span></a></li>
+                  <li><a href="/emerging-tech/2013/05/cdc-doubles-down-virtual-reality-training/63110/?oref=ng-dropdown"><strong>CDC Wants Trainees to 'Temporarily Forget' Exercises Aren't Real</strong> <span class="date">// May 10, 2013</span></a></li>
                 
               </ul>
               
@@ -643,25 +636,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/health/2012/12/vas-disability-claims-backlog-tops-900000/60380/?oref=ng-dropdown">
+              <a href="/health/2013/05/key-lawmaker-wants-ban-va-bonuses-five-years/63043/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812VAbacklogNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/08/050813millerNG/thumb-large.jpg" alt="Rep. Jeff Miller, R-Fla" title="Rep. Jeff Miller, R-Fla" height="131" width="218">
                 </div>
                 <header class="heading">
-                  VA’s disability claims backlog tops 900,000 
+                  Key Lawmaker Wants to Ban VA Bonuses for Five Years
                 </header>
               </a>
               
-                <p>More than 600,000 claims have been languishing in the system for longer than 125 days.</p>
+                <p>The department paid out $17 million in bonuses to senior executives from 2007 through 2011.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/health/2012/12/vas-disability-claims-backlog-tops-900000/60380/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/health/2012/12/vas-disability-claims-backlog-tops-900000/60380/" st_title="VA’s disability claims backlog tops 900,000 " st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/health/2012/12/vas-disability-claims-backlog-tops-900000/60380/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/health/2012/12/vas-disability-claims-backlog-tops-900000/60380/#disqus_thread" data-disqus-identifier="post_60380">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/health/2013/05/key-lawmaker-wants-ban-va-bonuses-five-years/63043/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/health/2013/05/key-lawmaker-wants-ban-va-bonuses-five-years/63043/" st_title="Key Lawmaker Wants to Ban VA Bonuses for Five Years" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/health/2013/05/key-lawmaker-wants-ban-va-bonuses-five-years/63043/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/health/2013/05/key-lawmaker-wants-ban-va-bonuses-five-years/63043/#disqus_thread" data-disqus-identifier="post_63043">Comments</a></li>
                 </ul>
-                <span class="date">// December 28, 2012</span>
+                <span class="date">// May 8, 2013</span>
               </div>
             </div>
             
@@ -673,11 +666,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/health/health-it/2012/12/health-it-investigation-finds-gaping-security-holes/60382/?oref=ng-dropdown"><strong>Health IT investigation finds ‘gaping security holes’  </strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/emerging-tech/2013/05/cdc-doubles-down-virtual-reality-training/63110/?oref=ng-dropdown"><strong>CDC Wants Trainees to 'Temporarily Forget' Exercises Aren't Real</strong> <span class="date">// May 10, 2013</span></a></li>
                 
-                  <li><a href="/health/2012/12/what-you-need-know-about-epas-carbon-rules/60372/?oref=ng-dropdown"><strong>What you need to know about EPA's carbon rules</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/health/2013/05/new-sars-virus-has-french-connection-and-it-spreads-hospital/63107/?oref=ng-dropdown"><strong>The New SARS-Like Virus Has a French Connection, and It Spreads in a Hospital</strong> <span class="date">// May 10, 2013</span></a></li>
                 
-                  <li><a href="/health/health-it/2012/12/feds-resolve-facilitate-health-data-exchange-2013/60351/?oref=ng-dropdown"><strong>Feds resolve to facilitate health data exchange in 2013</strong> <span class="date">// December 27, 2012</span></a></li>
+                  <li><a href="/big-data/2013/05/white-house-orders-agencies-follow-new-open-data-standards/63068/?oref=ng-dropdown"><strong>White House Orders Agencies to Follow New Open Data Standards</strong> <span class="date">// May 9, 2013</span></a></li>
                 
               </ul>
               
@@ -699,25 +692,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/?oref=ng-dropdown">
+              <a href="/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812capitolNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/13/051313gasmaskNG_1/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  FISA passes<span class="font-override">:</span> Warrantless wiretapping will live on
+                  Army Awards <span class="font-override">$</span>156.6 Million Anti-Nerve Gas Agent Contract 
                 </header>
               </a>
               
-                <p>The controversial legislation will be sent to President Obama's desk for signature.</p>
+                <p>‘Bioscavenger’ agent won’t be fielded for six years.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/" st_title="FISA passes: Warrantless wiretapping will live on" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/defense/2012/12/fisa-passes-warrantless-wiretapping-will-live/60378/#disqus_thread" data-disqus-identifier="post_60378">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/" st_title="Army Awards $156.6 Million Anti-Nerve Gas Agent Contract " st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/defense/2013/05/army-awards-1566-million-anti-nerve-gas-agent-contract/63134/#disqus_thread" data-disqus-identifier="post_63134">Comments</a></li>
                 </ul>
-                <span class="date">// December 28, 2012</span>
+                <span class="date">// 12:26 PM ET</span>
               </div>
             </div>
             
@@ -729,11 +722,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/defense/2012/12/cybersecurity-one-five-key-national-security-issues-2013/60373/?oref=ng-dropdown"><strong>Cybersecurity is one of five key national security issues in 2013</strong> <span class="date">// December 28, 2012</span></a></li>
+                  <li><a href="/defense/2013/05/east-coast-well-protected-without-proposed-antimissile-site-official-says/63113/?oref=ng-dropdown"><strong>East Coast 'Well Protected' Without Proposed Antimissile Site, Official Says</strong> <span class="date">// May 10, 2013</span></a></li>
                 
-                  <li><a href="/defense/whats-brewin/2012/12/china-turns-navigation-system-over-asia-rivals-gps/60355/?oref=ng-dropdown"><strong>China turns on navigation system over Asia that rivals GPS</strong> <span class="date">// December 27, 2012</span></a></li>
+                  <li><a href="/defense/2013/05/state-department-asks-defense-distributed-take-down-its-3d-printed-gun-plans/63092/?oref=ng-dropdown"><strong>State Department Asks Defense Distributed to Take Down Its 3D-Printed Gun Plans</strong> <span class="date">// May 10, 2013</span></a></li>
                 
-                  <li><a href="/defense/whats-brewin/2012/12/kudos-norad-santa-tracker-volunteers/60350/?oref=ng-dropdown"><strong>Kudos to NORAD Santa Tracker Volunteers</strong> <span class="date">// December 26, 2012</span></a></li>
+                  <li><a href="/defense/whats-brewin/2013/05/who-wants-nondeployable-helicopter/63080/?oref=ng-dropdown"><strong>Who Wants a Nondeployable Helicopter?</strong> <span class="date">// May 9, 2013</span></a></li>
                 
               </ul>
               
@@ -755,25 +748,25 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
         <div class="drop">
           <div class="drop-holder">
             <div class="drop-block">
-              <a href="/big-data/2012/12/how-big-data-can-solve-americas-gun-problem/60376/?oref=ng-dropdown">
+              <a href="/big-data/2013/05/whats-your-city-watching-youtube/63103/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.govexec.com/media/img/upload/2012/12/28/122812gunsNG/thumb-large.jpg" alt="" title="" height="131" width="218">
+                  <img src="http://cdn.govexec.com/media/img/upload/2013/05/10/051013yputubeNG/thumb-large.jpg" alt="" title="" height="131" width="218">
                 </div>
                 <header class="heading">
-                  How big data can solve America's gun problem
+                  What's Your City Watching on YouTube?
                 </header>
               </a>
               
-                <p>The private sector has all the tools we need to flag rapid weapons build-ups and suspicious purchases. All that's needed is the political will to build the most basic database.</p>
+                <p>The Trends Map displays viewing and sharing behavior among registered users on the YouTube Dashboard within the past 12-to-24 hours.</p>
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/big-data/2012/12/how-big-data-can-solve-americas-gun-problem/60376/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/big-data/2012/12/how-big-data-can-solve-americas-gun-problem/60376/" st_title="How big data can solve America's gun problem" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/big-data/2012/12/how-big-data-can-solve-americas-gun-problem/60376/" href="javascript:Void();">google</a></li>
-                  <li><a class="comment disqus-count" href="/big-data/2012/12/how-big-data-can-solve-americas-gun-problem/60376/#disqus_thread" data-disqus-identifier="post_60376">Comments</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/big-data/2013/05/whats-your-city-watching-youtube/63103/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/big-data/2013/05/whats-your-city-watching-youtube/63103/" st_title="What's Your City Watching on YouTube?" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/big-data/2013/05/whats-your-city-watching-youtube/63103/" href="javascript:Void();">google</a></li>
+                  <li><a class="comment disqus-count" href="/big-data/2013/05/whats-your-city-watching-youtube/63103/#disqus_thread" data-disqus-identifier="post_63103">Comments</a></li>
                 </ul>
-                <span class="date">// December 28, 2012</span>
+                <span class="date">// May 10, 2013</span>
               </div>
             </div>
             
@@ -785,11 +778,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="/big-data/2012/12/why-internet-makes-it-hard-procrastinate/60317/?oref=ng-dropdown"><strong>Why the Internet makes it hard to procrastinate </strong> <span class="date">// December 21, 2012</span></a></li>
+                  <li><a href="/big-data/2013/05/live-map-manic-ways-people-edit-wikipedia/63104/?oref=ng-dropdown"><strong>A Live Map of the Manic Ways People Edit Wikipedia</strong> <span class="date">// May 10, 2013</span></a></li>
                 
-                  <li><a href="/defense/2012/12/defense-failed-adequately-manage-terabytes-iraq-war-data/60302/?oref=ng-dropdown"><strong>Defense failed to adequately manage terabytes of Iraq war data </strong> <span class="date">// December 20, 2012</span></a></li>
+                  <li><a href="/big-data/2013/05/white-house-orders-agencies-follow-new-open-data-standards/63068/?oref=ng-dropdown"><strong>White House Orders Agencies to Follow New Open Data Standards</strong> <span class="date">// May 9, 2013</span></a></li>
                 
-                  <li><a href="/big-data/2012/12/commentary-using-big-data-prepare-fiscal-cliff-and-beyond/60300/?oref=ng-dropdown"><strong>Commentary: Using big data to prepare for the fiscal cliff and beyond</strong> <span class="date">// December 20, 2012</span></a></li>
+                  <li><a href="/big-data/2013/05/how-much-do-automated-license-plate-readers-know-about-you/63064/?oref=ng-dropdown"><strong>How Much Do Automated License Plate Readers Know About You?</strong> <span class="date">// May 9, 2013</span></a></li>
                 
               </ul>
               
@@ -821,11 +814,13 @@ var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=gut
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=gutter;sz=460x800;tile=5;ord=522546389?"></script>
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=gutter;sz=460x800;tile=5;ord=313523376?"></script>
     
 	</div>
 </div>
-      
+
+        
+          
         
 				<div class="main-holder container_12">
 					<div class="tools-block">
@@ -843,6 +838,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							<li><a class="rss" href="/rss/all/">rss</a></li>
 						</ul>
 					</div>
+          
 					<div id="content" class="grid_8">
               
 
@@ -950,7 +946,7 @@ var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=top
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
-	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=9;ord=522546389?"></script>
+	</script><script type="text/javascript" src="http://ad.doubleclick.net/N617/adj/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=9;ord=313523376?"></script>
   
     <noscript>
       <a href="http://ad.doubleclick.net/N617/jump/nextgov.com/about;pos=topblock;sz=300x250,300x1000,300x600;tile=10;" title="">
@@ -969,100 +965,102 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							
 							
 								<li>
-									<a href="http://www.govexec.com/reports/five-strategies-clearing-health-it-hurdles/57511/">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/08/27/healthITsized/promoted.png" alt="" title="" height="50" width="80">
+									<a href="/cio-briefing/bold-awards/61734/?oref=ng-promotions">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/03/21/mistersnappy/promoted.jpg" alt="" title="" height="50" width="80">
 
 
 										<span class="text-holder">
 										
 											
-											<span class="sponsored">Healthcare</span>
+											<span class="sponsored">Bold Awards</span>
 											
 											
-										<strong>How New Technology will Revolutionize Medicare</strong> // 5 Steps to Better Care
+										<strong>Has Someone In Your Office Improved Gov't With Technology?</strong> // Submit a Nomination
 										
 										</span>
 									</a>
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/reports/5-ways-make-digital-government-smarter/58548/">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/10/17/Mishel_Churkin/promoted.jpg" alt="" title="" height="50" width="80">
+									<a href="http://www.govexec.com/reports/mobile-government/62918/">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/05/08/ebayink_1/promoted.jpg" alt="" title="" height="50" width="80">
 
 
 										<span class="text-holder">
 										
 											
-											<span class="sponsored">Strategy</span>
+											<span class="sponsored">Need to Know Memo</span>
 											
 											
-										<strong>How to Make Digital Government Smarter</strong> // 5 Tactics for Your Agency
+										<strong>Mobile Government</strong> // How Apps and Mobility are Revolutionizing Citizen Services
 										
 										</span>
 									</a>
 								</li>
 							
 								<li>
-									<a href="http://event.on24.com/r.htm?e=518497&amp;s=1&amp;k=485012D04F2CE8766790663ACE364E90">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/12/07/A_Continuous_Lean/promoted.jpg" alt="" title="" height="50" width="80">
+									<a href="http://www.govexec.com/gbc/3-mobile-security-threats-byod-strategy-should-prepare/61784/?oref=ng-promotions">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/03/26/1024px-US_Navy_110419-N-8040H-150_Information_Systems_Technician_2nd_Class_Michael_Tolbert_right_and_Information_Systems_Technician_2nd_Class_An-Marie_L/promoted.jpg" alt="" title="" height="50" width="80">
 
 
 										<span class="text-holder">
 										
 											
-											<span class="sponsored">Webcast</span>
+											<span class="sponsored">Research</span>
 											
 											
-										<strong>How Facebook’s IPO pushed the SEC into the Cloud</strong> // Watch Now
+										<strong>Addressing 3 BYOD Security Concerns</strong> // Keys to Your Strategy
 										
 										</span>
 									</a>
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/reports/five-national-security-technology-priorities/56628/">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/12/12/5354962658_0ba0782960_b_1/promoted.jpg" alt="" title="" height="50" width="80">
+									<a href="http://www.govexec.com/gbc/3-big-ways-data-improving-dod-performance/62357/?oref=ng-promotions">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/04/15/5203102317_ccccf6e8cd_b/promoted.jpg" alt="" title="" height="50" width="80">
 
 
-										<span class="text-holder">
-										
-											
-											<span class="sponsored">Defense</span>
-											
-											
-										<strong>5 Technologies for a New Era of Defense</strong> // New Advancements and Priorities in National Security
-										
-										</span>
-									</a>
-								</li>
-							
-								<li>
-									<a href="http://www.govexec.com/events/government-go-increasing-mobility-and-implementing-digital-government-strategy/57945/?oref=ng-promotions">
-										<img src="http://cdn.govexec.com/media/img/upload/2012/12/17/800px-Sysop_actions_of_la_cabale_camembi%C3%A8re_-_croped/promoted.jpg" alt="" title="" height="50" width="80">
-
-
-										<span class="text-holder">
-										
-											
-											<span class="sponsored">Research Update</span>
-											
-											
-										<strong>Implementing the Digital Government Strategy</strong> // Report and Infographic
-										
-										</span>
-									</a>
-								</li>
-							
-								<li>
-									<a href="http://www.govexec.com/gbc/ambitious-agenda-defense-and-data-center-consolidation/57027/?oref=ng-promotions">
-										
 										<span class="text-holder">
 										
 											
 											<span class="sponsored">Report</span>
 											
 											
-										<strong>How DoD plans to cut data centers by 32% by 2015</strong> // Learn More Now
+										<strong>3 Big Ways Data Is Improving DoD Performance</strong> // Download Now
+										
+										</span>
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://www.govexec.com/reports/big-data/62858/">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/04/29/data_1/promoted.jpg" alt="" title="" height="50" width="80">
+
+
+										<span class="text-holder">
+										
+											
+											<span class="sponsored">Need to Know Memo</span>
+											
+											
+										<strong>Big Data - Breaking Down the Big Story in Gov't</strong> // Download
+										
+										</span>
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://www.govexec.com/gbc/continuous-monitoring-as-a-service-shift-way-government-does-business/61932/?oref=ng-promotions">
+										<img src="http://cdn.govexec.com/media/img/upload/2013/03/20/cyber_1400737Small/promoted.png" alt="" title="" height="50" width="80">
+
+
+										<span class="text-holder">
+										
+											
+											<span class="sponsored">Report</span>
+											
+											
+										<strong>Continuous Monitoring As a Service</strong> // Learn How This Impacts Your Agency
 										
 										</span>
 									</a>
@@ -1099,8 +1097,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 												<label for="field:data">Nextgov Big Data</label>
 											</li>
                                             <li>
-                                 				<input type="checkbox" name="field:eig" id="field:eig" class="checkbox" value="1">
-                                 				<label for="field:eig">Excellence in Government</label>
+                                 				<input type="checkbox" name="field:nextgov_mobility" id="field:nextgov_mobility" class="checkbox" value="1">
+                                 				<label for="field:eig">Nextgov Mobility</label>
                                  			</li>
 										</ul>
 										<div class="btn-holder">
@@ -1123,7 +1121,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 if (typeof window.dart_random_ord == 'undefined') {
 	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
 }
-if ($('#topblock-ad script[src*="widgetserver"]').length == 0 && top_right_ad_size_check_called == false && $("#topblock-ad").height() < 600) {
+if ($('#topblock-ad script[src*="widgetserver"]').length == 0 && $('#topblock-ad script[src*="flite"]').length == 0 && top_right_ad_size_check_called == false && $("#topblock-ad").height() < 600) {
       if ($("#topblock-ad").height() < 250) {
           top_right_ad_size_check();
       }
@@ -1154,9 +1152,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
     
       <li>
-        <a href="/defense/whats-brewin/2012/12/china-turns-navigation-system-over-asia-rivals-gps/60355/?oref=voicesmodule">
+        <a href="/defense/whats-brewin/2013/05/who-wants-nondeployable-helicopter/63080/?oref=voicesmodule">
           <img src="http://cdn.govexec.com/nextgov/images/blog-sidebar-whats-brewin.jpg" alt="What's Brewin" width="142" height="54">
-          <span class="text-holder"><strong>China turns on navigation system over Asia that rivals GPS </strong><em class="text">What's Brewin <em class="author">by 
+          <span class="text-holder"><strong>Who Wants a Nondeployable Helicopter? </strong><em class="text">What's Brewin <em class="author">by 
   
     
     Bob Brewin
@@ -1165,9 +1163,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       </li>
     
       <li>
-        <a href="/emerging-tech/emerging-tech-blog/2012/12/white-house-responds-russian-adoption-petitions/60386/?oref=voicesmodule">
+        <a href="/emerging-tech/emerging-tech-blog/2013/05/new-one-stop-shop-state-mobile-apps/63127/?oref=voicesmodule">
           <img src="http://cdn.govexec.com/nextgov/images/blog-sidebar-emerging-tech-blog.jpg" alt="Emerging Tech" width="142" height="54">
-          <span class="text-holder"><strong>White House responds to Russian adoption petitions </strong><em class="text">Emerging Tech <em class="author">by 
+          <span class="text-holder"><strong>A New One-Stop Shop for State-Level Mobile Apps </strong><em class="text">Emerging Tech <em class="author">by 
   
     
     Joseph Marks
@@ -1176,20 +1174,20 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       </li>
     
       <li>
-        <a href="/technology-news/tech-insider/2012/12/nasa-signs-40-million-web-services-contract/60307/?oref=voicesmodule">
+        <a href="/technology-news/tech-insider/2013/05/all-datas-not-equal/63133/?oref=voicesmodule">
           <img src="http://cdn.govexec.com/nextgov/images/blog-sidebar-tech-insider.jpg" alt="Tech Insider" width="142" height="54">
-          <span class="text-holder"><strong>NASA signs $40 million web services contract </strong><em class="text">Tech Insider <em class="author">by 
+          <span class="text-holder"><strong>Not All Data’s Is Equal </strong><em class="text">Tech Insider <em class="author">by 
   
     
-    Nextgov Staff
+    Joseph Marks
     </em></em></span>
         </a>
       </li>
     
       <li>
-        <a href="/cio-briefing/wired-workplace/2012/12/teleworkers-say-they-work-harder-office-bound-peers-some-doubt-it/60319/?oref=voicesmodule">
+        <a href="/cio-briefing/wired-workplace/2013/05/telework-honor-roll/63120/?oref=voicesmodule">
           <img src="http://cdn.govexec.com/nextgov/images/blog-sidebar-wired-workplace.jpg" alt="Wired Workplace" width="142" height="54">
-          <span class="text-holder"><strong>Teleworkers say they work harder than office-bound peers, but some doubt it   </strong><em class="text">Wired Workplace <em class="author">by 
+          <span class="text-holder"><strong>Telework Honor Roll </strong><em class="text">Wired Workplace <em class="author">by 
   
     
     Brittany Ballenstedt
@@ -1198,23 +1196,23 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       </li>
     
       <li>
-        <a href="/health/health-it/2012/12/health-it-investigation-finds-gaping-security-holes/60382/?oref=voicesmodule">
+        <a href="/health/health-it/2013/04/health-it-performance-challenge/62509/?oref=voicesmodule">
           <img src="http://cdn.govexec.com/nextgov/images/blog-sidebar-health-it.jpg" alt="Health IT" width="142" height="54">
-          <span class="text-holder"><strong>Health IT investigation finds ‘gaping security holes’   </strong><em class="text">Health IT <em class="author">by 
+          <span class="text-holder"><strong>The Health IT Performance Challenge </strong><em class="text">Health IT <em class="author">by 
   
     
-    John Pulley
+    Linda Pietzman
     </em></em></span>
         </a>
       </li>
     
       <li>
-        <a href="/cybersecurity/cybersecurity-report/2012/12/future-innovation-stake-debate-over-internet-freedom/60254/?oref=voicesmodule">
+        <a href="/cybersecurity/cybersecurity-report/2013/05/how-hack-google-one-nsas-top-cyberspies/63071/?oref=voicesmodule">
           <img src="http://cdn.govexec.com/nextgov/images/blog-sidebar-cybersecurity-report.jpg" alt="Cybersecurity Report" width="142" height="54">
-          <span class="text-holder"><strong>The future of innovation is at stake in the debate over Internet freedom </strong><em class="text">Cybersecurity Report <em class="author">by 
+          <span class="text-holder"><strong>How to Hack Google Like One of NSA's Top Cyberspies </strong><em class="text">Cybersecurity Report <em class="author">by 
   
     
-    Jessica Herrera-Flanigan 
+    Mark Micheli
     </em></em></span>
         </a>
       </li>
@@ -1223,7 +1221,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 </div>
 
 
-                        
+            
+              
 
 <div class="side-block">
 	<h3 class="text-links">sponsored links</h3>
@@ -1234,35 +1233,38 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285455&amp;iu=/617/govexec.com/emailads">How Technology is Impacting Medicare</a></strong> Impacts to Patient Care and Costs <a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285455&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/HealthIT</a></span>
+			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56688455&amp;iu=/617/nextgov.com">Five Key Steps to Making Government Greener</a></strong> Culture, Green Fleets, and More <a href="http://pubads.g.doubleclick.net/gampad/clk?id=56688455&amp;iu=/617/nextgov.com" rel="external">www.GovExec.com/GreenGov</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285695&amp;iu=/617/govexec.com/emailads">Five Key Steps to Making Government Greener</a></strong> Culture, Green Fleets, and More <a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285695&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/GreenGov</a></span>
+			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56688575&amp;iu=/617/nextgov.com">Leading Open Government Trends</a></strong> Increasing Federal Transparency <a href="http://pubads.g.doubleclick.net/gampad/clk?id=56688575&amp;iu=/617/nextgov.com" rel="external">www.GovExec.com/OpenGov</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285575&amp;iu=/617/govexec.com/emailads">The Pentagon’s New 21st Century Strategy</a></strong> Technologies Changing Defense Operations <a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285575&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/DefenseOps</a></span>
+			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56689175&amp;iu=/617/nextgov.com">How to Avoid Big Mistakes with Big Data</a></strong> Five Common Pitfalls of Big Data <a href="http://pubads.g.doubleclick.net/gampad/clk?id=56689175&amp;iu=/617/nextgov.com" rel="external">www.GovExec.com/BigData</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285815&amp;iu=/617/govexec.com/emailads">How Government is Strengthening Cybersecurity</a></strong> Learn about Key Initiatives Across Government <a href="http://pubads.g.doubleclick.net/gampad/clk?id=54285815&amp;iu=/617/govexec.com/emailads" rel="external">www.GovExec.com/CyberInitiatives</a></span>
+			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56689295&amp;iu=/617/nextgov.com">Excellence in Government 2013</a></strong> May 13 &amp; 14, Washington DC <a href="http://pubads.g.doubleclick.net/gampad/clk?id=56689295&amp;iu=/617/nextgov.com" rel="external">www.GovExec.com/Excellence</a></span>
 		</li>
 	
 	</ul>
 </div>
 
+            
 					</aside>
+          
 				</div>
+        
 			</div>
 		</div>
 		<footer id="footer">
@@ -1292,7 +1294,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								<li><a href="http://www.theatlanticcities.com/" rel="external">The Atlantic Cities</a></li>
 							</ul>
 						</div>
-						<p>© 2012 by National Journal Group, Inc. All rights reserved.</p>
+						<p class="copyright">© 2013 by National Journal Group, Inc. All rights reserved. | <a href="http://www.edgecast.com/">CDN</a> powered by Edgecast Networks
+						</p>
 					</div>
 				</div>
 			</div>
@@ -1353,16 +1356,24 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     //]]>
     </script>
       <script type="text/javascript">
-//<![CDATA[
-
-_bizo_data_partner_id = "2528";
-
-(function(){var b,a,u;a=document.createElement("script");a.type="text/javascript";a.async=true;u=(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";a.src=u;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();
-
-//]]>
+_bizo_data_partner_id = "1016";
 </script>
+<script type="text/javascript">
+(function() {
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";
+b.async = true;
+b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+<img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=1016&fmt=gif" />
+</noscript>
     
     <script type="text/javascript">
+//<![CDATA[
     var disqus_shortname = 'nextgov';
     (function () {
         var scriptElement = document.createElement('script'); scriptElement.async = true;
@@ -1370,6 +1381,7 @@ _bizo_data_partner_id = "2528";
         scriptElement.src = 'http://cdn.govexec.com/js/custom_disqus_count_ng.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(scriptElement);
     }());
+    //]]>
 </script>
   
 
