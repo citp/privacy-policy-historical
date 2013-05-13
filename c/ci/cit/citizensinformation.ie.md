@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225153052id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513211639id_/http%3A//www.citizensinformation.ie/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy and Cookies
 
 The citizensinformation.ie website is maintained by the Citizens Information Board, a statutory agency responsible for providing information, advice and advocacy services to the public in Ireland. The Citizens Information Board fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988-2003.
 
@@ -34,8 +34,10 @@ Cookies are small pieces of information, stored in simple text files, placed on 
 
 Citizensinformation.ie uses cookies in a number of places.
 
+  * When you first visit citizensinformation.ie, you will see a message informing you about cookies. If you click the 'Hide this message' button, citizensinformation.ie will set a cookie which records your preference.
   * The website sets a cookie when you view or use the 'Contact us' form. This cookie does not contain any personal information, but is used to help prevent a security attack called 'cross-site referral'.
   * A cookie is also set to allow the text-resizing and high-contrast buttons to work.
+  * A number of cookies are set to allow some checklist functionality to work.
   * If you access citizensinformation.ie with most mobile phones, you will be asked if you would prefer to view the mobile version of the website. A cookie is set to record if you access the site with a mobile phone or with a desktop browser. 
   * This website uses Google Custom Search to provide the site's search functionality. Google may set cookies when you use the search function. You can find Google's privacy policy here: [www.google.com/policies/privacy/](http://www.google.com/policies/privacy/).
   * Cookies from Google may also be set when Google Maps are displayed on this website.
