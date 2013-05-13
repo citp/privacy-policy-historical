@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the forcedgreen.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110123405id_/http%3A//www.forcedgreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcedgreen.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513231719id_/http%3A//www.forcedgreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.forcedgreen.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Forced+Green&description=Privacy+Policy)
 
 Privacy Policy for Forced Green
 
@@ -80,4 +78,4 @@ Get your own Privacy Policy [here](http://www.prioritydigital.com/)!
   
 
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.forcedgreen.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Forced+Green&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.forcedgreen.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.easyriver.com%2Firs%2Fexample_traffic_module.php3%3Flevel%3DONDUTY-Forced%20Green&description=Privacy%20Policy)
