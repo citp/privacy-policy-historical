@@ -1,752 +1,763 @@
-<!--The following is the downloaded HTML source of the mydeal.com.au privacy policy that was archived on 2012-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002211958id_/http%3A//mydeal.com.au/info/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydeal.com.au privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513104749id_/http%3A//mydeal.com.au/info/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class=" js flexbox history opacity csstransforms video svg no-ipad no-iphone no-ipod no-ios no-ios6 no-ios7 no-ios8 no-ios9 no-windowsphone no-android no-android_4_2 no-macos no-mobile no-ie10 no-ie11 no-firefox safari videoautoplay"><head>
+<!DOCTYPE html><html class=" js no-touch rgba multiplebgs backgroundsize borderradius boxshadow textshadow opacity cssanimations cssgradients csstransitions generatedcontent video audio svg inlinesvg bgsizecover boxsizing display-table lastchild mediaqueries" lang="en" style=""><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-	
-	<title>MyDeal.com.au | 
-    Privacy Policy
-</title>
-	
-	
-	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700">
-<link href="/content/style.css" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" href="/content/home.css">
-	<link rel="stylesheet" href="/content/lightbox-css.css">
-<link href="/scripts/themes/minimalist/jquery.slider.css" rel="stylesheet" type="text/css">
+	<meta charset="utf-8">
+    
+	<title>
+        My Deal
+    </title>
 
-	<!--[if IE]>
-		<link rel="stylesheet" href="/content/ie.css" />
+	<link href="/content/themes/bliss/css/style.css" rel="stylesheet" type="text/css">
+	<meta name="viewport" content="width=device-width">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/modernizr.min.js"></script>
+	<!--[if lt IE 9]>
+		<script src="/scripts/css3-mediaqueries.js"></script>
 	<![endif]-->
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.7.1.min.js"></script>
-	<script type="text/javascript" src="/scripts/jquery.corner.js"></script>
-	<script type="text/javascript" src="/scripts/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-	<script type="text/javascript" src="/scripts/Myriad_Pro_700.font.js"></script>
-
-<script type="text/javascript" src="/content/js/jquery.easing.1.2-min.js" charset="UTF-8"></script>
-<script charset="UTF-8" src="/content/js/jquery.scrollTo-1.4.2-min.js" type="text/javascript"></script>
-<script charset="UTF-8" src="/content/js/scrollbar.js" type="text/javascript"></script>
-<script type="text/javascript" src="/scripts/jquery.form.js"></script> 
-<script type="text/javascript" src="/scripts/jquery.slider.min.js"></script> 
-<script type="text/javascript" src="/scripts/modernizr.js"></script>
+    
+	<script type="text/javascript">	    window.jQuery || document.write('<script src="/scripts/jquery-1.9.0.min.js"><\/script><script src="/Scripts/jquery-migrate-1.2.0.js" type="text/javascript"><\/script>')</script><script src="/scripts/jquery-1.9.0.min.js"></script><script src="/Scripts/jquery-migrate-1.2.0.js" type="text/javascript"></script>
+    
 <script type="text/javascript">
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-    navbarRemainingSpaceTolerance = 10;
-
-    function _rate(id) {
-        $.ajax({
-            url: '/Home/_Rate/?DealID=' + id,
-            success: function (data) {
-                $('#ratearea' + id).html(data);
-            }
-        });
-    }
-
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-1768563-4']);
     _gaq.push(['_trackPageview']);
-
-    function _trackEvent(pcode, category) {
-        _gaq.push(['_trackEvent', 'MyDeal', category, category]);
-    }
-
-
-
-    function payPalSAGClick(buttonName) {
-
-        _trackEvent('paypalsendgift', buttonName);
-        $('#ppsag').submit();
-    }
-
-
-    function payPalClick(buttonName) {
-
-        _trackEvent('paypal', buttonName);
-        document.forms["pp"].submit();
-    }
-
-
-    $(document).ready(function () {
-
-        // navigation bar rounded corners
-        $('#navigation ul').corner('3px');
-        //$('#navigation .first a').corner('3px left');
-
-        // grow last menu item if it isn't too far away from the right edge of the navbar, and add right round corners
-        // this must be done after cufon has finished replacing the text
-        /*
-        navbarXright = $('#navigation ul').position().left + $('#navigation ul').outerWidth();
-        lastX = $('#navigation .last').position().left;
-        availableSpace = navbarXright - lastX;
-        diff = availableSpace - $('#navigation .last').outerWidth();
-
-        if (diff < navbarRemainingSpaceTolerance) {
-            $('#navigation .last').css('border-right', '0');
-            $('#navigation .last a').width($('#navigation .last a').width() + diff + 1);
-            //$('#navigation .last a').corner('3px right');
-        }
-        */
-        /*
-        // navigation bar dropdown menus
-        $('#fashion-btn').hover(
-        // hover in function
-        function() {
-        $('#fashion-btn .nav-dropdown').slideDown();
-        } , 
-        // hover out function
-        function() {
-        $('#fashion-btn .nav-dropdown').slideUp();
-        } );
-        */
-
-        // sign up button
-        $('#account-modal .close-btn').click(function () {
-            $('#account-modal').hide();
-            $('#modals').hide();
-        });
-
-        // change location button
-        $('#location-btn').click(function () {
-            $('#modals').show();
-            $('#location-modal').show();
-        });
-        $('#location-modal .close-btn').click(function () {
-            $('#location-modal').hide();
-            $('#modals').hide();
-        });
-
-        // search form
-        
-        searchHint = $('#search-field').val();
-        $('#search-field').focus(function () {
-            if ($('#search-field').val() == searchHint) {
-                $('#search-field').val('');
-                $('#search-field').css('color', '#000');
-            }
-        });
-        $('#search-field').blur(function () {
-            if ($('#search-field').val() == '') {
-                $('#search-field').val(searchHint);
-                $('#search-field').css('color', '#696969');
-            }
-        });
-        
-        // newsletter form
-        emailHint = $('#email-field').val();
-        $('#email-field').focus(function () {
-            if ($('#email-field').val() == emailHint) {
-                $('#email-field').val('');
-                $('#email-field').css('color', '#000');
-            }
-        });
-        $('#email-field').blur(function () {
-            if ($('#email-field').val() == '') {
-                $('#email-field').val(emailHint);
-                $('#email-field').css('color', '#696969');
-            }
-        });
-    });
-</script>
-	<style>
-	.jquery-slider-slide 
-	{
-	    display:none;
-	    position:inherit;
-	    float:none;
-	}
-	
-	.jquery-slider-slide-current
-	{
-	    display:block;
-	}
-	</style>
+    </script>
 </head>
 
-<body>
-	
-	<div id="modals">
-		<div id="modals-content">
-					
-			
-			<div id="location-modal" class="modal-dropdown">
-				<div class="modal-content">
-					<h2>Change my location</h2>
-					<a class="close-btn" href="javascript:"><span>Close</span></a>
-					<ul>    
-       
-						    <li class="odd"><a href="/home/changecity?cityselector=0">National</a></li>
-			       
-						    <li><a href="/home/changecity?cityselector=1">Melbourne</a></li>
-                   
-						    <li class="odd"><a href="/home/changecity?cityselector=2">Sydney</a></li>
-			       
-						    <li><a href="/home/changecity?cityselector=3">Brisbane</a></li>
-                   
-						    <li class="odd"><a href="/home/changecity?cityselector=4">Adelaide</a></li>
-			       
-						    <li><a href="/home/changecity?cityselector=5">Gold Coast</a></li>
-                   
-						    <li class="odd"><a href="/home/changecity?cityselector=6">Perth</a></li>
-			       
-						    <li><a href="/home/changecity?cityselector=7">Hobart</a></li>
-                   
-						    <li class="odd"><a href="/home/changecity?cityselector=8">Canberra</a></li>
-			       
-						    <li><a href="/home/changecity?cityselector=9">Darwin</a></li>
-                   
-					</ul>
-				</div>
-			</div>
-			
-		</div>
-	</div>
-	
-	<div id="top">
-		<div id="top-content">
-			<a id="local-biz-link" class="arrow-link" href="#"><span>Find Local Businesses</span></a>
-            
-			<div id="top-right">
-				<!-- adding whitespace will cause extra gaps due to display: inline-block -->
-                
-		
-		<div class="separator">
-                <a id="location-btn" href="javascript:">National</a>    
-		</div>	
-				
-    
-			
-		<div class="separator"><a id="login-btn" class="arrow-link" href="#" onclick="document.getElementById('shadowing2').style.display='block'; document.getElementById('box2').style.display='block';"><span>Login</span></a></div><a id="login-btn" class="arrow-link" href="#" onclick="document.getElementById('shadowing2').style.display='block'; document.getElementById('box2').style.display='block';">
-	  
-	  </a>
-	  
-	  
-		<div class="separator">
-		<a id="signup-btn" class="arrow-link" href="#" onclick="document.getElementById('shadowing').style.display='block'; document.getElementById('box').style.display='block';"><span>Sign Up</span></a>
-		</div>
+<body class="deals cart" style="zoom: 1;">
+<header>
+<section class="bar fixed">
+<div class="container">
+<div class="top-nav-group">
+	<nav class="categories">
+		<a class="toggle-menu" href="#">Toggle Main Menu</a>
+		<div class="drop">
 
-    
-	
-		
-			</div>
-		</div>
-	</div>
-	
-
-	<div id="wrapper">
-	
-		<div id="header">
-			<a id="site-logo" href="/"></a>
-            <form action="/home/mainpage" class="single-field" id="search-form" method="get">
-				<label for="search-field"></label>
-				<input id="search-field" name="q" type="text" value="" placeholder="Search for a product or service">
-				<input type="submit" value="Submit">
-                <div style="margin-top:45px;font-style: italic;margin-left: 10px;">
-                Popular Searches: Massage, Restaurant, Fitness, Facial
-                </div>
-			</form>
-		</div>
-		
-		
-
-<div id="navigation">
-			<ul style="border-radius: 3px;">
-				<li id="home-btn" class="first"><a href="/"><span>Home</span></a></li>
-   
-        <li>
-            <a href="/home/mainpage?tagid=0&amp;cityid=0">
-            <strong>All Deals</strong>
-            </a>
-            <!--
-            
-              -->
-        </li>
-         
-        <li>
-            <a href="/home/mainpage?tagid=1&amp;cityid=0">
-            <strong>Fashion</strong>
-            </a>
-            <!--
-            
-					<div class="cover"></div>
-					<div class="nav-dropdown">       
-						<ul>      
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=16">                                    
-                                            Jewellery
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=26">                                    
-                                            Clothing
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<ul>
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=27">                                    
-                                            Accessories
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=25">                                    
-                                            Footwear
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<div class="separator"></div>
-                        <a class="shop-all-btn" href="/home/mainpage?tagid=1">
-                            <span>Shop all Fashion</span>
-                        </a>
-
-					</div>
-              
-              -->
-        </li>
-         
-        <li>
-            <a href="/home/mainpage?tagid=3&amp;cityid=0">
-            <strong>Food &amp; Wine</strong>
-            </a>
-            <!--
-            
-					<div class="cover"></div>
-					<div class="nav-dropdown">       
-						<ul>      
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=56">                                    
-                                            Food Goods
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<ul>
-                            
-						</ul>
-						<div class="separator"></div>
-                        <a class="shop-all-btn" href="/home/mainpage?tagid=3">
-                            <span>Shop all Food &amp; Wine</span>
-                        </a>
-
-					</div>
-              
-              -->
-        </li>
-         
-        <li>
-            <a href="/home/mainpage?tagid=4&amp;cityid=0">
-            <strong>Day Spa &amp; Beauty</strong>
-            </a>
-            <!--
-            
-					<div class="cover"></div>
-					<div class="nav-dropdown">       
-						<ul>      
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=49">                                    
-                                            Beauty Products
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=48">                                    
-                                            Men&#39;s Skincare
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=52">                                    
-                                            Beauty Treatments
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<ul>
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=20">                                    
-                                            Thai Massage
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=54">                                    
-                                            Hair Removal
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=19">                                    
-                                            Teeth Whitening
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<div class="separator"></div>
-                        <a class="shop-all-btn" href="/home/mainpage?tagid=4">
-                            <span>Shop all Day Spa &amp; Beauty</span>
-                        </a>
-
-					</div>
-              
-              -->
-        </li>
-         
-        <li>
-            <a href="/home/mainpage?tagid=5&amp;cityid=0">
-            <strong>Products</strong>
-            </a>
-            <!--
-            
-					<div class="cover"></div>
-					<div class="nav-dropdown">       
-						<ul>      
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=17">                                    
-                                            Electronics
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=37">                                    
-                                            Cool Gadgets
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=57">                                    
-                                            Furniture
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=34">                                    
-                                            Appliances
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=59">                                    
-                                            Health &amp; Fitness
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=31">                                    
-                                            Mattress Overlays
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<ul>
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=18">                                    
-                                            Beauty Products
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=30">                                    
-                                            Homewares
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=33">                                    
-                                            Cookware
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=55">                                    
-                                            Teeth Whitening
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=58">                                    
-                                            For Pets
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=32">                                    
-                                            Outdoors
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<div class="separator"></div>
-                        <a class="shop-all-btn" href="/home/mainpage?tagid=5">
-                            <span>Shop all Products</span>
-                        </a>
-
-					</div>
-              
-              -->
-        </li>
-         
-        <li>
-            <a href="/home/mainpage?tagid=7&amp;cityid=0">
-            <strong>Health &amp; Fitness</strong>
-            </a>
-            <!--
-            
-					<div class="cover"></div>
-					<div class="nav-dropdown">       
-						<ul>      
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=23">                                    
-                                            Yoga
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<ul>
-                            
-						</ul>
-						<div class="separator"></div>
-                        <a class="shop-all-btn" href="/home/mainpage?tagid=7">
-                            <span>Shop all Health &amp; Fitness</span>
-                        </a>
-
-					</div>
-              
-              -->
-        </li>
-         
-        <li>
-            <a href="/home/mainpage?tagid=12&amp;cityid=0">
-            <strong>Gifts</strong>
-            </a>
-            <!--
-            
-					<div class="cover"></div>
-					<div class="nav-dropdown">       
-						<ul>      
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=10">                                    
-                                            Gifts For Her
-                                        </a>
-                                    </li>
-                             
-							        <li>
-                                        <a href="/home/mainpage?tagid=13">                                    
-                                            Gifts For Kids
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<ul>
-                            
-							        <li>
-                                        <a href="/home/mainpage?tagid=9">                                    
-                                            Gifts For Him
-                                        </a>
-                                    </li>
-                             
-						</ul>
-						<div class="separator"></div>
-                        <a class="shop-all-btn" href="/home/mainpage?tagid=12">
-                            <span>Shop all Gifts</span>
-                        </a>
-
-					</div>
-              
-              -->
-        </li>
-         
-        <li>
-            <a href="/home/mainpage?tagid=11&amp;cityid=0">
-            <strong>Travel</strong>
-            </a>
-            <!--
-            
-              -->
-        </li>
-      
-			</ul>
-		</div>
-
-
-<div id="top-menu" class="top-menu3 noArrow">
-	<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-	<div id="tag1" class="links">
-		<ul>
-        <li>
-            <a href="/info/contactus">
-            <strong>Contact Us</strong>
-            </a>
-        </li>
-        <li>
-            <a href="/info/privacypolicy" class="active">
-            <strong>Privacy Policy</strong>
-            </a>
-        </li>
-        <li>
-            <a href="/info/tnc">
-            <strong>Terms &amp; Conditions</strong>
-            </a>
-        </li>
-        <li>
-            <a href="/info/media">
-            <strong>Media Contacts</strong>
-            </a>
-        </li>
-        <li>
-            <a href="/competition">
-            <strong>Competition</strong>
-            </a>
-        </li>
-        <!--
-        <li>
-            <a href="/info/faq" >
-            <strong>FAQ</strong>
-            </a>
+<ul>
+	<li class="shop">
+		<a href="#"><span><img src="/Content/themes/bliss/images/icons/menu_shop.png"></span>Shop</a>
+		<ul style="border-bottom-color: rgb(255, 92, 48); display: none;">
+            <li>
+            <a href="/home/mainpage?tagid=5">All Shop</a>
             </li>
-        </ul>
-        -->
-	    <div class="cle"></div>
-    </ul></div>
-</div>
-<div class="cle"></div>
-<div id="contact">
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:0 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:1;
-	mso-generic-font-family:roman;
-	mso-font-format:other;
-	mso-font-pitch:variable;
-	mso-font-signature:0 0 0 0 0 0;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-span.MsoHyperlink
-	{mso-style-priority:99;
-	color:blue !important;
-	mso-themecolor:hyperlink;
-	text-underline:single;}
-.MsoChpDefault
-	{mso-style-type:export-only;
-	mso-default-props:yes;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:10.0pt;
-	line-height:115%;}
-@page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 72.0pt 72.0pt 72.0pt;
-	mso-header-margin:35.4pt;
-	mso-footer-margin:35.4pt;
-	mso-paper-source:0;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;}
-</style>
-<div style="color: #333333; margin: 25px;">
-<div class="WordSection1">
+			<li>
+				<a href="#">Car Accessories</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=80">All Car Accessories</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Electronics</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=17">All Electronics</a>
+                    </li>
+                        
+					<li><a href="/home/mainpage?tagid=34">Appliances</a></li>
+					<li><a href="/home/mainpage?tagid=37">Cool Gadgets</a></li>
+					<li><a href="/home/mainpage?tagid=63">PC Accessories</a></li>
+					<li><a href="/home/mainpage?tagid=65">Phone Accessories</a></li>
+					<li><a href="/home/mainpage?tagid=64">Tablet Accessories</a></li>
+					<li><a href="/home/mainpage?tagid=66">TV Accessories</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Entertainment</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=79">All Entertainment</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Fitness</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=59">All Fitness</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Furniture</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=57">All Furniture</a>
+                    </li>
+                        
+					<li><a href="/home/mainpage?tagid=83">Bar Stools</a></li>
+					<li><a href="/home/mainpage?tagid=86">Bedroom</a></li>
+					<li><a href="/home/mainpage?tagid=82">Office Chairs</a></li>
+					<li><a href="/home/mainpage?tagid=85">Outdoor Furniture</a></li>
+					<li><a href="/home/mainpage?tagid=84">Sofa &amp; Chairs</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Gifts &amp; Novelties</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=12">All Gifts &amp; Novelties</a>
+                    </li>
+                        
+					<li><a href="/home/mainpage?tagid=10">Gifts for Her</a></li>
+					<li><a href="/home/mainpage?tagid=9">Gifts For Him</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Health &amp; Beauty</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=4">All Health &amp; Beauty</a>
+                    </li>
+                        
+					<li><a href="/home/mainpage?tagid=52">Bath &amp; Body</a></li>
+					<li><a href="/home/mainpage?tagid=48">For Men</a></li>
+					<li><a href="/home/mainpage?tagid=71">Hair Care</a></li>
+					<li><a href="/home/mainpage?tagid=72">Health &amp; Relax</a></li>
+					<li><a href="/home/mainpage?tagid=49">Makeup</a></li>
+					<li><a href="/home/mainpage?tagid=61">Nails</a></li>
+					<li><a href="/home/mainpage?tagid=62">Personal Care</a></li>
+					<li><a href="/home/mainpage?tagid=18">Skin Care</a></li>
+					<li><a href="/home/mainpage?tagid=19">Teeth Whitening</a></li>
+					<li><a href="/home/mainpage?tagid=73">Tools &amp; Accessories</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Homewares</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=30">All Homewares</a>
+                    </li>
+                        
+					<li><a href="/home/mainpage?tagid=74">Cleaning</a></li>
+					<li><a href="/home/mainpage?tagid=75">Home Decor</a></li>
+					<li><a href="/home/mainpage?tagid=33">Kitchenware</a></li>
+					<li><a href="/home/mainpage?tagid=32">Outdoors</a></li>
+					<li><a href="/home/mainpage?tagid=76">Storage Ideas</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Kids</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=13">All Kids</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Manchester</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=31">All Manchester</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Pet Accessories</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=58">All Pet Accessories</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Sport &amp; Fitness</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=7">All Sport &amp; Fitness</a>
+                    </li>
+                        
+					<li><a href="/home/mainpage?tagid=45">Bike Accessories</a></li>
+					<li><a href="/home/mainpage?tagid=44">Exercise Equipment</a></li>
+					<li><a href="/home/mainpage?tagid=77">Fitness Accessories</a></li>
+					<li><a href="/home/mainpage?tagid=78">Games Tables</a></li>
+					<li><a href="/home/mainpage?tagid=46">Weight Loss</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Travel Accessories</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=11">All Travel Accessories</a>
+                    </li>
+                        
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="experiences">
+		<a href="#"><span><img src="/Content/themes/bliss/images/icons/menu_experiences.png"></span>Experiences</a>
+		<ul style="border-bottom-color: rgb(0, 211, 157); display: none;">
+            <li>
+            <a href="/home/mainpage?tagid=69">All Experiences</a>
+            </li>
+			<li>
+				<a href="#">Training &amp; Courses</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=39">All Training &amp; Courses</a>
+                    </li>
+                        
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="fashion">
+		<a href="#"><span><img src="/Content/themes/bliss/images/icons/menu_fashion.png"></span>Fashion</a>
+		<ul style="border-bottom-color: rgb(55, 116, 179); display: none;">
+            <li>
+            <a href="/home/mainpage?tagid=1">All Fashion</a>
+            </li>
+			<li>
+				<a href="#">Accessories</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=27">All Accessories</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Bags &amp; Purses</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=88">All Bags &amp; Purses</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Dresses</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=90">All Dresses</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Footwear</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=25">All Footwear</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Hosiery &amp; Socks</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=89">All Hosiery &amp; Socks</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Intimates</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=24">All Intimates</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Jewellery &amp; Watches</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=16">All Jewellery &amp; Watches</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Menswear</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=92">All Menswear</a>
+                    </li>
+                        
+					<li><a href="/home/mainpage?tagid=94">Hoodies</a></li>
+					<li><a href="/home/mainpage?tagid=93">T-Shirts</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Pants &amp; Leggings</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=87">All Pants &amp; Leggings</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Storage Solutions</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=60">All Storage Solutions</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Tops &amp; Coats</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=91">All Tops &amp; Coats</a>
+                    </li>
+                        
+				</ul>
+			</li>
+			<li>
+				<a href="#">Women's Clothing</a>
+				<ul style="display: none;">
+                    <li>
+                        <a href="/home/mainpage?tagid=26">All Women's Clothing</a>
+                    </li>
+                        
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>		</div>
+	</nav>
 
-<p class="MsoNormal"></p><h1 class="StrongTitleLandingPage">Privacy Policy</h1><p></p>
-<br>
-<p class="MsoNormal">MyDeal.com.au (“Site”) is owned and operated by MyDeal.com.au Pty Ltd (ABN 60 150 104 715)(“MyDeal”). <br>
+    
+    <nav class="login-container">
+				<nav class="user logged-out desktop">
+					<a class="toggle-menu" href="#">Login</a>
+					<div class="drop">
+						<h3>Login</h3>
+<form action="/account/_logon" id="login-form" method="post"><input id="returnUrl" name="returnUrl" type="hidden" value="http://mydeal.com.au/info/privacypolicy">							<div class="row">
+								<label for="login-email">Email address <span class="mandatory">*</span></label>
+                                <input id="login-email" name="Email" type="text" value="">
+							</div>
+							<div class="row">
+								<label for="password">Password <span class="mandatory">*</span></label>
+                                <input id="password" name="Password" type="password">		
+							</div>
+							<div class="row">
+								<p><a href="/account/recoverpassword">Forgotten your password?</a></p>
+                                <span style="color:Red;">
+                                <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+                                </span>
+							</div>
+							<div class="row">
+								<input type="submit" value="Sign In">
+							</div>
+							<div class="row">
+								<a class="create" href="/account/register">Create account</a>
+							</div>
+</form>					</div>
+				</nav>
+    
+				<nav class="user logged-out mobile">
+					<a href="#" class="toggle-menu">Login</a>
+                    <div class="drop">
+						<ul>
+							<li><a href="/account/register">Join</a></li>
+							<li><a href="/account/logon?returnurl=http%3a%2f%2fmydeal.com.au%2finfo%2fprivacypolicy">Login</a></li>
+            <li class="mobile"><a href="/cart">My Cart (0 items)</a></li>
+						</ul>
+					</div>
+                </nav>
+    </nav>
+<script type="text/javascript">
+
+    $("#login-form").submit(function () {
+        var options = {
+            success: function (data) {
+                $('.login-container').replaceWith(data);
+                $M.Header.Dropdowns.InitAndOpen(1);
+            }
+        }
+
+        $(this).ajaxSubmit(options);
+
+
+        return false;
+    });
+
+    // We remove the submit button here - good Javascript depreciation technique
+    $(".submit").remove();
+
+
+</script>
+
+
+	<a class="todays-deal" href="/home/todaysdeal">Today's Deal</a>
+
+	<section class="my-cart">
+
+<script type="text/javascript">
+    function removeCartItem(dealId, option) {
+        var url = '/Cart/_Remove/?DealID=' + dealId + "&SelectedOption=" + option;
+        $.ajax({
+            type: "GET",
+            url: url,
+            success: function (data) {
+                $(".my-cart").html(data);
+                $M.Header.Dropdowns.Cart.init();
+                $M.Header.Dropdowns.Cart.Open();
+            }
+        });
+    }
+    function addCartItem(dealId, qty, option) {
+        var url = '/Cart/_Add/?DealID=' + dealId + "&Qty=" + qty + "&SelectedOption=" + option;
+        $.ajax({
+            type: "GET",
+            url: url,
+            success: function (data) {
+                //$(".my-cart").css("opacity", 0.0);
+                $(".my-cart").html(data);
+                $M.Header.Dropdowns.Cart.init();
+                $M.Header.Dropdowns.Cart.Open();
+            }
+        });
+    }
+
+    function addCartItemRedirect(dealId, qty, option) {
+        window.location = '/Cart/Add/?DealID=' + dealId + '&qty=' + qty + '&SelectedOption=' + option;
+    }
+</script>
+
+<a class="toggle-menu" href="/cart">My Cart <span>(0 Items)</span></a>
+	</section>
+</div>
+
+<nav class="regions">
+	<a class="toggle-menu" id="current-city" href="#">
+        Choose City..
+    </a>        
+	<div class="drop">
+		<h3>View Experiences Near You!</h3>
+		<ul>
+            
+    <li>
+    <a href="/home/changecity?cityselector=0">National</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=1">Melbourne</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=2">Sydney</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=3">Brisbane</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=4">Adelaide</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=5">Gold Coast</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=6">Perth</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=7">Hobart</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=8">Canberra</a> 
+    </li>
+    <li>
+    <a href="/home/changecity?cityselector=9">Darwin</a> 
+    </li>
+
+		</ul>
+	</div>
+</nav> 
+</div>
+</section>
+
+<div class="container logo-section">
+	<hgroup>
+		<h1><a href="/">My Deal</a></h1>
+	</hgroup>
+    
+<form action="/home/search" id="search" method="get" role="search">		<ol>
+			<li>
+				<label for="s">Search</label>
+				<input name="q" id="s" value="" placeholder="Search MyDeal..." type="text">
+			</li>
+			<li>
+				<input value="" type="submit">
+			</li>
+		</ol>
+</form></div>
+
+<section class="main-nav-group">
+	<div class="container">
+		<nav class="main">
+
+			<ul>
+				<li><a class="home" href="/">Home</a></li>
+				    <li class="shop">
+					        <a href="/home/mainpage?tagid=5">Shop</a>
+					        <ul>
+						        <li>
+							        <a href="/home/mainpage?tagid=80">Car Accessories</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=17">Electronics</a>
+							        <ul>
+								        <li><a href="#">Appliances</a></li>
+								        <li><a href="#">Cool Gadgets</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">PC Accessories</a></li>
+								        <li><a href="#">Phone Accessories</a></li>
+								        <li><a href="#">Tablet Accessories</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">TV Accessories</a></li>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=79">Entertainment</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=59">Fitness</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=57">Furniture</a>
+							        <ul>
+								        <li><a href="#">Bar Stools</a></li>
+								        <li><a href="#">Bedroom</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">Office Chairs</a></li>
+								        <li><a href="#">Outdoor Furniture</a></li>
+								        <li><a href="#">Sofa &amp; Chairs</a></li>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=12">Gifts &amp; Novelties</a>
+							        <ul>
+								        <li><a href="#">Gifts for Her</a></li>
+								        <li><a href="#">Gifts For Him</a></li>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=4">Health &amp; Beauty</a>
+							        <ul>
+								        <li><a href="#">Bath &amp; Body</a></li>
+								        <li><a href="#">For Men</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">Hair Care</a></li>
+								        <li><a href="#">Health &amp; Relax</a></li>
+								        <li><a href="#">Makeup</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">Nails</a></li>
+								        <li><a href="#">Personal Care</a></li>
+								        <li><a href="#">Skin Care</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">Teeth Whitening</a></li>
+								        <li><a href="#">Tools &amp; Accessories</a></li>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=30">Homewares</a>
+							        <ul>
+								        <li><a href="#">Cleaning</a></li>
+								        <li><a href="#">Home Decor</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">Kitchenware</a></li>
+								        <li><a href="#">Outdoors</a></li>
+								        <li><a href="#">Storage Ideas</a></li>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=13">Kids</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=31">Manchester</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=58">Pet Accessories</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=7">Sport &amp; Fitness</a>
+							        <ul>
+								        <li><a href="#">Bike Accessories</a></li>
+								        <li><a href="#">Exercise Equipment</a></li>
+								        <li style="margin-right: 0px; padding-right: 0px;"><a href="#">Fitness Accessories</a></li>
+								        <li><a href="#">Games Tables</a></li>
+								        <li><a href="#">Weight Loss</a></li>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=11">Travel Accessories</a>
+							        <ul>
+							        </ul>
+						        </li>
+					        </ul>
+				    </li>
+				    <li class="experiences">
+					        <a href="#" onclick="$('.regions .drop').show();">Experiences</a>
+					        <ul>
+						        <li>
+							        <a href="/home/changecity?cityselector=0">National</a>
+						        </li>
+						        <li>
+							        <a href="/home/changecity?cityselector=1">Melbourne</a>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/changecity?cityselector=2">Sydney</a>
+						        </li>
+						        <li>
+							        <a href="/home/changecity?cityselector=3">Brisbane</a>
+						        </li>
+						        <li>
+							        <a href="/home/changecity?cityselector=4">Adelaide</a>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/changecity?cityselector=5">Gold Coast</a>
+						        </li>
+						        <li>
+							        <a href="/home/changecity?cityselector=6">Perth</a>
+						        </li>
+						        <li>
+							        <a href="/home/changecity?cityselector=7">Hobart</a>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/changecity?cityselector=8">Canberra</a>
+						        </li>
+						        <li>
+							        <a href="/home/changecity?cityselector=9">Darwin</a>
+						        </li>
+					        </ul>
+				    </li>
+				    <li class="fashion">
+					        <a href="/home/mainpage?tagid=1">Fashion</a>
+					        <ul>
+						        <li>
+							        <a href="/home/mainpage?tagid=27">Accessories</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=88">Bags &amp; Purses</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=90">Dresses</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=25">Footwear</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=89">Hosiery &amp; Socks</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=24">Intimates</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=16">Jewellery &amp; Watches</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=92">Menswear</a>
+							        <ul>
+								        <li><a href="#">Hoodies</a></li>
+								        <li><a href="#">T-Shirts</a></li>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=87">Pants &amp; Leggings</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=60">Storage Solutions</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li>
+							        <a href="/home/mainpage?tagid=91">Tops &amp; Coats</a>
+							        <ul>
+							        </ul>
+						        </li>
+						        <li style="margin-right: 0px; padding-right: 0px;">
+							        <a href="/home/mainpage?tagid=26">Women's Clothing</a>
+							        <ul>
+							        </ul>
+						        </li>
+					        </ul>
+				    </li>
+			</ul>		</nav>
+
+		<div class="free-delivery">
+			<a><img src="/content/themes/bliss/images/bg_freedelivery.png" alt="Free Delivery Australia Wide"></a>
+        
+		</div>
+	</div>
+</section>
+</header>
+<div class="overlay"></div>
+
+
+
+<section role="main" class="container">
+
+
+
+	<nav class="breadcrumbs">
+		<ul>
+			<li><a href="/home/index">Home</a></li>
+			<li><strong>
+                    Privacy Policy
+            </strong></li>
+		</ul>
+	</nav>
+
+<p><span style="font-family:'Calibri','Arial';font-size:13pt;font-weight:bold;color:#d35b5c">Privacy Policy</span></p>
+<p>MyDeal.com.au (“Site”) is owned and operated by MyDeal.com.au Pty Ltd (ABN 60 150 104 715)(“MyDeal”). <br>
 This statement sets out MyDeal’s policies relating to the collection and use
 of your personal information. It applies to your conduct on the MYDEAL website
 (“Site”). This policy is in addition to the Terms of Use governing the Site and
 should be read in conjunction with the Terms of Use. <br>
-For more information on privacy in Australia, please see the <span class="MsoHyperlink"><a href="http://www.privacy.gov.au" style="color:blue;">Federal Privacy Commissioner’s Website</a></span>.</p>
+For more information on privacy in Australia, please see the <a href="http://www.privacy.gov.au">Federal Privacy Commissioner’s Website</a>.</p>
 
-<p class="MsoNormal">If you have any questions about this policy, please contact
+<p>If you have any questions about this policy, please contact
 us via the details on our Contact Page. <br>
 When you visit the Site, MyDeal.com.au will operate the Site according to the following:</p>
 
-<p class="MsoNormal"><b>Personal Information<o:p></o:p></b></p>
+<p><b>Personal Information</b></p>
 
-<p class="MsoNormal">There are two main ways we collect information about you:</p>
+<p>There are two main ways we collect information about you:</p>
 
-<p class="MsoNormal"><b>If you are not or do not login as a MyDeal Member<o:p></o:p></b></p>
+<p><b>If you are not or do not login as a MyDeal Member</b></p>
 
-<p class="MsoNormal">Whenever you visit the Site, our servers automatically
+<p>Whenever you visit the Site, our servers automatically
 record information about your usage of the Site, such as the time of your
 visit, its duration and the pages you visit. This is to help us understand what
 parts of the Site our users enjoy the most and to help us ensure that
@@ -755,9 +766,9 @@ have not identified yourself on the Site, such as by registering for Membership
 or logging in as a Member, the information we collect about you remains
 anonymous. </p>
 
-<p class="MsoNormal"><b>If you login as a MyDeal Member<o:p></o:p></b></p>
+<p><b>If you login as a MyDeal Member</b></p>
 
-<p class="MsoNormal">When you first register for membership, we collect
+<p>When you first register for membership, we collect
 information from you such as your email, name, suburb, and will continue to add
 to your member profile as you interact more on the Site, for example, if you
 enter a competition. <br>
@@ -771,9 +782,9 @@ to notify you about changes or developments to the Site and services. If you
 have consented, we may also use your information in order to advise you about
 other products and services which we offer. </p>
 
-<p class="MsoNormal"><b>How we preserve your privacy<o:p></o:p></b></p>
+<p><b>How we preserve your privacy</b></p>
 
-<p class="MsoNormal">MYDEAL will maintain any information in strict confidence
+<p>MYDEAL will maintain any information in strict confidence
 and only use this information in connection with the operation of the Site and
 in compliance with the Commonwealth Privacy Act 1988 (as amended by the Privacy
 Amendment (Private Sector) 2000 (Cth))&nbsp; or other statutory provision or
@@ -782,11 +793,11 @@ authorised government authority. <br>
 MYDEAL does not collect sensitive information beyond information outlined above
 about users. </p>
 
-<p class="MsoNormal">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p class="MsoNormal"><b>Security of Your Information<o:p></o:p></b></p>
+<p><b>Security of Your Information</b></p>
 
-<p class="MsoNormal">MYDEAL takes all reasonable steps to ensure that sensitive
+<p>MYDEAL takes all reasonable steps to ensure that sensitive
 information that MYDEAL collects is only accessible by authorised persons. We
 will retain your information for a reasonable time or as long as the law
 requires. <br>
@@ -794,9 +805,9 @@ No transmission over the Internet can be 100% secure and although MYDEAL will
 take reasonable steps to protect information storage, MYDEAL cannot guarantee
 the integrity of transmission over the internet and has no liability for such. </p>
 
-<p class="MsoNormal"><b>Third Parties<o:p></o:p></b></p>
+<p><b>Third Parties</b></p>
 
-<p class="MsoNormal">Your personal sensitive information and data is only shared
+<p>Your personal sensitive information and data is only shared
 with third parties at your direction or in connection with your use of the Site
 or as is required or permitted by law. This may include instances where we are
 required to transmit personal information according to instructions received
@@ -811,46 +822,46 @@ and organisations outside of Australia. In that case, their use of your
 personal information may not be covered by Australian law or an applicable
 privacy protection scheme. </p>
 
-<p class="MsoNormal"><b>Secure Online Transactions<br>
+<p><b>Secure Online Transactions<br>
 <br>
-</b><span style="mso-bidi-font-weight:bold">If you purchase a Coupon through
+</b><span style="font-weight:bold">If you purchase a Coupon through
 our website, we process your credit card details securely over the Internet
 using eWAY’s bank-grade data centre (eWAY is an accredited Internet payment
 security system authorised as a third party processor for all major Australian
 banks). With the combination of transaction performed under 256 Bit SSL
 Certificate on our website and a secure browser at your end, we take all
 measures to ensure that your credit card and anonymity are protected when you
-purchase online.<o:p></o:p></span></p>
+purchase online.</span></p>
 
-<p class="MsoNormal"><b>Non-customer information <o:p></o:p></b></p>
+<p><b>Non-customer information </b></p>
 
-<p class="MsoNormal"><span style="mso-bidi-font-weight:bold">Sometimes, MYDEAL
+<p><span style="font-weight:bold">Sometimes, MYDEAL
 needs to collect personal information about individuals who are not Account
 holders or customers. This will usually arise where we collect the name and
 business contact details of a person who is the contact in a government agency
 or company with whom we deal. MYDEAL’s policy is to only use personal
 information collected from non-customers for the main business purpose for
-which it was collected.<o:p></o:p></span></p>
+which it was collected.</span></p>
 
-<p class="MsoNormal"><b>Changing Your Information<o:p></o:p></b></p>
+<p><b>Changing Your Information</b></p>
 
-<p class="MsoNormal">If you are a MyDeal Member, you are able to view and amend
+<p>If you are a MyDeal Member, you are able to view and amend
 your Personal Information stored by MYDEAL at all times. MYDEAL will not amend
 your personal information except at your direction. </p>
 
-<p class="MsoNormal"><b>Terms of Use<o:p></o:p></b></p>
+<p><b>Terms of Use</b></p>
 
-<p class="MsoNormal">A breach of this Privacy Policy is a breach of the Terms of
+<p>A breach of this Privacy Policy is a breach of the Terms of
 Use. </p>
 
-<p class="MsoNormal"><b>18 Years of Age<o:p></o:p></b></p>
+<p><b>18 Years of Age</b></p>
 
-<p class="MsoNormal">Unless special agreement has been made with MYDEAL, Members
+<p>Unless special agreement has been made with MYDEAL, Members
 must be at least 18 years of age. </p>
 
-<p class="MsoNormal"><b>Cookies<o:p></o:p></b></p>
+<p><b>Cookies</b></p>
 
-<p class="MsoNormal">A cookie is a small file which is placed on the user’s hard
+<p>A cookie is a small file which is placed on the user’s hard
 drive following a visit to the Site. This file subsequently allows the user to
 move quickly and easily around the Site by keeping a record of your previous
 visit(s). It is used to identify users and tracks a user’s sessions providing
@@ -858,397 +869,137 @@ information that the system used to efficiently manage your use of the site. We
 do not link this information to user’s personal details. Cookies can be deleted
 from a user’s hard drive at any time by the user. </p>
 
-<p class="MsoNormal"><b>Changes to This Policy<o:p></o:p></b></p>
+<p><b>Changes to This Policy</b></p>
 
-<p class="MsoNormal">MYDEAL may amend this Privacy Policy as our business
+<p>MYDEAL may amend this Privacy Policy as our business
 requirements or the law changes. </p>
 
-<p class="MsoNormal"><b style="mso-bidi-font-weight:normal">How to contact MyDeal<o:p></o:p></b></p>
+<p><b>How to contact MyDeal</b></p>
 
-<p class="MsoNormal">If you would like to make an access request or wish to
+<p>If you would like to make an access request or wish to
 provide feedback about this policy, please contact MYDEAL by emailing support@mydeal.com.au</p>
 
-</div>
-</div>
-</div>
+</section>
 
-
-	</div>
-	<div class="cle"></div>
-
-
-
-<div id="footer" style="width:auto;">
-    <div id="footer-content">
-	    <div class="links">
-	    <h4>Company</h4>
-	    <a href="/info/contactus">Contact Us</a>
-	    <a href="/info/privacypolicy">Privacy policy</a>
-	    <a href="/info/tnc">Terms &amp; Conditions</a>
-        <a href="/info/contactus?Enquiry=business">Feature your Business</a>
-	    </div>
-	
-	    <div class="links">
-	    <h4>Follow us</h4>
-                
-                   <a target="_blank" href="http://www.facebook.com/MyDealAustralia">Facebook</a>
-                
-
-				<a target="_blank" href="http://twitter.com/mydealau">Twitter</a>
-                <a href="/home/rss">RSS</a>
-                
-                <a href="#" onclick="document.getElementById('shadowing1').style.display='block';
-	  document.getElementById('box1').style.display='block';">Sign up for the Newsletter</a>
-                
-      
-      <br>
-	    </div>
-        
-	    <div class="links">
-	    <h4>Media</h4>
-	    <a href="/info/media">Media Contacts</a><br>
-	    </div>
-        
-	    <div class="cle"></div>
-	    <div class="copyright">
-	    Copyright 2011 My Deal.com.au - All Rights Reserved
-	    </div>
-    </div>
-</div>
-      <div id="fb-root"></div>
-      <script src="https://connect.facebook.net/en_US/all.js">
-      </script>
-      <script>
-
-          FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true, oauth: false });
-      </script>
-
-<div id="shadowing2" onclick="document.getElementById('box2').style.display='none';
-   document.getElementById('shadowing2').style.display='none'"></div>
-
-<div id="shadowing" onclick="document.getElementById('box').style.display='none';
-   document.getElementById('shadowing').style.display='none'"></div>
-   
-<div id="box">
-<div id="boxheader">
-    Register Your Account
-   <span id="boxclose" onclick="document.getElementById('box').style.display='none';
-   document.getElementById('shadowing').style.display='none'"> </span>
-</div>
-<div class="cle"></div>
-<div id="boxcontent">
-	<div id="toptext"><h4>Fill in some details about yourself to help us find the best deals and experiences out there for you!</h4></div>
-    <div id="subscribesubmit" style="display:none;text-align: center;"><h4>Thanks for subscribing! Fill in your details to create an account so you can request deals &amp; more!</h4></div>
-       <div id="registerajaxform">
-       <form action="/account/_register" id="registerform" method="post">
-	<div class="left">
-		<table>
-		<tbody><tr>	<td valign="top" width="126px">First name:</td><td><input data-val="true" data-val-required="The First Name field is required." id="Firstname" name="Firstname" type="text" value=""></td>	</tr>
-		<tr>	<td valign="top">Last name:</td><td><input data-val="true" data-val-required="The Last Name field is required." id="Lastname" name="Lastname" type="text" value=""></td>	</tr>
-		<tr>	<td valign="top">Email Address:</td><td><input data-val="true" data-val-required="The Email address field is required." id="Email" name="Email" type="text" value=""></td>	</tr>
-		<tr>	<td valign="top">Select your City:</td><td><select data-val="true" data-val-number="The field City must be a number." data-val-required="The City field is required." id="CityID" name="CityID"><option value="1">Melbourne</option>
-<option value="2">Sydney</option>
-<option value="3">Brisbane</option>
-<option value="4">Adelaide</option>
-<option value="5">Gold Coast</option>
-<option value="6">Perth</option>
-<option value="7">Hobart</option>
-<option value="8">Canberra</option>
-<option value="9">Darwin</option>
-</select></td>	</tr>
-		<tr>	<td valign="top">Gender:</td><td><select data-val="true" data-val-number="The field Gender must be a number." data-val-required="The Gender field is required." id="Gender" name="Gender"><option selected="selected" value="0">Select</option>
-<option value="1">Male</option>
-<option value="2">Female</option>
-</select></td>	</tr>
-		</tbody></table>
-		
-		</div>
-	<div class="right">
-	<table>
-		<tbody><tr>	<td valign="top" width="126px">Password:</td><td><input data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password"></td>	</tr>
-		<tr>	<td valign="top">Confirm Password:</td><td><input data-val="true" data-val-equalto="The password and confirmation password do not match." data-val-equalto-other="*.Password" id="ConfirmPassword" name="ConfirmPassword" type="password"></td>	</tr>
-        <tr><td valign="top" colspan="2" style="color:Red">
-       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
-</ul></div></td></tr>
-		</tbody></table>
-	</div>
-	<div class="cle"></div>
-		<table class="margin">
-		<tbody><tr>	<td colspan="3"><label>
-        <input checked="checked" data-val="true" data-val-required="The AcceptTerms field is required." id="AcceptTerms" name="AcceptTerms" type="checkbox" value="true"><input name="AcceptTerms" type="hidden" value="false">
-				By signing up you agree to the MyDeal</label> <a href="/info/tnc">Terms &amp; Conditions</a> and <a href="/info/privacypolicy">Privacy policy</a>
-				</td>	</tr>
-		<tr>
-			<td><a href="#" onclick="jQuery('#registerform').submit();"><img src="/content/images/sign-up-btn.png" alt=""></a>
-            </td>
-			<td class="margin">Or, sign in using facebook:</td>
-			<td>
+<div class="inner-footer">
+	<div class="container">
+    
+		<section class="newsletter-signup">
             
-        <img alt="Facebook Connect" class="BillingConnectBTn" id="fbLoginCE" src="/Content/images/Fconnect.png">
-    <script type="text/javascript">
-        //FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true });
-        $('#fbLoginCE').click(function () {
-            FB.login(function (response) {
-                if (response.session) {
-                    window.location = '/account/fblogonfinish?returnUrl=' + window.location;
-                } else {
-                    // user cancelled login
-                }
-            }, { scope: "email,user_location" });
-        });
-    </script>
 
-            </td>
-		</tr>
-		</tbody></table>
-                <script type="text/javascript">
-
-                    jQuery("#registerform").submit(function () {
-                        var options = {
-                            target: '#registerajaxform'
-                        }
-
-                        jQuery(this).ajaxSubmit(options);
-
-                        return false;
-                    });
-
-                    // We remove the submit button here - good Javascript depreciation technique
-                    jQuery(".submit").remove();
-
-
-            </script>
+<h3>Newsletter Sign Up</h3>
+<p>Be the first to know about our exclusive deals and special offers</p>
             
-       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
-</ul></div>
-        </form>
-        </div>
-</div>
-</div>
+<form action="/account/_subscribesubmit" id="newsletter" method="post">	<ol>
+		<li>
+			<label for="name">Name</label>
+			<input type="text" id="name" name="theCustomer.Firstname" value="">
+		</li>
+		<li>
+			<label for="email">Email <span class="mandatory">*</span></label>
+            <input id="email" name="theCustomer.Email" placeholder="Enter your email..." required="" type="email" value="">
+		</li>
+		<li>
+            <input type="hidden" value="0" id="theCustomer_CityID" name="theCustomer.CityID">
+			<input type="submit" value="Sign up">
+		</li>
+	</ol>
+</form><script type="text/javascript">
 
-<div id="box2">
-<div id="boxheader2">
-    Find Your Deal on MyDeal!
-   <span id="boxclose2" onclick="document.getElementById('box2').style.display='none';
-   document.getElementById('shadowing2').style.display='none'"> </span>
-   
-</div>
-<div class="cle"></div>
-<div id="boxcontent2">
-	<div id="loginajaxarea" class="left">
-    <div id="needlogin" style="display:none;color:red">*This email is already registered. Sign in now or recover your password!</div>
-       <form action="/account/_logon?returnurl=http%3a%2f%2fmydeal.com.au%2finfo%2fprivacypolicy" id="loginform" method="post">
-<script type="text/javascript">
-    $(document).ready(function () {
-        $('#ret').bind('click', function (event) {
-            event.preventDefault();
-            $.get(this.href, {}, function (response) {
-                $('#loginajaxarea').html(response)
-            })
-        })
+    $("#newsletter").submit(function () {
+        var options = {
+            target: '.newsletter-signup'
+        }
+
+        $(this).ajaxSubmit(options);
+
+        return false;
     });
+
+    // We remove the submit button here - good Javascript depreciation technique
+    $(".submit").remove();
+
+
 </script>
-
-<h2>Sign in</h2>
-	<p>Please enter your email address and password:</p>
-    
-	<table>
-	<tbody><tr>	<td valign="top" width="126px">Email:</td><td><input id="Email" name="Email" type="text" value=""></td>	</tr>
-	<tr>	<td valign="top">Password:</td><td><input id="Password" name="Password" type="password"></td>	</tr>
-	<tr>	<td>&nbsp;</td> <td><input type="image" class="submitbutton" src="/content/images/sign-in-btn.png">
- </td>	</tr>
-	<tr>	<td>&nbsp;</td> <td>
-   <a href="/account/_recoverpassword" id="ret">Um, what’s my password again?</a></td>	</tr>
-	</tbody></table>
-    <h3>Or, are you on facebook?</h3>
-            
-        <img alt="Facebook Connect" class="BillingConnectBTn" id="fbLoginCF" src="/Content/images/Fconnect.png">
-    <script type="text/javascript">
-        //FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true });
-        $('#fbLoginCF').click(function () {
-            FB.login(function (response) {
-                if (response.session) {
-                    window.location = '/account/fblogonfinish?returnUrl=' + window.location;
-                } else {
-                    // user cancelled login
-                }
-            }, { scope: "email,user_location" });
-        });
-    </script>
-
-                <script type="text/javascript">
-
-                        jQuery("#loginform").submit(function () {
-                            var options = {
-                                target: '#loginajaxarea'
-                            }
-
-                            jQuery(this).ajaxSubmit(options);
-
-                            return false;
-                        });
-
-                        // We remove the submit button here - good Javascript depreciation technique
-                        jQuery(".submit").remove();
+		</section>
+		<section class="recent-purchase">
 
 
-            </script>
-	</form>
+<a href="/deal/handy-usb-man-5-port-hub-deal-offer-"><img width="115" height="115" src="/Content/637.jpg" alt=""></a>
+<p><img src="/content/themes/bliss/images/icons/person.png" alt=""><strong><a href="/deal/handy-usb-man-5-port-hub-deal-offer-">Someone from THORNBURY has purchased a:</a></strong></p>
+<p><a href="/deal/handy-usb-man-5-port-hub-deal-offer-">Connect All Your USB Devices with a USB Man </a></p>
+		</section>
 	</div>
-    
-	<div class="right">
-	<h2>Don’t have an account yet?</h2>
-	Click here to 
-    
-                
-    <a href="#" onclick="document.getElementById('box2').style.display='none';
-   document.getElementById('shadowing2').style.display='none'; document.getElementById('shadowing').style.display='block';
-	  document.getElementById('box').style.display='block';">Register now!</a>
-                
+</div>
+<footer>
+	<div class="container">
+
 		
+<form action="/home/search" id="footer-search" method="get" role="search">			<h5>Search</h5>
+			<ol>
+				<li>
+					<label for="ftr-s">Search</label>
+					<input type="text" name="q" id="ftr-s" value="" placeholder="Search MyDeal...">
+				</li>
+				<li>
+					<input type="submit" value="">
+				</li>
+			</ol>
+</form>		<nav class="links">
+			<ul>
+				<li>
+					<h5>Company</h5>
+					<ul>
+						<li><a href="/info/contactus">Contact Us</a></li>
+						<li><a href="/info/privacypolicy">Privacy Policy</a></li>
+						<li><a href="/info/tnc">Terms &amp; Conditions</a></li>
+					</ul>
+				</li>
+				<li>
+					<h5>Account</h5>
+					<ul>
+						<li><a href="/account/register">Join</a></li>
+						<li><a href="/account/logon">Login</a></li>
+						<li><a href="/cart">My&nbsp;Cart</a></li>
+					</ul>
+				</li>
+				<li>
+					<h5>Media</h5>
+					<ul>
+						<li><a href="/info/media">Media Contacts</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+
+		<nav class="follow">
+			<h5>Follow MyDeal</h5>
+			<ul>
+				<li><a class="facebook" target="_blank" href="http://www.facebook.com/MyDealAustralia"><img src="/content/themes/bliss/images/icons/facebook.png" alt="Facebook"></a></li>
+				<li><a class="twitter" target="_blank" href="http://twitter.com/mydealau"><img src="/content/themes/bliss/images/icons/twitter.png" alt="Twitter"></a></li>
+				<li><a class="google" target="_blank" href="https://plus.google.com/113363754026345329004/posts"><img src="/content/themes/bliss/images/icons/google.png" alt="Google+"></a></li>
+				<li><a class="rss" target="_blank" href="http://mydeal.com.au/home/rss"><img src="/content/themes/bliss/images/icons/rss.png" alt="RSS"></a></li>
+			</ul>
+		</nav>
+		<p class="copyright">
+			Copyright 2013 Mydeal.com.au - © All rights reserved
+		</p>
 	</div>
-</div>
-</div>
-
-<div id="shadowing3" onclick="document.getElementById('box3').style.display='none';
-   document.getElementById('shadowing3').style.display='none'"></div>
-
-<div id="box3">
-<div id="boxheader3">
-    Suggest a Business!
-   <span id="boxclose3" onclick="document.getElementById('box3').style.display='none';
-   document.getElementById('shadowing3').style.display='none'"> </span>
-</div>
-<div class="cle"></div>
-<div id="boxcontent3">
-	<div class="left">
-	<div id="suggestajaxarea">
-       <form action="/business/_suggest" id="suggestform" method="post">
-	<h2>Let us know what business you would love to see on MyDeal and we’ll invite them to get featured!</h2>
-       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
-</ul></div>
-	<table cellspacing="5px">
-	<tbody><tr>	<td valign="top">Business Name:</td><td colspan="2"><input type="text" name="businessName"></td>	</tr>
-	<tr>	<td valign="top">Location:</td><td width="136px"><input type="text" name="location" placeholder="Enter Suburb..."></td>
-			<td width="73px"><select name="state">
-            <option> State..</option>
-            <option>ACT</option>
-            <option>NSW</option>
-            <option>NT</option>
-            <option>QLD</option>
-            <option>TAS</option>
-            <option>VIC</option>
-            <option>WA</option>
-            </select></td>	</tr>
-	<tr>	<td>Website:</td> <td colspan="2"><input type="text" name="website"> </td>	</tr>
-	<tr>	<td>&nbsp;</td> <td colspan="2"><input type="image" class="submitbutton" src="/content/images/suggest-now_btn.png" alt=""> </td>	</tr>
-	</tbody></table> 
-                    <script type="text/javascript">
-
-                        jQuery("#suggestform").submit(function () {
-                            var options = {
-                                target: '#suggestajaxarea'
-                            }
-
-                            jQuery(this).ajaxSubmit(options);
-
-                            return false;
-                        });
-
-                        // We remove the submit button here - good Javascript depreciation technique
-                        jQuery(".submit").remove();
+</footer>
 
 
-            </script>
-        </form>
-       </div>
-	</div>
-	<div class="right">
-	<h2>Or, if you are a business owner:</h2>
-	<center><a href="http://mydealshop.com.au/signup/Step1" target="_blank"><img src="/content/images/registere-now_btn.png" alt=""></a></center>
-	
-	<center><img class="margin" src="/content/images/mydeal-gray-logo.png" alt=""></center>
-	
-	</div>
-</div>
-</div>
-
-
-
-
-<div id="shadowing4" onclick="document.getElementById('box4').style.display='none';
-   document.getElementById('shadowing4').style.display='none'"></div>
-   
-<div id="box4">
-<div id="boxheader4">
-    Register Your Account
-   <span id="boxclose4" onclick="document.getElementById('box4').style.display='none';
-   document.getElementById('shadowing4').style.display='none'"> </span>
-</div>
-<div class="cle"></div>
-<div id="boxcontent4">
-	<div class="left">
-		<div class="content">
-		<h2>Got a facebook account?</h2>
-		<h4>Sign in straight away with facebook</h4>
-		<a href="#"><img src="/content/images/commingsoon/facebook-btn.png" alt="" class="margin"></a>
-		</div>
-		<div class="content">
-		<h2>Already a member?</h2>
-		
-		<a href="#" onclick="document.getElementById('box4').style.display='none';
-   document.getElementById('shadowing4').style.display='none'; document.getElementById('shadowing2').style.display='block';
-	  document.getElementById('box2').style.display='block';"><img src="/content/images/sign-in-btn.png" alt="" class="margin"></a>
-		</div>
-	 
-	</div>
-	<div class="right">
-	<div id="simpleregisterajaxarea">
-       <form action="/account/_simpleregister" id="simpleregisterform" method="post"><div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
-</ul></div>
-	<table>
-	<tbody><tr><td>First Name:</td><td><input data-val="true" data-val-required="The First Name field is required." id="Firstname" name="Firstname" type="text" value=""></td></tr>
-	<tr><td>Email Address: &nbsp;&nbsp;</td><td><input data-val="true" data-val-required="The Email address field is required." id="Email" name="Email" type="text" value=""></td></tr>
-	<tr><td>Password:</td><td><input data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="text" value=""></td></tr>
-    <input data-val="true" data-val-number="The field City must be a number." data-val-required="The City field is required." id="CityID" name="CityID" type="hidden" value="0">
-    </tbody></table>
-    <table>
-	<tbody><tr><th valign="top"><input checked="checked" data-val="true" data-val-required="The AcceptTerms field is required." id="AcceptTerms" name="AcceptTerms" type="checkbox" value="true"><input name="AcceptTerms" type="hidden" value="false"></th>
-		<th>By Signing up you agree to the MyDeal <a href="/info/tnc">Terms &amp; Conditions</a> and <a href="/info/privacypolicy">Privacy policy</a></th>
-	</tr>
-	<tr><td>&nbsp;</td><td><input type="image" class="submitbutton" src="/content/images/sign-up-btn.png" alt=""></td></tr>
-	</tbody></table>
-	<br>
-
-	
-	
-                <script type="text/javascript">
-
-                    jQuery("#simpleregisterform").submit(function () {
-                        var options = {
-                            target: '#simpleregisterajaxarea'
-                        }
-
-                        jQuery(this).ajaxSubmit(options);
-
-                        return false;
-                    });
-
-                    // We remove the submit button here - good Javascript depreciation technique
-                    jQuery(".submit").remove();
-
-
-            </script>
-            
-       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
-</ul></div>
-        </form>
-       </div>
-	</div>
-</div>
-</div>
-
-
+	<script type="text/javascript" src="/scripts/mqwatch-1.0.0.min.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.cycle2.min.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.validate.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.zoom-min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.form.js"></script> 
+    
+	<link href="/content/themes/bliss/css/customselect.jquery.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="/scripts/customselect.jquery.min.js"></script>
+    
+	<script type="text/javascript" src="/scripts/general.js"></script>
+    
+    
 
 
 </body></html>
