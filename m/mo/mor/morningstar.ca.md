@@ -1,45 +1,106 @@
-> *The following text is extracted and transformed from the morningstar.ca privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030022id_/http%3A//www.morningstar.ca/globalhome/personalize/PrivacyPolicy.asp%3Flanguage%3DENG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.ca privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513042109id_/https%3A//members.morningstar.ca/PrivacyPolicy.aspx%3Fculture%3Den-CA) for the most accurate reproduction.*
 
-# Morningstar Canada - Privacy Policy
+# Morningstar: Mutual fund investing, analysis, research, ratings and news
 
-1\. Accountability: Morningstar is responsible for personal information under its control and has designated individuals who are accountable for our compliance with the following principles. These individuals are primarily the Senior Vice-President and our Product Management Team. 
+**Privacy Policy – Our Commitment to Your Privacy**
 
-2\. Identifying Purposes: The purpose for which personal information is collected is two fold. First we need a minimum of information to be able to enter your order or to complete your registration. You will be asked to complete a registration form that requires personal information. Some examples of personal information that we request include name, email address. At time of purchase, you can choose to pay by credit card, and as such we would ask you for your credit card information. Secondly, we gather information for statistical purposes. The demographic and user profile information that we collect, such as household income, age, gender and occupation, are used only in aggregate. We do not use any demographic information of individual members. We share this aggregate information with our advertisers and use it to enhance the site by creating content and functionality that best serves the needs and interests of our membership. 
+Your privacy is very important to us. At Morningstar we want to make Your experience with us satisfying and safe.
 
-Morningstar also offers some well-screened partners the opportunity to share information about products and services that we think might be of interest to you. You can choose during the registration process whether to receive this information from Morningstar and our partners. Details on how to control the use of your information are found below. 
+This Privacy Policy outlines the types of information we gather from Your use of the product, how we use it, with whom we might share it, the means by which we keep it secure, and the choices You have about the information You choose to share with us.
 
-3\. Consent: At the time of order and/or registration, Morningstar will ensure you are aware of what information is required from you for us to complete your transaction and what information is optional. 
+Morningstar designs its products to help You make the best possible investment decisions. We are committed to providing independent, insightful investment information. We want You to be able to take advantage of Morningstar’s tools and information with complete confidence. 
 
-4\. Limiting Collection: The collection of personal information shall be limited to that which is necessary for the purpose of providing the products or services you have requested and conducting our business efficiently. 
+Every time we send You an e-mail communication, information on how to stop receiving e-mail from Morningstar is included. Please follow these instructions to stop specific emails from coming to You.
 
-Cookies
+If You have further questions about our privacy practices or this Privacy Policy, please contact us at: [caprivacypolicy@morningstar.com](mailto:caprivacypolicy@morningstar.com)
 
-"Cookies" are small text files transferred to the user's browser by a Web server and stored on the user's hard drive. Cookies are only readable by the server that originally places them; they do not run programs and do not contain viruses. 
+**Personal Information We Collect**
 
-Cookies are used to set users’ preferences, gather basic tracking information (such as login and password), date, time of visit and preferences, and to monitor the presentation of our site. The use of Cookies allows Morningstar to personalize your experience when using our online products and services. Information collected through the use of cookies does not identify you personally. You remain anonymous unless you have otherwise provided Morningstar with personal information. For additional information, please refer to the remainder of Morningstar's Privacy Policy. 
+The types of personal information we collect depend on the product or service You (“You”) receive from us. This information may include, but is not limited to:
 
-Please be aware that most web browsers automatically accept cookies. If you do not want to receive cookies, please adjust the options in your web browser to alert you when cookies are issued. You will then be able to specify whether or not to accept the cookie. Please consult your browser's manufacturer for additional information. 
+  * Your name, phone number, physical and email address
+  * Your credit card number
+  * Your demographic information, such as age, income range, investment preferences, etc
+  * Stock and fund information (e.g., stock or fund ticker symbols), if You create a personalized portfolio, as well as financial information relating to the stocks or funds You track.
 
-When you disable the use of cookies, some Morningstar product features may not work properly, preventing you from taking full advantage of Morningstar's many services and resources. 
 
-5\. Limiting Use, Disclosure, and Retention: Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with your consent or as required by the law. 
 
-During the registration process, you are given the opportunity to opt out of receiving communications from either Morningstar or other companies that Morningstar carefully selects. You can change this preference at any time by [editing your Personal Profile](https://web.archive.org/web/20101121030022id_/http%3A//www.morningstar.ca/globalhome/personalize/membership.asp) in the Membership section of the site or by calling our Client Relations department at 416-489-7074 or 1-800-531-4725. 
+**Personal Information – Why We Collect It**
 
-6\. Accuracy: We will strive to keep personal information as accurate, complete, and up-to-date as is necessary for its intended use. 
+Morningstar may collect certain personal information to provide You with investment information and tools, to perform marketing and research related activities, to supply other administrative services (e.g., set up new accounts), to respond to inquiries, etc. In addition, we may from time to time, review Your usage of the site to be able to better provide You with information about products and services that we believe may be of interest to You.
 
-7\. Safeguards: Morningstar ensures your personal information is protected by security safeguards appropriate to the sensitivity of the information. 
+**Personal Information – How We Collect It**
 
-Please note that Morningstar.ca as well as MorningstarAdvisor.ca (basic only) are unsecured sites and as such do not ensure any protection of information. 
+The personal information we collect may be captured from a variety of sources. These sources include, but are not limited to:
 
-8\. Openness: If you require further information than that available through this Privacy Policy, please contact our Operations Manager at 416-484-7810 or 1-800-531-4725 x7810. 
+  * Voluntary submissions (e.g., responses to surveys, requests for information on our products or those of our advertisers/marketing partners)
+  * Registrations/Applications to receive products or services
+  * Reviews of site usage patterns
 
-9\. Individual Access: Upon request, you shall be informed of the existence, use and disclosure of your personal information and shall be given access to that information. You shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. For our website products you can also change or edit any information you've provided in your registration and Personal Profile by visiting the [Personal Profile section](https://web.archive.org/web/20101121030022id_/http%3A//www.morningstar.ca/globalhome/personalize/membership.asp) of the Membership area. Since this information is password protected, you may be required to enter your email address and password to make any changes. For our desktop products please contact our Client Relations department at 416-489-7074 or 1-800-531-4725. 
 
-Every time we send you an e-mail communication, information on how to stop receiving e-mail from Morningstar is included. Please follow these instructions to stop specific emails from coming to you. 
 
-10\. Challenging Compliance: As a consumer, you can address any issues concerning compliance with the above principles to our designated individuals. These individuals are mainly the Senior Vice President and our Product Management Team. 
+**Use and Access of Your Personal Information With Others**
 
-If you have further questions about our privacy practices or this Privacy Policy, please contact us at: [caprivacypolicy@morningstar.com](mailto:caprivacypolicy@morningstar.com). 
+As a general rule, Morningstar will not make the personal information gathered using Morningstar.ca available to anyone outside of Morningstar and its affiliates – except as instructed by You or where required to comply with law. Please note, however, that there are several exceptions to this policy. 
 
-Last revised: March 13th, 2009 
+First, if we use service providers, these service providers may have access to Your personal information to perform contractually specified services on behalf of Morningstar or You. 
+
+Second, if You indicate that You are interested in receiving information about a particular third party's products/services, or You opt to receive certain products or services through Morningstar, we may provide Your personal information to that third party for purposes of fulfilling Your request(s). 
+
+With respect to service provider(s), Morningstar contractually requires that all personal information be kept confidential. Additionally, Morningstar takes reasonable steps to ensure that third parties receiving information about You at Your request maintain the confidentiality of that information. 
+
+**Links to Other Web Sites**
+
+Morningstar may provide links to one or more other Web sites. We encourage You to read their individual privacy policies before providing any of Your personal information to them. 
+
+**Protection of Your Personal Information**
+
+Morningstar puts reasonable security measures in place to protect against unauthorized access to, or unauthorized alteration, disclosure or destruction of personal information. These measures include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
+
+Morningstar operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided. 
+
+**Use of Cookies**
+
+Morningstar uses Cookies to set users’ preferences, gather basic tracking information (such as login and password), date, time of visit and preferences, and to monitor the presentation of our site. This information allows Morningstar to personalize Your experience when using our online products and services and improve the quality of our site navigation. Cookies do not reveal the identity of the individual user but only identify the computer utilized by that user. 
+
+Please note that advertisers on our site may also deploy cookies and other technology to gather users’ basic site usage information (such as pages visited or frequency of visits) to measure and improve the effectiveness of their advertising. For more information regarding Advertisers’ practices, including how to opt-out of their cookie tracking, please visit the advertisers’ privacy policies. 
+
+For more information regarding advertising network practices, including how to opt-out of their cookie tracking, please visit the ad network's privacy policy at: 
+
+<http://www.networkadvertising.org/optout_nonppii.asp>  
+<http://advertising.aol.com/privacy>  
+<http://casalemedia.com/privacy.html>  
+<http://www.marchex.com/legal/privacy-statement.html>
+
+For more information regarding ad serving network practices, including how to opt-out of their cookie tracking, please visit the ad server's privacy policy at: 
+
+<http://www.zedo.com/company/privacy.htm>  
+<http://mediaplex.com/MOJO_Privacy_Statement.shtml>  
+<http://www.atlassolutions.com/privacy.aspx>  
+<http://www.google.com/intl/en/privacy.html>
+
+For more information regarding the gathering of site usage information, including how to opt-out of their cookie tracking, please visit AudienceScience's privacy policy at: 
+
+<http://audiencescience.com/privacy.asp>
+
+**Accuracy of Your Personal Information**
+
+You are responsible for periodically checking to ensure that Your personal information included in this site is updated and correct. 
+
+**How to Update Your Personal Information**
+
+If You desire to update any personal information, You may do so by accessing Morningstar.ca. 
+
+**What About Children’s Privacy**
+
+Morningstar does not separately identify, or collect, any information that is specific to children. 
+
+**Your Consent**
+
+By using Morningstar.ca, You consent to the collection and use of Your personal information and any related information in the manner described in this Privacy Policy.
+
+**Changes to the Privacy Policy**
+
+Morningstar reserves the right to change this Policy at any time by distributing and/or posting a new Privacy Policy without notice. We encourage You to review our Privacy Policy on a regular basis so that You will be aware of any changes to it. 
+
+Last revised: August 2010
