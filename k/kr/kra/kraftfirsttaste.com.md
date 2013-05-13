@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015020501id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513205036id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# kraftfoods.com privacy notice
+# Kraftfoods.com Privacy Notice - Kraft Recipes
 
 This website is owned and operated by Kraft Foods Group, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. 
 
