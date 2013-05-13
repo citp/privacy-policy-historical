@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016055803id_/http%3A//www.concur.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513060234id_/http%3A//www.concur.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Concur Technologies, Inc. Privacy Policy | Concur
 
-**NOTICE OF CHANGES to Concur.com visitors: Concur has made changes to its privacy policy in an effort to better describe how it collects, uses, and shares its information. Please contact us by emailing by emailing[concurnews@concur.com](mailto:concurnews@concur.com) with any questions or concerns about these changes.**
+**NOTICE OF CHANGES to Concur.com visitors: Concur has made changes to its privacy policy in an effort to better describe how it collects, uses, and shares its information. Please contact us by emailing[concurnews@concur.com](mailto:concurnews@concur.com) with any questions or concerns about these changes.**
 
 Last Updated: March 1, 2012
 
