@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the video-buzz.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211234402id_/http%3A//policy.video-buzz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video-buzz.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513223050id_/http%3A//policy.video-buzz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Highlights of Privacy Policy
 
 **HIGHLIGHTS OF PRIVACY POLICY  
-LAST UPDATED: May 4, 2012**
+LAST UPDATED: March 13, 2013**
 
-We want you to be informed of our privacy practices. The following applies to our websites, and products, and covers how we collect and use the information we receive. This is only a summary, for more information, please read our complete [Privacy Policy](https://web.archive.org/web/20121211234402id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html).
+We want you to be informed of our privacy practices. The following applies to our websites, and products, and covers how we collect and use the information we receive. This is only a summary, for more information, please read our complete [Privacy Policy](https://web.archive.org/web/20130513223050id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html).
 
-**Information We Collect**     [Additional details](https://web.archive.org/web/20121211234402id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html#InfoCollect)
+**Information We Collect**     [Additional details](https://web.archive.org/web/20130513223050id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html#InfoCollect)
 
   * We collect information you choose to submit, for example, when you download one of our products, subscribe to our online services, or participate in a survey or contest.
   * We may obtain additional information about you, such as updated address, demographic or lifestyle information, from other sources.
@@ -15,7 +15,7 @@ We want you to be informed of our privacy practices. The following applies to ou
 
 
 
-**Uses of information**     [Additional details](https://web.archive.org/web/20121211234402id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html#UsesofInfo)
+**Uses of information**     [Additional details](https://web.archive.org/web/20130513223050id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html#UsesofInfo)
 
   * We use the information you submit to provide our services including the presentation of personalized content.
   * We use your information to inform you of other products or services offered by us and our partners.
@@ -26,7 +26,7 @@ We want you to be informed of our privacy practices. The following applies to ou
 
 
 
-**Your Choices**     [Additional details](https://web.archive.org/web/20121211234402id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html#YourChoices)
+**Your Choices**     [Additional details](https://web.archive.org/web/20130513223050id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html#YourChoices)
 
   * You may unsubscribe from our e-mail list.
   * You may direct us not to share your e-mail with other companies for offers of their products and services. You may also turn off cookies in your browser.
@@ -37,14 +37,14 @@ We want you to be informed of our privacy practices. The following applies to ou
 
   * For information and tips on children’s online privacy visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy) and [www.OnGuardOnline.gov](http://www.onguardonline.gov/)
   * Any personal information you provide will be maintained in the United States
-  * We encourage you to read our full [Privacy Policy](https://web.archive.org/web/20121211234402id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html)
+  * We encourage you to read our full [Privacy Policy](https://web.archive.org/web/20130513223050id_/http%3A//policy.video-buzz.com/PrivacyPolicy_Full.html)
 
 
 
 **How to contact us**  
-Questions about our Privacy policy or about Freeze’s handling of your information may be sent via e-mail to: either by accessing [http://support.freeze.com](http://support.freeze.com/) or by sending a message to [privacy@support.w3i.com](mailto:privacy@support.w3i.com). If you would prefer to write to us please send your correspondence to:
+Questions about our Privacy policy or about Freeze’s handling of your information may be sent via e-mail to: either by accessing [http://support.freeze.com](http://support.freeze.com/) or by sending a message to [privacy@installiq.com](mailto:privacy@installiq.com). If you would prefer to write to us please send your correspondence to:
 
-W3i, LLC  
+InstallX, LLC  
 Attention: Customer Care – Privacy Policy Issues  
 1900 Medical Arts Ave. S. Ste. 200  
 Sartell, MN 56377  
