@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexusoneforum.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223015639id_/http%3A//www.forumfoundry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexusoneforum.net privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514011430id_/http%3A//www.forumfoundry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
