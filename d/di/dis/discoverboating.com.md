@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014150333id_/http%3A//www.discoverboating.com/info/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513051655id_/http%3A//www.discoverboating.com/info/policy.htm) for the most accurate reproduction.*
 
 # Customer Privacy Policy
 
