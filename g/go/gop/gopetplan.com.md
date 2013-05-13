@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014065158id_/http%3A//www.gopetplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513221223id_/http%3A//www.gopetplan.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy from Petplan USA
+# Privacy Policy from Petplan USA
 
 At Petplan we value our relationship with our policyholders and we believe strongly in protecting your privacy. Please read this Privacy Policy carefully to learn more about the ways in which we use and protect your personal information. This Privacy Policy outlines what types of non-public personal information is collected, to whom it may be disclosed and how that information is used. 
 
