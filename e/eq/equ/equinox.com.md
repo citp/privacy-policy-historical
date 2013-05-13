@@ -1,44 +1,45 @@
-> *The following text is extracted and transformed from the equinox.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620191212id_/http%3A//www.avocent.com/web/en.nsf/Content/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinox.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513032053id_/http%3A//www.equinox.com/privacy) for the most accurate reproduction.*
 
-# Avocent - Privacy Statement
+# EQUINOX | Privacy Policy
 
-**Avocent Respects Your Privacy**  
-Avocent Corporation and its affiliates respect your privacy and are committed to protecting it. This Privacy Statement is designed to inform you of our privacy policies and practices and of the choices you can make about the way information is collected from you online and how that information is used. In general, you can visit our website without telling us who you are or revealing any personal information about yourself. As detailed below, however, there are times when we may need information from you.
+## Privacy Policy
 
- **Collection of Personal Information**
+At Equinox Fitness Clubs we respect your concerns about privacy. This policy is intended to ensure your information is handled in a safe and responsible manner. As we continue to evolve our Web site and incorporate new technologies to improve communication, our policies may change. We encourage you to refer to this policy on an ongoing basis to stay abreast of our most current Privacy Policy practices.
 
-The personal information we may request includes your name, title, company or organization name, email address, phone number, address, billing or credit card information, and other similar personal information. We may also collect other information about your visit to this website including data on the pages you visit, unique URLs (Uniform Resource Locators that specify a unique global address of documents or other resources on the internet) visited on the website, browser type, and IP address. Most of this data is collected via cookies or other analysis technologies. Avocent use cookies, Web beacons, and other technologies for data analysis and personalization services. Avocent also places ads on other websites that may use cookies. Avocent collects and analyzes this information to evaluate how visitors use the website.
+##### What information do we collect?
 
-Personal data we collect online from you may also be combined with information you provide Avocent through other sources such as product registration, call centers, or public events such as trade shows or seminars. Personal data given to Avocent may be transferred across state and country borders for the purposes of data consolidation, storage, and simplified customer information management.
+Currently, Equinox.com gathers information (such as name, e-mail address and zip code) strictly for contact purposes when users opt to fill out an e-mail submission form to inquire about our company and about membership. In some cases we ask for other optional information including additional contact information and certain demographic information (such as phone number and gender).
 
- **Use of Personal Information**
+##### How do we use your information?
 
-Avocent uses your personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers, and to improve this website. Occasionally we may also use your information to contact you for market research regarding Avocent products or services.
+We may use your information to communicate special offers, promotions and information about our company to you via email. If you do not wish to receive these emails you will have the option to opt out of future mailings (see the section below). We may also use your information to compile usage statistics and other data regarding the use of the Web site services. We will not share your personally identifiable information with third parties, outside of the limited circumstances referenced in the paragraph immediately below. We may, however, share with partners aggregated statistical data that includes users' demographic information but does not identify them. We reserve the right to provide any and all such aggregated and non-individually identifiable data to third parties.
 
-In addition, Avocent may disclose personal information in connection with law enforcement, fraud prevention, regulation, or other legal action if Avocent reasonably believes it is necessary to do so to protect Avocent, its employees or  
-customers, or the public.
+##### How do we use your email information?
 
- **Sharing of Personal Information**
+At Equinox Fitness Clubs we respect your concerns about privacy. We collect email information to provide a more personalized and relevant experience. If you give us your email address on the home page, when you inquire about membership or sign up, we will send you emails about exclusive offers, news at Equinox and new club openings. If you have previously opted out of receiving emails from us, providing updated information will act as an 'opt back-in'.
 
-Avocent shares customer information with Avocent-owned subsidiaries and with other business entities and companies working on our behalf for the purposes of performing services for Avocent and responding to your requests for products or services. Suppliers and service providers are required to keep confidential the information received on behalf of Avocent and may not use it for any purpose other than to carry out the services they are performing for Avocent. These service providers may change or we may contract with additional service providers to better accommodate our customers. Avocent will not sell, rent, or lease your personal information to others without your permission.
+If you want to opt-out of receiving promotional emails, simply click on the unsubscribe link located on the bottom of all of our emails. Although we strive to update our email list as frequently as possible, you might receive another contact before we are able to remove you. Please note that you will continue to receive Member Services related communications as it pertains to your member account. Equinox may use any of your contact information held on file (including Email, Mailing, Phone & Fax) to communicate with you in relation to day to day administrative activities, such as freeze requests, online purchases and important service alerts. Equinox Fitness Clubs never sells or rents your name, e-mail address, or any other personally identifiable information to third-parties.
 
- **Security and Accuracy Personal Information**
+##### We only share user information in the ways described below:
 
-Avocent strives to keep your personal information secure and accurate. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Avocent has implemented a variety of security technologies and management processes and policies to maintain customer data security and accuracy. For example, we use Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data, and we store personal information on servers with limited access that are located in controlled facilities. We will provide you with access to your information, including the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data.
+Agents: We employ other companies and individuals to perform functions on our behalf. Examples include creating and maintaining our Web site, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
- **Children's Privacy**
+Protection of Equinox Holdings, Inc. and Equinox Fitness Clubs: We release account and other personal information when we believe release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Equinox Holdings, Inc., our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
 
-Avocent is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Avocent does not knowingly collect information from children under the age of 13, and Avocent does not target its website to children under 13.
+##### Do we use cookies?
 
- **Links to Other Websites**
+We use cookies to enhance your experience on our web site. For example a cookie enables us to remember the region or specific club page you have visited so the next time you return to our site you do not have to select that club or region again.
 
-This Avocent website provides links to third-party websites for your convenience and information. If you access those links, you will leave this Avocent website. Avocent does not control those websites or their privacy practices, which may differ from Avocent's. We do not endorse or make any representations about any third-party websites. The personal data you choose to give to unrelated third parties is not covered by this Avocent Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third-party companies may choose to share their personal data with Avocent, and that sharing is governed by that third-party company's privacy policy.
+You can set your Internet browser (like Internet Explorer or Netscape) to warn you every time a cookie is sent, or to turn off all cookies. See your browser's Help menu for these instructions. By disabling your cookies you will not have access to some of the features that enhance your user experience on our site.
 
- **Cookies and Other Web technologies**
+##### How do we protect children on our web site?
 
- **Your Choices and Opting Out**  
-Avocent gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and Avocent marketing communications. Avocent communications may include new product information, special offers, or an invitation to participate in market research. If you do not want to be included on Avocent’s marketing list, simply tell us at the time we ask for your personal information. You may also opt out of our marketing communications or update your personal information, by contacting [optOut@avocent.com](mailto:optout@avocent.com). This option does not apply to communications for the purpose of administering order completion, contracts, support, product safety warnings, or driver updates.
+We are committed to making a safe environment for children on our site. When we collect information for membership inquiry purposes, users are informed they must be at least 18 years of age or have parental consent to provide personally identifying information to us. We encourage parents to monitor children's Internet use to keep them safe while navigating Equinox.com and all other areas of the Internet.
 
-If there are updates to the terms of this Privacy Statement, we will post those changes and update the revision date in this document, so you will always know what information we collect online, how we use it, and what choices you have.
+##### Does this Privacy Policy apply to external links found on this Web site?
 
-We value your opinions. If you have comments or questions about this Privacy Statement, please send them to the [marketing@avocent.com](mailto:marketing@avocent.com) or write to us at the following address:
+While this site may contain links to other sites, please note that when you click on one of these links, you are 'clicking' away from Equinox.com to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. We are not responsible for the privacy practices or the content of such Web sites.
+
+##### How can you contact Equinox Fitness Clubs?
+
+If you have questions regarding our Privacy Policy, other areas of our Web site or our clubs, please [contact us](https://web.archive.org/contactus). Your feedback is always welcome and appreciated.
