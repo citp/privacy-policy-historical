@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wd2go.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016194729id_/http%3A//products.wdc.com/%3Fid%3Dwd2go%26type%3Dprivacypolicy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wd2go.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513211239id_/http%3A//products.wdc.com/%3Fid%3Dwd2go%26type%3Dprivacypolicy%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
