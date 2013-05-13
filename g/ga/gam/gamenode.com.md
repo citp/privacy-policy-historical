@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamenode.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014142722id_/http%3A//www.gamenode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenode.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513194859id_/http%3A//www.gamenode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GameNode Free Online Games
 
