@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cogzideltemplates.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111175010id_/http%3A//www.cogzideltemplates.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogzideltemplates.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513023742id_/http%3A//www.cogzideltemplates.com/privacy_policy) for the most accurate reproduction.*
 
 # Cogzidel Templates - Ready to use Templates, Logos, Fonts, Headers, Flash Intros
 
@@ -36,7 +36,7 @@ Information collected on this site is strictly for our use, NO OTHER OUTSIDE PER
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [major@cogzidel.com.](mailto:major@cogzidel.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [support@cogzidel.com.](mailto:support@cogzidel.com)
 
 **Acceptable Use Policy**
 
@@ -62,7 +62,7 @@ Cogzidel Templates does not allow adult content and will suspend/terminate any o
 
 **Large File Policy:**
 
-Cogzidel Templates is not for file hosting and distribution - as such, customers may not host any files larger than 50MB in size that are observed to be available for the sole purpose of download. Such files include but are not limited to .ISO, audio/video files, .EXE files. If you are unsure whether your file is against this policy, please e-mail [major@cogzidel.com.](mailto:major@cogzidel.com)
+Cogzidel Templates is not for file hosting and distribution - as such, customers may not host any files larger than 50MB in size that are observed to be available for the sole purpose of download. Such files include but are not limited to .ISO, audio/video files, .EXE files. If you are unsure whether your file is against this policy, please e-mail [support@cogzidel.com.](mailto:support@cogzidel.com)
 
 **Obscene Speech or Materials:**
 
@@ -112,4 +112,4 @@ Cogzidel Templates will not intentionally monitor private electronic mail messag
 
 Cogzidel Templates expects that its subscribers who provide Internet services to others will comply fully with all applicable laws concerning the privacy of online communications. A subscriber's failure to comply with those laws will violate Cogzidel Templates policy. Finally, Cogzidel Templates wishes to emphasize that, in signing the Service Agreement, subscribers indemnify Cogzidel Templates for any violation of the Service Agreement, law or Cogzidel Templates policy resulting in loss to Cogzidel Templates or the bringing of any claim against Cogzidel Templates by any third party. This means that, if Cogzidel Templates is sued because of a subscriber's or customer of a subscriber's activity, the subscriber will be responsible for payment of any damages awarded against Cogzidel Templates, plus costs and reasonable attorney's fees.
 
-We hope this AUP is helpful in clarifying the obligations of Internet users, including Cogzidel Templates and its subscribers, as responsible members of the Internet. Any complaints about a subscriber's violation of this AUP should be sent to [major@cogzidel.com](mailto:major@cogzidel.com).
+We hope this AUP is helpful in clarifying the obligations of Internet users, including Cogzidel Templates and its subscribers, as responsible members of the Internet. Any complaints about a subscriber's violation of this AUP should be sent to [support@cogzidel.com](mailto:support@cogzidel.com).
