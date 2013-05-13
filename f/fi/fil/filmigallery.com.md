@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmigallery.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224155id_/http%3A//www.filmigallery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmigallery.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513233632id_/http%3A//filmigallery.org/privacy.php) for the most accurate reproduction.*
 
-# FilmiGallery.com Privacy Policy - Filmi Gallery
+# Fropki.org Privacy Policy - Filmi Gallery
 
 Wow, you are interested. We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line by clicking [here](http://www.filmigallery.com/contact.php)
 
