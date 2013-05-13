@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033244id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513023426id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at OutdoorPros.com
-
-[](https://web.archive.org/Brands/5-11-Tactical/246)
-
-[Home](https://web.archive.org/) > **Privacy Policy**
 
 #### Overview
 
@@ -58,9 +54,6 @@ We periodically send emails such as, account emails, order emails, product email
 
 **Contact Information and Third Party Data**  
 If you contact OutdoorPros.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.
-
-**Product Reviews**  
-OutdoorPros.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by OutdoorPros.com. When you submit a product review to OutdoorPros.com, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/index_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [http://www.Buzzillions.com](http://www.buzzillions.com/) and OutdoorPros.com.
 
 **Customer Service**  
 We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information.
