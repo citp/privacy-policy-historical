@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michelinman.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120075918id_/http%3A//www.michelinman.com/sites/michelincom/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelinman.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513141232id_/http%3A//www.michelinman.com/sites/michelincom/privacy.page) for the most accurate reproduction.*
 
-# Michelin Privacy Policy
+# Michelin Privacy | Michelin Tires
 
 ### Michelin Practices Related to the Protection of Confidential Personal Data
 
@@ -97,7 +97,7 @@ Top
 
 Michelin is an international company that has databases in the various countries where it operates. Michelin can transfer your personal data within the company or to its external partners located outside of your home country.  
 Because the level of data protection is not homogeneous on a world level, we do not transmit your personal data to third party companies outside of the European Union unless these companies offer contractually the same or similar level of protection of your personal data that Michelin offers.   
-For the transfers within Michelin, the company has adopted Binding Corporate Rules (“BCRs”) to govern the transfers of personal data coming from the European Union. If you click on “[BCRs](https://web.archive.org/assets/mediabin/Approved/Michelin/Visuals/Digital/12-0_Privacy-Policy_BCRs_en.pdf "BCR"),” you will find a copy of the rules.
+For the transfers within Michelin, the company has adopted Binding Corporate Rules (“BCRs”) to govern the transfers of personal data coming from the European Union. If you click on “[BCRs](https://web.archive.org/mediabin/Approved/Michelin/Visuals/Digital/12-0_Privacy-Policy_BCRs_en.pdf "BCR"),” you will find a copy of the rules.
 
 Top
 
