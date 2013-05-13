@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202145659id_/https%3A//wescom.org/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513183557id_/https%3A//www.wescom.org/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy | Wescom Credit Union
 
 ## Wescom Credit Union Disclosure of Privacy Policy
 
-[Click here for a printable version of our privacy policy](https://web.archive.org/web/20121202145659id_/https%3A//wescom.org/info/privacypolicy.html).
+[Click here for a printable version of our privacy policy](https://web.archive.org/web/20130513183557id_/https%3A//www.wescom.org/info/privacypolicy.html).
 
 Wescom Credit Union | Privacy Policy | 
 
@@ -57,7 +57,7 @@ To limit our sharing
 | 
 
   * Call 1-888-4WESCOM—our menu will prompt you through your choice(s)
-  * Visit us online: [www.wescom.org](https://web.archive.org/bin/pdf/privacypolicy/SB-1_Privacy_Policy.pdf)
+  * Visit us online: [www.wescom.org](https://s3-us-west-1.amazonaws.com/wescommarketing/privacypolicy/SB-1-Privacy-Policy.pdf)
   * Mail the form below
 
 
@@ -208,6 +208,6 @@ If you are a California resident, California state law gives you additional righ
 
 
 
-If you are a California resident, please read the form entitled “[Important Privacy Choices for Consumers](https://web.archive.org/bin/pdf/privacypolicy/SB-1_Privacy_Policy.pdf)” which includes details on how you can limit our information sharing under California law.  
+If you are a California resident, please read the form entitled “[Important Privacy Choices for Consumers](https://s3-us-west-1.amazonaws.com/wescommarketing/privacypolicy/SB-1-Privacy-Policy.pdf)” which includes details on how you can limit our information sharing under California law.  
   
-[Click here for a printable version of our privacy policy](https://web.archive.org/web/20121202145659id_/https%3A//wescom.org/info/privacypolicy.html).
+[Click here for a printable version of our privacy policy](https://web.archive.org/web/20130513183557id_/https%3A//www.wescom.org/info/privacypolicy.html).
