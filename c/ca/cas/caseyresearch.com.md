@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caseyresearch.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231054518id_/http%3A//www.caseyresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseyresearch.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513224028id_/http%3A//www.caseyresearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Casey Research, LLC Privacy Policy - Casey Research
+# Casey Research, LLC Privacy Policy | Casey Research
 
 This Privacy Policy applies to the websites (together, the "Sites") that are owned or operated by Casey Research, LLC (referred to herein as "we," "us," and "our"), including CaseyResearch.com, KitcoCasey.com and any other websites that display or link to this Privacy Policy. We collect certain personal information based upon and as a result of the use of our Sites by visitors and subscribers (referred to herein as "you" or "your"). Our collection and use of your information will be conducted in accordance with this Privacy Policy.
 
