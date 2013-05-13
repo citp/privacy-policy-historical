@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215258id_/http%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513233108id_/http%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DivX.com
 
 Your use of and access to any website or software application owned by Rovi (‘Rovi Property(ies)’) either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it.
 
-We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [privacy@rovicorp.com.](mailto:privacy@rovicorp.com. "Privacy Email").
+We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [privacy@rovicorp.com](mailto:privacy@rovicorp.com. "Privacy Email").
 
 **Contents**
 
