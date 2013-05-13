@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warnerclassics.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107052742id_/http%3A//www.warnerclassics.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnerclassics.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513094636id_/http%3A//www.warnerclassics.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Warner Classics
 
@@ -66,7 +66,7 @@ If we decide to change this Privacy Policy, those changes will be posted on this
 
 **How to Contact Us**
 
-If you have any questions or comments about this Privacy Policy please feel free to contact us at [ukclassics@warnermusic.com](mailto:ukclassics@warnermusic.com)
+If you have any questions or comments about this Privacy Policy please feel free to contact us at **[ukclassics@warnermusic.com](mailto:ukclassics@warnermusic.com)**
 
 **Children**
 
@@ -83,3 +83,7 @@ LONDON
 W8 4EH
 
 UK
+
+Tel:  +44 (0)20 7568 3500
+
+Email:  ukclassics@warnermusic.com 
