@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028203250id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514000734id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Bike EXIF
 
