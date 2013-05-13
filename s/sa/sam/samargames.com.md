@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samargames.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021081550id_/http%3A//www.samargames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samargames.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513233709id_/http%3A//www.samargames.com/privacy.php) for the most accurate reproduction.*
 
 # Samar games - Privacy Policey
 
