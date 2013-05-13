@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricwiki.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127214537id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricwiki.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513184928id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wikis from Wikia - Join the best wiki communities
 
