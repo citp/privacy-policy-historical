@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quintly.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103210057id_/http%3A//www.quintly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quintly.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514005003id_/http%3A//www.quintly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - quintly
 
@@ -72,4 +72,4 @@ We are always seeking to improve our Web sites and our business. In accomplishin
 
 By using the QUINTLY Services, you consent to the collection and use of information by SMT as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Please send any questions about SMT’s Privacy Policy to: privacy@allfacebookstats.com
+Please send any questions about SMT’s Privacy Policy to: info@quintly.com
