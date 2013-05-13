@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allfreekidscrafts.com privacy policy that was archived on 2012-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022072235id_/http%3A//www.allfreekidscrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allfreekidscrafts.com privacy policy that was archived on 2013-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513220017id_/http%3A//www.allfreekidscrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -15,7 +15,7 @@
 	<title>Privacy Policy | AllFreeKidsCrafts.com</title>
 	
 	<meta name="keywords" content="craft ideas for kids, arts and crafts for kids, art and craft for kids, art and craft for children, Sunday school crafts, kids' clay crafts, art and craft ideas for kids, crafts for girls, homemade crafts for boys, recycled crafts for kids, crafts for kids, kids outdoor crafts, back to school, kids'">
-	<meta name="description" content="Privacy Policy.">
+	<meta name="description" content="AllFreeKidsCrafts.com Privacy Policy.">
 	
 	
 		
@@ -49,24 +49,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
 	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=3" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.form.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=3"></script>
 	
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/site_functions.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=3"></script>
 	
 	
 	
@@ -90,7 +90,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 9118');
+					//alert('getJavascript_topSocialLinks ready line: 10702');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -150,7 +150,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 14250');
+					//alert('getJavascript_loginDhtmlContent ready - line: 15938');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -199,23 +199,40 @@
 						$('.dhtmlLoginWrapper .facebookLoginButton').click(
 							 function(){
 								 //alert('click facebookLoginButton');
+								 //console.log('click facebookLoginButton');
+								 
 								 //FB.login();
 								 $(this).fadeTo('normal', 0.3);
 								 $('#dhtmlLogin .feedbackDiv').html('<img src="/images/ajax-loader-bar.gif" alt="Loading" width="220" height="19" />');
 								 
 								 FB.login(
+								 	/*
+								 	2012-12-20
+								 	this location of scope caused js errors, after months of working
 								 	{
 										scope: 'email'
 									},
+									*/
 								  	function(response){
    										// handle the response
-   										var alert_str = 'back from FB.login' + "\n\n";
-   										alert_str += 'response: ' + response + "\n\n";
-   										alert_str += 'response.scope: ' + response.email + "\n\n";
-   										alert_str += 'response.status: ' + response.status + "\n\n";
-   										alert_str += 'response.name: ' + response.name + "\n\n";
-   										//alert(alert_str);
-									}
+   										//console.log(response);
+   										
+   										if (response.authResponse) {
+   											//console.log('Welcome!  Fetching your information.... ');
+   										}else{
+   											
+   											// undo some user feedback that ran when the user clicked the fb button
+   											$('.dhtmlLoginWrapper .facebookLoginButton').fadeTo('normal', 1.0);
+   											$('#dhtmlLogin .feedbackDiv').html('');
+   											
+   											//console.log('User cancelled login or did not fully authorize.');
+   										}
+									},
+									/* 
+									2012-12-20
+									this location of scope works, at least for now...
+									*/
+									{scope: 'email'}
 								);
 								//login_dhtml_obj.hideLoginDhtmlBox();
 							 }
@@ -308,6 +325,10 @@
 									if(json.success == 1){
 										//alert('success');
 										feedback_div = 'We sent your password to ' + json.email;
+									}else if(json.is_banned == 1){
+										feedback_div = 'We could not send the password for your account.<br />';
+										feedback_div += '<a href="/index.php/hct/contact_us_page">Please click here to contact customer support.</a>';
+										
 									}else{
 										feedback_div = 'We could not find an account for your email.';
 									}
@@ -478,7 +499,7 @@ var signup_redirect_qry_params = new Array();
 signup_redirect_qry_params['email'] = false;
 
 
-var signup_redirect_url = 'http://www.pdapi.com/cs/JSI/v1/prime/?pub=17&email=[email]&ExitURL=http://www.allfreekidscrafts.com';
+var signup_redirect_url = 'https://www.clear-request.com/oi/display?PID=19225786&EM=[email]&URL=http://www.allfreekidscrafts.com/index.php/hct/Free-Kids-Craft-eBooks';
 
 	var nscID = 62;
 	
@@ -1087,7 +1108,9 @@ function animateDhtmlSignup(){
 	//alert('animateDhtmlSignup');
 	
 	// move user to top of the page
-	window.location = '#';
+	//window.location = '#';
+	
+	//console.log('animateDhtmlSignup');
 	
 	var doc_width = $(document).width();
 		var doc_height = $(document).height();
@@ -1103,35 +1126,60 @@ function animateDhtmlSignup(){
 	$("#newsletterSignUpDivAnime").css("left", popup_left + 'px');
 	$("#newsletterSignUpDivAnime").show();
 	
+	
+	
 	$("#newsletterSignUpDivAnime").animate(
-			{"top": "10px"}, 
-			"slow",
-			'',
-			function () {
+		{"top": "10px"}, 
+		"slow",
+		'',
+		function () {
 
-				// this fires after the popup is in place
-				// fade out the div that will be placed over the page
-				// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
-				
-				$('#viewportGreyout').fadeTo(
-					"fast", 
-					0.0,
-					function () {
-						
-						// set some css for the div then fade it in
-						$('#viewportGreyout').css(
-							{
-								'top' : '0',
-								'left' : '0',
-								'width' : doc_width + 'px',
-								'height' : doc_height + 'px',
-								'background-color' : '#000'
-							}
-						).fadeTo("slow", 0.8);
+			// this fires after the popup is in place
+			// fade out the div that will be placed over the page
+			// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
+			
+			$('#viewportGreyout').fadeTo(
+				"fast", 
+				0.0,
+				function () {
+					
+					// set some css for the div then fade it in
+					$('#viewportGreyout').css(
+						{
+							'top' : '0',
+							'left' : '0',
+							'width' : doc_width + 'px',
+							'height' : doc_height + 'px',
+							'background-color' : '#000'
+						}
+					).fadeTo("slow", 0.8);
+				}
+			);
+			
+			
+			
+			// 2013-04-30
+			// added to remedy a chrome dhtml display issue
+			// the page might be scrolled to the middle, so the usr cannot see the top, where the dhtml is located
+			var body_top = parseInt($('body').css('top'));
+			if(isNaN(body_top)){
+				body_top = 10;
+			}
+			//console.log('body_top ' + body_top );
+			//console.log('typeof body_top ' + typeof body_top );
+			
+			
+			if( body_top > 0 ){
+				$('body').css(
+					{
+						'top': '0px'
 					}
 				);
+				
+				//console.log('2 body top ' + $('body').css('top') );
 			}
-		);
+		}
+	);
 }
 
 //------------------------------------------------------------------------------------------------------------
@@ -1424,27 +1472,33 @@ function triggerWiderFunnel(){
 			
 	
 	
-				<!-- START GOOGLE AD MANAGER CODE V2 -->
-			<!-- http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=112649 -->
-			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+				<!-- START Google Publisher Tag - Asynchronous -->
 			<script type="text/javascript">
-				GS_googleAddAdSenseService("ca-pub-3960203165302510");
-				GS_googleEnableAllServices();
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+					var gads = document.createElement('script');
+					gads.async = true;
+					gads.type = 'text/javascript';
+					var useSSL = 'https:' == document.location.protocol;
+					gads.src = (useSSL ? 'https:' : 'http:') + 
+					'//www.googletagservices.com/tag/js/gpt.js';
+					var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(gads, node);
+				})();
 			</script>
+			
 			<script type="text/javascript">
-										GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeKidsCrafts-com_header-int-A_728-90");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeKidsCrafts-com_left-rail-A_120-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeKidsCrafts-com_right-rail-A_160-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeKidsCrafts-com_right-rail-B_300-250");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeKidsCrafts-com_right-rail-C_300-250");
-										
-				// set a PAGE LEVEL attribute for ALL ads
-				GA_googleAddAdSensePageAttr("google_page_url", "http://www.allfreekidscrafts.com/index.php/hct/privacy_policy");
+				googletag.cmd.push(function() {
+												googletag.defineSlot('/1049349/AllFreeKidsCrafts-com_header-int-A_728-90', [[728,90]], 'div-gpt-ad-1363381589123-0').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeKidsCrafts-com_left-rail-A_120-600', [[120,600]], 'div-gpt-ad-1363381589123-1').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeKidsCrafts-com_right-rail-B_300-250', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363381589123-4').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeKidsCrafts-com_right-rail-C_300-600', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363381589123-5').addService(googletag.pubads());
+												googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+				});
 			</script>
-			<script type="text/javascript">
-				GA_googleFetchAds();
-			</script>
-			<!-- END GOOGLE AD MANAGER CODE V2 -->
+			<!-- END Google Publisher Tag - Asynchronous -->
 				
 	
 	
@@ -1649,14 +1703,33 @@ function triggerWiderFunnel(){
 			var facebook_login_obj = {};
 
 			window.fbAsyncInit = function() {
+			
+				//console.log('call to window.fbAsyncInit line 15768');
+			
 				FB.init({
-					appId      : '370274179684114', // App ID Favecrafts
+					appId      : '576928232326412', // App ID Favecrafts
 					
 					channelUrl : '//http://www.allfreekidscrafts.com/channel.php', // Channel File
 					status     : false, // check login status
 					cookie     : true, // enable cookies to allow the server to access the session
 					xfbml      : true  // parse XFBML
 				});
+				
+				
+				/*
+				FB.getLoginStatus(function(response) {
+					  if (response.status === 'connected') {
+					    // connected
+					    console.log('connected');
+					  } else if (response.status === 'not_authorized') {
+					    // not_authorized
+					    console.log('not_authorized');
+					  } else {
+					    // not_logged_in
+					    console.log('not_logged_in');
+					  }
+				});
+				*/
 				
 				// listen for and handle auth.statusChange events
 				FB.Event.subscribe(
@@ -1784,10 +1857,14 @@ function triggerWiderFunnel(){
 		</script>
 		<!-- END Facebook Javascript SDK js -->
 			
+				
+		
 </head>
 <body id="site56" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
+
+
 
 
 
@@ -1870,15 +1947,15 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf.primecp.com/site_templates/0003/images/site_logo_internal_sID56.gif?v=3" alt="AllFreeKidsCrafts.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID56.gif?v=3" alt="AllFreeKidsCrafts.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 10px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.allfreekidscrafts.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
-											<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeKidsCrafts-com_header-int-A_728-90 -->
+											
+					<!-- AllFreeKidsCrafts-com_header-int-A_728-90 -->
+					<div id="div-gpt-ad-1363381589123-0" style="width: 728px; height:90px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeKidsCrafts-com_header-int-A_728-90"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381589123-0'); });						</script>
 					</div>
 										</td>
 				</tr>
@@ -1889,6 +1966,9 @@ function triggerWiderFunnel(){
 					<table id="headerMenu56">
 						<tbody><tr>
 															<td class="firstTD">
+									<a href="http://www.favecraftsblog.com/">Blog </a>
+								</td>
+																<td class="">
 									<a href="http://www.allfreekidscrafts.com/tag/backtoschool">Back to School</a>
 								</td>
 																<td class="">
@@ -1901,7 +1981,7 @@ function triggerWiderFunnel(){
 									<a href="http://www.cutratecrafts.com/search.php?task=run_search&amp;search_term=Kids+Crafts">Kids Craft Store</a>
 								</td>
 																<td class="">
-									<a href="http://www.allfreekidscrafts.com/index.php/hct/Reviews-and-Giveaways">Reviews &amp; Giveaways</a>
+									<a href="http://www.allfreekidscrafts.com/index.php/hct/Reviews-and-Giveaways">Giveaways</a>
 								</td>
 									
 							<td class="lastTD">
@@ -1964,8 +2044,6 @@ function triggerWiderFunnel(){
 											</li>
 										<li class=""><a class="" href="/Kids-Craft-Designers">Kids Craft Designers</a>
 											</li>
-										<li class=""><a class="" href="/Kids-Craft-Reviews">Kids Craft Reviews</a>
-											</li>
 										<li class=""><a class="" href="/Kids-Decorative-Crafts">Kids Decorative Crafts</a>
 											</li>
 										<li class=""><a class="" href="/Kids-Games-Crafts">Kids Games Crafts</a>
@@ -1978,6 +2056,8 @@ function triggerWiderFunnel(){
 											</li>
 										<li class=""><a class="" href="/Learning-Activities-for-Children">Learning Activities for Children</a>
 											</li>
+										<li class=""><a class="" href="/Miscellaneous-Crafts-for-Kids">Miscellaneous Crafts for Kids</a>
+											</li>
 										<li class=""><a class="" href="/Organizing-Ideas">Organizing Ideas</a>
 											</li>
 										<li class=""><a class="" href="/Paint-Sculpt-and-Color">Paint, Sculpt &amp; Color</a>
@@ -1985,6 +2065,10 @@ function triggerWiderFunnel(){
 										<li class=""><a class="" href="/Play-and-Pretend">Play &amp; Pretend</a>
 											</li>
 										<li class=""><a class="" href="/Recycled-Kids-Crafts">Recycled Kids Crafts</a>
+											</li>
+										<li class=""><a class="" href="/Reviews">Reviews</a>
+											</li>
+										<li class=""><a class="" href="/Seasonal-Kids-Crafts">Seasonal Kids Crafts</a>
 											</li>
 										<li class=""><a class="" href="/Travel-Activities-for-Kids">Travel Activities for Kids</a>
 											</li>
@@ -1996,11 +2080,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 30px 0;">
-													<div style="width: 125px; margin: 0 auto;">
-						<!-- ca-pub-3960203165302510/AllFreeKidsCrafts-com_left-rail-A_120-600 -->
+													
+					<!-- AllFreeKidsCrafts-com_left-rail-A_120-600 -->
+					<div id="div-gpt-ad-1363381589123-1" style="width: 120px; height:600px; margin: 0 auto;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeKidsCrafts-com_left-rail-A_120-600"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381589123-1'); });						</script>
 					</div>
 												</div>
 												
@@ -2009,13 +2093,11 @@ function triggerWiderFunnel(){
 												<div style="margin: 0 0 15px 0;">
 								<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.AllFreeKidsCrafts.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
-<p>
+	Revised and posted as of March 4, 2013<br>
+	<br>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
-	This Privacy Policy will tell you, among other things:</p>
+	<strong>This Privacy Policy will tell you, among other things:</strong></p>
 <p>
 	Your California privacy rights.<br>
 	How we collect information and what information we collect.<br>
@@ -2023,22 +2105,22 @@ function triggerWiderFunnel(){
 	How we may share information.<br>
 	Your choices regarding the sharing of information.</p>
 <p>
-	ACKNOWLEDGEMENT/YOUR AGREEMENT<br>
+	<strong>ACKNOWLEDGEMENT/YOUR AGREEMENT</strong><br>
 	Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.</p>
 <p>
-	YOUR CALIFORNIA PRIVACY RIGHTS<br>
+	<strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong><br>
 	Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.</p>
 <p>
-	HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?<br>
+	<strong>HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?</strong><br>
 	We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.</p>
 <p>
-	Distribution Partners<br>
+	<strong>Distribution Partners</strong><br>
 	Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.</p>
 <p>
-	Offer Forms<br>
+	<strong>Offer Forms</strong><br>
 	We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.</p>
 <p>
-	Website Registration Forms<br>
+	<strong>Website Registration Forms</strong><br>
 	We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:<br>
 	e-mail address<br>
 	full name<br>
@@ -2047,13 +2129,13 @@ function triggerWiderFunnel(){
 	date of birth<br>
 	gender</p>
 <p>
-	Publisher Partners<br>
+	<strong>Publisher Partners </strong><br>
 	When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.</p>
 <p>
-	Marketing Partners<br>
+	<strong>Marketing Partners</strong><br>
 	We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.</p>
 <p>
-	Automatic Information/Digital Identifiers<br>
+	<strong>Automatic Information/Digital Identifiers</strong><br>
 	We may automatically receive and store certain types of information about you through the data sources listed above.</p>
 <p>
 	You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.</p>
@@ -2062,49 +2144,49 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.</p>
 <p>
-	Government Forms<br>
+	<strong>Government Forms</strong><br>
 	The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.</p>
 <p>
-	HOW DO WE USE THIS INFORMATION?<br>
+	<strong>HOW DO WE USE THIS INFORMATION?</strong><br>
 	We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
 <p>
-	Ad Serving<br>
+	<strong>Ad Serving</strong><br>
 	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
 <p>
 	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.</p>
 <p>
-	Pre-select/Pre-fill Offers<br>
+	<strong>Pre-select/Pre-fill Offers</strong><br>
 	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
 <p>
-	Upsell<br>
+	<strong>Upsell </strong><br>
 	We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.<br>
 	<br>
-	Customer Service and Fulfillment<br>
+	<strong>Customer Service and Fulfillment</strong><br>
 	We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.</p>
 <p>
-	Credit Card Preauthorization<br>
+	<strong>Credit Card Preauthorization</strong><br>
 	By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.</p>
 <p>
-	Marketing<br>
+	<strong>Marketing</strong><br>
 	We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.</p>
 <p>
-	HOW DO WE SHARE INFORMATION?<br>
+	<strong>HOW DO WE SHARE INFORMATION?</strong><br>
 	We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
 <p>
-	Within the Company<br>
+	<strong>Within the Company </strong><br>
 	We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.</p>
 <p>
-	Vendors<br>
+	<strong>Vendors</strong><br>
 	We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.</p>
 <p>
-	Advertisers<br>
+	<strong>Advertisers</strong><br>
 	When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.</p>
 <p>
 	When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.</p>
 <p>
 	When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.</p>
 <p>
-	Ad Serving Companies<br>
+	<strong>Ad Serving Companies </strong><br>
 	We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.</p>
 <ul>
 	<li>
@@ -2115,15 +2197,18 @@ function triggerWiderFunnel(){
 		Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</li>
 </ul>
 <p>
-	Marketing Partners<br>
+	<strong>Marketing Partners</strong><br>
 	We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.</p>
 <p>
-	Data Enhancement/Appending/Validation<br>
+	<strong>Data Enhancement/Appending/Validation</strong><br>
 	We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
-	Governmental Agencies or Other Companies<br>
+	<b>Third Party Cookies</b><br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
+<p>
+	<strong>Governmental Agencies or Other Companies</strong><br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
 	We may store and share your information with third parties for suppression or opt-out purposes.</p>
@@ -2132,33 +2217,31 @@ function triggerWiderFunnel(){
 <p>
 	In all cases, this information is not provided to these entities or persons for marketing purposes.</p>
 <p>
-	Right to Transfer<br>
+	<strong>Right to Transfer</strong><br>
 	Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.</p>
 <p>
-	COMPANY CUSTOMER CHOICES</p>
+	<strong>COMPANY CUSTOMER CHOICES</strong></p>
 <p>
-	Marketing Communications and Unsubscribe Information<br>
+	<strong>Marketing Communications and Unsubscribe Information</strong><br>
 	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreecrochetafghanpatterns.com/index.php/hct/contact_us_page">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
 <p>
-	Request for More Information<br>
+	<strong>Request for More Information</strong><br>
 	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
 <p>
-	WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?<br>
+	<strong>WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?</strong><br>
 	Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.</p>
 <p>
-	APPLICATION OF THIS PRIVACY POLICY<br>
+	<strong>APPLICATION OF THIS PRIVACY POLICY</strong><br>
 	This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.</p>
 <p>
-	WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?<br>
+	<strong>WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?</strong><br>
 	We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.</p>
 <p>
-	SECURITY<br>
+	<strong>SECURITY</strong><br>
 	There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.</p>
 <p>
-	LIMITATION OF LIABILITY<br>
-	YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>
-<p>
-	&nbsp;</p>							</div>
+	<strong>LIMITATION OF LIABILITY </strong><br>
+	YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>							</div>
 												
 				</td><!-- end col2 -->
 				<td id="col3">
@@ -2171,9 +2254,9 @@ function triggerWiderFunnel(){
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="ca7868de019c7f2e0bf7d94ab1279e3f">
+					<input type="hidden" name="PHPSESSID" value="j4ta003rrs6e1s8g0t8cf9ue16">
 					
-					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID56.png" alt="">
+					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID56.png" alt="">
 					
 											<h4>Free Newsletter!</h4>
 												<p>Join in the crafting fun! Enter your e-mail address to receive the latest kids craft ideas, exciting craft tutorials, product reviews and more. Subscribe to Crafty Kid Creations and receive free craft projects, ideas, and inspiration for kids of every age, from toddlers to teens and everything in-between.</p>
@@ -2199,32 +2282,23 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeKidsCrafts-com_right-rail-A_160-600 -->
-						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeKidsCrafts-com_right-rail-A_160-600"); // v2
-						</script>
-					</div>
-												</div>
+															</div>
 														<div style="margin: 0 0 10px 0;">
-											
-			<div id="topTenSiteID56">
+											<div id="topTenSiteID56" class="topTenDiv">
 				<h3>What's Hot</h3>
-				
 				<div class="contentBoxPadding">
-					<h4></h4>
-					
+										<h4></h4>
 								<ol>
-									 <li><a href="/Kids-Halloween-Crafts/43-Haunting-Halloween-Crafts-for-Kids-and-Easy-Halloween-Decorations/ct/1">43 Haunting Halloween Crafts for Kids and Easy Halloween Decorations</a></li>
-					 					 <li><a href="/Kids-Halloween-Crafts/Ultimate-Kids-Halloween-Crafts-Guide-68-Spooky-Crafts-and-Homemade-Costumes/ct/1">Ultimate Kids Halloween Crafts Guide: 68 Spooky Crafts and Homemade Costumes for Kids</a></li>
-					 					 <li><a href="/Kids-Christmas-Crafts/11-Easy-Christmas-Crafts-for-Kids-to-Make-eBook/ct/1">"11 Easy Christmas Crafts for Kids to Make" eBook</a></li>
-					 					 <li><a href="/Kids-Halloween-Crafts/Cinderellas-Pumpkin-Coach/ct/1">Cinderella's Pumpkin Coach</a></li>
-					 					 <li><a href="/Kids-Clothing-Patterns/Crochet-Flower-Headband/ct/1">Crochet Flower Headband</a></li>
-					 					 <li><a href="/Kids-Halloween-Crafts/Kooky-Candy-Corn-Softie/ct/1">Kooky Candy Corn Softie</a></li>
-					 					 <li><a href="/Kids-Christmas-Crafts/Five-Finger-Snowman-Ornaments/ct/1">Five Finger Snowman Ornaments</a></li>
-					 					 <li><a href="/Kids-Halloween-Crafts/Haunting-Halloween-Luminaries/ct/1">Haunting Halloween Luminaries</a></li>
-					 					 <li><a href="/Kids-Games-Crafts/27-Rainy-Day-Crafts-and-Cool-Games-for-Kids/ct/1">27 Rainy Day Crafts and Cool Games for Kids</a></li>
-					 					 <li><a href="/Kids-Halloween-Crafts/Rumpled-Halloween-Wreath/ct/1">Rumpled Halloween Wreath</a></li>
+									 <li><a href="/Spring-Kids-Crafts/Tiny-Yarn-Butterflies/ct/1">Tiny Yarn Butterflies</a></li>
+					 					 <li><a href="/Miscellaneous-Crafts-for-Kids/What-to-Make-with-Duct-Tape-Easy-Duct-Tape-Crafts-for-Kids/ct/1">What to Make with Duct Tape: 24 Easy Duct Tape Crafts for Kids</a></li>
+					 					 <li><a href="/Kids-Mothers-Day-Crafts/Mothers-Day-Craft-Ideas-Kids-Homemade-Mothers-Day-Gift-Ideas-free-eBook/ct/1">14 Mother's Day Craft Ideas for Kids: Homemade Mother's Day Gift Ideas</a></li>
+					 					 <li><a href="/Play-and-Pretend/Plexiglass-Funny-Photo-Fun/ct/1">Plexiglass Funny Photo Fun</a></li>
+					 					 <li><a href="/Kids-Fathers-Day-Crafts/Store-Your-Stache-Fathers-Day-Gift/ct/1">Store Your Stache Father's Day Gift</a></li>
+					 					 <li><a href="/Summer-Kids-Crafts/Pizza-Pan-Suncatcher/ct/1">Pizza Pan Suncatcher</a></li>
+					 					 <li><a href="/Kids-Fathers-Day-Crafts/Homemade-Gifts-for-Fathers-Day-from-Kids/ct/1">6 Homemade Gifts for Father's Day from Kids</a></li>
+					 					 <li><a href="/Recycled-Kids-Crafts/Cheap-and-Easy-Crafts-for-Kids-Recycled-Crafts/ct/1">Cheap and Easy Crafts for Kids: 9 Recycled Crafts</a></li>
+					 					 <li><a href="/Recycled-Kids-Crafts/How-to-Make-T-Shirt-Yarn/ct/1">How to Make T-Shirt Yarn</a></li>
+					 					 <li><a href="/Kids-Homemade-Gifts/Cool-Duct-Tape-Lanyard/ct/1">Cool Duct Tape Lanyard</a></li>
 					 			</ol>
 							</div>
 				
@@ -2233,17 +2307,17 @@ function triggerWiderFunnel(){
 			
 										</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeKidsCrafts-com_right-rail-B_300-250 -->
+													
+					<!-- AllFreeKidsCrafts-com_right-rail-B_300-250 -->
+					<div id="div-gpt-ad-1363381589123-4" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeKidsCrafts-com_right-rail-B_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381589123-4'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
 										<div class="myBoxLinkRightCol">
 			<div class="myBoxLinkRightColHeader">
-				<img src="http://cf.primecp.com/images/my-box-icon.gif" alt="" width="13" height="12"> <a href="/section/mybox/action/view">My Crafts</a> (0) <a style="float: right;" href="/section/mybox/action/view">View »</a>
+				<img src="http://cf2.primecp.com/images/my-box-icon.gif" alt="" width="13" height="12"> <a href="/section/mybox/action/view">My Crafts</a> (0) <a style="float: right;" href="/section/mybox/action/view">View »</a>
 			</div>
 			<div class="myBoxLinkRightColContent">
 				<img src="/images/article_images/Starry-Recycled-Crayons-th.jpg" alt="" width="75" height="75">
@@ -2270,13 +2344,26 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeKidsCrafts-com_right-rail-C_300-250 -->
+													
+					<!-- AllFreeKidsCrafts-com_right-rail-C_300-600 -->
+					<div id="div-gpt-ad-1363381589123-5" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeKidsCrafts-com_right-rail-C_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381589123-5'); });						</script>
 					</div>
 												</div>
+														<div style="margin: 0 0 10px 0;">
+										<div class="eBooksRightCol">
+							<h3>Free eBooks</h3>
+							<div class="list">
+				<ul>
+											<li><a href="http://www.allfreekidscrafts.com/Kids-Christmas-Crafts/11-Easy-Christmas-Crafts-for-Kids-to-Make-eBook">11 Easy Christmas Crafts for Kids to Make</a></li>
+												<li><a href="http://www.allfreekidscrafts.com/Recycled-Kids-Crafts/Cheap-and-Easy-Crafts-for-Kids-Recycled-Crafts">Cheap and Easy Crafts for Kids: 9 Recycled Crafts</a></li>
+												<li><a href="http://www.allfreekidscrafts.com/Kids-Easter-Crafts/Kids-Crafts-Easter-How-Decorate-Easter-Eggs-Easter-Egg-Hunt-Projects-Easter-Activities-Kids-free-eBook">Kids' Crafts for Easter</a></li>
+										</ul>
+			</div>
+		</div><!-- end eBooksRightCol -->
+		
+									</div>
 														<div style="margin: 0 0 10px 0;">
 											<div class="socialNewsRightCol">
 				<h3>Connect with Us</h3>
@@ -2285,19 +2372,19 @@ function triggerWiderFunnel(){
 				<table>
 						<tbody><tr>
 																<td>
-										<a target="_blank" href="http://www.facebook.com/AllFreeKidsCrafts"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
+										<a title="Follow Us on Facebook" target="_blank" href="http://www.facebook.com/AllFreeKidsCrafts"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="https://twitter.com/#!/FreeKidsCraft"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
+										<a title="Visit Our Twitter Page" target="_blank" href="https://twitter.com/#!/FreeKidsCraft"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="http://pinterest.com/FreeKidsCrafts/"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
+										<a title="Visit Our Pinterest Page" target="_blank" href="http://pinterest.com/FreeKidsCrafts/"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
+										<a title="Newsletters" href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
+										<a title="Visit Our RSS Page" href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
 									</td>
 															</tr>
 					</tbody></table>
@@ -2327,7 +2414,7 @@ function triggerWiderFunnel(){
 										<a href="/section/subctr/action/signup">Subscribe</a>
 										<a href="/index.php/hct/terms_service">Terms of Service</a>
 										<a href="/section/subctr/">Unsubscribe</a>
-										<a href="http://www.allfreekidscrafts.com/index.php/hct/Submit-Project">Submit Project</a>
+										<a href="http://www.allfreekidscrafts.com/index.php/hct/contact_us_page">Submit Project</a>
 								</p>
 					<!--
 		<p id="footerMenu">bb<a style="border: 0;" href="/index.php/hct/about_us">About Us</a><a href="/index.php/hct/advertise">Advertise</a><a href="/index.php/hct/privacy_policy">Privacy Policy</a><a href="/index.php/hct/contact_us_page">Contact Us</a><a href="/index.php/hct/terms_service">Terms of Service</a><a class="contestRulesLink" href="">Rules</a>mm</p>
@@ -2338,7 +2425,7 @@ function triggerWiderFunnel(){
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
-					<p style="margin: 0 10px;">© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+					<p style="margin: 0 10px;">© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 				</td>
 							</tr>
 		</tbody></table>
@@ -2364,7 +2451,7 @@ function triggerWiderFunnel(){
 	
 	
 <div id="printFooter">
-	<p>© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+	<p>© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 	
 	<p>www.allfreekidscrafts.com</p>
 </div><!-- end printFooter -->
@@ -2540,8 +2627,8 @@ function triggerWiderFunnel(){
 
 	
 
-		<div id="viewportGreyout"></div>
-		
+<div id="viewportGreyout"></div>
+
 
 
 	
@@ -2605,13 +2692,11 @@ function triggerWiderFunnel(){
 					
 					<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.AllFreeKidsCrafts.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
-<p>
+	Revised and posted as of March 4, 2013<br>
+	<br>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
-	This Privacy Policy will tell you, among other things:</p>
+	<strong>This Privacy Policy will tell you, among other things:</strong></p>
 <p>
 	Your California privacy rights.<br>
 	How we collect information and what information we collect.<br>
@@ -2619,22 +2704,22 @@ function triggerWiderFunnel(){
 	How we may share information.<br>
 	Your choices regarding the sharing of information.</p>
 <p>
-	ACKNOWLEDGEMENT/YOUR AGREEMENT<br>
+	<strong>ACKNOWLEDGEMENT/YOUR AGREEMENT</strong><br>
 	Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.</p>
 <p>
-	YOUR CALIFORNIA PRIVACY RIGHTS<br>
+	<strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong><br>
 	Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.</p>
 <p>
-	HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?<br>
+	<strong>HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?</strong><br>
 	We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.</p>
 <p>
-	Distribution Partners<br>
+	<strong>Distribution Partners</strong><br>
 	Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.</p>
 <p>
-	Offer Forms<br>
+	<strong>Offer Forms</strong><br>
 	We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.</p>
 <p>
-	Website Registration Forms<br>
+	<strong>Website Registration Forms</strong><br>
 	We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:<br>
 	e-mail address<br>
 	full name<br>
@@ -2643,13 +2728,13 @@ function triggerWiderFunnel(){
 	date of birth<br>
 	gender</p>
 <p>
-	Publisher Partners<br>
+	<strong>Publisher Partners </strong><br>
 	When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.</p>
 <p>
-	Marketing Partners<br>
+	<strong>Marketing Partners</strong><br>
 	We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.</p>
 <p>
-	Automatic Information/Digital Identifiers<br>
+	<strong>Automatic Information/Digital Identifiers</strong><br>
 	We may automatically receive and store certain types of information about you through the data sources listed above.</p>
 <p>
 	You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.</p>
@@ -2658,49 +2743,49 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.</p>
 <p>
-	Government Forms<br>
+	<strong>Government Forms</strong><br>
 	The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.</p>
 <p>
-	HOW DO WE USE THIS INFORMATION?<br>
+	<strong>HOW DO WE USE THIS INFORMATION?</strong><br>
 	We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
 <p>
-	Ad Serving<br>
+	<strong>Ad Serving</strong><br>
 	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
 <p>
 	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.</p>
 <p>
-	Pre-select/Pre-fill Offers<br>
+	<strong>Pre-select/Pre-fill Offers</strong><br>
 	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
 <p>
-	Upsell<br>
+	<strong>Upsell </strong><br>
 	We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.<br>
 	<br>
-	Customer Service and Fulfillment<br>
+	<strong>Customer Service and Fulfillment</strong><br>
 	We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.</p>
 <p>
-	Credit Card Preauthorization<br>
+	<strong>Credit Card Preauthorization</strong><br>
 	By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.</p>
 <p>
-	Marketing<br>
+	<strong>Marketing</strong><br>
 	We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.</p>
 <p>
-	HOW DO WE SHARE INFORMATION?<br>
+	<strong>HOW DO WE SHARE INFORMATION?</strong><br>
 	We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
 <p>
-	Within the Company<br>
+	<strong>Within the Company </strong><br>
 	We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.</p>
 <p>
-	Vendors<br>
+	<strong>Vendors</strong><br>
 	We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.</p>
 <p>
-	Advertisers<br>
+	<strong>Advertisers</strong><br>
 	When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.</p>
 <p>
 	When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.</p>
 <p>
 	When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.</p>
 <p>
-	Ad Serving Companies<br>
+	<strong>Ad Serving Companies </strong><br>
 	We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.</p>
 <ul>
 	<li>
@@ -2711,15 +2796,18 @@ function triggerWiderFunnel(){
 		Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</li>
 </ul>
 <p>
-	Marketing Partners<br>
+	<strong>Marketing Partners</strong><br>
 	We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.</p>
 <p>
-	Data Enhancement/Appending/Validation<br>
+	<strong>Data Enhancement/Appending/Validation</strong><br>
 	We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
-	Governmental Agencies or Other Companies<br>
+	<b>Third Party Cookies</b><br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
+<p>
+	<strong>Governmental Agencies or Other Companies</strong><br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
 	We may store and share your information with third parties for suppression or opt-out purposes.</p>
@@ -2728,33 +2816,31 @@ function triggerWiderFunnel(){
 <p>
 	In all cases, this information is not provided to these entities or persons for marketing purposes.</p>
 <p>
-	Right to Transfer<br>
+	<strong>Right to Transfer</strong><br>
 	Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.</p>
 <p>
-	COMPANY CUSTOMER CHOICES</p>
+	<strong>COMPANY CUSTOMER CHOICES</strong></p>
 <p>
-	Marketing Communications and Unsubscribe Information<br>
+	<strong>Marketing Communications and Unsubscribe Information</strong><br>
 	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreecrochetafghanpatterns.com/index.php/hct/contact_us_page">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
 <p>
-	Request for More Information<br>
+	<strong>Request for More Information</strong><br>
 	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
 <p>
-	WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?<br>
+	<strong>WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?</strong><br>
 	Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.</p>
 <p>
-	APPLICATION OF THIS PRIVACY POLICY<br>
+	<strong>APPLICATION OF THIS PRIVACY POLICY</strong><br>
 	This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.</p>
 <p>
-	WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?<br>
+	<strong>WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?</strong><br>
 	We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.</p>
 <p>
-	SECURITY<br>
+	<strong>SECURITY</strong><br>
 	There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.</p>
 <p>
-	LIMITATION OF LIABILITY<br>
-	YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>
-<p>
-	&nbsp;</p>					
+	<strong>LIMITATION OF LIABILITY </strong><br>
+	YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>					
 					<p style="margin-top: 1.5em">[ <a class="closePrivacyContentLink" href="">Close Privacy Policy</a> ]</p>
 				</div><!-- end newsletterSignUpPrivacyContent -->
 				
@@ -2773,6 +2859,22 @@ function triggerWiderFunnel(){
 		
 		
 				
+		
+		<!-- START Google Remarketing code -->
+				
+		<!-- END Google Remarketing code -->
+		
+		
+		
+		<!-- START datonics.com -->
+						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132971.js"></script>
+						<!-- END datonics.com -->
+		
+		<!-- START swoop -->
+				<!-- END swoop -->
+
+
+
 		
 				
 		
