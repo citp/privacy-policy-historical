@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104145930id_/http%3A//www.jordans.co.uk/statutory-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513151147id_/http%3A//www.jordans.co.uk/statutory-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Jordans privacy policy
 
