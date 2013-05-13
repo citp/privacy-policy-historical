@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbay.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005195150id_/http%3A//www.phpbay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbay.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513125657id_/http%3A//www.phpbay.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,4 +55,4 @@ All information obtained from the customer will be used for the sole purpose of 
 
 By using phpBay LLC website, you consent to the collection and use of information by phpBay LLC as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-For questions regarding this Privacy Policy, please use our [contact form](https://web.archive.org/web/20121005195150id_/http%3A//www.phpbay.com/contact.html?PHPSESSID=7bcd6362eef092944bb6c0e8a8ac4767 "Contact phpBay Pro").
+For questions regarding this Privacy Policy, please use our [contact form](https://web.archive.org/web/20130513125657id_/http%3A//www.phpbay.com/contact.html?PHPSESSID=60285bc0c1ab34093b6e2a34096e616c "Contact phpBay Pro").
