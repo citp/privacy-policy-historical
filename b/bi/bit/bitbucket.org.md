@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111174942id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513103217id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy and Legal Statement - Atlassian | Atlassian
 
@@ -6,7 +6,7 @@ Last Updated: October 22, 2012
 
 ## Scope
 
-This Privacy Policy applies to information, including Personal Information, Atlassian collects through your use of Atlassian's Services. By using Atlassian's Services and accepting the [End User License Agreement](http://www.atlassian.com/licensing/license) or [Terms of Service](http://www.atlassian.com/hosted/terms), as applicable, you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use Atlassian's Services. The terms "We," "Us," "Our," or "Atlassian" includes Atlassian and our affiliates. It explains how we may collect, use, and disclose information we obtain through "Atlassian's Services."
+This Privacy Policy applies to information, including Personal Information, Atlassian collects through your use of Atlassian's Services. By using Atlassian's Services and accepting the [End User Agreement](http://www.atlassian.com/end-user-agreement), as applicable, you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use Atlassian's Services. The terms "We," "Us," "Our," or "Atlassian" includes Atlassian and our affiliates. It explains how we may collect, use, and disclose information we obtain through "Atlassian's Services."
 
 (More Info)
 
@@ -119,7 +119,7 @@ By using Atlassian's Services or providing Personal Information to us, you agree
 
 ## UPDATE AND DELETE YOUR INFORMATION
 
-You may update or remove some of your information using Atlassian's Services or by sending us your request to [support@atlassian.com](mailto:support@atlassian.com).
+You may update or remove some of your information using Atlassian's Services or by sending us your request to [sales@atlassian.com](mailto:sales@atlassian.com).
 
 ## INTERNATIONAL USERS
 
@@ -127,7 +127,7 @@ By choosing to visit Atlassian's Services or otherwise providing information to 
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your Personal Information to Australia and the United States to us. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy.**
 
-**** You also consent to the adjudication of any disputes arising in connection with us or Atlassian's Services in accordance with the [End User License Agreement](http://www.atlassian.com/licensing/license) or [Terms of Service](http://www.atlassian.com/hosted/terms), as applicable.
+**** You also consent to the adjudication of any disputes arising in connection with us or Atlassian's Services in accordance with the [End User Agreement](http://www.atlassian.com/end-user-agreement), as applicable.
 
 ## ADDITIONAL INFORMATION
 
