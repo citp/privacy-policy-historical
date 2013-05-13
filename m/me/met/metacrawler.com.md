@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016222259id_/http%3A//www.metacrawler.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513124448id_/http%3A//www.metacrawler.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ The InfoSpace Site located at www.go2net.com offers customization capabilities. 
 
 InfoSpace offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service. For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington. While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the InfoSpace Sites. In addition, InfoSpace allows you to update, correct any errors in the listings, or include yourself in the directory services. In order to make these modifications, you may provide InfoSpace with certain individual user information that InfoSpace will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database. 
 
-Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: https://snap.superpages.com/NASApp/Listing/control/ViewListing. To delete your listing, please call the customer service department at 1-800-428-8722 begin_of_the_skype_highlighting 1-800-428-8722 end_of_the_skype_highlighting, stay on the line without pushing any prompts, and a representative will assist you. 
+Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: https://snap.superpages.com/NASApp/Listing/control/ViewListing. To delete your listing, please call the customer service department at 1-800-428-8722, stay on the line without pushing any prompts, and a representative will assist you. 
 
 Once you have located it, simply click the update or remove link. To verify your request, InfoSpace will send an e-mail message to the address that you provide. Once you confirm the request, your listing will be updated or deleted. Please allow approximately 24 hours for the update to become active after we receive your confirmation.
 
