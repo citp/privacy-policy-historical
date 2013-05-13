@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripolis.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127002917id_/http%3A//www.tripolis.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripolis.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513102726id_/http%3A//www.tripolis.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Email, Mobile, Social Marketing » Tripolis Solutions
 
