@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304021934id_/http%3A//www.screenindia.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513085742id_/http%3A//screen.indianexpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Screenindia.com
+# Screen India
+
+  * [](https://web.archive.org/)
+  * Privacy Policy
+
+
+
+## Privacy Policy
 
 Thank you for visiting Screenindia.com, the website of The Indian Express Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us.
 
@@ -16,4 +23,4 @@ The kind of information that is gathered automatically include the type of brows
 
 We also use a reputable third party to serve the advertisements that you see on our pages. In the course of serving advertisements, our third-party advertiser may place or recognise a unique "cookie" on your browser and may use information (not including your name, address, e-mail address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-**Links to Other Sites** Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information.
+**Links to Other Sites** Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information. 
