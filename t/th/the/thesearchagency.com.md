@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211010631id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514004525id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Search Marketing and Optimization Firm - SEO - SEM -The Search Agency
 
