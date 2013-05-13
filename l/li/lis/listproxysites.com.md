@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listproxysites.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021030726id_/http%3A//www.listproxysites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listproxysites.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513073558id_/http%3A//listproxysites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for ListProxySites.com
 
@@ -34,7 +34,7 @@ ListProxySites.com contains links to other world wide web sites. Please be aware
 
 Also see our [Terms of Use](https://web.archive.org/terms-of-use.php "ListProxySites.com's Terms and Conditions of Use").
 
-> [](http://www.copyscape.com/plagiarism-scanner/)
+[](http://www.copyscape.com/plagiarism-scanner/)
 
 [Visitors](http://statcounter.com/p6924447/summary/?guest=1 "View Our Website Visitor Statistics"): 
 
