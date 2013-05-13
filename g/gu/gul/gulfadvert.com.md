@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gulfadvert.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905032030id_/http%3A//gulfadvert.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfadvert.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514003830id_/http%3A//gulfadvert.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Gulfadvert.Com
+
+You Are Here: [Home](https://web.archive.org/web/20130514003830id_/http%3A//gulfadvert.com/index.php) » Privacy Policy
 
 Gulfadvert.com is committed to safeguarding your privacy online. The following policy acts as a guide enabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time.
 
