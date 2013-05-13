@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imagehousing.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510062959id_/http%3A//www.imagehousing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagehousing.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513155841id_/http%3A//www.imagehousing.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of the ImageHousing.com
 
-ImageHousing.com understands how important the privacy of personal information is to our users. To protect your privacy better, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+We understand how important the privacy of personal information is to our users. To protect your privacy better, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 Cookie and Tracking Technology
 
@@ -14,11 +14,11 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Terms and Conditions
 
-ImageHousing.com provides a free image and photo sharing and hosting service. Users of this service may upload as many images and pictures as they wish and can then let others view the images, as well as use the link codes of the images in other sites.
+Our site provides a free image and photo sharing and hosting service. Users of this service may upload as many images as they wish and can then let others view the images, as well as share the images on other sites.
 
-ImageHousing.com reserves the right to remove or replace any uploaded files. Images, pictures and photos from this site are for your personal use only and can not be used on any commercial site. To change the linking codes of the images from ImageHousing.com is prohibited without prior permission.
+The imagehousing.com reserves the right to remove or replace any uploaded files. Images, pictures and photos from this site are for your personal use only.
 
-ImageHousing does not allow the following types of files:
+This site does not allow the following types of files:
 
 \- Non-image files  
 \- Offensive image files  
@@ -27,16 +27,14 @@ ImageHousing does not allow the following types of files:
 
 Legal Terms
 
-All images are legally created either from open source on the Internet or custom designed by us. The content of the images, pictures and photos may not be modified.
+The images are legally shared from our users or custom designed by us. The content of the images may not be modified.
 
 Copyright Infringement
 
-Some images we have on the site were sent by our users, photographers and contributors, if you find a photo of yourself or image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/web/20120510062959id_/http%3A//www.imagehousing.com/contact_us.php) and give us a detailed explanation and we will be more than happy to take your image off.
+The images are the copyright of their respective owners. You must own the copyright or have permission from the copyright holder for any image you upload to our website.
 
-We do our best to avoid copyrighted material.
+The images we have on the site were sent by our users, photographers and contributors. If you found a photo of yourself or an image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/web/20130513155841id_/http%3A//www.imagehousing.com/contact_us.php).
 
 Users of this site agree to be bound by the following Terms and Conditions
 
-The images are the copyright of their respective owners. You must own the copyright or have permission from the copyright holder for any images you upload to this website.
-
-Any images found to break our terms and conditions will be removed without no warning. ImageHousing.com provides no guarantee of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our [contact us](https://web.archive.org/web/20120510062959id_/http%3A//www.imagehousing.com/contact_us.php) page.
+The images found to break our terms and conditions will be removed without no warning. The imagehousing.com provides no guarantee of the service and assume no liability that may be incurred as a result of your use of our site. To report any type of abuse, use our [contact us](https://web.archive.org/web/20130513155841id_/http%3A//www.imagehousing.com/contact_us.php) page.
