@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youwin.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110161844id_/http%3A//www.youwin.com/en/help/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youwin.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514005615id_/http%3A//www.youwin.com/en/help/general/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -23,8 +23,8 @@ _Date: 15.03.2012_
   * **13** You may review, correct, update or change your personal information at any time. If you opted to receive newsletters, other communications from us or third parties at the time you registered on this Website but subsequently change your mind, you may opt-out by contacting us on support@youwin.com.
   * **14** We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
   * **15** If our privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-  * **16** Circumstances as specified under relevant legislation governing WINunited may require us to forward you information to the relevant Authorities.
-  * **17** Youwin is a brand name of WINunited Ltd, a company duly registered on the 05th January 2005, under the laws of Malta
+  * **16** Circumstances as specified under relevant legislation governing Winunited Limited may require us to forward you information to the relevant Authorities.
+  * **17** youwin.com is a brand name of Winunited Limited, a company duly registered on the 05th January 2005, under the laws of Malta.
 
 Registration No. C 35409
 
@@ -37,7 +37,7 @@ Malta
 www.youwin.com  
 Tel: 00356 2326 1300
 
-Winunited Ltd. is authorised and regulated by the Malta Lotteries and Gaming Authority (LGA) under LGA License numbers LGA/CL1/349/2007, LGA/CL2/195/2004 and LGA/CL3/349/2007.
+Winunited Limited is authorised and regulated by the Malta Lotteries and Gaming Authority (LGA) under LGA License numbers LGA/CL1/349/2007, LGA/CL2/195/2004 and LGA/CL3/349/2007.
 
 For further information regarding LGA, please go to www.lga.org.mt.
 
