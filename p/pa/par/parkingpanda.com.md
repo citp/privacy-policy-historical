@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the parkingpanda.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021194421id_/https%3A//www.parkingpanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkingpanda.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513122341id_/https%3A//www.parkingpanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Parking Panda Privacy Policy
 
-Parking Panda Corp. ( _“we”_ , _“our”_ or _“us”_ ) believes in your privacy and sharing opinions on www.parkingpanda.com (the _“Site”_ ). Our lawyers drafted this privacy policy to protect the collection, use and disclosure of your information on the Site and the services, features, content or applications we offer (together with the Site, the _“Services”_ ). Please read it! This way you’ll know how we collect and use your information and share it with third parties. If you use our Site, then you are agreeing to the collection, transfer, manipulation, storage disclosure and any other things we do with your information.
+Parking Panda Corp. (" _we_ ", " _our_ " or " _us_ ") believes in your privacy and sharing opinions on www.parkingpanda.com (the " _Site_ "). Our lawyers drafted this privacy policy to protect the collection, use and disclosure of your information on the Site and the services, features, content or applications we offer (together with the Site, the _“Services”_ ). Please read it! This way you’ll know how we collect and use your information and share it with third parties. If you use our Site, then you are agreeing to the collection, transfer, manipulation, storage disclosure and any other things we do with your information.
 
 Please read it! This way you’ll know how we collect and use your information and share it with third parties. If you use our Site, then you are agreeing to the collection, transfer, manipulation, storage disclosure and any other things we do with your information. 
 
-What Does This Privacy Policy Cover?
+_What Does This Privacy Policy Cover?_
 
-This Privacy Policy covers the treatment of personally identifiable information ( _“Personal Information”_ ) gathered when you use or access the Service _and_ Personal Information that our business partners share with us or that we share with them. [You may create a user account by using Facebook Connect, Twitter, Foursquare or LinkedIn] ( _“Account”_ ) to access the Services. [We don’t own or control Facebook, Foursquare LinkedIn, Twitter or] other third party websites, services or applications ( _“Third Party Services”_ ), so don’t blame us for the content or privacy policies of those Third Party Services. You should review their privacy policies and terms so that you know what you’re getting into. 
+This Privacy Policy covers the treatment of personally identifiable information ( _"Personal Information"_ ) gathered when you use or access the Service _and_ Personal Information that our business partners share with us or that we share with them. [You may create a user account by using Facebook Connect, Twitter, Foursquare or LinkedIn] ( _“Account”_ ) to access the Services. [We don’t own or control Facebook, Foursquare LinkedIn, Twitter or] other third party websites, services or applications ( _“Third Party Services”_ ), so don’t blame us for the content or privacy policies of those Third Party Services. You should review their privacy policies and terms so that you know what you’re getting into. 
 
-Information we Collect
+_Information we Collect_
 
 We may request, collect and/or display some of your Personal Information when using the Services. It helps us make the Site better, send you Information, improve content, operate the Services, offer promotions, and customize ads. 
 
@@ -86,9 +86,9 @@ _Aggregate Information:_
 
 We love data! Let’s be honest, most of the internet is about data. It helps us improve our products and make our Site and the services better. We collect statistical Information about how both unregistered and Account users, collectively, use the Services ( _“Aggregate Information”_ ). Some of this Information is derived from Personal Information. However, statistical Information is not Personal Information and can’t be tied back to you, your Account or your web browser. Certain non-Personal Information could become Personal Information is aggregated with other pieces of data in a way that enables you to be identifiable. We may at times combine non-personal information with Personal Information to better deliver the Services and special offers and ads to you and also to better understand how our Site and the Services are used. In the event that such data is combined, it will not be shared with third parties. 
 
-Who do you share my information with? 
+_Who do you share my information with?_
 
-The Services are designed to help you share Information with others, provide you with great content, and have a few chuckles! Sometimes we share information with third parties to accomplish these goals. 
+The services are designed to help you share Information with others, provide you with great content, and have a few chuckles! Sometimes we share information with third parties to accomplish these goals. 
 
 _IP Address Information:_
 
@@ -132,7 +132,7 @@ _Information We Share With Your Consent:_
 
 Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and you will be able to prevent the sharing of this Information.
 
-Really … Is Information About Me Secure? 
+_Really … Is Information About Me Secure?_
 
 Your Account is password protected for your privacy and security. Please don’t give out your password, and please sign out of public computers when accessing your Account. We try our best to protect your security, but we can’t guarantee it (sorry … hacking happens!). Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
@@ -140,34 +140,34 @@ _International Users: we process data in the United States & United States’ da
 
 If you are located outside of the United States, note that the Site is (i) hosted by computer servers in the United States, (ii) processes and stores data in the United States, and (iii) United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your Information through laws applicable in the United States. If you use the Site or Services or share Personal Information with us, then this constitutes your consent to the transfer of your Personal Information outside of your home country, including the United States. 
 
-Avoid Phishing 
+_Avoid Phishing_
 
 Safeguarding your information is important to us and we appreciate your cooperation in doing the same. Identity theft and “phishing” are rampant and problematic. (For more information about phishing, visit the Federal Trade Commission’s website at [http://www.ftc.gov](http://www.ftc.gov/).) We will _never_ email you to ask for your password, payment information, credit card, bank account, PayPal account, driver’s license number in a non-secure unsolicited email or phone call. 
 
-How Do I Access My Information? 
+_How Do I Access My Information?_
 
 If you created an Account, just login and access it through your Account settings. If not, just delete cookies through your web browser settings.
 
 _For California users: California Privacy Rights:_ Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact Information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 3422 Fait Ave Baltimore MD, 21224.
 
-Can I Delete My Account? 
+_Can I Delete My Account?_
 
 Yes, it’s totally cool. Just login and delete it through your Account settings. Activity generated prior to deletion will remain stored by us and may be publicly accessible. The fact that you got the money parking spot within a ½ mile walk of the stadium may be retained for posterity. 
 
-Children’s Privacy 
+_Children’s Privacy_
 
 This Site is not directed to individuals under 13 years old. We do not knowingly collect Personal Information from individuals under 13. If you are driving looking for a parking space and you are 13 years old or under, you’ve got bigger problems. 
 
-Compliance with Law
+_Compliance with Law_
 
 We take legal inquiries seriously and we will cooperate with local, state, federal and international governmental authorities to enforce and comply with the law. At our sole discretion, we will disclose any information necessary to comply with the law, respond to claims, and participate in the legal process (including subpoenas) to stop or prevent illegal, unethical or objectionable activity, protect public safety, or protect the property and rights of the Company. 
 
-What Happens When There Are Changes to this Privacy Policy?
+_What Happens When There Are Changes to this Privacy Policy?_
 
 Life moves pretty fast, so we may amend this Privacy Policy from time to time. Information we collect is subject to the policy at the time of collection. If we make any changes, we’ll notify you by email or posting a notice on the Site. If you use the Services after the posting date, then you’re bound by the new Privacy Policy. 
 
-I’ve Got Questions (and May Have Some Concerns). 
+_I’ve Got Questions (and May Have Some Concerns)._
 
-If you do, then please email us directly at [Hello@ParkingPanda.com](mailto:Hello@ParkingPanda.com). We’ll do our best to resolve it. 
+If you do, then please email us directly at [hello@parkingpanda.com](mailto:hello@parkingpanda.com). We’ll do our best to resolve it. 
 
 Effective Date: 08/08/2011
