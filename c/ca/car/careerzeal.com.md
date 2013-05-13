@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerzeal.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416084624id_/http%3A//www.careerzeal.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerzeal.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513093826id_/http%3A//www.careerzeal.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
