@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110256id_/http%3A//eharmony.co.uk/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513145554id_/http%3A//www.eharmony.co.uk/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.eharmony.co.uk/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/eharmony-com/validation?rid=7e6c9c9c-9ee3-450b-b322-08ef61337e39 "TRUSTe online privacy certification")
 
-TRUSTe is an independent, non-profit organization whose mission is to build user trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of: 
+eHarmony, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.co.uk. By displaying the TRUSTe trustmark, this website has agreed to notify you of: 
 
 1\. Any personally identifiable information of yours or third party personal identification is collected from you through the eHarmony.co.uk ("eHarmony") website; 
 
@@ -20,7 +20,7 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 7\. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this statement, you should first contact the website by writing to _eHarmony UK Ltd., BM Box 5904, London WC1N 3XX UK_ , or by sending an email to [privacy@eHarmony.co.uk](mailto:privacy@eHarmony.co.uk). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by writing to eHarmony UK Ltd., BM Box 5904, London WC1N3XXUK, or by sending an email to at [privacy@eHarmony.co.uk](mailto:privacy@eharmony.co.uk). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 **General Information**
 
@@ -40,7 +40,13 @@ The types of information that eHarmony collects fall under two general categorie
   * _eHarmony Cookies_. We use “cookies” to keep track of some types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user , so that we can continue to develop and improve our service offering. We also use cookie data collected during your visit(s) to our site to recognise you when you visit third party sites that we have partnered with so that we can show you eHarmony advertisements that we think may interest you on those sites (“Targeted Ads”). You always have the right to decide whether to accept or decline cookies, whether for Targeted Ads purposes or otherwise. This is described in more detail in the section below. 
   * _Your Cookie Choices._ You may choose to accept or reject cookies by changing your internet browser setting. However, we rely on cookies for the proper operation of our website and if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. Click the “help” menu in your browser’s toolbar for information on how to change your settings. For additional information about managing cookies, please visit http://www.allaboutcookies.org/. Keep in mind that cookies are unique to each computer. In order to opt-out of data collection by the use of cookies on any of your other devices, you will be required to repeat this process on each device. 
   * _Web Beacons_. “Web beacons” (also known as “clear gifs” and “pixel tags”) are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behaviour of our customers. We do not link the web beacons to any information that would enable us to determine the actual identity of any individual. 
-  * _Third Party Cookies and Targeted Advertising._ We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and beacons (also known as single pixel gifs or action tags) to measure advertising effectiveness and to collect information about your use of the eHarmony site to serve you with advertising better tailored to your interests. Any information that these third parties collect via cookies and beacons is anonymous and does not enable them to determine your actual identity. Some of these third-party advertising agencies may be members of the Network Advertising Initiative and/or the Internet Advertising Bureau, which offer you the option to choose whether to receive targeted ads from their member agencies at <http://www.networkadvertising.org/consumer/opt_out.asp> and [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/), respectively. We will only share your information with third parties in the ways defined in this privacy statement. 
+  * _Third Party Cookies and Targeted Advertising._
+
+We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and beacons (also known as single pixel gifs or action tags) to measure advertising effectiveness and to collect information about your use of the eHarmony site to serve you with advertising better tailored to your interests. Any information that these third parties collect via cookies and beacons is anonymous and does not enable them to determine your actual identity. Some of these third-party advertising agencies may be members of the Network Advertising Initiative and/or the Internet Advertising Bureau, which offer you the option to choose whether to receive targeted ads from their member agencies at <http://www.networkadvertising.org/consumer/opt_out.asp> and [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/), respectively. 
+
+Third Parties, with whom we partner to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [ http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118 ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+
+We will only share your information with third parties in the ways defined in this privacy statement.
 
 **Other Information We Collect**
 
@@ -51,7 +57,10 @@ The types of information that eHarmony collects fall under two general categorie
   * _Demographic and Profile Data_. Demographic and profile data is also collected at our site. We use this data to tailor our visitors’ experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. Some of this information (i.e., customer demographic information) may be shared with advertisers on a non personally identifiable basis. 
   * _Online Survey Data_. We may periodically conduct voluntary member surveys. We encourage our members to participate in such surveys because they provide us with important information regarding the improvement of our services. You may also volunteer for certain surveys that we may offer to our users, and any additional rules regarding the conduct of such surveys will be disclosed to you prior to your participation. We do not link the survey responses to any PII, and all responses are anonymous. 
   * _Information Regarding Your Friends_. eHarmony encourages you to refer a friend to our service by sending us a friend’s name and email address. We will keep this information in our database, and send that person a one-time email containing your name and inviting them to visit our site. We will not send them additional emails unless they request more promotional emails or if they sign up for our services. This email will also include a quick and easy way for them to remove their information from our database, if they desire. We ask that you do not abuse this feature by entering names and addresses of those who would not be interested in eHarmony. You may also give gift memberships to your friends, in which case we will use your friends’ email address that you provide in order to deliver the gift. Upon subscribing, your friends can change their email preferences via the “My Settings” tab and the “Account Settings” link on their eHarmony home page. 
-  * _Public Forums_. eHarmony makes discussion boards available to its users and visitors. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personally identifying information. Please consult our Community Guidelines when posting comments on the Advice discussion boards. 
+  * _Public Forums_. 
+
+Our Advice blog, which is made up of posts that are relevant to dating and relationships, is available to our users and visitors. Please remember that any information that is disclosed in the comments section of any Advice post becomes public information and you should exercise caution when deciding to disclose any personally identifying information. Please consult our [Community Guidelines](http://www.eharmony.com/dating-advice/community-standards) when posting comments on the Advice discussion boards. To request removal of your personal information from our blog or community forum, contact us at eHadvicealerts@eHarmony.co.uk. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
   * _Use for Research_. In addition to the uses outlined above, by using eHarmony.co.uk, you agree to allow eHarmony to use anonymized information from you and your experiences through the Services to continue eHarmony’s research into successful relationships and to improve the Services. This research, conducted by psychologists and behaviour research scientists, may be published in academic journals. However, all of your responses will be kept anonymous, and no PII will ever be published. You can find out more about the standards we follow in conducting scientific research by clicking [here](http://www.hhs.gov/ohrp/humansubjects/guidance/belmont.htm). 
 
 
@@ -81,6 +90,10 @@ eHarmony has extensive security measures in place to protect the loss, misuse an
 
 eHarmony is not responsible for the privacy practices or the content of other websites that may be linked to this site or of any third party advertisers. 
 
+**Single Sign-On**
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
 **Choice/Opt-Out**
 
 We generally retain your PII only for so long as is necessary for the purpose for which it is used, or required by law. As an eHarmony member, you may use the following options for removing your information from our database or if you wish to opt out of receiving future communications. 
@@ -96,11 +109,11 @@ You can also opt-out of receiving promotional emails and newsletters by clicking
 
 **Access to information**
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a small administration charge to meet our costs in providing you with the details of the information we hold about you. 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a small administration charge to meet our costs in providing you with the details of the information we hold about you. We will respond to all access requests within 30 days. 
 
-**Correct/Update**
+**Correct/Update/Delete**
 
-eHarmony provides users the following options for changing and modifying information previously submitted. 
+eHarmony provides users the following options for changing, modifying, and requesting deletion of information previously submitted. 
 
 1\. You may change your credit card, password and other information by going to "My Settings" option on your eHarmony home page and selecting "Account Settings" link in the top navigation area; 
 
@@ -125,4 +138,4 @@ Any changes we may make to our privacy statement in the future will be posted on
 
 **Effective Date**
 
-This privacy statement was last revised on August 20, 2012.
+This privacy statement was last revised on May 2, 2013.
