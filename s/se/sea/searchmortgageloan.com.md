@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmortgageloan.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022172631id_/http%3A//searchmortgageloan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmortgageloan.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513041521id_/http%3A//www.searchmortgageloan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Search Mortgage Loan
 
@@ -37,3 +37,13 @@ Contacting the Web Site
 
 Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: info@searchmortgageloan.com
+
+**Warning** : file_get_contents(http://ads.clicksedge.com/ads?partner=Aglint&tag=searchmortgageloan.com&query=Privacy Policy&ip=204.236.226.210&ua=ia_archiver+%28%2Bhttp%3A%2F%2Fwww.alexa.com%2Fsite%2Fhelp%2Fwebmasters%3B+crawler%40alexa.com%29&url=http%3A%2F%2Fsearchfing.com%2Fsearch.php) [[function.file-get-contents](https://web.archive.org/web/20130513041521id_/http%3A//www.searchmortgageloan.com/function.file-get-contents)]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request in **/home/content/l/e/s/leslielinux/html/agm/group/searchmortgageloan.com/sml/wp-content/themes/sml/page.php** on line **70**
+
+Your search did not match any Results.  
+Suggestions : 
+
+  * Try different keywords.
+  * Try more general keywords.
+
+
