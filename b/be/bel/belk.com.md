@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023061729id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513084146id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - belk.com - Belk.com
 
@@ -13,6 +13,7 @@ This Policy will give you a better understanding of the following:
   * How we protect the security of your personal information
   * Cookies and other computer information
   * How can I decide what promotional email communications I will receive
+  * How can I decide what promotional mobile phone communications I will receive?
   * Privacy Protection of Children
   * Linking to Third Party Web Sites
   * Notice to California Residents - Your California Privacy Rights 
@@ -111,6 +112,26 @@ The Network Advertising Initiative also provides consumers with a tool for exami
 **How can I decide what promotional email communications I will receive?**
 
 Belk.com may from time to time send you promotional emails about Belk products, services or contests that we hope will be of interest to you. At any time, you can choose to discontinue receiving such promotional email by accessing **Email Notifications** under **My Account** and unsubscribing. In addition, each promotional email we send contains an unsubscribe link allowing you to discontinue future emails from us. Please allow us a reasonable period of time in order to satisfy your request, as some promotional emails may already be in process. 
+
+**How can I decide what promotional mobile phone communications I will receive?**
+
+Belk may from time to time send you promotional SMS (text messages) about Belk products, services or contests that we hope will be of interest to you. To choose to receive Belk promotional messages via SMS on your mobile phone please follow the below steps. *Messaging & data rates may apply. Text **HELP** for help. Text messaging is not available in all areas of the United States. 
+
+  * To opt-in to Belk SMS Alerts, text JOIN to 23551 for coupons and sale notifications. Subscribers will receive up to 6 text messages/month. 
+  * To opt-in to Belk SMS Beauty & Fragrance Alerts, text BEAUTY to 23551 for event and sale notifications. Subscribers will receive up to 6 text messages/month.
+  * To opt-in to Belk SMS Belk Rewards Alerts, text REWARDS to 23551 for event and sale notifications. Subscribers will receive up to 6 text messages/month.
+
+
+
+At any time, you can choose to discontinue receiving such promotional SMS by unsubscribing.
+
+  * To opt-out of Belk SMS Alerts, text BELKSTOP to 23551. 
+  * To opt-out of Belk SMS Beauty & Fragrance Alerts, text BEAUTYSTOP to 23551.
+  * To opt-out of Belk SMS Belk Rewards Alerts, text REWARDSSTOP to 23551 for event and sale notifications.
+
+
+
+**Location Based Offers:** Belk enables you to receive special discounts when you are in the neighborhood of a Belk store. When you have opted-in and we have a deal for you, Belk will check how close you are to one of our stores and send you a text message deal based on how near you are to a Belk store. **You can opt-out at any time from both messaging and location checks by sending STOP to 23551.** Belk location based messaging is available only on AT&T, Boost Mobile, Cricket Wireless, Nextel, Sprint, T-Mobile®, Verizon Wireless, Tier 2/3 Carrier Group and Associated Carrier Group. The location service will not be available if the phone is roaming or is turned off. Other Network Carriers will be added as they become available. Location coordinates (longitude, latitude, and radius) will be obtained only when we have proper authorization from you, as a registered user. Mobile phone user privacy is extremely important to us at Belk. Location coordinates are only gathered after you have agreed to use this service. 
 
 **Privacy Protection of Children**
 
