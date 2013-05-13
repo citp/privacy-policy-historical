@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023014239id_/http%3A//www.elliman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514013309id_/http%3A//www.elliman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Prudential Douglas Elliman
+# Privacy Policy | Douglas Elliman
 
 ## Privacy Policy
 
-At Prudential Douglas Elliman, we understand and respect your concerns about privacy and security, and will do our best to provide a convenient and safe online experience. This Privacy Policy describes what information we collect, how we may use that information, how we share that information, and how we protect that information on our website, which is located at [www.elliman.com](http://www.elliman.com/) (the “Site”). We may update this Privacy Policy at any time, and we therefore encourage you to check this section periodically for any changes.
+At Douglas Elliman, we understand and respect your concerns about privacy and security, and will do our best to provide a convenient and safe online experience. This Privacy Policy describes what information we collect, how we may use that information, how we share that information, and how we protect that information on our website, which is located at [www.elliman.com](http://www.elliman.com/) (the “Site”). We may update this Privacy Policy at any time, and we therefore encourage you to check this section periodically for any changes.
 
 ## What personal information do we collect?
 
