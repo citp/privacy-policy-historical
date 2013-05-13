@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the vwdarkside.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017070708id_/http%3A//www.greenpeace.org.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwdarkside.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513053958id_/http%3A//www.greenpeace.org.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Greenpeace UK
 
-The Rainbow Warrior arrives in Papua New Guinea to a traditional welcome 
-
 Greenpeace believes you have a fundamental right to privacy on the web, and we work to protect your security online as vigorously as possible. We have developed the following policy to help you understand how your personal information will be treated as you engage with us both on and off-line. Our policy reflects our duties under the [Data Protection Act](http://www.ico.gov.uk/) to use information fairly, keep it secure, make sure it is accurate, and keep it up to date.
 
-This policy applies to all the pages hosted on this site, and also to our Active Supporters site, [www.greenpeaceactive.org.uk](http://www.greenpeaceactive.org.uk/). It does not apply to pages hosted by other Greenpeace sites around the world, or to other organisations to which we may link and whose privacy policies may differ.
+This policy applies to all the pages hosted on this site. It does not apply to pages hosted by other Greenpeace sites around the world, or to other organisations to which we may link and whose privacy policies may differ.
 
 Please read the following policy to understand how your personal information will be treated. It may change from time to time so please check back periodically.
 
@@ -35,7 +33,7 @@ N1 2PN
 
   
 Tel: +44 20 7865 8183  
-or write to [supporter@uk.greenpeace.org](mailto:supporter@uk.greenpeace.org)
+or [email us via the contact form](http://www.greenpeace.org.uk/forms/supporter).
 
 If you are not satisfied with our response to your concern: you may wish to contact the [Information Commissioner's Office](http://www.ico.gov.uk/).
 
@@ -77,13 +75,13 @@ _Accessing and updating membership records online_
 
 We are working on ways to make it easier for you to review and correct the information that Greenpeace maintains about you. We are developing mechanisms to give all our members access to their membership record online. In the meantime, you can amend your membership details by emailing our supporter administration team.
 
-If you have any questions about the information we maintain about your supporter details please contact [supporter@uk.greenpeace.org](mailto:supporter@uk.greenpeace.org)
+If you have any questions about the information we maintain about your supporter details please [contact us](http://www.greenpeace.org.uk/forms/supporter).
 
 **6.How do I opt out of receiving messages from Greenpeace UK?**
 
 We will only send you unsolicited emails if you have given us permission to contact you about other areas of Greenpeace's work. We do not send out random, untargeted emails (spam). If we send you unsolicited emails, the email will enable you to register an opt-out to receiving other emails from us. Any email that is sent to you, because we received your details from some one who recommended you to us, will clearly say this in the email.
 
-If you do not wish to receive messages from us, please send an email asking that your contact information be eliminated from our databases to [supporter@uk.greenpeace.org](mailto:supporter@uk.greenpeace.org).
+If you do not wish to receive messages from us, please [contact us](http://www.greenpeace.org.uk/forms/supporter) asking that your contact information be eliminated from our databases.
 
 NB By signing up as a cyberactivist or donor, you accept this privacy policy and authorize Greenpeace UK to collect, store and process your information in the ways mentioned above and for the purposes you submitted it.
 
