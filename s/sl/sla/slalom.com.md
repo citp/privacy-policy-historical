@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slalom.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110203723id_/http%3A//www.slalom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slalom.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513052641id_/http%3A//www.slalom.com/privacy-policy) for the most accurate reproduction.*
 
 # Slalom Consulting | Business Technology Consulting Firm
 
