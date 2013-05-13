@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodrepublic.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029142507id_/http%3A//www.foodrepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodrepublic.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513073810id_/http%3A//www.foodrepublic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Food Republic
 
@@ -74,10 +74,8 @@ If you have any questions about this Privacy Policy you may contact us at:
 
 Site Administrator  
 Food Republic  
-770 Lexington Avenue.  
-11th Floor  
-New York, NY 10065  
-Fax: 1 (646) 430-9447  
+349 Fifth Avenue  
+New York, NY 10016  
 [Click here to contact us](mailto:administrator@foodrepublic.com).
 
 This Privacy Policy is effective as of March 1, 2011.
