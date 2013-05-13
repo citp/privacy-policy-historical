@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118081749id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513030956id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Taste.com.au
 
@@ -103,7 +103,7 @@ If you have any questions or comments regarding this policy, please email us at:
 or you can write to us at:
 
 Online Privacy Manager  
-News Magazines  
+NewsLifeMedia  
 170-180 Bourke Road  
 Alexandria NSW 2015  
 Australia
