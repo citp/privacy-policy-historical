@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502082616id_/http%3A//www.oroton.com/www/597/1001127/displayarticle/1001273.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513133828id_/http%3A//www.oroton.com/www/597/1001127/displayarticle/1001273.html) for the most accurate reproduction.*
 
 # privacy | Oroton Luxury Accessories
 
-  
-  
----  
-  
 This website is owned by, and content is published OrotonGroup (Australia) Pty Limited A.C.N. 000 704 129 trading as Oroton ("Publisher"). You must not access, browse or use this website unless you agree to be bound by the terms and conditions set out below. If you do not agree to these terms and conditions, you must not use this website. For an explanation of the practices and policies of Publisher relating to the collection, use, and storage of information of users of this website, users should refer to the Privacy Policy and Disclosure Statement of Publisher on this website. 
 
 The information contained on this website is intended for general information only and should not be considered to be complete or definitive. Information on this website may contain technical inaccuracies or typographical errors. Publisher accepts no responsibility regarding the accuracy of information that is provided by Publisher on this website and use of such information is at your own risk. Publisher reserves the right to make changes at any time, without notice, to any element of the website. All content and functionality on this website is provided "as is" and without warranties of any kind by Publisher, express or implied. This website contains links to sites maintained by other organisations, and Publisher does not take any responsibility for the content or functionality of those sites. You should take appropriate action to ensure that your access to, and use of this website and other sites is protected against, and free from viruses (including macro viruses), worms, trojan horses and other harmful and destructive material.
