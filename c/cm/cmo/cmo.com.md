@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cmo.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015151641id_/http%3A//www.cmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmo.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513141851id_/http%3A//www.cmo.com/content/cmo-com/home/toolbar/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | CMO.com
+# Privacy Policy
 
 **Privacy Policy**  
 Effective June16, 2009
 
-Omniture and its subsidiaries (hereinafter “we”) have created this privacy policy (the "Site Policy") to describe the information practices of this Omniture website ([www.CMO.com](http://www.cmo.com/ "www.CMO.com"), the "Site"). Because we gather important information from visitors to the Site, we have established the Site Policy as a means to communicate our information gathering and dissemination practices for the Site. We will treat your personal information in accordance with the privacy statement in place at the time of collection of such information, or as you otherwise consent. By using the Site, you are agreeing to the terms of the Site Policy. We reserve the right to change the Site Policy. If we decide to make a material change to the Site Policy, we will post a notice at least thirty days prior to making any material changes. Your continued use of the Site, including use after the posting of any changes to these terms, will be deemed acceptance by you of the Site Policy.
+Omniture and its subsidiaries (hereinafter “we”) have created this privacy policy (the "Site Policy") to describe the information practices of this Omniture website (www.CMO.com, the "Site"). Because we gather important information from visitors to the Site, we have established the Site Policy as a means to communicate our information gathering and dissemination practices for the Site. We will treat your personal information in accordance with the privacy statement in place at the time of collection of such information, or as you otherwise consent. By using the Site, you are agreeing to the terms of the Site Policy. We reserve the right to change the Site Policy. If we decide to make a material change to the Site Policy, we will post a notice at least thirty days prior to making any material changes. Your continued use of the Site, including use after the posting of any changes to these terms, will be deemed acceptance by you of the Site Policy.
 
 You will find information on the following topics within this Site Policy:  
 •    Collected Information  
@@ -14,7 +14,7 @@ You will find information on the following topics within this Site Policy:
 •    Third-Party Sites  
 •    Opt-Out & Update Policy
 
-**Collected Information**
+ **Collected Information**
 
 Anonymous Information   
 You can visit many sections of the Site to read information without telling us who you are and without revealing any personal information. To improve the usefulness of the Site, we measure and analyze non-identifying, aggregate usage, and volume statistical information from Site visitors in order to administer the Site, and to constantly improve the quality of our service and site performance, such as providing more relevant content to you during your visit(s).   
@@ -34,7 +34,7 @@ We may disclose personal information when required by law, or in order to comply
 Blogs  
 If you use a blog on the Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-**Cookies and clear GIFs**
+ **Cookies and clear GIFs**
 
 What Are Cookies   
 Cookies are files that web servers place on an Internet user’s computer that are designed to store basic information (such as visitor preferences). The use of cookies on the Site allows visitors to enjoy more seamless visits and more accurately measures visitor behavior on the Site. There are two types of cookies that we may use: session and persistent. Session cookies exist only during an Internet user’s online session. They disappear from the user’s computer when he/she closes the browser software. Persistent cookies remain on the user’s computer after the browser has been closed. The cookies used on the Site do not identify you personally. They merely recognize your browser, unless you choose to identify yourself voluntarily. You may choose to identify yourself for any one of the following reasons: by asking the browser to remember your username and password, by responding to a promotional offer, or by personalizing a web page or requesting more information on a product or service.
@@ -43,7 +43,7 @@ How We Use Cookies
 When you interact with the Site, we strive to make that experience easy, meaningful, and relevant. When you come to the Site, our web server uses cookies to improve your interaction with the Site by, for example, remembering your preferences and dynamically serving more relevant content to you. More specifically, we use cookies to measure your behavior on the Site and to save personal settings on specific pages. For subscribers who login to our Site, cookies can also be used to save the username so that we can process the saved login information and quickly log that user into the Site. Cookies also help us make sure you are who you say you are after you've logged in. We may link personal information that you have submitted on the Site with our cookies that are associated with your visit(s) to the Site in order to provide more relevant content to you during your visit(s). We use cookies (that only we can read and use) to identify the fact that you are one of our subscribers or a prior Site visitor (as applicable). Visitors who disable their web browsers' ability to accept cookies will still be able to browse the Site; however, they may lose some of the functionality provided by the use of cookies..
 
 Controlling Our Use of Cookies  
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you are using a public computer or do not otherwise want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used. For further information about disabling cookies you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org"). If you choose to decline cookies, you may not be able to login or use other interactive features of our websites and services that depend on cookies.
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you are using a public computer or do not otherwise want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used. For further information about disabling cookies you can visit www.allaboutcookies.org. If you choose to decline cookies, you may not be able to login or use other interactive features of our websites and services that depend on cookies.
 
 What are Clear Gifs?   
 Clear gifs (also known as web beacons) are used in combination with cookies to help Site operators understand how visitors interact with their websites. A clear gif is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. The use of a clear gif allows the Site to measure the actions of the visitor opening the page that contains the clear gif.
@@ -56,19 +56,19 @@ The Site has physical, administrative and technical measures in place to maintai
 
 While we strive to protect your personal information, no data transmission over the Internet can be guaranteed to be totally secure and therefore we cannot ensure or warrant the security of any information you send to us. You send any information via the Site at your own risk.
 
-**Third party sites**  
+ **Third party sites**  
 The Site contains links to other websites. We are not responsible for the privacy practices or the content of these other websites. Subscribers and visitors should check the privacy policy statements of these other websites to understand their policies. Subscribers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 
-**Opt-out and update policies**
+ **Opt-out and update policies**
 
 Opt-Out Policy:  
-We offer visitors to the Site a means for controlling the use of session information. If, at any time after registering for information or ordering our services, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication, click [here](http://www.cmo.com/unsubscribe "CMO.com newsletter unsubscription") or go to [http://www.Omniture.com/unsubscribe](http://www.omniture.com/unsubscribe "http://www.Omniture.com/unsubscribe") to be removed. If you do not wish to allow your session visitation information on the Site to be aggregated and analyzed by us, you may utilize the following opt out mechanism. [Click Here To Opt-Out Now](http://www.omniture.com/en/privacy/optout/tnt). In addition, if you do not wish to allow your session visitation information to be used for receiving dynamic content via the Site tailored to your specific interests during your session on this Site, you may utilize the following opt out mechanism. [Click Here To Opt-Out Now](http://www.omniture.com/en/privacy/policy#optout).  
+We offer visitors to the Site a means for controlling the use of session information. If, at any time after registering for information or ordering our services, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication, click [here](http://www.cmo.com/unsubscribe "CMO.com newsletter unsubscription") or go to http://www.Omniture.com/unsubscribe to be removed. If you do not wish to allow your session visitation information on the Site to be aggregated and analyzed by us, you may utilize the following opt out mechanism. [Click Here To Opt-Out Now](http://www.omniture.com/en/privacy/optout/tnt). In addition, if you do not wish to allow your session visitation information to be used for receiving dynamic content via the Site tailored to your specific interests during your session on this Site, you may utilize the following opt out mechanism. [Click Here To Opt-Out Now](http://www.omniture.com/en/privacy/policy#optout).  
 
 Updating Your Information:  
 We provide all visitors to the Site options for reviewing, changing, deleting and modifying personally identifiable information previously provided. To update your profile, or to discontinue your subscription, please login to your account on the Site.  .  
-We will provide you with a copy of any personal information that you have provided in connection with your visit to the Site should you request it, but will require evidence of your identity. We may require a nominal administration fee to cover our costs in providing such information. If you wish to access the personal information we have about you, or to correct factual errors in our records, please contact us as set forth in the "Contact Us" section below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+We will provide you with a copy of any personal information that you have provided in connection with your visit to the Site should you request it, but will require evidence of your identity. We may require a nominal administration fee to cover our costs in providing such information. If you wish to access the personal information we have about you, or to correct factual errors in our records, please contact us as set forth in the "Contact Us" section below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections.   
+
 
 Contact Us:  
-If you have questions, concerns, or suggestions regarding our Privacy Policy, you should first contact our Privacy Department by e-mail at [feedback@CMO.com](mailto:feedback@CMO.com). We may also be reached at the contact information on our [Contact Us](https://web.archive.org/web/20121015151641id_/http%3A//www.cmo.com/contact-us) page. Our physical address is 550 East Timpanogos Circle, Orem, Utah 84097.
+If you have questions, concerns, or suggestions regarding our Privacy Policy, you should first contact our Privacy Department by e-mail at info@CMO.com.   
 
-[](https://web.archive.org/printmail/node/3369)  [](https://web.archive.org/forum) 
