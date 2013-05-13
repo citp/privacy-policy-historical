@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101221809id_/http%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513054110id_/http%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ When you visit the Service, we may send one or more cookies - a small text file 
 
 **_How Is Such Information Used_?**
 
-We use the data that you provide or we collect to provide you the services offered on our Service. Humble Bundle uses your email address to email you a link to your download page and to notify you of future Humble Bundle promotions if the "Notify me about future Humble Bundles" checkbox is checked. 
+We use the data that you provide or we collect to provide you the services offered on our Service. Humble Bundle uses your email address to email you a link to your download page and to notify you of future Humble Bundle promotions if the "Notify me about future Humble Bundle promotions" checkbox is checked. 
 
 Humble Bundle uses the data you enter on the Service, such as the price you enter and your slider positions, to make sure that your contributions go to the right places. Humble Bundle uses browser data like which operating system you are using to improve user-experience by making your download page default to the game builds corresponding to your current operating system. Humble Bundle may use the site data collected to produce general and anonymous statistics about consumer behavior. 
 
