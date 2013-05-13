@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sessions.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231185004id_/http%3A//www.sessions.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessions.edu privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513041342id_/http%3A//www.sessions.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sessions College for Professional Design
 
@@ -44,7 +44,7 @@ Our postal address is
 
 Sessions College for Professional Design  
 Main Campus  
-398 S. Mill Avenue, Suite 300  
+350 S. Mill Avenue, Suite B-104  
 Tempe, AZ 85281 
 
 
