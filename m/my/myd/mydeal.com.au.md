@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002211958id_/http%3A//mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513104749id_/http%3A//mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
 
-# MyDeal.com.au | Privacy Policy
+# My Deal
+
+Privacy Policy
 
 MyDeal.com.au (“Site”) is owned and operated by MyDeal.com.au Pty Ltd (ABN 60 150 104 715)(“MyDeal”).   
 This statement sets out MyDeal’s policies relating to the collection and use of your personal information. It applies to your conduct on the MYDEAL website (“Site”). This policy is in addition to the Terms of Use governing the Site and should be read in conjunction with the Terms of Use.   
@@ -39,9 +41,7 @@ Your personal sensitive information and data is only shared with third parties a
 Where MYDEAL does make information or data available to certain authorised agents of MYDEAL, it will do so only in connection with the operation of the Site and MYDEAL will ensure that they apply the MYDEAL Pricacy Policy or in applicable statutory or common law requirement. MYDEAL will not pass your information on to advertisers except with your permission.   
 Please note that in using the Site you may be communicating with individuals and organisations outside of Australia. In that case, their use of your personal information may not be covered by Australian law or an applicable privacy protection scheme. 
 
-**Secure Online Transactions**
-
-If you purchase a Coupon through our website, we process your credit card details securely over the Internet using eWAY’s bank-grade data centre (eWAY is an accredited Internet payment security system authorised as a third party processor for all major Australian banks). With the combination of transaction performed under 256 Bit SSL Certificate on our website and a secure browser at your end, we take all measures to ensure that your credit card and anonymity are protected when you purchase online.
+**Secure Online Transactions** If you purchase a Coupon through our website, we process your credit card details securely over the Internet using eWAY’s bank-grade data centre (eWAY is an accredited Internet payment security system authorised as a third party processor for all major Australian banks). With the combination of transaction performed under 256 Bit SSL Certificate on our website and a secure browser at your end, we take all measures to ensure that your credit card and anonymity are protected when you purchase online.
 
 **Non-customer information**
 
