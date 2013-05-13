@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rc-fever.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103154254id_/http%3A//www.rc-fever.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rc-fever.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513023356id_/http%3A//www.rc-fever.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
