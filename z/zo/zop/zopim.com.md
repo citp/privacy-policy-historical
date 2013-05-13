@@ -1,18 +1,23 @@
-> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012081737id_/https%3A//www.zopim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513160650id_/https%3A//www.zopim.com/privacy) for the most accurate reproduction.*
 
 # Zopim - Privacy Policy
 
-> Updated 9 August 2012
+> Updated 24 October 2012
 
 Zopim respects and takes your privacy very seriously. This Policy applies to all of the products and services offered by Zopim or its subsidiaries or affiliated companies. If you have any questions about this Policy, please feel free to contact us through our website or email us at [support@zopim.com](mailto:%20support@zopim.com). 
 
 ## 1\. Information we collect and how we use it
 
-  1. Information you provide - As an end user, we generally do not require you to provide any information. However, you may still supply us with information such as email or webpage address. If you register for an account with us, we may ask you for personal information such as name, contact details, account password, instant messaging ID or credit card information. 
+  1. Information you provide - As an end user, we generally do not require you to provide any information. However, you may still supply us with information such as email or webpage address. If you register for an account with us, we may ask you for personal information such as email, name, contact details, account password, instant messaging ID or credit card information. Credit / payment card data provided by the user are disclosed solely to professional companies that conduct non-cash transactions and only to the extent necessary to effect the payments. Except for the above situations Zopim shall not disclose any information or personal data provided by users. 
   2. Cookies - Zopim use "cookies" and "Flash cookies", common known as Adobe Flash [Local Shared Object (LSO)](http://en.wikipedia.org/wiki/Local_shared_object) to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. 
     * Zopim uses cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content and appropriate advertising on your later visits to these sites. We store your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. We also use cookies to improve the sign in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in. If you are using a public computer or do not otherwise want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used. 
     * You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our products and services that depend on cookies. 
     * "Flash cookies" or LSOs may be accessed and deleted through the [ Adobe Flash Player Settings Manager](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+    * "Live Chat Cookies"  
+In compliance with the EU Cookie / Privacy Law, we have revised our privacy policy to list and describe the cookies that our live chat widget sets:  
+**__zlcid** Stores the Zopim Live Chat ID used to identify the device across visits, and also across a single chat session.  
+**__zprivacy** Stores the user's preference to disable Live Chat, and cease using cookies. This is stored across visits.  
+
   3. Log information - When you use Zopim services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
   4. User communications - When you send email or other communication to Zopim, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
 
