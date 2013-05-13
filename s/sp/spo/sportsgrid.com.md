@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsgrid.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124054743id_/http%3A//www.sportsgrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsgrid.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513183448id_/http%3A//www.sportsgrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SportsGrid
 
@@ -23,7 +23,7 @@ SportsGrid, LLC. may periodically e-mail you messages about products and service
 SportsGrid may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. Session ID cookies terminate as soon as the user closes the/his/his or her browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help instructions.
 
 **Third-Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser[s] may place or recognize a unique cookie on your browser.
+We use third-party advertising companies to serve ads and collect information when you visit SportsGrid. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. SportsGrid has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
 
 **Log Files**  
 Like most Web sites, our servers use log files. These log files record include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. SportsGrid uses this information to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. SportsGrid may use a tracking utility that uses log files to analyze user movement.
