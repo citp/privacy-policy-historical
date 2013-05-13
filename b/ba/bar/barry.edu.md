@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103160356id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513162918id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy : Barry University, Miami Shores, Florida
 
@@ -23,7 +23,7 @@ All emails sent from Barry University to accounts outside of the University (ema
 
 
 
-You can unsubscribe from future emails from Barry University by visiting [ http://www.barry.edu/email/unsubscribe.aspx](http://www.barry.edu/email/unsubscribe.aspx). To unsubscribe from future emails via postal mail, send your request directly to Barry University, Attn: Privacy Administrator, Information Technology, 11300 N.E. 2nd Avenue, Miami Shores, FL 33161.
+You can unsubscribe from future emails from Barry University by visiting [ http://www.barry.edu/email/unsubscribe.aspx](https://web.archive.org/email/unsubscribe.aspx). To unsubscribe from future emails via postal mail, send your request directly to Barry University, Attn: Privacy Administrator, Information Technology, 11300 N.E. 2nd Avenue, Miami Shores, FL 33161.
 
 ##  Security
 
