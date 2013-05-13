@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kualalumpurpost.net privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107160431id_/http%3A//www.kualalumpurpost.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kualalumpurpost.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513182753id_/http%3A//www.kualalumpurpost.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Kuala Lumpur Post | Independent Online News
 
@@ -78,5 +78,3 @@ The Site contains links to other websites. We are not responsible for the privac
 UPDATES AND CHANGES TO PRIVACY POLICY
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
-
-[Edit](http://www.kualalumpurpost.net/wp-admin/post.php?post=195&action=edit "Edit Page")
