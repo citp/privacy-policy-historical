@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018183118id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514004911id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy - HysterSisters.com
 
