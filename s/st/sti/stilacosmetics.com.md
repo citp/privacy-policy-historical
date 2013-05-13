@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stilacosmetics.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005152420id_/http%3A//www.stilacosmetics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stilacosmetics.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513052113id_/http%3A//www.stilacosmetics.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Stila Cosmetics Privacy Policy
+# Privacy and Security - Beauty, Cosmetics, Makeup - Stila Cosmetics
 
 When you provide us with information through stilacosmetics.com (the "Site"), we respect your privacy. It is important for you to understand what information we collect during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our Terms and Conditions. Please note that this Privacy Policy governs only information provided to stilacosmetics.com and communications from stilacosmetics.com. It does not govern any other information or communications that may reference stila Corp., or "stila" or any derivation thereof, e.g., communications from retailers or brick and mortar stores. This Privacy Policy was last updated 12/28/06.
 
@@ -54,7 +54,7 @@ Some of our other business partners and service providers may also use cookies o
 * * *
 
 6\. Pixel Tags and Tracking Technology  
-When you visit this Site or view one of our emails, we may use pixel tags (also called “clear” gifs), tracking links and/or similar technology to note some of the pages you visit on our Site and personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information.
+When you visit this Site or view one of our emails, we may use pixel tags (also called �clear� gifs), tracking links and/or similar technology to note some of the pages you visit on our Site and personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information.
 
 * * *
 
@@ -82,14 +82,14 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 * * *
 
 12\. Updating Your Information  
-If you are a registered user, you can review, change or correct your personal information at any time by [signing in](https://web.archive.org/login.asp)and clicking the "account info" link in the upper right corner of every page. You may request that we deactivate your account by emailing us at [custcare@stilacosmetics.com](mailto:custcare@stilacosmetics.com).
+If you are a registered user, you can review, change or correct your personal information at any time by [signing in](https://web.archive.org/account/login.do)and clicking the "account info" link in the upper right corner of every page. You may request that we deactivate your account by emailing us at [custcare@stilacosmetics.com](mailto:custcare@stilacosmetics.com).
 
 * * *
 
 13\. Choice/Opt-Out  
-You may opt-out of receiving future Opt-In Communications from stilacosmetics.com when you [register](https://web.archive.org/login.asp) at the Site or otherwise provide your contact information to stilacosmetics.com. You may change your preferences at any time by revising your profile by [signing in](https://web.archive.org/login.asp), clicking the “unsubscribe” link at the bottom of any email Opt-In Communication you receive from us and following the instructions provided therein, or by emailing us at [custcare@stilacosmetics.com](mailto:custcare@stilacosmetics.com).
+You may opt-out of receiving future Opt-In Communications from stilacosmetics.com when you [register](https://web.archive.org/account/login.do) at the Site or otherwise provide your contact information to stilacosmetics.com. You may change your preferences at any time by revising your profile by [signing in](https://web.archive.org/account/login.do), clicking the �unsubscribe� link at the bottom of any email Opt-In Communication you receive from us and following the instructions provided therein, or by emailing us at [custcare@stilacosmetics.com](mailto:custcare@stilacosmetics.com).
 
 * * *
 
 14\. Comments  
-We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site’s privacy practices, please contact us by email at [custcare@stilacosmetics.com](mailto:custcare@stilacosmetics.com).
+We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site�s privacy practices, please contact us by email at [custcare@stilacosmetics.com](mailto:custcare@stilacosmetics.com).
