@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubai-online.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109151549id_/http%3A//www.dubai-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai-online.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514000254id_/http%3A//www.dubai-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dubai Online
 
