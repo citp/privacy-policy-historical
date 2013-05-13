@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yageo.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630090959id_/http%3A//www.yageo.com/portal/privacy_policy/privacy.jsp%3Fmenuid%3D911%26SWITCH_CATEGORY%3D/privacy_policy/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yageo.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513123507id_/http%3A//www.yageo.com/portal/privacy_policy/privacy.jsp%3Fmenuid%3D911%26SWITCH_CATEGORY%3D/privacy_policy/Privacy%2520Policy) for the most accurate reproduction.*
 
 # YAGEO
 
