@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newyorkcomiccon.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110194941id_/http%3A//www.newyorkcomiccon.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkcomiccon.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513210825id_/http%3A//www.newyorkcomiccon.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - New York Comic Con | October 11 - 14, 2012 | Javits Center
+# Privacy Policy - New York Comic Con | October 10 - 13, 2013 | Javits Center
 
 The effective date of this policy as posted is March 22, 2004.
 
