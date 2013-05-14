@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchrate.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110093847id_/http%3A//pitchrate.com/content/content-article.asp%3FArticleID%3D4816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchrate.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514070755id_/http%3A//pitchrate.com/content/content-article.asp%3FArticleID%3D4816) for the most accurate reproduction.*
 
 # Free Publicity:Privacy Policy
 
@@ -93,7 +93,7 @@ Know the sites your children are visiting and which sites are appropriate.
 
 Look for website privacy policies. Know how your child's information is treated.
 
-Please visit the [FTC's website](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more tips on protecting children's privacy online.
+Please visit the [FTC's website](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy) for more tips on protecting children's privacy online.
 
 **Need assistance?**
 
