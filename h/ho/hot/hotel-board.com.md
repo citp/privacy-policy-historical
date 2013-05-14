@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel-board.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101044948id_/http%3A//www.hotel-board.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-board.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514225616id_/http%3A//www.hotel-board.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Hotel-Board.com Privacy Policy
 
