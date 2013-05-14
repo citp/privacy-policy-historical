@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112001119id_/http%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514123112id_/http%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CarTrade.com
 
@@ -41,5 +41,17 @@ By use of CarTrade.com you agree to be aware of our privacy policy and your appr
 _**On Sale**_
 
 Personal information collected may be transferred and shared in the event of a sale..
+
+_**Information Collected About You**_
+
+We may collect "Non-Personal Information" - information that cannot be used to identify you â€“ via Cookies, even if you have not registered with or provided any Personal Information to CarTrade.com.
+
+_**What Choices Do I Have?**_
+
+Most browser software can be set to reject Cookies, and you can opt out of Cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site.
+
+_**How Information Collected About You Is Used?**_
+
+Third parties may use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community.
 
 If you have any questions about our privacy policy, please contact us on [privacy@cartrade.com](mailto:privacy@cartrade.com).
