@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itags.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014033843id_/http%3A//itags.org/app/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itags.org privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514152906id_/http%3A//itags.org/app/about/privacy) for the most accurate reproduction.*
 
 # privacy statement
 
