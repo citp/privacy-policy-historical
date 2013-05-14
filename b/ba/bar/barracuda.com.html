@@ -1,0 +1,285 @@
+<!--The following is the downloaded HTML source of the barracuda.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514095347id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="UTF-8">
+<meta name="description" content="Barracuda Networks is the worldwide leader in Security, Application Delivery and Data Protection Solutions.">
+<meta property="og:image" content="https://www.barracuda.com/img/layout/logo/barracuda_icon.jpg">
+<link rel="image_src" type="image/jpeg" href="https://www.barracuda.com/img/layout/logo/barracuda_icon.jpg">
+<title>Barracuda Networks
+  </title>
+<link rel="icon" href="https://www.barracuda.com/img/layout/logo/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.barracuda.com/img/layout/logo/favicon.png">
+<link rel="apple-touch-icon" href="https://www.barracuda.com/img/layout/logo/ios_icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.barracuda.com/img/layout/logo/ios_icon72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.barracuda.com/img/layout/logo/ios_icon114x114.png">
+<link rel="stylesheet" media="all" href="https://www.barracuda.com/css/vendor/reset.css">
+<link rel="stylesheet" media="all" href="https://www.barracuda.com/css/vendor/960.css">
+<link rel="stylesheet" media="all" href="https://www.barracuda.com/css/master.css?v=1368134542">
+<link rel="stylesheet" type="text/css" href="https://www.barracuda.com/css/vendor/jquery.fancybox.css">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.barracuda.com/css/ie_styles.css" />
+<![endif]-->		
+<script src="https://www.barracuda.com/js/vendor/head.min.js"></script>
+  <!--[if IE]>
+  <script src="https://www.barracuda.com/js/vendor/jquery/jquery.tools.min.js"></script>
+  <![endif]-->
+<script>
+  var  ua = navigator.userAgent.toLowerCase();
+  var isChrome= ua.indexOf("chrome") > -1; //&& ua.indexOf("mobile");
+  head.js('https://www.barracuda.com/js/vendor/jquery/jquery.tools.min.js')
+  .js('https://www.barracuda.com/js/vendor/jquery/jquery.datatables.min.js')
+  .js('https://www.barracuda.com/js/cuda/cuda.js?v=1365632680')
+    .js('https://www.livehelpnow.net/lhn/scripts/lhnvisitor.aspx?d=0&div=&zimg=-1&lhnid=1288&iv=&custom1=&custom2=&custom3=')
+    .js('https://www.barracuda.com/js/google_tracking_code.js')
+  .js('https://www.barracuda.com/js/pardot.js')
+
+  head.ready(function() {
+    //function checkCookie(){
+    var chatbubble_status = getCookie("chatbubble_status");
+    if (chatbubble_status == null && chatbubble_status != "") {
+      chatbubble_show();
+    }
+    CUDA.Util.translate.add({ 'siteUrl': 'https://www.barracuda.com' });
+    if(!isChrome) { 
+      $("form.portal_login input")
+      .bind("focus.labelFx", function(){
+        $(this).prev().hide();
+      })
+      .bind("blur.labelFx", function(){
+        $(this).prev()[!this.value ? "show" : "hide"]();
+      })
+      .trigger("blur.labelFx");
+    }
+    $(".language_link").click(function(e) {
+      e.preventDefault();
+      $("#UL_LANGUAGE").toggle();
+      $(".language_link").toggleClass("menu-open");
+    });
+
+    $("#UL_LANGUAGE").mouseup(function() {
+      return false
+    });
+
+    $(document).mouseup(function(e) {
+      if($(e.target).parent("a.language_link").length==0) {
+        $(".language_link").removeClass("menu-open");
+        $("#UL_LANGUAGE").hide();
+      }
+    });
+
+    $(".login_link").click(function(e) {
+        e.preventDefault();
+        $("div#DIV_PARTNERLOGIN").toggle();
+        $(".login_link").toggleClass("menu-open");
+    });
+    $("div#DIV_PARTNERLOGIN").mouseup(function() {
+        return false
+    });
+
+    $(document).mouseup(function(e) {
+      if($(e.target).parent("a.login_link").length==0) {
+        $(".login_link").removeClass("menu-open");
+        $("div#DIV_PARTNERLOGIN").hide();
+      }
+    });
+  });
+</script>
+
+	
+
+</head>
+<body>
+    <img style="display: none" src="https://www.barracuda.com/img/layout/logo/barracuda_icon.jpg" alt="Barracuda Icon">	
+      <div id="livechat">
+    <a href="#" onclick="OpenLHNChat();return false;">Live Chat</a>
+    <div id="chatbubble" onclick="setCookie('chatbubble_status',chatbubble_status='off',7);">
+      <div class="overlay_close" title="Close"></div>
+        <p>I can answer your questions.</p>
+    </div>
+  </div>
+  <div id="cudatel_tab">
+    <a href="http://www.cudatel.com" target="_blank">Cudatel</a>
+  </div>
+  <div id="cudaeye_tab">
+    <a href="http://www.cudaeye.com" target="_blank">Cudaeye</a>
+  </div>
+  <div id="copy_tab">
+    <a href="https://www.copy.com/?s=barracuda_home" target="_blank">Copy</a>
+  </div>
+    <div class="constraint" id="header">
+    <div id="etc">
+      <div id="tagline">IT Problems. Solved.</div>
+            <div id="phone_number">+1 408 342 5400 / 888 268 4772</div>
+            <ul class="nav">
+                <li><a href="https://login.barracuda.com">Customer Login</a></li>
+                <li class="dropdown">
+                  
+    <a href="#" class="login_link">Partner Portal</a>
+    <div class="chat_bubble" id="DIV_PARTNERLOGIN">
+      <form class="portal_login" name="portal_login_top" id="portal_login_top" method="post" action="https://www.barracuda.com/login"><input type="hidden" name="nccharset" value="75A9E400">
+        <fieldset>
+          <h3>Partner Portal Login</h3>
+            <ul>
+             
+              <li><label for="username">Username/Email</label><input name="username" id="username" type="email" data-validate="email,required" value=""></li>
+              <li><label for="password">Password</label><input name="password" id="password" type="password" data-validate="required" value=""></li>
+                        </ul>
+            <hr>
+            <ul>
+              <li><input name="login" value="Login" class="med orange btn" type="submit"></li>
+              <li><a href="https://www.barracuda.com/login/request_passwd">Forgot Password or do not have one?</a></li>
+            </ul>
+          </fieldset>
+      </form>      
+    </div>
+          </li>
+          <!--	<li><a href="https://bu.barracuda.com">Barracuda University</a></li>-->
+        <li class="dropdown">
+                    <a href="#" class="language_link">English</a>
+                    <ul id="UL_LANGUAGE" class="chat_bubble">
+                    	
+                                         
+            <li class="active"><a href="?L=en">English</a></li>							
+                              	
+                     
+            <li><a href="?L=de">Deutsch</a></li>							
+                              	
+                                        	
+                     
+            <li><a href="?L=jp">日本語</a></li>							
+                              	
+                              								
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <h1 id="logo"><a href="https://www.barracuda.com/">Barracuda Networks</a></h1>			
+    <ul class="nav primary">
+          					
+            	
+            <li><a href="https://www.barracuda.com/news">News</a></li>							
+          					
+            	
+            <li><a href="https://www.barracuda.com/products">Products</a></li>							
+          					
+            	
+            <li><a href="https://www.barracuda.com/purchase">Purchase</a></li>							
+          					
+            	
+            <li><a href="https://www.barracuda.com/support">Support</a></li>							
+          					
+            	
+            <li><a href="https://www.barracuda.com/company">Company</a></li>							
+          					
+            	
+            <li><a href="https://www.barracuda.com/events">Training &amp; Events</a></li>							
+        </ul>			
+  </div>
+  <div class="container_12" id="content">
+    
+	
+	<section class="grid_12">
+		<p></p><h2>Barracuda Networks Privacy Policy</h2>
+<p>We recognize and respect your right to privacy. This policy explains how Barracuda Networks, Inc. (Barracuda Networks) collects and handles data while you visit our web site. </p>
+<h3>Personal Information</h3>
+<p>Personal information is information that enables us to identify and process payments by you, such as your email address, name, mailing address, telephone number, company name, and credit card information.</p>
+<h3>Personal Information We Collect</h3>
+<p>You may use most of our site without supplying any personal information. However, certain parts of our site are available only if you obtain a password. Barracuda Networks collects personal information when you register for a password, and at various other places on our site where you may register for a webinar/seminar or obtain or request other information or services. </p>
+<h3>Other Information We Collect</h3>
+<p>Barracuda Networks uses cookies for your convenience to store information so you do not have to reenter your data upon each visit. Cookies and other technology are also used to monitor usage of the various features and services of our site, which over time gives us information to improve our site, and to advertise and market our products more effectively. When you visit our site, as with most all web sites, we automatically log the domain name of where you came from, the IP address your computer is currently using, the type of web browser that you use,  Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.  </p>
+<p>This information allows us to operate the site by serving the pages you visit, and we may use the information for statistical purposes and to track usage patterns. In addition, we use the data we collect to make various determinations in our systems.  We do not use this information to personally identify you, the user. </p> 
+<p>We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.</p>
+
+<h3>How We Use Personal Information</h3>
+<p>We use the personal information you supply to register you for webinars/seminars, assign a password or take other action you request when you supply the information. </p>
+<h3>How We Protect Personal Information</h3><h3>
+<p>Barracuda Networks is committed to taking steps to protect the personal information you provide to us, including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction. </p>
+
+<p>Your personal information is accessed only by authorized staff who are instructed to handle your information with confidentiality. It is protected by firewalls and standard industry security measures. We may also transmit sensitive information and transactional data using secure socket layer (SSL) encryption.</p>
+</h3><h3>Sharing Information With Third Parties and Within Barracuda</h3>
+<p>We do not sell or rent the personal information we collect to anyone at this time. Unless we have your permission or are required by law, we will only provide personal information to other Barracuda entities, and to third parties who operate certain parts of our site, resell our products, or help us with some services we provide.  Data provided to third parties is stored on systems we do not own and is provided in accordance with our policies.</p>  
+<p>We may transfer your information across border and from your country or jurisdiction to other countries or jurisdictions around the world. </p>
+<h3>Your Control over Personal Information</h3>
+<p>When you register for an account or submit personally identifiable information to Barracuda Networks, we will occasionally contact you via email, postal mail, or telephone. This contact may involve notification of new services being offered by Barracuda Networks. You may opt-out of this contact by deactivating your account. If you no longer wish to maintain an account with Barracuda Networks, please go to our Subscription Profile page, or contact us at webmaster and we will remove you from our contacts list. </p>
+
+<p>In addition, most users may view certain personally identifiable information in our databases by visiting our Contact Information page, by email to webmaster.</p>
+<h3>Links to Other Sites</h3>
+<p>Our site contains links to other sites. If you choose to visit any of those sites then their privacy policies would apply. The Barracuda Privacy Policy applies solely to the information collected from the Barracuda web site.</p>
+<h3>Changes In This Policy</h3>
+<p>If we change the way we use your personal information we will post the change here on our web site. We recommend that you regularly visit this page to learn of any changes. The change will apply to information our users furnish after the change, and information we have on file for existing users. </p>
+
+<p>If you have any questions regarding this policy or our use of personally identifiable information on this site, please send us your questions or comments to webmaster.</p>
+<em>Revised: December 2012</em><p></p>
+	</section>
+	
+
+  </div>
+  <footer>
+    <div class="container_12 shadow">
+      <div class="grid_12 footer_logo">
+        <div class="grid_2 alpha">
+          <h4>Site Map</h4>
+          <ul>
+            <li><a href="https://www.barracuda.com/news">News</a></li>
+            <li><a href="https://www.barracuda.com/products">Products</a></li>
+            <li><a href="https://www.barracuda.com/purchase">Purchase</a></li>
+            <li><a href="https://www.barracuda.com/support">Support</a></li>
+            <li><a href="https://www.barracuda.com/company">Company</a></li>
+            <li><a href="https://www.barracuda.com/events">Training &amp; Events</a></li>
+            <li><a href="https://www.barracuda.com/sitemap">Sitemap</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <h4>Resources</h4>
+          <ul>
+            <li><a href="https://login.barracuda.com">Customer Login</a></li>
+            <li><a href="https://www.barracuda.com/portal">Partner Portal</a></li>
+            <li><a href="https://bu.barracuda.com">Barracuda University</a></li>
+            <li><a href="https://login.barracuda.com/community">Community Forum</a></li>
+            <li><a href="https://www.barracuda.com/tradecompliance">Trade Compliance
+</a></li>
+            <li><a href="https://www.barracuda.com/environmental-compliance">Environmental Compliance</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <h4>Our Websites</h4>
+          <ul>
+            <li><a target="barracuda" href="http://www.barracudacentral.org">Barracuda Central</a></li>
+            <li><a target="barracuda" href="https://www.barracuda.com/blogs/labsblog">Barracuda Labs</a></li>
+            <li><a target="barracuda" href="http://www.barracudaware.com">BarracudaWare</a></li>
+            <li><a target="barracuda" href="http://www.cudatel.com">CudaTel</a></li>
+            <li><a target="barracuda" href="http://www.cudaeye.com">CudaEye</a></li>
+          </ul>
+        </div>
+        <div class="grid_2">
+          <h4>Stay Connected</h4>
+          <ul class="ul_social">
+            <li><a target="social" href="http://twitter.com/barracuda"><img src="https://www.barracuda.com/img/layout/icons/misc/tw_36.png" alt="Follow us on Twitter"></a></li>
+            <li><a target="social" href="http://facebook.com/BarracudaNetworks"><img src="https://www.barracuda.com/img/layout/icons/misc/fb_36.png" alt="Like us on Facebook"></a></li>
+            <li><a target="social" href="http://linkedin.com/company/13957"><img src="https://www.barracuda.com/img/layout/icons/misc/li_36.png" alt="Link up on LinkedIn"></a></li>
+            <li><a target="social" href="http://foursquare.com/barracuda"><img src="https://www.barracuda.com/img/layout/icons/misc/fs_36.png" alt="Foursquare"></a></li>						
+            <li><a target="social" href="http://youtube.com/user/CudaVideo?ob=0"><img src="https://www.barracuda.com/img/layout/icons/misc/yt_36.png" alt="Watch us on Youtube"></a></li>						
+            <li><a target="social" href="http://plus.google.com/100260760608053409921/"><img src="https://www.barracuda.com/img/layout/icons/misc/g_36.png" alt="Plus us on Google+"></a></li>												
+          </ul>
+        </div>
+        <div class="grid_4 omega">
+          <h4>Contact Us</h4>
+          <p>Phone: +1 408 342 5400 / 888 268 4772</p>
+          <ul>
+            <li>General: <a href="mailto:info@barracuda.com">info@barracuda.com</a>
+            </li><li>Sales: <a href="mailto:sales@barracuda.com">sales@barracuda.com</a>
+            </li><li>Support: <a href="mailto:support@barracuda.com">support@barracuda.com</a>
+            </li><li><a href="https://www.barracuda.com/company/contact/">view more</a>
+          </li></ul>
+        </div>
+      </div>
+      <div id="footer_lastline">
+        <small><a href="https://www.barracuda.com/company/contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;<a href="https://www.barracuda.com/legal/privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;<a href="https://www.barracuda.com/legal/terms">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;© 2003 - 2013 Barracuda Networks, Inc. All rights reserved.</small>
+      </div>
+    </div>
+  </footer>
+
+
+</body></html>
