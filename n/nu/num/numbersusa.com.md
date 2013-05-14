@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624062004id_/https%3A//www.numbersusa.com/content/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514172837id_/https%3A//www.numbersusa.com/content/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NumbersUSA - For Lower Immigration Levels
 
@@ -56,7 +56,7 @@ We give users options wherever necessary and practical. Such choices include:
 
 By using the interactive portions of this site, you consent to the collection and use of this information by NumbersUSA Action. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. In the case that we do make significant changes to the information disclosure portion of this privacy policy, we will make a good faith effort to give you notice of such changes via email, including an option to opt out. However, we do not anticipate such changes.
 
-If at any time you decide to withdraw your consent, you may do so in writing to the following address. We will remove from our servers any personally identifying information, such as name, email addresses, etc.
+For more information, please contact:
 
 1601 N. Kent Street  
 Suite 1100  
