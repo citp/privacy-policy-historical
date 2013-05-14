@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngliving.us privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510095918id_/http%3A//www.youngliving.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngliving.us privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514181909id_/http%3A//www.youngliving.com/en_US/privacy.html) for the most accurate reproduction.*
 
 # Young Living Essential Oils Privacy Statement
 
@@ -11,7 +11,7 @@ Our postal address is:
  **3125 West Executive Parkway  
 Lehi, UT 84043**
 
-We can be reached via e-mail at [custserv@youngliving.com](mailto:custserv@youngliving.com), or you can reach us by telephone at 1-800-371-3515.
+We can be reached via e-mail at [customerservice@youngliving.com](mailto:customerservice@youngliving.com), or you can reach us by telephone at 1-800-371-3515.
 
 By using our website, you are agreeing to be bound by the following policies in regards to collection and privacy of personal data:
 
@@ -27,7 +27,7 @@ The aggregate information we collect is used for many different purposes in orde
 
 ## Use of Your E-Mail Address and Opting Out 
 
- When you become a member of Young Living Essential Oils, you supply an e-mail address and choose to not opt out of receiving e-mail communications from Young Living and/or if you sign up to receive e-mail communications from Young Living via another format, you may receive periodic e-mails from us or from select trusted third-party vendors only with information on new products, services, upcoming events, or other topics. If you do not wish to receive such e-mail, please let us know by calling (1-800-371-2928 ) or sending your request to us via e-mail ([ _custserv@youngliving.com_](mailto:custserv@youngliving.com) ) or postal mail at the addresses at the top of this page.
+ When you become a member of Young Living Essential Oils, you supply an e-mail address and choose to not opt out of receiving e-mail communications from Young Living and/or if you sign up to receive e-mail communications from Young Living via another format, you may receive periodic e-mails from us or from select trusted third-party vendors only with information on new products, services, upcoming events, or other topics. If you do not wish to receive such e-mail, please let us know by calling (1-800-371-2928 ) or sending your request to us via e-mail ([ _customerservice@youngliving.com_](mailto:customerservice@youngliving.com) ) or postal mail at the addresses at the top of this page.
 
 When making your request, please provide us with your exact e-mail address, so we can accurately fulfill your wishes.
 
