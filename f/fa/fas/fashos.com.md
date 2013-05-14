@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashos.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021133400id_/http%3A//www.fashos.com/content.aspx%3Fpgid%3D58932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashos.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514062933id_/http%3A//www.fashos.com/content.aspx%3Fpgid%3D58932) for the most accurate reproduction.*
 
 # FASHOS.com - Privacy policy
 
