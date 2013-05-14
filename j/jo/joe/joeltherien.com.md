@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joeltherien.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206031357id_/http%3A//www.gogvo.com/blog/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joeltherien.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514061022id_/http%3A//www.gogvo.com/blog/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
