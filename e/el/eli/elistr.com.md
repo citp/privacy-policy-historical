@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111191749id_/http%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514064456id_/http%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Free Online Classifieds, buy, sell, trade and advertise on eListr.com
+# Free classifieds, Free Local Classified ads, Online Classified Ads
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose and make use of personal information. The following outlines our privacy policy. 
 
