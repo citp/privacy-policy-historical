@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208062603id_/https%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515015950id_/https%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.*
 
 # Healthline's Privacy Policy
 
