@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004022608id_/http%3A//www.novasol.com/faq/personal-data-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514170556id_/http%3A//www.novasol.com/faq/personal-data-policy.html%3F_xview) for the most accurate reproduction.*
 
 # NOVASOL Cookie and Privacy Policy
 
@@ -73,9 +73,9 @@ If you wish your information to be deleted from our systems, or have any questio
 
 NOVASOL AS
 
-Rygaards Alle 104
+Virumgårdsvej 27
 
-2900 Hellerup
+2830 Virum
 
 Denmark
 
