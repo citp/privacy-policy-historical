@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919204945id_/http%3A//pcoptimizerpro.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515013252id_/http%3A//pcoptimizerpro.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |   
 ---  
 Our Privacy Guarantee  
-We will never sell, rent or share any of your personal information with a third-party without your express prior permission. For customers, this means that the only people who will ever access your address and contact information are us and our credit card processor. [ Click here](http://www.clickbank.com/privacy.html) to view more about our payment gateway privacy policy.  
+We will never sell, rent or share any of your personal information with a third-party without your express prior permission. For customers, this means that the only people who will ever access your address and contact information are us and our credit card processor. [ Click Here](http://www.clickbank.com/privacy.html) to view more about our payment gateway privacy policy.  
 Cookies  
 Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. We may also use cookies to assist in the ordering and sales process.  
 Advertisers  
