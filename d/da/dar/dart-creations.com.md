@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031074038id_/http%3A//www.dart-creations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514085304id_/http%3A//www.dart-creations.com/privacy-policy.html) for the most accurate reproduction.*
 
-# dart-creations.com - Privacy Policy
+# Privacy Policy
 
 This site is owned and operated by DART Creations. Your privacy on the Internet is of the utmost importance to us. At DART Creations, we want to make your experience online satisfying and safe.
 
@@ -12,7 +12,7 @@ DART Creations gathers two types of information about users:
 
   * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:  
 
-  * Information DART Creations gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because DART Creations derives some of its revenue from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our providing free  content to our users. Under no circumstances does DART Creations divulge any information about an individual user to a third party. 
+  * Information DART Creations gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because DART Creations derives some of its revenue from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our providing free  content to our users. Under no circumstances does DART Creations divulge any information about an individual user to a third party.
 
 
 
@@ -22,7 +22,7 @@ DART Creations Gathers User Information In The Following Processes:
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-1\. Comments 
+1\. Comments
 
 Users of the site's need not register in order to post messages, although their IP is tracked.
 
@@ -68,7 +68,7 @@ OPT-OUT POLICY
 
 We give users options wherever necessary and practical. Such choices include:
 
-  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
+  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
 
 
 
