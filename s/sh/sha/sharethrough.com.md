@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003212811id_/http%3A//www.sharethrough.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514095234id_/http%3A//www.sharethrough.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sharethrough
 
@@ -77,6 +77,6 @@ Attention: Privacy Inquiries
 
 San Francisco, CA 94111
 
-Opt-out of targeted advertising
+Opt-out of targeted advertising for desktop and [for mobile](http://native.sharethrough.com/opt_out)
 
 **You have successfully opted out of targeted advertisements at Sharethrough.com.**
