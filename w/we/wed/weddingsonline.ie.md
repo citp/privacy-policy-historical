@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227091840id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514085512id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
 
 # Privacy - WeddingsOnline
 
-WeddingsOnline.ie is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy, , to understand what types of personal information we collect and how this information is used.
+WeddingsOnline.ie is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy, to understand what types of personal information we collect and how this information is used.
 
-By using our site, you consent to the collection and use of your information as described in this Privacy Policy, which was last updated on 22nd of January 2006. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
+By using our site, you consent to the collection and use of your information as described in this Privacy Policy, which was last updated on 22nd of January 2013. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
 
 ### General
 
@@ -34,3 +34,12 @@ In addition to the circumstances described above, we may disclose your informati
 
 What choices you have over the collection and use of your information  
 As a user, customer, or contest entrant you will occasionally receive e-mail updates from us about important functionality changes, special offers from us and our partners, new WeddingsOnline.ie services and other noteworthy news items about us and our partners. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, just log into 'My WeddingsOnline.ie' and unsubscribe or let our partners know by following their instructions. WeddingsOnline.ie reserves the right to limit registration to those who will accept emails and to those who will provide the requested information.
+
+You can unsubscribe from any of our communications at any time by clicking on the unsubscribe link within the email or by emailing us at newsletter@weddingsonline.ie.
+
+WeddingsOnline.ie Ltd  
+Europa Academy  
+Balheary Road  
+Swords, Co Dublin  
+Tel: +353 1 8839270   
+office@WeddingsOnline.ie
