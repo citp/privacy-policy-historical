@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoffmanager.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215143608id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoffmanager.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514043520id_/http%3A//timeoffmanager.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Time-Off Manager - Terms of Service
 
@@ -36,10 +36,10 @@ We do not sell, trade, or rent your personal information to others. This does no
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibilities for the content and activities of these linked sites. We seek to protect the integrity of our site and welcome any feedback about these websites. 
 
 **Terms and Conditions**  
-You may also visit our [Terms of Service](https://web.archive.org/web/20121215143608id_/http%3A//www.timeoffmanager.com/terms-service.aspx) page to establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+You may also visit our [Terms of Service](https://web.archive.org/web/20130514043520id_/http%3A//timeoffmanager.com/terms-service.aspx) page to establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 **Your Consent**  
-By using our website, you consent to our [Privacy Policy](https://web.archive.org/web/20121215143608id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx). 
+By using our website, you consent to our [Privacy Policy](https://web.archive.org/web/20130514043520id_/http%3A//timeoffmanager.com/privacy-policy.aspx). 
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
