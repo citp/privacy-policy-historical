@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startpage.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014020006id_/https%3A//startpage.com/au/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startpage.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514165253id_/https%3A//www.startpage.com/uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -622,7 +622,7 @@ height:1px;
 var MY_BROWSER = BrowserDetect.browser;
 var MY_BROWSER_VERSION = BrowserDetect.version; 
 
-var page_language = 'english_au';
+var page_language = 'english_uk';
 
 function bookmarkUrl(title, url){
     if (window.sidebar) // firefox
@@ -717,9 +717,9 @@ var concatThisParam = '';
 var originalUrl = window.location.href;
 var http_host = get_http_host();                                         
 if (http_host.indexOf('quick.') != -1) {                                 
-  originalUrl= http_host + '/au/';           
+  originalUrl= http_host + '/uk/';           
 }                                                                        
-else {originalUrl ='/au/';}
+else {originalUrl ='/uk/';}
 var preference_param = getPreferenceParam(window.location.href);
 if(preference_param) {
 originalUrl = appendPreferenceParam(originalUrl, preference_param); 
@@ -746,6 +746,25 @@ function show_plugin_install (obj_id, do_display) {
 		}
 	}
 }
+
+function show_ixquick_toolbar () {                                                                                                                                                                 
+   var div_id='';
+   if(MY_BROWSER == 'Firefox'){
+      div_id='firefox';
+   } 
+   else if(MY_BROWSER == 'Chrome'){
+      div_id='chrome';
+   }
+   else if(MY_BROWSER == 'Explorer'){
+      div_id='ie';
+   }
+   else if(MY_BROWSER == 'Safari'){
+       div_id='safari';
+   }
+   show(div_id);
+   show(div_id+'_setting');
+}                                                                                                                                                                                                                   
+
 
 	function add_plugin (plugin_url, favicon_url, brand, custom_text) {
 		plugin_url += '&browser=' + MY_BROWSER + '&version=' + MY_BROWSER_VERSION;
@@ -1058,12 +1077,12 @@ function preloadImages() {
         on = newImage('/graphics/blue-bg.gif');
         off = newImage('/graphics/blue-bg_click.gif');
 		bg = newImage('/graphics/blue-bg_on.gif');
-		img1 = newImage('/graphics/au/big_brother_hov.gif');
-        img2 = newImage('/graphics/au/tell_a_friend_hov.gif');
-        img3 = newImage('/graphics/au/small_aol_database_hov.gif');
-        img4 = newImage('/graphics/au/q_and_a_hov.gif');
-        img5 = newImage('/graphics/au/recent_articles_hov.gif');
-        img6 = newImage('/graphics/au/tell_a_friend_trangle_hov.gif');
+		img1 = newImage('/graphics/uk/big_brother_hov.gif');
+        img2 = newImage('/graphics/uk/tell_a_friend_hov.gif');
+        img3 = newImage('/graphics/uk/small_aol_database_hov.gif');
+        img4 = newImage('/graphics/uk/q_and_a_hov.gif');
+        img5 = newImage('/graphics/uk/recent_articles_hov.gif');
+        img6 = newImage('/graphics/uk/tell_a_friend_trangle_hov.gif');
 
         preloadFlag = true;
 	}
@@ -1317,7 +1336,7 @@ function certifiedsecure(langID) {
 }
 $(document).ready(function(){ concatParamToAllUrls(window.location.href); });
 function makeHomePage (obj, page_url) {
-    load_img('/do/adviewtrack.pl?a=10&g=357&l=english_au');
+    load_img('/do/adviewtrack.pl?a=10&g=357&l=english_uk');
     var ua = navigator.userAgent;
     var ff = 0;
     if (ua.indexOf('Firefox') != -1) {
@@ -1339,7 +1358,7 @@ function makeHomePage (obj, page_url) {
          var out_str = '<html><head><title></title><style>li{line-height:25px!important;} </style></head>';
          out_str += '<' + 'body bgcolor="#BCD3F5"><br><font face="Verdana" size="2" color="#140B74">';
          if ((agentname.toLowerCase().indexOf('netscape') != -1) || (agentname.toLowerCase().indexOf('navigator') != -1)) {
-         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/au/<!--/HOME--></font><br></body></html>';
+         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/uk/<!--/HOME--></font><br></body></html>';
          }
      else if (agentname.toLowerCase().indexOf('firefox') != -1) {
          nWin.resizeTo(650,300);
@@ -1357,7 +1376,7 @@ function makeHomePage (obj, page_url) {
             out_str += '<li>Click on Options.</li>';
          }
          out_str += '<li>Click on the General tab.</li>';
-         out_str += '<li>Delete existing address in the homepage box and replace with <!--HOME-->/au/<!--/HOME--></li>';
+         out_str += '<li>Delete existing address in the homepage box and replace with <!--HOME-->/uk/<!--/HOME--></li>';
          out_str += '<li>You also can open the tabs you want to use as a home page, and then click on the Use Current Pages button under the Home Page box.</li></ol></font><br></body></html>';
      }
      else if (agentname.toLowerCase().indexOf('chrome') != -1) {
@@ -1370,7 +1389,7 @@ function makeHomePage (obj, page_url) {
          out_str += '<ol><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
          out_str += '<li>Go to Preferences -> Basics.</li>';
          out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Open this page" text box.</li>';
+         out_str += '<li>Enter <!--HOME-->/uk/<!--/HOME--> in the "Open this page" text box.</li>';
          out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
          if( BrowserDetect.version <= 9) {
          out_str += '<li>Close Preferences.</li>';
@@ -1379,22 +1398,23 @@ function makeHomePage (obj, page_url) {
          }
  } else {
         // for version greater than or equal to 19 
-         if(BrowserDetect.version >= 19) {
-         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
-         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Add a new page" text field.</li>';
+         if( (BrowserDetect.version >= 19) && (BrowserDetect.version < 23) ){
+;         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+}         else {         if(BrowserDetect.version >= 23) {         out_str += '<ol><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+} 
+}         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/uk/<!--/HOME--> in the "Add a new page" text field.</li>';
          out_str += '<li>Click OK.</li>';
          } 
- } 
  } else {
          //  check for windows OS 
          if (BrowserDetect.OS.indexOf('Window') != -1) {
          // for version beetween 3 and 18 
          if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
          out_str += '<ol><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
-         out_str += '<li>Go to Options -> Basics</li>';
+         out_str += '<li>Go to Options -> Basics.</li>';
          out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Open this page" text box.</li>';
+         out_str += '<li>Enter <!--HOME-->/uk/<!--/HOME--> in the "Open this page" text box.</li>';
          out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
          if( BrowserDetect.version <= 9) {
          out_str += '<li>Click "Close".</li>';
@@ -1403,13 +1423,14 @@ function makeHomePage (obj, page_url) {
          }
  } else {
          // for version greater than 18 
-         if(BrowserDetect.version >= 19) {
+         if( (BrowserDetect.version >= 19) && (BrowserDetect.version < 23) ){
          out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
-         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Add a new page" text field.</li>';
+}         else {         if(BrowserDetect.version >= 23) {         out_str += '<ol><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+} 
+}         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/uk/<!--/HOME--> in the "Add a new page" text field.</li>';
          out_str += '<li>Click OK.</li>';
          } 
- }
  } else {
           // checking for Linux OS 
          if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
@@ -1420,7 +1441,7 @@ function makeHomePage (obj, page_url) {
          out_str += '<li>Go to Preferences -> Basics.</li>';
          }
           out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Open this page" text box.</li>';
+         out_str += '<li>Enter <!--HOME-->/uk/<!--/HOME--> in the "Open this page" text box.</li>';
          out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
          if( BrowserDetect.version <= 9) {
          out_str += '<li>Click "Close".</li>';
@@ -1428,33 +1449,34 @@ function makeHomePage (obj, page_url) {
          out_str += '<li>Close Preferences tab.</li>';
          } 
  } else {
-         if(BrowserDetect.version >= 19) {
+         if( (BrowserDetect.version >= 19) && (BrowserDetect.version < 23) ) {
          out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
-         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/au/<!--/HOME--> in the "Add a new page" text field.</li>';
+}         else {         if(BrowserDetect.version >= 23) {         out_str += '<ol><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+} 
+}         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/uk/<!--/HOME--> in the "Add a new page" text field.</li>';
          out_str += '<li>Click OK.</li>';
          } 
- }
  } 
  }
          out_str += '</ol></font><br></body></html>';
      }
          else if ((agentname.toLowerCase().indexOf('seamonkey') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
-         out_str += 'Go to Preferences in the Mozilla menu of your Browser.<br> Then choose Category Navigator.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<BR>Click OK to Close.</font><br></body></html>';
+         out_str += 'Go to Preferences in the Mozilla menu of your Browser.<br> Then choose Category Navigator.<br>Enter <!--HOME-->/uk/<!--/HOME--> in Homepage Location: field<BR>Click OK to Close.</font><br></body></html>';
          }
          else if ((agentname.toLowerCase().indexOf('seamonkey') != -1) && (BrowserDetect.OS.indexOf('Linux') != -1)) {
-         out_str += 'Go to Preferences in the Edit menu of your Browser.<br>Then choose Category Navigator.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<br>Click OK to Close</font><br></body></html>';
+         out_str += 'Go to Preferences in the Edit menu of your Browser.<br>Then choose Category Navigator.<br>Enter <!--HOME-->/uk/<!--/HOME--> in Homepage Location: field<br>Click OK to Close</font><br></body></html>';
          }
          else if ((agentname.toLowerCase().indexOf('opera') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
-         out_str += 'Go to Preferences in the Opera menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
+         out_str += 'Go to Preferences in the Opera menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/uk/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
          }
          else if (((agentname.toLowerCase().indexOf('opera') != -1) && (BrowserDetect.OS.indexOf('Linux') != -1)) || ((agentname.toLowerCase().indexOf('opera') != -1) && (BrowserDetect.OS.indexOf('Window') != -1))) {
-         out_str += 'Go to Preferences in the Tools menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/au/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
+         out_str += 'Go to Preferences in the Tools menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->/uk/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</font><br></body></html>';
          }
          else if ((agentname.toLowerCase().indexOf('safari') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
-         out_str += 'Go to Preferences in the Safari menu of your Browser.<br>Then choose the General Tab.<br>Enter <!--HOME-->/au/<!--/HOME--> in Home page field.<br>Close the window.</font><br></body></html>';
+         out_str += 'Go to Preferences in the Safari menu of your Browser.<br>Then choose the General Tab.<br>Enter <!--HOME-->/uk/<!--/HOME--> in Home page field.<br>Close the window.</font><br></body></html>';
          } else { 
-         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/au/<!--/HOME--></font><br></body></html>';
+         out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/uk/<!--/HOME--></font><br></body></html>';
          }
          out_str = out_str.replace(/<!--HOME-->.*?<!--\/HOME-->/g, homepage_url);
          out_str += '</font><br></body></html>';
@@ -1474,63 +1496,63 @@ function makeHomePage (obj, page_url) {
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" style=" background:#4599d9 url(/graphics/startpage_menufullbg.jpg) repeat-x">
 		  <tbody><tr>
 			<td class="tdmenu tdmenurepeat">
-				<a href="/au/" border="0" class="addsettings"><img src="/graphics/startpage_aboutstartpage.gif" width="261" height="167" border="0" alt="Startpage.com"></a> 
+				<a href="/uk/" border="0" class="addsettings"><img src="/graphics/startpage_aboutstartpage.gif" width="261" height="167" border="0" alt="Startpage.com"></a> 
 
     <div class="menucell2"><br><br></div>
 
-   <div class="menucell2"><a href="/au/protect-privacy.html" class="menulink addsettings">PRIVACY</a></div>
+   <div class="menucell2"><a href="/uk/protect-privacy.html" class="menulink addsettings">PRIVACY</a></div>
 <!-- <div class="menucell2"><span class="menulink">PRIVACY</span></div> -->
 	<!-- privacy tag -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><!-- protect privacy --><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/protect-privacy.html" class="newsubsublink addsettings">Startpage Protects Your Privacy!</a></td></tr></tbody></table>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/protect-privacy-qa.html" class="newsubsublink addsettings">Privacy Q &amp; A</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><!-- protect privacy --><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/protect-privacy.html" class="newsubsublink addsettings">Startpage Protects Your Privacy!</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/protect-privacy-qa.html" class="newsubsublink addsettings">Privacy Q &amp; A</a></td></tr></tbody></table>
 	<!-- privacy tag -->
 
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9" class="fixstar"></div></td><td style="padding-right:4px;"><a href="/au/privacy-policy.html" class="newsubsublink addsettings">Privacy Policy</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9" class="fixstar"></div></td><td style="padding-right:4px;"><a href="/uk/privacy-policy.html" class="newsubsublink addsettings">Privacy Policy</a></td></tr></tbody></table>
     
     <div class="menucell2"><br></div>
 
 
 
-    <div class="menucell2"><a href="/au/what-makes-startpage-special.html" class="menulink addsettings">ABOUT STARTPAGE SEARCH ENGINE</a></div>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/what-makes-startpage-special.html" class="newsubsublink addsettings">What Makes Startpage Special</a></td></tr></tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/power-search-techniques.html" class="newsubsublink addsettings">Advanced Search Tips</a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/uk/what-makes-startpage-special.html" class="menulink addsettings">ABOUT STARTPAGE SEARCH ENGINE</a></div>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/what-makes-startpage-special.html" class="newsubsublink addsettings">What Makes Startpage Special</a></td></tr></tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/power-search-techniques.html" class="newsubsublink addsettings">Advanced Search Tips</a></td></tr></tbody></table>
 
     <div><br></div>
 
 
-    <div class="menucell2"><a href="/au/download-startpage-plugin.html" class="menulink addsettings">GET MORE STARTPAGE</a></div>
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/download-startpage-plugin.html" class="newsubsublink addsettings">Add Startpage to your Browser</a></td></tr></tbody></table>
-<!--	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"/></div></td><td style="padding-right:4px;"><a href="/au/.html" class="newsubsublink addsettings">Download the Startpage Toolbar</a></td></tr></table>-->
-         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/make-startpage-your-homepage.html" class="newsubsublink addsettings">Make Startpage Your Homepage</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/link-instructions.html" class="newsubsublink addsettings">A Search Box on Your Website</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/tell-a-friend.html" class="newsubsublink addsettings">Tell a Friend About Startpage</a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/uk/download-startpage-plugin.html" class="menulink addsettings">GET MORE STARTPAGE</a></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/download-startpage-plugin.html" class="newsubsublink addsettings">Add Startpage to your Browser</a></td></tr></tbody></table>
+<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"/></div></td><td style="padding-right:4px;"><a href="/uk/download-ixquick-toolbar.html" class="newsubsublink addsettings">Download the Startpage Toolbar</a></td></tr></table> -->
+         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/make-startpage-your-homepage.html" class="newsubsublink addsettings">Make Startpage Your Homepage</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/link-instructions.html" class="newsubsublink addsettings">A Search Box on Your Website</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/tell-a-friend.html" class="newsubsublink addsettings">Tell a Friend About Startpage</a></td></tr></tbody></table>
 
     <div><br></div>
 
 
-    <div class="menucell2"><a href="/do/preferences.pl?language_ui=english_au" class="menulink addsettings">SETTINGS</a></div>
+    <div class="menucell2"><a href="/do/preferences.pl?language_ui=english_uk" class="menulink addsettings">SETTINGS</a></div>
     <div><br></div>
 
 
-   <div class="menucell2"><a href="/au/company-background.html" class="menulink addsettings">COMPANY INFO</a></div>
-         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/company-background.html" class="newsubsublink addsettings">Company Background</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/company-management-bio.html" class="newsubsublink addsettings">Management Bios</a></td></tr></tbody></table>
+   <div class="menucell2"><a href="/uk/company-background.html" class="menulink addsettings">COMPANY INFO</a></div>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/company-background.html" class="newsubsublink addsettings">Company Background</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/company-management-bio.html" class="newsubsublink addsettings">Management Bios</a></td></tr></tbody></table>
     <div><br></div> 
 
 <!--
-    <div class="menucell2"><a href="/au/what-makes-startpage-special.html" onclick="javascript: window.open('/spotlight');" class="menulink addsettings">FAQ</a></div>
+    <div class="menucell2"><a href="/uk/what-makes-startpage-special.html" onclick="javascript: window.open('/spotlight');" class="menulink addsettings">FAQ</a></div>
     <div><br /></div>
 -->
-    <div class="menucell2"><a href="/au/company-faq.html" class="menulink addsettings">FAQ</a></div>
+    <div class="menucell2"><a href="/uk/company-faq.html" class="menulink addsettings">FAQ</a></div>
     <div><br></div>
-    <div class="menucell2"><a href="/au/feedback.html#contact" class="menulink addsettings">CONTACT US</a></div>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/feedback.html" class="newsubsublink addsettings">Let Us Know  </a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/au/feedback.html#contact" class="newsubsublink addsettings">Contact Info</a></td></tr></tbody></table>
-	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/do/ipd_optout.pl?lui=english_au" class="newsubsublink addsettings"></a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/uk/feedback.html#contact" class="menulink addsettings">CONTACT US</a></div>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/feedback.html" class="newsubsublink addsettings">Let Us Know  </a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/feedback.html#contact" class="newsubsublink addsettings">Contact Info</a></td></tr></tbody></table>
+	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/do/ipd_optout.pl?lui=english_uk" class="newsubsublink addsettings"></a></td></tr></tbody></table>
 	<div><br></div>
 <!-- <div class="menucell2"><br /></div><div class="menucell2"><br /></div>
-    <div class="menucell2"><a href="/au/" class="menulink addsettings">HOME</a></div><div class="menucell2"><br /></div> -->
-	<div class="menucell2"><a href="/press/" class="menulink addsettings">STARTPAGE PRESS CENTER</a></div>
+    <div class="menucell2"><a href="/uk/" class="menulink addsettings">HOME</a></div><div class="menucell2"><br /></div> -->
+	<div class="menucell2"><a href="/uk/press-center.html" class="menulink addsettings">STARTPAGE PRESS CENTER</a></div>
 	<div class="menucell2"><br></div>
     <div class="menucell2"><br></div>
 	<div class="menucell2"><br></div>
@@ -1562,7 +1584,7 @@ Startpage is strongly committed to protecting the privacy of its user community.
 Startpage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days. <br>
 You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.<br>
 You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.<br>
-To promote a cookie-free internet, Startpage has recently launched a <a href="/au/urlgenerator-details.html" target="_blank" onclick="window.open('/au/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english_au" target="_blank">SETTINGS</a> page.<br></p>
+To promote a cookie-free internet, Startpage has recently launched a <a href="/uk/urlgenerator-details.html" target="_blank" onclick="window.open('/uk/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english_uk" target="_blank">SETTINGS</a> page.<br></p>
 <h3>External Links</h3>
 <p>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Startpage has no control, and who are not covered by this privacy policy. Startpage is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Startpage.com website.</p>
 <h3>Email addresses</h3>
@@ -1570,7 +1592,7 @@ To promote a cookie-free internet, Startpage has recently launched a <a href="/a
 <h3>Children Under 13 Years of Age</h3>
 <p>In light of the concern over protecting children's privacy online, Startpage does not knowingly request, collect, or share personally identifiable information from users under the age of 13.</p>
 <h3>Information Sharing</h3>
-<p>Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a href="/au/information-sharing.html" target="_blank" onclick="window.open('/au/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.</p><h3>Operator</h3>
+<p>Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a href="/uk/information-sharing.html" target="_blank" onclick="window.open('/uk/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.</p><h3>Operator</h3>
                   <p>Startpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist<br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. (</td><td valign="top"><a href="mailto:%72%6F%62%65%72%74%40%73%74%61%72%74%70%61%67%65%2E%63%6F%6D%2c%61%6c%65%78%40%73%74%61%72%74%70%61%67%65%2E%63%6F%6D">robert@startpage.com</a></td><td valign="top">)</td></tr></tbody></table></p><!--BODYCONTENT--></div>
 </td>
 <td valign="top" width="1" background="/graphics/startpage_right.gif" style="background-repeat:repeat-y; background-position:right"><img src="/graphics/spacer.gif" width="1" height="9"></td>
@@ -1585,7 +1607,7 @@ To promote a cookie-free internet, Startpage has recently launched a <a href="/a
 <!-- Copyright Notice -->
 <div align="center" style="font-size:10px;color:#3777E3;">
 <br>
-© 2012 Startpage
+© 2013 Startpage
 </div>
 <script language="javascript" type="text/javascript" src="/js/tooltip.js"></script>
 <!--<script language="javascript" type="text/javascript" src="/js/wz_tooltip.js"></script>-->
@@ -1637,9 +1659,11 @@ To promote a cookie-free internet, Startpage has recently launched a <a href="/a
           } else {
 			  srcUrl += "ns_";
 		  }
-		  srcUrl += Lang + ".src";
+		  //srcUrl += Lang + ".src";
+		  srcUrl += Lang + ".xml";
           var pngUrl = pathUrl + ".png"; 
-          window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startpage", "Startpage Search");
+          //window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startpage", "Startpage Search");
+		  window.external.AddSearchProvider(srcUrl);
 		  var language = get_language(Lang);
 			//load_img('/do/adviewtrack.pl?a=10&g=463&l=' + language);
 			//load_img('/do/adviewtrack.pl?a=10&g=469&l=' + language);
@@ -1774,6 +1798,7 @@ function pos_seal_title(){
         document.getElementById('wholehearted_mission').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
         document.getElementById('privacy_position').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
 		document.getElementById('worried').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
+        document.getElementById('euro_privacy_seal').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
 
 		var pa_obj = document.getElementById('subTitle');
 		var absCoords2 = getAbsPosition(pa_obj);
