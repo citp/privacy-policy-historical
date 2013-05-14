@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229160437id_/http%3A//www.sky-tours.com/info.php%3Fwhat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514144341id_/http%3A//www.sky-tours.com/info.php%3Fwhat%3Dprivacy) for the most accurate reproduction.*
 
-# cheap flight tickets, discounted airline tickets, cheap flight discounts
+# Cheap Flight Tickets-Airfares | Discounted-Cheap Airline Tickets
 
 We are committed to protecting your privacy while you visit our Site.
 
