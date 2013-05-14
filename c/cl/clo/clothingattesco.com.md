@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231012333id_/http%3A//www.clothingattesco.com/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514120932id_/http%3A//www.clothingattesco.com/privacy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Clothing at Tesco | privacy policy
 
-Clothing at Tesco ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](http://www.clothingattesco.com/clothing-at-tesco-terms+conditions/page/terms/), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](http://www.clothingattesco.com/clothing-at-tesco-terms+conditions/page/terms/) carefully; by accessing the Website you confirm to have understood and agreed to them.
+F&F ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](http://www.clothingattesco.com/terms-and-conditions/clothing-at-tesco-terms+conditions/page/terms/), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](http://www.clothingattesco.com/terms-and-conditions/clothing-at-tesco-terms+conditions/page/terms/) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
 ### Information we collect about you
 
