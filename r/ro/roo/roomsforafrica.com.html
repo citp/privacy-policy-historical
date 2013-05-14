@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roomsforafrica.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101073840id_/http%3A//www.roomsforafrica.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomsforafrica.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514032447id_/http%3A//www.roomsforafrica.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,14 +8,15 @@
   <meta name="description" content="Find accommodation and make reservations in South Africa. Bookings at hotels, bed and breakfasts and guest houses. Where to stay in South Africa.">
    
   
-  <link rel="stylesheet" href="/css/styles.1346876634916.css" type="text/css">
-  <!--[if lt IE 8]><link rel="stylesheet" href="/css/ie.1346876634374.css" type="text/css" media="screen, projection"><![endif]-->
-  <!--[if IE 7]><style type="text/css">body{behavior:url("/css/ie7.1346876634507.css");}</style><![endif]-->
+  <link rel="stylesheet" href="/js/jquery/css/rfa-theme/jquery-ui-1.10.1.custom.1366575340221.css" type="text/css">
+  <link rel="stylesheet" href="/css/styles.1366575339126.css" type="text/css">
+  <!--[if lt IE 8]><link rel="stylesheet" href="/css/ie.1366575340357.css" type="text/css" media="screen, projection"><![endif]-->
+  <!--[if IE 7]><style type="text/css">body{behavior:url("/css/ie7.1366575339130.css");}</style><![endif]-->
   <!--[if IE 6]><style type="text/css">body{behavior:url("/css/csshover.htc");}</style><![endif]-->
 </head>
 <body onload="" class="">
 
-    <img src="http://www.resafrica.com/survey/activity/sref=sro0506970;rref=http%3A//www.roomsforafrica.com/;lref=http%3A//www.roomsforafrica.com/aboutus/privacy.jsp;rn=414087992133" style="position:absolute;width:1px;height:1px;border:none;">
+    <img src="http://www.resafrica.com/survey/activity/sref=sro0506970;rref=http%3A//www.roomsforafrica.com/establishment.do%3Fid%3D1437;lref=http%3A//www.roomsforafrica.com/aboutus/privacy.jsp;rn=518690393814" style="position:absolute;width:1px;height:1px;border:none;">
 
     <table cellspacing="0" cellpadding="0" id="global_border" class="center_div"><tbody><tr>
       <td id="left_global_gradient" class="global_gradient"><img class="bottom_corner_grad" src="/img/bottom_left_grad.jpg"></td>
@@ -27,7 +28,17 @@
   <div id="quick_search"> 
     <a href="/search/powersearch.jsp" style="float: left;">Advanced Search</a>
     <form name="quickSearchForm" method="POST" action="/quicksearch.do">
-      <input type="text" name="searchText" size="30" value="Search" onfocus="select();style.color='#5C350E'" style="float: left;" class="text_box">
+      <input type="text" name="searchText" size="30" value="Search" onblur="
+          if(this.value == ''){
+            style.color='#C0C0C0'
+            this.value = 'Search';
+          }
+        " onfocus="
+          style.color='#5C350E'
+          if(this.value == 'Search'){
+            this.value = '';
+          }
+        " style="float: left;" class="text_box">
       <input type="image" class="go_button" src="/img/brown_go_button.gif" style="float: right;">
     </form>
   </div>
@@ -393,6 +404,8 @@
         </div>
         <div id="pre_footer">&nbsp;</div>
         
+
+
 <div id="feedback_bar">
   <div class="section_left">
     <div><b>Sign up for travel news &amp; special offers</b></div>
@@ -446,7 +459,7 @@
       </td>
     </tr>
   </tbody></table>
-  © Copyright 2002 - 2011 RoomsForAfrica.com
+  © Copyright 2002 - Tue May 14 05:24:48 SAST 2013 RoomsForAfrica.com
 </div>
 
       </td>
