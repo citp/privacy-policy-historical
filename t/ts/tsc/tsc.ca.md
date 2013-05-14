@@ -1,77 +1,159 @@
-> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120810id_/http%3A//www.theshoppingchannel.com/go/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514122710id_/http%3A//www.theshoppingchannel.com/go/PrivacyPolicy) for the most accurate reproduction.*
 
-# Minimum 4 Easy Pay on ALL items!
+# Online Shopping for Canadians
 
-The Shopping Channel is a proud member of the Rogers Group of Companies. The Rogers Group of Companies have one single policy regarding the privacy of your information. 
+Thank you for your interest in Rogers Media products and services. We believe in giving you full disclosure about the kinds of personal information we gather and what we do with it, as well as giving you a choice about the use of your personal information.
 
-1\. This policy applies to Rogers Communications, Rogers Cable, Rogers Wireless and Rogers Media which are referred to here collectively as Rogers. At Rogers, the security and integrity of our customers' personal information is important to us. We take every reasonable measure necessary to protect the privacy of our customers while providing the high level communication services they expect. 
+**General FAQs**  
+_What is Rogers Media?_  
+_Where can I learn about the Rogers Group of Companies privacy policy?_  
+_What is the purpose of these privacy policy FAQs?_  
+_What is personal information?_  
+_Does Rogers collect personal information?_  
+_How does Rogers use information it gathers about me?_  
+_Might I be contacted by organizations outside Rogers?_  
+_What are marketing preferences?_  
+_How can I change my marketing preferences?_  
+_Can I change or update my e-mail newsletter subscriptions?_  
+_Does Rogers Media use telemarketing to sell magazine subscriptions?_  
+_What about personalized ads in magazines?_  
+_How does Rogers Media protect the privacy of children?_  
+_I'm registering on one of your websites for the first time, but my name is here already. How?_  
+_Do Rogers Media websites use cookies?_  
+_Do Rogers Media websites record information about my computer or my visit?_  
+_How does Rogers Media advertise on its website?_  
+_What about information on public forums?_  
+_What steps do you take for the security of my information?_  
+_How else can I protect my privacy online?_  
+_What happens to information I provide on a contest entry?_  
+_Are there other ways my information will be used?_
 
-2\. Rogers' privacy practices are in accordance with all federal and provincial laws and regulations. We are compliant with the Personal Information Protection and Electronic Documents Act (PIPEDA) and where applicable with the privacy rules established by the Canadian Radio-television and Telecommunications Commission (CRTC). 
+**Contact Us**  
 
-3\. Rogers has in place privacy and security practices to safeguard our customers' personal information. These practices are reviewed, and if necessary revised, on a regular basis. Additionally, Rogers' employees receive privacy training and must comply with Rogers' privacy practices as a condition of employment. 
 
-4\. Personal information collected by Rogers is information about an identifiable individual that may include such information as your name, e-mail address, mailing address, phone number, financial information, birth date and any recorded complaints. 
+* * *
 
-5\. At Rogers, we collect customer information for one or more of the following purposes:
+**General FAQs**
 
-\- To provide a positive customer experience, and deliver, bill for, and collect payment for products and services;   
-\- To understand customer requirements and make information available regarding products and services offered by Rogers and its agents, dealers and related companies;   
-\- To manage and develop Rogers business and operations;   
-\- To meet legal and regulatory requirements; and   
-\- To obtain credit information or provide it to others. 
+**_What is Rogers Media?_**  
+Rogers Media Inc. operates Rogers Broadcasting and Rogers Publishing. Rogers Media Inc. is a wholly owned subsidiary of Rogers Communications Partnership (Rogers) (TSX: RCI; NYSE: RCI). Rogers Communications and its subsidiaries and affiliates are referred to as the Rogers Group of Companies.   
+Back to top
 
-6\. Rogers does not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Rogers retains personal information only as long as necessary for the fulfillment of those purposes. 
+_**Where can I learn about the Rogers Group of Companies privacy policy?**_  
+The privacy policy of the Rogers Group of Companies, including Rogers Media, can be found at <http://www.rogers.com/web/content/Privacy-CRTC> .  
+Back to top
 
-7\. Rogers informs customers of the existence, use and disclosure of their personal information upon request and gives them access to their information. 
+_**What is the purpose of these privacy policy FAQs?**_  
+These FAQs provide additional information regarding, and interpretation of, the Rogers Group of Companies' privacy policy as it applies to Rogers Media. The FAQs explain how Rogers Media treats your personal information collected in connection with your subscription to all Rogers Media publications and your interactions with Rogers Media radio, website and digital properties. They also provide contact information in the event that you want to make further inquiries regarding your personal information.  
+Back to top
 
-8\. Rogers ensures that customer information is accurate, complete and up-to-date. Customers can challenge the accuracy and completeness of the information and request amendments as appropriate. 
+**_What is personal information?_**  
+Personal information is any information that is related to an identifiable individual. It typically includes such information as your name, e-mail address, or mailing address. It could also include preferences you provided at websites or other information. It does not include the business contact information of a person, such as name, title and mailing contact information.  
+Back to top
 
-9\. Rogers companies share information with other Rogers companies or their agents and authorized dealers, in order to offer customers products and services that they may find attractive. Notices on sharing information are contained in each company's application forms, invoices and web sites. If customers do not want to be marketed with these products and services, they can contact Rogers (see How To Contact Rogers below). 
+**_Does Rogers collect personal information?_**  
+We collect personal information such as your name, address, e-mail address, or other personal information when you register with a website or order a product or service. You may also be asked for personal information when you enter into contests or promotions sponsored by us or our partners.  
+Back to top
 
-10\. Additional information on your privacy is located in the [Frequently Asked Questions](http://shoprogersfaq.custhelp.com/cgi-bin/shoprogersfaq.cfg/php/enduser/std_alp.php?p_sid=2NAKmcIh&p_lva=&p_li=&p_page=1&p_prod_lvl1=204&p_prod_lvl2=205&p_search_text=&p_new_search=1&p_search_type=4&p_sort_by=dflt) section of [www.rogers.com](http://www.rogers.com/) under the Category of Privacy. 
+**_How does Rogers use information it gathers about me?_**  
+Rogers Media uses your personal information to provide you with products or services that you have requested. We may further use such information to develop and customize products or services to better meet your needs and preferences, and to offer you products and services from Rogers, including any companies within the Rogers Group of Companies.  
+Back to top
 
-11\. A senior company officer has been appointed as the Privacy Officer at Rogers. The Privacy Officer is accountable for all personal information at Rogers. You may contact the Privacy Officer at: 
+**_Might I be contacted by organizations outside Rogers?_**  
+Advertisers may ask Rogers Media for permission to send material to you that you may find of interest. In such cases, your name, email or mailing address are only released to a reputable third party service bureau for the purpose of sending the specific material. All such advertising material is reviewed by Rogers Media and subject to approval for acceptable advertising content.  
+If you would prefer that your name, email or mailing address not be provided to marketers outside of Rogers Group of Companies, please [click here](http://www.rogersmedia.com/contact-information) for a list of Rogers Media properties and links to their respective customer account logins.  
+Back to top
 
-By Mail: Chief Privacy Officer  
-Rogers Group of Companies  
-33 Bloor Street East  
-Toronto, ON  
-M4W 1G9  
-By E-mail: privacy@rci.rogers.com 
+**_What are marketing preferences?_**  
+Your relationship with Rogers Media permits us to contact you about our products and services, as well as those of our affiliates in the Rogers Group of Companies. But if you prefer otherwise, we provide clear and easy ways for you to tell us so. These are your personal marketing preferences.  
+Back to top
 
-12\. Customers that wish to: 
+_**How can I change my marketing preferences?**_  
+To access and change your marketing preferences, please [click here](http://www.rogersmedia.com/contact-information) for a list of Rogers Media properties and links to their respective customer account logins.  
+Back to top
 
-\- obtain more information about Rogers Commitment to Privacy;   
-\- access, or obtain more information about, their personal information held by Rogers; or   
-\- make a privacy-related complaint;   
-\- To meet legal and regulatory requirements; and 
+_**How can I change or update my e-mail newsletter subscriptions?**_  
+We have many e-mail newsletters for you to choose from and realize your preferences may change over time.  To review or update your e-mail newsletter subscriptions please [click here](http://www.rogersmedia.com/contact-information) for a list of Rogers Media properties and links to their respective customer account logins.  
+Back to top
 
-may contact a Rogers customer service representative who, if necessary, will refer the customer to the Rogers Privacy Officer. 
+_**Does Rogers Media use telemarketing to sell magazine subscriptions?**_  
+Yes, some consumers find it convenient to be contacted by phone either to start new subscriptions or to renew an existing subscription. The authorized agents who sell new subscriptions are required to make use of the national "Do Not Call" registry to ensure that they do not call the phone numbers of people who have registered. If you are already a subscriber and do not want to receive telemarketing calls, you may add your phone number to our internal Do Not Call list by sending your request to:   
+For Consumer Publications - [webmedia@rci.rogers.com](mailto:webmedia@rci.rogers.com)   
+For Business Publications - [bppgservice@rci.rogers.com](mailto:bppgservice@rci.rogers.com)   
+You can get more information about the national "Do Not Call" registry here <http://www.crtc.gc.ca/eng/INFO_SHT/t1031.htm>.  
+Back to top
 
-13\. The Office of the Privacy Commissioner of Canada oversees Rogers' personal information handling practices. If your privacy concerns are not addressed to your satisfaction by Rogers you may contact the Office of the Privacy Commissioner of Canada for further guidance: 
+_**What about personalized ads in magazines?**_  
+Occasionally an advertiser may ask that we print the name of subscribers on their advertisement in our publications. When this is done, the subscriber's name is printed on the ad at the same time that the mailing label is printed on the cover of the magazine. The subscriber's name appears only in their personal copy of the magazine. If you would prefer not have your name included in such advertisements, please [click here](https://customer.rogersmagazineservice.com/app/) for a list of Rogers Media properties and links to their respective customer account logins.  
+Please note 'Do Not Personalize' is not applicable to business magazines.
 
-By Phone: 1-800-282-1376 or 613-995-8210  
-By Fax: 613-947-6850   
-By E-mail: [info@privcom.gc.ca](mailto:info@privcom.gc.ca)   
-Website: [www.privcom.gc.ca ](http://www.privcom.gc.ca/)
+_**How does Rogers Media protect the privacy of children?**_  
+The privacy of children is important to us. We will not knowingly send direct mailings, e-mail or other correspondence to anyone who indicates that they are younger than 16 years old. Your children should always ask you for permission before sending personal information to Rogers Media or to anyone else. Any personal information we gather about children under the age of 16 would be used solely for demographic purposes. Access to some of our websites may be prohibited to children under a certain age as specified in the website's Terms of Service. Rogers Media cannot verify the validity of persons claiming to be age-eligible to access such websites.  
+Back to top
 
-**How to Contact Rogers**
+**__I'm registering on one of your websites for the first time, but my name is here already. How?**  
+Some Rogers Media websites may share online registration services. Any information you provide while registering for a website is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media website, the associated information will be retrieved, so you don't have to re-enter it.  
+Back to top
 
-**Customers of Rogers Cable and Rogers Wireless**  
-Customers can have their account marked "Do Not Contact" by visiting Rogers On-line Self Service at [www.rogers.com](http://www.rogers.com/) and selecting "Manage My Marketing Permissions" under "Your On-line Profile" or [click here to opt-out](https://www.shoprogers.com/newsletter/opt_out.asp). Alternatively, you can contact a Rogers' customer service representative at 1-888-899-1188. 
+**__Do Rogers Media websites use cookies?**  
+Yes, Rogers Media websites use cookies. A cookie is set when you register on our websites.  
+A cookie is a small text file sent to your internet browser's files for our reference. No one else can read this file. Cookies allow our server computer to recognize your computer when you return to our websites, so you don't have to re-register and so we can retain any preferences you may have given us. If you do not wish to receive cookies, most browsers allow you to be alerted when a cookie is sent to your computer, so you can decide whether to accept it.  
+Back to top
 
-**Subscribers to Rogers Media consumer magazines**  
-Notices about "Subscriber Services" that appear in each consumer magazine explain how to change your "Mail Preference" for receiving mailings from other organizations. To have your mailing address excluded from mailings by other organizations, provide your subscriber information in one of the following ways: 
+**__Do Rogers Media websites record information about my computer or my visit?**  
+Rogers Media collects IP addresses and related information for the purposes of system administration and to create aggregate statistical reports for advertisers. This information cannot identify you personally.  
+Browser information (i.e. the URL of the webpage you were just on, the IP address of the computer you are using, your domain type, and your browser version) is automatically recorded as part of transmitting information over the Internet. We may use it to help us display information in the best format for you.  
+We may develop summary reports for advertisers, to help them better understand our audience and provide advertisements that are more likely to be of interest to you. For example, we may report total number of visitors to our website in general or to specific webpages, average length of visit, etc. No identifying data about individuals is reported.  
+During your visit to our websites, we may record choices you have made and use this to provide more customized content or advertising. The data does not identify you and is not retained after your visit. This is sometimes called "clickstream" data.  
+We may use other industry standard technologies like pixel tags and web beacons to track your use of our websites and promotions, or we may allow our affiliates and third party service providers to use these devices on our behalf.  Pixel tags and web beacons are tiny graphic images placed on certain pages on our websites, or in our emails that allow us to determine whether you have performed a specific action.   When you access these pages or open or click an email, pixel tags and web beacons generate a notice of that action.  Pixel tags allow us to measure and improve our understanding of visitor traffic and behaviour on our websites, as well as give us a way to measure the effectiveness of our promotions and performance.  
+Back to top
 
-**By E-mail:** [rmpublishing@indas.ca ](mailto:rmpublishing@indas.ca)
+**__How does Rogers Media advertise on its website?**  
+The ads appearing on many of the Rogers Media websites are delivered to you using online advertising networks. Information about your visits to this website, such as number of times you have viewed an ad or visits to certain pages of Rogers Media websites (but not your name, address, e-mail address or other personal information) is used to serve ads to you. The ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on Rogers Media websites or through affiliate advertising network providers. Web beacons utilize JavaScript code and write information to cookies, which are small files on your computers.  If you do not want a cookie to be written, simply change the setting in your browser.  For more information and how to "opt-out" from ad network providers' cookies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).  
+Back to top
 
-**By Mail:** Privacy Request   
-Magazine Subscriber Services   
-Box 860   
-Markham , ON   
-L3P 8H8   
-**By Phone:** ((905) 946-0084   
-**By Fax:** (905) 946-1679 
+**__What about information on public forums?**  
+Rogers Media websites may make chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
+Back to top
 
-**Registered users of Rogers Media web sites and e-mail newsletters**   
-You can update your "Marketing Permissions" by establishing a user profile. From the web site, click on "Register" to establish a profile or on "Login" to update your permissions.
+**__What steps do you take for the security of my information?**  
+Our websites use industry-standard security measures to protect data against loss, misuse and interception by third parties. Our security policies are periodically reviewed and enhanced as necessary. However, Rogers Media assumes no liability for interception, alteration or misuse of information transmitted over the Internet.  
+Back to top
+
+**__How else can I protect my privacy online?**  
+Generally speaking, whenever you disclose personal information online there is a risk that the information may be intercepted, collected and used. That goes for information disclosed on message boards, in chat areas - or even in e-mail. The Rogers Group of Companies is not responsible if that information is intercepted. You transmit information at your own risk.  
+Co-branded websites and third party websites and services may be accessible through Rogers Media websites. Third parties may collect information for their own contests or promotions, and may have their own privacy and data collection practices. The Rogers Group of Companies is not responsible for and bears no liability for these policies or actions.  
+You alone are responsible for keeping passwords and information safe. Be careful and responsible whenever you're online.  
+Back to top
+
+**__What happens to information I provide on a contest entry?**  
+Rogers Media uses a variety of contests and similar promotions to increase awareness of our products and services. We generally request contact information so that we can notify you if you are a prize winner. As well, in some cases we may contact contest entrants with product information. Contest entries generally include a way for you to indicate that you do not want to be contacted based on the information on your entry. Because contests may involve co-sponsors outside Rogers Group of Companies who have their own privacy practices, it is always advisable to read the entry form and contest rules before entering.  
+Back to top
+
+**__Are there other ways my information will be used?**  
+Rogers Media may also use or disclose your personal information when we believe in good faith that the law requires it or under circumstances specifically described to you when we collect the information (such as in a Terms of Service or Use agreement).  
+Back to top
+
+* * *
+
+**Contact Us**
+
+**General Inquiries**  
+If you have any questions about these Rogers Media Privacy FAQs, the privacy practices of our web sites, or your dealings with us, please contact: 
+
+**Rogers Media Web Customer Care**  
+One Mount Pleasant Road, 8th Floor  
+Toronto, ON M4Y 2Y5  
+[webmedia@rci.rogers.com](mailto:webmedia@rci.rogers.com)
+
+**Privacy Policy Inquiries**  
+For information about the Rogers Group of Companies' Commitment to Privacy, please contact:  
+Chief Privacy Officer  
+Rogers Communications Partnership  
+333 Bloor Street East  
+Toronto, ON M4W 1G9
+
+**Office of the Privacy Commissioner of Canada**  
+The Office of the Privacy Commissioner of Canada oversees our personal information handling practices.  If any privacy concerns are not addressed to your satisfaction you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+
+Back to top
