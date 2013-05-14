@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230162400id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514141304id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Find Best Prices and Seats - FanSnap
 
@@ -90,7 +90,7 @@ If you decide that you are no longer interested in receiving communications from
 
 
 
-You also may permanently close your FanSnap account by emailing a request to [privacy@fansnap.com](mailto:privacy@fansnap.com). 
+You also may permanently close your FanSnap account by emailing a request to [legal_notices@nextag.com](mailto:legal_notices@nextag.com). 
 
 #### Cookies
 
@@ -116,10 +116,10 @@ We collect, process, store, disclose and dispose of personal information that fa
 
 #### Contact Us
 
-If you have questions or concerns regarding your privacy or security on the FanSnap Site, feel free to Contact Us by email ([privacy@fansnap.com](mailto:privacy@fansnap.com)) or postal mail at 2955 Campus Dr., Suite 300, San Mateo, CA 94403. 
+If you have questions or concerns regarding your privacy or security on the FanSnap Site, feel free to Contact Us by email ([legal_notices@nextag.com](mailto:legal_notices@nextag.com)) or postal mail at 2955 Campus Dr., Suite 300, San Mateo, CA 94403. 
 
 #### TRUSTe
 
 Nextag, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site (www.fansnap.com) wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at [privacy@fansnap.com](mailto:privacy@fansnap.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact us at [legal_notices@nextag.com](mailto:legal_notices@nextag.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
