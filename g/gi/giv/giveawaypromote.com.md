@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giveawaypromote.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102113617id_/http%3A//www.giveawaypromote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawaypromote.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514131751id_/http%3A//www.giveawaypromote.com/privacy-policy) for the most accurate reproduction.*
 
-# Giveaway Promote | Privacy Policy | Find and list giveaways and giveaway events.
+# Privacy Policy - Giveaway Promote
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
