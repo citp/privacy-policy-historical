@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108220155id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514114308id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Luxury fashion online | STYLEBOP.com
 
@@ -44,13 +44,13 @@ If you wish to have your name and personal data removed from our data base, plea
 
 **E-Mails**
 
-We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20121108220155id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
+We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20130514114308id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
 
 **Registration / Change of Personal Data**
 
 In order to make online shopping faster and easier, you may register at STYLEBOP.com. We will than store your shipping address and billing information so that you do not have to re-enter this information when shopping with us again. You will also be able to check your order status and review your order history. Your registered information will be securely stored with us, and you can view, add, delete, or change your registered information at any time using your email address and your password.
 
-© 2004-2012 STYLEBOP GmbH. All rights reserved.
+© 2004-2013 STYLEBOP GmbH. All rights reserved.
 
 [» download as PDF (Press here to save and print)](https://web.archive.org/grafic/policy.pdf)
 
