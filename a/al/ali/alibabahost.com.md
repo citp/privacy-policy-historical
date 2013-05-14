@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920051650id_/http%3A//alibabahost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514054926id_/http%3A//alibabahost.com/privacy.html) for the most accurate reproduction.*
 
 # Offshore provider | Offshore hosting | Offshore vps | Offshore dedicated
 
@@ -12,4 +12,4 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 **With respect to security:** We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
 
-If you feel that this site is not following its stated information policy, you may contacting us at **support@alibabahost.com.**
+If you feel that this site is not following its stated information policy, you may contacting us at **info@alibabahost.com.**
