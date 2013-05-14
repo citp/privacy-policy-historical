@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218190756id_/http%3A//www.wired2fish.com/Page136/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514100829id_/http%3A//wired2fish.com/privacy-policy-p17348) for the most accurate reproduction.*
 
-# Privacy Policy - Bass fishing tips, online fishing videos and fishing tackle reviews and contests - Wired2Fish
+# Privacy Policy - Wired2Fish
 
-  
 Wired2fish, Inc. (“Wired”), the owner and operator of Wired2Fish.com, appreciates your trust  
 and is committed to respecting your privacy and the security of your personal information. Any  
 information collected at www.wired2fish.com (the “Site”) is used for the express purpose of  
@@ -61,7 +60,7 @@ Site and will maintain copies of the Non-Personal Information and Personal Infor
 of its records. The Non-Personal Information and Personal Information may be transferred,  
 distributed or sold as part of Wired’s assets.
 
-**Children's Privacy Policy**
+ **Children's Privacy Policy**
 
 This section of the Privacy Policy provides Wired’s policy for the collection and use of personal  
 information about children under the Children’s Online Privacy and Protection Act (“COPPA”).
