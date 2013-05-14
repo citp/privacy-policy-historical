@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the heartifb.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014125556id_/http%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartifb.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514181237id_/http%3A//heartifb.com/ifb-privacy-policy) for the most accurate reproduction.*
 
 # IFB Privacy Policy | IFB
+
+[](http://www.bloglovin.com/en/blog/3889463 "Follow Independent Fashion Bloggers on Bloglovin") [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fheartifb.com%2Fifb-privacy-policy%2F&media=http%3A%2F%2Fheartifb.com%2Fwp-content%2Fuploads%2F2012%2F07%2Fproprivacypolicy-seal.gif)
 
 **What information do we collect?**
 
@@ -98,3 +100,5 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act  
 Trust Guard Privacy Requirements
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fheartifb.com%2Fifb-privacy-policy%2F&media=http%3A%2F%2Fheartifb.com%2Fwp-content%2Fuploads%2F2012%2F07%2Fproprivacypolicy-seal.gif) [](http://www.bloglovin.com/en/blog/3889463 "Follow Independent Fashion Bloggers on Bloglovin")
