@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017032407id_/http%3A//blitz.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515000450id_/https%3A//www.blitz.io/privacy) for the most accurate reproduction.*
 
 # Blitz - Privacy
 
-[Blitz](http://blitz.io/)
+[Blitz](https://www.blitz.io/)
 
-  * [Why Blitz](http://blitz.io/why-blitz)
-  * [Services](http://blitz.io/for/performance)
+  * [Why Blitz](https://www.blitz.io/why-blitz)
+  * [Services](https://www.blitz.io/for/performance)
   * [Pricing](https://secure.blitz.io/pricing)
-  * [Customers](http://blitz.io/customers)
-  * [Sign In](https://secure.blitz.io/login)
+  * [Customers](https://www.blitz.io/customers)
+  * [Sign In](https://web.archive.org/login)
 
 
 
 ### Response time
+
+### Required Amount of Credits
+
+This Test Needs  0  out of  0  Credit 
 
 ### Privacy Policy
 
