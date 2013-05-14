@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111170939id_/http%3A//www.teletextholidays.co.uk/Home/Holidays/About/Privacy%2520and%2520Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514113109id_/http%3A//www.teletextholidays.co.uk/Home/Holidays/About/Privacy%2520and%2520Cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy - Teletext Holidays
+# Privacy and Cookies Policy
 
 **Effective from  10 May 2012 **
 
@@ -61,6 +61,7 @@ AWSELB | This cookie used to ensure visitors to the website stay on the same ser
 fbm_1*************9 | This cookie is used to allow the facebook login to the site. | Persistent 4 hours.  
 fbsr_1*************9 | This cookie is used to allow the facebook login to the site. | Persistent 4 hours.  
 P160777 | This cookie establishes the logged in status of the user. | Persistent 1 day.  
+policyAgreement | This cookie is used to gain consent to use cookies during the user journey on the site. | Persistent 6 months.  
 rsi_segs | This Cookie is used to allow Audience Science to store information that can be used to profile users anonymously to engage relevant audiences. | Session expires after 20 minutes of inactivity.  
 SearchCookie | This cookie is used to retain the search values of the searches that the user undertakes on the site. | At end of session.  
 Search_Overseas | This cookie is used to retain the search values of the searches that the user undertakes on the overseas section of the site. | At end of session.  
@@ -123,6 +124,7 @@ Sensic.com | This is a Google AdSense Third party vendor. As such they set cooki
 Smartadserver.com | This cookie is used to serve advertising and deliver and report on ads served on the  website. The cookie also tracks what advertisments the user has seen and how often.  | Persistent 2 years       (NB also Pixel Gif with life of 9 years). | [www.smartadserver.co.uk/privacy-policy](http://www.smartadserver.co.uk/privacy-policy)  
 Tubemogul.com | Cookies are used by Tubemogul to collect, measure and segment user interests from their web behaviour on this and other  websites to deliver interest based online video advertising based on the user's market segment. | Persistent 10 years. | [www.tubemogul.com/company/privacy](http://www.tubemogul.com/company/privacy)  
 Twitter.com |  Twitter use cookies to better understand how you interact with their Services. |  At end of session. | [twitter.com/privacy](http://twitter.com/privacy)  
+Webtrends | Webtrends uses cookies for a variety of purposes such as remembering your preferences, and measuring your activity on Webtrends’ websites. | Persistent 10 years. | [webtrends.com/terms-policies/cookie-policy](http://webtrends.com/terms-policies/cookie-policy)  
 Yieldmanager.com | Ad.yieldmanager.com is a tracking cookie that tracks you across websites, thus recording your user behaviour. | 19/01/2038 | [ad.yieldmanager.com/opt-out](http://ad.yieldmanager.com/opt-out "Google ad and content network privacy policy")  
   
 The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
@@ -149,34 +151,45 @@ ADITION | [www.adition.com](http://www.adition.com/ "www.adition.com")
 AdMotion | [www.admotion.com](http://www.admotion.com/ "www.admotion.com")  
 AdOcean | [www.adoceanglobal.com](http://www.adoceanglobal.com/ "www.adoceanglobal.com")  
 Adrime | [www.adrime.com](http://www.adrime.com/ "www.adrime.com")  
+AdSpirit | [www.adspirit.com](http://www.adspirit.de/ "www.adspirit.com")  
 ADTECH | [www.adtech.com](http://www.adtech.com/ "www.adtech.com")  
 Atlas | [www.atlassolutions.com](http://www.atlassolutions.com/ "www.atlassolutions.com")  
 ATK Media | [www.atk.com/MediaCenter/mediacenter_default.asp](http://www.atk.com/MediaCenter/mediacenter_default.asp)  
-DC Storm | [www.dc-storm.com](http://www.dc-storm.com/ "www.dc-storm.com")  
 Bluestreak | [www.bluestreak.com](http://www.bluestreak.com/ "www.bluestreak.com")  
+Bourne Leisure | [www.bourneleisuresales.co.uk/login.aspx?ReturnUrl=/index.aspx/](https://www.bourneleisuresales.co.uk/login.aspx?ReturnUrl=/index.aspx/)  
 Broadband Enterprises/Vindico | [www.bbe.com](http://www.bbe.com/ "www.bbe.com")  
+Calvin Klein | [media.calvinklein.com/optout.html](http://media.calvinklein.com/optout.html/)  
+Cognitive Match | [www.cognitivematch.com](http://www.cognitivematch.com/ "www.cognitivematch.com")  
 Cossette | [www.cossette.com](http://www.cossette.com/ "www.cossette.com")  
 Digital Control | [www.digital-control.biz/de.html](http://www.digital-control.biz/de.html)  
+Dominos UK | [www.dominos.co.uk/](http://www.dominos.co.uk/)  
 DoubleClick (DFP Small Business not supported, DFP Enterprise is certified individually) | [www.doubleclick.com](http://www.doubleclick.com/ "www.doubleclick.com")  
 ebookers SA | [www.ebookers.com](http://www.ebookers.com/ "www.ebookers.com")  
 e-planning | [www.e-planning.net](http://www.e-planning.net/ "www.e-planning.net")  
 eBay | [www.ebay.com](http://www.ebay.com/ "www.ebay.com")  
 Emediate | [www.emediate.biz](http://www.emediate.biz/ "www.emediate.biz")  
 Eulerian Technologies | [www.eulerian.net](http://www.eulerian.net/ "www.eulerian.net")  
+Exactag | [www.exactag.com](http://www.exactag.com/ "www.exactag.com")  
 Experteer | [www.experteer.de](http://www.experteer.de/ "www.experteer.de")  
 Facilitate Digital | [www.facilitatedigital.com](http://www.facilitatedigital.com/ "www.facilitatedigital.com")  
 Flashtalking | [www.flashtalking.com](http://www.flashtalking.com/ "www.flashtalking.com")  
 gemiusDirectEffect | [www.gemius.pl](http://www.gemius.pl/ "www.gemius.pl")  
+GroovinAds | [www.groovinads.com](http://www.groovinads.com/ "www.groovinads.com")  
 HQ Professional Service | [www.adnet.de](http://www.adnet.de/ "www.adnet.de")  
 iCrossing | [www.icrossing.com](http://www.icrossing.com/ "www.icrossing.com")  
+Mashero GmbH | [www.mashero.com/en](http://www.mashero.com/en/)  
 MediaMind | [www.mediamind.com](http://www.mediamind.com/ "www.mediamind.com")  
 Mediaplex | [www.mediaplex.com](http://www.mediaplex.com/ "www.mediaplex.com")  
+Meetic Partners | [www.meetic-corp.com](http://www.meetic-corp.com/ "www.meetic-corp.com")  
 MetaPeople | [www.metapeople.com](http://www.metapeople.com/ "www.metapeople.com")  
+Neodata Group | [www.neodatagroup.com](http://www.neodatagroup.com/ "www.neodatagroup.com")  
 Newtention | [www.newtention.com](http://www.newtention.com/ "www.newtention.com")  
 Optimum Response | [www.optimumresponse.net](http://www.optimumresponse.net/ "www.optimumresponse.net")  
+Paypal | [www.paypal.com/uk/webapps/mpp/home](https://www.paypal.com/uk/webapps/mpp/home)  
 Quisma Tracker | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
 QuisMatch  | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
 SMART AdServer | [www.smartadserver.com](http://www.smartadserver.com/ "www.smartadserver.com")  
+Synovite | [www.synovite.nl](http://synovite.nl/ "www.synovite.nl")  
 Tassimo | [media.tassimodirect.com](http://media.tassimodirect.com/ "media.tassimodirect.com")  
 TradeDoubler | [www.tradedoubler.com](http://www.tradedoubler.com/ "www.tradedoubler.com")  
 TruEffect | [www.trueffect.com](http://www.trueffect.com/ "www.trueffect.com")  
