@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designtnt.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112140647id_/http%3A//privacy.truste.com/privacy-policy/Design-TNT/certified/7f4a8ea7-7a0d-46f3-9ff6-10c4eb46ee74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtnt.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514191730id_/http%3A//privacy.truste.com/privacy-policy/Design-TNT/certified/7f4a8ea7-7a0d-46f3-9ff6-10c4eb46ee74) for the most accurate reproduction.*
 
 # Welcome to designtnt.com
 
