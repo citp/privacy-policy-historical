@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the host1free.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030110601id_/http%3A//www.host1free.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the host1free.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515003201id_/http%3A//www.host1free.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
