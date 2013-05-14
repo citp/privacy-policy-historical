@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106084748id_/http%3A//www.tamus.edu/offices/communications/reports/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514184339id_/http%3A//www.tamus.edu/offices/communications/reports/privacy) for the most accurate reproduction.*
 
 # Privacy » The Texas A&M University System
 
