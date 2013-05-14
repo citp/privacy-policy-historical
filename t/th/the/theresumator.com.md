@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theresumator.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031191441id_/http%3A//www.theresumator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theresumator.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514153310id_/http%3A//www.theresumator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
