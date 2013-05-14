@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227040946id_/http%3A//www.madisonlogic.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514105154id_/http%3A//madisonlogic.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Madison Logic
 
@@ -55,7 +55,7 @@ Cookies: Madison Logic uses persistent cookies to link Members to their registra
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We use cookies to better tailor our sites to your preferences. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. You can also opt out of having us provide you with custom content on our site by using opting out here.
 
 The use of cookies by our tracking utility company is not covered by our privacy statement.We do not have access or control over these cookies.
 
